@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,791 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,789 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 21 | [HONEY \(Feat\. Crucial Star\)](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 |
 | 22 | [Natural](https://open.spotify.com/track/6NTqjlA3cY297AfumSxm2o) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Natural](https://open.spotify.com/album/23Z11DRgeIQQhsNJWSuxKq) | 3:25 |
 | 23 | [My Ultimate First Love](https://open.spotify.com/track/0CTjpVWIfGtKKrluFFF0Ua) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.4 \[My Ultimate First Love\]](https://open.spotify.com/album/1nUlrJhEFlXlLDWF5DgBpT) | 4:26 |
-| 24 | [Ordinary Love](https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j), [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Ordinary Love](https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE) | 3:52 |
-| 25 | [Actually I Love You](https://open.spotify.com/track/1UCIegzDnHhiMmjNB2BLml) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [Doctor Slump \(Original Television Soundtrack\) Pt.4](https://open.spotify.com/album/4GMSuAqkTBvijLIPSlqR67) | 3:45 |
-| 26 | [FRIEND THE END](https://open.spotify.com/track/1TN8defSgxLPMwtzN7gUbb) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Love.zip](https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX) | 3:08 |
+| 24 | [Actually I Love You](https://open.spotify.com/track/1UCIegzDnHhiMmjNB2BLml) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [Doctor Slump \(Original Television Soundtrack\) Pt.4](https://open.spotify.com/album/4GMSuAqkTBvijLIPSlqR67) | 3:45 |
+| 25 | [FRIEND THE END](https://open.spotify.com/track/1TN8defSgxLPMwtzN7gUbb) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Love.zip](https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX) | 3:08 |
+| 26 | [Ordinary Love](https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j), [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Ordinary Love](https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE) | 3:52 |
 | 27 | [Paint on Spring](https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v) | [Martin Smith](https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd) | [Paint on Spring](https://open.spotify.com/album/3wHPgbPG7fuBktQszASI1I) | 3:52 |
 | 28 | [Even if we fight, can you just remember this? Make eye contact, hold each other's hands, and try not to hurt each other with a low voice and a pretty tone ●](https://open.spotify.com/track/00jNCIdtk5SfowMdqx90kr) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Flower Shop2](https://open.spotify.com/album/00XjiAPksr88CoEMJvc6ua) | 3:18 |
 | 29 | [What's On Your Mind? \(Feat\. UNE\)](https://open.spotify.com/track/5COkVzFpPDKxpVxAClg7WE) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [으네 \(UNE\)](https://open.spotify.com/artist/68WFBxer8AmqVbP2JeIGKW) | [What's On Your Mind? \(Feat\. UNE\)](https://open.spotify.com/album/2nU0j0QE2LU1bomxX3n8Wt) | 2:36 |

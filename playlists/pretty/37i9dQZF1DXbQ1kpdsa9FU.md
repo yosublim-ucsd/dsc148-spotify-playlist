@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 
 > Everyday\. Every time\.  These are the songs you can count on\. Always\. Cover: <a href="spotify:artist:4sdhhi6q1Ez9l5PagQsykC">Katy Nichole</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,320 likes - 75 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,371 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 49 | [The Words I Would Say](https://open.spotify.com/track/0HxKVc6xb4WFhWRDzlj7sS) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [These Simple Truths](https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj) | 3:20 |
 | 50 | [Let It Begin](https://open.spotify.com/track/5GRk64fuIMFDUY6MJ5HpeO) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Let It Begin](https://open.spotify.com/album/5uaE6PEmXaM9qkEknV2qFj) | 4:12 |
 | 51 | [In Awe](https://open.spotify.com/track/053yoApAqzVFYZQUcf60Zv) | [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [One\-Way Conversations](https://open.spotify.com/album/2iB2b6Vw1eOWJc4ZNQPLhW) | 3:38 |
-| 52 | [That Was Then, This Is Now](https://open.spotify.com/track/3ji2WLLlpJmvvSOlAyqB6p) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [That Was Then, This Is Now](https://open.spotify.com/album/1a2cVtWsamtbng2W0mgLPq) | 3:17 |
-| 53 | [If I Got Jesus](https://open.spotify.com/track/4sxYX9ls1zBH7YhhejzsSi) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Ben Fuller](https://open.spotify.com/album/6WqQf3KhrFg6stz7INLpqT) | 3:51 |
+| 52 | [If I Got Jesus](https://open.spotify.com/track/4sxYX9ls1zBH7YhhejzsSi) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Ben Fuller](https://open.spotify.com/album/6WqQf3KhrFg6stz7INLpqT) | 3:51 |
+| 53 | [That Was Then, This Is Now](https://open.spotify.com/track/3ji2WLLlpJmvvSOlAyqB6p) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [That Was Then, This Is Now](https://open.spotify.com/album/1a2cVtWsamtbng2W0mgLPq) | 3:17 |
 | 54 | [All Because of Mercy](https://open.spotify.com/track/1bq21JiVUbQG41ukuhC8MT) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer \(Deluxe\)](https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4) | 3:47 |
 | 55 | [Because He Lives \(Amen\)](https://open.spotify.com/track/4vhKRjmiboAhfunCabpXap) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP) | 3:19 |
 | 56 | [Look At God](https://open.spotify.com/track/1Vpoqhhrf1zO1leCfJkKCz) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Look At God](https://open.spotify.com/album/3M28YujBKpNrnyIt4ssMRK) | 3:39 |

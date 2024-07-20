@@ -2,7 +2,7 @@
 
 ### [This Is Sofía Reyes](https://open.spotify.com/playlist/37i9dQZF1DZ06evO05RikU)
 
-> This is Sofía Reyes\. The essential tracks, all in one playlist.
+> This Is Sofía Reyes\. Los temas esenciales, todos en una lista.
 
 71 songs - 3 hr 39 min
 
@@ -45,11 +45,11 @@
 | [Il tuo profumo](https://open.spotify.com/track/0sqbGUEecNagMilnntIsuZ) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Uebe](https://open.spotify.com/album/6ZWT9vaRmBayZ6wpm7c5Un) | 2:40 | 2023-09-25 |  |
 | [La Bachata](https://open.spotify.com/track/6vsajTbLWyrVPHtYvbX35J) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 2:16 | 2023-09-25 |  |
 | [La Batidora](https://open.spotify.com/track/2e4muS8FH9hY5WY6IqANlA) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 2:36 | 2023-11-10 |  |
-| [Limones](https://open.spotify.com/track/32jT4VCmaCugsi2DxaAcrI) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 2:56 | 2023-09-25 | 2024-07-18 |
+| [Limones](https://open.spotify.com/track/32jT4VCmaCugsi2DxaAcrI) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 2:56 | 2023-09-25 |  |
 | [Llegaste tú \(feat\. Reykon\)](https://open.spotify.com/track/79Bm3DTEYuQsDpUVHbSRsL) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Louder!.](https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8) | 3:45 | 2023-09-25 |  |
 | [Lo siento \(feat\. Sofía Reyes\)](https://open.spotify.com/track/6mvhi5xZsGJeWyf1uyiW0r) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Prisma](https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq) | 3:52 | 2023-09-25 |  |
 | [Luna](https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Luna](https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf) | 2:28 | 2023-09-25 |  |
-| [Mal de Amores](https://open.spotify.com/track/4AzTk75T9EQtHaGNWU3UY5) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:08 | 2023-12-13 |  |
+| [Mal de Amores](https://open.spotify.com/track/4AzTk75T9EQtHaGNWU3UY5) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:08 | 2023-12-13 | 2024-07-20 |
 | [Mal de Amores](https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Mal de Amores](https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW) | 3:08 | 2023-09-25 | 2024-02-09 |
 | [Marte](https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:38 | 2023-09-25 |  |
 | [MILAMORES](https://open.spotify.com/track/38K7p7vJm8rOGUBAZrEyW3) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Gera MX](https://open.spotify.com/artist/6B8Dglh0NsHjLerRBtefG2) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 3:31 | 2023-11-10 |  |

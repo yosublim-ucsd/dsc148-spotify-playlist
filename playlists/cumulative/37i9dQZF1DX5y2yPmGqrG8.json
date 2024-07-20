@@ -1303,6 +1303,24 @@
     },
     {
       "album": {
+        "name": "Big Majestic",
+        "url": "https://open.spotify.com/album/27Edaf6CUyLSiDnXPRDckq"
+      },
+      "artists": [
+        {
+          "name": "Ellen Reid",
+          "url": "https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290250,
+      "name": "Big Majestic",
+      "url": "https://open.spotify.com/track/7ipNQUa48GOa6gDQiXbRry"
+    },
+    {
+      "album": {
         "name": "hands some",
         "url": "https://open.spotify.com/album/5SwzrEmMrRJj4eX4iPIOwz"
       },
@@ -4728,7 +4746,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 160812,
       "name": "Incredible Beetroot",
       "url": "https://open.spotify.com/track/7gXQGGW4xsAwe8MDcXusxc"
@@ -7932,7 +7950,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 525706,
       "name": "Small Hours",
       "url": "https://open.spotify.com/track/1sFh9LmPrsZarW5PqhOFD9"
@@ -9846,7 +9864,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 132732,
       "name": "Ventas Rumba",
       "url": "https://open.spotify.com/track/3DbndqnkP5e4m1o5XMaXvr"

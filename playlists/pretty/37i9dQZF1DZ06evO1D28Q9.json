@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAAAqmB4xQjKY+fYtDXQcrJQ7",
+  "snapshot_id": "ZphbAAAAAAAMsFUlNzhSn1OThcZl5Brn",
   "tracks": [
     {
       "added_at": null,
@@ -227,30 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mundo (Remix)",
-        "url": "https://open.spotify.com/album/2b01sgh392nbjoeQSgKydA"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Dj Nyack",
-          "url": "https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 239530,
-      "name": "Cab\u00f4 - Remix",
-      "url": "https://open.spotify.com/track/6G0XvhgmeRjJVZxN2KAiSt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hip Hop Machine Temporada 2",
         "url": "https://open.spotify.com/album/5H5GGraw2Bn43x6KvaOVRI"
       },
@@ -275,6 +251,30 @@
       "duration_ms": 366409,
       "name": "Pelo Meus Amores",
       "url": "https://open.spotify.com/track/3io3tls450i36TahfFBSSG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mundo (Remix)",
+        "url": "https://open.spotify.com/album/2b01sgh392nbjoeQSgKydA"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Dj Nyack",
+          "url": "https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 239530,
+      "name": "Cab\u00f4 - Remix",
+      "url": "https://open.spotify.com/track/6G0XvhgmeRjJVZxN2KAiSt"
     },
     {
       "added_at": null,
@@ -319,34 +319,6 @@
       "duration_ms": 364682,
       "name": "Elza",
       "url": "https://open.spotify.com/track/303Ggzkhj1cUVhV5BbQL0d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Em Nome do Vento",
-        "url": "https://open.spotify.com/album/6N10FMJ4WvCaYhCVt1fmUE"
-      },
-      "artists": [
-        {
-          "name": "Kivitz",
-          "url": "https://open.spotify.com/artist/7sua8S5Zjhkru2Ma50lfHL"
-        },
-        {
-          "name": "Dona Kelly ao Cubo",
-          "url": "https://open.spotify.com/artist/25NRP4dtD2mSIwAtuh8apL"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 273365,
-      "name": "A Voz",
-      "url": "https://open.spotify.com/track/6iqoDOuXWIIh1eg01gWDba"
     },
     {
       "added_at": null,
@@ -399,6 +371,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Em Nome do Vento",
+        "url": "https://open.spotify.com/album/6N10FMJ4WvCaYhCVt1fmUE"
+      },
+      "artists": [
+        {
+          "name": "Kivitz",
+          "url": "https://open.spotify.com/artist/7sua8S5Zjhkru2Ma50lfHL"
+        },
+        {
+          "name": "Dona Kelly ao Cubo",
+          "url": "https://open.spotify.com/artist/25NRP4dtD2mSIwAtuh8apL"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 273365,
+      "name": "A Voz",
+      "url": "https://open.spotify.com/track/6iqoDOuXWIIh1eg01gWDba"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rimas & Melodias",
         "url": "https://open.spotify.com/album/55K5ih7JhMrNR6YecU84Vb"
       },
@@ -443,6 +443,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mulher MC",
+        "url": "https://open.spotify.com/album/4d1LMcSwAHx9U06d1Kiosh"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Dj Will",
+          "url": "https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX"
+        }
+      ],
+      "duration_ms": 235966,
+      "name": "Mulher MC",
+      "url": "https://open.spotify.com/track/1T50N1Bgsq9uzPQRQikQoN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coroa de Flores",
         "url": "https://open.spotify.com/album/3dmJmIcejU0YpJrq3EJuIk"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 258656,
       "name": "Coroa de Flores",
       "url": "https://open.spotify.com/track/3p9uy80dCV8Mvwqxk4lnSQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mulher MC",
-        "url": "https://open.spotify.com/album/4d1LMcSwAHx9U06d1Kiosh"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Dj Will",
-          "url": "https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX"
-        }
-      ],
-      "duration_ms": 235966,
-      "name": "Mulher MC",
-      "url": "https://open.spotify.com/track/1T50N1Bgsq9uzPQRQikQoN"
     },
     {
       "added_at": null,

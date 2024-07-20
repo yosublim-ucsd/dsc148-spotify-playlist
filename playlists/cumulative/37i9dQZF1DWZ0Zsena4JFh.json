@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "Un parque de diversiones para gustos inconformes y sofisticados. Clairo en portada.",
+  "description": "Un parque de diversiones para gustos inconformes y sofisticados. Michael Kiwanuka en portada.",
   "name": "Indielandia",
   "tracks": [
     {
@@ -218,7 +218,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 249413,
       "name": "Al Borde del Infinito",
       "url": "https://open.spotify.com/track/3dQtpFYJ8FlwxWFov1jXYq"
@@ -334,7 +334,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 176000,
       "name": "Anyone But You",
       "url": "https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c"
@@ -454,6 +454,24 @@
       "duration_ms": 150824,
       "name": "Bad Love",
       "url": "https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE"
+    },
+    {
+      "album": {
+        "name": "Nothing Happens (5th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3GbofUquULdgvfmK83AXVz"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188360,
+      "name": "Bad Remake",
+      "url": "https://open.spotify.com/track/5UH4N852wbIVUcMfPGquu1"
     },
     {
       "album": {
@@ -969,6 +987,24 @@
     },
     {
       "album": {
+        "name": "Coast",
+        "url": "https://open.spotify.com/album/5I1AuEqWDLOdzS639w6lIZ"
+      },
+      "artists": [
+        {
+          "name": "Kim Deal",
+          "url": "https://open.spotify.com/artist/4JzQKxgdLmyqbplHxVL8xY"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208482,
+      "name": "Coast",
+      "url": "https://open.spotify.com/track/0qEDCvj7wCt5AAMusRcgFf"
+    },
+    {
+      "album": {
         "name": "Cocoon",
         "url": "https://open.spotify.com/album/3lrZiTjmoBOseURTwpz0jn"
       },
@@ -1356,6 +1392,24 @@
       "duration_ms": 260350,
       "name": "Down With A Fight",
       "url": "https://open.spotify.com/track/68x3MMBIUzb7gdf2VGpFsv"
+    },
+    {
+      "album": {
+        "name": "Drivin'",
+        "url": "https://open.spotify.com/album/67ZGAMyret2ZCdHzq0axeX"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197997,
+      "name": "Drivin'",
+      "url": "https://open.spotify.com/track/2xLCfxnW0HxrNpkFNtin7d"
     },
     {
       "album": {
@@ -1960,7 +2014,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 275613,
       "name": "Good Intentions",
       "url": "https://open.spotify.com/track/0IbV0zUhQ3dzYMwACbZ8sW"
@@ -2224,7 +2278,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 328993,
       "name": "Hung The Moon",
       "url": "https://open.spotify.com/track/21MvPaoP3lEZ8JlULq50Cv"
@@ -2936,6 +2990,24 @@
       "duration_ms": 310094,
       "name": "Melody Experiment",
       "url": "https://open.spotify.com/track/3cVEXHZ2G8tJMGoYff4B3q"
+    },
+    {
+      "album": {
+        "name": "MIRADA",
+        "url": "https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167522,
+      "name": "Mirada",
+      "url": "https://open.spotify.com/track/0tXFWZC3ZF44vgi0h2o4iI"
     },
     {
       "album": {
@@ -3911,6 +3983,24 @@
     },
     {
       "album": {
+        "name": "I Love You So F***ing Much",
+        "url": "https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255636,
+      "name": "Show Pony",
+      "url": "https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO"
+    },
+    {
+      "album": {
         "name": "shutting me out / goo lagoon",
         "url": "https://open.spotify.com/album/4WJsVZksTyP64i6fsH9Ocq"
       },
@@ -3980,7 +4070,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 165653,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/5Y1JLn2xFudNJolHkvoTXk"
@@ -4543,6 +4633,42 @@
     },
     {
       "album": {
+        "name": "the warmth",
+        "url": "https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270934,
+      "name": "the warmth",
+      "url": "https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe"
+    },
+    {
+      "album": {
+        "name": "The World Above",
+        "url": "https://open.spotify.com/album/7e4uwIr9ceGWZH1HtE9NCO"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212608,
+      "name": "The World Above",
+      "url": "https://open.spotify.com/track/2IHOfg0T2tEO3iQ1aYvZA1"
+    },
+    {
+      "album": {
         "name": "Things will be fine (Bratty Remix)",
         "url": "https://open.spotify.com/album/5ibxjOZ4u3mPv6V23h7nB1"
       },
@@ -4594,7 +4720,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 260407,
       "name": "Thrown Around",
       "url": "https://open.spotify.com/track/6hEiEWEgAuFvEJduuSQLiw"
@@ -4988,7 +5114,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 194862,
       "name": "Where Is My Garden",
       "url": "https://open.spotify.com/track/0wohQ62tQ2jyLY9RcrNaol"

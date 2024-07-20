@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 
 ### [This Is Phil Wickham](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33TpHq)
 
-> This is Phil Wickham\. The essential tracks, all in one playlist.
+> This Is Phil Wickham\. Kaikki olennaiset kappaleet yhdessä soittolistassa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,184 likes - 48 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,197 likes - 48 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 4 | [I Believe](https://open.spotify.com/track/2l20BZOKBc1vNBxfKkJoQ7) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 5:02 |
 | 5 | [Love Of God](https://open.spotify.com/track/2fk1ecKbLniOcWMCWLW9e9) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Love of God](https://open.spotify.com/album/2mV1x3XQGoVD9SfGsHHJFD) | 5:24 |
 | 6 | [Battle Belongs](https://open.spotify.com/track/1KYw86zGpAE1Cvl734nlrT) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:47 |
-| 7 | [Praise You In This Storm \(feat\. Phil Wickham\)](https://open.spotify.com/track/6FW1HQDSZViaX37fyOFL57) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Lifesongs: A Celebration of the First 20 Years](https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8) | 4:33 |
-| 8 | [You Cannot Be Stopped](https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [You Cannot Be Stopped](https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ) | 4:21 |
+| 7 | [You Cannot Be Stopped](https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [You Cannot Be Stopped](https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ) | 4:21 |
+| 8 | [Praise You In This Storm \(feat\. Phil Wickham\)](https://open.spotify.com/track/6FW1HQDSZViaX37fyOFL57) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Lifesongs: A Celebration of the First 20 Years](https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8) | 4:33 |
 | 9 | [This Is Our God](https://open.spotify.com/track/365fchCf6KIm5uEbEGplKz) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:25 |
 | 10 | [Hymn Of Heaven](https://open.spotify.com/track/6UwxHDz7vGUhbDSevNUUcj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:27 |
 | 11 | [SUNDAY IS COMING • HOMETOWN VERSION](https://open.spotify.com/track/1inZzpzA51IyzocVOJONsW) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 5:23 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 15 | [The Secret Place \- Acoustic](https://open.spotify.com/track/1ZwyRRW5zGjt9gGOwSO5YM) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 4:43 |
 | 16 | [Reason I Sing \- Acoustic](https://open.spotify.com/track/43OioCdtXLa0YuS8tgBGAY) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven \(Acoustic Sessions\)](https://open.spotify.com/album/2vo5O7TN9M2ukYs8ZmTNqj) | 4:32 |
 | 17 | [Psalm 23](https://open.spotify.com/track/2ZUpGGamEJbx8DBxGMkzcl) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:34 |
-| 18 | [HOMETOWN](https://open.spotify.com/track/4KfMNFyPTPyoh0r0cGSw1a) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 4:20 |
-| 19 | [Your Love Awakens Me](https://open.spotify.com/track/0jdWct4BgFwuZVWAtAg3DL) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 3:53 |
+| 18 | [Your Love Awakens Me](https://open.spotify.com/track/0jdWct4BgFwuZVWAtAg3DL) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 3:53 |
+| 19 | [HOMETOWN](https://open.spotify.com/track/4KfMNFyPTPyoh0r0cGSw1a) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 4:20 |
 | 20 | [Worthy of My Song \(Worthy of It All\)](https://open.spotify.com/track/4YFy1VOf7pV1PF6rSxiz1v) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Worthy of My Song \(Worthy of It All\)](https://open.spotify.com/album/4JVfmmlngccdWTflavCEyu) | 8:26 |
 | 21 | [The Jesus Way](https://open.spotify.com/track/5PVVQO4c7O3OjDhYXUBaoa) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:43 |
 | 22 | [It's Always Been You](https://open.spotify.com/track/5Tc2hNyood20vuKm89NeCf) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:01 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 33 | [Heaven Song](https://open.spotify.com/track/39yNGLlopJa3q3brHLUrlc) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Heaven & Earth](https://open.spotify.com/album/1REUtxsMboujnyPU1laW6v) | 4:04 |
 | 34 | [Here with Me \- Acoustic](https://open.spotify.com/track/0gunBydvSCEozLvcukTqQa) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 4:15 |
 | 35 | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/track/6B7ptdnKOpm4I4hPXkZWQs) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 4:14 |
-| 36 | [Living Hope](https://open.spotify.com/track/1Zm86n2tQ7o5gKgdhqAHjY) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Peace, Vol\. II](https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p) | 6:20 |
-| 37 | [Christ Is Risen](https://open.spotify.com/track/27NoSqxy4e3idBQMObWCjh) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 5:10 |
-| 38 | [My All in All](https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 4:49 |
+| 36 | [Christ Is Risen](https://open.spotify.com/track/27NoSqxy4e3idBQMObWCjh) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 5:10 |
+| 37 | [My All in All](https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 4:49 |
+| 38 | [Living Hope](https://open.spotify.com/track/1Zm86n2tQ7o5gKgdhqAHjY) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Peace, Vol\. II](https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p) | 6:20 |
 | 39 | [ISN'T HE GOOD • HOMETOWN VERSION](https://open.spotify.com/track/1GAFOmypjsOrqP95SXPKxc) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 3:47 |
 | 40 | [At the Foot of the Cross \- Acoustic](https://open.spotify.com/track/59dF79fypzaMFZYJCCPJbl) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 3:59 |
 | 41 | [Worthy Of My Song](https://open.spotify.com/track/5VYr4jdVKLv84Ekcv6tCiA) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Worthy Of My Song](https://open.spotify.com/album/16fFn81XGGaucqyWowE7QS) | 6:11 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 47 | [How Great Is Your Love](https://open.spotify.com/track/1bXgMtdwYuFAPApWxGbS17) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope \(The House Sessions\)](https://open.spotify.com/album/0L6S4hhgpSsy59QmMKUnvS) | 6:34 |
 | 48 | [This Is the Day](https://open.spotify.com/track/3Y7OpOyaKc3uMdFSm1Q2zU) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Response](https://open.spotify.com/album/1dYRi3bMHjgeW8Ac6DRwN0) | 3:26 |
 
-Snapshot ID: `ZpcJgAAAAADckFmFJr2sfK3kGOtvOl8L`
+Snapshot ID: `ZphbAAAAAABsaZg5D+tIWZ2Og2Tx5I6A`

@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: Hak Baker",
-  "num_followers": 114226,
+  "num_followers": 114230,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-07-12 09:58:55",
       "album": {
-        "name": "Little Chaos",
-        "url": "https://open.spotify.com/album/7xP8WWOKNqBhItpZ2j7OXM"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 174893,
-      "name": "Little Chaos",
-      "url": "https://open.spotify.com/track/2UGWhW5YmrEDUDRB3H1fif"
-    },
-    {
-      "added_at": "2024-07-12 09:58:55",
-      "album": {
         "name": "The Dark Prince (feat. Mac DeMarco)",
         "url": "https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 214356,
       "name": "The Dark Prince (feat. Mac DeMarco)",
       "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
+    },
+    {
+      "added_at": "2024-07-12 09:58:55",
+      "album": {
+        "name": "Little Chaos",
+        "url": "https://open.spotify.com/album/7xP8WWOKNqBhItpZ2j7OXM"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 174893,
+      "name": "Little Chaos",
+      "url": "https://open.spotify.com/track/2UGWhW5YmrEDUDRB3H1fif"
     },
     {
       "added_at": "2024-07-12 09:58:55",
@@ -787,18 +787,18 @@
     {
       "added_at": "2024-07-12 09:58:55",
       "album": {
-        "name": "Voice Of The Voiceless",
-        "url": "https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU"
+        "name": "Call It Love",
+        "url": "https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9"
       },
       "artists": [
         {
-          "name": "JAMIE WEBSTER",
-          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
         }
       ],
-      "duration_ms": 193612,
-      "name": "Voice Of The Voiceless",
-      "url": "https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt"
+      "duration_ms": 182240,
+      "name": "Call It Love - Edit",
+      "url": "https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU"
     },
     {
       "added_at": "2024-07-12 11:43:20",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-07-12 09:58:55",
       "album": {
+        "name": "Voice Of The Voiceless",
+        "url": "https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU"
+      },
+      "artists": [
+        {
+          "name": "JAMIE WEBSTER",
+          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
+        }
+      ],
+      "duration_ms": 193612,
+      "name": "Voice Of The Voiceless",
+      "url": "https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt"
+    },
+    {
+      "added_at": "2024-07-12 09:58:55",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 149443,
       "name": "Daisy - Spotify Singles",
       "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
-    },
-    {
-      "added_at": "2024-07-12 09:58:55",
-      "album": {
-        "name": "Call It Love",
-        "url": "https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 182240,
-      "name": "Call It Love - Edit",
-      "url": "https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU"
     },
     {
       "added_at": "2024-07-12 09:58:55",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-07-12 09:58:55",
       "album": {
+        "name": "Lie 95",
+        "url": "https://open.spotify.com/album/7bgvD3tFUHpcDk8m2l932P"
+      },
+      "artists": [
+        {
+          "name": "Bartees Strange",
+          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
+        }
+      ],
+      "duration_ms": 161555,
+      "name": "Lie 95",
+      "url": "https://open.spotify.com/track/0QsyCIEVXMXMfh8h5DHwZy"
+    },
+    {
+      "added_at": "2024-07-12 09:58:55",
+      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 152993,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ"
-    },
-    {
-      "added_at": "2024-07-12 09:58:55",
-      "album": {
-        "name": "Kiss Ur Face Forever",
-        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 166556,
-      "name": "Kiss Ur Face Forever",
-      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
     },
     {
       "added_at": "2024-07-12 09:58:55",
@@ -1043,34 +1043,18 @@
     {
       "added_at": "2024-07-12 09:58:55",
       "album": {
-        "name": "24 hours",
-        "url": "https://open.spotify.com/album/7CeRRQTS5yD21SnqYoIsu2"
+        "name": "Kiss Ur Face Forever",
+        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
       },
       "artists": [
         {
-          "name": "Chloe Slater",
-          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 220000,
-      "name": "24 hours",
-      "url": "https://open.spotify.com/track/7j0XR8mdPg6tlbvPd2DUQO"
-    },
-    {
-      "added_at": "2024-07-12 09:58:55",
-      "album": {
-        "name": "Lie 95",
-        "url": "https://open.spotify.com/album/7bgvD3tFUHpcDk8m2l932P"
-      },
-      "artists": [
-        {
-          "name": "Bartees Strange",
-          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
-        }
-      ],
-      "duration_ms": 161555,
-      "name": "Lie 95",
-      "url": "https://open.spotify.com/track/0QsyCIEVXMXMfh8h5DHwZy"
+      "duration_ms": 166556,
+      "name": "Kiss Ur Face Forever",
+      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
     },
     {
       "added_at": "2024-07-12 09:58:55",
@@ -1087,6 +1071,22 @@
       "duration_ms": 136435,
       "name": "Follow You Down",
       "url": "https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA"
+    },
+    {
+      "added_at": "2024-07-12 09:58:55",
+      "album": {
+        "name": "24 hours",
+        "url": "https://open.spotify.com/album/7CeRRQTS5yD21SnqYoIsu2"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "24 hours",
+      "url": "https://open.spotify.com/track/7j0XR8mdPg6tlbvPd2DUQO"
     },
     {
       "added_at": "2024-07-12 09:58:55",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-07-12 09:58:55",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P"
-    },
-    {
-      "added_at": "2024-07-12 09:58:55",
-      "album": {
         "name": "angel in realtime.",
         "url": "https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 238653,
       "name": "the angel of 8th ave.",
       "url": "https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru"
+    },
+    {
+      "added_at": "2024-07-12 09:58:55",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P"
     },
     {
       "added_at": "2024-07-12 09:58:55",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-07-12 09:58:55",
       "album": {
-        "name": "Care",
-        "url": "https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg"
-      },
-      "artists": [
-        {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
-        }
-      ],
-      "duration_ms": 277815,
-      "name": "Care",
-      "url": "https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi"
-    },
-    {
-      "added_at": "2024-07-12 09:58:55",
-      "album": {
         "name": "Struggle",
         "url": "https://open.spotify.com/album/2KLdHxRwNcsbUDN6RKRpG0"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 204407,
       "name": "Struggle - Single Version",
       "url": "https://open.spotify.com/track/0WPEciMQX7UJTSUc9f8rHG"
+    },
+    {
+      "added_at": "2024-07-12 09:58:55",
+      "album": {
+        "name": "Care",
+        "url": "https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "duration_ms": 277815,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi"
     },
     {
       "added_at": "2024-07-12 09:58:55",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-07-12 09:58:55",
       "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/5rV3o00UyA3MBnwPEpvmiC"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 180663,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/2oh6OHvQ8BmsxzTthpuz7b"
-    },
-    {
-      "added_at": "2024-07-12 09:58:55",
-      "album": {
         "name": "Nothing Works",
         "url": "https://open.spotify.com/album/1sCqnv4MOA14uruTb88BFq"
       },
@@ -1287,18 +1271,34 @@
     {
       "added_at": "2024-07-12 09:58:55",
       "album": {
-        "name": "A Psychic Wound",
-        "url": "https://open.spotify.com/album/50Xdk6vtfqe5g6o3VCop3Z"
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/5rV3o00UyA3MBnwPEpvmiC"
       },
       "artists": [
         {
-          "name": "Los Campesinos!",
-          "url": "https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E"
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
         }
       ],
-      "duration_ms": 241694,
-      "name": "A Psychic Wound",
-      "url": "https://open.spotify.com/track/7DrorFVqKrul2KtTtqatEm"
+      "duration_ms": 180663,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/2oh6OHvQ8BmsxzTthpuz7b"
+    },
+    {
+      "added_at": "2024-07-12 09:58:55",
+      "album": {
+        "name": "This Could Be Texas",
+        "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
+      },
+      "artists": [
+        {
+          "name": "English Teacher",
+          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
+        }
+      ],
+      "duration_ms": 228122,
+      "name": "I\u2019m Not Crying, You\u2019re Crying",
+      "url": "https://open.spotify.com/track/1y7Z0cDqFWRJ9RS70ecEXM"
     }
   ],
   "unique_name": "pulp",

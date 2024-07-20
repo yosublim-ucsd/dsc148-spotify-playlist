@@ -4,14 +4,14 @@
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-113 songs - 6 hr 27 min
+114 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [40 Graus](https://open.spotify.com/track/1XHJzC9TKXgbrMk3KFc9tj) | [Igor Borborema](https://open.spotify.com/artist/1y9uZNOkz8wDHfjCqi22D2), [Khouri](https://open.spotify.com/artist/41gBrGxvxCloe8iijf1iDQ), [Menestrel Republicano](https://open.spotify.com/artist/2chZH9QmVHdoiDyKQSNXZ8) | [40 Graus](https://open.spotify.com/album/423mOe8bfFnYPyoZjyIp56) | 3:06 | 2023-07-03 | 2024-02-24 |
 | [Abre a Janela](https://open.spotify.com/track/1BpohBNMRmbD2mbm1Z0PBZ) | [Maresia Ragga Surf](https://open.spotify.com/artist/7N2LChaHcTgIP5jCPT6TGx) | [Abre a Janela](https://open.spotify.com/album/4DNJ8zWxSi0LQEPZ0RD3os) | 4:42 | 2023-07-03 |  |
 | [Acordei Bem Cedo](https://open.spotify.com/track/0kXMyDlaPHsMJPLug6LZpI) | [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Mc Kanhoto](https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA), [MC Murilo MT](https://open.spotify.com/artist/0KelBuBLAY4mPbrEdNtzlP) | [Acordei Bem Cedo](https://open.spotify.com/album/67TrPKnENDevc0cq8FEfm5) | 6:17 | 2023-09-15 |  |
-| [Acordo Cedo](https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2) | [Acordo Cedo](https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB) | 2:05 | 2024-04-12 |  |
+| [Acordo Cedo](https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2) | [Acordo Cedo](https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB) | 2:05 | 2024-04-12 | 2024-07-20 |
 | [Amor Bandido](https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Arcano 19](https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP) | 4:04 | 2023-07-03 | 2024-01-27 |
 | [Andei Só](https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Andei Só](https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd) | 5:57 | 2024-01-12 |  |
 | [Avenida da Paixão](https://open.spotify.com/track/6G0KUN8I6R0xN9M2jmDlNX) | [Pagui](https://open.spotify.com/artist/7bSkVdJAG3faHcw3lnBK7y) | [Avenida da Paixão](https://open.spotify.com/album/4k7qkWs4sfeJc4cl628ynJ) | 2:32 | 2023-08-04 |  |
@@ -67,6 +67,7 @@
 | [O Mundo Diz Que Não](https://open.spotify.com/track/4fGBndf26VOuEwcrQ7Cd7u) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [O Mundo Diz Que Não](https://open.spotify.com/album/7kZ5JyVWYTLnCt0nwvs3Gi) | 3:13 | 2024-04-26 |  |
 | [O Que a Levada Pede](https://open.spotify.com/track/4QIYe2KUsCseRCK2WDOGym) | [Vitin](https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL) | [O Que a Levada Pede](https://open.spotify.com/album/4p3tg1AsZkO9DlpmAOTThg) | 2:07 | 2024-02-23 | 2024-03-09 |
 | [O Que te Faz Viver](https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS) | [Kallibre](https://open.spotify.com/artist/6ko7vi5bpxvolJ9g47pve7) | [O Que te Faz Viver](https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr) | 3:50 | 2023-07-03 |  |
+| [O que é teu te encontra](https://open.spotify.com/track/66fooxtrQgWTwuQwEAc7MX) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [O que é teu te encontra](https://open.spotify.com/album/7K4f3QNa01fIlvh7vaC2dn) | 2:31 | 2024-07-19 |  |
 | [Our Love](https://open.spotify.com/track/1unAQNaxmur5SxDEHJvqNL) | [Voraz](https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb) | [Our Love](https://open.spotify.com/album/1GhDBChURERKoa0hIcJkIf) | 2:44 | 2024-03-08 |  |
 | [Pedra Preciosa](https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Pedra Preciosa](https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY) | 3:24 | 2024-02-23 |  |
 | [pequena \- Ao Vivo](https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q) | 2:54 | 2023-07-03 |  |

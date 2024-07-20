@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAAAhfv4ND5S9kyk+eb23sE0z",
+  "snapshot_id": "ZphbAAAAAAC4iqutV+XPwWA+eDMFdjW7",
   "tracks": [
     {
       "added_at": null,
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Minha Vida",
-        "url": "https://open.spotify.com/album/6ILfnzEyoEa8QYwq1W5Yav"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 165216,
-      "name": "Minha Vida",
-      "url": "https://open.spotify.com/track/1Z6GxhNhlDVZvaK9D4d7dc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rua do Ouro",
         "url": "https://open.spotify.com/album/7gM14u4cfMbL25IQTNPmPZ"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 151384,
       "name": "Rua do Ouro",
       "url": "https://open.spotify.com/track/0jIpirkyh4eJenGg28djsm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Minha Vida",
+        "url": "https://open.spotify.com/album/6ILfnzEyoEa8QYwq1W5Yav"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 165216,
+      "name": "Minha Vida",
+      "url": "https://open.spotify.com/track/1Z6GxhNhlDVZvaK9D4d7dc"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Papo 10",
-        "url": "https://open.spotify.com/album/0QaSKRQmdSlq97XMBzvbUs"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "VINT",
-          "url": "https://open.spotify.com/artist/6KjG5ZIQ6aiu2i0cKGqzJ7"
-        }
-      ],
-      "duration_ms": 153545,
-      "name": "Papo 10",
-      "url": "https://open.spotify.com/track/57yAaWATgSEWKDb1Dh0nAB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Juma",
         "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 156500,
       "name": "Sem Calcinha",
       "url": "https://open.spotify.com/track/4Itnhb3PoldsFK4kgu7RNw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Papo 10",
+        "url": "https://open.spotify.com/album/0QaSKRQmdSlq97XMBzvbUs"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "VINT",
+          "url": "https://open.spotify.com/artist/6KjG5ZIQ6aiu2i0cKGqzJ7"
+        }
+      ],
+      "duration_ms": 153545,
+      "name": "Papo 10",
+      "url": "https://open.spotify.com/track/57yAaWATgSEWKDb1Dh0nAB"
     },
     {
       "added_at": null,
@@ -979,6 +979,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ta na Hora",
+        "url": "https://open.spotify.com/album/32wuBDeLvsJ1pvwmUmardT"
+      },
+      "artists": [
+        {
+          "name": "MC Saci",
+          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Mc Menor DN",
+          "url": "https://open.spotify.com/artist/2FJjf1qmmogfQyqLKjbPML"
+        },
+        {
+          "name": "Complexo dos Hits",
+          "url": "https://open.spotify.com/artist/3ymF57lFWXJswhYvjC9O6G"
+        },
+        {
+          "name": "DJ DIDI",
+          "url": "https://open.spotify.com/artist/1cLuhjj5kHz8fabsZllDWJ"
+        },
+        {
+          "name": "DJ JOAO DA INESTAN",
+          "url": "https://open.spotify.com/artist/1K3wppIvsUK99HODkiNgeu"
+        }
+      ],
+      "duration_ms": 202007,
+      "name": "Ta na Hora",
+      "url": "https://open.spotify.com/track/3c5YDO4ZMp0jwUcTq8PzTs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mete Mac Vol 1",
         "url": "https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er"
       },
@@ -995,6 +1031,30 @@
       "duration_ms": 224500,
       "name": "Olha Beb\u00ea",
       "url": "https://open.spotify.com/track/3MieTvQzwXlljej28RVFmC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clap Clap",
+        "url": "https://open.spotify.com/album/0GsnPOdNKpo7VnjYEVME6D"
+      },
+      "artists": [
+        {
+          "name": "Dj Hugo CS",
+          "url": "https://open.spotify.com/artist/3wXK40a3UnsuyRARbF44QA"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "DAL\u00c3MA",
+          "url": "https://open.spotify.com/artist/0dglu68sb1lWf1ACF9uOb6"
+        }
+      ],
+      "duration_ms": 122307,
+      "name": "Clap Clap",
+      "url": "https://open.spotify.com/track/6KgcAydMahma6e6lGjsc66"
     },
     {
       "added_at": null,
@@ -1047,66 +1107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clap Clap",
-        "url": "https://open.spotify.com/album/0GsnPOdNKpo7VnjYEVME6D"
-      },
-      "artists": [
-        {
-          "name": "Dj Hugo CS",
-          "url": "https://open.spotify.com/artist/3wXK40a3UnsuyRARbF44QA"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "DAL\u00c3MA",
-          "url": "https://open.spotify.com/artist/0dglu68sb1lWf1ACF9uOb6"
-        }
-      ],
-      "duration_ms": 122307,
-      "name": "Clap Clap",
-      "url": "https://open.spotify.com/track/6KgcAydMahma6e6lGjsc66"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ta na Hora",
-        "url": "https://open.spotify.com/album/32wuBDeLvsJ1pvwmUmardT"
-      },
-      "artists": [
-        {
-          "name": "MC Saci",
-          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Mc Menor DN",
-          "url": "https://open.spotify.com/artist/2FJjf1qmmogfQyqLKjbPML"
-        },
-        {
-          "name": "Complexo dos Hits",
-          "url": "https://open.spotify.com/artist/3ymF57lFWXJswhYvjC9O6G"
-        },
-        {
-          "name": "DJ DIDI",
-          "url": "https://open.spotify.com/artist/1cLuhjj5kHz8fabsZllDWJ"
-        },
-        {
-          "name": "DJ JOAO DA INESTAN",
-          "url": "https://open.spotify.com/artist/1K3wppIvsUK99HODkiNgeu"
-        }
-      ],
-      "duration_ms": 202007,
-      "name": "Ta na Hora",
-      "url": "https://open.spotify.com/track/3c5YDO4ZMp0jwUcTq8PzTs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mete Mac Vol 1",
         "url": "https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er"
       },
@@ -1119,26 +1119,6 @@
       "duration_ms": 116000,
       "name": "Para de Brincar Comigo",
       "url": "https://open.spotify.com/track/1XU61okRaI9UxMB3z2O2GQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "$IMBIO$E",
-        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Salto Alto",
-      "url": "https://open.spotify.com/track/5tJm7qkKmiwt2iHZBLR02c"
     },
     {
       "added_at": null,
@@ -1163,6 +1143,26 @@
       "duration_ms": 130212,
       "name": "Macetada Forte",
       "url": "https://open.spotify.com/track/4mLgpSkTXqrFRkdOcMNArR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "$IMBIO$E",
+        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Salto Alto",
+      "url": "https://open.spotify.com/track/5tJm7qkKmiwt2iHZBLR02c"
     },
     {
       "added_at": null,

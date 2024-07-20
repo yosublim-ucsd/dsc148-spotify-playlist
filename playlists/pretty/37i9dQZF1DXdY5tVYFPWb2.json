@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 163781,
+  "num_followers": 163798,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-07-17 06:06:30",
       "album": {
-        "name": "Season",
-        "url": "https://open.spotify.com/album/4Bf2U02MHfbI5QwpdID98M"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "Season",
-      "url": "https://open.spotify.com/track/28H2R5DE6eVKIBBYvGbKRg"
-    },
-    {
-      "added_at": "2024-07-17 06:06:30",
-      "album": {
         "name": "Moonshine",
         "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
       },
@@ -935,18 +919,18 @@
     {
       "added_at": "2024-07-17 06:06:30",
       "album": {
-        "name": "\u30b7\u30e5\u30fc\u30ba\u306f\u8131\u304c\u306a\u3044\u3067",
-        "url": "https://open.spotify.com/album/6oBRsPbalhRy2TmM8TbcyQ"
+        "name": "Season",
+        "url": "https://open.spotify.com/album/4Bf2U02MHfbI5QwpdID98M"
       },
       "artists": [
         {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
         }
       ],
-      "duration_ms": 248924,
-      "name": "\u30b7\u30e5\u30fc\u30ba\u306f\u8131\u304c\u306a\u3044\u3067",
-      "url": "https://open.spotify.com/track/79uQGELJZmGKRB1d6ru7zH"
+      "duration_ms": 208133,
+      "name": "Season",
+      "url": "https://open.spotify.com/track/28H2R5DE6eVKIBBYvGbKRg"
     },
     {
       "added_at": "2024-07-17 06:06:30",
@@ -963,6 +947,22 @@
       "duration_ms": 206533,
       "name": "\u767d\u7121\u57a2",
       "url": "https://open.spotify.com/track/2QzJWdpJOGKwAIyA4anrbo"
+    },
+    {
+      "added_at": "2024-07-17 06:06:30",
+      "album": {
+        "name": "\u30b7\u30e5\u30fc\u30ba\u306f\u8131\u304c\u306a\u3044\u3067",
+        "url": "https://open.spotify.com/album/6oBRsPbalhRy2TmM8TbcyQ"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 248924,
+      "name": "\u30b7\u30e5\u30fc\u30ba\u306f\u8131\u304c\u306a\u3044\u3067",
+      "url": "https://open.spotify.com/track/79uQGELJZmGKRB1d6ru7zH"
     },
     {
       "added_at": "2024-07-17 06:06:30",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-07-17 06:06:30",
       "album": {
+        "name": "Twenty-Twenty",
+        "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 242836,
+      "name": "Twenty-Twenty",
+      "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
+    },
+    {
+      "added_at": "2024-07-17 06:06:30",
+      "album": {
         "name": "Glitter Eyes (feat. mindfreakkk)",
         "url": "https://open.spotify.com/album/19NdL3I9k3u1HhVwSaEa02"
       },
@@ -1055,18 +1071,18 @@
     {
       "added_at": "2024-07-17 06:06:30",
       "album": {
-        "name": "Twenty-Twenty",
-        "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
+        "name": "tonun 2",
+        "url": "https://open.spotify.com/album/4Va4650eo5pMd1lLA8B7uQ"
       },
       "artists": [
         {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
         }
       ],
-      "duration_ms": 242836,
-      "name": "Twenty-Twenty",
-      "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
+      "duration_ms": 205253,
+      "name": "\u7425\u73c0\u8272\u306e\u7d20\u808c",
+      "url": "https://open.spotify.com/track/6uXKnO2VayAfcEFH7NzbhB"
     },
     {
       "added_at": "2024-07-17 06:06:30",
@@ -1099,22 +1115,6 @@
       "duration_ms": 223083,
       "name": "Don't Be Someone Else",
       "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
-    },
-    {
-      "added_at": "2024-07-17 06:06:30",
-      "album": {
-        "name": "tonun 2",
-        "url": "https://open.spotify.com/album/4Va4650eo5pMd1lLA8B7uQ"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 205253,
-      "name": "\u7425\u73c0\u8272\u306e\u7d20\u808c",
-      "url": "https://open.spotify.com/track/6uXKnO2VayAfcEFH7NzbhB"
     },
     {
       "added_at": "2024-07-17 06:06:30",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-07-17 06:06:30",
       "album": {
-        "name": "Rainy Day",
-        "url": "https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu"
-      },
-      "artists": [
-        {
-          "name": "Offo tokyo",
-          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Rainy Day",
-      "url": "https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW"
-    },
-    {
-      "added_at": "2024-07-17 06:06:30",
-      "album": {
         "name": "STEP IT",
         "url": "https://open.spotify.com/album/182oXWmVv3c7aHefOysRiP"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 220000,
       "name": "STEP IT",
       "url": "https://open.spotify.com/track/5yR62lM4XZ726M4ZbWgfeP"
+    },
+    {
+      "added_at": "2024-07-17 06:06:30",
+      "album": {
+        "name": "Rainy Day",
+        "url": "https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu"
+      },
+      "artists": [
+        {
+          "name": "Offo tokyo",
+          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Rainy Day",
+      "url": "https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW"
     },
     {
       "added_at": "2024-07-17 06:06:30",
@@ -1459,18 +1459,22 @@
     {
       "added_at": "2024-07-17 06:06:30",
       "album": {
-        "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
-        "url": "https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk"
+        "name": "\u3075\u305f\u308a\u306eBGM feat. \u571f\u5c90\u9ebb\u5b50",
+        "url": "https://open.spotify.com/album/7jRh5otey2SbFJ6Pzu8SUo"
       },
       "artists": [
         {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+          "name": "GOOD BYE APRIL",
+          "url": "https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38"
+        },
+        {
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
         }
       ],
-      "duration_ms": 249254,
-      "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
-      "url": "https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L"
+      "duration_ms": 234593,
+      "name": "\u3075\u305f\u308a\u306eBGM feat. \u571f\u5c90\u9ebb\u5b50",
+      "url": "https://open.spotify.com/track/2wh07cGkfGVLWxCpSJtafV"
     },
     {
       "added_at": "2024-07-17 06:06:30",
@@ -1487,6 +1491,22 @@
       "duration_ms": 223808,
       "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
       "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
+    },
+    {
+      "added_at": "2024-07-17 06:06:30",
+      "album": {
+        "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
+        "url": "https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 249254,
+      "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
+      "url": "https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L"
     },
     {
       "added_at": "2024-07-17 06:06:30",
@@ -1535,22 +1555,6 @@
     {
       "added_at": "2024-07-17 06:06:30",
       "album": {
-        "name": "Vacation",
-        "url": "https://open.spotify.com/album/5KuPwRwOKUyfbU15R3psvf"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 198586,
-      "name": "City Drive",
-      "url": "https://open.spotify.com/track/24aoDh5VjWUquYEx28Bfpj"
-    },
-    {
-      "added_at": "2024-07-17 06:06:30",
-      "album": {
         "name": "noidleap",
         "url": "https://open.spotify.com/album/2P9VxOeGJpCu9SuqBXAujz"
       },
@@ -1567,6 +1571,22 @@
     {
       "added_at": "2024-07-17 06:06:30",
       "album": {
+        "name": "Vacation",
+        "url": "https://open.spotify.com/album/5KuPwRwOKUyfbU15R3psvf"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 198586,
+      "name": "City Drive",
+      "url": "https://open.spotify.com/track/24aoDh5VjWUquYEx28Bfpj"
+    },
+    {
+      "added_at": "2024-07-17 06:06:30",
+      "album": {
         "name": "\u8003\u3048\u4e2d",
         "url": "https://open.spotify.com/album/4i5OzCtSH5HKWjeyeQItOu"
       },
@@ -1579,26 +1599,6 @@
       "duration_ms": 242373,
       "name": "\u8003\u3048\u4e2d",
       "url": "https://open.spotify.com/track/71gzpjivMlR0pqFrQabbzm"
-    },
-    {
-      "added_at": "2024-07-17 06:06:30",
-      "album": {
-        "name": "\u3075\u305f\u308a\u306eBGM feat. \u571f\u5c90\u9ebb\u5b50",
-        "url": "https://open.spotify.com/album/7jRh5otey2SbFJ6Pzu8SUo"
-      },
-      "artists": [
-        {
-          "name": "GOOD BYE APRIL",
-          "url": "https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38"
-        },
-        {
-          "name": "Asako Toki",
-          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
-        }
-      ],
-      "duration_ms": 234593,
-      "name": "\u3075\u305f\u308a\u306eBGM feat. \u571f\u5c90\u9ebb\u5b50",
-      "url": "https://open.spotify.com/track/2wh07cGkfGVLWxCpSJtafV"
     },
     {
       "added_at": "2024-07-17 06:06:30",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-07-17 06:06:30",
       "album": {
-        "name": "MAGNET",
-        "url": "https://open.spotify.com/album/7DBDfww3UEeui6kRnFSJpr"
-      },
-      "artists": [
-        {
-          "name": "Kroi",
-          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
-        }
-      ],
-      "duration_ms": 221040,
-      "name": "PULSE",
-      "url": "https://open.spotify.com/track/1E1220SmTWNZhmdEML5PL7"
-    },
-    {
-      "added_at": "2024-07-17 06:06:30",
-      "album": {
         "name": "Heaven Beach",
         "url": "https://open.spotify.com/album/74XLaVRIeHY51nuXcC5RuS"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 244320,
       "name": "Memorial Story",
       "url": "https://open.spotify.com/track/10ALE55wk7jRuAe7FGiSRF"
+    },
+    {
+      "added_at": "2024-07-17 06:06:30",
+      "album": {
+        "name": "MAGNET",
+        "url": "https://open.spotify.com/album/7DBDfww3UEeui6kRnFSJpr"
+      },
+      "artists": [
+        {
+          "name": "Kroi",
+          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
+        }
+      ],
+      "duration_ms": 221040,
+      "name": "PULSE",
+      "url": "https://open.spotify.com/track/1E1220SmTWNZhmdEML5PL7"
     },
     {
       "added_at": "2024-07-17 06:06:30",

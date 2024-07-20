@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-969 songs - 2 day 11 hr 35 min
+970 songs - 2 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [GUIDE DOG](https://open.spotify.com/track/4Rtsy7SpGGaQKV1FQfFZ54) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 2:01 | 2024-02-16 |  |
 | [Guilty Conscience \- Tame Impala Remix](https://open.spotify.com/track/5i5fCpsnqDJ9AfeObgd0gW) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Guilty Conscience \(Tame Impala Remix\)](https://open.spotify.com/album/0YklB1LaVFTWaEub2I3tiW) | 3:34 | 2020-07-25 |  |
 | [Guitar In My Room \(with Lil Durk & Kid Cudi\)](https://open.spotify.com/track/4LPIwB4gtPzuB0YKHjOldj) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Guitar In My Room](https://open.spotify.com/album/2BgCZFN0tmSrb2deTawr5h) | 3:47 | 2023-09-28 |  |
+| [Guitar Song](https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8) | 3:57 | 2024-07-19 |  |
 | [Guitars](https://open.spotify.com/track/0MgfhHOv9mQggs0w1tsqvO) | [The Breathing Effect](https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Eli & Harry](https://open.spotify.com/album/1CYU3DuCTjz4IkthZBr6cY) | 5:28 | 2024-06-17 |  |
 | [Guns for Hands](https://open.spotify.com/track/4RdRa3qq0GBSKjomxrkh5K) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Vessel](https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn) | 4:33 | 2023-04-04 |  |
 | [h u n g e r \. o n \. h i l l s i d e \(with Bas\)](https://open.spotify.com/track/5BwQjRasNcdRPuVWKcHto2) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:58 | 2022-08-27 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1556156,
+  "num_followers": 1556242,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Fall Again",
-        "url": "https://open.spotify.com/album/4Lgy6GaK2eR2QwOyoDeDg0"
-      },
-      "artists": [
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 206794,
-      "name": "Fall Again",
-      "url": "https://open.spotify.com/track/3oOvEw1pgxMtrQMNgPWQHL"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Distraction",
         "url": "https://open.spotify.com/album/18iJol0H5J6ApQzwRkniXp"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 235187,
       "name": "Distraction",
       "url": "https://open.spotify.com/track/2XCc7Y5BhnBK29r9mhFXZG"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Fall Again",
+        "url": "https://open.spotify.com/album/4Lgy6GaK2eR2QwOyoDeDg0"
+      },
+      "artists": [
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 206794,
+      "name": "Fall Again",
+      "url": "https://open.spotify.com/track/3oOvEw1pgxMtrQMNgPWQHL"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1027,22 +1027,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Blur",
-        "url": "https://open.spotify.com/album/4t4GnmNhwlpHCDWshyg1Xr"
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7"
       },
       "artists": [
         {
           "name": "KREAM",
           "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        },
-        {
-          "name": "Marlo Rex",
-          "url": "https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS"
         }
       ],
-      "duration_ms": 178849,
-      "name": "Blur",
-      "url": "https://open.spotify.com/track/73iwLiAtgpNMu5DeRD7Jph"
+      "duration_ms": 159047,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1163,34 +1159,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7"
+        "name": "Blur",
+        "url": "https://open.spotify.com/album/4t4GnmNhwlpHCDWshyg1Xr"
       },
       "artists": [
         {
           "name": "KREAM",
           "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 159047,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0gdOg7Dga6Mf0LiDZxWGmk"
-      },
-      "artists": [
+        },
         {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+          "name": "Marlo Rex",
+          "url": "https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS"
         }
       ],
-      "duration_ms": 211905,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/55bRlRgB1055cuJ0xnvo8R"
+      "duration_ms": 178849,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/73iwLiAtgpNMu5DeRD7Jph"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1207,6 +1191,22 @@
       "duration_ms": 197213,
       "name": "Yumi - edit",
       "url": "https://open.spotify.com/track/6PK96Y20GrGeiU8yptYGfl"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0gdOg7Dga6Mf0LiDZxWGmk"
+      },
+      "artists": [
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        }
+      ],
+      "duration_ms": 211905,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/55bRlRgB1055cuJ0xnvo8R"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Numb (Joris Voorn Remix)",
-        "url": "https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        }
-      ],
-      "duration_ms": 237865,
-      "name": "Numb - Joris Voorn Remix, Edit",
-      "url": "https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "The Remixes",
         "url": "https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX"
       },
@@ -1291,22 +1271,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Morning Comes",
-        "url": "https://open.spotify.com/album/3SdVXBWFxCHxxwsbm8Bs7h"
+        "name": "Numb (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF"
       },
       "artists": [
         {
-          "name": "Jerome Price",
-          "url": "https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
         },
         {
-          "name": "Nu-La",
-          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
         }
       ],
-      "duration_ms": 201923,
-      "name": "Morning Comes",
-      "url": "https://open.spotify.com/track/2jFgHxHTzbI3ma02ppPoXz"
+      "duration_ms": 237865,
+      "name": "Numb - Joris Voorn Remix, Edit",
+      "url": "https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1327,6 +1307,26 @@
       "duration_ms": 246048,
       "name": "Remission",
       "url": "https://open.spotify.com/track/2Ue68qfEPdUtVVgrjOKE05"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Morning Comes",
+        "url": "https://open.spotify.com/album/3SdVXBWFxCHxxwsbm8Bs7h"
+      },
+      "artists": [
+        {
+          "name": "Jerome Price",
+          "url": "https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8"
+        },
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+        }
+      ],
+      "duration_ms": 201923,
+      "name": "Morning Comes",
+      "url": "https://open.spotify.com/track/2jFgHxHTzbI3ma02ppPoXz"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Yumi (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/4FlNcHrLMwoYWpiJXTPVLW"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 245624,
+      "name": "Yumi - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/59xRzYdesxyCMhRFaodWNi"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Dance Is The Answer (feat. Raja Ram)",
         "url": "https://open.spotify.com/album/0mdXH0pJA8KKW8abGrS3o8"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 329165,
       "name": "Dance Is The Answer (feat. Raja Ram)",
       "url": "https://open.spotify.com/track/56rqKeuhAVv2E6RK5BifIS"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Yumi (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/4FlNcHrLMwoYWpiJXTPVLW"
-      },
-      "artists": [
-        {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 245624,
-      "name": "Yumi - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/59xRzYdesxyCMhRFaodWNi"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Losing Control (feat. Nathan Nicholson)",
-        "url": "https://open.spotify.com/album/5w42DeUYoCaocV1PqDx7QF"
-      },
-      "artists": [
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 209056,
-      "name": "Losing Control (feat. Nathan Nicholson)",
-      "url": "https://open.spotify.com/track/6yW6KjdBVwpexa0xI26si0"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr"
       },
@@ -1571,6 +1551,26 @@
       "duration_ms": 232245,
       "name": "Silenced",
       "url": "https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Losing Control (feat. Nathan Nicholson)",
+        "url": "https://open.spotify.com/album/5w42DeUYoCaocV1PqDx7QF"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 209056,
+      "name": "Losing Control (feat. Nathan Nicholson)",
+      "url": "https://open.spotify.com/track/6yW6KjdBVwpexa0xI26si0"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/0mZhESlUF6AQ9aUAer6LI1"
-      },
-      "artists": [
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 181311,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/6autWijbEdpktfTNI5fkx5"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Gate / Masterplan",
         "url": "https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 343764,
       "name": "Gate",
       "url": "https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/0mZhESlUF6AQ9aUAer6LI1"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 181311,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/6autWijbEdpktfTNI5fkx5"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1831,30 +1831,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Forget",
-        "url": "https://open.spotify.com/album/78pEteivhGT2HxTFWmjM2S"
-      },
-      "artists": [
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "AVIRA",
-          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
-        },
-        {
-          "name": "ALSO ASTIR",
-          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
-        }
-      ],
-      "duration_ms": 258545,
-      "name": "Forget",
-      "url": "https://open.spotify.com/track/2q18AKTf10vS8iTSg5sQ2r"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Radiant",
         "url": "https://open.spotify.com/album/3XkKoyeXwOBTvFmfBL2cVI"
       },
@@ -1907,18 +1883,26 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT"
+        "name": "Forget",
+        "url": "https://open.spotify.com/album/78pEteivhGT2HxTFWmjM2S"
       },
       "artists": [
         {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+        },
+        {
+          "name": "ALSO ASTIR",
+          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
         }
       ],
-      "duration_ms": 147580,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/32E8uwM57X19l3uBOEuTB2"
+      "duration_ms": 258545,
+      "name": "Forget",
+      "url": "https://open.spotify.com/track/2q18AKTf10vS8iTSg5sQ2r"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1947,6 +1931,42 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT"
+      },
+      "artists": [
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 147580,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/32E8uwM57X19l3uBOEuTB2"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "No Matter What",
+        "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 202992,
+      "name": "No Matter What",
+      "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Under My Skin",
         "url": "https://open.spotify.com/album/1fqzT3Bwp9puo8c7kl0j3i"
       },
@@ -1963,22 +1983,6 @@
       "duration_ms": 222151,
       "name": "Under My Skin",
       "url": "https://open.spotify.com/track/0Qsm4e0tjof17GOrxoRhLO"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Rave",
-        "url": "https://open.spotify.com/album/3mmQk6NOkaA1dd17JI1BRG"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 288387,
-      "name": "Rave",
-      "url": "https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4"
     }
   ],
   "unique_name": "Night Rider",

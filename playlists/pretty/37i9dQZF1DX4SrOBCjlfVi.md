@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Denzel Curry, Lil Yachty, JT and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,767 likes - 47 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,837 likes - 47 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 42 | [FUN](https://open.spotify.com/track/1l9QD0dDTCSYYTkkbM1aCv) | [Mercury](https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ) | [NO FUN](https://open.spotify.com/album/0QFgsEUi8f2cm8prqx7aAj) | 1:42 |
 | 43 | [Zoned Out](https://open.spotify.com/track/60O6renwTsjzUuxl9K1oi6) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX), [Cuzzin Howie](https://open.spotify.com/artist/4nAXAdHiaA5rcAdForHXWT), [The Smokers Club](https://open.spotify.com/artist/0DSKJgPADvb4x1Bk3VETPr) | [Zoned Out](https://open.spotify.com/album/2Sfuts1H89efu7Za2RO2q6) | 1:48 |
 | 44 | [Imposter Syndrome](https://open.spotify.com/track/5TRh6vQRCkR7SaIGUFRmWK) | [Starlito](https://open.spotify.com/artist/4SjND9kT6Ja5TSPZTyUUab) | [Imposter Syndrome](https://open.spotify.com/album/4b3JuKqzitAqbdU6huc3VH) | 2:49 |
-| 45 | [Romeo & Juliet](https://open.spotify.com/track/0TGMVEBVSyMHvOPTB5RQME) | [Curly Savv](https://open.spotify.com/artist/3DDlyCYQLZS5OGVJ2gCK0c) | [ON ME](https://open.spotify.com/album/7lEKtyLIQ96Dj0KdrvB1LA) | 1:51 |
+| 45 | [Romeo & Juliet](https://open.spotify.com/track/0TGMVEBVSyMHvOPTB5RQME) | [Curly Savv](https://open.spotify.com/artist/3DDlyCYQLZS5OGVJ2gCK0c) | [ON ME](https://open.spotify.com/album/7lEKtyLIQ96Dj0KdrvB1LA) | 1:49 |
 | 46 | [DAME](https://open.spotify.com/track/47u4vlcqvJq0KCINnIZCFP) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu), [Sid Vashi](https://open.spotify.com/artist/6wD4PrOL4VPp0SDCtpbtba) | [DAME](https://open.spotify.com/album/0yPGdKFF3YJzbPcG9c6pe6) | 3:28 |
 | 47 | [SHIBUYA](https://open.spotify.com/track/1i8eYNvReKE3cmnWpwARCW) | [StressGods](https://open.spotify.com/artist/7GerkwZX0S7fy9mssayeeQ) | [SHIBUYA](https://open.spotify.com/album/1nlhu8tP2Bi906LRpjmsZG) | 3:07 |
 

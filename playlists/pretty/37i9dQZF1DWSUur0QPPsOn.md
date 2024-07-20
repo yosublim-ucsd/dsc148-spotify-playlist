@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Michaela Coel
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,591 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,567 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 21 | [It's My Fault](https://open.spotify.com/track/5Q3zlPVDMf9zXLiCQVoh95) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [My Back Was A Bridge For You To Cross](https://open.spotify.com/album/4g6x7cqgxfkuqA8lfvIKMf) | 2:15 |
 | 22 | [Needs](https://open.spotify.com/track/6sg284TefDkBpFh0317Agp) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [BB/ANG3L](https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM) | 2:26 |
 | 23 | [Alter Ego \(with JT\)](https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Alter Ego \(with JT\)](https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd) | 3:24 |
-| 24 | [Nasty \- Match My Peak Remix](https://open.spotify.com/track/741LxI2CZmrCgM7v3G5MwN) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Match My Freak EP](https://open.spotify.com/album/2xyUg14ugS5nOqSJSoEjr1) | 2:39 |
+| 24 | [Nasty \(Match My Peak Remix\)](https://open.spotify.com/track/741LxI2CZmrCgM7v3G5MwN) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Match My Freak EP](https://open.spotify.com/album/2xyUg14ugS5nOqSJSoEjr1) | 2:39 |
 | 25 | [ONOME](https://open.spotify.com/track/5HCvSQrvBKB2SaSNApQZ6T) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69) | 3:18 |
 | 26 | [SHY GUY](https://open.spotify.com/track/4LLDJWHfbwHXSFeNA4fCAm) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [333](https://open.spotify.com/album/2VOHb02PHjs4bu5qPPy1Dy) | 1:06 |
 | 27 | [For Me](https://open.spotify.com/track/3jRUajRCzBbS5B2G12FUqb) | [Lady Jay](https://open.spotify.com/artist/0rNTIEZKm4LYPn16AcpTaS), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [MRS Gold \(My Real Self\)](https://open.spotify.com/album/7w5RxBwixoaVGJXzUj5qxP) | 3:48 |

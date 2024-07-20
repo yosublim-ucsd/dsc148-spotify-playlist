@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 
 > This is Korn\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,345 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,496 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 | 6 | [Twisted Transistor](https://open.spotify.com/track/05NpeTQWnzXS1d8ZqL4YFZ) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [See You On the Other Side](https://open.spotify.com/album/2c7ynrgZP08xNtkJi9MhjF) | 3:08 |
 | 7 | [Y'all Want a Single](https://open.spotify.com/track/1AzMYJm6qTAullM3UKuPY9) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Take A Look In The Mirror](https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh) | 3:17 |
 | 8 | [Blind](https://open.spotify.com/track/1pr9TZGOXeJUggIal1Wq3R) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Korn](https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z) | 4:18 |
-| 9 | [Twist](https://open.spotify.com/track/07xFWwKPOApMS56ildsV0G) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 0:49 |
+| 9 | [A.D.I.D.A.S.](https://open.spotify.com/track/0xgsyoVvRFSYvV5cdtYhX1) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 2:33 |
 | 10 | [Here to Stay](https://open.spotify.com/track/5NHTtXGCdO7ul16xr0q93w) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untouchables](https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO) | 4:30 |
 | 11 | [Make Me Bad](https://open.spotify.com/track/286ek1kspX7VFaheXFSvPk) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Issues](https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh) | 3:55 |
 | 12 | [Right Now](https://open.spotify.com/track/19fYhk0wzXqUOoBqkPsYCP) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Take A Look In The Mirror](https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh) | 3:09 |
-| 13 | [A.D.I.D.A.S.](https://open.spotify.com/track/0xgsyoVvRFSYvV5cdtYhX1) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 2:33 |
+| 13 | [Twist](https://open.spotify.com/track/07xFWwKPOApMS56ildsV0G) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 0:49 |
 | 14 | [Evolution](https://open.spotify.com/track/4PaPZk1Ozg0TfDTBnbXX38) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untitled](https://open.spotify.com/album/6uW0nLS4wNsobOLoHvUhAi) | 3:37 |
 | 15 | [Somebody Someone](https://open.spotify.com/track/4V78u7Pbx6G33eej60wwOK) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Issues](https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh) | 3:47 |
 | 16 | [All In the Family \(feat\. Fred Durst\)](https://open.spotify.com/track/7yYvvOB7CuzdVldb6zOk1m) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 4:48 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 | 39 | [Insane](https://open.spotify.com/track/3bVwfHr4vuJv6DGZal2Dpq) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Serenity of Suffering](https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh) | 3:50 |
 | 40 | [Divine](https://open.spotify.com/track/6Ot1jvIoVPAuGRKY8Qxue8) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Korn](https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z) | 2:50 |
 | 41 | [Let's Get This Party Started](https://open.spotify.com/track/4X1XkTFjhpsWOC94lMNNEc) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Issues](https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh) | 3:41 |
-| 42 | [Start The Healing](https://open.spotify.com/track/3DRSkg7t5Jpa86TPIFGxBr) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:28 |
-| 43 | [You'll Never Find Me](https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 3:40 |
+| 42 | [You'll Never Find Me](https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 3:40 |
+| 43 | [Start The Healing](https://open.spotify.com/track/3DRSkg7t5Jpa86TPIFGxBr) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:28 |
 | 44 | [Black Is the Soul](https://open.spotify.com/track/1wYXIhJXqlIAGS6sbzpTL6) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Serenity of Suffering](https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh) | 4:01 |
 | 45 | [Chi](https://open.spotify.com/track/5cLttQXyVI07tUKCN8T4OD) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 3:55 |
 | 46 | [Another Brick in the Wall, Pt\. 1, 2, 3 \- Pink Floyd Cover](https://open.spotify.com/track/39SHjPPvNVW2H9rSsGGOPD) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/7aC5SxTBOl3FNl3pdqZV4T) | 7:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 | 49 | [Lowrider](https://open.spotify.com/track/4YJbZeAFY6D5p6izb51dK0) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 0:57 |
 | 50 | [Hold On](https://open.spotify.com/track/2auOcw84LOvAYpbImw8Tid) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untitled](https://open.spotify.com/album/6uW0nLS4wNsobOLoHvUhAi) | 3:05 |
 
-Snapshot ID: `ZpcJgAAAAAADRJLtQeDnYyjkA95ICDU+`
+Snapshot ID: `ZphbAAAAAACP8h1vrwP3T6Zminumiimn`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: DOE
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,337 likes - 41 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,342 likes - 41 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 27 | [Love Over Glory](https://open.spotify.com/track/0FQroAJHjN85mvXb9Wu56D) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Love Over Glory](https://open.spotify.com/album/10q9pHSwBj611CT8gcN3pp) | 4:39 |
 | 28 | [Entre La Maleza](https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Entre La Maleza](https://open.spotify.com/album/226HOM7ZLpyqqwC3tprFct) | 3:35 |
 | 29 | [pesimista](https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [pesimista](https://open.spotify.com/album/2ZcHbieh3trp1wEv6QRsaX) | 3:54 |
-| 30 | [Nightvisions](https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Nightvisions](https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt) | 3:56 |
-| 31 | [End Up Us](https://open.spotify.com/track/0gi0E4MFUatZmrW9LcIeOg) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [End Up Us](https://open.spotify.com/album/3RwD73q5FIXh52hg4E1a1t) | 2:58 |
+| 30 | [End Up Us](https://open.spotify.com/track/0gi0E4MFUatZmrW9LcIeOg) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [End Up Us](https://open.spotify.com/album/3RwD73q5FIXh52hg4E1a1t) | 2:58 |
+| 31 | [Nightvisions](https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Nightvisions](https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt) | 3:56 |
 | 32 | [Moving Day](https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Moving Day](https://open.spotify.com/album/6704YouVguYBevesjOlyC3) | 2:50 |
 | 33 | [Cowboy](https://open.spotify.com/track/1woJfLf7DzurnsJBkGhJQD) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Cowboy](https://open.spotify.com/album/3QmI9nASm8e4IdQzGoaB5W) | 3:17 |
 | 34 | [Streetwise](https://open.spotify.com/track/5SDW0aLSetWzFS1676VgXQ) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e), [xmal](https://open.spotify.com/artist/20DDNwdmrT61u9Wat7cv7H) | [Streetwise](https://open.spotify.com/album/62gfDniQmmdW6ttPGDukYv) | 2:06 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 37 | [Magnolia Rain](https://open.spotify.com/track/5UHNA6wKJ4NEYC4H9NJ8ys) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Magnolia Rain](https://open.spotify.com/album/7b7SNa88HbYj7AWwAdUXa5) | 2:46 |
 | 38 | [Don't](https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Don't](https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND) | 2:45 |
 | 39 | [Self Doubt](https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Self Doubt](https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt) | 2:54 |
-| 40 | [Delphinium Blue](https://open.spotify.com/track/27ws2QOhH3gNqyy30thMzR) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Delphinium Blue](https://open.spotify.com/album/4lfIqAm7yH6WcnO0qMzej8) | 3:37 |
-| 41 | [Can't Be Still](https://open.spotify.com/track/6XUTviMKLT68nRa3Sowgn2) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Can't Be Still](https://open.spotify.com/album/2jCBWWbsHm37ZGLybkiJvF) | 2:58 |
+| 40 | [Can't Be Still](https://open.spotify.com/track/6XUTviMKLT68nRa3Sowgn2) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Can't Be Still](https://open.spotify.com/album/2jCBWWbsHm37ZGLybkiJvF) | 2:58 |
+| 41 | [can't stand it](https://open.spotify.com/track/6ElYocyMBSR3LHqGQGmA2r) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [can't stand it](https://open.spotify.com/album/3XXJLgzB9eOg1oiEy0j2bD) | 3:05 |
 
 Snapshot ID: `ZoRuPAAAAAB73hKUs9Lr7r5OOIfzcUHR`

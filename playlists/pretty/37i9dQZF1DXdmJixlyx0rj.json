@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: NECTA)",
-  "num_followers": 25503,
+  "num_followers": 25509,
   "original_name": "Electronii'K",
   "owner": {
     "name": "Spotify",
@@ -359,18 +359,26 @@
     {
       "added_at": "2024-07-16 04:48:12",
       "album": {
-        "name": "Spotify Singles - Holiday",
-        "url": "https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk"
+        "name": "Keep Swimmin' Through x Baby Shark (Dance Remix)",
+        "url": "https://open.spotify.com/album/4FJWDOLq0eiu0WGrJHqZfo"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        },
+        {
+          "name": "The Cast of Baby Shark's Big Movie",
+          "url": "https://open.spotify.com/artist/2qlOwH6ICaEw63LMC3bBVR"
+        },
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
         }
       ],
-      "duration_ms": 172400,
-      "name": "After LIKE - Holiday Remix",
-      "url": "https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX"
+      "duration_ms": 64389,
+      "name": "Keep Swimmin' Through x Baby Shark (Dance Remix)",
+      "url": "https://open.spotify.com/track/05w1GGQQl1NEw0hEznuANx"
     },
     {
       "added_at": "2024-07-16 04:48:12",
@@ -395,26 +403,18 @@
     {
       "added_at": "2024-07-16 04:48:12",
       "album": {
-        "name": "Keep Swimmin' Through x Baby Shark (Dance Remix)",
-        "url": "https://open.spotify.com/album/4FJWDOLq0eiu0WGrJHqZfo"
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk"
       },
       "artists": [
         {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        },
-        {
-          "name": "The Cast of Baby Shark's Big Movie",
-          "url": "https://open.spotify.com/artist/2qlOwH6ICaEw63LMC3bBVR"
-        },
-        {
-          "name": "Pinkfong",
-          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 64389,
-      "name": "Keep Swimmin' Through x Baby Shark (Dance Remix)",
-      "url": "https://open.spotify.com/track/05w1GGQQl1NEw0hEznuANx"
+      "duration_ms": 172400,
+      "name": "After LIKE - Holiday Remix",
+      "url": "https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX"
     },
     {
       "added_at": "2024-07-16 04:48:12",
@@ -759,18 +759,22 @@
     {
       "added_at": "2024-07-16 04:48:12",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/3vxt1CGDkDtZOgSkfPqkw4"
+        "name": "STARDUST",
+        "url": "https://open.spotify.com/album/58IMKl6lvTfzTLoy6sOjJL"
       },
       "artists": [
         {
-          "name": "DUE",
-          "url": "https://open.spotify.com/artist/4150G9GrM7VzaOzUmPCf5m"
+          "name": "IMLAY",
+          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
+        },
+        {
+          "name": "XIAOJUN",
+          "url": "https://open.spotify.com/artist/51kPKCSzbLwEQFFwhfS4R7"
         }
       ],
-      "duration_ms": 140655,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/4gnZKUQtXzldlD9DrsobBu"
+      "duration_ms": 179000,
+      "name": "STARDUST",
+      "url": "https://open.spotify.com/track/3BtCVejiOinwiGzPIbmsrA"
     },
     {
       "added_at": "2024-07-16 04:48:12",
@@ -795,22 +799,18 @@
     {
       "added_at": "2024-07-16 04:48:12",
       "album": {
-        "name": "STARDUST",
-        "url": "https://open.spotify.com/album/58IMKl6lvTfzTLoy6sOjJL"
+        "name": "Love",
+        "url": "https://open.spotify.com/album/3vxt1CGDkDtZOgSkfPqkw4"
       },
       "artists": [
         {
-          "name": "IMLAY",
-          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
-        },
-        {
-          "name": "XIAOJUN",
-          "url": "https://open.spotify.com/artist/51kPKCSzbLwEQFFwhfS4R7"
+          "name": "DUE",
+          "url": "https://open.spotify.com/artist/4150G9GrM7VzaOzUmPCf5m"
         }
       ],
-      "duration_ms": 179000,
-      "name": "STARDUST",
-      "url": "https://open.spotify.com/track/3BtCVejiOinwiGzPIbmsrA"
+      "duration_ms": 140655,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/4gnZKUQtXzldlD9DrsobBu"
     },
     {
       "added_at": "2024-07-16 04:48:12",
@@ -1135,22 +1135,18 @@
     {
       "added_at": "2024-07-16 04:48:12",
       "album": {
-        "name": "Hold You",
-        "url": "https://open.spotify.com/album/2jNiU6yeQ3Lj8R2uj2fuXw"
+        "name": "LOTTO - The 3rd Album Repackage",
+        "url": "https://open.spotify.com/album/4e75ohAqqgV3zgLn8qMxki"
       },
       "artists": [
         {
-          "name": "Chill Satellite",
-          "url": "https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA"
-        },
-        {
-          "name": "P3PPER",
-          "url": "https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj"
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 168937,
-      "name": "Hold You",
-      "url": "https://open.spotify.com/track/19DjnoLxpF2Nly502nDPGG"
+      "duration_ms": 245189,
+      "name": "Monster - LDN Noise Creeper Bass Remix",
+      "url": "https://open.spotify.com/track/1U1wrOyV4SotwDmFxKXqpN"
     },
     {
       "added_at": "2024-07-16 04:48:12",
@@ -1175,6 +1171,26 @@
     {
       "added_at": "2024-07-16 04:48:12",
       "album": {
+        "name": "Hold You",
+        "url": "https://open.spotify.com/album/2jNiU6yeQ3Lj8R2uj2fuXw"
+      },
+      "artists": [
+        {
+          "name": "Chill Satellite",
+          "url": "https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA"
+        },
+        {
+          "name": "P3PPER",
+          "url": "https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj"
+        }
+      ],
+      "duration_ms": 168937,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/19DjnoLxpF2Nly502nDPGG"
+    },
+    {
+      "added_at": "2024-07-16 04:48:12",
+      "album": {
         "name": "Somehow",
         "url": "https://open.spotify.com/album/7LCMzOqyH92BzrmhIxWldO"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 174500,
       "name": "Somehow",
       "url": "https://open.spotify.com/track/5jTBnpgBWqg6lrcJYCgqQR"
-    },
-    {
-      "added_at": "2024-07-16 04:48:12",
-      "album": {
-        "name": "LOTTO - The 3rd Album Repackage",
-        "url": "https://open.spotify.com/album/4e75ohAqqgV3zgLn8qMxki"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 245189,
-      "name": "Monster - LDN Noise Creeper Bass Remix",
-      "url": "https://open.spotify.com/track/1U1wrOyV4SotwDmFxKXqpN"
     },
     {
       "added_at": "2024-07-16 04:48:12",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2024-07-16 04:48:12",
       "album": {
-        "name": "Virus",
-        "url": "https://open.spotify.com/album/0iK9OCBlrURxG5vs0hUs6I"
-      },
-      "artists": [
-        {
-          "name": "SUNGYOO",
-          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
-        },
-        {
-          "name": "Advanced",
-          "url": "https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY"
-        }
-      ],
-      "duration_ms": 152380,
-      "name": "Virus",
-      "url": "https://open.spotify.com/track/6Z7ZmDWdnrMusQK4fuZggL"
-    },
-    {
-      "added_at": "2024-07-16 04:48:12",
-      "album": {
         "name": "Breakthrough",
         "url": "https://open.spotify.com/album/7dU0vceNngXWT2XZUU4y9W"
       },
@@ -1383,38 +1363,6 @@
     {
       "added_at": "2024-07-16 04:48:12",
       "album": {
-        "name": "We The One",
-        "url": "https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP"
-      },
-      "artists": [
-        {
-          "name": "SakaZan",
-          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
-        }
-      ],
-      "duration_ms": 195964,
-      "name": "We The One",
-      "url": "https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB"
-    },
-    {
-      "added_at": "2024-07-16 04:48:12",
-      "album": {
-        "name": "Amerindio",
-        "url": "https://open.spotify.com/album/0cs7U2wLcjygbjRlVSbWXv"
-      },
-      "artists": [
-        {
-          "name": "JUNTARO",
-          "url": "https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9"
-        }
-      ],
-      "duration_ms": 180495,
-      "name": "Amerindio",
-      "url": "https://open.spotify.com/track/4IW3mVb1kWkqahrWJ1PjV7"
-    },
-    {
-      "added_at": "2024-07-16 04:48:12",
-      "album": {
         "name": "iScreaM Vol.16 : Glitch Mode Remix",
         "url": "https://open.spotify.com/album/1qCGvCguJOKwfJbfBH8q8O"
       },
@@ -1431,6 +1379,58 @@
       "duration_ms": 277760,
       "name": "Glitch Mode - JINBO Remix",
       "url": "https://open.spotify.com/track/6gVZB0cp9QmWoduXVWOgHM"
+    },
+    {
+      "added_at": "2024-07-16 04:48:12",
+      "album": {
+        "name": "We The One",
+        "url": "https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP"
+      },
+      "artists": [
+        {
+          "name": "SakaZan",
+          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
+        }
+      ],
+      "duration_ms": 195964,
+      "name": "We The One",
+      "url": "https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB"
+    },
+    {
+      "added_at": "2024-07-16 04:48:12",
+      "album": {
+        "name": "Virus",
+        "url": "https://open.spotify.com/album/0iK9OCBlrURxG5vs0hUs6I"
+      },
+      "artists": [
+        {
+          "name": "SUNGYOO",
+          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
+        },
+        {
+          "name": "Advanced",
+          "url": "https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY"
+        }
+      ],
+      "duration_ms": 152380,
+      "name": "Virus",
+      "url": "https://open.spotify.com/track/6Z7ZmDWdnrMusQK4fuZggL"
+    },
+    {
+      "added_at": "2024-07-16 04:48:12",
+      "album": {
+        "name": "Amerindio",
+        "url": "https://open.spotify.com/album/0cs7U2wLcjygbjRlVSbWXv"
+      },
+      "artists": [
+        {
+          "name": "JUNTARO",
+          "url": "https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9"
+        }
+      ],
+      "duration_ms": 180495,
+      "name": "Amerindio",
+      "url": "https://open.spotify.com/track/4IW3mVb1kWkqahrWJ1PjV7"
     },
     {
       "added_at": "2024-07-16 04:48:12",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2024-07-16 04:48:12",
       "album": {
-        "name": "iScreaM Vol.6 : Make A Wish / 90's Love Remix",
-        "url": "https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd"
-      },
-      "artists": [
-        {
-          "name": "NCT U",
-          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
-        },
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 194146,
-      "name": "Make A Wish (Birthday Song) - Wuki Remix",
-      "url": "https://open.spotify.com/track/1Dou4w33Ne9kkjBvk0CbLW"
-    },
-    {
-      "added_at": "2024-07-16 04:48:12",
-      "album": {
         "name": "Safe & Sound",
         "url": "https://open.spotify.com/album/5hLFHhE569P6t5YAotQB9Z"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 162363,
       "name": "Safe & Sound",
       "url": "https://open.spotify.com/track/2KTOYyhh0oZg5o1KNlSi7G"
+    },
+    {
+      "added_at": "2024-07-16 04:48:12",
+      "album": {
+        "name": "iScreaM Vol.6 : Make A Wish / 90's Love Remix",
+        "url": "https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        },
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 194146,
+      "name": "Make A Wish (Birthday Song) - Wuki Remix",
+      "url": "https://open.spotify.com/track/1Dou4w33Ne9kkjBvk0CbLW"
     },
     {
       "added_at": "2024-07-16 04:48:12",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-07-16 04:48:12",
       "album": {
-        "name": "KARD 6th Mini Album 'ICKY'",
-        "url": "https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd"
-      },
-      "artists": [
-        {
-          "name": "KARD",
-          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
-        }
-      ],
-      "duration_ms": 153520,
-      "name": "Without You (Alok Remix) (Radio Edit)",
-      "url": "https://open.spotify.com/track/47ObYsWRktqKiVXWVUzbT6"
-    },
-    {
-      "added_at": "2024-07-16 04:48:12",
-      "album": {
         "name": "Catch Me If You Can",
         "url": "https://open.spotify.com/album/27NAxJQBKFRNNC3mpcunGv"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 161280,
       "name": "Catch Me If You Can",
       "url": "https://open.spotify.com/track/3pwUWPoXCyCk3s4TiAMxk3"
+    },
+    {
+      "added_at": "2024-07-16 04:48:12",
+      "album": {
+        "name": "KARD 6th Mini Album 'ICKY'",
+        "url": "https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd"
+      },
+      "artists": [
+        {
+          "name": "KARD",
+          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
+        }
+      ],
+      "duration_ms": 153520,
+      "name": "Without You (Alok Remix) (Radio Edit)",
+      "url": "https://open.spotify.com/track/47ObYsWRktqKiVXWVUzbT6"
     },
     {
       "added_at": "2024-07-16 04:48:12",
@@ -1636,33 +1636,29 @@
           "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 256959,
-      "name": "Power - SHAUN Remix",
-      "url": "https://open.spotify.com/track/2fLgM0XJuxmtiwz5KrrOkn"
+      "duration_ms": 201931,
+      "name": "Power - R3HAB Remix",
+      "url": "https://open.spotify.com/track/6Xyq0b0CnpANv9XfsCohn4"
     },
     {
       "added_at": "2024-07-16 04:48:12",
       "album": {
-        "name": "iScreaM Vol.7 : Don't Call Me Remixes",
-        "url": "https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik"
+        "name": "MOONLIGHT (MOTi Remix)",
+        "url": "https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2"
       },
       "artists": [
         {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+          "name": "HENRY",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
         },
         {
-          "name": "Fox Stevenso",
-          "url": "https://open.spotify.com/artist/3msitL77yg0GifOf5jvd23"
-        },
-        {
-          "name": "Fox Stevenson",
-          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
         }
       ],
-      "duration_ms": 203720,
-      "name": "Don't Call Me - Fox Stevenson Remix",
-      "url": "https://open.spotify.com/track/41w4ZjkJpDIOUizWS6KlSm"
+      "duration_ms": 163500,
+      "name": "MOONLIGHT - MOTi Remix",
+      "url": "https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW"
     },
     {
       "added_at": "2024-07-16 04:48:12",
@@ -1687,22 +1683,26 @@
     {
       "added_at": "2024-07-16 04:48:12",
       "album": {
-        "name": "MOONLIGHT (MOTi Remix)",
-        "url": "https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2"
+        "name": "iScreaM Vol.7 : Don't Call Me Remixes",
+        "url": "https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik"
       },
       "artists": [
         {
-          "name": "HENRY",
-          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
         },
         {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+          "name": "Fox Stevenso",
+          "url": "https://open.spotify.com/artist/3msitL77yg0GifOf5jvd23"
+        },
+        {
+          "name": "Fox Stevenson",
+          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
         }
       ],
-      "duration_ms": 163500,
-      "name": "MOONLIGHT - MOTi Remix",
-      "url": "https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW"
+      "duration_ms": 203720,
+      "name": "Don't Call Me - Fox Stevenson Remix",
+      "url": "https://open.spotify.com/track/41w4ZjkJpDIOUizWS6KlSm"
     },
     {
       "added_at": "2024-07-16 04:48:12",
@@ -1771,26 +1771,6 @@
     {
       "added_at": "2024-07-16 04:48:12",
       "album": {
-        "name": "iScreaM Vol.15 : INVU Remixes",
-        "url": "https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        },
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "INVU - ZHU Remix",
-      "url": "https://open.spotify.com/track/483n1AQ8X3rT3ILd2tp9Y7"
-    },
-    {
-      "added_at": "2024-07-16 04:48:12",
-      "album": {
         "name": "Until I Saw You",
         "url": "https://open.spotify.com/album/3iMnAm08qg5PdOnM80YNfd"
       },
@@ -1815,6 +1795,26 @@
     {
       "added_at": "2024-07-16 04:48:12",
       "album": {
+        "name": "iScreaM Vol.15 : INVU Remixes",
+        "url": "https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        },
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "INVU - ZHU Remix",
+      "url": "https://open.spotify.com/track/483n1AQ8X3rT3ILd2tp9Y7"
+    },
+    {
+      "added_at": "2024-07-16 04:48:12",
+      "album": {
         "name": "Power (Remixes)",
         "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
       },
@@ -1824,9 +1824,9 @@
           "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 201931,
-      "name": "Power - R3HAB Remix",
-      "url": "https://open.spotify.com/track/6Xyq0b0CnpANv9XfsCohn4"
+      "duration_ms": 256959,
+      "name": "Power - SHAUN Remix",
+      "url": "https://open.spotify.com/track/2fLgM0XJuxmtiwz5KrrOkn"
     },
     {
       "added_at": "2024-07-16 04:48:12",
@@ -1927,22 +1927,22 @@
     {
       "added_at": "2024-07-16 04:48:12",
       "album": {
-        "name": "iScreaM Vol.30 : To. X Remixes",
-        "url": "https://open.spotify.com/album/6kR9Gky1BBCFn17lA6ZO9x"
+        "name": "Kind of Love (feat. Ina Bravo)",
+        "url": "https://open.spotify.com/album/4OcyPubs6iPrCqw2LJCAUd"
       },
       "artists": [
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "SakaZan",
+          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
         },
         {
-          "name": "GINJO",
-          "url": "https://open.spotify.com/artist/75vTLAnhUDaUwzjPCKvaJM"
+          "name": "Ina Bravo",
+          "url": "https://open.spotify.com/artist/2ToVGBAU5JEE6mTdgTmGpx"
         }
       ],
-      "duration_ms": 284541,
-      "name": "Fabulous - GINJO Remix, Bonus Track",
-      "url": "https://open.spotify.com/track/6U2cbwRR7YeNM2H49opI7J"
+      "duration_ms": 200826,
+      "name": "Kind of Love (feat. Ina Bravo)",
+      "url": "https://open.spotify.com/track/7B7RcNZ804nKRXLir2yS7r"
     }
   ],
   "unique_name": "Electronii'K",

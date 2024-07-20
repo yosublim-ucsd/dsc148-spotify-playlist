@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Childish Gambino
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,040,802 likes - 200 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,040,837 likes - 200 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 65 | [Mask](https://open.spotify.com/track/34Vo7tOWSgBGcwnQX7Dobn) | [Eric Roberson](https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn) | [Mask](https://open.spotify.com/album/5MbsdKvQFOFKk0Ntje7vp4) | 3:51 |
 | 66 | [Guaranteed \(feat\. Byron Juane & Steven G\)](https://open.spotify.com/track/0DAfTRFIJOEUM7qgKvlg4C) | [is this Cam?](https://open.spotify.com/artist/3AHAHKIu0YYH3pWRo32PlS), [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Steven G](https://open.spotify.com/artist/3v1Qow1OPaxC0DLMocMIVj) | [Guaranteed \(feat\. Byron Juane & Steven G\)](https://open.spotify.com/album/4Aq1RxUzXCqGmXpc47rWwx) | 3:03 |
 | 67 | [Soh\-Soh](https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69) | 3:04 |
-| 68 | [Nasty \- Match My Chic Remix](https://open.spotify.com/track/5Z1bS1NU57tcnhqNAXVM6D) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Match My Freak EP](https://open.spotify.com/album/2xyUg14ugS5nOqSJSoEjr1) | 3:02 |
+| 68 | [Nasty \(Match My Chic Remix\)](https://open.spotify.com/track/5Z1bS1NU57tcnhqNAXVM6D) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Match My Freak EP](https://open.spotify.com/album/2xyUg14ugS5nOqSJSoEjr1) | 3:02 |
 | 69 | [YBIL \(You Believe in Love\) \(feat\. Kizz Daniel\)](https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Qing Madi \(Deluxe\)](https://open.spotify.com/album/4vxIotduGifC33fGSfxxom) | 3:15 |
 | 70 | [IMISSTORONTO \(Been A While\)](https://open.spotify.com/track/0EtT4Y1KYAx5oZgCzBOyo0) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [IMISSTORONTO \(Been A While\)](https://open.spotify.com/album/72ycVbf7uebQHVHEPLRzEs) | 3:40 |
 | 71 | [Far Away](https://open.spotify.com/track/15TSeUwFv4YAbtxleSPU7J) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Far Away](https://open.spotify.com/album/0ITMYKdS5PdE1cZ1QNdvLy) | 2:48 |

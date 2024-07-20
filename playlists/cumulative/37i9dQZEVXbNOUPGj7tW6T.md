@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Paraguay.
 
-608 songs - 1 day 10 hr 21 min
+609 songs - 1 day 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-03-08 | 2024-05-19 |
 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 | 2023-07-01 | 2024-05-03 |
 | [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 | 2023-04-16 | 2024-01-04 |
-| [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/track/5OwAhFlvFZ4ZdGDfroYgAm) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/album/5B3AaoOK8o22cYkdoBOVFI) | 3:38 | 2024-07-13 |  |
+| [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/track/3KeYEr9ogMBemsOfQIJmZp) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/album/4u5sL85dlRv7eIMJIozZl8) | 3:38 | 2024-07-19 |  |
+| [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/track/5OwAhFlvFZ4ZdGDfroYgAm) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/album/5B3AaoOK8o22cYkdoBOVFI) | 3:38 | 2024-07-13 | 2024-07-20 |
 | [Cumbia](https://open.spotify.com/track/4wR4cWUWnGUaAE0U4taZJv) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Cumbia](https://open.spotify.com/album/2JKIif1ahgh5O8WmmqZm26) | 3:57 | 2023-06-17 | 2023-06-25 |
 | [Cupido](https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 | 2023-02-22 | 2023-07-11 |
 | [CYBERTRUCK](https://open.spotify.com/track/4Jc7252S1P99DjQ1lNGEOc) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:11 | 2023-10-14 | 2023-10-17 |

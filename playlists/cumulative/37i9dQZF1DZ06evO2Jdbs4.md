@@ -2,7 +2,7 @@
 
 ### [This Is Bobby Pulido](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Jdbs4)
 
-> This is Bobby Pulido\. The essential tracks, all in one playlist.
+> This Is Bobby Pulido\. Los temas esenciales, todos en una lista.
 
 85 songs - 4 hr 54 min
 
@@ -20,7 +20,7 @@
 | [Cumbia Vallenata](https://open.spotify.com/track/0Auf3tyYKtcf7tUX3K6kbH) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Bobby](https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD) | 3:16 | 2022-06-01 |  |
 | [Cuántas Mentiras](https://open.spotify.com/track/3tvk1SzPEbdvjtWMWQuXLD) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Para Que Baile Mi Pueblo](https://open.spotify.com/album/6m0s7o4LG4nnAbElx9QwIr) | 3:17 | 2022-06-07 | 2022-06-09 |
 | [Desnúdame Con La Boca](https://open.spotify.com/track/44iTkje2BHNMm4DZfa3rf5) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enfermo](https://open.spotify.com/album/6YPqIlrOLgXeOqCVe8yYtH) | 3:44 | 2022-06-03 | 2022-10-13 |
-| [Desvelado](https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:41 | 2022-06-01 | 2024-07-19 |
+| [Desvelado](https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:41 | 2022-06-01 |  |
 | [Dias de Ayer](https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Dias de Ayer](https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg) | 3:26 | 2022-06-01 |  |
 | [Difícil Es](https://open.spotify.com/track/63SeaRiwlp1AwDi1hKPejK) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Para Que Baile Mi Pueblo](https://open.spotify.com/album/6Tr7cW0agoF7qAzHnAYa8b) | 3:16 | 2022-10-30 | 2023-02-20 |
 | [Dime Qué Debo Hacer](https://open.spotify.com/track/4JdXfOJ344Cbf55yzfOZow) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Llegaste A Mi Vida](https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l) | 3:06 | 2022-06-02 | 2022-10-13 |
@@ -81,7 +81,7 @@
 | [Tarjeta Roja](https://open.spotify.com/track/5qthAx863ljpv5HLiX9mFj) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Paco Barrón y sus Norteños Clan](https://open.spotify.com/artist/1Uz4WPsI4VylKT6lhJiDO5) | [Mano A Mano](https://open.spotify.com/album/0cnHfiGIPLUCmg7eE135Te) | 2:42 | 2022-06-01 |  |
 | [Te Voy A Amar](https://open.spotify.com/track/7H9BJi45b1XJwYiC1vajfc) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:56 | 2022-06-01 |  |
 | [The Hits Medley: Desvelado/Enséname/A Tu Lado \- En Vivo](https://open.spotify.com/track/7pob0oZ2KwUG7nRlVuwrxs) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [En Vivo Desde las Vegas](https://open.spotify.com/album/3N5UtKDt4taayE7fajYV0J) | 6:40 | 2022-06-01 |  |
-| [Tus Besos \(feat\. Bobby Pulido\)](https://open.spotify.com/track/7rnrCKF2EepfbYzMjz400n) | [Agrupación Cariño](https://open.spotify.com/artist/6wRhvAUh6C5QUoK59hc9A1), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [El Lado Oscuro del Amor](https://open.spotify.com/album/1psax3q5uCURpO6RrgSrba) | 3:31 | 2022-10-12 |  |
+| [Tus Besos \(feat\. Bobby Pulido\)](https://open.spotify.com/track/7rnrCKF2EepfbYzMjz400n) | [Agrupación Cariño](https://open.spotify.com/artist/6wRhvAUh6C5QUoK59hc9A1), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [El Lado Oscuro del Amor](https://open.spotify.com/album/1psax3q5uCURpO6RrgSrba) | 3:31 | 2022-10-12 | 2024-07-20 |
 | [Un Golpe De Suerte](https://open.spotify.com/track/6AEpDGDeJrn8xskPJQeGMv) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:23 | 2022-06-01 |  |
 | [Vanidosa](https://open.spotify.com/track/2YLoqYRDpNMwSvTGhjP3gC) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Bobby](https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD) | 3:27 | 2022-06-01 |  |
 | [Vive](https://open.spotify.com/track/6ljSbHWwuUsDfOswRHlomj) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 4:14 | 2022-06-01 |  |

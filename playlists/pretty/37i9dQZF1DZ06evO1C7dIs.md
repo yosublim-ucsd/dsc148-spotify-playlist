@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 
 > This is Nightwish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,229 likes - 51 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,272 likes - 51 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 | 36 | [Stargazers](https://open.spotify.com/track/6iB8e72Dgdvrnn4AuvIgmP) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/1lv3jeWOa1sKHdns4gAt3q) | 4:28 |
 | 37 | [Deep Silent Complete](https://open.spotify.com/track/3Fba4XIaDBLFfKrOcsBjsY) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV) | 3:57 |
 | 38 | [Pan](https://open.spotify.com/track/1XcTT3XqNalzJMamAiIqOW) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:18 |
-| 39 | [Escapist](https://open.spotify.com/track/66X2i4bMFJB9zGgff9gyzq) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Bye Bye Beautiful](https://open.spotify.com/album/4qomktB4Z9mQVPm42eEYwd) | 5:01 |
+| 39 | [For the Heart I Once Had](https://open.spotify.com/track/2FPkCIeZJ9SO3g606XLJA4) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD) | 3:56 |
 | 40 | [Sacrament Of Wilderness](https://open.spotify.com/track/6MNfIYJglkFfhDt8Lmye8d) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/1lv3jeWOa1sKHdns4gAt3q) | 4:12 |
-| 41 | [For the Heart I Once Had](https://open.spotify.com/track/2FPkCIeZJ9SO3g606XLJA4) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD) | 3:56 |
+| 41 | [Escapist](https://open.spotify.com/track/66X2i4bMFJB9zGgff9gyzq) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Bye Bye Beautiful](https://open.spotify.com/album/4qomktB4Z9mQVPm42eEYwd) | 5:01 |
 | 42 | [Come Cover Me](https://open.spotify.com/track/1RSKK7hj4emItvmh45crcX) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV) | 4:34 |
 | 43 | [10th Man Down](https://open.spotify.com/track/6ufTwGcAxjHAYlTrhxeyME) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Over The Hills And Far Away](https://open.spotify.com/album/6j4E355c5CbrduKa4rGGLj) | 5:20 |
 | 44 | [Harvest](https://open.spotify.com/track/06h4HxzQkqx45lCRxDe4lA) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:13 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 | 50 | [Last of the Wilds](https://open.spotify.com/track/6UN6xo95p2gTCmmFmwgKBw) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD) | 5:40 |
 | 51 | [Moondance](https://open.spotify.com/track/1IzlSeZQE4PwIPSaUsv0AV) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/5Ox45OAhKONmMKMrJSEsLp) | 3:31 |
 
-Snapshot ID: `ZpcJgAAAAAC9RiPOddEtJG5LoFUiL0AZ`
+Snapshot ID: `ZphbAAAAAACC+zBTAcyjefBeQaDjAuof`

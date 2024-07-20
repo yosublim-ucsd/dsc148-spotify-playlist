@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 
 > Súbete a la troca ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,617 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,632 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 70 | [Mientras no Vuelves](https://open.spotify.com/track/7zUL3ljTTok6a3ZLfxWAvw) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Mientras no Vuelves](https://open.spotify.com/album/73N5MlAHtOwluaDHv5vtLZ) | 3:17 |
 | 71 | [Ando Sad](https://open.spotify.com/track/2kkXtrMcusksHbshFn8kPf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ando Sad](https://open.spotify.com/album/3YK7JmTZQmwnSNbNv9asHS) | 2:38 |
 | 72 | [Mi Amor Por Ti](https://open.spotify.com/track/0IGpYzIRYza9qAdhFUQrU9) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mi Amor Por Ti](https://open.spotify.com/album/5r1ngyoVvPgfgYeUl5nZ8K) | 3:47 |
-| 73 | [MALDITO ALCOHOL](https://open.spotify.com/track/1WJwXj50c0du75fIkeEMDY) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [EVOLUXION](https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0) | 4:02 |
-| 74 | [Bulgari](https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Bulgari](https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L) | 2:44 |
+| 73 | [Bulgari](https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Bulgari](https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L) | 2:44 |
+| 74 | [MALDITO ALCOHOL](https://open.spotify.com/track/1WJwXj50c0du75fIkeEMDY) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [EVOLUXION](https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0) | 4:02 |
 | 75 | [Vestido Negro](https://open.spotify.com/track/5nkK1Ndk8f2tE7l7MRDjyh) | [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5) | [Vestido Negro](https://open.spotify.com/album/34VSDhNg7x8hHOkVxPzaVO) | 3:17 |
 | 76 | [Ganas De Ti](https://open.spotify.com/track/6HmqcVpzZrbvec4Tdpn7LB) | [Ismael CM](https://open.spotify.com/artist/3HU9m7qsanEKWC9kwxWsRR), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Yahir Tarin](https://open.spotify.com/artist/2YUtlNyQTom6uTK0wV0HMQ) | [Ganas De Ti](https://open.spotify.com/album/3oOyMmhpVUQ0r8BdP1y5ox) | 3:11 |
 | 77 | [ME TODO](https://open.spotify.com/track/3txgvzWrRcSBSp70btzMmG) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [ME TODO](https://open.spotify.com/album/56HJIyM6FmOn1xEEDoJzz6) | 2:33 |

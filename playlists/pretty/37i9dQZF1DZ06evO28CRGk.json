@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAADPVFZzPq/PP9KLmehgCc6g",
+  "snapshot_id": "ZphbAAAAAADa/976tVDgtywWjU5ZTM8E",
   "tracks": [
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 130643,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/0tOm8JheU3f85WPwXcygJG"
+      "duration_ms": 158000,
+      "name": "Rap Shit",
+      "url": "https://open.spotify.com/track/7qwh8F8XrjJg9WKIuFBE2T"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Rap Shit",
-      "url": "https://open.spotify.com/track/7qwh8F8XrjJg9WKIuFBE2T"
+      "duration_ms": 130643,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/0tOm8JheU3f85WPwXcygJG"
     },
     {
       "added_at": null,
@@ -703,30 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Newport Authority 2",
-        "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Rakim",
-          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
-        },
-        {
-          "name": "Reggie B.",
-          "url": "https://open.spotify.com/artist/4nVxsUbxbdvvdQrTBUPr9H"
-        }
-      ],
-      "duration_ms": 238252,
-      "name": "Cur$ed (What's Wrong Remix)",
-      "url": "https://open.spotify.com/track/3Rz5IJhHz9cJKuygWTEMK6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Midnight Run",
         "url": "https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK"
       },
@@ -775,6 +751,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Newport Authority 2",
+        "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        {
+          "name": "Reggie B.",
+          "url": "https://open.spotify.com/artist/4nVxsUbxbdvvdQrTBUPr9H"
+        }
+      ],
+      "duration_ms": 238252,
+      "name": "Cur$ed (What's Wrong Remix)",
+      "url": "https://open.spotify.com/track/3Rz5IJhHz9cJKuygWTEMK6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Breukelen Story",
         "url": "https://open.spotify.com/album/1R3JKxtFrNZI31eNg0JYth"
       },
@@ -799,26 +799,6 @@
       "duration_ms": 227624,
       "name": "The Fight Song (feat. Pharoahe Monch)",
       "url": "https://open.spotify.com/track/3Semiur4LDOYnSjSKfWegW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Newport Authority 2",
-        "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Das EFX",
-          "url": "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
-        }
-      ],
-      "duration_ms": 198418,
-      "name": "BK 2 NJ",
-      "url": "https://open.spotify.com/track/5f6Rk1SBRTd5fCJ3BusPBA"
     },
     {
       "added_at": null,
@@ -859,6 +839,26 @@
       "duration_ms": 180506,
       "name": "Danger",
       "url": "https://open.spotify.com/track/7lRvPKj9HX2vyiolG2uP48"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Newport Authority 2",
+        "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Das EFX",
+          "url": "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
+        }
+      ],
+      "duration_ms": 198418,
+      "name": "BK 2 NJ",
+      "url": "https://open.spotify.com/track/5f6Rk1SBRTd5fCJ3BusPBA"
     },
     {
       "added_at": null,
@@ -979,18 +979,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Port Authority: Instrumentals",
-        "url": "https://open.spotify.com/album/1lcRcpO52ZmsfWhtn6USOx"
+        "name": "Newport Authority 2",
+        "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
       },
       "artists": [
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Big Daddy Kane",
+          "url": "https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W"
         }
       ],
-      "duration_ms": 239887,
-      "name": "Low Budget Allstars",
-      "url": "https://open.spotify.com/track/7BoOgKHYSccK4riG6Dg7hp"
+      "duration_ms": 214601,
+      "name": "Nite & Day",
+      "url": "https://open.spotify.com/track/0m3osdhVkpzPUNojzC7xo1"
     },
     {
       "added_at": null,
@@ -1015,8 +1019,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Newport Authority 2",
-        "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
+        "name": "Port Authority",
+        "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
       },
       "artists": [
         {
@@ -1024,13 +1028,13 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         },
         {
-          "name": "Big Daddy Kane",
-          "url": "https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W"
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
         }
       ],
-      "duration_ms": 214601,
-      "name": "Nite & Day",
-      "url": "https://open.spotify.com/track/0m3osdhVkpzPUNojzC7xo1"
+      "duration_ms": 236626,
+      "name": "War",
+      "url": "https://open.spotify.com/track/6V6M93Ape70kdvUl28xGW1"
     },
     {
       "added_at": null,
@@ -1067,22 +1071,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Port Authority",
-        "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
+        "name": "Port Authority: Instrumentals",
+        "url": "https://open.spotify.com/album/1lcRcpO52ZmsfWhtn6USOx"
       },
       "artists": [
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Kardinal Offishall",
-          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
         }
       ],
-      "duration_ms": 236626,
-      "name": "War",
-      "url": "https://open.spotify.com/track/6V6M93Ape70kdvUl28xGW1"
+      "duration_ms": 239887,
+      "name": "Low Budget Allstars",
+      "url": "https://open.spotify.com/track/7BoOgKHYSccK4riG6Dg7hp"
     },
     {
       "added_at": null,
@@ -1162,11 +1162,15 @@
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Dj Haem",
+          "url": "https://open.spotify.com/artist/18517Eowkj2uscvAX3FdOm"
         }
       ],
-      "duration_ms": 210867,
-      "name": "Nie S\u0142ucha\u0107 Przed Trzydziestk\u0105",
-      "url": "https://open.spotify.com/track/51rlx11tFsvWnQWGB3s9Tz"
+      "duration_ms": 235154,
+      "name": "D\u0142ugi",
+      "url": "https://open.spotify.com/track/7haE5yRQF0r2KEjP6wYUVI"
     }
   ],
   "unique_name": "This Is Marco Polo",

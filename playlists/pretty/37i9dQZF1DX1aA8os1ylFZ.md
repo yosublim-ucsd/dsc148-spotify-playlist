@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,435 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,442 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 23 | [act iii: on god? \(she like\)](https://open.spotify.com/track/30uO152on2tYWoE99VaEL5) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act iii: on god? \(she like\)](https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb) | 2:50 |
 | 24 | [R e s e n t m e n t](https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e s e n t m e n t](https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi) | 3:44 |
 | 25 | [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 5:19 |
-| 26 | [Be My Summer](https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Be My Summer](https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C) | 3:06 |
-| 27 | [Feelings \(feat\. J Hus\)](https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:57 |
+| 26 | [Feelings \(feat\. J Hus\)](https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:57 |
+| 27 | [Be My Summer](https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Be My Summer](https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C) | 3:06 |
 | 28 | [JEANS \(with Miguel\)](https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K) | 3:15 |
 | 29 | [These Four Walls](https://open.spotify.com/track/7tzeZLMnqlke2raEMeDZ9S) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [A Brief Nirvana](https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd) | 3:05 |
 | 30 | [YOU](https://open.spotify.com/track/2Y27Z57KII6aZFhZKQj6s8) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [HEAVY](https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX) | 3:31 |
@@ -77,14 +77,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 67 | [Your Love Is All I Need](https://open.spotify.com/track/5K4XGPDbG9CR6hoAM0Htua) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Your Love Is All I Need](https://open.spotify.com/album/4vTUoDz2degpD1NHfCJ0vg) | 2:56 |
 | 68 | [In My Bag](https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:49 |
 | 69 | [Slide](https://open.spotify.com/track/15SHKUdlRaqIVTJWcP5n5a) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Wish You Were Here](https://open.spotify.com/album/3KzXjaZ3bOVtC6RgFCkUTE) | 3:35 |
-| 70 | [L o s e M y M i n d](https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [L o s e M y M i n d](https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI) | 3:03 |
-| 71 | [Solutions](https://open.spotify.com/track/4dzUnPycaoQTzRxm4tqF3O) | [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [Unfiltered](https://open.spotify.com/album/55Z9X5i9tJmBhiSqr5MuAT) | 1:49 |
+| 70 | [Solutions](https://open.spotify.com/track/4dzUnPycaoQTzRxm4tqF3O) | [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [Unfiltered](https://open.spotify.com/album/55Z9X5i9tJmBhiSqr5MuAT) | 1:49 |
+| 71 | [L o s e M y M i n d](https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [L o s e M y M i n d](https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI) | 3:03 |
 | 72 | [Spinn On You](https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Spinn On You](https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w) | 2:20 |
 | 73 | [Stranger](https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Stranger](https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms) | 2:35 |
 | 74 | [Believe](https://open.spotify.com/track/4YYpXaONSBsD2wVAsfxFH6) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME \(Expanded Edition\)](https://open.spotify.com/album/7GZwgBHhaazZ2QnrvbpDPO) | 3:31 |
 | 75 | [Rise](https://open.spotify.com/track/7lEUWRaF6TKaoVOptL4U4E) | [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [Rise](https://open.spotify.com/album/21GSzeC5WsPl6HpRZkYHRU) | 2:50 |
-| 76 | [40 Days](https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [L.I.T \(Lost In Translation\)](https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F) | 3:06 |
-| 77 | [Loveloca](https://open.spotify.com/track/1JCKPYM0yFZfXeC04RmeiB) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH) | [Loveloca](https://open.spotify.com/album/6cc0aH6M1S3SAUdMglc37e) | 2:54 |
+| 76 | [Loveloca](https://open.spotify.com/track/1JCKPYM0yFZfXeC04RmeiB) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH) | [Loveloca](https://open.spotify.com/album/6cc0aH6M1S3SAUdMglc37e) | 2:54 |
+| 77 | [40 Days](https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [L.I.T \(Lost In Translation\)](https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F) | 3:06 |
 | 78 | [History](https://open.spotify.com/track/00YFNV9oDlWZduvoJsjpi0) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [History](https://open.spotify.com/album/0fBXkE3U6UluW9yg1hIWkW) | 2:37 |
 | 79 | [Save Me, Pt\. 2](https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Save Me, Pt\. 2](https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F) | 2:31 |
 | 80 | [Say Yes \(Turquoise\) \(feat\. Joshua J\)](https://open.spotify.com/track/2vkx4WjT1wMJyZu4EEseL3) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG), [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Overture](https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L) | 3:41 |

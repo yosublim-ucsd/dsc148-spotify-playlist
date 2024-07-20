@@ -1,6 +1,6 @@
 {
   "description": "El lado electr\u00f3nico del indie latino, featuring Bob Crous & Andry Bett.",
-  "num_followers": 18798,
+  "num_followers": 18812,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "Tu Olor",
+        "url": "https://open.spotify.com/album/0zUXB3xuiKMQRlY8xHyyH3"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 186459,
+      "name": "Tu Olor",
+      "url": "https://open.spotify.com/track/3cNzf5t9uQbLIwfWEOfpTF"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "anhelo",
         "url": "https://open.spotify.com/album/0ycnaEHl68CAPA2Y4OC6vZ"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 240764,
       "name": "anhelo",
       "url": "https://open.spotify.com/track/2082tbABLulK203QC2AXhB"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Tu Olor",
-        "url": "https://open.spotify.com/album/0zUXB3xuiKMQRlY8xHyyH3"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 186459,
-      "name": "Tu Olor",
-      "url": "https://open.spotify.com/track/3cNzf5t9uQbLIwfWEOfpTF"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -763,42 +763,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "como antes :(",
-        "url": "https://open.spotify.com/album/1UbEziMtTNXhCJadyMWP55"
-      },
-      "artists": [
-        {
-          "name": "Yaima Cat",
-          "url": "https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI"
-        },
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        }
-      ],
-      "duration_ms": 237888,
-      "name": "como antes :(",
-      "url": "https://open.spotify.com/track/6MXABAwOJbAT3kmKLi8clB"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Fuck el Police (Remix)",
-        "url": "https://open.spotify.com/album/3CHiQzPxbqvfkkm2QM3BlM"
-      },
-      "artists": [
-        {
-          "name": "Pyura",
-          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
-        }
-      ],
-      "duration_ms": 261532,
-      "name": "Fuck el Police - Remix",
-      "url": "https://open.spotify.com/track/2v5gBze24GL5nWbZgvaEAk"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Ojos De Fuego (Sinego Remix)",
         "url": "https://open.spotify.com/album/3CmRZMXi7a6xg6wzqrBDZd"
       },
@@ -819,6 +783,22 @@
       "duration_ms": 371857,
       "name": "Ojos De Fuego - Sinego Remix",
       "url": "https://open.spotify.com/track/1QPHeiHP9neITJ5wDLbchb"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Fuck el Police (Remix)",
+        "url": "https://open.spotify.com/album/3CHiQzPxbqvfkkm2QM3BlM"
+      },
+      "artists": [
+        {
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+        }
+      ],
+      "duration_ms": 261532,
+      "name": "Fuck el Police - Remix",
+      "url": "https://open.spotify.com/track/2v5gBze24GL5nWbZgvaEAk"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -883,6 +863,26 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "como antes :(",
+        "url": "https://open.spotify.com/album/1UbEziMtTNXhCJadyMWP55"
+      },
+      "artists": [
+        {
+          "name": "Yaima Cat",
+          "url": "https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI"
+        },
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        }
+      ],
+      "duration_ms": 237888,
+      "name": "como antes :(",
+      "url": "https://open.spotify.com/track/6MXABAwOJbAT3kmKLi8clB"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "\u00a1Tierra a la Vista!",
         "url": "https://open.spotify.com/album/0OSJkds9VzdHHAZB3nI8ca"
       },
@@ -939,26 +939,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "p\u00e9talos",
-        "url": "https://open.spotify.com/album/1z0XIoA6KwsJo7zPoopLqI"
-      },
-      "artists": [
-        {
-          "name": "Yaima Cat",
-          "url": "https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI"
-        },
-        {
-          "name": "Sim\u00f3n Campusano",
-          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
-        }
-      ],
-      "duration_ms": 210330,
-      "name": "p\u00e9talos",
-      "url": "https://open.spotify.com/track/3GGyzRplHTFujmGYnbGm48"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Tan besh",
         "url": "https://open.spotify.com/album/7guUCEylVmfEDaUgLMzz34"
       },
@@ -979,6 +959,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "Pasar\u00e1",
+        "url": "https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC"
+      },
+      "artists": [
+        {
+          "name": "Ino Guridi",
+          "url": "https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7"
+        }
+      ],
+      "duration_ms": 214989,
+      "name": "D\u00edas",
+      "url": "https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "Ficci\u00f3n",
         "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
       },
@@ -995,18 +991,42 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Pasar\u00e1",
-        "url": "https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC"
+        "name": "p\u00e9talos",
+        "url": "https://open.spotify.com/album/1z0XIoA6KwsJo7zPoopLqI"
       },
       "artists": [
         {
-          "name": "Ino Guridi",
-          "url": "https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7"
+          "name": "Yaima Cat",
+          "url": "https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI"
+        },
+        {
+          "name": "Sim\u00f3n Campusano",
+          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
         }
       ],
-      "duration_ms": 214989,
-      "name": "D\u00edas",
-      "url": "https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm"
+      "duration_ms": 210330,
+      "name": "p\u00e9talos",
+      "url": "https://open.spotify.com/track/3GGyzRplHTFujmGYnbGm48"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "No te sueltes",
+        "url": "https://open.spotify.com/album/1ol52rgBgzxAVG9e9u3J36"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Ubilla",
+          "url": "https://open.spotify.com/artist/0rkTDLyLbTS8kdXdV9ivdN"
+        },
+        {
+          "name": "Felicia Morales",
+          "url": "https://open.spotify.com/artist/7kR5ApwlIHd7ket5zyDwTC"
+        }
+      ],
+      "duration_ms": 225002,
+      "name": "No te sueltes",
+      "url": "https://open.spotify.com/track/2dLmnd5RQmCA913yR2mEAD"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1043,26 +1063,6 @@
       "duration_ms": 256566,
       "name": "De Otra Vida",
       "url": "https://open.spotify.com/track/3c27ZTYS7cKiySSBNElVAh"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "No te sueltes",
-        "url": "https://open.spotify.com/album/1ol52rgBgzxAVG9e9u3J36"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Ubilla",
-          "url": "https://open.spotify.com/artist/0rkTDLyLbTS8kdXdV9ivdN"
-        },
-        {
-          "name": "Felicia Morales",
-          "url": "https://open.spotify.com/artist/7kR5ApwlIHd7ket5zyDwTC"
-        }
-      ],
-      "duration_ms": 225002,
-      "name": "No te sueltes",
-      "url": "https://open.spotify.com/track/2dLmnd5RQmCA913yR2mEAD"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1211,22 +1211,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Voces",
-        "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
+        "name": "Nada que ver",
+        "url": "https://open.spotify.com/album/65G9K1ZVORf6C2esI96EGI"
       },
       "artists": [
         {
-          "name": "Julais",
-          "url": "https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF"
+          "name": "Halpe",
+          "url": "https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy"
         },
         {
-          "name": "Eve Calletti",
-          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+          "name": "Solo Juan",
+          "url": "https://open.spotify.com/artist/6RokCoxONJFwZ3myq6unmI"
         }
       ],
-      "duration_ms": 192786,
-      "name": "Voces",
-      "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
+      "duration_ms": 193971,
+      "name": "Nada que ver",
+      "url": "https://open.spotify.com/track/3lD8DZfzilDTI0R42VSCvr"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1251,22 +1251,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Nada que ver",
-        "url": "https://open.spotify.com/album/65G9K1ZVORf6C2esI96EGI"
+        "name": "Voces",
+        "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
       },
       "artists": [
         {
-          "name": "Halpe",
-          "url": "https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy"
+          "name": "Julais",
+          "url": "https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF"
         },
         {
-          "name": "Solo Juan",
-          "url": "https://open.spotify.com/artist/6RokCoxONJFwZ3myq6unmI"
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
         }
       ],
-      "duration_ms": 193971,
-      "name": "Nada que ver",
-      "url": "https://open.spotify.com/track/3lD8DZfzilDTI0R42VSCvr"
+      "duration_ms": 192786,
+      "name": "Voces",
+      "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Arde",
-        "url": "https://open.spotify.com/album/5me5lcvtqBcly58BKl6LCX"
-      },
-      "artists": [
-        {
-          "name": "dinastia",
-          "url": "https://open.spotify.com/artist/34y6hMib20KsOtCnuXRNgp"
-        },
-        {
-          "name": "Halpe",
-          "url": "https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy"
-        }
-      ],
-      "duration_ms": 179612,
-      "name": "Arde",
-      "url": "https://open.spotify.com/track/2t59QBQmAiGuXNjb4jc7Qh"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "ON\u00cdRIKA",
         "url": "https://open.spotify.com/album/6QLEJbuQAJnC8u62fMpr0b"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 280625,
       "name": "\u00bfDe Qu\u00e9 Sirve?",
       "url": "https://open.spotify.com/track/0nj6RDxpCQOBawgxFzYLEm"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Arde",
+        "url": "https://open.spotify.com/album/5me5lcvtqBcly58BKl6LCX"
+      },
+      "artists": [
+        {
+          "name": "dinastia",
+          "url": "https://open.spotify.com/artist/34y6hMib20KsOtCnuXRNgp"
+        },
+        {
+          "name": "Halpe",
+          "url": "https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy"
+        }
+      ],
+      "duration_ms": 179612,
+      "name": "Arde",
+      "url": "https://open.spotify.com/track/2t59QBQmAiGuXNjb4jc7Qh"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Amor (Remix)",
-        "url": "https://open.spotify.com/album/0gWxvPH2Ff45ZHyLPW14pd"
-      },
-      "artists": [
-        {
-          "name": "Kush Mama",
-          "url": "https://open.spotify.com/artist/7IaPQKeWAra6PB5Vjx5uvJ"
-        }
-      ],
-      "duration_ms": 306500,
-      "name": "Amor - Remix",
-      "url": "https://open.spotify.com/track/7aexh1SaZkQDwXoo0v1paF"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Pervertida",
         "url": "https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK"
       },
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "Amor (Remix)",
+        "url": "https://open.spotify.com/album/0gWxvPH2Ff45ZHyLPW14pd"
+      },
+      "artists": [
+        {
+          "name": "Kush Mama",
+          "url": "https://open.spotify.com/artist/7IaPQKeWAra6PB5Vjx5uvJ"
+        }
+      ],
+      "duration_ms": 306500,
+      "name": "Amor - Remix",
+      "url": "https://open.spotify.com/track/7aexh1SaZkQDwXoo0v1paF"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "Bocado a Bocado",
         "url": "https://open.spotify.com/album/4kmFRMOjrFEZmhm5xHD5k9"
       },
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Modernos",
-        "url": "https://open.spotify.com/album/3fWV46dBC3QBaVNa241fO0"
-      },
-      "artists": [
-        {
-          "name": "La Femme D\u00b4Argent",
-          "url": "https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ"
-        }
-      ],
-      "duration_ms": 253500,
-      "name": "Modernos",
-      "url": "https://open.spotify.com/track/0fXdGk5hDi1uvtFFq3QjFp"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Fotogr\u00e1fica",
         "url": "https://open.spotify.com/album/4QocZENZd5eWaDxRueWwkH"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 251428,
       "name": "Fotogr\u00e1fica",
       "url": "https://open.spotify.com/track/2Tcdm44krbRkwi5OLLNQ9o"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Modernos",
+        "url": "https://open.spotify.com/album/3fWV46dBC3QBaVNa241fO0"
+      },
+      "artists": [
+        {
+          "name": "La Femme D\u00b4Argent",
+          "url": "https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ"
+        }
+      ],
+      "duration_ms": 253500,
+      "name": "Modernos",
+      "url": "https://open.spotify.com/track/0fXdGk5hDi1uvtFFq3QjFp"
     },
     {
       "added_at": "2024-07-19 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HJZtcjGrCn.md) - [plain]
 
 > Música independente\. A tua alternativa ao mainstream\. Foto: Glass Animals
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,205 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,204 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HJZtcjGrCn.md) - [plain]
 | 51 | [Cherry Blossom](https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Cherry Blossom](https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD) | 3:27 |
 | 52 | [Toro](https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Toro / Alone in Miami](https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9) | 2:55 |
 | 53 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 |
-| 54 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 |
+| 54 | [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 |
 | 55 | [True Blue](https://open.spotify.com/track/48Qes8IUekSZpcNDQgYzUX) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:56 |
 | 56 | [Are You Looking Up](https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:46 |
 | 57 | [Living In A Haze \- feat\. The Beaches](https://open.spotify.com/track/5QPRZdajTSKbdUERR8zvWB) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Living In A Haze \(feat\. The Beaches\)](https://open.spotify.com/album/6MbzxC0YsqsGyVCOF7nO9E) | 2:53 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HJZtcjGrCn.md) - [plain]
 | 59 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 |
 | 60 | [Claw Foot](https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE) | 2:46 |
 | 61 | [run!](https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 3:08 |
-| 62 | [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 |
+| 62 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 |
 | 63 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 |
 | 64 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 |
 | 65 | [Kind Of Man](https://open.spotify.com/track/3JMc2rsrzFkhEyma8c56Xc) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Kind Of Man](https://open.spotify.com/album/7bSCE8LUTgZ8lEWLjDKcy4) | 4:15 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HJZtcjGrCn.md) - [plain]
 | 73 | [symptom of life](https://open.spotify.com/track/63SFAhNnOER587HfPOq4cO) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [symptom of life](https://open.spotify.com/album/7geRIwdu4x2plurupRu4GA) | 3:09 |
 | 74 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 |
 | 75 | [Lonely Cowboy \- Radio Edit](https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 3:23 |
-| 76 | [Just a Dance](https://open.spotify.com/track/2iulJlc0L0rbcvowdlib7J) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Just a Dance](https://open.spotify.com/album/39ZiNIvTOozeE4EcV0Ax5e) | 2:40 |
-| 77 | [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 |
+| 76 | [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 |
+| 77 | [Just a Dance](https://open.spotify.com/track/2iulJlc0L0rbcvowdlib7J) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Just a Dance](https://open.spotify.com/album/39ZiNIvTOozeE4EcV0Ax5e) | 2:40 |
 | 78 | [The End](https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [The End](https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ) | 3:25 |
 | 79 | [I Went Dancing With My Sister \- Bonus Track](https://open.spotify.com/track/2E8p2xkMaloP8V7tSgi0Ba) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans \(Deluxe Edition\)](https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa) | 4:22 |
 | 80 | [Split Screen](https://open.spotify.com/track/35mrmYpwNGBmNJmtuG9XJD) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Split Screen](https://open.spotify.com/album/0rShpMJT1yw6TiqNHBjluR) | 5:03 |

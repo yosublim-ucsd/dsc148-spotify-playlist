@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 
 > Klingt nach Sonne + Meer, egal wo du bist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,042,784 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,042,926 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 24 | [Stay](https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Stay](https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q) | 2:57 |
 | 25 | [Done With You](https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh) | 2:38 |
 | 26 | [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 |
-| 27 | [Head In The Clouds](https://open.spotify.com/track/3CeKc83EsgRPItgvlDHo5B) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [Changes \- EP](https://open.spotify.com/album/1GknYqyoJ7ZHn8ch5PJipt) | 3:04 |
-| 28 | [Summer Song](https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Summer Song](https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL) | 4:05 |
+| 27 | [Summer Song](https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Summer Song](https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL) | 4:05 |
+| 28 | [Head In The Clouds](https://open.spotify.com/track/3CeKc83EsgRPItgvlDHo5B) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [Changes \- EP](https://open.spotify.com/album/1GknYqyoJ7ZHn8ch5PJipt) | 3:04 |
 | 29 | [evermore \(feat\. Bon Iver\)](https://open.spotify.com/track/0AaV4MJrgmLV3XhoiWXjjb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 5:04 |
 | 30 | [Acoustic](https://open.spotify.com/track/7kr3xZk4yb3YSZ4VFtg2Qt) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [1975](https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ) | 2:52 |
 | 31 | [Hu Man](https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Hu Man](https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W) | 3:23 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 66 | [Again](https://open.spotify.com/track/4cqhGio3kbnB6J40eG9xNt) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Again](https://open.spotify.com/album/239APOjX3uFCNEWFWfwYUZ) | 3:49 |
 | 67 | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I) | 2:31 |
 | 68 | [Airplanes](https://open.spotify.com/track/6Zp3kQqnDEd27R83EPaycz) | [Tomas Ferdinand](https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf) | [Airplanes](https://open.spotify.com/album/3Zz9QEKwgbkjX7BKMNtimZ) | 2:37 |
-| 69 | [April May July](https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [April May July](https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc) | 3:53 |
-| 70 | [Stand up and Dance](https://open.spotify.com/track/5F7mbwOcTUFUmyXOWMpShx) | [Sweetlemon](https://open.spotify.com/artist/2KmjVKSwAKI5DfEaQzx76W) | [Stand up and Dance](https://open.spotify.com/album/507a77zJ1BTZZQJbVi4cbs) | 3:56 |
-| 71 | [Girl Next Door](https://open.spotify.com/track/3pmUlOm2bpXVJ40ByeGSMA) | [JISKA](https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN) | [Girl Next Door](https://open.spotify.com/album/3mXNOCqDeqB8M5Z1QzYoaH) | 3:34 |
+| 69 | [Stand up and Dance](https://open.spotify.com/track/5F7mbwOcTUFUmyXOWMpShx) | [Sweetlemon](https://open.spotify.com/artist/2KmjVKSwAKI5DfEaQzx76W) | [Stand up and Dance](https://open.spotify.com/album/507a77zJ1BTZZQJbVi4cbs) | 3:56 |
+| 70 | [Girl Next Door](https://open.spotify.com/track/3pmUlOm2bpXVJ40ByeGSMA) | [JISKA](https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN) | [Girl Next Door](https://open.spotify.com/album/3mXNOCqDeqB8M5Z1QzYoaH) | 3:34 |
+| 71 | [April May July](https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [April May July](https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc) | 3:53 |
 | 72 | [Versailles \(Hold\) \- Edit](https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Versailles \(Hold\)](https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15) | 3:38 |
 | 73 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 |
 | 74 | [Only Love](https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT) | [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Damn the Wild Air, Pt\. 01](https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk) | 3:27 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 77 | [Greed](https://open.spotify.com/track/08ieGNMFXGov5zk7VZ6box) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Greed](https://open.spotify.com/album/6Ve1hXgzBAID5x42Ipfhpm) | 3:41 |
 | 78 | [when words fail](https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA) | [Lara Samira](https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3) | [when words fail](https://open.spotify.com/album/2NU3pJ1McxMPwuVL2udxWU) | 2:56 |
 | 79 | [Stay cool](https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Stay cool](https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo) | 3:27 |
-| 80 | [Skin \(Elegy of Symmetry\) Skin](https://open.spotify.com/track/02lVk52v9bkcEoxz4e8jSU) | [Baswod](https://open.spotify.com/artist/4Fyg9gSddk9pF3Rgaruli6) | [I Need You to Pencil in the Rest](https://open.spotify.com/album/49SnLYDJQbd6XRsrME3o77) | 3:20 |
+| 80 | [Put Your Head On My Shoulder](https://open.spotify.com/track/3cJwTilE6kI2HR0L2lX6H0) | [Lotus Blue](https://open.spotify.com/artist/5vIpTlpycbPrgO3WQenRPk) | [Put Your Head On My Shoulder](https://open.spotify.com/album/5X0gns8uxKffX6hU74foJ9) | 2:32 |
 
-Snapshot ID: `Zo+EpwAAAADyjWDkdwgx1ZDmJfx/9kXf`
+Snapshot ID: `ZppU1gAAAAACYOi2m8i180lKKmuiEdUU`

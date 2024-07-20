@@ -5143,6 +5143,28 @@
     },
     {
       "album": {
+        "name": "Rally Up!",
+        "url": "https://open.spotify.com/album/3gK2I4lWiSuhgH9nuhO8SW"
+      },
+      "artists": [
+        {
+          "name": "Grioten",
+          "url": "https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt"
+        },
+        {
+          "name": "XI$OW",
+          "url": "https://open.spotify.com/artist/7K0qGLCOb8pvUumHWsYSjF"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93596,
+      "name": "Rally Up!",
+      "url": "https://open.spotify.com/track/0FqOa0eycFePycgxkwBUyE"
+    },
+    {
+      "album": {
         "name": "Rave Teacher",
         "url": "https://open.spotify.com/album/213FdGnBTwgFAAbSroLCwD"
       },

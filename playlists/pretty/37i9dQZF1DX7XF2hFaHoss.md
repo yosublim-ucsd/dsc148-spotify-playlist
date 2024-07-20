@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 
 > The very best acoustic songs from singer\-songwriters making waves\. Cover: Aoife O’Donovan
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,904 likes - 90 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,908 likes - 90 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 6 | [Graceland Too](https://open.spotify.com/track/44spdItKKM7rOtKswbBG0U) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:56 |
 | 7 | [Older](https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY) | 3:21 |
 | 8 | [Rockland](https://open.spotify.com/track/5V03tsbEzYG0PmRrh3K4rF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:37 |
-| 9 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 |
-| 10 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 |
+| 9 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 |
+| 10 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 |
 | 11 | [In Dreams \- Alternative Version](https://open.spotify.com/track/0xJDTRuEuSlP95wHnrLnLx) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [In Dreams \(Alternative Version\)](https://open.spotify.com/album/0CvZulEryG0ohlt1QFVHhM) | 2:43 |
 | 12 | [Sorry Now](https://open.spotify.com/track/2I0t9apRfrVbkxr8Fym2yf) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Thirties](https://open.spotify.com/album/4ITAxjdVfgevnS8SA4liGZ) | 3:12 |
 | 13 | [Wouldn't Come Back](https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Wouldn't Come Back](https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1) | 3:39 |
@@ -72,13 +72,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 62 | [Awake Me \- Acoustic](https://open.spotify.com/track/5XrJkrEfUx0UeTWzQeqO1k) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Awake Me \(Acoustic\)](https://open.spotify.com/album/78Du9LnVvLDyWbISr3dSCR) | 5:12 |
 | 63 | [Be Careful](https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Be Careful](https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf) | 5:42 |
 | 64 | [August \(feat\. Adam Melchor\)](https://open.spotify.com/track/2i650Qa2Mw4brCjxulbacC) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [August \(feat\. Adam Melchor\)](https://open.spotify.com/album/7rCjzf8hQdihYpq1NbWAJn) | 3:41 |
-| 65 | [Sober](https://open.spotify.com/track/3fTokbLfwqwi5cMZmGcI4b) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Choices](https://open.spotify.com/album/6zE8tiHOsAe74bv0VJIYX5) | 3:02 |
-| 66 | [Save This Heart](https://open.spotify.com/track/5B1KYVaGIsI7v7LZYbXWI8) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Rise](https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb) | 3:01 |
+| 65 | [Save This Heart](https://open.spotify.com/track/5B1KYVaGIsI7v7LZYbXWI8) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Rise](https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb) | 3:01 |
+| 66 | [Sober](https://open.spotify.com/track/3fTokbLfwqwi5cMZmGcI4b) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Choices](https://open.spotify.com/album/6zE8tiHOsAe74bv0VJIYX5) | 3:02 |
 | 67 | [Such Love Does](https://open.spotify.com/track/47gFlybCCArb5b4VHbJhh0) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Such Love Does](https://open.spotify.com/album/7qNbPyJsIY98uut0qke5PY) | 3:20 |
 | 68 | [Kindergarten Heart](https://open.spotify.com/track/4sfkyrxPn0YOCohtvBRPJo) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Kindergarten Heart](https://open.spotify.com/album/3H7nFcNvSTRr5e1hOU3neJ) | 2:57 |
 | 69 | [Hard Things](https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK) | [Sarah Buxton](https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP) | [Hard Things](https://open.spotify.com/album/4mj6XqOhQggJgFnjJwlRTH) | 4:23 |
-| 70 | [Feels Like Magic](https://open.spotify.com/track/4OQAl1UeO0DF6aP3XgXp6F) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Feels Like Magic](https://open.spotify.com/album/15alEIqBgadwC3kR7xq99y) | 3:07 |
-| 71 | [Real Love](https://open.spotify.com/track/2rQMHZq7jnK0J2izGbCj0Z) | [Cammy Enaharo](https://open.spotify.com/artist/0iM6AplgWF7ISiwJaBhXLF) | [Hard To Look At](https://open.spotify.com/album/22dE6uGzAupKicgRGotoNv) | 2:29 |
+| 70 | [Real Love](https://open.spotify.com/track/2rQMHZq7jnK0J2izGbCj0Z) | [Cammy Enaharo](https://open.spotify.com/artist/0iM6AplgWF7ISiwJaBhXLF) | [Hard To Look At](https://open.spotify.com/album/22dE6uGzAupKicgRGotoNv) | 2:29 |
+| 71 | [Feels Like Magic](https://open.spotify.com/track/4OQAl1UeO0DF6aP3XgXp6F) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Feels Like Magic](https://open.spotify.com/album/15alEIqBgadwC3kR7xq99y) | 3:07 |
 | 72 | [Groceries](https://open.spotify.com/track/6eqtIVUZAuHJyokiR03I0k) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer](https://open.spotify.com/album/6qy3kKRePcyju3SxF34kOh) | 3:34 |
 | 73 | [See the Day](https://open.spotify.com/track/02FXmW3KGdhRZKGNccwl5r) | [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [See the Day](https://open.spotify.com/album/69DnDDvVwm7QHff7CLWWT4) | 3:08 |
 | 74 | [In Another Life](https://open.spotify.com/track/1DKzWnbwEwtoAZEFMQ97Ds) | [Beth Whitney](https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu) | [In Another Life](https://open.spotify.com/album/2PsEEtCJbG1AfrWeLP6POz) | 3:58 |

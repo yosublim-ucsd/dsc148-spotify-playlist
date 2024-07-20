@@ -4,7 +4,7 @@
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:6dBxV47XdYFxRPmDGSyhgh">Omy Alka</a>
 
-1,966 songs - 5 day 23 hr 10 min
+1,967 songs - 5 day 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1193,6 +1193,7 @@
 | [Nada pa nosotros](https://open.spotify.com/track/2FcSSak543lesyyOCWrreJ) | [Dani Machine](https://open.spotify.com/artist/6TeuImCe2URuzZG1GoETm3), [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH) | [Nada pa nosotros](https://open.spotify.com/album/40Jdyr4OOw6qMZVegMqeiT) | 3:00 | 2023-09-29 | 2023-11-18 |
 | [NADA QUE TEMER](https://open.spotify.com/track/1xhzIlWnh3lKkEfm0FNsbT) | [Roberto Rosso](https://open.spotify.com/artist/1j4W3yOBthwGj4wWrGPtfA), [Joe Gozo](https://open.spotify.com/artist/5WxYUvlCb3r2fUlJwEIGUn) | [NADA QUE TEMER](https://open.spotify.com/album/1QhzHrtufsIm7Wrkx7lzC1) | 3:21 | 2024-06-21 | 2024-07-13 |
 | [Nadie Como Tu](https://open.spotify.com/track/1dotiu27mLh3JT8PU0fKHC) | [Josh Lopez](https://open.spotify.com/artist/0qSGHbYMTrls3ruaGGemBE), [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [Nadie Como Tu](https://open.spotify.com/album/5XVVwXBJ98tiN2jscvJ0Zo) | 4:08 | 2022-09-30 | 2022-10-15 |
+| [Nadie Como Tú](https://open.spotify.com/track/6Hk6GBMOAw2NHJQEEAGIlH) | [Origen MSC](https://open.spotify.com/artist/0Gt3KbK9CNKzKtL8EbGwow) | [Nadie Como Tú](https://open.spotify.com/album/53TtKThOuK4Dn5sZf23DPR) | 7:09 | 2024-07-19 |  |
 | [Nadie Como Tú \(Sesiones Acústicas\)](https://open.spotify.com/track/1pVj7ZIqKGDkWjOyAdUAte) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj) | [Sesiones Acústicas](https://open.spotify.com/album/4qJJPN26P6zrvDj9JeWrF5) | 5:48 | 2024-04-05 | 2024-06-08 |
 | [Nadie Más Hermoso](https://open.spotify.com/track/3ixSBwWFsmRPAo4gavGiOi) | [Jésed](https://open.spotify.com/artist/3TXp4wMgvRheVQPf1PEV2P) | [Nadie Más Hermoso](https://open.spotify.com/album/4cMRj99PSF3a9fmZ4X6qID) | 4:54 | 2022-04-08 | 2022-05-28 |
 | [Nadie Más Que Cristo](https://open.spotify.com/track/4UN2rWfJNWe2fhBzpaNusm) | [Victory House Worship](https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI) | [Nadie Más Que Cristo](https://open.spotify.com/album/2r0xGUzehk4JId9ldrZVws) | 6:11 | 2023-03-31 | 2023-05-06 |

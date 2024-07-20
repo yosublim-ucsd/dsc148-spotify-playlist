@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,322 likes - 79 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,363 likes - 79 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 22 | [Sweet Oblivion](https://open.spotify.com/track/62ZeAQ8DHdCXJqPQVOTsKu) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Sweet Oblivion](https://open.spotify.com/album/07gvXUNtRMXI98Hf3dd118) | 2:15 |
 | 23 | [Better ft\. Cuco](https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Better ft\. Cuco](https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx) | 2:57 |
 | 24 | [Deep Scene](https://open.spotify.com/track/3hbLGYn8bCeOMhFoknul7k) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Deep Scene](https://open.spotify.com/album/0nJr15igzbLH7s1AsAa2pn) | 4:19 |
-| 25 | [GEMINI \(feat\. Jackie Giroux\)](https://open.spotify.com/track/5j99dfS5X643RxuJdyizt3) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Jackie Giroux](https://open.spotify.com/artist/5QX6gWlu1rdoTKPZ9FiwYh) | [1\-800 FANTASY](https://open.spotify.com/album/4Hc9kwSIRb2jgE441FOueK) | 2:37 |
+| 25 | [GEMINI](https://open.spotify.com/track/5j99dfS5X643RxuJdyizt3) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Jackie Giroux](https://open.spotify.com/artist/5QX6gWlu1rdoTKPZ9FiwYh) | [1\-800 FANTASY](https://open.spotify.com/album/4Hc9kwSIRb2jgE441FOueK) | 2:37 |
 | 26 | [Hey Homie](https://open.spotify.com/track/5HlzvCWmwMFeA0ENrG8ixa) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Hey Homie](https://open.spotify.com/album/0kZYADBXJfq3MIUmG1ebYR) | 3:09 |
 | 27 | [HOODLUMZ \(with PlayThatBoiZay & A$AP Rocky\)](https://open.spotify.com/track/3vDSn3BLIJKMHGrGC0zAib) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HOODLUMZ \(with PlayThatBoiZay & A$AP Rocky\)](https://open.spotify.com/album/2KunOxPu4RavN3VZ08vv5D) | 2:09 |
 | 28 | [2AM](https://open.spotify.com/track/2gvnHG9hb9S7Dwlo6EwAek) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [2AM](https://open.spotify.com/album/35AzGnMYa7ICT9A9jonkIx) | 2:26 |

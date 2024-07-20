@@ -1,12 +1,12 @@
 {
-  "description": "This is Jane's Addiction. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 41646,
+  "description": "This is Jane's Addiction. The essential tracks, all in one playlist.",
+  "num_followers": 41656,
   "original_name": "This Is Jane's Addiction",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAABM3X7wQhTSrkd6fh+EXrNT",
+  "snapshot_id": "ZphbAAAAAADHR0SzIloQWYOfRuerElIh",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Escape Artist",
-        "url": "https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard"
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 269613,
-      "name": "Twisted Tales",
-      "url": "https://open.spotify.com/track/1jcINBNyQwQW4fC83C3l51"
+      "duration_ms": 272386,
+      "name": "Strays",
+      "url": "https://open.spotify.com/track/7fNLuDI0HJO61SWq0MctAn"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strays",
-        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
+        "name": "The Great Escape Artist",
+        "url": "https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 272386,
-      "name": "Strays",
-      "url": "https://open.spotify.com/track/7fNLuDI0HJO61SWq0MctAn"
+      "duration_ms": 269613,
+      "name": "Twisted Tales",
+      "url": "https://open.spotify.com/track/1jcINBNyQwQW4fC83C3l51"
     },
     {
       "added_at": null,

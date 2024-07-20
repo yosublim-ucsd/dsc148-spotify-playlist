@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-707 songs - 1 day 6 hr 5 min
+708 songs - 1 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,7 +428,7 @@
 | [Mértola](https://open.spotify.com/track/6ht9QNV3O5IZGXzX8QXHI0) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Mértola](https://open.spotify.com/album/3vx3SZudj0S0aS87AlYcRm) | 3:01 | 2023-11-24 | 2024-05-24 |
 | [Même Dans La Mort](https://open.spotify.com/track/39F5SdQXokv3QJxmLODxfU) | [Jourdain Hume](https://open.spotify.com/artist/60PchiK8jssOvwkHk8By6Q) | [Même Dans La Mort](https://open.spotify.com/album/3RJkaEjjDI6fvQocZnebby) | 2:16 | 2023-04-21 |  |
 | [Nachtfalke](https://open.spotify.com/track/1KA3f0hBZfwbcoeDidN91k) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Nachtfalke](https://open.spotify.com/album/665FBCmE1FNe3sycFJ5wCO) | 4:21 | 2022-07-15 | 2023-03-11 |
-| [Nana 1985 \(Two Guitars Version\)](https://open.spotify.com/track/7cn8OaiEmm9eM5cO5m3JqJ) | [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM) | [Nana 1985 \(Two Guitars Version\)](https://open.spotify.com/album/2LTna82bAjdhBShUJh7Vn6) | 2:39 | 2023-04-21 |  |
+| [Nana 1985 \(Two Guitars Version\)](https://open.spotify.com/track/7cn8OaiEmm9eM5cO5m3JqJ) | [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM) | [Nana 1985 \(Two Guitars Version\)](https://open.spotify.com/album/2LTna82bAjdhBShUJh7Vn6) | 2:39 | 2023-04-21 | 2024-07-20 |
 | [Nascondiglio](https://open.spotify.com/track/5lz0ZF3oUGWZpt7TjdlAwf) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [Nascondiglio](https://open.spotify.com/album/6dxdPL7IFCKy0f0V15eJHX) | 2:25 | 2023-04-21 | 2023-05-13 |
 | [Natural State](https://open.spotify.com/track/6kvTeQ3FJGVt1UYFcKNPe7) | [Mia Cornell](https://open.spotify.com/artist/22hTiR40dkmbKc5bLT5owB) | [Natural State](https://open.spotify.com/album/5n7ZLyBMJU1UWtpUCAiVwF) | 2:24 | 2022-07-15 | 2024-04-06 |
 | [Nebula's Lullaby](https://open.spotify.com/track/3bpXmth8hxymLN2H457E9b) | [Serena Perez](https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR) | [Nebula's Lullaby](https://open.spotify.com/album/6x9a7Hpb4vgKqTblifErDo) | 2:08 | 2023-12-15 |  |
@@ -707,6 +707,7 @@
 | [Wishful Thinking](https://open.spotify.com/track/32jAfJ9rlQRGfFISloeh9m) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Wishful Thinking](https://open.spotify.com/album/23wAvlEfME0Hg9UYDRTgx2) | 2:28 | 2023-04-21 | 2023-10-03 |
 | [Wishing It Was So](https://open.spotify.com/track/144IEqxttGI6l5MKryGZsL) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Wishing It Was So](https://open.spotify.com/album/1Gf2koBhgOt4z4QaWYVuAU) | 2:41 | 2023-04-21 |  |
 | [With Languor](https://open.spotify.com/track/7wcUEnW420sjGIpD5XZTvK) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Within](https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax) | 3:19 | 2024-02-02 |  |
+| [Within the Shadows](https://open.spotify.com/track/1RJtXa2TkS5ikLxU6dFBhc) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Within the Shadows](https://open.spotify.com/album/4prfX6I5qZUD92xTIG2WpZ) | 2:38 | 2024-07-19 |  |
 | [wolkenlos](https://open.spotify.com/track/1GtvNtOFcgyapayFKdEPfn) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Waldspaziergang](https://open.spotify.com/album/12zVtMVg3VOEsVZ3nA4BdB) | 3:36 | 2022-07-15 | 2023-04-22 |
 | [Woods](https://open.spotify.com/track/4pqqF7B7YVFHidJ4kDybk2) | [Sergei Baronin](https://open.spotify.com/artist/43F9YqxW89cDIMwYv7Ruoy) | [Woods](https://open.spotify.com/album/6Bsv4F8PGSosuGjvqOn1Pu) | 1:53 | 2023-04-21 | 2023-06-03 |
 | [Yellow](https://open.spotify.com/track/27DodeB1seENJxnWojPa6G) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Yellow](https://open.spotify.com/album/6ogaGgYB25jgZmCo405fq6) | 2:31 | 2023-03-31 | 2023-04-22 |

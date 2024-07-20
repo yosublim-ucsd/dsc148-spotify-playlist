@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO00Q0Yo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO00Q0Yo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO00Q0Yo)
 
-### [این Flo Milli است](https://open.spotify.com/playlist/37i9dQZF1DZ06evO00Q0Yo)
+### [This Is Flo Milli](https://open.spotify.com/playlist/37i9dQZF1DZ06evO00Q0Yo)
 
-> This Is Flo Milli\. قطعه‌های برتر همگی در یک فهرست پخش.
+> This is Flo Milli\. The essential tracks, all in one playlist.
 
 82 songs - 3 hr 46 min
 

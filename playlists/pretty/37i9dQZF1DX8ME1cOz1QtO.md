@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 
 > Discover the path back to an era of enlightenment 🌅✨🧘‍♂️
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,788 likes - 100 songs - 11 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,825 likes - 100 songs - 11 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,13 +86,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 76 | [Processional: Root Chakra](https://open.spotify.com/track/6J0uoAi0NEoH6bTtNZIV76) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [A Rainbow Path](https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY) | 5:23 |
 | 77 | [Oceans And Continents](https://open.spotify.com/track/6X1jdivZEvbFlOjVn4GyYP) | [Jan Hammer](https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy) | [The First Seven Days](https://open.spotify.com/album/4skF9SYKc4U4oA7gCSrmo1) | 6:16 |
 | 78 | [Glide III](https://open.spotify.com/track/6bmHCvu6qgO6roOubB3Ga5) | [Peter Davison](https://open.spotify.com/artist/5hLJQt5bIzxV7O0HvYNFqy) | [Glide/Star Gazer](https://open.spotify.com/album/2Rk837DGOC1KWlqBHjWz9K) | 8:25 |
-| 79 | [Procession](https://open.spotify.com/track/0cHRNVH8Uo7CJL9QbPaZZB) | [Bernard Xolotl](https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e) | [Procession](https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3) | 7:27 |
-| 80 | [Lifeforce Celebration](https://open.spotify.com/track/5FI2qrfwNS8Leq5Vo3txcu) | [Emerald Web](https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe) | [Dragon Wings and Wizard Tales](https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf) | 4:09 |
+| 79 | [Lifeforce Celebration](https://open.spotify.com/track/5FI2qrfwNS8Leq5Vo3txcu) | [Emerald Web](https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe) | [Dragon Wings and Wizard Tales](https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf) | 4:09 |
+| 80 | [Procession](https://open.spotify.com/track/0cHRNVH8Uo7CJL9QbPaZZB) | [Bernard Xolotl](https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e) | [Procession](https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3) | 7:27 |
 | 81 | [Be\-Muse\-Ment](https://open.spotify.com/track/7i0FCzocEPAHLH7SXzsRga) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k), [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Spectrum Suite 45th Anniversary Collector's Edition](https://open.spotify.com/album/72HoejPQ2TFUuqupsbqf21) | 4:33 |
 | 82 | [Arrival \- Remastered](https://open.spotify.com/track/3Cl55s20Th5GHbu56Sltz7) | [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [Open Like a Flute](https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP) | 5:48 |
 | 83 | [Soaring: Crown Chakra](https://open.spotify.com/track/7yCRHqTkHqgk5adoUbZyiP) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [A Rainbow Path](https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY) | 6:34 |
-| 84 | [Abraxas](https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Aum](https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo) | 1:56 |
-| 85 | [Meditation: I\. Part I](https://open.spotify.com/track/3jmVssDLvTVSRTVZQzCZcW) | [Eberhard Schoener](https://open.spotify.com/artist/4qJqNV3gKCl9cgitoUPujz) | [Schoener, Eberhard: Meditation](https://open.spotify.com/album/3YUWFn0j9YmB8BQjMUvAlb) | 17:29 |
+| 84 | [Meditation: I\. Part I](https://open.spotify.com/track/3jmVssDLvTVSRTVZQzCZcW) | [Eberhard Schoener](https://open.spotify.com/artist/4qJqNV3gKCl9cgitoUPujz) | [Schoener, Eberhard: Meditation](https://open.spotify.com/album/3YUWFn0j9YmB8BQjMUvAlb) | 17:29 |
+| 85 | [Abraxas](https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Aum](https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo) | 1:56 |
 | 86 | [Seraphic Borealis](https://open.spotify.com/track/0QGgY7KrzfTcIZRy7D8fGQ) | [Joel Andrews](https://open.spotify.com/artist/0Wowmx0w1IqFPCGYYhLaNT) | [I Am the Center: Private Issue New Age Music in America, 1950\-1990](https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso) | 12:37 |
 | 87 | [Mirador](https://open.spotify.com/track/6jAgEFRzUTkZaJa3PEDxeP) | [Bernard Xolotl](https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e) | [Procession](https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3) | 15:36 |
 | 88 | [Equinoxe, Pt\. 4](https://open.spotify.com/track/362MZclYQ5wRw468UxT5Uf) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Equinoxe](https://open.spotify.com/album/41Dl68Kik63nV6zvn07NgY) | 7:05 |

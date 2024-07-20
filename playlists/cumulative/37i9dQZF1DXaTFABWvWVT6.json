@@ -613,6 +613,28 @@
     },
     {
       "album": {
+        "name": "BREAK IT DOWN (ON THE BASSLINE)",
+        "url": "https://open.spotify.com/album/35HrIn0UbaHzkoLNMusEo1"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        },
+        {
+          "name": "IN2STELLAR",
+          "url": "https://open.spotify.com/artist/6JDTszsnsJ44yCRBnISbVq"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "BREAK IT DOWN (ON THE BASSLINE)",
+      "url": "https://open.spotify.com/track/1poGDt4f2MB2q9m1lsBwAB"
+    },
+    {
+      "album": {
         "name": "Breathe You In (feat. NORTH)",
         "url": "https://open.spotify.com/album/31dM03FKgA4HluFTPiN2r5"
       },
@@ -2542,7 +2564,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 344593,
       "name": "Pressure Makes Diamonds",
       "url": "https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L"
@@ -3158,7 +3180,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 166472,
       "name": "That Sound (feat. Dope Earth Alien)",
       "url": "https://open.spotify.com/track/2B3NVNUU84aAIq9lAlGIZn"
@@ -3348,6 +3370,28 @@
       "duration_ms": 232120,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg"
+    },
+    {
+      "album": {
+        "name": "We Are The People",
+        "url": "https://open.spotify.com/album/0OAb6fcraycYzYZVTvuVl8"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        },
+        {
+          "name": "Davide T",
+          "url": "https://open.spotify.com/artist/1pd2mIBKC4uzLtAEP8qpgw"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122790,
+      "name": "We Are The People",
+      "url": "https://open.spotify.com/track/5SyTXTAj6vVzkGlfLoNoCq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,559 likes - 110 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,567 likes - 110 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 46 | [Treadmill](https://open.spotify.com/track/0ewQUWupKrDmYFhhiyjqaA) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Treadmill](https://open.spotify.com/album/1lnKUpRIc0wAcnMP9scVlJ) | 3:13 |
 | 47 | [My Oh My \(with Bebe Rexha & Tove Lo\)](https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [My Oh My \(with Bebe Rexha & Tove Lo\)](https://open.spotify.com/album/6L5PWde8zjpIa2C6SIjNv8) | 3:01 |
 | 48 | [Älskar du nån annan än dig](https://open.spotify.com/track/62kqQ6X0Ff95KWEbe03PAe) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Älskar du nån annan än dig](https://open.spotify.com/album/53bXKv50IjUOwsiknABKB0) | 2:29 |
-| 49 | [Something Like This \(feat\. Dagny\)](https://open.spotify.com/track/2GtHpx7Q1xlmLBRx70i6oa) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg), [Eivind Helgerød](https://open.spotify.com/artist/4jAfuaUzyHkiLT9V32xe9l) | [Mad Women](https://open.spotify.com/album/53Fb80eoXfCbPF9DTaPXJk) | 3:23 |
+| 49 | [Something Like This \(feat\. Dagny\)](https://open.spotify.com/track/2GtHpx7Q1xlmLBRx70i6oa) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Mad Women](https://open.spotify.com/album/53Fb80eoXfCbPF9DTaPXJk) | 3:23 |
 | 50 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 |
 | 51 | [What Do You Believe In?](https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [What Do You Believe In?](https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP) | 3:10 |
 | 52 | [the thing about you](https://open.spotify.com/track/6KNGUyfu8l8BTwUP0urEhQ) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [the thing about you](https://open.spotify.com/album/4peXtpFElRZAgs76jHOifT) | 2:40 |

@@ -2620,6 +2620,32 @@
     {
       "album": {
         "name": "Cuando Te Vi | CROSSOVER #5",
+        "url": "https://open.spotify.com/album/4u5sL85dlRv7eIMJIozZl8"
+      },
+      "artists": [
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "Cuando Te Vi | CROSSOVER #5",
+      "url": "https://open.spotify.com/track/3KeYEr9ogMBemsOfQIJmZp"
+    },
+    {
+      "album": {
+        "name": "Cuando Te Vi | CROSSOVER #5",
         "url": "https://open.spotify.com/album/5B3AaoOK8o22cYkdoBOVFI"
       },
       "artists": [
@@ -2638,7 +2664,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 218400,
       "name": "Cuando Te Vi | CROSSOVER #5",
       "url": "https://open.spotify.com/track/5OwAhFlvFZ4ZdGDfroYgAm"

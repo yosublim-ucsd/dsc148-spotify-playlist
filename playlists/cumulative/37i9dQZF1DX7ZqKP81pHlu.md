@@ -4,7 +4,7 @@
 
 > Numidia Lezoul au sommet de la playlist numéro un en Algérie.
 
-223 songs - 13 hr 28 min
+224 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [7CHOUMA](https://open.spotify.com/track/797McgitlHovktyFPMDZYc) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [7CHOUMA](https://open.spotify.com/album/6EE03Qicg9RZIZbYeIS0Dj) | 4:06 | 2023-03-23 | 2024-01-26 |
 | [A Night In Oran](https://open.spotify.com/track/6lgo2gxbeO7aFdJIOcxESk) | [Anis](https://open.spotify.com/artist/1ReBY4xAFemmAQDNVXsteI) | [A Night In Oran](https://open.spotify.com/album/66hRtpCD7SQJhDxizws50D) | 3:06 | 2023-08-16 |  |
 | [a tteddu](https://open.spotify.com/track/2FYiZJEh524dslz9AAHeXo) | [Mohamed Allaoua](https://open.spotify.com/artist/30LJsvmN82OwOWN5I67wog) | [a tteddu](https://open.spotify.com/album/1EbTHyQtLC1l98Hv9XtsrH) | 5:04 | 2023-07-09 | 2024-07-19 |
+| [A.E.M \- Ya Ritek](https://open.spotify.com/track/6LfVxjEYAd6wAdCaMU21M5) | [El Bobina](https://open.spotify.com/artist/4sNeP7PIP7jF4srdCK0g3C) | [A.E.M \- Ya Ritek](https://open.spotify.com/album/6OLAhYkuTvuiPYiSuJJtoh) | 4:16 | 2024-07-19 |  |
 | [Abracadabra](https://open.spotify.com/track/1Suz3iNgR3pnTIPI5JJtFI) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Abracadabra](https://open.spotify.com/album/5t5ieknOAiq6hBfzTe2veZ) | 4:18 | 2022-10-09 | 2023-01-11 |
 | [Abracadabra](https://open.spotify.com/track/2dwIrKXerOuFVQyermZ5SO) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Abracadabra](https://open.spotify.com/album/3SdLDzpUj36FVAebMkJX0z) | 4:18 | 2023-01-13 | 2023-07-10 |
 | [Abracadabra](https://open.spotify.com/track/3Ox87ADaSgof5yOrFhvKaC) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Abracadabra](https://open.spotify.com/album/2PJM03jBuTlPVmginhaWWf) | 4:18 | 2021-12-09 | 2023-01-16 |
@@ -108,7 +109,7 @@
 | [Hay aliya](https://open.spotify.com/track/0aue7wbnxU90q1ea2pC19Y) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Hay aliya](https://open.spotify.com/album/3sURigJ1E53P3yCgHkIjEG) | 2:57 | 2024-02-12 | 2024-04-19 |
 | [HINATA](https://open.spotify.com/track/5lugweLS17EVHmhXuNZOrC) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [HINATA](https://open.spotify.com/album/2xE8FXQ3WU30oqhV1H7Q4p) | 2:55 | 2022-09-19 | 2024-01-23 |
 | [Héréditaire](https://open.spotify.com/track/6T76ooly64vILBrarOWqFY) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Héréditaire](https://open.spotify.com/album/0u1x3zt7EstMjWxfPxLf3A) | 3:58 | 2023-07-09 | 2024-07-19 |
-| [I Wanna Go](https://open.spotify.com/track/3stVq7jycIeOwgtxUiweCD) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [I Wanna Go](https://open.spotify.com/album/7AIkWWjVVsrVk9vATMuFVo) | 3:50 | 2023-08-14 |  |
+| [I Wanna Go](https://open.spotify.com/track/3stVq7jycIeOwgtxUiweCD) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [I Wanna Go](https://open.spotify.com/album/7AIkWWjVVsrVk9vATMuFVo) | 3:50 | 2023-08-14 | 2024-07-20 |
 | [Imagine](https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Imagine](https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6) | 2:45 | 2024-07-18 |  |
 | [Jacuzzi](https://open.spotify.com/track/0tHcl65zImDRYFFRkfxrNz) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Moudja](https://open.spotify.com/album/3fxv4IPUjOdLKSWTEALktY) | 3:05 | 2022-11-03 | 2023-02-07 |
 | [Jamais yensak](https://open.spotify.com/track/1aoiOAlXOV3slSPbqACbp5) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP), [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Jamais yensak](https://open.spotify.com/album/6EcswaZItJn3EL53VYpU0w) | 2:48 | 2024-02-08 |  |

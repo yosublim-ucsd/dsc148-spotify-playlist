@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEtW1CELnqL.md) - [plain]
 
 > Laissez\-moi plonger, je suis médecin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,959 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,014 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEtW1CELnqL.md) - [plain]
 | 64 | [HOLIDAY](https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:52 |
 | 65 | [Dumbstruck Dumbf\*\*k](https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 2:58 |
 | 66 | [New Noise](https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH) | [Refused](https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb) | [The Shape Of Punk To Come \(Deluxe Edition\)](https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2) | 5:10 |
-| 67 | [Rescued](https://open.spotify.com/track/3nDstVXtr6xbCZKs5Ka2rZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 4:18 |
-| 68 | [Spit Of You](https://open.spotify.com/track/6YrNd7sFarQAUflTPcTH0h) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:33 |
+| 67 | [Spit Of You](https://open.spotify.com/track/6YrNd7sFarQAUflTPcTH0h) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:33 |
+| 68 | [Rescued](https://open.spotify.com/track/3nDstVXtr6xbCZKs5Ka2rZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 4:18 |
 | 69 | [Underclass Hero](https://open.spotify.com/track/6dXizHF3KbmdvOgvMAhnQC) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 3:14 |
 | 70 | [Freak](https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:46 |
 | 71 | [The Everlasting Gaze](https://open.spotify.com/track/4EhbLHYOXzEoPmOfaVoIIW) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Machina / The Machines Of God](https://open.spotify.com/album/4hrZp6mKgz0HG7UpRbNYQx) | 4:00 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEtW1CELnqL.md) - [plain]
 | 94 | [E\-Pro](https://open.spotify.com/track/0HW0aSeNZ5nfLK2GdWNMDc) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/1R0BP6MeMLigDNaoztxUAZ) | 3:22 |
 | 95 | [Wake Up](https://open.spotify.com/track/6zbHSDJjgrNdfIxPyGfPBt) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine](https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul) | 6:04 |
 | 96 | [Pure 90 \(Rapping Queen\)](https://open.spotify.com/track/24ZEVCdOTKgdcM41B598NM) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q), [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Apelogies](https://open.spotify.com/album/0TAeIWcUAjAb1ZBXzaDOGV) | 4:36 |
-| 97 | [Back Foot](https://open.spotify.com/track/6geuGKb1jKb6TV8sGE5eaC) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:08 |
-| 98 | [Love From The Other Side \- Edit](https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Love From The Other Side](https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD) | 4:07 |
-| 99 | [Enmore](https://open.spotify.com/track/2EKuvzu6No8dBqJDXUS8b2) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Enmore](https://open.spotify.com/album/5AV08801eMkk3I6AqcpVdw) | 2:42 |
+| 97 | [Enmore](https://open.spotify.com/track/2EKuvzu6No8dBqJDXUS8b2) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Enmore](https://open.spotify.com/album/5AV08801eMkk3I6AqcpVdw) | 2:42 |
+| 98 | [Back Foot](https://open.spotify.com/track/6geuGKb1jKb6TV8sGE5eaC) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:08 |
+| 99 | [Love From The Other Side \- Edit](https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Love From The Other Side](https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD) | 4:07 |
 | 100 | [I Am One \- Remastered 2011](https://open.spotify.com/track/2n6r0bWrKWeo55FWk68wSd) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Gish \(Deluxe Edition\)](https://open.spotify.com/album/14gI3ml0wxlgVrX1ve8zyJ) | 4:06 |
 
 Snapshot ID: `ZpjO3wAAAAAgbs+cxdl2NL/V6B0b2iJH`

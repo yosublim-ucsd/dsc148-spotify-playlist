@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,877 songs - 10 day 20 hr 42 min
+6,878 songs - 10 day 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1135,7 +1135,7 @@
 | [Climbing](https://open.spotify.com/track/2ec7B12PyWx8BOtYsZWv99) | [Christopher Jackson](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj) | [Climbing](https://open.spotify.com/album/1riNXWdkcrDoySZIY5j34L) | 3:48 | 2022-09-23 | 2023-01-13 |
 | [Climbing](https://open.spotify.com/track/5SnbTsYX72YPhyU06IRuU4) | [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Climbing](https://open.spotify.com/album/2yqv18Dh91stSQDmbM8n5K) | 2:12 | 2023-09-15 | 2024-04-27 |
 | [Clocked In](https://open.spotify.com/track/1873cgs4HWZBy0U8wDsnmk) | [Sobbel Sosch](https://open.spotify.com/artist/32E7sOawaXS4fuVyr15Jok) | [Clocked In](https://open.spotify.com/album/50gRSPQMkG2mWqhC4KAuXq) | 2:01 | 2024-01-26 |  |
-| [Clockers](https://open.spotify.com/track/0Sd3s9p1TQUYuitVOpXlh4) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT) | [Colorwave Seasons](https://open.spotify.com/album/1pGm9P5nsLlDBe4E6RvDtD) | 1:57 | 2023-12-15 |  |
+| [Clockers](https://open.spotify.com/track/0Sd3s9p1TQUYuitVOpXlh4) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT) | [Colorwave Seasons](https://open.spotify.com/album/1pGm9P5nsLlDBe4E6RvDtD) | 1:57 | 2023-12-15 | 2024-07-20 |
 | [clocks](https://open.spotify.com/track/6OIvZwDLct03wI7dA5Ljpw) | [Koaraktor](https://open.spotify.com/artist/6wn1ulTOgegggm9vCwK9Ql) | [clocks](https://open.spotify.com/album/2KaWbgp5F8zYShSZ9s9IvA) | 1:35 | 2021-11-05 | 2022-05-27 |
 | [Clocks Forward](https://open.spotify.com/track/3DXOgShDK2FK1nUM6NeGnL) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S), [Guillaume Muschalle](https://open.spotify.com/artist/43sWO6H2WXUn7HbNPnyG5X) | [Clocks Forward](https://open.spotify.com/album/62YSGSZJsYILAa9H0h9Y7i) | 2:21 | 2019-05-26\* | 2019-06-15 |
 | [Closed Eyes](https://open.spotify.com/track/0eE5eceODQO7W3vwQ3Hrs2) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Closed Eyes](https://open.spotify.com/album/3ilbOBTZas2MNEdNausZol) | 2:23 | 2022-03-11 | 2022-08-12 |
@@ -2015,7 +2015,7 @@
 | [Fire escape](https://open.spotify.com/track/2oJJ154b2H59wLLiRZuzUC) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [Fire escape](https://open.spotify.com/album/1NEM9apQ0YuoCDkCiNxisx) | 2:08 | 2023-05-03 | 2024-03-08 |
 | [Fire Pit](https://open.spotify.com/track/7Avn0yIRmJDSNDcAFavjPp) | [Beaumont](https://open.spotify.com/artist/50hbsxvYzqYMuR8JsZDOEK) | [Fire Pit](https://open.spotify.com/album/6BxnC4fI2KZPA0XE3rUwlr) | 1:46 | 2021-12-03 | 2022-06-24 |
 | [Fireflies](https://open.spotify.com/track/1yhJ91ZV3HHHeyMh6PWdWb) | [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Moving On](https://open.spotify.com/album/4eEnMogQrztnJDxfO9lWtV) | 2:20 | 2022-12-23 | 2023-12-01 |
-| [Fireflies](https://open.spotify.com/track/4pjPfP4YXFfynRTQGtmARQ) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Fireflies](https://open.spotify.com/album/4wFCeuxaBeLLMVE6qCUwtn) | 1:58 | 2024-03-15 |  |
+| [Fireflies](https://open.spotify.com/track/4pjPfP4YXFfynRTQGtmARQ) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Fireflies](https://open.spotify.com/album/4wFCeuxaBeLLMVE6qCUwtn) | 1:58 | 2024-03-15 | 2024-07-20 |
 | [fireflies](https://open.spotify.com/track/1fGClKBNkOaUpln9iJBDeW) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [fireflies](https://open.spotify.com/album/03Hs17HNkxoBHA0YoxE0oy) | 2:08 | 2022-01-07 | 2022-07-08 |
 | [Fireflies](https://open.spotify.com/track/31oqOyJpDvqXTmXvkK0N2a) | [Nuver](https://open.spotify.com/artist/7INJXFDyMoyqqp91q0FWqh) | [Silhouettes](https://open.spotify.com/album/4lc9tBibPzBlF0tPBXJShn) | 1:52 | 2021-10-20 | 2022-04-24 |
 | [Firekeeper](https://open.spotify.com/track/0dsIqcTXyUK8RaF7Ki3CWn) | [Corduroy Egg](https://open.spotify.com/artist/5E21RC40PseknqTaydpYNS) | [Firekeeper](https://open.spotify.com/album/5aV5Y2s84V4hVyTomDexSz) | 2:08 | 2021-12-03 | 2022-06-24 |
@@ -2102,7 +2102,7 @@
 | [Flores](https://open.spotify.com/track/4LvzzJt1M7I0mcMB7bI8t5) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Flores](https://open.spotify.com/album/0PvhnLLMpzErQIrftUhO2p) | 1:47 | 2022-04-15 | 2022-05-27 |
 | [Florianopolis](https://open.spotify.com/track/4cTAkCLS5RqKHwYlSgGNZE) | [Erik Obregon](https://open.spotify.com/artist/3PfVXFtmGJxqeF9hImGSPJ) | [Florianopolis](https://open.spotify.com/album/3IyWbIjpbeMTLsvXnuO7kc) | 2:59 | 2022-08-19 | 2023-01-07 |
 | [Floripa](https://open.spotify.com/track/6ZDo86HphrqZunbODFaQZm) | [Ray Ben Rue](https://open.spotify.com/artist/0XBtKvTff8E8BIhtlxjVHv) | [Floripa](https://open.spotify.com/album/5Hs4R5iwptvstaChO7D6Ce) | 1:59 | 2020-01-23 | 2021-08-22 |
-| [Flourish](https://open.spotify.com/track/2mEay3PsQgJhdM7ab1T0k5) | [Mizlo](https://open.spotify.com/artist/4yfQDVxDZuhHtIKFROMjSQ) | [Flourish](https://open.spotify.com/album/6Rtxn74NcGt86OLiZ93sC6) | 2:12 | 2024-06-07 | 2024-07-18 |
+| [Flourish](https://open.spotify.com/track/2mEay3PsQgJhdM7ab1T0k5) | [Mizlo](https://open.spotify.com/artist/4yfQDVxDZuhHtIKFROMjSQ) | [Flourish](https://open.spotify.com/album/6Rtxn74NcGt86OLiZ93sC6) | 2:12 | 2024-06-07 |  |
 | [Flow](https://open.spotify.com/track/7kqjF0uXE6Gps6MvO6Xu6Y) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Flow](https://open.spotify.com/album/37YjtkTCQqG3eDwxTJMy3w) | 1:12 | 2019-06-22 | 2020-10-21 |
 | [Flow & Glow](https://open.spotify.com/track/7i9mp3NNtqCKDY11HeTSDH) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Flow & Glow](https://open.spotify.com/album/0uoyityfoHU9wkc42iXRWf) | 1:35 | 2022-12-02 | 2023-11-17 |
 | [Flow Downstream](https://open.spotify.com/track/493ggrfPQoWAiW3ewJBGRt) | [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [Currents](https://open.spotify.com/album/5VlRaGpdL2hRWCsWQWIHlk) | 2:40 | 2022-07-15 | 2022-11-11 |
@@ -6365,6 +6365,7 @@
 | [up and upper](https://open.spotify.com/track/5fFgCGDi9eP2A0yUM6LG7k) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [up and upper](https://open.spotify.com/album/03B0KT5nLYh9uSf33frzYk) | 2:24 | 2024-06-14 |  |
 | [Up For Debate](https://open.spotify.com/track/0RTZzUgu0MQ3h8vTGOBKVP) | [Diego Masa](https://open.spotify.com/artist/5RX5BLkadTIqJeXRBWKOSy) | [Up For Debate](https://open.spotify.com/album/5hVmYZDBbQSB4XJSG24SE1) | 2:36 | 2022-04-08 | 2022-10-07 |
 | [Up In The Air](https://open.spotify.com/track/7tJVAgFmgggQ31YasQxcNf) | [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Up In The Air](https://open.spotify.com/album/1Ld3X6frL6PwPcI036ltV3) | 2:23 | 2024-03-22 |  |
+| [Up In The Clouds Again](https://open.spotify.com/track/5UkHAPnb2Vyx0DvOmnBklI) | [astra division](https://open.spotify.com/artist/0yMwXDtoiRbZm4yn1JesCK) | [Up In The Clouds Again](https://open.spotify.com/album/5LGOpvqw4CDDEHLGlZi5Po) | 2:07 | 2024-07-19 |  |
 | [UP TO U](https://open.spotify.com/track/6thF5Uau9BJvyT1CmHYjVY) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [UP TO U](https://open.spotify.com/album/6CCWR8MSJLkFPMbWxwH8ES) | 1:55 | 2019-11-08 | 2020-10-21 |
 | [Up Up](https://open.spotify.com/track/67BApmtjPdXu5gBfdCbDZ2) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ), [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L) | [Up Up](https://open.spotify.com/album/5P0zMkVSWsajg1dWXR6zCM) | 2:13 | 2023-10-06 | 2023-11-11 |
 | [Up We Go](https://open.spotify.com/track/4Le7OEss3Jrd5bmP9yokQV) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [Up We Go](https://open.spotify.com/album/4ubp9l76UFqdDXaNcANxi3) | 2:18 | 2020-10-28 | 2021-10-20 |

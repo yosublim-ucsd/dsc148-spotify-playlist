@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wcoyvtNnP4.md) - [plain]
 
 > Entspannung pur oder viel los? Hier findest du die passenden Beats für deine Pläne!
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,707 likes - 70 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,698 likes - 70 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wcoyvtNnP4.md) - [plain]
 | 30 | [Bittersweet Goodbye](https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Bittersweet Goodbye](https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh) | 2:46 |
 | 31 | [Still \(I Got Summer On My Mind\) \- FORTELLA Remix](https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW) | [JJ](https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR), [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Still \(I Got Summer On My Mind\) \[FORTELLA Remix\]](https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob) | 3:13 |
 | 32 | [Magic Moment \(feat\. Chris de Sarandy\)](https://open.spotify.com/track/7A1eqPiX6pS3g1nJ8M49UT) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Magic Moment \(feat\. Chris de Sarandy\)](https://open.spotify.com/album/1AuHca0GpQIDkoAthtwzo9) | 2:25 |
-| 33 | [Ghost Town](https://open.spotify.com/track/6h6HgJ66laDl6bY8W59Jdn) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Joris Sava](https://open.spotify.com/artist/7M7NxBEoOEg35yqUyLRTgT), [July](https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz) | [Ghost Town](https://open.spotify.com/album/29xmDbpP6xSw3Bs1d6YPHa) | 2:42 |
-| 34 | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg) | 2:23 |
+| 33 | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg) | 2:23 |
+| 34 | [Ghost Town](https://open.spotify.com/track/6h6HgJ66laDl6bY8W59Jdn) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Joris Sava](https://open.spotify.com/artist/7M7NxBEoOEg35yqUyLRTgT), [July](https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz) | [Ghost Town](https://open.spotify.com/album/29xmDbpP6xSw3Bs1d6YPHa) | 2:42 |
 | 35 | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj), [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2) | 2:58 |
 | 36 | [Do It Again](https://open.spotify.com/track/1IeQnQxCs2YJN6u3wQbUyX) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Do It Again](https://open.spotify.com/album/2CVUrzo4yImrsDLT3v1jTZ) | 2:55 |
 | 37 | [One By One \(feat\. Oaks\)](https://open.spotify.com/track/2D1P2Y9RUxZW2Ch9A1rwHA) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [One By One \(feat\. Oaks\)](https://open.spotify.com/album/0RkpyjWCTL4fkYUNSSbjwF) | 2:41 |

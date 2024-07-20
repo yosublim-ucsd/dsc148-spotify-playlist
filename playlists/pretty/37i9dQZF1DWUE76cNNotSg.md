@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,537 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,632 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 99 | [Bodies](https://open.spotify.com/track/5mueyPaJsGl0bGiZSu1z0e) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Bodies](https://open.spotify.com/album/16mo5DcJexdaBnL0u5QAoS) | 3:29 |
 | 100 | [<3 beat](https://open.spotify.com/track/5LU0XONtCOg9zduG7t0CZI) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [comic relief](https://open.spotify.com/album/0atx8iYFmiwntVxFkr7Fou) | 3:17 |
 
-Snapshot ID: `ZpFSKAAAAAD4f28UIPp4NKEQyGkBixZZ`
+Snapshot ID: `ZpqP0wAAAAAHcV1RW8JWVRAWpYHc956N`

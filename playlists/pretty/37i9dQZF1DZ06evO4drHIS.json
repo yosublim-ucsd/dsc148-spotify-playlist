@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 11182,
+  "num_followers": 11188,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAADnwbZbJbvgh134bmbve+HO",
+  "snapshot_id": "ZphbAAAAAACrpNLTZeO9yr8b4SMqeg8k",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Te Apartes De M\u00ed",
+        "url": "https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 239880,
+      "name": "No Te Apartes De M\u00ed",
+      "url": "https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "D\u00e9jame Vivir",
         "url": "https://open.spotify.com/album/4yG38ivZD1u0BAaPBvv5bK"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 209440,
       "name": "D\u00e9jame Vivir",
       "url": "https://open.spotify.com/track/5Sc3hAINcW0WmiOyhQuK2g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Te Apartes De M\u00ed",
-        "url": "https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 239880,
-      "name": "No Te Apartes De M\u00ed",
-      "url": "https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Toda La Chapa",
-        "url": "https://open.spotify.com/album/2erq5i5VDRtcuy9dZ94KcL"
+        "name": "Amigos",
+        "url": "https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 177053,
-      "name": "En Toda La Chapa",
-      "url": "https://open.spotify.com/track/0lQS5SFMbECLut107qQFc1"
+      "duration_ms": 168866,
+      "name": "Amigos",
+      "url": "https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amigos",
-        "url": "https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV"
+        "name": "En Toda La Chapa",
+        "url": "https://open.spotify.com/album/2erq5i5VDRtcuy9dZ94KcL"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 168866,
-      "name": "Amigos",
-      "url": "https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ"
+      "duration_ms": 177053,
+      "name": "En Toda La Chapa",
+      "url": "https://open.spotify.com/track/0lQS5SFMbECLut107qQFc1"
     },
     {
       "added_at": null,

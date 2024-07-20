@@ -1,12 +1,12 @@
 {
-  "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 60884,
+  "description": "This is N\u00edvea Soares. Tutti i brani in un'unica playlist.",
+  "num_followers": 60895,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAABufXVH2hd+IIc6dRXFJ14c",
+  "snapshot_id": "ZphbAAAAAAAkEqgmykBSeoTdoS+dBCtr",
   "tracks": [
     {
       "added_at": null,
@@ -64,7 +64,7 @@
       "added_at": null,
       "album": {
         "name": "A Boa Parte (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC"
+        "url": "https://open.spotify.com/album/0RQmJsjyVrI8sUuKIKwQSC"
       },
       "artists": [
         {
@@ -78,7 +78,7 @@
       ],
       "duration_ms": 350274,
       "name": "A Boa Parte - Ao Vivo",
-      "url": "https://open.spotify.com/track/137KTFlEw4ynSLGhJ1JStl"
+      "url": "https://open.spotify.com/track/3xYAYpik21I77zsZOpUJkW"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hosana (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1A7Xb0rQaaG7wng9kUwVOl"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 348809,
-      "name": "Hosana - Ao Vivo",
-      "url": "https://open.spotify.com/track/290pBQrxOBQHj6JaKST4JH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00fasica e Palavra (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1526KV4Bw2ehCYTuP6YZe4"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 267960,
       "name": "Meu Universo - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1z1VXBSMZzbQF4pvJwDjga"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hosana (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1A7Xb0rQaaG7wng9kUwVOl"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 348809,
+      "name": "Hosana - Ao Vivo",
+      "url": "https://open.spotify.com/track/290pBQrxOBQHj6JaKST4JH"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6mf39m0DBS39bfATCHwNM5"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 437418,
+      "name": "Jesus - Ao Vivo",
+      "url": "https://open.spotify.com/track/1tLprGViXjMjX1mwvncJc7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ao Rei",
         "url": "https://open.spotify.com/album/4Oy8ojNQkl0Q1Q6FWTlFnO"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 244720,
       "name": "Eu Cantarei",
       "url": "https://open.spotify.com/track/6wirmUJ6XncGeFjSyIMGwx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jesus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6mf39m0DBS39bfATCHwNM5"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 437418,
-      "name": "Jesus - Ao Vivo",
-      "url": "https://open.spotify.com/track/1tLprGViXjMjX1mwvncJc7"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [Top Sharqi Hits](https://open.spotify.com/playlist/37i9dQZF1DXe3aCmUoBd8n)
 
-> Top Sharqi hits right now\. Cover: Nassif Zeytoun & Rahma Riad
+> Top Sharqi hits right now\. Cover: AL SHAMI
 
 159 songs - 9 hr 20 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 
 > Mejor seguimos cantando, como cantaba el abuelo\. ¡Garganta pa' que te quiero, si no pa' cantarle al pueblo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,715 likes - 150 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,712 likes - 150 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 71 | [Nuestro Gran Secreto](https://open.spotify.com/track/6UnKIvdbaPzCpHnceW372Y) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 2:23 |
 | 72 | [Mátalas \- En Vivo \[Un Azteca en el Azteca\]](https://open.spotify.com/track/45Nu3gKPEA1rvvUu7VVgyt) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Un Azteca en el Azteca \(En Vivo\)](https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb) | 3:06 |
 | 73 | [Hoy Decidí Olvidarte \(Aunque No Estés Conmigo\) \- En Vivo Desde El Teatro Real](https://open.spotify.com/track/19AnCk8PLWof2cQmTenZof) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias Reales \(En Vivo Desde El Teatro Real\)](https://open.spotify.com/album/1Psmz14dcKR0QEyoUeGxXP) | 4:17 |
-| 74 | [Acá Entre Nos \- En Vivo \[Un Azteca en el Azteca\]](https://open.spotify.com/track/42sXKjLh6v97XWojhwckLR) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Un Azteca en el Azteca \(En Vivo\)](https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb) | 3:56 |
-| 75 | [Mudanza A La Luna](https://open.spotify.com/track/5QtzrMvhtEUQzCkehNQqdh) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:48 |
+| 74 | [Mudanza A La Luna](https://open.spotify.com/track/5QtzrMvhtEUQzCkehNQqdh) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:48 |
+| 75 | [Acá Entre Nos \- En Vivo \[Un Azteca en el Azteca\]](https://open.spotify.com/track/42sXKjLh6v97XWojhwckLR) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Un Azteca en el Azteca \(En Vivo\)](https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb) | 3:56 |
 | 76 | [Yo Nací para Amarte](https://open.spotify.com/track/1vXvkOzHi6NtcKUBAVaeNv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:26 |
 | 77 | [La Mesa 20](https://open.spotify.com/track/1dsIlMbsQao9WntC9SrwvO) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 2:40 |
 | 78 | [Por Tu Adiós](https://open.spotify.com/track/2Uv19wAiksXZcFM84R00KQ) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 4:05 |

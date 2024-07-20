@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Belleza y distorsión imaginada por bandas iberoamericanas\. Silver Rose en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,524 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,533 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 8 | [De Viaje](https://open.spotify.com/track/5Alh9ZUF8clLNm1UmFLcSv) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Super 8](https://open.spotify.com/album/6b4l8rVWImW1hkCshXichu) | 4:14 |
 | 9 | [lejos](https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:22 |
 | 10 | [te odio](https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [te odio](https://open.spotify.com/album/3RkgXX6vMLvfQVJ9cocFVt) | 2:50 |
-| 11 | [BILLY](https://open.spotify.com/track/1g4B7jOmIU52X1PzEiKqST) | [Dominiko](https://open.spotify.com/artist/0XKJA6syL4JLUeXqEh8qfD) | [BILLY](https://open.spotify.com/album/1ivkMDnb2NCYgRUtNmwrk7) | 4:12 |
+| 11 | [Nubes](https://open.spotify.com/track/03DwGjU8lK4wiDdgSett0i) | [Policias y Ladrones](https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd) | [Nubes](https://open.spotify.com/album/7t0vBigNHXs9SuwH1AaJXd) | 3:14 |
 | 12 | [Cristinópolis](https://open.spotify.com/track/7JbLW703nG7Ukr1iHwLE8L) | [Daga Voladora](https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca) | [Los manantiales](https://open.spotify.com/album/4MAFhcqXWSW6eQfjOioK4o) | 3:08 |
-| 13 | [Nubes](https://open.spotify.com/track/03DwGjU8lK4wiDdgSett0i) | [Policias y Ladrones](https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd) | [Nubes](https://open.spotify.com/album/7t0vBigNHXs9SuwH1AaJXd) | 3:14 |
+| 13 | [BILLY](https://open.spotify.com/track/1g4B7jOmIU52X1PzEiKqST) | [Dominiko](https://open.spotify.com/artist/0XKJA6syL4JLUeXqEh8qfD) | [BILLY](https://open.spotify.com/album/1ivkMDnb2NCYgRUtNmwrk7) | 4:12 |
 | 14 | [Fisura](https://open.spotify.com/track/5EvlNMIsyGB53lQdcoaIAQ) | [Siniestra Pandora](https://open.spotify.com/artist/1cuq3b3taULpho8MTTZD2U) | [Fisura](https://open.spotify.com/album/3HKsQOjzhSkn3UGKiVI01n) | 4:19 |
 | 15 | [Stillness](https://open.spotify.com/track/5tR2FyaJKP5pV3XgEQua46) | [Chris Koehn](https://open.spotify.com/artist/5wTNDQgcs23Cf2cJYLldIn), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Stillness](https://open.spotify.com/album/4c3lu3c9sTY23iK13rdjl7) | 4:08 |
 | 16 | [tdbn](https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:14 |

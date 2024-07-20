@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Latin music bangers for your gaming session! Peso Pluma on cover",
+  "description": "Latin music bangers for your gaming session! Milo J on cover",
   "name": "Latin Gaming",
   "tracks": [
     {
@@ -290,6 +290,50 @@
       "duration_ms": 208236,
       "name": "3 Am",
       "url": "https://open.spotify.com/track/1F205Nl2feOSYSztLNOJAL"
+    },
+    {
+      "album": {
+        "name": "166",
+        "url": "https://open.spotify.com/album/6apkynw8DBUza2600Wm70t"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118558,
+      "name": "3 PECADOS DESPUES\u2026",
+      "url": "https://open.spotify.com/track/16iLGYXMiLUhvqTEIu4pKB"
+    },
+    {
+      "album": {
+        "name": "3D",
+        "url": "https://open.spotify.com/album/1I4KyAYrYUQO4n644l0qqp"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177800,
+      "name": "3D",
+      "url": "https://open.spotify.com/track/6AddEFczaiz7MraQxrOHNT"
     },
     {
       "album": {
@@ -2294,7 +2338,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 165306,
       "name": "CLAP",
       "url": "https://open.spotify.com/track/0WF17ZUQCLX2eIgq99bIUe"
@@ -3484,6 +3528,28 @@
       "duration_ms": 243216,
       "name": "Dos Problemas (feat. Big Soto) - Remix",
       "url": "https://open.spotify.com/track/7bx66Je824Iak8c1CfsMrE"
+    },
+    {
+      "album": {
+        "name": "DRAMATIKA!",
+        "url": "https://open.spotify.com/album/5ZqzFxBPoYxPu2W9Bdvpvg"
+      },
+      "artists": [
+        {
+          "name": "RIXXIA",
+          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
+        },
+        {
+          "name": "Lucca",
+          "url": "https://open.spotify.com/artist/3Sw5QsqUV0ADRkBYpLcxAs"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107437,
+      "name": "DRAMATIKA!",
+      "url": "https://open.spotify.com/track/4snjC5yjWPQlodLW6iN2o9"
     },
     {
       "album": {
@@ -7122,7 +7188,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 171720,
       "name": "Lismar: Bzrp Music Sessions, Vol. 60",
       "url": "https://open.spotify.com/track/6clUGlB6OfxAPHWyaWkIDd"
@@ -7743,6 +7809,24 @@
     },
     {
       "album": {
+        "name": "Matematicas",
+        "url": "https://open.spotify.com/album/7ChzHihD3ExV1iVXOgAH4b"
+      },
+      "artists": [
+        {
+          "name": "Yung Sarria",
+          "url": "https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131624,
+      "name": "Matematicas",
+      "url": "https://open.spotify.com/track/7mircCKS3EvrV5LjS1ZwQl"
+    },
+    {
+      "album": {
         "name": "Max Win",
         "url": "https://open.spotify.com/album/3dR7jQWcLTdwVwfLznUBP6"
       },
@@ -8198,7 +8282,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 140767,
       "name": "mi \u00faltimo peso",
       "url": "https://open.spotify.com/track/41ulq0dim3Y5atEeTrCruU"
@@ -12568,7 +12652,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 151000,
       "name": "Tamagotchi",
       "url": "https://open.spotify.com/track/5bfep56ypsHGIR4i5KPKJN"

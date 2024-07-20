@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 
 > Latin songs you love like you've never heard before\. Cover: Natanael Cano
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,155 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,156 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 | 38 | [RELAX CON MAX \- Spotify Singles](https://open.spotify.com/track/6OsOskqADfdiSX1LqLGtkk) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [RELAX CON MAX \- Spotify Singles](https://open.spotify.com/album/4Lj0WgYY0R8DLHM6v2jVr1) | 2:30 |
 | 39 | [Fora de Si \- Spotify Singles](https://open.spotify.com/track/2gvQ2JkD9ft9q4OI6TSzUD) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fora de Si \- Spotify Singles](https://open.spotify.com/album/7Krd9lFlvyibIXVHsK1ieN) | 2:16 |
 | 40 | [Da Maior Importância \- Spotify Singles](https://open.spotify.com/track/2KAzfWoE9TeMob1tm1qz5i) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Da Maior Importância \- Spotify Singles](https://open.spotify.com/album/2ic2RENBBrqajKb4X9npUb) | 5:01 |
-| 41 | [La tua canzone \- Recorded at Abbey Road Studios, London](https://open.spotify.com/track/7HfV7tXzzMlivoXWvjcNh3) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Spotify Singles](https://open.spotify.com/album/4HXJQjeEgf8pZX1hOKH2ki) | 3:36 |
-| 42 | [Fuego](https://open.spotify.com/track/1ppfwB95hLpO2C6VYJxa3t) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Spotify Singles](https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX) | 3:32 |
-| 43 | [La Tirana \- Spotify Singles](https://open.spotify.com/track/5UzRLiSBXVQh3rrxWUmBhc) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Spotify Singles](https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS) | 3:12 |
-| 44 | [Primera Cita \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/1kw5VKLs2JFpg3FjY1RwCL) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Spotify Singles](https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M) | 4:18 |
+| 41 | [Fuego](https://open.spotify.com/track/1ppfwB95hLpO2C6VYJxa3t) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Spotify Singles](https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX) | 3:32 |
+| 42 | [La tua canzone \- Recorded at Abbey Road Studios, London](https://open.spotify.com/track/7HfV7tXzzMlivoXWvjcNh3) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Spotify Singles](https://open.spotify.com/album/4HXJQjeEgf8pZX1hOKH2ki) | 3:36 |
+| 43 | [Primera Cita \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/1kw5VKLs2JFpg3FjY1RwCL) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Spotify Singles](https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M) | 4:18 |
+| 44 | [La Tirana \- Spotify Singles](https://open.spotify.com/track/5UzRLiSBXVQh3rrxWUmBhc) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Spotify Singles](https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS) | 3:12 |
 | 45 | [Mala Costumbre \- Ovy On The Drums \- Spotify Singles](https://open.spotify.com/track/30K54dQDikHIulypekVSZp) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mala Costumbre \- Ovy On The Drums \- Spotify Singles](https://open.spotify.com/album/5y69JKXX7lNzp4CUaDl2Ly) | 3:01 |
 | 46 | [MAFIOSA \- Live \- Spotify Singles](https://open.spotify.com/track/0QwD3AF2EQC6CQRraLvcBB) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Spotify Singles](https://open.spotify.com/album/7JzwQl46xJFV9Ce68N3ga5) | 5:12 |
 | 47 | [No Pasa Nada \- Recorded at Panoram Studios, Mexico](https://open.spotify.com/track/7doCx8U6982H52Nmrmqdth) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Spotify Singles](https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs) | 3:17 |

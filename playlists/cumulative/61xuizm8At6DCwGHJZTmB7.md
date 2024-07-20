@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2024 \| The latest and greatest of today's best Worship music\. Featuring artist's such as Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-476 songs - 1 day 22 hr 25 min
+477 songs - 1 day 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [In Christ Alone](https://open.spotify.com/track/2hQxLiI93xdjqENJuKeXjO) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [In Christ Alone](https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V) | 4:39 | 2022-04-05 | 2023-12-14 |
 | [In Christ Alone \- Live](https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion: Let The Future Begin](https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ) | 5:39 | 2022-04-05 | 2023-01-05 |
 | [In Christ Alone \- Live From Sydney](https://open.spotify.com/track/78VNLbkNUvZUih7XDUqfme) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [In Christ Alone \(Live From Sydney\)](https://open.spotify.com/album/6cCviTac5Tm6skLA9BoMgH) | 4:09 | 2024-01-12 |  |
+| [In Control](https://open.spotify.com/track/1XDuCQ3OIjm1dG4BjQOD9N) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK), [Michael Monroe](https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv) | [In Control](https://open.spotify.com/album/0fGXjNKhNZM7GqgWELYHHf) | 4:20 | 2024-07-19 |  |
 | [In Everything](https://open.spotify.com/track/0JRnlk8bcBEjAA955NCkr7) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk), [Whitney Wood](https://open.spotify.com/artist/1eWi8ImuZLYpsxfG2iWXSl) | [In Everything](https://open.spotify.com/album/7rGYXpltwbc6lvQn1DG2RH) | 7:31 | 2023-02-03 | 2023-06-24 |
 | [In Surrender](https://open.spotify.com/track/6klXBxgQT8g4jsG1vzSMfw) | [Equippers Worship](https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1) | [In Surrender](https://open.spotify.com/album/096jTx1VevoVEXnlVxh18N) | 4:36 | 2023-07-18 | 2023-07-22 |
 | [In The Mighty Name](https://open.spotify.com/track/7zh4MKqplRyiG5s3nK6a6g) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Skye Reedy](https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R), [Rudy Villarreal](https://open.spotify.com/artist/7Jm4MrGvgZh86tUe0GrEB2) | [In The Mighty Name](https://open.spotify.com/album/67GOpBBrbPkSnz7LHQBMXW) | 7:50 | 2022-10-21 | 2023-12-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Rony Parulian
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,854 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,947 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 8 | [Kupu \- Kupu](https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Kupu \- Kupu](https://open.spotify.com/album/4nchsck2JTRbfcaNuD1fzr) | 4:02 |
 | 9 | [Mundur Perlahan](https://open.spotify.com/track/4WoxEHYd86PQQ9MvauypnV) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Mundur Perlahan](https://open.spotify.com/album/46JONawt8M57m28JCS7EtT) | 4:18 |
 | 10 | [Penyangkalan](https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Penyangkalan](https://open.spotify.com/album/5DYiigOQPVOXd99jUnRTdP) | 4:00 |
-| 11 | [Dendam](https://open.spotify.com/track/5GrSLHiNBbNCE0EFKCZGIL) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288), [Sansan](https://open.spotify.com/artist/2dqYxW1KJNSUrpa8VDtiqt) | [Dendam](https://open.spotify.com/album/7LmipMyxzjFCeTyzNGio09) | 4:13 |
+| 11 | [Dendam](https://open.spotify.com/track/5GrSLHiNBbNCE0EFKCZGIL) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288), [Sansan](https://open.spotify.com/artist/2kW3rq21AuZ39ZyshPUZU2) | [Dendam](https://open.spotify.com/album/7LmipMyxzjFCeTyzNGio09) | 4:13 |
 | 12 | [Inilah Aku](https://open.spotify.com/track/1oIpWiJzhBLBEXEkmjPdvZ) | [Good Morning Everyone](https://open.spotify.com/artist/6HyZoYVf8K9abFPxwhJcbK) | [Inilah Aku](https://open.spotify.com/album/4Yperg2ZMakj5QOvl2aFeQ) | 4:30 |
 | 13 | [Kini Mereka Tahu](https://open.spotify.com/track/6fMS9J2yAv4I6ss9sQ230f) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Kini Mereka Tahu](https://open.spotify.com/album/3Z7YGGrQBW3omLHjIvpAQv) | 4:44 |
 | 14 | [Status Palsu](https://open.spotify.com/track/16kcwhvQ5mKAsuKmvuEIMs) | [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [LSIH \( Pt\. I \)](https://open.spotify.com/album/0TQsXCD836VaKMrBnydJy9) | 3:58 |

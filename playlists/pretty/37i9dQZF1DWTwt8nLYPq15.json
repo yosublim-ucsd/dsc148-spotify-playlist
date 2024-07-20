@@ -1,6 +1,6 @@
 {
   "description": "summer heat \ud83e\udd75\ud83d\udd25\n",
-  "num_followers": 1934,
+  "num_followers": 1938,
   "original_name": "MELT",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-06-15 04:00:00",
       "album": {
-        "name": "Drunk",
-        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 188453,
-      "name": "Them Changes",
-      "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
-    },
-    {
-      "added_at": "2023-06-15 04:00:00",
-      "album": {
         "name": "Summer Pack",
         "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 297404,
       "name": "Feels Like Summer",
       "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
+    },
+    {
+      "added_at": "2023-06-15 04:00:00",
+      "album": {
+        "name": "Drunk",
+        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 188453,
+      "name": "Them Changes",
+      "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
     },
     {
       "added_at": "2024-05-31 19:46:57",
@@ -601,42 +601,6 @@
       "url": "https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB"
     },
     {
-      "added_at": "2024-05-31 19:46:57",
-      "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 250725,
-      "name": "TYRANT",
-      "url": "https://open.spotify.com/track/5mUlozUYpdmXVPkj4BW8cA"
-    },
-    {
-      "added_at": "2024-05-31 19:46:57",
-      "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
-    },
-    {
       "added_at": "2023-06-15 04:00:00",
       "album": {
         "name": "Hit Different",
@@ -665,6 +629,42 @@
       "url": "https://open.spotify.com/track/7Bar1kLTmsRmH6FCKKMEyU"
     },
     {
+      "added_at": "2024-05-31 19:46:57",
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
+    },
+    {
+      "added_at": "2024-05-31 19:46:57",
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 250725,
+      "name": "TYRANT",
+      "url": "https://open.spotify.com/track/5mUlozUYpdmXVPkj4BW8cA"
+    },
+    {
       "added_at": "2023-06-15 04:00:00",
       "album": {
         "name": "Life On Earth - EP",
@@ -687,26 +687,6 @@
     {
       "added_at": "2023-06-15 04:00:00",
       "album": {
-        "name": "Fell In Love",
-        "url": "https://open.spotify.com/album/4AkiEkHlDW2ZyPsO7iJct8"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 121283,
-      "name": "Fell In Love",
-      "url": "https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S"
-    },
-    {
-      "added_at": "2023-06-15 04:00:00",
-      "album": {
         "name": "Breezy",
         "url": "https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 146840,
       "name": "Call Me Every Day (feat. Wizkid)",
       "url": "https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs"
+    },
+    {
+      "added_at": "2023-06-15 04:00:00",
+      "album": {
+        "name": "Fell In Love",
+        "url": "https://open.spotify.com/album/4AkiEkHlDW2ZyPsO7iJct8"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 121283,
+      "name": "Fell In Love",
+      "url": "https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S"
     },
     {
       "added_at": "2024-05-31 19:46:57",
@@ -777,22 +777,6 @@
       "url": "https://open.spotify.com/track/6pMHL7A5CEPzHHKDRAAMEM"
     },
     {
-      "added_at": "2024-07-13 04:00:00",
-      "album": {
-        "name": "Sunday At Zuri's",
-        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 184552,
-      "name": "Soh-Soh",
-      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
-    },
-    {
       "added_at": "2023-06-15 04:00:00",
       "album": {
         "name": "RENAISSANCE",
@@ -807,6 +791,22 @@
       "duration_ms": 260769,
       "name": "HEATED",
       "url": "https://open.spotify.com/track/1w7cgGZR86yWz1pA2puVJD"
+    },
+    {
+      "added_at": "2024-07-13 04:00:00",
+      "album": {
+        "name": "Sunday At Zuri's",
+        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 184552,
+      "name": "Soh-Soh",
+      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
     },
     {
       "added_at": "2024-05-31 19:46:57",
@@ -853,26 +853,6 @@
       "url": "https://open.spotify.com/track/5xjTqz4aYQeBnFhwMPmfx9"
     },
     {
-      "added_at": "2024-05-31 19:46:57",
-      "album": {
-        "name": "1:59 (feat. Gunna)",
-        "url": "https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d"
-      },
-      "artists": [
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 192089,
-      "name": "1:59 (feat. Gunna)",
-      "url": "https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR"
-    },
-    {
       "added_at": "2023-06-15 04:00:00",
       "album": {
         "name": "Ego Death",
@@ -893,20 +873,52 @@
       "url": "https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D"
     },
     {
-      "added_at": "2024-05-31 19:46:57",
+      "added_at": "2023-06-15 04:00:00",
       "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+        "name": "KAYTRAMIN\u00c9",
+        "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
         }
       ],
-      "duration_ms": 251986,
-      "name": "RIIVERDANCE",
-      "url": "https://open.spotify.com/track/0TsCBkrq3owPs06HP5Q9Z4"
+      "duration_ms": 156000,
+      "name": "Sossaup",
+      "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
+    },
+    {
+      "added_at": "2024-05-31 19:46:57",
+      "album": {
+        "name": "1:59 (feat. Gunna)",
+        "url": "https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 192089,
+      "name": "1:59 (feat. Gunna)",
+      "url": "https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR"
     }
   ],
   "unique_name": "MELT",

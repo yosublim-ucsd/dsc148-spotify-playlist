@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 7312,
+  "num_followers": 7317,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAAC/hwlVsnNP5/YwtNld8kzF",
+  "snapshot_id": "ZphbAAAAAADiwBM03nKboK6eYrWd47j0",
   "tracks": [
     {
       "added_at": null,
@@ -51,6 +51,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "look up",
+      "url": "https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Proof Of Life (Deluxe)",
         "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
       },
@@ -87,22 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 241200,
-      "name": "jordan",
-      "url": "https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
       },
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "in defense of my own happiness (the beginnings)",
-        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 193786,
-      "name": "sunday",
-      "url": "https://open.spotify.com/track/5zYiD0qYctWMiLHGAiEcd3"
+      "duration_ms": 241200,
+      "name": "jordan",
+      "url": "https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 186760,
-      "name": "if you got a problem",
-      "url": "https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Girl",
         "url": "https://open.spotify.com/album/48rv1iGnI8ggoWnKNalXRR"
       },
@@ -183,6 +167,42 @@
       "duration_ms": 185054,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/25TrYuBFlgMIaaQDYZNJoa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Proof Of Life",
+        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 201483,
+      "name": "Friends (with Mt. Joy)",
+      "url": "https://open.spotify.com/track/4smxhbkhynwlqp8cjVxuxg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 186760,
+      "name": "if you got a problem",
+      "url": "https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss"
     },
     {
       "added_at": null,
@@ -211,26 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Proof Of Life",
-        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        },
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 201483,
-      "name": "Friends (with Mt. Joy)",
-      "url": "https://open.spotify.com/track/4smxhbkhynwlqp8cjVxuxg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
       },
@@ -243,38 +243,6 @@
       "duration_ms": 196772,
       "name": "I Can't Make You Love Me - Spotify Singles",
       "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 189722,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Keeping The Light On",
-        "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 223628,
-      "name": "Keeping The Light On",
-      "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
     },
     {
       "added_at": null,
@@ -311,6 +279,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Proof Of Life",
+        "url": "https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 236291,
+      "name": "Somebody Like Me",
+      "url": "https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outer Banks: Season 3 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 197474,
       "name": "It\u2019s a good day (to fight the system) (feat. Joy Oladokun)",
       "url": "https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/0YXMnmlNlrJhL1nC8NXAoT"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 197767,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/15mBjCfIMBnW92VxkswM2P"
     },
     {
       "added_at": null,
@@ -455,38 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Wished On The Moon (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
-        "url": "https://open.spotify.com/album/2WU0X6u4eSNd8sLCauvKNL"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 214970,
-      "name": "I Wished On The Moon (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
-      "url": "https://open.spotify.com/track/4zbQAxqxkidxKlnJG88IgU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "in defense of my own happiness (complete)",
-        "url": "https://open.spotify.com/album/4FzapZZ2S0xvuB5yJLebUM"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 161706,
-      "name": "judas",
-      "url": "https://open.spotify.com/track/03x5RegHjby0lwfcqQ2GjI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Proof Of Life (Deluxe)",
         "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
       },
@@ -499,22 +467,6 @@
       "duration_ms": 166649,
       "name": "Wild Enough",
       "url": "https://open.spotify.com/track/3nq6KWRl5C0aedpJTYbKWV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 164253,
-      "name": "i see america",
-      "url": "https://open.spotify.com/track/6hi7QmxdXBbgdFSnQjCiaK"
     },
     {
       "added_at": null,
@@ -543,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/2LAq8CGSyEPEWDadcMmMRs"
+        "name": "in defense of my own happiness (complete)",
+        "url": "https://open.spotify.com/album/4FzapZZ2S0xvuB5yJLebUM"
       },
       "artists": [
         {
@@ -552,25 +504,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 201856,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/0VTJh1k8GwxCOdSHpcDe9s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Proof Of Life",
-        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 235714,
-      "name": "Trying",
-      "url": "https://open.spotify.com/track/4BkroYCzKrqTNuDB4Ou6AS"
+      "duration_ms": 161706,
+      "name": "judas",
+      "url": "https://open.spotify.com/track/03x5RegHjby0lwfcqQ2GjI"
     },
     {
       "added_at": null,
@@ -584,9 +520,41 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 138400,
-      "name": "mighty die young",
-      "url": "https://open.spotify.com/track/7ansr2uebaL7XFbFlc45h2"
+      "duration_ms": 164253,
+      "name": "i see america",
+      "url": "https://open.spotify.com/track/6hi7QmxdXBbgdFSnQjCiaK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Wished On The Moon (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
+        "url": "https://open.spotify.com/album/2WU0X6u4eSNd8sLCauvKNL"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 214970,
+      "name": "I Wished On The Moon (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
+      "url": "https://open.spotify.com/track/4zbQAxqxkidxKlnJG88IgU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/2LAq8CGSyEPEWDadcMmMRs"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 201856,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/0VTJh1k8GwxCOdSHpcDe9s"
     },
     {
       "added_at": null,
@@ -679,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "in defense of my own happiness (complete)",
-        "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 213053,
-      "name": "brick by brick",
-      "url": "https://open.spotify.com/track/4JUSXwDFcncj0TbXByi0U7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "in defense of my own happiness (the beginnings)",
         "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
       },
@@ -707,6 +659,22 @@
       "duration_ms": 170653,
       "name": "smoke",
       "url": "https://open.spotify.com/track/282iiFgHe0vEhEWZOE5v73"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "in defense of my own happiness (complete)",
+        "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 213053,
+      "name": "brick by brick",
+      "url": "https://open.spotify.com/track/4JUSXwDFcncj0TbXByi0U7"
     },
     {
       "added_at": null,
@@ -875,6 +843,42 @@
       "duration_ms": 279614,
       "name": "Animals & Angels",
       "url": "https://open.spotify.com/track/0UIIvj8kMxJCxi831RpS4c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "in defense of my own happiness (the beginnings)",
+        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Tim Gent",
+          "url": "https://open.spotify.com/artist/3zt7KD1sd6pwQ3PgWPZiln"
+        }
+      ],
+      "duration_ms": 216893,
+      "name": "mercy",
+      "url": "https://open.spotify.com/track/69WTFVh5FGpQGTXtNmCVli"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That's How God Made Me (Anything\u2019s Possible Soundtrack)",
+        "url": "https://open.spotify.com/album/5XBt12tohG1P2PLW2fcxP3"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 194623,
+      "name": "That's How God Made Me",
+      "url": "https://open.spotify.com/track/4OI2PKCDvjtlfwZ6BYrOO7"
     }
   ],
   "unique_name": "This Is Joy Oladokun",

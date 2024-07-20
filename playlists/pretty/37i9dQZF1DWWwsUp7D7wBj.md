@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwsUp7D7wBj.md) - [plain]
 
 > ¡Y PURA DOBLE P! Tap in to the world of Peso Pluma  <a href="spotify:genre:0JQ5IMCbQBLCthQogwT0B2">here</a> and check out the playlist clips for more ⬆️
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,384 likes - 29 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,390 likes - 29 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

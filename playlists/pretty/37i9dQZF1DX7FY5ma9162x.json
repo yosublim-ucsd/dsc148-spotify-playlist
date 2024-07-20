@@ -1,6 +1,6 @@
 {
   "description": "The tracks you can put on repeat all day. Cover: Tommy Richman",
-  "num_followers": 269283,
+  "num_followers": 269355,
   "original_name": "R&B Favourites",
   "owner": {
     "name": "Spotify",
@@ -75,38 +75,6 @@
     {
       "added_at": "2024-07-18 22:30:22",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
-    },
-    {
-      "added_at": "2024-07-18 22:30:22",
-      "album": {
-        "name": "HERicane",
-        "url": "https://open.spotify.com/album/4YQ8O3PQb7cZnnLeqNPaa1"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 227368,
-      "name": "HERicane",
-      "url": "https://open.spotify.com/track/64fITmtln0OJqcxPf09vnY"
-    },
-    {
-      "added_at": "2024-07-18 22:30:22",
-      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
@@ -127,6 +95,38 @@
       "duration_ms": 173986,
       "name": "One Dance",
       "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
+    },
+    {
+      "added_at": "2024-07-18 22:30:22",
+      "album": {
+        "name": "HERicane",
+        "url": "https://open.spotify.com/album/4YQ8O3PQb7cZnnLeqNPaa1"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 227368,
+      "name": "HERicane",
+      "url": "https://open.spotify.com/track/64fITmtln0OJqcxPf09vnY"
+    },
+    {
+      "added_at": "2024-07-18 22:30:22",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "added_at": "2024-07-18 22:30:22",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-07-18 22:30:22",
       "album": {
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 196204,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
+    },
+    {
+      "added_at": "2024-07-18 22:30:22",
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 221979,
       "name": "Girls Want Girls (with Lil Baby)",
       "url": "https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3"
-    },
-    {
-      "added_at": "2024-07-18 22:30:22",
-      "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 196204,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
     },
     {
       "added_at": "2024-07-18 22:30:22",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-07-18 22:30:22",
       "album": {
+        "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
+        "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 196519,
+      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
+      "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
+    },
+    {
+      "added_at": "2024-07-18 22:30:22",
+      "album": {
         "name": "Snooze (Acoustic) (feat. Justin Bieber)",
         "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 190464,
       "name": "Snooze (Acoustic) (feat. Justin Bieber)",
       "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
-    },
-    {
-      "added_at": "2024-07-18 22:30:22",
-      "album": {
-        "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
-        "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 196519,
-      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
-      "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
     },
     {
       "added_at": "2024-07-18 22:30:22",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-07-18 22:30:22",
       "album": {
+        "name": "Me & U",
+        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 192935,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
+    },
+    {
+      "added_at": "2024-07-18 22:30:22",
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 399153,
       "name": "Hours In Silence",
       "url": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
-    },
-    {
-      "added_at": "2024-07-18 22:30:22",
-      "album": {
-        "name": "Me & U",
-        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 192935,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
     },
     {
       "added_at": "2024-07-18 22:30:22",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-07-18 22:30:22",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/4LxNdEodxvcd7q41asR17h"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 203144,
-      "name": "You Got It",
-      "url": "https://open.spotify.com/track/4lsHZ92XCFOQfzJFBTluk8"
-    },
-    {
-      "added_at": "2024-07-18 22:30:22",
-      "album": {
         "name": "When It's All Said And Done... Take Time",
         "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 127807,
       "name": "All To Me",
       "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
+    },
+    {
+      "added_at": "2024-07-18 22:30:22",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/4LxNdEodxvcd7q41asR17h"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 203144,
+      "name": "You Got It",
+      "url": "https://open.spotify.com/track/4lsHZ92XCFOQfzJFBTluk8"
     },
     {
       "added_at": "2024-07-18 22:30:22",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2024-07-18 22:30:22",
       "album": {
-        "name": "Risk Taker",
-        "url": "https://open.spotify.com/album/0eX3oKIfRjTb0gjAOysT0E"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 223189,
-      "name": "Risk Taker",
-      "url": "https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u"
-    },
-    {
-      "added_at": "2024-07-18 22:30:22",
-      "album": {
         "name": "NEVER ENOUGH (Bonus Version)",
         "url": "https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe"
       },
@@ -1755,6 +1735,26 @@
       "duration_ms": 214692,
       "name": "GRAVITY (FEAT. TYLER, THE CREATOR)",
       "url": "https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ"
+    },
+    {
+      "added_at": "2024-07-18 22:30:22",
+      "album": {
+        "name": "Risk Taker",
+        "url": "https://open.spotify.com/album/0eX3oKIfRjTb0gjAOysT0E"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 223189,
+      "name": "Risk Taker",
+      "url": "https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u"
     },
     {
       "added_at": "2024-07-18 22:30:22",

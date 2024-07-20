@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaslEeaHwWLL.md) - [plain]
 
 > The biggest songs in Latin America in 2017\. Cover: Daddy Yankee & Luis Fonsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,799 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,846 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaslEeaHwWLL.md) - [plain]
 | 18 | [Vuelve](https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Vuelve](https://open.spotify.com/album/4fM1JysLcYDX9No45tZmqO) | 4:39 |
 | 19 | [Échame La Culpa](https://open.spotify.com/track/0mlAOSILGRys2IbvyOT5VJ) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [VIDA](https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH) | 2:53 |
 | 20 | [Me Mata](https://open.spotify.com/track/2wgDAPgBhFA7pnIbm0YOhP) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Me Mata](https://open.spotify.com/album/711Ewqb91hqv9aKXWPaBTI) | 6:52 |
-| 21 | [Solo](https://open.spotify.com/track/6kTMnty169llVx9sGHb6LD) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78) | [Solo](https://open.spotify.com/album/7gnUxSrGT4npGYuFXwQTO4) | 3:51 |
-| 22 | [Déjala Que Vuelva \(feat\. Manuel Turizo\)](https://open.spotify.com/track/1j6xOGusnyXq3l6IryKF3G) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Ubuntu](https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ) | 3:40 |
+| 21 | [Déjala Que Vuelva \(feat\. Manuel Turizo\)](https://open.spotify.com/track/1j6xOGusnyXq3l6IryKF3G) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Ubuntu](https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ) | 3:40 |
+| 22 | [Solo](https://open.spotify.com/track/6kTMnty169llVx9sGHb6LD) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78) | [Solo](https://open.spotify.com/album/7gnUxSrGT4npGYuFXwQTO4) | 3:51 |
 | 23 | [Tú Foto](https://open.spotify.com/track/5zSOVwaY3sVjnmLhuEfsuf) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:13 |
 | 24 | [Escápate Conmigo \(feat\. Ozuna\)](https://open.spotify.com/track/1KSqYYJFyfTecXFk9M0prc) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Victory](https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k) | 3:52 |
 | 25 | [Bella y Sensual](https://open.spotify.com/track/0ERbK7qVqveCaBWIiYCrl3) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:24 |

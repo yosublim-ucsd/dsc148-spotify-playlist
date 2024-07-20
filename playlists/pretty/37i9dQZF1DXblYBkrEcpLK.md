@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: My Deer Friend Nokotan しかのこのこのここしたんたん ©おしおしお・講談社／日野南高校シカ部
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,646 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,775 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 46 | [アイコトバ](https://open.spotify.com/track/3OtR0cI6ngSveZ3sxOARa9) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [アイコトバ](https://open.spotify.com/album/6HlF6mu7x9hT21LdjIhgG4) | 4:44 |
 | 47 | [運命ちゃん](https://open.spotify.com/track/6hrFluMqAYUB7708EnnpiN) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [運命ちゃん](https://open.spotify.com/album/4a7LxWB47pTyCvLdK7LvJj) | 3:16 |
 | 48 | [狂信者のパレード \- The Parade of Battlers](https://open.spotify.com/track/2eag5tepAFxHgvyM5DNed5) | [音羽\-otoha\-](https://open.spotify.com/artist/0FWjVS3rnr70HEuhNl0JjR) | [狂信者のパレード \- The Parade of Battlers](https://open.spotify.com/album/6Rql8tyfUXkJWq5tlzVMjP) | 4:11 |
-| 49 | [スノーノワール](https://open.spotify.com/track/6f8dUmzyg5kAvn1yMZI2Pc) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [スノーノワール](https://open.spotify.com/album/6x4DToJwtB6d3sZaWh2IAj) | 3:28 |
-| 50 | [外道讃歌](https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [外道讃歌](https://open.spotify.com/album/5NmUuvyYyKSebmuitwqBsY) | 4:29 |
+| 49 | [外道讃歌](https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [外道讃歌](https://open.spotify.com/album/5NmUuvyYyKSebmuitwqBsY) | 4:29 |
+| 50 | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1) | 4:59 |
 
 Snapshot ID: `ZpoQfQAAAABSgs107JvIO3O7itZ/9W+1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 
 > Unwind and let the afternoon unfold.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,182,012 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,181,960 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 78 | [Dreams](https://open.spotify.com/track/6set2UH8XaNibl4szytQlt) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Strawberry Mansion \- Side A](https://open.spotify.com/album/0mbKHuV8g0FQ2WDQgDZgGR) | 2:18 |
 | 79 | [Greenline](https://open.spotify.com/track/7JqXp5pjozFbb9l3ipXkdA) | [Honeysuckle](https://open.spotify.com/artist/4CInnkt9AYgGZjFaoGsj5f) | [Catacombs](https://open.spotify.com/album/3UKPewQGZedGY7pmzS282N) | 2:52 |
 | 80 | [The Future is Dead \- Tiny Habits Version](https://open.spotify.com/track/0vdtDUOHPHvFUOYZty292C) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [The Future Is Dead \(Tiny Habits Version\)](https://open.spotify.com/album/27iYmldP2sbRwR5RG5PQls) | 3:02 |
-| 81 | [Without A Word](https://open.spotify.com/track/6NTIKfyWCP3Nm2zWB16o88) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Young In All The Wrong Ways](https://open.spotify.com/album/5O41sFLk5rKN2S4eT8GgQR) | 3:58 |
-| 82 | [Breast of Glass](https://open.spotify.com/track/04KKr7Ri3H3lVTVdNxcyK1) | [Jake Xerxes Fussell](https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33) | [Breast of Glass/Frolic](https://open.spotify.com/album/1i5BixhgJGlO0os0MbtHEm) | 4:01 |
+| 81 | [Breast of Glass](https://open.spotify.com/track/04KKr7Ri3H3lVTVdNxcyK1) | [Jake Xerxes Fussell](https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33) | [Breast of Glass/Frolic](https://open.spotify.com/album/1i5BixhgJGlO0os0MbtHEm) | 4:01 |
+| 82 | [Without A Word](https://open.spotify.com/track/6NTIKfyWCP3Nm2zWB16o88) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Young In All The Wrong Ways](https://open.spotify.com/album/5O41sFLk5rKN2S4eT8GgQR) | 3:58 |
 | 83 | [See the World](https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK) | 4:17 |
 | 84 | [Dirty Old Town](https://open.spotify.com/track/567EmmCbOtpEuaVC2zznU6) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [Goodnight \(Go Home\) \- CC010](https://open.spotify.com/album/6n3RGLF30GoCCubzH6WtVQ) | 4:06 |
 | 85 | [Fall, Fall, Fall](https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Fall, Fall, Fall](https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY) | 4:41 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 96 | [Visions](https://open.spotify.com/track/67yniWH9m9UjFwSA0CPeIk) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Visions](https://open.spotify.com/album/3HGLigPm8UcqiA0vPAv3Ye) | 3:55 |
 | 97 | [Tell Me What You Want from Me \- Acoustic](https://open.spotify.com/track/5d6oKXvKIYBF0CThg58v5a) | [Good Old War](https://open.spotify.com/artist/33szNKNcVX8x0jl8X7hxHL) | [Tell Me What You Want from Me \(Acoustic\)](https://open.spotify.com/album/2nzIJQNWRRKp1w4fJBbCrJ) | 3:35 |
 | 98 | [I Forget Myself](https://open.spotify.com/track/75zcToiQTLgeIr0dGiRJXE) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Tourism](https://open.spotify.com/album/7G07UTNS6qqiu7c5cz7jcj) | 3:32 |
-| 99 | [Hold On](https://open.spotify.com/track/6AtwUZAzqw6vHenJ5rCX4E) | [Wildwood Kin](https://open.spotify.com/artist/2KOxHm9lGE9lFZDQdebD6B) | [Salt of the Earth](https://open.spotify.com/album/5wyNew5WajlEnFujeOJkvY) | 4:03 |
-| 100 | [Safe \- Acoustic](https://open.spotify.com/track/5tfFboWJhotbIPlY1aVsOD) | [Shook Twins](https://open.spotify.com/artist/1W7C5vzhPuZbHekm6xWu9i) | [Safe \(Acoustic\)](https://open.spotify.com/album/2IpY7zqljoR9lsytK4aYl7) | 3:45 |
+| 99 | [Nothing Else](https://open.spotify.com/track/33ZjZqqFuGRTPjNVqO0h8o) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/19KbCZVQpfC3eyD4Db3Vrq) | 4:24 |
+| 100 | [Hold On](https://open.spotify.com/track/6AtwUZAzqw6vHenJ5rCX4E) | [Wildwood Kin](https://open.spotify.com/artist/2KOxHm9lGE9lFZDQdebD6B) | [Salt of the Earth](https://open.spotify.com/album/5wyNew5WajlEnFujeOJkvY) | 4:03 |
 
 Snapshot ID: `ZJ5TQAAAAACop6HmrXmNyncyfaA37R+7`

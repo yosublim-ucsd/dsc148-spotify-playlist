@@ -4,7 +4,7 @@
 
 > Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!
 
-595 songs - 1 day 1 hr 22 min
+596 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Brazilian Phonk Mano](https://open.spotify.com/track/5l5KiiYcmR8kbHsg18VfqK) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [lucaf.](https://open.spotify.com/artist/6D9zCyDfKoioQD2vYKxOdI), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [Brazilian Phonk Mano](https://open.spotify.com/album/5pWDJaRKvFnwpPO1NXXw8a) | 1:24 | 2023-06-12 |  |
 | [Brazilian Tumba](https://open.spotify.com/track/5NBO6M20xuFd6ZdAbxoisL) | [Shipu](https://open.spotify.com/artist/6SpI2wmQicP9Xhu90lBMqp), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [Brazilian Tumba](https://open.spotify.com/album/50ksb1bG5LiLe7hcSUgk0m) | 1:17 | 2023-09-21 | 2023-12-14 |
 | [Breathe](https://open.spotify.com/track/6DHxhN8MgRH5xV1Nawzvxs) | [Johnny Oz](https://open.spotify.com/artist/7GkgjfpYIkFVA1OkGIy7jh) | [Breathe](https://open.spotify.com/album/5dmx0S77I2Br7YWeD6JZiW) | 2:30 | 2023-12-08 | 2024-01-13 |
+| [BREATHLESS](https://open.spotify.com/track/499vcCHJHXAkkIgPa4R4gh) | [SKYVER](https://open.spotify.com/artist/28vzuYcNCFrd0CaN9ZZVod), [Phonk](https://open.spotify.com/artist/3kXvE7gEBfGkwDaknMngF7) | [BREATHLESS](https://open.spotify.com/album/6E212bJUrFclbVLidMEy1f) | 1:25 | 2024-07-19 |  |
 | [BRODYAGA FUNK](https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [BRODYAGA FUNK](https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0) | 2:14 | 2024-03-08 | 2024-04-08 |
 | [BROKEN BITCH](https://open.spotify.com/track/7ykEXL2ppP2SEaZS5c0Mvx) | [FA$TLANE](https://open.spotify.com/artist/565dBBNH2okvWndyewuGLa), [CAA$$I](https://open.spotify.com/artist/4mTmiXbZbY6YroUrMV7Izk) | [Broke Bitch](https://open.spotify.com/album/0FUZqA6yXRIOsiR7Qjjon0) | 1:52 | 2023-09-15 | 2023-12-17 |
 | [Broken Pieces](https://open.spotify.com/track/2B0UI66xHRR3wKZCpirZvb) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Broken Pieces](https://open.spotify.com/album/1FnoO6bB7WjIwoC8fe4KOc) | 2:46 | 2023-08-26 | 2023-12-14 |

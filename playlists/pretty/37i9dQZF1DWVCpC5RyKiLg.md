@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,956 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,973 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 66 | [Recairei \- Ao Vivo](https://open.spotify.com/track/71FrGl0XcpL3VId65tB5mg) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Recairei \(Ao Vivo\)](https://open.spotify.com/album/1VqC063saacxnL4IlMnHtI) | 2:46 |
 | 67 | [Desejando Eu \(Ao Vivo\)](https://open.spotify.com/track/3056x1XkmICnQmji68rrft) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Desejando Eu \(Ao Vivo\)](https://open.spotify.com/album/0aE84qddWXI20A2XliO6CP) | 2:40 |
 | 68 | [Nem Tchum \- Ao Vivo](https://open.spotify.com/track/4oRI9c4EmcKo9kbgVM8zWP) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Reflexo \- Deluxe \(ao Vivo\)](https://open.spotify.com/album/12l3RVZkb3tZVCAdwF2yl7) | 3:22 |
-| 69 | [Romance Desapegado](https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Romance Desapegado](https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud) | 3:04 |
-| 70 | [Jogado Na Rua](https://open.spotify.com/track/09NdjJyx9HiLhGFd9YinIS) | [Guilherme & Santiago](https://open.spotify.com/artist/61rqgwKmF0QwycnC8O82rn) | [Hits Para Namorar](https://open.spotify.com/album/54jwx7wNnFOjaVn82mV3Rd) | 3:26 |
+| 69 | [Jogado Na Rua](https://open.spotify.com/track/09NdjJyx9HiLhGFd9YinIS) | [Guilherme & Santiago](https://open.spotify.com/artist/61rqgwKmF0QwycnC8O82rn) | [Hits Para Namorar](https://open.spotify.com/album/54jwx7wNnFOjaVn82mV3Rd) | 3:26 |
+| 70 | [Romance Desapegado](https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Romance Desapegado](https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud) | 3:04 |
 | 71 | [Beijo De Varanda \- Ao Vivo](https://open.spotify.com/track/2E8Shaw5menB7ImgCQA4th) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ensaio \(Ao Vivo\)](https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T) | 2:41 |
 | 72 | [quando a bad bater \- ao vivo](https://open.spotify.com/track/5gvrBqNFFEWcxYPt3mamvJ) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [VIVA \(Ao Vivo\)](https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR) | 2:59 |
 | 73 | [Oitava Dose \- Ao Vivo](https://open.spotify.com/track/7kbnk6wMnavcDyIIWDZTxl) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Na Praia 2 \(Ao Vivo\)](https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN) | 3:16 |

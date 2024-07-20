@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 
 > All the vibes\. All the feels\. 🫠 🙄
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,747,499 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,747,431 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 61 | [WHITE CROCS \(with Ryan Trey\)](https://open.spotify.com/track/0VNe1ZE8U2baB3JKZpEBok) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [FORWARD](https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL) | 2:27 |
 | 62 | [Best Thing](https://open.spotify.com/track/4pqYf5eVYFpesyKlrFGNTE) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [S.O.L.A.R.](https://open.spotify.com/album/0oIztouqTB4rZYosZ8zh87) | 3:08 |
 | 63 | [Easy](https://open.spotify.com/track/58dSdjfEYNSxte1aNVxuNf) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Drive Slow](https://open.spotify.com/album/0qQKOuHPlCPKaNgeOh3ytH) | 5:14 |
-| 64 | [Make Me Forget](https://open.spotify.com/track/7pY0MF6y9pNpzxv7uTCJzD) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Make Me Forget](https://open.spotify.com/album/59CeMWslDVrFULYoxotqRl) | 3:58 |
-| 65 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/6N3qHjcwly8ZuhE4bPYJAX) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Get You \- Single](https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6) | 4:37 |
+| 64 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/6N3qHjcwly8ZuhE4bPYJAX) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Get You \- Single](https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6) | 4:37 |
+| 65 | [Make Me Forget](https://open.spotify.com/track/7pY0MF6y9pNpzxv7uTCJzD) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Make Me Forget](https://open.spotify.com/album/59CeMWslDVrFULYoxotqRl) | 3:58 |
 | 66 | [Tell Me It's Over \(feat\. Summer Walker & 6LACK\)](https://open.spotify.com/track/2cue4DdCwO7himRLESpWk5) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Sincerely For You](https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze) | 4:41 |
 | 67 | [WY@](https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WY@](https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd) | 3:28 |
 | 68 | [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 5:19 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 70 | [Make Me Stay](https://open.spotify.com/track/3REQkt60mafExNVnJehMdL) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Late To Die Young](https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn) | 2:52 |
 | 71 | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N) | 3:09 |
 | 72 | [Unloyal \(with Ari Lennox\)](https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:27 |
-| 73 | [THINGS & SUCH](https://open.spotify.com/track/4Hv8QuMQfG7e6GWOWcXYKk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 3:57 |
-| 74 | [Can't Be Friends](https://open.spotify.com/track/4iMDkH8t3Sooaj3uCzpYP2) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Passion, Pain & Pleasure \(Deluxe Version\)](https://open.spotify.com/album/3sDoSYf2AKB2IegZmkISGD) | 3:40 |
+| 73 | [Can't Be Friends](https://open.spotify.com/track/4iMDkH8t3Sooaj3uCzpYP2) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Passion, Pain & Pleasure \(Deluxe Version\)](https://open.spotify.com/album/3sDoSYf2AKB2IegZmkISGD) | 3:40 |
+| 74 | [THINGS & SUCH](https://open.spotify.com/track/4Hv8QuMQfG7e6GWOWcXYKk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 3:57 |
 | 75 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 |
 | 76 | [Around Me](https://open.spotify.com/track/7dQeS4ErW1iWvnKdrtKwKr) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Lost](https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r) | 3:03 |
 | 77 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 |

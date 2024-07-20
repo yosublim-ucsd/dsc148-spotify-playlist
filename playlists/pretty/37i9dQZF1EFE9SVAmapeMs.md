@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 | 54 | [YEAAA! \(feat\. Future\)](https://open.spotify.com/track/1RsgNG6ne4TKnL0xoAzFeQ) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MISUNDERSTOOD](https://open.spotify.com/album/6UGajHeNjVlZN2I9LJhT2l) | 3:34 |
 | 55 | [Too Many Times](https://open.spotify.com/track/0iRWX6F62Q9QEEUHeI5bVT) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ) | [MISUNDERSTOOD](https://open.spotify.com/album/6UGajHeNjVlZN2I9LJhT2l) | 4:56 |
 | 56 | [Period.](https://open.spotify.com/track/2DXQ8dS7PkrwgLqgX2t0sh) | [Smoove'L](https://open.spotify.com/artist/6FheakPfcCNN0NeROtOKeQ) | [Ice Cups And Shootouts](https://open.spotify.com/album/4vs6WKFkz4pctlEnLO2uCy) | 2:19 |
-| 57 | [• VVS](https://open.spotify.com/track/0M5ycnOCm3yZMPGwb9y68t) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [KTOE](https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L) | [Fleurever](https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH) | 2:52 |
-| 58 | [Afro Blue](https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Afro Blue](https://open.spotify.com/album/6FrOVQv6pmNkJB6dE5RKqV) | 3:51 |
+| 57 | [Afro Blue](https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Afro Blue](https://open.spotify.com/album/6FrOVQv6pmNkJB6dE5RKqV) | 3:51 |
+| 58 | [• VVS](https://open.spotify.com/track/0M5ycnOCm3yZMPGwb9y68t) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [KTOE](https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L) | [Fleurever](https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH) | 2:52 |
 | 59 | [Young Love Games](https://open.spotify.com/track/5Z0qaipNiBmMTTFohE9ek3) | [Grace Weber](https://open.spotify.com/artist/3hJNrfFurTlGFglmBwyFFM) | [Young Love Games](https://open.spotify.com/album/0edwyKGofva4cAqAuTWmJd) | 2:45 |
 
-Snapshot ID: `AbXFEgAAAADikAFDk2vXEFxtROIF67JF`
+Snapshot ID: `AbXJDAAAAADCGbadrYVYchIKNylHlyNv`

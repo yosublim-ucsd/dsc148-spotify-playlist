@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-270 songs - 16 hr 30 min
+271 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Badda \- Sinais VIP](https://open.spotify.com/track/2586qpfMle1fZxOkzffOjU) | [Bianca Oblivion](https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94), [Onhell](https://open.spotify.com/artist/66SJhirDGiBwr3tfvu3a0t), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Badda \(Sinais VIP\)](https://open.spotify.com/album/4cFwI8Adp03Ecaw9CEhUtz) | 2:34 | 2023-12-22 |  |
 | [Badman Riddim \(feat\. Sweetie Irie\)](https://open.spotify.com/track/339XYqVhOTiU94uiNHYm6t) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC), [Sweetie Irie](https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b) | [Badman Riddim \(feat\. Sweetie Irie\)](https://open.spotify.com/album/5ELEn4lSOs1X23nVQzcbFK) | 2:17 | 2023-08-10 | 2023-12-14 |
 | [Badman Riddim \(feat\. Sweetie Irie\)](https://open.spotify.com/track/5kbh3uExfnmUeFhEW8ABZE) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC), [Sweetie Irie](https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b) | [Badman Riddim \(feat\. Sweetie Irie\)](https://open.spotify.com/album/6oPO1krnnAWP9qhOgJb7WB) | 2:17 | 2023-12-01 | 2024-04-19 |
+| [Badman Sound](https://open.spotify.com/track/6bvx6KpGKpaaEDHtCEmfN1) | [Duckworthsound](https://open.spotify.com/artist/3swJXxJ2hVoZoHZVj855A0), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [Duckplates](https://open.spotify.com/artist/579dZYX6XzHaxmk2oGdUwu) | [Badman Sound](https://open.spotify.com/album/0lczzN8BofzatOa0ESL48A) | 4:05 | 2024-07-19 |  |
 | [Banzai VIP](https://open.spotify.com/track/4zO3VlPNShnAGzgc5AvkL6) | [HODA](https://open.spotify.com/artist/6947jU93LuBHWx7OLAh9gx), [Eloquin](https://open.spotify.com/artist/6tRzzi6vUGERNBRbOkaOa1) | [Banzai VIP](https://open.spotify.com/album/6HihMPOfFtq8uSUE7lyvw1) | 4:54 | 2022-04-15 | 2022-09-06 |
 | [Bap Bap](https://open.spotify.com/track/20jEy9KrrZfuJlh4dQvsi2) | [J69](https://open.spotify.com/artist/46M2k6hBDA6GLd9iuNZgRh), [Breeza](https://open.spotify.com/artist/0EekcwIz2iDjJBzwFYKAqv) | [Bap Bap](https://open.spotify.com/album/4Jv3UelU10kLgglZTwJuzE) | 2:51 | 2022-07-14 | 2022-07-20 |
 | [Barrington](https://open.spotify.com/track/13UkLkxFcO890QCWwaYW9c) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Barrington / Bodies](https://open.spotify.com/album/5FWII16ZTq6HfCMvdpqCTQ) | 3:41 | 2022-05-20 | 2023-05-19 |
@@ -134,7 +135,7 @@
 | [I Want You Back](https://open.spotify.com/track/2bnpB2SaoYdnVCAxQbSAuO) | [Mr Virgo](https://open.spotify.com/artist/4lQPqOsyeapLWAd2aXILFU) | [I Want You Back](https://open.spotify.com/album/43TzjTz1lUfZ0J6hPDyu0g) | 2:59 | 2022-04-15 | 2022-07-28 |
 | [Icon](https://open.spotify.com/track/3FzRX9CTMgu2Qn1wHE6ygo) | [Digital Koala](https://open.spotify.com/artist/2smGxnd2ZkFTk5bf70eirU), [SK](https://open.spotify.com/artist/2NrLFUM3oJeTAs8ZX6gFoc) | [Icon](https://open.spotify.com/album/2kwFtcaZUVlEK3liC4PywN) | 2:37 | 2022-04-15 | 2022-07-27 |
 | [Icon](https://open.spotify.com/track/6lHkU1xFBcjMVXeqDscSh7) | [Digital Koala](https://open.spotify.com/artist/2smGxnd2ZkFTk5bf70eirU), [SK](https://open.spotify.com/artist/2NrLFUM3oJeTAs8ZX6gFoc) | [Icon](https://open.spotify.com/album/7bwEAWHPjQrk6Qr3fdg2En) | 2:37 | 2023-04-04 | 2023-12-22 |
-| [IMMACULATE SKANK](https://open.spotify.com/track/678ey4hhnfoCIRYbQ9dTwc) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [IMMACULATE SKANK](https://open.spotify.com/album/6559VpMe0iH33RoMMwHrdm) | 3:42 | 2024-03-01 |  |
+| [IMMACULATE SKANK](https://open.spotify.com/track/678ey4hhnfoCIRYbQ9dTwc) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [IMMACULATE SKANK](https://open.spotify.com/album/6559VpMe0iH33RoMMwHrdm) | 3:42 | 2024-03-01 | 2024-07-20 |
 | [In My Head](https://open.spotify.com/track/2yWYceNVmSmTc4XK4GQAsZ) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [In My Head](https://open.spotify.com/album/3x0BpjZvx3VzldV7uEdvU5) | 3:29 | 2022-04-22 | 2022-07-21 |
 | [In The Rave](https://open.spotify.com/track/4pTk5KSXzF68SMACQ1fCyR) | [A.2.Z](https://open.spotify.com/artist/4DdL680AJQUH0N9KcewTdQ), [2 Below](https://open.spotify.com/artist/7wponEQgf3A7sgrV6cbSk7) | [In The Rave](https://open.spotify.com/album/65ZW9lhYTBzcqJdHc4q2aB) | 3:16 | 2022-04-15 | 2022-07-24 |
 | [Inside](https://open.spotify.com/track/5Yux6ipN64rjAdUrs5kqGI) | [Slick Don](https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k) | [Inside](https://open.spotify.com/album/41v5RTP7DI3PGECp9i7ZBa) | 4:12 | 2023-01-24 | 2024-04-12 |

@@ -2,7 +2,7 @@
 
 ### [This Is The 1975](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1X6Ic8)
 
-> This Is The 1975\. Все лучшие треки в одном плейлисте.
+> This is The 1975\. The essential tracks, all in one playlist.
 
 53 songs - 3 hr 30 min
 

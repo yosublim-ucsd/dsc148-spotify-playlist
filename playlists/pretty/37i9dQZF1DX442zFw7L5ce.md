@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Pooja Hegde
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,496 likes - 41 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,503 likes - 41 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 36 | [Ladiyo](https://open.spotify.com/track/2QFFI5i22rkoF14Qpwwok3) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [I \- Manoharudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0PqDwbg5QiH6S0uZTPWJR8) | 4:43 |
 | 37 | [Evaraina Chustuntara](https://open.spotify.com/track/7vHmN4UodN2EGwQJMIvTe0) | [Smita](https://open.spotify.com/artist/4qCRlu0jozfPsnmnxuWPve) | [Anukokunda Oka Roju \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PiAeBEGIWDTRinfBVRqdt) | 3:15 |
 | 38 | [Kaatuka Kallakettinaave](https://open.spotify.com/track/6oi7mBSvwYHOy0uX1yrQSc) | [P V N S Rohit](https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM) | [Kaatuka Kallakettinaave](https://open.spotify.com/album/7ET4tUowUafTghbMn0FxhC) | 3:19 |
-| 39 | [Sweety](https://open.spotify.com/track/0JwGSIPH2wzFVl6ZW1RQoW) | [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW), [Rabbit M C](https://open.spotify.com/artist/3EwmY8hOYo6ApKtlOIfgVV) | [Race Gurram](https://open.spotify.com/album/6qESUjEdldht18WkWpLw4n) | 4:25 |
-| 40 | [Rooba Rooba](https://open.spotify.com/track/7gVqTSJ4Mr5uKkM9yhQKop) | [Shahil Hada](https://open.spotify.com/artist/4Rn2NNAPBegkcTSPz54jcc), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Orange](https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj) | 5:14 |
+| 39 | [Rooba Rooba](https://open.spotify.com/track/7gVqTSJ4Mr5uKkM9yhQKop) | [Shahil Hada](https://open.spotify.com/artist/4Rn2NNAPBegkcTSPz54jcc), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Orange](https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj) | 5:14 |
+| 40 | [Sweety](https://open.spotify.com/track/0JwGSIPH2wzFVl6ZW1RQoW) | [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW), [Rabbit M C](https://open.spotify.com/artist/3EwmY8hOYo6ApKtlOIfgVV) | [Race Gurram](https://open.spotify.com/album/6qESUjEdldht18WkWpLw4n) | 4:25 |
 | 41 | [Ekkada Ekkada](https://open.spotify.com/track/1nV9Nxh5bCYnJ372qcFIbT) | [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Murari](https://open.spotify.com/album/5JedwC5U716Hg3pUANEtVu) | 6:11 |
 
 Snapshot ID: `ZogUYwAAAACaUrgi0AWbXgwaDindatNv`

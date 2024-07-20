@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbttAJcbphz.md) - [plain]
 
 > The most essential R&B songs from the '10s\. Cover: The Internet
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,686,378 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,686,351 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbttAJcbphz.md) - [plain]
 | 74 | [Adorn](https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream](https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD) | 3:13 |
 | 75 | [PRBLMS](https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [FREE 6LACK](https://open.spotify.com/album/7iwGw8ob3YLqZrbKzGFnHi) | 4:06 |
 | 76 | [She Don't \(feat\. Ty Dolla $Ign\)](https://open.spotify.com/track/01JPQ87UHeGysPVwTqMJHK) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Time](https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu) | 4:24 |
-| 77 | [Body](https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:13 |
+| 77 | [It Won't Stop \(feat\. Chris Brown\) \- EP Version](https://open.spotify.com/track/2xRYnHQdLD9ketvC01UYYT) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Call Me Crazy, But...](https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7) | 4:41 |
 | 78 | [OTW](https://open.spotify.com/track/6Hgh47WXVKtXN5zGOu0hjI) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [OTW](https://open.spotify.com/album/0c4JocKlxYfBjZep8TJkcI) | 4:23 |
-| 79 | [It Won't Stop \(feat\. Chris Brown\) \- EP Version](https://open.spotify.com/track/2xRYnHQdLD9ketvC01UYYT) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Call Me Crazy, But...](https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7) | 4:41 |
+| 79 | [Body](https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:13 |
 | 80 | [Planez](https://open.spotify.com/track/08zJpaUQVi9FrKv2e32Bah) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 4:00 |
 | 81 | [Gang Over Luv](https://open.spotify.com/track/7LaI3mRTJu66r9HKdv7iBx) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Sonder Son](https://open.spotify.com/album/5Bp1EX2ypdFnJ5IUyiRl8w) | 3:24 |
 | 82 | [Pour It Up](https://open.spotify.com/track/76VtA90NKurNqaQpV126Ue) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) | 2:41 |

@@ -1,6 +1,6 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 67646,
+  "num_followers": 67656,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
@@ -467,26 +467,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "El Big Bang",
-        "url": "https://open.spotify.com/album/21sw5hm7AanjSg7mZrBYxz"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        },
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 243830,
-      "name": "El Big Bang",
-      "url": "https://open.spotify.com/track/61svvvUEUPodjZvXhXv74e"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "EME",
         "url": "https://open.spotify.com/album/2iLF9iKotpW9QVlX2hJo2T"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 191213,
       "name": "EME",
       "url": "https://open.spotify.com/track/5kksd5p7OOz8vF7NbDw7GE"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "El Big Bang",
+        "url": "https://open.spotify.com/album/21sw5hm7AanjSg7mZrBYxz"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        },
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 243830,
+      "name": "El Big Bang",
+      "url": "https://open.spotify.com/track/61svvvUEUPodjZvXhXv74e"
     },
     {
       "added_at": "2024-06-28 21:13:36",

@@ -1,6 +1,6 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: <spotify:artist:0qZ8aSF0iMCQI99AAXikF8\">ELEVATION RHYTHM</a>",
-  "num_followers": 133616,
+  "num_followers": 133634,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,26 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
+        "name": "Break Out",
+        "url": "https://open.spotify.com/album/6fHknY4BtYJ5qQ0AgK42wV"
+      },
+      "artists": [
+        {
+          "name": "Rolling Hills Worship",
+          "url": "https://open.spotify.com/artist/19dCe1rplp2csOVqXF6J0M"
+        },
+        {
+          "name": "Jennifer Akers",
+          "url": "https://open.spotify.com/artist/5xPxDbZRCqgGDTNvMlVz8U"
+        }
+      ],
+      "duration_ms": 235580,
+      "name": "Break Out - Studio Single",
+      "url": "https://open.spotify.com/track/11aBOrLAA0yjNooqF3eWW8"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
         "name": "Battle Belongs (Reyer & Retain Remix)",
         "url": "https://open.spotify.com/album/0iszENrvkQKnEeap9o0RSK"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 217165,
       "name": "Battle Belongs - Reyer & Retain Remix",
       "url": "https://open.spotify.com/track/2uCL1C9hwqYywVGJrq6RWy"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
-        "name": "Break Out",
-        "url": "https://open.spotify.com/album/6fHknY4BtYJ5qQ0AgK42wV"
-      },
-      "artists": [
-        {
-          "name": "Rolling Hills Worship",
-          "url": "https://open.spotify.com/artist/19dCe1rplp2csOVqXF6J0M"
-        },
-        {
-          "name": "Jennifer Akers",
-          "url": "https://open.spotify.com/artist/5xPxDbZRCqgGDTNvMlVz8U"
-        }
-      ],
-      "duration_ms": 235580,
-      "name": "Break Out - Studio Single",
-      "url": "https://open.spotify.com/track/11aBOrLAA0yjNooqF3eWW8"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Nothing But Good",
-        "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
-      },
-      "artists": [
-        {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
-        }
-      ],
-      "duration_ms": 225472,
-      "name": "Nothing But Good",
-      "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Highest Praise",
         "url": "https://open.spotify.com/album/4qzym8XbAyFHXwJkot786Z"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 243817,
       "name": "Highest Praise",
       "url": "https://open.spotify.com/track/0h13SlJtBTJZvuNNL9GQmM"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Nothing But Good",
+        "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
+      },
+      "artists": [
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+        }
+      ],
+      "duration_ms": 225472,
+      "name": "Nothing But Good",
+      "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
+        "name": "Paradigms (Live)",
+        "url": "https://open.spotify.com/album/4mCc0FErkyqMK5zlwq2eGi"
+      },
+      "artists": [
+        {
+          "name": "Life Church Music",
+          "url": "https://open.spotify.com/artist/2OTr2VfIBrI0y3rZPCSAe2"
+        }
+      ],
+      "duration_ms": 200687,
+      "name": "Heaven Calling - Live",
+      "url": "https://open.spotify.com/track/3QhgScxJj3sdi3otErjQrU"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
         "name": "I Am Alive",
         "url": "https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 208480,
       "name": "Brighter - Live",
       "url": "https://open.spotify.com/track/2rED5Vu3HINA7kc3paWxJt"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
-        "name": "Paradigms (Live)",
-        "url": "https://open.spotify.com/album/4mCc0FErkyqMK5zlwq2eGi"
-      },
-      "artists": [
-        {
-          "name": "Life Church Music",
-          "url": "https://open.spotify.com/artist/2OTr2VfIBrI0y3rZPCSAe2"
-        }
-      ],
-      "duration_ms": 200687,
-      "name": "Heaven Calling - Live",
-      "url": "https://open.spotify.com/track/3QhgScxJj3sdi3otErjQrU"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
+        "name": "What Else",
+        "url": "https://open.spotify.com/album/5Z85Gw3JnxYzjQCAkreQuu"
+      },
+      "artists": [
+        {
+          "name": "Mainstream Worship",
+          "url": "https://open.spotify.com/artist/2flJ9VtcAFRHlUWdjES6D3"
+        },
+        {
+          "name": "Sydney James",
+          "url": "https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ"
+        }
+      ],
+      "duration_ms": 215125,
+      "name": "What Else",
+      "url": "https://open.spotify.com/track/5omNTlxMUhgLw05noDovfl"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
         "name": "You Are Here",
         "url": "https://open.spotify.com/album/3yIgUz5UgZZtWw76FTbYSa"
       },
@@ -1327,26 +1347,6 @@
       "duration_ms": 227250,
       "name": "Space God - Live",
       "url": "https://open.spotify.com/track/3NYEyiTHTZPp9CDNBzNEv9"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
-        "name": "What Else",
-        "url": "https://open.spotify.com/album/5Z85Gw3JnxYzjQCAkreQuu"
-      },
-      "artists": [
-        {
-          "name": "Mainstream Worship",
-          "url": "https://open.spotify.com/artist/2flJ9VtcAFRHlUWdjES6D3"
-        },
-        {
-          "name": "Sydney James",
-          "url": "https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ"
-        }
-      ],
-      "duration_ms": 215125,
-      "name": "What Else",
-      "url": "https://open.spotify.com/track/5omNTlxMUhgLw05noDovfl"
     },
     {
       "added_at": "2024-06-25 03:27:03",

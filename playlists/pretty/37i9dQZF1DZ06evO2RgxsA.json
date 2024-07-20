@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 88399,
+  "num_followers": 88412,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAADi3I41MJ3PfetHEJVShgLy",
+  "snapshot_id": "ZphbAAAAAACwoXZi/oTqjUjQSfx1LDJi",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 80800,
-      "name": "It's My Job To Keep Punk Rock Elite",
-      "url": "https://open.spotify.com/track/6vWVPfnyCENt9znrCy2UNj"
+      "duration_ms": 112493,
+      "name": "All Outta Angst",
+      "url": "https://open.spotify.com/track/0eVZhPIexAYqdwKNqSp3Qm"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Entitled",
-        "url": "https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 122746,
-      "name": "Cell Out",
-      "url": "https://open.spotify.com/track/2qwCYIsEj4vtsROxuEBss1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pump Up The Valuum",
         "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
       },
@@ -187,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Self Entitled",
+        "url": "https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 122746,
+      "name": "Cell Out",
+      "url": "https://open.spotify.com/track/2qwCYIsEj4vtsROxuEBss1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "So Long & Thanks For All The Shoes",
         "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
       },
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 112493,
-      "name": "All Outta Angst",
-      "url": "https://open.spotify.com/track/0eVZhPIexAYqdwKNqSp3Qm"
+      "duration_ms": 80800,
+      "name": "It's My Job To Keep Punk Rock Elite",
+      "url": "https://open.spotify.com/track/6vWVPfnyCENt9znrCy2UNj"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
-        "url": "https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 138840,
-      "name": "Drugs Are Good",
-      "url": "https://open.spotify.com/track/0biTGVjFrAfNQHnAjnuqnZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wolves in Wolves' Clothing",
         "url": "https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 133933,
       "name": "Usa-Holes",
       "url": "https://open.spotify.com/track/4AI2o7lsEDj5eEjE2qgT1b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
+        "url": "https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 138840,
+      "name": "Drugs Are Good",
+      "url": "https://open.spotify.com/track/0biTGVjFrAfNQHnAjnuqnZ"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm a Rat",
-        "url": "https://open.spotify.com/album/6tFvJiq05ntPswq35Tq3Yk"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 130547,
-      "name": "I'm a Rat",
-      "url": "https://open.spotify.com/track/4rNlmTlKXDBtvwzi63NkQc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Self Entitled",
         "url": "https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 94760,
       "name": "I Believe in Goddess",
       "url": "https://open.spotify.com/track/7K9QY042GZM4UFn2L6oyWP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm a Rat",
+        "url": "https://open.spotify.com/album/6tFvJiq05ntPswq35Tq3Yk"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 130547,
+      "name": "I'm a Rat",
+      "url": "https://open.spotify.com/track/4rNlmTlKXDBtvwzi63NkQc"
     },
     {
       "added_at": null,

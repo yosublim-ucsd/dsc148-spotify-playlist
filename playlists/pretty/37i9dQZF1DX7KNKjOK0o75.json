@@ -1,6 +1,6 @@
 {
   "description": "Feel great with these timelessly fun songs!",
-  "num_followers": 5268250,
+  "num_followers": 5268296,
   "original_name": "Have a Great Day!",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-05-02 19:18:45",
       "album": {
-        "name": "Abbey Road (Remastered)",
-        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 185733,
-      "name": "Here Comes The Sun - Remastered 2009",
-      "url": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2"
-    },
-    {
-      "added_at": "2023-05-02 19:18:45",
-      "album": {
         "name": "An Innocent Man",
         "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 197706,
       "name": "Uptown Girl",
       "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
+    },
+    {
+      "added_at": "2023-05-02 19:18:45",
+      "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "Here Comes The Sun - Remastered 2009",
+      "url": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2"
     },
     {
       "added_at": "2023-05-02 19:18:45",
@@ -605,22 +605,6 @@
       "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
     },
     {
-      "added_at": "2023-06-01 18:01:35",
-      "album": {
-        "name": "Rebel Yell",
-        "url": "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj"
-      },
-      "artists": [
-        {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
-        }
-      ],
-      "duration_ms": 299240,
-      "name": "Eyes Without A Face",
-      "url": "https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS"
-    },
-    {
       "added_at": "2023-05-02 19:18:45",
       "album": {
         "name": "Faith",
@@ -635,6 +619,22 @@
       "duration_ms": 193200,
       "name": "Faith - Remastered",
       "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
+    },
+    {
+      "added_at": "2023-06-01 18:01:35",
+      "album": {
+        "name": "Rebel Yell",
+        "url": "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "duration_ms": 299240,
+      "name": "Eyes Without A Face",
+      "url": "https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS"
     },
     {
       "added_at": "2023-05-02 19:18:45",
@@ -765,22 +765,6 @@
       "url": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"
     },
     {
-      "added_at": "2023-05-02 19:18:45",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/5FfkiNcXAvagExRCLd8nn4"
-      },
-      "artists": [
-        {
-          "name": "The Outfield",
-          "url": "https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y"
-        }
-      ],
-      "duration_ms": 221840,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/5dRQUolXAVX3BbCiIxmSsf"
-    },
-    {
       "added_at": "2023-05-16 14:07:14",
       "album": {
         "name": "Lungs (Deluxe Edition)",
@@ -795,6 +779,22 @@
       "duration_ms": 251840,
       "name": "Dog Days Are Over",
       "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
+    },
+    {
+      "added_at": "2023-05-02 19:18:45",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/5FfkiNcXAvagExRCLd8nn4"
+      },
+      "artists": [
+        {
+          "name": "The Outfield",
+          "url": "https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y"
+        }
+      ],
+      "duration_ms": 221840,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/5dRQUolXAVX3BbCiIxmSsf"
     },
     {
       "added_at": "2023-05-02 19:18:45",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-05-02 19:18:45",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 193346,
-      "name": "Don't Stop - 2004 Remaster",
-      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
-    },
-    {
-      "added_at": "2023-05-02 19:18:45",
-      "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 280000,
       "name": "You Can Call Me Al",
       "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
+    },
+    {
+      "added_at": "2023-05-02 19:18:45",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 193346,
+      "name": "Don't Stop - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
     },
     {
       "added_at": "2023-05-02 19:18:45",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-05-02 19:18:45",
       "album": {
-        "name": "Inseparable",
-        "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 171960,
-      "name": "This Will Be (An Everlasting Love)",
-      "url": "https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd"
-    },
-    {
-      "added_at": "2023-05-02 19:18:45",
-      "album": {
         "name": "Ghost In The Machine (Remastered 2003)",
         "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 260573,
       "name": "Every Little Thing She Does Is Magic",
       "url": "https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd"
+    },
+    {
+      "added_at": "2023-05-02 19:18:45",
+      "album": {
+        "name": "Inseparable",
+        "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 171960,
+      "name": "This Will Be (An Everlasting Love)",
+      "url": "https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-05-02 19:18:45",
       "album": {
-        "name": "On How Life Is",
-        "url": "https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe"
-      },
-      "artists": [
-        {
-          "name": "Macy Gray",
-          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
-        }
-      ],
-      "duration_ms": 239440,
-      "name": "I Try",
-      "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
-    },
-    {
-      "added_at": "2023-05-02 19:18:45",
-      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 183733,
       "name": "Red Red Wine",
       "url": "https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt"
+    },
+    {
+      "added_at": "2023-05-02 19:18:45",
+      "album": {
+        "name": "On How Life Is",
+        "url": "https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe"
+      },
+      "artists": [
+        {
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+        }
+      ],
+      "duration_ms": 239440,
+      "name": "I Try",
+      "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
     },
     {
       "added_at": "2023-05-02 19:18:45",

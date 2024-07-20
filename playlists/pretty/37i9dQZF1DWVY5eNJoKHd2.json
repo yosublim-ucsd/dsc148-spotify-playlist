@@ -1,6 +1,6 @@
 {
   "description": "Music that makes you feel like you're levitating.",
-  "num_followers": 1319266,
+  "num_followers": 1319616,
   "original_name": "Levitate",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Faye Webster",
+        "url": "https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 251666,
+      "name": "I Know You",
+      "url": "https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Lady Lady",
         "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 301893,
       "name": "Tadow",
       "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Faye Webster",
-        "url": "https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 251666,
-      "name": "I Know You",
-      "url": "https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "HE KNOWS (feat. Lil Nas X)",
-        "url": "https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "HE KNOWS (feat. Lil Nas X)",
-      "url": "https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Kauai",
         "url": "https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 345186,
       "name": "Veridis Quo",
       "url": "https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "HE KNOWS (feat. Lil Nas X)",
+        "url": "https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "HE KNOWS (feat. Lil Nas X)",
+      "url": "https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9"
     },
     {
       "added_at": "2024-06-14 05:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Dark Vacay",
-        "url": "https://open.spotify.com/album/33oGkitXxjRXWQwCx00jDb"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 213413,
-      "name": "Dark Vacay",
-      "url": "https://open.spotify.com/track/0vs7mPhFEivytZiyzxVp8r"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Visions",
         "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 255320,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Dark Vacay",
+        "url": "https://open.spotify.com/album/33oGkitXxjRXWQwCx00jDb"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 213413,
+      "name": "Dark Vacay",
+      "url": "https://open.spotify.com/track/0vs7mPhFEivytZiyzxVp8r"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Actual Life (April 14 - December 17 2020)",
+        "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 196071,
+      "name": "Kyle (i found you)",
+      "url": "https://open.spotify.com/track/6Ao5d7TMQ92h87jQqSHGyw"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -1315,18 +1331,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Actual Life (April 14 - December 17 2020)",
-        "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
+        "name": "Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1uUH6YyHcchOqJCU76XVdh"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 196071,
-      "name": "Kyle (i found you)",
-      "url": "https://open.spotify.com/track/6Ao5d7TMQ92h87jQqSHGyw"
+      "duration_ms": 299613,
+      "name": "Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/3NCQO8ath5huTDMXXtibH6"
     },
     {
       "added_at": "2024-06-14 05:00:00",
@@ -1343,22 +1359,6 @@
       "duration_ms": 202893,
       "name": "Shallow Water",
       "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1uUH6YyHcchOqJCU76XVdh"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 299613,
-      "name": "Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/3NCQO8ath5huTDMXXtibH6"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Actual Life (April 14 - December 17 2020)",
-        "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 199062,
-      "name": "Sabrina (i am a party)",
-      "url": "https://open.spotify.com/track/6zJUp1ihdid6Kn3Ndgcy82"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Lose It All (I Don't Wanna)",
         "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 139071,
       "name": "Lose It All (I Don't Wanna)",
       "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Actual Life (April 14 - December 17 2020)",
+        "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 199062,
+      "name": "Sabrina (i am a party)",
+      "url": "https://open.spotify.com/track/6zJUp1ihdid6Kn3Ndgcy82"
     }
   ],
   "unique_name": "Levitate",

@@ -1,6 +1,6 @@
 {
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
-  "num_followers": 488707,
+  "num_followers": 488698,
   "original_name": "Wochenende",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,26 @@
     {
       "added_at": "2024-07-01 12:57:40",
       "album": {
+        "name": "Tears In Ibiza (feat. AR/CO)",
+        "url": "https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg"
+      },
+      "artists": [
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "duration_ms": 143579,
+      "name": "Tears In Ibiza (feat. AR/CO)",
+      "url": "https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN"
+    },
+    {
+      "added_at": "2024-07-01 12:57:40",
+      "album": {
         "name": "Ghost Town",
         "url": "https://open.spotify.com/album/29xmDbpP6xSw3Bs1d6YPHa"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 162857,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/6h6HgJ66laDl6bY8W59Jdn"
-    },
-    {
-      "added_at": "2024-07-01 12:57:40",
-      "album": {
-        "name": "Tears In Ibiza (feat. AR/CO)",
-        "url": "https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg"
-      },
-      "artists": [
-        {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
-        },
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        }
-      ],
-      "duration_ms": 143579,
-      "name": "Tears In Ibiza (feat. AR/CO)",
-      "url": "https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN"
     },
     {
       "added_at": "2024-07-01 12:57:40",

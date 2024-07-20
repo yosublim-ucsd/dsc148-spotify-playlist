@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vMYBS7gYL7.md) - [plain]
 
 > Un poco de sabrosura y color para esos días lluviosos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,809 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,863 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vMYBS7gYL7.md) - [plain]
 | 35 | [El Papel Part 1 \(Versión Amante\)](https://open.spotify.com/track/4uUxCpAWzNxpMXoUYCoERX) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:38 |
 | 36 | [Azuquita Pa'l Cafe](https://open.spotify.com/track/3ZmIxCahvjC07OaxCIoCsM) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [25th Anniversary](https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn) | 4:09 |
 | 37 | [Usted Abusó](https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [The 'Brillante' Best](https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25) | 4:19 |
-| 38 | [No Tengo Suerte En El Amor](https://open.spotify.com/track/6Yeiqec7xM5qssOH1FWV1g) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [No Es Casualidad](https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF) | 3:59 |
-| 39 | [Lluvia](https://open.spotify.com/track/54vtEWLZyP51FGh9R585Zo) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Lluvia \(Baile Total\)](https://open.spotify.com/album/4AgZZalEkba03Ww2hTl8cW) | 4:56 |
+| 38 | [Lluvia](https://open.spotify.com/track/54vtEWLZyP51FGh9R585Zo) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Lluvia \(Baile Total\)](https://open.spotify.com/album/4AgZZalEkba03Ww2hTl8cW) | 4:56 |
+| 39 | [No Tengo Suerte En El Amor](https://open.spotify.com/track/6Yeiqec7xM5qssOH1FWV1g) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [No Es Casualidad](https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF) | 3:59 |
 | 40 | [Vámonos Pa'l Monte](https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Vámonos Pa'l Monte](https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK) | 7:06 |
 | 41 | [No Es una Novela](https://open.spotify.com/track/6u0YMyjnpSHi8EyHRkCCAP) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Éxitos](https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA) | 3:40 |
 | 42 | [El Watusi](https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Charanga Moderna](https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf) | 2:40 |

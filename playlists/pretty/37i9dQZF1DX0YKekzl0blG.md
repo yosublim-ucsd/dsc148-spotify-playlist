@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 
 > All the indelible tunes from the other side of the 00s\. Cover: LCD Soundsystem
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,139 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,204 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 | 61 | [Y Control](https://open.spotify.com/track/5tryzDT3iMMcONq3YHWgC9) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 4:00 |
 | 62 | [Time for Heroes](https://open.spotify.com/track/4J4LjEe33yN6gLmPib0nqz) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Up the Bracket](https://open.spotify.com/album/4iddETnfRjPwoPCo9PjeyX) | 2:40 |
 | 63 | [My Delirium](https://open.spotify.com/track/1YhzlKAGZCgFmu3maqDQtl) | [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [Ladyhawke \(Deluxe Edition\)](https://open.spotify.com/album/31AFNVRlzhlhqX9LCwPfHF) | 4:14 |
-| 64 | [Take Your Mama](https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Scissor Sisters](https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM) | 4:31 |
-| 65 | [Hard to Beat](https://open.spotify.com/track/5PZK7nZBsKjSkXDszKrJ1W) | [Hard\-Fi](https://open.spotify.com/artist/14Gi3Uph96lpNB3utkoVAD) | [Stars Of CCTV](https://open.spotify.com/album/49lMsHtv1i2vAaIs0lHWpD) | 4:13 |
+| 64 | [Hard to Beat](https://open.spotify.com/track/5PZK7nZBsKjSkXDszKrJ1W) | [Hard\-Fi](https://open.spotify.com/artist/14Gi3Uph96lpNB3utkoVAD) | [Stars Of CCTV](https://open.spotify.com/album/49lMsHtv1i2vAaIs0lHWpD) | 4:13 |
+| 65 | [Animal](https://open.spotify.com/track/4XTTwW06rMgud7yS1nySZf) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow](https://open.spotify.com/album/6OfYVC4m7EmGIxaKOgaoZs) | 4:23 |
 | 66 | [On Call](https://open.spotify.com/track/33YXSNBTg2KvbGur2E1XUw) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Because Of The Times](https://open.spotify.com/album/5xA2glxPh2OjEvvKiZXbR8) | 3:21 |
-| 67 | [Animal](https://open.spotify.com/track/4XTTwW06rMgud7yS1nySZf) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow](https://open.spotify.com/album/6OfYVC4m7EmGIxaKOgaoZs) | 4:23 |
+| 67 | [Take Your Mama](https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Scissor Sisters](https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM) | 4:31 |
 | 68 | [Ghosts](https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Alas I Cannot Swim](https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2) | 2:59 |
 | 69 | [Oh My God](https://open.spotify.com/track/24KqWcpyrY1COcRPYt2ef5) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Employment](https://open.spotify.com/album/6jOas0sYexfB4MDNShABrw) | 3:34 |
 | 70 | [Tribulations](https://open.spotify.com/track/5JOO8UMaEpOfhhatQQsAqm) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 4:59 |

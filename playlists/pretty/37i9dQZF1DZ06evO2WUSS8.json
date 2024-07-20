@@ -1,12 +1,12 @@
 {
   "description": "This is Angelique Kidjo. The essential tracks, all in one playlist.",
-  "num_followers": 14175,
+  "num_followers": 14181,
   "original_name": "This Is Angelique Kidjo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAAAUHNXenW9tlh/STee5QheZ",
+  "snapshot_id": "ZphbAAAAAAC++8jZCrOqcFC7D2pEYgPs",
   "tracks": [
     {
       "added_at": null,
@@ -339,26 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milambi",
-        "url": "https://open.spotify.com/album/4D4QOUYRQ98dXcmNHAAS7q"
-      },
-      "artists": [
-        {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 193278,
-      "name": "Milambi",
-      "url": "https://open.spotify.com/track/6Bg9rnY8OXQZOG79lCveyu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aye",
         "url": "https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza"
       },
@@ -579,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oremi",
-        "url": "https://open.spotify.com/album/5qmp5Q8tcg2VIJ5mVctnAC"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 229293,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/58dd55dzYZDoXVZgBlHbIR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quanto Mais Curtido Melhor",
         "url": "https://open.spotify.com/album/0t1qknrBjG99Kilu1ToPpX"
       },
@@ -615,26 +579,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wakafrika",
-        "url": "https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC"
+        "name": "Oremi",
+        "url": "https://open.spotify.com/album/5qmp5Q8tcg2VIJ5mVctnAC"
       },
       "artists": [
         {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        },
-        {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Papa Wemba",
-          "url": "https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ"
         }
       ],
-      "duration_ms": 278040,
-      "name": "Ami Oh! (feat. Ang\u00e9lique Kidjo & Papa Wemba)",
-      "url": "https://open.spotify.com/track/3cTOcVSED8x5psHFY5xGcg"
+      "duration_ms": 229293,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/58dd55dzYZDoXVZgBlHbIR"
     },
     {
       "added_at": null,
@@ -663,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Remain in Light",
+        "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 348813,
+      "name": "Once in a Lifetime",
+      "url": "https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Logozo",
         "url": "https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw"
       },
@@ -679,18 +651,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remain in Light",
-        "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
+        "name": "Wakafrika",
+        "url": "https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC"
       },
       "artists": [
         {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        },
+        {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Papa Wemba",
+          "url": "https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ"
         }
       ],
-      "duration_ms": 348813,
-      "name": "Once in a Lifetime",
-      "url": "https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH"
+      "duration_ms": 278040,
+      "name": "Ami Oh! (feat. Ang\u00e9lique Kidjo & Papa Wemba)",
+      "url": "https://open.spotify.com/track/3cTOcVSED8x5psHFY5xGcg"
     },
     {
       "added_at": null,
@@ -731,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fifa",
+        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 255333,
+      "name": "Wombo Lombo",
+      "url": "https://open.spotify.com/track/1Sv9rQgh9qrbeJVHKGTfCM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Djin Djin",
         "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
       },
@@ -755,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fifa",
-        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 255333,
-      "name": "Wombo Lombo",
-      "url": "https://open.spotify.com/track/1Sv9rQgh9qrbeJVHKGTfCM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Logozo",
         "url": "https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 276840,
       "name": "Batonga",
       "url": "https://open.spotify.com/track/2U4kiDoSsCKBXHIWTZ8ugu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aida",
+        "url": "https://open.spotify.com/album/0SzuhEBT55ECyG1Pur6xIp"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 312093,
+      "name": "Easy As Life",
+      "url": "https://open.spotify.com/track/3XZfPLynSWvy4RopQIuTkM"
     },
     {
       "added_at": null,
@@ -811,6 +811,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Evil Genius",
+        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 189283,
+      "name": "\u00d2r\u00f2k\u00f3r\u00f2",
+      "url": "https://open.spotify.com/track/5WwkpRC1O6TVsIzYhJtIec"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Ivory Soul",
         "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 212666,
       "name": "Bahia",
       "url": "https://open.spotify.com/track/0FBELKNPRyQZ5XDG2V5vgI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aida",
-        "url": "https://open.spotify.com/album/0SzuhEBT55ECyG1Pur6xIp"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 312093,
-      "name": "Easy As Life",
-      "url": "https://open.spotify.com/track/3XZfPLynSWvy4RopQIuTkM"
     },
     {
       "added_at": null,
@@ -887,26 +887,6 @@
       "duration_ms": 220343,
       "name": "Cetam",
       "url": "https://open.spotify.com/track/2MLB1Yr7ZCXP54kjWSwVNX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Evil Genius",
-        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 189283,
-      "name": "\u00d2r\u00f2k\u00f3r\u00f2",
-      "url": "https://open.spotify.com/track/5WwkpRC1O6TVsIzYhJtIec"
     },
     {
       "added_at": null,
@@ -983,6 +963,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fifa",
+        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 237666,
+      "name": "Fifa",
+      "url": "https://open.spotify.com/track/35NQTarBzSMdsGKkGqUOy4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oyaya !",
         "url": "https://open.spotify.com/album/5RnEFNyd3XdDRWTJE2qiW8"
       },
@@ -999,22 +995,6 @@
       "duration_ms": 162093,
       "name": "Le monde comme un b\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/33xaQMAJxMJx61qIZA3zm4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fifa",
-        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 237666,
-      "name": "Fifa",
-      "url": "https://open.spotify.com/track/35NQTarBzSMdsGKkGqUOy4"
     },
     {
       "added_at": null,
@@ -1103,6 +1083,30 @@
       "duration_ms": 205773,
       "name": "Wanyinyin",
       "url": "https://open.spotify.com/track/2W4wIPZrpl4gjhz4KgjOc0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Zeynab",
+          "url": "https://open.spotify.com/artist/2ScoYKTSZKfxruoIl8wgG8"
+        },
+        {
+          "name": "Lionel Loueke",
+          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
+        }
+      ],
+      "duration_ms": 123653,
+      "name": "Omon Oba",
+      "url": "https://open.spotify.com/track/2E85UM4qvRKVuYDwEfFif3"
     }
   ],
   "unique_name": "This Is Angelique Kidjo",

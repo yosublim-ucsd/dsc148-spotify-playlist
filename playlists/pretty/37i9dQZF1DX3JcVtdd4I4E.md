@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 
 > Welcome to the Nordic queendom of pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,443 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,454 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,11 +70,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 60 | [Bloody Mind](https://open.spotify.com/track/2nJFBUSQgTeLekXCkBzmDn) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Bloody Mind](https://open.spotify.com/album/3Oo7uuwStA88miudT3MInp) | 4:19 |
 | 61 | [Sweet Night](https://open.spotify.com/track/7tyrBwLtspTksCyt8SDaXe) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Sweet Night](https://open.spotify.com/album/6QLBGQ4KS63WbtUbeNive8) | 3:58 |
 | 62 | [Stick Your Tongue Out](https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Club Romantech](https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz) | 2:47 |
-| 63 | [Rear View](https://open.spotify.com/track/03BphqIUSACDtLxYwTx88P) | [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [Rear View](https://open.spotify.com/album/5PFq6xr6uyeNqwOoimJm02) | 3:14 |
-| 64 | [Wishing well](https://open.spotify.com/track/2uEGXnrVqAlBgvLLYLZiZi) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Foam](https://open.spotify.com/album/3X3aYCX8E2cKg9JhhCzH4m) | 2:24 |
-| 65 | [I Do](https://open.spotify.com/track/6nuMBxZE3hpqJWejq96n4p) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [I Do](https://open.spotify.com/album/3TZWso2mrFcd6TiNnVT1Y1) | 4:07 |
+| 63 | [Backa](https://open.spotify.com/track/7xreYVzBMqvwSwuRENp2ba) | [Zoe Lobos](https://open.spotify.com/artist/75EGjJY7wrAOSa4aJ8dReA) | [Backa](https://open.spotify.com/album/7GknWHYTyKssnetGlRgyvb) | 2:38 |
+| 64 | [Rear View](https://open.spotify.com/track/03BphqIUSACDtLxYwTx88P) | [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [Rear View](https://open.spotify.com/album/5PFq6xr6uyeNqwOoimJm02) | 3:14 |
+| 65 | [Wishing well](https://open.spotify.com/track/2uEGXnrVqAlBgvLLYLZiZi) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Foam](https://open.spotify.com/album/3X3aYCX8E2cKg9JhhCzH4m) | 2:24 |
 | 66 | [Coming Home](https://open.spotify.com/track/3jRPGXCJVVCFZTDIGOk2WH) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [Coming Home](https://open.spotify.com/album/57YwnLtf7BosgnrpqycowZ) | 3:28 |
-| 67 | [Backa](https://open.spotify.com/track/7xreYVzBMqvwSwuRENp2ba) | [Zoe Lobos](https://open.spotify.com/artist/75EGjJY7wrAOSa4aJ8dReA) | [Backa](https://open.spotify.com/album/7GknWHYTyKssnetGlRgyvb) | 2:38 |
+| 67 | [I Do](https://open.spotify.com/track/6nuMBxZE3hpqJWejq96n4p) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [I Do](https://open.spotify.com/album/3TZWso2mrFcd6TiNnVT1Y1) | 4:07 |
 | 68 | [The Ick](https://open.spotify.com/track/4axK3wmqAS5kFlbFfxr4id) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [The Ick](https://open.spotify.com/album/4Y2bMtjeJhl8ERBECy7MCN) | 2:38 |
 | 69 | [Attack of the Ghost Riders](https://open.spotify.com/track/51MPm38qe6Mgp816W18ayV) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [The Raveonettes](https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8) | [Attack of the Ghost Riders](https://open.spotify.com/album/5AGkIQ0OiuvG0mhqAWgqsY) | 2:44 |
 | 70 | [Fall In Love](https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Fall In Love](https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET) | 2:23 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 73 | [Let's Get It](https://open.spotify.com/track/33WKRSrbY7Ku0HmlYiCQ6K) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Let's Get It](https://open.spotify.com/album/4Zt6JAobDaBHR2hxGauHpp) | 1:52 |
 | 74 | [I want it bad](https://open.spotify.com/track/0vd63b6Tyq3iQeORinVPzj) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [I want it bad](https://open.spotify.com/album/3r0rOGXSz7RSZ5dhMpxNo1) | 2:32 |
 | 75 | [Again and Again](https://open.spotify.com/track/0AzidKkUPGyBypvcwuKp0x) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Again and Again](https://open.spotify.com/album/47JRk1CbVTPi04WNz7uU9Z) | 2:54 |
-| 76 | [Down, down, down](https://open.spotify.com/track/2o7Yym63nfCcOaFv592Ujp) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Down, down, down](https://open.spotify.com/album/6qSvXRmoheeoc9Cfw2qUGr) | 3:30 |
-| 77 | [Psycho](https://open.spotify.com/track/7kw7fwv5oOs1jKnx8FfwMU) | [Namelle](https://open.spotify.com/artist/3ptQC4nwq1SuOFiSOSBLj3) | [Psycho](https://open.spotify.com/album/17TD5aiZAItTy2ToJofnDp) | 2:42 |
+| 76 | [Psycho](https://open.spotify.com/track/7kw7fwv5oOs1jKnx8FfwMU) | [Namelle](https://open.spotify.com/artist/3ptQC4nwq1SuOFiSOSBLj3) | [Psycho](https://open.spotify.com/album/17TD5aiZAItTy2ToJofnDp) | 2:42 |
+| 77 | [Down, down, down](https://open.spotify.com/track/2o7Yym63nfCcOaFv592Ujp) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Down, down, down](https://open.spotify.com/album/6qSvXRmoheeoc9Cfw2qUGr) | 3:30 |
 | 78 | [WEIGHTLESS](https://open.spotify.com/track/6U4BhYoFspk242X3dicNcj) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [WEIGHTLESS](https://open.spotify.com/album/1MnKLg1XKMlUyApNXUNds9) | 2:53 |
 | 79 | [maserati](https://open.spotify.com/track/6Aiq7jGRrIEJ5UlrFsk4sB) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [maserati](https://open.spotify.com/album/0J45WL6UeysdDlHpHjuQp5) | 1:32 |
 | 80 | [Ego](https://open.spotify.com/track/3yRHgip6pI2MQRUgGnBxVj) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Ego](https://open.spotify.com/album/03FC9kUAxdKNXIdDJBNiaf) | 2:52 |

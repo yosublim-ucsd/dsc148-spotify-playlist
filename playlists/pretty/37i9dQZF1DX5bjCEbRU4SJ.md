@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,411 likes - 70 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,435 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 5 | [A Case of You](https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 4:23 |
 | 6 | [Whole Wide World](https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Pink Strat](https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r) | 2:35 |
 | 7 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 |
-| 8 | [River Man](https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:18 |
-| 9 | [Silver Lining](https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [Under The Blacklight \(Standard Version\)](https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8) | 3:36 |
+| 8 | [Silver Lining](https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [Under The Blacklight \(Standard Version\)](https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8) | 3:36 |
+| 9 | [River Man](https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:18 |
 | 10 | [California](https://open.spotify.com/track/5eM6Rrk8rwLpUhrh7Kk5R1) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 3:50 |
 | 11 | [The Ocean](https://open.spotify.com/track/1Xm7HoeUAd75qGEyDvLBtQ) | [Richard Hawley](https://open.spotify.com/artist/1ZsnHGOLYFg8CAHQQBc1ut) | [Coles Corner](https://open.spotify.com/album/3Gm6V4tzZaYFbnhrvubylJ) | 5:36 |
 | 12 | [Suzanne](https://open.spotify.com/track/50LqU2nhdE3fmWOuqOjpjz) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [The Best Of Leonard Cohen](https://open.spotify.com/album/06TH14tYg5Xy6bauQtgxnt) | 3:47 |

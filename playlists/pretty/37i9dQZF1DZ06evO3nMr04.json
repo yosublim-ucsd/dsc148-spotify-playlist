@@ -1,13 +1,29 @@
 {
-  "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1301280,
+  "description": "This Is Kanye West. Los temas esenciales, todos en una lista.",
+  "num_followers": 1301607,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAADIOSjmnGLB7htIzv9vn/F2",
+  "snapshot_id": "ZphbAAAAAAA89YGWDFzOWMx/FZBWqfB6",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "808s & Heartbreak",
+        "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
+    },
     {
       "added_at": null,
       "album": {
@@ -39,22 +55,6 @@
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "808s & Heartbreak",
-        "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
     },
     {
       "added_at": null,
@@ -791,6 +791,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Apologies",
+        "url": "https://open.spotify.com/album/3I8hgQCTMySiCXmDP65xhL"
+      },
+      "artists": [
+        {
+          "name": "Consequence",
+          "url": "https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 157936,
+      "name": "No Apologies",
+      "url": "https://open.spotify.com/track/1nHzbEDVrohk7fbVsEyfkF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The College Dropout",
         "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
       },
@@ -803,22 +823,6 @@
       "duration_ms": 193733,
       "name": "Jesus Walks",
       "url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Famous",
-      "url": "https://open.spotify.com/track/19a3JfW8BQwqHWUMbcqSx8"
     },
     {
       "added_at": null,
@@ -867,22 +871,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Apologies",
-        "url": "https://open.spotify.com/album/3I8hgQCTMySiCXmDP65xhL"
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
       },
       "artists": [
-        {
-          "name": "Consequence",
-          "url": "https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm"
-        },
         {
           "name": "Kanye West",
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 157936,
-      "name": "No Apologies",
-      "url": "https://open.spotify.com/track/1nHzbEDVrohk7fbVsEyfkF"
+      "duration_ms": 196040,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/19a3JfW8BQwqHWUMbcqSx8"
     },
     {
       "added_at": null,
@@ -955,6 +955,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 374413,
+      "name": "No More Parties In LA",
+      "url": "https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Love It",
         "url": "https://open.spotify.com/album/185Tm1g5U7eMOrm3m9SQUh"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 127946,
       "name": "I Love It (& Lil Pump)",
       "url": "https://open.spotify.com/track/4S8d14HvHb70ImctNgVzQQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yeezus",
-        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 156480,
-      "name": "On Sight",
-      "url": "https://open.spotify.com/track/1gqkRc9WtOpnGIqxf2Hvzr"
     },
     {
       "added_at": null,

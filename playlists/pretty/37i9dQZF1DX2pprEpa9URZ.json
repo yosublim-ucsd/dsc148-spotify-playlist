@@ -1,6 +1,6 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 776063,
+  "num_followers": 776186,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,22 @@
     {
       "added_at": "2024-07-05 13:35:00",
       "album": {
+        "name": "Ra Ma Da Sa Sa Say So Hung",
+        "url": "https://open.spotify.com/album/3wqKocxQkTgARJ4ORNdElH"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Jesser",
+          "url": "https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG"
+        }
+      ],
+      "duration_ms": 229565,
+      "name": "Ra Ma Da Sa Sa Say So Hung",
+      "url": "https://open.spotify.com/track/7glkw5pG5K8xS0xgaCVVPf"
+    },
+    {
+      "added_at": "2024-07-05 13:35:00",
+      "album": {
         "name": "Cemal\u0131m",
         "url": "https://open.spotify.com/album/7aCBkw9nDEr3gadb0yjzjc"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 227419,
       "name": "Cemal\u0131m",
       "url": "https://open.spotify.com/track/7FN0P5LONPlHjTksSOI5K5"
-    },
-    {
-      "added_at": "2024-07-05 13:35:00",
-      "album": {
-        "name": "Ra Ma Da Sa Sa Say So Hung",
-        "url": "https://open.spotify.com/album/3wqKocxQkTgARJ4ORNdElH"
-      },
-      "artists": [
-        {
-          "name": "Lincoln Jesser",
-          "url": "https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG"
-        }
-      ],
-      "duration_ms": 229565,
-      "name": "Ra Ma Da Sa Sa Say So Hung",
-      "url": "https://open.spotify.com/track/7glkw5pG5K8xS0xgaCVVPf"
     },
     {
       "added_at": "2024-07-05 13:35:00",
@@ -183,6 +183,22 @@
     {
       "added_at": "2024-07-05 13:35:00",
       "album": {
+        "name": "Before the Storm",
+        "url": "https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j"
+      },
+      "artists": [
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 445210,
+      "name": "Before the Storm",
+      "url": "https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR"
+    },
+    {
+      "added_at": "2024-07-05 13:35:00",
+      "album": {
         "name": "REKERE",
         "url": "https://open.spotify.com/album/6cbDUb20GP7IRA0JkOuYpD"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 465502,
       "name": "Kwenzenjani",
       "url": "https://open.spotify.com/track/2EqGCX02606uk3f7HfzOGu"
-    },
-    {
-      "added_at": "2024-07-05 13:35:00",
-      "album": {
-        "name": "Before the Storm",
-        "url": "https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j"
-      },
-      "artists": [
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        }
-      ],
-      "duration_ms": 445210,
-      "name": "Before the Storm",
-      "url": "https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR"
     },
     {
       "added_at": "2024-07-05 13:35:00",
@@ -547,6 +547,26 @@
     {
       "added_at": "2024-07-05 13:35:00",
       "album": {
+        "name": "Neko Ep",
+        "url": "https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip"
+      },
+      "artists": [
+        {
+          "name": "Jacob Groening",
+          "url": "https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f"
+        },
+        {
+          "name": "Kotoe",
+          "url": "https://open.spotify.com/artist/3OVGFg6lIiK3oVXMEN62fM"
+        }
+      ],
+      "duration_ms": 273523,
+      "name": "Neko (feat Kotoe)",
+      "url": "https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl"
+    },
+    {
+      "added_at": "2024-07-05 13:35:00",
+      "album": {
         "name": "Sagas of Iziki | Chapter 2",
         "url": "https://open.spotify.com/album/32Ojr7lP5QCCSKp3uXdKES"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 544250,
       "name": "Osuga",
       "url": "https://open.spotify.com/track/2IiYV4muGj5HVGPRASTRpJ"
-    },
-    {
-      "added_at": "2024-07-05 13:35:00",
-      "album": {
-        "name": "Neko Ep",
-        "url": "https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip"
-      },
-      "artists": [
-        {
-          "name": "Jacob Groening",
-          "url": "https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f"
-        },
-        {
-          "name": "Kotoe",
-          "url": "https://open.spotify.com/artist/3OVGFg6lIiK3oVXMEN62fM"
-        }
-      ],
-      "duration_ms": 273523,
-      "name": "Neko (feat Kotoe)",
-      "url": "https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl"
     },
     {
       "added_at": "2024-07-05 13:35:00",
@@ -623,22 +623,18 @@
     {
       "added_at": "2024-07-05 13:35:00",
       "album": {
-        "name": "Karanfilce Devojce (PACHIRA Remix)",
-        "url": "https://open.spotify.com/album/2Jr3whqNucBLcaJl096Ut5"
+        "name": "Fata Morgana",
+        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
       },
       "artists": [
         {
-          "name": "Laboratorium Pie\u015bni",
-          "url": "https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l"
-        },
-        {
-          "name": "PACHIRA",
-          "url": "https://open.spotify.com/artist/7xYPxh4TBh0bkCQwg1YoT0"
+          "name": "Lassjo",
+          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
         }
       ],
-      "duration_ms": 342853,
-      "name": "Karanfilce Devojce - PACHIRA Remix",
-      "url": "https://open.spotify.com/track/7f6bzmieDjJiGr6x0Vl2ps"
+      "duration_ms": 309680,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
     },
     {
       "added_at": "2024-07-05 13:35:00",
@@ -659,18 +655,22 @@
     {
       "added_at": "2024-07-05 13:35:00",
       "album": {
-        "name": "Fata Morgana",
-        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
+        "name": "Karanfilce Devojce (PACHIRA Remix)",
+        "url": "https://open.spotify.com/album/2Jr3whqNucBLcaJl096Ut5"
       },
       "artists": [
         {
-          "name": "Lassjo",
-          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+          "name": "Laboratorium Pie\u015bni",
+          "url": "https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l"
+        },
+        {
+          "name": "PACHIRA",
+          "url": "https://open.spotify.com/artist/7xYPxh4TBh0bkCQwg1YoT0"
         }
       ],
-      "duration_ms": 309680,
-      "name": "Fata Morgana",
-      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
+      "duration_ms": 342853,
+      "name": "Karanfilce Devojce - PACHIRA Remix",
+      "url": "https://open.spotify.com/track/7f6bzmieDjJiGr6x0Vl2ps"
     },
     {
       "added_at": "2024-07-05 13:35:00",
@@ -891,6 +891,26 @@
     {
       "added_at": "2024-07-05 13:35:00",
       "album": {
+        "name": "No Be Today",
+        "url": "https://open.spotify.com/album/3hlPGhWkvHdDXoaZFKIbgV"
+      },
+      "artists": [
+        {
+          "name": "Bosq",
+          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
+        },
+        {
+          "name": "Kaleta",
+          "url": "https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m"
+        }
+      ],
+      "duration_ms": 239666,
+      "name": "Os\u00e8",
+      "url": "https://open.spotify.com/track/43CH8hUhxHIva2bnJS2O6c"
+    },
+    {
+      "added_at": "2024-07-05 13:35:00",
+      "album": {
         "name": "Ciclos",
         "url": "https://open.spotify.com/album/5LlS93cEkVy5VermCbVEp4"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 403831,
       "name": "Flowers in Mind",
       "url": "https://open.spotify.com/track/5h88XmzAYzb6Quy9C9VRsz"
-    },
-    {
-      "added_at": "2024-07-05 13:35:00",
-      "album": {
-        "name": "No Be Today",
-        "url": "https://open.spotify.com/album/3hlPGhWkvHdDXoaZFKIbgV"
-      },
-      "artists": [
-        {
-          "name": "Bosq",
-          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
-        },
-        {
-          "name": "Kaleta",
-          "url": "https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m"
-        }
-      ],
-      "duration_ms": 239666,
-      "name": "Os\u00e8",
-      "url": "https://open.spotify.com/track/43CH8hUhxHIva2bnJS2O6c"
     },
     {
       "added_at": "2024-07-05 13:35:00",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2024-07-05 13:35:00",
       "album": {
-        "name": "Na Lagoa (Remixes)",
-        "url": "https://open.spotify.com/album/3yumAJDkK8phPkQYGXJFDm"
-      },
-      "artists": [
-        {
-          "name": "Xique-Xique",
-          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
-        },
-        {
-          "name": "Dengue Dengue Dengue",
-          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
-        }
-      ],
-      "duration_ms": 264317,
-      "name": "Senhor Carangeju - Dengue Dengue Dengue Remix",
-      "url": "https://open.spotify.com/track/76WbdLgFwXC1ZwMzWDTNxt"
-    },
-    {
-      "added_at": "2024-07-05 13:35:00",
-      "album": {
         "name": "Alkebulan Remix",
         "url": "https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs"
       },
@@ -1319,6 +1299,26 @@
     {
       "added_at": "2024-07-05 13:35:00",
       "album": {
+        "name": "Na Lagoa (Remixes)",
+        "url": "https://open.spotify.com/album/3yumAJDkK8phPkQYGXJFDm"
+      },
+      "artists": [
+        {
+          "name": "Xique-Xique",
+          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
+        },
+        {
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+        }
+      ],
+      "duration_ms": 264317,
+      "name": "Senhor Carangeju - Dengue Dengue Dengue Remix",
+      "url": "https://open.spotify.com/track/76WbdLgFwXC1ZwMzWDTNxt"
+    },
+    {
+      "added_at": "2024-07-05 13:35:00",
+      "album": {
         "name": "Time & Space",
         "url": "https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy"
       },
@@ -1335,6 +1335,34 @@
       "duration_ms": 381176,
       "name": "Time",
       "url": "https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV"
+    },
+    {
+      "added_at": "2024-07-05 13:35:00",
+      "album": {
+        "name": "Golconda (Halaken Soundsystem Remix)",
+        "url": "https://open.spotify.com/album/0s0o9GODVtQFsDaRWFxbcR"
+      },
+      "artists": [
+        {
+          "name": "Kora (CA)",
+          "url": "https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9"
+        },
+        {
+          "name": "Mercan Dede",
+          "url": "https://open.spotify.com/artist/1rwDpyhfCIGcutXf9kmLkY"
+        },
+        {
+          "name": "Dexter Crowe",
+          "url": "https://open.spotify.com/artist/2MdTMSsrjQTTvP1Jc5g0Zk"
+        },
+        {
+          "name": "Halaken Soundsystem",
+          "url": "https://open.spotify.com/artist/2Dm8oHTTA7rtkt2xocctzH"
+        }
+      ],
+      "duration_ms": 493859,
+      "name": "Golconda - Halaken Soundsystem Remix",
+      "url": "https://open.spotify.com/track/7wvBPvfyzFqOUi5lfNkTvi"
     },
     {
       "added_at": "2024-07-05 13:35:00",
@@ -1387,34 +1415,6 @@
       "duration_ms": 382066,
       "name": "Earth",
       "url": "https://open.spotify.com/track/18Vds2ehiWC09W390vcptq"
-    },
-    {
-      "added_at": "2024-07-05 13:35:00",
-      "album": {
-        "name": "Golconda (Halaken Soundsystem Remix)",
-        "url": "https://open.spotify.com/album/0s0o9GODVtQFsDaRWFxbcR"
-      },
-      "artists": [
-        {
-          "name": "Kora (CA)",
-          "url": "https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9"
-        },
-        {
-          "name": "Mercan Dede",
-          "url": "https://open.spotify.com/artist/1rwDpyhfCIGcutXf9kmLkY"
-        },
-        {
-          "name": "Dexter Crowe",
-          "url": "https://open.spotify.com/artist/2MdTMSsrjQTTvP1Jc5g0Zk"
-        },
-        {
-          "name": "Halaken Soundsystem",
-          "url": "https://open.spotify.com/artist/2Dm8oHTTA7rtkt2xocctzH"
-        }
-      ],
-      "duration_ms": 493859,
-      "name": "Golconda - Halaken Soundsystem Remix",
-      "url": "https://open.spotify.com/track/7wvBPvfyzFqOUi5lfNkTvi"
     }
   ],
   "unique_name": "Org\u00e1nica",

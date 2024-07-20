@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Childish Gambino
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,327,181 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,327,223 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 7 | [SIN MIEDO](https://open.spotify.com/track/4qAQTQH5lF4kINZ9JkURXp) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [SIN MIEDO](https://open.spotify.com/album/4NBSLYMhwbf5gUSc0ZHKQK) | 2:47 |
 | 8 | [Better ft\. Cuco](https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Better ft\. Cuco](https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx) | 2:57 |
 | 9 | [Then Close Your Eyes](https://open.spotify.com/track/5itTAsIxbBrRdr7ljA3KEC) | [A/S/L](https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh) | [Signs of Romance](https://open.spotify.com/album/2SKQxaocHjM6dXerK1wJYn) | 3:22 |
-| 10 | [GEMINI \(feat\. Jackie Giroux\)](https://open.spotify.com/track/5j99dfS5X643RxuJdyizt3) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Jackie Giroux](https://open.spotify.com/artist/5QX6gWlu1rdoTKPZ9FiwYh) | [1\-800 FANTASY](https://open.spotify.com/album/4Hc9kwSIRb2jgE441FOueK) | 2:37 |
+| 10 | [GEMINI](https://open.spotify.com/track/5j99dfS5X643RxuJdyizt3) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Jackie Giroux](https://open.spotify.com/artist/5QX6gWlu1rdoTKPZ9FiwYh) | [1\-800 FANTASY](https://open.spotify.com/album/4Hc9kwSIRb2jgE441FOueK) | 2:37 |
 | 11 | [Gold Coast](https://open.spotify.com/track/7oFuhAAM6OK0pdHkD4NsXB) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Gold Coast](https://open.spotify.com/album/352183p8jEPAkKCt4UPa1x) | 3:40 |
 | 12 | [I Just Can't Be Alone \(with Billy Lemos\)](https://open.spotify.com/track/6famAoizbKfoETPU9Jobz0) | [Lexa Gates](https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [I Just Can't Be Alone \(with Billy Lemos\)](https://open.spotify.com/album/5jbJnR4vpr3dwSSByGyPq6) | 2:40 |
 | 13 | [Godard The Director](https://open.spotify.com/track/7DINGLhXq3j4g6SoK7wgZr) | [sandy crow](https://open.spotify.com/artist/7Fp843hrgOioL7DBA4PBlC) | [Godard The Director](https://open.spotify.com/album/60emmlz3sibbVamREfBVnB) | 2:00 |

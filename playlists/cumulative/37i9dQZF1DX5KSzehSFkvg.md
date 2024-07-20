@@ -4,7 +4,7 @@
 
 > Les meilleurs hits Pop c'est ici\. Cover: Hind Ziadi
 
-134 songs - 7 hr 18 min
+135 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [FEL HAWA SAWA](https://open.spotify.com/track/6dWnQFvP0rj5VgTdKEHtBE) | [Larbi Imghrane](https://open.spotify.com/artist/1YVSmUGMeeVFoA54ZX1vvg), [Zakaria Ghafouli](https://open.spotify.com/artist/5m3exVDqKodrTlc3jECMTD) | [FEL HAWA SAWA](https://open.spotify.com/album/07uJOfbHCHwkQ3x3hlW1Es) | 3:12 | 2023-11-30 |  |
 | [Follow](https://open.spotify.com/track/09VlHQlBTWASlJMibldUFl) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6), [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [Follow](https://open.spotify.com/album/1tfaS0PrCsIVRMx0bhL5iP) | 3:25 | 2023-07-07 |  |
 | [Galo Lik Elia](https://open.spotify.com/track/6BU7Xu7gYJl5fwctmS1RTb) | [Chaimae Abdelaziz](https://open.spotify.com/artist/2dAN3UYOUQU41wR5IObThO) | [Galo Lik Elia](https://open.spotify.com/album/5f5SrvgQMYpfzhcpn8ZYJ6) | 3:34 | 2023-07-07 | 2023-07-14 |
-| [Gana \(feat\. Hatim Ammor\)](https://open.spotify.com/track/25iWrs0J2F9hqUJV8tnNxP) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 2:12 | 2023-07-07 |  |
+| [Gana \(feat\. Hatim Ammor\)](https://open.spotify.com/track/25iWrs0J2F9hqUJV8tnNxP) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 2:12 | 2023-07-07 | 2024-07-20 |
 | [Ghanili](https://open.spotify.com/track/0sobdrww1wYUfqhrCAzwz0) | [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Ghanili](https://open.spotify.com/album/5l7tQsPjmtqu7IkyDREAjI) | 2:57 | 2023-12-08 |  |
 | [Ghazali \(feat\. Bryan Mg\)](https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Ghazali \(feat\. Bryan Mg\)](https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo) | 3:04 | 2023-07-07 | 2023-08-19 |
 | [Ghir Ntiya](https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Ghir Ntiya](https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm) | 3:34 | 2023-07-07 | 2023-08-09 |
@@ -90,6 +90,7 @@
 | [Ma Houwa Jari](https://open.spotify.com/track/5Veho0QUWxN6rKnTK4DuxQ) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Ma Houwa Jari](https://open.spotify.com/album/6hY9L40UJ5E7hfY4f0nUlA) | 2:14 | 2023-07-07 | 2023-08-03 |
 | [Ma Tebki Ya Ain](https://open.spotify.com/track/6Fv6mqIai6eGsGAvJ4M2s6) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK), [Myne](https://open.spotify.com/artist/4cqqwyFXQGG2bWTwfVchMv) | [Ma Tebki Ya Ain](https://open.spotify.com/album/2v0YFXim7Ucs85m5lokaHE) | 3:32 | 2024-04-08 |  |
 | [MAAK](https://open.spotify.com/track/4g1AKn1RwrNmCUTzl6pSI3) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [MAAK](https://open.spotify.com/album/6WvD9R9JdMBN9elz1qcg9Y) | 3:24 | 2023-07-07 | 2023-08-15 |
+| [Maalabalich](https://open.spotify.com/track/6O7AbZ5y4dJY2BUspC9jRe) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Maalabalich](https://open.spotify.com/album/6yXcj13AGTgEeDzfJp6BRh) | 3:10 | 2024-07-19 |  |
 | [Magdar](https://open.spotify.com/track/4vT286Zu3aHYW96N76joB7) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Magdar](https://open.spotify.com/album/2BgCJlo2EDx4w5uxTP3hJC) | 3:12 | 2024-05-18 |  |
 | [Makhelaw magalou](https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [Makhelaw magalou](https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO) | 3:00 | 2023-07-07 | 2023-11-08 |
 | [Mal Zin Ka3i](https://open.spotify.com/track/1BlVs0gLBfUFfUcyKl5vYk) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Mal Zin Ka3i](https://open.spotify.com/album/7obbmiS8zGRgc5fAjfZqTG) | 3:30 | 2024-02-24 |  |

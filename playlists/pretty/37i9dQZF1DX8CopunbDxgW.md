@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: Fcukers
 
-[Spotify](https://open.spotify.com/user/spotify) - 860,954 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 860,969 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Foudeqush en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,610 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,605 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 39 | [disfraz](https://open.spotify.com/track/4eRLH2c7eyJmOylo7Nw47T) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Valdo Rodriguez](https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4), [Irvin Mach](https://open.spotify.com/artist/7MXgCL89Td8yUmscNmymst), [El Toed](https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh) | [disfraz](https://open.spotify.com/album/1aYecFP3ZxpUWWoBpBfRfY) | 2:58 |
 | 40 | [las cosas no son lo que parecen](https://open.spotify.com/track/0vZnu6jdjTA4QKhmJm3IQT) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [las cosas no son lo que parecen](https://open.spotify.com/album/6Zs6kAVDytdZAj7J3aaHRD) | 2:54 |
 | 41 | [PILLS](https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [PILLS](https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf) | 3:07 |
-| 42 | [NASCAR](https://open.spotify.com/track/6ljG3LLjRJDWbkQHrtuIWx) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Aquí Estoy](https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o) | 2:13 |
-| 43 | [maracuyá](https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [maracuyá](https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07) | 2:18 |
+| 42 | [maracuyá](https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [maracuyá](https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07) | 2:18 |
+| 43 | [NASCAR](https://open.spotify.com/track/6ljG3LLjRJDWbkQHrtuIWx) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Aquí Estoy](https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o) | 2:13 |
 | 44 | [Te Perdono](https://open.spotify.com/track/7rQWY0VbmgKDVeQ1cqVlwp) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Te Perdono](https://open.spotify.com/album/1dxvzNdRqY9OMFCyh5bWIE) | 3:16 |
 | 45 | [Desastre Emocional](https://open.spotify.com/track/7ra9A7fAuuEjTyadsObgHI) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Desastre Emocional](https://open.spotify.com/album/1bnsJ7ZuB6TaWW364pwtag) | 2:58 |
 | 46 | [DIME X FAVOR](https://open.spotify.com/track/1D1QmWAL0havpDhu00y6Qr) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3), [Angie](https://open.spotify.com/artist/615oAk69RrUfmOboNfMRIm) | [DIME X FAVOR](https://open.spotify.com/album/2kbXiRgoHS4gf0xlkaqFXb) | 2:59 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 70 | [contigo me siento en casa](https://open.spotify.com/track/3Nujq5ZOCPUDagujhUMIrv) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [contigo me siento en casa](https://open.spotify.com/album/0UcsGDfM2xlhqiaqwgx6tq) | 2:51 |
 | 71 | [Ya No Es Lo Mismo](https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ya No Es Lo Mismo](https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG) | 3:49 |
 | 72 | [Tengo Que Hacer Esto Por Mi](https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Tengo Que Hacer Esto Por Mí](https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg) | 2:30 |
-| 73 | [California](https://open.spotify.com/track/2sOfChSTFiuicBli18TJkc) | [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf), [Alan Navarro](https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH) | [California](https://open.spotify.com/album/7e0leqj1Y2QcqqyUtKHdld) | 2:36 |
-| 74 | [Cumpleaños y Funerales](https://open.spotify.com/track/2sWxRtrkDFmDbQ5aYrxS6m) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Cumpleaños y Funerales](https://open.spotify.com/album/1SgggMzOYWuLdThadwVPPl) | 3:13 |
+| 73 | [Cumpleaños y Funerales](https://open.spotify.com/track/2sWxRtrkDFmDbQ5aYrxS6m) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Cumpleaños y Funerales](https://open.spotify.com/album/1SgggMzOYWuLdThadwVPPl) | 3:13 |
+| 74 | [California](https://open.spotify.com/track/2sOfChSTFiuicBli18TJkc) | [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf), [Alan Navarro](https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH) | [California](https://open.spotify.com/album/7e0leqj1Y2QcqqyUtKHdld) | 2:36 |
 | 75 | [KR1MIN4L](https://open.spotify.com/track/5iYPvyYVCyfzyyBkQjEwre) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [KR1MIN4L](https://open.spotify.com/album/3oYNKbtMNbSSiVj7cuBXPT) | 2:17 |
 
 Snapshot ID: `ZpElagAAAAAxuJZcZzRGG5bBBFcmlobb`

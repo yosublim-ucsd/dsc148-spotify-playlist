@@ -1,6 +1,6 @@
 {
   "description": "trakas hdsptm \ud83d\udc7f\ud83d\udc79\ud83c\udf7b\ud83c\udf7e\ud83e\udee1\ud83d\udcb8",
-  "num_followers": 90142,
+  "num_followers": 90255,
   "original_name": "traka",
   "owner": {
     "name": "Spotify",
@@ -339,26 +339,6 @@
     {
       "added_at": "2024-07-03 18:24:00",
       "album": {
-        "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
-        "url": "https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 155888,
-      "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
-      "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
-    },
-    {
-      "added_at": "2024-07-03 18:24:00",
-      "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
+    },
+    {
+      "added_at": "2024-07-03 18:24:00",
+      "album": {
+        "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
+        "url": "https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 155888,
+      "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
+      "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
     },
     {
       "added_at": "2024-07-03 18:24:00",
@@ -451,26 +451,6 @@
     {
       "added_at": "2024-07-03 18:24:00",
       "album": {
-        "name": "Entre las de 20",
-        "url": "https://open.spotify.com/album/0teu3BYgtk8WuPBZWeDVN6"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 168511,
-      "name": "Entre las de 20",
-      "url": "https://open.spotify.com/track/61OsemtnuPJ5R0LMEkw60S"
-    },
-    {
-      "added_at": "2024-07-03 18:24:00",
-      "album": {
         "name": "LA PEOPLE II",
         "url": "https://open.spotify.com/album/6oAHTqAdObRQ1BkmIQjX8c"
       },
@@ -539,26 +519,6 @@
     {
       "added_at": "2024-07-03 18:24:00",
       "album": {
-        "name": "Dime",
-        "url": "https://open.spotify.com/album/0ZojoU0GhpLwBGVrTsEghq"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Maury",
-          "url": "https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg"
-        }
-      ],
-      "duration_ms": 173195,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/7IJph8SanpysMOFmXQCJth"
-    },
-    {
-      "added_at": "2024-07-03 18:24:00",
-      "album": {
         "name": "El Boss",
         "url": "https://open.spotify.com/album/6yeUuq8mHmEXuRe4KUiCKk"
       },
@@ -579,8 +539,28 @@
     {
       "added_at": "2024-07-03 18:24:00",
       "album": {
-        "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
-        "url": "https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo"
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/0ZojoU0GhpLwBGVrTsEghq"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Maury",
+          "url": "https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg"
+        }
+      ],
+      "duration_ms": 173195,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/7IJph8SanpysMOFmXQCJth"
+    },
+    {
+      "added_at": "2024-07-03 18:24:00",
+      "album": {
+        "name": "Entre las de 20",
+        "url": "https://open.spotify.com/album/0teu3BYgtk8WuPBZWeDVN6"
       },
       "artists": [
         {
@@ -588,13 +568,13 @@
           "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 187172,
-      "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
-      "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"
+      "duration_ms": 168511,
+      "name": "Entre las de 20",
+      "url": "https://open.spotify.com/track/61OsemtnuPJ5R0LMEkw60S"
     },
     {
       "added_at": "2024-07-03 18:24:00",
@@ -723,6 +703,26 @@
     {
       "added_at": "2024-07-03 18:24:00",
       "album": {
+        "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
+        "url": "https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 187172,
+      "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
+      "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"
+    },
+    {
+      "added_at": "2024-07-03 18:24:00",
+      "album": {
         "name": "De Fresa y Coco",
         "url": "https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM"
       },
@@ -743,30 +743,6 @@
       "duration_ms": 165447,
       "name": "De Fresa y Coco",
       "url": "https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL"
-    },
-    {
-      "added_at": "2024-07-03 18:24:00",
-      "album": {
-        "name": "Don Dimadon",
-        "url": "https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA"
-      },
-      "artists": [
-        {
-          "name": "Remp",
-          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 184987,
-      "name": "Don Dimadon",
-      "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
     },
     {
       "added_at": "2024-07-03 18:24:00",
@@ -795,6 +771,46 @@
       "duration_ms": 197114,
       "name": "Alucin",
       "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
+    },
+    {
+      "added_at": "2024-07-03 18:24:00",
+      "album": {
+        "name": "Don Dimadon",
+        "url": "https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA"
+      },
+      "artists": [
+        {
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 184987,
+      "name": "Don Dimadon",
+      "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
+    },
+    {
+      "added_at": "2024-07-03 18:24:00",
+      "album": {
+        "name": "R\u00e1pido Soy",
+        "url": "https://open.spotify.com/album/6DOUE9WKRCWTfWZlHlY8Qr"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "duration_ms": 114125,
+      "name": "R\u00e1pido Soy",
+      "url": "https://open.spotify.com/track/492zkdiUa0CECUDyiG3d35"
     },
     {
       "added_at": "2024-07-03 18:24:00",
@@ -879,22 +895,6 @@
     {
       "added_at": "2024-07-03 18:24:00",
       "album": {
-        "name": "R\u00e1pido Soy",
-        "url": "https://open.spotify.com/album/6DOUE9WKRCWTfWZlHlY8Qr"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        }
-      ],
-      "duration_ms": 114125,
-      "name": "R\u00e1pido Soy",
-      "url": "https://open.spotify.com/track/492zkdiUa0CECUDyiG3d35"
-    },
-    {
-      "added_at": "2024-07-03 18:24:00",
-      "album": {
         "name": "DEMBOW B\u00c9LICO",
         "url": "https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL"
       },
@@ -915,22 +915,6 @@
       "duration_ms": 126522,
       "name": "DEMBOW B\u00c9LICO",
       "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
-    },
-    {
-      "added_at": "2024-07-03 18:24:00",
-      "album": {
-        "name": "A Puro Dolor",
-        "url": "https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 168086,
-      "name": "A Puro Dolor",
-      "url": "https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu"
     },
     {
       "added_at": "2024-07-03 18:24:00",
@@ -959,6 +943,22 @@
     {
       "added_at": "2024-07-03 18:24:00",
       "album": {
+        "name": "A Puro Dolor",
+        "url": "https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 168086,
+      "name": "A Puro Dolor",
+      "url": "https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu"
+    },
+    {
+      "added_at": "2024-07-03 18:24:00",
+      "album": {
         "name": "La Suma",
         "url": "https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR"
       },
@@ -975,6 +975,26 @@
       "duration_ms": 198976,
       "name": "La Suma",
       "url": "https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW"
+    },
+    {
+      "added_at": "2024-07-03 18:24:00",
+      "album": {
+        "name": "Teka (with Peso Pluma)",
+        "url": "https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Teka (with Peso Pluma)",
+      "url": "https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk"
     },
     {
       "added_at": "2024-07-03 18:24:00",
@@ -1011,26 +1031,6 @@
       "duration_ms": 405000,
       "name": "Por Mi M\u00e9xico (Remix)",
       "url": "https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79"
-    },
-    {
-      "added_at": "2024-07-03 18:24:00",
-      "album": {
-        "name": "Teka (with Peso Pluma)",
-        "url": "https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "Teka (with Peso Pluma)",
-      "url": "https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk"
     },
     {
       "added_at": "2024-07-03 18:24:00",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2024-07-03 18:24:00",
       "album": {
-        "name": "2 Pa 2",
-        "url": "https://open.spotify.com/album/0LKAvwu5l8qjdnpOYJis1s"
-      },
-      "artists": [
-        {
-          "name": "GHT Official",
-          "url": "https://open.spotify.com/artist/5UoJHEmD9sWybPkddJTmq8"
-        },
-        {
-          "name": "Angel Cervantes",
-          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
-        }
-      ],
-      "duration_ms": 165354,
-      "name": "2 Pa 2",
-      "url": "https://open.spotify.com/track/6fpbFcJ92PmGPwPL3SgIDs"
-    },
-    {
-      "added_at": "2024-07-03 18:24:00",
-      "album": {
         "name": "Adrenalina",
         "url": "https://open.spotify.com/album/2BvDucJawFOjYW93odCdow"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 150974,
       "name": "Adrenalina",
       "url": "https://open.spotify.com/track/3YgWZ3CTC5ohdF9EdZjuMT"
+    },
+    {
+      "added_at": "2024-07-03 18:24:00",
+      "album": {
+        "name": "2 Pa 2",
+        "url": "https://open.spotify.com/album/0LKAvwu5l8qjdnpOYJis1s"
+      },
+      "artists": [
+        {
+          "name": "GHT Official",
+          "url": "https://open.spotify.com/artist/5UoJHEmD9sWybPkddJTmq8"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        }
+      ],
+      "duration_ms": 165354,
+      "name": "2 Pa 2",
+      "url": "https://open.spotify.com/track/6fpbFcJ92PmGPwPL3SgIDs"
     },
     {
       "added_at": "2024-07-03 18:24:00",

@@ -4,7 +4,7 @@
 
 > Just vibes\. Cover: Boza & ELENA ROSE
 
-473 songs - 1 day 0 hr 29 min
+474 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [CONTIGO LA PASO CABRON](https://open.spotify.com/track/387oM5dFcFw1I5aWThdRfN) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [CONTIGO LA PASO CABRON](https://open.spotify.com/album/5vVZyUJYOgoaedIlPcbVZu) | 2:35 | 2023-02-24 | 2023-12-16 |
 | [Control](https://open.spotify.com/track/34y3MtDxzDqPbxe9b4aGxp) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs) | [Control](https://open.spotify.com/album/30D7J8QbuoaSFue5nfZ0cG) | 3:53 | 2022-08-11 | 2022-09-07 |
 | [COPY+PASTE](https://open.spotify.com/track/4lNJPSKTlH5H2LQAX0pqH2) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [COPY+PASTE](https://open.spotify.com/album/2PHqlhJf3wMNXfUvCGMPWk) | 2:19 | 2023-12-15 | 2024-07-19 |
+| [Coronada](https://open.spotify.com/track/3EkjYdIcPy5pmRKncozJun) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Gabriel C](https://open.spotify.com/artist/5MXG4Q2qBDsT8AGcTX0nAj) | [ÑEROSTARS](https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU) | 3:18 | 2024-07-19 |  |
 | [COSA NOSTRA](https://open.spotify.com/track/4dyk4RsP8lpUkM4HTU0x9Q) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3) | [LUV ALLERGIC](https://open.spotify.com/album/2GWvMroIa2HWucEPvpLw9R) | 3:55 | 2024-05-17 |  |
 | [Cosas Que Enamoran](https://open.spotify.com/track/1a49mR9cbwbgpEIZ1Wh20y) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf), [CRBRO](https://open.spotify.com/artist/6guLWnvW76oTo4AdSIMBFe) | [Cosas Que Enamoran](https://open.spotify.com/album/3cHgF5EuVjGVQ1P5f35k9J) | 2:34 | 2024-05-17 | 2024-06-21 |
 | [COSAS QUE NO TE DIJE](https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [COSAS QUE NO TE DIJE](https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy) | 3:44 | 2024-01-12 |  |
@@ -438,7 +439,7 @@
 | [Too Much](https://open.spotify.com/track/4641GJZLmYVBT8mRXRKaid) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Too Much](https://open.spotify.com/album/4dZQkNMhgBKHOx9QOgqWWW) | 2:11 | 2022-03-21 | 2022-09-07 |
 | [Torero](https://open.spotify.com/track/2LXUg5dCkY9UCzoypbaaH3) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [Torero](https://open.spotify.com/album/766RXg8hOYak8eKMeZu5o7) | 3:00 | 2022-03-21 | 2022-09-07 |
 | [TQMQA](https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [TQMQA](https://open.spotify.com/album/2AUNqh31eFHMUCqM1aIl2r) | 2:49 | 2023-12-15 | 2024-07-19 |
-| [tranqui :\)](https://open.spotify.com/track/2GtWJcQzvEHzCCDCEZvBNU) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [tranqui :\)](https://open.spotify.com/album/5auK8EKG7WsH2ciKzIQ5tB) | 2:41 | 2024-03-22 |  |
+| [tranqui :\)](https://open.spotify.com/track/2GtWJcQzvEHzCCDCEZvBNU) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [tranqui :\)](https://open.spotify.com/album/5auK8EKG7WsH2ciKzIQ5tB) | 2:41 | 2024-03-22 | 2024-07-20 |
 | [TRATO](https://open.spotify.com/track/4W2p5xqBjV8xAlFNsbrJS5) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [TRATO](https://open.spotify.com/album/3oUnBsatAFgBW0uRYysmys) | 2:48 | 2023-04-09 | 2023-05-02 |
 | [Trebol](https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Trebol](https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD) | 3:46 | 2022-03-21 | 2022-09-07 |
 | [Tu](https://open.spotify.com/track/7yjKBCdDFM6mrwxsOK5iYM) | [IzyBeats](https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Tu](https://open.spotify.com/album/3OQ7OIIIWGjdHCBzZwDMbH) | 3:21 | 2023-06-02 | 2023-12-16 |

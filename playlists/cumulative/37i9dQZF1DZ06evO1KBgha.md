@@ -2,7 +2,7 @@
 
 ### [This Is Kenia OS](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KBgha)
 
-> This Is Kenia OS\. Los temas esenciales, todos en una lista.
+> This Is Kenia OS\. Sus mejores éxitos, todos en una playlist.
 
 65 songs - 3 hr 2 min
 

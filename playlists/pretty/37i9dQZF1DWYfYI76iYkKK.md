@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,363 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,383 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,17 +19,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 9 | [太聰明](https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [吉他手](https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR) | 4:23 |
 | 10 | [最美的遺憾](https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [Face II 真・裏](https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4) | 4:29 |
 | 11 | [在加納共和國離婚 \- Acoustic Version](https://open.spotify.com/track/6k1mngK84iZ1PA8HRlRBCW) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [在加納共和國離婚 \(Acoustic Version\)](https://open.spotify.com/album/17eQy9BdSIdKAh6KnWBEIH) | 3:56 |
-| 12 | [太陽雨](https://open.spotify.com/track/2A0vCSTeOryiLsbuWDwX7G) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra), [郁心](https://open.spotify.com/artist/09QyyZF4pquXH58c52YUtp) | [太陽雨](https://open.spotify.com/album/1o5ApqEbF0nSfiieqqE80u) | 3:36 |
+| 12 | [她是誰](https://open.spotify.com/track/1GOM2I6F2ulhxO4oabuvhh) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [她是誰](https://open.spotify.com/album/2RsjjlLJTXnv2NLv62Fybu) | 3:08 |
 | 13 | [让浪漫作主](https://open.spotify.com/track/4AJWlnFYUgSi153Sb52u3X) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [DEPART](https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R) | 4:10 |
-| 14 | [大人](https://open.spotify.com/track/6UXPAEteXJEyxcA0MAo8Zf) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [麋鹿](https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0) | 3:54 |
-| 15 | [她是誰](https://open.spotify.com/track/1GOM2I6F2ulhxO4oabuvhh) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [她是誰](https://open.spotify.com/album/2RsjjlLJTXnv2NLv62Fybu) | 3:08 |
-| 16 | [Say You’re Sorry](https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Say You’re Sorry](https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH) | 2:16 |
+| 14 | [太陽雨](https://open.spotify.com/track/2A0vCSTeOryiLsbuWDwX7G) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra), [郁心](https://open.spotify.com/artist/09QyyZF4pquXH58c52YUtp) | [太陽雨](https://open.spotify.com/album/1o5ApqEbF0nSfiieqqE80u) | 3:36 |
+| 15 | [Say You’re Sorry](https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Say You’re Sorry](https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH) | 2:16 |
+| 16 | [大人](https://open.spotify.com/track/6UXPAEteXJEyxcA0MAo8Zf) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [麋鹿](https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0) | 3:54 |
 | 17 | [我在紐約打電話給你](https://open.spotify.com/track/3vTnGxlxui3i9mWrAepise) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [我在紐約打電話給你](https://open.spotify.com/album/705xmvtHgzHVcHADtEdICs) | 3:56 |
 | 18 | [決定不想你](https://open.spotify.com/track/5Ps2mIW2fcPJRsNw5HGdd6) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Sent](https://open.spotify.com/album/2iBv70St1bvzcoiD00UJ2D) | 4:01 |
-| 19 | [晴時多雲偶想你](https://open.spotify.com/track/2fKc4ptqI3fBB4apuuu608) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [晴時多雲偶想你](https://open.spotify.com/album/1wfELxNgs2R3eZpc5YrP0a) | 4:48 |
-| 20 | [習慣不習慣](https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [底片裡的夏卡爾](https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4) | 5:00 |
+| 19 | [習慣不習慣](https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [底片裡的夏卡爾](https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4) | 5:00 |
+| 20 | [If Only...](https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [If Only...](https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y) | 3:07 |
 | 21 | [十萬毫升淚水](https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [天使與魔鬼的對話](https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V) | 4:20 |
-| 22 | [If Only...](https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [If Only...](https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y) | 3:07 |
+| 22 | [晴時多雲偶想你](https://open.spotify.com/track/2fKc4ptqI3fBB4apuuu608) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [晴時多雲偶想你](https://open.spotify.com/album/1wfELxNgs2R3eZpc5YrP0a) | 4:48 |
 | 23 | [習慣後就別說痛了](https://open.spotify.com/track/43U1WsvhsRjldPfFgWfj5e) | [李芷婷](https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs) | [習慣後就別說痛了](https://open.spotify.com/album/1MIKDnwDgu4B74rZkF7nrl) | 3:52 |
 | 24 | [現在是什麼時辰了](https://open.spotify.com/track/3wG3yWNanqRahzgusWgpJx) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [現在是什麼時辰了](https://open.spotify.com/album/087F57aCMcaiIh4HUX9GcE) | 3:59 |
 | 25 | [如果我還剩一件事情可以做](https://open.spotify.com/track/1yF0TL45iq2OPUnnZJONMa) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [重拾\_快樂](https://open.spotify.com/album/3KEUzl4MC7mw0tNypb2WUm) | 4:09 |
@@ -43,19 +43,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 33 | [你要的愛 \- 心動版](https://open.spotify.com/track/1TyCWL2O5xJqiiFT7UN7SZ) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [你要的愛 \(心動版\)](https://open.spotify.com/album/6m0w2NPZtEMqYA5U5wbt9a) | 3:55 |
 | 34 | [竊笑](https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [藏著並不等於遺忘](https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov) | 3:42 |
 | 35 | [我還在你的夢裡嗎](https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [!!!!](https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY) | 3:36 |
-| 36 | [藏在你的名字里](https://open.spotify.com/track/2BcK2K8CcFqE1E2vMN8oIi) | [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [《一闪一闪亮星星》电影原声带](https://open.spotify.com/album/1X1LA4lupIt483Gge0fvLm) | 3:16 |
-| 37 | [你一定要幸福](https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ) | [Isaac Yong](https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk) | [你一定要幸福](https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3) | 4:30 |
+| 36 | [你一定要幸福](https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ) | [Isaac Yong](https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk) | [你一定要幸福](https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3) | 4:30 |
+| 37 | [藏在你的名字里](https://open.spotify.com/track/2BcK2K8CcFqE1E2vMN8oIi) | [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [《一闪一闪亮星星》电影原声带](https://open.spotify.com/album/1X1LA4lupIt483Gge0fvLm) | 3:16 |
 | 38 | [等待你那天](https://open.spotify.com/track/7EXbutggsR2KP5klyOZeE0) | [呂允](https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9) | [等待你那天](https://open.spotify.com/album/5UqskmXa3TihM95voWWhTw) | 4:00 |
 | 39 | [一樣美麗 \- 粉紅絲帶宣導活動主題曲](https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [一樣美麗 \(粉紅絲帶宣導活動主題曲\)](https://open.spotify.com/album/6D3GLw6b90dCBafPcM7SVH) | 4:36 |
 | 40 | [陪著你](https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [藏著並不等於遺忘](https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov) | 5:10 |
 | 41 | [安](https://open.spotify.com/track/66U2Iisy3G5fXWeWXMJCvP) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [人生,起起落落落落落?](https://open.spotify.com/album/5cvhqXc6Za217p7SsOHLZW) | 2:56 |
 | 42 | [悲傷的五個步驟 \- Live Session](https://open.spotify.com/track/5fwxL5EIOUXWUfxvNX3s1I) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [悲傷的五個步驟 \(Live Session\)](https://open.spotify.com/album/2ABskKleNsgFb5qk7IXioh) | 3:09 |
-| 43 | [空城記](https://open.spotify.com/track/0nvixacMzY2blKlgXolY9F) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [CHIN UP!](https://open.spotify.com/album/3ykss35B3LJwwwKkLxYOs3) | 3:09 |
-| 44 | [原來我很愛你 \- 電視劇《原來我很愛你》同名主題曲](https://open.spotify.com/track/5Hy3Smqt5cYG70B2evnLGi) | [林彥俊](https://open.spotify.com/artist/0rtjGz2usYOefz4yYZb4Ih) | [原來我很愛你 \(電視劇《原來我很愛你》同名主題曲\)](https://open.spotify.com/album/7jpgg7xGcOBE9bYJBw8CGq) | 3:40 |
-| 45 | [Dream All Summer](https://open.spotify.com/track/2NjBvSSL8v3m3vxlgX7of8) | [Lu Han](https://open.spotify.com/artist/3fS78kAWd9dVFyaPQ363YO) | [Dream All Summer](https://open.spotify.com/album/5cjJFLqNgJWZOA7JWaZG0L) | 3:02 |
+| 43 | [Dream All Summer](https://open.spotify.com/track/2NjBvSSL8v3m3vxlgX7of8) | [Lu Han](https://open.spotify.com/artist/3fS78kAWd9dVFyaPQ363YO) | [Dream All Summer](https://open.spotify.com/album/5cjJFLqNgJWZOA7JWaZG0L) | 3:02 |
+| 44 | [空城記](https://open.spotify.com/track/0nvixacMzY2blKlgXolY9F) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [CHIN UP!](https://open.spotify.com/album/3ykss35B3LJwwwKkLxYOs3) | 3:09 |
+| 45 | [原來我很愛你 \- 電視劇《原來我很愛你》同名主題曲](https://open.spotify.com/track/5Hy3Smqt5cYG70B2evnLGi) | [林彥俊](https://open.spotify.com/artist/0rtjGz2usYOefz4yYZb4Ih) | [原來我很愛你 \(電視劇《原來我很愛你》同名主題曲\)](https://open.spotify.com/album/7jpgg7xGcOBE9bYJBw8CGq) | 3:40 |
 | 46 | [悄悄告訴你](https://open.spotify.com/track/7j34mUd15g3RrhZzVx3CgB) | [Christine Fan](https://open.spotify.com/artist/1q7sCl0vg0EcaFdRz0XDGg) | [悄悄告訴你](https://open.spotify.com/album/42YXL6YhJBbP2ZM4WMUTkC) | 2:16 |
-| 47 | [想念擬人化](https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7) | [孟慧圓](https://open.spotify.com/artist/4RcNXR3j50a6JCZcU06h6g) | [我被放上天空](https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y) | 4:26 |
-| 48 | [趕趕時間](https://open.spotify.com/track/7opdi4QEthCnJZkCdmPPsg) | [鄒序](https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0) | [趕趕時間](https://open.spotify.com/album/3OHTeZ8l4MkmDO1bUTJ51q) | 3:39 |
+| 47 | [趕趕時間](https://open.spotify.com/track/7opdi4QEthCnJZkCdmPPsg) | [鄒序](https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0) | [趕趕時間](https://open.spotify.com/album/3OHTeZ8l4MkmDO1bUTJ51q) | 3:39 |
+| 48 | [想念擬人化](https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7) | [孟慧圓](https://open.spotify.com/artist/4RcNXR3j50a6JCZcU06h6g) | [我被放上天空](https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y) | 4:26 |
 | 49 | [其實你並沒那麼孤單](https://open.spotify.com/track/3NpZcmc7txP57fUNcduERB) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [小時候的我們](https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm) | 3:04 |
 | 50 | [後視鏡](https://open.spotify.com/track/32oTT0te8RGfNuATgUCccI) | [羅言](https://open.spotify.com/artist/4ubrvBBuK8sxibCYU5JSUf) | [我的雷雨季電台](https://open.spotify.com/album/1attG5PJNgR3NbWsVRAHF1) | 2:42 |
 

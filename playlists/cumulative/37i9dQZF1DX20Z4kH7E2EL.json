@@ -383,6 +383,28 @@
     },
     {
       "album": {
+        "name": "Answer",
+        "url": "https://open.spotify.com/album/1vRe6YJIyr3KxDzvXDi83g"
+      },
+      "artists": [
+        {
+          "name": "Dosem",
+          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
+        },
+        {
+          "name": "SOHMI",
+          "url": "https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218880,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/3EgxB3djDrnGIZrdPKSEaQ"
+    },
+    {
+      "album": {
         "name": "Around",
         "url": "https://open.spotify.com/album/2iJtrTFYcvBIAPIpYoYnb4"
       },
@@ -805,6 +827,28 @@
     },
     {
       "album": {
+        "name": "Breathe Again",
+        "url": "https://open.spotify.com/album/1e0H5SnScuhlr57MkDHrVN"
+      },
+      "artists": [
+        {
+          "name": "Morgin Madison",
+          "url": "https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208571,
+      "name": "Breathe Again",
+      "url": "https://open.spotify.com/track/5XzZUrpj9hVmXwtP4YKhFy"
+    },
+    {
+      "album": {
         "name": "Brighter Days (30 Year Anniversary Remixes)",
         "url": "https://open.spotify.com/album/27khu5BAQkUgYxqlYFwRLB"
       },
@@ -970,6 +1014,24 @@
       "duration_ms": 411000,
       "name": "Cascade",
       "url": "https://open.spotify.com/track/7k4KRUOx0iqFxdk8JhNtks"
+    },
+    {
+      "album": {
+        "name": "Chair 10",
+        "url": "https://open.spotify.com/album/72KBGZELXcHNmayFgtTvnf"
+      },
+      "artists": [
+        {
+          "name": "Spencer Brown",
+          "url": "https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272903,
+      "name": "Chair 10",
+      "url": "https://open.spotify.com/track/46APlHcz5wJdcLVAKJRLzi"
     },
     {
       "album": {
@@ -1360,6 +1422,28 @@
       "duration_ms": 259354,
       "name": "DEVOTION - Mansionair Remix",
       "url": "https://open.spotify.com/track/6d8DvkfIHiilazeqFiAMBB"
+    },
+    {
+      "album": {
+        "name": "Berlin Plex EP",
+        "url": "https://open.spotify.com/album/1n1k1QHArN39os249wll3U"
+      },
+      "artists": [
+        {
+          "name": "Fel C",
+          "url": "https://open.spotify.com/artist/2y6nJKuBcPdakXmgggiGo4"
+        },
+        {
+          "name": "Cafius",
+          "url": "https://open.spotify.com/artist/1aBC9aXPU2A7OxYREMJvfH"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375425,
+      "name": "Different Style",
+      "url": "https://open.spotify.com/track/48q7tv8Gm47dwVm2kPJv8m"
     },
     {
       "album": {
@@ -1900,7 +1984,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 297489,
       "name": "Eurostar",
       "url": "https://open.spotify.com/track/4NJKOUGGmSrWBMDgboFLve"
@@ -2103,6 +2187,24 @@
     },
     {
       "album": {
+        "name": "Feels Like Summer",
+        "url": "https://open.spotify.com/album/68yPa8XcioIq8HR3TYRwiI"
+      },
+      "artists": [
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182520,
+      "name": "Feels Like Summer",
+      "url": "https://open.spotify.com/track/2BmyES33xncl530X676vME"
+    },
+    {
+      "album": {
         "name": "Fantasmagorii EP",
         "url": "https://open.spotify.com/album/4cRqqjosVkLS8rIVRcboi4"
       },
@@ -2114,7 +2216,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 364560,
       "name": "Ferishtah",
       "url": "https://open.spotify.com/track/33CaD77Dd5GWqTmq35p6u1"
@@ -2635,6 +2737,28 @@
     },
     {
       "album": {
+        "name": "Happy Finally EP",
+        "url": "https://open.spotify.com/album/3b8wQBrhXOHckYSlvALLuh"
+      },
+      "artists": [
+        {
+          "name": "Blake.08",
+          "url": "https://open.spotify.com/artist/7J6WMh4LEpLud71vkMUb2U"
+        },
+        {
+          "name": "Soschi",
+          "url": "https://open.spotify.com/artist/0E0BOjd8I5ppqXP6zWNDUe"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434412,
+      "name": "Happy Finally - Extended Mix",
+      "url": "https://open.spotify.com/track/4LWD1N2UlBgjWb5v16ZRnz"
+    },
+    {
+      "album": {
         "name": "Heart Pieces",
         "url": "https://open.spotify.com/album/5jMooG8upBMMsuy1ynr1dh"
       },
@@ -3105,6 +3229,24 @@
     },
     {
       "album": {
+        "name": "Ice Palace",
+        "url": "https://open.spotify.com/album/6OjsY6C1ezMaP6dIgXk5ve"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344404,
+      "name": "Ice Palace - Extended Mix",
+      "url": "https://open.spotify.com/track/7cUv7t0yLFEliWX3l2Ax2b"
+    },
+    {
+      "album": {
         "name": "Ichika",
         "url": "https://open.spotify.com/album/4lrJKMimi4yC5uGgUVNdgZ"
       },
@@ -3120,6 +3262,24 @@
       "duration_ms": 485810,
       "name": "Ichika",
       "url": "https://open.spotify.com/track/1MRBa5AnDvmIoiT2NyyBoL"
+    },
+    {
+      "album": {
+        "name": "IDKW",
+        "url": "https://open.spotify.com/album/7DKKHibyLHjQdE98HeVQT7"
+      },
+      "artists": [
+        {
+          "name": "Wilfy D",
+          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "IDKW",
+      "url": "https://open.spotify.com/track/67Nrz0HAa2MUrO2zbekGfs"
     },
     {
       "album": {
@@ -3978,7 +4138,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 322058,
       "name": "Monolith",
       "url": "https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB"
@@ -4043,6 +4203,24 @@
     },
     {
       "album": {
+        "name": "Morgana / Toscana / Kaskazi",
+        "url": "https://open.spotify.com/album/0OUjGfG79USzj6a3CN4utE"
+      },
+      "artists": [
+        {
+          "name": "Simon Vuarambon",
+          "url": "https://open.spotify.com/artist/2W3M7XIkEKENCT1LXJ6mdj"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 552000,
+      "name": "Morgana",
+      "url": "https://open.spotify.com/track/424ldVhdV9Lbsz6fVC9770"
+    },
+    {
+      "album": {
         "name": "Unity Pt. 3",
         "url": "https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE"
       },
@@ -4076,6 +4254,24 @@
       "duration_ms": 462641,
       "name": "Motor - Dave Angel Rework",
       "url": "https://open.spotify.com/track/2wFYHU7CAuJ33kI6D6m7uT"
+    },
+    {
+      "album": {
+        "name": "Movin\u2019 In Slowly",
+        "url": "https://open.spotify.com/album/4jCKGOT6o3NDd1FxjvBsUl"
+      },
+      "artists": [
+        {
+          "name": "Ezra Blissard",
+          "url": "https://open.spotify.com/artist/6ENNcsssIMTgY3JPK3Fd5w"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341538,
+      "name": "Movin' In Slowly",
+      "url": "https://open.spotify.com/track/62bseztlpPySEmmSkkQEj9"
     },
     {
       "album": {
@@ -4574,7 +4770,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 357325,
       "name": "P&L",
       "url": "https://open.spotify.com/track/6Askge1ldhTX2wOFA9I7mI"
@@ -4853,6 +5049,24 @@
     },
     {
       "album": {
+        "name": "Pure Play",
+        "url": "https://open.spotify.com/album/7N0B86QCouKa4ntXFo1DMF"
+      },
+      "artists": [
+        {
+          "name": "HOTPRETTY",
+          "url": "https://open.spotify.com/artist/5CeGXr1eAo8AYXG3OOlclz"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330000,
+      "name": "Pure Play",
+      "url": "https://open.spotify.com/track/1kavOvyxzdk7Y6RP3Kc9EF"
+    },
+    {
+      "album": {
         "name": "Odysseya",
         "url": "https://open.spotify.com/album/6AP5oYmAsxdJ4GN3n99fTP"
       },
@@ -4876,6 +5090,28 @@
       "duration_ms": 226229,
       "name": "Purple Sky",
       "url": "https://open.spotify.com/track/5HfUiLgywaO81gaq2DIx1M"
+    },
+    {
+      "album": {
+        "name": "Push Me (Adana Twins Remix)",
+        "url": "https://open.spotify.com/album/7mLothvyq9330k58HZDy3E"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        },
+        {
+          "name": "Adana Twins",
+          "url": "https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376250,
+      "name": "Push Me - Adana Twins Remix",
+      "url": "https://open.spotify.com/track/2QZfBnE2KOLELhM3BTqn84"
     },
     {
       "album": {
@@ -5548,7 +5784,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 277053,
       "name": "Sonore",
       "url": "https://open.spotify.com/track/7jb5cXl0hbPc8k7WfKMurk"
@@ -5872,7 +6108,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 199897,
       "name": "Sunlight - Rodriguez Jr. Remix",
       "url": "https://open.spotify.com/track/6YbP1KNL5EizngkpQCidCy"
@@ -6115,6 +6351,24 @@
     },
     {
       "album": {
+        "name": "The Shire",
+        "url": "https://open.spotify.com/album/7z97amJc617ewkb8tp4BHW"
+      },
+      "artists": [
+        {
+          "name": "Banksia",
+          "url": "https://open.spotify.com/artist/5KbxQ4ymkRxh9tB59smVYz"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294850,
+      "name": "The Shire",
+      "url": "https://open.spotify.com/track/6Kxsk7aPk9zB8Ia7mmWvYR"
+    },
+    {
+      "album": {
         "name": "The Story Continues",
         "url": "https://open.spotify.com/album/4GFN6yPYH6QCkYwWacnPhi"
       },
@@ -6304,7 +6558,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 370393,
       "name": "Tranquility - Original Mix",
       "url": "https://open.spotify.com/track/32Ak5Jb2mLDhZy8Za9jmVv"
@@ -6446,7 +6700,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 250338,
       "name": "Vajkoczy",
       "url": "https://open.spotify.com/track/3KmzZk1OtrY7eNvAliEaiP"
@@ -7006,10 +7260,28 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 249984,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/6dOLWS1ee89ZezU4aRnpaX"
+    },
+    {
+      "album": {
+        "name": "Zizzy",
+        "url": "https://open.spotify.com/album/03bT1C7incHJtGjoKhYUAL"
+      },
+      "artists": [
+        {
+          "name": "Enamour",
+          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420000,
+      "name": "Zizzy",
+      "url": "https://open.spotify.com/track/4bENMkR60BlLehIvtPMFeM"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX20Z4kH7E2EL"

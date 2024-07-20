@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,331 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,612 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 27 | [Un Amor Como Este](https://open.spotify.com/track/5xdUo9vjyv5RRR48QYiv1Q) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Un Amor Como Este](https://open.spotify.com/album/18sg8sJIP1DSQweKCNORqW) | 3:05 |
 | 28 | [Por Clave El Fresa](https://open.spotify.com/track/3tS0oKoHSZdsAZpPxjmrBC) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 2:24 |
 | 29 | [El Buho](https://open.spotify.com/track/1LwuBjjFT9Wc8qJqQV5xia) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Buho](https://open.spotify.com/album/7mNGmzl36M6Cpm6SoNfbIL) | 2:56 |
-| 30 | [BELIKON](https://open.spotify.com/track/3cZ7HCLpXjKGy0mLNNPvxr) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 2:33 |
-| 31 | [El Chino \(En Vivo\)](https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Chino \(En Vivo\)](https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK) | 3:00 |
+| 30 | [El Chino \(En Vivo\)](https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Chino \(En Vivo\)](https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK) | 3:00 |
+| 31 | [BELIKON](https://open.spotify.com/track/3cZ7HCLpXjKGy0mLNNPvxr) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 2:33 |
 | 32 | [Me Pongo Belikon](https://open.spotify.com/track/3CPGCgJs3AVKxxzPNKYjsY) | [Máxima Ventaja](https://open.spotify.com/artist/5I8HriBeRyNsjTLSHsok0N), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Me Pongo Belikon](https://open.spotify.com/album/7dtzKzqSAivR4nxhKO8FX6) | 2:28 |
 | 33 | [La Fiesta](https://open.spotify.com/track/26ffMA2QIHjbQZpBlv6GmA) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [José Guicho](https://open.spotify.com/artist/7IiCm7VkqzW7vN0MY9AzHe), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [La Fiesta](https://open.spotify.com/album/4kAXXZpIKhMlmj62OBnj7g) | 2:32 |
 | 34 | [Puro Campeón](https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Puro Campeón](https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 49 | [Koenigsegg](https://open.spotify.com/track/3jZ24Jd8i5FNpePjYQy4ck) | [Brian Santin](https://open.spotify.com/artist/7yqNw1jSOfhiP62pXYggdx), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Koenigsegg](https://open.spotify.com/album/2BCfKhmwimc5a0lhdRZN65) | 3:06 |
 | 50 | [Ducati](https://open.spotify.com/track/0tmP3JTNIPazZFYbznBwm7) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Ducati](https://open.spotify.com/album/2QmFMHMxWElDAfhdXjM7OM) | 2:28 |
 
-Snapshot ID: `ZpcJgAAAAABy7gSV3IqdPk5+wAPeSBkZ`
+Snapshot ID: `ZphbAAAAAAAzmJfA5HxZpnxOAMUu/IR0`

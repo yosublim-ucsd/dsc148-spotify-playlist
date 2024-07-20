@@ -1,6 +1,6 @@
 {
   "description": "A blend of the best from years past\u2014from indie folk and pop grass to roots rock and Americana. Cover: The Lumineers",
-  "num_followers": 617413,
+  "num_followers": 617432,
   "original_name": "Roots Revival",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
+        "name": "This Empty Northern Hemisphere",
+        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Big Black Car",
+      "url": "https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
         "name": "Mt. Joy",
         "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 109735,
       "name": "Flowers in Your Hair",
       "url": "https://open.spotify.com/track/3Hvg5tRKsQlX25wYwgMF9p"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
-        "name": "This Empty Northern Hemisphere",
-        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Big Black Car",
-      "url": "https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "The Weatherman",
-        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 198640,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 328506,
       "name": "Old Pine",
       "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 196055,
+      "name": "Honeybee",
+      "url": "https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -219,18 +219,18 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Living Mirage",
-        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+        "name": "The Weatherman",
+        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 196055,
-      "name": "Honeybee",
-      "url": "https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9"
+      "duration_ms": 198640,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Evening Machines",
-        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "San Luis",
-      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Stay Gold",
         "url": "https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9"
       },
@@ -339,22 +323,6 @@
       "duration_ms": 215493,
       "name": "My Silver Lining",
       "url": "https://open.spotify.com/track/5BkNCuxzzid0gz9sx3NNbX"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
-        "name": "My Head Is An Animal",
-        "url": "https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 211453,
-      "name": "Mountain Sound",
-      "url": "https://open.spotify.com/track/60ZGteAEtPCnGE6zevgUcd"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -375,22 +343,34 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "The Spirit Moves",
-        "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
+        "name": "My Head Is An Animal",
+        "url": "https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF"
       },
       "artists": [
         {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        },
-        {
-          "name": "The Law",
-          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
         }
       ],
-      "duration_ms": 161906,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
+      "duration_ms": 211453,
+      "name": "Mountain Sound",
+      "url": "https://open.spotify.com/track/60ZGteAEtPCnGE6zevgUcd"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Evening Machines",
+        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "San Luis",
+      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -407,6 +387,26 @@
       "duration_ms": 188186,
       "name": "Turtles All the Way Down",
       "url": "https://open.spotify.com/track/4NE3oWyUQI2b2NjyMyC8Bi"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "The Spirit Moves",
+        "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        },
+        {
+          "name": "The Law",
+          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
+        "name": "Not Nearly Dark",
+        "url": "https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB"
+      },
+      "artists": [
+        {
+          "name": "Ciaran Lavery",
+          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
+        }
+      ],
+      "duration_ms": 251960,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
         "name": "O' Be Joyful",
         "url": "https://open.spotify.com/album/6YEijTlqiq6aidUCEGHysk"
       },
@@ -1087,6 +1103,22 @@
       "duration_ms": 240560,
       "name": "Birmingham",
       "url": "https://open.spotify.com/track/3lwcrfL6LfZ1p9ZU8KRx4n"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 219213,
+      "name": "Angel of Small Death and the Codeine Scene",
+      "url": "https://open.spotify.com/track/7uY7jZs5srSx3xMmyCI48T"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1111,18 +1143,18 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Not Nearly Dark",
-        "url": "https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB"
+        "name": "Build Me Up From Bones",
+        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
       },
       "artists": [
         {
-          "name": "Ciaran Lavery",
-          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 251960,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv"
+      "duration_ms": 216173,
+      "name": "Build Me Up From Bones",
+      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1139,38 +1171,6 @@
       "duration_ms": 229773,
       "name": "BRIGHTSIDE",
       "url": "https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 219213,
-      "name": "Angel of Small Death and the Codeine Scene",
-      "url": "https://open.spotify.com/track/7uY7jZs5srSx3xMmyCI48T"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
-        "name": "Build Me Up From Bones",
-        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 216173,
-      "name": "Build Me Up From Bones",
-      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Half Moon Light (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4BZtOxZRZVRVf5ufHPlXy3"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 231880,
-      "name": "Dried Up River",
-      "url": "https://open.spotify.com/track/7bNvUAHtAVDee8w6SS6r0S"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Colony of Bees",
         "url": "https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 249579,
       "name": "Still Trying",
       "url": "https://open.spotify.com/track/3SCDpe3QWlLSg5oJjqN25Q"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Half Moon Light (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4BZtOxZRZVRVf5ufHPlXy3"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 231880,
+      "name": "Dried Up River",
+      "url": "https://open.spotify.com/track/7bNvUAHtAVDee8w6SS6r0S"
     },
     {
       "added_at": "2022-03-11 23:43:10",

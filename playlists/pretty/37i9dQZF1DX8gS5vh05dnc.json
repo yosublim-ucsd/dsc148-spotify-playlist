@@ -1,6 +1,6 @@
 {
   "description": "\u60f3\u7d13\u89e3\u7dca\u5f35\u58d3\u529b\uff0c\u5c31\u807d\u9019\u4e9b\u8f15\u9b06\u3001\u6109\u5feb\u7684\u6b4c\u66f2\u4f86\u8b93\u81ea\u5df1\u653e\u8f15\u9b06\u3002",
-  "num_followers": 129602,
+  "num_followers": 129598,
   "original_name": "\u6d88\u9664\u58d3\u529b",
   "owner": {
     "name": "Spotify",
@@ -43,8 +43,8 @@
     {
       "added_at": "2024-07-15 01:14:59",
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
       },
       "artists": [
         {
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
+      "duration_ms": 206693,
+      "name": "That's What I Like",
+      "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
     },
     {
       "added_at": "2024-07-15 01:14:59",
@@ -171,8 +171,8 @@
     {
       "added_at": "2024-07-15 01:14:59",
       "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 206693,
-      "name": "That's What I Like",
-      "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
     },
     {
       "added_at": "2024-07-15 01:14:59",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-07-15 01:14:59",
       "album": {
-        "name": "Nice to Meet You",
-        "url": "https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 190760,
-      "name": "Nice to Meet You",
-      "url": "https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ"
-    },
-    {
-      "added_at": "2024-07-15 01:14:59",
-      "album": {
         "name": "Gold Rush Kid",
         "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 167613,
       "name": "Green Green Grass",
       "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
+    },
+    {
+      "added_at": "2024-07-15 01:14:59",
+      "album": {
+        "name": "Nice to Meet You",
+        "url": "https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "Nice to Meet You",
+      "url": "https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ"
     },
     {
       "added_at": "2024-07-15 01:14:59",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-07-15 01:14:59",
       "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 238746,
+      "name": "Hold Back The River",
+      "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
+    },
+    {
+      "added_at": "2024-07-15 01:14:59",
+      "album": {
         "name": "Know Your Worth",
         "url": "https://open.spotify.com/album/0uLz2ygHQAtLknyGasJOr5"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 181436,
       "name": "Know Your Worth",
       "url": "https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf"
-    },
-    {
-      "added_at": "2024-07-15 01:14:59",
-      "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 238746,
-      "name": "Hold Back The River",
-      "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
     },
     {
       "added_at": "2024-07-15 01:14:59",

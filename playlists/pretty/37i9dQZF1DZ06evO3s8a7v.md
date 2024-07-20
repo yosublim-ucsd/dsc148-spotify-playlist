@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 
 ### [This Is MYA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3s8a7v)
 
-> This is MYA\. The essential tracks, all in one playlist.
+> This Is MYA\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,046 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,059 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,17 +21,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 11 | [Entre La Tierra y El Cielo](https://open.spotify.com/track/2zYZTTgHI1f2BmlZQXy1ff) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Entre La Tierra y El Cielo](https://open.spotify.com/album/32Pv25yHJ8Tnyac7ATFo7T) | 4:13 |
 | 12 | [Te Olvidaré](https://open.spotify.com/track/4jrZI0XdexLjrHlBwLbhzL) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:05 |
 | 13 | [LUNAR](https://open.spotify.com/track/1b1pn4vLdyxyRQLbGVEmL8) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [LUNAR](https://open.spotify.com/album/4IjhuO42v4hw5xxPSuk9C3) | 3:06 |
-| 14 | [Lado Triste \- Remix](https://open.spotify.com/track/7gNClxHxDnazoQvgFhLMKr) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Lado Triste \(Remix\)](https://open.spotify.com/album/75sX87O97X5BFJ4uvnlUhN) | 2:47 |
-| 15 | [Nunca Soltamos](https://open.spotify.com/track/3gxFNiUvyb3F2BJ2EGMRtd) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Nunca Soltamos](https://open.spotify.com/album/6ghHqKuBy0ZgGWeva8XF7E) | 3:18 |
+| 14 | [Nunca Soltamos](https://open.spotify.com/track/3gxFNiUvyb3F2BJ2EGMRtd) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Nunca Soltamos](https://open.spotify.com/album/6ghHqKuBy0ZgGWeva8XF7E) | 3:18 |
+| 15 | [Lado Triste \- Remix](https://open.spotify.com/track/7gNClxHxDnazoQvgFhLMKr) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Lado Triste \(Remix\)](https://open.spotify.com/album/75sX87O97X5BFJ4uvnlUhN) | 2:47 |
 | 16 | [MAL DE AMOR](https://open.spotify.com/track/0j15NSe9m6egjzJXXn1QXQ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [MAL DE AMOR](https://open.spotify.com/album/1PJGPDQCUfl18e5C3to1Uk) | 3:41 |
 | 17 | [Lejos \- REMIX](https://open.spotify.com/track/2bIbFssR2q89LZUshe5vTb) | [Valentina Olguin](https://open.spotify.com/artist/4bFcNlqngm7XibeU7HW3IR), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Lejos \(REMIX\)](https://open.spotify.com/album/0BveghjcZHf8rgjpG2Gf3I) | 3:10 |
 | 18 | [Fuiste Mía](https://open.spotify.com/track/1Nf60AnYxFl1xvZo12FZOV) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Fuiste Mía](https://open.spotify.com/album/3GRdrDwDPTg8jNjejST5ZW) | 3:44 |
 | 19 | [MYA LIVE P1: Chanel de Coco](https://open.spotify.com/track/7AjW0MWfMnpLgbW7TaPIKS) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [MYA LIVE P1: Chanel de Coco](https://open.spotify.com/album/6nHqLPHzm3hCdj7ptJArlZ) | 3:29 |
-| 20 | [250X](https://open.spotify.com/track/3NjhlsNhvSEjg4BA2AJKJ9) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [250X](https://open.spotify.com/album/31QqeBtjSFCLwjNFGgxmUS) | 2:17 |
-| 21 | [HISTERIQUEO](https://open.spotify.com/track/3z4y1bSwBoz21QuVqKVnEM) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [HISTERIQUEO](https://open.spotify.com/album/0ajHIug4wUF4TowpnpQoPc) | 3:25 |
+| 20 | [HISTERIQUEO](https://open.spotify.com/track/3z4y1bSwBoz21QuVqKVnEM) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [HISTERIQUEO](https://open.spotify.com/album/0ajHIug4wUF4TowpnpQoPc) | 3:25 |
+| 21 | [250X](https://open.spotify.com/track/3NjhlsNhvSEjg4BA2AJKJ9) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [250X](https://open.spotify.com/album/31QqeBtjSFCLwjNFGgxmUS) | 2:17 |
 | 22 | [Legendaria](https://open.spotify.com/track/5bARvxCD7HTJXsBLN7UhbZ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Legendaria](https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW) | 2:59 |
-| 23 | [BIKINI](https://open.spotify.com/track/5Qen3RTlj645TBqllrLXLh) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [BIKINI](https://open.spotify.com/album/5tEiAxgDVpRsvWPNbq3l4E) | 3:02 |
-| 24 | [4 Meses](https://open.spotify.com/track/1hsy09WbfLFq21OVS4FaMe) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:17 |
+| 23 | [4 Meses](https://open.spotify.com/track/1hsy09WbfLFq21OVS4FaMe) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:17 |
+| 24 | [BIKINI](https://open.spotify.com/track/5Qen3RTlj645TBqllrLXLh) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [BIKINI](https://open.spotify.com/album/5tEiAxgDVpRsvWPNbq3l4E) | 3:02 |
 | 25 | [Suelta, Sola y Tranquila REMIX](https://open.spotify.com/track/4fHl3YBShR7QluRtNWwWpl) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Suelta, Sola y Tranquila REMIX](https://open.spotify.com/album/7hh43MlPFtFnHn64iWEExm) | 3:22 |
 | 26 | [Una y Mil Veces](https://open.spotify.com/track/4s0BDnatQJ5uL4BcrOfMG6) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Una y Mil Veces](https://open.spotify.com/album/6lOhEec0gHybly7uWWCRWa) | 3:02 |
 | 27 | [Cobardes](https://open.spotify.com/track/19MrGoBqSf0fMq3ez53ILU) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:50 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 50 | [Tu y Yo](https://open.spotify.com/track/1qE7Qo0eM5P2yBVQ0kPlZT) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:28 |
 | 51 | [Día y Noche](https://open.spotify.com/track/2NZ4Lg677xRbdrlFMOPTcF) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Día y Noche](https://open.spotify.com/album/4LNDD3N645KasfePnuqWbm) | 3:15 |
 
-Snapshot ID: `ZpcJgAAAAACfjahGwwwgOb2/8RbfVQVS`
+Snapshot ID: `ZphbAAAAAABosTDDLfQYmhL9EJXnW17b`

@@ -4,7 +4,7 @@
 
 > Get in the zone with these current jams!
 
-722 songs - 1 day 13 hr 2 min
+723 songs - 1 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\)](https://open.spotify.com/track/1vvcEHQdaUTvWt0EIUYcFK) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\) \[Trailer Version\]](https://open.spotify.com/album/3hPyxRi49jls3gU6Si8JdF) | 2:55 | 2023-06-02 | 2024-01-27 |
 | [Another Love \- Tiësto Remix](https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Another Love \(Tiësto Remix\)](https://open.spotify.com/album/1QltVGlNGbK94CKgUsYZGa) | 3:05 | 2022-08-26 | 2022-10-01 |
 | [Another Love Song](https://open.spotify.com/track/2PKEWeRvcGxPzr3FaGes5e) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Another Love Song](https://open.spotify.com/album/0BLaVp7Mzl2LOSQNvURmsM) | 2:57 | 2022-09-09 | 2022-09-17 |
-| [Anything](https://open.spotify.com/track/5AjLZX8aPonV4fOdCnoTvl) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Anything](https://open.spotify.com/album/4JVLLc7dHD1pLrryXlcKkm) | 3:08 | 2024-06-21 |  |
+| [Anything](https://open.spotify.com/track/5AjLZX8aPonV4fOdCnoTvl) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Anything](https://open.spotify.com/album/4JVLLc7dHD1pLrryXlcKkm) | 3:08 | 2024-06-21 | 2024-07-20 |
 | [Apretaito](https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Apretaito](https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL) | 3:19 | 2022-04-08 | 2022-04-18 |
 | [Arcade \(feat\. FLETCHER\)](https://open.spotify.com/track/4Ld4kbKo1eOzToQ0P8JA0V) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Small Town Boy](https://open.spotify.com/album/1FNBevfbKAzZsgI2RpkkQQ) | 3:07 | 2021-12-17 | 2022-10-01 |
 | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63) | 3:43 | 2023-03-24 | 2023-04-29 |
@@ -540,6 +540,7 @@
 | [Revolution](https://open.spotify.com/track/69c48S8phNtQZuM8ksaObz) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Revolution](https://open.spotify.com/album/58mZEgMHwabU4Z5S2ggjCx) | 3:03 | 2022-07-29 | 2022-08-06 |
 | [Riptide](https://open.spotify.com/track/6Go8Wuws8feT0R2VlaI3am) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Riptide](https://open.spotify.com/album/2iwWXnXWMxBKOT9248uBAG) | 2:51 | 2022-04-25 | 2022-07-29 |
 | [River](https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:42 | 2023-03-10 | 2023-04-15 |
+| [Roots](https://open.spotify.com/track/6DBpDTvXhBbcfpOa1QrVYo) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Roots](https://open.spotify.com/album/6ixzEr9VQzaLTCHOKZHdA2) | 2:43 | 2024-07-12 |  |
 | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/album/7jMo8dhMIorHoLlzTisjJy) | 2:52 | 2022-03-25 | 2022-04-21 |
 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 | 2023-12-08 |  |
 | [RUNAWAY](https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY](https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe) | 2:23 | 2023-06-02 | 2024-06-01 |

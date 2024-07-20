@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 
 > Life sucks...i need some rock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,198 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,200 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 13 | [Rusted From the Rain](https://open.spotify.com/track/1VbsSYNXKBpjPvqddk8zjs) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent III](https://open.spotify.com/album/58IwNbkCL527REhNX7emWv) | 4:13 |
 | 14 | [Anthem Part Two](https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 3:47 |
 | 15 | [Jamie All Over](https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [A Lesson In Romantics](https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9) | 3:36 |
-| 16 | [The Devil's Bleeding Crown](https://open.spotify.com/track/3TjQAc2PzWzlSDrnq61J1y) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie \(Deluxe\)](https://open.spotify.com/album/3v78ZZiv9L2Fb5x5fC8kVC) | 3:58 |
-| 17 | [Control](https://open.spotify.com/track/575Sz3R4xOhueUstPObylF) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 3:50 |
+| 16 | [Control](https://open.spotify.com/track/575Sz3R4xOhueUstPObylF) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 3:50 |
+| 17 | [The Devil's Bleeding Crown](https://open.spotify.com/track/3TjQAc2PzWzlSDrnq61J1y) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie \(Deluxe\)](https://open.spotify.com/album/3v78ZZiv9L2Fb5x5fC8kVC) | 3:58 |
 | 18 | [Re\-Education \(Through Labor\)](https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 3:42 |
 | 19 | [I Don't Care](https://open.spotify.com/track/26VG1uCazw9xtVnq8A1vtd) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/6LMC7ZuVNDUQ0tHpGKdd9K) | 3:34 |
 | 20 | [Testify](https://open.spotify.com/track/7lmeHLHBe4nmXzuXc0HDjk) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [The Battle Of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX) | 3:30 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 32 | [Jars](https://open.spotify.com/track/0CD1Hybzpwc9Av6iRI2xjr) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Sci\-Fi Crimes](https://open.spotify.com/album/4yo38BbmUi80kZOqHlRhNH) | 3:19 |
 | 33 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/4qMzPtAZe0C9KWpWIzvZAP) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Remastered\)](https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl) | 4:18 |
 | 34 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 |
-| 35 | [Why Worry](https://open.spotify.com/track/39ShyO1yBCiEoEXHX9ie0F) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Duality](https://open.spotify.com/album/5AKycvv2TUUh9h0KIletJt) | 3:19 |
-| 36 | [New Fang](https://open.spotify.com/track/7uJLdyIAaYLGT0oLw7I6b3) | [Them Crooked Vultures](https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO) | [Them Crooked Vultures](https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3) | 3:48 |
+| 35 | [New Fang](https://open.spotify.com/track/7uJLdyIAaYLGT0oLw7I6b3) | [Them Crooked Vultures](https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO) | [Them Crooked Vultures](https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3) | 3:48 |
+| 36 | [Why Worry](https://open.spotify.com/track/39ShyO1yBCiEoEXHX9ie0F) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Duality](https://open.spotify.com/album/5AKycvv2TUUh9h0KIletJt) | 3:19 |
 | 37 | [wonderful life \(feat\. Dani Filth\)](https://open.spotify.com/track/0ceW5TkemJUEmJERavfqQq) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Dani Filth](https://open.spotify.com/artist/76qhZXwfMnhJPXacLwGcNK) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 4:34 |
 | 38 | [hot girl bummer](https://open.spotify.com/track/1GIofMbTz83fXqNrEuf4bA) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [hot girl bummer](https://open.spotify.com/album/1ZxDNQug6sZYBfZa8FckkT) | 3:05 |
 | 39 | [Overcome](https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Overcome](https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W) | 3:34 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 70 | [Nothing](https://open.spotify.com/track/7yUrBn4yvBBfwXXfHTE2Wd) | [A](https://open.spotify.com/artist/3HBxYEtI2i43MzWyTXupVv) | [Hi\-Fi Serious](https://open.spotify.com/album/4A66a0jsW9AJB6Com7AX4U) | 3:43 |
 | 71 | [Savior Mode](https://open.spotify.com/track/0G6fFMKdbf7fI3S1gLHSRK) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [Too Quick to Forgive](https://open.spotify.com/album/7ECEe6gQMlJNjykkX7F7RY) | 4:21 |
 | 72 | [Love Dies Young](https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:21 |
-| 73 | [Extract](https://open.spotify.com/track/481bSrhRx2fNpBrjOBMv3k) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [Extract](https://open.spotify.com/album/4gpLVpRbhG0DjC7370KSlI) | 3:00 |
-| 74 | [curious/furious](https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [curious/furious](https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z) | 3:04 |
+| 73 | [curious/furious](https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [curious/furious](https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z) | 3:04 |
+| 74 | [Extract](https://open.spotify.com/track/481bSrhRx2fNpBrjOBMv3k) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [Extract](https://open.spotify.com/album/4gpLVpRbhG0DjC7370KSlI) | 3:00 |
 | 75 | [Money \(Hope Ain’t Gone\)](https://open.spotify.com/track/2gZBIM1qpCq5XlO0X3tjIs) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Money \(Hope Ain’t Gone\)](https://open.spotify.com/album/5S7XyZNwnnskgC2tFnm4dA) | 4:06 |
 | 76 | [Uzumaki](https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Snake](https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE) | 3:31 |
 | 77 | [Crocus](https://open.spotify.com/track/2NCyJFVYg46JyxUASmbdyg) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Datura](https://open.spotify.com/album/3njhMNW0BGdOQN9108BEDY) | 3:57 |

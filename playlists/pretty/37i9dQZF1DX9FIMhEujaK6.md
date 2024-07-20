@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,097 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,178 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 46 | [Kiss](https://open.spotify.com/track/35Tb3Ii35rcvP1qyRQsW1a) | [Iorie](https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH), [Cesar B.](https://open.spotify.com/artist/68Mf2sUOnyJoE6Xm6k0eE2) | [Summer](https://open.spotify.com/album/0YtlbRJFIedxN8a9f8ZyJp) | 7:50 |
 | 47 | [Talking Like That](https://open.spotify.com/track/2mO6cLDxTnT9NVnQ6iVfVF) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Talking Like That](https://open.spotify.com/album/6NgQBkhn7gc9tcxdsORlgi) | 3:51 |
 | 48 | [Asara \(feat\. Bambo Cissokho\)](https://open.spotify.com/track/7jZXymh2SwJUGD4juPNVVH) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Laureano](https://open.spotify.com/artist/4Hu88bgyAjHvZZpfBK9ncX), [Bambo Cissokho](https://open.spotify.com/artist/2qjWUEZjsTxLUYI6MNk3Yq) | [Asara \(feat\. Bambo Cissokho\)](https://open.spotify.com/album/39YxZgJhoL9YQfc4lmKwhN) | 2:42 |
-| 49 | [Incomplete Dreaming](https://open.spotify.com/track/6SRM57YcCB4YqiqhJlnqdn) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Incomplete Dreaming](https://open.spotify.com/album/6QsZfxJ3RL8oUV32vlJ2n7) | 4:12 |
-| 50 | [Take Me Back](https://open.spotify.com/track/77XWWoOmIporiyZw7WYtiq) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Take Me Back](https://open.spotify.com/album/6R0hNupGSqL55IzZYdU9ps) | 2:55 |
+| 49 | [Take Me Back](https://open.spotify.com/track/77XWWoOmIporiyZw7WYtiq) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Take Me Back](https://open.spotify.com/album/6R0hNupGSqL55IzZYdU9ps) | 2:55 |
+| 50 | [Incomplete Dreaming](https://open.spotify.com/track/6SRM57YcCB4YqiqhJlnqdn) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Incomplete Dreaming](https://open.spotify.com/album/6QsZfxJ3RL8oUV32vlJ2n7) | 4:12 |
 
 Snapshot ID: `ZpEthgAAAAAXbzcO2cytaHfWJ7rkzD50`

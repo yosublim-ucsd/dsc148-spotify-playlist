@@ -1,12 +1,12 @@
 {
-  "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 17994,
+  "description": "This Is Deuter. Los temas esenciales, todos en una lista.",
+  "num_followers": 17997,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAAA0X0VaUbJkckNPN9zo2ENe",
+  "snapshot_id": "ZphbAAAAAABVF0uIOIfW42mmlVT1QPBP",
   "tracks": [
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reiki Hands of Love",
+        "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 321786,
+      "name": "Morning Light Silhouettes 2",
+      "url": "https://open.spotify.com/track/1vP4rx7L7iHjCkiIRj6FLN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Garden of the Gods",
         "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 488866,
       "name": "Kiss of a Rose",
       "url": "https://open.spotify.com/track/1iYVLR0alUpxmIbIkoc1xg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reiki Hands of Love",
-        "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 321786,
-      "name": "Morning Light Silhouettes 2",
-      "url": "https://open.spotify.com/track/1vP4rx7L7iHjCkiIRj6FLN"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buddha Nature",
-        "url": "https://open.spotify.com/album/72PYgOokcFMyEXjzgkfkRu"
+        "name": "Sea and Silence",
+        "url": "https://open.spotify.com/album/2ua4MPOaV3V7UMGu6awemH"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 172960,
-      "name": "Joyful Path",
-      "url": "https://open.spotify.com/track/2hSIIrPknMwAre3HSh19qi"
+      "duration_ms": 807853,
+      "name": "Sea and Silence",
+      "url": "https://open.spotify.com/track/573r9ga2NLtpu0gWEoPjRN"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sea and Silence",
-        "url": "https://open.spotify.com/album/2ua4MPOaV3V7UMGu6awemH"
+        "name": "Buddha Nature",
+        "url": "https://open.spotify.com/album/72PYgOokcFMyEXjzgkfkRu"
       },
       "artists": [
         {
@@ -540,25 +540,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 807853,
-      "name": "Sea and Silence",
-      "url": "https://open.spotify.com/track/573r9ga2NLtpu0gWEoPjRN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reiki Healing",
-        "url": "https://open.spotify.com/album/4Lb8o6jr6aSXjt9L8VAKMP"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 342346,
-      "name": "Song of a Dream",
-      "url": "https://open.spotify.com/track/46vGNHvQ4RL2LWddrDnR4T"
+      "duration_ms": 172960,
+      "name": "Joyful Path",
+      "url": "https://open.spotify.com/track/2hSIIrPknMwAre3HSh19qi"
     },
     {
       "added_at": null,
@@ -579,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reiki Healing",
+        "url": "https://open.spotify.com/album/4Lb8o6jr6aSXjt9L8VAKMP"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 342346,
+      "name": "Song of a Dream",
+      "url": "https://open.spotify.com/track/46vGNHvQ4RL2LWddrDnR4T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Illumination of the Heart",
         "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
       },
@@ -591,22 +591,6 @@
       "duration_ms": 458373,
       "name": "Tonglen",
       "url": "https://open.spotify.com/track/2GiGFQOH4Dzb3hK895quaS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mystery of Light",
-        "url": "https://open.spotify.com/album/2U4w7DS7sZVl7uwWdp7wS9"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 305226,
-      "name": "Celestial Meadows",
-      "url": "https://open.spotify.com/track/6wkfsDSCPrfEAEfQo8XYjx"
     },
     {
       "added_at": null,
@@ -639,6 +623,22 @@
       "duration_ms": 416800,
       "name": "Cinque",
       "url": "https://open.spotify.com/track/0RDAF6UAfX2Yg6CVd9kI3p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mystery of Light",
+        "url": "https://open.spotify.com/album/2U4w7DS7sZVl7uwWdp7wS9"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 305226,
+      "name": "Celestial Meadows",
+      "url": "https://open.spotify.com/track/6wkfsDSCPrfEAEfQo8XYjx"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tibet Nada Himalaya 2",
-        "url": "https://open.spotify.com/album/4iPs5HUdRml1LOnNw8aL73"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 545440,
-      "name": "Khumbe",
-      "url": "https://open.spotify.com/track/1LUL3P83KWBsfZFoypbJAH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Garden of the Gods",
         "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 327106,
       "name": "Felsen im Licht",
       "url": "https://open.spotify.com/track/114goyp7beFWnmtoOsYtJo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tibet Nada Himalaya 2",
+        "url": "https://open.spotify.com/album/4iPs5HUdRml1LOnNw8aL73"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 545440,
+      "name": "Khumbe",
+      "url": "https://open.spotify.com/track/1LUL3P83KWBsfZFoypbJAH"
     }
   ],
   "unique_name": "This Is Deuter",

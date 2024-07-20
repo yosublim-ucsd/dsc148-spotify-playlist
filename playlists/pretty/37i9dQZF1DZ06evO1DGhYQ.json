@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 7552,
+  "num_followers": 7559,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAABg4ID+/pWL1jkMzBysk3Qe",
+  "snapshot_id": "ZphbAAAAAACic69tphQQ92AZyfSeJYke",
   "tracks": [
     {
       "added_at": null,
@@ -219,26 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30b5\u30dc\u30bf\u30fc\u30b8\u30e5 (VS. ALI)",
-        "url": "https://open.spotify.com/album/6mFPQaQNRgWZNbFzsep3AD"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        },
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 256006,
-      "name": "\u30b5\u30dc\u30bf\u30fc\u30b8\u30e5 - VS. ALI",
-      "url": "https://open.spotify.com/track/5VKxSh8WcTp5M3Uv9SD81Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOVE, MUSIC AND DANCE",
         "url": "https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 289293,
       "name": "FEELIN' GOOD",
       "url": "https://open.spotify.com/track/51ekzjfX01cxNzjElR8bpH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30b5\u30dc\u30bf\u30fc\u30b8\u30e5 (VS. ALI)",
+        "url": "https://open.spotify.com/album/6mFPQaQNRgWZNbFzsep3AD"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 256006,
+      "name": "\u30b5\u30dc\u30bf\u30fc\u30b8\u30e5 - VS. ALI",
+      "url": "https://open.spotify.com/track/5VKxSh8WcTp5M3Uv9SD81Y"
     },
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INGLOURIOUS EASTERN COWBOY",
-        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 209206,
-      "name": "Dance You, Matilda",
-      "url": "https://open.spotify.com/track/3zhx8K4SxwHLWtAZRiNdsq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOVE, MUSIC AND DANCE",
         "url": "https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 243000,
       "name": "DAZE N SUNSHINE",
       "url": "https://open.spotify.com/track/4AbZXj7bkhxmnhFab2Ej8l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INGLOURIOUS EASTERN COWBOY",
+        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 209206,
+      "name": "Dance You, Matilda",
+      "url": "https://open.spotify.com/track/3zhx8K4SxwHLWtAZRiNdsq"
     },
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INGLOURIOUS EASTERN COWBOY",
-        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "\u6728\u6751\u6634",
-          "url": "https://open.spotify.com/artist/7xgoSh8BBoyKV02juTgUag"
-        }
-      ],
-      "duration_ms": 246839,
-      "name": "Whole Lotta Love",
-      "url": "https://open.spotify.com/track/0qRGWueuXYkUmVTaVMXDRD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOVE, MUSIC AND DANCE",
         "url": "https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 241133,
       "name": "FIGHT DUB CLUB",
       "url": "https://open.spotify.com/track/2Jgq2YG8bYFnwqFFFr0rbx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INGLOURIOUS EASTERN COWBOY",
+        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "\u6728\u6751\u6634",
+          "url": "https://open.spotify.com/artist/7xgoSh8BBoyKV02juTgUag"
+        }
+      ],
+      "duration_ms": 246839,
+      "name": "Whole Lotta Love",
+      "url": "https://open.spotify.com/track/0qRGWueuXYkUmVTaVMXDRD"
     },
     {
       "added_at": null,
@@ -443,6 +443,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LOVE, MUSIC AND DANCE",
+        "url": "https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "Dos Monos",
+          "url": "https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv"
+        }
+      ],
+      "duration_ms": 305106,
+      "name": "BETTER DAYS",
+      "url": "https://open.spotify.com/track/5qNZWyunNyD505JVslU1TE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LOST IN PARADISE",
         "url": "https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 347706,
       "name": "FAITH",
       "url": "https://open.spotify.com/track/3FSzby80mFX8cBt1zGbjUr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LOVE, MUSIC AND DANCE",
-        "url": "https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "Dos Monos",
-          "url": "https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv"
-        }
-      ],
-      "duration_ms": 305106,
-      "name": "BETTER DAYS",
-      "url": "https://open.spotify.com/track/5qNZWyunNyD505JVslU1TE"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Tomorrow (Give It Up)",
-        "url": "https://open.spotify.com/album/6w42YzfePjrV7RWiJeIXoS"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 266406,
-      "name": "No Tomorrow (Give It Up)",
-      "url": "https://open.spotify.com/track/54CxfEHBo4orjryP30IcDy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOVE, MUSIC AND DANCE",
         "url": "https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 254773,
       "name": "KEEP YOUR HEAD UP",
       "url": "https://open.spotify.com/track/6obSLuEgeFp54c5iDa8BsR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Tomorrow (Give It Up)",
+        "url": "https://open.spotify.com/album/6w42YzfePjrV7RWiJeIXoS"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 266406,
+      "name": "No Tomorrow (Give It Up)",
+      "url": "https://open.spotify.com/track/54CxfEHBo4orjryP30IcDy"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LONELY LONELY",
-        "url": "https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 277700,
-      "name": "LONELY LONELY",
-      "url": "https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOVE, MUSIC AND DANCE",
         "url": "https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 246866,
       "name": "METROPOLIS",
       "url": "https://open.spotify.com/track/6K67HToFgqOrit9qtRJZdB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LONELY LONELY",
+        "url": "https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 277700,
+      "name": "LONELY LONELY",
+      "url": "https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP"
     },
     {
       "added_at": null,
@@ -707,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u8e0a\u6551\u6025\u7bb1",
-        "url": "https://open.spotify.com/album/6h4DnOV7gOz7jvVy1MhoXr"
-      },
-      "artists": [
-        {
-          "name": "s**t kingz",
-          "url": "https://open.spotify.com/artist/4eRPT3dCcYsuZ2dFqqcaYx"
-        },
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 166850,
-      "name": "KID feat. LEO (ALI)",
-      "url": "https://open.spotify.com/track/7iNdSSdLG2X06P9c9WNHrb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SHOW TIME",
         "url": "https://open.spotify.com/album/24yJA2oiDwau8NsrcqH2lw"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 284200,
       "name": "SHOW TIME",
       "url": "https://open.spotify.com/track/5eOOnFQHQdb5DpJvZRPS2l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u8e0a\u6551\u6025\u7bb1",
+        "url": "https://open.spotify.com/album/6h4DnOV7gOz7jvVy1MhoXr"
+      },
+      "artists": [
+        {
+          "name": "s**t kingz",
+          "url": "https://open.spotify.com/artist/4eRPT3dCcYsuZ2dFqqcaYx"
+        },
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 166850,
+      "name": "KID feat. LEO (ALI)",
+      "url": "https://open.spotify.com/track/7iNdSSdLG2X06P9c9WNHrb"
     },
     {
       "added_at": null,

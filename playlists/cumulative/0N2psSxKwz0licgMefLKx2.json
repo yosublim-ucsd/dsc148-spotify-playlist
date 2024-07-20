@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
+    },
+    {
+      "album": {
         "name": "A Lot With A Little",
         "url": "https://open.spotify.com/album/7kvd9kffW9lfOCpq0uUyqB"
       },
@@ -88,7 +106,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 160680,
       "name": "Ain't Doin' Jack",
       "url": "https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH"
@@ -1011,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "Free Like",
+        "url": "https://open.spotify.com/album/3oLm7KrYF4ZMdqlialglaN"
+      },
+      "artists": [
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169114,
+      "name": "Free Like",
+      "url": "https://open.spotify.com/track/1pRvzjKNkW5DY1ycqAftIR"
+    },
+    {
+      "album": {
         "name": "Gather Round",
         "url": "https://open.spotify.com/album/6Xy0LHeThG8pU58oy9d28x"
       },
@@ -1235,6 +1271,24 @@
     },
     {
       "album": {
+        "name": "Goodnight Into Good Morning",
+        "url": "https://open.spotify.com/album/2pcIsFiRHO0PG0rzBQNVyy"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Goodnight Into Good Morning",
+      "url": "https://open.spotify.com/track/5gG9NdRDVie8Ylxe0ZQ5DL"
+    },
+    {
+      "album": {
         "name": "Whitsitt Chapel",
         "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
@@ -1438,7 +1492,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
@@ -1756,7 +1810,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 144142,
       "name": "Make It Me",
       "url": "https://open.spotify.com/track/64K1W7gk4jrESBbZw6JnyD"
@@ -2038,7 +2092,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 205466,
       "name": "Never Been Over",
       "url": "https://open.spotify.com/track/5CfsbLLaJ6GGzEuRjYFRhT"
@@ -2146,7 +2200,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 178370,
       "name": "Not So Much No More",
       "url": "https://open.spotify.com/track/2FKqYH559u3BIhdKpPRKtE"
@@ -3576,6 +3630,24 @@
       "duration_ms": 267893,
       "name": "White Horse",
       "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
+    },
+    {
+      "album": {
+        "name": "Who Hurt You",
+        "url": "https://open.spotify.com/album/2EY46Rynp99lMD9mAZcjHm"
+      },
+      "artists": [
+        {
+          "name": "Kashus Culpepper",
+          "url": "https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222844,
+      "name": "Who Hurt You",
+      "url": "https://open.spotify.com/track/310C0MGzgqHlNpgAV82zWo"
     },
     {
       "album": {

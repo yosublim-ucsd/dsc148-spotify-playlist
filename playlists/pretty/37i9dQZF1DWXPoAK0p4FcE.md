@@ -2,29 +2,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Blackbeans
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Raine Cloud
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,611 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,621 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [เอเรนเดล \(EARENDEL\)](https://open.spotify.com/track/3cvnQ06TvhaROQrObb4Cai) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [เอเรนเดล \(EARENDEL\)](https://open.spotify.com/album/5xjy0OQeE3AhKyov5snKIM) | 4:39 |
+| 1 | [เพียงแค่ถามเธอดู \(Can I ask\)](https://open.spotify.com/track/7qSVwjc5M7zZwBUshWTS1z) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [I’M GOING TO KEEP RUNNING AWAY](https://open.spotify.com/album/1EBJeRNnDr755VZGAtDTaM) | 4:14 |
 | 2 | [ที่ข้างๆฉัน \(Bolster\)](https://open.spotify.com/track/1LaVe5YHUEU4qQ8wt3TZHR) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [Hey Mom,Did You See Me In The Newspaper?](https://open.spotify.com/album/2QGUzPveseqBGL7bptAnkx) | 3:36 |
-| 3 | [Destiny](https://open.spotify.com/track/58Jm9WlrD6smHP4SLS0Wdp) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [BLACKBEANS](https://open.spotify.com/album/7zwzgZ4Z81rXLAbR24aJSZ) | 4:02 |
-| 4 | [เพียงแค่ถามเธอดู \(Can I ask\)](https://open.spotify.com/track/7qSVwjc5M7zZwBUshWTS1z) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [I’M GOING TO KEEP RUNNING AWAY](https://open.spotify.com/album/1EBJeRNnDr755VZGAtDTaM) | 4:14 |
-| 5 | [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/track/0KdiGdEM5WRIcSWqFjT33b) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/album/6AQEMLftDGMFTOAEybxBBv) | 3:39 |
-| 6 | [ฉันแอบซ่อนน้ำตาใต้หน้าที่มีรอยยิ้ม](https://open.spotify.com/track/0KXS1sXRLxw3upSC4mBOMH) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW), [BAY6IX](https://open.spotify.com/artist/3IQnUNxVytImduQRIg84qJ), [LALA](https://open.spotify.com/artist/031xscLHmwMfKVrhUCdGoq) | [ฉันแอบซ่อนน้ำตาใต้หน้าที่มีรอยยิ้ม](https://open.spotify.com/album/13ENp47hLKvUPDaJLbNxWA) | 4:56 |
-| 7 | [พอแล้ว\(แต่อีกแล้ว\)](https://open.spotify.com/track/6cvASv3yuhmXUkpvArYNGo) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [พอแล้ว\(แต่อีกแล้ว\)](https://open.spotify.com/album/1dtLsETExRe02RSDxixrAI) | 4:28 |
-| 8 | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/track/4rWdiOhPQVk4vKff04obZl) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/album/1p1xh6fnnEINwLJ1NY7JFL) | 4:43 |
-| 9 | [Pink](https://open.spotify.com/track/2MvwYhejHpLfBcptTEWhDL) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:15 |
-| 10 | [ถามดาว \(Please Be Kind\)](https://open.spotify.com/track/7pSHw1T4Xwt4byS6XIcDjA) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ถามดาว \(Please Be Kind\)](https://open.spotify.com/album/5vm7a9G3ySZKCOjRi7VWPH) | 3:36 |
-| 11 | [ยอม \(White Flag\)](https://open.spotify.com/track/1VfxBuhaRC8rnE4VAPQ4Qk) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [All My Purple Feelings](https://open.spotify.com/album/697YQLmLHyLPeO73NGvVqs) | 3:31 |
-| 12 | [ใจลอย](https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ใจลอย](https://open.spotify.com/album/0qmKBO8NsxqowXTbcXpSiG) | 3:17 |
-| 13 | [รสหวาน](https://open.spotify.com/track/2Ab1HQjbMcqHY3TkTycrYr) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ท้องฟ้าจำลอง](https://open.spotify.com/album/5x8QUkAqNR1sV93J3XdVPr) | 4:53 |
-| 14 | [ฉันคือนักสะสมความเศร้า](https://open.spotify.com/track/4pfjFUrtfnnkADqijqKmzP) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ฉันคือนักสะสมความเศร้า](https://open.spotify.com/album/10y1B7xbbawrkQ9VZ6uXZC) | 4:48 |
-| 15 | [ปล่อยดาว](https://open.spotify.com/track/1fUncVCIUnmf6qihsRkoBE) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ปล่อยดาว](https://open.spotify.com/album/3Hpw5tqpBFDW85WnumEVTF) | 4:13 |
-| 16 | [ต่อจากคืนนี้ \(ฉันจะไม่มีเธอแล้ว\) \- Gloomy](https://open.spotify.com/track/0dXpGBC0pUivUk96OrptbQ) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ต่อจากคืนนี้ \(ฉันจะไม่มีเธอแล้ว\) \[Gloomy\]](https://open.spotify.com/album/15Vu38hxu9KIZHeU9ZKsjW) | 4:17 |
-| 17 | [ผัดวัน \(no/more\)](https://open.spotify.com/track/34dNJVGauEMrLWoc82EHxv) | [electric.neon.lamp](https://open.spotify.com/artist/4TrJEtCSLvvnpuPO4uAesD) | [ผัดวัน \(no/more\)](https://open.spotify.com/album/5un08eM6t9HLY1iEz2vjDE) | 4:44 |
+| 3 | [badbye](https://open.spotify.com/track/5td3kJel4JdbqLx5PqgVUA) | [Raine Cloud](https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS) | [badbye](https://open.spotify.com/album/3DpfRjFl8wgXdhkWO3GjEv) | 3:56 |
+| 4 | [เอเรนเดล \(EARENDEL\)](https://open.spotify.com/track/3cvnQ06TvhaROQrObb4Cai) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [เอเรนเดล \(EARENDEL\)](https://open.spotify.com/album/5xjy0OQeE3AhKyov5snKIM) | 4:39 |
+| 5 | [Destiny](https://open.spotify.com/track/58Jm9WlrD6smHP4SLS0Wdp) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [BLACKBEANS](https://open.spotify.com/album/7zwzgZ4Z81rXLAbR24aJSZ) | 4:02 |
+| 6 | [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/track/0KdiGdEM5WRIcSWqFjT33b) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/album/6AQEMLftDGMFTOAEybxBBv) | 3:39 |
+| 7 | [ฉันแอบซ่อนน้ำตาใต้หน้าที่มีรอยยิ้ม](https://open.spotify.com/track/0KXS1sXRLxw3upSC4mBOMH) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW), [BAY6IX](https://open.spotify.com/artist/3IQnUNxVytImduQRIg84qJ), [LALA](https://open.spotify.com/artist/031xscLHmwMfKVrhUCdGoq) | [ฉันแอบซ่อนน้ำตาใต้หน้าที่มีรอยยิ้ม](https://open.spotify.com/album/13ENp47hLKvUPDaJLbNxWA) | 4:56 |
+| 8 | [พอแล้ว\(แต่อีกแล้ว\)](https://open.spotify.com/track/6cvASv3yuhmXUkpvArYNGo) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [พอแล้ว\(แต่อีกแล้ว\)](https://open.spotify.com/album/1dtLsETExRe02RSDxixrAI) | 4:28 |
+| 9 | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/track/4rWdiOhPQVk4vKff04obZl) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/album/1p1xh6fnnEINwLJ1NY7JFL) | 4:43 |
+| 10 | [Pink](https://open.spotify.com/track/2MvwYhejHpLfBcptTEWhDL) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:15 |
+| 11 | [ถามดาว \(Please Be Kind\)](https://open.spotify.com/track/7pSHw1T4Xwt4byS6XIcDjA) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ถามดาว \(Please Be Kind\)](https://open.spotify.com/album/5vm7a9G3ySZKCOjRi7VWPH) | 3:36 |
+| 12 | [ยอม \(White Flag\)](https://open.spotify.com/track/1VfxBuhaRC8rnE4VAPQ4Qk) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [All My Purple Feelings](https://open.spotify.com/album/697YQLmLHyLPeO73NGvVqs) | 3:31 |
+| 13 | [ใจลอย](https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ใจลอย](https://open.spotify.com/album/0qmKBO8NsxqowXTbcXpSiG) | 3:17 |
+| 14 | [รสหวาน](https://open.spotify.com/track/2Ab1HQjbMcqHY3TkTycrYr) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ท้องฟ้าจำลอง](https://open.spotify.com/album/5x8QUkAqNR1sV93J3XdVPr) | 4:53 |
+| 15 | [ฉันคือนักสะสมความเศร้า](https://open.spotify.com/track/4pfjFUrtfnnkADqijqKmzP) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ฉันคือนักสะสมความเศร้า](https://open.spotify.com/album/10y1B7xbbawrkQ9VZ6uXZC) | 4:48 |
+| 16 | [ปล่อยดาว](https://open.spotify.com/track/1fUncVCIUnmf6qihsRkoBE) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ปล่อยดาว](https://open.spotify.com/album/3Hpw5tqpBFDW85WnumEVTF) | 4:13 |
+| 17 | [ต่อจากคืนนี้ \(ฉันจะไม่มีเธอแล้ว\) \- Gloomy](https://open.spotify.com/track/0dXpGBC0pUivUk96OrptbQ) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ต่อจากคืนนี้ \(ฉันจะไม่มีเธอแล้ว\) \[Gloomy\]](https://open.spotify.com/album/15Vu38hxu9KIZHeU9ZKsjW) | 4:17 |
 | 18 | [ในตอนที่มันเกิด \(Meanwhile\)](https://open.spotify.com/track/0wU9CXGETgREUgHC4YMn7g) | [Slur](https://open.spotify.com/artist/7G4qd0NlBQf4AxC0klpuDY) | [ในตอนที่มันเกิด \(Meanwhile\)](https://open.spotify.com/album/2T0raSSftyOKI6t5SG0QOn) | 4:18 |
 | 19 | [Manila](https://open.spotify.com/track/7IOQobXnONFEYsvbngKiho) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [T R E E](https://open.spotify.com/album/17DQWeQS7HlLcufeV1vAMY) | 4:09 |
 | 20 | [ไม่ใกล้เคียงฉันเลย](https://open.spotify.com/track/1xOZwZkn1fFUb2e1pwMjRt) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [ไม่ใกล้เคียงฉันเลย](https://open.spotify.com/album/7tFLU2QlYvNCnUQKLV26hD) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 | 49 | [ไม่เป็นไรนะเธอ](https://open.spotify.com/track/1eQUklIPZutkbl723BdQQy) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ไม่เป็นไรนะเธอ](https://open.spotify.com/album/0x8o1AMHFKCGIxpmQn8tVL) | 4:36 |
 | 50 | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/track/6s9gVijXmSRNHc7ed9stqE) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/album/1lZTrq8sWbQ5DpV1K1hvr7) | 4:36 |
 
-Snapshot ID: `ZoeSyAAAAAB97gLGiD3z0eryDQSiXC2K`
+Snapshot ID: `ZppGWgAAAACXySiC7EjyYeymEnD3P4z0`

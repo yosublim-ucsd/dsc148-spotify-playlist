@@ -1,6 +1,6 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: 10-FEET",
-  "num_followers": 45298,
+  "num_followers": 45303,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2024-07-16 16:24:49",
       "album": {
+        "name": "\u307c\u3061\u307c\u3061\u30d9\u30c6\u30e9\u30f3",
+        "url": "https://open.spotify.com/album/7cCJXG5AWEk7aeAcpQFRwm"
+      },
+      "artists": [
+        {
+          "name": "GOKUMON(UchikubiGokumonDoukoukai)",
+          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
+        }
+      ],
+      "duration_ms": 207301,
+      "name": "\u90e8\u9577\u3077\u3063\u3061\u3087\u3069\u3046\uff1f",
+      "url": "https://open.spotify.com/track/2Oz4Nt5wvOhvh5DTT8PrqR"
+    },
+    {
+      "added_at": "2024-07-16 16:24:49",
+      "album": {
         "name": "PALEHELL",
         "url": "https://open.spotify.com/album/061Fln1SY6RputuFt6GP5N"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 230835,
       "name": "I'm ready to die for my friends feat. VIGORMAN",
       "url": "https://open.spotify.com/track/3hopU0u5AXFkY0qcAxpSSd"
-    },
-    {
-      "added_at": "2024-07-16 16:24:49",
-      "album": {
-        "name": "\u307c\u3061\u307c\u3061\u30d9\u30c6\u30e9\u30f3",
-        "url": "https://open.spotify.com/album/7cCJXG5AWEk7aeAcpQFRwm"
-      },
-      "artists": [
-        {
-          "name": "GOKUMON(UchikubiGokumonDoukoukai)",
-          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
-        }
-      ],
-      "duration_ms": 207301,
-      "name": "\u90e8\u9577\u3077\u3063\u3061\u3087\u3069\u3046\uff1f",
-      "url": "https://open.spotify.com/track/2Oz4Nt5wvOhvh5DTT8PrqR"
     },
     {
       "added_at": "2024-07-16 16:24:49",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2024-07-16 16:24:49",
       "album": {
+        "name": "BATMAN",
+        "url": "https://open.spotify.com/album/4TJQJh57ZDZo9eO0nICNFX"
+      },
+      "artists": [
+        {
+          "name": "Petit Brabancon",
+          "url": "https://open.spotify.com/artist/0hS6BAggi7bO0BrnJLg8Ad"
+        }
+      ],
+      "duration_ms": 178938,
+      "name": "BATMAN",
+      "url": "https://open.spotify.com/track/2mjmpNRKFWlPXiN3KCfK8t"
+    },
+    {
+      "added_at": "2024-07-16 16:24:49",
+      "album": {
         "name": "\u30e6\u30a8\u30cb",
         "url": "https://open.spotify.com/album/1ZuPsCdjOY2hJyM3Y6KO84"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 240550,
       "name": "\u30e6\u30a8\u30cb",
       "url": "https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET"
-    },
-    {
-      "added_at": "2024-07-16 16:24:49",
-      "album": {
-        "name": "Born Again",
-        "url": "https://open.spotify.com/album/1klS1EXSjRdF0bXuTMcHZO"
-      },
-      "artists": [
-        {
-          "name": "BRIDEAR",
-          "url": "https://open.spotify.com/artist/3h6F7NaadGF3Ayf3FJBjdR"
-        }
-      ],
-      "duration_ms": 320980,
-      "name": "Still Burning",
-      "url": "https://open.spotify.com/track/5Ep7HRnmu32mSkk1U1eaYQ"
     },
     {
       "added_at": "2024-07-16 16:24:49",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2024-07-16 16:24:49",
       "album": {
-        "name": "BATMAN",
-        "url": "https://open.spotify.com/album/4TJQJh57ZDZo9eO0nICNFX"
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/1klS1EXSjRdF0bXuTMcHZO"
       },
       "artists": [
         {
-          "name": "Petit Brabancon",
-          "url": "https://open.spotify.com/artist/0hS6BAggi7bO0BrnJLg8Ad"
+          "name": "BRIDEAR",
+          "url": "https://open.spotify.com/artist/3h6F7NaadGF3Ayf3FJBjdR"
         }
       ],
-      "duration_ms": 178938,
-      "name": "BATMAN",
-      "url": "https://open.spotify.com/track/2mjmpNRKFWlPXiN3KCfK8t"
+      "duration_ms": 320980,
+      "name": "Still Burning",
+      "url": "https://open.spotify.com/track/5Ep7HRnmu32mSkk1U1eaYQ"
     },
     {
       "added_at": "2024-07-16 16:24:49",

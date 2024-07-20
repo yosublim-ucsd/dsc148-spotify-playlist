@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. <br/>Cover:  Taves
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,620 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,638 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 9 | [Olufunmi Reimagined](https://open.spotify.com/track/5QdTZO8YLH3KESTPPZ0lW6) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Olufunmi Reimagined](https://open.spotify.com/album/7HpccOsoUG11qXcD5i3Pib) | 3:04 |
 | 10 | [Get Down](https://open.spotify.com/track/0Tl69SxWCzFa4PD5TRZhR0) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL), [GOLD](https://open.spotify.com/artist/3G7vnr4LuKUuDU3hgIZSMM) | [GOLD II](https://open.spotify.com/album/7gLdGJsMu7LdkvLrzRfBXn) | 2:54 |
 | 11 | [Looking for God](https://open.spotify.com/track/3QLYMOcolTK2pn7D0aA94M) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Looking for God](https://open.spotify.com/album/6mPOuVIBfjt3Qj8DySayjZ) | 2:24 |
-| 12 | [Finally](https://open.spotify.com/track/2ovgT7Y4gcvZkVFf3cd320) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq) | [Alusa Why Are You Topless? \(Deluxe\)](https://open.spotify.com/album/6piDT78sQ40k6xC5r9A8st) | 3:09 |
+| 12 | [Finally \(feat\. Sons of Sonix\)](https://open.spotify.com/track/2ovgT7Y4gcvZkVFf3cd320) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq), [Sons of Sonix](https://open.spotify.com/artist/24ml2a3Gc8V9UX6DfAhdqZ) | [Alusa Why Are You Topless? \(Deluxe\)](https://open.spotify.com/album/6piDT78sQ40k6xC5r9A8st) | 3:09 |
 | 13 | [Yebo](https://open.spotify.com/track/3GLF4uV3uS1ImSEPyhLZLp) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Djy Biza](https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING) | [Turn Off The Lights](https://open.spotify.com/album/6muXgX86KpOiFDo0P07e7d) | 4:23 |
 | 14 | [oSHA\-PIANO](https://open.spotify.com/track/7Ac8a2AhlTxlbmgj4SAEFk) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [oSHA\-PIANO](https://open.spotify.com/album/5Blk5rVGndIswfPVDBIMjr) | 2:55 |
 | 15 | [Count My Blessings](https://open.spotify.com/track/43ZHlCWp1TAA1dyMxNh28L) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Count My Blessings](https://open.spotify.com/album/7cr2lkX9TqXS0uN0v5lPoX) | 2:42 |

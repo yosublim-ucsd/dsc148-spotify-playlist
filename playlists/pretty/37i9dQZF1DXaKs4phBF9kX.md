@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 
 > Rock on repeat during the summers of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,721 likes - 70 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,758 likes - 70 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 | 42 | [Rag Doll](https://open.spotify.com/track/2KCJYwlBWxdlwyIYckIf6V) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 4:25 |
 | 43 | [White Wedding](https://open.spotify.com/track/0bvpSvOYt4KTfZIZJmyFOs) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Vital Idol](https://open.spotify.com/album/2PSsUGkAAAnBmUUSNBU6se) | 8:26 |
 | 44 | [Hold On Tight](https://open.spotify.com/track/6yBbmHFTxihIDFAerzDMGi) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Time](https://open.spotify.com/album/4k1GJg2poyo6hwWLqJn9C2) | 3:06 |
-| 45 | [When Doves Cry](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 5:52 |
-| 46 | [Big Log \- 2006 Remaster](https://open.spotify.com/track/7257drAN3eTtaaUUPw95B3) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y) | [The Principle of Moments](https://open.spotify.com/album/7GwY9afibQt4oUfsOucXpl) | 5:04 |
+| 45 | [Big Log \- 2006 Remaster](https://open.spotify.com/track/7257drAN3eTtaaUUPw95B3) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y) | [The Principle of Moments](https://open.spotify.com/album/7GwY9afibQt4oUfsOucXpl) | 5:04 |
+| 46 | [When Doves Cry](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 5:52 |
 | 47 | [Sledgehammer \- 2012 Remaster](https://open.spotify.com/track/4AUS8KNz7zX8XFu9L38GT0) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3) | 5:11 |
 | 48 | [Emotional Rescue \- Remastered 2009](https://open.spotify.com/track/5IATbFZds3cbOx8YxuMuko) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Emotional Rescue \(2009 Re\-Mastered\)](https://open.spotify.com/album/5mEjFOLcBs94wSchOtMCTB) | 5:39 |
 | 49 | [All I Want Is You](https://open.spotify.com/track/34sL4eaI8UKWOyYpCvoboU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 6:29 |

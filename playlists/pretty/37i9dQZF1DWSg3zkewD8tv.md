@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 
 > An all\-Australian soundtrack to snags, bread and tomato sauce!
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,489 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,494 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 | 40 | [The Boys Light Up \- Remastered 2013](https://open.spotify.com/track/687i9z2ZCKNfzpmzs7HxOu) | [Australian Crawl](https://open.spotify.com/artist/41fDGRDlzczk5Yo2wDo0H4) | [The Boys Light Up \(Remastered\)](https://open.spotify.com/album/4xDGaF0egAcfV0lDYc3PTV) | 4:41 |
 | 41 | [Can't Get You out of My Head](https://open.spotify.com/track/7m2g1kKuF7Tre2PzjK3Lnh) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv) | 3:50 |
 | 42 | [Great Southern Land](https://open.spotify.com/track/3OmEIZ6bYHqlReQ1YLaRHV) | [ICEHOUSE](https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk) | [Primitive Man \(Bonus Track Edition\)](https://open.spotify.com/album/5B3wFWPqWgpRnan9sSSQzr) | 5:17 |
-| 43 | [Wish You Well](https://open.spotify.com/track/48xq0DnfAKtsFjK1L7GZx9) | [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Tea & Sympathy](https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I) | 2:31 |
-| 44 | [The Horses](https://open.spotify.com/track/5z6a02FGoVsXTrJ4GiVNxE) | [Daryl Braithwaite](https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe) | [Rise](https://open.spotify.com/album/6Zv9GWVeSi7lqYGxxhawOq) | 4:16 |
-| 45 | [She's a Riot](https://open.spotify.com/track/4xy9nsO8EX4OR0c6lf0WFu) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Learn to Exist](https://open.spotify.com/album/3DWhWfiW17a3UbKhdGCyyt) | 3:41 |
+| 43 | [She's a Riot](https://open.spotify.com/track/4xy9nsO8EX4OR0c6lf0WFu) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Learn to Exist](https://open.spotify.com/album/3DWhWfiW17a3UbKhdGCyyt) | 3:41 |
+| 44 | [Wish You Well](https://open.spotify.com/track/48xq0DnfAKtsFjK1L7GZx9) | [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Tea & Sympathy](https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I) | 2:31 |
+| 45 | [The Horses](https://open.spotify.com/track/5z6a02FGoVsXTrJ4GiVNxE) | [Daryl Braithwaite](https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe) | [Rise](https://open.spotify.com/album/6Zv9GWVeSi7lqYGxxhawOq) | 4:16 |
 | 46 | [Freak](https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:46 |
 | 47 | [Caress Your Soul](https://open.spotify.com/track/6CvgS2YcW7b3CqIXBBbfwp) | [Sticky Fingers](https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0) | [Caress Your Soul](https://open.spotify.com/album/2XiBbHgNjlt3JLz8j2S61k) | 2:57 |
-| 48 | [Eagle Rock \- 2011 Remaster](https://open.spotify.com/track/2nCXuFS4Dt4BpHkxA9rhPL) | [Daddy Cool](https://open.spotify.com/artist/5ht2HGrvbN9eDWJarHsou6) | [Daddy Who? Daddy Cool \(40th Anniversary Edition\)](https://open.spotify.com/album/4ZejRTERcKwWr0bc8CslGV) | 4:10 |
-| 49 | [Songbird](https://open.spotify.com/track/1Up0tMGTc3FKasn7WMrioE) | [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Tea & Sympathy](https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I) | 2:36 |
-| 50 | [Cheap Wine \- 2011 Remastered](https://open.spotify.com/track/3EkEomllpfXPPIGVFvZcEq) | [Cold Chisel](https://open.spotify.com/artist/1VcbchGlIfo3Gylxc3F076) | [East](https://open.spotify.com/album/4WQVLiXpiYlFpKXCyheZU3) | 3:25 |
+| 48 | [Feel the Way I Do](https://open.spotify.com/track/0TVwMTKyuSp41ytctKTA3T) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Quiet Ferocity](https://open.spotify.com/album/0RSKnjggldZx2NrKSOD913) | 3:25 |
+| 49 | [Eagle Rock \- 2011 Remaster](https://open.spotify.com/track/2nCXuFS4Dt4BpHkxA9rhPL) | [Daddy Cool](https://open.spotify.com/artist/5ht2HGrvbN9eDWJarHsou6) | [Daddy Who? Daddy Cool \(40th Anniversary Edition\)](https://open.spotify.com/album/4ZejRTERcKwWr0bc8CslGV) | 4:10 |
+| 50 | [April Sun in Cuba](https://open.spotify.com/track/0NKv1n25UpKKhZbp5UVV6P) | [Dragon](https://open.spotify.com/artist/622HMYOaiqowUmcd5t3b7t) | [Running Free](https://open.spotify.com/album/05frF9sl7GngNlYJp7V6fe) | 3:27 |
 
 Snapshot ID: `ZpCLDwAAAADqFYs0y2Swmy16EXDa/XV9`

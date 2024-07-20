@@ -2,7 +2,7 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> اجمد اغاني السين\. غلاف: مهاب
+> انت فاكر ان كومنتك السلبي حيهزني بالعكس بشتغل اكتر بعمل هت فابغتني\. غلاف: ابو الانوار
 
 330 songs - 16 hr 26 min
 
@@ -155,7 +155,7 @@
 | [LOGAN](https://open.spotify.com/track/3TFIDBWstsKUbXBGedJAWO) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [MESAMA3EEN](https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo) | 2:06 | 2022-08-23 | 2023-08-18 |
 | [Lojy](https://open.spotify.com/track/3dAhErSXqu7WxM5wJp48By) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [Riff](https://open.spotify.com/artist/3uMm7CPUx2akjaBXYIveP7) | [OK.](https://open.spotify.com/album/5MGO9Vex1LqakMmpJoANzZ) | 2:30 | 2024-02-22 |  |
 | [LOKLOK](https://open.spotify.com/track/5nXheavFnyhPyQXdO0jL3u) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG), [Farra](https://open.spotify.com/artist/4jaR2Xjm4FXiPM3JB1l0rT) | [LOKLOK](https://open.spotify.com/album/7rMduOQflk9P9TnxwRjs4X) | 3:39 | 2022-06-28 | 2022-10-14 |
-| [LUX FREESTYLE](https://open.spotify.com/track/2TqVFWAKTKCkGXMFRff6D4) | [HADY MOAMER](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD) | [LUX FREESTYLE](https://open.spotify.com/album/3Xlkyo7QJJX1Kzk9k4A0qp) | 2:29 | 2024-06-14 |  |
+| [LUX FREESTYLE](https://open.spotify.com/track/2TqVFWAKTKCkGXMFRff6D4) | [HADY MOAMER](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD) | [LUX FREESTYLE](https://open.spotify.com/album/3Xlkyo7QJJX1Kzk9k4A0qp) | 2:29 | 2024-06-14 | 2024-07-20 |
 | [M3 3DM E7TRAMY](https://open.spotify.com/track/0qql8zT1LEoL8NmbD4mtQ9) | [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [2000GEN](https://open.spotify.com/album/7LJMEIJvoJMwq2dXQDEAwk) | 2:32 | 2024-02-06 | 2024-04-27 |
 | [Ma 3aleena](https://open.spotify.com/track/0BZwBHaJKCClcVXIAZA0F5) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Ma 3aleena](https://open.spotify.com/album/6uisIEObaucNxczbcv67wc) | 3:26 | 2022-12-22 | 2023-02-08 |
 | [Ma 3Aleena](https://open.spotify.com/track/5QGPHt2jSENWFe6rHjMOz5) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Ma 3Aleena](https://open.spotify.com/album/1AO98h2bmjf2IOy0aRuRlc) | 3:26 | 2023-01-31 | 2023-03-10 |

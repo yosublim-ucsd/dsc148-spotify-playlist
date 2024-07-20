@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,392 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,393 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 63 | [IKAROS](https://open.spotify.com/track/4ct5cffZGIcSJ6P8iEToG2) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:38 |
 | 64 | [Remember When](https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Remember When](https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U) | 3:12 |
 | 65 | [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 |
-| 66 | [Fallen Flowers](https://open.spotify.com/track/7AZCidWfobiJzWoxPB67gr) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Fallen Flowers](https://open.spotify.com/album/4fJ7JtAbNfZikkfaU749h7) | 3:09 |
+| 66 | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/track/2Xm5Iz7jDPK0mqxbHHp5Mr) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/album/4GJeD72vDjBoOjNYmBF7Vo) | 2:32 |
 | 67 | [Chillin' In The Dark](https://open.spotify.com/track/3D7W9qlaXDoC6PWVxnUB9k) | [Everyday is Sunday](https://open.spotify.com/artist/4ucm9OKtO5fac0lLRsngDW) | [Chillin' In The Dark](https://open.spotify.com/album/4JdMw6PQjcsIl3AjYxhhCo) | 2:42 |
-| 68 | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/track/2Xm5Iz7jDPK0mqxbHHp5Mr) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/album/4GJeD72vDjBoOjNYmBF7Vo) | 2:32 |
+| 68 | [Fallen Flowers](https://open.spotify.com/track/7AZCidWfobiJzWoxPB67gr) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Fallen Flowers](https://open.spotify.com/album/4fJ7JtAbNfZikkfaU749h7) | 3:09 |
 | 69 | [A Pervasive Awareness](https://open.spotify.com/track/4nwdHLEuVcK8b6vfEpWD5N) | [HAPPY](https://open.spotify.com/artist/5GVmwlesqBw7eCqdX0YAEH) | [A Pervasive Awareness](https://open.spotify.com/album/0dfsOtFcCPaC78YrBBKmyF) | 3:26 |
 | 70 | [Laudate Dominum \(from Vespers, K\. 339\) \(Arr\. Víkingur Ólafsson\) \- Upright Piano](https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [From Afar](https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll) | 4:57 |
 | 71 | [Waltz In A Dream](https://open.spotify.com/track/5YeZ63yiI50Ip6c3528cG3) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Waltz In A Dream](https://open.spotify.com/album/57Pf9OL4e8Hh6mVfrW1MS1) | 2:17 |
-| 72 | [泡 \(ALBUM ver.\)](https://open.spotify.com/track/1RVHkDoAuGib7L8b9c2tBz) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 4:35 |
+| 72 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 |
 | 73 | [Left Unsaid](https://open.spotify.com/track/1AZzLOkvh2qA0pKwmJDY7Y) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [STRATA](https://open.spotify.com/album/07rIpcwC3NjdShBJn6GRAh) | 4:31 |
-| 74 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 |
+| 74 | [泡 \(ALBUM ver.\)](https://open.spotify.com/track/1RVHkDoAuGib7L8b9c2tBz) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 4:35 |
 | 75 | [キャンディ](https://open.spotify.com/track/5nP9OI4hFkkZ9WMEUeGNIB) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E), [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Trio & Charm](https://open.spotify.com/album/3SiofApkAxUnDhpEFzLB87) | 3:46 |
 | 76 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 |
 | 77 | [the pyre](https://open.spotify.com/track/13Wz1dyxgWPSDXGCm5dHtQ) | [Piezoluminescence](https://open.spotify.com/artist/39yIOX8TUTRhzYq6R7q0df), [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR), [mippopotamus](https://open.spotify.com/artist/0g5R6Ju7ftKle2mliZt6WF) | [the pyre](https://open.spotify.com/album/0Ae1E8Gs5Qtnpi27cwJl4f) | 2:40 |

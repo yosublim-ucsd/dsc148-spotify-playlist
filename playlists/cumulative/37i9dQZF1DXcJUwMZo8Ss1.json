@@ -935,6 +935,24 @@
     },
     {
       "album": {
+        "name": "Tauba Tauba (From \"Bad Newz\")",
+        "url": "https://open.spotify.com/album/0MUqt34IuJsdFAuQM57jKp"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207157,
+      "name": "Tauba Tauba (From \"Bad Newz\")",
+      "url": "https://open.spotify.com/track/1WaqQIJ0iENGWZ1QmYvYNK"
+    },
+    {
+      "album": {
         "name": "Tere Vaaste (From \"Zara Hatke Zara Bachke\") - Single",
         "url": "https://open.spotify.com/album/4GEXGGOjUBuSHR4KgaSngh"
       },

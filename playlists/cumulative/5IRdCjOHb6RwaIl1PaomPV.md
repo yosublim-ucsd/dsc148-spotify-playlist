@@ -4,7 +4,7 @@
 
 > The latest tracks from Mad Decent and friends\. New music from Devon Again and MRD, plus the latest cuts from Miss Madeline, Delachute + more.
 
-541 songs - 1 day 7 hr 7 min
+542 songs - 1 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Atti Dude](https://open.spotify.com/track/1PHgzVWfBVKaOnBf0n5iay) | [Akira Akira](https://open.spotify.com/artist/4LdGTb93DvRRpPwwVfPkR2) | [Atti Dude](https://open.spotify.com/album/26pzorAxKcmBbiAhiHCUrb) | 3:43 | 2022-10-17 | 2022-11-13 |
 | [Avaz\-e\-Del](https://open.spotify.com/track/1aungVYjP15s0WNgRha9Rf) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [Ground Groove](https://open.spotify.com/album/3pZfevjbuheybZyPZ7HKsC) | 2:10 | 2022-11-12 | 2023-03-15 |
 | [Baby](https://open.spotify.com/track/0t9FJ4OyMVlYXWqDZNFofP) | [Matisa](https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9) | [Baby Disco](https://open.spotify.com/album/4XnqJQJ1UbufLfCGNPAYHm) | 7:10 | 2024-02-10 |  |
-| [Baby You're A Star](https://open.spotify.com/track/5zhjQ18PepzPDl9uTz2NH2) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Baby You're A Star](https://open.spotify.com/album/476j0mz4vinyAeVJEZ5S8a) | 2:21 | 2024-01-05 |  |
+| [Baby You're A Star](https://open.spotify.com/track/5zhjQ18PepzPDl9uTz2NH2) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Baby You're A Star](https://open.spotify.com/album/476j0mz4vinyAeVJEZ5S8a) | 2:21 | 2024-01-05 | 2024-07-20 |
 | [Babylon \- Bree Runway & Jimmy Edgar Remix](https://open.spotify.com/track/2xw4gYnfIZkH4GO9zPMNVR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 2:48 | 2022-06-03 | 2022-08-06 |
 | [Back Seat \- Chris Lorenzo Remix](https://open.spotify.com/track/6ZbJz7FWWa3m5QbTudts8K) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Back Seat \(Chris Lorenzo Remix\)](https://open.spotify.com/album/1YGMmHM1bVkTfEt761AwRT) | 4:46 | 2022-06-03 | 2022-08-06 |
 | [back to tha](https://open.spotify.com/track/7dOzaKiaduAxuRfPSaTQwu) | [Casper Mcfadden](https://open.spotify.com/artist/5uh0sOdYjYSqXqSQqLA5cT) | [back to tha](https://open.spotify.com/album/2bSAP1x77JzDTAwzyiByp9) | 4:20 | 2023-01-20 | 2023-03-29 |
@@ -216,6 +216,7 @@
 | [Heartache](https://open.spotify.com/track/39GZz9WxQpwJul7NnfBTb3) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2) | 4:35 | 2024-05-10 |  |
 | [Heartbroken I'm Lonely](https://open.spotify.com/track/6HI3GAwMiAjk4L0Md7OmK8) | [Bear1Boss](https://open.spotify.com/artist/6Cd6nNgWZWZrlfrc4q0qJD) | [Integrity](https://open.spotify.com/album/1uVgC2vzEpfu7Y1l9jFxev) | 2:15 | 2023-01-20 | 2023-09-26 |
 | [Heatstroke](https://open.spotify.com/track/6i2E8aGMDCLYVhX2LI0YwH) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Heatstroke](https://open.spotify.com/album/7CqdojwzqTaoYu74bVwfmQ) | 2:46 | 2024-06-07 |  |
+| [Heaven or Not \- AMÉMÉ Remix](https://open.spotify.com/track/1X1DOR4j3Ztmad5nEPgfEz) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Heaven or Not \(AMÉMÉ Remix\)](https://open.spotify.com/album/5EFiIqfdukR7UWW3QWmLfB) | 2:57 | 2024-07-19 |  |
 | [Heavy On My Heart](https://open.spotify.com/track/1IjxlfejE7sf6C70vYGcmw) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [2 Faced, Pt\. 2](https://open.spotify.com/album/20WBtyZuLSGHtzJ02ZsY4p) | 2:42 | 2024-06-07 |  |
 | [Hello There \- VIP](https://open.spotify.com/track/1UTXMYlaH5yZZksc9xKZEq) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [Very Important Music](https://open.spotify.com/album/1hSyRaCKfMvbiTXXtlHW46) | 2:39 | 2022-06-03 | 2022-08-06 |
 | [High Rise](https://open.spotify.com/track/0jz3gUtyvKDcNKDZRjy0eS) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:30 | 2022-06-03 | 2022-08-06 |

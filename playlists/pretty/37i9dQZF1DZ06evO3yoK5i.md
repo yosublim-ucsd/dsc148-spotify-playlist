@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 
 > This is Eros Ramazzotti\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,482 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,526 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 | 45 | [Completamente Enamorados](https://open.spotify.com/track/0kz3GgE2wVAw7o5p8FeUdO) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Musica Es](https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh) | 4:11 |
 | 46 | [Una storia importante](https://open.spotify.com/track/17v4BXFKtbYmJFPqBgpGla) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros 30 \(Deluxe Version\)](https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz) | 4:08 |
 | 47 | [Amarti è l'immenso per me](https://open.spotify.com/track/6QIri6TN34y7YSvcsnT4Ln) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Antonella Bucci](https://open.spotify.com/artist/0nT6YKCtGrfEDXYVpbonQL) | [In Ogni Senso](https://open.spotify.com/album/23jtBhTUUUj9LvFlbl3tyD) | 4:24 |
-| 48 | [Toma la Luna](https://open.spotify.com/track/2mhUvNEvxUJKmZxJhTvcht) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [En Todos Los Sentidos](https://open.spotify.com/album/5jp9HpiAUultIxQR8OBwpH) | 3:53 |
-| 49 | [Ma che bello questo amore](https://open.spotify.com/track/12s8fpxTKhQl4HmKUKEYZv) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [In Certi Momenti](https://open.spotify.com/album/2tDqY2Aw9iCJtM9rtafPdd) | 4:09 |
-| 50 | [Yo sin ti \- Remastered 2021](https://open.spotify.com/track/4gXHMiZ4MXRo6nRWzu8oLq) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \[25th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo) | 4:13 |
+| 48 | [Se Bastasse Una Canzone](https://open.spotify.com/track/1Mc6y8Q3MYppvrCylqDkwO) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Pierangelo Cassano](https://open.spotify.com/artist/6CqL00R5aLssfYFfxef5b5), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl), [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Rob Mathes](https://open.spotify.com/artist/0h4fam4nEXq1bnQa4HDdrC), [Robbie Kondor](https://open.spotify.com/artist/2hfCYgRwaKOMYfqgYhK0SY), [Orchestra filarmonica di Torino](https://open.spotify.com/artist/2zv4J7wb7xNRbLAPimyxvU), [Marco Boemi](https://open.spotify.com/artist/2tYvY5iGtDhQ0eUwEaHnCx) | [The World Of Pavarotti](https://open.spotify.com/album/4sZtLMwl4ga9aV73G1Nn8D) | 4:35 |
+| 49 | [Toma la Luna](https://open.spotify.com/track/2mhUvNEvxUJKmZxJhTvcht) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [En Todos Los Sentidos](https://open.spotify.com/album/5jp9HpiAUultIxQR8OBwpH) | 3:53 |
+| 50 | [Ma che bello questo amore](https://open.spotify.com/track/12s8fpxTKhQl4HmKUKEYZv) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [In Certi Momenti](https://open.spotify.com/album/2tDqY2Aw9iCJtM9rtafPdd) | 4:09 |
 
-Snapshot ID: `ZpcJgAAAAADI+0xVoNWgQq+MZgRTXBPT`
+Snapshot ID: `ZphbAAAAAAB71aLxyqmwEzTW5m9CFX0g`

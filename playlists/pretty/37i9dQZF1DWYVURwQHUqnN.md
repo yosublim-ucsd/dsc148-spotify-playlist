@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Ninho x Niska
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,091,831 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,092,211 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 27 | [Saga](https://open.spotify.com/track/0Cnw4vb7xbbl6bkUaDcMaJ) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [AD VITAM ÆTERNAM](https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM) | 3:14 |
 | 28 | [Shayo](https://open.spotify.com/track/2e7qqQ8MkLa0h5xmHL5cso) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [LVDR](https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1) | 2:41 |
 | 29 | [Monaco](https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Monaco](https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT) | 2:21 |
-| 30 | [À QUOI TU JOUES](https://open.spotify.com/track/2fAymB6lhuXEQOhIrJZERU) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [MEC DE CITÉ SIMPLE](https://open.spotify.com/album/1VF9TOozMuDyuFU5maRA6M) | 3:03 |
+| 30 | [A QUOI TU JOUES](https://open.spotify.com/track/2fAymB6lhuXEQOhIrJZERU) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [MEC DE CITÉ SIMPLE](https://open.spotify.com/album/1VF9TOozMuDyuFU5maRA6M) | 3:03 |
 | 31 | [Confidences](https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Confidences](https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE) | 2:08 |
 | 32 | [Si Si](https://open.spotify.com/track/5iFu4sGrA7CqC6TYXn8sKc) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Leska](https://open.spotify.com/artist/0kRb2OhvXmS14Bop8FzFoS) | [Si Si](https://open.spotify.com/album/2q0V1wmNVUpZUxYy85r1y3) | 3:00 |
 | 33 | [MAMACITA](https://open.spotify.com/track/3qxnil0JyAWGS3vWxJyXEi) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [MAMACITA](https://open.spotify.com/album/4ZhmFglWYBzjI1hxNsjUPN) | 3:08 |

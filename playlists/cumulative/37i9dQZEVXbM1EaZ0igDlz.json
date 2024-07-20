@@ -129,6 +129,32 @@
     },
     {
       "album": {
+        "name": "Alibi (with Pabllo Vittar & Yseult)",
+        "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161655,
+      "name": "Alibi (with Pabllo Vittar & Yseult)",
+      "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
+    },
+    {
+      "album": {
         "name": "Amo aller Amos",
         "url": "https://open.spotify.com/album/2tlaiOi78UcXOTtsD3k48j"
       },
@@ -366,7 +392,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 138866,
       "name": "Baddies",
       "url": "https://open.spotify.com/track/66Bup3CXgRRl8z91EDHUIf"
@@ -1045,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "Escape (2022 Remaster)",
+        "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "Don't Stop Believin' (2022 Remaster)",
+      "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"
+    },
+    {
+      "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
       },
@@ -1060,6 +1104,32 @@
       "duration_ms": 261228,
       "name": "Down Bad",
       "url": "https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo"
+    },
+    {
+      "album": {
+        "name": "daf\u00fcr bin ich frei EP",
+        "url": "https://open.spotify.com/album/29zZ3SXwoesoaXX6PbmPFW"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        },
+        {
+          "name": "Drumla",
+          "url": "https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9"
+        },
+        {
+          "name": "Dauner",
+          "url": "https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135082,
+      "name": "eehhhyyy",
+      "url": "https://open.spotify.com/track/1cXo8i9dgutdqjhjz3Zwqq"
     },
     {
       "album": {
@@ -1234,7 +1304,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 147545,
       "name": "Fainting",
       "url": "https://open.spotify.com/track/10brJDxBAzKYAzNyi65kkT"
@@ -1252,7 +1322,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 129522,
       "name": "Fall Back",
       "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
@@ -1707,6 +1777,24 @@
     },
     {
       "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227032,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/1CDQzbCz4KSQxHe7LMEgRM"
+    },
+    {
+      "album": {
         "name": "Houdini",
         "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
       },
@@ -1718,7 +1806,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 227239,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
@@ -3070,7 +3158,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 135517,
       "name": "OPUS",
       "url": "https://open.spotify.com/track/3btquT03ILrWCKElu233EM"
@@ -4698,7 +4786,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 242373,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
@@ -4818,6 +4906,24 @@
       "duration_ms": 185066,
       "name": "We Will Rave",
       "url": "https://open.spotify.com/track/1QpWQMKfQ44QUN1dEg65T8"
+    },
+    {
+      "album": {
+        "name": "Wenn du mich kennst",
+        "url": "https://open.spotify.com/album/7pMfFFZsLEJeYIfKzkBnF9"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156600,
+      "name": "Wenn du mich kennst",
+      "url": "https://open.spotify.com/track/7wz5d9hBn3oaJJXb6YdhbS"
     },
     {
       "album": {
@@ -4982,7 +5088,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 141650,
       "name": "Willkommen in Autriche",
       "url": "https://open.spotify.com/track/0V3aF1AzXM09yHxdPjVPY4"

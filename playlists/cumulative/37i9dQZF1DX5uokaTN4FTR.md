@@ -2,7 +2,7 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: Jazzy
+> The UK's biggest dance playlist! Cover: Adam Port, Stryv
 
 604 songs - 1 day 7 hr 38 min
 
@@ -170,7 +170,7 @@
 | [Drive \(feat\. Wes Nelson\)](https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [Drive \(feat\. Wes Nelson\)](https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D) | 2:59 | 2021-11-03\* | 2021-11-19 |
 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2022-09-29 | 2023-02-10 |
 | [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 | 2022-08-25 | 2022-09-30 |
-| [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 | 2023-10-20 |  |
+| [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 | 2023-10-20 | 2024-07-20 |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-06-01 | 2023-12-15 |
 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 | 2022-12-02 | 2023-04-21 |
 | [Elevated](https://open.spotify.com/track/0qZ2NBUmGIaHzvUAfH43A0) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Elevated](https://open.spotify.com/album/6a3wDTIPiYQwXGkNAAye04) | 3:13 | 2023-03-08 | 2023-03-09 |

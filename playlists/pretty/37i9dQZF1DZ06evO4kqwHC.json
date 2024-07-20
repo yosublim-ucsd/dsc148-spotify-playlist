@@ -1,12 +1,12 @@
 {
-  "description": "This is Foo Fighters. Tutti i brani in un'unica playlist.",
-  "num_followers": 1071466,
+  "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
+  "num_followers": 1071593,
   "original_name": "This Is Foo Fighters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAAAelw9l0mKLFZ6BBGNNgTx7",
+  "snapshot_id": "ZphbAAAAAAAfDZzqGXfSUbAM6wmkW6y+",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saint Cecilia EP",
-        "url": "https://open.spotify.com/album/6wGcuJq8QjSeoYMJWgW7Wo"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 221666,
-      "name": "Saint Cecilia",
-      "url": "https://open.spotify.com/track/7bdUH0npz854dv3plG8ieT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Medicine At Midnight",
         "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 253840,
       "name": "Waiting On A War",
       "url": "https://open.spotify.com/track/4tA8lpQoWkMRWOZ29HbR86"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saint Cecilia EP",
+        "url": "https://open.spotify.com/album/6wGcuJq8QjSeoYMJWgW7Wo"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "Saint Cecilia",
+      "url": "https://open.spotify.com/track/7bdUH0npz854dv3plG8ieT"
     },
     {
       "added_at": null,

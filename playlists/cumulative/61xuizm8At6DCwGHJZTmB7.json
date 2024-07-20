@@ -4697,6 +4697,28 @@
     },
     {
       "album": {
+        "name": "In Control",
+        "url": "https://open.spotify.com/album/0fGXjNKhNZM7GqgWELYHHf"
+      },
+      "artists": [
+        {
+          "name": "Canyon Hills Worship",
+          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+        },
+        {
+          "name": "Michael Monroe",
+          "url": "https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260083,
+      "name": "In Control",
+      "url": "https://open.spotify.com/track/1XDuCQ3OIjm1dG4BjQOD9N"
+    },
+    {
+      "album": {
         "name": "In Everything",
         "url": "https://open.spotify.com/album/7rGYXpltwbc6lvQn1DG2RH"
       },

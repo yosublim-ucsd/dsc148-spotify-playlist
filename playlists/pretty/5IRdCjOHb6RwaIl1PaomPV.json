@@ -1,12 +1,12 @@
 {
   "description": "The latest tracks from Mad Decent and friends. New music from Devon Again and MRD, plus the latest cuts from Miss Madeline, Delachute + more.",
-  "num_followers": 50717,
+  "num_followers": 50719,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "AAAaV8+oxCv9wg1zn2dP45Cxs+ZwpXQp",
+  "snapshot_id": "AAAaWRHFIifQZ6RYWE5L7+mLD7aEvmEW",
   "tracks": [
     {
       "added_at": "2024-07-14 22:51:47",
@@ -59,6 +59,34 @@
       "duration_ms": 255955,
       "name": "beine sp\u00fcren - Paul Seul remix",
       "url": "https://open.spotify.com/track/6oVcJ76iH86cZ5tDx2OiPJ"
+    },
+    {
+      "added_at": "2024-07-19 21:40:50",
+      "album": {
+        "name": "Heaven or Not (AM\u00c9M\u00c9 Remix)",
+        "url": "https://open.spotify.com/album/5EFiIqfdukR7UWW3QWmLfB"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        },
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "duration_ms": 177632,
+      "name": "Heaven or Not - AM\u00c9M\u00c9 Remix",
+      "url": "https://open.spotify.com/track/1X1DOR4j3Ztmad5nEPgfEz"
     },
     {
       "added_at": "2024-07-14 22:53:44",
@@ -1827,22 +1855,6 @@
       "duration_ms": 263111,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/6LLsYNT3q36780QZwUGZ8q"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Baby You're A Star",
-        "url": "https://open.spotify.com/album/476j0mz4vinyAeVJEZ5S8a"
-      },
-      "artists": [
-        {
-          "name": "Loukeman",
-          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
-        }
-      ],
-      "duration_ms": 141206,
-      "name": "Baby You're A Star",
-      "url": "https://open.spotify.com/track/5zhjQ18PepzPDl9uTz2NH2"
     }
   ],
   "unique_name": "Mad Decent Weekly",

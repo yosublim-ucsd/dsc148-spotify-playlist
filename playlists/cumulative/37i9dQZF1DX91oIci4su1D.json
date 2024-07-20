@@ -393,6 +393,24 @@
     },
     {
       "album": {
+        "name": "Alcazar",
+        "url": "https://open.spotify.com/album/3XqZpSiOqWnpnrlU5T7A6G"
+      },
+      "artists": [
+        {
+          "name": "David Forbes",
+          "url": "https://open.spotify.com/artist/3kwdB3aUfg0uneHczX2vTG"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Alcazar",
+      "url": "https://open.spotify.com/track/2SUYjTg0xeWe8qYM4jx8x0"
+    },
+    {
+      "album": {
         "name": "Diversify (Remixes)",
         "url": "https://open.spotify.com/album/69BDKGjSgQJoVjPKdjYlH3"
       },
@@ -2534,6 +2552,28 @@
       "duration_ms": 232555,
       "name": "Brighter - Aimoon Remix",
       "url": "https://open.spotify.com/track/3JV0H72eSiSxHXpovPj6Yb"
+    },
+    {
+      "album": {
+        "name": "Brighton BOP",
+        "url": "https://open.spotify.com/album/5mGElpHMdswgEyrkMwG0vh"
+      },
+      "artists": [
+        {
+          "name": "S\u00d8NIN",
+          "url": "https://open.spotify.com/artist/3SH652OkhCjni8ksczeEdC"
+        },
+        {
+          "name": "JS",
+          "url": "https://open.spotify.com/artist/6lMFdZ2Ogr7RJ2cY7KLEq0"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208421,
+      "name": "Brighton BOP",
+      "url": "https://open.spotify.com/track/0OiTcPWEK2g48f0BokrLj4"
     },
     {
       "album": {
@@ -15790,7 +15830,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 212252,
       "name": "Space Case",
       "url": "https://open.spotify.com/track/1VSbfnWlHajs3Wz9LhucLB"

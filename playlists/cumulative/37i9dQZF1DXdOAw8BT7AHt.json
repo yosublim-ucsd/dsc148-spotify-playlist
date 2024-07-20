@@ -323,6 +323,24 @@
     },
     {
       "album": {
+        "name": "All In My Head",
+        "url": "https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201187,
+      "name": "All In My Head",
+      "url": "https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj"
+    },
+    {
+      "album": {
         "name": "All The Problems",
         "url": "https://open.spotify.com/album/5tApkeDzogxfZB7DOoukd2"
       },
@@ -554,6 +572,24 @@
       "duration_ms": 192281,
       "name": "Baby, I Had an Abortion",
       "url": "https://open.spotify.com/track/5wzYAfUDyqRcC87J7JEG2V"
+    },
+    {
+      "album": {
+        "name": "bad habit",
+        "url": "https://open.spotify.com/album/17nQCSv01Ka3wpBxp0tsUe"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171120,
+      "name": "bad habit",
+      "url": "https://open.spotify.com/track/0NGriosAZzBZlRrdR0aHz7"
     },
     {
       "album": {
@@ -1242,7 +1278,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 195195,
       "name": "Claw",
       "url": "https://open.spotify.com/track/3kQol8CHBOFzGGd9dzW8Ee"
@@ -1581,6 +1617,24 @@
     },
     {
       "album": {
+        "name": "Demolition Man",
+        "url": "https://open.spotify.com/album/6rLNcJWYaLLv14WLDzUdf8"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165786,
+      "name": "Demolition Man",
+      "url": "https://open.spotify.com/track/7A2KxqI16tEpJhxZn6Ji1P"
+    },
+    {
+      "album": {
         "name": "Demolition Row",
         "url": "https://open.spotify.com/album/1gVt5YHXoBNEXCUzgkJDlk"
       },
@@ -1700,7 +1754,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 105556,
       "name": "Disturb The Peace",
       "url": "https://open.spotify.com/track/3XI4kmQJv04KUT1DiUgvjn"
@@ -1902,6 +1956,28 @@
       "duration_ms": 224000,
       "name": "DUST OFF / START AGAIN",
       "url": "https://open.spotify.com/track/5vyDsprQI2koIpWbFIrAqI"
+    },
+    {
+      "album": {
+        "name": "Earthling",
+        "url": "https://open.spotify.com/album/3hexPg1F7lMWXJFDpHSlOQ"
+      },
+      "artists": [
+        {
+          "name": "Thee Oh Sees",
+          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+        },
+        {
+          "name": "Osees",
+          "url": "https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211853,
+      "name": "Earthling",
+      "url": "https://open.spotify.com/track/5scSMxJz1jQfgJDPVGgZ8l"
     },
     {
       "album": {
@@ -2566,7 +2642,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 196252,
       "name": "God Speed (feat. WARGASM (UK))",
       "url": "https://open.spotify.com/track/7CqdptwGjeskv3rim4Spvi"
@@ -3718,6 +3794,28 @@
       "duration_ms": 187998,
       "name": "Lost My Shadow",
       "url": "https://open.spotify.com/track/54wWzjb8JrOl99lr1gtDEI"
+    },
+    {
+      "album": {
+        "name": "The Crucible Of Life",
+        "url": "https://open.spotify.com/album/3YMGlieEVrvq5GFV7wCDZm"
+      },
+      "artists": [
+        {
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+        },
+        {
+          "name": "Intervals",
+          "url": "https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159414,
+      "name": "Love & Co",
+      "url": "https://open.spotify.com/track/6uE4mbm9sPcAADEdIsmZ0Q"
     },
     {
       "album": {
@@ -4916,7 +5014,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 202331,
       "name": "Ruiner",
       "url": "https://open.spotify.com/track/36WpXM0TQtY7PGCAbIvpb1"
@@ -5500,7 +5598,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 153411,
       "name": "Stormy Weather",
       "url": "https://open.spotify.com/track/1OVZlRUXlkLOpWMj3cjlNt"

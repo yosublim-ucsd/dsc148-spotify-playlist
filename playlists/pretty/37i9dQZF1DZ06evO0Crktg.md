@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 
 > This is Jelly Roll\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,788 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,091 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/album/5yLgEnZGrpgxjmARNWP56g) | 2:21 |
 | 2 | [I Am Not Okay](https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [I Am Not Okay](https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i) | 3:17 |
 | 3 | [Need A Favor](https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:17 |
-| 4 | [All My Life](https://open.spotify.com/track/2p5LjvjZlMSxxwNUtDyG5x) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [All My Life](https://open.spotify.com/album/4jrP67zEPygoCd90h6vMHr) | 3:10 |
-| 5 | [Chevrolet \(feat\. Jelly Roll\)](https://open.spotify.com/track/7FKAVg9SA7QYLxdVRLnKjd) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Killed The Cowboy](https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb) | 3:04 |
+| 4 | [Chevrolet \(feat\. Jelly Roll\)](https://open.spotify.com/track/7FKAVg9SA7QYLxdVRLnKjd) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Killed The Cowboy](https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb) | 3:04 |
+| 5 | [All My Life](https://open.spotify.com/track/2p5LjvjZlMSxxwNUtDyG5x) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [All My Life](https://open.spotify.com/album/4jrP67zEPygoCd90h6vMHr) | 3:10 |
 | 6 | [Son Of A Sinner](https://open.spotify.com/track/6ngGiVX91DRmGDH4G5EgeO) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads of the Broken](https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL) | 3:52 |
 | 7 | [Save Me \- with Lainey Wilson](https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 |
 | 8 | [Somebody Save Me](https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 49 | [Outlaw Classics](https://open.spotify.com/track/3MZI08IlR1CnfxJLMkm5rg) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23), [Upchurch](https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn) | [Waylon & Willie III](https://open.spotify.com/album/138S8GterIlZRtIQCzMeml) | 3:11 |
 | 50 | [Trailer In The Sky](https://open.spotify.com/track/0L0JLgaFwuPhCs7W9CzwRb) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Trailer In The Sky](https://open.spotify.com/album/5qcgrJD0LkQ9UoRTlKljJ9) | 2:45 |
 
-Snapshot ID: `ZpcJgAAAAABRmmX2tMi+MieHq10UUOHN`
+Snapshot ID: `ZphbAAAAAACHgFGpM11322IGsxQC/iVA`

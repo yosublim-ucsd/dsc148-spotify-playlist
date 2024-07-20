@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,439 likes - 70 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,443 likes - 70 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 13 | [NO SKIN](https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [NO SKIN](https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ) | 4:38 |
 | 14 | [Shades of You \(feat\. Henry Green\) \- Tim Engelhardt Remix](https://open.spotify.com/track/0YXbPIuXsDyRFpA7rLwz3m) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Hiraeth Remixes](https://open.spotify.com/album/5ma5FaYh586UIRYpQihkqC) | 6:37 |
 | 15 | [Beyond Beliefs](https://open.spotify.com/track/0SbDNXZYqfsMarINcb72X5) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Beyond Beliefs](https://open.spotify.com/album/5bjamshqsgnOFuEktHNKru) | 5:13 |
-| 16 | [Love Story](https://open.spotify.com/track/0WsbPxyiVqhlLSqvIkpvKC) | [Lui Mafuta](https://open.spotify.com/artist/5hbQrh0EFGQBfGjYHFWbsp) | [Love Story](https://open.spotify.com/album/5wI1TLikoyiQuHoeTqW5Wc) | 5:50 |
-| 17 | [Next to Me](https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Next to Me](https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN) | 5:14 |
-| 18 | [Marabelle](https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 4:12 |
+| 16 | [Marabelle](https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 4:12 |
+| 17 | [Love Story](https://open.spotify.com/track/0WsbPxyiVqhlLSqvIkpvKC) | [Lui Mafuta](https://open.spotify.com/artist/5hbQrh0EFGQBfGjYHFWbsp) | [Love Story](https://open.spotify.com/album/5wI1TLikoyiQuHoeTqW5Wc) | 5:50 |
+| 18 | [Next to Me](https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Next to Me](https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN) | 5:14 |
 | 19 | [Falling](https://open.spotify.com/track/6Hf0m3sPjC6Gf1Uys1JUoA) | [Holly North](https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p) | [Falling](https://open.spotify.com/album/4SPgxTRFoFh6d40U1uw9MN) | 4:10 |
 | 20 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 |
 | 21 | [Graf Zahl](https://open.spotify.com/track/33R7eq2Yqrhjz7eP6XhCsy) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Graf Zahl](https://open.spotify.com/album/4q2KNOVojE0HcBNrjdk8RW) | 5:32 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 67 | [Waves](https://open.spotify.com/track/1hwug6dzxpgjQ6QsA2jvFr) | [Gryr](https://open.spotify.com/artist/3QNDp4bvJ5u3dPEyN3ymsf) | [Heino](https://open.spotify.com/album/3Z0NohL5kRMvuKP5HMD8Ne) | 5:04 |
 | 68 | [Evergreen](https://open.spotify.com/track/5uDNFpDhvw65Jwc7F4UJJg) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [11am](https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7) | 4:13 |
 | 69 | [Love Will Tear Us Apart \- Tensnake Remix](https://open.spotify.com/track/6HTYiZWP9bqtGKoivnLHsg) | [R Plus](https://open.spotify.com/artist/0lnAZ68xKGysVy084bTQmh), [Amelia Fox](https://open.spotify.com/artist/3I4pqS75HcWouwU39LjRdM), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Love Will Tear Us Apart \(Tensnake Remix\)](https://open.spotify.com/album/5HX5xbtPGzr5xTNst3CilV) | 3:40 |
-| 70 | [Eyes Alive](https://open.spotify.com/track/4MA5ZAVcGUzomiE4uJSPUb) | [HVOB](https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa) | [Eyes Alive](https://open.spotify.com/album/6NAGlFY0sQqLG6eQxzR6X5) | 6:05 |
+| 70 | [Parallels](https://open.spotify.com/track/0YDIy9Ixkh7dH36GanI1YJ) | [NIHILS](https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx) | [Parallels](https://open.spotify.com/album/3fAVBC8B78yJePSSRr1sKv) | 5:30 |
 
 Snapshot ID: `ZdfgPAAAAAD+UuhfGSwDp2l859lEpxJi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 
 > ¡Lo naco es chido, y que viva el rocanroool! Alex Lora en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,430 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,473 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 15 | [Me Dijiste](https://open.spotify.com/track/630TIL2bWuseStelIhFT6L) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 3:30 |
 | 16 | [Barco Azul \- Remastered 2000](https://open.spotify.com/track/3g30HfhfhNzSem6XEaljXy) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Quiero Cambiar \(Remastered 2000\)](https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy) | 6:58 |
 | 17 | [Pobre soñador](https://open.spotify.com/track/6UjxBtLPznyXztlMAFrtOW) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [25 años](https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L) | 3:50 |
-| 18 | [No Me Arrepiento](https://open.spotify.com/track/7CnRKqapOa3fCKWCI6XizL) | [Tres Vallejo](https://open.spotify.com/artist/0qV25r4EHYSKLyMelm5U5s) | [Llorando a Solas](https://open.spotify.com/album/424vA5gXeRyA8Gd1UbVx9x) | 3:57 |
-| 19 | [Anda Borracho Pancho](https://open.spotify.com/track/7w4yt7qtiS6hAFWr4drUdw) | [Sam Sam](https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb) | [Anda Borracho Pancho](https://open.spotify.com/album/6h5XBXviV0nnD4ZgyAbuXw) | 5:02 |
+| 18 | [Anda Borracho Pancho](https://open.spotify.com/track/7w4yt7qtiS6hAFWr4drUdw) | [Sam Sam](https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb) | [Anda Borracho Pancho](https://open.spotify.com/album/6h5XBXviV0nnD4ZgyAbuXw) | 5:02 |
+| 19 | [No Me Arrepiento](https://open.spotify.com/track/7CnRKqapOa3fCKWCI6XizL) | [Tres Vallejo](https://open.spotify.com/artist/0qV25r4EHYSKLyMelm5U5s) | [Llorando a Solas](https://open.spotify.com/album/424vA5gXeRyA8Gd1UbVx9x) | 3:57 |
 | 20 | [Tu Mamá No Me Quiere \- Remastered](https://open.spotify.com/track/0vGzODOKTWE2jJQgBbYF3v) | [Vago](https://open.spotify.com/artist/0jwtqRTkBlt2gzRwK3IrD7) | [Suicida \(Remastered\)](https://open.spotify.com/album/3IT3HKS1d8nRgQyMmwH9dX) | 4:03 |
 | 21 | [Al Final Lloré](https://open.spotify.com/track/1U8O8ZjjM4b7ROyOPQonDj) | [Karatula](https://open.spotify.com/artist/7Cua15H5PkQUNlea7KAfkH) | [15 Éxitos](https://open.spotify.com/album/44zewT40ZvoTw2uqBDB9xb) | 4:27 |
 | 22 | [El No Lo Mato](https://open.spotify.com/track/2hntX3w48OucbEqoLoDnPZ) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Delincuentes Con Placa](https://open.spotify.com/album/4Sdi8I9p9AkGbx8LnFf4wn) | 4:13 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 34 | [Barata y Descontó](https://open.spotify.com/track/0TaVjqxCBLG7p2dnwTYfti) | [Trolebús](https://open.spotify.com/artist/4vQGniIPKVpBklxzuUX1M3) | [En Sentido Contrario](https://open.spotify.com/album/1eW1g24GLcMwUKFyQBX5vx) | 2:37 |
 | 35 | [Cristo Viejo](https://open.spotify.com/track/43IpgycykkiMC7Tm6Q6SS2) | [Fantasma De Canterville](https://open.spotify.com/artist/040rbCr9V95JeswXJeStGx) | [Cristo Viejo](https://open.spotify.com/album/71AJr8ywoxzLvKKssrPKBy) | 5:23 |
 | 36 | [Y Como Es Él](https://open.spotify.com/track/6ZRnVnjp57UMZPQqVLMZgS) | [California Blues](https://open.spotify.com/artist/6T2x1Mz4MTYr3R8evdSDxn) | [15 Éxitos](https://open.spotify.com/album/5MPP3YL3rZgYG5Bl6iJxha) | 3:06 |
-| 37 | [Juan el Descuartizador](https://open.spotify.com/track/0p9Bwi2HvvPNhvEdo4972S) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Valedores Juveniles](https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN) | 2:35 |
+| 37 | [No Todo Es Oro](https://open.spotify.com/track/138kU5xpFub1SxSD4oI7b0) | [Blues Boys](https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z) | [La Ciudad](https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa) | 2:49 |
 | 38 | [Un Minuto de Amor, Pt\. 1](https://open.spotify.com/track/56eJXlNuSgZ7ylwPSXWtvK) | [Interpuesto](https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB) | [Un Minuto de Amor](https://open.spotify.com/album/77sGKcufHihszGpeaEUFbL) | 3:33 |
-| 39 | [No Todo Es Oro](https://open.spotify.com/track/138kU5xpFub1SxSD4oI7b0) | [Blues Boys](https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z) | [La Ciudad](https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa) | 2:49 |
+| 39 | [Juan el Descuartizador](https://open.spotify.com/track/0p9Bwi2HvvPNhvEdo4972S) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Valedores Juveniles](https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN) | 2:35 |
 | 40 | [Que Nos Paso](https://open.spotify.com/track/2qPOZWbIrwUAFRNvit6Py2) | [Leyenda Urbana](https://open.spotify.com/artist/4GKqFZiamcM57FMUVRhyCU) | [La Nueva Sangre del Rock, Vol\. 2](https://open.spotify.com/album/50sLvy8teAwjF2HyVMHKQk) | 6:08 |
 | 41 | [Viajero](https://open.spotify.com/track/4BcyzKRntkAaECtW1iZlcO) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:14 |
 | 42 | [La chica banda](https://open.spotify.com/track/5fckoQosqCX9xJvHlwITY8) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Café Tacvba](https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr) | 3:48 |

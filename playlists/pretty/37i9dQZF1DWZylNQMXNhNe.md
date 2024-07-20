@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Boombeat, Jaloo
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,419 likes - 60 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,417 likes - 60 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 39 | [Caipirinha de Milão](https://open.spotify.com/track/3NNtJ1cxR3olu3YfF1zup3) | [Totô de Babalong](https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x), [Milla Zuti](https://open.spotify.com/artist/3p53okrxm97yd0dQuVacgB) | [Contém1drama](https://open.spotify.com/album/7mXmm1XHg7pOlCW7NUVWGY) | 3:05 |
 | 40 | [TE ODEIO](https://open.spotify.com/track/6g6zhPErWydVqWaT5q2lHz) | [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0) | [ALTA TENSÃO](https://open.spotify.com/album/12JE1Bk262iVJaqN7yKqfH) | 2:22 |
 | 41 | [Cavalo de Troia](https://open.spotify.com/track/2RlqNmjyNfVDQLNQN0DV4k) | [Reddy Allor](https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S), [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe) | [Cavalo de Troia](https://open.spotify.com/album/1YjiqXB4sbhxzUcPzpMq0J) | 2:45 |
-| 42 | [BONITA](https://open.spotify.com/track/1cuVUWpKUatvXpbJ9ITtih) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [AGRIDOCE](https://open.spotify.com/album/2rnBW5ksDgtam7tzL6jn9x) | 2:42 |
-| 43 | [TE ESQUECER](https://open.spotify.com/track/2WixhCtUfy0CIorrWVyZ0E) | [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP) | [TE ESQUECER](https://open.spotify.com/album/0sHN0uelXhKkS8UHuLchyt) | 2:28 |
+| 42 | [TE ESQUECER](https://open.spotify.com/track/2WixhCtUfy0CIorrWVyZ0E) | [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP) | [TE ESQUECER](https://open.spotify.com/album/0sHN0uelXhKkS8UHuLchyt) | 2:28 |
+| 43 | [BONITA](https://open.spotify.com/track/1cuVUWpKUatvXpbJ9ITtih) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [AGRIDOCE](https://open.spotify.com/album/2rnBW5ksDgtam7tzL6jn9x) | 2:42 |
 | 44 | [Pitbull Sem Coleira](https://open.spotify.com/track/01BOygx1zefZHjpmgkgqIA) | [Bixarte](https://open.spotify.com/artist/3Fpst9Ng2gdZjD0xfIla3o), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Traviarcado](https://open.spotify.com/album/29JRrndgwUbbGDjyEwre8y) | 2:22 |
 | 45 | [Mapa De Estrelas](https://open.spotify.com/track/6sayqC4sAyPHxqy0iJi636) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 3:11 |
 | 46 | [Neo Thang](https://open.spotify.com/track/3JaXOtxSsNWgJ9su8DUSC2) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND \(BLOSSOM EDITION\)](https://open.spotify.com/album/3uAKzfR2PMG5eJTEXprAPF) | 2:31 |

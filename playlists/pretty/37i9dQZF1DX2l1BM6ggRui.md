@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 
 > 듣고만 있어도 행복한 노래들과 더더욱 행복하세요 ;\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,519 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,521 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/album/2PcM535knJOZb6MUth8axj) | 3:02 |
 | 2 | [Lucky Girl Syndrome](https://open.spotify.com/track/2kIUILBPlz4exX9xIFS275) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:20 |
 | 3 | [BBIBBI](https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [BBIBBI](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) | 3:14 |
-| 4 | [Long Chat \(\#♥\)](https://open.spotify.com/track/1l4aQeJKuPVUVtMVZw1fTf) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 3:15 |
-| 5 | [Flash Forward](https://open.spotify.com/track/74cpuIw43kA8xPgbQEPdss) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:15 |
+| 4 | [Flash Forward](https://open.spotify.com/track/74cpuIw43kA8xPgbQEPdss) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:15 |
+| 5 | [Long Chat \(\#♥\)](https://open.spotify.com/track/1l4aQeJKuPVUVtMVZw1fTf) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 3:15 |
 | 6 | [I](https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [I \- The 1st Mini Album](https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1) | 3:26 |
 | 7 | [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 |
 | 8 | [Traffic light](https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Traffic light](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) | 3:51 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 28 | [Cherry Pink](https://open.spotify.com/track/1v1BaddwAdO140TemWG1Yy) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Cherry Pink](https://open.spotify.com/album/7y70AqYlhTBHeeUucSv8WX) | 3:17 |
 | 29 | [BENCH \(with Zion.T\)](https://open.spotify.com/track/52nOiyRgQ7B7N7FjXhCCgz) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:45 |
 | 30 | [Panorama](https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [ERROR](https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL) | 3:18 |
-| 31 | [wish you all to be happy](https://open.spotify.com/track/3vHAC5HrdyefPr5biodJGQ) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [wish you all to be happy](https://open.spotify.com/album/4Z2heFJ5SRDyIyMJlK6TDm) | 3:52 |
-| 32 | [Anywhere](https://open.spotify.com/track/68A5OaBH9feTRySwoFpGSX) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [Ending](https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD) | 3:37 |
+| 31 | [Anywhere](https://open.spotify.com/track/68A5OaBH9feTRySwoFpGSX) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [Ending](https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD) | 3:37 |
+| 32 | [wish you all to be happy](https://open.spotify.com/track/3vHAC5HrdyefPr5biodJGQ) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [wish you all to be happy](https://open.spotify.com/album/4Z2heFJ5SRDyIyMJlK6TDm) | 3:52 |
 | 33 | [Brave](https://open.spotify.com/track/30g5E9MteFxeG9pDvRKJNl) | [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Extraordinary Attorney Woo \(Original Television SoundTrack\) Pt\. 1](https://open.spotify.com/album/1JNQlhazNG0N5gK1NoLAuK) | 4:22 |
 | 34 | [Page 0](https://open.spotify.com/track/10X2ihhKwPyKzo89h4965O) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Page 0](https://open.spotify.com/album/1MX2MhEx1G8BCiYrlSomgg) | 3:07 |
 | 35 | [Miracle](https://open.spotify.com/track/2VxF5wUA8u0wOUD9hnN65W) | [KIM SEON HO](https://open.spotify.com/artist/5w5CmXkCojaeNaZeJ4Nt5t) | [Miracle](https://open.spotify.com/album/0ph7K6mRDo0bzD7KngJq3i) | 3:32 |

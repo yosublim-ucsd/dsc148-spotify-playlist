@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Your go-to playlist for this week's hottest music featuring The Kid LAROI, Miley Cyrus, and more! Cover: The Kid LAROI)",
+  "description": "Your go-to playlist for this week's hottest music featuring The Kid LAROI, Miley Cyrus, and more! Cover: Koe Wetzel",
   "name": "Columbia Records: Weekly Mix",
   "tracks": [
     {
@@ -1718,7 +1718,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 164283,
       "name": "Blow It",
       "url": "https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl"
@@ -3219,6 +3219,24 @@
     },
     {
       "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/4ue8ig83KmyEJcxR93qtNy"
+      },
+      "artists": [
+        {
+          "name": "Bradley Simpson",
+          "url": "https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142906,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/7GldSXuo3pxP6GC7Et7bdw"
+    },
+    {
+      "album": {
         "name": "Unreal Unearth",
         "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
       },
@@ -3360,10 +3378,32 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 179439,
       "name": "DARK",
       "url": "https://open.spotify.com/track/1qlsoHIuuOsrm1qGENz4RM"
+    },
+    {
+      "album": {
+        "name": "DARK 2.0 (feat. TWISTED)",
+        "url": "https://open.spotify.com/album/24MnyCwzIBiSQ8uqP6KEPm"
+      },
+      "artists": [
+        {
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+        },
+        {
+          "name": "TWISTED",
+          "url": "https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162222,
+      "name": "DARK 2.0 (feat. TWISTED)",
+      "url": "https://open.spotify.com/track/3HV6iBGoFsUbVwJzdMJ8ZU"
     },
     {
       "album": {
@@ -3622,6 +3662,24 @@
       "duration_ms": 249259,
       "name": "Depression",
       "url": "https://open.spotify.com/track/0yxPUMQsHJXThYjYMoIJU5"
+    },
+    {
+      "album": {
+        "name": "9 Lives",
+        "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149659,
+      "name": "Depression & Obsession",
+      "url": "https://open.spotify.com/track/38623VdBTunZrY1IFpFLh8"
     },
     {
       "album": {
@@ -4074,7 +4132,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 166588,
       "name": "Dog House",
       "url": "https://open.spotify.com/track/0caxtXkUH7PGu8TkkIUX3j"
@@ -4598,7 +4656,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 173538,
       "name": "engravings - solo piano",
       "url": "https://open.spotify.com/track/21YJ3qxYHWkjg3xHQXIEOA"
@@ -5373,6 +5431,28 @@
     },
     {
       "album": {
+        "name": "Fuck Then Dub Her (feat. Lil Mabu)",
+        "url": "https://open.spotify.com/album/3UhF76O6AGUVnAlktwlXBo"
+      },
+      "artists": [
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        },
+        {
+          "name": "Lil Mabu",
+          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152478,
+      "name": "Fuck Then Dub Her (feat. Lil Mabu)",
+      "url": "https://open.spotify.com/track/2Zt56VjHNT4257K0OLm34t"
+    },
+    {
+      "album": {
         "name": "Fuentes De Ortiz",
         "url": "https://open.spotify.com/album/0d0rXG7qukHkr1tHfI8pEu"
       },
@@ -5486,6 +5566,24 @@
       "duration_ms": 97758,
       "name": "GEEKED",
       "url": "https://open.spotify.com/track/5z312Kj6WDRTK5xIjtR927"
+    },
+    {
+      "album": {
+        "name": "GET A JOB!",
+        "url": "https://open.spotify.com/album/5Htr73zW5tGvolH7foL7X6"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154564,
+      "name": "GET A JOB!",
+      "url": "https://open.spotify.com/track/33P7T4AeMmNi7aaVRD0IB3"
     },
     {
       "album": {
@@ -5720,6 +5818,28 @@
       "duration_ms": 209552,
       "name": "girl$",
       "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
+    },
+    {
+      "album": {
+        "name": "girl$ (Layton Giordani Remix)",
+        "url": "https://open.spotify.com/album/2vcisyP9y8jUFqI7W6x7BN"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184477,
+      "name": "girl$ - Layton Giordani Remix",
+      "url": "https://open.spotify.com/track/3ZzafniLjEBqRM7GeyRcvz"
     },
     {
       "album": {
@@ -6129,6 +6249,24 @@
     },
     {
       "album": {
+        "name": "9 Lives",
+        "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180621,
+      "name": "Hatchet",
+      "url": "https://open.spotify.com/track/5TBJIGQ1TNxSLS7zOrj44g"
+    },
+    {
+      "album": {
         "name": "Have Her",
         "url": "https://open.spotify.com/album/5WxgA8Keibxzjvo85Z2fWN"
       },
@@ -6389,6 +6527,28 @@
     },
     {
       "album": {
+        "name": "9 Lives",
+        "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        },
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179413,
+      "name": "High Road (feat. Jessie Murph)",
+      "url": "https://open.spotify.com/track/1FhgmMvNlh3nJ1Ldc2eE6H"
+    },
+    {
+      "album": {
         "name": "High Road (feat. Jessie Murph)",
         "url": "https://open.spotify.com/album/62NSHNGNQC2hXZKNuvF6pi"
       },
@@ -6404,7 +6564,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 179413,
       "name": "High Road (feat. Jessie Murph)",
       "url": "https://open.spotify.com/track/73KAidtqbDftZjy8AD0H04"
@@ -7480,7 +7640,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 190828,
       "name": "it's easiest to fuck something that's always in the mood",
       "url": "https://open.spotify.com/track/2RH2ZzLgzRb7OyIhv5VJSy"
@@ -8195,6 +8355,24 @@
     },
     {
       "album": {
+        "name": "LEFT OF ME",
+        "url": "https://open.spotify.com/album/2eBFKPAzMn0bHJWigIrRiV"
+      },
+      "artists": [
+        {
+          "name": "Johnny Huynh",
+          "url": "https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194172,
+      "name": "LEFT OF ME",
+      "url": "https://open.spotify.com/track/3yekSsyZzNvn9fsm1cznEP"
+    },
+    {
+      "album": {
         "name": "Let It Breathe",
         "url": "https://open.spotify.com/album/6tZVnffRGdPeTtONlgRVia"
       },
@@ -8260,7 +8438,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 176658,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/5VbZRQxhOxUzehxgAWeGWI"
@@ -8948,7 +9126,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 82285,
       "name": "Masked",
       "url": "https://open.spotify.com/track/4bW7g0BV62I55XnwS22hRk"
@@ -9506,6 +9684,24 @@
       "duration_ms": 147180,
       "name": "My Bad",
       "url": "https://open.spotify.com/track/0YQ0N57Whq3vgF7bqUNDHs"
+    },
+    {
+      "album": {
+        "name": "My Brother, I",
+        "url": "https://open.spotify.com/album/6AUurccJ7FMnQnFYiV6sNK"
+      },
+      "artists": [
+        {
+          "name": "Aden Foyer",
+          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "My Brother, I",
+      "url": "https://open.spotify.com/track/5VoNLvhJK6k7iJVawi2XGJ"
     },
     {
       "album": {
@@ -10106,6 +10302,24 @@
       "duration_ms": 179533,
       "name": "No Time Wasted (feat. Future)",
       "url": "https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8"
+    },
+    {
+      "album": {
+        "name": "No Town",
+        "url": "https://open.spotify.com/album/1hqYGEwOaMseBhjrccaDnn"
+      },
+      "artists": [
+        {
+          "name": "Cole Phillips",
+          "url": "https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186973,
+      "name": "No Town",
+      "url": "https://open.spotify.com/track/2J4lCZulwZSFEmkkqmJygK"
     },
     {
       "album": {
@@ -12414,7 +12628,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 164552,
       "name": "SPINNIN' YOU AROUND",
       "url": "https://open.spotify.com/track/3Kc9IdvNTmjH1fO0MFzwAD"
@@ -12874,10 +13088,28 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 173269,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/2PgjJ90q1zETqCX68dxgyd"
+    },
+    {
+      "album": {
+        "name": "9 Lives",
+        "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173269,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/3dzRwqd1L3HqxmViUJt20A"
     },
     {
       "album": {
@@ -14186,7 +14418,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 186705,
       "name": "Unbothered",
       "url": "https://open.spotify.com/track/70KneIyETnRCR0bUwKSjwz"
@@ -15150,7 +15382,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 192133,
       "name": "Wild",
       "url": "https://open.spotify.com/track/78X4X4dfwm6q5wCiBsm396"
@@ -15376,6 +15608,24 @@
       "duration_ms": 171533,
       "name": "XANAX & CHAMPAGNE",
       "url": "https://open.spotify.com/track/2PwO2Le2ExxYWbwMScVBti"
+    },
+    {
+      "album": {
+        "name": "Yeah Baby",
+        "url": "https://open.spotify.com/album/5PHb8QUa081t4IxLhLrWcV"
+      },
+      "artists": [
+        {
+          "name": "Glokk40Spaz",
+          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109237,
+      "name": "Yeah Baby",
+      "url": "https://open.spotify.com/track/4wmDMvjvjddgK17lnOYuvb"
     },
     {
       "album": {

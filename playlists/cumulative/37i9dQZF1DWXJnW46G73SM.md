@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: رامي صبري
 
-1,050 songs - 2 day 11 hr 5 min
+1,051 songs - 2 day 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,6 +421,7 @@
 | [Laykoon](https://open.spotify.com/track/0SEeuzvfqRxahEg46PRUvi) | [Dareen](https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj), [Rashed Muzik](https://open.spotify.com/artist/3h9Fk9MDHxGBx3QmHiGfk5) | [Laykoon](https://open.spotify.com/album/1edTtSiMnmKiAHI4p53gg8) | 2:39 | 2023-03-10 | 2023-05-10 |
 | [Lazem Tekhtar \- Remix](https://open.spotify.com/track/4wiFJwbWhNJAA1ehh7uRYq) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8), [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM) | [Lazem Tekhtar \(Remix\)](https://open.spotify.com/album/3nFIe6xiEYw8M3fTM4esQr) | 2:16 | 2024-06-27 |  |
 | [Le3btek](https://open.spotify.com/track/4639bUl0D2CTpXDBKUdSRQ) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Le3btek](https://open.spotify.com/album/4hnF2534JU5IlbhiLFjAzC) | 3:48 | 2022-02-01 | 2022-05-19 |
+| [Leah Feya](https://open.spotify.com/track/1TFhCg33D6zcDThFuvI1vp) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [Leah Feya](https://open.spotify.com/album/2oWAA67MavhpwkYwE3Zz33) | 3:20 | 2024-07-18 |  |
 | [Leeh](https://open.spotify.com/track/3d0MpbuzPk1H7ocM7G9OSG) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Leeh](https://open.spotify.com/album/3MeDB8esgcm5JtzFOu8kS2) | 3:58 | 2022-06-23 | 2022-09-24 |
 | [Leeh Ala Baly](https://open.spotify.com/track/7zztl40LzFgznVyXeaf4nu) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78), [Nancy Mounir](https://open.spotify.com/artist/0ibLTETR8FEqRRODrpwnuS) | [Red Bull Sika](https://open.spotify.com/album/4Hb81TjdJIoCplM3pFsoXg) | 2:14 | 2024-01-17 | 2024-02-14 |
 | [Leh](https://open.spotify.com/track/4D8ch2A9Z7oNMbo3h4EAd3) | [Mai Farouk](https://open.spotify.com/artist/6WDborvz84s4INwkuajFxP) | [Leh](https://open.spotify.com/album/2MxpLVlsLP3v7Jh8hdV2t0) | 4:21 | 2023-09-22 | 2024-01-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 
 > pov: u hand the internet the aux
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,206 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,240 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 32 | [MARLBORO CLUB](https://open.spotify.com/track/2AlFZH3uIA6IYesRZUby7k) | [PXRKX](https://open.spotify.com/artist/5sj3P8OH8O5aVmey1C2mf4) | [MARLBORO CLUB](https://open.spotify.com/album/3AxeTR1TMBjD46yIcPwKd0) | 1:48 |
 | 33 | [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 |
 | 34 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 |
-| 35 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
-| 36 | [Somebody \(2024\)](https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Somebody \(2024\)](https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH) | 2:33 |
+| 35 | [Somebody \(2024\)](https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Somebody \(2024\)](https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH) | 2:33 |
+| 36 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 37 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 |
 | 38 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 |
-| 39 | [Buscando Money](https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2dJSAvaObagSOskW5umnny) | 2:30 |
-| 40 | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 |
+| 39 | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 |
+| 40 | [Buscando Money](https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2dJSAvaObagSOskW5umnny) | 2:30 |
 | 41 | [The Lost Soul Down](https://open.spotify.com/track/5dPy1CCYQ04xaQHpajf5CY) | [NBSPLV](https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa) | [The Lost Soul Down](https://open.spotify.com/album/733oNIsRbdeXYvZNoFCHmh) | 3:12 |
 | 42 | [Lobster](https://open.spotify.com/track/02RJmcMqkQqbU1WamaJNid) | [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0) | [Lobster](https://open.spotify.com/album/5OkXmwhtsqoqrWaFKGUSOV) | 1:56 |
 | 43 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 46 | [Got Me Started](https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:18 |
 | 47 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
 | 48 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/7kfOEMJBJwdCYqyJeEnNhr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/5KAcRZdtpHXQb3OmYGvpgX) | 3:54 |
-| 49 | [Faster n Harder](https://open.spotify.com/track/3qaMprRWLGggArD14diXYz) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Faster n Harder](https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W) | 2:03 |
-| 50 | [CLEARED \- Remix](https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH) | [Lilithzplug](https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo) | [Meet The Lilithz](https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5) | 2:06 |
+| 49 | [wutiwant](https://open.spotify.com/track/6zsUUymWPtq5bkoc5y97cM) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/4NHsl52eIxHX3ZGh66ZYUx) | 3:13 |
+| 50 | [Faster n Harder](https://open.spotify.com/track/3qaMprRWLGggArD14diXYz) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Faster n Harder](https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W) | 2:03 |
 
-Snapshot ID: `ZpnkwAAAAAC8MUlx5s32+IM9J9BjPMqY`
+Snapshot ID: `ZpqPEAAAAABXMA2xv1zGhEIcTnREMCe2`

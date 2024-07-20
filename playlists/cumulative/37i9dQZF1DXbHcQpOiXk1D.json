@@ -2767,6 +2767,24 @@
     },
     {
       "album": {
+        "name": "Outerstate",
+        "url": "https://open.spotify.com/album/6g1KJdlbI53M3T97ascW5N"
+      },
+      "artists": [
+        {
+          "name": "Kessoncoda",
+          "url": "https://open.spotify.com/artist/7k9JPWPcswdCrwPiQqjvXZ"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202698,
+      "name": "Dreambend",
+      "url": "https://open.spotify.com/track/4ufGGHCXkK2v1gONKMcCyV"
+    },
+    {
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/2BQJdNJq1qkbvcyMzl9xs4"
       },
@@ -2974,7 +2992,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 156933,
       "name": "End Of Innocence",
       "url": "https://open.spotify.com/track/3o9i2sgJhKv8HEFtJWsbxo"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 
 > Soul Music daqui e de fora, um toque de sensibilidade\. Foto: Cassiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,499 likes - 100 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,556 likes - 100 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 45 | [One Step Ahead](https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [A Bit Of Soul](https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S) | 2:33 |
 | 46 | [Ebony Eyes](https://open.spotify.com/track/71JkyCi11ETSz58jhgg2YE) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Cold Blooded \(Expanded Edition\)](https://open.spotify.com/album/0OvSems3CIWCs2Tty0oO9B) | 5:07 |
 | 47 | [Summer In The City](https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [You've Got It Bad Girl](https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB) | 4:04 |
-| 48 | [Ready Or Not](https://open.spotify.com/track/6AgDFWLbbAt2migXMbrhXT) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [After 7](https://open.spotify.com/album/3glZbvQfT7BX4Ih3X3y63W) | 4:35 |
-| 49 | [Can't Get over You](https://open.spotify.com/track/0JoU0lwoMyWxGkljNJpJoM) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Silky Soul](https://open.spotify.com/album/2IO8mNFG4FS3sdVWUG3qGC) | 5:17 |
+| 48 | [Can't Get over You](https://open.spotify.com/track/0JoU0lwoMyWxGkljNJpJoM) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Silky Soul](https://open.spotify.com/album/2IO8mNFG4FS3sdVWUG3qGC) | 5:17 |
+| 49 | [Ready Or Not](https://open.spotify.com/track/6AgDFWLbbAt2migXMbrhXT) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [After 7](https://open.spotify.com/album/3glZbvQfT7BX4Ih3X3y63W) | 4:35 |
 | 50 | [Who Can I Run To](https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 3:24 |
 | 51 | [Very Special](https://open.spotify.com/track/6wKAZB2lwOWeqpwquNHThG) | [Debra Laws](https://open.spotify.com/artist/6iA5wBxxMxUMr9a4fnJd34) | [Very Special](https://open.spotify.com/album/2mjNADEgtMAoNfXTLcFTn4) | 4:28 |
 | 52 | [Don't Ask My Neighbors](https://open.spotify.com/track/2GZe8LsPldakpQy5T8151f) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Rejoice](https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA) | 4:27 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 58 | [Come Back To Me](https://open.spotify.com/track/5EBWCGlCn65HM8Hglrc5V1) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Rhythm Nation 1814](https://open.spotify.com/album/7jtBAkD6DL5yn7komrFTxE) | 5:32 |
 | 59 | [\(At Your Best\) You Are Love](https://open.spotify.com/track/0Ph6AkM04RCD60P4OFJsXr) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Harvest for the World](https://open.spotify.com/album/58XKhn9fkCegBnfZwW4JtJ) | 5:23 |
 | 60 | [On My Own \- Single Version](https://open.spotify.com/track/29UXndgjLVTUZ8b1Mhz9CR) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Patti LaBelle's Greatest Hits](https://open.spotify.com/album/12ENRe4Pw9qXVXz10nng3R) | 4:43 |
-| 61 | [The Closer I Get to You](https://open.spotify.com/track/44jdxE3S8EX1lOAxV9vQbZ) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 4:40 |
-| 62 | [Caravan of Love](https://open.spotify.com/track/6IuoGXChH84tF9CT9PCN1h) | [Isley, Jasper, Isley](https://open.spotify.com/artist/3QpJtjdcw4jiQpic9R4Mr0) | [The Essential Isley Brothers](https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v) | 5:41 |
+| 61 | [Caravan of Love](https://open.spotify.com/track/6IuoGXChH84tF9CT9PCN1h) | [Isley, Jasper, Isley](https://open.spotify.com/artist/3QpJtjdcw4jiQpic9R4Mr0) | [The Essential Isley Brothers](https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v) | 5:41 |
+| 62 | [The Closer I Get to You](https://open.spotify.com/track/44jdxE3S8EX1lOAxV9vQbZ) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 4:40 |
 | 63 | [Everlasting Love](https://open.spotify.com/track/6MlM7j7otOKpa0jFi8htxm) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Ask Rufus](https://open.spotify.com/album/3ZJJdnvxztzpOvwvzUzUxC) | 4:48 |
 | 64 | [Angel](https://open.spotify.com/track/36o3La4dQ9E6gKb2x8upJS) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [The Songstress](https://open.spotify.com/album/6Bnb3WNDoH5Ca0YWgUDIcj) | 5:00 |
 | 65 | [Silky Soul](https://open.spotify.com/track/13DPzltcv8RmuzQDfw2ItH) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Silky Soul](https://open.spotify.com/album/2IO8mNFG4FS3sdVWUG3qGC) | 6:45 |

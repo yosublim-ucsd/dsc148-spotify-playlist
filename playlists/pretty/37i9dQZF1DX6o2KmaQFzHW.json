@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 188490,
+  "num_followers": 188516,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Nocheros",
-        "url": "https://open.spotify.com/album/3zK6I5P3OOV33Mr0DP1H2n"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "D\u00e9jame Que Me Vaya",
-      "url": "https://open.spotify.com/track/4gqnHuW497Br4ZgZt9cduw"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "La Llave",
         "url": "https://open.spotify.com/album/3FhFLJcOQ3xuECoy24Dpe6"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 230093,
       "name": "Todo Est\u00e1 en Vos",
       "url": "https://open.spotify.com/track/3m0iTs6YcT467EhgWMequG"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Nocheros",
+        "url": "https://open.spotify.com/album/3zK6I5P3OOV33Mr0DP1H2n"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "D\u00e9jame Que Me Vaya",
+      "url": "https://open.spotify.com/track/4gqnHuW497Br4ZgZt9cduw"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Eternamente Tucu",
-        "url": "https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f"
-      },
-      "artists": [
-        {
-          "name": "Los Tucu Tucu",
-          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Luna Tucumana",
-      "url": "https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "His Great Songs",
         "url": "https://open.spotify.com/album/4q6egD1rqbJXSaDyoVqVZX"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 188066,
       "name": "Luna Tucumana",
       "url": "https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Eternamente Tucu",
+        "url": "https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f"
+      },
+      "artists": [
+        {
+          "name": "Los Tucu Tucu",
+          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Luna Tucumana",
+      "url": "https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Guitarra, D\u00edmelo Tu",
-        "url": "https://open.spotify.com/album/3H30zV8WQtf4I2hKhOpEwx"
-      },
-      "artists": [
-        {
-          "name": "Atahualpa Yupanqui",
-          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
-        }
-      ],
-      "duration_ms": 254960,
-      "name": "Milonga Del Solitario",
-      "url": "https://open.spotify.com/track/1Xf7gXkHRXwr8vP9GZ7pSz"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Mis 30 Mejores Canciones",
         "url": "https://open.spotify.com/album/0RrfUzvrRxY38Bqdi9cMsl"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 195266,
       "name": "Mama Vieja",
       "url": "https://open.spotify.com/track/7GxW2uJnZEkDeDiO74hanI"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Guitarra, D\u00edmelo Tu",
+        "url": "https://open.spotify.com/album/3H30zV8WQtf4I2hKhOpEwx"
+      },
+      "artists": [
+        {
+          "name": "Atahualpa Yupanqui",
+          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
+        }
+      ],
+      "duration_ms": 254960,
+      "name": "Milonga Del Solitario",
+      "url": "https://open.spotify.com/track/1Xf7gXkHRXwr8vP9GZ7pSz"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Quien Me Quita Lo Cantado",
-        "url": "https://open.spotify.com/album/74SPPqaCtI8Ny6PQiUBMdf"
+        "name": "Principio y Destino",
+        "url": "https://open.spotify.com/album/7HS2KYPywBrmG6FXupQm36"
       },
       "artists": [
         {
-          "name": "Chaque\u00f1o Palavecino",
-          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
         }
       ],
-      "duration_ms": 201427,
-      "name": "Por las costas entrerrianas",
-      "url": "https://open.spotify.com/track/159w8FAaY0OVg8H0rXX26C"
+      "duration_ms": 163906,
+      "name": "El tesoro de mi alma",
+      "url": "https://open.spotify.com/track/6LweRJCnlnrAB21WQjUupg"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Principio y Destino",
-        "url": "https://open.spotify.com/album/7HS2KYPywBrmG6FXupQm36"
-      },
-      "artists": [
-        {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
-        }
-      ],
-      "duration_ms": 163906,
-      "name": "El tesoro de mi alma",
-      "url": "https://open.spotify.com/track/6LweRJCnlnrAB21WQjUupg"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Aqui Cosquin",
         "url": "https://open.spotify.com/album/4Rd6qMYofVnpuan16xcp7Q"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 181386,
       "name": "Romance de Plumas Verdes",
       "url": "https://open.spotify.com/track/2UTFw7lafwlYmFk3NEHhag"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Quien Me Quita Lo Cantado",
+        "url": "https://open.spotify.com/album/74SPPqaCtI8Ny6PQiUBMdf"
+      },
+      "artists": [
+        {
+          "name": "Chaque\u00f1o Palavecino",
+          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
+        }
+      ],
+      "duration_ms": 201427,
+      "name": "Por las costas entrerrianas",
+      "url": "https://open.spotify.com/track/159w8FAaY0OVg8H0rXX26C"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1347,22 +1347,6 @@
       "duration_ms": 188028,
       "name": "Chacarera del Cardenal - En Vivo",
       "url": "https://open.spotify.com/track/4mP9JuUl5m4qSFvCEMzqOQ"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "La Palavecino",
-        "url": "https://open.spotify.com/album/33rgmZwrJf2nRyPQ3BelON"
-      },
-      "artists": [
-        {
-          "name": "Chaque\u00f1o Palavecino",
-          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
-        }
-      ],
-      "duration_ms": 132496,
-      "name": "La Palavecino",
-      "url": "https://open.spotify.com/track/00fjTOsFohOQXJhO5KDuwi"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1455,6 +1439,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "La Palavecino",
+        "url": "https://open.spotify.com/album/33rgmZwrJf2nRyPQ3BelON"
+      },
+      "artists": [
+        {
+          "name": "Chaque\u00f1o Palavecino",
+          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
+        }
+      ],
+      "duration_ms": 132496,
+      "name": "La Palavecino",
+      "url": "https://open.spotify.com/track/00fjTOsFohOQXJhO5KDuwi"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Carlos Torres Vila-Los Elegidos",
         "url": "https://open.spotify.com/album/6DKp4qYEUKGsgjz6YzizWC"
       },
@@ -1499,6 +1499,22 @@
       "duration_ms": 258306,
       "name": "Maestras De Jujuy",
       "url": "https://open.spotify.com/track/6PVgr4W0ykPhb5w7MZl3Ez"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/0RrfUzvrRxY38Bqdi9cMsl"
+      },
+      "artists": [
+        {
+          "name": "El Chango Nieto",
+          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
+        }
+      ],
+      "duration_ms": 151600,
+      "name": "Recuerdo Salte\u00f1o",
+      "url": "https://open.spotify.com/track/76yO7eh6SgvE0PSYjKdaVj"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1591,38 +1607,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Cantas T\u00fa, Canto Yo",
-        "url": "https://open.spotify.com/album/5URTFnqKE3e1MINrqVjAgF"
-      },
-      "artists": [
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "Chibidon",
-      "url": "https://open.spotify.com/track/3AYQhu2ISuQEd8lBJDIpXD"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/0RrfUzvrRxY38Bqdi9cMsl"
-      },
-      "artists": [
-        {
-          "name": "El Chango Nieto",
-          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
-        }
-      ],
-      "duration_ms": 151600,
-      "name": "Recuerdo Salte\u00f1o",
-      "url": "https://open.spotify.com/track/76yO7eh6SgvE0PSYjKdaVj"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Recuerdos de Ypacara\u00ed",
         "url": "https://open.spotify.com/album/5ZvJ9WQFnxnwTli25l9Ohg"
       },
@@ -1647,18 +1631,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Reencuentro en el CCK",
-        "url": "https://open.spotify.com/album/6ICf6htjHOdzE4caqtT69b"
+        "name": "Cantas T\u00fa, Canto Yo",
+        "url": "https://open.spotify.com/album/5URTFnqKE3e1MINrqVjAgF"
       },
       "artists": [
         {
-          "name": "Juan Fal\u00fa",
-          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
         }
       ],
-      "duration_ms": 115147,
-      "name": "Repiqueteadita",
-      "url": "https://open.spotify.com/track/5oaKdJi8it3WRS3RMAqZsE"
+      "duration_ms": 219933,
+      "name": "Chibidon",
+      "url": "https://open.spotify.com/track/3AYQhu2ISuQEd8lBJDIpXD"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1683,6 +1667,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Reencuentro en el CCK",
+        "url": "https://open.spotify.com/album/6ICf6htjHOdzE4caqtT69b"
+      },
+      "artists": [
+        {
+          "name": "Juan Fal\u00fa",
+          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
+        }
+      ],
+      "duration_ms": 115147,
+      "name": "Repiqueteadita",
+      "url": "https://open.spotify.com/track/5oaKdJi8it3WRS3RMAqZsE"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Jorge Cafrune 18 temas",
         "url": "https://open.spotify.com/album/4kxlEuKNnVnUkuLM2EpY9k"
       },
@@ -1695,38 +1695,6 @@
       "duration_ms": 133733,
       "name": "La olvidada",
       "url": "https://open.spotify.com/track/6nu6eQFJtv6Ihy60HvxI4l"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Antol\u00f3gico",
-        "url": "https://open.spotify.com/album/4SQb1bIPv3pkmgzIjIxHz3"
-      },
-      "artists": [
-        {
-          "name": "Polo Rom\u00e1n y Salta Trio",
-          "url": "https://open.spotify.com/artist/4SCayb8SLDyq3OcSz2GVkm"
-        }
-      ],
-      "duration_ms": 161881,
-      "name": "La Sanlorence\u00f1a",
-      "url": "https://open.spotify.com/track/2kD7pDdnnzZZRtNVq4oRE1"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Los Tekis-Los Elegidos",
-        "url": "https://open.spotify.com/album/5hbPxNq1s1WJsQSDxyq0Ft"
-      },
-      "artists": [
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
-        }
-      ],
-      "duration_ms": 196413,
-      "name": "Cantas T\u00fa, Canto Yo",
-      "url": "https://open.spotify.com/track/5IJ9BpJg40GItALp4XY3HK"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1747,6 +1715,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Antol\u00f3gico",
+        "url": "https://open.spotify.com/album/4SQb1bIPv3pkmgzIjIxHz3"
+      },
+      "artists": [
+        {
+          "name": "Polo Rom\u00e1n y Salta Trio",
+          "url": "https://open.spotify.com/artist/4SCayb8SLDyq3OcSz2GVkm"
+        }
+      ],
+      "duration_ms": 161881,
+      "name": "La Sanlorence\u00f1a",
+      "url": "https://open.spotify.com/track/2kD7pDdnnzZZRtNVq4oRE1"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "22 Grandes Exitos",
         "url": "https://open.spotify.com/album/4VcoE025pFB2BLm9fhgg6T"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 190333,
       "name": "Llorar\u00e9",
       "url": "https://open.spotify.com/track/3URJ8j0Z8yAXTigCzhvYrV"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Monte Adentro",
+        "url": "https://open.spotify.com/album/6LNqyYmm1jIyMCJcUEBBfR"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n Ayala El Mens\u00fa",
+          "url": "https://open.spotify.com/artist/6VBeD0MxrxKKw7FDK8FwhB"
+        }
+      ],
+      "duration_ms": 123146,
+      "name": "El Gualamb\u00e1o - Grabaci\u00f3n Original 1959",
+      "url": "https://open.spotify.com/track/6C47UVs9GGfx43i03ZThIr"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1795,18 +1795,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Monte Adentro",
-        "url": "https://open.spotify.com/album/6LNqyYmm1jIyMCJcUEBBfR"
+        "name": "Los Tekis-Los Elegidos",
+        "url": "https://open.spotify.com/album/5hbPxNq1s1WJsQSDxyq0Ft"
       },
       "artists": [
         {
-          "name": "Ram\u00f3n Ayala El Mens\u00fa",
-          "url": "https://open.spotify.com/artist/6VBeD0MxrxKKw7FDK8FwhB"
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
         }
       ],
-      "duration_ms": 123146,
-      "name": "El Gualamb\u00e1o - Grabaci\u00f3n Original 1959",
-      "url": "https://open.spotify.com/track/6C47UVs9GGfx43i03ZThIr"
+      "duration_ms": 196413,
+      "name": "Cantas T\u00fa, Canto Yo",
+      "url": "https://open.spotify.com/track/5IJ9BpJg40GItALp4XY3HK"
     },
     {
       "added_at": "2024-07-12 03:00:00",

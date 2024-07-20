@@ -1,6 +1,6 @@
 {
   "description": "Ouve os hits do ver\u00e3o de 2024! \ud83c\udf1e",
-  "num_followers": 107782,
+  "num_followers": 107804,
   "original_name": "Ver\u00e3o 2024 \ud83c\udf79\ud83c\udfd6\ufe0f",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-07-08 08:30:55",
       "album": {
-        "name": "MILLION DOLLAR BABY",
-        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 155151,
-      "name": "MILLION DOLLAR BABY",
-      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
-    },
-    {
-      "added_at": "2024-07-08 08:30:55",
-      "album": {
         "name": "Columbia",
         "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 186000,
       "name": "Columbia",
       "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
+    },
+    {
+      "added_at": "2024-07-08 08:30:55",
+      "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
     },
     {
       "added_at": "2024-07-08 08:30:55",
@@ -1107,30 +1107,6 @@
     {
       "added_at": "2024-07-08 08:30:55",
       "album": {
-        "name": "Vacil\u00e3o",
-        "url": "https://open.spotify.com/album/0Q3gwqKjsGoCv0JZGjyNrv"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        },
-        {
-          "name": "Igow",
-          "url": "https://open.spotify.com/artist/3Uees4yarZxpOrkxJsU8jA"
-        },
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        }
-      ],
-      "duration_ms": 130403,
-      "name": "Vacil\u00e3o",
-      "url": "https://open.spotify.com/track/7CJJ7JC3kj9XdweWTvfVhX"
-    },
-    {
-      "added_at": "2024-07-08 08:30:55",
-      "album": {
         "name": "Ela Voltou de Perna Bamba",
         "url": "https://open.spotify.com/album/0yqNgSv3rV1saE5YfUVSUs"
       },
@@ -1155,6 +1131,30 @@
       "duration_ms": 199384,
       "name": "Ela Voltou de Perna Bamba",
       "url": "https://open.spotify.com/track/745VUhm32odbxJI2q1rUMv"
+    },
+    {
+      "added_at": "2024-07-08 08:30:55",
+      "album": {
+        "name": "Vacil\u00e3o",
+        "url": "https://open.spotify.com/album/0Q3gwqKjsGoCv0JZGjyNrv"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        },
+        {
+          "name": "Igow",
+          "url": "https://open.spotify.com/artist/3Uees4yarZxpOrkxJsU8jA"
+        },
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "duration_ms": 130403,
+      "name": "Vacil\u00e3o",
+      "url": "https://open.spotify.com/track/7CJJ7JC3kj9XdweWTvfVhX"
     },
     {
       "added_at": "2024-07-08 08:30:55",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-07-08 08:30:55",
       "album": {
-        "name": "COR D'\u00c1GUA",
-        "url": "https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 272637,
-      "name": "TA TUDO BEM",
-      "url": "https://open.spotify.com/track/15ERxM3x0D2HzqdhPxsbd2"
-    },
-    {
-      "added_at": "2024-07-08 08:30:55",
-      "album": {
         "name": "At\u00e9 ao Fim",
         "url": "https://open.spotify.com/album/46YktMeTszHGnImZEd4AT0"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 204884,
       "name": "At\u00e9 ao Fim",
       "url": "https://open.spotify.com/track/0KVuFaXvgC5v4xRlSIiitI"
+    },
+    {
+      "added_at": "2024-07-08 08:30:55",
+      "album": {
+        "name": "COR D'\u00c1GUA",
+        "url": "https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 272637,
+      "name": "TA TUDO BEM",
+      "url": "https://open.spotify.com/track/15ERxM3x0D2HzqdhPxsbd2"
     },
     {
       "added_at": "2024-07-08 08:30:55",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Last Train
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,729 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,740 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 39 | [Marée haute](https://open.spotify.com/track/4nHA9dbzEp6Q4lH6P8zN9E) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [Plates coutures](https://open.spotify.com/album/35KPICCxAelsB81JKpLZjN) | 4:08 |
 | 40 | [Qu'est\-ce qu'on va faire de toi](https://open.spotify.com/track/00ENwiGXMl2NpX2pI3FDoA) | [Alister](https://open.spotify.com/artist/1xouBaP3PomCmnS8kv2loT) | [Aucun mal ne vous sera fait](https://open.spotify.com/album/67KzexkVZ1xJZH5ZjNBVKW) | 4:02 |
 | 41 | [Chirac En Prison](https://open.spotify.com/track/7kZwIyIu8k8RWnEriuGEqp) | [Les Wampas](https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE) | [Rock'n'Roll Part 9](https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK) | 2:55 |
-| 42 | [Raisonne](https://open.spotify.com/track/7hSTh1YWoPGMlVnevO6Rev) | [Astonvilla](https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7) | [Aston Villa](https://open.spotify.com/album/6JkbhM2APycjDSEV6e1vlm) | 5:07 |
-| 43 | [Révolution.com](https://open.spotify.com/track/7ciDK4wg2Lmk7KaoWWYtgg) | [No One Is Innocent](https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3) | [Revolution.com](https://open.spotify.com/album/2ARdTJwLcGdw0GGhbeEfSo) | 3:27 |
+| 42 | [Révolution.com](https://open.spotify.com/track/7ciDK4wg2Lmk7KaoWWYtgg) | [No One Is Innocent](https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3) | [Revolution.com](https://open.spotify.com/album/2ARdTJwLcGdw0GGhbeEfSo) | 3:27 |
+| 43 | [Raisonne](https://open.spotify.com/track/7hSTh1YWoPGMlVnevO6Rev) | [Astonvilla](https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7) | [Aston Villa](https://open.spotify.com/album/6JkbhM2APycjDSEV6e1vlm) | 5:07 |
 | 44 | [Je me souviens, je me rappelle](https://open.spotify.com/track/3vgmRlBi986YeWV95UNgJ6) | [Daniel Darc](https://open.spotify.com/artist/7iMdjNroWSI5FqRxeu2G5t) | [Crèvecoeur \(2019 remastered\)](https://open.spotify.com/album/5brOhiGaSGy404g0CaY3Yf) | 3:19 |
-| 45 | [Cinglés](https://open.spotify.com/track/47D4jhH08KvIh0cDCT66Jv) | [Enhancer](https://open.spotify.com/artist/1ZMwAUWdG4agL20Lxsv5Ah) | [Street Trash](https://open.spotify.com/album/5H5wogwt7titOvQyo6r1rS) | 3:20 |
-| 46 | [Anomalie](https://open.spotify.com/track/4lzxPainD9ovAzAAAeXoqs) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Anomalie](https://open.spotify.com/album/7BpAbYt9NzfXUOUlniH9Qf) | 3:09 |
-| 47 | [La traversée](https://open.spotify.com/track/2pgOiAr03DlaNLFwljFwF6) | [Radio Elvis](https://open.spotify.com/artist/1U1tfTJHxezIBnlay13sVA) | [Les conquêtes \(Deluxe edition\)](https://open.spotify.com/album/4EGzP5VOcMpD3wolbI8Fcj) | 3:30 |
-| 48 | [Le bonheur](https://open.spotify.com/track/1WsPkcmKon4hQypbdtYiTo) | [Archimède](https://open.spotify.com/artist/3DVs1DqfMYft7Nl1tcX7rP) | [Trafalgar](https://open.spotify.com/album/2WjJE58CMkwX9OCdNW9S6T) | 2:35 |
+| 45 | [Anomalie](https://open.spotify.com/track/4lzxPainD9ovAzAAAeXoqs) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Anomalie](https://open.spotify.com/album/7BpAbYt9NzfXUOUlniH9Qf) | 3:09 |
+| 46 | [Cinglés](https://open.spotify.com/track/47D4jhH08KvIh0cDCT66Jv) | [Enhancer](https://open.spotify.com/artist/1ZMwAUWdG4agL20Lxsv5Ah) | [Street Trash](https://open.spotify.com/album/5H5wogwt7titOvQyo6r1rS) | 3:20 |
+| 47 | [Le bonheur](https://open.spotify.com/track/1WsPkcmKon4hQypbdtYiTo) | [Archimède](https://open.spotify.com/artist/3DVs1DqfMYft7Nl1tcX7rP) | [Trafalgar](https://open.spotify.com/album/2WjJE58CMkwX9OCdNW9S6T) | 2:35 |
+| 48 | [La traversée](https://open.spotify.com/track/2pgOiAr03DlaNLFwljFwF6) | [Radio Elvis](https://open.spotify.com/artist/1U1tfTJHxezIBnlay13sVA) | [Les conquêtes \(Deluxe edition\)](https://open.spotify.com/album/4EGzP5VOcMpD3wolbI8Fcj) | 3:30 |
 | 49 | [Alice & June \- Mix 2020](https://open.spotify.com/track/7taoYAfDTtuI5dxSBeijUO) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Singles Collection \(2001 \- 2021\)](https://open.spotify.com/album/73W988ag6ew4iiNTbgMU0C) | 3:28 |
 | 50 | [Undone](https://open.spotify.com/track/5VW0SagBIrGCmwlL1j51c6) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:38 |
 

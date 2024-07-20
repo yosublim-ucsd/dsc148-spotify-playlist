@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 
 > slow burners for late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 988,412 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 988,399 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 34 | [Humans](https://open.spotify.com/track/1F4Sia9UHvh5JuPV7bwgix) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Humans](https://open.spotify.com/album/3NBcENkuLCwmb0TSgbZvRi) | 4:11 |
 | 35 | [green house](https://open.spotify.com/track/7ltRWqAI5vXTbn5Tb1KX2q) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Take What You Need](https://open.spotify.com/album/3nR9KOMEB7VhY8PlyiK11d) | 1:57 |
 | 36 | [Broom](https://open.spotify.com/track/5BbalszBPahg1um1QVxSRi) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Float Back To You](https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F) | 2:15 |
-| 37 | [Camille](https://open.spotify.com/track/0HBvrmugioEvfQpnv2kPX0) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Nearly Straight](https://open.spotify.com/album/2aViIw8MflAIHHsPK5hXX9) | 2:16 |
-| 38 | [WOOF](https://open.spotify.com/track/1x28zxdv6XBU3a6oiCBp17) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [PHANTOM OF THE AFTERS](https://open.spotify.com/album/5qTMbYlI0vyyAHtOhajcOy) | 3:02 |
+| 37 | [WOOF](https://open.spotify.com/track/1x28zxdv6XBU3a6oiCBp17) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [PHANTOM OF THE AFTERS](https://open.spotify.com/album/5qTMbYlI0vyyAHtOhajcOy) | 3:02 |
+| 38 | [Camille](https://open.spotify.com/track/0HBvrmugioEvfQpnv2kPX0) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Nearly Straight](https://open.spotify.com/album/2aViIw8MflAIHHsPK5hXX9) | 2:16 |
 | 39 | [By The Lake](https://open.spotify.com/track/08RxnD1RocmKqiGUiEQWkB) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM), [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 2:57 |
 | 40 | [La La La](https://open.spotify.com/track/08eFlR1borTUC3cufSz5oz) | [Moon Soul](https://open.spotify.com/artist/48IWhckCqdKLfS7hFw20x5) | [Moon Soul](https://open.spotify.com/album/1GDqh9jIhxc7yoil0g5Z1O) | 1:06 |
 | 41 | [Amnesia](https://open.spotify.com/track/5dPUsGMQNCOreRx8jYrOpn) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Craterellus Tubaeformis](https://open.spotify.com/album/3r1iYMy6HNa2cxtArmxydJ) | 3:40 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 43 | [Rouge](https://open.spotify.com/track/1EtuMOssvtZhPEWPB3VWzw) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Where Are You Going?](https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp) | 2:50 |
 | 44 | [High](https://open.spotify.com/track/3B9NEjn6V9kLsYmGc2RsSo) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [It's All a Bit Fuzzy](https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL) | 2:44 |
 | 45 | [Lover’s Rock](https://open.spotify.com/track/7eLIyJ632oXGozoLiGB1Ik) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Lover’s Rock](https://open.spotify.com/album/7oeGRapHeKODWlsNGdOZ8Z) | 2:28 |
-| 46 | [Saturnine](https://open.spotify.com/track/0czIop1Wsllu6wCktR633R) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Saturnine](https://open.spotify.com/album/6oz2tEohOFkesZAkr6jgeE) | 3:21 |
-| 47 | [Sorrow](https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Sorrow](https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT) | 2:20 |
+| 46 | [Sorrow](https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Sorrow](https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT) | 2:20 |
+| 47 | [Saturnine](https://open.spotify.com/track/0czIop1Wsllu6wCktR633R) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Saturnine](https://open.spotify.com/album/6oz2tEohOFkesZAkr6jgeE) | 3:21 |
 | 48 | [This Is My Story](https://open.spotify.com/track/44PXZKO9CfbWrHosfe9j3a) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Big Crown Vaults Vol\. 3 \- Holy Hive](https://open.spotify.com/album/2WJTqjkxctm9tTax0zAq46) | 2:12 |
 | 49 | [Little Queenie \(2023 Remastered Version\)](https://open.spotify.com/track/3bW3FVztCl5BoY8QooHHzj) | [SadGirl](https://open.spotify.com/artist/39iRwJEhPG25CU7LYdNkQ2) | [Deluxe Edition](https://open.spotify.com/album/63UY8mR272oIL75BF6fI2M) | 2:50 |
 | 50 | [Hate the Sun](https://open.spotify.com/track/1j7tgS4WTvaTpQNm4uWp6D) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:34 |
@@ -88,11 +88,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 78 | [Back Then](https://open.spotify.com/track/2twsYPcDYxW85W9nVMrWAt) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 2:49 |
 | 79 | [Rabid Dog](https://open.spotify.com/track/4DhufpFtJhDjlCI3vYNXRo) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Rabid Dog](https://open.spotify.com/album/2ll3i9DmecdeFcW0kUy4vw) | 3:59 |
 | 80 | [Dream Of You](https://open.spotify.com/track/0VnhfWkFlzs7ozbMC2ms5n) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Holy Waters](https://open.spotify.com/album/0lKhpZwGFHDSKctDYk1dhy) | 3:03 |
-| 81 | [Searching For Yourself \(feat\. Raveena\)](https://open.spotify.com/track/6m07gYVINo4QNYowLB3hUW) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Future Reference](https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg) | 3:14 |
-| 82 | [Nightlife](https://open.spotify.com/track/4UZjcwGRc99D7GwJYXVRPd) | [Morning Silk](https://open.spotify.com/artist/4tyiJFCv1MuTzfykbK0q7A) | [Nightlife](https://open.spotify.com/album/6ZQtzX4jkYZ9bCrHJuqluB) | 3:08 |
+| 81 | [Nightlife](https://open.spotify.com/track/4UZjcwGRc99D7GwJYXVRPd) | [Morning Silk](https://open.spotify.com/artist/4tyiJFCv1MuTzfykbK0q7A) | [Nightlife](https://open.spotify.com/album/6ZQtzX4jkYZ9bCrHJuqluB) | 3:08 |
+| 82 | [Searching For Yourself \(feat\. Raveena\)](https://open.spotify.com/track/6m07gYVINo4QNYowLB3hUW) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Future Reference](https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg) | 3:14 |
 | 83 | [Iris and I](https://open.spotify.com/track/0keKUvQlMR21BPpZfJAMlW) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Iris and I](https://open.spotify.com/album/0OF4M8g6GOgUvMUX21ypu1) | 2:45 |
-| 84 | [good days](https://open.spotify.com/track/0bzRnAmbac20MQSkYClr8Z) | [surf bagel](https://open.spotify.com/artist/38YfrSySicHwZBiHjHcMua) | [good days](https://open.spotify.com/album/7EvSFyzwjb4ZryeC695Jh1) | 2:28 |
-| 85 | [Get Well](https://open.spotify.com/track/2HL9AWMPtGWxPEYyEdpdaU) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8) | 3:57 |
+| 84 | [Get Well](https://open.spotify.com/track/2HL9AWMPtGWxPEYyEdpdaU) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8) | 3:57 |
+| 85 | [good days](https://open.spotify.com/track/0bzRnAmbac20MQSkYClr8Z) | [surf bagel](https://open.spotify.com/artist/38YfrSySicHwZBiHjHcMua) | [good days](https://open.spotify.com/album/7EvSFyzwjb4ZryeC695Jh1) | 2:28 |
 | 86 | [DD](https://open.spotify.com/track/1JHmvvbneBOS4NkEu8omQz) | [Insightful](https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z) | [33](https://open.spotify.com/album/0HuHiy3hPKuTiS0qw1lFD7) | 3:20 |
 | 87 | [I Think I Lost That Love](https://open.spotify.com/track/0UqRhRTH7FqsnOR0AZ16rX) | [r mccarthy](https://open.spotify.com/artist/0NXGquUwII6z0ukB4xmvS7) | [Dick Arkive: Issue 2](https://open.spotify.com/album/5lYNwUm6IiQ6TusHKNT9QV) | 4:02 |
 | 88 | [That's What They Wanted](https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2) | [canless valley](https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj) | [That's What They Wanted](https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC) | 1:56 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 95 | [Really You](https://open.spotify.com/track/51jPeV7Ece8amGS37cBC80) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Inside](https://open.spotify.com/album/2mhUlq89PNUsG0iRweZ8no) | 3:38 |
 | 96 | [Hum](https://open.spotify.com/track/613GQvfjeHuxbXhH9Vxwpo) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Cola](https://open.spotify.com/album/5BUwu0SK4LWMKiJ5y5TF36) | 1:38 |
 | 97 | [Flower Girl](https://open.spotify.com/track/0Wv2uZY5ZU5rOxVjXo2ttu) | [Lionel Boy](https://open.spotify.com/artist/3UaINrj5Lmv7F7meQPuIGh) | [Lionel Boy](https://open.spotify.com/album/6GjZiLmCzYL2GnqlqS9759) | 3:44 |
-| 98 | [Tides](https://open.spotify.com/track/5PKry44nrSmbNmbFJ7gSD0) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t), [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi) | [単にRetroFuture](https://open.spotify.com/album/5Ypek9futUq1THrPjyQDkp) | 2:27 |
-| 99 | [Show Me How \- Live at RBC Echo Beach](https://open.spotify.com/track/546DYMoIeq9bpz2ZQdDB6a) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Live at RBC Echo Beach](https://open.spotify.com/album/5r70krK838xAiHP8t0algB) | 3:33 |
+| 98 | [Plastic Beach](https://open.spotify.com/track/6tqBvXpnAqeHTzINQlhbKp) | [TWEAKS](https://open.spotify.com/artist/0Eee47Sroig9UczLZGtyVn) | [Move San, Lèt Gate](https://open.spotify.com/album/6gVG0djijF2sU0KLYFObKE) | 2:55 |
+| 99 | [Tides](https://open.spotify.com/track/5PKry44nrSmbNmbFJ7gSD0) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t), [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi) | [単にRetroFuture](https://open.spotify.com/album/5Ypek9futUq1THrPjyQDkp) | 2:27 |
 | 100 | [Days Like This](https://open.spotify.com/track/5dXSZacyn5kvZHrXZ3rFsL) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/5lGV6B08akg9VD5VhqHb5v) | 4:55 |
 
 Snapshot ID: `ZogiSQAAAABaH1ihGOPL97zn6Z4pkWcr`

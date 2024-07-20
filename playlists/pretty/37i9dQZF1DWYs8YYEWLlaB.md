@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 
 > viral, trend ve yükselenler\. Kapak: BLOK3
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,185 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,557 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 20 | [Hayırlı Günler](https://open.spotify.com/track/3ExN5IQsWu2otaXOI3EJGt) | [Aydın Kurtoğlu](https://open.spotify.com/artist/7ymCV8co6nSwmYFEyGmVvJ) | [Pişman](https://open.spotify.com/album/2d36jqTxkiuvdoHCBefUNg) | 3:16 |
 | 21 | [Kufi](https://open.spotify.com/track/4JqP7JwWNG8I7xY40E6IWh) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Kufi](https://open.spotify.com/album/3FpJOsSnsSziu7JFmAzRPc) | 4:26 |
 | 22 | [DACIA X YATIYA \- Remix](https://open.spotify.com/track/4RC8B7vYRcM6Kkg5x80ezG) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Melis Kar](https://open.spotify.com/artist/4hdeFgoe7zQEJWXVIAm2yj) | [DACIA X YATIYA \(Remix\)](https://open.spotify.com/album/2U6D1xZHeEoe7zmzPJmiVG) | 2:38 |
-| 23 | [LAF](https://open.spotify.com/track/7rHLpc3SZobYPDyBF06uok) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [LAF](https://open.spotify.com/album/0FGpFHP4yc7uWScjSHkx8O) | 2:06 |
-| 24 | [Geri Dönemedim](https://open.spotify.com/track/10Sa2Mpma0EHWKLuyyrBdq) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geri Dönemedim](https://open.spotify.com/album/2EsFEiIxSLfij6dy5vd1SC) | 2:18 |
+| 23 | [Geri Dönemedim](https://open.spotify.com/track/10Sa2Mpma0EHWKLuyyrBdq) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geri Dönemedim](https://open.spotify.com/album/2EsFEiIxSLfij6dy5vd1SC) | 2:18 |
+| 24 | [LAF](https://open.spotify.com/track/7rHLpc3SZobYPDyBF06uok) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [LAF](https://open.spotify.com/album/0FGpFHP4yc7uWScjSHkx8O) | 2:06 |
 | 25 | [Yüreğim Ağlar](https://open.spotify.com/track/1wIdx6xw7B01SnnJoamriL) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Yüreğim Ağlar](https://open.spotify.com/album/2PQrfmLgIrkqiQmNnQIbcV) | 3:23 |
 | 26 | [Cennet](https://open.spotify.com/track/0ay0rJ0zPpu5yGLCxqz5oE) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Cennet](https://open.spotify.com/album/0nGdlxWVdcHbjaf4CvKAXm) | 2:20 |
 | 27 | [Kafamın İçi](https://open.spotify.com/track/30kd9r9pbMn6bs6CKyFOCu) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo), [Zeyd](https://open.spotify.com/artist/12MwQGIKtcERM3CNJhhq5T) | [Yine Çalıyor](https://open.spotify.com/album/2d3z7xdD9R3sAKueFrV2jp) | 2:15 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 34 | [Yoksun](https://open.spotify.com/track/0Rb3Zf4wemUX45NNoo5H0L) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo) | [Yoksun](https://open.spotify.com/album/5l3AhfIKrcdqJiYUMySwNb) | 2:16 |
 | 35 | [Bertaraf](https://open.spotify.com/track/1PiyTtoNn0m4kfJWLfjHny) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [SIR](https://open.spotify.com/album/7l1gVxwITzFt0YE4gqLVyk) | 2:34 |
 | 36 | [Yatıya](https://open.spotify.com/track/51yVTZAAXjMuOCiBvN980F) | [Melis Kar](https://open.spotify.com/artist/4hdeFgoe7zQEJWXVIAm2yj) | [Yatıya](https://open.spotify.com/album/2YjYHiGyyAxgX41SsmLEGl) | 3:19 |
-| 37 | [Numaracı](https://open.spotify.com/track/6LATAa81iyMHWhXgI4VHwL) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Fatih](https://open.spotify.com/album/7eB3zd25eiAwsUMCcLpRCf) | 4:16 |
-| 38 | [Saat 03.00 \(By Volga Tamöz\)](https://open.spotify.com/track/45cI1Cz1nyp1sHiUd2kgal) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6) | [Dört Dörtlük](https://open.spotify.com/album/6BlUffy1dlYUfo3uUhnwP8) | 3:32 |
+| 37 | [Saat 03.00 \(By Volga Tamöz\)](https://open.spotify.com/track/45cI1Cz1nyp1sHiUd2kgal) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6) | [Dört Dörtlük](https://open.spotify.com/album/6BlUffy1dlYUfo3uUhnwP8) | 3:32 |
+| 38 | [Numaracı](https://open.spotify.com/track/6LATAa81iyMHWhXgI4VHwL) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Fatih](https://open.spotify.com/album/7eB3zd25eiAwsUMCcLpRCf) | 4:16 |
 | 39 | [Dilerim Ki](https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Dilerim Ki](https://open.spotify.com/album/3b8J9uYshIDindPqgT2cno) | 3:20 |
 | 40 | [İmdadım](https://open.spotify.com/track/6Bd1IXmQB9YZa7yI8j98fM) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ), [Zara](https://open.spotify.com/artist/1B4KdcJA6Dh1MlAiezqc08) | [İmdadım](https://open.spotify.com/album/616fhHuuWrVXPz8gpHR8Yd) | 2:09 |
 | 41 | [Merhametsiz](https://open.spotify.com/track/4hQVobSCtZ6zI7cjCyIOF4) | [Cevher](https://open.spotify.com/artist/5jUaU1L6PePJadPjzKYFXf) | [Merhametsiz](https://open.spotify.com/album/6ahlCcEViVQLxgoQKVfH3X) | 4:06 |

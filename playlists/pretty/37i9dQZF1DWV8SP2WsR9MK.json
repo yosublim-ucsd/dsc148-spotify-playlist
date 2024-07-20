@@ -1,6 +1,6 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 93152,
+  "num_followers": 93199,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "What's It All About",
-        "url": "https://open.spotify.com/album/1PFk7YXdSPenmhnsy85qN0"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny",
-          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
-        }
-      ],
-      "duration_ms": 262106,
-      "name": "And I Love Her",
-      "url": "https://open.spotify.com/track/6ITNRagpLcw79jH8gkiyBS"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
         "name": "Cream",
         "url": "https://open.spotify.com/album/6R8qLTLbNFxzfBoavYUCXy"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 138533,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/7Meqm9jgQXhh08vdnbrvfY"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
+        "name": "What's It All About",
+        "url": "https://open.spotify.com/album/1PFk7YXdSPenmhnsy85qN0"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        }
+      ],
+      "duration_ms": 262106,
+      "name": "And I Love Her",
+      "url": "https://open.spotify.com/track/6ITNRagpLcw79jH8gkiyBS"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -199,26 +199,6 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "Beyond The Missouri Sky",
-        "url": "https://open.spotify.com/album/2PULgzT2IHwYzfNxi4n3vY"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny",
-          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
-        },
-        {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "Cinema Paradiso [Love Theme]",
-      "url": "https://open.spotify.com/track/5lsR6wuL7T7vR5IOZwPaEc"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
         "name": "Arclight",
         "url": "https://open.spotify.com/album/6sKJEBTRRuQhI696nyr1mD"
       },
@@ -251,22 +231,6 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "Djangologie Vol9 / 1939 - 1940",
-        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "I'll See You in My Dreams",
-      "url": "https://open.spotify.com/track/52yEkn1b6BiOZad3x7x6PP"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
         "name": "Undercurrent",
         "url": "https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ"
       },
@@ -287,6 +251,42 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
+        "name": "Djangologie Vol9 / 1939 - 1940",
+        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "I'll See You in My Dreams",
+      "url": "https://open.spotify.com/track/52yEkn1b6BiOZad3x7x6PP"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
+        "name": "Beyond The Missouri Sky",
+        "url": "https://open.spotify.com/album/2PULgzT2IHwYzfNxi4n3vY"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        },
+        {
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "Cinema Paradiso [Love Theme]",
+      "url": "https://open.spotify.com/track/5lsR6wuL7T7vR5IOZwPaEc"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/6B7Oo2qWozbz9hz1s4S8Yi"
       },
@@ -303,18 +303,26 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "Bright Size Life",
-        "url": "https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw"
+        "name": "Travel Guide",
+        "url": "https://open.spotify.com/album/5ygzx8GmxucUl8RhAU2Nua"
       },
       "artists": [
         {
-          "name": "Pat Metheny",
-          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+          "name": "Ralph Towner",
+          "url": "https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535"
+        },
+        {
+          "name": "Wolfgang Muthspiel",
+          "url": "https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ"
+        },
+        {
+          "name": "Slava Grigoryan",
+          "url": "https://open.spotify.com/artist/77wkuxKkegWzlyPxnX2dtG"
         }
       ],
-      "duration_ms": 285600,
-      "name": "Bright Size Life",
-      "url": "https://open.spotify.com/track/6UwTR0kjCtlT4FMNtIvLac"
+      "duration_ms": 277560,
+      "name": "Father Time",
+      "url": "https://open.spotify.com/track/4GuzBvxkGq1MHaeYVWO7dL"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -355,26 +363,18 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "Travel Guide",
-        "url": "https://open.spotify.com/album/5ygzx8GmxucUl8RhAU2Nua"
+        "name": "Cream",
+        "url": "https://open.spotify.com/album/6R8qLTLbNFxzfBoavYUCXy"
       },
       "artists": [
         {
-          "name": "Ralph Towner",
-          "url": "https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535"
-        },
-        {
-          "name": "Wolfgang Muthspiel",
-          "url": "https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ"
-        },
-        {
-          "name": "Slava Grigoryan",
-          "url": "https://open.spotify.com/artist/77wkuxKkegWzlyPxnX2dtG"
+          "name": "Pat Martino",
+          "url": "https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz"
         }
       ],
-      "duration_ms": 277560,
-      "name": "Father Time",
-      "url": "https://open.spotify.com/track/4GuzBvxkGq1MHaeYVWO7dL"
+      "duration_ms": 628186,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/6xHcMss02s14r2EdXLEqhk"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -395,38 +395,18 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "Cream",
-        "url": "https://open.spotify.com/album/6R8qLTLbNFxzfBoavYUCXy"
-      },
-      "artists": [
-        {
-          "name": "Pat Martino",
-          "url": "https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz"
-        }
-      ],
-      "duration_ms": 628186,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/6xHcMss02s14r2EdXLEqhk"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
-        "name": "Alive! (Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000)",
-        "url": "https://open.spotify.com/album/4NL6PN6GkMqI7Ztz4iGPU6"
+        "name": "The Best Of Grant Green",
+        "url": "https://open.spotify.com/album/6DJNcDFC9fT8Ll1WnX4oq7"
       },
       "artists": [
         {
           "name": "Grant Green",
           "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        },
-        {
-          "name": "Ray Blair",
-          "url": "https://open.spotify.com/artist/2D3XOzloX98FKjvCa9inP1"
         }
       ],
-      "duration_ms": 658333,
-      "name": "Sookie Sookie - Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000",
-      "url": "https://open.spotify.com/track/6i9Uhx8fUHQu9aHXCjiu7B"
+      "duration_ms": 897626,
+      "name": "Idle Moments",
+      "url": "https://open.spotify.com/track/6bY9atW7iC0JMy7nx4eT0Y"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -463,38 +443,18 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "Beyond The Missouri Sky",
-        "url": "https://open.spotify.com/album/2PULgzT2IHwYzfNxi4n3vY"
+        "name": "Bright Size Life",
+        "url": "https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw"
       },
       "artists": [
         {
           "name": "Pat Metheny",
           "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
-        },
-        {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
         }
       ],
-      "duration_ms": 244626,
-      "name": "The Moon Is A Harsh Mistress",
-      "url": "https://open.spotify.com/track/70JLN0ibjDTs5hlUFTmqGq"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 291640,
-      "name": "In Your Own Sweet Way",
-      "url": "https://open.spotify.com/track/392OK8Qdmos0wNDrduiwy0"
+      "duration_ms": 285600,
+      "name": "Bright Size Life",
+      "url": "https://open.spotify.com/track/6UwTR0kjCtlT4FMNtIvLac"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -515,18 +475,38 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "The Best Of Grant Green",
-        "url": "https://open.spotify.com/album/6DJNcDFC9fT8Ll1WnX4oq7"
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 291640,
+      "name": "In Your Own Sweet Way",
+      "url": "https://open.spotify.com/track/392OK8Qdmos0wNDrduiwy0"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
+        "name": "Alive! (Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000)",
+        "url": "https://open.spotify.com/album/4NL6PN6GkMqI7Ztz4iGPU6"
       },
       "artists": [
         {
           "name": "Grant Green",
           "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        },
+        {
+          "name": "Ray Blair",
+          "url": "https://open.spotify.com/artist/2D3XOzloX98FKjvCa9inP1"
         }
       ],
-      "duration_ms": 897626,
-      "name": "Idle Moments",
-      "url": "https://open.spotify.com/track/6bY9atW7iC0JMy7nx4eT0Y"
+      "duration_ms": 658333,
+      "name": "Sookie Sookie - Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000",
+      "url": "https://open.spotify.com/track/6i9Uhx8fUHQu9aHXCjiu7B"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -543,46 +523,6 @@
       "duration_ms": 224962,
       "name": "Lil' Darlin'",
       "url": "https://open.spotify.com/track/6G9gDSV2reYifOmD4cwUSf"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
-        "name": "Django Reinhardt: Legendary Recordings",
-        "url": "https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 168720,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/3ctsORVoVEDUxLpQAL0zOC"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
-        "name": "Offramp",
-        "url": "https://open.spotify.com/album/1heeMC7VVWEDxdQKxesqQK"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny",
-          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
-        },
-        {
-          "name": "Lyle Mays",
-          "url": "https://open.spotify.com/artist/3yjmQDYGp9XYnFwptDvYc4"
-        },
-        {
-          "name": "Pat Metheny Group",
-          "url": "https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt"
-        }
-      ],
-      "duration_ms": 401960,
-      "name": "James",
-      "url": "https://open.spotify.com/track/5E7hYtzDxeIsa5yEI597KO"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -607,6 +547,22 @@
       "duration_ms": 315493,
       "name": "H\u00fcttengriffe",
       "url": "https://open.spotify.com/track/15pJPbo0r00e82puUIUS1i"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
+        "name": "Django Reinhardt: Legendary Recordings",
+        "url": "https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 168720,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/3ctsORVoVEDUxLpQAL0zOC"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -651,22 +607,6 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "Tequila (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "How Insensitive",
-      "url": "https://open.spotify.com/track/6XrRsEiP7KccIkRgqxcL70"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/4HpPxBDSrsPQfcM69FME8z"
       },
@@ -683,42 +623,38 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "Kessel Plays Standards",
-        "url": "https://open.spotify.com/album/5ppBTIkGP1apH4P9Rc1Wjc"
+        "name": "Beyond The Missouri Sky",
+        "url": "https://open.spotify.com/album/2PULgzT2IHwYzfNxi4n3vY"
       },
       "artists": [
         {
-          "name": "Barney Kessel",
-          "url": "https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG"
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
         },
         {
-          "name": "Ray Brown",
-          "url": "https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8"
-        },
-        {
-          "name": "Shelly Manne",
-          "url": "https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo"
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
         }
       ],
-      "duration_ms": 188333,
-      "name": "A Foggy Day",
-      "url": "https://open.spotify.com/track/6uddYxVxC6qX5PSPzAylid"
+      "duration_ms": 244626,
+      "name": "The Moon Is A Harsh Mistress",
+      "url": "https://open.spotify.com/track/70JLN0ibjDTs5hlUFTmqGq"
     },
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "Djangologie Vol15 / 1946 - 1947",
-        "url": "https://open.spotify.com/album/1sUg8G0j9lPHSQExj5Q797"
+        "name": "Tequila (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I"
       },
       "artists": [
         {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
         }
       ],
-      "duration_ms": 158013,
-      "name": "Django's Tiger",
-      "url": "https://open.spotify.com/track/7D0Vzk7rZ6ncTFZj3AqT84"
+      "duration_ms": 229173,
+      "name": "How Insensitive",
+      "url": "https://open.spotify.com/track/6XrRsEiP7KccIkRgqxcL70"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -755,6 +691,70 @@
       "duration_ms": 394333,
       "name": "Angel Face",
       "url": "https://open.spotify.com/track/2gePqIl6YIoKbDlATyIYgN"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
+        "name": "Djangologie Vol15 / 1946 - 1947",
+        "url": "https://open.spotify.com/album/1sUg8G0j9lPHSQExj5Q797"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 158013,
+      "name": "Django's Tiger",
+      "url": "https://open.spotify.com/track/7D0Vzk7rZ6ncTFZj3AqT84"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
+        "name": "Offramp",
+        "url": "https://open.spotify.com/album/1heeMC7VVWEDxdQKxesqQK"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        },
+        {
+          "name": "Lyle Mays",
+          "url": "https://open.spotify.com/artist/3yjmQDYGp9XYnFwptDvYc4"
+        },
+        {
+          "name": "Pat Metheny Group",
+          "url": "https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt"
+        }
+      ],
+      "duration_ms": 401960,
+      "name": "James",
+      "url": "https://open.spotify.com/track/5E7hYtzDxeIsa5yEI597KO"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
+        "name": "Kessel Plays Standards",
+        "url": "https://open.spotify.com/album/5ppBTIkGP1apH4P9Rc1Wjc"
+      },
+      "artists": [
+        {
+          "name": "Barney Kessel",
+          "url": "https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG"
+        },
+        {
+          "name": "Ray Brown",
+          "url": "https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8"
+        },
+        {
+          "name": "Shelly Manne",
+          "url": "https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "A Foggy Day",
+      "url": "https://open.spotify.com/track/6uddYxVxC6qX5PSPzAylid"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
+        "name": "The Artistry Of Tal Farlow",
+        "url": "https://open.spotify.com/album/3DhbpcnuskeHWkCzWAM9cO"
+      },
+      "artists": [
+        {
+          "name": "Tal Farlow",
+          "url": "https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf"
+        }
+      ],
+      "duration_ms": 296613,
+      "name": "Have You Met Miss Jones?",
+      "url": "https://open.spotify.com/track/10iq9kylUDnPeLJikEdCvl"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
         "name": "Hand-Crafted Swing",
         "url": "https://open.spotify.com/album/1qb8YfycUTV28M85dBT5kZ"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 370866,
       "name": "The Nearness Of You - Instrumental",
       "url": "https://open.spotify.com/track/118oSpIpxvMlnpeX2TOiKr"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
-        "name": "The Artistry Of Tal Farlow",
-        "url": "https://open.spotify.com/album/3DhbpcnuskeHWkCzWAM9cO"
-      },
-      "artists": [
-        {
-          "name": "Tal Farlow",
-          "url": "https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf"
-        }
-      ],
-      "duration_ms": 296613,
-      "name": "Have You Met Miss Jones?",
-      "url": "https://open.spotify.com/track/10iq9kylUDnPeLJikEdCvl"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "Rambler",
-        "url": "https://open.spotify.com/album/1vkLfWBiL2wHMxdGpDCbPC"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 492266,
-      "name": "Rambler",
-      "url": "https://open.spotify.com/track/09AbZLx0X2GsRSXFgEpLKA"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
         "name": "Good Pickin's",
         "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
       },
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "Heritage",
-        "url": "https://open.spotify.com/album/09y9mx5jM6g9pqqrFnUoXy"
+        "name": "Rambler",
+        "url": "https://open.spotify.com/album/1vkLfWBiL2wHMxdGpDCbPC"
       },
       "artists": [
         {
-          "name": "Lionel Loueke",
-          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
         }
       ],
-      "duration_ms": 280333,
-      "name": "Freedom Dance",
-      "url": "https://open.spotify.com/track/3wSD488adiUFtKzxHb8fmi"
+      "duration_ms": 492266,
+      "name": "Rambler",
+      "url": "https://open.spotify.com/track/09AbZLx0X2GsRSXFgEpLKA"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
+        "name": "Heritage",
+        "url": "https://open.spotify.com/album/09y9mx5jM6g9pqqrFnUoXy"
+      },
+      "artists": [
+        {
+          "name": "Lionel Loueke",
+          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
+        }
+      ],
+      "duration_ms": 280333,
+      "name": "Freedom Dance",
+      "url": "https://open.spotify.com/track/3wSD488adiUFtKzxHb8fmi"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
         "name": "Deep Song",
         "url": "https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8"
       },
@@ -1315,42 +1315,6 @@
       "duration_ms": 502440,
       "name": "Brooklyn Sometimes",
       "url": "https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
-        "name": "Bill Frisell, Ron Carter, Paul Motian",
-        "url": "https://open.spotify.com/album/7hnLRv9M7Gt9HjMPsZ1mmz"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 356533,
-      "name": "You Are My Sunshine",
-      "url": "https://open.spotify.com/track/2sf3HFNcwXw9cd1D4in2lT"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
-        "name": "Free Flying",
-        "url": "https://open.spotify.com/album/1Qvqde6pj6KPoRnKxdOsvO"
-      },
-      "artists": [
-        {
-          "name": "Fred Hersch",
-          "url": "https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx"
-        },
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 384413,
-      "name": "Monk's Dream",
-      "url": "https://open.spotify.com/track/6CeJnR7HphMYbazmHYZEtA"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -1375,6 +1339,26 @@
       "duration_ms": 253866,
       "name": "Odd Man Out",
       "url": "https://open.spotify.com/track/4zSlzvNseGhiutbNKzq6nO"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
+        "name": "Free Flying",
+        "url": "https://open.spotify.com/album/1Qvqde6pj6KPoRnKxdOsvO"
+      },
+      "artists": [
+        {
+          "name": "Fred Hersch",
+          "url": "https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx"
+        },
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 384413,
+      "name": "Monk's Dream",
+      "url": "https://open.spotify.com/track/6CeJnR7HphMYbazmHYZEtA"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -1419,22 +1403,6 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "Heartcore",
-        "url": "https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 371200,
-      "name": "Blue Line",
-      "url": "https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
         "name": "Gateway",
         "url": "https://open.spotify.com/album/17BiOpPnez7L0w8r0yRp9Y"
       },
@@ -1455,6 +1423,38 @@
       "duration_ms": 661106,
       "name": "May Dance",
       "url": "https://open.spotify.com/track/7JSzT2mjJgyslo0QyrndSb"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
+        "name": "Heartcore",
+        "url": "https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 371200,
+      "name": "Blue Line",
+      "url": "https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
+        "name": "Bill Frisell, Ron Carter, Paul Motian",
+        "url": "https://open.spotify.com/album/7hnLRv9M7Gt9HjMPsZ1mmz"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 356533,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/2sf3HFNcwXw9cd1D4in2lT"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
+        "name": "What We Do",
+        "url": "https://open.spotify.com/album/60rpQDTCR4ZtfJ9o5YMzT7"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        }
+      ],
+      "duration_ms": 396360,
+      "name": "Little Walk",
+      "url": "https://open.spotify.com/track/4nYrj53C7CgDWJtKHFgKx6"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
         "name": "Sound of Love",
         "url": "https://open.spotify.com/album/7prLNRTG2wRjyK5zM067oi"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 412666,
       "name": "Once Around the Park",
       "url": "https://open.spotify.com/track/2kt141xiuDX8l0wPV61S9q"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
-        "name": "What We Do",
-        "url": "https://open.spotify.com/album/60rpQDTCR4ZtfJ9o5YMzT7"
-      },
-      "artists": [
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        }
-      ],
-      "duration_ms": 396360,
-      "name": "Little Walk",
-      "url": "https://open.spotify.com/track/4nYrj53C7CgDWJtKHFgKx6"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -1675,6 +1675,22 @@
       "duration_ms": 388546,
       "name": "Dexterity",
       "url": "https://open.spotify.com/track/1XWNom3RjC845iyW9vx6X3"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
+        "name": "Past Present",
+        "url": "https://open.spotify.com/album/5ob5jEthhcZI9lLlEH2Tit"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        }
+      ],
+      "duration_ms": 321866,
+      "name": "Enjoy The Future !",
+      "url": "https://open.spotify.com/track/1dWktJdLblH6Vt0SkX2ZoE"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -1759,22 +1775,6 @@
       "duration_ms": 394560,
       "name": "You Are Too Beautiful",
       "url": "https://open.spotify.com/track/3Kersuib3CNo2CzQZg52M3"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
-        "name": "Past Present",
-        "url": "https://open.spotify.com/album/5ob5jEthhcZI9lLlEH2Tit"
-      },
-      "artists": [
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        }
-      ],
-      "duration_ms": 321866,
-      "name": "Enjoy The Future !",
-      "url": "https://open.spotify.com/track/1dWktJdLblH6Vt0SkX2ZoE"
     },
     {
       "added_at": "2024-07-17 12:19:46",

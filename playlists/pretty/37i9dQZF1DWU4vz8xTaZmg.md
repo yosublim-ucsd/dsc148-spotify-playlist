@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4vz8xTaZmg.md) - [plain]
 
 > Hacele honor al domingo y terminalo bien arriba.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,363 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,361 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4vz8xTaZmg.md) - [plain]
 | 61 | [El Loco](https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 3:05 |
 | 62 | [NI BIEN NI MAL](https://open.spotify.com/track/278kSqsZIiYp8p3QjYAqa8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:56 |
 | 63 | [Nicki Nicole: Bzrp Music Sessions, Vol\. 13](https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nicki Nicole: Bzrp Music Sessions, Vol\. 13](https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n) | 2:23 |
-| 64 | [LUST.](https://open.spotify.com/track/06FCvd7rrRcF3DdvWH5Isp) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 5:07 |
-| 65 | [Chau](https://open.spotify.com/track/3uP1USIwwDpOA8uw0LjY2P) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 5:19 |
+| 64 | [Chau](https://open.spotify.com/track/3uP1USIwwDpOA8uw0LjY2P) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 5:19 |
+| 65 | [LUST.](https://open.spotify.com/track/06FCvd7rrRcF3DdvWH5Isp) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 5:07 |
 | 66 | [Panini](https://open.spotify.com/track/1000nHvUdawXuUHgBod4Wv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Panini](https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov) | 1:54 |
 | 67 | [220](https://open.spotify.com/track/6ZvsmvXknoN8uK2MSEGpwT) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [POST MORTEM](https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF) | 2:56 |
 | 68 | [Como Eran Las Cosas](https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 4:00 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4vz8xTaZmg.md) - [plain]
 | 91 | [Personalmente](https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Despierta](https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz) | 4:10 |
 | 92 | [BIG](https://open.spotify.com/track/7cyeGclH71MayOuQ7qtLFl) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 3:45 |
 | 93 | [Bounce](https://open.spotify.com/track/3EO0tGvdBCw6vdChaNvVlc) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Bonus Trap](https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX) | 2:13 |
-| 94 | [Aeroplane](https://open.spotify.com/track/0VLdJcQUsqHBBwqPp4CIKJ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [One Hot Minute \(Deluxe Edition\)](https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi) | 4:45 |
-| 95 | [A Veces Vuelvo](https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 4:26 |
+| 94 | [A Veces Vuelvo](https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 4:26 |
+| 95 | [Aeroplane](https://open.spotify.com/track/0VLdJcQUsqHBBwqPp4CIKJ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [One Hot Minute \(Deluxe Edition\)](https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi) | 4:45 |
 | 96 | [PIENSO EN TU MIRÁ \- Cap.3: Celos](https://open.spotify.com/track/5r8mGKhCDIVWb3AG4hm0l0) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 3:13 |
 | 97 | [Fuimos Amor](https://open.spotify.com/track/6wkPUUWrRhBUFAqC5UCcG4) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 4:09 |
 | 98 | [Tu Locura](https://open.spotify.com/track/1nCCY0KmVlfn8WUmGYYwLf) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Canciones Elegidas 93\-04](https://open.spotify.com/album/0PFFQ4JYeh7af4SWUuGrTq) | 2:29 |
-| 99 | [My Friends](https://open.spotify.com/track/6HksxcBzMVdT17aq1Q79Xe) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [One Hot Minute \(Deluxe Edition\)](https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi) | 4:08 |
-| 100 | [Me haces bien](https://open.spotify.com/track/4UKe38tm5NkRpuFCxwewEe) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Sea](https://open.spotify.com/album/5MAlr4sv266fgE8qVQUeuO) | 3:04 |
+| 99 | [Me haces bien](https://open.spotify.com/track/4UKe38tm5NkRpuFCxwewEe) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Sea](https://open.spotify.com/album/5MAlr4sv266fgE8qVQUeuO) | 3:04 |
+| 100 | [WAM](https://open.spotify.com/track/7f2HHmhlbdkW5f9Ge26qny) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [Floor Seats](https://open.spotify.com/album/6bI4IQKBcLX0KsTjQ9NR97) | 2:37 |
 
 Snapshot ID: `ZmoxYwAAAABCZLeJF8ybB8H5el7ZzU9F`

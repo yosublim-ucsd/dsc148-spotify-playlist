@@ -4,7 +4,7 @@
 
 > The hottest Latin hits in the US! Cover: KAROL G
 
-490 songs - 1 day 2 hr 59 min
+491 songs - 1 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [LENTITO](https://open.spotify.com/track/4RMKNv1Bl3koY4Kys0G8Rb) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [LENTITO](https://open.spotify.com/album/4wIh0endOPhEFLXLVYQCR3) | 3:23 | 2022-10-07 | 2023-03-18 |
 | [Ley Seca](https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 4:23 | 2021-12-09 | 2022-07-12 |
 | [Ley Seca](https://open.spotify.com/track/51yjkR9blUWtAphR7lZl5y) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Ley Seca](https://open.spotify.com/album/2FA49rbLgNqFX28k1RE4Vn) | 4:23 | 2021-12-09 | 2022-03-12 |
+| [LINDA](https://open.spotify.com/track/4oowI6IgJp9oqUnJewTp6Y) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [LINDA](https://open.spotify.com/album/3yWUhNOlKeko8CssJgRUF8) | 3:44 | 2024-07-19 |  |
 | [Lisa](https://open.spotify.com/track/44FzVABpR2cciquTqADA0D) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Lisa](https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt) | 2:39 | 2023-03-17 | 2023-04-29 |
 | [Llueve](https://open.spotify.com/track/5yDAnr9USNQTP6ojiWBCvv) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Llueve](https://open.spotify.com/album/3z4zsIdBVA0vJh8Udz4TJD) | 4:09 | 2022-06-10 | 2022-08-31 |
 | [LLYLM](https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LLYLM](https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm) | 2:54 | 2023-01-27 | 2023-04-04 |
@@ -414,7 +415,7 @@
 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 | 2022-03-25 | 2022-09-21 |
 | [Sin Fin](https://open.spotify.com/track/4BBTalxG6c1Aoai1x1EA5g) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:54 | 2022-09-02 | 2023-04-04 |
 | [Sin Tanto Royo](https://open.spotify.com/track/2ieCamPuL76ipKH1cLH7tH) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:28 | 2024-01-12 | 2024-02-27 |
-| [Sin Yolanda](https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 3:10 | 2024-05-24 |  |
+| [Sin Yolanda](https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 3:10 | 2024-05-24 | 2024-07-20 |
 | [Sobran Motivos](https://open.spotify.com/track/1uTHr7ij3eiDdUXvQfA5au) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Sobran Motivos](https://open.spotify.com/album/3UX8li2vzG8IcjtPQ11dGt) | 3:05 | 2023-04-28 | 2023-07-01 |
 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 | 2021-12-09 | 2022-05-10 |
 | [SORRY 4 THAT MUCH](https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SORRY 4 THAT MUCH](https://open.spotify.com/album/1kZGpaXOeB48TPT2JatjvC) | 3:27 | 2024-06-21 |  |

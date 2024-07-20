@@ -4,7 +4,7 @@
 
 > Rising stars and new releases from sunny Singapore\. Cover: Haven
 
-140 songs - 7 hr 40 min
+141 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Evolution Of NDP Songs](https://open.spotify.com/track/5USHxCpDsBJlMFFC6CqkPc) | [The Island Voices](https://open.spotify.com/artist/6qlXAApftEMUSOCpaFiMKR) | [Evolution Of NDP Songs](https://open.spotify.com/album/7wCSnuRlGMSsVx5Jb0ZRVb) | 4:34 | 2024-07-04 |  |
 | [EX YOU](https://open.spotify.com/track/6EFncLJszMqRd6bOA0uOOv) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [EX YOU](https://open.spotify.com/album/5CvfmkcMNXnLDMgz6g243Y) | 2:54 | 2024-06-27 |  |
 | [Feel The Same](https://open.spotify.com/track/0b7U8X4OjpeJ3HHK7Cw6DN) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB), [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [Feel The Same](https://open.spotify.com/album/5ccdTJgc6HTvHCGfrranhV) | 2:52 | 2024-06-27 |  |
+| [For Y0u.](https://open.spotify.com/track/4alGCWQt4tFFKXmPeAfs12) | [Zam 0'DEEN](https://open.spotify.com/artist/0s6qwiEvQn7NiypEyYdexJ) | [For Y0u.](https://open.spotify.com/album/0hFGlu1TCbz38jyDy39QHq) | 2:50 | 2024-07-18 |  |
 | [forever!](https://open.spotify.com/track/68N5FkX77LVfDPHczx6wmy) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [forever!](https://open.spotify.com/album/6rKIpQpZGUJaqgo4ti2kXq) | 2:30 | 2024-07-04 |  |
 | [friend](https://open.spotify.com/track/5kUvjEjP1mD4aRCdbUaAdO) | [St\. Humain](https://open.spotify.com/artist/1TzaWm5TbNb62mWSvoTW2Y), [Microdot](https://open.spotify.com/artist/1ToWoFmtIc9NTPFy7lR690) | [friend](https://open.spotify.com/album/5Y35b7wTtFFhpHXR3zYbcV) | 2:47 | 2024-06-27 |  |
 | [GD](https://open.spotify.com/track/3O6Wx3cGuFljZLZ7Sch70j) | [Tyen Rasif](https://open.spotify.com/artist/35S21JGNjKGy0ueRX9MSSZ) | [GD](https://open.spotify.com/album/6nKqkVw5u94HKRx4Navbww) | 3:06 | 2024-06-27 |  |

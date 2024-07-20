@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rL8w8.md) - [plain]
 
 ### [This Is El Komander](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rL8w8)
 
-> This is El Komander\. The essential tracks, all in one playlist.
+> This Is El Komander\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,267 likes - 51 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,321 likes - 51 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,28 +21,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rL8w8.md) - [plain]
 | 11 | [Qué Tiene De Malo](https://open.spotify.com/track/06Od4Aeme6RXm1nNVpgxIr) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Contigo](https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt) | 2:48 |
 | 12 | [Las Dos Cruces](https://open.spotify.com/track/6tmtWp77eEMctFjUOHZLyr) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY) | 4:03 |
 | 13 | [Trato De Muerte \(feat\. Los Buchones De Culiacan\)](https://open.spotify.com/track/1SNUI5uJQhPobHP7A4dnmH) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 3:19 |
-| 14 | [La Princesa](https://open.spotify.com/track/1oqqIvtl8Q26q4ACnrjU4b) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Detras Del Miedo](https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9) | 3:17 |
-| 15 | [Descansa Mi Amor](https://open.spotify.com/track/7GFIRU9DfwqiLQaDDlyVp3) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Cazador](https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD) | 3:05 |
+| 14 | [Descansa Mi Amor](https://open.spotify.com/track/7GFIRU9DfwqiLQaDDlyVp3) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Cazador](https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD) | 3:05 |
+| 15 | [La Princesa](https://open.spotify.com/track/1oqqIvtl8Q26q4ACnrjU4b) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Detras Del Miedo](https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9) | 3:17 |
 | 16 | [El Katch](https://open.spotify.com/track/6IB7Ma6l2RXm8qzSCh3J6r) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Katch](https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM) | 2:13 |
 | 17 | [La Manda Incumplida](https://open.spotify.com/track/3rRDolvq54CsOTDkuaOvW5) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 2:29 |
-| 18 | [Me Quiero Casar](https://open.spotify.com/track/1NKieJNxZiQpXYA7Wmx2Hd) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Me Quiero Casar](https://open.spotify.com/album/11q4dGHmq3Jm1XcABg4HkX) | 2:36 |
-| 19 | [Toquezones de Cannabis](https://open.spotify.com/track/1BFlRcER6IYupiiEVaYvMJ) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Cazador](https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD) | 2:47 |
+| 18 | [Toquezones de Cannabis](https://open.spotify.com/track/1BFlRcER6IYupiiEVaYvMJ) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Cazador](https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD) | 2:47 |
+| 19 | [Me Quiero Casar](https://open.spotify.com/track/1NKieJNxZiQpXYA7Wmx2Hd) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Me Quiero Casar](https://open.spotify.com/album/11q4dGHmq3Jm1XcABg4HkX) | 2:36 |
 | 20 | [Corrido Del Invalido](https://open.spotify.com/track/3JlnKdYKmLDestzbgPsSiJ) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Katch](https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM) | 2:42 |
 | 21 | [Siempre Que Me Emborracho](https://open.spotify.com/track/66b3krwHwKrKwVOOHkZXXv) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 2:06 |
-| 22 | [Ranchero Y Gallardo](https://open.spotify.com/track/7GkL4xPB65VQat6d5CIu9z) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY) | 2:14 |
-| 23 | [Ranchero Poderoso](https://open.spotify.com/track/6KRuCIVLV334mVZUR3iNuA) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Cazador](https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD) | 2:43 |
+| 22 | [Ranchero Poderoso](https://open.spotify.com/track/6KRuCIVLV334mVZUR3iNuA) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Cazador](https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD) | 2:43 |
+| 23 | [Ranchero Y Gallardo](https://open.spotify.com/track/7GkL4xPB65VQat6d5CIu9z) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY) | 2:14 |
 | 24 | [Orden Exigido \(Feat\. Buknas De Culiacan\)](https://open.spotify.com/track/0krRIU2PNSKjYrYXLadazM) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Buknas De Culiacan](https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:48 |
 | 25 | [Estilo Sl](https://open.spotify.com/track/1gLjWUivqJ3jtL606mzhqK) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 2:34 |
-| 26 | [Tu Fotografia](https://open.spotify.com/track/5YXbNf3uYo713jo7uDARia) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY) | 3:23 |
-| 27 | [Leyenda M1](https://open.spotify.com/track/2I1IVGBwp88bjvY0LrAtAg) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Cazador](https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD) | 2:50 |
+| 26 | [Leyenda M1](https://open.spotify.com/track/2I1IVGBwp88bjvY0LrAtAg) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Cazador](https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD) | 2:50 |
+| 27 | [Tu Fotografia](https://open.spotify.com/track/5YXbNf3uYo713jo7uDARia) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY) | 3:23 |
 | 28 | [Mafia Nueva](https://open.spotify.com/track/6iLTn5x3UzYyPgupyliMkt) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:26 |
 | 29 | [El Tamarindo](https://open.spotify.com/track/1tz8HjQD09LI1TYgnMskxz) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Movimiento Alterado Vol\. 3](https://open.spotify.com/album/3kAOjL60TZgpCf7Ir6G4DO) | 2:22 |
-| 30 | [Abusamos Del Alcohol](https://open.spotify.com/track/5nLlnNeNJtTkum4E0iXOYi) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY) | 3:50 |
-| 31 | [Soy de Rancho](https://open.spotify.com/track/0FwUglqH6FtXpI41kBLTfI) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Cazador](https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD) | 3:15 |
+| 30 | [Soy de Rancho](https://open.spotify.com/track/0FwUglqH6FtXpI41kBLTfI) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Cazador](https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD) | 3:15 |
+| 31 | [Abusamos Del Alcohol](https://open.spotify.com/track/5nLlnNeNJtTkum4E0iXOYi) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY) | 3:50 |
 | 32 | [El Corrido del Viejon](https://open.spotify.com/track/6NExyM5EiZaBcfKa0F9toD) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:17 |
 | 33 | [Nomás Por Ser Sinaloense](https://open.spotify.com/track/1scZA7rmeJT5XwbEO9cksa) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Katch](https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM) | 1:57 |
-| 34 | [El Corrido De Everardo \(En Vivo\)](https://open.spotify.com/track/6AEgZEVqpOPVR3IVBNoc87) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Corrido De Everardo \(En Vivo\)](https://open.spotify.com/album/39Ft3zOrGLKqScuPTGVjYP) | 3:31 |
-| 35 | [Caricias de Prepago](https://open.spotify.com/track/0uWw0mXCEq6Doj3lDrtcVD) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Caricias de Prepago](https://open.spotify.com/album/3qCsESB0EryTIoxjn6N0AH) | 2:52 |
+| 34 | [Caricias de Prepago](https://open.spotify.com/track/0uWw0mXCEq6Doj3lDrtcVD) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Caricias de Prepago](https://open.spotify.com/album/3qCsESB0EryTIoxjn6N0AH) | 2:52 |
+| 35 | [El Corrido De Everardo \(En Vivo\)](https://open.spotify.com/track/6AEgZEVqpOPVR3IVBNoc87) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Corrido De Everardo \(En Vivo\)](https://open.spotify.com/album/39Ft3zOrGLKqScuPTGVjYP) | 3:31 |
 | 36 | [Estrategias De Escape](https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:27 |
 | 37 | [Yo Me Quiero Mas](https://open.spotify.com/track/4RfvSyMKUrF7BSN9TKojx2) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Yo Me Quiero Mas](https://open.spotify.com/album/6ZtcgGVyQRqkAK7kEYCjqO) | 3:10 |
 | 38 | [No Ocupa La Banda Pa’ Bailar Mi Cuaco](https://open.spotify.com/track/4YHlqCBMgcSi3ZBBMGZ8Uc) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [No Ocupa La Banda Pa’ Bailar Mi Cuaco](https://open.spotify.com/album/2oDscjIVA5YERidGVVlzVT) | 2:33 |
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rL8w8.md) - [plain]
 | 48 | [El Ratón](https://open.spotify.com/track/1Y98KIXwNLbkxxCVp23Nqs) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Ratón](https://open.spotify.com/album/22Ksg2wzl7xXZ8rnq8x4qr) | 3:19 |
 | 49 | [Champagne O Cerveza](https://open.spotify.com/track/2RsGtPL49HyVUQIp9cb98S) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Dany El Nise](https://open.spotify.com/artist/5x3F32PI0v0SdjilxDgQt8) | [Champagne O Cerveza](https://open.spotify.com/album/2VopIXebtG4ryyoSORu4QX) | 2:28 |
 | 50 | [El Ejecutor \(Bonus Track\)](https://open.spotify.com/track/1DhA9CMyDg1XogiU3KLQej) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:28 |
-| 51 | [Fuga Pa Maza](https://open.spotify.com/track/5ySCwdva5U06Lqf3Z7sz8e) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Detras Del Miedo](https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9) | 3:02 |
+| 51 | [Un Frisian Llamado El Centenario \- En Vivo](https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [En Vivo Desde Mi Ranchito](https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs) | 4:30 |
 
-Snapshot ID: `ZpcJgAAAAABJnZPlei7yHr9U3hahdSbw`
+Snapshot ID: `ZphbAAAAAADLWSWpzE+Q/bCUApKl4yWy`

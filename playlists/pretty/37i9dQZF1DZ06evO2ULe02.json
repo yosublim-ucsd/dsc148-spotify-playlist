@@ -1,12 +1,12 @@
 {
-  "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
-  "num_followers": 866,
+  "description": "This Is Aidan Bissett. Kaikki olennaiset kappaleet yhdess\u00e4 soittolistassa.",
+  "num_followers": 872,
   "original_name": "This Is Aidan Bissett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAABlUQWpzlhDSi6stEXt463f",
+  "snapshot_id": "ZphbAAAAAABR6++DqhOby/PYpEcGKpNI",
   "tracks": [
     {
       "added_at": null,
@@ -39,6 +39,22 @@
       "duration_ms": 183012,
       "name": "More Than Friends",
       "url": "https://open.spotify.com/track/1Ph96WpdjNlwD6iKRE2Xa3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Out Of My League",
+        "url": "https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 181135,
+      "name": "Out Of My League",
+      "url": "https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk"
     },
     {
       "added_at": null,

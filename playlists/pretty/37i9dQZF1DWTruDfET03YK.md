@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 
 > Tu familia puede visitar a todos los animales en el zoológico con estas divertidas canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,128 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,170 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 | 22 | [Bear's Song](https://open.spotify.com/track/6SB3SXYBAcOn3cYngy0Mrq) | [Маша и медведь](https://open.spotify.com/artist/6CJDS6xbJlxbBTUgALlHJa) | [Masha and the Bear Songs, Pt\. 2](https://open.spotify.com/album/0WAkPHAwKWomhcu2Sp4DYT) | 1:23 |
 | 23 | [Popurrí de animales \(El señor don Gato \- La cucaracha \- Pollito chicken\) \- Remasterizado 2016](https://open.spotify.com/track/0fqm5VQW2MnitfZJ0oVopy) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [En Vivo \- Grandes Éxitos](https://open.spotify.com/album/7lRcKpMoYWFNvn2VLrXycs) | 5:37 |
 | 24 | [El Cocodrilo Dante](https://open.spotify.com/track/3IZ5vpnQpmTh5TrmaCsQZJ) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Canciones del Zoo Vol\. 4](https://open.spotify.com/album/7yWbd1Bb31ODxxN9bh9W0R) | 2:14 |
-| 25 | [El Circo](https://open.spotify.com/track/3qs4mRe6EjrjnnMiomwBqC) | [Xuxa](https://open.spotify.com/artist/4DOlsUBpxw706SXx05Xoi2) | [Xuxa Em Espanhol](https://open.spotify.com/album/46FmUNWIlYCuXXTIoFGSNi) | 3:20 |
+| 25 | [El Circo](https://open.spotify.com/track/3qs4mRe6EjrjnnMiomwBqC) | [Xuxa](https://open.spotify.com/artist/4DOlsUBpxw706SXx05Xoi2) | [Xuxa En Español](https://open.spotify.com/album/46FmUNWIlYCuXXTIoFGSNi) | 3:20 |
 | 26 | [El Piojo y la Pulga](https://open.spotify.com/track/5nC6wXvj96JvcAafI4DUZA) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:32 |
 | 27 | [Patitos Cuacuacua](https://open.spotify.com/track/35FQXso1fGAtmpJA0skQZt) | [Canciones Infantiles En Español](https://open.spotify.com/artist/1FEmVBvJ5naZ1qBKeLcoHv) | [Canciones Infantiles Y Musica Infantil](https://open.spotify.com/album/33ljDtetHDbUlc3ZTp4Rlm) | 1:49 |
 | 28 | [El Caballo Comisario](https://open.spotify.com/track/2WblKc2kdC9h3IaRpoyNqr) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [Canta Baila Juega](https://open.spotify.com/album/2pE7DwjBDzEiugaQ7iIKDv) | 1:51 |

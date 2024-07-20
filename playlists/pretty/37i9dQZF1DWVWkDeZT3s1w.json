@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 101884,
+  "num_followers": 101909,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -1287,30 +1287,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Gala",
-        "url": "https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6"
-      },
-      "artists": [
-        {
-          "name": "Bronko Yotte",
-          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
-        },
-        {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
-        },
-        {
-          "name": "Dj Perez",
-          "url": "https://open.spotify.com/artist/4pYx5PDavOZqKec3vIX9Xr"
-        }
-      ],
-      "duration_ms": 183013,
-      "name": "Prometo",
-      "url": "https://open.spotify.com/track/6KhHjRqNsyY8IUH0A8besf"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "Vive Libre",
         "url": "https://open.spotify.com/album/0SnSjPBRaLFhrxXJbpfd3h"
       },
@@ -1355,6 +1331,22 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
+        "name": "Helarte",
+        "url": "https://open.spotify.com/album/4bParJOMVqOcoVkDM3W4QT"
+      },
+      "artists": [
+        {
+          "name": "Lirika Inverza",
+          "url": "https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb"
+        }
+      ],
+      "duration_ms": 203909,
+      "name": "Helarte",
+      "url": "https://open.spotify.com/track/3VwGYRjzfGkwOezZuuVk6a"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
         "name": "Despiertas",
         "url": "https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu"
       },
@@ -1379,22 +1371,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Helarte",
-        "url": "https://open.spotify.com/album/4bParJOMVqOcoVkDM3W4QT"
-      },
-      "artists": [
-        {
-          "name": "Lirika Inverza",
-          "url": "https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb"
-        }
-      ],
-      "duration_ms": 203909,
-      "name": "Helarte",
-      "url": "https://open.spotify.com/track/3VwGYRjzfGkwOezZuuVk6a"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "REPRE$ENT",
         "url": "https://open.spotify.com/album/4o7fWPGfSBfKVe7R3ZWdnA"
       },
@@ -1415,6 +1391,30 @@
       "duration_ms": 245340,
       "name": "REPRE$ENT",
       "url": "https://open.spotify.com/track/7cl2avv0k1JPWqxBNDxO9e"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Gala",
+        "url": "https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6"
+      },
+      "artists": [
+        {
+          "name": "Bronko Yotte",
+          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
+        },
+        {
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        },
+        {
+          "name": "Dj Perez",
+          "url": "https://open.spotify.com/artist/4pYx5PDavOZqKec3vIX9Xr"
+        }
+      ],
+      "duration_ms": 183013,
+      "name": "Prometo",
+      "url": "https://open.spotify.com/track/6KhHjRqNsyY8IUH0A8besf"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1455,6 +1455,26 @@
       "duration_ms": 145979,
       "name": "\u00bfPor Qu\u00e9?",
       "url": "https://open.spotify.com/track/2Xr1HkDPYayvIvGDRAnz7a"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Tiempos Felices",
+        "url": "https://open.spotify.com/album/7AHNb6VALxScuuUYcmd90L"
+      },
+      "artists": [
+        {
+          "name": "Ximbo",
+          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
+        },
+        {
+          "name": "Nax",
+          "url": "https://open.spotify.com/artist/2tywCc8kh9RzR0XY8HYekn"
+        }
+      ],
+      "duration_ms": 201399,
+      "name": "Tiempos Felices",
+      "url": "https://open.spotify.com/track/4lS1HxKXFMinRnsz6PqywA"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1503,26 +1523,6 @@
       "duration_ms": 188000,
       "name": "104",
       "url": "https://open.spotify.com/track/5OaGRA4vQjvKwSRVsFvgku"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
-        "name": "Tiempos Felices",
-        "url": "https://open.spotify.com/album/7AHNb6VALxScuuUYcmd90L"
-      },
-      "artists": [
-        {
-          "name": "Ximbo",
-          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
-        },
-        {
-          "name": "Nax",
-          "url": "https://open.spotify.com/artist/2tywCc8kh9RzR0XY8HYekn"
-        }
-      ],
-      "duration_ms": 201399,
-      "name": "Tiempos Felices",
-      "url": "https://open.spotify.com/track/4lS1HxKXFMinRnsz6PqywA"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1599,34 +1599,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Rimas Femeninas",
-        "url": "https://open.spotify.com/album/7E9X8WXowkHl9y5aBLf1Cq"
-      },
-      "artists": [
-        {
-          "name": "Ximbo",
-          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
-        },
-        {
-          "name": "Joaka",
-          "url": "https://open.spotify.com/artist/47mkr9lbZgbWsXJuK5hUUB"
-        },
-        {
-          "name": "Moyenei",
-          "url": "https://open.spotify.com/artist/0MTbabWEr8ezuynxLbc2LB"
-        },
-        {
-          "name": "Yoez",
-          "url": "https://open.spotify.com/artist/5DGKY1WXYOULLTFxhCGxFE"
-        }
-      ],
-      "duration_ms": 193952,
-      "name": "Rimas Femeninas",
-      "url": "https://open.spotify.com/track/5Sj6xJcaHGBmstqYjQAlo5"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "Flow Leyenda",
         "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
       },
@@ -1659,6 +1631,34 @@
       "duration_ms": 145520,
       "name": "Shhh",
       "url": "https://open.spotify.com/track/44uj6Q1t6feL4qhGOBv2iW"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Rimas Femeninas",
+        "url": "https://open.spotify.com/album/7E9X8WXowkHl9y5aBLf1Cq"
+      },
+      "artists": [
+        {
+          "name": "Ximbo",
+          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
+        },
+        {
+          "name": "Joaka",
+          "url": "https://open.spotify.com/artist/47mkr9lbZgbWsXJuK5hUUB"
+        },
+        {
+          "name": "Moyenei",
+          "url": "https://open.spotify.com/artist/0MTbabWEr8ezuynxLbc2LB"
+        },
+        {
+          "name": "Yoez",
+          "url": "https://open.spotify.com/artist/5DGKY1WXYOULLTFxhCGxFE"
+        }
+      ],
+      "duration_ms": 193952,
+      "name": "Rimas Femeninas",
+      "url": "https://open.spotify.com/track/5Sj6xJcaHGBmstqYjQAlo5"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Siempreviva",
-        "url": "https://open.spotify.com/album/263pNkZ0JorxekXYAmCkO0"
-      },
-      "artists": [
-        {
-          "name": "Mare Advertencia Lirika",
-          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
-        }
-      ],
-      "duration_ms": 190528,
-      "name": "Bienvenidx",
-      "url": "https://open.spotify.com/track/4AZ9qnUdWe1r7twDSTRhCw"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "Algo Bien",
         "url": "https://open.spotify.com/album/6KUZQ0l1keA5Dlo3ovaYRW"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 211181,
       "name": "Deja",
       "url": "https://open.spotify.com/track/3rFQdyT9s0sg1zEaYQmJ45"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Siempreviva",
+        "url": "https://open.spotify.com/album/263pNkZ0JorxekXYAmCkO0"
+      },
+      "artists": [
+        {
+          "name": "Mare Advertencia Lirika",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        }
+      ],
+      "duration_ms": 190528,
+      "name": "Bienvenidx",
+      "url": "https://open.spotify.com/track/4AZ9qnUdWe1r7twDSTRhCw"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "SE BUSCA",
-        "url": "https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD"
-      },
-      "artists": [
-        {
-          "name": "Mare Advertencia Lirika",
-          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
-        }
-      ],
-      "duration_ms": 154450,
-      "name": "Se Busca",
-      "url": "https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "Ars Magna / Miradas",
         "url": "https://open.spotify.com/album/16HBbvrdIhOmqACyHvSlZa"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 150604,
       "name": "Rap Conciencia",
       "url": "https://open.spotify.com/track/3Yy12Xxqugjxvs4dWKvGMD"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "SE BUSCA",
+        "url": "https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD"
+      },
+      "artists": [
+        {
+          "name": "Mare Advertencia Lirika",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        }
+      ],
+      "duration_ms": 154450,
+      "name": "Se Busca",
+      "url": "https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW"
     }
   ],
   "unique_name": "Rap Conciencia",

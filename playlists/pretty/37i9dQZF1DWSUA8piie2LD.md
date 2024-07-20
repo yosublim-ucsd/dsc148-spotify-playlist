@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 
 > The smoothest of smooth Jazz for your romantic evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,309 likes - 75 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,364 likes - 75 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Girl In The Red Dress](https://open.spotify.com/track/7IGXCoBk68O6Yrt65WFPIL) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Looking Up](https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y) | 4:56 |
 | 2 | [If I Could Fly](https://open.spotify.com/track/6ZrF3FEq8MQd1CN9MXTHqa) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [Can't Stop Now](https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF) | 4:16 |
-| 3 | [I'm Waiting For You](https://open.spotify.com/track/2Wn7ZtdXyJ9uGBg2j6VvZR) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [Lil' Man Soul](https://open.spotify.com/album/3GPPcFHouTopuZons7w27s) | 4:05 |
-| 4 | [Greenstreet](https://open.spotify.com/track/7ChAL7efVJHKlm5Pl4oZqW) | [Bob Mamet](https://open.spotify.com/artist/3zzFQcyqb7rDDq8n587TtK) | [Day Into Night](https://open.spotify.com/album/2NKSBByE54uNLWgMosf0fB) | 3:58 |
+| 3 | [Greenstreet](https://open.spotify.com/track/7ChAL7efVJHKlm5Pl4oZqW) | [Bob Mamet](https://open.spotify.com/artist/3zzFQcyqb7rDDq8n587TtK) | [Day Into Night](https://open.spotify.com/album/2NKSBByE54uNLWgMosf0fB) | 3:58 |
+| 4 | [I'm Waiting For You](https://open.spotify.com/track/2Wn7ZtdXyJ9uGBg2j6VvZR) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [Lil' Man Soul](https://open.spotify.com/album/3GPPcFHouTopuZons7w27s) | 4:05 |
 | 5 | [On The Wes Side](https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Temptation](https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV) | 4:26 |
 | 6 | [Smooth Sensation](https://open.spotify.com/track/1jKOG02lqHnwYXHpyLF3Nd) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Smooth Sensation](https://open.spotify.com/album/12tng68mKohYzlVWT1QRna) | 4:36 |
 | 7 | [Sweet Thing](https://open.spotify.com/track/3M44mD2haxaLsG6chVL9l1) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Sweet Thing](https://open.spotify.com/album/1we21be2R4o56iwheyKMxE) | 3:54 |
@@ -36,16 +36,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 26 | [Nightfall](https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [Love's Melody](https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM) | 5:32 |
 | 27 | [Soul Dance](https://open.spotify.com/track/2ZKdcqyDje4i0PtjCrPkrf) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Stay With Me](https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl) | 4:14 |
 | 28 | [Rikke](https://open.spotify.com/track/1wvb7JFKm9QeLJ7VNRmncw) | [David Sanborn](https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE) | [Songs From The Night Before](https://open.spotify.com/album/1qABZigBQzuvHXnvjfcLCe) | 5:03 |
-| 29 | [In The Groove](https://open.spotify.com/track/2AyEl9H2FwNNdW7xdNRlSI) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Jumpin' Off](https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2) | 4:17 |
-| 30 | [Love's Serenade](https://open.spotify.com/track/0kuI1W0TxINXsHrrcHiMQS) | [Ramsey Lewis](https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc) | [Dance Of The Soul](https://open.spotify.com/album/1AMsdS2ZKQRYTuo4HSKywh) | 4:31 |
+| 29 | [Love's Serenade](https://open.spotify.com/track/0kuI1W0TxINXsHrrcHiMQS) | [Ramsey Lewis](https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc) | [Dance Of The Soul](https://open.spotify.com/album/1AMsdS2ZKQRYTuo4HSKywh) | 4:31 |
+| 30 | [In The Groove](https://open.spotify.com/track/2AyEl9H2FwNNdW7xdNRlSI) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Jumpin' Off](https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2) | 4:17 |
 | 31 | [Day By Day](https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Day By Day](https://open.spotify.com/album/64WYFNY33qxTidADO4omGA) | 5:04 |
 | 32 | [Fields of Gold](https://open.spotify.com/track/0f8lc6QabkwdZ89O2qRXkp) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS) | [Journey](https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI) | 5:40 |
 | 33 | [Body Language](https://open.spotify.com/track/5fzXNCgCGt3NnjfmpMSs7M) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Body Language](https://open.spotify.com/album/5UJmUYnpdtUGCcoMa7hDKE) | 4:55 |
 | 34 | [This Time Around](https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [Inside Out](https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi) | 5:02 |
 | 35 | [That's The Way Of The World](https://open.spotify.com/track/0wFUbc3DrWqqspYSh9CaVt) | [Kim Pensyl](https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN) | [Under The Influence](https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC) | 5:43 |
-| 36 | [Don't Let Me Be Lonely Tonight](https://open.spotify.com/track/1stVg1ixXQigAaehgcpH5h) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Livin' Large](https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU) | 2:58 |
-| 37 | [Last Look](https://open.spotify.com/track/3aLL7ks2lkz9YklnnWYqrI) | [Torcuato Mariano](https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR) | [Last Look](https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx) | 4:36 |
-| 38 | [Nightfall](https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Full Stride](https://open.spotify.com/album/30r0DoPQxBqIz3RBoxpcSj) | 4:20 |
+| 36 | [Nightfall](https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Full Stride](https://open.spotify.com/album/30r0DoPQxBqIz3RBoxpcSj) | 4:20 |
+| 37 | [Don't Let Me Be Lonely Tonight](https://open.spotify.com/track/1stVg1ixXQigAaehgcpH5h) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Livin' Large](https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU) | 2:58 |
+| 38 | [Last Look](https://open.spotify.com/track/3aLL7ks2lkz9YklnnWYqrI) | [Torcuato Mariano](https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR) | [Last Look](https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx) | 4:36 |
 | 39 | [Soul Express](https://open.spotify.com/track/6j9WWYS5j00w1MltPhTlH3) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Soul Express](https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH) | 4:38 |
 | 40 | [Nightshift](https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Nightshift](https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G) | 4:13 |
 | 41 | [Nice And Easy](https://open.spotify.com/track/19bvu15yBMP8ZBDPxvwp6K) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [For Your Pleasure](https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw) | 4:23 |

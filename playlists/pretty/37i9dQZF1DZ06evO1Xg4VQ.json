@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 69381,
+  "num_followers": 69388,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAADb1+E/TimLCIBwkjhpHtbk",
+  "snapshot_id": "ZphbAAAAAACoCY0yE+HZxFXeZt72eFWc",
   "tracks": [
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tree Of Life",
-        "url": "https://open.spotify.com/album/6dTFO9uEZRMA8vVPRCAfKU"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 170133,
-      "name": "Arenita Azul",
-      "url": "https://open.spotify.com/track/05aKE3IxwemvHCgvwKoScw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pecados Y Milagros",
         "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 295013,
       "name": "Dios Nunca Muere",
       "url": "https://open.spotify.com/track/28QHawocxdu8KeK3EpfNbN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tree Of Life",
+        "url": "https://open.spotify.com/album/6dTFO9uEZRMA8vVPRCAfKU"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 170133,
+      "name": "Arenita Azul",
+      "url": "https://open.spotify.com/track/05aKE3IxwemvHCgvwKoScw"
     },
     {
       "added_at": null,

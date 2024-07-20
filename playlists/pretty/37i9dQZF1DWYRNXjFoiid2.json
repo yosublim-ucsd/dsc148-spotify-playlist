@@ -1,6 +1,6 @@
 {
   "description": "Pop to fuel your gaming. Cover: mxmtoon",
-  "num_followers": 400681,
+  "num_followers": 400714,
   "original_name": "Ultimate Pop Gaming",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 151739,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 151739,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Dancin (feat. Luvli) [Krono Remix]",
         "url": "https://open.spotify.com/album/2J2f6vGACFrRghO1Ki74BE"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 198053,
       "name": "Dancin (feat. Luvli) - Krono Remix",
       "url": "https://open.spotify.com/track/6WkJ2OK163XXS2oARUC9JM"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "From the Start",
-        "url": "https://open.spotify.com/album/5SUqRbAHrcEGeLPb38L85v"
-      },
-      "artists": [
-        {
-          "name": "Good Kid",
-          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
-        }
-      ],
-      "duration_ms": 150047,
-      "name": "From the Start",
-      "url": "https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 242965,
       "name": "Knife Talk (with 21 Savage ft. Project Pat)",
       "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "From the Start",
+        "url": "https://open.spotify.com/album/5SUqRbAHrcEGeLPb38L85v"
+      },
+      "artists": [
+        {
+          "name": "Good Kid",
+          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
+        }
+      ],
+      "duration_ms": 150047,
+      "name": "From the Start",
+      "url": "https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Faster n Harder",
-        "url": "https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W"
-      },
-      "artists": [
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "Faster n Harder",
-      "url": "https://open.spotify.com/track/3qaMprRWLGggArD14diXYz"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Sweet Action",
         "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 139741,
       "name": "WHATS POPPIN",
       "url": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Faster n Harder",
+        "url": "https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "Faster n Harder",
+      "url": "https://open.spotify.com/track/3qaMprRWLGggArD14diXYz"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Party Girl",
-        "url": "https://open.spotify.com/album/4NPX54YtocHqTOq6yXDEFM"
-      },
-      "artists": [
-        {
-          "name": "StaySolidRocky",
-          "url": "https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ"
-        }
-      ],
-      "duration_ms": 147800,
-      "name": "Party Girl",
-      "url": "https://open.spotify.com/track/5RqR4ZCCKJDcBLIn4sih9l"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Prom Night",
         "url": "https://open.spotify.com/album/3ft78ZmPZcpVxpgzHTqcNZ"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 145899,
       "name": "Prom Night",
       "url": "https://open.spotify.com/track/7KhJdiu4zbPlhlImRLIyDl"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Party Girl",
+        "url": "https://open.spotify.com/album/4NPX54YtocHqTOq6yXDEFM"
+      },
+      "artists": [
+        {
+          "name": "StaySolidRocky",
+          "url": "https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ"
+        }
+      ],
+      "duration_ms": 147800,
+      "name": "Party Girl",
+      "url": "https://open.spotify.com/track/5RqR4ZCCKJDcBLIn4sih9l"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "NUMB",
-        "url": "https://open.spotify.com/album/5KVfexccg4jLnnmbHfJZn0"
-      },
-      "artists": [
-        {
-          "name": "Chri$tian Gate$",
-          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
-        }
-      ],
-      "duration_ms": 112500,
-      "name": "NUMB",
-      "url": "https://open.spotify.com/track/1BPBwKueIEMnUcbbs2te7B"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "everything sucks",
         "url": "https://open.spotify.com/album/0VtWoMZIJp2kyJcbzBJxLO"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 115401,
       "name": "everything sucks",
       "url": "https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "NUMB",
+        "url": "https://open.spotify.com/album/5KVfexccg4jLnnmbHfJZn0"
+      },
+      "artists": [
+        {
+          "name": "Chri$tian Gate$",
+          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "NUMB",
+      "url": "https://open.spotify.com/track/1BPBwKueIEMnUcbbs2te7B"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Vroom Vroom EP",
+        "url": "https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 193270,
+      "name": "Vroom Vroom",
+      "url": "https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Last One Standing (feat. Polo G, Mozzy & Eminem) [From Venom: Let There Be Carnage]",
         "url": "https://open.spotify.com/album/2ZaFqYD9a3U6qJhyS2LDRf"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 257368,
       "name": "Last One Standing (feat. Polo G, Mozzy & Eminem) - From Venom: Let There Be Carnage",
       "url": "https://open.spotify.com/track/5W8HXMOMLtXLz0RGKUtnlZ"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Vroom Vroom EP",
-        "url": "https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 193270,
-      "name": "Vroom Vroom",
-      "url": "https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o"
     }
   ],
   "unique_name": "Ultimate Pop Gaming",

@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Nicky.M x Rajaganapathy",
-  "num_followers": 12285,
+  "num_followers": 12287,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpXvbAAAAAAjkLg5pqvFXiBiaZVFvi7u",
+  "snapshot_id": "Zppd1AAAAAAoIC8tW+oKvWD4iaQftBzr",
   "tracks": [
     {
       "added_at": "2024-06-14 06:04:33",
@@ -145,28 +145,24 @@
       "url": "https://open.spotify.com/track/3LEq778z6w78Wn7HCqlD8b"
     },
     {
-      "added_at": "2024-02-29 19:13:12",
+      "added_at": "2024-07-19 12:34:53",
       "album": {
-        "name": "Nee Indri Naan Illaye",
-        "url": "https://open.spotify.com/album/2kFZFtevfYDC7pD1XHQShI"
+        "name": "En Ooru",
+        "url": "https://open.spotify.com/album/7u9iOxs8jtDc5Qwwqi7qpu"
       },
       "artists": [
         {
-          "name": "Kapa Chaitanya",
-          "url": "https://open.spotify.com/artist/0bxFXFHqxa9soCq3lwXEPk"
+          "name": "M.C.Eric Fernando",
+          "url": "https://open.spotify.com/artist/16uJqCGjyyevy0tYkwnYGS"
         },
         {
-          "name": "Khanish",
-          "url": "https://open.spotify.com/artist/317cHV8GcMSuHY65ZHN8MQ"
-        },
-        {
-          "name": "Monika Chandrashekhar",
-          "url": "https://open.spotify.com/artist/7qXvj4OTDb9CX7WjyLiILt"
+          "name": "Abi",
+          "url": "https://open.spotify.com/artist/38oIyGou6wEBfdg0dtufA3"
         }
       ],
-      "duration_ms": 252439,
-      "name": "Nee Indri Naan Illaye",
-      "url": "https://open.spotify.com/track/5GzYUYPDYSrKUWtsCzwt0a"
+      "duration_ms": 222738,
+      "name": "En Ooru",
+      "url": "https://open.spotify.com/track/2nHw7dzQ8ttgId3gMZYpJg"
     },
     {
       "added_at": "2024-07-12 17:17:26",
@@ -671,6 +667,26 @@
       "duration_ms": 136470,
       "name": "Baasha",
       "url": "https://open.spotify.com/track/6ihc2u4GmDXVeIizwL3jEw"
+    },
+    {
+      "added_at": "2024-07-19 12:36:36",
+      "album": {
+        "name": "Aadanum",
+        "url": "https://open.spotify.com/album/3G4VnipeKZSCX6hmAYBMXH"
+      },
+      "artists": [
+        {
+          "name": "daszi",
+          "url": "https://open.spotify.com/artist/0afiI57tEFIwLFQBZC71sp"
+        },
+        {
+          "name": "RAK",
+          "url": "https://open.spotify.com/artist/5fRjKFvGLlv4XCjkgWuPoT"
+        }
+      ],
+      "duration_ms": 233992,
+      "name": "Aadanum",
+      "url": "https://open.spotify.com/track/1JGhnyq3qiRNOVWkefnmNL"
     },
     {
       "added_at": "2024-02-09 10:03:40",

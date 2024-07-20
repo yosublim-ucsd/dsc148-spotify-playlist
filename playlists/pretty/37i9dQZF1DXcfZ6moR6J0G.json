@@ -1,6 +1,6 @@
 {
   "description": "You know what time it is.",
-  "num_followers": 1904610,
+  "num_followers": 1904895,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-06-27 08:57:27",
       "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/0XmL70HMqx3x1BezPYxogJ"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 198280,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/6UI5070fXjclDkp1obCmFm"
-    },
-    {
-      "added_at": "2024-06-27 08:57:27",
-      "album": {
         "name": "14 Shades of Grey",
         "url": "https://open.spotify.com/album/6PntFOrFJdHpXE9xzjhkyR"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 215266,
       "name": "Price to Play",
       "url": "https://open.spotify.com/track/6WV1sNIE0gG9cIdQ27vuvI"
+    },
+    {
+      "added_at": "2024-06-27 08:57:27",
+      "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/0XmL70HMqx3x1BezPYxogJ"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 198280,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/6UI5070fXjclDkp1obCmFm"
     },
     {
       "added_at": "2024-06-27 08:57:27",

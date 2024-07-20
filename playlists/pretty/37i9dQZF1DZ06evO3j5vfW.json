@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 71443,
+  "num_followers": 71447,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAAB0ObUEDCF3fnghLYqtdkQ4",
+  "snapshot_id": "ZphbAAAAAAAR/2dTHngEFnrYgV1v/4ez",
   "tracks": [
     {
       "added_at": null,
@@ -223,26 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Boy",
-        "url": "https://open.spotify.com/album/0sWfMsoSshIRZYdMxzBzaZ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
-        }
-      ],
-      "duration_ms": 216250,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/6DtrplY1gFIUigPCPLTCIO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We're Still Young",
         "url": "https://open.spotify.com/album/2HE7fzpBQHBCY6JXhoVAq0"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 195000,
       "name": "We're Still Young",
       "url": "https://open.spotify.com/track/0ha2skoePlU0BDDySj8qf2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Boy",
+        "url": "https://open.spotify.com/album/0sWfMsoSshIRZYdMxzBzaZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        }
+      ],
+      "duration_ms": 216250,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/6DtrplY1gFIUigPCPLTCIO"
     },
     {
       "added_at": null,
@@ -395,30 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/1vuWqrCgIqeiaTUJnbAF40"
-      },
-      "artists": [
-        {
-          "name": "DallasK",
-          "url": "https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "XYL\u00d8",
-          "url": "https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW"
-        }
-      ],
-      "duration_ms": 182950,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/4Ld9Wvjpj1IOAIbnNy07AP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/3b9BQMfHHnjSGrBOV30qp6"
       },
@@ -443,6 +419,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/1vuWqrCgIqeiaTUJnbAF40"
+      },
+      "artists": [
+        {
+          "name": "DallasK",
+          "url": "https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "XYL\u00d8",
+          "url": "https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW"
+        }
+      ],
+      "duration_ms": 182950,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/4Ld9Wvjpj1IOAIbnNy07AP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
       },
@@ -459,26 +459,6 @@
       "duration_ms": 162924,
       "name": "Sober",
       "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For The People",
-        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
-        }
-      ],
-      "duration_ms": 219345,
-      "name": "For The People",
-      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
     },
     {
       "added_at": null,
@@ -539,6 +519,26 @@
       "duration_ms": 186573,
       "name": "The Nighttrain",
       "url": "https://open.spotify.com/track/067wD8CKiwiOz8beq5OTV2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        }
+      ],
+      "duration_ms": 219345,
+      "name": "For The People",
+      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
     },
     {
       "added_at": null,
@@ -735,30 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time Keeper",
-        "url": "https://open.spotify.com/album/0cY7IaQHde6rUN32qiSBgx"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "Dallerium",
-          "url": "https://open.spotify.com/artist/4fxRhGF08oSVvvjHoK6QNO"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 190354,
-      "name": "Time Keeper",
-      "url": "https://open.spotify.com/track/7aQ5uJmlptmX4ezpvhSPrU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love You Forever",
         "url": "https://open.spotify.com/album/6HiujSCdsYuCXdd759w2kr"
       },
@@ -815,6 +791,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Time Keeper",
+        "url": "https://open.spotify.com/album/0cY7IaQHde6rUN32qiSBgx"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Dallerium",
+          "url": "https://open.spotify.com/artist/4fxRhGF08oSVvvjHoK6QNO"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 190354,
+      "name": "Time Keeper",
+      "url": "https://open.spotify.com/track/7aQ5uJmlptmX4ezpvhSPrU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Everybody Clap",
         "url": "https://open.spotify.com/album/1nm7alSq7eIZXsoLW7xg2r"
       },
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Why Do I Call",
-        "url": "https://open.spotify.com/album/5eNuYTGzaZ36i04rdcz3bN"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 158958,
-      "name": "Why Do I Call",
-      "url": "https://open.spotify.com/track/7sRjDSJ5Vp3xC669buQVGi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/2iGZU0LNQmhZ5QbRDmCNZz"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 140477,
       "name": "Forever",
       "url": "https://open.spotify.com/track/5nUyqq07mqo7dt8xd7BfYP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Why Do I Call",
+        "url": "https://open.spotify.com/album/5eNuYTGzaZ36i04rdcz3bN"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 158958,
+      "name": "Why Do I Call",
+      "url": "https://open.spotify.com/track/7sRjDSJ5Vp3xC669buQVGi"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Much Love",
-        "url": "https://open.spotify.com/album/7knxt2XRQA2Z6EXxd2jGSw"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Almero",
-          "url": "https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI"
-        }
-      ],
-      "duration_ms": 191520,
-      "name": "So Much Love",
-      "url": "https://open.spotify.com/track/1357S0gcYA0NXIJArUWKTx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/0iYk7ujef4AMfDJJYoCfnq"
       },
@@ -959,6 +939,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "So Much Love",
+        "url": "https://open.spotify.com/album/7knxt2XRQA2Z6EXxd2jGSw"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Almero",
+          "url": "https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI"
+        }
+      ],
+      "duration_ms": 191520,
+      "name": "So Much Love",
+      "url": "https://open.spotify.com/track/1357S0gcYA0NXIJArUWKTx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Where Would We Be",
         "url": "https://open.spotify.com/album/4309GpSGqkWBCDwGiSxqA6"
       },
@@ -975,38 +975,6 @@
       "duration_ms": 208023,
       "name": "Where Would We Be",
       "url": "https://open.spotify.com/track/2d3fNzMA3aUqeRFWHqzbHd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bittersweet (ft. Quarterback) [Remixes]",
-        "url": "https://open.spotify.com/album/4ePDJZwZk6pXba002oCTT6"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Trilane",
-          "url": "https://open.spotify.com/artist/4hEojNVUgNvXDE8Aem4P7h"
-        },
-        {
-          "name": "Kokaholla",
-          "url": "https://open.spotify.com/artist/6Bb2R70eMBIIG6BFJhHv7f"
-        },
-        {
-          "name": "Quarterback Baby",
-          "url": "https://open.spotify.com/artist/4t47pMNIyXO3lDZfzi8ENS"
-        },
-        {
-          "name": "Firelite",
-          "url": "https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2"
-        }
-      ],
-      "duration_ms": 180952,
-      "name": "Bittersweet (ft. Quarterback) - Firelite Remix",
-      "url": "https://open.spotify.com/track/2YvQO5jfnT29NL2dUwY0ou"
     },
     {
       "added_at": null,
@@ -1051,6 +1019,38 @@
       "duration_ms": 190078,
       "name": "Falling",
       "url": "https://open.spotify.com/track/4SlkCNvosh6H75Cx46Y4K0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bittersweet (ft. Quarterback) [Remixes]",
+        "url": "https://open.spotify.com/album/4ePDJZwZk6pXba002oCTT6"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Trilane",
+          "url": "https://open.spotify.com/artist/4hEojNVUgNvXDE8Aem4P7h"
+        },
+        {
+          "name": "Kokaholla",
+          "url": "https://open.spotify.com/artist/6Bb2R70eMBIIG6BFJhHv7f"
+        },
+        {
+          "name": "Quarterback Baby",
+          "url": "https://open.spotify.com/artist/4t47pMNIyXO3lDZfzi8ENS"
+        },
+        {
+          "name": "Firelite",
+          "url": "https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2"
+        }
+      ],
+      "duration_ms": 180952,
+      "name": "Bittersweet (ft. Quarterback) - Firelite Remix",
+      "url": "https://open.spotify.com/track/2YvQO5jfnT29NL2dUwY0ou"
     },
     {
       "added_at": null,

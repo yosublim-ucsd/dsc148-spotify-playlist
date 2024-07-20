@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 
 ### [This Is El de La Guitarra](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0oey9L)
 
-> This is El de La Guitarra\. The essential tracks, all in one playlist.
+> This Is El de La Guitarra\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,591 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,601 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 34 | [Peligro](https://open.spotify.com/track/3cMC0cscoByKmZ4jY1spXs) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Peligro](https://open.spotify.com/album/4YViCFmwpHIMQVm2Opv1u3) | 2:00 |
 | 35 | [Vida De Locura](https://open.spotify.com/track/72kmnOvZvpNfsIsbGQ6FGH) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 3:26 |
 | 36 | [Morras De Cache](https://open.spotify.com/track/7mDwgb8zCEZRppGqCTAvKo) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 2:42 |
-| 37 | [WAX](https://open.spotify.com/track/7utzGYXtCeiFOMTAWzU6BJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 3:17 |
-| 38 | [Barrio Xolo](https://open.spotify.com/track/5gHg03BEF7wM1bPBnbAC7b) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:06 |
+| 37 | [Barrio Xolo](https://open.spotify.com/track/5gHg03BEF7wM1bPBnbAC7b) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:06 |
+| 38 | [WAX](https://open.spotify.com/track/7utzGYXtCeiFOMTAWzU6BJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 3:17 |
 | 39 | [JJ Es La Clave](https://open.spotify.com/track/1g6LesEZ6Ai99arHJv6hBr) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 2:33 |
 | 40 | [Alex Valencia](https://open.spotify.com/track/07fYyawvkLBdf7V4Ad0dwL) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 2:18 |
-| 41 | [Como Una Pantera](https://open.spotify.com/track/5h0qcUht3LTT8zf36EHV5b) | [Hermanos Siqueiros](https://open.spotify.com/artist/7kmSbutRbO93rp52GQac9C), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Como Una Pantera](https://open.spotify.com/album/4EF1XEWqEJN0MkBzK2QAH4) | 2:50 |
-| 42 | [Ya Lo Decidí](https://open.spotify.com/track/10374Hnq6WMRFsB6DgpbrJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:45 |
+| 41 | [Ya Lo Decidí](https://open.spotify.com/track/10374Hnq6WMRFsB6DgpbrJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:45 |
+| 42 | [Como Una Pantera](https://open.spotify.com/track/5h0qcUht3LTT8zf36EHV5b) | [Hermanos Siqueiros](https://open.spotify.com/artist/7kmSbutRbO93rp52GQac9C), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Como Una Pantera](https://open.spotify.com/album/4EF1XEWqEJN0MkBzK2QAH4) | 2:50 |
 | 43 | [No Quiero Agarrar El Rollo](https://open.spotify.com/track/5cM3YFGrnT7EdFNW4kPWv6) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [No Quiero Agarrar El Rollo](https://open.spotify.com/album/46KXJipvIK5dbK6PyltADi) | 2:01 |
 | 44 | [Diamantes De Esfera](https://open.spotify.com/track/2G7lzDzR0Bz3x7LoD3r27I) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 2:00 |
 | 45 | [La Fiesta Ya Empezo](https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 49 | [Me Dicen Rana y Brinco](https://open.spotify.com/track/3VJHjovNyzkOw4CUdXOp6Y) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Job Gallegos](https://open.spotify.com/artist/76lYBIbMnUBukvLlYZFGrH), [Cuadra Distante](https://open.spotify.com/artist/18YbbzNXbzfAYvguEzcQ5D) | [Me Dicen Rana y Brinco](https://open.spotify.com/album/3ecvio5Id4s2NCOHMWKFbf) | 3:08 |
 | 50 | [El 7](https://open.spotify.com/track/2CSB2buyBO4fRRNepjHRq5) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [El 7](https://open.spotify.com/album/2f9SmGJPGVkdQmq4hbS7rd) | 3:45 |
 
-Snapshot ID: `ZpcJgAAAAACyxiodJQ9vwNxU9qjuLVMh`
+Snapshot ID: `ZphbAAAAAAAsdEcFqA/ceYiTQISPoJYP`

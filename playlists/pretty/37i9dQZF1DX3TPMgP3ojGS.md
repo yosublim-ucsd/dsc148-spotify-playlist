@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,676 likes - 100 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,706 likes - 100 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 28 | [Paths](https://open.spotify.com/track/3JWltf5Em6j7uhJhSNFneD) | [Silje Mørk](https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP) | [Paths](https://open.spotify.com/album/5mo02zw7os9mLxLZtANHlC) | 2:52 |
 | 29 | [Elysian](https://open.spotify.com/track/1tPeUoPyQkH8xvr9MqMXT3) | [Flori Vivea](https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0) | [Elysian](https://open.spotify.com/album/4UhcamXh0XDDEbLUirjiQQ) | 2:19 |
 | 30 | [Archipelago](https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Archipelago](https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9) | 2:38 |
-| 31 | [Astray](https://open.spotify.com/track/3cuvXQjn74rLPC0jSVysUK) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Astray](https://open.spotify.com/album/1IJanCxmCe6rhSBUyDS1L2) | 2:00 |
-| 32 | [Diaphanous](https://open.spotify.com/track/3xdDoLDyvsMgyl1BwVaZ5E) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Diaphanous](https://open.spotify.com/album/11WJw1yb4yuNMtrwqU8FHS) | 2:53 |
+| 31 | [Diaphanous](https://open.spotify.com/track/3xdDoLDyvsMgyl1BwVaZ5E) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Diaphanous](https://open.spotify.com/album/11WJw1yb4yuNMtrwqU8FHS) | 2:53 |
+| 32 | [Astray](https://open.spotify.com/track/3cuvXQjn74rLPC0jSVysUK) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Astray](https://open.spotify.com/album/1IJanCxmCe6rhSBUyDS1L2) | 2:00 |
 | 33 | [Through The Blue \- Piano Version](https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Through The Blue \(Piano Version\)](https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx) | 3:45 |
 | 34 | [The Old Garden](https://open.spotify.com/track/6brQG7CUofzdsnNx3qssrh) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [The Old Garden](https://open.spotify.com/album/4Jb3hdLpWGCRrNM6so6KXM) | 2:54 |
 | 35 | [Le Recueillement](https://open.spotify.com/track/6fHq66kBS2OJiWu3ZGNZj9) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Le Recueillement](https://open.spotify.com/album/28bPi73lPKGOd8x9AeYFm6) | 2:27 |
@@ -87,15 +87,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 77 | [A Time Long Ago](https://open.spotify.com/track/67ntAUXUgYdO3YUt04zk5E) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [A Time Long Ago](https://open.spotify.com/album/5JWfUFwzVSKBohZnszGUoj) | 2:15 |
 | 78 | [Stille Sjø](https://open.spotify.com/track/1f12vrnCzIvlJ4zyCDTYvp) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Stille Sjø](https://open.spotify.com/album/5E4l2ZFHmlQZMYmN39cOLI) | 2:31 |
 | 79 | [Distance](https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Distance](https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN) | 2:35 |
-| 80 | [Beauty](https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK) | [Oscar Mallen](https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o) | [Beauty](https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP) | 2:36 |
+| 80 | [Peggy's Cove](https://open.spotify.com/track/7yplIuBnFYA8eUje0Vi0UP) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Peggy's Cove](https://open.spotify.com/album/6u1kaq0ueouDEcdpyyvsFM) | 2:15 |
 | 81 | [Balloon](https://open.spotify.com/track/6OIKgnO4zehihKR2ba6vlm) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Balloon](https://open.spotify.com/album/5pJAAbu6gtYqxC9fx4Rusa) | 3:17 |
-| 82 | [Peggy's Cove](https://open.spotify.com/track/7yplIuBnFYA8eUje0Vi0UP) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Peggy's Cove](https://open.spotify.com/album/6u1kaq0ueouDEcdpyyvsFM) | 2:15 |
+| 82 | [Beauty](https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK) | [Oscar Mallen](https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o) | [Beauty](https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP) | 2:36 |
 | 83 | [My Story](https://open.spotify.com/track/58S5x2FRM1xU8Ufe2g0a2G) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [My Story](https://open.spotify.com/album/2EVVXolgUr3Is1UB86BITH) | 2:18 |
 | 84 | [Release from silence](https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Release from silence](https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ) | 2:17 |
 | 85 | [Light of wintertime](https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Light of wintertime](https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD) | 2:11 |
 | 86 | [Muse](https://open.spotify.com/track/3SV20Qhy0Ttd1f8fIZQiUT) | [Ina Lawson](https://open.spotify.com/artist/6gv5zYOQsJ4vQNAHkGTmLP) | [Muse](https://open.spotify.com/album/79O1A7s9FraBt1gmppbMt3) | 2:13 |
-| 87 | [Noktúrna \- Upright Piano](https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Noktúrna Variations](https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D) | 2:02 |
-| 88 | [Poesia](https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC) | [Fernando Alegre](https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn) | [Poesia](https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW) | 2:05 |
+| 87 | [Poesia](https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC) | [Fernando Alegre](https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn) | [Poesia](https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW) | 2:05 |
+| 88 | [Noktúrna \- Upright Piano](https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Noktúrna Variations](https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D) | 2:02 |
 | 89 | [Candles](https://open.spotify.com/track/3c2mI16b5l3zEPNsNdWqSf) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Candles](https://open.spotify.com/album/1eQlINbY8VmjpT2nmQm6Nn) | 2:52 |
 | 90 | [Languor](https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Kalmte](https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi) | 2:21 |
 | 91 | [To New Beginnings](https://open.spotify.com/track/7IrrIzxSk3OO48hW6dpEus) | [Una Luna](https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7) | [To New Beginnings](https://open.spotify.com/album/6NCZQQodsLFgqxVJ5jTbui) | 2:09 |

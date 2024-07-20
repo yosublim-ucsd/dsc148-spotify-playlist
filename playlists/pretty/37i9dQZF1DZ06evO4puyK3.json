@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 159259,
+  "num_followers": 159309,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAACKW7YC9xNhbn9vvLRwEQul",
+  "snapshot_id": "ZphbAAAAAACcgGiPqJF0+7tFzRfYTPqv",
   "tracks": [
     {
       "added_at": null,
@@ -278,31 +278,15 @@
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 222208,
-      "name": "Loucuras De Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/35RXnVCNCdiJ6NUNjeKNsN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lud Session #2: Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano",
-        "url": "https://open.spotify.com/album/0zaigYjLBnB3JcrUwZEfNV"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         },
         {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
         }
       ],
-      "duration_ms": 559903,
-      "name": "Lud Session #2: Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano",
-      "url": "https://open.spotify.com/track/7HYdckQd1guaSYVwMQ3SFL"
+      "duration_ms": 198665,
+      "name": "C\u00e2mera Frontal - Ao Vivo",
+      "url": "https://open.spotify.com/track/1baKllsMyEEdKIUiNx58KA"
     },
     {
       "added_at": null,
@@ -347,26 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 198665,
-      "name": "C\u00e2mera Frontal - Ao Vivo",
-      "url": "https://open.spotify.com/track/1baKllsMyEEdKIUiNx58KA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bumbum de Ouro",
         "url": "https://open.spotify.com/album/1qzzcAss8mqBG005C6qMDl"
       },
@@ -383,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 222208,
+      "name": "Loucuras De Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/35RXnVCNCdiJ6NUNjeKNsN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Apaga a Luz",
         "url": "https://open.spotify.com/album/6OeSSqhTglCc1ks3BBMMA6"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 228210,
       "name": "Apaga a Luz",
       "url": "https://open.spotify.com/track/0s15t3wXkM1drTDD1xAlXz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LADY LESTE",
+        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 190777,
+      "name": "APENAS UM NEN\u00c9M",
+      "url": "https://open.spotify.com/track/67FXDuLWJNuafe1mVdWsim"
     },
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LADY LESTE",
-        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 190777,
-      "name": "APENAS UM NEN\u00c9M",
-      "url": "https://open.spotify.com/track/67FXDuLWJNuafe1mVdWsim"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Noitada",
         "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
       },
@@ -467,6 +447,22 @@
       "duration_ms": 166013,
       "name": "AMEIANOITE",
       "url": "https://open.spotify.com/track/27bgMTAq4qTACnE48M3aTH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LADY LESTE",
+        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 168887,
+      "name": "BONEKINHA",
+      "url": "https://open.spotify.com/track/5y4Wpk9ts2RzDwYNIAtJ9J"
     },
     {
       "added_at": null,
@@ -519,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LADY LESTE",
-        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 168887,
-      "name": "BONEKINHA",
-      "url": "https://open.spotify.com/track/5y4Wpk9ts2RzDwYNIAtJ9J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ALEGORIA",
         "url": "https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 145979,
       "name": "MIL GRAU",
       "url": "https://open.spotify.com/track/3zmkCbsIVTXH5LvQ5twitZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LADY LESTE",
+        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        }
+      ],
+      "duration_ms": 198304,
+      "name": "SOBREVIVI",
+      "url": "https://open.spotify.com/track/6p8DJ9fr7J9MDVY5iPNGNS"
     },
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LADY LESTE",
-        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "PRISCILLA",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
-        }
-      ],
-      "duration_ms": 198304,
-      "name": "SOBREVIVI",
-      "url": "https://open.spotify.com/track/6p8DJ9fr7J9MDVY5iPNGNS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 183206,
       "name": "AO SOM DO TUIM",
       "url": "https://open.spotify.com/track/4hpT0bP4YI71vGQN51ikMz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LADY LESTE",
+        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 230907,
+      "name": "TUA INDECIS\u00c3O",
+      "url": "https://open.spotify.com/track/00Ofee5Bbfstz49RfSL0oM"
     },
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LADY LESTE",
-        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 230907,
-      "name": "TUA INDECIS\u00c3O",
-      "url": "https://open.spotify.com/track/00Ofee5Bbfstz49RfSL0oM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Furduncin",
         "url": "https://open.spotify.com/album/4Oj3nZNljdKEt2M3jvuIRC"
       },
@@ -723,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinal",
-        "url": "https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 173023,
-      "name": "Sinal",
-      "url": "https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PROIBIDONA",
         "url": "https://open.spotify.com/album/4uE5CGnjimzfh5m40ullYU"
       },
@@ -759,6 +723,22 @@
       "duration_ms": 157649,
       "name": "PROIBIDONA",
       "url": "https://open.spotify.com/track/090GUuqAuh7Vje3V745nep"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinal",
+        "url": "https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 173023,
+      "name": "Sinal",
+      "url": "https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30"
     },
     {
       "added_at": null,
@@ -943,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FUTURO FLUXO",
-        "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 152930,
-      "name": "PLANETA OUSADIA",
-      "url": "https://open.spotify.com/track/38Dkqi7IYUm3DDyt4tfDcf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meu Anjo",
         "url": "https://open.spotify.com/album/64RCamPMW0E89XEV81ExhZ"
       },
@@ -975,6 +939,22 @@
       "duration_ms": 249187,
       "name": "Meu Anjo",
       "url": "https://open.spotify.com/track/55hdt9atyabpR1isrVW0H7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FUTURO FLUXO",
+        "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 152930,
+      "name": "PLANETA OUSADIA",
+      "url": "https://open.spotify.com/track/38Dkqi7IYUm3DDyt4tfDcf"
     },
     {
       "added_at": null,
@@ -1015,6 +995,30 @@
       "duration_ms": 158260,
       "name": "MAGENTA CA$H",
       "url": "https://open.spotify.com/track/0BhhGctvTjfNbfDiqjZPGL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vem com tudo",
+        "url": "https://open.spotify.com/album/53ycsc2CcgfoTgYtBWtEY8"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Vem com tudo",
+      "url": "https://open.spotify.com/track/3KBeevk3IGoAdoktaH1OBJ"
     }
   ],
   "unique_name": "This Is Gloria Groove",

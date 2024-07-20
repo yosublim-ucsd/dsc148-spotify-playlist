@@ -4,7 +4,7 @@
 
 > It's time to return to the dojo\. Listen to all the music from Cobra Kai, new season coming soon to Netflix.
 
-194 songs - 11 hr 34 min
+195 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Head Games](https://open.spotify.com/track/5nk6wxUSFUBxUKxjz0fKD6) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Head Games](https://open.spotify.com/album/05Z3MG7G3Vl5ThsFQkWjiJ) | 3:37 | 2022-01-07 | 2024-07-19 |
 | [Hear My Heart](https://open.spotify.com/track/1PDkqKq5PtfjwsoqnQctAz) | [Midnight Mantics](https://open.spotify.com/artist/0kcInZGL88CR9QoMeUsdwv) | [Vibe City](https://open.spotify.com/album/5qB9fJHiKOpeUxiOkepKBj) | 4:04 | 2022-01-06 | 2024-07-19 |
 | [Hear My Heart](https://open.spotify.com/track/7yl21WlxXzzYblzkxDyqE5) | [Midnight Mantics](https://open.spotify.com/artist/0kcInZGL88CR9QoMeUsdwv) | [Vibe City](https://open.spotify.com/album/6FtILJfVlycAU484t2GA1l) | 4:04 | 2022-01-06 | 2024-04-19 |
+| [Heart of the Cobra](https://open.spotify.com/track/4cHyjLxnoiHsn1mcSxWALI) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 6, Part 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/3FCqUcqiJXJbhHCKIkxh3o) | 4:14 | 2024-07-19 |  |
 | [Here I Go Again](https://open.spotify.com/track/66yF4fCC4NiFZTjhegI90o) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Dig! Rock Classics](https://open.spotify.com/album/5LTC8pH1pEnDoPLhBO4AzZ) | 5:08 | 2022-01-07 | 2024-04-19 |
 | [Here I Go Again](https://open.spotify.com/track/29pzjF6ZkzcW3ofgOVbF0t) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Saints & Sinners](https://open.spotify.com/album/5HSdx1824FepWuf8NbG7B3) | 5:08 | 2022-01-07 | 2024-07-19 |
 | [Highway Down](https://open.spotify.com/track/4QifC5kFkaDACx0vbfDwQo) | [I See Hawks In L.A.](https://open.spotify.com/artist/1b5IKVz30ek0dp7zFOUdcQ) | [Hallowed Ground](https://open.spotify.com/album/7wbNlBcZ0b04oW8TwBfxLX) | 5:14 | 2022-01-07 | 2024-07-19 |
@@ -163,7 +164,7 @@
 | [Scallywag](https://open.spotify.com/track/34FLj5RqgeXVViHSBrLWsX) | [Sonic Graffiti](https://open.spotify.com/artist/6g3uYH2AinRZRHtdWRpYt2) | [Bad Twin](https://open.spotify.com/album/0EMzo97TgJNHf0D7FDYMXU) | 1:57 | 2022-01-07 | 2024-07-19 |
 | [SDO](https://open.spotify.com/track/32H1zxJTZpa0jD0p7NayiP) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 4, Vol\. 1 "All Valley Tournament 51" \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2ORE6f4jS4dLKvk9VA6oDl) | 3:26 | 2022-01-14 | 2024-07-19 |
 | [Shirts Off](https://open.spotify.com/track/1sjrA6EXjzZApgTRUZgndu) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 4, Vol\. 1 "All Valley Tournament 51" \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2ORE6f4jS4dLKvk9VA6oDl) | 1:59 | 2022-01-11 |  |
-| [Sirius](https://open.spotify.com/track/4OV0sRTFrZLXaZZ1sS9hLn) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Eye In The Sky \(Expanded Edition\)](https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr) | 1:55 | 2022-01-07 |  |
+| [Sirius](https://open.spotify.com/track/4OV0sRTFrZLXaZZ1sS9hLn) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Eye In The Sky \(Expanded Edition\)](https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr) | 1:55 | 2022-01-07 | 2024-07-20 |
 | [Slither](https://open.spotify.com/track/6YE7OXQA1kCQvZwfRlGhlN) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 1 \(Soundtrack from the Original Series\)](https://open.spotify.com/album/0TkfHTK2sSV4CxrQWqBrNF) | 1:53 | 2022-01-07 |  |
 | [Snake Fight](https://open.spotify.com/track/52xVN3nPYTMro9ew90XakA) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 2 \(Soundtrack from the Original Series\)](https://open.spotify.com/album/2eYneWlXOCsnhYiiC8v34V) | 2:18 | 2022-01-07 | 2024-07-19 |
 | [Stay Young at Heart](https://open.spotify.com/track/7IO8TQZcOILnJNZmz8pPt5) | [Headhunter](https://open.spotify.com/artist/6M8rDFGvnuCuTt114vC3aC) | [Headhunter](https://open.spotify.com/album/7MMYxm69MVgaOK8FA3t9qo) | 3:50 | 2024-07-17 |  |

@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 216000,
       "name": "Circulaire",
       "url": "https://open.spotify.com/track/3V0DFeMwsawOiqyhZy8bti"
@@ -2824,7 +2824,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 181181,
       "name": "Fleeting",
       "url": "https://open.spotify.com/track/0AyqTD2FRAUQxTCLP0X886"
@@ -3058,7 +3058,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 159428,
       "name": "Gentle Mind",
       "url": "https://open.spotify.com/track/060JduHcmOHTCbprsCMH5H"
@@ -4480,7 +4480,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 187745,
       "name": "Merci",
       "url": "https://open.spotify.com/track/1679vhg48SfasuFs0xAKcS"
@@ -4714,7 +4714,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 200350,
       "name": "Moonlight Dreams",
       "url": "https://open.spotify.com/track/6nZs34O75vPNz6dnxegdCR"
@@ -5096,6 +5096,24 @@
       "duration_ms": 169636,
       "name": "Night Owl",
       "url": "https://open.spotify.com/track/6t5yxl4OsdAYeA4zb4VjVe"
+    },
+    {
+      "album": {
+        "name": "Night Sky",
+        "url": "https://open.spotify.com/album/78aA74Ncr1sdYKEWxQGWMU"
+      },
+      "artists": [
+        {
+          "name": "Aleksy Nowak",
+          "url": "https://open.spotify.com/artist/2CXq4IRNqG54c9NBHuBWLw"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199132,
+      "name": "Night Sky",
+      "url": "https://open.spotify.com/track/1k7vD3V5JdcYYodfmkBANS"
     },
     {
       "album": {
@@ -7522,7 +7540,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 173333,
       "name": "The Gift",
       "url": "https://open.spotify.com/track/1GF0zNrSjuQiw2Y16cYqnW"
@@ -8264,7 +8282,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 201145,
       "name": "Waves",
       "url": "https://open.spotify.com/track/4iIxW6p4FAFjBV8L14hQfC"

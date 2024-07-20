@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-30",
-  "description": "This Is PARTYNEXTDOOR. Los temas esenciales, todos en una lista.",
+  "description": "This is PARTYNEXTDOOR. The essential tracks, all in one playlist.",
   "name": "This Is PARTYNEXTDOOR",
   "tracks": [
     {
@@ -388,7 +388,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 228602,
       "name": "fue mejor",
       "url": "https://open.spotify.com/track/2I9t0e3gLAKOi5syoHxP46"

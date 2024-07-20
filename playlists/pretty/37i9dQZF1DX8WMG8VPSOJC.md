@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 
 > Nothing but beautiful country love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,737,720 likes - 85 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,737,759 likes - 85 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 38 | [My Girl](https://open.spotify.com/track/3izNaTiYdotdPL0Bs76JqO) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Dylan Scott \(Deluxe Edition\)](https://open.spotify.com/album/2zSuxzKE7PIi9LhCk3uL6o) | 3:17 |
 | 39 | [Unforgettable](https://open.spotify.com/track/30MM5jWpUmOxtTNd9Ey5LZ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Life Changes](https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I) | 2:37 |
 | 40 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 |
-| 41 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 |
+| 41 | [I Don't Dance](https://open.spotify.com/track/5aj0xPGiEUN3aI2oOYu14S) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [I Don't Dance \(Deluxe Edition\)](https://open.spotify.com/album/2XIhZ9IjqoIN5V6dfKHzCn) | 3:41 |
 | 42 | [Breathe](https://open.spotify.com/track/3y4LxiYMgDl4RethdzpmNe) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Breathe](https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb) | 4:10 |
 | 43 | [Life With You](https://open.spotify.com/track/38QnGbDW7KgVylfma7ZWV5) | [Kelsey Hart](https://open.spotify.com/artist/1WKwvWRG8MdHAwHsSv9lXb) | [Life With You](https://open.spotify.com/album/0rONiLVsTjT9XVGtJWEu6z) | 2:36 |
 | 44 | [What My World Spins Around](https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What My World Spins Around](https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS) | 3:06 |
 | 45 | [Can't Have Mine \(Find You A Girl\)](https://open.spotify.com/track/3jfywRZH6cB2iLyKqo4EZd) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Livin' My Best Life](https://open.spotify.com/album/5UkfLfGyiREHCmzM1kEUV0) | 3:03 |
 | 46 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 |
-| 47 | [I Don't Dance](https://open.spotify.com/track/5aj0xPGiEUN3aI2oOYu14S) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [I Don't Dance \(Deluxe Edition\)](https://open.spotify.com/album/2XIhZ9IjqoIN5V6dfKHzCn) | 3:41 |
+| 47 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 |
 | 48 | [Forever To Me](https://open.spotify.com/track/38RJG8nLAwGycitlHOiifP) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Forever To Me](https://open.spotify.com/album/35O9rSmb63xn6dvFNFvNbK) | 2:59 |
 | 49 | [I Could Use a Love Song](https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:16 |
 | 50 | [Ain't Nothin' to It](https://open.spotify.com/track/4QWaq7U3fufJjy1rCBm6ds) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 3:22 |
@@ -70,12 +70,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 60 | [Take Forever \(Hally's Song\)](https://open.spotify.com/track/3pBYIDSYwHpGMjq0nss6KZ) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Take Forever](https://open.spotify.com/album/0A9pp8RhqncFeWsS3XlYU8) | 3:04 |
 | 61 | [We Danced](https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Who Needs Pictures](https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk) | 3:46 |
 | 62 | [Hell Of A View](https://open.spotify.com/track/1kBx9VGumfuvlfqdlAGorE) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Hell Of A View](https://open.spotify.com/album/6i8SLfUQsagk3SSPrj5AUW) | 2:55 |
-| 63 | [Waves](https://open.spotify.com/track/027269uzraETHuoG6aMs6a) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here \(Deluxe Edition\)](https://open.spotify.com/album/1Trg5OuUpkNFLF21HdbOg6) | 3:48 |
-| 64 | [Pick Me Up](https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Pick Me Up](https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5) | 2:49 |
+| 63 | [Pick Me Up](https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Pick Me Up](https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5) | 2:49 |
+| 64 | [Waves](https://open.spotify.com/track/027269uzraETHuoG6aMs6a) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here \(Deluxe Edition\)](https://open.spotify.com/album/1Trg5OuUpkNFLF21HdbOg6) | 3:48 |
 | 65 | [Worth the Wait](https://open.spotify.com/track/3nB1jprfn5Yo50qcWHvyWs) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Worth the Wait](https://open.spotify.com/album/0ibFF1l5VTiQxugbcjktAC) | 3:09 |
-| 66 | [Wreckage](https://open.spotify.com/track/33hQJTNI0T2FHVtku3smJf) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Wreckage](https://open.spotify.com/album/5dhPRULRRExFdwyi8BubQ6) | 3:32 |
+| 66 | [One Bad Habit](https://open.spotify.com/track/4N0yUfSgo2lnpJzufrqAoY) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Poet’s Resumé](https://open.spotify.com/album/575dPLrl892d2TGGeZHDj8) | 3:08 |
 | 67 | [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 |
-| 68 | [One Bad Habit](https://open.spotify.com/track/4N0yUfSgo2lnpJzufrqAoY) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Poet’s Resumé](https://open.spotify.com/album/575dPLrl892d2TGGeZHDj8) | 3:08 |
+| 68 | [Wreckage](https://open.spotify.com/track/33hQJTNI0T2FHVtku3smJf) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Wreckage](https://open.spotify.com/album/5dhPRULRRExFdwyi8BubQ6) | 3:32 |
 | 69 | [Feel Like This](https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:16 |
 | 70 | [Nobody](https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Nothing To Do Town](https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX) | 2:42 |
 | 71 | [Growing Old With You](https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You](https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ) | 3:16 |

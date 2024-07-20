@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-416 songs - 21 hr 8 min
+417 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Cosmic Bells](https://open.spotify.com/track/5jetoEQ0EDEXF5RtwODdw9) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Cosmic Bells](https://open.spotify.com/album/58r9xAtFKqSt6CGWLz3kmF) | 2:33 | 2024-04-29 |  |
 | [Cosmogyral](https://open.spotify.com/track/4WT82kpk9JXBnyN564LZS4) | [Szigeti Aliz](https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA) | [Cosmogyral](https://open.spotify.com/album/0ZgO9uGL5SY607snj6pG5f) | 3:19 | 2022-05-25 | 2022-09-28 |
 | [Cosmos](https://open.spotify.com/track/211l6gKeErP58kN2gvzuQZ) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Divine](https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp) | 4:31 | 2022-05-25 | 2022-09-28 |
-| [Cosmosis](https://open.spotify.com/track/0bvAQZ7fx0opg1XDY0CCHT) | [Embertone](https://open.spotify.com/artist/64wQLdtq3qw5sCdJlK4CwY) | [Cosmosis](https://open.spotify.com/album/5e26lAWV8Sindc9WXm83dY) | 3:04 | 2023-04-28 |  |
+| [Cosmosis](https://open.spotify.com/track/0bvAQZ7fx0opg1XDY0CCHT) | [Embertone](https://open.spotify.com/artist/64wQLdtq3qw5sCdJlK4CwY) | [Cosmosis](https://open.spotify.com/album/5e26lAWV8Sindc9WXm83dY) | 3:04 | 2023-04-28 | 2024-07-20 |
 | [Crystals](https://open.spotify.com/track/7Cp3NybYCY181kPYDXtS1t) | [Crystals](https://open.spotify.com/artist/0WO63gX2KR2lMmeAgNf8gY) | [Crystals](https://open.spotify.com/album/4KyUloQONRdcmdTjidzpwI) | 2:58 | 2022-05-25 |  |
 | [Cyclic dreams](https://open.spotify.com/track/7tLKgqGT3YHx4xv6FrBk4A) | [Static Garden](https://open.spotify.com/artist/3uuH2jEYv8ZArIf83io4hN) | [Cyclic dreams](https://open.spotify.com/album/1LClOBWsmb9ZsSKnQI82vc) | 3:50 | 2022-05-25 | 2022-09-28 |
 | [Dark Light](https://open.spotify.com/track/10UIoOEhsy1iX1mYubyw96) | [Everaire](https://open.spotify.com/artist/1XXCZ1aVZDPxP4pXYm3YfV) | [Dark Light](https://open.spotify.com/album/5zQmXJUkxJzmyNsYmmSrhx) | 3:20 | 2022-05-25 | 2022-09-28 |
@@ -97,7 +97,7 @@
 | [Decision](https://open.spotify.com/track/0AUsg7yWsJKPfDalSDt80e) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Internal Voices](https://open.spotify.com/album/2hO9mfx0JczzFqrrLRqtWf) | 3:27 | 2022-05-25 | 2022-09-28 |
 | [Deep Healing](https://open.spotify.com/track/7gcBSI6Mct6bp2rmjauJ4B) | [Calma](https://open.spotify.com/artist/0UFMDihal5NxeE9xM8jsHz) | [Aura](https://open.spotify.com/album/0bG13HkZaKd6TtaWe9yDru) | 3:09 | 2022-05-25 | 2022-09-28 |
 | [Desire](https://open.spotify.com/track/4B65VdJ4nSXcdNsjQcYPyl) | [Jero Toga](https://open.spotify.com/artist/7udo52qeGxSsK69WMRmBvP) | [Desire](https://open.spotify.com/album/5aKMHMuWCuWH2AeiLElqzQ) | 2:46 | 2022-05-25 | 2022-09-28 |
-| [Determination](https://open.spotify.com/track/0IthIgkcnDg9SQ4KV3EOcE) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Gratitude](https://open.spotify.com/album/2Mh5szpygzvrRi00d8iJlC) | 3:21 | 2022-05-25 |  |
+| [Determination](https://open.spotify.com/track/0IthIgkcnDg9SQ4KV3EOcE) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Gratitude](https://open.spotify.com/album/2Mh5szpygzvrRi00d8iJlC) | 3:21 | 2022-05-25 | 2024-07-20 |
 | [Dinlenmek](https://open.spotify.com/track/38FoeSh8Ll0dA5TuflbviN) | [Aidin](https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM) | [Dinlenmek](https://open.spotify.com/album/6Nhn7DsXIg6clkyhoPmWGT) | 3:43 | 2022-05-25 |  |
 | [Distant Oceans](https://open.spotify.com/track/4TbaG2d0oHVSL5WWHr3paT) | [Frieda Walsch](https://open.spotify.com/artist/0Ue0VWmaybjJo2MykZRGCM) | [Distant Oceans](https://open.spotify.com/album/3qXuyU8MWIDQnAyefC0Y80) | 2:18 | 2022-05-25 | 2023-03-18 |
 | [Divine](https://open.spotify.com/track/49WYvbLAlLn9e663fBmCUl) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Divine](https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp) | 4:49 | 2022-05-25 | 2023-04-07 |
@@ -151,7 +151,7 @@
 | [Finn roen](https://open.spotify.com/track/0NtkoVSkVKRmybx0Vau21E) | [Andrine Årdal](https://open.spotify.com/artist/4bxTOGvKxGPNTKqgbDsoIx) | [Finn roen](https://open.spotify.com/album/2eX9Kdyv7Pb6ro098w5yke) | 3:34 | 2022-05-25 | 2023-05-27 |
 | [Fjord](https://open.spotify.com/track/5F820xSuKiMLpGOV04Xs3c) | [Reiki Akoya](https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5) | [Fjord](https://open.spotify.com/album/6uJxTkCL8G3hjXi7S3ejkJ) | 2:54 | 2022-12-20 |  |
 | [Following The Seasons](https://open.spotify.com/track/748k8Bk5Nousy75IFv6QQy) | [Aisha Akebono](https://open.spotify.com/artist/1lI0k1BiLHvfJub3QQfe72) | [Following The Seasons](https://open.spotify.com/album/22h16XP7CqXPQAzro1YXcb) | 3:31 | 2022-11-11 |  |
-| [Fragile Heart](https://open.spotify.com/track/4YzKmXKalu7Fw1wDb8Js2n) | [Doosi](https://open.spotify.com/artist/6M99p2uc6AP0HCJiqnjszP) | [Fragile Heart](https://open.spotify.com/album/1BCu5Ss9pPaFjtmNcwE0SK) | 3:21 | 2022-12-06 |  |
+| [Fragile Heart](https://open.spotify.com/track/4YzKmXKalu7Fw1wDb8Js2n) | [Doosi](https://open.spotify.com/artist/6M99p2uc6AP0HCJiqnjszP) | [Fragile Heart](https://open.spotify.com/album/1BCu5Ss9pPaFjtmNcwE0SK) | 3:21 | 2022-12-06 | 2024-07-20 |
 | [Fragile Voices](https://open.spotify.com/track/4zlGsaKaK94x4m1rJhDiiO) | [Meadow Rose](https://open.spotify.com/artist/0oEgQRXvflXAckXUZrLI3Y) | [Fragile Voices](https://open.spotify.com/album/1EWqxA9KSoAhWTAoImsM2v) | 3:31 | 2024-04-04 |  |
 | [Fragments Café](https://open.spotify.com/track/0BIStdXlI7hvMEkIfROFUt) | [Paris Atmosphere](https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k) | [Paris Atmosphere](https://open.spotify.com/album/0hEKprQBXJUWFSgrYxbGYb) | 3:54 | 2022-07-15 | 2022-09-03 |
 | [Fragments Café](https://open.spotify.com/track/3jg4Z0yPJsVx5M3BOYkBS0) | [Paris Atmosphere](https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k) | [Paris Atmosphere](https://open.spotify.com/album/71Ao0d8AcoKZdzOFhZzScO) | 3:54 | 2022-05-25 | 2022-07-29 |
@@ -298,7 +298,7 @@
 | [Raindrops](https://open.spotify.com/track/28xGur60VKWbXN0xO53r28) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Sunrise](https://open.spotify.com/album/4OqOKmqpBvfAw1NF68Vd83) | 3:11 | 2022-07-15 | 2022-09-28 |
 | [Raindrops](https://open.spotify.com/track/4E0yiWum59pIWFOYhMSmH1) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Far & Away](https://open.spotify.com/album/3nKaL2gpdF60hvUKfMBOBZ) | 3:11 | 2022-05-25 | 2022-07-29 |
 | [Realative](https://open.spotify.com/track/7oHhjX5WuUphmpIPaZ5poJ) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [In Between](https://open.spotify.com/album/1fXO5VUNbyeR0WMmhulZxo) | 3:54 | 2022-05-25 | 2022-09-28 |
-| [Refreshing Mountains](https://open.spotify.com/track/6C3iDqvRYl0qgKgOe4Bze0) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Refreshing Mountains](https://open.spotify.com/album/12HipH3laQEE7qbMgM1fNb) | 3:20 | 2023-08-24 |  |
+| [Refreshing Mountains](https://open.spotify.com/track/6C3iDqvRYl0qgKgOe4Bze0) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Refreshing Mountains](https://open.spotify.com/album/12HipH3laQEE7qbMgM1fNb) | 3:20 | 2023-08-24 | 2024-07-20 |
 | [Relajación espiritual](https://open.spotify.com/track/7kbiF2WwENN3Z5yOZ2X0R2) | [Toga Bali](https://open.spotify.com/artist/0DUOo4Eips5aR2eA4V5Vfb) | [Relajación espiritual](https://open.spotify.com/album/2t4WoPwxh8Us4B2j1iDNQ9) | 3:10 | 2022-05-25 | 2022-09-28 |
 | [Relaxar](https://open.spotify.com/track/517MFgG7lzEZn286TL5F74) | [Miranda Moniz](https://open.spotify.com/artist/5kpJ18Oz0PCOMeSQH8ELOT) | [Relaxamento](https://open.spotify.com/album/4EtRcn4zeWMP65uM0j5u1s) | 3:57 | 2022-05-25 | 2023-04-07 |
 | [Relaxing Pillow](https://open.spotify.com/track/15GJW2ovskjK0dKwr6hgAf) | [Mr Pillow](https://open.spotify.com/artist/3V7GUrlrlXrhNa35wzdqUx) | [Getting Sleepy](https://open.spotify.com/album/145nFBu19qqrs9qGzElwj8) | 3:30 | 2022-05-25 | 2022-09-28 |
@@ -391,6 +391,7 @@
 | [Togetherness](https://open.spotify.com/track/4LzwKBHmQah31grCWDW5t3) | [Emeraldic](https://open.spotify.com/artist/03zWCCGrixU8hjtzgf8VRK) | [Togetherness](https://open.spotify.com/album/4YAGKiThELZJuTxnsrQUsh) | 2:47 | 2022-05-25 |  |
 | [Tomorrow Will Save Us](https://open.spotify.com/track/1veAhdOE3JSQIAFfXlPHa6) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Tomorrow Will Save Us](https://open.spotify.com/album/1IsXOWnEnSntKkJqVaPRhw) | 3:06 | 2022-05-25 | 2022-07-29 |
 | [Tomorrow Will Save Us](https://open.spotify.com/track/4QqwpUpSkt7WsljQxDAKda) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Tomorrow Will Save Us](https://open.spotify.com/album/7GQ5hOaFFAcwBhJqSCZCCC) | 3:06 | 2022-07-15 | 2022-09-28 |
+| [Tranquil Oasis](https://open.spotify.com/track/5vw6rhN09QIOub5CfzjvUh) | [Kazuhiro Hotaru](https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W) | [Tranquil Oasis](https://open.spotify.com/album/5tJMRBpp3bS6ZPI7Fnyfkd) | 2:47 | 2024-07-19 |  |
 | [Tranquility](https://open.spotify.com/track/5gaOQmZwdjt1FR6Jnpw9Qz) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Frangibility](https://open.spotify.com/album/1m9rG3JBXxgzopcnfh3oTX) | 2:45 | 2022-05-25 | 2022-09-28 |
 | [Transcendence](https://open.spotify.com/track/4E1jg7m6rq4ofqfoKQ16LN) | [Amber Virena](https://open.spotify.com/artist/5OtQEaDqWy4oDqhgPAETSA) | [Transcendence](https://open.spotify.com/album/0AwlDOSsp2rvCfUEFIpJEy) | 3:53 | 2022-05-25 | 2022-09-28 |
 | [Troposphere](https://open.spotify.com/track/57HE45Js8hYKiXsVDdDi7U) | [Deruinga](https://open.spotify.com/artist/4QdAxJ3cHi44C5QmSf1yeo) | [Troposphere](https://open.spotify.com/album/55t5QaPrHAaRr1xWgYeowG) | 2:57 | 2023-03-16 |  |

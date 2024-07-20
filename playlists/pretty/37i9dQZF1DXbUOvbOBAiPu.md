@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: DYSTINCT & Dadju
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,613 likes - 84 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,607 likes - 84 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 56 | [HOODLUMZ \(with PlayThatBoiZay & A$AP Rocky\)](https://open.spotify.com/track/3vDSn3BLIJKMHGrGC0zAib) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HOODLUMZ \(with PlayThatBoiZay & A$AP Rocky\)](https://open.spotify.com/album/2KunOxPu4RavN3VZ08vv5D) | 2:09 |
 | 57 | [the warmth](https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [the warmth](https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy) | 4:30 |
 | 58 | [All In My Head](https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [All In My Head](https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX) | 3:21 |
-| 59 | [GEMINI \(feat\. Jackie Giroux\)](https://open.spotify.com/track/5j99dfS5X643RxuJdyizt3) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Jackie Giroux](https://open.spotify.com/artist/5QX6gWlu1rdoTKPZ9FiwYh) | [1\-800 FANTASY](https://open.spotify.com/album/4Hc9kwSIRb2jgE441FOueK) | 2:37 |
+| 59 | [GEMINI](https://open.spotify.com/track/5j99dfS5X643RxuJdyizt3) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Jackie Giroux](https://open.spotify.com/artist/5QX6gWlu1rdoTKPZ9FiwYh) | [1\-800 FANTASY](https://open.spotify.com/album/4Hc9kwSIRb2jgE441FOueK) | 2:37 |
 | 60 | [Boys Like U](https://open.spotify.com/track/1tUYtX5SrRj9MJQgZ9u2W3) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Boys Like U](https://open.spotify.com/album/20Lna2QqNErPjA4lRDUGoX) | 2:35 |
 | 61 | [Back Again](https://open.spotify.com/track/5v1KjLcpxjntj3bHyYJ40g) | [Joan As Police Woman](https://open.spotify.com/artist/6PBv8t9YTLggA9ZMwpeoqj) | [Back Again](https://open.spotify.com/album/4qi64z33gcZ5eo0mDNj2Qy) | 3:54 |
 | 62 | [Paralyzed \(feat\. Attack Attack!\)](https://open.spotify.com/track/2og0nXCxECL4AfuYMwh2ga) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc), [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Paralyzed \(feat\. Attack Attack!\)](https://open.spotify.com/album/238QCuqkflGRVqbJJ2rL9R) | 3:32 |

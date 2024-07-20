@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Jem\. Artwork: Isu Kim
 
-2,542 songs - 6 day 5 hr 35 min
+2,544 songs - 6 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,6 +421,7 @@
 | [Cherry Lips](https://open.spotify.com/track/5iyOhJISKGhxUiX4NtMw6A) | [Jkey](https://open.spotify.com/artist/0iKx6KCKPA022Gu59vlNg2) | [Cherry Lips](https://open.spotify.com/album/1ExBVyvcwxPVw6yxFDeS2w) | 1:42 | 2024-03-28 | 2024-05-17 |
 | [Cherry Tree](https://open.spotify.com/track/3C2GSDEJ77KiAzsrA3a0xI) | [Buboy](https://open.spotify.com/artist/4xUjK4i8SLrp8zXmLrgk2Z) | [Cherry Tree](https://open.spotify.com/album/5JvocGblhff4fStLZjcgBo) | 3:16 | 2024-06-13 | 2024-07-12 |
 | [chismosa](https://open.spotify.com/track/1c4VEnyKZplsJ5ANtcanTK) | [buko boys](https://open.spotify.com/artist/3PTYbD85yltYmaEDe45nSa) | [chismosa](https://open.spotify.com/album/4iOFJ2pvYhaBVsbUe859AO) | 2:47 | 2023-10-19 | 2023-11-11 |
+| [Chloe Ann](https://open.spotify.com/track/4HNXR994Z0oWXtgOhvAK0Y) | [MoonDream City](https://open.spotify.com/artist/2lyDS8Rxlclb12i1HN9HA2) | [Chloe Ann](https://open.spotify.com/album/3bQFfmkTVHltlOSVD0AjXB) | 4:31 | 2024-07-18 |  |
 | [Circles](https://open.spotify.com/track/4y6JNYXpD91KBELBNfS03f) | [Saint Klutch](https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj) | [Circles](https://open.spotify.com/album/34fhT1qTfNBljlwzbFG1WA) | 3:01 | 2024-01-11 | 2024-02-16 |
 | [City Lights](https://open.spotify.com/track/1b1xpoJEdIFiESUb3DVtfT) | [Yoan Francine](https://open.spotify.com/artist/6DFr4IJysUA0KLD3JP0602) | [City Lights](https://open.spotify.com/album/1Q6qPq5NIDHe5Ui0F1p7Hy) | 3:54 | 2023-06-15 | 2023-06-30 |
 | [Clear To Me](https://open.spotify.com/track/6cHEo1TbTXDUZGeHzAuczH) | [Leah Halili](https://open.spotify.com/artist/4B13ZLlqLRlWWrlfKR7C4r) | [Clear To Me](https://open.spotify.com/album/0ee8NWpdQUAsELBqRIACmR) | 4:16 | 2022-10-13 | 2022-12-01 |
@@ -1776,6 +1777,7 @@
 | [paranaque boy](https://open.spotify.com/track/1MuE4HcZA0l2Wg8IdYjZeU) | [IMELDA](https://open.spotify.com/artist/4oEhLoaLoDM2VWNAmiwV6J) | [paranaque boy](https://open.spotify.com/album/3EyyBuE9hhL7dgH1Cv5DQQ) | 4:13 | 2022-03-10 | 2022-04-01 |
 | [Parang Dati Lang](https://open.spotify.com/track/7zpUotv3uMuDhF2Q0kXLC0) | [Corrgtd](https://open.spotify.com/artist/1wkoRzaLhMGNfNEp7Lj9pV), [Allan Benavides](https://open.spotify.com/artist/1jvqBSm4pVPxklyp6hxnHg), [Kydd Curti$](https://open.spotify.com/artist/4Fl8PVeFAKADcYUZxuhERl), [NASHE](https://open.spotify.com/artist/2GUJqSGRk1wqqvcbELRMAC), [Bby Jaye](https://open.spotify.com/artist/3zdpDnYSYmgka8gctdGYth) | [Parang Dati Lang](https://open.spotify.com/album/157rFXhdmH9eKt2g7Xv4Uu) | 4:46 | 2022-05-05 | 2022-06-17 |
 | [Parang Kahapon](https://open.spotify.com/track/0cDmuRppkylWo0Xb0odScF) | [Ela Figura](https://open.spotify.com/artist/0q4SQjYmb5aEeu1zVXFilp), [Off The Record](https://open.spotify.com/artist/0h2lW8O3gilzdOjbgLYivM) | [Parang Kahapon](https://open.spotify.com/album/4tm43PJimsCBloYsIcDFiz) | 4:47 | 2024-01-11 | 2024-02-09 |
+| [Parang Magic](https://open.spotify.com/track/4fUQusd8m6lKvbEfqw7mYo) | [4kDAMI](https://open.spotify.com/artist/4wemcvntr6ZZh5DPkxJHds) | [Parang Magic](https://open.spotify.com/album/13X3Tal608UKAdMAmb7wun) | 1:48 | 2024-07-18 |  |
 | [PARASITIKO](https://open.spotify.com/track/60wiposLC1z5ZzIjTJhtR0) | [P V R V $ I T E](https://open.spotify.com/artist/609Y4tvqp01F46SC1tTPJf) | [INTERITIO](https://open.spotify.com/album/0ufCu0ITu9g4mYgoe5PO2W) | 2:14 | 2023-02-02 | 2023-02-10 |
 | [Parating Na Ang Umaga](https://open.spotify.com/track/5Ne51jbyMmVGVWJ90YglE4) | [Tito Alvs and the Jojoes](https://open.spotify.com/artist/1JcK4Da20zj3ZnnEaHIdIT) | [Parating Na Ang Umaga](https://open.spotify.com/album/5ziYOS3kwYDKTZuPhiRnCW) | 3:30 | 2022-08-19 | 2022-09-23 |
 | [Paraya](https://open.spotify.com/track/7C7XGphS70fsqDd99h5GuY) | [Vilmark](https://open.spotify.com/artist/335NA7iC8OHVYB9T1WQQb7) | [Paraya](https://open.spotify.com/album/0J9IbEFFGOhTVVJwVQx3l2) | 5:17 | 2022-08-26 | 2022-11-25 |

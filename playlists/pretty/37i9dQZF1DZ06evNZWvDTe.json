@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 10959,
+  "num_followers": 10966,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAAChFvnKNAFLXS4WbxAvbCW/",
+  "snapshot_id": "ZphbAAAAAADgRZlGpxYq04C6QMuSJ+bo",
   "tracks": [
     {
       "added_at": null,
@@ -427,26 +427,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "As Promised",
-        "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
+        "name": "JEALOUS (feat. Ambr\u00e9)",
+        "url": "https://open.spotify.com/album/4owkBc2GpCLoSoncX50jrU"
       },
       "artists": [
         {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mugeez",
-          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
+          "name": "KJ Spio",
+          "url": "https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L"
         },
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Loick Essien",
+          "url": "https://open.spotify.com/artist/5q5CX3rBmPev47aPxEBNti"
+        },
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
         }
       ],
-      "duration_ms": 253040,
-      "name": "CCTV",
-      "url": "https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM"
+      "duration_ms": 159157,
+      "name": "JEALOUS (feat. Ambr\u00e9)",
+      "url": "https://open.spotify.com/track/3UuP7C0942VjdtQHZi4erQ"
     },
     {
       "added_at": null,
@@ -467,6 +471,30 @@
       "duration_ms": 273256,
       "name": "X",
       "url": "https://open.spotify.com/track/5ixH9djj6liGfZB4scbjRF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As Promised",
+        "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mugeez",
+          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 253040,
+      "name": "CCTV",
+      "url": "https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM"
     },
     {
       "added_at": null,
@@ -551,30 +579,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "JEALOUS (feat. Ambr\u00e9)",
-        "url": "https://open.spotify.com/album/4owkBc2GpCLoSoncX50jrU"
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/33CQoQojSZtFZJO8xALGJ1"
       },
       "artists": [
         {
-          "name": "KJ Spio",
-          "url": "https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L"
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
         },
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Loick Essien",
-          "url": "https://open.spotify.com/artist/5q5CX3rBmPev47aPxEBNti"
-        },
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
         }
       ],
-      "duration_ms": 159157,
-      "name": "JEALOUS (feat. Ambr\u00e9)",
-      "url": "https://open.spotify.com/track/3UuP7C0942VjdtQHZi4erQ"
+      "duration_ms": 210133,
+      "name": "Hate",
+      "url": "https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ"
     },
     {
       "added_at": null,
@@ -595,26 +615,6 @@
       "duration_ms": 267660,
       "name": "Lucky (feat. Rudeboy)",
       "url": "https://open.spotify.com/track/6GT0hsZ50fyAHHdknAd314"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hate",
-        "url": "https://open.spotify.com/album/33CQoQojSZtFZJO8xALGJ1"
-      },
-      "artists": [
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Hate",
-      "url": "https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ"
     },
     {
       "added_at": null,
@@ -675,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Da Man",
-        "url": "https://open.spotify.com/album/1ls27oDCfeUr4wIS4rupur"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "Who Da Man",
-      "url": "https://open.spotify.com/track/397tmDWdvcdlAL1UaaJpi3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anointing",
         "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 216546,
       "name": "Anointing",
       "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Da Man",
+        "url": "https://open.spotify.com/album/1ls27oDCfeUr4wIS4rupur"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "Who Da Man",
+      "url": "https://open.spotify.com/track/397tmDWdvcdlAL1UaaJpi3"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mary",
-        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Akwaboah",
-          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
-        }
-      ],
-      "duration_ms": 205578,
-      "name": "Mewu (feat. Akwaboah)",
-      "url": "https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PALMWINE DIARIES VOL.1",
         "url": "https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 240000,
       "name": "Unfortunately",
       "url": "https://open.spotify.com/track/6vvZsgPWTtMqfCPPwz2fDP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Akwaboah",
+          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
+        }
+      ],
+      "duration_ms": 205578,
+      "name": "Mewu (feat. Akwaboah)",
+      "url": "https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI"
     },
     {
       "added_at": null,
@@ -947,26 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mary",
-        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Obrafour",
-          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
-        }
-      ],
-      "duration_ms": 287261,
-      "name": "Always on My Mind (feat. Obrafour)",
-      "url": "https://open.spotify.com/track/55vXTF5Pv3UoyaixvbBkQp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oofeets",
         "url": "https://open.spotify.com/album/4YhDsLqC5mqUIYuNIdfM1y"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 226666,
       "name": "Oofeets",
       "url": "https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Obrafour",
+          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+        }
+      ],
+      "duration_ms": 287261,
+      "name": "Always on My Mind (feat. Obrafour)",
+      "url": "https://open.spotify.com/track/55vXTF5Pv3UoyaixvbBkQp"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 ### [This Is BK](https://open.spotify.com/playlist/37i9dQZF1DZ06evO17qluT)
 
-> This is BK\. Todos os maiores hits em uma só playlist.
+> This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,421 likes - 51 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,477 likes - 51 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 47 | [Paraíso Que Me Cerca](https://open.spotify.com/track/3uv5o7hM6piPkA20ZhWQQ2) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Cidade do Pecado](https://open.spotify.com/album/1rqGgyvgN6ypRrnh0s6hsn) | 3:37 |
 | 48 | [Almas](https://open.spotify.com/track/1l2T5EJk8djGStVNwsltCo) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k), [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq) | [Antes dos Gigantes Chegarem, Vol\. 2](https://open.spotify.com/album/5Dz9KqHWRNlLHrWpEXcWoc) | 3:47 |
 | 49 | [Favela Vive 2](https://open.spotify.com/track/5nu2sTKMvTOzlBKQoz1nxf) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Funkero](https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt) | [Favela Vive 2](https://open.spotify.com/album/3yIiTiHnuTqOhFEJQAg9n3) | 7:02 |
-| 50 | [ROMPEU O COURO.](https://open.spotify.com/track/6aboy6b50nYKU7gW7RPXU1) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Juçara Marçal](https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Anelis Assumpção](https://open.spotify.com/artist/18XQILNxVCcvcU1VhwNJJv) | [Assim Tocam os MEUS TAMBORES](https://open.spotify.com/album/0iU74EJRxkNbobROM1bKiP) | 4:30 |
-| 51 | [ESSE É MEU ESTILO \(feat\. Akira Presidente & BK\)](https://open.spotify.com/track/6TuFeSKT62xvhsrAeRMG0d) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [RUNNING](https://open.spotify.com/album/50T8RSK9OuebjbS4f5uqZV) | 3:58 |
+| 50 | [ESSE É MEU ESTILO \(feat\. Akira Presidente & BK\)](https://open.spotify.com/track/6TuFeSKT62xvhsrAeRMG0d) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [RUNNING](https://open.spotify.com/album/50T8RSK9OuebjbS4f5uqZV) | 3:58 |
+| 51 | [ROMPEU O COURO.](https://open.spotify.com/track/6aboy6b50nYKU7gW7RPXU1) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Juçara Marçal](https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Anelis Assumpção](https://open.spotify.com/artist/18XQILNxVCcvcU1VhwNJJv) | [Assim Tocam os MEUS TAMBORES](https://open.spotify.com/album/0iU74EJRxkNbobROM1bKiP) | 4:30 |
 
-Snapshot ID: `ZpcJgAAAAADX/n8sSlPTy8p/EtOFqYi3`
+Snapshot ID: `ZphbAAAAAAAB2xXUILXCNItCYt1PSZ1b`

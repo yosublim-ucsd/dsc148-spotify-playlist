@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > JKSN x UZI au top de la première playlist de rap français.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,505,227 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,505,329 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [Triste mélancolie \(feat\. Josman\)](https://open.spotify.com/track/2Xbeuuuba5orpOWIBlXoKi) | [Lesram](https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Du peu que j'ai eu, Du mieux que j'ai pu](https://open.spotify.com/album/3MfrrJMMFJKkn1HCeelBM7) | 3:25 |
 | 40 | [Prequel](https://open.spotify.com/track/0y2JXGqNraYN2gbnSLguWk) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS Prequel : Giulio](https://open.spotify.com/album/4xR5GFngZglie60Cc3DvoS) | 3:30 |
 
-Snapshot ID: `ZpmQYAAAAAAsHRuCTspz70CvZaPNthIK`
+Snapshot ID: `ZppYtwAAAAB9cxdH62qu+m8s6ED230aK`

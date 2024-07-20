@@ -6112,10 +6112,28 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 180922,
       "name": "Harpy Hare",
       "url": "https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT"
+    },
+    {
+      "album": {
+        "name": "Hayfields",
+        "url": "https://open.spotify.com/album/2lbpmMn8kXAMAyUFVK0oHi"
+      },
+      "artists": [
+        {
+          "name": "Yaelokre",
+          "url": "https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180922,
+      "name": "Harpy Hare",
+      "url": "https://open.spotify.com/track/6UBZABudOQOGXGObqKHhEz"
     },
     {
       "album": {

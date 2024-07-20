@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Huracanes del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 114268,
+  "description": "This Is Los Huracanes del Norte. Los temas esenciales, todos en una lista.",
+  "num_followers": 114313,
   "original_name": "This Is Los Huracanes del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAAAWkORvGC/cCeuuzBW3qFq9",
+  "snapshot_id": "ZphbAAAAAACuZCxf9G0qYFjy2wKUunsU",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Monterrey",
-        "url": "https://open.spotify.com/album/3m5srgyz9ySxGVpnMkxldJ"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "Que Me Lleve El Diablo - En Vivo",
-      "url": "https://open.spotify.com/track/6AshXTa1GeNYf9mpLfJwl0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dejate Querer",
         "url": "https://open.spotify.com/album/5U7O4yUcT9DZTycloxy5zO"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 160966,
       "name": "Me Bebi Tu Recuerdo",
       "url": "https://open.spotify.com/track/0CkKryCkeDtsAmC3a5ZKeZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puro Pa` Arriba",
+        "url": "https://open.spotify.com/album/4C1N5LValUfNBZAyXMeeyY"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 193697,
+      "name": "El Hombre De Negro",
+      "url": "https://open.spotify.com/track/652n8ymCgyYGeRx6S5eLxy"
     },
     {
       "added_at": null,
@@ -452,25 +452,9 @@
           "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 173035,
-      "name": "Doble Fondo Carga Pesada (LIVE0",
-      "url": "https://open.spotify.com/track/6TOAAPGzz2ZD59pBsO3Hau"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como Un Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/6EJrmuOfreSo4Efuhk0YB9"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 173693,
-      "name": "Cero A La Izquierda",
-      "url": "https://open.spotify.com/track/3CmoQ0OMhcXKHHL1BLCATS"
+      "duration_ms": 161071,
+      "name": "La Venganza Del Viejito",
+      "url": "https://open.spotify.com/track/0EXLXkgeAym7heIBtaoNbW"
     },
     {
       "added_at": null,
@@ -487,6 +471,22 @@
       "duration_ms": 165642,
       "name": "Medio Pueblo",
       "url": "https://open.spotify.com/track/5BLHGE5bPjXGaDaVnCM9CT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Un Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/6EJrmuOfreSo4Efuhk0YB9"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 173693,
+      "name": "Cero A La Izquierda",
+      "url": "https://open.spotify.com/track/3CmoQ0OMhcXKHHL1BLCATS"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 161071,
-      "name": "La Venganza Del Viejito",
-      "url": "https://open.spotify.com/track/0EXLXkgeAym7heIBtaoNbW"
+      "duration_ms": 173035,
+      "name": "Doble Fondo Carga Pesada (LIVE0",
+      "url": "https://open.spotify.com/track/6TOAAPGzz2ZD59pBsO3Hau"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "30 Nortenas Perronas",
+        "url": "https://open.spotify.com/album/59YgyERllemGd1mRxZUGQh"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 150440,
+      "name": "Lincoln Negro",
+      "url": "https://open.spotify.com/track/3xjJ2rd1zCVqWySklVnwuF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Profeta",
         "url": "https://open.spotify.com/album/0DF4R8iyOcRQVD5zs7CUNx"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 217434,
       "name": "El Profeta",
       "url": "https://open.spotify.com/track/45mpsyfgiBOCuYD49KHLZs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "30 Nortenas Perronas",
-        "url": "https://open.spotify.com/album/59YgyERllemGd1mRxZUGQh"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 150440,
-      "name": "Lincoln Negro",
-      "url": "https://open.spotify.com/track/3xjJ2rd1zCVqWySklVnwuF"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Set the mood of your day with these happy songs.",
-  "num_followers": 1343579,
+  "num_followers": 1343583,
   "original_name": "Wake Up Happy",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148485,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "Memories...Do Not Open",
         "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 247160,
       "name": "Something Just Like This",
       "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Native",
-        "url": "https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 257265,
-      "name": "Counting Stars",
-      "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
@@ -267,18 +251,18 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Dream Your Life Away",
-        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+        "name": "Native",
+        "url": "https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
+      "duration_ms": 257265,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -315,6 +299,22 @@
       "duration_ms": 176658,
       "name": "The Nights",
       "url": "https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 190626,
-      "name": "You Make My Dreams (Come True)",
-      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 291293,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "You Make My Dreams (Come True)",
+      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 163854,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "Battleground (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 197935,
       "name": "Glad You Came",
       "url": "https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 163854,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Respect",
-      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 280000,
       "name": "You Can Call Me Al",
       "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Back To Front",
-        "url": "https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 258665,
-      "name": "All Night Long (All Night) - Single Version",
-      "url": "https://open.spotify.com/track/4czNORk5MjW5WOn98bki32"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "Cuz I Love You (Super Deluxe)",
         "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 159735,
       "name": "Good as Hell",
       "url": "https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "Back To Front",
+        "url": "https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 258665,
+      "name": "All Night Long (All Night) - Single Version",
+      "url": "https://open.spotify.com/track/4czNORk5MjW5WOn98bki32"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "RUNAWAY",
-        "url": "https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 143264,
-      "name": "RUNAWAY",
-      "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "Animal (Expanded Edition)",
         "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
       },
@@ -1935,18 +1919,18 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+        "name": "RUNAWAY",
+        "url": "https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 234493,
-      "name": "Man! I Feel Like A Woman!",
-      "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
+      "duration_ms": 143264,
+      "name": "RUNAWAY",
+      "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -1967,34 +1951,18 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Greatest Vol.1 - Belinda Carlisle",
-        "url": "https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG"
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
       "artists": [
         {
-          "name": "Belinda Carlisle",
-          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 246520,
-      "name": "Heaven Is A Place On Earth",
-      "url": "https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 254733,
-      "name": "Glory Days",
-      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
+      "duration_ms": 234493,
+      "name": "Man! I Feel Like A Woman!",
+      "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -2015,6 +1983,22 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
+        "name": "Greatest Vol.1 - Belinda Carlisle",
+        "url": "https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG"
+      },
+      "artists": [
+        {
+          "name": "Belinda Carlisle",
+          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
+        }
+      ],
+      "duration_ms": 246520,
+      "name": "Heaven Is A Place On Earth",
+      "url": "https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
         "name": "Expectations",
         "url": "https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 164205,
       "name": "Meant to Be (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/4e4fqjx0Izh4svvTef1z7e"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 254733,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
     },
     {
       "added_at": "2024-07-12 06:06:06",

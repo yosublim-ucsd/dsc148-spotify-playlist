@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-736 songs - 1 day 3 hr 28 min
+737 songs - 1 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [BRODYAGA FUNK](https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [BRODYAGA FUNK](https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0) | 2:14 | 2023-12-01 |  |
 | [Broken Lady](https://open.spotify.com/track/1c98tMv6PKPOzOmixNEdUM) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [TRVNSPORTER](https://open.spotify.com/artist/7qxDImq6MFph8fLy0FOTCq) | [Broken Lady](https://open.spotify.com/album/6HlntCZmP1jYg4ES5WJPV6) | 2:28 | 2023-02-04 | 2023-06-17 |
 | [BROKEN SPIRIT](https://open.spotify.com/track/1UFfpcghvBAHfKwXFG1rr5) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj) | [BROKEN SPIRIT](https://open.spotify.com/album/1Yr18G9ZIL15nD4knb3gbg) | 2:01 | 2022-07-15 | 2022-10-08 |
-| [Broken Trust](https://open.spotify.com/track/5Y4OwloGr9QSxZLZ5DXGte) | [SAY3AM](https://open.spotify.com/artist/3UxUktdCJsomjKqozWDWSu), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Broken Trust](https://open.spotify.com/album/3Wm96XwUfNEfVCTYmyQmBH) | 2:03 | 2023-09-29 |  |
+| [Broken Trust](https://open.spotify.com/track/5Y4OwloGr9QSxZLZ5DXGte) | [SAY3AM](https://open.spotify.com/artist/3UxUktdCJsomjKqozWDWSu), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Broken Trust](https://open.spotify.com/album/3Wm96XwUfNEfVCTYmyQmBH) | 2:03 | 2023-09-29 | 2024-07-20 |
 | [BULLET](https://open.spotify.com/track/4bMLRF2dnTS0mPJTKp5vo7) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [BULLET](https://open.spotify.com/album/39yIaoiNiN0VIbQsP8Vqei) | 2:15 | 2022-12-16 | 2023-06-03 |
 | [BXTCH MAKE A MOVE](https://open.spotify.com/track/7qjHoCMGFEyNKSoxKYnFWh) | [KEAN DYSSO](https://open.spotify.com/artist/74MUeXrsMncKunk1chMxg5) | [BXTCH MAKE A MOVE](https://open.spotify.com/album/5zXFeJF3adzurF4Qfx82ly) | 1:57 | 2022-02-04 | 2022-05-28 |
 | [CALAMITY](https://open.spotify.com/track/7kgpzX6QHe5RaE26F8ITiP) | [Skorde](https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [Calamity](https://open.spotify.com/album/3h9xhGa9JPNH16ptBfuRpq) | 2:40 | 2023-03-10 | 2023-03-25 |
@@ -153,6 +153,7 @@
 | [CRIME](https://open.spotify.com/track/0KW7l7XcacPju6pKCk8rsm) | [NORTMIRAGE](https://open.spotify.com/artist/6UKFiJTIiMnkfIlPJ5XOfp) | [CRIME](https://open.spotify.com/album/313nbcS7A2PH1z4cUGqV6Q) | 1:42 | 2022-07-22 | 2023-06-03 |
 | [CRIMINAL MANE](https://open.spotify.com/track/3W5AJtjwTqzYJWhF2iBKAE) | [PRXSXNT FXTURE](https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw) | [CRIMINAL MANE](https://open.spotify.com/album/0jxiVbN7Wpdwppd7f5vIhK) | 2:33 | 2021-11-12 | 2022-09-03 |
 | [Crystals](https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d) | [Isolate.exe](https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI) | [Crystals](https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS) | 2:19 | 2022-09-02 |  |
+| [Cuando se te moja la tarea 2](https://open.spotify.com/track/2NVY5DJmbIxMr0a4glhyHU) | [LDRR](https://open.spotify.com/artist/2DtIt7mMzdaEEFVUbSmnoU) | [Cuando se te moja la tarea 2](https://open.spotify.com/album/5hUTWbVLPE7Vo9KtS06U15) | 2:59 | 2024-07-19 |  |
 | [CURSE](https://open.spotify.com/track/7LwwEJqPu6lmEMLtT8sYay) | [SLXSH](https://open.spotify.com/artist/6J8l7mZh6UILCYlTmlP3yv) | [CURSE](https://open.spotify.com/album/6vJTukMG2H8md58NIBcPWr) | 2:35 | 2022-02-18 | 2022-05-21 |
 | [CURSED](https://open.spotify.com/track/4Cl2yoVbGozFm97tBNgq0L) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY), [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [CURSED](https://open.spotify.com/album/5uAYVil7Nq1aKyKP07O9UM) | 2:35 | 2022-08-26 | 2022-10-15 |
 | [CURSED](https://open.spotify.com/track/2I4w8iGYwlONKAZF5BdzNo) | [MXRTAL](https://open.spotify.com/artist/5LPHt0TbjkzTQ4gUrkogAI) | [CURSED](https://open.spotify.com/album/5cEj9PTQfbCeCGPt2Vj4wd) | 1:38 | 2021-10-25 | 2022-02-19 |
@@ -345,7 +346,7 @@
 | [KNIGHT II](https://open.spotify.com/track/1tbfwWXvGQor2wu49pxUqz) | [KXNVRA](https://open.spotify.com/artist/5UJkhYfIETGF5PMO0DT3aj) | [KNIGHT II](https://open.spotify.com/album/3FXAy3k4tFYmiMPSN8yG1L) | 2:05 | 2022-04-04 | 2022-07-30 |
 | [Komarovo \(DVRST Phonk Remix\)](https://open.spotify.com/track/1yqaea9PLO8rttUlcNTlcB) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5), [Igor Sklyar](https://open.spotify.com/artist/0CS3vgS9XURba0m7OvCPJv), [Atomic Heart](https://open.spotify.com/artist/1VhpqaYeyotfoFFdHZhrHP) | [Atomic Heart \(Original Game Soundtrack\) Vol.1](https://open.spotify.com/album/2XVO5mhDvOpSTYpXUDVisx) | 2:26 | 2023-03-31 | 2023-05-20 |
 | [KRUSH BANDICOOT](https://open.spotify.com/track/7Iw1IbjTLh4IFltKiwiNcE) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [KRUSH BANDICOOT](https://open.spotify.com/album/2ZfmmTGVbyPOFJOqrdYFwf) | 1:37 | 2024-05-10 |  |
-| [KRUSH GIRL](https://open.spotify.com/track/2m8EJE78SOqsN7YPxNNnZm) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [killanoia](https://open.spotify.com/artist/4Xwsb6LzVsThO9PJIJb4EE), [Tokyomane](https://open.spotify.com/artist/2GaIPa6dUUQBlVNYeEF6PH) | [KRUSH GIRL](https://open.spotify.com/album/5DeYeVhTwmm35ICdwIPluJ) | 1:49 | 2024-04-05 |  |
+| [KRUSH GIRL](https://open.spotify.com/track/2m8EJE78SOqsN7YPxNNnZm) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [killanoia](https://open.spotify.com/artist/4Xwsb6LzVsThO9PJIJb4EE), [Tokyomane](https://open.spotify.com/artist/2GaIPa6dUUQBlVNYeEF6PH) | [KRUSH GIRL](https://open.spotify.com/album/5DeYeVhTwmm35ICdwIPluJ) | 1:49 | 2024-04-05 | 2024-07-20 |
 | [krushed!](https://open.spotify.com/track/3iQ1B1jF370iZEaJUIs3eJ) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [SXCREDMANE](https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9), [FXRCE](https://open.spotify.com/artist/5UKXrvmyouEgmvon7DwwzA) | [krushed!](https://open.spotify.com/album/7qyBlBu0vNweg8G7NfmZdo) | 1:38 | 2024-02-02 |  |
 | [KRUSHSEXX \- SLOWED + REVERB](https://open.spotify.com/track/27s4TayyokpSazOtWd06zX) | [nightfxrce](https://open.spotify.com/artist/0zPcNpNWxJ8KZutFU26dfW), [dvspair](https://open.spotify.com/artist/3z0A4imcC68KLhZGn4uwzw) | [KRUSHSEXX](https://open.spotify.com/album/0pjk79vhRixuMAx0fIuCi1) | 2:24 | 2024-03-01 | 2024-04-13 |
 | [KRYPTIC TYPE](https://open.spotify.com/track/2Cge0P573ppMqoHINh6k3r) | [FISTICALE](https://open.spotify.com/artist/1uZNnOWHebXUk7jCt9llAg) | [ENDLESS DRIVE](https://open.spotify.com/album/6DmSxlBNOzxoRUilHFFr0i) | 2:07 | 2021-10-01 | 2022-05-14 |

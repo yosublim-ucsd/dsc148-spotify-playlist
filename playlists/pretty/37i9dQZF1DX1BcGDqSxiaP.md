@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 
 > Releases from the legendary Blues label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,847 likes - 52 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,855 likes - 52 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 | 17 | [Honey, Hush aka Talking Woman Blues](https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 4:28 |
 | 18 | [Down Home Blues](https://open.spotify.com/track/3OHj5SY6j7Ftmfa7qZJWoa) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k), [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t), [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Harp Attack!](https://open.spotify.com/album/1zivuph8N0dHpL4k0SA94b) | 6:23 |
 | 19 | [Keep On Lovin' Me Baby](https://open.spotify.com/track/3jtaWKCISJEDBNl83CV9pw) | [The Paladins](https://open.spotify.com/artist/5ecJGNE48l8ut59qMbP7ZF) | [Let's Buzz](https://open.spotify.com/album/3ECx5ku37cBY69C594AJEz) | 4:02 |
-| 20 | [Your Love Is Like A Cancer](https://open.spotify.com/track/6zl81YN27QExitw4AZUDy1) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [The Son Seals Blues Band](https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke) | 4:36 |
-| 21 | [Phillips Goes Bananas](https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Genuine Houserocking Music](https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe) | 2:37 |
+| 20 | [Phillips Goes Bananas](https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Genuine Houserocking Music](https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe) | 2:37 |
+| 21 | [Your Love Is Like A Cancer](https://open.spotify.com/track/6zl81YN27QExitw4AZUDy1) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [The Son Seals Blues Band](https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke) | 4:36 |
 | 22 | [If You Love Me Like You Say](https://open.spotify.com/track/0t3BTxJpdQnnS52cz0ciw9) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Frostbite](https://open.spotify.com/album/7C64occ2ChtDhSH5Wsj8mV) | 4:08 |
 | 23 | [Evil On My Mind \- Remastered](https://open.spotify.com/track/5rq5YNOQrxvZqkcTQG10Fm) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 2:21 |
 | 24 | [Gotta Move On](https://open.spotify.com/track/7fP4SqRROudOtgaOeR72lg) | [Eddy Clearwater](https://open.spotify.com/artist/24k7DQG3asoxeOERUfa4JS) | [West Side Strut](https://open.spotify.com/album/7g3FhubXyKNZIFnlVEz73k) | 4:40 |

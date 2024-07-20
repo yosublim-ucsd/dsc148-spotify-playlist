@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,527 songs - 2 day 22 hr 55 min
+1,528 songs - 2 day 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,7 +316,8 @@
 | [Happy Nation](https://open.spotify.com/track/7yCF65vpc7sUwPjftI0iFb) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Happy Nation](https://open.spotify.com/album/6cpOIdpPfGaazHsh5eYz0k) | 4:15 | 2023-12-31 | 2024-01-14 |
 | [Happy New Year](https://open.spotify.com/track/4AsvGVDWs16fqIiIdDzyvX) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:23 | 2022-01-01 | 2024-01-03 |
 | [Hard Drive](https://open.spotify.com/track/4xx37dCWh0zxsWsq4zg6GF) | [Griffinilla](https://open.spotify.com/artist/4YbLu4l7vHlJPD9yGjCkRu) | [Hard Drive](https://open.spotify.com/album/5fjKbBCaeXmT4Drv0pY6hX) | 3:00 | 2022-03-03 | 2022-03-08 |
-| [Harpy Hare](https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz) | 3:00 | 2024-07-17 |  |
+| [Harpy Hare](https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz) | 3:00 | 2024-07-17 | 2024-07-20 |
+| [Harpy Hare](https://open.spotify.com/track/6UBZABudOQOGXGObqKHhEz) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Hayfields](https://open.spotify.com/album/2lbpmMn8kXAMAyUFVK0oHi) | 3:00 | 2024-07-19 |  |
 | [haunt](https://open.spotify.com/track/0nrnNb3z8ecImknVvpEPcR) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs), [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [haunt](https://open.spotify.com/album/10Fl6RaP8e46eoYosibmfe) | 1:45 | 2023-06-03 | 2023-06-26 |
 | [Haunted House](https://open.spotify.com/track/6pgZZ8xfIBewpXeeVvIjyl) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [AA LANGUAGE 2](https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na) | 2:33 | 2023-10-28 | 2023-12-08 |
 | [Hazy](https://open.spotify.com/track/3RMwfOGhQK7i1rLFMxKbBj) | [Solo James](https://open.spotify.com/artist/6kgRRXj2PGkK4XMMaXLnnF) | [Vices](https://open.spotify.com/album/5az8Jc5gSfsQRrHcAlG04V) | 3:04 | 2023-10-06 | 2023-10-08 |

@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de la salsa de ayer y hoy en un s\u00f3lo lugar. Foto: Joe Arroyo",
-  "num_followers": 753716,
+  "num_followers": 753938,
   "original_name": "Dame Salsa",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "Nuevo Milenio - El Mismo Sabor",
-        "url": "https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 263920,
-      "name": "Me Liber\u00e9",
-      "url": "https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9"
-    },
-    {
-      "added_at": "2024-06-21 20:58:37",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 292653,
       "name": "Mi Media Mitad",
       "url": "https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU"
+    },
+    {
+      "added_at": "2024-06-21 20:58:37",
+      "album": {
+        "name": "Nuevo Milenio - El Mismo Sabor",
+        "url": "https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 263920,
+      "name": "Me Liber\u00e9",
+      "url": "https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "No Le Cuentes",
-        "url": "https://open.spotify.com/album/6c7vDgCjz0dGtefj7j3Lw1"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 223197,
-      "name": "No Le Cuentes",
-      "url": "https://open.spotify.com/track/2kkrmf5Lm78SRaVgc4AySq"
-    },
-    {
-      "added_at": "2024-06-21 20:58:37",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo"
       },
@@ -703,34 +687,18 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+        "name": "No Le Cuentes",
+        "url": "https://open.spotify.com/album/6c7vDgCjz0dGtefj7j3Lw1"
       },
       "artists": [
         {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
         }
       ],
-      "duration_ms": 289586,
-      "name": "No Me Acostumbro",
-      "url": "https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6"
-    },
-    {
-      "added_at": "2024-06-21 20:58:37",
-      "album": {
-        "name": "OPUS",
-        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 268440,
-      "name": "Parecen Viernes",
-      "url": "https://open.spotify.com/track/0dqfl4l45vqw2TnNrnbsy0"
+      "duration_ms": 223197,
+      "name": "No Le Cuentes",
+      "url": "https://open.spotify.com/track/2kkrmf5Lm78SRaVgc4AySq"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -751,6 +719,22 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 268440,
+      "name": "Parecen Viernes",
+      "url": "https://open.spotify.com/track/0dqfl4l45vqw2TnNrnbsy0"
+    },
+    {
+      "added_at": "2024-06-21 20:58:37",
+      "album": {
         "name": "Los Rostros de la Salsa",
         "url": "https://open.spotify.com/album/0i86M5tnB7ikXChtz10Kli"
       },
@@ -763,38 +747,6 @@
       "duration_ms": 344626,
       "name": "Como Te Hago Entender",
       "url": "https://open.spotify.com/track/3uzIBpBL6f6hvaTi3X0E7P"
-    },
-    {
-      "added_at": "2024-06-21 20:58:37",
-      "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 295640,
-      "name": "Cara de Ni\u00f1o",
-      "url": "https://open.spotify.com/track/4qsrxXxk4GCGih80VGmaAl"
-    },
-    {
-      "added_at": "2024-06-21 20:58:37",
-      "album": {
-        "name": "Exitos de Victor Manuelle",
-        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 304333,
-      "name": "Api\u00e1date de Mi",
-      "url": "https://open.spotify.com/track/4ZVgDysve5dcNK6TX84t8e"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -815,6 +767,38 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+      },
+      "artists": [
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "duration_ms": 289586,
+      "name": "No Me Acostumbro",
+      "url": "https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6"
+    },
+    {
+      "added_at": "2024-06-21 20:58:37",
+      "album": {
+        "name": "Exitos de Victor Manuelle",
+        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 304333,
+      "name": "Api\u00e1date de Mi",
+      "url": "https://open.spotify.com/track/4ZVgDysve5dcNK6TX84t8e"
+    },
+    {
+      "added_at": "2024-06-21 20:58:37",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/20o8eVLMPNGaa5Lp5W2a51"
       },
@@ -831,6 +815,38 @@
       "duration_ms": 287893,
       "name": "Rebeli\u00f3n",
       "url": "https://open.spotify.com/track/3v32VtMTRZbIQJUFsQpeJD"
+    },
+    {
+      "added_at": "2024-06-21 20:58:37",
+      "album": {
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 295640,
+      "name": "Cara de Ni\u00f1o",
+      "url": "https://open.spotify.com/track/4qsrxXxk4GCGih80VGmaAl"
+    },
+    {
+      "added_at": "2024-06-21 20:58:37",
+      "album": {
+        "name": "Buscando America",
+        "url": "https://open.spotify.com/album/3fKfLNe4w7qBIeGOMqXBbu"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 303400,
+      "name": "Decisiones",
+      "url": "https://open.spotify.com/track/2BOcua9pjhKuVtgN40AAHX"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -863,22 +879,6 @@
       "duration_ms": 274018,
       "name": "Oye C\u00f3mo Va",
       "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
-    },
-    {
-      "added_at": "2024-06-21 20:58:37",
-      "album": {
-        "name": "Buscando America",
-        "url": "https://open.spotify.com/album/3fKfLNe4w7qBIeGOMqXBbu"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 303400,
-      "name": "Decisiones",
-      "url": "https://open.spotify.com/track/2BOcua9pjhKuVtgN40AAHX"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "Desde Un Principio / From The Beginning",
-        "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
-      },
-      "artists": [
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 366200,
-      "name": "Vivir Lo Nuestro",
-      "url": "https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp"
-    },
-    {
-      "added_at": "2024-06-21 20:58:37",
-      "album": {
         "name": "Milenario, Vol. 3",
         "url": "https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 265026,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1"
+    },
+    {
+      "added_at": "2024-06-21 20:58:37",
+      "album": {
+        "name": "Desde Un Principio / From The Beginning",
+        "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
+      },
+      "artists": [
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 366200,
+      "name": "Vivir Lo Nuestro",
+      "url": "https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/2olA7NVTMFYdWOp14n8YLK"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 331773,
-      "name": "Conciencia",
-      "url": "https://open.spotify.com/track/5kwJWQgBaJWm1QZtWeC3uj"
-    },
-    {
-      "added_at": "2024-06-21 20:58:37",
-      "album": {
         "name": "Charanga Moderna",
         "url": "https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 160115,
       "name": "El Watusi",
       "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
+    },
+    {
+      "added_at": "2024-06-21 20:58:37",
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/2olA7NVTMFYdWOp14n8YLK"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 331773,
+      "name": "Conciencia",
+      "url": "https://open.spotify.com/track/5kwJWQgBaJWm1QZtWeC3uj"
     },
     {
       "added_at": "2024-06-21 20:58:37",

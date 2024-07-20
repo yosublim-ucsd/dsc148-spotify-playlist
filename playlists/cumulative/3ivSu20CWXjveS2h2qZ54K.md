@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-903 songs - 2 day 1 hr 24 min
+904 songs - 2 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Chanel No.5](https://open.spotify.com/track/1NV3GyttwPTCgQ15BtBPpn) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Chanel No.5](https://open.spotify.com/album/4fSheJGSNnkHOR5psNKUWG) | 2:40 | 2024-06-21 | 2024-06-29 |
 | [Chase It \(Mmm Da Da Da\)](https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Chase It \(Mmm Da Da Da\)](https://open.spotify.com/album/7LWwnuLW7GNZ8qdw4yPKzN) | 2:34 | 2024-05-17 | 2024-05-25 |
 | [Cherry Blossom](https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Cherry Blossom](https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD) | 3:27 | 2024-06-21 | 2024-06-29 |
+| [Cherry Blossom](https://open.spotify.com/track/038KeNjAMACcJBQ7yadyis) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y) | [Cherry Blossom](https://open.spotify.com/album/1bgYm1WkoUiOaqDF41fcf3) | 3:11 | 2024-07-19 |  |
 | [Chicago](https://open.spotify.com/track/4PLoLTmD04MXXRQU9T8ar8) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Chicago](https://open.spotify.com/album/520IybGxG4OXfXwmoe2L9K) | 3:58 | 2024-07-19 |  |
 | [Choka](https://open.spotify.com/track/4CoZiQeDRaTMwZnhei5D0d) | [Mda](https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7), [Kabasaki](https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX) | [Choka](https://open.spotify.com/album/4T7yiJnwyoSIMhcvi0OXf5) | 2:25 | 2024-05-17 | 2024-05-25 |
 | [Choppin' Wood](https://open.spotify.com/track/5OTVObZ2UzZELTTmVRUMDU) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Choppin' Wood](https://open.spotify.com/album/7B9czl3PS4FsSFMcb0wGrs) | 3:32 | 2024-06-27 | 2024-07-13 |

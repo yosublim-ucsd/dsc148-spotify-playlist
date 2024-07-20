@@ -2,7 +2,7 @@
 
 ### [This Is Madonna](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3OV3gs)
 
-> This is Madonna\. The essential tracks, all in one playlist.
+> This is Madonna\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 71 songs - 5 hr 5 min
 
@@ -51,12 +51,12 @@
 | [Like a Prayer](https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:42 | 2023-07-28 |  |
 | [Like a Virgin](https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 3:38 | 2023-07-28 |  |
 | [Live to Tell](https://open.spotify.com/track/095MMFhB9qxPx2VsmvjnUs) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 5:51 | 2023-07-28 |  |
-| [Living For Love](https://open.spotify.com/track/5AMuHsWAaGAZHX4p1KZWwc) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb) | 3:38 | 2024-06-18 | 2024-07-19 |
+| [Living For Love](https://open.spotify.com/track/5AMuHsWAaGAZHX4p1KZWwc) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb) | 3:38 | 2024-06-18 |  |
 | [Love Profusion](https://open.spotify.com/track/5NDS6qHwbOmVqZgTvtC66y) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [American Life](https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW) | 3:36 | 2023-12-18 |  |
 | [Lucky Star](https://open.spotify.com/track/2hWI9GNr3kBrxZ7Mphho4Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 5:37 | 2023-07-28 |  |
 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 | 2023-07-28 |  |
 | [Me Against the Music \(feat\. Madonna\) \- LP Version / Video Mix](https://open.spotify.com/track/7mS8RbJji2UZAaguRGsOCH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:43 | 2023-07-28 |  |
-| [Medellín \(with Maluma\)](https://open.spotify.com/track/6mfu6jyFgvnXeTPQrYNs8d) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:58 | 2023-07-28 |  |
+| [Medellín \(with Maluma\)](https://open.spotify.com/track/6mfu6jyFgvnXeTPQrYNs8d) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:58 | 2023-07-28 | 2024-07-20 |
 | [Miles Away](https://open.spotify.com/track/5OWUKkLu9nesbbD0bLwcRL) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Hard Candy](https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu) | 4:48 | 2023-10-10 | 2023-11-11 |
 | [Music](https://open.spotify.com/track/2fzykVsO2Di5jnofUNX3YE) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu) | 3:45 | 2023-07-28 |  |
 | [Nothing Really Matters](https://open.spotify.com/track/6bZPQHvekmIFBZZB7nMB5X) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 4:27 | 2023-07-28 |  |

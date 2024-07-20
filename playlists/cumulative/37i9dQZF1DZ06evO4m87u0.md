@@ -2,7 +2,7 @@
 
 ### [This Is The Black Keys](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4m87u0)
 
-> This is The Black Keys\. Todos os maiores hits em uma só playlist.
+> This is The Black Keys\. The essential tracks, all in one playlist.
 
 106 songs - 6 hr 13 min
 
@@ -32,7 +32,7 @@
 | [Get Yourself Together](https://open.spotify.com/track/4AjBIRQNZDDVB0MrGlQHvB) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 3:56 | 2024-05-27 |  |
 | [Girl Is on My Mind](https://open.spotify.com/track/4KVYCdoWmDa4KS1OY6sgMa) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Rubber Factory](https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5) | 3:28 | 2022-01-11 | 2023-04-19 |
 | [Go](https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:26 | 2022-01-11 |  |
-| [Going Down South](https://open.spotify.com/track/3PeDt4Q8YIFDRph5UhxAaA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 3:48 | 2022-01-11 |  |
+| [Going Down South](https://open.spotify.com/track/3PeDt4Q8YIFDRph5UhxAaA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 3:48 | 2022-01-11 | 2024-07-20 |
 | [Gold on the Ceiling](https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:44 | 2022-01-11 |  |
 | [Good Love \(feat\. Billy F Gibbons\)](https://open.spotify.com/track/49Mvj8Ohz1uu0AcZ7Ri70Z) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:37 | 2022-05-14 |  |
 | [Gotta Get Away](https://open.spotify.com/track/0zo4T5c5VV42554ySEc5J6) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 3:00 | 2022-01-11 |  |
@@ -95,7 +95,7 @@
 | [The Breaks](https://open.spotify.com/track/2W1OhZFB3uGJ3FpU19BpvZ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Big Come Up](https://open.spotify.com/album/1xVlDcp3ZHntqgvhHYw1rp) | 3:01 | 2022-01-18 | 2023-05-16 |
 | [The Breaks](https://open.spotify.com/track/3pyTeNilPDFq10Ce60WROE) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Big Come Up](https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh) | 3:01 | 2023-05-25 |  |
 | [The Lengths](https://open.spotify.com/track/7nl6fbpRrLAED8KR2pUgTp) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Rubber Factory](https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5) | 4:54 | 2022-01-11 | 2022-10-07 |
-| [The Only One](https://open.spotify.com/track/65PE3GVXjkiQOTM7V7NbfY) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 5:00 | 2022-01-11 | 2024-07-01 |
+| [The Only One](https://open.spotify.com/track/65PE3GVXjkiQOTM7V7NbfY) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 5:00 | 2022-01-11 |  |
 | [Thickfreakness](https://open.spotify.com/track/4m6uJViB1sb3OXErHUkkWk) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Thickfreakness](https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa) | 3:48 | 2022-01-11 |  |
 | [This Is Nowhere](https://open.spotify.com/track/7aQx06Jx3iA9pRdixCUADJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 3:44 | 2024-04-21 |  |
 | [This Is Nowhere](https://open.spotify.com/track/7wFmJxJfGCN6DM5913y7pr) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [This Is Nowhere](https://open.spotify.com/album/1GrFd2S89YW8mQMop0Bu7S) | 3:44 | 2024-03-09 | 2024-04-21 |

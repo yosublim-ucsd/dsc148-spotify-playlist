@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0jdtXxGhcy0ycjSBMT5Qij">Jack Antonoff</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 526 likes - 308 songs - 19 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 530 likes - 308 songs - 19 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -245,8 +245,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 235 | […At The Holiday Party](https://open.spotify.com/track/5LvNPnYoZA1XCMgUGgAges) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 4:17 |
 | 236 | [Strange Behavior](https://open.spotify.com/track/6beGj0daOi7LDVSRm4bPFW) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Take the Sadness Out of Saturday Night](https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE) | 3:05 |
 | 237 | [Call Me After Midnight](https://open.spotify.com/track/68NQSQIz2WL18PjkbBu98A) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:15 |
-| 238 | [Better Love](https://open.spotify.com/track/5cU5tfaoD8lvzQDEwXAPog) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 3:43 |
-| 239 | [The Laughing Man](https://open.spotify.com/track/2eOVDsD7xN6EsPpsELY8XE) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:25 |
+| 238 | [The Laughing Man](https://open.spotify.com/track/2eOVDsD7xN6EsPpsELY8XE) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:25 |
+| 239 | [Better Love](https://open.spotify.com/track/5cU5tfaoD8lvzQDEwXAPog) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 3:43 |
 | 240 | [Spaghetti](https://open.spotify.com/track/3zW9Ta60tya4F8e3iVyIh9) | [Emblem3](https://open.spotify.com/artist/1md9aYaJ6Qt1FHypXICB5V) | [Nothing To Lose \(Deluxe Version\)](https://open.spotify.com/album/4rA1y7l62I627A69JFG1Vk) | 2:56 |
 | 241 | [Self Respect](https://open.spotify.com/track/2fx9HMH9RpJT5ryBO8Xgbd) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 4:14 |
 | 242 | [Isimo](https://open.spotify.com/track/3rNqa21S7XpJ5v1WjoAqee) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:23 |
@@ -278,8 +278,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 268 | [Children of the 90's \(I'm Not the Same\)](https://open.spotify.com/track/73Fe3k72zhwOTbsEkszkUR) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Steel Train](https://open.spotify.com/album/3XkTBYbtXxJ2HrII6sfgbI) | 3:04 |
 | 269 | [The Big Bad Turnpike Ghost](https://open.spotify.com/track/0F1Eb25noVD3ShQRvaKkui) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers \(Deluxe\)](https://open.spotify.com/album/6HdWNexk92vAHRQimnh4fF) | 2:33 |
 | 270 | [S.O.G Burning in Hell](https://open.spotify.com/track/5wGUCpPR83V3domc82zxyp) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Steel Train](https://open.spotify.com/album/3XkTBYbtXxJ2HrII6sfgbI) | 3:55 |
-| 271 | [Behavior](https://open.spotify.com/track/7MtmLhbyAUEEdGZltsNQoh) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Steel Train](https://open.spotify.com/album/3XkTBYbtXxJ2HrII6sfgbI) | 4:03 |
-| 272 | [Question Mark](https://open.spotify.com/track/4K6CPGFGKpeNHPeQTVt9r2) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers \(Deluxe\)](https://open.spotify.com/album/6HdWNexk92vAHRQimnh4fF) | 1:48 |
+| 271 | [Question Mark](https://open.spotify.com/track/4K6CPGFGKpeNHPeQTVt9r2) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers \(Deluxe\)](https://open.spotify.com/album/6HdWNexk92vAHRQimnh4fF) | 1:48 |
+| 272 | [Behavior](https://open.spotify.com/track/7MtmLhbyAUEEdGZltsNQoh) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Steel Train](https://open.spotify.com/album/3XkTBYbtXxJ2HrII6sfgbI) | 4:03 |
 | 273 | [Drug Free America](https://open.spotify.com/track/1uvWlTia327I7W3FUoNg4W) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers \(Deluxe\)](https://open.spotify.com/album/6HdWNexk92vAHRQimnh4fF) | 4:44 |
 | 274 | [Blue \- Instrumental](https://open.spotify.com/track/04W2ZU3s3Fvl5ihohRWcH8) | [Piano Dreamers](https://open.spotify.com/artist/4oRyLnxDdIzd2POQfX9Drd) | [Piano Dreamers Cover BIGBANG \(Instrumental\)](https://open.spotify.com/album/6Tk4xczw3ECsC1UrgjnlbC) | 3:33 |
 | 275 | [Dakota](https://open.spotify.com/track/4gqxRKKKIFqB95jo5VLG8y) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Trampoline](https://open.spotify.com/album/1MuWxqgf3WC2Qr7F4uU47z) | 3:55 |
@@ -317,4 +317,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 307 | [W.95th Street High](https://open.spotify.com/track/6D4wRSYyOHfJkYs2VelrbW) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 4:21 |
 | 308 | [I Will Stay Here](https://open.spotify.com/track/0Je3AfZFiRde3KcvZYlCS0) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 5:46 |
 
-Snapshot ID: `AbXFCAAAAABxxXT80r0Cy4Xcg+7MCw1m`
+Snapshot ID: `AbXJAgAAAACOmvYv+ZX7mXFnDebIDJDo`

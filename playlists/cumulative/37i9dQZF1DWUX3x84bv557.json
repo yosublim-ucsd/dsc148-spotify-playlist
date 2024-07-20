@@ -3330,7 +3330,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 146400,
       "name": "Eindeloos",
       "url": "https://open.spotify.com/track/1dwbLPTQKBtIQH2jpfurVv"
@@ -4577,6 +4577,24 @@
     },
     {
       "album": {
+        "name": "Hey Meisje",
+        "url": "https://open.spotify.com/album/2PkAy4laxTKnjK7a64azhH"
+      },
+      "artists": [
+        {
+          "name": "DAVE",
+          "url": "https://open.spotify.com/artist/1b8Wn3xSquDw84o7yJI6Jk"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144905,
+      "name": "Hey Meisje",
+      "url": "https://open.spotify.com/track/7AEnKG9gLYld6PXvdhEgMN"
+    },
+    {
+      "album": {
         "name": "Hier",
         "url": "https://open.spotify.com/album/2uQth6Suifi8qSBIUdJIPJ"
       },
@@ -4914,7 +4932,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 151149,
       "name": "Hou Me Vast",
       "url": "https://open.spotify.com/track/1lpHDQdfTxoljwnMLTadLl"
@@ -5897,6 +5915,24 @@
     },
     {
       "album": {
+        "name": "Kom Met Me Dansen",
+        "url": "https://open.spotify.com/album/6kCO8tjI1Tzs9jWH9v66e3"
+      },
+      "artists": [
+        {
+          "name": "Krystl",
+          "url": "https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240249,
+      "name": "Kom Met Me Dansen",
+      "url": "https://open.spotify.com/track/3F6BHPhUkM5jKzpzJAxw90"
+    },
+    {
+      "album": {
         "name": "Kompas",
         "url": "https://open.spotify.com/album/7hICsdZV6OfJa32dQdcBDS"
       },
@@ -6497,6 +6533,24 @@
     },
     {
       "album": {
+        "name": "Lilly",
+        "url": "https://open.spotify.com/album/5pp73yx8ED4pbIzqBvU1P6"
+      },
+      "artists": [
+        {
+          "name": "Maan",
+          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232405,
+      "name": "Lilly",
+      "url": "https://open.spotify.com/track/6uFq5oi9RDxLrQOBptKzeh"
+    },
+    {
+      "album": {
         "name": "Loafers van Puppyleer Deluxe EP",
         "url": "https://open.spotify.com/album/34VnmQ8FMDKT23bn2JLV7O"
       },
@@ -6526,7 +6580,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 151143,
       "name": "Loop me iets tegemoet",
       "url": "https://open.spotify.com/track/1beyJVORcXULB0XNLnfeRW"
@@ -8005,6 +8059,24 @@
     },
     {
       "album": {
+        "name": "Omhoog",
+        "url": "https://open.spotify.com/album/518wPXNPF0xHjX5TdgCQGm"
+      },
+      "artists": [
+        {
+          "name": "Diggy Dex",
+          "url": "https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168601,
+      "name": "Omhoog",
+      "url": "https://open.spotify.com/track/2UklSNaVRkMInzUTOEkmsM"
+    },
+    {
+      "album": {
         "name": "Onbegrepen",
         "url": "https://open.spotify.com/album/0WNtBZDPbvqQue2UyLoTrL"
       },
@@ -8804,7 +8876,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 136291,
       "name": "Ruwe Diamant",
       "url": "https://open.spotify.com/track/3Q0XoPBcs6NxI15FQBwtyI"

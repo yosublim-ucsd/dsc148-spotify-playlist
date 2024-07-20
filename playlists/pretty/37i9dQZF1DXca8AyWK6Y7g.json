@@ -1,6 +1,6 @@
 {
   "description": "your new favorite girl group just dropped \ud83d\udcf8 Blusher",
-  "num_followers": 1515976,
+  "num_followers": 1516735,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
@@ -931,18 +931,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Love Me Not",
-        "url": "https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh"
+        "name": "Didn't I",
+        "url": "https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC"
       },
       "artists": [
         {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
         }
       ],
-      "duration_ms": 140355,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL"
+      "duration_ms": 170629,
+      "name": "Didn't I",
+      "url": "https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Love Me Not",
+        "url": "https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 140355,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Didn't I",
-        "url": "https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 170629,
-      "name": "Didn't I",
-      "url": "https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 179757,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Love Me Not / Love Is Blind",
         "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
       },
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "FU In My Head",
-        "url": "https://open.spotify.com/album/02FPQ0z3Xm5PkzTulKcfKT"
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
       },
       "artists": [
         {
-          "name": "Cloudy June",
-          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 167248,
-      "name": "FU In My Head",
-      "url": "https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP"
+      "duration_ms": 179757,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1107,6 +1091,22 @@
       "duration_ms": 158360,
       "name": "What If I Love You",
       "url": "https://open.spotify.com/track/4i4WsUvJEgB4V6AyONAJe8"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "FU In My Head",
+        "url": "https://open.spotify.com/album/02FPQ0z3Xm5PkzTulKcfKT"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "duration_ms": 167248,
+      "name": "FU In My Head",
+      "url": "https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Drain Me!",
-        "url": "https://open.spotify.com/album/7z8DgBZJe1rvHMA5H2EUbW"
+        "name": "Good Bi",
+        "url": "https://open.spotify.com/album/1yKKiQfzbNXeZi2cowSkPo"
       },
       "artists": [
         {
-          "name": "Towa Bird",
-          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+          "name": "Beth McCarthy",
+          "url": "https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2"
         }
       ],
-      "duration_ms": 121533,
-      "name": "Drain Me!",
-      "url": "https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL"
+      "duration_ms": 194005,
+      "name": "Good Bi",
+      "url": "https://open.spotify.com/track/7eCK4VleezcD6KZNE0Adgk"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Good Bi",
-        "url": "https://open.spotify.com/album/1yKKiQfzbNXeZi2cowSkPo"
+        "name": "Drain Me!",
+        "url": "https://open.spotify.com/album/7z8DgBZJe1rvHMA5H2EUbW"
       },
       "artists": [
         {
-          "name": "Beth McCarthy",
-          "url": "https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2"
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
         }
       ],
-      "duration_ms": 194005,
-      "name": "Good Bi",
-      "url": "https://open.spotify.com/track/7eCK4VleezcD6KZNE0Adgk"
+      "duration_ms": 121533,
+      "name": "Drain Me!",
+      "url": "https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1399,6 +1399,22 @@
       "duration_ms": 149108,
       "name": "Home To Another One",
       "url": "https://open.spotify.com/track/7culXP38P58h83PXwLQqyg"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Crazy Woman",
+        "url": "https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "duration_ms": 168517,
+      "name": "Crazy Woman",
+      "url": "https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1431,22 +1447,6 @@
       "duration_ms": 190942,
       "name": "Cursed Romantics",
       "url": "https://open.spotify.com/track/5492WJL5APlDdZFOjn0PxK"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Crazy Woman",
-        "url": "https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v"
-      },
-      "artists": [
-        {
-          "name": "Cloudy June",
-          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
-        }
-      ],
-      "duration_ms": 168517,
-      "name": "Crazy Woman",
-      "url": "https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1499,18 +1499,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "I Sent My Therapist To Therapy",
-        "url": "https://open.spotify.com/album/23nGL24RjKEvIEbiY2DVob"
+        "name": "NICE TO MEET YA (feat. Flyana Boss)",
+        "url": "https://open.spotify.com/album/7xWp3QwYJ2myisipllWCVa"
       },
       "artists": [
         {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        },
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
         }
       ],
-      "duration_ms": 180923,
-      "name": "I Sent My Therapist To Therapy",
-      "url": "https://open.spotify.com/track/6ofVkSSWsDcnzRCNwrvpXB"
+      "duration_ms": 183785,
+      "name": "NICE TO MEET YA (feat. Flyana Boss)",
+      "url": "https://open.spotify.com/track/0Tv1YRY8Lm8OFcn6dJCF0e"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1543,6 +1547,22 @@
       "duration_ms": 279272,
       "name": "Love Over Glory",
       "url": "https://open.spotify.com/track/0FQroAJHjN85mvXb9Wu56D"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "I Sent My Therapist To Therapy",
+        "url": "https://open.spotify.com/album/23nGL24RjKEvIEbiY2DVob"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "I Sent My Therapist To Therapy",
+      "url": "https://open.spotify.com/track/6ofVkSSWsDcnzRCNwrvpXB"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1595,26 +1615,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "NICE TO MEET YA (feat. Flyana Boss)",
-        "url": "https://open.spotify.com/album/7xWp3QwYJ2myisipllWCVa"
-      },
-      "artists": [
-        {
-          "name": "INJI",
-          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
-        },
-        {
-          "name": "Flyana Boss",
-          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
-        }
-      ],
-      "duration_ms": 183785,
-      "name": "NICE TO MEET YA (feat. Flyana Boss)",
-      "url": "https://open.spotify.com/track/0Tv1YRY8Lm8OFcn6dJCF0e"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Good Things",
         "url": "https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0"
       },
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Scatterbrain (Deluxe)",
+        "url": "https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 142307,
+      "name": "Agree to Disagree",
+      "url": "https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Doing Better",
         "url": "https://open.spotify.com/album/64WbXlIjvrqkf5AI019x0L"
       },
@@ -1695,22 +1711,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Scatterbrain (Deluxe)",
-        "url": "https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 142307,
-      "name": "Agree to Disagree",
-      "url": "https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "The Good Witch",
         "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
       },
@@ -1723,22 +1723,6 @@
       "duration_ms": 160266,
       "name": "Coming Of Age",
       "url": "https://open.spotify.com/track/6DdBrebXDXdTkN0Zb64O6p"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Small Town Scandal",
-        "url": "https://open.spotify.com/album/1KQBTxsa7BMd72SSO4Dj6s"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 210893,
-      "name": "Small Town Scandal",
-      "url": "https://open.spotify.com/track/56yiEEYcSMw27ujiSyVzCS"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1771,6 +1755,22 @@
       "duration_ms": 174500,
       "name": "newbury park",
       "url": "https://open.spotify.com/track/4ZeMEs9lhf7s83QHeqR432"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Small Town Scandal",
+        "url": "https://open.spotify.com/album/1KQBTxsa7BMd72SSO4Dj6s"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 210893,
+      "name": "Small Town Scandal",
+      "url": "https://open.spotify.com/track/56yiEEYcSMw27ujiSyVzCS"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/34Jxyb8jukqq6wA97vgjxa"
+      },
+      "artists": [
+        {
+          "name": "Kevian Kraemer",
+          "url": "https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a"
+        }
+      ],
+      "duration_ms": 161976,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/5v6jNYWPDdH6lpL3dmn9Y2"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Maybe Life Is Good",
         "url": "https://open.spotify.com/album/3JrelA49G1d8BdKIaJ64YO"
       },
@@ -1947,18 +1963,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "First Time",
-        "url": "https://open.spotify.com/album/2trAIH3JyP0Kas8Ke7H2q6"
+        "name": "lover boy",
+        "url": "https://open.spotify.com/album/2KvPFsQl591kXKkhhEtnMe"
       },
       "artists": [
         {
-          "name": "NERIAH",
-          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+          "name": "Haiden Henderson",
+          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
         }
       ],
-      "duration_ms": 153600,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/3gZ8s2w5v9jmjRkwYFRKxg"
+      "duration_ms": 185800,
+      "name": "one before the one",
+      "url": "https://open.spotify.com/track/0IveFmA4WZfTIhp6uoANDO"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1979,6 +1995,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "First Time",
+        "url": "https://open.spotify.com/album/2trAIH3JyP0Kas8Ke7H2q6"
+      },
+      "artists": [
+        {
+          "name": "NERIAH",
+          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/3gZ8s2w5v9jmjRkwYFRKxg"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "tired of california",
         "url": "https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q"
       },
@@ -1991,22 +2023,6 @@
       "duration_ms": 190800,
       "name": "tired of california",
       "url": "https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "lover boy",
-        "url": "https://open.spotify.com/album/2KvPFsQl591kXKkhhEtnMe"
-      },
-      "artists": [
-        {
-          "name": "Haiden Henderson",
-          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "one before the one",
-      "url": "https://open.spotify.com/track/0IveFmA4WZfTIhp6uoANDO"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2075,18 +2091,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Seventeen",
-        "url": "https://open.spotify.com/album/34Jxyb8jukqq6wA97vgjxa"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/7o6p1Siw6MlP1lsPS6uucX"
       },
       "artists": [
         {
-          "name": "Kevian Kraemer",
-          "url": "https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a"
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
         }
       ],
-      "duration_ms": 161976,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/5v6jNYWPDdH6lpL3dmn9Y2"
+      "duration_ms": 191840,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/0w78hawHvWANKTeFe8Vouv"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2107,18 +2123,34 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "GIRLFRIEND",
-        "url": "https://open.spotify.com/album/6G4udJxDgLFrXnsNm8hSs5"
+        "name": "CHAOS",
+        "url": "https://open.spotify.com/album/3d8LJWKSVm60Cuhkf93d8M"
       },
       "artists": [
         {
-          "name": "Maxwell Luke",
-          "url": "https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX"
+          "name": "BL\u00dc EYES",
+          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
         }
       ],
-      "duration_ms": 204481,
-      "name": "GIRLFRIEND",
-      "url": "https://open.spotify.com/track/4fVa3oskSSMCsKyvlAGMPv"
+      "duration_ms": 186032,
+      "name": "CHAOS",
+      "url": "https://open.spotify.com/track/3WnjtYCqeN2x91Djj4IQSZ"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Crystal Ball",
+        "url": "https://open.spotify.com/album/19smqXXtyEGibAtZX7clTy"
+      },
+      "artists": [
+        {
+          "name": "Wafia",
+          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
+        }
+      ],
+      "duration_ms": 173644,
+      "name": "Crystal Ball",
+      "url": "https://open.spotify.com/track/5nr1Ndcw55fBJ002iTUJVJ"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2139,6 +2171,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "GIRLFRIEND",
+        "url": "https://open.spotify.com/album/6G4udJxDgLFrXnsNm8hSs5"
+      },
+      "artists": [
+        {
+          "name": "Maxwell Luke",
+          "url": "https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX"
+        }
+      ],
+      "duration_ms": 204481,
+      "name": "GIRLFRIEND",
+      "url": "https://open.spotify.com/track/4fVa3oskSSMCsKyvlAGMPv"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "little miss misogyny",
         "url": "https://open.spotify.com/album/1NZCWSVnjkbrWpCK8YgkbS"
       },
@@ -2155,22 +2203,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/7o6p1Siw6MlP1lsPS6uucX"
-      },
-      "artists": [
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        }
-      ],
-      "duration_ms": 191840,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/0w78hawHvWANKTeFe8Vouv"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "is it my face?",
         "url": "https://open.spotify.com/album/0j5i3HJlYDuhce85GFYBQN"
       },
@@ -2183,22 +2215,6 @@
       "duration_ms": 144216,
       "name": "is it my face?",
       "url": "https://open.spotify.com/track/17PatSYk0lOvw1jc1pXOci"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "CHAOS",
-        "url": "https://open.spotify.com/album/3d8LJWKSVm60Cuhkf93d8M"
-      },
-      "artists": [
-        {
-          "name": "BL\u00dc EYES",
-          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
-        }
-      ],
-      "duration_ms": 186032,
-      "name": "CHAOS",
-      "url": "https://open.spotify.com/track/3WnjtYCqeN2x91Djj4IQSZ"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2251,6 +2267,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Whole Damn Summer",
+        "url": "https://open.spotify.com/album/6pbrBaGrAjelkXqXUOvFUf"
+      },
+      "artists": [
+        {
+          "name": "Kiana",
+          "url": "https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g"
+        }
+      ],
+      "duration_ms": 162985,
+      "name": "Whole Damn Summer",
+      "url": "https://open.spotify.com/track/3ArB9nvOdiTAYyfgjEojrg"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "closer (feat. salem ilese)",
         "url": "https://open.spotify.com/album/0uw76tQa9eYOLkJhtqYcwD"
       },
@@ -2267,38 +2299,6 @@
       "duration_ms": 174581,
       "name": "closer (feat. salem ilese)",
       "url": "https://open.spotify.com/track/0woZCazDDjtcbfbb1ouPnM"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Crystal Ball",
-        "url": "https://open.spotify.com/album/19smqXXtyEGibAtZX7clTy"
-      },
-      "artists": [
-        {
-          "name": "Wafia",
-          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
-        }
-      ],
-      "duration_ms": 173644,
-      "name": "Crystal Ball",
-      "url": "https://open.spotify.com/track/5nr1Ndcw55fBJ002iTUJVJ"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Whole Damn Summer",
-        "url": "https://open.spotify.com/album/6pbrBaGrAjelkXqXUOvFUf"
-      },
-      "artists": [
-        {
-          "name": "Kiana",
-          "url": "https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g"
-        }
-      ],
-      "duration_ms": 162985,
-      "name": "Whole Damn Summer",
-      "url": "https://open.spotify.com/track/3ArB9nvOdiTAYyfgjEojrg"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2431,18 +2431,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Figure You Out",
-        "url": "https://open.spotify.com/album/0Qyf9iXdQCMuzWj2yxZKGZ"
+        "name": "KANSAS",
+        "url": "https://open.spotify.com/album/2FP92TJw2nTs1FsPFHXQC6"
       },
       "artists": [
         {
-          "name": "Frawley",
-          "url": "https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh"
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
         }
       ],
-      "duration_ms": 209398,
-      "name": "Figure You Out",
-      "url": "https://open.spotify.com/track/2yv7z2i0N0ItdmOHgxTPtW"
+      "duration_ms": 181266,
+      "name": "KANSAS",
+      "url": "https://open.spotify.com/track/0MTTVpvGuNHEZMFU5UQ2y6"
     }
   ],
   "unique_name": "young & free",

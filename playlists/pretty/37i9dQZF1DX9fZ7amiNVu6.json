@@ -1,6 +1,6 @@
 {
   "description": "Kick back and enjoy these classic summer songs.",
-  "num_followers": 434653,
+  "num_followers": 435048,
   "original_name": "Feel Good Summer",
   "owner": {
     "name": "Spotify",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "Move on Up",
-        "url": "https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 165789,
-      "name": "Move on Up - Single Edit",
-      "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
         "name": "Sherry and 11 Other Hits",
         "url": "https://open.spotify.com/album/18rFAAWrT2wzvWckYmoLnE"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 152160,
       "name": "Sherry",
       "url": "https://open.spotify.com/track/7sqK6f8dHVx3Q1GjFrVyGl"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
+        "name": "Move on Up",
+        "url": "https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 165789,
+      "name": "Move on Up - Single Edit",
+      "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "It's Our Thing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 169293,
-      "name": "It's Your Thing",
-      "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
         "name": "The Age Of Aquarius",
         "url": "https://open.spotify.com/album/1kVipwgtVNAaHM7Py341Ch"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "Signed, Sealed And Delivered",
-        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
+        "name": "It's Our Thing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 161160,
-      "name": "Signed, Sealed, Delivered (I'm Yours)",
-      "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
+      "duration_ms": 169293,
+      "name": "It's Your Thing",
+      "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -1423,6 +1407,22 @@
       "duration_ms": 153506,
       "name": "I'm Into Something Good",
       "url": "https://open.spotify.com/track/3z6m2FukK7Vd5xYrjOLDLR"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
+        "name": "Signed, Sealed And Delivered",
+        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 161160,
+      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
     },
     {
       "added_at": "2024-07-14 16:19:42",

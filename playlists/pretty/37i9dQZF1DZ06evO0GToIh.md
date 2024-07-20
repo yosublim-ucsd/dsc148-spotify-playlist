@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 
 ### [This Is Eden Muñoz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0GToIh)
 
-> This is Eden Muñoz\. The essential tracks, all in one playlist.
+> This Is Eden Muñoz\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,096 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,212 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 29 | [NEPTUNO](https://open.spotify.com/track/6oo5gvZqYmTxivDGELT8s6) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [NEPTUNO](https://open.spotify.com/album/6vQLZiZwK4XctII0RdWhqg) | 2:41 |
 | 30 | [Que la Dejen Ir al Baile Sola](https://open.spotify.com/track/5QBiktcoDAKR4pK5yRmCRe) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:35 |
 | 31 | [Provocame \- En Vivo](https://open.spotify.com/track/6ORL6XCAtzCMBl9AFQGKe7) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Historia Debe Continuar \(TOUR EN VIVO\) \[En Vivo\]](https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek) | 3:09 |
-| 32 | [Oficialmente en Soltería](https://open.spotify.com/track/58P1q91WOAkofRlCEA0IHX) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 2:02 |
-| 33 | [LMV](https://open.spotify.com/track/23U6cwNZHA0Zf8F1cVSA8F) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:30 |
+| 32 | [LMV](https://open.spotify.com/track/23U6cwNZHA0Zf8F1cVSA8F) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:30 |
+| 33 | [Oficialmente en Soltería](https://open.spotify.com/track/58P1q91WOAkofRlCEA0IHX) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 2:02 |
 | 34 | [Vuela Tú](https://open.spotify.com/track/6D6Xbp26jVuVdrebUAoRVY) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Vuela Tú](https://open.spotify.com/album/6HNlpNS9D207IT2vMafv4V) | 2:35 |
 | 35 | [Sangoloteadito \- En Vivo](https://open.spotify.com/track/1YccRG4LRtwmfQApetIieU) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Historia Debe Continuar \(TOUR EN VIVO\) \[En Vivo\]](https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek) | 4:14 |
 | 36 | [Te Vale Madre](https://open.spotify.com/track/4KSBQ8YMajJPd7ParPBlV6) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Vale Madre](https://open.spotify.com/album/025e1NdAZgqFznEwS9Amvm) | 2:31 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 44 | [Simplemente Amigos](https://open.spotify.com/track/56NULn2XHpZwU2YJQ6OAbm) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Historia Debe Continuar \(TOUR EN VIVO\) \[En Vivo\]](https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek) | 3:24 |
 | 45 | [¿Cómo Se Supera?](https://open.spotify.com/track/3YVgqw3Qw5GZGSiNXw7sd5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [¿Cómo Se Supera?](https://open.spotify.com/album/2y7fMhpx5uexdebjJEuNzF) | 3:23 |
 | 46 | [Me Rendí](https://open.spotify.com/track/4SdLUkVGNUm2gNF7YQdhY1) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Me Rendí](https://open.spotify.com/album/6hVo9wZ2AAyh9nDnzU86E6) | 3:40 |
-| 47 | [Aunque No Te Pueda Ver](https://open.spotify.com/track/3qEu6ceZPMkqMTHKa0Yrn3) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Aunque No Te Pueda Ver](https://open.spotify.com/album/60xzc8h8XAC2efuvdN0Ey0) | 2:48 |
+| 47 | [El Del Trigo](https://open.spotify.com/track/0AVtMI07ElJJxViPO2Dg92) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Cheko Mg](https://open.spotify.com/artist/6gSAzGq3CloVM0kyt8uOKA) | [El Del Trigo](https://open.spotify.com/album/0Xf6CfmEEadTIyqmxWLImy) | 2:58 |
 | 48 | [Soy De La Calle \- En Vivo](https://open.spotify.com/track/6ghL4oDMZxwNhZUed6L1Ug) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Historia Debe Continuar \(TOUR EN VIVO\) \[En Vivo\]](https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek) | 4:04 |
-| 49 | [El Del Trigo](https://open.spotify.com/track/0AVtMI07ElJJxViPO2Dg92) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Cheko Mg](https://open.spotify.com/artist/6gSAzGq3CloVM0kyt8uOKA) | [El Del Trigo](https://open.spotify.com/album/0Xf6CfmEEadTIyqmxWLImy) | 2:58 |
+| 49 | [Aunque No Te Pueda Ver](https://open.spotify.com/track/3qEu6ceZPMkqMTHKa0Yrn3) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Aunque No Te Pueda Ver](https://open.spotify.com/album/60xzc8h8XAC2efuvdN0Ey0) | 2:48 |
 | 50 | [Vas a Destrozarme \- Versión Eden Muñoz](https://open.spotify.com/track/7IwfGFVmoBYKODOqGqKN3r) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Vas a Destrozarme \(Versión Eden Muñoz\)](https://open.spotify.com/album/1Beic6eSv6o8vl2UxU0WZo) | 2:57 |
 
-Snapshot ID: `ZpcJgAAAAABD9ubK2fxIg/Mflh49f+77`
+Snapshot ID: `ZphbAAAAAADJ6FZsgfTnSQ3jJiLWqkNe`

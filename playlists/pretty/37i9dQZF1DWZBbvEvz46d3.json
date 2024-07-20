@@ -1,6 +1,6 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 67102,
+  "num_followers": 67116,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-07-05 15:39:09",
       "album": {
-        "name": "Comfort and Happiness",
-        "url": "https://open.spotify.com/album/3Ku50CLulJHPS5DTKRNyaM"
-      },
-      "artists": [
-        {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
-        }
-      ],
-      "duration_ms": 243066,
-      "name": "Tr\u00f3jk\u0105ty i Kwadraty",
-      "url": "https://open.spotify.com/track/3v0fVON6z5CnRlle3SJZU1"
-    },
-    {
-      "added_at": "2024-07-05 15:39:09",
-      "album": {
         "name": "Pi\u0142a tango",
         "url": "https://open.spotify.com/album/1TkJO8CCaeMHvEU4ybrmgx"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 201733,
       "name": "Dzie\u0144 dobry, kocham Ci\u0119",
       "url": "https://open.spotify.com/track/6FBPQuYFZIne5cpTASUOGR"
+    },
+    {
+      "added_at": "2024-07-05 15:39:09",
+      "album": {
+        "name": "Comfort and Happiness",
+        "url": "https://open.spotify.com/album/3Ku50CLulJHPS5DTKRNyaM"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "duration_ms": 243066,
+      "name": "Tr\u00f3jk\u0105ty i Kwadraty",
+      "url": "https://open.spotify.com/track/3v0fVON6z5CnRlle3SJZU1"
     },
     {
       "added_at": "2024-07-05 15:39:09",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-07-05 15:39:09",
       "album": {
-        "name": "Kr\u00f3lowa dram",
-        "url": "https://open.spotify.com/album/57y8HhpAZJ7SkeetSXvTya"
-      },
-      "artists": [
-        {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
-        }
-      ],
-      "duration_ms": 183339,
-      "name": "Melodia",
-      "url": "https://open.spotify.com/track/3xlk3SVStmEGEWx5FtqpkW"
-    },
-    {
-      "added_at": "2024-07-05 15:39:09",
-      "album": {
         "name": "Ma\u0142omiasteczkowy",
         "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 229666,
       "name": "Najnowszy Klip",
       "url": "https://open.spotify.com/track/35UvOH0tRlSCdtWtaXuiWh"
+    },
+    {
+      "added_at": "2024-07-05 15:39:09",
+      "album": {
+        "name": "Kr\u00f3lowa dram",
+        "url": "https://open.spotify.com/album/57y8HhpAZJ7SkeetSXvTya"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        }
+      ],
+      "duration_ms": 183339,
+      "name": "Melodia",
+      "url": "https://open.spotify.com/track/3xlk3SVStmEGEWx5FtqpkW"
     },
     {
       "added_at": "2024-07-05 15:39:09",

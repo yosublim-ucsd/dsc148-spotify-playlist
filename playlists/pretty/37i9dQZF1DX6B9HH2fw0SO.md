@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 
 > 2015 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,449 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,479 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 7 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 |
 | 8 | [Space Song](https://open.spotify.com/track/1ZgMsA55GIY7ICkQh5MILA) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv) | 5:20 |
 | 9 | [Trouble](https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 3:45 |
-| 10 | [Wish I Knew You](https://open.spotify.com/track/2EWpa5XnAuSn0sIkSSIhYk) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Men Amongst Mountains](https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn) | 4:34 |
-| 11 | [This Is Home](https://open.spotify.com/track/7s8VgA8OjvwBUuigKzEGBx) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [This Is Home](https://open.spotify.com/album/0eB1tOktFK5AtA9YBYSXRu) | 3:46 |
+| 10 | [This Is Home](https://open.spotify.com/track/7s8VgA8OjvwBUuigKzEGBx) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [This Is Home](https://open.spotify.com/album/0eB1tOktFK5AtA9YBYSXRu) | 3:46 |
+| 11 | [Wish I Knew You](https://open.spotify.com/track/2EWpa5XnAuSn0sIkSSIhYk) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Men Amongst Mountains](https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn) | 4:34 |
 | 12 | [Past Lives](https://open.spotify.com/track/1Dr5JexwA15wmKe7Y7maA9) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 4:34 |
 | 13 | [High By The Beach](https://open.spotify.com/track/7g3htkaLz4ETFn0cifwM3y) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:17 |
 | 14 | [Keep on Loving You](https://open.spotify.com/track/5VYBergVrUDcb8QyEg70cF) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Affection](https://open.spotify.com/album/4zBZX3bPIQkJMY0CaTGFKh) | 3:53 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 67 | [Need You Now](https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Why Make Sense? \(Definitive Version\)](https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4) | 4:45 |
 | 68 | [Can't Deny My Love](https://open.spotify.com/track/52wkxz0pUQVw7LhrtJ9pWE) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [The Desired Effect](https://open.spotify.com/album/0yCqicy5tGkPiB6gUZCRy4) | 3:42 |
 | 69 | [Stockholm](https://open.spotify.com/track/7tKnaB8gsXxyPScxEwzQ9N) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [Inanimate Objects](https://open.spotify.com/album/3jQxdLlKciB0WQncSVhM39) | 3:11 |
-| 70 | [This Feeling](https://open.spotify.com/track/6NyJTEbcYMoq00ANbH0bvC) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/7ENKsNwViH6KjudEvVdMz1) | 4:28 |
-| 71 | [Give Me a Try](https://open.spotify.com/track/7ayoL7WrBQP3ccJqELQXFK) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Glitterbug](https://open.spotify.com/album/5eMwZy5R5qZB3v3lBumnFZ) | 3:48 |
+| 70 | [Give Me a Try](https://open.spotify.com/track/7ayoL7WrBQP3ccJqELQXFK) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Glitterbug](https://open.spotify.com/album/5eMwZy5R5qZB3v3lBumnFZ) | 3:48 |
+| 71 | [This Feeling](https://open.spotify.com/track/6NyJTEbcYMoq00ANbH0bvC) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/7ENKsNwViH6KjudEvVdMz1) | 4:28 |
 | 72 | [Walk Away](https://open.spotify.com/track/79XlfHDVYTMeqb2UR3ojEA) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Make Out](https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh) | 3:51 |
 | 73 | [Huarache Lights](https://open.spotify.com/track/24OUTJgZif1CA1nemnDgXn) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Why Make Sense? \(Definitive Version\)](https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4) | 5:29 |
 | 74 | [Hurt Me](https://open.spotify.com/track/7fApw5FcXz2wAEMaIwT52E) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Long Way Home](https://open.spotify.com/album/5h5HjSBjZ2dAuGxGL6L2EB) | 3:51 |
@@ -86,15 +86,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 76 | [Clearest Blue](https://open.spotify.com/track/4eA2kYa441m4U4oopsuBBG) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Every Open Eye](https://open.spotify.com/album/7IuEdviBeNzrMUE0InVimK) | 3:53 |
 | 77 | [Temporary Love](https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W) | [The Brinks](https://open.spotify.com/artist/4fLpQdr6R7gqNGY7xpr7Jz) | [Temporary Love](https://open.spotify.com/album/1cRv0odNNvTSxVnNFmeusc) | 3:25 |
 | 78 | [101](https://open.spotify.com/track/3HYXqOAm2Q8b2OyYqzv8d4) | [WALLA](https://open.spotify.com/artist/1lhtpwswW0liqyOU52EP0E) | [101](https://open.spotify.com/album/2JJJHPnEkjM2quRLB0vnYl) | 3:23 |
-| 79 | [Sound & Color](https://open.spotify.com/track/3zWgFhqjlGiM7p1ECrxclH) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/7ENKsNwViH6KjudEvVdMz1) | 3:02 |
-| 80 | [To Die in L.A.](https://open.spotify.com/track/0sujwD2rDemdq6lBUvlB6j) | [Lower Dens](https://open.spotify.com/artist/5uTJLo3c4ZHpH8oEwGxYUN) | [Escape From Evil](https://open.spotify.com/album/3lzj0ftwAZ9XFp3qFs2lMN) | 4:11 |
+| 79 | [To Die in L.A.](https://open.spotify.com/track/0sujwD2rDemdq6lBUvlB6j) | [Lower Dens](https://open.spotify.com/artist/5uTJLo3c4ZHpH8oEwGxYUN) | [Escape From Evil](https://open.spotify.com/album/3lzj0ftwAZ9XFp3qFs2lMN) | 4:11 |
+| 80 | [Sound & Color](https://open.spotify.com/track/3zWgFhqjlGiM7p1ECrxclH) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/7ENKsNwViH6KjudEvVdMz1) | 3:02 |
 | 81 | [ILYSB](https://open.spotify.com/track/3BwR5psKNxcyqWoc80eOuq) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Make Out](https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh) | 3:31 |
 | 82 | [Gone](https://open.spotify.com/track/4MocmzKdJQqrhInoE7Tnc5) | [JR JR](https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv) | [JR JR](https://open.spotify.com/album/6vCkb4Lm1IyVz7TZHoq5SK) | 3:47 |
 | 83 | [Feel You](https://open.spotify.com/track/6JGZmmiaL64s1AmhEOVvCr) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Have You In My Wilderness](https://open.spotify.com/album/0EiGGBzF9wzJn2X8F0Yvjh) | 4:08 |
 | 84 | [Feeling Ok](https://open.spotify.com/track/0hgsUnkawqDllP4OF4g9MN) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [California Nights](https://open.spotify.com/album/1JIhBE54vvyvz6yqqKKJ1A) | 3:16 |
-| 85 | [Don't Wanna Fight](https://open.spotify.com/track/1yMeXd08op7WK8UN07QZQ9) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/7ENKsNwViH6KjudEvVdMz1) | 3:52 |
-| 86 | [Leave A Trace](https://open.spotify.com/track/37N1YBZEiOyXK4R9h23RW4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Every Open Eye](https://open.spotify.com/album/7IuEdviBeNzrMUE0InVimK) | 3:57 |
-| 87 | [Cut Your Bangs](https://open.spotify.com/track/1iDPPa3RRyhzrFS3lG1ZDo) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Chinatown](https://open.spotify.com/album/6TIZy5ya11Hl7Q5eN4F8xR) | 2:52 |
+| 85 | [Cut Your Bangs](https://open.spotify.com/track/1iDPPa3RRyhzrFS3lG1ZDo) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Chinatown](https://open.spotify.com/album/6TIZy5ya11Hl7Q5eN4F8xR) | 2:52 |
+| 86 | [Don't Wanna Fight](https://open.spotify.com/track/1yMeXd08op7WK8UN07QZQ9) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/7ENKsNwViH6KjudEvVdMz1) | 3:52 |
+| 87 | [Leave A Trace](https://open.spotify.com/track/37N1YBZEiOyXK4R9h23RW4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Every Open Eye](https://open.spotify.com/album/7IuEdviBeNzrMUE0InVimK) | 3:57 |
 | 88 | [Annie](https://open.spotify.com/track/0Zx00us8q9tVSYPIkOQABO) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Vega Intl\. Night School](https://open.spotify.com/album/21Sdg4ERIWBu9zR1Jd8TWU) | 4:02 |
 | 89 | [OctaHate](https://open.spotify.com/track/6ZPDAipWlULnj5Zso56TIJ) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4y35I9OJ5QD3pvAOIffnmf) | 3:24 |
 | 90 | [How Do You Do It](https://open.spotify.com/track/1spLEdhSKVeh5nsK66tctl) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Me](https://open.spotify.com/album/7yfy9CIVCtTrfl1BrmcmNc) | 3:48 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 94 | [Young](https://open.spotify.com/track/3u4rIcRR7gSoJdkJIx9zpu) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/0s2fghAEEk3Uzz1IbGMDlq) | 5:24 |
 | 95 | [First](https://open.spotify.com/track/0kuSx4Cm1q6N6pOmCI9CRY) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hold My Home](https://open.spotify.com/album/3HkVMTl5OJ9lTN3bDSqeI1) | 3:20 |
 | 96 | [Pretty Pimpin](https://open.spotify.com/track/3l9eg9RtisizG12a1D6nZl) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [b'lieve i'm goin down...](https://open.spotify.com/album/2uRTsStAmo7Z2UwCIvuwMv) | 4:58 |
-| 97 | [Water \(feat\. Rostam\)](https://open.spotify.com/track/4WuDLbPWqwjyRvJK2jRCPS) | [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD), [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Need Your Light](https://open.spotify.com/album/1YWO9CZO9auWGUJWR4FlnL) | 4:40 |
-| 98 | [Multi\-Love](https://open.spotify.com/track/0PEXp5yk0sx9dJ8JzwvjJb) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Multi\-Love](https://open.spotify.com/album/587Clxxo1i5flgjvS52bEC) | 4:10 |
-| 99 | [Should Have Known Better](https://open.spotify.com/track/5I6y1KWmUoV5YCaIEcs1qs) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE) | 5:07 |
+| 97 | [Should Have Known Better](https://open.spotify.com/track/5I6y1KWmUoV5YCaIEcs1qs) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE) | 5:07 |
+| 98 | [Water \(feat\. Rostam\)](https://open.spotify.com/track/4WuDLbPWqwjyRvJK2jRCPS) | [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD), [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Need Your Light](https://open.spotify.com/album/1YWO9CZO9auWGUJWR4FlnL) | 4:40 |
+| 99 | [Multi\-Love](https://open.spotify.com/track/0PEXp5yk0sx9dJ8JzwvjJb) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Multi\-Love](https://open.spotify.com/album/587Clxxo1i5flgjvS52bEC) | 4:10 |
 | 100 | [Flesh without Blood](https://open.spotify.com/track/4ZcGbQ5dOKX6rJk4yvza9R) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/5hB4jVN4ZHpubyiMmW81K1) | 4:24 |
 
 Snapshot ID: `ZfhApAAAAADA1h+qMKcpUeUeHJg1o1Ja`

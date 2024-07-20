@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,614 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,645 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hmmm \(feat\. Davido\)](https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:56 |
-| 2 | [Finally](https://open.spotify.com/track/2ovgT7Y4gcvZkVFf3cd320) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq) | [Alusa Why Are You Topless? \(Deluxe\)](https://open.spotify.com/album/6piDT78sQ40k6xC5r9A8st) | 3:09 |
+| 2 | [Finally \(feat\. Sons of Sonix\)](https://open.spotify.com/track/2ovgT7Y4gcvZkVFf3cd320) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq), [Sons of Sonix](https://open.spotify.com/artist/24ml2a3Gc8V9UX6DfAhdqZ) | [Alusa Why Are You Topless? \(Deluxe\)](https://open.spotify.com/album/6piDT78sQ40k6xC5r9A8st) | 3:09 |
 | 3 | [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 |
 | 4 | [Favourite Girl](https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [Favourite Girl](https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh) | 2:36 |
 | 5 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA) | 3:51 |

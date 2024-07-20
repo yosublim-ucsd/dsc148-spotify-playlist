@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-31",
-  "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
+  "description": "This Is Avenged Sevenfold. Los temas esenciales, todos en una lista.",
   "name": "This Is Avenged Sevenfold",
   "tracks": [
     {
@@ -960,7 +960,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 381200,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/2IrdmiRatVE5s3l2YRcIXH"

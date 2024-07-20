@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPKP49DU8tu.md) - [plain]
 
 > Solo hit da cantare \(anche fuori dalla doccia\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,739 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,754 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPKP49DU8tu.md) - [plain]
 | 15 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(2011 Remaster\)](https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU) | 3:29 |
 | 16 | [Shallow](https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:35 |
 | 17 | [Call Me Maybe](https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss](https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2) | 3:13 |
-| 18 | [Ride It](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Ride It](https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E) | 2:37 |
-| 19 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 |
+| 18 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 |
+| 19 | [Ride It](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Ride It](https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E) | 2:37 |
 | 20 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 |
 | 21 | [Titanium \(feat\. Sia\)](https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Nothing but the Beat \(Ultimate Edition\)](https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl) | 4:05 |
 | 22 | [She Will Be Loved \- Radio Mix](https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:19 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPKP49DU8tu.md) - [plain]
 | 38 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 |
 | 39 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
 | 40 | [Halo](https://open.spotify.com/track/2CvOqDpQIMw69cCzWqr5yr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE \- Platinum Edition](https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9) | 4:21 |
-| 41 | [What About Us](https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 4:29 |
-| 42 | [She's Always a Woman](https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:21 |
+| 41 | [She's Always a Woman](https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:21 |
+| 42 | [What About Us](https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 4:29 |
 | 43 | [Viva La Vida](https://open.spotify.com/track/3Fcfwhm8oRrBvBZ8KGhtea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/0cnd1tlGnbfScH1KWwgxan) | 4:02 |
 | 44 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR) | 3:39 |
 | 45 | [Baby Can I Hold You](https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 3:13 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPKP49DU8tu.md) - [plain]
 | 70 | [Juice](https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:15 |
 | 71 | [Sinceramente](https://open.spotify.com/track/2O7jON0xYyTaSkWj9wZXCJ) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Sinceramente](https://open.spotify.com/album/6Ftqr86cfGFu8mQ0Vt2jse) | 3:35 |
 | 72 | [CLICK BOOM!](https://open.spotify.com/track/2PO4ThUKzIa4rBLsFkyInU) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [CLICK BOOM!](https://open.spotify.com/album/6PBnYwtMjAW4XqVRs9Il2l) | 3:45 |
-| 73 | [Casa Mia](https://open.spotify.com/track/4cWrKV5SN7AknqPy4ryBDG) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Casa Mia](https://open.spotify.com/album/4xFy5R5epCv3JQj92m7lHJ) | 3:30 |
-| 74 | [Leave a Light On](https://open.spotify.com/track/6lOWoTqVnAWXchddtTH31W) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Leave a Light On](https://open.spotify.com/album/3pczowjToa5SYsI6Th4KO8) | 3:05 |
+| 73 | [Leave a Light On](https://open.spotify.com/track/6lOWoTqVnAWXchddtTH31W) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Leave a Light On](https://open.spotify.com/album/3pczowjToa5SYsI6Th4KO8) | 3:05 |
+| 74 | [Casa Mia](https://open.spotify.com/track/4cWrKV5SN7AknqPy4ryBDG) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Casa Mia](https://open.spotify.com/album/4xFy5R5epCv3JQj92m7lHJ) | 3:30 |
 | 75 | [Vai!](https://open.spotify.com/track/02fHDy3xEetr1EX6qw3Cas) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Vai!](https://open.spotify.com/album/78oiHnbmYm8jUidFHcAeWL) | 2:36 |
 | 76 | [Anche Stasera](https://open.spotify.com/track/5WssaPhjCCUFBMk9PpnHYj) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:37 |
 | 77 | [If I Were a Boy](https://open.spotify.com/track/1oQZk2bKBLgP1cbuFKvjkq) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE \- Platinum Edition](https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9) | 4:09 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPKP49DU8tu.md) - [plain]
 | 95 | [Scrivile Scemo](https://open.spotify.com/track/71r3UlkV7sWvUYjas5paqi) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 3:34 |
 | 96 | [Ma non tutta la vita](https://open.spotify.com/track/1bZIs6zAOtFJLORZVojCUH) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Ma non tutta la vita](https://open.spotify.com/album/404Id5xZDXzT3yc85GiZxG) | 3:10 |
 | 97 | [Life](https://open.spotify.com/track/5LGqFIVBf3ZUeFBpc87CFS) | [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [Supernatural](https://open.spotify.com/album/3SwBajIGtIPylPqzWS9V1i) | 3:36 |
-| 98 | [Mambo Salentino](https://open.spotify.com/track/7piIo15vVy3ULGXSpFs5xc) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6), [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [Mambo Salentino](https://open.spotify.com/album/0JHCJWE4kAZqDw3wtNwA8D) | 2:35 |
+| 98 | [Per dimenticare](https://open.spotify.com/track/6lrlFMu06aGPDH0phlCnct) | [Zero Assoluto](https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe) | [Sotto una pioggia di parole](https://open.spotify.com/album/2hym5VSeKDVm7TP2eAvVKr) | 3:31 |
 | 99 | [Felicità puttana](https://open.spotify.com/track/695AOnYHYnvHIMaTNKjkA5) | [Thegiornalisti](https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp) | [LOVE](https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN) | 3:39 |
-| 100 | [Per dimenticare](https://open.spotify.com/track/6lrlFMu06aGPDH0phlCnct) | [Zero Assoluto](https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe) | [Sotto una pioggia di parole](https://open.spotify.com/album/2hym5VSeKDVm7TP2eAvVKr) | 3:31 |
+| 100 | [Mambo Salentino](https://open.spotify.com/track/7piIo15vVy3ULGXSpFs5xc) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6), [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [Mambo Salentino](https://open.spotify.com/album/0JHCJWE4kAZqDw3wtNwA8D) | 2:35 |
 
 Snapshot ID: `Zk3QbAAAAADNI3ZQApBSXepdEtD2Fqrd`

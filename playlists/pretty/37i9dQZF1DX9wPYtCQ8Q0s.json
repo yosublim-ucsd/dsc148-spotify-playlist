@@ -1,6 +1,6 @@
 {
   "description": "A batida certa para o seu treino",
-  "num_followers": 330972,
+  "num_followers": 330958,
   "original_name": "Treino Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
-        "name": "MILLION DOLLAR BABY",
-        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 155151,
-      "name": "MILLION DOLLAR BABY",
-      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
-    },
-    {
-      "added_at": "2024-07-19 03:01:00",
-      "album": {
         "name": "The Eminem Show",
         "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 297786,
       "name": "Till I Collapse",
       "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
+    },
+    {
+      "added_at": "2024-07-19 03:01:00",
+      "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
     },
     {
       "added_at": "2024-07-19 03:01:00",
@@ -235,6 +235,26 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
+        "name": "Championships",
+        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 180522,
+      "name": "Going Bad (feat. Drake)",
+      "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
+    },
+    {
+      "added_at": "2024-07-19 03:01:00",
+      "album": {
         "name": "MAGIC SHOW",
         "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
       },
@@ -263,22 +283,22 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
-        "name": "Championships",
-        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
+        "name": "Music To Be Murdered By",
+        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
       },
       "artists": [
         {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 180522,
-      "name": "Going Bad (feat. Drake)",
-      "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
+      "duration_ms": 210800,
+      "name": "Godzilla (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
     },
     {
       "added_at": "2024-07-19 03:01:00",
@@ -303,26 +323,6 @@
       "duration_ms": 253390,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
-    },
-    {
-      "added_at": "2024-07-19 03:01:00",
-      "album": {
-        "name": "Music To Be Murdered By",
-        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 210800,
-      "name": "Godzilla (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
     },
     {
       "added_at": "2024-07-19 03:01:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 143718,
-      "name": "n.h.i.e.",
-      "url": "https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W"
-    },
-    {
-      "added_at": "2024-07-19 03:01:00",
-      "album": {
         "name": "Perfect Ten",
         "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 192470,
       "name": "Pure Water (with Migos)",
       "url": "https://open.spotify.com/track/3j84U36KvLeXNDPv4t5pI8"
+    },
+    {
+      "added_at": "2024-07-19 03:01:00",
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 143718,
+      "name": "n.h.i.e.",
+      "url": "https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W"
     },
     {
       "added_at": "2024-07-19 03:01:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
+        "name": "CREED: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6Vl1FiigNmVpKDMXpRVUCA"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 239800,
+      "name": "Last Breath",
+      "url": "https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3"
+    },
+    {
+      "added_at": "2024-07-19 03:01:00",
+      "album": {
         "name": "Collision Course (Deluxe Version)",
         "url": "https://open.spotify.com/album/5NH94cATqx5fjBE794xZLy"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 295826,
       "name": "Points of Authority / 99 Problems / One Step Closer",
       "url": "https://open.spotify.com/track/65eohvrL4ttjA7EfFkQOhX"
-    },
-    {
-      "added_at": "2024-07-19 03:01:00",
-      "album": {
-        "name": "CREED: Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6Vl1FiigNmVpKDMXpRVUCA"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 239800,
-      "name": "Last Breath",
-      "url": "https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3"
     },
     {
       "added_at": "2024-07-19 03:01:00",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
-        "name": "Hylander",
-        "url": "https://open.spotify.com/album/0XbOcrzCIIltxgcBdBUGAs"
-      },
-      "artists": [
-        {
-          "name": "Abbot",
-          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
-        },
-        {
-          "name": "somynem.grin",
-          "url": "https://open.spotify.com/artist/5AQpcBCqfE0mHDM4dh02mf"
-        }
-      ],
-      "duration_ms": 96624,
-      "name": "Hylander",
-      "url": "https://open.spotify.com/track/3sOcmmmWB7dqyziUVLXpTi"
-    },
-    {
-      "added_at": "2024-07-19 03:01:00",
-      "album": {
         "name": "223's (feat. 9lokknine)",
         "url": "https://open.spotify.com/album/7cekEHNPgpKwVd9kJE9G8F"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 176640,
       "name": "223's (feat. 9lokknine)",
       "url": "https://open.spotify.com/track/4sjiIpEv617LDXaidKioOI"
+    },
+    {
+      "added_at": "2024-07-19 03:01:00",
+      "album": {
+        "name": "Hylander",
+        "url": "https://open.spotify.com/album/0XbOcrzCIIltxgcBdBUGAs"
+      },
+      "artists": [
+        {
+          "name": "Abbot",
+          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
+        },
+        {
+          "name": "somynem.grin",
+          "url": "https://open.spotify.com/artist/5AQpcBCqfE0mHDM4dh02mf"
+        }
+      ],
+      "duration_ms": 96624,
+      "name": "Hylander",
+      "url": "https://open.spotify.com/track/3sOcmmmWB7dqyziUVLXpTi"
     },
     {
       "added_at": "2024-07-19 03:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 
 > New music from your favourite hip\-hop artists, updated weekly! Featuring Eminem, Drake, Kendrick Lamar, GloRilla and more! Sign up <a href="https://forms.umusic\-online.com/forms/\-MymKGNlc3qqAKkFa\_Hi">here</a> for exclusives, merch &amp; more!
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 23,397 likes - 85 songs - 4 hr 27 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 23,395 likes - 85 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 | 84 | [Yes](https://open.spotify.com/track/2RgwImATiujgRNf6Gfg3wM) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Yes](https://open.spotify.com/album/7HEtVKXQVjWgDT87yCZkrR) | 3:30 |
 | 85 | [HOODLUMZ \(with PlayThatBoiZay & A$AP Rocky\)](https://open.spotify.com/track/3vDSn3BLIJKMHGrGC0zAib) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HOODLUMZ \(with PlayThatBoiZay & A$AP Rocky\)](https://open.spotify.com/album/2KunOxPu4RavN3VZ08vv5D) | 2:09 |
 
-Snapshot ID: `AAAg42qWwKK90vAbSnM2hf2ICMdxDwlr`
+Snapshot ID: `AAAg5aFUburj+KeC9bFGpGcyedltYgOS`

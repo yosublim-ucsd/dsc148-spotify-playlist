@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,246 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,309 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 18 | [iPlan](https://open.spotify.com/track/5yyYL1FpimADTIftYQU0cg) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC) | [Permanent Music 3](https://open.spotify.com/album/6qXlSLu7mrUz8XIyJaBlow) | 6:50 |
 | 19 | [My Darling](https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ) | 3:13 |
 | 20 | [Paris](https://open.spotify.com/track/7JbLSEDlRdoJaXk5ddZae2) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX), [Lwah Ndlunkulu](https://open.spotify.com/artist/2KYeDbDn8hr0auXnbpKfvs) | [Paris](https://open.spotify.com/album/7g3LFWfWuAdhaDt49N0cuM) | 4:17 |
-| 21 | [Wetin](https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Wetin](https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb) | 1:18 |
-| 22 | [Aye](https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Aye](https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE) | 3:55 |
+| 21 | [Aye](https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Aye](https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE) | 3:55 |
+| 22 | [Wetin](https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Wetin](https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb) | 1:18 |
 | 23 | [Jolie](https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jolie](https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ) | 3:29 |
 | 24 | [Emlanjeni](https://open.spotify.com/track/3u4er9DgmXCyTMhBns3Rpp) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Kwela](https://open.spotify.com/album/06iC7DjKV1ec1s0UZ3eYNA) | 4:02 |
 | 25 | [You're the One](https://open.spotify.com/track/4fxwbUSI6jF4XdnvCUVG97) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Elements](https://open.spotify.com/album/4qe0NJuKzO5iWPv1aFl3l3) | 3:20 |
@@ -93,20 +93,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 83 | [Kookoo](https://open.spotify.com/track/5T5BqyMPNjS6t7booTFulF) | [Elani](https://open.spotify.com/artist/7v4v8ZiBQC6HHeCuA2lQ26) | [Barua ya Dunia](https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z) | 4:14 |
 | 84 | [Nkwagala](https://open.spotify.com/track/531luMexKodEekscAlLyVu) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Nkwagala](https://open.spotify.com/album/5rJT6clbZn0dbA5oLVfBwo) | 3:10 |
 | 85 | [Coming Home](https://open.spotify.com/track/6HFRsC9QAkBU6zQwgmTS15) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Aaron Rimbui](https://open.spotify.com/artist/4loRXsKXjBAMpJY0MBDq7H) | [Bald Men Love Better](https://open.spotify.com/album/0mh0omjloNFwYzudtlk8xZ) | 2:54 |
-| 86 | [Angel Of Mine](https://open.spotify.com/track/5uzVZ29dSPYmbgcRol3Gly) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [WATERSHED](https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq) | 3:15 |
-| 87 | [Uliza Kiatu](https://open.spotify.com/track/2jpPjMCRGg976CM9VuhkEg) | [H\_art the Band](https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1) | [Uliza Kiatu](https://open.spotify.com/album/02iYIjv0w9avU0ievBGw2p) | 4:18 |
-| 88 | [Ritwa Riaku](https://open.spotify.com/track/05sESPfWsXLK9EXaIS4ki9) | [Eric Wainaina](https://open.spotify.com/artist/5kUd6m1kXPaPjEqqxdNVMz) | [Sawa Sawa](https://open.spotify.com/album/6YGk7QcA9LkknK66j3JGsw) | 3:35 |
+| 86 | [Uliza Kiatu](https://open.spotify.com/track/2jpPjMCRGg976CM9VuhkEg) | [H\_art the Band](https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1) | [Uliza Kiatu](https://open.spotify.com/album/02iYIjv0w9avU0ievBGw2p) | 4:18 |
+| 87 | [Ritwa Riaku](https://open.spotify.com/track/05sESPfWsXLK9EXaIS4ki9) | [Eric Wainaina](https://open.spotify.com/artist/5kUd6m1kXPaPjEqqxdNVMz) | [Sawa Sawa](https://open.spotify.com/album/6YGk7QcA9LkknK66j3JGsw) | 3:35 |
+| 88 | [Angel Of Mine](https://open.spotify.com/track/5uzVZ29dSPYmbgcRol3Gly) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [WATERSHED](https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq) | 3:15 |
 | 89 | [Ndicel'ikiss](https://open.spotify.com/track/6xLM23LrQKss6kiLNUK9vE) | [Berita](https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ) | [Songs in The Key of Love](https://open.spotify.com/album/2U2yQrvQtQFSCabDSxl8mK) | 3:42 |
 | 90 | [Zodwa](https://open.spotify.com/track/4jsiLFfKYs4aohxVmEiv5B) | [Joe Nina](https://open.spotify.com/artist/0uKndkSvFjmZxg61p1YLEs) | [Mababaza](https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt) | 4:09 |
 | 91 | [Give You Love](https://open.spotify.com/track/2nDZqi7S7CtFmwFXw5V8V5) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Give You Love](https://open.spotify.com/album/26m3VR0pkxErF4DFGu95bl) | 3:54 |
 | 92 | [Mayine](https://open.spotify.com/track/7fFCetN4cwF4gWKIqfOFNZ) | [Simphiwe Dana](https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu) | [Kulture Noir](https://open.spotify.com/album/5NWVDJtZsH6eHwaBfcwC5z) | 7:06 |
-| 93 | [Chargie](https://open.spotify.com/track/3rcXrrfhDOe3kShu3uekeC) | [Hillzy](https://open.spotify.com/artist/6Ju1F5ODvbjdh2yEQKxkta) | [In The Building](https://open.spotify.com/album/2qOPYIXCVcL7fx0eTXx3yI) | 2:53 |
-| 94 | [Liwa Lentliziyo](https://open.spotify.com/track/0pI9v5qwiZnha3qd2VDS89) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Zaneliza: How the Water Moves](https://open.spotify.com/album/4Dh0JLuYLhSeoZQ2fQ3Bdm) | 5:25 |
+| 93 | [Liwa Lentliziyo](https://open.spotify.com/track/0pI9v5qwiZnha3qd2VDS89) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Zaneliza: How the Water Moves](https://open.spotify.com/album/4Dh0JLuYLhSeoZQ2fQ3Bdm) | 5:25 |
+| 94 | [Chargie](https://open.spotify.com/track/3rcXrrfhDOe3kShu3uekeC) | [Hillzy](https://open.spotify.com/artist/6Ju1F5ODvbjdh2yEQKxkta) | [In The Building](https://open.spotify.com/album/2qOPYIXCVcL7fx0eTXx3yI) | 2:53 |
 | 95 | [Ex](https://open.spotify.com/track/2r4GUjWmfz5xth28hb7a6G) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Ex](https://open.spotify.com/album/4TnCuNvX8Bzhbx2uv5K5cR) | 3:24 |
 | 96 | [Take it Slow](https://open.spotify.com/track/6kOXoMSnQy63PNGn4Yp1zZ) | [ZIKKI](https://open.spotify.com/artist/5l74o93ci1b90LayLok4DL), [Jaguar](https://open.spotify.com/artist/4SExCKYJYvUVFXLAS3Dz0G) | [Kamata](https://open.spotify.com/album/0vkCse1iCEbs0MU92L0A7M) | 3:49 |
 | 97 | [Mfalme Wa Mapenzi](https://open.spotify.com/track/7hpbqHv9BMeGK7jDLEX58q) | [Sanaipei Tande](https://open.spotify.com/artist/1kP9asYdOE5UeBmNVYZX1J) | [Mfalme Wa Mapenzi](https://open.spotify.com/album/2wgSxbkNeLOwBVM1LuSSnj) | 4:46 |
 | 98 | [Donobi](https://open.spotify.com/track/1GBw2foMNXUBa2IelAtkSy) | [Kwabena Kwabena](https://open.spotify.com/artist/4rvlBk4SuYD4jThTXZwnCI) | [Debi](https://open.spotify.com/album/2qTNQGI4KNrCuqb2zA1F0u) | 4:36 |
 | 99 | [The Blue Dress Song](https://open.spotify.com/track/613N6htjxF1BoqQUxcNuE0) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Book of Kirya](https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3) | 3:12 |
-| 100 | [Mukwano Gwo](https://open.spotify.com/track/0AiGL3SmHr50RTF5rFaHTN) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF), [Angela Kalule](https://open.spotify.com/artist/5Avt6RWKqAxYiadur6sxYi) | [Ugandan](https://open.spotify.com/album/5lZptP1kXQTGku9irUVhcD) | 2:54 |
+| 100 | [Slow Down](https://open.spotify.com/track/0nNryQ6LeMOsBmeloyPhWP) | [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Puzzle](https://open.spotify.com/album/5ucYzb3PiD5DSV5iPyJWYR) | 4:03 |
 
 Snapshot ID: `ZmHOCwAAAAChnZdqAl4L+PgF58orHcaZ`

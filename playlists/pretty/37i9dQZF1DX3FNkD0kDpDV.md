@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > <a href="https://open.spotify.com/user/tomorrowlandofficial?si=27761b3198754550">Tomorrowland</a> celebrates its 20 years anniversary\. 400,000 People of Tomorrow come together to explore the magical world of this year’s festival theme LIFE\. Mainstage powerhouse Timmy Trumpet guides the People of Tomorrow to new frontiers with high\-energy electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,447 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,643 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

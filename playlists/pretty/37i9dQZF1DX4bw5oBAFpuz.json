@@ -1,6 +1,6 @@
 {
   "description": "Ideale muziek voor de werkdag ",
-  "num_followers": 82525,
+  "num_followers": 82530,
   "original_name": "Werkdag FM",
   "owner": {
     "name": "Spotify",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-07-18 09:04:38",
       "album": {
-        "name": "Happier",
-        "url": "https://open.spotify.com/album/37RugGOzghoVQRVz6FbZfL"
-      },
-      "artists": [
-        {
-          "name": "Berre",
-          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
-        }
-      ],
-      "duration_ms": 197205,
-      "name": "Happier",
-      "url": "https://open.spotify.com/track/04KJXYKCosHf3jtySjxwff"
-    },
-    {
-      "added_at": "2024-07-18 09:04:38",
-      "album": {
         "name": "As It Was (Acoustic)",
         "url": "https://open.spotify.com/album/5tozhcFvFMQl9vjheT5PCj"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 155823,
       "name": "As It Was - Acoustic",
       "url": "https://open.spotify.com/track/3Ui57V8wCESmGs615NTC2b"
+    },
+    {
+      "added_at": "2024-07-18 09:04:38",
+      "album": {
+        "name": "Happier",
+        "url": "https://open.spotify.com/album/37RugGOzghoVQRVz6FbZfL"
+      },
+      "artists": [
+        {
+          "name": "Berre",
+          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
+        }
+      ],
+      "duration_ms": 197205,
+      "name": "Happier",
+      "url": "https://open.spotify.com/track/04KJXYKCosHf3jtySjxwff"
     },
     {
       "added_at": "2024-07-18 09:04:38",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-07-18 09:04:38",
       "album": {
-        "name": "Light Switch (Acoustic)",
-        "url": "https://open.spotify.com/album/0H6pdORxZ735HztupqklPx"
+        "name": "So Good To Me",
+        "url": "https://open.spotify.com/album/67XCgRpDrGHQS1tLnYaTGD"
       },
       "artists": [
         {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
         }
       ],
-      "duration_ms": 186295,
-      "name": "Light Switch - Acoustic",
-      "url": "https://open.spotify.com/track/42nDnUAPjhZFlj5wt2BjJm"
+      "duration_ms": 158677,
+      "name": "So Good To Me - Radio Edit",
+      "url": "https://open.spotify.com/track/7u0lV6ZS6IzqpWt7GoJEvg"
     },
     {
       "added_at": "2024-07-18 09:04:38",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-07-18 09:04:38",
       "album": {
-        "name": "So Good To Me",
-        "url": "https://open.spotify.com/album/67XCgRpDrGHQS1tLnYaTGD"
-      },
-      "artists": [
-        {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
-        }
-      ],
-      "duration_ms": 158677,
-      "name": "So Good To Me - Radio Edit",
-      "url": "https://open.spotify.com/track/7u0lV6ZS6IzqpWt7GoJEvg"
-    },
-    {
-      "added_at": "2024-07-18 09:04:38",
-      "album": {
         "name": "Nightfalls",
         "url": "https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 220892,
       "name": "Nightfalls",
       "url": "https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq"
+    },
+    {
+      "added_at": "2024-07-18 09:04:38",
+      "album": {
+        "name": "Light Switch (Acoustic)",
+        "url": "https://open.spotify.com/album/0H6pdORxZ735HztupqklPx"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 186295,
+      "name": "Light Switch - Acoustic",
+      "url": "https://open.spotify.com/track/42nDnUAPjhZFlj5wt2BjJm"
     },
     {
       "added_at": "2024-07-18 09:04:38",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2024-07-18 09:04:38",
       "album": {
+        "name": "barcelona",
+        "url": "https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 175222,
+      "name": "barcelona",
+      "url": "https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk"
+    },
+    {
+      "added_at": "2024-07-18 09:04:38",
+      "album": {
         "name": "Burning Daylight",
         "url": "https://open.spotify.com/album/5FdecV9YIP62njz9sgfyWK"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 184000,
       "name": "Burning Daylight",
       "url": "https://open.spotify.com/track/5pjp1jN7hitQTuSlT2jOep"
-    },
-    {
-      "added_at": "2024-07-18 09:04:38",
-      "album": {
-        "name": "barcelona",
-        "url": "https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 175222,
-      "name": "barcelona",
-      "url": "https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk"
     },
     {
       "added_at": "2024-07-18 09:04:38",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-07-18 09:04:38",
       "album": {
-        "name": "Another Day",
-        "url": "https://open.spotify.com/album/5IdiLQkgPHbTl5ukYAYhXg"
-      },
-      "artists": [
-        {
-          "name": "Lorr\u00e8n",
-          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
-        }
-      ],
-      "duration_ms": 168622,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/4sClnnhC23yXMFMvE7lhc0"
-    },
-    {
-      "added_at": "2024-07-18 09:04:38",
-      "album": {
         "name": "Tennessee Whiskey",
         "url": "https://open.spotify.com/album/71KzrFnqFfcPOptYLPboZM"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 262500,
       "name": "Tennessee Whiskey",
       "url": "https://open.spotify.com/track/7qKBw3VBU6dVqK6F8WBIOJ"
+    },
+    {
+      "added_at": "2024-07-18 09:04:38",
+      "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/5IdiLQkgPHbTl5ukYAYhXg"
+      },
+      "artists": [
+        {
+          "name": "Lorr\u00e8n",
+          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
+        }
+      ],
+      "duration_ms": 168622,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/4sClnnhC23yXMFMvE7lhc0"
     },
     {
       "added_at": "2024-07-18 09:04:38",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-07-18 09:04:38",
       "album": {
-        "name": "And So I Grow",
-        "url": "https://open.spotify.com/album/47dKXU9d4G8QbfcfKS8aHy"
-      },
-      "artists": [
-        {
-          "name": "Eva Valery",
-          "url": "https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p"
-        }
-      ],
-      "duration_ms": 218411,
-      "name": "And So I Grow",
-      "url": "https://open.spotify.com/track/6ODXo2jtBLbsVlnDFIVglV"
-    },
-    {
-      "added_at": "2024-07-18 09:04:38",
-      "album": {
         "name": "Still Love",
         "url": "https://open.spotify.com/album/7i076sfhcW2scS62C8bHQQ"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 177233,
       "name": "Still Love",
       "url": "https://open.spotify.com/track/3VN2hCxJRJEVjWwAMd10sL"
+    },
+    {
+      "added_at": "2024-07-18 09:04:38",
+      "album": {
+        "name": "And So I Grow",
+        "url": "https://open.spotify.com/album/47dKXU9d4G8QbfcfKS8aHy"
+      },
+      "artists": [
+        {
+          "name": "Eva Valery",
+          "url": "https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p"
+        }
+      ],
+      "duration_ms": 218411,
+      "name": "And So I Grow",
+      "url": "https://open.spotify.com/track/6ODXo2jtBLbsVlnDFIVglV"
     },
     {
       "added_at": "2024-07-18 09:04:38",
@@ -2219,38 +2219,6 @@
     {
       "added_at": "2024-07-18 09:04:38",
       "album": {
-        "name": "Rise (Acoustic)",
-        "url": "https://open.spotify.com/album/2cvjDszYknCglVHqHc2IOY"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 213630,
-      "name": "Rise - Acoustic",
-      "url": "https://open.spotify.com/track/4SSS0EPphdDS3CAoVUW05M"
-    },
-    {
-      "added_at": "2024-07-18 09:04:38",
-      "album": {
-        "name": "Whenever",
-        "url": "https://open.spotify.com/album/2Yt2fZjV3yE86fnDdV9RCr"
-      },
-      "artists": [
-        {
-          "name": "Nick Schilder",
-          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
-        }
-      ],
-      "duration_ms": 155368,
-      "name": "Whenever",
-      "url": "https://open.spotify.com/track/0bep2a6WGLFclEAHl6yXgO"
-    },
-    {
-      "added_at": "2024-07-18 09:04:38",
-      "album": {
         "name": "Born In A Storm",
         "url": "https://open.spotify.com/album/7i7i0cvJwTsw1ILF6Gy5Lt"
       },
@@ -2267,6 +2235,22 @@
     {
       "added_at": "2024-07-18 09:04:38",
       "album": {
+        "name": "Rise (Acoustic)",
+        "url": "https://open.spotify.com/album/2cvjDszYknCglVHqHc2IOY"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 213630,
+      "name": "Rise - Acoustic",
+      "url": "https://open.spotify.com/track/4SSS0EPphdDS3CAoVUW05M"
+    },
+    {
+      "added_at": "2024-07-18 09:04:38",
+      "album": {
         "name": "Queen For A Day",
         "url": "https://open.spotify.com/album/1Dn1MhYuEOO6eMijYqnKCG"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 213800,
       "name": "Run Away Together",
       "url": "https://open.spotify.com/track/5HNTGn5VIRRBgMdFV09Zh3"
+    },
+    {
+      "added_at": "2024-07-18 09:04:38",
+      "album": {
+        "name": "Whenever",
+        "url": "https://open.spotify.com/album/2Yt2fZjV3yE86fnDdV9RCr"
+      },
+      "artists": [
+        {
+          "name": "Nick Schilder",
+          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
+        }
+      ],
+      "duration_ms": 155368,
+      "name": "Whenever",
+      "url": "https://open.spotify.com/track/0bep2a6WGLFclEAHl6yXgO"
     },
     {
       "added_at": "2024-07-18 09:04:38",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2024-07-18 09:04:38",
       "album": {
-        "name": "Any Day Now",
-        "url": "https://open.spotify.com/album/1T4QzY60Mpe02NYZDPWVFI"
-      },
-      "artists": [
-        {
-          "name": "Krezip",
-          "url": "https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX"
-        }
-      ],
-      "duration_ms": 216320,
-      "name": "In The Water",
-      "url": "https://open.spotify.com/track/3nC1Jx1lyGzmZ5uVwd20st"
-    },
-    {
-      "added_at": "2024-07-18 09:04:38",
-      "album": {
         "name": "Looking For Stars",
         "url": "https://open.spotify.com/album/5JZSvFY37igyGtmIP0yuLW"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 195493,
       "name": "Romantic",
       "url": "https://open.spotify.com/track/6UvHVnBPpxMJrTAFnMK8s2"
+    },
+    {
+      "added_at": "2024-07-18 09:04:38",
+      "album": {
+        "name": "Any Day Now",
+        "url": "https://open.spotify.com/album/1T4QzY60Mpe02NYZDPWVFI"
+      },
+      "artists": [
+        {
+          "name": "Krezip",
+          "url": "https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "In The Water",
+      "url": "https://open.spotify.com/track/3nC1Jx1lyGzmZ5uVwd20st"
     },
     {
       "added_at": "2024-07-18 09:04:38",
@@ -2611,22 +2611,6 @@
     {
       "added_at": "2024-07-18 09:04:38",
       "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/3OkEGNuUPN2wUDAQBUhFs4"
-      },
-      "artists": [
-        {
-          "name": "Lorr\u00e8n",
-          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
-        }
-      ],
-      "duration_ms": 192938,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/2bE8jinb3xXxHirFy1yCF9"
-    },
-    {
-      "added_at": "2024-07-18 09:04:38",
-      "album": {
         "name": "Mitch James - Deluxe Edition",
         "url": "https://open.spotify.com/album/2uyhLTwc2V8KeSgysLtXTf"
       },
@@ -2639,6 +2623,22 @@
       "duration_ms": 185764,
       "name": "All The Ways To Say Goodbye",
       "url": "https://open.spotify.com/track/2z641vWISZBjlkCMfkYVW6"
+    },
+    {
+      "added_at": "2024-07-18 09:04:38",
+      "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/3OkEGNuUPN2wUDAQBUhFs4"
+      },
+      "artists": [
+        {
+          "name": "Lorr\u00e8n",
+          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
+        }
+      ],
+      "duration_ms": 192938,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/2bE8jinb3xXxHirFy1yCF9"
     },
     {
       "added_at": "2024-07-18 09:04:38",
@@ -2691,22 +2691,6 @@
     {
       "added_at": "2024-07-18 09:04:38",
       "album": {
-        "name": "Something In The Water",
-        "url": "https://open.spotify.com/album/1q1VBL1atF2cU73EECPj1N"
-      },
-      "artists": [
-        {
-          "name": "Brooke Fraser",
-          "url": "https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN"
-        }
-      ],
-      "duration_ms": 183073,
-      "name": "Something in the Water",
-      "url": "https://open.spotify.com/track/5ouXSHkPf6VnpeKqYuyBBU"
-    },
-    {
-      "added_at": "2024-07-18 09:04:38",
-      "album": {
         "name": "Chaleur Humaine (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3jc4mNSSIjakdzeD63qpQt"
       },
@@ -2719,6 +2703,22 @@
       "duration_ms": 233247,
       "name": "Tilted",
       "url": "https://open.spotify.com/track/5dwMQwZvaPo9QzPqRF3aaR"
+    },
+    {
+      "added_at": "2024-07-18 09:04:38",
+      "album": {
+        "name": "Something In The Water",
+        "url": "https://open.spotify.com/album/1q1VBL1atF2cU73EECPj1N"
+      },
+      "artists": [
+        {
+          "name": "Brooke Fraser",
+          "url": "https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN"
+        }
+      ],
+      "duration_ms": 183073,
+      "name": "Something in the Water",
+      "url": "https://open.spotify.com/track/5ouXSHkPf6VnpeKqYuyBBU"
     },
     {
       "added_at": "2024-07-18 09:04:38",
@@ -2903,22 +2903,6 @@
     {
       "added_at": "2024-07-18 09:04:38",
       "album": {
-        "name": "Ride or Die",
-        "url": "https://open.spotify.com/album/1GBFKMecUkExm0TbTrNpbg"
-      },
-      "artists": [
-        {
-          "name": "Morpheus",
-          "url": "https://open.spotify.com/artist/3lhGgCyHKc8VFqfn33X7VX"
-        }
-      ],
-      "duration_ms": 204634,
-      "name": "Ride or Die",
-      "url": "https://open.spotify.com/track/5dzD57wEZZZ4tdn4ybJgXU"
-    },
-    {
-      "added_at": "2024-07-18 09:04:38",
-      "album": {
         "name": "Breaking Away (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4JwM6rGlSRICnJk0NRgK9o"
       },
@@ -2931,6 +2915,22 @@
       "duration_ms": 216533,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/3tn88WWmoGXnFelINCXRRw"
+    },
+    {
+      "added_at": "2024-07-18 09:04:38",
+      "album": {
+        "name": "Ride or Die",
+        "url": "https://open.spotify.com/album/1GBFKMecUkExm0TbTrNpbg"
+      },
+      "artists": [
+        {
+          "name": "Morpheus",
+          "url": "https://open.spotify.com/artist/3lhGgCyHKc8VFqfn33X7VX"
+        }
+      ],
+      "duration_ms": 204634,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/5dzD57wEZZZ4tdn4ybJgXU"
     },
     {
       "added_at": "2024-07-18 09:04:38",
@@ -2955,22 +2955,6 @@
     {
       "added_at": "2024-07-18 09:04:38",
       "album": {
-        "name": "Bobbie's Song",
-        "url": "https://open.spotify.com/album/6canaf9tWSYr7bhrCzQemP"
-      },
-      "artists": [
-        {
-          "name": "Dion Cooper",
-          "url": "https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj"
-        }
-      ],
-      "duration_ms": 145017,
-      "name": "Bobbie's Song",
-      "url": "https://open.spotify.com/track/07DydynEAQfvBrOOIuHNcz"
-    },
-    {
-      "added_at": "2024-07-18 09:04:38",
-      "album": {
         "name": "Take A Chance (Acoustic)",
         "url": "https://open.spotify.com/album/6tNEMqxSwtcGDMcQX9wEIf"
       },
@@ -2991,6 +2975,22 @@
     {
       "added_at": "2024-07-18 09:04:38",
       "album": {
+        "name": "Bobbie's Song",
+        "url": "https://open.spotify.com/album/6canaf9tWSYr7bhrCzQemP"
+      },
+      "artists": [
+        {
+          "name": "Dion Cooper",
+          "url": "https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj"
+        }
+      ],
+      "duration_ms": 145017,
+      "name": "Bobbie's Song",
+      "url": "https://open.spotify.com/track/07DydynEAQfvBrOOIuHNcz"
+    },
+    {
+      "added_at": "2024-07-18 09:04:38",
+      "album": {
         "name": "Elba",
         "url": "https://open.spotify.com/album/4JOtH0irSi1qe7Dtyj2XGT"
       },
@@ -3003,22 +3003,6 @@
       "duration_ms": 237266,
       "name": "Queen Of Elba",
       "url": "https://open.spotify.com/track/02qxRNbkok9cAtwiSDQrqw"
-    },
-    {
-      "added_at": "2024-07-18 09:04:38",
-      "album": {
-        "name": "I Don't Deserve It",
-        "url": "https://open.spotify.com/album/1DHgLR9HwTeITN8oNL96Q8"
-      },
-      "artists": [
-        {
-          "name": "Ruben Hein",
-          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
-        }
-      ],
-      "duration_ms": 226198,
-      "name": "I Don't Deserve It",
-      "url": "https://open.spotify.com/track/0aA8UQmAlCSLXj8tm8iDKb"
     },
     {
       "added_at": "2024-07-18 09:04:38",
@@ -3071,18 +3055,18 @@
     {
       "added_at": "2024-07-18 09:04:38",
       "album": {
-        "name": "Beauty Is A Mess",
-        "url": "https://open.spotify.com/album/56G0aPRr7G9paEbEGFlola"
+        "name": "I Don't Deserve It",
+        "url": "https://open.spotify.com/album/1DHgLR9HwTeITN8oNL96Q8"
       },
       "artists": [
         {
-          "name": "Haris",
-          "url": "https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki"
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
         }
       ],
-      "duration_ms": 184360,
-      "name": "Fall Apart",
-      "url": "https://open.spotify.com/track/31iIDD0Np4zBqnk5xVXSgf"
+      "duration_ms": 226198,
+      "name": "I Don't Deserve It",
+      "url": "https://open.spotify.com/track/0aA8UQmAlCSLXj8tm8iDKb"
     },
     {
       "added_at": "2024-07-18 09:04:38",
@@ -3099,6 +3083,22 @@
       "duration_ms": 173216,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/19wiQ1aqbNHocG5msFg5mo"
+    },
+    {
+      "added_at": "2024-07-18 09:04:38",
+      "album": {
+        "name": "Beauty Is A Mess",
+        "url": "https://open.spotify.com/album/56G0aPRr7G9paEbEGFlola"
+      },
+      "artists": [
+        {
+          "name": "Haris",
+          "url": "https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki"
+        }
+      ],
+      "duration_ms": 184360,
+      "name": "Fall Apart",
+      "url": "https://open.spotify.com/track/31iIDD0Np4zBqnk5xVXSgf"
     },
     {
       "added_at": "2024-07-18 09:04:38",
@@ -3167,22 +3167,6 @@
     {
       "added_at": "2024-07-18 09:04:38",
       "album": {
-        "name": "DON.T (Acoustic)",
-        "url": "https://open.spotify.com/album/0EJ0RlKKyvYpMrBEI6ljL7"
-      },
-      "artists": [
-        {
-          "name": "MAXINE",
-          "url": "https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz"
-        }
-      ],
-      "duration_ms": 180859,
-      "name": "DON.T - Acoustic",
-      "url": "https://open.spotify.com/track/0QPLRjYAirGsBwWGXDAh1i"
-    },
-    {
-      "added_at": "2024-07-18 09:04:38",
-      "album": {
         "name": "Golden Lovers",
         "url": "https://open.spotify.com/album/4Jv2duaN6eNUpDs3sXbJct"
       },
@@ -3195,6 +3179,22 @@
       "duration_ms": 202135,
       "name": "Golden Lovers",
       "url": "https://open.spotify.com/track/5SgWKAMXnGT8yp4wMDjtik"
+    },
+    {
+      "added_at": "2024-07-18 09:04:38",
+      "album": {
+        "name": "DON.T (Acoustic)",
+        "url": "https://open.spotify.com/album/0EJ0RlKKyvYpMrBEI6ljL7"
+      },
+      "artists": [
+        {
+          "name": "MAXINE",
+          "url": "https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz"
+        }
+      ],
+      "duration_ms": 180859,
+      "name": "DON.T - Acoustic",
+      "url": "https://open.spotify.com/track/0QPLRjYAirGsBwWGXDAh1i"
     },
     {
       "added_at": "2024-07-18 09:04:38",
@@ -3267,6 +3267,22 @@
     {
       "added_at": "2024-07-18 09:04:38",
       "album": {
+        "name": "So Maybe",
+        "url": "https://open.spotify.com/album/7o2mbXQP1P3svFu8wkZf9F"
+      },
+      "artists": [
+        {
+          "name": "Marnix Emanuel",
+          "url": "https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr"
+        }
+      ],
+      "duration_ms": 176212,
+      "name": "So Maybe",
+      "url": "https://open.spotify.com/track/5y7Z9hH4qMis2b0kVp6Ejm"
+    },
+    {
+      "added_at": "2024-07-18 09:04:38",
+      "album": {
         "name": "Lay Your Weapons Down (Acoustic)",
         "url": "https://open.spotify.com/album/71nqwuPOUHmVNcrjjkRx9m"
       },
@@ -3279,22 +3295,6 @@
       "duration_ms": 205108,
       "name": "Lay Your Weapons Down - Acoustic",
       "url": "https://open.spotify.com/track/4b2kDKZCGdWEVrWTwC4uUv"
-    },
-    {
-      "added_at": "2024-07-18 09:04:38",
-      "album": {
-        "name": "= (Tour Edition)",
-        "url": "https://open.spotify.com/album/4MOKrYo3bMUWjUnSirhNz3"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 231546,
-      "name": "One Life",
-      "url": "https://open.spotify.com/track/2lORrsvCKbWd6OZd5GtqwJ"
     },
     {
       "added_at": "2024-07-18 09:04:38",
@@ -3315,38 +3315,6 @@
     {
       "added_at": "2024-07-18 09:04:38",
       "album": {
-        "name": "Happy in Hindsight",
-        "url": "https://open.spotify.com/album/4mbTJzPO8Y5RwlOLGiZLQs"
-      },
-      "artists": [
-        {
-          "name": "Bertolf",
-          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
-        }
-      ],
-      "duration_ms": 213161,
-      "name": "Happy in Hindsight",
-      "url": "https://open.spotify.com/track/5TTI3j2PFfhjQ9LQT7Xllx"
-    },
-    {
-      "added_at": "2024-07-18 09:04:38",
-      "album": {
-        "name": "So Maybe",
-        "url": "https://open.spotify.com/album/7o2mbXQP1P3svFu8wkZf9F"
-      },
-      "artists": [
-        {
-          "name": "Marnix Emanuel",
-          "url": "https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr"
-        }
-      ],
-      "duration_ms": 176212,
-      "name": "So Maybe",
-      "url": "https://open.spotify.com/track/5y7Z9hH4qMis2b0kVp6Ejm"
-    },
-    {
-      "added_at": "2024-07-18 09:04:38",
-      "album": {
         "name": "Songs to Soothe",
         "url": "https://open.spotify.com/album/0MRyCWBOc0EyOiLmPYRg7K"
       },
@@ -3359,6 +3327,38 @@
       "duration_ms": 195453,
       "name": "Going Back Home",
       "url": "https://open.spotify.com/track/2CujSydnhdFygZpsjyytZU"
+    },
+    {
+      "added_at": "2024-07-18 09:04:38",
+      "album": {
+        "name": "= (Tour Edition)",
+        "url": "https://open.spotify.com/album/4MOKrYo3bMUWjUnSirhNz3"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 231546,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/2lORrsvCKbWd6OZd5GtqwJ"
+    },
+    {
+      "added_at": "2024-07-18 09:04:38",
+      "album": {
+        "name": "Happy in Hindsight",
+        "url": "https://open.spotify.com/album/4mbTJzPO8Y5RwlOLGiZLQs"
+      },
+      "artists": [
+        {
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
+        }
+      ],
+      "duration_ms": 213161,
+      "name": "Happy in Hindsight",
+      "url": "https://open.spotify.com/track/5TTI3j2PFfhjQ9LQT7Xllx"
     },
     {
       "added_at": "2024-07-18 09:04:38",
@@ -3471,6 +3471,26 @@
     {
       "added_at": "2024-07-18 09:04:38",
       "album": {
+        "name": "Make More Sound",
+        "url": "https://open.spotify.com/album/3Mtoiv4oQVGLCuS3J7oMuC"
+      },
+      "artists": [
+        {
+          "name": "Jacqueline Govaert",
+          "url": "https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li"
+        },
+        {
+          "name": "David Boucher",
+          "url": "https://open.spotify.com/artist/63Jl5AavWHBgiamzO0yPd2"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "Make More Sound",
+      "url": "https://open.spotify.com/track/1wshSNJUeTN1TYmNiljSJ5"
+    },
+    {
+      "added_at": "2024-07-18 09:04:38",
+      "album": {
         "name": "Can't Love",
         "url": "https://open.spotify.com/album/3Qx7wu5jT1IKEG0SGE6Qsl"
       },
@@ -3515,42 +3535,6 @@
       "duration_ms": 255000,
       "name": "Pennies From Heaven",
       "url": "https://open.spotify.com/track/3lctgxC0qiFwW20NCQn8Oe"
-    },
-    {
-      "added_at": "2024-07-18 09:04:38",
-      "album": {
-        "name": "Make More Sound",
-        "url": "https://open.spotify.com/album/3Mtoiv4oQVGLCuS3J7oMuC"
-      },
-      "artists": [
-        {
-          "name": "Jacqueline Govaert",
-          "url": "https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li"
-        },
-        {
-          "name": "David Boucher",
-          "url": "https://open.spotify.com/artist/63Jl5AavWHBgiamzO0yPd2"
-        }
-      ],
-      "duration_ms": 185493,
-      "name": "Make More Sound",
-      "url": "https://open.spotify.com/track/1wshSNJUeTN1TYmNiljSJ5"
-    },
-    {
-      "added_at": "2024-07-18 09:04:38",
-      "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/0ASbLMBmRueltuW4UX2j3A"
-      },
-      "artists": [
-        {
-          "name": "Lorr\u00e8n",
-          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
-        }
-      ],
-      "duration_ms": 212334,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/004ahAHS641tMDChzRvJPj"
     },
     {
       "added_at": "2024-07-18 09:04:38",
@@ -3615,6 +3599,22 @@
       "duration_ms": 178320,
       "name": "Blind",
       "url": "https://open.spotify.com/track/3anDmW1xckOuO95EgqpMkm"
+    },
+    {
+      "added_at": "2024-07-18 09:04:38",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/0ASbLMBmRueltuW4UX2j3A"
+      },
+      "artists": [
+        {
+          "name": "Lorr\u00e8n",
+          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
+        }
+      ],
+      "duration_ms": 212334,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/004ahAHS641tMDChzRvJPj"
     },
     {
       "added_at": "2024-07-18 09:04:38",
@@ -3687,22 +3687,6 @@
     {
       "added_at": "2024-07-18 09:04:38",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/31r84Xu8EUGaws9CrhlzV8"
-      },
-      "artists": [
-        {
-          "name": "Lisa Lois",
-          "url": "https://open.spotify.com/artist/1dGsUN9Hwx78H6MdDquxLL"
-        }
-      ],
-      "duration_ms": 223253,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/0JYPUB7FFVAew3qXxhfXVa"
-    },
-    {
-      "added_at": "2024-07-18 09:04:38",
-      "album": {
         "name": "December",
         "url": "https://open.spotify.com/album/4v3e28aK40aUcFkHjWVyiQ"
       },
@@ -3715,6 +3699,22 @@
       "duration_ms": 193466,
       "name": "December",
       "url": "https://open.spotify.com/track/6fNXxN4iNz3C316rt9PFYu"
+    },
+    {
+      "added_at": "2024-07-18 09:04:38",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/31r84Xu8EUGaws9CrhlzV8"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lois",
+          "url": "https://open.spotify.com/artist/1dGsUN9Hwx78H6MdDquxLL"
+        }
+      ],
+      "duration_ms": 223253,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/0JYPUB7FFVAew3qXxhfXVa"
     },
     {
       "added_at": "2024-07-18 09:04:38",
@@ -3735,18 +3735,18 @@
     {
       "added_at": "2024-07-18 09:04:38",
       "album": {
-        "name": "Call It Luck",
-        "url": "https://open.spotify.com/album/7bA32Baio6U41HINomt4KY"
+        "name": "One Last Chance (I Won't Let You Down)",
+        "url": "https://open.spotify.com/album/0O04QO41IgvIAV7GIy1Ai2"
       },
       "artists": [
         {
-          "name": "VanVelzen",
-          "url": "https://open.spotify.com/artist/3Lq6Tb3SbS4n6dVuCx0Zzi"
+          "name": "FRIDAY",
+          "url": "https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX"
         }
       ],
-      "duration_ms": 197532,
-      "name": "Call It Luck",
-      "url": "https://open.spotify.com/track/7yTfxJLtcHqcHlQev1pdbL"
+      "duration_ms": 199169,
+      "name": "One Last Chance (I Won't Let You Down) - Acoustic",
+      "url": "https://open.spotify.com/track/1TE4d1HGXHnkSo2vA4ZV5n"
     },
     {
       "added_at": "2024-07-18 09:04:38",
@@ -3767,18 +3767,18 @@
     {
       "added_at": "2024-07-18 09:04:38",
       "album": {
-        "name": "One Last Chance (I Won't Let You Down)",
-        "url": "https://open.spotify.com/album/0O04QO41IgvIAV7GIy1Ai2"
+        "name": "Call It Luck",
+        "url": "https://open.spotify.com/album/7bA32Baio6U41HINomt4KY"
       },
       "artists": [
         {
-          "name": "FRIDAY",
-          "url": "https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX"
+          "name": "VanVelzen",
+          "url": "https://open.spotify.com/artist/3Lq6Tb3SbS4n6dVuCx0Zzi"
         }
       ],
-      "duration_ms": 199169,
-      "name": "One Last Chance (I Won't Let You Down) - Acoustic",
-      "url": "https://open.spotify.com/track/1TE4d1HGXHnkSo2vA4ZV5n"
+      "duration_ms": 197532,
+      "name": "Call It Luck",
+      "url": "https://open.spotify.com/track/7yTfxJLtcHqcHlQev1pdbL"
     },
     {
       "added_at": "2024-07-18 09:04:38",

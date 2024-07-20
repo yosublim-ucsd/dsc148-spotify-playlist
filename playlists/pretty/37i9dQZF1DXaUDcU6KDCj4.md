@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: John Vincent III
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,835 likes - 150 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,921 likes - 150 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 6 | [So Far Gone \(feat\. Lizzy McAlpine\)](https://open.spotify.com/track/2ttemPsvqBdA8ItME6DCbL) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 3:16 |
 | 7 | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC) | 3:43 |
 | 8 | [Strangers](https://open.spotify.com/track/5Ca3pOobQ2LNGRWggfv73I) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP), [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Strangers](https://open.spotify.com/album/3HH1E3Vb3OL30V1kxKUSZF) | 2:34 |
-| 9 | [Fireflies and Southern Weather](https://open.spotify.com/track/2ADCUjWIIunQRw9OZ7qrth) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Fireflies and Southern Weather](https://open.spotify.com/album/1DEm1f02Qecy9KRu4EsRC7) | 3:53 |
+| 9 | [Fireflies & Southern Weather](https://open.spotify.com/track/2ADCUjWIIunQRw9OZ7qrth) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Fireflies & Southern Weather](https://open.spotify.com/album/1DEm1f02Qecy9KRu4EsRC7) | 3:53 |
 | 10 | [Firefight](https://open.spotify.com/track/4dnRA4RkcxIPtKpvKpo7um) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Firefight](https://open.spotify.com/album/1EFQeU8UvvTF0416pl5vOq) | 3:52 |
 | 11 | [Forgive My Deceit](https://open.spotify.com/track/2eeT0tEJFhrL3yiMLf09Po) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Forgive My Deceit](https://open.spotify.com/album/6PFN1RigCbz3GNRslMVPoY) | 3:07 |
 | 12 | [Your Whereabouts](https://open.spotify.com/track/0u08FMszSesnOl6lgVwzVt) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Til The Sun Goes Down](https://open.spotify.com/album/0aeDliyobnEL9wOBmLNSUe) | 2:43 |

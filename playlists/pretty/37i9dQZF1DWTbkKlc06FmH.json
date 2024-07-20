@@ -1,6 +1,6 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 131613,
+  "num_followers": 131640,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-07-17 06:21:09",
       "album": {
-        "name": "Cinderella",
-        "url": "https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 243952,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8"
-    },
-    {
-      "added_at": "2024-07-17 06:21:09",
-      "album": {
         "name": "Baddy On The Floor",
         "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 222315,
       "name": "Baddy On The Floor",
       "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
+    },
+    {
+      "added_at": "2024-07-17 06:21:09",
+      "album": {
+        "name": "Cinderella",
+        "url": "https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 243952,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8"
     },
     {
       "added_at": "2024-07-17 06:21:09",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-07-17 06:21:09",
       "album": {
-        "name": "SCIENCE FICTION",
-        "url": "https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 308695,
-      "name": "traveling - Re-Recording",
-      "url": "https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk"
-    },
-    {
-      "added_at": "2024-07-17 06:21:09",
-      "album": {
         "name": "Two Tens (feat. Anderson .Paak)",
         "url": "https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 152371,
       "name": "Two Tens (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
+    },
+    {
+      "added_at": "2024-07-17 06:21:09",
+      "album": {
+        "name": "SCIENCE FICTION",
+        "url": "https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 308695,
+      "name": "traveling - Re-Recording",
+      "url": "https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk"
     },
     {
       "added_at": "2024-07-17 06:21:09",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2024-07-17 06:21:09",
       "album": {
+        "name": "No Question",
+        "url": "https://open.spotify.com/album/6lpb6SknO3Jajwvz0BFXNO"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 142148,
+      "name": "No Question",
+      "url": "https://open.spotify.com/track/1gRajwEnMGfgpNtFdP0j9u"
+    },
+    {
+      "added_at": "2024-07-17 06:21:09",
+      "album": {
         "name": "Thrown Around",
         "url": "https://open.spotify.com/album/6dqfoHNZqWOM54L6TxMOXs"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 260407,
       "name": "Thrown Around",
       "url": "https://open.spotify.com/track/6hEiEWEgAuFvEJduuSQLiw"
-    },
-    {
-      "added_at": "2024-07-17 06:21:09",
-      "album": {
-        "name": "GANADARA",
-        "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 203727,
-      "name": "GANADARA (Feat. IU)",
-      "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
     },
     {
       "added_at": "2024-07-17 06:21:09",
@@ -1431,22 +1431,22 @@
     {
       "added_at": "2024-07-17 06:21:09",
       "album": {
-        "name": "No Question",
-        "url": "https://open.spotify.com/album/6lpb6SknO3Jajwvz0BFXNO"
+        "name": "GANADARA",
+        "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
       },
       "artists": [
         {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 142148,
-      "name": "No Question",
-      "url": "https://open.spotify.com/track/1gRajwEnMGfgpNtFdP0j9u"
+      "duration_ms": 203727,
+      "name": "GANADARA (Feat. IU)",
+      "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
     },
     {
       "added_at": "2024-07-17 06:21:09",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-07-17 06:21:09",
       "album": {
-        "name": "Samurai",
-        "url": "https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 194786,
-      "name": "Samurai",
-      "url": "https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ"
-    },
-    {
-      "added_at": "2024-07-17 06:21:09",
-      "album": {
         "name": "4EVA (feat. Pharrell Williams)",
         "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 208026,
       "name": "No Angels",
       "url": "https://open.spotify.com/track/7dBT63cDF9a76fAJyvRXCT"
+    },
+    {
+      "added_at": "2024-07-17 06:21:09",
+      "album": {
+        "name": "Samurai",
+        "url": "https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 194786,
+      "name": "Samurai",
+      "url": "https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ"
     },
     {
       "added_at": "2024-07-17 06:21:09",

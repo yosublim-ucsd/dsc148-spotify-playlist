@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: bby
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,667 likes - 131 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121,788 likes - 131 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 65 | [Death Grip](https://open.spotify.com/track/6uU6HSA2QLqNy6OIyaCbkb) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM), [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD) | [Death Grip](https://open.spotify.com/album/1J71Jvi9ZrCg1prlKhtMOI) | 3:11 |
 | 66 | [I Am Happy](https://open.spotify.com/track/5nDwo3rYfPVzKTxFX7JBRy) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [I Am Happy](https://open.spotify.com/album/2j3UeoEWrTnc6PVVbfBe6F) | 3:02 |
 | 67 | [To Be Alright](https://open.spotify.com/track/2XQAoWy82t8LtVTpRKdepd) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [To Be Alright](https://open.spotify.com/album/4j8V43kmmEB6z8H6axjDcn) | 4:05 |
-| 68 | [GEMINI \(feat\. Jackie Giroux\)](https://open.spotify.com/track/5j99dfS5X643RxuJdyizt3) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Jackie Giroux](https://open.spotify.com/artist/5QX6gWlu1rdoTKPZ9FiwYh) | [1\-800 FANTASY](https://open.spotify.com/album/4Hc9kwSIRb2jgE441FOueK) | 2:37 |
+| 68 | [GEMINI](https://open.spotify.com/track/5j99dfS5X643RxuJdyizt3) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Jackie Giroux](https://open.spotify.com/artist/5QX6gWlu1rdoTKPZ9FiwYh) | [1\-800 FANTASY](https://open.spotify.com/album/4Hc9kwSIRb2jgE441FOueK) | 2:37 |
 | 69 | [Coast](https://open.spotify.com/track/0qEDCvj7wCt5AAMusRcgFf) | [Kim Deal](https://open.spotify.com/artist/4JzQKxgdLmyqbplHxVL8xY) | [Coast](https://open.spotify.com/album/5I1AuEqWDLOdzS639w6lIZ) | 3:28 |
 | 70 | [I Was A Sailor](https://open.spotify.com/track/2qO4PvWDojlplbvSrCBUvF) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [I Was A Sailor](https://open.spotify.com/album/2RPZ0G0ZFhbewbFhi6u4em) | 4:00 |
 | 71 | [In The Dark](https://open.spotify.com/track/1IkiWXaS68JIK4ZdNLtHe8) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [In The Dark](https://open.spotify.com/album/1lvLwsaQXClUnNEICZaV7p) | 3:22 |

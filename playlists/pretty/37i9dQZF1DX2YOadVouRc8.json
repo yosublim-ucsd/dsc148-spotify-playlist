@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 25659,
+  "num_followers": 25667,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Galbi",
-        "url": "https://open.spotify.com/album/0Uad3EVytXLqLknoA7xVQ1"
-      },
-      "artists": [
-        {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        }
-      ],
-      "duration_ms": 143529,
-      "name": "Galbi",
-      "url": "https://open.spotify.com/track/2VgjGB1MMpkCTVVwKMSBjB"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
         "name": "Billions",
         "url": "https://open.spotify.com/album/2BwLuz9L140VU4vu1bMvV2"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 198545,
       "name": "ONOME",
       "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "Galbi",
+        "url": "https://open.spotify.com/album/0Uad3EVytXLqLknoA7xVQ1"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "duration_ms": 143529,
+      "name": "Galbi",
+      "url": "https://open.spotify.com/track/2VgjGB1MMpkCTVVwKMSBjB"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Boy Alone (Deluxe)",
-        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 147363,
-      "name": "reason",
-      "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
         "name": "Isibuko (Deluxe)",
         "url": "https://open.spotify.com/album/1lGqLdcBs9Ga0xKD8Cvb6U"
       },
@@ -955,6 +939,22 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
+        "name": "Boy Alone (Deluxe)",
+        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 147363,
+      "name": "reason",
+      "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
         "name": "Love Garden",
         "url": "https://open.spotify.com/album/6fT729N2aJQUsIJvY2L0N3"
       },
@@ -971,22 +971,6 @@
       "duration_ms": 150765,
       "name": "Love Garden",
       "url": "https://open.spotify.com/track/2Q0XIOSmJ8DAONrIimShb6"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
-        "name": "sweeeet",
-        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 111229,
-      "name": "sweeeet",
-      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1027,6 +1011,22 @@
       "duration_ms": 163271,
       "name": "Reset (feat. Crayon & Bella Shmurda)",
       "url": "https://open.spotify.com/track/44GVJ3qYXpV3fbl1jhEIUs"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "sweeeet",
+        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 111229,
+      "name": "sweeeet",
+      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Bad Intentions",
-        "url": "https://open.spotify.com/album/5COQlZAbe4e3uklPQlOTuS"
-      },
-      "artists": [
-        {
-          "name": "Deola",
-          "url": "https://open.spotify.com/artist/6l1wMjMtPsD4Y7khSsbjyR"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 194181,
-      "name": "Bad Intentions",
-      "url": "https://open.spotify.com/track/27q7h5x84WFrJY3nuSazaB"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
         "name": "TEQUILA",
         "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 114419,
       "name": "Evidence",
       "url": "https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "Bad Intentions",
+        "url": "https://open.spotify.com/album/5COQlZAbe4e3uklPQlOTuS"
+      },
+      "artists": [
+        {
+          "name": "Deola",
+          "url": "https://open.spotify.com/artist/6l1wMjMtPsD4Y7khSsbjyR"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 194181,
+      "name": "Bad Intentions",
+      "url": "https://open.spotify.com/track/27q7h5x84WFrJY3nuSazaB"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Fallen Angel",
-        "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
-      },
-      "artists": [
-        {
-          "name": "Smallgod",
-          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "Fallen Angel",
-      "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
         "name": "Your Body",
         "url": "https://open.spotify.com/album/78gHWIm7BzgTfUgVAq67z7"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 151462,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/58aqMiOHapRaGUdHnbeE1T"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 200869,
+      "name": "Fallen Angel",
+      "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/51xSh3oKnYhYi77871elgq"
+      },
+      "artists": [
+        {
+          "name": "Teemanay",
+          "url": "https://open.spotify.com/artist/73mZwsrUqiDDoyD1FMVc7l"
+        }
+      ],
+      "duration_ms": 167653,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/3ymSx5mCHlWAeb1yF6ZAPb"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
         "name": "Dalilah II",
         "url": "https://open.spotify.com/album/1axrqyHSrmprv2iwLbClVb"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 178775,
       "name": "Dalilah II",
       "url": "https://open.spotify.com/track/3pU5thrIWedorXzDa3gOjb"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/51xSh3oKnYhYi77871elgq"
-      },
-      "artists": [
-        {
-          "name": "Teemanay",
-          "url": "https://open.spotify.com/artist/73mZwsrUqiDDoyD1FMVc7l"
-        }
-      ],
-      "duration_ms": 167653,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/3ymSx5mCHlWAeb1yF6ZAPb"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "808 Rhapsody",
-        "url": "https://open.spotify.com/album/1uK5egVvMJTYZSVc1P7axG"
-      },
-      "artists": [
-        {
-          "name": "DJ 808",
-          "url": "https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 149387,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/2cVoUBlzLq5lY6fAHj3Pwr"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
         "name": "AREA BOYZ",
         "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
       },
@@ -1519,6 +1499,26 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
+        "name": "808 Rhapsody",
+        "url": "https://open.spotify.com/album/1uK5egVvMJTYZSVc1P7axG"
+      },
+      "artists": [
+        {
+          "name": "DJ 808",
+          "url": "https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 149387,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/2cVoUBlzLq5lY6fAHj3Pwr"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
         "name": "Go Harder",
         "url": "https://open.spotify.com/album/3s7mMPvH9b5JPEIWw4esUj"
       },
@@ -1539,22 +1539,22 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "YP & Azanti, Vol. 2",
-        "url": "https://open.spotify.com/album/1Tzeuej4iQfKwNKvP8rfjA"
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/3hEMQKXVKJWkoOu6Cj0Nhc"
       },
       "artists": [
         {
-          "name": "Azanti",
-          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         },
         {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
         }
       ],
-      "duration_ms": 167997,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/7sHxAEgRz0meKP8hw46mhu"
+      "duration_ms": 176692,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/1ZBoY6ta9ANMD19SGsp7JN"
     }
   ],
   "unique_name": "Afro Chill",

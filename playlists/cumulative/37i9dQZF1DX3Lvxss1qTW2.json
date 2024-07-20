@@ -459,28 +459,6 @@
     },
     {
       "album": {
-        "name": "Alusa Why Are You Topless? (Deluxe)",
-        "url": "https://open.spotify.com/album/6piDT78sQ40k6xC5r9A8st"
-      },
-      "artists": [
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        },
-        {
-          "name": "Wretch 32",
-          "url": "https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq"
-        }
-      ],
-      "date_added": "2024-07-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 189357,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/2ovgT7Y4gcvZkVFf3cd320"
-    },
-    {
-      "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/3444myYgBDVDQaSpHjS0rB"
       },
@@ -496,6 +474,32 @@
       "duration_ms": 142373,
       "name": "Finally",
       "url": "https://open.spotify.com/track/7K421TaU7VnlOYYNfftd8A"
+    },
+    {
+      "album": {
+        "name": "Alusa Why Are You Topless? (Deluxe)",
+        "url": "https://open.spotify.com/album/6piDT78sQ40k6xC5r9A8st"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        },
+        {
+          "name": "Wretch 32",
+          "url": "https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq"
+        },
+        {
+          "name": "Sons of Sonix",
+          "url": "https://open.spotify.com/artist/24ml2a3Gc8V9UX6DfAhdqZ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189357,
+      "name": "Finally (feat. Sons of Sonix)",
+      "url": "https://open.spotify.com/track/2ovgT7Y4gcvZkVFf3cd320"
     },
     {
       "album": {

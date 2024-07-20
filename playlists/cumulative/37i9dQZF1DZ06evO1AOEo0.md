@@ -4,7 +4,7 @@
 
 > This is Shane & Shane\. The essential tracks, all in one playlist.
 
-69 songs - 5 hr 39 min
+70 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Draw Me Close](https://open.spotify.com/track/4cXn1bMqeZjyE65Ajl3Au8) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage](https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu) | 5:54 | 2023-03-17 |  |
 | [Give Me Jesus](https://open.spotify.com/track/0RsaQMxAuonHIVM7pjQm6S) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 4:42 | 2023-03-17 |  |
 | [Goodness of God](https://open.spotify.com/track/55TW6H9X6pMfiOhmPk4luE) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Bethany Barnard](https://open.spotify.com/artist/7Gv0LZfeF8TMugerDVAMDk) | [The Worship Initiative, Vol\. 17](https://open.spotify.com/album/0cxR2OoCW1u1F2wAWciDjZ) | 5:04 | 2024-03-20 |  |
+| [Grace Flows Down](https://open.spotify.com/track/2Stkuv3LO3UYhQTsIcEzYq) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage, Vol\. 2](https://open.spotify.com/album/25aDYnEtVSRnxFEghUmGGy) | 4:16 | 2024-07-20 |  |
 | [Great I Am](https://open.spotify.com/track/21ttJ3sHDRuWEQqOCzbKLv) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 12](https://open.spotify.com/album/2vjhzwPDUzGP8Rp2iddddV) | 4:21 | 2023-03-17 | 2024-01-29 |
 | [Great Is Thy Faithfulness](https://open.spotify.com/track/73ZGW3v5caUFBsHSkQQfpX) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 6](https://open.spotify.com/album/5EXvIcWFtIjQOIe4aWd6Vw) | 4:31 | 2023-03-17 |  |
 | [Great Things](https://open.spotify.com/track/5BsG3NwkHDcCHtvvBnUmVb) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 18](https://open.spotify.com/album/1cNnDUzgbdJG0i4GVrb609) | 4:49 | 2023-03-17 | 2023-09-10 |
@@ -67,7 +68,7 @@
 | [Tell the Story \(Psalm 8\) \- Live](https://open.spotify.com/track/5ujsO21VAHuwmoNIdo3tdV) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Worship in The Word \(Live\)](https://open.spotify.com/album/2r1bFBFghxJUoSmJe5eTIJ) | 5:26 | 2023-03-17 | 2023-04-05 |
 | [The Lord Is My Salvation](https://open.spotify.com/track/2hGceYvgFdrhriDL1KKDLF) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 6:11 | 2023-03-17 |  |
 | [Though You Slay Me](https://open.spotify.com/track/2Ujuq5IFtnJJ7b63okoUo6) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Bring Your Nothing](https://open.spotify.com/album/2NsOkopEDusRSAYfXClwBa) | 4:38 | 2023-03-17 |  |
-| [Thy Word / Where Else Would I Go](https://open.spotify.com/track/4DNg9Fj8uPHFHyP9FiToOr) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Thy Word / Where Else Would I Go](https://open.spotify.com/album/4MvZpn0juam6DajxgdwOI2) | 4:57 | 2024-06-30 |  |
+| [Thy Word / Where Else Would I Go](https://open.spotify.com/track/4DNg9Fj8uPHFHyP9FiToOr) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Thy Word / Where Else Would I Go](https://open.spotify.com/album/4MvZpn0juam6DajxgdwOI2) | 4:57 | 2024-06-30 | 2024-07-20 |
 | [Turn Your Eyes Upon Jesus \(Acoustic\)](https://open.spotify.com/track/5sM3BfN131EnsfNUxJYIJz) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns in the Round](https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf) | 4:50 | 2023-03-17 |  |
 | [Unto Him \(Jude 24\-25\) \- Live](https://open.spotify.com/track/3xlbN7RNiqrpMo4YCzUrkR) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs \(Live\)](https://open.spotify.com/album/5HQ1DoBSvOsNK0hTw0NvPv) | 4:33 | 2023-03-26 | 2023-12-14 |
 | [Worthy of It All \- Live](https://open.spotify.com/track/0adk2kXGdxRVILjoFUUeX4) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 25 \(Live\)](https://open.spotify.com/album/6AaJ2dqRVXDBEDC4HsaP7Q) | 6:21 | 2023-03-17 |  |

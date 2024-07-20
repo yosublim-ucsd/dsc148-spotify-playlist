@@ -2659,6 +2659,24 @@
     },
     {
       "album": {
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/1FTD5Ik0Ex0MofuRwt8eYR"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217018,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/6RfgvYyQaM3lFys834sWwx"
+    },
+    {
+      "album": {
         "name": "Stay Together",
         "url": "https://open.spotify.com/album/7Hlsir9c1oIMeWCTLUxn9e"
       },

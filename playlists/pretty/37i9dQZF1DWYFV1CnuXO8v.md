@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 
 > عيش أجمل حالة حب 🫶❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,884 likes - 99 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,026 likes - 99 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 31 | [حكايتنا كملت](https://open.spotify.com/track/61y67cugb9V3cJPhS7IY91) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [حكايتنا كملت](https://open.spotify.com/album/0Su6W3vrDEQcltG8oaAotv) | 4:54 |
 | 32 | [Aamel Nasini](https://open.spotify.com/track/7qBENtVsjHWpkCNKTTGyJN) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Bi Saraha](https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E) | 3:25 |
 | 33 | [Ana Baatereflek](https://open.spotify.com/track/1yr0M7Rkxkg455mvX3ykFe) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Farek Maak](https://open.spotify.com/album/0zt22H9eN3LdvDc8U4PzUM) | 3:53 |
-| 34 | [بيكلموني](https://open.spotify.com/track/4CJIs5dygfQCbByVKAnK2T) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [خليني أشوفك](https://open.spotify.com/album/5JwGbgFci3q0pLCKHzGZPc) | 5:16 |
-| 35 | [Monaya](https://open.spotify.com/track/3vL0Y0ixJVfLR9NWCtdzV4) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [Monaya](https://open.spotify.com/album/1ZoNpXuq1Hw04ZWWZVslOX) | 3:33 |
-| 36 | [Etamen](https://open.spotify.com/track/5ti8xf2EXHvNFipCq7MzNa) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Ekhtart Sah](https://open.spotify.com/album/3wfH8A6DyBlbWWyzonseqf) | 5:16 |
-| 37 | [Piece Of My Heart](https://open.spotify.com/track/0ifZ1W4CLyLdFzI29hmQFM) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Piece Of My Heart](https://open.spotify.com/album/6vY2pZ4Rzik0z0sC0D677x) | 3:09 |
+| 34 | [Monaya](https://open.spotify.com/track/3vL0Y0ixJVfLR9NWCtdzV4) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [Monaya](https://open.spotify.com/album/1ZoNpXuq1Hw04ZWWZVslOX) | 3:33 |
+| 35 | [Etamen](https://open.spotify.com/track/5ti8xf2EXHvNFipCq7MzNa) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Ekhtart Sah](https://open.spotify.com/album/3wfH8A6DyBlbWWyzonseqf) | 5:16 |
+| 36 | [Piece Of My Heart](https://open.spotify.com/track/0ifZ1W4CLyLdFzI29hmQFM) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Piece Of My Heart](https://open.spotify.com/album/6vY2pZ4Rzik0z0sC0D677x) | 3:09 |
+| 37 | [بيكلموني](https://open.spotify.com/track/4CJIs5dygfQCbByVKAnK2T) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [خليني أشوفك](https://open.spotify.com/album/5JwGbgFci3q0pLCKHzGZPc) | 5:16 |
 | 38 | [Esmaa Kalamy](https://open.spotify.com/track/4WI8gWUhvwXSN9sBSUDF87) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [Hob Emtelak](https://open.spotify.com/album/6sjEZxXzUccxxRukfuTVRk) | 4:04 |
 | 39 | [3Einy Shayfa Feky](https://open.spotify.com/track/4rw8BWRPe0wlHnJA0T8MkD) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [3Einy Shayfa Feky](https://open.spotify.com/album/6z3aFsAQZuErSIJYqnn0HW) | 3:19 |
 | 40 | [⁠Farhana Maak](https://open.spotify.com/track/4dyjX3gwtq9XZT8iEzYZlJ) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ana Sekketen](https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o) | 4:40 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 45 | [Ya Waheshny](https://open.spotify.com/track/4GJKGy6B1G1G4g7fRkKfEh) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Ekhtart Sah](https://open.spotify.com/album/3wfH8A6DyBlbWWyzonseqf) | 3:29 |
 | 46 | [Kalam](https://open.spotify.com/track/223vFuFO1hTOQv52qGQhnc) | [Amer Mounib](https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0) | [Hazi Men El Sama](https://open.spotify.com/album/75Kiblzf1quriTV61vlQ5o) | 3:59 |
 | 47 | [Esheq El Rooh](https://open.spotify.com/track/0qwdAX3DeYDfu8MvjtWAux) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Lehqt Nafsy \- Part 2](https://open.spotify.com/album/2wiOuShzVOsXIihxOWZb1Y) | 4:50 |
-| 48 | [⁠El Nazra El Oula](https://open.spotify.com/track/4i4kb4Nj3mXIWQ2OR7zR4o) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ana Sekketen](https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o) | 3:46 |
-| 49 | [Awel Mara Etabelna](https://open.spotify.com/track/1ifVT3ZS6GZEmOhJI050Sq) | [Hani Adel](https://open.spotify.com/artist/2mqNN3AwsqhYMAGDlCwjOS), [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Awel Mara Etabelna](https://open.spotify.com/album/67TRGAtN2Sh2F6DuAeknju) | 3:38 |
+| 48 | [Awel Mara Etabelna](https://open.spotify.com/track/1ifVT3ZS6GZEmOhJI050Sq) | [Hani Adel](https://open.spotify.com/artist/2mqNN3AwsqhYMAGDlCwjOS), [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Awel Mara Etabelna](https://open.spotify.com/album/67TRGAtN2Sh2F6DuAeknju) | 3:38 |
+| 49 | [⁠El Nazra El Oula](https://open.spotify.com/track/4i4kb4Nj3mXIWQ2OR7zR4o) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ana Sekketen](https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o) | 3:46 |
 | 50 | [Zayyo Tani](https://open.spotify.com/track/6QcRW2RF2qAix4a1GT11V5) | [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7) | [Zayyo Tani](https://open.spotify.com/album/11WjHbnypl5Se90ozg0RoE) | 3:25 |
 | 51 | [Khaleke Fe Hodny el Leila](https://open.spotify.com/track/5U7cXLPY3RyLxKF5bVGClf) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Khaleke Fe Hodny el Leila](https://open.spotify.com/album/7hmxZMPPjo5hZhJyFWrnI4) | 3:20 |
 | 52 | [اصحى للكلام](https://open.spotify.com/track/2UT9rAvXb95knln6VgVgtT) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [اصحى للكلام](https://open.spotify.com/album/0Fx94IBKPo7V7CCRwIVgH1) | 3:14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Kaz Bałagane, Oskar83
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,635 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,753 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 44 | [Plaster](https://open.spotify.com/track/6epWbDEEEOakzBeyNr69MO) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [CERBER EP](https://open.spotify.com/album/2s9Jf5Ir7sG2uFYzFWkxSU) | 2:35 |
 | 45 | [KLASA BIZNES](https://open.spotify.com/track/4T2ptE8viH8ZlnQjgpDI5d) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft) | [KLASA BIZNES](https://open.spotify.com/album/4Tg3fRIvijtCEr4073TNQq) | 2:31 |
 | 46 | [W GORĄCEJ WODZIE COMPANY](https://open.spotify.com/track/6RL09jLWzXpMaWUKU0aenO) | [rów babicze](https://open.spotify.com/artist/7G7Cn1swPVhPV4V3PNNXP1) | [W GORĄCEJ WODZIE COMPANY](https://open.spotify.com/album/2OQ9ainyoTDqhKn5CjxvUA) | 2:46 |
-| 47 | [Red Flag](https://open.spotify.com/track/7JcJGXbYk5K6KUngkEXuiA) | [Kaz Bałagane](https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT), [yungwilku](https://open.spotify.com/artist/37DSRXFdho53PJrpiYNrZF), [2latefor](https://open.spotify.com/artist/17gX3tD2iLMYlMGE3fXiq1) | [Red Flag](https://open.spotify.com/album/6Xn69ub1xLQzXQVe5feCaH) | 3:00 |
+| 47 | [Red Flag](https://open.spotify.com/track/7JcJGXbYk5K6KUngkEXuiA) | [Kaz Bałagane](https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT) | [Red Flag](https://open.spotify.com/album/6Xn69ub1xLQzXQVe5feCaH) | 3:00 |
 | 48 | [Tylko Ciemność](https://open.spotify.com/track/2SD4ey1A551YvZWlhQpTPA) | [KęKę](https://open.spotify.com/artist/11ohMXkA2KIq5F1DoWH2jj), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [04:01](https://open.spotify.com/album/0rMY6sS2J58oeblsjSWx1G) | 3:12 |
 | 49 | [„Tak to leciało!”](https://open.spotify.com/track/77qp2lzKsMmOeyKbtnoSVI) | [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF) | [TTHE GRIND](https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP) | 2:37 |
 | 50 | [intro do płyty mojego życia](https://open.spotify.com/track/2U8H8z1JYFRUcKFpoLLLiJ) | [kuqe 2115](https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [intro do płyty mojego życia](https://open.spotify.com/album/1Kv1WndVgSZhwOxIbwmUKg) | 3:13 |

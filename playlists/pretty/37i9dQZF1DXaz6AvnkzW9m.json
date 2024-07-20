@@ -1,6 +1,6 @@
 {
   "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20  Picus y Octavio Cuadras en portada.",
-  "num_followers": 131315,
+  "num_followers": 131348,
   "original_name": "Trap Corridos",
   "owner": {
     "name": "Spotify",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-07-12 16:46:52",
       "album": {
-        "name": "SC-9",
-        "url": "https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 165261,
-      "name": "SC-9",
-      "url": "https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon"
-    },
-    {
-      "added_at": "2024-07-12 16:46:52",
-      "album": {
         "name": "Ojos Tumbados",
         "url": "https://open.spotify.com/album/7rxhqZe4tBOackaMInfpjU"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 218980,
       "name": "Ojos Tumbados",
       "url": "https://open.spotify.com/track/2uHEX5YxQU9wpHH0dQlChS"
+    },
+    {
+      "added_at": "2024-07-12 16:46:52",
+      "album": {
+        "name": "SC-9",
+        "url": "https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 165261,
+      "name": "SC-9",
+      "url": "https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon"
     },
     {
       "added_at": "2024-07-12 16:46:52",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-12 16:46:52",
       "album": {
-        "name": "Va En Serio",
-        "url": "https://open.spotify.com/album/1IX7xMQ6ZRtsCU01kFyRXu"
-      },
-      "artists": [
-        {
-          "name": "Los Master Plus",
-          "url": "https://open.spotify.com/artist/5mrBEGdNTaiavWCmaNet6z"
-        }
-      ],
-      "duration_ms": 167130,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/50KucaDoVIZ6Uhyt52gNbQ"
-    },
-    {
-      "added_at": "2024-07-12 16:46:52",
-      "album": {
         "name": "Moda",
         "url": "https://open.spotify.com/album/3cFGhTtaIJJfJWYkeNQ2o2"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 175804,
       "name": "Moda",
       "url": "https://open.spotify.com/track/3y7SyqSwwDm8Ku6v3ZfQDf"
+    },
+    {
+      "added_at": "2024-07-12 16:46:52",
+      "album": {
+        "name": "Va En Serio",
+        "url": "https://open.spotify.com/album/1IX7xMQ6ZRtsCU01kFyRXu"
+      },
+      "artists": [
+        {
+          "name": "Los Master Plus",
+          "url": "https://open.spotify.com/artist/5mrBEGdNTaiavWCmaNet6z"
+        }
+      ],
+      "duration_ms": 167130,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/50KucaDoVIZ6Uhyt52gNbQ"
     },
     {
       "added_at": "2024-07-12 16:46:52",

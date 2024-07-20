@@ -1,6 +1,6 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 671273,
+  "num_followers": 671372,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
@@ -343,26 +343,6 @@
     {
       "added_at": "2024-07-05 14:05:03",
       "album": {
-        "name": "Resistencia",
-        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 216148,
-      "name": "Yandel 150",
-      "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
-    },
-    {
-      "added_at": "2024-07-05 14:05:03",
-      "album": {
         "name": "Sola (Remix)",
         "url": "https://open.spotify.com/album/2ucmNNr2Y9ZI7fP4oAMdIj"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 307910,
       "name": "Sola (Remix)",
       "url": "https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65"
+    },
+    {
+      "added_at": "2024-07-05 14:05:03",
+      "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 216148,
+      "name": "Yandel 150",
+      "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
     },
     {
       "added_at": "2024-07-05 14:05:03",
@@ -583,30 +583,6 @@
     {
       "added_at": "2024-07-05 14:05:03",
       "album": {
-        "name": "\u00c9pico",
-        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 266086,
-      "name": "Soltera (Remix)",
-      "url": "https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z"
-    },
-    {
-      "added_at": "2024-07-05 14:05:03",
-      "album": {
         "name": "ULTRA SOLO REMIX",
         "url": "https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm"
       },
@@ -635,6 +611,30 @@
       "duration_ms": 322347,
       "name": "ULTRA SOLO REMIX",
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"
+    },
+    {
+      "added_at": "2024-07-05 14:05:03",
+      "album": {
+        "name": "\u00c9pico",
+        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 266086,
+      "name": "Soltera (Remix)",
+      "url": "https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z"
     },
     {
       "added_at": "2024-07-05 14:05:03",
@@ -779,6 +779,26 @@
     {
       "added_at": "2024-07-05 14:05:03",
       "album": {
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+    },
+    {
+      "added_at": "2024-07-05 14:05:03",
+      "album": {
         "name": "UH LA LA LA",
         "url": "https://open.spotify.com/album/1opiHmX43rg1QONktnVcd7"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 167058,
       "name": "UH LA LA LA",
       "url": "https://open.spotify.com/track/2eV3pmYGM1bm1vWHc0t8WF"
-    },
-    {
-      "added_at": "2024-07-05 14:05:03",
-      "album": {
-        "name": "MAMIII",
-        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 226088,
-      "name": "MAMIII",
-      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
     },
     {
       "added_at": "2024-07-05 14:05:03",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2024-07-05 14:05:03",
       "album": {
+        "name": "MALA SANTA",
+        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 256519,
+      "name": "Cuando Te Bes\u00e9",
+      "url": "https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta"
+    },
+    {
+      "added_at": "2024-07-05 14:05:03",
+      "album": {
         "name": "La Jeepeta (Remix)",
         "url": "https://open.spotify.com/album/5emzM1P5GGeroiivNQgCq4"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 261665,
       "name": "Fiel",
       "url": "https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs"
-    },
-    {
-      "added_at": "2024-07-05 14:05:03",
-      "album": {
-        "name": "MALA SANTA",
-        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 256519,
-      "name": "Cuando Te Bes\u00e9",
-      "url": "https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta"
     },
     {
       "added_at": "2024-07-05 14:05:03",
@@ -1203,42 +1203,6 @@
     {
       "added_at": "2024-07-05 14:05:03",
       "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/3YLXKSgU5SrzzkBbwzBQC2"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 377580,
-      "name": "M\u00edrame - Remix",
-      "url": "https://open.spotify.com/track/53uKGbcMjEc2gIWbfmvpdS"
-    },
-    {
-      "added_at": "2024-07-05 14:05:03",
-      "album": {
         "name": "The Perfect Melody",
         "url": "https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v"
       },
@@ -1295,6 +1259,42 @@
       "duration_ms": 203636,
       "name": "No_se_ve.mp3",
       "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
+    },
+    {
+      "added_at": "2024-07-05 14:05:03",
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/3YLXKSgU5SrzzkBbwzBQC2"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 377580,
+      "name": "M\u00edrame - Remix",
+      "url": "https://open.spotify.com/track/53uKGbcMjEc2gIWbfmvpdS"
     },
     {
       "added_at": "2024-07-05 14:05:03",

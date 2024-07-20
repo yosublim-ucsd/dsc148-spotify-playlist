@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: bohemianvoodoo
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,725 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,740 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 21 | [N.E.W.](https://open.spotify.com/track/0uniIrDLtvdypzbMtmLmVV) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 5:45 |
 | 22 | [regalecus glesne \- feat.元晴 & 柴田亮](https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7) | [BimBomBam Orchestra](https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6), [元晴](https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L), [柴田亮](https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu) | [regalecus glesne \(feat.元晴 & 柴田亮\)](https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ) | 7:07 |
 | 23 | [Disordered Trip](https://open.spotify.com/track/1TL5dclhMJ7Be0qnTKZ2oe) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Disordered Trip](https://open.spotify.com/album/0p4X5GGQHPJdgfvJ8NOEL1) | 3:57 |
-| 24 | [qualia](https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [qualia](https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP) | 3:24 |
+| 24 | [Blue Eyed Monster](https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [TVアニメーション「BEM」オリジナルサウンドトラック　OUTSIDE](https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr) | 4:10 |
 | 25 | [Purple](https://open.spotify.com/track/6nCe4faA9KsbypblyqcApZ) | [stim](https://open.spotify.com/artist/0waPc4GXTg5faPNYSD4l1g) | [Purple](https://open.spotify.com/album/3M1sVKiqJFIzCjkuqYNeJP) | 5:11 |
-| 26 | [Blue Eyed Monster](https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [TVアニメーション「BEM」オリジナルサウンドトラック　OUTSIDE](https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr) | 4:10 |
+| 26 | [qualia](https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [qualia](https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP) | 3:24 |
 | 27 | [朝焼け \- Live at Chuo Kaikan Hall, Tokyo, Feb\. 1982](https://open.spotify.com/track/3kn85OLlFlbQDCiKmj17MO) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [MINT JAMS\(Live\)](https://open.spotify.com/album/2yvR4wVM1XLEKVad6F3ja9) | 4:58 |
 | 28 | [夜間航路 \- Album Mix](https://open.spotify.com/track/4KvnG2uCuv6vkirDtt3mA5) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Discovery](https://open.spotify.com/album/67ygKtkMebXurAs2ihwzAg) | 3:56 |
 | 29 | [Blazin’ \- DJ KAWASAKI Recreated Fusion Funk Mix](https://open.spotify.com/track/1l31wrU5dinNLZh6dPmY75) | [DJ KAWASAKI](https://open.spotify.com/artist/0SCF6DFbfs4N5VtmfOlHhe), [Karin](https://open.spotify.com/artist/2NMVmmT0al17xSOnWO1J1M) | [BRIDGE INTO THE FUTURE \- DJ KAWASAKI RECREATED TRACKS](https://open.spotify.com/album/1PEatkcPFDfn3Ujo7w1ocL) | 6:50 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 36 | [Ephemeral summer](https://open.spotify.com/track/5Xc665FkyzjWgT1dYBjop0) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Floating in the midnight sun](https://open.spotify.com/album/2Nj6K8d0eTviOrZDH6MwR2) | 4:20 |
 | 37 | [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 |
 | 38 | [On My Way Home](https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Susanna](https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF) | 3:15 |
-| 39 | [Horns Riot](https://open.spotify.com/track/23Qd9pGRAGYvkW769SDCIg) | [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia), [Calmera](https://open.spotify.com/artist/5EQqINW9nAQs8lw8BzjQXw) | [Horns Riot](https://open.spotify.com/album/75yKmLPDLWt0G9RdDlHNY6) | 4:07 |
-| 40 | [枯葉 \~Autumn Leaves\~ \(jazz standard\)](https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx) | [SANOVA](https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt) | [BLISS](https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi) | 3:05 |
+| 39 | [枯葉 \~Autumn Leaves\~ \(jazz standard\)](https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx) | [SANOVA](https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt) | [BLISS](https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi) | 3:05 |
+| 40 | [Horns Riot](https://open.spotify.com/track/23Qd9pGRAGYvkW769SDCIg) | [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia), [Calmera](https://open.spotify.com/artist/5EQqINW9nAQs8lw8BzjQXw) | [Horns Riot](https://open.spotify.com/album/75yKmLPDLWt0G9RdDlHNY6) | 4:07 |
 | 41 | [石の教会](https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [MOMENTS](https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD) | 4:37 |
 | 42 | [Infinite Mirror](https://open.spotify.com/track/6Ud16saJTj7RYZolKEENE3) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [Phantasia](https://open.spotify.com/album/61kijqkLmurIjlNOv65WYJ) | 4:39 |
 | 43 | [Ready?](https://open.spotify.com/track/1Nz4KHTLNnnc2Wl6teppUR) | [MIDORINOMARU](https://open.spotify.com/artist/4ZBnxeDmHTLJZPQWmbINhu) | [Ready?](https://open.spotify.com/album/1gnPX2apuEEOkRwsDQOdtw) | 4:35 |

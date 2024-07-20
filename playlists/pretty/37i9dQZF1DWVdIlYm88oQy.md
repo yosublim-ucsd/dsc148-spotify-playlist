@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 
 > The Latin soundtrack of the 70s! Cover: Julio Iglesias
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,720 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,766 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 36 | [La Cartera](https://open.spotify.com/track/1mpKcP8f2gQrInkh2FLb1N) | [Orquesta Harlow](https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W), [Larry Harlow](https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J), [Junior Gonzalez](https://open.spotify.com/artist/7cRTfuZ5VJhWfVjuN3XGyY) | [Salsa](https://open.spotify.com/album/5Q5kjxNsrkZ2ImkRUi7w3c) | 6:26 |
 | 37 | [Linda](https://open.spotify.com/track/5xUq5PLTPA7CTlAXihrxSD) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Linda](https://open.spotify.com/album/0Sa8iYYa4GrOmEQ2krwnTq) | 3:49 |
 | 38 | [Rasguña las Piedras](https://open.spotify.com/track/3lvAzKmRH8vzXQ4xm19v78) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Confesiones De Invierno](https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx) | 3:11 |
-| 39 | [Mary Es Mi Amor](https://open.spotify.com/track/09z65EpYqmylHKjwRG6aEa) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Lo Esencial](https://open.spotify.com/album/6P35diX5YBvJ8NqVwcyDxj) | 3:12 |
+| 39 | [Adoro](https://open.spotify.com/track/00qP28OLPa3PQ7EmWBsaMK) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [A Mi Amor Con Mi Amor](https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu) | 2:21 |
 | 40 | [Falso Amor](https://open.spotify.com/track/4UcizizNU6ek3gYr59DX2j) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Falso Amor](https://open.spotify.com/album/2Df8guHfWqzoQQAhzMhUOr) | 2:56 |
 | 41 | [Dejenme Si Estoy Llorando](https://open.spotify.com/track/2CrwFR9V6mAbDhVr3co4uT) | [Nelson Ned](https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s) | [Antologia \(Volumen 2\)](https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy) | 3:01 |
-| 42 | [Adoro](https://open.spotify.com/track/00qP28OLPa3PQ7EmWBsaMK) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [A Mi Amor Con Mi Amor](https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu) | 2:21 |
+| 42 | [Mary Es Mi Amor](https://open.spotify.com/track/09z65EpYqmylHKjwRG6aEa) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Lo Esencial](https://open.spotify.com/album/6P35diX5YBvJ8NqVwcyDxj) | 3:12 |
 | 43 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 |
 | 44 | [Abrazame](https://open.spotify.com/track/4nqRbvEeGuV9jLCzC5OrMf) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [El Amor](https://open.spotify.com/album/5vejevOSlt0V2LUyliPM0w) | 3:31 |
 | 45 | [Paloma Negra](https://open.spotify.com/track/3zurIMqOVQiriB1oJlZxA8) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Joyas Rancheras Al Estilo](https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj) | 3:51 |

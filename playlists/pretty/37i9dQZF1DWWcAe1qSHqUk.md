@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,664 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,664 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 17 | [Stars Fell On Alabama](https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 3:52 |
 | 18 | [This Guy's In Love With You](https://open.spotify.com/track/3l91QxfQ9vyxq5AJU4D1FC) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [This Guy's In Love](https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy) | 3:43 |
 | 19 | [Full Moon](https://open.spotify.com/track/6KWqDGRYrY4T7sRdDhTnOX) | [OVN](https://open.spotify.com/artist/0E4q1wpuPwtqbDr6Okw304), [chrln](https://open.spotify.com/artist/5R1KD32YuMNzZszCHlZsHg) | [Full Moon](https://open.spotify.com/album/6IFHK7RBdfloqcLW53wroM) | 2:01 |
-| 20 | [And Then There Was You](https://open.spotify.com/track/1Yo6lvTsNozmc9Y9SA275E) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 3:05 |
-| 21 | [Why Try to Change Me Now](https://open.spotify.com/track/7fKA60i4JhkavVw7fQFOHS) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Best Is Yet to Come \- The Songs of Cy Coleman](https://open.spotify.com/album/2d6MOVjMtiiFoZNHK9Xk0p) | 5:16 |
+| 20 | [Why Try to Change Me Now](https://open.spotify.com/track/7fKA60i4JhkavVw7fQFOHS) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Best Is Yet to Come \- The Songs of Cy Coleman](https://open.spotify.com/album/2d6MOVjMtiiFoZNHK9Xk0p) | 5:16 |
+| 21 | [And Then There Was You](https://open.spotify.com/track/1Yo6lvTsNozmc9Y9SA275E) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 3:05 |
 | 22 | [Squeeze Me](https://open.spotify.com/track/5kyfBYQcu5Swr0i80s8zLJ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Only Trust Your Heart](https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC) | 5:37 |
 | 23 | [Save Your Love For Me](https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Around The City](https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO) | 4:00 |
 | 24 | [In the Air Tonight](https://open.spotify.com/track/66BpoZSfGes57WNcqbcMfZ) | [James Farrelli](https://open.spotify.com/artist/4KrX2lMNXFQrzpkZnDDJTg) | [In the Air](https://open.spotify.com/album/2iptrf1F1MypmQ9FJEE20k) | 4:45 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 66 | [THERE YOU ARE \(SECOND CHANCE\)](https://open.spotify.com/track/0Kws2a2GfsZlMKzdYm5aeC) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [LANGUAGE OF LOVE](https://open.spotify.com/album/1aZI6dE6paumZHjfgzwyjS) | 3:33 |
 | 67 | [These Things You Are to Me](https://open.spotify.com/track/4TaFVK9pEO6Wo3cFhRC0CQ) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [Jamison](https://open.spotify.com/album/0vTcCt6Pgf4nRntWOzXUU2) | 4:22 |
 | 68 | [What Are You Doing The Rest Of Your Life](https://open.spotify.com/track/4cZS6Zsn3H7Srg42UX7v5W) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU) | [On My Way to You](https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX) | 5:57 |
-| 69 | [Scotch and Soda](https://open.spotify.com/track/5DKiuGttXpShOHo23QILWG) | [Amanda Carr](https://open.spotify.com/artist/05F7ATDPBJrAcO6uIIoQRr) | [Carr Toons](https://open.spotify.com/album/7axCmFJWsyuWe8GrsIcmvJ) | 2:49 |
+| 69 | [Pretty Blue](https://open.spotify.com/track/39dek8lZZtNLMuHHFh2MUG) | [Kevin Mahogany](https://open.spotify.com/artist/7sJEt4QPDYhjJ9tcHSlhhN) | [The Vienna Affair](https://open.spotify.com/album/0osoqYEBr9ktCHCxiKXt0k) | 3:57 |
 | 70 | [Li'l Darlin](https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU) | [Monica Borrfors](https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb) | [Li'l Darlin](https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9) | 3:15 |
-| 71 | [Pretty Blue](https://open.spotify.com/track/39dek8lZZtNLMuHHFh2MUG) | [Kevin Mahogany](https://open.spotify.com/artist/7sJEt4QPDYhjJ9tcHSlhhN) | [The Vienna Affair](https://open.spotify.com/album/0osoqYEBr9ktCHCxiKXt0k) | 3:57 |
+| 71 | [Scotch and Soda](https://open.spotify.com/track/5DKiuGttXpShOHo23QILWG) | [Amanda Carr](https://open.spotify.com/artist/05F7ATDPBJrAcO6uIIoQRr) | [Carr Toons](https://open.spotify.com/album/7axCmFJWsyuWe8GrsIcmvJ) | 2:49 |
 | 72 | [As You Are](https://open.spotify.com/track/4NMmzP4VL8cPZmbBzr7zgI) | [Margareta Bengtson](https://open.spotify.com/artist/1JCdbZOcdCzEP77XJoj3Ov), [Jan Allan](https://open.spotify.com/artist/16oi0GQ9croDkKnFFCU1z6), [Anders Paulsson](https://open.spotify.com/artist/7ckFJ4mBSnZE1HYuF9DL2y), [Alberto Pinton](https://open.spotify.com/artist/3UjG2ialyrtso8EoqYavB2), [Third Saxes Galore](https://open.spotify.com/artist/5XylwFZ2XZhB1yGJ09z98X) | [As We Are](https://open.spotify.com/album/4NbKMvjr3BYWJydaVvwWjx) | 5:30 |
 | 73 | [Like Someone in Love](https://open.spotify.com/track/1my1nf6O10GIZEZRp2Cxv7) | [Elisabeth Melander](https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm) | [Reflections of a Voice](https://open.spotify.com/album/7nGWElWBanIzLOX3S6jeQH) | 4:25 |
 | 74 | [Hungry Like The Wolf](https://open.spotify.com/track/3zsLiaqjQR7CDURvq8o4W7) | [Dinah Eastwood](https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9) | [Jazz And 80s](https://open.spotify.com/album/0E3NKNhm72KqrGNNBx1sB0) | 4:03 |
-| 75 | [I Want To Talk About You](https://open.spotify.com/track/1qQlQID3eEJ9Nm4sgfKwF4) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [I Want To Talk About You](https://open.spotify.com/album/41ZrzvkOwvqsm0HliMBwrW) | 4:33 |
+| 75 | [Allways on my mind](https://open.spotify.com/track/1Ppff3gyyUBG91dPwjaWTW) | [Inger Marie Gundersen](https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq) | [Make this moment](https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY) | 5:14 |
 
 Snapshot ID: `ZotTsAAAAAD9gHQL9IaPmLmhGU6nEqYM`

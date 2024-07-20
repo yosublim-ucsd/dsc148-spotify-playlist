@@ -2975,6 +2975,24 @@
     },
     {
       "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/6Cw7KpRRtUrAXtDzCx5CUn"
+      },
+      "artists": [
+        {
+          "name": "Prayer Handz",
+          "url": "https://open.spotify.com/artist/11LK8QA4t0rsq3Mv5Bc3UW"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160227,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/5NKCLMiurWKVVeNzeNkkym"
+    },
+    {
+      "album": {
         "name": "Otherside",
         "url": "https://open.spotify.com/album/3tgBxVouYUu3PMOmyhoHsG"
       },

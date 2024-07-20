@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,808 likes - 125 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,854 likes - 125 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,15 +101,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 91 | [Broken](https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Broken](https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO) | 3:18 |
 | 92 | [Maze](https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Maze](https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj) | 3:03 |
 | 93 | [Be Someone](https://open.spotify.com/track/3OCFPScaJuLwmHJkqtVWoL) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Dark Matter](https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN) | 3:24 |
-| 94 | [Breathe](https://open.spotify.com/track/3UgUOY2mFLBueoiDuhC4m8) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [Kiiwi](https://open.spotify.com/artist/3Ise3P2bsbX7Fd5N8zc1oD) | [Breathe](https://open.spotify.com/album/1xZLqjELRfpo9cJsYFidtX) | 2:57 |
-| 95 | [Always](https://open.spotify.com/track/56jH9iqA8f2kwaoK8103hu) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 7:28 |
+| 94 | [Always](https://open.spotify.com/track/56jH9iqA8f2kwaoK8103hu) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 7:28 |
+| 95 | [Breathe](https://open.spotify.com/track/3UgUOY2mFLBueoiDuhC4m8) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [Kiiwi](https://open.spotify.com/artist/3Ise3P2bsbX7Fd5N8zc1oD) | [Breathe](https://open.spotify.com/album/1xZLqjELRfpo9cJsYFidtX) | 2:57 |
 | 96 | [About Us \(feat\. EMME\)](https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [About Us \(feat\. EMME\)](https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs) | 4:46 |
 | 97 | [Lençóis \(Love Me\) \- Notre Dame Remix](https://open.spotify.com/track/5eqCFsvNDpNqlRnaq7yYLw) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Lençóis \(Love Me\) \[Notre Dame Remix\]](https://open.spotify.com/album/1PcJTDyhWQ0zIvl5gbFPfZ) | 5:04 |
 | 98 | [win your love](https://open.spotify.com/track/3sw09qpH0FM5PRKcgJ358h) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [win your love](https://open.spotify.com/album/7rgMBpHoFHoyMFmoDmblst) | 3:35 |
-| 99 | [Cruel Heart](https://open.spotify.com/track/1xpSTNyLKRqHKHvBVLXYma) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Discipline](https://open.spotify.com/album/4N0eQEqf5YaMlGQ3VyFRRq) | 3:33 |
-| 100 | [Next to Me](https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Next to Me](https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN) | 5:14 |
-| 101 | [Lone Raver](https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Lone Raver](https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe) | 4:17 |
-| 102 | [Want You](https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Want You](https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc) | 3:58 |
+| 99 | [Lone Raver](https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Lone Raver](https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe) | 4:17 |
+| 100 | [Cruel Heart](https://open.spotify.com/track/1xpSTNyLKRqHKHvBVLXYma) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Discipline](https://open.spotify.com/album/4N0eQEqf5YaMlGQ3VyFRRq) | 3:33 |
+| 101 | [Want You](https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Want You](https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc) | 3:58 |
+| 102 | [Next to Me](https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Next to Me](https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN) | 5:14 |
 | 103 | [Calling On](https://open.spotify.com/track/6ByN6v7D5YUogv622VMGrk) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 4:35 |
 | 104 | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/album/08YZCza6AHI7EThW8xyX8L) | 3:47 |
 | 105 | [My Mistake](https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [My Mistake](https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN) | 3:15 |

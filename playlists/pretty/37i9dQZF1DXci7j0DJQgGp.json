@@ -1,6 +1,6 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1760830,
+  "num_followers": 1760831,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Lemon Tree",
-        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 248560,
-      "name": "Lemon Tree",
-      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "We've Been Going About This All Wrong",
         "url": "https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 239146,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 248560,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -699,26 +699,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Ready or Not (feat. Sierra Ferrell)",
-        "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 192901,
-      "name": "Ready or Not (feat. Sierra Ferrell)",
-      "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "3D Country",
         "url": "https://open.spotify.com/album/475CtqaU2OY24xBvIekWV6"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 168173,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4fqNoM2d2URotMit7GlmlI"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Ready or Not (feat. Sierra Ferrell)",
+        "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 192901,
+      "name": "Ready or Not (feat. Sierra Ferrell)",
+      "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Me Before You",
-        "url": "https://open.spotify.com/album/5Vu8Hm0i46IcPP6JNvT0jE"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 203519,
-      "name": "Me Before You",
-      "url": "https://open.spotify.com/track/0ap1L5LS0igd0zs4erqmT3"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Flag Day (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 181706,
       "name": "Go In Light (feat. Monica Martin)",
       "url": "https://open.spotify.com/track/4gWSTEBZxAvH1cKq2u8jfQ"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Me Before You",
+        "url": "https://open.spotify.com/album/5Vu8Hm0i46IcPP6JNvT0jE"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 203519,
+      "name": "Me Before You",
+      "url": "https://open.spotify.com/track/0ap1L5LS0igd0zs4erqmT3"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Burn The Hard Drive (feat. Mura Masa)",
-        "url": "https://open.spotify.com/album/2A7QGN8AFnIFthFrGXKKIi"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        },
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        }
-      ],
-      "duration_ms": 192832,
-      "name": "Burn The Hard Drive (feat. Mura Masa)",
-      "url": "https://open.spotify.com/track/2YK4w5AUbAyjgdokQuCzoj"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Lemon [Feat. Sharon Van Etten]",
         "url": "https://open.spotify.com/album/5TQRtgQRRNiXb2fIah2lE4"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 197880,
       "name": "Lemon [Feat. Sharon Van Etten]",
       "url": "https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Burn The Hard Drive (feat. Mura Masa)",
+        "url": "https://open.spotify.com/album/2A7QGN8AFnIFthFrGXKKIi"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        },
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "duration_ms": 192832,
+      "name": "Burn The Hard Drive (feat. Mura Masa)",
+      "url": "https://open.spotify.com/track/2YK4w5AUbAyjgdokQuCzoj"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Eyez",
         "url": "https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 220533,
       "name": "Eyez",
       "url": "https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Sad Disco (Pine Studios)",
-        "url": "https://open.spotify.com/album/0npdPWUNkxbMyPFa1rcb2X"
-      },
-      "artists": [
-        {
-          "name": "flipturn",
-          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
-        }
-      ],
-      "duration_ms": 227486,
-      "name": "Sad Disco (Pine Studios)",
-      "url": "https://open.spotify.com/track/2DuhJLdMNSskrd2KF8SRMr"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Radio Silence",
         "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 222760,
       "name": "Radio Silence",
       "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Sad Disco (Pine Studios)",
+        "url": "https://open.spotify.com/album/0npdPWUNkxbMyPFa1rcb2X"
+      },
+      "artists": [
+        {
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+        }
+      ],
+      "duration_ms": 227486,
+      "name": "Sad Disco (Pine Studios)",
+      "url": "https://open.spotify.com/track/2DuhJLdMNSskrd2KF8SRMr"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Joy'All",
-        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "Joy'All",
-      "url": "https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Holocene [feat. Weyes Blood]",
         "url": "https://open.spotify.com/album/4sZmMxrfujVWfFtYk6tfXH"
       },
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Far In",
-        "url": "https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e"
+        "name": "Joy'All",
+        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
       },
       "artists": [
         {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
         }
       ],
-      "duration_ms": 312000,
-      "name": "Outside the Outside",
-      "url": "https://open.spotify.com/track/73lkMzwEOTSJCzvsjJdWBS"
+      "duration_ms": 224493,
+      "name": "Joy'All",
+      "url": "https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1607,6 +1591,22 @@
       "duration_ms": 167892,
       "name": "Is It Real - Acoustic",
       "url": "https://open.spotify.com/track/0caKRlLbKc3HCRaf041HbU"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Far In",
+        "url": "https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Outside the Outside",
+      "url": "https://open.spotify.com/track/73lkMzwEOTSJCzvsjJdWBS"
     },
     {
       "added_at": "2024-03-08 16:42:43",

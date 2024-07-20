@@ -1,6 +1,6 @@
 {
   "description": "Pop favorites from today and yesterday",
-  "num_followers": 217527,
+  "num_followers": 217626,
   "original_name": "Pop Road Trip",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-07-12 20:17:50",
       "album": {
+        "name": "Shower",
+        "url": "https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 206166,
+      "name": "Shower",
+      "url": "https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ"
+    },
+    {
+      "added_at": "2024-07-12 20:17:50",
+      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 236133,
       "name": "Crazy In Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
-    },
-    {
-      "added_at": "2024-07-12 20:17:50",
-      "album": {
-        "name": "Shower",
-        "url": "https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 206166,
-      "name": "Shower",
-      "url": "https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ"
     },
     {
       "added_at": "2024-07-12 20:17:50",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-12 20:17:50",
       "album": {
-        "name": "A Girl Like Me",
-        "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 238920,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/30cSNer6TV8x2utjULVeQ5"
-    },
-    {
-      "added_at": "2024-07-12 20:17:50",
-      "album": {
         "name": "R.O.O.T.S. (Route of Overcoming the Struggle)",
         "url": "https://open.spotify.com/album/2vBLKFrI1rZqB7VtGxcsR5"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 204640,
       "name": "Right Round",
       "url": "https://open.spotify.com/track/3GpbwCm3YxiWDvy29Uo3vP"
+    },
+    {
+      "added_at": "2024-07-12 20:17:50",
+      "album": {
+        "name": "A Girl Like Me",
+        "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 238920,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/30cSNer6TV8x2utjULVeQ5"
     },
     {
       "added_at": "2024-07-12 20:17:50",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2024-07-12 20:17:50",
       "album": {
-        "name": "I Don't Care (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 219946,
-      "name": "I Don't Care (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
-    },
-    {
-      "added_at": "2024-07-12 20:17:50",
-      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
       },
@@ -1291,18 +1271,22 @@
     {
       "added_at": "2024-07-12 20:17:50",
       "album": {
-        "name": "Sit Still, Look Pretty",
-        "url": "https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt"
+        "name": "I Don't Care (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
       },
       "artists": [
         {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 191368,
-      "name": "Hide Away",
-      "url": "https://open.spotify.com/track/7fPyCCiXVwbzPQ1MtoUChl"
+      "duration_ms": 219946,
+      "name": "I Don't Care (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
     },
     {
       "added_at": "2024-07-12 20:17:50",
@@ -1339,6 +1323,22 @@
     {
       "added_at": "2024-07-12 20:17:50",
       "album": {
+        "name": "Sit Still, Look Pretty",
+        "url": "https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 191368,
+      "name": "Hide Away",
+      "url": "https://open.spotify.com/track/7fPyCCiXVwbzPQ1MtoUChl"
+    },
+    {
+      "added_at": "2024-07-12 20:17:50",
+      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m"
       },
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-07-12 20:17:50",
       "album": {
-        "name": "Teenage Dream: The Complete Confection",
-        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 227880,
-      "name": "Firework",
-      "url": "https://open.spotify.com/track/4lCv7b86sLynZbXhfScfm2"
-    },
-    {
-      "added_at": "2024-07-12 20:17:50",
-      "album": {
         "name": "Don't Start Now",
         "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+    },
+    {
+      "added_at": "2024-07-12 20:17:50",
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 227880,
+      "name": "Firework",
+      "url": "https://open.spotify.com/track/4lCv7b86sLynZbXhfScfm2"
     },
     {
       "added_at": "2024-07-12 20:17:50",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-07-12 20:17:50",
       "album": {
-        "name": "Unapologetic (Edited Version)",
-        "url": "https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 225146,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/1z9kQ14XBSN0r2v6fx4IdG"
-    },
-    {
-      "added_at": "2024-07-12 20:17:50",
-      "album": {
         "name": "Barbie The Album",
         "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 176579,
       "name": "Dance The Night",
       "url": "https://open.spotify.com/track/11C4y2Yz1XbHmaQwO06s9f"
+    },
+    {
+      "added_at": "2024-07-12 20:17:50",
+      "album": {
+        "name": "Unapologetic (Edited Version)",
+        "url": "https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 225146,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/1z9kQ14XBSN0r2v6fx4IdG"
     },
     {
       "added_at": "2024-07-12 20:17:50",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-07-12 20:17:50",
       "album": {
-        "name": "Sit Still, Look Pretty",
-        "url": "https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 207761,
-      "name": "Sit Still, Look Pretty",
-      "url": "https://open.spotify.com/track/6ZtiywT2Qm50a1uR0jlY35"
-    },
-    {
-      "added_at": "2024-07-12 20:17:50",
-      "album": {
         "name": "HAIZ",
         "url": "https://open.spotify.com/album/1ABRc0UFHY3x6rKQeFBTQ0"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 218773,
       "name": "Love Myself",
       "url": "https://open.spotify.com/track/36phXHOKx8rO7CMp2vNX4x"
+    },
+    {
+      "added_at": "2024-07-12 20:17:50",
+      "album": {
+        "name": "Sit Still, Look Pretty",
+        "url": "https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 207761,
+      "name": "Sit Still, Look Pretty",
+      "url": "https://open.spotify.com/track/6ZtiywT2Qm50a1uR0jlY35"
     }
   ],
   "unique_name": "Pop Road Trip",

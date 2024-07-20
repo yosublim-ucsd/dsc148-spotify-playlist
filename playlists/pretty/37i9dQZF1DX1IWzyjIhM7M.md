@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 
 > Our editors' picks of best tracks of 2023 by independent, developing artists from around the world\. Cover: Searows
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,749 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,762 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 29 | [multiverse](https://open.spotify.com/track/5SNrF8sTUjkyliM7ZLhUtN) | [Maya Manuela](https://open.spotify.com/artist/12bvlSCl69py9uRW9vMJyw), [PEMBROKE](https://open.spotify.com/artist/1WSqNCME0xEyefXll8SWkE) | [multiverse](https://open.spotify.com/album/4P9CkSDRbEULCwwFNnneBC) | 2:59 |
 | 30 | [Lights Out](https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lights Out](https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt) | 2:23 |
 | 31 | [Menghargai Kata Rindu](https://open.spotify.com/track/7dJXDo04rMWbfIepBGTfi0) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Menghargai Kata Rindu](https://open.spotify.com/album/6ZttUG5J6ohmAPaudE74Au) | 4:11 |
-| 32 | [BREAK IT IN A BAR](https://open.spotify.com/track/28dwWN6sZQGBSZuMdCbbQY) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [BREAK IT IN A BAR](https://open.spotify.com/album/7d2E2k2Sr1Lcw86XdIHNRd) | 3:39 |
+| 32 | [Art House](https://open.spotify.com/track/1Qq0KLUDks1te934eJpbeV) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Art House](https://open.spotify.com/album/6xFQACinH8dNlzhKaRCfua) | 2:57 |
 | 33 | [If You Were Mine](https://open.spotify.com/track/6X1e8vitsmstMQIC2wrETx) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [If You Were Mine](https://open.spotify.com/album/7ceNaDNFy5LNlNrBkydo1C) | 3:38 |
-| 34 | [Art House](https://open.spotify.com/track/1Qq0KLUDks1te934eJpbeV) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Art House](https://open.spotify.com/album/6xFQACinH8dNlzhKaRCfua) | 2:57 |
+| 34 | [BREAK IT IN A BAR](https://open.spotify.com/track/28dwWN6sZQGBSZuMdCbbQY) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [BREAK IT IN A BAR](https://open.spotify.com/album/7d2E2k2Sr1Lcw86XdIHNRd) | 3:39 |
 | 35 | [Fever](https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Sariah Mae](https://open.spotify.com/artist/16XmFAOjlZoorF7bbIa1Th) | [Fever](https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf) | 2:58 |
 | 36 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 |
 | 37 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 |
@@ -84,17 +84,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 74 | [Lonely](https://open.spotify.com/track/6vkucSVB3rWcLQA4Shijcr) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Conditions](https://open.spotify.com/album/5dQyKXUD3YhvsESDAUX4iZ) | 2:11 |
 | 75 | [Muốn Bên Anh Thật Không](https://open.spotify.com/track/6bvuxfUFw9j9YNQRBwj1hi) | [Southalid](https://open.spotify.com/artist/5n4HPFtb9AUMQMAw8asZu6) | [Muốn Bên Anh Thật Không](https://open.spotify.com/album/7gO2JqeshfVGbZ8U6jGoML) | 4:45 |
 | 76 | [rocketship](https://open.spotify.com/track/76DunIkk8KTicv9fX4iqTc) | [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [rocketship](https://open.spotify.com/album/5y40MyatlF2aCaMsFTRJDE) | 2:39 |
-| 77 | [HYPNOTIC](https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [HYPNOTIC](https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT) | 2:14 |
-| 78 | [Best Case Girl](https://open.spotify.com/track/7keAG1RvGg0pd3CExIVwu0) | [Beeson](https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8) | [Best Case Girl](https://open.spotify.com/album/4xPgs4mLTECXBQEjEkq5mu) | 2:51 |
+| 77 | [Best Case Girl](https://open.spotify.com/track/7keAG1RvGg0pd3CExIVwu0) | [Beeson](https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8) | [Best Case Girl](https://open.spotify.com/album/4xPgs4mLTECXBQEjEkq5mu) | 2:51 |
+| 78 | [HYPNOTIC](https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [HYPNOTIC](https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT) | 2:14 |
 | 79 | [dickhead blues](https://open.spotify.com/track/0MjjrdCKDu19Z1obkdkULO) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 5:25 |
 | 80 | [All In My Head](https://open.spotify.com/track/3Bu9F59w6ubEnnLIcbJgfD) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [All In My Head](https://open.spotify.com/album/4xNvPi6XSLvxkNaeOJhfxF) | 5:07 |
 | 81 | [Funny Black Lines](https://open.spotify.com/track/6X6Znaazqzi1EHrGKPz2n2) | [Kieran Campbell](https://open.spotify.com/artist/0x1TEBrFldjKRcch1M7mjK) | [Funny Black Lines](https://open.spotify.com/album/6JaQdJcEU4rzdq3NjWDo7N) | 2:58 |
 | 82 | [Don Lemon](https://open.spotify.com/track/0gZuzrQU7pLpcZf7JYqXiJ) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Don Lemon](https://open.spotify.com/album/10llpGOIEohzO6V2awCypr) | 3:41 |
-| 83 | [choose u everytime](https://open.spotify.com/track/3OcFT2KkQ8xWEPl1mFyvTZ) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [choose u everytime](https://open.spotify.com/album/6M5xJWRZwxY6zbZSMqi7RV) | 3:36 |
-| 84 | [afterglow](https://open.spotify.com/track/0yIshWSqN6TmJNywjZ7zGh) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [hewantscoffeebutiamtea](https://open.spotify.com/album/1ZJiogegMu9wEbMxI7uy7U) | 3:24 |
+| 83 | [afterglow](https://open.spotify.com/track/0yIshWSqN6TmJNywjZ7zGh) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [hewantscoffeebutiamtea](https://open.spotify.com/album/1ZJiogegMu9wEbMxI7uy7U) | 3:24 |
+| 84 | [choose u everytime](https://open.spotify.com/track/3OcFT2KkQ8xWEPl1mFyvTZ) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [choose u everytime](https://open.spotify.com/album/6M5xJWRZwxY6zbZSMqi7RV) | 3:36 |
 | 85 | [After The Day Party](https://open.spotify.com/track/2dYxccZjun7pzA4npfbKfb) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Outside](https://open.spotify.com/album/4pWieE77CDQHT2UKff0WEy) | 2:27 |
-| 86 | [Making Sense Of](https://open.spotify.com/track/1CZanBJYGF7876i6XEPqjz) | [Allegra Krieger](https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39) | [I Keep My Feet on the Fragile Plane](https://open.spotify.com/album/6Dr79gzcCMcPDaaftGSzcf) | 2:05 |
-| 87 | [styrofoam](https://open.spotify.com/track/1ZakuNLOHhoPOlMjCNG5w9) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [styrofoam](https://open.spotify.com/album/0gSptDCMS0E8RuYLGr7WML) | 3:04 |
+| 86 | [styrofoam](https://open.spotify.com/track/1ZakuNLOHhoPOlMjCNG5w9) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [styrofoam](https://open.spotify.com/album/0gSptDCMS0E8RuYLGr7WML) | 3:04 |
+| 87 | [Making Sense Of](https://open.spotify.com/track/1CZanBJYGF7876i6XEPqjz) | [Allegra Krieger](https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39) | [I Keep My Feet on the Fragile Plane](https://open.spotify.com/album/6Dr79gzcCMcPDaaftGSzcf) | 2:05 |
 | 88 | [Once Upon The End](https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Once Upon The End](https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ) | 4:39 |
 | 89 | [Sophie](https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [Sophie](https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I) | 3:14 |
 | 90 | [Crashland](https://open.spotify.com/track/2niHo9G2lJz09Rt5tAFwTp) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Crashland](https://open.spotify.com/album/2wiLzTUXLPIARvXoBycaJT) | 2:42 |

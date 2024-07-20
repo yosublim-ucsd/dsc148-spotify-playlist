@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7nzf5jERkx.md) - [plain]
 
 > me acuerdo del día que del dinero yo me enamoré 💸💰💸 con Eladio Carrion en la portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,518 likes - 70 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,556 likes - 70 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7nzf5jERkx.md) - [plain]
 | 37 | [Cómo Le Digo](https://open.spotify.com/track/0K0soSt52EhMS9FohRObdK) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Cómo Le Digo](https://open.spotify.com/album/4r9ruIPQRfmUwN2YwqUN0c) | 3:46 |
 | 38 | [Kemba Walker](https://open.spotify.com/track/4jhHaLksdP8DJZzxYAjOSz) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Sauce Boyz](https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ) | 2:32 |
 | 39 | [ULTRA SOLO](https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [ULTRA SOLO](https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd) | 3:47 |
-| 40 | [Mi Cuarto](https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [DI LETRA](https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn) | 3:17 |
-| 41 | [Entre Nosotros](https://open.spotify.com/track/5LazbgCsa2IskJbPMnI8Qd) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 3:12 |
+| 40 | [Entre Nosotros](https://open.spotify.com/track/5LazbgCsa2IskJbPMnI8Qd) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 3:12 |
+| 41 | [Mi Cuarto](https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [DI LETRA](https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn) | 3:17 |
 | 42 | [Caile](https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra](https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI) | 2:21 |
 | 43 | [Otro Trago](https://open.spotify.com/track/1Ej96GIBCTvgH7tNX1r3qr) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 3:45 |
 | 44 | [PPP](https://open.spotify.com/track/3oB0bcIVRVZgCkWif0H4vV) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [KrING](https://open.spotify.com/album/0UEG3km1FB7nGZHwiSun8x) | 2:09 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7nzf5jERkx.md) - [plain]
 | 48 | [Bella](https://open.spotify.com/track/68sQIehHsGohLMgcP5nlND) | [Wolfine](https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7) | [Bella](https://open.spotify.com/album/6dnN2EDH4Lf0uaFUZGNaAe) | 3:17 |
 | 49 | [Linda](https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Linda](https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09) | 2:24 |
 | 50 | [Una Lady Como Tú](https://open.spotify.com/track/7MHN1aCFtLXjownGhvEQlF) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Una Lady Como Tú](https://open.spotify.com/album/75maIus9xRaEQzPXOSOTew) | 3:33 |
-| 51 | [Goteo](https://open.spotify.com/track/1EoEU4HY57qaITp06TkC6B) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Goteo](https://open.spotify.com/album/6lfI4LBcu46SL3TzSw3rWg) | 2:44 |
-| 52 | [12x3](https://open.spotify.com/track/1k94CNfVliqDs0qYhkG8iV) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 333](https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM) | 2:39 |
+| 51 | [12x3](https://open.spotify.com/track/1k94CNfVliqDs0qYhkG8iV) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 333](https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM) | 2:39 |
+| 52 | [Goteo](https://open.spotify.com/track/1EoEU4HY57qaITp06TkC6B) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Goteo](https://open.spotify.com/album/6lfI4LBcu46SL3TzSw3rWg) | 2:44 |
 | 53 | [Gatita](https://open.spotify.com/track/4MFpFnhirNfY968H72VLpg) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Kittyponeo](https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM) | 2:33 |
 | 54 | [cuatro veinte](https://open.spotify.com/track/3ushwCdjpWNdSnZgRFU6Oc) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:13 |
 | 55 | [Te Boté \- Remix](https://open.spotify.com/track/3X5M53Xi5k1SijRtZMM3TA) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Now Or Never](https://open.spotify.com/album/1BBjdKgGAqwdEvcvqBOGfT) | 6:57 |

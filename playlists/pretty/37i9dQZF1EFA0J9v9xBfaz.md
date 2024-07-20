@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pcjIHtCtNOL6UG7yMKv1k">SECH</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 926 likes - 160 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 925 likes - 160 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 73 | [LATTE \(feat\. Maria Becerra\)](https://open.spotify.com/track/7irTyPzSyqSbeUXbYsTR5j) | [The Academy: Segunda Misión](https://open.spotify.com/artist/4C3ZmIqca9MWwThLaYbfXu), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [The Academy: Segunda Misión](https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu) | 4:20 |
 | 74 | [JAMAICA](https://open.spotify.com/track/3mEuWQDngXevBTZLf48XDx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [BAHÍA DUCATI](https://open.spotify.com/album/444LqH6QlvR62nY8Vxn37u) | 3:44 |
 | 75 | [Bentley](https://open.spotify.com/track/3RGg9W1OyEiRMwu1Qi45dW) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:08 |
-| 76 | [Te Acuerdas De Mí](https://open.spotify.com/track/3EgHkFBGUu7NHZspAdiy0D) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 1:44 |
-| 77 | [11 Y ONCE](https://open.spotify.com/track/0DwVNspGmrWAWFnbjMa2FZ) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [E.VAX](https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:16 |
+| 76 | [11 Y ONCE](https://open.spotify.com/track/0DwVNspGmrWAWFnbjMa2FZ) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [E.VAX](https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:16 |
+| 77 | [Te Acuerdas De Mí](https://open.spotify.com/track/3EgHkFBGUu7NHZspAdiy0D) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 1:44 |
 | 78 | [Me Gustaría](https://open.spotify.com/track/54SVSLkZTLxmGGlvhxTt4I) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx) | [Me Gustaría](https://open.spotify.com/album/0njxbT6uDUmE2TxTGlZsp6) | 3:39 |
 | 79 | [Playa](https://open.spotify.com/track/243jb092tx4s5UZntX2xhC) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:12 |
 | 80 | [El Malo](https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:29 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 159 | [Interludio](https://open.spotify.com/track/6I2aC9x6YVtBh07da38dbN) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [El Bloke Hills](https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc) | 0:48 |
 | 160 | [Sin DJ](https://open.spotify.com/track/7hwkJDetmwkoVMnG7xoCSu) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [GHETTO CHILD](https://open.spotify.com/album/58pf971AkkgVetgudNWweN) | 2:03 |
 
-Snapshot ID: `AbXE/gAAAAAmyMqLQDLVi86vITymgqJj`
+Snapshot ID: `AbXJNgAAAAC6GRP2eGchFRem3aPLNIoq`

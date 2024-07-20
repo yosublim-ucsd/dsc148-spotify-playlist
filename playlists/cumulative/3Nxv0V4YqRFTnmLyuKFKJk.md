@@ -4,7 +4,7 @@
 
 > These are Warren Zeiders' Country Music Essentials for summer of 2024, all in one playlist! Get the BBQ going, the drinks out and listen below!
 
-208 songs - 13 hr 6 min
+210 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Dark Night \- 717 Tapes](https://open.spotify.com/track/2mTwhPI0EKjXmqRd1SEjjy) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes the Album](https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU) | 2:37 | 2024-07-03 |  |
 | [Darlin'](https://open.spotify.com/track/727x6SZXGF0LfU2vi3rjaH) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [We All Grow Up](https://open.spotify.com/album/1XXkk3jAPfmW5jyRbRON7x) | 2:45 | 2024-07-03 |  |
 | [Dead End Road \(From Twisters: The Album\)](https://open.spotify.com/track/39aAZlxQg4JM9g00kec16w) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Dead End Road \(From Twisters: The Album\)](https://open.spotify.com/album/4FLzGf4XrpOZyGajzf9oYF) | 2:32 | 2024-07-18 |  |
+| [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC) | 3:43 | 2024-07-19 |  |
 | [December, 1963 \(Oh, What a Night\)](https://open.spotify.com/track/4nuPrKithHbRJXuA9spwu4) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [December, 1963 \(Oh, What a Night\) / Slip Away](https://open.spotify.com/album/1cpPUXM8H8059n6B9Nm46c) | 3:21 | 2023-02-17 | 2024-07-05 |
 | [Devil You Know](https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Devil You Know](https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM) | 3:12 | 2024-07-03 |  |
 | [Didn't I](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 | 2024-07-12 |  |
@@ -181,6 +182,7 @@
 | [Take It Easy \- 2013 Remaster](https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 3:31 | 2022-05-05 | 2024-07-05 |
 | [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 | 2023-02-17 | 2024-07-05 |
 | [Tear It All Apart](https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Tear It All Apart](https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW) | 3:06 | 2024-07-03 |  |
+| [Tear Us Apart \(From Twisters: The Album\)](https://open.spotify.com/track/56pp07JfYir7wnjKPwXLME) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Tear Us Apart \(From Twisters: The Album\)](https://open.spotify.com/album/7a7Ntqg1B2y1RKM4BvmZJI) | 2:45 | 2024-07-19 |  |
 | [The Best](https://open.spotify.com/track/7gP0iSDthTnTTxD3uUDRTA) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Tina Turner Love Songs](https://open.spotify.com/album/2leURyZTNszWf0NOrbWOW4) | 5:30 | 2022-05-05 | 2024-07-05 |
 | [The Boys Of Summer](https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Building The Perfect Beast](https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i) | 4:48 | 2022-05-05 | 2024-07-05 |
 | [The Devil I Know](https://open.spotify.com/track/6Ser4pIAKEoXok7eDJPRK7) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/5geTL4f7rXjvO90j9G4B7S) | 3:07 | 2024-07-03 |  |

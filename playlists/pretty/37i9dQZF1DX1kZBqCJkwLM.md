@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: Tiffany Day
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,487 likes - 90 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,490 likes - 90 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 52 | [We Made It](https://open.spotify.com/track/2gG6IqL2enOyLdluSTcTTS) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [We Made It](https://open.spotify.com/album/15kYOLNxhabZKauG8YIUBa) | 5:14 |
 | 53 | [Lover Like Me](https://open.spotify.com/track/33H4jpDv7tK6UxPukAiabA) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Lover Like Me](https://open.spotify.com/album/3MqhLDy7jbZlkQHpArYWbC) | 2:57 |
 | 54 | [damn Right](https://open.spotify.com/track/76Gw6K3kG2zjuNGoFuwxIP) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [damn Right](https://open.spotify.com/album/3SlvWfCmLRNQWZlgzYep3B) | 2:44 |
-| 55 | [EAT](https://open.spotify.com/track/3CRDDASiC4gwTYUOOdnMxt) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [EAT / DIRT](https://open.spotify.com/album/5sSHtc1O80DaV60NDKPnYu) | 2:17 |
-| 56 | [Pretty Girl Hi Reimagined](https://open.spotify.com/track/6aSdfeuUMtk7XOEHn93kkP) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection Reimagined](https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr) | 3:33 |
+| 55 | [Pretty Girl Hi Reimagined](https://open.spotify.com/track/6aSdfeuUMtk7XOEHn93kkP) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection Reimagined](https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr) | 3:33 |
+| 56 | [EAT](https://open.spotify.com/track/3CRDDASiC4gwTYUOOdnMxt) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [EAT / DIRT](https://open.spotify.com/album/5sSHtc1O80DaV60NDKPnYu) | 2:17 |
 | 57 | [Our Time](https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Our Time is Blue](https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE) | 3:38 |
 | 58 | [Stomachache](https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Stomachache](https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP) | 3:04 |
 | 59 | [APESHIT](https://open.spotify.com/track/3tkduPvfebrlyttUxtXq8V) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [APESHIT](https://open.spotify.com/album/6L1nBEEqTueYzXqFXgjR8Y) | 2:31 |
@@ -78,12 +78,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 68 | [Dance Like Nobody's Watching](https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Dance Like Nobody's Watching](https://open.spotify.com/album/1KuHFlATr4aoVahHKY3pzU) | 3:45 |
 | 69 | [Power](https://open.spotify.com/track/7hDxkJFn3UsZgoWzDkyubD) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 4:42 |
 | 70 | [Rings of Saturn](https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Apollo 8](https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df) | 2:53 |
-| 71 | [Rowdy](https://open.spotify.com/track/3x1KtZsNZBnuNRDe80aAof) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz), [Seungyeon](https://open.spotify.com/artist/6970iLKVz7517uKr4uMk5i) | [Rowdy](https://open.spotify.com/album/0zkQVJldvdGpAG2WZ8K0L3) | 2:36 |
-| 72 | [What if I jump from a Bridge?](https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [What if I jump from a Bridge?](https://open.spotify.com/album/2cQ7PDniKlNX8n0DZLPTto) | 2:04 |
+| 71 | [What if I jump from a Bridge?](https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [What if I jump from a Bridge?](https://open.spotify.com/album/2cQ7PDniKlNX8n0DZLPTto) | 2:04 |
+| 72 | [Rowdy](https://open.spotify.com/track/3x1KtZsNZBnuNRDe80aAof) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz), [Seungyeon](https://open.spotify.com/artist/6970iLKVz7517uKr4uMk5i) | [Rowdy](https://open.spotify.com/album/0zkQVJldvdGpAG2WZ8K0L3) | 2:36 |
 | 73 | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/track/38i2wm5NBB5iS3WpjlMmWY) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/album/0W84AyMDAbWKIGN1gHObDA) | 2:49 |
 | 74 | [PLAYTHING](https://open.spotify.com/track/3dvo22rex4PuOkdqsDlP39) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [PLAYTHING](https://open.spotify.com/album/35djQXPgBXiH8rNC8Kh1Hy) | 2:47 |
-| 75 | [EXPIRED](https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [EXPIRED](https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy) | 2:26 |
-| 76 | [GORGEOUS](https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek) | [BODUR](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU) | [GORGEOUS](https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc) | 2:29 |
+| 75 | [GORGEOUS](https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek) | [BODUR](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU) | [GORGEOUS](https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc) | 2:29 |
+| 76 | [EXPIRED](https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [EXPIRED](https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy) | 2:26 |
 | 77 | [Seoul](https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ) | [Sofia Kay](https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q) | [Seoul](https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv) | 3:33 |
 | 78 | [CLOUDS](https://open.spotify.com/track/1paOXtSfaeFcZfzt9msquZ) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [CLOUDS](https://open.spotify.com/album/3JohSTcgoihNPfgDTS6fdQ) | 3:16 |
 | 79 | [Oops! Ur Single Now](https://open.spotify.com/track/5RBGrAXylxMWJhCEGWb4AS) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Oops! Ur Single Now](https://open.spotify.com/album/1UXUSIB2VlwmeCdkQncGtC) | 2:02 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 86 | [Phenomenon](https://open.spotify.com/track/3kmsAolICtnEFp5SLLO5Bn) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A), [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs) | [Phenomenon](https://open.spotify.com/album/2DWRJ0Hgdt0krIxiz3Lu2Y) | 3:38 |
 | 87 | [Goddess \- Holly T Remix](https://open.spotify.com/track/2AMMUAPPA0pg5nOS90lNIP) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Holly T](https://open.spotify.com/artist/1r5lkGxVUvzfpxk4iuSYmX) | [Goddess \(Holly T Remix\)](https://open.spotify.com/album/1rayZOYkDr6D7jBCIdVO19) | 2:55 |
 | 88 | [RIP To My Feelings](https://open.spotify.com/track/6O006yehRUETdQvxfCAVl9) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW), [TheGifted](https://open.spotify.com/artist/03JZckISPavxXkoReAt6oI) | [RIP To My Feelings](https://open.spotify.com/album/5jqqcOyvjES1yHArXDJINR) | 3:24 |
-| 89 | [Look At Me Now](https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Ted Park](https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:49 |
+| 89 | [Ija \- TOKiMONSTA Remix](https://open.spotify.com/track/27ALJpTFMItteosC4kyj9x) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Ija \(TOKiMONSTA Remix\)](https://open.spotify.com/album/19AGDITx691QWTmb0q1hhf) | 3:10 |
 | 90 | [PRIMAL](https://open.spotify.com/track/28cJfuhoBA4D4USICqGr4m) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [PRIMAL](https://open.spotify.com/album/2NVmz3eZuSZTEClHa3Oh4F) | 2:40 |
 
 Snapshot ID: `ZpCqQAAAAAA7AuIt7eJvfHsM/WMtXkdI`

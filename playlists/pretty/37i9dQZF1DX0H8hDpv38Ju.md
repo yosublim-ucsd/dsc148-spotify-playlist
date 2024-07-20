@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 
 > Get down and jam out to these throwback '80s R&B and soul tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,697 likes - 40 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,734 likes - 40 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 | 24 | [Never Knew Love Like This Before](https://open.spotify.com/track/4EUlszQIxlPwiHJ6e6j6Gy) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [The Best Of Stephanie Mills](https://open.spotify.com/album/39zaDShYbKOKXiOLArBrhO) | 5:25 |
 | 25 | [I Wonder If I Take You Home](https://open.spotify.com/track/3sRCesHh424gmCji7Fz9Gm) | [Lisa Lisa & Cult Jam](https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT), [Full Force](https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2) | [Playlist: The Very Best Of Lisa Lisa & Cult Jam](https://open.spotify.com/album/69c909n13KcSJPXxi6kPhG) | 6:44 |
 | 26 | [Back To Life \(However Do You Want Me\)](https://open.spotify.com/track/7ELuWpsuVCRBnOR9ZAZKDp) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Club Classics Vol\. One](https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa) | 3:52 |
-| 27 | [Don't Disturb This Groove](https://open.spotify.com/track/6GAn3ar2CL8wUg0MbICZvp) | [The System](https://open.spotify.com/artist/67NN7SgdxKesGnxZOB8YeX) | [Don't Disturb This Groove](https://open.spotify.com/album/0Kwk6arYrNHMXkC3wR3gGJ) | 5:17 |
-| 28 | [Love Come Down](https://open.spotify.com/track/0Of5lCNEqh62twRkQIOLuK) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Love Come Down: The Best of Evelyn "Champagne" King](https://open.spotify.com/album/3o75BuQvN7lw4nzrAd8MPz) | 6:04 |
-| 29 | [Off on Your Own \(Girl\)](https://open.spotify.com/track/2GRMJEIAvKlqJd9UHZTjRD) | [Al B\. Sure!](https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk) | [In Effect Mode](https://open.spotify.com/album/3RjOQ5eRm9f5kf6ysRpByu) | 4:09 |
+| 27 | [Off on Your Own \(Girl\)](https://open.spotify.com/track/2GRMJEIAvKlqJd9UHZTjRD) | [Al B\. Sure!](https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk) | [In Effect Mode](https://open.spotify.com/album/3RjOQ5eRm9f5kf6ysRpByu) | 4:09 |
+| 28 | [Don't Disturb This Groove](https://open.spotify.com/track/6GAn3ar2CL8wUg0MbICZvp) | [The System](https://open.spotify.com/artist/67NN7SgdxKesGnxZOB8YeX) | [Don't Disturb This Groove](https://open.spotify.com/album/0Kwk6arYrNHMXkC3wR3gGJ) | 5:17 |
+| 29 | [Love Come Down](https://open.spotify.com/track/0Of5lCNEqh62twRkQIOLuK) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Love Come Down: The Best of Evelyn "Champagne" King](https://open.spotify.com/album/3o75BuQvN7lw4nzrAd8MPz) | 6:04 |
 | 30 | [Nights Over Egypt](https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:39 |
 | 31 | [The Glamorous Life](https://open.spotify.com/track/179SfVFJ0ZN41toTxnpgRD) | [Sheila E.](https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P) | [The Glamorous Life](https://open.spotify.com/album/2fv3CMkuVgYRtQVnhv1rQW) | 9:03 |
 | 32 | [Juicy Fruit](https://open.spotify.com/track/2hn1lerQkPC6fOI0QFjr8r) | [Mtume](https://open.spotify.com/artist/5bHSSREflcAADAyCMlmxmh) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 4:32 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 | 36 | [Funkin' for Jamaica](https://open.spotify.com/track/0xbkxTqSaW5blsYgRXpB5I) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Funkin' For Jamaica](https://open.spotify.com/album/3QEAp1Cp3DQq6QcQD90arq) | 4:40 |
 | 37 | [Saturday Love \- 12" Extended Version](https://open.spotify.com/track/5W3Y5I9y5ps6M6rl09e7zg) | [Cherrelle](https://open.spotify.com/artist/4R2ZUCVWjJs5ef9pjnCVC4), [Alexander O'Neal](https://open.spotify.com/artist/047D9GgqEzyMoULd2oKr7G) | [Best Of](https://open.spotify.com/album/0j5lDdSXw3zuhDXHJVB07H) | 8:41 |
 | 38 | [Groove Me](https://open.spotify.com/track/7t4rA2AxpG7yAhgRwopfn2) | [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [Guy](https://open.spotify.com/album/1b4uW38DLtC6GlGr39AGHc) | 4:33 |
-| 39 | [Object of My Desire](https://open.spotify.com/track/63Ql2zSLiBryLRPihaUToK) | [Starpoint](https://open.spotify.com/artist/6W9OZQ862LR0HM76QQJJY3) | [Restless](https://open.spotify.com/album/1RuIZ3XuB6TFN11ApV2tgG) | 5:06 |
-| 40 | [If Only You Knew](https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [I'm In Love Again](https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy) | 4:45 |
+| 39 | [If Only You Knew](https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [I'm In Love Again](https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy) | 4:45 |
+| 40 | [Object of My Desire](https://open.spotify.com/track/63Ql2zSLiBryLRPihaUToK) | [Starpoint](https://open.spotify.com/artist/6W9OZQ862LR0HM76QQJJY3) | [Restless](https://open.spotify.com/album/1RuIZ3XuB6TFN11ApV2tgG) | 5:06 |
 
 Snapshot ID: `ZI+1hgAAAACocRqbYRXv78kNcCbm20bS`

@@ -546,7 +546,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 170769,
       "name": "Dale Baby",
       "url": "https://open.spotify.com/track/1zK1hzNzGlKcVKdxkp0Rcv"
@@ -931,6 +931,28 @@
     },
     {
       "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "White Gold",
+          "url": "https://open.spotify.com/artist/79KQgTCu4wV38ECYKn62DZ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298384,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/7I3RalBqE7ZE0RSxgGlGlm"
+    },
+    {
+      "album": {
         "name": "Havana",
         "url": "https://open.spotify.com/album/4Fp1TGVc2iUXRqNN1cExmC"
       },
@@ -971,6 +993,24 @@
     },
     {
       "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227032,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/1CDQzbCz4KSQxHe7LMEgRM"
+    },
+    {
+      "album": {
         "name": "Houdini",
         "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
       },
@@ -982,7 +1022,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 227239,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
@@ -1366,7 +1406,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 179586,
       "name": "LUNCH",
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
@@ -1406,6 +1446,28 @@
       "duration_ms": 221709,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
+    },
+    {
+      "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156988,
+      "name": "Mamushi (feat. Yuki Chiba)",
+      "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
     },
     {
       "album": {
@@ -2656,7 +2718,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 228266,
       "name": "Type Shit",
       "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
@@ -2998,7 +3060,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 229333,
       "name": "\u0416\u0430\u043b\u043a\u043e",
       "url": "https://open.spotify.com/track/5GikULGCkwN6T8l5ldDAGL"
@@ -3645,6 +3707,28 @@
     },
     {
       "album": {
+        "name": "\u0422\u0430\u043a\u0430 \u0441\u044a\u043c \u0430\u0437, \u0442\u0430\u043a\u0430 \u0441\u0438 \u0442\u0438",
+        "url": "https://open.spotify.com/album/4LkLJgHZ9HnFHnLcHYn6Ed"
+      },
+      "artists": [
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/696J4fiOALx5ifVKv10VbK"
+        },
+        {
+          "name": "Ivayla",
+          "url": "https://open.spotify.com/artist/29Hsg37sCbjeeCdDA0HIgt"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "\u0422\u0430\u043a\u0430 \u0441\u044a\u043c \u0430\u0437, \u0442\u0430\u043a\u0430 \u0441\u0438 \u0442\u0438",
+      "url": "https://open.spotify.com/track/7cMp1gzM4aSdbX6vJKmDh4"
+    },
+    {
+      "album": {
         "name": "\u0422\u0438 \u0441\u0438 \u0442\u043e\u043f",
         "url": "https://open.spotify.com/album/5uN7YJXOapE9kHW6igaXez"
       },
@@ -3678,7 +3762,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 185777,
       "name": "\u0422\u043e\u043a \u043f\u043e \u0442\u044f\u043b\u043e\u0442\u043e",
       "url": "https://open.spotify.com/track/4LK3G3bxhj1OYcOdOvXmXp"

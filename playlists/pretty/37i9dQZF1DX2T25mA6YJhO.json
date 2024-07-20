@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Barry B, Carolina Durante.",
-  "num_followers": 19260,
+  "num_followers": 19289,
   "original_name": "Rock 2024",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "The Last of Us",
-        "url": "https://open.spotify.com/album/3m706HSNKqmnycUdWYt7Zw"
-      },
-      "artists": [
-        {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
-        }
-      ],
-      "duration_ms": 270137,
-      "name": "The Last of Us",
-      "url": "https://open.spotify.com/track/2WxZ92Q1q5NPbdJbJx7k8q"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Cierra la puerta",
         "url": "https://open.spotify.com/album/5DA4ALes4Z3cEO7ekZeWMh"
       },
@@ -763,8 +747,24 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Azul Oscuro Casi Negro",
-        "url": "https://open.spotify.com/album/6wRuSSafJuAgVM61XEStGj"
+        "name": "The Last of Us",
+        "url": "https://open.spotify.com/album/3m706HSNKqmnycUdWYt7Zw"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "duration_ms": 270137,
+      "name": "The Last of Us",
+      "url": "https://open.spotify.com/track/2WxZ92Q1q5NPbdJbJx7k8q"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Martes 13",
+        "url": "https://open.spotify.com/album/7cBxE1Jmy4Xb6YdWze1plb"
       },
       "artists": [
         {
@@ -772,13 +772,13 @@
           "url": "https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm"
         },
         {
-          "name": "Diamante Negro",
-          "url": "https://open.spotify.com/artist/51WUBWxuW4MAoBwuYraA4v"
+          "name": "Marta Knight",
+          "url": "https://open.spotify.com/artist/1bTVf9uk7d4iU9rcWfWj5S"
         }
       ],
-      "duration_ms": 160301,
-      "name": "Azul Oscuro Casi Negro",
-      "url": "https://open.spotify.com/track/5WkLIlcbax45uOOoNqFacQ"
+      "duration_ms": 181638,
+      "name": "Martes 13",
+      "url": "https://open.spotify.com/track/0KVfyqqSuwWeX5aWe954m9"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -811,6 +811,22 @@
       "duration_ms": 207680,
       "name": "Vuelta a casa",
       "url": "https://open.spotify.com/track/73PqBVASCSI1uVM94jTymu"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Al Amanecer",
+        "url": "https://open.spotify.com/album/0tvM7MTPrI9bASHbYn89Xy"
+      },
+      "artists": [
+        {
+          "name": "Jordana B.",
+          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
+        }
+      ],
+      "duration_ms": 191617,
+      "name": "Al Amanecer",
+      "url": "https://open.spotify.com/track/5FMnqUbLGqWi0Y12MCVYSN"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -851,24 +867,8 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Al Amanecer",
-        "url": "https://open.spotify.com/album/0tvM7MTPrI9bASHbYn89Xy"
-      },
-      "artists": [
-        {
-          "name": "Jordana B.",
-          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
-        }
-      ],
-      "duration_ms": 191617,
-      "name": "Al Amanecer",
-      "url": "https://open.spotify.com/track/5FMnqUbLGqWi0Y12MCVYSN"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Martes 13",
-        "url": "https://open.spotify.com/album/7cBxE1Jmy4Xb6YdWze1plb"
+        "name": "Azul Oscuro Casi Negro",
+        "url": "https://open.spotify.com/album/6wRuSSafJuAgVM61XEStGj"
       },
       "artists": [
         {
@@ -876,13 +876,13 @@
           "url": "https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm"
         },
         {
-          "name": "Marta Knight",
-          "url": "https://open.spotify.com/artist/1bTVf9uk7d4iU9rcWfWj5S"
+          "name": "Diamante Negro",
+          "url": "https://open.spotify.com/artist/51WUBWxuW4MAoBwuYraA4v"
         }
       ],
-      "duration_ms": 181638,
-      "name": "Martes 13",
-      "url": "https://open.spotify.com/track/0KVfyqqSuwWeX5aWe954m9"
+      "duration_ms": 160301,
+      "name": "Azul Oscuro Casi Negro",
+      "url": "https://open.spotify.com/track/5WkLIlcbax45uOOoNqFacQ"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Tekken",
-        "url": "https://open.spotify.com/album/43Ost0Cu1JwQPIVA8fgxXs"
-      },
-      "artists": [
-        {
-          "name": "Menta",
-          "url": "https://open.spotify.com/artist/6LlGOJmoJ97bhGx3UX2URn"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Tekken",
-      "url": "https://open.spotify.com/track/5kxroIDsvS0AQck5X8EKYN"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "No Puedo M\u00e1s",
         "url": "https://open.spotify.com/album/0Kw47uyjzuktMpz6OKZMpj"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "No me devuelvas la palabra",
-        "url": "https://open.spotify.com/album/0zjMHavVCHz9n5vuMwEUbl"
+        "name": "Tekken",
+        "url": "https://open.spotify.com/album/43Ost0Cu1JwQPIVA8fgxXs"
       },
       "artists": [
         {
-          "name": "Alavedra",
-          "url": "https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt"
+          "name": "Menta",
+          "url": "https://open.spotify.com/artist/6LlGOJmoJ97bhGx3UX2URn"
         }
       ],
-      "duration_ms": 183265,
-      "name": "No me devuelvas la palabra",
-      "url": "https://open.spotify.com/track/7eMijKUlibThL46o6e2fPf"
+      "duration_ms": 261333,
+      "name": "Tekken",
+      "url": "https://open.spotify.com/track/5kxroIDsvS0AQck5X8EKYN"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -995,6 +979,22 @@
       "duration_ms": 155250,
       "name": "Demasiada Mujer",
       "url": "https://open.spotify.com/track/7HquvibqnlfIM0s0tg4IG7"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "No me devuelvas la palabra",
+        "url": "https://open.spotify.com/album/0zjMHavVCHz9n5vuMwEUbl"
+      },
+      "artists": [
+        {
+          "name": "Alavedra",
+          "url": "https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt"
+        }
+      ],
+      "duration_ms": 183265,
+      "name": "No me devuelvas la palabra",
+      "url": "https://open.spotify.com/track/7eMijKUlibThL46o6e2fPf"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "La Excusa Perfecta",
-        "url": "https://open.spotify.com/album/51pAvbdBsnJGDBxrNN3Ax5"
+        "name": "Desde Flores y Entra\u00f1as",
+        "url": "https://open.spotify.com/album/7wXKA4oPHORyBu6jTE2oQm"
       },
       "artists": [
         {
-          "name": "Alavedra",
-          "url": "https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt"
+          "name": "Mujeres",
+          "url": "https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO"
         }
       ],
-      "duration_ms": 180705,
-      "name": "La Excusa Perfecta",
-      "url": "https://open.spotify.com/track/7vyoSMhwAepA7tGwruszQA"
+      "duration_ms": 206026,
+      "name": "Las Victorias y Derrotas",
+      "url": "https://open.spotify.com/track/0ZnNvpU4h5Se9bm301yOv0"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Desde Flores y Entra\u00f1as",
-        "url": "https://open.spotify.com/album/7wXKA4oPHORyBu6jTE2oQm"
-      },
-      "artists": [
-        {
-          "name": "Mujeres",
-          "url": "https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO"
-        }
-      ],
-      "duration_ms": 206026,
-      "name": "Las Victorias y Derrotas",
-      "url": "https://open.spotify.com/track/0ZnNvpU4h5Se9bm301yOv0"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Pitbull",
         "url": "https://open.spotify.com/album/5zYMSBCpGIxNYNNHij1YPw"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 175859,
       "name": "Pitbull",
       "url": "https://open.spotify.com/track/23qWMsNit3DECls7rX1ueT"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "La Excusa Perfecta",
+        "url": "https://open.spotify.com/album/51pAvbdBsnJGDBxrNN3Ax5"
+      },
+      "artists": [
+        {
+          "name": "Alavedra",
+          "url": "https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "La Excusa Perfecta",
+      "url": "https://open.spotify.com/track/7vyoSMhwAepA7tGwruszQA"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "Si No Es Hoy Cu\u00e1ndo Es",
+        "url": "https://open.spotify.com/album/0PU2uRa2fJkbjgB45e1PoA"
+      },
+      "artists": [
+        {
+          "name": "Dame Area",
+          "url": "https://open.spotify.com/artist/1Cmtis0NcKGTvAnovenEJl"
+        }
+      ],
+      "duration_ms": 332942,
+      "name": "Si No Es Hoy Cu\u00e1ndo Es",
+      "url": "https://open.spotify.com/track/3lhfjRNPYpOL9IIF15IEWo"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "T\u00fa y Yo y Todos Los Dem\u00e1s",
         "url": "https://open.spotify.com/album/6JzNwePjl9hkA2qOMfjKAe"
       },
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Si No Es Hoy Cu\u00e1ndo Es",
-        "url": "https://open.spotify.com/album/0PU2uRa2fJkbjgB45e1PoA"
+        "name": "Esta historia ya no est\u00e1 disponible",
+        "url": "https://open.spotify.com/album/1nzm7XdIQU2Tg5XBWHew1O"
       },
       "artists": [
         {
-          "name": "Dame Area",
-          "url": "https://open.spotify.com/artist/1Cmtis0NcKGTvAnovenEJl"
+          "name": "Venturi",
+          "url": "https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE"
         }
       ],
-      "duration_ms": 332942,
-      "name": "Si No Es Hoy Cu\u00e1ndo Es",
-      "url": "https://open.spotify.com/track/3lhfjRNPYpOL9IIF15IEWo"
+      "duration_ms": 156510,
+      "name": "Vino el Amor",
+      "url": "https://open.spotify.com/track/7LWvckYxoIoPb1QW6OnrEb"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Esta historia ya no est\u00e1 disponible",
-        "url": "https://open.spotify.com/album/1nzm7XdIQU2Tg5XBWHew1O"
-      },
-      "artists": [
-        {
-          "name": "Venturi",
-          "url": "https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE"
-        }
-      ],
-      "duration_ms": 156510,
-      "name": "Vino el Amor",
-      "url": "https://open.spotify.com/track/7LWvckYxoIoPb1QW6OnrEb"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Cortes",
         "url": "https://open.spotify.com/album/1MtxZXS19obXUaeST7ecDv"
       },
@@ -1271,6 +1271,22 @@
       "duration_ms": 112000,
       "name": "Cortes",
       "url": "https://open.spotify.com/track/3T5j1FC3UIu7kjGHarjIkk"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Darveider",
+        "url": "https://open.spotify.com/album/3DujoKOCP2JsIRslD8QnfT"
+      },
+      "artists": [
+        {
+          "name": "Venturi",
+          "url": "https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE"
+        }
+      ],
+      "duration_ms": 156375,
+      "name": "Darveider",
+      "url": "https://open.spotify.com/track/2KaOOQ2130RPjcnz8A1DuR"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1367,22 +1383,6 @@
       "duration_ms": 221532,
       "name": "Madrid Nos Pertenece",
       "url": "https://open.spotify.com/track/0wxl1J7P9LqVDsNJKjFMvv"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Darveider",
-        "url": "https://open.spotify.com/album/3DujoKOCP2JsIRslD8QnfT"
-      },
-      "artists": [
-        {
-          "name": "Venturi",
-          "url": "https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE"
-        }
-      ],
-      "duration_ms": 156375,
-      "name": "Darveider",
-      "url": "https://open.spotify.com/track/2KaOOQ2130RPjcnz8A1DuR"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "patito",
-        "url": "https://open.spotify.com/album/5RePQAtG2OT9uHmoL9fjoJ"
-      },
-      "artists": [
-        {
-          "name": "Las Petunias",
-          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
-        }
-      ],
-      "duration_ms": 174449,
-      "name": "patito",
-      "url": "https://open.spotify.com/track/4g3iyszdHctzCawEMndp2e"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "La Reconciliaci\u00f3n",
         "url": "https://open.spotify.com/album/1WxSNibCX2ATr2c4rwO9xA"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 154208,
       "name": "Nuestro Mejor Momento",
       "url": "https://open.spotify.com/track/5Z8so8w3PvZIJDbhN7l5t4"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "patito",
+        "url": "https://open.spotify.com/album/5RePQAtG2OT9uHmoL9fjoJ"
+      },
+      "artists": [
+        {
+          "name": "Las Petunias",
+          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
+        }
+      ],
+      "duration_ms": 174449,
+      "name": "patito",
+      "url": "https://open.spotify.com/track/4g3iyszdHctzCawEMndp2e"
     },
     {
       "added_at": "2024-07-18 22:00:00",

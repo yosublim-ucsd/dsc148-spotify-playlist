@@ -4,7 +4,7 @@
 
 > The new school of Música Mexicana\. Cover: Bryan Martinez
 
-909 songs - 1 day 22 hr 30 min
+910 songs - 1 day 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [Ebrio de Amor](https://open.spotify.com/track/63hJExblfUaDnJMZpRGhto) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Ebrio de Amor](https://open.spotify.com/album/5hMXEiyUTFXqlK5VdSb21l) | 2:05 | 2024-05-24 |  |
 | [EBS](https://open.spotify.com/track/6vFJgA2tFdu2wg3aryAxOS) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [EBS](https://open.spotify.com/album/4d359UVB7evIlGbS7XFpdt) | 2:47 | 2023-05-26 | 2023-06-17 |
 | [Echándome Un Perico \- En Vivo](https://open.spotify.com/track/2yoxIA1K4W5eDugrRG3Kry) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Desde El Bunker \(En Vivo\)](https://open.spotify.com/album/354UOuQr4AytLMQPjMMYyr) | 4:05 | 2024-03-15 | 2024-06-01 |
-| [EL](https://open.spotify.com/track/0cp2JvbIz95NbvhDUjEOMa) | [Saul Villarreal](https://open.spotify.com/artist/2x8UcZmAbP008alg57hI3K) | [Illusión](https://open.spotify.com/album/3w6NNRVZY39VlbI40NIB6b) | 3:27 | 2024-07-19 |  |
+| [EL](https://open.spotify.com/track/0cp2JvbIz95NbvhDUjEOMa) | [Saul Villarreal](https://open.spotify.com/artist/2x8UcZmAbP008alg57hI3K) | [Ilusión](https://open.spotify.com/album/3w6NNRVZY39VlbI40NIB6b) | 3:27 | 2024-07-19 |  |
 | [El 08](https://open.spotify.com/track/70zzFjzX32eqHbpkd6qknb) | [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o), [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [El 08](https://open.spotify.com/album/1C2oX8XsbuZSr5ovOURbtG) | 3:03 | 2024-03-22 | 2024-04-19 |
 | [El AA](https://open.spotify.com/track/1u05E61mB8lz3sYlMA58lU) | [Autoridad Elegante](https://open.spotify.com/artist/2meVIB1tB74PkeU98ho4PB) | [El AA](https://open.spotify.com/album/1eGoHstdOOCZwrF7FqF4HZ) | 2:28 | 2024-06-28 | 2024-07-19 |
 | [El Azul \- Live Sessions](https://open.spotify.com/track/5pvRJ4fG0f0cvRbEDCYcA3) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK) | [El Azul \(Live Sessions\)](https://open.spotify.com/album/7fYMJwod9y4fYbZpBCGrJn) | 3:11 | 2024-05-17 | 2024-07-19 |
@@ -800,7 +800,7 @@
 | [Sunday Funday](https://open.spotify.com/track/3Fcdne2q3223DzEJqmfLIU) | [Tony Loya](https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L) | [Sunday Funday](https://open.spotify.com/album/75HQd2MlBENul8gtW9BVUz) | 3:16 | 2024-03-29 | 2024-05-18 |
 | [SUR 99](https://open.spotify.com/track/0ZNH6BbpqLlxnO9zBUdB9T) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Primera Elegancia](https://open.spotify.com/artist/2wPO2p4ldXKAh5MBrwoA7k) | [SUR 99](https://open.spotify.com/album/0hN9kijAgj9tRr4YXM68w5) | 3:09 | 2023-01-13 | 2023-04-22 |
 | [SÁLVAME](https://open.spotify.com/track/66zpZXzpcnyeg4s6Ahhf99) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [SÁLVAME](https://open.spotify.com/album/23P9z5m6FNvfz5eXarJxvA) | 3:05 | 2023-09-08 | 2023-11-25 |
-| [Take It Easy](https://open.spotify.com/track/3TTlqSRUp0GCwsrkSCapBE) | [Relevanzia](https://open.spotify.com/artist/6pjlDvfJ5aJnEy7qCTfpLk) | [Take It Easy](https://open.spotify.com/album/5nBoyJcWT7z7J6kXTb38aO) | 2:42 | 2024-05-17 |  |
+| [Take It Easy](https://open.spotify.com/track/3TTlqSRUp0GCwsrkSCapBE) | [Relevanzia](https://open.spotify.com/artist/6pjlDvfJ5aJnEy7qCTfpLk) | [Take It Easy](https://open.spotify.com/album/5nBoyJcWT7z7J6kXTb38aO) | 2:42 | 2024-05-17 | 2024-07-20 |
 | [Tal Vez](https://open.spotify.com/track/29FsuKnbCrHD9JChkrpK9W) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Tal Vez](https://open.spotify.com/album/2TYhUcY7yfCsKr9pUhQ1en) | 2:53 | 2024-01-12 | 2024-02-24 |
 | [Tatuajes y Un Idiota \(Popurri\)](https://open.spotify.com/track/4oPkzErTxUsN3QkO6YHMmx) | [Christian Nava](https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0) | [Tatuajes y Un Idiota \(Popurri\)](https://open.spotify.com/album/4g6QgRauhqIsBsxX1VOh0s) | 2:57 | 2023-05-26 | 2023-07-29 |
 | [Te Acordarás De Mí](https://open.spotify.com/track/7Jt0TPSVkYr8Asy4Cms1XR) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Te Acordarás De Mí](https://open.spotify.com/album/63wMKo4Y5yzOAG3ufCs9An) | 2:36 | 2023-11-10 | 2024-02-24 |
@@ -862,6 +862,7 @@
 | [Una Cruz](https://open.spotify.com/track/7EI3NvlzFohsgu0C418aJe) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [Una Cruz](https://open.spotify.com/album/4M9stiQnSeeAWJZeEOcjWF) | 2:53 | 2022-08-05 | 2022-09-09 |
 | [Una En Un Millon](https://open.spotify.com/track/4PymbhZd20OgKINlAktJ7z) | [Jesus Dimas](https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g) | [Dueña De Mi Amor](https://open.spotify.com/album/7w3P9BTyusulTDX5Xi020x) | 2:47 | 2022-06-03 | 2022-09-09 |
 | [Una Linda Canción](https://open.spotify.com/track/3MZ7iOuTBONZuBkiFtCEgn) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Una Linda Canción](https://open.spotify.com/album/1K9iqpu7B6SJ00AluBmIRw) | 4:28 | 2022-10-14 | 2023-03-04 |
+| [UNA LOKURA](https://open.spotify.com/track/3YEGRP2AvlsfopfqiHkVew) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [UNA LOKURA](https://open.spotify.com/album/6wkmruqosLUIuQPbXHmEVw) | 3:32 | 2024-07-19 |  |
 | [Una Ocasión De Verano](https://open.spotify.com/track/3rMfRM6oZDISCraYfSBUND) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Una Ocasión De Verano](https://open.spotify.com/album/5DYMmAQ5sUT2eXmmGReLfO) | 2:19 | 2022-09-09 | 2023-02-18 |
 | [Una Rosa y Un Beso \(En Vivo\)](https://open.spotify.com/track/4xb2NaEONZraXK4LCnDdmi) | [Uriel Gaxiola](https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj) | [En Vivo Desde La Angelina \(En Vivo\)](https://open.spotify.com/album/61N8v3Zws2PXt6bZT5lYlF) | 2:43 | 2022-05-14 | 2022-08-27 |
 | [Una Vez Más](https://open.spotify.com/track/2mw2HxgWWgI5SktIxNO43z) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Una Vez Más](https://open.spotify.com/album/60v1tRIYwWeu1DSqNQYVhR) | 2:38 | 2024-05-17 |  |

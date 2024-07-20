@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearls of an oyster\. Cover: Tinashe
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,949 likes - 128 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,961 likes - 128 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nasty \- Match My Chic Remix](https://open.spotify.com/track/5Z1bS1NU57tcnhqNAXVM6D) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Match My Freak EP](https://open.spotify.com/album/2xyUg14ugS5nOqSJSoEjr1) | 3:02 |
+| 1 | [Nasty \(Match My Chic Remix\)](https://open.spotify.com/track/5Z1bS1NU57tcnhqNAXVM6D) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Match My Freak EP](https://open.spotify.com/album/2xyUg14ugS5nOqSJSoEjr1) | 3:02 |
 | 2 | [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 |
 | 3 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 |
 | 4 | [Devil Mode](https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Devil Mode](https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf) | 3:04 |

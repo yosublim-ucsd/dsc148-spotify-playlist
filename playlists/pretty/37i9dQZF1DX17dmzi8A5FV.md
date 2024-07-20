@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17dmzi8A5FV.md) - [plain]
 
 > All the biggest hits from the biggest boybands!  Cover: Jonas Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 694,416 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 694,449 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17dmzi8A5FV.md) - [plain]
 | 35 | [Show Me the Meaning of Being Lonely](https://open.spotify.com/track/3BsaRV5QIulYz2lV9WWa8T) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:54 |
 | 36 | [I Do \(Cherish You\)](https://open.spotify.com/track/6XgwPf0cqjySCMsOmQq4t6) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [98 Degrees And Rising](https://open.spotify.com/album/16oW7he0sWe3dBxV2XaQx6) | 3:46 |
 | 37 | [All Rise](https://open.spotify.com/track/7jley98gCQFueQ5MCaFWIb) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [All Rise](https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg) | 3:43 |
-| 38 | [Cherry Bomb](https://open.spotify.com/track/3o8QzWsiiqTUVgBZfHgF58) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 CHERRY BOMB– The 3rd Mini Album](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) | 3:56 |
+| 38 | [Cherry Bomb](https://open.spotify.com/track/3o8QzWsiiqTUVgBZfHgF58) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 CHERRY BOMB \- The 3rd Mini Album](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) | 3:56 |
 | 39 | [S.O.S.](https://open.spotify.com/track/6sDP4912wjwB7BJhbSnjS1) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Jonas Brothers](https://open.spotify.com/album/4myOCm6FzD9TMdK7Q0Nzx0) | 2:33 |
 | 40 | [The Call](https://open.spotify.com/track/1mxTCArq9EhSg4QPGqhjhT) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 3:24 |
 | 41 | [I'll Make Love To You](https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3) | 3:56 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17dmzi8A5FV.md) - [plain]
 | 55 | [Year 3000](https://open.spotify.com/track/7BbyWKteSctTKe696qf7fw) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [It's About Time](https://open.spotify.com/album/3tnBL4yVKSTaUtjeypEwCe) | 3:21 |
 | 56 | [Let's Get Married](https://open.spotify.com/track/1PmHkalaUHhh0fz23SBHDL) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [J.E\. Heartbreak](https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3) | 4:23 |
 | 57 | [Pop](https://open.spotify.com/track/0Jc8qF1mUPo1A96HE9QxZz) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Celebrity](https://open.spotify.com/album/7zBue2Vuzg4Z3ncRXaIkJg) | 3:58 |
-| 58 | [Beat Again \- Radio Edit](https://open.spotify.com/track/426vBhxw4upEf11BqBBgs0) | [JLS](https://open.spotify.com/artist/5xi3SZpllRPAkoPVbjB6nc) | [JLS](https://open.spotify.com/album/37ocVmUr58CZsunyOapI3m) | 3:19 |
-| 59 | [No One Compares To You](https://open.spotify.com/track/4cZ3UsiKd1kUQIaq4BFIj2) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [A Good Friend Is Nice](https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk) | 3:02 |
+| 58 | [No One Compares To You](https://open.spotify.com/track/4cZ3UsiKd1kUQIaq4BFIj2) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [A Good Friend Is Nice](https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk) | 3:02 |
+| 59 | [Beat Again \- Radio Edit](https://open.spotify.com/track/426vBhxw4upEf11BqBBgs0) | [JLS](https://open.spotify.com/artist/5xi3SZpllRPAkoPVbjB6nc) | [JLS](https://open.spotify.com/album/37ocVmUr58CZsunyOapI3m) | 3:19 |
 | 60 | [Never Forget \- Single Version](https://open.spotify.com/track/1WK7eLVsD0zH4UWm9ob3z6) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Never Forget: The Ultimate Collection](https://open.spotify.com/album/7jzGCK8GdjuWEAe1lZ71xI) | 6:24 |
 | 61 | [Dance Before We Walk \(From “The Idea of You”\)](https://open.spotify.com/track/7xELUwXl4BJq1Hm3PE2v1R) | [August Moon](https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA) | [Dance Before We Walk \(From “The Idea of You”\)](https://open.spotify.com/album/6cJvVRDKO1eZcKomjxVQUK) | 2:37 |
 | 62 | [Like a Rose](https://open.spotify.com/track/2jvrUFdJTjcgs94427PqHx) | [A1](https://open.spotify.com/artist/5lPsVvHVDr6R5mDxRUXdOs) | [Here We Come](https://open.spotify.com/album/0YipK1zDiAU6gqdZ31Frnp) | 4:11 |

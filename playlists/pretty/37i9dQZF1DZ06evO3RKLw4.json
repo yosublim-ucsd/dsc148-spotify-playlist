@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 46656,
+  "num_followers": 46665,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAAD1J+kIMQKpOsyavkKfAS3M",
+  "snapshot_id": "ZphbAAAAAACBnWR8+2VgoeB75BC7e20S",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancid",
-        "url": "https://open.spotify.com/album/4ptHCnj9ZvHibMqdPFx5Bt"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 97024,
-      "name": "The Sentence",
-      "url": "https://open.spotify.com/track/25Dri4NJ7U5yrRUPZBMDlv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "...Honor Is All We Know (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
       },
@@ -399,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rancid",
+        "url": "https://open.spotify.com/album/4ptHCnj9ZvHibMqdPFx5Bt"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 97024,
+      "name": "The Sentence",
+      "url": "https://open.spotify.com/track/25Dri4NJ7U5yrRUPZBMDlv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
       },
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let The Dominoes Fall (Expanded Version)",
-        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 143600,
-      "name": "Last One To Die",
-      "url": "https://open.spotify.com/track/7Aulng5j4bWyRJ0emPhNGE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "...Honor Is All We Know (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 129973,
       "name": "Evil's My Friend",
       "url": "https://open.spotify.com/track/2itW6yNVqzqtFM3G3qbhpx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let The Dominoes Fall (Expanded Version)",
+        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 143600,
+      "name": "Last One To Die",
+      "url": "https://open.spotify.com/track/7Aulng5j4bWyRJ0emPhNGE"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancid (5)",
-        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
+        "name": "...Honor Is All We Know (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 78733,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/5Yljkq4TrBgDpwPRZcMgh4"
+      "duration_ms": 131960,
+      "name": "Honor Is All We Know",
+      "url": "https://open.spotify.com/track/5by6Zu7h7VZOAzLBEP7rv2"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "...Honor Is All We Know (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
+        "name": "Rancid (5)",
+        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 131960,
-      "name": "Honor Is All We Know",
-      "url": "https://open.spotify.com/track/5by6Zu7h7VZOAzLBEP7rv2"
+      "duration_ms": 78733,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5Yljkq4TrBgDpwPRZcMgh4"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
       "duration_ms": 174760,
       "name": "Hyena",
       "url": "https://open.spotify.com/track/20GxyDLGDLr4zgb5587Oue"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rancid (5)",
-        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 89666,
-      "name": "It's Quite Alright",
-      "url": "https://open.spotify.com/track/0Mb9b1dko7GyYb2s6T7Ce1"
     },
     {
       "added_at": null,
@@ -591,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rancid (5)",
+        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 89666,
+      "name": "It's Quite Alright",
+      "url": "https://open.spotify.com/track/0Mb9b1dko7GyYb2s6T7Ce1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tomorrow Never Comes",
         "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
       },
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All The Moon Stompers",
-        "url": "https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "I Wanna Riot",
-      "url": "https://open.spotify.com/track/3prgCqodybVT758HNY2SXW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Won't Wait",
         "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 228040,
       "name": "Life Won't Wait",
       "url": "https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All The Moon Stompers",
+        "url": "https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "I Wanna Riot",
+      "url": "https://open.spotify.com/track/3prgCqodybVT758HNY2SXW"
     },
     {
       "added_at": null,

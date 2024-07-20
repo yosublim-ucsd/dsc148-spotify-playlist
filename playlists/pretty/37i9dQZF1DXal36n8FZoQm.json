@@ -1,12 +1,12 @@
 {
   "description": "It's time to return to the dojo. Listen to all the music from Cobra Kai, new season coming soon to Netflix.",
-  "num_followers": 113705,
+  "num_followers": 113892,
   "original_name": "Cobra Kai Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpli3gAAAAC1/hPuQKtlcYUgmZZDS2qG",
+  "snapshot_id": "ZprmKwAAAABAftme2EQTacDE4EoUMnEi",
   "tracks": [
     {
       "added_at": "2022-01-07 19:11:07",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-01-07 19:11:07",
       "album": {
-        "name": "Eye In The Sky (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr"
-      },
-      "artists": [
-        {
-          "name": "The Alan Parsons Project",
-          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
-        }
-      ],
-      "duration_ms": 115280,
-      "name": "Sirius",
-      "url": "https://open.spotify.com/track/4OV0sRTFrZLXaZZ1sS9hLn"
-    },
-    {
-      "added_at": "2022-01-07 19:11:07",
-      "album": {
         "name": "The Karate Kid: The Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/1zNIDZncmWNpb1WkyfRPdH"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 219666,
       "name": "We're Not Gonna Take It",
       "url": "https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh"
+    },
+    {
+      "added_at": "2024-07-19 22:18:19",
+      "album": {
+        "name": "Cobra Kai: Season 6, Part 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/3FCqUcqiJXJbhHCKIkxh3o"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "duration_ms": 254720,
+      "name": "Heart of the Cobra",
+      "url": "https://open.spotify.com/track/4cHyjLxnoiHsn1mcSxWALI"
     }
   ],
   "unique_name": "Cobra Kai Official Playlist",

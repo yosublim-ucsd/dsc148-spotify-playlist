@@ -1157,6 +1157,28 @@
     },
     {
       "album": {
+        "name": "Deja de Llorar (Remix)",
+        "url": "https://open.spotify.com/album/3ZCFRZG7ZPYRhbMrid7BR5"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197119,
+      "name": "Deja de Llorar - Remix",
+      "url": "https://open.spotify.com/track/213XnJpTBY7pkumgiaR15m"
+    },
+    {
+      "album": {
         "name": "La Champions Liga",
         "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
       },
@@ -2064,7 +2086,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 279763,
       "name": "Fuerte No Soy",
       "url": "https://open.spotify.com/track/03iuCunPkJmx6b7P3V0Mfq"
@@ -3639,6 +3661,28 @@
     },
     {
       "album": {
+        "name": "No Sabes La Que Te Espera",
+        "url": "https://open.spotify.com/album/7EHtKlwFa7ps7OTCR2ZqCA"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "No Sabes La Que Te Espera",
+      "url": "https://open.spotify.com/track/0ueX8kma8wlUPPDfNnTLzL"
+    },
+    {
+      "album": {
         "name": "No se va",
         "url": "https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0"
       },
@@ -4386,6 +4430,24 @@
       "duration_ms": 203026,
       "name": "Porque te fuiste",
       "url": "https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6"
+    },
+    {
+      "album": {
+        "name": "P\u00e1jaro y Demonio",
+        "url": "https://open.spotify.com/album/00qCqI06k51qcsVRVMXLIQ"
+      },
+      "artists": [
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226390,
+      "name": "P\u00e1jaro y Demonio",
+      "url": "https://open.spotify.com/track/2JjIRzMOIkIiM8WZ7fiXvx"
     },
     {
       "album": {
@@ -5298,7 +5360,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 143813,
       "name": "Te Perdon\u00e9 Tantas Veces",
       "url": "https://open.spotify.com/track/5aJWoXivicRge1Q1bSpl16"

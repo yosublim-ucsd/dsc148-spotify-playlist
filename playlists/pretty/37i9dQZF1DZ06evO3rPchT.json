@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 69678,
+  "num_followers": 69722,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAAA7igD7BZjgWlTaL6YIB6JO",
+  "snapshot_id": "ZphbAAAAAACCR4dfMxr5SLllaWbpJD9F",
   "tracks": [
     {
       "added_at": null,
@@ -23,30 +23,6 @@
       "duration_ms": 167534,
       "name": "TRUCK BED",
       "url": "https://open.spotify.com/track/103u49mLoJUge83B1CnLxI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beers On Me",
-        "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        },
-        {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 174680,
-      "name": "Beers On Me",
-      "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
     },
     {
       "added_at": null,
@@ -91,6 +67,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SIX FEET UNDER (Caleigh\u2019s Song)",
+        "url": "https://open.spotify.com/album/443mTdceNT52OKQv2tnRN8"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 191437,
+      "name": "SIX FEET UNDER (Caleigh\u2019s Song)",
+      "url": "https://open.spotify.com/track/6pWmnSmn9EqCRDb2Qg1ngj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "the mockingbird & THE CROW",
         "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
       },
@@ -127,22 +119,6 @@
       "duration_ms": 195326,
       "name": "In The Bible (feat. HARDY)",
       "url": "https://open.spotify.com/track/2aw1aEAxMe05MZIS5XiK8U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SIX FEET UNDER (Caleigh\u2019s Song)",
-        "url": "https://open.spotify.com/album/443mTdceNT52OKQv2tnRN8"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 191437,
-      "name": "SIX FEET UNDER (Caleigh\u2019s Song)",
-      "url": "https://open.spotify.com/track/6pWmnSmn9EqCRDb2Qg1ngj"
     },
     {
       "added_at": null,
@@ -342,11 +318,15 @@
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
         }
       ],
-      "duration_ms": 193397,
-      "name": "WHYBMWL",
-      "url": "https://open.spotify.com/track/7E3BoCMKxdeW7ZqxnL0zs1"
+      "duration_ms": 161352,
+      "name": "HAPPY HOUR (feat. Knox)",
+      "url": "https://open.spotify.com/track/6WxuJ0miXSbI56DbuxQODG"
     },
     {
       "added_at": null,
@@ -406,15 +386,11 @@
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
         }
       ],
-      "duration_ms": 161352,
-      "name": "HAPPY HOUR (feat. Knox)",
-      "url": "https://open.spotify.com/track/6WxuJ0miXSbI56DbuxQODG"
+      "duration_ms": 193397,
+      "name": "WHYBMWL",
+      "url": "https://open.spotify.com/track/7E3BoCMKxdeW7ZqxnL0zs1"
     },
     {
       "added_at": null,
@@ -547,38 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 202516,
-      "name": "AIN'T A BAD DAY",
-      "url": "https://open.spotify.com/track/06HJeBN0j6ADkE5SJLrHKw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quit!!",
-        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 153747,
-      "name": "I DON'T MISS",
-      "url": "https://open.spotify.com/track/0m22YjrIi3UzD0XpSS9pW4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BETTER DAYS",
         "url": "https://open.spotify.com/album/36efke4P7aeYMDmKArAEBe"
       },
@@ -595,6 +539,22 @@
       "duration_ms": 146773,
       "name": "AIN'T NO BETTER PLACE (feat. HARDY)",
       "url": "https://open.spotify.com/track/6bxTngeAL2GGRLJa0wa2SA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quit!!",
+        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 153747,
+      "name": "I DON'T MISS",
+      "url": "https://open.spotify.com/track/0m22YjrIi3UzD0XpSS9pW4"
     },
     {
       "added_at": null,
@@ -631,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 202516,
+      "name": "AIN'T A BAD DAY",
+      "url": "https://open.spotify.com/track/06HJeBN0j6ADkE5SJLrHKw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WHERE TO FIND ME",
         "url": "https://open.spotify.com/album/1ODlC6LpJ2Pw0MDawMtEsB"
       },
@@ -663,6 +639,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Body Language (Deluxe)",
+        "url": "https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Fire up the Night (feat. HARDY)",
+      "url": "https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol. 2",
         "url": "https://open.spotify.com/album/7jocQ72CXWOXecaZwWAwGR"
       },
@@ -687,26 +683,6 @@
       "duration_ms": 189153,
       "name": "Goin\u2019 Nowhere (feat. HARDY, Morgan Wallen & Chris Shiflett)",
       "url": "https://open.spotify.com/track/0p9RXscosrY9vbQv12ZcLh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Body Language (Deluxe)",
-        "url": "https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Fire up the Night (feat. HARDY)",
-      "url": "https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N"
     },
     {
       "added_at": null,
@@ -855,18 +831,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "THIS OLE BOY",
-        "url": "https://open.spotify.com/album/74G3iEDTbqrBTN3USAlquk"
+        "name": "The Worst Country Song Of All Time",
+        "url": "https://open.spotify.com/album/6s9wR3rqVwA5Jbyx6K8R8h"
       },
       "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 222793,
-      "name": "4X4",
-      "url": "https://open.spotify.com/track/7hRYe2leI1LApYuc2vnsq6"
+      "duration_ms": 197666,
+      "name": "The Worst Country Song Of All Time",
+      "url": "https://open.spotify.com/track/3dlkeKPc3pCveXvMFVJasK"
     },
     {
       "added_at": null,
@@ -899,26 +883,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Worst Country Song Of All Time",
-        "url": "https://open.spotify.com/album/6s9wR3rqVwA5Jbyx6K8R8h"
+        "name": "THIS OLE BOY",
+        "url": "https://open.spotify.com/album/74G3iEDTbqrBTN3USAlquk"
       },
       "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        },
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 197666,
-      "name": "The Worst Country Song Of All Time",
-      "url": "https://open.spotify.com/track/3dlkeKPc3pCveXvMFVJasK"
+      "duration_ms": 222793,
+      "name": "4X4",
+      "url": "https://open.spotify.com/track/7hRYe2leI1LApYuc2vnsq6"
     },
     {
       "added_at": null,
@@ -951,8 +927,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "THIS OLE BOY",
-        "url": "https://open.spotify.com/album/74G3iEDTbqrBTN3USAlquk"
+        "name": "WHERE TO FIND ME",
+        "url": "https://open.spotify.com/album/1ODlC6LpJ2Pw0MDawMtEsB"
       },
       "artists": [
         {
@@ -960,9 +936,9 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 203674,
-      "name": "THROWBACK",
-      "url": "https://open.spotify.com/track/7fToSlGPKlugVUCAZWvydi"
+      "duration_ms": 234062,
+      "name": "WHERE TO FIND ME",
+      "url": "https://open.spotify.com/track/5OeF6XbsPBDmhKXD30CKEZ"
     },
     {
       "added_at": null,
@@ -995,8 +971,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHERE TO FIND ME",
-        "url": "https://open.spotify.com/album/1ODlC6LpJ2Pw0MDawMtEsB"
+        "name": "THIS OLE BOY",
+        "url": "https://open.spotify.com/album/74G3iEDTbqrBTN3USAlquk"
       },
       "artists": [
         {
@@ -1004,9 +980,37 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 234062,
-      "name": "WHERE TO FIND ME",
-      "url": "https://open.spotify.com/track/5OeF6XbsPBDmhKXD30CKEZ"
+      "duration_ms": 203674,
+      "name": "THROWBACK",
+      "url": "https://open.spotify.com/track/7fToSlGPKlugVUCAZWvydi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HIXTAPE: Vol. 2",
+        "url": "https://open.spotify.com/album/7jocQ72CXWOXecaZwWAwGR"
+      },
+      "artists": [
+        {
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "The Cadillac Three",
+          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
+        },
+        {
+          "name": "Rhett Akins",
+          "url": "https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24"
+        }
+      ],
+      "duration_ms": 185947,
+      "name": "One Of Y\u2019all (feat. HARDY, Rhett Akins & The Cadillac Three)",
+      "url": "https://open.spotify.com/track/4DcvlNRw65x0Fj4hsTEOUV"
     }
   ],
   "unique_name": "This Is HARDY",

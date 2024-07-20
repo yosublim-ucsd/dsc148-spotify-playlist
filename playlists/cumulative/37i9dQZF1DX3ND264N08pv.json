@@ -3450,7 +3450,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 192324,
       "name": "Number One Thriller",
       "url": "https://open.spotify.com/track/675l6GVF65IS81eznAR2po"
@@ -5084,6 +5084,28 @@
       "duration_ms": 222116,
       "name": "Trip to Defqon.1",
       "url": "https://open.spotify.com/track/5LxvSe3BM74fL4U4FY4vNe"
+    },
+    {
+      "album": {
+        "name": "Trip To Greece",
+        "url": "https://open.spotify.com/album/1OpEvfFju28XMHEFvO1zWQ"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186559,
+      "name": "Trip To Greece",
+      "url": "https://open.spotify.com/track/6kFAXQq2EKd8z6JUjQ72Zk"
     },
     {
       "album": {

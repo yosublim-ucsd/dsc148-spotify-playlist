@@ -275,6 +275,36 @@
     },
     {
       "album": {
+        "name": "Iambinhu",
+        "url": "https://open.spotify.com/album/7BpvuVN4bsFdncN2KLkBLU"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Correia",
+          "url": "https://open.spotify.com/artist/40PO0UxAov5MmpZFHqyPFv"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Academia de Jugg",
+      "url": "https://open.spotify.com/track/6vg2QOZtkhIGHoMIcJ1qB8"
+    },
+    {
+      "album": {
         "name": "Afronta III",
         "url": "https://open.spotify.com/album/6kY1etv0G7GWQkr1F09uZi"
       },
@@ -1218,6 +1248,36 @@
       "duration_ms": 107055,
       "name": "CALA-BOCA VADIA",
       "url": "https://open.spotify.com/track/1dzzdWpDKbZzZWVfNM8Zk5"
+    },
+    {
+      "album": {
+        "name": "Dialeto Delinquente",
+        "url": "https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB"
+      },
+      "artists": [
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "LX",
+          "url": "https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF"
+        },
+        {
+          "name": "Prod. 2t'",
+          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
+        },
+        {
+          "name": "Trevor Whippa",
+          "url": "https://open.spotify.com/artist/60hytLnjov7Xhc21EQYHOO"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178101,
+      "name": "Camo",
+      "url": "https://open.spotify.com/track/2tqqvqj54JWq8hBGweG0nx"
     },
     {
       "album": {
@@ -9286,7 +9346,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 165853,
       "name": "TROPA DO ZAZA",
       "url": "https://open.spotify.com/track/7M60C46QUgF45y1e77JNsI"
@@ -9970,7 +10030,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 123427,
       "name": "YSL",
       "url": "https://open.spotify.com/track/6szz2cYI6saJ0vxD2rAMQk"

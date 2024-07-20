@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 
 ### [This Is Grupo Arriesgado](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3q5qqQ)
 
-> This is Grupo Arriesgado\. The essential tracks, all in one playlist.
+> This Is Grupo Arriesgado\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,797 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,818 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 39 | [El Meño](https://open.spotify.com/track/0R7ryDiB3sID2SDt9ny50C) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Mes De Las Madres](https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN) | 2:34 |
 | 40 | [Aqui En Mi Corazon Tu Mandas](https://open.spotify.com/track/6j77T5GjC6j3oT0R45hddU) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Los Tiempos De Aguas](https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg) | 2:12 |
 | 41 | [Que Se Preparen](https://open.spotify.com/track/6AGjRofC1oygn6XgS8sRDc) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Gordo Arce](https://open.spotify.com/artist/00v3sw4z0wRS94vVPNQLU7) | [Que Se Preparen](https://open.spotify.com/album/6im0kyzVwpV1ozVymkze6H) | 2:43 |
-| 42 | [Chuyito y el Mayo \(En Vivo\)](https://open.spotify.com/track/7jjlHbcXCJOHJ2h7ilpQyx) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. II \(En Vivo\)](https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM) | 3:09 |
-| 43 | [Que las Cuartitos No Falten](https://open.spotify.com/track/1J5y2EFPoqlUp995jiMiD9) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Las Cuartitos No Falten](https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3) | 2:59 |
+| 42 | [Que las Cuartitos No Falten](https://open.spotify.com/track/1J5y2EFPoqlUp995jiMiD9) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Las Cuartitos No Falten](https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3) | 2:59 |
+| 43 | [Chuyito y el Mayo \(En Vivo\)](https://open.spotify.com/track/7jjlHbcXCJOHJ2h7ilpQyx) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. II \(En Vivo\)](https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM) | 3:09 |
 | 44 | [El De La Aldea](https://open.spotify.com/track/4KHsDU8PPw2MvXTQrjsOr2) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Los Tiempos De Aguas](https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg) | 2:20 |
 | 45 | [Amigos Mis Huevos](https://open.spotify.com/track/2psdyq0rZCpZINw5C55GcG) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Amigos Mis Huevos](https://open.spotify.com/album/1RXRTjAoDzIbi0z96VsaW1) | 2:29 |
 | 46 | [Rancherik Asterik](https://open.spotify.com/track/61xXO8u6IwE1o2cDv66V83) | [La Cuadrilla Oficial](https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Rancherik Asterik](https://open.spotify.com/album/4oXl05OItqFoGP7f80mnGD) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 49 | [Somos Gente Del Sombrero \- En Vivo](https://open.spotify.com/track/5cJUpAtZBY253aPOo0QmId) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Somos Gente Del Sombrero \(En Vivo\)](https://open.spotify.com/album/2qaSacTJoTXZHZShAIRkZK) | 3:23 |
 | 50 | [Son Cosas De La Peda](https://open.spotify.com/track/4jj418EQiugASJj07JuiMs) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Son Cosas De La Peda](https://open.spotify.com/album/27dr3cYlhnh0gCCXdctJXZ) | 2:21 |
 
-Snapshot ID: `ZpcJgAAAAABw4UXWUN04Pw09lfzETwBs`
+Snapshot ID: `ZphbAAAAAACpQNxjtTonBmCcrT9V1q0s`

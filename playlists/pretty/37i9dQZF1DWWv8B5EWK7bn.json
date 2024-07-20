@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 185754,
+  "num_followers": 185790,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpmQYgAAAAAdhjhNFNnneJitGN8MDF6z",
+  "snapshot_id": "ZprQ0AAAAACdoXI7IHfte1gYzyqyaXdM",
   "tracks": [
     {
       "added_at": "2024-04-15 18:24:59",
@@ -489,38 +489,6 @@
       "url": "https://open.spotify.com/track/17076c3jEyuTYHYnMN6P1G"
     },
     {
-      "added_at": "2024-03-05 06:00:54",
-      "album": {
-        "name": "Slime Patrol 2",
-        "url": "https://open.spotify.com/album/1i64oc4rRRTWQUI4iDSn2L"
-      },
-      "artists": [
-        {
-          "name": "Khadija Al Hanafi",
-          "url": "https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5"
-        }
-      ],
-      "duration_ms": 214941,
-      "name": "You Know I Got That / Wont Stop Callin",
-      "url": "https://open.spotify.com/track/00QANpfkal7tDih1140IFH"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "Para los P\u00e1jaros / Carlos",
-        "url": "https://open.spotify.com/album/6fwq1M7IulFPZ0lbn4BB5v"
-      },
-      "artists": [
-        {
-          "name": "Sanje",
-          "url": "https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx"
-        }
-      ],
-      "duration_ms": 268640,
-      "name": "Para los P\u00e1jaros",
-      "url": "https://open.spotify.com/track/21i2D8lKOnfT7vOJx5D8z5"
-    },
-    {
       "added_at": "2024-01-11 03:53:36",
       "album": {
         "name": "Vidrio",
@@ -543,6 +511,38 @@
       "duration_ms": 277308,
       "name": "An\u00f3nima",
       "url": "https://open.spotify.com/track/08dAkGmUKmkmj4BJ3hCpfB"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Para los P\u00e1jaros / Carlos",
+        "url": "https://open.spotify.com/album/6fwq1M7IulFPZ0lbn4BB5v"
+      },
+      "artists": [
+        {
+          "name": "Sanje",
+          "url": "https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx"
+        }
+      ],
+      "duration_ms": 268640,
+      "name": "Para los P\u00e1jaros",
+      "url": "https://open.spotify.com/track/21i2D8lKOnfT7vOJx5D8z5"
+    },
+    {
+      "added_at": "2024-03-05 06:00:54",
+      "album": {
+        "name": "Slime Patrol 2",
+        "url": "https://open.spotify.com/album/1i64oc4rRRTWQUI4iDSn2L"
+      },
+      "artists": [
+        {
+          "name": "Khadija Al Hanafi",
+          "url": "https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5"
+        }
+      ],
+      "duration_ms": 214941,
+      "name": "You Know I Got That / Wont Stop Callin",
+      "url": "https://open.spotify.com/track/00QANpfkal7tDih1140IFH"
     },
     {
       "added_at": "2023-10-13 15:35:55",
@@ -729,6 +729,22 @@
       "url": "https://open.spotify.com/track/4SIy0CT0thjNx55TAeBq6x"
     },
     {
+      "added_at": "2023-06-07 23:32:59",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 289461,
+      "name": "Army Of Me - Spotify Single",
+      "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
+    },
+    {
       "added_at": "2023-10-27 23:56:32",
       "album": {
         "name": "There is only love and fear",
@@ -747,22 +763,6 @@
       "duration_ms": 290026,
       "name": "Dawn blessings",
       "url": "https://open.spotify.com/track/2CDErqDxCM5ggWEgiYopcl"
-    },
-    {
-      "added_at": "2023-06-07 23:32:59",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 289461,
-      "name": "Army Of Me - Spotify Single",
-      "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
     },
     {
       "added_at": "2023-12-20 04:44:18",
@@ -853,22 +853,6 @@
       "url": "https://open.spotify.com/track/1ijMJdADgg379aghDnIby7"
     },
     {
-      "added_at": "2024-03-05 06:00:54",
-      "album": {
-        "name": "Lovegaze",
-        "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
-      },
-      "artists": [
-        {
-          "name": "Nailah Hunter",
-          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
-        }
-      ],
-      "duration_ms": 291771,
-      "name": "Lovegaze",
-      "url": "https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ"
-    },
-    {
       "added_at": "2022-09-09 13:45:31",
       "album": {
         "name": "Jolene From Her Own Perspective",
@@ -889,6 +873,38 @@
       "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
     },
     {
+      "added_at": "2024-03-05 06:00:54",
+      "album": {
+        "name": "Lovegaze",
+        "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
+      },
+      "artists": [
+        {
+          "name": "Nailah Hunter",
+          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+        }
+      ],
+      "duration_ms": 291771,
+      "name": "Lovegaze",
+      "url": "https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ"
+    },
+    {
+      "added_at": "2023-03-31 19:12:14",
+      "album": {
+        "name": "Follow the Cyborg",
+        "url": "https://open.spotify.com/album/1u4u2LCBocqNltaY4Q2lli"
+      },
+      "artists": [
+        {
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
+        }
+      ],
+      "duration_ms": 229183,
+      "name": "Nothing's Wrong",
+      "url": "https://open.spotify.com/track/1BHffF1YV6e1pMyjaujmvT"
+    },
+    {
       "added_at": "2024-04-29 20:30:55",
       "album": {
         "name": "Benti",
@@ -907,22 +923,6 @@
       "duration_ms": 239360,
       "name": "Obscure Paliteo",
       "url": "https://open.spotify.com/track/2FKHoqbxcIu2NONNgxaON9"
-    },
-    {
-      "added_at": "2023-03-31 19:12:14",
-      "album": {
-        "name": "Follow the Cyborg",
-        "url": "https://open.spotify.com/album/1u4u2LCBocqNltaY4Q2lli"
-      },
-      "artists": [
-        {
-          "name": "Miss Grit",
-          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
-        }
-      ],
-      "duration_ms": 229183,
-      "name": "Nothing's Wrong",
-      "url": "https://open.spotify.com/track/1BHffF1YV6e1pMyjaujmvT"
     },
     {
       "added_at": "2024-03-05 06:00:54",
@@ -975,26 +975,6 @@
       "duration_ms": 420080,
       "name": "MERCY",
       "url": "https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0"
-    },
-    {
-      "added_at": "2024-03-21 23:51:20",
-      "album": {
-        "name": "For You, Please",
-        "url": "https://open.spotify.com/album/5IMvo5JT3t0t5u91Ybw7JL"
-      },
-      "artists": [
-        {
-          "name": "Arhkota",
-          "url": "https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ"
-        },
-        {
-          "name": "Lubna Maher",
-          "url": "https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb"
-        }
-      ],
-      "duration_ms": 205205,
-      "name": "For You, Please",
-      "url": "https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb"
     },
     {
       "added_at": "2023-06-02 00:41:12",
@@ -1069,6 +1049,26 @@
       "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
     },
     {
+      "added_at": "2024-03-21 23:51:20",
+      "album": {
+        "name": "For You, Please",
+        "url": "https://open.spotify.com/album/5IMvo5JT3t0t5u91Ybw7JL"
+      },
+      "artists": [
+        {
+          "name": "Arhkota",
+          "url": "https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ"
+        },
+        {
+          "name": "Lubna Maher",
+          "url": "https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb"
+        }
+      ],
+      "duration_ms": 205205,
+      "name": "For You, Please",
+      "url": "https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Rivers That You Cannot See",
@@ -1137,22 +1137,6 @@
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
     },
     {
-      "added_at": "2023-08-24 03:26:17",
-      "album": {
-        "name": "RPG",
-        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
-      },
-      "artists": [
-        {
-          "name": "Me Lost Me",
-          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
-        }
-      ],
-      "duration_ms": 227120,
-      "name": "Heat!",
-      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
-    },
-    {
       "added_at": "2024-01-03 18:45:56",
       "album": {
         "name": "Space Jumps",
@@ -1169,20 +1153,36 @@
       "url": "https://open.spotify.com/track/4o7FggT3N6nFRfks48BTGS"
     },
     {
-      "added_at": "2023-01-03 23:48:36",
+      "added_at": "2023-08-24 03:26:17",
       "album": {
-        "name": "Where To Put The Pain",
-        "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
+        "name": "RPG",
+        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
       },
       "artists": [
         {
-          "name": "Alice Boman",
-          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
+          "name": "Me Lost Me",
+          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
         }
       ],
-      "duration_ms": 234693,
-      "name": "Where To Put The Pain",
-      "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
+      "duration_ms": 227120,
+      "name": "Heat!",
+      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
+    },
+    {
+      "added_at": "2022-08-13 01:40:58",
+      "album": {
+        "name": "NIGHT CRAWLING",
+        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "duration_ms": 293706,
+      "name": "NIGHT CRAWLING",
+      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
     },
     {
       "added_at": "2023-06-05 20:56:02",
@@ -1201,20 +1201,20 @@
       "url": "https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363"
     },
     {
-      "added_at": "2022-08-13 01:40:58",
+      "added_at": "2023-01-03 23:48:36",
       "album": {
-        "name": "NIGHT CRAWLING",
-        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
+        "name": "Where To Put The Pain",
+        "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
       },
       "artists": [
         {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+          "name": "Alice Boman",
+          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
         }
       ],
-      "duration_ms": 293706,
-      "name": "NIGHT CRAWLING",
-      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
+      "duration_ms": 234693,
+      "name": "Where To Put The Pain",
+      "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
     },
     {
       "added_at": "2023-10-23 19:41:11",
@@ -1381,26 +1381,6 @@
       "url": "https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Peculiar Machine (Georgia Anne Muldrow Remix)",
-        "url": "https://open.spotify.com/album/0W2UKYTKWHpWkQnrOZgbCV"
-      },
-      "artists": [
-        {
-          "name": "Salami Rose Joe Louis",
-          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
-        },
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Peculiar Machine - Georgia Anne Muldrow Remix",
-      "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
-    },
-    {
       "added_at": "2023-03-24 15:38:14",
       "album": {
         "name": "A Time To Blossom",
@@ -1423,6 +1403,26 @@
       "duration_ms": 438106,
       "name": "A Time To Blossom",
       "url": "https://open.spotify.com/track/4L0npYstL1PDKHV6BdMtIW"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Peculiar Machine (Georgia Anne Muldrow Remix)",
+        "url": "https://open.spotify.com/album/0W2UKYTKWHpWkQnrOZgbCV"
+      },
+      "artists": [
+        {
+          "name": "Salami Rose Joe Louis",
+          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Peculiar Machine - Georgia Anne Muldrow Remix",
+      "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
     },
     {
       "added_at": "2024-01-03 18:37:44",
@@ -1605,6 +1605,42 @@
       "url": "https://open.spotify.com/track/0lwRMQQ6BxVBV0WaokbQ22"
     },
     {
+      "added_at": "2024-07-19 20:47:12",
+      "album": {
+        "name": "isomonstrosity",
+        "url": "https://open.spotify.com/album/4Zu4oPIIukPnJaVSlOMBzr"
+      },
+      "artists": [
+        {
+          "name": "isomonstrosity",
+          "url": "https://open.spotify.com/artist/4DfieEPxO3kEpaMuOCPtqi"
+        },
+        {
+          "name": "International Contemporary Ensemble",
+          "url": "https://open.spotify.com/artist/1e6oJr3JG14gEuRLDl5ZsT"
+        },
+        {
+          "name": "Johan Lenox",
+          "url": "https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj"
+        },
+        {
+          "name": "Ellen Reid",
+          "url": "https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka"
+        },
+        {
+          "name": "Yuga Cohler",
+          "url": "https://open.spotify.com/artist/1RXmpUqrMHVgk9nTiShX0P"
+        },
+        {
+          "name": "Zacari",
+          "url": "https://open.spotify.com/artist/3SiMMVtpcfKwyXIed0LC2c"
+        }
+      ],
+      "duration_ms": 223947,
+      "name": "watch it burn",
+      "url": "https://open.spotify.com/track/0lAK2bpvCeple95TASn6DJ"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Centre",
@@ -1731,22 +1767,6 @@
       "duration_ms": 290373,
       "name": "Big Moonlight (Ookii Gekkou)",
       "url": "https://open.spotify.com/track/7rcxsiSZTU9VC0t6tGKFTl"
-    },
-    {
-      "added_at": "2023-01-07 04:00:59",
-      "album": {
-        "name": "Painted The Room",
-        "url": "https://open.spotify.com/album/3c6Pgmn56EIAVFH3PtXyUL"
-      },
-      "artists": [
-        {
-          "name": "Rozi Plain",
-          "url": "https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x"
-        }
-      ],
-      "duration_ms": 253013,
-      "name": "Painted the Room",
-      "url": "https://open.spotify.com/track/3iTYtpdS8JqWluLm92kuRH"
     }
   ],
   "unique_name": "Oblique",

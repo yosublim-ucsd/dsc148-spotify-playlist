@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06Ki7m.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO06Ki7m) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO06Ki7m)
 
-### [این Metro Boomin است](https://open.spotify.com/playlist/37i9dQZF1DZ06evO06Ki7m)
+### [This Is Metro Boomin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO06Ki7m)
 
-> This Is Metro Boomin\. قطعه‌های برتر همگی در یک فهرست پخش.
+> This is Metro Boomin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,893 likes - 49 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,021 likes - 49 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06Ki7m.md) - [plain]
 | 48 | [Dreamcatcher \(feat\. Swae Lee & Travis Scott\)](https://open.spotify.com/track/22ykS8KWpd2r4zcRZ0XMK5) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:31 |
 | 49 | [pop ur shit](https://open.spotify.com/track/47yD0e9MCRIB8dgUXPfyW3) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:13 |
 
-Snapshot ID: `ZpcJgAAAAAByqqEGaNlTpyfoB+Ud+8Qj`
+Snapshot ID: `ZphbAAAAAACd+4LpoVzGI4FCCE250jSs`

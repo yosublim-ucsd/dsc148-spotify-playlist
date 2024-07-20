@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Alejandro y Maria Laura.",
-  "num_followers": 124679,
+  "num_followers": 124684,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "Gotas de agua",
+        "url": "https://open.spotify.com/album/1WFg5iwtay9ovFMKGnGxD9"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb"
+        }
+      ],
+      "duration_ms": 214198,
+      "name": "Gotas de agua",
+      "url": "https://open.spotify.com/track/4V9NBrm7s5EKM7lQef94hO"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "No supe verme",
         "url": "https://open.spotify.com/album/5UklZCjxd3FybV0D7Dmyda"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 211459,
       "name": "No supe verme",
       "url": "https://open.spotify.com/track/27E8QSVZ1u1IM7L7Va6GO1"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Gotas de agua",
-        "url": "https://open.spotify.com/album/1WFg5iwtay9ovFMKGnGxD9"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb"
-        }
-      ],
-      "duration_ms": 214198,
-      "name": "Gotas de agua",
-      "url": "https://open.spotify.com/track/4V9NBrm7s5EKM7lQef94hO"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Entrada Liberada",
-        "url": "https://open.spotify.com/album/4xweB2KJ83gx2p2qkBeIRE"
-      },
-      "artists": [
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        }
-      ],
-      "duration_ms": 159087,
-      "name": "Entrada Liberada",
-      "url": "https://open.spotify.com/track/4lXdEl2Mq9mCMi8GDdDq2n"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Cara de tonta",
         "url": "https://open.spotify.com/album/2SjMbXS5MmWrwIDJ5LzbC7"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 126650,
       "name": "Cara de tonta",
       "url": "https://open.spotify.com/track/3c6llTjaecWdHx3EDl1Fop"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Entrada Liberada",
+        "url": "https://open.spotify.com/album/4xweB2KJ83gx2p2qkBeIRE"
+      },
+      "artists": [
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 159087,
+      "name": "Entrada Liberada",
+      "url": "https://open.spotify.com/track/4lXdEl2Mq9mCMi8GDdDq2n"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -919,6 +919,26 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "Se\u00f1or Tiempo",
+        "url": "https://open.spotify.com/album/0Nr4NO2fgctpLPuqGoQy7U"
+      },
+      "artists": [
+        {
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+        },
+        {
+          "name": "Piero",
+          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
+        }
+      ],
+      "duration_ms": 340638,
+      "name": "Se\u00f1or Tiempo",
+      "url": "https://open.spotify.com/track/2peeEyNr3VL1nmc3y25kVs"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/3QfGs7DDFiZo4bv5HELUaD"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 202680,
       "name": "En Las Olas",
       "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Se\u00f1or Tiempo",
-        "url": "https://open.spotify.com/album/0Nr4NO2fgctpLPuqGoQy7U"
-      },
-      "artists": [
-        {
-          "name": "Marta G\u00f3mez",
-          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
-        },
-        {
-          "name": "Piero",
-          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
-        }
-      ],
-      "duration_ms": 340638,
-      "name": "Se\u00f1or Tiempo",
-      "url": "https://open.spotify.com/track/2peeEyNr3VL1nmc3y25kVs"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "Lobo",
+        "url": "https://open.spotify.com/album/4d3I9khxaMn5J7RxbpBkJk"
+      },
+      "artists": [
+        {
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+        }
+      ],
+      "duration_ms": 186181,
+      "name": "Lobo",
+      "url": "https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "Yo Soy",
         "url": "https://open.spotify.com/album/6CO6GE3u3JTuxdcE10nE0e"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 216891,
       "name": "Yo Soy",
       "url": "https://open.spotify.com/track/530CUFzf8pqO9cbSM0C5SB"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Lobo",
-        "url": "https://open.spotify.com/album/4d3I9khxaMn5J7RxbpBkJk"
-      },
-      "artists": [
-        {
-          "name": "Marta G\u00f3mez",
-          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
-        }
-      ],
-      "duration_ms": 186181,
-      "name": "Lobo",
-      "url": "https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Carta Aberta",
-        "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00eda Mu\u00ed\u00f1o",
-          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
-        }
-      ],
-      "duration_ms": 322242,
-      "name": "Carta Aberta",
-      "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "O FE",
         "url": "https://open.spotify.com/album/1qpanq2jhSzWfhiYTnTzCS"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 123802,
       "name": "O FE",
       "url": "https://open.spotify.com/track/1tW2ry8Pfmx3cRhQjQt8iE"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Carta Aberta",
+        "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+        }
+      ],
+      "duration_ms": 322242,
+      "name": "Carta Aberta",
+      "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Crezco y no lo veo",
-        "url": "https://open.spotify.com/album/7xxxbjh0tmefVgDoqJjjvr"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        }
-      ],
-      "duration_ms": 190561,
-      "name": "Crezco y no lo veo",
-      "url": "https://open.spotify.com/track/42lBWRathPCNc7MX35eQg6"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Noviembre",
         "url": "https://open.spotify.com/album/30vftzA8hNmdZ8ncLZ6mCq"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 245426,
       "name": "Noviembre",
       "url": "https://open.spotify.com/track/5Rns0JAdfVtIVPvBBvPbXF"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Crezco y no lo veo",
+        "url": "https://open.spotify.com/album/7xxxbjh0tmefVgDoqJjjvr"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "duration_ms": 190561,
+      "name": "Crezco y no lo veo",
+      "url": "https://open.spotify.com/track/42lBWRathPCNc7MX35eQg6"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "Mareas",
+        "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
+      },
+      "artists": [
+        {
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+        }
+      ],
+      "duration_ms": 229901,
+      "name": "Mareas",
+      "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "Una mica m\u00e9s",
         "url": "https://open.spotify.com/album/0fHKuUkKOvyToHlqg5Dj4l"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 261775,
       "name": "Una mica m\u00e9s",
       "url": "https://open.spotify.com/track/6C36Pk2VkTCwEJ6LB3JMen"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Mareas",
-        "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
-      },
-      "artists": [
-        {
-          "name": "Club del R\u00edo",
-          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
-        }
-      ],
-      "duration_ms": 229901,
-      "name": "Mareas",
-      "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "Migas",
+        "url": "https://open.spotify.com/album/0z8Py2L5re037O71sy22q9"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9Canela",
+          "url": "https://open.spotify.com/artist/7DqUxnbDJwdpFRS8rIgVy0"
+        }
+      ],
+      "duration_ms": 333409,
+      "name": "Migas",
+      "url": "https://open.spotify.com/track/3LzLD8MNdZ2IpLO2aKiQj6"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "Deshielo",
         "url": "https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 221712,
       "name": "Oye mi Voz",
       "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Migas",
-        "url": "https://open.spotify.com/album/0z8Py2L5re037O71sy22q9"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9Canela",
-          "url": "https://open.spotify.com/artist/7DqUxnbDJwdpFRS8rIgVy0"
-        }
-      ],
-      "duration_ms": 333409,
-      "name": "Migas",
-      "url": "https://open.spotify.com/track/3LzLD8MNdZ2IpLO2aKiQj6"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Luch\u00edn",
-        "url": "https://open.spotify.com/album/2pz5K8WJlwSCMxpVNZHxRB"
-      },
-      "artists": [
-        {
-          "name": "Emilia y Pablo",
-          "url": "https://open.spotify.com/artist/4yHD7XAN2Xtk203wG7Gzad"
-        }
-      ],
-      "duration_ms": 244666,
-      "name": "Luch\u00edn",
-      "url": "https://open.spotify.com/track/6DGmZzSK5KJebAw3CrAmaa"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
         "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 175905,
       "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
       "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Luch\u00edn",
+        "url": "https://open.spotify.com/album/2pz5K8WJlwSCMxpVNZHxRB"
+      },
+      "artists": [
+        {
+          "name": "Emilia y Pablo",
+          "url": "https://open.spotify.com/artist/4yHD7XAN2Xtk203wG7Gzad"
+        }
+      ],
+      "duration_ms": 244666,
+      "name": "Luch\u00edn",
+      "url": "https://open.spotify.com/track/6DGmZzSK5KJebAw3CrAmaa"
     },
     {
       "added_at": "2024-07-11 22:00:00",

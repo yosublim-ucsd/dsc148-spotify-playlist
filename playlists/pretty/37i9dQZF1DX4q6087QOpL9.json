@@ -1,6 +1,6 @@
 {
   "description": "That real soulful house sound.",
-  "num_followers": 107961,
+  "num_followers": 108003,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,30 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "Diamond Life (feat. Julie McKnight)",
+        "url": "https://open.spotify.com/album/1s5fbLVau2qXTVfhNJsewG"
+      },
+      "artists": [
+        {
+          "name": "Louie Vega",
+          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+        },
+        {
+          "name": "Jay Sinister Sealee",
+          "url": "https://open.spotify.com/artist/4q1tFxjRGrgDLZKF2Sdcpj"
+        },
+        {
+          "name": "Julie McKnight",
+          "url": "https://open.spotify.com/artist/2LPS6uBLdlOd860p080v4f"
+        }
+      ],
+      "duration_ms": 532133,
+      "name": "Diamond Life (feat. Julie McKnight) - Dance Ritual Mix",
+      "url": "https://open.spotify.com/track/3Da0K52P1sq9A7ZS660cnp"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "Mighty Real Poolside Pride 2018",
         "url": "https://open.spotify.com/album/49ZAc2gYoGRBvFZe4BQlk9"
       },
@@ -315,30 +339,6 @@
       "duration_ms": 449523,
       "name": "Let It Fall - Harlum Mix",
       "url": "https://open.spotify.com/track/3ZqgxQ8dBG11dQ5Khp9UvJ"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Diamond Life (feat. Julie McKnight)",
-        "url": "https://open.spotify.com/album/1s5fbLVau2qXTVfhNJsewG"
-      },
-      "artists": [
-        {
-          "name": "Louie Vega",
-          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
-        },
-        {
-          "name": "Jay Sinister Sealee",
-          "url": "https://open.spotify.com/artist/4q1tFxjRGrgDLZKF2Sdcpj"
-        },
-        {
-          "name": "Julie McKnight",
-          "url": "https://open.spotify.com/artist/2LPS6uBLdlOd860p080v4f"
-        }
-      ],
-      "duration_ms": 532133,
-      "name": "Diamond Life (feat. Julie McKnight) - Dance Ritual Mix",
-      "url": "https://open.spotify.com/track/3Da0K52P1sq9A7ZS660cnp"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Focus",
-        "url": "https://open.spotify.com/album/0aBn2yFmfeYbfhEYpFMEy9"
-      },
-      "artists": [
-        {
-          "name": "ADO",
-          "url": "https://open.spotify.com/artist/2OAEsMvEXwG6AQQ7lHkHZ4"
-        },
-        {
-          "name": "Shae Universe",
-          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
-        }
-      ],
-      "duration_ms": 264552,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/7z7YdeM87GplcOag7m08tb"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Holy Sun",
         "url": "https://open.spotify.com/album/0Rss280gMlEq7MuYgOlCry"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 236900,
       "name": "Holy Sun - Retromigration Remix - Edit",
       "url": "https://open.spotify.com/track/4AR4AyuKGNdqtaFZgOvsj6"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/0aBn2yFmfeYbfhEYpFMEy9"
+      },
+      "artists": [
+        {
+          "name": "ADO",
+          "url": "https://open.spotify.com/artist/2OAEsMvEXwG6AQQ7lHkHZ4"
+        },
+        {
+          "name": "Shae Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        }
+      ],
+      "duration_ms": 264552,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/7z7YdeM87GplcOag7m08tb"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1399,46 +1399,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Straight From The Heart (Moplen Remix)",
-        "url": "https://open.spotify.com/album/3BM47PnpTojvOKwFx7fy3F"
-      },
-      "artists": [
-        {
-          "name": "Loose Change",
-          "url": "https://open.spotify.com/artist/6BMcXknXEY3ggl29TpedBF"
-        },
-        {
-          "name": "Moplen",
-          "url": "https://open.spotify.com/artist/3NcMPhTdRUe1VhAX2e6upk"
-        }
-      ],
-      "duration_ms": 519392,
-      "name": "Straight From The Heart - Moplen Remix",
-      "url": "https://open.spotify.com/track/5Q1WL9Hj1nzSvy4UtRLPgP"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "House Classics V (Presented by Harley & Muscle)",
-        "url": "https://open.spotify.com/album/7h7XZ78QlYAgRh69VlG3L9"
-      },
-      "artists": [
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        },
-        {
-          "name": "Arnold Jarvis",
-          "url": "https://open.spotify.com/artist/7KWmHJx8szSRWhzUHluYC5"
-        }
-      ],
-      "duration_ms": 372908,
-      "name": "Inspiration",
-      "url": "https://open.spotify.com/track/202tI4GzvovvGhMbqgmXDQ"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Free Pt. I",
         "url": "https://open.spotify.com/album/5mWpWGOgxSZ1obP7ZrXi5h"
       },
@@ -1475,22 +1435,42 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Let It All Out",
-        "url": "https://open.spotify.com/album/0O8bIeUyL9souZRxkr7yrw"
+        "name": "Straight From The Heart (Moplen Remix)",
+        "url": "https://open.spotify.com/album/3BM47PnpTojvOKwFx7fy3F"
       },
       "artists": [
         {
-          "name": "Sam Redmore",
-          "url": "https://open.spotify.com/artist/3McygTbX192HcFzSHa9mA6"
+          "name": "Loose Change",
+          "url": "https://open.spotify.com/artist/6BMcXknXEY3ggl29TpedBF"
         },
         {
-          "name": "Lumi HD",
-          "url": "https://open.spotify.com/artist/7CeO40Nfey4GMEozUQxIDp"
+          "name": "Moplen",
+          "url": "https://open.spotify.com/artist/3NcMPhTdRUe1VhAX2e6upk"
         }
       ],
-      "duration_ms": 296500,
-      "name": "Let It All Out",
-      "url": "https://open.spotify.com/track/5HjvvAXCLDCNKEkL45UP3Q"
+      "duration_ms": 519392,
+      "name": "Straight From The Heart - Moplen Remix",
+      "url": "https://open.spotify.com/track/5Q1WL9Hj1nzSvy4UtRLPgP"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "House Classics V (Presented by Harley & Muscle)",
+        "url": "https://open.spotify.com/album/7h7XZ78QlYAgRh69VlG3L9"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        },
+        {
+          "name": "Arnold Jarvis",
+          "url": "https://open.spotify.com/artist/7KWmHJx8szSRWhzUHluYC5"
+        }
+      ],
+      "duration_ms": 372908,
+      "name": "Inspiration",
+      "url": "https://open.spotify.com/track/202tI4GzvovvGhMbqgmXDQ"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1539,6 +1519,26 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "Let It All Out",
+        "url": "https://open.spotify.com/album/0O8bIeUyL9souZRxkr7yrw"
+      },
+      "artists": [
+        {
+          "name": "Sam Redmore",
+          "url": "https://open.spotify.com/artist/3McygTbX192HcFzSHa9mA6"
+        },
+        {
+          "name": "Lumi HD",
+          "url": "https://open.spotify.com/artist/7CeO40Nfey4GMEozUQxIDp"
+        }
+      ],
+      "duration_ms": 296500,
+      "name": "Let It All Out",
+      "url": "https://open.spotify.com/track/5HjvvAXCLDCNKEkL45UP3Q"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "Bad Habit",
         "url": "https://open.spotify.com/album/2zMznSDvdN7F0J32yNZeBL"
       },
@@ -1551,6 +1551,26 @@
       "duration_ms": 406813,
       "name": "Bad Habit - feat. Lisa Millett",
       "url": "https://open.spotify.com/track/2WlL39aheJp01hsbVtZPcZ"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Meridian 2016",
+        "url": "https://open.spotify.com/album/7IevppU9STA3qUXHvkbKK9"
+      },
+      "artists": [
+        {
+          "name": "Ian Pooley",
+          "url": "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
+        },
+        {
+          "name": "Jazzanova",
+          "url": "https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T"
+        }
+      ],
+      "duration_ms": 424226,
+      "name": "What's Your Number - Jazzanova Re-Number",
+      "url": "https://open.spotify.com/track/45q5jidHHt7JkO9p9D2SER"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1579,26 +1599,6 @@
       "duration_ms": 259838,
       "name": "Listen To This Drum - Turbojazz & Sean McCabe Remix Edit",
       "url": "https://open.spotify.com/track/6YgKtrXaRXcTP6NfDENdSp"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Meridian 2016",
-        "url": "https://open.spotify.com/album/7IevppU9STA3qUXHvkbKK9"
-      },
-      "artists": [
-        {
-          "name": "Ian Pooley",
-          "url": "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
-        },
-        {
-          "name": "Jazzanova",
-          "url": "https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T"
-        }
-      ],
-      "duration_ms": 424226,
-      "name": "What's Your Number - Jazzanova Re-Number",
-      "url": "https://open.spotify.com/track/45q5jidHHt7JkO9p9D2SER"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Love Is All Around Me (The GeeW Remix - Radio Edit)",
-        "url": "https://open.spotify.com/album/62qrQesOiBCSyBE6YasSN1"
-      },
-      "artists": [
-        {
-          "name": "Shazzi",
-          "url": "https://open.spotify.com/artist/2EHRnADjom3QEdCxcmHnQZ"
-        }
-      ],
-      "duration_ms": 252842,
-      "name": "Love Is All Around Me - The GeeW Remix - Radio Edit",
-      "url": "https://open.spotify.com/track/1C0AKHOGXVvJ3bzldZ1ljI"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Here to There",
         "url": "https://open.spotify.com/album/3bYHhxZtHnG7Ys0Vpf3xvy"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 325773,
       "name": "Music in Me (Come Alive)",
       "url": "https://open.spotify.com/track/5DVTiIwuqEuXHWIOpnTSng"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Love Is All Around Me (The GeeW Remix - Radio Edit)",
+        "url": "https://open.spotify.com/album/62qrQesOiBCSyBE6YasSN1"
+      },
+      "artists": [
+        {
+          "name": "Shazzi",
+          "url": "https://open.spotify.com/artist/2EHRnADjom3QEdCxcmHnQZ"
+        }
+      ],
+      "duration_ms": 252842,
+      "name": "Love Is All Around Me - The GeeW Remix - Radio Edit",
+      "url": "https://open.spotify.com/track/1C0AKHOGXVvJ3bzldZ1ljI"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1759,6 +1759,26 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "Give My Love",
+        "url": "https://open.spotify.com/album/2C6xwwyCGut5DTdQ0AfxgZ"
+      },
+      "artists": [
+        {
+          "name": "Art of Tones",
+          "url": "https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy"
+        },
+        {
+          "name": "Inaya Day",
+          "url": "https://open.spotify.com/artist/0Uh7PxwmTPlbP3TbwBG41h"
+        }
+      ],
+      "duration_ms": 379171,
+      "name": "Give My Love - Extended Mix",
+      "url": "https://open.spotify.com/track/0uqzX8JdJQspQxUkoPC68i"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "When The Morning Comes",
         "url": "https://open.spotify.com/album/5C44djamaXUXQI1U1NzdS2"
       },
@@ -1791,26 +1811,6 @@
       "duration_ms": 319060,
       "name": "Reach Up - Original Mix",
       "url": "https://open.spotify.com/track/7AB802Sv78ZnmkgfSj8YdN"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Give My Love",
-        "url": "https://open.spotify.com/album/2C6xwwyCGut5DTdQ0AfxgZ"
-      },
-      "artists": [
-        {
-          "name": "Art of Tones",
-          "url": "https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy"
-        },
-        {
-          "name": "Inaya Day",
-          "url": "https://open.spotify.com/artist/0Uh7PxwmTPlbP3TbwBG41h"
-        }
-      ],
-      "duration_ms": 379171,
-      "name": "Give My Love - Extended Mix",
-      "url": "https://open.spotify.com/track/0uqzX8JdJQspQxUkoPC68i"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -2123,26 +2123,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Forever Together (Closer To The Source Mix)",
-        "url": "https://open.spotify.com/album/6TSxERJjCOI1TkX2k94OKH"
-      },
-      "artists": [
-        {
-          "name": "Raven Maize",
-          "url": "https://open.spotify.com/artist/5WbKRCtdFObAHIPrbF32si"
-        },
-        {
-          "name": "Dave Lee",
-          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
-        }
-      ],
-      "duration_ms": 205446,
-      "name": "Forever Together - Closer To The Source Edit",
-      "url": "https://open.spotify.com/track/3NNuDAzcpFWo3oIBSmwLJK"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Don't Look Away",
         "url": "https://open.spotify.com/album/79WElr9JfXWakohGz8Ufex"
       },
@@ -2183,6 +2163,26 @@
       "duration_ms": 584040,
       "name": "Love Calls - Darryl James Mix",
       "url": "https://open.spotify.com/track/2FcCm2RoIEKs8EfApaZt6P"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Forever Together (Closer To The Source Mix)",
+        "url": "https://open.spotify.com/album/6TSxERJjCOI1TkX2k94OKH"
+      },
+      "artists": [
+        {
+          "name": "Raven Maize",
+          "url": "https://open.spotify.com/artist/5WbKRCtdFObAHIPrbF32si"
+        },
+        {
+          "name": "Dave Lee",
+          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
+        }
+      ],
+      "duration_ms": 205446,
+      "name": "Forever Together - Closer To The Source Edit",
+      "url": "https://open.spotify.com/track/3NNuDAzcpFWo3oIBSmwLJK"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -2507,42 +2507,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Jellybean Soul Presents: Feel the Spirit, Vol. 1",
-        "url": "https://open.spotify.com/album/4cHdkMOIVkTEK3NbTpYICk"
-      },
-      "artists": [
-        {
-          "name": "Kem",
-          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
-        }
-      ],
-      "duration_ms": 494066,
-      "name": "Heaven - Marlon D. & G.A. Club Mix",
-      "url": "https://open.spotify.com/track/6jNo9oEFfOBOm8DtmqOApe"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "To The Sky",
-        "url": "https://open.spotify.com/album/5kCKjJkkDvxDPOr3JCxvaO"
-      },
-      "artists": [
-        {
-          "name": "Two Lee",
-          "url": "https://open.spotify.com/artist/4oh1KPSVbAePOewmXySInj"
-        },
-        {
-          "name": "Michelle Weeks",
-          "url": "https://open.spotify.com/artist/2RxiB8hxxiJ9qM4e1ahHru"
-        }
-      ],
-      "duration_ms": 302950,
-      "name": "To The Sky",
-      "url": "https://open.spotify.com/track/3Bf0qsaR6nrQNi0LnbQtEV"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "I Don't Mind (ReelSoul & DJ Spen Remix)",
         "url": "https://open.spotify.com/album/0ut2ljbZcJdgj8jwu7H18D"
       },
@@ -2563,6 +2527,22 @@
       "duration_ms": 440975,
       "name": "I Don't Mind (ReelSoul & DJ Spen Remix)",
       "url": "https://open.spotify.com/track/2V7wbLN0gbQLhY92CLt3un"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Jellybean Soul Presents: Feel the Spirit, Vol. 1",
+        "url": "https://open.spotify.com/album/4cHdkMOIVkTEK3NbTpYICk"
+      },
+      "artists": [
+        {
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        }
+      ],
+      "duration_ms": 494066,
+      "name": "Heaven - Marlon D. & G.A. Club Mix",
+      "url": "https://open.spotify.com/track/6jNo9oEFfOBOm8DtmqOApe"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -2591,22 +2571,22 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Pure Salinas, Vol. 2 (Compiled By Bruno from Ibiza)",
-        "url": "https://open.spotify.com/album/54lLDilAyWA0Nn59tl3qhx"
+        "name": "To The Sky",
+        "url": "https://open.spotify.com/album/5kCKjJkkDvxDPOr3JCxvaO"
       },
       "artists": [
         {
-          "name": "DJ Le Roi",
-          "url": "https://open.spotify.com/artist/5OXUEzrde6XK7zpfcxmybW"
+          "name": "Two Lee",
+          "url": "https://open.spotify.com/artist/4oh1KPSVbAePOewmXySInj"
         },
         {
-          "name": "Chappell",
-          "url": "https://open.spotify.com/artist/03c6rlE26TKE52RVHBroj5"
+          "name": "Michelle Weeks",
+          "url": "https://open.spotify.com/artist/2RxiB8hxxiJ9qM4e1ahHru"
         }
       ],
-      "duration_ms": 446026,
-      "name": "Get Ready - Halo City Deep Vocal Dub Mix",
-      "url": "https://open.spotify.com/track/1UIwHajesmlhXR0kBnGG3Y"
+      "duration_ms": 302950,
+      "name": "To The Sky",
+      "url": "https://open.spotify.com/track/3Bf0qsaR6nrQNi0LnbQtEV"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -2627,6 +2607,26 @@
       "duration_ms": 497280,
       "name": "Rain - Terry Hunter Rainy Daze Remix",
       "url": "https://open.spotify.com/track/6X91fIkR4u3cdB5nA74VSY"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Pure Salinas, Vol. 2 (Compiled By Bruno from Ibiza)",
+        "url": "https://open.spotify.com/album/54lLDilAyWA0Nn59tl3qhx"
+      },
+      "artists": [
+        {
+          "name": "DJ Le Roi",
+          "url": "https://open.spotify.com/artist/5OXUEzrde6XK7zpfcxmybW"
+        },
+        {
+          "name": "Chappell",
+          "url": "https://open.spotify.com/artist/03c6rlE26TKE52RVHBroj5"
+        }
+      ],
+      "duration_ms": 446026,
+      "name": "Get Ready - Halo City Deep Vocal Dub Mix",
+      "url": "https://open.spotify.com/track/1UIwHajesmlhXR0kBnGG3Y"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -2743,30 +2743,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "How He Works (feat. Nico Vega) [Remixes]",
-        "url": "https://open.spotify.com/album/1Qsr3G0Kw5Fhp5zA9FAMy2"
-      },
-      "artists": [
-        {
-          "name": "Louie Vega",
-          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
-        },
-        {
-          "name": "Nico Vega",
-          "url": "https://open.spotify.com/artist/0fEGnq2Ds44iXvTBhu9Xmx"
-        },
-        {
-          "name": "Cee ElAssaad",
-          "url": "https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH"
-        }
-      ],
-      "duration_ms": 424113,
-      "name": "How He Works (feat. Nico Vega) - Cee ElAssaad Remix",
-      "url": "https://open.spotify.com/track/6YzcH2ogzF1CvNMjfmlqNU"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/3RwDXsnqjYwdSKYnsm2xrM"
       },
@@ -2787,18 +2763,26 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Black Resurrection",
-        "url": "https://open.spotify.com/album/7kNu3USRBHZOrkPSEUadFZ"
+        "name": "How He Works (feat. Nico Vega) [Remixes]",
+        "url": "https://open.spotify.com/album/1Qsr3G0Kw5Fhp5zA9FAMy2"
       },
       "artists": [
         {
-          "name": "Glenn Underground",
-          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
+          "name": "Louie Vega",
+          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+        },
+        {
+          "name": "Nico Vega",
+          "url": "https://open.spotify.com/artist/0fEGnq2Ds44iXvTBhu9Xmx"
+        },
+        {
+          "name": "Cee ElAssaad",
+          "url": "https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH"
         }
       ],
-      "duration_ms": 525130,
-      "name": "Spiritually Speaking",
-      "url": "https://open.spotify.com/track/789wnKvp59iToENtaczsab"
+      "duration_ms": 424113,
+      "name": "How He Works (feat. Nico Vega) - Cee ElAssaad Remix",
+      "url": "https://open.spotify.com/track/6YzcH2ogzF1CvNMjfmlqNU"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -2827,6 +2811,22 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "Black Resurrection",
+        "url": "https://open.spotify.com/album/7kNu3USRBHZOrkPSEUadFZ"
+      },
+      "artists": [
+        {
+          "name": "Glenn Underground",
+          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
+        }
+      ],
+      "duration_ms": 525130,
+      "name": "Spiritually Speaking",
+      "url": "https://open.spotify.com/track/789wnKvp59iToENtaczsab"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "Good Inside",
         "url": "https://open.spotify.com/album/1AWrBTbrVDAnyqxfro2Fi0"
       },
@@ -2847,26 +2847,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "If Luvin You Is Wrong",
-        "url": "https://open.spotify.com/album/2Du3u4Ctd80ClmYOKvbnt3"
-      },
-      "artists": [
-        {
-          "name": "Arnaud D",
-          "url": "https://open.spotify.com/artist/3Wyoij5XcjfMcEhkhBiHkt"
-        },
-        {
-          "name": "Earl W. Green",
-          "url": "https://open.spotify.com/artist/3ycMWKEvLBwpFB7kQo9nOM"
-        }
-      ],
-      "duration_ms": 476097,
-      "name": "If Luvin You Is Wrong - Main Mix",
-      "url": "https://open.spotify.com/track/5lxa9N28yb0cZQipbdk43x"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Love Bomb",
         "url": "https://open.spotify.com/album/038vo73ab6kJi4NsOL6dX1"
       },
@@ -2883,6 +2863,26 @@
       "duration_ms": 554754,
       "name": "Earl Montana",
       "url": "https://open.spotify.com/track/7LQljpknL37lW8ki3l5Ny2"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "If Luvin You Is Wrong",
+        "url": "https://open.spotify.com/album/2Du3u4Ctd80ClmYOKvbnt3"
+      },
+      "artists": [
+        {
+          "name": "Arnaud D",
+          "url": "https://open.spotify.com/artist/3Wyoij5XcjfMcEhkhBiHkt"
+        },
+        {
+          "name": "Earl W. Green",
+          "url": "https://open.spotify.com/artist/3ycMWKEvLBwpFB7kQo9nOM"
+        }
+      ],
+      "duration_ms": 476097,
+      "name": "If Luvin You Is Wrong - Main Mix",
+      "url": "https://open.spotify.com/track/5lxa9N28yb0cZQipbdk43x"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -3011,26 +3011,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Crossroads",
-        "url": "https://open.spotify.com/album/7r5EEZrmQ9VTbKHpJ3WC1l"
-      },
-      "artists": [
-        {
-          "name": "Ron Trent",
-          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
-        },
-        {
-          "name": "Tkumah Sadeek",
-          "url": "https://open.spotify.com/artist/7dtp0FfcaR3gVdMtZvooYH"
-        }
-      ],
-      "duration_ms": 530459,
-      "name": "Crossroads - Vocal Mix",
-      "url": "https://open.spotify.com/track/22PwkCs6NcnI2tW6IbaC3x"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Upside (Bugz Upside Mix Edit)",
         "url": "https://open.spotify.com/album/3Oz8Ws4p3g5jER7sP3ZSrB"
       },
@@ -3051,6 +3031,26 @@
       "duration_ms": 195468,
       "name": "Upside - Bugz Upside Mix Edit",
       "url": "https://open.spotify.com/track/6EMTsLVajVq0Emr450Xsbh"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/7r5EEZrmQ9VTbKHpJ3WC1l"
+      },
+      "artists": [
+        {
+          "name": "Ron Trent",
+          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
+        },
+        {
+          "name": "Tkumah Sadeek",
+          "url": "https://open.spotify.com/artist/7dtp0FfcaR3gVdMtZvooYH"
+        }
+      ],
+      "duration_ms": 530459,
+      "name": "Crossroads - Vocal Mix",
+      "url": "https://open.spotify.com/track/22PwkCs6NcnI2tW6IbaC3x"
     },
     {
       "added_at": "2024-07-11 22:00:00",

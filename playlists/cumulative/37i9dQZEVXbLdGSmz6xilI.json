@@ -3780,7 +3780,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 181558,
       "name": "Ch\u1ecbu C\u00e1ch M\u00ecnh N\u00f3i Thua",
       "url": "https://open.spotify.com/track/3ZbZtdEw9U0uZW4tZItIwq"
@@ -12016,7 +12016,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 276016,
       "name": "Ng\u00e0y \u0110\u1ea7u Sau Chia Tay",
       "url": "https://open.spotify.com/track/6xKs4CnVadRzdNZ48vhT27"
@@ -12476,7 +12476,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 170898,
       "name": "NOLOVENOLIFE",
       "url": "https://open.spotify.com/track/6D94p9ASguBcYlDC0o56vx"
@@ -15204,7 +15204,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 161948,
       "name": "Simp G\u00e1i 808",
       "url": "https://open.spotify.com/track/5J3m0taZ0W1E9HTE0MwcSv"
@@ -18827,6 +18827,24 @@
     },
     {
       "album": {
+        "name": "V\u1eeba H\u1eadn V\u1eeba Y\u00eau",
+        "url": "https://open.spotify.com/album/0PUR1NmDoTbqBPD9Uxa54N"
+      },
+      "artists": [
+        {
+          "name": "Trung Tu",
+          "url": "https://open.spotify.com/artist/6NmGVS8nPcqW6tnevWF3Zg"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157239,
+      "name": "V\u1eeba H\u1eadn V\u1eeba Y\u00eau",
+      "url": "https://open.spotify.com/track/1oVbTGLd8EgyeWBoqAYBD0"
+    },
+    {
+      "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/3lZ0sW4znNieFHxGdyWXCj"
       },
@@ -20612,7 +20630,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 178924,
       "name": "\u1ed4 Qu\u1ef7",
       "url": "https://open.spotify.com/track/5WIKVELHZYJ4vl3x3xlbZD"

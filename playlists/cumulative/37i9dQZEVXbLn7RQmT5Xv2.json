@@ -646,7 +646,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 200772,
       "name": "AL ARBA3",
       "url": "https://open.spotify.com/track/0w3CE6Zu4zqkMpZLekSzLs"
@@ -4306,7 +4306,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 192926,
       "name": "Fouq",
       "url": "https://open.spotify.com/track/1CQzS4IBMOHRYGgEg3eZrz"
@@ -4856,6 +4856,24 @@
       "duration_ms": 168926,
       "name": "Haegeum",
       "url": "https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1"
+    },
+    {
+      "album": {
+        "name": "Hagat Gowaya",
+        "url": "https://open.spotify.com/album/6fz6lOjPVM8FCQlSrNLOH1"
+      },
+      "artists": [
+        {
+          "name": "Amir Eid",
+          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264851,
+      "name": "Hagat Gowaya",
+      "url": "https://open.spotify.com/track/2E5OAehopM9crGhQ5M77du"
     },
     {
       "album": {
@@ -16874,6 +16892,28 @@
       "duration_ms": 204773,
       "name": "\u064a\u0627 \u0642\u0644\u0628\u064a \u0644\u0627 \u0645\u062d\u0628\u062a\u0643\u0634 ( \u0644\u0645\u0627\u0630\u0627 \u0642\u0644\u0628\u064a \u0646\u0628\u0636\u0648 \u0642\u0644 )",
       "url": "https://open.spotify.com/track/3vPePoOiJnSDLyqD3Hvrcr"
+    },
+    {
+      "album": {
+        "name": "\u064a\u0627\u0645\u0627 \u0644\u064a\u0627\u0644\u0649",
+        "url": "https://open.spotify.com/album/0nF9zzIdmIz2glfo657qNH"
+      },
+      "artists": [
+        {
+          "name": "Sara Haytham",
+          "url": "https://open.spotify.com/artist/4oI0vKQ28dDOGjKXXaztrK"
+        },
+        {
+          "name": "Bishoy Safwat",
+          "url": "https://open.spotify.com/artist/775ljvQOg3RywKlWUpuAzj"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223125,
+      "name": "\u064a\u0627\u0645\u0627 \u0644\u064a\u0627\u0644\u0649",
+      "url": "https://open.spotify.com/track/0wD0cXqeoRzHBhkEJIMx0t"
     },
     {
       "album": {

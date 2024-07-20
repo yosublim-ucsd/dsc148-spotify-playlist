@@ -1,6 +1,6 @@
 {
   "description": "Pumping tracks for pumping iron!",
-  "num_followers": 7742393,
+  "num_followers": 7742639,
   "original_name": "Gym Hits",
   "owner": {
     "name": "Spotify",
@@ -987,26 +987,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Atmosphere",
-        "url": "https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Kita Alexander",
-          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Like A G6 (with Naeleck)",
         "url": "https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 187394,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7"
     },
     {
       "added_at": "2024-06-20 22:00:00",

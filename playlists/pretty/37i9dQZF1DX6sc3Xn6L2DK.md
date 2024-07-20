@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,162 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,170 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 43 | [Midnight Train](https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9) | [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Poor David's Almanack](https://open.spotify.com/album/2yohVBNjsgx36AC03RGyxM) | 3:18 |
 | 44 | [Green Rocky Road](https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY) | [Bria Salmena](https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8) | [Green Rocky Road](https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8) | 3:21 |
 | 45 | [Hearts on Fire \- 2002 Remaster](https://open.spotify.com/track/3THXntC8T110BDg3X8OaOf) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 3:52 |
-| 46 | [Jealous Guy](https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs) | [Luke Bell](https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ) | [Jealous Guy](https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ) | 3:50 |
-| 47 | [Sundown \(feat\. Beth Orton\)](https://open.spotify.com/track/0HVVifb5UsoyovICBXwNOf) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4), [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Sam Amidon](https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m) | 3:33 |
+| 46 | [Sundown \(feat\. Beth Orton\)](https://open.spotify.com/track/0HVVifb5UsoyovICBXwNOf) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4), [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Sam Amidon](https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m) | 3:33 |
+| 47 | [Jealous Guy](https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs) | [Luke Bell](https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ) | [Jealous Guy](https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ) | 3:50 |
 | 48 | [Wherever You Go](https://open.spotify.com/track/0blkm16pwu9wnnNLoHb3nM) | [Dee White](https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU) | [Southern Gentleman](https://open.spotify.com/album/6ZRbVOgb2dPQRDCnXNerZp) | 3:20 |
 | 49 | [Why’d Ya Do It](https://open.spotify.com/track/0PWl6yqk7yuEooaJvrpFsY) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Jeremiah / Why’d Ya Do It](https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ) | 3:37 |
 | 50 | [Looking at the Fish](https://open.spotify.com/track/6nsCfDkYAVHvd3ZmqYhUaP) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [The Happiest Times I Ever Ignored](https://open.spotify.com/album/11XMyarEmUmkEW1FabtEi9) | 5:18 |
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 57 | [Holy Ghost Fire](https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a) | 3:59 |
 | 58 | [Civilized Hell](https://open.spotify.com/track/4QO2PpZDTP0Loy9YOrKCNW) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Turn Off The News \(Build A Garden\)](https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m) | 4:50 |
 | 59 | [Mendocino \(feat\. Duane Eddy\)](https://open.spotify.com/track/5gAt45dCnLedFHWRzHqi3X) | [Jeremy Fetzer](https://open.spotify.com/artist/5Lp7RZsXfgf2qjIqCqnQ4r) | [Mendocino \(feat\. Duane Eddy\)](https://open.spotify.com/album/5QN1GDtbO2Mp3G358g84HX) | 3:58 |
-| 60 | [Send The Sun](https://open.spotify.com/track/2IUwZ8LaYyx102qKk3KQdI) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Highway Queen](https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW) | 2:57 |
-| 61 | [Denim & Diamonds](https://open.spotify.com/track/7fHUqBn0fIdmVjBLq0ofbx) | [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [Shooter](https://open.spotify.com/album/7aETyhIwmu3PpDFu2o12MG) | 3:26 |
-| 62 | [Unchained Melody](https://open.spotify.com/track/2rhkDqUHN8qheTE1vZf7T9) | [The Unrighteous Brothers](https://open.spotify.com/artist/4Q1IDfpCe7ZRhPDfqeb5dd), [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp), [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Unchained Melody / You've Lost That Lovin' Feelin'](https://open.spotify.com/album/2wuSSfY2acuozXaOth22B1) | 3:55 |
-| 63 | [Things to Burn](https://open.spotify.com/track/1Lo43muVKuiR8p7UB0qqEG) | [Caleb Lee Hutchinson](https://open.spotify.com/artist/1Ep9lOZuPcClsgR25odHK6) | [Southern Galactic](https://open.spotify.com/album/2m1aVZ8rrNN3LhNoCfkNCy) | 3:18 |
+| 60 | [Denim & Diamonds](https://open.spotify.com/track/7fHUqBn0fIdmVjBLq0ofbx) | [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [Shooter](https://open.spotify.com/album/7aETyhIwmu3PpDFu2o12MG) | 3:26 |
+| 61 | [Things to Burn](https://open.spotify.com/track/1Lo43muVKuiR8p7UB0qqEG) | [Caleb Lee Hutchinson](https://open.spotify.com/artist/1Ep9lOZuPcClsgR25odHK6) | [Southern Galactic](https://open.spotify.com/album/2m1aVZ8rrNN3LhNoCfkNCy) | 3:18 |
+| 62 | [Send The Sun](https://open.spotify.com/track/2IUwZ8LaYyx102qKk3KQdI) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Highway Queen](https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW) | 2:57 |
+| 63 | [Unchained Melody](https://open.spotify.com/track/2rhkDqUHN8qheTE1vZf7T9) | [The Unrighteous Brothers](https://open.spotify.com/artist/4Q1IDfpCe7ZRhPDfqeb5dd), [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp), [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Unchained Melody / You've Lost That Lovin' Feelin'](https://open.spotify.com/album/2wuSSfY2acuozXaOth22B1) | 3:55 |
 | 64 | [Rodeo](https://open.spotify.com/track/6q6czsVwoeC3mm0oJUwsgd) | [Charlie Marie](https://open.spotify.com/artist/406fNzpPwYacXCIIExPSuj) | [Charlie Marie](https://open.spotify.com/album/1Z0wb6vPJo4TlSQs3YU9sp) | 3:41 |
 | 65 | [The Wolf](https://open.spotify.com/track/2FGFj7w2KzTwPTWJMWcFvg) | [Gill Landry](https://open.spotify.com/artist/3HQmd0s1eohI3OA4VPd8rh) | [Skeleton at the Banquet](https://open.spotify.com/album/6sbJZndXlSLENEZDP9h6yV) | 4:54 |
 | 66 | [Fruits Of My Labour](https://open.spotify.com/track/1I82ICxLwXvTWHR09ReWC2) | [Bria Salmena](https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8) | [Cuntry Covers Vol\. 1](https://open.spotify.com/album/6z56QWKJpMuTMPF3eLA3hu) | 4:44 |

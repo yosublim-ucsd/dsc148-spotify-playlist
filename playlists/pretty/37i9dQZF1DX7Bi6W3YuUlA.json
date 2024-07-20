@@ -1,6 +1,6 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover:  <a href=\"spotify:artist:2d8NsBa8O4C6bgQatFP5V4\">nobigdyl.</a>",
-  "num_followers": 45964,
+  "num_followers": 46012,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
+        "name": "I Love It",
+        "url": "https://open.spotify.com/album/2Xy6iLb2skc9sP2LVw8W00"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 162403,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/33gnHgG4uhgFpdig9KkwgV"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
         "name": "Praise",
         "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
       },
@@ -539,22 +555,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "I Love It",
-        "url": "https://open.spotify.com/album/2Xy6iLb2skc9sP2LVw8W00"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 162403,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/33gnHgG4uhgFpdig9KkwgV"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "ME VS ME",
         "url": "https://open.spotify.com/album/5zQDF50GuLGKsOCieanQ28"
       },
@@ -571,22 +571,6 @@
       "duration_ms": 189116,
       "name": "ME VS ME",
       "url": "https://open.spotify.com/track/3rOfhtBKOJ24iFcLyrYTmq"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
-        "name": "Main",
-        "url": "https://open.spotify.com/album/7MBZXqvG8VyUt6FV5Bnd4M"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Main",
-      "url": "https://open.spotify.com/track/0vYQS3JfEzjAa8g2SBuMEa"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -631,18 +615,18 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "MAN DOWN",
-        "url": "https://open.spotify.com/album/1Pqo50wK8molwXT0fEye3h"
+        "name": "Main",
+        "url": "https://open.spotify.com/album/7MBZXqvG8VyUt6FV5Bnd4M"
       },
       "artists": [
         {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
         }
       ],
-      "duration_ms": 151663,
-      "name": "MAN DOWN",
-      "url": "https://open.spotify.com/track/4J5YUxG50J9LrQ3Twv9jY9"
+      "duration_ms": 168750,
+      "name": "Main",
+      "url": "https://open.spotify.com/track/0vYQS3JfEzjAa8g2SBuMEa"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -667,6 +651,22 @@
       "duration_ms": 175250,
       "name": "HEAD TO HADES",
       "url": "https://open.spotify.com/track/58sGcIFRdGOQ7bUi62HBes"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "MAN DOWN",
+        "url": "https://open.spotify.com/album/1Pqo50wK8molwXT0fEye3h"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "duration_ms": 151663,
+      "name": "MAN DOWN",
+      "url": "https://open.spotify.com/track/4J5YUxG50J9LrQ3Twv9jY9"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
+        "name": "No Loss",
+        "url": "https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN"
+      },
+      "artists": [
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "duration_ms": 175018,
+      "name": "No Loss",
+      "url": "https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
         "name": "Talk To Me Nice",
         "url": "https://open.spotify.com/album/5A5sFoe5kD6AO26FgXynON"
       },
@@ -771,18 +787,18 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "No Loss",
-        "url": "https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN"
+        "name": "It Could Be Worse",
+        "url": "https://open.spotify.com/album/4hhMSsLW0rRcNmXFF9qWPw"
       },
       "artists": [
         {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
         }
       ],
-      "duration_ms": 175018,
-      "name": "No Loss",
-      "url": "https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7"
+      "duration_ms": 144021,
+      "name": "It Could Be Worse",
+      "url": "https://open.spotify.com/track/1pn9N05evZd09npQBnsC31"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -807,22 +823,6 @@
       "duration_ms": 194283,
       "name": "2BIG!",
       "url": "https://open.spotify.com/track/1b6aMjLdJG6zAytUggQHj1"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
-        "name": "It Could Be Worse",
-        "url": "https://open.spotify.com/album/4hhMSsLW0rRcNmXFF9qWPw"
-      },
-      "artists": [
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        }
-      ],
-      "duration_ms": 144021,
-      "name": "It Could Be Worse",
-      "url": "https://open.spotify.com/track/1pn9N05evZd09npQBnsC31"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -879,26 +879,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V"
-      },
-      "artists": [
-        {
-          "name": "Sam Rivera",
-          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 176938,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "TIGHTROPE",
         "url": "https://open.spotify.com/album/5PDi46ieLVa8dQagMPxySo"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 184000,
       "name": "TIGHTROPE",
       "url": "https://open.spotify.com/track/1AUw3hXkj4phJ29UQ3WsiD"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V"
+      },
+      "artists": [
+        {
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 176938,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1399,6 +1399,26 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
+        "name": "Everywhere + Nowhere (Black Edition Deluxe)",
+        "url": "https://open.spotify.com/album/308B9tBVWyLjjLan4517p4"
+      },
+      "artists": [
+        {
+          "name": "Guvna B",
+          "url": "https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        }
+      ],
+      "duration_ms": 188443,
+      "name": "Very Original",
+      "url": "https://open.spotify.com/track/5qbzWsGFJ6zLDTim11yaLa"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
         "name": "Grind (feat. Kaleb Mitchell)",
         "url": "https://open.spotify.com/album/23zxLb7w5htCeR3xTolpFk"
       },
@@ -1419,26 +1439,6 @@
       "duration_ms": 186906,
       "name": "Grind (feat. Kaleb Mitchell)",
       "url": "https://open.spotify.com/track/3EVYGJMre02KMtDbnvBLI8"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
-        "name": "Everywhere + Nowhere (Black Edition Deluxe)",
-        "url": "https://open.spotify.com/album/308B9tBVWyLjjLan4517p4"
-      },
-      "artists": [
-        {
-          "name": "Guvna B",
-          "url": "https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H"
-        },
-        {
-          "name": "D Double E",
-          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
-        }
-      ],
-      "duration_ms": 188443,
-      "name": "Very Original",
-      "url": "https://open.spotify.com/track/5qbzWsGFJ6zLDTim11yaLa"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
+        "name": "Feelin\u2019 Blessed",
+        "url": "https://open.spotify.com/album/1vqIbWGFy0TchFrbS0ZMGP"
+      },
+      "artists": [
+        {
+          "name": "Message Muzik",
+          "url": "https://open.spotify.com/artist/2Zb6NqJgw5gvlXuW9Ww0i0"
+        },
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "Feelin\u2019 Blessed",
+      "url": "https://open.spotify.com/track/2ra2e3dUMbtZj9c6H7NGqV"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
         "name": "Reality Checks",
         "url": "https://open.spotify.com/album/2HhfhRKQym6KfjQdQAZ4Wo"
       },
@@ -1559,26 +1579,6 @@
       "duration_ms": 245643,
       "name": "Already Won",
       "url": "https://open.spotify.com/track/5J5kD4jXgjQ69FsCS0gFYS"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
-        "name": "Feelin\u2019 Blessed",
-        "url": "https://open.spotify.com/album/1vqIbWGFy0TchFrbS0ZMGP"
-      },
-      "artists": [
-        {
-          "name": "Message Muzik",
-          "url": "https://open.spotify.com/artist/2Zb6NqJgw5gvlXuW9Ww0i0"
-        },
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "Feelin\u2019 Blessed",
-      "url": "https://open.spotify.com/track/2ra2e3dUMbtZj9c6H7NGqV"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "Great Is He",
-        "url": "https://open.spotify.com/album/0F2g2Lr7ejLUJkLKToHRSf"
+        "name": "believe",
+        "url": "https://open.spotify.com/album/0y47M4ia6gXB0QCJ7tz012"
       },
       "artists": [
         {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+          "name": "Sajan Nauriyal",
+          "url": "https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6"
         }
       ],
-      "duration_ms": 201204,
-      "name": "Great Is He",
-      "url": "https://open.spotify.com/track/7baxiYAhAx9MHum5NhtOML"
+      "duration_ms": 155094,
+      "name": "believe",
+      "url": "https://open.spotify.com/track/7cwcU3UHeJs4RejjIhDoKt"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "believe",
-        "url": "https://open.spotify.com/album/0y47M4ia6gXB0QCJ7tz012"
+        "name": "Great Is He",
+        "url": "https://open.spotify.com/album/0F2g2Lr7ejLUJkLKToHRSf"
       },
       "artists": [
         {
-          "name": "Sajan Nauriyal",
-          "url": "https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6"
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
         }
       ],
-      "duration_ms": 155094,
-      "name": "believe",
-      "url": "https://open.spotify.com/track/7cwcU3UHeJs4RejjIhDoKt"
+      "duration_ms": 201204,
+      "name": "Great Is He",
+      "url": "https://open.spotify.com/track/7baxiYAhAx9MHum5NhtOML"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
+        "name": "Find a Way to Smile Again",
+        "url": "https://open.spotify.com/album/0AMPhQCVq4L6dYWMa2Zi2e"
+      },
+      "artists": [
+        {
+          "name": "Taelor Gray",
+          "url": "https://open.spotify.com/artist/581tKXVRFKxu6aSyhYMqan"
+        }
+      ],
+      "duration_ms": 200470,
+      "name": "Put Me Back Together",
+      "url": "https://open.spotify.com/track/2qU8O6nsI8smkXTgG21IDf"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
         "name": "Yahweh",
         "url": "https://open.spotify.com/album/7fobcrGBcDBoIizpcIEFFP"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 153567,
       "name": "Yahweh",
       "url": "https://open.spotify.com/track/6sOoBOMGIyYXvz7Xk4kxkn"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
-        "name": "Find a Way to Smile Again",
-        "url": "https://open.spotify.com/album/0AMPhQCVq4L6dYWMa2Zi2e"
-      },
-      "artists": [
-        {
-          "name": "Taelor Gray",
-          "url": "https://open.spotify.com/artist/581tKXVRFKxu6aSyhYMqan"
-        }
-      ],
-      "duration_ms": 200470,
-      "name": "Put Me Back Together",
-      "url": "https://open.spotify.com/track/2qU8O6nsI8smkXTgG21IDf"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "No, I'm Not Ok",
-        "url": "https://open.spotify.com/album/3u4r7PPpeLlX274Ks1wGQp"
-      },
-      "artists": [
-        {
-          "name": "Jay-Way",
-          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "Keeping On",
-      "url": "https://open.spotify.com/track/70d7mKdWHKtw1YL6BZXOrL"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "WES",
         "url": "https://open.spotify.com/album/2OuiDIceUU6HfAwvtucypW"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 114155,
       "name": "WES",
       "url": "https://open.spotify.com/track/1Fu9ShPcWVRufPrhyTucB8"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "No, I'm Not Ok",
+        "url": "https://open.spotify.com/album/3u4r7PPpeLlX274Ks1wGQp"
+      },
+      "artists": [
+        {
+          "name": "Jay-Way",
+          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "Keeping On",
+      "url": "https://open.spotify.com/track/70d7mKdWHKtw1YL6BZXOrL"
     },
     {
       "added_at": "2024-06-28 07:29:32",

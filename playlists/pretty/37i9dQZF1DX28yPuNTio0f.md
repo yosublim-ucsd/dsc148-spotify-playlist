@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28yPuNTio0f.md) - [plain]
 
 > The sound of Summer 2024!
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,593 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,591 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28yPuNTio0f.md) - [plain]
 | 41 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 |
 | 42 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 |
 | 43 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY), [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 |
-| 44 | [All Out Of Fight](https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL \(Tour Deluxe Edition\)](https://open.spotify.com/album/4hgincUyDza4A228fFQRiK) | 3:32 |
-| 45 | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT) | 3:15 |
+| 44 | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT) | 3:15 |
+| 45 | [All Out Of Fight](https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL \(Tour Deluxe Edition\)](https://open.spotify.com/album/4hgincUyDza4A228fFQRiK) | 3:32 |
 | 46 | [Stay High](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Stay High](https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ) | 3:08 |
 | 47 | [Paint The Town Red](https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:50 |
 | 48 | [In The City](https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The City](https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT) | 2:56 |

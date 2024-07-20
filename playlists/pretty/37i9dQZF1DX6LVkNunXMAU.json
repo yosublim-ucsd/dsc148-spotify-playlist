@@ -1,6 +1,6 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Paola Navarrete & Adanowsky.",
-  "num_followers": 57967,
+  "num_followers": 57966,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Cuando Empec\u00e9 a Quererte",
+        "url": "https://open.spotify.com/album/25doXoyYkwPZvdyKUcI0Sw"
+      },
+      "artists": [
+        {
+          "name": "Gamuza",
+          "url": "https://open.spotify.com/artist/4bufWdghDtHvVeDn2C7V5D"
+        }
+      ],
+      "duration_ms": 185866,
+      "name": "Cuando Empec\u00e9 a Quererte",
+      "url": "https://open.spotify.com/track/7uZpmSxgoSoor0D6kx254a"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "Lo que necesito",
         "url": "https://open.spotify.com/album/4IsJ57gam4V2vSqrN5GlKT"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 200191,
       "name": "Lo que necesito",
       "url": "https://open.spotify.com/track/3uTIEwwY9uHgmKEbkaGDFd"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Cuando Empec\u00e9 a Quererte",
-        "url": "https://open.spotify.com/album/25doXoyYkwPZvdyKUcI0Sw"
-      },
-      "artists": [
-        {
-          "name": "Gamuza",
-          "url": "https://open.spotify.com/artist/4bufWdghDtHvVeDn2C7V5D"
-        }
-      ],
-      "duration_ms": 185866,
-      "name": "Cuando Empec\u00e9 a Quererte",
-      "url": "https://open.spotify.com/track/7uZpmSxgoSoor0D6kx254a"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -815,6 +815,26 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Particular",
+        "url": "https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj"
+      },
+      "artists": [
+        {
+          "name": "TORO",
+          "url": "https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y"
+        },
+        {
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
+        }
+      ],
+      "duration_ms": 165808,
+      "name": "Particular",
+      "url": "https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "Ganas de Dejarte",
         "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 231154,
       "name": "Amante",
       "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Particular",
-        "url": "https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj"
-      },
-      "artists": [
-        {
-          "name": "TORO",
-          "url": "https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y"
-        },
-        {
-          "name": "INE",
-          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
-        }
-      ],
-      "duration_ms": 165808,
-      "name": "Particular",
-      "url": "https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -955,26 +955,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Mis Amantes",
-        "url": "https://open.spotify.com/album/1clEtt82cNNqkh6YWU2fBc"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        },
-        {
-          "name": "Kastiello",
-          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
-        }
-      ],
-      "duration_ms": 229622,
-      "name": "Mis Amantes",
-      "url": "https://open.spotify.com/track/0Z02F4Jh582ZU59skYyXUD"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "El Plan Mayor",
         "url": "https://open.spotify.com/album/3gwoxCZpCCpcWlmuoR0efY"
       },
@@ -995,18 +975,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "INFRUTESCENCIA",
-        "url": "https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm"
+        "name": "Mis Amantes",
+        "url": "https://open.spotify.com/album/1clEtt82cNNqkh6YWU2fBc"
       },
       "artists": [
         {
-          "name": "CATALINA",
-          "url": "https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2"
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        },
+        {
+          "name": "Kastiello",
+          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
         }
       ],
-      "duration_ms": 139264,
-      "name": "PARA VERTE",
-      "url": "https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0"
+      "duration_ms": 229622,
+      "name": "Mis Amantes",
+      "url": "https://open.spotify.com/track/0Z02F4Jh582ZU59skYyXUD"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1043,6 +1027,22 @@
       "duration_ms": 214010,
       "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
       "url": "https://open.spotify.com/track/1oFbEDVpdRzwHzHUFzvYXB"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "INFRUTESCENCIA",
+        "url": "https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm"
+      },
+      "artists": [
+        {
+          "name": "CATALINA",
+          "url": "https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2"
+        }
+      ],
+      "duration_ms": 139264,
+      "name": "PARA VERTE",
+      "url": "https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/5GtNzOeObvCTuob1bxt7e0"
+      },
+      "artists": [
+        {
+          "name": "Valdes",
+          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+        }
+      ],
+      "duration_ms": 244689,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/5g2zTEnrgZQa9MInAahB3h"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "Un Espejismo",
         "url": "https://open.spotify.com/album/09t2QufWnwK3qqAyojkkis"
       },
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/5GtNzOeObvCTuob1bxt7e0"
-      },
-      "artists": [
-        {
-          "name": "Valdes",
-          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
-        }
-      ],
-      "duration_ms": 244689,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/5g2zTEnrgZQa9MInAahB3h"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
       },
@@ -1255,22 +1255,6 @@
       "duration_ms": 170866,
       "name": "Solo",
       "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "miel <3",
-        "url": "https://open.spotify.com/album/6HsQoY5d6BWRwcQF308Vpw"
-      },
-      "artists": [
-        {
-          "name": "Valeria Jasso",
-          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
-        }
-      ],
-      "duration_ms": 203157,
-      "name": "miel <3",
-      "url": "https://open.spotify.com/track/6yaGq15NkA6cho4zUUfn5w"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1291,6 +1275,22 @@
       "duration_ms": 168026,
       "name": "no hace falta saber",
       "url": "https://open.spotify.com/track/6lXq1bTonpEYQYSQ9IXI1Y"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "miel <3",
+        "url": "https://open.spotify.com/album/6HsQoY5d6BWRwcQF308Vpw"
+      },
+      "artists": [
+        {
+          "name": "Valeria Jasso",
+          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
+        }
+      ],
+      "duration_ms": 203157,
+      "name": "miel <3",
+      "url": "https://open.spotify.com/track/6yaGq15NkA6cho4zUUfn5w"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1347,38 +1347,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Qui\u00e9n Pudiera?",
-        "url": "https://open.spotify.com/album/2MYyRpVLzYJuTwO70iLQph"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        },
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        },
-        {
-          "name": "\u00c7antamarta",
-          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
-        },
-        {
-          "name": "Veztalone",
-          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
-        },
-        {
-          "name": "Comida Para Llevar",
-          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
-        }
-      ],
-      "duration_ms": 213861,
-      "name": "Qui\u00e9n Pudiera?",
-      "url": "https://open.spotify.com/track/0oPGGzsXUmZswgsxUhLn45"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "El Vals",
         "url": "https://open.spotify.com/album/1I0GlSP3diYHVYtDaXFyrN"
       },
@@ -1411,6 +1379,54 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Cu\u00e9ntanos Lo Que Pas\u00f3\u2026",
+        "url": "https://open.spotify.com/album/2AqxjpMBlOA9RZx8RWbmju"
+      },
+      "artists": [
+        {
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+        }
+      ],
+      "duration_ms": 182866,
+      "name": "Cu\u00e9ntanos Lo Que Pas\u00f3\u2026",
+      "url": "https://open.spotify.com/track/2qNkCvTOfJFdXglLsjzwBO"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Qui\u00e9n Pudiera?",
+        "url": "https://open.spotify.com/album/2MYyRpVLzYJuTwO70iLQph"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        },
+        {
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        },
+        {
+          "name": "Veztalone",
+          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
+        },
+        {
+          "name": "Comida Para Llevar",
+          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
+        }
+      ],
+      "duration_ms": 213861,
+      "name": "Qui\u00e9n Pudiera?",
+      "url": "https://open.spotify.com/track/0oPGGzsXUmZswgsxUhLn45"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "Coquimbo, Mazatl\u00e1n",
         "url": "https://open.spotify.com/album/44SIr0g0SdQWjxmZSOo6cd"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 264732,
       "name": "Coquimbo, Mazatl\u00e1n",
       "url": "https://open.spotify.com/track/6hJ3NOmGfnY11dvwsM2I3Z"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Cu\u00e9ntanos Lo Que Pas\u00f3\u2026",
-        "url": "https://open.spotify.com/album/2AqxjpMBlOA9RZx8RWbmju"
-      },
-      "artists": [
-        {
-          "name": "Vera Pedro",
-          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
-        }
-      ],
-      "duration_ms": 182866,
-      "name": "Cu\u00e9ntanos Lo Que Pas\u00f3\u2026",
-      "url": "https://open.spotify.com/track/2qNkCvTOfJFdXglLsjzwBO"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Sed de Ternura Vol.1 (Duo Set)",
-        "url": "https://open.spotify.com/album/4qYPcULqIyFhuyqBRbDHpA"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        },
-        {
-          "name": "Juan Pablo de Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/3mtXjQYoBmpnmZeCchOLVT"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/40R2dPgyTDiToHbjU6Nen0"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "En una",
         "url": "https://open.spotify.com/album/0ksnp7Yvn8AqWXAyhiZLD1"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 219647,
       "name": "En una",
       "url": "https://open.spotify.com/track/0JljvMGjWcpbKY5pultmMb"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Sed de Ternura Vol.1 (Duo Set)",
+        "url": "https://open.spotify.com/album/4qYPcULqIyFhuyqBRbDHpA"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        },
+        {
+          "name": "Juan Pablo de Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/3mtXjQYoBmpnmZeCchOLVT"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/40R2dPgyTDiToHbjU6Nen0"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf"
-      },
-      "artists": [
-        {
-          "name": "Andres",
-          "url": "https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f"
-        }
-      ],
-      "duration_ms": 161531,
-      "name": "Hurac\u00e1n",
-      "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "SAD",
         "url": "https://open.spotify.com/album/5AHDaEzx1v4KKwMHJxJB1E"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 224693,
       "name": "SAD",
       "url": "https://open.spotify.com/track/4QLq5Ckjq14BcvnO1tAo9d"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf"
+      },
+      "artists": [
+        {
+          "name": "Andres",
+          "url": "https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f"
+        }
+      ],
+      "duration_ms": 161531,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
     },
     {
       "added_at": "2024-04-12 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 
 > Get into the flow of the forest, with relaxing natural water sounds of small creeks and calming streams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,296 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,333 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 | 46 | [Soothing Stream](https://open.spotify.com/track/1SORCxjXkhCI9KKMVWziVC) | [Daichi](https://open.spotify.com/artist/7zzSVeglgyoJFOhuqJCWCg) | [River Run](https://open.spotify.com/album/41ZY6k3GWlLC7eGf3tAeRE) | 3:20 |
 | 47 | [Spring Creek](https://open.spotify.com/track/4AubLLJUxHh4PxDCJUZiSx) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Spring Creek](https://open.spotify.com/album/1qq0T0W2P5yH7rsjSwWMWV) | 2:23 |
 | 48 | [Riverside Rocks](https://open.spotify.com/track/2IMSmgeJgxcfKvc1rqZy8f) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [River Relaxation](https://open.spotify.com/album/2eFLy8Nq0j7oUt7KxZka22) | 3:15 |
-| 49 | [Talking Brook](https://open.spotify.com/track/2qhwrFonXUvL3qQZjDkpvJ) | [Textures of Nature](https://open.spotify.com/artist/1cHBh4M6X8d6UYnkh6geMs) | [Streams for Healing](https://open.spotify.com/album/2sP6x6CHEYl34krg2cPWLr) | 2:36 |
-| 50 | [Rippling Stream](https://open.spotify.com/track/7DcoQUbnca3hPw7V0DuwjV) | [Field Rec Deluxe](https://open.spotify.com/artist/5Cmb5ilCwITgT75vaHmKFw) | [Rippling Water](https://open.spotify.com/album/1VGjNnahsAULDSGurQ5DDW) | 2:27 |
+| 49 | [Rippling Stream](https://open.spotify.com/track/7DcoQUbnca3hPw7V0DuwjV) | [Field Rec Deluxe](https://open.spotify.com/artist/5Cmb5ilCwITgT75vaHmKFw) | [Rippling Water](https://open.spotify.com/album/1VGjNnahsAULDSGurQ5DDW) | 2:27 |
+| 50 | [Talking Brook](https://open.spotify.com/track/2qhwrFonXUvL3qQZjDkpvJ) | [Textures of Nature](https://open.spotify.com/artist/1cHBh4M6X8d6UYnkh6geMs) | [Streams for Healing](https://open.spotify.com/album/2sP6x6CHEYl34krg2cPWLr) | 2:36 |
 
 Snapshot ID: `ZgF3EwAAAAA6a2S1BsajF/ZPd77BH7Fv`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Epic tunes for the open road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,037 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,047 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 9 | [Run Away to Mars](https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et) | 3:33 |
 | 10 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 |
 | 11 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 |
-| 12 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 |
+| 12 | [Sandpaper \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/3JzVK0f8gqAAjyEDyXAys4) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:36 |
 | 13 | [Song While You're Away \(From Twisters: The Album\)](https://open.spotify.com/track/1ZhcazwIbu1zu2qjitf3f2) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Song While You're Away \(From Twisters: The Album\)](https://open.spotify.com/album/1ljmP8WTZlfqQJH1DR5b2V) | 5:00 |
-| 14 | [Sandpaper \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/3JzVK0f8gqAAjyEDyXAys4) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:36 |
+| 14 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 |
 | 15 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
 | 16 | [Gypsy](https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:24 |
 | 17 | [90 to 99](https://open.spotify.com/track/6J2qRzwQ0TFXKtCoBlC2MR) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [What's The Point](https://open.spotify.com/album/1vNeZt4KL1fVTU92ZLkJkD) | 2:49 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 66 | [Car Crash in G Major](https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M) | 2:12 |
 | 67 | [Big Feelings](https://open.spotify.com/track/6oNudfD8DF46sb5WyydBIi) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Big Feelings](https://open.spotify.com/album/6KP7Oe350WhXOvByoFCsg9) | 3:34 |
 | 68 | [I Fall in Love Too Easily](https://open.spotify.com/track/5PIhu07aIrL1Z8sQBB7tNJ) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [I Fall in Love Too Easily](https://open.spotify.com/album/6luCkMIM8Rouwu5HvExXgK) | 3:40 |
-| 69 | [One Less Question](https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [One Less Question](https://open.spotify.com/album/03IgjqBqPp0aTNiOxtpIiz) | 3:10 |
-| 70 | [Ordinary Games](https://open.spotify.com/track/5sZihfPufHxsamleuyUvWz) | [Vaughn](https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259) | [Ordinary Games](https://open.spotify.com/album/4ogWcadWV2rjQPADcQbgvc) | 5:04 |
+| 69 | [Ordinary Games](https://open.spotify.com/track/5sZihfPufHxsamleuyUvWz) | [Vaughn](https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259) | [Ordinary Games](https://open.spotify.com/album/4ogWcadWV2rjQPADcQbgvc) | 5:04 |
+| 70 | [One Less Question](https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [One Less Question](https://open.spotify.com/album/03IgjqBqPp0aTNiOxtpIiz) | 3:10 |
 | 71 | [Daisy Chain](https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI), [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Daisy Chain](https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD) | 2:46 |
 | 72 | [time waits](https://open.spotify.com/track/4wkwlPgwsQPr1Gcl2IB1Zz) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [time waits](https://open.spotify.com/album/5jkLcQSR8L15cf53wi5bfY) | 3:19 |
 | 73 | [getting over you](https://open.spotify.com/track/5rhdJxTqcyKOVifBh59TLK) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [clean hands dirty water](https://open.spotify.com/album/2FUHjr1aci78MwzBTsLM91) | 3:07 |

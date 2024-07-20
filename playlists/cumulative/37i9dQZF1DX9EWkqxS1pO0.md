@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Alara Serena
 
-81 songs - 3 hr 52 min
+83 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,16 +45,17 @@
 | [İSTER MİYİM](https://open.spotify.com/track/56vARurB1wKqEtBgyt8PCx) | [Aleyna Kalaycıoğlu](https://open.spotify.com/artist/3TKB1G75mSojFCZPks5KGJ) | [İSTER MİYİM](https://open.spotify.com/album/0ilySrs4AofRXkf2wmWCsF) | 2:01 | 2024-06-20 |  |
 | [İstila](https://open.spotify.com/track/55RMTZJaCJpUl4lT8JmJX7) | [Soft Analog](https://open.spotify.com/artist/0FWmCLXYps2U14dmCsiK82) | [DANS İLLÜZYON](https://open.spotify.com/album/5jBFycgr33bOZb68ET8XfB) | 3:21 | 2024-06-20 |  |
 | [Kalbimden Bi' Parçaydın](https://open.spotify.com/track/06YTnPqciwB921z8Ks0RBo) | [Eytan](https://open.spotify.com/artist/3rtgZpxBTGp6NWtLMDvvEO) | [Kalbimden Bi' Parçaydın](https://open.spotify.com/album/5UK9Y2p4My2SWMSC7oKuHq) | 2:11 | 2024-06-20 |  |
-| [Kaçıncı Yalan](https://open.spotify.com/track/6Fa9gCZDAtVHzG67zVzOAt) | [İnsan Mıyız](https://open.spotify.com/artist/6rhzUB6lAmzEpEDVkBIi7T) | [Kaçıncı Yalan](https://open.spotify.com/album/1BJAuJgaKr1dKCh19TpARY) | 2:11 | 2024-06-20 |  |
+| [Kaçıncı Yalan](https://open.spotify.com/track/6Fa9gCZDAtVHzG67zVzOAt) | [İnsan Mıyız](https://open.spotify.com/artist/6rhzUB6lAmzEpEDVkBIi7T) | [Kaçıncı Yalan](https://open.spotify.com/album/1BJAuJgaKr1dKCh19TpARY) | 2:11 | 2024-06-20 | 2024-07-20 |
 | [kelepçe](https://open.spotify.com/track/0m6ph12BbDXzfgNPwA83ne) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [kelepçe](https://open.spotify.com/album/0VVAz2skQSINs9D64ODr6w) | 2:19 | 2024-06-20 |  |
 | [Konstantinopolis](https://open.spotify.com/track/0vyeBHAowqHWGY67I0APGZ) | [Maya Perest](https://open.spotify.com/artist/35zOeNPm5Zx3AgzzG0BBfj) | [Konstantinopolis](https://open.spotify.com/album/74TJrtvcCD4EFJfXJSje2f) | 3:16 | 2024-06-20 |  |
 | [Koştum Sana](https://open.spotify.com/track/4mzA94C3c4CSpkvZLd8TUu) | [Fiza](https://open.spotify.com/artist/5cuYII7uDbqFawTP02f2yB) | [Koştum Sana](https://open.spotify.com/album/72oHd7HZwtfBNj6Dm43YBC) | 2:42 | 2024-06-20 |  |
 | [MELEK MİYİM](https://open.spotify.com/track/0HSj4XkXceHcSiwKcWxc1V) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [MELEK MİYİM](https://open.spotify.com/album/6UCpFr6aaLjtHSX3GpKCKb) | 2:31 | 2024-06-20 |  |
-| [Mutluluk Bizim](https://open.spotify.com/track/7uoTayR7oZ7eo8i6qiWyKQ) | [Zeki Dizdar](https://open.spotify.com/artist/24APBiHTNXuEpwYC2jag26) | [Mutluluk Bizim](https://open.spotify.com/album/5TqdStIvA3RsxshJHx4lIi) | 3:52 | 2024-06-20 |  |
+| [Mutluluk Bizim](https://open.spotify.com/track/7uoTayR7oZ7eo8i6qiWyKQ) | [Zeki Dizdar](https://open.spotify.com/artist/24APBiHTNXuEpwYC2jag26) | [Mutluluk Bizim](https://open.spotify.com/album/5TqdStIvA3RsxshJHx4lIi) | 3:52 | 2024-06-20 | 2024-07-20 |
 | [Napabilirdim](https://open.spotify.com/track/5mmXTx1yzPtvukY5O4J8Wr) | [Ali Meydanioğlu](https://open.spotify.com/artist/4fBIAPckfneje8qmOasnVf) | [Napabilirdim](https://open.spotify.com/album/6icXPANHZ0kg8FIUFQRXBo) | 2:29 | 2024-06-20 |  |
 | [Neden Diye Düşünmekten](https://open.spotify.com/track/7Bax5SaGIbf0CjlKuPTCPC) | [Evden Uzak](https://open.spotify.com/artist/0vRq3n88TpLFrreBF9GmIh) | [Neden Diye Düşünmekten](https://open.spotify.com/album/1JnHIXvaXu171icMjyZvxY) | 3:00 | 2024-06-20 |  |
 | [Normalde](https://open.spotify.com/track/6wLrvbWwQI3o5gpWEnJTFw) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [Normalde](https://open.spotify.com/album/2IXnb0005FkTtvxvpZNiYs) | 2:21 | 2024-06-20 |  |
 | [olmazsan da olur](https://open.spotify.com/track/0YrMEGICoUQ5QzQPmUDqou) | [ILKE](https://open.spotify.com/artist/6HFMFBSKBz3HrMIvmdM5LP), [Özkan](https://open.spotify.com/artist/4DtIvaqPA65sH5o6oelleY) | [olmazsan da olur](https://open.spotify.com/album/4qaSxmAB6YkR0t9U0Bmbrr) | 3:46 | 2024-06-20 | 2024-07-12 |
+| [Onu da Hiç Silemedim Bir Anısı Var](https://open.spotify.com/track/7F5UtoioUJvUjMUkE6GnPi) | [TurkodiRoma](https://open.spotify.com/artist/5ms13kENAqc7SAFQvPQz7L) | [Onu da Hiç Silemedim Bir Anısı Var](https://open.spotify.com/album/2ptbJBBhBDpgIUhw10x0qg) | 2:36 | 2024-07-12 |  |
 | [rüyet](https://open.spotify.com/track/7thtv8TVmmxx5edxwk9r1o) | [Anıl Ulusoy](https://open.spotify.com/artist/4GiOCNBFYdYJ0e7trjiOaO), [Suzan Hacigarip](https://open.spotify.com/artist/70sxCmeoRmcpTdH4atqPDV) | [rüyet](https://open.spotify.com/album/43RbKe4SAbTgx2GqLINY43) | 4:15 | 2024-06-20 |  |
 | [Rüzgarın Peşinde](https://open.spotify.com/track/2dlYKaAlRXc3s9Xt0T6XvV) | [Okyanus Caddesi](https://open.spotify.com/artist/23rss6kqqXejwS6klTb49G) | [Rüzgarın Peşinde](https://open.spotify.com/album/3fsBYajHJEHVWHL9Qw6ZQ8) | 3:34 | 2024-06-20 |  |
 | [Sabahın Dört Buçuğunda](https://open.spotify.com/track/5ps4DiaUpc6l96ixypIXkn) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Sabahın Dört Buçuğunda](https://open.spotify.com/album/5aKXt3i7tNjPHlbJLvaL5y) | 3:37 | 2024-07-04 | 2024-07-06 |
@@ -62,6 +63,7 @@
 | [Sen De Duysan](https://open.spotify.com/track/2AjxQZgvrh0URRqVlDv4SE) | [Soner Han](https://open.spotify.com/artist/6rwdqGbhoOisi9wCeLKJs8) | [Sen De Duysan](https://open.spotify.com/album/03NTqiplIlk3pWEDAgrQX4) | 3:27 | 2024-06-20 |  |
 | [sendin izlerim](https://open.spotify.com/track/4bQtBQfboIxsdKwLP7Do8s) | [zei](https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa), [Cotard](https://open.spotify.com/artist/0OR34vxRvcPuyDK9s7EuQ8) | [mani](https://open.spotify.com/album/39HaoKUrwGZnMpxgiqPvpH) | 2:35 | 2024-06-20 |  |
 | [Senin Yüzünden](https://open.spotify.com/track/2WPDvv1Mew0mcnh68D1LSG) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [Senin Yüzünden](https://open.spotify.com/album/2WobQE09DjAqAOVne4Q4j1) | 2:56 | 2024-06-20 |  |
+| [SENİN OLSUN](https://open.spotify.com/track/6HjKzIcneM1tVlpQlKulkq) | [Alaca](https://open.spotify.com/artist/67MoCLjdlVakijtIPLmkfB) | [SENİN OLSUN](https://open.spotify.com/album/326BUEFl106rDVFFTxnHyF) | 2:51 | 2024-07-12 |  |
 | [Sesim Kulaklıklarında](https://open.spotify.com/track/7aUT5V4qet2cJlyeV8eq3W) | [Egemen Akkol](https://open.spotify.com/artist/0ElJABfA5B9H3gSqB6wf4l) | [Sesim Kulaklıklarında](https://open.spotify.com/album/4pkJ2OaDoyocWq68fnQ8up) | 3:22 | 2024-06-20 |  |
 | [Sil Numaramı](https://open.spotify.com/track/2UaT5jEKf4XUvCUC7O9LQh) | [Berkay Altunyay](https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59) | [Sil Numaramı](https://open.spotify.com/album/2HEq9rAXOx2W6aUcu1dElM) | 2:31 | 2024-06-20 |  |
 | [Sonu Gelmesin](https://open.spotify.com/track/5gy0tymPj3IxNgLeOMxKUc) | [Okyanus Caddesi](https://open.spotify.com/artist/23rss6kqqXejwS6klTb49G) | [Sonu Gelmesin](https://open.spotify.com/album/2nNf7el3Hbz0EKg2nSeEfj) | 2:57 | 2024-06-20 |  |

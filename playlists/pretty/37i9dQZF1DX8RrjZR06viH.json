@@ -1,6 +1,6 @@
 {
   "description": "Sommersola er her <3\n",
-  "num_followers": 88518,
+  "num_followers": 88539,
   "original_name": "Sommersol",
   "owner": {
     "name": "Spotify",
@@ -415,18 +415,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "To Be Alright",
-        "url": "https://open.spotify.com/album/4j8V43kmmEB6z8H6axjDcn"
+        "name": "Over Deg",
+        "url": "https://open.spotify.com/album/0Mctxv1ffjDMh8aWvY8qyR"
       },
       "artists": [
         {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Morgan Sulele",
+          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
         }
       ],
-      "duration_ms": 245640,
-      "name": "To Be Alright",
-      "url": "https://open.spotify.com/track/2XQAoWy82t8LtVTpRKdepd"
+      "duration_ms": 147093,
+      "name": "Over Deg",
+      "url": "https://open.spotify.com/track/5x84ULxcLPCFWHBwEmuGuV"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -451,18 +451,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Over Deg",
-        "url": "https://open.spotify.com/album/0Mctxv1ffjDMh8aWvY8qyR"
+        "name": "To Be Alright",
+        "url": "https://open.spotify.com/album/4j8V43kmmEB6z8H6axjDcn"
       },
       "artists": [
         {
-          "name": "Morgan Sulele",
-          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 147093,
-      "name": "Over Deg",
-      "url": "https://open.spotify.com/track/5x84ULxcLPCFWHBwEmuGuV"
+      "duration_ms": 245640,
+      "name": "To Be Alright",
+      "url": "https://open.spotify.com/track/2XQAoWy82t8LtVTpRKdepd"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -551,22 +551,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Care",
-        "url": "https://open.spotify.com/album/2sucF1hUsAFKcZb0pqfxow"
+        "name": "A Potion For Love",
+        "url": "https://open.spotify.com/album/79kiDzdz5iv1aQ68x4PJA0"
       },
       "artists": [
         {
-          "name": "Lemaitre",
-          "url": "https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764"
-        },
-        {
-          "name": "Hannah Storm",
-          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 244723,
-      "name": "Care",
-      "url": "https://open.spotify.com/track/0RB6Saze1O8DugkNzqzEed"
+      "duration_ms": 216426,
+      "name": "A Potion For Love",
+      "url": "https://open.spotify.com/track/5Xk6GwwLwQaklody4DslTD"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -583,22 +579,6 @@
       "duration_ms": 161146,
       "name": "Lyst p\u00e5 d\u00e6",
       "url": "https://open.spotify.com/track/0pAaQWTrmbKEVPL0mlB9Sx"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "A Potion For Love",
-        "url": "https://open.spotify.com/album/79kiDzdz5iv1aQ68x4PJA0"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 216426,
-      "name": "A Potion For Love",
-      "url": "https://open.spotify.com/track/5Xk6GwwLwQaklody4DslTD"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -623,18 +603,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Summer Rain",
-        "url": "https://open.spotify.com/album/2E1MUrxQRirP7wmVTzE82B"
+        "name": "Care",
+        "url": "https://open.spotify.com/album/2sucF1hUsAFKcZb0pqfxow"
       },
       "artists": [
         {
-          "name": "Victoria Nadine",
-          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+          "name": "Lemaitre",
+          "url": "https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764"
+        },
+        {
+          "name": "Hannah Storm",
+          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
         }
       ],
-      "duration_ms": 162930,
-      "name": "Summer Rain",
-      "url": "https://open.spotify.com/track/3LVadaj97lffSz5nUD9mWC"
+      "duration_ms": 244723,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/0RB6Saze1O8DugkNzqzEed"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -651,6 +635,22 @@
       "duration_ms": 190405,
       "name": "Finaste s\u00e5 finns",
       "url": "https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Summer Rain",
+        "url": "https://open.spotify.com/album/2E1MUrxQRirP7wmVTzE82B"
+      },
+      "artists": [
+        {
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+        }
+      ],
+      "duration_ms": 162930,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/3LVadaj97lffSz5nUD9mWC"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Felt Cute Might Delete Later",
-        "url": "https://open.spotify.com/album/2UuMruIqntCAoh3BbqgkRL"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 131642,
-      "name": "Darkest Hour",
-      "url": "https://open.spotify.com/track/6kVuwV25QpvLUDXwJEREwb"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Hellig",
         "url": "https://open.spotify.com/album/6Z9PlffXEr7io6QJS3NAEv"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 219672,
       "name": "Hellig",
       "url": "https://open.spotify.com/track/6M51NPgawQYMfPM03kuYQt"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Felt Cute Might Delete Later",
+        "url": "https://open.spotify.com/album/2UuMruIqntCAoh3BbqgkRL"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 131642,
+      "name": "Darkest Hour",
+      "url": "https://open.spotify.com/track/6kVuwV25QpvLUDXwJEREwb"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "December (honey, honey)",
-        "url": "https://open.spotify.com/album/4gZYxtIzGLlyY8J6p9Of8i"
-      },
-      "artists": [
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
-        }
-      ],
-      "duration_ms": 175392,
-      "name": "December (honey, honey)",
-      "url": "https://open.spotify.com/track/1DHjMF3lRv2aQwDqXWbHvE"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "tivoli",
         "url": "https://open.spotify.com/album/12eDNbE85r05o5lu8HY8eT"
       },
@@ -915,6 +899,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "December (honey, honey)",
+        "url": "https://open.spotify.com/album/4gZYxtIzGLlyY8J6p9Of8i"
+      },
+      "artists": [
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "duration_ms": 175392,
+      "name": "December (honey, honey)",
+      "url": "https://open.spotify.com/track/1DHjMF3lRv2aQwDqXWbHvE"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "Fy Faen S\u00e5 Deilig",
         "url": "https://open.spotify.com/album/1j6xIUm9WZ4K9uTojnvFC0"
       },
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Some Type Of Skin (Acoustic)",
-        "url": "https://open.spotify.com/album/19jiJygNvv9TwWLjIc7xNr"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Some Type Of Skin - Acoustic",
-      "url": "https://open.spotify.com/track/6kEMItz2lrqO5XGQSrujga"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "G\u00e5 bli lykkelig, du",
         "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 187281,
       "name": "G\u00e5 bli lykkelig, du",
       "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Some Type Of Skin (Acoustic)",
+        "url": "https://open.spotify.com/album/19jiJygNvv9TwWLjIc7xNr"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Some Type Of Skin - Acoustic",
+      "url": "https://open.spotify.com/track/6kEMItz2lrqO5XGQSrujga"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "International Girl, Pt. 1",
-        "url": "https://open.spotify.com/album/4C8q9K3fEhwrEULk2akLR7"
-      },
-      "artists": [
-        {
-          "name": "Tolou",
-          "url": "https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH"
-        }
-      ],
-      "duration_ms": 133928,
-      "name": "Take Your Time (Slow Down)",
-      "url": "https://open.spotify.com/track/01eRSf9IjbyWK7wjCygQRn"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Sommergl\u00f8d",
         "url": "https://open.spotify.com/album/72HhszSLQI4pt5A6xzoFg7"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 133746,
       "name": "Sommergl\u00f8d",
       "url": "https://open.spotify.com/track/1Iuhp27As7UTZayGl8tGaM"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "International Girl, Pt. 1",
+        "url": "https://open.spotify.com/album/4C8q9K3fEhwrEULk2akLR7"
+      },
+      "artists": [
+        {
+          "name": "Tolou",
+          "url": "https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH"
+        }
+      ],
+      "duration_ms": 133928,
+      "name": "Take Your Time (Slow Down)",
+      "url": "https://open.spotify.com/track/01eRSf9IjbyWK7wjCygQRn"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0EdDw4yXJ4x1X44QCkM8i1"
-      },
-      "artists": [
-        {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
-        }
-      ],
-      "duration_ms": 210156,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/16pWwIOwWNrS7Hrt6YDxok"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Tre sekunder",
         "url": "https://open.spotify.com/album/01OYb3IdBqhdxrRsTTlsIJ"
       },
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "KLIPP MEG I TI OG LIM MEG SAMMEN",
-        "url": "https://open.spotify.com/album/2g0oZHtjgfF5VMQJXR2f2g"
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0EdDw4yXJ4x1X44QCkM8i1"
       },
       "artists": [
         {
-          "name": "Gabrielle",
-          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
         }
       ],
-      "duration_ms": 195202,
-      "name": "Noen som forst\u00e5r",
-      "url": "https://open.spotify.com/track/0skJrhhZqWp7Q0Czpxxrlb"
+      "duration_ms": 210156,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/16pWwIOwWNrS7Hrt6YDxok"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Moving On",
-        "url": "https://open.spotify.com/album/6bDFH4AggFFKfMEcVP1Jym"
+        "name": "KLIPP MEG I TI OG LIM MEG SAMMEN",
+        "url": "https://open.spotify.com/album/2g0oZHtjgfF5VMQJXR2f2g"
       },
       "artists": [
         {
-          "name": "Hannah Storm",
-          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
         }
       ],
-      "duration_ms": 167673,
-      "name": "Moving On",
-      "url": "https://open.spotify.com/track/0HUByUXgU8lWbjraKlp6eA"
+      "duration_ms": 195202,
+      "name": "Noen som forst\u00e5r",
+      "url": "https://open.spotify.com/track/0skJrhhZqWp7Q0Czpxxrlb"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1355,6 +1339,22 @@
       "duration_ms": 154076,
       "name": "People Come And Go",
       "url": "https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/6bDFH4AggFFKfMEcVP1Jym"
+      },
+      "artists": [
+        {
+          "name": "Hannah Storm",
+          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
+        }
+      ],
+      "duration_ms": 167673,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/0HUByUXgU8lWbjraKlp6eA"
     },
     {
       "added_at": "2024-07-18 22:00:00",

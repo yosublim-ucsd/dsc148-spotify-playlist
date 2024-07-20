@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,697 likes - 50 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,713 likes - 50 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 39 | [where did you go?](https://open.spotify.com/track/3krTCz4RFiTFUE4Eyw0mIq) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [where did you go?](https://open.spotify.com/album/6hXY9yHknQ6mIca4ZOP1HG) | 1:36 |
 | 40 | [IZ\-US](https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx) | 2:57 |
 | 41 | [Equinox](https://open.spotify.com/track/78MK55UVcSHXWpNuT0I1bC) | [admo](https://open.spotify.com/artist/6azdwGecDNGbIpCpOOdWsG) | [Stratford Ct\. \| Sonus Auri](https://open.spotify.com/album/2OheibbdAadKBRKiCAv0M9) | 2:42 |
-| 42 | [Rain](https://open.spotify.com/track/2zFpMThv5f6y4OW79sUR91) | [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP), [Dagamon](https://open.spotify.com/artist/4ogcQDCfs7LYekrb22jhZf) | [Rain](https://open.spotify.com/album/7rjqHXy8vjqXkVp6LOMrXu) | 2:37 |
-| 43 | [Reminiscence](https://open.spotify.com/track/2pT0soNU4WKusm9Jk5wG8N) | [LoFi Waiter](https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61) | [Time Fragments](https://open.spotify.com/album/4Srv9LidwzADZHV2dzbWtM) | 0:51 |
+| 42 | [Reminiscence](https://open.spotify.com/track/2pT0soNU4WKusm9Jk5wG8N) | [LoFi Waiter](https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61) | [Time Fragments](https://open.spotify.com/album/4Srv9LidwzADZHV2dzbWtM) | 0:51 |
+| 43 | [Rain](https://open.spotify.com/track/2zFpMThv5f6y4OW79sUR91) | [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP), [Dagamon](https://open.spotify.com/artist/4ogcQDCfs7LYekrb22jhZf) | [Rain](https://open.spotify.com/album/7rjqHXy8vjqXkVp6LOMrXu) | 2:37 |
 | 44 | [fallinginlove.](https://open.spotify.com/track/2QPfaEicJRxxQ2WlBrqhAw) | [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM), [chillwithme](https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8), [cødy](https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC) | [daydream.](https://open.spotify.com/album/5QgfYuguhp3BQkr8c7AqxR) | 1:37 |
 | 45 | [A Time to Wait](https://open.spotify.com/track/5KXdGGSVtKLinb8NCPUb0X) | [Alicks](https://open.spotify.com/artist/60J5TDNg9Xxp9zxDXpBOjM) | [Help Me Out](https://open.spotify.com/album/5aOvfgizZIKyUeZ37oNYRi) | 3:27 |
 | 46 | [in the bleak midwinter](https://open.spotify.com/track/5WEBVd7HoSDLMAaJnk6yTT) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [in the bleak midwinter](https://open.spotify.com/album/5Mp2pQSKz87APGM0FW1uL4) | 1:36 |

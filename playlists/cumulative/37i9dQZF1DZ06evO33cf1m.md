@@ -2,7 +2,7 @@
 
 ### [This Is La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33cf1m)
 
-> This Is La Arrolladora Banda El Limón De Rene Camacho\. Los temas esenciales, todos en una lista.
+> This Is La Arrolladora Banda El Limón De Rene Camacho\. Sus mejores éxitos, todos en una playlist.
 
 76 songs - 4 hr 18 min
 

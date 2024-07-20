@@ -4,7 +4,7 @@
 
 > Las favoritas de los patrones\. La Adictiva y El Fantasma en portada.
 
-155 songs - 8 hr 11 min
+156 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [El Menos Visto](https://open.spotify.com/track/6iC4fHzpEwug1iNFnNfhOy) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Corridos Bélicos, Vol\. IV \(Versión Deluxe\)](https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8) | 3:03 | 2024-03-01 |  |
 | [El Motor \(En Vivo\)](https://open.spotify.com/track/2qtvTiP5aVa9NK3FVIPiEm) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV), [Última Línea](https://open.spotify.com/artist/46jiFyo74WRds15c8wTofT) | [VETERANOS DE GUERRA \(En vivo\)](https://open.spotify.com/album/5hxtunkNAttTEZtXHbja9H) | 3:10 | 2024-01-26 |  |
 | [El Muchacho de la Barba](https://open.spotify.com/track/7fBIGbmh5x4K8tBaBCK5iD) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [El Muchacho de la Barba](https://open.spotify.com/album/18YC6REM3qcCvpDlFB0TgQ) | 2:34 | 2024-05-10 |  |
+| [El Muletas](https://open.spotify.com/track/1K1Y3NUDZulng4vgoRR6hE) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [El Muletas](https://open.spotify.com/album/5YT6xi1UEcpYh07FRQc3Q5) | 3:36 | 2024-07-19 |  |
 | [El Nini](https://open.spotify.com/track/2U1NhCp8wc2m4kYZSBeYl4) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Nini](https://open.spotify.com/album/4t9ykJcRqh40msncpBbLF0) | 4:31 | 2024-01-26 |  |
 | [El P8](https://open.spotify.com/track/3ETjJoHFlZdlNYwYFXXMYg) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [El P8](https://open.spotify.com/album/01hMLYztvfMO4LNmv8AUoV) | 3:36 | 2024-07-19 |  |
 | [El Panu \(En Vivo\)](https://open.spotify.com/track/0W1ifaL01aXznVi6ZhMWir) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [La Cruda Deluxe \(En Vivo\)](https://open.spotify.com/album/7FULQRQbO2j0c3uqpr4N5u) | 2:37 | 2024-01-26 |  |

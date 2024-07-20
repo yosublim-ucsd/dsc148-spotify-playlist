@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Una inyecci\u00f3n de alegr\u00eda para tus ma\u00f1anas!",
-  "num_followers": 527515,
+  "num_followers": 527537,
   "original_name": "Buen D\u00eda :)",
   "owner": {
     "name": "Spotify",
@@ -115,26 +115,18 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Santa",
-        "url": "https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia"
+        "name": "Unwritten",
+        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
       },
       "artists": [
         {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
         }
       ],
-      "duration_ms": 193038,
-      "name": "Santa",
-      "url": "https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb"
+      "duration_ms": 259333,
+      "name": "Unwritten",
+      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -155,18 +147,26 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Unwritten",
-        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
+        "name": "Santa",
+        "url": "https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia"
       },
       "artists": [
         {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 259333,
-      "name": "Unwritten",
-      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
+      "duration_ms": 193038,
+      "name": "Santa",
+      "url": "https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "PLAYA SATURNO",
-        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "DILUVIO",
-      "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Orion",
         "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 240964,
       "name": "Orion",
       "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "PLAYA SATURNO",
+        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "DILUVIO",
+      "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "WOMAN\u2019S WORLD",
+        "url": "https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "WOMAN\u2019S WORLD",
+      "url": "https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "Lo Que Te Conte Mientras Te Hacias La Dormida",
         "url": "https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 236506,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "yes, and?",
-        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 214994,
-      "name": "yes, and?",
-      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "Una Vida Pasada",
         "url": "https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd"
       },
@@ -787,22 +803,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "IMAN (Two Of Us)",
-        "url": "https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 122405,
-      "name": "IMAN (Two Of Us)",
-      "url": "https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
       },
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "WOMAN\u2019S WORLD",
-        "url": "https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM"
+        "name": "IMAN (Two Of Us)",
+        "url": "https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 163000,
-      "name": "WOMAN\u2019S WORLD",
-      "url": "https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW"
+      "duration_ms": 122405,
+      "name": "IMAN (Two Of Us)",
+      "url": "https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "BUBALU",
-        "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "BUBALU",
-      "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "ULTRA SOLO REMIX",
         "url": "https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 322347,
       "name": "ULTRA SOLO REMIX",
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "BUBALU",
+        "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "BUBALU",
+      "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+        "name": "Paraca\u00eddas",
+        "url": "https://open.spotify.com/album/2i1Um2d1FxY2f9Dd7vgEk6"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 160856,
-      "name": "ADI\u00d3S",
-      "url": "https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN"
+      "duration_ms": 165517,
+      "name": "Paraca\u00eddas",
+      "url": "https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Paraca\u00eddas",
-        "url": "https://open.spotify.com/album/2i1Um2d1FxY2f9Dd7vgEk6"
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
       },
       "artists": [
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 165517,
-      "name": "Paraca\u00eddas",
-      "url": "https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF"
+      "duration_ms": 160856,
+      "name": "ADI\u00d3S",
+      "url": "https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "Inocente",
         "url": "https://open.spotify.com/album/1IwuM5jEXE9v58NVKUyrwk"
       },
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Energ\u00eda Bacana",
         "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
       },
@@ -1567,6 +1567,26 @@
       "duration_ms": 147720,
       "name": "Energ\u00eda Bacana",
       "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "YOTULOKO",
+        "url": "https://open.spotify.com/album/3V37s4pn223tqV4S1roCNW"
+      },
+      "artists": [
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 213699,
+      "name": "YOTULOKO",
+      "url": "https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1587,6 +1607,22 @@
       "duration_ms": 187986,
       "name": "EL TONTO",
       "url": "https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Sobrio",
+        "url": "https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 201180,
+      "name": "Sobrio",
+      "url": "https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1615,22 +1651,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Sobrio",
-        "url": "https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 201180,
-      "name": "Sobrio",
-      "url": "https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
         "url": "https://open.spotify.com/album/2Tuphpb4jfXRwFYTxGXCSs"
       },
@@ -1651,26 +1671,6 @@
       "duration_ms": 204000,
       "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
       "url": "https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "YOTULOKO",
-        "url": "https://open.spotify.com/album/3V37s4pn223tqV4S1roCNW"
-      },
-      "artists": [
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 213699,
-      "name": "YOTULOKO",
-      "url": "https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1771,22 +1771,26 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "TU Y YO",
-        "url": "https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr"
+        "name": "Mentiras | CROSSOVER #3",
+        "url": "https://open.spotify.com/album/1adrM169dtUitpsQomXsX3"
       },
       "artists": [
         {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
         },
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         }
       ],
-      "duration_ms": 192517,
-      "name": "TU Y YO",
-      "url": "https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K"
+      "duration_ms": 168000,
+      "name": "Mentiras | CROSSOVER #3",
+      "url": "https://open.spotify.com/track/6Z28dALKtAgZ7AZRfjMQjY"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1815,26 +1819,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Mentiras | CROSSOVER #3",
-        "url": "https://open.spotify.com/album/1adrM169dtUitpsQomXsX3"
+        "name": "TU Y YO",
+        "url": "https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr"
       },
       "artists": [
         {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
         },
         {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Mentiras | CROSSOVER #3",
-      "url": "https://open.spotify.com/track/6Z28dALKtAgZ7AZRfjMQjY"
+      "duration_ms": 192517,
+      "name": "TU Y YO",
+      "url": "https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K"
     },
     {
       "added_at": "2024-07-19 03:00:00",

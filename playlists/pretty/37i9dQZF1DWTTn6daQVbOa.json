@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1970s. Cover: Elton John",
-  "num_followers": 795858,
+  "num_followers": 796051,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Gets Next to You",
-        "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 172320,
-      "name": "Tired of Being Alone",
-      "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Sticky Fingers (Remastered)",
         "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 341773,
       "name": "Wild Horses - 2009 Mix",
       "url": "https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Gets Next to You",
+        "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "Tired of Being Alone",
+      "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "360 Degrees of Billy Paul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "Me and Mrs. Jones",
-      "url": "https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Blue Moves",
         "url": "https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 228933,
       "name": "Sorry Seems To Be The Hardest Word",
       "url": "https://open.spotify.com/track/6XfxmT5QNCXvpZA6PKfWVL"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "360 Degrees of Billy Paul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "Me and Mrs. Jones",
+      "url": "https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/4MQXUCdpFPqi1jsM4N8aSR"
-      },
-      "artists": [
-        {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
-        }
-      ],
-      "duration_ms": 170066,
-      "name": "Laughter In The Rain",
-      "url": "https://open.spotify.com/track/2ozTcQyZQmm9tSmc4VZfwU"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Third Album",
         "url": "https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 237760,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4MQXUCdpFPqi1jsM4N8aSR"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 170066,
+      "name": "Laughter In The Rain",
+      "url": "https://open.spotify.com/track/2ozTcQyZQmm9tSmc4VZfwU"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Carpenters",
-        "url": "https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 158933,
-      "name": "For All We Know - From \"Lovers And Other Strangers\" Soundtrack",
-      "url": "https://open.spotify.com/track/5llfFWv1tH61nENrsjg3KZ"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Keeper Of The Castle",
         "url": "https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 187773,
       "name": "Ain't No Woman (Like The One I've Got)",
       "url": "https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Carpenters",
+        "url": "https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 158933,
+      "name": "For All We Know - From \"Lovers And Other Strangers\" Soundtrack",
+      "url": "https://open.spotify.com/track/5llfFWv1tH61nENrsjg3KZ"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Carpenters",
-        "url": "https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 231506,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/1Gv6f7m5ZNDcInxGA8PsLS"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "A Star Is Born",
         "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 256173,
       "name": "Dream Weaver",
       "url": "https://open.spotify.com/track/74DrA5fFoGSy4xgkZarZtP"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Carpenters",
+        "url": "https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 231506,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/1Gv6f7m5ZNDcInxGA8PsLS"
     },
     {
       "added_at": "2022-09-23 05:26:33",

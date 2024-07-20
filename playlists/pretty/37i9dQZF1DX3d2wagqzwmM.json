@@ -1,6 +1,6 @@
 {
   "description": "Big rooms and big sounds. Cover: Hardwell",
-  "num_followers": 530860,
+  "num_followers": 531069,
   "original_name": "Big Room Dance",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,30 @@
     {
       "added_at": "2024-07-19 06:16:51",
       "album": {
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/5u1NYKRPYx8KkcAVXXryQS"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "DJs From Mars",
+          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
+        },
+        {
+          "name": "Tomcraft",
+          "url": "https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp"
+        }
+      ],
+      "duration_ms": 163555,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/0iFxSf5RjiybnVSjofFEBg"
+    },
+    {
+      "added_at": "2024-07-19 06:16:51",
+      "album": {
         "name": "Adrenalina (Minha Gasolina)",
         "url": "https://open.spotify.com/album/4KrUxvKkI2xRKnaBZhf0SZ"
       },
@@ -815,30 +839,6 @@
       "duration_ms": 213230,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/7wSEDWlXFMqBhDHyB9Ojw6"
-    },
-    {
-      "added_at": "2024-07-19 06:16:51",
-      "album": {
-        "name": "Loneliness",
-        "url": "https://open.spotify.com/album/5u1NYKRPYx8KkcAVXXryQS"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "DJs From Mars",
-          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
-        },
-        {
-          "name": "Tomcraft",
-          "url": "https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp"
-        }
-      ],
-      "duration_ms": 163555,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/0iFxSf5RjiybnVSjofFEBg"
     },
     {
       "added_at": "2024-07-19 06:16:51",
@@ -911,26 +911,6 @@
     {
       "added_at": "2024-07-19 06:16:51",
       "album": {
-        "name": "Love Takes Over",
-        "url": "https://open.spotify.com/album/794yfQdOCAI93WHwTkVEro"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 177428,
-      "name": "Love Takes Over",
-      "url": "https://open.spotify.com/track/4cGhsEZuHW25c7njXpSx2v"
-    },
-    {
-      "added_at": "2024-07-19 06:16:51",
-      "album": {
         "name": "Lights Up (Dimitri Vegas & Like Mike Edit)",
         "url": "https://open.spotify.com/album/1jtuFy5U2SMXOhESik9Cfp"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 172444,
       "name": "Energy",
       "url": "https://open.spotify.com/track/6CebMvPnu1c7CPCAaSXFuY"
+    },
+    {
+      "added_at": "2024-07-19 06:16:51",
+      "album": {
+        "name": "Love Takes Over",
+        "url": "https://open.spotify.com/album/794yfQdOCAI93WHwTkVEro"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 177428,
+      "name": "Love Takes Over",
+      "url": "https://open.spotify.com/track/4cGhsEZuHW25c7njXpSx2v"
     },
     {
       "added_at": "2024-07-19 06:16:51",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-07-19 06:16:51",
       "album": {
-        "name": "Rise Up",
-        "url": "https://open.spotify.com/album/39qKI7hCcOnnrnXPoPbW11"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        }
-      ],
-      "duration_ms": 229714,
-      "name": "Rise Up",
-      "url": "https://open.spotify.com/track/50QgswlQoQIx6Zr2mS7Bnp"
-    },
-    {
-      "added_at": "2024-07-19 06:16:51",
-      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/5SO1KxfsK1skoei8GucD7D"
       },
@@ -1363,22 +1347,18 @@
     {
       "added_at": "2024-07-19 06:16:51",
       "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/3qbJJopxn88dscIj4hMMOl"
+        "name": "Rise Up",
+        "url": "https://open.spotify.com/album/39qKI7hCcOnnrnXPoPbW11"
       },
       "artists": [
         {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        },
-        {
-          "name": "AVAO",
-          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
         }
       ],
-      "duration_ms": 188571,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/5mASStSnLfAz7JvHV5kSyx"
+      "duration_ms": 229714,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/50QgswlQoQIx6Zr2mS7Bnp"
     },
     {
       "added_at": "2024-07-19 06:16:51",
@@ -1447,6 +1427,26 @@
       "duration_ms": 199111,
       "name": "MOLLY (Will Sparks Remix)",
       "url": "https://open.spotify.com/track/6NHiXIDWuFMYNWza24rk9y"
+    },
+    {
+      "added_at": "2024-07-19 06:16:51",
+      "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/3qbJJopxn88dscIj4hMMOl"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        },
+        {
+          "name": "AVAO",
+          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/5mASStSnLfAz7JvHV5kSyx"
     },
     {
       "added_at": "2024-07-19 06:16:51",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-07-19 06:16:51",
       "album": {
-        "name": "Blow Your Mind",
-        "url": "https://open.spotify.com/album/3FNaV3PpvNblwUfe5sOhU2"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        }
-      ],
-      "duration_ms": 285227,
-      "name": "Blow Your Mind",
-      "url": "https://open.spotify.com/track/2hUdC7KJF8hkBgfykpGz1z"
-    },
-    {
-      "added_at": "2024-07-19 06:16:51",
-      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/6sD3U3E72UvI8Od8I6QoiA"
       },
@@ -1595,6 +1579,38 @@
     {
       "added_at": "2024-07-19 06:16:51",
       "album": {
+        "name": "Tamara",
+        "url": "https://open.spotify.com/album/1Lsqnc5hGVO25f0DPh8PgD"
+      },
+      "artists": [
+        {
+          "name": "le Shuuk",
+          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
+        }
+      ],
+      "duration_ms": 206068,
+      "name": "Tamara",
+      "url": "https://open.spotify.com/track/0iXHcWtw4npb2FPf6Gh5js"
+    },
+    {
+      "added_at": "2024-07-19 06:16:51",
+      "album": {
+        "name": "Blow Your Mind",
+        "url": "https://open.spotify.com/album/3FNaV3PpvNblwUfe5sOhU2"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "duration_ms": 285227,
+      "name": "Blow Your Mind",
+      "url": "https://open.spotify.com/track/2hUdC7KJF8hkBgfykpGz1z"
+    },
+    {
+      "added_at": "2024-07-19 06:16:51",
+      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/4XCFFpSnvapubSs8rUcrkp"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 169333,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/7vvNxVTviMy2dwIhaziOab"
-    },
-    {
-      "added_at": "2024-07-19 06:16:51",
-      "album": {
-        "name": "Tamara",
-        "url": "https://open.spotify.com/album/1Lsqnc5hGVO25f0DPh8PgD"
-      },
-      "artists": [
-        {
-          "name": "le Shuuk",
-          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
-        }
-      ],
-      "duration_ms": 206068,
-      "name": "Tamara",
-      "url": "https://open.spotify.com/track/0iXHcWtw4npb2FPf6Gh5js"
     },
     {
       "added_at": "2024-07-19 06:16:51",

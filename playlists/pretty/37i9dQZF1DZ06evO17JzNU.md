@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 
 > This is Los Gemelos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,922 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,931 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 4 | [VPPMHDSPPM](https://open.spotify.com/track/1p1wnpmPz3oGnZrscI0ayu) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [VPPMHDSPPM](https://open.spotify.com/album/6DBsROTJOvlSRbKNOoqEMs) | 1:55 |
 | 5 | [F\*CK](https://open.spotify.com/track/6e1e9WGpijrsGEDafrqmBL) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [F\*CK](https://open.spotify.com/album/3qFjhIu38Fly1SXrWiD1Tq) | 2:05 |
 | 6 | [Ahora Todo Es Diferente](https://open.spotify.com/track/2L4gbQNTxISQndSblNUwJJ) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Ahora Todo Es Diferente](https://open.spotify.com/album/3l7ZAKChEtCeVNtsWFfIUP) | 3:45 |
-| 7 | [Conexión](https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Conexión](https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD) | 2:26 |
-| 8 | [Me Porto Bonito](https://open.spotify.com/track/6utwmYBwLhVwxCGsZEfG0i) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Me Porto Bonito](https://open.spotify.com/album/24ZfOunWyvWR3mcAEvg8mN) | 3:02 |
+| 7 | [Me Porto Bonito](https://open.spotify.com/track/6utwmYBwLhVwxCGsZEfG0i) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Me Porto Bonito](https://open.spotify.com/album/24ZfOunWyvWR3mcAEvg8mN) | 3:02 |
+| 8 | [Conexión](https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Conexión](https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD) | 2:26 |
 | 9 | [Tuve Hermano](https://open.spotify.com/track/0wD8bCTwYSz2OeikgblMP3) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Agradecido](https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH) | 3:53 |
 | 10 | [Y Es Que Contigo](https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos y Sentimientos \(Vol 2\)](https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s) | 2:10 |
 | 11 | [Una Chevy](https://open.spotify.com/track/7xxQJetweF4orA784Bfae2) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Una Chevy](https://open.spotify.com/album/6Yt4FwoiLC7XebognYM5fx) | 2:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 49 | [Ya Extrano Mi Rancho](https://open.spotify.com/track/5qAzmxc7zqn5CD0eE3yckL) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Ya Extrano Mi Rancho](https://open.spotify.com/album/14X4dL52C10ejPsocWndY8) | 2:16 |
 | 50 | [Apellido Guzman](https://open.spotify.com/track/0CrErg58IbHXNzDqiMBTfT) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos y Sentimientos \(Vol 2\)](https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s) | 3:26 |
 
-Snapshot ID: `ZpcJgAAAAAC+8dv+aZlAIE4XuOnw/Ita`
+Snapshot ID: `ZphbAAAAAAB90Ao8OUXwdA5YY8osPs/5`

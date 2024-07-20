@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Rauw Alejandro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,456 likes - 67 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,592 likes - 67 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 32 | [Come&Go \(funnynoiseclub002\)](https://open.spotify.com/track/7pkBZWpr9BActeFhWeWtVO) | [urboi.](https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Come&Go \(funnynoiseclub002\)](https://open.spotify.com/album/2BDAa2AXTSSJuUJQSNhN06) | 2:22 |
 | 33 | [fotomatón](https://open.spotify.com/track/1qP9Rf8ZNIjrFGzrG536Xa) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [fotomatón](https://open.spotify.com/album/0gfREg7H8EjjVIhkfuYDlI) | 2:29 |
 | 34 | [NASA](https://open.spotify.com/track/2TK5KtlOZAc5dOLPjcpgKx) | [Adri Torron](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E), [Pepe Bernabé](https://open.spotify.com/artist/1CatgsvZ6RfKSHiwyqPZ32) | [NASA](https://open.spotify.com/album/2O4esdewGPa3OTPobkLGEz) | 2:40 |
-| 35 | [Hasta La Vista Baby](https://open.spotify.com/track/3zwBJP8Bw09gxzr4neD4qY) | [Flavor Colectivo](https://open.spotify.com/artist/5CpJ1RaJKGE5iZ14Dg3YYl), [Yogev](https://open.spotify.com/artist/2hl7ht4eSYIKisoSAdstwq) | [Hasta La Vista Baby](https://open.spotify.com/album/4ds5t0tjhz03qmmrZ6fJP2) | 4:04 |
+| 35 | [Hasta La Vista Baby](https://open.spotify.com/track/3zwBJP8Bw09gxzr4neD4qY) | [Flavor Colectivo](https://open.spotify.com/artist/5CpJ1RaJKGE5iZ14Dg3YYl), [Yogev](https://open.spotify.com/artist/0hyesm8x3EYXnXUWDTbPLP) | [Hasta La Vista Baby](https://open.spotify.com/album/4ds5t0tjhz03qmmrZ6fJP2) | 4:04 |
 | 36 | [Enamorado de ti](https://open.spotify.com/track/3kP3mDGylkffquaVJqSZwZ) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz), [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A) | [LA INOCENTE](https://open.spotify.com/album/7szbg3ku8OWLEvqT22UrGL) | 2:46 |
 | 37 | [Iguales y diferentes](https://open.spotify.com/track/1nJNQseSusV7GNozXleN4i) | [Lorena Gomez](https://open.spotify.com/artist/5f8Dohw5XLc2xrlBox9AjS), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Iguales y diferentes](https://open.spotify.com/album/1CPe46UGnSOtBZ93ars8dt) | 3:28 |
 | 38 | [Mi Favorita Canción](https://open.spotify.com/track/6BnVqFR7613qYaVQgcr0GQ) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Mi Favorita Canción](https://open.spotify.com/album/3WHKgCvXnGzXXMBgJNiOda) | 3:12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,085 likes - 50 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,104 likes - 50 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 43 | [You Know My Name](https://open.spotify.com/track/0Dlm41iXvTsIVsEOce3yX6) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:00 |
 | 44 | [MIRACLE CHILD](https://open.spotify.com/track/5v5njFL7J6kb2ncCsgXszl) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [COAT OF MANY COLORS](https://open.spotify.com/album/44dncCBiOODhAa9L0UCvoE) | 4:03 |
 | 45 | [Thath'Indawo \(Live\)](https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 7:55 |
-| 46 | [I Still Believe](https://open.spotify.com/track/1ZMyK6IkXfEaRDpzQvBGNZ) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [I Still Believe](https://open.spotify.com/album/1qTrw1O98qVzSXZiGwv6ub) | 3:12 |
-| 47 | [My God Can](https://open.spotify.com/track/1ySdxDrt5kh9MiEM8doZLL) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Jesus Changed My Life \(Deluxe Edition\)](https://open.spotify.com/album/1DaO9r3sgudFiiBYVPGrSo) | 3:13 |
+| 46 | [My God Can](https://open.spotify.com/track/1ySdxDrt5kh9MiEM8doZLL) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Jesus Changed My Life \(Deluxe Edition\)](https://open.spotify.com/album/1DaO9r3sgudFiiBYVPGrSo) | 3:13 |
+| 47 | [I Still Believe](https://open.spotify.com/track/1ZMyK6IkXfEaRDpzQvBGNZ) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [I Still Believe](https://open.spotify.com/album/1qTrw1O98qVzSXZiGwv6ub) | 3:12 |
 | 48 | [Fall On Me \(feat\. Carly Pearce\)](https://open.spotify.com/track/0mA4Uq9WRl32K5C39jAFUF) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [CAVES](https://open.spotify.com/album/1Rtopf52bLtF0kdxQsL8TL) | 4:24 |
 | 49 | [Somebody to You](https://open.spotify.com/track/4TnXEn8UJaGqCa1cqWkX2z) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri), [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Somebody to You](https://open.spotify.com/album/5CSCmth1QdipVm1AauVRut) | 3:48 |
 | 50 | [Up + Up](https://open.spotify.com/track/4pyIuEQo27lFOEMBJagRAv) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Up + Up](https://open.spotify.com/album/6q5zDjRliJ0Soj8XDnZlVU) | 2:43 |

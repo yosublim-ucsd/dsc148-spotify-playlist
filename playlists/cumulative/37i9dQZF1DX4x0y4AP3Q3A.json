@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsi i najlepiej rockuj\u0105cy na polskiej scenie. Cover: Hedone",
+  "description": "Najlepsi i najlepiej rockuj\u0105cy na polskiej scenie. Cover: Czechoslovakia",
   "name": "Tylko Polski Rock",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 285233,
       "name": "Boy Toy",
       "url": "https://open.spotify.com/track/3VW5l7sj9eGycLhgpEg3m9"
@@ -606,7 +606,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 195542,
       "name": "Jak dobrze, \u017ce dzwonisz",
       "url": "https://open.spotify.com/track/2FBEsfIb8BScwzXgsA6X6A"
@@ -790,10 +790,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 215828,
       "name": "Ko\u0144czy si\u0119 kurs",
       "url": "https://open.spotify.com/track/00GJLfbIKE7lnwHqfb0zEa"
+    },
+    {
+      "album": {
+        "name": "Ko\u0144czy Si\u0119 Noc",
+        "url": "https://open.spotify.com/album/014P7iNnDF6UOgEPfjIHYJ"
+      },
+      "artists": [
+        {
+          "name": "Maksymilian Stawiarski",
+          "url": "https://open.spotify.com/artist/3t0mYzdpY7ftW1O0SnwMvH"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201990,
+      "name": "Ko\u0144czy Si\u0119 Noc",
+      "url": "https://open.spotify.com/track/4rOVb2rXxbwBmnbQw3e0xU"
     },
     {
       "album": {
@@ -812,6 +830,24 @@
       "duration_ms": 286403,
       "name": "kszta\u0142ty",
       "url": "https://open.spotify.com/track/0H9NADafdrevzKcJ7V5r8a"
+    },
+    {
+      "album": {
+        "name": "Lato przyp\u0142ywa",
+        "url": "https://open.spotify.com/album/5U5tZq6Hd1RnyVSnSJ5DY0"
+      },
+      "artists": [
+        {
+          "name": "Czechoslovakia",
+          "url": "https://open.spotify.com/artist/4fxdQaj7wSUA9Q81VPcsBt"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173700,
+      "name": "Lato przyp\u0142ywa",
+      "url": "https://open.spotify.com/track/1pCLzNOQqELGpJggA6p9BT"
     },
     {
       "album": {
@@ -1115,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "Nic na zawsze nie jest dane",
+        "url": "https://open.spotify.com/album/7dUFwPiDCBnCovpwyhbYZx"
+      },
+      "artists": [
+        {
+          "name": "Jacek Kuderski",
+          "url": "https://open.spotify.com/artist/355phxdVt7RWaQgmvfYrGW"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250560,
+      "name": "Nic na zawsze nie jest dane",
+      "url": "https://open.spotify.com/track/2a0V44wO7qYTHIgioqy40z"
+    },
+    {
+      "album": {
         "name": "Nie b\u0119dziesz sama",
         "url": "https://open.spotify.com/album/0Ie70wAYpDE19rZP9a4rlN"
       },
@@ -1184,6 +1238,24 @@
       "duration_ms": 192346,
       "name": "Nie Wiem Jak Jest",
       "url": "https://open.spotify.com/track/3llPwITzXBO5CHoHe9PSvl"
+    },
+    {
+      "album": {
+        "name": "Nieba",
+        "url": "https://open.spotify.com/album/4LkhwBcRw4PI5TLaDbnEyu"
+      },
+      "artists": [
+        {
+          "name": "Hoszpital",
+          "url": "https://open.spotify.com/artist/6uHQjvQb17rofUQgk2GxB0"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236578,
+      "name": "Nieba",
+      "url": "https://open.spotify.com/track/2PSOtkjzZIHmDNfkmvyzvW"
     },
     {
       "album": {
@@ -1583,6 +1655,24 @@
     },
     {
       "album": {
+        "name": "Wolniej",
+        "url": "https://open.spotify.com/album/3MD2Rm4I6GvKoHc8ZbYhmq"
+      },
+      "artists": [
+        {
+          "name": "zachwyt",
+          "url": "https://open.spotify.com/artist/57F4M4L3esGKsmMwT4zt01"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205366,
+      "name": "Scenariusze wszystkie z\u0142e",
+      "url": "https://open.spotify.com/track/5VIoJhwhhx8JmIFBpVOCAG"
+    },
+    {
+      "album": {
         "name": "SKATE OR DIE feat. LEO ROS",
         "url": "https://open.spotify.com/album/7x4BIxqd1wG5rpJ12qdgIJ"
       },
@@ -1944,7 +2034,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 260186,
       "name": "Wakacyjny chill",
       "url": "https://open.spotify.com/track/3e6fmM4WqRpbGlN9TLH631"
@@ -1998,10 +2088,32 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 218181,
       "name": "Wiem",
       "url": "https://open.spotify.com/track/0EfwEw96rw2g9ElXKBF7Pn"
+    },
+    {
+      "album": {
+        "name": "Spacer po Warszawie",
+        "url": "https://open.spotify.com/album/5GhrrP768IczdMuPTNHSmd"
+      },
+      "artists": [
+        {
+          "name": "Robert Cichy",
+          "url": "https://open.spotify.com/artist/7rZNLhiqVO7cyv3u8z0KY0"
+        },
+        {
+          "name": "Robert Gawlinski",
+          "url": "https://open.spotify.com/artist/32qNyW2sjyjjPDQamC2f9O"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Wilcza",
+      "url": "https://open.spotify.com/track/76C4soT5swrNYniatn1iYh"
     },
     {
       "album": {
@@ -2146,7 +2258,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 231520,
       "name": "Zimna Stal",
       "url": "https://open.spotify.com/track/6CZKVze4lMYMLZsKMgosPw"

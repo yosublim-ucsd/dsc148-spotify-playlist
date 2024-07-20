@@ -1,6 +1,6 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 268301,
+  "num_followers": 268387,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
@@ -663,18 +663,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Motivos Para Amarte",
-        "url": "https://open.spotify.com/album/52GIMpznejD3anSRFnMdBL"
+        "name": "Se Abren Los Cielos ( Pistas)",
+        "url": "https://open.spotify.com/album/6lW1vofyUsYzC7QvktsrpU"
       },
       "artists": [
         {
-          "name": "Luis Santiago",
-          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
+          "name": "Jose Luis Reyes",
+          "url": "https://open.spotify.com/artist/5hijN7Isgf4lf43c50XwOp"
         }
       ],
-      "duration_ms": 291533,
-      "name": "Asi Porque Si",
-      "url": "https://open.spotify.com/track/3s1s6qKRUTx4inaKh32he7"
+      "duration_ms": 276706,
+      "name": "Haz Llover",
+      "url": "https://open.spotify.com/track/3O51YNgaVGHrrFLXLVJxNO"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -711,18 +711,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Se Abren Los Cielos ( Pistas)",
-        "url": "https://open.spotify.com/album/6lW1vofyUsYzC7QvktsrpU"
+        "name": "Motivos Para Amarte",
+        "url": "https://open.spotify.com/album/52GIMpznejD3anSRFnMdBL"
       },
       "artists": [
         {
-          "name": "Jose Luis Reyes",
-          "url": "https://open.spotify.com/artist/5hijN7Isgf4lf43c50XwOp"
+          "name": "Luis Santiago",
+          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
         }
       ],
-      "duration_ms": 276706,
-      "name": "Haz Llover",
-      "url": "https://open.spotify.com/track/3O51YNgaVGHrrFLXLVJxNO"
+      "duration_ms": 291533,
+      "name": "Asi Porque Si",
+      "url": "https://open.spotify.com/track/3s1s6qKRUTx4inaKh32he7"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -827,18 +827,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "El Mejor Regalo",
-        "url": "https://open.spotify.com/album/5GWkPY9tYCZXLHswGzo0ZR"
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/6xnrqwm4OHFjNJ7ScJut1V"
       },
       "artists": [
         {
-          "name": "Luis Santiago",
-          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
+          "name": "Lenny Salcedo",
+          "url": "https://open.spotify.com/artist/3SAz8B6xf4eS1TuWnBppf8"
         }
       ],
-      "duration_ms": 234057,
-      "name": "Parece un Sueno",
-      "url": "https://open.spotify.com/track/7LYLheF1lgAicmSeugSFR7"
+      "duration_ms": 229720,
+      "name": "Abro Mis Brazos",
+      "url": "https://open.spotify.com/track/5nkdEfOSuBaHmSeDCPgw5e"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -859,22 +859,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Ac\u00fastico",
-        "url": "https://open.spotify.com/album/6xnrqwm4OHFjNJ7ScJut1V"
-      },
-      "artists": [
-        {
-          "name": "Lenny Salcedo",
-          "url": "https://open.spotify.com/artist/3SAz8B6xf4eS1TuWnBppf8"
-        }
-      ],
-      "duration_ms": 229720,
-      "name": "Abro Mis Brazos",
-      "url": "https://open.spotify.com/track/5nkdEfOSuBaHmSeDCPgw5e"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "En las Manos de Dios",
         "url": "https://open.spotify.com/album/2fzYiHzWLc9jjHSwK3RtNy"
       },
@@ -891,6 +875,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "El Mejor Regalo",
+        "url": "https://open.spotify.com/album/5GWkPY9tYCZXLHswGzo0ZR"
+      },
+      "artists": [
+        {
+          "name": "Luis Santiago",
+          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
+        }
+      ],
+      "duration_ms": 234057,
+      "name": "Parece un Sueno",
+      "url": "https://open.spotify.com/track/7LYLheF1lgAicmSeugSFR7"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "He Visto Su Gloria",
         "url": "https://open.spotify.com/album/2KNED3ap9Rs4ytPjEdusv6"
       },
@@ -903,22 +903,6 @@
       "duration_ms": 447320,
       "name": "Tengo Sed De Ti",
       "url": "https://open.spotify.com/track/40cVQj7FN9WmRCcNGcetZn"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Motivos Para Amarte",
-        "url": "https://open.spotify.com/album/52GIMpznejD3anSRFnMdBL"
-      },
-      "artists": [
-        {
-          "name": "Luis Santiago",
-          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
-        }
-      ],
-      "duration_ms": 323240,
-      "name": "Pedir Perdon",
-      "url": "https://open.spotify.com/track/25rQ4tq18dcdSoabIPCLgR"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -971,22 +955,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "He Visto Su Gloria",
-        "url": "https://open.spotify.com/album/2KNED3ap9Rs4ytPjEdusv6"
-      },
-      "artists": [
-        {
-          "name": "Tony P\u00e9rez",
-          "url": "https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ"
-        }
-      ],
-      "duration_ms": 356280,
-      "name": "Yo Quiero Mas de Cristo",
-      "url": "https://open.spotify.com/track/0H79dPuHeHPkfR51XfwBUD"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Amanece (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy"
       },
@@ -1003,6 +971,38 @@
       "duration_ms": 447491,
       "name": "Lo Unico Que Quiero",
       "url": "https://open.spotify.com/track/1HCKcrifeQmtEXwEqfXcjD"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Motivos Para Amarte",
+        "url": "https://open.spotify.com/album/52GIMpznejD3anSRFnMdBL"
+      },
+      "artists": [
+        {
+          "name": "Luis Santiago",
+          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
+        }
+      ],
+      "duration_ms": 323240,
+      "name": "Pedir Perdon",
+      "url": "https://open.spotify.com/track/25rQ4tq18dcdSoabIPCLgR"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "He Visto Su Gloria",
+        "url": "https://open.spotify.com/album/2KNED3ap9Rs4ytPjEdusv6"
+      },
+      "artists": [
+        {
+          "name": "Tony P\u00e9rez",
+          "url": "https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ"
+        }
+      ],
+      "duration_ms": 356280,
+      "name": "Yo Quiero Mas de Cristo",
+      "url": "https://open.spotify.com/track/0H79dPuHeHPkfR51XfwBUD"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1055,6 +1055,22 @@
       "duration_ms": 232853,
       "name": "Ayer Te Vi... Fue Mas Claro Que La Luna",
       "url": "https://open.spotify.com/track/57ifvUopbuDoMNpgSD6PzV"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Vivo para Ti",
+        "url": "https://open.spotify.com/album/5wRPQ3vuSsJOd4qCcbszFy"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        }
+      ],
+      "duration_ms": 263732,
+      "name": "La Ultima Palabra",
+      "url": "https://open.spotify.com/track/2FpFT8olvwhsGoeiEKpT36"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1127,6 +1143,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "Glorificad a Jehov\u00e1",
+        "url": "https://open.spotify.com/album/3nyUEu5lMsZpAKttvYF4gl"
+      },
+      "artists": [
+        {
+          "name": "Palabra en Acci\u00f3n",
+          "url": "https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw"
+        }
+      ],
+      "duration_ms": 313866,
+      "name": "Llevame Al Lugar Sant\u00edsimo",
+      "url": "https://open.spotify.com/track/2OABiiLIKpPa9jDFtxrbk2"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "He Visto Su Gloria",
         "url": "https://open.spotify.com/album/2KNED3ap9Rs4ytPjEdusv6"
       },
@@ -1139,22 +1171,6 @@
       "duration_ms": 323693,
       "name": "Gracias Se\u00f1or",
       "url": "https://open.spotify.com/track/6fVAVie4PzmKAoMAZBGtz1"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Vivo para Ti",
-        "url": "https://open.spotify.com/album/5wRPQ3vuSsJOd4qCcbszFy"
-      },
-      "artists": [
-        {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
-        }
-      ],
-      "duration_ms": 263732,
-      "name": "La Ultima Palabra",
-      "url": "https://open.spotify.com/track/2FpFT8olvwhsGoeiEKpT36"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1175,6 +1191,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "El Aire De Tu Casa",
+        "url": "https://open.spotify.com/album/0lkkoUlHus6JVtt5RUlPqX"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 253200,
+      "name": "Mi Universo",
+      "url": "https://open.spotify.com/track/4tZccDFqoZp8IN7VUnsJ9K"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "Creo en Ti",
         "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
       },
@@ -1191,18 +1223,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "El Aire De Tu Casa",
-        "url": "https://open.spotify.com/album/0lkkoUlHus6JVtt5RUlPqX"
+        "name": "Yo Sin Ti",
+        "url": "https://open.spotify.com/album/09bmbHv2pYw2pd4OFKzjCT"
       },
       "artists": [
         {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
         }
       ],
-      "duration_ms": 253200,
-      "name": "Mi Universo",
-      "url": "https://open.spotify.com/track/4tZccDFqoZp8IN7VUnsJ9K"
+      "duration_ms": 242808,
+      "name": "Al Final",
+      "url": "https://open.spotify.com/track/0ReYpAHy0po3ZBzo4dIkgx"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1243,22 +1275,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Glorificad a Jehov\u00e1",
-        "url": "https://open.spotify.com/album/3nyUEu5lMsZpAKttvYF4gl"
-      },
-      "artists": [
-        {
-          "name": "Palabra en Acci\u00f3n",
-          "url": "https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw"
-        }
-      ],
-      "duration_ms": 313866,
-      "name": "Llevame Al Lugar Sant\u00edsimo",
-      "url": "https://open.spotify.com/track/2OABiiLIKpPa9jDFtxrbk2"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "He Visto Su Gloria",
         "url": "https://open.spotify.com/album/2KNED3ap9Rs4ytPjEdusv6"
       },
@@ -1275,18 +1291,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Yo Sin Ti",
-        "url": "https://open.spotify.com/album/09bmbHv2pYw2pd4OFKzjCT"
+        "name": "Santo Es El Se\u00f1or",
+        "url": "https://open.spotify.com/album/0e7NveKGulQA4fkVBOoDeq"
       },
       "artists": [
         {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+          "name": "Palabra en Acci\u00f3n",
+          "url": "https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw"
         }
       ],
-      "duration_ms": 242808,
-      "name": "Al Final",
-      "url": "https://open.spotify.com/track/0ReYpAHy0po3ZBzo4dIkgx"
+      "duration_ms": 273066,
+      "name": "Hay Una Fuente En M\u00ed - Live",
+      "url": "https://open.spotify.com/track/5tTLHg3Q35lzFLQ9KmtD6G"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Me Has Hecho Libre",
-        "url": "https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI"
-      },
-      "artists": [
-        {
-          "name": "Esperanza de Vida",
-          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
-        }
-      ],
-      "duration_ms": 295444,
-      "name": "Roca eterna",
-      "url": "https://open.spotify.com/track/09YG9ee8meFr9ba4pxynbi"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/3Aejvhfr04XlnrEAoHDytu"
       },
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
+      },
+      "artists": [
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        }
+      ],
+      "duration_ms": 319920,
+      "name": "Vengo a Adorate",
+      "url": "https://open.spotify.com/track/7CGvRA47dm5evqdGbaZhc1"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "Cree Solamente",
         "url": "https://open.spotify.com/album/3vHjJkngHJKd3bZjjIn6IZ"
       },
@@ -1387,34 +1403,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Santo Es El Se\u00f1or",
-        "url": "https://open.spotify.com/album/0e7NveKGulQA4fkVBOoDeq"
+        "name": "Me Has Hecho Libre",
+        "url": "https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI"
       },
       "artists": [
         {
-          "name": "Palabra en Acci\u00f3n",
-          "url": "https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw"
+          "name": "Esperanza de Vida",
+          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
         }
       ],
-      "duration_ms": 273066,
-      "name": "Hay Una Fuente En M\u00ed - Live",
-      "url": "https://open.spotify.com/track/5tTLHg3Q35lzFLQ9KmtD6G"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
-      },
-      "artists": [
-        {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
-        }
-      ],
-      "duration_ms": 319920,
-      "name": "Vengo a Adorate",
-      "url": "https://open.spotify.com/track/7CGvRA47dm5evqdGbaZhc1"
+      "duration_ms": 295444,
+      "name": "Roca eterna",
+      "url": "https://open.spotify.com/track/09YG9ee8meFr9ba4pxynbi"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/5nKR0GJScbq5pcb7PGdBW9"
-      },
-      "artists": [
-        {
-          "name": "Esperanza de Vida",
-          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
-        }
-      ],
-      "duration_ms": 360386,
-      "name": "Toda la Gloria",
-      "url": "https://open.spotify.com/track/108rn8fBtcwYFd7kQzdvRA"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Ancla",
         "url": "https://open.spotify.com/album/1egAMYquAVYlQAjQW3TmMh"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 499411,
       "name": "Ancla",
       "url": "https://open.spotify.com/track/1RMYwS5tm4QG8L7CVQX7wi"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Yo Sin Ti",
+        "url": "https://open.spotify.com/album/09bmbHv2pYw2pd4OFKzjCT"
+      },
+      "artists": [
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+        }
+      ],
+      "duration_ms": 343928,
+      "name": "Ven te necesito",
+      "url": "https://open.spotify.com/track/5zkqh0190NNxbAuRjgytTo"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Yo Sin Ti",
-        "url": "https://open.spotify.com/album/09bmbHv2pYw2pd4OFKzjCT"
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/5nKR0GJScbq5pcb7PGdBW9"
       },
       "artists": [
         {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+          "name": "Esperanza de Vida",
+          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
         }
       ],
-      "duration_ms": 343928,
-      "name": "Ven te necesito",
-      "url": "https://open.spotify.com/track/5zkqh0190NNxbAuRjgytTo"
+      "duration_ms": 360386,
+      "name": "Toda la Gloria",
+      "url": "https://open.spotify.com/track/108rn8fBtcwYFd7kQzdvRA"
     },
     {
       "added_at": "2020-11-24 13:23:38",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 768,285 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 768,368 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 28 | [Work Song](https://open.spotify.com/track/5szmwG86IFASvYrca21MEz) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [From Eden EP](https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0) | 3:49 |
 | 29 | [Old Time Religion](https://open.spotify.com/track/4zm37YNRt5XrbFOTPk0jBp) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [Parker Millsap](https://open.spotify.com/album/3puqTC6ZIfItLMY4q0wr4e) | 3:54 |
 | 30 | [Get Right Church](https://open.spotify.com/track/5qX4r5vT9bY8xMsiKuZhQn) | [Ben Miller Band](https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG) | [Heavy Load](https://open.spotify.com/album/1BgJCVNqPuzwbGD0e27dCx) | 3:44 |
-| 31 | [Hy\-Brasil](https://open.spotify.com/track/2OeMJJ4QlZKW0mjpbIckiq) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 5:35 |
-| 32 | [Bottom of the River](https://open.spotify.com/track/279D0iY34aVyZWTxsAPYUd) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [Bottom of the River](https://open.spotify.com/album/2FXmlkD0prW5bIzO2MpAED) | 3:21 |
+| 31 | [Bottom of the River](https://open.spotify.com/track/279D0iY34aVyZWTxsAPYUd) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [Bottom of the River](https://open.spotify.com/album/2FXmlkD0prW5bIzO2MpAED) | 3:21 |
+| 32 | [Hy\-Brasil](https://open.spotify.com/track/2OeMJJ4QlZKW0mjpbIckiq) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 5:35 |
 | 33 | [Devil Don't You Fool Me](https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ) | [Josh Farrow](https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d) | [Devil Don't You Fool Me](https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY) | 2:50 |
 | 34 | [Things That Scare Me](https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 2:30 |
 | 35 | [Chairkickers](https://open.spotify.com/track/0O0T1NHzuTa12tNZ1hZ7db) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Salt For Salt](https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC) | 3:18 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 69 | [You Don't Fool Me](https://open.spotify.com/track/5QJ5ICpA44RUm2l6mJtwGD) | [Hestina](https://open.spotify.com/artist/2xsuzWkZTxU0WpWgCGDOG4) | [Blossom Talk](https://open.spotify.com/album/33H4WbY7m8jy1HLedmUlWN) | 3:33 |
 | 70 | [Saint Elizabeth](https://open.spotify.com/track/6kUG8Dja3ClxOolNqKEWy6) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/5L8YBDqmTSCUoXrRcEwaMG) | 3:59 |
 | 71 | [How Many Days](https://open.spotify.com/track/4qqkMiRfK6c7L8rDIZ9mFV) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Ghost Brothers of Darkland County](https://open.spotify.com/album/3y8jfBMnTjzf0yksfY3GXS) | 3:41 |
-| 72 | [What Does It Matter Now?](https://open.spotify.com/track/4DpNmLojUrA9RqvdGLTr2M) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6) | [What Does It Matter Now?](https://open.spotify.com/album/6MoxDbETwqsHJHg0T3GTmR) | 4:35 |
-| 73 | [The River's Will](https://open.spotify.com/track/1bIqCUUEIHmbkHrpkKy7VZ) | [Kendl Winter](https://open.spotify.com/artist/32iM5mg9ke0SyutYzWwkbM) | [Stumbler's Business](https://open.spotify.com/album/3IUX21sPPxhNpIcZBoalvc) | 4:03 |
+| 72 | [The River's Will](https://open.spotify.com/track/1bIqCUUEIHmbkHrpkKy7VZ) | [Kendl Winter](https://open.spotify.com/artist/32iM5mg9ke0SyutYzWwkbM) | [Stumbler's Business](https://open.spotify.com/album/3IUX21sPPxhNpIcZBoalvc) | 4:03 |
+| 73 | [What Does It Matter Now?](https://open.spotify.com/track/4DpNmLojUrA9RqvdGLTr2M) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6) | [What Does It Matter Now?](https://open.spotify.com/album/6MoxDbETwqsHJHg0T3GTmR) | 4:35 |
 | 74 | [Summer's Fingers Sweetly Linger \(Everywhere On Every Side\)](https://open.spotify.com/track/5rvb9OHjEQRTSsUqWqlSTr) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [When The Roses Come Again](https://open.spotify.com/album/3nOeQI6IpCQ8yAhCP8sIkt) | 4:21 |
 | 75 | [Dig](https://open.spotify.com/track/3CFhdCcuagfQGxjQMzmRBs) | [Hestina](https://open.spotify.com/artist/2xsuzWkZTxU0WpWgCGDOG4) | [Blossom Talk](https://open.spotify.com/album/33H4WbY7m8jy1HLedmUlWN) | 2:15 |
 | 76 | [Sun to Sun](https://open.spotify.com/track/0ocOl2Z35YlNbPRRMEgpd2) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Sorrow Bound](https://open.spotify.com/album/0myjOWBNRcumLchBSeZCDj) | 2:04 |

@@ -1,6 +1,6 @@
 {
   "description": "Celebrando los 20 a\u00f1os del Barrio Fino en compa\u00f1\u00eda de Daddy Yankee.",
-  "num_followers": 3555626,
+  "num_followers": 3556806,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
@@ -839,26 +839,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Reggaeton Viejo",
-        "url": "https://open.spotify.com/album/4GMkQYncdGgsXtXxquk2An"
-      },
-      "artists": [
-        {
-          "name": "La Secta",
-          "url": "https://open.spotify.com/artist/7Gl1xRfbxCfInNRvy1JGZW"
-        },
-        {
-          "name": "Eddie Dee",
-          "url": "https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR"
-        }
-      ],
-      "duration_ms": 245346,
-      "name": "La Locura Autom\u00e1tica - Reggaeton",
-      "url": "https://open.spotify.com/track/1xEBxyr5QI0uvIoRa3WPi4"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "El Movimiento: The Mixtape",
         "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 249826,
       "name": "Regalame Una Noche",
       "url": "https://open.spotify.com/track/534weu3DIwV9UELLTGanOC"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Reggaeton Viejo",
+        "url": "https://open.spotify.com/album/4GMkQYncdGgsXtXxquk2An"
+      },
+      "artists": [
+        {
+          "name": "La Secta",
+          "url": "https://open.spotify.com/artist/7Gl1xRfbxCfInNRvy1JGZW"
+        },
+        {
+          "name": "Eddie Dee",
+          "url": "https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR"
+        }
+      ],
+      "duration_ms": 245346,
+      "name": "La Locura Autom\u00e1tica - Reggaeton",
+      "url": "https://open.spotify.com/track/1xEBxyr5QI0uvIoRa3WPi4"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1835,6 +1835,26 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "Los Verdaderos",
+        "url": "https://open.spotify.com/album/3jsGdxB4wVM7iT4w21fPtH"
+      },
+      "artists": [
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/68Yelg8HOZqYn4EjOnXsZy"
+        },
+        {
+          "name": "Lennox",
+          "url": "https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo"
+        }
+      ],
+      "duration_ms": 244680,
+      "name": "Amor Genuino",
+      "url": "https://open.spotify.com/track/0CyUWy7lIuWwYEeoRJlxND"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Quien Contra Mi",
         "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
       },
@@ -1847,22 +1867,6 @@
       "duration_ms": 136026,
       "name": "Te Suelto el Pelo",
       "url": "https://open.spotify.com/track/0Gh6QG4Z1pSvIo7btP1Ux4"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "KlK Llego El Tipo the Album",
-        "url": "https://open.spotify.com/album/3XHcqktZHNuuRjdLJqiGs0"
-      },
-      "artists": [
-        {
-          "name": "Wilo D New",
-          "url": "https://open.spotify.com/artist/7Mj6zJyAtVisnooOp1hlWF"
-        }
-      ],
-      "duration_ms": 175333,
-      "name": "Menea Tu Chapa",
-      "url": "https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1883,22 +1887,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Los Verdaderos",
-        "url": "https://open.spotify.com/album/3jsGdxB4wVM7iT4w21fPtH"
+        "name": "KlK Llego El Tipo the Album",
+        "url": "https://open.spotify.com/album/3XHcqktZHNuuRjdLJqiGs0"
       },
       "artists": [
         {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/68Yelg8HOZqYn4EjOnXsZy"
-        },
-        {
-          "name": "Lennox",
-          "url": "https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo"
+          "name": "Wilo D New",
+          "url": "https://open.spotify.com/artist/7Mj6zJyAtVisnooOp1hlWF"
         }
       ],
-      "duration_ms": 244680,
-      "name": "Amor Genuino",
-      "url": "https://open.spotify.com/track/0CyUWy7lIuWwYEeoRJlxND"
+      "duration_ms": 175333,
+      "name": "Menea Tu Chapa",
+      "url": "https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -2339,18 +2339,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Eso En 4 No Se Ve (feat. Nejo Y Dalmata & Luigi 21 Plus)",
-        "url": "https://open.spotify.com/album/5h67fwP7oqhvvPkSWKv9g3"
+        "name": "My Destiny",
+        "url": "https://open.spotify.com/album/0Q7X6qJEAc0rggA0GUL5VG"
       },
       "artists": [
         {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          "name": "Yomo",
+          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
         }
       ],
-      "duration_ms": 271986,
-      "name": "Eso En 4 No Se Ve (feat. Nejo Y Dalmata & Luigi 21 Plus)",
-      "url": "https://open.spotify.com/track/3AiSzVa7e1thtKKnJfs03I"
+      "duration_ms": 288288,
+      "name": "Descara",
+      "url": "https://open.spotify.com/track/20Zj7TB00BDSp7KLUJaEvU"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -2367,22 +2367,6 @@
       "duration_ms": 212520,
       "name": "Acech\u00e1ndote",
       "url": "https://open.spotify.com/track/1how0UKUUwdF0ukchBbVy4"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "My Destiny",
-        "url": "https://open.spotify.com/album/0Q7X6qJEAc0rggA0GUL5VG"
-      },
-      "artists": [
-        {
-          "name": "Yomo",
-          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
-        }
-      ],
-      "duration_ms": 288288,
-      "name": "Descara",
-      "url": "https://open.spotify.com/track/20Zj7TB00BDSp7KLUJaEvU"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -2407,6 +2391,22 @@
       "duration_ms": 253253,
       "name": "Tango del Pecado (feat. Bajofondo Tango Club & Panasuyo)",
       "url": "https://open.spotify.com/track/6SEMpMXnOe9nvei4yk7wb7"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Eso En 4 No Se Ve (feat. Nejo Y Dalmata & Luigi 21 Plus)",
+        "url": "https://open.spotify.com/album/5h67fwP7oqhvvPkSWKv9g3"
+      },
+      "artists": [
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "duration_ms": 271986,
+      "name": "Eso En 4 No Se Ve (feat. Nejo Y Dalmata & Luigi 21 Plus)",
+      "url": "https://open.spotify.com/track/3AiSzVa7e1thtKKnJfs03I"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -3107,22 +3107,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Si la Vieras Bailar",
-        "url": "https://open.spotify.com/album/0e2L6CIVU5ZN2xjSmJCSLd"
-      },
-      "artists": [
-        {
-          "name": "Barbero 507",
-          "url": "https://open.spotify.com/artist/7IOEDcSGzA00EhFam7X7Ec"
-        }
-      ],
-      "duration_ms": 236500,
-      "name": "Si la Vieras Bailar",
-      "url": "https://open.spotify.com/track/7c7ajSiiY93LrpBoEBCFgB"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/4TGmmsYSfg2VTz3sk2J1t3"
       },
@@ -3139,6 +3123,22 @@
       "duration_ms": 216760,
       "name": "Punto y Coma",
       "url": "https://open.spotify.com/track/6vCBn43dpEaVCHR3UbDl85"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Si la Vieras Bailar",
+        "url": "https://open.spotify.com/album/0e2L6CIVU5ZN2xjSmJCSLd"
+      },
+      "artists": [
+        {
+          "name": "Barbero 507",
+          "url": "https://open.spotify.com/artist/7IOEDcSGzA00EhFam7X7Ec"
+        }
+      ],
+      "duration_ms": 236500,
+      "name": "Si la Vieras Bailar",
+      "url": "https://open.spotify.com/track/7c7ajSiiY93LrpBoEBCFgB"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -3219,22 +3219,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "J Balvin Mix Tape",
-        "url": "https://open.spotify.com/album/1xMq6o4CDAa2X0WquvhHkX"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 189026,
-      "name": "Sin Compromiso",
-      "url": "https://open.spotify.com/track/3yoO9jbPHRxAsoUuyx4gG3"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Guanabanas Update, Vol. 2",
         "url": "https://open.spotify.com/album/33OqL37rJF7Kv9Sj6KsJTU"
       },
@@ -3255,22 +3239,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "La Moda",
-        "url": "https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz"
+        "name": "J Balvin Mix Tape",
+        "url": "https://open.spotify.com/album/1xMq6o4CDAa2X0WquvhHkX"
       },
       "artists": [
         {
-          "name": "Yaga & Mackie",
-          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
-        },
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 223013,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/4wXpSzmNqxhPX2YgUM5BCq"
+      "duration_ms": 189026,
+      "name": "Sin Compromiso",
+      "url": "https://open.spotify.com/track/3yoO9jbPHRxAsoUuyx4gG3"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -3287,6 +3267,26 @@
       "duration_ms": 195093,
       "name": "La Perfecta Ocasi\u00f3n",
       "url": "https://open.spotify.com/track/6jkzF40g6U3S9dJlHed6nJ"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "La Moda",
+        "url": "https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz"
+      },
+      "artists": [
+        {
+          "name": "Yaga & Mackie",
+          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
+        },
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/4wXpSzmNqxhPX2YgUM5BCq"
     },
     {
       "added_at": "2024-07-12 06:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Fred De Palma in cover + le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,603 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,700 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 50 | [MESSAGGI](https://open.spotify.com/track/3S3u9z8ydHqmJVqzB8IySM) | [Lolloflow](https://open.spotify.com/artist/6od7hFnrVLa1zCuSyQimic) | [MESSAGGI](https://open.spotify.com/album/0cqm6vQmofEJdixKnKaGol) | 2:31 |
 | 51 | [Vertigo](https://open.spotify.com/track/3jVo350GBcozw5OrXySv5N) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Vertigo](https://open.spotify.com/album/4LJhKUgLG4w4uM99XyAkMz) | 3:54 |
 | 52 | [Gem Lingo \(ovr now\)](https://open.spotify.com/track/6dSqM0tWJPlchpmGrEwC1c) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Gem Lingo \(ovr now\)](https://open.spotify.com/album/3r4QpzGNuewu0vLvapRZS7) | 3:50 |
-| 53 | [Wahala](https://open.spotify.com/track/0V4ie5PXFiWXEd2XldImGr) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Adekunle Gold](https://open.spotify.com/artist/01w3jMWzWYm2INkQDkr2QW), [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Alusa Why Are You Topless? \(Deluxe\)](https://open.spotify.com/album/6piDT78sQ40k6xC5r9A8st) | 3:27 |
+| 53 | [Wahala](https://open.spotify.com/track/0V4ie5PXFiWXEd2XldImGr) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Alusa Why Are You Topless? \(Deluxe\)](https://open.spotify.com/album/6piDT78sQ40k6xC5r9A8st) | 3:27 |
 | 54 | [S.O.S.](https://open.spotify.com/track/41syEhXDtHnU1T2cHESFWb) | [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch) | [S.O.S.](https://open.spotify.com/album/3crNgUXvCWvmp8G3wd1nLZ) | 2:56 |
 | 55 | [Missili](https://open.spotify.com/track/6GNG9SGlZFGNfMLNV9pts5) | [Oliver Green](https://open.spotify.com/artist/7gW7vauTRIrz3rRV2UFzyK), [Raiworld](https://open.spotify.com/artist/6srBIS4AndIMpkpo8QQJrQ) | [Missili](https://open.spotify.com/album/22rw08d3h189qM1d0RpOeE) | 2:10 |
 | 56 | [I Am Happy](https://open.spotify.com/track/5nDwo3rYfPVzKTxFX7JBRy) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [I Am Happy](https://open.spotify.com/album/2j3UeoEWrTnc6PVVbfBe6F) | 3:02 |

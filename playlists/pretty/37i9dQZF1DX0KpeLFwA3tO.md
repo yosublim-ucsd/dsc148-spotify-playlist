@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: SOFT PLAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,413 likes - 99 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,436 likes - 99 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

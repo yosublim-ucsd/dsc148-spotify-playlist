@@ -2,7 +2,7 @@
 
 ### [This Is Banda Carnaval](https://open.spotify.com/playlist/37i9dQZF1DZ06evO408cU0)
 
-> This is Banda Carnaval\. The essential tracks, all in one playlist.
+> This Is Banda Carnaval\. Los temas esenciales, todos en una lista.
 
 100 songs - 5 hr 15 min
 
@@ -49,7 +49,7 @@
 | [Fibras Sensibles](https://open.spotify.com/track/3ecQDBEjejR0bXp2ZoeYTo) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Fibras Sensibles](https://open.spotify.com/album/1SIOva8bdGwBhujbFfWmUm) | 3:20 | 2022-07-30 |  |
 | [Gente Batallosa](https://open.spotify.com/track/71gk97Oadf8MPN9fCMP9cP) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [El Buen Ejemplo](https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3) | 2:28 | 2022-06-01 |  |
 | [Hermosa Y Brillante](https://open.spotify.com/track/4vQrwbsmnpxBMtj19jSbNU) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Puros Corridos](https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1) | 2:37 | 2022-07-11 | 2022-10-14 |
-| [Joaquín](https://open.spotify.com/track/6iO3I852AXG3gZj5AdRxyX) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos De Alto Calibre \(Vol\. II\)](https://open.spotify.com/album/7wqVdv2T7Z7b1vDyRSjcIk) | 3:06 | 2022-09-22 | 2024-07-15 |
+| [Joaquín](https://open.spotify.com/track/6iO3I852AXG3gZj5AdRxyX) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos De Alto Calibre \(Vol\. II\)](https://open.spotify.com/album/7wqVdv2T7Z7b1vDyRSjcIk) | 3:06 | 2022-09-22 |  |
 | [Juan Ramos](https://open.spotify.com/track/6J0AKwjpG3s2rvnPuFMvjS) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Juan Ramos](https://open.spotify.com/album/2BoOPZVDZePvxvTrVq2Fjn) | 2:55 | 2023-09-21 | 2023-12-14 |
 | [La Doble Cara](https://open.spotify.com/track/0PX1p94jkveuUOZ31rjHak) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Las Vueltas De La Vida](https://open.spotify.com/album/4EsRdUztvnblHNgu53aqZr) | 3:34 | 2022-06-01 |  |
 | [La Gran Pachanga](https://open.spotify.com/track/4cyXq6gzdDDa8nRercj5C9) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El General](https://open.spotify.com/album/5jfEZzk2tqBlPisJv6ov78) | 2:35 | 2024-05-26 |  |
@@ -77,7 +77,7 @@
 | [Porque Así Tenía Que Ser](https://open.spotify.com/track/0pmmaDa3lIHX5YoAv29WMZ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk) | 2:33 | 2022-06-01 |  |
 | [Porque Me Importas](https://open.spotify.com/track/6078F7dFzJzLEKshvo9zgd) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:33 | 2022-07-25 | 2022-10-13 |
 | [Profundamente](https://open.spotify.com/track/0aI1wUPVSvg8MKQAPL0baz) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Profundamente](https://open.spotify.com/album/6PjcA0YN8Tz9JcVjOeWid0) | 3:11 | 2023-09-25 | 2024-05-29 |
-| [Pídeme](https://open.spotify.com/track/47dgKdqRE5zuAa7yESoKCj) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Lo Más Romántico De](https://open.spotify.com/album/5fno20N7QRlErQUnHy0qSZ) | 3:18 | 2022-06-01 |  |
+| [Pídeme](https://open.spotify.com/track/47dgKdqRE5zuAa7yESoKCj) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Lo Más Romántico De](https://open.spotify.com/album/5fno20N7QRlErQUnHy0qSZ) | 3:18 | 2022-06-01 | 2024-07-20 |
 | [Rendido A Tus Pies](https://open.spotify.com/track/6CxTdAoG4OX4gvnoonTudO) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Las Vueltas De La Vida](https://open.spotify.com/album/4EsRdUztvnblHNgu53aqZr) | 3:42 | 2022-06-01 | 2022-11-21 |
 | [Sabes Que Lo Hago](https://open.spotify.com/track/1nXX0DQjdLxaTTyvHLM6WL) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Sabes Que Lo Hago](https://open.spotify.com/album/7MX6kDsXTKY7lNSf26ACzz) | 3:13 | 2022-11-20 |  |
 | [Se Está Muriendo Un Corazón](https://open.spotify.com/track/5RkyCt22Kbd556yez5oTef) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Se Está Muriendo Un Corazón](https://open.spotify.com/album/0K6ko9baEsc1aARyNPWoiR) | 2:58 | 2023-09-15 | 2024-05-24 |

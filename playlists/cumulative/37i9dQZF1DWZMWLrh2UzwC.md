@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Madison Beer
 
-11,482 songs - 26 day 4 hr 56 min
+11,483 songs - 26 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -10000,6 +10000,7 @@
 | [Unacceptable](https://open.spotify.com/track/0Yptvdo4iVZ42hz0m8rGng) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Unacceptable](https://open.spotify.com/album/79v3fsCuDJoEfpMJc6G7fI) | 3:06 | 2022-08-11 | 2022-08-19 |
 | [Unavailable](https://open.spotify.com/track/6eK8zC4iPZ8cUfvEpUsBUC) | [Sappy Chill](https://open.spotify.com/artist/71gi5I6xsgPqS9KOFRBdKx), [Mars B](https://open.spotify.com/artist/3WmvQooo0fKwYMFuCpa7yo), [Fariz Jabba](https://open.spotify.com/artist/5euTSdDookRvAEl8yOXhHh) | [Unavailable](https://open.spotify.com/album/7DnyOAloyHsCXONGGo7bYJ) | 2:57 | 2023-01-12 | 2023-01-20 |
 | [Unbelievable](https://open.spotify.com/track/6q4L77QLqOzilFDrLCWc5a) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [INSERT COIN](https://open.spotify.com/album/1IcPMPH0AAF4WKoXlMAhod) | 3:57 | 2023-02-23 | 2023-03-03 |
+| [Unbreak](https://open.spotify.com/track/1UQHcilrljYHCBHEHg8eMi) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Unbreak](https://open.spotify.com/album/5cW2CezifOIFXI599yiVcJ) | 3:19 | 2024-07-18 |  |
 | [uncertainty \- 2ession](https://open.spotify.com/track/3ngGiWWdR8zH8xhTH6xBnr) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [uncertainty \(2ession\)](https://open.spotify.com/album/5Tgi7vQhv2k3zqqfRBd0zX) | 3:34 | 2022-03-24 | 2022-04-01 |
 | [Unchained Memory](https://open.spotify.com/track/3osgvrk04VzVILmvH9tUan) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Unchained Memory](https://open.spotify.com/album/09ymAZAZiJUyauud1ADp3T) | 2:32 | 2023-09-14 | 2023-09-22 |
 | [Unconditional I \(Lookout Kid\)](https://open.spotify.com/track/0Zd9Nub5lwmzSBoWaVOWrP) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Unconditional I \(Lookout Kid\)](https://open.spotify.com/album/245E4YWubHwp4sZNlz82dG) | 4:33 | 2022-04-28 | 2022-05-06 |

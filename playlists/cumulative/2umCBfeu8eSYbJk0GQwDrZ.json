@@ -198,7 +198,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 129880,
       "name": "alright (feat. The Kid LAROI)",
       "url": "https://open.spotify.com/track/6KwyNga0cYPhcXO9pUrgcx"
@@ -1108,7 +1108,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 151800,
       "name": "Canopy",
       "url": "https://open.spotify.com/track/59YWoPxE5fFp1nS3yy4hFf"
@@ -1559,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "Detective Alice \u795e\u63a2\u57c3\u7c92\u53f8",
+        "url": "https://open.spotify.com/album/04vE1A2t9n3GrHrKgiUfTx"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208988,
+      "name": "Detective Alice \u795e\u63a2\u57c3\u7c92\u53f8",
+      "url": "https://open.spotify.com/track/1MvsGEgABBgz9F5DgW5s2c"
+    },
+    {
+      "album": {
         "name": "Nightshifts EP",
         "url": "https://open.spotify.com/album/5uR1YpVjWQMHPkRKzIZx8J"
       },
@@ -1721,6 +1739,28 @@
     },
     {
       "album": {
+        "name": "DON'T LEAVE ME BEHIND (feat. Sin\u00e9ad Harnett)",
+        "url": "https://open.spotify.com/album/10t4HGLyvVGrwFECNGCA23"
+      },
+      "artists": [
+        {
+          "name": "sunsetto",
+          "url": "https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL"
+        },
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171130,
+      "name": "DON'T LEAVE ME BEHIND (feat. Sin\u00e9ad Harnett)",
+      "url": "https://open.spotify.com/track/60Tc6fPeEZIwTXcpIG5y3C"
+    },
+    {
+      "album": {
         "name": "don't rely on other men",
         "url": "https://open.spotify.com/album/0S3p06Juu3pFmzpdQbOHOK"
       },
@@ -1772,6 +1812,24 @@
       "duration_ms": 181026,
       "name": "Dried Up",
       "url": "https://open.spotify.com/track/2whji197SjeEyLafUkEAbN"
+    },
+    {
+      "album": {
+        "name": "Drivin'",
+        "url": "https://open.spotify.com/album/67ZGAMyret2ZCdHzq0axeX"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197997,
+      "name": "Drivin'",
+      "url": "https://open.spotify.com/track/2xLCfxnW0HxrNpkFNtin7d"
     },
     {
       "album": {
@@ -1876,7 +1934,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -1898,6 +1956,24 @@
       "duration_ms": 158617,
       "name": "End of Beginning - triple j Like A Version",
       "url": "https://open.spotify.com/track/4zw1CzJ4ePqLazD6xZ32Vz"
+    },
+    {
+      "album": {
+        "name": "even forever",
+        "url": "https://open.spotify.com/album/4RgTLxSbndjcpFA4bTRSeA"
+      },
+      "artists": [
+        {
+          "name": "Amy Allen",
+          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212287,
+      "name": "even forever",
+      "url": "https://open.spotify.com/track/1OicUu8wILtHnqX7VTv2MI"
     },
     {
       "album": {
@@ -1974,7 +2050,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 212922,
       "name": "Fantasy (feat. Franc Moody)",
       "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
@@ -2403,6 +2479,24 @@
     },
     {
       "album": {
+        "name": "Good Guy",
+        "url": "https://open.spotify.com/album/1phgcwEQmHmFEg2mf5r1wk"
+      },
+      "artists": [
+        {
+          "name": "Devon Cole",
+          "url": "https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152759,
+      "name": "Good Guy",
+      "url": "https://open.spotify.com/track/1o85kjIkzuYJt1w8JjxAKs"
+    },
+    {
+      "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
       },
@@ -2472,6 +2566,42 @@
       "duration_ms": 168328,
       "name": "GREEN TXTS",
       "url": "https://open.spotify.com/track/7sWnxtGHO5vo5US2S5yIXM"
+    },
+    {
+      "album": {
+        "name": "Ground",
+        "url": "https://open.spotify.com/album/44kxeIVSEqnpZKnPHb2Lhw"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182093,
+      "name": "Ground",
+      "url": "https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9"
+    },
+    {
+      "album": {
+        "name": "The Alexander Technique",
+        "url": "https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237535,
+      "name": "Guitar Song",
+      "url": "https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz"
     },
     {
       "album": {
@@ -2724,7 +2854,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 190828,
       "name": "High In Low Places",
       "url": "https://open.spotify.com/track/30AvLvLFOVvu5vjFLtdCHq"
@@ -2837,6 +2967,24 @@
     },
     {
       "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/2AUGXdf8CZckloBZfqY35g"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158251,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/3kKVjpgY1UQW3ikr0AhMZg"
+    },
+    {
+      "album": {
         "name": "no place that feels like",
         "url": "https://open.spotify.com/album/6WFHcpiVI59zujBEr1MGfN"
       },
@@ -2906,6 +3054,24 @@
       "duration_ms": 150825,
       "name": "honey, i'm home",
       "url": "https://open.spotify.com/track/5kSmEV24v9UDWXMO2NZdIG"
+    },
+    {
+      "album": {
+        "name": "Hottest Summer on Record",
+        "url": "https://open.spotify.com/album/1JJXOjU7KbjXLcyVWoUrxp"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206277,
+      "name": "Hottest Summer on Record",
+      "url": "https://open.spotify.com/track/5uWA8WojlklsMu8aQxzybZ"
     },
     {
       "album": {
@@ -3248,7 +3414,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 166626,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/6DrrY8ardpYRyF90mzN0jF"
@@ -3292,7 +3458,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 195106,
       "name": "Insecure",
       "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"
@@ -3382,7 +3548,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 239089,
       "name": "Ithaca",
       "url": "https://open.spotify.com/track/49MMPosiIrORwUtdrG1eiQ"
@@ -4868,7 +5034,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 188755,
       "name": "RED FUTURE (feat. Electric Fields)",
       "url": "https://open.spotify.com/track/7nvnmUYiJYbHgGL0MDH7G0"
@@ -4890,6 +5056,24 @@
       "duration_ms": 192079,
       "name": "Remember When",
       "url": "https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm"
+    },
+    {
+      "album": {
+        "name": "Electrolytes",
+        "url": "https://open.spotify.com/album/0xG515RDO6i7y3pPOirUag"
+      },
+      "artists": [
+        {
+          "name": "Summer Salt",
+          "url": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212654,
+      "name": "Ribbons",
+      "url": "https://open.spotify.com/track/5CZEan1P5qmhfXFib8ohGj"
     },
     {
       "album": {
@@ -5258,7 +5442,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 165653,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/5Y1JLn2xFudNJolHkvoTXk"
@@ -5720,7 +5904,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 293426,
       "name": "Sunshine (feat. Foushe\u00e9)",
       "url": "https://open.spotify.com/track/2FPmvXIMpjgzJQbUeJo8Iv"
@@ -5814,6 +5998,24 @@
       "duration_ms": 169026,
       "name": "Sweety",
       "url": "https://open.spotify.com/track/25Re7w5mH0qcSLLhmSjWWA"
+    },
+    {
+      "album": {
+        "name": "Switchblade",
+        "url": "https://open.spotify.com/album/4hAu4IJ63Wk5Mg2H1MkzYO"
+      },
+      "artists": [
+        {
+          "name": "Lia Pappas-Kemps",
+          "url": "https://open.spotify.com/artist/7N15xabCPo5XjsUSTnGVes"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174029,
+      "name": "Switchblade",
+      "url": "https://open.spotify.com/track/0r46kyvgK2QfkbotYjI5FK"
     },
     {
       "album": {
@@ -6182,7 +6384,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 183473,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
@@ -6594,6 +6796,24 @@
       "duration_ms": 165120,
       "name": "Wind and Snow",
       "url": "https://open.spotify.com/track/3iI1sMQMl0tebvrDwYrKdP"
+    },
+    {
+      "album": {
+        "name": "Wish We Never Met",
+        "url": "https://open.spotify.com/album/1zOEJId4MlRoJ0Ag6mqOUi"
+      },
+      "artists": [
+        {
+          "name": "Ben Goldsmith",
+          "url": "https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "Wish We Never Met",
+      "url": "https://open.spotify.com/track/5giQWAb5pDtpeBazjaGBPL"
     },
     {
       "album": {

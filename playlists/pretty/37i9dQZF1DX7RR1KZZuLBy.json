@@ -1,6 +1,6 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 50085,
+  "num_followers": 50104,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
@@ -887,26 +887,6 @@
     {
       "added_at": "2024-05-31 23:59:00",
       "album": {
-        "name": "I Still Believe",
-        "url": "https://open.spotify.com/album/1qTrw1O98qVzSXZiGwv6ub"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 192250,
-      "name": "I Still Believe",
-      "url": "https://open.spotify.com/track/1ZMyK6IkXfEaRDpzQvBGNZ"
-    },
-    {
-      "added_at": "2024-05-31 23:59:00",
-      "album": {
         "name": "Jesus Changed My Life (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1DaO9r3sgudFiiBYVPGrSo"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 193253,
       "name": "My God Can",
       "url": "https://open.spotify.com/track/1ySdxDrt5kh9MiEM8doZLL"
+    },
+    {
+      "added_at": "2024-05-31 23:59:00",
+      "album": {
+        "name": "I Still Believe",
+        "url": "https://open.spotify.com/album/1qTrw1O98qVzSXZiGwv6ub"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 192250,
+      "name": "I Still Believe",
+      "url": "https://open.spotify.com/track/1ZMyK6IkXfEaRDpzQvBGNZ"
     },
     {
       "added_at": "2024-05-31 23:59:00",

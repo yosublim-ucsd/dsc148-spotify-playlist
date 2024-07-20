@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyAZr9s5Pd.md) - [plain]
 
 > ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Alejandro y Maria Laura
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,471 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,472 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

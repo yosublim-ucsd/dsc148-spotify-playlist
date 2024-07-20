@@ -1,6 +1,6 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Aoife O\u2019Donovan",
-  "num_followers": 151904,
+  "num_followers": 151908,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "j's lullaby (darlin' i'd wait for you)",
-        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 290132,
-      "name": "j's lullaby (darlin' i'd wait for you)",
-      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "So My Darling (Acoustic)",
         "url": "https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 228922,
       "name": "So My Darling - Acoustic",
       "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "j's lullaby (darlin' i'd wait for you)",
+        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 290132,
+      "name": "j's lullaby (darlin' i'd wait for you)",
+      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Choices",
-        "url": "https://open.spotify.com/album/6zE8tiHOsAe74bv0VJIYX5"
-      },
-      "artists": [
-        {
-          "name": "Lucy Spraggan",
-          "url": "https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/3fTokbLfwqwi5cMZmGcI4b"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 181880,
       "name": "Save This Heart",
       "url": "https://open.spotify.com/track/5B1KYVaGIsI7v7LZYbXWI8"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Choices",
+        "url": "https://open.spotify.com/album/6zE8tiHOsAe74bv0VJIYX5"
+      },
+      "artists": [
+        {
+          "name": "Lucy Spraggan",
+          "url": "https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/3fTokbLfwqwi5cMZmGcI4b"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Feels Like Magic",
-        "url": "https://open.spotify.com/album/15alEIqBgadwC3kR7xq99y"
-      },
-      "artists": [
-        {
-          "name": "Sarah Proctor",
-          "url": "https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl"
-        }
-      ],
-      "duration_ms": 187961,
-      "name": "Feels Like Magic",
-      "url": "https://open.spotify.com/track/4OQAl1UeO0DF6aP3XgXp6F"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Hard To Look At",
         "url": "https://open.spotify.com/album/22dE6uGzAupKicgRGotoNv"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 149773,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/2rQMHZq7jnK0J2izGbCj0Z"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Feels Like Magic",
+        "url": "https://open.spotify.com/album/15alEIqBgadwC3kR7xq99y"
+      },
+      "artists": [
+        {
+          "name": "Sarah Proctor",
+          "url": "https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl"
+        }
+      ],
+      "duration_ms": 187961,
+      "name": "Feels Like Magic",
+      "url": "https://open.spotify.com/track/4OQAl1UeO0DF6aP3XgXp6F"
     },
     {
       "added_at": "2024-03-08 05:00:00",

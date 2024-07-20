@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTdx4nYEjeS.md) - [plain]
 
 > Música para acompañar esas rondas interminables de mate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,410 likes - 90 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,479 likes - 90 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,17 +43,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTdx4nYEjeS.md) - [plain]
 | 33 | [Algo Contigo](https://open.spotify.com/track/4zsDA31stWMtLveU61hejd) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico](https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo) | 3:38 |
 | 34 | [Un Osito de Peluche de Taiwán](https://open.spotify.com/track/6iCnJkKswtMYoSmT58HmEn) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Sigue Tu Camino](https://open.spotify.com/album/0RvMRxxQUVQp2jb3CIbg5g) | 4:07 |
 | 35 | [Pasos Al Costado](https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:16 |
-| 36 | [Cae el Sol](https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Voragine](https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb) | 4:41 |
-| 37 | [El Fantasma](https://open.spotify.com/track/0N361WhEqVunVl5ZBkfd70) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [GUAU!](https://open.spotify.com/album/1b0s5a9iIWIH5nEpzWSjHG) | 3:57 |
+| 36 | [El Fantasma](https://open.spotify.com/track/0N361WhEqVunVl5ZBkfd70) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [GUAU!](https://open.spotify.com/album/1b0s5a9iIWIH5nEpzWSjHG) | 3:57 |
+| 37 | [Cae el Sol](https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Voragine](https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb) | 4:41 |
 | 38 | [Esta Saliendo El Sol](https://open.spotify.com/track/2pmHBQiIjVfTyn3p1rRbSB) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [No Es Solo Rock And Roll](https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH) | 4:08 |
 | 39 | [Cactus](https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 3:54 |
 | 40 | [Día De Domingo](https://open.spotify.com/track/1mtQPjYoQ3b8D7KuZ7rEOh) | [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb) | [Candombe Con La Ayudita De Mis Amigos](https://open.spotify.com/album/0wwTfU7BUANqTrR6nlV2pD) | 3:52 |
 | 41 | [Lo Que Hoy Quieras](https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Lo Que Hoy Quieras](https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR) | 2:55 |
 | 42 | [Arrancacorazones](https://open.spotify.com/track/2zogXcCqvKJwh3o67W3GG3) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Antihumano](https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz) | 4:19 |
-| 43 | [Nunca Lo Olvides](https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Nunca Lo Olvides](https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui) | 4:59 |
-| 44 | [La Soledad](https://open.spotify.com/track/56mbNpJVn5WQhOlsOvb2A0) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [La Argentinidad Al Palo](https://open.spotify.com/album/2jc4dbkhewS896fajyR7hZ) | 4:23 |
-| 45 | [Seminare \(Remasterizado 2021\)](https://open.spotify.com/track/61zbxB39zUY5oxBvEvvMYv) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Serú Girán \(Remasterizado 2021\)](https://open.spotify.com/album/23jPuEGchD65GA5PGJRwJo) | 3:22 |
-| 46 | [Díganle](https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 3:22 |
+| 43 | [La Soledad](https://open.spotify.com/track/56mbNpJVn5WQhOlsOvb2A0) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [La Argentinidad Al Palo](https://open.spotify.com/album/2jc4dbkhewS896fajyR7hZ) | 4:23 |
+| 44 | [Seminare \(Remasterizado 2021\)](https://open.spotify.com/track/61zbxB39zUY5oxBvEvvMYv) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Serú Girán \(Remasterizado 2021\)](https://open.spotify.com/album/23jPuEGchD65GA5PGJRwJo) | 3:22 |
+| 45 | [Díganle](https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 3:22 |
+| 46 | [Nunca Lo Olvides](https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Nunca Lo Olvides](https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui) | 4:59 |
 | 47 | [Nota](https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nota](https://open.spotify.com/album/0siQnF7cX6ggvTgYMll5OJ) | 2:39 |
 | 48 | [Casi q' me pierdo](https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:25 |
 | 49 | [Loco \(Tu Forma de Ser\) \[Ft\. Rubén Albarrán\] \- MTV Unplugged](https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 4:09 |

@@ -4,7 +4,7 @@
 
 > This is Senses Fail\. The essential tracks, all in one playlist.
 
-102 songs - 5 hr 44 min
+103 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,9 +65,10 @@
 | [Lungs Like Gallows](https://open.spotify.com/track/7CQIwk5PSSVSB8sdJKZYbz) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K) | 3:20 | 2023-12-13 |  |
 | [Lush Rimbaugh](https://open.spotify.com/track/3M3e3C2iMMFV6hn9r1VYuL) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Lush Rimbaugh](https://open.spotify.com/album/2BvxQyy7BGWLErMN3KuXeY) | 3:26 | 2023-01-08 | 2023-05-31 |
 | [M1SERY\_SYNDROME \(feat\. BUDDY NIELSEN\)](https://open.spotify.com/track/4otAANskhQoMSLeLGsWdT9) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Buddy Nielsen](https://open.spotify.com/artist/2H6DEyiv5p0f3s5Bl7mAOc), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [M1SERY\_SYNDROME \(feat\. Buddy Nielsen\)](https://open.spotify.com/album/4cjdHX1ATubh35zQve88fn) | 3:04 | 2022-10-25 | 2023-04-09 |
-| [M1SERY\_SYNDROME \(feat\. BUDDY NIELSEN\)](https://open.spotify.com/track/5HuONHSJVsyksi8JJnLmh0) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Buddy Nielsen](https://open.spotify.com/artist/2H6DEyiv5p0f3s5Bl7mAOc), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [VOID ETERNAL](https://open.spotify.com/album/3zO5Pq3zhf3qz85rpFlDNK) | 3:04 | 2023-04-08 |  |
+| [M1SERY\_SYNDROME \(feat\. BUDDY NIELSEN\)](https://open.spotify.com/track/5HuONHSJVsyksi8JJnLmh0) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Buddy Nielsen](https://open.spotify.com/artist/2H6DEyiv5p0f3s5Bl7mAOc), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [VOID ETERNAL](https://open.spotify.com/album/3zO5Pq3zhf3qz85rpFlDNK) | 3:04 | 2023-04-08 | 2024-07-20 |
 | [Mi Amor](https://open.spotify.com/track/39gXTmxpFrCYcSgnoietZJ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 3:29 | 2023-12-13 |  |
 | [Mi Amor](https://open.spotify.com/track/7jqNINX4kZhSQOKmYvLkxZ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/3z6xGsObjZFEdnUgZaU2MP) | 3:29 | 2022-10-25 | 2023-12-14 |
+| [Miles to Go](https://open.spotify.com/track/4a7Atfhoc5GUiHLY228vd1) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:11 | 2024-07-20 |  |
 | [Negative Space](https://open.spotify.com/track/54GtzmielGnNaqkpmfCp4o) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 1:21 | 2023-03-25 | 2023-05-10 |
 | [New Jersey Makes, The World Takes](https://open.spotify.com/track/25PtrOA0qzM9IUtkGuEAn3) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 2:59 | 2022-10-25 |  |
 | [New Year's Eve](https://open.spotify.com/track/3eZYL9YvI8aGYWDfO8Km7V) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS) | 3:14 | 2023-12-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JHtri4qWRK.md) - [plain]
 
 > R&B jams for the brokenhearted.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,419 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,421 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JHtri4qWRK.md) - [plain]
 | 53 | [Try Sleeping with a Broken Heart](https://open.spotify.com/track/1yK9LISg5uBOOW5bT2Wm0i) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 4:09 |
 | 54 | [Don't Hurt Yourself \(feat\. Jack White\)](https://open.spotify.com/track/78eouBKVRyhbSzJwChr6QM) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:53 |
 | 55 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 |
-| 56 | [Have You Ever](https://open.spotify.com/track/6tBD4yjOf9P8rWwUlXdJFm) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:33 |
-| 57 | [Charlene](https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 4:06 |
+| 56 | [Charlene](https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 4:06 |
+| 57 | [Have You Ever](https://open.spotify.com/track/6tBD4yjOf9P8rWwUlXdJFm) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:33 |
 | 58 | [EX](https://open.spotify.com/track/47cQCF21TczFSmGfpd7c07) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Selfless](https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP) | 3:42 |
 | 59 | [I Should Have Cheated](https://open.spotify.com/track/5tFDgH6do20IXdSoNBAmXK) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [The Way It Is](https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV) | 5:27 |
 | 60 | [6, 8, 12](https://open.spotify.com/track/0IR0twnckQoKMgbnPf5uw0) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Back At One](https://open.spotify.com/album/0ZnKlkQrZb1xDbT8bmPSjo) | 4:07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,979 likes - 83 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,027 likes - 84 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 32 | [Drive](https://open.spotify.com/track/4I95FgYJkKw8HKrEli1WY2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [Drive](https://open.spotify.com/album/5YE4RbWYJXkRWQAXqNiNBv) | 3:43 |
 | 33 | [LET'S GET FUCKED \(TEQUILA Remix\)](https://open.spotify.com/track/1Mortchz7Y5AVsbK7Sas5X) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne), [Amanda Lepore](https://open.spotify.com/artist/4rPzjuxvcad2GgpIRt2civ) | [LET'S GET FUCKED \(TEQUILA Remix\)](https://open.spotify.com/album/5tWkzQuSHcOaHGfKvFmgRk) | 3:44 |
 | 34 | [Satellite Business 2.0](https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Satellite Business 2.0](https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb) | 4:53 |
-| 35 | [Something Like This \(feat\. Dagny\)](https://open.spotify.com/track/2GtHpx7Q1xlmLBRx70i6oa) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg), [Eivind Helgerød](https://open.spotify.com/artist/4jAfuaUzyHkiLT9V32xe9l) | [Mad Women](https://open.spotify.com/album/53Fb80eoXfCbPF9DTaPXJk) | 3:23 |
+| 35 | [Something Like This \(feat\. Dagny\)](https://open.spotify.com/track/2GtHpx7Q1xlmLBRx70i6oa) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Mad Women](https://open.spotify.com/album/53Fb80eoXfCbPF9DTaPXJk) | 3:23 |
 | 36 | [Between Us](https://open.spotify.com/track/5mXAZYgqMhqzgNBsDmbpQl) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [MRYN](https://open.spotify.com/artist/6nvB3AlAAvRl4OGvPOPsMR) | [Between Us](https://open.spotify.com/album/6jmOQJSmFU11Hfy5TQyUOS) | 4:37 |
 | 37 | [Day N Night](https://open.spotify.com/track/3DK7ctMhhxqBPaj0FJxQ7Q) | [ALBA](https://open.spotify.com/artist/5MKM7cNYL4SIuIe6q4Qd1p) | [Day N Night](https://open.spotify.com/album/20RfZeHKs24cl0ETTSMWjf) | 3:54 |
 | 38 | [Superhuman](https://open.spotify.com/track/0beVZzd2zliQ75XNIhTG93) | [Pure Shores](https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr) | [Superhuman](https://open.spotify.com/album/7LfaJ1Ar48pT5M0h06bOM0) | 3:08 |
@@ -90,6 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 80 | [the warmth](https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [the warmth](https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy) | 4:30 |
 | 81 | [Ändrats](https://open.spotify.com/track/0PoPwH30VeWBoCsrH8EXgN) | [9liv](https://open.spotify.com/artist/1CoE5ue29WuTIHn0QE5mrO) | [Ändrats](https://open.spotify.com/album/4aaFAnqzk8hcWMJyGTpn7S) | 2:22 |
 | 82 | [Driving Weather](https://open.spotify.com/track/2P34EtGlMnvfzSnJ0lczso) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Driving Weather](https://open.spotify.com/album/5KpVRe7ZDR73dXqJPqXqb1) | 2:42 |
-| 83 | [I Am Happy](https://open.spotify.com/track/5nDwo3rYfPVzKTxFX7JBRy) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [I Am Happy](https://open.spotify.com/album/2j3UeoEWrTnc6PVVbfBe6F) | 3:02 |
+| 83 | [Jag väljer mig](https://open.spotify.com/track/5s8SgJeACOm0atEf24I37V) | [Michael Moe](https://open.spotify.com/artist/5t5e4IYHKIGKdPc3tSATB1) | [Jag väljer mig](https://open.spotify.com/album/0BpQkuz7h89tyjLAySYKbT) | 2:12 |
+| 84 | [I Am Happy](https://open.spotify.com/track/5nDwo3rYfPVzKTxFX7JBRy) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [I Am Happy](https://open.spotify.com/album/2j3UeoEWrTnc6PVVbfBe6F) | 3:02 |
 
 Snapshot ID: `ZpmQYAAAAADTQsfg/inig13qemkAufaa`

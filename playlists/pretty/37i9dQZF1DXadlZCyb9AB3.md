@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 
 > Defining songs of the riot grrrl era and the artists keeping its spirit alive
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,007 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,160 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 73 | [Pillow Case Kisser](https://open.spotify.com/track/1uXSrZF3qd7ZLXURZw1BzP) | [Skinned Teen](https://open.spotify.com/artist/7os5CJbSzqsNlcVJd99aV1) | [Bazooka Smooth!](https://open.spotify.com/album/3J9UlDltpkop6xK3Ew8sBj) | 1:38 |
 | 74 | [The Clutch](https://open.spotify.com/track/5Xm5b2ORltrEHCgiqptGPb) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [The Clutch](https://open.spotify.com/album/3Ke3jZ4dYcOaa4jzyWAOtD) | 3:10 |
 | 75 | [Dead Man](https://open.spotify.com/track/5LZmZSVTcDoGqhds6YJuBF) | [Bacchae](https://open.spotify.com/artist/2kkzGUcM1xMk6BWxbIINd8) | [Dead Man](https://open.spotify.com/album/50H78cd7BSk6xi8iWR5j6X) | 2:45 |
-| 76 | [In the Summer](https://open.spotify.com/track/7lmvnE8oF7EhJNuLeUxTIf) | [Fastbacks](https://open.spotify.com/artist/2mlDM1k4J5XijZKXALxhDT) | [Very, Very Powerful Motor](https://open.spotify.com/album/069dipMFhPwUSC2SSufyxi) | 3:18 |
-| 77 | [Smash Hit](https://open.spotify.com/track/1De7fMm1UPurbI47uUhIqS) | [Potty Mouth](https://open.spotify.com/artist/4liUQpCxxhjGMgc33K81Fw) | [Smash Hit](https://open.spotify.com/album/2P2QieqaKge4w2vkN0C8NI) | 3:20 |
+| 76 | [Smash Hit](https://open.spotify.com/track/1De7fMm1UPurbI47uUhIqS) | [Potty Mouth](https://open.spotify.com/artist/4liUQpCxxhjGMgc33K81Fw) | [Smash Hit](https://open.spotify.com/album/2P2QieqaKge4w2vkN0C8NI) | 3:20 |
+| 77 | [In the Summer](https://open.spotify.com/track/7lmvnE8oF7EhJNuLeUxTIf) | [Fastbacks](https://open.spotify.com/artist/2mlDM1k4J5XijZKXALxhDT) | [Very, Very Powerful Motor](https://open.spotify.com/album/069dipMFhPwUSC2SSufyxi) | 3:18 |
 | 78 | [I Don't Want You Anyway](https://open.spotify.com/track/5JdY3aB0msrkLZya4fEerb) | [Look Blue Go Purple](https://open.spotify.com/artist/1Yy0i6C3R2ubzz9CRM4JDv) | [Look Blue Go Purple Compilation](https://open.spotify.com/album/0l1n4dDAwKOpp5ZyOoTK00) | 2:57 |
 | 79 | [Kung Fu on the Internet](https://open.spotify.com/track/0vFPN8xDwz6xWrFrAQvIoz) | [Lung Leg](https://open.spotify.com/artist/4MSXrcdEDYgxKxlT1HpDiN) | [Hello Sir](https://open.spotify.com/album/11N5aPE7xTJ3LxXrINuH8r) | 1:25 |
 | 80 | [Love Is the Slug \- Bargainous Longerer Mix](https://open.spotify.com/track/7pZiRYuRekNV92Qfl1iXDK) | [Fuzzbox](https://open.spotify.com/artist/6iKe6ON2rZrdXbuuhI3Gat) | [Bostin' Steve Austin \(Splendiferous Edition\)](https://open.spotify.com/album/0nnWj1MAGSXUhyO9A5RsLZ) | 3:57 |

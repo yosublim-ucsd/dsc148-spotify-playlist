@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Yasmin Santos e mais mulheres no volume máximo! Co\-curadoria com Yasmin Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,075 likes - 49 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,105 likes - 49 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 35 | [Silêncio \- Ao Vivo](https://open.spotify.com/track/0snqnBbzkmkHPEdkUIdxIu) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Marília Mendonça \- Ao Vivo](https://open.spotify.com/album/0qy6yZjgoZ2cGGk9joy8E4) | 2:53 |
 | 36 | [Promessa](https://open.spotify.com/track/1qqRwa8XB2INbK8JsC7YKX) | [Danieze Santiago](https://open.spotify.com/artist/166XjvNMa051GH0GR18P2g) | [Promessa](https://open.spotify.com/album/73hSRLAyMBrC8WmNZSH8lY) | 4:12 |
 | 37 | [Então Valeu \- Ao Vivo](https://open.spotify.com/track/2xWpzNe4WiAHULuoOXEdL0) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Yasmin Santos Ao Vivo em Goiânia](https://open.spotify.com/album/5LiNfSeXC0VjZ00nSF5Rab) | 3:27 |
-| 38 | [Bora Testar](https://open.spotify.com/track/5sGpSASOFgc9WqvUR76Jqo) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Bora Testar](https://open.spotify.com/album/0cT2wFroLy3chvFZ2hWuI7) | 2:32 |
-| 39 | [Status](https://open.spotify.com/track/210jgouJg1YRS4rtp0xkNm) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Status](https://open.spotify.com/album/5aEKsmuiELa952fvaIyzri) | 2:23 |
+| 38 | [Status](https://open.spotify.com/track/210jgouJg1YRS4rtp0xkNm) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Status](https://open.spotify.com/album/5aEKsmuiELa952fvaIyzri) | 2:23 |
+| 39 | [Bora Testar](https://open.spotify.com/track/5sGpSASOFgc9WqvUR76Jqo) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Bora Testar](https://open.spotify.com/album/0cT2wFroLy3chvFZ2hWuI7) | 2:32 |
 | 40 | [Você não vive sem](https://open.spotify.com/track/1WHeEGj7gbd834Ema8PHU0) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 3:17 |
 | 41 | [Camomila](https://open.spotify.com/track/4H7BHzd5avEDpCA6wWAbVi) | [Manda](https://open.spotify.com/artist/1ZeF4gSmzi8ZdlXJUu4LG5) | [Música](https://open.spotify.com/album/0OJttgbWradQ5U5dYLzPzi) | 3:07 |
 | 42 | [Assino com X / Do Outro Lado Da Cidade \- Ao Vivo](https://open.spotify.com/track/2PxkAKIQNYBO7RTKzhJMi5) | [Mikaely e Poliany](https://open.spotify.com/artist/4Hs8nCGN5OLyT1lIGQCkf3) | [Assino com X / Do Outro Lado Da Cidade \(Ao Vivo\)](https://open.spotify.com/album/1XVEi0YAuK5FcN4zIm03Gp) | 3:11 |

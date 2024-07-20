@@ -1,6 +1,6 @@
 {
   "description": "\u00e9xitos de regreso",
-  "num_followers": 150777,
+  "num_followers": 150806,
   "original_name": "virales viejitas",
   "owner": {
     "name": "Spotify",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "STELLA & STEVE",
-        "url": "https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        },
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 223480,
-      "name": "Supalonely",
-      "url": "https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
         "name": "Culpables",
         "url": "https://open.spotify.com/album/0WmqKVGQgIYleOI8gtWP1w"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 226626,
       "name": "Culpables",
       "url": "https://open.spotify.com/track/6q8Lb50EtqNeeJXXe8mMAH"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
+        "name": "STELLA & STEVE",
+        "url": "https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        },
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 223480,
+      "name": "Supalonely",
+      "url": "https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw"
     },
     {
       "added_at": "2022-07-26 18:00:55",

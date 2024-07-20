@@ -234,6 +234,6 @@
 | [You Get Me \(A Final Word\)](https://open.spotify.com/track/4NGx7fAjbmXWebrHTRZBIa) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 3:33 | 2024-06-14 |  |
 | [You Made Your Bed \(So Lay In It\)](https://open.spotify.com/track/1EF3Afeqn4uo33pPHMlI6s) | [Travis Garland](https://open.spotify.com/artist/5tpWDRL3doEgCZdVn4FsNN) | [Travis Garland](https://open.spotify.com/album/1VuIx4XMmSs1hGZk2uCzvO) | 4:04 | 2024-06-14 |  |
 | [YOUR EYES \(feat\. Tayla Parx\)](https://open.spotify.com/track/5RJizYf3glrHlux3XymB2r) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [TESTIFY](https://open.spotify.com/album/72QrPCGdsW94gJZvQY8ZFV) | 3:28 | 2024-06-14 |  |
-| [YOUR SONG](https://open.spotify.com/track/2QbeXjJMa3cssEf0EVp7Lf) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4), [Junoflo](https://open.spotify.com/artist/5ZjBaiZiRUZx4AmlzOOc9R) | [ONE SHOT, TWO SHOT \- The 1st Mini Album](https://open.spotify.com/album/04gRvDvXy6ctlFxI3G7Wd5) | 3:32 | 2024-06-14 |  |
+| [YOUR SONG](https://open.spotify.com/track/2QbeXjJMa3cssEf0EVp7Lf) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [ONE SHOT, TWO SHOT \- The 1st Mini Album](https://open.spotify.com/album/04gRvDvXy6ctlFxI3G7Wd5) | 3:32 | 2024-06-14 |  |
 
 \*This playlist was first scraped on 2024-06-15. Prior content cannot be recovered.

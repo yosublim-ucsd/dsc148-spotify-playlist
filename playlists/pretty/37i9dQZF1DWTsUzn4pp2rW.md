@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,173 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,207 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 72 | [Chamomile Tea](https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME) | [Andrew Farstar](https://open.spotify.com/artist/4VNIES74VX9mO2lcX0F29z) | [Chamomile Tea](https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr) | 4:12 |
 | 73 | [Visions](https://open.spotify.com/track/5N3rW3s7zDsbSxLV3ERubK) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [The Window](https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG) | 5:11 |
 | 74 | [When The Stars Align](https://open.spotify.com/track/71dit7trObYaqZuVU8xsBV) | [Caleb Dinger](https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs) | [When The Stars Align](https://open.spotify.com/album/4LcdQw5uwritvZ25c3Bash) | 3:21 |
-| 75 | [Humphrey and me](https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj) | [Claes Janson](https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712) | [Humphrey and Me](https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL) | 4:27 |
-| 76 | [Snowflakes](https://open.spotify.com/track/3Hbylm12DZXnOJQBdBkOaf) | [Jorunn Westeraas](https://open.spotify.com/artist/6h4qPRsCLMPKVrW7nbLn18), [Hege Saugstad](https://open.spotify.com/artist/5qsnbEMK2eQMFSAyP6BsNT), [Monika Gellein Mathisen](https://open.spotify.com/artist/4ItYdjOC69BL5Y6yETcTym) | [Snowflakes](https://open.spotify.com/album/7M6CJaL7NXBG7EWRnsizuI) | 3:44 |
+| 75 | [Snowflakes](https://open.spotify.com/track/3Hbylm12DZXnOJQBdBkOaf) | [Jorunn Westeraas](https://open.spotify.com/artist/6h4qPRsCLMPKVrW7nbLn18), [Hege Saugstad](https://open.spotify.com/artist/5qsnbEMK2eQMFSAyP6BsNT), [Monika Gellein Mathisen](https://open.spotify.com/artist/4ItYdjOC69BL5Y6yETcTym) | [Snowflakes](https://open.spotify.com/album/7M6CJaL7NXBG7EWRnsizuI) | 3:44 |
+| 76 | [Humphrey and me](https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj) | [Claes Janson](https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712) | [Humphrey and Me](https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL) | 4:27 |
 | 77 | [A Bridge](https://open.spotify.com/track/4PGyTgWYuHcMWhJBT7Rulv) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05), [Alexander Raichenok](https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6) | [A Bridge](https://open.spotify.com/album/6wFwaP0tCpw8N8PPYFEQIZ) | 4:03 |
 | 78 | [Beautiful Way](https://open.spotify.com/track/76Y4rH04QPJfFePNLBiLjE) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Jake Sherman](https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO) | [Beautiful Way](https://open.spotify.com/album/5Upr8xza8nRWoaZWRvwLql) | 3:47 |
 | 79 | [the road is narrow](https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD) | [Jecca](https://open.spotify.com/artist/6OZZbpRmu88cPW77EiVjcg) | [The Road Is Narrow](https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b) | 3:14 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 95 | [In My Craft or Sullen Art](https://open.spotify.com/track/5ThjhKc0mU6KW16uL0eYqD) | [Josefine Lindstrand](https://open.spotify.com/artist/6qDDOhdKv4LfJT8kUctI9g), [Marius Neset](https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi) | [In My Craft or Sullen Art](https://open.spotify.com/album/4OvXZKvxKuG586cvembeGH) | 4:37 |
 | 96 | [Wherever You're Going](https://open.spotify.com/track/2U2CqVG9M78eJM9kLDz1oO) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Wherever You're Going](https://open.spotify.com/album/0F0fb6ytX3wGsmCNKkBOeb) | 4:07 |
 | 97 | [Sunny Days](https://open.spotify.com/track/0e9Etx1cLy20DjH7q4t0T0) | [Ginne Marker](https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39) | [Sunny Days](https://open.spotify.com/album/0v7xpgCyoHfeLFzsgl1fBE) | 4:00 |
-| 98 | [Before I Do](https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:18 |
-| 99 | [Catwoman](https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE) | [Stephanie Domet](https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ) | [Catwoman](https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj) | 3:31 |
-| 100 | [I Can’t Make You Love Me](https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [I Can’t Make You Love Me](https://open.spotify.com/album/1sn4P6Jxru5Yph7lNqXLoz) | 5:03 |
+| 98 | [Your Song](https://open.spotify.com/track/0OelgOpyjbEyc1agABKR4P) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Wolfgang Haffner](https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh) | [Your Song](https://open.spotify.com/album/5wgdPiD77nrKUBiW7ptss4) | 4:30 |
+| 99 | [Before I Do](https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:18 |
+| 100 | [Catwoman](https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE) | [Stephanie Domet](https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ) | [Catwoman](https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj) | 3:31 |
 
 Snapshot ID: `ZpJjAAAAAADi2d7ys6T7x3HBxKz/kfiQ`

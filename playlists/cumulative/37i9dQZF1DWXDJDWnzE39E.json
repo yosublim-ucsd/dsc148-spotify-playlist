@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-12-07",
-  "description": "A salute to all of the women opening up the pit. Cover: Voice of Baceprot #Glastonbury2024",
+  "description": "A salute to all of the women opening up the pit. Cover: Voice of Baceprot ",
   "name": "Heavy Queens",
   "tracks": [
     {
@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 202466,
       "name": "Do It So Good",
       "url": "https://open.spotify.com/track/7AdLQWyE8e2AKUBooSGCBt"
@@ -2119,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "Friends In Low Places",
+        "url": "https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183826,
+      "name": "Friends In Low Places",
+      "url": "https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG"
+    },
+    {
+      "album": {
         "name": "Frostbite",
         "url": "https://open.spotify.com/album/5JwccG63yR9wrcxu09kjkD"
       },
@@ -2206,6 +2224,24 @@
       "duration_ms": 192000,
       "name": "Ghost Myself",
       "url": "https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT"
+    },
+    {
+      "album": {
+        "name": "RETAS",
+        "url": "https://open.spotify.com/album/1U3RzGU6OczSkzD0zB9Jrp"
+      },
+      "artists": [
+        {
+          "name": "Voice of Baceprot",
+          "url": "https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210729,
+      "name": "God, Allow Me (Please) to Play Music",
+      "url": "https://open.spotify.com/track/3GIUdK7VyTddyBsupRPjDq"
     },
     {
       "album": {
@@ -3627,6 +3663,24 @@
     },
     {
       "album": {
+        "name": "New Way Out",
+        "url": "https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202909,
+      "name": "New Way Out",
+      "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
+    },
+    {
+      "album": {
         "name": "No More Hollywood Endings",
         "url": "https://open.spotify.com/album/27a6npYtoMBSwG9qqNoQvM"
       },
@@ -4238,7 +4292,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 95693,
       "name": "Real Wild Child",
       "url": "https://open.spotify.com/track/0aJkQe2ux7kl3XKpbYVibb"
@@ -4634,7 +4688,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 228626,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/1iFIRC1D9NnxjTwF240jZy"

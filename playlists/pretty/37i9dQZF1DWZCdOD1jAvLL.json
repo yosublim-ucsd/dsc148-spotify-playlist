@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: bbno$",
-  "num_followers": 243623,
+  "num_followers": 243703,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Eternal Rave",
+        "url": "https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv"
+      },
+      "artists": [
+        {
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+        },
+        {
+          "name": "Dj Samir",
+          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
+        }
+      ],
+      "duration_ms": 121908,
+      "name": "Eternal Rave",
+      "url": "https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Pepper",
         "url": "https://open.spotify.com/album/6Rg6yUy37Cb6Y1JeTRQv4Y"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 148965,
       "name": "Pepper",
       "url": "https://open.spotify.com/track/0OCFIEsSrmKueOiPK6S3xq"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Eternal Rave",
-        "url": "https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv"
-      },
-      "artists": [
-        {
-          "name": "Fyex",
-          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
-        },
-        {
-          "name": "Dj Samir",
-          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
-        }
-      ],
-      "duration_ms": 121908,
-      "name": "Eternal Rave",
-      "url": "https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2239,26 +2239,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Jiggy Woogie",
-        "url": "https://open.spotify.com/album/1POseoKNTFrdId8Tvt5N2G"
+        "name": "DRENCH",
+        "url": "https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H"
       },
       "artists": [
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
         },
         {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Baby Lawd",
-          "url": "https://open.spotify.com/artist/3yIk29nEyIjpijSSOX1EII"
+          "name": "Preme",
+          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
         }
       ],
-      "duration_ms": 140495,
-      "name": "Jiggy Woogie",
-      "url": "https://open.spotify.com/track/3yGpcjSuAiNofSrnsgzNRk"
+      "duration_ms": 197893,
+      "name": "DRENCH",
+      "url": "https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2287,22 +2283,26 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "DRENCH",
-        "url": "https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H"
+        "name": "Jiggy Woogie",
+        "url": "https://open.spotify.com/album/1POseoKNTFrdId8Tvt5N2G"
       },
       "artists": [
         {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         },
         {
-          "name": "Preme",
-          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Baby Lawd",
+          "url": "https://open.spotify.com/artist/3yIk29nEyIjpijSSOX1EII"
         }
       ],
-      "duration_ms": 197893,
-      "name": "DRENCH",
-      "url": "https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW"
+      "duration_ms": 140495,
+      "name": "Jiggy Woogie",
+      "url": "https://open.spotify.com/track/3yGpcjSuAiNofSrnsgzNRk"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2543,26 +2543,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Diamond Therapy",
-        "url": "https://open.spotify.com/album/72xjIhQnOwXZMvdtlYa3Ep"
+        "name": "Motor",
+        "url": "https://open.spotify.com/album/0x6mXhYCkb1icLuxTLhAr4"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         },
         {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
         }
       ],
-      "duration_ms": 199472,
-      "name": "Diamond Therapy",
-      "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
+      "duration_ms": 182769,
+      "name": "Motor",
+      "url": "https://open.spotify.com/track/59YkyPuZCXyiLmcmSNKRtH"
     }
   ],
   "unique_name": "Bangers",

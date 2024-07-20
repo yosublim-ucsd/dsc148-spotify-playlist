@@ -260,7 +260,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 179445,
       "name": "AFERRAFTER",
       "url": "https://open.spotify.com/track/5yocGyDqLyFOWAuuRF3nRf"
@@ -420,7 +420,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205716,
       "name": "Amapolas",
       "url": "https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH"
@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 154760,
       "name": "Brillo",
       "url": "https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh"
@@ -1404,7 +1404,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 142666,
       "name": "Bugity",
       "url": "https://open.spotify.com/track/3Yt1TiQ1DU5iHAWNKhX0sy"
@@ -2368,7 +2368,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 238419,
       "name": "Debo Entender",
       "url": "https://open.spotify.com/track/55mzJ0LftLnef8sxAjrMkU"
@@ -3014,7 +3014,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 148480,
       "name": "Ducati",
       "url": "https://open.spotify.com/track/0tmP3JTNIPazZFYbznBwm7"
@@ -3346,6 +3346,40 @@
       "duration_ms": 179745,
       "name": "El T\u00f3xico",
       "url": "https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw"
+    },
+    {
+      "album": {
+        "name": "Electromorbo",
+        "url": "https://open.spotify.com/album/4xgirQoTPMCnKMB3L9qZzW"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175121,
+      "name": "Electromorbo",
+      "url": "https://open.spotify.com/track/66skQzABVVs28ptsEoRqxF"
     },
     {
       "album": {
@@ -6018,7 +6052,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 226088,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
@@ -6892,7 +6926,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 163666,
       "name": "NIENTIENDO",
       "url": "https://open.spotify.com/track/1S0U81LjOFfcsVGpSEJrFG"
@@ -8156,7 +8190,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 171720,
       "name": "PRENDE LA BOCINA (feat. BeatBoy)",
       "url": "https://open.spotify.com/track/4RESrc6w1WJ2njfysrmMPt"
@@ -9911,6 +9945,28 @@
     },
     {
       "album": {
+        "name": "\u00d1EROSTARS",
+        "url": "https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Nando Produce",
+          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190169,
+      "name": "Todo Tiene Su Final",
+      "url": "https://open.spotify.com/track/5To8W2tfQMQKxSGtpcC9Qg"
+    },
+    {
+      "album": {
         "name": "\u00c9XODO",
         "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },
@@ -11118,7 +11174,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 164455,
       "name": "\u00d1ero Session 23",
       "url": "https://open.spotify.com/track/5dmrKfJd5roTYwH5YfOg7G"

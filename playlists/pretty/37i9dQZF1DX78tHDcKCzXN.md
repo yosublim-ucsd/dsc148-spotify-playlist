@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78tHDcKCzXN.md) - [plain]
 
 > To the world, this is NCT! This is NCT 127!
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,591 likes - 104 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,652 likes - 104 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78tHDcKCzXN.md) - [plain]
 | 53 | [Road Trip](https://open.spotify.com/track/2OoG4BqX926Te1vGdMFB2F) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:35 |
 | 54 | [Dreamer](https://open.spotify.com/track/2dGQn6Dqb5PPLqtbmvfcFf) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:29 |
 | 55 | [Promise You](https://open.spotify.com/track/5LuX3XQmdRG327lafv1p50) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:31 |
-| 56 | [Cherry Bomb](https://open.spotify.com/track/3o8QzWsiiqTUVgBZfHgF58) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 CHERRY BOMB– The 3rd Mini Album](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) | 3:56 |
+| 56 | [Cherry Bomb](https://open.spotify.com/track/3o8QzWsiiqTUVgBZfHgF58) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 CHERRY BOMB \- The 3rd Mini Album](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) | 3:56 |
 | 57 | [Kick It](https://open.spotify.com/track/0yFq4GHDqLfeceyAs63B3W) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YHFKsjb0e5q8Smb2CBUl7) | 3:53 |
 | 58 | [Regular \- English Version](https://open.spotify.com/track/4KqPuyZdcjXuRqXSARnt6r) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Regular\-Irregular \- The 1st Album](https://open.spotify.com/album/4oU5Tp952fPL7z2Bax4JmU) | 3:39 |
 | 59 | [Simon Says](https://open.spotify.com/track/1zedfw5iu7XzKJT8CupEIP) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Regulate \- The 1st Album Repackage](https://open.spotify.com/album/5iJsCigDROOTMgUpJ6ex2S) | 3:19 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78tHDcKCzXN.md) - [plain]
 | 64 | [Baby Don’t Like It 나쁜 짓](https://open.spotify.com/track/7I2nbddpDYsAe6e4biIxEO) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT\#127 LIMITLESS \- The 2nd Mini Album](https://open.spotify.com/album/4EEfpF1qcPAl1J4Z770A2U) | 2:38 |
 | 65 | [Superhuman](https://open.spotify.com/track/0TU7xhMfZbI1okpLyHptFV) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 WE ARE SUPERHUMAN \- The 4th Mini Album](https://open.spotify.com/album/15DNWLVXy5ES2USQ1PFnF5) | 3:57 |
 | 66 | [Punch](https://open.spotify.com/track/7LXW05QcQi9ri7ZBYqGhPJ) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone: The Final Round – The 2nd Album Repackage](https://open.spotify.com/album/0DPNn9SKfwd7rJiiJFLwee) | 3:24 |
-| 67 | [Whiplash](https://open.spotify.com/track/2iPxDFeN27VrKgGdZ0AIKw) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 CHERRY BOMB– The 3rd Mini Album](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) | 3:21 |
+| 67 | [Whiplash](https://open.spotify.com/track/2iPxDFeN27VrKgGdZ0AIKw) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 CHERRY BOMB \- The 3rd Mini Album](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) | 3:21 |
 | 68 | [No Longer](https://open.spotify.com/track/629NRMzA7LTXSuzwG7R1Ag) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Regular\-Irregular \- The 1st Album](https://open.spotify.com/album/4oU5Tp952fPL7z2Bax4JmU) | 4:57 |
 | 69 | [Regular \- Korean Version](https://open.spotify.com/track/2lAxhE5s3x7OS9sfhsgT1F) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Regular\-Irregular \- The 1st Album](https://open.spotify.com/album/4oU5Tp952fPL7z2Bax4JmU) | 3:37 |
 | 70 | [Highway to Heaven](https://open.spotify.com/track/12ksjJ2DDQZu0a1fvJnTRE) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 WE ARE SUPERHUMAN \- The 4th Mini Album](https://open.spotify.com/album/15DNWLVXy5ES2USQ1PFnF5) | 3:20 |
@@ -85,11 +85,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78tHDcKCzXN.md) - [plain]
 | 75 | [Angel](https://open.spotify.com/track/4kpRzag7QtFfLRUUy9SB9W) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT\#127 LIMITLESS \- The 2nd Mini Album](https://open.spotify.com/album/4EEfpF1qcPAl1J4Z770A2U) | 4:09 |
 | 76 | [Welcome To My Playground](https://open.spotify.com/track/56f5GO8ir5ucrcQ00k4a8t) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Regulate \- The 1st Album Repackage](https://open.spotify.com/album/5iJsCigDROOTMgUpJ6ex2S) | 3:59 |
 | 77 | [Paradise](https://open.spotify.com/track/5oIDaqiY76DAYWjF6NmTtU) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 \- The 1st Mini Album](https://open.spotify.com/album/7xmqXxPAmkgn5HK9FcyBxR) | 3:26 |
-| 78 | [Summer 127](https://open.spotify.com/track/7tQTOyhv9BAjKoMoegHncb) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 CHERRY BOMB– The 3rd Mini Album](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) | 3:37 |
-| 79 | [Sun&Moon](https://open.spotify.com/track/4jhUqSKsWZoVOc778NsFU1) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 CHERRY BOMB– The 3rd Mini Album](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) | 3:07 |
+| 78 | [Summer 127](https://open.spotify.com/track/7tQTOyhv9BAjKoMoegHncb) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 CHERRY BOMB \- The 3rd Mini Album](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) | 3:37 |
+| 79 | [Sun & Moon](https://open.spotify.com/track/4jhUqSKsWZoVOc778NsFU1) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 CHERRY BOMB \- The 3rd Mini Album](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) | 3:07 |
 | 80 | [Good Thing](https://open.spotify.com/track/0mwCLKphlE8pzj6HKCWOlU) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT\#127 LIMITLESS \- The 2nd Mini Album](https://open.spotify.com/album/4EEfpF1qcPAl1J4Z770A2U) | 3:40 |
 | 81 | [Mad City](https://open.spotify.com/track/4Kut5Rhbp0nWo63xxPCWud) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 \- The 1st Mini Album](https://open.spotify.com/album/7xmqXxPAmkgn5HK9FcyBxR) | 3:18 |
-| 82 | [0 Mile](https://open.spotify.com/track/7BR3N1IbXTjEJffLd8aics) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 CHERRY BOMB– The 3rd Mini Album](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) | 3:23 |
+| 82 | [0 Mile](https://open.spotify.com/track/7BR3N1IbXTjEJffLd8aics) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 CHERRY BOMB \- The 3rd Mini Album](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) | 3:23 |
 | 83 | [Elevator \(127F\)](https://open.spotify.com/track/7LVsF9wJOMfDrf0eXe3cUo) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YHFKsjb0e5q8Smb2CBUl7) | 3:29 |
 | 84 | [Replay \(PM 01:27\)](https://open.spotify.com/track/2nOdZukkmCi4HyAnn4GHuU) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Regular\-Irregular \- The 1st Album](https://open.spotify.com/album/4oU5Tp952fPL7z2Bax4JmU) | 3:39 |
 | 85 | [Love Song](https://open.spotify.com/track/2oKAC0Dv0EEEWaECVmZzyp) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YHFKsjb0e5q8Smb2CBUl7) | 3:35 |

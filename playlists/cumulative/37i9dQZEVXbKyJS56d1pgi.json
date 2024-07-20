@@ -552,7 +552,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 161884,
       "name": "A Internet \u00c9 Toxica",
       "url": "https://open.spotify.com/track/6Gn8SHd3RIWjOermcidCJk"
@@ -1590,7 +1590,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -7174,7 +7174,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -10138,6 +10138,24 @@
       "duration_ms": 170964,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K"
+    },
+    {
+      "album": {
+        "name": "HAY LUPITA",
+        "url": "https://open.spotify.com/album/2VOwmlyJzRjfMfofsNHTtR"
+      },
+      "artists": [
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105836,
+      "name": "HAY LUPITA",
+      "url": "https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4"
     },
     {
       "album": {

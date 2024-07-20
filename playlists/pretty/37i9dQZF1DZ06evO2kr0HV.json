@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 35131,
+  "num_followers": 35151,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAAAGE3pBzioazoRXD6Rj/zjf",
+  "snapshot_id": "ZphbAAAAAAAwA8+FTawVp2d4IILduO59",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,26 @@
       "duration_ms": 171680,
       "name": "Besos y Pendientes",
       "url": "https://open.spotify.com/track/4xxIXKRyO2t4KiPzzZvHnj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si Volviera A Nacer",
+        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "duration_ms": 221760,
+      "name": "Juan Y Paul",
+      "url": "https://open.spotify.com/track/1FUKWcdbjLj872lLhgdVeu"
     },
     {
       "added_at": null,
@@ -647,18 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Volviera A Nacer",
-        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
+        "name": "ANSIED\u00c1",
+        "url": "https://open.spotify.com/album/5RugI8qVcl0Fu1Xr2A2fWv"
       },
       "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 226586,
-      "name": "Milagrosa",
-      "url": "https://open.spotify.com/track/7i0IAeWI5SLPWtwCHiS9kD"
+      "duration_ms": 156482,
+      "name": "ANSIED\u00c1",
+      "url": "https://open.spotify.com/track/1U9EdGWeTlw1qoaJ0GoMxH"
     },
     {
       "added_at": null,
@@ -679,26 +703,6 @@
       "duration_ms": 187760,
       "name": "Oh L\u00e0 L\u00e0 (feat. Monsieur Perin\u00e9)",
       "url": "https://open.spotify.com/track/6A9woRzbEFLUshXy15Q4EO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ANSIED\u00c1",
-        "url": "https://open.spotify.com/album/5RugI8qVcl0Fu1Xr2A2fWv"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 156482,
-      "name": "ANSIED\u00c1",
-      "url": "https://open.spotify.com/track/1U9EdGWeTlw1qoaJ0GoMxH"
     },
     {
       "added_at": null,
@@ -739,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ca\u00f3tica Belleza",
+        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 212066,
+      "name": "Frenes\u00ed",
+      "url": "https://open.spotify.com/track/6xLUhTLKjdDrfbiTOonT6e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1er Acto",
         "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
       },
@@ -759,22 +779,6 @@
       "duration_ms": 315853,
       "name": "True Love (feat. Monsieur Perin\u00e9 & Juan Pablo Vega)",
       "url": "https://open.spotify.com/track/5uHMZeWwY6GQxKHGJfUvSu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ca\u00f3tica Belleza",
-        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 212066,
-      "name": "Frenes\u00ed",
-      "url": "https://open.spotify.com/track/6xLUhTLKjdDrfbiTOonT6e"
     },
     {
       "added_at": null,
@@ -815,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1er Acto",
-        "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "De Otro Planeta",
-      "url": "https://open.spotify.com/track/1XfgQpZQqDVNu2edxeyw3h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pobre Coraz\u00f3n",
         "url": "https://open.spotify.com/album/7uGhAfUDxsISXHgNTVb8S2"
       },
@@ -847,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "1er Acto",
+        "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "De Otro Planeta",
+      "url": "https://open.spotify.com/track/1XfgQpZQqDVNu2edxeyw3h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor Libre",
         "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
       },
@@ -859,70 +863,6 @@
       "duration_ms": 199440,
       "name": "7 D\u00edas",
       "url": "https://open.spotify.com/track/0iQ5TF0YYNCuDfUOZ0ASoD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A qui\u00e9n le importa",
-        "url": "https://open.spotify.com/album/1iqyCZETxBHb57Mv4JqG1J"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Lucrecia",
-          "url": "https://open.spotify.com/artist/2lylnjEoxCfNCh8LU6BQ14"
-        },
-        {
-          "name": "Edith Salazar",
-          "url": "https://open.spotify.com/artist/0WJz68BdO4VBwOom3W15EM"
-        },
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX"
-        },
-        {
-          "name": "Amparo Sandino",
-          "url": "https://open.spotify.com/artist/3oegWGTjRuLbcou3oSUZ3C"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "YADAM",
-          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
-        },
-        {
-          "name": "NAIZA",
-          "url": "https://open.spotify.com/artist/64tOF1AuYOTyd0JSDLTyo0"
-        },
-        {
-          "name": "Luna Manzanares",
-          "url": "https://open.spotify.com/artist/6J4O8juzVNrJpZ0PNIGM6E"
-        },
-        {
-          "name": "Marcos French",
-          "url": "https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc"
-        },
-        {
-          "name": "Sandra Love",
-          "url": "https://open.spotify.com/artist/6G5tquDgGxnfOFjJ2ogXqm"
-        },
-        {
-          "name": "Juan Sueiro",
-          "url": "https://open.spotify.com/artist/0zVeeM7NYxVYxb453RXcL8"
-        }
-      ],
-      "duration_ms": 252727,
-      "name": "A qui\u00e9n le importa - Latin Pride Version by Juan Sueiro",
-      "url": "https://open.spotify.com/track/1qlUwEvjwotC8lvju3rR3u"
     }
   ],
   "unique_name": "This Is Esteman",

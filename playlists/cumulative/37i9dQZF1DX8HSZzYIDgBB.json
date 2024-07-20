@@ -1682,7 +1682,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 197733,
       "name": "Duele",
       "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
@@ -4914,7 +4914,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 236135,
       "name": "Que He Sacado Con Quererte",
       "url": "https://open.spotify.com/track/4WkJ0HrLkijOsZnBQRiBKZ"
@@ -5641,6 +5641,24 @@
     },
     {
       "album": {
+        "name": "Harvest",
+        "url": "https://open.spotify.com/album/7hIjNhXoPqyARBpaKpS3nk"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Sun Colored Eyes",
+      "url": "https://open.spotify.com/track/2Rlw1EslDSKSODPst1GhOY"
+    },
+    {
+      "album": {
         "name": "Sundown",
         "url": "https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM"
       },
@@ -5656,6 +5674,24 @@
       "duration_ms": 288618,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/3CGv4it1VeiRX7OaCjBmhW"
+    },
+    {
+      "album": {
+        "name": "S\u00e3o Paulo Motoboy",
+        "url": "https://open.spotify.com/album/120c6Vr3TyGwYhL2rX9BfP"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148600,
+      "name": "S\u00e3o Paulo Motoboy",
+      "url": "https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 19860,
+  "num_followers": 19874,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAAAZ+5SbnNWzs2vtFwj4eZiu",
+  "snapshot_id": "ZphbAAAAAAACO8AxekIRPqe2HNRYjMMY",
   "tracks": [
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Midian Lima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 307803,
+      "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quando o Vento Soprar (Legado)",
         "url": "https://open.spotify.com/album/2wLdIPoyLpyLl6dpFRwiQY"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 262002,
       "name": "Quando o Vento Soprar (Legado)",
       "url": "https://open.spotify.com/track/4uLv8S0e4ocdYQxDOJ1kR9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midian Lima (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 307803,
-      "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq"
     },
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinto o Teu Poder (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1Usw0QkOqkadByMwjlr26Y"
-      },
-      "artists": [
-        {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 271539,
-      "name": "Sinto o Teu Poder (Ao Vivo)",
-      "url": "https://open.spotify.com/track/57gcsPS1Mu1sVzFV6YzsZv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Midian Lima (Ao Vivo)",
         "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
       },
@@ -699,22 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "L\u00e9a Mendon\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl"
+        "name": "Sinto o Teu Poder (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1Usw0QkOqkadByMwjlr26Y"
       },
       "artists": [
         {
-          "name": "L\u00e9a Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
         },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 260342,
-      "name": "Mem\u00f3rias (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66"
+      "duration_ms": 271539,
+      "name": "Sinto o Teu Poder (Ao Vivo)",
+      "url": "https://open.spotify.com/track/57gcsPS1Mu1sVzFV6YzsZv"
     },
     {
       "added_at": null,
@@ -739,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Para o Templo",
-        "url": "https://open.spotify.com/album/5tuFsjabCiRNOawhwZSG4u"
+        "name": "L\u00e9a Mendon\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl"
       },
       "artists": [
+        {
+          "name": "L\u00e9a Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
+        },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 262000,
-      "name": "Entre Para o Templo",
-      "url": "https://open.spotify.com/track/4YnvssiwhpmJBrNtEAcAvM"
+      "duration_ms": 260342,
+      "name": "Mem\u00f3rias (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66"
     },
     {
       "added_at": null,
@@ -775,22 +759,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vencer ou Vencer (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6OK6jO8c6xB6QPdH56OYtE"
+        "name": "Entre Para o Templo",
+        "url": "https://open.spotify.com/album/5tuFsjabCiRNOawhwZSG4u"
       },
       "artists": [
-        {
-          "name": "Gisele Nascimento",
-          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
-        },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 325720,
-      "name": "Vencer ou Vencer (Ao Vivo)",
-      "url": "https://open.spotify.com/track/49GcUA2Qz4UWtuEVoxAAKF"
+      "duration_ms": 262000,
+      "name": "Entre Para o Templo",
+      "url": "https://open.spotify.com/track/4YnvssiwhpmJBrNtEAcAvM"
     },
     {
       "added_at": null,
@@ -815,22 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mais Um Dia",
-        "url": "https://open.spotify.com/album/67K8kSFzjEqx7Fk9GO7nil"
+        "name": "Vencer ou Vencer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6OK6jO8c6xB6QPdH56OYtE"
       },
       "artists": [
         {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+          "name": "Gisele Nascimento",
+          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
         },
         {
-          "name": "J\u00e9ssica Augusto",
-          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 317000,
-      "name": "Mais Um Dia",
-      "url": "https://open.spotify.com/track/2lpkT44bYWAyMoZ8zMf5Dm"
+      "duration_ms": 325720,
+      "name": "Vencer ou Vencer (Ao Vivo)",
+      "url": "https://open.spotify.com/track/49GcUA2Qz4UWtuEVoxAAKF"
     },
     {
       "added_at": null,
@@ -851,22 +831,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atos 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2e1gED5YRJBQ3Pguz5jEAu"
+        "name": "Mais Um Dia",
+        "url": "https://open.spotify.com/album/67K8kSFzjEqx7Fk9GO7nil"
       },
       "artists": [
         {
-          "name": "Arthur Callazans",
-          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
-        },
-        {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "J\u00e9ssica Augusto",
+          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
         }
       ],
-      "duration_ms": 319000,
-      "name": "Atos 2 (Ao Vivo)",
-      "url": "https://open.spotify.com/track/46gZR9rY1vrujQsOm6Iflo"
+      "duration_ms": 317000,
+      "name": "Mais Um Dia",
+      "url": "https://open.spotify.com/track/2lpkT44bYWAyMoZ8zMf5Dm"
     },
     {
       "added_at": null,
@@ -891,22 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desperta",
-        "url": "https://open.spotify.com/album/7wBBkqiGGGZYVlUuKlixa1"
+        "name": "Atos 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2e1gED5YRJBQ3Pguz5jEAu"
       },
       "artists": [
         {
-          "name": "Cleyde Jane",
-          "url": "https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T"
+          "name": "Arthur Callazans",
+          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
         },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 228530,
-      "name": "Desperta",
-      "url": "https://open.spotify.com/track/6GFYD6UtdBDBhhqK9L3SlO"
+      "duration_ms": 319000,
+      "name": "Atos 2 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/46gZR9rY1vrujQsOm6Iflo"
     },
     {
       "added_at": null,
@@ -923,6 +903,26 @@
       "duration_ms": 302927,
       "name": "Vida aos Sepulcros (Ao Vivo)",
       "url": "https://open.spotify.com/track/5xHEBgTq1fKc0LYfl3rEHD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desperta",
+        "url": "https://open.spotify.com/album/7wBBkqiGGGZYVlUuKlixa1"
+      },
+      "artists": [
+        {
+          "name": "Cleyde Jane",
+          "url": "https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 228530,
+      "name": "Desperta",
+      "url": "https://open.spotify.com/track/6GFYD6UtdBDBhhqK9L3SlO"
     },
     {
       "added_at": null,

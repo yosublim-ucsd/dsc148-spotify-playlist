@@ -403,6 +403,24 @@
     },
     {
       "album": {
+        "name": "Andrum",
+        "url": "https://open.spotify.com/album/1XRkQoTVjfWqw2nuO5rQWk"
+      },
+      "artists": [
+        {
+          "name": "Broken Peak",
+          "url": "https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211125,
+      "name": "Andrum",
+      "url": "https://open.spotify.com/track/6W2zZRhkMxKkXONKO04yGK"
+    },
+    {
+      "album": {
         "name": "As I Dream",
         "url": "https://open.spotify.com/album/3rzsB1SKf06JVz94jRszfY"
       },
@@ -1501,6 +1519,24 @@
     },
     {
       "album": {
+        "name": "Essence of the Forest",
+        "url": "https://open.spotify.com/album/1TOKTINDh4DrvQttXSrQKN"
+      },
+      "artists": [
+        {
+          "name": "Adelina Somerset",
+          "url": "https://open.spotify.com/artist/3dsMw7dDZ3c6CsdLsYBbLX"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Essence of the Forest",
+      "url": "https://open.spotify.com/track/6HZBfIcSbWg80V7JOPSsA5"
+    },
+    {
+      "album": {
         "name": "Eternal Rain Spaces",
         "url": "https://open.spotify.com/album/116k71os24eH1FC7Xu7JI3"
       },
@@ -2387,6 +2423,24 @@
     },
     {
       "album": {
+        "name": "Introspective Thoughts Gamma",
+        "url": "https://open.spotify.com/album/6cEWrmi0Zw37PcVVRaOtS3"
+      },
+      "artists": [
+        {
+          "name": "Waves Of Sine",
+          "url": "https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Introspective Thoughts Gamma (88-176hz)",
+      "url": "https://open.spotify.com/track/4Kd0E840XEJnAPxl1tktZY"
+    },
+    {
+      "album": {
         "name": "Jade",
         "url": "https://open.spotify.com/album/62TEnZFXeIQsKlet9lYICa"
       },
@@ -3097,6 +3151,24 @@
     },
     {
       "album": {
+        "name": "Morning Yoga",
+        "url": "https://open.spotify.com/album/02rCmVAY6NsJXNxFOM1HOa"
+      },
+      "artists": [
+        {
+          "name": "Orakleminds",
+          "url": "https://open.spotify.com/artist/76yD4nheAs3jgqSgQZDDwC"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199565,
+      "name": "Morning Yoga",
+      "url": "https://open.spotify.com/track/745hKdfWK8QlbkmJVNR2kk"
+    },
+    {
+      "album": {
         "name": "Mountaintop Birdwalk",
         "url": "https://open.spotify.com/album/1KG2rjcesAYUTij1Rp2a0P"
       },
@@ -3504,7 +3576,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 187187,
       "name": "On The Hills Of Hope",
       "url": "https://open.spotify.com/track/7ffB13bUlV3er2DZcBrwoG"
@@ -3612,7 +3684,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 202217,
       "name": "Passing Thunder",
       "url": "https://open.spotify.com/track/6gCGRVnvUQVhldYHRX0ET1"
@@ -3756,7 +3828,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 194000,
       "name": "Portraits (Sound Bath)",
       "url": "https://open.spotify.com/track/0RyfmZbX3IIJcv6QE8lHmH"
@@ -5380,7 +5452,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 163059,
       "name": "Tranquility",
       "url": "https://open.spotify.com/track/5jjwni9fUP9YT9AJsXFv3g"
@@ -5402,6 +5474,24 @@
       "duration_ms": 170147,
       "name": "Treasures (Nature)",
       "url": "https://open.spotify.com/track/6dSo5PzTyaIvftTITkuZWS"
+    },
+    {
+      "album": {
+        "name": "Tree Spirits",
+        "url": "https://open.spotify.com/album/0iceXQlw0yp36EITpApP5z"
+      },
+      "artists": [
+        {
+          "name": "Waves Of Aware",
+          "url": "https://open.spotify.com/artist/2q4nJLQKqcI65BMW9CuORq"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144064,
+      "name": "Tree Spirits",
+      "url": "https://open.spotify.com/track/4r1O9hHMjiStkmn9iXnYDE"
     },
     {
       "album": {
@@ -5470,7 +5560,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 163333,
       "name": "Tsuki",
       "url": "https://open.spotify.com/track/5511siuhanSUczAZ00LBli"
@@ -5564,6 +5654,24 @@
       "duration_ms": 194500,
       "name": "Visioning",
       "url": "https://open.spotify.com/track/0yRHbvtu0x4MbIRKgIlXUl"
+    },
+    {
+      "album": {
+        "name": "Walking The Path",
+        "url": "https://open.spotify.com/album/0ArZ7AkBPUeJYrglsiUlCX"
+      },
+      "artists": [
+        {
+          "name": "Sacred Orb",
+          "url": "https://open.spotify.com/artist/3wo048mZLUY53Pp4KNXIQH"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189132,
+      "name": "Walking The Path",
+      "url": "https://open.spotify.com/track/2h0VLSP2AR1QKe3I3rJJvN"
     },
     {
       "album": {

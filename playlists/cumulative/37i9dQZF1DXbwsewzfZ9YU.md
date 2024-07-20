@@ -2,9 +2,9 @@
 
 ### [the Breakdown](https://open.spotify.com/playlist/37i9dQZF1DXbwsewzfZ9YU)
 
-> the best in hardcore\. open the pit w/ GEL.
+> the best in hardcore\. open the pit w/ Drug Church.
 
-267 songs - 10 hr 47 min
+268 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Delete It](https://open.spotify.com/track/76Xc9akiu0f47F0hWf6nFJ) | [MSPAINT](https://open.spotify.com/artist/5sn6aQFrJvjsSIuaomA4to), [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Post\-American](https://open.spotify.com/album/0O9TQ88Zb6NE6oa6Gkb0S9) | 2:22 | 2023-03-17 |  |
 | [Delusion](https://open.spotify.com/track/3zkJJM6Uz4r6OqCgwgGTmz) | [Doubt](https://open.spotify.com/artist/517PMQHC4Vb1vUmUDWI6KS) | [Held in Contempt](https://open.spotify.com/album/4KY9UoEdNsnFuDhGmKxTcx) | 1:52 | 2024-07-12 |  |
 | [Delusions of Grandeur](https://open.spotify.com/track/1PhnLoIh8emLvQ7mUM1CyJ) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Delusions of Grandeur](https://open.spotify.com/album/0ehJqGshc3gcqVjJeo6hy1) | 2:58 | 2023-02-24 | 2024-01-31 |
+| [Demolition Man](https://open.spotify.com/track/7A2KxqI16tEpJhxZn6Ji1P) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Demolition Man](https://open.spotify.com/album/6rLNcJWYaLLv14WLDzUdf8) | 2:45 | 2024-07-19 |  |
 | [Deneyer Maker](https://open.spotify.com/track/6eOk1TWv4WjZHcCogAhBhw) | [Shawty](https://open.spotify.com/artist/6AWxfMNFsVCCpLnzeNTqCD) | [Los Compadres](https://open.spotify.com/album/1fa3q5XbM1R1ykfHeLkdhB) | 2:20 | 2023-08-11 | 2023-11-11 |
 | [Dice Roll](https://open.spotify.com/track/6UHzc4uQcUGDcQBVZDKZHe) | [PISS ANT](https://open.spotify.com/artist/2mBWeNVspYwiZoN82fNLbA), [lil sleepy](https://open.spotify.com/artist/33pxNrBzoYvOQYcXlCJ1GG) | [Winter Demo](https://open.spotify.com/album/3afYHGG5m3wOnWYN1716x9) | 1:58 | 2024-03-01 |  |
 | [Different Strokes](https://open.spotify.com/track/0BKoH0V5oitnRXXdTJaruF) | [Pulses.](https://open.spotify.com/artist/0tko2stnUOqejIto8rKRh7) | [Different Strokes](https://open.spotify.com/album/1rDtz6r9JVwFBStd2vQpy1) | 2:52 | 2023-04-21 |  |
@@ -149,7 +150,7 @@
 | [MONEY](https://open.spotify.com/track/4gGoa5NtwIdsyZ9jY8coU5) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA) | [Change, Change, Change](https://open.spotify.com/album/6yi6vnoFBME61c12lCWDJR) | 3:19 | 2024-03-22 | 2024-05-06 |
 | [My Anchor](https://open.spotify.com/track/76DOdPpL7iz7YFCiV5SeRv) | [With Honor](https://open.spotify.com/artist/3jHWCx8YiFqlbOmRR6f5Ul) | [My Anchor](https://open.spotify.com/album/4eysI52E7L77BPEtpI9Jxi) | 2:44 | 2023-07-18 | 2023-11-18 |
 | [My Way](https://open.spotify.com/track/1Uw6FE6OvrztdVU7wwY9Oj) | [Trail of Lies](https://open.spotify.com/artist/6CfRUJrNjN17MgF4sfKE0Z), [Scott Vogel](https://open.spotify.com/artist/29hXSjO5wlSWX5Kwrtms9s), [Danny Diablo](https://open.spotify.com/artist/6rpdUczV3fScAaUUrsnKrl) | [My Way](https://open.spotify.com/album/4yTZNu7rNDpwFFdsqm1hm5) | 2:22 | 2024-06-28 |  |
-| [Myopic](https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Myopic](https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i) | 2:58 | 2023-03-10 |  |
+| [Myopic](https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Myopic](https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i) | 2:58 | 2023-03-10 | 2024-07-20 |
 | [Neila Forever](https://open.spotify.com/track/0kDAjR7duweezdNqzEOvhg) | [The Hirs Collective](https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl), [Jeremy Bolm](https://open.spotify.com/artist/5DGjzHqlmOlJl962qJJ9s1), [Jordan Dreyeri](https://open.spotify.com/artist/7kgjZM6kPLX0DkuMq5AKVQ) | [We're Still Here](https://open.spotify.com/album/0byX67r0zvqZAMBiO8o2Yr) | 0:49 | 2023-04-03 | 2023-04-30 |
 | [Neila Forever](https://open.spotify.com/track/0sRMDXzVxrxIIRYjzTWmaG) | [The Hirs Collective](https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl), [Jeremy Bolm](https://open.spotify.com/artist/5DGjzHqlmOlJl962qJJ9s1), [Jordan Dreyeri](https://open.spotify.com/artist/7kgjZM6kPLX0DkuMq5AKVQ) | [We're Still Here](https://open.spotify.com/album/71DPihEMEmNsXe05FVHJN7) | 0:49 | 2023-04-21 | 2023-07-18 |
 | [Never Die](https://open.spotify.com/track/2lMAePNPlYHtznSeEyvK4g) | [Never Ending Game](https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp), [Sam Trapkin](https://open.spotify.com/artist/6We383NrzoPsEvElu6IeK2), [Justice Tripp](https://open.spotify.com/artist/008UbL8nKPVp5qTOVzG6S2) | [Outcry](https://open.spotify.com/album/1IKjEX9ixB5ZmNqBlS31fW) | 2:13 | 2024-01-30 | 2024-04-27 |

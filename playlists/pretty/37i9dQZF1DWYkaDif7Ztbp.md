@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS?si=fhZXiUDrTk6UwWtdirsRZA">Rema</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,607,067 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,607,364 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 10 | [Stubborn \(with Asake\)](https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Stubborn \(with Asake\)](https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b) | 2:56 |
 | 11 | [Turn Off The Lights](https://open.spotify.com/track/2fofdfhRxFVP1bRdjA1FEc) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z) | [Turn Off The Lights](https://open.spotify.com/album/42Ma32s3CwNni8AgRWlliR) | 8:24 |
 | 12 | [Wahala \(feat\. Olamide\)](https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Wahala \(feat\. Olamide\)](https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW) | 2:50 |
-| 13 | [Wahala](https://open.spotify.com/track/0V4ie5PXFiWXEd2XldImGr) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Adekunle Gold](https://open.spotify.com/artist/01w3jMWzWYm2INkQDkr2QW), [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Alusa Why Are You Topless? \(Deluxe\)](https://open.spotify.com/album/6piDT78sQ40k6xC5r9A8st) | 3:27 |
+| 13 | [Wahala](https://open.spotify.com/track/0V4ie5PXFiWXEd2XldImGr) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Alusa Why Are You Topless? \(Deluxe\)](https://open.spotify.com/album/6piDT78sQ40k6xC5r9A8st) | 3:27 |
 | 14 | [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 |
 | 15 | [Wadibusa \(feat\. OHP Sage, Pcee, & Djy Biza\)](https://open.spotify.com/track/5DqA8IUhk1DQSGmf6XOVrI) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS), [OHP Sage](https://open.spotify.com/artist/4IZr8UpEiuTNDf9a5atoco), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [Djy Biza](https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING) | [Wadibusa \(feat\. OHP Sage, Pcee, & Djy Biza\)](https://open.spotify.com/album/1vpRmBwAIRhGbWQ8o7r8UI) | 4:45 |
 | 16 | [OHEMA \(with Crayon & Bella Shmurda\)](https://open.spotify.com/track/7CkDjDtJjCZA7AW7RBvrvC) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [OHEMA \(with Crayon & Bella Shmurda\)](https://open.spotify.com/album/6J9hIO03GDl5zU5BkI1DV6) | 3:25 |

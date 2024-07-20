@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 
 > Soft, smoky undertones of singer\-songwriter sounds give way to lingering notes of rich, earthy chamber folk\. Cover: Glen Hansard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,219 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,224 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 43 | [Holllllogram](https://open.spotify.com/track/5imyK8dza7bwb6TNDFxCmQ) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV), [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [EPHRATA](https://open.spotify.com/album/4xRjqEFRi1CZyrCbmy7Sn1) | 3:38 |
 | 44 | [Hold Me Like A Fire](https://open.spotify.com/track/6Ps0fZMwBZQZdEtRUqAcSe) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [Hold Me Like A Fire](https://open.spotify.com/album/1OfelcDKpEEzyXr204iY9p) | 3:12 |
 | 45 | [It Must Be Someone Else’s Fault](https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Old Flowers](https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI) | 3:18 |
-| 46 | [Feet On The Dashboard](https://open.spotify.com/track/0YbAkvT3mvybfRUpqGv6R5) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj) | [Feet On The Dashboard](https://open.spotify.com/album/28vqhb1JY28NWLWEVyfRxw) | 4:44 |
-| 47 | [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 |
+| 46 | [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 |
+| 47 | [Feet On The Dashboard](https://open.spotify.com/track/0YbAkvT3mvybfRUpqGv6R5) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj) | [Feet On The Dashboard](https://open.spotify.com/album/28vqhb1JY28NWLWEVyfRxw) | 4:44 |
 | 48 | [Neon Skyline](https://open.spotify.com/track/6CJM0s9pqIDTbSQ9KPnRqa) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Neon Skyline](https://open.spotify.com/album/41M6R2mWLgqU9aKFUvZv8S) | 3:38 |
 | 49 | [A Sea of Roses](https://open.spotify.com/track/72w7uKE7CkNwpLFUBHqUkC) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 3:19 |
 | 50 | [Thousand \- Acoustic](https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Thousand \(acoustic\)](https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI) | 3:22 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 54 | [Be Where You Are](https://open.spotify.com/track/0Spm6fjntrn9IXqfR1MHCD) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [One](https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm) | 4:11 |
 | 55 | [Scattershot](https://open.spotify.com/track/450v4iRyLvyOwNInkQVCbP) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Motel Bouquet](https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu) | 3:40 |
 | 56 | [Survivors \- Acoustic](https://open.spotify.com/track/0HE3TnUyHfk9HW09zzbbxc) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Survivors \(Acoustic\)](https://open.spotify.com/album/2qwkydqrFXErPlx9bWWzcW) | 4:29 |
-| 57 | [In The Blue](https://open.spotify.com/track/2qirOEQnjo6fzfqlnvxLiG) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Shape & Destroy](https://open.spotify.com/album/0pILyYJr65rEAWnogtd8Xt) | 2:33 |
-| 58 | [Little Bit Sweet](https://open.spotify.com/track/3xsgF2bDlvb10Dy1VA7rXE) | [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [Little Bit Sweet](https://open.spotify.com/album/6w5n5ZIDw2AvPuNByudKMf) | 3:48 |
-| 59 | [Dynamite](https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Dynamite](https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq) | 3:21 |
+| 57 | [Dynamite](https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Dynamite](https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq) | 3:21 |
+| 58 | [In The Blue](https://open.spotify.com/track/2qirOEQnjo6fzfqlnvxLiG) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Shape & Destroy](https://open.spotify.com/album/0pILyYJr65rEAWnogtd8Xt) | 2:33 |
+| 59 | [Little Bit Sweet](https://open.spotify.com/track/3xsgF2bDlvb10Dy1VA7rXE) | [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [Little Bit Sweet](https://open.spotify.com/album/6w5n5ZIDw2AvPuNByudKMf) | 3:48 |
 | 60 | [Let The Mermaids Flirt With Me](https://open.spotify.com/track/3Y6PWmeriyVFzfrwVFIyOJ) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 4:26 |
 | 61 | [Indigo](https://open.spotify.com/track/3FCt30JpAVLYSVVtEqSjoo) | [Magnolian](https://open.spotify.com/artist/0Uj91EMXf9p6ha6pGl7XIp) | [Indigo](https://open.spotify.com/album/2e4f9Tv2fwL9LCho2NT5AF) | 4:32 |
 | 62 | [Little Lies](https://open.spotify.com/track/0mTJW2yluaM5hcXg86Wf5g) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Little Lies](https://open.spotify.com/album/5GjyIxg103YUxifsdLRCuw) | 3:54 |

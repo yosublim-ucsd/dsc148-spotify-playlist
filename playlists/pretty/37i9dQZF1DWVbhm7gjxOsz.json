@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 81568,
+  "num_followers": 81666,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "The Fabulous Miracles",
-        "url": "https://open.spotify.com/album/6WXuBDGbgFKz4rYLVC9a0W"
-      },
-      "artists": [
-        {
-          "name": "The Miracles",
-          "url": "https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND"
-        }
-      ],
-      "duration_ms": 177706,
-      "name": "You've Really Got A Hold On Me",
-      "url": "https://open.spotify.com/track/7wLRmjiDYI6flIVzboUqSV"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "You'll Lose A Good Thing",
         "url": "https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 159866,
       "name": "You'll Lose A Good Thing",
       "url": "https://open.spotify.com/track/5CEREcGR5WaLt40YzTQ62e"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "The Fabulous Miracles",
+        "url": "https://open.spotify.com/album/6WXuBDGbgFKz4rYLVC9a0W"
+      },
+      "artists": [
+        {
+          "name": "The Miracles",
+          "url": "https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND"
+        }
+      ],
+      "duration_ms": 177706,
+      "name": "You've Really Got A Hold On Me",
+      "url": "https://open.spotify.com/track/7wLRmjiDYI6flIVzboUqSV"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Car Wash",
-        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
-      },
-      "artists": [
-        {
-          "name": "Rose Royce",
-          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "I Wanna Get Next To You",
-      "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
         "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 255173,
       "name": "Float On - Single Version",
       "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Car Wash",
+        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
+      },
+      "artists": [
+        {
+          "name": "Rose Royce",
+          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "I Wanna Get Next To You",
+      "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "The Best Of The Temprees",
-        "url": "https://open.spotify.com/album/2TZV6MtoBCNoZnOhcEG1FG"
-      },
-      "artists": [
-        {
-          "name": "The Temprees",
-          "url": "https://open.spotify.com/artist/3RTmjg2aicwP3HFZP760BU"
-        }
-      ],
-      "duration_ms": 261826,
-      "name": "Love...Can Be So Wonderful",
-      "url": "https://open.spotify.com/track/2lRD5UGnUCaon5g5cHbkCC"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "The Very Best Of Aaron Neville",
         "url": "https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 164560,
       "name": "Tell It Like It Is",
       "url": "https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "The Best Of The Temprees",
+        "url": "https://open.spotify.com/album/2TZV6MtoBCNoZnOhcEG1FG"
+      },
+      "artists": [
+        {
+          "name": "The Temprees",
+          "url": "https://open.spotify.com/artist/3RTmjg2aicwP3HFZP760BU"
+        }
+      ],
+      "duration_ms": 261826,
+      "name": "Love...Can Be So Wonderful",
+      "url": "https://open.spotify.com/track/2lRD5UGnUCaon5g5cHbkCC"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "The Skyliners",
-        "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
-      },
-      "artists": [
-        {
-          "name": "The Skyliners",
-          "url": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
-        }
-      ],
-      "duration_ms": 158840,
-      "name": "Since I Don't Have You (Alternative Take)",
-      "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "All the Greatest Hits",
         "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 249866,
       "name": "I Want to Be Your Man",
       "url": "https://open.spotify.com/track/3C6xVHlZ8Z7cAzt63xdxH3"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "The Skyliners",
+        "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
+      },
+      "artists": [
+        {
+          "name": "The Skyliners",
+          "url": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
+        }
+      ],
+      "duration_ms": 158840,
+      "name": "Since I Don't Have You (Alternative Take)",
+      "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -839,18 +839,18 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Frost Presents...Raza Radio",
-        "url": "https://open.spotify.com/album/5OcYPEWf4e0R673hpjY3Mj"
+        "name": "I Do Love You",
+        "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
       },
       "artists": [
         {
-          "name": "Lighter Shade Of Brown",
-          "url": "https://open.spotify.com/artist/7AyywyUcQP99oit737gZK2"
+          "name": "Billy Stewart",
+          "url": "https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J"
         }
       ],
-      "duration_ms": 212880,
-      "name": "On A Sunday Afternoon",
-      "url": "https://open.spotify.com/track/1cM25iyn6zKOfnywTNtvyb"
+      "duration_ms": 177946,
+      "name": "I Do Love You",
+      "url": "https://open.spotify.com/track/3J0VYipa6lrdBkjLM7j4iI"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -871,18 +871,18 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "I Do Love You",
-        "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
+        "name": "Frost Presents...Raza Radio",
+        "url": "https://open.spotify.com/album/5OcYPEWf4e0R673hpjY3Mj"
       },
       "artists": [
         {
-          "name": "Billy Stewart",
-          "url": "https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J"
+          "name": "Lighter Shade Of Brown",
+          "url": "https://open.spotify.com/artist/7AyywyUcQP99oit737gZK2"
         }
       ],
-      "duration_ms": 177946,
-      "name": "I Do Love You",
-      "url": "https://open.spotify.com/track/3J0VYipa6lrdBkjLM7j4iI"
+      "duration_ms": 212880,
+      "name": "On A Sunday Afternoon",
+      "url": "https://open.spotify.com/track/1cM25iyn6zKOfnywTNtvyb"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Never Let Go, Vol. 1",
-        "url": "https://open.spotify.com/album/4GgGewXgAejjm2FWeRppqU"
-      },
-      "artists": [
-        {
-          "name": "Vicky Tafoya and the Big Beat",
-          "url": "https://open.spotify.com/artist/6FMPLQPJx2sk8BPPVnv92v"
-        }
-      ],
-      "duration_ms": 244053,
-      "name": "Boy With the Angel Eyes",
-      "url": "https://open.spotify.com/track/5CIJEkPX1TiF1jazhDXxbY"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "In The Still Of The Nite",
         "url": "https://open.spotify.com/album/1isEKzUnMZ6UdXKYNznV4e"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 184213,
       "name": "In The Still Of The Nite",
       "url": "https://open.spotify.com/track/5QEJbqvNNkFWzyF1l8d2Ci"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Never Let Go, Vol. 1",
+        "url": "https://open.spotify.com/album/4GgGewXgAejjm2FWeRppqU"
+      },
+      "artists": [
+        {
+          "name": "Vicky Tafoya and the Big Beat",
+          "url": "https://open.spotify.com/artist/6FMPLQPJx2sk8BPPVnv92v"
+        }
+      ],
+      "duration_ms": 244053,
+      "name": "Boy With the Angel Eyes",
+      "url": "https://open.spotify.com/track/5CIJEkPX1TiF1jazhDXxbY"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -2187,6 +2187,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "SalSoul",
+        "url": "https://open.spotify.com/album/6ehe5lPsXzxcNU69NSCi0W"
+      },
+      "artists": [
+        {
+          "name": "Joe Bataan",
+          "url": "https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU"
+        }
+      ],
+      "duration_ms": 270826,
+      "name": "Mujer Mia",
+      "url": "https://open.spotify.com/track/6uiqzXiQCvAvoeDcjbRbRC"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "You in Love Again?",
         "url": "https://open.spotify.com/album/1dAwMHdr3KoPDh2MeY1s0r"
       },
@@ -2215,22 +2231,6 @@
       "duration_ms": 209200,
       "name": "Nobody's Clown",
       "url": "https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "SalSoul",
-        "url": "https://open.spotify.com/album/6ehe5lPsXzxcNU69NSCi0W"
-      },
-      "artists": [
-        {
-          "name": "Joe Bataan",
-          "url": "https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU"
-        }
-      ],
-      "duration_ms": 270826,
-      "name": "Mujer Mia",
-      "url": "https://open.spotify.com/track/6uiqzXiQCvAvoeDcjbRbRC"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -2283,6 +2283,22 @@
       "duration_ms": 225796,
       "name": "Ilusi\u00f3n De Amor",
       "url": "https://open.spotify.com/track/2hG1LVQt6YLxtlcWiujpcq"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "The Very Best of the Stylistics ... And More!",
+        "url": "https://open.spotify.com/album/3xhdEzIX6oUQu2O0EiwWuk"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 175240,
+      "name": "You Are Everything",
+      "url": "https://open.spotify.com/track/1yeLuQ4Jn6WV4UagSxJCPA"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -2363,22 +2379,6 @@
       "duration_ms": 233373,
       "name": "Just My Imagination (Running Away With Me)",
       "url": "https://open.spotify.com/track/3gbwcu7E9ACpJsLm7vEpuN"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "The Very Best of the Stylistics ... And More!",
-        "url": "https://open.spotify.com/album/3xhdEzIX6oUQu2O0EiwWuk"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "You Are Everything",
-      "url": "https://open.spotify.com/track/1yeLuQ4Jn6WV4UagSxJCPA"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -2495,18 +2495,18 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Dead Presidents Vol. 1/Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/09yaGU6AaYLHAONWqhWmMk"
+        "name": "The Best Of The Stylistics",
+        "url": "https://open.spotify.com/album/1rt8wY3v7jjrB9eLBlLCq0"
       },
       "artists": [
         {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
         }
       ],
-      "duration_ms": 190640,
-      "name": "I'll Be Around",
-      "url": "https://open.spotify.com/track/2fzv6NSM477kN87qmiz07m"
+      "duration_ms": 198400,
+      "name": "Betcha By Golly, Wow",
+      "url": "https://open.spotify.com/track/7KvkB61JnNKsCUDOMrqVcJ"
     }
   ],
   "unique_name": "Lowrider Crusin'",

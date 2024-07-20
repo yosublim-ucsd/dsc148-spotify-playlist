@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADVYixVv5Q33spyg+HPdwmN",
+  "snapshot_id": "AAAAAAAAAABbdt69oUF/Ms/rFHIetCUW",
   "tracks": [
     {
       "added_at": "2024-07-19 04:00:00",
@@ -47,6 +47,26 @@
       "duration_ms": 130586,
       "name": "Candy Paint (feat. Thundercat)",
       "url": "https://open.spotify.com/track/1EbWDu4Bi6Xd7l7oSgErC3"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Life's A Gamble",
+        "url": "https://open.spotify.com/album/6wScYhNN09rl5Sc4XfL9ru"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 136404,
+      "name": "Plain Jane",
+      "url": "https://open.spotify.com/track/1zfJDw2SQQxAomLWtBgdOO"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -135,58 +155,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "I'll Always Come Find You",
-        "url": "https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        }
-      ],
-      "duration_ms": 178362,
-      "name": "Ten Summers Or Better",
-      "url": "https://open.spotify.com/track/2hVQloocwFpCC5SSstLVJQ"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "GARDEN",
-        "url": "https://open.spotify.com/album/3M0yFfkVWQnAmjMpe2TGlH"
-      },
-      "artists": [
-        {
-          "name": "Rayana Jay",
-          "url": "https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S"
-        }
-      ],
-      "duration_ms": 186272,
-      "name": "GARDEN",
-      "url": "https://open.spotify.com/track/6YpiUebCTyUcLmV4X8W7Vq"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "A Bar Song (Tipsy)",
-        "url": "https://open.spotify.com/album/3NOo89RhpGQUHGWEhvE8jc"
-      },
-      "artists": [
-        {
-          "name": "Black Alley",
-          "url": "https://open.spotify.com/artist/4O7xE3mpAOnolHQovF4C2R"
-        }
-      ],
-      "duration_ms": 204545,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/221anSbYZzWbghtK9h3usE"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Swarm Tactics",
         "url": "https://open.spotify.com/album/6ZYhBhEKQjDyWDXB1wvOfM"
       },
@@ -207,6 +175,58 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "GARDEN",
+        "url": "https://open.spotify.com/album/3M0yFfkVWQnAmjMpe2TGlH"
+      },
+      "artists": [
+        {
+          "name": "Rayana Jay",
+          "url": "https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S"
+        }
+      ],
+      "duration_ms": 186272,
+      "name": "GARDEN",
+      "url": "https://open.spotify.com/track/6YpiUebCTyUcLmV4X8W7Vq"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "I'll Always Come Find You",
+        "url": "https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "duration_ms": 178362,
+      "name": "Ten Summers Or Better",
+      "url": "https://open.spotify.com/track/2hVQloocwFpCC5SSstLVJQ"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/3NOo89RhpGQUHGWEhvE8jc"
+      },
+      "artists": [
+        {
+          "name": "Black Alley",
+          "url": "https://open.spotify.com/artist/4O7xE3mpAOnolHQovF4C2R"
+        }
+      ],
+      "duration_ms": 204545,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/221anSbYZzWbghtK9h3usE"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Ivresse des profondeurs",
         "url": "https://open.spotify.com/album/02fsOKarSDUsPaNNOhDE6c"
       },
@@ -219,26 +239,6 @@
       "duration_ms": 382226,
       "name": "Toujours rien \u00e0 remplacer",
       "url": "https://open.spotify.com/track/57McKRNvUC7b25hpohCXm8"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "No Apologies",
-        "url": "https://open.spotify.com/album/3I8hgQCTMySiCXmDP65xhL"
-      },
-      "artists": [
-        {
-          "name": "Consequence",
-          "url": "https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 157936,
-      "name": "No Apologies",
-      "url": "https://open.spotify.com/track/1nHzbEDVrohk7fbVsEyfkF"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -327,8 +327,8 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "No Popcorn",
-        "url": "https://open.spotify.com/album/6a8eIzIFicfTykqWuVmu4o"
+        "name": "COSM",
+        "url": "https://open.spotify.com/album/53GnrSyRkPcoG4Irsno3sp"
       },
       "artists": [
         {
@@ -346,35 +346,7 @@
       ],
       "duration_ms": 195867,
       "name": "No Popcorn",
-      "url": "https://open.spotify.com/track/3vKnH2bGh2SuwGvZqQgeQq"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "COSM",
-        "url": "https://open.spotify.com/album/6Q68z70nmFkvRoh3iT8Q73"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne Collabos",
-          "url": "https://open.spotify.com/artist/4UOlRVifrFdQHW9qu5ep8t"
-        },
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "Hopsin",
-          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
-        }
-      ],
-      "duration_ms": 243691,
-      "name": "Disgusted",
-      "url": "https://open.spotify.com/track/6CXCxwszKFb5vzy2PVb8OB"
+      "url": "https://open.spotify.com/track/0Tj263pPIIwkH6oShMu6W0"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -403,22 +375,30 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Rap ist anders",
-        "url": "https://open.spotify.com/album/2TxAMrFzTRUAUqbQdRC07D"
+        "name": "COSM",
+        "url": "https://open.spotify.com/album/53GnrSyRkPcoG4Irsno3sp"
       },
       "artists": [
         {
-          "name": "Flex Barker",
-          "url": "https://open.spotify.com/artist/0soJGBGxYdD3dFuwSQGbXP"
+          "name": "Tech N9ne Collabos",
+          "url": "https://open.spotify.com/artist/4UOlRVifrFdQHW9qu5ep8t"
         },
         {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Hopsin",
+          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
         }
       ],
-      "duration_ms": 221016,
-      "name": "Kopf verlieren",
-      "url": "https://open.spotify.com/track/5WSkTBimV3EJqWwL6Mcto7"
+      "duration_ms": 243691,
+      "name": "Disgusted",
+      "url": "https://open.spotify.com/track/4uaaWQL4XikhR7IXyLEXmB"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -463,22 +443,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Key103",
-        "url": "https://open.spotify.com/album/449cSwxW2mczsRKAV8BetQ"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 236764,
-      "name": "Key103 [a56 edit]",
-      "url": "https://open.spotify.com/track/56fuQi8Bld3J8Jwkw8Hc08"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Too Shy to Say (Cover)",
         "url": "https://open.spotify.com/album/0wruphfbmn62MPOK8jjljf"
       },
@@ -491,6 +455,22 @@
       "duration_ms": 146109,
       "name": "Too Shy to Say - Cover",
       "url": "https://open.spotify.com/track/73V9aIv4o4f5Zq8x3EOA5H"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Key103",
+        "url": "https://open.spotify.com/album/449cSwxW2mczsRKAV8BetQ"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 236764,
+      "name": "Key103 [a56 edit]",
+      "url": "https://open.spotify.com/track/56fuQi8Bld3J8Jwkw8Hc08"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -567,6 +547,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Stars Out",
+        "url": "https://open.spotify.com/album/1uo4iofp5IAGr2GKVhvc2H"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 107462,
+      "name": "Stars Out",
+      "url": "https://open.spotify.com/track/1mTHqHDmUHhAKmO9mRur4z"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Pretty Low",
         "url": "https://open.spotify.com/album/4wehh0Iq3Z3CBvll9mRHuc"
       },
@@ -611,6 +607,26 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Killin' Time",
+        "url": "https://open.spotify.com/album/5YGwvrD8FI9KmSVIK2zzzX"
+      },
+      "artists": [
+        {
+          "name": "Clint Black",
+          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
+        },
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 204232,
+      "name": "Killin' Time",
+      "url": "https://open.spotify.com/track/1HtwsvHDgGqhY00SeJxNAx"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Things Are Changin",
         "url": "https://open.spotify.com/album/4DAFQZ5QRQsSrLCBfqHwMp"
       },
@@ -635,22 +651,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Killin' Time",
-        "url": "https://open.spotify.com/album/5YGwvrD8FI9KmSVIK2zzzX"
+        "name": "Revenge of The Rebel",
+        "url": "https://open.spotify.com/album/3owsYhX4GBy75G2UhX40Y9"
       },
       "artists": [
         {
-          "name": "Clint Black",
-          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
+          "name": "DJ Flipcyide",
+          "url": "https://open.spotify.com/artist/2ZEoVkriVtu0SdMhMSqVie"
         },
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
         }
       ],
-      "duration_ms": 204232,
-      "name": "Killin' Time",
-      "url": "https://open.spotify.com/track/1HtwsvHDgGqhY00SeJxNAx"
+      "duration_ms": 175075,
+      "name": "Revenge of The Rebel",
+      "url": "https://open.spotify.com/track/2p3sfd8dg3syNidioQFaZV"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

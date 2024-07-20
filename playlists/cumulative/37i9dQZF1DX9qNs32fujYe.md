@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Kittie
 
-924 songs - 2 day 19 hr 59 min
+925 songs - 2 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [A New Heartbeat](https://open.spotify.com/track/3sstQegc7AaQqP20x2TrL0) | [Tygers Of Pan Tang](https://open.spotify.com/artist/1MZ8NERIuOS610KBhr6yna) | [A New Heartbeat](https://open.spotify.com/album/4JTsXydqlKIYCTJ2HOjG0u) | 4:12 | 2022-04-08 | 2022-07-19 |
 | [A New Land](https://open.spotify.com/track/4K21taEZsYaCLsWosMcqeq) | [Rage](https://open.spotify.com/artist/5TJVsWPUaJxBxWfVZQEt2x) | [Resurrection Day](https://open.spotify.com/album/4c91poPTEELsFj0yUPhoWl) | 3:50 | 2021-12-17 | 2022-07-28 |
 | [A Perfect Apocalypse](https://open.spotify.com/track/7bYey6XdAn8I5fTXWPrXOz) | [Reece](https://open.spotify.com/artist/3y2xjLsVCS4M4pMoYY3dM5) | [A Perfect Apocalypse](https://open.spotify.com/album/380JHizLF357lyRGRCGP8c) | 4:07 | 2022-01-14 | 2022-04-17 |
-| [A Perfect Day to Die](https://open.spotify.com/track/74pjm7MZkov3oHfPQLZKoR) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [A Perfect Day to Die](https://open.spotify.com/album/3RotQYTtPdeQ5BLW9YlSCD) | 3:50 | 2021-12-17 |  |
+| [A Perfect Day to Die](https://open.spotify.com/track/74pjm7MZkov3oHfPQLZKoR) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [A Perfect Day to Die](https://open.spotify.com/album/3RotQYTtPdeQ5BLW9YlSCD) | 3:50 | 2021-12-17 | 2024-07-20 |
 | [A Statue of the King](https://open.spotify.com/track/6onJXFCCG302XlD7j0puR8) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Avatar Country](https://open.spotify.com/album/4n3K2YQ2TYUppYdXN2xDFY) | 3:44 | 2022-03-22 | 2022-04-20 |
 | [A Thousand Shades \(feat\. Jeff Beck\)](https://open.spotify.com/track/35OjKODzqSMrllo8vFFJZz) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 4:26 | 2023-03-10 | 2023-07-17 |
 | [A.F\. Day](https://open.spotify.com/track/3NG2doklvUiqTZMfyQxPWA) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [A.F\. Day](https://open.spotify.com/album/6U8F7vt0Ybgc27AVUD8KpO) | 3:47 | 2024-05-17 |  |
@@ -258,6 +258,7 @@
 | [Escape the Silence](https://open.spotify.com/track/7zcTurWu11xVY7MGfjPvaH) | [Brainstorm](https://open.spotify.com/artist/6IlOclSCHgJ9Aix6QEktkO), [Peavy Wagner](https://open.spotify.com/artist/4TUo5Xawcuzz69DKWl91v8) | [Escape the Silence](https://open.spotify.com/album/1iu2v0huz5qp6NVq8qdtza) | 4:23 | 2021-12-17 | 2022-07-26 |
 | [Eternal](https://open.spotify.com/track/3ArY0OnRj46Qb7UIpjrKKy) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Eternal](https://open.spotify.com/album/3SryVsff2UEt9JfalPnhXJ) | 5:59 | 2022-03-22 | 2022-04-18 |
 | [Eternal Rains](https://open.spotify.com/track/6dsKcPKE6PLr6PBRxeNPfi) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD) | [Chapter III \- Downfall](https://open.spotify.com/album/1yd879vcVkRxjGlxWtG9st) | 3:54 | 2024-04-05 |  |
+| [Evenfall](https://open.spotify.com/track/15RGQRE1XBzWL6RLncD5Lw) | [Wolfheart](https://open.spotify.com/artist/11EAP8MX0cfrW9lzkK424H) | [Evenfall](https://open.spotify.com/album/6vnH6OAOT6uLuGMTODFoKN) | 4:03 | 2024-07-12 |  |
 | [Event Horizon](https://open.spotify.com/track/7zAy7zxQ3089UVtT8iopo1) | [New Horizon](https://open.spotify.com/artist/2Tx9qvXQEMGM4wIRald5uk) | [Event Horizon](https://open.spotify.com/album/4tcpxAECnvzKmINKJ44UYY) | 4:13 | 2022-02-11 | 2022-07-26 |
 | [Everything](https://open.spotify.com/track/6wDa7DH5iDhXDyStu628mQ) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Everything](https://open.spotify.com/album/62kBa2uLYvfnC0itlJtgo7) | 4:18 | 2023-05-19 |  |
 | [Expect Total Hell](https://open.spotify.com/track/07szbH4lUAPjGxVKeuTUTw) | [Midnight](https://open.spotify.com/artist/28KjD5HkkDDytQzKW7JzTp) | [Hellish Expectations](https://open.spotify.com/album/32YW1L7tVKLLQxYyRPg6ck) | 3:28 | 2024-04-05 | 2024-05-13 |

@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it. Cover: L\u00d8L\u00d8",
-  "num_followers": 141340,
+  "num_followers": 141354,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "beat up car",
-        "url": "https://open.spotify.com/album/4SOi9qG5Lv1vDedaGGQlwu"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 214555,
-      "name": "beat up car",
-      "url": "https://open.spotify.com/track/7FBsCEfKsrj5hbcn5PZDyP"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Parasite",
         "url": "https://open.spotify.com/album/0qekqVMt0XLAPHrPf5FbfN"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 207280,
       "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
       "url": "https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "beat up car",
+        "url": "https://open.spotify.com/album/4SOi9qG5Lv1vDedaGGQlwu"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 214555,
+      "name": "beat up car",
+      "url": "https://open.spotify.com/track/7FBsCEfKsrj5hbcn5PZDyP"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -691,18 +691,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Want Me",
-        "url": "https://open.spotify.com/album/26fVz5K8XbNM0fNcQnaO3s"
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq"
       },
       "artists": [
         {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
         }
       ],
-      "duration_ms": 163391,
-      "name": "Want Me",
-      "url": "https://open.spotify.com/track/5Czd9hqOj4uvwpieRmVlTw"
+      "duration_ms": 182746,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -723,18 +723,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Stuck",
-        "url": "https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq"
+        "name": "Want Me",
+        "url": "https://open.spotify.com/album/26fVz5K8XbNM0fNcQnaO3s"
       },
       "artists": [
         {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
         }
       ],
-      "duration_ms": 182746,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S"
+      "duration_ms": 163391,
+      "name": "Want Me",
+      "url": "https://open.spotify.com/track/5Czd9hqOj4uvwpieRmVlTw"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "ONE MORE TIME...",
-        "url": "https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 138460,
-      "name": "FELL IN LOVE",
-      "url": "https://open.spotify.com/track/3wIaPhVmXG6lcIPfm7D0fm"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "I'm In Love With You",
         "url": "https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 262623,
       "name": "I'm In Love With You",
       "url": "https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "ONE MORE TIME...",
+        "url": "https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 138460,
+      "name": "FELL IN LOVE",
+      "url": "https://open.spotify.com/track/3wIaPhVmXG6lcIPfm7D0fm"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1055,22 +1055,6 @@
       "duration_ms": 172466,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "SOULSUCKER",
-        "url": "https://open.spotify.com/album/1QZvD8MebgMpV8lj5bFBx8"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 146620,
-      "name": "SOULSUCKER",
-      "url": "https://open.spotify.com/track/2zls6poyQkulXSvJE8fAXd"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1103,6 +1087,22 @@
       "duration_ms": 163027,
       "name": "29",
       "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "SOULSUCKER",
+        "url": "https://open.spotify.com/album/1QZvD8MebgMpV8lj5bFBx8"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 146620,
+      "name": "SOULSUCKER",
+      "url": "https://open.spotify.com/track/2zls6poyQkulXSvJE8fAXd"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "DIRT",
-        "url": "https://open.spotify.com/album/5cRSLaVtgLt9U3leSOTcXD"
-      },
-      "artists": [
-        {
-          "name": "Zoe Ko",
-          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "DIRT",
-      "url": "https://open.spotify.com/track/4yecHdRmT62mztymihKxYK"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 217125,
       "name": "Over",
       "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "DIRT",
+        "url": "https://open.spotify.com/album/5cRSLaVtgLt9U3leSOTcXD"
+      },
+      "artists": [
+        {
+          "name": "Zoe Ko",
+          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "DIRT",
+      "url": "https://open.spotify.com/track/4yecHdRmT62mztymihKxYK"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Dead To Me",
-        "url": "https://open.spotify.com/album/1mwyZwRToR8k5V7ADCT31H"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 157504,
-      "name": "Dead To Me",
-      "url": "https://open.spotify.com/track/1cEml7iH5h7cqd8Dn4HzdF"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Sleepwalking",
         "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 184281,
       "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Dead To Me",
+        "url": "https://open.spotify.com/album/1mwyZwRToR8k5V7ADCT31H"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 157504,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/1cEml7iH5h7cqd8Dn4HzdF"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "lightweight",
-        "url": "https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO"
-      },
-      "artists": [
-        {
-          "name": "DE'WAYNE",
-          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "lightweight",
-      "url": "https://open.spotify.com/track/0hbOKM2gJExRioO5S6CtuZ"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "lonely bitch",
         "url": "https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 190137,
       "name": "Shelter (feat. Avril Lavigne)",
       "url": "https://open.spotify.com/track/62pC4mgtn2CwTxEHVbCCvn"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "lightweight",
+        "url": "https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO"
+      },
+      "artists": [
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "lightweight",
+      "url": "https://open.spotify.com/track/0hbOKM2gJExRioO5S6CtuZ"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "XXL",
-        "url": "https://open.spotify.com/album/4K0wKLFE0LxcQAmcmVvd0X"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 206706,
-      "name": "XXL",
-      "url": "https://open.spotify.com/track/7AftUxnj6ngHrWiT29xwKK"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Bittersweet 16",
         "url": "https://open.spotify.com/album/5NrdpIaUiVzSp9dfPxMPO5"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 152053,
       "name": "Ugly Crier",
       "url": "https://open.spotify.com/track/0AOa1XIQ4vYjAv5uflTrMN"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "XXL",
+        "url": "https://open.spotify.com/album/4K0wKLFE0LxcQAmcmVvd0X"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 206706,
+      "name": "XXL",
+      "url": "https://open.spotify.com/track/7AftUxnj6ngHrWiT29xwKK"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Basement",
-        "url": "https://open.spotify.com/album/0hWOLHDlMwS0hDhf1ITHVz"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 204147,
-      "name": "Basement",
-      "url": "https://open.spotify.com/track/2acM5LqZRO1Tsv2PFKOXKy"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Day Job",
         "url": "https://open.spotify.com/album/5p91Tw8x7pD9Y46xweBqPi"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 158423,
       "name": "Day Job",
       "url": "https://open.spotify.com/track/0gQaeonQS76sGjcM7FXojN"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Basement",
+        "url": "https://open.spotify.com/album/0hWOLHDlMwS0hDhf1ITHVz"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 204147,
+      "name": "Basement",
+      "url": "https://open.spotify.com/track/2acM5LqZRO1Tsv2PFKOXKy"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -2055,18 +2055,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "I Think I'm in Love",
-        "url": "https://open.spotify.com/album/2NFt8Yxk6p3U9dV3SXBBus"
+        "name": "Paperweight",
+        "url": "https://open.spotify.com/album/7iF0XrBnBkv0fUaTbeLDLe"
       },
       "artists": [
         {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+          "name": "Smallpools",
+          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
         }
       ],
-      "duration_ms": 179000,
-      "name": "I Think I'm in Love",
-      "url": "https://open.spotify.com/track/1sNqqWaIURY27KYmVZxkW7"
+      "duration_ms": 159891,
+      "name": "Paperweight",
+      "url": "https://open.spotify.com/track/6rL8VTEBaWTWBK9eGeXoz8"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Paperweight",
-        "url": "https://open.spotify.com/album/7iF0XrBnBkv0fUaTbeLDLe"
-      },
-      "artists": [
-        {
-          "name": "Smallpools",
-          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
-        }
-      ],
-      "duration_ms": 159891,
-      "name": "Paperweight",
-      "url": "https://open.spotify.com/track/6rL8VTEBaWTWBK9eGeXoz8"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Never Be Yours",
         "url": "https://open.spotify.com/album/5kurSw80ftphOZwKYswRGZ"
       },
@@ -2119,22 +2103,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Mugshot",
-        "url": "https://open.spotify.com/album/07OGKUkBZyMEUmscehkHt6"
-      },
-      "artists": [
-        {
-          "name": "Huddy",
-          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
-        }
-      ],
-      "duration_ms": 189101,
-      "name": "Mugshot",
-      "url": "https://open.spotify.com/track/1t78Ss9O44dp6VQHGe0PKu"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "GO GO GO",
         "url": "https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S"
       },
@@ -2147,6 +2115,38 @@
       "duration_ms": 145893,
       "name": "GO GO GO",
       "url": "https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "I Think I'm in Love",
+        "url": "https://open.spotify.com/album/2NFt8Yxk6p3U9dV3SXBBus"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "I Think I'm in Love",
+      "url": "https://open.spotify.com/track/1sNqqWaIURY27KYmVZxkW7"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Mugshot",
+        "url": "https://open.spotify.com/album/07OGKUkBZyMEUmscehkHt6"
+      },
+      "artists": [
+        {
+          "name": "Huddy",
+          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
+        }
+      ],
+      "duration_ms": 189101,
+      "name": "Mugshot",
+      "url": "https://open.spotify.com/track/1t78Ss9O44dp6VQHGe0PKu"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -2247,38 +2247,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "faceplant",
-        "url": "https://open.spotify.com/album/6bat5qSI2gzHzDOxE6fKup"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 161206,
-      "name": "faceplant",
-      "url": "https://open.spotify.com/track/1iJerx3GyIFeoQswhthnc0"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Love Bites",
-        "url": "https://open.spotify.com/album/3tKC0vwrBcx2GSzxWzGG15"
-      },
-      "artists": [
-        {
-          "name": "Huddy",
-          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
-        }
-      ],
-      "duration_ms": 208450,
-      "name": "Love Bites",
-      "url": "https://open.spotify.com/track/3viXIhTdaNjxxvaMKdcsNw"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "THE OUTSIDE (OUTSIDERS VERSION)",
         "url": "https://open.spotify.com/album/14kvTa7vi9xBLZqg6lc1Km"
       },
@@ -2311,6 +2279,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "faceplant",
+        "url": "https://open.spotify.com/album/6bat5qSI2gzHzDOxE6fKup"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 161206,
+      "name": "faceplant",
+      "url": "https://open.spotify.com/track/1iJerx3GyIFeoQswhthnc0"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "BLAME IT ON ME",
         "url": "https://open.spotify.com/album/5w2zXflgG8ZZtJLqT7Gvsl"
       },
@@ -2327,22 +2311,34 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "fmk (with blackbear)",
-        "url": "https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO"
+        "name": "Love Bites",
+        "url": "https://open.spotify.com/album/3tKC0vwrBcx2GSzxWzGG15"
+      },
+      "artists": [
+        {
+          "name": "Huddy",
+          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
+        }
+      ],
+      "duration_ms": 208450,
+      "name": "Love Bites",
+      "url": "https://open.spotify.com/track/3viXIhTdaNjxxvaMKdcsNw"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "everybody hates me",
+        "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
       },
       "artists": [
         {
           "name": "GAYLE",
           "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        },
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
         }
       ],
-      "duration_ms": 189075,
-      "name": "fmk (with blackbear)",
-      "url": "https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB"
+      "duration_ms": 120287,
+      "name": "everybody hates me",
+      "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -2415,18 +2411,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Bloodstream",
-        "url": "https://open.spotify.com/album/2Jim0UzhiiJtFjL7Ol35XH"
+        "name": "hurt like it should",
+        "url": "https://open.spotify.com/album/2z9tnFVrBzgvj1NR98ccBY"
       },
       "artists": [
         {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+          "name": "renforshort",
+          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Bloodstream",
-      "url": "https://open.spotify.com/track/5kGJZNkZwVANWe47AdzSZV"
+      "duration_ms": 203467,
+      "name": "hurt like it should",
+      "url": "https://open.spotify.com/track/1GeQUUhVdGjPZTSONOhkmr"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -2447,34 +2443,38 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "everybody hates me",
-        "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
+        "name": "fmk (with blackbear)",
+        "url": "https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO"
       },
       "artists": [
         {
           "name": "GAYLE",
           "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
         }
       ],
-      "duration_ms": 120287,
-      "name": "everybody hates me",
-      "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
+      "duration_ms": 189075,
+      "name": "fmk (with blackbear)",
+      "url": "https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB"
     },
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "hurt like it should",
-        "url": "https://open.spotify.com/album/2z9tnFVrBzgvj1NR98ccBY"
+        "name": "Bloodstream",
+        "url": "https://open.spotify.com/album/2Jim0UzhiiJtFjL7Ol35XH"
       },
       "artists": [
         {
-          "name": "renforshort",
-          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 203467,
-      "name": "hurt like it should",
-      "url": "https://open.spotify.com/track/1GeQUUhVdGjPZTSONOhkmr"
+      "duration_ms": 211000,
+      "name": "Bloodstream",
+      "url": "https://open.spotify.com/track/5kGJZNkZwVANWe47AdzSZV"
     },
     {
       "added_at": "2024-06-21 04:00:00",

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-710 songs - 1 day 22 hr 39 min
+711 songs - 1 day 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Horn Intro](https://open.spotify.com/track/5nKe9PgCtEhqdnvXAQIBhF) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Good News For People Who Love Bad News](https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0) | 0:09 | 2022-09-20 |  |
 | [Hot Rotten Grass Smell](https://open.spotify.com/track/16weYq1yI3d7pyjkRLYlrY) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 1:35 | 2023-04-19 | 2024-01-02 |
 | [Hot Tent Blues](https://open.spotify.com/track/71Vlx8pCp21bmgNx9PZsx5) | [Late of the Pier](https://open.spotify.com/artist/5ZBQea34QfBgEDkcGEKK2b) | [Fantasy Black Channel](https://open.spotify.com/album/08MTKoAy7sggTqeQNcvDdi) | 1:15 | 2024-06-08 | 2024-06-12 |
+| [Howling At The Moon](https://open.spotify.com/track/4dXNZHMLQSg1slX92JGjA1) | [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2) | [Love Gun 2](https://open.spotify.com/album/2jHaYTt9piEHSwhqA3ZJlB) | 4:36 | 2024-07-19 |  |
 | [Huh? \(Intro\)](https://open.spotify.com/track/2KlgoBhIRYyGt0BbOeyjlN) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Sweet Heart Sweet Light](https://open.spotify.com/album/4hrpqNai22Fpg51cmHmUCm) | 1:01 | 2024-03-11 |  |
 | [Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:37 | 2024-01-01 |  |
 | [Hyacinth](https://open.spotify.com/track/2EirKrb1mZS0Wmk7Wt3dHV) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [DEACON](https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV) | 3:19 | 2024-01-18 |  |

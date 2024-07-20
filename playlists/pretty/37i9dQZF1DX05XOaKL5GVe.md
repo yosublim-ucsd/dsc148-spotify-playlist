@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 
 > Tesoros musicales del ayer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 851,527 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 851,784 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,15 +62,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 | 52 | [Despues De Tanto](https://open.spotify.com/track/3nWYPT891FrWJTpdxLG4Xj) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Vive](https://open.spotify.com/album/5bGjmZEW8yxGggKMDulFPN) | 3:25 |
 | 53 | [Debut Y Despedida](https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Serie De Oro](https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d) | 2:54 |
 | 54 | [Con Olor a Hierba](https://open.spotify.com/track/30PNkwSPcer18CoQ8uyUct) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 3:39 |
-| 55 | [Dueño de Nada](https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [Dos Clásicos](https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2) | 5:16 |
-| 56 | [Amada Amante](https://open.spotify.com/track/1EjTQ72d5YuDI3yD3n5e4a) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Un Gato En La Oscuridad](https://open.spotify.com/album/6QehPjFB3Q8uH2btA35cQm) | 4:20 |
+| 55 | [Amada Amante](https://open.spotify.com/track/1EjTQ72d5YuDI3yD3n5e4a) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Un Gato En La Oscuridad](https://open.spotify.com/album/6QehPjFB3Q8uH2btA35cQm) | 4:20 |
+| 56 | [Dueño de Nada](https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [Dos Clásicos](https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2) | 5:16 |
 | 57 | [Nada de tu amor](https://open.spotify.com/track/3N7oZZG0sPkdBITPI7LwYf) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Antología\. \. \. Los Solitarios](https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg) | 2:53 |
 | 58 | [Bésame Mucho](https://open.spotify.com/track/5lqY7EmoAu9rwV4hHxhEzB) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Historia De Un Amor](https://open.spotify.com/album/6ZqE68apCVUrnZh0nRe5x5) | 3:00 |
 | 59 | [Amor, Amor](https://open.spotify.com/track/3mPsvF84MBbrwj0YEhODQq) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Amor Amor](https://open.spotify.com/album/6ULY5Bnnyu0VbMZY1i6TyJ) | 4:29 |
 | 60 | [Cómo Quisiera Decirte](https://open.spotify.com/track/7lmK8HJzXjD7JW88tQGVUT) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 2:49 |
 | 61 | [Quererte a Ti](https://open.spotify.com/track/4dRr0TfZQmZF2waLzRzoQo) | [Angela Carrasco](https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W) | [Sus Mas Grandes Exit](https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8) | 4:35 |
-| 62 | [Quédate Conmigo Esta Noche](https://open.spotify.com/track/0QTJFY7wrFxL9JlJfQvJzv) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Siempre](https://open.spotify.com/album/1hvkChT8svwpuA5b5v8Ksr) | 3:51 |
-| 63 | [Como sufro](https://open.spotify.com/track/6ZSHgXodh3huSt8f78zg1K) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Antología...Los Baby's](https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV) | 2:58 |
+| 62 | [Como sufro](https://open.spotify.com/track/6ZSHgXodh3huSt8f78zg1K) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Antología...Los Baby's](https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV) | 2:58 |
+| 63 | [Quédate Conmigo Esta Noche](https://open.spotify.com/track/0QTJFY7wrFxL9JlJfQvJzv) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Siempre](https://open.spotify.com/album/1hvkChT8svwpuA5b5v8Ksr) | 3:51 |
 | 64 | [Quien Eres Tu?](https://open.spotify.com/track/1g8LiofugZTeOSitfw8KLU) | [Nelson Ned](https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s) | [Selecao De Ouro Vol.2](https://open.spotify.com/album/7flgfjMt0hJLUjSm3ipdIX) | 4:17 |
 | 65 | [Tómame o Déjame \- Remasterizado](https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Mocedades 5](https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx) | 3:07 |
 | 66 | [Corazón mágico](https://open.spotify.com/track/1bpOD9jv1ge8RiyKccjLHW) | [Dyango](https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb) | [Grandes Éxitos](https://open.spotify.com/album/4wqRBtvdUx8rWZebL0982U) | 3:18 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 | 86 | [Detalles \(Detalhes\)](https://open.spotify.com/track/0WBaLzQeqMKc1CAX80jnS3) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Pra Sempre Em Espanhol \- Vol\. 1](https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH) | 5:07 |
 | 87 | [Te He Prometido](https://open.spotify.com/track/15vvGrycJyA5tMb6PXdQYO) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Roma \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fbJSth7xYdLAphGOSqJl5) | 3:07 |
 | 88 | [Cien años](https://open.spotify.com/track/1Ag6NwYwfBxZuNixLMT5a8) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Cien años..\. pensando en ti](https://open.spotify.com/album/5K5BgnDkPONrnmL35nHrFc) | 3:32 |
-| 89 | [Penas](https://open.spotify.com/track/3xef9cUovCAdblrNkP1CRF) | [Sandro](https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O) | [La Magia de Sandro](https://open.spotify.com/album/5AoO2XU5pild42akpbfv9s) | 3:16 |
-| 90 | [A Que No Le Cuentas](https://open.spotify.com/track/3WDNKy17AbatmDeMwSjzbj) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Lo Mejor De...](https://open.spotify.com/album/6HtnxyCP7gbCbrxVLY93Yj) | 4:12 |
+| 89 | [A Que No Le Cuentas](https://open.spotify.com/track/3WDNKy17AbatmDeMwSjzbj) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Lo Mejor De...](https://open.spotify.com/album/6HtnxyCP7gbCbrxVLY93Yj) | 4:12 |
+| 90 | [Penas](https://open.spotify.com/track/3xef9cUovCAdblrNkP1CRF) | [Sandro](https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O) | [La Magia de Sandro](https://open.spotify.com/album/5AoO2XU5pild42akpbfv9s) | 3:16 |
 | 91 | [Hasta Que Amanezca](https://open.spotify.com/track/7kEU8iwkKrFoxQwY9TREst) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Disco De Oro: Baladas, Vol\. 1](https://open.spotify.com/album/4BqbJnEBxaFr21syHgr6bc) | 3:00 |
 | 92 | [Si Quieres Verme Llorar](https://open.spotify.com/track/07yJLjgSez4kdmQEqYxtP7) | [Lisa Lopez](https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts) | [Si Quieres Verme Llorar](https://open.spotify.com/album/2P8oEuWa3QRF4zgU8dvmrD) | 3:10 |
 | 93 | [Rosas en el Mar](https://open.spotify.com/track/1CzxmV2RMlY7RoYN6Jd85S) | [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Lo Mejor de Massiel](https://open.spotify.com/album/44JyWGnSQObZVILBVQ4hnF) | 3:47 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 | 96 | [La Montaña \(A Montanha\)](https://open.spotify.com/track/4VlGrvfdv6p3DoFUaN2sph) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Mensajes De Fé](https://open.spotify.com/album/0fn4QTKt2uL68GexFfRhS5) | 3:46 |
 | 97 | [Las tres cosas](https://open.spotify.com/track/25H6Wi2xwsE3cr8Bn4ak6G) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Boleros Inolvidables II](https://open.spotify.com/album/1NISxuaHQ7AeZzmRb3VNLs) | 3:02 |
 | 98 | [Esta Tarde Vi Llover](https://open.spotify.com/track/7K1wswXrFRcR0I7EcpDSsM) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [A Mi Amor Con Mi Amor](https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu) | 2:38 |
-| 99 | [Heridas](https://open.spotify.com/track/5KMiMU5PGgzKWPGjjoZSAI) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Heridas](https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l) | 3:33 |
-| 100 | [Miénteme](https://open.spotify.com/track/75B5ZKWxccZztF9x76RKXt) | [Victor Yturbe "El Piruli"](https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB) | [La Más Completa Colección](https://open.spotify.com/album/4JUkSVuOwbbMwCXETe6qa0) | 3:10 |
+| 99 | [Payasito \(Ponchinello\) \- Remasterizado](https://open.spotify.com/track/0V4iSCbu2ipf0eEj7S5lEV) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Leyendas Solamente Los Mejores](https://open.spotify.com/album/0jHKZrqqHTc6uZIwYgKZbJ) | 2:36 |
+| 100 | [Heridas](https://open.spotify.com/track/5KMiMU5PGgzKWPGjjoZSAI) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Heridas](https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l) | 3:33 |
 
 Snapshot ID: `ZoyCZAAAAABQQwxsTRUwOw/pCfyUP5Ca`

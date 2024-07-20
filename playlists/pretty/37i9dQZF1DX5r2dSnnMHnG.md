@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,121 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,122 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 59 | [spring days](https://open.spotify.com/track/0OVk9RkmgYHmCimocRmtcq) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [our, spring days](https://open.spotify.com/album/5WOSmhpNQrH9uey5jSTtgt) | 3:08 |
 | 60 | [Spring illusion](https://open.spotify.com/track/23AfR0HzE468s6NcPqSGQn) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [Spring illusion](https://open.spotify.com/album/0IsKfvMDp1i8iOa0LzZS68) | 3:03 |
 | 61 | [Wish](https://open.spotify.com/track/3vvJdhNvwogyNhmgaGONZw) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [Wish](https://open.spotify.com/album/7DagjiIwCFeivyBSZYTsy7) | 3:11 |
-| 62 | [Paints \(feat\. 1ho\)](https://open.spotify.com/track/4OtqERJlgW34oCFGZVmkF7) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [GODAK](https://open.spotify.com/artist/1ul4BJWyGZ6DGJcQ2LoFrn), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g) | [Paints \(feat\. 1ho\)](https://open.spotify.com/album/5zPPNCnontFzam8kszcCIZ) | 3:02 |
-| 63 | [Marry ME](https://open.spotify.com/track/5wtQZVyNFyhdseXonjb7Zp) | [HAN SEUNG YUN](https://open.spotify.com/artist/0YVjg0dVOZ5aKZK66BWxNI) | [Marry ME \(Welcome To Wedding Hell OST Part.1\)](https://open.spotify.com/album/5qVymXLVFc2aJq3sUyhUO3) | 3:29 |
+| 62 | [Marry ME](https://open.spotify.com/track/5wtQZVyNFyhdseXonjb7Zp) | [HAN SEUNG YUN](https://open.spotify.com/artist/0YVjg0dVOZ5aKZK66BWxNI) | [Marry ME \(Welcome To Wedding Hell OST Part.1\)](https://open.spotify.com/album/5qVymXLVFc2aJq3sUyhUO3) | 3:29 |
+| 63 | [Paints \(feat\. 1ho\)](https://open.spotify.com/track/4OtqERJlgW34oCFGZVmkF7) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [GODAK](https://open.spotify.com/artist/1ul4BJWyGZ6DGJcQ2LoFrn), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g) | [Paints \(feat\. 1ho\)](https://open.spotify.com/album/5zPPNCnontFzam8kszcCIZ) | 3:02 |
 | 64 | [Coffee](https://open.spotify.com/track/0rn5XDtcm3WKYzeKMsXuwi) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love Story \(4 Season Project 季\) \- The 4th Mini Album](https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy) | 3:42 |
 | 65 | [Love is You](https://open.spotify.com/track/1wtmCl6XTMaJVQmHpVI4Gu) | [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [Love is You](https://open.spotify.com/album/208XzKaQPMlzkOimZbCG9E) | 2:41 |
 | 66 | [OH NONONO](https://open.spotify.com/track/0rJj6xWfFKbBVNw6dG54yb) | [Blue Mangtto](https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp), [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/7tYKa7avcGAwqcYZOpX8ed) | 3:01 |

@@ -292,7 +292,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 227933,
       "name": "Actos De Un Tonto",
       "url": "https://open.spotify.com/track/6X3uMhKVvCXhVxuUql4Vlh"
@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 194826,
       "name": "Cumbia Del Sol",
       "url": "https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF"
@@ -3646,7 +3646,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 217521,
       "name": "Feliz Feliz",
       "url": "https://open.spotify.com/track/3ibR3fiO0okIyc0lCqULHX"
@@ -3788,6 +3788,28 @@
       "duration_ms": 204586,
       "name": "F\u00edjate Que S\u00ed",
       "url": "https://open.spotify.com/track/6dmjHRIprOaIeDOk65RNdI"
+    },
+    {
+      "album": {
+        "name": "Giza",
+        "url": "https://open.spotify.com/album/59NGQmOz4yxHkgbrVdFHhy"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177580,
+      "name": "Giza",
+      "url": "https://open.spotify.com/track/6KOnLTb1xLfKDAjMC43I76"
     },
     {
       "album": {
@@ -4826,7 +4848,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 195920,
       "name": "Las Nachas",
       "url": "https://open.spotify.com/track/5c1AEnRTAlLDTvDb6rNlak"
@@ -4964,6 +4986,24 @@
       "duration_ms": 173826,
       "name": "Lo Mejor De Lo Mejor",
       "url": "https://open.spotify.com/track/5gpgYBVx8DAXwW4T6kFqc5"
+    },
+    {
+      "album": {
+        "name": "Lo Que Hay X Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158545,
+      "name": "Lo Que Hay X Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf"
     },
     {
       "album": {
@@ -5138,6 +5178,28 @@
       "duration_ms": 160133,
       "name": "Los Chiquinarcos",
       "url": "https://open.spotify.com/track/6YD8kCDE1sCP38uKeRloQL"
+    },
+    {
+      "album": {
+        "name": "LOS DOS",
+        "url": "https://open.spotify.com/album/5jBDqTxBaTjgnDQA1m8Z3T"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214735,
+      "name": "LOS DOS",
+      "url": "https://open.spotify.com/track/0wbPydD5UUkau6EKhtBqjM"
     },
     {
       "album": {
@@ -6381,6 +6443,24 @@
     },
     {
       "album": {
+        "name": "No Me 100to Bien",
+        "url": "https://open.spotify.com/album/3FYnU0zDcAikblh1uTYQ95"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202767,
+      "name": "No Me 100to Bien",
+      "url": "https://open.spotify.com/track/4ojX5C1upQBxlVLvZt8AgD"
+    },
+    {
+      "album": {
         "name": "A la Medida",
         "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
       },
@@ -6946,7 +7026,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 254862,
       "name": "Paloma Ajena",
       "url": "https://open.spotify.com/track/0hyWESy54H99d9ho7S0Xnj"
@@ -8298,7 +8378,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 215984,
       "name": "Solita (En Vivo)",
       "url": "https://open.spotify.com/track/279gdvickeQgmRt3EHBtNg"
@@ -8440,6 +8520,28 @@
       "duration_ms": 222669,
       "name": "Soy El Rat\u00f3n",
       "url": "https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz"
+    },
+    {
+      "album": {
+        "name": "Soy VIP",
+        "url": "https://open.spotify.com/album/3sIb7P0k12l1IaThmLPzkV"
+      },
+      "artists": [
+        {
+          "name": "La Instruxion",
+          "url": "https://open.spotify.com/artist/4IJpHcdinb2JCL9Gi9Gdw4"
+        },
+        {
+          "name": "Antonin Padilla",
+          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181109,
+      "name": "Soy VIP",
+      "url": "https://open.spotify.com/track/4Kn7o7LfvnQS9khdDgm05a"
     },
     {
       "album": {
@@ -8772,6 +8874,28 @@
       "duration_ms": 180400,
       "name": "Te Volver\u00eda A Elegir",
       "url": "https://open.spotify.com/track/1QgLKIL39m8266PA54HnmQ"
+    },
+    {
+      "album": {
+        "name": "Tengo Claro",
+        "url": "https://open.spotify.com/album/6r2fG8QS313bzSxFEi7wnr"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191681,
+      "name": "Tengo Claro",
+      "url": "https://open.spotify.com/track/2UAE43Y8K321CDAbnIXDD0"
     },
     {
       "album": {

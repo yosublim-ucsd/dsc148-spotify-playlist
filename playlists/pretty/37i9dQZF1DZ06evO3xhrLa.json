@@ -1,33 +1,13 @@
 {
-  "description": "This is Jhen\u00e9 Aiko. The essential tracks, all in one playlist.",
-  "num_followers": 229547,
+  "description": "This is Jhen\u00e9 Aiko. Tutti i brani in un'unica playlist.",
+  "num_followers": 229638,
   "original_name": "This Is Jhen\u00e9 Aiko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAAC+7lqYOW0UZQVh8qIbftN+",
+  "snapshot_id": "ZphbAAAAAADkjUnOeDBpMcp4eTkHfLzQ",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        }
-      ],
-      "duration_ms": 276960,
-      "name": "Sativa",
-      "url": "https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS"
-    },
     {
       "added_at": null,
       "album": {
@@ -83,18 +63,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
       "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
         {
           "name": "Jhen\u00e9 Aiko",
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 236160,
-      "name": "While We're Young",
-      "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
+      "duration_ms": 179973,
+      "name": "I'll Kill You (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/7EkiMl81fUHVwpItgtzI4r"
     },
     {
       "added_at": null,
@@ -131,62 +115,6 @@
       "duration_ms": 152400,
       "name": "2 seconds - Bonus",
       "url": "https://open.spotify.com/track/1dnECPoSYg3ni8dr8HhulX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chilombo",
-        "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 212866,
-      "name": "B.S. (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/63wx9vdskaXbYxyDx4oJCZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 179973,
-      "name": "I'll Kill You (feat. Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/7EkiMl81fUHVwpItgtzI4r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sail Out",
-        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "The Worst",
-      "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
     },
     {
       "added_at": null,
@@ -235,8 +163,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sailing Soul(s)",
-        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
       },
       "artists": [
         {
@@ -244,9 +172,9 @@
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 262480,
-      "name": "living room flow - Bonus",
-      "url": "https://open.spotify.com/track/4Li8dc3ucCesQJMKErU5zM"
+      "duration_ms": 254493,
+      "name": "The Worst",
+      "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
     },
     {
       "added_at": null,
@@ -383,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Kurupt",
-          "url": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
-        }
-      ],
-      "duration_ms": 270546,
-      "name": "Never Call Me",
-      "url": "https://open.spotify.com/track/0WXct4PcELq8Jh1R4Yhw4W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Souled Out",
         "url": "https://open.spotify.com/album/1dfGhmOGPopEReylj0UUDG"
       },
@@ -427,26 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chilombo (Deluxe)",
-        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Mila J",
-          "url": "https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v"
-        }
-      ],
-      "duration_ms": 222600,
-      "name": "On The Way (feat. Mila J)",
-      "url": "https://open.spotify.com/track/423NhOTzoqgeaIJbrUzSoo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Souled Out (Deluxe)",
         "url": "https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo"
       },
@@ -459,6 +347,26 @@
       "duration_ms": 210640,
       "name": "Eternal Sunshine",
       "url": "https://open.spotify.com/track/3t844ssjXzE9M3SDtUxTI4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chilombo",
+        "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "duration_ms": 259385,
+      "name": "None Of Your Concern (feat. Big Sean)",
+      "url": "https://open.spotify.com/track/75MSZRbAbQuzfUV3Pefvut"
     },
     {
       "added_at": null,
@@ -499,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chilombo",
-        "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 209933,
-      "name": "Triggered (freestyle)",
-      "url": "https://open.spotify.com/track/3zPgAKn5tbmCuCKrR3r7qE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Souled Out (Deluxe)",
         "url": "https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo"
       },
@@ -527,6 +419,22 @@
       "duration_ms": 198240,
       "name": "Remember",
       "url": "https://open.spotify.com/track/3vMVipXhMeZt3wWbSBD4th"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chilombo",
+        "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 209933,
+      "name": "Triggered (freestyle)",
+      "url": "https://open.spotify.com/track/3zPgAKn5tbmCuCKrR3r7qE"
     },
     {
       "added_at": null,
@@ -567,6 +475,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 143533,
+      "name": "One Of Dem Nights (with Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/5CSID3PvGYFa3zNgid3ClE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chilombo (Deluxe)",
         "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
       },
@@ -595,26 +523,6 @@
       "duration_ms": 223835,
       "name": "Lead the Way",
       "url": "https://open.spotify.com/track/2Vqbniz8jYoZPvecpdVPq9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Gangsta\u2019s Pain",
-        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 143533,
-      "name": "One Of Dem Nights (with Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/5CSID3PvGYFa3zNgid3ClE"
     },
     {
       "added_at": null,
@@ -747,6 +655,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Type (feat. City Girls & Jhen\u00e9 Aiko) [Remix]",
+        "url": "https://open.spotify.com/album/3zA4avOuepGbVtebFZzAz5"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 172313,
+      "name": "My Type (feat. City Girls & Jhen\u00e9 Aiko) - Remix",
+      "url": "https://open.spotify.com/track/5LTdRSQOg63EazLbKZbWn2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sail Out",
         "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
       },
@@ -759,6 +691,26 @@
       "duration_ms": 321826,
       "name": "Comfort Inn Ending (Freestyle)",
       "url": "https://open.spotify.com/track/03mfJFcTsxfldb0DPI4ygj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Was Good Until It Wasn't",
+        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 191128,
+      "name": "Change Your Life (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/1YqXXJDSlDHrp66g9as4uo"
     },
     {
       "added_at": null,
@@ -815,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chilombo",
+        "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 196320,
+      "name": "Magic Hour",
+      "url": "https://open.spotify.com/track/2siIhRYyrbKp9rGFAD4TVx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sailing Soul(s)",
         "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
       },
@@ -831,6 +799,26 @@
       "duration_ms": 253733,
       "name": "do better blues (feat. HOPE)",
       "url": "https://open.spotify.com/track/4slDDMAoLgYKvEpiUAUEQI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Namiko Love",
+          "url": "https://open.spotify.com/artist/27ycFhJqXswOxi41u9lz56"
+        }
+      ],
+      "duration_ms": 147360,
+      "name": "Sing To Me",
+      "url": "https://open.spotify.com/track/6QbM2D1CI7cbt6c8G1d3EL"
     },
     {
       "added_at": null,
@@ -871,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sailing Soul(s)",
+        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 232826,
+      "name": "mirrors - Bonus",
+      "url": "https://open.spotify.com/track/0IXTRIqR1OsKb0YQ235Xkd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Souled Out",
         "url": "https://open.spotify.com/album/1dfGhmOGPopEReylj0UUDG"
       },
@@ -907,22 +911,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "With Love 2",
-        "url": "https://open.spotify.com/album/0Y7r7Lb6skivwT5LL284AR"
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
       },
       "artists": [
         {
-          "name": "Phora",
-          "url": "https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq"
-        },
-        {
           "name": "Jhen\u00e9 Aiko",
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
         }
       ],
-      "duration_ms": 254230,
-      "name": "Stars in The Sky (feat. Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/5ziNnhZ1hK100fIUvkDZUH"
+      "duration_ms": 213760,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/4PdxJc9J12zF8cFgdH5tik"
     }
   ],
   "unique_name": "This Is Jhen\u00e9 Aiko",

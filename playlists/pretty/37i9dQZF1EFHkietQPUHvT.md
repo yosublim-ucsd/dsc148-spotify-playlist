@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131 likes - 45 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 130 likes - 45 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 10 | [Love U in the Morning](https://open.spotify.com/track/7BpW1HOQwPaGhgWvb5pCuo) | [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [Love U in the Morning](https://open.spotify.com/album/260wOGFQmUPEAALaIhvt0Q) | 2:44 |
 | 11 | [Favourite Song](https://open.spotify.com/track/51Gpkl6MSosRyZD1OQPrmF) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [Favourite Song](https://open.spotify.com/album/1TWDDWs0gQV3YKnQSCbOgh) | 3:39 |
 | 12 | [Straitjacket](https://open.spotify.com/track/5gu2zPGXuqs4otf3wNtXVb) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Straitjacket](https://open.spotify.com/album/1DZ20T7S0sdkbLgpPPiXlU) | 3:00 |
-| 13 | [All I Need](https://open.spotify.com/track/3eZYlTn1GGbRJyPXsfk3qT) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5) | [All I Need](https://open.spotify.com/album/56ubyM0z2MoYr4BveRFWtH) | 2:47 |
-| 14 | [Ten \(Get Back Up\)](https://open.spotify.com/track/5n6gZfEkDTI6mlPHRwM2XP) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Ten \(Get Back Up\)](https://open.spotify.com/album/3Plf86xJV5tvxw71cgCCr5) | 2:40 |
+| 13 | [Ten \(Get Back Up\)](https://open.spotify.com/track/5n6gZfEkDTI6mlPHRwM2XP) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Ten \(Get Back Up\)](https://open.spotify.com/album/3Plf86xJV5tvxw71cgCCr5) | 2:40 |
+| 14 | [All I Need](https://open.spotify.com/track/3eZYlTn1GGbRJyPXsfk3qT) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5) | [All I Need](https://open.spotify.com/album/56ubyM0z2MoYr4BveRFWtH) | 2:47 |
 | 15 | [Short Ride](https://open.spotify.com/track/12BQS3wg7tkb6HySjhxDHX) | [Lewis Fitzgerald](https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Short Ride](https://open.spotify.com/album/5GTjzOsKk8R250oKqgvmEg) | 2:49 |
 | 16 | [Circus](https://open.spotify.com/track/0HKV81jHT0tFxoLLYskYOr) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Circus](https://open.spotify.com/album/5gJ8mM7bAsCGEwm47Ak99J) | 2:32 |
 | 17 | [Cherry Gum](https://open.spotify.com/track/1cUG4UvqGEWSMtSt2TvK1m) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Cherry Gum](https://open.spotify.com/album/4NC5vzI0hgh3c9t0bcr4KV) | 2:48 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 44 | [Fairytales Are Nightmares](https://open.spotify.com/track/0gnZMoS21NdAPtqM5va32c) | [Bailey333](https://open.spotify.com/artist/5DQGlDPmc9tzUORPhavWet) | [Fairytales Are Nightmares](https://open.spotify.com/album/0MndFwMnPLQFelpaZW8jYN) | 2:31 |
 | 45 | [Pieces](https://open.spotify.com/track/58pdFtaryYVwyHsjYDGw4W) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [Plimsoll Road](https://open.spotify.com/album/6S5eFUOBD9mToIr9iIW32u) | 3:56 |
 
-Snapshot ID: `AbXFBgAAAABhBY/H1Lp5rR3xhAl2mGg2`
+Snapshot ID: `AbXJAgAAAACwpmcoh4B1oHKRHU6uQPb5`

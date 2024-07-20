@@ -251,6 +251,32 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/41BQsaMu8lrIaiTmvCnst0"
+      },
+      "artists": [
+        {
+          "name": "Wavetraxx",
+          "url": "https://open.spotify.com/artist/6lf34yUxPkqAQOSqJ0q06f"
+        },
+        {
+          "name": "Heatbeat",
+          "url": "https://open.spotify.com/artist/4FuFFzlzYgn3Yu2rxLhvdN"
+        },
+        {
+          "name": "NELLY TGM",
+          "url": "https://open.spotify.com/artist/0CcMmRLIvPFUg1AmCdsSSN"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185076,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/216jQRd3JzpWGWUBOEjGgW"
+    },
+    {
+      "album": {
         "name": "Anamnesis",
         "url": "https://open.spotify.com/album/7B4rd1DjnWacCdAnVoemsj"
       },
@@ -1975,6 +2001,28 @@
     },
     {
       "album": {
+        "name": "Decimate (N.O.B.A Remix)",
+        "url": "https://open.spotify.com/album/30t1zKXN0igRzWgV7mtpIn"
+      },
+      "artists": [
+        {
+          "name": "Sneijder",
+          "url": "https://open.spotify.com/artist/4zllvElH16KlgTqRstwYIb"
+        },
+        {
+          "name": "N.O.B.A",
+          "url": "https://open.spotify.com/artist/5MIr8QoqIu4PfJayaNTjb8"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214647,
+      "name": "Decimate - N.O.B.A Remix",
+      "url": "https://open.spotify.com/track/1IBQOV538NLEQph6O34Slx"
+    },
+    {
+      "album": {
         "name": "Deep Cut",
         "url": "https://open.spotify.com/album/3UB8ZF4mBMDiw5N7UGrulF"
       },
@@ -3665,6 +3713,28 @@
     },
     {
       "album": {
+        "name": "Here With You",
+        "url": "https://open.spotify.com/album/5BFCvht5psPKfvcfxYaOYQ"
+      },
+      "artists": [
+        {
+          "name": "Spencer Newell",
+          "url": "https://open.spotify.com/artist/5TuPKF4PK5PDgGuR9PlGfv"
+        },
+        {
+          "name": "Lokka Vox",
+          "url": "https://open.spotify.com/artist/7Me2tT0W9VHJHchAtFVc2o"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231082,
+      "name": "Here With You",
+      "url": "https://open.spotify.com/track/5X1kuzL26fVOPuYNHT5Qlk"
+    },
+    {
+      "album": {
         "name": "Dogwater",
         "url": "https://open.spotify.com/album/6SXovZDtjTYPfYTZ0yVxHx"
       },
@@ -4369,6 +4439,24 @@
     },
     {
       "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/4CAOTgEOGM21U8YOytJrZJ"
+      },
+      "artists": [
+        {
+          "name": "AANSE",
+          "url": "https://open.spotify.com/artist/6qlH3EfcFpLwAGiQQlAra6"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/109l2CEP9CcXYKzbbXLeXd"
+    },
+    {
+      "album": {
         "name": "In My Soul",
         "url": "https://open.spotify.com/album/1eDkTJGusL0TYZEzxH4vbb"
       },
@@ -4922,6 +5010,24 @@
       "duration_ms": 155624,
       "name": "Kiss From A Rose",
       "url": "https://open.spotify.com/track/5LNFAjkC0DhgUfiQcKHrX4"
+    },
+    {
+      "album": {
+        "name": "Kitsune Maison Freestyle",
+        "url": "https://open.spotify.com/album/3RR6dCCUou6EdHrHVOQV1r"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234553,
+      "name": "Kitsune Maison Freestyle",
+      "url": "https://open.spotify.com/track/6n8VUJwJoANGLHfWf38gJv"
     },
     {
       "album": {
@@ -7213,6 +7319,24 @@
     },
     {
       "album": {
+        "name": "One Thing",
+        "url": "https://open.spotify.com/album/3yrUclsTFchuxo2c4VYUPb"
+      },
+      "artists": [
+        {
+          "name": "Camisado",
+          "url": "https://open.spotify.com/artist/0pvlpkTlSafv0eKyGQ2HtS"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144041,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/3Q8hbWH6nDCK050NOWPQaC"
+    },
+    {
+      "album": {
         "name": "Only Way Is Up (feat. Izzy Bizu)",
         "url": "https://open.spotify.com/album/4FFYAaeCVsCx6lfiZ5FPcD"
       },
@@ -7985,6 +8109,28 @@
     },
     {
       "album": {
+        "name": "Rave (All I Want)",
+        "url": "https://open.spotify.com/album/68AeX81W42YPUqj1eST433"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "Heleen",
+          "url": "https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Rave (All I Want)",
+      "url": "https://open.spotify.com/track/1MdddafHu8hUzsk7eNAG2Y"
+    },
+    {
+      "album": {
         "name": "Rave Generator",
         "url": "https://open.spotify.com/album/2GFWUP3aHHxvCAXDKP7cNf"
       },
@@ -8268,6 +8414,24 @@
       "duration_ms": 249330,
       "name": "Retraced",
       "url": "https://open.spotify.com/track/7CvgfJoj4aw6thesUvfHtT"
+    },
+    {
+      "album": {
+        "name": "Rhythm Is A Mystery",
+        "url": "https://open.spotify.com/album/4i8yo1Mr9V9r1zm3dea73q"
+      },
+      "artists": [
+        {
+          "name": "Stephani B",
+          "url": "https://open.spotify.com/artist/1KO1lRmzn2ruREb8hlFa0A"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156428,
+      "name": "Rhythm Is A Mystery",
+      "url": "https://open.spotify.com/track/4to882WX8amPNUOrutLULh"
     },
     {
       "album": {
@@ -8597,6 +8761,24 @@
     },
     {
       "album": {
+        "name": "Save me now",
+        "url": "https://open.spotify.com/album/0a3TiVK2fuaUnnUkBzRu1f"
+      },
+      "artists": [
+        {
+          "name": "Rick Kramer",
+          "url": "https://open.spotify.com/artist/0SMXRUzutHfPvHfVjApFN4"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243750,
+      "name": "Save me now",
+      "url": "https://open.spotify.com/track/1UsDImhOVD4VTdUCIkpQG5"
+    },
+    {
+      "album": {
         "name": "Save My Soul (feat. Jordan Grace)",
         "url": "https://open.spotify.com/album/6bodARPsfzNApsTUOzKDmh"
       },
@@ -8900,6 +9082,24 @@
       "duration_ms": 214051,
       "name": "Show Me How to Love Me",
       "url": "https://open.spotify.com/track/7sn7GB0Y5Wkgy2nstRCLuq"
+    },
+    {
+      "album": {
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/3o8GPFoFLVI0pfUPePSmbl"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131372,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/3D2jhnByvi7je8qYz3cWM1"
     },
     {
       "album": {
@@ -9777,6 +9977,24 @@
     },
     {
       "album": {
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/5lk4rie1rNS4GMw0s0Mjga"
+      },
+      "artists": [
+        {
+          "name": "Alias Club",
+          "url": "https://open.spotify.com/artist/7iBfLTLOnJIArlk3IODV95"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190984,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/617SoNO2LNsU6lTSN3t3t8"
+    },
+    {
+      "album": {
         "name": "Take Me",
         "url": "https://open.spotify.com/album/4bZ84GSVue2y8byEWWh68t"
       },
@@ -10056,6 +10274,24 @@
       "duration_ms": 178333,
       "name": "The Mindshaker",
       "url": "https://open.spotify.com/track/6fEAu7JRaeepDU0HJn0Kce"
+    },
+    {
+      "album": {
+        "name": "The Night Sky",
+        "url": "https://open.spotify.com/album/0eakTvQwbi2Hsme2BuAaT0"
+      },
+      "artists": [
+        {
+          "name": "VENNIC",
+          "url": "https://open.spotify.com/artist/0I9hDUnGp3ZYpR9FmnKXqS"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181157,
+      "name": "The Night Sky",
+      "url": "https://open.spotify.com/track/5ASQL2glrTi6xS82g0fMRh"
     },
     {
       "album": {

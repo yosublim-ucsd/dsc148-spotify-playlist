@@ -1,12 +1,12 @@
 {
-  "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 47184,
+  "description": "This Is Phil Wickham. Kaikki olennaiset kappaleet yhdess\u00e4 soittolistassa.",
+  "num_followers": 47197,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAADckFmFJr2sfK3kGOtvOl8L",
+  "snapshot_id": "ZphbAAAAAABsaZg5D+tIWZ2Og2Tx5I6A",
   "tracks": [
     {
       "added_at": null,
@@ -111,26 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lifesongs: A Celebration of the First 20 Years",
-        "url": "https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        },
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 273554,
-      "name": "Praise You In This Storm (feat. Phil Wickham)",
-      "url": "https://open.spotify.com/track/6FW1HQDSZViaX37fyOFL57"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Cannot Be Stopped",
         "url": "https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 261360,
       "name": "You Cannot Be Stopped",
       "url": "https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lifesongs: A Celebration of the First 20 Years",
+        "url": "https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        },
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 273554,
+      "name": "Praise You In This Storm (feat. Phil Wickham)",
+      "url": "https://open.spotify.com/track/6FW1HQDSZViaX37fyOFL57"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
-        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 260605,
-      "name": "HOMETOWN",
-      "url": "https://open.spotify.com/track/4KfMNFyPTPyoh0r0cGSw1a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Children of God",
         "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 233720,
       "name": "Your Love Awakens Me",
       "url": "https://open.spotify.com/track/0jdWct4BgFwuZVWAtAg3DL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
+        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 260605,
+      "name": "HOMETOWN",
+      "url": "https://open.spotify.com/track/4KfMNFyPTPyoh0r0cGSw1a"
     },
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace, Vol. II",
-        "url": "https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 380453,
-      "name": "Living Hope",
-      "url": "https://open.spotify.com/track/1Zm86n2tQ7o5gKgdhqAHjY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Living Hope",
         "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 289333,
       "name": "My All in All",
       "url": "https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace, Vol. II",
+        "url": "https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 380453,
+      "name": "Living Hope",
+      "url": "https://open.spotify.com/track/1Zm86n2tQ7o5gKgdhqAHjY"
     },
     {
       "added_at": null,

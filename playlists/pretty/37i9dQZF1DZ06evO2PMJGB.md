@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 
 ### [This Is Luísa Sonza](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PMJGB)
 
-> This is Luísa Sonza\. The essential tracks, all in one playlist.
+> This is Luísa Sonza\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,303 likes - 38 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,526 likes - 37 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 | 34 | [Olhos Castanhos](https://open.spotify.com/track/1Eh2tS7tgwqvvQLIBbByHo) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Olhos Castanhos](https://open.spotify.com/album/5TUfzNYXahREF4LdxaSoDh) | 3:25 |
 | 35 | [Tentação](https://open.spotify.com/track/71txbUtWVkqbN7BOQcEkDI) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Beijo De Judas](https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd) | 2:54 |
 | 36 | [ANACONDA \*o\* \~\~\~](https://open.spotify.com/track/2342lPAZ9zddhgAQEiLx4V) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:03 |
-| 37 | [TOMA](https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [TOMA](https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3) | 2:09 |
-| 38 | [Garupa](https://open.spotify.com/track/6nmYC5NZrRjRMhyR4aHLoF) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Pandora](https://open.spotify.com/album/1eHsHKConMfzho7k48pomW) | 2:08 |
+| 37 | [Garupa](https://open.spotify.com/track/6nmYC5NZrRjRMhyR4aHLoF) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Pandora](https://open.spotify.com/album/1eHsHKConMfzho7k48pomW) | 2:08 |
 
-Snapshot ID: `ZpcJgAAAAACxbd2JHFndjWIaAUYZWbpV`
+Snapshot ID: `ZphbAAAAAAD3t/g0nsO7hYf55H52hNFG`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "the best in hardcore. open the pit w/ GEL.",
+  "description": "the best in hardcore. open the pit w/ Drug Church.",
   "name": "the Breakdown",
   "tracks": [
     {
@@ -1030,6 +1030,24 @@
       "duration_ms": 178863,
       "name": "Delusions of Grandeur",
       "url": "https://open.spotify.com/track/1PhnLoIh8emLvQ7mUM1CyJ"
+    },
+    {
+      "album": {
+        "name": "Demolition Man",
+        "url": "https://open.spotify.com/album/6rLNcJWYaLLv14WLDzUdf8"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165786,
+      "name": "Demolition Man",
+      "url": "https://open.spotify.com/track/7A2KxqI16tEpJhxZn6Ji1P"
     },
     {
       "album": {
@@ -2602,7 +2620,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 178000,
       "name": "Myopic",
       "url": "https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp"

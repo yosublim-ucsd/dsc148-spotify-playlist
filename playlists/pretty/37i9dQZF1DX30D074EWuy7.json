@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
-  "num_followers": 29697,
+  "num_followers": 29707,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -459,38 +459,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Respiro",
-        "url": "https://open.spotify.com/album/0aI4EqaeC7USjpfB8qXoKO"
-      },
-      "artists": [
-        {
-          "name": "Joe Barbieri",
-          "url": "https://open.spotify.com/artist/70S7xGDXv69V2vUv3z1PeT"
-        }
-      ],
-      "duration_ms": 244632,
-      "name": "Zenzero e cannella",
-      "url": "https://open.spotify.com/track/01R4j8moUGlLxkmhR9sA5t"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Caosmosi",
-        "url": "https://open.spotify.com/album/3c5kIKIGE3lDvyDehcbqzP"
-      },
-      "artists": [
-        {
-          "name": "Addict Ameba",
-          "url": "https://open.spotify.com/artist/4Au0CBfj9kSp1qOUBFMCjb"
-        }
-      ],
-      "duration_ms": 303733,
-      "name": "Caosmosi",
-      "url": "https://open.spotify.com/track/75f7i3yQ0HYtaZ0iuN0p3y"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Moon Kin",
         "url": "https://open.spotify.com/album/0XoKbSzakitFU6aAsqFPQm"
       },
@@ -523,6 +491,38 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Caosmosi",
+        "url": "https://open.spotify.com/album/3c5kIKIGE3lDvyDehcbqzP"
+      },
+      "artists": [
+        {
+          "name": "Addict Ameba",
+          "url": "https://open.spotify.com/artist/4Au0CBfj9kSp1qOUBFMCjb"
+        }
+      ],
+      "duration_ms": 303733,
+      "name": "Caosmosi",
+      "url": "https://open.spotify.com/track/75f7i3yQ0HYtaZ0iuN0p3y"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Respiro",
+        "url": "https://open.spotify.com/album/0aI4EqaeC7USjpfB8qXoKO"
+      },
+      "artists": [
+        {
+          "name": "Joe Barbieri",
+          "url": "https://open.spotify.com/artist/70S7xGDXv69V2vUv3z1PeT"
+        }
+      ],
+      "duration_ms": 244632,
+      "name": "Zenzero e cannella",
+      "url": "https://open.spotify.com/track/01R4j8moUGlLxkmhR9sA5t"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Funambola",
         "url": "https://open.spotify.com/album/08xjdXUMNo6eXeh45j99xp"
       },
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Carioca",
-        "url": "https://open.spotify.com/album/0BcPVNgNrtNtXdBrcz7fAp"
-      },
-      "artists": [
-        {
-          "name": "Stefano Bollani",
-          "url": "https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7"
-        }
-      ],
-      "duration_ms": 300453,
-      "name": "Luz Negra",
-      "url": "https://open.spotify.com/track/24r0Ni7UbWHy69PBOe364Q"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Freaky People",
         "url": "https://open.spotify.com/album/5GidaDXTEqFHHfhH5aTo44"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 348375,
       "name": "Here We Gong",
       "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Carioca",
+        "url": "https://open.spotify.com/album/0BcPVNgNrtNtXdBrcz7fAp"
+      },
+      "artists": [
+        {
+          "name": "Stefano Bollani",
+          "url": "https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7"
+        }
+      ],
+      "duration_ms": 300453,
+      "name": "Luz Negra",
+      "url": "https://open.spotify.com/track/24r0Ni7UbWHy69PBOe364Q"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Porta Pia",
-        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
-      },
-      "artists": [
-        {
-          "name": "Coca Puma",
-          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
-        }
-      ],
-      "duration_ms": 175458,
-      "name": "Porta Pia",
-      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "L'indispensabile",
         "url": "https://open.spotify.com/album/2dd0tiC5EWGCKRI3OnFmn9"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 407760,
       "name": "Ultimo amore",
       "url": "https://open.spotify.com/track/6kpNriwONdTQYHXeZeilYM"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Porta Pia",
+        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
+      },
+      "artists": [
+        {
+          "name": "Coca Puma",
+          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
+        }
+      ],
+      "duration_ms": 175458,
+      "name": "Porta Pia",
+      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Studio Murena",
+        "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
+      },
+      "artists": [
+        {
+          "name": "Studio Murena",
+          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Long John Silver",
+      "url": "https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Morabeza",
         "url": "https://open.spotify.com/album/3n55TgC6Qv30oyw7yj11mY"
       },
@@ -911,38 +927,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Studio Murena",
-        "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
-      },
-      "artists": [
-        {
-          "name": "Studio Murena",
-          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Long John Silver",
-      "url": "https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "QMQS / Cannel\u00e9",
-        "url": "https://open.spotify.com/album/0TYLIzitRWHPw1ELnpTpmJ"
-      },
-      "artists": [
-        {
-          "name": "Allez Kiki Fermentation",
-          "url": "https://open.spotify.com/artist/7M56nxBuga54hAus5FBZ9Q"
-        }
-      ],
-      "duration_ms": 270081,
-      "name": "QMQS",
-      "url": "https://open.spotify.com/track/1bHf80TBUprSwpQzM2l4jd"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Quando le canzoni finiscono",
         "url": "https://open.spotify.com/album/0pbaxeBm7EGjfBiiuD0LyE"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 238043,
       "name": "Un giardino",
       "url": "https://open.spotify.com/track/1xXKvZSKZGcBR4jNOvirl6"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "QMQS / Cannel\u00e9",
+        "url": "https://open.spotify.com/album/0TYLIzitRWHPw1ELnpTpmJ"
+      },
+      "artists": [
+        {
+          "name": "Allez Kiki Fermentation",
+          "url": "https://open.spotify.com/artist/7M56nxBuga54hAus5FBZ9Q"
+        }
+      ],
+      "duration_ms": 270081,
+      "name": "QMQS",
+      "url": "https://open.spotify.com/track/1bHf80TBUprSwpQzM2l4jd"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Maison Maravilha",
-        "url": "https://open.spotify.com/album/6Q7qzoGfTHFMHMQBoPa7Yj"
-      },
-      "artists": [
-        {
-          "name": "Joe Barbieri",
-          "url": "https://open.spotify.com/artist/70S7xGDXv69V2vUv3z1PeT"
-        }
-      ],
-      "duration_ms": 310466,
-      "name": "Normalmente",
-      "url": "https://open.spotify.com/track/4wymTjjL8l8KOS70s7b6IX"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Opera prima (Including Ice One Remix)",
         "url": "https://open.spotify.com/album/2p4Mhuh5f6dDJwVxSPhdWf"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 278773,
       "name": "Musica e fumo (featuring Colle Der Fomento)",
       "url": "https://open.spotify.com/track/3eNc1G2fORU6RqCmTpJxHn"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Maison Maravilha",
+        "url": "https://open.spotify.com/album/6Q7qzoGfTHFMHMQBoPa7Yj"
+      },
+      "artists": [
+        {
+          "name": "Joe Barbieri",
+          "url": "https://open.spotify.com/artist/70S7xGDXv69V2vUv3z1PeT"
+        }
+      ],
+      "duration_ms": 310466,
+      "name": "Normalmente",
+      "url": "https://open.spotify.com/track/4wymTjjL8l8KOS70s7b6IX"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1455,26 +1455,18 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Norma (Arr. for Jazz Orchestra)",
-        "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
+        "name": "Franco Cerri Jazz",
+        "url": "https://open.spotify.com/album/4VphmaeJQ8CAbRMRz9QDA8"
       },
       "artists": [
         {
-          "name": "Orchestra Jazz del Mediterraneo",
-          "url": "https://open.spotify.com/artist/0Tb0g0i1vQhmpkEJK2jaRp"
-        },
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        },
-        {
-          "name": "Paolo Silvestri",
-          "url": "https://open.spotify.com/artist/211mBSaPYcZCx1F9sfDsVr"
+          "name": "Franco Cerri",
+          "url": "https://open.spotify.com/artist/1kk5a0EzDK5su94EBYUKPw"
         }
       ],
-      "duration_ms": 584075,
-      "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
-      "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
+      "duration_ms": 79041,
+      "name": "Generazia",
+      "url": "https://open.spotify.com/track/2KWRSw7WgfSNcdiEWM8Q72"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1491,22 +1483,6 @@
       "duration_ms": 269139,
       "name": "How Far Can You Fly? (Ladder) - Original Version",
       "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Franco Cerri Jazz",
-        "url": "https://open.spotify.com/album/4VphmaeJQ8CAbRMRz9QDA8"
-      },
-      "artists": [
-        {
-          "name": "Franco Cerri",
-          "url": "https://open.spotify.com/artist/1kk5a0EzDK5su94EBYUKPw"
-        }
-      ],
-      "duration_ms": 79041,
-      "name": "Generazia",
-      "url": "https://open.spotify.com/track/2KWRSw7WgfSNcdiEWM8Q72"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1531,6 +1507,30 @@
       "duration_ms": 454173,
       "name": "Canzone di Nausicaa",
       "url": "https://open.spotify.com/track/3NOKIQbCbTnl2808xd2V5B"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Norma (Arr. for Jazz Orchestra)",
+        "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
+      },
+      "artists": [
+        {
+          "name": "Orchestra Jazz del Mediterraneo",
+          "url": "https://open.spotify.com/artist/0Tb0g0i1vQhmpkEJK2jaRp"
+        },
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Paolo Silvestri",
+          "url": "https://open.spotify.com/artist/211mBSaPYcZCx1F9sfDsVr"
+        }
+      ],
+      "duration_ms": 584075,
+      "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
+      "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Something In Our Way",
+        "url": "https://open.spotify.com/album/3gFETZs7VBLDGCIakDFE7x"
+      },
+      "artists": [
+        {
+          "name": "Danilo Rea",
+          "url": "https://open.spotify.com/artist/0px78Y2V2QRl3f8hNtxdst"
+        }
+      ],
+      "duration_ms": 336666,
+      "name": "You Can't Always Get What You Want",
+      "url": "https://open.spotify.com/track/5ULXaeY21pBRmXlRUshUHX"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Desertico",
         "url": "https://open.spotify.com/album/7HQw3tDo1g6tyTLQdjIPQt"
       },
@@ -1603,22 +1619,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Something In Our Way",
-        "url": "https://open.spotify.com/album/3gFETZs7VBLDGCIakDFE7x"
-      },
-      "artists": [
-        {
-          "name": "Danilo Rea",
-          "url": "https://open.spotify.com/artist/0px78Y2V2QRl3f8hNtxdst"
-        }
-      ],
-      "duration_ms": 336666,
-      "name": "You Can't Always Get What You Want",
-      "url": "https://open.spotify.com/track/5ULXaeY21pBRmXlRUshUHX"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "The Tales Of Doctor 3",
         "url": "https://open.spotify.com/album/4pZ8j1ZhDspPrC6LPDc7zI"
       },
@@ -1631,6 +1631,22 @@
       "duration_ms": 422573,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/3WtoXFfPhUpfz0CyG9FuZ3"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "La Valle Dei Templi",
+        "url": "https://open.spotify.com/album/4DStIxg2IyyYIL2K1y504z"
+      },
+      "artists": [
+        {
+          "name": "Perigeo",
+          "url": "https://open.spotify.com/artist/0UB7tnXqRLUWF9dyktuA6e"
+        }
+      ],
+      "duration_ms": 184213,
+      "name": "Looping",
+      "url": "https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1651,22 +1667,6 @@
       "duration_ms": 340493,
       "name": "My Heart in a Song",
       "url": "https://open.spotify.com/track/5PcNrgBKBr1r4NTmTlH5Am"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "La Valle Dei Templi",
-        "url": "https://open.spotify.com/album/4DStIxg2IyyYIL2K1y504z"
-      },
-      "artists": [
-        {
-          "name": "Perigeo",
-          "url": "https://open.spotify.com/artist/0UB7tnXqRLUWF9dyktuA6e"
-        }
-      ],
-      "duration_ms": 184213,
-      "name": "Looping",
-      "url": "https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Unconscious Collective",
-        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
-      },
-      "artists": [
-        {
-          "name": "PS5",
-          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
-        }
-      ],
-      "duration_ms": 289634,
-      "name": "Transe Napolitaine",
-      "url": "https://open.spotify.com/track/2mb0WOhZHdTsIZIEbqLxBd"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Cosmica Italiana",
         "url": "https://open.spotify.com/album/6vpTptHhCC583XUoazczZt"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 222391,
       "name": "Movimento Astratto",
       "url": "https://open.spotify.com/track/6r76msR3jmGKmr9ZjoT6Ez"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Unconscious Collective",
+        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
+      },
+      "artists": [
+        {
+          "name": "PS5",
+          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
+        }
+      ],
+      "duration_ms": 289634,
+      "name": "Transe Napolitaine",
+      "url": "https://open.spotify.com/track/2mb0WOhZHdTsIZIEbqLxBd"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "First Name: Oona",
-        "url": "https://open.spotify.com/album/4hwNr0pUjHAMaGbxxMTnOQ"
-      },
-      "artists": [
-        {
-          "name": "Oona Rea",
-          "url": "https://open.spotify.com/artist/3uAnQmV3hPEl7SrxyRgIfb"
-        }
-      ],
-      "duration_ms": 138653,
-      "name": "Fun",
-      "url": "https://open.spotify.com/track/1jDSu3OmCIBMiKEE9pl6RE"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Tabacco e Caff\u00e8",
         "url": "https://open.spotify.com/album/2NeByVBLwcAhdcnQw86MkH"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 291080,
       "name": "Frevo",
       "url": "https://open.spotify.com/track/4NpETaj70DmYarCLbPqLyv"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "First Name: Oona",
+        "url": "https://open.spotify.com/album/4hwNr0pUjHAMaGbxxMTnOQ"
+      },
+      "artists": [
+        {
+          "name": "Oona Rea",
+          "url": "https://open.spotify.com/artist/3uAnQmV3hPEl7SrxyRgIfb"
+        }
+      ],
+      "duration_ms": 138653,
+      "name": "Fun",
+      "url": "https://open.spotify.com/track/1jDSu3OmCIBMiKEE9pl6RE"
     },
     {
       "added_at": "2024-06-28 00:01:00",

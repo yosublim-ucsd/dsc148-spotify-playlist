@@ -2,7 +2,7 @@
 
 ### [This Is KISS](https://open.spotify.com/playlist/37i9dQZF1DZ06evO00jzcA)
 
-> This Is KISS\. Los temas esenciales, todos en una lista.
+> This is KISS。アーティストの代表曲をひとつのプレイリストに。
 
 93 songs - 6 hr 7 min
 
@@ -36,7 +36,7 @@
 | [Domino](https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x) | 4:00 | 2022-01-11 |  |
 | [Every Time I Look At You](https://open.spotify.com/track/0ute0e8bY0FmSEIqDfhrBJ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x) | 4:39 | 2022-01-11 |  |
 | [Forever](https://open.spotify.com/track/2o4u19nlQWOGg5mLanT7Pg) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hot In The Shade](https://open.spotify.com/album/4tA5KsFziTKOuDVAUivcjM) | 3:52 | 2022-01-11 |  |
-| [Forever \(Live\)](https://open.spotify.com/track/1fM0MXvqlJT2H7znb3LiUD) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw), [The Melbourne Symphony Ensemble](https://open.spotify.com/artist/7heI8mAanEFxzKBOCNWxJB) | [Symphony: Alive IV](https://open.spotify.com/album/2tu4fl2V9D3NHdocyV9J5T) | 3:50 | 2023-12-19 |  |
+| [Forever \(Live\)](https://open.spotify.com/track/1fM0MXvqlJT2H7znb3LiUD) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw), [The Melbourne Symphony Ensemble](https://open.spotify.com/artist/7heI8mAanEFxzKBOCNWxJB) | [Symphony: Alive IV](https://open.spotify.com/album/2tu4fl2V9D3NHdocyV9J5T) | 3:50 | 2023-12-19 | 2024-07-20 |
 | [Forever \- Live](https://open.spotify.com/track/0c3acWFtqZwvBjv5dO4Ts5) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw), [The Melbourne Symphony Ensemble](https://open.spotify.com/artist/7heI8mAanEFxzKBOCNWxJB) | [Symphony: Alive IV](https://open.spotify.com/album/1amAo0xUABmNBclEBCPmgQ) | 3:50 | 2022-02-24 | 2023-12-14 |
 | [God Gave Rock 'N' Roll To You II](https://open.spotify.com/track/1jJenVEjsXClGR4n4vJkMu) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x) | 5:20 | 2022-01-11 |  |
 | [God Gave Rock N Roll To You \- Live In Virginia Beach / 2004](https://open.spotify.com/track/7yrZLisamI2TPFqeqxFi6C) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS Off The Soundboard: Live In Virginia Beach](https://open.spotify.com/album/47LCEebhE6fZYzV1Qchy9x) | 6:37 | 2022-03-30 | 2022-07-19 |
@@ -65,7 +65,7 @@
 | [Let Me Go, Rock 'N Roll](https://open.spotify.com/track/6iwBE3iYSgeBI3OtBAPNc1) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hotter Than Hell](https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE) | 2:15 | 2023-04-06 |  |
 | [Let Me Go, Rock 'N Roll \- Live In Veterans Memorial Auditorium, Des Moines / 1977](https://open.spotify.com/track/6MEYbafwyChkm22SFKzPs7) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Let Me Go, Rock 'N Roll \(Live\)](https://open.spotify.com/album/3ujn2PCWC7RluCsKlMfhfL) | 3:01 | 2022-07-10 | 2022-09-13 |
 | [Lick It Up](https://open.spotify.com/track/3cXiUuiGpFmZ8OdAWKk8Ck) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Lick It Up](https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30) | 3:56 | 2022-01-11 |  |
-| [Love Gun](https://open.spotify.com/track/0SPBrxOUEMIKugXR4bFhxs) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:18 | 2022-01-11 | 2024-07-19 |
+| [Love Gun](https://open.spotify.com/track/0SPBrxOUEMIKugXR4bFhxs) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:18 | 2022-01-11 |  |
 | [Love Theme From Kiss](https://open.spotify.com/track/3h65F8R0FKA70GRGdt1ftw) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 2:24 | 2022-01-11 | 2022-10-13 |
 | [Magic Touch](https://open.spotify.com/track/3gAnPHRoANSRwp1gwv5p2m) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:42 | 2022-12-14 |  |
 | [Modern Day Delilah](https://open.spotify.com/track/7jx8RjpHh06VJxMDXblPcd) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS 40](https://open.spotify.com/album/721Qky2RUeTXh0rCmVvqkM) | 3:36 | 2022-01-11 | 2022-10-13 |
@@ -86,11 +86,11 @@
 | [Save Your Love](https://open.spotify.com/track/1RUQIkl3vHaOUPKC885STa) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:40 | 2022-01-13 | 2022-07-25 |
 | [See You Tonight \- Live](https://open.spotify.com/track/57zKsBEPheQbBBsNFs35Sy) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 2:29 | 2022-01-16 |  |
 | [Shandi](https://open.spotify.com/track/1aJtdcYdncvyNrVKCcj0eD) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Unmasked](https://open.spotify.com/album/3PlYLejxpxhtJcynfE08vE) | 3:36 | 2022-01-11 |  |
-| [She](https://open.spotify.com/track/2CgK3jgqeaR02D9mKE2XVt) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill](https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF) | 4:09 | 2022-01-12 |  |
+| [She](https://open.spotify.com/track/2CgK3jgqeaR02D9mKE2XVt) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill](https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF) | 4:09 | 2022-01-12 | 2024-07-20 |
 | [Shock Me](https://open.spotify.com/track/39hfj6Tnqgsxn7jGTfWl18) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:46 | 2022-01-11 |  |
 | [Shout It Out Loud](https://open.spotify.com/track/3qyHjQ1zTLvPeA99CP3K9N) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 2:49 | 2022-01-11 |  |
 | [Strutter](https://open.spotify.com/track/0UCg6lnG2MXpuEpf8Pk1MV) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:10 | 2022-01-11 |  |
-| [Sure Know Something](https://open.spotify.com/track/1HBDWCrQVjrALiOA5rILnE) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:01 | 2022-01-11 | 2024-07-19 |
+| [Sure Know Something](https://open.spotify.com/track/1HBDWCrQVjrALiOA5rILnE) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:01 | 2022-01-11 |  |
 | [Take Me](https://open.spotify.com/track/12hTHnCBajZeyEiZi1drMz) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Rock And Roll Over](https://open.spotify.com/album/6722nY178mLes49GPldnjj) | 2:56 | 2022-01-11 | 2022-02-03 |
 | [Tears Are Falling](https://open.spotify.com/track/1hxt3chzYLAzS4NmSSi5A3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Asylum](https://open.spotify.com/album/0WDUDVt1ZYTJX8KPwH3ast) | 3:55 | 2022-01-11 |  |
 | [Thrills In The Night](https://open.spotify.com/track/4DYrRcGMv6zovQkKpA5ymp) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Animalize](https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB) | 4:21 | 2022-01-11 | 2023-09-05 |

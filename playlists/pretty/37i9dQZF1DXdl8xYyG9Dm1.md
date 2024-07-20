@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: Olamide
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,632 likes - 70 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,679 likes - 70 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 16 | [NO SLEEP $$$ \(feat\. Young Jonn\)](https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 3:07 |
 | 17 | [Shut Up](https://open.spotify.com/track/3LuSjVLN13xR6WO01Mv5ta) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Shut Up](https://open.spotify.com/album/4kvqQHjh1FTCxFPhBdHu0j) | 3:12 |
 | 18 | [100 MILLION \(feat\. Tiwa Savage\)](https://open.spotify.com/track/455xPBUG4AFMMGiVEv91fC) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [100 MILLION](https://open.spotify.com/album/6zOr6njR2rEbkVlTHncEju) | 2:16 |
-| 19 | [Don't Leave](https://open.spotify.com/track/3e7FAWKNVUGQJvyUQMZ5EB) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9) | 3:05 |
+| 19 | [Otan](https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Otan](https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1) | 3:16 |
 | 20 | [ADISA OGBON \(GOD SENT LAYCON\)](https://open.spotify.com/track/2qqq6gSvMdMpt75GP6uAvD) | [LAYCON](https://open.spotify.com/artist/3ge7WahzUrMDAIdlIcchQP) | [ANY GIVEN MONDAY III](https://open.spotify.com/album/0rKiUKuJeVT67WzL0OsEaW) | 3:12 |
-| 21 | [Otan](https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Otan](https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1) | 3:16 |
+| 21 | [Don't Leave](https://open.spotify.com/track/3e7FAWKNVUGQJvyUQMZ5EB) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9) | 3:05 |
 | 22 | [Fire on Me](https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Fire on Me](https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT) | 2:14 |
 | 23 | [Always \(feat\. Black Sherif\)](https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Always \(feat\. Black Sherif\)](https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH) | 2:34 |
 | 24 | [Ekelebe \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/0hhOltFiPTK40diKYu2mU2) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Ekelebe \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/album/19N0mCaeYf3EhJcRGlRGYw) | 3:42 |

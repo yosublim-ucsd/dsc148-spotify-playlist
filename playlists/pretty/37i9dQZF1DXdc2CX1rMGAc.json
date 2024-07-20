@@ -1,6 +1,6 @@
 {
   "description": "Latin tunes to get your beast mode on!",
-  "num_followers": 209684,
+  "num_followers": 209748,
   "original_name": "Beast Mode Latin",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,30 @@
     {
       "added_at": "2024-06-21 09:06:20",
       "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "duration_ms": 197101,
+      "name": "LOKERA",
+      "url": "https://open.spotify.com/track/1aUq8rjW1EwkAkMri4VfJy"
+    },
+    {
+      "added_at": "2024-06-21 09:06:20",
+      "album": {
         "name": "BESAME (feat. Tiago PZK, Khea & Neo Pistea) [Remix]",
         "url": "https://open.spotify.com/album/6rkhVb5zrsbR24Rpno9kHq"
       },
@@ -731,30 +755,6 @@
       "duration_ms": 284308,
       "name": "BESAME (feat. Tiago PZK, Khea & Neo Pistea) - Remix",
       "url": "https://open.spotify.com/track/3GD6eImRvT0zgr8cQnokUq"
-    },
-    {
-      "added_at": "2024-06-21 09:06:20",
-      "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        }
-      ],
-      "duration_ms": 197101,
-      "name": "LOKERA",
-      "url": "https://open.spotify.com/track/1aUq8rjW1EwkAkMri4VfJy"
     },
     {
       "added_at": "2024-06-21 09:06:20",
@@ -1447,6 +1447,26 @@
     {
       "added_at": "2024-06-21 09:06:20",
       "album": {
+        "name": "Teka (with Peso Pluma)",
+        "url": "https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Teka (with Peso Pluma)",
+      "url": "https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk"
+    },
+    {
+      "added_at": "2024-06-21 09:06:20",
+      "album": {
         "name": "DESATAAA",
         "url": "https://open.spotify.com/album/7Ja7q53ewWXSOGM9MSmted"
       },
@@ -1467,26 +1487,6 @@
       "duration_ms": 197383,
       "name": "DESATAAA",
       "url": "https://open.spotify.com/track/2vh03XeMmNRwxiAztk01Pe"
-    },
-    {
-      "added_at": "2024-06-21 09:06:20",
-      "album": {
-        "name": "Teka (with Peso Pluma)",
-        "url": "https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "Teka (with Peso Pluma)",
-      "url": "https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk"
     },
     {
       "added_at": "2024-06-21 09:06:20",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-06-21 09:06:20",
       "album": {
+        "name": "Single",
+        "url": "https://open.spotify.com/album/1lfjZUYySyfNnrpntQHVYW"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Single",
+      "url": "https://open.spotify.com/track/7cBSPzz0kNgc1ghLddrDxZ"
+    },
+    {
+      "added_at": "2024-06-21 09:06:20",
+      "album": {
         "name": "EXCESO",
         "url": "https://open.spotify.com/album/2j9oqldlB7MHc3MTjV3YSb"
       },
@@ -1683,18 +1699,22 @@
     {
       "added_at": "2024-06-21 09:06:20",
       "album": {
-        "name": "Single",
-        "url": "https://open.spotify.com/album/1lfjZUYySyfNnrpntQHVYW"
+        "name": "Desesperados",
+        "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
       },
       "artists": [
         {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 178181,
-      "name": "Single",
-      "url": "https://open.spotify.com/track/7cBSPzz0kNgc1ghLddrDxZ"
+      "duration_ms": 224996,
+      "name": "Desesperados",
+      "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
     },
     {
       "added_at": "2024-06-21 09:06:20",
@@ -1723,26 +1743,6 @@
       "duration_ms": 219358,
       "name": "GODIVA",
       "url": "https://open.spotify.com/track/3DY25d8SrkLEI6Xugzf6tT"
-    },
-    {
-      "added_at": "2024-06-21 09:06:20",
-      "album": {
-        "name": "Desesperados",
-        "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 224996,
-      "name": "Desesperados",
-      "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
     },
     {
       "added_at": "2024-06-21 09:06:20",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2024-06-21 09:06:20",
       "album": {
+        "name": "Quien Es Dei V?",
+        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 162244,
+      "name": "Quien Es Dei V?",
+      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
+    },
+    {
+      "added_at": "2024-06-21 09:06:20",
+      "album": {
         "name": "R\u00c1PIDO",
         "url": "https://open.spotify.com/album/2D5urBuawvNIrKdxO0X1pe"
       },
@@ -1803,26 +1819,6 @@
       "duration_ms": 182857,
       "name": "R\u00c1PIDO",
       "url": "https://open.spotify.com/track/6peVAUzSxDlTigQw5T99O5"
-    },
-    {
-      "added_at": "2024-06-21 09:06:20",
-      "album": {
-        "name": "Si La Mami",
-        "url": "https://open.spotify.com/album/79uKrGBtEMy9IhnbH3sM5c"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Brand Randall",
-          "url": "https://open.spotify.com/artist/76iz3JNOhCYTh7QgjFZkhL"
-        }
-      ],
-      "duration_ms": 176326,
-      "name": "Si La Mami",
-      "url": "https://open.spotify.com/track/3HEsgWS7O1kpNkNMwRA3Kg"
     },
     {
       "added_at": "2024-06-21 09:06:20",
@@ -1851,6 +1847,26 @@
     {
       "added_at": "2024-06-21 09:06:20",
       "album": {
+        "name": "Si La Mami",
+        "url": "https://open.spotify.com/album/79uKrGBtEMy9IhnbH3sM5c"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Brand Randall",
+          "url": "https://open.spotify.com/artist/76iz3JNOhCYTh7QgjFZkhL"
+        }
+      ],
+      "duration_ms": 176326,
+      "name": "Si La Mami",
+      "url": "https://open.spotify.com/track/3HEsgWS7O1kpNkNMwRA3Kg"
+    },
+    {
+      "added_at": "2024-06-21 09:06:20",
+      "album": {
         "name": "BONNIE AND CLYDE (REMIX)",
         "url": "https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om"
       },
@@ -1871,42 +1887,6 @@
       "duration_ms": 286265,
       "name": "BONNIE AND CLYDE - REMIX",
       "url": "https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV"
-    },
-    {
-      "added_at": "2024-06-21 09:06:20",
-      "album": {
-        "name": "Quien Es Dei V?",
-        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 162244,
-      "name": "Quien Es Dei V?",
-      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
-    },
-    {
-      "added_at": "2024-06-21 09:06:20",
-      "album": {
-        "name": "Gimme A Second",
-        "url": "https://open.spotify.com/album/01wFnLBPNdYcg05kJDkdbQ"
-      },
-      "artists": [
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 173067,
-      "name": "Gimme A Second",
-      "url": "https://open.spotify.com/track/1xcMA2bFuMseSFaJgpSeXx"
     },
     {
       "added_at": "2024-06-21 09:06:20",
@@ -1939,6 +1919,26 @@
       "duration_ms": 346000,
       "name": "PACTO (feat. Bryant Myers & Dei V) - Remix",
       "url": "https://open.spotify.com/track/2VOXLA9TzOAVCjDi7RY5DV"
+    },
+    {
+      "added_at": "2024-06-21 09:06:20",
+      "album": {
+        "name": "Gimme A Second",
+        "url": "https://open.spotify.com/album/01wFnLBPNdYcg05kJDkdbQ"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 173067,
+      "name": "Gimme A Second",
+      "url": "https://open.spotify.com/track/1xcMA2bFuMseSFaJgpSeXx"
     },
     {
       "added_at": "2024-06-21 09:06:20",
@@ -2039,30 +2039,6 @@
     {
       "added_at": "2024-06-21 09:06:20",
       "album": {
-        "name": "NO SON KLLE",
-        "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 223586,
-      "name": "NO SON KLLE",
-      "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
-    },
-    {
-      "added_at": "2024-06-21 09:06:20",
-      "album": {
         "name": "Y Yo Me Le Pego",
         "url": "https://open.spotify.com/album/6iCJj6kFxBEoswtbzxxlBu"
       },
@@ -2083,6 +2059,30 @@
       "duration_ms": 172806,
       "name": "Y Yo Me Le Pego",
       "url": "https://open.spotify.com/track/4PpktF1wMyXtNgADgcdgqT"
+    },
+    {
+      "added_at": "2024-06-21 09:06:20",
+      "album": {
+        "name": "NO SON KLLE",
+        "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 223586,
+      "name": "NO SON KLLE",
+      "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
     },
     {
       "added_at": "2024-06-21 09:06:20",

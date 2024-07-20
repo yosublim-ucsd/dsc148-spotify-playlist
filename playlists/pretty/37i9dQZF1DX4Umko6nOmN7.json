@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 620309,
+  "num_followers": 620347,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "A Beautiful Life (Music From The Netflix Film)",
-        "url": "https://open.spotify.com/album/6Gp4FYNauiy3p5g2Xd0g9C"
-      },
-      "artists": [
-        {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "A Beautiful Life (From the Netflix Film \u2018A Beautiful Life\u2019)",
-      "url": "https://open.spotify.com/track/2e6JU6XBm7w0FnHyQqrqMs"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Everywhere, Everything (with Gracie Abrams)",
         "url": "https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 257668,
       "name": "Everywhere, Everything (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "A Beautiful Life (Music From The Netflix Film)",
+        "url": "https://open.spotify.com/album/6Gp4FYNauiy3p5g2Xd0g9C"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "A Beautiful Life (From the Netflix Film \u2018A Beautiful Life\u2019)",
+      "url": "https://open.spotify.com/track/2e6JU6XBm7w0FnHyQqrqMs"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Wonderful",
-        "url": "https://open.spotify.com/album/3BwgvjyD1pDNyj1VLW0dBw"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 226689,
-      "name": "Wonderful",
-      "url": "https://open.spotify.com/track/3Jm4XJix6nkGiY3IY8mPyu"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Mirror (Deluxe)",
         "url": "https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 175550,
       "name": "Sad Forever",
       "url": "https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Wonderful",
+        "url": "https://open.spotify.com/album/3BwgvjyD1pDNyj1VLW0dBw"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 226689,
+      "name": "Wonderful",
+      "url": "https://open.spotify.com/track/3Jm4XJix6nkGiY3IY8mPyu"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "f\u00f6r oss",
-        "url": "https://open.spotify.com/album/2hgV0AVu9hB4smSue0gPoV"
-      },
-      "artists": [
-        {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "f\u00f6r oss",
-      "url": "https://open.spotify.com/track/1sxW6Pauxd9qCXrXOli0Xu"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/0yiKEn4Xgl1M8HSlmTWNS2"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 250481,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/0uWn41XAyeYza4CIubkoD4"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "f\u00f6r oss",
+        "url": "https://open.spotify.com/album/2hgV0AVu9hB4smSue0gPoV"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "f\u00f6r oss",
+      "url": "https://open.spotify.com/track/1sxW6Pauxd9qCXrXOli0Xu"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "P\u00e5 svenska",
+        "url": "https://open.spotify.com/album/59yVJJgWzN71NZtKnwqeci"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "R\u00f6da sten",
+      "url": "https://open.spotify.com/track/2cwxukwW922rPXcKYWvLlu"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "The Parting Glass",
         "url": "https://open.spotify.com/album/3hapDRjTtKNAQOuavK6vgO"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 251000,
       "name": "The Parting Glass",
       "url": "https://open.spotify.com/track/0bbZ3J2KdCT92SlBFORNNU"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "P\u00e5 svenska",
-        "url": "https://open.spotify.com/album/59yVJJgWzN71NZtKnwqeci"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "R\u00f6da sten",
-      "url": "https://open.spotify.com/track/2cwxukwW922rPXcKYWvLlu"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "dina armar",
-        "url": "https://open.spotify.com/album/6ICpgNNwn9bPnZQYwzIUaV"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 196830,
-      "name": "dina armar",
-      "url": "https://open.spotify.com/track/3tfqBXCA2HlQ5GldoqrWUc"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Till dig",
         "url": "https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 211000,
       "name": "Du & jag",
       "url": "https://open.spotify.com/track/5lD4PboLvP3yWc3MCULsRb"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "dina armar",
+        "url": "https://open.spotify.com/album/6ICpgNNwn9bPnZQYwzIUaV"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "duration_ms": 196830,
+      "name": "dina armar",
+      "url": "https://open.spotify.com/track/3tfqBXCA2HlQ5GldoqrWUc"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "day i die",
-        "url": "https://open.spotify.com/album/7mv2k44vhKlpDu8uv3j8YO"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 175600,
-      "name": "day i die",
-      "url": "https://open.spotify.com/track/1UhDG1nEctrXaCJR85p0iF"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Fragile Thing",
         "url": "https://open.spotify.com/album/1DP01efbCq7HrWl9Yj3JDj"
       },
@@ -1583,22 +1567,6 @@
       "duration_ms": 168561,
       "name": "Fragile Thing",
       "url": "https://open.spotify.com/track/6WThsZZ0AaMNm4UkBnMmiB"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "B\u00f6rja Om",
-        "url": "https://open.spotify.com/album/1lCZ0uYsLyMlV7gdcwQstQ"
-      },
-      "artists": [
-        {
-          "name": "Sara Zacharias",
-          "url": "https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg"
-        }
-      ],
-      "duration_ms": 176809,
-      "name": "B\u00f6rja Om",
-      "url": "https://open.spotify.com/track/1voYsDwEAjE2bwTRuGAl9Y"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1619,34 +1587,34 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Stj\u00e4rnorna inatt",
-        "url": "https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO"
+        "name": "B\u00f6rja Om",
+        "url": "https://open.spotify.com/album/1lCZ0uYsLyMlV7gdcwQstQ"
       },
       "artists": [
         {
-          "name": "Lilla London",
-          "url": "https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD"
+          "name": "Sara Zacharias",
+          "url": "https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg"
         }
       ],
-      "duration_ms": 207160,
-      "name": "Stj\u00e4rnorna inatt",
-      "url": "https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N"
+      "duration_ms": 176809,
+      "name": "B\u00f6rja Om",
+      "url": "https://open.spotify.com/track/1voYsDwEAjE2bwTRuGAl9Y"
     },
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Hard To Love",
-        "url": "https://open.spotify.com/album/0jXxDV0TkGE6f5MezsGFrU"
+        "name": "day i die",
+        "url": "https://open.spotify.com/album/7mv2k44vhKlpDu8uv3j8YO"
       },
       "artists": [
         {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 167099,
-      "name": "Hard to Love",
-      "url": "https://open.spotify.com/track/6QV6miSjUtqppivpjwDZgI"
+      "duration_ms": 175600,
+      "name": "day i die",
+      "url": "https://open.spotify.com/track/1UhDG1nEctrXaCJR85p0iF"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1671,6 +1639,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/0jXxDV0TkGE6f5MezsGFrU"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 167099,
+      "name": "Hard to Love",
+      "url": "https://open.spotify.com/track/6QV6miSjUtqppivpjwDZgI"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Mellanrum",
         "url": "https://open.spotify.com/album/0b2CZlHGerSdrW7Qz3efMw"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 138000,
       "name": "Mellanrum",
       "url": "https://open.spotify.com/track/0oNtjyHqfsBx6XiK1CucD1"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Min melodi",
+        "url": "https://open.spotify.com/album/6abLZBmoqARTk4IEUsI32h"
+      },
+      "artists": [
+        {
+          "name": "Melina Borglowe",
+          "url": "https://open.spotify.com/artist/6iuKUTViI8eNiiZN8hOkFj"
+        }
+      ],
+      "duration_ms": 179868,
+      "name": "Min melodi",
+      "url": "https://open.spotify.com/track/00Nupca8NtYSA00HNh3elc"
     }
   ],
   "unique_name": "Lugnt & Sk\u00f6nt",

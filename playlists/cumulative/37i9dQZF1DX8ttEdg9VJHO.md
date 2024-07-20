@@ -4,11 +4,12 @@
 
 > Für ein bisschen mehr Leichtigkeit.
 
-111 songs - 5 hr 44 min
+112 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [20s](https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [20s](https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc) | 3:04 | 2023-07-14 |  |
+| [Ain't Just a Game](https://open.spotify.com/track/767X07pxPQM1N9mtjzEdbQ) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Ain't Just a Game](https://open.spotify.com/album/6sJQlrlv2c6BYY3lIYBuZB) | 2:43 | 2024-07-19 |  |
 | [All I Know So Far](https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [All I Know So Far](https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH) | 4:37 | 2023-07-14 |  |
 | [Angel Eyes](https://open.spotify.com/track/5NId2tRxupzFAOPsRDfCxY) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Angel Eyes](https://open.spotify.com/album/0vHQE5yaLhJZmGc8lUnxCd) | 2:50 | 2023-09-15 |  |
 | [Are You Satisfied?](https://open.spotify.com/track/411Hvulc0PrGQLOHljTYed) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7) | 3:21 | 2023-09-06 | 2023-10-21 |
@@ -30,7 +31,7 @@
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2023-07-14 |  |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-07-14 |  |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3yphjkz7V5xFXdfBEXVKL6) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73) | 2:53 | 2024-03-27 | 2024-04-19 |
-| [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-07-14 |  |
+| [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-07-14 | 2024-07-20 |
 | [Dance Before We Walk \(From “The Idea of You”\)](https://open.spotify.com/track/7xELUwXl4BJq1Hm3PE2v1R) | [August Moon](https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA) | [Dance Before We Walk \(From “The Idea of You”\)](https://open.spotify.com/album/6cJvVRDKO1eZcKomjxVQUK) | 2:37 | 2024-05-10 |  |
 | [Der letzte Tanz](https://open.spotify.com/track/3JtIS5WNPJokeMeEVnWWEM) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Der letzte Tanz](https://open.spotify.com/album/57V0HkA8vDHxpACqWNqQcO) | 3:20 | 2023-07-14 |  |
 | [Driver](https://open.spotify.com/track/49k2jh99QkPqPIZgOzaW9g) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Driver](https://open.spotify.com/album/4TxQ4d9et83FNlbcyEO9s5) | 3:10 | 2024-03-27 | 2024-04-24 |
@@ -66,7 +67,7 @@
 | [It Is What It Is](https://open.spotify.com/track/1558CwDaXSZiCplq9AaH0q) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [It Is What It Is](https://open.spotify.com/album/1WFMXKtfmcwsojf8gSEXm5) | 2:26 | 2023-09-06 |  |
 | [Jim Carrey](https://open.spotify.com/track/1Jo2xoLjy1EfU8n7jLL6qN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Jim Carrey](https://open.spotify.com/album/5Oy1LcmGT63jjU7ave3oyH) | 3:03 | 2023-09-06 | 2023-09-17 |
 | [Jim Carrey](https://open.spotify.com/track/6nTTiI03SJDXC9252gWGrN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:03 | 2023-09-15 | 2024-04-19 |
-| [Keep It Low](https://open.spotify.com/track/1lvLAlvWIuE6UinQffsWVb) | [Martis](https://open.spotify.com/artist/4IlwiL1INGzXlZLcXM5dRI) | [Keep It Low](https://open.spotify.com/album/44X8n4NJte0z53s6ENScsA) | 2:52 | 2023-07-14 | 2024-07-16 |
+| [Keep It Low](https://open.spotify.com/track/1lvLAlvWIuE6UinQffsWVb) | [Martis](https://open.spotify.com/artist/4IlwiL1INGzXlZLcXM5dRI) | [Keep It Low](https://open.spotify.com/album/44X8n4NJte0z53s6ENScsA) | 2:52 | 2023-07-14 |  |
 | [Kreise](https://open.spotify.com/track/1ocmRsEMI6nO9d9BdQbXNI) | [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K) | [Kreise](https://open.spotify.com/album/7EJ7tw1jSJdW2C0enoLQXS) | 3:41 | 2023-07-14 |  |
 | [Last Call](https://open.spotify.com/track/4EXfwVdsRBBcyuSSy3CMlT) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 2:31 | 2023-07-14 | 2024-03-16 |
 | [Last Call](https://open.spotify.com/track/5QOKsL8sdbosNPxDFJNPQz) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Last Call](https://open.spotify.com/album/1Va7zXtwepB11AFFmJAq1l) | 2:31 | 2024-03-27 |  |
@@ -82,7 +83,7 @@
 | [miss me \(when you're gone\)](https://open.spotify.com/track/4FEPb06xIBFoqAvpRjliqY) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [miss me \(when you're gone\) \[remixes\]](https://open.spotify.com/album/3424gEK5H7r3IWM5Jdn39t) | 3:04 | 2023-07-14 | 2023-11-05 |
 | [Miss Me Too](https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Miss Me Too](https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N) | 3:02 | 2024-04-24 |  |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2023-07-14 |  |
-| [Nangilima](https://open.spotify.com/track/75eWcdirphZClDeEinSvnp) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA) | 3:46 | 2024-03-27 |  |
+| [Nangilima](https://open.spotify.com/track/75eWcdirphZClDeEinSvnp) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA) | 3:46 | 2024-03-27 | 2024-07-20 |
 | [Nights Like This](https://open.spotify.com/track/583Fc6qU9thMdXu64j1Wus) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Nights Like This](https://open.spotify.com/album/3zk9C1O8NXlF4wzc9hqzJi) | 3:10 | 2023-07-14 |  |
 | [NO](https://open.spotify.com/track/0l0CvurVUrr2w3Jj1hOVFc) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe Version\)](https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL) | 3:33 | 2023-07-14 |  |
 | [Not Ready](https://open.spotify.com/track/2O9VKLv8pPmGM3PHTzQrKA) | [Myle](https://open.spotify.com/artist/1EhPRkK8hf1SzrDhzPlaMw) | [Not Ready](https://open.spotify.com/album/3ehwkHOVfqCDgizH3vGXLa) | 3:00 | 2023-07-14 | 2024-06-17 |

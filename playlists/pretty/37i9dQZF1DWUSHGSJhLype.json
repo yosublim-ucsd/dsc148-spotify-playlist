@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi farofa a\u00e7a\u00ed cm peixe frito enfim desfrute / Foto: Mc NATTAN, Ana Castela",
-  "num_followers": 529333,
+  "num_followers": 529583,
   "original_name": "PURO CALDO DE BRASIL",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,30 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "Vamo de Pagodin",
+        "url": "https://open.spotify.com/album/5Fn3Y1kin9K4bEv71S728q"
+      },
+      "artists": [
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "DJ WN",
+          "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
+        },
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+        }
+      ],
+      "duration_ms": 160864,
+      "name": "Vamo de Pagodin",
+      "url": "https://open.spotify.com/track/6FllOXq1UDCFDt1V4YvN3K"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "Baile do Bruxo (DELUXE)",
         "url": "https://open.spotify.com/album/0S3pM5Z9LfLBU6IdYFJxiA"
       },
@@ -271,30 +295,6 @@
       "duration_ms": 121384,
       "name": "TUMB\u00c1TUM",
       "url": "https://open.spotify.com/track/24R0oyjvhV4HIFFvoK3XkP"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Vamo de Pagodin",
-        "url": "https://open.spotify.com/album/5Fn3Y1kin9K4bEv71S728q"
-      },
-      "artists": [
-        {
-          "name": "Mc Daniel",
-          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
-        },
-        {
-          "name": "DJ WN",
-          "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
-        },
-        {
-          "name": "Dj GM",
-          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
-        }
-      ],
-      "duration_ms": 160864,
-      "name": "Vamo de Pagodin",
-      "url": "https://open.spotify.com/track/6FllOXq1UDCFDt1V4YvN3K"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -371,26 +371,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "ENTRA NA DEFENDER",
-        "url": "https://open.spotify.com/album/3QqoDKJiiYzJhlwhpcszsO"
-      },
-      "artists": [
-        {
-          "name": "Luan Pereira",
-          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
-        },
-        {
-          "name": "Mc Daniel",
-          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
-        }
-      ],
-      "duration_ms": 174727,
-      "name": "ENTRA NA DEFENDER",
-      "url": "https://open.spotify.com/track/6P1mkNAmgihFwFRBhpaev3"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "MTG PASSA PASSA PRA EU SARRAR",
         "url": "https://open.spotify.com/album/0oIoNUs6nCleWflBj6tSPY"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 133610,
       "name": "Dia de Fluxo",
       "url": "https://open.spotify.com/track/6GmyQws2xpUFIN5dXBNTrl"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "ENTRA NA DEFENDER",
+        "url": "https://open.spotify.com/album/3QqoDKJiiYzJhlwhpcszsO"
+      },
+      "artists": [
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        }
+      ],
+      "duration_ms": 174727,
+      "name": "ENTRA NA DEFENDER",
+      "url": "https://open.spotify.com/track/6P1mkNAmgihFwFRBhpaev3"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "Carinha de Beb\u00ea",
+        "url": "https://open.spotify.com/album/3rUoVCrA04JXWIrpOQqZhl"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 175725,
+      "name": "Carinha de Beb\u00ea",
+      "url": "https://open.spotify.com/track/2jZrMlMuTk1N3LJS8yQM6q"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "S\u00f3 um Pagode (Ao Vivo)",
         "url": "https://open.spotify.com/album/4RTvrQ9CgC2jhjOBya0RaZ"
       },
@@ -1139,26 +1159,6 @@
       "duration_ms": 187562,
       "name": "Posturado E Calmo",
       "url": "https://open.spotify.com/track/15nTZqWfpXZk9Xh043Ognh"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Carinha de Beb\u00ea",
-        "url": "https://open.spotify.com/album/3rUoVCrA04JXWIrpOQqZhl"
-      },
-      "artists": [
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        },
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 175725,
-      "name": "Carinha de Beb\u00ea",
-      "url": "https://open.spotify.com/track/2jZrMlMuTk1N3LJS8yQM6q"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Golzinho Vermelho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7ua7P2NJBNVH5Jej9PVMv3"
-      },
-      "artists": [
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        }
-      ],
-      "duration_ms": 155050,
-      "name": "Golzinho Vermelho - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Htol3nnPzphX76oORiNHb"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Pode Cr\u00ea (Ao Vivo)",
         "url": "https://open.spotify.com/album/1RgyCNTHPkg1IxFO0d6bhQ"
       },
@@ -1291,22 +1271,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Ao Vivo em Fortaleza",
-        "url": "https://open.spotify.com/album/3M5e9wnEYLRGlavA36KwAr"
+        "name": "Golzinho Vermelho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7ua7P2NJBNVH5Jej9PVMv3"
       },
       "artists": [
         {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
         },
         {
           "name": "NATTAN",
           "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
         }
       ],
-      "duration_ms": 180410,
-      "name": "Comunica\u00e7\u00e3o Falhou - Ao Vivo",
-      "url": "https://open.spotify.com/track/7bhvRvE56NHBvedx0EeALS"
+      "duration_ms": 155050,
+      "name": "Golzinho Vermelho - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Htol3nnPzphX76oORiNHb"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1331,6 +1311,26 @@
       "duration_ms": 141230,
       "name": "Clack Bum",
       "url": "https://open.spotify.com/track/5DrDpWyvharQkhsloNTN9W"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Ao Vivo em Fortaleza",
+        "url": "https://open.spotify.com/album/3M5e9wnEYLRGlavA36KwAr"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        },
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "duration_ms": 180410,
+      "name": "Comunica\u00e7\u00e3o Falhou - Ao Vivo",
+      "url": "https://open.spotify.com/track/7bhvRvE56NHBvedx0EeALS"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1367,18 +1367,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Botadinha Saliente",
-        "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
+        "name": "Sofr\u00eancia Ou Fuleragem? (Ao Vivo / Parte 2)",
+        "url": "https://open.spotify.com/album/54W7v0wwVhbrc4HfwtsutS"
       },
       "artists": [
         {
-          "name": "Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Botadinha Saliente",
-      "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy"
+      "duration_ms": 171100,
+      "name": "Cama Repetida",
+      "url": "https://open.spotify.com/track/0wuj2T6IZtotux1Jjluo7m"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1403,22 +1407,38 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Sofr\u00eancia Ou Fuleragem? (Ao Vivo / Parte 2)",
-        "url": "https://open.spotify.com/album/54W7v0wwVhbrc4HfwtsutS"
+        "name": "Botadinha Saliente",
+        "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
       },
       "artists": [
         {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+          "name": "Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
         }
       ],
-      "duration_ms": 171100,
-      "name": "Cama Repetida",
-      "url": "https://open.spotify.com/track/0wuj2T6IZtotux1Jjluo7m"
+      "duration_ms": 158000,
+      "name": "Botadinha Saliente",
+      "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "CHIHIRO",
+        "url": "https://open.spotify.com/album/7bjKMqVLAEYU4q7TWrzOs6"
+      },
+      "artists": [
+        {
+          "name": "Mul\u00fa",
+          "url": "https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "CHIHIRO",
+      "url": "https://open.spotify.com/track/0GtGtRY3SB3tlfLYiFtrEw"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1447,26 +1467,6 @@
       "duration_ms": 135892,
       "name": "Ombrim (ai que delicia o ver\u00e3o) (feat. Mts No Beat)",
       "url": "https://open.spotify.com/track/4bxAq0zgWQKMaQJ7HLJJxk"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "CHIHIRO",
-        "url": "https://open.spotify.com/album/7bjKMqVLAEYU4q7TWrzOs6"
-      },
-      "artists": [
-        {
-          "name": "Mul\u00fa",
-          "url": "https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ"
-        },
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "CHIHIRO",
-      "url": "https://open.spotify.com/track/0GtGtRY3SB3tlfLYiFtrEw"
     },
     {
       "added_at": "2024-07-19 03:00:00",

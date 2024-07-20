@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,586,163 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,586,213 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 57 | [Fearless](https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Fearless](https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72) | 2:20 |
 | 58 | [Obsolete \- Sullivan King Remix](https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Echo \(Deluxe Version\)](https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG) | 3:05 |
 | 59 | [Torture](https://open.spotify.com/track/4Z3lOky8FsA5o53jM9nQg4) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Franky Nuts](https://open.spotify.com/artist/3YZPramylP3cGeVkbykhVZ), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [UNSOUND 2](https://open.spotify.com/album/1Y3qKvJSEFyxxVvK8p2dWf) | 3:52 |
-| 60 | [BLUDGEON](https://open.spotify.com/track/0eCgjHLjV9rXpqykWiTtnp) | [MARAUDA](https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4) | [BLUDGEON](https://open.spotify.com/album/0CSke85jF5vljIhbjYBS6h) | 2:57 |
-| 61 | [Bloodbath](https://open.spotify.com/track/7z35ELbZv0zResMSqwsoKa) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Bloodbath](https://open.spotify.com/album/1PTOieMAfJSzcxdn2hkjtt) | 3:20 |
+| 60 | [Bloodbath](https://open.spotify.com/track/7z35ELbZv0zResMSqwsoKa) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Bloodbath](https://open.spotify.com/album/1PTOieMAfJSzcxdn2hkjtt) | 3:20 |
+| 61 | [BLUDGEON](https://open.spotify.com/track/0eCgjHLjV9rXpqykWiTtnp) | [MARAUDA](https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4) | [BLUDGEON](https://open.spotify.com/album/0CSke85jF5vljIhbjYBS6h) | 2:57 |
 | 62 | [NECROMANCER](https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [NECROMANCER EP](https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w) | 3:48 |
 | 63 | [Feel The Vibe](https://open.spotify.com/track/5uubpHWcBAXoPSoBXY45vW) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl) | [Feel The Vibe](https://open.spotify.com/album/4hBRcZ9fXJULxdOSvpOkuD) | 3:22 |
 | 64 | [NEXT LVL](https://open.spotify.com/track/6uaKtnOTKImR5B6cU8FXjo) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [NEXT LVL](https://open.spotify.com/album/1rhMrfqiJY4q1KtEzmjx2o) | 2:35 |

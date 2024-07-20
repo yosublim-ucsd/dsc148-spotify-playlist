@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 
 > layan je
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,559 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,620 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 28 | [Nanti Kita Seperti Ini](https://open.spotify.com/track/2NjbJR8y083mOV59255QSe) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Nanti Kita Seperti Ini](https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT) | 3:29 |
 | 29 | [Jiwa Yang Bersedih](https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Jiwa Yang Bersedih](https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL) | 4:38 |
 | 30 | [Tak Kan Hilang](https://open.spotify.com/track/1USA6DXJ1qsucoKnDu4vnu) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Tak Kan Hilang](https://open.spotify.com/album/6JmBf13wUd3kJEdoXgbZy5) | 4:01 |
-| 31 | [Untuk Mencintaimu](https://open.spotify.com/track/04tvOIuyk8y0QVA8Ta0UOd) | [Seventeen](https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ) | [Lelaki Hebat](https://open.spotify.com/album/3vTH8RPuIqcjnBA2T0cSC9) | 3:29 |
-| 32 | [Kisah Tanpa Dirimu](https://open.spotify.com/track/3ptRODxVj328j6TnW33Zj3) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Kisah Tanpa Dirimu](https://open.spotify.com/album/3n3wxffHONB1v1idVCoMcK) | 4:17 |
+| 31 | [Kisah Tanpa Dirimu](https://open.spotify.com/track/3ptRODxVj328j6TnW33Zj3) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Kisah Tanpa Dirimu](https://open.spotify.com/album/3n3wxffHONB1v1idVCoMcK) | 4:17 |
+| 32 | [Untuk Mencintaimu](https://open.spotify.com/track/04tvOIuyk8y0QVA8Ta0UOd) | [Seventeen](https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ) | [Lelaki Hebat](https://open.spotify.com/album/3vTH8RPuIqcjnBA2T0cSC9) | 3:29 |
 | 33 | [Rumah](https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Rumah](https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn) | 4:18 |
 | 34 | [Bawalah Cintaku](https://open.spotify.com/track/3xpMytpniCnjXCgy7TcFDw) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [The One](https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg) | 3:53 |
 | 35 | [Lagu Pernikahan Kita](https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Lagu Pernikahan Kita](https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu) | 4:21 |

@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 684653,
+  "num_followers": 684762,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "Yellow - Spotify Singles",
-        "url": "https://open.spotify.com/album/6lzLiRiEqZHySJVfbv86i0"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 269967,
-      "name": "Yellow - Spotify Singles",
-      "url": "https://open.spotify.com/track/6VDuCryADxIMCNLCfyovtO"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "End of Beginning (triple j Like A Version)",
         "url": "https://open.spotify.com/album/6kYV3c03FkP5EpT9Ow1AZD"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 158617,
       "name": "End of Beginning - triple j Like A Version",
       "url": "https://open.spotify.com/track/4zw1CzJ4ePqLazD6xZ32Vz"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "Yellow - Spotify Singles",
+        "url": "https://open.spotify.com/album/6lzLiRiEqZHySJVfbv86i0"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 269967,
+      "name": "Yellow - Spotify Singles",
+      "url": "https://open.spotify.com/track/6VDuCryADxIMCNLCfyovtO"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "Hooked On A Feeling - Spotify Singles",
-        "url": "https://open.spotify.com/album/4jlPlNZFyZa1bCFRp2N7fn"
-      },
-      "artists": [
-        {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
-        }
-      ],
-      "duration_ms": 134052,
-      "name": "Hooked On A Feeling - Spotify Singles",
-      "url": "https://open.spotify.com/track/7t8vTwXLc7EZqTo9t88LTH"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "For What It's Worth",
         "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 292040,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "Hooked On A Feeling - Spotify Singles",
+        "url": "https://open.spotify.com/album/4jlPlNZFyZa1bCFRp2N7fn"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 134052,
+      "name": "Hooked On A Feeling - Spotify Singles",
+      "url": "https://open.spotify.com/track/7t8vTwXLc7EZqTo9t88LTH"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "Fortunate Son",
-        "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
-      },
-      "artists": [
-        {
-          "name": "The Dead Daisies",
-          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "Mississippi Queen/Slow Hand",
         "url": "https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 152973,
       "name": "Mississippi Queen",
       "url": "https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "Fortunate Son",
+        "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
+      },
+      "artists": [
+        {
+          "name": "The Dead Daisies",
+          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "Comandante",
-        "url": "https://open.spotify.com/album/0XicAYGRSG7OTZTdsCAhdA"
-      },
-      "artists": [
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 312262,
-      "name": "Voodoo Child",
-      "url": "https://open.spotify.com/track/1LDr80fXBUO4Iqa28mMNCg"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "Summer In the City",
         "url": "https://open.spotify.com/album/3E06stlTQWUMGzysbx6YUu"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 188513,
       "name": "Summer in the City",
       "url": "https://open.spotify.com/track/1yCXPOdArdy2kDPUD1WTeQ"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "Comandante",
+        "url": "https://open.spotify.com/album/0XicAYGRSG7OTZTdsCAhdA"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "duration_ms": 312262,
+      "name": "Voodoo Child",
+      "url": "https://open.spotify.com/track/1LDr80fXBUO4Iqa28mMNCg"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "Holding Out for a Hero (Stripped)",
-        "url": "https://open.spotify.com/album/03v7PCLu8jomBjLh96hPG4"
-      },
-      "artists": [
-        {
-          "name": "Kelsy Karter & The Heroines",
-          "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Holding Out for a Hero - Stripped",
-      "url": "https://open.spotify.com/track/5N9LUibd7Fwxa7y2hEzGU6"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "Royals",
         "url": "https://open.spotify.com/album/5s43GovfaEXhryRE71wH9c"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 216193,
       "name": "Royals",
       "url": "https://open.spotify.com/track/2kRzQJ6CBubjaLBbDIuLra"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "Holding Out for a Hero (Stripped)",
+        "url": "https://open.spotify.com/album/03v7PCLu8jomBjLh96hPG4"
+      },
+      "artists": [
+        {
+          "name": "Kelsy Karter & The Heroines",
+          "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Holding Out for a Hero - Stripped",
+      "url": "https://open.spotify.com/track/5N9LUibd7Fwxa7y2hEzGU6"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -2367,6 +2367,22 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
+        "name": "Sugar We\u2019re Goin Down",
+        "url": "https://open.spotify.com/album/70Jry5eQg2mZzWGebXkwZR"
+      },
+      "artists": [
+        {
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+        }
+      ],
+      "duration_ms": 221481,
+      "name": "Sugar We\u2019re Goin Down",
+      "url": "https://open.spotify.com/track/1WoP8y5Koy4p51ZFGWEacX"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
         "name": "When Doves Cry",
         "url": "https://open.spotify.com/album/302wtl4vr5C1SsCTfBFMsJ"
       },
@@ -2383,22 +2399,6 @@
       "duration_ms": 196938,
       "name": "When Doves Cry",
       "url": "https://open.spotify.com/track/7umzok5rx1Lctwa2pb03OR"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
-        "name": "Sugar We\u2019re Goin Down",
-        "url": "https://open.spotify.com/album/70Jry5eQg2mZzWGebXkwZR"
-      },
-      "artists": [
-        {
-          "name": "Fame on Fire",
-          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
-        }
-      ],
-      "duration_ms": 221481,
-      "name": "Sugar We\u2019re Goin Down",
-      "url": "https://open.spotify.com/track/1WoP8y5Koy4p51ZFGWEacX"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -2451,6 +2451,22 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/2pq4CRO6jIEhmiRobPEBNs"
+      },
+      "artists": [
+        {
+          "name": "Matt Bellamy",
+          "url": "https://open.spotify.com/artist/5M76Uwozk3WE3oYE8TNKoR"
+        }
+      ],
+      "duration_ms": 195345,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/4apfnb6UxfoqQNc9hzsMay"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
         "name": "Orgy of the Damned",
         "url": "https://open.spotify.com/album/3t3ZFkQhYdxBro1D83C8EB"
       },
@@ -2467,22 +2483,6 @@
       "duration_ms": 472253,
       "name": "Papa Was a Rolling Stone (feat. Demi Lovato)",
       "url": "https://open.spotify.com/track/2ZBE2MwgYqw6JgNgUztCVZ"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/2pq4CRO6jIEhmiRobPEBNs"
-      },
-      "artists": [
-        {
-          "name": "Matt Bellamy",
-          "url": "https://open.spotify.com/artist/5M76Uwozk3WE3oYE8TNKoR"
-        }
-      ],
-      "duration_ms": 195345,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/4apfnb6UxfoqQNc9hzsMay"
     },
     {
       "added_at": "2024-07-17 15:08:46",

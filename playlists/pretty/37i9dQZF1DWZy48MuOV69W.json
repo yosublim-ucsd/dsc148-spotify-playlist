@@ -1,6 +1,6 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 72588,
+  "num_followers": 72587,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,18 @@
     {
       "added_at": "2023-12-19 12:10:20",
       "album": {
-        "name": "Merry Christmas Darling",
-        "url": "https://open.spotify.com/album/1tHctD2yAOz3P7fxWCj5aF"
+        "name": "Jazz To The World",
+        "url": "https://open.spotify.com/album/48ZEjUeHqGxS6icwwRMuRh"
       },
       "artists": [
         {
-          "name": "James Lanman",
-          "url": "https://open.spotify.com/artist/1AdskP8cgmAIqfRQkDTJ36"
-        },
-        {
-          "name": "Alanna Vicente",
-          "url": "https://open.spotify.com/artist/7q8ZRdJqcvmbwKBoJCiufK"
+          "name": "Holly Cole",
+          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
         }
       ],
-      "duration_ms": 155641,
-      "name": "Merry Christmas Darling",
-      "url": "https://open.spotify.com/track/6yO8zPQZFMT2u4VUUZ1AO3"
+      "duration_ms": 177293,
+      "name": "Christmas Blues",
+      "url": "https://open.spotify.com/track/3zGmF8FaNTnHq25YlWYhIQ"
     },
     {
       "added_at": "2023-12-19 12:10:20",
@@ -491,34 +487,22 @@
     {
       "added_at": "2023-12-19 12:10:20",
       "album": {
-        "name": "Jazz To The World",
-        "url": "https://open.spotify.com/album/48ZEjUeHqGxS6icwwRMuRh"
+        "name": "Merry Christmas Darling",
+        "url": "https://open.spotify.com/album/1tHctD2yAOz3P7fxWCj5aF"
       },
       "artists": [
         {
-          "name": "Holly Cole",
-          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
-        }
-      ],
-      "duration_ms": 177293,
-      "name": "Christmas Blues",
-      "url": "https://open.spotify.com/track/3zGmF8FaNTnHq25YlWYhIQ"
-    },
-    {
-      "added_at": "2023-12-19 12:10:20",
-      "album": {
-        "name": "A Very Laufey Holiday",
-        "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
-      },
-      "artists": [
+          "name": "James Lanman",
+          "url": "https://open.spotify.com/artist/1AdskP8cgmAIqfRQkDTJ36"
+        },
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Alanna Vicente",
+          "url": "https://open.spotify.com/artist/7q8ZRdJqcvmbwKBoJCiufK"
         }
       ],
-      "duration_ms": 167666,
-      "name": "The Christmas Waltz",
-      "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
+      "duration_ms": 155641,
+      "name": "Merry Christmas Darling",
+      "url": "https://open.spotify.com/track/6yO8zPQZFMT2u4VUUZ1AO3"
     },
     {
       "added_at": "2023-12-19 12:10:20",
@@ -539,22 +523,18 @@
     {
       "added_at": "2023-12-19 12:10:20",
       "album": {
-        "name": "The Christmas Feeling",
-        "url": "https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx"
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
       },
       "artists": [
         {
-          "name": "Peter Asplund",
-          "url": "https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz"
-        },
-        {
-          "name": "Vivian Buczek",
-          "url": "https://open.spotify.com/artist/7pvJqc7hW0HQjoa89jfDPq"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 298813,
-      "name": "Christmas Memories",
-      "url": "https://open.spotify.com/track/1g7y6l9D4nd9N0f34sNHyy"
+      "duration_ms": 167666,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
     },
     {
       "added_at": "2023-12-19 12:10:20",
@@ -571,6 +551,26 @@
       "duration_ms": 262600,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/49HH1FubuHZSbdF64N8OEK"
+    },
+    {
+      "added_at": "2023-12-19 12:10:20",
+      "album": {
+        "name": "The Christmas Feeling",
+        "url": "https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx"
+      },
+      "artists": [
+        {
+          "name": "Peter Asplund",
+          "url": "https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz"
+        },
+        {
+          "name": "Vivian Buczek",
+          "url": "https://open.spotify.com/artist/7pvJqc7hW0HQjoa89jfDPq"
+        }
+      ],
+      "duration_ms": 298813,
+      "name": "Christmas Memories",
+      "url": "https://open.spotify.com/track/1g7y6l9D4nd9N0f34sNHyy"
     },
     {
       "added_at": "2023-12-19 12:10:20",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Artemas
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,610 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,613 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [eehhhyyy](https://open.spotify.com/track/1cXo8i9dgutdqjhjz3Zwqq) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [dafür bin ich frei EP](https://open.spotify.com/album/29zZ3SXwoesoaXX6PbmPFW) | 2:15 |
+| 1 | [eehhhyyy](https://open.spotify.com/track/1cXo8i9dgutdqjhjz3Zwqq) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Drumla](https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [dafür bin ich frei EP](https://open.spotify.com/album/29zZ3SXwoesoaXX6PbmPFW) | 2:15 |
 | 2 | [Panama](https://open.spotify.com/track/3qcreqi8RaGqahtJSQDxNI) | [GReeeN](https://open.spotify.com/artist/0t84CBqmvihsUVFme33TLd) | [Glückskind](https://open.spotify.com/album/2J3En8aAFnHAT3rgsobCoI) | 2:37 |
 | 3 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 |
 | 4 | [Letztendlich](https://open.spotify.com/track/6Ysm6WDVXjmAZOnOtjtmD0) | [MC WINDHUND](https://open.spotify.com/artist/57MYoG73ZnyZPIpZbTXFUb) | [Letztendlich](https://open.spotify.com/album/4ndqsfxyeN7NMXyvkBpHTh) | 1:46 |

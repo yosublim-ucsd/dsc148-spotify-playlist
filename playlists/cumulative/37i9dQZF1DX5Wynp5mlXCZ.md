@@ -2,9 +2,9 @@
 
 ### [ТОП ПОП 2024](https://open.spotify.com/playlist/37i9dQZF1DX5Wynp5mlXCZ)
 
-> Топові новинки української та світової поп\-музики\. Обкладинка: ENLEO
+> Топові новинки української та світової поп\-музики\. Обкладинка: Katy Perry
 
-84 songs - 4 hr 17 min
+86 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Teresa & Maria](https://open.spotify.com/track/7n3Czk07KugPQOWuqCHDmF) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Teresa & Maria](https://open.spotify.com/album/0Q3a4oVaiaVAQeq9WPz5aB) | 2:59 | 2024-06-27 |  |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 | 2024-06-27 |  |
 | [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-06-27 |  |
-| [The End](https://open.spotify.com/track/1KNI1JuCWWGet03MmoRp4R) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The End](https://open.spotify.com/album/5O2KoaZbV8Op3Tsl0Fq7lI) | 3:17 | 2024-06-27 |  |
+| [The End](https://open.spotify.com/track/1KNI1JuCWWGet03MmoRp4R) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The End](https://open.spotify.com/album/5O2KoaZbV8Op3Tsl0Fq7lI) | 3:17 | 2024-06-27 | 2024-07-20 |
 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-06-27 |  |
 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 | 2024-06-27 |  |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-04 |  |
@@ -73,24 +73,26 @@
 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-12 |  |
 | [А що?](https://open.spotify.com/track/12TC6zACzfx6ey8ZAP6R3y) | [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [А що?](https://open.spotify.com/album/3VpOd13g07b98DXQ4kQ0N8) | 3:17 | 2024-06-27 |  |
 | [А я все плакала](https://open.spotify.com/track/6gYFTv081r8gQaC19iiszf) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM), [LEBIGA](https://open.spotify.com/artist/5QFYXpPnIZPu2OSD9n8BVN) | [А я все плакала](https://open.spotify.com/album/5SBkXFqymV5QTNBWbozv0z) | 2:30 | 2024-06-27 |  |
-| [Барабан](https://open.spotify.com/track/0sv5dBy1hGWXCVR1fI9Vbd) | [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW), [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Барабан](https://open.spotify.com/album/1iemYoEiON96kgPkMXuLqF) | 3:10 | 2024-06-27 | 2024-07-05 |
+| [Барабан](https://open.spotify.com/track/0sv5dBy1hGWXCVR1fI9Vbd) | [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW), [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Барабан](https://open.spotify.com/album/1iemYoEiON96kgPkMXuLqF) | 3:10 | 2024-06-27 |  |
 | [Білі ночі](https://open.spotify.com/track/2A24AcV0HFyZXLvjkRaGJs) | [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm), [OSTY](https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0) | [Білі ночі](https://open.spotify.com/album/73pqM9OoETFQTbbioQpCas) | 2:50 | 2024-07-04 | 2024-07-13 |
-| [Голими](https://open.spotify.com/track/13cuFULTHz4oKU2pc9A8cQ) | [EL Kravchuk](https://open.spotify.com/artist/0R8YFxigLWgcwbYFvHA4Nh) | [Голими](https://open.spotify.com/album/6SJFj1TswSCEE16q7x8WNp) | 2:47 | 2024-07-12 |  |
+| [Голими](https://open.spotify.com/track/13cuFULTHz4oKU2pc9A8cQ) | [EL Kravchuk](https://open.spotify.com/artist/0R8YFxigLWgcwbYFvHA4Nh) | [Голими](https://open.spotify.com/album/6SJFj1TswSCEE16q7x8WNp) | 2:47 | 2024-07-12 | 2024-07-20 |
 | [Дзвони](https://open.spotify.com/track/315NwHHdSVHe1BTuzZmzrn) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz) | [Дзвони](https://open.spotify.com/album/4weS9NI822vvnbRmzxeWVy) | 3:23 | 2024-07-04 | 2024-07-13 |
-| [Забий](https://open.spotify.com/track/23cpg22rXsND2u3ElYxQdj) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Забий](https://open.spotify.com/album/4diYnGIkyPOK6icZwTt6rM) | 3:14 | 2024-06-27 | 2024-07-05 |
+| [Забий](https://open.spotify.com/track/23cpg22rXsND2u3ElYxQdj) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Забий](https://open.spotify.com/album/4diYnGIkyPOK6icZwTt6rM) | 3:14 | 2024-06-27 |  |
 | [Камертон](https://open.spotify.com/track/0O3BnlKDKVeoqrHWanbO0r) | [Khrystyna Soloviy](https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa) | [Камертон](https://open.spotify.com/album/6k5oC3oLwKd8UocbZlISp4) | 3:29 | 2024-06-27 | 2024-07-05 |
 | [Кружить \- Repaired](https://open.spotify.com/track/3q2OthmSLD8RKiEny60H1d) | [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [Repaired](https://open.spotify.com/album/5eIql5MFNYOXEc0ALHp8aM) | 3:18 | 2024-06-27 | 2024-07-13 |
-| [ЛИПЕНЬ](https://open.spotify.com/track/7KdEKTL1KxWpQ28NK3xLTp) | [TUMAZAR](https://open.spotify.com/artist/0sxk44sG1eS4XAnbGd3fjK) | [ЛИПЕНЬ](https://open.spotify.com/album/1Yzj5Ne7KizKH3q3KYzSWH) | 3:38 | 2024-07-12 |  |
+| [ЛИПЕНЬ](https://open.spotify.com/track/7KdEKTL1KxWpQ28NK3xLTp) | [TUMAZAR](https://open.spotify.com/artist/0sxk44sG1eS4XAnbGd3fjK) | [ЛИПЕНЬ](https://open.spotify.com/album/1Yzj5Ne7KizKH3q3KYzSWH) | 3:38 | 2024-07-12 | 2024-07-20 |
 | [Лілії](https://open.spotify.com/track/7u7rNKlamHbQtheoIWHaHx) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Лілії](https://open.spotify.com/album/7iPyDgnEhfCliTHyIsaOwW) | 2:39 | 2024-07-04 | 2024-07-13 |
 | [Мені тебе бракує](https://open.spotify.com/track/4AS9O91OqMi1gZ4zq2UiA0) | [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe), [ROXOLANA](https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4) | [Коли квітне папороть](https://open.spotify.com/album/4Sue4Nkc79cFi44txiLEL6) | 3:38 | 2024-06-27 | 2024-07-13 |
 | [не та Любов](https://open.spotify.com/track/3L7V3plVALWOfp4eHzUo2V) | [Tricky Nicki](https://open.spotify.com/artist/7pBsLYrKwaLsDIezadNyQ3), [KAZKA](https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw) | [не та Любов](https://open.spotify.com/album/40yfNbvl5yqQUDHLZjAPl4) | 2:40 | 2024-06-27 | 2024-07-05 |
 | [Порцелянові очі](https://open.spotify.com/track/2om62MQdBvGvrqjpCmVNcN) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z) | [Порцелянові очі](https://open.spotify.com/album/5BZSzynV6Y6rKkGiWL9c1E) | 3:23 | 2024-06-27 | 2024-07-13 |
 | [психічне порушення](https://open.spotify.com/track/5bx2mZ2wNh8KDHeFXbWxk8) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu) | [психічне порушення](https://open.spotify.com/album/3o11Lbt08TOqcHemdDz5ZP) | 2:45 | 2024-07-12 |  |
+| [серенади](https://open.spotify.com/track/5MjTUX9i3mDWv22Ns2Ekj2) | [MOLODI](https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF) | [серенади](https://open.spotify.com/album/14B1PeFpAqmHhH5RnoeCOY) | 2:25 | 2024-07-19 |  |
 | [Танцюєш сама](https://open.spotify.com/track/295H3GXaVV2UO0k1j5hQr0) | [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ), [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Танцюєш сама](https://open.spotify.com/album/1hNlR4IAOtgzHpmFOuwtc6) | 2:58 | 2024-06-27 |  |
 | [Театр](https://open.spotify.com/track/4cwnOIjFKrnSEBwwuLdThM) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Театр](https://open.spotify.com/album/6EirQNLrSsspYFKTiRt5eo) | 2:28 | 2024-06-27 |  |
+| [Температура](https://open.spotify.com/track/4jv6YqdzJSlDfCbvW3F6o6) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Температура](https://open.spotify.com/album/2lCyQUHZvCZeL1kfGOoqTT) | 2:56 | 2024-07-19 |  |
 | [Хартбіт](https://open.spotify.com/track/198PqHQboOXnYfwD1cr9Sa) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Хартбіт](https://open.spotify.com/album/4iZGHBz7mngvXLEcO9T1RY) | 3:07 | 2024-06-27 |  |
 | [Цілуй](https://open.spotify.com/track/2Msj5zUarTNnsWu7YcEuPE) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Цілуй](https://open.spotify.com/album/0f89WOpBAPDPvgXlWZrcEa) | 2:35 | 2024-06-27 | 2024-07-13 |
-| [Я не готую я не прибираю](https://open.spotify.com/track/68adzA4IHNZaxiFdYx3P3E) | [Ann in Black](https://open.spotify.com/artist/4HSiAq2sw2h2nGx8KMW0ik) | [Я не готую я не прибираю](https://open.spotify.com/album/0Q67NSLGWcadu6VD9ue0NW) | 2:49 | 2024-07-12 |  |
+| [Я не готую я не прибираю](https://open.spotify.com/track/68adzA4IHNZaxiFdYx3P3E) | [Ann in Black](https://open.spotify.com/artist/4HSiAq2sw2h2nGx8KMW0ik) | [Я не готую я не прибираю](https://open.spotify.com/album/0Q67NSLGWcadu6VD9ue0NW) | 2:49 | 2024-07-12 | 2024-07-20 |
 | [Я тобі брехала](https://open.spotify.com/track/1G5M0Aox7zAnvFjPqSo3fY) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Я тобі брехала](https://open.spotify.com/album/4OIPWSye1kYzd9KnD0NMfs) | 2:17 | 2024-06-27 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

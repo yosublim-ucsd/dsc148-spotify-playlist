@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 
 > Today's top country music! Featuring: <a href="https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2?si=hGObFgbfQnOQ75\_EbuOhDg"> Zach Bryan</a>, Bailey Zimmerman, Cody Johnson, Dan + Shay,  Cole Swindell, Kenny Chesney &amp; many more.
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 34,804 likes - 87 songs - 4 hr 48 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 34,811 likes - 87 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 | 86 | [Livin' Ain't Killed Me Yet](https://open.spotify.com/track/5LXfYCQQFJCasWN2DT5ajG) | [Naomi Cooke Johnson](https://open.spotify.com/artist/0TOpxMqjBLR53TUNKK29ML) | [Livin' Ain't Killed Me Yet](https://open.spotify.com/album/20avoS99wAkzfnxks3FmQH) | 2:40 |
 | 87 | [Cowboy Don’t](https://open.spotify.com/track/5qxXv3JWNTTliODO4LZ0V4) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cowboy Don’t](https://open.spotify.com/album/3mZSYPQPoNheFwNc5ize7q) | 2:42 |
 
-Snapshot ID: `AAAaA+Gf88q4KH+ihiSm2zDeCKa3g/QP`
+Snapshot ID: `AAAaBek/SY39z9oN5ZVqgFoAfGjsvk4B`

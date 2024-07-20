@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Sefa
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,937 likes - 90 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,032 likes - 90 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Symphony Of Life](https://open.spotify.com/track/1v5FsB6y2kNrLVjtQuuKE8) | [Sefa](https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI), [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Symphony Of Life](https://open.spotify.com/album/2Vi8eFOtslnTXVNs5VsgSD) | 3:46 |
-| 2 | [Brutal 11.0](https://open.spotify.com/track/49gLVcBvbpDrKKnaUKiDkn) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [Brutal 11.0](https://open.spotify.com/album/5U8H25DQXSsDDrkYHj7OU8) | 2:38 |
+| 2 | [Brutal 11.0](https://open.spotify.com/track/49gLVcBvbpDrKKnaUKiDkn) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [Brutal 11.0](https://open.spotify.com/album/5U8H25DQXSsDDrkYHj7OU8) | 2:42 |
 | 3 | [Running Wild Forever \- The Qontinent Anthem 2024](https://open.spotify.com/track/6exlgpUCrEyhaMmCmeh6kW) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Running Wild Forever \(The Qontinent Anthem 2024\)](https://open.spotify.com/album/62fKeFFA2zwQ43UIDRfvoY) | 4:26 |
 | 4 | [Beautiful Days](https://open.spotify.com/track/2YKCg1eGB6eTKCwm7Xe7C5) | [The Pitcher](https://open.spotify.com/artist/1QsT3VKbdtjMxXoy9myb2X), [Sam Lemay](https://open.spotify.com/artist/11ooXjcX0LXtpDs9FnwF4C) | [Beautiful Days \(feat\. Sam LeMay\)](https://open.spotify.com/album/0Qf1Z8ylCl5bamLwd5uEO6) | 3:04 |
 | 5 | [WITHOUT YOU](https://open.spotify.com/track/3zadjYfWAkksx6Bqigiwne) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi), [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY) | [WITHOUT YOU](https://open.spotify.com/album/36nABUgctcPvmiS2khMJBl) | 3:30 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ya huele a sopita! Buen provecho. ",
-  "num_followers": 146351,
+  "num_followers": 146368,
   "original_name": "M\u00fasica de Fonda",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-07-11 01:23:27",
       "album": {
+        "name": "Sex Symbol",
+        "url": "https://open.spotify.com/album/5tf8kuqoGGyPD6xxhPLlst"
+      },
+      "artists": [
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+        }
+      ],
+      "duration_ms": 343353,
+      "name": "La Noche Mas Linda",
+      "url": "https://open.spotify.com/track/3scW7pt0vlhkCCgCNv5YR9"
+    },
+    {
+      "added_at": "2024-07-11 01:23:27",
+      "album": {
         "name": "La Sinverg\u00fcenza",
         "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 198529,
       "name": "La Sinverg\u00fcenza",
       "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
-    },
-    {
-      "added_at": "2024-07-11 01:23:27",
-      "album": {
-        "name": "Sex Symbol",
-        "url": "https://open.spotify.com/album/5tf8kuqoGGyPD6xxhPLlst"
-      },
-      "artists": [
-        {
-          "name": "Adalberto Santiago",
-          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
-        }
-      ],
-      "duration_ms": 343353,
-      "name": "La Noche Mas Linda",
-      "url": "https://open.spotify.com/track/3scW7pt0vlhkCCgCNv5YR9"
     },
     {
       "added_at": "2024-07-11 01:23:27",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-07-11 01:23:27",
       "album": {
-        "name": "AYAYAY! (Deluxe)",
-        "url": "https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 143933,
-      "name": "Aqu\u00ed Abajo",
-      "url": "https://open.spotify.com/track/16ONd70tvWAaLIc6hcLzaG"
-    },
-    {
-      "added_at": "2024-07-11 01:23:27",
-      "album": {
         "name": "Intimidades",
         "url": "https://open.spotify.com/album/40EJlz5pez7U5J6CwlUu39"
       },
@@ -587,6 +571,22 @@
     {
       "added_at": "2024-07-11 01:23:27",
       "album": {
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "La Casita",
+      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
+    },
+    {
+      "added_at": "2024-07-11 01:23:27",
+      "album": {
         "name": "Marco Antonio Solis",
         "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
       },
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-07-11 01:23:27",
       "album": {
+        "name": "AYAYAY! (Deluxe)",
+        "url": "https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 143933,
+      "name": "Aqu\u00ed Abajo",
+      "url": "https://open.spotify.com/track/16ONd70tvWAaLIc6hcLzaG"
+    },
+    {
+      "added_at": "2024-07-11 01:23:27",
+      "album": {
         "name": "Entrega De Amor",
         "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 176560,
       "name": "Entrega De Amor",
       "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
-    },
-    {
-      "added_at": "2024-07-11 01:23:27",
-      "album": {
-        "name": "El Trabajo Es La Suerte",
-        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "La Casita",
-      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
     },
     {
       "added_at": "2024-07-11 01:23:27",
@@ -687,18 +687,18 @@
     {
       "added_at": "2024-07-11 01:23:27",
       "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/6goSFfGUhQrxImb5hFvQOc"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+          "name": "Los Elegantes de Jerez",
+          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
         }
       ],
-      "duration_ms": 181306,
-      "name": "17 A\u00f1os",
-      "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
+      "duration_ms": 194266,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/5GkeaIeCEfB0LOqk7sIVHQ"
     },
     {
       "added_at": "2024-07-11 01:23:27",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-07-11 01:23:27",
       "album": {
-        "name": "T\u00fa",
-        "url": "https://open.spotify.com/album/6goSFfGUhQrxImb5hFvQOc"
-      },
-      "artists": [
-        {
-          "name": "Los Elegantes de Jerez",
-          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
-        }
-      ],
-      "duration_ms": 194266,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/5GkeaIeCEfB0LOqk7sIVHQ"
-    },
-    {
-      "added_at": "2024-07-11 01:23:27",
-      "album": {
         "name": "Salvaje y Tierno",
         "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 190640,
       "name": "Oro",
       "url": "https://open.spotify.com/track/1sLQ6BFucWwgT8yaAFSpAx"
+    },
+    {
+      "added_at": "2024-07-11 01:23:27",
+      "album": {
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 181306,
+      "name": "17 A\u00f1os",
+      "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
     },
     {
       "added_at": "2024-07-11 01:23:27",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-07-11 01:23:27",
       "album": {
-        "name": "Ojos Marrones",
-        "url": "https://open.spotify.com/album/3Jq1Yjivop6j5TLUMtjjGb"
-      },
-      "artists": [
-        {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "Ojos Marrones",
-      "url": "https://open.spotify.com/track/0xxJFCgRXDbRJeUlwb4m00"
-    },
-    {
-      "added_at": "2024-07-11 01:23:27",
-      "album": {
         "name": "M\u00e1s Muerto Que Vivo",
         "url": "https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 213221,
       "name": "M\u00e1s Muerto Que Vivo",
       "url": "https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE"
+    },
+    {
+      "added_at": "2024-07-11 01:23:27",
+      "album": {
+        "name": "Ojos Marrones",
+        "url": "https://open.spotify.com/album/3Jq1Yjivop6j5TLUMtjjGb"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "duration_ms": 163866,
+      "name": "Ojos Marrones",
+      "url": "https://open.spotify.com/track/0xxJFCgRXDbRJeUlwb4m00"
     },
     {
       "added_at": "2024-07-11 01:23:27",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-07-11 01:23:27",
       "album": {
+        "name": "Due\u00f1o de tu amor",
+        "url": "https://open.spotify.com/album/0kQb2pG5TJxQNecwJMzArN"
+      },
+      "artists": [
+        {
+          "name": "Jorge Dominguez y su Grupo Super Class",
+          "url": "https://open.spotify.com/artist/45qPqiZHXOlAo41ESJc5hh"
+        }
+      ],
+      "duration_ms": 253426,
+      "name": "Romeo y Julieta",
+      "url": "https://open.spotify.com/track/1PD6BmSC7JULxOlJWAI2jJ"
+    },
+    {
+      "added_at": "2024-07-11 01:23:27",
+      "album": {
         "name": "El T\u00f3xico",
         "url": "https://open.spotify.com/album/0FbcuKOFPTtZgqAucm31iG"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 179745,
       "name": "El T\u00f3xico",
       "url": "https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw"
-    },
-    {
-      "added_at": "2024-07-11 01:23:27",
-      "album": {
-        "name": "Due\u00f1o de tu amor",
-        "url": "https://open.spotify.com/album/0kQb2pG5TJxQNecwJMzArN"
-      },
-      "artists": [
-        {
-          "name": "Jorge Dominguez y su Grupo Super Class",
-          "url": "https://open.spotify.com/artist/45qPqiZHXOlAo41ESJc5hh"
-        }
-      ],
-      "duration_ms": 253426,
-      "name": "Romeo y Julieta",
-      "url": "https://open.spotify.com/track/1PD6BmSC7JULxOlJWAI2jJ"
     },
     {
       "added_at": "2024-07-11 01:23:27",

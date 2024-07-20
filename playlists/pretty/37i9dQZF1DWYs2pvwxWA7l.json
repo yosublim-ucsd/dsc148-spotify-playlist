@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: Bien",
-  "num_followers": 576778,
+  "num_followers": 576838,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -53,7 +53,7 @@
         },
         {
           "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/01w3jMWzWYm2INkQDkr2QW"
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         },
         {
           "name": "ShineTTW",
@@ -267,18 +267,18 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Me & U",
-        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 192935,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
+      "duration_ms": 137631,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -303,18 +303,18 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
+        "name": "Me & U",
+        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 137631,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
+      "duration_ms": 192935,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 156763,
-      "name": "Wickedest",
-      "url": "https://open.spotify.com/track/0D6XSXGNj5CTGQQzKQKQQ2"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
         "name": "Yimmy Yimmy",
         "url": "https://open.spotify.com/album/4c7DjheRUBNo8aiN6Z6iWC"
       },
@@ -407,22 +391,6 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Fire on Me",
-        "url": "https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 134187,
-      "name": "Fire on Me",
-      "url": "https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
         "name": "Dealer",
         "url": "https://open.spotify.com/album/3RShBBcnQmqfmBJgmfz3or"
       },
@@ -439,6 +407,38 @@
       "duration_ms": 180594,
       "name": "Dealer",
       "url": "https://open.spotify.com/track/5Wxkvvb6pLky16pwq4gBI3"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "Fire on Me",
+        "url": "https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 134187,
+      "name": "Fire on Me",
+      "url": "https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 156763,
+      "name": "Wickedest",
+      "url": "https://open.spotify.com/track/0D6XSXGNj5CTGQQzKQKQQ2"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
+        "name": "42",
+        "url": "https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 175842,
+      "name": "42",
+      "url": "https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
         "name": "My Dealer",
         "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 148297,
       "name": "My Dealer",
       "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
-        "name": "42",
-        "url": "https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 175842,
-      "name": "42",
-      "url": "https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg"
     },
     {
       "added_at": "2024-07-19 00:01:00",

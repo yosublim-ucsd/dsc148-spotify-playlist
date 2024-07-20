@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,364 likes - 60 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,407 likes - 60 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 22 | [Infinite Surprise](https://open.spotify.com/track/6MQz3po51uvoQTXCUV6SKd) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Cousin](https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn) | 5:43 |
 | 23 | [Opposite House](https://open.spotify.com/track/2XpsvLcddOSFanKBCZCEBR) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Mangy Love](https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld) | 4:14 |
 | 24 | [Goodbye Summer](https://open.spotify.com/track/0d7crNWqruNUFY796UFbe5) | [Shannon Shaw](https://open.spotify.com/artist/4bKniuCGFic42eaNWK34Jq) | [Shannon In Nashville](https://open.spotify.com/album/4M9uQm7mOVQkwYa2iRP7Tt) | 2:43 |
-| 25 | [Century City](https://open.spotify.com/track/2vuH8laWDuNYmckYXkC2zs) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Movie Of The Week](https://open.spotify.com/album/73LowHfDrVcX165ZnPcRzU) | 4:33 |
-| 26 | [Baby Bluebird](https://open.spotify.com/track/5MS4QMgwaZJna9wev1S6yh) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:49 |
+| 25 | [Baby Bluebird](https://open.spotify.com/track/5MS4QMgwaZJna9wev1S6yh) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:49 |
+| 26 | [Century City](https://open.spotify.com/track/2vuH8laWDuNYmckYXkC2zs) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Movie Of The Week](https://open.spotify.com/album/73LowHfDrVcX165ZnPcRzU) | 4:33 |
 | 27 | [Seaquest](https://open.spotify.com/track/2VsAxaacbKF0L54eymlPVd) | [Sleepy Sun](https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0) | [Private Tales](https://open.spotify.com/album/2A2CCRLatKBrBodEp4UIz6) | 4:26 |
 | 28 | [Automechanic](https://open.spotify.com/track/2olbQTZqVPYON832yjCQuF) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [Automechanic](https://open.spotify.com/album/1pfjL9bWfGdlnWUvkxwePA) | 3:48 |
 | 29 | [Where Do You Go When You Dream](https://open.spotify.com/track/2bdDETZsaSuA00ctnPEnLX) | [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Strange to Explain](https://open.spotify.com/album/6W3ljBUTGb9FhuOVZBPbQI) | 5:51 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 47 | [Confidence Man](https://open.spotify.com/track/6GLha5Z5Xj0TLdSzLjrDVC) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Confidence Man](https://open.spotify.com/album/1OqEjshsbgop2XCGBLOioB) | 4:42 |
 | 48 | [Wild Heart](https://open.spotify.com/track/2jhCa4f4eQmynH1IKJ5k5a) | [Kashena Sampson](https://open.spotify.com/artist/4tFBS73AOrz19igc1nTjUt) | [Wild Heart](https://open.spotify.com/album/0qnnjt02keWTODhegEvQ09) | 3:42 |
 | 49 | [Attention](https://open.spotify.com/track/0q3jG8hRgWj9AR2OOJUOYe) | [Major Murphy](https://open.spotify.com/artist/5ly0mPdto6iDfI6X2Q4K6B) | [Access](https://open.spotify.com/album/5N8N92LZ5MwYBAxlaXFHnA) | 2:57 |
-| 50 | [Game Show](https://open.spotify.com/track/6qyiAHaQPi1xwT4nVeGR99) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Game Show](https://open.spotify.com/album/51w6jyrf1eUiUVyJJQnKcm) | 2:42 |
+| 50 | [The Last Dance](https://open.spotify.com/track/1l3SsMSAuxSv97ScbDfxF4) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Last Dance b/w 3000 AD Mass](https://open.spotify.com/album/2q4NYHzOGqQhbGuFh8ZE71) | 3:24 |
 | 51 | [More Of The Same](https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [LONER](https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr) | 4:08 |
-| 52 | [The Last Dance](https://open.spotify.com/track/1l3SsMSAuxSv97ScbDfxF4) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Last Dance b/w 3000 AD Mass](https://open.spotify.com/album/2q4NYHzOGqQhbGuFh8ZE71) | 3:24 |
+| 52 | [Game Show](https://open.spotify.com/track/6qyiAHaQPi1xwT4nVeGR99) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Game Show](https://open.spotify.com/album/51w6jyrf1eUiUVyJJQnKcm) | 2:42 |
 | 53 | [Turn It On](https://open.spotify.com/track/1iqncvWXXg6jfrv6s9txe5) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Turn It On](https://open.spotify.com/album/2xvck6DiEtg3LqzDGJEn19) | 4:30 |
 | 54 | [Hey Man](https://open.spotify.com/track/2MN4zTUQgzsbHpD8XGpuVF) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/0UTQ8hNHAhO8gsu7LT3OEY) | 3:56 |
 | 55 | [It Came to Me](https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [It Came to Me](https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4) | 4:21 |

@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Arthur - The Album [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/0QXYfxXpKeLlr3hueenIHB"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234493,
+      "name": "Arthur's Theme (Best That You Can Do)",
+      "url": "https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH"
+    },
+    {
+      "album": {
         "name": "Tracy Chapman",
         "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
       },
@@ -844,7 +862,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 218626,
       "name": "Like a Virgin",
       "url": "https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ"

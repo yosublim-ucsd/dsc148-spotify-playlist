@@ -4,7 +4,7 @@
 
 > Afrobeats' hottest singles\. Cover:Blaqbonez
 
-371 songs - 17 hr 45 min
+372 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 | 2023-04-25 | 2024-05-23 |
 | [Belle Full](https://open.spotify.com/track/7ppSFPUTqVqp97SmOci4q8) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Belle Full](https://open.spotify.com/album/6RWa45eSEJ9454G5dgA1dQ) | 3:11 | 2023-07-20 | 2023-07-28 |
 | [bend you](https://open.spotify.com/track/4cukkgbgG9P9PKouQ462aV) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:39 | 2024-03-01 | 2024-03-29 |
+| [bend you](https://open.spotify.com/track/6JEVeodVZrjrTZhc1RjMvi) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/6A5x0fKoL7IBjeVy0UU8lq) | 2:39 | 2024-07-19 |  |
 | [BENIN BOYS](https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [BENIN BOYS](https://open.spotify.com/album/3xk9IBb6oVwJw28grBKWnT) | 2:49 | 2024-06-21 |  |
 | [Big Baller](https://open.spotify.com/track/3U0AYNEpt2cumbDILVFiBz) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Big Baller](https://open.spotify.com/album/5ItnpIv7iT87QiTjLKDL4d) | 2:32 | 2023-11-24 | 2024-02-18 |
 | [Big Big Things \(feat\. Kizz Daniel & Seyi Vibez\)](https://open.spotify.com/track/7MaM9JVq1UXAGZQ4JFNXMg) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Big Big Things \(feat\. Kizz Daniel & Seyi Vibez\)](https://open.spotify.com/album/2CcOmbLxQFIsm5aQu7VSuJ) | 3:00 | 2024-02-23 |  |
@@ -288,7 +289,7 @@
 | [Psalm 23](https://open.spotify.com/track/2EkJ4Qr99JOGQYCKbpyxdh) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Psalm 23](https://open.spotify.com/album/48bDFlqazdDSVr7k4pbT1w) | 2:31 | 2024-03-29 | 2024-04-19 |
 | [Puff & Pass](https://open.spotify.com/track/6WUdooO1NS5LZadjGNwY5U) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Puff & Pass](https://open.spotify.com/album/2ktmJpxJYszyMXloEkbh8F) | 2:41 | 2023-09-26 | 2024-05-17 |
 | [Rara](https://open.spotify.com/track/7Ko1e2popoynx9jsU0wj6S) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Omo Ologo](https://open.spotify.com/album/74BlJC2C7ifL7mgPCRFpKN) | 2:36 | 2023-04-27 | 2023-05-12 |
-| [reason](https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 2:27 | 2023-06-16 |  |
+| [reason](https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 2:27 | 2023-06-16 | 2024-07-20 |
 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 | 2023-03-18 | 2023-05-20 |
 | [Red Flags](https://open.spotify.com/track/31jkD22MNUrpebszwU7ZFz) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [RU The World](https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN) | 2:55 | 2024-01-26 | 2024-04-19 |
 | [Red Flags](https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Red Flags](https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz) | 2:55 | 2022-11-18 | 2023-11-17 |
@@ -353,7 +354,7 @@
 | [Vanilla Bottega](https://open.spotify.com/track/7pb3dKlebKOzVzT7fy9fJ7) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Vanilla Bottega](https://open.spotify.com/album/32p2Amv0Oerle8TTOtL7Em) | 3:07 | 2022-06-09 | 2023-02-04 |
 | [Visa](https://open.spotify.com/track/7o79e7ADyL2qdPUHMsosBi) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Visa](https://open.spotify.com/album/2byeWRyYcdZg6bQEYLacKo) | 2:27 | 2024-07-05 | 2024-07-19 |
 | [Vision](https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 2:26 | 2023-12-08 |  |
-| [Wahala](https://open.spotify.com/track/0V4ie5PXFiWXEd2XldImGr) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Adekunle Gold](https://open.spotify.com/artist/01w3jMWzWYm2INkQDkr2QW), [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Alusa Why Are You Topless? \(Deluxe\)](https://open.spotify.com/album/6piDT78sQ40k6xC5r9A8st) | 3:27 | 2024-07-19 |  |
+| [Wahala](https://open.spotify.com/track/0V4ie5PXFiWXEd2XldImGr) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Alusa Why Are You Topless? \(Deluxe\)](https://open.spotify.com/album/6piDT78sQ40k6xC5r9A8st) | 3:27 | 2024-07-19 |  |
 | [Waka Jeje \(feat\. Bnxn\)](https://open.spotify.com/track/04ISGhuusXAMz3dnXkAdxa) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Waka Jeje \(feat\. Bnxn\)](https://open.spotify.com/album/1jGHHoZvMuag4ENa30G9F9) | 2:28 | 2023-07-13 | 2023-08-11 |
 | [Wale \(Remix\) \[feat\. Simi\]](https://open.spotify.com/track/0CetiWNK7oVzF5H0M2dGTS) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Wale \(Remix\) \[feat\. Simi\]](https://open.spotify.com/album/4Gnum64pHtsMvBIqRUKzrP) | 3:08 | 2024-01-26 | 2024-02-23 |
 | [Walking Dead](https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Walking Dead](https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq) | 2:30 | 2023-09-27 | 2023-12-22 |

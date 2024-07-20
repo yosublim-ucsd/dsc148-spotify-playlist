@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,273 likes - 49 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,352 likes - 49 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 | 10 | [Amen](https://open.spotify.com/track/4StUSthpVX304GEjdTnI0i) | [Afrikan Roots](https://open.spotify.com/artist/4wl9UDbyFoBgCNG34ugdge), [Dj Wonderboy](https://open.spotify.com/artist/5WiLGiZee73dHXkqEQjKBF), [Maz Sings](https://open.spotify.com/artist/5F7Fe07I1f1mlW312a4dmk) | [Amen](https://open.spotify.com/album/1qeES9QZaq1xfHfvSTtuo7) | 6:13 |
 | 11 | [Wimbo](https://open.spotify.com/track/6nXf7Rr7TEDAg1clF8CNbb) | [Danidane](https://open.spotify.com/artist/0iuUN6j3vMee2NUjkFJDF3), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd), [Lūca Veron](https://open.spotify.com/artist/0A0R1Lt6uNoJIcz9gigB9f) | [Wimbo](https://open.spotify.com/album/2RBgkZRKmQ7uRSkD5GMpqp) | 4:16 |
 | 12 | [Ukuphila](https://open.spotify.com/track/0ChwRPTttJg4CIrYPwyk4J) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz), [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX) | [Ukuphila](https://open.spotify.com/album/4zmTPUF2YY0HU9o2aWyRJZ) | 6:43 |
-| 13 | [Ama Gear](https://open.spotify.com/track/0cnbEf12FLBWx9QnBlw1EL) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [MK Productions](https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8) | [031 Studio Camp](https://open.spotify.com/album/3tOHGWG9GWuB2KBw6YisEX) | 7:37 |
+| 13 | [Ama Gear](https://open.spotify.com/track/0cnbEf12FLBWx9QnBlw1EL) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [MK Productions](https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8) | [031 Studio Camp](https://open.spotify.com/album/3tOHGWG9GWuB2KBw6YisEX) | 7:05 |
 | 14 | [Spectre](https://open.spotify.com/track/4uprTwbuSCx0IZtdlGMBlz) | [Jazzuelle](https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu) | [Spectre](https://open.spotify.com/album/2zTU3Ei4wiPCGoZPaOmNV7) | 6:46 |
 | 15 | [Wachanare](https://open.spotify.com/track/3unesh2n8SaQlF9MxeNVpR) | [KÖNI](https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Wachanare](https://open.spotify.com/album/2CIYHyteYnfRszaeOOk7WV) | 2:48 |
 | 16 | [3 Step To Funk](https://open.spotify.com/track/2F5jgSYghpEngFJwrUNqHI) | [Sponge 101](https://open.spotify.com/artist/1mdkPsdg5pHdPDikWWu2uq), [Soul Nativez](https://open.spotify.com/artist/29OcJ7yI5UobrUXl4zdGOg), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [3 Step To Funk](https://open.spotify.com/album/0e0lQeYGoBW1JbSqafLwQZ) | 6:44 |

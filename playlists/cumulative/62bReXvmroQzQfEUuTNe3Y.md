@@ -4,7 +4,7 @@
 
 > Summer chill tracks to vibe or dance to in 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-433 songs - 1 day 0 hr 30 min
+434 songs - 1 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Girls Come By](https://open.spotify.com/track/4HHFAQ2jIuDxViIhKG0VTj) | [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv), [Kyle Pearce](https://open.spotify.com/artist/1e5T955wZa6GSsBXgm4hlR) | [Girls Come By](https://open.spotify.com/album/6APuHfgE3OdgE8bAS2s0ik) | 2:39 | 2021-06-04 | 2021-09-18 |
 | [go with u](https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Someone's EP II](https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ) | 3:51 | 2021-11-11 | 2022-08-06 |
 | [go with u \- Louis La Roche Remix](https://open.spotify.com/track/5FxcDJENpjWY6lL9CnbHgc) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Louis La Roche](https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs) | [Someone’s EP II X](https://open.spotify.com/album/6tUqkoCwuE4NffYRmMPVNR) | 4:26 | 2021-03-06 | 2021-08-14 |
-| [Gold Digger](https://open.spotify.com/track/3mYEmm1lwwDRmosviDHlYf) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Pillows](https://open.spotify.com/artist/27GP9LCyNesCWiTi2S3bqc) | [Gold Digger](https://open.spotify.com/album/4imiC3EUY4vCkeYiPZiZXJ) | 2:40 | 2020-11-14 |  |
+| [Gold Digger](https://open.spotify.com/track/3mYEmm1lwwDRmosviDHlYf) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Pillows](https://open.spotify.com/artist/27GP9LCyNesCWiTi2S3bqc) | [Gold Digger](https://open.spotify.com/album/4imiC3EUY4vCkeYiPZiZXJ) | 2:40 | 2020-11-14 | 2024-07-20 |
 | [Good Life \(feat\. Elderbrook\)](https://open.spotify.com/track/7FJVrTfU5eWPQowHttM4Rp) | [Good Life](https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Good Life \(feat\. Elderbrook\)](https://open.spotify.com/album/7CwDbwqPjE0Ik2c5C0MSAw) | 2:47 | 2023-06-30 | 2023-12-14 |
 | [Good Times](https://open.spotify.com/track/3j96Wizdhvo0CWaD51lYbP) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Good Times](https://open.spotify.com/album/6mnI3V3wRo7JkkpWs4NBDd) | 3:14 | 2021-10-02 | 2021-11-11 |
 | [Goosebumps](https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ) | [Goosebumps](https://open.spotify.com/album/6YZz8CZAqqCyxyf01ix0TX) | 3:59 | 2024-01-19 |  |
@@ -170,6 +170,7 @@
 | [I Can't See](https://open.spotify.com/track/59kl6e4q6sCJlxCgLZdJGo) | [ROW](https://open.spotify.com/artist/6t6YsIZkxd0VC7mXKD9Ziw), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [I Can't See](https://open.spotify.com/album/53yZEK6S3jkxLmOkhkFAeA) | 2:15 | 2020-10-30 |  |
 | [I Can't Sleep](https://open.spotify.com/track/5xB5b4L2jOylbYhSf15PTq) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [I Can't Sleep](https://open.spotify.com/album/06SmE9wI7ZTaCHnil6sNWl) | 3:11 | 2020-11-07 | 2024-05-25 |
 | [I Do \- Vandelux Remix](https://open.spotify.com/track/5muXOWzcV0ckxYq0ATO1EW) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [I Do \(Vandelux Remix\)](https://open.spotify.com/album/7buYOcQDCOELG8eJuS5Zif) | 3:16 | 2024-02-23 |  |
+| [I Don't Wanna Know](https://open.spotify.com/track/5nUlevjEAdIKeMBKxpSEHm) | [Buzz Low](https://open.spotify.com/artist/0tytC9SBvhGJFUA0MPHucY), [BACOLE](https://open.spotify.com/artist/0L4qbCVTh5Rox6JU4Ez5LX), [Kuala](https://open.spotify.com/artist/2uMnogCIZC4nsRgavacAkv) | [I Don't Wanna Know](https://open.spotify.com/album/7LKvDGzevXWkxJYYvM0vi7) | 2:26 | 2024-07-19 |  |
 | [I Don't Wanna Know](https://open.spotify.com/track/0YnHCIk1Ppy7FIzdvjspts) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Brenda Mullen](https://open.spotify.com/artist/2RkjEzhUyusJ4KrD5A9yiv) | [I Don't Wanna Know](https://open.spotify.com/album/2sI3TF8KNDxcsLzV5xAHHk) | 2:31 | 2020-10-16 |  |
 | [I Don't Wanna Know](https://open.spotify.com/track/18TWCTjQcNDkO2iaI1wkOd) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Brenda Mullen](https://open.spotify.com/artist/2RkjEzhUyusJ4KrD5A9yiv) | [I Don't Wanna Know](https://open.spotify.com/album/5hqkLMCkIhCQOpW9iAu4hC) | 2:31 | 2020-09-13\* | 2020-10-08 |
 | [I Don't Wanna Leave](https://open.spotify.com/track/0mWXMQ8hrrAJfxN7LG2Wsk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 4:29 | 2021-10-23 | 2021-11-11 |

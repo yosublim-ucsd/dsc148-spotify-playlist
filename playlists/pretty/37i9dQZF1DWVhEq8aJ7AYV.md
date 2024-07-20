@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 
 > Enmascarados, Pin\-Up Girls, Engrasados y Surfers en un mismo lugar
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,475 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,482 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 49 | [Lord Hunt Surf Party](https://open.spotify.com/track/7hApbsEUHchioCqgmbVafD) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Savage Island!](https://open.spotify.com/album/6rYOpRv7EjECzIvQIoV6rN) | 2:10 |
 | 50 | [Bandidos](https://open.spotify.com/track/78U6exECZTeqH3A9sSb1Tr) | [Twin Tones](https://open.spotify.com/artist/3iWXaK2ztxcwFVtCX3QsKV) | [Nación Apache](https://open.spotify.com/album/2LgkoOYWhYWwxwVzTXm5Sp) | 2:05 |
 | 51 | [Bomber Man](https://open.spotify.com/track/3Df8hnLQLwribk4gDnwcKU) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Bomber Man](https://open.spotify.com/album/0qr2U0eP1wOtJ8xRJHxsVe) | 2:14 |
-| 52 | [Costa Ventura](https://open.spotify.com/track/6GYggbJfsWS37wTzs9sdaV) | [Dr\. Tritón](https://open.spotify.com/artist/3oQhj5KP8pCIdvVEmvhZKM) | [Costa Ventura](https://open.spotify.com/album/3H3HevJCx1bRHJe4RFLg7W) | 3:41 |
+| 52 | [Abuela Zombie](https://open.spotify.com/track/0hFQrpJHkfTbXwG7frxlaj) | [Yucatán A GoGo](https://open.spotify.com/artist/7CzeS5wP7C4qjijGUTIAHh) | [Canciones Basura](https://open.spotify.com/album/2iUEXQDCElKqNqiqgezasO) | 2:51 |
 | 53 | [La Dosis Perfecta](https://open.spotify.com/track/3pTHO0Q5QlixCL2eGbx1kl) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL) | [La Dosis Perfecta](https://open.spotify.com/album/6YCHADzZp1iYWHO1fpPjOn) | 3:21 |
 | 54 | [El Garage de Gina Monster](https://open.spotify.com/track/6L6npzAT4Cd8cD0U2n8Fgk) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Tequila Connection 3](https://open.spotify.com/album/1jzDxQ0X1yNxjcg7mKEhlC) | 3:03 |
-| 55 | [Abuela Zombie](https://open.spotify.com/track/0hFQrpJHkfTbXwG7frxlaj) | [Yucatán A GoGo](https://open.spotify.com/artist/7CzeS5wP7C4qjijGUTIAHh) | [Canciones Basura](https://open.spotify.com/album/2iUEXQDCElKqNqiqgezasO) | 2:51 |
+| 55 | [Costa Ventura](https://open.spotify.com/track/6GYggbJfsWS37wTzs9sdaV) | [Dr\. Tritón](https://open.spotify.com/artist/3oQhj5KP8pCIdvVEmvhZKM) | [Costa Ventura](https://open.spotify.com/album/3H3HevJCx1bRHJe4RFLg7W) | 3:41 |
 | 56 | [Defcon 5](https://open.spotify.com/track/5Esuk5nhe9nBgTDLXZWh0V) | [Man Or Astro\-Man?](https://open.spotify.com/artist/3z3lEz2qH5h6qJa8DYukxY) | [Defcon 5...4...3...2...1](https://open.spotify.com/album/5b59CWlbRYqdAJkoj1gQKe) | 3:13 |
 | 57 | [Tierra del Fuego](https://open.spotify.com/track/1RXRAgFZxwgfodanVexAfO) | [Langhorns](https://open.spotify.com/artist/1iReuG3AVPCkrxBtXEeUhV) | [Langhorns](https://open.spotify.com/album/5kQLgTlaXTkcq27zaGTSk4) | 2:40 |
 | 58 | [Swan's Lake](https://open.spotify.com/track/2dMCzVJOAAo0gUDWzBAIPR) | [Los Twang! Marvels](https://open.spotify.com/artist/4ZQDQBB4n9WSJ6OK7GB8pL) | [Guitars In Orbit](https://open.spotify.com/album/1ztjKDuWAsYJ92QCBAHwzc) | 2:03 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 68 | [1,2,3,4 \- Los Cogelones Remix](https://open.spotify.com/track/0Fn7a7chIZRWOt80MOchqJ) | [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu), [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [1, 2, 3, 4 \(Los Cogelones Remix\)](https://open.spotify.com/album/1naZNZNvA9YfCMP7LZPnEJ) | 3:47 |
 | 69 | [Soy Pandillero](https://open.spotify.com/track/5xeZDsYEOaBWAAFexDACba) | [Los Pandilleros](https://open.spotify.com/artist/5FwgeguYu3pQhvJY9gqaSA) | [Soy Pandillero](https://open.spotify.com/album/2qxHcI06mYcsuvybw0JJ84) | 3:44 |
 | 70 | [Drácula ”Ye\-ye”](https://open.spotify.com/track/28mq9dICF4XavmY50cyOgX) | [Doctor Explosion](https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q) | [Aquellos Maravillosos 90](https://open.spotify.com/album/5m7J3RUeI099XYUzjlajT5) | 2:22 |
-| 71 | [Wet Girls](https://open.spotify.com/track/1odCtYicHYC8EYwGAEyYwy) | [The Kilaueas](https://open.spotify.com/artist/1rGWPfYfcQb9k3CyZ6JhNZ) | [Wiki Waki Woooo](https://open.spotify.com/album/3ZZII0H7lLQ7chvgvOSQDu) | 2:39 |
+| 71 | [Twist Del Elefante](https://open.spotify.com/track/58kYjQzf6V58d4j2gQH2yN) | [The Cavernarios](https://open.spotify.com/artist/6fsKu7O1tqv4la4xy0fIOZ) | [Sangre en el Atlántico](https://open.spotify.com/album/0dGcnozdWfdgdPez34CCbp) | 2:47 |
 | 72 | [Piangi Con Me](https://open.spotify.com/track/4K5Yo0mU2jOFUEQ7MnWUEB) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [I Wanna Believe](https://open.spotify.com/album/6EnAmJs0JJSoXNchktGik8) | 3:58 |
-| 73 | [Twist Del Elefante](https://open.spotify.com/track/58kYjQzf6V58d4j2gQH2yN) | [The Cavernarios](https://open.spotify.com/artist/6fsKu7O1tqv4la4xy0fIOZ) | [Sangre en el Atlántico](https://open.spotify.com/album/0dGcnozdWfdgdPez34CCbp) | 2:47 |
-| 74 | [Surf Vs\. The Flying Saucers](https://open.spotify.com/track/2M9DsKdenidJeWP1mqcfNq) | [Urban Surf Kings](https://open.spotify.com/artist/2PibVUaJBzKOmP872xVQ02) | [Surf Vs The Flying Saucers](https://open.spotify.com/album/1gwqaSqAt3klyYmbATSDNu) | 2:39 |
-| 75 | [El Solitario](https://open.spotify.com/track/530yFOZtT2e2dYySwLUiuZ) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Entre Leyendas y Villanos](https://open.spotify.com/album/28me1dL1B09hWNPrajSIOh) | 2:21 |
+| 73 | [Wet Girls](https://open.spotify.com/track/1odCtYicHYC8EYwGAEyYwy) | [The Kilaueas](https://open.spotify.com/artist/1rGWPfYfcQb9k3CyZ6JhNZ) | [Wiki Waki Woooo](https://open.spotify.com/album/3ZZII0H7lLQ7chvgvOSQDu) | 2:39 |
+| 74 | [El Solitario](https://open.spotify.com/track/530yFOZtT2e2dYySwLUiuZ) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Entre Leyendas y Villanos](https://open.spotify.com/album/28me1dL1B09hWNPrajSIOh) | 2:21 |
+| 75 | [Surf Vs\. The Flying Saucers](https://open.spotify.com/track/2M9DsKdenidJeWP1mqcfNq) | [Urban Surf Kings](https://open.spotify.com/artist/2PibVUaJBzKOmP872xVQ02) | [Surf Vs The Flying Saucers](https://open.spotify.com/album/1gwqaSqAt3klyYmbATSDNu) | 2:39 |
 
 Snapshot ID: `ZphqNwAAAADgPdVtpM4RBtebiGNCyIDC`

@@ -4,7 +4,7 @@
 
 > Find out the hottest tracks in the UAE\. Cover: Sabrina Carpenter
 
-53 songs - 2 hr 50 min
+54 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2024-06-27 |  |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2024-06-27 |  |
 | [Summertime Sadness](https://open.spotify.com/track/1FEiijYPJtyswChfcpv3p0) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \(Deluxe Version\)](https://open.spotify.com/album/2GGstjn2lepcltXd21I24t) | 4:24 | 2024-06-27 |  |
+| [Tauba Tauba \(From "Bad Newz"\)](https://open.spotify.com/track/1WaqQIJ0iENGWZ1QmYvYNK) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Tauba Tauba \(From "Bad Newz"\)](https://open.spotify.com/album/0MUqt34IuJsdFAuQM57jKp) | 3:27 | 2024-07-19 |  |
 | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\)](https://open.spotify.com/track/75DRLUnnltzSyuTJ7onxmW) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Shadab Faridi](https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\) \- Single](https://open.spotify.com/album/4GEXGGOjUBuSHR4KgaSngh) | 3:09 | 2024-06-27 |  |
 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 | 2024-06-27 |  |
 | [Wainek Min Zaman](https://open.spotify.com/track/1R69Raqo1YOHxk2fOpk9xS) | [Yazan Haifawi](https://open.spotify.com/artist/1XNUjQOaJHx64HU5plUCdO) | [Wahad](https://open.spotify.com/album/50h20MwAWGy4qMiA1eueuV) | 3:13 | 2024-06-27 |  |

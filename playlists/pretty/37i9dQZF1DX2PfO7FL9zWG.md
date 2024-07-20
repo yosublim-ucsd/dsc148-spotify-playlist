@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 
 > Revisit stand out songs from these singer/songwriters\. Cover: Mark Ambor
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,967 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,970 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,20 +16,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 6 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 |
 | 7 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 |
 | 8 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 |
-| 9 | [Ophelia](https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 2:40 |
+| 9 | [Feathered Indians](https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:44 |
 | 10 | [Alco](https://open.spotify.com/track/4gUSSMx93QZOFVHHmXWhHV) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Salt](https://open.spotify.com/album/28pyk4QKjNKAt7fXL27Jth) | 3:48 |
-| 11 | [Feathered Indians](https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:44 |
+| 11 | [Ophelia](https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 2:40 |
 | 12 | [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 |
 | 13 | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/4GgQWuxZL8qbZUHHA0wWuI) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP) | 3:58 |
 | 14 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 |
 | 15 | [Bright Green Vibrant Gray](https://open.spotify.com/track/6OvymCZ4OgIYA7MSXvPIsM) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Goodnight Summerland](https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn) | 3:39 |
 | 16 | [Burn, Burn, Burn](https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Burn, Burn, Burn](https://open.spotify.com/album/4popczz4SYRg2NPcgwKHsR) | 4:28 |
 | 17 | [Sadness As A Gift](https://open.spotify.com/track/1UpXhetX1s5OXTY5fRjWvu) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 4:19 |
-| 18 | [Silver Lining](https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:18 |
-| 19 | [Almost \(Sweet Music\)](https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:37 |
+| 18 | [Almost \(Sweet Music\)](https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:37 |
+| 19 | [Please Don't Go](https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Please Don't Go](https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru) | 3:01 |
 | 20 | [The Devil Wears a Suit and Tie](https://open.spotify.com/track/43UV5Uk0ntzH6MP8Rx1RKh) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/6kV0NSYFjIMVgkhWRDI0bS) | 3:56 |
-| 21 | [Down by the Water](https://open.spotify.com/track/4Vutl1Y7OJOBwIqVISNmzL) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [EP](https://open.spotify.com/album/1ewyUvC97wRYnvK61UssDm) | 2:58 |
-| 22 | [Please Don't Go](https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Please Don't Go](https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru) | 3:01 |
+| 21 | [Silver Lining](https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:18 |
+| 22 | [Down by the Water](https://open.spotify.com/track/4Vutl1Y7OJOBwIqVISNmzL) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [EP](https://open.spotify.com/album/1ewyUvC97wRYnvK61UssDm) | 2:58 |
 | 23 | [Motion Sickness](https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 3:49 |
 | 24 | [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 |
 | 25 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 94 | [Rhododendron](https://open.spotify.com/track/7s8gLWAkwL8F7WggHYzZR4) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Among Other Things](https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V) | 4:48 |
 | 95 | [Aujourd'hui ma vie c'est d'la marde](https://open.spotify.com/track/0uuFgysRgYtTEaNEbB06pk) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Lisa LeBlanc](https://open.spotify.com/album/6qkkBPeN0eLTk9oDvvew2V) | 3:37 |
 | 96 | [Drugstore Houses](https://open.spotify.com/track/2vOWeduJdE3pDR3c8uCE7Z) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Drugstore Houses](https://open.spotify.com/album/1tCGIJAUNK3k6JVRL62UO6) | 3:02 |
-| 97 | [Freedom](https://open.spotify.com/track/6L1PKCmrvrfsVSDbo6f8Jd) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo) | [Only Pieces of the Truth](https://open.spotify.com/album/5WTMX9SyPDigNcgewZGtLG) | 4:21 |
-| 98 | [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 |
-| 99 | [I Lied](https://open.spotify.com/track/0LwMEbqobYWjhwMpYaFWpM) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Long Lost](https://open.spotify.com/album/48nTl6TmV8hS2x8MCQlUbm) | 3:54 |
+| 97 | [I Lied](https://open.spotify.com/track/0LwMEbqobYWjhwMpYaFWpM) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Long Lost](https://open.spotify.com/album/48nTl6TmV8hS2x8MCQlUbm) | 3:54 |
+| 98 | [Freedom](https://open.spotify.com/track/6L1PKCmrvrfsVSDbo6f8Jd) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo) | [Only Pieces of the Truth](https://open.spotify.com/album/5WTMX9SyPDigNcgewZGtLG) | 4:21 |
+| 99 | [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 |
 | 100 | [Better Off](https://open.spotify.com/track/2oBzsiZT8qmlovYS1FMf06) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Better Off](https://open.spotify.com/album/6a9bsIUvtXmqj6HaEOIAq3) | 3:15 |
 
 Snapshot ID: `ZpCqQAAAAAAqFnzkbuC/d6O9uiudSzyt`

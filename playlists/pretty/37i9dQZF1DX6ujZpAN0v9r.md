@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Slowdive on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,235 likes - 148 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,345 likes - 148 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 16 | [40 Days](https://open.spotify.com/track/3jQBAyQVJSl9fc6l4tsWWP) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/4i21O3uVh5palcfFhCjlT7) | 3:15 |
 | 17 | [Time Baby III](https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98) | [Medicine](https://open.spotify.com/artist/61uYVpJPgBq9dNrfUy6kTp), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 3:51 |
 | 18 | [Sometimes](https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 5:19 |
-| 19 | [Black Metallic](https://open.spotify.com/track/0jmyo9QOmFbjDCYpNaPDhy) | [Catherine Wheel](https://open.spotify.com/artist/1QPWAsWIjRcTfvY5uH8dov) | [Ferment](https://open.spotify.com/album/7LLZLkkBTR42Kb9JPRAzKb) | 7:18 |
-| 20 | [Tastes Like Honey](https://open.spotify.com/track/7801eWQNK09cfzQ5By5n8T) | [Swallow](https://open.spotify.com/artist/6HXzAVwfQyS92X8UN6JVAu) | [Blow](https://open.spotify.com/album/1Zy8fVIXPCW8Y0K0xpd7Cz) | 4:41 |
+| 19 | [Tastes Like Honey](https://open.spotify.com/track/7801eWQNK09cfzQ5By5n8T) | [Swallow](https://open.spotify.com/artist/6HXzAVwfQyS92X8UN6JVAu) | [Blow](https://open.spotify.com/album/1Zy8fVIXPCW8Y0K0xpd7Cz) | 4:41 |
+| 20 | [Black Metallic](https://open.spotify.com/track/0jmyo9QOmFbjDCYpNaPDhy) | [Catherine Wheel](https://open.spotify.com/artist/1QPWAsWIjRcTfvY5uH8dov) | [Ferment](https://open.spotify.com/album/7LLZLkkBTR42Kb9JPRAzKb) | 7:18 |
 | 21 | [Pancake](https://open.spotify.com/track/00YCRrySf0dJ6nRCKYSAkA) | [Swirlies](https://open.spotify.com/artist/0Zk7We5BZoDR40himAI86D) | [Blonder Tongue Audio Baton](https://open.spotify.com/album/0bOwhaZsDgLWVIUd4mU7U5) | 3:15 |
 | 22 | [Rocket \- 2011 Remaster](https://open.spotify.com/track/1nbXNrayQOc9UGVEudhlaT) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN) | 4:06 |
 | 23 | [Bout des doigts](https://open.spotify.com/track/5RQ2HMjTOBJOWK9Me6cpsy) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Bout des doigts](https://open.spotify.com/album/1s16vFypthYKIcJwhgDeUm) | 7:06 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 51 | [Run Into Flowers](https://open.spotify.com/track/68jU8rPQuQufjrIoUdS3vS) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Dead Cities, Red Seas & Lost Ghosts](https://open.spotify.com/album/5u8hliZZtH3mc6o7BJRmVP) | 4:09 |
 | 52 | [Undercurrent](https://open.spotify.com/track/6Qyy9fqDBBZyl90snerjl0) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Depths](https://open.spotify.com/album/4N2itOeznvkwIysfQVjGP1) | 4:41 |
 | 53 | [Falling Down](https://open.spotify.com/track/0rb6HvdvWJRkyhxsfFf1ep) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \(Expanded Edition\)](https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp) | 3:56 |
-| 54 | [Our Goal to Realise](https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ) | [Amusement Parks On Fire](https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx) | [Our Goal to Realise](https://open.spotify.com/album/4DXAO9RDzvfI2t5j8URSr1) | 3:17 |
-| 55 | [Not The Time](https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Not The Time / Callous](https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU) | 2:50 |
+| 54 | [Not The Time](https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Not The Time / Callous](https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU) | 2:50 |
+| 55 | [Our Goal to Realise](https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ) | [Amusement Parks On Fire](https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx) | [Our Goal to Realise](https://open.spotify.com/album/4DXAO9RDzvfI2t5j8URSr1) | 3:17 |
 | 56 | [The Seaside \- Edit](https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [EP1](https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ) | 3:27 |
 | 57 | [Surrender](https://open.spotify.com/track/3tReSRWbwfsW9IG6Mbh9rH) | [Leave the Planet](https://open.spotify.com/artist/6vW6YgP4ZCF8wED7yAuQyk) | [Nowhere](https://open.spotify.com/album/7x0NFDxaSlSr5LTmunM7zo) | 3:39 |
 | 58 | [A House Wife Love Song](https://open.spotify.com/track/57oNds15RN6allNb0YIPSD) | [Starflyer 59](https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED) | [Gold](https://open.spotify.com/album/4IlB3r32E8AFwHcpFko7ks) | 4:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dread Mar I
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,857 likes - 89 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,874 likes - 89 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 71 | [Este Mundo](https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Negro](https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY) | 4:25 |
 | 72 | [Siempre en una](https://open.spotify.com/track/7j3BFMiA92T6szrJgHM9yn) | [DOMA](https://open.spotify.com/artist/4aD9Ax5YSotHSD60pph8yU) | [Siempre en una](https://open.spotify.com/album/6K53lnXPD7kb7TAnjZDBT7) | 3:40 |
 | 73 | [Culpable O No](https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Cover Me](https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0) | 4:10 |
-| 74 | [Seguirla](https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD) | [Gaspar OM](https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Seguirla](https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm) | 3:11 |
-| 75 | [La Naturaleza](https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY) | [Planta & Canta](https://open.spotify.com/artist/2yW6FW6bMFIEtPJgYK4UQ0), [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [La Naturaleza](https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE) | 4:14 |
+| 74 | [La Naturaleza](https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY) | [Planta & Canta](https://open.spotify.com/artist/2yW6FW6bMFIEtPJgYK4UQ0), [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [La Naturaleza](https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE) | 4:14 |
+| 75 | [Seguirla](https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD) | [Gaspar OM](https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Seguirla](https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm) | 3:11 |
 | 76 | [Desinformation](https://open.spotify.com/track/1217Z3BPonXG3Kmm8aSkAp) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F) | [Desinformation](https://open.spotify.com/album/1K0WhObVbaoWr0JP4qzv5J) | 4:03 |
 | 77 | [Naufrago](https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o) | [Mensajeros Reggae](https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE) | [Así](https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte) | 3:57 |
 | 78 | [Todo Es Así](https://open.spotify.com/track/0KXw3dbbDFx75viq9HtMT4) | [DOMA](https://open.spotify.com/artist/4aD9Ax5YSotHSD60pph8yU) | [Todo Es Así](https://open.spotify.com/album/3BzrCi7FL52ULRUI154X6K) | 3:50 |
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 83 | [Dimelo Ayer](https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc) | [Coral](https://open.spotify.com/artist/0G8H711x1d7iYx6JIhMMQq), [Coral Campopiano](https://open.spotify.com/artist/657Gml68DCgI2F5q8ON4s7), [Cucho Parisi](https://open.spotify.com/artist/1uuzWNBMb1W3xA1eP3VGHm) | [Dimelo Ayer](https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1) | 2:39 |
 | 84 | [Tenia Tanto Para Darte](https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Tenia Tanto Para Darte](https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B) | 4:23 |
 | 85 | [The Lady in Red](https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [The Lady in Red](https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd) | 3:45 |
-| 86 | [Nada Que Me Venga Mal](https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo) | [Slow Burnin´](https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV) | [Liberación](https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1) | 2:51 |
+| 86 | [Volver a Sentir \- En Vivo en el Teatro Caupolicán](https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [En Vivo Teatro Caupolicán](https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA) | 4:11 |
 | 87 | [Emocionado](https://open.spotify.com/track/0gAcguZ7sg8FAN1W5KhFBR) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Emocionado](https://open.spotify.com/album/0v0voYOZZByqK4iVheZdhz) | 4:10 |
-| 88 | [Volver a Sentir \- En Vivo en el Teatro Caupolicán](https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [En Vivo Teatro Caupolicán](https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA) | 4:11 |
-| 89 | [Ahora Lo Sé](https://open.spotify.com/track/2Wwu9dUOFgh6n8RZbicU3f) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Ahora Lo Sé](https://open.spotify.com/album/68PtNir6GWJ4H09eIbOSPC) | 4:16 |
+| 88 | [Nada Que Me Venga Mal](https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo) | [Slow Burnin´](https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV) | [Liberación](https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1) | 2:51 |
+| 89 | [Trinchera](https://open.spotify.com/track/2FkXL4Apgf4gSUYsr8HVK5) | [Moral Distraida](https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv) | [Trinchera](https://open.spotify.com/album/5mU3SDcjGeeljvFj85pLa4) | 4:24 |
 
 Snapshot ID: `ZpCcMAAAAABsfOEfHVV3s9VoYkTRiMBq`

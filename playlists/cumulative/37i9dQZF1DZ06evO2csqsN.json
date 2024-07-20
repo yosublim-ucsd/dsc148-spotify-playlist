@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-10-29",
-  "description": "This Is Latto. \u0642\u0637\u0639\u0647\u200c\u0647\u0627\u06cc \u0628\u0631\u062a\u0631 \u0647\u0645\u06af\u06cc \u062f\u0631 \u06cc\u06a9 \u0641\u0647\u0631\u0633\u062a \u067e\u062e\u0634.",
-  "name": "\u0627\u06cc\u0646 Latto \u0627\u0633\u062a",
+  "description": "This Is Latto. Los temas esenciales, todos en una lista.",
+  "name": "This Is Latto",
   "tracks": [
     {
       "album": {
@@ -192,7 +192,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 173182,
       "name": "Big Energy",
       "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
@@ -900,7 +900,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 150560,
       "name": "I Just Called",
       "url": "https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX"

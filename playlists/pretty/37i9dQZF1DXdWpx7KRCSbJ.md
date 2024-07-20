@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 
 > Pronto pra pool party? Vem com a gente!
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,901 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,887 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 26 | [NO CHÃO NOVINHA](https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [NO CHÃO NOVINHA](https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh) | 2:16 |
 | 27 | [Agora Vai Sentar](https://open.spotify.com/track/0pDaqgIForVNO4jrtTxcWT) | [MC's Jhowzinho & Kadinho](https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS) | [Agora Vai Sentar](https://open.spotify.com/album/39HSKuqaxE7NH3ZeJoKqdh) | 3:48 |
 | 28 | [Isso Que é Vida](https://open.spotify.com/track/1dKYlw6v9wofuqb7EXSvPn) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Cantini](https://open.spotify.com/artist/0eG7BXt40ztpJQ7nUOYvg3) | [Isso Que é Vida](https://open.spotify.com/album/7wXkUm13tvmKQ9LJjmkkfm) | 2:39 |
-| 29 | [GALOPA](https://open.spotify.com/track/2wG1R0uDFwyobcWzVssC1J) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [GALOPA](https://open.spotify.com/album/5nZqQA3vUQUPl1ypuwKvrV) | 2:20 |
-| 30 | [12 Horas](https://open.spotify.com/track/7B826fTyDa3DkjnKpOgXFo) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [12 Horas](https://open.spotify.com/album/2ook1jniY6KP7rr7xmgpcW) | 4:00 |
+| 29 | [12 Horas](https://open.spotify.com/track/7B826fTyDa3DkjnKpOgXFo) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [12 Horas](https://open.spotify.com/album/2ook1jniY6KP7rr7xmgpcW) | 4:00 |
+| 30 | [GALOPA](https://open.spotify.com/track/2wG1R0uDFwyobcWzVssC1J) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [GALOPA](https://open.spotify.com/album/5nZqQA3vUQUPl1ypuwKvrV) | 2:20 |
 | 31 | [Sim ou não \(Participação especial de Maluma\)](https://open.spotify.com/track/4FxumkF81ICxITeqxx4nK9) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sim ou não \(Participação especial de Maluma\)](https://open.spotify.com/album/79GzhuqPAz4gohzwmFDK6b) | 3:26 |
 | 32 | [Devagarinho](https://open.spotify.com/track/70rCH90CeRGzCrVr4fSbqg) | [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Devagarinho](https://open.spotify.com/album/2zwaFYibcoqD1IQpZOJttd) | 2:24 |
 | 33 | [Jogo do Amor](https://open.spotify.com/track/3MxbRHE1u74SoMNR9iURIZ) | [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB) | [Jogo do Amor](https://open.spotify.com/album/4njG3ASiYdSUc60uDTvDDS) | 2:24 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 39 | [Resenha lá em casa](https://open.spotify.com/track/3NnW2EqJxvHYrRy3upaznl) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Resenha lá em casa](https://open.spotify.com/album/3woJd4AFogSyxqK3wkzPk2) | 3:56 |
 | 40 | [Assalto Perigoso](https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Assalto Perigoso](https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs) | 2:35 |
 | 41 | [Quem Me Dera](https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Quem Me Dera](https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7) | 2:27 |
-| 42 | [Quero Que Tu Vá](https://open.spotify.com/track/7ppLcVgxpoWAhAa2c0CN3b) | [Ananda](https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj), [Joker Beats](https://open.spotify.com/artist/7tsmrNpbLkT4xL1nzRLpCu) | [Quero Que Tu Vá](https://open.spotify.com/album/0JkqxwCPsumktyGvbytKbh) | 2:19 |
-| 43 | [Devagarinho](https://open.spotify.com/track/0aZfIiaO3b2HTNxZ3sv1cg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Devagarinho](https://open.spotify.com/album/4gdw60lOahihgNIvaiH1mr) | 2:17 |
+| 42 | [Devagarinho](https://open.spotify.com/track/0aZfIiaO3b2HTNxZ3sv1cg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Devagarinho](https://open.spotify.com/album/4gdw60lOahihgNIvaiH1mr) | 2:17 |
+| 43 | [Quero Que Tu Vá](https://open.spotify.com/track/7ppLcVgxpoWAhAa2c0CN3b) | [Ananda](https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj), [Joker Beats](https://open.spotify.com/artist/7tsmrNpbLkT4xL1nzRLpCu) | [Quero Que Tu Vá](https://open.spotify.com/album/0JkqxwCPsumktyGvbytKbh) | 2:19 |
 | 44 | [Vem \- Ao Vivo](https://open.spotify.com/track/2xK5QiyUZufKPSvB7bLHxa) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Laje 67 \(Ao Vivo\)](https://open.spotify.com/album/7qlRgh3d6oIFPdfOPs7I5u) | 3:14 |
 | 45 | [Sapequinha](https://open.spotify.com/track/7LPR6AdkOQR9WpEixCGNCk) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [MC Lan](https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR) | [Sapequinha](https://open.spotify.com/album/0flHUcoTFiyujvz0JpfBja) | 2:14 |
 | 46 | [Cobertor de Orelha \- Ao Vivo](https://open.spotify.com/track/5tDIwLvi7AaoY4pkA7pUBv) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Cobertor de Orelha \(Ao Vivo\)](https://open.spotify.com/album/6BFfpdvgimAEgtS8szfesm) | 2:36 |

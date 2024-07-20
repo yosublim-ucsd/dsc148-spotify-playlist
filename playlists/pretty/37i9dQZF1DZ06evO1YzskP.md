@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 
 ### [This Is La Receta](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YzskP)
 
-> This is La Receta\. The essential tracks, all in one playlist.
+> This Is La Receta\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,571 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,616 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 2 | [Don Ismael](https://open.spotify.com/track/2UsQPVCNmSrbt9MY0vtTsb) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Don Ismael](https://open.spotify.com/album/1EhSwLRbSkj0YkBCgMoHFj) | 2:38 |
 | 3 | [cómo dormiste?](https://open.spotify.com/track/0Ns7RqQCUjEUJdyDNDac7e) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp) | 3:03 |
 | 4 | [Serafín Zambada](https://open.spotify.com/track/5ZVyu4Ic8XQOomHPaYSaLN) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Serafin Zambada](https://open.spotify.com/album/4wIqGZ9el8QllwpREn1IPA) | 2:08 |
-| 5 | [Me Dejaron Como 100pre](https://open.spotify.com/track/3D3EWDeepkSSXs8zlAzIUk) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Me Dejaron Como 100pre](https://open.spotify.com/album/2dGhHOPafHRV5Pcba6FUsN) | 2:52 |
-| 6 | [La Belikada](https://open.spotify.com/track/53fbPJud2fcK12jzYIHqD6) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [La Belikada](https://open.spotify.com/album/23fDudy0YVBpYwSFFcB0Jn) | 2:33 |
+| 5 | [La Belikada](https://open.spotify.com/track/53fbPJud2fcK12jzYIHqD6) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [La Belikada](https://open.spotify.com/album/23fDudy0YVBpYwSFFcB0Jn) | 2:33 |
+| 6 | [Me Dejaron Como 100pre](https://open.spotify.com/track/3D3EWDeepkSSXs8zlAzIUk) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Me Dejaron Como 100pre](https://open.spotify.com/album/2dGhHOPafHRV5Pcba6FUsN) | 2:52 |
 | 7 | [Malas Decisiones](https://open.spotify.com/track/2iO3N5docEHN5irGJRVoqA) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp) | 3:28 |
 | 8 | [La Receta](https://open.spotify.com/track/63r2czs5BFDV4lIzDA2YOc) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta](https://open.spotify.com/album/7s65xoy6ILB4Tm640q3EhX) | 2:16 |
 | 9 | [Se Les Pelo El Ranchero](https://open.spotify.com/track/4PnvnDk0Cg2SFRglbTv8jn) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 2:14 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 41 | [El JP \(En Vivo\)](https://open.spotify.com/track/2cJpo5bZUYlHF6pWNfkyOV) | [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El JP \(En Vivo\)](https://open.spotify.com/album/1BTAMCG3jmqI8eCZuc9wFl) | 3:22 |
 | 42 | [Bien Firme el Sombrero](https://open.spotify.com/track/4NBiLab7UlhDLfQyrWZsYN) | [Fraccion EME](https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Bien Firme el Sombrero](https://open.spotify.com/album/4ZAh45TO8yZIBolO8sEyZ4) | 2:20 |
 | 43 | [Los Placeres De Archivaldo](https://open.spotify.com/track/27l55K6adgEeUssURt0FnS) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Pizza Está En El Horno](https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG) | 2:34 |
-| 44 | [Fotos Hot](https://open.spotify.com/track/1vnDr3JmeBIYPOCCntE76H) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Fotos Hot](https://open.spotify.com/album/4zD9ojAyJyG2On7waxHdn1) | 2:57 |
-| 45 | [Orson Iván](https://open.spotify.com/track/3o64JodEf12s50KqFTickz) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Orson Iván](https://open.spotify.com/album/6bWPt5uVi4IbLXzEZcIUQE) | 2:50 |
+| 44 | [Orson Iván](https://open.spotify.com/track/3o64JodEf12s50KqFTickz) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Orson Iván](https://open.spotify.com/album/6bWPt5uVi4IbLXzEZcIUQE) | 2:50 |
+| 45 | [Fotos Hot](https://open.spotify.com/track/1vnDr3JmeBIYPOCCntE76H) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Fotos Hot](https://open.spotify.com/album/4zD9ojAyJyG2On7waxHdn1) | 2:57 |
 | 46 | [Dr\. Simi](https://open.spotify.com/track/3OtTpxvwKrP4svo22XHJMg) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Dr\. Simi](https://open.spotify.com/album/7bHkoBBlKnFICfnYfvdwsa) | 2:53 |
 | 47 | [Los Ninis](https://open.spotify.com/track/0DUUXFwVBoM5oOx8MdJDia) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Pizza Está En El Horno](https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG) | 2:26 |
 | 48 | [El Sombero De Lado](https://open.spotify.com/track/77TZY5sLHOkjSjgiF4hLqa) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sombrero De Lado](https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw) | 2:38 |
 | 49 | [Mauricio MG](https://open.spotify.com/track/7pLa01jnr3LYNq6b3jDi1Z) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD) | [Mauricio MG](https://open.spotify.com/album/7IlEh5bGSPO3OM68Tjcxbw) | 2:35 |
 | 50 | [Finta De Fresitas](https://open.spotify.com/track/7EsdZUTmBOPWrWttIBkeQh) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Finta De Fresitas](https://open.spotify.com/album/72mTKDr3PmqRBCwUbH29Ta) | 2:55 |
 
-Snapshot ID: `ZpcJgAAAAACIM2p/gLY6uXEmVW1cl3pu`
+Snapshot ID: `ZphbAAAAAADjvIOvuzAH0tCXfzMlX6fc`

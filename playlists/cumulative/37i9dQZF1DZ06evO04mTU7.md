@@ -2,7 +2,7 @@
 
 ### [This Is Ajuliacosta](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04mTU7)
 
-> This is Ajuliacosta\. Todos os maiores hits em uma só playlist.
+> This is Ajuliacosta。アーティストの代表曲をひとつのプレイリストに。
 
 31 songs - 1 hr 35 min
 

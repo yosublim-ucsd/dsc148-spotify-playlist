@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: For Revenge
 
-[Spotify](https://open.spotify.com/user/spotify) - 768,289 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 768,399 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Penyangkalan](https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Penyangkalan](https://open.spotify.com/album/5DYiigOQPVOXd99jUnRTdP) | 4:00 |
-| 2 | [Dendam](https://open.spotify.com/track/5GrSLHiNBbNCE0EFKCZGIL) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288), [Sansan](https://open.spotify.com/artist/2dqYxW1KJNSUrpa8VDtiqt) | [Dendam](https://open.spotify.com/album/7LmipMyxzjFCeTyzNGio09) | 4:13 |
+| 2 | [Dendam](https://open.spotify.com/track/5GrSLHiNBbNCE0EFKCZGIL) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288), [Sansan](https://open.spotify.com/artist/2kW3rq21AuZ39ZyshPUZU2) | [Dendam](https://open.spotify.com/album/7LmipMyxzjFCeTyzNGio09) | 4:13 |
 | 3 | [Selama Ku Bernafas](https://open.spotify.com/track/2x8v50JevSgEgBB8SDtY9T) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Selama Ku Bernafas](https://open.spotify.com/album/73IVBgWRjUeOAlAjFTS3CX) | 4:54 |
 | 4 | [Angin Rindu](https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Angin Rindu](https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY) | 4:18 |
 | 5 | [Bermuara](https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Bermuara](https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd) | 4:47 |

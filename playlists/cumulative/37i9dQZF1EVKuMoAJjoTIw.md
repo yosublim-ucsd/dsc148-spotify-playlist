@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1EVKuMoAJjoTIw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EVKuMoAJjoTIw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EVKuMoAJjoTIw)
 
-### [Moody Mix](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
+### [Mix para un día tristón](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
 
-> <a href=spotify:playlist:37i9dQZF1EIVd6ZBwo8yir>Lord Huron</a>, <a href=spotify:playlist:37i9dQZF1EIWjEIfZH4l2n>Tom Odell</a>, <a href=spotify:playlist:37i9dQZF1EIZP1kY6rcyaY>Mitski</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIVd6ZBwo8yir>Lord Huron</a>, <a href=spotify:playlist:37i9dQZF1EIWjEIfZH4l2n>Tom Odell</a>, <a href=spotify:playlist:37i9dQZF1EIZP1kY6rcyaY>Mitski</a> y más
 
 614 songs - 1 day 11 hr 40 min
 
@@ -227,12 +227,12 @@
 | [Hold Me While You Wait](https://open.spotify.com/track/60iSKGrGazRzICtMjADNSM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:25 | 2022-11-29 |  |
 | [Hold On](https://open.spotify.com/track/5vjLSffimiIP26QG5WcN2K) | [Chord Overstreet](https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0) | [Hold On](https://open.spotify.com/album/2EfmyRWheMtmVTCIsptsLi) | 3:18 | 2022-11-29 |  |
 | [Homesick](https://open.spotify.com/track/0jkzxxDG8z3Y5OmfNl1VM0) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:14 | 2024-01-14 | 2024-01-15 |
-| [Hope](https://open.spotify.com/track/2ZRo7axmMPeSVUvDbGkJah) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 1:50 | 2022-11-30 |  |
+| [Hope](https://open.spotify.com/track/2ZRo7axmMPeSVUvDbGkJah) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 1:50 | 2022-11-30 | 2024-07-20 |
 | [hostage](https://open.spotify.com/track/7hsI66hd2zDvcqDMOkGkfy) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me \(Expanded Edition\)](https://open.spotify.com/album/5YCdlD3eREt72lTZxNL7id) | 3:49 | 2023-07-02 | 2023-07-11 |
 | [hotline \(edit\)](https://open.spotify.com/track/0WFryfbNKPXVtVQlz5dZ8H) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [hotline \(edit\)](https://open.spotify.com/album/5iq9BytomHl2yBtORjUlzP) | 1:00 | 2024-01-01 | 2024-06-13 |
 | [How Could You](https://open.spotify.com/track/7wB9sL81rFRGhRt6msZ9CV) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 3:07 | 2023-12-18 | 2024-01-23 |
 | [How Could You Leave Us](https://open.spotify.com/track/10bt2wAkFgCWRCEOyAyWT9) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [Therapy Session](https://open.spotify.com/album/75fT8UQEDnekHNhRnbdpNI) | 5:22 | 2023-01-06 | 2023-04-04 |
-| [How Do I Say Goodbye](https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 2:43 | 2022-12-02 | 2024-07-19 |
+| [How Do I Say Goodbye](https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 2:43 | 2022-12-02 |  |
 | [How to Disappear Completely](https://open.spotify.com/track/2rtGaCAeYtmcIvuZsvgTf6) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 5:56 | 2023-12-24 | 2024-01-11 |
 | [How To Never Stop Being Sad](https://open.spotify.com/track/6ZLt6fyonW1xOGMBC9vJPJ) | [dandelion hands](https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm) | [It's All In Your Head](https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR) | 2:10 | 2023-02-19 | 2024-05-01 |
 | [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 | 2023-12-19 | 2024-03-26 |

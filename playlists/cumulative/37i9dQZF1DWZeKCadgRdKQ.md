@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-731 songs - 1 day 14 hr 26 min
+733 songs - 1 day 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [both sides of the coin](https://open.spotify.com/track/1chT7Yo3zSvjFPRQ20fWFH) | [Electric Rivers](https://open.spotify.com/artist/4ATjV5COMvZp7XfnELm7nV) | [crestline](https://open.spotify.com/album/0uQHf0jM3WV0yLSoS9x2tj) | 2:51 | 2021-10-13 | 2024-05-12 |
 | [bounce back](https://open.spotify.com/track/1rkxyQH6y3qxysbYKo8yyI) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [bounce back](https://open.spotify.com/album/2RIB7N4j1LhepCLO9K41Ds) | 2:58 | 2023-04-21 | 2023-09-26 |
 | [Bouquet with Lilies](https://open.spotify.com/track/1j45uvYWACNGDZ0jmKSTuP) | [La Acacia](https://open.spotify.com/artist/5G9yqrjh885YlBh921HYc7) | [Bouquet with Lilies](https://open.spotify.com/album/3JGmJSzuX2y17DuPOWtLNj) | 3:36 | 2020-01-03 | 2022-01-12 |
-| [Box of Puzzles](https://open.spotify.com/track/431AGNkunph9tljrKJ1ajO) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [Box of Puzzles](https://open.spotify.com/album/1bF0vGk9X8YhcvJvz2nDYc) | 2:39 | 2023-09-26 |  |
+| [Box of Puzzles](https://open.spotify.com/track/431AGNkunph9tljrKJ1ajO) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [Box of Puzzles](https://open.spotify.com/album/1bF0vGk9X8YhcvJvz2nDYc) | 2:39 | 2023-09-26 | 2024-07-20 |
 | [Boy 1904](https://open.spotify.com/track/44XF19WDSmEgCq1IuW2NmA) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps](https://open.spotify.com/album/7geaPgu6PxeEyhBOa20ajZ) | 5:03 | 2019-05-26\* | 2019-06-27 |
 | [Branch](https://open.spotify.com/track/2Sd7KgjJDMc7vhDe64nBpi) | [Keith Keniff](https://open.spotify.com/artist/2X8UJm1TVQT3Nl6kUMYyoq), [Keith Kenniff](https://open.spotify.com/artist/58vAPNWfb4STwW9IWvSlLG) | [Branches](https://open.spotify.com/album/4IbKXPIjP2Okg0Php81yFN) | 2:05 | 2019-05-26\* | 2020-08-07 |
 | [Branches And Constellations](https://open.spotify.com/track/6fD08OgJKEiviZ1R3h8SK8) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Seasons Pt\. 3](https://open.spotify.com/album/7yaSxLY5uwMkpFc5CdZeur) | 6:27 | 2019-05-26\* | 2019-06-19 |
@@ -354,7 +354,7 @@
 | [line up](https://open.spotify.com/track/4RQFT3aZPjhuafwXNUnL6x) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [line up](https://open.spotify.com/album/1FzTPoHFZ0QDthxwSHCBgl) | 2:25 | 2022-03-15 | 2024-05-12 |
 | [lining the cloud](https://open.spotify.com/track/2UPZhccmKlfIV1oWZxDhXN) | [Aguto Rising](https://open.spotify.com/artist/3L7kF3nc7Xv5oFW6T4sZfG) | [lining the cloud](https://open.spotify.com/album/0BmNMIxXMh3QwIjDur3mZG) | 2:32 | 2022-03-24 | 2024-05-12 |
 | [Little Sines](https://open.spotify.com/track/4gNRFtIO2Bx8OUsNrU2shy) | [Rhian Sheehan](https://open.spotify.com/artist/0H1edn1doFZiHiu2INB2CT) | [Stories From Elsewhere](https://open.spotify.com/album/415i3x5EwVM58FG06K0WlS) | 3:32 | 2019-05-26\* | 2019-06-19 |
-| [lone cowboy](https://open.spotify.com/track/5UZdpqf1F4fvDqvGYC2sRt) | [Astronaut In The Desert](https://open.spotify.com/artist/2BUKygVaHZcOw8UI2wEPJ2) | [lone cowboy](https://open.spotify.com/album/3q7mTrEO8fhmbdh64N1km3) | 2:35 | 2023-01-09 |  |
+| [lone cowboy](https://open.spotify.com/track/5UZdpqf1F4fvDqvGYC2sRt) | [Astronaut In The Desert](https://open.spotify.com/artist/2BUKygVaHZcOw8UI2wEPJ2) | [lone cowboy](https://open.spotify.com/album/3q7mTrEO8fhmbdh64N1km3) | 2:35 | 2023-01-09 | 2024-07-20 |
 | [Lonely Molecule](https://open.spotify.com/track/5pDZOftc3EvBBkJWfNXcNn) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Lonely Molecule](https://open.spotify.com/album/3pwh2SSC8VXqeWys5gS1xQ) | 3:27 | 2019-06-19\* | 2020-08-07 |
 | [Long Distances](https://open.spotify.com/track/47tOl9FF9r6tNJypRo3Pe9) | [Barkérby](https://open.spotify.com/artist/6mqsrh86husSPgTkw7L9w6) | [Long Distances](https://open.spotify.com/album/4JnKnvZH0YyEAD1bB5v7sa) | 2:04 | 2024-03-08 |  |
 | [Look At The Stars](https://open.spotify.com/track/4YhxXaf6Qrn5DrmgEfhwLH) | [The Purple Stripe](https://open.spotify.com/artist/4XIkeyeO2tENGL73fDZS1A) | [Look At The Stars](https://open.spotify.com/album/1zq2gcTCCKtXMsF9qg8xvR) | 3:36 | 2021-10-13 | 2024-05-12 |
@@ -486,6 +486,7 @@
 | [Pulchra](https://open.spotify.com/track/1IDVgnfcpNCSz39MJqziCf) | [At The End Of Times, Nothing](https://open.spotify.com/artist/249C09TWxdBKs7Z5BN2MU6) | [The Island](https://open.spotify.com/album/05MCWiTW4ztBsxCIm9JjXl) | 2:37 | 2019-05-26\* | 2020-01-09 |
 | [pull me in](https://open.spotify.com/track/6Nk81KRPclU0PJmYQeEZyF) | [Sun Of They](https://open.spotify.com/artist/5zmB7dGi1rKdsEYVxQvJpS) | [pull me in](https://open.spotify.com/album/4KwVnXzkcEfVGAnT94IUeu) | 3:06 | 2023-06-09 |  |
 | [Pyramids](https://open.spotify.com/track/1a2BXMnQbjArGITwt3bMD9) | [Humasnó](https://open.spotify.com/artist/2Wz9qZXuCKpiz1XY33xXOp) | [Pyramids](https://open.spotify.com/album/0MZDh1O5yxy2LbDRwbVilE) | 2:01 | 2023-04-07 |  |
+| [Quiet And Gentle](https://open.spotify.com/track/1nFI8uEfuL6E9Kykv6lTXI) | [BBG's](https://open.spotify.com/artist/0rKBlryjOUk7Oy1v0RCG0o) | [Quiet And Gentle](https://open.spotify.com/album/0dDtVTzmbkbYkK0p6Yw0jk) | 2:40 | 2024-07-19 |  |
 | [Quiet Thinking](https://open.spotify.com/track/5kukWcGnSNpw8YGy1JV8zu) | [Stories Seldom Told](https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7) | [Quiet Thinking](https://open.spotify.com/album/5qnVWivmwgrdoZlhCrqmWx) | 2:22 | 2022-10-15 | 2023-05-27 |
 | [Raga for HAL](https://open.spotify.com/track/5d3kpW56erBx62L5vhIl8y) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [Raga for HAL](https://open.spotify.com/album/4LynMxu1JCig4PRGMtv6iQ) | 2:58 | 2021-04-28 | 2023-07-14 |
 | [Rain check](https://open.spotify.com/track/3HIGIzOdZT144czJSag5GW) | [Imber Sun](https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X) | [Rain check](https://open.spotify.com/album/1MgdCGYUQMd7LnwGXxNsYm) | 2:31 | 2024-06-11 |  |
@@ -704,6 +705,7 @@
 | [waveforms](https://open.spotify.com/track/2dwLTY84vCeubyM0jM0nXH) | [Joy Parade](https://open.spotify.com/artist/4obAvtejwiAj0YW3Q4CH1o) | [waveforms](https://open.spotify.com/album/6Lo6uzBAeHRPlys9rzgEna) | 2:43 | 2022-12-02 | 2023-09-26 |
 | [Waves](https://open.spotify.com/track/4Ua4NrNeTgqMPB3cCdtuX5) | [Eucalyptic](https://open.spotify.com/artist/7fFV1CuS9eT92DKj0Zzpt9) | [Waves](https://open.spotify.com/album/3ZCPMLfLcFDmenpUerrAi4) | 3:22 | 2019-06-19\* | 2021-09-03 |
 | [We Are Forever](https://open.spotify.com/track/0u7ghYOO8OSamsX8yakIVw) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/2oL51NXTh3XyG4ZQBYo5qd) | 2:13 | 2019-05-26\* | 2020-08-07 |
+| [We Begin](https://open.spotify.com/track/5IJeAPGukwV8QrYEVbkt79) | [Peter Wiehl](https://open.spotify.com/artist/4o24XKesoVS2rDD20Uo8pi) | [We Begin](https://open.spotify.com/album/0O7Bxkgvz1DDLNgCwrO9FC) | 2:31 | 2024-07-19 |  |
 | [What We Call Home](https://open.spotify.com/track/6uddOaYobZ26MA4lXmPtR9) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [What We Call Home](https://open.spotify.com/album/43i5sM7kRQsjoyo1gm7fGB) | 3:49 | 2019-06-19\* | 2019-06-27 |
 | [What You Love You Must Love Now](https://open.spotify.com/track/3L0fPX8biELkH57fF3Exkd) | [The Six Parts Seven](https://open.spotify.com/artist/3puKPIXi7bUDnPuJZOlJxL) | [Everywhere And Right Here](https://open.spotify.com/album/3tpwV2Th7Q7sS7TzeE4viK) | 5:22 | 2019-05-26\* | 2021-05-18 |
 | [What You Were Looking For](https://open.spotify.com/track/5LdVyywNiR4gqPPM3yqVSR) | [Broken Legacy](https://open.spotify.com/artist/3hG7itMdTJT8vc0JYh771M) | [What You Were Looking For](https://open.spotify.com/album/6pklafdCgfLBxOngHGcgfN) | 3:20 | 2023-03-23 |  |

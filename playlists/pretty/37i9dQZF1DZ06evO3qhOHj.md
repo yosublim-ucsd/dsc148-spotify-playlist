@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qhOHj.md) - [plain]
 
 > This is Mr\. Big\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,464 likes - 51 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,473 likes - 51 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qhOHj.md) - [plain]
 | 6 | [Just Take My Heart \- 2021 Remastered](https://open.spotify.com/track/2hngAqZosbB3oYHYzsbtM9) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 4:23 |
 | 7 | [Nothing but Love \- 2009 Remastered Version](https://open.spotify.com/track/76J6iClvhdPlYsaYNpTFYI) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 3:45 |
 | 8 | [Take Cover](https://open.spotify.com/track/77VL07g9hIVtowNCIyr9l2) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 4:37 |
-| 9 | [I'll Leave It Up To You](https://open.spotify.com/track/0JgDzxPx6ue5NGysiDz2uj) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Deep Cuts: The Best Of The Ballads](https://open.spotify.com/album/7ecgPBHbGOm0S4Hl21FEgq) | 3:18 |
+| 9 | [Addicted To That Rush \- 2023 Remastered](https://open.spotify.com/track/59I1DrJrPtVg3mSJ4ZCtu7) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \(2023 Remastered\)](https://open.spotify.com/album/5OtrlDneedFuFRBHrtNa42) | 4:45 |
 | 10 | [Green\-Tinted Sixties Mind \- 2021 Remastered](https://open.spotify.com/track/36zcRIdiJr94WIsWxbNMbU) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 3:30 |
-| 11 | [Addicted To That Rush \- 2023 Remastered](https://open.spotify.com/track/59I1DrJrPtVg3mSJ4ZCtu7) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \(2023 Remastered\)](https://open.spotify.com/album/5OtrlDneedFuFRBHrtNa42) | 4:45 |
+| 11 | [I'll Leave It Up To You](https://open.spotify.com/track/0JgDzxPx6ue5NGysiDz2uj) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Deep Cuts: The Best Of The Ballads](https://open.spotify.com/album/7ecgPBHbGOm0S4Hl21FEgq) | 3:18 |
 | 12 | [Not One Night](https://open.spotify.com/track/6V515Poan7LK5imto1SIZI) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Big, Bigger, Biggest! The Best Of Mr\. Big](https://open.spotify.com/album/0yinyY8MeITpBJdvVKfvQc) | 3:38 |
 | 13 | [Promise Her the Moon \- 2009 Remastered Version](https://open.spotify.com/track/6gVvbSDrQYtFmH3FsOAzZ3) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 4:06 |
 | 14 | [Daddy, Brother, Lover, Little Boy \(The Electric Drill Song\) \- 2021 Remastered](https://open.spotify.com/track/6YsOshSb3F3b07X9lIw5Et) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 3:56 |
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qhOHj.md) - [plain]
 | 27 | [Who We Are](https://open.spotify.com/track/5HnbBZhHvyvmwOGYQPlm31) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC) | 3:52 |
 | 28 | [Anything For You \- 2009 Remastered Version](https://open.spotify.com/track/2QUeoJUK5KYn6P6medGcgM) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \[Expanded\]](https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd) | 4:38 |
 | 29 | [Just Take My Heart \[Acoustic\] \- 2021 Remastered](https://open.spotify.com/track/3jlYHtyC4XxNgyjMzIFfDQ) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 3:49 |
-| 30 | [Colorado Bulldog \- 2009 Remastered Version](https://open.spotify.com/track/7CqczQ0HGS9C7koT1NMWcb) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 4:13 |
+| 30 | [CDFF\-Lucky This Time \- 2010 Remastered Version](https://open.spotify.com/track/0HVMgdDyhr4pwNqrVh1TWB) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 4:13 |
 | 31 | [As Good As It Gets](https://open.spotify.com/track/17AdKvkNwCHuSPmTn6l4aA) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC) | 4:11 |
-| 32 | [CDFF\-Lucky This Time \- 2010 Remastered Version](https://open.spotify.com/track/0HVMgdDyhr4pwNqrVh1TWB) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 4:13 |
+| 32 | [Colorado Bulldog \- 2009 Remastered Version](https://open.spotify.com/track/7CqczQ0HGS9C7koT1NMWcb) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 4:13 |
 | 33 | [Up On You](https://open.spotify.com/track/26PsjfFm0WptxsN9pkRh13) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Up On You](https://open.spotify.com/album/0Gl9UYk3oZiDgw1z7eX9Kl) | 4:34 |
 | 34 | [Where Are They Now?](https://open.spotify.com/track/6624eWVGf6m29iK3AKXuI6) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Deep Cuts: The Best Of The Ballads](https://open.spotify.com/album/7ecgPBHbGOm0S4Hl21FEgq) | 4:22 |
 | 35 | [Courageous](https://open.spotify.com/track/6WOlMP5sOuLAxTytEfl0OJ) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC) | 4:34 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qhOHj.md) - [plain]
 | 37 | [Dancin' Right into the Flame](https://open.spotify.com/track/1itoqFGkjBIoVyyibyCIjs) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 3:03 |
 | 38 | [Never Say Never \- 2010 Remastered Version](https://open.spotify.com/track/7e8gvHt0e4vw55RUAlq25X) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 3:49 |
 | 39 | [Undertow](https://open.spotify.com/track/3g811urVvhkvAv3fT5BzTq) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [What If...](https://open.spotify.com/album/378UK4ew1Emc72jH4KzRfq) | 4:48 |
-| 40 | [Rock & Roll Over \- 2009 Remastered Version](https://open.spotify.com/track/6iPitq8OYncx3RKB8e6cFu) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \[Expanded\]](https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd) | 3:50 |
-| 41 | [Strike Like Lightning \- Remastered](https://open.spotify.com/track/58LtaOiGBPEeVbJUUxXFRE) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Greatest Hits](https://open.spotify.com/album/7uV3SQQ8UOlvZOnEh1E8xi) | 3:42 |
+| 40 | [Strike Like Lightning \- Remastered](https://open.spotify.com/track/58LtaOiGBPEeVbJUUxXFRE) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Greatest Hits](https://open.spotify.com/album/7uV3SQQ8UOlvZOnEh1E8xi) | 3:42 |
+| 41 | [Rock & Roll Over \- 2009 Remastered Version](https://open.spotify.com/track/6iPitq8OYncx3RKB8e6cFu) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \[Expanded\]](https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd) | 3:50 |
 | 42 | [My Kinda Woman \- 2021 Remastered](https://open.spotify.com/track/1AE0h9TKvWIwnpFzmuFYad) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 4:12 |
 | 43 | [Road to Ruin \- 2010 Remastered Version](https://open.spotify.com/track/2mkrQ6styM2orpDSCTmfm8) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 3:59 |
 | 44 | [Suffocation](https://open.spotify.com/track/6LBTeCeUVFXO9rf6LbkDYI) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Actual Size](https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq) | 4:42 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qhOHj.md) - [plain]
 | 50 | [Tears](https://open.spotify.com/track/2dvxVshYOguKNlimauN4Mx) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 3:20 |
 | 51 | [A Little Too Loose \- 2010 Remastered Version](https://open.spotify.com/track/59VVs4joFeFmciCU9psuBE) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 5:20 |
 
-Snapshot ID: `ZpcJgAAAAAC5ivlQ+HN+KAr3EbSIWTiF`
+Snapshot ID: `ZphbAAAAAADgkLxrixOcisZYud/caG1H`

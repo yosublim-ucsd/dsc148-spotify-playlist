@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 
 > This is Emei\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,494 likes - 20 songs - 47 min 41 sec
+[Spotify](https://open.spotify.com/user/spotify) - 6,515 likes - 20 songs - 47 min 41 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 | 19 | [Distracted](https://open.spotify.com/track/5YOzLTrk5Xzmg4rhYTmWiq) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU), [LEXIM](https://open.spotify.com/artist/6d3Ln06qXCe5Mt85yEFxE6) | [Distracted](https://open.spotify.com/album/762HvFjPyK8ck5uJ79lHHq) | 2:40 |
 | 20 | [Don't Know About The World](https://open.spotify.com/track/7xil2jjcEh4kaU3XXoAPh8) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:23 |
 
-Snapshot ID: `ZpcJgAAAAAAcraAahoJytTGyWKlBh38s`
+Snapshot ID: `ZphbAAAAAADYuwUiQiy9O9hu7DoAlvOL`

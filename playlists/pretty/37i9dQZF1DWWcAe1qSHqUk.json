@@ -339,22 +339,6 @@
     {
       "added_at": "2024-07-08 02:49:20",
       "album": {
-        "name": "Day Breaks",
-        "url": "https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 185586,
-      "name": "And Then There Was You",
-      "url": "https://open.spotify.com/track/1Yo6lvTsNozmc9Y9SA275E"
-    },
-    {
-      "added_at": "2024-07-08 02:49:20",
-      "album": {
         "name": "The Best Is Yet to Come - The Songs of Cy Coleman",
         "url": "https://open.spotify.com/album/2d6MOVjMtiiFoZNHK9Xk0p"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 316840,
       "name": "Why Try to Change Me Now",
       "url": "https://open.spotify.com/track/7fKA60i4JhkavVw7fQFOHS"
+    },
+    {
+      "added_at": "2024-07-08 02:49:20",
+      "album": {
+        "name": "Day Breaks",
+        "url": "https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 185586,
+      "name": "And Then There Was You",
+      "url": "https://open.spotify.com/track/1Yo6lvTsNozmc9Y9SA275E"
     },
     {
       "added_at": "2024-07-08 02:49:20",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-07-08 02:49:20",
       "album": {
-        "name": "Carr Toons",
-        "url": "https://open.spotify.com/album/7axCmFJWsyuWe8GrsIcmvJ"
+        "name": "The Vienna Affair",
+        "url": "https://open.spotify.com/album/0osoqYEBr9ktCHCxiKXt0k"
       },
       "artists": [
         {
-          "name": "Amanda Carr",
-          "url": "https://open.spotify.com/artist/05F7ATDPBJrAcO6uIIoQRr"
+          "name": "Kevin Mahogany",
+          "url": "https://open.spotify.com/artist/7sJEt4QPDYhjJ9tcHSlhhN"
         }
       ],
-      "duration_ms": 169533,
-      "name": "Scotch and Soda",
-      "url": "https://open.spotify.com/track/5DKiuGttXpShOHo23QILWG"
+      "duration_ms": 237106,
+      "name": "Pretty Blue",
+      "url": "https://open.spotify.com/track/39dek8lZZtNLMuHHFh2MUG"
     },
     {
       "added_at": "2024-07-08 02:49:20",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2024-07-08 02:49:20",
       "album": {
-        "name": "The Vienna Affair",
-        "url": "https://open.spotify.com/album/0osoqYEBr9ktCHCxiKXt0k"
+        "name": "Carr Toons",
+        "url": "https://open.spotify.com/album/7axCmFJWsyuWe8GrsIcmvJ"
       },
       "artists": [
         {
-          "name": "Kevin Mahogany",
-          "url": "https://open.spotify.com/artist/7sJEt4QPDYhjJ9tcHSlhhN"
+          "name": "Amanda Carr",
+          "url": "https://open.spotify.com/artist/05F7ATDPBJrAcO6uIIoQRr"
         }
       ],
-      "duration_ms": 237106,
-      "name": "Pretty Blue",
-      "url": "https://open.spotify.com/track/39dek8lZZtNLMuHHFh2MUG"
+      "duration_ms": 169533,
+      "name": "Scotch and Soda",
+      "url": "https://open.spotify.com/track/5DKiuGttXpShOHo23QILWG"
     },
     {
       "added_at": "2024-07-08 02:49:20",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-07-08 02:49:20",
       "album": {
-        "name": "I Want To Talk About You",
-        "url": "https://open.spotify.com/album/41ZrzvkOwvqsm0HliMBwrW"
+        "name": "Make this moment",
+        "url": "https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY"
       },
       "artists": [
         {
-          "name": "Catherine Russell",
-          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
+          "name": "Inger Marie Gundersen",
+          "url": "https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq"
         }
       ],
-      "duration_ms": 273266,
-      "name": "I Want To Talk About You",
-      "url": "https://open.spotify.com/track/1qQlQID3eEJ9Nm4sgfKwF4"
+      "duration_ms": 314826,
+      "name": "Allways on my mind",
+      "url": "https://open.spotify.com/track/1Ppff3gyyUBG91dPwjaWTW"
     }
   ],
   "unique_name": "\u7235\u58eb\u60c5\u6b4c",

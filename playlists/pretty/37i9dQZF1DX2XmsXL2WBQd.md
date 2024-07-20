@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,351 likes - 70 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,441 likes - 70 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 19 | [Freaks Come Out at Night](https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:42 |
 | 20 | [Peter Piper](https://open.spotify.com/track/5gsY63Dq5ht0LEvydhj9lA) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 3:24 |
 | 21 | [Strictly Business](https://open.spotify.com/track/1xZdjsAGrY4BUIbIlYy3EX) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Strictly Business](https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5) | 4:45 |
-| 22 | [Hey DJ](https://open.spotify.com/track/7tW7kmX6o8avIUxN8yBUEo) | [Worlds Famous Supreme Team](https://open.spotify.com/artist/01VXEpueAsBp3I5CAFUnti) | [Hey DJ](https://open.spotify.com/album/06c1nSdZa3jT2UCn024dV2) | 3:26 |
+| 22 | [I Need Love](https://open.spotify.com/track/3UP7dzy4ISy8S3HOReCd1q) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [All World](https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M) | 5:21 |
 | 23 | [Smooth Operator](https://open.spotify.com/track/1Z4mVNtYGnpjHUoZVo3IMU) | [Big Daddy Kane](https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W) | [It's A Big Daddy Thing](https://open.spotify.com/album/1cvyT4p26JXJicEBbHPzvX) | 4:44 |
 | 24 | [Paid In Full](https://open.spotify.com/track/3fatX7w8Wt9nmwGlXZsRFh) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv), [Marley Marl](https://open.spotify.com/artist/0AqfGv5Nifg1klh0iH4Nqs) | [Paid In Full](https://open.spotify.com/album/5GSidytcItIkYvD0GVQ68m) | 3:48 |
-| 25 | [I Need Love](https://open.spotify.com/track/3UP7dzy4ISy8S3HOReCd1q) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [All World](https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M) | 5:21 |
+| 25 | [Hey DJ](https://open.spotify.com/track/7tW7kmX6o8avIUxN8yBUEo) | [Worlds Famous Supreme Team](https://open.spotify.com/artist/01VXEpueAsBp3I5CAFUnti) | [Hey DJ](https://open.spotify.com/album/06c1nSdZa3jT2UCn024dV2) | 3:26 |
 | 26 | [The Bridge Is Over](https://open.spotify.com/track/5jkjpSsMOfsxgdGScPZVq2) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [Criminal Minded \(Deluxe\)](https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55) | 3:24 |
 | 27 | [King of Rock](https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [King Of Rock \(Expanded Edition\)](https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6) | 5:14 |
 | 28 | [Colors \- 2014 Remaster](https://open.spotify.com/track/7CMww2nlc2THVjJeLOYBrk) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Greatest Hits](https://open.spotify.com/album/13AED1HGzWlkxETo6aquK1) | 4:26 |

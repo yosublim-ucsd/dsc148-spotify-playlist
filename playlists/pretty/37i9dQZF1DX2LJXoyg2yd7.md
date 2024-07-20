@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 
 > The sweet sounds of Yemen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,462 likes - 40 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,472 likes - 40 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 | 25 | [يالبعيد](https://open.spotify.com/track/2AytFH0o2V70r3kVvXYaUc) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [يالبعيد](https://open.spotify.com/album/2rBW5WEEjeirM99VclLcVV) | 6:21 |
 | 26 | [الغربة](https://open.spotify.com/track/7HLtsXWAIbj4bvSzCh22Z2) | [جميلة سعد](https://open.spotify.com/artist/31zyGXZDfPNOIQks6nG7Ac) | [الغربة](https://open.spotify.com/album/1VsOrYmrP0gy0Qh9KZJNze) | 3:47 |
 | 27 | [يا متيم](https://open.spotify.com/track/7w7GSGMmMGFJa7jIXOkTXz) | [مروة سالم](https://open.spotify.com/artist/5T8HcA0hsPwLvdejz6NKJj) | [يا متيم \- Single](https://open.spotify.com/album/7dwA6hXAiRBvPG11tyAdwM) | 4:34 |
-| 28 | [سهران ليلي طويل](https://open.spotify.com/track/5JznYp6lPkay71CMMlioYN) | [Yousef Al Badgi](https://open.spotify.com/artist/3VNIVCXWZ65vQQvNwM5YvQ) | [يستر عليك](https://open.spotify.com/album/0OGrM2ovZPZb11Lrws7Mqq) | 5:29 |
-| 29 | [افا عليك](https://open.spotify.com/track/5BSLLQTgC8ZWPNNtQ38iK3) | [Ahmed Alwi](https://open.spotify.com/artist/4lvCiUpjys3gvBk1qpK6Z0) | [افا عليك](https://open.spotify.com/album/3OK7HxtdSD9GTB7e85I5bY) | 4:33 |
+| 28 | [افا عليك](https://open.spotify.com/track/5BSLLQTgC8ZWPNNtQ38iK3) | [Ahmed Alwi](https://open.spotify.com/artist/4lvCiUpjys3gvBk1qpK6Z0) | [افا عليك](https://open.spotify.com/album/3OK7HxtdSD9GTB7e85I5bY) | 4:33 |
+| 29 | [سهران ليلي طويل](https://open.spotify.com/track/5JznYp6lPkay71CMMlioYN) | [Yousef Al Badgi](https://open.spotify.com/artist/3VNIVCXWZ65vQQvNwM5YvQ) | [يستر عليك](https://open.spotify.com/album/0OGrM2ovZPZb11Lrws7Mqq) | 5:29 |
 | 30 | [يا مهاجر](https://open.spotify.com/track/3bBj0z4e5PSRKq9uIB8LGD) | [احمد العطاس](https://open.spotify.com/artist/6l0FoPSmxMITuwCK5GEQo1) | [يا مهاجر](https://open.spotify.com/album/1AhnOD0kXo4Nc3B0oMl7eJ) | 7:07 |
 | 31 | [الف انا الف](https://open.spotify.com/track/1z04QcrdC5719bRiTbB1RV) | [Mohamed Hammoud Al Harthy](https://open.spotify.com/artist/6z9RD3uY6YRNvnkMcecYek) | [الف انا الف](https://open.spotify.com/album/430Xh2jplLQRh4xOmFlK8a) | 9:06 |
 | 32 | [يا هزلي](https://open.spotify.com/track/4BVdXOwGUoSkO9HmEUwueR) | [صدام الحاج](https://open.spotify.com/artist/319JmnE2iYxjJ7t9eQNTTs) | [زفة](https://open.spotify.com/album/7jg5sVfoMzGCzRRomCC0yX) | 6:26 |

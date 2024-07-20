@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 
 > El cholo se hizo buchón 😎🤠  Picus y Octavio Cuadras en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,315 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,348 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 47 | [Como Pancho Villa](https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Como Pancho Villa](https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob) | 2:23 |
 | 48 | [Me Gusta Mi Vida](https://open.spotify.com/track/1lRYofIUSURrWsUVafsmzH) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Me Gusta Mi Vida](https://open.spotify.com/album/6Afdo0WciubGD9TEGkrop9) | 3:47 |
 | 49 | [Pacas De Billetes](https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Pacas De Billetes](https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG) | 3:08 |
-| 50 | [SC\-9](https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [SC\-9](https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2) | 2:45 |
-| 51 | [Ojos Tumbados](https://open.spotify.com/track/2uHEX5YxQU9wpHH0dQlChS) | [Alto Linaje](https://open.spotify.com/artist/5fUua1kfdZhAopUPazcdC5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Ojos Tumbados](https://open.spotify.com/album/7rxhqZe4tBOackaMInfpjU) | 3:38 |
+| 50 | [Ojos Tumbados](https://open.spotify.com/track/2uHEX5YxQU9wpHH0dQlChS) | [Alto Linaje](https://open.spotify.com/artist/5fUua1kfdZhAopUPazcdC5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Ojos Tumbados](https://open.spotify.com/album/7rxhqZe4tBOackaMInfpjU) | 3:38 |
+| 51 | [SC\-9](https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [SC\-9](https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2) | 2:45 |
 | 52 | [ICE CREAM](https://open.spotify.com/track/6wprSQTo6JpzI2bGiWVThv) | [Los mismos De La M](https://open.spotify.com/artist/2OtwuHrORYlzWWIKGxfLR8), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [ICE CREAM](https://open.spotify.com/album/4YqJEdh2QTYfxj8pFzVEuW) | 2:11 |
 | 53 | [Híbrido](https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Híbrido](https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv) | 2:54 |
 | 54 | [Gente Corriente \- En Vivo](https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Seguimos Dejando Marca \(En Vivo\)](https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k) | 2:27 |
 | 55 | [Gorra L.A.](https://open.spotify.com/track/08OOZHubFNdgVZ3N714zjG) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Gorra L.A.](https://open.spotify.com/album/1CSP6xUW9UGaQG4XsWRY1j) | 2:41 |
 | 56 | [Bien Tony Montana](https://open.spotify.com/track/5FK2Ee6xXBspGF8nllIRKM) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Bien Tony Montana](https://open.spotify.com/album/1sv4ITV71Vv0ph7CKYLqlu) | 2:46 |
 | 57 | [Tiempos de Guerra](https://open.spotify.com/track/1UoCDn52urzsC0Uoo4odt4) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [TipoSierraBros](https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1), [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61) | [Tiempos de Guerra](https://open.spotify.com/album/5S5kavEVkjHzXEANJ8bNqt) | 2:52 |
-| 58 | [Rockstar](https://open.spotify.com/track/50KucaDoVIZ6Uhyt52gNbQ) | [Los Master Plus](https://open.spotify.com/artist/5mrBEGdNTaiavWCmaNet6z) | [Va En Serio](https://open.spotify.com/album/1IX7xMQ6ZRtsCU01kFyRXu) | 2:47 |
-| 59 | [Moda](https://open.spotify.com/track/3y7SyqSwwDm8Ku6v3ZfQDf) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Moda](https://open.spotify.com/album/3cFGhTtaIJJfJWYkeNQ2o2) | 2:55 |
+| 58 | [Moda](https://open.spotify.com/track/3y7SyqSwwDm8Ku6v3ZfQDf) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Moda](https://open.spotify.com/album/3cFGhTtaIJJfJWYkeNQ2o2) | 2:55 |
+| 59 | [Rockstar](https://open.spotify.com/track/50KucaDoVIZ6Uhyt52gNbQ) | [Los Master Plus](https://open.spotify.com/artist/5mrBEGdNTaiavWCmaNet6z) | [Va En Serio](https://open.spotify.com/album/1IX7xMQ6ZRtsCU01kFyRXu) | 2:47 |
 | 60 | [El Boom](https://open.spotify.com/track/1SQe4UUgUSRvY2SD10Ft3o) | [Grupo 360](https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC) | [El Boom](https://open.spotify.com/album/1yKupzUivdMwcsplXhaLDR) | 4:21 |
 | 61 | [Lujo y Detalle](https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Lujo y Detalle](https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj) | 2:38 |
 | 62 | [Koenigsegg](https://open.spotify.com/track/3jZ24Jd8i5FNpePjYQy4ck) | [Brian Santin](https://open.spotify.com/artist/7yqNw1jSOfhiP62pXYggdx), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Koenigsegg](https://open.spotify.com/album/2BCfKhmwimc5a0lhdRZN65) | 3:06 |

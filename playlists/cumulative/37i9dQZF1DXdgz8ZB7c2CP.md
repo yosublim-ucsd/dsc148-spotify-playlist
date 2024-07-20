@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Killen\. & Oaks
 
-776 songs - 1 day 18 hr 49 min
+777 songs - 1 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [ALIVE](https://open.spotify.com/track/1ORyw3VGzs2mAXZvJCXXIL) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa), [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv), [Huggotron](https://open.spotify.com/artist/33IDYAvs6nPjRgxWdsLFDG) | [ALIVE](https://open.spotify.com/album/3mV9FPpEg0xEb6Hfusy5wx) | 2:09 | 2024-04-25 | 2024-05-09 |
 | [All Again](https://open.spotify.com/track/1EHT4y5kyE0goaTmSEdEqW) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [All Again](https://open.spotify.com/album/4En2WlLfGumuYwiqY6jJEG) | 2:37 | 2024-01-12 | 2024-02-16 |
 | [All Good \- Jasper Tygner Remix](https://open.spotify.com/track/19FSj8Zq5ZUEF6C87rKPcH) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98), [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [All Good \(Jasper Tygner Remix\)](https://open.spotify.com/album/0l8JO6jLZBpLzcNe0vo4Ri) | 4:03 | 2023-08-04 | 2023-12-14 |
+| [All I Need](https://open.spotify.com/track/23DvufvHJAr0OUPfrB7g2J) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Things to Come](https://open.spotify.com/album/27vIEhBrsAL30xLMS41ZyA) | 2:43 | 2024-07-19 |  |
 | [All I Really Need](https://open.spotify.com/track/1swFJw7cDPCqzMfC7a2bWb) | [Vindata](https://open.spotify.com/artist/1Vxf1UfzcxqzqItoOA0DDT), [Kenzie May](https://open.spotify.com/artist/5dehztX64sgpHfGE3ooDlg) | [For One to Follow](https://open.spotify.com/album/5APyA3dx7QBAzXu4kXP8wq) | 5:54 | 2021-08-06 | 2023-02-11 |
 | [all my friends](https://open.spotify.com/track/1qTox4BWDEbDJyLDLm0ggT) | [Prince Woods](https://open.spotify.com/artist/4tMGyWuFOvj3YA7Y9AqDHc) | [all my friends](https://open.spotify.com/album/4kEJGuqvWhMiKqqYvVZhE0) | 2:17 | 2021-10-08 | 2022-07-12 |
 | [All The Highs](https://open.spotify.com/track/6Dg3ArDiJcseYoeeTZZXK6) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [All The Highs](https://open.spotify.com/album/4Z9aZaIeSiKBVOf7v7oHCI) | 3:26 | 2022-09-16 | 2023-05-13 |
@@ -668,7 +669,7 @@
 | [TAKA \- Caribou Remix](https://open.spotify.com/track/5vo0Cu8muNor0U1UM3AHVS) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [TAKA \(Caribou Remix\)](https://open.spotify.com/album/7Ez3fr9wboQAP5XDFKrDC5) | 3:57 | 2024-06-20 |  |
 | [TAKA \- Taiki Nulight Remix](https://open.spotify.com/track/0tdHittlEah9GOXVRx3CHu) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [TAKA \(Taiki Nulight Remix\)](https://open.spotify.com/album/13DYWnl7vnV6gMGMGiDai8) | 3:29 | 2024-06-06 |  |
 | [Take Over The World](https://open.spotify.com/track/2bIugowXHHEs3kYDlP4wNM) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [DUSK](https://open.spotify.com/album/0redwBOaK57PJoSLEl2OMD) | 2:35 | 2024-02-16 | 2024-03-22 |
-| [Take You There](https://open.spotify.com/track/0RktjKyHm5GjiwQFQf6kOg) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4) | [Take You There](https://open.spotify.com/album/6o8D6vk6tTWJZCR5zNpn7b) | 3:03 | 2024-04-18 |  |
+| [Take You There](https://open.spotify.com/track/0RktjKyHm5GjiwQFQf6kOg) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4) | [Take You There](https://open.spotify.com/album/6o8D6vk6tTWJZCR5zNpn7b) | 3:03 | 2024-04-18 | 2024-07-20 |
 | [Talking Too Much](https://open.spotify.com/track/60O3TTCYh6LZFNKiicBodq) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [Talking Too Much](https://open.spotify.com/album/5DlqOm7mN0iuJs9k5r16Ii) | 3:54 | 2024-03-07 |  |
 | [TALKING WALLS](https://open.spotify.com/track/2EgVyvvuU95B3DqEZxbtj5) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [TALKING WALLS](https://open.spotify.com/album/023LW9WoSCeEDUwLBPIsHJ) | 2:32 | 2024-07-02 |  |
 | [Tear Me Down](https://open.spotify.com/track/290iL1wFwGAWJC6IREJgXQ) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [Tear Me Down](https://open.spotify.com/album/6EWDO4bXbu0d42rmm4ohGW) | 3:05 | 2024-04-04 | 2024-06-01 |

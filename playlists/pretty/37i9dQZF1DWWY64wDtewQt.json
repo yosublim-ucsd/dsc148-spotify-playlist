@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 8559088,
+  "num_followers": 8564490,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpFGOwAAAABdRuGMyq65EUrC/Hx1ueuE",
+  "snapshot_id": "ZpqRBAAAAADb8++VA8sVN362sZywiYrA",
   "tracks": [
     {
       "added_at": "2024-03-29 15:57:27",
@@ -97,6 +97,26 @@
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
+      "added_at": "2024-05-31 14:41:55",
+      "album": {
+        "name": "Slide da Treme Mel\u00f3dica v2",
+        "url": "https://open.spotify.com/album/4sWmzhpogE4nLa1f2q9Ke0"
+      },
+      "artists": [
+        {
+          "name": "DJ FNK",
+          "url": "https://open.spotify.com/artist/7nM7RtPXQ6jwNlFTfPyZnA"
+        },
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/4DWPOsGWbW7sBHb1UuBvWs"
+        }
+      ],
+      "duration_ms": 165107,
+      "name": "Slide da Treme Mel\u00f3dica v2",
+      "url": "https://open.spotify.com/track/6xBpb9zNWlRHTslOAe6kXF"
+    },
+    {
       "added_at": "2023-09-08 15:16:54",
       "album": {
         "name": "LOVELY BASTARDS",
@@ -173,6 +193,22 @@
       "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
     },
     {
+      "added_at": "2024-04-26 14:45:00",
+      "album": {
+        "name": "Funk of Gal\u00e1ctico",
+        "url": "https://open.spotify.com/album/3lYPfg8wwG6rEIzBeOXCDA"
+      },
+      "artists": [
+        {
+          "name": "SXID",
+          "url": "https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX"
+        }
+      ],
+      "duration_ms": 90461,
+      "name": "Funk of Gal\u00e1ctico",
+      "url": "https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l"
+    },
+    {
       "added_at": "2023-12-01 14:11:37",
       "album": {
         "name": "BRODYAGA FUNK",
@@ -187,26 +223,6 @@
       "duration_ms": 134785,
       "name": "BRODYAGA FUNK",
       "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
-    },
-    {
-      "added_at": "2024-05-31 14:41:55",
-      "album": {
-        "name": "Slide da Treme Mel\u00f3dica v2",
-        "url": "https://open.spotify.com/album/4sWmzhpogE4nLa1f2q9Ke0"
-      },
-      "artists": [
-        {
-          "name": "DJ FNK",
-          "url": "https://open.spotify.com/artist/7nM7RtPXQ6jwNlFTfPyZnA"
-        },
-        {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/4DWPOsGWbW7sBHb1UuBvWs"
-        }
-      ],
-      "duration_ms": 165107,
-      "name": "Slide da Treme Mel\u00f3dica v2",
-      "url": "https://open.spotify.com/track/6xBpb9zNWlRHTslOAe6kXF"
     },
     {
       "added_at": "2023-06-02 17:32:35",
@@ -281,46 +297,6 @@
       "url": "https://open.spotify.com/track/5yNcl0KUSPv78Erf26ul5A"
     },
     {
-      "added_at": "2024-04-26 14:45:00",
-      "album": {
-        "name": "Funk of Gal\u00e1ctico",
-        "url": "https://open.spotify.com/album/3lYPfg8wwG6rEIzBeOXCDA"
-      },
-      "artists": [
-        {
-          "name": "SXID",
-          "url": "https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX"
-        }
-      ],
-      "duration_ms": 90461,
-      "name": "Funk of Gal\u00e1ctico",
-      "url": "https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l"
-    },
-    {
-      "added_at": "2023-07-21 09:05:00",
-      "album": {
-        "name": "Automotivo Bibi Fogosa",
-        "url": "https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2"
-      },
-      "artists": [
-        {
-          "name": "Bibi Babydoll",
-          "url": "https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV"
-        },
-        {
-          "name": "Dj Brunin XM",
-          "url": "https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3"
-        },
-        {
-          "name": "KZA Produ\u00e7\u00f5es",
-          "url": "https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax"
-        }
-      ],
-      "duration_ms": 129776,
-      "name": "Automotivo Bibi Fogosa",
-      "url": "https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN"
-    },
-    {
       "added_at": "2023-09-15 14:15:29",
       "album": {
         "name": "TUCA DONKA",
@@ -365,6 +341,62 @@
       "url": "https://open.spotify.com/track/3i6tlvYU1BSAM3yGQNemtM"
     },
     {
+      "added_at": "2023-07-21 09:05:00",
+      "album": {
+        "name": "Automotivo Bibi Fogosa",
+        "url": "https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2"
+      },
+      "artists": [
+        {
+          "name": "Bibi Babydoll",
+          "url": "https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV"
+        },
+        {
+          "name": "Dj Brunin XM",
+          "url": "https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3"
+        },
+        {
+          "name": "KZA Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax"
+        }
+      ],
+      "duration_ms": 129776,
+      "name": "Automotivo Bibi Fogosa",
+      "url": "https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN"
+    },
+    {
+      "added_at": "2023-09-22 18:14:49",
+      "album": {
+        "name": "TREINAMENTO DE FOR\u00c7A",
+        "url": "https://open.spotify.com/album/1xF2L9FhsEG6CPf9ERW7vH"
+      },
+      "artists": [
+        {
+          "name": "TRXVELER",
+          "url": "https://open.spotify.com/artist/31VaidRoI1NnHfyY8SxSL7"
+        }
+      ],
+      "duration_ms": 125538,
+      "name": "TREINAMENTO DE FOR\u00c7A",
+      "url": "https://open.spotify.com/track/3xuOs8TPNwItkEYsApFEI2"
+    },
+    {
+      "added_at": "2024-05-17 14:03:55",
+      "album": {
+        "name": "Eu Sento Gabu!",
+        "url": "https://open.spotify.com/album/51F5iHYpECc8dd9Wjqv15o"
+      },
+      "artists": [
+        {
+          "name": "PXLWYSE",
+          "url": "https://open.spotify.com/artist/6OwbqUSj4XbZdjexPsKkdH"
+        }
+      ],
+      "duration_ms": 83754,
+      "name": "Eu Sento Gabu!",
+      "url": "https://open.spotify.com/track/24WBge8e53iDTeXOtVB02s"
+    },
+    {
       "added_at": "2023-06-09 13:51:36",
       "album": {
         "name": "BRAZILIAN DAN\u00c7A PHONK",
@@ -383,22 +415,6 @@
       "duration_ms": 118194,
       "name": "BRAZILIAN DAN\u00c7A PHONK",
       "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
-    },
-    {
-      "added_at": "2023-09-22 18:14:49",
-      "album": {
-        "name": "TREINAMENTO DE FOR\u00c7A",
-        "url": "https://open.spotify.com/album/1xF2L9FhsEG6CPf9ERW7vH"
-      },
-      "artists": [
-        {
-          "name": "TRXVELER",
-          "url": "https://open.spotify.com/artist/31VaidRoI1NnHfyY8SxSL7"
-        }
-      ],
-      "duration_ms": 125538,
-      "name": "TREINAMENTO DE FOR\u00c7A",
-      "url": "https://open.spotify.com/track/3xuOs8TPNwItkEYsApFEI2"
     },
     {
       "added_at": "2023-06-09 13:51:36",
@@ -431,6 +447,26 @@
       "duration_ms": 104013,
       "name": "BAIXO",
       "url": "https://open.spotify.com/track/0RVmg31gzlshCm356g0HF2"
+    },
+    {
+      "added_at": "2024-07-05 13:50:01",
+      "album": {
+        "name": "X-SLIDE",
+        "url": "https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32"
+      },
+      "artists": [
+        {
+          "name": "2KE",
+          "url": "https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4"
+        },
+        {
+          "name": "808iuli",
+          "url": "https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li"
+        }
+      ],
+      "duration_ms": 79452,
+      "name": "X-SLIDE",
+      "url": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO"
     },
     {
       "added_at": "2024-04-26 14:45:00",
@@ -477,30 +513,6 @@
       "url": "https://open.spotify.com/track/6KAjgfXSrqcoouZ0Rh9pza"
     },
     {
-      "added_at": "2023-08-18 14:41:07",
-      "album": {
-        "name": "Ketamine Girl",
-        "url": "https://open.spotify.com/album/6MW6qxThKOfnRVqFkxK0H2"
-      },
-      "artists": [
-        {
-          "name": "akiaura",
-          "url": "https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc"
-        },
-        {
-          "name": "LONOWN",
-          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
-        },
-        {
-          "name": "STM",
-          "url": "https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Sleepwalker",
-      "url": "https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm"
-    },
-    {
       "added_at": "2022-04-13 07:53:17",
       "album": {
         "name": "RAVE",
@@ -545,20 +557,28 @@
       "url": "https://open.spotify.com/track/7vtGOauV0Zz8Px5EJYm7d7"
     },
     {
-      "added_at": "2024-05-17 14:03:55",
+      "added_at": "2023-08-18 14:41:07",
       "album": {
-        "name": "Eu Sento Gabu!",
-        "url": "https://open.spotify.com/album/51F5iHYpECc8dd9Wjqv15o"
+        "name": "Ketamine Girl",
+        "url": "https://open.spotify.com/album/6MW6qxThKOfnRVqFkxK0H2"
       },
       "artists": [
         {
-          "name": "PXLWYSE",
-          "url": "https://open.spotify.com/artist/6OwbqUSj4XbZdjexPsKkdH"
+          "name": "akiaura",
+          "url": "https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc"
+        },
+        {
+          "name": "LONOWN",
+          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        },
+        {
+          "name": "STM",
+          "url": "https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53"
         }
       ],
-      "duration_ms": 83754,
-      "name": "Eu Sento Gabu!",
-      "url": "https://open.spotify.com/track/24WBge8e53iDTeXOtVB02s"
+      "duration_ms": 212000,
+      "name": "Sleepwalker",
+      "url": "https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm"
     },
     {
       "added_at": "2024-02-02 10:00:00",
@@ -595,26 +615,6 @@
       "duration_ms": 146274,
       "name": "GigaChad Theme - Phonk House Version",
       "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
-    },
-    {
-      "added_at": "2024-07-05 13:50:01",
-      "album": {
-        "name": "X-SLIDE",
-        "url": "https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32"
-      },
-      "artists": [
-        {
-          "name": "2KE",
-          "url": "https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4"
-        },
-        {
-          "name": "808iuli",
-          "url": "https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li"
-        }
-      ],
-      "duration_ms": 79452,
-      "name": "X-SLIDE",
-      "url": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO"
     },
     {
       "added_at": "2024-03-01 14:53:11",
@@ -745,26 +745,6 @@
       "url": "https://open.spotify.com/track/7Iw1IbjTLh4IFltKiwiNcE"
     },
     {
-      "added_at": "2022-10-14 08:20:18",
-      "album": {
-        "name": "DEMONS IN MY SOUL",
-        "url": "https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7"
-      },
-      "artists": [
-        {
-          "name": "SCXR SOUL",
-          "url": "https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC"
-        },
-        {
-          "name": "Sx1nxwy",
-          "url": "https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T"
-        }
-      ],
-      "duration_ms": 120593,
-      "name": "DEMONS IN MY SOUL",
-      "url": "https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO"
-    },
-    {
       "added_at": "2022-08-05 04:01:00",
       "album": {
         "name": "SUNRISE (Slowed + Reverb)",
@@ -779,26 +759,6 @@
       "duration_ms": 138857,
       "name": "SUNRISE (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/0G17UriYHMjXnZE2OJJSMR"
-    },
-    {
-      "added_at": "2022-05-20 10:12:52",
-      "album": {
-        "name": "MIDNIGHT",
-        "url": "https://open.spotify.com/album/0xOs1J6MzsKZpf2io1FoXG"
-      },
-      "artists": [
-        {
-          "name": "PLAYAMANE",
-          "url": "https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS"
-        },
-        {
-          "name": "Nateki",
-          "url": "https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1"
-        }
-      ],
-      "duration_ms": 122017,
-      "name": "MIDNIGHT",
-      "url": "https://open.spotify.com/track/2lCPDg2EWErPYdO3ItPUdH"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -857,6 +817,46 @@
       "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
     },
     {
+      "added_at": "2024-06-14 16:20:09",
+      "album": {
+        "name": "LITSAR PEKLA",
+        "url": "https://open.spotify.com/album/5CuTr0J3jNH3leE3nbipKk"
+      },
+      "artists": [
+        {
+          "name": "STXSTN",
+          "url": "https://open.spotify.com/artist/0WwRpWlY0zydek63QwSbEU"
+        },
+        {
+          "name": "snxff",
+          "url": "https://open.spotify.com/artist/2enzn8gWl7giKueJmmid0x"
+        }
+      ],
+      "duration_ms": 104347,
+      "name": "LITSAR PEKLA",
+      "url": "https://open.spotify.com/track/0kVKCSkKxOKTDQVpol7Bi2"
+    },
+    {
+      "added_at": "2022-05-20 10:12:52",
+      "album": {
+        "name": "MIDNIGHT",
+        "url": "https://open.spotify.com/album/0xOs1J6MzsKZpf2io1FoXG"
+      },
+      "artists": [
+        {
+          "name": "PLAYAMANE",
+          "url": "https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS"
+        },
+        {
+          "name": "Nateki",
+          "url": "https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1"
+        }
+      ],
+      "duration_ms": 122017,
+      "name": "MIDNIGHT",
+      "url": "https://open.spotify.com/track/2lCPDg2EWErPYdO3ItPUdH"
+    },
+    {
       "added_at": "2023-07-07 17:01:13",
       "album": {
         "name": "Mexican Phonk Eki",
@@ -913,24 +913,40 @@
       "url": "https://open.spotify.com/track/0R902FnwJO8kBZYvtpQLrL"
     },
     {
-      "added_at": "2024-06-14 16:20:09",
+      "added_at": "2022-10-14 08:20:18",
       "album": {
-        "name": "LITSAR PEKLA",
-        "url": "https://open.spotify.com/album/5CuTr0J3jNH3leE3nbipKk"
+        "name": "DEMONS IN MY SOUL",
+        "url": "https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7"
       },
       "artists": [
         {
-          "name": "STXSTN",
-          "url": "https://open.spotify.com/artist/0WwRpWlY0zydek63QwSbEU"
+          "name": "SCXR SOUL",
+          "url": "https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC"
         },
         {
-          "name": "snxff",
-          "url": "https://open.spotify.com/artist/2enzn8gWl7giKueJmmid0x"
+          "name": "Sx1nxwy",
+          "url": "https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T"
         }
       ],
-      "duration_ms": 104347,
-      "name": "LITSAR PEKLA",
-      "url": "https://open.spotify.com/track/0kVKCSkKxOKTDQVpol7Bi2"
+      "duration_ms": 120593,
+      "name": "DEMONS IN MY SOUL",
+      "url": "https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO"
+    },
+    {
+      "added_at": "2024-07-05 13:50:01",
+      "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/3tSeUNn7yOQPEex7jwS9Bf"
+      },
+      "artists": [
+        {
+          "name": "Ogryzek",
+          "url": "https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm"
+        }
+      ],
+      "duration_ms": 149522,
+      "name": "GLORY",
+      "url": "https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP"
     },
     {
       "added_at": "2024-02-02 10:00:00",
@@ -957,58 +973,6 @@
       "url": "https://open.spotify.com/track/3iQ1B1jF370iZEaJUIs3eJ"
     },
     {
-      "added_at": "2022-05-20 10:12:52",
-      "album": {
-        "name": "vendetta!",
-        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
-      },
-      "artists": [
-        {
-          "name": "MUPP",
-          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
-        },
-        {
-          "name": "Sadfriendd",
-          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
-        }
-      ],
-      "duration_ms": 107044,
-      "name": "vendetta!",
-      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
-    },
-    {
-      "added_at": "2022-09-02 08:01:31",
-      "album": {
-        "name": "Crystals",
-        "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
-      },
-      "artists": [
-        {
-          "name": "Isolate.exe",
-          "url": "https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Crystals",
-      "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
-    },
-    {
-      "added_at": "2023-08-11 14:10:06",
-      "album": {
-        "name": "The Automotivo Infernal 1.0",
-        "url": "https://open.spotify.com/album/5qC8iY9FTnvTZFFKc5SFTi"
-      },
-      "artists": [
-        {
-          "name": "MRL",
-          "url": "https://open.spotify.com/artist/2hVynkZ4rWnOGXlwty42Rk"
-        }
-      ],
-      "duration_ms": 114593,
-      "name": "The Automotivo Infernal 1.0 - Purple",
-      "url": "https://open.spotify.com/track/0nfnslHCHU8n3LqT7DhtGw"
-    },
-    {
       "added_at": "2023-12-01 14:11:37",
       "album": {
         "name": "Louca Encubada",
@@ -1033,6 +997,58 @@
       "url": "https://open.spotify.com/track/0F22C2GRDrqxQFCEk7mds1"
     },
     {
+      "added_at": "2022-05-20 10:12:52",
+      "album": {
+        "name": "vendetta!",
+        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "duration_ms": 107044,
+      "name": "vendetta!",
+      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
+    },
+    {
+      "added_at": "2023-08-11 14:10:06",
+      "album": {
+        "name": "The Automotivo Infernal 1.0",
+        "url": "https://open.spotify.com/album/5qC8iY9FTnvTZFFKc5SFTi"
+      },
+      "artists": [
+        {
+          "name": "MRL",
+          "url": "https://open.spotify.com/artist/2hVynkZ4rWnOGXlwty42Rk"
+        }
+      ],
+      "duration_ms": 114593,
+      "name": "The Automotivo Infernal 1.0 - Purple",
+      "url": "https://open.spotify.com/track/0nfnslHCHU8n3LqT7DhtGw"
+    },
+    {
+      "added_at": "2022-09-02 08:01:31",
+      "album": {
+        "name": "Crystals",
+        "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
+      },
+      "artists": [
+        {
+          "name": "Isolate.exe",
+          "url": "https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
+    },
+    {
       "added_at": "2022-09-23 07:48:31",
       "album": {
         "name": "WAKE UP!",
@@ -1047,22 +1063,6 @@
       "duration_ms": 142940,
       "name": "WAKE UP!",
       "url": "https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W"
-    },
-    {
-      "added_at": "2023-04-26 16:15:07",
-      "album": {
-        "name": "Sea Of Problems",
-        "url": "https://open.spotify.com/album/3nofsi0Rt2tnhAuvz8pB95"
-      },
-      "artists": [
-        {
-          "name": "glichery",
-          "url": "https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks"
-        }
-      ],
-      "duration_ms": 110624,
-      "name": "Sea Of Problems",
-      "url": "https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD"
     },
     {
       "added_at": "2023-11-17 23:13:59",
@@ -1083,6 +1083,26 @@
       "duration_ms": 119616,
       "name": "BIBI PHONK BR",
       "url": "https://open.spotify.com/track/1ytfbcVbSMHIgzijgt4z2e"
+    },
+    {
+      "added_at": "2024-07-12 15:05:31",
+      "album": {
+        "name": "Ela Joga na Hora",
+        "url": "https://open.spotify.com/album/5Q5Q1X31y4eM4A4Nz7cGKb"
+      },
+      "artists": [
+        {
+          "name": "Mc Pogba",
+          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
+        },
+        {
+          "name": "DJ Guih Da ZO",
+          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
+        }
+      ],
+      "duration_ms": 132922,
+      "name": "Ela Joga na Hora",
+      "url": "https://open.spotify.com/track/4EV2AD1AL9AV7eY0jhAY1k"
     },
     {
       "added_at": "2023-08-25 14:35:59",
@@ -1241,6 +1261,22 @@
       "url": "https://open.spotify.com/track/38WaXJLmp0pRWQcY7zFm2d"
     },
     {
+      "added_at": "2023-04-26 16:15:07",
+      "album": {
+        "name": "Sea Of Problems",
+        "url": "https://open.spotify.com/album/3nofsi0Rt2tnhAuvz8pB95"
+      },
+      "artists": [
+        {
+          "name": "glichery",
+          "url": "https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks"
+        }
+      ],
+      "duration_ms": 110624,
+      "name": "Sea Of Problems",
+      "url": "https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD"
+    },
+    {
       "added_at": "2023-07-07 17:01:13",
       "album": {
         "name": "THE AUTOTREM 1.0",
@@ -1295,26 +1331,6 @@
       "duration_ms": 151213,
       "name": "PSYCHO CRUISE",
       "url": "https://open.spotify.com/track/1tkHHqMZaVoNtQvC32Om8X"
-    },
-    {
-      "added_at": "2024-07-12 15:05:31",
-      "album": {
-        "name": "Ela Joga na Hora",
-        "url": "https://open.spotify.com/album/5Q5Q1X31y4eM4A4Nz7cGKb"
-      },
-      "artists": [
-        {
-          "name": "Mc Pogba",
-          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
-        },
-        {
-          "name": "DJ Guih Da ZO",
-          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
-        }
-      ],
-      "duration_ms": 132922,
-      "name": "Ela Joga na Hora",
-      "url": "https://open.spotify.com/track/4EV2AD1AL9AV7eY0jhAY1k"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1423,42 +1439,6 @@
       "duration_ms": 144359,
       "name": "MONTAGEM VOZES PROFUNDAS - Ultra Slowed",
       "url": "https://open.spotify.com/track/3o3dIYuLIZfAO2kXP3eXrN"
-    },
-    {
-      "added_at": "2024-07-05 13:50:01",
-      "album": {
-        "name": "GLORY",
-        "url": "https://open.spotify.com/album/3tSeUNn7yOQPEex7jwS9Bf"
-      },
-      "artists": [
-        {
-          "name": "Ogryzek",
-          "url": "https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm"
-        }
-      ],
-      "duration_ms": 149522,
-      "name": "GLORY",
-      "url": "https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP"
-    },
-    {
-      "added_at": "2023-09-29 15:36:46",
-      "album": {
-        "name": "Broken Trust",
-        "url": "https://open.spotify.com/album/3Wm96XwUfNEfVCTYmyQmBH"
-      },
-      "artists": [
-        {
-          "name": "SAY3AM",
-          "url": "https://open.spotify.com/artist/3UxUktdCJsomjKqozWDWSu"
-        },
-        {
-          "name": "Staarz",
-          "url": "https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL"
-        }
-      ],
-      "duration_ms": 123692,
-      "name": "Broken Trust",
-      "url": "https://open.spotify.com/track/5Y4OwloGr9QSxZLZ5DXGte"
     },
     {
       "added_at": "2023-06-23 15:45:22",
@@ -1607,6 +1587,22 @@
       "duration_ms": 123870,
       "name": "PRINCE OF DARKNESS",
       "url": "https://open.spotify.com/track/3F8ydJz1se1vIxZTRcRjIJ"
+    },
+    {
+      "added_at": "2024-07-19 16:15:00",
+      "album": {
+        "name": "Cuando se te moja la tarea 2",
+        "url": "https://open.spotify.com/album/5hUTWbVLPE7Vo9KtS06U15"
+      },
+      "artists": [
+        {
+          "name": "LDRR",
+          "url": "https://open.spotify.com/artist/2DtIt7mMzdaEEFVUbSmnoU"
+        }
+      ],
+      "duration_ms": 179302,
+      "name": "Cuando se te moja la tarea 2",
+      "url": "https://open.spotify.com/track/2NVY5DJmbIxMr0a4glhyHU"
     },
     {
       "added_at": "2023-07-21 09:05:00",
@@ -1807,30 +1803,6 @@
       "duration_ms": 144138,
       "name": "ASTRO",
       "url": "https://open.spotify.com/track/54sEjr0FU2YTPbEliJ1YPh"
-    },
-    {
-      "added_at": "2024-04-05 14:00:00",
-      "album": {
-        "name": "KRUSH GIRL",
-        "url": "https://open.spotify.com/album/5DeYeVhTwmm35ICdwIPluJ"
-      },
-      "artists": [
-        {
-          "name": "KUTE",
-          "url": "https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX"
-        },
-        {
-          "name": "killanoia",
-          "url": "https://open.spotify.com/artist/4Xwsb6LzVsThO9PJIJb4EE"
-        },
-        {
-          "name": "Tokyomane",
-          "url": "https://open.spotify.com/artist/2GaIPa6dUUQBlVNYeEF6PH"
-        }
-      ],
-      "duration_ms": 109615,
-      "name": "KRUSH GIRL",
-      "url": "https://open.spotify.com/track/2m8EJE78SOqsN7YPxNNnZm"
     },
     {
       "added_at": "2024-02-02 10:00:00",

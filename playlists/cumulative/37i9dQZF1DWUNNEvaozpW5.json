@@ -919,6 +919,24 @@
     },
     {
       "album": {
+        "name": "Botella de Bourbon",
+        "url": "https://open.spotify.com/album/1dlU0YzeOF6KvoZJwjQdVc"
+      },
+      "artists": [
+        {
+          "name": "Los Premodernos",
+          "url": "https://open.spotify.com/artist/6PjN4tz1EIf2KXK2ejhnBY"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Botella de Bourbon",
+      "url": "https://open.spotify.com/track/39wn7M3QYDEE1mJ56ZKpw6"
+    },
+    {
+      "album": {
         "name": "Buena muerte",
         "url": "https://open.spotify.com/album/65I0m92pou1tBZedRi4F0g"
       },
@@ -1208,7 +1226,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 187999,
       "name": "Chiquilla",
       "url": "https://open.spotify.com/track/6kNYjCKdEqYEdHAbxV5v5K"
@@ -4679,6 +4697,24 @@
     },
     {
       "album": {
+        "name": "Despu\u00e9s del Baile",
+        "url": "https://open.spotify.com/album/0YGHWVzGtyT2tkR6k5KZBZ"
+      },
+      "artists": [
+        {
+          "name": "Belarte",
+          "url": "https://open.spotify.com/artist/2HNADS1yqggfwoMmurRRvM"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281065,
+      "name": "Luc\u00eda (Bonus Track)",
+      "url": "https://open.spotify.com/track/18dbkA5rz0bM6AS3A9QCj3"
+    },
+    {
+      "album": {
         "name": "Lugar perfecto",
         "url": "https://open.spotify.com/album/7ldxxbdzLICFxziYr0SuLb"
       },
@@ -4918,7 +4954,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 282746,
       "name": "Maneras de vivir - Rosendo, Barricada y Aurora Beltr\u00e1n directo 2008",
       "url": "https://open.spotify.com/track/3zgQxeKX6kj7Yrt5cRMxP3"
@@ -6012,6 +6048,24 @@
       "duration_ms": 237573,
       "name": "Perros Rom\u00e1nticos",
       "url": "https://open.spotify.com/track/6K0OujXjXCdkBNUp181kkh"
+    },
+    {
+      "album": {
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/3sUwEtW9lNC68ds6SH0ivL"
+      },
+      "artists": [
+        {
+          "name": "Txema Ben\u00edtez",
+          "url": "https://open.spotify.com/artist/5lWIf1sb0LkPI8HEKcEKrF"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338250,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/5uWhDDdBiy7YmvCybN5VOk"
     },
     {
       "album": {
@@ -7235,6 +7289,24 @@
     },
     {
       "album": {
+        "name": "S\u00f3lo Pienso en Ti",
+        "url": "https://open.spotify.com/album/4XGA6DHU2l073RQkWfpM5h"
+      },
+      "artists": [
+        {
+          "name": "Forraje",
+          "url": "https://open.spotify.com/artist/0dvR9B5T33JzDDcTs3vSO5"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178392,
+      "name": "S\u00f3lo Pienso en Ti",
+      "url": "https://open.spotify.com/track/6Kd2g4VoZqjB3GTG6zlBN9"
+    },
+    {
+      "album": {
         "name": "Tan Tranquilamente",
         "url": "https://open.spotify.com/album/6tDMKKhuNOHXn5LJHMEHqR"
       },
@@ -7366,7 +7438,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 235378,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/3ySRdYSAInV4VgBt5aTr2r"
@@ -7828,7 +7900,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 181823,
       "name": "Universal - Demo 1992",
       "url": "https://open.spotify.com/track/5teViZyiBVZyU42XNqBnFa"
@@ -8002,7 +8074,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 211324,
       "name": "Vivir",
       "url": "https://open.spotify.com/track/3hK2vw9l2tQ5fNvrD8opf0"
@@ -8078,7 +8150,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 302500,
       "name": "V\u00e1stago",
       "url": "https://open.spotify.com/track/1mNjupv6SjUX7itkuMZRv4"

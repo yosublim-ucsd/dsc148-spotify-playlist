@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,597 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,600 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 16 | [Cry](https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:06 |
 | 17 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 |
 | 18 | [Daj żyć](https://open.spotify.com/track/0ulgIgptCrAx67A0tQppuW) | [Sonia Maselik](https://open.spotify.com/artist/0MA7GBODPbcTV0v3FZj2tl), [Vixen](https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO) | [Daj żyć](https://open.spotify.com/album/0pxxDxee1EiOyjJIB8RgpL) | 2:22 |
-| 19 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 |
+| 19 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
 | 20 | [Double Life \- From "Despicable Me 4"](https://open.spotify.com/track/07oO1U722crtVcavi6frX6) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Double Life \(From "Despicable Me 4"\)](https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4) | 3:10 |
-| 21 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
+| 21 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 |
 | 22 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 |
 | 23 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 |
 | 24 | [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 53 | [Śrubka](https://open.spotify.com/track/42HCLyg66bqYWCPU3wqyMS) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Śrubka](https://open.spotify.com/album/2i4XVKYPGzTpFiesqiGpDj) | 4:10 |
 | 54 | [HATE YOUR GUTS](https://open.spotify.com/track/6x3VbkjJpLygkueOL604cz) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [HATE YOUR GUTS](https://open.spotify.com/album/0wOwIIsyCvsviyZVMyMkuW) | 2:36 |
 | 55 | [Zagrajmy](https://open.spotify.com/track/6jKciZGLm1zKWP3DrVYfzr) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Zagrajmy](https://open.spotify.com/album/4sXX520fF0HGwgSxOfyE0y) | 3:16 |
-| 56 | [Tyle mogłem Ci dać](https://open.spotify.com/track/7yhlUkUDOyGqrfkb1THfSj) | [Filip Lato](https://open.spotify.com/artist/7IGQhHioiEXLsSCBt0ZBID) | [Tyle mogłem Ci dać](https://open.spotify.com/album/4dfPdu3N7AOQ4RLzSYIFNR) | 2:15 |
-| 57 | [Myślę sobie, Ż](https://open.spotify.com/track/3HmXpWEdyrczsUgbUAd3qe) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY), [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [Myślę sobie, Ż](https://open.spotify.com/album/7v0o8LcqjbGCprYoKg2ptg) | 2:50 |
+| 56 | [Myślę sobie, Ż](https://open.spotify.com/track/3HmXpWEdyrczsUgbUAd3qe) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY), [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [Myślę sobie, Ż](https://open.spotify.com/album/7v0o8LcqjbGCprYoKg2ptg) | 2:50 |
+| 57 | [Tyle mogłem Ci dać](https://open.spotify.com/track/7yhlUkUDOyGqrfkb1THfSj) | [Filip Lato](https://open.spotify.com/artist/7IGQhHioiEXLsSCBt0ZBID) | [Tyle mogłem Ci dać](https://open.spotify.com/album/4dfPdu3N7AOQ4RLzSYIFNR) | 2:15 |
 | 58 | [I że czuje się sam](https://open.spotify.com/track/66J5TPZdbpAl9V3VLrZF4N) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN), [Michał Szczygieł](https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z) | [I że czuje się sam](https://open.spotify.com/album/0q1hihxl4GD0e0vY9bext6) | 3:04 |
-| 59 | [Mile Away](https://open.spotify.com/track/4ZwJ25jbonqnzlYTB89aQK) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Mile Away](https://open.spotify.com/album/3jWJ0eFI78vTuyZwNpZfrD) | 3:26 |
-| 60 | [SANTORINI](https://open.spotify.com/track/725GGkOr07ss8F4ta39bc7) | [Mery Spolsky](https://open.spotify.com/artist/4U3Mh4fpzJb7XD1CR1ZbDx) | [SANTORINI](https://open.spotify.com/album/5iPUra2nZbLil9V5gaxa97) | 3:47 |
+| 59 | [SANTORINI](https://open.spotify.com/track/725GGkOr07ss8F4ta39bc7) | [Mery Spolsky](https://open.spotify.com/artist/4U3Mh4fpzJb7XD1CR1ZbDx) | [SANTORINI](https://open.spotify.com/album/5iPUra2nZbLil9V5gaxa97) | 3:47 |
+| 60 | [Mile Away](https://open.spotify.com/track/4ZwJ25jbonqnzlYTB89aQK) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Mile Away](https://open.spotify.com/album/3jWJ0eFI78vTuyZwNpZfrD) | 3:26 |
 
 Snapshot ID: `Zpog5QAAAADkEHw3wURbsJUbfIaMndQh`

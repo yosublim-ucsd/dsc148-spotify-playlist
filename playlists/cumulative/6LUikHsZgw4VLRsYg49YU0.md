@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-213 songs - 12 hr 32 min
+216 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [DROPPED OUTTA COLLEGE](https://open.spotify.com/track/2aV5ZEAvHwvL332EsJ1gWc) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [DROPPED OUTTA COLLEGE](https://open.spotify.com/album/2eLpj5EDUhyAoTks8sxcKR) | 2:07 | 2022-02-18 | 2022-12-10 |
 | [Everybody Hates Me \- Khrebto Remix](https://open.spotify.com/track/4hJolpt4ZqzoZuET5l3rzV) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Khrebto](https://open.spotify.com/artist/0fLTK12xF2IMaNmKMSue6g) | [Everybody Hates Me \(Remixes\)](https://open.spotify.com/album/4L8Nq5w4vVuoC1AY9i2MDZ) | 3:15 | 2022-02-18 | 2022-12-10 |
 | [Face My Fears \(English Version\)](https://open.spotify.com/track/0CALOqrkXAE7WB2nyIATLk) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Face My Fears](https://open.spotify.com/album/78yYCNxcHTH0Ugsekj8kbQ) | 3:42 | 2022-02-18 | 2022-12-10 |
+| [FACELESS](https://open.spotify.com/track/6vxT9Jfpp5vJs0A8w6NUJl) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [FACELESS](https://open.spotify.com/album/5EKoC23fdT9gTwbJOrfVZK) | 3:32 | 2024-07-19 |  |
 | [Falling](https://open.spotify.com/track/4TnjEaWOeW0eKTKIEvJyCa) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Falling](https://open.spotify.com/album/1Czfd5tEby3DbdYNdqzrCa) | 2:39 | 2022-02-18 | 2022-12-10 |
 | [first death](https://open.spotify.com/track/0ky07Oq85l9zx7e427XGgC) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [first death](https://open.spotify.com/album/1IbsEpB7SmkJSaeTajYw7R) | 4:01 | 2022-12-09 | 2024-07-13 |
 | [Float Away](https://open.spotify.com/track/4m56Pr70O3NvZZcaC9bed4) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Better With Time](https://open.spotify.com/album/3iJn7w9YsykrXkxQDo2AzA) | 3:14 | 2022-02-18 | 2022-12-10 |
@@ -173,6 +174,7 @@
 | [イマジネーション](https://open.spotify.com/track/66Aox16AXYiqZum37rTDRG) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Imagination](https://open.spotify.com/album/1Uk4AAcnh9UXkbiLdNdyJ6) | 2:57 | 2023-01-13 | 2023-12-14 |
 | [カオスが極まる](https://open.spotify.com/track/0lPfqcI3A8gQ9971nXxgq6) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [カオスが極まる](https://open.spotify.com/album/2Ju0DfkzxP0XsR2IthWIEI) | 3:50 | 2023-01-13 | 2024-01-06 |
 | [カラカラ](https://open.spotify.com/track/2ADOoCVouvRdKBzIVkYf3H) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [カラカラ](https://open.spotify.com/album/3O6p7aec9kbcGAHVhuXDxs) | 4:24 | 2023-01-13 |  |
+| [カーテンコール](https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [カーテンコール](https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK) | 4:03 | 2024-07-19 |  |
 | [ギターと孤独と蒼い惑星](https://open.spotify.com/track/17rhDgnYYryQU4uS71ZxFu) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [ギターと孤独と蒼い惑星](https://open.spotify.com/album/6PmIi4asxDdrpIcZKHYfWp) | 3:48 | 2022-12-09 | 2024-05-25 |
 | [コイコガレ](https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [コイコガレ](https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu) | 3:35 | 2023-04-21 |  |
 | [シャル・ウィ・ダンス?](https://open.spotify.com/track/3scQcXcg9nOfWVQDQTeDXF) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [シャル・ウィ・ダンス?](https://open.spotify.com/album/0bJE38pebBIRov35fJG5jZ) | 4:26 | 2023-01-13 |  |
@@ -186,6 +188,7 @@
 | [ホムンクルス](https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ホムンクルス](https://open.spotify.com/album/5bfbjZs5oGKuDcm6n8xXes) | 3:50 | 2024-07-12 |  |
 | [ポラリス](https://open.spotify.com/track/1IUfuujoaeWKI9MTQksvtl) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [POLARIS \(World Edition\)](https://open.spotify.com/album/7J1E36Fw6eyLUtdg58a4QU) | 3:45 | 2022-12-09 | 2024-01-13 |
 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 | 2022-12-09 | 2024-03-30 |
+| [六等星](https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [六等星](https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv) | 4:14 | 2024-07-19 |  |
 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 | 2023-07-21 |  |
 | [堕天](https://open.spotify.com/track/1ndUYRPchJVNQCM7XwN7Hq) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [堕天](https://open.spotify.com/album/6TyquheH5JW6c5YuZ4ectA) | 2:52 | 2023-01-13 |  |
 | [夢で逢えたら](https://open.spotify.com/track/6YEEDqbKxnTiSymWyIyn43) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [吉田美奈子 ゴールデン☆ベスト](https://open.spotify.com/album/58Kjvj88MR89KwNJ2UBBUI) | 3:50 | 2023-01-13 | 2024-07-13 |

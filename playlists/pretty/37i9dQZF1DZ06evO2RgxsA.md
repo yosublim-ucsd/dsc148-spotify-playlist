@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,399 likes - 47 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,412 likes - 47 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 5 | [Don't Call Me White](https://open.spotify.com/track/0cntShbC3GmWXygfH98brk) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:33 |
 | 6 | [The Separation of Church and Skate](https://open.spotify.com/track/1NVjbk3Q06lEvAPUlTauzr) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [War on Errorism](https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV) | 3:09 |
 | 7 | [Stickin In My Eye](https://open.spotify.com/track/46mov5j25a6BXrxNQKUwiA) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:24 |
-| 8 | [It's My Job To Keep Punk Rock Elite](https://open.spotify.com/track/6vWVPfnyCENt9znrCy2UNj) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 1:20 |
+| 8 | [All Outta Angst](https://open.spotify.com/track/0eVZhPIexAYqdwKNqSp3Qm) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 1:52 |
 | 9 | [Leave It Alone](https://open.spotify.com/track/2EPi4anyxVjKTcJwPtntjM) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:04 |
-| 10 | [Cell Out](https://open.spotify.com/track/2qwCYIsEj4vtsROxuEBss1) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Self Entitled](https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18) | 2:02 |
-| 11 | [Dinosaurs Will Die](https://open.spotify.com/track/4kRDPODRnN9Cbyrcg9qTkE) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 2:58 |
-| 12 | [All Outta Angst](https://open.spotify.com/track/0eVZhPIexAYqdwKNqSp3Qm) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 1:52 |
+| 10 | [Dinosaurs Will Die](https://open.spotify.com/track/4kRDPODRnN9Cbyrcg9qTkE) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 2:58 |
+| 11 | [Cell Out](https://open.spotify.com/track/2qwCYIsEj4vtsROxuEBss1) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Self Entitled](https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18) | 2:02 |
+| 12 | [It's My Job To Keep Punk Rock Elite](https://open.spotify.com/track/6vWVPfnyCENt9znrCy2UNj) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 1:20 |
 | 13 | [The Man I Killed](https://open.spotify.com/track/1tqZNNfMFZPjUtpmBCrEQd) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P) | 1:18 |
 | 14 | [The Brews](https://open.spotify.com/track/4khRfibu32AGybm3FmGzk0) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:40 |
 | 15 | [We Called It America](https://open.spotify.com/track/5UkBszllVTOdWs9mKVJSE2) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Coaster](https://open.spotify.com/album/5l2QTQ0OoyQw9luosyCe9X) | 2:07 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 22 | [The Cause](https://open.spotify.com/track/5b2RQDbNlMt7DE8cuv0hsC) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 1:37 |
 | 23 | [Please Play This Song On The Radio](https://open.spotify.com/track/4zvfgpO3ZUsBXKg2Ikw6D9) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:16 |
 | 24 | [Kids Of The K\-Hole](https://open.spotify.com/track/0VA74cZ3LW5Ne8NwxXjnQk) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 2:16 |
-| 25 | [Drugs Are Good](https://open.spotify.com/track/0biTGVjFrAfNQHnAjnuqnZ) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [45 or 46 Songs That Weren't Good Enough to Go on Our Other Records](https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn) | 2:18 |
-| 26 | [Usa\-Holes](https://open.spotify.com/track/4AI2o7lsEDj5eEjE2qgT1b) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P) | 2:13 |
+| 25 | [Usa\-Holes](https://open.spotify.com/track/4AI2o7lsEDj5eEjE2qgT1b) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P) | 2:13 |
+| 26 | [Drugs Are Good](https://open.spotify.com/track/0biTGVjFrAfNQHnAjnuqnZ) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [45 or 46 Songs That Weren't Good Enough to Go on Our Other Records](https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn) | 2:18 |
 | 27 | [Liza And Louise](https://open.spotify.com/track/3YJZeoD7lWN2mPbs7FbCgj) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:22 |
 | 28 | [Eat The Meek](https://open.spotify.com/track/1nROHtrrwFTvT0TuvFr91D) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 3:31 |
 | 29 | [What's The Matter With Parents Today?](https://open.spotify.com/track/6SWTXSLOkxrFqJc6WPM0bu) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 1:58 |
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 41 | [And Now For Something Completely Similar](https://open.spotify.com/track/4VL8aja5WvfzgHUaoMxJsB) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 0:58 |
 | 42 | [Darby Crashing Your Party](https://open.spotify.com/track/7HCSNplNjvyPOXAH4MhXT6) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Double Album](https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n) | 2:24 |
 | 43 | [Getting High on the Down Low](https://open.spotify.com/track/1VYCjvOWb3Xy9CcMKLxKK1) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P) | 1:13 |
-| 44 | [I'm a Rat](https://open.spotify.com/track/4rNlmTlKXDBtvwzi63NkQc) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [I'm a Rat](https://open.spotify.com/album/6tFvJiq05ntPswq35Tq3Yk) | 2:10 |
-| 45 | [I Believe in Goddess](https://open.spotify.com/track/7K9QY042GZM4UFn2L6oyWP) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Self Entitled](https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18) | 1:34 |
+| 44 | [I Believe in Goddess](https://open.spotify.com/track/7K9QY042GZM4UFn2L6oyWP) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Self Entitled](https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18) | 1:34 |
+| 45 | [I'm a Rat](https://open.spotify.com/track/4rNlmTlKXDBtvwzi63NkQc) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [I'm a Rat](https://open.spotify.com/album/6tFvJiq05ntPswq35Tq3Yk) | 2:10 |
 | 46 | [The Humblest Man in the World](https://open.spotify.com/track/0AaTjmvtkOcqdjA1tHoaqr) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Half Album](https://open.spotify.com/album/6TabKLBAyynahNuuxaKGOD) | 2:02 |
 | 47 | [The Moron Brothers](https://open.spotify.com/track/7B0XWr4O3lvYjNHSXPLsbI) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Ribbed](https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ) | 2:26 |
 
-Snapshot ID: `ZpcJgAAAAADi3I41MJ3PfetHEJVShgLy`
+Snapshot ID: `ZphbAAAAAACwoXZi/oTqjUjQSfx1LDJi`

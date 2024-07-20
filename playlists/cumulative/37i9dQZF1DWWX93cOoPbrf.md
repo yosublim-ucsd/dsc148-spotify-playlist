@@ -4,7 +4,7 @@
 
 > Lo más fresco de la cosecha 2024\. Tito Torbellino Jr en portada.
 
-1,203 songs - 2 day 13 hr 28 min
+1,204 songs - 2 day 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,6 +455,7 @@
 | [El MP](https://open.spotify.com/track/13r5IOgD9osfI6xlzwClPq) | [Los Austeros De Durango](https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51), [Los Juniors de California](https://open.spotify.com/artist/2LzpZgJG6QEj4DWRo5poNT) | [El MP](https://open.spotify.com/album/7BW3imaigDJCcQXicPsKOo) | 2:56 | 2023-12-08 | 2023-12-21 |
 | [El Muchacho de la Barba](https://open.spotify.com/track/7fBIGbmh5x4K8tBaBCK5iD) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [El Muchacho de la Barba](https://open.spotify.com/album/18YC6REM3qcCvpDlFB0TgQ) | 2:34 | 2024-05-10 |  |
 | [El Muchacho y El Potro](https://open.spotify.com/track/5ijiYxbAIqCfq4ssBy7nZW) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Muchacho y El Potro](https://open.spotify.com/album/1wB94WRPaXsej2SooLtgy3) | 3:29 | 2022-12-16 | 2023-01-21 |
+| [El Muletas](https://open.spotify.com/track/1K1Y3NUDZulng4vgoRR6hE) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [El Muletas](https://open.spotify.com/album/5YT6xi1UEcpYh07FRQc3Q5) | 3:36 | 2024-07-19 |  |
 | [El Nasa](https://open.spotify.com/track/1PShbghBopSm8zL8uA7PnW) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [El Nasa](https://open.spotify.com/album/7alGJhllK26YhAFPEuvou6) | 3:11 | 2023-04-14 | 2023-05-06 |
 | [El Nini \(El Evento de La Hidalgo\)](https://open.spotify.com/track/3O0OjtDpaePC6hebNsImv6) | [La Revancha RC](https://open.spotify.com/artist/7u5GwJI2qzR8MUhA6JlAQf), [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [El Nini \(El Evento de La Hidalgo\)](https://open.spotify.com/album/3GYaQzmdaFlR9CxDXhvJeN) | 3:09 | 2023-08-11 | 2023-11-11 |
 | [El Niño](https://open.spotify.com/track/3Qe8Y6kUmjDiirIEXjxN0X) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [El Niño](https://open.spotify.com/album/09GRb357vC0YYOHXb8h0Fx) | 3:36 | 2023-01-20 | 2023-02-18 |

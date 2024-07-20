@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. El Frizian, Lenin Ramírez en portada.
 
-536 songs - 1 day 4 hr 31 min
+537 songs - 1 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Adolescente y Bonita](https://open.spotify.com/track/1bEmliSa9glFleX7rzgzSk) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [Homenaje A Ramon Vega](https://open.spotify.com/album/4z3NVlGsa8vVXKtPYlOX56) | 3:17 | 2024-07-12 |  |
 | [Agachadita](https://open.spotify.com/track/2nwiohQG9DROhzlgZlXPSK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [Agachadita](https://open.spotify.com/album/5c9O4aceHfVDbEq8DKEGuY) | 3:15 | 2022-12-09 | 2024-03-23 |
 | [Agarra La Onda](https://open.spotify.com/track/74TXCLIJTGoVB9EuhW9nxD) | [El Predilecto](https://open.spotify.com/artist/41uIUL5E0w74f7sFzDKrcr) | [El Predilecto](https://open.spotify.com/album/0c5A0h5ZCKMHjKfSTmUINy) | 3:06 | 2022-08-05 | 2022-12-10 |
+| [Al Estilo Sinaloa](https://open.spotify.com/track/4Exd0ydPHvgZacgbmTjTWI) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Al Estilo Sinaloa](https://open.spotify.com/album/5O6GwylAGtBttif1ldnkyn) | 2:55 | 2024-07-12 |  |
 | [Al Modo Culiacán](https://open.spotify.com/track/63eQoXTDQFMi8hO5D0fcUx) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [La Instruxion](https://open.spotify.com/artist/4IJpHcdinb2JCL9Gi9Gdw4) | [Al Modo Culiacán](https://open.spotify.com/album/6Y3QJ12QIF9hD9jyIZq7gk) | 1:51 | 2023-05-12 | 2023-05-27 |
 | [Alaska](https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Alaska](https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ) | 4:01 | 2022-08-19 | 2023-04-15 |
 | [Alcohol](https://open.spotify.com/track/2YVwcSD0QZxQjeZvMVVkv1) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [Alcohol](https://open.spotify.com/album/5WFKVpaDdIlGwrDFQUXGYe) | 2:52 | 2023-02-24 | 2023-03-09 |
@@ -268,7 +269,7 @@
 | [La Hija Del Sr.](https://open.spotify.com/track/3uSnklocXnasLoqWMMMurP) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [1X1](https://open.spotify.com/album/1GsbrXF9wVjtvZR4aP33j5) | 3:33 | 2023-12-01 | 2023-12-09 |
 | [La Invitación](https://open.spotify.com/track/6qUmkshVvCcBeonBiS4Vdz) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Invitación](https://open.spotify.com/album/1twSxas0ZmG2bUfxEdskZK) | 3:13 | 2023-04-14 | 2024-07-13 |
 | [La Ley del Mayo](https://open.spotify.com/track/4JgF8vGk0Vp3rBOHWBMjW7) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [La Ley del Mayo](https://open.spotify.com/album/0XCMIwN9p62x59fQn6eQTH) | 3:36 | 2023-01-27 | 2024-03-23 |
-| [La Loca \(En Vivo\)](https://open.spotify.com/track/358qSGpL4SSy7tRoj6gsmS) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [La Loca \(En Vivo\)](https://open.spotify.com/album/3CrwaaScRSxqVbChDMrSbq) | 4:06 | 2022-11-04 |  |
+| [La Loca \(En Vivo\)](https://open.spotify.com/track/358qSGpL4SSy7tRoj6gsmS) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [La Loca \(En Vivo\)](https://open.spotify.com/album/3CrwaaScRSxqVbChDMrSbq) | 4:06 | 2022-11-04 | 2024-07-20 |
 | [La Mamoncita del Insta](https://open.spotify.com/track/4Dg3WEqGpBbSu4EKjudiwV) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [La Mamoncita del Insta](https://open.spotify.com/album/4bzLOdILYkhPvhrErSjLxn) | 3:13 | 2023-06-30 |  |
 | [La Miche](https://open.spotify.com/track/5qyaHfrDEredbekaDs3PZk) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [La Miche](https://open.spotify.com/album/5VAP6Y5ff8BBPflsMV77fS) | 4:09 | 2022-07-01 | 2023-01-14 |
 | [La Muchacha del Salado "la Nicholette" \- En Vivo](https://open.spotify.com/track/1CIm69POXMEVdDhT1tmE2I) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras de Servando, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/4qJsTs0meLzRDbZNIGd5dX) | 2:44 | 2022-06-03 | 2023-04-15 |

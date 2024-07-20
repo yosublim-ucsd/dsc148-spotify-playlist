@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,772 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,800 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 12 | [Epic](https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 4:53 |
 | 13 | [Numb / Encore](https://open.spotify.com/track/7dyluIqv7QYVTXXZiMWPHW) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Collision Course \(Deluxe Version\)](https://open.spotify.com/album/5NH94cATqx5fjBE794xZLy) | 3:25 |
 | 14 | [Magic \(feat\. Rivers Cuomo\)](https://open.spotify.com/track/5uHYcK0nbEYgRaFTY5BqnP) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v) | [B.o.B Presents: The Adventures of Bobby Ray](https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P) | 3:16 |
-| 15 | [This Is The Way \(feat\. DMX\)](https://open.spotify.com/track/41uRcFai0Ta90sBnYB4OgK) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [AfterLife \(Deluxe\)](https://open.spotify.com/album/3nEUhPvFBnLSi30EZy931a) | 2:47 |
-| 16 | [Original Prankster](https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Conspiracy Of One](https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs) | 3:40 |
+| 15 | [Original Prankster](https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Conspiracy Of One](https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs) | 3:40 |
+| 16 | [This Is The Way \(feat\. DMX\)](https://open.spotify.com/track/41uRcFai0Ta90sBnYB4OgK) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [AfterLife \(Deluxe\)](https://open.spotify.com/album/3nEUhPvFBnLSi30EZy931a) | 2:47 |
 | 17 | [Bad Mother F\*cker](https://open.spotify.com/track/2kjPvFgVIGki2BRlOHvQQr) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [General Admission \(Deluxe\)](https://open.spotify.com/album/1HK1WLip5xwWQYixdF3Jsk) | 3:33 |
 | 18 | [Hokus Pokus](https://open.spotify.com/track/3ij7wTT8OOy8MhkT6AS5aS) | [Insane Clown Posse](https://open.spotify.com/artist/4xtWjIlVuZwTCeqVAsgEXy) | [The Great Milenko](https://open.spotify.com/album/2ipPVolNUBz0kCoc3VJ9zc) | 4:21 |
 | 19 | [Good Goodbye \(feat\. Pusha T and Stormzy\)](https://open.spotify.com/track/650OeHTLxZAQmb4aEbGmaA) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 3:31 |

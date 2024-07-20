@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXconM2hS1KVZ.md) - [plain]
 
 > Sommer für immer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,926 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,134 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXconM2hS1KVZ.md) - [plain]
 | 48 | [SUBEME LA RADIO](https://open.spotify.com/track/7nKBxz47S9SD79N086fuhn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [SUBEME LA RADIO \(feat\. Descemer Bueno & Zion & Lennox\)](https://open.spotify.com/album/2Ib7wM5qXKXDzZFhzNQ7TG) | 3:27 |
 | 49 | [Despacito \- Remix](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Despacito Feat\. Justin Bieber \(Remix\)](https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O) | 3:48 |
 | 50 | [Takeaway](https://open.spotify.com/track/3g0mEQx3NTanacLseoP0Gw) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [World War Joy](https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD) | 3:29 |
-| 51 | [Sunset Lover](https://open.spotify.com/track/3WRQUvzRvBDr4AxMWhXc5E) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Presence](https://open.spotify.com/album/6se6q5nk4VCVbWWnZcguCc) | 3:58 |
-| 52 | [Copacabana \(At the Copa\)](https://open.spotify.com/track/5FMXrphygZ4z3gVDHGWxgl) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Dance Vault Mixes \- Copacabana \(At The Copa\)](https://open.spotify.com/album/52Ho5XgGwrNrPARqqXhJ5P) | 3:56 |
+| 51 | [Copacabana \(At the Copa\)](https://open.spotify.com/track/5FMXrphygZ4z3gVDHGWxgl) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Dance Vault Mixes \- Copacabana \(At The Copa\)](https://open.spotify.com/album/52Ho5XgGwrNrPARqqXhJ5P) | 3:56 |
+| 52 | [Sunset Lover](https://open.spotify.com/track/3WRQUvzRvBDr4AxMWhXc5E) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Presence](https://open.spotify.com/album/6se6q5nk4VCVbWWnZcguCc) | 3:58 |
 | 53 | [Cheap Thrills](https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:31 |
 | 54 | [Prayer in C \- Robin Schulz Radio Edit](https://open.spotify.com/track/0uVyZywUNOp6S0dU5r8TS8) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Prayer](https://open.spotify.com/album/1SrvubPy1Dg2BWJyTMcmgr) | 3:09 |
 | 55 | [La Cintura](https://open.spotify.com/track/6VUJQqyeQhAZHkQbSDqLtI) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Mar De Colores \(Versión Extendida\)](https://open.spotify.com/album/66IXFg1AukADK41CP0xANr) | 3:24 |

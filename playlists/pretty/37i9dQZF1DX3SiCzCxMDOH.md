@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SiCzCxMDOH.md) - [plain]
 
 > Find your study focus with calm instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,843 likes - 595 songs - 1 day 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,859 likes - 595 songs - 1 day 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

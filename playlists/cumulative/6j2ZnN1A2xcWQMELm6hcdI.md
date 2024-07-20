@@ -4,7 +4,7 @@
 
 > The baddest and most influential women in music \[Ex\. <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\] Cover: Latto
 
-492 songs - 1 day 0 hr 27 min
+497 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [1\-800\-GOT\-STRESS](https://open.spotify.com/track/7fhAWoFWTKaOl1VtdqqZhf) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [1\-800\-GOT\-STRESS](https://open.spotify.com/album/7au7oYaB1KzTr9k2JdOlGJ) | 3:09 | 2023-06-02 |  |
 | [10 Boyfriends](https://open.spotify.com/track/3qySQmUQFaRBdANtETfHca) | [Chrissy Chlapecka](https://open.spotify.com/artist/7L5no8Dp7Y2Gk0L1JIWj9S) | [10 Boyfriends](https://open.spotify.com/album/1oQ61aDHWYwrYBLTM2DJEV) | 3:20 | 2024-05-17 |  |
 | [100 Bands](https://open.spotify.com/track/7nQMqUUXPkMCQNOESQ3bkV) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [100 Bands](https://open.spotify.com/album/4c4krYMGjRDh5FxtEEQhP2) | 2:07 | 2024-05-03 |  |
+| [15 MINUTES](https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [15 MINUTES](https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK) | 3:09 | 2024-07-19 |  |
 | [17suns](https://open.spotify.com/track/0UCZd39helCanZAlsWbrR1) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [& what else?](https://open.spotify.com/album/4p5YlAC56HCZOSDBNzqm8A) | 2:41 | 2023-05-19 |  |
 | [1:59 \(feat\. Gunna\)](https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [1:59 \(feat\. Gunna\)](https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d) | 3:12 | 2024-04-26 |  |
 | [21st Century Princess](https://open.spotify.com/track/7t5szdTagFPMLCfTFKPG9c) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [21st Century Princess](https://open.spotify.com/album/2CfLW8uWYtXch0ZCdlxHia) | 3:01 | 2023-05-12 |  |
@@ -35,6 +36,7 @@
 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 | 2023-08-25 |  |
 | [AMANTES](https://open.spotify.com/track/3Q7o2zzvXj7QiSCumjBpvu) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI) | [AMANTES](https://open.spotify.com/album/2yEEceuPovV5sAoey4GUJF) | 3:00 | 2022-09-16 | 2023-07-29 |
 | [Angel](https://open.spotify.com/track/2soZTM1x1GBiQGMAsXKXpd) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Angel](https://open.spotify.com/album/0VsjdPYUzQti57JmByRQvz) | 3:39 | 2023-08-04 |  |
+| [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 | 2024-07-19 |  |
 | [Another Nasty Song](https://open.spotify.com/track/6lABMzDz2QUqZXRPvQIkuJ) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Another Nasty Song](https://open.spotify.com/album/6lFb5yNr5P8oniP9OfDuNb) | 2:24 | 2022-12-16 | 2023-07-29 |
 | [Anticipate](https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Anticipate](https://open.spotify.com/album/1gjvuirxy43mXAc6O7UNLD) | 2:47 | 2023-07-28 |  |
 | [Armor](https://open.spotify.com/track/7mGwwtxzKB6ehgq6mcwB3N) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Armor](https://open.spotify.com/album/1zBqEegAnkQolF1pfCAjf4) | 2:42 | 2024-01-26 |  |
@@ -199,6 +201,7 @@
 | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5) | 3:41 | 2024-05-17 |  |
 | [Heart Break Escape](https://open.spotify.com/track/2d7ROIV6XJOehN3b6jBnfO) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:20 | 2023-02-10 | 2023-03-18 |
 | [HEARTBEAT](https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [HEARTBEAT](https://open.spotify.com/album/7cLRRJ3fRfyExOHOIwcLDy) | 2:04 | 2022-08-26 | 2023-07-29 |
+| [Heat](https://open.spotify.com/track/0wZaYm3OFlRCq6ZgLhkshE) | [Era Istrefi](https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91) | [Heat](https://open.spotify.com/album/6lULDVxvbCHd0wcZ8GXlMr) | 2:10 | 2024-07-19 |  |
 | [Heathens](https://open.spotify.com/track/2twj0vUjDDN3WkTPHgAVbf) | [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [Heathens](https://open.spotify.com/album/3WYpCLbSRJixnDt17Se3Q5) | 3:24 | 2022-11-04 | 2023-07-29 |
 | [heavun](https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [heavun](https://open.spotify.com/album/6rIqnMYGM6a1CMD65is0Te) | 3:11 | 2023-06-16 |  |
 | [Hebrews](https://open.spotify.com/track/3ZIq8BwMlHcShYAsonRG5S) | [Blessing Jolie](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [Hebrews](https://open.spotify.com/album/5NE4Kuyj0xMwhmUbflqLxi) | 3:02 | 2024-03-15 |  |
@@ -223,6 +226,7 @@
 | [Ice Baby](https://open.spotify.com/track/54c4fajLogCgJkKiKztEa2) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ice Baby](https://open.spotify.com/album/47fUhEmt7Ew393CEPo7VhK) | 2:49 | 2022-06-03 | 2023-07-29 |
 | [Ice Cream Man.](https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:08 | 2023-02-04 |  |
 | [IdgaF](https://open.spotify.com/track/5uFGqqXqeX2EA8CxTs2DJL) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [IdgaF](https://open.spotify.com/album/7EzgvU0MYQpqS90E97u9rk) | 1:43 | 2023-07-07 |  |
+| [If I Were a Boy](https://open.spotify.com/track/26NX1wPt1TRCH536yocd6i) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 4:09 | 2024-07-19 |  |
 | [II MOST WANTED](https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:28 | 2024-03-29 |  |
 | [In Plain Sight](https://open.spotify.com/track/266v6l2hpwcRVrmMxNZkp4) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [In Plain Sight](https://open.spotify.com/album/5ucZskRXstBtzif13kXYM0) | 2:36 | 2023-05-05 |  |
 | [In The End](https://open.spotify.com/track/09CLSLAHnRuFQUgoXeAiCz) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [In The End](https://open.spotify.com/album/4yKDRnMv0vIj5FlsREicz4) | 3:10 | 2024-01-26 |  |
@@ -437,6 +441,7 @@
 | [Temporary Love](https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Temporary Love](https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ) | 2:36 | 2023-05-19 | 2023-06-10 |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 | 2024-02-12 |  |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:53 | 2024-03-29 |  |
+| [that way](https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 2:55 | 2024-07-19 |  |
 | [That's My Best Friend](https://open.spotify.com/track/56TmDxLFVk9FBLuEfqLIkR) | [Tokyo Vanity](https://open.spotify.com/artist/3tyNfmlL7wNE6zaVmTWmRZ) | [That's My Best Friend](https://open.spotify.com/album/5a9n8mJcr8NswZd4jSOM7v) | 3:30 | 2024-01-19 |  |
 | [THAT'S ON YOU!](https://open.spotify.com/track/7mV2INVLXxfqjtEn4zPDel) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [THAT'S ON YOU!](https://open.spotify.com/album/7ECsSAJ3NOEfPu9MyDcjDK) | 2:39 | 2022-06-03 | 2023-02-05 |
 | [The Journey](https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Journey](https://open.spotify.com/album/2CspZ8WA96Ox4riutFwzPd) | 4:22 | 2023-05-19 |  |

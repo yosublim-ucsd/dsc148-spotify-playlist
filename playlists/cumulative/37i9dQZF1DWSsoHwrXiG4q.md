@@ -4,12 +4,13 @@
 
 > Deep sounds of liquid drum & bass to keep you in the flow.
 
-144 songs - 11 hr 5 min
+147 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1759](https://open.spotify.com/track/5E3DJhWBxPI5g6wGdpMll7) | [Kid Drama](https://open.spotify.com/artist/7w6o2HAvNOSFJqkSeVRsf4), [Garvo](https://open.spotify.com/artist/4wEfs20Mbsga9Cm0Y9uf9s) | [1759 / Nitrosurge](https://open.spotify.com/album/1IUvogiJuEUCw5b7JbD6Db) | 6:05 | 2023-09-28 |  |
 | [Atlas](https://open.spotify.com/track/0UjB6iVi3UITfKC26Naxpu) | [Lost Lumina](https://open.spotify.com/artist/6hxR80dFvGZxlRm3Sd33KQ) | [Atlas](https://open.spotify.com/album/0Cv65vzZDNVPhs8ds6O2ry) | 2:46 | 2024-02-09 | 2024-06-19 |
+| [Aura](https://open.spotify.com/track/7DEAzPB1Y0HUQjVhtMTyWw) | [Microfunk Crew](https://open.spotify.com/artist/1kXFAaq7J5M9o2IalfeEmR), [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb), [Oak](https://open.spotify.com/artist/0B4Pz0kznnPzms8L3CC1bZ) | [Future Myth EP](https://open.spotify.com/album/1QJwAprHu9YwujY0VRlzza) | 4:37 | 2024-07-19 |  |
 | [Aurora 2000](https://open.spotify.com/track/6DUJwUpiJbOfQdFG294VkE) | [Ken Mishima](https://open.spotify.com/artist/0Chi2Kl2fw2EAU59TmdZt1) | [Aurora 2000](https://open.spotify.com/album/4uuNzfwnlN2D1MDAZChoki) | 2:24 | 2024-01-31 |  |
 | [Aurora Borealis](https://open.spotify.com/track/5uCteSZEYL4yutRhIc2wyr) | [Thing](https://open.spotify.com/artist/6SovQYzixv3B3M1HWjbdLS) | [Aurora Borealis](https://open.spotify.com/album/79xUQzwXUfWCvLVrvH9naf) | 3:29 | 2024-02-09 |  |
 | [Believe If You Want](https://open.spotify.com/track/3f1DQmKY9IdmNcWvQMEQ8Z) | [Eastcolors](https://open.spotify.com/artist/0yJJHicyYpeDFfliRVqhsC) | [Vaska EP](https://open.spotify.com/album/4qb0wodiBVQQfWUWRU8D8q) | 6:08 | 2022-11-30 |  |
@@ -55,6 +56,7 @@
 | [Frost Heaves \- Original](https://open.spotify.com/track/7hAN6sfZlXv0szXbedzCHC) | [Silence Groove](https://open.spotify.com/artist/4hpq4qAP5XaJawNi8XriL8) | [Sliced Feat\. Sevin / Frost Heaves](https://open.spotify.com/album/2l51hI7XqDqXJMirkMy6K0) | 4:59 | 2022-11-30 |  |
 | [Garden \- Calibre Remix](https://open.spotify.com/track/6HRa9FtX8ifjQmA3XFBXan) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Garden \(Calibre Remix\)](https://open.spotify.com/album/6xPaNRGXlr2L0brkk8ab8N) | 5:58 | 2022-12-22 |  |
 | [Gift of mine](https://open.spotify.com/track/6wrLBtrQ31FUBh4vYIya95) | [Dan Guidance](https://open.spotify.com/artist/7hyHqP7jOnuLTxY8mHNKzL), [Echo Motion](https://open.spotify.com/artist/729SCkKQ3GmcAE3xaqLQec) | [Aperture EP](https://open.spotify.com/album/0XH4qOQY0OJ57DJWPEmGHo) | 5:02 | 2022-11-30 |  |
+| [Halation](https://open.spotify.com/track/63mY4iFeCUqTMp5UvmrCQX) | [Trail](https://open.spotify.com/artist/2A83umpkQxHuNcL3ahaAvd) | [Halation EP](https://open.spotify.com/album/4q3eXj0UvW9ib4tp0lPvLi) | 5:03 | 2024-07-19 |  |
 | [Healing](https://open.spotify.com/track/4XepcslboQs9u4d7lEWWxW) | [Eloran](https://open.spotify.com/artist/1fq90SLAmXXuNCRqVjM48b) | [Healing](https://open.spotify.com/album/1HQrw3qDZY30aa3rec4hWr) | 2:45 | 2024-06-18 |  |
 | [Heat](https://open.spotify.com/track/1hYilXtoru2HU5WFC4c6Hb) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Shelflife 8](https://open.spotify.com/album/5Dmlbeex41aQxfSKKMVHn3) | 5:33 | 2023-05-08 |  |
 | [Her Room](https://open.spotify.com/track/6GxItxR3jbx4WjYi7tFAb4) | [Leniz](https://open.spotify.com/artist/1qHvK5Yi7L8CUDuK9HahoX), [Qumulus](https://open.spotify.com/artist/2SPHhbUppZ3hQULJI1gE8T) | [Her Room](https://open.spotify.com/album/7MvGTXzbm57VVFMPdOsoQs) | 4:51 | 2023-03-09 |  |
@@ -63,6 +65,7 @@
 | [I Need](https://open.spotify.com/track/7B1L226HntUkPZuxjYdPFc) | [Chiccoreli](https://open.spotify.com/artist/2ZJhfEA5oRnbtqWDY5zfka) | [I Need / In My Dreamz](https://open.spotify.com/album/6zHj6TTUSbgvDWSYC6uouU) | 4:33 | 2023-09-28 |  |
 | [I've Been Missing You](https://open.spotify.com/track/3R9b1PpbmKKZ24rJpRnX5X) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [I've Been Missing You](https://open.spotify.com/album/3M8bgcle0cerp3hMZ91h25) | 4:44 | 2023-02-24 | 2024-03-30 |
 | [IGGY](https://open.spotify.com/track/3Jhhgy33bLgTRTjr0hEM1F) | [Heyson](https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR) | [Pink Poppy](https://open.spotify.com/album/4ZCV3sUH3EoKPmyv0FCKlL) | 2:49 | 2023-11-17 |  |
+| [In Love](https://open.spotify.com/track/3SRim977wtGiQqbkv9inkg) | [Akuratyde](https://open.spotify.com/artist/72THaqsNHuARlOcEiZutO2) | [Head First](https://open.spotify.com/album/6F5zztR7GXXdhBncIcfmxY) | 4:40 | 2024-07-19 |  |
 | [In Time](https://open.spotify.com/track/6ztmiz6nijHxCsEDxMmTnV) | [Hiyayakko](https://open.spotify.com/artist/4yVyPczI3DoCsOECKEc6rg) | [In Time](https://open.spotify.com/album/5m6JGBwfYQp6ZWpSbylrdj) | 4:45 | 2023-12-12 |  |
 | [Inner Echo](https://open.spotify.com/track/1tGwB0G7VOshhAyOQYaNbe) | [Mojoman](https://open.spotify.com/artist/2t7SxDJO8xs6RskGSLYwad) | [Inner Echo/ Thrive Pattern VIP](https://open.spotify.com/album/0X5CFT37lTT3nWkVlJBY37) | 7:29 | 2022-11-30 |  |
 | [Into the Motion](https://open.spotify.com/track/2oIOO3ZNR9yZ6zE20vrFZJ) | [Mystific](https://open.spotify.com/artist/1vmJX00cwTh9L8kYn1JfT4) | [Glass / Into the Motion \(Extended Play\)](https://open.spotify.com/album/5mN40loDSsFN5uOFldIEDi) | 5:31 | 2022-11-30 | 2023-06-24 |
@@ -97,7 +100,7 @@
 | [Night](https://open.spotify.com/track/2oo1yQzULJz4jcaL0Ncipb) | [Eloran](https://open.spotify.com/artist/1fq90SLAmXXuNCRqVjM48b) | [Night](https://open.spotify.com/album/6EmnaVIQ99hVSlSTxGQ7OD) | 3:33 | 2023-08-25 |  |
 | [Nightwalker](https://open.spotify.com/track/1xKlGEhUOGNgjD4X8WN6pQ) | [Anvo](https://open.spotify.com/artist/11CN1SJEtpbtBo7Hv0vXQW) | [The Beginning EP](https://open.spotify.com/album/05ZtfcUkM8oQk3Depz25nP) | 5:39 | 2024-03-06 | 2024-03-30 |
 | [Noplace](https://open.spotify.com/track/1aAEZKKjtCcV4ghd2aXmEz) | [Jake and Jake](https://open.spotify.com/artist/7mWxGDIMAJ2HhVKomW0C55) | [Liquid Air](https://open.spotify.com/album/4hiQgffYfQsnjf2BHAx6dS) | 3:57 | 2023-11-30 |  |
-| [Not Alone](https://open.spotify.com/track/2460FCYtdrrcTChzU7G7aT) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Not Alone](https://open.spotify.com/album/3uAGplw7cRRx927H35iokm) | 4:58 | 2022-11-30 |  |
+| [Not Alone](https://open.spotify.com/track/2460FCYtdrrcTChzU7G7aT) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Not Alone](https://open.spotify.com/album/3uAGplw7cRRx927H35iokm) | 4:58 | 2022-11-30 | 2024-07-20 |
 | [Not Alone](https://open.spotify.com/track/43tBlA5k7oqhiDM2BLbD9s) | [Lumia](https://open.spotify.com/artist/5V2l90RATO3NzCAd0Vj7Sd) | [Patience EP](https://open.spotify.com/album/2o5b7vfrMcKiV0tasomd8b) | 4:12 | 2024-04-12 | 2024-06-19 |
 | [Nothin But Love \- Original Mix](https://open.spotify.com/track/5rtGhin74wxFojrPqgTpdY) | [Dave Owen](https://open.spotify.com/artist/4YtxzfRdAhFuhylm1O3gYn) | [Nothin But Love](https://open.spotify.com/album/40C9wHFoQ09IPM4Nw0jUon) | 6:40 | 2022-11-30 | 2024-02-10 |
 | [Nothing Remains](https://open.spotify.com/track/4TJYeiZ1jPpEwpsn4DXkJc) | [DJ Eely](https://open.spotify.com/artist/1pWq7WE6SgN6KxOFXD3w80) | [Nothing Remains](https://open.spotify.com/album/2alTN2IjDGsAF8qum8zrls) | 5:22 | 2023-08-25 |  |
@@ -106,7 +109,7 @@
 | [One](https://open.spotify.com/track/4zap6P1HLUlnZzK1aArQlI) | [Rayo Z](https://open.spotify.com/artist/6iBDil4w5ORJJb9Rd8qjAS) | [One](https://open.spotify.com/album/6KhZNTWMquw6XbZfDFHFJ4) | 3:25 | 2023-04-11 |  |
 | [One](https://open.spotify.com/track/6pmsPriyccCsfkojaoV0km) | [subtly](https://open.spotify.com/artist/4zM6zfRn2E1TKUXsh005la) | [One](https://open.spotify.com/album/0QtqpBLIDnD5bty6L0MH0e) | 3:25 | 2024-03-04 |  |
 | [One Thunder \(Different Drums Version\)](https://open.spotify.com/track/3mId35oszFyZoraEkjQUdy) | [Thing](https://open.spotify.com/artist/6SovQYzixv3B3M1HWjbdLS) | [One Thunder](https://open.spotify.com/album/0OMDLmJXkOCZoUiVjffCrj) | 3:43 | 2023-11-15 | 2024-01-25 |
-| [Only Ever Kind](https://open.spotify.com/track/03hCREcMFPPTcEUE8slTUX) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [Deep News](https://open.spotify.com/album/5Eczut7zUztAYsibkrIFE6) | 4:58 | 2022-11-30 |  |
+| [Only Ever Kind](https://open.spotify.com/track/03hCREcMFPPTcEUE8slTUX) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [Deep News](https://open.spotify.com/album/5Eczut7zUztAYsibkrIFE6) | 4:58 | 2022-11-30 | 2024-07-20 |
 | [Only Ever Kind](https://open.spotify.com/track/17DkbezyxnABF5YBMUR4xW) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [Deep News](https://open.spotify.com/album/3eWZOeJh1ksdf8HPdKi5aG) | 4:58 | 2023-02-14 | 2024-04-19 |
 | [Orchid](https://open.spotify.com/track/23tjbvbp0TNHiHTU3eiUC0) | [Maykors](https://open.spotify.com/artist/6Y72enwzZuQkCQtvLNv3HV), [Parhelia](https://open.spotify.com/artist/4DrgpbyM6X11r8U651vN7S) | [Orchid EP](https://open.spotify.com/album/5YADdkn1VAiZyyWoa99Yyv) | 4:57 | 2024-01-09 | 2024-04-13 |
 | [Oxytocin](https://open.spotify.com/track/1aJmo7gr3r4EgdLyTHFGhF) | [T\-Shirts & Sweats](https://open.spotify.com/artist/0FcaySiOfyoo0GzdrWsiVD) | [Oxytocin / Prodigal](https://open.spotify.com/album/57mZsjST2kOcYochTI19D3) | 5:05 | 2023-04-13 |  |
@@ -126,7 +129,7 @@
 | [Simple Sa](https://open.spotify.com/track/0u2buO07v9E81DEMftkGmD) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Typical Things](https://open.spotify.com/album/6jVJj2XiudrfH14YvqTLBm) | 3:43 | 2022-11-30 | 2023-09-16 |
 | [Simple Sa \- Radio Edit](https://open.spotify.com/track/0sbHhfuGJp4tGimGCiXUP2) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Typical Things](https://open.spotify.com/album/321EvLSow0kxCcyL7z0Qtd) | 3:43 | 2023-02-14 | 2024-03-30 |
 | [Somewhere Back There](https://open.spotify.com/track/2swpkJwi0UGrMMkMn0MUFa) | [Random Movement](https://open.spotify.com/artist/7qQ7CInf5wCUojxvfhflfW) | [Lost On Purpose](https://open.spotify.com/album/0wPCfBZIDcBHAG8IlyBF5I) | 6:08 | 2022-11-30 |  |
-| [Soul Panorama \- Original mix](https://open.spotify.com/track/0gmTEo8oQXWlq5i1vCLbPC) | [Sphera](https://open.spotify.com/artist/4vH9G6Sah9CmkDMDy4jUwe) | [Every Mind Is a Place](https://open.spotify.com/album/0pQO5opqsLBiGaXBah3K01) | 4:34 | 2024-03-06 |  |
+| [Soul Panorama \- Original mix](https://open.spotify.com/track/0gmTEo8oQXWlq5i1vCLbPC) | [Sphera](https://open.spotify.com/artist/4vH9G6Sah9CmkDMDy4jUwe) | [Every Mind Is a Place](https://open.spotify.com/album/0pQO5opqsLBiGaXBah3K01) | 4:34 | 2024-03-06 | 2024-07-20 |
 | [Soul Seeker](https://open.spotify.com/track/6fdxICvGHYojIExfzEOceB) | [Dino Razer](https://open.spotify.com/artist/2OxNPwfYykZEZcNPBtfeCe) | [Soul Seeker](https://open.spotify.com/album/36EJeBLIUqtNePMRvVzwpD) | 4:27 | 2024-01-24 |  |
 | [Spears](https://open.spotify.com/track/7dgLWx5S5G0eehexaKY5qR) | [Dawn Wall](https://open.spotify.com/artist/6gnohqGISFUVpTSqT3TtiO) | [Longshanks](https://open.spotify.com/album/2xW3yWkUKGORKWR7JjVveX) | 4:20 | 2022-12-22 | 2024-02-10 |
 | [Spyglass](https://open.spotify.com/track/4EaghxJQ9BR1uWufJYgame) | [Memro](https://open.spotify.com/artist/0OIeNihgk0zBQzqN4O3Xb0) | [Spyglass/Damage](https://open.spotify.com/album/7hCBU8vLJ5Q7jy1cJv80Uy) | 5:08 | 2022-11-30 |  |

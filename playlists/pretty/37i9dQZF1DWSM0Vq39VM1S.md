@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 
 > Le rayon de soleil musical de votre matinée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,631 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,641 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 10 | [Magic](https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:45 |
 | 11 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 |
 | 12 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/5S4aYQAJOwJMAamANWlICO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore \(deluxe version\)](https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK) | 4:45 |
-| 13 | [Haven \(from Life Is Strange\)](https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Haven \(from Life Is Strange\)](https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE) | 2:52 |
+| 13 | [Just Breathe](https://open.spotify.com/track/6i81qFkru6Kj1IEsB7KNp2) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 3:35 |
 | 14 | [Come Away With Me](https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:18 |
-| 15 | [Just Breathe](https://open.spotify.com/track/6i81qFkru6Kj1IEsB7KNp2) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 3:35 |
+| 15 | [Haven \(from Life Is Strange\)](https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Haven \(from Life Is Strange\)](https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE) | 2:52 |
 | 16 | [Home Again](https://open.spotify.com/track/5yGVHzJ2Se8pDzR7FIYUlU) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again \(Deluxe Version\)](https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK) | 3:29 |
 | 17 | [Sitting, Waiting, Wishing](https://open.spotify.com/track/1dnXuEuApvuVqQCn0v9McL) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:03 |
 | 18 | [Heartbeats](https://open.spotify.com/track/3jQyadhLTxpxadQlkFh2b8) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/5n7X5fHKzG6QaKAHGB7Y8A) | 2:40 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 71 | [So Real](https://open.spotify.com/track/5s9biQ8jLtbUnE76sxDtQ8) | [Sage](https://open.spotify.com/artist/5dDQASlR9FyeP4VO0jw35F) | [Paint Myself](https://open.spotify.com/album/4BhK7NpYuRvOVfbDIxpDZp) | 2:57 |
 | 72 | [Malory](https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees) | [Martin Stahl](https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l) | [Malory](https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7) | 2:58 |
 | 73 | [Deeply](https://open.spotify.com/track/4zIpKhIGG2p9uJgyvthVxQ) | [Meryem Aboulouafa](https://open.spotify.com/artist/5h7TI4XI3fjCiG5MHJMyO0) | [Meryem](https://open.spotify.com/album/2a7C1v4N081yIZf0ZTVhnu) | 3:21 |
-| 74 | [I Want What I Don't Need](https://open.spotify.com/track/47I3c9U0uzsgCrrNxWcvEj) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [I Want What I Don't Need](https://open.spotify.com/album/4jFyRkvMztF94lz28UCX4S) | 3:35 |
-| 75 | [Rails of the Night](https://open.spotify.com/track/57qJCSxKFD5Q4tpR3EJDwC) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq) | [Rails of the Night](https://open.spotify.com/album/7pYyi4rilAKFda806Y85VS) | 4:00 |
+| 74 | [Rails of the Night](https://open.spotify.com/track/57qJCSxKFD5Q4tpR3EJDwC) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq) | [Rails of the Night](https://open.spotify.com/album/7pYyi4rilAKFda806Y85VS) | 4:00 |
+| 75 | [I Want What I Don't Need](https://open.spotify.com/track/47I3c9U0uzsgCrrNxWcvEj) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [I Want What I Don't Need](https://open.spotify.com/album/4jFyRkvMztF94lz28UCX4S) | 3:35 |
 
 Snapshot ID: `Zk+8YAAAAAAKUMrS8sUSCtfwe7p3513y`

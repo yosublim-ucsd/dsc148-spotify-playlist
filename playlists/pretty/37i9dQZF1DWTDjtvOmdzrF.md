@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 
 > Racikan akustik dalam secangkir kopi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,590 likes - 75 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,602 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 31 | [Sorai](https://open.spotify.com/track/3ymuBMTviroWLuf1jMsMVf) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Sorai](https://open.spotify.com/album/60YDoJUMHjkYtZnPztRvZ1) | 4:38 |
 | 32 | [Perahu Kertas](https://open.spotify.com/track/0InJPuWIYp8fwlBGIQglLf) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Moments](https://open.spotify.com/album/51PNqOMj1ttmbuZPzxOqSI) | 3:54 |
 | 33 | [Surat Cinta Untuk Starla](https://open.spotify.com/track/5o6StwqqVfG3vRLx8UP310) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Surat Cinta Untuk Starla](https://open.spotify.com/album/6a2Btrft7cIsCHTmSjTiU3) | 5:08 |
-| 34 | [Cinta Dan Rahasia](https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 4:22 |
-| 35 | [Membasuh](https://open.spotify.com/track/3CBxVM0zGj41BQtE6m7gwb) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12), [Rara Sekar](https://open.spotify.com/artist/6mJII5SJlWEYnf7DY4Uywl) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 6:13 |
+| 34 | [Membasuh](https://open.spotify.com/track/3CBxVM0zGj41BQtE6m7gwb) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12), [Rara Sekar](https://open.spotify.com/artist/6mJII5SJlWEYnf7DY4Uywl) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 6:13 |
+| 35 | [Cinta Dan Rahasia](https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 4:22 |
 | 36 | [Zona Nyaman \(From "Filosofi Kopi 2: Ben & Jody"\)](https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Ego & Fungsi Otak](https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz) | 4:03 |
 | 37 | [Usik](https://open.spotify.com/track/5GgRntbjr23OK9MMST02di) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Riuh](https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5) | 5:11 |
 | 38 | [Resah](https://open.spotify.com/track/1k5vv2ood14aa5uBYWBlWh) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 4:00 |

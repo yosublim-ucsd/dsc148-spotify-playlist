@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: AYLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,257 likes - 55 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,242 likes - 55 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 54 | [Mi ami solo d’estate](https://open.spotify.com/track/6jlf3VpgGLuAGzoUtHFuso) | [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Mi ami solo d’estate](https://open.spotify.com/album/1MJSYQ2ZUHDt5Pz7SbOoQC) | 2:38 |
 | 55 | [LA VITA NON UCCIDE](https://open.spotify.com/track/6T7AXYeKn7j59EnNsqypcC) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [LA VITA NON UCCIDE](https://open.spotify.com/album/7qUZ6SbmXlLh44LvnfMkRg) | 3:11 |
 
-Snapshot ID: `ZpmQnAAAAACDxLKjAbYAJnuWi3fh9ZIP`
+Snapshot ID: `Zpp6sgAAAABIz76eJ79o+GvlA9cQb0oN`

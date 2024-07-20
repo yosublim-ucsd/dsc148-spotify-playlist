@@ -4,7 +4,7 @@
 
 > Enjoy trendy & chill Korean R&B music\. \(Cover: KATIE\(케이티\)\)
 
-722 songs - 1 day 14 hr 36 min
+723 songs - 1 day 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,7 +427,7 @@
 | [More and More](https://open.spotify.com/track/7dudDzqxkOs74CED8gXcKO) | [SOIN](https://open.spotify.com/artist/7EOsjIvg3a2dPyMW6XNn4U) | [More and More](https://open.spotify.com/album/0tAgvFyBpDkoTCbAxsu73h) | 3:18 | 2022-08-18 | 2022-08-31 |
 | [Morning Coffee](https://open.spotify.com/track/1KH1fP5NAN04rOqToDCewI) | [Odett](https://open.spotify.com/artist/093wAdPoQ0xBtB5Drjqd63) | [Morning Coffee](https://open.spotify.com/album/0WDC5MXoBXqZW9x1SohHbz) | 3:15 | 2023-06-01 | 2023-06-14 |
 | [MotoSpeed 24](https://open.spotify.com/track/0BPwEuU9qegqVSob1Ihm97) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Sweet Sorrow of Mother](https://open.spotify.com/album/5JeeP4rSAS41KjuC7c6cvJ) | 2:13 | 2022-10-26 | 2022-12-26 |
-| [MOVIE](https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [MOVIE](https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y) | 3:03 | 2022-04-19 |  |
+| [MOVIE](https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [MOVIE](https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y) | 3:03 | 2022-04-19 | 2024-07-20 |
 | [MOVIE \(Feat\. Rohann\)](https://open.spotify.com/track/3iiA4KlKkEa00FwKiFvQn0) | [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4), [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1) | [My Original Sound Track](https://open.spotify.com/album/4M7LxD3dkMj4O6NCddBQKm) | 3:19 | 2022-04-19 | 2022-04-21 |
 | [Movies](https://open.spotify.com/track/294UWedgLQooQs8ETGrNWD) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [CRÈME](https://open.spotify.com/album/2rwFQMzjIl55c4uTnxuJ6D) | 1:56 | 2022-04-19 | 2022-07-28 |
 | [MUSE \(Feat\. Paloalto\)](https://open.spotify.com/track/5Quf0BbKIu8IwWxcs8e1ol) | [Hannah Jang](https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8), [GENESIO](https://open.spotify.com/artist/2kH3CLwRaAFyaY2bOkHptU), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [MUSE](https://open.spotify.com/album/4xrmFGMgy9cQomzeoAynfv) | 3:47 | 2022-05-28 | 2022-07-16 |
@@ -660,6 +660,7 @@
 | [u ok?](https://open.spotify.com/track/0BD8P9ZS2nMrhgr9r5N3Y1) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [u ok?](https://open.spotify.com/album/7neili4dDZMsRKOuzw47Gd) | 3:50 | 2022-05-31 | 2022-06-03 |
 | [UFO \(Feat\. Seori\)](https://open.spotify.com/track/3RIDQ0NiYcV896kb0mWz3k) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Inside Out](https://open.spotify.com/album/3xA110ttA5PDmnDIBoyb7b) | 3:19 | 2022-04-19 | 2022-07-28 |
 | [uleum](https://open.spotify.com/track/595KCHsr2IGHS3iykdPyta) | [Mokyo](https://open.spotify.com/artist/1kRGgLBLwdQ16TxyfN1YgP) | [uleum](https://open.spotify.com/album/3KHDiSRpFQg50qplOfznpw) | 3:51 | 2022-04-19 | 2022-04-21 |
+| [Unbreak](https://open.spotify.com/track/1UQHcilrljYHCBHEHg8eMi) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Unbreak](https://open.spotify.com/album/5cW2CezifOIFXI599yiVcJ) | 3:19 | 2024-07-19 |  |
 | [Undo](https://open.spotify.com/track/6z1pJ3KUmQagUpMVqL62sa) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:48 | 2022-07-04 | 2022-08-19 |
 | [Up Late](https://open.spotify.com/track/0zGHkO156T5MNaYmaS7fNP) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Love Sick](https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek) | 2:53 | 2023-11-17 | 2023-11-23 |
 | [Up Late](https://open.spotify.com/track/1UGQ0UbDJ69eTfUvrqMwNz) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Up Late](https://open.spotify.com/album/4WP3fm7ewSHgbQLHn84oaf) | 2:53 | 2023-08-17 | 2023-08-19 |

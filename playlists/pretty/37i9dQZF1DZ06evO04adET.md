@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 
 ### [This Is Natanael Cano](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04adET)
 
-> This is Natanael Cano\. The essential tracks, all in one playlist.
+> This Is Natanael Cano\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 692,699 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 693,265 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Madonna](https://open.spotify.com/track/5LhI8m7n8xlQmNe3b7Rwis) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Madonna](https://open.spotify.com/album/0QZVRL2HC24voXfxWmpHvd) | 3:07 |
 | 2 | [YCQVM](https://open.spotify.com/track/71bGl0FoaBGHNT0CGhVOs1) | [Nueva H](https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [YCQVM](https://open.spotify.com/album/7KNj5SaBNlQUBX2D1gyaiz) | 3:03 |
-| 3 | [Ya Te Olvide](https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Ya Te Olvide](https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB) | 3:36 |
-| 4 | [VINO TINTO](https://open.spotify.com/track/5UHK1rtK4MpBGb0KppIYh4) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 4:05 |
+| 3 | [VINO TINTO](https://open.spotify.com/track/5UHK1rtK4MpBGb0KppIYh4) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 4:05 |
+| 4 | [Ya Te Olvide](https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Ya Te Olvide](https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB) | 3:36 |
 | 5 | [Entre las de 20](https://open.spotify.com/track/61OsemtnuPJ5R0LMEkw60S) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Entre las de 20](https://open.spotify.com/album/0teu3BYgtk8WuPBZWeDVN6) | 2:48 |
 | 6 | [Natanael Cano: Bzrp Music Sessions, Vol\. 59](https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Natanael Cano: Bzrp Music Sessions, Vol\. 59](https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90) | 2:35 |
 | 7 | [300 Noches](https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [300 Noches](https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml) | 3:24 |
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 | 16 | [Diamantes](https://open.spotify.com/track/0JDrG1g5HXbfgGtRKT0ofH) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:31 |
 | 17 | [Tipo Gatsby](https://open.spotify.com/track/1PTgQ0HyfwbXRKapVPNKxI) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 3:22 |
 | 18 | [Proyecto X](https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Proyecto X](https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs) | 2:38 |
-| 19 | [Pacas De Billetes](https://open.spotify.com/track/1EZk1gal98tb4lNI862KzO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 3:08 |
-| 20 | [PRIMO](https://open.spotify.com/track/1RkkjNnU8I4PDrzkZHECWf) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRIMO](https://open.spotify.com/album/1fazhvRXDXyxNJ1hIm1VBa) | 2:44 |
-| 21 | [Lucky Charms](https://open.spotify.com/track/6HPU2csiZAxNziZbW7jd6Y) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 2:50 |
-| 22 | [El Drip](https://open.spotify.com/track/5NCBP3ivrIDcHEtzHSW3k0) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 2:22 |
+| 19 | [PRIMO](https://open.spotify.com/track/1RkkjNnU8I4PDrzkZHECWf) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRIMO](https://open.spotify.com/album/1fazhvRXDXyxNJ1hIm1VBa) | 2:44 |
+| 20 | [Pacas De Billetes](https://open.spotify.com/track/1EZk1gal98tb4lNI862KzO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 3:08 |
+| 21 | [El Drip](https://open.spotify.com/track/5NCBP3ivrIDcHEtzHSW3k0) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 2:22 |
+| 22 | [Lucky Charms](https://open.spotify.com/track/6HPU2csiZAxNziZbW7jd6Y) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 2:50 |
 | 23 | [LOU LOU](https://open.spotify.com/track/3FvTHuefYV6TxE3Kseqno8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [LOU LOU](https://open.spotify.com/album/1sHlTAYqr45xrIUxcDrkmn) | 3:08 |
 | 24 | [CARNAL](https://open.spotify.com/track/2bXJMQZSJND3UYq5mjV4cB) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:54 |
 | 25 | [PRC](https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRC](https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 | 49 | [Ninguna Como Ella](https://open.spotify.com/track/14m4h509A1JJojv3eDxUDe) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:20 |
 | 50 | [Y Si Me Miran](https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Y Si Me Miran](https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R) | 3:33 |
 
-Snapshot ID: `ZpcJgAAAAAAJ4yM6LbuHAsi865lG8BjX`
+Snapshot ID: `ZphbAAAAAABO7MGRtrZfAp+n97ockWi1`

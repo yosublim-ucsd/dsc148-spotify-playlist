@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 952 songs - 2 day 10 hr 36 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 953 songs - 2 day 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -960,5 +960,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 950 | [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:10 |
 | 951 | [Everlong \- Acoustic Version](https://open.spotify.com/track/3QmesrvdbPjwf7i40nht1D) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:10 |
 | 952 | [DREAMS I SEE](https://open.spotify.com/track/4mamncqmgsPaWkBaemFijf) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [DREAMS I SEE](https://open.spotify.com/album/4v4448kFqcuBFv6uhUW6as) | 2:19 |
+| 953 | [Guitar Song](https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8) | 3:57 |
 
-Snapshot ID: `AAAIg63x0BJht1C8HgtYPkb/QizwO1L/`
+Snapshot ID: `AAAIhLXahINFqEVjlx0umPoWV9ZvWsIh`

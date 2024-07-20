@@ -1,13 +1,37 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover :  Krishnam Pranaya Sakhi\n",
-  "num_followers": 57933,
+  "num_followers": 57944,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpj1OQAAAAD63xx6R8nY+69UOZtH06az",
+  "snapshot_id": "ZpowCgAAAAAEhmRc9+sIfbswDXzBUpQ0",
   "tracks": [
+    {
+      "added_at": "2024-07-19 09:19:17",
+      "album": {
+        "name": "Baby Paisa Lootu Hai (From \"A Day In Dollarspete\")",
+        "url": "https://open.spotify.com/album/27AJjlrPtGLB5UpoJknrC5"
+      },
+      "artists": [
+        {
+          "name": "Usha Uthup",
+          "url": "https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa"
+        },
+        {
+          "name": "Suraj Jois",
+          "url": "https://open.spotify.com/artist/27GwuwHp0LlzXjAyZYniSp"
+        },
+        {
+          "name": "Sanjay Malavalli",
+          "url": "https://open.spotify.com/artist/1EOdakhpMogeWUoRiTN2ye"
+        }
+      ],
+      "duration_ms": 193660,
+      "name": "Baby Paisa Lootu Hai (From \"A Day In Dollarspete\")",
+      "url": "https://open.spotify.com/track/4DXkV2DvUBXdXs8j49oBgF"
+    },
     {
       "added_at": "2024-07-12 10:14:02",
       "album": {
@@ -33,6 +57,26 @@
       "url": "https://open.spotify.com/track/0LNLgN8Prqzm7OsMO88e3L"
     },
     {
+      "added_at": "2024-07-19 09:20:06",
+      "album": {
+        "name": "Manamey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2aj78D2jBeddhoWMm73HFZ"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "Hemachandra Vedala",
+          "url": "https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN"
+        }
+      ],
+      "duration_ms": 243130,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/1zWfJu7iQwoNgqYPFElo9M"
+    },
+    {
       "added_at": "2024-06-11 10:34:59",
       "album": {
         "name": "Run Run Run Chidambara (From \"Chef Chidambara\")",
@@ -55,6 +99,54 @@
       "duration_ms": 154161,
       "name": "Run Run Run Chidambara - From \"Chef Chidambara\"",
       "url": "https://open.spotify.com/track/0we0kmHmr1si80X8jxLZgc"
+    },
+    {
+      "added_at": "2024-07-19 09:21:14",
+      "album": {
+        "name": "Maleye Maleye (From \"Salaga\")",
+        "url": "https://open.spotify.com/album/01qw6K0ERInDansPEWQzbo"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        },
+        {
+          "name": "Charanraj MR",
+          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
+        }
+      ],
+      "duration_ms": 246034,
+      "name": "Maleye Maleye - From \"Salaga\"",
+      "url": "https://open.spotify.com/track/585GiLzVOyWincizmgXUBr"
+    },
+    {
+      "added_at": "2024-07-19 09:20:36",
+      "album": {
+        "name": "Dwapara (From \"Krishnam Pranaya Sakhi\")",
+        "url": "https://open.spotify.com/album/0I8IoS2SgNFT24TdTOAfOi"
+      },
+      "artists": [
+        {
+          "name": "Jaskaran Singh",
+          "url": "https://open.spotify.com/artist/20Xvd4mO28iHfkdL3a5MRL"
+        },
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        }
+      ],
+      "duration_ms": 283604,
+      "name": "Dwapara (From \"Krishnam Pranaya Sakhi\")",
+      "url": "https://open.spotify.com/track/4DpKbe3uG6blqUuiVoblfl"
     },
     {
       "added_at": "2024-07-16 11:53:04",
@@ -1691,102 +1783,6 @@
       "duration_ms": 260570,
       "name": "Naane Raama Naane Raavana (from \"Kiraathaka 2\")",
       "url": "https://open.spotify.com/track/23QhRp2hSAyUWDrbbW8AwO"
-    },
-    {
-      "added_at": "2024-05-14 04:29:52",
-      "album": {
-        "name": "Maathu Sothu (From \"Kotee\")",
-        "url": "https://open.spotify.com/album/3VB2Ol9vpgAXp3xel9I9ty"
-      },
-      "artists": [
-        {
-          "name": "Vasuki Vaibhav",
-          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
-        },
-        {
-          "name": "Armaan Malik",
-          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
-        },
-        {
-          "name": "Yogaraj Bhat",
-          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
-        }
-      ],
-      "duration_ms": 203684,
-      "name": "Maathu Sothu (From \"Kotee\")",
-      "url": "https://open.spotify.com/track/0UvB51pcl6Z34iPZZ8AEJK"
-    },
-    {
-      "added_at": "2024-05-22 13:01:48",
-      "album": {
-        "name": "Grey Games (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5hIX44cOoxWtjlLfmq8GY2"
-      },
-      "artists": [
-        {
-          "name": "Aishwarya Rangarajan",
-          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
-        },
-        {
-          "name": "Shriyansh Shreeram",
-          "url": "https://open.spotify.com/artist/4B1sflNWueE49cSjMTPgQO"
-        },
-        {
-          "name": "Kiran Kaverappa",
-          "url": "https://open.spotify.com/artist/6V4kCkZTtVLAlQz9DKSWc9"
-        }
-      ],
-      "duration_ms": 241083,
-      "name": "Manaselede (From \"Grey Games\")",
-      "url": "https://open.spotify.com/track/4Le0cHC26RurlhamQYFio5"
-    },
-    {
-      "added_at": "2024-05-14 12:49:44",
-      "album": {
-        "name": "Pardana (From \"Balipe\")",
-        "url": "https://open.spotify.com/album/2VbIv579L4LnROh8SFgQuh"
-      },
-      "artists": [
-        {
-          "name": "Kalavathi Dayanand",
-          "url": "https://open.spotify.com/artist/06hgurxpkKN9vV49B830LS"
-        },
-        {
-          "name": "Dayananda G Kathalsar",
-          "url": "https://open.spotify.com/artist/3zL2JWKx8h1jnL6D4xrvTx"
-        },
-        {
-          "name": "Akash Reddy",
-          "url": "https://open.spotify.com/artist/71JGFO5mgqGqeiiG06pBrq"
-        }
-      ],
-      "duration_ms": 158840,
-      "name": "Pardana - From \"Balipe\"",
-      "url": "https://open.spotify.com/track/7Cd3vSJ5zKO618jyPQiGZL"
-    },
-    {
-      "added_at": "2024-05-20 08:13:51",
-      "album": {
-        "name": "Fear Song (From \"Devara Part 1\") [Kannada]",
-        "url": "https://open.spotify.com/album/70odqzEXKGtvT3iZmS9mcb"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Santhosh Venky",
-          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
-        },
-        {
-          "name": "Varadaraj Chikkaballapura",
-          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
-        }
-      ],
-      "duration_ms": 195064,
-      "name": "Fear Song (From \"Devara Part 1\") [Kannada]",
-      "url": "https://open.spotify.com/track/5QnUJYAmnPTqvWeE0xDt0W"
     },
     {
       "added_at": "2024-05-13 06:18:31",

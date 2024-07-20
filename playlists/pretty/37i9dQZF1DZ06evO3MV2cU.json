@@ -1,12 +1,12 @@
 {
-  "description": "This is Chris Tomlin. The essential tracks, all in one playlist.",
-  "num_followers": 135281,
+  "description": "This Is Chris Tomlin. Kaikki olennaiset kappaleet yhdess\u00e4 soittolistassa.",
+  "num_followers": 135295,
   "original_name": "This Is Chris Tomlin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAAABSUtihW8qGremPCjN9fbi",
+  "snapshot_id": "ZphbAAAAAAAx3W8FNny+pwowFlRCve+9",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Ultimate Playlist",
+        "url": "https://open.spotify.com/album/2XOKt6AVcxdBs1Za7AxGj2"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 293398,
+      "name": "Good Good Father",
+      "url": "https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "How Great Is Our God: The Essential Collection",
         "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
       },
@@ -63,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "And If Our God Is For Us...",
-        "url": "https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 285160,
-      "name": "Our God",
-      "url": "https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Double Take - Chris Tomlin",
         "url": "https://open.spotify.com/album/71Rt2QTgfrUpz9Tamsw14d"
       },
@@ -91,6 +91,22 @@
       "duration_ms": 267066,
       "name": "Amazing Grace (My Chains Are Gone)",
       "url": "https://open.spotify.com/track/5W9Al2ewPfzbWHOV2BAtBR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burning Lights",
+        "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 267906,
+      "name": "Whom Shall I Fear (God Of Angel Armies)",
+      "url": "https://open.spotify.com/track/2VuwpxQR7rTPWkoLkpANdz"
     },
     {
       "added_at": null,
@@ -148,9 +164,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 264923,
-      "name": "Good Good Father",
-      "url": "https://open.spotify.com/track/1l6Ffi07jIzh5DquHPf7a3"
+      "duration_ms": 291410,
+      "name": "10,000 Reasons (Bless The Lord)",
+      "url": "https://open.spotify.com/track/7INIvrY07vZU5exGsYMo2U"
     },
     {
       "added_at": null,
@@ -479,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hello Love",
+        "url": "https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 301240,
+      "name": "I Will Rise",
+      "url": "https://open.spotify.com/track/0BP0JHEeYVZZsyngW4Uc1x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "How Great Is Our God: The Essential Collection",
         "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
       },
@@ -579,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Roar",
-        "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "Nobody Loves Me Like You",
-      "url": "https://open.spotify.com/track/2UNSjAMTbEYRVgj0VscPEA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sing! The Great Commission - World Tour (Live)",
         "url": "https://open.spotify.com/album/1WsOwc3ZE7MvMzube1cPyF"
       },
@@ -655,6 +671,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Instrumental Songs Of Worship",
+        "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
+      },
+      "artists": [
+        {
+          "name": "The Maker & The Instrument",
+          "url": "https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Fleurie",
+          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
+        }
+      ],
+      "duration_ms": 450461,
+      "name": "This Is Our God / Obsession - Medley",
+      "url": "https://open.spotify.com/track/21VV721AM5T1qoYbZyJf3i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "How Great Is Our God: The Essential Collection",
         "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
       },
@@ -667,22 +707,6 @@
       "duration_ms": 288720,
       "name": "Jesus Messiah",
       "url": "https://open.spotify.com/track/1MpJ8XHlbOsUdrCWIjmweZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hello Love",
-        "url": "https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 297920,
-      "name": "God Of This City",
-      "url": "https://open.spotify.com/track/4Eda1y3heYypvl4KRcJcKs"
     },
     {
       "added_at": null,
@@ -707,6 +731,98 @@
       "duration_ms": 193240,
       "name": "Power (feat. Bear Rinehart of NEEDTOBREATHE)",
       "url": "https://open.spotify.com/track/0AGM3L1E346dTkLcGMaEdv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 240566,
+      "name": "Strongholds",
+      "url": "https://open.spotify.com/track/5ciUxkJBtUkkR7KwvwJUyH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello Love",
+        "url": "https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 297920,
+      "name": "God Of This City",
+      "url": "https://open.spotify.com/track/4Eda1y3heYypvl4KRcJcKs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 252533,
+      "name": "Holy Is The Lord - Arriving Album Version",
+      "url": "https://open.spotify.com/track/31Kb7jyAscJJma1gTXRUFQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chris Tomlin & Friends",
+        "url": "https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 166880,
+      "name": "Sing (feat. Russell Dickerson, Florida Georgia Line)",
+      "url": "https://open.spotify.com/track/4bKkUZX9OlAh8fE5KsaE0G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 230673,
+      "name": "I See You (with Brandon Lake)",
+      "url": "https://open.spotify.com/track/5WJbUQV3FbzOxB4tA7yiXF"
     },
     {
       "added_at": null,
@@ -740,101 +856,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 252533,
-      "name": "Holy Is The Lord - Arriving Album Version",
-      "url": "https://open.spotify.com/track/31Kb7jyAscJJma1gTXRUFQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Instrumental Songs Of Worship",
-        "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
-      },
-      "artists": [
-        {
-          "name": "The Maker & The Instrument",
-          "url": "https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV"
-        },
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 278289,
-      "name": "Even So Come",
-      "url": "https://open.spotify.com/track/2Eugb2lWOMaZdKk9pcGjEF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chris Tomlin & Friends",
-        "url": "https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        },
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        },
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 166880,
-      "name": "Sing (feat. Russell Dickerson, Florida Georgia Line)",
-      "url": "https://open.spotify.com/track/4bKkUZX9OlAh8fE5KsaE0G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Never Lose Sight (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 306013,
-      "name": "Yes And Amen",
-      "url": "https://open.spotify.com/track/6xYHIXSrucTcC9AXoTBEoB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
       "duration_ms": 326960,
       "name": "Forever",
       "url": "https://open.spotify.com/track/6ChFsa3xElTTIJAo460out"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Holy Roar",
-        "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 293733,
-      "name": "Praise Him Forever",
-      "url": "https://open.spotify.com/track/62shNor7VDjzBx8SC9YTPm"
     },
     {
       "added_at": null,
@@ -855,6 +879,38 @@
       "duration_ms": 249480,
       "name": "God Who Listens (feat. Thomas Rhett)",
       "url": "https://open.spotify.com/track/0qIx8dthnBVdqP0F7Pl8AG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Lose Sight (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 306013,
+      "name": "Yes And Amen",
+      "url": "https://open.spotify.com/track/6xYHIXSrucTcC9AXoTBEoB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Holy Roar",
+        "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 293733,
+      "name": "Praise Him Forever",
+      "url": "https://open.spotify.com/track/62shNor7VDjzBx8SC9YTPm"
     },
     {
       "added_at": null,
@@ -915,26 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 235599,
-      "name": "O Lord, You\u2019re Beautiful (with Steffany Gretzinger)",
-      "url": "https://open.spotify.com/track/5pME1MDi0g4wCmEvTet9mG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holy Roar",
         "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
       },
@@ -947,38 +983,6 @@
       "duration_ms": 250800,
       "name": "Resurrection Power",
       "url": "https://open.spotify.com/track/2MxWMPW8E1p8B0Wcc5ypfU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Never Lose Sight (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 299786,
-      "name": "Come Thou Fount (I Will Sing)",
-      "url": "https://open.spotify.com/track/2aVWXW3JC6MHK5TzwrezIZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burning Lights",
-        "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 275491,
-      "name": "Sovereign",
-      "url": "https://open.spotify.com/track/3HXfNHAwafX6GVzQBrhFTD"
     },
     {
       "added_at": null,
@@ -1003,8 +1007,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Roar",
-        "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
+        "name": "Never Lose Sight (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F"
       },
       "artists": [
         {
@@ -1012,9 +1016,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 251933,
-      "name": "Holy Roar",
-      "url": "https://open.spotify.com/track/2IPWIK1PH9ArgXTaKmk7Ly"
+      "duration_ms": 299786,
+      "name": "Come Thou Fount (I Will Sing)",
+      "url": "https://open.spotify.com/track/2aVWXW3JC6MHK5TzwrezIZ"
     }
   ],
   "unique_name": "This Is Chris Tomlin",

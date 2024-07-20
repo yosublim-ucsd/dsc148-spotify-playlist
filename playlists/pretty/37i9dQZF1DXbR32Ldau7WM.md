@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now!  Cover: toe
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,218 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,253 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 81 | [大団円](https://open.spotify.com/track/0SonLPh214mxlPF3ZjzuoL) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [ZORN](https://open.spotify.com/artist/1HPfjeInjrDEMW1ffZv33C) | [大団円](https://open.spotify.com/album/3E7zFmPjS6pzIqkqfbsu9f) | 5:25 |
 | 82 | [LOVE ROCKETS](https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [LOVE ROCKETS](https://open.spotify.com/album/0wN4mrkQyl961vNqhchf7N) | 4:21 |
 | 83 | [悲劇のヒロイン](https://open.spotify.com/track/72BOlvC2hg6TDSu6RfvtpB) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [悲劇のヒロイン](https://open.spotify.com/album/7KTH9kITVs2j6bSouUtCLX) | 3:49 |
-| 84 | [ブラックホール](https://open.spotify.com/track/6lvdyqaocfdhmmN7yYs3fz) | [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [只者](https://open.spotify.com/album/01xhc1hZe4rw2wBsyAfEx4) | 4:02 |
-| 85 | [RIVER](https://open.spotify.com/track/2qnWDYKpeTMTUHGibLjt3t) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [REALIFE](https://open.spotify.com/album/2wK612UgOZquVDoz9nKYmA) | 4:21 |
+| 84 | [RIVER](https://open.spotify.com/track/2qnWDYKpeTMTUHGibLjt3t) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [REALIFE](https://open.spotify.com/album/2wK612UgOZquVDoz9nKYmA) | 4:21 |
+| 85 | [ブラックホール](https://open.spotify.com/track/6lvdyqaocfdhmmN7yYs3fz) | [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [只者](https://open.spotify.com/album/01xhc1hZe4rw2wBsyAfEx4) | 4:02 |
 | 86 | [我愛你](https://open.spotify.com/track/7jXoUqjqJVQGHDBs9ZGy08) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [生活のニュース](https://open.spotify.com/album/2pccOr7xk2EmlL2FAid7Gz) | 4:56 |
 | 87 | [月の椀](https://open.spotify.com/track/5GVb3tUNjK3xirJfVi8p6v) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [アダプト](https://open.spotify.com/album/05jKqltxctVFbdEw4xvFbG) | 4:10 |
 | 88 | [チーズケーキ・ファクトリー](https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [The End of Yesterday](https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9) | 3:34 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 90 | [青いの。](https://open.spotify.com/track/2wksGIcdJ5C0XPZLeTnSMM) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [FLOWERS](https://open.spotify.com/album/4CacH47pYRZPbFvTgXUibk) | 4:05 |
 | 91 | [LOST](https://open.spotify.com/track/4MqmrcRFEFv2xkQLZWaCWf) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [miss you](https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts) | 3:43 |
 | 92 | [贖罪](https://open.spotify.com/track/5nCNu4qC9WoVK5RLkvNJEL) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [贖罪](https://open.spotify.com/album/7dlmEwKRp2afa4Le7CKQ2f) | 3:57 |
-| 93 | [gg燦然](https://open.spotify.com/track/3rapbAvmhbQpdpsRCDJrtB) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [gg燦然](https://open.spotify.com/album/2hDP6BHe4P8vtRQivsHyOR) | 2:29 |
-| 94 | [いけないfool logic](https://open.spotify.com/track/7bssqLtlFKC3DZXoUCzsAo) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [いけないfool logic](https://open.spotify.com/album/2FGXwd9HF1RNw7C3XIQLW4) | 4:15 |
+| 93 | [いけないfool logic](https://open.spotify.com/track/7bssqLtlFKC3DZXoUCzsAo) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [いけないfool logic](https://open.spotify.com/album/2FGXwd9HF1RNw7C3XIQLW4) | 4:15 |
+| 94 | [gg燦然](https://open.spotify.com/track/3rapbAvmhbQpdpsRCDJrtB) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [gg燦然](https://open.spotify.com/album/2hDP6BHe4P8vtRQivsHyOR) | 2:29 |
 | 95 | [VICTOSPIN](https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 4:20 |
 | 96 | [STARS](https://open.spotify.com/track/7nkujdHzJVWyNGs2oONiCw) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [STARS](https://open.spotify.com/album/5lrdC0MIt5wLoRGZ4wKmjE) | 3:55 |
 | 97 | [お子さまプレート](https://open.spotify.com/track/7K3aZGsHNcvzNB0T9pdKym) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [PANDORA](https://open.spotify.com/album/7zBryubw1u484eCiIZGAiq) | 2:55 |
-| 98 | [KANASHIBARI](https://open.spotify.com/track/4zJEGkmkmA4orRkMdzimRu) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [KANASHIBARI](https://open.spotify.com/album/68Sl0rwtjcl6UdxKGjFy6X) | 4:57 |
-| 99 | [ハローフィクサー](https://open.spotify.com/track/5Dv0DjR4PlyGgUZhnBEpkh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [10\-FEET入り口の10曲 2](https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw) | 3:23 |
-| 100 | [ハルジオン](https://open.spotify.com/track/71I3KFTKzYz1qi3SBctusp) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ハルジオン](https://open.spotify.com/album/49qXfXRHzvvCaGOnSTFCST) | 3:58 |
+| 98 | [ハルジオン](https://open.spotify.com/track/71I3KFTKzYz1qi3SBctusp) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ハルジオン](https://open.spotify.com/album/49qXfXRHzvvCaGOnSTFCST) | 3:58 |
+| 99 | [KANASHIBARI](https://open.spotify.com/track/4zJEGkmkmA4orRkMdzimRu) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [KANASHIBARI](https://open.spotify.com/album/68Sl0rwtjcl6UdxKGjFy6X) | 4:57 |
+| 100 | [ケモノミチ](https://open.spotify.com/track/4lpFErPc45W6HYnpoaxCdl) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [ケモノミチ](https://open.spotify.com/album/0klgJfPMllexvhss9c816Z) | 3:58 |
 
 Snapshot ID: `ZpaLfQAAAADV24Xhe+r42vY7E9DTnd0M`

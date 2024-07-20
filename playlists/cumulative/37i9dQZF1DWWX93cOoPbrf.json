@@ -9039,6 +9039,24 @@
     },
     {
       "album": {
+        "name": "El Muletas",
+        "url": "https://open.spotify.com/album/5YT6xi1UEcpYh07FRQc3Q5"
+      },
+      "artists": [
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216575,
+      "name": "El Muletas",
+      "url": "https://open.spotify.com/track/1K1Y3NUDZulng4vgoRR6hE"
+    },
+    {
+      "album": {
         "name": "El Nasa",
         "url": "https://open.spotify.com/album/7alGJhllK26YhAFPEuvou6"
       },

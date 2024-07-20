@@ -4,7 +4,7 @@
 
 > bringing you all things house!! follow me on tour <a href="http://www.instagram.com/curbi">here</a> and don't forget to <a href="https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT">follow my artist profile</a>..
 
-236 songs - 11 hr 53 min
+237 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [On Again](https://open.spotify.com/track/5vASuVQkngtFoCOczem52V) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [On Again](https://open.spotify.com/album/7nvs25pVNGNgouWAm1Kb86) | 3:48 | 2024-05-03 | 2024-06-14 |
 | [Once Again](https://open.spotify.com/track/1xlflYpC5NkXEHkWLUCzor) | [Noola](https://open.spotify.com/artist/5K7fwqqwElpjvTGk9rBetG) | [Once Again](https://open.spotify.com/album/2nGbUA5qJOroJrDDpHvtxz) | 3:14 | 2023-12-11 | 2024-04-19 |
 | [One Chance \(feat\. Marlhy\)](https://open.spotify.com/track/2PqmZr6uk48GxTmvZRYjfd) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [One Chance \(feat\. Marlhy\)](https://open.spotify.com/album/0BYFccSPThA43XhTzn6gfu) | 3:40 | 2023-07-11 | 2023-09-26 |
+| [One Day](https://open.spotify.com/track/5NKCLMiurWKVVeNzeNkkym) | [Prayer Handz](https://open.spotify.com/artist/11LK8QA4t0rsq3Mv5Bc3UW) | [One Day](https://open.spotify.com/album/6Cw7KpRRtUrAXtDzCx5CUn) | 2:40 | 2024-07-19 |  |
 | [Otherside](https://open.spotify.com/track/3rIMVg0NW2mq3eokTdyXXz) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Otherside](https://open.spotify.com/album/3tgBxVouYUu3PMOmyhoHsG) | 3:30 | 2023-08-11 | 2023-12-14 |
 | [Out Of Control](https://open.spotify.com/track/588alKVRkW4dJJV5bMwhg4) | [Manaar](https://open.spotify.com/artist/17qSzNiZ5Dmp9NAE6f6CZe), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Out Of Control](https://open.spotify.com/album/4ltH8D77Dw3lqVsPLfvEwR) | 2:55 | 2024-05-03 |  |
 | [Outer Space \- JAWNS Remix](https://open.spotify.com/track/72TttvID6hkPfUrhHS5fDQ) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy), [JAWNS](https://open.spotify.com/artist/5dXHoJzpLuiEug5rSXeCib) | [Outer Space \(Remixes\)](https://open.spotify.com/album/2VljxTmjwL6AvehbFSDN1j) | 4:30 | 2023-08-27 | 2023-12-14 |

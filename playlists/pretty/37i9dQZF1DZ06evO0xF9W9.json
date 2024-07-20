@@ -1,12 +1,12 @@
 {
   "description": "This Is Engel Montaz. Los temas esenciales, todos en una lista.",
-  "num_followers": 114567,
+  "num_followers": 113294,
   "original_name": "This Is Engel Montaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAABD3S3+5hRRi8gIYGgfx5Ul",
+  "snapshot_id": "ZphbAAAAAACaSyi+3q7gIw+Dfmc83nW5",
   "tracks": [
     {
       "added_at": null,
@@ -67,6 +67,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pegate",
+        "url": "https://open.spotify.com/album/08lijnYemuN1EnmBGV5VKw"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "duration_ms": 165168,
+      "name": "Pegate",
+      "url": "https://open.spotify.com/track/3yQblGGfsGEL9kym9k4H3R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A 120",
         "url": "https://open.spotify.com/album/6JcFpKkFg2knFRoFyefJib"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 184215,
       "name": "A 120",
       "url": "https://open.spotify.com/track/4EoN3Bs1YcuARuDe2VdNhm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pegate",
-        "url": "https://open.spotify.com/album/08lijnYemuN1EnmBGV5VKw"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        }
-      ],
-      "duration_ms": 165168,
-      "name": "Pegate",
-      "url": "https://open.spotify.com/track/3yQblGGfsGEL9kym9k4H3R"
     },
     {
       "added_at": null,
@@ -147,6 +147,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Billetes Verdes (Live)",
+        "url": "https://open.spotify.com/album/3PdWGUEbVUk8o0lE6di1wx"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "duration_ms": 119043,
+      "name": "Billetes Verdes - Live",
+      "url": "https://open.spotify.com/track/0I3qFXRGdW0IIOs0TbCKpa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/1Ui1zmux8S991ZGLDck5Jh"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 215000,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/2lcRmD1OrJq7PKidfQNb1S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Billetes Verdes (Live)",
-        "url": "https://open.spotify.com/album/3PdWGUEbVUk8o0lE6di1wx"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        }
-      ],
-      "duration_ms": 119043,
-      "name": "Billetes Verdes - Live",
-      "url": "https://open.spotify.com/track/0I3qFXRGdW0IIOs0TbCKpa"
     },
     {
       "added_at": null,
@@ -263,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ruta",
-        "url": "https://open.spotify.com/album/3k0gIhjXx4wEmDndAl4sAw"
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
         }
       ],
-      "duration_ms": 150508,
-      "name": "Ruta",
-      "url": "https://open.spotify.com/track/7nSIBXVKbPCStdV3pCkkfy"
+      "duration_ms": 216827,
+      "name": "Si Estoy Contigo - Bachata",
+      "url": "https://open.spotify.com/track/2MwztolEt0vNsp8tbnNbRs"
     },
     {
       "added_at": null,
@@ -319,6 +319,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mas Diablo Soy Yo",
+        "url": "https://open.spotify.com/album/0y2s7NtgT1r0j16DQnO7aR"
+      },
+      "artists": [
+        {
+          "name": "Breykon",
+          "url": "https://open.spotify.com/artist/17BJttW3VLqP7DouuymWPk"
+        },
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "duration_ms": 220734,
+      "name": "Mas Diablo Soy Yo",
+      "url": "https://open.spotify.com/track/4nNPWraqd2X2PIvMb3aVWk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "irango",
         "url": "https://open.spotify.com/album/0jhnxcTyfl83RaAN85lLDE"
       },
@@ -343,22 +363,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas Diablo Soy Yo",
-        "url": "https://open.spotify.com/album/0y2s7NtgT1r0j16DQnO7aR"
+        "name": "Una Como Tu",
+        "url": "https://open.spotify.com/album/1GIwm31UNDaeYIIBDeSzvI"
       },
       "artists": [
-        {
-          "name": "Breykon",
-          "url": "https://open.spotify.com/artist/17BJttW3VLqP7DouuymWPk"
-        },
         {
           "name": "Engel Montaz",
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
         }
       ],
-      "duration_ms": 220734,
-      "name": "Mas Diablo Soy Yo",
-      "url": "https://open.spotify.com/track/4nNPWraqd2X2PIvMb3aVWk"
+      "duration_ms": 200045,
+      "name": "Una como tu",
+      "url": "https://open.spotify.com/track/2tzMh5gYCYKwYiQgHYxbrK"
     },
     {
       "added_at": null,
@@ -391,24 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Como Tu",
-        "url": "https://open.spotify.com/album/1GIwm31UNDaeYIIBDeSzvI"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        }
-      ],
-      "duration_ms": 200045,
-      "name": "Una como tu",
-      "url": "https://open.spotify.com/track/2tzMh5gYCYKwYiQgHYxbrK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soledad",
-        "url": "https://open.spotify.com/album/2BO0CNO8lEMKB5tW6MN2Bg"
+        "name": "Tu No Me Conoces",
+        "url": "https://open.spotify.com/album/2EmPWhcBbQdNowYWHGe1pE"
       },
       "artists": [
         {
@@ -416,37 +416,13 @@
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
         },
         {
-          "name": "Freko",
-          "url": "https://open.spotify.com/artist/7paxv0UNX1PYfdn3ZfZFWt"
-        },
-        {
-          "name": "Koko",
-          "url": "https://open.spotify.com/artist/2D1sHU8nG2WKvlMoHFwzg0"
+          "name": "Lito Kirino",
+          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
         }
       ],
-      "duration_ms": 195056,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/0jzKk6dyyPXCddoXEuKVYM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nota de Pasion (feat. Arcangel)",
-        "url": "https://open.spotify.com/album/7yADzGrTJTTzhxuDG6Ap2e"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 212064,
-      "name": "Nota de Pasion (feat. Arcangel)",
-      "url": "https://open.spotify.com/track/5ylidhXD2jnlvaynl1qbqX"
+      "duration_ms": 211000,
+      "name": "Tu No Me Conoces",
+      "url": "https://open.spotify.com/track/3IzGU1A2PM6F9RBLAQ2sf3"
     },
     {
       "added_at": null,
@@ -460,9 +436,9 @@
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
         }
       ],
-      "duration_ms": 216827,
-      "name": "Si Estoy Contigo - Bachata",
-      "url": "https://open.spotify.com/track/2MwztolEt0vNsp8tbnNbRs"
+      "duration_ms": 102592,
+      "name": "Party Prendio",
+      "url": "https://open.spotify.com/track/7kysxhCfP7fFebn7iZU8Av"
     },
     {
       "added_at": null,
@@ -483,22 +459,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu No Me Conoces",
-        "url": "https://open.spotify.com/album/2EmPWhcBbQdNowYWHGe1pE"
+        "name": "Ruta",
+        "url": "https://open.spotify.com/album/3k0gIhjXx4wEmDndAl4sAw"
       },
       "artists": [
         {
           "name": "Engel Montaz",
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Lito Kirino",
-          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Tu No Me Conoces",
-      "url": "https://open.spotify.com/track/3IzGU1A2PM6F9RBLAQ2sf3"
+      "duration_ms": 150508,
+      "name": "Ruta",
+      "url": "https://open.spotify.com/track/7nSIBXVKbPCStdV3pCkkfy"
     },
     {
       "added_at": null,
@@ -527,6 +499,42 @@
       "duration_ms": 126205,
       "name": "El Puto Amo",
       "url": "https://open.spotify.com/track/2hviRulzUw0GzrMUmNsYcx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "Sense",
+      "url": "https://open.spotify.com/track/62wrOBZ9EBSiLZCIG5buXj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nota de Pasion (feat. Arcangel)",
+        "url": "https://open.spotify.com/album/7yADzGrTJTTzhxuDG6Ap2e"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 212064,
+      "name": "Nota de Pasion (feat. Arcangel)",
+      "url": "https://open.spotify.com/track/5ylidhXD2jnlvaynl1qbqX"
     },
     {
       "added_at": null,
@@ -588,9 +596,9 @@
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
         }
       ],
-      "duration_ms": 102592,
-      "name": "Party Prendio",
-      "url": "https://open.spotify.com/track/7kysxhCfP7fFebn7iZU8Av"
+      "duration_ms": 173034,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/6NxJLNvSZgFf1ffadqWtqm"
     },
     {
       "added_at": null,
@@ -611,6 +619,26 @@
       "duration_ms": 284000,
       "name": "A tu Manera",
       "url": "https://open.spotify.com/track/6iqtqSo3IEntSedHHW6YPU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Actua",
+        "url": "https://open.spotify.com/album/6aBw7e2Wli9d6PlJCRfCxn"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Actua",
+      "url": "https://open.spotify.com/track/6RB3w1l1d6hwlei3iAPNLP"
     },
     {
       "added_at": null,
@@ -651,58 +679,6 @@
       "duration_ms": 337846,
       "name": "Tan Tan Brazil - Remix",
       "url": "https://open.spotify.com/track/2AtygP8qRRH2WtaytjzD5n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Actua",
-        "url": "https://open.spotify.com/album/6aBw7e2Wli9d6PlJCRfCxn"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Actua",
-      "url": "https://open.spotify.com/track/6RB3w1l1d6hwlei3iAPNLP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        }
-      ],
-      "duration_ms": 173034,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/6NxJLNvSZgFf1ffadqWtqm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "Sense",
-      "url": "https://open.spotify.com/track/62wrOBZ9EBSiLZCIG5buXj"
     },
     {
       "added_at": null,

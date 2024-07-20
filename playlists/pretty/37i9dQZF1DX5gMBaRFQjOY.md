@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gMBaRFQjOY.md) - [plain]
 
 > Country classics you know and love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,610 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,856 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gMBaRFQjOY.md) - [plain]
 | 70 | [A White Sport Coat \(with Ray Conniff\)](https://open.spotify.com/track/3Iy8UTb7n8QpYcQK23ZjG9) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo), [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [The Essential Marty Robbins 1951\-1982](https://open.spotify.com/album/4qbCscFZUKcUSTj1Pb2YSl) | 2:28 |
 | 71 | [Golden Ring \- Single Version](https://open.spotify.com/track/1Bqt4M53ylr5NXMvBg1FMf) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Tears Of Fire: The 25th Anniversary Collection](https://open.spotify.com/album/4yyvXQaZrk45jH6tzvGPwg) | 3:01 |
 | 72 | [The Last Thing On My Mind](https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Porter Wagoner & Dolly Parton](https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850) | 2:36 |
-| 73 | [The Fightin' Side Of Me](https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [HAG: The Hits Volume 2](https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC) | 2:49 |
-| 74 | [Once a Day](https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu) | [Connie Smith](https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo) | [Connie Smith](https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb) | 2:20 |
+| 73 | [Once a Day](https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu) | [Connie Smith](https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo) | [Connie Smith](https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb) | 2:20 |
+| 74 | [The Fightin' Side Of Me](https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [HAG: The Hits Volume 2](https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC) | 2:49 |
 | 75 | [Galveston](https://open.spotify.com/track/6oXkUmLOdmsEQS4AlEIKZ8) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Glen Campbell \- The Capitol Years 1965 \- 1977](https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy) | 2:40 |
 | 76 | [Please Help Me, I'm Falling](https://open.spotify.com/track/0dc0eU5THc1uE0Q0KV73XN) | [Hank Locklin](https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq) | [RCA Country Legends](https://open.spotify.com/album/1mHCzqO6vjOdtwLZbWC4N6) | 2:21 |
 | 77 | [It Must Be Love \- Single Version](https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 2:26 |

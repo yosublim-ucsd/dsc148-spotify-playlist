@@ -2,13 +2,14 @@
 
 ### [This Is Nívea Soares](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4xMHov)
 
-> This is Nívea Soares\. The essential tracks, all in one playlist.
+> This is Nívea Soares\. Tutti i brani in un'unica playlist.
 
-67 songs - 7 hr 39 min
+68 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Boa Parte \- Ao Vivo](https://open.spotify.com/track/137KTFlEw4ynSLGhJ1JStl) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [A Boa Parte \(Ao Vivo\)](https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC) | 5:50 | 2024-01-02 |  |
+| [A Boa Parte \- Ao Vivo](https://open.spotify.com/track/137KTFlEw4ynSLGhJ1JStl) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [A Boa Parte \(Ao Vivo\)](https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC) | 5:50 | 2024-01-02 | 2024-07-20 |
+| [A Boa Parte \- Ao Vivo](https://open.spotify.com/track/3xYAYpik21I77zsZOpUJkW) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [A Boa Parte \(Ao Vivo\)](https://open.spotify.com/album/0RQmJsjyVrI8sUuKIKwQSC) | 5:50 | 2024-07-20 |  |
 | [A Bênção](https://open.spotify.com/track/1evlfCwP69atq9ahcTggiu) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [A Bênção](https://open.spotify.com/album/6Q9PrTuJMZuKgjtQMm8RR4) | 5:57 | 2023-07-10 |  |
 | [A Honra \- Ao Vivo](https://open.spotify.com/track/1enGreYd6GsdExr1srM2Yw) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [A Honra \(Ao Vivo\)](https://open.spotify.com/album/04dC8dz9ef7jGDCmo9pLby) | 7:29 | 2023-07-10 | 2023-09-26 |
 | [Abre os Selos \- Ao Vivo](https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Abre os Selos \(Ao Vivo\)](https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl) | 7:54 | 2024-06-30 |  |

@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "70% Dead",
+        "url": "https://open.spotify.com/album/1wmcwUhzuxcM56xaBqd0dC"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        },
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222145,
+      "name": "70% Dead (with Corey Taylor)",
+      "url": "https://open.spotify.com/track/4gFhDuhoCailJyDV99V0Ww"
+    },
+    {
+      "album": {
         "name": "80486DX",
         "url": "https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f"
       },
@@ -426,7 +448,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 195800,
       "name": "Animo",
       "url": "https://open.spotify.com/track/3JDUSXqeaecr0d1mCFTSMh"
@@ -784,7 +806,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 319560,
       "name": "Betrayal",
       "url": "https://open.spotify.com/track/5BDcGkq3HoyvgvbMDnzCN5"
@@ -864,6 +886,28 @@
       "duration_ms": 202693,
       "name": "Bloodsuckers",
       "url": "https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/1aia6LRXEcNJKbGUMBfVgE"
+      },
+      "artists": [
+        {
+          "name": "Ice Sealed Eyes",
+          "url": "https://open.spotify.com/artist/0eVDo1w1SoyNP0xswwFYi7"
+        },
+        {
+          "name": "FreeHowling",
+          "url": "https://open.spotify.com/artist/1BYd3uRtgiwyUbz7Jg9RhG"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228583,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/1H2zKaQx4lFhfNtbYATw4k"
     },
     {
       "album": {
@@ -1196,7 +1240,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 213688,
       "name": "Dante's Inspiration",
       "url": "https://open.spotify.com/track/0xqCqprCOqvz2zGridoiqu"
@@ -1951,6 +1995,24 @@
     },
     {
       "album": {
+        "name": "HIGHER POWER",
+        "url": "https://open.spotify.com/album/6WTTG3Lz51QlbpyY9AeYDJ"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163413,
+      "name": "HIGHER POWER",
+      "url": "https://open.spotify.com/track/7DgbryJIzvkjsXKhteGrKz"
+    },
+    {
+      "album": {
         "name": "Huge",
         "url": "https://open.spotify.com/album/73LxhjxtI5MVlX33VeAwVV"
       },
@@ -2251,6 +2313,28 @@
     },
     {
       "album": {
+        "name": "Laid to Rest (HEALTH Remix)",
+        "url": "https://open.spotify.com/album/2xJ9kcY65dxKtx81YOCa1K"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        },
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158604,
+      "name": "Laid to Rest - HEALTH Remix",
+      "url": "https://open.spotify.com/track/15qtJGXETtDOflM2Rvod4U"
+    },
+    {
+      "album": {
         "name": "Lakes of Flame",
         "url": "https://open.spotify.com/album/5A4ZdUmMA5vY0DAjvKWqHk"
       },
@@ -2334,7 +2418,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 298991,
       "name": "Lifers",
       "url": "https://open.spotify.com/track/0cluQGCBtjYHtVTW9GJayG"
@@ -2670,7 +2754,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 240000,
       "name": "Only Paradise Lost",
       "url": "https://open.spotify.com/track/1w7iFvhfsK0QtFWZFGjYVG"
@@ -3598,6 +3682,28 @@
       "duration_ms": 166948,
       "name": "Touch the Corpse",
       "url": "https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ"
+    },
+    {
+      "album": {
+        "name": "V.A.N",
+        "url": "https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        },
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274098,
+      "name": "V.A.N",
+      "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
     },
     {
       "album": {

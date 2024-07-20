@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JcLkkShqRw.md) - [plain]
 
 > Flow sudamericano con Lleflight & Gino Mella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,932 likes - 99 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,922 likes - 99 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JcLkkShqRw.md) - [plain]
 | 12 | [Me Arrepentí](https://open.spotify.com/track/40w8JmvwYUP2HUiXPxjy99) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Me Arrepentí](https://open.spotify.com/album/3kJfAuZ4uXc4WtccFWExg2) | 3:52 |
 | 13 | [Para Mi Na Ma](https://open.spotify.com/track/1AxNl1aX5e4p2kNZ7qFFzh) | [Lil Thom](https://open.spotify.com/artist/6AOa2n7e1w6OfZTijrvuZe), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd) | [Time](https://open.spotify.com/album/60caSBXeTnYHxeQkJR4GOc) | 2:06 |
 | 14 | [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/track/5OwAhFlvFZ4ZdGDfroYgAm) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/album/5B3AaoOK8o22cYkdoBOVFI) | 3:38 |
-| 15 | [SHALAS](https://open.spotify.com/track/24PoXMJ8yIFPpuP2JFw9Sb) | [Nickla 12](https://open.spotify.com/artist/7pHHeKrTZsoEceiVNiaZDt), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [SHALAS](https://open.spotify.com/album/1zz6s5u7IcHG2dLNpxuDvh) | 2:27 |
+| 15 | [SHALAS](https://open.spotify.com/track/24PoXMJ8yIFPpuP2JFw9Sb) | [Nickla 12](https://open.spotify.com/artist/7pHHeKrTZsoEceiVNiaZDt), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [SHALAS](https://open.spotify.com/album/1zz6s5u7IcHG2dLNpxuDvh) | 2:39 |
 | 16 | [Climax](https://open.spotify.com/track/0LXMlyFHBeBPxxtDxtE6Gd) | [Punto40](https://open.spotify.com/artist/2C1Pj5TMq8QjqbwQ4tmDtO), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa), [Axl Boore](https://open.spotify.com/artist/4WnChRKrzhukEIN00vy0s8), [El Goldo De Las Conec](https://open.spotify.com/artist/3TcTm7AGTlIJys8Wh7QzBr), [Nysix Music](https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD) | [Climax](https://open.spotify.com/album/3KrvtYpg0qNDIVVhxGpbcG) | 2:01 |
 | 17 | [LUNA DILE](https://open.spotify.com/track/7ttbb6KZNMhkCw4PuASjxz) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Moustache](https://open.spotify.com/artist/2xJX5DFnSlKjOrO1lOtL6B) | [LUNA DILE](https://open.spotify.com/album/1yz795Mk0g1ntVvbN6zpwg) | 2:47 |
 | 18 | [Pa La Europa](https://open.spotify.com/track/79Ias0x3ygL9ZQcQ7rAvbG) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [Pa La Europa](https://open.spotify.com/album/3UeGVaUGFEwU2lvYRdP1Nn) | 3:39 |

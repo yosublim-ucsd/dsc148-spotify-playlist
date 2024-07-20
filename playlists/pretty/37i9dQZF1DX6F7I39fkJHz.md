@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F7I39fkJHz.md) - [plain]
 
 > Las más bichotas de la escena featuring Aura BAE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,624 likes - 85 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,632 likes - 85 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F7I39fkJHz.md) - [plain]
 | 42 | [Frío](https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Frío](https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O) | 2:35 |
 | 43 | [Brinca](https://open.spotify.com/track/2T9GW5NdmBnz5ZlDkmMZZS) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Brinca](https://open.spotify.com/album/4jLqHMNoB6G1idIYYwrtgH) | 2:26 |
 | 44 | [Ella \- Remix De Ellas](https://open.spotify.com/track/6xvsaD0vPI2tU9gaF2e4j2) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Ella \(Remix De Ellas\)](https://open.spotify.com/album/1S3W5Bf9guhX9p3m8DG1Oe) | 3:10 |
-| 45 | [Pasajero](https://open.spotify.com/track/2DBCUrj4QGthaclrPtSvgH) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Pasajero](https://open.spotify.com/album/6Pg8TU5UxCuINCTWTZbmZa) | 3:38 |
+| 45 | [La Torta](https://open.spotify.com/track/2EVnhDu1nfDNrr74OJpf1e) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [La Torta](https://open.spotify.com/album/1uJIQzUMOVmc2RO6blgzRA) | 2:50 |
 | 46 | [Felices x Siempre](https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Felices x Siempre](https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2) | 3:19 |
-| 47 | [Colocao](https://open.spotify.com/track/3hGtjSJQ76HkWzeUkekKGY) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Parte de Mí](https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP) | 2:59 |
-| 48 | [La Torta](https://open.spotify.com/track/2EVnhDu1nfDNrr74OJpf1e) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [La Torta](https://open.spotify.com/album/1uJIQzUMOVmc2RO6blgzRA) | 2:50 |
+| 47 | [Pasajero](https://open.spotify.com/track/2DBCUrj4QGthaclrPtSvgH) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Pasajero](https://open.spotify.com/album/6Pg8TU5UxCuINCTWTZbmZa) | 3:38 |
+| 48 | [Colocao](https://open.spotify.com/track/3hGtjSJQ76HkWzeUkekKGY) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Parte de Mí](https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP) | 2:59 |
 | 49 | [Tiki Tiki](https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Tiki Tiki](https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ) | 2:11 |
 | 50 | [NO MIENTEN](https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NO MIENTEN](https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw) | 2:27 |
 | 51 | [LOKITA](https://open.spotify.com/track/48mGOtVuxLr7sq8jZpWLxi) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LOKITA](https://open.spotify.com/album/2C5FraiTW9fYi3WQOQytTC) | 3:13 |

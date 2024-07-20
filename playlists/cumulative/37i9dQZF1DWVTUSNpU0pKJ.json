@@ -505,6 +505,28 @@
     },
     {
       "album": {
+        "name": "Satie",
+        "url": "https://open.spotify.com/album/5vdUpa3YG2UYgFUNkpgbbc"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Olga Scheps",
+          "url": "https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61360,
+      "name": "Cinq Grimaces pour le songe d'une nuit d'\u00e9t\u00e9: V. Pour sortir",
+      "url": "https://open.spotify.com/track/41vbzaecuw1IxDhYEmZF8x"
+    },
+    {
+      "album": {
         "name": "Paris 1900: The Old and the New: Debussy, Ravel, Saint-Sa\u00ebns, Satie",
         "url": "https://open.spotify.com/album/4Bbug6BwMPKQSgCmKoa397"
       },
@@ -2232,28 +2254,6 @@
       "duration_ms": 58493,
       "name": "Trois morceaux en forme de poire: Prolongation du m\u00eame. Au pas",
       "url": "https://open.spotify.com/track/0yFbc1i39n0SKicLliD7g4"
-    },
-    {
-      "album": {
-        "name": "Satie",
-        "url": "https://open.spotify.com/album/5vdUpa3YG2UYgFUNkpgbbc"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Olga Scheps",
-          "url": "https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp"
-        }
-      ],
-      "date_added": "2019-11-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 61360,
-      "name": "V. Pour sortir",
-      "url": "https://open.spotify.com/track/41vbzaecuw1IxDhYEmZF8x"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVTUSNpU0pKJ"

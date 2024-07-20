@@ -1,12 +1,12 @@
 {
-  "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 434400,
+  "description": "This Is Gerardo Ortiz. Los temas esenciales, todos en una lista.",
+  "num_followers": 434506,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAABwvn/gD+L/VKDWflmdsALb",
+  "snapshot_id": "ZphbAAAAAADjWwF/qp/5k7FmKbSpGPKV",
   "tracks": [
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Archivos de Mi Vida",
+        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 200386,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/69JACep1HLAHGitjoHhXkR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bendec\u00eddo",
         "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
       },
@@ -299,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archivos de Mi Vida",
-        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
+        "name": "Entre Dios y El Diablo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
       },
       "artists": [
         {
@@ -308,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 200386,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/69JACep1HLAHGitjoHhXkR"
+      "duration_ms": 181986,
+      "name": "Amor Confuso",
+      "url": "https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ"
     },
     {
       "added_at": null,
@@ -331,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Dios y El Diablo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
+        "name": "Archivos de Mi Vida",
+        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
       },
       "artists": [
         {
@@ -340,9 +356,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 181986,
-      "name": "Amor Confuso",
-      "url": "https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ"
+      "duration_ms": 170720,
+      "name": "Eres Una Ni\u00f1a",
+      "url": "https://open.spotify.com/track/0G9e3gdGPeer3BC1jh1qGN"
     },
     {
       "added_at": null,
@@ -359,22 +375,6 @@
       "duration_ms": 126120,
       "name": "A La Moda",
       "url": "https://open.spotify.com/track/4qap3khBojdW5RkU9FouIV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Archivos de Mi Vida",
-        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 170720,
-      "name": "Eres Una Ni\u00f1a",
-      "url": "https://open.spotify.com/track/0G9e3gdGPeer3BC1jh1qGN"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archivos de Mi Vida",
-        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "Archivos de Mi Vida",
-      "url": "https://open.spotify.com/track/3Gq82NBEBkmd8l3OKiGJX7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Andamos Recio",
         "url": "https://open.spotify.com/album/5OU2nDge99Voto4N4Vl6yS"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 152200,
       "name": "Andamos Recio",
       "url": "https://open.spotify.com/track/4x02u1dxnmoeR4GHOAmuXG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Archivos de Mi Vida",
+        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Archivos de Mi Vida",
+      "url": "https://open.spotify.com/track/3Gq82NBEBkmd8l3OKiGJX7"
     },
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV",
-        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 137207,
-      "name": "Arre Pues",
-      "url": "https://open.spotify.com/track/79Nct1bkYzzraWpkMI9tpT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D\u00e9cimo Aniversario (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1FlTGY7gHcjTtBbhCDY3hj"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 159390,
       "name": "El Ranchero",
       "url": "https://open.spotify.com/track/6XZtHcPKpn2pGVCLEBzwxj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 137207,
+      "name": "Arre Pues",
+      "url": "https://open.spotify.com/track/79Nct1bkYzzraWpkMI9tpT"
     },
     {
       "added_at": null,

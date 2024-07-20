@@ -1,6 +1,6 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Dorothy",
-  "num_followers": 330306,
+  "num_followers": 330371,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,26 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "Quit!!",
+        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 161352,
+      "name": "HAPPY HOUR (feat. Knox)",
+      "url": "https://open.spotify.com/track/6WxuJ0miXSbI56DbuxQODG"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "Heroes Are Calling",
         "url": "https://open.spotify.com/album/5vTfNc6mJuhXr2O3UIER3e"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 233626,
       "name": "Lowlife",
       "url": "https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Quit!!",
-        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 161352,
-      "name": "HAPPY HOUR (feat. Knox)",
-      "url": "https://open.spotify.com/track/6WxuJ0miXSbI56DbuxQODG"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 195099,
-      "name": "We Made It Look Easy",
-      "url": "https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Angry",
         "url": "https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE"
       },
@@ -919,6 +903,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 195099,
+      "name": "We Made It Look Easy",
+      "url": "https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn"
       },
@@ -931,22 +931,6 @@
       "duration_ms": 142533,
       "name": "Power",
       "url": "https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Next Semester",
-        "url": "https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 234400,
-      "name": "Next Semester",
-      "url": "https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -999,22 +983,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Legendary",
-        "url": "https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 245467,
-      "name": "Legendary",
-      "url": "https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Neck Deep",
         "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
       },
@@ -1027,6 +995,38 @@
       "duration_ms": 178600,
       "name": "Dumbstruck Dumbf**k",
       "url": "https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Next Semester",
+        "url": "https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 234400,
+      "name": "Next Semester",
+      "url": "https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 245467,
+      "name": "Legendary",
+      "url": "https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1083,22 +1083,6 @@
       "duration_ms": 171794,
       "name": "Chaotic",
       "url": "https://open.spotify.com/track/4mdp26YsqfiqL6Fj9DJmaV"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Living Proof",
-        "url": "https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 219346,
-      "name": "Living Proof",
-      "url": "https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1207,6 +1191,22 @@
       "duration_ms": 191000,
       "name": "Down With The Wolves",
       "url": "https://open.spotify.com/track/5DtLkQnQfzJYj8QBJKYiqS"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Living Proof",
+        "url": "https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 219346,
+      "name": "Living Proof",
+      "url": "https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "MEDZ",
-        "url": "https://open.spotify.com/album/6Xwq41gv27p5DPAqnoZmxQ"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 165868,
-      "name": "MEDZ",
-      "url": "https://open.spotify.com/track/7sfp82nSU4R52zXcJpv0DQ"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 211720,
       "name": "Dark Matter",
       "url": "https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "MEDZ",
+        "url": "https://open.spotify.com/album/6Xwq41gv27p5DPAqnoZmxQ"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 165868,
+      "name": "MEDZ",
+      "url": "https://open.spotify.com/track/7sfp82nSU4R52zXcJpv0DQ"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1743,18 +1743,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Dreamstate",
-        "url": "https://open.spotify.com/album/72FaMZE6GlaPHXKm5DvTof"
+        "name": "Soldier In The Army of Love",
+        "url": "https://open.spotify.com/album/05gBPlkrFzoHDBtN4JseUS"
       },
       "artists": [
         {
-          "name": "Future Palace",
-          "url": "https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21"
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "Roman Morello",
+          "url": "https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju"
         }
       ],
-      "duration_ms": 240037,
-      "name": "Dreamstate",
-      "url": "https://open.spotify.com/track/53SIguo0ftQQXu9pXJENSo"
+      "duration_ms": 178490,
+      "name": "Soldier In The Army of Love",
+      "url": "https://open.spotify.com/track/1gQP8UKHi9eRVrTS8pm4ep"
     }
   ],
   "unique_name": "Rock Rotation",

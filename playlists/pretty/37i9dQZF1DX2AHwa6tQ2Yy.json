@@ -1,6 +1,6 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 48137,
+  "num_followers": 48141,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
@@ -327,18 +327,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "It's A Long Road",
-        "url": "https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa"
+        "name": "Summer Moon (feat. Kevin Kaarl)",
+        "url": "https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV"
       },
       "artists": [
         {
-          "name": "The Meltdown",
-          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 282773,
-      "name": "Tell You Not To Worry",
-      "url": "https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33"
+      "duration_ms": 177673,
+      "name": "Summer Moon (feat. Kevin Kaarl)",
+      "url": "https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -359,22 +363,18 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Summer Moon (feat. Kevin Kaarl)",
-        "url": "https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV"
+        "name": "It's A Long Road",
+        "url": "https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "The Meltdown",
+          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
         }
       ],
-      "duration_ms": 177673,
-      "name": "Summer Moon (feat. Kevin Kaarl)",
-      "url": "https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE"
+      "duration_ms": 282773,
+      "name": "Tell You Not To Worry",
+      "url": "https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 218253,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "Dollar $hort",
         "url": "https://open.spotify.com/album/5AlNt9tbo2tP4KcHP1xIcG"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 195415,
       "name": "Dollar $hort",
       "url": "https://open.spotify.com/track/6UYLv08EVHZsmMP4SrgZVw"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 218253,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "Til My Song Is Done",
+        "url": "https://open.spotify.com/album/6CmtgWsHIyzLaY6HOH7u4X"
+      },
+      "artists": [
+        {
+          "name": "Emma Donovan",
+          "url": "https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs"
+        }
+      ],
+      "duration_ms": 274600,
+      "name": "Til My Song is Done",
+      "url": "https://open.spotify.com/track/6gC01enBKZMxtuJQiVi0eG"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "Only Wanna Be With You",
         "url": "https://open.spotify.com/album/5MEXy3BoHRig5xBgxdzegm"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 122719,
       "name": "Love in the Open",
       "url": "https://open.spotify.com/track/7bHrageN8GFaQ1jC3G9f4H"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "Til My Song Is Done",
-        "url": "https://open.spotify.com/album/6CmtgWsHIyzLaY6HOH7u4X"
-      },
-      "artists": [
-        {
-          "name": "Emma Donovan",
-          "url": "https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs"
-        }
-      ],
-      "duration_ms": 274600,
-      "name": "Til My Song is Done",
-      "url": "https://open.spotify.com/track/6gC01enBKZMxtuJQiVi0eG"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Y3",
-        "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 218048,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "SEE YOU TRY...",
         "url": "https://open.spotify.com/album/1Jehaxde2CWArAasfAVvkV"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 180923,
       "name": "SEE YOU TRY...",
       "url": "https://open.spotify.com/track/2wQl3xTp4Xc0L37BSKY7py"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Y3",
+        "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 218048,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
     },
     {
       "added_at": "2024-03-14 20:40:35",

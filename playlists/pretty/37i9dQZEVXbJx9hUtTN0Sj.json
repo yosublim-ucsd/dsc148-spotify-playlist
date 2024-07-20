@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Belgium.",
-  "num_followers": 22983,
+  "num_followers": 22985,
   "original_name": "Viral 50 - Belgium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lizb2AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Li3PmAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
       "album": {
         "name": "Yamore",
         "url": "https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
       "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
       "album": {
         "name": "Chihiro",
         "url": "https://open.spotify.com/album/5zxkH4g9xsFZXrhbhm5N77"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/1antlMwNpOAXeUcIAx8FPB"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
       "album": {
         "name": "The Spark",
         "url": "https://open.spotify.com/album/6xNvkXuK0QL7vr9wEsCREW"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
       "album": {
         "name": "Dougie",
         "url": "https://open.spotify.com/album/0WdAEGM93b6WNp9rVSNeih"
@@ -149,27 +149,23 @@
       "url": "https://open.spotify.com/track/2dh4i6rwmQ5qsoRafiylo6"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
       "album": {
-        "name": "MEGAN",
-        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+        "name": "Eu Quero Tchu, Eu Quero Tcha",
+        "url": "https://open.spotify.com/album/2vw1dlq865sW1jbMGxFvUC"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "\u5343\u8449\u96c4\u559c",
-          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+          "name": "Jo\u00e3o Lucas & Marcelo",
+          "url": "https://open.spotify.com/artist/07qXCavgZGcwnfNHSvSPtG"
         }
       ],
-      "duration_ms": 156988,
-      "name": "Mamushi (feat. Yuki Chiba)",
-      "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
+      "duration_ms": 161346,
+      "name": "Eu Quero Tchu, Eu Quero Tcha - Single Version",
+      "url": "https://open.spotify.com/track/36JlLKH7LEhEqsRljgtoW4"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
       "album": {
         "name": "In And Out Of Love",
         "url": "https://open.spotify.com/album/3ieuC2fT9bBITfYugxOkwK"
@@ -193,7 +189,27 @@
       "url": "https://open.spotify.com/track/7nxTzZJmf2lLplk5pfV64h"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
+      "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        }
+      ],
+      "duration_ms": 156988,
+      "name": "Mamushi (feat. Yuki Chiba)",
+      "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
+    },
+    {
+      "added_at": "2024-07-19 13:45:23",
       "album": {
         "name": "JEUNE MALAGASY",
         "url": "https://open.spotify.com/album/5EoW0PPTKRCHFjgQRICIID"
@@ -209,79 +225,7 @@
       "url": "https://open.spotify.com/track/52NNcLKY2nG2vcGnsR3q0J"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
-      "album": {
-        "name": "Pas de seum pour le summer",
-        "url": "https://open.spotify.com/album/3vgEOmPIh31vdESnU8CtYA"
-      },
-      "artists": [
-        {
-          "name": "Helena",
-          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
-        }
-      ],
-      "duration_ms": 179866,
-      "name": "Summer Body",
-      "url": "https://open.spotify.com/track/2jg0zwe6fa4oWjzy1EvcWg"
-    },
-    {
-      "added_at": "2024-07-18 13:56:23",
-      "album": {
-        "name": "Mes Lov\u00e9s",
-        "url": "https://open.spotify.com/album/4hufR5ALDudDZxiReG2JiT"
-      },
-      "artists": [
-        {
-          "name": "Ponko",
-          "url": "https://open.spotify.com/artist/2xzGVKiyGIsI4NomojrK39"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 188717,
-      "name": "Mes Lov\u00e9s",
-      "url": "https://open.spotify.com/track/1dpuodugAA3ZVyV0oXHUu4"
-    },
-    {
-      "added_at": "2024-07-18 13:56:23",
-      "album": {
-        "name": "Pink Lemonade (Str8 Reload)",
-        "url": "https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa"
-      },
-      "artists": [
-        {
-          "name": "LeoStayTrill",
-          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
-        },
-        {
-          "name": "Mr Reload It",
-          "url": "https://open.spotify.com/artist/51Ap1wNTfeway5Q06oFCLh"
-        }
-      ],
-      "duration_ms": 122208,
-      "name": "Pink Lemonade (Str8 Reload)",
-      "url": "https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht"
-    },
-    {
-      "added_at": "2024-07-18 13:56:23",
-      "album": {
-        "name": "KEHLANI",
-        "url": "https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm"
-      },
-      "artists": [
-        {
-          "name": "Jordan Adetunji",
-          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
-        }
-      ],
-      "duration_ms": 122360,
-      "name": "KEHLANI",
-      "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
-    },
-    {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
       "album": {
         "name": "you look like you love me (feat. Riley Green)",
         "url": "https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j"
@@ -301,7 +245,95 @@
       "url": "https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
+      "album": {
+        "name": "HAY LUPITA",
+        "url": "https://open.spotify.com/album/2VOwmlyJzRjfMfofsNHTtR"
+      },
+      "artists": [
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        }
+      ],
+      "duration_ms": 105836,
+      "name": "HAY LUPITA",
+      "url": "https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4"
+    },
+    {
+      "added_at": "2024-07-19 13:45:23",
+      "album": {
+        "name": "Mes Lov\u00e9s",
+        "url": "https://open.spotify.com/album/4hufR5ALDudDZxiReG2JiT"
+      },
+      "artists": [
+        {
+          "name": "Ponko",
+          "url": "https://open.spotify.com/artist/2xzGVKiyGIsI4NomojrK39"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 188717,
+      "name": "Mes Lov\u00e9s",
+      "url": "https://open.spotify.com/track/1dpuodugAA3ZVyV0oXHUu4"
+    },
+    {
+      "added_at": "2024-07-19 13:45:23",
+      "album": {
+        "name": "Pink Lemonade (Str8 Reload)",
+        "url": "https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "Mr Reload It",
+          "url": "https://open.spotify.com/artist/51Ap1wNTfeway5Q06oFCLh"
+        }
+      ],
+      "duration_ms": 122208,
+      "name": "Pink Lemonade (Str8 Reload)",
+      "url": "https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht"
+    },
+    {
+      "added_at": "2024-07-19 13:45:23",
+      "album": {
+        "name": "Pas de seum pour le summer",
+        "url": "https://open.spotify.com/album/3vgEOmPIh31vdESnU8CtYA"
+      },
+      "artists": [
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+        }
+      ],
+      "duration_ms": 179866,
+      "name": "Summer Body",
+      "url": "https://open.spotify.com/track/2jg0zwe6fa4oWjzy1EvcWg"
+    },
+    {
+      "added_at": "2024-07-19 13:45:23",
+      "album": {
+        "name": "KEHLANI",
+        "url": "https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        }
+      ],
+      "duration_ms": 122360,
+      "name": "KEHLANI",
+      "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
+    },
+    {
+      "added_at": "2024-07-19 13:45:23",
       "album": {
         "name": "Ela Joga na Hora",
         "url": "https://open.spotify.com/album/5Q5Q1X31y4eM4A4Nz7cGKb"
@@ -321,7 +353,7 @@
       "url": "https://open.spotify.com/track/4EV2AD1AL9AV7eY0jhAY1k"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
       "album": {
         "name": "EL RITMO QUE NOS UNE (feat. Selecci\u00f3n Colombia)",
         "url": "https://open.spotify.com/album/6gHvLYdqKPaiCXK92crXFR"
@@ -341,7 +373,43 @@
       "url": "https://open.spotify.com/track/79IBoMfFn67UI15YkP1FSp"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
+      "album": {
+        "name": "15",
+        "url": "https://open.spotify.com/album/1kPpMyLk2aWFhjP6Jw51Gn"
+      },
+      "artists": [
+        {
+          "name": "AMK",
+          "url": "https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi"
+        },
+        {
+          "name": "Nekfeu",
+          "url": "https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH"
+        }
+      ],
+      "duration_ms": 217408,
+      "name": "Bussdown",
+      "url": "https://open.spotify.com/track/434ECC1gUgb3bsBhnbLmEX"
+    },
+    {
+      "added_at": "2024-07-19 13:45:23",
+      "album": {
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+    },
+    {
+      "added_at": "2024-07-19 13:45:23",
       "album": {
         "name": "Si Ai",
         "url": "https://open.spotify.com/album/7JRTgBc4mvX7CfkfDhaLMK"
@@ -357,7 +425,7 @@
       "url": "https://open.spotify.com/track/27jIKs9ZEe4m19j3lx4E2b"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
       "album": {
         "name": "On Met La Patate (Belgian Anthem)",
         "url": "https://open.spotify.com/album/11w20Jq6Z814UVnYFn08cx"
@@ -377,39 +445,7 @@
       "url": "https://open.spotify.com/track/3q8VDAS1z0x5VavigoDXHl"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
-      "album": {
-        "name": "HAY LUPITA",
-        "url": "https://open.spotify.com/album/2VOwmlyJzRjfMfofsNHTtR"
-      },
-      "artists": [
-        {
-          "name": "Lomiiel",
-          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
-        }
-      ],
-      "duration_ms": 105836,
-      "name": "HAY LUPITA",
-      "url": "https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4"
-    },
-    {
-      "added_at": "2024-07-18 13:56:23",
-      "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
-    },
-    {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
       "album": {
         "name": "Red (From \"Descendants: The Rise of Red\")",
         "url": "https://open.spotify.com/album/6M4QzYGKgF2nkZw9VztN0s"
@@ -433,23 +469,7 @@
       "url": "https://open.spotify.com/track/1AP7xueWwO5AakWFYzttpV"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
-      "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
       "album": {
         "name": "Gucci",
         "url": "https://open.spotify.com/album/092VaXFvXjdiDM3pREBoja"
@@ -465,7 +485,7 @@
       "url": "https://open.spotify.com/track/3gRnR33Z7eBeMXYrhPXRIX"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
       "album": {
         "name": "Project YVL",
         "url": "https://open.spotify.com/album/2NSzFWptxM2TsHbGtDE2dr"
@@ -489,23 +509,23 @@
       "url": "https://open.spotify.com/track/46oDV1H9EdVmnWSivShuH1"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
       "album": {
-        "name": "Rood Staan Hard Gaan",
-        "url": "https://open.spotify.com/album/53BIlp7LxkVNELem6Y6FWV"
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
       },
       "artists": [
         {
-          "name": "Prins S. en De Geit",
-          "url": "https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 197596,
-      "name": "Kinderboerderij (Keiblij)",
-      "url": "https://open.spotify.com/track/4isdAm3r3InCUElILngjQQ"
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
       "album": {
         "name": "Coastal Grooves",
         "url": "https://open.spotify.com/album/5LMfBxAyFy41CavxGAykHR"
@@ -521,7 +541,7 @@
       "url": "https://open.spotify.com/track/0AIpGG5dxEgnAymhdJRSZ0"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
       "album": {
         "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
         "url": "https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe"
@@ -541,7 +561,23 @@
       "url": "https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
+      "album": {
+        "name": "\u00c7A VA ALLER",
+        "url": "https://open.spotify.com/album/6X4svyBGURhtDWxEtTKkDL"
+      },
+      "artists": [
+        {
+          "name": "JYEUHAIR",
+          "url": "https://open.spotify.com/artist/7sr2KPOcmuTHm9GsbuRXKn"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "\u00c7A VA ALLER",
+      "url": "https://open.spotify.com/track/2PR7vOAqVX7ynISxlwt7GD"
+    },
+    {
+      "added_at": "2024-07-19 13:45:23",
       "album": {
         "name": "PICK UP THE PHONE (feat. Nate Dogg)",
         "url": "https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE"
@@ -561,7 +597,47 @@
       "url": "https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
+      "album": {
+        "name": "farukerem",
+        "url": "https://open.spotify.com/album/6cTsySRC5kITqwGEFVjBup"
+      },
+      "artists": [
+        {
+          "name": "1nsta kerocqn",
+          "url": "https://open.spotify.com/artist/3OYOCYCt3IJxiMd1bluO67"
+        }
+      ],
+      "duration_ms": 109166,
+      "name": "Amo aller Amos",
+      "url": "https://open.spotify.com/track/6Lvu1IBHdISYizQSIMhVzK"
+    },
+    {
+      "added_at": "2024-07-19 13:45:23",
+      "album": {
+        "name": "Kisses (feat. bbyclose)",
+        "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
+      },
+      "artists": [
+        {
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        },
+        {
+          "name": "CamrinWatsin",
+          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        }
+      ],
+      "duration_ms": 138246,
+      "name": "Kisses (feat. bbyclose)",
+      "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
+    },
+    {
+      "added_at": "2024-07-19 13:45:23",
       "album": {
         "name": "Jeu De Jambes",
         "url": "https://open.spotify.com/album/5xQTwahw6idIgUImvZJ7Om"
@@ -581,55 +657,39 @@
       "url": "https://open.spotify.com/track/4eC7Y0t6l6TyQnQAD3aNL6"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
       "album": {
-        "name": "Amo aller Amos",
-        "url": "https://open.spotify.com/album/2tlaiOi78UcXOTtsD3k48j"
+        "name": "Rood Staan Hard Gaan",
+        "url": "https://open.spotify.com/album/53BIlp7LxkVNELem6Y6FWV"
       },
       "artists": [
         {
-          "name": "Amo",
-          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+          "name": "Prins S. en De Geit",
+          "url": "https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi"
         }
       ],
-      "duration_ms": 109081,
-      "name": "Amo aller Amos",
-      "url": "https://open.spotify.com/track/7eBo7oeGFWJ9GlL1Me6NuV"
+      "duration_ms": 197596,
+      "name": "Kinderboerderij (Keiblij)",
+      "url": "https://open.spotify.com/track/4isdAm3r3InCUElILngjQQ"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
       "album": {
-        "name": "Phase II",
-        "url": "https://open.spotify.com/album/06jn4cOQVcR9AzMieUja5i"
+        "name": "A Little Closer",
+        "url": "https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU"
       },
       "artists": [
         {
-          "name": "P.L.L",
-          "url": "https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf"
+          "name": "Diffrent",
+          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
         }
       ],
-      "duration_ms": 146400,
-      "name": "Shattiment",
-      "url": "https://open.spotify.com/track/5qGAg2Tmwf3u94OnxMdYKE"
+      "duration_ms": 175208,
+      "name": "A Little Closer",
+      "url": "https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
-      "album": {
-        "name": "\u00c7A VA ALLER",
-        "url": "https://open.spotify.com/album/6X4svyBGURhtDWxEtTKkDL"
-      },
-      "artists": [
-        {
-          "name": "JYEUHAIR",
-          "url": "https://open.spotify.com/artist/7sr2KPOcmuTHm9GsbuRXKn"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "\u00c7A VA ALLER",
-      "url": "https://open.spotify.com/track/2PR7vOAqVX7ynISxlwt7GD"
-    },
-    {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
       "album": {
         "name": "Vannacht Slaap Jij Bij Mij",
         "url": "https://open.spotify.com/album/72aiMSxFyKAiY4mrolRPgj"
@@ -657,23 +717,7 @@
       "url": "https://open.spotify.com/track/7gv9Ky47iGM6LRp5aO5tkt"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
-      "album": {
-        "name": "Carry You Home",
-        "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 166880,
-      "name": "Carry You Home",
-      "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
-    },
-    {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
       "album": {
         "name": "Nergens Liever",
         "url": "https://open.spotify.com/album/7BfMAnfZJBqhrRy16FbpzB"
@@ -689,187 +733,23 @@
       "url": "https://open.spotify.com/track/5PhLJO4IkwuWwUlnRr0VKH"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
       "album": {
-        "name": "A Little Closer",
-        "url": "https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU"
+        "name": "Phase II",
+        "url": "https://open.spotify.com/album/06jn4cOQVcR9AzMieUja5i"
       },
       "artists": [
         {
-          "name": "Diffrent",
-          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
+          "name": "P.L.L",
+          "url": "https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf"
         }
       ],
-      "duration_ms": 175208,
-      "name": "A Little Closer",
-      "url": "https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b"
+      "duration_ms": 146400,
+      "name": "Shattiment",
+      "url": "https://open.spotify.com/track/5qGAg2Tmwf3u94OnxMdYKE"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
-      "album": {
-        "name": "TGIF (Alternate Versions)",
-        "url": "https://open.spotify.com/album/14BMAk9z4NPb7j59jQnhRD"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "TGIF",
-      "url": "https://open.spotify.com/track/56qiAh3R5y85Ng26tkAUD3"
-    },
-    {
-      "added_at": "2024-07-18 13:56:23",
-      "album": {
-        "name": "Kisses (feat. bbyclose)",
-        "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
-      },
-      "artists": [
-        {
-          "name": "BL3SS",
-          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
-        },
-        {
-          "name": "CamrinWatsin",
-          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
-        },
-        {
-          "name": "bbyclose",
-          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
-        }
-      ],
-      "duration_ms": 138246,
-      "name": "Kisses (feat. bbyclose)",
-      "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
-    },
-    {
-      "added_at": "2024-07-18 13:56:23",
-      "album": {
-        "name": "Yo Bunny",
-        "url": "https://open.spotify.com/album/4uRk8WbxccxtdvbzLkjZN2"
-      },
-      "artists": [
-        {
-          "name": "prodbycpkshawn",
-          "url": "https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z"
-        },
-        {
-          "name": "Ugly Andz.",
-          "url": "https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW"
-        }
-      ],
-      "duration_ms": 110471,
-      "name": "Yo Bunny",
-      "url": "https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe"
-    },
-    {
-      "added_at": "2024-07-18 13:56:23",
-      "album": {
-        "name": "breakdown.",
-        "url": "https://open.spotify.com/album/7EDOy8ue9MwE27BRwBT1fd"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 163453,
-      "name": "breakdown.",
-      "url": "https://open.spotify.com/track/3a4PdwwaddhYbZnp0lxqyz"
-    },
-    {
-      "added_at": "2024-07-18 13:56:23",
-      "album": {
-        "name": "feelslikeimfallinginlove",
-        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 237803,
-      "name": "feelslikeimfallinginlove",
-      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
-    },
-    {
-      "added_at": "2024-07-18 13:56:23",
-      "album": {
-        "name": "Ik Wil Dat Je Liegt",
-        "url": "https://open.spotify.com/album/5OpBG7QnV8Frg31RrAvjYV"
-      },
-      "artists": [
-        {
-          "name": "Hannah Mae",
-          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
-        },
-        {
-          "name": "MAKSIM",
-          "url": "https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl"
-        }
-      ],
-      "duration_ms": 174953,
-      "name": "Ik Wil Dat Je Liegt",
-      "url": "https://open.spotify.com/track/6ifKXZTqAuLA35TGCVuGBU"
-    },
-    {
-      "added_at": "2024-07-18 13:56:23",
-      "album": {
-        "name": "The Sound of Silence (CYRIL Remix)",
-        "url": "https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        },
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 185238,
-      "name": "The Sound of Silence - CYRIL Remix",
-      "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
-    },
-    {
-      "added_at": "2024-07-18 13:56:23",
-      "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 138213,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
-    },
-    {
-      "added_at": "2024-07-18 13:56:23",
-      "album": {
-        "name": "GTA",
-        "url": "https://open.spotify.com/album/5PNQ7iKtpLse2jFL08W7RQ"
-      },
-      "artists": [
-        {
-          "name": "Fabiow",
-          "url": "https://open.spotify.com/artist/1ajwQHm69MonB1oaH6ZPBH"
-        }
-      ],
-      "duration_ms": 166299,
-      "name": "GTA",
-      "url": "https://open.spotify.com/track/7fVAHsZmHuSu4dVHVmRQf8"
-    },
-    {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
       "album": {
         "name": "Hit The Floor",
         "url": "https://open.spotify.com/album/48VN0pEfrdB1vAu5SgRH76"
@@ -889,27 +769,147 @@
       "url": "https://open.spotify.com/track/5YNlE7p0YICNhoCohD5U4P"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
       "album": {
-        "name": "BLOW (WHITE GIRL IN TOWN) [feat. Kilo Ali]",
-        "url": "https://open.spotify.com/album/3XqYLQXudPtDBs73gZYLQG"
+        "name": "feelslikeimfallinginlove",
+        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
       },
       "artists": [
         {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        },
-        {
-          "name": "Kilo Ali",
-          "url": "https://open.spotify.com/artist/6qbmEw8JjPrPV4HknWp0O1"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 145454,
-      "name": "BLOW (WHITE GIRL IN TOWN) [feat. Kilo Ali]",
-      "url": "https://open.spotify.com/track/52r4FYDc8x1DlWt6x2vuiT"
+      "duration_ms": 237803,
+      "name": "feelslikeimfallinginlove",
+      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
+      "album": {
+        "name": "Ohnana",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "Ohnana",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+    },
+    {
+      "added_at": "2024-07-19 13:45:23",
+      "album": {
+        "name": "Carry You Home",
+        "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 166880,
+      "name": "Carry You Home",
+      "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
+    },
+    {
+      "added_at": "2024-07-19 13:45:23",
+      "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
+    },
+    {
+      "added_at": "2024-07-19 13:45:23",
+      "album": {
+        "name": "Yo Bunny",
+        "url": "https://open.spotify.com/album/4uRk8WbxccxtdvbzLkjZN2"
+      },
+      "artists": [
+        {
+          "name": "prodbycpkshawn",
+          "url": "https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z"
+        },
+        {
+          "name": "Ugly Andz.",
+          "url": "https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW"
+        }
+      ],
+      "duration_ms": 110471,
+      "name": "Yo Bunny",
+      "url": "https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe"
+    },
+    {
+      "added_at": "2024-07-19 13:45:23",
+      "album": {
+        "name": "Ik Wil Dat Je Liegt",
+        "url": "https://open.spotify.com/album/5OpBG7QnV8Frg31RrAvjYV"
+      },
+      "artists": [
+        {
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        },
+        {
+          "name": "MAKSIM",
+          "url": "https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl"
+        }
+      ],
+      "duration_ms": 174953,
+      "name": "Ik Wil Dat Je Liegt",
+      "url": "https://open.spotify.com/track/6ifKXZTqAuLA35TGCVuGBU"
+    },
+    {
+      "added_at": "2024-07-19 13:45:23",
+      "album": {
+        "name": "breakdown.",
+        "url": "https://open.spotify.com/album/7EDOy8ue9MwE27BRwBT1fd"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 163453,
+      "name": "breakdown.",
+      "url": "https://open.spotify.com/track/3a4PdwwaddhYbZnp0lxqyz"
+    },
+    {
+      "added_at": "2024-07-19 13:45:23",
+      "album": {
+        "name": "GTA",
+        "url": "https://open.spotify.com/album/5PNQ7iKtpLse2jFL08W7RQ"
+      },
+      "artists": [
+        {
+          "name": "Fabiow",
+          "url": "https://open.spotify.com/artist/1ajwQHm69MonB1oaH6ZPBH"
+        }
+      ],
+      "duration_ms": 166299,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/7fVAHsZmHuSu4dVHVmRQf8"
+    },
+    {
+      "added_at": "2024-07-19 13:45:23",
       "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6"
@@ -925,48 +925,36 @@
       "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
       "album": {
-        "name": "Il est mari\u00e9",
-        "url": "https://open.spotify.com/album/7LpiH7dQbrqp2Bd9u2Hvsh"
+        "name": "Dit Is Je Verjaardag (Troetelnamen)",
+        "url": "https://open.spotify.com/album/6ClEJOlyQFv7jQu8ldgyrN"
       },
       "artists": [
         {
-          "name": "Dj Sad",
-          "url": "https://open.spotify.com/artist/3hLERkA9u0qj3A6S4yGeTb"
-        },
-        {
-          "name": "La Traine",
-          "url": "https://open.spotify.com/artist/5tk0jsqb4leLOR0BFzg2ZR"
-        },
-        {
-          "name": "Ninocess",
-          "url": "https://open.spotify.com/artist/4IjjueQMO8pGfgrjh13Bh3"
-        },
-        {
-          "name": "pitroipa",
-          "url": "https://open.spotify.com/artist/4JJKg8bePqpcxXob8gQVC8"
+          "name": "Cadeautje voor jou",
+          "url": "https://open.spotify.com/artist/4QTEKQOOvUwm9JvTTNPbBJ"
         }
       ],
-      "duration_ms": 152952,
-      "name": "Il est mari\u00e9",
-      "url": "https://open.spotify.com/track/7Iz8Q4p8lvkFOREZSwqWp8"
+      "duration_ms": 192092,
+      "name": "Lekker Ding, Dit Is Je Verjaardag",
+      "url": "https://open.spotify.com/track/6gnSMiZPMa0uEyn6nEfOH0"
     },
     {
-      "added_at": "2024-07-18 13:56:23",
+      "added_at": "2024-07-19 13:45:23",
       "album": {
-        "name": "Not Like Us",
-        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+        "name": "TGIF (Alternate Versions)",
+        "url": "https://open.spotify.com/album/14BMAk9z4NPb7j59jQnhRD"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 274192,
-      "name": "Not Like Us",
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+      "duration_ms": 164571,
+      "name": "TGIF",
+      "url": "https://open.spotify.com/track/56qiAh3R5y85Ng26tkAUD3"
     }
   ],
   "unique_name": "Viral 50 - Belgium",

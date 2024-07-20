@@ -2043,6 +2043,24 @@
     },
     {
       "album": {
+        "name": "Bondade",
+        "url": "https://open.spotify.com/album/6e34mCVr04E132Q1drVwTE"
+      },
+      "artists": [
+        {
+          "name": "Adrian Eden",
+          "url": "https://open.spotify.com/artist/6cUUY5PB9iNclJ8YeFKKiN"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205738,
+      "name": "Bondade",
+      "url": "https://open.spotify.com/track/2Gw3X5DvHENIOD0ZxOfS5s"
+    },
+    {
+      "album": {
         "name": "Boreas",
         "url": "https://open.spotify.com/album/3XlfG83Ffv1YGZpWwFbHZ8"
       },
@@ -3206,7 +3224,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 244181,
       "name": "Cuori Fragili",
       "url": "https://open.spotify.com/track/1vDaVBhKUdQoif8v00iVgQ"
@@ -4430,7 +4448,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 165274,
       "name": "Envisaged",
       "url": "https://open.spotify.com/track/6HYQtiovqn73vx7miVSUxz"
@@ -4758,6 +4776,24 @@
       "duration_ms": 162429,
       "name": "Everbloom",
       "url": "https://open.spotify.com/track/2M4mwRgcBVviiT4jeSaecT"
+    },
+    {
+      "album": {
+        "name": "Everlasting",
+        "url": "https://open.spotify.com/album/0LHtQCGwLHC37OdZ0NcBgB"
+      },
+      "artists": [
+        {
+          "name": "Alma Meris",
+          "url": "https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Everlasting",
+      "url": "https://open.spotify.com/track/2tHwS5rv7nIDZWVu0lY62s"
     },
     {
       "album": {
@@ -6814,7 +6850,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 151714,
       "name": "In Solitude",
       "url": "https://open.spotify.com/track/4rEHRykxSQvP6mA23Umt71"
@@ -9014,6 +9050,24 @@
       "duration_ms": 123760,
       "name": "Noche",
       "url": "https://open.spotify.com/track/01U6BTWCvXnkrzqfemBgSo"
+    },
+    {
+      "album": {
+        "name": "Noctis",
+        "url": "https://open.spotify.com/album/4ELy8QXnCmFzgnXLx6IX3z"
+      },
+      "artists": [
+        {
+          "name": "Spatia Sonica",
+          "url": "https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Noctis",
+      "url": "https://open.spotify.com/track/67w1r47H4szGAGCbFOHnGr"
     },
     {
       "album": {

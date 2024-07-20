@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fvgalTu2lg.md) - [plain]
 
 > Don't worry, be happy :\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,787 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,838 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fvgalTu2lg.md) - [plain]
 | 20 | [Stronger \(What Doesn't Kill You\)](https://open.spotify.com/track/1nInOsHbtotAmEOQhtvnzP) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/0VmE95pr5TSpZWucfyhO5e) | 3:41 |
 | 21 | [Thank You](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4) | 3:38 |
 | 22 | [Bad Day](https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK) | [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Daniel Powter](https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI) | 3:53 |
-| 23 | [Firework](https://open.spotify.com/track/4lCv7b86sLynZbXhfScfm2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:47 |
-| 24 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
+| 23 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
+| 24 | [Firework](https://open.spotify.com/track/4lCv7b86sLynZbXhfScfm2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:47 |
 | 25 | [I Want To Break Free \- Single Remix](https://open.spotify.com/track/2AkmdLbVKS1steeZdy8H1l) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/61foK8xa76FEOk36uOxoc9) | 4:18 |
 | 26 | [Everybody Hurts](https://open.spotify.com/track/6PypGyiu0Y2lCDBN1XZEnP) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 5:20 |
 | 27 | [Redemption Song](https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:53 |
@@ -79,10 +79,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fvgalTu2lg.md) - [plain]
 | 69 | [You Can Get It If You Really Want](https://open.spotify.com/track/0TjOyjjHJb9WmyUQlq1F12) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [You Can Get It If You Really Want](https://open.spotify.com/album/6MVF2k2tOc6nHwa0yDtBHK) | 2:42 |
 | 70 | [Here Comes The Sun \- Remastered](https://open.spotify.com/track/45yEy5WJywhJ3sDI28ajTm) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd) | 3:05 |
 | 71 | [The Middle](https://open.spotify.com/track/3mcG2NI5G5vhrQtRda1YnA) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American \(Deluxe Edition\)](https://open.spotify.com/album/2ZuFyQ3E5n1L0VA9iyH0YV) | 2:48 |
-| 72 | [My Girl](https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S) | 2:45 |
-| 73 | [Ain't No Mountain High Enough](https://open.spotify.com/track/2H3ZUSE54pST4ubRd5FzFR) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/6sbZYwwQB15bt5TgkPFAdb) | 2:31 |
-| 74 | [Tubthumping](https://open.spotify.com/track/5rDsAMjmB4Qa5WNciJPsfK) | [Chumbawamba](https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz) | [Playlist: 90s Pop](https://open.spotify.com/album/6DUy5QdkKXI15NFbk3pYAZ) | 3:54 |
-| 75 | [Volare \(Nel Blu di Pinto di Blu\)](https://open.spotify.com/track/5QrHfu4q83HjcFcRi2WlS3) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Mosaïque](https://open.spotify.com/album/6ThFWRqxUKPCaxD5OwPXsC) | 3:38 |
+| 72 | [Volare \(Nel Blu di Pinto di Blu\)](https://open.spotify.com/track/5QrHfu4q83HjcFcRi2WlS3) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Mosaïque](https://open.spotify.com/album/6ThFWRqxUKPCaxD5OwPXsC) | 3:38 |
+| 73 | [My Girl](https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S) | 2:45 |
+| 74 | [Ain't No Mountain High Enough](https://open.spotify.com/track/2H3ZUSE54pST4ubRd5FzFR) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/6sbZYwwQB15bt5TgkPFAdb) | 2:31 |
+| 75 | [Tubthumping](https://open.spotify.com/track/5rDsAMjmB4Qa5WNciJPsfK) | [Chumbawamba](https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz) | [Playlist: 90s Pop](https://open.spotify.com/album/6DUy5QdkKXI15NFbk3pYAZ) | 3:54 |
 | 76 | [What A Wonderful World](https://open.spotify.com/track/6Z5XZ8fjmWGbkdahOgreVe) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello Louis \- The Hit Years \(1963\-1969\)](https://open.spotify.com/album/3IkAJdl6rQcSbnfpGr3MVt) | 2:17 |
 | 77 | [Over The Rainbow](https://open.spotify.com/track/3TJjGMaiuDlw3fqNghvznv) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Over The Rainbow](https://open.spotify.com/album/08WcTSjqsHq05rTXm64P6O) | 3:31 |
 | 78 | [Let It Be \- Remastered](https://open.spotify.com/track/5V1AHQugSTASVez5ffJtFo) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/2pCqZLeavM2BMovJXsJEIV) | 4:03 |

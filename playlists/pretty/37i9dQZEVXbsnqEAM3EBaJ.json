@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAD598M5GObmU8zKUPfTLOdy",
+  "snapshot_id": "AAAAAAAAAADnh/qPrhK5mzrwyM7FPt1W",
   "tracks": [
     {
       "added_at": "2024-07-19 04:00:00",
@@ -63,22 +63,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Laid to Rest (HEALTH Remix)",
-        "url": "https://open.spotify.com/album/2xJ9kcY65dxKtx81YOCa1K"
+        "name": "Ana Tijoux (En Vivo en NPR Tiny Desk)",
+        "url": "https://open.spotify.com/album/0Z2LIP15wpNu04owMtvB7F"
       },
       "artists": [
         {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        },
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
         }
       ],
-      "duration_ms": 158604,
-      "name": "Laid to Rest - HEALTH Remix",
-      "url": "https://open.spotify.com/track/15qtJGXETtDOflM2Rvod4U"
+      "duration_ms": 265750,
+      "name": "1977 - En Vivo en NPR Tiny Desk",
+      "url": "https://open.spotify.com/track/43MNu5m1YOwA0y0NRKaHw9"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -99,18 +95,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Ana Tijoux (En Vivo en NPR Tiny Desk)",
-        "url": "https://open.spotify.com/album/0Z2LIP15wpNu04owMtvB7F"
+        "name": "Laid to Rest (HEALTH Remix)",
+        "url": "https://open.spotify.com/album/2xJ9kcY65dxKtx81YOCa1K"
       },
       "artists": [
         {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        },
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
         }
       ],
-      "duration_ms": 265750,
-      "name": "1977 - En Vivo en NPR Tiny Desk",
-      "url": "https://open.spotify.com/track/43MNu5m1YOwA0y0NRKaHw9"
+      "duration_ms": 158604,
+      "name": "Laid to Rest - HEALTH Remix",
+      "url": "https://open.spotify.com/track/15qtJGXETtDOflM2Rvod4U"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Shikanoko Nokonoko Koshitantan Meme",
-        "url": "https://open.spotify.com/album/25xw8BXlctmH3CxyTwJTBV"
-      },
-      "artists": [
-        {
-          "name": "The Covers Duo",
-          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
-        }
-      ],
-      "duration_ms": 326393,
-      "name": "Shikanoko Nokonoko Koshitantan Meme",
-      "url": "https://open.spotify.com/track/7pmP9JHlkAwa2UUN1mv49U"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Hot Rails To Hell (Live)",
         "url": "https://open.spotify.com/album/0Q4w3H4RI9IBeVQ592IiyE"
       },
@@ -195,34 +179,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Cypher G",
-        "url": "https://open.spotify.com/album/19xrX25PPln3Xf8o0ISutp"
+        "name": "Shikanoko Nokonoko Koshitantan Meme",
+        "url": "https://open.spotify.com/album/25xw8BXlctmH3CxyTwJTBV"
       },
       "artists": [
         {
-          "name": "Ojal De Ajaw",
-          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
-        },
-        {
-          "name": "Doble P Ache Ene",
-          "url": "https://open.spotify.com/artist/5yh17UV0XSFV1lzzFC39XR"
-        },
-        {
-          "name": "kaos 08",
-          "url": "https://open.spotify.com/artist/7BbLIGTqWdM2aqlkbqo1AI"
-        },
-        {
-          "name": "Danny Brasco",
-          "url": "https://open.spotify.com/artist/05BlA7vN6o1m2dsGOgaODY"
-        },
-        {
-          "name": "Yaor",
-          "url": "https://open.spotify.com/artist/5IBuM3a770hWLPCKRT3ebz"
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Cypher G",
-      "url": "https://open.spotify.com/track/3PX5Ni0gE0HPg06xfaU5x0"
+      "duration_ms": 326393,
+      "name": "Shikanoko Nokonoko Koshitantan Meme",
+      "url": "https://open.spotify.com/track/7pmP9JHlkAwa2UUN1mv49U"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -339,30 +307,34 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Take Me To Your Heart",
-        "url": "https://open.spotify.com/album/6grm28IpcT22Zqo3mSJ1oo"
+        "name": "Cypher G",
+        "url": "https://open.spotify.com/album/19xrX25PPln3Xf8o0ISutp"
       },
       "artists": [
         {
-          "name": "Warren J. Scott",
-          "url": "https://open.spotify.com/artist/2MTbyBZhpJufAxViGfc4W8"
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
         },
         {
-          "name": "Robin Gibb",
-          "url": "https://open.spotify.com/artist/4vZduJO8Uukqzx64de5JxV"
+          "name": "Doble P Ache Ene",
+          "url": "https://open.spotify.com/artist/5yh17UV0XSFV1lzzFC39XR"
         },
         {
-          "name": "Maurice Gibb",
-          "url": "https://open.spotify.com/artist/6h4ALbc1G80KRRG7THwHic"
+          "name": "kaos 08",
+          "url": "https://open.spotify.com/artist/7BbLIGTqWdM2aqlkbqo1AI"
         },
         {
-          "name": "Barry Gibb",
-          "url": "https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d"
+          "name": "Danny Brasco",
+          "url": "https://open.spotify.com/artist/05BlA7vN6o1m2dsGOgaODY"
+        },
+        {
+          "name": "Yaor",
+          "url": "https://open.spotify.com/artist/5IBuM3a770hWLPCKRT3ebz"
         }
       ],
-      "duration_ms": 192209,
-      "name": "I've Gotta Get a Message to You",
-      "url": "https://open.spotify.com/track/3aQtgPbE1u2tLPZv0pwBbe"
+      "duration_ms": 234000,
+      "name": "Cypher G",
+      "url": "https://open.spotify.com/track/3PX5Ni0gE0HPg06xfaU5x0"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -379,30 +351,6 @@
       "duration_ms": 142000,
       "name": "And Waves of Dreams",
       "url": "https://open.spotify.com/track/4rxvzq4CtdaR1sNxAYCq6y"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Serenatas Relajantes: M\u00fasica Para Momentos De Tranquilidad",
-        "url": "https://open.spotify.com/album/2sTnUyn1H8fQ8NthZwDV2H"
-      },
-      "artists": [
-        {
-          "name": "Relajante Musica",
-          "url": "https://open.spotify.com/artist/4HaroQ0M1auEX9NWPq2Dka"
-        },
-        {
-          "name": "Sonidos Relajantes de la Naturaleza",
-          "url": "https://open.spotify.com/artist/0nBAPQ4R6gWk2Xbasa4IJO"
-        },
-        {
-          "name": "Monjes Tibetanos",
-          "url": "https://open.spotify.com/artist/4Y5t1XCXXpViFckIHadvW6"
-        }
-      ],
-      "duration_ms": 148832,
-      "name": "Serenidad En El Sonido",
-      "url": "https://open.spotify.com/track/0uPALqdEpx6No6gQLXClg8"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -425,8 +373,32 @@
         }
       ],
       "duration_ms": 180000,
-      "name": "Eco Nocturno De P\u00e1jaros Binaurales",
-      "url": "https://open.spotify.com/track/1tHKZ1JVkZ5NawmPtHQejH"
+      "name": "Ecos Del Amanecer Binaural",
+      "url": "https://open.spotify.com/track/7hx9omJ80Z0IzbZk9Blh9G"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Serenatas Relajantes: M\u00fasica Para Momentos De Tranquilidad",
+        "url": "https://open.spotify.com/album/2sTnUyn1H8fQ8NthZwDV2H"
+      },
+      "artists": [
+        {
+          "name": "Relajante Musica",
+          "url": "https://open.spotify.com/artist/4HaroQ0M1auEX9NWPq2Dka"
+        },
+        {
+          "name": "Sonidos Relajantes de la Naturaleza",
+          "url": "https://open.spotify.com/artist/0nBAPQ4R6gWk2Xbasa4IJO"
+        },
+        {
+          "name": "Monjes Tibetanos",
+          "url": "https://open.spotify.com/artist/4Y5t1XCXXpViFckIHadvW6"
+        }
+      ],
+      "duration_ms": 163351,
+      "name": "Transiciones Tranquilas De Tocata",
+      "url": "https://open.spotify.com/track/5pVEe9EbvpH68ZqK4OQXD5"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -483,6 +455,34 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Take Me To Your Heart",
+        "url": "https://open.spotify.com/album/6grm28IpcT22Zqo3mSJ1oo"
+      },
+      "artists": [
+        {
+          "name": "Warren J. Scott",
+          "url": "https://open.spotify.com/artist/2MTbyBZhpJufAxViGfc4W8"
+        },
+        {
+          "name": "Robin Gibb",
+          "url": "https://open.spotify.com/artist/4vZduJO8Uukqzx64de5JxV"
+        },
+        {
+          "name": "Maurice Gibb",
+          "url": "https://open.spotify.com/artist/6h4ALbc1G80KRRG7THwHic"
+        },
+        {
+          "name": "Barry Gibb",
+          "url": "https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d"
+        }
+      ],
+      "duration_ms": 192209,
+      "name": "I've Gotta Get a Message to You",
+      "url": "https://open.spotify.com/track/3aQtgPbE1u2tLPZv0pwBbe"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Smile (feat. Carolina Liar)",
         "url": "https://open.spotify.com/album/5MwREpSNM3JMxAq8xqe3im"
       },
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
         }
       ],
-      "duration_ms": 197768,
-      "name": "Halah - Live",
-      "url": "https://open.spotify.com/track/11qijVy2Icc8eQ23Nfz56j"
+      "duration_ms": 195206,
+      "name": "Ghost Highway - Live",
+      "url": "https://open.spotify.com/track/0jA4Loq4L1A3lRKzIE1I8J"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "The Cave We Fear To Enter",
-        "url": "https://open.spotify.com/album/17NEYsWWUrE1vhgPzS11n6"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 307000,
-      "name": "The Cave We Fear to Enter",
-      "url": "https://open.spotify.com/track/1ZMDs14YVVl7dwcZk5C1Se"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Ashes To Ashes (Revisited)",
         "url": "https://open.spotify.com/album/2KwG1w1iKx3cnQViznjdBy"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 363560,
       "name": "Ashes to Ashes - Revisited",
       "url": "https://open.spotify.com/track/6AePgxJZ7JhE1okItkkfBX"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "The Cave We Fear To Enter",
+        "url": "https://open.spotify.com/album/17NEYsWWUrE1vhgPzS11n6"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 307000,
+      "name": "The Cave We Fear to Enter",
+      "url": "https://open.spotify.com/track/1ZMDs14YVVl7dwcZk5C1Se"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Mind Games (The Ultimate Collection)",
+        "url": "https://open.spotify.com/album/2rc7gJVR3Ne08WuaZ0l5Wf"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 252958,
+      "name": "Mind Games - Ultimate Mix",
+      "url": "https://open.spotify.com/track/4iL5reGSTy39GSpe1yd833"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Forever Young [Live at Seattle Center Coliseum, Seattle, WA - February 9, 1974 (Afternoon)]",
         "url": "https://open.spotify.com/album/6FDX3LJoKuDKaM7clzvuDZ"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 307653,
       "name": "Forever Young - Live at Seattle Center Coliseum, Seattle, WA - February 9, 1974 (Afternoon)",
       "url": "https://open.spotify.com/track/3d8wAwAgFQn2oEIw8HI6Jb"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Mind Games (The Ultimate Collection)",
-        "url": "https://open.spotify.com/album/2rc7gJVR3Ne08WuaZ0l5Wf"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 252958,
-      "name": "Mind Games - Ultimate Mix",
-      "url": "https://open.spotify.com/track/4iL5reGSTy39GSpe1yd833"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -743,6 +743,26 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "I Like It (with Nate Smith)",
+        "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 152349,
+      "name": "I Like It (with Nate Smith)",
+      "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Fortnight (Acoustic Version)",
         "url": "https://open.spotify.com/album/5IYMYmX28qpI6OEnQhdazX"
       },
@@ -759,6 +779,42 @@
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone) - Acoustic Version",
       "url": "https://open.spotify.com/track/2BUTSRKPGRsyc9FnsC5Udd"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Can You Feel the Love Tonight (From \"A Whole New Sound\")",
+        "url": "https://open.spotify.com/album/3NuSK3YNeKeP1GdnYj8KY9"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 173350,
+      "name": "Can You Feel the Love Tonight - From \"A Whole New Sound\"",
+      "url": "https://open.spotify.com/track/372ltCYz1uLID85yHqe7S9"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Fading Like A Rose - EP",
+        "url": "https://open.spotify.com/album/4cZWw7DhPFapr3GcoTCxVi"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 155409,
+      "name": "Fading Like A Rose (Everytime Remix)",
+      "url": "https://open.spotify.com/track/165eiC8yyWkBZo26oDtFLl"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -783,26 +839,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "I Like It (with Nate Smith)",
-        "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 152349,
-      "name": "I Like It (with Nate Smith)",
-      "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Hear You Me",
         "url": "https://open.spotify.com/album/1O9tT8ySLZhhmHfCpVNESK"
       },
@@ -815,42 +851,6 @@
       "duration_ms": 272639,
       "name": "Hear You Me",
       "url": "https://open.spotify.com/track/2lyUYcQi8XW0O3iAYmZpwi"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Fading Like A Rose - EP",
-        "url": "https://open.spotify.com/album/4cZWw7DhPFapr3GcoTCxVi"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 155409,
-      "name": "Fading Like A Rose (Everytime Remix)",
-      "url": "https://open.spotify.com/track/165eiC8yyWkBZo26oDtFLl"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Can You Feel the Love Tonight (From \"A Whole New Sound\")",
-        "url": "https://open.spotify.com/album/3NuSK3YNeKeP1GdnYj8KY9"
-      },
-      "artists": [
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 173350,
-      "name": "Can You Feel the Love Tonight - From \"A Whole New Sound\"",
-      "url": "https://open.spotify.com/track/372ltCYz1uLID85yHqe7S9"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Cosmic",
-        "url": "https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 225864,
-      "name": "Cosmic",
-      "url": "https://open.spotify.com/track/0kE4TRJ0pWoRKzKdtbx8To"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Paralyzed",
         "url": "https://open.spotify.com/album/2ZB3oyrG9aDyb6hFOOuYnd"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 195555,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/73EIurQGydymTCrHuxYt3q"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Cosmic",
+        "url": "https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 225864,
+      "name": "Cosmic",
+      "url": "https://open.spotify.com/track/0kE4TRJ0pWoRKzKdtbx8To"
     },
     {
       "added_at": "2024-07-19 04:00:00",

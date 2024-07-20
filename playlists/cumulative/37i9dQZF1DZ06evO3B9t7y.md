@@ -2,7 +2,7 @@
 
 ### [This Is Carin Leon](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3B9t7y)
 
-> This is Carin Leon\. The essential tracks, all in one playlist.
+> This Is Carin Leon\. Sus mejores éxitos, todos en una playlist.
 
 150 songs - 8 hr 0 min
 

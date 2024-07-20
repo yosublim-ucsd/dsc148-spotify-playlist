@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,427 likes - 142 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,429 likes - 142 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 94 | [Blink](https://open.spotify.com/track/0HvGGQEgVtEamhhc2JgcP1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 2:47 |
 | 95 | [Run Like The River \(From "Playmobil: The Movie" Soundtrack\)](https://open.spotify.com/track/0XSVA2UpFoDgu57TWxn1Kr) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Run Like The River \(From "Playmobil: The Movie" Soundtrack\)](https://open.spotify.com/album/15DKdf0uXDCCnLkdLRF919) | 2:42 |
 | 96 | [Make You Dance](https://open.spotify.com/track/6BzNEYhKszAJ5rkl2xbcMi) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF \(DELUXE\)](https://open.spotify.com/album/745q70iMPQHWqjGzHeseBp) | 3:11 |
-| 97 | [Rainbow](https://open.spotify.com/track/6e8gCUfJm6RYtOOLBtLbFa) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 3:21 |
-| 98 | [Chicken Little](https://open.spotify.com/track/226M9fm2z3kgWEaBISOUsA) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [In His Mania \(Deluxe\)](https://open.spotify.com/album/77qnyVvugLOf5jv8QcWa3s) | 2:42 |
+| 97 | [Chicken Little](https://open.spotify.com/track/226M9fm2z3kgWEaBISOUsA) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [In His Mania \(Deluxe\)](https://open.spotify.com/album/77qnyVvugLOf5jv8QcWa3s) | 2:42 |
+| 98 | [Rainbow](https://open.spotify.com/track/6e8gCUfJm6RYtOOLBtLbFa) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 3:21 |
 | 99 | [DJ Tonight](https://open.spotify.com/track/7MfjEJUoVDLgFTHFBvxjOI) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Rewind](https://open.spotify.com/album/3yHHbz0wapmu6xF82vHkCU) | 3:47 |
 | 100 | [Flava](https://open.spotify.com/track/2aLb1SLgY71VyLBT8ZRcmj) | [Tenelle](https://open.spotify.com/artist/2oJQFkb7sJm7uNNH7HITYs) | [Flava](https://open.spotify.com/album/0VNwFtFuVSviiJbroZde1z) | 3:03 |
 | 101 | [Ashes](https://open.spotify.com/track/7LImynpVAFaCrQhMTCTGnf) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 3:17 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 141 | [Take Me There](https://open.spotify.com/track/67bB21Y4jSjG3bPPxmqHE8) | [Roger](https://open.spotify.com/artist/4znx0x1npb8pWk0b7Te7hg) | [Hoy \(Finalista La Voz Kids 2015\)](https://open.spotify.com/album/03R3ZvRxNVnjl4PvAeloSg) | 3:30 |
 | 142 | [I'm Ready](https://open.spotify.com/track/4vHh5UPDjmK4R8OPu6sizb) | [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Kinsley](https://open.spotify.com/artist/45TaTVSd9vVWTbafjbljHX) | [Motions LP](https://open.spotify.com/album/2yrVlPZtagwIhwpGm2arbH) | 2:27 |
 
-Snapshot ID: `AbXFCwAAAAB/sX5RZD/xordc7X6x9cr3`
+Snapshot ID: `AbXJAgAAAAD4ob/HMPeJqd/Ra1ykcPH2`

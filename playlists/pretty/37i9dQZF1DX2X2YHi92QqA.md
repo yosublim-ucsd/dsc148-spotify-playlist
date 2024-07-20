@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 
 > Час перепочити 🌻🧘🌲
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,116 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,132 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 7 | [Cozy](https://open.spotify.com/track/5mRFZlOAptPpimncCeBxoJ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Cozy](https://open.spotify.com/album/4xsI12SdxzxVyikl8PRuX3) | 2:45 |
 | 8 | [Beautiful Things \- Acoustic](https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things \(Alternate Versions\)](https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP) | 3:21 |
 | 9 | [Overdrive](https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Overdrive](https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V) | 2:27 |
-| 10 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
+| 10 | [Floating Parade](https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Floating Parade](https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED) | 3:49 |
 | 11 | [Рана](https://open.spotify.com/track/4GNVBarJ82ABAYZyPYwinT) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Рана](https://open.spotify.com/album/1bfoR7QMS6sbBQ3H6EWW1H) | 2:01 |
-| 12 | [Floating Parade](https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Floating Parade](https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED) | 3:49 |
+| 12 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
 | 13 | [більше ніж здається](https://open.spotify.com/track/2HllpojdmP0If39UA6BACR) | [typeled](https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq) | [більше ніж здається](https://open.spotify.com/album/2KTMSSHuMJyKXaWoaOYuDH) | 2:40 |
 | 14 | [Знайди мене](https://open.spotify.com/track/2xmQMKTjiOdkdGVgqDzezo) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Бережи мене](https://open.spotify.com/album/7re2czLU735n5zlY6uGRBb) | 2:30 |
 | 15 | [Ніченька](https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9) | [OKS](https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4) | [Ніченька](https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT) | 3:09 |
@@ -49,24 +49,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 39 | [Цілуй Мене](https://open.spotify.com/track/5K9i7SUlzxjJVPgT7vnrbQ) | [USTYM](https://open.spotify.com/artist/478Bz0rfoFT4LKEhZr7eIQ) | [Цілуй Мене](https://open.spotify.com/album/48OLhfZDNgcGGERjX92NB4) | 3:07 |
 | 40 | [Під крилом](https://open.spotify.com/track/6FTXegNMKv59Kalaukq6pC) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Під крилом](https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf) | 2:19 |
 | 41 | [Люблю](https://open.spotify.com/track/05L0LJID1XtFqzlHm9S744) | [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC) | [Люблю](https://open.spotify.com/album/38n8fjrs7QHF8Y2aGhwj6K) | 2:48 |
-| 42 | [Кохаю](https://open.spotify.com/track/3iNbj150UfbsdwdOj1Uc8S) | [ZLATA OGNEVICH](https://open.spotify.com/artist/187fS4swOKe4m6p5G0ciwF) | [Кохаю](https://open.spotify.com/album/5lDktT4CuXvCFD8ZG6lLGd) | 2:37 |
-| 43 | [Леся](https://open.spotify.com/track/6YVPwRSKMr6SnOBtbdJa1m) | [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Літепло](https://open.spotify.com/album/1mgFYpASAWkMjxQPU0N9r0) | 2:57 |
-| 44 | [Young Blood](https://open.spotify.com/track/0HVnaML1M41ACk570JuGK8) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [The Fall](https://open.spotify.com/album/0U7AFwPDmrvgthIFj7DQWq) | 3:38 |
+| 42 | [Леся](https://open.spotify.com/track/6YVPwRSKMr6SnOBtbdJa1m) | [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Літепло](https://open.spotify.com/album/1mgFYpASAWkMjxQPU0N9r0) | 2:57 |
+| 43 | [Young Blood](https://open.spotify.com/track/0HVnaML1M41ACk570JuGK8) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [The Fall](https://open.spotify.com/album/0U7AFwPDmrvgthIFj7DQWq) | 3:38 |
+| 44 | [Кохаю](https://open.spotify.com/track/3iNbj150UfbsdwdOj1Uc8S) | [ZLATA OGNEVICH](https://open.spotify.com/artist/187fS4swOKe4m6p5G0ciwF) | [Кохаю](https://open.spotify.com/album/5lDktT4CuXvCFD8ZG6lLGd) | 2:37 |
 | 45 | [Made You Up](https://open.spotify.com/track/6hZ4lvDpEsIxCjNziyMC5s) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Made You Up](https://open.spotify.com/album/1LKoQv3Mu0DDPt9lRoYuD0) | 2:46 |
 | 46 | [Лину](https://open.spotify.com/track/2SyrQZYHL1Q3yZbVX5UVKc) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Музичний щоденник\. Частина №1](https://open.spotify.com/album/0ClFr44iWLQp8zCilHSJaM) | 1:52 |
 | 47 | [Моя утома](https://open.spotify.com/track/1SIkdGNpPPBwNtZqVAq4RO) | [Околиця](https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0) | [Моя утома](https://open.spotify.com/album/4sP1lkLKPxozycub24LV3V) | 3:02 |
 | 48 | [Makoterchyk](https://open.spotify.com/track/2VHw1Ie1Job3uYw0GYMOwL) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Makoterchyk](https://open.spotify.com/album/0TOZytY7z2GIfbFqVei7Dw) | 4:15 |
 | 49 | [Такі різні](https://open.spotify.com/track/3oYbQrdYm5MztmS3R5xPmO) | [NICHKA](https://open.spotify.com/artist/4wePP7WrVuqGPqkXe2P3mJ) | [Такі різні](https://open.spotify.com/album/6Dtic6mqZLUhKDelOgMMXk) | 3:18 |
 | 50 | [Sunflower](https://open.spotify.com/track/2MKUKzxL3U4bZ12QYhRS4i) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Sunflower](https://open.spotify.com/album/03g79cWftoGqwO48vn9wOn) | 3:23 |
-| 51 | [З тобою](https://open.spotify.com/track/5ErRotOfxOqygtKwW1Bkjd) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [З тобою](https://open.spotify.com/album/5nHYLXock3TMYnuOJrLAWf) | 3:00 |
-| 52 | [Вір мені](https://open.spotify.com/track/27k4QLPYGhiApZKCQI4c9y) | [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Вір мені](https://open.spotify.com/album/23yQRx1Jd5gPYuixowWL6C) | 2:16 |
+| 51 | [Вір мені](https://open.spotify.com/track/27k4QLPYGhiApZKCQI4c9y) | [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Вір мені](https://open.spotify.com/album/23yQRx1Jd5gPYuixowWL6C) | 2:16 |
+| 52 | [З тобою](https://open.spotify.com/track/5ErRotOfxOqygtKwW1Bkjd) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [З тобою](https://open.spotify.com/album/5nHYLXock3TMYnuOJrLAWf) | 3:00 |
 | 53 | [метаморфосінь](https://open.spotify.com/track/4rLvqRtMQN0u5NQmPrtZkT) | [adm:t](https://open.spotify.com/artist/2twME3jNUXdJCcaJ7dqHsJ), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [метаморфосінь](https://open.spotify.com/album/7IC8OrpjOi7I45yyPO16yd) | 2:34 |
 | 54 | [Літом](https://open.spotify.com/track/00JNUr987Adbk9Y8Toukd7) | [Геля Зозуля](https://open.spotify.com/artist/5NR8eODM4CQ2X6rBuGpZ2B) | [Літом](https://open.spotify.com/album/1MC5YNrcI3dLWh9aFEmmpy) | 2:13 |
 | 55 | [Лебідонько](https://open.spotify.com/track/3jvcFXp201IwQ1hGpq0Xoj) | [BRYKULETS](https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB) | [Лебідонько](https://open.spotify.com/album/19UW7SaVHmcUDFXhj2webN) | 2:16 |
 | 56 | [Сонячна](https://open.spotify.com/track/5DyqWpCHHVfB6BO3Uucdxg) | [Сальто Назад](https://open.spotify.com/artist/51y4QBUQpFncG7cY6HMsIW) | [Діти](https://open.spotify.com/album/7i9VX5UVn6oRKLCowh3rlZ) | 3:58 |
 | 57 | [Солов'ї](https://open.spotify.com/track/2LFs6apdfs1cIkrVscZpca) | [Oxana Trach](https://open.spotify.com/artist/1VqqAM2W8jfZSq8hKU7Kww) | [Солов'ї](https://open.spotify.com/album/1RltwzS3oGphyquYRIReC4) | 2:23 |
-| 58 | [Воля \- full version](https://open.spotify.com/track/3YdeXVe2cwGjHOCsgDPXsb) | [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Воля \(full version\)](https://open.spotify.com/album/4ZnOl68KK8mpwi9D13Fzhf) | 2:44 |
-| 59 | [Цілуй](https://open.spotify.com/track/5DAzNt68KuvlFP0ntLJ6qO) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb), [МУЛЬТИТРЕК](https://open.spotify.com/artist/6xVfsVrltoRr7tm4Gq9oev) | [Цілуй](https://open.spotify.com/album/4j3Zg22aQBr2R61zVe2LRC) | 4:21 |
-| 60 | [Як же тобі там?](https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07) | [Лівінстон](https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9) | [Як же тобі там?](https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ) | 4:04 |
+| 58 | [Цілуй](https://open.spotify.com/track/5DAzNt68KuvlFP0ntLJ6qO) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb), [МУЛЬТИТРЕК](https://open.spotify.com/artist/6xVfsVrltoRr7tm4Gq9oev) | [Цілуй](https://open.spotify.com/album/4j3Zg22aQBr2R61zVe2LRC) | 4:21 |
+| 59 | [Як же тобі там?](https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07) | [Лівінстон](https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9) | [Як же тобі там?](https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ) | 4:04 |
+| 60 | [Воля \- full version](https://open.spotify.com/track/3YdeXVe2cwGjHOCsgDPXsb) | [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Воля \(full version\)](https://open.spotify.com/album/4ZnOl68KK8mpwi9D13Fzhf) | 2:44 |
 
 Snapshot ID: `ZpFW5QAAAACMOiEV4t6zFBhxgkqDsmqd`

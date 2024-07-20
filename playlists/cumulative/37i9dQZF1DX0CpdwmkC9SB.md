@@ -4,7 +4,7 @@
 
 > The biggest festival of the year\. The official playlist for Glastonbury 2024.
 
-209 songs - 12 hr 50 min
+210 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Bamboléo](https://open.spotify.com/track/3iB8eciGU9vZkaDYkz7Ir9) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Gipsy Kings](https://open.spotify.com/album/43uh4QoHA259dOUkXte7dl) | 3:23 | 2024-05-31 |  |
 | [Banquet](https://open.spotify.com/track/4juzduULFJiZVIcrC1tkxE) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/1VpqO2dBJdAS3YAimXlhEM) | 3:21 | 2024-05-31 |  |
 | [Bashed Out](https://open.spotify.com/track/7HT6TuyQsBNGghhYYzInsU) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Bashed Out](https://open.spotify.com/album/6mNf6jxeTcRNi6uQLisaXS) | 3:41 | 2024-05-31 |  |
-| [Better Way To Live](https://open.spotify.com/track/1ifVrAQPH2DZ3FBFu48rFw) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [Better Way To Live](https://open.spotify.com/album/5gXiWUFAEycihknbHFFRUM) | 3:01 | 2024-05-31 |  |
+| [Better Way To Live](https://open.spotify.com/track/1ifVrAQPH2DZ3FBFu48rFw) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [Better Way To Live](https://open.spotify.com/album/5gXiWUFAEycihknbHFFRUM) | 3:01 | 2024-05-31 | 2024-07-20 |
 | [Birthday Suit](https://open.spotify.com/track/598B9RU1jZhObFSQJhisIa) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [The Much Much How How and I](https://open.spotify.com/album/5nBi2KxnApejxYC1Eb8XNl) | 1:20 | 2024-06-04 |  |
 | [Bittersweet Goodbye](https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Bittersweet Goodbye](https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh) | 2:46 | 2024-05-31 |  |
 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 | 2024-06-04 |  |
@@ -94,6 +94,7 @@
 | [Grown Up](https://open.spotify.com/track/2KrkWcSP0oFWBUZzvj9KjS) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Grown Up](https://open.spotify.com/album/75BAkzFWLER9MrZjaeFX2X) | 2:19 | 2024-05-31 |  |
 | [Halcyon and On and On](https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Orbital 2](https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W) | 9:27 | 2024-05-31 |  |
 | [Handsworth Revolution](https://open.spotify.com/track/6IvCfEDx144Whfy0RWUdO3) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Reggae Greats](https://open.spotify.com/album/6DiwyMhNGSkMwJxGg8DUVZ) | 5:23 | 2024-05-31 |  |
+| [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 | 2024-05-31 |  |
 | [Heavy Cross](https://open.spotify.com/track/3N9pOaB1a8nIULbCgmEVXc) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Music For Men](https://open.spotify.com/album/0HQQZSfbrsaWBlN7IdwKuD) | 4:02 | 2024-05-31 |  |
 | [High Note](https://open.spotify.com/track/28f5cHOahtA3JhbIBt9q9Y) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [High Note](https://open.spotify.com/album/0BKjTW49qxO6j8md9eW91g) | 3:45 | 2024-05-31 |  |
 | [High Time](https://open.spotify.com/track/22NG6qqEocSa7srAyyyLQw) | [4am Kru](https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ) | [High Time](https://open.spotify.com/album/6AVejTEoRqWHNonqliy9R0) | 3:42 | 2024-05-31 |  |

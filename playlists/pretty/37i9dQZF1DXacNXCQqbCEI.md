@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: Meridian Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,872 likes - 60 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,879 likes - 60 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 41 | [Sueño en Paraguay \- El Búho Remix](https://open.spotify.com/track/26hcJ6HQTl79tPYikflRc5) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Amansará \(Remixed\)](https://open.spotify.com/album/1APDDRn5wQC7a1EpMUIrjd) | 3:59 |
 | 42 | [Sierra Madre \(Remix\)](https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Héctor Guerra](https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz), [Danger AK](https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH), [Noe Gonzalez Molina](https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg) | [Sierra Madre \(Remix\)](https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns) | 5:05 |
 | 43 | [Qué Bonito](https://open.spotify.com/track/6oxVrlxeTwhmOroYJkrAad) | [Primo Son](https://open.spotify.com/artist/4hhlnDWkZV8hvYWiHyS7kb) | [Qué Bonito](https://open.spotify.com/album/14OCSNKGtGObRtdf7OKidp) | 3:46 |
-| 44 | [Resistencia](https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Recuerdos de Expiación](https://open.spotify.com/album/7mRiMo2ciSNhFF85xDEuUN) | 3:12 |
-| 45 | [Pachamama](https://open.spotify.com/track/5wETbMw6PuupavwJ5ERA7B) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Claudia Manzo](https://open.spotify.com/artist/3CMX8YNfpVGTCUudvZPDpg) | [ATO 3: América do Sol](https://open.spotify.com/album/2h8ukNP8AiKigfNB2PuhPC) | 2:37 |
+| 44 | [Pachamama](https://open.spotify.com/track/5wETbMw6PuupavwJ5ERA7B) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Claudia Manzo](https://open.spotify.com/artist/3CMX8YNfpVGTCUudvZPDpg) | [ATO 3: América do Sol](https://open.spotify.com/album/2h8ukNP8AiKigfNB2PuhPC) | 2:37 |
+| 45 | [Resistencia](https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Recuerdos de Expiación](https://open.spotify.com/album/7mRiMo2ciSNhFF85xDEuUN) | 3:12 |
 | 46 | [Puro Comer](https://open.spotify.com/track/1qPhcG9LKdW4MgAvR6yPx1) | [Elegante & La Imperial](https://open.spotify.com/artist/4CJ85bxslxMaG092YvHV27) | [El Sonido de las Lobas](https://open.spotify.com/album/3vTBoO0EqS3yqtQ1mCPtjo) | 4:20 |
 | 47 | [Alientos](https://open.spotify.com/track/0rWM6crTli6lBYVqRvH2oW) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Ghetto Kumbé](https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3) | [Alientos](https://open.spotify.com/album/6hBvd81RW9NF5epZx07lfH) | 4:43 |
 | 48 | [Chinito Rulo \(Remix\)](https://open.spotify.com/track/7k59WdJ7jadrBwzguDgvR8) | [Shushupe](https://open.spotify.com/artist/3S0VTthgRWMUNhLEmmbEa4), [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Chinito Rulo \(Remix\)](https://open.spotify.com/album/5Ryl5A6cqqNwTUFpwBCoOS) | 3:07 |

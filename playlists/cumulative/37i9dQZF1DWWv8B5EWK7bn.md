@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-410 songs - 1 day 5 hr 11 min
+411 songs - 1 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [Ozone Scraper](https://open.spotify.com/track/0Q9R4VjA7LedOAoUBvT2fV) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Ozone Scraper](https://open.spotify.com/album/5AUkiL7bPV1Hc6jGdYydrI) | 3:31 | 2023-10-27 | 2024-01-23 |
 | [Pagano](https://open.spotify.com/track/0K8fmZNZFG2bCxamePeiFE) | [Siniestra Pandora](https://open.spotify.com/artist/1cuq3b3taULpho8MTTZD2U) | [Elegía](https://open.spotify.com/album/6EEkWd8f7a1zctFgoptqUj) | 3:47 | 2024-07-05 |  |
 | [Painted the Room](https://open.spotify.com/track/24IXYn8kl7J2E5pByVQHuj) | [Rozi Plain](https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x) | [Prize](https://open.spotify.com/album/0EMnfWB37amlYLEuQzoV3k) | 4:13 | 2023-01-07 | 2024-04-19 |
-| [Painted the Room](https://open.spotify.com/track/3iTYtpdS8JqWluLm92kuRH) | [Rozi Plain](https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x) | [Painted The Room](https://open.spotify.com/album/3c6Pgmn56EIAVFH3PtXyUL) | 4:13 | 2023-01-07 |  |
+| [Painted the Room](https://open.spotify.com/track/3iTYtpdS8JqWluLm92kuRH) | [Rozi Plain](https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x) | [Painted The Room](https://open.spotify.com/album/3c6Pgmn56EIAVFH3PtXyUL) | 4:13 | 2023-01-07 | 2024-07-20 |
 | [Palace In My Head](https://open.spotify.com/track/0VjY5jJjnDruOnMhMqkAks) | [Jaakko Eino Kalevi](https://open.spotify.com/artist/20o7mwLphfnviZKGPw1gi3), [Alma Jodorowsky](https://open.spotify.com/artist/4DBszooKyAkibrGnhMxKqr) | [Chaos Magic](https://open.spotify.com/album/5XgraGHvfLV9NEwCdlAg9j) | 3:34 | 2023-11-23 | 2024-03-22 |
 | [Para los Pájaros](https://open.spotify.com/track/21i2D8lKOnfT7vOJx5D8z5) | [Sanje](https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx) | [Para los Pájaros / Carlos](https://open.spotify.com/album/6fwq1M7IulFPZ0lbn4BB5v) | 4:28 | 2024-07-05 |  |
 | [Peak](https://open.spotify.com/track/5YKXTSsKm0HBuy7pX3IA0A) | [Rosa Anschütz](https://open.spotify.com/artist/1kjoxeQwJmoCfXT6j58MTm) | [Peak](https://open.spotify.com/album/20qgeY3lDZer4rY0Al8uKp) | 3:29 | 2022-04-23 | 2022-07-16 |
@@ -398,6 +398,7 @@
 | [Void](https://open.spotify.com/track/4FyZknHKfTxbVnsvnt8BEk) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Three Bells](https://open.spotify.com/album/3ZRn2YWUwzPX5iMuw1zGQh) | 6:43 | 2024-02-02 | 2024-04-23 |
 | [Voyager](https://open.spotify.com/track/7liCZGCeSyqcDRKhdlglHW) | [Slauson Malone 1](https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N) | [Voyager](https://open.spotify.com/album/6HHaF08StaSFk1MdDOMAp4) | 3:09 | 2023-08-24 | 2024-01-04 |
 | [Wall Of Eyes](https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/200fExjblMBQHdfptuDUra) | 5:05 | 2023-11-23 | 2024-01-30 |
+| [watch it burn](https://open.spotify.com/track/0lAK2bpvCeple95TASn6DJ) | [isomonstrosity](https://open.spotify.com/artist/4DfieEPxO3kEpaMuOCPtqi), [International Contemporary Ensemble](https://open.spotify.com/artist/1e6oJr3JG14gEuRLDl5ZsT), [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj), [Ellen Reid](https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka), [Yuga Cohler](https://open.spotify.com/artist/1RXmpUqrMHVgk9nTiShX0P), [Zacari](https://open.spotify.com/artist/3SiMMVtpcfKwyXIed0LC2c) | [isomonstrosity](https://open.spotify.com/album/4Zu4oPIIukPnJaVSlOMBzr) | 3:43 | 2024-07-19 |  |
 | [We Go Back](https://open.spotify.com/track/0rm3x9LMs2QN72gNp4qY50) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [We Go Back](https://open.spotify.com/album/5aqwNIaQEGgQZCTjSIGOPJ) | 3:23 | 2022-02-04 | 2022-06-08 |
 | [What Has Happened](https://open.spotify.com/track/1WM2ObDoxB3QqksZRxpy7w) | [Tonstartssbandht](https://open.spotify.com/artist/0ZoYAbDGICaSPSfTTvworW) | [Petunia](https://open.spotify.com/album/6CjVp0URuekH4fRUQJqJ92) | 7:02 | 2022-03-16 | 2023-06-27 |
 | [What Has Happened](https://open.spotify.com/track/3cYdy35yz0p44Uy02qqThg) | [Tonstartssbandht](https://open.spotify.com/artist/0ZoYAbDGICaSPSfTTvworW) | [What Has Happened](https://open.spotify.com/album/0R014aRU0SPhTIFe47nR1D) | 7:02 | 2022-03-16 | 2022-11-14 |

@@ -8665,6 +8665,28 @@
     },
     {
       "album": {
+        "name": "1-800 FANTASY",
+        "url": "https://open.spotify.com/album/4Hc9kwSIRb2jgE441FOueK"
+      },
+      "artists": [
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        },
+        {
+          "name": "Jackie Giroux",
+          "url": "https://open.spotify.com/artist/5QX6gWlu1rdoTKPZ9FiwYh"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157998,
+      "name": "GEMINI",
+      "url": "https://open.spotify.com/track/5j99dfS5X643RxuJdyizt3"
+    },
+    {
+      "album": {
         "name": "LuckyMe Advent Calendar 21",
         "url": "https://open.spotify.com/album/6vFVVgCoPzP6YggRI7lPnO"
       },
@@ -8684,28 +8706,6 @@
       "duration_ms": 211139,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/0GPZVVuQ291PJKvKWpp9cF"
-    },
-    {
-      "album": {
-        "name": "1-800 FANTASY",
-        "url": "https://open.spotify.com/album/4Hc9kwSIRb2jgE441FOueK"
-      },
-      "artists": [
-        {
-          "name": "BLK ODYSSY",
-          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
-        },
-        {
-          "name": "Jackie Giroux",
-          "url": "https://open.spotify.com/artist/5QX6gWlu1rdoTKPZ9FiwYh"
-        }
-      ],
-      "date_added": "2024-07-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 157998,
-      "name": "GEMINI (feat. Jackie Giroux)",
-      "url": "https://open.spotify.com/track/5j99dfS5X643RxuJdyizt3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Geolier in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,820 likes - 52 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,874 likes - 52 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

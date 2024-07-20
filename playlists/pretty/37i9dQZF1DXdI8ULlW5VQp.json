@@ -1,6 +1,6 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Lila Downs, Ni\u00f1a Pastori y Soledad en portada.",
-  "num_followers": 70024,
+  "num_followers": 70032,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
@@ -735,18 +735,22 @@
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
-        "name": "Pu\u00f1etas Mentales",
-        "url": "https://open.spotify.com/album/2CgMSZgcZAVyhq0vVSk7kn"
+        "name": "Lo Que Mis Ojos Ven",
+        "url": "https://open.spotify.com/album/0Em4TdhQo6KXPF23HJWXKA"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Paula Arenas",
+          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
+        },
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         }
       ],
-      "duration_ms": 139571,
-      "name": "Pu\u00f1etas Mentales",
-      "url": "https://open.spotify.com/track/4M54nkILKhxGO73bEMr3hU"
+      "duration_ms": 207224,
+      "name": "Lo Que Mis Ojos Ven",
+      "url": "https://open.spotify.com/track/31nYyIoeDUHkTvZ0bguvhr"
     },
     {
       "added_at": "2024-07-11 02:20:32",
@@ -771,26 +775,6 @@
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
-        "name": "Lo Que Mis Ojos Ven",
-        "url": "https://open.spotify.com/album/0Em4TdhQo6KXPF23HJWXKA"
-      },
-      "artists": [
-        {
-          "name": "Paula Arenas",
-          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
-        },
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 207224,
-      "name": "Lo Que Mis Ojos Ven",
-      "url": "https://open.spotify.com/track/31nYyIoeDUHkTvZ0bguvhr"
-    },
-    {
-      "added_at": "2024-07-11 02:20:32",
-      "album": {
         "name": "Ahora S\u00e9",
         "url": "https://open.spotify.com/album/7c0oX5ymPQwBlgO9ETKrXx"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 220161,
       "name": "Ahora S\u00e9",
       "url": "https://open.spotify.com/track/4Xn8A5LqK9p8wDDSG2gHiM"
+    },
+    {
+      "added_at": "2024-07-11 02:20:32",
+      "album": {
+        "name": "Pu\u00f1etas Mentales",
+        "url": "https://open.spotify.com/album/2CgMSZgcZAVyhq0vVSk7kn"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 139571,
+      "name": "Pu\u00f1etas Mentales",
+      "url": "https://open.spotify.com/track/4M54nkILKhxGO73bEMr3hU"
     },
     {
       "added_at": "2024-07-11 02:20:32",
@@ -871,6 +871,22 @@
       "duration_ms": 186333,
       "name": "Diosa",
       "url": "https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5"
+    },
+    {
+      "added_at": "2024-07-11 02:20:32",
+      "album": {
+        "name": "Dime Que S\u00ed",
+        "url": "https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 274601,
+      "name": "Dime Que S\u00ed",
+      "url": "https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY"
     },
     {
       "added_at": "2024-07-11 02:20:32",
@@ -963,38 +979,6 @@
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
-        "name": "Dime Que S\u00ed",
-        "url": "https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 274601,
-      "name": "Dime Que S\u00ed",
-      "url": "https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY"
-    },
-    {
-      "added_at": "2024-07-11 02:20:32",
-      "album": {
-        "name": "Quisiera",
-        "url": "https://open.spotify.com/album/6m4LTn3NGSZsIg8vznoVTp"
-      },
-      "artists": [
-        {
-          "name": "Alex Luna",
-          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
-        }
-      ],
-      "duration_ms": 183357,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/13balKJJGR2bqNFjObszuG"
-    },
-    {
-      "added_at": "2024-07-11 02:20:32",
-      "album": {
         "name": "Quer\u00eda Volverte a Ver",
         "url": "https://open.spotify.com/album/7K9bGfbvaK3k2DRjyWLBPO"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 251760,
       "name": "Quer\u00eda Volverte a Ver",
       "url": "https://open.spotify.com/track/2o5rzkYatnrHVUYrCbRFnE"
+    },
+    {
+      "added_at": "2024-07-11 02:20:32",
+      "album": {
+        "name": "Quisiera",
+        "url": "https://open.spotify.com/album/6m4LTn3NGSZsIg8vznoVTp"
+      },
+      "artists": [
+        {
+          "name": "Alex Luna",
+          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
+        }
+      ],
+      "duration_ms": 183357,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/13balKJJGR2bqNFjObszuG"
     },
     {
       "added_at": "2024-07-11 02:20:32",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
+        "name": "Las Canciones M\u00e1s Hermosas Son para Ti",
+        "url": "https://open.spotify.com/album/28jeqiktbF30fTzOIdSx1C"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+        }
+      ],
+      "duration_ms": 209052,
+      "name": "\u00bfQu\u00e9 Hago Con los Besos?",
+      "url": "https://open.spotify.com/track/7Ma67rqmM7JZBD3okCQ2W0"
+    },
+    {
+      "added_at": "2024-07-11 02:20:32",
+      "album": {
         "name": "nunca y despu\u00e9s",
         "url": "https://open.spotify.com/album/3JZKpaOiDOoanRYQc1nMOq"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 211006,
       "name": "nunca y despu\u00e9s",
       "url": "https://open.spotify.com/track/5M0quwzJafA2xYHv2fjk6e"
-    },
-    {
-      "added_at": "2024-07-11 02:20:32",
-      "album": {
-        "name": "Las Canciones M\u00e1s Hermosas Son para Ti",
-        "url": "https://open.spotify.com/album/28jeqiktbF30fTzOIdSx1C"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
-        }
-      ],
-      "duration_ms": 209052,
-      "name": "\u00bfQu\u00e9 Hago Con los Besos?",
-      "url": "https://open.spotify.com/track/7Ma67rqmM7JZBD3okCQ2W0"
     },
     {
       "added_at": "2024-07-11 02:20:32",
@@ -1259,34 +1259,6 @@
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
-        "name": "disfraz",
-        "url": "https://open.spotify.com/album/1aYecFP3ZxpUWWoBpBfRfY"
-      },
-      "artists": [
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        },
-        {
-          "name": "Valdo Rodriguez",
-          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
-        },
-        {
-          "name": "Irvin Mach",
-          "url": "https://open.spotify.com/artist/7MXgCL89Td8yUmscNmymst"
-        },
-        {
-          "name": "El Toed",
-          "url": "https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh"
-        }
-      ],
-      "duration_ms": 178588,
-      "name": "disfraz",
-      "url": "https://open.spotify.com/track/4eRLH2c7eyJmOylo7Nw47T"
-    },
-    {
-      "added_at": "2024-07-11 02:20:32",
-      "album": {
         "name": "Solo Los Amantes Sobreviven",
         "url": "https://open.spotify.com/album/607MeyFBaVjYitpJbPQaBx"
       },
@@ -1323,6 +1295,34 @@
       "duration_ms": 311618,
       "name": "Hubo Algo",
       "url": "https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4"
+    },
+    {
+      "added_at": "2024-07-11 02:20:32",
+      "album": {
+        "name": "disfraz",
+        "url": "https://open.spotify.com/album/1aYecFP3ZxpUWWoBpBfRfY"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Valdo Rodriguez",
+          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
+        },
+        {
+          "name": "Irvin Mach",
+          "url": "https://open.spotify.com/artist/7MXgCL89Td8yUmscNmymst"
+        },
+        {
+          "name": "El Toed",
+          "url": "https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh"
+        }
+      ],
+      "duration_ms": 178588,
+      "name": "disfraz",
+      "url": "https://open.spotify.com/track/4eRLH2c7eyJmOylo7Nw47T"
     },
     {
       "added_at": "2024-07-11 02:20:32",

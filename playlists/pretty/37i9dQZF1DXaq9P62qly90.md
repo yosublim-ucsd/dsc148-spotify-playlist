@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 
 > Conscious songs for everyday reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,835 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,836 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 13 | [Salvation](https://open.spotify.com/track/4va2tNNWYut7ycFZ2zjvTk) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Salvation](https://open.spotify.com/album/2rJJUaHPFt7uyS8qE7wrbR) | 4:19 |
 | 14 | [Permanent Holiday](https://open.spotify.com/track/73gASYnzwZAzq5IYQf4Hff) | [Mike Love](https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC) | [The Change I'm Seeking](https://open.spotify.com/album/4jCGl3siqH9eTslNqzudLR) | 8:02 |
 | 15 | [A Reminder \(Remix\)](https://open.spotify.com/track/3kEJ2teFzjpSrDgpKVgPPr) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [A Reminder \(Remix\)](https://open.spotify.com/album/3jDZSJd23RQUfCZvTAzPgA) | 4:45 |
-| 16 | [Sunday Vibe](https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Sunday Vibe](https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc) | 3:06 |
-| 17 | [I Was Just Leaving](https://open.spotify.com/track/2P7d62DM2Q1A9i6kkc4rgl) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [I Was Just Leaving](https://open.spotify.com/album/0x6QIanMYNoGBcXqG96LHW) | 2:58 |
+| 16 | [I Was Just Leaving](https://open.spotify.com/track/2P7d62DM2Q1A9i6kkc4rgl) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [I Was Just Leaving](https://open.spotify.com/album/0x6QIanMYNoGBcXqG96LHW) | 2:58 |
+| 17 | [Sunday Vibe](https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Sunday Vibe](https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc) | 3:06 |
 | 18 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
 | 19 | [Walking on the Moon \(Acoustic\)](https://open.spotify.com/track/1UExVMn2Abw8UNXWNMo0dZ) | [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [Cas Haley](https://open.spotify.com/album/2Rj0pHePr2SyUh6zfyDFaz) | 3:29 |
 | 20 | [These Are My Roots](https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO) | [Mike Love](https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC) | [These Are My Roots](https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC) | 3:54 |

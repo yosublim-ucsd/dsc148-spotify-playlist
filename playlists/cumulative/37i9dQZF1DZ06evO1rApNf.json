@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "This is Mau y Ricky. The essential tracks, all in one playlist.",
+  "description": "This Is Mau y Ricky. Los temas esenciales, todos en una lista.",
   "name": "This Is Mau y Ricky",
   "tracks": [
     {
@@ -682,7 +682,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 160653,
       "name": "Hijos Contigo",
       "url": "https://open.spotify.com/track/3m4nEtqr8vaHJCfc6yjasu"
@@ -1452,7 +1452,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 200960,
       "name": "Recuerdo",
       "url": "https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV"
@@ -1756,7 +1756,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 212053,
       "name": "Ya No Tiene Novio - Remix",
       "url": "https://open.spotify.com/track/7o3FMIu6KldnAwXaA8MO8x"

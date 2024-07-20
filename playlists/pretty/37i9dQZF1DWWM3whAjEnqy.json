@@ -1,6 +1,6 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 43440,
+  "num_followers": 43441,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "GG",
-        "url": "https://open.spotify.com/album/29zHxPajPzaDJ4CgMVWiHF"
-      },
-      "artists": [
-        {
-          "name": "Great Gable",
-          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
-        }
-      ],
-      "duration_ms": 243131,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/2y14MWseQnWXApjJjNCPm8"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Everything Is Easy",
         "url": "https://open.spotify.com/album/5Ic1mp3JN5Fv2gLrXK5y0r"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 197663,
       "name": "Everything Is Easy",
       "url": "https://open.spotify.com/track/2ME1Q6GWXOt0oEqBHtDFvY"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "GG",
+        "url": "https://open.spotify.com/album/29zHxPajPzaDJ4CgMVWiHF"
+      },
+      "artists": [
+        {
+          "name": "Great Gable",
+          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
+        }
+      ],
+      "duration_ms": 243131,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/2y14MWseQnWXApjJjNCPm8"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Milyakburra",
-        "url": "https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp"
-      },
-      "artists": [
-        {
-          "name": "Emily Wurramara",
-          "url": "https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF"
-        }
-      ],
-      "duration_ms": 171146,
-      "name": "Lady Blue",
-      "url": "https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Mystik",
         "url": "https://open.spotify.com/album/00yAwDfu7JLRlhvHSchMzu"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 249296,
       "name": "Mystik",
       "url": "https://open.spotify.com/track/0NnVzBW6TJLaEzcyXjqRDH"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Milyakburra",
+        "url": "https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp"
+      },
+      "artists": [
+        {
+          "name": "Emily Wurramara",
+          "url": "https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF"
+        }
+      ],
+      "duration_ms": 171146,
+      "name": "Lady Blue",
+      "url": "https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "The Breach EP",
-        "url": "https://open.spotify.com/album/6qjhxh5olXQ1y7T4PV2qSw"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 253848,
-      "name": "The Breach",
-      "url": "https://open.spotify.com/track/1rSrMVQbnYWihopHxGXhOD"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Talk It Out",
         "url": "https://open.spotify.com/album/1hK8ETmd5Dq4FOA5kWkGG6"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 190726,
       "name": "Talk It Out",
       "url": "https://open.spotify.com/track/3I6CQSc5hMvU4nh2DcTDBz"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "The Breach EP",
+        "url": "https://open.spotify.com/album/6qjhxh5olXQ1y7T4PV2qSw"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 253848,
+      "name": "The Breach",
+      "url": "https://open.spotify.com/track/1rSrMVQbnYWihopHxGXhOD"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Silence/Win",
-        "url": "https://open.spotify.com/album/69ggXQi589p8Nv08KRPXwD"
-      },
-      "artists": [
-        {
-          "name": "Kim Churchill",
-          "url": "https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho"
-        }
-      ],
-      "duration_ms": 248733,
-      "name": "Window to the Sky",
-      "url": "https://open.spotify.com/track/6jAyxL48SmPElMhu2dl0cg"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/6wTILmJx9wwnM0ppScFLxu"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 211943,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/75fAK9KhLkSB9FAqQdhN7N"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Silence/Win",
+        "url": "https://open.spotify.com/album/69ggXQi589p8Nv08KRPXwD"
+      },
+      "artists": [
+        {
+          "name": "Kim Churchill",
+          "url": "https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho"
+        }
+      ],
+      "duration_ms": 248733,
+      "name": "Window to the Sky",
+      "url": "https://open.spotify.com/track/6jAyxL48SmPElMhu2dl0cg"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Vantage Point",
-        "url": "https://open.spotify.com/album/3cVWxjvHrPozeQaiUfU9R4"
-      },
-      "artists": [
-        {
-          "name": "Sons of Zion",
-          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
-        }
-      ],
-      "duration_ms": 179642,
-      "name": "Drift Away",
-      "url": "https://open.spotify.com/track/2bx4jOMWpCbemnnRWfsMbx"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "My Own Pool of Light",
         "url": "https://open.spotify.com/album/4u59azivupUe4l6CDbwfxf"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 237080,
       "name": "Maybe You Know",
       "url": "https://open.spotify.com/track/6R36WcAtweEhKGCJQtD5GY"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Vantage Point",
+        "url": "https://open.spotify.com/album/3cVWxjvHrPozeQaiUfU9R4"
+      },
+      "artists": [
+        {
+          "name": "Sons of Zion",
+          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
+        }
+      ],
+      "duration_ms": 179642,
+      "name": "Drift Away",
+      "url": "https://open.spotify.com/track/2bx4jOMWpCbemnnRWfsMbx"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "After Hours, Close To Dawn",
-        "url": "https://open.spotify.com/album/3Ep9YB9ShW8DpbQNfI8hhG"
-      },
-      "artists": [
-        {
-          "name": "Kingswood",
-          "url": "https://open.spotify.com/artist/4zOw0E0NA7B4lIYyc3XNt5"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/6YKo8apCHPODSwnTiZTTV5"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Palo Alto",
         "url": "https://open.spotify.com/album/5z0zjbNK6hYM2FC3tWXwlp"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 199584,
       "name": "Palo Alto",
       "url": "https://open.spotify.com/track/0zSPHyEar2FuCSKP2BD3FF"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "After Hours, Close To Dawn",
+        "url": "https://open.spotify.com/album/3Ep9YB9ShW8DpbQNfI8hhG"
+      },
+      "artists": [
+        {
+          "name": "Kingswood",
+          "url": "https://open.spotify.com/artist/4zOw0E0NA7B4lIYyc3XNt5"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/6YKo8apCHPODSwnTiZTTV5"
     },
     {
       "added_at": "2023-11-15 02:04:48",

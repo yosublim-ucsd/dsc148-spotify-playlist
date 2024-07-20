@@ -155,6 +155,24 @@
     },
     {
       "album": {
+        "name": "GOODBYE SAL\u00d2",
+        "url": "https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211179,
+      "name": "badthiings (rip avicii)",
+      "url": "https://open.spotify.com/track/5DfmnhUS1s3m87fsDSedoe"
+    },
+    {
+      "album": {
         "name": "Beat Of Your Heart",
         "url": "https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr"
       },
@@ -536,7 +554,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 132467,
       "name": "Elevate (feat. RANI)",
       "url": "https://open.spotify.com/track/1CJUiFwl7TunU6G4tjFf2A"
@@ -1014,7 +1032,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 173500,
       "name": "I Love You (feat. Sissy Ford)",
       "url": "https://open.spotify.com/track/5aYcLOkIPcvORlRKlvaPG2"
@@ -1106,7 +1124,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 217525,
       "name": "In The Dark (Oh Darlin')",
       "url": "https://open.spotify.com/track/28VQYj6JLUzn4mQ8tQ1pfO"
@@ -2221,6 +2239,24 @@
     },
     {
       "album": {
+        "name": "some ep",
+        "url": "https://open.spotify.com/album/5OPRF4o1pypBIdGbKtAbCN"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427538,
+      "name": "Sever",
+      "url": "https://open.spotify.com/track/3sXl6kTbIhhPZ3mrho4woG"
+    },
+    {
+      "album": {
         "name": "SLEEP TONIGHT (THIS IS THE LIFE) [with R3HAB and Sam Feldt]",
         "url": "https://open.spotify.com/album/7CsXgmeC033GlMrmETGDru"
       },
@@ -2244,6 +2280,28 @@
       "duration_ms": 136312,
       "name": "SLEEP TONIGHT (THIS IS THE LIFE) - with R3HAB and Sam Feldt",
       "url": "https://open.spotify.com/track/3pt8FTbqdnMyh3r9noAYsQ"
+    },
+    {
+      "album": {
+        "name": "Smile (feat. Carolina Liar)",
+        "url": "https://open.spotify.com/album/5MwREpSNM3JMxAq8xqe3im"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Carolina Liar",
+          "url": "https://open.spotify.com/artist/0OuSnRyi1OkLPkR4AqzJwi"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192963,
+      "name": "Smile (feat. Carolina Liar)",
+      "url": "https://open.spotify.com/track/73SGUxXPloaU5CfeKkJf5D"
     },
     {
       "album": {
@@ -2518,7 +2576,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 525000,
       "name": "Wet",
       "url": "https://open.spotify.com/track/5zrAR15AflURH6qd9QhLra"
@@ -2672,7 +2730,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 168281,
       "name": "You again",
       "url": "https://open.spotify.com/track/7LhWNeUUlbdkzmeRY7WoCj"

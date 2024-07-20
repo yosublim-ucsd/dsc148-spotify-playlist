@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,480 songs - 3 day 9 hr 27 min
+1,481 songs - 3 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,8 +270,8 @@
 | [Chill](https://open.spotify.com/track/5NwA0hLKYsFcU3FVD5hD03) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Chill](https://open.spotify.com/album/6Nsop9onhJBLRsoQShepX8) | 2:57 | 2021-10-31 | 2022-07-17 |
 | [CHINWI](https://open.spotify.com/track/2BfFsGilHsx0bOe8RdY3pJ) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [BANDANA](https://open.spotify.com/album/4DBrAszM7FdWyblxrIKed3) | 3:41 | 2022-06-20 | 2022-06-22 |
 | [Chira cheba \- Remix](https://open.spotify.com/track/4x4nIfl6lDMhMD4RKdmBB8) | [Cheb Mourad](https://open.spotify.com/artist/2zjXHi6RZyaS2t0P1BrxBs), [Dj No Disc](https://open.spotify.com/artist/7HFgmZc3xwisJd0YXM1g0z) | [Chira cheba \(Remix\)](https://open.spotify.com/album/36LhrJF7oXv3hZ78JW0iGq) | 2:02 | 2024-04-11 | 2024-04-13 |
-| [CHIRON](https://open.spotify.com/track/45wxMKFaDHRTLxYxXKl0rc) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [DIARY OF A DEAD MAN](https://open.spotify.com/album/6vxkoCVCD9t5QWbSpeAmP8) | 2:29 | 2024-06-22 |  |
-| [CHIRON](https://open.spotify.com/track/46r8XGC6pHS7EEgn6xjrXD) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [CHIRON](https://open.spotify.com/album/1S2sseTcLXsHeyimeIz2gW) | 2:29 | 2024-06-15 | 2024-06-23 |
+| [CHIRON](https://open.spotify.com/track/45wxMKFaDHRTLxYxXKl0rc) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [DIARY OF A DEAD MAN](https://open.spotify.com/album/6vxkoCVCD9t5QWbSpeAmP8) | 2:29 | 2024-06-22 | 2024-07-20 |
+| [CHIRON](https://open.spotify.com/track/46r8XGC6pHS7EEgn6xjrXD) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [CHIRON](https://open.spotify.com/album/1S2sseTcLXsHeyimeIz2gW) | 2:29 | 2024-06-15 |  |
 | [Choc](https://open.spotify.com/track/7zZXOazsUVF5XZAQYU1ndH) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v), [Baby A Officiel](https://open.spotify.com/artist/6jyWB2TYDGfjxRO03DrPu3) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 3:43 | 2024-05-11 | 2024-05-16 |
 | [Chop \(Nouvelle École\)](https://open.spotify.com/track/6KHsTu4Ht4XYiWcZOOdwbW) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [Chop \(Nouvelle École\)](https://open.spotify.com/album/2vAVFfoAjUMrDpXtcYhp5U) | 3:15 | 2022-06-25 | 2022-08-07 |
 | [CHOUHA](https://open.spotify.com/track/2T8BFVrjpTuZgsp1nudcw9) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF), [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4) | [CHOUHA](https://open.spotify.com/album/21OeFv2xCNILgZWPJYJ4We) | 3:12 | 2023-12-29 | 2024-01-04 |
@@ -533,7 +533,7 @@
 | [Hallelujah](https://open.spotify.com/track/79ywMZ4XzXmwfL9NM1QQSz) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Hallelujah](https://open.spotify.com/album/5MNIwq83vbfgdOvQTMfRAM) | 2:58 | 2022-03-11 | 2024-06-25 |
 | [Halloween v3](https://open.spotify.com/track/5OyyKkQm8VBRTq6jeSbkWW) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 3:13 | 2024-05-11 | 2024-05-20 |
 | [HANGOVER](https://open.spotify.com/track/2VesYhyP75Gp0kye2PNRcM) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb), [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [VIBZ](https://open.spotify.com/album/5tQrJMLzU4BNGvhyF9ioqF) | 3:24 | 2021-07-25 | 2021-07-29 |
-| [Hanya Lwe9te](https://open.spotify.com/track/0MxvfoyHnrhPqcRGH61fvn) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Hanya Lwe9te](https://open.spotify.com/album/17YgJ4bcxu6TFYeVbPoQls) | 3:21 | 2024-06-22 |  |
+| [Hanya Lwe9te](https://open.spotify.com/track/0MxvfoyHnrhPqcRGH61fvn) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Hanya Lwe9te](https://open.spotify.com/album/17YgJ4bcxu6TFYeVbPoQls) | 3:21 | 2024-06-22 | 2024-07-20 |
 | [Haram \(Pablo II\)](https://open.spotify.com/track/1h7zX37KNW2NbL2EeyplVo) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Haram \(Pablo II\)](https://open.spotify.com/album/5Q2rEOjMrKzSMXMOMIIrrl) | 4:26 | 2023-06-06 | 2023-06-25 |
 | [Haram \(Pablo II\)](https://open.spotify.com/track/6AFbOjmJNeCHXmoh1Ve1XM) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Haram \(Pablo II\)](https://open.spotify.com/album/0yailt9L3LXP8gaHCW5gnD) | 4:26 | 2021-06-06 | 2023-06-07 |
 | [HASH N' BLEM \(feat\. Unknown T\)](https://open.spotify.com/track/0k2szier9Q8lboIphfqaNh) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:03 | 2023-11-25 | 2024-01-22 |
@@ -1429,6 +1429,7 @@
 | [Y Dor](https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun) | [Y Dor](https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR) | 2:25 | 2023-07-29 | 2024-05-03 |
 | [Ya Ayouni](https://open.spotify.com/track/5mayCpikqyQIDXWscGgNXf) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [Ya Ayouni](https://open.spotify.com/album/7qj7ixMmSbbC8G8FoaYzlu) | 4:21 | 2022-01-18 | 2022-05-08 |
 | [Ya Denya](https://open.spotify.com/track/16whsA6oQEJDzjKWa4hept) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ya Denya](https://open.spotify.com/album/2gS3rvgJD2djvs01xHCVAQ) | 4:12 | 2021-03-27\* | 2021-06-16 |
+| [Ya Galbi Berkek](https://open.spotify.com/track/0QT7JRfIC9qZloJ7symiUm) | [farid kalamity](https://open.spotify.com/artist/7FoC6zhlfGBo8wMzq7nn2h), [Farid Kalamity Feat Moo sive](https://open.spotify.com/artist/28POKI4oXOOQaau2CPKuWU) | [Ya Galbi Berkek](https://open.spotify.com/album/4seugfWTs0AP1ErlUkHrzm) | 3:39 | 2024-07-19 |  |
 | [Ya Hasra](https://open.spotify.com/track/46w0RuHSg4LYbMh1JjJU8j) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ya Hasra](https://open.spotify.com/album/0lHDyY2aMHz4WQrjFSpb20) | 5:40 | 2021-03-27\* | 2022-02-13 |
 | [Ya Hmed](https://open.spotify.com/track/3Ica0uL8RYkhG3YG0tpywf) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk), [Madara](https://open.spotify.com/artist/25lj3VIS5OU4AJDbTQvVI7) | [Ya Hmed](https://open.spotify.com/album/1mZHdQPQtSgdflf4sVWsVf) | 3:29 | 2021-11-16 | 2022-05-06 |
 | [Ya lbahri](https://open.spotify.com/track/62upkw0miJwuVpWVzHdaEV) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 3:14 | 2022-06-03 | 2022-08-28 |

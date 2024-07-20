@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cmFV9rWM0u.md) - [plain]
 
 > Break a sweat with this Zumba\-inspired playlist! Find a class at Zumba.com
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,793,602 likes - 65 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,793,585 likes - 65 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cmFV9rWM0u.md) - [plain]
 | 47 | [Chica Ideal](https://open.spotify.com/track/21N4Buj4xsyLb218lYle61) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Chica Ideal](https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct) | 3:03 |
 | 48 | [Sal y Perrea](https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:36 |
 | 49 | [Travesuras \- Remix](https://open.spotify.com/track/0VWLId2RwPCno9s1cJm2Vy) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f) | [Travesuras \(Remix\)](https://open.spotify.com/album/1rQpXDegLbNBpe0fshpeKa) | 5:24 |
-| 50 | [Puro Guayeteo](https://open.spotify.com/track/6sLqrGRUo6Ozgrn3c4Gqk2) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Mr\. W](https://open.spotify.com/album/3ajL8VGPHoWxKl2rsQtdGX) | 3:42 |
-| 51 | [COBARDE](https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [COBARDE](https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6) | 2:46 |
+| 50 | [COBARDE](https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [COBARDE](https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6) | 2:46 |
+| 51 | [Puro Guayeteo](https://open.spotify.com/track/6sLqrGRUo6Ozgrn3c4Gqk2) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Mr\. W](https://open.spotify.com/album/3ajL8VGPHoWxKl2rsQtdGX) | 3:42 |
 | 52 | [Dientes](https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Dientes](https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O) | 2:46 |
 | 53 | [PUNTO 40](https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [PUNTO 40](https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs) | 3:10 |
 | 54 | [TODO O NADA](https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 3:28 |

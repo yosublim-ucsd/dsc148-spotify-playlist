@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi",
-  "num_followers": 33121,
+  "num_followers": 33124,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpY9QQAAAAAB06+zklF4IRJd06wfidv3",
+  "snapshot_id": "Zpp7rQAAAACMukXNDVS/VX3O7b7diQTH",
   "tracks": [
     {
       "added_at": "2024-02-19 08:51:27",
@@ -23,6 +23,46 @@
       "duration_ms": 162206,
       "name": "Aata Gaani Aata",
       "url": "https://open.spotify.com/track/6mN6G6IetQns6xMtkxznVZ"
+    },
+    {
+      "added_at": "2024-07-19 14:43:57",
+      "album": {
+        "name": "Maawa Paata",
+        "url": "https://open.spotify.com/album/6thV698YCV2goAO1Jx6oTl"
+      },
+      "artists": [
+        {
+          "name": "Jammers",
+          "url": "https://open.spotify.com/artist/35rhxl9kHgmuqIODepTF6u"
+        },
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        },
+        {
+          "name": "Jagdish Chintala",
+          "url": "https://open.spotify.com/artist/1Ll6Pj8fy7R3e6ghT2lzVC"
+        },
+        {
+          "name": "Chinna Swamy",
+          "url": "https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS"
+        },
+        {
+          "name": "Naren RK Siddartha",
+          "url": "https://open.spotify.com/artist/3kmgV8x6lfoHZKSp9mrKBB"
+        },
+        {
+          "name": "Shashank Bhaskaruni",
+          "url": "https://open.spotify.com/artist/6IwTtuEKKoggjUtPgcObwD"
+        },
+        {
+          "name": "Srirag Vadlakonda",
+          "url": "https://open.spotify.com/artist/6OCxOIWN5WGB9iZSnYqwRb"
+        }
+      ],
+      "duration_ms": 159896,
+      "name": "Maawa Paata",
+      "url": "https://open.spotify.com/track/6fyg0c8ktTqKjEodSB9QgF"
     },
     {
       "added_at": "2024-07-12 08:13:14",
@@ -85,6 +125,30 @@
       "url": "https://open.spotify.com/track/5hxdnqbT4AavtOD6SSQhlV"
     },
     {
+      "added_at": "2024-07-19 14:43:57",
+      "album": {
+        "name": "Gola Gole",
+        "url": "https://open.spotify.com/album/6LeQn8ByEjDwDGxJMHWGxk"
+      },
+      "artists": [
+        {
+          "name": "Sunny Austin",
+          "url": "https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA"
+        },
+        {
+          "name": "Chinna Swamy",
+          "url": "https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS"
+        },
+        {
+          "name": "Darshana Menon",
+          "url": "https://open.spotify.com/artist/1wHsncgyVkVzF2H8gEdOCF"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "Gola Gole",
+      "url": "https://open.spotify.com/track/0oendWWefLEn9Uo2pI4lpN"
+    },
+    {
       "added_at": "2024-05-25 02:47:53",
       "album": {
         "name": "Thaanu",
@@ -125,6 +189,22 @@
       "url": "https://open.spotify.com/track/2Et9hHVe8lJRrZmzIjHPGI"
     },
     {
+      "added_at": "2024-07-19 14:43:57",
+      "album": {
+        "name": "Manasukinta Alajadi",
+        "url": "https://open.spotify.com/album/4qjWTHzrMQEVsnLZRZ7KG8"
+      },
+      "artists": [
+        {
+          "name": "Saathwik Yadavalli",
+          "url": "https://open.spotify.com/artist/4xqPYqU59SpgPH7nfJGVRz"
+        }
+      ],
+      "duration_ms": 335443,
+      "name": "Manasukinta Alajadi",
+      "url": "https://open.spotify.com/track/3ye1C6ye2mWhUDqLAAxQJO"
+    },
+    {
       "added_at": "2024-06-29 06:47:19",
       "album": {
         "name": "Kala",
@@ -147,6 +227,30 @@
       "duration_ms": 207310,
       "name": "Kala",
       "url": "https://open.spotify.com/track/1yJskNbmvl3OxtzCMZGOFu"
+    },
+    {
+      "added_at": "2024-04-05 05:02:44",
+      "album": {
+        "name": "O Seliya",
+        "url": "https://open.spotify.com/album/1Iub4oCI9zRZwUSdNRrI4h"
+      },
+      "artists": [
+        {
+          "name": "Ganesh Krovvidi",
+          "url": "https://open.spotify.com/artist/2raRqQL2ij740h5lHjng4V"
+        },
+        {
+          "name": "Ricky B",
+          "url": "https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc"
+        },
+        {
+          "name": "Feroz Israel",
+          "url": "https://open.spotify.com/artist/5YBkkXErEv1axnFc6kxsPQ"
+        }
+      ],
+      "duration_ms": 209400,
+      "name": "O Seliya",
+      "url": "https://open.spotify.com/track/6VoM9YOXgRXNEu7ilXm08c"
     },
     {
       "added_at": "2024-05-10 02:52:12",
@@ -241,46 +345,6 @@
       "url": "https://open.spotify.com/track/3t0HbbzwR3jw1nDMV7qhVR"
     },
     {
-      "added_at": "2024-04-05 05:02:44",
-      "album": {
-        "name": "O Seliya",
-        "url": "https://open.spotify.com/album/1Iub4oCI9zRZwUSdNRrI4h"
-      },
-      "artists": [
-        {
-          "name": "Ganesh Krovvidi",
-          "url": "https://open.spotify.com/artist/2raRqQL2ij740h5lHjng4V"
-        },
-        {
-          "name": "Ricky B",
-          "url": "https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc"
-        },
-        {
-          "name": "Feroz Israel",
-          "url": "https://open.spotify.com/artist/5YBkkXErEv1axnFc6kxsPQ"
-        }
-      ],
-      "duration_ms": 209400,
-      "name": "O Seliya",
-      "url": "https://open.spotify.com/track/6VoM9YOXgRXNEu7ilXm08c"
-    },
-    {
-      "added_at": "2024-05-27 04:59:04",
-      "album": {
-        "name": "Chukkalalo Chandruni Laga",
-        "url": "https://open.spotify.com/album/2yk4ThTqDGHqCW9qT9s4cf"
-      },
-      "artists": [
-        {
-          "name": "Gershom Penugula",
-          "url": "https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K"
-        }
-      ],
-      "duration_ms": 175985,
-      "name": "Chukkalalo Chandruni Laga",
-      "url": "https://open.spotify.com/track/2gLUUpbfzTYj2tQrXN7DID"
-    },
-    {
       "added_at": "2024-07-11 10:53:00",
       "album": {
         "name": "Priyatama",
@@ -355,22 +419,6 @@
       "duration_ms": 209996,
       "name": "Kalavarama",
       "url": "https://open.spotify.com/track/5sJUHIyPP0IBDoasbFKt31"
-    },
-    {
-      "added_at": "2024-04-25 11:25:24",
-      "album": {
-        "name": "PURPLE/CHRYSOLITE",
-        "url": "https://open.spotify.com/album/2j4Fgb7WDqjvhLSEkvA87e"
-      },
-      "artists": [
-        {
-          "name": "J.Frank",
-          "url": "https://open.spotify.com/artist/6MjtJioAJLnPJx93rKRXBx"
-        }
-      ],
-      "duration_ms": 169326,
-      "name": "PREMIKA",
-      "url": "https://open.spotify.com/track/5WIWh3L9x0AHq9f6y32uub"
     },
     {
       "added_at": "2024-03-17 07:06:34",
@@ -463,22 +511,6 @@
       "duration_ms": 187978,
       "name": "Ninnu Cheraga",
       "url": "https://open.spotify.com/track/0KFpBnnR9yAgFrlqje5xHy"
-    },
-    {
-      "added_at": "2024-04-19 04:59:46",
-      "album": {
-        "name": "Veluthunnaa",
-        "url": "https://open.spotify.com/album/3mPP4usMQBYnCozSl1JMEF"
-      },
-      "artists": [
-        {
-          "name": "Yazin Nizar",
-          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
-        }
-      ],
-      "duration_ms": 227550,
-      "name": "Veluthunnaa",
-      "url": "https://open.spotify.com/track/29LjHw8uiqgznxttdytpOt"
     },
     {
       "added_at": "2024-01-18 12:44:48",

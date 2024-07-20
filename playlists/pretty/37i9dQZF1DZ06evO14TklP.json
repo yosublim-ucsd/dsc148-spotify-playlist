@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 8135,
+  "num_followers": 8149,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAAAKs82+12HUIyp6mstjndkC",
+  "snapshot_id": "ZphbAAAAAADvYmWhFZKFFxtYiDelmFYD",
   "tracks": [
     {
       "added_at": null,
@@ -131,6 +131,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "F\u00daRIA",
+        "url": "https://open.spotify.com/album/3J5ykRCZav5xEqcZTkh7Sm"
+      },
+      "artists": [
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "name": "Monna Brutal",
+          "url": "https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 168588,
+      "name": "Maserati",
+      "url": "https://open.spotify.com/track/43cQmlREc5Fvt1f2Lo5RLz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "5min",
         "url": "https://open.spotify.com/album/0TMUGXzv71hCms04QO2b8b"
       },
@@ -155,30 +179,6 @@
       "duration_ms": 128181,
       "name": "5min",
       "url": "https://open.spotify.com/track/27AJfxwJCs8T2BxeVNbniw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F\u00daRIA",
-        "url": "https://open.spotify.com/album/3J5ykRCZav5xEqcZTkh7Sm"
-      },
-      "artists": [
-        {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        },
-        {
-          "name": "Monna Brutal",
-          "url": "https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 168588,
-      "name": "Maserati",
-      "url": "https://open.spotify.com/track/43cQmlREc5Fvt1f2Lo5RLz"
     },
     {
       "added_at": null,
@@ -815,6 +815,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "FEBRE AMARELA (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/59JY68uudM8V2Xm26iIZBL"
+      },
+      "artists": [
+        {
+          "name": "WillsBife",
+          "url": "https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3"
+        },
+        {
+          "name": "ONNiKA",
+          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "FREESTYLE DAS FAIXA ROSA",
+      "url": "https://open.spotify.com/track/5wmnvwl9CFEr2Td4xkJ1ZK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Dia \u00c9 Hoje",
         "url": "https://open.spotify.com/album/0Kk44oAU5n6vR6eEFEh41O"
       },
@@ -855,30 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FEBRE AMARELA (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/59JY68uudM8V2Xm26iIZBL"
-      },
-      "artists": [
-        {
-          "name": "WillsBife",
-          "url": "https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3"
-        },
-        {
-          "name": "ONNiKA",
-          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "FREESTYLE DAS FAIXA ROSA",
-      "url": "https://open.spotify.com/track/5wmnvwl9CFEr2Td4xkJ1ZK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Temporary Lover",
         "url": "https://open.spotify.com/album/0OVY3vUCNOUZ1Ft45kPG9G"
       },
@@ -895,50 +895,6 @@
       "duration_ms": 231367,
       "name": "Temporary Lover",
       "url": "https://open.spotify.com/track/2ZbNMj59rGrfDrKOHjOQTN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quem N\u00e3o Erra em 2024",
-        "url": "https://open.spotify.com/album/4ecWpUTm8kB4ZRHgrzl9Sn"
-      },
-      "artists": [
-        {
-          "name": "MC Saci",
-          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Dj Js da Bl",
-          "url": "https://open.spotify.com/artist/4WsJ6J8ULT2wveR7ZdYdf4"
-        }
-      ],
-      "duration_ms": 132922,
-      "name": "Canceriana Nata",
-      "url": "https://open.spotify.com/track/2Vt28AiNmO2Y4HpIpY7AxZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bourbon (Ao Vivo no Est\u00fadio MangoLab)",
-        "url": "https://open.spotify.com/album/5Z9yIfKWr5Z3gxSu1Akmw8"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "MangoLab",
-          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
-        }
-      ],
-      "duration_ms": 110348,
-      "name": "Bourbon - Ao Vivo no Est\u00fadio MangoLab",
-      "url": "https://open.spotify.com/track/4UMHhiFTQwywcStHOjKzVc"
     },
     {
       "added_at": null,
@@ -971,6 +927,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bourbon (Ao Vivo no Est\u00fadio MangoLab)",
+        "url": "https://open.spotify.com/album/5Z9yIfKWr5Z3gxSu1Akmw8"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "MangoLab",
+          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
+        }
+      ],
+      "duration_ms": 110348,
+      "name": "Bourbon - Ao Vivo no Est\u00fadio MangoLab",
+      "url": "https://open.spotify.com/track/4UMHhiFTQwywcStHOjKzVc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Real #1",
         "url": "https://open.spotify.com/album/5RqJ4CKcQh27b9ReXQtv7L"
       },
@@ -995,6 +971,30 @@
       "duration_ms": 164631,
       "name": "Real #1",
       "url": "https://open.spotify.com/track/3MYXpGRSON2fnk5mBDXZYQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quem N\u00e3o Erra em 2024",
+        "url": "https://open.spotify.com/album/4ecWpUTm8kB4ZRHgrzl9Sn"
+      },
+      "artists": [
+        {
+          "name": "MC Saci",
+          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Dj Js da Bl",
+          "url": "https://open.spotify.com/artist/4WsJ6J8ULT2wveR7ZdYdf4"
+        }
+      ],
+      "duration_ms": 132922,
+      "name": "Canceriana Nata",
+      "url": "https://open.spotify.com/track/2Vt28AiNmO2Y4HpIpY7AxZ"
     },
     {
       "added_at": null,

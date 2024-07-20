@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 
 > Grandes sucessos dos anos 80 para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,641 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,672 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 | 97 | [Infinita Highway](https://open.spotify.com/track/266WEiJhZI1dNUcOqr7Yzi) | [Engenheiros Do Hawaii](https://open.spotify.com/artist/0GNq4xh8uFCyihPurnunf7) | [A Revolta Dos Dandis](https://open.spotify.com/album/3EYoZQUIKrDPd1teAZbSsC) | 6:12 |
 | 98 | [Ainda É Cedo](https://open.spotify.com/track/7uscfoAoI65JcSY4NyHg1t) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Legião Urbana](https://open.spotify.com/album/3wN9mC8YEdxn4VzdQINF1k) | 3:57 |
 | 99 | [O último romântico](https://open.spotify.com/track/3m2FNr5FlOyf94Slpae7vy) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [O Último Romântico](https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7) | 4:12 |
-| 100 | [Holiday](https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/1DWWb4Q39mp1T3NgyscowF) | 3:51 |
+| 100 | [Vital E Sua Moto](https://open.spotify.com/track/5XKUTawRWuTb8edaGn38gB) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Cinema Mudo](https://open.spotify.com/album/1ufuoCMD2OXmkUYNDeQxPV) | 3:11 |
 
 Snapshot ID: `Zo2iBgAAAAAnmYCJUgfIUXQvdD79h0tk`

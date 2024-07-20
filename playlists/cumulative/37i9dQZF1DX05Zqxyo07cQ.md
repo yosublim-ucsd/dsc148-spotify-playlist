@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-561 songs - 1 day 3 hr 41 min
+562 songs - 1 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Atmospherical Aura](https://open.spotify.com/track/5hYlPIXXwNPr4XavYPuiXr) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Atmospherical Aura](https://open.spotify.com/album/2z3LxcaSWnGzElgfM7vH8X) | 3:20 | 2024-01-17 | 2024-03-21 |
 | [Atwined](https://open.spotify.com/track/1heAYXQYiL5e2VBRClCaif) | [Leonid Antonov](https://open.spotify.com/artist/32fb0CzojuxZhDwienUYu5) | [Atwined](https://open.spotify.com/album/6TTy6hUzyFliywFJLXfYsk) | 2:20 | 2023-03-23 | 2024-02-09 |
 | [Auguries](https://open.spotify.com/track/0r6dzNmVBGVqNAe86v1YVw) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Auguries](https://open.spotify.com/album/4h4VsyU4i64AH1leEjfBSa) | 2:46 | 2024-03-06 | 2024-07-16 |
-| [Aura Serena](https://open.spotify.com/track/0ZeAWj2BGa6VoJUBzN4bZE) | [Coêlie Couvez](https://open.spotify.com/artist/76RIL7v2EFaMgfcMdLfIXq) | [Aura Serena](https://open.spotify.com/album/3ogABRGwm1rntxXBNxOFVX) | 2:36 | 2024-02-08 |  |
+| [Aura Serena](https://open.spotify.com/track/0ZeAWj2BGa6VoJUBzN4bZE) | [Coêlie Couvez](https://open.spotify.com/artist/76RIL7v2EFaMgfcMdLfIXq) | [Aura Serena](https://open.spotify.com/album/3ogABRGwm1rntxXBNxOFVX) | 2:36 | 2024-02-08 | 2024-07-20 |
 | [Balance Of Life](https://open.spotify.com/track/1Hue36yxMqCh9xX6TQ39pP) | [Baba Hall](https://open.spotify.com/artist/2mcRfqvRv9XFXnTmKMFRuV) | [Balance Of Life](https://open.spotify.com/album/79n1gHtnuCU27pmq5wNHNw) | 3:02 | 2024-07-15 |  |
 | [Barefoot](https://open.spotify.com/track/4C97XW6FKoCdgyXoTgB6bV) | [Don Salfva](https://open.spotify.com/artist/1Qoope6yvhZ1qDZoEGMUdW) | [Barefoot](https://open.spotify.com/album/1voQMtrtjwjSzDq6urVhSV) | 2:59 | 2024-05-20 |  |
 | [Basic Meditation](https://open.spotify.com/track/3MlyE6l0NIyTvLAIyojRWp) | [Maria Botican](https://open.spotify.com/artist/02CZQLikIIoZB7rhBk5PvT) | [Basic Meditation](https://open.spotify.com/album/4EIsO7ZvPEJvHOijkaQX53) | 3:02 | 2024-01-17 |  |
@@ -482,6 +482,7 @@
 | [Star Fallen](https://open.spotify.com/track/0pXHLfZ33II05CmcqiEzlG) | [Ventura Lumi](https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4) | [Star Fallen](https://open.spotify.com/album/6z8UZg8mr2LcqBee8iXsPG) | 4:14 | 2024-02-08 | 2024-03-07 |
 | [Star Nebula](https://open.spotify.com/track/2Xf3Bgs0YghPmBITagkKyz) | [Ayala Cola](https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA) | [Star Nebula](https://open.spotify.com/album/1sovGNMgI8ii8qiNxGthjp) | 3:06 | 2024-04-05 |  |
 | [Star Sapphire](https://open.spotify.com/track/4PEaexNSqrYBG2oGVyVhgt) | [Galactica Pivot](https://open.spotify.com/artist/4GwyYAQXedw9Rf6R5lPqiG) | [Star Sapphire](https://open.spotify.com/album/0QfpBOzWW1pSX3rxU35BFy) | 2:21 | 2024-03-20 |  |
+| [Stardust Memories](https://open.spotify.com/track/72PXvumKV3t0Eip3D8vkM4) | [Celestelle](https://open.spotify.com/artist/4ddXdxD2ZJ1bgPdoKPsvaX) | [Stardust Memories](https://open.spotify.com/album/5U0l3I3b2h0nOiZrphlNRv) | 2:58 | 2024-07-15 |  |
 | [State of Unreality](https://open.spotify.com/track/3rKCZIXrsC7T6XPJhXKAQJ) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [State of Unreality](https://open.spotify.com/album/7xVYocetlbRmYIekq00dVt) | 2:41 | 2023-03-23 | 2024-01-18 |
 | [Stay A While](https://open.spotify.com/track/5MxNNBnvKIZ1D2IkwB753i) | [Elliott Duncan](https://open.spotify.com/artist/2QoOKA3eotuERltYH8cThZ) | [Stay A While](https://open.spotify.com/album/0LtvCsNWrKLG8n7i3AhXqT) | 2:57 | 2023-03-23 | 2024-05-05 |
 | [Stelle](https://open.spotify.com/track/2akxDSUjKxkwuRfuc6HFNH) | [Tiziano Magro](https://open.spotify.com/artist/5i3UTUN8b39fBrRIHfQ9H4) | [Stelle](https://open.spotify.com/album/3gATwUG713NmNIrhkYek6P) | 3:22 | 2023-03-23 | 2024-02-09 |

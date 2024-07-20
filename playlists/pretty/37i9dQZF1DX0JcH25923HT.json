@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 460020,
+  "num_followers": 460189,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -502,19 +502,11 @@
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
         }
       ],
-      "duration_ms": 240253,
-      "name": "Hablamos Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/1V8XneTrX6kKeoxYbk4x6h"
+      "duration_ms": 243275,
+      "name": "25/8",
+      "url": "https://open.spotify.com/track/4NqQaovM14WR2hNPMFxgjb"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -702,11 +694,19 @@
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
         }
       ],
-      "duration_ms": 243275,
-      "name": "25/8",
-      "url": "https://open.spotify.com/track/4NqQaovM14WR2hNPMFxgjb"
+      "duration_ms": 240253,
+      "name": "Hablamos Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/1V8XneTrX6kKeoxYbk4x6h"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -763,30 +763,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Pininfarina (Remix)",
-        "url": "https://open.spotify.com/album/0CzV3HI7g08eTofa53ewRP"
-      },
-      "artists": [
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        },
-        {
-          "name": "Neo Pistea",
-          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 260787,
-      "name": "Pininfarina - Remix",
-      "url": "https://open.spotify.com/track/1mVLbFwad1wce7mAhFw2Ih"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn"
       },
@@ -807,6 +783,30 @@
       "duration_ms": 305333,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Pininfarina (Remix)",
+        "url": "https://open.spotify.com/album/0CzV3HI7g08eTofa53ewRP"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 260787,
+      "name": "Pininfarina - Remix",
+      "url": "https://open.spotify.com/track/1mVLbFwad1wce7mAhFw2Ih"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -851,30 +851,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Sauce Boyz",
-        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        }
-      ],
-      "duration_ms": 184405,
-      "name": "Hennessy",
-      "url": "https://open.spotify.com/track/3A4mcukwxLsaD5Q4J5Iixr"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "B.U.H.O",
         "url": "https://open.spotify.com/album/03obMR1fgKaIIuQHEZDNee"
       },
@@ -911,6 +887,30 @@
       "duration_ms": 298393,
       "name": "B.U.H.O",
       "url": "https://open.spotify.com/track/3juYl7RDkfwMGX5a17ach5"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Sauce Boyz",
+        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "duration_ms": 184405,
+      "name": "Hennessy",
+      "url": "https://open.spotify.com/track/3A4mcukwxLsaD5Q4J5Iixr"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Flexin'",
+        "url": "https://open.spotify.com/album/7GHdU4lGW377dQYUfpWR7u"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "duration_ms": 179383,
+      "name": "Flexin'",
+      "url": "https://open.spotify.com/track/0hwEhPxCBLKiqeBMZavGAv"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Buen Viaje",
         "url": "https://open.spotify.com/album/5VeCe0dQWJgeQ2zQG1K58m"
       },
@@ -1131,26 +1151,6 @@
       "duration_ms": 221802,
       "name": "Vengo De Nada",
       "url": "https://open.spotify.com/track/5pUlI3bMpx2GPu7rXBbk0w"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Flexin'",
-        "url": "https://open.spotify.com/album/7GHdU4lGW377dQYUfpWR7u"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        }
-      ],
-      "duration_ms": 179383,
-      "name": "Flexin'",
-      "url": "https://open.spotify.com/track/0hwEhPxCBLKiqeBMZavGAv"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Keoland",
-        "url": "https://open.spotify.com/album/55LyR7TjjagrB1DinBBlLI"
-      },
-      "artists": [
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Miss U",
-      "url": "https://open.spotify.com/track/17NW5LLmN6PXrUdknZ6iT1"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Dillom: Bzrp Music Sessions, Vol. 9",
         "url": "https://open.spotify.com/album/7EpZ3YjIPfaeB5MAzI5HnB"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 151843,
       "name": "Dillom: Bzrp Music Sessions, Vol. 9",
       "url": "https://open.spotify.com/track/6Vwfjz5LsHKTYY5IzhKW2A"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Keoland",
+        "url": "https://open.spotify.com/album/55LyR7TjjagrB1DinBBlLI"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Miss U",
+      "url": "https://open.spotify.com/track/17NW5LLmN6PXrUdknZ6iT1"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Apaga el celular",
+        "url": "https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 225942,
+      "name": "Apaga el Celular",
+      "url": "https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "La Cone",
         "url": "https://open.spotify.com/album/4GXtfTQ5fsxTOc0TgGLlDL"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 251942,
       "name": "La Cone",
       "url": "https://open.spotify.com/track/4QV1UDysVcpkHOGh2va5nt"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Apaga el celular",
-        "url": "https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 225942,
-      "name": "Apaga el Celular",
-      "url": "https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Buf\u00f3n",
+        "url": "https://open.spotify.com/album/5RpGiCddWLzGrrAsB6EcgI"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Buf\u00f3n",
+      "url": "https://open.spotify.com/track/6ovp1nCwIAOSMotiCF7pjk"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Emmanuel",
         "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 212863,
       "name": "Cuenta Conmigo",
       "url": "https://open.spotify.com/track/09mher1pkrrvgc5PKBbvxS"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Buf\u00f3n",
-        "url": "https://open.spotify.com/album/5RpGiCddWLzGrrAsB6EcgI"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Buf\u00f3n",
-      "url": "https://open.spotify.com/track/6ovp1nCwIAOSMotiCF7pjk"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -2139,6 +2139,26 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Se Termin\u00f3 (feat. Kodigo)",
+        "url": "https://open.spotify.com/album/2gFUic8OPDGYxehK7JIddH"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        }
+      ],
+      "duration_ms": 202083,
+      "name": "Se Termin\u00f3 (feat. Kodigo)",
+      "url": "https://open.spotify.com/track/4dpNEp0XiI4dP2soHsxDkZ"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Yelo",
         "url": "https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi"
       },
@@ -2243,26 +2263,6 @@
       "duration_ms": 422211,
       "name": "La Mia - Remix",
       "url": "https://open.spotify.com/track/59GJkQNSKKA7km23fYj7dW"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Se Termin\u00f3 (feat. Kodigo)",
-        "url": "https://open.spotify.com/album/2gFUic8OPDGYxehK7JIddH"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Kodigo",
-          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
-        }
-      ],
-      "duration_ms": 202083,
-      "name": "Se Termin\u00f3 (feat. Kodigo)",
-      "url": "https://open.spotify.com/track/4dpNEp0XiI4dP2soHsxDkZ"
     },
     {
       "added_at": "2024-03-08 16:14:30",

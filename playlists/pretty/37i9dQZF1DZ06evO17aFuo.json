@@ -1,12 +1,12 @@
 {
-  "description": "This is Megadeth. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 285238,
+  "description": "This is Megadeth. The essential tracks, all in one playlist.",
+  "num_followers": 285296,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAABQOiLxLQWCOzznzgTaF647",
+  "snapshot_id": "ZphbAAAAAAAzAtPj+MmJljfRoMI7QsP3",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 319266,
-      "name": "Tornado Of Souls - 2004 Remix",
-      "url": "https://open.spotify.com/track/4E5xVW505akJX0wcKj8Mpd"
+      "duration_ms": 392600,
+      "name": "Holy Wars...The Punishment Due - 2004 Remix",
+      "url": "https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS"
     },
     {
       "added_at": null,
@@ -59,38 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace Sells...But Who's Buying (Deluxe Edition - Remastered)",
-        "url": "https://open.spotify.com/album/4PqSk2iBHnsYQK0ecXjS9k"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 244160,
-      "name": "Peace Sells - Remastered",
-      "url": "https://open.spotify.com/track/5a2hIQWInPjqkkFiUEgxoX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rust In Peace (2004 Remix / Expanded Edition)",
-        "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 311200,
-      "name": "Hangar 18 - 2004 Remix",
-      "url": "https://open.spotify.com/track/6b6uLZsoGhObYexIxnRbIb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Countdown To Extinction (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
@@ -107,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hidden Treasures",
-        "url": "https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY"
+        "name": "Rust In Peace (2004 Remix / Expanded Edition)",
+        "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
       },
       "artists": [
         {
@@ -116,9 +84,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 152600,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/0WTc2jsUgF4Y2MOz0aYvsR"
+      "duration_ms": 319266,
+      "name": "Tornado Of Souls - 2004 Remix",
+      "url": "https://open.spotify.com/track/4E5xVW505akJX0wcKj8Mpd"
     },
     {
       "added_at": null,
@@ -132,9 +100,25 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 217800,
-      "name": "She-Wolf - Remastered 2004 / Remixed",
-      "url": "https://open.spotify.com/track/5MhNgheI9IjDxQS5XQ3Ojo"
+      "duration_ms": 311533,
+      "name": "Trust - Remastered 2004 / Remixed",
+      "url": "https://open.spotify.com/track/5emb8RDOZtpXlw6D0eEQbz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hidden Treasures",
+        "url": "https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 152600,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/0WTc2jsUgF4Y2MOz0aYvsR"
     },
     {
       "added_at": null,
@@ -187,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cryptic Writings (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL"
+        "name": "The Sick, The Dying\u2026 And The Dead!",
+        "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
       },
       "artists": [
         {
@@ -196,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 311533,
-      "name": "Trust - Remastered 2004 / Remixed",
-      "url": "https://open.spotify.com/track/5emb8RDOZtpXlw6D0eEQbz"
+      "duration_ms": 269466,
+      "name": "We\u2019ll Be Back",
+      "url": "https://open.spotify.com/track/1Ap9wotYS99H8R17VONySZ"
     },
     {
       "added_at": null,
@@ -215,22 +199,6 @@
       "duration_ms": 268706,
       "name": "Promises",
       "url": "https://open.spotify.com/track/196rNjJkKTjsk2NTEtJKLq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Sick, The Dying\u2026 And The Dead!",
-        "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 269466,
-      "name": "We\u2019ll Be Back",
-      "url": "https://open.spotify.com/track/1Ap9wotYS99H8R17VONySZ"
     },
     {
       "added_at": null,
@@ -267,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Far, So Good...So What! (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 386600,
-      "name": "In My Darkest Hour - Remastered 2004",
-      "url": "https://open.spotify.com/track/5LO0sJCkNMZYLYeGOvblLu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sick, The Dying\u2026 And The Dead!",
         "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
       },
@@ -295,6 +247,22 @@
       "duration_ms": 304053,
       "name": "The Sick, The Dying\u2026 And The Dead!",
       "url": "https://open.spotify.com/track/6RzK7XvwxnRq6AKDklJS6L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Far, So Good...So What! (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 386600,
+      "name": "In My Darkest Hour - Remastered 2004",
+      "url": "https://open.spotify.com/track/5LO0sJCkNMZYLYeGOvblLu"
     },
     {
       "added_at": null,
@@ -571,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hidden Treasures",
-        "url": "https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 238946,
-      "name": "99 Ways To Die",
-      "url": "https://open.spotify.com/track/75t7W9LYbkgbkeT6B5EoHM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rust In Peace (2004 Remix / Expanded Edition)",
         "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
       },
@@ -603,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The System Has Failed",
-        "url": "https://open.spotify.com/album/61r8RVSOccHFbMtUDzGpns"
+        "name": "Hidden Treasures",
+        "url": "https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY"
       },
       "artists": [
         {
@@ -612,9 +564,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 40538,
-      "name": "I Know Jack",
-      "url": "https://open.spotify.com/track/0QmZdn4mS4Ev2mcH9xYZU4"
+      "duration_ms": 238946,
+      "name": "99 Ways To Die",
+      "url": "https://open.spotify.com/track/75t7W9LYbkgbkeT6B5EoHM"
     },
     {
       "added_at": null,
@@ -635,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rust In Peace",
-        "url": "https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv"
+        "name": "The System Has Failed",
+        "url": "https://open.spotify.com/album/61r8RVSOccHFbMtUDzGpns"
       },
       "artists": [
         {
@@ -644,9 +596,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 110533,
-      "name": "Dawn Patrol",
-      "url": "https://open.spotify.com/track/4b2GAM5mE3K0btATdsi0UO"
+      "duration_ms": 40538,
+      "name": "I Know Jack",
+      "url": "https://open.spotify.com/track/0QmZdn4mS4Ev2mcH9xYZU4"
     },
     {
       "added_at": null,
@@ -663,6 +615,22 @@
       "duration_ms": 302333,
       "name": "The Conjuring - Remastered",
       "url": "https://open.spotify.com/track/0pv49erP5wxMZMnprRCqXT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rust In Peace",
+        "url": "https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 110533,
+      "name": "Dawn Patrol",
+      "url": "https://open.spotify.com/track/4b2GAM5mE3K0btATdsi0UO"
     },
     {
       "added_at": null,
@@ -703,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The World Needs a Hero",
-        "url": "https://open.spotify.com/album/1BbQ01oDFvVK4aHdgvsBB9"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 239413,
-      "name": "Return to Hangar",
-      "url": "https://open.spotify.com/track/3ZKHEhU9lhOhCYWXtKykBl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
       },
@@ -747,6 +699,22 @@
       "duration_ms": 190040,
       "name": "Cold Sweat",
       "url": "https://open.spotify.com/track/5UJraESM8I4ksmQoEzu95i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The World Needs a Hero",
+        "url": "https://open.spotify.com/album/1BbQ01oDFvVK4aHdgvsBB9"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 239413,
+      "name": "Return to Hangar",
+      "url": "https://open.spotify.com/track/3ZKHEhU9lhOhCYWXtKykBl"
     },
     {
       "added_at": null,
@@ -811,6 +779,38 @@
       "duration_ms": 309306,
       "name": "Sudden Death",
       "url": "https://open.spotify.com/track/1JjrlHVsqKFDr0j8PebFnp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 214013,
+      "name": "Lying In State",
+      "url": "https://open.spotify.com/track/6gQ0syotEbHeDIYTC4EoSf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sick, The Dying\u2026 And The Dead!",
+        "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 312800,
+      "name": "Killing Time",
+      "url": "https://open.spotify.com/track/5Y15AQnjSQwX5790ZP8OJm"
     }
   ],
   "unique_name": "This Is Megadeth",

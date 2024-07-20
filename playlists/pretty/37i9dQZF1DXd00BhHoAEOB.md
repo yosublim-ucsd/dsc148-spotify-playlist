@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 
 > Planta de la bugambilia que me cubres y me matas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,102 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,119 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,10 +61,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 51 | [Siempre Te Busqué](https://open.spotify.com/track/7a75CWRq82AGSHdL5Qw515) | [Monocordio](https://open.spotify.com/artist/2aDuDJULvIt8qs08LIVNkU) | [El Primer Rayo de Sol \- EP](https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ) | 4:25 |
 | 52 | [Brindo](https://open.spotify.com/track/3XZdg2qjBuumJJPOKAgQgu) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Brindo](https://open.spotify.com/album/5DaEYh5UYRug3BhszGYsvY) | 3:18 |
 | 53 | [Que te vaya bonito](https://open.spotify.com/track/1XsYSawDnMWDwQHiEeUzXe) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Chavela Vargas\. Sus 40 Grandes Canciones](https://open.spotify.com/album/0c4CIsqk0vOViJXGmrW9WP) | 3:22 |
-| 54 | [El Jardin](https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [8 Años](https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP) | 3:20 |
-| 55 | [Ódiame](https://open.spotify.com/track/5QBKmig3mYQawgaDJUwYbo) | [Flor Amargo](https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb), [Michelle Rodriguez](https://open.spotify.com/artist/2OhJipX1VIY7Dyba4uGvWb) | [Ódiame](https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt) | 3:13 |
-| 56 | [Se Me Va A Quemar El Corazón](https://open.spotify.com/track/2l2J1WVVzKRToOm0R2lhZ9) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Se Me Va A Quemar El Corazón](https://open.spotify.com/album/3GCJk2I7oqa1WTKtaGv9ya) | 3:58 |
-| 57 | [Volar](https://open.spotify.com/track/6PNhKRQDm9vQuPQcnK6SJm) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup), [Juan Cirerol](https://open.spotify.com/artist/0zipD52jhXFlSyN84URtCm) | [Volar](https://open.spotify.com/album/7iRSlrtY3Hpw1j6QwJ9Rg0) | 3:56 |
+| 54 | [Ódiame](https://open.spotify.com/track/5QBKmig3mYQawgaDJUwYbo) | [Flor Amargo](https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb), [Michelle Rodriguez](https://open.spotify.com/artist/2OhJipX1VIY7Dyba4uGvWb) | [Ódiame](https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt) | 3:13 |
+| 55 | [Se Me Va A Quemar El Corazón](https://open.spotify.com/track/2l2J1WVVzKRToOm0R2lhZ9) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Se Me Va A Quemar El Corazón](https://open.spotify.com/album/3GCJk2I7oqa1WTKtaGv9ya) | 3:58 |
+| 56 | [Volar](https://open.spotify.com/track/6PNhKRQDm9vQuPQcnK6SJm) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup), [Juan Cirerol](https://open.spotify.com/artist/0zipD52jhXFlSyN84URtCm) | [Volar](https://open.spotify.com/album/7iRSlrtY3Hpw1j6QwJ9Rg0) | 3:56 |
+| 57 | [El Jardin](https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [8 Años](https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP) | 3:20 |
 | 58 | [Me Haces Existir](https://open.spotify.com/track/6xoDLYJLowbigt8pqnthpx) | [Monocordio](https://open.spotify.com/artist/2aDuDJULvIt8qs08LIVNkU) | [El Primer Rayo de Sol \- EP](https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ) | 4:49 |
 | 59 | [Debut Y Despedida](https://open.spotify.com/track/7CvBC3ZivExveWMMjXBYS9) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Cuatro Copas Bohemia En La Finca Altozano \(Parte 1\)](https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23) | 3:03 |
 | 60 | [La Flor De La Canela](https://open.spotify.com/track/1uNBXMLgAC1mx1KH7reIG5) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y), [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Ciudadana del Mundo Volumen 1](https://open.spotify.com/album/2vhg2TUJPxODrZhLwtp8bR) | 3:22 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 67 | [Adentro](https://open.spotify.com/track/0xq1O6ihCy7Y6U2gBEGdPt) | [Rob](https://open.spotify.com/artist/08MbVpIfR68DibfHcDYaUe), [Jack Lahana](https://open.spotify.com/artist/1hN9BKDXYUmkZa9B1gOn69), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Adentro](https://open.spotify.com/album/4M5M5qXVRSieQR6QMf3PQ1) | 3:48 |
 | 68 | [Still I Wake Up In The Morning Thinking Of You \- demo](https://open.spotify.com/track/2Hp8RvXk33BjydwgJrtb7X) | [Goma](https://open.spotify.com/artist/0DAsx2InZwMNTnfkd4GXa4) | [Happy\-fi Compilación Vol\. 2](https://open.spotify.com/album/1SctU0rJACQseZrrc9IEGE) | 4:01 |
 | 69 | [Caras Lindas](https://open.spotify.com/track/2sh3LZ6VPJSIUUuhbx3P9I) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Susana Baca](https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS) | 4:58 |
-| 70 | [Rayando el Sol](https://open.spotify.com/track/0aYUIQyAR6P7R4FtEEG9Ik) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Chavela Vargas](https://open.spotify.com/album/2Z3BXtXY75OOYcJljBozCb) | 2:27 |
-| 71 | [Hace Tiempo](https://open.spotify.com/track/6ogB0aCCl5XVujpCruVvrm) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Hace Tiempo](https://open.spotify.com/album/0MxQ1anNCPBb8nd8rQhe2J) | 4:12 |
+| 70 | [Hace Tiempo](https://open.spotify.com/track/6ogB0aCCl5XVujpCruVvrm) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Hace Tiempo](https://open.spotify.com/album/0MxQ1anNCPBb8nd8rQhe2J) | 4:12 |
+| 71 | [Rayando el Sol](https://open.spotify.com/track/0aYUIQyAR6P7R4FtEEG9Ik) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Chavela Vargas](https://open.spotify.com/album/2Z3BXtXY75OOYcJljBozCb) | 2:27 |
 | 72 | [Voy Despacito](https://open.spotify.com/track/1v6edhOXV6SxEJzKYmUVp8) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Voy Despacito](https://open.spotify.com/album/3Gzwvs7BivlrMkNld3ywjS) | 4:19 |
 | 73 | [Rubidio 37](https://open.spotify.com/track/0VgyUfMMqq3aqFmPuKHVyM) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx) | [CANTAMENCANTO](https://open.spotify.com/album/1LzEi4XDLbf5UINJEvA9ac) | 4:38 |
 | 74 | [Habrá](https://open.spotify.com/track/5Ne4Y841FWmpmPDGL60FXH) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [Habrá](https://open.spotify.com/album/0PYQK8hFeRgTgb0P4GAPZf) | 3:07 |

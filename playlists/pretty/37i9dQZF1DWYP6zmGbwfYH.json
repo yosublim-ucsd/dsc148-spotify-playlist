@@ -1,6 +1,6 @@
 {
   "description": "El icuiricui, el matalacachimba y el ruletero.",
-  "num_followers": 276115,
+  "num_followers": 276152,
   "original_name": "Ruleteando",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-07-11 01:03:00",
       "album": {
+        "name": "Sex Symbol",
+        "url": "https://open.spotify.com/album/5tf8kuqoGGyPD6xxhPLlst"
+      },
+      "artists": [
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+        }
+      ],
+      "duration_ms": 343353,
+      "name": "La Noche Mas Linda",
+      "url": "https://open.spotify.com/track/3scW7pt0vlhkCCgCNv5YR9"
+    },
+    {
+      "added_at": "2024-07-11 01:03:00",
+      "album": {
         "name": "La Sinverg\u00fcenza",
         "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 198529,
       "name": "La Sinverg\u00fcenza",
       "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
-    },
-    {
-      "added_at": "2024-07-11 01:03:00",
-      "album": {
-        "name": "Sex Symbol",
-        "url": "https://open.spotify.com/album/5tf8kuqoGGyPD6xxhPLlst"
-      },
-      "artists": [
-        {
-          "name": "Adalberto Santiago",
-          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
-        }
-      ],
-      "duration_ms": 343353,
-      "name": "La Noche Mas Linda",
-      "url": "https://open.spotify.com/track/3scW7pt0vlhkCCgCNv5YR9"
     },
     {
       "added_at": "2024-07-11 01:03:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-07-11 01:03:00",
       "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 159466,
-      "name": "Compr\u00e9 Una Cantina",
-      "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
-    },
-    {
-      "added_at": "2024-07-11 01:03:00",
-      "album": {
         "name": "Con La Fuerza Del Destino",
         "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 177106,
       "name": "C\u00f3mo Est\u00e1s T\u00fa",
       "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
+    },
+    {
+      "added_at": "2024-07-11 01:03:00",
+      "album": {
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 159466,
+      "name": "Compr\u00e9 Una Cantina",
+      "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
     },
     {
       "added_at": "2024-07-11 01:03:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-07-11 01:03:00",
       "album": {
-        "name": "Me Gusta Estar Contigo",
-        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 220586,
-      "name": "Due\u00f1o de Ti",
-      "url": "https://open.spotify.com/track/7j9iuJvGg8Ve2O20CO8Oho"
-    },
-    {
-      "added_at": "2024-07-11 01:03:00",
-      "album": {
         "name": "Directo Al Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6w4hod1ifRryFs208eKPLe"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 280120,
       "name": "Ese Loco Soy Yo",
       "url": "https://open.spotify.com/track/0J0zz9v1hRXQXQ2rJLgKq1"
+    },
+    {
+      "added_at": "2024-07-11 01:03:00",
+      "album": {
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 220586,
+      "name": "Due\u00f1o de Ti",
+      "url": "https://open.spotify.com/track/7j9iuJvGg8Ve2O20CO8Oho"
     },
     {
       "added_at": "2024-07-11 01:03:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-07-11 01:03:00",
       "album": {
-        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
-        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
-      },
-      "artists": [
-        {
-          "name": "Los Caminantes",
-          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
-        }
-      ],
-      "duration_ms": 177853,
-      "name": "Supe Perder",
-      "url": "https://open.spotify.com/track/6NUoNxL3tWnICLhFQ5obEW"
-    },
-    {
-      "added_at": "2024-07-11 01:03:00",
-      "album": {
         "name": "Pasi\u00f3n Y Cumbia",
         "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2024-07-11 01:03:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
+        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
+        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Los Caminantes",
+          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
         }
       ],
-      "duration_ms": 177200,
-      "name": "So\u00f1ador Eterno",
-      "url": "https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj"
+      "duration_ms": 177853,
+      "name": "Supe Perder",
+      "url": "https://open.spotify.com/track/6NUoNxL3tWnICLhFQ5obEW"
     },
     {
       "added_at": "2024-07-11 01:03:00",
@@ -931,6 +915,22 @@
       "duration_ms": 245693,
       "name": "La Otra Cara De La Moneda",
       "url": "https://open.spotify.com/track/6hwTRoFaQzmkbvh4tOoVpV"
+    },
+    {
+      "added_at": "2024-07-11 01:03:00",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "So\u00f1ador Eterno",
+      "url": "https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj"
     },
     {
       "added_at": "2024-07-11 01:03:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-07-11 01:03:00",
       "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 207226,
-      "name": "Eres Mi Droga",
-      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
-    },
-    {
-      "added_at": "2024-07-11 01:03:00",
-      "album": {
         "name": "Todo tuyo",
         "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 269466,
       "name": "Enamorado De Un Fantasma",
       "url": "https://open.spotify.com/track/47zLjYjuaWunbmMrn6jLLj"
+    },
+    {
+      "added_at": "2024-07-11 01:03:00",
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 207226,
+      "name": "Eres Mi Droga",
+      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
     },
     {
       "added_at": "2024-07-11 01:03:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-07-11 01:03:00",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Un Desenga\u00f1o",
+      "url": "https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK"
+    },
+    {
+      "added_at": "2024-07-11 01:03:00",
+      "album": {
         "name": "Volver\u00e9 A Conquistarte",
         "url": "https://open.spotify.com/album/691ZR6kaZeK4JS4tQGPuQf"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 242648,
       "name": "Desde El Fondo De Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
-    },
-    {
-      "added_at": "2024-07-11 01:03:00",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Un Desenga\u00f1o",
-      "url": "https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK"
     },
     {
       "added_at": "2024-07-11 01:03:00",
@@ -1491,22 +1491,18 @@
     {
       "added_at": "2024-07-11 01:03:00",
       "album": {
-        "name": "A Chillar a otra parte",
-        "url": "https://open.spotify.com/album/4ph9RG0taaHcR6LlXbtHYW"
+        "name": "21 Black Jack",
+        "url": "https://open.spotify.com/album/7nNlrRcYx77C7RCXroZXms"
       },
       "artists": [
         {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
         }
       ],
-      "duration_ms": 213066,
-      "name": "A Chillar a otra parte",
-      "url": "https://open.spotify.com/track/6dAYjYfWJvETKJOCm36jGH"
+      "duration_ms": 177133,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/0UwmVtejteUw7ELX5ZmIIR"
     },
     {
       "added_at": "2024-07-11 01:03:00",
@@ -1527,18 +1523,22 @@
     {
       "added_at": "2024-07-11 01:03:00",
       "album": {
-        "name": "21 Black Jack",
-        "url": "https://open.spotify.com/album/7nNlrRcYx77C7RCXroZXms"
+        "name": "A Chillar a otra parte",
+        "url": "https://open.spotify.com/album/4ph9RG0taaHcR6LlXbtHYW"
       },
       "artists": [
         {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 177133,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/0UwmVtejteUw7ELX5ZmIIR"
+      "duration_ms": 213066,
+      "name": "A Chillar a otra parte",
+      "url": "https://open.spotify.com/track/6dAYjYfWJvETKJOCm36jGH"
     },
     {
       "added_at": "2024-07-11 01:03:00",

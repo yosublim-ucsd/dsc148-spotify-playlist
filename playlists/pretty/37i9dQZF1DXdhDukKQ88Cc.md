@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > den største danske rap lige nu, call <a href="spotify:album:7AmzcJSCXx4xQgZSFs0kov">911</a> 🚨
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,078 likes - 75 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,097 likes - 75 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

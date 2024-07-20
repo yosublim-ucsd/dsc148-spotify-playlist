@@ -1632,6 +1632,24 @@
     {
       "album": {
         "name": "Volume 21",
+        "url": "https://open.spotify.com/album/7wfEwIuSQzqDYGNvrvLjAR"
+      },
+      "artists": [
+        {
+          "name": "Silvanno Salles",
+          "url": "https://open.spotify.com/artist/0HFoOA61ShFCVKyKUPoN6B"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193358,
+      "name": "Book Rosa",
+      "url": "https://open.spotify.com/track/0ae2BVF1gg9zsulkDXgr0d"
+    },
+    {
+      "album": {
+        "name": "Volume 21",
         "url": "https://open.spotify.com/album/5cQiaN8t8zw74BnFi9UoBo"
       },
       "artists": [
@@ -1642,7 +1660,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 193358,
       "name": "Book Rosa",
       "url": "https://open.spotify.com/track/1bwb7bwxku5K74RjOcpoSZ"
@@ -3018,10 +3036,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 172576,
       "name": "Desafoga",
       "url": "https://open.spotify.com/track/6bda1JRKm5caqWvTgvjrSb"
+    },
+    {
+      "album": {
+        "name": "Desafoga (feat. Felipe Ara\u00fajo)",
+        "url": "https://open.spotify.com/album/5WqWpIJxnHvG2l5jzPOORF"
+      },
+      "artists": [
+        {
+          "name": "Matheus Moraes",
+          "url": "https://open.spotify.com/artist/3E50gNtGhBMlKDmOGTjwjv"
+        },
+        {
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172576,
+      "name": "Desafoga (feat. Felipe Ara\u00fajo)",
+      "url": "https://open.spotify.com/track/05Wzecpl3URq4szAUEmCs2"
     },
     {
       "album": {
@@ -4260,6 +4300,24 @@
     {
       "album": {
         "name": "Ao Vivo em Goi\u00e2nia",
+        "url": "https://open.spotify.com/album/705IO0nNUcifgqJQYL6XUq"
+      },
+      "artists": [
+        {
+          "name": "Dalmi Junior",
+          "url": "https://open.spotify.com/artist/0wcYGGgsjxRSAhKsE1nLqt"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174271,
+      "name": "Ex N\u00e3o Manda Mais - Ao Vivo",
+      "url": "https://open.spotify.com/track/0Dwwwes37RqkyWBDHBJOM1"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo em Goi\u00e2nia",
         "url": "https://open.spotify.com/album/0xAaSbrzHzxKyEiWAwbWLX"
       },
       "artists": [
@@ -4270,7 +4328,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 174271,
       "name": "Ex N\u00e3o Manda Mais - Ao Vivo",
       "url": "https://open.spotify.com/track/0EcWTkP8e9U797oSUtgrXo"
@@ -5597,6 +5655,24 @@
     },
     {
       "album": {
+        "name": "Meio Caminho Andado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ScSLvl8YCibxA2sHCkPdx"
+      },
+      "artists": [
+        {
+          "name": "Enzo Rabelo",
+          "url": "https://open.spotify.com/artist/7m4l75rnuQbI88PGYVYLkm"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151299,
+      "name": "Meio Caminho Andado - Ao Vivo",
+      "url": "https://open.spotify.com/track/7fWfPq3o9g1gPh5ou4zQGC"
+    },
+    {
+      "album": {
         "name": "#Nabebidaenasofr\u00eancia, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/64oZoq8E6MTyBZGUnrSb9F"
       },
@@ -6382,10 +6458,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 184400,
       "name": "N\u00e3o Me Deixa Saber",
       "url": "https://open.spotify.com/track/2T6yRQfTfRiDZ4mPrAwsJV"
+    },
+    {
+      "album": {
+        "name": "Ju Moura",
+        "url": "https://open.spotify.com/album/3ANgOVJoEq5gF81WH9hDTS"
+      },
+      "artists": [
+        {
+          "name": "Ju Moura",
+          "url": "https://open.spotify.com/artist/6iXmBWGRcQlBXxplxC729i"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184400,
+      "name": "N\u00e3o Me Deixa Saber",
+      "url": "https://open.spotify.com/track/3GdlxUxXjr0QE83NbPCruy"
     },
     {
       "album": {

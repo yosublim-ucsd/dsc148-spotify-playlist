@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 
 ### [Top Sharqi Hits](https://open.spotify.com/playlist/37i9dQZF1DXe3aCmUoBd8n)
 
-> Top Sharqi hits right now\. Cover: Nassif Zeytoun & Rahma Riad
+> Top Sharqi hits right now\. Cover: AL SHAMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,066 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,104 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 | 49 | [khallina N3esh](https://open.spotify.com/track/7qq9gkXMLG64zEnqTn2s9o) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [khallina N3esh](https://open.spotify.com/album/4bUVYFe5LEtKByQcKmRvQg) | 3:29 |
 | 50 | [بحارب فيها](https://open.spotify.com/track/74dkAlEbjBPHK3HrLXiAmC) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بحارب فيها](https://open.spotify.com/album/4x1Bl2uSE5UPlfnQXwlo2U) | 4:05 |
 
-Snapshot ID: `ZpeLrAAAAACw9Zmf6Dtdwvdv0wkgj1GI`
+Snapshot ID: `Zpo4dwAAAADVEjRhdmcuIZxoBOmfzIJI`

@@ -1,12 +1,12 @@
 {
-  "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 41962,
+  "description": "This Is Sof\u00eda Reyes. Los temas esenciales, todos en una lista.",
+  "num_followers": 41968,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAACeJjbmAJo3NTAqiQm4HcUq",
+  "snapshot_id": "ZphbAAAAAABe4ZHhyrpllvkcBLoZmy+I",
   "tracks": [
     {
       "added_at": null,
@@ -67,26 +67,6 @@
       "duration_ms": 178100,
       "name": "El 100",
       "url": "https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mal De Amores",
-        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Mal de Amores",
-      "url": "https://open.spotify.com/track/4AzTk75T9EQtHaGNWU3UY5"
     },
     {
       "added_at": null,
@@ -683,6 +663,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "coRaZ\u00d3n fR\u00edO",
+        "url": "https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 204633,
+      "name": "coRaZ\u00d3n fR\u00edO",
+      "url": "https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa' La Cultura",
         "url": "https://open.spotify.com/album/3lafienEVOSKlWKwZY1vwu"
       },
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "coRaZ\u00d3n fR\u00edO",
-        "url": "https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn"
-      },
-      "artists": [
-        {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 204633,
-      "name": "coRaZ\u00d3n fR\u00edO",
-      "url": "https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },
@@ -791,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MILAMORES",
-        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "D\u0113lian",
-          "url": "https://open.spotify.com/artist/5n94TmRaYAFTLipsCmiDA3"
-        }
-      ],
-      "duration_ms": 164789,
-      "name": "Gaia",
-      "url": "https://open.spotify.com/track/43pdManuxxQh80XyU51ybY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highway",
         "url": "https://open.spotify.com/album/2DtVhE1RH6odEmwtywYqdQ"
       },
@@ -831,6 +791,26 @@
       "duration_ms": 221320,
       "name": "Highway",
       "url": "https://open.spotify.com/track/4rhdtzBmrrDxYi35yQDpzF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MILAMORES",
+        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "D\u0113lian",
+          "url": "https://open.spotify.com/artist/5n94TmRaYAFTLipsCmiDA3"
+        }
+      ],
+      "duration_ms": 164789,
+      "name": "Gaia",
+      "url": "https://open.spotify.com/track/43pdManuxxQh80XyU51ybY"
     },
     {
       "added_at": null,
@@ -951,22 +931,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MILAMORES",
-        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
+        "name": "Never Let You Go (feat. Sofia Reyes)",
+        "url": "https://open.spotify.com/album/2p7Lm9KtGXUlDPA9lYl46V"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
         },
         {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
-      "duration_ms": 156831,
-      "name": "La Batidora",
-      "url": "https://open.spotify.com/track/2e4muS8FH9hY5WY6IqANlA"
+      "duration_ms": 162537,
+      "name": "Never Let You Go (feat. Sofia Reyes)",
+      "url": "https://open.spotify.com/track/7KY4hAPXXg9aeYczem8JBo"
     },
     {
       "added_at": null,
@@ -991,22 +971,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Let You Go (feat. Sofia Reyes)",
-        "url": "https://open.spotify.com/album/2p7Lm9KtGXUlDPA9lYl46V"
+        "name": "MILAMORES",
+        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
       },
       "artists": [
         {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         },
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 156831,
+      "name": "La Batidora",
+      "url": "https://open.spotify.com/track/2e4muS8FH9hY5WY6IqANlA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mal De Amores",
+        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
+      },
+      "artists": [
         {
           "name": "Sof\u00eda Reyes",
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
         }
       ],
-      "duration_ms": 162537,
-      "name": "Never Let You Go (feat. Sofia Reyes)",
-      "url": "https://open.spotify.com/track/7KY4hAPXXg9aeYczem8JBo"
+      "duration_ms": 176197,
+      "name": "Limones",
+      "url": "https://open.spotify.com/track/32jT4VCmaCugsi2DxaAcrI"
     },
     {
       "added_at": null,

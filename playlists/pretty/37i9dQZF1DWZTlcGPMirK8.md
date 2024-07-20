@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 
 > The biggest pop hits to come from the land down under.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,596 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,604 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,16 +50,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 40 | [Kiss Kiss](https://open.spotify.com/track/5TWL2K9Q9QuUTW15I6ZLpP) | [Holly Valance](https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E) | [Footprints](https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV) | 3:24 |
 | 41 | [I Said Hi](https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Love Monster](https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P) | 2:50 |
 | 42 | [Two Strong Hearts](https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Age Of Reason](https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v) | 3:33 |
-| 43 | [Calypso](https://open.spotify.com/track/6qWG7dpOSs5dfgJ7d35am5) | [Spiderbait](https://open.spotify.com/artist/6P7kkhED6EPrfoZuxz20Fo) | [Ivy & The Big Apples](https://open.spotify.com/album/39vgclyyab7l2WMMUTmdmC) | 1:51 |
-| 44 | [Cheap Thrills](https://open.spotify.com/track/5QdHCXznWUKcKpUmU7Gguz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/64X210CD0I2zxCXT9xpYtw) | 3:31 |
+| 43 | [Cheap Thrills](https://open.spotify.com/track/5QdHCXznWUKcKpUmU7Gguz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/64X210CD0I2zxCXT9xpYtw) | 3:31 |
+| 44 | [Calypso](https://open.spotify.com/track/6qWG7dpOSs5dfgJ7d35am5) | [Spiderbait](https://open.spotify.com/artist/6P7kkhED6EPrfoZuxz20Fo) | [Ivy & The Big Apples](https://open.spotify.com/album/39vgclyyab7l2WMMUTmdmC) | 1:51 |
 | 45 | [Fire](https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Reprisal](https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM) | 3:46 |
 | 46 | [Ooh Aah...Just a Little Bit \- Motiv8 Radio Edit](https://open.spotify.com/track/7kyMLaXepcGHIrsLqoiTB8) | [Gina G](https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8), [Motiv8](https://open.spotify.com/artist/1xFPKhNxU5iyrvYDP7EhOp) | [Fresh](https://open.spotify.com/album/4wjFfawmUFFk9INKJnnn0o) | 3:23 |
 | 47 | [In the Summertime \- Single Version](https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse) | [Thirsty Merc](https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no) | [In The Summertime](https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen) | 3:48 |
 | 48 | [Moments](https://open.spotify.com/track/3ZSR0xQ7strDNRzKCwNL9L) | [Bliss n Eso](https://open.spotify.com/artist/1xSSjJrKTO2ZNPU81uLtmI), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Off The Grid](https://open.spotify.com/album/7Mle8fqfjxEnkubFjg3mAe) | 3:57 |
 | 49 | [Lost Without You](https://open.spotify.com/track/1w0JL6vJdl82xqyRW30HrK) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Innocent Eyes](https://open.spotify.com/album/26h1O5W89WLiEzxTztbGfu) | 4:08 |
-| 50 | [Better in Blak](https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better in Blak](https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34) | 3:12 |
+| 50 | [Down Under](https://open.spotify.com/track/5FNiYCRQB1U3aLnsVCkkXA) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Super Hits](https://open.spotify.com/album/1JixUfJzfLORwef37ydzuB) | 3:43 |
 | 51 | [Take Me Over](https://open.spotify.com/track/7edLcwmws3QnbJ8JUqyHhe) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [SAFIA](https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB) | [Take Me Over](https://open.spotify.com/album/2ovy2zlk2RjYQGkfEUb0qB) | 3:28 |
-| 52 | [Down Under](https://open.spotify.com/track/5FNiYCRQB1U3aLnsVCkkXA) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Super Hits](https://open.spotify.com/album/1JixUfJzfLORwef37ydzuB) | 3:43 |
+| 52 | [Better in Blak](https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better in Blak](https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34) | 3:12 |
 | 53 | [Is This How You Feel?](https://open.spotify.com/track/3OIKgKNUt87GHz8OmmHZop) | [The Preatures](https://open.spotify.com/artist/5gcDZA9xXCOspWgQilUYIu) | [Blue Planet Eyes](https://open.spotify.com/album/3JxzIkZt1ttKx2Xr0J0w7l) | 3:34 |
 | 54 | [Tightrope](https://open.spotify.com/track/69kz02an0zTBl2NQdshqnB) | [Illy](https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt) | [Cinematic](https://open.spotify.com/album/0AVD0hJCteRdN51sXiAEOz) | 4:52 |
 | 55 | [Weir](https://open.spotify.com/track/1umlKmiauqM9GFnk25HwCb) | [Killing Heidi](https://open.spotify.com/artist/6eQ3AHw7yEVoX87xDS1ZiP) | [Reflector](https://open.spotify.com/album/7kHaKkhOcpb7gB90BLJNip) | 4:04 |

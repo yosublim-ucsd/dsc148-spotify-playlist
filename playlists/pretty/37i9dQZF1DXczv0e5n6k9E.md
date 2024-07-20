@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Thug Slime, Fy
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,480 likes - 59 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,482 likes - 59 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 13 | [KSANA](https://open.spotify.com/track/1uK6HOYuYystjc8n1FllwF) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Kimi](https://open.spotify.com/artist/6uhMFybh7MnkaBS2EgyzNw) | [KSANA](https://open.spotify.com/album/5S9Qckpu5pJdznQEvPpuMM) | 3:44 |
 | 14 | [Love Story](https://open.spotify.com/track/5XPIazoPE74EcaDUY1UBIp) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Splinter](https://open.spotify.com/artist/4VnfMxefRVO88vHsY5eicq) | [Love Story](https://open.spotify.com/album/4mpoecSXf5BM9sCpCeGR59) | 2:36 |
 | 15 | [Trap](https://open.spotify.com/track/4TzuhUQ81vpZAs5V3Yk0Wi) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Baghdad](https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma) | [Trap](https://open.spotify.com/album/08lV4mpT5TQ9GxfepeCLzu) | 3:10 |
-| 16 | [POLICIA](https://open.spotify.com/track/0uAPYmZsrCRxmDj7wPFaBG) | [Verde](https://open.spotify.com/artist/5caqmh5ZXnKSx8vmdsCA9v), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA) | [POLICIA](https://open.spotify.com/album/6rvJfaK4fjRwbPa2KjCFWZ) | 2:33 |
+| 16 | [POLICIA](https://open.spotify.com/track/0uAPYmZsrCRxmDj7wPFaBG) | [Verde](https://open.spotify.com/artist/5caqmh5ZXnKSx8vmdsCA9v), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Echo](https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD) | [POLICIA](https://open.spotify.com/album/6rvJfaK4fjRwbPa2KjCFWZ) | 2:33 |
 | 17 | [BANDA](https://open.spotify.com/track/0qwaa6tqNgy2KmTd9bdX4h) | [BAKV](https://open.spotify.com/artist/7q4dxsrYuPcd0PgxBc1eQ4), [Big Skendo](https://open.spotify.com/artist/5wOvUrTEKrUjEDLBHIWxvp), [ATC Nico](https://open.spotify.com/artist/1uENJBsvFjDUv7OrH3DaKR) | [BANDA](https://open.spotify.com/album/44yCFaXb0SIZWDHp0sWQEu) | 3:29 |
 | 18 | [Carvajal](https://open.spotify.com/track/04g3PRNUhYa6wAoHx3IE17) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [Ioannis](https://open.spotify.com/artist/2oQftHHbzwW2lMNxh5W5iw) | [Carvajal](https://open.spotify.com/album/1FWQjRdjZT0MeBnNZBxrnk) | 3:13 |
 | 19 | [Bad Boy](https://open.spotify.com/track/3rrxhhuSWx0qWbmjVSwpx1) | [Yanek](https://open.spotify.com/artist/3qQbT0KRi9n6xs3dAd8hz5), [Block 93](https://open.spotify.com/artist/6lLBwuarTgj4GxTykLYCLo), [Rampo](https://open.spotify.com/artist/6TA6DApj7L6w8pCnM9DWfg) | [Bad Boy](https://open.spotify.com/album/7oLxV1HLIyM3qWxMrVq8J0) | 2:40 |

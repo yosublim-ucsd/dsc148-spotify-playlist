@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 14354,
+  "num_followers": 14357,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAACw9+Q/l1TWPXkZJEwR1m3n",
+  "snapshot_id": "ZphbAAAAAAC1oekZfiYV6KlYWB3bGAHO",
   "tracks": [
     {
       "added_at": null,
@@ -847,18 +847,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Remember Gregory Isaacs",
-        "url": "https://open.spotify.com/album/5qx0HddioFaXTSTykAG6nu"
+        "name": "Feelings (with J Boog & Gyptian)",
+        "url": "https://open.spotify.com/album/0qwr73RDAt6DloQiEuljUS"
       },
       "artists": [
         {
+          "name": "The Green",
+          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+        },
+        {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Gyptian",
+          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
         }
       ],
-      "duration_ms": 251693,
-      "name": "Cool Down The Pace",
-      "url": "https://open.spotify.com/track/48vVcRVvJxD5zB0ODldx2C"
+      "duration_ms": 194731,
+      "name": "Feelings (with J Boog & Gyptian)",
+      "url": "https://open.spotify.com/track/05LWBvN1FeUHot4CdIowmL"
     },
     {
       "added_at": null,
@@ -883,26 +891,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feelings (with J Boog & Gyptian)",
-        "url": "https://open.spotify.com/album/0qwr73RDAt6DloQiEuljUS"
+        "name": "We Remember Gregory Isaacs",
+        "url": "https://open.spotify.com/album/5qx0HddioFaXTSTykAG6nu"
       },
       "artists": [
         {
-          "name": "The Green",
-          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
-        },
-        {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Gyptian",
-          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
         }
       ],
-      "duration_ms": 194731,
-      "name": "Feelings (with J Boog & Gyptian)",
-      "url": "https://open.spotify.com/track/05LWBvN1FeUHot4CdIowmL"
+      "duration_ms": 251693,
+      "name": "Cool Down The Pace",
+      "url": "https://open.spotify.com/track/48vVcRVvJxD5zB0ODldx2C"
     },
     {
       "added_at": null,

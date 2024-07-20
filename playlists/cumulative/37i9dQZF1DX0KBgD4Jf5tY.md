@@ -4,7 +4,7 @@
 
 > Il meglio della musica indipendente italiana! Cover: <a href="spotify:artist:0ez4Y0vHwlRCrqGIkChC3Q">TÄRA</a>
 
-1,356 songs - 2 day 19 hr 14 min
+1,357 songs - 2 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -490,7 +490,7 @@
 | [Giurami](https://open.spotify.com/track/4NGDpOt89PQ3Xqm5IXX3Qp) | [Frisàri](https://open.spotify.com/artist/2f6mtYy1MV0l5jYGGdCYTN) | [Giurami](https://open.spotify.com/album/7w6StKgRMwZWDjquLSMr6Q) | 3:32 | 2024-04-23 | 2024-05-24 |
 | [Giuro](https://open.spotify.com/track/15ET8CADSZqc0nh7IquXXs) | [ioemiofratello](https://open.spotify.com/artist/4fDbHugHPkG4jV6GmtAYI7) | [Giuro](https://open.spotify.com/album/7E4eM2dgZTL3QwwtAKA6eV) | 3:05 | 2022-07-22 | 2022-09-30 |
 | [Giù](https://open.spotify.com/track/3ctMkJzFcEgNbN2CBYJ5sx) | [ehm.carbo](https://open.spotify.com/artist/1olvNHZrWoIy6uszZGrUGB) | [Giù](https://open.spotify.com/album/7v3R44AkhsnpCuZiIS1qVY) | 2:46 | 2022-06-02 | 2022-07-08 |
-| [Giù](https://open.spotify.com/track/4iRihMOwwU0F7svt5MGUib) | [LALA](https://open.spotify.com/artist/0GAwP5umLMloA0CjmqAXdt) | [Giù](https://open.spotify.com/album/2zjIzox99Ce6nTnjx1cQyc) | 2:54 | 2024-07-18 |  |
+| [Giù](https://open.spotify.com/track/4iRihMOwwU0F7svt5MGUib) | [LALA](https://open.spotify.com/artist/0GAwP5umLMloA0CjmqAXdt) | [Giù](https://open.spotify.com/album/2zjIzox99Ce6nTnjx1cQyc) | 2:54 | 2024-07-18 | 2024-07-20 |
 | [gli alberi](https://open.spotify.com/track/4v695VZ97Q0pylXUXmezYU) | [Enea](https://open.spotify.com/artist/4AbkLl6EgZ6BiIZ9SX40dj) | [gli alberi](https://open.spotify.com/album/2g7HzqXKplCe0HsoJ8npnU) | 2:29 | 2023-06-07 | 2023-07-13 |
 | [God Is Good](https://open.spotify.com/track/0KSMnvQjXjimr0eBa1zzOL) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2) | [God Is Good](https://open.spotify.com/album/0QMymvAm1kRZ1t9bOTvqqO) | 2:28 | 2024-01-24 | 2024-02-22 |
 | [goddamn](https://open.spotify.com/track/3BLgoDnKegcilQMQvcCl1W) | [mt36](https://open.spotify.com/artist/4u8sH1UCcEeS6lke6At8Fi), [rooc lee](https://open.spotify.com/artist/5J9oExne65TylhJLUsnSQ8) | [goddamn](https://open.spotify.com/album/2VWCy3ui3OjSa6gqhxSHTR) | 2:06 | 2022-02-17 | 2022-03-04 |
@@ -697,6 +697,7 @@
 | [Mandostai](https://open.spotify.com/track/3tkNO7r9FKCqNfQUTmDbnO) | [Ngawa](https://open.spotify.com/artist/0k1NRT7Wbw1bjbjygEBtE7), [GIUMO](https://open.spotify.com/artist/661Jg7Cu9OBrUqG076gN90) | [Mandostai](https://open.spotify.com/album/61R7YYgrlixF9cu9HhkDqO) | 1:54 | 2022-05-05 | 2022-06-03 |
 | [Mani da cadavere](https://open.spotify.com/track/0Tm12YSJpAYcNPor6KLOeh) | [Pseudospettri](https://open.spotify.com/artist/144fSE2ruLaRNyMQ2UiTsE), [Lanyard](https://open.spotify.com/artist/6mWyG0mxArpvfGVLOx4qm1), [b.estye](https://open.spotify.com/artist/2YaXROXiWeqPA4fG5od6bU) | [Summertape](https://open.spotify.com/album/5aLeSHX5MFc85MIQploeM7) | 2:43 | 2022-07-07 | 2022-08-26 |
 | [MANIFESTO](https://open.spotify.com/track/3oxzgz3ryPufTNisCcNJC7) | [sils](https://open.spotify.com/artist/4K0j9fash3WpgUw7uhZKo8) | [MANIFESTO](https://open.spotify.com/album/5kACMMmm4LqVBWMJIw9rU5) | 2:57 | 2023-04-04 | 2023-05-11 |
+| [manifesto](https://open.spotify.com/track/6uG81Z7Q7aYAKBXViEAIGz) | [Voorpret](https://open.spotify.com/artist/1LvKEeM2ZLRbXA6TRgl1nI) | [manifesto](https://open.spotify.com/album/18YYMNAROmZ8Uo3pRNduh7) | 2:57 | 2024-07-18 |  |
 | [Marchigiano](https://open.spotify.com/track/1tbrM6wpL2IO8N6eMwomar) | [SANTO STEFANO](https://open.spotify.com/artist/2WcspLiai7qmRn02e3x1m1) | [Marchigiano](https://open.spotify.com/album/0RKJE8XzuCKa9QQiiEBHVp) | 2:43 | 2023-11-07 | 2024-01-25 |
 | [MARE](https://open.spotify.com/track/0yhryPsrbTLvFgrZuImvvo) | [Bobby Wanna](https://open.spotify.com/artist/3MloiHhHN5KznOzRWZKwOH) | [MARE](https://open.spotify.com/album/61kXE5CFFjp7pvWKy35yKu) | 3:11 | 2022-06-02 | 2022-07-01 |
 | [Mare Cristallo](https://open.spotify.com/track/07GUGt0qJl9CwpdT9ER9s6) | [ggiovanni](https://open.spotify.com/artist/1oT8K7RFmacAPafRlcdnw9), [d/rose](https://open.spotify.com/artist/6h0OZeWlXrzF2akE3yNBta), [Luke Lecomte](https://open.spotify.com/artist/0R9RQ7VasOltY6d8I5g2Mc), [LuckyEffe](https://open.spotify.com/artist/2LC4xxgMkfhFi9okn8t5rN) | [Mare Cristallo](https://open.spotify.com/album/0VIMBDeKrHUUliKZxQfPtb) | 3:34 | 2023-01-05 | 2023-02-03 |

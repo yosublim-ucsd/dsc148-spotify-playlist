@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Dominik Hartz
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,754 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,758 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 3 | [gästeliste](https://open.spotify.com/track/1GRNmHpcVobOQpU4sTotMm) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [gästeliste](https://open.spotify.com/album/6DagEYiLogzejjAebrffI8) | 2:41 |
 | 4 | [Lichtblick](https://open.spotify.com/track/3bclSz6FTJriC5YVWoAzo7) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3), [falcke](https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf) | [Lichtblick](https://open.spotify.com/album/0xCORZARvmRRlbRbHCJeii) | 3:11 |
 | 5 | [Randali](https://open.spotify.com/track/7x76MsHLcWQ4rLlHVkT7yw) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Randali](https://open.spotify.com/album/1NSEKARvPRzT2tSG1DZrmi) | 2:23 |
-| 6 | [eehhhyyy](https://open.spotify.com/track/1cXo8i9dgutdqjhjz3Zwqq) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [dafür bin ich frei EP](https://open.spotify.com/album/29zZ3SXwoesoaXX6PbmPFW) | 2:15 |
+| 6 | [eehhhyyy](https://open.spotify.com/track/1cXo8i9dgutdqjhjz3Zwqq) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Drumla](https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [dafür bin ich frei EP](https://open.spotify.com/album/29zZ3SXwoesoaXX6PbmPFW) | 2:15 |
 | 7 | [Strategie](https://open.spotify.com/track/48jWQ1HB4VPLMUyUulRxo9) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Strategie](https://open.spotify.com/album/34eP5UA9AbhmLKQWge5TiM) | 2:38 |
 | 8 | [Nazis erschiessen](https://open.spotify.com/track/5Bh3fCer3pZp49sBNL5130) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Nazis erschiessen](https://open.spotify.com/album/7C7n3Viy7sds2WZ8y0a0Su) | 2:51 |
 | 9 | [Echt](https://open.spotify.com/track/1SOIIqQiQU7xaHaDP1WS6O) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Don't grow up \(it's a trap\)](https://open.spotify.com/album/7wfLhaSIVv5dXwnnKvEGTf) | 2:30 |

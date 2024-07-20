@@ -1,6 +1,6 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 17930,
+  "num_followers": 17929,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,26 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Podium",
-        "url": "https://open.spotify.com/album/35tu4rgJcxboWonRqgSkk6"
+        "name": "Rap \u00c9 Compromisso (Edi\u00e7\u00e3o Comemorativa)",
+        "url": "https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz"
       },
       "artists": [
         {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "Sabotage",
+          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
         },
         {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+          "name": "DBS Gord\u00e3o Chefe",
+          "url": "https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j"
+        },
+        {
+          "name": "RZO",
+          "url": "https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Sorrisos (feat. Lourena)",
-      "url": "https://open.spotify.com/track/4S3zWMCOGI5k61u78QTGWR"
+      "duration_ms": 329920,
+      "name": "Respeito \u00c9 pra Quem Tem",
+      "url": "https://open.spotify.com/track/4pZt1KU0y9Ckrw5Bcp60GB"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -395,26 +399,22 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Rap \u00c9 Compromisso (Edi\u00e7\u00e3o Comemorativa)",
-        "url": "https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz"
+        "name": "Podium",
+        "url": "https://open.spotify.com/album/35tu4rgJcxboWonRqgSkk6"
       },
       "artists": [
         {
-          "name": "Sabotage",
-          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         },
         {
-          "name": "DBS Gord\u00e3o Chefe",
-          "url": "https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j"
-        },
-        {
-          "name": "RZO",
-          "url": "https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU"
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         }
       ],
-      "duration_ms": 329920,
-      "name": "Respeito \u00c9 pra Quem Tem",
-      "url": "https://open.spotify.com/track/4pZt1KU0y9Ckrw5Bcp60GB"
+      "duration_ms": 240000,
+      "name": "Sorrisos (feat. Lourena)",
+      "url": "https://open.spotify.com/track/4S3zWMCOGI5k61u78QTGWR"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -943,6 +943,42 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
+        "name": "Racionais 3 D\u00e9cadas",
+        "url": "https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 354310,
+      "name": "Negro Drama - Ao Vivo",
+      "url": "https://open.spotify.com/track/4hPY8Hyit0AqHTZZp4a861"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "Falc\u00e3o - O Bagulho \u00c9 Doido",
+        "url": "https://open.spotify.com/album/4YP56WByoqlCMW2AhxDMjc"
+      },
+      "artists": [
+        {
+          "name": "MV Bill",
+          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
+        },
+        {
+          "name": "Kmila",
+          "url": "https://open.spotify.com/artist/4YrCOVYOuq5HqJ5LoKFEXj"
+        }
+      ],
+      "duration_ms": 300200,
+      "name": "Estilo Vagabundo",
+      "url": "https://open.spotify.com/track/3hn7hzXAbrOjUXN8XNwy5M"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
         "name": "Poetas no Topo 2",
         "url": "https://open.spotify.com/album/4Qnc9kgBCgCD4BAOlf8GHb"
       },
@@ -987,42 +1023,6 @@
       "duration_ms": 523467,
       "name": "Poetas no Topo 2",
       "url": "https://open.spotify.com/track/5ePNo6uzHyOiZ5lq1L5WVs"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "Racionais 3 D\u00e9cadas",
-        "url": "https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 354310,
-      "name": "Negro Drama - Ao Vivo",
-      "url": "https://open.spotify.com/track/4hPY8Hyit0AqHTZZp4a861"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "Falc\u00e3o - O Bagulho \u00c9 Doido",
-        "url": "https://open.spotify.com/album/4YP56WByoqlCMW2AhxDMjc"
-      },
-      "artists": [
-        {
-          "name": "MV Bill",
-          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
-        },
-        {
-          "name": "Kmila",
-          "url": "https://open.spotify.com/artist/4YrCOVYOuq5HqJ5LoKFEXj"
-        }
-      ],
-      "duration_ms": 300200,
-      "name": "Estilo Vagabundo",
-      "url": "https://open.spotify.com/track/3hn7hzXAbrOjUXN8XNwy5M"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -1087,38 +1087,6 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Dior",
-        "url": "https://open.spotify.com/album/1OtjO72XdEOLXSEKlgEP7y"
-      },
-      "artists": [
-        {
-          "name": "Yung Buda",
-          "url": "https://open.spotify.com/artist/34JhhuxlkDFSA5ek4AuZOp"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "OG L",
-          "url": "https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6"
-        },
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Alaska",
-          "url": "https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Dior",
-      "url": "https://open.spotify.com/track/6iIN2VXurWz90YBHXOIziD"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
         "name": "Rela\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0CU3Cm9HXv6cWv1NxMuqXw"
       },
@@ -1155,6 +1123,38 @@
       "duration_ms": 218250,
       "name": "A M\u00fasica da M\u00e3e",
       "url": "https://open.spotify.com/track/2YD8rHthWUwXAyucqI5gYm"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "Dior",
+        "url": "https://open.spotify.com/album/1OtjO72XdEOLXSEKlgEP7y"
+      },
+      "artists": [
+        {
+          "name": "Yung Buda",
+          "url": "https://open.spotify.com/artist/34JhhuxlkDFSA5ek4AuZOp"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "OG L",
+          "url": "https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Alaska",
+          "url": "https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/6iIN2VXurWz90YBHXOIziD"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -1199,26 +1199,6 @@
       "duration_ms": 398478,
       "name": "Poetas no Topo 1",
       "url": "https://open.spotify.com/track/0buQLT5lhSRs7wtunIeK8v"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "Oriente",
-        "url": "https://open.spotify.com/album/5i7yYQx7XGmfl5G6XZIsUu"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        },
-        {
-          "name": "Rebeca",
-          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
-        }
-      ],
-      "duration_ms": 202617,
-      "name": "Linda, Louca e Mimada",
-      "url": "https://open.spotify.com/track/1rcZKMWbCac4FDnUvtYfyK"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -1311,6 +1291,26 @@
       "duration_ms": 165903,
       "name": "Se Escute",
       "url": "https://open.spotify.com/track/6dRhcpld5vzJ21gMAY7aZg"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "Oriente",
+        "url": "https://open.spotify.com/album/5i7yYQx7XGmfl5G6XZIsUu"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        },
+        {
+          "name": "Rebeca",
+          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
+        }
+      ],
+      "duration_ms": 202617,
+      "name": "Linda, Louca e Mimada",
+      "url": "https://open.spotify.com/track/1rcZKMWbCac4FDnUvtYfyK"
     },
     {
       "added_at": "2024-02-23 18:00:29",

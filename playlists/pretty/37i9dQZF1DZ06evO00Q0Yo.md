@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO00Q0Yo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO00Q0Yo)
 
-### [این Flo Milli است](https://open.spotify.com/playlist/37i9dQZF1DZ06evO00Q0Yo)
+### [This Is Flo Milli](https://open.spotify.com/playlist/37i9dQZF1DZ06evO00Q0Yo)
 
-> This Is Flo Milli\. قطعه‌های برتر همگی در یک فهرست پخش.
+> This is Flo Milli\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,354 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,358 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 34 | [Fruit Loop](https://open.spotify.com/track/2vgoeRVrxhxuE7vvUSOVim) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Fruit Loop](https://open.spotify.com/album/1eGfr1AwGJ3bI2ONUhikpg) | 2:17 |
 | 35 | [Pockets Bigger](https://open.spotify.com/track/6qwlA0caBeRjIlaqnucLrC) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 1:46 |
 | 36 | [Nasty Dancer](https://open.spotify.com/track/7itIhLBlKcpdaSqXRsSuW3) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Nasty Dancer](https://open.spotify.com/album/6RhtLqR830nzFlLYfVXM7k) | 2:17 |
-| 37 | [Raindrops \(feat\. Flo Milli\)](https://open.spotify.com/track/6XBkVK0XMeSkXyG6lN2QDk) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [HARAM!](https://open.spotify.com/album/5m1R17FavKPjP7H5YPtrt1) | 2:33 |
-| 38 | [Pretty Girls](https://open.spotify.com/track/2u3hKhl5ltq0gbFo8ivsbB) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:18 |
+| 37 | [Pretty Girls](https://open.spotify.com/track/2u3hKhl5ltq0gbFo8ivsbB) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:18 |
+| 38 | [Raindrops \(feat\. Flo Milli\)](https://open.spotify.com/track/6XBkVK0XMeSkXyG6lN2QDk) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [HARAM!](https://open.spotify.com/album/5m1R17FavKPjP7H5YPtrt1) | 2:33 |
 | 39 | [Anything Flows \(feat\. Maiya The Don, 2Rare & Kari Faux\)](https://open.spotify.com/track/5MnqugWyPeiodmvBbFIZ6m) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [Anything Flows \(feat\. Maiya The Don, 2Rare & Kari Faux\)](https://open.spotify.com/album/60LPFmZ5vcbDBZRexNZ9c1) | 3:18 |
 | 40 | [Chocolate Rain](https://open.spotify.com/track/4VtN4HDolfU0II9KOftqy4) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Chocolate Rain](https://open.spotify.com/album/6JUUed8Ed1U8IYzLIiQvoL) | 2:42 |
 | 41 | [No Love Shemix](https://open.spotify.com/track/3aSmunIOrv4HRHXeMYT2Ob) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ), [J.K\. Mac](https://open.spotify.com/artist/5kztDpSaIqaQ5nHdDoTIlq) | [No Love Shemix](https://open.spotify.com/album/7iRhbI7T7e0YDwd48qF8gi) | 3:17 |
-| 42 | [Pay Day \(feat\. Rico Nasty\)](https://open.spotify.com/track/3T3UAYDMWKgg0aLsCmLtup) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:44 |
-| 43 | [Whole Family \(feat\. Flo Milli\)](https://open.spotify.com/track/59COzThWJAOeIM6SBItYZI) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Whole Family \(feat\. Flo Milli\)](https://open.spotify.com/album/1F0Q3jnivsGYle3Kl36aSJ) | 2:26 |
+| 42 | [Whole Family \(feat\. Flo Milli\)](https://open.spotify.com/track/59COzThWJAOeIM6SBItYZI) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Whole Family \(feat\. Flo Milli\)](https://open.spotify.com/album/1F0Q3jnivsGYle3Kl36aSJ) | 2:26 |
+| 43 | [Pay Day \(feat\. Rico Nasty\)](https://open.spotify.com/track/3T3UAYDMWKgg0aLsCmLtup) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:44 |
 | 44 | [Boys Ain't Shit \(feat\. Flo Milli\)](https://open.spotify.com/track/2W7FRj6wq1uNmIUwELuQ7e) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Boys Ain't Shit \(feat\. Flo Milli\)](https://open.spotify.com/album/3hQcaESnJCs1r2oHbmUKoB) | 3:15 |
-| 45 | [Asthma Pump \(feat\. Flo Milli\)](https://open.spotify.com/track/17WXwXsFVJ66Rnus8DhDfC) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Girls Gone Duh](https://open.spotify.com/album/0H3aviEP5qS8dN3uRLuE2A) | 2:58 |
-| 46 | [Einstein](https://open.spotify.com/track/33HNQd77Qvq7luKaQSmuYJ) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Einstein](https://open.spotify.com/album/0UpTiCfVOb3k3tUwMWB6uF) | 2:15 |
+| 45 | [Einstein](https://open.spotify.com/track/33HNQd77Qvq7luKaQSmuYJ) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Einstein](https://open.spotify.com/album/0UpTiCfVOb3k3tUwMWB6uF) | 2:15 |
+| 46 | [Asthma Pump \(feat\. Flo Milli\)](https://open.spotify.com/track/17WXwXsFVJ66Rnus8DhDfC) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Girls Gone Duh](https://open.spotify.com/album/0H3aviEP5qS8dN3uRLuE2A) | 2:58 |
 | 47 | [Goddess \(feat\. Flo Milli\)](https://open.spotify.com/track/415nBazKdZWwejNCNhkoqQ) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Where The Flowers Don't Die](https://open.spotify.com/album/0oKgiQKCek2KARB2vjo7Tf) | 2:28 |
 | 48 | [Big Mad \(feat\. Flo Milli\)](https://open.spotify.com/track/6UliIDFULJHvJpSfQ61zu5) | [Icandy](https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Big Mad \(feat\. Flo Milli\)](https://open.spotify.com/album/04jIgr8btAumWJzTRIhrxl) | 1:50 |
 | 49 | [My Attitude](https://open.spotify.com/track/75nCGDsQW8BQsCXQrhFmoK) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [My Attitude](https://open.spotify.com/album/7Gmi73lktv864xchbOA5PZ) | 2:27 |
 | 50 | [Element \(Remix\) \[feat\. Flo Milli\]](https://open.spotify.com/track/206CWNlXy1wLw3nchSDWJA) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Element \(Remix\) \[feat\. Flo Milli\]](https://open.spotify.com/album/2J48yzicpveqFUaKRWWkq1) | 3:36 |
 
-Snapshot ID: `ZpcJgAAAAAD5L7/VMUY0XgSee7XHSh2P`
+Snapshot ID: `ZphbAAAAAACB77Iv1H5wTjQm8zbi/U7A`

@@ -1,6 +1,6 @@
 {
   "description": "Discover the multifaceted creativity of the black queer community. Cover: Kehlani",
-  "num_followers": 78758,
+  "num_followers": 78761,
   "original_name": "Black, Queer, & Proud",
   "owner": {
     "name": "Spotify",
@@ -605,22 +605,6 @@
       "url": "https://open.spotify.com/track/4EZGpYmEN1m5erWvnVsa8a"
     },
     {
-      "added_at": "2020-06-01 21:07:43",
-      "album": {
-        "name": "Acrylic",
-        "url": "https://open.spotify.com/album/69GP3by8YMB8yz0pG03DWl"
-      },
-      "artists": [
-        {
-          "name": "Leikeli47",
-          "url": "https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "Girl Blunt",
-      "url": "https://open.spotify.com/track/1lAGdqI4Wwa8G0XTP6VqHl"
-    },
-    {
       "added_at": "2021-08-06 04:00:00",
       "album": {
         "name": "Slow Down (feat. Tion Wayne)",
@@ -639,6 +623,22 @@
       "duration_ms": 198058,
       "name": "Slow Down (feat. Tion Wayne)",
       "url": "https://open.spotify.com/track/1kW0R9RBRSZe9sWjp8DkKY"
+    },
+    {
+      "added_at": "2020-06-01 21:07:43",
+      "album": {
+        "name": "Acrylic",
+        "url": "https://open.spotify.com/album/69GP3by8YMB8yz0pG03DWl"
+      },
+      "artists": [
+        {
+          "name": "Leikeli47",
+          "url": "https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "Girl Blunt",
+      "url": "https://open.spotify.com/track/1lAGdqI4Wwa8G0XTP6VqHl"
     },
     {
       "added_at": "2021-06-25 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Childish Gambino, 優里, Glass Animals, Benson Boone and more! cover: Childish Gambino
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,471 likes - 91 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,508 likes - 91 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 59 | [Chrome Cowgirl \(From Twisters: The Album\)](https://open.spotify.com/track/1uP3EFUgPrvaIRfA9yepA6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Chrome Cowgirl \(From Twisters: The Album\)](https://open.spotify.com/album/0Mij9SmUrhfN45IFiNUXWZ) | 2:28 |
 | 60 | [the warmth](https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [the warmth](https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy) | 4:30 |
 | 61 | [Where or When](https://open.spotify.com/track/4gJXJkd0zFFanZL2w0RsMB) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Where or When](https://open.spotify.com/album/70L7alOq247J9W6jGo3PqR) | 3:23 |
-| 62 | [めをみて feat.千鎖 from ミセカイ](https://open.spotify.com/track/3IFrwp3kh2tOb5Ol7mkN7K) | [泡く、脆く。](https://open.spotify.com/artist/0Gr5IN22Dhn1DDkp0bLVHp), [Misekai](https://open.spotify.com/artist/2P5q71c4YYArbihJbkYi89) | [めをみて feat.千鎖 from ミセカイ](https://open.spotify.com/album/5BHVJeFWQtk6jBhTxR4JEH) | 3:45 |
+| 62 | [めをみて feat.千鎖 from ミセカイ](https://open.spotify.com/track/3IFrwp3kh2tOb5Ol7mkN7K) | [泡く、脆く。](https://open.spotify.com/artist/0Gr5IN22Dhn1DDkp0bLVHp), [ミセカイ](https://open.spotify.com/artist/0CPZbUqRC7ZymVB0SKsMIi) | [めをみて feat.千鎖 from ミセカイ](https://open.spotify.com/album/5BHVJeFWQtk6jBhTxR4JEH) | 3:45 |
 | 63 | [チートデイ](https://open.spotify.com/track/5uICw7DZWUJfnSkRbT7SvF) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [チートデイ](https://open.spotify.com/album/2Gf2TFClcpIiK5pZS4UpIt) | 4:29 |
 | 64 | [Eighdays](https://open.spotify.com/track/5uTBYCoNktVoHiNYhZTLrF) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [Eighdays](https://open.spotify.com/album/2atzkjLZ1m2rv26VwJ71Jv) | 4:03 |
 | 65 | [雨粒と花火](https://open.spotify.com/track/5B5TwL6lTyFkQn0KAiiPyI) | [KOBUKURO](https://open.spotify.com/artist/0llYwFIMgF9Jzmp4ZY7wbr) | [雨粒と花火](https://open.spotify.com/album/6rx0CQBXsSIqkHXwwDrcp3) | 4:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > happy 5 years of lorem\. thank you for listening :\) cover: ROLE MODEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,158,271 likes - 131 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,158,099 likes - 131 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

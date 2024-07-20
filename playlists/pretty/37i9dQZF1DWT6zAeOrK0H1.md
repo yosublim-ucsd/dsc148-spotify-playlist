@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 
 > Home of the best bands orbiting the universe right now\. Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,632 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,651 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 | 60 | [alife](https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 4:33 |
 | 61 | [Delicious Things](https://open.spotify.com/track/6pAfAhSBOeNi5Tw8AfB5RQ) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 5:04 |
 | 62 | [Purple Sun](https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Purple Sun](https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1) | 4:01 |
-| 63 | [Broadview](https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:05 |
-| 64 | [Free](https://open.spotify.com/track/6k7vblX4M4TgEjPt6jLoHZ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Free](https://open.spotify.com/album/1P2IeydghXZHVulSJLtReQ) | 3:54 |
+| 63 | [Free](https://open.spotify.com/track/6k7vblX4M4TgEjPt6jLoHZ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Free](https://open.spotify.com/album/1P2IeydghXZHVulSJLtReQ) | 3:54 |
+| 64 | [Broadview](https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:05 |
 | 65 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 |
 | 66 | [Cold Reactor](https://open.spotify.com/track/4HoOTJ8tM7ikMkEkoJTisX) | [Everything Everything](https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr) | [Cold Reactor](https://open.spotify.com/album/12GsikxFayV36XYx0JuMqj) | 3:51 |
-| 67 | [Discount De Kooning \(Last One Standing\)](https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 3:49 |
+| 67 | [Steamroller](https://open.spotify.com/track/5t4lCUVCHh65FOgYH1xxPN) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 3:25 |
 | 68 | [Pulling Through](https://open.spotify.com/track/03OFKv857PXCFgUlpah8Tc) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Here Comes Everybody](https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER) | 3:55 |
-| 69 | [Steamroller](https://open.spotify.com/track/5t4lCUVCHh65FOgYH1xxPN) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 3:25 |
+| 69 | [Discount De Kooning \(Last One Standing\)](https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 3:49 |
 | 70 | [Funky Galileo](https://open.spotify.com/track/7rNnqDOzc3Qoom2VhIyuxx) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Spirit Mission](https://open.spotify.com/album/31t6VcIOZ3WqsSH2F9Zcy0) | 4:06 |
 | 71 | [bloom](https://open.spotify.com/track/3u0eQFJsVwdvsNuXpN69LL) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [bloom](https://open.spotify.com/album/2IAfoNDtDi2F4cLoXfLx52) | 4:10 |
 | 72 | [my little tony](https://open.spotify.com/track/08PgEBgGK65DZpxudS1J73) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Twits](https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0) | 2:59 |

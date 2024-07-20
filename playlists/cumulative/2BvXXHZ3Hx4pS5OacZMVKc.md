@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-361 songs - 19 hr 1 min
+362 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [PULL UP](https://open.spotify.com/track/1BS10ZqOZDyY4D2JxPO2AL) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [PULL UP](https://open.spotify.com/album/2qxFZtfoMurigQtO5LElI1) | 2:02 | 2023-01-02 |  |
 | [Pushing On](https://open.spotify.com/track/2eK7XCveaHytVpdCdzVwtp) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Pushing On](https://open.spotify.com/album/1nzC7RjhJACSYcI7KCqenG) | 2:28 | 2024-05-31 |  |
 | [Radio](https://open.spotify.com/track/4mvfSVZQgpsfJpH67WWRJs) | [WBN](https://open.spotify.com/artist/3lylsmPHMyvkSFS4EQWWih), [Mojnz](https://open.spotify.com/artist/61cp16xuPyKTvJYmaAY6st) | [Radio](https://open.spotify.com/album/0f9uwxp1EHKSRyijI0dDLW) | 3:26 | 2022-09-13 | 2023-08-11 |
+| [Rally Up!](https://open.spotify.com/track/0FqOa0eycFePycgxkwBUyE) | [Grioten](https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt), [XI$OW](https://open.spotify.com/artist/7K0qGLCOb8pvUumHWsYSjF) | [Rally Up!](https://open.spotify.com/album/3gK2I4lWiSuhgH9nuhO8SW) | 1:33 | 2024-07-19 |  |
 | [Rave Teacher](https://open.spotify.com/track/6QbNswsr5y9cBIE8eKmS00) | [Kevu](https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU) | [Rave Teacher](https://open.spotify.com/album/213FdGnBTwgFAAbSroLCwD) | 2:51 | 2024-06-21 | 2024-07-09 |
 | [Ray of Light](https://open.spotify.com/track/1maMkl55C1F2xaR2bov2y2) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [Nieko](https://open.spotify.com/artist/54HJfygn5lF8sHYpO09nSm) | [Ray Of Light](https://open.spotify.com/album/0ipRm9TQS5hJn1SEP4Ifbw) | 2:45 | 2022-02-18 | 2023-08-11 |
 | [Razor](https://open.spotify.com/track/2V1Hga07DrnaJycGNM4FgG) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Razor](https://open.spotify.com/album/6J18D8pAsfT4miA43tk6u1) | 3:28 | 2023-08-10 |  |

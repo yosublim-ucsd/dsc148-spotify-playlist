@@ -4,7 +4,7 @@
 
 > Aquelas pra começar o dia de alma leve
 
-254 songs - 14 hr 21 min
+255 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Alô Saudades](https://open.spotify.com/track/6uLTk06Hhg87FPlA2eB9SU) | [Victor de Albuquerque](https://open.spotify.com/artist/5HJapWQnaATkzrc8UGlKgD) | [Alô Saudades](https://open.spotify.com/album/3Wq4GNgYO8k53GYXoJYuz1) | 2:19 | 2022-02-18 | 2022-06-10 |
 | [Amado](https://open.spotify.com/track/1UehyRYWHQxfj52XJbswIv) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Sim](https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC) | 4:09 | 2022-02-18 | 2023-08-26 |
 | [Amor de Cão](https://open.spotify.com/track/4y7DKv0aPbnBOr4N4Zmarg) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [Amor de Cão](https://open.spotify.com/album/6hl4tj4SIx6rK8mxFTKIuo) | 2:52 | 2022-04-01 | 2022-04-20 |
+| [Amor de Domingo](https://open.spotify.com/track/2BdSUjGlGxXZX2IK9DkTkc) | [Deb Ribeiro](https://open.spotify.com/artist/06v3ak9dY0QtSzyR0XKb6N), [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf) | [Amor de Domingo](https://open.spotify.com/album/0nc3EbdVSfsXT08FybsT4j) | 2:34 | 2024-07-19 |  |
 | [Amor Pra Descansar](https://open.spotify.com/track/3KVl56p20G8S3Mz7oYaSy6) | [Badulaque](https://open.spotify.com/artist/0dAAgcwcLoZkVH9EYgTIrr) | [Amor Pra Descansar](https://open.spotify.com/album/1K7psoyO0lBinkVsYaAwJA) | 3:39 | 2022-03-11 | 2022-04-21 |
 | [Amor Todinho](https://open.spotify.com/track/2N4mZBmWI75yROTcGZwnux) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Amor Todinho](https://open.spotify.com/album/6twToesubSRehurAORMXrC) | 2:37 | 2024-03-01 | 2024-03-19 |
 | [Andarilho](https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Andarilho](https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0) | 3:50 | 2022-02-18 | 2023-03-13 |
@@ -147,7 +148,7 @@
 | [Mantra \(Feat\. Emicida\)](https://open.spotify.com/track/1vuAdDQlGRntmbQ7RpkObZ) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Casas](https://open.spotify.com/album/4srydLleGSH7OmLav3nCTX) | 4:54 | 2022-04-01 | 2022-08-02 |
 | [Maria Maria \- Spotify Singles](https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Maria Maria \- Spotify Singles](https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi) | 2:23 | 2022-10-26 | 2023-05-03 |
 | [Marquinha](https://open.spotify.com/track/02rjxgJbgFFC8tkjG2IkF2) | [Salma e Mac](https://open.spotify.com/artist/6bqMZJqVqEaMjCR1DbvlOh) | [Marquinha](https://open.spotify.com/album/5QXuAZEYobRrUP5oQvtGZZ) | 2:17 | 2022-06-24 | 2022-07-18 |
-| [Me conta da tua janela](https://open.spotify.com/track/6oEwV0l34zhnC7OmAqmHjY) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Me conta da tua janela](https://open.spotify.com/album/5GpWKpMkkFoz94PFxBeAJF) | 3:22 | 2022-02-18 |  |
+| [Me conta da tua janela](https://open.spotify.com/track/6oEwV0l34zhnC7OmAqmHjY) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Me conta da tua janela](https://open.spotify.com/album/5GpWKpMkkFoz94PFxBeAJF) | 3:22 | 2022-02-18 | 2024-07-20 |
 | [Me Desculpa Jay\-Z \- Remix](https://open.spotify.com/track/40hftNcJCgyecU9qBztKJw) | [NZ Gang](https://open.spotify.com/artist/6iMKGYHTI74f87dWYeVkxX) | [Me Desculpa Jay\-Z \(Remix\)](https://open.spotify.com/album/2wAuBTMFO4dWdHgG55d3Tv) | 3:36 | 2022-04-01 | 2022-04-21 |
 | [Me Espera](https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Meu Canto \- EP](https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB) | 3:50 | 2022-02-18 |  |
 | [ME LIGA](https://open.spotify.com/track/54RUeOrfNtx0Kh1Rep3vpH) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Murilo Chester](https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU) | [ME LIGA](https://open.spotify.com/album/7ugZCiXucEKq36HER7Nuka) | 2:13 | 2024-06-21 |  |

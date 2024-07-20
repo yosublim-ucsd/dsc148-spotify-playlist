@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: The Aston Shuffle
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,800 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,804 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 75 | [Loserz](https://open.spotify.com/track/26KVuxfMrw033J751AilYv) | [Gregor McMurray](https://open.spotify.com/artist/1I2XKnqddS320Fo1vXH9WO) | [Loserz](https://open.spotify.com/album/5acyO15o08mWsK6M52Vq6d) | 3:22 |
 | 76 | [left u](https://open.spotify.com/track/19yihq4raZGhYZlDEUI75a) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA), [JOY.](https://open.spotify.com/artist/2sphpXGg1u97VSzbm5gR2P) | [left u](https://open.spotify.com/album/724lIJTgUgcouczJpSDYFg) | 3:09 |
 | 77 | [LOSE IT ALL](https://open.spotify.com/track/3J99lVecjy1nel5sbqR4C7) | [REPAIR](https://open.spotify.com/artist/0xLqXvK6horF4enARe8AIN), [Mikeyy](https://open.spotify.com/artist/55ILpEsjJWvHpPIlUQIJJW) | [Lose It All](https://open.spotify.com/album/6Uj4vtl1oiMR7uoIBWnkyf) | 3:31 |
-| 78 | [Our Time](https://open.spotify.com/track/1QlAewMh3yKwGIabZP80gl) | [Chores](https://open.spotify.com/artist/1iRqRj6wAq5wAAjfzpbH1I), [Aimee](https://open.spotify.com/artist/09F3JpLQquvyKqlygnVFKM) | [Our Time](https://open.spotify.com/album/6Mmbd214ZlAhjOmzJ4FoYZ) | 4:23 |
+| 78 | [Our Time](https://open.spotify.com/track/1QlAewMh3yKwGIabZP80gl) | [Chores](https://open.spotify.com/artist/1iRqRj6wAq5wAAjfzpbH1I), [Aimee](https://open.spotify.com/artist/2unTnmdsAAiEEJ8bNEl8Yf) | [Our Time](https://open.spotify.com/album/6Mmbd214ZlAhjOmzJ4FoYZ) | 4:23 |
 | 79 | [Sum Like It Hot](https://open.spotify.com/track/3gOLOhJC6veJX4IQEO4yR9) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF), [Saint Rock](https://open.spotify.com/artist/6C6t0KhFTcGHV7nUlPdjrK) | [Sum Like It Hot](https://open.spotify.com/album/6XSSwhqCb8fyzXL0IhryFK) | 3:09 |
 | 80 | [library](https://open.spotify.com/track/6mz3QCVaJ2RAKqLJiokShY) | [Boone](https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5) | [library](https://open.spotify.com/album/7a2Gvdzcg91guMenhk4W6G) | 2:46 |
 | 81 | [Set Me Free](https://open.spotify.com/track/68R0H67eY2eXBu6bOHMaQm) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Set Me Free](https://open.spotify.com/album/0OJ3DA76XJWizWaSFSjkIl) | 3:10 |

@@ -2,7 +2,7 @@
 
 ### [This Is Los Traileros Del Norte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3SlD0O)
 
-> This is Los Traileros Del Norte\. The essential tracks, all in one playlist.
+> This Is Los Traileros Del Norte\. Los temas esenciales, todos en una lista.
 
 92 songs - 4 hr 27 min
 
@@ -13,7 +13,7 @@
 | [Abeja Reína](https://open.spotify.com/track/2m5ePayanrtB3LWWiKxVEg) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 2:54 | 2022-11-17 |  |
 | [Ahora Que Estuviste Lejos](https://open.spotify.com/track/3g9YsvJjIeKa2W2sXg7tae) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amnesia](https://open.spotify.com/album/7303vr0nPaEu0hGye4S4rz) | 2:34 | 2023-12-13 |  |
 | [Ahora Que Estuviste Lejos](https://open.spotify.com/track/1TFcMQeNqQiBwlpNPPPmD0) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Gran Encuentro \(20 Éxitos Originales\)](https://open.spotify.com/album/0h5HCJTFJd9Cy6EYqLcwfK) | 2:35 | 2022-06-01 | 2022-09-30 |
-| [Amnesia](https://open.spotify.com/track/2ZT0rXwm3h0FaGgA5CLzGt) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amnesia](https://open.spotify.com/album/7303vr0nPaEu0hGye4S4rz) | 3:02 | 2022-06-01 |  |
+| [Amnesia](https://open.spotify.com/track/2ZT0rXwm3h0FaGgA5CLzGt) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amnesia](https://open.spotify.com/album/7303vr0nPaEu0hGye4S4rz) | 3:02 | 2022-06-01 | 2024-07-20 |
 | [Amor Brutal \- En Vivo](https://open.spotify.com/track/4buTWLBGvDn8mtWXKHoM8D) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [35 Aniversario: En Vivo Desde el Domo Care](https://open.spotify.com/album/7mmW9hGKCj290Te1XeeFMr) | 2:52 | 2022-06-09 | 2022-06-12 |
 | [Anoche Estuve Llorando](https://open.spotify.com/track/2HG6dbqVUBQQEe9JtyTns1) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 3:14 | 2022-06-01 |  |
 | [Apartamento Tres](https://open.spotify.com/track/1kDuEYiV3CfuGDoopG9fL4) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/3MFxr13HI3eqlPRgW5lYZw) | 2:40 | 2022-06-01 | 2022-09-18 |
@@ -49,7 +49,7 @@
 | [Fracaso](https://open.spotify.com/track/45k71bk9yCZioceJ3umVzC) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 2:45 | 2022-09-15 |  |
 | [Hotel De Paso](https://open.spotify.com/track/5nFMsTQAVRBUIiqLstuO2t) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7) | 2:50 | 2022-06-01 |  |
 | [Islas Marías](https://open.spotify.com/track/1qNXN1U7whKkdvQciiiFU8) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 3:03 | 2022-12-20 |  |
-| [La Bonga](https://open.spotify.com/track/371wL5t7rb4A7NNy4S4X2h) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Tus Labios Y Mi Copa](https://open.spotify.com/album/3frUbYXWEdVYyl3LF9OhOv) | 3:12 | 2024-07-07 | 2024-07-10 |
+| [La Bonga](https://open.spotify.com/track/371wL5t7rb4A7NNy4S4X2h) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Tus Labios Y Mi Copa](https://open.spotify.com/album/3frUbYXWEdVYyl3LF9OhOv) | 3:12 | 2024-07-07 |  |
 | [La Burra Tuerta](https://open.spotify.com/track/4kcODJ1E30HoJA6zhwvNqC) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7) | 2:36 | 2022-06-01 |  |
 | [La Desmedida](https://open.spotify.com/track/3ilkGDqYW0m2gpDBD09qnE) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 2:33 | 2022-06-01 | 2024-07-04 |
 | [La Entrega](https://open.spotify.com/track/4E2uYqHn60DDtOP16sLMuz) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Arrastrando La Cobija \(Clásicos Digitalizados\)](https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK) | 2:25 | 2022-11-30 |  |

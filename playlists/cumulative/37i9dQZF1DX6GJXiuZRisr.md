@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-511 songs - 1 day 11 hr 58 min
+512 songs - 1 day 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Neon Jungle \- Lane 8 Remix](https://open.spotify.com/track/4G3qY8rJC9C4BjKpzwsZN3) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Neon Jungle Remixes](https://open.spotify.com/album/2DFDsmaWVdYxxkxGaPi2i2) | 4:09 | 2022-07-01 | 2023-05-04 |
 | [Never Look Back](https://open.spotify.com/track/2eWJ7zxXXSy69oJf5143Wm) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Never Look Back](https://open.spotify.com/album/2rWwHs1pK0dg4eV9pudC3y) | 3:42 | 2021-05-07 | 2022-07-28 |
 | [Night Drive](https://open.spotify.com/track/3UMw5qedrTAXx3UjcFOBA5) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Night Drive](https://open.spotify.com/album/7FwIAvFrHKLjmwaWV3mIOs) | 3:24 | 2024-07-02 |  |
+| [No Matter What](https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [No Matter What](https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO) | 3:22 | 2024-07-19 |  |
 | [No Need To Hide](https://open.spotify.com/track/024TgtXFxGA9oxeW36nzI8) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Quibus](https://open.spotify.com/artist/55rtigPkEd4FHbLBF2bwz4), [Marcel Young](https://open.spotify.com/artist/3MpVjrkJSjDGuqopgOqoPm) | [Whatever Realm / No Need To Hide](https://open.spotify.com/album/5FKnTHA2BcxHui4xe8qNgQ) | 4:39 | 2021-08-27 | 2022-07-28 |
 | [No One’s Coming](https://open.spotify.com/track/1OEV1ikFNp6iGH2oIixzhA) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8) | [New World](https://open.spotify.com/album/2FYKOfOhEXB3iUfjay4ZRl) | 3:38 | 2024-04-19 | 2024-06-15 |
 | [No One’s Coming](https://open.spotify.com/track/5yKh1r5JXYKjUS4QHeoixs) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:38 | 2024-03-15 | 2024-04-19 |
@@ -341,7 +342,7 @@
 | [Radiant](https://open.spotify.com/track/1iyxxUxyptXWtEdRXRBeda) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C) | [Radiant](https://open.spotify.com/album/3t5CejWFtZFsh5P6TfnM41) | 3:05 | 2021-11-05 | 2022-07-23 |
 | [Radiation](https://open.spotify.com/track/5NhqdTRCcqww2HaRv9nXiF) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Metaphysical](https://open.spotify.com/album/7D5ZdfERUaNqQQmjAHW6CM) | 3:30 | 2022-10-28 | 2023-07-06 |
 | [Rapture](https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [Rapture \(with Robert Falcon\)](https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB) | 3:07 | 2023-12-08 |  |
-| [Rave](https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Rave](https://open.spotify.com/album/3mmQk6NOkaA1dd17JI1BRG) | 4:48 | 2023-07-28 |  |
+| [Rave](https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Rave](https://open.spotify.com/album/3mmQk6NOkaA1dd17JI1BRG) | 4:48 | 2023-07-28 | 2024-07-20 |
 | [Ray](https://open.spotify.com/track/3425OMM9bb64VMNXXldLvU) | [Avoure](https://open.spotify.com/artist/37S9qlW44AiakSF45Vra1E) | [This Time / Ray](https://open.spotify.com/album/44uAC9UVMSekbXyBJV8nMO) | 6:54 | 2022-07-01 | 2023-02-18 |
 | [Ray](https://open.spotify.com/track/3rDUDqgWlSYBrI86la2C8f) | [Avoure](https://open.spotify.com/artist/37S9qlW44AiakSF45Vra1E) | [This Time / Ray](https://open.spotify.com/album/0Vr1hA0OG4hvKjd9ssWCgL) | 6:54 | 2021-05-07 | 2022-07-26 |
 | [Ray Of Solar \- Mau P Remix](https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Ray Of Solar \(Mau P Remix\)](https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh) | 4:11 | 2023-09-22 |  |

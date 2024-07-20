@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 
 > Samara en tête de la playlist numéro un en Tunisie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,477 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,540 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Souk](https://open.spotify.com/track/0xbh3QhQx7S3GLEOWXWzGr) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Souk](https://open.spotify.com/album/60yaMTkfX5OtAOnnrD8ya2) | 3:40 |
+| 1 | [Feu Rouge](https://open.spotify.com/track/6ioXzGjgbAr1TFRHAjxD6p) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm), [BAYA](https://open.spotify.com/artist/44tT41qPtEntyDJPyjxZtN) | [Zayn](https://open.spotify.com/album/4QXZZzVBH1pjiVBxyySKjr) | 4:18 |
 | 2 | [Ghaba](https://open.spotify.com/track/5fJzqNudt8ZdoFGi1LsQbT) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Ghaba](https://open.spotify.com/album/3cjuodS53dH13S46iQavuk) | 3:05 |
 | 3 | [Ya Sahbi](https://open.spotify.com/track/4U9GjUOxRoDRO6Yg1QaUeE) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia), [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Ya Sahbi](https://open.spotify.com/album/2J27wurV6EWwZdzPra8SL4) | 3:18 |
 | 4 | [Ena](https://open.spotify.com/track/2ALQWCgk5wq7qJco8XCng0) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ena](https://open.spotify.com/album/306Ofv0B37wDNlgX354JtR) | 5:12 |
-| 5 | [Feu Rouge](https://open.spotify.com/track/6ioXzGjgbAr1TFRHAjxD6p) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm), [BAYA](https://open.spotify.com/artist/44tT41qPtEntyDJPyjxZtN) | [Zayn](https://open.spotify.com/album/4QXZZzVBH1pjiVBxyySKjr) | 4:18 |
-| 6 | [Mazelt sghir](https://open.spotify.com/track/6VITZeXhpy0zUSolcl0u92) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mazelt sghir](https://open.spotify.com/album/5IZagv0nBNCgIZHt0TF0PZ) | 3:52 |
+| 5 | [Mazelt sghir](https://open.spotify.com/track/6VITZeXhpy0zUSolcl0u92) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mazelt sghir](https://open.spotify.com/album/5IZagv0nBNCgIZHt0TF0PZ) | 3:52 |
+| 6 | [Souk](https://open.spotify.com/track/0xbh3QhQx7S3GLEOWXWzGr) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Souk](https://open.spotify.com/album/60yaMTkfX5OtAOnnrD8ya2) | 3:40 |
 | 7 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 |
 | 8 | [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 |
 | 9 | [Manetfergou](https://open.spotify.com/track/3cPaU2mPl07jFske7Oa6BM) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Mdayda](https://open.spotify.com/album/3FSUMn0xQilIzfsPjyQptP) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 49 | [Netmanelk Kol El Khiir](https://open.spotify.com/track/1gDdQjwwE1oN5MdjQ40lRw) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Netmanelk Kol El Khiir](https://open.spotify.com/album/0GqpIWbuB1eiOL068TgMxc) | 2:25 |
 | 50 | [Binetna Layem](https://open.spotify.com/track/1jAQdXTEXfuVHALTavUjM4) | [D\-Boy](https://open.spotify.com/artist/5lzHwZFme9EybZygeGKMA0) | [Binetna Layem](https://open.spotify.com/album/6Ut6jmti17RQK7YJLyzdGs) | 3:22 |
 
-Snapshot ID: `ZpjOjAAAAADAWSHD8xdfoqfdDYJ3Qg4j`
+Snapshot ID: `ZpoyrgAAAAB1WCY0+JNBliMBIfPVftkO`

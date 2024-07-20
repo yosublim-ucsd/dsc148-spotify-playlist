@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-1,103 songs - 2 day 11 hr 58 min
+1,104 songs - 2 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,8 @@
 | [CRUSH](https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [CRUSH](https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf) | 3:53 | 2024-04-06 |  |
 | [Cuando Ella Sale](https://open.spotify.com/track/0bxzF2Kyql0pQ58Mymztue) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Cuando Ella Sale](https://open.spotify.com/album/4izXmDJvboFTIVxs8gkO94) | 3:42 | 2021-10-28 | 2022-02-02 |
 | [Cuando Sera](https://open.spotify.com/track/1UmZpd5navRsg2ukqCKJjc) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Primer Dia de Clases](https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5) | 2:56 | 2021-03-27\* | 2021-04-14 |
-| [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/track/5OwAhFlvFZ4ZdGDfroYgAm) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/album/5B3AaoOK8o22cYkdoBOVFI) | 3:38 | 2024-07-04 |  |
+| [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/track/3KeYEr9ogMBemsOfQIJmZp) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/album/4u5sL85dlRv7eIMJIozZl8) | 3:38 | 2024-07-19 |  |
+| [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/track/5OwAhFlvFZ4ZdGDfroYgAm) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/album/5B3AaoOK8o22cYkdoBOVFI) | 3:38 | 2024-07-04 | 2024-07-20 |
 | [Cuerpecito](https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Cuerpecito](https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad) | 3:15 | 2023-04-01 | 2023-04-27 |
 | [Cuestión de Fe](https://open.spotify.com/track/1fOYtsFfEOvQVFuFwLUnVI) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Hijos de la ruina, vol\. 3](https://open.spotify.com/album/5ElCfa24Wz9evOfT5k6uEB) | 4:50 | 2021-04-15 | 2021-04-19 |
 | [Cuevita](https://open.spotify.com/track/3LGn1d8P4Na3WHvYwCE6NL) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:40 | 2023-03-18 | 2023-03-21 |

@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92185,
+  "num_followers": 92196,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -523,18 +523,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Solen g\u00e5r aldrig ner",
-        "url": "https://open.spotify.com/album/2y5tJvYtWXmNNXizFcF9LT"
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
       },
       "artists": [
         {
-          "name": "Tim Lidman",
-          "url": "https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq"
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
         }
       ],
-      "duration_ms": 160095,
-      "name": "Solen g\u00e5r aldrig ner",
-      "url": "https://open.spotify.com/track/7sWi4kUiI1o0dmp72tfZpS"
+      "duration_ms": 208651,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Worthy",
-        "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
+        "name": "Solen g\u00e5r aldrig ner",
+        "url": "https://open.spotify.com/album/2y5tJvYtWXmNNXizFcF9LT"
       },
       "artists": [
         {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+          "name": "Tim Lidman",
+          "url": "https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq"
         }
       ],
-      "duration_ms": 208651,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
+      "duration_ms": 160095,
+      "name": "Solen g\u00e5r aldrig ner",
+      "url": "https://open.spotify.com/track/7sWi4kUiI1o0dmp72tfZpS"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "V\u00e5t cigg",
-        "url": "https://open.spotify.com/album/13aQpmGiwma9E39lQip4ip"
-      },
-      "artists": [
-        {
-          "name": "Lancelot",
-          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "V\u00e5t cigg",
-      "url": "https://open.spotify.com/track/5uHlBtaRXlyJhbMYAIBFRH"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Walk With Me - Chod\u017a ze mn\u0105",
         "url": "https://open.spotify.com/album/1NQkvIurxrCar63mMVxX4z"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 168457,
       "name": "Walk With Me - Chod\u017a ze mn\u0105",
       "url": "https://open.spotify.com/track/2WVD6L40UgAfoGqkLplnlr"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "V\u00e5t cigg",
+        "url": "https://open.spotify.com/album/13aQpmGiwma9E39lQip4ip"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "V\u00e5t cigg",
+      "url": "https://open.spotify.com/track/5uHlBtaRXlyJhbMYAIBFRH"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/73r6BjTe5UkHsV76kenlwO"
-      },
-      "artists": [
-        {
-          "name": "VAKER",
-          "url": "https://open.spotify.com/artist/2sg9pn5r51AVgk9ihcSoKP"
-        }
-      ],
-      "duration_ms": 188075,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/3crBzdu0lmHgnHBbFzGr4n"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "F\u00f6rbjudna tankar",
         "url": "https://open.spotify.com/album/0jEvZDn9Q701djBnQeZEAj"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 139354,
       "name": "F\u00f6rbjudna tankar",
       "url": "https://open.spotify.com/track/23fBN1sw5DBKnADUPxUicl"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/73r6BjTe5UkHsV76kenlwO"
+      },
+      "artists": [
+        {
+          "name": "VAKER",
+          "url": "https://open.spotify.com/artist/2sg9pn5r51AVgk9ihcSoKP"
+        }
+      ],
+      "duration_ms": 188075,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/3crBzdu0lmHgnHBbFzGr4n"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Whenever Until Forever",
+        "url": "https://open.spotify.com/album/5Usc0cjLbxZIYTHITrYzpH"
+      },
+      "artists": [
+        {
+          "name": "Andreas Aleman",
+          "url": "https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "Whenever Until Forever",
+      "url": "https://open.spotify.com/track/37EADDLCH83KNNW0ydwhNO"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Jag vill stanna h\u00e4r",
         "url": "https://open.spotify.com/album/4dyngznUL3t27C2W2kasOB"
       },
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Siljans strand / Midsommarvisa",
-        "url": "https://open.spotify.com/album/3JilTaTno4h9mQtackWJtw"
-      },
-      "artists": [
-        {
-          "name": "Stiko Per Larsson",
-          "url": "https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "Siljans strand",
-      "url": "https://open.spotify.com/track/1H8DYjLRJ8MLtJiz4uKTkK"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Sommartider",
         "url": "https://open.spotify.com/album/4WEMP3mTVAWogpn0Dfpnll"
       },
@@ -1463,6 +1463,22 @@
       "duration_ms": 160546,
       "name": "Sommartider",
       "url": "https://open.spotify.com/track/3jGs9Nt1ZoxJou5gVEEech"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Siljans strand / Midsommarvisa",
+        "url": "https://open.spotify.com/album/3JilTaTno4h9mQtackWJtw"
+      },
+      "artists": [
+        {
+          "name": "Stiko Per Larsson",
+          "url": "https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "Siljans strand",
+      "url": "https://open.spotify.com/track/1H8DYjLRJ8MLtJiz4uKTkK"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Den var aldrig jag",
-        "url": "https://open.spotify.com/album/5eJLPau2afg63p9rCHVQL4"
-      },
-      "artists": [
-        {
-          "name": "Shirley Clamp",
-          "url": "https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7"
-        }
-      ],
-      "duration_ms": 244090,
-      "name": "Den var aldrig jag",
-      "url": "https://open.spotify.com/track/3LdjyOCA3Xj5hS4q5y3Pdu"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Draw Me Closer 2.0",
         "url": "https://open.spotify.com/album/4Q9n0l1o6u76glGTDQBPfN"
       },
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Whenever Until Forever",
-        "url": "https://open.spotify.com/album/5Usc0cjLbxZIYTHITrYzpH"
-      },
-      "artists": [
-        {
-          "name": "Andreas Aleman",
-          "url": "https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "Whenever Until Forever",
-      "url": "https://open.spotify.com/track/37EADDLCH83KNNW0ydwhNO"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Peaceful Easy Feeling",
         "url": "https://open.spotify.com/album/2uxvMTMKp8jS3icJPSqIhL"
       },
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Melody Rules",
-        "url": "https://open.spotify.com/album/1yhxNGgEcDnwMERY4hDfNz"
+        "name": "Den var aldrig jag",
+        "url": "https://open.spotify.com/album/5eJLPau2afg63p9rCHVQL4"
       },
       "artists": [
         {
-          "name": "Nicolai Dunger",
-          "url": "https://open.spotify.com/artist/1XUJ4bS7sEaPb29R4LzY18"
+          "name": "Shirley Clamp",
+          "url": "https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7"
         }
       ],
-      "duration_ms": 289200,
-      "name": "Melody Rules",
-      "url": "https://open.spotify.com/track/1p6LSddhiya9yb8JUijvTd"
+      "duration_ms": 244090,
+      "name": "Den var aldrig jag",
+      "url": "https://open.spotify.com/track/3LdjyOCA3Xj5hS4q5y3Pdu"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1647,18 +1631,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Se mig bara f\u00f6r den jag \u00e4r",
-        "url": "https://open.spotify.com/album/76ffJEYzoFrQlS9hQ4UUzh"
+        "name": "Melody Rules",
+        "url": "https://open.spotify.com/album/1yhxNGgEcDnwMERY4hDfNz"
       },
       "artists": [
         {
-          "name": "Magnus Carlsson",
-          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
+          "name": "Nicolai Dunger",
+          "url": "https://open.spotify.com/artist/1XUJ4bS7sEaPb29R4LzY18"
         }
       ],
-      "duration_ms": 186320,
-      "name": "M\u00f6t mig i Gamla Stan (Swing Version)",
-      "url": "https://open.spotify.com/track/6MIqXeG9H9NCqzlrEVwS7s"
+      "duration_ms": 289200,
+      "name": "Melody Rules",
+      "url": "https://open.spotify.com/track/1p6LSddhiya9yb8JUijvTd"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1703,6 +1687,22 @@
       "duration_ms": 186278,
       "name": "Sunny Day",
       "url": "https://open.spotify.com/track/4KZZ4pHjwZqGm0WWq8XrAl"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Se mig bara f\u00f6r den jag \u00e4r",
+        "url": "https://open.spotify.com/album/76ffJEYzoFrQlS9hQ4UUzh"
+      },
+      "artists": [
+        {
+          "name": "Magnus Carlsson",
+          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
+        }
+      ],
+      "duration_ms": 186320,
+      "name": "M\u00f6t mig i Gamla Stan (Swing Version)",
+      "url": "https://open.spotify.com/track/6MIqXeG9H9NCqzlrEVwS7s"
     },
     {
       "added_at": "2024-06-27 22:00:00",

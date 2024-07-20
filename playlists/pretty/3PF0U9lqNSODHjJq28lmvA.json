@@ -6,279 +6,475 @@
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAADxMEpUakUtCSeXx4MqZ2VtZNr+2vZ",
+  "snapshot_id": "AAADxnRsHytzRc3f5/67ovRY11osLBsw",
   "tracks": [
     {
-      "added_at": "2024-07-12 14:03:41",
+      "added_at": "2024-07-19 14:53:06",
       "album": {
-        "name": "Vieraslaji",
-        "url": "https://open.spotify.com/album/65DJRI5MPflz0NdKFaFhEU"
+        "name": "Remixodus",
+        "url": "https://open.spotify.com/album/3Vkz7Nk0yMEs5wh9zpH8TA"
       },
       "artists": [
         {
-          "name": "Huge L",
-          "url": "https://open.spotify.com/artist/3CsfzUptehCikRLWMHr1dB"
-        }
-      ],
-      "duration_ms": 164285,
-      "name": "Takaisin Pasilaan",
-      "url": "https://open.spotify.com/track/37Sre4CH0fqK4N7BsuvSPi"
-    },
-    {
-      "added_at": "2024-07-12 14:03:41",
-      "album": {
-        "name": "itd mean my life",
-        "url": "https://open.spotify.com/album/0R8i93ePX6thEiOLT7Tn9B"
-      },
-      "artists": [
-        {
-          "name": "TeYo",
-          "url": "https://open.spotify.com/artist/4quJ5m7lBQ7ZbBEDHikTEC"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "itd mean my life",
-      "url": "https://open.spotify.com/track/44k4tFdbnpCL1es1eEt4MT"
-    },
-    {
-      "added_at": "2024-07-12 14:03:41",
-      "album": {
-        "name": "Easy Come Easy Go",
-        "url": "https://open.spotify.com/album/294KlaRRWiw9ndZikr6VqZ"
-      },
-      "artists": [
-        {
-          "name": "Marko Kattilakoski",
-          "url": "https://open.spotify.com/artist/6Txkvc6QZf8Qfr3YyEgdnR"
+          "name": "Army Of Lovers",
+          "url": "https://open.spotify.com/artist/3JXnjuv4hBqQKOVzJg74Lt"
         },
         {
-          "name": "West11",
-          "url": "https://open.spotify.com/artist/70VJLyt1Xs8zZG5Qf0v2LK"
+          "name": "Maxim Andreev",
+          "url": "https://open.spotify.com/artist/7nuN2CHodfSfJkZOs8iudw"
         }
       ],
-      "duration_ms": 225607,
-      "name": "Easy Come Easy Go",
-      "url": "https://open.spotify.com/track/1TZE3t9U97cQ7aVPEfcfV2"
+      "duration_ms": 202773,
+      "name": "Sexodus - Maxim Andreev Radio Edit",
+      "url": "https://open.spotify.com/track/6hnGK1xqa1cgPMTm89dETp"
     },
     {
-      "added_at": "2024-07-12 14:03:41",
+      "added_at": "2024-07-19 14:53:06",
       "album": {
-        "name": "Varje dag",
-        "url": "https://open.spotify.com/album/4t2YQO2in7vxZf5tjykGxG"
+        "name": "PARIS SUMMER GAMES",
+        "url": "https://open.spotify.com/album/1cFyKsbOvAOID4MNJTgCXK"
       },
       "artists": [
         {
-          "name": "Ludvig Isacsson",
-          "url": "https://open.spotify.com/artist/1avku2Cmise3sJpGwiYytg"
+          "name": "Subway Surfers",
+          "url": "https://open.spotify.com/artist/1fqpSvihFqrhpvzrTPrRMQ"
+        }
+      ],
+      "duration_ms": 142002,
+      "name": "PARIS SUMMER GAMES",
+      "url": "https://open.spotify.com/track/2JFVPaOLcm6pmWJpCa2JSk"
+    },
+    {
+      "added_at": "2024-07-19 14:53:06",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6EgTzD0PIVowjExwaCnPBZ"
+      },
+      "artists": [
+        {
+          "name": "Feyesal",
+          "url": "https://open.spotify.com/artist/6frffJSfCnyExIFDQEHnyf"
+        }
+      ],
+      "duration_ms": 171796,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/4yO5P4JONirgj59ZYyeQMG"
+    },
+    {
+      "added_at": "2024-07-19 14:53:06",
+      "album": {
+        "name": "RYYBS & NARCS",
+        "url": "https://open.spotify.com/album/7rFKOXjKmzucvhc3TJSnTn"
+      },
+      "artists": [
+        {
+          "name": "OG Ulla-Maija",
+          "url": "https://open.spotify.com/artist/0OYspJRShx3Yx7QIykOJgq"
+        }
+      ],
+      "duration_ms": 169038,
+      "name": "RYYBS & NARCS",
+      "url": "https://open.spotify.com/track/7J7phWDXE0HU5szQxvTkRD"
+    },
+    {
+      "added_at": "2024-07-19 14:53:06",
+      "album": {
+        "name": "All I have is U",
+        "url": "https://open.spotify.com/album/4StG0Etc6pSDvfsgGFz0be"
+      },
+      "artists": [
+        {
+          "name": "Petit Ocean",
+          "url": "https://open.spotify.com/artist/7AEN8ZkPQr7M45Sb3emoMf"
         },
         {
-          "name": "Marie Bergman",
-          "url": "https://open.spotify.com/artist/1EF9hLul0ZZcbh7dmXWF99"
-        }
-      ],
-      "duration_ms": 263762,
-      "name": "Varje dag",
-      "url": "https://open.spotify.com/track/0o5u3IczFLsuYeM0t63Uhz"
-    },
-    {
-      "added_at": "2024-07-12 14:03:41",
-      "album": {
-        "name": "In The Garden, By The Remixes",
-        "url": "https://open.spotify.com/album/1xoT0JdDJ5OVfFFMihIJJY"
-      },
-      "artists": [
-        {
-          "name": "Josaleigh Pollett",
-          "url": "https://open.spotify.com/artist/58f1MCgC8Q0XnjYqEpklz9"
+          "name": "CASILIAN",
+          "url": "https://open.spotify.com/artist/3QEWkt4IaSKCiQUdDSqqvY"
         },
         {
-          "name": "Crowd Shy",
-          "url": "https://open.spotify.com/artist/56PFTDT6hR5g9uDRWTDRVk"
+          "name": "L.U:N.A",
+          "url": "https://open.spotify.com/artist/69m0BPeWJi5xH4BDvcyewk"
+        }
+      ],
+      "duration_ms": 180959,
+      "name": "All I have is U",
+      "url": "https://open.spotify.com/track/2HUeM6WrZH4D94W7iqQoRc"
+    },
+    {
+      "added_at": "2024-07-19 14:53:06",
+      "album": {
+        "name": "Midsummer Blues",
+        "url": "https://open.spotify.com/album/3R1vOf96QHsMGf3cLu4w4Q"
+      },
+      "artists": [
+        {
+          "name": "GINAxC",
+          "url": "https://open.spotify.com/artist/4hHUHCaBuD2d2FRHLgeOWQ"
+        }
+      ],
+      "duration_ms": 186044,
+      "name": "Midsummer Blues",
+      "url": "https://open.spotify.com/track/4wuWcpTqDSAHRyA0SE6b7l"
+    },
+    {
+      "added_at": "2024-07-19 14:53:06",
+      "album": {
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/31iMPQh0M5Iw4d5SZCsmjJ"
+      },
+      "artists": [
+        {
+          "name": "JD Casper",
+          "url": "https://open.spotify.com/artist/5Q0G3Qz3SZiB9OvGwaPMRL"
+        }
+      ],
+      "duration_ms": 184180,
+      "name": "Wish I Woulda Known",
+      "url": "https://open.spotify.com/track/197VQBcqLESrs3MeoBejzD"
+    },
+    {
+      "added_at": "2024-07-19 14:53:06",
+      "album": {
+        "name": "2SEATERS",
+        "url": "https://open.spotify.com/album/59PKtjoziStHASPRYUvxeu"
+      },
+      "artists": [
+        {
+          "name": "M.S.Y.G",
+          "url": "https://open.spotify.com/artist/4KvxQV8SNw9nA4oXpy7oZI"
+        }
+      ],
+      "duration_ms": 182668,
+      "name": "2SEATERS",
+      "url": "https://open.spotify.com/track/7oAdpPmlmIcEsz7Vf9Wp2Y"
+    },
+    {
+      "added_at": "2024-07-19 14:53:06",
+      "album": {
+        "name": "Cycle Of Pursuit",
+        "url": "https://open.spotify.com/album/6AjaCsGZRSAh3wdrCoiD6Q"
+      },
+      "artists": [
+        {
+          "name": "Satori Sun",
+          "url": "https://open.spotify.com/artist/2U31KvGjJP17T1YfZ3iM8Z"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Last Words",
+      "url": "https://open.spotify.com/track/1r0kLsXWXcdUk1uYOZ4uJK"
+    },
+    {
+      "added_at": "2024-07-19 14:53:06",
+      "album": {
+        "name": "River Wild",
+        "url": "https://open.spotify.com/album/702SuBRvQdZVCWCCoUDGla"
+      },
+      "artists": [
+        {
+          "name": "4SuMotion",
+          "url": "https://open.spotify.com/artist/3nfSbiOVXxQrH9pv4FgM7F"
         },
         {
-          "name": "Color Temperature",
-          "url": "https://open.spotify.com/artist/6Y1vAFL7PrlfvlluPBA1ar"
+          "name": "Vinny Mannion",
+          "url": "https://open.spotify.com/artist/7pwWjE1q58cI0H6chAFUxf"
         }
       ],
-      "duration_ms": 242337,
-      "name": "Not Easy, Not Forever - Color Temperature Remix",
-      "url": "https://open.spotify.com/track/4WT6xWr9IAUqF9VpK8OtKE"
+      "duration_ms": 336999,
+      "name": "River Wild",
+      "url": "https://open.spotify.com/track/1YDPg1xXvCLtQxD4N4iOT0"
     },
     {
-      "added_at": "2024-07-12 14:03:41",
+      "added_at": "2024-07-19 14:53:06",
       "album": {
-        "name": "jag l\u00e5tsas",
-        "url": "https://open.spotify.com/album/1M1xSlZsGyiODEGAi2Fb62"
+        "name": "Olyckan",
+        "url": "https://open.spotify.com/album/5A6sTGnBkIhhKshuQsIfnS"
       },
       "artists": [
         {
-          "name": "Victor Franchell",
-          "url": "https://open.spotify.com/artist/5l0WKb0FzqJlY6VJFHBaDT"
+          "name": "Rebi",
+          "url": "https://open.spotify.com/artist/0GFFikqfJwSVfFSk71nvzH"
         }
       ],
-      "duration_ms": 170000,
-      "name": "jag l\u00e5tsas",
-      "url": "https://open.spotify.com/track/4NHEs0K45egvpXX1JPOYtW"
+      "duration_ms": 164908,
+      "name": "Olyckan",
+      "url": "https://open.spotify.com/track/5r9m8Jmfhn9deWP6Xfjpep"
     },
     {
-      "added_at": "2024-07-12 14:03:41",
+      "added_at": "2024-07-19 14:53:06",
       "album": {
-        "name": "H\u00e4r Kommer Solen",
-        "url": "https://open.spotify.com/album/2zU5URZznB4Erp2ob3qyjs"
+        "name": "United States of Archer",
+        "url": "https://open.spotify.com/album/6iouoTqBgDpnbL4gkBzecP"
       },
       "artists": [
         {
-          "name": "Amanda Warren",
-          "url": "https://open.spotify.com/artist/5IXA2Evm4dcj8KLg7ZzayA"
+          "name": "ArcherXBeatz",
+          "url": "https://open.spotify.com/artist/2VGsXSO9BktSN8XQ0e5uAW"
         },
         {
-          "name": "West11",
-          "url": "https://open.spotify.com/artist/70VJLyt1Xs8zZG5Qf0v2LK"
+          "name": "KAOS!PROTOCOL",
+          "url": "https://open.spotify.com/artist/0t0siJ2Zfx2ALKC8O4W7fF"
         }
       ],
-      "duration_ms": 270824,
-      "name": "H\u00e4r Kommer Solen",
-      "url": "https://open.spotify.com/track/7oF6PCeKDGlwf4tOtlFrdx"
+      "duration_ms": 280058,
+      "name": "Fool's Gold",
+      "url": "https://open.spotify.com/track/63zqqeKSGy4tM9JxtqkXqh"
     },
     {
-      "added_at": "2024-07-12 14:03:41",
+      "added_at": "2024-07-19 14:53:06",
       "album": {
-        "name": "Tonight (Radio Cut)",
-        "url": "https://open.spotify.com/album/2aUVCr8NuXoyuxpU2ffF23"
+        "name": "Your Secrets",
+        "url": "https://open.spotify.com/album/1jECQOtLLyqjfdCK4snLxm"
       },
       "artists": [
         {
-          "name": "Jacob Royle",
-          "url": "https://open.spotify.com/artist/4vSWG2d6bzNELDBs36Jbv3"
+          "name": "Dezerrt",
+          "url": "https://open.spotify.com/artist/7r7jVX2NUkhQhZ4meOOasY"
         }
       ],
-      "duration_ms": 256160,
-      "name": "Tonight (Radio Cut)",
-      "url": "https://open.spotify.com/track/2adIbQuOV5pBkTTBS4VgWG"
+      "duration_ms": 250750,
+      "name": "Your Secrets",
+      "url": "https://open.spotify.com/track/7ASP7MV7Xig3ua5phfJ17Z"
     },
     {
-      "added_at": "2024-07-12 14:03:41",
+      "added_at": "2024-07-19 14:53:06",
       "album": {
-        "name": "Et j\u00e4\u00e4 ilman suudelmaa",
-        "url": "https://open.spotify.com/album/6hIO5fLIqRdss8HQnKnPo6"
+        "name": "Gojira",
+        "url": "https://open.spotify.com/album/0kBFQxpONIbbGSpu1v56om"
       },
       "artists": [
         {
-          "name": "5th Avenue",
-          "url": "https://open.spotify.com/artist/3ELjxCK78ayhPzLVbKBOIK"
+          "name": "Darcy & Babes",
+          "url": "https://open.spotify.com/artist/16Z4hEfQncGSO5tnPjKR97"
         }
       ],
-      "duration_ms": 155307,
-      "name": "Et j\u00e4\u00e4 ilman suudelmaa",
-      "url": "https://open.spotify.com/track/3l9lUN6Vql1UH5kCfwUMzs"
+      "duration_ms": 302250,
+      "name": "Gojira",
+      "url": "https://open.spotify.com/track/7MIvBPRMQLDK5OStPrQkMt"
     },
     {
-      "added_at": "2024-07-12 14:03:41",
+      "added_at": "2024-07-19 14:53:06",
       "album": {
-        "name": "hourglass",
-        "url": "https://open.spotify.com/album/2BSnMZM28gw7cTfEEfiEjQ"
+        "name": "Nothing stands",
+        "url": "https://open.spotify.com/album/1gTtT9PsqhZyGfDuH6fIE4"
       },
       "artists": [
         {
-          "name": "Sleep Driver",
-          "url": "https://open.spotify.com/artist/1ANSbw6oiPa5PFyZixkAOY"
+          "name": "Ai-na",
+          "url": "https://open.spotify.com/artist/1jKqpV5L4Llxm70jACkiLj"
         }
       ],
-      "duration_ms": 247500,
-      "name": "hourglass",
-      "url": "https://open.spotify.com/track/3v1aUx7Lt7dp5G25UwGQtF"
+      "duration_ms": 210935,
+      "name": "Nothing stands",
+      "url": "https://open.spotify.com/track/6XuWDmM3FrmLqCP3XXyJAq"
     },
     {
-      "added_at": "2024-07-12 14:03:41",
+      "added_at": "2024-07-19 14:53:06",
       "album": {
-        "name": "Merenrannalle",
-        "url": "https://open.spotify.com/album/1UHQ03EL4wdBB4UzWExl2q"
+        "name": "Pure Emotion (take one)",
+        "url": "https://open.spotify.com/album/15kzO0deeDaMkwM1YrqYri"
       },
       "artists": [
         {
-          "name": "Kaamoskivut",
-          "url": "https://open.spotify.com/artist/5criU0WJKImKOxtus8SwpQ"
+          "name": "Carlson IV",
+          "url": "https://open.spotify.com/artist/0fX69HpXlOTFevmzzrCYJ3"
         }
       ],
-      "duration_ms": 210181,
-      "name": "Merenrannalle",
-      "url": "https://open.spotify.com/track/2OJmAK1suW1bFBTXoSaGkX"
+      "duration_ms": 234985,
+      "name": "Pure Emotion (take one)",
+      "url": "https://open.spotify.com/track/5wlHe5pLt8dnlwq50F4fXS"
     },
     {
-      "added_at": "2024-07-12 14:03:41",
+      "added_at": "2024-07-19 14:53:06",
       "album": {
-        "name": "La mala",
-        "url": "https://open.spotify.com/album/1JQos3o3Kaj74QCRoKxnoK"
+        "name": "\u82b1\u3061",
+        "url": "https://open.spotify.com/album/3QRVqHEivrw6Af4q3VM08P"
       },
       "artists": [
         {
-          "name": "Princess Prada",
-          "url": "https://open.spotify.com/artist/102DdTs2nwkrxfcbZZOsXB"
+          "name": "\u82b1\u3061",
+          "url": "https://open.spotify.com/artist/4abNhKR9OpdGHYr3faxBWT"
+        }
+      ],
+      "duration_ms": 472580,
+      "name": "Cannibalism",
+      "url": "https://open.spotify.com/track/7ozIlnT3JYGaWKs6UoNfhb"
+    },
+    {
+      "added_at": "2024-07-19 14:53:06",
+      "album": {
+        "name": "Rollercoaster",
+        "url": "https://open.spotify.com/album/38kbFkPdLNUkGrJ4COfQdz"
+      },
+      "artists": [
+        {
+          "name": "Crome",
+          "url": "https://open.spotify.com/artist/1iZyeabeAU7T0ipsLEja51"
         },
         {
-          "name": "Rayo",
-          "url": "https://open.spotify.com/artist/3eWWKcc07vz4dghL63VHFY"
+          "name": "Prominent",
+          "url": "https://open.spotify.com/artist/0tnLioKGuiRPFn1dfz3otY"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/7mcZeHTxFUVMpZIGtzvltA"
+    },
+    {
+      "added_at": "2024-07-19 14:53:06",
+      "album": {
+        "name": "Dlouh\u00e1 pou\u0165",
+        "url": "https://open.spotify.com/album/5uo1izwi1l1Slt4PA1cVjj"
+      },
+      "artists": [
+        {
+          "name": "Together",
+          "url": "https://open.spotify.com/artist/6qwwwnq1hIOuA3NdjJPReU"
+        }
+      ],
+      "duration_ms": 224426,
+      "name": "Dlouh\u00e1 pou\u0165",
+      "url": "https://open.spotify.com/track/6PEZ35JCJYkWW7fMas82ju"
+    },
+    {
+      "added_at": "2024-07-19 14:53:06",
+      "album": {
+        "name": "United States of Archer",
+        "url": "https://open.spotify.com/album/6iouoTqBgDpnbL4gkBzecP"
+      },
+      "artists": [
+        {
+          "name": "ArcherXBeatz",
+          "url": "https://open.spotify.com/artist/2VGsXSO9BktSN8XQ0e5uAW"
         },
         {
-          "name": "Imaabs",
-          "url": "https://open.spotify.com/artist/72XTGSo6ca4qEKtXDclrg4"
+          "name": "KAOS!PROTOCOL",
+          "url": "https://open.spotify.com/artist/0t0siJ2Zfx2ALKC8O4W7fF"
         }
       ],
-      "duration_ms": 188387,
-      "name": "La mala",
-      "url": "https://open.spotify.com/track/1v5tmqnMfkN6Q9c4YEWSIF"
+      "duration_ms": 383764,
+      "name": "Kaos Knights",
+      "url": "https://open.spotify.com/track/5pEqKVRpBjk42gDmk0wsmj"
     },
     {
-      "added_at": "2024-07-12 14:03:41",
+      "added_at": "2024-07-19 14:53:06",
       "album": {
-        "name": "Be Still",
-        "url": "https://open.spotify.com/album/6SRyR6okLBaqmDpJXaytPC"
+        "name": "KAOS",
+        "url": "https://open.spotify.com/album/6vPqbOPT56hTEFFf5fDt4A"
       },
       "artists": [
         {
-          "name": "Travae Williams",
-          "url": "https://open.spotify.com/artist/5JvFMlFX9PqsH8HpeMU1rJ"
+          "name": "MASKIN",
+          "url": "https://open.spotify.com/artist/4joSkXnb2AdBMgcXApIiSP"
         }
       ],
-      "duration_ms": 216896,
-      "name": "Be Still",
-      "url": "https://open.spotify.com/track/1oxmvySkIwc0iR2M4Dpm2i"
+      "duration_ms": 228500,
+      "name": "KAOS",
+      "url": "https://open.spotify.com/track/0Exu1RFUUkdNX6YoWJJDmP"
     },
     {
-      "added_at": "2024-07-12 14:03:41",
+      "added_at": "2024-07-19 14:53:06",
       "album": {
-        "name": "Dead man's Shoes",
-        "url": "https://open.spotify.com/album/7EOVd4QQpMmNQ8xsiNbPW4"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6YMfB832cVjOjFucfSHDUM"
       },
       "artists": [
         {
-          "name": "Vaughan Bourke",
-          "url": "https://open.spotify.com/artist/2XKAftO0CFIQSIaqPwUZqi"
+          "name": "Steven Torres",
+          "url": "https://open.spotify.com/artist/0hkw5tIW62dwccThMZVoOg"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/6NIh7WutXaVy3GDSfOmNib"
+    },
+    {
+      "added_at": "2024-07-19 14:53:06",
+      "album": {
+        "name": "Powered Up",
+        "url": "https://open.spotify.com/album/6r7iZG6RWJDUKzifitbkF6"
+      },
+      "artists": [
+        {
+          "name": "The Jennierators",
+          "url": "https://open.spotify.com/artist/0jpOEqqp8tkvtCqKVjBz1b"
+        }
+      ],
+      "duration_ms": 198815,
+      "name": "Heart Of Glass",
+      "url": "https://open.spotify.com/track/6fMlA4AYOOc2Nbht1dqTZG"
+    },
+    {
+      "added_at": "2024-07-19 14:53:06",
+      "album": {
+        "name": "Parking Struggles",
+        "url": "https://open.spotify.com/album/2j9v3yVDqziebR2Gclh6fr"
+      },
+      "artists": [
+        {
+          "name": "Cosmo Drift",
+          "url": "https://open.spotify.com/artist/1t8SPnkFPbjRDSTVAJ0kBD"
+        }
+      ],
+      "duration_ms": 144239,
+      "name": "Parking Struggles",
+      "url": "https://open.spotify.com/track/7jBQs8RoRBTqmc8LdSvIC4"
+    },
+    {
+      "added_at": "2024-07-19 14:53:06",
+      "album": {
+        "name": "The tempered blade",
+        "url": "https://open.spotify.com/album/4v0PGO22A2dmvdcrfHs1IK"
+      },
+      "artists": [
+        {
+          "name": "Dog Toffee",
+          "url": "https://open.spotify.com/artist/40YV0RIm2rNR7e6Kss2kDL"
+        }
+      ],
+      "duration_ms": 247085,
+      "name": "Tempered Blade",
+      "url": "https://open.spotify.com/track/4ji2hAxHcuqiO7GMn65mp7"
+    },
+    {
+      "added_at": "2024-07-19 14:53:06",
+      "album": {
+        "name": "What Typa Vibe?",
+        "url": "https://open.spotify.com/album/1F9KaONEso64yFeF45QXYO"
+      },
+      "artists": [
+        {
+          "name": "Mike Drones",
+          "url": "https://open.spotify.com/artist/1ASBvbSyGSzwE2hymrozUL"
         },
         {
-          "name": "Suno AI",
-          "url": "https://open.spotify.com/artist/3xm18XjUp2o01Xg7MepLFx"
+          "name": "Padawan Sound",
+          "url": "https://open.spotify.com/artist/1WI42fsSt3V61xUZfxI9Q5"
+        },
+        {
+          "name": "Manga Saint Hilare",
+          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
         }
       ],
-      "duration_ms": 204239,
-      "name": "Dead man's Shoes",
-      "url": "https://open.spotify.com/track/3tBiNRdU4n3hBYzggcmIR1"
+      "duration_ms": 226875,
+      "name": "What Typa Vibe?",
+      "url": "https://open.spotify.com/track/2vRz3NBNgSVKFRGLlfcKHL"
     },
     {
-      "added_at": "2024-07-12 14:03:41",
+      "added_at": "2024-07-19 14:53:06",
       "album": {
-        "name": "Death to all traitors",
-        "url": "https://open.spotify.com/album/4VN1gntECBuKBO5rj8o6pk"
+        "name": "Tech Hoarder",
+        "url": "https://open.spotify.com/album/38MhVteooUZAJpiLZhyQQn"
       },
       "artists": [
         {
-          "name": "Electric BAZOOKA",
-          "url": "https://open.spotify.com/artist/2mB6zXSi9Uoe39RfOszU4U"
+          "name": "Rogue Fierce Wave",
+          "url": "https://open.spotify.com/artist/5ITojPzIT30YMQF7YcJWRi"
         }
       ],
-      "duration_ms": 207679,
-      "name": "Death to all traitors",
-      "url": "https://open.spotify.com/track/58WiRCeWxcXtW5oozu1hhV"
+      "duration_ms": 191439,
+      "name": "Tech Hoarder",
+      "url": "https://open.spotify.com/track/28UAAa95jvU9beV4AR1P83"
     }
   ],
   "unique_name": "Independent Music Friday",

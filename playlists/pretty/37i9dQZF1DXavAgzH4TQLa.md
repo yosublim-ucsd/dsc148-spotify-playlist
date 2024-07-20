@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 
 > Dale play, y que la cumbia no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,656 likes - 80 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,705 likes - 80 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nunca Es Suficiente](https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG) | 4:26 |
 | 2 | [Una Cerveza](https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza](https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C) | 4:00 |
 | 3 | [Olvídala](https://open.spotify.com/track/0cXGtTRfQKSHojilCoBAOd) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Voló La Paloma/Un Toque Diferente](https://open.spotify.com/album/04lLSTAYIBNjlJ0L6JJnDK) | 4:50 |
-| 4 | [Si Me Tomo Una Cerveza](https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Alico](https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF) | [Si Me Tomo una Cerveza](https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2) | 3:02 |
-| 5 | [Jurabas Tu](https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [25 Años \(En Vivo\)](https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6) | 3:09 |
+| 4 | [Jurabas Tu](https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [25 Años \(En Vivo\)](https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6) | 3:09 |
+| 5 | [Si Me Tomo Una Cerveza](https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Alico](https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF) | [Si Me Tomo una Cerveza](https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2) | 3:02 |
 | 6 | [Eres](https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:16 |
 | 7 | [Me Vas a Extrañar \- En Vivo](https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Me Vas a Extrañar \(En Vivo\)](https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53) | 3:58 |
 | 8 | [Te Vas a Arrepentir](https://open.spotify.com/track/5Rb1YFwlxt1AgMaqbOpZzf) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Los Más Queridos](https://open.spotify.com/album/65Z4VN8ZKEYkqM6K2yNoRl) | 3:23 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 40 | [En este mundo](https://open.spotify.com/track/7gamXMgGmNsr83XdKMPbc9) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [El polaco \- Vuelve te lo pido](https://open.spotify.com/album/37q8WdUhkdZPPrkmw6o5xS) | 2:13 |
 | 41 | [La colorada](https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:13 |
 | 42 | [Tonta](https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 3:11 |
-| 43 | [Será Porque Te Amo](https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Comboloco](https://open.spotify.com/album/7yxdbwpOcOAmXZHqEUlNi0) | 3:26 |
-| 44 | [Los Dueños del Pabellon](https://open.spotify.com/track/2Hd6a7rO8DrHgfGTiDIY8K) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:36 |
+| 43 | [Los Dueños del Pabellon](https://open.spotify.com/track/2Hd6a7rO8DrHgfGTiDIY8K) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:36 |
+| 44 | [Será Porque Te Amo](https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Comboloco](https://open.spotify.com/album/7yxdbwpOcOAmXZHqEUlNi0) | 3:26 |
 | 45 | [El Soy Yo](https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0) | [Mensajeros del Amor](https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3) | [Mensajeros del Amor](https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6) | 3:12 |
 | 46 | [La Pollera Amarilla](https://open.spotify.com/track/03G43mO3a34IGIsyDd4sj5) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [La Pollera Amarilla](https://open.spotify.com/album/1r02rGE96IPnrhhcHbZdWE) | 3:09 |
 | 47 | [Andrea](https://open.spotify.com/track/3FgtgesYFasosYF5cQmpzi) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros:Discografía Completa Vol.1](https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP) | 4:09 |

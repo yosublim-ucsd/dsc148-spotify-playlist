@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 
 > Traditional country sounds from artists of yesterday and today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 764,770 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 764,902 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,12 +64,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 54 | [Suds in the Bucket](https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik) | 3:47 |
 | 55 | [What I Thank \(When I Drank\)](https://open.spotify.com/track/4vpMUn7giEsphJbZrkZSlg) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [What I Thank \(When I Drank\)](https://open.spotify.com/album/4wf2uxNmb8foN97Z7TPcfK) | 3:17 |
 | 56 | [We Didn't Have Much](https://open.spotify.com/track/0Iuw6WPws324i7G7sCejTX) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Straight Outta The Country](https://open.spotify.com/album/1rW4SdSGRziYMzyteohUwP) | 2:54 |
-| 57 | [Fishin' in the Dark](https://open.spotify.com/track/7lJbTVbDEMa3w7NFamrwdq) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Hold On](https://open.spotify.com/album/5ToL8KapdzZAMtOT7Y4USs) | 3:22 |
-| 58 | [Every Light In The House](https://open.spotify.com/track/2A7j0RLnzvvlUFrevBiOQf) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Dreamin' Out Loud](https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc) | 2:59 |
+| 57 | [Every Light In The House](https://open.spotify.com/track/2A7j0RLnzvvlUFrevBiOQf) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Dreamin' Out Loud](https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc) | 2:59 |
+| 58 | [Fishin' in the Dark](https://open.spotify.com/track/7lJbTVbDEMa3w7NFamrwdq) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Hold On](https://open.spotify.com/album/5ToL8KapdzZAMtOT7Y4USs) | 3:22 |
 | 59 | [On My Way to You](https://open.spotify.com/track/3OjNkFFZavF89xvRqWCXmU) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 3:33 |
-| 60 | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi) | 3:34 |
+| 60 | [If I Could Make a Living](https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [If I Could Make a Living](https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF) | 2:13 |
 | 61 | [Thinkin Bout Cheatin](https://open.spotify.com/track/35GoYj5urnSOCabDAKphBF) | [Mae Estes](https://open.spotify.com/artist/6352GDDDFjnbhNMDbCRIuX) | [Thinkin Bout Cheatin](https://open.spotify.com/album/4DQoCcBOoRZBsY2LsQJ0Wc) | 3:42 |
-| 62 | [If I Could Make a Living](https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [If I Could Make a Living](https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF) | 2:13 |
+| 62 | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi) | 3:34 |
 | 63 | [One More Last Chance](https://open.spotify.com/track/2h5a6t9JFasqH5WJFPbmGL) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [I Still Believe In You](https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS) | 3:11 |
 | 64 | [Straight Tequila Night](https://open.spotify.com/track/5SpoN8sCoc05RfVde4raGN) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv) | [Seminole Wind](https://open.spotify.com/album/23LbFVb9MdJCILkhR5yQ6a) | 2:53 |
 | 65 | [Small Town Saturday Night](https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ) | [Hal Ketchum](https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7) | [Past The Point Of Rescue](https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE) | 2:57 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 79 | [On the Other Hand](https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Storms of Life](https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf) | 3:06 |
 | 80 | [If I Ever Was a Cowboy](https://open.spotify.com/track/4SLrCOVGrXzJkT9dejzP0U) | [Robby Johnson](https://open.spotify.com/artist/1yKm1X4CnWuMKpiFXlDNgs) | [Alive Right Now](https://open.spotify.com/album/3MQE9zQ1GI1E6pTGoYWxkQ) | 3:48 |
 | 81 | [If I Was a Cowboy](https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [If I Was a Cowboy](https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT) | 3:15 |
-| 82 | [Queen Of My Double Wide Trailer](https://open.spotify.com/track/3Wz9Fm9ZyhpaRGxMlSR5G4) | [Sammy Kershaw](https://open.spotify.com/artist/3tkZthBATD0S45hm1DmB2O) | [Haunted Heart](https://open.spotify.com/album/30ORdfQ1Movxqmpf3qkrMQ) | 3:31 |
-| 83 | [One Night Standards](https://open.spotify.com/track/47qZzTLLJcuD69AIKnquo4) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:10 |
+| 82 | [One Night Standards](https://open.spotify.com/track/47qZzTLLJcuD69AIKnquo4) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:10 |
+| 83 | [Queen Of My Double Wide Trailer](https://open.spotify.com/track/3Wz9Fm9ZyhpaRGxMlSR5G4) | [Sammy Kershaw](https://open.spotify.com/artist/3tkZthBATD0S45hm1DmB2O) | [Haunted Heart](https://open.spotify.com/album/30ORdfQ1Movxqmpf3qkrMQ) | 3:31 |
 | 84 | [Forever and Ever, Amen](https://open.spotify.com/track/4rQSLX4qMiUWL81hEQOuPY) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Top 10](https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss) | 3:32 |
 | 85 | [Justa Jonesin'](https://open.spotify.com/track/4RudqZOuftr0uk55iKCYh3) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Justa Jonesin'](https://open.spotify.com/album/3BIkkShMzkjbOfFfQdFvbC) | 2:44 |
 | 86 | [Next To You, Next To Me](https://open.spotify.com/track/37KWffCdnLyHqvhugCQNM6) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Now And Then](https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e) | 3:25 |

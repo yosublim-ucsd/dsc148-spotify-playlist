@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Lens, LZee
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,740 likes - 55 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,769 likes - 55 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 14 | [Heaven](https://open.spotify.com/track/29F8Xxbq2IVpb7GuyaCiiI) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Heaven](https://open.spotify.com/album/5utKEyKtyUReHABwsSJtjV) | 3:25 |
 | 15 | [Phantasm](https://open.spotify.com/track/7veVv9LcaAbt6DVeHVmjgY) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Phantasm](https://open.spotify.com/album/0MeCw3SMfshfeTF2OG85gx) | 4:29 |
 | 16 | [Alarm \(feat\. MC ID\)](https://open.spotify.com/track/4lI38Kj91ahnFG48FwVSrS) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [MC ID](https://open.spotify.com/artist/71p78rJ0sEwTMlNjqln74R) | [Evolve](https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y) | 3:07 |
-| 17 | [Chant](https://open.spotify.com/track/65SsbtgsqPYv1p4Rq93fC9) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy) | [Chant](https://open.spotify.com/album/1W9a0pnDZti59LWh8e1Tiu) | 3:44 |
+| 17 | [Run \(Part 1\)](https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Sofia](https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb) | [Run \(Part 1\)](https://open.spotify.com/album/1NqOxMj2QqMhgne014NwQs) | 2:15 |
 | 18 | [MHITR \(Semi\-Automatic\) \[feat\. Eksman\]](https://open.spotify.com/track/11Gypesywvx4AnUeYxeLaY) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7) | [MHITR \(Semi\-Automatic\) \[feat\. Eksman\]](https://open.spotify.com/album/0mXlKN5XvrL9olOdYSrTio) | 2:54 |
-| 19 | [Run \(Part 1\)](https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Sofia](https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb) | [Run \(Part 1\)](https://open.spotify.com/album/1NqOxMj2QqMhgne014NwQs) | 2:15 |
+| 19 | [Chant](https://open.spotify.com/track/65SsbtgsqPYv1p4Rq93fC9) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy) | [Chant](https://open.spotify.com/album/1W9a0pnDZti59LWh8e1Tiu) | 3:44 |
 | 20 | [looking 4 me](https://open.spotify.com/track/5z0pJkbsGf6f95dKzd5OOk) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [looking 4 me](https://open.spotify.com/album/0KQfZKiNtU7gMdX9txha8j) | 2:27 |
 | 21 | [Absolute](https://open.spotify.com/track/6eCNeilo1YaFuxSWHQYBg9) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2), [Fernquest](https://open.spotify.com/artist/7vUiDGA4jzsPS8RSTaiFrL) | [Absolute](https://open.spotify.com/album/43KV6XPxBs3Th6EvhTXyJ9) | 3:04 |
 | 22 | [Waiting For You](https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU) | [Waiting For You](https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte) | 3:46 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 50 | [Confliction](https://open.spotify.com/track/1ExW4pjV1zROf5QveEk64S) | [CrossBreed](https://open.spotify.com/artist/3ifKKKcUBOYQ64Un0bpjQL), [MTD](https://open.spotify.com/artist/0DSkqLja3BBRvuoK0WcBDo), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z) | [Confliction](https://open.spotify.com/album/1WS53YDSSfOFyJPUQ1SR1E) | 3:20 |
 | 51 | [Wild \- Disrupta Remix](https://open.spotify.com/track/1siHenGtsl36Q6vs7c20O9) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [Wild \(Disrupta Remix\)](https://open.spotify.com/album/27xGHAAYqDjQM04UIFVT8W) | 3:06 |
 | 52 | [Take You Higher](https://open.spotify.com/track/2T3fASr8VAc8sCs9A31VUz) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Take You Higher](https://open.spotify.com/album/50rZcGSInCDVzBai5jQuo7) | 3:24 |
-| 53 | [Forever Changes](https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Forever Changes](https://open.spotify.com/album/4rSSLeJIKgTj7nymJ5Xgs6) | 3:04 |
-| 54 | [Lady Petrol](https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Lady Petrol](https://open.spotify.com/album/24e3IAndixmqYlExyKTldi) | 5:09 |
-| 55 | [Lightspeed](https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Back To Normal](https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9) | 4:28 |
+| 53 | [Lady Petrol](https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Lady Petrol](https://open.spotify.com/album/24e3IAndixmqYlExyKTldi) | 5:09 |
+| 54 | [Lightspeed](https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Back To Normal](https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9) | 4:28 |
+| 55 | [Forever Changes](https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Forever Changes](https://open.spotify.com/album/4rSSLeJIKgTj7nymJ5Xgs6) | 3:04 |
 
 Snapshot ID: `ZnTCvAAAAADAIKXhNBx12BvXDuDthvLS`

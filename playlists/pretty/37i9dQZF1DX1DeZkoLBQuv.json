@@ -1,6 +1,6 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 8123,
+  "num_followers": 8121,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Natal",
+        "url": "https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR"
+      },
+      "artists": [
+        {
+          "name": "Voices",
+          "url": "https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD"
+        }
+      ],
+      "duration_ms": 204196,
+      "name": "Natal",
+      "url": "https://open.spotify.com/track/5JqMJ3rqFdyPjlzCEHrRnF"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Natal Real",
         "url": "https://open.spotify.com/album/2m49nalJlB2nQHMjZaeIDK"
       },
@@ -691,18 +707,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Natal",
-        "url": "https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR"
+        "name": "O Natal de Todos N\u00f3s",
+        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
       },
       "artists": [
         {
-          "name": "Voices",
-          "url": "https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD"
+          "name": "Pr. Lucas",
+          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
         }
       ],
-      "duration_ms": 204196,
-      "name": "Natal",
-      "url": "https://open.spotify.com/track/5JqMJ3rqFdyPjlzCEHrRnF"
+      "duration_ms": 211466,
+      "name": "Primeiro Natal (The First Noel)",
+      "url": "https://open.spotify.com/track/2GANoSBnjKrVaJuCX4QXZa"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -723,18 +739,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "O Natal de Todos N\u00f3s",
-        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
       },
       "artists": [
         {
-          "name": "Pr. Lucas",
-          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
+          "name": "Alex Gonzaga, Marcus Salles e Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/42IbPCXTETX76KEm5oW2hh"
         }
       ],
-      "duration_ms": 211466,
-      "name": "Primeiro Natal (The First Noel)",
-      "url": "https://open.spotify.com/track/2GANoSBnjKrVaJuCX4QXZa"
+      "duration_ms": 259831,
+      "name": "O Milagre do Natal",
+      "url": "https://open.spotify.com/track/0CmiLc9AYVBz18brWHIStv"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -751,22 +767,6 @@
       "duration_ms": 230658,
       "name": "O Primeiro Natal",
       "url": "https://open.spotify.com/track/6dN0kIqTHthn6kdt4YaNXA"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
-      },
-      "artists": [
-        {
-          "name": "Alex Gonzaga, Marcus Salles e Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/42IbPCXTETX76KEm5oW2hh"
-        }
-      ],
-      "duration_ms": 259831,
-      "name": "O Milagre do Natal",
-      "url": "https://open.spotify.com/track/0CmiLc9AYVBz18brWHIStv"
     },
     {
       "added_at": "2023-12-22 03:00:00",

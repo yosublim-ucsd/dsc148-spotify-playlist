@@ -4,7 +4,7 @@
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-228 songs - 21 hr 2 min
+228 songs - 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Adiwele \(feat\. Kabza De Small & DJ Maphorisa\)](https://open.spotify.com/track/2dTQe0W5KXs6TNVV7yi2oS) | [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi) | [Notumato](https://open.spotify.com/album/4ojp3TfH4piWMEvqJ7Foge) | 7:51 | 2021-10-21 | 2023-02-10 |
 | [Agolo \- Da Capo’s Touch](https://open.spotify.com/track/47oYm6GkEl2dAgrxNXSxOj) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9) | [Agolo \(Da Capo's Touch\)](https://open.spotify.com/album/0PMhkcozXB0evBnUoZIgrY) | 6:10 | 2021-12-30 | 2023-02-10 |
 | [Alive](https://open.spotify.com/track/1dFbbBKiOn1LnldZUSaWQ8) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV), [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [mohalizer](https://open.spotify.com/artist/4mxLi0WiovhOvdkqofGO2i) | [Alive](https://open.spotify.com/album/01D4KOudqfxOzPiQawG9PO) | 3:12 | 2024-07-18 |  |
-| [Ama Gear](https://open.spotify.com/track/0cnbEf12FLBWx9QnBlw1EL) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [MK Productions](https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8) | [031 Studio Camp](https://open.spotify.com/album/3tOHGWG9GWuB2KBw6YisEX) | 7:37 | 2024-07-04 |  |
+| [Ama Gear](https://open.spotify.com/track/0cnbEf12FLBWx9QnBlw1EL) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [MK Productions](https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8) | [031 Studio Camp](https://open.spotify.com/album/3tOHGWG9GWuB2KBw6YisEX) | 7:05 | 2024-07-04 |  |
 | [Amen](https://open.spotify.com/track/4StUSthpVX304GEjdTnI0i) | [Afrikan Roots](https://open.spotify.com/artist/4wl9UDbyFoBgCNG34ugdge), [Dj Wonderboy](https://open.spotify.com/artist/5WiLGiZee73dHXkqEQjKBF), [Maz Sings](https://open.spotify.com/artist/5F7Fe07I1f1mlW312a4dmk) | [Amen](https://open.spotify.com/album/1qeES9QZaq1xfHfvSTtuo7) | 6:13 | 2024-06-28 |  |
 | [Amplified Zone](https://open.spotify.com/track/4nfY8k8nVypCCVSVMnui86) | [SGVO](https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s) | [Amplified Zone](https://open.spotify.com/album/3rvIj2PfEKBmJEmfMikco8) | 7:48 | 2023-02-09 | 2023-12-08 |
 | [Amu Bemi \- Radio\-Edit](https://open.spotify.com/track/0kl83gVpmpSwqdh9QClSqL) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [James Deron](https://open.spotify.com/artist/2x3f65NaxvqSMPL1KuWbiB) | [Amu Bemi \(Radio\-Edit\)](https://open.spotify.com/album/66WUvJ46B4KLeLRws5K50w) | 3:54 | 2024-07-18 |  |

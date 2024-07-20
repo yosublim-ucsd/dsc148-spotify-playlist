@@ -1,6 +1,6 @@
 {
   "description": "Let these country songs get your tailgate going!",
-  "num_followers": 172520,
+  "num_followers": 172531,
   "original_name": "Country Tailgate",
   "owner": {
     "name": "Spotify",
@@ -907,26 +907,18 @@
     {
       "added_at": "2024-07-05 21:33:20",
       "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
+        "name": "Home State",
+        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
       },
       "artists": [
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
-        },
-        {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 173173,
-      "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
-      "url": "https://open.spotify.com/track/5Y05LYM8LhnQN78GqfjSeK"
+      "duration_ms": 182666,
+      "name": "Singles You Up",
+      "url": "https://open.spotify.com/track/4LiMQ6G9n84rDUBs9wtwz6"
     },
     {
       "added_at": "2024-07-05 21:33:20",
@@ -967,18 +959,22 @@
     {
       "added_at": "2024-07-05 21:33:20",
       "album": {
-        "name": "Home State",
-        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
+        "name": "Where We Started",
+        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 182666,
-      "name": "Singles You Up",
-      "url": "https://open.spotify.com/track/4LiMQ6G9n84rDUBs9wtwz6"
+      "duration_ms": 183026,
+      "name": "Half Of Me",
+      "url": "https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv"
     },
     {
       "added_at": "2024-07-05 21:33:20",
@@ -1015,22 +1011,26 @@
     {
       "added_at": "2024-07-05 21:33:20",
       "album": {
-        "name": "Where We Started",
-        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         },
         {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        },
+        {
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
         }
       ],
-      "duration_ms": 183026,
-      "name": "Half Of Me",
-      "url": "https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv"
+      "duration_ms": 173173,
+      "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
+      "url": "https://open.spotify.com/track/5Y05LYM8LhnQN78GqfjSeK"
     },
     {
       "added_at": "2024-07-05 21:33:20",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-07-05 21:33:20",
       "album": {
+        "name": "Center Point Road",
+        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Look What God Gave Her",
+      "url": "https://open.spotify.com/track/2KqJC0koTBUyDlsMt5ok1V"
+    },
+    {
+      "added_at": "2024-07-05 21:33:20",
+      "album": {
         "name": "Tornado",
         "url": "https://open.spotify.com/album/5IIYlM5tjDtW3fIgOIA5TB"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 288760,
       "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
       "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
-    },
-    {
-      "added_at": "2024-07-05 21:33:20",
-      "album": {
-        "name": "Center Point Road",
-        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Look What God Gave Her",
-      "url": "https://open.spotify.com/track/2KqJC0koTBUyDlsMt5ok1V"
     },
     {
       "added_at": "2024-07-05 21:33:20",

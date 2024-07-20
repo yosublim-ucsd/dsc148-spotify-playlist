@@ -2,7 +2,7 @@
 
 ### [Mixto](https://open.spotify.com/playlist/37i9dQZF1DX7qRKBHjmYIE)
 
-> De aquí y de allá \~ un poquito de todo ✨ en un vibe con Judeline.
+> De aquí y de allá \~ un poquito de todo ✨ en un vibe con stivijoes.
 
 764 songs - 1 day 17 hr 12 min
 

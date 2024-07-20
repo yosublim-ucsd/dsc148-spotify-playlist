@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAAAjBH6y5wsrGALmOwczbv0O",
+  "snapshot_id": "ZphbAAAAAACK5APJXbH1uz5wXeBRUZ4O",
   "tracks": [
     {
       "added_at": null,
@@ -179,26 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cocaine Cowboy",
-        "url": "https://open.spotify.com/album/6zOUWwPcy8nWbleaxaBvfe"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        },
-        {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
-        }
-      ],
-      "duration_ms": 144662,
-      "name": "Cocaine Cowboy",
-      "url": "https://open.spotify.com/track/2XU1fq06U9s0PdJ7UXbMX4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uno Cuhh",
         "url": "https://open.spotify.com/album/3NU6zU6yFENu9HoPUMTtuE"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 154644,
       "name": "Uno Cuhh",
       "url": "https://open.spotify.com/track/7kIEAzivuOEhkmry8dxgSD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cocaine Cowboy",
+        "url": "https://open.spotify.com/album/6zOUWwPcy8nWbleaxaBvfe"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+        }
+      ],
+      "duration_ms": 144662,
+      "name": "Cocaine Cowboy",
+      "url": "https://open.spotify.com/track/2XU1fq06U9s0PdJ7UXbMX4"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nino de Oro",
-        "url": "https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM"
+        "name": "FTNSWL",
+        "url": "https://open.spotify.com/album/13VzlFX6FM52CEI7HZuQDO"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 117420,
-      "name": "Pancho Villa",
-      "url": "https://open.spotify.com/track/4PKICIEfVIVTpPN2X7KQEh"
+      "duration_ms": 171428,
+      "name": "FTNSWL",
+      "url": "https://open.spotify.com/track/7aaqN7RCQRKUxEcdCaSD2B"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "FTNSWL",
-        "url": "https://open.spotify.com/album/13VzlFX6FM52CEI7HZuQDO"
+        "name": "Nino de Oro",
+        "url": "https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM"
       },
       "artists": [
         {
@@ -392,29 +392,25 @@
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 171428,
-      "name": "FTNSWL",
-      "url": "https://open.spotify.com/track/7aaqN7RCQRKUxEcdCaSD2B"
+      "duration_ms": 117420,
+      "name": "Pancho Villa",
+      "url": "https://open.spotify.com/track/4PKICIEfVIVTpPN2X7KQEh"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Hustle & Flow",
-        "url": "https://open.spotify.com/album/49ewNITw9KZVWGJoGUKuD5"
+        "name": "Con Un Toque",
+        "url": "https://open.spotify.com/album/7iZGyAz2CVYjw8ePLhqpqB"
       },
       "artists": [
-        {
-          "name": "Rozay",
-          "url": "https://open.spotify.com/artist/63kl9Ma06XOmqeKyT3BOxm"
-        },
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 144014,
-      "name": "Tonta (feat. Bo Bundy)",
-      "url": "https://open.spotify.com/track/1hjCOR7uTvgHasjaFyDsD8"
+      "duration_ms": 173848,
+      "name": "Con Un Toque",
+      "url": "https://open.spotify.com/track/4avwcBPGnQpkm9ZE2OCMCG"
     },
     {
       "added_at": null,
@@ -439,18 +435,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Un Toque",
-        "url": "https://open.spotify.com/album/7iZGyAz2CVYjw8ePLhqpqB"
+        "name": "Hustle & Flow",
+        "url": "https://open.spotify.com/album/49ewNITw9KZVWGJoGUKuD5"
       },
       "artists": [
+        {
+          "name": "Rozay",
+          "url": "https://open.spotify.com/artist/63kl9Ma06XOmqeKyT3BOxm"
+        },
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 173848,
-      "name": "Con Un Toque",
-      "url": "https://open.spotify.com/track/4avwcBPGnQpkm9ZE2OCMCG"
+      "duration_ms": 144014,
+      "name": "Tonta (feat. Bo Bundy)",
+      "url": "https://open.spotify.com/track/1hjCOR7uTvgHasjaFyDsD8"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nave 687",
-        "url": "https://open.spotify.com/album/5pU9CpVy7lYs5ZL7Bp2Ai8"
+        "name": "Nino de Oro",
+        "url": "https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 207230,
-      "name": "Nave 687",
-      "url": "https://open.spotify.com/track/2C8kQRpjB5N57EvpsZyU8i"
+      "duration_ms": 109844,
+      "name": "RVD",
+      "url": "https://open.spotify.com/track/011I1gMWFeHO1dMaWamVdr"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nino de Oro",
-        "url": "https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM"
+        "name": "Nave 687",
+        "url": "https://open.spotify.com/album/5pU9CpVy7lYs5ZL7Bp2Ai8"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 109844,
-      "name": "RVD",
-      "url": "https://open.spotify.com/track/011I1gMWFeHO1dMaWamVdr"
+      "duration_ms": 207230,
+      "name": "Nave 687",
+      "url": "https://open.spotify.com/track/2C8kQRpjB5N57EvpsZyU8i"
     },
     {
       "added_at": null,

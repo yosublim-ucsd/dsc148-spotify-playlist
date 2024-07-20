@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: Ganges.
 
-126 songs - 6 hr 32 min
+127 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [CHEVY 57](https://open.spotify.com/track/5rKci9JXTy3npFUXCqsKTL) | [Angel Stanich](https://open.spotify.com/artist/1S3qoq3uXtDOYVrohpcsKY), [\_juno](https://open.spotify.com/artist/4CwB3q2FWy0SqxMfCSRrJP) | [BCN 747/CHEVY 57](https://open.spotify.com/album/6YBwCMkzzu03pWqXxkCVYQ) | 4:23 | 2024-06-27 |  |
 | [CHULA](https://open.spotify.com/track/0mXYr3Z0tRgBsMOJIHtRQ6) | [Chill Chicos](https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG), [Korashe](https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [CHULA](https://open.spotify.com/album/003ywHveGjCjgWIvi5NQRK) | 2:40 | 2024-06-27 |  |
 | [COM EL DIA I LA NIT](https://open.spotify.com/track/4oITtKgZh6lPRM1JSEb4sX) | [Oques Grasses](https://open.spotify.com/artist/5qPeAT4ikl6gJNUexAOEy0), [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Fruit del Deliri](https://open.spotify.com/album/5wrNopViDjNZqgmR6cpD9v) | 4:13 | 2024-06-27 |  |
-| [COMO YO](https://open.spotify.com/track/506T6zVDUSlZ0d4pIMhMGJ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [COMO YO](https://open.spotify.com/album/1CyXLV1RNiLbbrs0lvJ5m5) | 1:57 | 2024-06-27 | 2024-07-19 |
+| [COMO YO](https://open.spotify.com/track/506T6zVDUSlZ0d4pIMhMGJ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [COMO YO](https://open.spotify.com/album/1CyXLV1RNiLbbrs0lvJ5m5) | 1:57 | 2024-06-27 |  |
 | [Con Miedo a Ti](https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [Alto Cielo](https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V) | 4:51 | 2024-06-27 |  |
 | [Con otra cabeza](https://open.spotify.com/track/5KdVewdmh5VWkCSxXBcl8o) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Con otra cabeza](https://open.spotify.com/album/1XhcGwZwWx0cZ6Fi62gAVV) | 2:29 | 2024-06-27 |  |
 | [Cortinglés](https://open.spotify.com/track/0oNgmLV10G57H9DB9e1EPz) | [Juana](https://open.spotify.com/artist/59rrpl4VEJ34sIXu4JFp8W) | [Cortinglés](https://open.spotify.com/album/0kIU4OpzZk14GM24f3Av2Q) | 3:05 | 2024-06-27 | 2024-07-17 |
@@ -82,13 +82,14 @@
 | [Malicia](https://open.spotify.com/track/5ylsvgN3rSWBU6PnyRbfIs) | [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV), [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Malicia](https://open.spotify.com/album/35LXS0jbbnya85SBWrWdwj) | 2:57 | 2024-06-27 |  |
 | [mangata](https://open.spotify.com/track/6M3BYtzp1WLov2NDM5nsaI) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [mangata](https://open.spotify.com/album/1DS6sekds9PYqX9M80abUq) | 3:03 | 2024-06-27 |  |
 | [MATARÍA A TODOS LOS HOMBRES](https://open.spotify.com/track/7Dc5ArYUZKm5DFN2SNWK3N) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d) | [MATARÍA A TODOS LOS HOMBRES](https://open.spotify.com/album/1rFSCBdcIs2ji4hNoqyMGX) | 1:54 | 2024-07-04 |  |
-| [Mañana](https://open.spotify.com/track/6aWI0hMdwOtrIFh6NfMxEs) | [Valira](https://open.spotify.com/artist/7xzBMbJO4ooYoW2mJxX09u) | [Mañana](https://open.spotify.com/album/2HoHOGVL9uVCZ3K7v91Wfr) | 4:01 | 2024-07-11 |  |
+| [Mañana](https://open.spotify.com/track/6aWI0hMdwOtrIFh6NfMxEs) | [Valira](https://open.spotify.com/artist/7xzBMbJO4ooYoW2mJxX09u) | [Mañana](https://open.spotify.com/album/2HoHOGVL9uVCZ3K7v91Wfr) | 4:01 | 2024-07-11 | 2024-07-20 |
 | [Me la pegué](https://open.spotify.com/track/5If3lF4jq4JiNAhgcdGo56) | [Delaporte](https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ) | [Me la pegué](https://open.spotify.com/album/51wfIhnYN76YmKEOyge1fv) | 3:04 | 2024-06-27 |  |
 | [Medias Brillantes](https://open.spotify.com/track/5bGCyURMcLEhoijhaz10qw) | [Cabiria](https://open.spotify.com/artist/2y7OtEBQuQCeFh2a8bYZVC) | [Medias Brillantes](https://open.spotify.com/album/5BcPmB0HTXYGqXIPr95INE) | 3:35 | 2024-07-04 | 2024-07-12 |
 | [Mejor que muera](https://open.spotify.com/track/5YcYhjjoZJsfVbkgF24YuN) | [Caro Raro](https://open.spotify.com/artist/4d9bVps5YG8iSVVfQVMSsP), [Papaya Club](https://open.spotify.com/artist/40tfI19XPizQqSuf0nfuIX) | [Mejor que muera](https://open.spotify.com/album/6SxTJOu9LUn2AYVMJFF5C3) | 4:17 | 2024-07-04 | 2024-07-12 |
 | [Mi Barrio](https://open.spotify.com/track/1dw2PZHbL7HXcbM97S9BdM) | [Kokoshca](https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK) | [Mi Barrio](https://open.spotify.com/album/57E7nwWxTOuc3WirxePwmc) | 3:10 | 2024-06-27 | 2024-07-12 |
 | [Mi Culpa](https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Mi Culpa](https://open.spotify.com/album/0OTeEgEpZBZ0b1wKpMhQ7C) | 3:27 | 2024-06-27 | 2024-07-12 |
 | [Mirarte](https://open.spotify.com/track/3hgXQHurkosJVHCHCnNh5p) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Mirarte](https://open.spotify.com/album/0oHBRHSQBrgQ9ENQ4dAFP9) | 3:08 | 2024-06-27 |  |
+| [Mis Tías](https://open.spotify.com/track/0j9azcT9Rj85v2PKLulWfs) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF) | [Mis Tías](https://open.spotify.com/album/1yaPRCa4pcJpYHQzDTFtaD) | 2:38 | 2024-07-18 |  |
 | [Nadie Sabe](https://open.spotify.com/track/07Zg8kkvdzJDhWZYpqgZAE) | [Ciutat](https://open.spotify.com/artist/6mopaAcodk04EGM8lJ2AnW), [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Nadie Sabe](https://open.spotify.com/album/3IoYLb8LhxNQj5fczxJx1w) | 4:12 | 2024-06-27 | 2024-07-12 |
 | [Ni una sola palabra](https://open.spotify.com/track/4jXc8gWfKCq6OWSnIyvJ5V) | [dani dicostas](https://open.spotify.com/artist/2k4Jys5s77VnAucRQ6WUSl) | [Ni una sola palabra](https://open.spotify.com/album/1JguOmFup7ktxhEgkxPn9g) | 3:31 | 2024-06-27 |  |
 | [No hay manera](https://open.spotify.com/track/5hJoeTG9qNCawVnpTwOkiR) | [Cala Vento](https://open.spotify.com/artist/6QpQ7WsYLIpTV3yRa0fJo1) | [Casa Linda](https://open.spotify.com/album/0QeEF4yiYHMzh66Qhv7Z9j) | 3:29 | 2024-06-27 |  |
@@ -117,7 +118,7 @@
 | [TALANQUERA](https://open.spotify.com/track/7l9ESULRKHh8ABJmlVZ2oB) | [ODDLIQUOR](https://open.spotify.com/artist/1rmlkMXVf5f6ilIVhjow34) | [TALANQUERA](https://open.spotify.com/album/5mzLcIz6cx19gS1C0HtgGB) | 3:09 | 2024-06-27 |  |
 | [The Last of Us](https://open.spotify.com/track/2WxZ92Q1q5NPbdJbJx7k8q) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [The Last of Us](https://open.spotify.com/album/3m706HSNKqmnycUdWYt7Zw) | 4:30 | 2024-06-27 |  |
 | [Tiemblo](https://open.spotify.com/track/5H8Fn7NsXgnl6dE1xDfLIH) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs), [LOS CUBATAS](https://open.spotify.com/artist/7eoNELRjjconqEphiOWOo6) | [Tiemblo](https://open.spotify.com/album/1PSEn4CRyTbik6Q24ItUpb) | 2:44 | 2024-06-27 |  |
-| [TIEMBLO](https://open.spotify.com/track/4uqnehVpFI8ykMOhzlgfpV) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [TIEMBLO](https://open.spotify.com/album/1KiAXR3Eu85qGm2m7vQ11p) | 2:10 | 2024-06-27 |  |
+| [TIEMBLO](https://open.spotify.com/track/4uqnehVpFI8ykMOhzlgfpV) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [TIEMBLO](https://open.spotify.com/album/1KiAXR3Eu85qGm2m7vQ11p) | 2:10 | 2024-06-27 | 2024-07-20 |
 | [to lo ke](https://open.spotify.com/track/6aIXhiqT4Oec2VY1tPky8G) | [Stay Homas](https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [to lo ke](https://open.spotify.com/album/5lMTXM5AoxKNTAS084MQb0) | 2:46 | 2024-07-11 |  |
 | [Todas las Drogas del Mundo](https://open.spotify.com/track/3cvoxKYRlvu1fBnXrIdZ6U) | [Belarte](https://open.spotify.com/artist/2HNADS1yqggfwoMmurRRvM) | [Todas las Drogas del Mundo](https://open.spotify.com/album/1dmxJQ49QgpSth3mEUvsOM) | 3:38 | 2024-06-27 |  |
 | [Todas Las Horas](https://open.spotify.com/track/4Np3AKvrIqeDiNpfhAoFpt) | [Pipiolas](https://open.spotify.com/artist/0qFTwtYUtLs9jYEXUfmEpI), [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Todas Las Horas](https://open.spotify.com/album/6tsfBc1n2IEpxSC5EkCXRE) | 2:57 | 2024-06-27 |  |

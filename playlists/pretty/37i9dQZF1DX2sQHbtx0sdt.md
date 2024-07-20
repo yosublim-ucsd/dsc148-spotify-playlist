@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Jordan Adetunji 🇬🇧
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,856 likes - 99 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,109 likes - 99 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 53 | [0 CONFIANZA](https://open.spotify.com/track/3DoQI6dr5XDc7hChrkA1lD) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [EL TIBURÓN](https://open.spotify.com/album/44MDlLPFwSdNNACGyOlfW3) | 3:37 |
 | 54 | [Dundee](https://open.spotify.com/track/64fF8kyyZ0i55dgNuslZZM) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [Dundee](https://open.spotify.com/album/3BAlFd5A5cniOXQ3jX99dR) | 2:42 |
 | 55 | [WHO AM I](https://open.spotify.com/track/6rkW4FqJXyINF2vk6nzPBf) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [WHO AM I](https://open.spotify.com/album/76oTeft1Zyu2iuu3TdNY4p) | 2:48 |
-| 56 | [À QUOI TU JOUES](https://open.spotify.com/track/2fAymB6lhuXEQOhIrJZERU) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [MEC DE CITÉ SIMPLE](https://open.spotify.com/album/1VF9TOozMuDyuFU5maRA6M) | 3:03 |
+| 56 | [A QUOI TU JOUES](https://open.spotify.com/track/2fAymB6lhuXEQOhIrJZERU) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [MEC DE CITÉ SIMPLE](https://open.spotify.com/album/1VF9TOozMuDyuFU5maRA6M) | 3:03 |
 | 57 | [RA TA TA](https://open.spotify.com/track/4EGLoafrxloaEWTscMYARN) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [RA TA TA](https://open.spotify.com/album/2ECNBxFFxeMlOC3obWaoNw) | 2:32 |
 | 58 | [SESSO E SAMBA \(feat\. Gaia\)](https://open.spotify.com/track/2rMhztfOqEt00j47vpCfKl) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [SESSO E SAMBA \(feat\. Gaia\)](https://open.spotify.com/album/3QDP4EG7nlyN38o7720rye) | 2:47 |
 | 59 | [Maktub](https://open.spotify.com/track/7kdHCa0m0ZycuAELmeyMB4) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [96 Miles From Bethlehem](https://open.spotify.com/album/5n7u0Fwf8gE54F9rwPrz2O) | 3:28 |

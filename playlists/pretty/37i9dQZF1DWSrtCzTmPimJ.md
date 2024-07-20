@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 
 > Help ease your anxiety levels and enter an Alpha brainwave state with this session of ambient binaural beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,366 likes - 148 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,449 likes - 148 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

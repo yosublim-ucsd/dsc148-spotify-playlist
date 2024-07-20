@@ -5133,6 +5133,28 @@
     },
     {
       "album": {
+        "name": "VVFROST",
+        "url": "https://open.spotify.com/album/0cU6y450RZN5dWTjZP54WU"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        },
+        {
+          "name": "SEBii",
+          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Boss Baby",
+      "url": "https://open.spotify.com/track/3iHihR9gGDWNuiIJs65OUR"
+    },
+    {
+      "album": {
         "name": "Boucher",
         "url": "https://open.spotify.com/album/5cC4BUGWp9VQn88VY5NKcV"
       },

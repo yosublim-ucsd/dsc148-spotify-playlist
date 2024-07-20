@@ -4,7 +4,7 @@
 
 > Get in the zone with this fresh mix of chill music to study to.
 
-281 songs - 15 hr 36 min
+283 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [608](https://open.spotify.com/track/2YTsqpMJvfwPxDP7RuXjD2) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Wisconsin](https://open.spotify.com/album/31RR4pZy65rFv65pX37zyG) | 3:24 | 2023-08-28 |  |
 | [7 Minutes In Heaven](https://open.spotify.com/track/1BiZ9r6J68KPZiwO9aYHfj) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [7 Minutes In Heaven](https://open.spotify.com/album/5OBjaJBkBiB2lte0yM6BUa) | 3:36 | 2023-08-15 |  |
 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 | 2023-08-28 |  |
+| [Add Up My Love](https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:25 | 2024-07-19 |  |
 | [AGNOSTIC](https://open.spotify.com/track/08A0a0aUSZ7KMPvkOiK9iX) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [GLOW / AGNOSTIC](https://open.spotify.com/album/1bEikzQV0ZKvnYHTzIYjsi) | 3:51 | 2023-10-21 |  |
 | [alien](https://open.spotify.com/track/0VXQiOS3qpyAQNSX8jX88I) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [serious person \(part 2\)](https://open.spotify.com/album/7LDOkHuqa8vZxIYf0J4p4q) | 3:18 | 2023-09-22 | 2024-06-15 |
 | [anatomy](https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [anatomy](https://open.spotify.com/album/1HqB6FRF465zbiakkjsCLg) | 3:02 | 2023-08-28 | 2023-11-07 |
@@ -206,7 +207,7 @@
 | [Scarlett](https://open.spotify.com/track/5UqTWnG7YZAbj1SYMvnGsU) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 3:16 | 2023-08-15 | 2023-10-14 |
 | [Self Care](https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 5:45 | 2023-08-15 | 2023-08-29 |
 | [SEROTONIN](https://open.spotify.com/track/0e8FYXGHNcmvPwYioFsQOf) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [FRUITLAND](https://open.spotify.com/album/3VFAIzibNDPKEHs5YIe7mF) | 2:53 | 2023-10-14 |  |
-| [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 | 2024-06-14 |  |
+| [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 | 2024-06-14 | 2024-07-20 |
 | [Shape](https://open.spotify.com/track/3oPBo4yzu9VmmUYwU22CgB) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [Shape / She Walks In](https://open.spotify.com/album/7zHQnT0AgdKlgTHICLbdM7) | 3:13 | 2023-08-28 | 2024-06-15 |
 | [She's There](https://open.spotify.com/track/01yJB2dEUSEMcow0DX0RHA) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Big Dumb Heart, Chapter 1](https://open.spotify.com/album/5flJ8xRc70suiyuOnE4YhG) | 3:50 | 2023-08-15 | 2023-08-29 |
 | [Shimmer](https://open.spotify.com/track/5GCBU0qNaeKvZBhoGDgxXR) | [JFDR](https://open.spotify.com/artist/5Lg2eWJA2ZmMnZszOYPMCJ) | [Shimmer](https://open.spotify.com/album/485OiS4kRsIiO0EjwXotsB) | 3:21 | 2021-12-06 | 2023-08-16 |
@@ -263,6 +264,7 @@
 | [Truth or Dare](https://open.spotify.com/track/7wiIJWvHNaHPpZ35O5IOrv) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Rick](https://open.spotify.com/album/7y2Hg6YdBs0VOq7F29Ct1T) | 2:34 | 2023-09-29 |  |
 | [Two Weeks Ago](https://open.spotify.com/track/0bnUDXvwi2s8924tLTDg3K) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:59 | 2023-08-28 | 2023-09-16 |
 | [Two Years](https://open.spotify.com/track/2Z4KsUvMCgK5lL9OLU0Vbz) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Two Years](https://open.spotify.com/album/7oZXGk0hj8oVfBjFBUWgYF) | 3:29 | 2023-09-15 | 2024-06-15 |
+| [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 | 2024-07-19 |  |
 | [USMO](https://open.spotify.com/track/1hblRUhOt2Yi618eAJGGiK) | [John\-Robert](https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j) | [USMO](https://open.spotify.com/album/0dM6Nusk6TGd5X8DbHBQuF) | 2:33 | 2021-12-06 | 2023-08-16 |
 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2024-02-16 |  |
 | [VBS](https://open.spotify.com/track/2ZnEPfXm1CZzhGOn1Ay4mZ) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 3:56 | 2023-08-28 | 2023-11-18 |

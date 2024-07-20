@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Jos\u00e9 y El Toro en portada.",
-  "num_followers": 534984,
+  "num_followers": 534994,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Amores Ajenos",
-        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 205794,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Manteles & Arrugas",
         "url": "https://open.spotify.com/album/7LeORvjo14xEvtFlZJGBGY"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 192000,
       "name": "Manteles & Arrugas",
       "url": "https://open.spotify.com/track/0NyR8dPui2MoWlWPTQJuUc"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "Amores Ajenos",
+        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 205794,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Amor Maldito",
-        "url": "https://open.spotify.com/album/6IWvjpOuTtGEx3o7XqxPbo"
-      },
-      "artists": [
-        {
-          "name": "MIA",
-          "url": "https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq"
-        },
-        {
-          "name": "Erik Rubin",
-          "url": "https://open.spotify.com/artist/43hb5av90CTCWFldaaTp7n"
-        }
-      ],
-      "duration_ms": 203184,
-      "name": "Amor Maldito",
-      "url": "https://open.spotify.com/track/78d4tHPCTPe0aLRZtiJAal"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Mi Cielo",
         "url": "https://open.spotify.com/album/0GHRe1hmeLiFHbN4NegcXz"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 172000,
       "name": "Mi Cielo",
       "url": "https://open.spotify.com/track/1eDw1RDHLzBQvqAuVUDw53"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "Amor Maldito",
+        "url": "https://open.spotify.com/album/6IWvjpOuTtGEx3o7XqxPbo"
+      },
+      "artists": [
+        {
+          "name": "MIA",
+          "url": "https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq"
+        },
+        {
+          "name": "Erik Rubin",
+          "url": "https://open.spotify.com/artist/43hb5av90CTCWFldaaTp7n"
+        }
+      ],
+      "duration_ms": 203184,
+      "name": "Amor Maldito",
+      "url": "https://open.spotify.com/track/78d4tHPCTPe0aLRZtiJAal"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Carmines",
-        "url": "https://open.spotify.com/album/57Tm8zyEIX34uoq4Q62jOz"
-      },
-      "artists": [
-        {
-          "name": "Dali Mata",
-          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
-        },
-        {
-          "name": "Aquiles Moon",
-          "url": "https://open.spotify.com/artist/1UejGxMb9Ad1LkvLbphlq4"
-        }
-      ],
-      "duration_ms": 202277,
-      "name": "Carmines",
-      "url": "https://open.spotify.com/track/4o2GBzQUdB1JxtPugYW2gx"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "M\u00e1s Que Ella",
         "url": "https://open.spotify.com/album/5e5OW8eP7TzqaHsjRBAl8e"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 195789,
       "name": "M\u00e1s Que Ella",
       "url": "https://open.spotify.com/track/2NkS02tMmV0Aab8ghVdoCc"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "Carmines",
+        "url": "https://open.spotify.com/album/57Tm8zyEIX34uoq4Q62jOz"
+      },
+      "artists": [
+        {
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+        },
+        {
+          "name": "Aquiles Moon",
+          "url": "https://open.spotify.com/artist/1UejGxMb9Ad1LkvLbphlq4"
+        }
+      ],
+      "duration_ms": 202277,
+      "name": "Carmines",
+      "url": "https://open.spotify.com/track/4o2GBzQUdB1JxtPugYW2gx"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "En las Noches",
-        "url": "https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e"
-      },
-      "artists": [
-        {
-          "name": "Daniela Escalante",
-          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
-        }
-      ],
-      "duration_ms": 239412,
-      "name": "En las Noches",
-      "url": "https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/58MCZcbUtpCZO2AxzN6ft2"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 197553,
       "name": "Por Debajo de la Mesa",
       "url": "https://open.spotify.com/track/3DhB2He4Zi1TQe8YqJ3167"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "En las Noches",
+        "url": "https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e"
+      },
+      "artists": [
+        {
+          "name": "Daniela Escalante",
+          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
+        }
+      ],
+      "duration_ms": 239412,
+      "name": "En las Noches",
+      "url": "https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Si T\u00fa Supieras (En Vivo Desde El Teatro Real)",
-        "url": "https://open.spotify.com/album/3yTrEqEPA6T9qjbJUIGCJU"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 328320,
-      "name": "Si T\u00fa Supieras - En Vivo Desde El Teatro Real",
-      "url": "https://open.spotify.com/track/5X84dG9aZCTtlNx32WHPQD"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Lo esencial de Or\u00edgenes: El Bolero",
         "url": "https://open.spotify.com/album/6JJJE2Mp1nfIHVdKR7C8MZ"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 174066,
       "name": "No me reproches",
       "url": "https://open.spotify.com/track/3dYMoXfLNJveflEypwaUeA"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "Si T\u00fa Supieras (En Vivo Desde El Teatro Real)",
+        "url": "https://open.spotify.com/album/3yTrEqEPA6T9qjbJUIGCJU"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 328320,
+      "name": "Si T\u00fa Supieras - En Vivo Desde El Teatro Real",
+      "url": "https://open.spotify.com/track/5X84dG9aZCTtlNx32WHPQD"
     },
     {
       "added_at": "2024-06-28 06:00:00",

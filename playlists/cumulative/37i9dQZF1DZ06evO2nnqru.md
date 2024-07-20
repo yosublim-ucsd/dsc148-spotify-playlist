@@ -4,7 +4,7 @@
 
 > This is Marca MP\. The essential tracks, all in one playlist.
 
-104 songs - 5 hr 36 min
+105 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [La Mitad \- en Vivo](https://open.spotify.com/track/7pjkkFo5S9KVObBPbthtDw) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón \(en Vivo\)](https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv) | 3:22 | 2022-06-01 | 2023-07-24 |
 | [Lealtad](https://open.spotify.com/track/5HG6bnHO89RRqiqxAVr20B) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [LEALTAD](https://open.spotify.com/album/1JdiEIBdZQWfrZB2uFEGqm) | 2:17 | 2024-02-03 |  |
 | [Lejos \- En Vivo](https://open.spotify.com/track/5ApwxAEVY9BLPZ4x9KUNMF) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón, Vol\. II \(En Vivo\)](https://open.spotify.com/album/3jZIGZPZ4iijaPksSNWt13) | 3:27 | 2024-06-09 |  |
+| [Litzahaya](https://open.spotify.com/track/3t9RSoRYSbvXH3YmvKtLaS) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Litzahaya](https://open.spotify.com/album/3HfkxQauyghL6mcQViSqui) | 3:28 | 2024-07-20 |  |
 | [Lo Echaste A Perder](https://open.spotify.com/track/1F0dWXX30Ftztr8lwR2SKF) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:08 | 2022-06-25 | 2022-10-11 |
 | [Lo Que Hay x Aquí](https://open.spotify.com/track/3Ck2hZFoRgNL2CUUkp64Bf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Lo Que Hay x Aquí](https://open.spotify.com/album/6b2PIJN4fzFif2Y1RivYOb) | 3:30 | 2023-12-13 |  |
 | [Lumbre Al Cigarro](https://open.spotify.com/track/59c3aYfsXyTSo88Jet72tQ) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 2:20 | 2022-06-01 | 2023-06-01 |
@@ -77,7 +78,7 @@
 | [Que Casualidad \- En vivo](https://open.spotify.com/track/2puoDFA9WmRPqF2QUPymxI) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 3 \(En vivo\)](https://open.spotify.com/album/4jufeGTVJpClLZiktiMMGn) | 3:18 | 2022-06-01 | 2022-07-07 |
 | [Que Fue Lo Que Paso](https://open.spotify.com/track/3ewS8DYitFRgZBv9X4f7qZ) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 3:47 | 2022-06-01 |  |
 | [Que Me Falto \- En vivo](https://open.spotify.com/track/1nFSmF0g3tO3c5Y1FbTBsE) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Despegando el Vuelo \(En vivo\)](https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF) | 3:41 | 2022-06-01 |  |
-| [R1](https://open.spotify.com/track/4nmaHTyAohQW70OpqHpqfW) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 3:59 | 2023-08-02 |  |
+| [R1](https://open.spotify.com/track/4nmaHTyAohQW70OpqHpqfW) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 3:59 | 2023-08-02 | 2024-07-20 |
 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 | 2022-06-01 |  |
 | [Rios Por Apellido \- En vivo](https://open.spotify.com/track/6AY4yiKt405DygjNOXWDAK) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo EP, Vol\. 1 \(En vivo\)](https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN) | 3:04 | 2022-06-01 | 2022-12-25 |
 | [Sabes Amor \- En vivo](https://open.spotify.com/track/70Py0XCeJloi2ERN3w3Mj7) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Despegando el Vuelo \(En vivo\)](https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF) | 4:36 | 2022-06-01 |  |

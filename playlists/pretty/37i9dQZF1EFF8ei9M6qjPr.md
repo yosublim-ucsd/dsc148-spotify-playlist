@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221 likes - 136 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 228 likes - 136 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,8 +133,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 123 | [let you down \(feat\. Jake Bugg\)](https://open.spotify.com/track/0KZYmzV0OHhPu4aTMO2zjm) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 3:27 |
 | 124 | [Hollywood Sextape](https://open.spotify.com/track/1qPfbQKFBTKMW1z7CjLA9v) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Jawbreaker](https://open.spotify.com/album/4op5G7mWdKWqsKcTpdFU8a) | 3:31 |
 | 125 | [Nightlight](https://open.spotify.com/track/2plkDAkfLGShUrvdimPNIb) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Arcade](https://open.spotify.com/album/4Ganxbl3L5KDZP9MHnSB5N) | 3:06 |
-| 126 | [supernatural](https://open.spotify.com/track/3noi9RTSfFwoRCxGPR1giy) | [Kazi](https://open.spotify.com/artist/5AS6c56mjqwIGujc81FTVh) | [too good to be true](https://open.spotify.com/album/1E6DxaWMpjQx9O5qe0EYP9) | 2:14 |
-| 127 | [lovesick](https://open.spotify.com/track/16DQrEloMIrPB22YCNFj70) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 14](https://open.spotify.com/album/4GFAippfA1UcHW8uyDabWD) | 2:20 |
+| 126 | [lovesick](https://open.spotify.com/track/16DQrEloMIrPB22YCNFj70) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 14](https://open.spotify.com/album/4GFAippfA1UcHW8uyDabWD) | 2:20 |
+| 127 | [supernatural](https://open.spotify.com/track/3noi9RTSfFwoRCxGPR1giy) | [Kazi](https://open.spotify.com/artist/5AS6c56mjqwIGujc81FTVh) | [too good to be true](https://open.spotify.com/album/1E6DxaWMpjQx9O5qe0EYP9) | 2:14 |
 | 128 | [Fiend](https://open.spotify.com/track/3ADYHqOd7NPIKXOF5TIq6T) | [JAXN](https://open.spotify.com/artist/7DwbU77epeOXvBO9xfOmh7) | [Fiend](https://open.spotify.com/album/0YHMkJaEbn90CPHVowKR4g) | 2:48 |
 | 129 | [Wish You Would](https://open.spotify.com/track/6OdhRpSKjX46JcDtaOlYoS) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Wish You Would](https://open.spotify.com/album/1VU8aeR5Av7bGxCZXlHwBe) | 2:24 |
 | 130 | [Don't Prove Me Wrong](https://open.spotify.com/track/0T3t2dLmJWmUivNFnTfLs6) | [Londin Thompson](https://open.spotify.com/artist/2Sh4jX7pEUGGccmg4f7oKw) | [Don't Prove Me Wrong](https://open.spotify.com/album/0k1s0w1dX6RU96SBkoV32d) | 3:08 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 135 | [Freakshow](https://open.spotify.com/track/4WceOz4GIcG7FyYvkpcNQj) | [JAXN](https://open.spotify.com/artist/7DwbU77epeOXvBO9xfOmh7) | [Freakshow](https://open.spotify.com/album/1JfiOjHXTPhks1hpToVbLX) | 2:24 |
 | 136 | [All I Wanna Be \(feat\. Sean Patrick Murray\)](https://open.spotify.com/track/1Ec1hixIPm30vs0s9aV5BK) | [Westside Cast](https://open.spotify.com/artist/5Z6UnrTHG7YbOsdHAkZdOw), [Sean Patrick Murray](https://open.spotify.com/artist/31wZNcRxQ9opwiFLXpCvld) | [Westside: The Music \(Music from the Original Series\)](https://open.spotify.com/album/4z57sC26Xxv1CdURc6mfru) | 3:54 |
 
-Snapshot ID: `AbXFEAAAAABo90SzfURTROViVygrV0DG`
+Snapshot ID: `AbXJDAAAAABhi23bCWQBysSHjmzqIMWM`

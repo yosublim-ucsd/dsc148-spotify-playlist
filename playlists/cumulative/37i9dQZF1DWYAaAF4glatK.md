@@ -4,7 +4,7 @@
 
 > L'été 2024 sera chaud 🌞
 
-270 songs - 13 hr 37 min
+271 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [DIE](https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 4:00 | 2022-09-07 | 2023-05-20 |
 | [Dingue de toi \(Turn me on\) \[feat\. Dana\]](https://open.spotify.com/track/0A0fvppjEtBmBhVjmw5aF6) | [Alexy Large](https://open.spotify.com/artist/4FlyOnqbpEbCR34xmBEIu2), [Dana](https://open.spotify.com/artist/4oUyBawGODm5oYtfa0scxY) | [Dingue de toi \(Turn me on\) \[feat\. Dana\]](https://open.spotify.com/album/33oJGm7UgpfBEB5uBLzF0X) | 2:39 | 2023-06-12 | 2023-06-16 |
 | [Dis Moi Tout](https://open.spotify.com/track/387yCeKQgJON67MA3a5w0e) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [EQUATEUR](https://open.spotify.com/album/5JTIaFxUwxcK3ZqQ0KcFWR) | 2:52 | 2023-05-19 | 2023-06-03 |
+| [Dis\-Le Moi](https://open.spotify.com/track/62uQynm27mu2GH2RsTUh7v) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Dis\-Le Moi](https://open.spotify.com/album/46UUw87srhq0eswxMN4Tcp) | 3:20 | 2024-07-19 |  |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-09-07 | 2023-05-20 |
 | [DON'T YOU WORRY](https://open.spotify.com/track/0YJW8OXw8G1xDfkzaID3vv) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [ELEVATION](https://open.spotify.com/album/1jH4f6N9caSeq3VwwtTHLn) | 3:14 | 2022-09-07 | 2023-02-11 |
 | [El Incomprendido](https://open.spotify.com/track/493Rk3iS7rs8uPfpnfm95u) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Dj Adoni](https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt) | [El Incomprendido](https://open.spotify.com/album/046Eyq94B09gkJ8ISXxzt8) | 4:27 | 2022-09-07 | 2023-03-23 |
@@ -154,7 +155,7 @@
 | [Love Me](https://open.spotify.com/track/1gno4JrQywuxvuMLNmufoP) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Love Me](https://open.spotify.com/album/1vikym192WUofadPIdXtbl) | 3:15 | 2023-07-13 | 2023-08-04 |
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-06-14 |  |
 | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B) | 2:40 | 2024-04-11 | 2024-07-16 |
-| [Madrid City](https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Madrid City](https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98) | 2:52 | 2024-03-29 |  |
+| [Madrid City](https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Madrid City](https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98) | 2:52 | 2024-03-29 | 2024-07-20 |
 | [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 | 2023-06-29 | 2024-03-30 |
 | [Mambella](https://open.spotify.com/track/48xHszgl5GSK5nefCOiFov) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E), [Olupellar](https://open.spotify.com/artist/09wnzgFWuf8oZHJ4BDoeMS) | [Mambella](https://open.spotify.com/album/0qZsbYAhTYHpu5y5sjF46B) | 2:51 | 2023-02-10 | 2023-05-20 |
 | [Man In Finance \(with David Guetta\)](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(with David Guetta\)](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 | 2024-06-27 |  |

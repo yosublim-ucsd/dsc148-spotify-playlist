@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 
 > 在音樂的懷抱裡，你想哭就哭。我愛你 對不起 說好的在一起 撲空的擁抱 握不住的你 有多少想念變成空氣。
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,523 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,523 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 45 | [拿走了什麼](https://open.spotify.com/track/7gXiPiffMrqPe3Q1vzD6uM) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [罪惡感](https://open.spotify.com/album/7MRgaADR9IFjG9NgdEkarv) | 4:56 |
 | 46 | [祝我生日快樂](https://open.spotify.com/track/34HdnP6vGMrIuOK7bcIW88) | [Landy Wen](https://open.spotify.com/artist/3yMtvgD2LCo6Ws4Z08fTFj) | [溫式效應](https://open.spotify.com/album/33GHPmLtQLYOvocmn0iAZ7) | 4:18 |
 | 47 | [拋物線](https://open.spotify.com/track/2oZJWtQZ6CLPHHsnUhC3IY) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [若你碰到他](https://open.spotify.com/album/60ibi7DcLi7LDZSgq4KQfF) | 5:07 |
-| 48 | [你不是第一個離開的人](https://open.spotify.com/track/2uY8mN0tdlmy9E1zuHmWOh) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [你不是第一個離開的人](https://open.spotify.com/album/2C8bIw4bA99REC2i34epaK) | 3:20 |
+| 48 | [像風一樣](https://open.spotify.com/track/2myX6RzEVRQw0NlhcCTYYc) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [像風一樣](https://open.spotify.com/album/3wdlvTn7CBwdG774ckbMBb) | 4:15 |
 | 49 | [浪費](https://open.spotify.com/track/6rvSliUoMf9GU9vxAR7nPH) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [大小說家](https://open.spotify.com/album/62r7dcrgRinOk2tTHYiOcl) | 5:07 |
 | 50 | [扑火](https://open.spotify.com/track/4MzaOc1mOP988KxV3ppWGR) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [扑火](https://open.spotify.com/album/1EQw7iAPASpnBid4BkJxl3) | 3:56 |
 

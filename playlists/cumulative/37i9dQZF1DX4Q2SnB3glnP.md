@@ -4,7 +4,7 @@
 
 > Music wellness for your soul.
 
-338 songs - 17 hr 36 min
+339 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Descent](https://open.spotify.com/track/6kXLNIC0AHVfal6viWKsjn) | [Cloud Phases](https://open.spotify.com/artist/6vhhMlmBRk4UJ1We37tUP1) | [Descent](https://open.spotify.com/album/2yLL0vZElvlke6jWMVCfFV) | 3:16 | 2021-12-08 |  |
 | [Designated Solitude](https://open.spotify.com/track/1KD5sDTDCSj2yPBh3OxQ1i) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Designated Solitude](https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4) | 3:03 | 2021-12-08 | 2023-12-05 |
 | [Despina](https://open.spotify.com/track/7gakLWG0iQZ5lCwV3WzfNw) | [Sanem Finley](https://open.spotify.com/artist/6GuH0KuqDKOwuukZmLXZtG) | [Despina](https://open.spotify.com/album/6k65e7fcqNlfrleVeC9Uit) | 3:33 | 2021-12-08 | 2022-03-22 |
-| [Deti Kaltert](https://open.spotify.com/track/28T6PyLSaQRNwpCCA8DAWj) | [Kacallari G](https://open.spotify.com/artist/0WAoP6XTRdVsUcsHcQjm9I) | [Deti Kaltert](https://open.spotify.com/album/1GLIgwQ7LzUJyMym6ILTSb) | 3:32 | 2024-04-29 |  |
+| [Deti Kaltert](https://open.spotify.com/track/28T6PyLSaQRNwpCCA8DAWj) | [Kacallari G](https://open.spotify.com/artist/0WAoP6XTRdVsUcsHcQjm9I) | [Deti Kaltert](https://open.spotify.com/album/1GLIgwQ7LzUJyMym6ILTSb) | 3:32 | 2024-04-29 | 2024-07-20 |
 | [Dharana Focus](https://open.spotify.com/track/5OpOdnNT8P4aMvYFsmidPN) | [Yolta](https://open.spotify.com/artist/1FcdysxmyKBfSOyVppN3sw) | [Dharana Focus](https://open.spotify.com/album/3YEErV3yJvdcUS8T1qUwrL) | 2:51 | 2021-12-08 |  |
 | [Different Sides](https://open.spotify.com/track/1BOhxpb7mDYF03nHxd9E1g) | [YON](https://open.spotify.com/artist/2cOdd5qCI4APHYIfwOXges) | [Room In Space](https://open.spotify.com/album/0xruoQGbzb2ttTqOevmAoW) | 3:10 | 2021-12-08 |  |
 | [Distant Oceans](https://open.spotify.com/track/4TbaG2d0oHVSL5WWHr3paT) | [Frieda Walsch](https://open.spotify.com/artist/0Ue0VWmaybjJo2MykZRGCM) | [Distant Oceans](https://open.spotify.com/album/3qXuyU8MWIDQnAyefC0Y80) | 2:18 | 2021-12-22 |  |
@@ -109,7 +109,7 @@
 | [Explorer](https://open.spotify.com/track/0midUtkfJN36sYHv3eVWYj) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Mind Balance](https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj) | 3:03 | 2022-12-30 |  |
 | [Fading Out](https://open.spotify.com/track/1GG2rqEQi9OyH1pA8A7qGl) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Integrating](https://open.spotify.com/album/2tPY3IAMnGDBKJevNL4iRi) | 4:07 | 2021-12-08 |  |
 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7bmRaidlj0sx7EKFWBLnl2) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 | 2021-12-08 | 2022-10-01 |
-| [Family Dawn](https://open.spotify.com/track/2Gdybo91D2AszWaPKGLrul) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Personal Experiences](https://open.spotify.com/album/6gIXWTlb5DKqNAf4aTAfDw) | 3:48 | 2021-12-08 |  |
+| [Family Dawn](https://open.spotify.com/track/2Gdybo91D2AszWaPKGLrul) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Personal Experiences](https://open.spotify.com/album/6gIXWTlb5DKqNAf4aTAfDw) | 3:48 | 2021-12-08 | 2024-07-20 |
 | [Faultlines](https://open.spotify.com/track/0Wymw9BQ9YsNHzxt6JA9Rq) | [Monkey Mindset](https://open.spotify.com/artist/2KPrFZKaTyCOJBNf0RZYRl) | [Faultlines](https://open.spotify.com/album/3u6eul6yylGjvyskOY10ig) | 3:01 | 2024-05-10 |  |
 | [Felidae](https://open.spotify.com/track/7H5oDBhgS4ZKeHGUgD0jpo) | [Wolves Club](https://open.spotify.com/artist/62QRG3Vco7ANXWeJm7pUAh) | [Felidae](https://open.spotify.com/album/4P3ktQbRMauYGxulDJd2ai) | 3:07 | 2021-12-08 |  |
 | [Finding You](https://open.spotify.com/track/57XqKCO5MeTbiaLSnq6dFj) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Finding You](https://open.spotify.com/album/706n9jfumnN5j4IjAeAqS7) | 3:04 | 2021-12-08 | 2022-12-10 |
@@ -275,9 +275,10 @@
 | [Sleep Drone In C](https://open.spotify.com/track/5fy41aUyrZd4sHSFbq2fJQ) | [Kamila Tait](https://open.spotify.com/artist/25FanX6VBnV0irqD9A6IwL) | [Sleep Drone In C](https://open.spotify.com/album/2xyKsesDNwPXWot5KRcwLz) | 2:48 | 2023-01-20 |  |
 | [Sleep in 8D](https://open.spotify.com/track/4eE89BleDZTBIOol7KymCp) | [8D Moments](https://open.spotify.com/artist/0fmItSa3islpsJ521cbeJo) | [8D Moments Vol.1](https://open.spotify.com/album/0oTWY60154TcCaTOQRkWAJ) | 2:53 | 2021-12-08 | 2023-08-12 |
 | [Smyrna](https://open.spotify.com/track/20WOKEJgCcTSP9fpmTN9BM) | [From Us](https://open.spotify.com/artist/1alyoRkSvs6MfBhq7lgY3Q) | [Smyrna](https://open.spotify.com/album/0kRViOapDgEc4RvhO4jbXA) | 3:19 | 2021-12-08 |  |
+| [Solstice Waves](https://open.spotify.com/track/6SFSWBUYfepFU3iNlXLPeu) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Solstice Waves](https://open.spotify.com/album/05AOfjLp2pq7emPXZGbRXk) | 2:48 | 2024-07-19 |  |
 | [Spectral Stone](https://open.spotify.com/track/6Rus9WFFNWmwink9FBzhjw) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Spectral Stone](https://open.spotify.com/album/5nw8PE1qYifYIlNXHQesdl) | 3:20 | 2021-12-08 | 2023-12-05 |
 | [Springtime Bird](https://open.spotify.com/track/3VW0JyEfyYHqmhiZORcdTr) | [Orakleminds](https://open.spotify.com/artist/76yD4nheAs3jgqSgQZDDwC) | [Harmonic Waves](https://open.spotify.com/album/3oCRkrg7AL8r5rMfGVPU2t) | 3:21 | 2021-12-08 | 2023-08-12 |
-| [Stargaze](https://open.spotify.com/track/4lMmoawRGvO419cZgRP9mV) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Ascendent](https://open.spotify.com/album/7wnhFQ2b7bGwjyLSiqRyt4) | 2:39 | 2022-06-24 |  |
+| [Stargaze](https://open.spotify.com/track/4lMmoawRGvO419cZgRP9mV) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Ascendent](https://open.spotify.com/album/7wnhFQ2b7bGwjyLSiqRyt4) | 2:39 | 2022-06-24 | 2024-07-20 |
 | [Stilhed](https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0) | [Alba Lie](https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl) | [Stilhed](https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk) | 3:19 | 2022-02-03 |  |
 | [Strange Skies](https://open.spotify.com/track/2rGT0eAhB6bAjOhuvPjufN) | [Terra Armoniosa](https://open.spotify.com/artist/0AkcSI557MXz8GvC7fbyVT) | [Strange Skies](https://open.spotify.com/album/5OinUAzFtK0yjda1x7QWpj) | 2:51 | 2024-06-11 |  |
 | [Strewn Across](https://open.spotify.com/track/0kuBMsyIEjgPEvxumcFUTV) | [Oberohn](https://open.spotify.com/artist/6xkMXOTgxXp0H0xxv2D2vt) | [Strewn Across](https://open.spotify.com/album/4kmgmdpvu4blESSHvIV5we) | 2:36 | 2021-12-08 |  |
@@ -325,7 +326,7 @@
 | [Tranquility](https://open.spotify.com/track/3hEugJ3cU9p9gN5b6imbvX) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Effortless](https://open.spotify.com/album/6JBZgfycZAmFDdNdjT98hT) | 2:29 | 2021-12-08 | 2023-08-12 |
 | [Transcendent](https://open.spotify.com/track/40HNCjbFcGS74OhcmBR7uc) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Transcendent](https://open.spotify.com/album/26I7wSdvaOG7QiFciqTH6v) | 2:05 | 2024-06-11 |  |
 | [Translucent night](https://open.spotify.com/track/7GKuF5uVs0dGmjWzoA5VW5) | [Olivia Line](https://open.spotify.com/artist/0n4VpRA6e5Cd3snLrusqeA) | [Translucent night](https://open.spotify.com/album/1VEHWNHa2RMzIGXIlDWFVd) | 2:42 | 2024-07-12 |  |
-| [Two Ways](https://open.spotify.com/track/2jtfOMMCIJrZgXbdnrVNDH) | [Monet Benitez](https://open.spotify.com/artist/4oQZmRxjpBOfuINrvgElwz) | [Two Ways](https://open.spotify.com/album/7lct65G1cVbNXZXY6zGjn4) | 3:04 | 2022-11-11 |  |
+| [Two Ways](https://open.spotify.com/track/2jtfOMMCIJrZgXbdnrVNDH) | [Monet Benitez](https://open.spotify.com/artist/4oQZmRxjpBOfuINrvgElwz) | [Two Ways](https://open.spotify.com/album/7lct65G1cVbNXZXY6zGjn4) | 3:04 | 2022-11-11 | 2024-07-20 |
 | [Un Lugar Tranquilo](https://open.spotify.com/track/5BMUIx6JMCKHK1BsWsYMmY) | [Micaela De León](https://open.spotify.com/artist/501O6IotIJIxYTcT7TXzNc) | [Un Lugar Tranquilo](https://open.spotify.com/album/6PxtxECBTrXamiB9EYO9IH) | 3:02 | 2022-06-16 |  |
 | [Une autre fois](https://open.spotify.com/track/33T4UVNjVx8pWAcWZG4lCn) | [Emmeline Ralph](https://open.spotify.com/artist/3ETsEsGHY5HlPjh1lxVtG8) | [Une autre fois](https://open.spotify.com/album/480hA9KU8gmNMMImvyaSZf) | 3:13 | 2022-07-15 |  |
 | [Unearth](https://open.spotify.com/track/6Xi8YlrC0eGYuyjnJHWUVR) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Fallen](https://open.spotify.com/album/52thnHxyMTyY56yHm8i6Sx) | 5:57 | 2021-12-08 | 2023-01-21 |

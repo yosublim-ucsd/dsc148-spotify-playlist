@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: Ivan Cornejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,715 likes - 195 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,858 likes - 195 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -31119,24 +31119,6 @@
     },
     {
       "album": {
-        "name": "Miracles",
-        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "date_added": "2023-09-21",
-      "date_added_asterisk": false,
-      "date_removed": "2023-09-29",
-      "duration_ms": 269249,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
-    },
-    {
-      "album": {
         "name": "1-800 FANTASY",
         "url": "https://open.spotify.com/album/4Hc9kwSIRb2jgE441FOueK"
       },
@@ -31154,8 +31136,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 157998,
-      "name": "GEMINI (feat. Jackie Giroux)",
+      "name": "GEMINI",
       "url": "https://open.spotify.com/track/5j99dfS5X643RxuJdyizt3"
+    },
+    {
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-29",
+      "duration_ms": 269249,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
     },
     {
       "album": {

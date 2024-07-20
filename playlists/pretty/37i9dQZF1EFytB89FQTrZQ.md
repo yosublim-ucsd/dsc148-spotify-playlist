@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,505 likes - 306 songs - 17 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,506 likes - 306 songs - 17 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 40 | [I Could Get Used To This \(with WEISS\)](https://open.spotify.com/track/6MSuMFyOdoJMAEgvnhqbRu) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB) | [Get To Know](https://open.spotify.com/album/1vlHG5JJCSsWBuA5vPTY7Q) | 3:14 |
 | 41 | [Let Them Know](https://open.spotify.com/track/3iEwla99ovgF0Rdla6FZm4) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 2:28 |
 | 42 | [If It Ain’t Me](https://open.spotify.com/track/1IdDtg7GhWfHYEWDymq3d2) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia \(The Moonlight Edition\)](https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX) | 3:15 |
-| 43 | [Two](https://open.spotify.com/track/62CprXvSWsKBvYu3Yba55A) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Atlas: Enneagram](https://open.spotify.com/album/1R3C4VebWmWXFlbTSnnLql) | 4:18 |
-| 44 | [Sugarcoat \(NATTY Solo\)](https://open.spotify.com/track/0NoeYUnwpb9R26mpylHcR9) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [KISS OF LIFE](https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG) | 2:59 |
+| 43 | [Sugarcoat \(NATTY Solo\)](https://open.spotify.com/track/0NoeYUnwpb9R26mpylHcR9) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [KISS OF LIFE](https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG) | 2:59 |
+| 44 | [Two](https://open.spotify.com/track/62CprXvSWsKBvYu3Yba55A) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Atlas: Enneagram](https://open.spotify.com/album/1R3C4VebWmWXFlbTSnnLql) | 4:18 |
 | 45 | [No Time For Tears](https://open.spotify.com/track/2Rr1INov0ckj7bLTsk9LV1) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [No Time For Tears](https://open.spotify.com/album/5uFXAG4F9SX86RS5RHWDsx) | 3:16 |
 | 46 | [Colour](https://open.spotify.com/track/7haQE5nOcxwk0HXahP0aV3) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Colour](https://open.spotify.com/album/7xniwwZWn3QwUwPqg9NbaF) | 3:21 |
 | 47 | [Plot Twist](https://open.spotify.com/track/5wJL4o7k8m02m6ZM9KT0ir) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Gossip Columns](https://open.spotify.com/album/4OmqJXPhD5FOqwdg5tBsnu) | 3:47 |
@@ -315,4 +315,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 305 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 | 306 | [See You When I Look At You](https://open.spotify.com/track/3qjXYDCuRWVmCulEsCAM3L) | [King Lowkey Tha Bread Winner](https://open.spotify.com/artist/1xHrLzZi7eNjqQUcSIpiUp) | [Real Recognize Real But I Peep The Fake Too](https://open.spotify.com/album/2wj9RYyXjMuHLvlTHMmPb6) | 2:47 |
 
-Snapshot ID: `AbXFCgAAAACa05lRBfowpt+BGoljBxbe`
+Snapshot ID: `AbXJAgAAAADbQjpX5sSoG/7S9Lvr8SpT`

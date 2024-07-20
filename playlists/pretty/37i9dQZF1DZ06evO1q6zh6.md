@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 
 > This is Judas Priest\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,510 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,539 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 | 49 | [Prisoner of Your Eyes](https://open.spotify.com/track/2VLwPKY2gaBxGxwgmwRDUf) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance](https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI) | 7:10 |
 | 50 | [Children of the Sun](https://open.spotify.com/track/6rCp71jUgFxbGNsBqjLZpr) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 4:00 |
 
-Snapshot ID: `ZpcJgAAAAAAw5an5DTDDdwIW8XbfT63+`
+Snapshot ID: `ZphbAAAAAAA3sOiwwfuc9tWOI5S1jvTI`

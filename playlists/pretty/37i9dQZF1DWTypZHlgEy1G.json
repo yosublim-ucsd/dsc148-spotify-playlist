@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : Charles Aznavour",
-  "num_followers": 535706,
+  "num_followers": 535689,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -155,18 +155,18 @@
     {
       "added_at": "2024-06-20 16:28:18",
       "album": {
-        "name": "Le p\u00e9nitencier",
-        "url": "https://open.spotify.com/album/6BIYQZuFPkhbkCl2PHPcj6"
+        "name": "Niagara",
+        "url": "https://open.spotify.com/album/4PXN6s7jgy76nUzLdPFGvU"
       },
       "artists": [
         {
-          "name": "Johnny Hallyday",
-          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+          "name": "Julien Clerc",
+          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
         }
       ],
-      "duration_ms": 245493,
-      "name": "Le p\u00e9nitencier",
-      "url": "https://open.spotify.com/track/6phMPtxOkjdXR8ax9xoCJ9"
+      "duration_ms": 214173,
+      "name": "Ce n'est rien",
+      "url": "https://open.spotify.com/track/0klbnFP6UwMYpUuKjhleKT"
     },
     {
       "added_at": "2024-06-20 16:28:18",
@@ -187,18 +187,18 @@
     {
       "added_at": "2024-06-20 16:28:18",
       "album": {
-        "name": "Niagara",
-        "url": "https://open.spotify.com/album/4PXN6s7jgy76nUzLdPFGvU"
+        "name": "Le p\u00e9nitencier",
+        "url": "https://open.spotify.com/album/6BIYQZuFPkhbkCl2PHPcj6"
       },
       "artists": [
         {
-          "name": "Julien Clerc",
-          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
         }
       ],
-      "duration_ms": 214173,
-      "name": "Ce n'est rien",
-      "url": "https://open.spotify.com/track/0klbnFP6UwMYpUuKjhleKT"
+      "duration_ms": 245493,
+      "name": "Le p\u00e9nitencier",
+      "url": "https://open.spotify.com/track/6phMPtxOkjdXR8ax9xoCJ9"
     },
     {
       "added_at": "2024-06-20 16:28:18",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-06-20 16:28:18",
       "album": {
-        "name": "Fr\u00e9hel [Collection disques Path\u00e9]",
-        "url": "https://open.spotify.com/album/4ikZGhHqdMf24sWQA4v4UI"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9hel",
-          "url": "https://open.spotify.com/artist/0ike8zNDzesj4aOoyZMKho"
-        }
-      ],
-      "duration_ms": 165893,
-      "name": "La java bleue",
-      "url": "https://open.spotify.com/track/1vveZRFXBiFrnO4wUpgArq"
-    },
-    {
-      "added_at": "2024-06-20 16:28:18",
-      "album": {
         "name": "Forever Dalida",
         "url": "https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 175026,
       "name": "Il venait d'avoir 18 ans",
       "url": "https://open.spotify.com/track/1S39BVV8IFikZtlmPjchBd"
+    },
+    {
+      "added_at": "2024-06-20 16:28:18",
+      "album": {
+        "name": "Fr\u00e9hel [Collection disques Path\u00e9]",
+        "url": "https://open.spotify.com/album/4ikZGhHqdMf24sWQA4v4UI"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9hel",
+          "url": "https://open.spotify.com/artist/0ike8zNDzesj4aOoyZMKho"
+        }
+      ],
+      "duration_ms": 165893,
+      "name": "La java bleue",
+      "url": "https://open.spotify.com/track/1vveZRFXBiFrnO4wUpgArq"
     },
     {
       "added_at": "2024-06-20 16:28:18",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-06-20 16:28:18",
       "album": {
+        "name": "Platinum Charles Aznavour",
+        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "duration_ms": 140826,
+      "name": "Hier encore",
+      "url": "https://open.spotify.com/track/0DXyFek0JfbNE34s2u2bDD"
+    },
+    {
+      "added_at": "2024-06-20 16:28:18",
+      "album": {
         "name": "Les plus grandes chansons",
         "url": "https://open.spotify.com/album/4F6NYEBMBCvvIuj1RQv2vh"
       },
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2024-06-20 16:28:18",
       "album": {
-        "name": "Le disque d'or (Remastered)",
-        "url": "https://open.spotify.com/album/79M1hsJkTEt1mOfiIi97Qh"
-      },
-      "artists": [
-        {
-          "name": "Adamo",
-          "url": "https://open.spotify.com/artist/26ycUCO6mpGAZPw9yHzhon"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Vous permettez, monsieur ?",
-      "url": "https://open.spotify.com/track/0BZkhtJceF2dcvazRrfguv"
-    },
-    {
-      "added_at": "2024-06-20 16:28:18",
-      "album": {
         "name": "Fais Comme L'Oiseau",
         "url": "https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn"
       },
@@ -1035,6 +1035,22 @@
       "duration_ms": 186693,
       "name": "Fais comme l'oiseau",
       "url": "https://open.spotify.com/track/5INFljqNxkfUkUajeXtBFh"
+    },
+    {
+      "added_at": "2024-06-20 16:28:18",
+      "album": {
+        "name": "Le disque d'or (Remastered)",
+        "url": "https://open.spotify.com/album/79M1hsJkTEt1mOfiIi97Qh"
+      },
+      "artists": [
+        {
+          "name": "Adamo",
+          "url": "https://open.spotify.com/artist/26ycUCO6mpGAZPw9yHzhon"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Vous permettez, monsieur ?",
+      "url": "https://open.spotify.com/track/0BZkhtJceF2dcvazRrfguv"
     },
     {
       "added_at": "2024-06-20 16:28:18",
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2024-06-20 16:28:18",
       "album": {
-        "name": "Santiano",
-        "url": "https://open.spotify.com/album/3MgwUwjuUgVEaT628l3kJB"
-      },
-      "artists": [
-        {
-          "name": "Hugues Aufray",
-          "url": "https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol"
-        }
-      ],
-      "duration_ms": 134973,
-      "name": "Santiano",
-      "url": "https://open.spotify.com/track/4fYqKBJQDep6s2f74pkUXZ"
-    },
-    {
-      "added_at": "2024-06-20 16:28:18",
-      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/3ZU8JjHnH8JxGEKfrN7x16"
       },
@@ -1227,22 +1227,6 @@
       "duration_ms": 253013,
       "name": "Comme d'habitude",
       "url": "https://open.spotify.com/track/3oHpcWfXvtA6RrzgYahuAT"
-    },
-    {
-      "added_at": "2024-06-20 16:28:18",
-      "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/4XvvwnuEOPWWOexWJDbeYf"
-      },
-      "artists": [
-        {
-          "name": "Christophe",
-          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
-        }
-      ],
-      "duration_ms": 170840,
-      "name": "Aline",
-      "url": "https://open.spotify.com/track/17ODC17zbOv6MVBDiANvue"
     },
     {
       "added_at": "2024-06-20 16:28:18",
@@ -1275,6 +1259,38 @@
       "duration_ms": 153133,
       "name": "La madrague",
       "url": "https://open.spotify.com/track/6S4VGbTsHYtqchpkCx0kxW"
+    },
+    {
+      "added_at": "2024-06-20 16:28:18",
+      "album": {
+        "name": "Santiano",
+        "url": "https://open.spotify.com/album/3MgwUwjuUgVEaT628l3kJB"
+      },
+      "artists": [
+        {
+          "name": "Hugues Aufray",
+          "url": "https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol"
+        }
+      ],
+      "duration_ms": 134973,
+      "name": "Santiano",
+      "url": "https://open.spotify.com/track/4fYqKBJQDep6s2f74pkUXZ"
+    },
+    {
+      "added_at": "2024-06-20 16:28:18",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/4XvvwnuEOPWWOexWJDbeYf"
+      },
+      "artists": [
+        {
+          "name": "Christophe",
+          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
+        }
+      ],
+      "duration_ms": 170840,
+      "name": "Aline",
+      "url": "https://open.spotify.com/track/17ODC17zbOv6MVBDiANvue"
     },
     {
       "added_at": "2024-06-20 16:28:18",
@@ -1320,9 +1336,9 @@
           "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
         }
       ],
-      "duration_ms": 140826,
-      "name": "Hier encore",
-      "url": "https://open.spotify.com/track/0DXyFek0JfbNE34s2u2bDD"
+      "duration_ms": 156933,
+      "name": "Que C'est Triste Venise",
+      "url": "https://open.spotify.com/track/7H5Jw7GQh0ij0UMGwLkdKR"
     },
     {
       "added_at": "2024-06-20 16:28:18",
@@ -1355,22 +1371,6 @@
       "duration_ms": 179560,
       "name": "La chanson de Pr\u00e9vert",
       "url": "https://open.spotify.com/track/7k9YGrFPWSMaakRzNEaN7Z"
-    },
-    {
-      "added_at": "2024-06-20 16:28:18",
-      "album": {
-        "name": "Platinum Charles Aznavour",
-        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
-      },
-      "artists": [
-        {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        }
-      ],
-      "duration_ms": 156933,
-      "name": "Que C'est Triste Venise",
-      "url": "https://open.spotify.com/track/7H5Jw7GQh0ij0UMGwLkdKR"
     },
     {
       "added_at": "2024-06-20 16:28:18",

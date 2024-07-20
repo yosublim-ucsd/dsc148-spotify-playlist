@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 574503,
+  "num_followers": 574476,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-07-17 09:16:12",
       "album": {
+        "name": "Puntirya",
+        "url": "https://open.spotify.com/album/6jtq1fwv2xRUMWWIpA7hug"
+      },
+      "artists": [
+        {
+          "name": "Ryannah J",
+          "url": "https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD"
+        }
+      ],
+      "duration_ms": 223636,
+      "name": "Puntirya",
+      "url": "https://open.spotify.com/track/7fHgK24OXJ4tcZaGyERyFT"
+    },
+    {
+      "added_at": "2024-07-17 09:16:12",
+      "album": {
         "name": "Aking Pahinga",
         "url": "https://open.spotify.com/album/5dO0Qwl40jXrQ4NCmRRuvb"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 274285,
       "name": "Aking Pahinga",
       "url": "https://open.spotify.com/track/6zcjOnMaymoEbG32dWekXi"
-    },
-    {
-      "added_at": "2024-07-17 09:16:12",
-      "album": {
-        "name": "Puntirya",
-        "url": "https://open.spotify.com/album/6jtq1fwv2xRUMWWIpA7hug"
-      },
-      "artists": [
-        {
-          "name": "Ryannah J",
-          "url": "https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD"
-        }
-      ],
-      "duration_ms": 223636,
-      "name": "Puntirya",
-      "url": "https://open.spotify.com/track/7fHgK24OXJ4tcZaGyERyFT"
     },
     {
       "added_at": "2024-07-17 09:16:12",

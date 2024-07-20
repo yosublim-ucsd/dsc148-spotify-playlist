@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> اجمد اغاني السين\. غلاف: مهاب
+> انت فاكر ان كومنتك السلبي حيهزني بالعكس بشتغل اكتر بعمل هت فابغتني\. غلاف: ابو الانوار
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,073 likes - 41 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,353 likes - 40 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [GABOLNA HKOMA](https://open.spotify.com/track/339xW7VUrZEtBpvc4wSlqg) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [ZIEN4L](https://open.spotify.com/artist/3OluQc7zjf5nKVsdlYYKzD) | [525](https://open.spotify.com/album/0fcNiMb5xTCA4h1rLuXtSv) | 2:03 |
-| 2 | [عالعموم](https://open.spotify.com/track/3tfiVsnpCzewE8rPpsRIL6) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [عالعموم](https://open.spotify.com/album/1LLcr3oTtKHlbbYzxmGwkH) | 2:44 |
-| 3 | [Ayamy Betfoot](https://open.spotify.com/track/0A1S5v9iqx8VcAr9EXJyYN) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Ayamy Betfoot](https://open.spotify.com/album/5vjadUmDs4MBIsKzqjupE3) | 3:02 |
+| 1 | [Ayamy Betfoot](https://open.spotify.com/track/0A1S5v9iqx8VcAr9EXJyYN) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Ayamy Betfoot](https://open.spotify.com/album/5vjadUmDs4MBIsKzqjupE3) | 3:02 |
+| 2 | [GABOLNA HKOMA](https://open.spotify.com/track/339xW7VUrZEtBpvc4wSlqg) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [ZIEN4L](https://open.spotify.com/artist/3OluQc7zjf5nKVsdlYYKzD) | [525](https://open.spotify.com/album/0fcNiMb5xTCA4h1rLuXtSv) | 2:03 |
+| 3 | [عالعموم](https://open.spotify.com/track/3tfiVsnpCzewE8rPpsRIL6) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [عالعموم](https://open.spotify.com/album/1LLcr3oTtKHlbbYzxmGwkH) | 2:44 |
 | 4 | [Hakeem](https://open.spotify.com/track/04BkxAeJge8nrb0VC3McuK) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Hakeem](https://open.spotify.com/album/2lEL8PvHsF1uPGX4TNOAQP) | 2:26 |
 | 5 | [3la Wara2a](https://open.spotify.com/track/20KrweTJAU2y90iMkj78Lk) | [Mared](https://open.spotify.com/artist/3L9d0CszrLEIR0mCG2eTkV), [Nubi](https://open.spotify.com/artist/4ov2ncahZ4b7oLCds5fre8), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [3la Wara2a](https://open.spotify.com/album/419f6PDJdRxfmCFBaTHwND) | 2:52 |
 | 6 | [AL ARBA3](https://open.spotify.com/track/0w3CE6Zu4zqkMpZLekSzLs) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [AL ARBA3](https://open.spotify.com/album/3A9Z5JbdG6CwMdWrDkROjp) | 3:20 |
@@ -41,13 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 31 | [EL BM BKM DLWATY](https://open.spotify.com/track/63onaNWTSRTOxBLROCEYH0) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [525](https://open.spotify.com/album/0fcNiMb5xTCA4h1rLuXtSv) | 2:57 |
 | 32 | [100 WAHDA](https://open.spotify.com/track/4gSDKnZbzQsvgYMW48Gljy) | [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5) | [2000 W KAM](https://open.spotify.com/album/6X0Cl2dlufuA4ZUwvZjhYL) | 3:00 |
 | 33 | [EL Moled \- Red Bull Sada sot](https://open.spotify.com/track/2AwcETrfQJe4PgC8SyO1tZ) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [EL Moled \(Red Bull Sada sot\)](https://open.spotify.com/album/1DETVyDIOnE9AFtzI6LJqG) | 2:39 |
-| 34 | [LUX FREESTYLE](https://open.spotify.com/track/2TqVFWAKTKCkGXMFRff6D4) | [HADY MOAMER](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD) | [LUX FREESTYLE](https://open.spotify.com/album/3Xlkyo7QJJX1Kzk9k4A0qp) | 2:29 |
-| 35 | [BAHZ](https://open.spotify.com/track/4eEqANCoWtjcegFNqnV3nq) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [BAHZ](https://open.spotify.com/album/3BMutq6UCajylSgdwyF2CQ) | 2:59 |
-| 36 | [Ostaz Mahmoud Bezzawy](https://open.spotify.com/track/3NCimqhH0nbUEFGpExhsTM) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ostaz Mahmoud Bezzawy](https://open.spotify.com/album/7gSkacuneqgcG3HFLQkCbS) | 2:42 |
-| 37 | [3esabat](https://open.spotify.com/track/0yvG6cDzjt7EtJNjYspBgA) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [7abba Fo2 // 7abba Ta7t](https://open.spotify.com/album/1o6axxoJca4D2hO5l288gi) | 2:52 |
-| 38 | [Mel Awel](https://open.spotify.com/track/6lCWpCNAybFwgsamSSKJkp) | [3askalany](https://open.spotify.com/artist/7c1QO1bjAblAKb0BfknXQP) | [Mel Awel](https://open.spotify.com/album/3ehkJr1wWNC7DazGAi78NS) | 3:22 |
-| 39 | [3L Abyad](https://open.spotify.com/track/70mx55jeb49jYJkjVbNR6W) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [Sulisizer](https://open.spotify.com/artist/5bih06rDRtnqB7v5S8MTSE) | [K.O](https://open.spotify.com/album/6E0BK1AIxnuZ24E8bOrhkg) | 3:32 |
-| 40 | [Abo Galum](https://open.spotify.com/track/1JgbWmgC9uDYHmedb91Tzd) | [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [3awdet Eldab3](https://open.spotify.com/album/3JtWRyNJQGsi9naZlMrOQv) | 2:13 |
-| 41 | [VOLT 3ALY](https://open.spotify.com/track/6AWF8puOSMgTbxnd8mtuTG) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [IMPORT//EXPORT](https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9) | 3:28 |
+| 34 | [BAHZ](https://open.spotify.com/track/4eEqANCoWtjcegFNqnV3nq) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [BAHZ](https://open.spotify.com/album/3BMutq6UCajylSgdwyF2CQ) | 2:59 |
+| 35 | [Ostaz Mahmoud Bezzawy](https://open.spotify.com/track/3NCimqhH0nbUEFGpExhsTM) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ostaz Mahmoud Bezzawy](https://open.spotify.com/album/7gSkacuneqgcG3HFLQkCbS) | 2:42 |
+| 36 | [3esabat](https://open.spotify.com/track/0yvG6cDzjt7EtJNjYspBgA) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [7abba Fo2 // 7abba Ta7t](https://open.spotify.com/album/1o6axxoJca4D2hO5l288gi) | 2:52 |
+| 37 | [Mel Awel](https://open.spotify.com/track/6lCWpCNAybFwgsamSSKJkp) | [3askalany](https://open.spotify.com/artist/7c1QO1bjAblAKb0BfknXQP) | [Mel Awel](https://open.spotify.com/album/3ehkJr1wWNC7DazGAi78NS) | 3:22 |
+| 38 | [3L Abyad](https://open.spotify.com/track/70mx55jeb49jYJkjVbNR6W) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [Sulisizer](https://open.spotify.com/artist/5bih06rDRtnqB7v5S8MTSE) | [K.O](https://open.spotify.com/album/6E0BK1AIxnuZ24E8bOrhkg) | 3:32 |
+| 39 | [Abo Galum](https://open.spotify.com/track/1JgbWmgC9uDYHmedb91Tzd) | [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [3awdet Eldab3](https://open.spotify.com/album/3JtWRyNJQGsi9naZlMrOQv) | 2:13 |
+| 40 | [VOLT 3ALY](https://open.spotify.com/track/6AWF8puOSMgTbxnd8mtuTG) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [IMPORT//EXPORT](https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9) | 3:28 |
 
-Snapshot ID: `ZpVfsAAAAACSp24pMsY0t3Vu621TEaLs`
+Snapshot ID: `ZprYowAAAAAwR2lQ3EAXmVviYpasuyVc`

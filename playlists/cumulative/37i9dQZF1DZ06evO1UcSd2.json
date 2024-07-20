@@ -1806,7 +1806,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 147082,
       "name": "Quien Lo Diria",
       "url": "https://open.spotify.com/track/4YexQVlditl5b9S3B1ZF3a"
@@ -2216,6 +2216,28 @@
       "duration_ms": 240456,
       "name": "Yo Ya No Vuelvo Contigo - En Vivo",
       "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n Es Ella?",
+        "url": "https://open.spotify.com/album/1BmAs6Bkbv9zqzFciudGg7"
+      },
+      "artists": [
+        {
+          "name": "Greeg Mora",
+          "url": "https://open.spotify.com/artist/0G9NBllWNKcsJzjJQCat4G"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180484,
+      "name": "\u00bfQui\u00e9n Es Ella?",
+      "url": "https://open.spotify.com/track/1kr9jcCudeUB59qpgG2hQO"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1UcSd2"

@@ -2,7 +2,7 @@
 
 ### [Indie Spirit](https://open.spotify.com/playlist/37i9dQZF1DX0IXk7nnh7Jx)
 
-> Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:4gzyIFii6fWdCiLsP0bocC">The Gray Havens</a>
+> Listen to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:4gzyIFii6fWdCiLsP0bocC">The Gray Havens</a>
 
 626 songs - 1 day 12 hr 43 min
 

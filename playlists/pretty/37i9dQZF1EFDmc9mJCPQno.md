@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1xzZPyV5jY8bYYNtAUkyOx">Lauren Aquilina</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 616 likes - 90 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 645 likes - 90 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 29 | [Gucci On My Body](https://open.spotify.com/track/0RjdWLIdAp0KhUgJVjjH3G) | [Baby Ariel](https://open.spotify.com/artist/3ggXjUaLzPuY775WFABpXe) | [Gucci On My Body](https://open.spotify.com/album/0uAvPwbqfMtuYYGj1TyKV1) | 2:52 |
 | 30 | [Carefully](https://open.spotify.com/track/01kkh9HwRkRGWVrq7cjwue) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 3:11 |
 | 31 | [Beautiful & Brutal](https://open.spotify.com/track/0WYwcvThvdlJl3xLN7mj4E) | [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Beautiful & Brutal](https://open.spotify.com/album/7DhbvBKxZl4yi6h4JW5tAL) | 3:31 |
-| 32 | [Like You Say You Do](https://open.spotify.com/track/5pIsEiH4En2YirEFr5aY2Y) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy](https://open.spotify.com/album/4PBnAeUH2eta7CqLeCVzYK) | 3:07 |
-| 33 | [Girls of the Year](https://open.spotify.com/track/03grA043a1uECo5Kyw28a0) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Girls of the Year](https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG) | 2:58 |
+| 32 | [Girls of the Year](https://open.spotify.com/track/03grA043a1uECo5Kyw28a0) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Girls of the Year](https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG) | 2:58 |
+| 33 | [Like You Say You Do](https://open.spotify.com/track/5pIsEiH4En2YirEFr5aY2Y) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy](https://open.spotify.com/album/4PBnAeUH2eta7CqLeCVzYK) | 3:07 |
 | 34 | [Galileo](https://open.spotify.com/track/42uG8N0XDtGr9ZvkI0hlW4) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Magic Hour](https://open.spotify.com/album/15ChmYf9eLTv9hIYLvRVFZ) | 3:08 |
 | 35 | [Queen of Hearts](https://open.spotify.com/track/4tG2c8LP7J0EsfQ8gKLm7q) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN \-Japanese version\-](https://open.spotify.com/album/3T3STfBHgL2LRv4CGlJTAN) | 2:25 |
 | 36 | [California Sober](https://open.spotify.com/track/2s3sP2qBIm1w9e4wce7BE8) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 3:05 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 89 | [Off\-World](https://open.spotify.com/track/7actzHWTsZYrimLJtDUGEC) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Off\-World](https://open.spotify.com/album/4ffjvDRam4xYWMy85hNtdb) | 3:40 |
 | 90 | [lie to myself](https://open.spotify.com/track/5p60aTSUb3ZLG1HbUbuJLW) | [amber\-liz](https://open.spotify.com/artist/1OWB13bPhotfvAdQjiIdP5) | [lie to myself](https://open.spotify.com/album/1xtYNQqeWrRvhraE3uiWcs) | 2:33 |
 
-Snapshot ID: `AbXFBgAAAABRbbDNbGt7uDWDHgrYxd6A`
+Snapshot ID: `AbXJNAAAAADv+serPWIMgIhZpG9G9Anq`

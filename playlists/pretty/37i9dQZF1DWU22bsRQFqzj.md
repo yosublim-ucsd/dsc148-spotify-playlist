@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU22bsRQFqzj.md) - [plain]
 
 > La musica è la tua marcia in più! 🏃 Hit dance e pop per le tue sessioni di cardio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,419 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,429 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU22bsRQFqzj.md) - [plain]
 | 70 | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj), [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2) | 2:58 |
 | 71 | [All Around The World \(La La La\)](https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo) | [All Around The World \(La La La\)](https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq) | 2:27 |
 | 72 | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B) | 2:19 |
-| 73 | [One By One \(feat\. Oaks\)](https://open.spotify.com/track/2D1P2Y9RUxZW2Ch9A1rwHA) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [One By One \(feat\. Oaks\)](https://open.spotify.com/album/0RkpyjWCTL4fkYUNSSbjwF) | 2:41 |
-| 74 | [Post Malone \(feat\. RANI\)](https://open.spotify.com/track/0qc4QlcCxVTGyShurEv1UU) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Magnets EP](https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH) | 2:54 |
+| 73 | [Post Malone \(feat\. RANI\)](https://open.spotify.com/track/0qc4QlcCxVTGyShurEv1UU) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Magnets EP](https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH) | 2:54 |
+| 74 | [One By One \(feat\. Oaks\)](https://open.spotify.com/track/2D1P2Y9RUxZW2Ch9A1rwHA) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [One By One \(feat\. Oaks\)](https://open.spotify.com/album/0RkpyjWCTL4fkYUNSSbjwF) | 2:41 |
 | 75 | [Ritual](https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Ritual](https://open.spotify.com/album/0efvl0HsK2xxttk4IVOJry) | 3:18 |
 
 Snapshot ID: `Zk3QbAAAAABaZ17slZmvkFagjEZQck2f`

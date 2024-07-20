@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Regulo Caro, Banda la Unica del Rancho",
+  "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Grupo Firme",
   "name": "M\u00fasica Mexicana En Vivo",
   "tracks": [
     {
@@ -438,7 +438,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 137506,
       "name": "Aguanta Corazon",
       "url": "https://open.spotify.com/track/0jH7epDEcUS9n8Wcnx0aaX"
@@ -2307,6 +2307,24 @@
     },
     {
       "album": {
+        "name": "El Beneficio De La Duda (En Vivo)",
+        "url": "https://open.spotify.com/album/7w82mNnGvXaO6XI728hz3a"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274954,
+      "name": "El Beneficio De La Duda (En Vivo)",
+      "url": "https://open.spotify.com/track/3yIoIPMrHQ5uZoTFaPQgB3"
+    },
+    {
+      "album": {
         "name": "Grupo Nuevo Equipo En Vivo (EN VIVO)",
         "url": "https://open.spotify.com/album/79q5VNMJBRIT2DBJOg6X6c"
       },
@@ -4044,7 +4062,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 272913,
       "name": "El Zapata (En Vivo)",
       "url": "https://open.spotify.com/track/2I6NDO6Y43LseIqBj5v3oC"
@@ -4342,7 +4360,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 248208,
       "name": "Estilo Sinaloa",
       "url": "https://open.spotify.com/track/4qvSmEbeJUkvFZG387UXgH"

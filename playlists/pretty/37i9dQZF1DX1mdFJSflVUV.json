@@ -1,6 +1,6 @@
 {
   "description": "Canciones para subirse al auto y cantar sin parar.",
-  "num_followers": 862485,
+  "num_followers": 862565,
   "original_name": "Canta en el auto",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-06-18 13:18:39",
       "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 222226,
+      "name": "Lamento Boliviano",
+      "url": "https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA"
+    },
+    {
+      "added_at": "2024-06-18 13:18:39",
+      "album": {
         "name": "Nine Track Mind",
         "url": "https://open.spotify.com/album/5Nwsra93UQYJ6xxcjcE10x"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 217706,
       "name": "We Don't Talk Anymore (feat. Selena Gomez)",
       "url": "https://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj"
-    },
-    {
-      "added_at": "2024-06-18 13:18:39",
-      "album": {
-        "name": "Big Bang",
-        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 222226,
-      "name": "Lamento Boliviano",
-      "url": "https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA"
     },
     {
       "added_at": "2024-06-18 13:18:39",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-06-18 13:18:39",
       "album": {
-        "name": "Sue\u00f1os L\u00edquidos",
-        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 352160,
-      "name": "En El Muelle de San Blas",
-      "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
-    },
-    {
-      "added_at": "2024-06-18 13:18:39",
-      "album": {
         "name": "Back to Bedlam",
         "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 209493,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
+    },
+    {
+      "added_at": "2024-06-18 13:18:39",
+      "album": {
+        "name": "Sue\u00f1os L\u00edquidos",
+        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 352160,
+      "name": "En El Muelle de San Blas",
+      "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
     },
     {
       "added_at": "2024-06-18 13:18:39",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-06-18 13:18:39",
       "album": {
-        "name": "Libertad",
-        "url": "https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 283884,
-      "name": "Por Mil Noches",
-      "url": "https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62"
-    },
-    {
-      "added_at": "2024-06-18 13:18:39",
-      "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 231826,
       "name": "Blank Space",
       "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
+    },
+    {
+      "added_at": "2024-06-18 13:18:39",
+      "album": {
+        "name": "Libertad",
+        "url": "https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 283884,
+      "name": "Por Mil Noches",
+      "url": "https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62"
     },
     {
       "added_at": "2024-06-18 13:18:39",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2024-06-18 13:18:39",
       "album": {
+        "name": "Dije Que No Me Iba a Enamorar",
+        "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 206146,
+      "name": "El Bolero",
+      "url": "https://open.spotify.com/track/7FwSZyO5ynlN0OJGVOjE6k"
+    },
+    {
+      "added_at": "2024-06-18 13:18:39",
+      "album": {
         "name": "Pantysito",
         "url": "https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW"
       },
@@ -1559,26 +1579,6 @@
       "duration_ms": 253186,
       "name": "Maldito duende",
       "url": "https://open.spotify.com/track/7vcDJCAO356RYkCfiUozmE"
-    },
-    {
-      "added_at": "2024-06-18 13:18:39",
-      "album": {
-        "name": "Dije Que No Me Iba a Enamorar",
-        "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 206146,
-      "name": "El Bolero",
-      "url": "https://open.spotify.com/track/7FwSZyO5ynlN0OJGVOjE6k"
     },
     {
       "added_at": "2024-06-18 13:18:39",

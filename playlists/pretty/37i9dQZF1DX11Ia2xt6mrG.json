@@ -1,37 +1,13 @@
 {
-  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Mau Moctezuma en portada.",
-  "num_followers": 58081,
+  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. YoSoyMatt en portada.",
+  "num_followers": 58082,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpDGYAAAAAD0KEae0gk2FvqMyraEIP1T",
+  "snapshot_id": "Zpq6TgAAAAAK6q6VXKTQmBSepO97eadH",
   "tracks": [
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "NIENTIENDO",
-        "url": "https://open.spotify.com/album/0cq6E8PgDiEOnV0CCpXEVy"
-      },
-      "artists": [
-        {
-          "name": "Mau Moctezuma",
-          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
-        },
-        {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        },
-        {
-          "name": "Natt Calma",
-          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
-        }
-      ],
-      "duration_ms": 163666,
-      "name": "NIENTIENDO",
-      "url": "https://open.spotify.com/track/1S0U81LjOFfcsVGpSEJrFG"
-    },
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
@@ -53,20 +29,28 @@
       "url": "https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k"
     },
     {
-      "added_at": "2024-07-12 06:00:00",
+      "added_at": "2024-07-19 19:11:10",
       "album": {
-        "name": "CAJETA",
-        "url": "https://open.spotify.com/album/0uYZaczNoETjWCLYFQVhbH"
+        "name": "Yo No Soy Marinero",
+        "url": "https://open.spotify.com/album/7Lg3d27iQnRX3Is6yEXho5"
       },
       "artists": [
         {
-          "name": "Fend",
-          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Carlos Metta",
+          "url": "https://open.spotify.com/artist/5igkVL3BEbBPfvcDXFgJgB"
         }
       ],
-      "duration_ms": 146976,
-      "name": "CAJETA",
-      "url": "https://open.spotify.com/track/3gtlrOxwdsrreHMqH1heyw"
+      "duration_ms": 278413,
+      "name": "Hombre Duna",
+      "url": "https://open.spotify.com/track/454PpaaytyVPG1FNfVcWhJ"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -93,6 +77,26 @@
       "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
     },
     {
+      "added_at": "2024-07-19 19:11:10",
+      "album": {
+        "name": "\u00d1EROSTARS",
+        "url": "https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Nando Produce",
+          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
+        }
+      ],
+      "duration_ms": 190169,
+      "name": "Todo Tiene Su Final",
+      "url": "https://open.spotify.com/track/5To8W2tfQMQKxSGtpcC9Qg"
+    },
+    {
       "added_at": "2024-07-12 06:00:00",
       "album": {
         "name": "DOMPERI",
@@ -115,6 +119,26 @@
       "duration_ms": 125747,
       "name": "DOMPERI",
       "url": "https://open.spotify.com/track/74ehWksBSyGTp7ytioyxf4"
+    },
+    {
+      "added_at": "2024-07-19 19:11:10",
+      "album": {
+        "name": "Tomala (Se Mueve Se Siente)",
+        "url": "https://open.spotify.com/album/6Tk01gOTdEwBSvsHdm9Ld2"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Draxx (ITA)",
+          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
+        }
+      ],
+      "duration_ms": 160600,
+      "name": "Tomala (Se Mueve Se Siente)",
+      "url": "https://open.spotify.com/track/37VEY7FABybvLFg9iYE3LY"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -179,30 +203,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Ancara Messi",
-        "url": "https://open.spotify.com/album/045J1gvKL5Uj3AuKMV89Bf"
-      },
-      "artists": [
-        {
-          "name": "Poniboy",
-          "url": "https://open.spotify.com/artist/3fs56TuW5WSYNOQi8wjRcd"
-        },
-        {
-          "name": "Mau Moctezuma",
-          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
-        },
-        {
-          "name": "Go Golden Junk",
-          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Ancara Messi",
-      "url": "https://open.spotify.com/track/1aQS0CQAONJqpO2zZi0ZSr"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "El 100",
         "url": "https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin"
       },
@@ -243,6 +243,30 @@
       "duration_ms": 324556,
       "name": "La Ni\u00f1a del Volc\u00e1n (Polocorp Remix)",
       "url": "https://open.spotify.com/track/0aw4Dcu2XxEuLtXaepPTEA"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "NIENTIENDO",
+        "url": "https://open.spotify.com/album/0cq6E8PgDiEOnV0CCpXEVy"
+      },
+      "artists": [
+        {
+          "name": "Mau Moctezuma",
+          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
+        },
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Natt Calma",
+          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
+        }
+      ],
+      "duration_ms": 163666,
+      "name": "NIENTIENDO",
+      "url": "https://open.spotify.com/track/1S0U81LjOFfcsVGpSEJrFG"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -315,6 +339,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "EVOLUXION",
+        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 145165,
+      "name": "HOUSE OF LUX 2",
+      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Bien Loco",
         "url": "https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA"
       },
@@ -339,22 +379,6 @@
       "duration_ms": 169062,
       "name": "Bien Loco",
       "url": "https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "EVOLUXION",
-        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 145165,
-      "name": "HOUSE OF LUX 2",
-      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -455,6 +479,26 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "Prende y Pasa",
+        "url": "https://open.spotify.com/album/4HIC4AhCKWcYs56uib9IQC"
+      },
+      "artists": [
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "duration_ms": 163250,
+      "name": "Prende y Pasa",
+      "url": "https://open.spotify.com/track/7LJA4EwL3mi2vZIAun6LB9"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Serena",
         "url": "https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom"
       },
@@ -475,26 +519,6 @@
       "duration_ms": 153875,
       "name": "Serena",
       "url": "https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Prende y Pasa",
-        "url": "https://open.spotify.com/album/4HIC4AhCKWcYs56uib9IQC"
-      },
-      "artists": [
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        }
-      ],
-      "duration_ms": 163250,
-      "name": "Prende y Pasa",
-      "url": "https://open.spotify.com/track/7LJA4EwL3mi2vZIAun6LB9"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -547,30 +571,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Dancing On Dangerous",
-        "url": "https://open.spotify.com/album/3jkuK2ShKMXEjgI2B7aw1o"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "Dancing On Dangerous",
-      "url": "https://open.spotify.com/track/0lipGKQoFraacrrBb3Qyg4"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Sin Sentir",
         "url": "https://open.spotify.com/album/1D17SWtsQcjSOWs9JvHXf7"
       },
@@ -591,22 +591,26 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Su Majestad La Eternidad (C\u00f3dex F\u00e9nix Rework)",
-        "url": "https://open.spotify.com/album/6eNV8XRDWeWfYiWNLmgPko"
+        "name": "Dancing On Dangerous",
+        "url": "https://open.spotify.com/album/3jkuK2ShKMXEjgI2B7aw1o"
       },
       "artists": [
         {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
         },
         {
-          "name": "C\u00f3dex F\u00e9nix",
-          "url": "https://open.spotify.com/artist/0Z2QCuPFA3x3OoH20obELy"
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
-      "duration_ms": 254386,
-      "name": "Su Majestad La Eternidad - C\u00f3dex F\u00e9nix Rework",
-      "url": "https://open.spotify.com/track/5rfmTvAbeyUMLZKByrCYxC"
+      "duration_ms": 123428,
+      "name": "Dancing On Dangerous",
+      "url": "https://open.spotify.com/track/0lipGKQoFraacrrBb3Qyg4"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -735,6 +739,26 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "Su Majestad La Eternidad (C\u00f3dex F\u00e9nix Rework)",
+        "url": "https://open.spotify.com/album/6eNV8XRDWeWfYiWNLmgPko"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        },
+        {
+          "name": "C\u00f3dex F\u00e9nix",
+          "url": "https://open.spotify.com/artist/0Z2QCuPFA3x3OoH20obELy"
+        }
+      ],
+      "duration_ms": 254386,
+      "name": "Su Majestad La Eternidad - C\u00f3dex F\u00e9nix Rework",
+      "url": "https://open.spotify.com/track/5rfmTvAbeyUMLZKByrCYxC"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Santa Mar\u00eda",
         "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
       },
@@ -779,6 +803,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "CAJETA",
+        "url": "https://open.spotify.com/album/0uYZaczNoETjWCLYFQVhbH"
+      },
+      "artists": [
+        {
+          "name": "Fend",
+          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
+        }
+      ],
+      "duration_ms": 146976,
+      "name": "CAJETA",
+      "url": "https://open.spotify.com/track/3gtlrOxwdsrreHMqH1heyw"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/6HveR0xxtS6V26H2TmQG41"
       },
@@ -795,6 +835,22 @@
       "duration_ms": 188706,
       "name": "Voices",
       "url": "https://open.spotify.com/track/6OS6FafuDd9CytXs2pTVWG"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "M\u00cdRAME",
+        "url": "https://open.spotify.com/album/0dteBc8Nj7CsVW0KUVvHu6"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "M\u00cdRAME",
+      "url": "https://open.spotify.com/track/07uTqdg648didHNLUqpVbc"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -839,22 +895,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "M\u00cdRAME",
-        "url": "https://open.spotify.com/album/0dteBc8Nj7CsVW0KUVvHu6"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "M\u00cdRAME",
-      "url": "https://open.spotify.com/track/07uTqdg648didHNLUqpVbc"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Chula",
         "url": "https://open.spotify.com/album/04caDyWFwNPlMMIkDVsEQ8"
       },
@@ -895,6 +935,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "MENTA",
+        "url": "https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 148292,
+      "name": "MENTA",
+      "url": "https://open.spotify.com/track/4zP8ttW05BnEguMVb9mqJr"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "La Diabla (Electro Remix)",
         "url": "https://open.spotify.com/album/0Sf5WOcZk8n9NIgp2LmrKa"
       },
@@ -927,22 +983,6 @@
       "duration_ms": 144500,
       "name": "Winter",
       "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "MENTA",
-        "url": "https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 148292,
-      "name": "MENTA",
-      "url": "https://open.spotify.com/track/4zP8ttW05BnEguMVb9mqJr"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1091,6 +1131,26 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "NO ESTABA MAL",
+        "url": "https://open.spotify.com/album/1PTYSTyydAc9e9YYdMGnK1"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        },
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        }
+      ],
+      "duration_ms": 165245,
+      "name": "NO ESTABA MAL",
+      "url": "https://open.spotify.com/track/0ISOanYr1trHwoGr6q8l4E"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Rescue Me (From The Original Television Soundtrack Blade Runner Black Lotus)",
         "url": "https://open.spotify.com/album/5by805i64TKLSsy47zjlP0"
       },
@@ -1131,26 +1191,6 @@
       "duration_ms": 155600,
       "name": "BOOM SHAKALAKA",
       "url": "https://open.spotify.com/track/338eFwIdnFk4CXln3Fp8XE"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "NO ESTABA MAL",
-        "url": "https://open.spotify.com/album/1PTYSTyydAc9e9YYdMGnK1"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        },
-        {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        }
-      ],
-      "duration_ms": 165245,
-      "name": "NO ESTABA MAL",
-      "url": "https://open.spotify.com/track/0ISOanYr1trHwoGr6q8l4E"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1255,6 +1295,26 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "Everybody Salsa (Andruss Remix)",
+        "url": "https://open.spotify.com/album/3rB2Q1jUcu5wgnwbjXxemw"
+      },
+      "artists": [
+        {
+          "name": "Dj Drew",
+          "url": "https://open.spotify.com/artist/0UGUHlwgexlzolMHhj9PhD"
+        },
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 166620,
+      "name": "Everybody Salsa - Andruss Remix",
+      "url": "https://open.spotify.com/track/4zKDPxEDLiZENHqUzkelJm"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Levantando",
         "url": "https://open.spotify.com/album/3gfFB97DovfyjjBRnUTUFv"
       },
@@ -1275,22 +1335,26 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Everybody Salsa (Andruss Remix)",
-        "url": "https://open.spotify.com/album/3rB2Q1jUcu5wgnwbjXxemw"
+        "name": "Ancara Messi",
+        "url": "https://open.spotify.com/album/045J1gvKL5Uj3AuKMV89Bf"
       },
       "artists": [
         {
-          "name": "Dj Drew",
-          "url": "https://open.spotify.com/artist/0UGUHlwgexlzolMHhj9PhD"
+          "name": "Poniboy",
+          "url": "https://open.spotify.com/artist/3fs56TuW5WSYNOQi8wjRcd"
         },
         {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+          "name": "Mau Moctezuma",
+          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
+        },
+        {
+          "name": "Go Golden Junk",
+          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
         }
       ],
-      "duration_ms": 166620,
-      "name": "Everybody Salsa - Andruss Remix",
-      "url": "https://open.spotify.com/track/4zKDPxEDLiZENHqUzkelJm"
+      "duration_ms": 193846,
+      "name": "Ancara Messi",
+      "url": "https://open.spotify.com/track/1aQS0CQAONJqpO2zZi0ZSr"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1323,6 +1387,26 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "Ibiza",
+        "url": "https://open.spotify.com/album/0iwqxPcjXrCe9XtjIQNdLS"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/3VK6cgdLWEBP7ZMxQJnhRX"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "CONTACTO CERO",
         "url": "https://open.spotify.com/album/4KFLmLBQURkxyttCbReLFT"
       },
@@ -1335,6 +1419,22 @@
       "duration_ms": 186240,
       "name": "CONTACTO CERO",
       "url": "https://open.spotify.com/track/5kBYUqRt6XO3cvDfTs80yH"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Petricor",
+        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 204427,
+      "name": "Petricor",
+      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1383,38 +1483,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Ibiza",
-        "url": "https://open.spotify.com/album/0iwqxPcjXrCe9XtjIQNdLS"
+        "name": "Mr.Pig",
+        "url": "https://open.spotify.com/album/6kiD6iS7MAcG9MjCpmUfUa"
       },
       "artists": [
         {
           "name": "Mr. Pig",
           "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
         }
       ],
-      "duration_ms": 204213,
-      "name": "Ibiza",
-      "url": "https://open.spotify.com/track/3VK6cgdLWEBP7ZMxQJnhRX"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Petricor",
-        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 204427,
-      "name": "Petricor",
-      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
+      "duration_ms": 174106,
+      "name": "Asereje",
+      "url": "https://open.spotify.com/track/5mkhP5I8alKIYytxsuhYNr"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1435,22 +1515,6 @@
       "duration_ms": 208125,
       "name": "Pass The Dutch",
       "url": "https://open.spotify.com/track/0Tk3EEE8mCTb8VaS5Phqc0"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "LA LLORONA",
-        "url": "https://open.spotify.com/album/4R4l8ss2gfFI0RAw0bk9ZZ"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
-        }
-      ],
-      "duration_ms": 241874,
-      "name": "LA LLORONA",
-      "url": "https://open.spotify.com/track/0yeqFFADufeX5WrPZnYG7V"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1479,18 +1543,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Mr.Pig",
-        "url": "https://open.spotify.com/album/6kiD6iS7MAcG9MjCpmUfUa"
+        "name": "LA LLORONA",
+        "url": "https://open.spotify.com/album/4R4l8ss2gfFI0RAw0bk9ZZ"
       },
       "artists": [
         {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
         }
       ],
-      "duration_ms": 174106,
-      "name": "Asereje",
-      "url": "https://open.spotify.com/track/5mkhP5I8alKIYytxsuhYNr"
+      "duration_ms": 241874,
+      "name": "LA LLORONA",
+      "url": "https://open.spotify.com/track/0yeqFFADufeX5WrPZnYG7V"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1587,6 +1651,26 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "CLI CLI Clan Clan",
+        "url": "https://open.spotify.com/album/7CyIk7mlvZK9F5AFggoRWH"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Potencia Lirical",
+          "url": "https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb"
+        }
+      ],
+      "duration_ms": 259306,
+      "name": "CLI CLI Clan Clan",
+      "url": "https://open.spotify.com/track/5xLrfv3GK89aV5lL1ger1e"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "B\u00e9same Mucho",
         "url": "https://open.spotify.com/album/6f5d9SlIVytpz5eIgH6PaJ"
       },
@@ -1599,26 +1683,6 @@
       "duration_ms": 151680,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/6OMiBOznxQaUbNUWGWrvFv"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Move My Body",
-        "url": "https://open.spotify.com/album/4eN2F7PziOdoE8ORkEbuQT"
-      },
-      "artists": [
-        {
-          "name": "Sussie 4",
-          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
-        },
-        {
-          "name": "Ghost Lat1No",
-          "url": "https://open.spotify.com/artist/4opLmSGPdgBa0ZAhcLXyV5"
-        }
-      ],
-      "duration_ms": 274239,
-      "name": "Move My Body",
-      "url": "https://open.spotify.com/track/4qaC9jEPMGG0b3dwNQrjqH"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1647,22 +1711,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "CLI CLI Clan Clan",
-        "url": "https://open.spotify.com/album/7CyIk7mlvZK9F5AFggoRWH"
+        "name": "Move My Body",
+        "url": "https://open.spotify.com/album/4eN2F7PziOdoE8ORkEbuQT"
       },
       "artists": [
         {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+          "name": "Sussie 4",
+          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
         },
         {
-          "name": "Potencia Lirical",
-          "url": "https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb"
+          "name": "Ghost Lat1No",
+          "url": "https://open.spotify.com/artist/4opLmSGPdgBa0ZAhcLXyV5"
         }
       ],
-      "duration_ms": 259306,
-      "name": "CLI CLI Clan Clan",
-      "url": "https://open.spotify.com/track/5xLrfv3GK89aV5lL1ger1e"
+      "duration_ms": 274239,
+      "name": "Move My Body",
+      "url": "https://open.spotify.com/track/4qaC9jEPMGG0b3dwNQrjqH"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1723,6 +1787,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "Up & Down",
+        "url": "https://open.spotify.com/album/7gjjiVVsuez0UMZpu6LlnJ"
+      },
+      "artists": [
+        {
+          "name": "Chela Rivas",
+          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Up & Down",
+      "url": "https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "La Cabeza",
         "url": "https://open.spotify.com/album/0kIHGtdnn8QwT6ifUFr4II"
       },
@@ -1739,42 +1819,6 @@
       "duration_ms": 348306,
       "name": "La Cabeza",
       "url": "https://open.spotify.com/track/7sbRDvqO2CikGlXefdO2y2"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Bajo Cero",
-        "url": "https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7"
-      },
-      "artists": [
-        {
-          "name": "Sussie 4",
-          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
-        },
-        {
-          "name": "Vita Set",
-          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
-        }
-      ],
-      "duration_ms": 243762,
-      "name": "Bajo Cero",
-      "url": "https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Up & Down",
-        "url": "https://open.spotify.com/album/7gjjiVVsuez0UMZpu6LlnJ"
-      },
-      "artists": [
-        {
-          "name": "Chela Rivas",
-          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Up & Down",
-      "url": "https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1803,42 +1847,6 @@
       "duration_ms": 205460,
       "name": "Deep Lies",
       "url": "https://open.spotify.com/track/1uzLk7oQmjOcH1qtexmNXM"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Yo Solo Quiero Que Me Quieras Como Yo Te Quiero",
-        "url": "https://open.spotify.com/album/4vrVL0ZOhpliCIobNqIfzu"
-      },
-      "artists": [
-        {
-          "name": "Sandro Malandro",
-          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
-        }
-      ],
-      "duration_ms": 204945,
-      "name": "D\u00f3nde Andar\u00e1s - USB GAD Remix",
-      "url": "https://open.spotify.com/track/57mBuT1W5NyxYShuapIlny"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7"
-      },
-      "artists": [
-        {
-          "name": "Juan Soto",
-          "url": "https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN"
-        },
-        {
-          "name": "Lemon Mint",
-          "url": "https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0"
-        }
-      ],
-      "duration_ms": 252579,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW"
     }
   ],
   "unique_name": "EDM\u00e9xico",

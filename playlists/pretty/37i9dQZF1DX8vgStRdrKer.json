@@ -1,12 +1,12 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=eMGAGfGpQsWF4Xx05Adw2g>Sunmisola Agbebi</a>",
-  "num_followers": 10255,
+  "num_followers": 10268,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByPAAAAACKis8xBSMq/arQPR2cj4VA",
+  "snapshot_id": "ZpmsvAAAAABbuLbBzqTzMJPAsxDMbG07",
   "tracks": [
     {
       "added_at": "2024-01-26 00:01:00",
@@ -325,20 +325,24 @@
       "url": "https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-07-12 00:01:00",
       "album": {
-        "name": "Anytime Anyday",
-        "url": "https://open.spotify.com/album/7HDwkbzwTBQUiQog0OjUGC"
+        "name": "Heart of a Human",
+        "url": "https://open.spotify.com/album/6HNhZ8LbLSi0o3LKJEhh8A"
       },
       "artists": [
         {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
         }
       ],
-      "duration_ms": 206723,
-      "name": "Anytime Anyday",
-      "url": "https://open.spotify.com/track/1anvi7u6XDv03ZoPQc8e4r"
+      "duration_ms": 149566,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/2xLzbQRjWwSbBJupAo6vvW"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -359,6 +363,22 @@
       "duration_ms": 255735,
       "name": "Give Me Chance",
       "url": "https://open.spotify.com/track/5FAGIf4yjvXLNETnWJzkF1"
+    },
+    {
+      "added_at": "2024-06-07 00:01:00",
+      "album": {
+        "name": "Anytime Anyday",
+        "url": "https://open.spotify.com/album/7HDwkbzwTBQUiQog0OjUGC"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 206723,
+      "name": "Anytime Anyday",
+      "url": "https://open.spotify.com/track/1anvi7u6XDv03ZoPQc8e4r"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -399,26 +419,6 @@
       "duration_ms": 176822,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
-    },
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
-        "name": "Heart of a Human",
-        "url": "https://open.spotify.com/album/6HNhZ8LbLSi0o3LKJEhh8A"
-      },
-      "artists": [
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 149566,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/2xLzbQRjWwSbBJupAo6vvW"
     },
     {
       "added_at": "2024-06-14 00:01:00",
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/0bWrdctV8cOeq7pZdcw3JC"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Welenga",
-        "url": "https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ"
-      },
-      "artists": [
-        {
-          "name": "Beracah",
-          "url": "https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i"
-        }
-      ],
-      "duration_ms": 195970,
-      "name": "Welenga",
-      "url": "https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r"
-    },
-    {
       "added_at": "2024-05-03 00:01:00",
       "album": {
         "name": "Higher",
@@ -691,6 +675,22 @@
       "duration_ms": 162223,
       "name": "Higher",
       "url": "https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Welenga",
+        "url": "https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ"
+      },
+      "artists": [
+        {
+          "name": "Beracah",
+          "url": "https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i"
+        }
+      ],
+      "duration_ms": 195970,
+      "name": "Welenga",
+      "url": "https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -833,22 +833,6 @@
       "url": "https://open.spotify.com/track/4DubS31RXrubsxE486uBPi"
     },
     {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "Owawani",
-        "url": "https://open.spotify.com/album/74ZFgjpDnKg8sF6kmIH4yq"
-      },
-      "artists": [
-        {
-          "name": "Nana Yaw Ofori-Atta",
-          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Owawani",
-      "url": "https://open.spotify.com/track/0Tqoobs4tDE4MylAjg34yd"
-    },
-    {
       "added_at": "2024-03-29 00:01:00",
       "album": {
         "name": "Kama Si We",
@@ -867,6 +851,22 @@
       "duration_ms": 247246,
       "name": "Kama Si We",
       "url": "https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Owawani",
+        "url": "https://open.spotify.com/album/74ZFgjpDnKg8sF6kmIH4yq"
+      },
+      "artists": [
+        {
+          "name": "Nana Yaw Ofori-Atta",
+          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Owawani",
+      "url": "https://open.spotify.com/track/0Tqoobs4tDE4MylAjg34yd"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -889,36 +889,24 @@
       "url": "https://open.spotify.com/track/1uF7QsPxujjCj8u65dgrl9"
     },
     {
-      "added_at": "2024-06-14 00:01:00",
+      "added_at": "2024-07-12 00:01:00",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6SXKoXwDn8T4NG0sPS4sEc"
+        "name": "Yesu Wanga",
+        "url": "https://open.spotify.com/album/48iVuWqb6VoJ6UfOQhGpxW"
       },
       "artists": [
         {
-          "name": "Uniekgrace",
-          "url": "https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7"
-        }
-      ],
-      "duration_ms": 158746,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/4iA6XeCs04NrmGPnmQdCyT"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
-        "name": "Not Alone (Live)",
-        "url": "https://open.spotify.com/album/5a5ZrRjl8v8kL6pJSbjfhF"
-      },
-      "artists": [
+          "name": "Temwah",
+          "url": "https://open.spotify.com/artist/0TQGAK7Cdfm3ni9DhW8Cdb"
+        },
         {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
         }
       ],
-      "duration_ms": 270810,
-      "name": "Not Alone - Live",
-      "url": "https://open.spotify.com/track/0Wr8M61fEfpvhJ9aZOtJ35"
+      "duration_ms": 270680,
+      "name": "Yesu Wanga",
+      "url": "https://open.spotify.com/track/6SYKC5FbXfQqs4wQWviaXX"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -939,6 +927,22 @@
       "duration_ms": 144300,
       "name": "BABA",
       "url": "https://open.spotify.com/track/2D8XyKuIJEFxlRxboY3Bab"
+    },
+    {
+      "added_at": "2024-06-14 00:01:00",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6SXKoXwDn8T4NG0sPS4sEc"
+      },
+      "artists": [
+        {
+          "name": "Uniekgrace",
+          "url": "https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7"
+        }
+      ],
+      "duration_ms": 158746,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/4iA6XeCs04NrmGPnmQdCyT"
     }
   ],
   "unique_name": "Redeemed",

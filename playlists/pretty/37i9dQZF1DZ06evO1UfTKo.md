@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 
 ### [This Is Los Tigres Del Norte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1UfTKo)
 
-> This Is Los Tigres Del Norte\. Los temas esenciales, todos en una lista.
+> This is Los Tigres Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,750 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 706,974 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 | 32 | [Los Dos Plebes](https://open.spotify.com/track/0ul12ulRfLyO5fgVvaq2Ex) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Los Dos Plebes](https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK) | 3:30 |
 | 33 | [Tres Veces Mojado](https://open.spotify.com/track/7pVP11CCxAvSEWf9fLueWr) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Idolos Del Pueblo](https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG) | 2:51 |
 | 34 | [En Qué Fallé](https://open.spotify.com/track/6WNbVxTXPzhitXRUlu3Xqn) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reina Del Sur](https://open.spotify.com/album/3P4hm57jwhpDaO7WZI2RsC) | 3:49 |
-| 35 | [Mi Sangre Prisionera](https://open.spotify.com/track/1RLAPRIMWznZAvpdc6Qna5) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Unidos Para Siempre](https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy) | 3:01 |
-| 36 | [Lágrimas \(Lágrimas Del Corazón\)](https://open.spotify.com/track/23e2dSwQiAAOkV2KfjuIFj) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Herencia De Familia](https://open.spotify.com/album/4C43fkuo6G7FdEm6xhq8cV) | 4:00 |
+| 35 | [Lágrimas \(Lágrimas Del Corazón\)](https://open.spotify.com/track/23e2dSwQiAAOkV2KfjuIFj) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Herencia De Familia](https://open.spotify.com/album/4C43fkuo6G7FdEm6xhq8cV) | 4:00 |
+| 36 | [Mi Sangre Prisionera](https://open.spotify.com/track/1RLAPRIMWznZAvpdc6Qna5) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Unidos Para Siempre](https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy) | 3:01 |
 | 37 | [Los Tres Amigos](https://open.spotify.com/track/4FEOYMrH9bOzoOrnWFGvjf) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [El Tahur](https://open.spotify.com/album/1FAPxcTXS6hsQGJn9rdOOo) | 3:49 |
 | 38 | [La Reina Del Sur](https://open.spotify.com/track/160gAhKZb7sGKlLwUUk8IX) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reina Del Sur](https://open.spotify.com/album/3P4hm57jwhpDaO7WZI2RsC) | 4:03 |
 | 39 | [La Bala](https://open.spotify.com/track/50H4ZUUhL8MLHCw1eREp07) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Realidades](https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 | 49 | [R\. Uno](https://open.spotify.com/track/63TrIuxdPky2Tqc4kUNMFq) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Corridos Prohibidos](https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw) | 3:22 |
 | 50 | [Aquí Mando Yo](https://open.spotify.com/track/3Kv0GCIjO52qkUj1K9PqZW) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Aquí Mando Yo](https://open.spotify.com/album/0UT6sSqUR1QMQ7a1vt9ROP) | 3:37 |
 
-Snapshot ID: `ZpcJgAAAAAAH+2XTdw8XMbxieF6szy5F`
+Snapshot ID: `ZphbAAAAAAAKWorDUcCOIL90MBSro6bT`

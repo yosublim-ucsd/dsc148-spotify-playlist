@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=eMGAGfGpQsWF4Xx05Adw2g>Sunmisola Agbebi</a>
 
-194 songs - 15 hr 43 min
+195 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Ngiyamazi Umhlengi Wami \- Live At Cedarwoods of Sandton, 2023](https://open.spotify.com/track/2kUmCaHL6wXqq9CgTpqCBG) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Ngiyamazi Umhlengi Wam \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/3746LVUDdq2j4dzJAyZVbG) | 3:59 | 2024-02-23 | 2024-05-10 |
 | [No Longer Bound \(I'm Free\)](https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [No Longer Bound \(I'm Free\)](https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP) | 2:55 | 2023-09-15 | 2024-03-16 |
 | [No Turning Back](https://open.spotify.com/track/1HvmrH54shSA0a1bwK91R0) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [The Narrow Way](https://open.spotify.com/album/5dnEn1RrHFx1tjG6ARSdw0) | 6:30 | 2023-09-15 | 2024-02-02 |
-| [Not Alone \- Live](https://open.spotify.com/track/0Wr8M61fEfpvhJ9aZOtJ35) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Not Alone \(Live\)](https://open.spotify.com/album/5a5ZrRjl8v8kL6pJSbjfhF) | 4:30 | 2024-05-24 |  |
+| [Not Alone \- Live](https://open.spotify.com/track/0Wr8M61fEfpvhJ9aZOtJ35) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Not Alone \(Live\)](https://open.spotify.com/album/5a5ZrRjl8v8kL6pJSbjfhF) | 4:30 | 2024-05-24 | 2024-07-20 |
 | [Not Moved](https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Not Moved](https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z) | 4:33 | 2023-09-15 | 2024-03-06 |
 | [Not One Time](https://open.spotify.com/track/6BHr2BD9BAIitzL9fPbZjo) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Not One Time](https://open.spotify.com/album/5pHa72PcJQiwEANhpYYlm0) | 2:50 | 2024-01-26 | 2024-03-22 |
 | [Oba Awon Oba](https://open.spotify.com/track/4H0ueBPmWD9XeqjeiNJVhf) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Oba Awon Oba](https://open.spotify.com/album/3J7nsyhKRZqxtGbn1XzmHW) | 12:13 | 2024-06-14 |  |
@@ -195,6 +195,7 @@
 | [Worry About Nothing](https://open.spotify.com/track/4gEkiIg4XatM4x10HcAdMy) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Worry About Nothing](https://open.spotify.com/album/1VKHWGZru3AKfEzA9zn15s) | 3:24 | 2024-01-12 | 2024-05-24 |
 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 | 2024-04-26 |  |
 | [Yeshua \(Worship Rendition\)](https://open.spotify.com/track/6KxgjgVDbiAnRB2SZhcu0h) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Yeshua \(Worship Rendition\)](https://open.spotify.com/album/0KTOUGmGuoO81AVc4ro4EO) | 3:36 | 2024-04-05 |  |
+| [Yesu Wanga](https://open.spotify.com/track/6SYKC5FbXfQqs4wQWviaXX) | [Temwah](https://open.spotify.com/artist/0TQGAK7Cdfm3ni9DhW8Cdb), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Yesu Wanga](https://open.spotify.com/album/48iVuWqb6VoJ6UfOQhGpxW) | 4:30 | 2024-07-12 |  |
 | [Yewo](https://open.spotify.com/track/24q2NrlyFV3htvw0EqqJvE) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Yewo](https://open.spotify.com/album/4BlGgfSDbniELn7AvOd0zM) | 2:34 | 2024-06-07 |  |
 | [You Are God \(feat\. Chigozie Achugo\)](https://open.spotify.com/track/78D1ZERxVW4XvelhO1jG4K) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Chigozie Achugo](https://open.spotify.com/artist/40u8FYYf1XkK3LZQaIe9ko) | [This God Is Too Good](https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg) | 4:31 | 2023-09-15 | 2024-03-16 |
 | [YOU ARE GOOD](https://open.spotify.com/track/6iXQadQ6uFvE4ylvl2975l) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [YOU ARE GOOD](https://open.spotify.com/album/1wzXjBVRF9zwhipLOvyViN) | 4:06 | 2024-05-10 | 2024-05-24 |

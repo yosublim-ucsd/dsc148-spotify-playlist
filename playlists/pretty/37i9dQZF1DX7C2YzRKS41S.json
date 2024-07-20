@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 121832,
+  "num_followers": 121921,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Ever Seen",
+        "url": "https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "Ever Seen",
+      "url": "https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Northern Attitude (with Hozier)",
         "url": "https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 267256,
       "name": "Northern Attitude (with Hozier)",
       "url": "https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Ever Seen",
-        "url": "https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "Ever Seen",
-      "url": "https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -519,6 +519,26 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Still What I'm Looking For",
+        "url": "https://open.spotify.com/album/62TCGy8a80AqgHT4pjXLbE"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        },
+        {
+          "name": "Ryan Paris",
+          "url": "https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC"
+        }
+      ],
+      "duration_ms": 187550,
+      "name": "Still What I'm Looking For",
+      "url": "https://open.spotify.com/track/2lb95IOpKT2LTy5SsY0Bne"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Trem-Bala",
         "url": "https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 170409,
       "name": "A Vida \u00c9 Boa Com Voc\u00ea - Voz E Viol\u00e3o",
       "url": "https://open.spotify.com/track/7w36CnYumoRl1ryZOWsJnk"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Still What I'm Looking For",
-        "url": "https://open.spotify.com/album/62TCGy8a80AqgHT4pjXLbE"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        },
-        {
-          "name": "Ryan Paris",
-          "url": "https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC"
-        }
-      ],
-      "duration_ms": 187550,
-      "name": "Still What I'm Looking For",
-      "url": "https://open.spotify.com/track/2lb95IOpKT2LTy5SsY0Bne"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "UM S\u00d3",
+        "url": "https://open.spotify.com/album/3NEwEbyUBvhPNoil4FFta9"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 182890,
+      "name": "Dia de Sorte",
+      "url": "https://open.spotify.com/track/0bJ5Pa8GqcyC4PNYcHQDeN"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "The Search for Everything",
         "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 202813,
       "name": "Roll it on Home",
       "url": "https://open.spotify.com/track/0Zrug5Ry3x6x60lohpEU0C"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Did You Hear the Rain?",
-        "url": "https://open.spotify.com/album/17a7gzqcZt6SjXRQVoXN6M"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 202120,
-      "name": "Budapest",
-      "url": "https://open.spotify.com/track/48gsLPdOUEDjr7P8Wvykne"
     }
   ],
   "unique_name": "Amanhecer na Estrada",

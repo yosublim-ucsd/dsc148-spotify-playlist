@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XFkp2ZtYHj.md) - [plain]
 
 > No lyrics, no distractions, just chilled piano and study vibes for as long as you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,766 likes - 242 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,778 likes - 242 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

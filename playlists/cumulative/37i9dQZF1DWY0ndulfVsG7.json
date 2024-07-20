@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Joe Flizzow",
+  "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Last Child",
   "name": "Berjiran",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 240280,
       "name": "Akhir Cerita Cinta",
       "url": "https://open.spotify.com/track/6Qe5wOREjTPivo6M5kW5h3"
@@ -345,6 +345,28 @@
     },
     {
       "album": {
+        "name": "Cinta Tak Biasa",
+        "url": "https://open.spotify.com/album/3nwy6IEwPrKoCv98pWgEcu"
+      },
+      "artists": [
+        {
+          "name": "ST12",
+          "url": "https://open.spotify.com/artist/09toGEEhpusLyZ6Nk9AmRf"
+        },
+        {
+          "name": "Hazama",
+          "url": "https://open.spotify.com/artist/5jKjGIfQbctItoit4X95XI"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245760,
+      "name": "Cinta Tak Biasa",
+      "url": "https://open.spotify.com/track/2jpYZkmNLKk2TtrQAORu1o"
+    },
+    {
+      "album": {
         "name": "Sheila On 7",
         "url": "https://open.spotify.com/album/1hrJXgaVEGovpLl9dFdqz7"
       },
@@ -417,6 +439,28 @@
     },
     {
       "album": {
+        "name": "Dendam",
+        "url": "https://open.spotify.com/album/7LmipMyxzjFCeTyzNGio09"
+      },
+      "artists": [
+        {
+          "name": "Last Child",
+          "url": "https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288"
+        },
+        {
+          "name": "Sansan",
+          "url": "https://open.spotify.com/artist/2kW3rq21AuZ39ZyshPUZU2"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253866,
+      "name": "Dendam",
+      "url": "https://open.spotify.com/track/5GrSLHiNBbNCE0EFKCZGIL"
+    },
+    {
+      "album": {
         "name": "Di Matamu",
         "url": "https://open.spotify.com/album/521xA0pwxGzGgoSNAp0vZc"
       },
@@ -432,6 +476,24 @@
       "duration_ms": 247169,
       "name": "Di Matamu",
       "url": "https://open.spotify.com/track/5jAqkM00R41cm1Y2T0mGzb"
+    },
+    {
+      "album": {
+        "name": "Di Pinggir Kayangan",
+        "url": "https://open.spotify.com/album/4kXz7HwrDUPDmMnCUVTNjS"
+      },
+      "artists": [
+        {
+          "name": "Aishah",
+          "url": "https://open.spotify.com/artist/4YSKGMF40IgP6ouU5jbhnb"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253333,
+      "name": "Di Pinggir Kayangan",
+      "url": "https://open.spotify.com/track/6w2PYLtHs67gahfWGkCrWa"
     },
     {
       "album": {
@@ -526,7 +588,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 174386,
       "name": "Havoc (feat. Altimet & SonaOne)",
       "url": "https://open.spotify.com/track/5xvmqp0lIr7pQaCtH8B8nF"
@@ -1082,7 +1144,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 217184,
       "name": "Satu Malam Di Temasek",
       "url": "https://open.spotify.com/track/5nsfVwWz1M1sug2ILCVygq"

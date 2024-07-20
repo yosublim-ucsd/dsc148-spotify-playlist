@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 
 > Dasha au sommet de la première playlist de France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,274,254 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,274,599 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

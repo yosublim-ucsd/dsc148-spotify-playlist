@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 
 > Country hits that will have you singing every word\. Cover: Koe Wetzel
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,432 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,418 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 61 | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK) | 3:18 |
 | 62 | [Love You Again](https://open.spotify.com/track/1cAupeTLZyhhtfmRc4qaYy) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Love You Again](https://open.spotify.com/album/08J0usmnyEIpNH9GEtTk5p) | 2:53 |
 | 63 | [Good News Sold](https://open.spotify.com/track/2nK23mwuUUiJTx9efT9Lvb) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Good News Sold](https://open.spotify.com/album/0z3clvkLiQYa5q6bIcrODQ) | 3:23 |
-| 64 | [Take Her Home](https://open.spotify.com/track/0Jagf5iAYYiWAs0BEoWbWZ) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Take Her Home](https://open.spotify.com/album/0be6zO5PTMEctXmGMb7R75) | 3:02 |
-| 65 | [paint the town blue](https://open.spotify.com/track/0XgOhyJWH5UVWyV7farWDr) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [paint the town blue](https://open.spotify.com/album/0lifeDOx0hIOwqMUEwmcfZ) | 3:05 |
+| 64 | [paint the town blue](https://open.spotify.com/track/0XgOhyJWH5UVWyV7farWDr) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [paint the town blue](https://open.spotify.com/album/0lifeDOx0hIOwqMUEwmcfZ) | 3:05 |
+| 65 | [Take Her Home](https://open.spotify.com/track/0Jagf5iAYYiWAs0BEoWbWZ) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Take Her Home](https://open.spotify.com/album/0be6zO5PTMEctXmGMb7R75) | 3:02 |
 | 66 | [Some Whiskey](https://open.spotify.com/track/5Z48gU2EpgzhECkuuXp4Ev) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg) | 3:03 |
 | 67 | [How Do I Do This](https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:51 |
 | 68 | [Dance With You](https://open.spotify.com/track/5SIb4S2seQAeCHPXxiNHBL) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Dance With You](https://open.spotify.com/album/7rbVJCe9cnXniQ9cgJW7lp) | 3:03 |
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 83 | [Way Out Here](https://open.spotify.com/track/08MvBKdeKFvWwiE5fTagkU) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/31sj5KDqCjfBymlJxgtbDO) | 3:41 |
 | 84 | [Easy To Miss](https://open.spotify.com/track/22CreGLxXnyqg2ktUVZShT) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody’s Born With A Broken Heart \(the first few\)](https://open.spotify.com/album/10ttWGowlB9os9gWQzSwkT) | 2:49 |
 | 85 | [I'm On Fire \- Spotify Singles](https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [I'm On Fire \- Spotify Singles](https://open.spotify.com/album/6Oe8Xx4xBMAAfPYisJZKKV) | 3:29 |
-| 86 | [Different About You](https://open.spotify.com/track/0S1fmk6xz49SHINeXXpStW) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Memory Lane](https://open.spotify.com/album/3PUA3xAHTsDAp11oAb33Mv) | 2:40 |
-| 87 | [How It Oughta Be](https://open.spotify.com/track/5bA63p1XSVdatb4plUB9fN) | [Shane Profitt](https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da) | [Maury County Line](https://open.spotify.com/album/3CJFXeleQ6qvVpYz57KcKy) | 3:08 |
-| 88 | [If You Were Mine](https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [If You Were Mine](https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ) | 3:39 |
+| 86 | [How It Oughta Be](https://open.spotify.com/track/5bA63p1XSVdatb4plUB9fN) | [Shane Profitt](https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da) | [Maury County Line](https://open.spotify.com/album/3CJFXeleQ6qvVpYz57KcKy) | 3:08 |
+| 87 | [If You Were Mine](https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [If You Were Mine](https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ) | 3:39 |
+| 88 | [Different About You](https://open.spotify.com/track/0S1fmk6xz49SHINeXXpStW) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Memory Lane](https://open.spotify.com/album/3PUA3xAHTsDAp11oAb33Mv) | 2:40 |
 | 89 | [Tell Me Tennessee](https://open.spotify.com/track/1TiAmIJNwfRmneV5iyTdMG) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Tell Me Tennessee](https://open.spotify.com/album/0xIsoU5AicBuIrbY5cOMke) | 3:30 |
 | 90 | [Corralling the Blues](https://open.spotify.com/track/2DsHa2ozp5MveeKjylgKWF) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Corralling the Blues](https://open.spotify.com/album/1GWoPqXhA9YAUTb95Y4V8t) | 2:27 |
 | 91 | [Sometimes She Stays](https://open.spotify.com/track/0YyhcqBtNVFppSW6LOXJXU) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Damn Love](https://open.spotify.com/album/7mmVEoq1bAhpr3H5maA0T1) | 3:59 |

@@ -1,12 +1,12 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6522,
+  "num_followers": 6526,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AACaEU/R8Yj4uBcWoLIVblMBHlBxj1Uo",
+  "snapshot_id": "AACaFx8Eym38sx7aRMPJDERwFkNQhh9b",
   "tracks": [
     {
       "added_at": "2024-07-18 10:10:15",
@@ -57,6 +57,38 @@
       "url": "https://open.spotify.com/track/5DfmnhUS1s3m87fsDSedoe"
     },
     {
+      "added_at": "2024-07-19 07:48:41",
+      "album": {
+        "name": "the warmth",
+        "url": "https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 270934,
+      "name": "the warmth",
+      "url": "https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe"
+    },
+    {
+      "added_at": "2024-07-19 16:00:12",
+      "album": {
+        "name": "Cherry Blossom",
+        "url": "https://open.spotify.com/album/1bgYm1WkoUiOaqDF41fcf3"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3nsi",
+          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
+        }
+      ],
+      "duration_ms": 191474,
+      "name": "Cherry Blossom",
+      "url": "https://open.spotify.com/track/038KeNjAMACcJBQ7yadyis"
+    },
+    {
       "added_at": "2024-07-19 07:31:16",
       "album": {
         "name": "fotomat\u00f3n",
@@ -91,6 +123,26 @@
       "duration_ms": 145674,
       "name": "Discos Vac\u00edas",
       "url": "https://open.spotify.com/track/19S7OFOw8NDiT2iaWD4YPz"
+    },
+    {
+      "added_at": "2024-07-19 07:48:46",
+      "album": {
+        "name": "Satellite Business 2.0",
+        "url": "https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 293377,
+      "name": "Satellite Business 2.0",
+      "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
     },
     {
       "added_at": "2024-07-19 07:30:09",
@@ -145,6 +197,22 @@
       "url": "https://open.spotify.com/track/5HlzvCWmwMFeA0ENrG8ixa"
     },
     {
+      "added_at": "2024-07-19 07:48:41",
+      "album": {
+        "name": "Overglow",
+        "url": "https://open.spotify.com/album/6Q3YEMqS3cN2pX8bakdNdE"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "duration_ms": 158785,
+      "name": "Overglow",
+      "url": "https://open.spotify.com/track/59ktWn8FpeyX81PqYxwWEy"
+    },
+    {
       "added_at": "2024-07-16 08:53:37",
       "album": {
         "name": "Coast",
@@ -159,6 +227,78 @@
       "duration_ms": 208482,
       "name": "Coast",
       "url": "https://open.spotify.com/track/0qEDCvj7wCt5AAMusRcgFf"
+    },
+    {
+      "added_at": "2024-07-19 07:48:41",
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/7htW5qv2yBt0dH7be0zMbc"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "duration_ms": 128399,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/43nqv4QZLdroszZ03wKCCh"
+    },
+    {
+      "added_at": "2024-07-19 07:48:41",
+      "album": {
+        "name": "One Call",
+        "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 158712,
+      "name": "One Call",
+      "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
+    },
+    {
+      "added_at": "2024-07-19 07:48:41",
+      "album": {
+        "name": "Kinky",
+        "url": "https://open.spotify.com/album/0fCN0g8Y2hBCeVLYFHNkRN"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "duration_ms": 134117,
+      "name": "Kinky",
+      "url": "https://open.spotify.com/track/5HO0GMmYN9gPme6XbQMhoF"
+    },
+    {
+      "added_at": "2024-07-19 07:48:41",
+      "album": {
+        "name": "Dance With U",
+        "url": "https://open.spotify.com/album/1HAp0pFi7vI0aIsG996Vo9"
+      },
+      "artists": [
+        {
+          "name": "NewEra",
+          "url": "https://open.spotify.com/artist/4QLa9DWZEpFrBhNG5UWXF1"
+        }
+      ],
+      "duration_ms": 118095,
+      "name": "Dance With U",
+      "url": "https://open.spotify.com/track/738jDvFSN21q5Y54TgiFoR"
     },
     {
       "added_at": "2024-07-19 07:43:31",
@@ -467,6 +607,22 @@
       "duration_ms": 201043,
       "name": "Solo",
       "url": "https://open.spotify.com/track/2Lj4dI2K20wDCkuDhr9wIh"
+    },
+    {
+      "added_at": "2024-07-19 07:48:41",
+      "album": {
+        "name": "Boys Like U",
+        "url": "https://open.spotify.com/album/20Lna2QqNErPjA4lRDUGoX"
+      },
+      "artists": [
+        {
+          "name": "\u00c4yanna",
+          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Boys Like U",
+      "url": "https://open.spotify.com/track/1tUYtX5SrRj9MJQgZ9u2W3"
     },
     {
       "added_at": "2024-07-19 07:30:56",
@@ -935,22 +1091,6 @@
     {
       "added_at": "2024-07-19 07:48:41",
       "album": {
-        "name": "Boys Like U",
-        "url": "https://open.spotify.com/album/20Lna2QqNErPjA4lRDUGoX"
-      },
-      "artists": [
-        {
-          "name": "\u00c4yanna",
-          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Boys Like U",
-      "url": "https://open.spotify.com/track/1tUYtX5SrRj9MJQgZ9u2W3"
-    },
-    {
-      "added_at": "2024-07-19 07:48:41",
-      "album": {
         "name": "Hung Up",
         "url": "https://open.spotify.com/album/7ENhtXgkFWk2PKr88HjoZq"
       },
@@ -963,110 +1103,6 @@
       "duration_ms": 125855,
       "name": "Hung Up",
       "url": "https://open.spotify.com/track/6RXulMH0m6qIupYe00pd2F"
-    },
-    {
-      "added_at": "2024-07-19 07:48:41",
-      "album": {
-        "name": "the warmth",
-        "url": "https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 270934,
-      "name": "the warmth",
-      "url": "https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe"
-    },
-    {
-      "added_at": "2024-07-19 07:48:41",
-      "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/7htW5qv2yBt0dH7be0zMbc"
-      },
-      "artists": [
-        {
-          "name": "Nemzzz",
-          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
-        }
-      ],
-      "duration_ms": 128399,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/43nqv4QZLdroszZ03wKCCh"
-    },
-    {
-      "added_at": "2024-07-19 07:48:41",
-      "album": {
-        "name": "One Call",
-        "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 158712,
-      "name": "One Call",
-      "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
-    },
-    {
-      "added_at": "2024-07-19 07:48:41",
-      "album": {
-        "name": "Kinky",
-        "url": "https://open.spotify.com/album/0fCN0g8Y2hBCeVLYFHNkRN"
-      },
-      "artists": [
-        {
-          "name": "bby",
-          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
-        }
-      ],
-      "duration_ms": 134117,
-      "name": "Kinky",
-      "url": "https://open.spotify.com/track/5HO0GMmYN9gPme6XbQMhoF"
-    },
-    {
-      "added_at": "2024-07-19 07:48:41",
-      "album": {
-        "name": "Dance With U",
-        "url": "https://open.spotify.com/album/1HAp0pFi7vI0aIsG996Vo9"
-      },
-      "artists": [
-        {
-          "name": "NewEra",
-          "url": "https://open.spotify.com/artist/4QLa9DWZEpFrBhNG5UWXF1"
-        }
-      ],
-      "duration_ms": 118095,
-      "name": "Dance With U",
-      "url": "https://open.spotify.com/track/738jDvFSN21q5Y54TgiFoR"
-    },
-    {
-      "added_at": "2024-07-19 07:48:41",
-      "album": {
-        "name": "Overglow",
-        "url": "https://open.spotify.com/album/6Q3YEMqS3cN2pX8bakdNdE"
-      },
-      "artists": [
-        {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
-        }
-      ],
-      "duration_ms": 158785,
-      "name": "Overglow",
-      "url": "https://open.spotify.com/track/59ktWn8FpeyX81PqYxwWEy"
     },
     {
       "added_at": "2024-07-19 07:48:41",
@@ -1111,26 +1147,6 @@
       "duration_ms": 177250,
       "name": "Better ft. Cuco",
       "url": "https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX"
-    },
-    {
-      "added_at": "2024-07-19 07:48:46",
-      "album": {
-        "name": "Satellite Business 2.0",
-        "url": "https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        },
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 293377,
-      "name": "Satellite Business 2.0",
-      "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
     },
     {
       "added_at": "2024-07-19 07:49:01",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,994 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,024 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 34 | [J'ai Deux Amours](https://open.spotify.com/track/1cCLS8B6Lq3AaCMQ9nDepD) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Emily In Paris Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0) | 3:01 |
 | 35 | [Opening \(Spirit of Adventure\)](https://open.spotify.com/track/5oYUpqagyuDKyv4CAYOqzR) | [Andrea Datzman](https://open.spotify.com/artist/4oVVQ8nKBLYmGlK6QbBlG2), [Curtis Green](https://open.spotify.com/artist/7BeM8T22ATymjmtyyfoHyV) | [Dug Days \(Original Soundtrack\)](https://open.spotify.com/album/6fEXaQ4sDE9L9pSsixUPQM) | 0:52 |
 | 36 | [Bigger Than Us](https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 1:51 |
-| 37 | [The Lady is a Tramp](https://open.spotify.com/track/3ktv2iqF2G7r2RNUyJK7jj) | [Vince Giordano And The Nighthawks](https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO) | [Cafe Society \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0qhRd1Dw9TV0JHmwjG168A) | 3:49 |
-| 38 | [La Dolce Vita / La Bella Malinconica](https://open.spotify.com/track/3GRGACEHWI4cYbJvoIp5gD) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo) | [La Dolce Vita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3P5PfBUzns5mWcz25C6OkB) | 3:06 |
+| 37 | [La Dolce Vita / La Bella Malinconica](https://open.spotify.com/track/3GRGACEHWI4cYbJvoIp5gD) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo) | [La Dolce Vita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3P5PfBUzns5mWcz25C6OkB) | 3:06 |
+| 38 | [The Lady is a Tramp](https://open.spotify.com/track/3ktv2iqF2G7r2RNUyJK7jj) | [Vince Giordano And The Nighthawks](https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO) | [Cafe Society \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0qhRd1Dw9TV0JHmwjG168A) | 3:49 |
 | 39 | [I Love Penny Sue](https://open.spotify.com/track/4SBHuF59wYA32i3O1Yfv1L) | [Daniel May](https://open.spotify.com/artist/1v1sbhRjpHfjqdBpSiwCvc) | [Midnight in Paris \(Music from the Motion Picture\)](https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0) | 3:17 |
 | 40 | [Autumn In New York](https://open.spotify.com/track/3G9pKQL2daAyy4BJDz5nAw) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When Harry Met Sally..\. Music From The Motion Picture](https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv) | 2:47 |
 | 41 | [The Thrombey Family Theme](https://open.spotify.com/track/0Enx3TsvhCkP3Ip1XU6PoO) | [Nathan Johnson](https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1) | [Knives Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut) | 1:47 |

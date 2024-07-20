@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 
 > Move your body with your favorite 90s songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,904 likes - 75 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,136 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 21 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Basement Boy Strip To The Bone Mix](https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43), [The Basement Boys](https://open.spotify.com/artist/4zs2Vybqo9ktD8QORpnHfI) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 7:31 |
 | 22 | [Say You'll Be There](https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 3:55 |
 | 23 | [Where Do You Go](https://open.spotify.com/track/37tzoWY1ubBQKGXiWdO5Qv) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [My Promise](https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ) | 4:32 |
-| 24 | [Where the Party At \(feat\. Nelly\)](https://open.spotify.com/track/5mNV8Mz59bzyuQ53gTw0c0) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Jagged Little Thrill](https://open.spotify.com/album/2LFRjzwf61Y7CIl54Kiq8j) | 3:52 |
-| 25 | [Be My Lover](https://open.spotify.com/track/7FoUzKTSQp25oe32pY9z5p) | [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Sweet Dreams](https://open.spotify.com/album/4adqftIYavKgrnLyOD5gxZ) | 4:00 |
+| 24 | [Be My Lover](https://open.spotify.com/track/7FoUzKTSQp25oe32pY9z5p) | [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Sweet Dreams](https://open.spotify.com/album/4adqftIYavKgrnLyOD5gxZ) | 4:00 |
+| 25 | [Where the Party At \(feat\. Nelly\)](https://open.spotify.com/track/5mNV8Mz59bzyuQ53gTw0c0) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Jagged Little Thrill](https://open.spotify.com/album/2LFRjzwf61Y7CIl54Kiq8j) | 3:52 |
 | 26 | [It Feels So Good](https://open.spotify.com/track/4Y8q64VnhD0vFYy9g2WFpi) | [Sonique](https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI) | [Hear My Cry](https://open.spotify.com/album/4LX27S3cszKEJW84BGa1Ff) | 4:00 |
 | 27 | [Waiting for Tonight](https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 4:06 |
 | 28 | [Spice Up Your Life](https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 2:53 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 37 | [Macarena \- Bayside Boys Remix](https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:12 |
 | 38 | [Get Ready](https://open.spotify.com/track/4tvOVmc2jorV20Z2hFDtDg) | [2 Unlimited](https://open.spotify.com/artist/18JD8DVlD1fakDAw7E9LFC) | [Get Ready](https://open.spotify.com/album/6NhL15fEltVRFpld3hvaWV) | 3:42 |
 | 39 | [Now That We Found Love](https://open.spotify.com/track/1KONmY3enP3r3nIPQidWAy) | [Heavy D & The Boyz](https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3), [Aaron Hall](https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn) | [Peaceful Journey](https://open.spotify.com/album/4bAwnTaD8QcruiVdb1zzzY) | 4:18 |
-| 40 | [The Bomb \(These Sounds Fall Into My Mind\)](https://open.spotify.com/track/2Biy0tRkZTGxGH8axDwnqP) | [The Bucketheads](https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC) | [All In The Mind](https://open.spotify.com/album/7AvNbRsfa2B0Hwf4bfcABj) | 3:22 |
-| 41 | [My Prerogative](https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Don't Be Cruel](https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK) | 4:51 |
+| 40 | [My Prerogative](https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Don't Be Cruel](https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK) | 4:51 |
+| 41 | [The Bomb \(These Sounds Fall Into My Mind\)](https://open.spotify.com/track/2Biy0tRkZTGxGH8axDwnqP) | [The Bucketheads](https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC) | [All In The Mind](https://open.spotify.com/album/7AvNbRsfa2B0Hwf4bfcABj) | 3:22 |
 | 42 | [This Is Your Night](https://open.spotify.com/track/6YX75Ps2XsWn9dOzwbqmNV) | [Amber](https://open.spotify.com/artist/6uGKydhYXrVOEXM6QbVzyH) | [This Is Your Night](https://open.spotify.com/album/5Uu4tVZ7B5NdpKxXa9JrGA) | 3:58 |
 | 43 | [Horny \- '98 Radio Edit](https://open.spotify.com/track/79qPDRmHmJ5xcU7oyS8CQ1) | [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6), [Hot 'N' Juicy](https://open.spotify.com/artist/7c40GtC37kwpGDm8kbYcHr) | [Horny \(Radio Edit's\)](https://open.spotify.com/album/3WQ59lVT7UR1WvU0Of3W4D) | 3:07 |
 | 44 | [Freedom! '90](https://open.spotify.com/track/1SKApv6ZfJ9bkUxeRObJEF) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 6:28 |

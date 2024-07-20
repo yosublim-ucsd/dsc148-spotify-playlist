@@ -1,6 +1,6 @@
 {
   "description": "la generaci\u00f3n del discman y el walkman",
-  "num_followers": 38825,
+  "num_followers": 38837,
   "original_name": "noventeras",
   "owner": {
     "name": "Spotify",
@@ -251,18 +251,18 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
-        "name": "Backstreet's Back",
-        "url": "https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v"
+        "name": "La Flaca",
+        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
       },
       "artists": [
         {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
         }
       ],
-      "duration_ms": 225360,
-      "name": "Everybody (Backstreet's Back) - Radio Edit",
-      "url": "https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP"
+      "duration_ms": 261200,
+      "name": "La flaca",
+      "url": "https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb"
     },
     {
       "added_at": "2024-07-05 01:24:37",
@@ -283,18 +283,18 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
+        "name": "Backstreet's Back",
+        "url": "https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v"
       },
       "artists": [
         {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
         }
       ],
-      "duration_ms": 261200,
-      "name": "La flaca",
-      "url": "https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb"
+      "duration_ms": 225360,
+      "name": "Everybody (Backstreet's Back) - Radio Edit",
+      "url": "https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP"
     },
     {
       "added_at": "2024-07-05 01:24:37",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
-        "name": "Backstreet's Back",
-        "url": "https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 221106,
-      "name": "As Long as You Love Me",
-      "url": "https://open.spotify.com/track/3UpS7kBnkVQYG13pDDFTC4"
-    },
-    {
-      "added_at": "2024-07-05 01:24:37",
-      "album": {
         "name": "No Angel",
         "url": "https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4"
       },
@@ -391,22 +375,6 @@
       "duration_ms": 218360,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l"
-    },
-    {
-      "added_at": "2024-07-05 01:24:37",
-      "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 191240,
-      "name": "The Sign",
-      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
     },
     {
       "added_at": "2024-07-05 01:24:37",
@@ -427,6 +395,22 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "duration_ms": 191240,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
+    },
+    {
+      "added_at": "2024-07-05 01:24:37",
+      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 267826,
       "name": "Ciega, Sordomuda",
       "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
+    },
+    {
+      "added_at": "2024-07-05 01:24:37",
+      "album": {
+        "name": "Backstreet's Back",
+        "url": "https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 221106,
+      "name": "As Long as You Love Me",
+      "url": "https://open.spotify.com/track/3UpS7kBnkVQYG13pDDFTC4"
     },
     {
       "added_at": "2024-07-05 01:24:37",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
-        "name": "Laura Pausini - Spanish Version",
-        "url": "https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 280666,
-      "name": "Se fu\u00e9",
-      "url": "https://open.spotify.com/track/5oQadhkuEdEhtdVn0QceyZ"
-    },
-    {
-      "added_at": "2024-07-05 01:24:37",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 307866,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
+    },
+    {
+      "added_at": "2024-07-05 01:24:37",
+      "album": {
+        "name": "Laura Pausini - Spanish Version",
+        "url": "https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 280666,
+      "name": "Se fu\u00e9",
+      "url": "https://open.spotify.com/track/5oQadhkuEdEhtdVn0QceyZ"
     },
     {
       "added_at": "2024-07-05 01:24:37",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
-        "name": "La Chica Dorada",
-        "url": "https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 225866,
-      "name": "M\u00edo",
-      "url": "https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl"
-    },
-    {
-      "added_at": "2024-07-05 01:24:37",
-      "album": {
         "name": "Superexitos Vol. 2",
         "url": "https://open.spotify.com/album/5x1hFavbDYh9ttS0KMQGmz"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 219454,
       "name": "Mas de Lo Que Te Imaginas (Classic Version)",
       "url": "https://open.spotify.com/track/4fXBKW9Xt9oSb7qRvVoU9Y"
+    },
+    {
+      "added_at": "2024-07-05 01:24:37",
+      "album": {
+        "name": "La Chica Dorada",
+        "url": "https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 225866,
+      "name": "M\u00edo",
+      "url": "https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl"
     },
     {
       "added_at": "2024-07-05 01:24:37",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
-        "name": "Animal Nocturno",
-        "url": "https://open.spotify.com/album/3BkE5kvMnXh6ljEvyCSR0I"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Mujeres",
-      "url": "https://open.spotify.com/track/7wNrk2vc0GUUNBFggJzEsI"
-    },
-    {
-      "added_at": "2024-07-05 01:24:37",
-      "album": {
         "name": "Saints & Sinners",
         "url": "https://open.spotify.com/album/2gQvc1j1WnM5EAORW7u01W"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 268746,
       "name": "Pure Shores",
       "url": "https://open.spotify.com/track/6ZLGthToczpvnL5Eoy6yrY"
+    },
+    {
+      "added_at": "2024-07-05 01:24:37",
+      "album": {
+        "name": "Animal Nocturno",
+        "url": "https://open.spotify.com/album/3BkE5kvMnXh6ljEvyCSR0I"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Mujeres",
+      "url": "https://open.spotify.com/track/7wNrk2vc0GUUNBFggJzEsI"
     },
     {
       "added_at": "2024-07-05 01:24:37",

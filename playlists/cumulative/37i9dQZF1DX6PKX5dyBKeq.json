@@ -19517,6 +19517,24 @@
     },
     {
       "album": {
+        "name": "fools&errands",
+        "url": "https://open.spotify.com/album/32G0PERRm3OOv4k6zwuMx6"
+      },
+      "artists": [
+        {
+          "name": "Moko",
+          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "life&death",
+      "url": "https://open.spotify.com/track/7s6HHNHxLMX1nGDflQazC8"
+    },
+    {
+      "album": {
         "name": "Lifestyle",
         "url": "https://open.spotify.com/album/0BJZbxTDSxPb3rbRQ1mAvm"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 
 > Enjoy these songs while you eat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,410 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,408 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 | 34 | [Tanbur & Duduk Taksimi](https://open.spotify.com/track/6G7zn10Pu1kNK6tMLnYeGw) | [Ertan Tekin](https://open.spotify.com/artist/5nTswH6KXoL7iQjZXjQEj4), [Murat Aydemir](https://open.spotify.com/artist/47nQG3rv5MxcP21Ndvo4Qv), [Çağ Erçağ](https://open.spotify.com/artist/4yNFDeDkcHTH1H1mRQ475t) | [Itri & Bach](https://open.spotify.com/album/6r17TPLNFTrPtKOUCDpo9w) | 2:25 |
 | 35 | [Hicaz Peşrev](https://open.spotify.com/track/1N8Pw69RyrGh8kw6X0kTBE) | [Emirgan Ensemble](https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb) | [Klasik Osmanlı Müziği](https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy) | 3:33 |
 | 36 | [Suzidilara Saz Semaisi](https://open.spotify.com/track/01GOqOsRD21di19O0uvTd3) | [Ihsan Özgen](https://open.spotify.com/artist/41JqJkjqMDOAwE6YwTmgIM) | [Tanburi Cemil Bey \- Peşrev ve Saz Semaileri](https://open.spotify.com/album/1wRMA2enfYLR4kPhAyRQWP) | 4:09 |
-| 37 | [Çargah Sirto](https://open.spotify.com/track/2q4aOzOjhGbBsRAgm3y1Kd) | [Ahmet Cennetoğlu](https://open.spotify.com/artist/6jGc5YUnqnjxiFPBeTUjv8) | [Kaftan \(Instrumental Palace of Songs\)](https://open.spotify.com/album/4JoB1ufXjKA9ZtdK0C51JW) | 1:20 |
-| 38 | [Ferahfeza Saz Semaisi \(Udi Serif Muhittin Targan\)](https://open.spotify.com/track/73SURSA7uBw0tNjZl7gvXI) | [Murat Aydemir, Derya Turkan](https://open.spotify.com/artist/5m4mYys97lQHLjpLQIiDrz) | [Ahenk, Turkish Classical Music](https://open.spotify.com/album/06MEo3CVEIk5PSPN514A46) | 4:25 |
+| 37 | [Ferahfeza Saz Semaisi \(Udi Serif Muhittin Targan\)](https://open.spotify.com/track/73SURSA7uBw0tNjZl7gvXI) | [Murat Aydemir, Derya Turkan](https://open.spotify.com/artist/5m4mYys97lQHLjpLQIiDrz) | [Ahenk, Turkish Classical Music](https://open.spotify.com/album/06MEo3CVEIk5PSPN514A46) | 4:25 |
+| 38 | [Çargah Sirto](https://open.spotify.com/track/2q4aOzOjhGbBsRAgm3y1Kd) | [Ahmet Cennetoğlu](https://open.spotify.com/artist/6jGc5YUnqnjxiFPBeTUjv8) | [Kaftan \(Instrumental Palace of Songs\)](https://open.spotify.com/album/4JoB1ufXjKA9ZtdK0C51JW) | 1:20 |
 | 39 | [Tanbur İle Ferahfezâ Saz Semâîsi](https://open.spotify.com/track/5cx9SXjMVoYi16tcBV8Na4) | [Yüce Gümüş](https://open.spotify.com/artist/4spsJYmxSg9Ku5hDohlxba), [Murat Salim Tokac](https://open.spotify.com/artist/3UOpDDkQgLNhfBHjbt1qnV) | [Nağmeler Evi \(Çocuklar ve Gençler İçin Müzik Kültürü\)](https://open.spotify.com/album/7mjhkkgcXVC2Rp2qdnIMOu) | 5:13 |
 | 40 | [Uşşak Peşrev](https://open.spotify.com/track/4d5z3kFaO5eqko6jPKtp1h) | [Ubeydullah Sezikli](https://open.spotify.com/artist/1xiy8XwCNzhZt5hoBKpD9N) | [Makamlarla Türk Din Mûsîkisi Eğitim Seti, Vol\. 2 / Uşşak Hicaz](https://open.spotify.com/album/4CKCjlCm0tcc0NaHbPrsNu) | 1:47 |
 | 41 | [Sultaniyegah Taksim](https://open.spotify.com/track/5J2bmapoi3PiXvnL2zz4yH) | [Kemal Bor](https://open.spotify.com/artist/3A9o4jwx2R0vYlugv6eAeg) | [Osmanlı Sarayı Musikisi](https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9) | 1:31 |

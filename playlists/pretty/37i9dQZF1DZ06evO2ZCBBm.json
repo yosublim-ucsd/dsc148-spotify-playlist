@@ -1,12 +1,12 @@
 {
   "description": "This is The Used. The essential tracks, all in one playlist.",
-  "num_followers": 45976,
+  "num_followers": 45980,
   "original_name": "This Is The Used",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAACsX3m6W2tfqfofyWVdNq+z",
+  "snapshot_id": "ZphbAAAAAADx4WHf7kgoAF3GCqHjCuRZ",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tickets To My Downfall (SOLD OUT Deluxe)",
+        "url": "https://open.spotify.com/album/13lMLnHs5qsmm687oRc3VC"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        },
+        {
+          "name": "robbietheused",
+          "url": "https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0"
+        }
+      ],
+      "duration_ms": 170074,
+      "name": "body bag (feat. YUNGBLUD & Bert McCracken of The Used)",
+      "url": "https://open.spotify.com/track/0NZrY7Lc9g6V03hxRpfToV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lies for the Liars",
         "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
       },
@@ -39,22 +67,6 @@
       "duration_ms": 215146,
       "name": "Pretty Handsome Awkward",
       "url": "https://open.spotify.com/track/77BfOPXhlnNaSbg647qkx2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MEDZ",
-        "url": "https://open.spotify.com/album/6Xwq41gv27p5DPAqnoZmxQ"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 165868,
-      "name": "MEDZ",
-      "url": "https://open.spotify.com/track/7sfp82nSU4R52zXcJpv0DQ"
     },
     {
       "added_at": null,
@@ -91,6 +103,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MEDZ",
+        "url": "https://open.spotify.com/album/6Xwq41gv27p5DPAqnoZmxQ"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 165868,
+      "name": "MEDZ",
+      "url": "https://open.spotify.com/track/7sfp82nSU4R52zXcJpv0DQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lies for the Liars",
         "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
       },
@@ -107,22 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEDZ",
-        "url": "https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 183044,
-      "name": "Terrified",
-      "url": "https://open.spotify.com/track/2aA7RSPH78lQmKCNxkr2lo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Love and Death",
         "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
       },
@@ -135,6 +147,22 @@
       "duration_ms": 205160,
       "name": "I Caught Fire",
       "url": "https://open.spotify.com/track/6z2Fx4b0hjqLdsJQOrNxbM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MEDZ",
+        "url": "https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 183044,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/2aA7RSPH78lQmKCNxkr2lo"
     },
     {
       "added_at": null,
@@ -211,18 +239,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Love and Death",
-        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+        "name": "Under Pressure",
+        "url": "https://open.spotify.com/album/3yeNEy2TFt4hvtQ6sRichS"
       },
       "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        },
         {
           "name": "The Used",
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 217946,
-      "name": "Take It Away",
-      "url": "https://open.spotify.com/track/2PzjnmkdMr6eOkFwQgqmyC"
+      "duration_ms": 211733,
+      "name": "Under Pressure",
+      "url": "https://open.spotify.com/track/4j08A1efdJcVINBHSmQKPS"
     },
     {
       "added_at": null,
@@ -243,22 +275,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "in loving memory",
-        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
       },
       "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        },
         {
           "name": "The Used",
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 191559,
-      "name": "toxic energy (with Bert McCracken of The Used)",
-      "url": "https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26"
+      "duration_ms": 217946,
+      "name": "Take It Away",
+      "url": "https://open.spotify.com/track/2PzjnmkdMr6eOkFwQgqmyC"
     },
     {
       "added_at": null,
@@ -275,6 +303,26 @@
       "duration_ms": 177600,
       "name": "Fuck You",
       "url": "https://open.spotify.com/track/6gKlgCnExEWpuHJg0FP3Bq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "in loving memory",
+        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 191559,
+      "name": "toxic energy (with Bert McCracken of The Used)",
+      "url": "https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26"
     },
     {
       "added_at": null,
@@ -319,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Positivity",
-        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 190222,
-      "name": "Giving Up",
-      "url": "https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MEDZ",
         "url": "https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb"
       },
@@ -347,6 +379,22 @@
       "duration_ms": 172146,
       "name": "People Are Vomit",
       "url": "https://open.spotify.com/track/2FYcaOeXzUuCVrhbn4amXB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 190222,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C"
     },
     {
       "added_at": null,
@@ -383,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Artwork (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3998jgjlz1fvCo57NoN07p"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Blood on My Hands",
-      "url": "https://open.spotify.com/track/5hNeatT8kKThMjqGNi9SZk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MEDZ",
         "url": "https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb"
       },
@@ -411,6 +443,22 @@
       "duration_ms": 170484,
       "name": "Depression Personified",
       "url": "https://open.spotify.com/track/7gwY1pfRxbXJzFgi40DUz0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Artwork (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3998jgjlz1fvCo57NoN07p"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Blood on My Hands",
+      "url": "https://open.spotify.com/track/5hNeatT8kKThMjqGNi9SZk"
     },
     {
       "added_at": null,
@@ -440,25 +488,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Poetic Tragedy",
-      "url": "https://open.spotify.com/track/58sdfzX722CMoU7m0s5dUi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toxic Positivity",
-        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 170202,
-      "name": "The Worst I've Ever Been",
-      "url": "https://open.spotify.com/track/4MxBcnUAE1Vx0Y1WLBgw8j"
+      "duration_ms": 169160,
+      "name": "Noise and Kisses",
+      "url": "https://open.spotify.com/track/3J0cTSuhrsoG9lY2AonjmH"
     },
     {
       "added_at": null,
@@ -475,6 +507,22 @@
       "duration_ms": 197966,
       "name": "Before I Leave",
       "url": "https://open.spotify.com/track/4UvpM0BuXyfbHmt9hhAiZk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 170202,
+      "name": "The Worst I've Ever Been",
+      "url": "https://open.spotify.com/track/4MxBcnUAE1Vx0Y1WLBgw8j"
     },
     {
       "added_at": null,

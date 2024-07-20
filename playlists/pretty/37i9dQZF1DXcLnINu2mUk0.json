@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Nenny",
-  "num_followers": 46354,
+  "num_followers": 46363,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -387,26 +387,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Solteiros",
-        "url": "https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md"
-      },
-      "artists": [
-        {
-          "name": "Deejay Telio",
-          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
-        },
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 179023,
-      "name": "Solteiros",
-      "url": "https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "ROSAS",
         "url": "https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 177272,
       "name": "ROSAS",
       "url": "https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Solteiros",
+        "url": "https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md"
+      },
+      "artists": [
+        {
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        },
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 179023,
+      "name": "Solteiros",
+      "url": "https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
+        "name": "Estrela Maior",
+        "url": "https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 265011,
+      "name": "Estrela Maior",
+      "url": "https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
         "name": "T$UNAMI",
         "url": "https://open.spotify.com/album/3RMYeQI4WDsrcR4CzKdnmy"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 183133,
       "name": "T$UNAMI",
       "url": "https://open.spotify.com/track/2pks64KK1vHckQPEGiDuyK"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "Estrela Maior",
-        "url": "https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 265011,
-      "name": "Estrela Maior",
-      "url": "https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1383,22 +1383,18 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Vistas",
-        "url": "https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o"
+        "name": "IN\u00cdCIO",
+        "url": "https://open.spotify.com/album/2cYblQu0jTbi8qv71eaoBD"
       },
       "artists": [
         {
-          "name": "Ary Rafeiro",
-          "url": "https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO"
-        },
-        {
-          "name": "Murta",
-          "url": "https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx"
+          "name": "ZARCO",
+          "url": "https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Vistas",
-      "url": "https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW"
+      "duration_ms": 205862,
+      "name": "IN\u00cdCIO",
+      "url": "https://open.spotify.com/track/0pWS7S3UEkh2zGcNyB2p28"
     }
   ],
   "unique_name": "Seda",

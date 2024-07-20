@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e40\u0e23\u0e32\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: TWINSHOUSE",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e40\u0e23\u0e32\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Secret Diskette",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49 \u0e40\u0e17\u0e2a\u0e14\u0e35 Indie Tasty",
   "tracks": [
     {
@@ -190,10 +190,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 187500,
       "name": "Someone",
       "url": "https://open.spotify.com/track/5qNzv6J7edmRQOtJH5whkl"
+    },
+    {
+      "album": {
+        "name": "Too Good",
+        "url": "https://open.spotify.com/album/4AEAjTwPfEhHaMgWbuMXMN"
+      },
+      "artists": [
+        {
+          "name": "Secret Diskette",
+          "url": "https://open.spotify.com/artist/2gBGMRK1tYitHegMCIBUXx"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191497,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/6oP4ZPYqkLjzSnKMT6ETaH"
     },
     {
       "album": {
@@ -226,7 +244,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 294250,
       "name": "Where Would You Be (TH.ver)",
       "url": "https://open.spotify.com/track/4HNfqqTssC8rqEai8m1z5n"
@@ -284,6 +302,24 @@
       "duration_ms": 246857,
       "name": "\u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13",
       "url": "https://open.spotify.com/track/0ybe3S732T6M2ch6fSrEIQ"
+    },
+    {
+      "album": {
+        "name": "\u0e02\u0e48\u0e32\u0e27\u0e14\u0e35",
+        "url": "https://open.spotify.com/album/2HOrz74TqxqiIj8atwFKNS"
+      },
+      "artists": [
+        {
+          "name": "Jurassic.Pew",
+          "url": "https://open.spotify.com/artist/0CXegTSxxcMLVXHjtnxC1Q"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256181,
+      "name": "\u0e02\u0e48\u0e32\u0e27\u0e14\u0e35",
+      "url": "https://open.spotify.com/track/7yodPVecn5X9EnjpzcKTGH"
     },
     {
       "album": {
@@ -417,6 +453,24 @@
     },
     {
       "album": {
+        "name": "\u0e14\u0e35\u0e41\u0e25\u0e49\u0e27",
+        "url": "https://open.spotify.com/album/63IW4wzMkru6GvdLwCa8In"
+      },
+      "artists": [
+        {
+          "name": "Methane",
+          "url": "https://open.spotify.com/artist/6kNXwB8eVNq6jPJGTi0Vk7"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "\u0e14\u0e35\u0e41\u0e25\u0e49\u0e27",
+      "url": "https://open.spotify.com/track/08xrZIS2GjbsKWaceAbKRf"
+    },
+    {
+      "album": {
         "name": "\u0e15\u0e25\u0e2d\u0e14\u0e44\u0e1b",
         "url": "https://open.spotify.com/album/3pA4CJzeCiRpSSLSqt6NkY"
       },
@@ -482,7 +536,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 251612,
       "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e15\u0e49\u0e2d\u0e07\u0e44\u0e1b",
       "url": "https://open.spotify.com/track/0sfYqbTSE8OWu8ZzcLHlKF"
@@ -666,6 +720,24 @@
       "duration_ms": 271500,
       "name": "\u0e20\u0e32\u0e1e\u0e41\u0e17\u0e19\u0e43\u0e08",
       "url": "https://open.spotify.com/track/5GU4qd4u4JisdNvm91z4ID"
+    },
+    {
+      "album": {
+        "name": "\u0e21\u0e2d\u0e1a\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49 (one date)",
+        "url": "https://open.spotify.com/album/5B0qar4CUdf5ASjXlYDgjP"
+      },
+      "artists": [
+        {
+          "name": "PAKBUNG",
+          "url": "https://open.spotify.com/artist/5GREsJHsL3GncdQgtfHLJq"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196117,
+      "name": "\u0e21\u0e2d\u0e1a\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49 (one date)",
+      "url": "https://open.spotify.com/track/1J4aLl39aBpfsR8M7p0VFx"
     },
     {
       "album": {
@@ -907,6 +979,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e04\u0e22",
+        "url": "https://open.spotify.com/album/1tNCbUIKysKQPVtbcAJ9is"
+      },
+      "artists": [
+        {
+          "name": "2PUP",
+          "url": "https://open.spotify.com/artist/26wgoALgH9kCfxjAp1LWSV"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258071,
+      "name": "\u0e40\u0e04\u0e22",
+      "url": "https://open.spotify.com/track/0bI1FqL6jfmnPSX2wvyeET"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e08\u0e47\u0e1a\u0e40\u0e01\u0e48\u0e07 (Hurt)",
         "url": "https://open.spotify.com/album/4xBWcKwOOeW1K1laHIhT5C"
       },
@@ -972,7 +1062,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 287317,
       "name": "\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e2d\u0e22\u0e32\u0e01\u0e02\u0e2d",
       "url": "https://open.spotify.com/track/6VnYs6uSFxyHF5Pt8FIwSe"
@@ -1134,7 +1224,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 260500,
       "name": "\u0e43\u0e04\u0e23\u0e43\u0e19\u0e42\u0e25\u0e01\u0e19\u0e31\u0e49\u0e19 (Keep in Touch)",
       "url": "https://open.spotify.com/track/5AZiY2IUDSchIwYHkekMxm"

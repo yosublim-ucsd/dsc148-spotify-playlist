@@ -1,13 +1,29 @@
 {
   "description": "Scary monsters and filthy drops.",
-  "num_followers": 33881,
+  "num_followers": 33908,
   "original_name": "The Graveyard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo6LmAAAAAC32TdgIpFGN/w8EUN+lefi",
+  "snapshot_id": "ZpqPJwAAAADlgUyaRWN9RgObJzy1Tj0l",
   "tracks": [
+    {
+      "added_at": "2024-07-19 16:07:03",
+      "album": {
+        "name": "wutiwant",
+        "url": "https://open.spotify.com/album/4NHsl52eIxHX3ZGh66ZYUx"
+      },
+      "artists": [
+        {
+          "name": "saraunh0ly",
+          "url": "https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid"
+        }
+      ],
+      "duration_ms": 193515,
+      "name": "wutiwant",
+      "url": "https://open.spotify.com/track/6zsUUymWPtq5bkoc5y97cM"
+    },
     {
       "added_at": "2023-10-31 04:00:00",
       "album": {

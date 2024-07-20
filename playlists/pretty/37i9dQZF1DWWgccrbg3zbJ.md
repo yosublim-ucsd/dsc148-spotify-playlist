@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 
 > The classic recordings from Bossa Nova\. Cover: João Gilberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,275 likes - 65 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,678 likes - 65 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 14 | [Insensatez](https://open.spotify.com/track/6NAsiy8bVS2hx95ofthfSV) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [O Melhor da Parceria](https://open.spotify.com/album/15gm0vAtfWhgwIYQYTHcpz) | 2:40 |
 | 15 | [A Rã](https://open.spotify.com/track/0vZwdJBXOGppAMLjwDUNWg) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Blue Note Trip 7: Birds / Beats](https://open.spotify.com/album/6Z4rwujDTEf2nBEc0eZqJF) | 2:15 |
 | 16 | [A Felicidade](https://open.spotify.com/track/28PORYgAQ5vrbwtobRlCoq) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Wonderful World Of Antonio Carlos Jobim](https://open.spotify.com/album/5TGwdCOJzrpqTEFu7Uojkn) | 2:04 |
-| 17 | [Rio](https://open.spotify.com/track/1cCKsJZbWUZbAkdrn2qviQ) | [Quarteto do Rio](https://open.spotify.com/artist/2IRXlLBgHK3HSNJ7YlbyW4), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [Mr\. Bossa Nova](https://open.spotify.com/album/6cyM2wUubFJb6scTaMiqsx) | 2:26 |
-| 18 | [Diz Que Fui Por Ai](https://open.spotify.com/track/6BAlnEh3wnUMpIBiuQQHYg) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Nara](https://open.spotify.com/album/6GupTGdWq2CPBZTn28joxE) | 2:08 |
+| 17 | [Diz Que Fui Por Ai](https://open.spotify.com/track/6BAlnEh3wnUMpIBiuQQHYg) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Nara](https://open.spotify.com/album/6GupTGdWq2CPBZTn28joxE) | 2:08 |
+| 18 | [Rio](https://open.spotify.com/track/1cCKsJZbWUZbAkdrn2qviQ) | [Quarteto do Rio](https://open.spotify.com/artist/2IRXlLBgHK3HSNJ7YlbyW4), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [Mr\. Bossa Nova](https://open.spotify.com/album/6cyM2wUubFJb6scTaMiqsx) | 2:26 |
 | 19 | [Tristeza](https://open.spotify.com/track/2TjjcQQWZlbY5Hy46zQvAU) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [O Poeta e o Violão](https://open.spotify.com/album/4cOgC6zXMJwrgmIvC6GJfF) | 4:06 |
 | 20 | [Tin Tin Por Tin Tin](https://open.spotify.com/track/54nMyXP7zFHWc2nrThkZ6v) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Amoroso](https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH) | 3:40 |
 | 21 | [Bossa Nova Cha Cha](https://open.spotify.com/track/4kCy1U3iRy8nnrkO8mr9Ix) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb), [Oscar Castro\-Neves](https://open.spotify.com/artist/55PO0aYAH6lYKr0SqYR3Z9), [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1) | [Composer of Black Orpheus Plays and Sings Bossa Nova](https://open.spotify.com/album/1z1zoBT74ap8RtuyBD8oTb) | 3:20 |

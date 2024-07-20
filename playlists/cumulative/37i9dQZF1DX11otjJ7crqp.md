@@ -4,7 +4,7 @@
 
 > Essential new pop tracks\. Cover: Joe Jonas
 
-5,909 songs - 12 day 6 hr 15 min
+5,910 songs - 12 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1833,7 +1833,7 @@
 | [Forever \(feat\. Elley Duhé\)](https://open.spotify.com/track/1vpGxJpPyJocizv7i1CyDC) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Forever](https://open.spotify.com/album/6zWBIAHjffwgPY5llFnjUp) | 3:07 | 2022-10-28 | 2022-11-05 |
 | [Forever and Ever and Always](https://open.spotify.com/track/5keXeMrCGBYXpJYQ0FFqjK) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Forever and Ever and Always](https://open.spotify.com/album/5EykK3QfILVgK3kdUQHWrM) | 2:20 | 2022-12-02 | 2022-12-24 |
 | [Forever Drunk](https://open.spotify.com/track/0DqnKQQarQLw4zVY0LLGbY) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Forever Drunk](https://open.spotify.com/album/2lKcXqayvN3V1opi6oQWZ7) | 3:10 | 2022-08-12 | 2022-08-27 |
-| [Forever To Me](https://open.spotify.com/track/38RJG8nLAwGycitlHOiifP) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Forever To Me](https://open.spotify.com/album/35O9rSmb63xn6dvFNFvNbK) | 2:59 | 2024-07-19 |  |
+| [Forever To Me](https://open.spotify.com/track/38RJG8nLAwGycitlHOiifP) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Forever To Me](https://open.spotify.com/album/35O9rSmb63xn6dvFNFvNbK) | 2:59 | 2024-07-19 | 2024-07-20 |
 | [Forget I Exist](https://open.spotify.com/track/54q7FLhWb9FEObFBziNRTq) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Forget I Exist](https://open.spotify.com/album/4S8raPrW3aRYC3npe8gTEN) | 2:52 | 2022-02-04 | 2022-02-12 |
 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 | 2022-09-09 | 2022-10-01 |
 | [Forgetting Delaney](https://open.spotify.com/track/0BoEasH9Wqi5N0Ryd5VPzt) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Forgetting Delaney](https://open.spotify.com/album/74cN9ID7E3WIQoc6MFS6PI) | 2:32 | 2022-09-17 | 2022-09-24 |
@@ -2378,6 +2378,7 @@
 | [Hollow](https://open.spotify.com/track/3RJzro8ofJNR6iVoCrXh16) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Hollow](https://open.spotify.com/album/17NymtTA5f652cEtnCApuZ) | 2:54 | 2022-11-18 | 2022-12-10 |
 | [Hollow Lover](https://open.spotify.com/track/0wqfPpcKewaI7muAVNzo2x) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hollow Lover](https://open.spotify.com/album/6oU83NRccLBCqr1JI92MLi) | 3:07 | 2022-06-10 | 2022-06-25 |
 | [Hollywood Dead](https://open.spotify.com/track/0snVHvfUTsu0DVSDDyypkR) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU), [Madilyn](https://open.spotify.com/artist/07r7OPIALkj6Icaoj4Kf5l) | [Hollywood Dead](https://open.spotify.com/album/3akQkZNIlInmaiaQ6OIFnP) | 2:37 | 2023-08-25 | 2023-09-09 |
+| [Holy Ghost](https://open.spotify.com/track/3kKVjpgY1UQW3ikr0AhMZg) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Holy Ghost](https://open.spotify.com/album/2AUGXdf8CZckloBZfqY35g) | 2:38 | 2024-07-19 |  |
 | [HOLY TRINITY \(feat\. Rich The Kid\)](https://open.spotify.com/track/02D7cBNL1rpCkvTja8S1ns) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [HOLY TRINITY \(feat\. Rich The Kid\)](https://open.spotify.com/album/0ev0saRGsMUB9MxtWZnliz) | 2:35 | 2022-07-22 | 2022-08-13 |
 | [Holy Water](https://open.spotify.com/track/2FcbwSTgbQeweZv0bA9hI7) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [Holy Water](https://open.spotify.com/album/0IzNmO6dTVd1jebYlk6t41) | 3:20 | 2022-06-17 | 2022-07-02 |
 | [home](https://open.spotify.com/track/6Hl5dmIotzJ28pM5Fpsgq7) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [home](https://open.spotify.com/album/0ar0HuyI7ELptzJi1O0WhF) | 3:39 | 2022-06-24 | 2022-07-09 |
@@ -5525,7 +5526,7 @@
 | [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 | 2022-07-08 | 2022-07-30 |
 | [W4NNA DO](https://open.spotify.com/track/11sA5C9rqjatq2eXzL8y33) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [W4NNA DO](https://open.spotify.com/album/0eOYz7FB11TFzjlbdJRL4h) | 2:19 | 2023-06-30 | 2023-07-15 |
 | [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 | 2023-04-07 | 2023-04-29 |
-| [Wahala](https://open.spotify.com/track/0V4ie5PXFiWXEd2XldImGr) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Adekunle Gold](https://open.spotify.com/artist/01w3jMWzWYm2INkQDkr2QW), [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Alusa Why Are You Topless? \(Deluxe\)](https://open.spotify.com/album/6piDT78sQ40k6xC5r9A8st) | 3:27 | 2024-07-19 |  |
+| [Wahala](https://open.spotify.com/track/0V4ie5PXFiWXEd2XldImGr) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Alusa Why Are You Topless? \(Deluxe\)](https://open.spotify.com/album/6piDT78sQ40k6xC5r9A8st) | 3:27 | 2024-07-19 |  |
 | [Wait \- from ‘Three Months’](https://open.spotify.com/track/70iazIU8mYvhSouvV7LZir) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Wait \(from ‘Three Months’\)](https://open.spotify.com/album/1GnTOysHh33Zw6FqVWcV9q) | 3:29 | 2022-02-25 | 2022-03-12 |
 | [Wait For You](https://open.spotify.com/track/0NZvn9BwjmFVcVkOiaEObS) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Wait For You](https://open.spotify.com/album/1g8TrWPCzdTW6VuXWhuVSo) | 2:55 | 2024-04-12 | 2024-04-27 |
 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 | 2023-05-19 | 2023-06-03 |

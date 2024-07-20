@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from JADE \(pictured\), Glass Animals, Childish Gambino and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 855,049 likes - 120 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 855,310 likes - 120 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 73 | [I Feel You](https://open.spotify.com/track/1FjrTr0IVabwKR93xUR6FS) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [I Feel You](https://open.spotify.com/album/5nO3sdRL4yMFlmFtl7TMJB) | 2:36 |
 | 74 | [One Thousand Waves](https://open.spotify.com/track/1mYROkVrR8J8Zg87GhcGIs) | [Palms Trax](https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [One Thousand Waves](https://open.spotify.com/album/1uyFMVG3dOwjx9nVBMJlqC) | 3:46 |
 | 75 | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/track/1lnxr4wngiu820gv1HCbGM) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/album/1HM1VgJl9i35DVwlepdTd8) | 2:39 |
-| 76 | [Wahala](https://open.spotify.com/track/0V4ie5PXFiWXEd2XldImGr) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Adekunle Gold](https://open.spotify.com/artist/01w3jMWzWYm2INkQDkr2QW), [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Alusa Why Are You Topless? \(Deluxe\)](https://open.spotify.com/album/6piDT78sQ40k6xC5r9A8st) | 3:27 |
+| 76 | [Wahala](https://open.spotify.com/track/0V4ie5PXFiWXEd2XldImGr) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Alusa Why Are You Topless? \(Deluxe\)](https://open.spotify.com/album/6piDT78sQ40k6xC5r9A8st) | 3:27 |
 | 77 | [Firefight](https://open.spotify.com/track/4dnRA4RkcxIPtKpvKpo7um) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Firefight](https://open.spotify.com/album/1EFQeU8UvvTF0416pl5vOq) | 3:52 |
 | 78 | [Unbelievable](https://open.spotify.com/track/4NVyvRuKdJXqC7vnJycVjb) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [Unbelievable](https://open.spotify.com/album/7uBzED8vXwazMC9Q3MHY0q) | 3:23 |
 | 79 | [Who You Are](https://open.spotify.com/track/43x0LVirLOE7SdCoIF4g6E) | [Kate Wild](https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l) | [Who You Are](https://open.spotify.com/album/7u2oqYwKa6b2fBm0VJiCo1) | 3:01 |

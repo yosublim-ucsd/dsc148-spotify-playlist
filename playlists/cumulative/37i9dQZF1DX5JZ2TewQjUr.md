@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: 小本生燈XSGACHA
 
-1,096 songs - 2 day 14 hr 3 min
+1,097 songs - 2 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [INFINITY](https://open.spotify.com/track/18YVgGscS1ILP2vSQwFtOJ) | [J Jelly](https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj) | [INFINITY](https://open.spotify.com/album/6lLBRkAWPxhufoe5ySQMMo) | 3:36 | 2022-12-15 | 2023-03-18 |
 | [INSECURE](https://open.spotify.com/track/1QmXQ90HCMe9jCM0xrCdI4) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [INSECURE](https://open.spotify.com/album/4ct723N4CptKNkpDF8mls8) | 3:01 | 2022-09-22 | 2023-03-18 |
 | [Inside My Head](https://open.spotify.com/track/2gqK1yJ6FBSPhJdmLf0I9W) | [Bedroom Party](https://open.spotify.com/artist/2aSJ9BDyUpJgndRanmLCdr) | [Inside My Head](https://open.spotify.com/album/49hKtHlS7FU9tAuDkxHMlS) | 4:14 | 2023-04-06 | 2023-07-14 |
+| [Inside Wanna Out](https://open.spotify.com/track/6UXqcSW9E1WVMaaUiykWQJ) | [lut](https://open.spotify.com/artist/5sBywQe9mQOArGxfF5i30R) | [Inside Wanna Out](https://open.spotify.com/album/7sxd4XHLaSYliu2AVdS5uw) | 3:30 | 2024-07-18 |  |
 | [It's all just coming back...](https://open.spotify.com/track/74w9yu737MPyC80EspUWni) | [CHRIS KENG](https://open.spotify.com/artist/3DbMgFXRrouUdW92AD9pdu) | [It's all just coming back...](https://open.spotify.com/album/73OvVDkLfASBQBTv5beZOT) | 2:43 | 2024-05-02 |  |
 | [It's Starting to Rain](https://open.spotify.com/track/0EwaVbFSx9crgupRCW5ybI) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [It's Starting to Rain](https://open.spotify.com/album/1z60IEouly3HMUxVRHY5U8) | 3:33 | 2023-05-25 | 2023-07-14 |
 | [It's Starting to Rain](https://open.spotify.com/track/34zi4KYkM2Xh4utbUSk0qE) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [It's Starting to Rain](https://open.spotify.com/album/5lYKLyu7mfLm2sPRVqRUzP) | 3:33 | 2023-04-13 | 2023-06-01 |

@@ -4,7 +4,7 @@
 
 > pov: u hand the internet the aux
 
-282 songs - 14 hr 39 min
+283 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Chicago](https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [XSCAPE](https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ) | 4:05 | 2023-12-15 | 2024-05-07 |
 | [Chill Like That](https://open.spotify.com/track/2UwgoIMAYT0pDOxUFTjEVJ) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [PiCKUPLiNES](https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi) | [Chill Like That](https://open.spotify.com/album/189CZXjmGJs7PzbQ0S5WVf) | 2:58 | 2022-10-28 | 2023-07-19 |
 | [Clear \- Shawn Wasabi Remix](https://open.spotify.com/track/4wigqUPahl2Inid0B3IxKq) | [Pusher](https://open.spotify.com/artist/2exudSjTjUksRJhnF5JZYn) | [Clear \(feat\. Mothica\) \- EP](https://open.spotify.com/album/6oCsp4ctsspRKZW6O3e0Jd) | 2:55 | 2021-12-03 | 2022-04-20 |
-| [CLEARED \- Remix](https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH) | [Lilithzplug](https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo) | [Meet The Lilithz](https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5) | 2:06 | 2024-01-08 |  |
+| [CLEARED \- Remix](https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH) | [Lilithzplug](https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo) | [Meet The Lilithz](https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5) | 2:06 | 2024-01-08 | 2024-07-20 |
 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 | 2021-12-03 | 2024-01-27 |
 | [Coconuts](https://open.spotify.com/track/71yN0yrHej3jhKXewbmtEh) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Coconuts](https://open.spotify.com/album/7y44knAD5qeji4WbavIQxC) | 2:48 | 2022-02-10 | 2022-07-23 |
 | [Come Check This](https://open.spotify.com/track/3ImnbJHoSy5uUhC0ydBVI9) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Come Check This](https://open.spotify.com/album/6YnEvQjRcWyAAxm7dXNEfs) | 3:11 | 2024-02-23 | 2024-06-22 |
@@ -284,6 +284,7 @@
 | [Winona](https://open.spotify.com/track/3ilkEyg6OCtd9qCnOJkPzU) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Winona](https://open.spotify.com/album/3IxfZFzG7NM4rRovxBhguw) | 8:31 | 2021-12-03 | 2022-04-21 |
 | [Work It \- Soulwax Remix](https://open.spotify.com/track/6WfL1pwMyFf3IvFWLnre4P) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Work It \(Soulwax Remix\)](https://open.spotify.com/album/074U95kLP3roPuXrpjTYtT) | 4:46 | 2021-12-03 | 2022-04-21 |
 | [Would You \(go to bed with me?\)](https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Would You \(go to bed with me?\)](https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1) | 2:00 | 2023-10-11 | 2023-12-02 |
+| [wutiwant](https://open.spotify.com/track/6zsUUymWPtq5bkoc5y97cM) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/4NHsl52eIxHX3ZGh66ZYUx) | 3:13 | 2024-07-19 |  |
 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 | 2021-12-03 | 2022-04-19 |
 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-26 | 2024-03-30 |
 | [You Will See](https://open.spotify.com/track/7l6AuWpDlecpVxI0Yq4zmI) | [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY), [SESA](https://open.spotify.com/artist/7HgOnmGGMNtNOzo6Rbs1fQ) | [You Will See](https://open.spotify.com/album/3msZ8noFEpIw19fsd3fxay) | 2:23 | 2024-03-25 |  |

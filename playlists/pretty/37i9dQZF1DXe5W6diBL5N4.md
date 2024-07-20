@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: NCT 127\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,815 likes - 396 songs - 22 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,940 likes - 396 songs - 22 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -389,7 +389,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 379 | [T's Romance](https://open.spotify.com/track/2y7gIe8OxxVFcnA6lTNZ43) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [T's Romance](https://open.spotify.com/album/32CToDkpNb9atIHaGRfWh2) | 2:54 |
 | 380 | [Serious](https://open.spotify.com/track/4nzNbC3d0LGPQ0g814BftR) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Serious](https://open.spotify.com/album/56Xd5wZcEsTF32XuuCVNcj) | 3:06 |
 | 381 | [GO FOR IT](https://open.spotify.com/track/3yAQgYaPG6OjgV7Aej0C5G) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [GO FOR IT](https://open.spotify.com/album/4z3TLVNdST1A1awgGGxl07) | 3:16 |
-| 382 | [MY TYPE](https://open.spotify.com/track/5dzp1wsMTjpE92nGfOfRWL) | [이승훈](https://open.spotify.com/artist/2bSgbFKtB6PZmmVZ1hkFP2) | [MY TYPE](https://open.spotify.com/album/1d5olC4iaad6p0vu5HI0qZ) | 2:50 |
+| 382 | [MY TYPE](https://open.spotify.com/track/5dzp1wsMTjpE92nGfOfRWL) | [LEE SEUNGHOON](https://open.spotify.com/artist/2bSgbFKtB6PZmmVZ1hkFP2) | [MY TYPE](https://open.spotify.com/album/1d5olC4iaad6p0vu5HI0qZ) | 2:50 |
 | 383 | [Shining on you](https://open.spotify.com/track/3IsCZMnFNRssjVSF8YBbZW) | [WOOAH](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [Shining on you](https://open.spotify.com/album/7t8xBLIkt24xrDwvyfzUJ5) | 3:28 |
 | 384 | [All Day](https://open.spotify.com/track/44dD5PYO7ZM6SiM8tjhawx) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [All Day](https://open.spotify.com/album/3PGMnYo3uTCroKf64s8RHm) | 2:27 |
 | 385 | [Klaxon](https://open.spotify.com/track/294hRgOqnGW2BemqP8D35X) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I SWAY](https://open.spotify.com/album/5WzUVTkKAvOayPui3DnsDz) | 2:55 |

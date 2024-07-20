@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-531 songs - 1 day 4 hr 5 min
+532 songs - 1 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Corte Caco \- Remix](https://open.spotify.com/track/2ijnr0x5lJwiawhVEfoeu3) | [Nuke](https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi) | [Corte Caco \(Remix\)](https://open.spotify.com/album/3WpkI8y48aGBQ5zz9t6phN) | 3:34 | 2024-05-14 | 2024-06-03 |
 | [COSAS RICAS](https://open.spotify.com/track/6VU4Itrp66sFoD6cMe4ZA7) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:40 | 2024-05-07 | 2024-05-14 |
 | [Cuando Se Te Moja La Tare](https://open.spotify.com/track/00EVTGFVlGQ5ZNmiUvR2H8) | [LDRR](https://open.spotify.com/artist/2DtIt7mMzdaEEFVUbSmnoU) | [Cuando Se Te Moja La Tare](https://open.spotify.com/album/1yFMpxt43h5giRPJka6VS8) | 3:11 | 2024-06-14 | 2024-06-19 |
-| [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/track/5OwAhFlvFZ4ZdGDfroYgAm) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/album/5B3AaoOK8o22cYkdoBOVFI) | 3:38 | 2024-07-16 |  |
+| [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/track/3KeYEr9ogMBemsOfQIJmZp) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/album/4u5sL85dlRv7eIMJIozZl8) | 3:38 | 2024-07-19 |  |
+| [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/track/5OwAhFlvFZ4ZdGDfroYgAm) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/album/5B3AaoOK8o22cYkdoBOVFI) | 3:38 | 2024-07-16 | 2024-07-20 |
 | [Cuando Tus Ojos Me Ven](https://open.spotify.com/track/6IoFhWzXm4vMs7YaKrzR2Y) | [uni](https://open.spotify.com/artist/6jeR6yw4TRocXdVOj603mW) | [Cuando Tus Ojos Me Ven](https://open.spotify.com/album/6lfXpaBMaT6JMBqFXOeAoR) | 2:58 | 2024-04-09 | 2024-04-28 |
 | [Cuarteto Sessions \#3](https://open.spotify.com/track/28v5fIoIa2Y07nqAXgBcXC) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Cuarteto Sessions \#3](https://open.spotify.com/album/2iDxLzsD09N23JARBiIGPA) | 8:20 | 2024-01-29 | 2024-04-15 |
 | [CUTE DEPRESSED](https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf) | [Dyan Dxddy](https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx) | [CUTE DEPRESSED](https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ) | 1:36 | 2024-03-23 | 2024-04-10 |

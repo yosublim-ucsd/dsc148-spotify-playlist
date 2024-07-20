@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,282 likes - 100 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,278 likes - 100 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,9 +98,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 88 | [Nothing But the Blood](https://open.spotify.com/track/0lY7aTxHRprImCO03ueK5d) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 8](https://open.spotify.com/album/10mYLdNmVV5zvPO6EVxzPB) | 4:46 |
 | 89 | [Bless The One \- Live](https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [SPACE](https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw) | 4:58 |
 | 90 | [My Victory](https://open.spotify.com/track/3jk8YdCPkdXZRAoXBn1cKB) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Passion: Salvation’s Tide Is Rising](https://open.spotify.com/album/0BXkvCb93t89mVfvWl2gop) | 4:28 |
-| 91 | [All For Love \(Gethsemane\) \- Live](https://open.spotify.com/track/1d0xX8GVn0oDPgHJXeIhi1) | [Worship Central](https://open.spotify.com/artist/3i0j8jwJKHchZU40nbd2Xt), [Anna Hellebronth](https://open.spotify.com/artist/2wcIL6FNIm7VRtM2LBMDPz), [Luke Hellebronth](https://open.spotify.com/artist/26RpO1zRTbfhvP4DlHKn6I), [Luke + Anna Hellebronth](https://open.spotify.com/artist/4WUF78qaUIBG0uH1JiDztL) | [All For Love \(Gethsemane\) \[Live\]](https://open.spotify.com/album/64tv60oZXF3ldHggaW48vn) | 5:14 |
+| 91 | [My King and My Defender](https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U) | [Nate Gardiner](https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI) | [My King and My Defender](https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1) | 5:20 |
 | 92 | [Jesus Victorious](https://open.spotify.com/track/6zQCsfV2xYrpeq7OkL2uTm) | [Mozaiek Worship](https://open.spotify.com/artist/7h4EivNSDwUKAn0O2EVYqZ), [Kees Kraayenoord](https://open.spotify.com/artist/10WtuxUJ22JY0d03VCT070) | [Jesus Victorious](https://open.spotify.com/album/32SVBmVICRKdy1WMsReKZy) | 6:18 |
-| 93 | [My King and My Defender](https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U) | [Nate Gardiner](https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI) | [My King and My Defender](https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1) | 5:20 |
+| 93 | [All For Love \(Gethsemane\) \- Live](https://open.spotify.com/track/1d0xX8GVn0oDPgHJXeIhi1) | [Worship Central](https://open.spotify.com/artist/3i0j8jwJKHchZU40nbd2Xt), [Anna Hellebronth](https://open.spotify.com/artist/2wcIL6FNIm7VRtM2LBMDPz), [Luke Hellebronth](https://open.spotify.com/artist/26RpO1zRTbfhvP4DlHKn6I), [Luke + Anna Hellebronth](https://open.spotify.com/artist/4WUF78qaUIBG0uH1JiDztL) | [All For Love \(Gethsemane\) \[Live\]](https://open.spotify.com/album/64tv60oZXF3ldHggaW48vn) | 5:14 |
 | 94 | [Thank You](https://open.spotify.com/track/4nzSgYDePiYrLJbrxqE36p) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [Thank You](https://open.spotify.com/album/344FLgN07l7Ye9un6qWaNu) | 4:33 |
 | 95 | [The Resurrection](https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy) | [Easter Project](https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB) | 4:33 |
 | 96 | [Upon Him](https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Upon Him](https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05) | 4:01 |

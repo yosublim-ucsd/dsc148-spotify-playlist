@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל\. קאבר: דודו טסה
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,813 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,824 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 52 | [מעונה לעונה](https://open.spotify.com/track/22jXWfwJBMhBXgA9rVDffX) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [מעונה לעונה](https://open.spotify.com/album/05Fd43H9kijfdRJECTCYBV) | 3:33 |
 | 53 | [במקום אחר](https://open.spotify.com/track/6m3qxagd6VP0zpBnfd6MXi) | [Yoni Rechter](https://open.spotify.com/artist/05YG290otZjn1UMHXjEqxh) | [במקום אחר](https://open.spotify.com/album/0Ch02uieisTBRUvU3i5vfJ) | 3:25 |
 | 54 | [אני רוצה את החיים שלי בחזרה](https://open.spotify.com/track/6XXmUYotqTIbx9xOd9lQqW) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [אני רוצה את החיים שלי בחזרה](https://open.spotify.com/album/6LJUzUbBtkwmgpCosXc0jh) | 2:48 |
-| 55 | [Wishing Girl \- Lola Marsh Cover](https://open.spotify.com/track/7tiXgnhKPsHDxYvfe85paQ) | [Daniella Tourgeman](https://open.spotify.com/artist/7qp55YAqM5IcqzSpmoi3O7), [Maor Shvartzberg](https://open.spotify.com/artist/0lQpHeiH1mC9GkSPSQvj65) | [Singles](https://open.spotify.com/album/2fXHQgcncO7Em0PcRKTE05) | 3:59 |
-| 56 | [עת לאהוב](https://open.spotify.com/track/1dK2qSifRQNbHlhgImIstf) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [עת לאהוב](https://open.spotify.com/album/2EN0t3s8obVmls1bxVbcHO) | 3:08 |
-| 57 | [Smile Again](https://open.spotify.com/track/1lQjJ8jEgRtlvHWK16JyER) | [Aviram](https://open.spotify.com/artist/7qRREBnshFcjRrO934sLF8) | [You Are What You Do](https://open.spotify.com/album/2zpV0nJZs5H56fETTAynlx) | 3:20 |
+| 55 | [Smile Again](https://open.spotify.com/track/1lQjJ8jEgRtlvHWK16JyER) | [Aviram](https://open.spotify.com/artist/7qRREBnshFcjRrO934sLF8) | [You Are What You Do](https://open.spotify.com/album/2zpV0nJZs5H56fETTAynlx) | 3:20 |
+| 56 | [Wishing Girl \- Lola Marsh Cover](https://open.spotify.com/track/7tiXgnhKPsHDxYvfe85paQ) | [Daniella Tourgeman](https://open.spotify.com/artist/7qp55YAqM5IcqzSpmoi3O7), [Maor Shvartzberg](https://open.spotify.com/artist/0lQpHeiH1mC9GkSPSQvj65) | [Singles](https://open.spotify.com/album/2fXHQgcncO7Em0PcRKTE05) | 3:59 |
+| 57 | [עת לאהוב](https://open.spotify.com/track/1dK2qSifRQNbHlhgImIstf) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [עת לאהוב](https://open.spotify.com/album/2EN0t3s8obVmls1bxVbcHO) | 3:08 |
 | 58 | [Petrified](https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV) | [David Lerner](https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR) | [Petrified](https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP) | 4:12 |
-| 59 | [שוב לא יכולתי לישון](https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [Eder 2 Lipschitz](https://open.spotify.com/artist/2omk6v84kD0vX9TaAZ7jR2), [יהודה עדר](https://open.spotify.com/artist/5LhqNdFK1YXr8qcf7is7Kh), [הרי ליפשיץ](https://open.spotify.com/artist/3JygULwEzXNWvwWyhJMP5s) | [שוב לא יכולתי לישון](https://open.spotify.com/album/43mFIYYPdf1tqmpqYA1wpM) | 3:10 |
-| 60 | [אפוקליפסה](https://open.spotify.com/track/2F3vpzuGutSHZNDtCulFtA) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [כישוף](https://open.spotify.com/album/1DwHJ5aREc5hKCyv6uI1Eg) | 3:17 |
+| 59 | [אפוקליפסה](https://open.spotify.com/track/2F3vpzuGutSHZNDtCulFtA) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [כישוף](https://open.spotify.com/album/1DwHJ5aREc5hKCyv6uI1Eg) | 3:17 |
+| 60 | [שוב לא יכולתי לישון](https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [Eder 2 Lipschitz](https://open.spotify.com/artist/2omk6v84kD0vX9TaAZ7jR2), [יהודה עדר](https://open.spotify.com/artist/5LhqNdFK1YXr8qcf7is7Kh), [הרי ליפשיץ](https://open.spotify.com/artist/3JygULwEzXNWvwWyhJMP5s) | [שוב לא יכולתי לישון](https://open.spotify.com/album/43mFIYYPdf1tqmpqYA1wpM) | 3:10 |
 
 Snapshot ID: `ZpmCUAAAAAB6b2yTjadSp8jR/L91+h/b`

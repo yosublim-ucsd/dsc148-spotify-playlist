@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,991,303 likes - 100 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,991,184 likes - 100 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 38 | [One Of The Girls \- Sped Up](https://open.spotify.com/track/4WfGDkm99oLJSAtELYZYEd) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [One of the Girls](https://open.spotify.com/album/4T8wBxIvoSRVfoFZzuwOXR) | 3:35 |
 | 39 | [Shameless \- Sped Up](https://open.spotify.com/track/5x3AF6IPLYPLbymfZV82Kh) | [Lewis Hanton](https://open.spotify.com/artist/7C2uVXwFKLlwHteHGnMLhZ) | [Shameless \(Sped Up\)](https://open.spotify.com/album/4ED5qxUpAgtOk8CIkoRFi6) | 3:13 |
 | 40 | [Atlantis \- Extra Sped Up Version](https://open.spotify.com/track/3u6PxWema1snbjLbFEyjkJ) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [Atlantis](https://open.spotify.com/album/16Q4jVtBWq9UNO78ZLOvwk) | 3:10 |
-| 41 | [Si No Estás \- Sped Up](https://open.spotify.com/track/61tCa29zrdJ6y2WbgGlHLv) | [Formula Speed](https://open.spotify.com/artist/2nQICMBSbxi0lojZH8WB3b) | [Si No Estás \(Sped Up\)](https://open.spotify.com/album/4G9kPHRXsREM1Gd1feSyk3) | 2:19 |
+| 41 | [The Middle](https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [The Middle](https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq) | 2:27 |
 | 42 | [Say Yes To Heaven \- Sped Up](https://open.spotify.com/track/2f5WkystuejnBzgV18GTGa) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 2:36 |
-| 43 | [The Middle](https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [The Middle](https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq) | 2:27 |
+| 43 | [Si No Estás \- Sped Up](https://open.spotify.com/track/61tCa29zrdJ6y2WbgGlHLv) | [Formula Speed](https://open.spotify.com/artist/2nQICMBSbxi0lojZH8WB3b) | [Si No Estás \(Sped Up\)](https://open.spotify.com/album/4G9kPHRXsREM1Gd1feSyk3) | 2:19 |
 | 44 | [9 bis 9 Sped Up \- Shirli Version](https://open.spotify.com/track/5FmcqoKNe4pZqWrCVlVASl) | [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [Shirli](https://open.spotify.com/artist/55OIH32lgBeGjYZRpw4RNv) | [9 bis 9 Sped Up \(Shirli Version\)](https://open.spotify.com/album/5MjrVXkV1bRv2wxuYCdPgq) | 1:41 |
 | 45 | [Kill Bill \- Sped Up Version](https://open.spotify.com/track/2ty6DmPnxVPpEFuB23XM0x) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kill Bill](https://open.spotify.com/album/63nEYsFMdabB1qkWCOhsv7) | 2:17 |
 | 46 | [Daylight \- Sped Up](https://open.spotify.com/track/3Scolo2qkKcTNVI3GOsKAP) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight \(Reimagined\)](https://open.spotify.com/album/3HGXJ3VnxgW0KEEzQy5GCZ) | 2:49 |

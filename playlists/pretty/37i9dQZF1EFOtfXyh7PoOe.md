@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 68 | [Hectic](https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Hectic](https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB) | 2:37 |
 | 69 | [Anyway](https://open.spotify.com/track/6wRJbAQrvKdIDZH2THGStG) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Garden](https://open.spotify.com/album/4c2hxhsZlNzGhZZozQObEj) | 2:29 |
 | 70 | [Man Still Cries](https://open.spotify.com/track/37Sq87EEERNJbGulpfmTYA) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Things I Can't Say Out Loud](https://open.spotify.com/album/1KRP8aalo8bVkOuYhMFO10) | 2:55 |
-| 71 | [Dreams](https://open.spotify.com/track/7gBGGzKWbtmV7IsyFSPVBj) | [MARC](https://open.spotify.com/artist/7tRXG934ruoJ3SAKzCa5ap) | [Dreams](https://open.spotify.com/album/3eQbaZi6NMNuThITpVfC9r) | 3:20 |
-| 72 | [Empty](https://open.spotify.com/track/1LxLkxWL22Z9aJhkqrkUlz) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:28 |
+| 71 | [Empty](https://open.spotify.com/track/1LxLkxWL22Z9aJhkqrkUlz) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:28 |
+| 72 | [Dreams](https://open.spotify.com/track/7gBGGzKWbtmV7IsyFSPVBj) | [MARC](https://open.spotify.com/artist/7tRXG934ruoJ3SAKzCa5ap) | [Dreams](https://open.spotify.com/album/3eQbaZi6NMNuThITpVfC9r) | 3:20 |
 | 73 | [autopilot](https://open.spotify.com/track/7o7A2Ne5pe7JHBzdpSgBua) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [about the party](https://open.spotify.com/album/3tfHqNvu8jksogQMBd7VX8) | 2:34 |
 | 74 | [Maria](https://open.spotify.com/track/5uQ0DBnHROJiU5WcUqjnj0) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [You Know I Know \(Expanded Edition\)](https://open.spotify.com/album/6Z6lqEBbZq9Rbf7aYRxAZP) | 3:18 |
 | 75 | [Lifted](https://open.spotify.com/track/55sYZhDj9Ty9PTSLt3Ul9I) | [Joy Club](https://open.spotify.com/artist/2pl0xmKbMZHncAxBcYUs79), [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45) | [Lifted](https://open.spotify.com/album/31QmA5V5UbFNiiurEKoaCY) | 2:47 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 113 | [Beachgrass](https://open.spotify.com/track/0Hq9LR4QzB39RvrngZpzbA) | [HEAD BALLET](https://open.spotify.com/artist/1YWp4o7h26JLnz5strYI0E) | [Suddenly It's Making Sense](https://open.spotify.com/album/1qxtSUzztfc1zPouYoDDsI) | 2:39 |
 | 114 | [Machu Picchu](https://open.spotify.com/track/44Uo9mTbDfmpy2PTL3KuUD) | [kid ryan](https://open.spotify.com/artist/1ncjiTAfWX4ipmk1WMHeHL) | [Machu Picchu](https://open.spotify.com/album/5q6YYFkNQzffl1IYxgoD47) | 2:48 |
 
-Snapshot ID: `AbXFFAAAAAAMIY8L8H4+chaaXXZjbFn4`
+Snapshot ID: `AbXJDAAAAADj+05BRvag5CpYZaeW2Zy1`

@@ -4,7 +4,7 @@
 
 > Scary monsters and filthy drops.
 
-132 songs - 7 hr 49 min
+133 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Winter Is Coming \- Rome in Silver Remix](https://open.spotify.com/track/5HVt7dT8UY2BOlPZmOjpAO) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Neon Jungle Remixes](https://open.spotify.com/album/2DFDsmaWVdYxxkxGaPi2i2) | 3:26 | 2021-10-28 | 2023-05-03 |
 | [Witch](https://open.spotify.com/track/3xLrmOAz2nCTlWLt2cutMu) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Alina Pash](https://open.spotify.com/artist/2rC7t19zOtFIcJvmi6lH1i) | [I Killed The Orchestra EP](https://open.spotify.com/album/6aWB16Ri58NuFoUZZQAr9v) | 3:32 | 2021-10-28 |  |
 | [Witches, Witches, Witches \- The Living Tombstone Remix](https://open.spotify.com/track/3nECeZ2vi0Q8NwtBclexdH) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d), [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Witches, Witches, Witches \(The Living Tombstone Remix\)](https://open.spotify.com/album/5KvGorO0DxKf71OkIVpvAY) | 3:09 | 2023-09-22 |  |
+| [wutiwant](https://open.spotify.com/track/6zsUUymWPtq5bkoc5y97cM) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/4NHsl52eIxHX3ZGh66ZYUx) | 3:13 | 2024-07-19 |  |
 | [You Can't Hide](https://open.spotify.com/track/32filOsmivxaFHKLX6Ixth) | [Ck9c](https://open.spotify.com/artist/5GdjL6RkFagKcwkPu990Gg), [Elizabeth Ann](https://open.spotify.com/artist/2OMS3Dpaq62LEX9iirn7F5) | [You Can't Hide](https://open.spotify.com/album/5ugJHon7uBFj5nWIBxm7np) | 4:28 | 2021-10-28 |  |
 | [Zombie \(feat\. Valerie Broussard\)](https://open.spotify.com/track/5AZJbQwaYGHWCY53k7fO57) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Zombie \(feat\. Valerie Broussard\)](https://open.spotify.com/album/1uLMooNp9bB40khUJAqe5c) | 4:44 | 2023-10-31 |  |
 

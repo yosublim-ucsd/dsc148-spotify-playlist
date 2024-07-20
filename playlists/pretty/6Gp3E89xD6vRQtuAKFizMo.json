@@ -1,13 +1,81 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44237,
+  "num_followers": 44234,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZglCYI0h0J+96k9lGPnmHj2deaT2W",
+  "snapshot_id": "AAAZhmKxJCRF3UPscNASU6YEFHj4UZ6m",
   "tracks": [
+    {
+      "added_at": "2024-07-19 14:42:58",
+      "album": {
+        "name": "Rock It",
+        "url": "https://open.spotify.com/album/0Va6IqwgpkDhMjHgZzt2qq"
+      },
+      "artists": [
+        {
+          "name": "JSTJR",
+          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+        }
+      ],
+      "duration_ms": 140689,
+      "name": "Rock It",
+      "url": "https://open.spotify.com/track/5SfyxpDz7e7YcmVbZHn8OK"
+    },
+    {
+      "added_at": "2024-07-19 14:43:25",
+      "album": {
+        "name": "Down With The Rhythm",
+        "url": "https://open.spotify.com/album/3e4egIBmZjVnMEzp6h3zaX"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        }
+      ],
+      "duration_ms": 112750,
+      "name": "Down With The Rhythm",
+      "url": "https://open.spotify.com/track/3FB92HEq15q3U5c6EVJYYC"
+    },
+    {
+      "added_at": "2024-07-19 14:43:09",
+      "album": {
+        "name": "Rock It",
+        "url": "https://open.spotify.com/album/0Va6IqwgpkDhMjHgZzt2qq"
+      },
+      "artists": [
+        {
+          "name": "JSTJR",
+          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+        }
+      ],
+      "duration_ms": 205158,
+      "name": "I Don't Need",
+      "url": "https://open.spotify.com/track/4tprhjwyw50wkDHk2uEmyT"
+    },
+    {
+      "added_at": "2024-07-19 17:41:01",
+      "album": {
+        "name": "Alive (feat. Born Of Osiris)",
+        "url": "https://open.spotify.com/album/6KYVxR8kFO2MJCY2sfbQQn"
+      },
+      "artists": [
+        {
+          "name": "Dogma",
+          "url": "https://open.spotify.com/artist/2Yqpp9KVye0sP88SinqAPs"
+        },
+        {
+          "name": "Born Of Osiris",
+          "url": "https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Alive (feat. Born Of Osiris)",
+      "url": "https://open.spotify.com/track/7Dnxpf3jm60dfyqrnYkN6z"
+    },
     {
       "added_at": "2024-07-12 14:21:28",
       "album": {

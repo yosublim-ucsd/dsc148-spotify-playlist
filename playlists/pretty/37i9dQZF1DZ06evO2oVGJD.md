@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oVGJD.md) - [plain]
 
 ### [This Is Banda Pequeños Musical](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2oVGJD)
 
-> This is Banda Pequeños Musical\. The essential tracks, all in one playlist.
+> This Is Banda Pequeños Musical\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,902 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,935 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oVGJD.md) - [plain]
 | 49 | [No la quisiera lastimar](https://open.spotify.com/track/4Qwfdvkq6jhVXwA3GkZIxG) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Romantico incurable](https://open.spotify.com/album/3HsHoBwT4L04KIfkYAfWjO) | 3:23 |
 | 50 | [Quién es culpable](https://open.spotify.com/track/4fAWhwwaWPEjilW06dUJWb) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Recuerdos y algo más](https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg) | 3:21 |
 
-Snapshot ID: `ZpcJgAAAAADb/MyNDR0v9vRoa5y8dEo0`
+Snapshot ID: `ZphbAAAAAACAkYy9Ss3ZWBrWtlvBMzB6`

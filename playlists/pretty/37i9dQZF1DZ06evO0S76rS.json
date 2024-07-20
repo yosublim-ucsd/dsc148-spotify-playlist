@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
-  "num_followers": 142584,
+  "num_followers": 142631,
   "original_name": "This Is Grupo Niche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAAAXU+L3BLrjhVS9dnFkG3eO",
+  "snapshot_id": "ZphbAAAAAABpaTTpUYD1lVe7zkKcqzjL",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cali Pachanguero 40 A\u00f1os",
-        "url": "https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 287093,
-      "name": "Cali Pachanguero 40 A\u00f1os",
-      "url": "https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "10 De Colecci\u00f3n",
         "url": "https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 280266,
       "name": "La Canoa Ranchaa",
       "url": "https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cali Pachanguero 40 A\u00f1os",
+        "url": "https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 287093,
+      "name": "Cali Pachanguero 40 A\u00f1os",
+      "url": "https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 289440,
-      "name": "Un Alto en el Camino",
-      "url": "https://open.spotify.com/track/35Ns5gJpuNG06VvRlUX1nP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Prueba De Fuego",
         "url": "https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 282066,
       "name": "A Prueba De Fuego",
       "url": "https://open.spotify.com/track/3WIHqoLLeQ0m7zeJshfSpg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 289440,
+      "name": "Un Alto en el Camino",
+      "url": "https://open.spotify.com/track/35Ns5gJpuNG06VvRlUX1nP"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Triunfo",
-        "url": "https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 331673,
-      "name": "Listo Medell\u00edn",
-      "url": "https://open.spotify.com/track/6IIdauPFRfFJVuDskGRbcF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cielo De Tambores",
         "url": "https://open.spotify.com/album/3Ze1GGNL2Tw7v7BgnPlzNQ"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 264733,
       "name": "Debiera Olvidarla",
       "url": "https://open.spotify.com/track/3usWzVoV5d2mmWlmhSxfaQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Triunfo",
+        "url": "https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 331673,
+      "name": "Listo Medell\u00edn",
+      "url": "https://open.spotify.com/track/6IIdauPFRfFJVuDskGRbcF"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Sabe a Per\u00fa",
-        "url": "https://open.spotify.com/album/4ycsh8x6oNr9L1DdJLvXQX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 262653,
-      "name": "Me Sabe a Per\u00fa",
-      "url": "https://open.spotify.com/track/60uygJSldCifzLzPAUkgHD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Prueba De Fuego",
         "url": "https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 309746,
       "name": "Mec\u00e1nico",
       "url": "https://open.spotify.com/track/2kyyYYbP0MMqK2kEjqn2Eg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Sabe a Per\u00fa",
+        "url": "https://open.spotify.com/album/4ycsh8x6oNr9L1DdJLvXQX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 262653,
+      "name": "Me Sabe a Per\u00fa",
+      "url": "https://open.spotify.com/track/60uygJSldCifzLzPAUkgHD"
     },
     {
       "added_at": null,

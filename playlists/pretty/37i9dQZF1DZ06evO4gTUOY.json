@@ -1,12 +1,12 @@
 {
   "description": "This is Eminem. The essential tracks, all in one playlist.",
-  "num_followers": 3784370,
+  "num_followers": 3785526,
   "original_name": "This Is Eminem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAABonJlV/9NdoHV/FIQ/L7Tf",
+  "snapshot_id": "ZphbAAAAAAAAYFeE7ZiN4XflIg12N/oD",
   "tracks": [
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Marshall Mathers LP",
-        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+        "name": "The Marshall Mathers LP2",
+        "url": "https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj"
       },
       "artists": [
         {
@@ -348,13 +348,13 @@
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         },
         {
-          "name": "Dido",
-          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 404106,
-      "name": "Stan",
-      "url": "https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz"
+      "duration_ms": 250188,
+      "name": "The Monster",
+      "url": "https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Marshall Mathers LP2",
-        "url": "https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj"
+        "name": "The Marshall Mathers LP",
+        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
       },
       "artists": [
         {
@@ -388,13 +388,13 @@
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         },
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
         }
       ],
-      "duration_ms": 250188,
-      "name": "The Monster",
-      "url": "https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C"
+      "duration_ms": 404106,
+      "name": "Stan",
+      "url": "https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Marshall Mathers LP2 (Deluxe)",
-        "url": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 363521,
-      "name": "Rap God",
-      "url": "https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lace It (with Eminem & benny blanco)",
         "url": "https://open.spotify.com/album/5nOfPCLpHGpayGrUNHAPLt"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 217526,
       "name": "Lace It (with Eminem & benny blanco)",
       "url": "https://open.spotify.com/track/4qmG24ebshLXtKu9HIShBP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Marshall Mathers LP2 (Deluxe)",
+        "url": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 363521,
+      "name": "Rap God",
+      "url": "https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k"
     },
     {
       "added_at": null,
@@ -891,22 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music To Be Murdered By - Side B (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3MKvhQoFSrR2PrxXXBHe9B"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 222036,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/3eMsgWDRq5dKl5SBTYGv2J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No.6 Collaborations Project",
         "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 207760,
       "name": "Remember The Name (feat. Eminem & 50 Cent)",
       "url": "https://open.spotify.com/track/0AtP8EkGPn6SwxKDaUuXec"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3MKvhQoFSrR2PrxXXBHe9B"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 222036,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/3eMsgWDRq5dKl5SBTYGv2J"
     },
     {
       "added_at": null,

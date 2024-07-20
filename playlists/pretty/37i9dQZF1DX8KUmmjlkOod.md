@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 
 > Aquí no hay nostalgia, ¡se vino la pachanga!, y el <a href="spotify:user:spotify:playlist:37i9dQZF1DWT0pl0yubzJM">Rock Sónico</a> también!
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,884 likes - 80 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,902 likes - 80 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 | 75 | [Sin documentos](https://open.spotify.com/track/4BzQlAd7QUdqRydbEnO5R5) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Donde estabas tu..\. en el 93?](https://open.spotify.com/album/1RRiaLNLuvtlCLVM4x5JeI) | 4:45 |
 | 76 | [Cosa Peligrosa](https://open.spotify.com/track/4HE5NQxOYHA5kqMiS2xFSi) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos](https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q) | 3:23 |
 | 77 | [Hacé Lo Que Quieras](https://open.spotify.com/track/7FJ9mYg8SPHUhFMtFJL3Bs) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Big Yuyo](https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi) | 2:13 |
-| 78 | [Capitán América](https://open.spotify.com/track/1NhLJcFWLjrBax77kFft28) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Máscaras de Sal](https://open.spotify.com/album/4m2rRkMOGAowNa674LYU3y) | 3:08 |
+| 78 | [Si Tu Supieras](https://open.spotify.com/track/60oXNuRBSmeOMERo4jWbme) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteteando](https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN) | 4:46 |
 | 79 | [Te Quiero Tanto, No Me Preguntes Más](https://open.spotify.com/track/0sKaMeuhSx79DcDYClZl4s) | [Sergio Denis](https://open.spotify.com/artist/6J19N5JZkGRjuONpiizCIe) | [La Vida Vale La Pena](https://open.spotify.com/album/0tLOZucmNz4SGg42jjnA2B) | 3:29 |
-| 80 | [Si Tu Supieras](https://open.spotify.com/track/60oXNuRBSmeOMERo4jWbme) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteteando](https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN) | 4:46 |
+| 80 | [Capitán América](https://open.spotify.com/track/1NhLJcFWLjrBax77kFft28) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Máscaras de Sal](https://open.spotify.com/album/4m2rRkMOGAowNa674LYU3y) | 3:08 |
 
 Snapshot ID: `Zmot3gAAAAD9+DeQplEj7qkqHUrplZ/k`

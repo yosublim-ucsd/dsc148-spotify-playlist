@@ -4488,7 +4488,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 192000,
       "name": "Nattfrost",
       "url": "https://open.spotify.com/track/3fUemEodduDcg2XrhWDi5E"
@@ -4582,6 +4582,24 @@
       "duration_ms": 194250,
       "name": "No One Knows",
       "url": "https://open.spotify.com/track/55cj9j5lNgAsKIYjX2mJLm"
+    },
+    {
+      "album": {
+        "name": "Noctis",
+        "url": "https://open.spotify.com/album/4ELy8QXnCmFzgnXLx6IX3z"
+      },
+      "artists": [
+        {
+          "name": "Spatia Sonica",
+          "url": "https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Noctis",
+      "url": "https://open.spotify.com/track/67w1r47H4szGAGCbFOHnGr"
     },
     {
       "album": {
@@ -5154,7 +5172,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 129264,
       "name": "Porcelain",
       "url": "https://open.spotify.com/track/1p6B2W8oxPhLhkY9baZbi5"

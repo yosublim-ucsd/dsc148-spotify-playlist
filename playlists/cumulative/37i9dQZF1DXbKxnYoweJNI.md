@@ -4,7 +4,7 @@
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 雷擎 \(L8ching\)
 
-285 songs - 16 hr 32 min
+287 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,11 +80,13 @@
 | [She is a Dream Pop girl](https://open.spotify.com/track/7AIH2Yv5rg0gXNs0tAoSpq) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [She is a Dream Pop girl](https://open.spotify.com/album/1JcD5n1QyKHhJ1pnQMlhQi) | 3:23 | 2024-06-27 | 2024-07-12 |
 | [Silent Choir](https://open.spotify.com/track/2cB4qOucH67drKz1W5U4Dk) | [Elin Lee](https://open.spotify.com/artist/4SwNIde9PXmYXhcBJjPjFx), [薛詒丹](https://open.spotify.com/artist/4sbZb3GwHmK7Ou1PVA4U5z), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [Silent Choir](https://open.spotify.com/album/2UAIWUD7MNBn6WW5G3tTmE) | 3:09 | 2024-06-27 | 2024-07-05 |
 | [SLOW DOWN](https://open.spotify.com/track/7kZ6Zxxqcl0iJcPMqYYBiu) | [黃右年 ASSKiD](https://open.spotify.com/artist/6cNYPNxGCZowUuJo1qRJGl), [錯頻 Error Frequency](https://open.spotify.com/artist/1lDwoY702Ym4H79WGuGzCI) | [SLOW DOWN](https://open.spotify.com/album/1k5Yew7UAyhZi2HAl1Stgb) | 2:56 | 2024-07-11 |  |
+| [SMOKE BREAK](https://open.spotify.com/track/4ZJKEarUKMFDMAeWEKBo8u) | [BØBØ博](https://open.spotify.com/artist/23qXaU2gtRMA2Ua0cwOIWw) | [King of Nothin'](https://open.spotify.com/album/2KRynizrq4FXxthXkJ662h) | 3:33 | 2024-07-18 |  |
 | [Spida](https://open.spotify.com/track/6a2jVqRifvjIm2Ss4MytRe) | [艾蜜莉AMILI](https://open.spotify.com/artist/2yphKbezBLHQNhrVEA4Uup) | [Spida](https://open.spotify.com/album/705xYov1om0QrNrMwvveN5) | 2:45 | 2024-06-27 | 2024-07-05 |
 | [Target](https://open.spotify.com/track/6VG5dIsR8cJgIGM8NcNKqG) | [SEAN](https://open.spotify.com/artist/2r5gcymeLgFeXy0Wyic3Kn) | [Target](https://open.spotify.com/album/0sAxJfWeIIfxI8hBmHPXZY) | 2:21 | 2024-07-18 |  |
 | [Tears](https://open.spotify.com/track/3gOvPBQ3sYgHkeqD5dFpCM) | [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [Tears](https://open.spotify.com/album/3Sd3nOBnWfHsUiMxjEgoKk) | 4:28 | 2024-06-27 |  |
 | [Tell Me You're Lying](https://open.spotify.com/track/3zLDa1Blg2FglqUFAxbgAV) | [Jeffery C](https://open.spotify.com/artist/1pu8bqVGuRDYyTOQMLqv86), [Ulyss](https://open.spotify.com/artist/5bEvbRrEjpjRyHm92aY4Ly) | [Tell Me You're Lying](https://open.spotify.com/album/3d4IAze78tgMmOmWYi4zqR) | 2:46 | 2024-06-27 |  |
 | [the times](https://open.spotify.com/track/23cJ3kcBhVPBfahKdGiMdC) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [the times](https://open.spotify.com/album/3TMpgWsJqpVMhV2kEJxjdL) | 2:50 | 2024-07-04 |  |
+| [Venus](https://open.spotify.com/track/1s9FdKJjr63araJ9KeCYkl) | [Ty.](https://open.spotify.com/artist/2GFsWXpTIn6G1kRjW3RAQX), [KKECHO](https://open.spotify.com/artist/6yhdWGnuqiOcdb5Twh4z6U) | [Venus](https://open.spotify.com/album/4Ayl1iiMoTnthVN3KkWrjU) | 2:08 | 2024-07-18 |  |
 | [WAKE UP](https://open.spotify.com/track/2HBUXuh9PBnkg6Q97HnMLj) | [DEW](https://open.spotify.com/artist/0cx8Y0CHBbSVWtAufwKdhk), [阿蘭 AC](https://open.spotify.com/artist/4rmyrkHJMMD1i00eFs5jem) | [WAKE UP](https://open.spotify.com/album/3C5vFNvPNY86KQO7deNC3m) | 3:24 | 2024-06-27 | 2024-07-05 |
 | [WAVE \(feat\. 滄桑Cang333\)](https://open.spotify.com/track/5ODgsjimVEZ96a7LCksAVj) | [郑润泽](https://open.spotify.com/artist/6KKqrrPtPB4eR1T5DT6dJ4), [沧桑Cang333](https://open.spotify.com/artist/6Wa2NjG5eC7NtWb28cUBgv) | [WAVE](https://open.spotify.com/album/1ef0XNmJuT16J9oPk8cviL) | 2:42 | 2024-06-27 | 2024-07-05 |
 | [We Are Young](https://open.spotify.com/track/1fWFbflSDDddc7uVXu4CZc) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [We Are Young](https://open.spotify.com/album/6CCr8iEUHHyOtNcN6i28GH) | 3:00 | 2024-06-27 | 2024-07-19 |

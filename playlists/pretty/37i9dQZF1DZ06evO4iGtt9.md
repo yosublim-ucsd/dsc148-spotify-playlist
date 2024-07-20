@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 
 > This is Timaya\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,849 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,850 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 | 33 | [Dem Mama](https://open.spotify.com/track/5dFakr97SUs0pcVMYY6a3c) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [True Story](https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB) | 4:09 |
 | 34 | [Something Must to Kill a Man](https://open.spotify.com/track/4Yy4zBe6F5qMFTlRWZOUSq) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 3:06 |
 | 35 | [Bom Bom](https://open.spotify.com/track/4krZBMENG6coQYEaZkVvHP) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Upgrade](https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE) | 3:38 |
-| 36 | [Samankwe](https://open.spotify.com/track/0O7hr1gLAktDObqnoUnjSE) | [HarrySong](https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Samankwe](https://open.spotify.com/album/0kFolnvDYsBzn9QlzeJprS) | 3:32 |
+| 36 | [Dem Mama Anthem](https://open.spotify.com/track/3EIQWn1o7hDAIPFiKw5cQZ) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [2Solo](https://open.spotify.com/artist/1VEt0NXNZxUhoEZLL0kVte), [Recoba](https://open.spotify.com/artist/2AFc4oxDKb1Jk0uSt8OS0U) | [Gift And Grace](https://open.spotify.com/album/51PvKjkkUQ7IPjVprJxcsb) | 4:32 |
 | 37 | [True Story](https://open.spotify.com/track/154wqt2t7LYUHFEjjjgfhI) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [True Story](https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB) | 4:25 |
-| 38 | [Dem Mama Anthem](https://open.spotify.com/track/3EIQWn1o7hDAIPFiKw5cQZ) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [2Solo](https://open.spotify.com/artist/1VEt0NXNZxUhoEZLL0kVte), [Recoba](https://open.spotify.com/artist/2AFc4oxDKb1Jk0uSt8OS0U) | [Gift And Grace](https://open.spotify.com/album/51PvKjkkUQ7IPjVprJxcsb) | 4:32 |
+| 38 | [Samankwe](https://open.spotify.com/track/0O7hr1gLAktDObqnoUnjSE) | [HarrySong](https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Samankwe](https://open.spotify.com/album/0kFolnvDYsBzn9QlzeJprS) | 3:32 |
 | 39 | [Bam Bam](https://open.spotify.com/track/6ZDCQ5POJp2ijoguRxqYRx) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Bam Bam](https://open.spotify.com/album/1wpspq0ag31exULhDaG16S) | 3:40 |
 | 40 | [My Body](https://open.spotify.com/track/3IjY93g9VbfEyLRuEeRec7) | [Solidstar](https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Solidstar](https://open.spotify.com/album/7ArDChlfOAGE3jBOe507xq) | 3:38 |
 | 41 | [Ah Blem Blem](https://open.spotify.com/track/3FLmb7sK9KJeMoQtdq85QL) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Ah Blem Blem](https://open.spotify.com/album/4hK4A6Fhhb5cKywlX0XQ7N) | 3:26 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 | 44 | [No Pressure](https://open.spotify.com/track/2ZfwMwiJnti8JUZAHzvBnG) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [No Pressure](https://open.spotify.com/album/6DB4harKpwZ2IYfwsV6Qs8) | 2:57 |
 | 45 | [Givin Dem](https://open.spotify.com/track/4HDdq1RWhIBgAm5xOrqN32) | [Yung Willis](https://open.spotify.com/artist/0499FesCSNLjH8MmbeXQmr), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Kabusa Oriental Choir](https://open.spotify.com/artist/4YrSRLOhFdbVvToiE2nlpj) | [Givin Dem](https://open.spotify.com/album/4vQbd0xwxmhE1zlIm1Gr7x) | 2:34 |
 | 46 | [Erima](https://open.spotify.com/track/0FP8sMKAMM6YPhI87sOswq) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Erima](https://open.spotify.com/album/0CwSh6QbgD9EQIwtRB19bJ) | 3:30 |
-| 47 | [Gbagam](https://open.spotify.com/track/5ABuekPHIQEbkKiIe5o6Nx) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Deetii](https://open.spotify.com/artist/6FU92TtrjOCgI9Yg3y94VH) | [Epiphany](https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL) | 3:07 |
-| 48 | [Tsunami](https://open.spotify.com/track/6zMqOooNZpUf4397XCgWfF) | [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Tsunami](https://open.spotify.com/album/2QZtpJhtNTNbCq22BoLrIx) | 4:40 |
+| 47 | [Tsunami](https://open.spotify.com/track/6zMqOooNZpUf4397XCgWfF) | [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Tsunami](https://open.spotify.com/album/2QZtpJhtNTNbCq22BoLrIx) | 4:40 |
+| 48 | [Gbagam](https://open.spotify.com/track/5ABuekPHIQEbkKiIe5o6Nx) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Deetii](https://open.spotify.com/artist/6FU92TtrjOCgI9Yg3y94VH) | [Epiphany](https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL) | 3:07 |
 | 49 | [Get My Money Right](https://open.spotify.com/track/1ivWkOzOy7pmTYk7coyCvl) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Get My Money Right](https://open.spotify.com/album/0qcfLCEkFZqXz6yOwLPy5Z) | 2:57 |
 | 50 | [Alubarika](https://open.spotify.com/track/5xgplU8BucIPYcUehSY7ym) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Alubarika](https://open.spotify.com/album/6IZKiJ8BBmkh176u71Tvyw) | 3:55 |
 
-Snapshot ID: `ZpcJgAAAAACVaLCNJAHZhDVO1mb/wqPY`
+Snapshot ID: `ZphbAAAAAABpEHaWYzFUkRPoWWGz1zHa`

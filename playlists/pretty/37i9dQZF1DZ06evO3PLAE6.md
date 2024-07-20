@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 
 > This is Kasey Chambers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,438 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,442 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 | 45 | [Adam and Eve](https://open.spotify.com/track/2zqvygijtFwaeOtiohdu81) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Wreck & Ruin](https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ) | 3:05 |
 | 46 | [Stories We Could Tell](https://open.spotify.com/track/7Ct9D7hVGIY5tEnQ2CBXp4) | [Bill Chambers](https://open.spotify.com/artist/68E7ZdTcPlYToL9wzBGIgQ), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Sleeping With The Blues](https://open.spotify.com/album/4iA1rj6uq5L0YJ5aiQiUzY) | 2:29 |
 | 47 | [Satellite](https://open.spotify.com/track/3TSW0LDIUXbUa3NT5ynZKP) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Dragonfly](https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM) | 3:41 |
-| 48 | [Wayward Angel](https://open.spotify.com/track/0cfzJyWKIa9bYdkeTSHaH1) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 5:00 |
+| 48 | [Black Bess](https://open.spotify.com/track/73X9kXbVeHzKtWnWLaGSHI) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [Cannot Buy My Soul: The Songs Of Kev Carmody \(2020 Edition\)](https://open.spotify.com/album/4dN2UoUgVj9oIq0VSFkHEZ) | 3:49 |
 | 49 | [Have Mercy On Me](https://open.spotify.com/track/3pkx8nZDJWB72d8wUTOABy) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Wreck & Ruin](https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ) | 2:55 |
-| 50 | [Black Bess](https://open.spotify.com/track/73X9kXbVeHzKtWnWLaGSHI) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [Cannot Buy My Soul: The Songs Of Kev Carmody \(2020 Edition\)](https://open.spotify.com/album/4dN2UoUgVj9oIq0VSFkHEZ) | 3:49 |
+| 50 | [Wayward Angel](https://open.spotify.com/track/0cfzJyWKIa9bYdkeTSHaH1) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 5:00 |
 
-Snapshot ID: `ZpcJgAAAAACS+iTzkIOMI4M2hZqbDAtX`
+Snapshot ID: `ZphbAAAAAACZTwTAXXerFkD1rEPTAe+a`

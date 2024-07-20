@@ -1,6 +1,6 @@
 {
   "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, chiello)",
-  "num_followers": 46149,
+  "num_followers": 46161,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
+        "name": "Spazio",
+        "url": "https://open.spotify.com/album/1rF5ezgSerqkUK1Nc9Ft6p"
+      },
+      "artists": [
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        }
+      ],
+      "duration_ms": 179541,
+      "name": "Amianto",
+      "url": "https://open.spotify.com/track/5FeDmOkJlmFcb8arUhMi87"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
         "name": "No Hooks",
         "url": "https://open.spotify.com/album/2GSiRMtkr6poH4Dvcj9tv2"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 192000,
       "name": "Neve",
       "url": "https://open.spotify.com/track/6cBH5hLQFzmsuyU2iOdVA2"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
-        "name": "Spazio",
-        "url": "https://open.spotify.com/album/1rF5ezgSerqkUK1Nc9Ft6p"
-      },
-      "artists": [
-        {
-          "name": "ARIETE",
-          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
-        }
-      ],
-      "duration_ms": 179541,
-      "name": "Amianto",
-      "url": "https://open.spotify.com/track/5FeDmOkJlmFcb8arUhMi87"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1183,22 +1183,22 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "TauroTape3",
-        "url": "https://open.spotify.com/album/3O1hIgLryt4q65Y1YcjXdp"
+        "name": "Profondo Rosa",
+        "url": "https://open.spotify.com/album/5kTqGC8BIuVebBnyCXFhTE"
       },
       "artists": [
         {
-          "name": "Tauro Boys",
-          "url": "https://open.spotify.com/artist/3co0PkJ0FkzdkjRPkBf9WM"
+          "name": "Simone Panetti",
+          "url": "https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f"
         },
         {
-          "name": "ARIETE",
-          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+          "name": "Drast",
+          "url": "https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm"
         }
       ],
-      "duration_ms": 177777,
-      "name": "Xelisa2 (feat. ARIETE)",
-      "url": "https://open.spotify.com/track/0TFwQNQV9TzDRSh05ljlv7"
+      "duration_ms": 171641,
+      "name": "Dentro di Te",
+      "url": "https://open.spotify.com/track/6X6BRvpa5Z9wW0SuxxlhmI"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1231,22 +1231,22 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "Profondo Rosa",
-        "url": "https://open.spotify.com/album/5kTqGC8BIuVebBnyCXFhTE"
+        "name": "TauroTape3",
+        "url": "https://open.spotify.com/album/3O1hIgLryt4q65Y1YcjXdp"
       },
       "artists": [
         {
-          "name": "Simone Panetti",
-          "url": "https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f"
+          "name": "Tauro Boys",
+          "url": "https://open.spotify.com/artist/3co0PkJ0FkzdkjRPkBf9WM"
         },
         {
-          "name": "Drast",
-          "url": "https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm"
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
         }
       ],
-      "duration_ms": 171641,
-      "name": "Dentro di Te",
-      "url": "https://open.spotify.com/track/6X6BRvpa5Z9wW0SuxxlhmI"
+      "duration_ms": 177777,
+      "name": "Xelisa2 (feat. ARIETE)",
+      "url": "https://open.spotify.com/track/0TFwQNQV9TzDRSh05ljlv7"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
+        "name": "Campi Elisi",
+        "url": "https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT"
+      },
+      "artists": [
+        {
+          "name": "FRERO",
+          "url": "https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "Campi Elisi",
+      "url": "https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
         "name": "PERCH\u00c9 NON TI CAPIVO",
         "url": "https://open.spotify.com/album/5e3Dy4cnbNIhXL45ETogGF"
       },
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "Campi Elisi",
-        "url": "https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT"
-      },
-      "artists": [
-        {
-          "name": "FRERO",
-          "url": "https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox"
-        }
-      ],
-      "duration_ms": 177931,
-      "name": "Campi Elisi",
-      "url": "https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
         "name": "CONFESSIONE",
         "url": "https://open.spotify.com/album/0cDiwdOYaCtEc97xbdAxPH"
       },
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "Dove sei??",
-        "url": "https://open.spotify.com/album/647emruUfFnCax2xaYKh6N"
+        "name": "TRASHBIN, Vol. 3",
+        "url": "https://open.spotify.com/album/4RwU2dfTY9D2yfEcYsXn4z"
       },
       "artists": [
         {
-          "name": "Agon",
-          "url": "https://open.spotify.com/artist/1LHVbos3OPyt6XN52RvTJK"
+          "name": "Radical",
+          "url": "https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3"
         }
       ],
-      "duration_ms": 181281,
-      "name": "Dove sei??",
-      "url": "https://open.spotify.com/track/4sDryJaxNbgbucTleahrXE"
+      "duration_ms": 105727,
+      "name": "KILLYOUREGO",
+      "url": "https://open.spotify.com/track/2VfrwxKFPVD1RHV9oARiun"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "TRASHBIN, Vol. 3",
-        "url": "https://open.spotify.com/album/4RwU2dfTY9D2yfEcYsXn4z"
+        "name": "Dove sei??",
+        "url": "https://open.spotify.com/album/647emruUfFnCax2xaYKh6N"
       },
       "artists": [
         {
-          "name": "Radical",
-          "url": "https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3"
+          "name": "Agon",
+          "url": "https://open.spotify.com/artist/1LHVbos3OPyt6XN52RvTJK"
         }
       ],
-      "duration_ms": 105727,
-      "name": "KILLYOUREGO",
-      "url": "https://open.spotify.com/track/2VfrwxKFPVD1RHV9oARiun"
+      "duration_ms": 181281,
+      "name": "Dove sei??",
+      "url": "https://open.spotify.com/track/4sDryJaxNbgbucTleahrXE"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1643,18 +1643,26 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "Devil May Cry",
-        "url": "https://open.spotify.com/album/0JTK46NHCkNfBe6kthVWxA"
+        "name": "MUSICA ALTA E STRESS",
+        "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
       },
       "artists": [
         {
-          "name": "Alelock",
-          "url": "https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt"
+          "name": "UkuLele",
+          "url": "https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L"
+        },
+        {
+          "name": "Delta",
+          "url": "https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv"
+        },
+        {
+          "name": "Close Listen",
+          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
         }
       ],
-      "duration_ms": 148818,
-      "name": "Devil May Cry",
-      "url": "https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs"
+      "duration_ms": 165714,
+      "name": "SEMBREREMO DISTANTI",
+      "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1691,26 +1699,18 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "MUSICA ALTA E STRESS",
-        "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
+        "name": "Devil May Cry",
+        "url": "https://open.spotify.com/album/0JTK46NHCkNfBe6kthVWxA"
       },
       "artists": [
         {
-          "name": "UkuLele",
-          "url": "https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L"
-        },
-        {
-          "name": "Delta",
-          "url": "https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv"
-        },
-        {
-          "name": "Close Listen",
-          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
+          "name": "Alelock",
+          "url": "https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt"
         }
       ],
-      "duration_ms": 165714,
-      "name": "SEMBREREMO DISTANTI",
-      "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
+      "duration_ms": 148818,
+      "name": "Devil May Cry",
+      "url": "https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs"
     },
     {
       "added_at": "2024-07-01 15:44:18",

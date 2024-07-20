@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 8368,
+  "num_followers": 8372,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAABgOxCkAVIjfbsM9kt/OO2m",
+  "snapshot_id": "ZphbAAAAAABU33COX7BC2BIJPPbZNh+V",
   "tracks": [
     {
       "added_at": null,
@@ -400,7 +400,7 @@
       "added_at": null,
       "album": {
         "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
-        "url": "https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM"
+        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 197343,
-      "name": "When in Summer, I Forget About the Winter - Bonus Track",
-      "url": "https://open.spotify.com/track/23Vl5xmLj3Z4pc1zRtjUe2"
+      "duration_ms": 229848,
+      "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+      "url": "https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf"
     },
     {
       "added_at": null,
@@ -468,7 +468,7 @@
       "added_at": null,
       "album": {
         "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
-        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
+        "url": "https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 229848,
-      "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
-      "url": "https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf"
+      "duration_ms": 197343,
+      "name": "When in Summer, I Forget About the Winter - Bonus Track",
+      "url": "https://open.spotify.com/track/23Vl5xmLj3Z4pc1zRtjUe2"
     },
     {
       "added_at": null,

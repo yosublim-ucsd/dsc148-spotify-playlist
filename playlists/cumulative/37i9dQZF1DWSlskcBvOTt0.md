@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-705 songs - 2 day 16 hr 36 min
+706 songs - 2 day 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Drago \- Anja Schneider Remix](https://open.spotify.com/track/1Y0pKRDpyETJzoNEcl2i0v) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Drago \(Anja Schneider Remix\)](https://open.spotify.com/album/5ILrQRKvoVwGvuLxLVWIE0) | 6:22 | 2022-04-22 | 2022-07-29 |
 | [Drive](https://open.spotify.com/track/67aiZtmB5ZBCGxBN3pOL6C) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Drive](https://open.spotify.com/album/0VMZ7bBIr5PxYsgYBBEEdE) | 4:43 | 2022-11-23 | 2023-04-01 |
 | [Drone Me Up, Flashy \- &ME Remix](https://open.spotify.com/track/6iNhl5IcRJfm3F42plOPA4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Knock Knock Remixes](https://open.spotify.com/album/2juRFnVLI1Zo3BlVXIa7T4) | 9:06 | 2022-04-08 | 2024-03-27 |
+| [Dudadu Flip](https://open.spotify.com/track/1NVtj1xF3OArkrtqhWTn0K) | [Goldcher](https://open.spotify.com/artist/1n9K41Jye8s8F0z1hb1Qhz), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Dudadu Flip](https://open.spotify.com/album/1Jvf7bpiHMVtTG7LSR9X1l) | 3:19 | 2024-07-19 |  |
 | [Duel](https://open.spotify.com/track/1qC3qRlsg8SiG3jhUtApKm) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB), [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Duel](https://open.spotify.com/album/4Rxndqv8kgOx0BfVdlSq3f) | 9:34 | 2022-05-20 | 2023-11-14 |
 | [Dvaraka](https://open.spotify.com/track/655xQvb0DNxJ8PUHjDnDYy) | [Morttagua](https://open.spotify.com/artist/1XVL802tNy6tucST8spKOv) | [Dvaraka](https://open.spotify.com/album/0G47sYDbrRXUDahMALCsBH) | 8:26 | 2021-05-07 | 2022-04-21 |
 | [Ederlezi](https://open.spotify.com/track/2ZQK68ctm8rFny71kyvnUc) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Ederlezi](https://open.spotify.com/album/7HMEPFeIAiSXriShJwUzb9) | 3:03 | 2023-07-28 | 2023-09-23 |
@@ -373,7 +374,7 @@
 | [Luna Love](https://open.spotify.com/track/0NawKK9pbi1hDWl0i3Eo7A) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Rosa Lee Luna](https://open.spotify.com/artist/4MlvtEvliivbWOQV9Q2CfD) | [Luna Love](https://open.spotify.com/album/5qDyPsc30jRYLHYtVOkSVV) | 3:27 | 2024-04-19 | 2024-05-18 |
 | [Lune](https://open.spotify.com/track/0KsoAc21eXJiDaccgoo8A3) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Eastbound Silhouette](https://open.spotify.com/album/7CgB2RVayWXcMSd3cv0gOa) | 9:27 | 2022-10-14 | 2023-11-06 |
 | [Lune](https://open.spotify.com/track/1oKsE0srIjDkWCtwPTB6TJ) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Lune](https://open.spotify.com/album/0XFcO1WYiomvBUxvEF0eN6) | 9:27 | 2022-10-14 | 2022-10-30 |
-| [Luxo](https://open.spotify.com/track/6gn7rTpP0DkB0qoeqYjbg1) | [Trikk](https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY) | [Luxo](https://open.spotify.com/album/1ljuxJF2wOPnfQwFhQ8EJJ) | 5:32 | 2024-05-03 |  |
+| [Luxo](https://open.spotify.com/track/6gn7rTpP0DkB0qoeqYjbg1) | [Trikk](https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY) | [Luxo](https://open.spotify.com/album/1ljuxJF2wOPnfQwFhQ8EJJ) | 5:32 | 2024-05-03 | 2024-07-20 |
 | [Ma non tutta la vita \(Populous Remix\)](https://open.spotify.com/track/39bADkXSTGmAzKeYHD4YVD) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv), [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Ma non tutta la vita \(Remixes\)](https://open.spotify.com/album/56tGWQ8DE2qe3G0pNqPjzK) | 3:12 | 2024-03-29 | 2024-05-04 |
 | [Macaca](https://open.spotify.com/track/45RzwacUaLLNhDYXLTmaGL) | [Kapibara](https://open.spotify.com/artist/4tWG36Cg7E242I26JiklSp) | [Macaca](https://open.spotify.com/album/5vrTU8Is2XjP7QwW9LIQDD) | 7:29 | 2021-07-09 | 2022-07-16 |
 | [Madison](https://open.spotify.com/track/7I3lNfFc4kqfTFqugMkoH2) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Madison](https://open.spotify.com/album/0RdOwSB4S1a8aobCCcM1CD) | 3:36 | 2024-04-12 | 2024-06-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Eden Muñoz, Luck Ra
 
-[Spotify](https://open.spotify.com/user/spotify) - 663,572 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 663,980 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 37 | [Madonna](https://open.spotify.com/track/6KTxbrRJdX7KIxjWMsHL7P) | [La Imponente Vientos de Jalisco](https://open.spotify.com/artist/4Tx6Ti44QhL2JRmHSu1mU7) | [Madonna](https://open.spotify.com/album/3CgvhHuwNnEHH1qopcieI3) | 2:55 |
 | 38 | [Alrato Te Me Pasas \- Cover](https://open.spotify.com/track/56RwXdb0cRY9jCLyPEqBnz) | [Solido](https://open.spotify.com/artist/2f6HJFmIQEIUdJGUAZcTIj) | [Alrato Te Me Pasas \(Cover\)](https://open.spotify.com/album/6fK10e5VKPYCqF7RNmDT9U) | 3:34 |
 | 39 | [Blues No\. 8](https://open.spotify.com/track/3EZKxg7CwtO8CvsTSbEPtH) | [La Leyenda](https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn) | [Blues No\. 8](https://open.spotify.com/album/5dLGAi6G9Ih1uMGY0ulPwi) | 3:26 |
-| 40 | [EL](https://open.spotify.com/track/0cp2JvbIz95NbvhDUjEOMa) | [Saul Villarreal](https://open.spotify.com/artist/2x8UcZmAbP008alg57hI3K) | [Illusión](https://open.spotify.com/album/3w6NNRVZY39VlbI40NIB6b) | 3:27 |
+| 40 | [EL](https://open.spotify.com/track/0cp2JvbIz95NbvhDUjEOMa) | [Saul Villarreal](https://open.spotify.com/artist/2x8UcZmAbP008alg57hI3K) | [Ilusión](https://open.spotify.com/album/3w6NNRVZY39VlbI40NIB6b) | 3:27 |
 | 41 | [Otra Vez](https://open.spotify.com/track/0H2Qw0TmKOBNsGBgetLJph) | [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl) | [Otra Vez](https://open.spotify.com/album/2mCITGYipdoLlHale4oiOJ) | 3:12 |
 | 42 | [No Te Voy A Mentir](https://open.spotify.com/track/29JEbx0m8zugbHFc9Mm9OM) | [Joe Parra](https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR), [Sucesión M](https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6) | [No Te Voy A Mentir](https://open.spotify.com/album/3VzPeEGA8eAebLqIel4ICJ) | 2:51 |
 | 43 | [OTRO BOTE](https://open.spotify.com/track/7mjonodSnhsfsof8hLfRHO) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [OTRO BOTE](https://open.spotify.com/album/577mipi0Rg6Pp5mlphoHVE) | 2:37 |

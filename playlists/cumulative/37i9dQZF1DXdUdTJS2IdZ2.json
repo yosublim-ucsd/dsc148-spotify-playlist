@@ -801,6 +801,24 @@
     },
     {
       "album": {
+        "name": "For Y0u.",
+        "url": "https://open.spotify.com/album/0hFGlu1TCbz38jyDy39QHq"
+      },
+      "artists": [
+        {
+          "name": "Zam 0'DEEN",
+          "url": "https://open.spotify.com/artist/0s6qwiEvQn7NiypEyYdexJ"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170897,
+      "name": "For Y0u.",
+      "url": "https://open.spotify.com/track/4alGCWQt4tFFKXmPeAfs12"
+    },
+    {
+      "album": {
         "name": "forever!",
         "url": "https://open.spotify.com/album/6rKIpQpZGUJaqgo4ti2kXq"
       },

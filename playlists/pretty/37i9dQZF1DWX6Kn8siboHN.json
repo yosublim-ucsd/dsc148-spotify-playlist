@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Viejitas pero bonitas! Qu\u00e9 suene el acorde\u00f3n y el bajo sexto. Ram\u00f3n Ayala en portada.",
-  "num_followers": 733441,
+  "num_followers": 733777,
   "original_name": "Cl\u00e1sicas Norte\u00f1as",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-07-03 17:50:29",
       "album": {
+        "name": "A Ellas",
+        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
+      },
+      "artists": [
+        {
+          "name": "El Poder Del Norte",
+          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
+        }
+      ],
+      "duration_ms": 226093,
+      "name": "A Ella",
+      "url": "https://open.spotify.com/track/6xIiVGZs194HCa9wTVHRys"
+    },
+    {
+      "added_at": "2024-07-03 17:50:29",
+      "album": {
         "name": "Siempre Imitado, Jamas Igualado",
         "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 165733,
       "name": "Voy A Llorar Por Ti",
       "url": "https://open.spotify.com/track/20qd1CUZCdgbOYN8vDt8Se"
-    },
-    {
-      "added_at": "2024-07-03 17:50:29",
-      "album": {
-        "name": "Aguanta Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 170333,
-      "name": "Mi Casa Nueva",
-      "url": "https://open.spotify.com/track/0YqxST7jMa8B4Ecr1675u6"
     },
     {
       "added_at": "2024-07-03 17:50:29",
@@ -271,18 +271,18 @@
     {
       "added_at": "2024-07-03 17:50:29",
       "album": {
-        "name": "A Ellas",
-        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
       },
       "artists": [
         {
-          "name": "El Poder Del Norte",
-          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 226093,
-      "name": "A Ella",
-      "url": "https://open.spotify.com/track/6xIiVGZs194HCa9wTVHRys"
+      "duration_ms": 170333,
+      "name": "Mi Casa Nueva",
+      "url": "https://open.spotify.com/track/0YqxST7jMa8B4Ecr1675u6"
     },
     {
       "added_at": "2024-07-03 17:50:29",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-07-03 17:50:29",
       "album": {
+        "name": "A Ellas",
+        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
+      },
+      "artists": [
+        {
+          "name": "El Poder Del Norte",
+          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
+        }
+      ],
+      "duration_ms": 212506,
+      "name": "Ni Que Valieras Tanto",
+      "url": "https://open.spotify.com/track/4YEtrr6BJfUX61LrEBjgLK"
+    },
+    {
+      "added_at": "2024-07-03 17:50:29",
+      "album": {
         "name": "Bodas De Enga\u00f1o",
         "url": "https://open.spotify.com/album/2Kmg5CiuBTZxYPTEypKDpy"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 212360,
       "name": "Viernes Sin Tu Amor",
       "url": "https://open.spotify.com/track/2Ud8SDPZjPI1QSMtOHw721"
-    },
-    {
-      "added_at": "2024-07-03 17:50:29",
-      "album": {
-        "name": "Invencible",
-        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "El Columpio",
-      "url": "https://open.spotify.com/track/2OFmcOC5m9iAvt4kcdXBSz"
     },
     {
       "added_at": "2024-07-03 17:50:29",
@@ -415,18 +415,18 @@
     {
       "added_at": "2024-07-03 17:50:29",
       "album": {
-        "name": "A Ellas",
-        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
       },
       "artists": [
         {
-          "name": "El Poder Del Norte",
-          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 212506,
-      "name": "Ni Que Valieras Tanto",
-      "url": "https://open.spotify.com/track/4YEtrr6BJfUX61LrEBjgLK"
+      "duration_ms": 199333,
+      "name": "El Columpio",
+      "url": "https://open.spotify.com/track/2OFmcOC5m9iAvt4kcdXBSz"
     },
     {
       "added_at": "2024-07-03 17:50:29",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-07-03 17:50:29",
       "album": {
-        "name": "Exitos De Los Invasores De Nuevo Leon",
-        "url": "https://open.spotify.com/album/1C83ZkDnK0EL5RMM1hRU1C"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 166106,
-      "name": "Que No Se Apague La Lumbre",
-      "url": "https://open.spotify.com/track/4WLBbFY3jON97NHf7gh5OO"
-    },
-    {
-      "added_at": "2024-07-03 17:50:29",
-      "album": {
         "name": "Exitos De Oro",
         "url": "https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 184200,
       "name": "Tu Delirio",
       "url": "https://open.spotify.com/track/550m6FRrrMgS2BvrZY2j5l"
+    },
+    {
+      "added_at": "2024-07-03 17:50:29",
+      "album": {
+        "name": "Exitos De Los Invasores De Nuevo Leon",
+        "url": "https://open.spotify.com/album/1C83ZkDnK0EL5RMM1hRU1C"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 166106,
+      "name": "Que No Se Apague La Lumbre",
+      "url": "https://open.spotify.com/track/4WLBbFY3jON97NHf7gh5OO"
     },
     {
       "added_at": "2024-07-03 17:50:29",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2024-07-03 17:50:29",
       "album": {
-        "name": "Me Rindo",
-        "url": "https://open.spotify.com/album/5Jeg7MzgKFXenbJAcD64Hj"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 189493,
-      "name": "Esta Noche Tu Vendr\u00e1s",
-      "url": "https://open.spotify.com/track/2wHcALEBx39LP7ziwlHkSQ"
-    },
-    {
-      "added_at": "2024-07-03 17:50:29",
-      "album": {
         "name": "Puros \u00c9xitos",
         "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 160680,
       "name": "Y A M\u00ed Que Me Qued\u00f3",
       "url": "https://open.spotify.com/track/6JNVu4JLreFM9H8vVGi68j"
+    },
+    {
+      "added_at": "2024-07-03 17:50:29",
+      "album": {
+        "name": "Me Rindo",
+        "url": "https://open.spotify.com/album/5Jeg7MzgKFXenbJAcD64Hj"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 189493,
+      "name": "Esta Noche Tu Vendr\u00e1s",
+      "url": "https://open.spotify.com/track/2wHcALEBx39LP7ziwlHkSQ"
     },
     {
       "added_at": "2024-07-03 17:50:29",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2024-07-03 17:50:29",
       "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n - Mexico (Disc 2)",
-        "url": "https://open.spotify.com/album/1XYrp5zF2JR45KOO83uJZj"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 155466,
-      "name": "Por Las Calles De Chihuahua - En Vivo",
-      "url": "https://open.spotify.com/track/6BYPMlys5yt6pJlYZIGRtU"
-    },
-    {
-      "added_at": "2024-07-03 17:50:29",
-      "album": {
         "name": "Puros \u00c9xitos",
         "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 207906,
       "name": "Dios No Lo Quiera",
       "url": "https://open.spotify.com/track/3ujr1xnvt5kxuEfAwxuvKf"
+    },
+    {
+      "added_at": "2024-07-03 17:50:29",
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n - Mexico (Disc 2)",
+        "url": "https://open.spotify.com/album/1XYrp5zF2JR45KOO83uJZj"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 155466,
+      "name": "Por Las Calles De Chihuahua - En Vivo",
+      "url": "https://open.spotify.com/track/6BYPMlys5yt6pJlYZIGRtU"
     },
     {
       "added_at": "2024-07-03 17:50:29",

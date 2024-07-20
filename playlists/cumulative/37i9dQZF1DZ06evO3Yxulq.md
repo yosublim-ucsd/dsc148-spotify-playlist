@@ -2,7 +2,7 @@
 
 ### [This Is Christine D'Clario](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Yxulq)
 
-> This is Christine D'Clario\. The essential tracks, all in one playlist.
+> This Is Christine D'Clario\. Los temas esenciales, todos en una lista.
 
 105 songs - 10 hr 9 min
 
@@ -70,7 +70,7 @@
 | [Mi Libertador](https://open.spotify.com/track/3PDI2JGivXW4WguUBbhPgw) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Mi Libertador](https://open.spotify.com/album/3jCrSepI3QyihfgochlS1m) | 8:11 | 2022-09-14 |  |
 | [Mi Padre Me Ama \- Adoración Espontánea](https://open.spotify.com/track/18Xx6rRsGhSjThPrTKzE1X) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Emanuel](https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef) | 7:38 | 2024-05-09 |  |
 | [Mi Padre Me Ama \[Adoración Espontánea\]](https://open.spotify.com/track/2olhLOVopC1RFSBJv96oTM) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Emanuel](https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q) | 7:38 | 2022-09-20 | 2024-05-09 |
-| [Más Alto Honor](https://open.spotify.com/track/4ktw8BW1kGxifJEiKQoOjB) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS) | 5:50 | 2024-07-14 |  |
+| [Más Alto Honor](https://open.spotify.com/track/4ktw8BW1kGxifJEiKQoOjB) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS) | 5:50 | 2024-07-14 | 2024-07-20 |
 | [Más Alto Honor](https://open.spotify.com/track/59SqIgfrU82eXr0rRGIwoI) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c) | 5:50 | 2022-09-14 | 2022-10-12 |
 | [No Hay Comparación](https://open.spotify.com/track/04FKReQTLMPeyhu6Gb6O1T) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [No Hay Comparación](https://open.spotify.com/album/5OX0FZ5YOOUitHawQSHoDH) | 3:13 | 2022-09-14 | 2023-10-11 |
 | [No Hay Lugar Más Alto \(En Vivo\) \[feat\. Christine D'clario\]](https://open.spotify.com/track/0yzKJqFTXsbzWjUHaiOxD9) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 8:08 | 2022-09-14 |  |
@@ -93,7 +93,7 @@
 | [Solo En Jesús](https://open.spotify.com/track/68CAAYvALCFbVlO0aPr52F) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Solo En Jesús](https://open.spotify.com/album/6S5o4PNr7RobifM9GVpIjE) | 4:31 | 2024-03-16 |  |
 | [Solo Tu](https://open.spotify.com/track/2FpjyN25ntw5wRI0HHPTHs) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Solo Tu..\. Lo Unico Que Quiero](https://open.spotify.com/album/6B0oYyezYLKGtmhKhHOEwP) | 3:39 | 2024-04-19 |  |
 | [Solo Tu](https://open.spotify.com/track/6yxDTsYge75Eka9yeXnHuN) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Solo Tu...Lo Unico Que Quiero](https://open.spotify.com/album/1bohZwfenuWFIuFrUETFuq) | 3:39 | 2022-09-14 | 2024-04-19 |
-| [Stories On Stories](https://open.spotify.com/track/3GLialPfon3PHfwNjZvgi2) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Stories On Stories](https://open.spotify.com/album/7rqxrTJYrTRSszKiqn6VXK) | 4:00 | 2023-10-10 | 2024-07-19 |
+| [Stories On Stories](https://open.spotify.com/track/3GLialPfon3PHfwNjZvgi2) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Stories On Stories](https://open.spotify.com/album/7rqxrTJYrTRSszKiqn6VXK) | 4:00 | 2023-10-10 |  |
 | [Tantas Historias](https://open.spotify.com/track/5kW4xrnOaXimPbVnucVzKh) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Tantas Historias](https://open.spotify.com/album/1Fe1bElYmUYHJ51jHLJ4cH) | 4:00 | 2024-06-30 |  |
 | [Tantas Historias](https://open.spotify.com/track/6f1jhlNzYyUvK2XwxCk2pT) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Stories On Stories](https://open.spotify.com/album/11x6snME6Sa5BG8aEIzEBr) | 4:00 | 2023-11-10 | 2024-06-30 |
 | [Todo Lo Haces Nuevo](https://open.spotify.com/track/6dbNKCUB2HwCdAB7aGgyu4) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy) | 10:12 | 2022-09-14 |  |

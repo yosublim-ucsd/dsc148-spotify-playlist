@@ -109,11 +109,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 99 | [Between You & Me](https://open.spotify.com/track/4wwrvn78l9BqCR00jhl043) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/3ZRkEpaewmFKhHKmGCVRs7) | 3:15 |
 | 100 | [More and More](https://open.spotify.com/track/15vDxY8ZqkCSOjLxSwPCrM) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [Love, Sax & Flashbacks \(Track by Track\)](https://open.spotify.com/album/1nFgJpjh2doGfve56uADlm) | 3:55 |
 | 101 | [Bitter](https://open.spotify.com/track/6ZjCRZdl4KgePxwpkZ3Y8d) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Cherry Blossom](https://open.spotify.com/album/3fshReYna7OJ7cl3Rn8h2W) | 2:57 |
-| 102 | [Bad Little Thing](https://open.spotify.com/track/1i722InMCT8ltWSn1M5fYE) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Bad Little Thing](https://open.spotify.com/album/4BSIzDQVYki1Muj0QiwHJW) | 2:23 |
-| 103 | [Grip](https://open.spotify.com/track/1SUpeDDpc0z3lpru5ON1hC) | [Alec Bailey](https://open.spotify.com/artist/0Y660vMBkPvMxMV9QTg11v) | [Grip](https://open.spotify.com/album/2K5GlCR05UcqeQmnE2B6qP) | 2:48 |
-| 104 | [Red Eye](https://open.spotify.com/track/6FasBfviijUzUs7l6AGX78) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Magazines Or Novels](https://open.spotify.com/album/3AalzzhWtRFxd5Dzrpfdls) | 3:36 |
-| 105 | [Good Thing](https://open.spotify.com/track/5PPOHLJQdAudYf2bu4owjZ) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Overnight](https://open.spotify.com/album/00lWTbQ4MQezqzl0S8M37D) | 3:57 |
-| 106 | [Brought The Heat Back](https://open.spotify.com/track/3ivdlmTbUSv5JN9W8Tk9V1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) | 2:56 |
+| 102 | [Brought The Heat Back](https://open.spotify.com/track/3ivdlmTbUSv5JN9W8Tk9V1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) | 2:56 |
+| 103 | [Bad Little Thing](https://open.spotify.com/track/1i722InMCT8ltWSn1M5fYE) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Bad Little Thing](https://open.spotify.com/album/4BSIzDQVYki1Muj0QiwHJW) | 2:23 |
+| 104 | [Grip](https://open.spotify.com/track/1SUpeDDpc0z3lpru5ON1hC) | [Alec Bailey](https://open.spotify.com/artist/0Y660vMBkPvMxMV9QTg11v) | [Grip](https://open.spotify.com/album/2K5GlCR05UcqeQmnE2B6qP) | 2:48 |
+| 105 | [Red Eye](https://open.spotify.com/track/6FasBfviijUzUs7l6AGX78) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Magazines Or Novels](https://open.spotify.com/album/3AalzzhWtRFxd5Dzrpfdls) | 3:36 |
+| 106 | [Good Thing](https://open.spotify.com/track/5PPOHLJQdAudYf2bu4owjZ) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Overnight](https://open.spotify.com/album/00lWTbQ4MQezqzl0S8M37D) | 3:57 |
 | 107 | [Temporary](https://open.spotify.com/track/77c7q9unffhRZdpZluP6xW) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Temporary](https://open.spotify.com/album/5FlZ1McXTK4DxVSGXWSdKS) | 3:01 |
 | 108 | [Cruel](https://open.spotify.com/track/7MaRmvRgXtScvGuMj7e7dE) | [Oli Fox](https://open.spotify.com/artist/6L7tIdRpMMZb5l2tk42YLA) | [Cruel](https://open.spotify.com/album/04M4kFfCnyUYOsazsEylcX) | 3:11 |
 | 109 | [Promise Me](https://open.spotify.com/track/5BTgy0YT2HNKbBbsoodIox) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [A Good Friend Is Nice](https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk) | 3:38 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 179 | [All My Life](https://open.spotify.com/track/15l0pOOpIL11xt2JoWKthY) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [With The Music I Die \(Deluxe\)](https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4) | 3:36 |
 | 180 | [Tonight](https://open.spotify.com/track/16LDHU7Ir8BAEQs9j61qDE) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/02x1wspowX3eX0DBV63jjF) | 3:53 |
 
-Snapshot ID: `AbXFBgAAAAC2/+BTGgaZoBm+g8ICDgGH`
+Snapshot ID: `AbXJAgAAAAB7s/Xt7nl/MbjF5Zb8yN9V`

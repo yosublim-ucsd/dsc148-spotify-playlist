@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,726 likes - 448 songs - 1 day 0 hr 3 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,727 likes - 448 songs - 1 day 0 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 66 | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/track/4rainsOvZId6i9i9Ssl6Hb) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec), [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/album/3bAFWQJ9npu4hqjxkpDRYN) | 2:51 |
 | 67 | [Bad Boy!](https://open.spotify.com/track/2RlinrCj73yZ731f2zerOq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Bad Boy!](https://open.spotify.com/album/065coPus7A27Bk6nTD0Pqa) | 2:45 |
 | 68 | [Never Ever Love a Liar](https://open.spotify.com/track/4Y9ZFT6aD1PfZJHLZXi9EQ) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Introverted Extrovert](https://open.spotify.com/album/0LlRW4Z7dQfUodtABNh9Zk) | 2:45 |
-| 69 | [Twice](https://open.spotify.com/track/2UHnJzIiyNqPTufzxHdTQx) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Lavender](https://open.spotify.com/album/11v89Gklx5GvGK6zfhj5jA) | 2:22 |
+| 69 | [Twice](https://open.spotify.com/track/2UHnJzIiyNqPTufzxHdTQx) | [Jake Scott](https://open.spotify.com/artist/5ZXaVAiTvGiZPL43kd2mpI) | [Lavender](https://open.spotify.com/album/11v89Gklx5GvGK6zfhj5jA) | 2:22 |
 | 70 | [There It Goes](https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:45 |
 | 71 | [Fall Right Back To You](https://open.spotify.com/track/17jyt1UZR00qlAO71KyWbx) | [SAFIA](https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB) | [A Lover’s Guide to a Lucid Dream](https://open.spotify.com/album/2K0brbgc54t9aP83wBRbCv) | 4:06 |
 | 72 | [Video Game](https://open.spotify.com/track/7HmoOrC8B7YUG3XXPizxRp) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Video Game](https://open.spotify.com/album/4Ts5SXRtH4FJuMo104aZv1) | 2:44 |

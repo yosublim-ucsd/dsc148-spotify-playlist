@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-341 songs - 17 hr 19 min
+342 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Move It Like This](https://open.spotify.com/track/4RGpvnDzrLRUGQJSulpOT4) | [RevoideN](https://open.spotify.com/artist/5bw9Y5y2Q1GlJ4AzH5eVSA) | [Move It Like This](https://open.spotify.com/album/4a4Rz6VYOb3jQXRdan98Be) | 2:23 | 2023-08-10 | 2023-12-09 |
 | [Move Your Body](https://open.spotify.com/track/5uSHDVIZf0ejiFzroIheiu) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body \(Extended Mix\)](https://open.spotify.com/album/3sBhqTQUVLgkNeBIZcLUST) | 2:37 | 2023-08-10 | 2023-11-22 |
 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 | 2023-11-21 |  |
+| [My Home](https://open.spotify.com/track/58qIp4bLhqmoCcX89VCRsT) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [My Home](https://open.spotify.com/album/1pOkzp7ZgdxckdOKpAqEMr) | 3:09 | 2024-07-19 |  |
 | [Need You Now](https://open.spotify.com/track/5xFmdyGJaxOaK9zIMCFYl2) | [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [SGNLS](https://open.spotify.com/artist/4Gr5otnLxK9f0fLpm9jK74) | [Revealed Recordings presents Miami Sampler 2023](https://open.spotify.com/album/23tQ9GxlcWr3DNz9lLCMBt) | 3:25 | 2023-03-15 | 2023-12-23 |
 | [Neon Skies \(Forever\)](https://open.spotify.com/track/6HKiW0mzPPVsvwAEgaAbgK) | [Roy Orion](https://open.spotify.com/artist/5vDWsMvaFghBZj9e6y8qSk), [Riley James](https://open.spotify.com/artist/5jRgxHYG8ayHyuBTSQjiGg), [Natalie Major](https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ) | [Neon Skies \(Forever\)](https://open.spotify.com/album/2FE1akqpewaVzs7gTAAH6s) | 3:28 | 2022-07-29 | 2023-09-09 |
 | [Never Let Me Go](https://open.spotify.com/track/3wQiNI1ueKtYh1dHtnJdRF) | [Trevor Omoto](https://open.spotify.com/artist/4pPAzgTbXAwdRjMokhcwtx), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Never Let Me Go](https://open.spotify.com/album/5in7Q79BZCxGCd1zAuwFBR) | 3:09 | 2022-07-29 | 2022-12-10 |
@@ -223,7 +224,7 @@
 | [One](https://open.spotify.com/track/3do8rQ8ePlwXN2wlsvIADl) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [David Allen](https://open.spotify.com/artist/1KlBo98Vn0xHQZuLUhyrwe), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [One](https://open.spotify.com/album/5uuMzVqYEr28d5Hb7bqkO8) | 2:45 | 2022-07-29 | 2023-01-14 |
 | [One Life \(Festival Mix\)](https://open.spotify.com/track/2MNtObv5bxyUprOKewE28m) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [sonofsteve](https://open.spotify.com/artist/199v8qPhMq3MGLfKsOgD2v) | [One Life \(Festival Mix\)](https://open.spotify.com/album/6YnX8UuHdW8sph8ZHUYE45) | 3:42 | 2022-12-02 | 2023-03-25 |
 | [One More Time](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:20 | 2024-01-09 |  |
-| [One Night](https://open.spotify.com/track/6HN31GHEVxpcPXAslhBaWk) | [Matt Dybal](https://open.spotify.com/artist/4QdIbNe6CEKwlaucgaLnA2), [DVDEK](https://open.spotify.com/artist/5AfiM6JGApf2HVB921bcaD), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [One Night](https://open.spotify.com/album/44V3IDShcLDxdyM28lvcSc) | 2:35 | 2023-11-16 |  |
+| [One Night](https://open.spotify.com/track/6HN31GHEVxpcPXAslhBaWk) | [Matt Dybal](https://open.spotify.com/artist/4QdIbNe6CEKwlaucgaLnA2), [DVDEK](https://open.spotify.com/artist/5AfiM6JGApf2HVB921bcaD), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [One Night](https://open.spotify.com/album/44V3IDShcLDxdyM28lvcSc) | 2:35 | 2023-11-16 | 2024-07-20 |
 | [Ooh La La](https://open.spotify.com/track/0ZArmyTbpxmrHOzylqeUsA) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Ooh La La](https://open.spotify.com/album/25TCGFGYvW6oI7ZCraqgnf) | 2:19 | 2024-03-21 |  |
 | [Own The Night](https://open.spotify.com/track/5R8fYCNGfWVO4UIkZJX8iK) | [Swanky Tunes](https://open.spotify.com/artist/06cLuOP0p7VAnBnqil1eWX), [Jac & Harri](https://open.spotify.com/artist/3o2JkvV32a6n4Xwf585pmT) | [Own The Night](https://open.spotify.com/album/2qA0Z9KmCeqtH2IiYSqDtt) | 3:26 | 2022-07-29 | 2022-09-10 |
 | [P.R.O.G.2](https://open.spotify.com/track/4lcK3zg0Du6Y09Ot8xAgyA) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [P.R.O.G.2](https://open.spotify.com/album/1aTdsuEAUYDykn94WUxcCu) | 2:21 | 2023-04-21 | 2023-06-17 |

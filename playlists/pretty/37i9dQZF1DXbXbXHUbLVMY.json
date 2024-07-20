@@ -1,6 +1,6 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 28238,
+  "num_followers": 28241,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Utested",
-        "url": "https://open.spotify.com/album/1yMhNrho22lcCp3MKwnHEu"
-      },
-      "artists": [
-        {
-          "name": "Ari Bajgora",
-          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Utested",
-      "url": "https://open.spotify.com/track/19188WQf2DrNMfI1XLDnYF"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Faller",
         "url": "https://open.spotify.com/album/7vXhgwKBcYtvSbMlG2yRqn"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 146400,
       "name": "\u00c4nnu en dag",
       "url": "https://open.spotify.com/track/6I9IHT1nhfPhm2l6eCSxs4"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Utested",
+        "url": "https://open.spotify.com/album/1yMhNrho22lcCp3MKwnHEu"
+      },
+      "artists": [
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Utested",
+      "url": "https://open.spotify.com/track/19188WQf2DrNMfI1XLDnYF"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -315,26 +315,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "CHICANO",
-        "url": "https://open.spotify.com/album/5pAM6Ft7kGCj4wyWAIpQTU"
-      },
-      "artists": [
-        {
-          "name": "Ricky Rich",
-          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
-        },
-        {
-          "name": "Blizzy",
-          "url": "https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp"
-        }
-      ],
-      "duration_ms": 151207,
-      "name": "CHICANO",
-      "url": "https://open.spotify.com/track/3jE8a467SmeFRnkK176hAQ"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Dans fr\u00e5n dig",
         "url": "https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g"
       },
@@ -359,18 +339,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Norge Elsker Rap",
-        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
+        "name": "CHICANO",
+        "url": "https://open.spotify.com/album/5pAM6Ft7kGCj4wyWAIpQTU"
       },
       "artists": [
         {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+          "name": "Ricky Rich",
+          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
+        },
+        {
+          "name": "Blizzy",
+          "url": "https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp"
         }
       ],
-      "duration_ms": 182973,
-      "name": "Superhelt Steez",
-      "url": "https://open.spotify.com/track/4FoRpi0ILF4DEj8rAP578w"
+      "duration_ms": 151207,
+      "name": "CHICANO",
+      "url": "https://open.spotify.com/track/3jE8a467SmeFRnkK176hAQ"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -387,6 +371,22 @@
       "duration_ms": 141714,
       "name": "Sommerhus",
       "url": "https://open.spotify.com/track/08dWbd4W1hhUusqsJ7zk2J"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Norge Elsker Rap",
+        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 182973,
+      "name": "Superhelt Steez",
+      "url": "https://open.spotify.com/track/4FoRpi0ILF4DEj8rAP578w"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "Norge Elsker Rap",
+        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 110373,
+      "name": "Schnogodidougudugidoubudibow",
+      "url": "https://open.spotify.com/track/5p92TOuIaqTprq7BcTa3x3"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "Sjunka",
         "url": "https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7"
       },
@@ -523,22 +539,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Norge Elsker Rap",
-        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 110373,
-      "name": "Schnogodidougudugidoubudibow",
-      "url": "https://open.spotify.com/track/5p92TOuIaqTprq7BcTa3x3"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Du & Jag",
         "url": "https://open.spotify.com/album/0UJ1RyPtQ9EMQmbBL8ZnUK"
       },
@@ -567,26 +567,6 @@
       "duration_ms": 161240,
       "name": "Blind",
       "url": "https://open.spotify.com/track/5udk76BjdsWuTAw1i6CjGG"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Sp\u00e5r av BLod",
-        "url": "https://open.spotify.com/album/7aZiFpe3Ji0BQ3E2Uo7LzK"
-      },
-      "artists": [
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        },
-        {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
-        }
-      ],
-      "duration_ms": 160634,
-      "name": "Aktiv",
-      "url": "https://open.spotify.com/track/7FILcXgBfO8f48zLaIqb9g"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -643,18 +623,38 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "L\u00f8sningsorienterte",
-        "url": "https://open.spotify.com/album/5m7GdnuEejte2vkXqoconf"
+        "name": "Sp\u00e5r av BLod",
+        "url": "https://open.spotify.com/album/7aZiFpe3Ji0BQ3E2Uo7LzK"
       },
       "artists": [
         {
-          "name": "Ari Bajgora",
-          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        },
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
         }
       ],
-      "duration_ms": 173465,
-      "name": "L\u00f8sningsorienterte",
-      "url": "https://open.spotify.com/track/60vClM4MsGoWmEKO1soSlV"
+      "duration_ms": 160634,
+      "name": "Aktiv",
+      "url": "https://open.spotify.com/track/7FILcXgBfO8f48zLaIqb9g"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Norge Elsker Rap",
+        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 179480,
+      "name": "Beige",
+      "url": "https://open.spotify.com/track/37oQFO7hlyXvgZ0qQwrGsj"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "L\u00f8sningsorienterte",
+        "url": "https://open.spotify.com/album/5m7GdnuEejte2vkXqoconf"
+      },
+      "artists": [
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        }
+      ],
+      "duration_ms": 173465,
+      "name": "L\u00f8sningsorienterte",
+      "url": "https://open.spotify.com/track/60vClM4MsGoWmEKO1soSlV"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "En till dans",
         "url": "https://open.spotify.com/album/3ikbwi5mxo5peZyvGaAugP"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 200412,
       "name": "En till dans",
       "url": "https://open.spotify.com/track/2dSAFb1xzoJffGzfxU4BaE"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Norge Elsker Rap",
-        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 179480,
-      "name": "Beige",
-      "url": "https://open.spotify.com/track/37oQFO7hlyXvgZ0qQwrGsj"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Varig m\u00e9n",
-        "url": "https://open.spotify.com/album/1je48mRG7l23gvEMesMczK"
-      },
-      "artists": [
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        }
-      ],
-      "duration_ms": 151121,
-      "name": "Varig m\u00e9n",
-      "url": "https://open.spotify.com/track/41QTpl1b6fHRtCYNeX10gl"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Vakuum",
         "url": "https://open.spotify.com/album/2L8St3KnSEuLWvNNkKSKts"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "Varig m\u00e9n",
+        "url": "https://open.spotify.com/album/1je48mRG7l23gvEMesMczK"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "duration_ms": 151121,
+      "name": "Varig m\u00e9n",
+      "url": "https://open.spotify.com/track/41QTpl1b6fHRtCYNeX10gl"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "TIL DEG",
         "url": "https://open.spotify.com/album/7bI1OfEsCmIv35F1HPz6KI"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 157217,
       "name": "TIL DEG",
       "url": "https://open.spotify.com/track/1ck8VxAV1xcXiMgfvErURz"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Medell\u00edn",
+        "url": "https://open.spotify.com/album/7iuuXm3zoZsHhJJHPZgeF8"
+      },
+      "artists": [
+        {
+          "name": "Awave",
+          "url": "https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Medell\u00edn",
+      "url": "https://open.spotify.com/track/3Nk5Q7giZdRoq1gi71dQYe"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -851,22 +867,6 @@
       "duration_ms": 322431,
       "name": "2X SPEKTRUM FREESTYLE",
       "url": "https://open.spotify.com/track/4c5BsYDauVKFJuV4njPnvI"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Medell\u00edn",
-        "url": "https://open.spotify.com/album/7iuuXm3zoZsHhJJHPZgeF8"
-      },
-      "artists": [
-        {
-          "name": "Awave",
-          "url": "https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Medell\u00edn",
-      "url": "https://open.spotify.com/track/3Nk5Q7giZdRoq1gi71dQYe"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1143,42 +1143,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Voksen Mann Uten Slips",
-        "url": "https://open.spotify.com/album/2BNCNlkVDlR7gNCpN97jnk"
-      },
-      "artists": [
-        {
-          "name": "Rambow",
-          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
-        },
-        {
-          "name": "Voksen Mann Uten Slips",
-          "url": "https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF"
-        }
-      ],
-      "duration_ms": 132609,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/3Z9Hk0xOZpmKXUSMWIRf1V"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Frossa",
-        "url": "https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO"
-      },
-      "artists": [
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        }
-      ],
-      "duration_ms": 154985,
-      "name": "Frossa",
-      "url": "https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "YOUNG THUG P\u00c5 1M",
         "url": "https://open.spotify.com/album/4ZjRNNwA1ldmgFausc2oby"
       },
@@ -1199,6 +1163,42 @@
       "duration_ms": 145797,
       "name": "YOUNG THUG P\u00c5 1M",
       "url": "https://open.spotify.com/track/6b88vMQia1ddGYjkQPTizO"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Frossa",
+        "url": "https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "duration_ms": 154985,
+      "name": "Frossa",
+      "url": "https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Voksen Mann Uten Slips",
+        "url": "https://open.spotify.com/album/2BNCNlkVDlR7gNCpN97jnk"
+      },
+      "artists": [
+        {
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+        },
+        {
+          "name": "Voksen Mann Uten Slips",
+          "url": "https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF"
+        }
+      ],
+      "duration_ms": 132609,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/3Z9Hk0xOZpmKXUSMWIRf1V"
     },
     {
       "added_at": "2024-07-18 22:00:00",

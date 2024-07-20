@@ -2,13 +2,14 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Blackbeans
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Raine Cloud
 
-52 songs - 3 hr 39 min
+53 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [ALICE](https://open.spotify.com/track/4nimbIVI2u2XUD70c1dOBu) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ALICE](https://open.spotify.com/album/51qkvedWZpnjihzV2WqrqX) | 3:42 | 2024-06-27 |  |
+| [badbye](https://open.spotify.com/track/5td3kJel4JdbqLx5PqgVUA) | [Raine Cloud](https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS) | [badbye](https://open.spotify.com/album/3DpfRjFl8wgXdhkWO3GjEv) | 3:56 | 2024-07-19 |  |
 | [Destiny](https://open.spotify.com/track/58Jm9WlrD6smHP4SLS0Wdp) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [BLACKBEANS](https://open.spotify.com/album/7zwzgZ4Z81rXLAbR24aJSZ) | 4:02 | 2024-07-05 |  |
 | [do you?](https://open.spotify.com/track/21bRopAfENk7IQKRGvz8Ce) | [Television off](https://open.spotify.com/artist/1KmzHN004Sm7O5pqRmh9hA), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [do you?](https://open.spotify.com/album/5gybSiiYBGY1eJgcadloaR) | 3:54 | 2024-06-27 |  |
 | [just](https://open.spotify.com/track/1hvAXb7PBcpxNVyDcN0cxw) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [just](https://open.spotify.com/album/66FVtttMYzTO6OSc5AVqI6) | 4:31 | 2024-06-27 |  |
@@ -34,7 +35,7 @@
 | [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/track/0KdiGdEM5WRIcSWqFjT33b) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/album/6AQEMLftDGMFTOAEybxBBv) | 3:39 | 2024-07-05 |  |
 | [ปล่อยดาว](https://open.spotify.com/track/1fUncVCIUnmf6qihsRkoBE) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ปล่อยดาว](https://open.spotify.com/album/3Hpw5tqpBFDW85WnumEVTF) | 4:13 | 2024-06-27 |  |
 | [ปล่อยฝัน \(Always\)](https://open.spotify.com/track/4fgvbzIQIwCjJXQEAqQQQB) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ปล่อยฝัน \(Always\)](https://open.spotify.com/album/7nz2tmpEGyOL25V6BfhVOn) | 3:58 | 2024-06-27 |  |
-| [ผัดวัน \(no/more\)](https://open.spotify.com/track/34dNJVGauEMrLWoc82EHxv) | [electric.neon.lamp](https://open.spotify.com/artist/4TrJEtCSLvvnpuPO4uAesD) | [ผัดวัน \(no/more\)](https://open.spotify.com/album/5un08eM6t9HLY1iEz2vjDE) | 4:44 | 2024-06-27 |  |
+| [ผัดวัน \(no/more\)](https://open.spotify.com/track/34dNJVGauEMrLWoc82EHxv) | [electric.neon.lamp](https://open.spotify.com/artist/4TrJEtCSLvvnpuPO4uAesD) | [ผัดวัน \(no/more\)](https://open.spotify.com/album/5un08eM6t9HLY1iEz2vjDE) | 4:44 | 2024-06-27 | 2024-07-20 |
 | [พอแล้ว\(แต่อีกแล้ว\)](https://open.spotify.com/track/6cvASv3yuhmXUkpvArYNGo) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [พอแล้ว\(แต่อีกแล้ว\)](https://open.spotify.com/album/1dtLsETExRe02RSDxixrAI) | 4:28 | 2024-06-27 |  |
 | [ยอม \(White Flag\)](https://open.spotify.com/track/1VfxBuhaRC8rnE4VAPQ4Qk) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [All My Purple Feelings](https://open.spotify.com/album/697YQLmLHyLPeO73NGvVqs) | 3:31 | 2024-06-27 |  |
 | [รบกวน](https://open.spotify.com/track/7BAS21NdSsGX3LTjzpy9sy) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [รบกวน](https://open.spotify.com/album/3WMbcDqNUZXATunOGkMfPb) | 3:41 | 2024-06-27 |  |

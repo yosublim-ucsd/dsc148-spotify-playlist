@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hD3xpkU4gL.md) - [plain]
 
 > Para cantar muy bajito..\. o a voz en grito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,797 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,848 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,16 +86,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hD3xpkU4gL.md) - [plain]
 | 76 | [Take My Breath Away](https://open.spotify.com/track/1hZJcuz9iMoz6tLkFlIaUy) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Take My Breath Away](https://open.spotify.com/album/1gwQ8OK1YHKpzIxLKuc1MQ) | 4:24 |
 | 77 | [Hoy tengo ganas de ti](https://open.spotify.com/track/17oji5hYaIqOFWFnPPWCeJ) | [Miguel Gallardo](https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T) | [2 \(Remasterizado 2017\)](https://open.spotify.com/album/5g5J0Xr0ERqUJXGhEGneOr) | 4:05 |
 | 78 | [Entra en Mi Vida](https://open.spotify.com/track/7DUh5iszvXQDhhE0ZEtmUe) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Hasta Ahora](https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH) | 4:09 |
-| 79 | [Te Amaré](https://open.spotify.com/track/3PFyeq4aBtLfShPJ9oiK4p) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | ["Miguel"](https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb) | 3:31 |
-| 80 | [El Amor de Mi Vida](https://open.spotify.com/track/2D2GISPz94aFg526x54sfH) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Sentimientos](https://open.spotify.com/album/4jaAmmz5L8AlfaLpZJ7Mf3) | 5:30 |
+| 79 | [El Amor de Mi Vida](https://open.spotify.com/track/2D2GISPz94aFg526x54sfH) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Sentimientos](https://open.spotify.com/album/4jaAmmz5L8AlfaLpZJ7Mf3) | 5:30 |
+| 80 | [Te Amaré](https://open.spotify.com/track/3PFyeq4aBtLfShPJ9oiK4p) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | ["Miguel"](https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb) | 3:31 |
 | 81 | [La soledad](https://open.spotify.com/track/1F31sM4SCBmPlg1H3r7wGH) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini \- Spanish Version](https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm) | 3:59 |
 | 82 | [Cuando nadie me ve](https://open.spotify.com/track/7sNpt6AvOvXXZVaqTCFVCu) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [El alma al aire](https://open.spotify.com/album/5H3nqNi9L3NaxPG45h3CjJ) | 5:08 |
 | 83 | [A Medio Vivir](https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:41 |
 | 84 | [Eres Mi Religión](https://open.spotify.com/track/3NTaEHQg5iVrRRNWlnK4RY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Revolución De Amor](https://open.spotify.com/album/6HrRHewMLfZLSkwJyZgr3V) | 5:27 |
-| 85 | [tequiero](https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [tequiero](https://open.spotify.com/album/02zhFLX1EJtzhZMIEwKipN) | 3:05 |
-| 86 | [Sin ti no soy nada](https://open.spotify.com/track/7cQ7axcCXsa963OluHTWlS) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Estrella De Mar](https://open.spotify.com/album/1QGknzEMRCNdJ8v1i49SAZ) | 4:28 |
-| 87 | [Para Ti](https://open.spotify.com/track/3gqeGUaXzYsmG6VzfQfagw) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Para Ti](https://open.spotify.com/album/6RS6DlDaxFzbOSdBpNBOPk) | 3:16 |
-| 88 | [Por Debajo De La Mesa](https://open.spotify.com/track/1oaGF1WX4dMGOwZL3ueYVw) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Grandes Éxitos](https://open.spotify.com/album/0NwQIWxyE13WaqiiHC9kIA) | 3:04 |
+| 85 | [Sin ti no soy nada](https://open.spotify.com/track/7cQ7axcCXsa963OluHTWlS) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Estrella De Mar](https://open.spotify.com/album/1QGknzEMRCNdJ8v1i49SAZ) | 4:28 |
+| 86 | [tequiero](https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [tequiero](https://open.spotify.com/album/02zhFLX1EJtzhZMIEwKipN) | 3:05 |
+| 87 | [Por Debajo De La Mesa](https://open.spotify.com/track/1oaGF1WX4dMGOwZL3ueYVw) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Grandes Éxitos](https://open.spotify.com/album/0NwQIWxyE13WaqiiHC9kIA) | 3:04 |
+| 88 | [Para Ti](https://open.spotify.com/track/3gqeGUaXzYsmG6VzfQfagw) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Para Ti](https://open.spotify.com/album/6RS6DlDaxFzbOSdBpNBOPk) | 3:16 |
 | 89 | [Contigo \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/3StCElHKaN6ASLf7Pymdum) | [El Canto Del Loco](https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Radio la Colifata Presenta: El Canto del Loco](https://open.spotify.com/album/6ILlAsXOF5S8OdIYyS1XZf) | 3:34 |
 | 90 | [Estar contigo](https://open.spotify.com/track/0IDyf9eri6YrUs4yeQfCZZ) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Mentiras sinceras](https://open.spotify.com/album/4kycb8w5cgbdLcQ6uD6IyF) | 3:52 |
 | 91 | [Te echo de menos](https://open.spotify.com/track/1YgPkZ6GOwajDveEsuy3uH) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Prisma](https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq) | 3:14 |

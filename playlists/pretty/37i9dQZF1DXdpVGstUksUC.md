@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,471 likes - 100 songs - 10 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,477 likes - 100 songs - 10 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 65 | [Black Lilly](https://open.spotify.com/track/0JHW6P8sKS9GdN11fuGN1G) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [In Her Garden](https://open.spotify.com/album/4Rna96AH3yctoFy4GWla4G) | 6:48 |
 | 66 | [Are You Dead](https://open.spotify.com/track/1P3gkOdyjK5ucr4N1ggLnq) | [Rainbows Are Free](https://open.spotify.com/artist/2xdR2Stqa1oEu4lv7p9lXN) | [Rainbows Are Free](https://open.spotify.com/album/6mlZrNW9M8DNCEctuwdTJn) | 4:11 |
 | 67 | [So High, So Low](https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq) | [Mondo Generator](https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7) | [A Drug Problem That Never Existed](https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo) | 2:35 |
-| 68 | [I'm the Mountain](https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Seven Thunders Roar](https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU) | 16:01 |
-| 69 | [Diablerie](https://open.spotify.com/track/6tn5XqPVJnmZt1rA4kBgJh) | [Windhand](https://open.spotify.com/artist/6wE3e84Zg41JF04Z39i5wv) | [Diablerie](https://open.spotify.com/album/1m4kG1WRaSUeay5rEUOPB5) | 5:20 |
+| 68 | [Diablerie](https://open.spotify.com/track/6tn5XqPVJnmZt1rA4kBgJh) | [Windhand](https://open.spotify.com/artist/6wE3e84Zg41JF04Z39i5wv) | [Diablerie](https://open.spotify.com/album/1m4kG1WRaSUeay5rEUOPB5) | 5:20 |
+| 69 | [I'm the Mountain](https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Seven Thunders Roar](https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU) | 16:01 |
 | 70 | [Shifting Winds](https://open.spotify.com/track/2uSJ9sR3R3beiktlY8ZZtj) | [Lightning Born](https://open.spotify.com/artist/0fmgWMDXvcR5OMYgJLSate) | [Lightning Born](https://open.spotify.com/album/5YhcMNf4XiXfsDWpXpyPhG) | 4:35 |
 | 71 | [Bright Dawn of the Soul](https://open.spotify.com/track/2vMfQgTA6wv0Lzs1zBim2E) | [The Egocentrics](https://open.spotify.com/artist/1knadIogzg8JxShRsjCgCh) | [Love Fear Choices and Astronauts](https://open.spotify.com/album/0U4Bj6rqtCCLwwDPuXUj2d) | 10:51 |
 | 72 | [Desert Cold](https://open.spotify.com/track/6wEShs17sQIlaaWfeJylLE) | [Snowy Dunes](https://open.spotify.com/artist/10do1FRShQdKPJ4RuIY4LX) | [Desert Cold](https://open.spotify.com/album/57zrgsfZAV7Y7TZOZxBJJY) | 6:13 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 96 | [Space Lord](https://open.spotify.com/track/3twKuUTPH239GCSPdRfmgY) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/6oLlvooHUXzfZdxk5q0XN9) | 5:55 |
 | 97 | [Weavers' Weft](https://open.spotify.com/track/35kaYF2YEK74B0WOISySJc) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [Weavers' Weft](https://open.spotify.com/album/6PpjfXaSeP2pYflV2kj6NX) | 9:41 |
 | 98 | [The Regulator](https://open.spotify.com/track/5HjPlgTCOBWjh65fF4aaR9) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Blast Tyrant \(Deluxe Version\)](https://open.spotify.com/album/5KxVwhPQ9d0qp4iuQcAkgR) | 5:25 |
-| 99 | [The Dead Won't Sleep](https://open.spotify.com/track/2qpUakxMrcKT5ZpNfF1H2P) | [Mountain Witch](https://open.spotify.com/artist/5DVeLSoqvtSpVfkWSaTa5y) | [Burning Village](https://open.spotify.com/album/4upmEvHCydc8tcRCSadq5P) | 4:42 |
-| 100 | [Desert Cruiser](https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [Gravity X](https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml) | 7:29 |
+| 99 | [Desert Cruiser](https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [Gravity X](https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml) | 7:29 |
+| 100 | [The Dead Won't Sleep](https://open.spotify.com/track/2qpUakxMrcKT5ZpNfF1H2P) | [Mountain Witch](https://open.spotify.com/artist/5DVeLSoqvtSpVfkWSaTa5y) | [Burning Village](https://open.spotify.com/album/4upmEvHCydc8tcRCSadq5P) | 4:42 |
 
 Snapshot ID: `ZpnkwAAAAAAQJZSzKiMf0n7fsLya9Fjb`

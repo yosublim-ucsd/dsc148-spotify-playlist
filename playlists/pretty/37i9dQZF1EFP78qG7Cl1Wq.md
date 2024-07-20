@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,050 likes - 218 songs - 11 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,051 likes - 218 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 42 | [Stamp On It](https://open.spotify.com/track/0mlxHb4jbPr1PUBUv0WHRS) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Stamp On It \- The 1st Mini Album](https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7) | 3:52 |
 | 43 | [Anyway \(feat\. Tayla Parx\)](https://open.spotify.com/track/02yRHV9Cgk8CUS2fx9lKVC) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Royalty \(Deluxe Version\)](https://open.spotify.com/album/0VWmEVuQ8tA5iA3cCTrgxa) | 3:31 |
 | 44 | [Solo Yo](https://open.spotify.com/track/4DWTVpNexbmJIVc2AmNEZc) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Louder!.](https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8) | 4:08 |
-| 45 | [Runaway \(feat\. Khalid\)](https://open.spotify.com/track/6mXMILvElYiWu4fa9oaJXe) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Runaway \(feat\. Khalid\)](https://open.spotify.com/album/6Xrspi637ex7NEio0geFO4) | 3:58 |
-| 46 | [Handstand \(with Doja Cat feat\. Saweetie\)](https://open.spotify.com/track/0JcgIOrlZ0CNUOPxyudnrK) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 2:50 |
+| 45 | [Handstand \(with Doja Cat feat\. Saweetie\)](https://open.spotify.com/track/0JcgIOrlZ0CNUOPxyudnrK) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 2:50 |
+| 46 | [Runaway \(feat\. Khalid\)](https://open.spotify.com/track/6mXMILvElYiWu4fa9oaJXe) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Runaway \(feat\. Khalid\)](https://open.spotify.com/album/6Xrspi637ex7NEio0geFO4) | 3:58 |
 | 47 | [Na Na Na](https://open.spotify.com/track/6v08G3CGcoyiODIWZoOxR4) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Pentatonix \(Deluxe Version\)](https://open.spotify.com/album/6qf9tE8pNRW0kX1Cucrixr) | 2:35 |
 | 48 | [Woman Up](https://open.spotify.com/track/1BHfxwjNbzbQFphMCpxiRq) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 3:28 |
 | 49 | [Just Sayin/I Tried](https://open.spotify.com/track/2F4JaV4P4zajoAiUkHD36b) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:53 |
@@ -139,7 +139,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 129 | [End of My World](https://open.spotify.com/track/6luWULgexFygt7r2xYQ5iP) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Double Vision \(Deluxe Edition\)](https://open.spotify.com/album/2iTpTfHG5yui5JVtfRNOdK) | 3:41 |
 | 130 | [All Is Well](https://open.spotify.com/track/66JxBSlAJbxpFIP2zgFEkU) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Thank You](https://open.spotify.com/album/3IHDaf8CClvaSdgrewRPjl) | 4:32 |
 | 131 | [Out Of Your Mind](https://open.spotify.com/track/7LPTfbLRyfYcEpdN5gnpes) | [The Presets](https://open.spotify.com/artist/1zTAQ6zkGz2L2i6lfR30EX), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Hi Viz](https://open.spotify.com/album/49AKBTCbQuHJm2w5G6MlPj) | 3:03 |
-| 132 | [YOUR SONG](https://open.spotify.com/track/2QbeXjJMa3cssEf0EVp7Lf) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4), [Junoflo](https://open.spotify.com/artist/5ZjBaiZiRUZx4AmlzOOc9R) | [ONE SHOT, TWO SHOT \- The 1st Mini Album](https://open.spotify.com/album/04gRvDvXy6ctlFxI3G7Wd5) | 3:32 |
+| 132 | [YOUR SONG](https://open.spotify.com/track/2QbeXjJMa3cssEf0EVp7Lf) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [ONE SHOT, TWO SHOT \- The 1st Mini Album](https://open.spotify.com/album/04gRvDvXy6ctlFxI3G7Wd5) | 3:32 |
 | 133 | [YOUR EYES \(feat\. Tayla Parx\)](https://open.spotify.com/track/5RJizYf3glrHlux3XymB2r) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [TESTIFY](https://open.spotify.com/album/72QrPCGdsW94gJZvQY8ZFV) | 3:28 |
 | 134 | [You](https://open.spotify.com/track/3dtLjqr0rjNP61Q6fxL7cr) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 2:53 |
 | 135 | [Glad I'm Not Alone](https://open.spotify.com/track/0gPuDqBxwsManRTW6SfnM5) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 3:27 |
@@ -227,4 +227,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 217 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 | 218 | [SummerTime](https://open.spotify.com/track/364fkWjCvOvHzCUBTHvU3I) | [KE](https://open.spotify.com/artist/1OQbZJyFhZMWGINxNBCUzB), [LAGITT](https://open.spotify.com/artist/1OhNC7ULDsgId5WEKsNsMY) | [SummerTime](https://open.spotify.com/album/0KgWqv4TZlwGCk3M7E6E7j) | 3:40 |
 
-Snapshot ID: `AbXFDAAAAADVMpbVAq+NnYE7TAXyRVCp`
+Snapshot ID: `AbXJAgAAAAAdaI35F2HTvQq/SLSTCh9A`

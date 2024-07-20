@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-458 songs - 20 hr 0 min
+460 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,7 +382,9 @@
 | [Summer](https://open.spotify.com/track/2uyWpCJ6Z0t8IhCzRV1KS9) | [Ana Maria](https://open.spotify.com/artist/2Slr8kvRh1iYRmb2qbfzx9), [Elary](https://open.spotify.com/artist/1s10EzzbWWO6LU4r1dHZ3y) | [Summer](https://open.spotify.com/album/0FvxLUC6vKduCf360e8dvS) | 2:12 | 2024-06-30 |  |
 | [Summer](https://open.spotify.com/track/5LEPFFaFzcjKsImMnhLsvS) | [Muted Mind](https://open.spotify.com/artist/39kVqgwmP8wUYifFJtmXeL), [Jessi G](https://open.spotify.com/artist/32deb5fStB5qWw0sM3BDGU) | [Summer](https://open.spotify.com/album/4XMGrmBKPdMZJtGtrHYpID) | 2:17 | 2024-06-09 |  |
 | [Summer Is Infinite](https://open.spotify.com/track/3LIlH7TeQa5lMsCScn0WKi) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA) | [Summer Is Infinite](https://open.spotify.com/album/1GnZB4TCMFyc5FXojnuNoz) | 2:47 | 2023-09-22 |  |
+| [Summer Life](https://open.spotify.com/track/6eDV3FK90z6IYZ7sewQTbB) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Summer Life](https://open.spotify.com/album/1FlOKgNGKSdlh0Z3uqou8j) | 2:11 | 2024-07-19 |  |
 | [Summer Love](https://open.spotify.com/track/3cuoNCWAR8qyiMpecD1oK4) | [Daniel Santoro](https://open.spotify.com/artist/2LwSighkNo49filvTvJmBz), [Boostereo](https://open.spotify.com/artist/6SwVPmSTMYlcy2vTWyE3aC), [Sven Falk](https://open.spotify.com/artist/7sNMOYS4M4zt4ZluXwramz) | [Summer Love](https://open.spotify.com/album/1CjjhANuqR63nt2qLlG9qz) | 3:20 | 2023-09-22 | 2024-02-26 |
+| [Summer Of Love](https://open.spotify.com/track/3HL3TJezSH1S7e1daqWb7g) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Summer Of Love](https://open.spotify.com/album/3dfw820L9e1avL7i8zwvUU) | 2:03 | 2024-07-19 |  |
 | [Summertime Sadness](https://open.spotify.com/track/4dNtnXTCeYcx2CwJyyJUL7) | [four30](https://open.spotify.com/artist/2ZIBs9fjeieh0tVW1rnO0S) | [Summertime Sadness](https://open.spotify.com/album/2noEqscULZZhV2yNNmK0Me) | 3:35 | 2024-05-26 | 2024-06-23 |
 | [Sunbeams](https://open.spotify.com/track/16hV7KbASg4EWoEymJerRA) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Sunbeams](https://open.spotify.com/album/3GKSanPZhzbDXOgo9dY3pY) | 2:27 | 2023-09-22 | 2023-12-30 |
 | [Sunny](https://open.spotify.com/track/6iolYWSFGkTNXEi7MOMeRs) | [Yume](https://open.spotify.com/artist/6jhofN6VeIi3EciznDCfCv) | [Sunny](https://open.spotify.com/album/7KHdVDoix9UsFrRT95OQqs) | 2:45 | 2024-04-13 | 2024-05-13 |

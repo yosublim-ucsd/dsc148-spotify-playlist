@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 
 > Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses\. Cover : Shriram Sampath
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,228 likes - 75 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,234 likes - 75 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 15 | [Flute Music \- Krishna flute](https://open.spotify.com/track/0yfD9XIMKAbySuM7cmsEYc) | [Jeetu Bhowmik](https://open.spotify.com/artist/0cvOk0AMDkgfNwDMjEWiAV), [Subham jossi](https://open.spotify.com/artist/2AyLAsSZ03yoOx92gMD30U) | [Flute Music \(Krishna flute\)](https://open.spotify.com/album/58gnufbwqLbNE0OZQbUfDT) | 1:21 |
 | 16 | [Inner Peace](https://open.spotify.com/track/2YMUsN8bE7GfGBxCdnT1ox) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Inner Peace](https://open.spotify.com/album/4FoTmbikEtF6Jj4mzvpWQD) | 6:40 |
 | 17 | [Shiva Medicine](https://open.spotify.com/track/5e1m5IOaefA2QOzl9ADGEm) | [Namaste Music](https://open.spotify.com/artist/3Y7yaPgysXZCuMpe4JjyQX) | [Shiva Medicine](https://open.spotify.com/album/47FfjcwJOPkJa59P9IgwZe) | 2:59 |
-| 18 | [Kabira](https://open.spotify.com/track/20nB2JG804edG8Dvudr9zJ) | [Dyal Dalavi](https://open.spotify.com/artist/3L4z8r6PG78sYh5wtXDw0u) | [Nirmal Mann](https://open.spotify.com/album/1R8PSYd2anNIBCLkcXuRJG) | 3:51 |
+| 18 | [At Ease](https://open.spotify.com/track/3Y60FrikUPyqB0LQkxxsbf) | [Steve Gorn](https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC) | [At Ease](https://open.spotify.com/album/3Ia4CWcgi1AxnD9s4pRyEN) | 5:32 |
 | 19 | [Foreign Mists](https://open.spotify.com/track/020AoP6FK7YgDMMj3JFOtJ) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Foreign Mists](https://open.spotify.com/album/6EY0XdNwe6Br36lkhg7lKc) | 4:38 |
 | 20 | [Morning Skies](https://open.spotify.com/track/5uIa8gAkpe17Bce9Q47A71) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Morning Skies](https://open.spotify.com/album/2p0PtIvMflxAUMlwymdTdy) | 6:10 |
-| 21 | [At Ease](https://open.spotify.com/track/3Y60FrikUPyqB0LQkxxsbf) | [Steve Gorn](https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC) | [At Ease](https://open.spotify.com/album/3Ia4CWcgi1AxnD9s4pRyEN) | 5:32 |
+| 21 | [Kabira](https://open.spotify.com/track/20nB2JG804edG8Dvudr9zJ) | [Dyal Dalavi](https://open.spotify.com/artist/3L4z8r6PG78sYh5wtXDw0u) | [Nirmal Mann](https://open.spotify.com/album/1R8PSYd2anNIBCLkcXuRJG) | 3:51 |
 | 22 | [Naan Nee](https://open.spotify.com/track/6cbiAEy3OoREiXooWZ2cRQ) | [Flute Navin](https://open.spotify.com/artist/3apnz04XPisQ04dTfz2Gaw) | [Think Instrumental with Navin, Vol\. 1](https://open.spotify.com/album/0hBfWJXTVK1vBdlvEXfr95) | 3:37 |
 | 23 | [Love Is My Cure](https://open.spotify.com/track/4kqekA8aWuYbvbn2WGecPW) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY), [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Love Is My Cure](https://open.spotify.com/album/3CQJtBcKv6o2yz7UrYLoV8) | 5:08 |
 | 24 | [Krishna Bansuri](https://open.spotify.com/track/4rFZgG0MTumGJBadcF66G6) | [Subham jossi](https://open.spotify.com/artist/2AyLAsSZ03yoOx92gMD30U), [Jeetu Bhowmik](https://open.spotify.com/artist/0cvOk0AMDkgfNwDMjEWiAV) | [Krishna Bansuri](https://open.spotify.com/album/1rA8kzZkghg5OI4AzwCQ4j) | 1:31 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 66 | [Mohana](https://open.spotify.com/track/63QIf46bybNGLt5sKIfljg) | [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR) | [Fluid \(Flute Grooves by Naveen Kumar\)](https://open.spotify.com/album/0FznvOl4NZqN1J9X2xuFEC) | 6:40 |
 | 67 | [Gokul Streets \- Original Mix](https://open.spotify.com/track/5cP04kLMxkCy9tAJ3q8fzp) | [Rupak Mukherjee](https://open.spotify.com/artist/7wbEfkEn8mdeWJqMdjTP5M) | [Classical Melodies of Flute and Tabla](https://open.spotify.com/album/2O3fQR25SIk7vYla9dlchz) | 1:53 |
 | 68 | [Venu](https://open.spotify.com/track/4iNkY671G1WKiFAzEvsT07) | [Martín Asaro](https://open.spotify.com/artist/0V3EGDQyGZgqEOBbWoK5Tk) | [Viajando Con El Viento](https://open.spotify.com/album/4Z2cYIf67ZZUJUTfkl2RpR) | 9:36 |
-| 69 | [Natural Love \(Flute and Lake Only\)](https://open.spotify.com/track/52Rx75xXn70OvOPDegsT1e) | [Samsara Project Ensemble](https://open.spotify.com/artist/1gKj4YuZor2VUhBYDwab7a) | [Bansuri](https://open.spotify.com/album/6C5quIljQpenf33V5kXfxn) | 5:31 |
-| 70 | [Monsoon Moon](https://open.spotify.com/track/53l3hRGFDvakOGlZNmOEJO) | [Sonic Xaman](https://open.spotify.com/artist/13vgYRGlLirVXX6Yoxzm8c) | [Monsoon Moon](https://open.spotify.com/album/5vkFkrsacJzdO1JuW0mLB1) | 4:04 |
+| 69 | [Monsoon Moon](https://open.spotify.com/track/53l3hRGFDvakOGlZNmOEJO) | [Sonic Xaman](https://open.spotify.com/artist/13vgYRGlLirVXX6Yoxzm8c) | [Monsoon Moon](https://open.spotify.com/album/5vkFkrsacJzdO1JuW0mLB1) | 4:04 |
+| 70 | [Natural Love \(Flute and Lake Only\)](https://open.spotify.com/track/52Rx75xXn70OvOPDegsT1e) | [Samsara Project Ensemble](https://open.spotify.com/artist/1gKj4YuZor2VUhBYDwab7a) | [Bansuri](https://open.spotify.com/album/6C5quIljQpenf33V5kXfxn) | 5:31 |
 | 71 | [Chintan Ke Saaz](https://open.spotify.com/track/4saUYeD0vL8DyHfJnUN1Qi) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Prema Ke Sur](https://open.spotify.com/album/0WQpqSKcn8XAggsTRDd0nC) | 4:30 |
 | 72 | [Bliss](https://open.spotify.com/track/5ZfQjYCKtLZZR7e5PAFTgM) | [Sacred Earth](https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99) | [Breathing Space](https://open.spotify.com/album/6YyNx799ExMH8D18jFkpbI) | 7:25 |
 | 73 | [Bansuri Music](https://open.spotify.com/track/3TwUqPh43TO31CuqtAvUXU) | [Anjan Roy](https://open.spotify.com/artist/7HPchTb6N01giKeLztkPpZ) | [Flute Background Music Vol\- 4](https://open.spotify.com/album/5OdwqDDwXbMjsImPn8PIkA) | 2:30 |

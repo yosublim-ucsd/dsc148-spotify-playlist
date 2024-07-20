@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > love peace techno
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,941 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,085 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 34 | [Space Train](https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Kevin D](https://open.spotify.com/artist/7IwSYMdY2qHT0H6tIGH6l3) | [Space Train](https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn) | 2:26 |
 | 35 | [Traurig](https://open.spotify.com/track/6TsiuH7lYexOoq4xJKsOaj) | [DREAM DJ TEAM](https://open.spotify.com/artist/78HKXj2z44JthdgoqT9ElL) | [Traurig](https://open.spotify.com/album/2M7uGrh0k6uDJDedGE9ctO) | 3:51 |
 | 36 | [I Got You](https://open.spotify.com/track/2FAik0wCT2bEcXMeYhoTkj) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [I Got You](https://open.spotify.com/album/0h9Si8hhyqG2TRm61mNUnv) | 2:44 |
-| 37 | [Party All The Time](https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde) | [Party All The Time](https://open.spotify.com/album/4quE07XoEsKoWZpiCRCtlq) | 2:09 |
-| 38 | [Don't Stop](https://open.spotify.com/track/3tYYypENWxaS1DKUtcH8S8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Don't Stop](https://open.spotify.com/album/7k9X7tCJdLdPWpm6JbAW0O) | 3:16 |
+| 37 | [Don't Stop](https://open.spotify.com/track/3tYYypENWxaS1DKUtcH8S8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Don't Stop](https://open.spotify.com/album/7k9X7tCJdLdPWpm6JbAW0O) | 3:16 |
+| 38 | [Party All The Time](https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde) | [Party All The Time](https://open.spotify.com/album/4quE07XoEsKoWZpiCRCtlq) | 2:09 |
 | 39 | [Sarà perché ti amo](https://open.spotify.com/track/6nQLIugrQVRZ7UKaTVdnmS) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [Sarà perché ti amo](https://open.spotify.com/album/42TliMaS2eKrHcVEzggsAh) | 2:14 |
 | 40 | [run from me](https://open.spotify.com/track/3HbqTmMIipVjXRiSpYDxqy) | [Luca Eck](https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz), [COCO\-PALOMA](https://open.spotify.com/artist/08jPWr83bzp3LZVnRu5D19) | [run from me](https://open.spotify.com/album/3nMHLiYS6DRRvyoD07Z5Dy) | 3:34 |
 | 41 | [Heart Sped Up \(BFF\)](https://open.spotify.com/track/1ywCn7d9mHQ8PROIIZdVGL) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ) | [Heart Sped Up \(BFF\)](https://open.spotify.com/album/2e1ZjtU3Dikrdpx21IzXSz) | 1:56 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 70 | [Off Wiv Ya Headz](https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Off Wiv Ya Headz](https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ) | 3:26 |
 | 71 | [While U Sleep](https://open.spotify.com/track/1DNvYQWmYVnKzXZUYssNhX) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Why Can't We Live Forever?](https://open.spotify.com/album/4I1DFWjeY89TY50WWWZlRK) | 2:44 |
 | 72 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 |
-| 73 | [Wild Ones \(Club Mix\)](https://open.spotify.com/track/2MH5KK60I00JOPigNOt4v8) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Wild Ones \(Club Mix\)](https://open.spotify.com/album/2JSwcjpkanFKfT3ev3eDQr) | 3:26 |
-| 74 | [Berlin](https://open.spotify.com/track/0FTzEpdHkYu0D5MBJbjGSh) | [Nicolas Binder](https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA) | [Berlin](https://open.spotify.com/album/66WOqWah15Fu8rRxWVAHNf) | 3:14 |
+| 73 | [Berlin](https://open.spotify.com/track/0FTzEpdHkYu0D5MBJbjGSh) | [Nicolas Binder](https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA) | [Berlin](https://open.spotify.com/album/66WOqWah15Fu8rRxWVAHNf) | 3:14 |
+| 74 | [Wild Ones \(Club Mix\)](https://open.spotify.com/track/2MH5KK60I00JOPigNOt4v8) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Wild Ones \(Club Mix\)](https://open.spotify.com/album/2JSwcjpkanFKfT3ev3eDQr) | 3:26 |
 | 75 | [Donkers](https://open.spotify.com/track/6kvjzDjx2Z3z23xRq13xMu) | [Gonzi](https://open.spotify.com/artist/5QahAoa4CrRbxmriKGacoe), [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Donkers](https://open.spotify.com/album/06SEttic5htIY70LgIXuQR) | 5:04 |
 
-Snapshot ID: `ZpnkwAAAAADROZ/4pIrtsH5CEVAHb3qT`
+Snapshot ID: `ZpotxgAAAABn06Uz/2DAT7cWY+EVzt45`

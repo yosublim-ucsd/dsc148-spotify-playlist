@@ -6,10 +6,270 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn7P8AAAAADaIWmztjHbOIFPMGLBCfl6",
+  "snapshot_id": "Zpp/cAAAAABbjRHTt7R4y/m/O90DmKOV",
   "tracks": [
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
+      "album": {
+        "name": "Ice Palace",
+        "url": "https://open.spotify.com/album/6OjsY6C1ezMaP6dIgXk5ve"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "duration_ms": 344404,
+      "name": "Ice Palace - Extended Mix",
+      "url": "https://open.spotify.com/track/7cUv7t0yLFEliWX3l2Ax2b"
+    },
+    {
+      "added_at": "2024-07-19 15:00:00",
+      "album": {
+        "name": "Happy Finally EP",
+        "url": "https://open.spotify.com/album/3b8wQBrhXOHckYSlvALLuh"
+      },
+      "artists": [
+        {
+          "name": "Blake.08",
+          "url": "https://open.spotify.com/artist/7J6WMh4LEpLud71vkMUb2U"
+        },
+        {
+          "name": "Soschi",
+          "url": "https://open.spotify.com/artist/0E0BOjd8I5ppqXP6zWNDUe"
+        }
+      ],
+      "duration_ms": 434412,
+      "name": "Happy Finally - Extended Mix",
+      "url": "https://open.spotify.com/track/4LWD1N2UlBgjWb5v16ZRnz"
+    },
+    {
+      "added_at": "2024-07-19 15:00:00",
+      "album": {
+        "name": "Berlin Plex EP",
+        "url": "https://open.spotify.com/album/1n1k1QHArN39os249wll3U"
+      },
+      "artists": [
+        {
+          "name": "Fel C",
+          "url": "https://open.spotify.com/artist/2y6nJKuBcPdakXmgggiGo4"
+        },
+        {
+          "name": "Cafius",
+          "url": "https://open.spotify.com/artist/1aBC9aXPU2A7OxYREMJvfH"
+        }
+      ],
+      "duration_ms": 375425,
+      "name": "Different Style",
+      "url": "https://open.spotify.com/track/48q7tv8Gm47dwVm2kPJv8m"
+    },
+    {
+      "added_at": "2024-07-19 15:00:00",
+      "album": {
+        "name": "Feels Like Summer",
+        "url": "https://open.spotify.com/album/68yPa8XcioIq8HR3TYRwiI"
+      },
+      "artists": [
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        }
+      ],
+      "duration_ms": 182520,
+      "name": "Feels Like Summer",
+      "url": "https://open.spotify.com/track/2BmyES33xncl530X676vME"
+    },
+    {
+      "added_at": "2024-07-19 15:00:00",
+      "album": {
+        "name": "Pure Play",
+        "url": "https://open.spotify.com/album/7N0B86QCouKa4ntXFo1DMF"
+      },
+      "artists": [
+        {
+          "name": "HOTPRETTY",
+          "url": "https://open.spotify.com/artist/5CeGXr1eAo8AYXG3OOlclz"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "Pure Play",
+      "url": "https://open.spotify.com/track/1kavOvyxzdk7Y6RP3Kc9EF"
+    },
+    {
+      "added_at": "2024-07-19 15:00:00",
+      "album": {
+        "name": "Morgana / Toscana / Kaskazi",
+        "url": "https://open.spotify.com/album/0OUjGfG79USzj6a3CN4utE"
+      },
+      "artists": [
+        {
+          "name": "Simon Vuarambon",
+          "url": "https://open.spotify.com/artist/2W3M7XIkEKENCT1LXJ6mdj"
+        }
+      ],
+      "duration_ms": 552000,
+      "name": "Morgana",
+      "url": "https://open.spotify.com/track/424ldVhdV9Lbsz6fVC9770"
+    },
+    {
+      "added_at": "2024-07-19 15:00:00",
+      "album": {
+        "name": "Movin\u2019 In Slowly",
+        "url": "https://open.spotify.com/album/4jCKGOT6o3NDd1FxjvBsUl"
+      },
+      "artists": [
+        {
+          "name": "Ezra Blissard",
+          "url": "https://open.spotify.com/artist/6ENNcsssIMTgY3JPK3Fd5w"
+        }
+      ],
+      "duration_ms": 341538,
+      "name": "Movin' In Slowly",
+      "url": "https://open.spotify.com/track/62bseztlpPySEmmSkkQEj9"
+    },
+    {
+      "added_at": "2024-07-19 15:00:00",
+      "album": {
+        "name": "Breathe Again",
+        "url": "https://open.spotify.com/album/1e0H5SnScuhlr57MkDHrVN"
+      },
+      "artists": [
+        {
+          "name": "Morgin Madison",
+          "url": "https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 208571,
+      "name": "Breathe Again",
+      "url": "https://open.spotify.com/track/5XzZUrpj9hVmXwtP4YKhFy"
+    },
+    {
+      "added_at": "2024-07-19 15:00:00",
+      "album": {
+        "name": "Chair 10",
+        "url": "https://open.spotify.com/album/72KBGZELXcHNmayFgtTvnf"
+      },
+      "artists": [
+        {
+          "name": "Spencer Brown",
+          "url": "https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK"
+        }
+      ],
+      "duration_ms": 272903,
+      "name": "Chair 10",
+      "url": "https://open.spotify.com/track/46APlHcz5wJdcLVAKJRLzi"
+    },
+    {
+      "added_at": "2024-07-19 15:00:00",
+      "album": {
+        "name": "Miyanosawa",
+        "url": "https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "duration_ms": 208972,
+      "name": "Miyanosawa",
+      "url": "https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN"
+    },
+    {
+      "added_at": "2024-07-19 15:00:00",
+      "album": {
+        "name": "Answer",
+        "url": "https://open.spotify.com/album/1vRe6YJIyr3KxDzvXDi83g"
+      },
+      "artists": [
+        {
+          "name": "Dosem",
+          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
+        },
+        {
+          "name": "SOHMI",
+          "url": "https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/3EgxB3djDrnGIZrdPKSEaQ"
+    },
+    {
+      "added_at": "2024-07-19 15:00:00",
+      "album": {
+        "name": "Push Me (Adana Twins Remix)",
+        "url": "https://open.spotify.com/album/7mLothvyq9330k58HZDy3E"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        },
+        {
+          "name": "Adana Twins",
+          "url": "https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4"
+        }
+      ],
+      "duration_ms": 376250,
+      "name": "Push Me - Adana Twins Remix",
+      "url": "https://open.spotify.com/track/2QZfBnE2KOLELhM3BTqn84"
+    },
+    {
+      "added_at": "2024-07-19 15:00:00",
+      "album": {
+        "name": "IDKW",
+        "url": "https://open.spotify.com/album/7DKKHibyLHjQdE98HeVQT7"
+      },
+      "artists": [
+        {
+          "name": "Wilfy D",
+          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "IDKW",
+      "url": "https://open.spotify.com/track/67Nrz0HAa2MUrO2zbekGfs"
+    },
+    {
+      "added_at": "2024-07-19 15:00:00",
+      "album": {
+        "name": "Zizzy",
+        "url": "https://open.spotify.com/album/03bT1C7incHJtGjoKhYUAL"
+      },
+      "artists": [
+        {
+          "name": "Enamour",
+          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
+        }
+      ],
+      "duration_ms": 420000,
+      "name": "Zizzy",
+      "url": "https://open.spotify.com/track/4bENMkR60BlLehIvtPMFeM"
+    },
+    {
+      "added_at": "2024-07-19 15:00:00",
+      "album": {
+        "name": "The Shire",
+        "url": "https://open.spotify.com/album/7z97amJc617ewkb8tp4BHW"
+      },
+      "artists": [
+        {
+          "name": "Banksia",
+          "url": "https://open.spotify.com/artist/5KbxQ4ymkRxh9tB59smVYz"
+        }
+      ],
+      "duration_ms": 294850,
+      "name": "The Shire",
+      "url": "https://open.spotify.com/track/6Kxsk7aPk9zB8Ia7mmWvYR"
+    },
+    {
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/6t0gCJ3EsuUoIeAZJ7XfgS"
@@ -25,7 +285,7 @@
       "url": "https://open.spotify.com/track/1Rrn1xTm9PP6bRWoCJ9CiG"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "My Reality",
         "url": "https://open.spotify.com/album/7AnjopJ1lLDzxBlvO1s58N"
@@ -41,7 +301,7 @@
       "url": "https://open.spotify.com/track/2DaWJbE6NJ0Mf6uccj7Ba0"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "FaCet Vol.3",
         "url": "https://open.spotify.com/album/5VznnfDnsbX4FjpxXJeuxL"
@@ -57,7 +317,7 @@
       "url": "https://open.spotify.com/track/3wCXPOC1kqJNFS6UNLZI2F"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Give Me Something EP",
         "url": "https://open.spotify.com/album/6cUBNr7lvjFhZ12s7PIx75"
@@ -77,10 +337,10 @@
       "url": "https://open.spotify.com/track/30BG3CiHyan22xQyJ3nLpa"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
-        "name": "Miyanosawa",
-        "url": "https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu"
+        "name": "I Hope It Lasts Forever",
+        "url": "https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj"
       },
       "artists": [
         {
@@ -88,12 +348,12 @@
           "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
         }
       ],
-      "duration_ms": 208972,
-      "name": "Miyanosawa",
-      "url": "https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN"
+      "duration_ms": 292360,
+      "name": "Jones St.",
+      "url": "https://open.spotify.com/track/2b5xmRxuDDygzLSSr9aZlO"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl"
@@ -113,7 +373,27 @@
       "url": "https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
+      "album": {
+        "name": "I Hope It Lasts Forever",
+        "url": "https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        },
+        {
+          "name": "KROY",
+          "url": "https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX"
+        }
+      ],
+      "duration_ms": 269111,
+      "name": "Never Go Back",
+      "url": "https://open.spotify.com/track/7qK9QzWb1QJlrNB79Jmkqj"
+    },
+    {
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Holla Atcha Boy",
         "url": "https://open.spotify.com/album/3F0Yi5rF00WMyidAISDHKF"
@@ -129,7 +409,7 @@
       "url": "https://open.spotify.com/track/43ifg31n5z9FxqRMVCK7hS"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "We Could Be Love",
         "url": "https://open.spotify.com/album/4p3Eue4nXRORfFiID2811z"
@@ -149,7 +429,7 @@
       "url": "https://open.spotify.com/track/3y20RxZMr3wZMvhC78jc8O"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "The Lights",
         "url": "https://open.spotify.com/album/4cUKGRO7NNGwenHqQ4lhxL"
@@ -165,23 +445,7 @@
       "url": "https://open.spotify.com/track/6hPPLSC5T6aBdr3V2dDkcv"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
-      "album": {
-        "name": "I Hope It Lasts Forever",
-        "url": "https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj"
-      },
-      "artists": [
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        }
-      ],
-      "duration_ms": 292360,
-      "name": "Jones St.",
-      "url": "https://open.spotify.com/track/2b5xmRxuDDygzLSSr9aZlO"
-    },
-    {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Dark In This Room",
         "url": "https://open.spotify.com/album/0wrMY5uUsBFVvfnXLLeA6z"
@@ -197,7 +461,7 @@
       "url": "https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Raw (Tony Romera Remix)",
         "url": "https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ"
@@ -225,7 +489,7 @@
       "url": "https://open.spotify.com/track/0VoT2Cf8VgPLZmLBtQQpJX"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Hyperdrive",
         "url": "https://open.spotify.com/album/5sOOQ3UyIhHftNt1Aj7j2D"
@@ -241,7 +505,7 @@
       "url": "https://open.spotify.com/track/5J81VXV583BuFcK9PldZML"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Electronic Generations",
         "url": "https://open.spotify.com/album/15XrNU8AkmvwmGkoi6sLSs"
@@ -269,27 +533,7 @@
       "url": "https://open.spotify.com/track/6z5LHZZWFKN7M5kGJ6RbHq"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
-      "album": {
-        "name": "I Hope It Lasts Forever",
-        "url": "https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj"
-      },
-      "artists": [
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        },
-        {
-          "name": "KROY",
-          "url": "https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX"
-        }
-      ],
-      "duration_ms": 269111,
-      "name": "Never Go Back",
-      "url": "https://open.spotify.com/track/7qK9QzWb1QJlrNB79Jmkqj"
-    },
-    {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Starwave",
         "url": "https://open.spotify.com/album/4lytT0OVqWxA61RJzRe9Jf"
@@ -305,7 +549,23 @@
       "url": "https://open.spotify.com/track/6rp6aaU6p6bgjZSe0ZWbDK"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
+      "album": {
+        "name": "I Hope It Lasts Forever",
+        "url": "https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "duration_ms": 293100,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/4yT7E7tzc3h3W0M2Stwwpf"
+    },
+    {
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Astra",
         "url": "https://open.spotify.com/album/6URu3zeYOlrVHeDmY1pPlf"
@@ -325,7 +585,7 @@
       "url": "https://open.spotify.com/track/2Gmr2z2j7FTdeiwQ6eUuru"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Tuxedo Park",
         "url": "https://open.spotify.com/album/42QDpb6P5BAzzg6kawSuZE"
@@ -345,7 +605,7 @@
       "url": "https://open.spotify.com/track/5OVZy3WmkSh8iyoq9mf65u"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Last Night (Anyma x Layton Giordani Remix)",
         "url": "https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa"
@@ -369,23 +629,7 @@
       "url": "https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
-      "album": {
-        "name": "I Hope It Lasts Forever",
-        "url": "https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj"
-      },
-      "artists": [
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        }
-      ],
-      "duration_ms": 293100,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/4yT7E7tzc3h3W0M2Stwwpf"
-    },
-    {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Always Forever",
         "url": "https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF"
@@ -401,7 +645,7 @@
       "url": "https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Don't Look Back",
         "url": "https://open.spotify.com/album/4lNYwEa1C888Vc8AeSoGoC"
@@ -425,7 +669,7 @@
       "url": "https://open.spotify.com/track/0BgTW71XRJ9hxR0zFYu5eN"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "When I'm With You EP",
         "url": "https://open.spotify.com/album/78J6ne4FcdzP9s7NiN6Mrr"
@@ -441,7 +685,7 @@
       "url": "https://open.spotify.com/track/1sxGoYIDd1zPjLdxOgar7R"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Feelin'",
         "url": "https://open.spotify.com/album/0RTmBSVTMfd6oIQ1Z0WwCv"
@@ -457,7 +701,7 @@
       "url": "https://open.spotify.com/track/4mm3PG3fwbfLpmdVUmjM3T"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "If You Know Me (Qrion Remix)",
         "url": "https://open.spotify.com/album/5s8OXeVny3NihaLgjBDJzp"
@@ -485,7 +729,7 @@
       "url": "https://open.spotify.com/track/7xcJAex6hVX3gWTpHars8V"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Air",
         "url": "https://open.spotify.com/album/0sJSPnCa8bYl5OPuTmt5GZ"
@@ -509,7 +753,7 @@
       "url": "https://open.spotify.com/track/4iDOEn9BxlbjorrOQji42Z"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/28D9umTTAsMuEWuKj5WNAi"
@@ -525,7 +769,7 @@
       "url": "https://open.spotify.com/track/2uEcNtI8A8cxID8JCCIVZJ"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Guardian",
         "url": "https://open.spotify.com/album/3vERVTVUvIE7JRPr5wlQwq"
@@ -541,7 +785,7 @@
       "url": "https://open.spotify.com/track/67bDg0xmFhqSJrOe83NGZf"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Auna",
         "url": "https://open.spotify.com/album/1ytjyth8lIRAvKp0ifGT00"
@@ -557,7 +801,7 @@
       "url": "https://open.spotify.com/track/6rLCOcMd1DEPqMgX05ry7r"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "I Hope It Lasts Forever",
         "url": "https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj"
@@ -573,7 +817,7 @@
       "url": "https://open.spotify.com/track/0mogpLJRPJTCCdy5yV9qhl"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Baddy On The Floor",
         "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
@@ -593,7 +837,7 @@
       "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Destination Lost",
         "url": "https://open.spotify.com/album/2ItQG3PKAQdffC25QXdxL0"
@@ -613,7 +857,7 @@
       "url": "https://open.spotify.com/track/2YpD9Go9kzxCc325pgJTjM"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Lanes EP",
         "url": "https://open.spotify.com/album/5S3RXvDtsb3RQiPwIVE9Wj"
@@ -633,7 +877,7 @@
       "url": "https://open.spotify.com/track/45UHM5mKHWdUuetCRCZkND"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Fleuron Drift",
         "url": "https://open.spotify.com/album/1oFJ6wFXAACZ1aDPAzQLtI"
@@ -649,7 +893,7 @@
       "url": "https://open.spotify.com/track/4dk4d4LMWTF7DeTbCcz2AW"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Miroir Miroir (Qrion Remix)",
         "url": "https://open.spotify.com/album/1R4LQ1lu3U96k6hznwS8Ya"
@@ -673,7 +917,7 @@
       "url": "https://open.spotify.com/track/5aKJuLnUZnLdIdJO3csJbj"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/5XFF3PtWAtY9Y2HYIXa7Ap"
@@ -689,7 +933,7 @@
       "url": "https://open.spotify.com/track/0Of3ECzxO2c0HkkK0Ti0iU"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Moonbow / Hart Plaza Vibes",
         "url": "https://open.spotify.com/album/2bo6XPoehNg1ZCwBuIM0uQ"
@@ -705,7 +949,7 @@
       "url": "https://open.spotify.com/track/1G1CnOw2l7BIXLLzKhpUNF"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "I Got Nothing (Ferreck Dawn Mix)",
         "url": "https://open.spotify.com/album/2Rfodx3PPInqdZUplCNzjq"
@@ -729,7 +973,7 @@
       "url": "https://open.spotify.com/track/6ZR6tHglQJYQCLDrZNpFUV"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "No One",
         "url": "https://open.spotify.com/album/1COKeouDUFhUwT1mhSque6"
@@ -745,7 +989,7 @@
       "url": "https://open.spotify.com/track/2gTYGAeRlXRe8uHofu9mxf"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Equanimity (Remixes) pt.1",
         "url": "https://open.spotify.com/album/6Q5Js1x4jJu73FPS9emm5F"
@@ -769,23 +1013,7 @@
       "url": "https://open.spotify.com/track/0Klcd0tEhbpkOeXS2GJca8"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
-      "album": {
-        "name": "Tala",
-        "url": "https://open.spotify.com/album/7rlh65ToiwLcaAQOOEvttQ"
-      },
-      "artists": [
-        {
-          "name": "Banksia",
-          "url": "https://open.spotify.com/artist/5KbxQ4ymkRxh9tB59smVYz"
-        }
-      ],
-      "duration_ms": 277053,
-      "name": "Sonore",
-      "url": "https://open.spotify.com/track/7jb5cXl0hbPc8k7WfKMurk"
-    },
-    {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Luca Ricci Presents: Aenaria Tech WMC '09",
         "url": "https://open.spotify.com/album/3hAoea3zlJZ2EOiqYz6SJy"
@@ -801,59 +1029,7 @@
       "url": "https://open.spotify.com/track/2yIUcFgAybY5Gox6bMbfkR"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
-      "album": {
-        "name": "Alter Ego",
-        "url": "https://open.spotify.com/album/5ZPgJG1QgGj7H5cQQVK5eU"
-      },
-      "artists": [
-        {
-          "name": "Fernie",
-          "url": "https://open.spotify.com/artist/6GinOYasEVdYwWFkiuUqRn"
-        }
-      ],
-      "duration_ms": 370393,
-      "name": "Tranquility - Original Mix",
-      "url": "https://open.spotify.com/track/32Ak5Jb2mLDhZy8Za9jmVv"
-    },
-    {
-      "added_at": "2024-06-28 15:00:00",
-      "album": {
-        "name": "P&L",
-        "url": "https://open.spotify.com/album/2WzkwZqkh4qbbe0qx2Q85t"
-      },
-      "artists": [
-        {
-          "name": "Survival Mode",
-          "url": "https://open.spotify.com/artist/71ZV9O3HAnc2zBk1Pq3LwZ"
-        },
-        {
-          "name": "WANTACH",
-          "url": "https://open.spotify.com/artist/7FCwDDaLKrcj9gz7oDXE3P"
-        }
-      ],
-      "duration_ms": 357325,
-      "name": "P&L",
-      "url": "https://open.spotify.com/track/6Askge1ldhTX2wOFA9I7mI"
-    },
-    {
-      "added_at": "2024-06-28 15:00:00",
-      "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/2qlU5QR86qqrdWDG3UvGTT"
-      },
-      "artists": [
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        }
-      ],
-      "duration_ms": 249984,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/6dOLWS1ee89ZezU4aRnpaX"
-    },
-    {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "House is Raw",
         "url": "https://open.spotify.com/album/3KCZbOOqjx2Qoa7Srcj0E0"
@@ -869,7 +1045,7 @@
       "url": "https://open.spotify.com/track/4S28P05csvq3s4xfgMd6ku"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Ibiza Progressive Tunes 2010",
         "url": "https://open.spotify.com/album/56XZfaH6WHXsAHOos3TsCR"
@@ -889,7 +1065,7 @@
       "url": "https://open.spotify.com/track/7xNoMJovQ2vQEIXJFONE5b"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Miller",
         "url": "https://open.spotify.com/album/1PqVEt69ZmHEoZhrKfuAji"
@@ -909,23 +1085,7 @@
       "url": "https://open.spotify.com/track/1QEaF95yg4u8p4KquK4z72"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
-      "album": {
-        "name": "Eurostar",
-        "url": "https://open.spotify.com/album/3QHhdrXBvWsLPgEIz9ZLEN"
-      },
-      "artists": [
-        {
-          "name": "Faster Horses",
-          "url": "https://open.spotify.com/artist/3LpHT7su9Y4DLfV6NCfZKZ"
-        }
-      ],
-      "duration_ms": 297489,
-      "name": "Eurostar",
-      "url": "https://open.spotify.com/track/4NJKOUGGmSrWBMDgboFLve"
-    },
-    {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "11-11",
         "url": "https://open.spotify.com/album/1aSXw07nHyVs3KG9GZmYu4"
@@ -941,7 +1101,7 @@
       "url": "https://open.spotify.com/track/6Gmazx7JDCdgQiSCTiYwIq"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "WUH",
         "url": "https://open.spotify.com/album/0wECRzEMmF1LykSr21xXj2"
@@ -961,7 +1121,7 @@
       "url": "https://open.spotify.com/track/75teJSr9AVjZ3C4ODAQr5u"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "OGE011",
         "url": "https://open.spotify.com/album/35bMpD4delE5NUrv9nkdpw"
@@ -977,7 +1137,7 @@
       "url": "https://open.spotify.com/track/7ec1rkRMnlUWRHwX2f1InY"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "A Girl with No Friends EP",
         "url": "https://open.spotify.com/album/2nxzSANR5EwvCApe0R6oFb"
@@ -993,39 +1153,7 @@
       "url": "https://open.spotify.com/track/7MDHa1hOP7c4ONqOSxyvmg"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
-      "album": {
-        "name": "Fantasmagorii EP",
-        "url": "https://open.spotify.com/album/4cRqqjosVkLS8rIVRcboi4"
-      },
-      "artists": [
-        {
-          "name": "Imp\u00e9rieux",
-          "url": "https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK"
-        }
-      ],
-      "duration_ms": 364560,
-      "name": "Ferishtah",
-      "url": "https://open.spotify.com/track/33CaD77Dd5GWqTmq35p6u1"
-    },
-    {
-      "added_at": "2024-06-28 15:00:00",
-      "album": {
-        "name": "LNOE Introducing Vol. 1",
-        "url": "https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz"
-      },
-      "artists": [
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        }
-      ],
-      "duration_ms": 322058,
-      "name": "Monolith",
-      "url": "https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB"
-    },
-    {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Volta",
         "url": "https://open.spotify.com/album/6l62xUxfpMdrYveLd1L8Ju"
@@ -1041,7 +1169,7 @@
       "url": "https://open.spotify.com/track/7D0qHzJaIpccOg9hRW1Oeg"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "By The River (Aalson Remix)",
         "url": "https://open.spotify.com/album/2J6G7Z0XlYmACzOUxF3Kpf"
@@ -1065,7 +1193,7 @@
       "url": "https://open.spotify.com/track/08OIFiRAqiPARVUWkX8RAo"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Cosy Mess",
         "url": "https://open.spotify.com/album/56jgXhCKnRQe45rUVJeW9R"
@@ -1081,7 +1209,7 @@
       "url": "https://open.spotify.com/track/2FBAx59fNmeLJIFsfTqerc"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "the fair",
         "url": "https://open.spotify.com/album/6IeQJ3fXhUKR7ICzUKraVs"
@@ -1097,7 +1225,7 @@
       "url": "https://open.spotify.com/track/64VMZMSIpzvU78yYw0wXwX"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Proud (Dance System Remix)",
         "url": "https://open.spotify.com/album/0jhQ97Dc7WvwGHXkvtkVFJ"
@@ -1117,7 +1245,7 @@
       "url": "https://open.spotify.com/track/7miCWmqkll2P2MLiG58sUk"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Candidasa EP",
         "url": "https://open.spotify.com/album/6WXn29FqzQK2dW4M8DNPC4"
@@ -1133,7 +1261,7 @@
       "url": "https://open.spotify.com/track/2UdB4mqfNI5M01Vpfta2tU"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Memories Flowing",
         "url": "https://open.spotify.com/album/4PwMMMwBBPVsIptFFXjriW"
@@ -1149,7 +1277,7 @@
       "url": "https://open.spotify.com/track/2Pxp1Pe5zQkoClW0l3jIEC"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Picture: Rafael Cerato",
         "url": "https://open.spotify.com/album/5UBuSzoAu1c2Bw9heEV6DH"
@@ -1165,7 +1293,7 @@
       "url": "https://open.spotify.com/track/2Z3O2aGJemrtDNSP3v9GlP"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Vanarama Bar",
         "url": "https://open.spotify.com/album/2uNcWz0zhKreecD9LsbrZR"
@@ -1181,7 +1309,7 @@
       "url": "https://open.spotify.com/track/4a5ORv1f6smQPftOhIiB2J"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Penguin Love Theory",
         "url": "https://open.spotify.com/album/3EEBi4BV92v9Gbfhx1la7l"
@@ -1197,7 +1325,7 @@
       "url": "https://open.spotify.com/track/3bzJhJH6nAzXXdMrxgUOvV"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "So... / Outlandos",
         "url": "https://open.spotify.com/album/4LdWDOzd1BAgwHlz2oOybp"
@@ -1213,7 +1341,7 @@
       "url": "https://open.spotify.com/track/08yr7AX1DLnfewURbJ8S3f"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Aircargo",
         "url": "https://open.spotify.com/album/1RQ5sUC3WV3jMmNgsuw5ud"
@@ -1233,27 +1361,7 @@
       "url": "https://open.spotify.com/track/5R1nDd34mok4mAzc1iFU0A"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
-      "album": {
-        "name": "Sunlight (Rodriguez Jr. Remix)",
-        "url": "https://open.spotify.com/album/4ghjVnOfgIDSq7mJ40tOGq"
-      },
-      "artists": [
-        {
-          "name": "Lufthaus",
-          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
-        },
-        {
-          "name": "Rodriguez Jr.",
-          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
-        }
-      ],
-      "duration_ms": 199897,
-      "name": "Sunlight - Rodriguez Jr. Remix",
-      "url": "https://open.spotify.com/track/6YbP1KNL5EizngkpQCidCy"
-    },
-    {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "AMA",
         "url": "https://open.spotify.com/album/5YjPVazlA5oBaWvOfUIVfb"
@@ -1273,7 +1381,7 @@
       "url": "https://open.spotify.com/track/4aJo4L06xodly3Gam3MSoP"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Hypnos Nyx",
         "url": "https://open.spotify.com/album/6XmHYA4bu2srwQxk7FHTLo"
@@ -1289,7 +1397,7 @@
       "url": "https://open.spotify.com/track/1ibMUfep7E41cWpmtjLXFN"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Solas",
         "url": "https://open.spotify.com/album/1B7GgTrucaQcekQypzornp"
@@ -1305,7 +1413,7 @@
       "url": "https://open.spotify.com/track/75KWFcSxPOCYy6HYe2rXmY"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Fading",
         "url": "https://open.spotify.com/album/04HcvlMjZ3dGBkjvVrbSwf"
@@ -1321,7 +1429,7 @@
       "url": "https://open.spotify.com/track/7dGWQLlYtJszgqdSjxRgpL"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Beyond Us",
         "url": "https://open.spotify.com/album/059cyUyqw5RwJJIFSACVLE"
@@ -1337,7 +1445,7 @@
       "url": "https://open.spotify.com/track/0WWcpVbhW4QSCDuOhv4uud"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Find U",
         "url": "https://open.spotify.com/album/5clE9ya21baTT6qhtNEVF9"
@@ -1353,7 +1461,7 @@
       "url": "https://open.spotify.com/track/6ZszWxc2N3E1W200tDEAQs"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "This Feeling",
         "url": "https://open.spotify.com/album/70DRinqBAX17xz604tCR5M"
@@ -1373,7 +1481,7 @@
       "url": "https://open.spotify.com/track/4kdY5p1f3aysdsGH2uzj1T"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Pictures Of You",
         "url": "https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO"
@@ -1389,7 +1497,7 @@
       "url": "https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Night Rider",
         "url": "https://open.spotify.com/album/43JJvuDZthW35FWPWegmOM"
@@ -1409,7 +1517,7 @@
       "url": "https://open.spotify.com/track/6UuusfFrOzwuLuZYaAwqXC"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Cocoon Compilation S",
         "url": "https://open.spotify.com/album/7dAIB06XezAwD6Mg706lvH"
@@ -1425,7 +1533,7 @@
       "url": "https://open.spotify.com/track/3vzyI6jeJ86NuRoL5v1fOe"
     },
     {
-      "added_at": "2024-06-28 15:00:00",
+      "added_at": "2024-07-19 15:00:00",
       "album": {
         "name": "Hot Night",
         "url": "https://open.spotify.com/album/1TsV2l0AtV32o8nQCjsnlv"
@@ -1443,22 +1551,6 @@
       "duration_ms": 238987,
       "name": "Hot Night",
       "url": "https://open.spotify.com/track/5xcmBLG9VO1ILZtUjNP4q8"
-    },
-    {
-      "added_at": "2024-06-28 15:00:00",
-      "album": {
-        "name": "Vajkoczy",
-        "url": "https://open.spotify.com/album/3oy1d5bjUEGw1GiJJ1vPLI"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 250338,
-      "name": "Vajkoczy",
-      "url": "https://open.spotify.com/track/3KmzZk1OtrY7eNvAliEaiP"
     }
   ],
   "unique_name": "Qrion's track IDs",

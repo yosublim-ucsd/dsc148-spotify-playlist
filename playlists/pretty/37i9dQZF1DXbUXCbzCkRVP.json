@@ -1,6 +1,6 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 52081,
+  "num_followers": 52106,
   "original_name": "Classic Instrumental Blues",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "Second Album",
-        "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
-      },
-      "artists": [
-        {
-          "name": "Roy Buchanan",
-          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Tribute To Elmore James",
-      "url": "https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "For Collectors Only (The Wham Of That Memphis Man)",
         "url": "https://open.spotify.com/album/5tgQYUZW6IHoi2VvP3yW7v"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 132333,
       "name": "Wham!",
       "url": "https://open.spotify.com/track/302CaFeYCMGRad4UvnRF8J"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "Second Album",
+        "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
+      },
+      "artists": [
+        {
+          "name": "Roy Buchanan",
+          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Tribute To Elmore James",
+      "url": "https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -915,18 +915,18 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+        "name": "The Peacock Recordings: 1949-1959",
+        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
       },
       "artists": [
         {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
         }
       ],
-      "duration_ms": 159626,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/4XtHlG9bac0BxNGSJkuK3J"
+      "duration_ms": 173000,
+      "name": "Ain't That Dandy",
+      "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "The Peacock Recordings: 1949-1959",
-        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Ain't That Dandy",
-      "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "Broken Halo",
         "url": "https://open.spotify.com/album/0Dpk0b9BcgKUFaYYSgVh3S"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 178826,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/6gLPSVs7lhIxm6HNsrjMkn"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 159626,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/4XtHlG9bac0BxNGSJkuK3J"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "Sun Records Originals: Easy",
-        "url": "https://open.spotify.com/album/7lNfgd8tQNOB4Of6cmOn4e"
-      },
-      "artists": [
-        {
-          "name": "Big Walter Horton",
-          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
-        }
-      ],
-      "duration_ms": 153250,
-      "name": "Little Walter's Boogie",
-      "url": "https://open.spotify.com/track/2MvDrcDCQl3bAqO065bRX2"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "The Chess Box",
         "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 132800,
       "name": "Evans' Shuffle",
       "url": "https://open.spotify.com/track/0qjSYugTXUitQdXfd0V6te"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "Sun Records Originals: Easy",
+        "url": "https://open.spotify.com/album/7lNfgd8tQNOB4Of6cmOn4e"
+      },
+      "artists": [
+        {
+          "name": "Big Walter Horton",
+          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Little Walter's Boogie",
+      "url": "https://open.spotify.com/track/2MvDrcDCQl3bAqO065bRX2"
     },
     {
       "added_at": "2024-05-29 07:23:14",

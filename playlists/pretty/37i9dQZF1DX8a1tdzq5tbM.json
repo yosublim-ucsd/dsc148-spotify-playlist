@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1590733,
+  "num_followers": 1590937,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Pure... 90s Dance Party",
-        "url": "https://open.spotify.com/album/03awYMGLQWIlD1VyDwq1HF"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        }
-      ],
-      "duration_ms": 215093,
-      "name": "Insomnia - Radio Edit",
-      "url": "https://open.spotify.com/track/3dX6WDwnHwYzB5t754oB4T"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "One More Love",
         "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 191000,
       "name": "When Love Takes Over (feat. Kelly Rowland)",
       "url": "https://open.spotify.com/track/1hRFVIy9As8OVRk8B7CrD5"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Pure... 90s Dance Party",
+        "url": "https://open.spotify.com/album/03awYMGLQWIlD1VyDwq1HF"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 215093,
+      "name": "Insomnia - Radio Edit",
+      "url": "https://open.spotify.com/track/3dX6WDwnHwYzB5t754oB4T"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -655,26 +655,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Missing (Remixes)",
-        "url": "https://open.spotify.com/album/4LDr8TzhxY0Qpyfm1cKNYo"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        },
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "Missing - Todd Terry Remix Radio Edit",
-      "url": "https://open.spotify.com/track/7HWyA12GJhcn866OJ0QHkt"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "90s 100 Hits",
         "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 250440,
       "name": "You're Not Alone - Radio Edit",
       "url": "https://open.spotify.com/track/5HPchyFdQZT1cDbdOTdFji"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Missing (Remixes)",
+        "url": "https://open.spotify.com/album/4LDr8TzhxY0Qpyfm1cKNYo"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "Missing - Todd Terry Remix Radio Edit",
+      "url": "https://open.spotify.com/track/7HWyA12GJhcn866OJ0QHkt"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Chemistry",
-        "url": "https://open.spotify.com/album/3Cu39vkUTn1XEqEFRwsk5Q"
-      },
-      "artists": [
-        {
-          "name": "Velvet",
-          "url": "https://open.spotify.com/artist/5J5a0hqBGCelowVl8EkK7z"
-        }
-      ],
-      "duration_ms": 224640,
-      "name": "Chemistry - Radio Edit",
-      "url": "https://open.spotify.com/track/6mMeuIonqBIcuzCGY5Soqe"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "One More Love",
         "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 219946,
       "name": "The World Is Mine",
       "url": "https://open.spotify.com/track/1tmYcGyQJHestYnGel5y7c"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/3Cu39vkUTn1XEqEFRwsk5Q"
+      },
+      "artists": [
+        {
+          "name": "Velvet",
+          "url": "https://open.spotify.com/artist/5J5a0hqBGCelowVl8EkK7z"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Chemistry - Radio Edit",
+      "url": "https://open.spotify.com/track/6mMeuIonqBIcuzCGY5Soqe"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/4FN8F3aiiUagVSBBGW5ULu"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "Call On Me - Radio Edit",
+      "url": "https://open.spotify.com/track/3uLSUZEmTY50H6Kw17lpfW"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Heartbreak",
         "url": "https://open.spotify.com/album/2Fn9AUKeLQFo1lLfpNe2m7"
       },
@@ -1667,22 +1683,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/095xxX1IyCyEwPA1DndWpY"
-      },
-      "artists": [
-        {
-          "name": "Those Usual Suspects",
-          "url": "https://open.spotify.com/artist/7c6YXSeV5AremzaZGh7SWB"
-        }
-      ],
-      "duration_ms": 202053,
-      "name": "Shadows - Inpetto Edit",
-      "url": "https://open.spotify.com/track/3KqXPyaLysWraUSi4PuSnz"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Elements of Life",
         "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
       },
@@ -1699,6 +1699,22 @@
       "duration_ms": 420546,
       "name": "Everything (feat. JES)",
       "url": "https://open.spotify.com/track/1jKWGx7rruKRB2gwyHBtYN"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/095xxX1IyCyEwPA1DndWpY"
+      },
+      "artists": [
+        {
+          "name": "Those Usual Suspects",
+          "url": "https://open.spotify.com/artist/7c6YXSeV5AremzaZGh7SWB"
+        }
+      ],
+      "duration_ms": 202053,
+      "name": "Shadows - Inpetto Edit",
+      "url": "https://open.spotify.com/track/3KqXPyaLysWraUSi4PuSnz"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1775,22 +1791,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/5bHsXOMd0ZOo2GrQa7ZPkM"
-      },
-      "artists": [
-        {
-          "name": "M'Black",
-          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
-        }
-      ],
-      "duration_ms": 203212,
-      "name": "Crush - Radio Dance Edit",
-      "url": "https://open.spotify.com/track/2tPyQNtMIrHN1OuYVIGFE9"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
@@ -1803,6 +1803,22 @@
       "duration_ms": 177026,
       "name": "Traffic - Radio Edit",
       "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/5bHsXOMd0ZOo2GrQa7ZPkM"
+      },
+      "artists": [
+        {
+          "name": "M'Black",
+          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
+        }
+      ],
+      "duration_ms": 203212,
+      "name": "Crush - Radio Dance Edit",
+      "url": "https://open.spotify.com/track/2tPyQNtMIrHN1OuYVIGFE9"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1871,6 +1887,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Hot (Remixes)",
+        "url": "https://open.spotify.com/album/5swvYY29TJ4Nrl2QU7Ns1v"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 152533,
+      "name": "Hot - UK Radio Edit",
+      "url": "https://open.spotify.com/track/0aAGggDsfvfc8PQPkqZvH7"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Fight For You",
         "url": "https://open.spotify.com/album/3Lh1osrbEC5fPycPBhoVO1"
       },
@@ -1895,38 +1927,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/4FN8F3aiiUagVSBBGW5ULu"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "Call On Me - Radio Edit",
-      "url": "https://open.spotify.com/track/3uLSUZEmTY50H6Kw17lpfW"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Hot (Remixes)",
-        "url": "https://open.spotify.com/album/5swvYY29TJ4Nrl2QU7Ns1v"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 152533,
-      "name": "Hot - UK Radio Edit",
-      "url": "https://open.spotify.com/track/0aAGggDsfvfc8PQPkqZvH7"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
@@ -1939,22 +1939,6 @@
       "duration_ms": 443426,
       "name": "Adagio For Strings",
       "url": "https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Moby",
-        "url": "https://open.spotify.com/album/3odtsxIywNIQBqlP7UFyv4"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/3m4Mp1KfiPawsOjlRlbxN3"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -2059,6 +2043,22 @@
       "duration_ms": 180906,
       "name": "Destination Calabria - Radio Edit",
       "url": "https://open.spotify.com/track/4IES3nsUkICyjj3sfznczq"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Moby",
+        "url": "https://open.spotify.com/album/3odtsxIywNIQBqlP7UFyv4"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/3m4Mp1KfiPawsOjlRlbxN3"
     },
     {
       "added_at": "2024-07-12 15:40:20",

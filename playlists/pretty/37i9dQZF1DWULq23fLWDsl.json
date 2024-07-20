@@ -1,6 +1,6 @@
 {
   "description": "2010 highlights from the home of indie music. Cover: Gorillaz.",
-  "num_followers": 265228,
+  "num_followers": 265401,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
+        "name": "Crystal Castles (II)",
+        "url": "https://open.spotify.com/album/63QBHPFzDjTfumF8VlPX8l"
+      },
+      "artists": [
+        {
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        }
+      ],
+      "duration_ms": 252933,
+      "name": "Baptism",
+      "url": "https://open.spotify.com/track/4fQuGSR9iAmCOA36XCpKqr"
+    },
+    {
+      "added_at": "2024-03-18 13:17:02",
+      "album": {
         "name": "Journal of Ardency",
         "url": "https://open.spotify.com/album/0yTVrdU4jqSHyrh6VCQ8Cw"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 254826,
       "name": "Love Is All",
       "url": "https://open.spotify.com/track/2VASvSAnhsxXv6V2o97D6x"
-    },
-    {
-      "added_at": "2024-03-18 13:17:02",
-      "album": {
-        "name": "Crystal Castles (II)",
-        "url": "https://open.spotify.com/album/63QBHPFzDjTfumF8VlPX8l"
-      },
-      "artists": [
-        {
-          "name": "Crystal Castles",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        }
-      ],
-      "duration_ms": 252933,
-      "name": "Baptism",
-      "url": "https://open.spotify.com/track/4fQuGSR9iAmCOA36XCpKqr"
     },
     {
       "added_at": "2024-03-18 13:17:02",

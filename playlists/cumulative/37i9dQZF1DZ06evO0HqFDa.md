@@ -4,7 +4,7 @@
 
 > This is Ramin Djawadi\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 5 min
+60 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [The Green Dress](https://open.spotify.com/track/2YD1j2swOJLysIZII179n2) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 2:50 | 2024-04-04 |  |
 | [The Last of the Starks](https://open.spotify.com/track/4fXqpIzgHDBhylBBOLOKVX) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 8 \(Music from the HBO Series\)](https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq) | 4:52 | 2024-04-04 |  |
 | [The Night King](https://open.spotify.com/track/1aDklx1GaBqHFowCzz63wU) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 8 \(Music from the HBO Series\)](https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq) | 8:50 | 2024-04-04 |  |
-| [The North Remembers](https://open.spotify.com/track/5kqdbjsiAD9Dam5nGCRWEv) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones: Season 4 \(Music from the HBO Series\)](https://open.spotify.com/album/7Dp7U0XeSimsNTkvVTcKJl) | 2:33 | 2024-04-04 |  |
+| [The North Remembers](https://open.spotify.com/track/4ASe4ZKyRZi7PTfarkYGww) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 4 \(Music from the HBO Series\)](https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL) | 2:33 | 2024-07-20 |  |
+| [The North Remembers](https://open.spotify.com/track/5kqdbjsiAD9Dam5nGCRWEv) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones: Season 4 \(Music from the HBO Series\)](https://open.spotify.com/album/7Dp7U0XeSimsNTkvVTcKJl) | 2:33 | 2024-04-04 | 2024-07-20 |
 | [The Power of Prophecy](https://open.spotify.com/track/3EkwCXyPeH6xGs23tVnJJy) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 2:36 | 2024-04-04 |  |
 | [The Prince That Was Promised](https://open.spotify.com/track/5HSQJnJ9Y2yjI9Y2oX6sgl) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 4:34 | 2024-04-04 |  |
 | [The Rains of Castamere](https://open.spotify.com/track/0CHvs1UmxA90B2apIpbWCC) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8), [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Game Of Thrones: Season 8 \(Music from the HBO Series\)](https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq) | 3:44 | 2024-04-04 |  |

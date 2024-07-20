@@ -1,6 +1,6 @@
 {
   "description": "alt, folk, and indie rock sprinkled into this sonic melting pot. Cover: James Bay",
-  "num_followers": 628551,
+  "num_followers": 628525,
   "original_name": "Rockin' Vibes",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,26 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Death Valley High",
+        "url": "https://open.spotify.com/album/1z4pInY9WWAOfzWklGV4cb"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 160882,
+      "name": "Death Valley High",
+      "url": "https://open.spotify.com/track/5TbPDrMOmLlmWtdXLvhLFG"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Neon Pill",
         "url": "https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1"
       },
@@ -743,26 +763,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Death Valley High",
-        "url": "https://open.spotify.com/album/1z4pInY9WWAOfzWklGV4cb"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        },
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 160882,
-      "name": "Death Valley High",
-      "url": "https://open.spotify.com/track/5TbPDrMOmLlmWtdXLvhLFG"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Supernatural",
         "url": "https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 167287,
       "name": "Supernatural",
       "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Tuesday",
-        "url": "https://open.spotify.com/album/3OJhV8FhTJQLH979qE2QXA"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 149600,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/073gctjGEOq9cXuFjldqxT"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -823,6 +807,22 @@
       "duration_ms": 183466,
       "name": "Leader of the Pack",
       "url": "https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/3OJhV8FhTJQLH979qE2QXA"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 149600,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/073gctjGEOq9cXuFjldqxT"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 280130,
-      "name": "King",
-      "url": "https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "California Rain",
         "url": "https://open.spotify.com/album/6AP2pWklJEWxzemOkIBYaw"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 203494,
       "name": "California Rain",
       "url": "https://open.spotify.com/track/6t2NMt38FtP7uKiXVe0X1z"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 280130,
+      "name": "King",
+      "url": "https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Palomino",
+        "url": "https://open.spotify.com/album/7oiUfuyk01h71NTmBUSk6D"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 213186,
+      "name": "Out of My Head",
+      "url": "https://open.spotify.com/track/5LgguaX9k42ruNIHNZA6Re"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae"
       },
@@ -971,18 +987,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Palomino",
-        "url": "https://open.spotify.com/album/7oiUfuyk01h71NTmBUSk6D"
+        "name": "Midas",
+        "url": "https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
         }
       ],
-      "duration_ms": 213186,
-      "name": "Out of My Head",
-      "url": "https://open.spotify.com/track/5LgguaX9k42ruNIHNZA6Re"
+      "duration_ms": 138506,
+      "name": "Midas",
+      "url": "https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1007,18 +1023,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Midas",
-        "url": "https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R"
+        "name": "Tigers Blood",
+        "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
       },
       "artists": [
         {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
         }
       ],
-      "duration_ms": 138506,
-      "name": "Midas",
-      "url": "https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2"
+      "duration_ms": 175120,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/0gYo87SYqysIJJ5ZIRYnY3"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1055,18 +1071,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Tigers Blood",
-        "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/6tLOZBgDUMg1uKdLgh0yVj"
       },
       "artists": [
         {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
         }
       ],
-      "duration_ms": 175120,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/0gYo87SYqysIJJ5ZIRYnY3"
+      "duration_ms": 210330,
+      "name": "Body & Soul",
+      "url": "https://open.spotify.com/track/48LefWxe3ZMPgcHPi4jyhT"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1083,22 +1099,6 @@
       "duration_ms": 293971,
       "name": "Lonely Cowboy",
       "url": "https://open.spotify.com/track/4b4qenweAK0E90SiuUtrLy"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/6tLOZBgDUMg1uKdLgh0yVj"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 210330,
-      "name": "Body & Soul",
-      "url": "https://open.spotify.com/track/48LefWxe3ZMPgcHPi4jyhT"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/3NN3PtcVj4qu9Wm237MgYP"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/6Ez7j7MPocvayb7J7WlaR7"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Lucifer On The Sofa",
         "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
       },
@@ -1307,22 +1323,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "when we were young",
-        "url": "https://open.spotify.com/album/6kSSORbrUJCzT6ejYCJSHX"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 256178,
-      "name": "when we were young",
-      "url": "https://open.spotify.com/track/40UpmsBZs3vJhtnR4VROIl"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Virginia (Wind In The Night)",
         "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
       },
@@ -1335,6 +1335,22 @@
       "duration_ms": 205293,
       "name": "Virginia (Wind In The Night)",
       "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "when we were young",
+        "url": "https://open.spotify.com/album/6kSSORbrUJCzT6ejYCJSHX"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 256178,
+      "name": "when we were young",
+      "url": "https://open.spotify.com/track/40UpmsBZs3vJhtnR4VROIl"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1387,6 +1403,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Darkest Places",
+        "url": "https://open.spotify.com/album/7GdaeOLMD4qFZwg1jo8ndz"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 268276,
+      "name": "Darkest Places",
+      "url": "https://open.spotify.com/track/48j6fYjxi74z5BoRUcrUy9"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "JPEG RAW",
         "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
       },
@@ -1419,38 +1451,6 @@
       "duration_ms": 192453,
       "name": "Day by Day",
       "url": "https://open.spotify.com/track/1bDS3ktQSucD150gp86iFU"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/3NN3PtcVj4qu9Wm237MgYP"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/6Ez7j7MPocvayb7J7WlaR7"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Darkest Places",
-        "url": "https://open.spotify.com/album/7GdaeOLMD4qFZwg1jo8ndz"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 268276,
-      "name": "Darkest Places",
-      "url": "https://open.spotify.com/track/48j6fYjxi74z5BoRUcrUy9"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Just A Bird",
-        "url": "https://open.spotify.com/album/1Kaq6jOADIHCjwlkeulV2n"
-      },
-      "artists": [
-        {
-          "name": "Blind Pilot",
-          "url": "https://open.spotify.com/artist/6qiGjRyN7TJ1GA2nXF68Hi"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "Just A Bird",
-      "url": "https://open.spotify.com/track/6zP85HijAKg1RvRWcHF1dX"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Thinking About You",
         "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
       },
@@ -1679,22 +1663,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "The Color That Suits You",
-        "url": "https://open.spotify.com/album/1oDYS0y3zgIUpcqlrw3XGa"
+        "name": "Just A Bird",
+        "url": "https://open.spotify.com/album/1Kaq6jOADIHCjwlkeulV2n"
       },
       "artists": [
         {
-          "name": "Farmer",
-          "url": "https://open.spotify.com/artist/2ICzoFVUSRPtRIus49gmo8"
-        },
-        {
-          "name": "Dave Matthews",
-          "url": "https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2"
+          "name": "Blind Pilot",
+          "url": "https://open.spotify.com/artist/6qiGjRyN7TJ1GA2nXF68Hi"
         }
       ],
-      "duration_ms": 293037,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/0SSUhVaTjx4qCM7hF2qzaB"
+      "duration_ms": 233813,
+      "name": "Just A Bird",
+      "url": "https://open.spotify.com/track/6zP85HijAKg1RvRWcHF1dX"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1727,6 +1707,42 @@
       "duration_ms": 256336,
       "name": "Empty Nest",
       "url": "https://open.spotify.com/track/47t8l6TmVhY1QZBveAEcWR"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "The Color That Suits You",
+        "url": "https://open.spotify.com/album/1oDYS0y3zgIUpcqlrw3XGa"
+      },
+      "artists": [
+        {
+          "name": "Farmer",
+          "url": "https://open.spotify.com/artist/2ICzoFVUSRPtRIus49gmo8"
+        },
+        {
+          "name": "Dave Matthews",
+          "url": "https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2"
+        }
+      ],
+      "duration_ms": 293037,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/0SSUhVaTjx4qCM7hF2qzaB"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Burnout / Feel Less Bad",
+        "url": "https://open.spotify.com/album/6KW2sO4EPL3CtzEqY0IxSP"
+      },
+      "artists": [
+        {
+          "name": "Futurebirds",
+          "url": "https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O"
+        }
+      ],
+      "duration_ms": 153014,
+      "name": "Burnout",
+      "url": "https://open.spotify.com/track/0TvdoyqP2Vi2pA1BBVHYD0"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1779,18 +1795,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Burnout / Feel Less Bad",
-        "url": "https://open.spotify.com/album/6KW2sO4EPL3CtzEqY0IxSP"
+        "name": "I Am The Lightning",
+        "url": "https://open.spotify.com/album/3YOjMrvWQbrTk9TodyU24C"
       },
       "artists": [
         {
-          "name": "Futurebirds",
-          "url": "https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O"
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
         }
       ],
-      "duration_ms": 153014,
-      "name": "Burnout",
-      "url": "https://open.spotify.com/track/0TvdoyqP2Vi2pA1BBVHYD0"
+      "duration_ms": 238000,
+      "name": "I Am The Lightning",
+      "url": "https://open.spotify.com/track/0Sm3zpAqwYVIMULTJIZSGx"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1807,22 +1823,6 @@
       "duration_ms": 334754,
       "name": "Another good year for the roses",
       "url": "https://open.spotify.com/track/7BQVqJwiQCnbE70DlpJoL5"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "I Am The Lightning",
-        "url": "https://open.spotify.com/album/3YOjMrvWQbrTk9TodyU24C"
-      },
-      "artists": [
-        {
-          "name": "Des Rocs",
-          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "I Am The Lightning",
-      "url": "https://open.spotify.com/track/0Sm3zpAqwYVIMULTJIZSGx"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "FEVER / SKY",
-        "url": "https://open.spotify.com/album/4zpGSBstdibPEMzdRH1iip"
-      },
-      "artists": [
-        {
-          "name": "Wilder Woods",
-          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
-        }
-      ],
-      "duration_ms": 202040,
-      "name": "Maestro (Tears Don't Lie)",
-      "url": "https://open.spotify.com/track/5BF1TNThRiA6fnfGkTxEfQ"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Happiness",
         "url": "https://open.spotify.com/album/6fmReYbXisP7zdHdniHprB"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 188333,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/11jzE2WcXGwrMn9s7SdUg2"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "FEVER / SKY",
+        "url": "https://open.spotify.com/album/4zpGSBstdibPEMzdRH1iip"
+      },
+      "artists": [
+        {
+          "name": "Wilder Woods",
+          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "Maestro (Tears Don't Lie)",
+      "url": "https://open.spotify.com/track/5BF1TNThRiA6fnfGkTxEfQ"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Bluephoria",
+        "url": "https://open.spotify.com/album/0ysRyDkvfLlzOMPGOYzNZe"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 272399,
+      "name": "Bluephoria",
+      "url": "https://open.spotify.com/track/5tovAkdf2TFnrGjIky5AoA"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Wild Horses",
         "url": "https://open.spotify.com/album/5tZVK7vHvdmh3AOMr6X1dd"
       },
@@ -1971,18 +1987,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Bluephoria",
-        "url": "https://open.spotify.com/album/0ysRyDkvfLlzOMPGOYzNZe"
+        "name": "House Parties",
+        "url": "https://open.spotify.com/album/03iw3EgMQIBS8kNH5hukrZ"
       },
       "artists": [
         {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
         }
       ],
-      "duration_ms": 272399,
-      "name": "Bluephoria",
-      "url": "https://open.spotify.com/track/5tovAkdf2TFnrGjIky5AoA"
+      "duration_ms": 234200,
+      "name": "House Parties",
+      "url": "https://open.spotify.com/track/24Zi5CRVX19Wi494VttArT"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2099,22 +2115,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "House Parties",
-        "url": "https://open.spotify.com/album/03iw3EgMQIBS8kNH5hukrZ"
-      },
-      "artists": [
-        {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
-        }
-      ],
-      "duration_ms": 234200,
-      "name": "House Parties",
-      "url": "https://open.spotify.com/track/24Zi5CRVX19Wi494VttArT"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Two Things at Once",
         "url": "https://open.spotify.com/album/4K3fG6A3UzqivRCPtRNaKl"
       },
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Lady Lou",
-        "url": "https://open.spotify.com/album/1Yh3TJP49ypjIuQVy5Kcmi"
-      },
-      "artists": [
-        {
-          "name": "HAFFWAY",
-          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
-        }
-      ],
-      "duration_ms": 277177,
-      "name": "Home for the Weekend",
-      "url": "https://open.spotify.com/track/1YB4xS05wUpuCaJs8IFDjA"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Love out of Lemons",
         "url": "https://open.spotify.com/album/0jsAmlf5wVis6otmdokfsA"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 212226,
       "name": "Love out of Lemons",
       "url": "https://open.spotify.com/track/2GXzTdHHiguNECDsp3hW0W"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Lady Lou",
+        "url": "https://open.spotify.com/album/1Yh3TJP49ypjIuQVy5Kcmi"
+      },
+      "artists": [
+        {
+          "name": "HAFFWAY",
+          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
+        }
+      ],
+      "duration_ms": 277177,
+      "name": "Home for the Weekend",
+      "url": "https://open.spotify.com/track/1YB4xS05wUpuCaJs8IFDjA"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2243,6 +2243,30 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Burn It Away",
+        "url": "https://open.spotify.com/album/32tuGofvxiyOCpx1SfoNBj"
+      },
+      "artists": [
+        {
+          "name": "Will Butler + Sister Squares",
+          "url": "https://open.spotify.com/artist/2PoDtU1peduJm6HDYtNuaj"
+        },
+        {
+          "name": "Will Butler",
+          "url": "https://open.spotify.com/artist/1POwuKLQ9xhMZzIYElNtWp"
+        },
+        {
+          "name": "Sister Squares",
+          "url": "https://open.spotify.com/artist/1TOW2EEmDmqHe2i7gt2NLZ"
+        }
+      ],
+      "duration_ms": 244760,
+      "name": "Burn It Away",
+      "url": "https://open.spotify.com/track/69bJGbmDoTzpgbrfsuF2Ii"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Hospital",
         "url": "https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2"
       },
@@ -2275,26 +2299,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Burn It Away",
-        "url": "https://open.spotify.com/album/32tuGofvxiyOCpx1SfoNBj"
+        "name": "Rolling Down The 405",
+        "url": "https://open.spotify.com/album/2kQbgOhma9JF9wanjAXGYC"
       },
       "artists": [
         {
-          "name": "Will Butler + Sister Squares",
-          "url": "https://open.spotify.com/artist/2PoDtU1peduJm6HDYtNuaj"
-        },
-        {
-          "name": "Will Butler",
-          "url": "https://open.spotify.com/artist/1POwuKLQ9xhMZzIYElNtWp"
-        },
-        {
-          "name": "Sister Squares",
-          "url": "https://open.spotify.com/artist/1TOW2EEmDmqHe2i7gt2NLZ"
+          "name": "Jeremie Albino",
+          "url": "https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY"
         }
       ],
-      "duration_ms": 244760,
-      "name": "Burn It Away",
-      "url": "https://open.spotify.com/track/69bJGbmDoTzpgbrfsuF2Ii"
+      "duration_ms": 218239,
+      "name": "Rolling Down The 405",
+      "url": "https://open.spotify.com/track/0QXh2Z2ynE2TiNvQrUOz19"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2347,22 +2363,6 @@
       "duration_ms": 270483,
       "name": "Stars",
       "url": "https://open.spotify.com/track/2lGIQz1KaDIFSoAtsYZWxI"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Rolling Down The 405",
-        "url": "https://open.spotify.com/album/2kQbgOhma9JF9wanjAXGYC"
-      },
-      "artists": [
-        {
-          "name": "Jeremie Albino",
-          "url": "https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY"
-        }
-      ],
-      "duration_ms": 218239,
-      "name": "Rolling Down The 405",
-      "url": "https://open.spotify.com/track/0QXh2Z2ynE2TiNvQrUOz19"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2463,18 +2463,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Keep Going",
-        "url": "https://open.spotify.com/album/4ViHnXxYrzgR3peo6bWc3C"
+        "name": "Piranhanana",
+        "url": "https://open.spotify.com/album/2mVALYxNoT5iDd9YSttn3X"
       },
       "artists": [
         {
-          "name": "Guster",
-          "url": "https://open.spotify.com/artist/34XlPCFfB4vT7P1ekWq9Jc"
+          "name": "Shovels & Rope",
+          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
         }
       ],
-      "duration_ms": 248640,
-      "name": "Keep Going",
-      "url": "https://open.spotify.com/track/4ho40yA2hY1lnMPMrUSlhg"
+      "duration_ms": 165237,
+      "name": "Piranhanana",
+      "url": "https://open.spotify.com/track/10iJAaFvMXMNtnYmMQs7g0"
     }
   ],
   "unique_name": "Rockin' Vibes",

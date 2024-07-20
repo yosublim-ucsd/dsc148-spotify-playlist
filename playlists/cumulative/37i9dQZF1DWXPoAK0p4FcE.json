@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Blackbeans",
+  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Raine Cloud",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c Indieology",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 222000,
       "name": "ALICE",
       "url": "https://open.spotify.com/track/4nimbIVI2u2XUD70c1dOBu"
+    },
+    {
+      "album": {
+        "name": "badbye",
+        "url": "https://open.spotify.com/album/3DpfRjFl8wgXdhkWO3GjEv"
+      },
+      "artists": [
+        {
+          "name": "Raine Cloud",
+          "url": "https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236625,
+      "name": "badbye",
+      "url": "https://open.spotify.com/track/5td3kJel4JdbqLx5PqgVUA"
     },
     {
       "album": {
@@ -504,7 +522,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 284443,
       "name": "\u0e1c\u0e31\u0e14\u0e27\u0e31\u0e19 (no/more)",
       "url": "https://open.spotify.com/track/34dNJVGauEMrLWoc82EHxv"

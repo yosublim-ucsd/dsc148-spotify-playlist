@@ -143,6 +143,24 @@
     },
     {
       "album": {
+        "name": "Agar",
+        "url": "https://open.spotify.com/album/4997xeKpXksWmrxR0GnDoz"
+      },
+      "artists": [
+        {
+          "name": "Cavolo Nero",
+          "url": "https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302231,
+      "name": "Agar",
+      "url": "https://open.spotify.com/track/7KxCbBeAHa5gBbLXPNzzaD"
+    },
+    {
+      "album": {
         "name": "Agujas en el pecho",
         "url": "https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt"
       },
@@ -2304,7 +2322,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 205413,
       "name": "Get Your Head Out",
       "url": "https://open.spotify.com/track/6W6J3cFFQmrAMErlHJPzDJ"
@@ -4467,6 +4485,32 @@
     },
     {
       "album": {
+        "name": "Yo No Soy Marinero",
+        "url": "https://open.spotify.com/album/7Lg3d27iQnRX3Is6yEXho5"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Velveta",
+          "url": "https://open.spotify.com/artist/6k0FM5lvukpP68GlodFQcA"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234821,
+      "name": "Perdida",
+      "url": "https://open.spotify.com/track/2BI6KD4uL19vAqbUs76EpF"
+    },
+    {
+      "album": {
         "name": "Follow the Cyborg",
         "url": "https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO"
       },
@@ -5446,7 +5490,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 267368,
       "name": "Stained Glass Window",
       "url": "https://open.spotify.com/track/1Iy1dBd5qO65eTnsZ2oqLV"
@@ -5634,6 +5678,24 @@
       "duration_ms": 245504,
       "name": "Summer Song",
       "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
+    },
+    {
+      "album": {
+        "name": "Harvest",
+        "url": "https://open.spotify.com/album/7hIjNhXoPqyARBpaKpS3nk"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Sun Colored Eyes",
+      "url": "https://open.spotify.com/track/2Rlw1EslDSKSODPst1GhOY"
     },
     {
       "album": {
@@ -5976,7 +6038,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 174735,
       "name": "The Pavement is my Pillow Talk",
       "url": "https://open.spotify.com/track/5njx7aiScVMfj1jmVgClHf"

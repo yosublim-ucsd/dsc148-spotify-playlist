@@ -2,9 +2,9 @@
 
 ### [Heavy Queens](https://open.spotify.com/playlist/37i9dQZF1DWXDJDWnzE39E)
 
-> A salute to all of the women opening up the pit\. Cover: Voice of Baceprot \#Glastonbury2024
+> A salute to all of the women opening up the pit\. Cover: Voice of Baceprot
 
-341 songs - 21 hr 46 min
+344 songs - 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Demure](https://open.spotify.com/track/0q3a74dm3dH5Sm8ORI2hnB) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Demure](https://open.spotify.com/album/7wuJv3LE3mXdMY0CxF29Mj) | 4:49 | 2023-03-24 | 2024-06-02 |
 | [Diamonds and Dark](https://open.spotify.com/track/1fNO2fYTMVnadgqF5Aqui7) | [Phantom Elite](https://open.spotify.com/artist/4PJpzyQV2oBuVew8BXjBnX) | [Diamonds and Dark](https://open.spotify.com/album/0REvlMPAOWsiNrjin4bmdw) | 4:49 | 2020-12-07\* | 2022-07-29 |
 | [Diana](https://open.spotify.com/track/6mJ1xzqTOpUfIKVc4d5HDl) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Diana](https://open.spotify.com/album/3KQGVYjzN1c5QhhdeGwIMF) | 4:16 | 2021-05-29 | 2022-07-16 |
-| [Do It So Good](https://open.spotify.com/track/7AdLQWyE8e2AKUBooSGCBt) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Do It So Good](https://open.spotify.com/album/7s7bmCIHQjNtt83diSRZjm) | 3:22 | 2023-08-07 |  |
+| [Do It So Good](https://open.spotify.com/track/7AdLQWyE8e2AKUBooSGCBt) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Do It So Good](https://open.spotify.com/album/7s7bmCIHQjNtt83diSRZjm) | 3:22 | 2023-08-07 | 2024-07-20 |
 | [Do Or Die \(feat\. Nathan James\)](https://open.spotify.com/track/3LghS5iipA13F5iOJ8j0Gi) | [Sophie Lloyd](https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3), [Inglorious](https://open.spotify.com/artist/5BxR80mpdn8MmHgzKVtiP7), [Nathan James](https://open.spotify.com/artist/61ZNvjxuVnqNtdxzLLUVyp) | [Do Or Die \(feat\. Nathan James\)](https://open.spotify.com/album/4VZkuF5QWDCbgdtjy4N4fI) | 3:13 | 2022-11-18 | 2023-05-14 |
 | [Drive](https://open.spotify.com/track/1D27ysHw4QbNyGfEe4yljT) | [Clio Cadence](https://open.spotify.com/artist/7ptBJGsem3xogV261ZUhtq) | [Drive](https://open.spotify.com/album/6fdWJnMaCRzCvsHhTvrXGU) | 3:42 | 2020-12-07\* | 2022-10-30 |
 | [Drive It Like You Stole It](https://open.spotify.com/track/74qhamOhw3kR1BCgpCnsiW) | [Smackbound](https://open.spotify.com/artist/0ySxXqivCV6zY7EVbrTDfe) | [Drive It Like You Stole It](https://open.spotify.com/album/7sUt71Y22RFvzGHYFolvaB) | 3:33 | 2020-12-07\* | 2022-07-29 |
@@ -123,11 +123,13 @@
 | [Freedom \- The Wolves Within \-](https://open.spotify.com/track/2rzwHaMCaHV67JPIbBVT7N) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Omega](https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q) | 5:37 | 2022-03-11 | 2023-01-02 |
 | [Freedom \- The Wolves Within\-](https://open.spotify.com/track/5hSnN8wtaGNRgdERMeQIx1) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Freedom \- The Wolves Within](https://open.spotify.com/album/3MVad7SlfyPymJjJ1g6yk9) | 5:37 | 2020-12-07\* | 2022-07-29 |
 | [Freeze](https://open.spotify.com/track/0YbqxJG70RF9aocuFDmxmy) | [Cellar Darling](https://open.spotify.com/artist/29TiA5JlE8qICyOYEvyvGR) | [The Spell](https://open.spotify.com/album/0mqQaRXfEzysluMX4J3jqy) | 3:37 | 2020-12-07\* | 2021-02-06 |
+| [Friends In Low Places](https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Friends In Low Places](https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP) | 3:03 | 2024-07-19 |  |
 | [Frostbite](https://open.spotify.com/track/5EsFccsQ6TLO7rpJXq2YMW) | [Scarlet Aura](https://open.spotify.com/artist/1pbEZTFweqdpGugARfRokF) | [Frostbite](https://open.spotify.com/album/5JwccG63yR9wrcxu09kjkD) | 5:45 | 2021-08-24 | 2022-01-19 |
 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 | 2022-10-03 | 2024-06-12 |
 | [Get the F\*ck out of Here](https://open.spotify.com/track/1Ch7LEUcHBYzg1MRl85VCn) | [Kobra And The Lotus](https://open.spotify.com/artist/5hW7RukGK6ErG26zM3Sfzl) | [Get the F\*ck out of Here](https://open.spotify.com/album/3NaMWGZSrIKrd03q1Uinsx) | 3:23 | 2020-12-07\* | 2021-05-15 |
 | [Ghost Chapter](https://open.spotify.com/track/4MP1Cd8JF42yF7zFUUxmrj) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Ghost Chapter](https://open.spotify.com/album/4WKQe4glk7azHIj5Bfgm8y) | 4:23 | 2020-12-07\* | 2022-07-29 |
 | [Ghost Myself](https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Ghost Myself](https://open.spotify.com/album/3DvF9spIyVvxXlndS0AR3F) | 3:12 | 2020-12-07\* |  |
+| [God, Allow Me \(Please\) to Play Music](https://open.spotify.com/track/3GIUdK7VyTddyBsupRPjDq) | [Voice of Baceprot](https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC) | [RETAS](https://open.spotify.com/album/1U3RzGU6OczSkzD0zB9Jrp) | 3:30 | 2024-07-19 |  |
 | [Going Under](https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:34 | 2024-06-01 |  |
 | [Gravity](https://open.spotify.com/track/5p8MkAxGr7LkiVvtuduiCD) | [Skarlett Riot](https://open.spotify.com/artist/6IN0ZavFCDhKZ2N3NT7E3z) | [Gravity](https://open.spotify.com/album/2WBcy59E3bZDlLXTrZK0AZ) | 3:47 | 2020-12-11 | 2022-07-29 |
 | [Grayscale](https://open.spotify.com/track/0Y3pzMEX6ZF40dp1RAOrZk) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Grayscale](https://open.spotify.com/album/2nklray2e6vk84ASC20FsK) | 3:36 | 2021-02-19 | 2022-07-23 |
@@ -205,6 +207,7 @@
 | [Nemo](https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc) | 4:36 | 2022-11-18 |  |
 | [Nemo](https://open.spotify.com/track/5OF7nhjVV0dmngqYjDrZGw) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/0aDCpYtFdQ0S8C3oAtOonk) | 4:36 | 2022-10-03 | 2023-05-07 |
 | [Never Die](https://open.spotify.com/track/5nFyBTvOprvEosMaZCGVU9) | [Allen/Olzon](https://open.spotify.com/artist/34W3MmEwZVbj136Xk3G2EK) | [Never Die](https://open.spotify.com/album/3ewJ6ftp5b87dcVoMYbmDI) | 5:47 | 2020-12-07\* | 2022-07-17 |
+| [New Way Out](https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [New Way Out](https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD) | 3:22 | 2024-07-19 |  |
 | [No More Hollywood Endings](https://open.spotify.com/track/0S8hHlISzm8GebwdtTDPkD) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [No More Hollywood Endings](https://open.spotify.com/album/27a6npYtoMBSwG9qqNoQvM) | 3:54 | 2020-12-07\* | 2021-02-06 |
 | [Noise](https://open.spotify.com/track/0RZVAhyB8vhxQz6ITjiuyA) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:40 | 2022-03-11 | 2023-01-02 |
 | [Noise](https://open.spotify.com/track/2a3sZJP4uTrNQbj0EdiUuV) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Noise](https://open.spotify.com/album/6gOIHf3Y3W7uTe8ERFYzex) | 5:40 | 2020-12-07\* | 2024-05-17 |
@@ -237,7 +240,7 @@
 | [Rage](https://open.spotify.com/track/2EWtjjsdSurRlILqIMBi10) | [Mezmerized](https://open.spotify.com/artist/51W0g0LWxUhysZgGxt7MLE) | [Rage](https://open.spotify.com/album/4NeU0yW6cAdcbKoGOOeDxh) | 3:52 | 2020-12-07\* | 2022-07-29 |
 | [Railroads](https://open.spotify.com/track/0ERZPTzyDa56JBqi4woyPH) | [Tarja](https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc) | [Railroads](https://open.spotify.com/album/1zdI5fEeY2BqNSiMDYJ1Yg) | 4:00 | 2020-12-07\* | 2020-12-11 |
 | [Raven](https://open.spotify.com/track/2VHKaZM3fGGCHHaB4PPzK8) | [Melissa VanFleet](https://open.spotify.com/artist/7pCuLbf4lheMbOoL2S21ai) | [Ode To The Dark](https://open.spotify.com/album/3RkAUp4QES81AxPLF6uFLI) | 5:15 | 2020-12-07\* | 2020-12-11 |
-| [Real Wild Child](https://open.spotify.com/track/0aJkQe2ux7kl3XKpbYVibb) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Flashback](https://open.spotify.com/album/6lw1mTt5OLU02aOwTp7NSk) | 1:35 | 2022-03-11 |  |
+| [Real Wild Child](https://open.spotify.com/track/0aJkQe2ux7kl3XKpbYVibb) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Flashback](https://open.spotify.com/album/6lw1mTt5OLU02aOwTp7NSk) | 1:35 | 2022-03-11 | 2024-07-20 |
 | [Reckless](https://open.spotify.com/track/7hEk5UTV73GwV9mjw8fBy8) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Reckless](https://open.spotify.com/album/0nd9VY90TYG8TuZpiU3boV) | 3:05 | 2020-12-07\* | 2021-05-15 |
 | [Rest In Peace](https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Rest In Peace](https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE) | 3:37 | 2022-02-04 |  |
 | [Rip It Out](https://open.spotify.com/track/6FPIh5TqPtYNFUbNN4aJ4R) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Rip It Out](https://open.spotify.com/album/5jJ05vdKJTQCd6QMsevIEg) | 3:15 | 2023-05-18 |  |
@@ -259,7 +262,7 @@
 | [Selkie](https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Selkie](https://open.spotify.com/album/30S5mUJoW5fMUGFNUxSHOE) | 4:23 | 2021-04-10 | 2024-06-02 |
 | [Sensorium](https://open.spotify.com/track/5Souga96S54RLFk30XrEJP) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [The Phantom Agony \(Expanded Edition\)](https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf) | 4:49 | 2022-10-03 |  |
 | [Serves You Right](https://open.spotify.com/track/1xPlB6cboQgE0C9yVlVc0v) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Serves You Right](https://open.spotify.com/album/1peMzsH0CEKYGcj4t2wdrg) | 3:34 | 2020-12-07\* | 2024-06-02 |
-| [Shadow](https://open.spotify.com/track/1iFIRC1D9NnxjTwF240jZy) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [The Reckoning](https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5) | 3:48 | 2022-10-03 |  |
+| [Shadow](https://open.spotify.com/track/1iFIRC1D9NnxjTwF240jZy) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [The Reckoning](https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5) | 3:48 | 2022-10-03 | 2024-07-20 |
 | [Shut Up](https://open.spotify.com/track/2bDXyVBSKbMgoUmNtINxxD) | [New Years Day](https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg) | [Shut Up](https://open.spotify.com/album/0Qmkq7844UqsyHkwUm1knk) | 3:31 | 2020-12-07\* | 2020-12-11 |
 | [Sinners Hymn](https://open.spotify.com/track/7dUaX05uxCNK5lC3329O0E) | [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs) | [Sinners Hymn](https://open.spotify.com/album/7mL41tnKXoqUdoEvViyO4l) | 4:06 | 2020-12-07\* | 2022-07-10 |
 | [Skeletons](https://open.spotify.com/track/5IwbNovLgluEiRkg6QRZt4) | [New Years Day](https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg) | [Skeletons](https://open.spotify.com/album/2YlBfNiQQjBgl50GSA2PR6) | 3:32 | 2020-12-07\* | 2020-12-11 |

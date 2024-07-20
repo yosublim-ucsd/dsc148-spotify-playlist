@@ -1,12 +1,12 @@
 {
   "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 78471,
+  "num_followers": 78482,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAABJtzIKj2Iwd/Bln9UlFhKF",
+  "snapshot_id": "ZphbAAAAAADGCgF6SYF3LjH+kQpCiUHK",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Losing My Religion",
-        "url": "https://open.spotify.com/album/6oRydz4vuNsUY0y1NlmOmR"
+        "name": "In Waves (Special Edition)",
+        "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 281781,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/4nvffGMrhZMK6DXCdNieys"
+      "duration_ms": 188186,
+      "name": "Built to Fall",
+      "url": "https://open.spotify.com/track/6yRh9h4Kc00PnrAuVYRAkq"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Waves (Special Edition)",
-        "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/6oRydz4vuNsUY0y1NlmOmR"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 188186,
-      "name": "Built to Fall",
-      "url": "https://open.spotify.com/track/6yRh9h4Kc00PnrAuVYRAkq"
+      "duration_ms": 281781,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/4nvffGMrhZMK6DXCdNieys"
     },
     {
       "added_at": null,

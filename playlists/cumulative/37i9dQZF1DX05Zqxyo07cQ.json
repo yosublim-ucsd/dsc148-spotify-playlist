@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 156734,
       "name": "Aura Serena",
       "url": "https://open.spotify.com/track/0ZeAWj2BGa6VoJUBzN4bZE"
@@ -8542,6 +8542,24 @@
       "duration_ms": 141250,
       "name": "Star Sapphire",
       "url": "https://open.spotify.com/track/4PEaexNSqrYBG2oGVyVhgt"
+    },
+    {
+      "album": {
+        "name": "Stardust Memories",
+        "url": "https://open.spotify.com/album/5U0l3I3b2h0nOiZrphlNRv"
+      },
+      "artists": [
+        {
+          "name": "Celestelle",
+          "url": "https://open.spotify.com/artist/4ddXdxD2ZJ1bgPdoKPsvaX"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "Stardust Memories",
+      "url": "https://open.spotify.com/track/72PXvumKV3t0Eip3D8vkM4"
     },
     {
       "album": {

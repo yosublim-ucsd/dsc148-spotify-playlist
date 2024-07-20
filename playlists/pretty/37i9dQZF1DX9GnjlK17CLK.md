@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 
 > Plugged in and cranked up; the hottest Blues records from an amplified era\. Cover: B.B\. King.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,209 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,298 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,16 +42,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 | 32 | [Walkin' Blues](https://open.spotify.com/track/0aBF6Zob3o2GthzPTuVplz) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [East West](https://open.spotify.com/album/7dhvHytrXT38CEy21dNam3) | 3:19 |
 | 33 | [The Sky Is Crying](https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Moneymaker: The Best of the Fire Sessions](https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj) | 2:46 |
 | 34 | [Spoonful](https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Poet Of the Blues \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD) | 4:55 |
-| 35 | [Ice Pick](https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 3:08 |
-| 36 | [Motherless Children](https://open.spotify.com/track/1v0PatOEeF1g1fVRNlmw9k) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Boulevard](https://open.spotify.com/album/73cxqemPE6sVoCkwRuPU6E) | 4:51 |
+| 35 | [Motherless Children](https://open.spotify.com/track/1v0PatOEeF1g1fVRNlmw9k) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Boulevard](https://open.spotify.com/album/73cxqemPE6sVoCkwRuPU6E) | 4:51 |
+| 36 | [Ice Pick](https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 3:08 |
 | 37 | [Albert's Shuffle](https://open.spotify.com/track/1eWZY9g8A7GAbBTfxMUy14) | [Al Kooper](https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv) | [Al's Big Deal](https://open.spotify.com/album/4tjoWIPvhO3GW5vty6tHUn) | 6:54 |
 | 38 | [Double Trouble](https://open.spotify.com/track/3JggrSor1wtd74bvF2fsmz) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [1956\-1958 Cobra Recordings](https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7) | 2:43 |
 | 39 | [Born In Chicago](https://open.spotify.com/track/6tUCV9S6JZT7qzW65ptXqc) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [Blues Brothers 2000](https://open.spotify.com/album/6xj8KDSoPvZCquyIHWo0PJ) | 3:05 |
 | 40 | [Shake Your Moneymaker](https://open.spotify.com/track/7w3isJMqvkCL3JrGYL6FSk) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/45i41n53udGyswkJ9uR8pB) | 3:12 |
 | 41 | [Jelly Bread](https://open.spotify.com/track/2eaAUnd8AKIFD0RAfPiW3z) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions](https://open.spotify.com/album/2sSDqJOZ7gea3yMbqPUrhq) | 2:30 |
 | 42 | [The Stumble](https://open.spotify.com/track/2t47sX3S0tR3JJeqYADnIN) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [A Hard Road \(Deluxe Edition\)](https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1) | 2:51 |
-| 43 | [Double Crossing Time \- Mono](https://open.spotify.com/track/07fmUH4VMyKkCRaugAyke7) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [Blues Breakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:00 |
-| 44 | [I'm A Little Mixed Up](https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG) | [Betty James](https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v) | [The Chess Story 1957\-1964](https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB) | 2:51 |
+| 43 | [I'm A Little Mixed Up](https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG) | [Betty James](https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v) | [The Chess Story 1957\-1964](https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB) | 2:51 |
+| 44 | [Double Crossing Time \- Mono](https://open.spotify.com/track/07fmUH4VMyKkCRaugAyke7) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [Blues Breakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:00 |
 | 45 | [Wang Dang Doodle](https://open.spotify.com/track/6BRPW9P9EfuesEenxbM6zj) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [What It Takes: The Chess Years](https://open.spotify.com/album/4w1M6BA0n3LB2GhlZXzQbC) | 3:01 |
 | 46 | [Killing Floor](https://open.spotify.com/track/47KjgcMPHmdhZZYJARV8dT) | [The Electric Flag](https://open.spotify.com/artist/6qyfxCyE6JsPkcGVIOPpyl) | [A Long Time Comin'](https://open.spotify.com/album/5816bqBdozCXD95olZoLHk) | 4:09 |
 | 47 | [All Your Love \(I Miss Loving\)](https://open.spotify.com/track/6NEnXMaCfk0dg2BnuObxX7) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Double Trouble](https://open.spotify.com/album/3jM3xqyJos5CEXCrdO1hQf) | 2:37 |

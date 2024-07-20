@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [38 y Super](https://open.spotify.com/track/2ccEuah5UamtifhUsHoBCR) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:12 | 2024-01-29 |  |
-| [Arsenal Efectivo](https://open.spotify.com/track/48lGvpvrgmH0MHv07J9EUp) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Vida Peligrosa](https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY) | 2:07 | 2024-01-29 | 2024-07-19 |
+| [Arsenal Efectivo](https://open.spotify.com/track/48lGvpvrgmH0MHv07J9EUp) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Vida Peligrosa](https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY) | 2:07 | 2024-01-29 |  |
 | [Calorsitos Del Desierto](https://open.spotify.com/track/74NAHTRdV5EuABIWxCYK6A) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 3:29 | 2024-01-29 |  |
 | [Cambios De La Vida](https://open.spotify.com/track/5zUnUk1y44LsP8YonntRfw) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Seguiremos Trabajando](https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4) | 2:31 | 2024-01-29 |  |
 | [DDM Anthem](https://open.spotify.com/track/22ZE5l6Z9Z8I8eGk4Ty4OW) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Brianshredz](https://open.spotify.com/artist/2O1MkAEoviGw1rKuJGy62o), [Kevin Cortez](https://open.spotify.com/artist/5fvBv8QAPzf5Px6eE7Wdr9) | [DDM Anthem](https://open.spotify.com/album/5D4MjY99Ckh4N6wOedYy6c) | 4:18 | 2024-01-29 |  |

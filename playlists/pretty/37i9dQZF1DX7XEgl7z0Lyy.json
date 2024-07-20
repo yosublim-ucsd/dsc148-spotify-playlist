@@ -1,13 +1,29 @@
 {
   "description": "music from the underworld\n",
-  "num_followers": 497969,
+  "num_followers": 498607,
   "original_name": "hexxed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnWHkwAAAAAmVxjTxIRwv/9E1wvkisxZ",
+  "snapshot_id": "ZprSOwAAAADEaxXE4jVg/OTE+BvuJjcH",
   "tracks": [
+    {
+      "added_at": "2024-07-19 20:53:15",
+      "album": {
+        "name": "wutiwant",
+        "url": "https://open.spotify.com/album/4NHsl52eIxHX3ZGh66ZYUx"
+      },
+      "artists": [
+        {
+          "name": "saraunh0ly",
+          "url": "https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid"
+        }
+      ],
+      "duration_ms": 193515,
+      "name": "wutiwant",
+      "url": "https://open.spotify.com/track/6zsUUymWPtq5bkoc5y97cM"
+    },
     {
       "added_at": "2024-03-13 04:00:00",
       "album": {

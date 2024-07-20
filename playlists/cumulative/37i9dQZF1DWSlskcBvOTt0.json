@@ -3679,6 +3679,28 @@
     },
     {
       "album": {
+        "name": "Dudadu Flip",
+        "url": "https://open.spotify.com/album/1Jvf7bpiHMVtTG7LSR9X1l"
+      },
+      "artists": [
+        {
+          "name": "Goldcher",
+          "url": "https://open.spotify.com/artist/1n9K41Jye8s8F0z1hb1Qhz"
+        },
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199672,
+      "name": "Dudadu Flip",
+      "url": "https://open.spotify.com/track/1NVtj1xF3OArkrtqhWTn0K"
+    },
+    {
+      "album": {
         "name": "Duel",
         "url": "https://open.spotify.com/album/4Rxndqv8kgOx0BfVdlSq3f"
       },
@@ -7810,7 +7832,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 332400,
       "name": "Luxo",
       "url": "https://open.spotify.com/track/6gn7rTpP0DkB0qoeqYjbg1"

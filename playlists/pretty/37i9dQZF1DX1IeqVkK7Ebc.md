@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 
 > Taking it down a notch and keeping the vibes on ice...
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,917 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,916 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 69 | [Eye Tell \(!\)](https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [Eye Tell \(!\)](https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by) | 2:10 |
 | 70 | [Here’s To Us](https://open.spotify.com/track/2zpYiHY3ecQFn8V7jEd5u1) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Here’s To Us](https://open.spotify.com/album/4tSC3VDDSQetWw8s4GcreS) | 3:14 |
 | 71 | [Don't Look at Me Like That](https://open.spotify.com/track/43ZRaLFZJbssEfd9cjcLc7) | [Arthur Hill](https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg) | [Don't Look at Me Like That](https://open.spotify.com/album/2mq4pktC9b6z1CCCJdcvpZ) | 2:47 |
-| 72 | [Safe House](https://open.spotify.com/track/2esSObQC6pfnta4C6Crjbu) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Nothing To Lose](https://open.spotify.com/album/51Ejpf2T7D8fjeQuL45tf4) | 3:15 |
+| 72 | [30 Degrees](https://open.spotify.com/track/4LSZ5Op9z4LM6oP6S4G7sX) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [30 Degrees](https://open.spotify.com/album/1afc5JGIGUPtD7ODiFTgOt) | 3:08 |
 | 73 | [Could You Ever?](https://open.spotify.com/track/6ITKUhLctPRE0lZxgpvw2q) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Could You Ever?](https://open.spotify.com/album/1oAf0VsdPScZk0osrM1IOO) | 3:25 |
-| 74 | [numb](https://open.spotify.com/track/1yhsfUXr1kX6YisQETcyql) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [numb](https://open.spotify.com/album/7lipW95yNgwQSo1Ujfz0KE) | 4:06 |
-| 75 | [Without Words](https://open.spotify.com/track/2fC0RkvXGfa9A6eZDSnUha) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Without Words](https://open.spotify.com/album/2m1FDvBl8pE7IIph8sjrAf) | 3:06 |
+| 74 | [Without Words](https://open.spotify.com/track/2fC0RkvXGfa9A6eZDSnUha) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Without Words](https://open.spotify.com/album/2m1FDvBl8pE7IIph8sjrAf) | 3:06 |
+| 75 | [numb](https://open.spotify.com/track/1yhsfUXr1kX6YisQETcyql) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [numb](https://open.spotify.com/album/7lipW95yNgwQSo1Ujfz0KE) | 4:06 |
 | 76 | [Holding Onto You](https://open.spotify.com/track/6VRiVwGd7Yz3pSYjscnQJc) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Holding Onto You](https://open.spotify.com/album/5F3hpsvm9h4CPmC8Sg9lwh) | 2:54 |
 | 77 | [Bloodstone](https://open.spotify.com/track/0T76V96CQdOjI8KNK2jIjw) | [Oscar Blue](https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z) | [Bloodstone](https://open.spotify.com/album/7fiTzVTiLIkgICTZ3t6NMt) | 3:15 |
-| 78 | [30 Degrees](https://open.spotify.com/track/4LSZ5Op9z4LM6oP6S4G7sX) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [30 Degrees](https://open.spotify.com/album/1afc5JGIGUPtD7ODiFTgOt) | 3:08 |
-| 79 | [downtime](https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [downtime](https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va) | 3:12 |
-| 80 | [Cardboard Box](https://open.spotify.com/track/6Jv25wiyMdXCntMUvoTdNi) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 2:41 |
+| 78 | [Safe House](https://open.spotify.com/track/2esSObQC6pfnta4C6Crjbu) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Nothing To Lose](https://open.spotify.com/album/51Ejpf2T7D8fjeQuL45tf4) | 3:15 |
+| 79 | [Cardboard Box](https://open.spotify.com/track/6Jv25wiyMdXCntMUvoTdNi) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 2:41 |
+| 80 | [downtime](https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [downtime](https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va) | 3:12 |
 
 Snapshot ID: `ZpUE/QAAAAAM3PQr4pDIc1tkotHb9BPO`

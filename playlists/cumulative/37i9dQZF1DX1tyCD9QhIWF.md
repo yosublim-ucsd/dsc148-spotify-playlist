@@ -4,7 +4,7 @@
 
 > Big riffs and pounding drums to help you strut the streets.
 
-165 songs - 9 hr 6 min
+167 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Brick by Boring Brick](https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:13 | 2022-12-12 | 2023-05-19 |
 | [Burn The Witch](https://open.spotify.com/track/4Ne4UbfqgXcBdIsYHjvR6y) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Burn The Witch](https://open.spotify.com/album/1pZGazPWeMdbQFBdEQUXm0) | 2:55 | 2024-04-18 |  |
 | [Burnout](https://open.spotify.com/track/3m1XjVSdOzGGedI15JgsMa) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Burnout](https://open.spotify.com/album/5Bjbfx9AELAXq13zH6CsV0) | 3:24 | 2024-05-30 |  |
-| [Call A Doctor](https://open.spotify.com/track/5J8NNFnkQI2YjUcE0o2PLT) | [Girl and Girl](https://open.spotify.com/artist/6tRT8DibGiNSkXViROkIBn) | [Call A Doctor](https://open.spotify.com/album/60BvLrCIHyg11qbV8m9MK6) | 5:09 | 2024-05-30 |  |
+| [Call A Doctor](https://open.spotify.com/track/5J8NNFnkQI2YjUcE0o2PLT) | [Girl and Girl](https://open.spotify.com/artist/6tRT8DibGiNSkXViROkIBn) | [Call A Doctor](https://open.spotify.com/album/60BvLrCIHyg11qbV8m9MK6) | 5:09 | 2024-05-30 | 2024-07-20 |
 | [Can't Stop](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 4:29 | 2021-11-30 |  |
 | [Cheer Up London](https://open.spotify.com/track/6YwYfxEFDUZZ1xX5vlBYmF) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Are You Satisfied?](https://open.spotify.com/album/5wzGjIYYUnx1jtosNeqTdR) | 2:33 | 2021-11-30 |  |
 | [City Streets](https://open.spotify.com/track/6zcW5iHtkhBEuzpTLEit16) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [City Streets](https://open.spotify.com/album/3ewmrFdukMuucc1geA1IRk) | 3:26 | 2024-04-18 |  |
@@ -51,7 +51,7 @@
 | [Elephant](https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:31 | 2022-06-10 | 2024-04-19 |
 | [Fascist Bob](https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Fascist Bob](https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL) | 1:56 | 2024-04-18 |  |
 | [Fight For The Right](https://open.spotify.com/track/7qfZLqQvOE35OeiT9v70kO) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Fight For The Right](https://open.spotify.com/album/7zAXZA0sjU0ldpgnl3Wlt0) | 2:03 | 2024-05-30 |  |
-| [Final Gørl](https://open.spotify.com/track/3fDOY2MCtgGunLeNKOJe2v) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Final Gørl](https://open.spotify.com/album/6LrLLNRDXgVZ00ClQLuDi9) | 2:08 | 2024-04-18 |  |
+| [Final Gørl](https://open.spotify.com/track/3fDOY2MCtgGunLeNKOJe2v) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Final Gørl](https://open.spotify.com/album/6LrLLNRDXgVZ00ClQLuDi9) | 2:08 | 2024-04-18 | 2024-07-20 |
 | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW) | 3:06 | 2022-06-10 |  |
 | [GDP](https://open.spotify.com/track/4BXWW6fa5E2K7S1zBenkCx) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [GDP](https://open.spotify.com/album/57apS0WqvOlV81iSK1rsl6) | 3:22 | 2021-11-30 | 2022-09-15 |
 | [Get Down](https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Get Down](https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc) | 3:39 | 2024-04-18 |  |
@@ -84,6 +84,7 @@
 | [In My Head](https://open.spotify.com/track/7jJKNG1a6J1EmovRTjGMb7) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [In My Head](https://open.spotify.com/album/63lqbNX9o5kx1msCb8LS0L) | 3:53 | 2021-11-30 | 2022-09-15 |
 | [It's Not Your Fault](https://open.spotify.com/track/0l8NnoFm09sUNcts1ycOtV) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [PARANOIA](https://open.spotify.com/album/5CEcwEyL9wMG4TygYNTFgw) | 3:18 | 2021-11-30 | 2024-05-04 |
 | [It's Not Your Fault](https://open.spotify.com/track/6D0JzsBhZAQsl7bxtGMSJD) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [PARANOIA](https://open.spotify.com/album/6af3Z9vEogmAowqE0JOIFj) | 3:18 | 2023-07-25 | 2024-04-19 |
+| [Italian Horror](https://open.spotify.com/track/0NZvjVlwXHLUeLgZV8zk98) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Happenings](https://open.spotify.com/album/2R7o2dTaDASc1IaS5SzeAc) | 2:35 | 2024-07-19 |  |
 | [Jackie](https://open.spotify.com/track/1tEePg2AqDdRWLgYovr3yE) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Jackie](https://open.spotify.com/album/2Q02pptKl3XlbHJWtQmHmJ) | 2:56 | 2021-11-30 | 2022-09-15 |
 | [Jumpsuit](https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 3:58 | 2021-11-30 |  |
 | [Just My Type](https://open.spotify.com/track/3U2fxzzmfG6IubKrvXbWr8) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Just My Type](https://open.spotify.com/album/1FrfBppniPQH42IpFBBgAh) | 3:05 | 2024-05-30 |  |
@@ -143,6 +144,7 @@
 | [The Delicate Nature](https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ), [Laurie Vincent](https://open.spotify.com/artist/4MjaFbBLl18vGqTY7QnmNV) | [The Delicate Nature](https://open.spotify.com/album/0Q0ghRfGZQjZdSUud8KElY) | 3:02 | 2022-12-12 |  |
 | [The Emperor](https://open.spotify.com/track/4CtqY9iFkMwCz1pewf0t90) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [YUNGBLUD](https://open.spotify.com/album/3Hthv2JVzYaWq0TyElU5lF) | 2:55 | 2022-09-13 | 2023-07-25 |
 | [The Girls Are Fighting](https://open.spotify.com/track/5drHu52wKcmQMrIH2jRbZR) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Sex Magik](https://open.spotify.com/album/1YiU1FtGcLU67uw0yI3MMU) | 3:55 | 2022-03-01 | 2022-06-11 |
+| [The Last Dance](https://open.spotify.com/track/4qRjuJ0yie272bG3JY2EvU) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [The Last Dance](https://open.spotify.com/album/0rMHf3ngQEHHkNAKE259qe) | 4:30 | 2024-07-19 |  |
 | [The News](https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:07 | 2023-05-18 |  |
 | [The Way You Used to Do](https://open.spotify.com/track/1wsnCfewxZlCs7cJxkaMZM) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Villains](https://open.spotify.com/album/6JdX9MGiEMypqYLMKyIE8a) | 4:34 | 2021-11-30 | 2022-07-29 |
 | [The Way You Used To Do](https://open.spotify.com/track/52LL3IFB8N3PaJmoZ8Xii1) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Villains](https://open.spotify.com/album/7vuIN24G18PAUAvjnICyA6) | 4:34 | 2022-06-10 | 2024-04-19 |

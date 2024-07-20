@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Alex Lora en portada.",
-  "num_followers": 167430,
+  "num_followers": 167473,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "Llorando a Solas",
-        "url": "https://open.spotify.com/album/424vA5gXeRyA8Gd1UbVx9x"
-      },
-      "artists": [
-        {
-          "name": "Tres Vallejo",
-          "url": "https://open.spotify.com/artist/0qV25r4EHYSKLyMelm5U5s"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "No Me Arrepiento",
-      "url": "https://open.spotify.com/track/7CnRKqapOa3fCKWCI6XizL"
-    },
-    {
-      "added_at": "2024-07-12 18:10:47",
-      "album": {
         "name": "Anda Borracho Pancho",
         "url": "https://open.spotify.com/album/6h5XBXviV0nnD4ZgyAbuXw"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 302091,
       "name": "Anda Borracho Pancho",
       "url": "https://open.spotify.com/track/7w4yt7qtiS6hAFWr4drUdw"
+    },
+    {
+      "added_at": "2024-07-12 18:10:47",
+      "album": {
+        "name": "Llorando a Solas",
+        "url": "https://open.spotify.com/album/424vA5gXeRyA8Gd1UbVx9x"
+      },
+      "artists": [
+        {
+          "name": "Tres Vallejo",
+          "url": "https://open.spotify.com/artist/0qV25r4EHYSKLyMelm5U5s"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "No Me Arrepiento",
+      "url": "https://open.spotify.com/track/7CnRKqapOa3fCKWCI6XizL"
     },
     {
       "added_at": "2024-07-12 18:10:47",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "Valedores Juveniles",
-        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
+        "name": "La Ciudad",
+        "url": "https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa"
       },
       "artists": [
         {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+          "name": "Blues Boys",
+          "url": "https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z"
         }
       ],
-      "duration_ms": 155852,
-      "name": "Juan el Descuartizador",
-      "url": "https://open.spotify.com/track/0p9Bwi2HvvPNhvEdo4972S"
+      "duration_ms": 169180,
+      "name": "No Todo Es Oro",
+      "url": "https://open.spotify.com/track/138kU5xpFub1SxSD4oI7b0"
     },
     {
       "added_at": "2024-07-12 18:10:47",
@@ -619,18 +619,18 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "La Ciudad",
-        "url": "https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa"
+        "name": "Valedores Juveniles",
+        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
       },
       "artists": [
         {
-          "name": "Blues Boys",
-          "url": "https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z"
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 169180,
-      "name": "No Todo Es Oro",
-      "url": "https://open.spotify.com/track/138kU5xpFub1SxSD4oI7b0"
+      "duration_ms": 155852,
+      "name": "Juan el Descuartizador",
+      "url": "https://open.spotify.com/track/0p9Bwi2HvvPNhvEdo4972S"
     },
     {
       "added_at": "2024-07-12 18:10:47",

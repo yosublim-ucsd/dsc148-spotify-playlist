@@ -4,7 +4,7 @@
 
 > alt, folk, and indie rock sprinkled into this sonic melting pot\. Cover: James Bay
 
-458 songs - 1 day 3 hr 57 min
+459 songs - 1 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Just Around The Corner](https://open.spotify.com/track/3YA98Jkasip4SS2vpOT3Iv) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Just Around The Corner](https://open.spotify.com/album/5xX6g87kTLuwtkwGh7ehHG) | 2:55 | 2022-03-11 | 2023-05-13 |
 | [Just Like A Movie](https://open.spotify.com/track/2BTch3q4AJMKfgRPUXrK1E) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Just Like A Movie](https://open.spotify.com/album/5kEqBFvXUsZMTGS8F8U60y) | 3:18 | 2024-04-05 | 2024-06-08 |
 | [Kathleen](https://open.spotify.com/track/1MHYAqWWdDRePmnqORynrq) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 2:40 | 2023-04-04 |  |
-| [Keep Going](https://open.spotify.com/track/4ho40yA2hY1lnMPMrUSlhg) | [Guster](https://open.spotify.com/artist/34XlPCFfB4vT7P1ekWq9Jc) | [Keep Going](https://open.spotify.com/album/4ViHnXxYrzgR3peo6bWc3C) | 4:08 | 2024-07-12 |  |
+| [Keep Going](https://open.spotify.com/track/4ho40yA2hY1lnMPMrUSlhg) | [Guster](https://open.spotify.com/artist/34XlPCFfB4vT7P1ekWq9Jc) | [Keep Going](https://open.spotify.com/album/4ViHnXxYrzgR3peo6bWc3C) | 4:08 | 2024-07-12 | 2024-07-20 |
 | [Keep On Dreamin'](https://open.spotify.com/track/7oeLY4eOWi6weLBqTWH0Rc) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Keep On Dreamin'](https://open.spotify.com/album/26htWkoWquHLEiQUOqdPl5) | 4:26 | 2022-11-11 | 2023-04-05 |
 | [Kid](https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Kid](https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe) | 3:28 | 2023-02-24 |  |
 | [King](https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [King](https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE) | 4:40 | 2022-03-11 |  |
@@ -297,6 +297,7 @@
 | [Paranoid](https://open.spotify.com/track/6Ez7j7MPocvayb7J7WlaR7) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Paranoid](https://open.spotify.com/album/3NN3PtcVj4qu9Wm237MgYP) | 3:41 | 2024-07-19 |  |
 | [Past Life](https://open.spotify.com/track/7n7lAjhdmq60Y49MqhY7ej) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Past Life](https://open.spotify.com/album/468YxjlJ19TxL2zpAeQIhK) | 3:30 | 2022-07-01 | 2022-10-01 |
 | [Phoenix](https://open.spotify.com/track/0iQTeVvJNmp6Hqo4DBwICQ) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [Marriage](https://open.spotify.com/album/2QMlNg1qJW43CXQiYfCJBF) | 2:57 | 2021-11-19 | 2022-02-26 |
+| [Piranhanana](https://open.spotify.com/track/10iJAaFvMXMNtnYmMQs7g0) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Piranhanana](https://open.spotify.com/album/2mVALYxNoT5iDd9YSttn3X) | 2:45 | 2024-07-19 |  |
 | [PIRATE RADIO\*](https://open.spotify.com/track/5ShMDjPL7vYhhdyGGppXm9) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 3:09 | 2023-02-24 |  |
 | [Place Your Debts](https://open.spotify.com/track/29f4cPjqBi9n5lS8XQlKa3) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Place Your Debts](https://open.spotify.com/album/3I3kMVNvm0kT9RZGjeyNDl) | 5:10 | 2022-10-21 | 2023-04-05 |
 | [Playing With My Emotions](https://open.spotify.com/track/4zEFa1VjwShQ70oiiELHMf) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 4:10 | 2022-07-01 | 2023-02-11 |

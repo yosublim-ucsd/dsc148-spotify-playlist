@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 
 > pop woke up and chose chaos\. cover: GAYLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,054 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,051 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,16 +56,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 46 | [My Mother Wants Me Dead](https://open.spotify.com/track/3ADDLOa2NjjLFQ7g2FTiYx) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [My Mother Wants Me Dead](https://open.spotify.com/album/0T6yUi3nWoE9c5krkoPYPK) | 1:45 |
 | 47 | [keep me afraid](https://open.spotify.com/track/1M3DeTf5xVoEPNL8FF5vsi) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [pretty poison](https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S) | 2:44 |
 | 48 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 |
-| 49 | [Sober](https://open.spotify.com/track/7K3rRx00hcS6MpZmYGUFH2) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Sober](https://open.spotify.com/album/51xoJomo3hvVg4BE7GHnHI) | 2:32 |
-| 50 | [Thriving](https://open.spotify.com/track/05iLS2VOLss6mnHYDV0Lfd) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lady Jesus](https://open.spotify.com/album/3INiPPjvwK4RGIV4Qed2Qu) | 2:15 |
+| 49 | [Thriving](https://open.spotify.com/track/05iLS2VOLss6mnHYDV0Lfd) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lady Jesus](https://open.spotify.com/album/3INiPPjvwK4RGIV4Qed2Qu) | 2:15 |
+| 50 | [Sober](https://open.spotify.com/track/7K3rRx00hcS6MpZmYGUFH2) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Sober](https://open.spotify.com/album/51xoJomo3hvVg4BE7GHnHI) | 2:32 |
 | 51 | [Purity](https://open.spotify.com/track/1BV7YtzsoKAF2cULDHLe2K) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Purity](https://open.spotify.com/album/3yKU3194yUrl8T499qMKvQ) | 1:53 |
 | 52 | [Bitches These Days](https://open.spotify.com/track/1Ls9hQqVRPIIWnylIlHg48) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Bitches These Days](https://open.spotify.com/album/0B3EG9By8Xd8gTcNUYh0Wo) | 2:23 |
 | 53 | [Pink Convertible](https://open.spotify.com/track/20axrgBlxsVZ5m1otNOvC1) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Ancient Dreams In A Modern Land \(Deluxe Edition\)](https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d) | 3:41 |
 | 54 | [hurt less](https://open.spotify.com/track/2FhzneTjsV0HR4lXNJTTyI) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [overkill](https://open.spotify.com/album/367LA0QRCgt5u8QLx0UgmH) | 2:45 |
 | 55 | [please put me in a medically induced coma](https://open.spotify.com/track/4MY8pe89WnW7xVOxUN4hmg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/2pPYJUCaxJTApLpglmBpaL) | 3:06 |
 | 56 | [wannabe](https://open.spotify.com/track/5PXdLJJWQJTOpfHdPkMsOw) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [off saint dominique EP](https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD) | 2:32 |
-| 57 | [ugly](https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [ugly](https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4) | 3:00 |
-| 58 | [Baby](https://open.spotify.com/track/4KNk5VS4bR4nUVvnJwVmUE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Baby](https://open.spotify.com/album/7guVedOngStKyoYMzMdWzj) | 2:39 |
+| 57 | [Baby](https://open.spotify.com/track/4KNk5VS4bR4nUVvnJwVmUE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Baby](https://open.spotify.com/album/7guVedOngStKyoYMzMdWzj) | 2:39 |
+| 58 | [ugly](https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [ugly](https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4) | 3:00 |
 | 59 | [A Dangerous Thing](https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:35 |
 | 60 | [The Saint And The Sinner](https://open.spotify.com/track/0NglzykMdrtMzNzA6HuDyN) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [The Saint And The Sinner](https://open.spotify.com/album/1mYlxJmW2sSZdSuZFWeaKg) | 3:12 |
 | 61 | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/track/0cZ32X4hK23v585O8Wz6Yr) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/album/7ByUUXiK8wox0Z76Ggj4Mz) | 3:42 |

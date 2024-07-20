@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'\. Posłuchaj zwycięzców oraz wszystkich nominowanych na jednej playliście.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,346 likes - 82 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,345 likes - 82 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 35 | [ZAZA](https://open.spotify.com/track/7ikCNXfGAaDp0sGCyp1jJj) | [Aleshen](https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu) | [ZAZA](https://open.spotify.com/album/3Ah9Cw7kcEYmCTf7L5iF9M) | 2:48 |
 | 36 | [nigdy więcej 2022](https://open.spotify.com/track/6BCqzFZ2is57XTs2kSMVWq) | [Solar](https://open.spotify.com/artist/1KJvuZHmkpnrjIyTLhhwpb), [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE), [SB Maffija](https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG) | [nigdy więcej 2022](https://open.spotify.com/album/4Zh0KGSolRFUL55kEnsNJ5) | 3:48 |
 | 37 | [Stary Pezet \(klasyczny\)](https://open.spotify.com/track/0o7zgQODoJbMsaYMvCFviQ) | [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [Waco](https://open.spotify.com/artist/4fwFJRmea6ksX4ZUM1Hhlu), [Eklektik](https://open.spotify.com/artist/1ArazAocOQKVEMD8VEPcnp) | [Stary Pezet \(klasyczny\)](https://open.spotify.com/album/6RUYNWJ7uAsDKHO6ahhfOO) | 3:27 |
-| 38 | [Start](https://open.spotify.com/track/6KDupfSJDH75bwFnkVYn6O) | [KęKę](https://open.spotify.com/artist/11ohMXkA2KIq5F1DoWH2jj), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Start](https://open.spotify.com/album/76Qeh82FyrDRuFfqXMIflr) | 2:08 |
-| 39 | [Kłamczuch](https://open.spotify.com/track/2Wh79KhDg8f2e6tTmvShQ7) | [Floral Bugs](https://open.spotify.com/artist/7e6iH8brpvXHIcxlK8WHZK), [Kudel](https://open.spotify.com/artist/0iaQyrpwB9pFge9sRokeim) | [KŁAMCZUCH](https://open.spotify.com/album/6pjGoaCAWx7ruzcmxCdRa7) | 2:41 |
+| 38 | [Kłamczuch](https://open.spotify.com/track/2Wh79KhDg8f2e6tTmvShQ7) | [Floral Bugs](https://open.spotify.com/artist/7e6iH8brpvXHIcxlK8WHZK), [Kudel](https://open.spotify.com/artist/0iaQyrpwB9pFge9sRokeim) | [KŁAMCZUCH](https://open.spotify.com/album/6pjGoaCAWx7ruzcmxCdRa7) | 2:41 |
+| 39 | [Start](https://open.spotify.com/track/6KDupfSJDH75bwFnkVYn6O) | [KęKę](https://open.spotify.com/artist/11ohMXkA2KIq5F1DoWH2jj), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Start](https://open.spotify.com/album/76Qeh82FyrDRuFfqXMIflr) | 2:08 |
 | 40 | [Sidehoe](https://open.spotify.com/track/5qgsgQgtzY6WG6VTBpe8Oq) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74) | [Sidehoe](https://open.spotify.com/album/2wvD4lW5ufIAlQcuy2Jbof) | 2:29 |
 | 41 | [W GORĄCEJ WODZIE COMPANY](https://open.spotify.com/track/1UYPQ2AlncsTIRbIAZqZvV) | [rów babicze](https://open.spotify.com/artist/7G7Cn1swPVhPV4V3PNNXP1) | [E\- PUSIA](https://open.spotify.com/album/46fcnCGCRfLWAPdIioItSV) | 2:46 |
 | 42 | [Inny Świat](https://open.spotify.com/track/3f0nuItdnejs29CxqAABFG) | [Dobry Dzieciak](https://open.spotify.com/artist/0WKYgJo3VGbcb70N1OHjcH), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Wowo](https://open.spotify.com/artist/1EBJRC9rAAPpR2Ru3O6OY0) | [Inny Świat](https://open.spotify.com/album/3NAOi7pSOXdX6mGS0GptTt) | 2:25 |

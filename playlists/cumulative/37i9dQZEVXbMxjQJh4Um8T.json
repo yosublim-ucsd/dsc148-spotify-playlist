@@ -496,7 +496,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 253962,
       "name": "BADGYAL",
       "url": "https://open.spotify.com/track/3ng8tfwvzR4BBwa9yaMms6"
@@ -612,7 +612,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 140733,
       "name": "BAND4BAND (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
@@ -1508,6 +1508,32 @@
     {
       "album": {
         "name": "Cuando Te Vi | CROSSOVER #5",
+        "url": "https://open.spotify.com/album/4u5sL85dlRv7eIMJIozZl8"
+      },
+      "artists": [
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "Cuando Te Vi | CROSSOVER #5",
+      "url": "https://open.spotify.com/track/3KeYEr9ogMBemsOfQIJmZp"
+    },
+    {
+      "album": {
+        "name": "Cuando Te Vi | CROSSOVER #5",
         "url": "https://open.spotify.com/album/5B3AaoOK8o22cYkdoBOVFI"
       },
       "artists": [
@@ -1526,7 +1552,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 218400,
       "name": "Cuando Te Vi | CROSSOVER #5",
       "url": "https://open.spotify.com/track/5OwAhFlvFZ4ZdGDfroYgAm"
@@ -2032,7 +2058,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 193066,
       "name": "EL PANTALON - RUMBAS",
       "url": "https://open.spotify.com/track/7CsOowK8aWlxgjuZLW7pXA"
@@ -5440,7 +5466,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
@@ -5546,7 +5572,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 142041,
       "name": "Piel",
       "url": "https://open.spotify.com/track/6kPCcIAGoTeRrh8qrmKa90"
@@ -5564,7 +5590,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 186365,
       "name": "Please Please Please",
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
@@ -6780,7 +6806,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 140000,
       "name": "SOLUCIONS i NO PROBLEMES",
       "url": "https://open.spotify.com/track/4ZwCcWOVTwvKwSuFbhiafN"
@@ -6908,7 +6934,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 207746,
       "name": "SORRY 4 THAT MUCH",
       "url": "https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6"
@@ -7246,7 +7272,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 189282,
       "name": "Tengo Un Plan",
       "url": "https://open.spotify.com/track/3r9OpHiEaeMaBOa7kVtWtC"
@@ -8412,7 +8438,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 321741,
       "name": "WYA REMIX RED",
       "url": "https://open.spotify.com/track/4YnmQG1fnJR9LnTZtix70T"

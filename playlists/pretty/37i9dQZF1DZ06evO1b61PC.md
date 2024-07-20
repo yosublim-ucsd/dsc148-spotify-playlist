@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 
 > This is Jai Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,005 likes - 26 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,007 likes - 26 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 11 | [Better Apart \(feat\. Dresage\)](https://open.spotify.com/track/1TFC1wutiIHQQ9buf8bxQI) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Dresage](https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2) | [The Cure To Loneliness](https://open.spotify.com/album/3RUimnrKcKNrCXkBkjPhBG) | 3:54 |
 | 12 | [Gravity \(feat\. JMR\)](https://open.spotify.com/track/1OBUY61V7sX1vcS99PxKLa) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [JMR](https://open.spotify.com/artist/5TvAqaxbbxUNnzX11Pt752) | [Kindred Spirits](https://open.spotify.com/album/16CCJo59jCko0476mRMmQu) | 3:48 |
 | 13 | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/track/32IMgcVhysYW12NRvMLp8c) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/album/22MkBC5l2Zi9atm66fE0Jq) | 3:06 |
-| 14 | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\]](https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\]](https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST) | 3:38 |
-| 15 | [Like It's Over \(feat\. MNDR\)](https://open.spotify.com/track/4loZFQtwao4GVquR0dLEiL) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Like It's Over \(feat\. MNDR\)](https://open.spotify.com/album/0ohanLzrNxJRhFs9ELhesM) | 5:18 |
+| 14 | [Like It's Over \(feat\. MNDR\)](https://open.spotify.com/track/4loZFQtwao4GVquR0dLEiL) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Like It's Over \(feat\. MNDR\)](https://open.spotify.com/album/0ohanLzrNxJRhFs9ELhesM) | 5:18 |
+| 15 | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\]](https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\]](https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST) | 3:38 |
 | 16 | [Still Sleeping](https://open.spotify.com/track/2hODZD0nBB0NcJxleDPNFz) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/3RUimnrKcKNrCXkBkjPhBG) | 4:46 |
 | 17 | [Hikikomori \- Demo](https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Hikikomori](https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa) | 2:42 |
 | 18 | [The World Is Ours](https://open.spotify.com/track/0YDSEyBzPsuQzkuc9Bu8iR) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/16CCJo59jCko0476mRMmQu) | 3:42 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 25 | [Easy For Me \- Jai Wolf Club Babu Remix](https://open.spotify.com/track/2mixDh13NCxrtYP84Yi9Cg) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Easy For Me \(Jai Wolf Club Babu Remix\)](https://open.spotify.com/album/1fKNCfgQCgQkjwV0tMYbfY) | 3:21 |
 | 26 | [Your Way \(feat\. Day Wave\)](https://open.spotify.com/track/1i6C6n8CgzU0X7u77ikQid) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [The Cure To Loneliness](https://open.spotify.com/album/3RUimnrKcKNrCXkBkjPhBG) | 4:26 |
 
-Snapshot ID: `ZpcJgAAAAADPsWiyzwlHbK6p0vCYQent`
+Snapshot ID: `ZphbAAAAAADsWyP3bOpa+EaB3ASMhvLw`

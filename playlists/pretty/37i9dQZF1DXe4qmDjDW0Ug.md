@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 
 > 국내를 강타 했던 R&B곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,508 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,506 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 | 32 | [Only Look At Me \(나만 바라봐\)](https://open.spotify.com/track/1xaLJbuJr6efSW8MFA7vTu) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Solar International](https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de) | 4:00 |
 | 33 | [It's Over](https://open.spotify.com/track/47PAgx8nAijlmCdJtiq2iE) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) | 3:54 |
 | 34 | [Want to fall in love](https://open.spotify.com/track/0JrxJyLzc4dRNHE1Kcyycm) | [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3) | [Want to fall in love](https://open.spotify.com/album/4AJjXoKd9JVW1MI14Qulj0) | 3:54 |
-| 35 | [Square \(2017\)](https://open.spotify.com/track/13On7DYsJ3IrWxBWuOwM8t) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up) | 4:21 |
+| 35 | [My Story](https://open.spotify.com/track/79zakrunWiO9JLOJNfcDuJ) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [The Wind, The Sea, The Rain](https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL) | 4:38 |
 | 36 | [I Love It](https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:36 |
-| 37 | [My Story](https://open.spotify.com/track/79zakrunWiO9JLOJNfcDuJ) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [The Wind, The Sea, The Rain](https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL) | 4:38 |
+| 37 | [Square \(2017\)](https://open.spotify.com/track/13On7DYsJ3IrWxBWuOwM8t) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up) | 4:21 |
 | 38 | [그대 떠난 뒤 \(with 브라운 아이드 소울\)](https://open.spotify.com/track/6HkeCtEHZSDReE5EEvjv2J) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Back To The Soul Flight](https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u) | 5:37 |
 | 39 | [새벽한시 \(1AM\)](https://open.spotify.com/track/3JmlYV4mm5jdo2ZWzATLBv) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [RISE](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) | 3:11 |
 | 40 | [Good Bye Sadness, Hello Happiness](https://open.spotify.com/track/5SZAcEsbb9HrVTsu5kwWMT) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [t 3 YOONMIRAE](https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L) | 4:38 |
-| 41 | [Sorry](https://open.spotify.com/track/1JMByXHGoGaBVSaMGyNN9w) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Parallax](https://open.spotify.com/album/3SkW52Wt3omQQexWElTNeR) | 3:41 |
-| 42 | [My Everything](https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:53 |
+| 41 | [My Everything](https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:53 |
+| 42 | [Sorry](https://open.spotify.com/track/1JMByXHGoGaBVSaMGyNN9w) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Parallax](https://open.spotify.com/album/3SkW52Wt3omQQexWElTNeR) | 3:41 |
 | 43 | [Bye Bye Bye](https://open.spotify.com/track/07jUEjiknVlPtbRPtcKxGN) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [Hwayobi](https://open.spotify.com/album/3OfJmTAwCFltxeNO9lC6rS) | 3:04 |
 | 44 | [Come Back to Me](https://open.spotify.com/track/6ieC9SkXMQQPEJSpq69z4K) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 4:07 |
 | 45 | [Break Away](https://open.spotify.com/track/4qzqqJaELifylL0VJU55mb) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 4:20 |
 | 46 | [안되나요](https://open.spotify.com/track/5njOfvhH1y5CxvdXgUXgTC) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 4:30 |
 | 47 | [Memory Loss](https://open.spotify.com/track/2EKF9fFb5X7117shgzvsJT) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 3:54 |
-| 48 | [Let's start our love again](https://open.spotify.com/track/4F0MBoi8SP3HhzJ8aDQX7L) | [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3) | [Let's start our love again](https://open.spotify.com/album/1wizL9Nmk6BRuQyH8LhfKL) | 4:27 |
-| 49 | [Across the Universe](https://open.spotify.com/track/37LGPxmWd0LLKt80PKEDfz) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [FRANK](https://open.spotify.com/album/3nf5TdSHODl88hYx0EEtmC) | 4:07 |
+| 48 | [Maybe It’s Not Our Fault](https://open.spotify.com/track/2xxAW1kGFSVCDdRVoryX8R) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our love is great](https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW) | 3:53 |
+| 49 | [Let's start our love again](https://open.spotify.com/track/4F0MBoi8SP3HhzJ8aDQX7L) | [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3) | [Let's start our love again](https://open.spotify.com/album/1wizL9Nmk6BRuQyH8LhfKL) | 4:27 |
 | 50 | [All I Wanna Do \(feat\. Hoody & 로꼬 Loco\) \[Korean Version\]](https://open.spotify.com/track/2c37Gkpu75l3kvh1FUZrHV) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Everything You Wanted](https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE) | 3:36 |
 
 Snapshot ID: `Zg8I8AAAAABK5pTddbjaPJsgwczjPYVz`

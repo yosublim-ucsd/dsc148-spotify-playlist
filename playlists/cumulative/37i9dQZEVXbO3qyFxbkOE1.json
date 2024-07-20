@@ -6184,7 +6184,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 240654,
       "name": "Extssy Model",
       "url": "https://open.spotify.com/track/24teIhDYO2RocTA2v5dY0r"
@@ -8712,6 +8712,24 @@
       "duration_ms": 161040,
       "name": "La Media Vuelta",
       "url": "https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX"
+    },
+    {
+      "album": {
+        "name": "Contrareloj",
+        "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161440,
+      "name": "La Muralla Verde",
+      "url": "https://open.spotify.com/track/6OKhBvddAlWxxFnjbpilhu"
     },
     {
       "album": {
@@ -15666,7 +15684,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 142334,
       "name": "Seg\u00fan Qui\u00e9n",
       "url": "https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU"
@@ -16488,7 +16506,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 207746,
       "name": "SORRY 4 THAT MUCH",
       "url": "https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6"

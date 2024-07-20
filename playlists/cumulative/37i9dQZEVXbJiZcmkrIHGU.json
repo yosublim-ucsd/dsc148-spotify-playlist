@@ -3130,7 +3130,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 109081,
       "name": "Amo aller Amos",
       "url": "https://open.spotify.com/track/7eBo7oeGFWJ9GlL1Me6NuV"
@@ -12148,7 +12148,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 137375,
       "name": "Dieser Sommer",
       "url": "https://open.spotify.com/track/0Cnf2mlQavyPknr3OxzTAn"
@@ -14230,6 +14230,14 @@
         {
           "name": "Zartmann",
           "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        },
+        {
+          "name": "Drumla",
+          "url": "https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9"
+        },
+        {
+          "name": "Dauner",
+          "url": "https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb"
         }
       ],
       "date_added": "2024-07-10",

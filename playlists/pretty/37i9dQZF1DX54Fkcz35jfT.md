@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: 10\-FEET
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,298 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,303 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 81 | [Mountain Top](https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Mountain Top](https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34) | 4:06 |
 | 82 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 |
 | 83 | [Bestie](https://open.spotify.com/track/4tyZPsmQnmb3A7R1EJpYD3) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Bestie](https://open.spotify.com/album/244u3mXBG8CnwawYKawCsw) | 3:35 |
-| 84 | [I'm ready to die for my friends feat\. VIGORMAN](https://open.spotify.com/track/3hopU0u5AXFkY0qcAxpSSd) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [PALEHELL](https://open.spotify.com/album/061Fln1SY6RputuFt6GP5N) | 3:50 |
-| 85 | [部長ぷっちょどう？](https://open.spotify.com/track/2Oz4Nt5wvOhvh5DTT8PrqR) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [ぼちぼちベテラン](https://open.spotify.com/album/7cCJXG5AWEk7aeAcpQFRwm) | 3:27 |
+| 84 | [部長ぷっちょどう？](https://open.spotify.com/track/2Oz4Nt5wvOhvh5DTT8PrqR) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [ぼちぼちベテラン](https://open.spotify.com/album/7cCJXG5AWEk7aeAcpQFRwm) | 3:27 |
+| 85 | [I'm ready to die for my friends feat\. VIGORMAN](https://open.spotify.com/track/3hopU0u5AXFkY0qcAxpSSd) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [PALEHELL](https://open.spotify.com/album/061Fln1SY6RputuFt6GP5N) | 3:50 |
 | 86 | [メタり！！ \(feat\. Tom Morello\)](https://open.spotify.com/track/213nQotWKjNWnD92F6NWVx) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [メタり！！ \(feat\. Tom Morello\)](https://open.spotify.com/album/5ZuHwoWf9rMyj5F1DsexIt) | 3:28 |
 | 87 | [Drive Far](https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Hateful Failures](https://open.spotify.com/album/3wC8Keda4UuvaMsuhhqzdP) | 3:16 |
 | 88 | [error](https://open.spotify.com/track/6UBKBsszhdmFrfgdrfXhHr) | [FACT](https://open.spotify.com/artist/6e72QQjYlMcLhQaDWO2G73) | [FACT 2009 \- 2012](https://open.spotify.com/album/7EAoGpFEkajO87sci1FFC2) | 3:32 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 93 | [CLIMB](https://open.spotify.com/track/3FXKi2gZSiSA8sXQemm87Q) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [CLIMB](https://open.spotify.com/album/4fXRZmz7myClJWDsAiu4Cv) | 2:55 |
 | 94 | [JUNGLE BUN DEM](https://open.spotify.com/track/63db8vQEJP7cjNgmGLQJ3G) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [JUNGLE BUN DEM](https://open.spotify.com/album/34W77zpgAiCyRDQ4RwhFwe) | 3:13 |
 | 95 | [HAPPY BIRTHDAY](https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 2:44 |
-| 96 | [ユエニ](https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [ユエニ](https://open.spotify.com/album/1ZuPsCdjOY2hJyM3Y6KO84) | 4:00 |
-| 97 | [Still Burning](https://open.spotify.com/track/5Ep7HRnmu32mSkk1U1eaYQ) | [BRIDEAR](https://open.spotify.com/artist/3h6F7NaadGF3Ayf3FJBjdR) | [Born Again](https://open.spotify.com/album/1klS1EXSjRdF0bXuTMcHZO) | 5:20 |
+| 96 | [BATMAN](https://open.spotify.com/track/2mjmpNRKFWlPXiN3KCfK8t) | [Petit Brabancon](https://open.spotify.com/artist/0hS6BAggi7bO0BrnJLg8Ad) | [BATMAN](https://open.spotify.com/album/4TJQJh57ZDZo9eO0nICNFX) | 2:58 |
+| 97 | [ユエニ](https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [ユエニ](https://open.spotify.com/album/1ZuPsCdjOY2hJyM3Y6KO84) | 4:00 |
 | 98 | [These Magic Words](https://open.spotify.com/track/4RgwEZ392WaZCYOKOq3ALC) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [These Magic Words](https://open.spotify.com/album/2WKzfJK53JJ4R8BEXawsxW) | 2:53 |
-| 99 | [BATMAN](https://open.spotify.com/track/2mjmpNRKFWlPXiN3KCfK8t) | [Petit Brabancon](https://open.spotify.com/artist/0hS6BAggi7bO0BrnJLg8Ad) | [BATMAN](https://open.spotify.com/album/4TJQJh57ZDZo9eO0nICNFX) | 2:58 |
+| 99 | [Still Burning](https://open.spotify.com/track/5Ep7HRnmu32mSkk1U1eaYQ) | [BRIDEAR](https://open.spotify.com/artist/3h6F7NaadGF3Ayf3FJBjdR) | [Born Again](https://open.spotify.com/album/1klS1EXSjRdF0bXuTMcHZO) | 5:20 |
 | 100 | [Dark Horse](https://open.spotify.com/track/5tdi3BqFzpYVAaXi2qwC2Y) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [JESSE](https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Dark Horse](https://open.spotify.com/album/2w047BXSeBWZEoVblObPPs) | 3:45 |
 
 Snapshot ID: `Zpae0QAAAACoLxU1QN7bBwW68eIdCLqd`

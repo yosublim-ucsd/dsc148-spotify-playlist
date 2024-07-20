@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,781 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,783 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 11 | [綾里真宵 〜逆転姉妹のテーマ 2001](https://open.spotify.com/track/1L84WnMrvTg84ilWBnSv4e) | [Masakazu Sugimori](https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq) | [逆転裁判 蘇る逆転 オリジナル・サウンドトラック](https://open.spotify.com/album/3iLHMc4qYd3b9k7JbtxxBq) | 2:41 |
 | 12 | [星に駆られて](https://open.spotify.com/track/18wSghW2luxajMP9LfeGtx) | [TADAYOSHI MAKINO](https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt) | [モンスターハンター:ワールド オリジナル・サウンドトラック](https://open.spotify.com/album/0hU2xjMRQWN7zsawye1wfh) | 4:31 |
 | 13 | [大追求 〜成歩堂龍ノ介の覺悟](https://open.spotify.com/track/7a0PMLaZMhu18Hl88STQBk) | [Yasumasa Kitagawa](https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d) | [大逆転裁判2 \-成歩堂龍ノ介の覺悟\- 劇伴音樂大全集](https://open.spotify.com/album/6eOTzkW3xOLBwG8zRfA2V4) | 2:09 |
-| 14 | [銀翼の凶星/バルファルク \- Rise ver.](https://open.spotify.com/track/56eXeZWgCsXO5a3CMoz2Bd) | [裏谷玲央](https://open.spotify.com/artist/50lUudPsXCGEe4dn6aKTdb) | [MONSTER HUNTER RISE Extra Tracks](https://open.spotify.com/album/2g234Htpvky7Ix919DGik6) | 4:03 |
-| 15 | [英雄の証 〜 ミラクル☆ミルクティ](https://open.spotify.com/track/1mbJVz9bjm7Rdm5ZkZnNhC) | [ミラクル☆ミルクティ\(CV:上田麗奈&高野麻里佳\)](https://open.spotify.com/artist/6F3dWs4bYDUJ80qE7ypQQN) | [モンスターハンターダブルクロス ミラクル☆ミルクティ](https://open.spotify.com/album/5gpRBUGBt9nkKQZldHXkY8) | 4:03 |
+| 14 | [英雄の証 〜 ミラクル☆ミルクティ](https://open.spotify.com/track/1mbJVz9bjm7Rdm5ZkZnNhC) | [ミラクル☆ミルクティ\(CV:上田麗奈&高野麻里佳\)](https://open.spotify.com/artist/6F3dWs4bYDUJ80qE7ypQQN) | [モンスターハンターダブルクロス ミラクル☆ミルクティ](https://open.spotify.com/album/5gpRBUGBt9nkKQZldHXkY8) | 4:03 |
+| 15 | [銀翼の凶星/バルファルク \- Rise ver.](https://open.spotify.com/track/56eXeZWgCsXO5a3CMoz2Bd) | [裏谷玲央](https://open.spotify.com/artist/50lUudPsXCGEe4dn6aKTdb) | [MONSTER HUNTER RISE Extra Tracks](https://open.spotify.com/album/2g234Htpvky7Ix919DGik6) | 4:03 |
 | 16 | [太陽は昇る](https://open.spotify.com/track/16v8Prn0jyUJ93oQ5TWHQx) | [T’s MUSIC](https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V) | [大神 音調\(しらべ\)の巻 \[四\]](https://open.spotify.com/album/44egYoICIMQdGRkkACFuhP) | 5:42 |
 | 17 | [Theme of Guile](https://open.spotify.com/track/76kjxx3RJj4jXtT1YrXarY) | [Masahiro Aoki](https://open.spotify.com/artist/7jFdaWMEhqH0728GasEiki) | [ストリートファイターV オリジナル・サウンドトラック \(アーケードエディション\)](https://open.spotify.com/album/3sQuNYzXpTcvjsSuVztGf4) | 4:12 |
 | 18 | [砂塵きらめく、荒漠の地](https://open.spotify.com/track/57VyMwroJMq4lmPlOXp8HA) | [堀諭史](https://open.spotify.com/artist/56JQzzYTLuEO1MvPct6Tfg) | [モンスターハンターライズ オリジナルサウンドトラック](https://open.spotify.com/album/5Ktf5vRcVR04E4Ojl5dQmc) | 4:14 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 33 | [Esperanto](https://open.spotify.com/track/70CUZtpLl7JYn5UJ99HkS4) | [Umegaki Runa](https://open.spotify.com/artist/1EttdjOOkUtmSht8NjZ1ax) | [ロックマン ゼロ4 オリジナルサウンドトラック](https://open.spotify.com/album/5llJtMDrs4Kmtq8iEFZs9s) | 2:19 |
 | 34 | [X4 \- BOSS](https://open.spotify.com/track/4u3iiJok9uFwOCFS6YggNU) | [Yasumasa Kitagawa](https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d) | [ロックマンX アニバーサリーコレクション サウンドトラック](https://open.spotify.com/album/4Tx330gx8oYUUWDQM27Ffy) | 2:51 |
 | 35 | [墓場](https://open.spotify.com/track/4JaYyVgt7FuTtYanPrWeOn) | [M\-TWO Inc.](https://open.spotify.com/artist/0SFDksnq3pViyCqr4K57z9), [designwave co.,ltd.](https://open.spotify.com/artist/1sIQbqXeBZtxgZPwEFUU62) | [帰ってきた 魔界村 オリジナル・サウンドトラック](https://open.spotify.com/album/4EPXj1UsxZa0R66wcZJ0nv) | 1:42 |
-| 36 | [ROCKMAN2/Dr\. WILY STAGE 1 \- OMEGAMAN MIX](https://open.spotify.com/track/1uRa9Jk0Xw03kiMqrGOb7N) | [ROCK\-MEN](https://open.spotify.com/artist/32d84jVg6I1eVLBMis0tx8) | [We are ROCK\-MEN!2](https://open.spotify.com/album/5h4Q9ndqX9UNPnhwsonC3G) | 3:53 |
-| 37 | [SENGOKU BASARA](https://open.spotify.com/track/5nMWMpnE0lTGhm88MDc0Gk) | [CHAMY.Ishi](https://open.spotify.com/artist/48lrIJjD2wl3uoNBbFOlsw) | [戦国BASARA 15th Anniversary BEST](https://open.spotify.com/album/7JwD74wMg2XqFigwPE9ju5) | 1:57 |
+| 36 | [SENGOKU BASARA](https://open.spotify.com/track/5nMWMpnE0lTGhm88MDc0Gk) | [CHAMY.Ishi](https://open.spotify.com/artist/48lrIJjD2wl3uoNBbFOlsw) | [戦国BASARA 15th Anniversary BEST](https://open.spotify.com/album/7JwD74wMg2XqFigwPE9ju5) | 1:57 |
+| 37 | [ROCKMAN2/Dr\. WILY STAGE 1 \- OMEGAMAN MIX](https://open.spotify.com/track/1uRa9Jk0Xw03kiMqrGOb7N) | [ROCK\-MEN](https://open.spotify.com/artist/32d84jVg6I1eVLBMis0tx8) | [We are ROCK\-MEN!2](https://open.spotify.com/album/5h4Q9ndqX9UNPnhwsonC3G) | 3:53 |
 | 38 | [Free From Fear](https://open.spotify.com/track/0oSzptjJ0jjmPNkNSwCgu1) | [Saori Maeda](https://open.spotify.com/artist/3Ud7woLRk2efj0q3D2lCzm) | [バイオハザード RE:3 スペシャル・サウンドトラック](https://open.spotify.com/album/7n9RHbGS7yppozv4MCa0qZ) | 2:06 |
 | 39 | [GRAVITY BEETBOOD STAGE](https://open.spotify.com/track/4WTdDF76GR9BZtLwawzNpv) | [Kinuyo Yamashita](https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx) | [ロックマンX3 サウンド コレクション](https://open.spotify.com/album/4RijHi8wFnQSdYt1TvQIpw) | 1:54 |
 | 40 | [Staff & Credits](https://open.spotify.com/track/1lmLc4iLgLIZ4MwQBTwXJq) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [バイオハザード RE:3 スペシャル・サウンドトラック](https://open.spotify.com/album/7n9RHbGS7yppozv4MCa0qZ) | 5:45 |

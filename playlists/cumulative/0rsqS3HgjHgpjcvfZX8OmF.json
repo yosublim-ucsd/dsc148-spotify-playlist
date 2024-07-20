@@ -71,6 +71,24 @@
     },
     {
       "album": {
+        "name": "About Me",
+        "url": "https://open.spotify.com/album/5nkdy20Ch1Y9tiUG7epzLd"
+      },
+      "artists": [
+        {
+          "name": "Ash Molloy",
+          "url": "https://open.spotify.com/artist/7r9idpCLiq7S2KS1n5Fp7J"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202400,
+      "name": "About Me",
+      "url": "https://open.spotify.com/track/51XoldrreNOGQzUshH9rxh"
+    },
+    {
+      "album": {
         "name": "Abyss (from Kaiju No. 8)",
         "url": "https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0"
       },
@@ -500,7 +518,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 184013,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
@@ -594,7 +612,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 221670,
       "name": "Creatures in Heaven",
       "url": "https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh"
@@ -1374,7 +1392,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 215763,
       "name": "Kate Moon",
       "url": "https://open.spotify.com/track/4i8ByiUFCWkIjXfWyms3om"
@@ -1734,10 +1752,28 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 287000,
       "name": "More Than A Love Song",
       "url": "https://open.spotify.com/track/6zqD0ufqOAValqN2UmKXHN"
+    },
+    {
+      "album": {
+        "name": "MUD",
+        "url": "https://open.spotify.com/album/2n5Xis2doysiKlNtSoY6ZV"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190858,
+      "name": "MUD",
+      "url": "https://open.spotify.com/track/3WNXHyqT7xlsxZEXbi9jYg"
     },
     {
       "album": {
@@ -2361,6 +2397,24 @@
     },
     {
       "album": {
+        "name": "I Love You So F***ing Much",
+        "url": "https://open.spotify.com/album/2khBalVHDNjcOfNk1GAYUC"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255636,
+      "name": "Show Pony",
+      "url": "https://open.spotify.com/track/5bgqu4nnbgF7zfV3nbBHiK"
+    },
+    {
+      "album": {
         "name": "Showtime",
         "url": "https://open.spotify.com/album/3KuRm7unewgWVJkruzxwAA"
       },
@@ -2664,7 +2718,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 293560,
       "name": "Summerlong",
       "url": "https://open.spotify.com/track/7IUte1tdLC9W6ptSIx9lQA"
@@ -2920,6 +2974,24 @@
       "duration_ms": 220750,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy"
+    },
+    {
+      "album": {
+        "name": "Thought You Were Waving",
+        "url": "https://open.spotify.com/album/1mE2RqG2uYU5AllM8m2LMv"
+      },
+      "artists": [
+        {
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182833,
+      "name": "Thought You Were Waving",
+      "url": "https://open.spotify.com/track/6kPUaajgvBhYzPaOZvJu40"
     },
     {
       "album": {

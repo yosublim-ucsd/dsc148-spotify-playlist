@@ -411,6 +411,24 @@
     },
     {
       "album": {
+        "name": "farukerem",
+        "url": "https://open.spotify.com/album/6cTsySRC5kITqwGEFVjBup"
+      },
+      "artists": [
+        {
+          "name": "1nsta kerocqn",
+          "url": "https://open.spotify.com/artist/3OYOCYCt3IJxiMd1bluO67"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109166,
+      "name": "Amo aller Amos",
+      "url": "https://open.spotify.com/track/6Lvu1IBHdISYizQSIMhVzK"
+    },
+    {
+      "album": {
         "name": "Amo aller Amos",
         "url": "https://open.spotify.com/album/2tlaiOi78UcXOTtsD3k48j"
       },
@@ -422,7 +440,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 109081,
       "name": "Amo aller Amos",
       "url": "https://open.spotify.com/track/7eBo7oeGFWJ9GlL1Me6NuV"
@@ -958,7 +976,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -980,6 +998,28 @@
       "duration_ms": 298440,
       "name": "BITTERSUITE",
       "url": "https://open.spotify.com/track/7DpUoxGSdlDHfqCYj0otzU"
+    },
+    {
+      "album": {
+        "name": "BLACK FLAG FREESTYLE (with That Mexican OT)",
+        "url": "https://open.spotify.com/album/6LYOGfTHG8i1bmf4FoyV2P"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207315,
+      "name": "BLACK FLAG FREESTYLE (with That Mexican OT)",
+      "url": "https://open.spotify.com/track/5HwYQgUgUsHC3RqfSFMPxq"
     },
     {
       "album": {
@@ -2944,10 +2984,28 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 180922,
       "name": "Harpy Hare",
       "url": "https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT"
+    },
+    {
+      "album": {
+        "name": "Hayfields",
+        "url": "https://open.spotify.com/album/2lbpmMn8kXAMAyUFVK0oHi"
+      },
+      "artists": [
+        {
+          "name": "Yaelokre",
+          "url": "https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180922,
+      "name": "Harpy Hare",
+      "url": "https://open.spotify.com/track/6UBZABudOQOGXGObqKHhEz"
     },
     {
       "album": {
@@ -5906,7 +5964,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 159230,
       "name": "Not My Problem",
       "url": "https://open.spotify.com/track/1T6dUV1mqXyA2bSP3lK0IZ"
@@ -7560,7 +7618,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
@@ -8028,7 +8086,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 157120,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO"
@@ -9942,7 +10000,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 79452,
       "name": "X-SLIDE",
       "url": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO"
@@ -10726,7 +10784,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 229333,
       "name": "\u0416\u0430\u043b\u043a\u043e",
       "url": "https://open.spotify.com/track/5GikULGCkwN6T8l5ldDAGL"
@@ -11610,7 +11668,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 200400,
       "name": "\u0423\u0431\u0438\u0439 \u043c\u0435",
       "url": "https://open.spotify.com/track/2EQc2P44Rbxnisizg91153"

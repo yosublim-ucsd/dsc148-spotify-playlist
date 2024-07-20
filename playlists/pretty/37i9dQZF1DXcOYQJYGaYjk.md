@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 
 > For those that like it hard and heavy\. Cover: Motionless In White
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,421 likes - 70 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,413 likes - 70 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 55 | [You'll Never Find Me](https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 3:40 |
 | 56 | [The Past Is Dead](https://open.spotify.com/track/7M7AFtWYg73Kvj5cTZUjiZ) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Below](https://open.spotify.com/album/5AQKqldLehNX6p4rxFFwAz) | 3:35 |
 | 57 | [Shivering](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 |
-| 58 | [Don't Reach For Me](https://open.spotify.com/track/3pFg2UmSItBn9Zj8AmVse7) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Don't Reach For Me](https://open.spotify.com/album/3FWb6SMsjXJ1VqRamg44cO) | 3:45 |
-| 59 | [Executioner's Tax \(Swing of the Axe\)](https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Nightmare Logic](https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70) | 3:45 |
+| 58 | [Executioner's Tax \(Swing of the Axe\)](https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Nightmare Logic](https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70) | 3:45 |
+| 59 | [Don't Reach For Me](https://open.spotify.com/track/3pFg2UmSItBn9Zj8AmVse7) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Don't Reach For Me](https://open.spotify.com/album/3FWb6SMsjXJ1VqRamg44cO) | 3:45 |
 | 60 | [Body Bag](https://open.spotify.com/track/1vuhNiQZTPkmnNJ0xNsf5S) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Body Bag](https://open.spotify.com/album/7bZMcP6paQcjkuLwVkB7aN) | 3:16 |
 | 61 | [The Reckoning](https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [The Reckoning](https://open.spotify.com/album/2UAqWPHRSXHBHkCxsL3oMj) | 4:11 |
 | 62 | [It's Hell Down Here](https://open.spotify.com/track/3vxMfMNjD8k0ozmuVDu0Ai) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Not Without My Ghosts](https://open.spotify.com/album/5IBhAOIYSATI3WY7DgeSl7) | 4:00 |

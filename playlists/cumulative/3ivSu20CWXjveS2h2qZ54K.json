@@ -3149,6 +3149,24 @@
     },
     {
       "album": {
+        "name": "Cherry Blossom",
+        "url": "https://open.spotify.com/album/1bgYm1WkoUiOaqDF41fcf3"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3nsi",
+          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191474,
+      "name": "Cherry Blossom",
+      "url": "https://open.spotify.com/track/038KeNjAMACcJBQ7yadyis"
+    },
+    {
+      "album": {
         "name": "Chicago",
         "url": "https://open.spotify.com/album/520IybGxG4OXfXwmoe2L9K"
       },

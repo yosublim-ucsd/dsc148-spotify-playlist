@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A calentar garganta!",
-  "num_followers": 1193418,
+  "num_followers": 1193437,
   "original_name": "La Cantina",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-07-15 22:44:42",
       "album": {
-        "name": "Sue\u00f1o Guajiro",
-        "url": "https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr"
-      },
-      "artists": [
-        {
-          "name": "Colmillo Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
-        }
-      ],
-      "duration_ms": 183800,
-      "name": "Sue\u00f1o Guajiro",
-      "url": "https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ"
-    },
-    {
-      "added_at": "2024-07-15 22:44:42",
-      "album": {
         "name": "Por Mujeres Como T\u00fa",
         "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 231304,
       "name": "Me Hace Tanto Bien",
       "url": "https://open.spotify.com/track/0J87ieRdbGPItHA6qc3KCr"
+    },
+    {
+      "added_at": "2024-07-15 22:44:42",
+      "album": {
+        "name": "Sue\u00f1o Guajiro",
+        "url": "https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr"
+      },
+      "artists": [
+        {
+          "name": "Colmillo Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
+        }
+      ],
+      "duration_ms": 183800,
+      "name": "Sue\u00f1o Guajiro",
+      "url": "https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ"
     },
     {
       "added_at": "2024-07-15 22:44:42",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-07-15 22:44:42",
       "album": {
-        "name": "Siempre Imitado, Jamas Igualado",
-        "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 165733,
-      "name": "Voy A Llorar Por Ti",
-      "url": "https://open.spotify.com/track/20qd1CUZCdgbOYN8vDt8Se"
-    },
-    {
-      "added_at": "2024-07-15 22:44:42",
-      "album": {
         "name": "Cosas De Enamorados",
         "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 222946,
       "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS"
+    },
+    {
+      "added_at": "2024-07-15 22:44:42",
+      "album": {
+        "name": "Siempre Imitado, Jamas Igualado",
+        "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 165733,
+      "name": "Voy A Llorar Por Ti",
+      "url": "https://open.spotify.com/track/20qd1CUZCdgbOYN8vDt8Se"
     },
     {
       "added_at": "2024-07-15 22:44:42",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2024-07-15 22:44:42",
       "album": {
+        "name": "Sobran Motivos",
+        "url": "https://open.spotify.com/album/6Xz3loQRKnqGKzq43ihYDH"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        },
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "duration_ms": 185338,
+      "name": "Sobran Motivos",
+      "url": "https://open.spotify.com/track/1fyqMU7H0lnxhCjAgy7OBT"
+    },
+    {
+      "added_at": "2024-07-15 22:44:42",
+      "album": {
         "name": "Situaciones",
         "url": "https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 256170,
       "name": "Pideme - En Vivo",
       "url": "https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6"
-    },
-    {
-      "added_at": "2024-07-15 22:44:42",
-      "album": {
-        "name": "Sobran Motivos",
-        "url": "https://open.spotify.com/album/6Xz3loQRKnqGKzq43ihYDH"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Rienda Real",
-          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
-        },
-        {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
-        }
-      ],
-      "duration_ms": 185338,
-      "name": "Sobran Motivos",
-      "url": "https://open.spotify.com/track/1fyqMU7H0lnxhCjAgy7OBT"
     },
     {
       "added_at": "2024-07-15 22:44:42",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-07-15 22:44:42",
       "album": {
-        "name": "Ya Sup\u00e9rame (En Vivo)",
-        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 189050,
-      "name": "Ya Sup\u00e9rame (En Vivo)",
-      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
-    },
-    {
-      "added_at": "2024-07-15 22:44:42",
-      "album": {
         "name": "Imperfecto",
         "url": "https://open.spotify.com/album/6CT0IjzheKdquZPESJLGx8"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 239291,
       "name": "El Silencio de Tu Adios",
       "url": "https://open.spotify.com/track/5c1NFm7xGou1sDkCN32fXI"
+    },
+    {
+      "added_at": "2024-07-15 22:44:42",
+      "album": {
+        "name": "Ya Sup\u00e9rame (En Vivo)",
+        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 189050,
+      "name": "Ya Sup\u00e9rame (En Vivo)",
+      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
     },
     {
       "added_at": "2024-07-15 22:44:42",

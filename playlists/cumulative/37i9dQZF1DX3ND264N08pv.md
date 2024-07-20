@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-267 songs - 15 hr 1 min
+268 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Nobody Harder \(2019 Remaster\) \- G\-Town Madness Remix](https://open.spotify.com/track/2SbHD97inSP7eEXkJUpUCk) | [Rotterdam Terror Corps](https://open.spotify.com/artist/5vivlUC65oZCNqFxTue8rM), [G\-Town Madness](https://open.spotify.com/artist/4vxLy9lWDO7KlaKiwJ8Mjp) | [RTC is the legacy](https://open.spotify.com/album/6Vs6Cu9JpivGvsLsdkkB5b) | 6:12 | 2024-06-13 |  |
 | [Not Afraid to Fall](https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Not Afraid to Fall](https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92) | 3:05 | 2023-03-08 |  |
 | [Numb](https://open.spotify.com/track/5v5rbWpEf9toQLUmMo1JdW) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Numb](https://open.spotify.com/album/3B7aLTKz7ZNanHxu6K7cta) | 3:41 | 2023-04-28 |  |
-| [Number One Thriller](https://open.spotify.com/track/675l6GVF65IS81eznAR2po) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl), [Skorned](https://open.spotify.com/artist/02uuZ9yoP6xwYXuLLZd5Br) | [Number One Thriller](https://open.spotify.com/album/0rguy92JmcRjE98uNQ9aIn) | 3:12 | 2023-09-07 |  |
+| [Number One Thriller](https://open.spotify.com/track/675l6GVF65IS81eznAR2po) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl), [Skorned](https://open.spotify.com/artist/02uuZ9yoP6xwYXuLLZd5Br) | [Number One Thriller](https://open.spotify.com/album/0rguy92JmcRjE98uNQ9aIn) | 3:12 | 2023-09-07 | 2024-07-20 |
 | [Oasis \- The Dark Horror Remix](https://open.spotify.com/track/1EBbJK4lkT2dpsgZoaioRD) | [Mark With a K](https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ), [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [Oasis \(The Dark Horror Remix\)](https://open.spotify.com/album/37PYdrUtg45otbte44i8C1) | 3:14 | 2023-01-26 |  |
 | [Oldschool The School](https://open.spotify.com/track/3og4g4ASh85aYNRTHzX0gO) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [THE 4TH DIMENSION](https://open.spotify.com/album/3S0H9fBa0BlcZnjCQQEte8) | 3:23 | 2023-07-27 |  |
 | [Omega \- Live Edit](https://open.spotify.com/track/0zC6ICRWrAEDFbyyi0crJ4) | [Ncrypta](https://open.spotify.com/artist/598i9uHpVAukdj6QRUEaq6), [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC) | [Omega \(Live Edit\)](https://open.spotify.com/album/6TYuQciQswy9WLmtBwmBYo) | 3:31 | 2022-12-08 | 2023-06-02 |
@@ -253,6 +253,7 @@
 | [This Feeling](https://open.spotify.com/track/2H0eRy9vmts59596rouqUy) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Ricardo Moreno](https://open.spotify.com/artist/3508HjNdwnzSespkyxLOUt) | [This Feeling](https://open.spotify.com/album/6cZWKvXdA4z02iC42gBWns) | 3:08 | 2023-12-21 |  |
 | [Til The AM](https://open.spotify.com/track/2k1ryKenp09dbxj28AYhXU) | [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja), [Animal Side](https://open.spotify.com/artist/1mS2PHJJAJfrFuT0j2a531) | [Til The AM](https://open.spotify.com/album/3Qe4nXSvecCPsyGiod3wF8) | 3:08 | 2023-07-27 |  |
 | [Trip to Defqon.1](https://open.spotify.com/track/5LxvSe3BM74fL4U4FY4vNe) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [JDX](https://open.spotify.com/artist/4j1Br3T2yrQIWd7LUip8t4) | [Trip to Defqon.1](https://open.spotify.com/album/0kuWQNvOzDotGb4kKYAeGu) | 3:42 | 2024-06-27 |  |
+| [Trip To Greece](https://open.spotify.com/track/6kFAXQq2EKd8z6JUjQ72Zk) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Trip To Greece](https://open.spotify.com/album/1OpEvfFju28XMHEFvO1zWQ) | 3:06 | 2024-07-18 |  |
 | [Trip to Scotland](https://open.spotify.com/track/2HOWJ0NsgkKTnxxKK9NUIr) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv), [Piper.Ally](https://open.spotify.com/artist/7irQApL7q6iOzs8mDY3xDz) | [Trip to Scotland](https://open.spotify.com/album/6lIQTmNrXP4CzwxVhdguDB) | 2:55 | 2024-04-18 |  |
 | [Trippie naar de klote](https://open.spotify.com/track/4Tz5h4M9dEVTJPk1x2kImp) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Steen](https://open.spotify.com/artist/4sf0XtUsKwVtg6YK72Dx2C) | [Trippie naar de klote](https://open.spotify.com/album/3yey7HNNhu0asuLy02BWuh) | 3:12 | 2023-09-21 | 2024-05-17 |
 | [U Will Be Mine](https://open.spotify.com/track/7qZhWZkh309jgVao0Jo8DO) | [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O), [Radium](https://open.spotify.com/artist/5YG7cC1VX7Nh7AjUOf6PcG) | [U Will Be Mine](https://open.spotify.com/album/1Z4SqaLqiOma9BMs8M8MQo) | 3:11 | 2023-03-09 |  |

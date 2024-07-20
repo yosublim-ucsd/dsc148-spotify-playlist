@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 
 > Yerli Afro, Latin ve trap ritimleri ile yazın en hareketli hali.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,475 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,597 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 15 | [Sen Dönene Kadar](https://open.spotify.com/track/6XcQYyB6zqaQxplBPKLhi5) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Sen Dönene Kadar](https://open.spotify.com/album/4qWQUkpliWcfiiLulxM1Xx) | 3:09 |
 | 16 | [Nerdesin](https://open.spotify.com/track/3PAMPpiORJKXAIxMhfDp66) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Nerdesin](https://open.spotify.com/album/7pRjDa4x9Nzr3KGXeTSGb1) | 2:56 |
 | 17 | [Konum Gizli \(feat\. Murda\)](https://open.spotify.com/track/5h1Zdr8ghV5RaWjtdfVo8w) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Konum Gizli \(feat\. Murda\)](https://open.spotify.com/album/0BmtUyUSG5Qg1DY9Vw8hw8) | 3:18 |
-| 18 | [Krvn](https://open.spotify.com/track/4a1WLOoydq7u011UG9jjC9) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 2:51 |
-| 19 | [ıslak kum](https://open.spotify.com/track/3XeMdSHi48X0XsDHckDhIM) | [Contra](https://open.spotify.com/artist/3tJELJoPZ4VTKmL0vppqLj) | [ıslak kum](https://open.spotify.com/album/3EYBLj3sg0egpnL9Dhwmdh) | 3:06 |
+| 18 | [ıslak kum](https://open.spotify.com/track/3XeMdSHi48X0XsDHckDhIM) | [Contra](https://open.spotify.com/artist/3tJELJoPZ4VTKmL0vppqLj) | [ıslak kum](https://open.spotify.com/album/3EYBLj3sg0egpnL9Dhwmdh) | 3:06 |
+| 19 | [Krvn](https://open.spotify.com/track/4a1WLOoydq7u011UG9jjC9) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 2:51 |
 | 20 | [KONTAK \(feat\. Ezhel\)](https://open.spotify.com/track/0nHmrbUG2lvhiJ7dL4FfzU) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [KONTAK \(feat\. Ezhel\)](https://open.spotify.com/album/357L1OdvSrxQwifYcDkTDw) | 2:38 |
 | 21 | [Cuma](https://open.spotify.com/track/4v1eCQCl3d5w8a6Czv4qTv) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [HAFTASONU](https://open.spotify.com/album/2xTlPPoVRncrhgRLSc8moa) | 2:10 |
 | 22 | [EVA & MIA](https://open.spotify.com/track/2FuWptjK1pc0rkVpF5O0CG) | [GOKO!](https://open.spotify.com/artist/2XsT1ReJB0oZykMLN0bEun) | [EVA & MIA](https://open.spotify.com/album/2PAswF8uCkTTTPyThWEXRE) | 2:54 |
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 25 | [Melek](https://open.spotify.com/track/6XbuJHhqugUVdJbTdshUEL) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Melek](https://open.spotify.com/album/2ARaqMe0AxH8vfYSNMCxJF) | 2:34 |
 | 26 | [Pofuduk](https://open.spotify.com/track/7eaIFSCVBsXIwQ03aG8ClE) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Pofuduk](https://open.spotify.com/album/5eNHvrxTk4IdTgqFB1cLmu) | 2:22 |
 | 27 | [Savaştım Harbiden](https://open.spotify.com/track/082Z8aWrikvq4JA8qpgcgX) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1), [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [Savaştım Harbiden](https://open.spotify.com/album/5uLpCvsEo70kqh0fUD1u2w) | 2:31 |
-| 28 | [Favela](https://open.spotify.com/track/0OSmjU2982agUzLQ08Wqkl) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Favela](https://open.spotify.com/album/3HPYQBXJg7qGD51sBOfqRm) | 3:41 |
+| 28 | [O'NU](https://open.spotify.com/track/1RQ0NC3xcdSPP7ekw9uma4) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 3:17 |
 | 29 | [Imdat](https://open.spotify.com/track/7nJBXYIjC16eCzC4jw8Wiw) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Imdat](https://open.spotify.com/album/1ttu3fHUGU3idSzSNSGlXw) | 3:14 |
 | 30 | [Yıldızlar](https://open.spotify.com/track/2FI06fNn4wAKsHnUA7GHxF) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Summerland](https://open.spotify.com/album/7yjs2zcZUYTRTQym3gxioz) | 2:13 |
-| 31 | [O'NU](https://open.spotify.com/track/1RQ0NC3xcdSPP7ekw9uma4) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 3:17 |
+| 31 | [Favela](https://open.spotify.com/track/0OSmjU2982agUzLQ08Wqkl) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Favela](https://open.spotify.com/album/3HPYQBXJg7qGD51sBOfqRm) | 3:41 |
 | 32 | [Bul Beni](https://open.spotify.com/track/6ipyu0Am4avjFkBcFAhVAz) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Bul Beni](https://open.spotify.com/album/2M1LgLBJVDPsiYRGHwDfoQ) | 2:34 |
 | 33 | [Şampanya](https://open.spotify.com/track/3flurnTXJlSjMa9yj2uvY0) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [Şampanya](https://open.spotify.com/album/3IGHVTYbfBsCY4AjdbvvvF) | 4:13 |
 | 34 | [Sallan](https://open.spotify.com/track/6VIGABEcC3uzw0Bque9ux5) | [Xir](https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2) | [Sallan](https://open.spotify.com/album/5e2E1Cjig88oI1F68VpAeh) | 3:15 |

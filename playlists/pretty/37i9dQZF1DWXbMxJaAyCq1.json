@@ -1,6 +1,6 @@
 {
   "description": "This is the remix... esc\u00fachalos ac\u00e1. Foto: Anitta, FloyyMenor & Ozuna.",
-  "num_followers": 462699,
+  "num_followers": 462734,
   "original_name": "Remixes Urbanos",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,26 @@
     {
       "added_at": "2024-06-18 20:00:38",
       "album": {
+        "name": "La Mejor Versi\u00f3n de Mi (Remix)",
+        "url": "https://open.spotify.com/album/0OChMQnL4dpFZQH93uPb1d"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "La Mejor Versi\u00f3n de Mi - Remix",
+      "url": "https://open.spotify.com/track/2dy3TKVDEbIeWxeIb8JWqZ"
+    },
+    {
+      "added_at": "2024-06-18 20:00:38",
+      "album": {
         "name": "Coraz\u00f3n Roto (Remix)",
         "url": "https://open.spotify.com/album/6tt4TtcglWQFVSI0AGUvEF"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 275040,
       "name": "Coraz\u00f3n Roto - Remix",
       "url": "https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo"
-    },
-    {
-      "added_at": "2024-06-18 20:00:38",
-      "album": {
-        "name": "La Mejor Versi\u00f3n de Mi (Remix)",
-        "url": "https://open.spotify.com/album/0OChMQnL4dpFZQH93uPb1d"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "La Mejor Versi\u00f3n de Mi - Remix",
-      "url": "https://open.spotify.com/track/2dy3TKVDEbIeWxeIb8JWqZ"
     },
     {
       "added_at": "2024-06-18 20:00:38",
@@ -983,30 +983,6 @@
     {
       "added_at": "2024-06-18 20:00:38",
       "album": {
-        "name": "BONNIE AND CLYDE (REMIX)",
-        "url": "https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om"
-      },
-      "artists": [
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 286265,
-      "name": "BONNIE AND CLYDE - REMIX",
-      "url": "https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV"
-    },
-    {
-      "added_at": "2024-06-18 20:00:38",
-      "album": {
         "name": "Otro Trago (Remix)",
         "url": "https://open.spotify.com/album/3hiJmThCss4ugTPzvgUnT1"
       },
@@ -1035,6 +1011,30 @@
       "duration_ms": 287773,
       "name": "Otro Trago - Remix",
       "url": "https://open.spotify.com/track/4bTZeO72FwMa6wKOiqoynL"
+    },
+    {
+      "added_at": "2024-06-18 20:00:38",
+      "album": {
+        "name": "BONNIE AND CLYDE (REMIX)",
+        "url": "https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 286265,
+      "name": "BONNIE AND CLYDE - REMIX",
+      "url": "https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV"
     },
     {
       "added_at": "2024-06-18 20:00:38",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2024-06-18 20:00:38",
       "album": {
-        "name": "911 (Remix)",
-        "url": "https://open.spotify.com/album/57ppCWTeAnqooyrR4DzbwR"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 208631,
-      "name": "911 (Remix)",
-      "url": "https://open.spotify.com/track/27RSJHEA99Y0Vsow7nA37A"
-    },
-    {
-      "added_at": "2024-06-18 20:00:38",
-      "album": {
         "name": "Soltera (Remix)",
         "url": "https://open.spotify.com/album/2m9Vuc9Q19qhSm6RQmBgsR"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 413110,
       "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
       "url": "https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn"
+    },
+    {
+      "added_at": "2024-06-18 20:00:38",
+      "album": {
+        "name": "911 (Remix)",
+        "url": "https://open.spotify.com/album/57ppCWTeAnqooyrR4DzbwR"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 208631,
+      "name": "911 (Remix)",
+      "url": "https://open.spotify.com/track/27RSJHEA99Y0Vsow7nA37A"
     },
     {
       "added_at": "2024-06-18 20:00:38",
@@ -1427,38 +1427,6 @@
     {
       "added_at": "2024-06-18 20:00:38",
       "album": {
-        "name": "Relaci\u00f3n (Remix)",
-        "url": "https://open.spotify.com/album/2O985DZAb4i6M6iu4HWqSX"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 247308,
-      "name": "Relaci\u00f3n - Remix",
-      "url": "https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl"
-    },
-    {
-      "added_at": "2024-06-18 20:00:38",
-      "album": {
         "name": "No Fue (feat. Brray, Feid) [Remix]",
         "url": "https://open.spotify.com/album/41KfceWx13z7stHEFrgPxt"
       },
@@ -1491,6 +1459,26 @@
     {
       "added_at": "2024-06-18 20:00:38",
       "album": {
+        "name": "Carita de Inocente (feat. Myke Towers) [Remix]",
+        "url": "https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 192698,
+      "name": "Carita de Inocente (feat. Myke Towers) - Remix",
+      "url": "https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1"
+    },
+    {
+      "added_at": "2024-06-18 20:00:38",
+      "album": {
         "name": "Desde Mis Ojos (Remix)",
         "url": "https://open.spotify.com/album/7eJGJIPw6kPngdBin2b3iL"
       },
@@ -1515,26 +1503,6 @@
     {
       "added_at": "2024-06-18 20:00:38",
       "album": {
-        "name": "Carita de Inocente (feat. Myke Towers) [Remix]",
-        "url": "https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 192698,
-      "name": "Carita de Inocente (feat. Myke Towers) - Remix",
-      "url": "https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1"
-    },
-    {
-      "added_at": "2024-06-18 20:00:38",
-      "album": {
         "name": "Tra Tra Tra Remix",
         "url": "https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc"
       },
@@ -1555,6 +1523,38 @@
       "duration_ms": 171000,
       "name": "Tra Tra Tra Remix - Remix",
       "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
+    },
+    {
+      "added_at": "2024-06-18 20:00:38",
+      "album": {
+        "name": "Relaci\u00f3n (Remix)",
+        "url": "https://open.spotify.com/album/2O985DZAb4i6M6iu4HWqSX"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 247308,
+      "name": "Relaci\u00f3n - Remix",
+      "url": "https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl"
     },
     {
       "added_at": "2024-06-18 20:00:38",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2024-06-18 20:00:38",
       "album": {
-        "name": "Flow 2000 (Remix)",
-        "url": "https://open.spotify.com/album/0GvicNh2GpPbgmGVRDWjEU"
-      },
-      "artists": [
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        },
-        {
-          "name": "Beny Jr",
-          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
-        }
-      ],
-      "duration_ms": 168520,
-      "name": "Flow 2000 - Remix",
-      "url": "https://open.spotify.com/track/7fRtruULHGuwC0wNRx1HSa"
-    },
-    {
-      "added_at": "2024-06-18 20:00:38",
-      "album": {
         "name": "Tattoo (Remix with Camilo)",
         "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
       },
@@ -1751,6 +1731,26 @@
       "duration_ms": 222680,
       "name": "Tattoo - Remix with Camilo",
       "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
+    },
+    {
+      "added_at": "2024-06-18 20:00:38",
+      "album": {
+        "name": "Flow 2000 (Remix)",
+        "url": "https://open.spotify.com/album/0GvicNh2GpPbgmGVRDWjEU"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+        }
+      ],
+      "duration_ms": 168520,
+      "name": "Flow 2000 - Remix",
+      "url": "https://open.spotify.com/track/7fRtruULHGuwC0wNRx1HSa"
     },
     {
       "added_at": "2024-06-18 20:00:38",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 
 > Melodic house and techno to concentrate the mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,767 likes - 101 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,844 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,16 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 | 88 | [Wish You Were Mine](https://open.spotify.com/track/3nTWBIjPDUWuuAfIdgQgxi) | [Pableno](https://open.spotify.com/artist/3Yx4eLSofQtpIvtTGcM77h) | [Wish You Were Mine](https://open.spotify.com/album/5wbyzmz1QgQ2B9K5NSoaGL) | 3:09 |
 | 89 | [Lone Lee](https://open.spotify.com/track/456Hy3jnUpaJCd1pYbdqSa) | [Wesky](https://open.spotify.com/artist/2Qe7rgMOTEP0nIJdY6mqVn) | [Lone Lee](https://open.spotify.com/album/6K6Zy1aiJoQJEPKeYBaw8e) | 3:24 |
 | 90 | [Starchaser \(Einmusik Remix\)](https://open.spotify.com/track/415fFrVfqJaRB9krxxaTp5) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Starchaser \(Einmusik Remix\)](https://open.spotify.com/album/7GKNg2yY9hArnwTalusAfw) | 4:00 |
-| 91 | [Syren](https://open.spotify.com/track/3hGXZKj3lYKKRQtKE8XN55) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:17 |
-| 92 | [Rage](https://open.spotify.com/track/6Ey5lYMyrkmtOq4AynJWqq) | [widerberg](https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn) | [Rage](https://open.spotify.com/album/0UQq67DPcgjurEE1hv8BaP) | 4:21 |
-| 93 | [Under The Sun](https://open.spotify.com/track/1eKSPMRzGdglxelX3kyrqc) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Under The Sun](https://open.spotify.com/album/0nOe03llpGGQNH6Zjyj20Z) | 3:28 |
-| 94 | [Renegade \- Adam Ten & Mita Gami Remix](https://open.spotify.com/track/1DdpxHPTsrivn3X0KumOQz) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag), [Nicolas Masseyeff](https://open.spotify.com/artist/53I5TvFOdroD7UzOlZjtRv), [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Mita Gami](https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8) | [Renegade EP](https://open.spotify.com/album/6dgVJGpji0wnAeEt6xc9PA) | 5:33 |
-| 95 | [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 |
-| 96 | [FLORAL](https://open.spotify.com/track/424p6UywhA810uXc7zr6N4) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [CAY \(DE\)](https://open.spotify.com/artist/2ug2jpxDeOgYfYleeYzg2K) | [FLORAL](https://open.spotify.com/album/2ZpTiLH2CUPC9QUpwgW9DY) | 4:29 |
-| 97 | [Sumidero](https://open.spotify.com/track/1ZcT9DpO9dPmW3wov6Tlze) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Sumidero](https://open.spotify.com/album/1DElDXosVfJvgArfUOsQYQ) | 4:58 |
-| 98 | [L.I.F.E](https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [L.I.F.E](https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2) | 7:29 |
-| 99 | [Melodic Flow](https://open.spotify.com/track/6yfkhmXK9eBGGrBMR3ypzt) | [VELDA](https://open.spotify.com/artist/4qJI9uNSis7Qi4J1q1Eufn) | [Take Me Home \(Flow\)](https://open.spotify.com/album/4b2TWiGPq0iDNzYKyndF3f) | 6:11 |
-| 100 | [Zulu](https://open.spotify.com/track/7toCMhnVo1qctxl8IK8l9K) | [Thysma](https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd), [Dupleaux](https://open.spotify.com/artist/6DFdY2okBQHMutpHvNllHH) | [Zulu](https://open.spotify.com/album/5BWroPNfI4cgbVZMhOmFgw) | 3:37 |
-| 101 | [Lonely Night](https://open.spotify.com/track/7kvs3o12r8O88rJL727YWB) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Lonely Night](https://open.spotify.com/album/5SijFh7slOdvypBK269Be6) | 4:18 |
+| 91 | [Rage](https://open.spotify.com/track/6Ey5lYMyrkmtOq4AynJWqq) | [widerberg](https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn) | [Rage](https://open.spotify.com/album/0UQq67DPcgjurEE1hv8BaP) | 4:21 |
+| 92 | [Under The Sun](https://open.spotify.com/track/1eKSPMRzGdglxelX3kyrqc) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Under The Sun](https://open.spotify.com/album/0nOe03llpGGQNH6Zjyj20Z) | 3:28 |
+| 93 | [Renegade \- Adam Ten & Mita Gami Remix](https://open.spotify.com/track/1DdpxHPTsrivn3X0KumOQz) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag), [Nicolas Masseyeff](https://open.spotify.com/artist/53I5TvFOdroD7UzOlZjtRv), [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Mita Gami](https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8) | [Renegade EP](https://open.spotify.com/album/6dgVJGpji0wnAeEt6xc9PA) | 5:33 |
+| 94 | [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 |
+| 95 | [FLORAL](https://open.spotify.com/track/424p6UywhA810uXc7zr6N4) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [CAY \(DE\)](https://open.spotify.com/artist/2ug2jpxDeOgYfYleeYzg2K) | [FLORAL](https://open.spotify.com/album/2ZpTiLH2CUPC9QUpwgW9DY) | 4:29 |
+| 96 | [Sumidero](https://open.spotify.com/track/1ZcT9DpO9dPmW3wov6Tlze) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Sumidero](https://open.spotify.com/album/1DElDXosVfJvgArfUOsQYQ) | 4:58 |
+| 97 | [L.I.F.E](https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [L.I.F.E](https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2) | 7:29 |
+| 98 | [Melodic Flow](https://open.spotify.com/track/6yfkhmXK9eBGGrBMR3ypzt) | [VELDA](https://open.spotify.com/artist/4qJI9uNSis7Qi4J1q1Eufn) | [Take Me Home \(Flow\)](https://open.spotify.com/album/4b2TWiGPq0iDNzYKyndF3f) | 6:11 |
+| 99 | [Zulu](https://open.spotify.com/track/7toCMhnVo1qctxl8IK8l9K) | [Thysma](https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd), [Dupleaux](https://open.spotify.com/artist/6DFdY2okBQHMutpHvNllHH) | [Zulu](https://open.spotify.com/album/5BWroPNfI4cgbVZMhOmFgw) | 3:37 |
+| 100 | [Lonely Night](https://open.spotify.com/track/7kvs3o12r8O88rJL727YWB) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Lonely Night](https://open.spotify.com/album/5SijFh7slOdvypBK269Be6) | 4:18 |
 
-Snapshot ID: `ZpGRcgAAAACM1MoIL/s2imC0xTcMUc3o`
+Snapshot ID: `Zpq80AAAAADiE7XpdV8Mj41+F7t+31Lw`

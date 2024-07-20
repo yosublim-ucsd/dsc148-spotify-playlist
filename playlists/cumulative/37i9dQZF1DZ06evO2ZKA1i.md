@@ -2,7 +2,7 @@
 
 ### [This Is Deep Purple](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ZKA1i)
 
-> This is Deep Purple\. The essential tracks, all in one playlist.
+> This Is Deep Purple\. Los temas esenciales, todos en una lista.
 
 94 songs - 7 hr 45 min
 
@@ -22,7 +22,7 @@
 | [Bad Attitude](https://open.spotify.com/track/3wByUjupfz8iTROjmeJdt3) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The House Of Blue Light](https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC) | 4:46 | 2023-04-28 |  |
 | [Black Night \- 1995 Remaster](https://open.spotify.com/track/2c1ccPqUnFYD8W7LY65bKG) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 3:29 | 2022-09-17 |  |
 | [Bloodsucker \- 1995 Remaster](https://open.spotify.com/track/4f2Mreghv4pgUIWVDJG0X7) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 4:13 | 2022-09-17 |  |
-| [Burn \- Remastered 2004](https://open.spotify.com/track/1iW2ktyrQHNKZwFTvgP0Ta) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 6:04 | 2022-09-17 | 2024-07-19 |
+| [Burn \- Remastered 2004](https://open.spotify.com/track/1iW2ktyrQHNKZwFTvgP0Ta) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 6:04 | 2022-09-17 |  |
 | [Child in Time](https://open.spotify.com/track/21cp8L9Pei4AgysZVihjSv) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deepest Purple: The Very Best of Deep Purple](https://open.spotify.com/album/2jm9Vixt3Nn2oE4VtOVUD8) | 10:19 | 2022-12-09 | 2023-03-04 |
 | [Child in Time \- 1995 Remaster](https://open.spotify.com/track/573Z2Dty5epeNgKsgoDOlr) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 10:13 | 2022-09-17 |  |
 | [Dead Or Alive](https://open.spotify.com/track/4pv6tqh22aGX4G7sSusUkY) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The House Of Blue Light](https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC) | 4:42 | 2022-09-17 | 2022-10-07 |
@@ -76,7 +76,7 @@
 | [Portable Door](https://open.spotify.com/track/5yXGke5zIdiRd7J36un4bh) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Portable Door](https://open.spotify.com/album/5j6Kqb1gQUag2eIYbk9yIc) | 3:48 | 2024-05-03 |  |
 | [Purpendicular Waltz \- Live in 95](https://open.spotify.com/track/2fKgboilteDu7GUkX8fVKX) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Bombay Calling \(Live in 95\)](https://open.spotify.com/album/1jtvoaDptF8n966xLCqmvV) | 5:40 | 2022-09-17 | 2022-10-11 |
 | [Remission Possible](https://open.spotify.com/track/1whd4TnRGOWFwQQtD5Surp) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Whoosh!](https://open.spotify.com/album/392MAwI1VwplUzLrz8R5p2) | 1:38 | 2022-09-29 | 2022-10-08 |
-| [Rockin' Pneumonia and the Boogie Woogie Flu](https://open.spotify.com/track/3xWUepcAW78VtEDHXPtxLI) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Turning to Crime](https://open.spotify.com/album/4rsA0I5GWl2bnrQLI4ODVm) | 3:15 | 2022-09-17 |  |
+| [Rockin' Pneumonia and the Boogie Woogie Flu](https://open.spotify.com/track/3xWUepcAW78VtEDHXPtxLI) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Turning to Crime](https://open.spotify.com/album/4rsA0I5GWl2bnrQLI4ODVm) | 3:15 | 2022-09-17 | 2024-07-20 |
 | [Sail Away \- Remastered 2004](https://open.spotify.com/track/29cnidbkZ13mYcNXnpqlre) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 5:52 | 2022-10-12 |  |
 | [Simple Folk](https://open.spotify.com/track/6xDU8lJWqm2IqiPlUFmicV) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Extras: The Infinite B\-Sides and Bonus Songs](https://open.spotify.com/album/1tk2fJEkbes3rEw36iY5Cc) | 1:15 | 2022-10-12 |  |
 | [Smoke On The Water \- Remastered 2012](https://open.spotify.com/track/5MMnwYs0hIxkENRsbkWJ2G) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 5:40 | 2022-09-17 |  |

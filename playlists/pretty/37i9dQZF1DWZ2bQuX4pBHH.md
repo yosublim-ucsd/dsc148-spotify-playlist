@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 
 > Essential tracks of Shah Rukh Khan, all in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,500 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,516 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 47 | [Mehndi Laga Ke Rakhna](https://open.spotify.com/track/1bqMVta76huBpSIzTIrDM0) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Dilwale Dulhania Le Jayenge](https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B) | 4:46 |
 | 48 | [Zara Sa Jhoom Loon Main](https://open.spotify.com/track/0trgRUeHWSFHZ0W1640dwA) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Dilwale Dulhania Le Jayenge](https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B) | 5:53 |
 | 49 | [Aur Kya](https://open.spotify.com/track/3p2n1UTPBc5RdQY9X94Xpg) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Phir Bhi Dil Hai Hindustani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1s4wHsTNCTRV1gJnLelbOV) | 5:03 |
-| 50 | [Ae Ajnabi](https://open.spotify.com/track/1usJKPPaZ3J5XZFai2x98X) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH) | [Dil Se \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz) | 5:49 |
+| 50 | [Mere Mehboob Mere Sanam](https://open.spotify.com/track/77QP3sduboWcEh7aypoz66) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Duplicate](https://open.spotify.com/album/4cBp5HxpaOQ6G444YSM4Bc) | 6:59 |
 
 Snapshot ID: `Zit8dwAAAADZ1mrMz6Fh+aaZz2htJrOZ`

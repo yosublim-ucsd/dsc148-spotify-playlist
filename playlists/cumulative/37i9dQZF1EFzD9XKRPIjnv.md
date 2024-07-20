@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZGETGfppBycgid9gfvgIM">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-171 songs - 9 hr 33 min
+172 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [My Kind Of Woman](https://open.spotify.com/track/4QKEdRuZXSSOIFslnWs0Zt) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [The Playlist EP](https://open.spotify.com/album/6t9XXMUjsFc5yuzbA8JfyK) | 3:49 | 2023-03-05 |  |
 | [Need Someone](https://open.spotify.com/track/0e6HwIMqkDwr80TmH1mdt3) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/6hp2216exPe2qBLST3gpD8) | 2:57 | 2021-12-27 |  |
 | [Never Ever \(feat\. Sarah\)](https://open.spotify.com/track/0EC0IDtHw47tkwWZ5VMF8r) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [LO LA RU](https://open.spotify.com/album/7a6mqtb2gc5vM4RkfCVX7E) | 3:19 | 2021-12-27 |  |
-| [NEVER GONNA LIKE YOU](https://open.spotify.com/track/5lzp3WgXCd94gI7cQaQ9bQ) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [NEVER GONNA LIKE YOU](https://open.spotify.com/album/0TjCBvNrdzsmj7EhQsEYik) | 3:26 | 2021-12-27 |  |
+| [NEVER GONNA LIKE YOU](https://open.spotify.com/track/3XxSZNlQkwiWeiCpqxEUuW) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [NEVER GONNA LIKE YOU](https://open.spotify.com/album/4tKCfPRuOgYm9qnIrW3RcS) | 3:26 | 2024-07-19 |  |
+| [NEVER GONNA LIKE YOU](https://open.spotify.com/track/5lzp3WgXCd94gI7cQaQ9bQ) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [NEVER GONNA LIKE YOU](https://open.spotify.com/album/0TjCBvNrdzsmj7EhQsEYik) | 3:26 | 2021-12-27 | 2024-07-20 |
 | [Outta My Head \(with John Mayer\)](https://open.spotify.com/track/09oZ9eXQ2fo6YDrPzJqAoP) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 2:57 | 2021-12-27 |  |
 | [Painkiller](https://open.spotify.com/track/1YlulsUKDduOmC7WxvXYPW) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Free Time](https://open.spotify.com/album/6b5iXFsc488so2TO4kUHfr) | 3:33 | 2021-12-27 |  |
 | [Painkiller](https://open.spotify.com/track/71kjx9xRVvUla6cXNeuvtl) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Painkiller \(Official Video\)](https://open.spotify.com/album/0NCifC2QYOeEfCRr5Yt6Za) | 3:35 | 2023-12-14 | 2024-02-02 |

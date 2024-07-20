@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-568 songs - 1 day 4 hr 56 min
+570 songs - 1 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Lost In The Middle](https://open.spotify.com/track/73Ir0ULVmuRYLlg9MH4yYG) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Mara Necia](https://open.spotify.com/artist/7GmAxuHGS4ySjZecLjWgfE) | [Lost In The Middle](https://open.spotify.com/album/38GI8CmepSQ8Pfihwhk3dN) | 4:02 | 2023-05-19 | 2023-08-28 |
 | [Lost Without You](https://open.spotify.com/track/229ZrydmFXZ22CkZTJx8Wn) | [Millbrook](https://open.spotify.com/artist/5yd0a8BOCNke9EhV2ynQOm), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Lost Without You](https://open.spotify.com/album/6QTpinuLRrO0P9cV8ZJCSx) | 3:44 | 2022-03-24 | 2023-04-28 |
 | [Love U](https://open.spotify.com/track/7qKXidnk1oaOl0DKAobGib) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Keep](https://open.spotify.com/album/11gPSu8vh1e4velnMh8VOr) | 3:58 | 2024-01-16 |  |
+| [Love You \(Anyway\)](https://open.spotify.com/track/1IW2vOjLuuydvReY90arGE) | [LAADS](https://open.spotify.com/artist/4NBJ1qcdssZZRKNiVa1vKP) | [Love You \(Anyway\)](https://open.spotify.com/album/2lg5LxHMW3lRS81RFDYzNh) | 2:33 | 2024-07-19 |  |
 | [Make Me Move](https://open.spotify.com/track/5ZAUiOlYURVJEJ5ktV03v5) | [Culture Code](https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Make Me Move](https://open.spotify.com/album/1ON1B59MqwPAJXVLw3E43j) | 3:17 | 2023-08-08 | 2024-02-21 |
 | [Make Waves](https://open.spotify.com/track/3gzZPhXOL166nTTaEwqI4c) | [ReauBeau](https://open.spotify.com/artist/5fKpGPlcEvjFMDDWDKniND), [Brynja Mary](https://open.spotify.com/artist/0WuACeytMF6zC8L8prNB0y) | [Make Waves](https://open.spotify.com/album/60aJkIg8ZAtPDMBbvrqAfM) | 3:09 | 2023-02-16 | 2023-08-10 |
 | [Marcheur](https://open.spotify.com/track/1sYlEY1HlO9fywssI0siXX) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU) | [Marcheur](https://open.spotify.com/album/2tvntXVzem4r9weTdSzrcA) | 4:06 | 2023-12-13 | 2024-04-17 |
@@ -410,6 +411,7 @@
 | [Purpose](https://open.spotify.com/track/05AJ7jBUQ3fzAeyjsar1m6) | [Aeden](https://open.spotify.com/artist/2WIFU5KpTGyYWZs039dQPn), [Sketchez](https://open.spotify.com/artist/3i1DZLmhjic0xxPoAhwSY6) | [Purpose](https://open.spotify.com/album/1vPWeTqs6zGdrjHcXmER5I) | 2:23 | 2024-05-28 |  |
 | [Pushing On](https://open.spotify.com/track/2eK7XCveaHytVpdCdzVwtp) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Pushing On](https://open.spotify.com/album/1nzC7RjhJACSYcI7KCqenG) | 2:28 | 2024-05-31 |  |
 | [Radio](https://open.spotify.com/track/4mvfSVZQgpsfJpH67WWRJs) | [WBN](https://open.spotify.com/artist/3lylsmPHMyvkSFS4EQWWih), [Mojnz](https://open.spotify.com/artist/61cp16xuPyKTvJYmaAY6st) | [Radio](https://open.spotify.com/album/0f9uwxp1EHKSRyijI0dDLW) | 3:26 | 2022-09-13 | 2023-04-28 |
+| [Rally Up!](https://open.spotify.com/track/0FqOa0eycFePycgxkwBUyE) | [Grioten](https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt), [XI$OW](https://open.spotify.com/artist/7K0qGLCOb8pvUumHWsYSjF) | [Rally Up!](https://open.spotify.com/album/3gK2I4lWiSuhgH9nuhO8SW) | 1:33 | 2024-07-19 |  |
 | [Rave Teacher](https://open.spotify.com/track/6QbNswsr5y9cBIE8eKmS00) | [Kevu](https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU) | [Rave Teacher](https://open.spotify.com/album/213FdGnBTwgFAAbSroLCwD) | 2:51 | 2024-06-21 |  |
 | [Realize](https://open.spotify.com/track/1GIUBSDNFxbojhlaKFtW6p) | [ASHWOOD](https://open.spotify.com/artist/7IuzLCgXUTGA5z3h4bvvu0), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [Ghost'n'ghost](https://open.spotify.com/artist/0A06OmS7ErkKarzCDXoXTY) | [Realize EP](https://open.spotify.com/album/6nyzv7wxeMosJQzUiglK7W) | 3:00 | 2023-07-06 | 2023-08-10 |
 | [Reason](https://open.spotify.com/track/1Oq4IQYV4Yte1KdemEspf2) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c), [Remy Night](https://open.spotify.com/artist/4qusdQods4dr1nhyFKy83j) | [Reason](https://open.spotify.com/album/1Ve9M0vmXgLe4P3Ol4kaa6) | 3:00 | 2023-12-13 | 2024-05-08 |

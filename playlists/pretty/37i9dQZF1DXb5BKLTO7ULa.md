@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Frenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,886 likes - 99 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,937 likes - 99 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 32 | [100 Lives](https://open.spotify.com/track/1esueU6TI7y7bOwHhOP14K) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [100 Lives](https://open.spotify.com/album/6zOK13fGEgCUcqCwYySpHu) | 3:13 |
 | 33 | [MY STYLE](https://open.spotify.com/track/0T2MLcykLYj215hslAHtMT) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [PINK SUMMER](https://open.spotify.com/album/4j33fN2BPocBEJTsguqRPl) | 2:45 |
 | 34 | [At Your Feet](https://open.spotify.com/track/57BolP2qJD7CdKa7rZ8Uvm) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [At Your Feet](https://open.spotify.com/album/7HN3dt0fbRyXWI1wFPqv7J) | 3:25 |
-| 35 | [Omhoog](https://open.spotify.com/track/2UklSNaVRkMInzUTOEkmsM) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Omhoog \(Official Themesong OS2024\)](https://open.spotify.com/album/518wPXNPF0xHjX5TdgCQGm) | 2:48 |
+| 35 | [Omhoog](https://open.spotify.com/track/2UklSNaVRkMInzUTOEkmsM) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Omhoog](https://open.spotify.com/album/518wPXNPF0xHjX5TdgCQGm) | 2:48 |
 | 36 | [Kom Met Me Dansen](https://open.spotify.com/track/3F6BHPhUkM5jKzpzJAxw90) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Kom Met Me Dansen](https://open.spotify.com/album/6kCO8tjI1Tzs9jWH9v66e3) | 4:00 |
 | 37 | [Zomaar Zomer](https://open.spotify.com/track/6y5URC59KrtzlFxWxhaq5y) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Zomaar Zomer](https://open.spotify.com/album/07sVqmOJJWQfQHdaushDSO) | 2:18 |
 | 38 | [Yes](https://open.spotify.com/track/2RgwImATiujgRNf6Gfg3wM) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Yes](https://open.spotify.com/album/7HEtVKXQVjWgDT87yCZkrR) | 3:30 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 78 | [the warmth](https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [the warmth](https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy) | 4:30 |
 | 79 | [All In My Head](https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [All In My Head](https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX) | 3:21 |
 | 80 | [The Third Deadly Sin](https://open.spotify.com/track/7Dq4v6fVLnpgY5KIO9quPH) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH), [Scotty](https://open.spotify.com/artist/0VHNzmSRukWhcwnCNoRmdC) | [The Third Deadly Sin](https://open.spotify.com/album/2eUAcJvUFfdTQHC4RUOsFz) | 2:34 |
-| 81 | [GEMINI \(feat\. Jackie Giroux\)](https://open.spotify.com/track/5j99dfS5X643RxuJdyizt3) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Jackie Giroux](https://open.spotify.com/artist/5QX6gWlu1rdoTKPZ9FiwYh) | [1\-800 FANTASY](https://open.spotify.com/album/4Hc9kwSIRb2jgE441FOueK) | 2:37 |
+| 81 | [GEMINI](https://open.spotify.com/track/5j99dfS5X643RxuJdyizt3) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Jackie Giroux](https://open.spotify.com/artist/5QX6gWlu1rdoTKPZ9FiwYh) | [1\-800 FANTASY](https://open.spotify.com/album/4Hc9kwSIRb2jgE441FOueK) | 2:37 |
 | 82 | [Boys Like U](https://open.spotify.com/track/1tUYtX5SrRj9MJQgZ9u2W3) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Boys Like U](https://open.spotify.com/album/20Lna2QqNErPjA4lRDUGoX) | 2:35 |
 | 83 | [ICE](https://open.spotify.com/track/0zqZJ7iBj9Jpoy1pdyPnqV) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [ICE](https://open.spotify.com/album/1CfMEQLm2odm1spSvQas9W) | 3:05 |
 | 84 | [Paralyzed \(feat\. Attack Attack!\)](https://open.spotify.com/track/2og0nXCxECL4AfuYMwh2ga) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc), [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Paralyzed \(feat\. Attack Attack!\)](https://open.spotify.com/album/238QCuqkflGRVqbJJ2rL9R) | 3:32 |

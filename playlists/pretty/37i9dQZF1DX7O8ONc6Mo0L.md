@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Ton Carfi
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,789 likes - 80 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,846 likes - 80 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 68 | [Ele É Exaltado \- Acústico](https://open.spotify.com/track/7dZ19T2Sn5ZRUKeIqRakF1) | [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs), [Tavinho](https://open.spotify.com/artist/036P0vXkdyvd37jZ7FbpZW) | [Ele É Exaltado \(Acústico\)](https://open.spotify.com/album/5IDjJqDcj4Xr5r56HXBYWI) | 2:15 |
 | 69 | [Grande É o Senhor](https://open.spotify.com/track/5kRbuUv8904cbMwhGmQsE3) | [Bereia Music](https://open.spotify.com/artist/2uylz2eDUc2XW6eFWoR3N4), [Lucas Goes](https://open.spotify.com/artist/6FS6gCbdyM0guva0tNopay) | [Grande É o Senhor](https://open.spotify.com/album/3w8C9IwPG42g22aOFflszr) | 4:13 |
 | 70 | [Caim e Abel \- Acústico](https://open.spotify.com/track/76PkcV3zkKw7d2LOOwb9BC) | [Ventania](https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1), [MAYTHÊ](https://open.spotify.com/artist/6mCUkPiHI1H069swpE1OEi) | [Caim e Abel \(Acústico\)](https://open.spotify.com/album/5oCbHUIdqXs7PjJZmlowdB) | 3:38 |
-| 71 | [Minha Força](https://open.spotify.com/track/6jvr1b5DlWhl5zcxjBPVnm) | [Jay Santana](https://open.spotify.com/artist/5u3U0XJCLzRu1x7ohiO3do), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Minha Força](https://open.spotify.com/album/6dP0Tgs1NVNEAIP2a45OGB) | 4:11 |
-| 72 | [Teu Amor Por Mim](https://open.spotify.com/track/6uDKN3fyXi2zu0ZNapjtkz) | [Igor Roque](https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8) | [Teu Amor Por Mim](https://open.spotify.com/album/4NXpbo0APYOP2Q8waVCdtK) | 3:05 |
+| 71 | [Teu Amor Por Mim](https://open.spotify.com/track/6uDKN3fyXi2zu0ZNapjtkz) | [Igor Roque](https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8) | [Teu Amor Por Mim](https://open.spotify.com/album/4NXpbo0APYOP2Q8waVCdtK) | 3:05 |
+| 72 | [Minha Força](https://open.spotify.com/track/6jvr1b5DlWhl5zcxjBPVnm) | [Jay Santana](https://open.spotify.com/artist/5u3U0XJCLzRu1x7ohiO3do), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Minha Força](https://open.spotify.com/album/6dP0Tgs1NVNEAIP2a45OGB) | 4:11 |
 | 73 | [Aba \- Acústico](https://open.spotify.com/track/2tKatbCNaw5fmdCUcX0ehw) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Filhos Acústico](https://open.spotify.com/album/2rmRfedhDgarSjsUvod3QA) | 4:08 |
 | 74 | [Minha Calmaria](https://open.spotify.com/track/3DHI4jh4qmLTuorSESIEt9) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm), [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Minha Calmaria](https://open.spotify.com/album/07TYQRsbsnnCUWM6Si7Ve8) | 3:39 |
 | 75 | [Eu Me Rendo \(I Surrender\) \- Acústico](https://open.spotify.com/track/0e4Ae3r1i8FsEDxVLyP8LB) | [Ministério Mergulhar](https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf) | [Acústico Mergulhar](https://open.spotify.com/album/7koQFV6RTpkbuiSUubuxSl) | 6:14 |

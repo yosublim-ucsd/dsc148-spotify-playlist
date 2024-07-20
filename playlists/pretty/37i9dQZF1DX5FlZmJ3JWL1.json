@@ -1,6 +1,6 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 766361,
+  "num_followers": 766395,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,26 @@
     {
       "added_at": "2024-07-04 10:39:17",
       "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "duration_ms": 157444,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
+    },
+    {
+      "added_at": "2024-07-04 10:39:17",
+      "album": {
         "name": "Go Back (feat. Julia Church)",
         "url": "https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk"
       },
@@ -199,26 +219,6 @@
       "duration_ms": 220538,
       "name": "Go Back (feat. Julia Church)",
       "url": "https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh"
-    },
-    {
-      "added_at": "2024-07-04 10:39:17",
-      "album": {
-        "name": "Move Your Body",
-        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
-      },
-      "artists": [
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        }
-      ],
-      "duration_ms": 157444,
-      "name": "Move Your Body",
-      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
     },
     {
       "added_at": "2024-07-04 10:39:17",
@@ -392,8 +392,8 @@
           "url": "https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY"
         },
         {
-          "name": "Lavinia Hope",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+          "name": "Lavinia",
+          "url": "https://open.spotify.com/artist/54OJKPUbTNOAPpa3Z6hg6k"
         }
       ],
       "duration_ms": 149250,
@@ -519,6 +519,30 @@
     {
       "added_at": "2024-07-04 10:39:17",
       "album": {
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "duration_ms": 135428,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn"
+    },
+    {
+      "added_at": "2024-07-04 10:39:17",
+      "album": {
         "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
         "url": "https://open.spotify.com/album/10aoLyfcDY7b9zSRogaSLa"
       },
@@ -543,30 +567,6 @@
       "duration_ms": 147895,
       "name": "Dance For Me (1, 2, 3) - Stutter Techno",
       "url": "https://open.spotify.com/track/5Y8mnPgyb9hOJxY1M0OJdx"
-    },
-    {
-      "added_at": "2024-07-04 10:39:17",
-      "album": {
-        "name": "Eternity",
-        "url": "https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        },
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        }
-      ],
-      "duration_ms": 135428,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn"
     },
     {
       "added_at": "2024-07-04 10:39:17",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-07-04 10:39:17",
       "album": {
+        "name": "ABC",
+        "url": "https://open.spotify.com/album/1eCJRp3bemhLyeuD3hSCqK"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "duration_ms": 159562,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/1no0HVphfnHBjYNfhH3m1k"
+    },
+    {
+      "added_at": "2024-07-04 10:39:17",
+      "album": {
         "name": "Sunglasses At Night",
         "url": "https://open.spotify.com/album/4hLi7mKyVQ3tL20otPQpk1"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 170000,
       "name": "Sunglasses At Night",
       "url": "https://open.spotify.com/track/6eoY6XnhGFr3HInyECJdbx"
-    },
-    {
-      "added_at": "2024-07-04 10:39:17",
-      "album": {
-        "name": "ABC",
-        "url": "https://open.spotify.com/album/1eCJRp3bemhLyeuD3hSCqK"
-      },
-      "artists": [
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
-        }
-      ],
-      "duration_ms": 159562,
-      "name": "ABC",
-      "url": "https://open.spotify.com/track/1no0HVphfnHBjYNfhH3m1k"
     },
     {
       "added_at": "2024-07-04 10:39:17",
@@ -911,26 +911,6 @@
     {
       "added_at": "2024-07-04 10:39:17",
       "album": {
-        "name": "Eternal Rave",
-        "url": "https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv"
-      },
-      "artists": [
-        {
-          "name": "Fyex",
-          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
-        },
-        {
-          "name": "Dj Samir",
-          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
-        }
-      ],
-      "duration_ms": 121908,
-      "name": "Eternal Rave",
-      "url": "https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP"
-    },
-    {
-      "added_at": "2024-07-04 10:39:17",
-      "album": {
         "name": "I Like To Move It",
         "url": "https://open.spotify.com/album/5S4jmxHYCgA6hqaONRvzqV"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 138000,
       "name": "I Like To Move It",
       "url": "https://open.spotify.com/track/11mihFv2UTOzdDD9DrStYu"
+    },
+    {
+      "added_at": "2024-07-04 10:39:17",
+      "album": {
+        "name": "Eternal Rave",
+        "url": "https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv"
+      },
+      "artists": [
+        {
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+        },
+        {
+          "name": "Dj Samir",
+          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
+        }
+      ],
+      "duration_ms": 121908,
+      "name": "Eternal Rave",
+      "url": "https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP"
     },
     {
       "added_at": "2024-07-04 10:39:17",

@@ -526,7 +526,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 200266,
       "name": "Bubble Gum",
       "url": "https://open.spotify.com/track/19D8LNpWwIPpi6hs9BG7dq"
@@ -978,6 +978,28 @@
       "duration_ms": 164545,
       "name": "EASY",
       "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
+    },
+    {
+      "album": {
+        "name": "EEEASY",
+        "url": "https://open.spotify.com/album/5rlMaYhSPOoM0gGobykuzm"
+      },
+      "artists": [
+        {
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+        },
+        {
+          "name": "\u827e\u5fd7\u6052Asen",
+          "url": "https://open.spotify.com/artist/6r2q02rEyw3DQXDXpNFwpp"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180293,
+      "name": "EEEASY",
+      "url": "https://open.spotify.com/track/5P66jWpMGuRtTrJHz2pneh"
     },
     {
       "album": {
@@ -2110,7 +2132,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -5825,6 +5847,28 @@
     },
     {
       "album": {
+        "name": "\u6163\u8001\u95c6 (feat. \u7626\u5b50E.SO)",
+        "url": "https://open.spotify.com/album/4605CoBjrc184bE7N3kSFJ"
+      },
+      "artists": [
+        {
+          "name": "J.Sheon",
+          "url": "https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9"
+        },
+        {
+          "name": "\u7626\u5b50E.SO",
+          "url": "https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292318,
+      "name": "\u6163\u8001\u95c6 (feat. \u7626\u5b50E.SO)",
+      "url": "https://open.spotify.com/track/18TOtGEE15qjoaYvB7SB6f"
+    },
+    {
+      "album": {
         "name": "\u6211\u4e0d\u662f\u795e,\u6211\u53ea\u662f\u5e73\u51e1\u537b\u76f4\u62d7\u611b\u8457\u4f60\u7684\u4eba",
         "url": "https://open.spotify.com/album/7BMCjQbDoNCetLD5sZnKFL"
       },
@@ -6485,6 +6529,24 @@
     },
     {
       "album": {
+        "name": "Begin",
+        "url": "https://open.spotify.com/album/2nXygKVkTEGHeCtdEHCsdp"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Wang",
+          "url": "https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203200,
+      "name": "\u7576\u4f60",
+      "url": "https://open.spotify.com/track/4xNDbq22jC2Vdf6QV2uArL"
+    },
+    {
+      "album": {
         "name": "\u74e6\u5408",
         "url": "https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8"
       },
@@ -6908,7 +6970,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 252000,
       "name": "\u9019\u9ebc\u591a\u5e74 - \u96fb\u5f71\u300a\u6211\u60f3\u548c\u4f60\u5728\u4e00\u8d77\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/5NykvdFrH8mejmohWZvIWo"

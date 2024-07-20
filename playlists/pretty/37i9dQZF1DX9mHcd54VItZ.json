@@ -1,6 +1,6 @@
 {
   "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs?si=ZMYXmHpdSGeH9FknanH8Tw\">Jo Black</a>",
-  "num_followers": 19037,
+  "num_followers": 19065,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,18 @@
     {
       "added_at": "2024-02-29 22:00:00",
       "album": {
-        "name": "The Art Of Letting Go",
-        "url": "https://open.spotify.com/album/6U1qBWVsKKmUXnX69Ji96X"
+        "name": "Another Universe",
+        "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
       },
       "artists": [
         {
-          "name": "Neon Dreams",
-          "url": "https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT"
-        },
-        {
-          "name": "Matthew Mole",
-          "url": "https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86"
+          "name": "Arno Carstens",
+          "url": "https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE"
         }
       ],
-      "duration_ms": 188495,
-      "name": "The Art Of Letting Go",
-      "url": "https://open.spotify.com/track/0u0zYnOEX9pZjASBBg9kne"
+      "duration_ms": 214960,
+      "name": "Another Universe",
+      "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
     },
     {
       "added_at": "2024-02-29 22:00:00",
@@ -179,18 +175,22 @@
     {
       "added_at": "2024-02-29 22:00:00",
       "album": {
-        "name": "Another Universe",
-        "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
+        "name": "The Art Of Letting Go",
+        "url": "https://open.spotify.com/album/6U1qBWVsKKmUXnX69Ji96X"
       },
       "artists": [
         {
-          "name": "Arno Carstens",
-          "url": "https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE"
+          "name": "Neon Dreams",
+          "url": "https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT"
+        },
+        {
+          "name": "Matthew Mole",
+          "url": "https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86"
         }
       ],
-      "duration_ms": 214960,
-      "name": "Another Universe",
-      "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
+      "duration_ms": 188495,
+      "name": "The Art Of Letting Go",
+      "url": "https://open.spotify.com/track/0u0zYnOEX9pZjASBBg9kne"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-02-29 22:00:00",
       "album": {
-        "name": "Revolusie, Romantiek, Ruk en Rol",
-        "url": "https://open.spotify.com/album/528vOlag3lv4aOPia804bY"
-      },
-      "artists": [
-        {
-          "name": "Glaskas",
-          "url": "https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Die Liedjie Oor Die Meisie (Ek Wil Jou H\u00ea)",
-      "url": "https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2"
-    },
-    {
-      "added_at": "2024-02-29 22:00:00",
-      "album": {
         "name": "Bloeisels",
         "url": "https://open.spotify.com/album/21Wolo015jpmELBve2nf8E"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 202250,
       "name": "Kan Ek Met Jou Dans",
       "url": "https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx"
+    },
+    {
+      "added_at": "2024-02-29 22:00:00",
+      "album": {
+        "name": "Revolusie, Romantiek, Ruk en Rol",
+        "url": "https://open.spotify.com/album/528vOlag3lv4aOPia804bY"
+      },
+      "artists": [
+        {
+          "name": "Glaskas",
+          "url": "https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Die Liedjie Oor Die Meisie (Ek Wil Jou H\u00ea)",
+      "url": "https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2"
     },
     {
       "added_at": "2024-02-29 22:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-02-29 22:00:00",
       "album": {
-        "name": "Die Tuindwergies",
-        "url": "https://open.spotify.com/album/4Yxsbbl1KwF9w2gMAEBGNl"
-      },
-      "artists": [
-        {
-          "name": "Die Tuindwergies",
-          "url": "https://open.spotify.com/artist/54j7TkvX3vgbCUPeH8F8zN"
-        }
-      ],
-      "duration_ms": 261893,
-      "name": "Kopskudkinders",
-      "url": "https://open.spotify.com/track/4TFUAomrnQaSBKHz4TRUpa"
-    },
-    {
-      "added_at": "2024-02-29 22:00:00",
-      "album": {
         "name": "Wie's Bang",
         "url": "https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2"
       },
@@ -451,18 +435,18 @@
     {
       "added_at": "2024-02-29 22:00:00",
       "album": {
-        "name": "Ultimate Zoid",
-        "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
+        "name": "Die Tuindwergies",
+        "url": "https://open.spotify.com/album/4Yxsbbl1KwF9w2gMAEBGNl"
       },
       "artists": [
         {
-          "name": "Karen Zoid",
-          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
+          "name": "Die Tuindwergies",
+          "url": "https://open.spotify.com/artist/54j7TkvX3vgbCUPeH8F8zN"
         }
       ],
-      "duration_ms": 224626,
-      "name": "Afrikaners Is Plesierig",
-      "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
+      "duration_ms": 261893,
+      "name": "Kopskudkinders",
+      "url": "https://open.spotify.com/track/4TFUAomrnQaSBKHz4TRUpa"
     },
     {
       "added_at": "2024-02-29 22:00:00",
@@ -481,20 +465,20 @@
       "url": "https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX"
     },
     {
-      "added_at": "2024-03-22 05:37:15",
+      "added_at": "2024-02-29 22:00:00",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/4tpduvbK0nh1H65MoZIrDt"
+        "name": "Ultimate Zoid",
+        "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
       },
       "artists": [
         {
-          "name": "Prime Circle",
-          "url": "https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB"
+          "name": "Karen Zoid",
+          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
         }
       ],
-      "duration_ms": 208500,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/3GOakZnkk9N8WoC520MInS"
+      "duration_ms": 224626,
+      "name": "Afrikaners Is Plesierig",
+      "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -513,20 +497,20 @@
       "url": "https://open.spotify.com/track/1mBEtvBdWd7i4X3TxGJ0Ud"
     },
     {
-      "added_at": "2024-05-31 03:41:53",
+      "added_at": "2024-03-22 05:37:15",
       "album": {
-        "name": "Voel Jy Dit?",
-        "url": "https://open.spotify.com/album/0woO4IsAbmDoxLE2INCuE7"
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/4tpduvbK0nh1H65MoZIrDt"
       },
       "artists": [
         {
-          "name": "Vancoet",
-          "url": "https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG"
+          "name": "Prime Circle",
+          "url": "https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB"
         }
       ],
-      "duration_ms": 171823,
-      "name": "Voel Jy Dit?",
-      "url": "https://open.spotify.com/track/6PHxsiho5eloCFvuYseB7Y"
+      "duration_ms": 208500,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/3GOakZnkk9N8WoC520MInS"
     },
     {
       "added_at": "2024-02-29 22:00:00",
@@ -543,6 +527,22 @@
       "duration_ms": 212853,
       "name": "Ten Seconds",
       "url": "https://open.spotify.com/track/7D9KPaGWVYgKVICbKaBsoi"
+    },
+    {
+      "added_at": "2024-05-31 03:41:53",
+      "album": {
+        "name": "Voel Jy Dit?",
+        "url": "https://open.spotify.com/album/0woO4IsAbmDoxLE2INCuE7"
+      },
+      "artists": [
+        {
+          "name": "Vancoet",
+          "url": "https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG"
+        }
+      ],
+      "duration_ms": 171823,
+      "name": "Voel Jy Dit?",
+      "url": "https://open.spotify.com/track/6PHxsiho5eloCFvuYseB7Y"
     },
     {
       "added_at": "2024-02-29 22:00:00",
@@ -593,6 +593,22 @@
       "url": "https://open.spotify.com/track/7khXO8XOnhXVgoTVftybJf"
     },
     {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Forgotten Songs: E.P. 1 - Early Recordings!",
+        "url": "https://open.spotify.com/album/1SMJDgWii8jnUoT8XXlLlE"
+      },
+      "artists": [
+        {
+          "name": "The Parlotones",
+          "url": "https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs"
+        }
+      ],
+      "duration_ms": 218305,
+      "name": "Stare at the Sun",
+      "url": "https://open.spotify.com/track/3x00SKQnXHNLQyJhwEJU5J"
+    },
+    {
       "added_at": "2024-07-04 22:00:00",
       "album": {
         "name": "Battering Lamb",
@@ -641,22 +657,6 @@
       "url": "https://open.spotify.com/track/6RQ8lFoVNN5WcRR9cFlThW"
     },
     {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Forgotten Songs: E.P. 1 - Early Recordings!",
-        "url": "https://open.spotify.com/album/1SMJDgWii8jnUoT8XXlLlE"
-      },
-      "artists": [
-        {
-          "name": "The Parlotones",
-          "url": "https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs"
-        }
-      ],
-      "duration_ms": 218305,
-      "name": "Stare at the Sun",
-      "url": "https://open.spotify.com/track/3x00SKQnXHNLQyJhwEJU5J"
-    },
-    {
       "added_at": "2024-02-29 22:00:00",
       "album": {
         "name": "Long Live Tonight",
@@ -671,6 +671,22 @@
       "duration_ms": 244333,
       "name": "Twisted",
       "url": "https://open.spotify.com/track/0PZGBkKhUJfPt6kUYE9SPd"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Joune",
+        "url": "https://open.spotify.com/album/2hHsf0beuDNK9JoZGsl1db"
+      },
+      "artists": [
+        {
+          "name": "Cara Rossouw",
+          "url": "https://open.spotify.com/artist/2DkwTvjU1NX1U1x4c45MZa"
+        }
+      ],
+      "duration_ms": 174701,
+      "name": "Joune",
+      "url": "https://open.spotify.com/track/7qNqeM10lo4m1FvsWD2vO7"
     },
     {
       "added_at": "2024-02-29 22:00:00",
@@ -703,38 +719,6 @@
       "duration_ms": 213973,
       "name": "Nagblind",
       "url": "https://open.spotify.com/track/2Kf0YUHmw60NJEvzJEIeum"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Joune",
-        "url": "https://open.spotify.com/album/2hHsf0beuDNK9JoZGsl1db"
-      },
-      "artists": [
-        {
-          "name": "Cara Rossouw",
-          "url": "https://open.spotify.com/artist/2DkwTvjU1NX1U1x4c45MZa"
-        }
-      ],
-      "duration_ms": 174701,
-      "name": "Joune",
-      "url": "https://open.spotify.com/track/7qNqeM10lo4m1FvsWD2vO7"
-    },
-    {
-      "added_at": "2024-02-29 22:00:00",
-      "album": {
-        "name": "Heelal",
-        "url": "https://open.spotify.com/album/0MRr2149VZFyYQ5Yn0tgCw"
-      },
-      "artists": [
-        {
-          "name": "Ryno Velvet",
-          "url": "https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt"
-        }
-      ],
-      "duration_ms": 247146,
-      "name": "Katedraal",
-      "url": "https://open.spotify.com/track/0mJcJqP8GWSLCV2TMbnlIY"
     },
     {
       "added_at": "2024-02-29 22:00:00",
@@ -785,6 +769,22 @@
       "url": "https://open.spotify.com/track/3kUB0uomWGCHUtGDi7TEzp"
     },
     {
+      "added_at": "2024-02-29 22:00:00",
+      "album": {
+        "name": "Net Om Die Geraas In Te Asem",
+        "url": "https://open.spotify.com/album/24XNRA90YKU8MOiI1Yaz65"
+      },
+      "artists": [
+        {
+          "name": "\u00e9F-\u00e9L",
+          "url": "https://open.spotify.com/artist/0I1HsrpXxDkMUiOYp3Mmka"
+        }
+      ],
+      "duration_ms": 141186,
+      "name": "Sindikaat",
+      "url": "https://open.spotify.com/track/0qkIdbHq4RHlUuVkj6eRcs"
+    },
+    {
       "added_at": "2024-07-04 22:00:00",
       "album": {
         "name": "Nikotien",
@@ -803,18 +803,18 @@
     {
       "added_at": "2024-02-29 22:00:00",
       "album": {
-        "name": "Net Om Die Geraas In Te Asem",
-        "url": "https://open.spotify.com/album/24XNRA90YKU8MOiI1Yaz65"
+        "name": "Heelal",
+        "url": "https://open.spotify.com/album/0MRr2149VZFyYQ5Yn0tgCw"
       },
       "artists": [
         {
-          "name": "\u00e9F-\u00e9L",
-          "url": "https://open.spotify.com/artist/0I1HsrpXxDkMUiOYp3Mmka"
+          "name": "Ryno Velvet",
+          "url": "https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt"
         }
       ],
-      "duration_ms": 141186,
-      "name": "Sindikaat",
-      "url": "https://open.spotify.com/track/0qkIdbHq4RHlUuVkj6eRcs"
+      "duration_ms": 247146,
+      "name": "Katedraal",
+      "url": "https://open.spotify.com/track/0mJcJqP8GWSLCV2TMbnlIY"
     }
   ],
   "unique_name": "SA Rock ",

@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT?si=1vkq9fm2QqeGgGf37IYn1w>Limoblaze</a>
 
-3,067 songs - 9 day 5 hr 17 min
+3,068 songs - 9 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1072,6 +1072,7 @@
 | [Heaven's Gate](https://open.spotify.com/track/5DPDipJ1pzsQaU6R9e0YK3) | [Godfrey Gad](https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh) | [Heaven's Gate](https://open.spotify.com/album/0hXLa1MrrWX1uF6p7W63e9) | 3:09 | 2024-03-29 | 2024-04-12 |
 | [HEAVENLY FATHER](https://open.spotify.com/track/0QamwEuXeG6NUtwn2Oehxx) | [Dan Shaw](https://open.spotify.com/artist/06OQzkbFY8XHvXYcrcLFkV) | [HEAVENLY FATHER](https://open.spotify.com/album/5jmupLKzbqcaZsXW72LnFR) | 2:52 | 2024-03-01 | 2024-03-08 |
 | [Heavenly Father](https://open.spotify.com/track/3w6Bp44WQ05eY4nTHvpNAG) | [JUELS✨](https://open.spotify.com/artist/0KBJ3wdRmwXEOJXmvpFjtN) | [Heavenly Father](https://open.spotify.com/album/3gfqZC8zBCS5m5Y9IolaEJ) | 3:34 | 2023-11-03 | 2023-11-17 |
+| [Heilig Is U Heer](https://open.spotify.com/track/4QWfFIVnuHQoDyzPe8TImt) | [EKC Worship](https://open.spotify.com/artist/3A6LDU0SrL6MzYbI7lYOx9) | [Heilig Is U Heer](https://open.spotify.com/album/693LL64XfvjIC0oawNLWGu) | 8:31 | 2024-07-19 |  |
 | [Heir \(Of the Father\)](https://open.spotify.com/track/2waBvlTSacH8xB4hoogyJu) | [Mixta Courage](https://open.spotify.com/artist/6UcNT94TAOJBHMpwndTTw8) | [Heir \(Of the Father\)](https://open.spotify.com/album/3VOhKDuZ17erjNw3ai3NZM) | 3:53 | 2023-10-13 | 2023-10-27 |
 | [Hekima Yako](https://open.spotify.com/track/5hgE39Qp8NZ4AH6OPwvj4O) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Hekima Yako](https://open.spotify.com/album/1XJi0mvsuEwpELBDRoIj6Q) | 4:20 | 2024-06-21 | 2024-07-12 |
 | [Helele](https://open.spotify.com/track/4gaDm53aYsOpsQaA8eXlLB) | [Chisim](https://open.spotify.com/artist/0ZXxpFOyjQPBEDYj6BXPfL) | [God's Project](https://open.spotify.com/album/2uzPvBubddmM8FgyCpSIm2) | 3:05 | 2023-11-03 | 2023-11-17 |

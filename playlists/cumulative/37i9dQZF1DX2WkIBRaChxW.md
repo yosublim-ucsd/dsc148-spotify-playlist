@@ -4,7 +4,7 @@
 
 > What's happening in r&b, right now – featuring Blxst.
 
-850 songs - 1 day 22 hr 9 min
+851 songs - 1 day 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,6 +483,7 @@
 | [Most Men \- A COLORS SHOW](https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Most Men \- A COLORS SHOW](https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi) | 4:13 | 2022-01-07 | 2022-01-22 |
 | [Motorcycle](https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Motorcycle](https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g) | 2:46 | 2024-06-14 | 2024-07-19 |
 | [My Little Love](https://open.spotify.com/track/2DuPBbS5mIldXnh7Wum8Cy) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:29 | 2021-12-31 | 2022-02-19 |
+| [My Man](https://open.spotify.com/track/4tK0GeX97WbX4jgf1EIGOL) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [My Man](https://open.spotify.com/album/6WVs3cfYvBdZVRYqZjfNmg) | 2:07 | 2024-07-19 |  |
 | [My Mind](https://open.spotify.com/track/3J0myWc0Pp8WPbn69l42dk) | [Ivory Scott](https://open.spotify.com/artist/3fpp6yYqQevscivKbtpgPF), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [My Mind](https://open.spotify.com/album/7sMsVy6xRIRCOOX2QAXiVk) | 2:37 | 2023-09-29 | 2023-11-11 |
 | [My Phone Can Die](https://open.spotify.com/track/4RYsLFK1VLPtrwipmcAWoo) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [My Phone Can Die](https://open.spotify.com/album/6KvYRCl4xHiFbTDb3ql8Aa) | 2:59 | 2023-05-19 | 2023-05-27 |
 | [N o C h i l l](https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 4:25 | 2024-05-31 |  |
@@ -733,7 +734,7 @@
 | [THE GLADE](https://open.spotify.com/track/4tEeJe0AS4TbihaokDG6hG) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [THE GLADE](https://open.spotify.com/album/4S7Tec2MGsAVBRvJGDLJQa) | 3:42 | 2023-06-23 | 2023-08-26 |
 | [The Journey](https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Journey](https://open.spotify.com/album/2CspZ8WA96Ox4riutFwzPd) | 4:22 | 2023-05-19 | 2023-08-05 |
 | [The Words](https://open.spotify.com/track/5HMl6aG4uTWFo8TZvJ7pfn) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:53 | 2022-12-30 | 2023-09-23 |
-| [Think Different](https://open.spotify.com/track/677qOFSBpe68eqAbKu9ggT) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Algorithm](https://open.spotify.com/album/4L587s3QXoaroQTIdDWBiW) | 4:07 | 2024-06-28 |  |
+| [Think Different](https://open.spotify.com/track/677qOFSBpe68eqAbKu9ggT) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Algorithm](https://open.spotify.com/album/4L587s3QXoaroQTIdDWBiW) | 4:07 | 2024-06-28 | 2024-07-20 |
 | [Thinkin ft\. Destin Conrad](https://open.spotify.com/track/7wYlWR1wYGY6Yllrvrb1VA) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [nowhere, fast](https://open.spotify.com/album/1oEDfMIpHpl9pVZsqhFo2L) | 3:29 | 2024-04-12 | 2024-04-27 |
 | [This Is](https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD) | 3:26 | 2023-02-03 | 2024-04-13 |
 | [THIS YEAR \(Blessings\) \- Remix](https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \[Remix\]](https://open.spotify.com/album/4TZI8LgMjrmTlOhy7nFa2U) | 2:40 | 2023-10-20 | 2024-04-13 |

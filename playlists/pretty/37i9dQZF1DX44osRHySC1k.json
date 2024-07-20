@@ -1,6 +1,6 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 52384,
+  "num_followers": 52383,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Deep Theta : High Coherence Soundscapes for Meditation and Healing",
-        "url": "https://open.spotify.com/album/0YHfbeTtt3LAaOgsbd3h6z"
-      },
-      "artists": [
-        {
-          "name": "Steven Halpern",
-          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
-        }
-      ],
-      "duration_ms": 319493,
-      "name": "Deep Theta 4 Hz",
-      "url": "https://open.spotify.com/track/1bdhhKZAxmdqAOt18QFXNc"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "A Clear Mind",
         "url": "https://open.spotify.com/album/6HTDJSCj481qL4ruvh68IQ"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 173696,
       "name": "A Clear Mind",
       "url": "https://open.spotify.com/track/2pypBNUUzViaP7Dswi9zpF"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Deep Theta : High Coherence Soundscapes for Meditation and Healing",
+        "url": "https://open.spotify.com/album/0YHfbeTtt3LAaOgsbd3h6z"
+      },
+      "artists": [
+        {
+          "name": "Steven Halpern",
+          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
+        }
+      ],
+      "duration_ms": 319493,
+      "name": "Deep Theta 4 Hz",
+      "url": "https://open.spotify.com/track/1bdhhKZAxmdqAOt18QFXNc"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -387,6 +387,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Sea Of Tranquility",
+        "url": "https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3"
+      },
+      "artists": [
+        {
+          "name": "Julius Aston",
+          "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
+        }
+      ],
+      "duration_ms": 175318,
+      "name": "Sea Of Tranquility",
+      "url": "https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "This night",
         "url": "https://open.spotify.com/album/4wEvwj51552ftkdHoXQm1G"
       },
@@ -419,22 +435,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "You'll Be In My Heart",
-        "url": "https://open.spotify.com/album/6ryxDYCLluZ4E9s8xlQGNU"
-      },
-      "artists": [
-        {
-          "name": "Daavid Laaksonen",
-          "url": "https://open.spotify.com/artist/4EOykGH38DFfCDrP5xkFhK"
-        }
-      ],
-      "duration_ms": 272874,
-      "name": "You'll Be In My Heart",
-      "url": "https://open.spotify.com/track/48TkJSl7gj38DZ8AMoI9Fs"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Close your eyes",
         "url": "https://open.spotify.com/album/7n60AHGWLfjBq8eEdTbja0"
       },
@@ -451,18 +451,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Sea Of Tranquility",
-        "url": "https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3"
+        "name": "You'll Be In My Heart",
+        "url": "https://open.spotify.com/album/6ryxDYCLluZ4E9s8xlQGNU"
       },
       "artists": [
         {
-          "name": "Julius Aston",
-          "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
+          "name": "Daavid Laaksonen",
+          "url": "https://open.spotify.com/artist/4EOykGH38DFfCDrP5xkFhK"
         }
       ],
-      "duration_ms": 175318,
-      "name": "Sea Of Tranquility",
-      "url": "https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z"
+      "duration_ms": 272874,
+      "name": "You'll Be In My Heart",
+      "url": "https://open.spotify.com/track/48TkJSl7gj38DZ8AMoI9Fs"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -699,18 +699,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Wave After Wave EP",
-        "url": "https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2"
+        "name": "Dream Dependence",
+        "url": "https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd"
       },
       "artists": [
         {
-          "name": "The Only Star In The Sky",
-          "url": "https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz"
+          "name": "Viclo",
+          "url": "https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97"
         }
       ],
-      "duration_ms": 186461,
-      "name": "Quiet Nights",
-      "url": "https://open.spotify.com/track/0Xn2rEgAEJ82XKXLttBNEv"
+      "duration_ms": 155459,
+      "name": "Dream dependence",
+      "url": "https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -731,18 +731,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Dream Dependence",
-        "url": "https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd"
+        "name": "Wave After Wave EP",
+        "url": "https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2"
       },
       "artists": [
         {
-          "name": "Viclo",
-          "url": "https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97"
+          "name": "The Only Star In The Sky",
+          "url": "https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz"
         }
       ],
-      "duration_ms": 155459,
-      "name": "Dream dependence",
-      "url": "https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7"
+      "duration_ms": 186461,
+      "name": "Quiet Nights",
+      "url": "https://open.spotify.com/track/0Xn2rEgAEJ82XKXLttBNEv"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD"
         }
       ],
-      "duration_ms": 258973,
-      "name": "Priya (Beloved)",
-      "url": "https://open.spotify.com/track/6aAtpmg6C6lriexmsT35R7"
+      "duration_ms": 325400,
+      "name": "The Breath Inside the Breath",
+      "url": "https://open.spotify.com/track/6vPs7iR2jKq7KPGKBNuCRH"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1036,25 +1036,9 @@
           "url": "https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD"
         }
       ],
-      "duration_ms": 325400,
-      "name": "The Breath Inside the Breath",
-      "url": "https://open.spotify.com/track/6vPs7iR2jKq7KPGKBNuCRH"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Linger",
-        "url": "https://open.spotify.com/album/67x2G6YcVVzuPCNR0kGBkI"
-      },
-      "artists": [
-        {
-          "name": "Alexander Molina",
-          "url": "https://open.spotify.com/artist/3zHtPCK9MEwzFqwuJwuYkW"
-        }
-      ],
-      "duration_ms": 163012,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0LRcLz3D9bHLPPVegJoFZL"
+      "duration_ms": 258973,
+      "name": "Priya (Beloved)",
+      "url": "https://open.spotify.com/track/6aAtpmg6C6lriexmsT35R7"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1071,6 +1055,22 @@
       "duration_ms": 126049,
       "name": "In my quiet hour",
       "url": "https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Linger",
+        "url": "https://open.spotify.com/album/67x2G6YcVVzuPCNR0kGBkI"
+      },
+      "artists": [
+        {
+          "name": "Alexander Molina",
+          "url": "https://open.spotify.com/artist/3zHtPCK9MEwzFqwuJwuYkW"
+        }
+      ],
+      "duration_ms": 163012,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0LRcLz3D9bHLPPVegJoFZL"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "A Missing Piece",
-        "url": "https://open.spotify.com/album/5N4as2iSANQpt1HIUa0wYv"
-      },
-      "artists": [
-        {
-          "name": "Vincent Sparro",
-          "url": "https://open.spotify.com/artist/1fkVeQuRUagDehsQrRfh99"
-        }
-      ],
-      "duration_ms": 125656,
-      "name": "A Missing Piece",
-      "url": "https://open.spotify.com/track/4fr2dY1gNyl1J8nz5GUWTs"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Eternal Thoughts",
         "url": "https://open.spotify.com/album/3GG1avkDFt0F0Hub7GV3HP"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 241438,
       "name": "Eternal Thoughts",
       "url": "https://open.spotify.com/track/6b0o30D3HsAsyk0RCocgJ1"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "A Missing Piece",
+        "url": "https://open.spotify.com/album/5N4as2iSANQpt1HIUa0wYv"
+      },
+      "artists": [
+        {
+          "name": "Vincent Sparro",
+          "url": "https://open.spotify.com/artist/1fkVeQuRUagDehsQrRfh99"
+        }
+      ],
+      "duration_ms": 125656,
+      "name": "A Missing Piece",
+      "url": "https://open.spotify.com/track/4fr2dY1gNyl1J8nz5GUWTs"
     },
     {
       "added_at": "2021-06-24 10:58:44",

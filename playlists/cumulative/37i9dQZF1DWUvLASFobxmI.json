@@ -379,6 +379,24 @@
     },
     {
       "album": {
+        "name": "Al Estilo Sinaloa",
+        "url": "https://open.spotify.com/album/5O6GwylAGtBttif1ldnkyn"
+      },
+      "artists": [
+        {
+          "name": "Voz De Mando",
+          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Al Estilo Sinaloa",
+      "url": "https://open.spotify.com/track/4Exd0ydPHvgZacgbmTjTWI"
+    },
+    {
+      "album": {
         "name": "Al Modo Culiac\u00e1n",
         "url": "https://open.spotify.com/album/6Y3QJ12QIF9hD9jyIZq7gk"
       },
@@ -5072,7 +5090,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 246251,
       "name": "La Loca (En Vivo)",
       "url": "https://open.spotify.com/track/358qSGpL4SSy7tRoj6gsmS"

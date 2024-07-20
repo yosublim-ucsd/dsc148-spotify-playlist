@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Chike, SPINALL, Blaqbonez, Childish Gambino and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,668 likes - 49 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,839 likes - 49 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [One Call](https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [One Call](https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a) | 2:38 |
 | 2 | [Your Loss](https://open.spotify.com/track/0ohCXfOYVw5om6ZK26LGXd) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Son of Chike](https://open.spotify.com/album/7H6k4Pga6vIsaLM10sQf6W) | 2:47 |
-| 3 | [Wahala](https://open.spotify.com/track/0V4ie5PXFiWXEd2XldImGr) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Adekunle Gold](https://open.spotify.com/artist/01w3jMWzWYm2INkQDkr2QW), [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Alusa Why Are You Topless? \(Deluxe\)](https://open.spotify.com/album/6piDT78sQ40k6xC5r9A8st) | 3:27 |
+| 3 | [Wahala](https://open.spotify.com/track/0V4ie5PXFiWXEd2XldImGr) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Alusa Why Are You Topless? \(Deluxe\)](https://open.spotify.com/album/6piDT78sQ40k6xC5r9A8st) | 3:27 |
 | 4 | [Formula](https://open.spotify.com/track/4LBLe7bFvaXy2JCEDqrcnC) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Formula](https://open.spotify.com/album/4fdqH5RYucjH0vlQkiINeQ) | 2:42 |
 | 5 | [Boys Like U](https://open.spotify.com/track/1tUYtX5SrRj9MJQgZ9u2W3) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Boys Like U](https://open.spotify.com/album/20Lna2QqNErPjA4lRDUGoX) | 2:35 |
 | 6 | [Fire on Me](https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Fire on Me](https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT) | 2:14 |

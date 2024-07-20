@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-469 songs - 1 day 18 hr 53 min
+470 songs - 1 day 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Canopy & Stars](https://open.spotify.com/track/7umqx02CQsnSjzmoGlwv1l) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Canopy & Stars](https://open.spotify.com/album/0zCJbbeQAiBakodQ7rNwT6) | 7:51 | 2020-12-04 | 2022-07-29 |
 | [Captain’s Song](https://open.spotify.com/track/3djYspll15Mm2azjKSV55Y) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Captain's Song](https://open.spotify.com/album/4lBMwEwdX3BnjM74nbyRme) | 5:22 | 2020-05-22 | 2022-07-29 |
 | [Captain’s Song](https://open.spotify.com/track/3mIn6SuoJeZE3DlPvPGOYj) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Iron Starlet](https://open.spotify.com/album/3J6gELskRha5aqLGVWGmQN) | 5:22 | 2022-07-21 | 2024-04-19 |
-| [Chelsea Bridge](https://open.spotify.com/track/4Hy5FWDo8kKW3iPga7YmrF) | [Juho Valjakka](https://open.spotify.com/artist/0aKY7KV2w80cRCZfEwwipw) | [Liminal Spaces](https://open.spotify.com/album/2gqbWgPLtXP5tWusQTcI67) | 4:38 | 2023-08-03 |  |
+| [Chelsea Bridge](https://open.spotify.com/track/4Hy5FWDo8kKW3iPga7YmrF) | [Juho Valjakka](https://open.spotify.com/artist/0aKY7KV2w80cRCZfEwwipw) | [Liminal Spaces](https://open.spotify.com/album/2gqbWgPLtXP5tWusQTcI67) | 4:38 | 2023-08-03 | 2024-07-20 |
 | [Children](https://open.spotify.com/track/2zd2XhHfRH0pOyMw1sK0jo) | [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ) | [Ravensburg](https://open.spotify.com/album/2w62NpE5U58lff2IoUiUWR) | 5:42 | 2020-05-03 | 2022-04-19 |
 | [Clara](https://open.spotify.com/track/2PEAh0Yz9I72m1Lz2Z7uFj) | [Frank Woeste](https://open.spotify.com/artist/4fW1CbHzNerTxAeUj4SXnQ) | [Pocket Rhapsody II](https://open.spotify.com/album/7o7WzQ3safNurKu8xWrcji) | 3:54 | 2020-12-04 | 2023-03-29 |
 | [Climbing](https://open.spotify.com/track/3kz6NAOACWLOUKYTQVvFkN) | [Steve Tibbetts](https://open.spotify.com/artist/4VksGqYn2k7ljivxGwRZ8y) | [Safe Journey](https://open.spotify.com/album/65ezf6FRwXlqnKPiBjk3dU) | 3:57 | 2020-05-02\* | 2022-05-03 |
@@ -361,6 +361,7 @@
 | [Slow Hot Wind](https://open.spotify.com/track/5KLuxrGo0LBcyGvGj3NKai) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [Slow Hot Wind](https://open.spotify.com/album/31CBhKMtQuIiols58fRWlR) | 5:19 | 2023-06-20 |  |
 | [So Tender](https://open.spotify.com/track/0Dt1B5dNfajRczQKZA87aL) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Standards, Vol\. 2](https://open.spotify.com/album/6fvZds34e7H5ICQ5HOWNbd) | 7:15 | 2020-05-02\* |  |
 | [Soft Pedal Blues \- Remastered](https://open.spotify.com/track/7rx7TWrRy5cYyKrM9ty8r9) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [That's Where It's At](https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt) | 7:26 | 2021-09-10 | 2022-02-11 |
+| [Solitude](https://open.spotify.com/track/6arlOMZlYZZffIyRh3brB8) | [Ari Bragi Kárason](https://open.spotify.com/artist/14dnPD91TVkTNQ09DDXkDW), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Solitude](https://open.spotify.com/album/6dg81LClJnOYRrxsQMKrw3) | 3:18 | 2024-07-19 |  |
 | [Solitude](https://open.spotify.com/track/5GSriSRLRA71Td2F3CR1Ni) | [Daniel Guggenheim Quartet](https://open.spotify.com/artist/53A1C9v3RTzKNSmrRshqJt) | [Red Orange and Blue](https://open.spotify.com/album/16ocAEwSksKkzTKkc76OjA) | 7:12 | 2022-05-26 |  |
 | [Solitude](https://open.spotify.com/track/1Ukp5g1LebPFr7iKFJExUI) | [The Jazz Seekers](https://open.spotify.com/artist/1K6IcbnI4HSwAjecks1vG1), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Divine Beasts](https://open.spotify.com/album/5VKqC7171wf7D2fdcPIH8f) | 3:59 | 2022-09-22 | 2023-05-10 |
 | [Some Other Time](https://open.spotify.com/track/0oEIrVWpLj01XtFtDitQyR) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 4:59 | 2021-08-21 | 2022-11-23 |

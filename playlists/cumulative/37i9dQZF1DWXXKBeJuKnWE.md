@@ -2,9 +2,9 @@
 
 ### [The Pit](https://open.spotify.com/playlist/37i9dQZF1DWXXKBeJuKnWE)
 
-> The home for heavy music\. Cover: Speed
+> The home for heavy music\. Cover: Trash Boat
 
-369 songs - 22 hr 3 min
+373 songs - 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Baby Steps](https://open.spotify.com/track/6tdaPu8xDrBsQLV1Jfj1cF) | [XL LIFE](https://open.spotify.com/artist/6ql3PKpzPtJITCzZBebyaV), [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Baby Steps](https://open.spotify.com/album/3WmyWjZ6EujeH4iaaKcW9G) | 4:22 | 2023-07-25 | 2024-01-12 |
 | [Back From The Dead](https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:30 | 2023-07-25 |  |
 | [Back With Another One](https://open.spotify.com/track/09A8fZVdi4iv5YG8mZTN0S) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa) | [Back With Another One](https://open.spotify.com/album/0Gq9CLto1yWYpcCFihQFYw) | 2:12 | 2023-11-17 | 2024-05-11 |
+| [Be Someone \(feat\. Eric Vanlerberghe of I Prevail\)](https://open.spotify.com/track/3ftyD427SvsTqDJ57PAcbd) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh), [Eric Vanlerberghe](https://open.spotify.com/artist/1oaELF1Z21iJBfE3tfyyt2) | [Be Someone \(feat\. Eric Vanlerberghe of I Prevail\)](https://open.spotify.com/album/7uFCwYvYgm8tf8LC1TVgWp) | 4:13 | 2024-07-19 |  |
 | [be very afraid](https://open.spotify.com/track/1nXWhLumXogqFeijfa1uJd) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:20 | 2022-11-10 | 2023-02-01 |
 | [BED OF NAILS](https://open.spotify.com/track/2D3DJWvbt96sgDYR8rHcpR) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [BED OF NAILS](https://open.spotify.com/album/5hNrR9DKWi3HDavme0qTkd) | 4:13 | 2024-01-12 |  |
 | [Beguiled](https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Beguiled](https://open.spotify.com/album/582taizXGzfl1ALsX6Busl) | 3:58 | 2022-11-10 | 2023-05-12 |
@@ -158,6 +159,7 @@
 | [Her Wings](https://open.spotify.com/track/19Wz8xYiIcD4yjUiUUexp9) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [The Noble Art Of Self Destruction](https://open.spotify.com/album/3aiw4bCQVAeJXZYJh74zAF) | 2:58 | 2023-08-24 |  |
 | [Heretic \(feat\. Loz Taylor\)](https://open.spotify.com/track/2mTi7e03FygOF0bds32848) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Heretic \(feat\. Loz Taylor\)](https://open.spotify.com/album/4GuxQZOki4NdCKpn9kW9xn) | 3:32 | 2023-02-15 |  |
 | [High Horse](https://open.spotify.com/track/5ebWSNwQKrnZzx4jvoGX6W) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Manic](https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF) | 2:48 | 2022-11-10 | 2023-07-15 |
+| [HIGHER POWER](https://open.spotify.com/track/7DgbryJIzvkjsXKhteGrKz) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [HIGHER POWER](https://open.spotify.com/album/6WTTG3Lz51QlbpyY9AeYDJ) | 2:43 | 2024-07-19 |  |
 | [Hive Mind](https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 5:15 | 2022-11-10 | 2023-03-25 |
 | [Holy Roller](https://open.spotify.com/track/3q7kMFce0TnDafVUzq8IpE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 2:53 | 2022-11-10 | 2023-07-26 |
 | [Honed Blade](https://open.spotify.com/track/5cLTEtlFjIhQynuwfngPwp) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Honed Blade](https://open.spotify.com/album/12U9KgMnYLJHd1UkZzdOJN) | 1:40 | 2023-07-25 | 2024-01-19 |
@@ -167,6 +169,7 @@
 | [I'M IN THE MARKET TO PLEASE NO ONE](https://open.spotify.com/track/1kWQO5R5UylzN2myHqyi3r) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [I'M IN THE MARKET TO PLEASE NO ONE](https://open.spotify.com/album/2vxhkK1zHVNKyf9VRdy6xP) | 2:40 | 2024-03-08 | 2024-04-20 |
 | [If Darkness Had a Son](https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 6:36 | 2023-03-23 | 2023-06-25 |
 | [If Darkness Had a Son](https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb) | 6:36 | 2023-03-03 | 2023-04-17 |
+| [IF IT DOESN'T HURT](https://open.spotify.com/track/1ve6FiKnpfXt8vUxhndH7p) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [CARNAL](https://open.spotify.com/album/0ivYaIK4SxXpiSiKXTNvtF) | 2:59 | 2024-07-19 |  |
 | [In the shadow of your former self.](https://open.spotify.com/track/7icAw1EcEfXRpOxkhB3HZw) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [In the shadow of your former self.](https://open.spotify.com/album/2L3ASLYdsXsrombwNJVyAG) | 4:21 | 2023-07-25 | 2023-09-08 |
 | [In The Silence](https://open.spotify.com/track/1klDKOUmMD566cwy91pqEO) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Reflections](https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3) | 3:32 | 2023-08-10 |  |
 | [Invincible Shield](https://open.spotify.com/track/6KxSEVnd0SYtk2QiOAnMIp) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Invincible Shield \(Deluxe Edition\)](https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8) | 6:21 | 2024-03-08 | 2024-05-11 |
@@ -175,6 +178,7 @@
 | [Irreversible](https://open.spotify.com/track/2sC3I1IHuoBsxop2wMUFfq) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Out Of The Shadows](https://open.spotify.com/album/39tnMUd7sg3QmVZwPL2voK) | 3:33 | 2023-09-07 | 2024-03-08 |
 | [Is It Really You?](https://open.spotify.com/track/7CNsJpZ7AZjTF1PYemTcLj) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6), [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Is It Really You?](https://open.spotify.com/album/7x6eK1Vm38hTqhVSMrZH9K) | 4:39 | 2022-11-10 | 2023-02-18 |
 | [Is It Really You?](https://open.spotify.com/track/7kjcdiknoCUe0OeE3BIw9J) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6), [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Is It Really You?](https://open.spotify.com/album/30KxStn2hzuDWJyNqLa5N1) | 4:39 | 2023-03-23 | 2023-07-26 |
+| [Isaac Is Typing…](https://open.spotify.com/track/0mIekgyAGvn5vzt0wns4iP) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [HEAVY JELLY](https://open.spotify.com/album/2oSZ420w1kkEdXMaDaNEbt) | 2:44 | 2024-07-19 |  |
 | [Jaded](https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/3bYrjYgEAEWCbgawd17dif) | 4:22 | 2023-08-24 |  |
 | [Jaded](https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU) | 4:22 | 2023-11-17 | 2024-04-19 |
 | [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 | 2023-04-14 | 2023-07-26 |

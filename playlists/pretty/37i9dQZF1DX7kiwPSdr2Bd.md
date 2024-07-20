@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Fernanda Brum
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,269 likes - 80 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,338 likes - 80 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 28 | [Diz](https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Diz](https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O) | 4:35 |
 | 29 | [Dependente](https://open.spotify.com/track/6jTbdr0MpxuP6nyJOXcMqW) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Dependente \(Ao Vivo\)](https://open.spotify.com/album/724QZLpvmUYnZ8FwbgAkZ9) | 5:54 |
 | 30 | [Deus de Milagres \- Ao Vivo](https://open.spotify.com/track/2pniWHcFFrhNfR5SlUB5Ba) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Deus de Milagres \(Ao Vivo\)](https://open.spotify.com/album/5rIIyLwfSFv7ZaxjZyCbI9) | 5:48 |
-| 31 | [Se O Mar Não Se Abrir / Citação: Firme Nas Promessas \(Ao Vivo\)](https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Se O Mar Não Se Abrir \(Ao Vivo\)](https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7) | 5:58 |
-| 32 | [O Senhor é o Meu Pastor \- Ao Vivo](https://open.spotify.com/track/7k7hhDB8ZleGKhxMg43Fwr) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [O Senhor é o Meu Pastor \(Ao Vivo\)](https://open.spotify.com/album/4V6W8jgXxmcr5VBPdStzmx) | 6:21 |
+| 31 | [O Senhor é o Meu Pastor \- Ao Vivo](https://open.spotify.com/track/7k7hhDB8ZleGKhxMg43Fwr) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [O Senhor é o Meu Pastor \(Ao Vivo\)](https://open.spotify.com/album/4V6W8jgXxmcr5VBPdStzmx) | 6:21 |
+| 32 | [Se O Mar Não Se Abrir / Citação: Firme Nas Promessas \(Ao Vivo\)](https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Se O Mar Não Se Abrir \(Ao Vivo\)](https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7) | 5:58 |
 | 33 | [Santidade \(Ao Vivo Na Suíça\)](https://open.spotify.com/track/1xHIGCspHfgpK36phGDXku) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Santidade \(Ao Vivo Na Suíça\)](https://open.spotify.com/album/0XnWhNtjH4e496qm9Ucbwo) | 4:18 |
 | 34 | [A Ele a Glória / Porque Ele vive \- Live 2020](https://open.spotify.com/track/3RdYctD14VWKn1Zu32kJfs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Juntos Em Adoração \(Live 2020\)](https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS) | 6:24 |
 | 35 | [Porque Ele Vive](https://open.spotify.com/track/1UxXYjUoBikUHg85ij9sIk) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [Porque Ele Vive](https://open.spotify.com/album/4YaBiCeYejEfV6gPDx0r6Z) | 5:41 |

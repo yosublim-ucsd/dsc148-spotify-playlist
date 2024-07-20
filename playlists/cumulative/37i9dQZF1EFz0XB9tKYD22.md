@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-345 songs - 20 hr 30 min
+346 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [End of the World](https://open.spotify.com/track/60myXm48xMbtq52nQRgEWc) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically](https://open.spotify.com/album/76TPKafjzyzB1PjXOuvRtT) | 3:28 | 2024-02-27 |  |
 | [End Up With You](https://open.spotify.com/track/5XIrB4tNKqmGxtVbYpTllz) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:13 | 2024-02-27 |  |
 | [Eraser](https://open.spotify.com/track/3RCGz3c6nnYlMaw5INhWmh) | [The Knux](https://open.spotify.com/artist/52gwRVa1eX4gTCplPd2tlq) | [Eraser](https://open.spotify.com/album/5k8Ej3pUvCsEfcVWaSUsyu) | 3:53 | 2024-02-27 |  |
-| [Everything \(Karaoke Version\) \- Originally Performed By Jessica Andrews](https://open.spotify.com/track/6cfwvFeHG6Tf8EZWMDCKxJ) | [Pro Choice Karaoke](https://open.spotify.com/artist/39SxEZ3tqMcObAi3T9QJzB) | [Karaoke Quick Tracks \- Sing the Hits of Jessica Andrews \(Karaoke Version\) \(Originally Performed By Jessica Andrews\)](https://open.spotify.com/album/4xlhT7jOQJT71ZcJXVtT4O) | 4:04 | 2024-02-27 |  |
+| [Everything \(Karaoke Version With Lead Vocal\) \[Originally Performed By Jessica Andrews\]](https://open.spotify.com/track/7jLsz9fup5JHANKCaw3XLd) | [Country Karaoke Cow Boys](https://open.spotify.com/artist/1T9rOYmodcUr7fU94l3EB1) | [Everything](https://open.spotify.com/album/21tLYuZvwdw1OynFGigcDf) | 4:08 | 2024-07-19 |  |
+| [Everything \(Karaoke Version\) \- Originally Performed By Jessica Andrews](https://open.spotify.com/track/6cfwvFeHG6Tf8EZWMDCKxJ) | [Pro Choice Karaoke](https://open.spotify.com/artist/39SxEZ3tqMcObAi3T9QJzB) | [Karaoke Quick Tracks \- Sing the Hits of Jessica Andrews \(Karaoke Version\) \(Originally Performed By Jessica Andrews\)](https://open.spotify.com/album/4xlhT7jOQJT71ZcJXVtT4O) | 4:04 | 2024-02-27 | 2024-07-20 |
 | [Eye of the Storm](https://open.spotify.com/track/76kKA1Zn0XGmrmFJCd1rT3) | [J.K\. Hodge](https://open.spotify.com/artist/432Yia0hS9be99GSoEyf6J) | [All Your Heart's Desires](https://open.spotify.com/album/1Ox60vTK4USknHMiuo7lap) | 4:55 | 2024-02-27 |  |
 | [Faster](https://open.spotify.com/track/6l1hUDw8WhmAtdDyrzUTtm) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:17 | 2024-02-27 |  |
 | [Favorite Time Of Year](https://open.spotify.com/track/2aq7ZO1is1czoQAh076QFU) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Gift \(Special Edition\)](https://open.spotify.com/album/7m0f2Km7Zlc7quAIvCYPMr) | 3:17 | 2024-02-27 |  |
@@ -270,7 +271,7 @@
 | [Take Back Home Girl \(feat\. Tori Kelly\)](https://open.spotify.com/track/0N9uZRrJQ3lO5TmInEjLxc) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Laps Around The Sun](https://open.spotify.com/album/5gzfsecJfxWOdWwnFT7LsR) | 3:32 | 2024-02-27 | 2024-07-13 |
 | [Take Back Home Girl \(feat\. Tori Kelly\)](https://open.spotify.com/track/0q0Htw3tNkJM87u7fm1kPd) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Laps Around The Sun](https://open.spotify.com/album/5YTK8rNtHQ4mCcyONmaCLv) | 3:32 | 2024-07-12 |  |
 | [Take It](https://open.spotify.com/track/7sdOpO6Fsbr7cMQjHopIO4) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Me](https://open.spotify.com/album/626hPGxEDKulkYO41YUxca) | 3:26 | 2024-02-27 |  |
-| [Take It](https://open.spotify.com/track/6wWHLZJve0TSnY4v4jaSCj) | [Verena Pötzl](https://open.spotify.com/artist/1qKHy8x5tLVxyTAecm0JkU) | [Taken Unaware](https://open.spotify.com/album/4hOFJz4iRC5dVk1BIAihVF) | 3:24 | 2024-02-27 |  |
+| [Take It](https://open.spotify.com/track/6wWHLZJve0TSnY4v4jaSCj) | [Verena Pötzl](https://open.spotify.com/artist/1qKHy8x5tLVxyTAecm0JkU) | [Taken Unaware](https://open.spotify.com/album/4hOFJz4iRC5dVk1BIAihVF) | 3:24 | 2024-02-27 | 2024-07-20 |
 | [Take Me Out](https://open.spotify.com/track/4Fdn6pClZqqubxguo8KqxN) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones \(Deluxe Edition\)](https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy) | 4:03 | 2024-02-27 |  |
 | [Talk To Me](https://open.spotify.com/track/3a3KPbeco8rQS9bPu2GngI) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Doin' It Right](https://open.spotify.com/album/0t5r1On9AJQclMi7Z3nWF7) | 3:45 | 2024-02-27 |  |
 | [Telescope](https://open.spotify.com/track/4wqonrBExUZTIsm6FV2dJZ) | [Nashville Cast](https://open.spotify.com/artist/2NvmDZar6FF2CICK1yBS4I), [Lennon & Maisy](https://open.spotify.com/artist/720fJ5sGqAOhvU2IUypqIr) | [The Nashville Cast Featuring Lennon & Maisy Stella As Maddie & Daphne Conrad](https://open.spotify.com/album/71OuGqEMd5o77pF3PaBOHw) | 2:28 | 2024-02-27 |  |

@@ -414,7 +414,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 272799,
       "name": "Amor Entre Mujer",
       "url": "https://open.spotify.com/track/7kbLWbsm16J2WimzrC0iDA"
@@ -3056,7 +3056,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 163730,
       "name": "La de la terraza",
       "url": "https://open.spotify.com/track/2gRGnFeaYf0IbzujjrHGAd"
@@ -4637,6 +4637,32 @@
     },
     {
       "album": {
+        "name": "Yo No Soy Marinero",
+        "url": "https://open.spotify.com/album/7Lg3d27iQnRX3Is6yEXho5"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Velveta",
+          "url": "https://open.spotify.com/artist/6k0FM5lvukpP68GlodFQcA"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234821,
+      "name": "Perdida",
+      "url": "https://open.spotify.com/track/2BI6KD4uL19vAqbUs76EpF"
+    },
+    {
+      "album": {
         "name": "Piedras del Sol",
         "url": "https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd"
       },
@@ -6074,6 +6100,24 @@
       "duration_ms": 293333,
       "name": "Sue\u00f1o Tepozteco",
       "url": "https://open.spotify.com/track/0XYBNhA9f9KGZhWZBaljls"
+    },
+    {
+      "album": {
+        "name": "Harvest",
+        "url": "https://open.spotify.com/album/7hIjNhXoPqyARBpaKpS3nk"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Sun Colored Eyes",
+      "url": "https://open.spotify.com/track/2Rlw1EslDSKSODPst1GhOY"
     },
     {
       "album": {

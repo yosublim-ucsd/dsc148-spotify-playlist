@@ -1,6 +1,6 @@
 {
   "description": "Punjabi superstar\u2019s biggest hits.",
-  "num_followers": 158063,
+  "num_followers": 158207,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-06-03 05:55:20",
       "album": {
+        "name": "G.O.A.T.",
+        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 179285,
+      "name": "Jatti",
+      "url": "https://open.spotify.com/track/2fH3WsTNUlnGqcXwuu7aTx"
+    },
+    {
+      "added_at": "2024-06-03 05:55:20",
+      "album": {
         "name": "Umbrella",
         "url": "https://open.spotify.com/album/3S3ekcemSjVZ6Pi3ojBEhq"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 193398,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/7fBeejW1BoZFTd4hTP6JvV"
-    },
-    {
-      "added_at": "2024-06-03 05:55:20",
-      "album": {
-        "name": "G.O.A.T.",
-        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 179285,
-      "name": "Jatti",
-      "url": "https://open.spotify.com/track/2fH3WsTNUlnGqcXwuu7aTx"
     },
     {
       "added_at": "2024-06-03 05:55:20",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-06-03 05:55:20",
       "album": {
+        "name": "Welcome to My Hood",
+        "url": "https://open.spotify.com/album/1eIdNQUDw6dlSpMBoRXzIK"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Welcome to My Hood",
+      "url": "https://open.spotify.com/track/1T5mAjBkpuczG5H6yUcSB4"
+    },
+    {
+      "added_at": "2024-06-03 05:55:20",
+      "album": {
         "name": "What Ve",
         "url": "https://open.spotify.com/album/5uR3tuzwfgecmNPsCfxeUi"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 188000,
       "name": "What Ve",
       "url": "https://open.spotify.com/track/6Pxq8WosWicxmEqp9BFZ2s"
-    },
-    {
-      "added_at": "2024-06-03 05:55:20",
-      "album": {
-        "name": "Welcome to My Hood",
-        "url": "https://open.spotify.com/album/1eIdNQUDw6dlSpMBoRXzIK"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Welcome to My Hood",
-      "url": "https://open.spotify.com/track/1T5mAjBkpuczG5H6yUcSB4"
     },
     {
       "added_at": "2024-06-03 05:55:20",

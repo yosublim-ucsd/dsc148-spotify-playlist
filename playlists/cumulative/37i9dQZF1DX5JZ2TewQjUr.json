@@ -6077,6 +6077,24 @@
     },
     {
       "album": {
+        "name": "Inside Wanna Out",
+        "url": "https://open.spotify.com/album/7sxd4XHLaSYliu2AVdS5uw"
+      },
+      "artists": [
+        {
+          "name": "lut",
+          "url": "https://open.spotify.com/artist/5sBywQe9mQOArGxfF5i30R"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210193,
+      "name": "Inside Wanna Out",
+      "url": "https://open.spotify.com/track/6UXqcSW9E1WVMaaUiykWQJ"
+    },
+    {
+      "album": {
         "name": "It's all just coming back...",
         "url": "https://open.spotify.com/album/73OvVDkLfASBQBTv5beZOT"
       },

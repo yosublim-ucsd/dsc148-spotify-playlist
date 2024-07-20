@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-171 songs - 9 hr 26 min
+172 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Someone Singing Along](https://open.spotify.com/track/4R3f6mYEfSZHrgt3BOWtks) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [The Afterlove](https://open.spotify.com/album/613axulVSXcND6yCjasyt7) | 3:33 | 2024-02-27 |  |
 | [Something Different](https://open.spotify.com/track/3mbkAtfG36iBb4HBf1qEb8) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 2:34 | 2024-02-27 |  |
 | [Something To Hold On To](https://open.spotify.com/track/4dUDznt8BZxEK4CMLF1pqB) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:38 | 2024-02-27 |  |
+| [Spiral](https://open.spotify.com/track/6RfgvYyQaM3lFys834sWwx) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spiral](https://open.spotify.com/album/1FTD5Ik0Ex0MofuRwt8eYR) | 3:37 | 2024-07-19 |  |
 | [Stay Together](https://open.spotify.com/track/5R4HqXCZ6uTjxxnGdLt2S6) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Stay Together](https://open.spotify.com/album/7Hlsir9c1oIMeWCTLUxn9e) | 3:12 | 2024-02-27 |  |
 | [Strawberry Shortcake](https://open.spotify.com/track/57OBlxZRcRyHFdlXlsHP7G) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 3:04 | 2024-02-27 |  |
 | [Strings](https://open.spotify.com/track/0mpoTyTHBE41RIc89l7QOM) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten \(Deluxe\)](https://open.spotify.com/album/3Qv3N62b2EXxvMLwFURoFj) | 3:10 | 2024-04-11 | 2024-06-21 |

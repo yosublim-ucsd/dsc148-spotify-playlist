@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/6OyLz1K6f82RCgcbsQ6jwv"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192266,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/3cPWXpjXPPW8LIs27Bxv5c"
+    },
+    {
+      "album": {
         "name": "Alive Again",
         "url": "https://open.spotify.com/album/2zG6uB7tN0f2TD9NWACGnq"
       },
@@ -284,6 +302,24 @@
       "duration_ms": 244400,
       "name": "All I Do",
       "url": "https://open.spotify.com/track/6xzQYj4Xdt8GDvfE8bHTIK"
+    },
+    {
+      "album": {
+        "name": "All I Ever",
+        "url": "https://open.spotify.com/album/7AorJqqart4ZxXkIAOsUOM"
+      },
+      "artists": [
+        {
+          "name": "Chelou",
+          "url": "https://open.spotify.com/artist/2RwfRD2vlkdztGtVXENShq"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149734,
+      "name": "All I Ever",
+      "url": "https://open.spotify.com/track/3D1CGjCwOJlCeacxmWR3bj"
     },
     {
       "album": {
@@ -1166,7 +1202,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 238500,
       "name": "Easy To Learn",
       "url": "https://open.spotify.com/track/09IkwbEsp24Wb3YEUB2GJl"
@@ -1242,6 +1278,24 @@
       "duration_ms": 212287,
       "name": "Everybody Lets You Down",
       "url": "https://open.spotify.com/track/3tliQO1g9DSsEHJziifqEO"
+    },
+    {
+      "album": {
+        "name": "The Ghost of Our Past",
+        "url": "https://open.spotify.com/album/5F2AUeavouVLCvaGEm7LaT"
+      },
+      "artists": [
+        {
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164888,
+      "name": "Fallen Angel",
+      "url": "https://open.spotify.com/track/6IUvnywluytD4Q0XLaneQ9"
     },
     {
       "album": {
@@ -2255,6 +2309,24 @@
     },
     {
       "album": {
+        "name": "I'm Sorry",
+        "url": "https://open.spotify.com/album/6eKMNdKYc24OCTwHPT5M1L"
+      },
+      "artists": [
+        {
+          "name": "Cordelia",
+          "url": "https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184898,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/6lAc4LYGnQhJfH3QBDTHgm"
+    },
+    {
+      "album": {
         "name": "If You Had a Long Day",
         "url": "https://open.spotify.com/album/4dYRT2ki2UXlEgs2X3R5Ky"
       },
@@ -2482,7 +2554,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 173733,
       "name": "Lava Lamps",
       "url": "https://open.spotify.com/track/5uxGfABpJl3ZlrpwKL45Bh"
@@ -2681,6 +2753,28 @@
     },
     {
       "album": {
+        "name": "Love You So",
+        "url": "https://open.spotify.com/album/41lHK0vbDNXHAHTKDt9fcl"
+      },
+      "artists": [
+        {
+          "name": "Leonie Biney",
+          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
+        },
+        {
+          "name": "Rin",
+          "url": "https://open.spotify.com/artist/4gSWoSxfOZf7EeuhqlDksA"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202338,
+      "name": "Love You So",
+      "url": "https://open.spotify.com/track/1CBeJZjm49VMbbgBR2lH2O"
+    },
+    {
+      "album": {
         "name": "Love, The Time Is Now",
         "url": "https://open.spotify.com/album/7njpPAO7gbTsNbkzlbzjP9"
       },
@@ -2818,7 +2912,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 193905,
       "name": "Midnight Sun - Acoustic Version",
       "url": "https://open.spotify.com/track/5EDuUGbmpvQKGZX1XPxje0"
@@ -2944,7 +3038,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 333049,
       "name": "Moon",
       "url": "https://open.spotify.com/track/7lth4zaQynikAy6PS6s1Od"
@@ -2980,7 +3074,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 192496,
       "name": "Mother Don't You Cry",
       "url": "https://open.spotify.com/track/3AAaRxiAkKyE8r5bU8Luvz"
@@ -3092,6 +3186,24 @@
       "duration_ms": 344189,
       "name": "Necking",
       "url": "https://open.spotify.com/track/3h51UW08rH9dbdU8uV24WS"
+    },
+    {
+      "album": {
+        "name": "Never, No Not Once",
+        "url": "https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298864,
+      "name": "Never, No Not Once",
+      "url": "https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25"
     },
     {
       "album": {
@@ -3250,7 +3362,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 204773,
       "name": "Our Time",
       "url": "https://open.spotify.com/track/44cqu9aiiJarV1znSUY1YZ"
@@ -3823,6 +3935,24 @@
     },
     {
       "album": {
+        "name": "Shiver",
+        "url": "https://open.spotify.com/album/5SfsIezjbXkthksXx3afyb"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214808,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/6U63s4dcufvu0QnnXvO31Y"
+    },
+    {
+      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/3HsB6Zu84OqoJH9HfUQLdl"
       },
@@ -3978,7 +4108,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 187329,
       "name": "Something Now",
       "url": "https://open.spotify.com/track/0UoKC8sw1W4RqOOuxqghOO"
@@ -4050,7 +4180,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 162961,
       "name": "Stow Brae",
       "url": "https://open.spotify.com/track/6FgsycVqVLwuWVs66lf9sX"
@@ -4237,6 +4367,28 @@
     },
     {
       "album": {
+        "name": "That's Exactly What Love Is",
+        "url": "https://open.spotify.com/album/0yu9ukcJayGdPkD4k4HYu4"
+      },
+      "artists": [
+        {
+          "name": "The Coronas",
+          "url": "https://open.spotify.com/artist/2tppd6KkhK4ULAd217Ecq1"
+        },
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "That's Exactly What Love Is",
+      "url": "https://open.spotify.com/track/13RrYnyoGbKS0jhsUoXmCq"
+    },
+    {
+      "album": {
         "name": "The Art Of Getting By",
         "url": "https://open.spotify.com/album/1yCWoMwezzzzqrYueeHi6R"
       },
@@ -4363,6 +4515,24 @@
     },
     {
       "album": {
+        "name": "the warmth",
+        "url": "https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270934,
+      "name": "the warmth",
+      "url": "https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe"
+    },
+    {
+      "album": {
         "name": "The Wedding Song",
         "url": "https://open.spotify.com/album/1k0rqhjZ18zvF6dKMoVnjj"
       },
@@ -4464,7 +4634,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 186168,
       "name": "This Is How We Move",
       "url": "https://open.spotify.com/track/5bQV0NEKpqCd3Erpau30VL"

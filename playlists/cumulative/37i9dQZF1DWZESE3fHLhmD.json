@@ -518,7 +518,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 220383,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/1sDYbAOkanOKny7BQzvtRG"
@@ -717,6 +717,24 @@
     },
     {
       "album": {
+        "name": "Dance of the Crab",
+        "url": "https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144479,
+      "name": "Dance of the Crab - Edit",
+      "url": "https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k"
+    },
+    {
+      "album": {
         "name": "Deeper Well",
         "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
       },
@@ -880,6 +898,14 @@
         {
           "name": "Zartmann",
           "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        },
+        {
+          "name": "Drumla",
+          "url": "https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9"
+        },
+        {
+          "name": "Dauner",
+          "url": "https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb"
         }
       ],
       "date_added": "2024-07-01",
@@ -2016,7 +2042,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 190527,
       "name": "Looks Like Me",
       "url": "https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA"
@@ -2182,7 +2208,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 209242,
       "name": "Me Da Igual",
       "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
@@ -2262,6 +2288,24 @@
       "duration_ms": 182064,
       "name": "Miss Me Too",
       "url": "https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo"
+    },
+    {
+      "album": {
+        "name": "14 minutes",
+        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74378,
+      "name": "misses",
+      "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs"
     },
     {
       "album": {
@@ -2766,7 +2810,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-09",
+      "date_removed": null,
       "duration_ms": 214586,
       "name": "Radio",
       "url": "https://open.spotify.com/track/7oqabZXW9Q8p8szD7G8cTg"
@@ -2860,7 +2904,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 174546,
       "name": "Rimini",
       "url": "https://open.spotify.com/track/2JNIWfyUG8AXC2staqyay5"
@@ -2896,7 +2940,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 191358,
       "name": "Running in Circles",
       "url": "https://open.spotify.com/track/44jry7JVnikOOBNjzi91Wg"
@@ -4024,10 +4068,28 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 158061,
       "name": "Wie weit",
       "url": "https://open.spotify.com/track/1Rax9jcKsPwQjnRLmZTC9F"
+    },
+    {
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/6TckaHJU35tlFUy57USHAB"
+      },
+      "artists": [
+        {
+          "name": "CATT",
+          "url": "https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245806,
+      "name": "Wild Heart",
+      "url": "https://open.spotify.com/track/2bUNMsROZTbJ8KkbcqDbx3"
     },
     {
       "album": {

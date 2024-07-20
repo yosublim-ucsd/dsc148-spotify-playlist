@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed viven las guitarras ac\u00fasticas. Cover: Maria Becerra",
-  "num_followers": 1900702,
+  "num_followers": 1900668,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "La \u00daltima Canci\u00f3n",
-        "url": "https://open.spotify.com/album/0pSYqGyZXM9SlyTdyB1t1N"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "La \u00daltima Canci\u00f3n",
-      "url": "https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Tr3s Presents Juanes MTV Unplugged",
         "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 224600,
       "name": "Nada Valgo Sin Tu Amor - MTV Unplugged",
       "url": "https://open.spotify.com/track/1AKE3Z5LNDH1AzMwuxaOW9"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "La \u00daltima Canci\u00f3n",
+        "url": "https://open.spotify.com/album/0pSYqGyZXM9SlyTdyB1t1N"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "La \u00daltima Canci\u00f3n",
+      "url": "https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Te acuerdas?",
+        "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
+      },
+      "artists": [
+        {
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
+        }
+      ],
+      "duration_ms": 183265,
+      "name": "Te acuerdas?",
+      "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "La Mexicana",
         "url": "https://open.spotify.com/album/3jvseqHtHdkQXMWDjsoT4C"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 163213,
       "name": "\u00bfTe Ha Pasado?",
       "url": "https://open.spotify.com/track/6MPmTzi1FdDKu3yhfhVd1Y"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Te acuerdas?",
-        "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
-      },
-      "artists": [
-        {
-          "name": "Paul Alone",
-          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
-        }
-      ],
-      "duration_ms": 183265,
-      "name": "Te acuerdas?",
-      "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1151,18 +1151,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "BIG BANG",
-        "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
+        "name": "Qu\u00e9 Dulce",
+        "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
       },
       "artists": [
         {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+          "name": "Jorge Caj\u00edas",
+          "url": "https://open.spotify.com/artist/2z2C1fMK0nlrWR2pGqfdNe"
+        },
+        {
+          "name": "Claudia Prieto",
+          "url": "https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG"
         }
       ],
-      "duration_ms": 183131,
-      "name": "BIG BANG",
-      "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
+      "duration_ms": 133666,
+      "name": "Qu\u00e9 Dulce",
+      "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1183,22 +1187,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Qu\u00e9 Dulce",
-        "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
+        "name": "BIG BANG",
+        "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
       },
       "artists": [
         {
-          "name": "Jorge Caj\u00edas",
-          "url": "https://open.spotify.com/artist/2z2C1fMK0nlrWR2pGqfdNe"
-        },
-        {
-          "name": "Claudia Prieto",
-          "url": "https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG"
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
         }
       ],
-      "duration_ms": 133666,
-      "name": "Qu\u00e9 Dulce",
-      "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
+      "duration_ms": 183131,
+      "name": "BIG BANG",
+      "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "No Valgo Pa' Ciudad",
-        "url": "https://open.spotify.com/album/6inO88KEzGOsZxOYAvRsr2"
-      },
-      "artists": [
-        {
-          "name": "Paul Alone",
-          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
-        }
-      ],
-      "duration_ms": 186440,
-      "name": "No Valgo Pa' Ciudad",
-      "url": "https://open.spotify.com/track/4rf696AmoiPsggWktpSyX5"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Amiga Cruel (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 217031,
       "name": "Amiga Cruel (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "No Valgo Pa' Ciudad",
+        "url": "https://open.spotify.com/album/6inO88KEzGOsZxOYAvRsr2"
+      },
+      "artists": [
+        {
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
+        }
+      ],
+      "duration_ms": 186440,
+      "name": "No Valgo Pa' Ciudad",
+      "url": "https://open.spotify.com/track/4rf696AmoiPsggWktpSyX5"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Flotando (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 256708,
+      "name": "Flotando (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Cenizas y Miel",
         "url": "https://open.spotify.com/album/5oo725EgblR5xePh1O4GXt"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 205010,
       "name": "T\u00fa Con \u00c9l",
       "url": "https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Flotando (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 256708,
-      "name": "Flotando (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Maye",
-        "url": "https://open.spotify.com/album/6OEuIv5TmSwGoeKWRizLFx"
-      },
-      "artists": [
-        {
-          "name": "Yera",
-          "url": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
-        }
-      ],
-      "duration_ms": 172659,
-      "name": "Maye",
-      "url": "https://open.spotify.com/track/5E7qAuoc1rYrth5x2j49xX"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Saudade (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 238817,
       "name": "Saudade - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Maye",
+        "url": "https://open.spotify.com/album/6OEuIv5TmSwGoeKWRizLFx"
+      },
+      "artists": [
+        {
+          "name": "Yera",
+          "url": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
+        }
+      ],
+      "duration_ms": 172659,
+      "name": "Maye",
+      "url": "https://open.spotify.com/track/5E7qAuoc1rYrth5x2j49xX"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "DESASTRE",
-        "url": "https://open.spotify.com/album/3O0R0OFOqeC5yG7B0OVHWB"
+        "name": "Mocca",
+        "url": "https://open.spotify.com/album/0phsHpTN3MkMVVN74oyM3Q"
       },
       "artists": [
         {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
         }
       ],
-      "duration_ms": 222187,
-      "name": "DESASTRE",
-      "url": "https://open.spotify.com/track/6GUKOpUYvQtgHoCpcTmhWk"
+      "duration_ms": 95000,
+      "name": "Mocca",
+      "url": "https://open.spotify.com/track/55TZBuEIVVCIAKMmITvrFe"
     }
   ],
   "unique_name": "Ac\u00fasticas",

@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano. \ud83c\udf79",
-  "num_followers": 247375,
+  "num_followers": 247409,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Falling for You",
-        "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "How It Feels",
         "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 138951,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "Falling for You",
+        "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 266826,
+      "name": "Thinking of You - 1995 Remaster",
+      "url": "https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
         "name": "Ask Me / Mesmerize",
         "url": "https://open.spotify.com/album/01n0HtCtQh4ogK1d8hmrws"
       },
@@ -519,38 +535,18 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+        "name": "Amor Fati",
+        "url": "https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6"
       },
       "artists": [
         {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 266826,
-      "name": "Thinking of You - 1995 Remaster",
-      "url": "https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "Everything Eventually Ends",
-        "url": "https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        },
-        {
-          "name": "Rejjie Snow",
-          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
-        }
-      ],
-      "duration_ms": 177280,
-      "name": "Everything Eventually Ends",
-      "url": "https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq"
+      "duration_ms": 189760,
+      "name": "El Layali",
+      "url": "https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -579,18 +575,22 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Amor Fati",
-        "url": "https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6"
+        "name": "Everything Eventually Ends",
+        "url": "https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Rejjie Snow",
+          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
         }
       ],
-      "duration_ms": 189760,
-      "name": "El Layali",
-      "url": "https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84"
+      "duration_ms": 177280,
+      "name": "Everything Eventually Ends",
+      "url": "https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Move On Up (Mark Knight Remix)",
-        "url": "https://open.spotify.com/album/7hg20oE5SyyQf7JN8YA1Dq"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        },
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
-        }
-      ],
-      "duration_ms": 149047,
-      "name": "Move On Up (Mark Knight Remix)",
-      "url": "https://open.spotify.com/track/39pkyUMcOfKfjx3xhCeiVM"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "The Cure (feat. Chloe Paige)",
         "url": "https://open.spotify.com/album/11NsP5ydXk68bhYyq5tErV"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 234312,
       "name": "The Cure (feat. Chloe Paige)",
       "url": "https://open.spotify.com/track/47bfpeMYD6oCLJL9ZAbxCc"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "Move On Up (Mark Knight Remix)",
+        "url": "https://open.spotify.com/album/7hg20oE5SyyQf7JN8YA1Dq"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        }
+      ],
+      "duration_ms": 149047,
+      "name": "Move On Up (Mark Knight Remix)",
+      "url": "https://open.spotify.com/track/39pkyUMcOfKfjx3xhCeiVM"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -1331,6 +1331,30 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/01D4KOudqfxOzPiQawG9PO"
+      },
+      "artists": [
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        },
+        {
+          "name": "Albert Breaker",
+          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
+        },
+        {
+          "name": "mohalizer",
+          "url": "https://open.spotify.com/artist/4mxLi0WiovhOvdkqofGO2i"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1dFbbBKiOn1LnldZUSaWQ8"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
         "name": "Ithaque",
         "url": "https://open.spotify.com/album/1bqWfUAoboTiP0TdsBqBTp"
       },
@@ -1363,22 +1387,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 367362,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "Agua Congas",
         "url": "https://open.spotify.com/album/62wbQj88z0i2Fdojzq2b6G"
       },
@@ -1395,6 +1403,22 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 367362,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
         "name": "Rah That's A Mad Question",
         "url": "https://open.spotify.com/album/1tCAbCRfFmq6SJjklzryDI"
       },
@@ -1407,30 +1431,6 @@
       "duration_ms": 227123,
       "name": "Rah That's A Mad Question",
       "url": "https://open.spotify.com/track/7oklbyYBpXg9Uvl4tMW2iU"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/01D4KOudqfxOzPiQawG9PO"
-      },
-      "artists": [
-        {
-          "name": "WITH U",
-          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
-        },
-        {
-          "name": "Albert Breaker",
-          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
-        },
-        {
-          "name": "mohalizer",
-          "url": "https://open.spotify.com/artist/4mxLi0WiovhOvdkqofGO2i"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/1dFbbBKiOn1LnldZUSaWQ8"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -1523,6 +1523,34 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
+        "name": "All This Love",
+        "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
+      },
+      "artists": [
+        {
+          "name": "Braxe + Falcon",
+          "url": "https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA"
+        },
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        },
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "DJ Falcon",
+          "url": "https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5"
+        }
+      ],
+      "duration_ms": 233196,
+      "name": "All This Love",
+      "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
         "name": "IT MIGHT BE THE DRUGS",
         "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
       },
@@ -1555,34 +1583,6 @@
       "duration_ms": 215768,
       "name": "Blackpool Boulevard - Edit",
       "url": "https://open.spotify.com/track/603pPHCZn9Ng9K9woYdWEd"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "All This Love",
-        "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
-      },
-      "artists": [
-        {
-          "name": "Braxe + Falcon",
-          "url": "https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA"
-        },
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        },
-        {
-          "name": "Alan Braxe",
-          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
-        },
-        {
-          "name": "DJ Falcon",
-          "url": "https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5"
-        }
-      ],
-      "duration_ms": 233196,
-      "name": "All This Love",
-      "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
     },
     {
       "added_at": "2024-07-18 22:01:00",

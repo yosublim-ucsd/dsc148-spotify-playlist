@@ -4,7 +4,7 @@
 
 > Whether you're cooking or pottering about, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
-423 songs - 1 day 1 hr 13 min
+424 songs - 1 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Camera Flash](https://open.spotify.com/track/1rIBE3itNuNeRRhSSm8jWV) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Camera Flash](https://open.spotify.com/album/7bEQUBzTqJDymrO9oVXmSd) | 3:35 | 2022-02-14 | 2022-07-29 |
 | [Can't Fight](https://open.spotify.com/track/1zALEEIF3ipCSQMyHBzwPf) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Can't Fight](https://open.spotify.com/album/6WvLHMNGRawv4mzu1HZzFq) | 3:10 | 2022-02-14 | 2022-07-29 |
 | [Candy](https://open.spotify.com/track/3X4x9j51vAzCyR2d00vROo) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [In Limbo \- EP](https://open.spotify.com/album/35J8iowYlwbt5IcA7UZKPy) | 3:34 | 2022-02-14 | 2022-07-26 |
+| [Carry The Load](https://open.spotify.com/track/1JVEXCJ7pTGOLSs8OjhltR) | [JERUB](https://open.spotify.com/artist/2eG0Kf7mNIbn0SMiA2LjBd) | [Carry The Load](https://open.spotify.com/album/2fQkmWo2zGtU3YPfgbQmdF) | 3:04 | 2024-07-19 |  |
 | [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 | 2024-06-21 |  |
 | [Casual](https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:52 | 2024-03-22 |  |
 | [Caught Up](https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Caught Up](https://open.spotify.com/album/4rG8urpRqy180HcCWO1mML) | 3:50 | 2024-05-31 |  |
@@ -133,7 +134,7 @@
 | [From A Lover](https://open.spotify.com/track/3s0gco9dCNjVm1B0Pr0Gau) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Voice Notes](https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs) | 2:55 | 2023-03-17 |  |
 | [Genesis, pt\. ii](https://open.spotify.com/track/4VUc2yMO1AttRC7jahya9y) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 3:28 | 2024-06-21 |  |
 | [Geronimo](https://open.spotify.com/track/1miJ79Xlen9j3MjSl0dzZh) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 3:33 | 2023-03-24 | 2023-06-17 |
-| [Giving It In](https://open.spotify.com/track/1yoAw5lhSJZ3FutPzCm6EC) | [Faye Meana](https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP) | [Giving It In](https://open.spotify.com/album/0qqvcHcINrNFwkFfaqpRO1) | 3:20 | 2023-01-10 |  |
+| [Giving It In](https://open.spotify.com/track/1yoAw5lhSJZ3FutPzCm6EC) | [Faye Meana](https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP) | [Giving It In](https://open.spotify.com/album/0qqvcHcINrNFwkFfaqpRO1) | 3:20 | 2023-01-10 | 2024-07-20 |
 | [Glory](https://open.spotify.com/track/6JtzwLMDhCexSBg10iPWyP) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Glory](https://open.spotify.com/album/3t3J2sT9CL9iJGuBTfReFO) | 2:44 | 2023-06-16 | 2024-05-19 |
 | [Go Baby](https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:56 | 2023-11-10 |  |
 | [Golden](https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw) | 3:09 | 2023-01-10 | 2024-07-13 |
@@ -339,7 +340,7 @@
 | [Subside](https://open.spotify.com/track/3Lqsck2T1MyyRmK1993Obk) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [This Thing Called Living](https://open.spotify.com/album/2TwdfXTB6TUMObapDUysmW) | 3:08 | 2022-02-14 | 2022-12-28 |
 | [Subside](https://open.spotify.com/track/3peNITOhEMw0roXqF6yFMx) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [This Thing Called Living](https://open.spotify.com/album/0IBIPDGBV3UdrwVjDTU8oE) | 3:08 | 2022-02-14 | 2022-10-13 |
 | [summer of love](https://open.spotify.com/track/5ttv8rhr5AxHSqAN5xg7zT) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [SOPHOMORE](https://open.spotify.com/album/1eN6QlgyGlf1hHkr04rLS8) | 2:46 | 2024-06-21 | 2024-06-30 |
-| [Sunday Morning](https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Phases EP](https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG) | 3:20 | 2022-02-14 | 2024-07-17 |
+| [Sunday Morning](https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Phases EP](https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG) | 3:20 | 2022-02-14 |  |
 | [Sunny](https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q) | [Bobby Hebb](https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5) | [Sunny](https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG) | 2:45 | 2023-01-10 | 2024-03-23 |
 | [SUNRISE](https://open.spotify.com/track/0C3sscH57PNeQ8dmY6xTIR) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [SUNRISE](https://open.spotify.com/album/6m24WJWs47zUE3d3VhOdK3) | 2:56 | 2022-02-14 | 2022-11-13 |
 | [Supalonely](https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [STELLA & STEVE](https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8) | 3:43 | 2022-02-14 | 2022-12-28 |
@@ -424,7 +425,7 @@
 | [Why Don't You Touch Me](https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Why Don't You Touch Me](https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai) | 3:17 | 2023-01-10 | 2023-11-11 |
 | [Without Words](https://open.spotify.com/track/2fC0RkvXGfa9A6eZDSnUha) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Without Words](https://open.spotify.com/album/2m1FDvBl8pE7IIph8sjrAf) | 3:06 | 2024-02-23 | 2024-06-01 |
 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 | 2024-02-23 |  |
-| [You Ain't The Problem](https://open.spotify.com/track/3zJ5RDG0bLQAV2rntFgUtb) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [KIWANUKA](https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ) | 4:09 | 2023-01-10 |  |
+| [You Ain't The Problem](https://open.spotify.com/track/3zJ5RDG0bLQAV2rntFgUtb) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [KIWANUKA](https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ) | 4:09 | 2023-01-10 | 2024-07-20 |
 | [You Can't Hurry Love](https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Supremes A' Go\-Go \(Expanded Edition\)](https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6) | 2:47 | 2022-02-14 | 2022-12-28 |
 | [You Don't Know Me](https://open.spotify.com/track/6LahUh0U4umx6hDFfVWlGi) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Modern Sounds in Country and Western Music, Vols 1 & 2](https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF) | 3:16 | 2023-01-10 | 2024-03-09 |
 | [You Know I'm No Good](https://open.spotify.com/track/4zQuwW24dweWcaX0fEJkP2) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 4:16 | 2023-01-10 | 2024-03-23 |

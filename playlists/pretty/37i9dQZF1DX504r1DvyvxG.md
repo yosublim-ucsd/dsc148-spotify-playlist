@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: George Harrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,646,570 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,646,594 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 80 | [Carolina In My Mind](https://open.spotify.com/track/2Fv3LSqbgv5lrdClrc6XKc) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [James Taylor Live](https://open.spotify.com/album/38OACLXl1hgUnsuCUv13HC) | 5:01 |
 | 81 | [Older Chests](https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 |
 | 82 | [Universal Soldier](https://open.spotify.com/track/4MCI71gpCGwHsK2rv7c8pv) | [Buffy Sainte\-Marie](https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x) | [It's My Way](https://open.spotify.com/album/3xqpKfDsGJYbCdMndvxZmd) | 2:20 |
-| 83 | [Green Mountain Road](https://open.spotify.com/track/4lSofToZxg0tPiVfv6AOMM) | [Adam Torres](https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8) | [I Came to Sing the Song](https://open.spotify.com/album/2m19dJQ6TcCzfJUl3QcGpB) | 5:34 |
-| 84 | [Music Is Love](https://open.spotify.com/track/0O87QQVWgCkkXAfrhsal55) | [David Crosby](https://open.spotify.com/artist/59zdhVoWxSoHMc74n098Re) | [If I Could Only Remember My Name](https://open.spotify.com/album/4v9ZAufvuQKvTLcy21y6BM) | 3:22 |
+| 83 | [Music Is Love](https://open.spotify.com/track/0O87QQVWgCkkXAfrhsal55) | [David Crosby](https://open.spotify.com/artist/59zdhVoWxSoHMc74n098Re) | [If I Could Only Remember My Name](https://open.spotify.com/album/4v9ZAufvuQKvTLcy21y6BM) | 3:22 |
+| 84 | [Green Mountain Road](https://open.spotify.com/track/4lSofToZxg0tPiVfv6AOMM) | [Adam Torres](https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8) | [I Came to Sing the Song](https://open.spotify.com/album/2m19dJQ6TcCzfJUl3QcGpB) | 5:34 |
 | 85 | [Great Day](https://open.spotify.com/track/6QP9DFKvDjegtwz2HQZFL7) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Funny People \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zrPKpcz1dKsWWqQGICVrg) | 2:08 |
 | 86 | [Tell Old Bill](https://open.spotify.com/track/2ddznUWfrjiPS0cYGGf2jy) | [Dave Van Ronk](https://open.spotify.com/artist/6QmHysWvckkQR74oxmLmtz) | [Dave Van Ronk Sings](https://open.spotify.com/album/34j8rWAn2K4du9ay3WRvmQ) | 4:24 |
 | 87 | [Not Alone](https://open.spotify.com/track/2SXtIzmLn2a8WHDbxAt6Ai) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Living With Ghosts](https://open.spotify.com/album/4wKotVRbGtfTtDCCAShOTF) | 4:32 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 97 | [It Ain't Over Yet](https://open.spotify.com/track/7GJlAXotjV4uNS1seUDcVE) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY), [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Close Ties](https://open.spotify.com/album/4tBvlrS4v0KekohNQlV31W) | 5:14 |
 | 98 | [Tears in Heaven \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster](https://open.spotify.com/track/612VcBshQcy4mpB2utGc3H) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\)](https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg) | 4:40 |
 | 99 | [Wild World](https://open.spotify.com/track/6Xz7FeyE8HTP90HecgHV57) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered\)](https://open.spotify.com/album/25Vt8FvZBx4BsSJWEsF7sJ) | 3:20 |
-| 100 | [Angie \- 2015 Remaster](https://open.spotify.com/track/4QTV3dLUyYu5vFPEFvA1jg) | [Bert Jansch](https://open.spotify.com/artist/1FqG6mhiJbhbMg43ohCT6D) | [Bert Jansch](https://open.spotify.com/album/2Fqo2YzPayuwaiUJEqUMGy) | 3:09 |
+| 100 | [Fire and Rain](https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James](https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ) | 3:20 |
 
 Snapshot ID: `ZIxb4gAAAABCVo6Dv0trp+W360bUl6rO`

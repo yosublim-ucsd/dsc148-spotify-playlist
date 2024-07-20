@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWv69X.md) - [plain]
 
 ### [This Is Mar de Copas](https://open.spotify.com/playlist/37i9dQZF1DZ06evNZWv69X)
 
-> This Is Mar de Copas\. Los temas esenciales, todos en una lista.
+> This is Mar de Copas\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 7,938 likes - 50 songs - 3 hr 22 min
 
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWv69X.md) - [plain]
 | 6 | [La Máquina del Tiempo](https://open.spotify.com/track/7qzIs0YPfQAVOFmgvJFLR4) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Suna](https://open.spotify.com/album/2dbtl75dnHdb0weSIvhrtI) | 4:39 |
 | 7 | [Otra Canción / Con el Mar](https://open.spotify.com/track/2lzaXswPXVZSLzbMAq8Dop) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Lado B](https://open.spotify.com/album/6lAwgVT7xFEeZazlF95q2t) | 3:41 |
 | 8 | [Ramera](https://open.spotify.com/track/0X3d4JZSeh3Fu4TREaviYr) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Todos los Singles 1993\-2006](https://open.spotify.com/album/6OthgAS7EYRLPuGJKTitu8) | 3:20 |
-| 9 | [Prendí Otro Fuego por Ella](https://open.spotify.com/track/7plZoJlP6OBG0jSChVmit1) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Entre los Árboles](https://open.spotify.com/album/2j0iKUIDasypZ0UhG5nwgM) | 3:23 |
+| 9 | [Tras Esa Puerta](https://open.spotify.com/track/4U7cTH2CGIp1qhgxOMU5Ro) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Entre los Árboles](https://open.spotify.com/album/2j0iKUIDasypZ0UhG5nwgM) | 5:29 |
 | 10 | [Llévame](https://open.spotify.com/track/6kYHsyU4KzdMf49gC4CmRl) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Si algo así como el amor está en el aire](https://open.spotify.com/album/4Z2EOWKODHlBbLnvewyQwW) | 6:13 |
 | 11 | [No Me Imagino](https://open.spotify.com/track/4RtuS9cCFMytWPPhVnmZOe) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Lado B](https://open.spotify.com/album/6lAwgVT7xFEeZazlF95q2t) | 3:01 |
 | 12 | [Adiós Amor](https://open.spotify.com/track/7KIY1H6TG5ygADaaPE9YRA) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Todos los Singles 1993\-2006](https://open.spotify.com/album/6OthgAS7EYRLPuGJKTitu8) | 3:36 |
-| 13 | [Tras Esa Puerta](https://open.spotify.com/track/4U7cTH2CGIp1qhgxOMU5Ro) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Entre los Árboles](https://open.spotify.com/album/2j0iKUIDasypZ0UhG5nwgM) | 5:29 |
+| 13 | [Prendí Otro Fuego por Ella](https://open.spotify.com/track/7plZoJlP6OBG0jSChVmit1) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Entre los Árboles](https://open.spotify.com/album/2j0iKUIDasypZ0UhG5nwgM) | 3:23 |
 | 14 | [Si Algo Así Como el Amor Está en el Aire](https://open.spotify.com/track/160l5r7WExN0zm1bKEOQmS) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Si algo así como el amor está en el aire](https://open.spotify.com/album/4Z2EOWKODHlBbLnvewyQwW) | 3:33 |
 | 15 | [Dulce y Veloz](https://open.spotify.com/track/75FSoDobii3528jGAMVCd0) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Mar de Copas](https://open.spotify.com/album/08mPDAxP3cAeqUga7266QQ) | 3:47 |
 | 16 | [Atardecer](https://open.spotify.com/track/0v1ICcAGUizjFs9CcNGeGX) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Seis](https://open.spotify.com/album/50PI1azbBTaS655Uhs9Ulx) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWv69X.md) - [plain]
 | 49 | [A Dios](https://open.spotify.com/track/7tcimL9ijjO5XFoH74eskd) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [En Vivo](https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4) | 2:43 |
 | 50 | [Así Fue Que una Historia Murió](https://open.spotify.com/track/2vBuiWik9kwEemeh8N1Ljh) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Suna](https://open.spotify.com/album/2dbtl75dnHdb0weSIvhrtI) | 1:38 |
 
-Snapshot ID: `ZpcJgAAAAADNExaWqoiZLZbKGIPcZWV/`
+Snapshot ID: `ZphbAAAAAABB6I6QhpX7HKm7RsNg9XeS`

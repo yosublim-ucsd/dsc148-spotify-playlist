@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 33306,
+  "num_followers": 33319,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 234024,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
         "name": "Twe Twe",
         "url": "https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 143111,
       "name": "Twe Twe",
       "url": "https://open.spotify.com/track/2khv04F26pnJr4989Maowi"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 234024,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "My Brother",
-        "url": "https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 158520,
-      "name": "My Brother",
-      "url": "https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
         "name": "roses are red, tears are blue \u2014 A Fountain Baby Extended Play",
         "url": "https://open.spotify.com/album/7zgIcnbeNavZHeaTuVd6Po"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 156387,
       "name": "diamonds",
       "url": "https://open.spotify.com/track/3wgcDKiutxqQa7SRFbffKn"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "My Brother",
+        "url": "https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 158520,
+      "name": "My Brother",
+      "url": "https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Pheelz Good II",
-        "url": "https://open.spotify.com/album/0XggRVMapMGMuh55fKDD4Y"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        }
-      ],
-      "duration_ms": 174054,
-      "name": "YEYE",
-      "url": "https://open.spotify.com/track/0vDekimehdVOmM2OZgLqFP"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
         "name": "More Kashcoming, Vol. 2",
         "url": "https://open.spotify.com/album/7rihBCOnj640TOFRJD1FKz"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 141678,
       "name": "Focus",
       "url": "https://open.spotify.com/track/264HkpmqRAHqlGHQJSKMIp"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "Pheelz Good II",
+        "url": "https://open.spotify.com/album/0XggRVMapMGMuh55fKDD4Y"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "duration_ms": 174054,
+      "name": "YEYE",
+      "url": "https://open.spotify.com/track/0vDekimehdVOmM2OZgLqFP"
     }
   ],
   "unique_name": "Keep Fit Club ",

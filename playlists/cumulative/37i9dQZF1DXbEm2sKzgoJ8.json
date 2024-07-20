@@ -3529,6 +3529,32 @@
     },
     {
       "album": {
+        "name": "In The Night (feat. Jorja Smith & Amaarae)",
+        "url": "https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229999,
+      "name": "In The Night (feat. Jorja Smith & Amaarae)",
+      "url": "https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc"
+    },
+    {
+      "album": {
         "name": "Infinite Straight",
         "url": "https://open.spotify.com/album/7C0XxDVszgIhX5V8uz250K"
       },
@@ -6934,7 +6960,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 197465,
       "name": "The Feels",
       "url": "https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD"

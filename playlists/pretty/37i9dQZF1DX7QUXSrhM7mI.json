@@ -1,6 +1,6 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 82882,
+  "num_followers": 82905,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Sexy to Someone",
-        "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 207795,
-      "name": "Sexy to Someone",
-      "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Bluebird Days",
         "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 175226,
       "name": "Next Thing You Know",
       "url": "https://open.spotify.com/track/39OclE5hZematADrdfaWvE"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Sexy to Someone",
+        "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 207795,
+      "name": "Sexy to Someone",
+      "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Signed, Sealed And Delivered",
-        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 161160,
-      "name": "Signed, Sealed, Delivered (I'm Yours)",
-      "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Highs & Lows",
         "url": "https://open.spotify.com/album/5xcCwJuG2hWwWIwWSWXxw8"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 209621,
       "name": "Highs & Lows",
       "url": "https://open.spotify.com/track/7IA1Rvt3w8p0PihpYH9JTB"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Signed, Sealed And Delivered",
+        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 161160,
+      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
     },
     {
       "added_at": "2024-07-12 04:00:00",

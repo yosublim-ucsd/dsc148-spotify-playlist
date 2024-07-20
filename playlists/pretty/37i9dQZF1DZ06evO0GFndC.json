@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 54146,
+  "num_followers": 54162,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAAC5dulwDpo3sTuUvnaDijqe",
+  "snapshot_id": "ZphbAAAAAABVwTms7/akaoXZcDOcDyty",
   "tracks": [
     {
       "added_at": null,
@@ -279,22 +279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parque de Diversiones",
-        "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
+        "name": "Bien Equipados",
+        "url": "https://open.spotify.com/album/2f0KcsjEftYpn1OmCJAs2P"
       },
       "artists": [
         {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
         },
         {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 190966,
-      "name": "La Bolsita",
-      "url": "https://open.spotify.com/track/515cNEzyCxdppXVqt0uR9B"
+      "duration_ms": 170461,
+      "name": "Bien Equipados",
+      "url": "https://open.spotify.com/track/58jOk6VlZQxcUADl5RhOEq"
     },
     {
       "added_at": null,
@@ -331,22 +331,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Equipados",
-        "url": "https://open.spotify.com/album/2f0KcsjEftYpn1OmCJAs2P"
+        "name": "Parque de Diversiones",
+        "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
       },
       "artists": [
         {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
         }
       ],
-      "duration_ms": 170461,
-      "name": "Bien Equipados",
-      "url": "https://open.spotify.com/track/58jOk6VlZQxcUADl5RhOEq"
+      "duration_ms": 190966,
+      "name": "La Bolsita",
+      "url": "https://open.spotify.com/track/515cNEzyCxdppXVqt0uR9B"
     },
     {
       "added_at": null,

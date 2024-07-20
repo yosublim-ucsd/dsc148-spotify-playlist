@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoioDxgMsjZ.md) - [plain]
 
 > <a href="spotify:artist:1AHswQqsDNmu1xaE8KpBne">COBRAH</a>'s favorite tracks\. Updated regularly\. Curated by COBRAH\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,973 likes - 62 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,012 likes - 62 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

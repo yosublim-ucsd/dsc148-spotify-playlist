@@ -1,344 +1,348 @@
 {
   "description": "The hottest new songs rocking Kerrang!'s world, updated every Friday!",
-  "num_followers": 6154,
+  "num_followers": 6160,
   "original_name": "Kerrang! Chart",
   "owner": {
     "name": "Kerrang!",
     "url": "https://open.spotify.com/user/kerrangmagazine"
   },
-  "snapshot_id": "AAAMSsJHRDHJGnrslvDKPgW0yYfnWxTb",
+  "snapshot_id": "AAAMU7GBx39cWIbtoz5ebgvZOMXxZqHF",
   "tracks": [
     {
-      "added_at": "2024-07-12 11:51:44",
+      "added_at": "2024-07-19 10:26:00",
       "album": {
-        "name": "70% Dead",
-        "url": "https://open.spotify.com/album/1wmcwUhzuxcM56xaBqd0dC"
+        "name": "Be Someone (feat. Eric Vanlerberghe of I Prevail)",
+        "url": "https://open.spotify.com/album/7uFCwYvYgm8tf8LC1TVgWp"
       },
       "artists": [
         {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+          "name": "Trash Boat",
+          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
         },
         {
-          "name": "Corey Taylor",
-          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+          "name": "Eric Vanlerberghe",
+          "url": "https://open.spotify.com/artist/1oaELF1Z21iJBfE3tfyyt2"
         }
       ],
-      "duration_ms": 222145,
-      "name": "70% Dead (with Corey Taylor)",
-      "url": "https://open.spotify.com/track/4gFhDuhoCailJyDV99V0Ww"
+      "duration_ms": 253204,
+      "name": "Be Someone (feat. Eric Vanlerberghe of I Prevail)",
+      "url": "https://open.spotify.com/track/3ftyD427SvsTqDJ57PAcbd"
     },
     {
-      "added_at": "2024-07-12 11:51:44",
+      "added_at": "2024-07-19 10:26:00",
       "album": {
-        "name": "Give Me The Painkiller",
-        "url": "https://open.spotify.com/album/5rzdkiqUZ7hmK2G8Em2sAh"
+        "name": "Thought You Were Waving",
+        "url": "https://open.spotify.com/album/1mE2RqG2uYU5AllM8m2LMv"
       },
       "artists": [
         {
-          "name": "Nails",
-          "url": "https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys"
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
         }
       ],
-      "duration_ms": 164704,
-      "name": "Give Me The Painkiller",
-      "url": "https://open.spotify.com/track/29W2lycHz4sExfoA11Yiph"
+      "duration_ms": 182833,
+      "name": "Thought You Were Waving",
+      "url": "https://open.spotify.com/track/6kPUaajgvBhYzPaOZvJu40"
     },
     {
-      "added_at": "2024-07-12 11:51:44",
+      "added_at": "2024-07-19 10:26:00",
       "album": {
-        "name": "Can You Feel the Love Tonight (From \"A Whole New Sound\")",
-        "url": "https://open.spotify.com/album/3NuSK3YNeKeP1GdnYj8KY9"
+        "name": "HIGHER POWER",
+        "url": "https://open.spotify.com/album/6WTTG3Lz51QlbpyY9AeYDJ"
       },
       "artists": [
         {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "duration_ms": 163413,
+      "name": "HIGHER POWER",
+      "url": "https://open.spotify.com/track/7DgbryJIzvkjsXKhteGrKz"
+    },
+    {
+      "added_at": "2024-07-19 10:26:00",
+      "album": {
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/46xawrrgDrg6z2iphnxhzJ"
+      },
+      "artists": [
+        {
+          "name": "Kids In Glass Houses",
+          "url": "https://open.spotify.com/artist/0d630stEgFcD3GTKZPZFzY"
+        }
+      ],
+      "duration_ms": 217535,
+      "name": "Vulnerable",
+      "url": "https://open.spotify.com/track/59M6f3NepXRoaf6bwafgK3"
+    },
+    {
+      "added_at": "2024-07-19 10:26:00",
+      "album": {
+        "name": "Demolition Man",
+        "url": "https://open.spotify.com/album/6rLNcJWYaLLv14WLDzUdf8"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "duration_ms": 165786,
+      "name": "Demolition Man",
+      "url": "https://open.spotify.com/track/7A2KxqI16tEpJhxZn6Ji1P"
+    },
+    {
+      "added_at": "2024-07-19 10:26:00",
+      "album": {
+        "name": "King Of The Mischievous South Vol. 2",
+        "url": "https://open.spotify.com/album/6LoDd1G8en4TcqdSg7yqrV"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
         },
         {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 173350,
-      "name": "Can You Feel the Love Tonight - From \"A Whole New Sound\"",
-      "url": "https://open.spotify.com/track/372ltCYz1uLID85yHqe7S9"
-    },
-    {
-      "added_at": "2024-07-12 11:51:44",
-      "album": {
-        "name": "Walking On Sunshine (From The \u201cAmerican Psycho\u201d Comic Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3zKZUewnkV7sON3PUM1AMD"
-      },
-      "artists": [
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+          "name": "PlayThatBoiZay",
+          "url": "https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM"
         },
         {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         }
       ],
-      "duration_ms": 192949,
-      "name": "Walking On Sunshine - From The \u201cAmerican Psycho\u201d Comic Series Soundtrack",
-      "url": "https://open.spotify.com/track/07QjTct0HPDi1uj0uK6cMe"
+      "duration_ms": 129399,
+      "name": "HOODLUMZ (with PlayThatBoiZay & A$AP Rocky)",
+      "url": "https://open.spotify.com/track/6GkAi85HSZGqJwzYC2qXyI"
     },
     {
-      "added_at": "2024-07-12 11:51:44",
+      "added_at": "2024-07-19 10:26:00",
       "album": {
-        "name": "Glasgow",
-        "url": "https://open.spotify.com/album/5luIDZpDnPFdiTpMLLhRYK"
+        "name": "Should\u2019ve Been Me",
+        "url": "https://open.spotify.com/album/6A6xRfiOYgZkeLWCovSIJv"
       },
       "artists": [
         {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
         }
       ],
-      "duration_ms": 214245,
-      "name": "Glasgow",
-      "url": "https://open.spotify.com/track/6bu97rYhlHjuEAq3KbmtR9"
+      "duration_ms": 62723,
+      "name": "Should\u2019ve Been Me",
+      "url": "https://open.spotify.com/track/6SzyT5365B5XAuDHrTwLlB"
     },
     {
-      "added_at": "2024-07-12 11:51:44",
+      "added_at": "2024-07-19 10:26:00",
       "album": {
-        "name": "HAPPY",
-        "url": "https://open.spotify.com/album/26MHTLMXfmmP9JJ9rtbEs6"
+        "name": "Hide in Shade",
+        "url": "https://open.spotify.com/album/7wdLmNajoqvqSyl2GxvcOY"
       },
       "artists": [
         {
-          "name": "Tropic Gold",
-          "url": "https://open.spotify.com/artist/25My38UxRbqlegmRn61zQP"
+          "name": "Zeal & Ardor",
+          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
         }
       ],
-      "duration_ms": 216834,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/3kveKispNPTfBTsBkd5bUv"
+      "duration_ms": 218160,
+      "name": "Hide in Shade",
+      "url": "https://open.spotify.com/track/2w9JZiLSFfvTNs3liiWLg3"
     },
     {
-      "added_at": "2024-07-12 11:51:44",
+      "added_at": "2024-07-19 10:51:57",
       "album": {
-        "name": "The Seed That Dreamed Of Its Own Creation",
-        "url": "https://open.spotify.com/album/5xGngVEkhiPb8bh7zOxaMN"
+        "name": "Angel of the Night",
+        "url": "https://open.spotify.com/album/5ZGSB6C6Vv2keHUnJJ5AGJ"
       },
       "artists": [
         {
-          "name": "Lowen",
-          "url": "https://open.spotify.com/artist/2jJxBOcsVwHF0kYnnjsPu9"
+          "name": "Unto Others",
+          "url": "https://open.spotify.com/artist/1W5khHrkcznsyChxwIBfAI"
         }
       ],
-      "duration_ms": 206554,
-      "name": "The Seed That Dreamed Of Its Own Creation",
-      "url": "https://open.spotify.com/track/7G2A1TVHR1tXpB13upMe6y"
+      "duration_ms": 212440,
+      "name": "Angel of the Night",
+      "url": "https://open.spotify.com/track/1sTN6d8n98DdUPdlWqlSqh"
     },
     {
-      "added_at": "2024-07-12 11:51:44",
+      "added_at": "2024-07-19 10:26:00",
       "album": {
-        "name": "Turbulence",
-        "url": "https://open.spotify.com/album/6B0rX3xoZawMWKTTDm5zR8"
+        "name": "All In My Head",
+        "url": "https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX"
       },
       "artists": [
         {
-          "name": "Escuela Grind",
-          "url": "https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG"
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
         }
       ],
-      "duration_ms": 200023,
-      "name": "Turbulence",
-      "url": "https://open.spotify.com/track/5GHvpuEjReFEL2lVeOiKxC"
+      "duration_ms": 201187,
+      "name": "All In My Head",
+      "url": "https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj"
     },
     {
-      "added_at": "2024-07-12 11:51:44",
+      "added_at": "2024-07-19 10:26:00",
       "album": {
-        "name": "HOUSE FULL OF FAKES",
-        "url": "https://open.spotify.com/album/3OLbjE3KaI4kywWewJ3v4v"
+        "name": "Fuck What You Heard",
+        "url": "https://open.spotify.com/album/5rbWbdGyN4eA7xXkbzLnpI"
       },
       "artists": [
         {
-          "name": "Mimi Barks",
-          "url": "https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC"
+          "name": "Body Count",
+          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
         }
       ],
-      "duration_ms": 185612,
-      "name": "HOUSE FULL OF FAKES",
-      "url": "https://open.spotify.com/track/0JV7cWCtX7qGDWNmHbM6YM"
+      "duration_ms": 197600,
+      "name": "Fuck What You Heard",
+      "url": "https://open.spotify.com/track/5WjbME5ZH3917e5KbF8QMS"
     },
     {
-      "added_at": "2024-07-12 11:51:44",
+      "added_at": "2024-07-19 10:26:00",
       "album": {
-        "name": "It Burns",
-        "url": "https://open.spotify.com/album/77flV7s0GAsUvzd5vbCk9K"
+        "name": "DOWN N OUT",
+        "url": "https://open.spotify.com/album/6wkmm5YeCDnfIZoKXhLU98"
       },
       "artists": [
         {
-          "name": "Show Me the Body",
-          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
         }
       ],
-      "duration_ms": 236878,
-      "name": "It Burns",
-      "url": "https://open.spotify.com/track/514cam2TdGuqXOu3oeGFAj"
+      "duration_ms": 143626,
+      "name": "DOWN N OUT",
+      "url": "https://open.spotify.com/track/3I7bQjEBfbyo7wI3AeF0eg"
     },
     {
-      "added_at": "2024-07-12 11:51:44",
+      "added_at": "2024-07-19 10:26:00",
       "album": {
-        "name": "100 Sounds",
-        "url": "https://open.spotify.com/album/1E9Et1MWRIz0pUSUi8n9Zp"
+        "name": "Death Goals - Knife Bouquet",
+        "url": "https://open.spotify.com/album/36Yw3cI1B9NOePqZmAtTo5"
       },
       "artists": [
         {
-          "name": "IDestroy",
-          "url": "https://open.spotify.com/artist/5m2DSPGIv5M0WZmeeVskFF"
+          "name": "Death Goals",
+          "url": "https://open.spotify.com/artist/00I2SJI3kqtdl3IWdAPTk5"
+        },
+        {
+          "name": "Matt Reynolds",
+          "url": "https://open.spotify.com/artist/6pL4z6QSZfokrCCRslx87g"
         }
       ],
-      "duration_ms": 169800,
-      "name": "100 Sounds",
-      "url": "https://open.spotify.com/track/3XWtFsalhdpZ5R04p8dX07"
+      "duration_ms": 270187,
+      "name": "Knife Bouquet",
+      "url": "https://open.spotify.com/track/5pnQXsBpGT8HwtATuA3nIl"
     },
     {
-      "added_at": "2024-07-12 11:51:44",
+      "added_at": "2024-07-19 10:26:00",
       "album": {
-        "name": "Mown In Circles",
-        "url": "https://open.spotify.com/album/6G7iPqdN75EsnBjIWdrSW0"
+        "name": "Silhouettes",
+        "url": "https://open.spotify.com/album/2kVXK0yxdMGH4qwdq2OeVt"
       },
       "artists": [
         {
-          "name": "LICE",
-          "url": "https://open.spotify.com/artist/4JC8PfKoENbnkxLB2k3ZGo"
+          "name": "Giant Walker",
+          "url": "https://open.spotify.com/artist/4Xatn9rQkv4mU47XRJ2SE0"
         }
       ],
-      "duration_ms": 155471,
-      "name": "Mown In Circles",
-      "url": "https://open.spotify.com/track/4g7YnATFgEFKmRxqnlQqtL"
+      "duration_ms": 289805,
+      "name": "Silhouettes",
+      "url": "https://open.spotify.com/track/0ucw2yCDJqm5CAAlJmW53L"
     },
     {
-      "added_at": "2024-07-12 11:51:44",
+      "added_at": "2024-07-19 10:26:00",
       "album": {
-        "name": "Grave Intentions",
-        "url": "https://open.spotify.com/album/0XH3psOlW4q63zSd7WB1z1"
+        "name": "SIN MIEDO",
+        "url": "https://open.spotify.com/album/4NBSLYMhwbf5gUSc0ZHKQK"
       },
       "artists": [
         {
-          "name": "High Parasite",
-          "url": "https://open.spotify.com/artist/1iWCRNRrzEvlI7CFO2PSqM"
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
         }
       ],
-      "duration_ms": 205880,
-      "name": "Grave Intentions",
-      "url": "https://open.spotify.com/track/54vid0cydSFkKGdRH2K9pK"
+      "duration_ms": 167291,
+      "name": "SIN MIEDO",
+      "url": "https://open.spotify.com/track/4qAQTQH5lF4kINZ9JkURXp"
     },
     {
-      "added_at": "2024-07-12 11:51:44",
+      "added_at": "2024-07-19 10:26:00",
       "album": {
-        "name": "Mask of Sanity",
-        "url": "https://open.spotify.com/album/0VveoDmRfKgKzt4jFpgHtA"
+        "name": "Blood On The Stage",
+        "url": "https://open.spotify.com/album/2YND9V5DTAFWRlnpZjT2Ri"
       },
       "artists": [
         {
-          "name": "Uncured",
-          "url": "https://open.spotify.com/artist/6YicvYF7Qo1FxNt903gAMh"
+          "name": "Tuk Smith & The Restless Hearts",
+          "url": "https://open.spotify.com/artist/1yidpkFGp3U77Wkb2Om6br"
         }
       ],
-      "duration_ms": 193894,
-      "name": "Mask of Sanity",
-      "url": "https://open.spotify.com/track/3n4wcIrVAlESIuiEEaDv6H"
+      "duration_ms": 229933,
+      "name": "Blood On The Stage",
+      "url": "https://open.spotify.com/track/14Lwdc4hyUjF0HqRX3tLOY"
     },
     {
-      "added_at": "2024-07-12 11:51:44",
+      "added_at": "2024-07-19 10:26:00",
       "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/2Ih0AmjKIGzcmFXlghg1LB"
+        "name": "When It Comes",
+        "url": "https://open.spotify.com/album/19w6o0lVqivpuKez8RDwDf"
       },
       "artists": [
         {
-          "name": "Hello Mary",
-          "url": "https://open.spotify.com/artist/6kgB8Ix1GHS4t8OWmsMDGn"
+          "name": "Torus",
+          "url": "https://open.spotify.com/artist/2hAbK9kNETmY7FHExyadGM"
         }
       ],
-      "duration_ms": 249586,
-      "name": "Three",
-      "url": "https://open.spotify.com/track/0OA0NZPEUq8NTBXAU4FRw4"
+      "duration_ms": 250526,
+      "name": "When It Comes",
+      "url": "https://open.spotify.com/track/2SqHFt2SqwYo1naewwjpgl"
     },
     {
-      "added_at": "2024-07-12 11:51:44",
+      "added_at": "2024-07-19 10:26:00",
       "album": {
-        "name": "Doorstep (Reimagined)",
-        "url": "https://open.spotify.com/album/5tWzY7oHfGw2PClCuJbKtd"
+        "name": "Chicago",
+        "url": "https://open.spotify.com/album/520IybGxG4OXfXwmoe2L9K"
       },
       "artists": [
         {
-          "name": "The Bar Stool Preachers",
-          "url": "https://open.spotify.com/artist/3KcidWlhRLEyML9jFE6fKg"
+          "name": "Japandroids",
+          "url": "https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30"
         }
       ],
-      "duration_ms": 198613,
-      "name": "Doorstep - Reimagined",
-      "url": "https://open.spotify.com/track/5hXirMGBPTDs567TzUKZA3"
+      "duration_ms": 238988,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/4PLoLTmD04MXXRQU9T8ar8"
     },
     {
-      "added_at": "2024-07-12 11:51:44",
+      "added_at": "2024-07-19 10:26:00",
       "album": {
-        "name": "Piggyback Ride",
-        "url": "https://open.spotify.com/album/0kmZJsjWNSSX4FG9BAHzjf"
+        "name": "TOO BROKEN",
+        "url": "https://open.spotify.com/album/4nT1IDJzbnMBrCxknhd2sC"
       },
       "artists": [
         {
-          "name": "Blues Pills",
-          "url": "https://open.spotify.com/artist/2lmQ4CUnjmLIIfnwZdRmMY"
+          "name": "TILLY KINGSTON",
+          "url": "https://open.spotify.com/artist/7vUQWOBM62PVpMM3hnNIZj"
         }
       ],
-      "duration_ms": 175831,
-      "name": "Piggyback Ride",
-      "url": "https://open.spotify.com/track/4AdNVebs1TVwDyIDIfRZZm"
+      "duration_ms": 137075,
+      "name": "TOO BROKEN - Acoustic Single",
+      "url": "https://open.spotify.com/track/7wm0tYgjisnah6DIAWfMCE"
     },
     {
-      "added_at": "2024-07-12 11:51:44",
+      "added_at": "2024-07-19 10:26:00",
       "album": {
-        "name": "To Strike with Secret Fang",
-        "url": "https://open.spotify.com/album/3kAXM4GkoIFwEqy8AxVNEM"
+        "name": "Disgust",
+        "url": "https://open.spotify.com/album/6gxjElDERzl6InNq2jMSjq"
       },
       "artists": [
         {
-          "name": "Nile",
-          "url": "https://open.spotify.com/artist/3v3VSKylQE69ztn5TUVlFE"
+          "name": "A Place To Bury Strangers",
+          "url": "https://open.spotify.com/artist/3kx1S2P2Qq3a9bG4DGsAjR"
         }
       ],
-      "duration_ms": 118613,
-      "name": "To Strike with Secret Fang",
-      "url": "https://open.spotify.com/track/4aXUtUOyTkEEciloBToyRo"
-    },
-    {
-      "added_at": "2024-07-12 11:51:44",
-      "album": {
-        "name": "I Was a Happy Kid Once",
-        "url": "https://open.spotify.com/album/2IEvajDcvfksZlDn3NvvYW"
-      },
-      "artists": [
-        {
-          "name": "Caliban",
-          "url": "https://open.spotify.com/artist/1oeo6cC9Fqa2bxxv67qBQL"
-        }
-      ],
-      "duration_ms": 204336,
-      "name": "I Was a Happy Kid Once",
-      "url": "https://open.spotify.com/track/338u3qiRxsotH1YHeMFlxo"
-    },
-    {
-      "added_at": "2024-07-12 11:51:44",
-      "album": {
-        "name": "Long Black Waves",
-        "url": "https://open.spotify.com/album/4QX7zzlm1h9m5tNiNLPAua"
-      },
-      "artists": [
-        {
-          "name": "Avatarium",
-          "url": "https://open.spotify.com/artist/2W5ONRbOs5vXUbedSWJQlA"
-        }
-      ],
-      "duration_ms": 369686,
-      "name": "Long Black Waves",
-      "url": "https://open.spotify.com/track/7whkTbfOqxDmUIaMH00Wkj"
+      "duration_ms": 264013,
+      "name": "Disgust",
+      "url": "https://open.spotify.com/track/3f5eXhDMnUkb36qG9KEaRk"
     }
   ],
   "unique_name": "Kerrang! Chart",

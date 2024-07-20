@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This is Danny Ocean. The essential tracks, all in one playlist.",
+  "description": "This Is Danny Ocean. Los temas esenciales, todos en una lista.",
   "name": "This Is Danny Ocean",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 210526,
       "name": "amor tonight",
       "url": "https://open.spotify.com/track/6jmjb6lF1vRv6lHIrdGFAI"
@@ -256,7 +256,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 259333,
       "name": "Brisa",
       "url": "https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 181845,
       "name": "Detente",
       "url": "https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 205210,
       "name": "Fino",
       "url": "https://open.spotify.com/track/2aa3zu8JIbWrE92naVcy7H"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 209905,
       "name": "Miedito o Qu\u00e9? (feat. KAROL G)",
       "url": "https://open.spotify.com/track/7MoZgM6AsQaZw14WnKopuy"
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 192313,
       "name": "M\u00f3naco",
       "url": "https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd"
@@ -1278,7 +1278,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 212914,
       "name": "SI ES AMOR",
       "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 147598,
       "name": "Volare",
       "url": "https://open.spotify.com/track/7nE9H4e4uPOis5sJY39fOc"

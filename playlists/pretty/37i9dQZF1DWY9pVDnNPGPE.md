@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 
 > 따뜻한 햇살과 가벼운 발걸음\. 행복한 음악들과 기분 좋은 산책 & 피크닉을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,794 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,797 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 38 | [Wednesday](https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq) | [Dailog](https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF) | [Wednesday](https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX) | 2:47 |
 | 39 | [Happiness](https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [The Interest of Love \(Original Television Soundtrack, Pt.1\)](https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm) | 3:24 |
 | 40 | [Fanfare](https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Season Note](https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM) | 3:29 |
-| 41 | [HOODIE E BANBAJI](https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [HOODIE E BANBAJI](https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ) | 3:09 |
-| 42 | [Baby I Love You](https://open.spotify.com/track/6QK081MDKmHExMa1zmCC1S) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [LOVE or TAKE](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) | 3:11 |
+| 41 | [Baby I Love You](https://open.spotify.com/track/6QK081MDKmHExMa1zmCC1S) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [LOVE or TAKE](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) | 3:11 |
+| 42 | [HOODIE E BANBAJI](https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [HOODIE E BANBAJI](https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ) | 3:09 |
 | 43 | [Let's Love](https://open.spotify.com/track/6h5ORMFWElwmVjCYWxZosK) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB), [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Let's Love](https://open.spotify.com/album/1brl58xXMDKWcCEbSECZ5P) | 3:40 |
 | 44 | [Pink!](https://open.spotify.com/track/69q7FmDh1JXekNKOOxDmdM) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Pink!](https://open.spotify.com/album/1I5gyzHtCXanpYqRukAQGP) | 2:54 |
 | 45 | [내일이 있잖아 \(Feat\. Jayci yucca\)](https://open.spotify.com/track/7yjWpSf5hZiI7gjz0jEKxk) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM) | [내일이 있잖아](https://open.spotify.com/album/1Ek23crQnSnrINtWERzhrb) | 3:02 |

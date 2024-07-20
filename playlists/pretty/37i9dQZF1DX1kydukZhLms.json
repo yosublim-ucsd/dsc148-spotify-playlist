@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1374619,
+  "num_followers": 1374874,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/491aVcQHmKwGjVego5VI15"
+      },
+      "artists": [
+        {
+          "name": "Sonata Arctica",
+          "url": "https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH"
+        }
+      ],
+      "duration_ms": 313533,
+      "name": "Last Drop Falls",
+      "url": "https://open.spotify.com/track/4bSetRYOPYAMlLc9mgEGr0"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
         "name": "The Silent Force",
         "url": "https://open.spotify.com/album/7Mqb9JDLwwr4kLuNXFnuJZ"
       },
@@ -1555,34 +1571,18 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Seventh Star (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/557z9zU5A2g5jhZBiu8obi"
+        "name": "Girls, Girls, Girls",
+        "url": "https://open.spotify.com/album/0Tnve4bDxyiBCRaj03qO8z"
       },
       "artists": [
         {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
         }
       ],
-      "duration_ms": 269453,
-      "name": "No Stranger to Love - 2009 Remaster",
-      "url": "https://open.spotify.com/track/5Sv037WbFHlIIQPmhsBUUZ"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/491aVcQHmKwGjVego5VI15"
-      },
-      "artists": [
-        {
-          "name": "Sonata Arctica",
-          "url": "https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH"
-        }
-      ],
-      "duration_ms": 313533,
-      "name": "Last Drop Falls",
-      "url": "https://open.spotify.com/track/4bSetRYOPYAMlLc9mgEGr0"
+      "duration_ms": 275466,
+      "name": "You're All I Need",
+      "url": "https://open.spotify.com/track/4n4W0yJsGYXzFwStMYMLxj"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Girls, Girls, Girls",
-        "url": "https://open.spotify.com/album/0Tnve4bDxyiBCRaj03qO8z"
+        "name": "Seventh Star (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/557z9zU5A2g5jhZBiu8obi"
       },
       "artists": [
         {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 275466,
-      "name": "You're All I Need",
-      "url": "https://open.spotify.com/track/4n4W0yJsGYXzFwStMYMLxj"
+      "duration_ms": 269453,
+      "name": "No Stranger to Love - 2009 Remaster",
+      "url": "https://open.spotify.com/track/5Sv037WbFHlIIQPmhsBUUZ"
     },
     {
       "added_at": "2024-06-10 16:00:39",

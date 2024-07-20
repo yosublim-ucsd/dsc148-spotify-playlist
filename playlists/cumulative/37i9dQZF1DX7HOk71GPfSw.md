@@ -4,7 +4,7 @@
 
 > ft\. charli
 
-2,098 songs - 3 day 23 hr 28 min
+2,099 songs - 3 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Boost Mobile](https://open.spotify.com/track/2Epq39AVj5C08j8Bm0PDHW) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY), [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Boost Mobile](https://open.spotify.com/album/7sSkTfZoMu50pBSIfJEHI8) | 2:56 | 2021-01-29 | 2021-07-16 |
 | [BORED](https://open.spotify.com/track/6mgIs02h3j7dWaBhqNWEtl) | [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA) | [BORED](https://open.spotify.com/album/69nksfTC6MkuZo23KnquWt) | 2:38 | 2021-03-06 | 2022-01-13 |
 | [Boring](https://open.spotify.com/track/785w7ixnkUZCOKy1l4kcHT) | [Lil Mariko](https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx), [Full Tac](https://open.spotify.com/artist/5ZXkHp732tYHIzqctoZP0E) | [Boring](https://open.spotify.com/album/6A45un1GRwZwh8RpeiAhF8) | 2:15 | 2021-11-06 | 2021-11-13 |
+| [Boss Baby](https://open.spotify.com/track/3iHihR9gGDWNuiIJs65OUR) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [VVFROST](https://open.spotify.com/album/0cU6y450RZN5dWTjZP54WU) | 2:34 | 2024-07-19 |  |
 | [Boucher](https://open.spotify.com/track/27xtIMe0h6xuDd0b29kR1v) | [LICK DROP](https://open.spotify.com/artist/2Z0A3tYHjY3X7NAWZKty3U) | [Boucher](https://open.spotify.com/album/5cC4BUGWp9VQn88VY5NKcV) | 2:04 | 2022-03-04 | 2022-05-12 |
 | [BOUNCE DANCE \(Tennyson remix\)](https://open.spotify.com/track/4J5mrbZvKAZE2yY6RqvsRb) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [BOUNCE DANCE\(Tennyson remix\)](https://open.spotify.com/album/0b9UYMUxvbb5qrxYy7C0UX) | 3:00 | 2022-09-30 | 2023-02-11 |
 | [Bouncehouse](https://open.spotify.com/track/3F2bpDQPNsvL1EU3kanQ82) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Elixir Rejection](https://open.spotify.com/album/7oGJFQCXH7Ee9dCIHq9Vt8) | 3:13 | 2021-05-31 | 2022-02-26 |

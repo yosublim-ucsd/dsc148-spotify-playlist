@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 42,931 likes - 89 songs - 5 hr 2 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 42,946 likes - 89 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 15 | [VISION](https://open.spotify.com/track/6z8NPrhqN7JmMI9cxT31uN) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [VISION](https://open.spotify.com/album/57JMo3LWygR3nfi4Qqzxuq) | 3:10 |
 | 16 | [Lighters](https://open.spotify.com/track/1cqhpUcRCHKWWtajJXO93k) | [Cap1talA](https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW) | [Lighters](https://open.spotify.com/album/5T5nfeBxsLTq66THmyVAIF) | 3:43 |
 | 17 | [ANGEL](https://open.spotify.com/track/1XpPPcoUoNbgstEbPBiBlD) | [Feux](https://open.spotify.com/artist/4bnTHHCHsFujaD34vWr4tV) | [ANGEL](https://open.spotify.com/album/10UqNRDDxFEK7YZTqrTQ7u) | 2:53 |
-| 18 | [The Word of Other People](https://open.spotify.com/track/7t1gD8wEGSL4kNyw0IG3Xl) | [Evan Kennedy](https://open.spotify.com/artist/5fBVjzbzKH2o6ufgkmNBQ0) | [The World of Other People](https://open.spotify.com/album/47iK32BSJV9nEg0DvU0Qc6) | 0:39 |
+| 18 | [The Word of Other People](https://open.spotify.com/track/7t1gD8wEGSL4kNyw0IG3Xl) | [Evan Kennedy](https://open.spotify.com/artist/5fBVjzbzKH2o6ufgkmNBQ0) | [The Word of Other People](https://open.spotify.com/album/47iK32BSJV9nEg0DvU0Qc6) | 0:39 |
 | 19 | [Cool With It](https://open.spotify.com/track/4LXDMURS2p6A19Xgmwggv5) | [Lola Moxom](https://open.spotify.com/artist/108GZkpexhWFatGlQTbb1g) | [Cool With It](https://open.spotify.com/album/0nMooBKiGPcv9YtiWvqIBc) | 3:39 |
 | 20 | [Garrison Vibez Freestyle](https://open.spotify.com/track/1HoW6anfUfkzL54E4lLO9K) | [Garrison Vibez](https://open.spotify.com/artist/6O9zydsCIsrOSV1hw0gMQh), [Daddy1](https://open.spotify.com/artist/1KgNeTwbXBsI13ic0uGxNi) | [Garrison Vibez Freestyle](https://open.spotify.com/album/7HbxW1kC9yNrp08UcURUPE) | 2:59 |
 | 21 | [Tarot Card](https://open.spotify.com/track/6xVomDw20rcuPYRwFXJLT3) | [Cam Holmes](https://open.spotify.com/artist/2JMc8g6uOfQ6cv76PA9se6) | [Tarot Card](https://open.spotify.com/album/5wcqWsDrZynVkqHiE1fVDz) | 2:51 |

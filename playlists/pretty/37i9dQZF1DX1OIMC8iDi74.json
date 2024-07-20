@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap. Cover: Control Freak",
-  "num_followers": 895287,
+  "num_followers": 895093,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Tanglewood",
+        "url": "https://open.spotify.com/album/2zS1uwnnpZlqkALafTzUJl"
+      },
+      "artists": [
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        }
+      ],
+      "duration_ms": 158961,
+      "name": "Spanish Moss",
+      "url": "https://open.spotify.com/track/1z1io5H0gfutwUNILCDshn"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Pour Your Heart Out (feat. 070 Shake)",
         "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 223561,
       "name": "Pour Your Heart Out (feat. 070 Shake)",
       "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Tanglewood",
-        "url": "https://open.spotify.com/album/2zS1uwnnpZlqkALafTzUJl"
-      },
-      "artists": [
-        {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
-        }
-      ],
-      "duration_ms": 158961,
-      "name": "Spanish Moss",
-      "url": "https://open.spotify.com/track/1z1io5H0gfutwUNILCDshn"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "LOYAL",
-        "url": "https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI"
-      },
-      "artists": [
-        {
-          "name": "33 Below",
-          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
-        },
-        {
-          "name": "DRIIA",
-          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
-        }
-      ],
-      "duration_ms": 255882,
-      "name": "LOYAL",
-      "url": "https://open.spotify.com/track/0XTC88XX9rerDucl82skTW"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Breach",
         "url": "https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE"
       },
@@ -1499,6 +1479,26 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "LOYAL",
+        "url": "https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        },
+        {
+          "name": "DRIIA",
+          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
+        }
+      ],
+      "duration_ms": 255882,
+      "name": "LOYAL",
+      "url": "https://open.spotify.com/track/0XTC88XX9rerDucl82skTW"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "My Mind",
         "url": "https://open.spotify.com/album/7HblcAvpakUan6Dv7hz2j3"
       },
@@ -1511,26 +1511,6 @@
       "duration_ms": 152651,
       "name": "My Mind",
       "url": "https://open.spotify.com/track/6VBMufUomo3zargbrSDFuR"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Dhunga",
-        "url": "https://open.spotify.com/album/1YFhDt1XvJHuk8eN3dyaaY"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        },
-        {
-          "name": "Toxic Rob",
-          "url": "https://open.spotify.com/artist/2xVWDstqnCMt8lKP8VXpzc"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "Dhunga",
-      "url": "https://open.spotify.com/track/14CuAxOwFn2346hrXXx5Cj"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1555,6 +1535,26 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Dhunga",
+        "url": "https://open.spotify.com/album/1YFhDt1XvJHuk8eN3dyaaY"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Toxic Rob",
+          "url": "https://open.spotify.com/artist/2xVWDstqnCMt8lKP8VXpzc"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "Dhunga",
+      "url": "https://open.spotify.com/track/14CuAxOwFn2346hrXXx5Cj"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Tokyo",
         "url": "https://open.spotify.com/album/1ibBcUwUtIL0ewWMtX0w87"
       },
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Dogwater",
-        "url": "https://open.spotify.com/album/6SXovZDtjTYPfYTZ0yVxHx"
-      },
-      "artists": [
-        {
-          "name": "JAWNS",
-          "url": "https://open.spotify.com/artist/5dXHoJzpLuiEug5rSXeCib"
-        }
-      ],
-      "duration_ms": 156444,
-      "name": "Hertz Donut",
-      "url": "https://open.spotify.com/track/6sAaasAUka6mKyyOTQUJPk"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Tear Me Down",
         "url": "https://open.spotify.com/album/6EWDO4bXbu0d42rmm4ohGW"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 185142,
       "name": "Tear Me Down",
       "url": "https://open.spotify.com/track/290iL1wFwGAWJC6IREJgXQ"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Dogwater",
+        "url": "https://open.spotify.com/album/6SXovZDtjTYPfYTZ0yVxHx"
+      },
+      "artists": [
+        {
+          "name": "JAWNS",
+          "url": "https://open.spotify.com/artist/5dXHoJzpLuiEug5rSXeCib"
+        }
+      ],
+      "duration_ms": 156444,
+      "name": "Hertz Donut",
+      "url": "https://open.spotify.com/track/6sAaasAUka6mKyyOTQUJPk"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Issa Bounce",
+        "url": "https://open.spotify.com/album/7wveyi2W3dCEn8lUHIQdRi"
+      },
+      "artists": [
+        {
+          "name": "UpsideDown",
+          "url": "https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu"
+        }
+      ],
+      "duration_ms": 117600,
+      "name": "Issa Bounce",
+      "url": "https://open.spotify.com/track/7zeL5uEA13GJ6VN732HYyS"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "LONESUM",
         "url": "https://open.spotify.com/album/2WH0ugu7j4bRskcIM6vpgM"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 241681,
       "name": "LONESUM",
       "url": "https://open.spotify.com/track/1fBXuxv3zwdJHiFPolGZYe"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Issa Bounce",
-        "url": "https://open.spotify.com/album/7wveyi2W3dCEn8lUHIQdRi"
-      },
-      "artists": [
-        {
-          "name": "UpsideDown",
-          "url": "https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu"
-        }
-      ],
-      "duration_ms": 117600,
-      "name": "Issa Bounce",
-      "url": "https://open.spotify.com/track/7zeL5uEA13GJ6VN732HYyS"
     },
     {
       "added_at": "2024-07-19 04:00:00",

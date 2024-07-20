@@ -21977,6 +21977,24 @@
     },
     {
       "album": {
+        "name": "Heilig Is U Heer",
+        "url": "https://open.spotify.com/album/693LL64XfvjIC0oawNLWGu"
+      },
+      "artists": [
+        {
+          "name": "EKC Worship",
+          "url": "https://open.spotify.com/artist/3A6LDU0SrL6MzYbI7lYOx9"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511665,
+      "name": "Heilig Is U Heer",
+      "url": "https://open.spotify.com/track/4QWfFIVnuHQoDyzPe8TImt"
+    },
+    {
+      "album": {
         "name": "Heir (Of the Father)",
         "url": "https://open.spotify.com/album/3VOhKDuZ17erjNw3ai3NZM"
       },

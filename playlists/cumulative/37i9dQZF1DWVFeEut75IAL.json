@@ -655,6 +655,32 @@
     },
     {
       "album": {
+        "name": "Berceuse",
+        "url": "https://open.spotify.com/album/1CbzrevO6aayKT9t5RQ1ly"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Laurent Wagschal",
+          "url": "https://open.spotify.com/artist/1KH9u201pXo6g9cXxNZo12"
+        },
+        {
+          "name": "Ji-Yoon Park",
+          "url": "https://open.spotify.com/artist/3lXWyaM9oLk5FdLhBAIHqJ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203422,
+      "name": "Berceuse, Op. 16",
+      "url": "https://open.spotify.com/track/1wmmMQrhjOVK7dIyn1OgUT"
+    },
+    {
+      "album": {
         "name": "Beach: By the Still Waters, Op. 114",
         "url": "https://open.spotify.com/album/52E1rqtwQBOPBGIq07YTHn"
       },
@@ -729,6 +755,36 @@
     },
     {
       "album": {
+        "name": "Schumann: Cello Concerto",
+        "url": "https://open.spotify.com/album/4Kmt2WTkLPvpXNcHhTg58z"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Christian-Pierre La Marca",
+          "url": "https://open.spotify.com/artist/5nRDtK82lHmYRXnKjAzI9j"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Rapha\u00ebl Merlin",
+          "url": "https://open.spotify.com/artist/3bXdiDkHd5cWMFSzWB1Tkl"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240480,
+      "name": "Cello Concerto",
+      "url": "https://open.spotify.com/track/7MJqlLh5KXNFv5wGljbS2O"
+    },
+    {
+      "album": {
         "name": "1846, derni\u00e8re ann\u00e9e \u00e0 Nohant - Chopin: Cello Sonata; Piano Works",
         "url": "https://open.spotify.com/album/3gFpVgQIJzQzBqr1uWAsHQ"
       },
@@ -792,7 +848,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 255400,
       "name": "Communion",
       "url": "https://open.spotify.com/track/2wzELGqAgBigmgI0VdkRnx"
@@ -1300,6 +1356,24 @@
       "duration_ms": 216284,
       "name": "Fr\u00fchlingsglaube (Arr. Franz Liszt)",
       "url": "https://open.spotify.com/track/6HW6aTAss1lPalzuq9go5u"
+    },
+    {
+      "album": {
+        "name": "Galaxy",
+        "url": "https://open.spotify.com/album/1Y9mn9slMJf0N35vPweEc0"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222946,
+      "name": "Galaxy",
+      "url": "https://open.spotify.com/track/1KOxdPguXunJrrBFWgqR3i"
     },
     {
       "album": {
@@ -2708,6 +2782,24 @@
       "duration_ms": 116960,
       "name": "The Lily - Piano Version",
       "url": "https://open.spotify.com/track/2ZGFYsDWwjU0BBvVAw6js9"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Earth (Geophony)",
+        "url": "https://open.spotify.com/album/3nKt5NFrSQiMuVF6XLp6ja"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238167,
+      "name": "The Poetry of Earth (Geophony)",
+      "url": "https://open.spotify.com/track/23XvBXHjDOeHv8bkSgofMR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 
 > would you like to save before closing?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,111 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,216 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 46 | [Chiltonwalk.Temp](https://open.spotify.com/track/3TT7noqVKf7mwYs9nuQ3Ei) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [.Temp](https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3) | 1:56 |
 | 47 | [missing home](https://open.spotify.com/track/1JfnrTZYpne8zr3C9alx5q) | [nineishuman](https://open.spotify.com/artist/4hjeFoILTSzoAt6p1VJJsm) | [missing home](https://open.spotify.com/album/6L2RIyM2TCXiBEGcRVhz8N) | 2:04 |
 | 48 | [A World That's Ending](https://open.spotify.com/track/4HIYZdQHMFfSxEKtukG5AY) | [datfootdive](https://open.spotify.com/artist/18vetuyfF5U3hdFX1TA0nI) | [Do you love me?](https://open.spotify.com/album/4Ub4G9wTMXothEPm3oAHsW) | 2:02 |
-| 49 | [dreamcore](https://open.spotify.com/track/6dGzyNtHjwhhHgLlRn4igt) | [Yandere](https://open.spotify.com/artist/6Lr7JHaaQ4wLOWtNmOIOcr) | [dreamcore](https://open.spotify.com/album/6MVQrtpuPCEVRTVZ2KMRSE) | 1:40 |
-| 50 | [Load/Save Game](https://open.spotify.com/track/3wGXBAh3LV2qw334Zvxxra) | [Kawai Sprite](https://open.spotify.com/artist/19nnKeOt6Vo1g0ijPcFxdu) | [Rainbow](https://open.spotify.com/album/5rlKNDzXWQwJumhrjnGLNR) | 2:20 |
+| 49 | [Load/Save Game](https://open.spotify.com/track/3wGXBAh3LV2qw334Zvxxra) | [Kawai Sprite](https://open.spotify.com/artist/19nnKeOt6Vo1g0ijPcFxdu) | [Rainbow](https://open.spotify.com/album/5rlKNDzXWQwJumhrjnGLNR) | 2:20 |
+| 50 | [dreamcore](https://open.spotify.com/track/6dGzyNtHjwhhHgLlRn4igt) | [Yandere](https://open.spotify.com/artist/6Lr7JHaaQ4wLOWtNmOIOcr) | [dreamcore](https://open.spotify.com/album/6MVQrtpuPCEVRTVZ2KMRSE) | 1:40 |
 
 Snapshot ID: `ZpGbagAAAADn0gkvqdQJZ7xZhv9vjNnx`

@@ -1,6 +1,6 @@
 {
   "description": "Get your gaming session going with this epic rap mix.",
-  "num_followers": 2105752,
+  "num_followers": 2105768,
   "original_name": "Power Gaming",
   "owner": {
     "name": "Spotify",
@@ -327,26 +327,34 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "WE DON'T TRUST YOU",
-        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+        "name": "FUTURE",
+        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
       },
       "artists": [
         {
           "name": "Future",
           "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 169840,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o"
+      "duration_ms": 204600,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 190066,
+      "name": "EARFQUAKE",
+      "url": "https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -367,22 +375,6 @@
       "duration_ms": 252262,
       "name": "family ties (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/3QFInJAm9eyaho5vBzxInN"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
-        "name": "IGOR",
-        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "EARFQUAKE",
-      "url": "https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -419,18 +411,26 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "FUTURE",
-        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
       "artists": [
         {
           "name": "Future",
           "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 204600,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
+      "duration_ms": 169840,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "Hall of Fame",
-        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 165925,
-      "name": "RAPSTAR",
-      "url": "https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 173947,
       "name": "First Class",
       "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
+        "name": "Hall of Fame",
+        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 165925,
+      "name": "RAPSTAR",
+      "url": "https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "Stoney (Deluxe)",
-        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 179613,
-      "name": "Go Flex",
-      "url": "https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
         "name": "Die Lit",
         "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
       },
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "Up 2 M\u00eb",
-        "url": "https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF"
+        "name": "Stoney (Deluxe)",
+        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
       },
       "artists": [
         {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 160052,
-      "name": "Mon\u00eby so big",
-      "url": "https://open.spotify.com/track/4Se3fXoHJkcraQzJXo2IYn"
+      "duration_ms": 179613,
+      "name": "Go Flex",
+      "url": "https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1223,6 +1207,22 @@
       "duration_ms": 190476,
       "name": "For The Night (feat. Lil Baby & DaBaby)",
       "url": "https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
+        "name": "Up 2 M\u00eb",
+        "url": "https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 160052,
+      "name": "Mon\u00eby so big",
+      "url": "https://open.spotify.com/track/4Se3fXoHJkcraQzJXo2IYn"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "Goodbye & Good Riddance",
-        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 169999,
-      "name": "Armed And Dangerous",
-      "url": "https://open.spotify.com/track/5wujBwqG7INdStqGd4tRMX"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
         "name": "AI YoungBoy 2",
         "url": "https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 148629,
       "name": "Make No Sense",
       "url": "https://open.spotify.com/track/6klLvorLoo1sxvZcjJIY8I"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
+        "name": "Goodbye & Good Riddance",
+        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 169999,
+      "name": "Armed And Dangerous",
+      "url": "https://open.spotify.com/track/5wujBwqG7INdStqGd4tRMX"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
+        "name": "Project Baby 2: All Grown Up",
+        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 169344,
+      "name": "Transportin'",
+      "url": "https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
         "name": "Perfect Ten",
         "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 180434,
       "name": "Ballin' (with Roddy Ricch)",
       "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
-        "name": "Project Baby 2: All Grown Up",
-        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 169344,
-      "name": "Transportin'",
-      "url": "https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
+        "name": "The New Toronto 3",
+        "url": "https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 132023,
+      "name": "Broke In A Minute",
+      "url": "https://open.spotify.com/track/4xqIYGwwZTEem9U8A42SPF"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
         "name": "Tell Em",
         "url": "https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ"
       },
@@ -1491,22 +1507,6 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "The New Toronto 3",
-        "url": "https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf"
-      },
-      "artists": [
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 132023,
-      "name": "Broke In A Minute",
-      "url": "https://open.spotify.com/track/4xqIYGwwZTEem9U8A42SPF"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
         "name": "Heaven Or Hell",
         "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
       },
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "True 2 Myself",
-        "url": "https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "F.N",
-      "url": "https://open.spotify.com/track/0RLLvYBopDwooCyvnTwgYu"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/5TPtlK0RBgPloK3Robfiyp"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 141505,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/2WYs5LxOZfEyURXu7V0O1a"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
+        "name": "True 2 Myself",
+        "url": "https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "F.N",
+      "url": "https://open.spotify.com/track/0RLLvYBopDwooCyvnTwgYu"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "Top Shotta",
-        "url": "https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 148759,
-      "name": "Camelot",
-      "url": "https://open.spotify.com/track/44sYqNBttbXNxya33FJ3Dj"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
         "name": "The Perfect LUV Tape",
         "url": "https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 199993,
       "name": "Erase Your Social",
       "url": "https://open.spotify.com/track/4uhvMW7ly7tJil31YYscAN"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
+        "name": "Top Shotta",
+        "url": "https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 148759,
+      "name": "Camelot",
+      "url": "https://open.spotify.com/track/44sYqNBttbXNxya33FJ3Dj"
     },
     {
       "added_at": "2024-05-02 15:06:27",

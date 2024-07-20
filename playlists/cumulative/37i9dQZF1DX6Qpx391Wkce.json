@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 413354,
       "name": "139",
       "url": "https://open.spotify.com/track/37SDsrwNEqeGTJQy0ngyJj"
@@ -863,6 +863,24 @@
     },
     {
       "album": {
+        "name": "Close Your Eyes",
+        "url": "https://open.spotify.com/album/0SNIPV29hynF7rbKrqpaN8"
+      },
+      "artists": [
+        {
+          "name": "Torsten Kanzler",
+          "url": "https://open.spotify.com/artist/6ivd3NhMvn9EIN64Q3lqik"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356470,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/2QQoVCfKeBCU64YmdMXPNy"
+    },
+    {
+      "album": {
         "name": "Generalisation (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0QCZSXbN2coY3JdASBfKj9"
       },
@@ -1186,7 +1204,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 245333,
       "name": "Delusion",
       "url": "https://open.spotify.com/track/58hCBEO44N41HOuIINSjhR"
@@ -1414,7 +1432,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 292173,
       "name": "Drum Control",
       "url": "https://open.spotify.com/track/7wkx2AEsHeNAlnMZZD3rKB"
@@ -2435,6 +2453,32 @@
     },
     {
       "album": {
+        "name": "I Am Free - (Oscar L Remix)",
+        "url": "https://open.spotify.com/album/2FHbom4z3bJGIedcshgh5s"
+      },
+      "artists": [
+        {
+          "name": "Metodi Hristov",
+          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+        },
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        },
+        {
+          "name": "Oscar L",
+          "url": "https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "I Am Free - Oscar L Remix",
+      "url": "https://open.spotify.com/track/3uxPWfCPabSiogBzsC6ZTa"
+    },
+    {
+      "album": {
         "name": "Golden Pills",
         "url": "https://open.spotify.com/album/4FGHlOMlDAwr0F8MdQ2Z0H"
       },
@@ -2788,6 +2832,46 @@
       "duration_ms": 380227,
       "name": "Late Phase - Clap Codex & Sabura Remix",
       "url": "https://open.spotify.com/track/2j485sySIwYjZEFG6zStaP"
+    },
+    {
+      "album": {
+        "name": "Latin Lovers (Joyhauser Remix)",
+        "url": "https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9"
+      },
+      "artists": [
+        {
+          "name": "Monika Kruse",
+          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226086,
+      "name": "Latin Lovers - 2004 Version Edit",
+      "url": "https://open.spotify.com/track/6PKP4qXzVPztw65EHeLS4F"
+    },
+    {
+      "album": {
+        "name": "Latin Lovers (Joyhauser Remix)",
+        "url": "https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9"
+      },
+      "artists": [
+        {
+          "name": "Monika Kruse",
+          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
+        },
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275394,
+      "name": "Latin Lovers - Joyhauser Remix",
+      "url": "https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe"
     },
     {
       "album": {
@@ -3876,7 +3960,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 228479,
       "name": "One Love - Nick Curly Remix [2023 Edit]",
       "url": "https://open.spotify.com/track/33kXRY2IXNhfxGlmUiECkp"
@@ -4876,7 +4960,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 261176,
       "name": "Silver Spark",
       "url": "https://open.spotify.com/track/2oMMOQL2NiNC97TEDmyjMk"
@@ -5386,7 +5470,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 396992,
       "name": "Take Your Mind",
       "url": "https://open.spotify.com/track/5vco8a9dSl1kHGBYg9v7Ih"
@@ -5647,6 +5731,24 @@
     },
     {
       "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/5T9LjGcaNFIswRQ1A9r3If"
+      },
+      "artists": [
+        {
+          "name": "Mario Ochoa",
+          "url": "https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238235,
+      "name": "The Journey",
+      "url": "https://open.spotify.com/track/6Gk345Dous0EUpKctZSOb0"
+    },
+    {
+      "album": {
         "name": "Personal Liberation Ep",
         "url": "https://open.spotify.com/album/1EXAddUfleh6mXrTKNxgAS"
       },
@@ -5676,7 +5778,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 250909,
       "name": "The Leap",
       "url": "https://open.spotify.com/track/0thFFZ6ZxGK6U3elZZFz4u"
@@ -6064,7 +6166,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 374117,
       "name": "Valkyrie",
       "url": "https://open.spotify.com/track/2UDT13DlwtzFYpc668cdx0"
@@ -6338,7 +6440,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 179029,
       "name": "WILD ELECTRIC - Gregor Tresher Radio Edit",
       "url": "https://open.spotify.com/track/7iwjufaEbssvRvLHcp6hZM"

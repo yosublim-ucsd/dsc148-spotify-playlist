@@ -4,7 +4,7 @@
 
 > The home of Australian music\. Cover: Royel Otis
 
-81 songs - 4 hr 21 min
+82 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Breakup](https://open.spotify.com/track/0Fts3iBGy196UIxlHC9ZqS) | [Ashton Irwin](https://open.spotify.com/artist/3zOKGDS77tYdGFQ6UJMC4E) | [BLOOD ON THE DRUMS \(The Thorns\)](https://open.spotify.com/album/4GOETHIJEzUKybjE6aywCa) | 3:09 | 2024-06-13 |  |
 | [Claw Foot](https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE) | 2:46 | 2024-05-31 |  |
 | [Cold Treatment](https://open.spotify.com/track/7ag9DNGZ1CYexgaPdecBtO) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Cold Treatment](https://open.spotify.com/album/4hXJKq0BF3Du9akLvNCptZ) | 3:47 | 2024-06-06 |  |
+| [Crystal Ball](https://open.spotify.com/track/5nr1Ndcw55fBJ002iTUJVJ) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Crystal Ball](https://open.spotify.com/album/19smqXXtyEGibAtZX7clTy) | 2:53 | 2024-07-11 |  |
 | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/track/4rainsOvZId6i9i9Ssl6Hb) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec), [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/album/3bAFWQJ9npu4hqjxkpDRYN) | 2:51 | 2024-05-31 |  |
 | [Daydreaming](https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Daydreaming](https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz) | 3:03 | 2024-05-31 |  |
 | [Do You Want Me](https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Do You Want Me](https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI) | 4:32 | 2024-05-31 |  |
@@ -61,7 +62,7 @@
 | [Pedestal](https://open.spotify.com/track/6lKaiRbX5DtGMGNvE4xRbx) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Pedestal](https://open.spotify.com/album/3wkV84YZxNsqZ0CUZkKAdj) | 4:21 | 2024-05-31 |  |
 | [Physical Medicine](https://open.spotify.com/track/04PlB7eNOehCCAf4Mdfx62) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Physical Medicine](https://open.spotify.com/album/7vhgCsaORnzwuw1c4neLoO) | 3:35 | 2024-07-04 |  |
 | [Rush \(feat\. PinkPantheress & Hyunjin of Stray Kids\)](https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Hyunjin](https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg) | [Rush \(feat\. PinkPantheress & Hyunjin of Stray Kids\)](https://open.spotify.com/album/3D5NnN6OYVFfBYGOWQ78Ns) | 2:52 | 2024-05-31 |  |
-| [Safety Pin](https://open.spotify.com/track/40PpXqN7v1Fsa3epSOjCQp) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Safety Pin](https://open.spotify.com/album/4W0qgDWnfpdSkfDkWrGl8C) | 2:18 | 2024-05-31 |  |
+| [Safety Pin](https://open.spotify.com/track/40PpXqN7v1Fsa3epSOjCQp) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Safety Pin](https://open.spotify.com/album/4W0qgDWnfpdSkfDkWrGl8C) | 2:18 | 2024-05-31 | 2024-07-20 |
 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 | 2024-05-31 |  |
 | [Scary Movies](https://open.spotify.com/track/4hoEpxUAvw2tn8Octl8812) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Scary Movies](https://open.spotify.com/album/5UItYWGjmw86QPdAKdAWur) | 3:15 | 2024-05-31 |  |
 | [Shooting Star](https://open.spotify.com/track/2qYVrnuPTVaZGuTxkzW4ow) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Shooting Star](https://open.spotify.com/album/3vXZeXvMBIgqEQaPeQ57f0) | 2:26 | 2024-05-31 | 2024-07-12 |

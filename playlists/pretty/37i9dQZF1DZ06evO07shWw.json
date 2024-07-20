@@ -1,29 +1,13 @@
 {
   "description": "This is Ingrid Andress. The essential tracks, all in one playlist.",
-  "num_followers": 8483,
+  "num_followers": 8502,
   "original_name": "This Is Ingrid Andress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAABALjzE+FfJ2Lgkz1cJUFP8",
+  "snapshot_id": "ZphbAAAAAABWu27EIVo5X5OmyYqomhVy",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lady Like",
-        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 214786,
-      "name": "More Hearts Than Mine",
-      "url": "https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl"
-    },
     {
       "added_at": null,
       "album": {
@@ -47,6 +31,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wishful Drinking (with Sam Hunt)",
+        "url": "https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        },
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 194544,
+      "name": "Wishful Drinking (with Sam Hunt)",
+      "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Person",
         "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
       },
@@ -63,22 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waste of Lime",
-        "url": "https://open.spotify.com/album/3gGqLSlnwFU6mBJ7WG4D3B"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "Waste of Lime",
-      "url": "https://open.spotify.com/track/5KNQ5MHkfr1Nc9TW8ht9tO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lady Like",
         "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
       },
@@ -91,6 +79,22 @@
       "duration_ms": 194786,
       "name": "Lady Like",
       "url": "https://open.spotify.com/track/7c3Y6INQrmNXDAOquinyw4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waste of Lime",
+        "url": "https://open.spotify.com/album/3gGqLSlnwFU6mBJ7WG4D3B"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "Waste of Lime",
+      "url": "https://open.spotify.com/track/5KNQ5MHkfr1Nc9TW8ht9tO"
     },
     {
       "added_at": null,
@@ -311,26 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        },
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "On Fire (Ingrid Andress Version)",
-      "url": "https://open.spotify.com/track/3wcSCQ0ukXVpSzHjILHlGZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Person (Deluxe)",
         "url": "https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I"
       },
@@ -347,6 +331,26 @@
       "duration_ms": 206760,
       "name": "Runnin (with JP Saxe)",
       "url": "https://open.spotify.com/track/2SaQRVlA0qJNvV8CQxX7AX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        },
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "On Fire (Ingrid Andress Version)",
+      "url": "https://open.spotify.com/track/3wcSCQ0ukXVpSzHjILHlGZ"
     },
     {
       "added_at": null,
@@ -376,9 +380,9 @@
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 212435,
-      "name": "Yearbook",
-      "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
+      "duration_ms": 174034,
+      "name": "How Honest Do You Want Me To Be?",
+      "url": "https://open.spotify.com/track/2Dn3Td3UlFQmo1bJmEyq68"
     },
     {
       "added_at": null,
@@ -440,25 +444,9 @@
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 174034,
-      "name": "How Honest Do You Want Me To Be?",
-      "url": "https://open.spotify.com/track/2Dn3Td3UlFQmo1bJmEyq68"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 174557,
-      "name": "Good Person",
-      "url": "https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V"
+      "duration_ms": 212435,
+      "name": "Yearbook",
+      "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
     },
     {
       "added_at": null,
@@ -499,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lady Like",
+        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "Anything But Love",
+      "url": "https://open.spotify.com/track/2On00qNEMTIGxOGKYHS6r2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Person",
         "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
       },
@@ -515,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lady Like (Deluxe)",
-        "url": "https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 163706,
-      "name": "Boys",
-      "url": "https://open.spotify.com/track/7vO6jY3bzXEMA5pPL3VRYT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Person (Deluxe)",
         "url": "https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I"
       },
@@ -543,6 +531,22 @@
       "duration_ms": 258827,
       "name": "Wish You Would",
       "url": "https://open.spotify.com/track/7lYLGVuVHQBfuaElYAqPpD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lady Like (Deluxe)",
+        "url": "https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 163706,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/7vO6jY3bzXEMA5pPL3VRYT"
     },
     {
       "added_at": null,

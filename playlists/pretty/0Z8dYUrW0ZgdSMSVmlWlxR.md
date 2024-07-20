@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-[ig @godmodearc](https://open.spotify.com/user/shihu) - 53,404 likes - 238 songs - 11 hr 40 min
+[ig @godmodearc](https://open.spotify.com/user/shihu) - 53,398 likes - 238 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 | 47 | [MURDER ON MY MIND](https://open.spotify.com/track/5fF1q5LQZ0J1rY1yJg6Ylv) | [NERGRISEN](https://open.spotify.com/artist/2xV1MUT3marCrYRA6Vuywh), [Soberdoze](https://open.spotify.com/artist/6DOpVN4jzNKkFS1x99KRNr) | [MURDER ON MY MIND](https://open.spotify.com/album/2b11wAMXAg4HuP0qLXEbbB) | 2:15 |
 | 48 | [FALLEN ANGEL](https://open.spotify.com/track/07scaBiqkrzXodZ7fJYErV) | [odneme](https://open.spotify.com/artist/3ltZJnCKsDyBdQGbPTyBnM) | [FALLEN ANGEL](https://open.spotify.com/album/0ezWogMlYPR5VXwtYEDhgK) | 2:48 |
 | 49 | [1997](https://open.spotify.com/track/3QZhjT2V5ccBS9CVwUCRHP) | [odneme](https://open.spotify.com/artist/3ltZJnCKsDyBdQGbPTyBnM) | [1997](https://open.spotify.com/album/5Q0NRn9gJgRaPavNyjM8D6) | 2:11 |
-| 50 | [Apaonye Asolsin \- Hardstyle Remix](https://open.spotify.com/track/6qFHexlcrU7vFaI0DaNCO5) | [Tooz](https://open.spotify.com/artist/4CxFjw8gtxkYR5LKv3a6kN), [visioner.](https://open.spotify.com/artist/5CtxnpzYVtlwYM3JeO06tL) | [Apaonye Asolsin](https://open.spotify.com/album/4Y8q9lNTJDM9fEcQGL14Yy) | 2:06 |
+| 50 | [Apaonye Asolsin \- Hardstyle Remix](https://open.spotify.com/track/6qFHexlcrU7vFaI0DaNCO5) | [Tooz](https://open.spotify.com/artist/4CxFjw8gtxkYR5LKv3a6kN) | [Apaonye Asolsin](https://open.spotify.com/album/4Y8q9lNTJDM9fEcQGL14Yy) | 2:06 |
 | 51 | [STAY A LITTLE WHILE \- Remastered](https://open.spotify.com/track/37wZ8DvKdV6mPqMR00o0kw) | [Tooz](https://open.spotify.com/artist/4CxFjw8gtxkYR5LKv3a6kN) | [STAY A LITTLE WHILE 2.0](https://open.spotify.com/album/4Sby22NxLRVwU1jsOzkjuu) | 3:01 |
 | 52 | [Lost Souls](https://open.spotify.com/track/1HLmCdpRN0He8Fuk35Zs2c) | [Mission One](https://open.spotify.com/artist/3D7skYTaenS1rRN6zCjYOa), [Raym](https://open.spotify.com/artist/3LSB4Iikob9iFXRShz5hoH) | [Lost Souls](https://open.spotify.com/album/7JJx3IvqHGm80wnPDmecJo) | 3:44 |
 | 53 | [Shabaka](https://open.spotify.com/track/7aRrutFDl2GoKfza5lKdWn) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c), [Sickddellz](https://open.spotify.com/artist/7wbCwmaAe2U6NoBrWBfeTz) | [Shabaka](https://open.spotify.com/album/4XXN6IT7ZXInO3jA3nFhSL) | 3:33 |

@@ -1,6 +1,6 @@
 {
   "description": "Las m\u00e1s bichotas de la escena featuring Aura BAE.",
-  "num_followers": 34624,
+  "num_followers": 34632,
   "original_name": "EQUAL Urbano",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,38 @@
     {
       "added_at": "2024-03-07 19:42:39",
       "album": {
+        "name": "La Torta",
+        "url": "https://open.spotify.com/album/1uJIQzUMOVmc2RO6blgzRA"
+      },
+      "artists": [
+        {
+          "name": "FARIANA",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        }
+      ],
+      "duration_ms": 170589,
+      "name": "La Torta",
+      "url": "https://open.spotify.com/track/2EVnhDu1nfDNrr74OJpf1e"
+    },
+    {
+      "added_at": "2024-03-07 19:42:39",
+      "album": {
+        "name": "Felices x Siempre",
+        "url": "https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 199656,
+      "name": "Felices x Siempre",
+      "url": "https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn"
+    },
+    {
+      "added_at": "2024-03-07 19:42:39",
+      "album": {
         "name": "Pasajero",
         "url": "https://open.spotify.com/album/6Pg8TU5UxCuINCTWTZbmZa"
       },
@@ -863,22 +895,6 @@
     {
       "added_at": "2024-03-07 19:42:39",
       "album": {
-        "name": "Felices x Siempre",
-        "url": "https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 199656,
-      "name": "Felices x Siempre",
-      "url": "https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn"
-    },
-    {
-      "added_at": "2024-03-07 19:42:39",
-      "album": {
         "name": "Parte de M\u00ed",
         "url": "https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 179966,
       "name": "Colocao",
       "url": "https://open.spotify.com/track/3hGtjSJQ76HkWzeUkekKGY"
-    },
-    {
-      "added_at": "2024-03-07 19:42:39",
-      "album": {
-        "name": "La Torta",
-        "url": "https://open.spotify.com/album/1uJIQzUMOVmc2RO6blgzRA"
-      },
-      "artists": [
-        {
-          "name": "FARIANA",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
-        }
-      ],
-      "duration_ms": 170589,
-      "name": "La Torta",
-      "url": "https://open.spotify.com/track/2EVnhDu1nfDNrr74OJpf1e"
     },
     {
       "added_at": "2024-03-07 19:42:39",

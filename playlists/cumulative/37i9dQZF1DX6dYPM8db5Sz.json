@@ -13639,6 +13639,24 @@
     },
     {
       "album": {
+        "name": "Vintage Style",
+        "url": "https://open.spotify.com/album/4SKZmpfoYIRPvrBUNbgNXC"
+      },
+      "artists": [
+        {
+          "name": "Zach Leopard",
+          "url": "https://open.spotify.com/artist/32BTikkFQuadVcD1LHVgWd"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153802,
+      "name": "Vintage Style",
+      "url": "https://open.spotify.com/track/7wYVpRWtrZ4pTIioaGID2R"
+    },
+    {
+      "album": {
         "name": "Vitamin D",
         "url": "https://open.spotify.com/album/4sFSVAu6lPn5clc1izlKDE"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-31",
-  "description": "This is Ghost. The essential tracks, all in one playlist.",
+  "description": "This Is Ghost. Los temas esenciales, todos en una lista.",
   "name": "This Is Ghost",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 284266,
       "name": "Call Me Little Sunshine",
       "url": "https://open.spotify.com/track/4xAmbn7xiy6wGOs4oaxv70"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 219720,
       "name": "Dance Macabre",
       "url": "https://open.spotify.com/track/4pIKFpwflOdhYNIRmPTj3E"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 253173,
       "name": "He Is",
       "url": "https://open.spotify.com/track/6NFKy0jg3S6x380iuF47jX"
@@ -736,7 +736,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 317800,
       "name": "Miasma",
       "url": "https://open.spotify.com/track/2YQtAJisZ4oXd3qVK6CyEA"
@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 226333,
       "name": "Twenties",
       "url": "https://open.spotify.com/track/3nae2T5GQuCVugpECx98K9"

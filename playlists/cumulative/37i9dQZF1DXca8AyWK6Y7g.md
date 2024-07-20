@@ -4,7 +4,7 @@
 
 > your new favorite girl group just dropped 📸 Blusher
 
-2,126 songs - 4 day 10 hr 58 min
+2,127 songs - 4 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -633,7 +633,7 @@
 | [FEMININE RAGE](https://open.spotify.com/track/08iDzwXKP72XYGnjXLSwW2) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [DEAR READER](https://open.spotify.com/album/1JsRmuktjMsrdolUuZ5UMp) | 2:27 | 2024-04-26 |  |
 | [Feverbreak \- Basenji Remix](https://open.spotify.com/track/1nu21EDKSGoLcITwVnxcTL) | [Odette](https://open.spotify.com/artist/1iQVsRr2JalWIOLQa4T7O6), [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u), [Basenji](https://open.spotify.com/artist/4FH1qQ5KcTtomryu4O5pgX) | [Feverbreak \(Basenji Remix\)](https://open.spotify.com/album/7vMFRuXX3UI0JLG77cREuR) | 3:54 | 2021-02-26 | 2021-10-14 |
 | [Figure It Out](https://open.spotify.com/track/5G5qyRHlLmZgy915TBTCkB) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Figure It Out](https://open.spotify.com/album/2Hnlavdkpy4vZhva8VsTfq) | 2:44 | 2021-02-23 | 2022-01-04 |
-| [Figure You Out](https://open.spotify.com/track/2yv7z2i0N0ItdmOHgxTPtW) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Figure You Out](https://open.spotify.com/album/0Qyf9iXdQCMuzWj2yxZKGZ) | 3:29 | 2023-09-01 |  |
+| [Figure You Out](https://open.spotify.com/track/2yv7z2i0N0ItdmOHgxTPtW) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Figure You Out](https://open.spotify.com/album/0Qyf9iXdQCMuzWj2yxZKGZ) | 3:29 | 2023-09-01 | 2024-07-20 |
 | [Find](https://open.spotify.com/track/49ex5tTzAH1XMbzWUv0AEQ) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Cody Lovaas](https://open.spotify.com/artist/7fWrZ2q4fGZAnuCPfgSU52) | [Find](https://open.spotify.com/album/6oM9lQGrxXasipni3i4skG) | 3:39 | 2019-05-26\* | 2019-08-13 |
 | [Fine By Me](https://open.spotify.com/track/214eImoHDFo0vb3WL2Amk4) | [morgen](https://open.spotify.com/artist/6jadsn0j1QjrlJTMiaUJYF) | [Fine By Me](https://open.spotify.com/album/0M5snw5pGGynwHrxwJBtwn) | 2:29 | 2021-11-26 | 2022-01-29 |
 | [Fire Escape](https://open.spotify.com/track/6dLuZg4jYj6IhvxyypY1sc) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Fire Escape](https://open.spotify.com/album/2VMM7Zc5cSMP6l02uUcBcE) | 3:01 | 2023-05-05 | 2023-06-09 |
@@ -1046,6 +1046,7 @@
 | [Just Wanna Be Your Friend](https://open.spotify.com/track/1pvEF9QEuLwjXlcnYYml54) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Just Wanna Be Your Friend](https://open.spotify.com/album/37yp4T6Gtrf4JzTcwNbKnA) | 2:27 | 2020-05-03 | 2021-11-09 |
 | [Just Wanna Dance](https://open.spotify.com/track/2VV3BBZDSmj8EHqcepmjYp) | [CLARA\-NOVA](https://open.spotify.com/artist/3iw0Q7UFkSlOfZGj6YaFEv), [Geographer](https://open.spotify.com/artist/5vvvgOwPjA4R5t07ZXLLwZ), [The Guest and the Host](https://open.spotify.com/artist/5btUhGNTcEvv2W2NcsKndH) | [Just Wanna Dance](https://open.spotify.com/album/6yyfwZlKwsZNhbHLntynqD) | 3:30 | 2019-06-27 | 2019-08-13 |
 | [K.O.](https://open.spotify.com/track/0SbcrlSSBXJUnm1cT4E4GQ) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [K.O.](https://open.spotify.com/album/0keyZeyshU2953FCfoQAq3) | 2:08 | 2024-06-07 |  |
+| [KANSAS](https://open.spotify.com/track/0MTTVpvGuNHEZMFU5UQ2y6) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [KANSAS](https://open.spotify.com/album/2FP92TJw2nTs1FsPFHXQC6) | 3:01 | 2024-07-19 |  |
 | [Keep Moving](https://open.spotify.com/track/5cHRRQ4JYlMW04DrwuG03b) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/65EO9bzFMe8Psq1nrR3938) | 4:00 | 2021-04-27 | 2021-10-16 |
 | [Keeping Tabs](https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 2:57 | 2022-08-12 | 2022-09-24 |
 | [Kickin' Pushin'](https://open.spotify.com/track/4MWfwCswUIFo3x8s0fnK3x) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Kickin' Pushin'](https://open.spotify.com/album/3MKQElN0QJEs99niBAR3P2) | 3:15 | 2020-05-10 | 2021-08-25 |

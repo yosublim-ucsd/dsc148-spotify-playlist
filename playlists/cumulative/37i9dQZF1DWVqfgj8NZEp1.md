@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-317 songs - 1 day 5 hr 9 min
+318 songs - 1 day 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [So in Love](https://open.spotify.com/track/1Kez08abn4yr3T7hbCeW3i) | [Nestor Torres](https://open.spotify.com/artist/25z14Qw0e8uN0dIaWVe2Mk) | [Jazz Flute Traditions](https://open.spotify.com/album/3zSMrISTkz9nnCwzn7VNAT) | 8:25 | 2020-10-09 | 2022-02-18 |
 | [So Lovely](https://open.spotify.com/track/0Ya7lMXJGmETT1G3bW0uX2) | [Ben Wolfe](https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC) | [From Here I See](https://open.spotify.com/album/2zmbP9vz9Bwx1SCHgkPzTc) | 5:40 | 2020-10-09 | 2022-12-06 |
 | [So They Say](https://open.spotify.com/track/4689TAqR9n79nptG04RV9c) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [So They Say](https://open.spotify.com/album/2Q3YVXtFCxn0LvdvVak5yg) | 3:57 | 2023-06-01 |  |
+| [Solitude](https://open.spotify.com/track/6arlOMZlYZZffIyRh3brB8) | [Ari Bragi Kárason](https://open.spotify.com/artist/14dnPD91TVkTNQ09DDXkDW), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Solitude](https://open.spotify.com/album/6dg81LClJnOYRrxsQMKrw3) | 3:18 | 2024-07-19 |  |
 | [Solitude](https://open.spotify.com/track/5GSriSRLRA71Td2F3CR1Ni) | [Daniel Guggenheim Quartet](https://open.spotify.com/artist/53A1C9v3RTzKNSmrRshqJt) | [Red Orange and Blue](https://open.spotify.com/album/16ocAEwSksKkzTKkc76OjA) | 7:12 | 2022-05-26 | 2022-06-22 |
 | [Sometimes It Snows in April](https://open.spotify.com/track/1hbmJ6JjAVMEUtcT0l5wrd) | [David Halliday](https://open.spotify.com/artist/1tPE7mBsjG1eu2w2BikKry) | [Sometimes It Snows in April](https://open.spotify.com/album/12OuGKWyIlWqFVHInfPp9D) | 9:49 | 2021-04-30 | 2022-02-18 |
 | [Sometimes It Snows In April](https://open.spotify.com/track/4o7cuGElwNfemVOs49Ye4b) | [Julia Hülsmann Quartet](https://open.spotify.com/artist/4F07h7WrleCZq4b6YLlBrd) | [The Next Door](https://open.spotify.com/album/0nHbsspbfUrQvpR5XcGZsL) | 3:59 | 2023-05-11 |  |
@@ -269,7 +270,7 @@
 | [That's All](https://open.spotify.com/track/0d43eTmA0tQP9ortsZQ9hN) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Presenting Jimmy Forrest](https://open.spotify.com/album/3PKLsD2Wne8PaE68ILMgPv) | 4:53 | 2022-06-30 | 2024-04-19 |
 | [The Autumn Gate](https://open.spotify.com/track/0vMPNdJjZqOpj5yhcSGXgT) | [Tim Garland](https://open.spotify.com/artist/7atdKYaPCT9zvJW2OTedhz) | [The Autumn Gate](https://open.spotify.com/album/4iifCLubKvL05e8HTCl8v1) | 4:21 | 2020-10-09 | 2022-03-11 |
 | [The Folks Who Live on the Hill](https://open.spotify.com/track/2sZ1zWeLaquu9tx8IUMuh7) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Walking Shadows](https://open.spotify.com/album/08xTgvpiNHqGDdCEAagA4B) | 4:00 | 2020-10-09 | 2022-02-18 |
-| [The Great Belonging](https://open.spotify.com/track/2b908yzXY8uzaD4gMDcc8G) | [Thomas Agergaard](https://open.spotify.com/artist/7nO0nJPGNCS2JIL91ifpJ8), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Lennart Ginman](https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX), [Anders Kjellberg](https://open.spotify.com/artist/0D3y6CpkVuUv11mosURP98) | [The Great Belonging](https://open.spotify.com/album/0IhSJ4CocuulbqMyhGIbIB) | 6:11 | 2021-05-14 |  |
+| [The Great Belonging](https://open.spotify.com/track/2b908yzXY8uzaD4gMDcc8G) | [Thomas Agergaard](https://open.spotify.com/artist/7nO0nJPGNCS2JIL91ifpJ8), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Lennart Ginman](https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX), [Anders Kjellberg](https://open.spotify.com/artist/0D3y6CpkVuUv11mosURP98) | [The Great Belonging](https://open.spotify.com/album/0IhSJ4CocuulbqMyhGIbIB) | 6:11 | 2021-05-14 | 2024-07-20 |
 | [The Last Goodbye](https://open.spotify.com/track/1Ws0kMatfMjIrvEIsApikx) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Payton's Place](https://open.spotify.com/album/39QtAUOz9j6njrET8s4GwJ) | 5:25 | 2020-10-09 | 2022-07-29 |
 | [The Last Goodbye](https://open.spotify.com/track/5AuLuhe6LXvVod82HxJtXO) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Payton's Place](https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB) | 5:25 | 2022-06-30 | 2023-10-04 |
 | [The Last Goodbye](https://open.spotify.com/track/6asSD4BK2rC5sPGQaueX6N) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Smooth Jazz Songs](https://open.spotify.com/album/0mKS4DN5IKCH9LPcBPhzES) | 5:25 | 2022-11-10 | 2022-11-13 |
@@ -320,7 +321,7 @@
 | [Who Could Care?](https://open.spotify.com/track/2TdqT2IBlGFxP8c3AeoX4K) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Jazz Sax Festival](https://open.spotify.com/album/2RdHPLOMOLhGkCG7mTG7Io) | 4:46 | 2022-11-10 | 2022-11-13 |
 | [Why Did I Choose You](https://open.spotify.com/track/5KT7qJe8KOoafHAkUFWmRd) | [Houston Person](https://open.spotify.com/artist/16Xx0WCnAKOA9mwPPSUJmr) | [Reminiscing at Rudy's](https://open.spotify.com/album/3Fh49WPCX4Xq6fbbSHw0b4) | 4:12 | 2022-11-17 |  |
 | [Why Was I Born](https://open.spotify.com/track/7a3aOIigjCBXW34Q1w6gvk) | [John Lee](https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN) | [Second Wind](https://open.spotify.com/album/5246UsnGsn1Q1i15dhLzvy) | 4:48 | 2024-07-05 |  |
-| [Woodwind](https://open.spotify.com/track/0g1TBY3JUXO8fGD2iI1CM7) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [Woodwind](https://open.spotify.com/album/5JwbjlP5BpJ7LouNT6tNxU) | 5:20 | 2022-10-06 |  |
+| [Woodwind](https://open.spotify.com/track/0g1TBY3JUXO8fGD2iI1CM7) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [Woodwind](https://open.spotify.com/album/5JwbjlP5BpJ7LouNT6tNxU) | 5:20 | 2022-10-06 | 2024-07-20 |
 | [Yesteryear](https://open.spotify.com/track/2qbPX1fQUyknyc7cZw2L8W) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Yesteryear](https://open.spotify.com/album/5XqLTTwrDqietv4GjKIXuD) | 4:19 | 2023-02-16 |  |
 | [You Go To My Head](https://open.spotify.com/track/4ymHy4hzJ09WxvvT7p0Azy) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [The Return Of Art Pepper](https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT) | 4:18 | 2020-10-09 | 2023-09-07 |
 | [You Know I Care](https://open.spotify.com/track/3mdmA5e62x4CEXVIUZ2S92) | [Ian Buss](https://open.spotify.com/artist/2lFzhpbs0F8gwsJycYjWsa) | [You Know I Care](https://open.spotify.com/album/4YydQ4MLcVZZLE9deKSQka) | 6:27 | 2023-02-16 | 2023-06-15 |

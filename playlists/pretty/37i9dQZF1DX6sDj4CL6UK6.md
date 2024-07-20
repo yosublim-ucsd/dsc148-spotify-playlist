@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > Top English songs from Asia\. Cover: Prateek Kuhad
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,962 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,968 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 66 | [To summer didn’t shine for us](https://open.spotify.com/track/3Slem59fCLqnreAqQxu23l) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [To summer didn’t shine for us](https://open.spotify.com/album/6V9lhpcM3w24zcjJfeVNX9) | 2:59 |
 | 67 | [Walk Away](https://open.spotify.com/track/1gY0QBMjHNX8z8b324VQI9) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Walk Away](https://open.spotify.com/album/0wBxQTwnPhw1HgGkaI4Op0) | 4:32 |
 | 68 | [Because Because Because](https://open.spotify.com/track/3Ke8cQwRISvXEXXvHou7Rv) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Because Because Because](https://open.spotify.com/album/5nRXba9Mx7yK0FqrwneBvY) | 3:58 |
-| 69 | [Never Too Far](https://open.spotify.com/track/22oPuQf99VwEEfaaSYxeSM) | [The Revisit Project](https://open.spotify.com/artist/2yBkLqum2uhfESXbRF9eD9) | [Never Too Far](https://open.spotify.com/album/1QIaH463YykeWPEXofTY9V) | 5:50 |
+| 69 | [Maybe Tomorrow](https://open.spotify.com/track/2AuCCfMVTPtMS023qXYGlB) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [The Hills Know Of You](https://open.spotify.com/album/0oJkrsCaWMPcAOhMd1f0Xn) | 2:50 |
 | 70 | [As I'm Getting Older](https://open.spotify.com/track/1BwO9XLe7M3Qc4wrZ69wk9) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [As I'm Getting Older](https://open.spotify.com/album/4KzZtZPmRN1YfdIWczXFb7) | 3:33 |
-| 71 | [Maybe Tomorrow](https://open.spotify.com/track/2AuCCfMVTPtMS023qXYGlB) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [The Hills Know Of You](https://open.spotify.com/album/0oJkrsCaWMPcAOhMd1f0Xn) | 2:50 |
+| 71 | [Never Too Far](https://open.spotify.com/track/22oPuQf99VwEEfaaSYxeSM) | [The Revisit Project](https://open.spotify.com/artist/2yBkLqum2uhfESXbRF9eD9) | [Never Too Far](https://open.spotify.com/album/1QIaH463YykeWPEXofTY9V) | 5:50 |
 | 72 | [Lt Dwn](https://open.spotify.com/track/4f1spv2bssB5VP9VGgzH1i) | [Moondrip](https://open.spotify.com/artist/4nDtB3eC5cOCiA27wYqDTh) | [Lt Dwn](https://open.spotify.com/album/5ldsw3j4SYLuTmtc4jLWGm) | 4:07 |
 | 73 | [Hold Me](https://open.spotify.com/track/0Ln54jTpgtQL7R1FeK70fP) | [Ditty](https://open.spotify.com/artist/0oUsTn1Xs1BCHlRw1RGD7R) | [Hold Me](https://open.spotify.com/album/0Eg6kYUGniNTOb59oTofPO) | 4:41 |
 | 74 | [Gimme Love](https://open.spotify.com/track/4Lrj5gedGK2BoHYlmIQSjd) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Gimme Love](https://open.spotify.com/album/2cfnjv71Pf1Nc9LbNzc5UB) | 3:07 |

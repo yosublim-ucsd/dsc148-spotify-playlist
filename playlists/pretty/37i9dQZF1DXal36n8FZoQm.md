@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 
 > It's time to return to the dojo\. Listen to all the music from Cobra Kai, new season coming soon to Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,705 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,892 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 43 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 |
 | 44 | [Shirts Off](https://open.spotify.com/track/1sjrA6EXjzZApgTRUZgndu) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 4, Vol\. 1 "All Valley Tournament 51" \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2ORE6f4jS4dLKvk9VA6oDl) | 1:59 |
 | 45 | [Girls, Girls, Girls](https://open.spotify.com/track/5xLyTbCFONUGUuG0LtUxjn) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls](https://open.spotify.com/album/0Tnve4bDxyiBCRaj03qO8z) | 4:30 |
-| 46 | [Sirius](https://open.spotify.com/track/4OV0sRTFrZLXaZZ1sS9hLn) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Eye In The Sky \(Expanded Edition\)](https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr) | 1:55 |
-| 47 | [Young Hearts](https://open.spotify.com/track/7mmK2PxF4JJugHebLYwBQf) | [Commuter](https://open.spotify.com/artist/3QyL66KqAuPAlSSF3PkEYk) | [The Karate Kid: The Original Motion Picture Soundtrack](https://open.spotify.com/album/1zNIDZncmWNpb1WkyfRPdH) | 3:37 |
-| 48 | [I Want It All](https://open.spotify.com/track/0GQo5VkiurD6HnVpaCNeMf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle](https://open.spotify.com/album/1v5l2sZRE5Rweew5PoNFP9) | 4:32 |
-| 49 | [The Moment Of The Truth](https://open.spotify.com/track/0r02aCNepGuuVHQfG0v1jB) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [The Karate Kid: The Original Motion Picture Soundtrack](https://open.spotify.com/album/1zNIDZncmWNpb1WkyfRPdH) | 3:44 |
-| 50 | [We're Not Gonna Take It](https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 3:39 |
+| 46 | [Young Hearts](https://open.spotify.com/track/7mmK2PxF4JJugHebLYwBQf) | [Commuter](https://open.spotify.com/artist/3QyL66KqAuPAlSSF3PkEYk) | [The Karate Kid: The Original Motion Picture Soundtrack](https://open.spotify.com/album/1zNIDZncmWNpb1WkyfRPdH) | 3:37 |
+| 47 | [I Want It All](https://open.spotify.com/track/0GQo5VkiurD6HnVpaCNeMf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle](https://open.spotify.com/album/1v5l2sZRE5Rweew5PoNFP9) | 4:32 |
+| 48 | [The Moment Of The Truth](https://open.spotify.com/track/0r02aCNepGuuVHQfG0v1jB) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [The Karate Kid: The Original Motion Picture Soundtrack](https://open.spotify.com/album/1zNIDZncmWNpb1WkyfRPdH) | 3:44 |
+| 49 | [We're Not Gonna Take It](https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 3:39 |
+| 50 | [Heart of the Cobra](https://open.spotify.com/track/4cHyjLxnoiHsn1mcSxWALI) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 6, Part 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/3FCqUcqiJXJbhHCKIkxh3o) | 4:14 |
 
-Snapshot ID: `Zpli3gAAAAC1/hPuQKtlcYUgmZZDS2qG`
+Snapshot ID: `ZprmKwAAAABAftme2EQTacDE4EoUMnEi`

@@ -2,7 +2,7 @@
 
 ### [This Is Jão](https://open.spotify.com/playlist/37i9dQZF1DZ06evO31S3Vp)
 
-> This Is Jão\. Todas as faixas essenciais numa única playlist.
+> This is: Jão\. Alle wichtigen Tracks in einer Playlist.
 
 48 songs - 2 hr 32 min
 
@@ -25,18 +25,18 @@
 | [Escorpião](https://open.spotify.com/track/4UStL1GSBg8uThwygAz7Ao) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 2:28 | 2023-10-10 |  |
 | [Essa Eu Fiz Pro Nosso Amor](https://open.spotify.com/track/4JwwAxvprUGhrecdjSjfHN) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 3:14 | 2023-10-10 |  |
 | [Eu Quero Ser Como Você](https://open.spotify.com/track/3XbqMexOs4oiE9n6ATZ35K) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 3:09 | 2024-05-12 |  |
-| [Fim Do Mundo](https://open.spotify.com/track/3HN4PPMtJP0dEXqxvQgvJG) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS \(Deluxe\)](https://open.spotify.com/album/4nvIgrse8yWtDgx2442N8n) | 3:46 | 2023-10-10 | 2024-06-14 |
-| [fugitivos :\)](https://open.spotify.com/track/0aV9qW7X0msAci4ATkKgBk) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:26 | 2023-12-19 | 2024-02-04 |
+| [Fim Do Mundo](https://open.spotify.com/track/3HN4PPMtJP0dEXqxvQgvJG) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS \(Deluxe\)](https://open.spotify.com/album/4nvIgrse8yWtDgx2442N8n) | 3:46 | 2023-10-10 |  |
+| [fugitivos :\)](https://open.spotify.com/track/0aV9qW7X0msAci4ATkKgBk) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:26 | 2023-12-19 |  |
 | [fugitivos :\)](https://open.spotify.com/track/7pR26BEmHIqKzHxeJvhth6) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [fugitivos :\)](https://open.spotify.com/album/3KQJDIJ0CzU7hHqlwEFglu) | 3:26 | 2023-10-10 | 2023-12-14 |
 | [Idiota](https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:01 | 2023-10-10 |  |
-| [Imaturo](https://open.spotify.com/track/0S86atec73KKaexn67JsDy) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 2:58 | 2023-10-10 |  |
+| [Imaturo](https://open.spotify.com/track/0S86atec73KKaexn67JsDy) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 2:58 | 2023-10-10 | 2024-07-20 |
 | [Julho](https://open.spotify.com/track/6vOdrnuWDwm6lKtuienvzt) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 3:07 | 2023-10-10 |  |
 | [Lindo Demais](https://open.spotify.com/track/2703CNb2od5iv56bRo2Y3h) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 3:00 | 2023-10-10 | 2024-02-24 |
 | [Locadora \(Versão Estendida\)](https://open.spotify.com/track/2GgZbWe0ytQ7Uu0rglxBqX) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPERNOVA](https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf) | 4:38 | 2024-06-14 | 2024-07-11 |
 | [Louquinho](https://open.spotify.com/track/3lEfEePgxGH2WwsB5fHC1K) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Louquinho](https://open.spotify.com/album/3ibAprngolKW66RngB6cBs) | 2:56 | 2023-10-10 |  |
 | [Lábia](https://open.spotify.com/track/015fd1R17Z7S1FeU5H2V3I) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 2:51 | 2023-10-10 |  |
 | [Maria](https://open.spotify.com/track/7j5iKo6swq5W6iwF91xbbP) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 1:58 | 2023-10-10 |  |
-| [Me Beija Com Raiva](https://open.spotify.com/track/7kRhodBTcAQXGoZdTEw8fZ) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 3:16 | 2023-10-10 |  |
+| [Me Beija Com Raiva](https://open.spotify.com/track/7kRhodBTcAQXGoZdTEw8fZ) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 3:16 | 2023-10-10 | 2024-07-20 |
 | [Me Lambe](https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 2:55 | 2023-10-10 |  |
 | [Me Liga](https://open.spotify.com/track/6pPVQnyvVbkKEOVqofSzEn) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Me Liga](https://open.spotify.com/album/3Lb6Ynh37ywGapeL5uyowr) | 2:31 | 2023-10-10 | 2024-01-20 |
 | [Meninos e Meninas](https://open.spotify.com/track/5B1skkpiljQOQLAmANiaDa) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 2:41 | 2023-10-10 |  |
@@ -44,7 +44,7 @@
 | [Monstros](https://open.spotify.com/track/1y2plShqBMDQ0T6ZhmfmeE) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 4:15 | 2024-02-23 |  |
 | [Não Te Amo](https://open.spotify.com/track/4NIOFeptzAsbkOUnyBE6FY) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:00 | 2023-10-10 | 2024-03-04 |
 | [O Triste É Que Eu Te Amo](https://open.spotify.com/track/3XlPD6JLXbfqqrlAk4zB2w) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPERNOVA](https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf) | 3:32 | 2024-06-14 |  |
-| [Pilantra](https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Pilantra](https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K) | 3:12 | 2023-10-10 |  |
+| [Pilantra](https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Pilantra](https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K) | 3:12 | 2023-10-10 | 2024-07-20 |
 | [Religião](https://open.spotify.com/track/3scObqC1IgM7yC6KvoTkeP) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPERNOVA](https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf) | 3:12 | 2024-06-14 |  |
 | [Ressaca](https://open.spotify.com/track/0Fut8bkxJc6H4Rh951Nxc4) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS \(Deluxe\)](https://open.spotify.com/album/4nvIgrse8yWtDgx2442N8n) | 3:00 | 2023-10-10 |  |
 | [Santo](https://open.spotify.com/track/23n4YuEtkZuALpk0wG3ZMT) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 2:42 | 2023-10-10 |  |
@@ -53,7 +53,7 @@
 | [Tenemos que hablar \- Real Magic](https://open.spotify.com/track/4wjURqSdOtZKt4qlQeioFJ) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Tenemos que hablar \(Real Magic\)](https://open.spotify.com/album/3vZUh3inLziRn9Zpa1cMAC) | 3:15 | 2023-10-10 | 2024-01-16 |
 | [Triste Pra Sempre](https://open.spotify.com/track/3n7ZwCXQUZekntN3f7dzwD) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 2:59 | 2023-10-10 |  |
 | [Você Vai Me Destruir](https://open.spotify.com/track/3mPz8WMo0zOWMxezQjyc8n) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 3:04 | 2023-10-10 |  |
-| [Vou Morrer Sozinho](https://open.spotify.com/track/1XVN2BVHfKUUcMH0jxSRZ5) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 2:54 | 2023-10-10 | 2024-07-19 |
+| [Vou Morrer Sozinho](https://open.spotify.com/track/1XVN2BVHfKUUcMH0jxSRZ5) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 2:54 | 2023-10-10 |  |
 | [VSF](https://open.spotify.com/track/6rL40EhmdDeEeqS0FDZ9Ab) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 3:56 | 2023-10-10 |  |
 | [Álcool](https://open.spotify.com/track/5gCMRYJOoAL96WypsjU0Ip) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Álcool](https://open.spotify.com/album/7nBhkDwwqiFWU1RiJaaFpa) | 3:01 | 2023-10-10 | 2023-11-11 |
 

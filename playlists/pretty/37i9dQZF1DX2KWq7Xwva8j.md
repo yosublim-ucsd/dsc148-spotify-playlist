@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro está aquí\. Foto: Luis Cortés
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,813 likes - 42 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,817 likes - 42 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 18 | [Corazón Quemado](https://open.spotify.com/track/6IGEcJDI3vTApF34vv5OT7) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Corazón Quemado](https://open.spotify.com/album/3Z4oiCXucKORyireiaaYev) | 3:05 |
 | 19 | [De Charco En Charco](https://open.spotify.com/track/72nJMBop58qf4xbNwZD0qO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [De Charco En Charco](https://open.spotify.com/album/3FTwA6nTjoLwzGzVtuJkqN) | 2:40 |
 | 20 | [Estamos a un beso](https://open.spotify.com/track/4bRg5nJCS7OcyJUMPgRAqH) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Estamos a un beso](https://open.spotify.com/album/7Gf9kJXYIaRwbgnbG0vHxM) | 3:12 |
-| 21 | [Semanas](https://open.spotify.com/track/0ICi6PF2OFhz0NZ9POMNj8) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Semanas](https://open.spotify.com/album/3iAAgL24uLxSTzihPfmzao) | 2:56 |
-| 22 | [Vicente Amor](https://open.spotify.com/track/6cT3lvZsX1QOqo5LPgQSHJ) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Vicente Amor](https://open.spotify.com/album/4kDXE9CEGdB3CcoroleDP4) | 1:52 |
+| 21 | [Vicente Amor](https://open.spotify.com/track/6cT3lvZsX1QOqo5LPgQSHJ) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Vicente Amor](https://open.spotify.com/album/4kDXE9CEGdB3CcoroleDP4) | 1:52 |
+| 22 | [Semanas](https://open.spotify.com/track/0ICi6PF2OFhz0NZ9POMNj8) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Semanas](https://open.spotify.com/album/3iAAgL24uLxSTzihPfmzao) | 2:56 |
 | 23 | [Otra Vida](https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Otra Vida](https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj) | 3:38 |
 | 24 | [Xarnega](https://open.spotify.com/track/49qfhb3mTtHwcW4t3375iK) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 2:34 |
 | 25 | [Polonia](https://open.spotify.com/track/3UNrrmmtFQlDx075B8JEBp) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Polonia](https://open.spotify.com/album/4h5qALHn8Hf6JdntCluoJJ) | 2:45 |

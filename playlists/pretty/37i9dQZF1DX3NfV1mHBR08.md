@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 
 > 당신의 하루\. 오늘도 잘하고 있어요\. \(Listen to K\-Pop comforting songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,625 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,628 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,19 +30,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 20 | [Take My Hand](https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Webtoon YEONNOM OST Part.1](https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv) | 3:40 |
 | 21 | [Together](https://open.spotify.com/track/3dQxjLOKLUUpZOwHYYdvyo) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/54P1MSGvQt3Hq1UpsijMgA) | 4:32 |
 | 22 | [Way Back Home](https://open.spotify.com/track/2YeozkaCbAYWOdjMKahrjU) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [I Mean](https://open.spotify.com/album/2SSsz0XFUeTYZfGWRLFswR) | 4:00 |
-| 23 | [Dear Diary](https://open.spotify.com/track/2qgA8fMwtftAhDzkd6mhgD) | [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1) | [Dear Diary](https://open.spotify.com/album/0HDY0qVf18AP9ef5chIqxC) | 3:38 |
-| 24 | [Lean On Me](https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [A\-TEEN2 Part.1](https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa) | 3:30 |
+| 23 | [Lean On Me](https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [A\-TEEN2 Part.1](https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa) | 3:30 |
+| 24 | [Dear Diary](https://open.spotify.com/track/2qgA8fMwtftAhDzkd6mhgD) | [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1) | [Dear Diary](https://open.spotify.com/album/0HDY0qVf18AP9ef5chIqxC) | 3:38 |
 | 25 | [Through the Night](https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 4:13 |
 | 26 | [Fighting!](https://open.spotify.com/track/5F2Nrnc779a0ZADDG7v7u7) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Fighting!](https://open.spotify.com/album/2BEu1ulaGHvhNYmOcurP80) | 3:05 |
 | 27 | [She Gonna Stop \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [She Gonna Stop](https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN) | 3:29 |
 | 28 | [IYAH](https://open.spotify.com/track/3EC9jQuk4yPP3IhKOJvbPw) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:45 |
-| 29 | [I′ll be by your side](https://open.spotify.com/track/1CjOylFGEsCzOlgd2xiEw2) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [I'll be by your side](https://open.spotify.com/album/1pdxVaLPFmbKCtWKP3sfTS) | 3:54 |
-| 30 | [Workaholic \(feat\. ASH ISLAND\)](https://open.spotify.com/track/5arR24jdVitzSURvv5hwIq) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Workaholic \(feat\. ASH ISLAND\)](https://open.spotify.com/album/5Rxn1cnJLLf8qgYJzB4KLu) | 3:13 |
+| 29 | [Workaholic \(feat\. ASH ISLAND\)](https://open.spotify.com/track/5arR24jdVitzSURvv5hwIq) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Workaholic \(feat\. ASH ISLAND\)](https://open.spotify.com/album/5Rxn1cnJLLf8qgYJzB4KLu) | 3:13 |
+| 30 | [I′ll be by your side](https://open.spotify.com/track/1CjOylFGEsCzOlgd2xiEw2) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [I'll be by your side](https://open.spotify.com/album/1pdxVaLPFmbKCtWKP3sfTS) | 3:54 |
 | 31 | [Panorama](https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [ERROR](https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL) | 3:18 |
 | 32 | [Love poem](https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) | 4:18 |
 | 33 | [Night Drive](https://open.spotify.com/track/7azmn7M9mRnHzyqxzjMsNe) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [回:Walpurgis Night](https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h) | 3:27 |
-| 34 | [wish you all to be happy](https://open.spotify.com/track/3vHAC5HrdyefPr5biodJGQ) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [wish you all to be happy](https://open.spotify.com/album/4Z2heFJ5SRDyIyMJlK6TDm) | 3:52 |
-| 35 | [Another Dream](https://open.spotify.com/track/1UUJwdNBSVQAQMZYHfkIa5) | [Girls Planet 999](https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W) | [Girls Planet 999 \- Completion Mission](https://open.spotify.com/album/41RRWp0vb7RnUifsD78stU) | 3:22 |
+| 34 | [Another Dream](https://open.spotify.com/track/1UUJwdNBSVQAQMZYHfkIa5) | [Girls Planet 999](https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W) | [Girls Planet 999 \- Completion Mission](https://open.spotify.com/album/41RRWp0vb7RnUifsD78stU) | 3:22 |
+| 35 | [wish you all to be happy](https://open.spotify.com/track/3vHAC5HrdyefPr5biodJGQ) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [wish you all to be happy](https://open.spotify.com/album/4Z2heFJ5SRDyIyMJlK6TDm) | 3:52 |
 | 36 | [Brave](https://open.spotify.com/track/30g5E9MteFxeG9pDvRKJNl) | [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Extraordinary Attorney Woo \(Original Television SoundTrack\) Pt\. 1](https://open.spotify.com/album/1JNQlhazNG0N5gK1NoLAuK) | 4:22 |
 | 37 | [Graduation](https://open.spotify.com/track/1GohKAgwMWvS9ieKi6DdKb) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [Graduation](https://open.spotify.com/album/5ER5iKqYrPjHsjlZfwHUV1) | 3:43 |
 | 38 | [Lonely night](https://open.spotify.com/track/33uSVRloZKosKDrGz4eIGS) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Lonely night](https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA) | 3:35 |

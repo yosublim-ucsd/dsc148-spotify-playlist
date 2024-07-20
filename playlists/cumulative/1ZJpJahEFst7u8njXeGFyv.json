@@ -199,6 +199,28 @@
     },
     {
       "album": {
+        "name": "3 Intermezzi, Op. 117/No. 1 in E-Flat Major",
+        "url": "https://open.spotify.com/album/0yJELcW2IEAD2iXEjLrqp9"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310019,
+      "name": "3 Intermezzi, Op. 117: 3 Intermezzi, Op. 117/No. 1 in E-Flat Major",
+      "url": "https://open.spotify.com/track/2qMnYj3hfOHDhQamPx3eLp"
+    },
+    {
+      "album": {
         "name": "Faur\u00e9: Complete Music for Solo Piano",
         "url": "https://open.spotify.com/album/3wvlEOwMQI0rujg57v9h1m"
       },
@@ -5030,10 +5052,32 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 167853,
       "name": "Kitsch-Musik: III. Allegretto",
       "url": "https://open.spotify.com/track/4esWy3Fu7vcCEg4kJNaojI"
+    },
+    {
+      "album": {
+        "name": "Kitsch-Musik/IV. Moderato",
+        "url": "https://open.spotify.com/album/0YRUzXeBVY2wfIkzkUhOWI"
+      },
+      "artists": [
+        {
+          "name": "Valentin Silvestrov",
+          "url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6"
+        },
+        {
+          "name": "Alexei Lubimov",
+          "url": "https://open.spotify.com/artist/0604Eow92EXTCLStZOUNlG"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176253,
+      "name": "Kitsch-Musik: IV. Moderato",
+      "url": "https://open.spotify.com/track/668HM3SxGjFs3U2yfV2ZGb"
     },
     {
       "album": {
@@ -6170,7 +6214,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 342093,
       "name": "Ludus pro patria, II. La nuit et l'amour",
       "url": "https://open.spotify.com/track/2YXKG92OytIB6oEufYcFXf"
@@ -6942,7 +6986,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 215146,
       "name": "No. 3 in G Minor",
       "url": "https://open.spotify.com/track/0v80sWJ3dm75znzL0tFE3F"
@@ -9014,7 +9058,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 153640,
       "name": "Ravel Bolero Variation (After Bolero, M. 81, Arr. for Piano by Tim Allhoff)",
       "url": "https://open.spotify.com/track/7fxAIhOSzm4l5y30HBaezt"
@@ -9162,7 +9206,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 180326,
       "name": "Respiro 2 - Sleep Rework",
       "url": "https://open.spotify.com/track/2RzFu1AE8ojvecsYdiJ5cY"
@@ -9936,7 +9980,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 240195,
       "name": "Sonata in D Minor, BWV 964: III. Andante (Arr. for Two Pianos by Cyril Scott)",
       "url": "https://open.spotify.com/track/6hjCqHM9ySA7uxgtOSQiWA"
@@ -12472,7 +12516,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 91133,
       "name": "Two Pieces for Piano Solo: I. Augenblick",
       "url": "https://open.spotify.com/track/5CCZkBpvYzsTaZGfxM3T0g"
@@ -13200,7 +13244,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 189933,
-      "name": "Violin Concerto in G Minor, BWV 1056: II. Largo",
+      "name": "Violin Concerto in G Minor, BWV 1056: Violin Concerto in G Minor, BWV 1056: II. Largo",
       "url": "https://open.spotify.com/track/1bab3chhaj7hG2WlJSJ8ei"
     },
     {

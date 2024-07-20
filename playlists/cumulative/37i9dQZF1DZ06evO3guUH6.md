@@ -4,7 +4,7 @@
 
 > This Is Alfredo Olivas\. Los temas esenciales, todos en una lista.
 
-59 songs - 3 hr 24 min
+60 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [El Del Sombrero](https://open.spotify.com/track/4KVQLYcvUg8h07mmWPxkJb) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Patroncito](https://open.spotify.com/album/0tIyKS6ftGdNvonIhxXI7h) | 4:14 | 2023-08-08 | 2024-04-07 |
 | [El Día De Los Muertos](https://open.spotify.com/track/6J4MbIlBn50XGo31UTdD3D) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:23 | 2023-08-08 |  |
 | [El Inicio Del final](https://open.spotify.com/track/0RBC4WwqMriC9UbbPVe1no) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Privilegio](https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj) | 4:17 | 2023-08-08 |  |
-| [El Malo De Culiacán](https://open.spotify.com/track/32MQwnY0WUaNVT7i4W9d9F) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Privilegio](https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj) | 3:35 | 2023-08-08 |  |
+| [El Malo De Culiacán](https://open.spotify.com/track/32MQwnY0WUaNVT7i4W9d9F) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Privilegio](https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj) | 3:35 | 2023-08-08 | 2024-07-20 |
 | [El Paciente](https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [La Rueda De La Fortuna](https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd) | 3:31 | 2023-08-08 |  |
 | [El Precio De La Soledad](https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 3:06 | 2023-08-08 |  |
 | [El Principio Del Infierno](https://open.spotify.com/track/5pHfQtCDL0YmhzybaI5aSo) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Con El Pie Derecho](https://open.spotify.com/album/7tfTfzVmVrplYDru65lUbP) | 2:43 | 2023-08-08 |  |
@@ -63,6 +63,7 @@
 | [Vete](https://open.spotify.com/track/1GtIK8iINes4gNt06F60NU) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 3:05 | 2023-08-08 |  |
 | [Villana De Cuento](https://open.spotify.com/track/0HK1L6iSv2x6xtDvnJuwLf) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 2:59 | 2023-08-08 |  |
 | [Volverá](https://open.spotify.com/track/1lLCXEoNCObfoSFWG9FxdC) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Volverá](https://open.spotify.com/album/1FT4Db2R3qA0zzqQFkSUAr) | 2:52 | 2023-08-08 |  |
+| [Y Por Lo Pronto](https://open.spotify.com/track/0hFIstvDcpYCMzSwC83SUi) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Privilegio](https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj) | 3:36 | 2024-07-20 |  |
 | [Y Porque No](https://open.spotify.com/track/4tgo5UD0x1z4wG0iAryYSk) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Privilegio](https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj) | 3:40 | 2023-08-08 |  |
 | [Ya No Es Normal](https://open.spotify.com/track/1atlhbxPVJOZbTfvMw1quB) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Privilegio](https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj) | 3:00 | 2023-08-08 |  |
 | [Ya Se Fue](https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Ya Se Fue](https://open.spotify.com/album/5aX6a0wLRfsIPr8kvZ5S1k) | 3:21 | 2023-08-08 |  |

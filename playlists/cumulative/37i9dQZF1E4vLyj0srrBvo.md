@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1E4vLyj0srrBvo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E4vLyj0srrBvo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4vLyj0srrBvo)
 
-### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
+### [Radio Grimes](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With FKA twigs, Crystal Castles, Purity Ring and more
+> Avec FKA twigs, Crystal Castles, Purity Ring et bien d'autres artistes
 
 1,773 songs - 4 day 13 hr 0 min
 
@@ -565,7 +565,7 @@
 | [Fill the Crown](https://open.spotify.com/track/3F2aFZiQ2YjIg3e50pqC6c) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree](https://open.spotify.com/album/4LgpVx8efQT7SRXGRq5Tze) | 3:32 | 2020-10-18 | 2022-10-08 |
 | [Final Form](https://open.spotify.com/track/1qSNm5br36JmvwKDbxjZeI) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 2:57 | 2022-07-20 | 2023-12-26 |
 | [Fineshrine](https://open.spotify.com/track/5KeyVNymqfqac1wLDseK8v) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [Shrines](https://open.spotify.com/album/7ppypgQppMf3mkRbZxYIFM) | 3:29 | 2020-10-16\* | 2020-12-06 |
-| [fineshrine](https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:29 | 2020-12-04 | 2024-06-20 |
+| [fineshrine](https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:29 | 2020-12-04 |  |
 | [Finish Him](https://open.spotify.com/track/2Dnd6d6qETLUJqNln7NpzO) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [Joey LaBeija](https://open.spotify.com/artist/4u53d3J7G8vqKQYOPotIUJ) | [Unlimited Ammo: Infinity \(Remix\)](https://open.spotify.com/album/0hRCrpv98LWp86pYFGg1G9) | 3:20 | 2022-09-09 | 2022-09-10 |
 | [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 | 2022-05-31 | 2022-09-10 |
 | [Firefly](https://open.spotify.com/track/6K51akbgV0Tb3WI0NY1yYX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 3:18 | 2022-10-08 | 2022-10-25 |
@@ -1450,7 +1450,7 @@
 | [soshy](https://open.spotify.com/track/77ThGWtKLzRLtcLUxJ8ONd) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [soshy](https://open.spotify.com/album/0It6cwMGugiHHtmLTjmoju) | 2:56 | 2021-08-14 | 2022-08-22 |
 | [soshy](https://open.spotify.com/track/7gaaArzK5meaETyw6jQB0k) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [graves](https://open.spotify.com/album/0VkSeJTMHByf7PSQAhwr8k) | 2:56 | 2022-10-13 | 2024-01-20 |
 | [Soul Control](https://open.spotify.com/track/7KXYD0NGzDgZ3J0fQ72SGZ) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [What's Your Pleasure?](https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp) | 3:59 | 2022-04-10 | 2022-10-17 |
-| [Sour Switchblade](https://open.spotify.com/track/4wFeMmJDlgkAxlQ07PbdGZ) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Sour Switchblade](https://open.spotify.com/album/0165PYHqH1iILn2HtbT3R4) | 2:28 | 2022-07-08 |  |
+| [Sour Switchblade](https://open.spotify.com/track/4wFeMmJDlgkAxlQ07PbdGZ) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Sour Switchblade](https://open.spotify.com/album/0165PYHqH1iILn2HtbT3R4) | 2:28 | 2022-07-08 | 2024-07-20 |
 | [Space Song](https://open.spotify.com/track/0hNhlwnzMLzZSlKGDCuHOo) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/35vTE3hx3AAXtM6okpJIIt) | 5:20 | 2020-10-16\* | 2020-10-30 |
 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 | 2020-11-04 | 2024-07-16 |
 | [SPARK](https://open.spotify.com/track/2KaEuSRVOTIGmIuZOZRi7N) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [SPARK](https://open.spotify.com/album/7HuHiCgIWbq4iQaAP76vOS) | 4:13 | 2022-03-13 | 2022-06-11 |

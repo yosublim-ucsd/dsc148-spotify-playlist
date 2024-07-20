@@ -1,6 +1,6 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1081510,
+  "num_followers": 1081577,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
@@ -63,18 +63,18 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "Dream Your Life Away",
-        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
         }
       ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
+      "duration_ms": 199986,
+      "name": "What Makes You Beautiful",
+      "url": "https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo"
     },
     {
       "added_at": "2024-03-22 16:40:22",
@@ -167,18 +167,18 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq"
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
       },
       "artists": [
         {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 199986,
-      "name": "What Makes You Beautiful",
-      "url": "https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo"
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
     },
     {
       "added_at": "2024-03-22 16:40:22",
@@ -199,22 +199,6 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 190626,
-      "name": "You Make My Dreams (Come True)",
-      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 291293,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "You Make My Dreams (Come True)",
+      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
     },
     {
       "added_at": "2024-03-22 16:40:22",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "Hello Happiness",
-        "url": "https://open.spotify.com/album/1QRhPsupQCDlD9EwTWumSA"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 239621,
-      "name": "Like Sugar",
-      "url": "https://open.spotify.com/track/0lWEatZXBBYUzEQX5aMeSj"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
         "name": "Lighter (feat. KSI)",
         "url": "https://open.spotify.com/album/4Fhgi0Jr4OpapEwNNSHhdK"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 182439,
       "name": "Lighter (feat. KSI)",
       "url": "https://open.spotify.com/track/5lWUeSYO61UYgNlFlqcwYl"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
+        "name": "Hello Happiness",
+        "url": "https://open.spotify.com/album/1QRhPsupQCDlD9EwTWumSA"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 239621,
+      "name": "Like Sugar",
+      "url": "https://open.spotify.com/track/0lWEatZXBBYUzEQX5aMeSj"
     },
     {
       "added_at": "2024-03-22 16:40:22",
@@ -1243,30 +1243,6 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "Flowers (feat. Jaykae and MALIKA)",
-        "url": "https://open.spotify.com/album/6HlRVGjN1psbbNjpfToGio"
-      },
-      "artists": [
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        },
-        {
-          "name": "Jaykae",
-          "url": "https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45"
-        },
-        {
-          "name": "Malika",
-          "url": "https://open.spotify.com/artist/4oCDlRaa8yRpe4keBeoVjb"
-        }
-      ],
-      "duration_ms": 197209,
-      "name": "Flowers (feat. Jaykae and MALIKA)",
-      "url": "https://open.spotify.com/track/5aYWnrsYvJk8NT7PmUcxVN"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
         "name": "Communion (Deluxe)",
         "url": "https://open.spotify.com/album/50jDQcZjE2kdx5rn3AL0c8"
       },
@@ -1311,6 +1287,30 @@
       "duration_ms": 242786,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/2zX22RoaGg8KGuNCzSBwBP"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
+        "name": "Flowers (feat. Jaykae and MALIKA)",
+        "url": "https://open.spotify.com/album/6HlRVGjN1psbbNjpfToGio"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Jaykae",
+          "url": "https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45"
+        },
+        {
+          "name": "Malika",
+          "url": "https://open.spotify.com/artist/4oCDlRaa8yRpe4keBeoVjb"
+        }
+      ],
+      "duration_ms": 197209,
+      "name": "Flowers (feat. Jaykae and MALIKA)",
+      "url": "https://open.spotify.com/track/5aYWnrsYvJk8NT7PmUcxVN"
     },
     {
       "added_at": "2024-03-22 16:40:22",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
+        "name": "American Authors",
+        "url": "https://open.spotify.com/album/0nPacNPgSycLGJdd2JnH9C"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 194093,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/44AXd3UVaaVYsSQqBpnYO2"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
         "name": "Classic",
         "url": "https://open.spotify.com/album/7adKFzloRhHyoBN2JnhHN5"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 181772,
       "name": "Busy Earnin'",
       "url": "https://open.spotify.com/track/3g86N0SqyfxEVNMHlmW3RE"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
-        "name": "American Authors",
-        "url": "https://open.spotify.com/album/0nPacNPgSycLGJdd2JnH9C"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/44AXd3UVaaVYsSQqBpnYO2"
     },
     {
       "added_at": "2024-03-22 16:40:22",

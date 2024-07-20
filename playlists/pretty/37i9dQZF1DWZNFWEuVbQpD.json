@@ -1,6 +1,6 @@
 {
   "description": "It\u2019s Only Rock 'n' Roll (But We Like It)! \ud83d\udd25 Cover: The Beatles",
-  "num_followers": 366811,
+  "num_followers": 366815,
   "original_name": "Rock: i Classici",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-06-03 12:42:57",
       "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 250546,
-      "name": "Everlong",
-      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
-    },
-    {
-      "added_at": "2024-06-03 12:42:57",
-      "album": {
         "name": "By the Way (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 269000,
       "name": "Can't Stop",
       "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
+    },
+    {
+      "added_at": "2024-06-03 12:42:57",
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 250546,
+      "name": "Everlong",
+      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
     },
     {
       "added_at": "2024-06-03 12:42:57",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-06-03 12:42:57",
       "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 264306,
+      "name": "Under the Bridge",
+      "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
+    },
+    {
+      "added_at": "2024-06-03 12:42:57",
+      "album": {
         "name": "Point Of Know Return (Expanded Edition)",
         "url": "https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 227266,
       "name": "Listen to the Music",
       "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
-    },
-    {
-      "added_at": "2024-06-03 12:42:57",
-      "album": {
-        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 264306,
-      "name": "Under the Bridge",
-      "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
     },
     {
       "added_at": "2024-06-03 12:42:57",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-06-03 12:42:57",
       "album": {
-        "name": "American Pie",
-        "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
-      },
-      "artists": [
-        {
-          "name": "Don McLean",
-          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
-        }
-      ],
-      "duration_ms": 516893,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
-    },
-    {
-      "added_at": "2024-06-03 12:42:57",
-      "album": {
         "name": "Three Imaginary Boys",
         "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 155973,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
+    },
+    {
+      "added_at": "2024-06-03 12:42:57",
+      "album": {
+        "name": "American Pie",
+        "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
+      },
+      "artists": [
+        {
+          "name": "Don McLean",
+          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
+        }
+      ],
+      "duration_ms": 516893,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
     },
     {
       "added_at": "2024-06-03 12:42:57",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-06-03 12:42:57",
       "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 261413,
-      "name": "Psycho Killer - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
-    },
-    {
-      "added_at": "2024-06-03 12:42:57",
-      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 209266,
       "name": "Smooth Criminal",
       "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
+    },
+    {
+      "added_at": "2024-06-03 12:42:57",
+      "album": {
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 261413,
+      "name": "Psycho Killer - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
     },
     {
       "added_at": "2024-06-03 12:42:57",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-06-03 12:42:57",
       "album": {
-        "name": "Tom Petty & The Heartbreakers",
-        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
-    },
-    {
-      "added_at": "2024-06-03 12:42:57",
-      "album": {
         "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
         "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 134466,
       "name": "Blitzkrieg Bop - 2016 Remaster",
       "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
+    },
+    {
+      "added_at": "2024-06-03 12:42:57",
+      "album": {
+        "name": "Tom Petty & The Heartbreakers",
+        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
     },
     {
       "added_at": "2024-06-03 12:42:57",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2024-06-03 12:42:57",
       "album": {
-        "name": "Speaking in Tongues (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/4w3NeXtywU398NYW4903rY"
       },
       "artists": [
         {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 296146,
-      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
+      "duration_ms": 278746,
+      "name": "No One Knows",
+      "url": "https://open.spotify.com/track/6y20BV5L33R8YXM0YuI38N"
     },
     {
       "added_at": "2024-06-03 12:42:57",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-06-03 12:42:57",
       "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/4w3NeXtywU398NYW4903rY"
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
       },
       "artists": [
         {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 278746,
-      "name": "No One Knows",
-      "url": "https://open.spotify.com/track/6y20BV5L33R8YXM0YuI38N"
+      "duration_ms": 296146,
+      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
     },
     {
       "added_at": "2024-06-03 12:42:57",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-06-03 12:42:57",
       "album": {
-        "name": "Moving Pictures (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
-      },
-      "artists": [
-        {
-          "name": "Rush",
-          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
-        }
-      ],
-      "duration_ms": 276880,
-      "name": "Tom Sawyer",
-      "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
-    },
-    {
-      "added_at": "2024-06-03 12:42:57",
-      "album": {
         "name": "The Captain and Me",
         "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 207266,
       "name": "Long Train Runnin'",
       "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
+    },
+    {
+      "added_at": "2024-06-03 12:42:57",
+      "album": {
+        "name": "Moving Pictures (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "duration_ms": 276880,
+      "name": "Tom Sawyer",
+      "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
     },
     {
       "added_at": "2024-06-03 12:42:57",

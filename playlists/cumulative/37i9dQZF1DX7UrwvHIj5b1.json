@@ -1927,6 +1927,24 @@
     },
     {
       "album": {
+        "name": "WHOA! Traverse",
+        "url": "https://open.spotify.com/album/5hzwaoYtuR62PlblXilvmD"
+      },
+      "artists": [
+        {
+          "name": "SOLAR MISSION",
+          "url": "https://open.spotify.com/artist/3x1uEdpmZurDjZqqSxvEeV"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "WHOA! Traverse",
+      "url": "https://open.spotify.com/track/0bAuhbf3BCjmarISH4X2V6"
+    },
+    {
+      "album": {
         "name": "Wisdom",
         "url": "https://open.spotify.com/album/3OU2VNhplpTYkcFdX8YcxH"
       },

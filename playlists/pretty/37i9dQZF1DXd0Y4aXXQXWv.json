@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 478286,
+  "num_followers": 478294,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
@@ -159,18 +159,18 @@
     {
       "added_at": "2024-07-16 09:50:19",
       "album": {
-        "name": "D'Eux",
-        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
+        "name": "Brol",
+        "url": "https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC"
       },
       "artists": [
         {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
         }
       ],
-      "duration_ms": 254093,
-      "name": "Pour que tu m'aimes encore",
-      "url": "https://open.spotify.com/track/6qlpXtA29VcxCNgLWR5IWx"
+      "duration_ms": 189480,
+      "name": "Balance ton quoi",
+      "url": "https://open.spotify.com/track/2jX5c5RFp0A9E1GDsvGxIa"
     },
     {
       "added_at": "2024-07-16 09:50:19",
@@ -191,18 +191,18 @@
     {
       "added_at": "2024-07-16 09:50:19",
       "album": {
-        "name": "Brol",
-        "url": "https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC"
+        "name": "D'Eux",
+        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
       },
       "artists": [
         {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
         }
       ],
-      "duration_ms": 189480,
-      "name": "Balance ton quoi",
-      "url": "https://open.spotify.com/track/2jX5c5RFp0A9E1GDsvGxIa"
+      "duration_ms": 254093,
+      "name": "Pour que tu m'aimes encore",
+      "url": "https://open.spotify.com/track/6qlpXtA29VcxCNgLWR5IWx"
     },
     {
       "added_at": "2024-07-16 09:50:19",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-07-16 09:50:19",
       "album": {
-        "name": "Debout les yeux ouverts",
-        "url": "https://open.spotify.com/album/4Bgs5Nfk9CN0L8QGvVig6H"
-      },
-      "artists": [
-        {
-          "name": "Sins\u00e9milia",
-          "url": "https://open.spotify.com/artist/7xtiaP8V8z95pASVuIrCRY"
-        }
-      ],
-      "duration_ms": 229426,
-      "name": "Tout le bonheur du monde",
-      "url": "https://open.spotify.com/track/2jY4XzyntBSe2ns2EwA2pL"
-    },
-    {
-      "added_at": "2024-07-16 09:50:19",
-      "album": {
         "name": "Mon paradis",
         "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 191506,
       "name": "On s'attache",
       "url": "https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT"
+    },
+    {
+      "added_at": "2024-07-16 09:50:19",
+      "album": {
+        "name": "Debout les yeux ouverts",
+        "url": "https://open.spotify.com/album/4Bgs5Nfk9CN0L8QGvVig6H"
+      },
+      "artists": [
+        {
+          "name": "Sins\u00e9milia",
+          "url": "https://open.spotify.com/artist/7xtiaP8V8z95pASVuIrCRY"
+        }
+      ],
+      "duration_ms": 229426,
+      "name": "Tout le bonheur du monde",
+      "url": "https://open.spotify.com/track/2jY4XzyntBSe2ns2EwA2pL"
     },
     {
       "added_at": "2024-07-16 09:50:19",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-07-16 09:50:19",
       "album": {
-        "name": "Paris, France (Remasteris\u00e9 en 2004)",
-        "url": "https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7"
-      },
-      "artists": [
-        {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
-        }
-      ],
-      "duration_ms": 273626,
-      "name": "Il jouait du piano debout - Remasteris\u00e9 en 2004",
-      "url": "https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV"
-    },
-    {
-      "added_at": "2024-07-16 09:50:19",
-      "album": {
         "name": "Pour Un Flirt - Vol.1",
         "url": "https://open.spotify.com/album/4rjlNg6YeoR9JqMaWhFi71"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 206160,
       "name": "Pour un flirt",
       "url": "https://open.spotify.com/track/0RDUfBXGq7lhBAqlyu0UAy"
+    },
+    {
+      "added_at": "2024-07-16 09:50:19",
+      "album": {
+        "name": "Paris, France (Remasteris\u00e9 en 2004)",
+        "url": "https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 273626,
+      "name": "Il jouait du piano debout - Remasteris\u00e9 en 2004",
+      "url": "https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV"
     },
     {
       "added_at": "2024-07-16 09:50:19",

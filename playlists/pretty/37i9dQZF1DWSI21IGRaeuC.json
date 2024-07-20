@@ -1,6 +1,6 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 37738,
+  "num_followers": 37755,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/4WvVSOcxkJLk56Rkn2sKyN"
-      },
-      "artists": [
-        {
-          "name": "Silvie Loto",
-          "url": "https://open.spotify.com/artist/79pt77aQRjnLUoKOGUi7Um"
-        }
-      ],
-      "duration_ms": 308636,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/5FLeEuEPsnTadO4jbKb34E"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Escaping It (feat. Tania Foster)",
         "url": "https://open.spotify.com/album/3HADcImeJ9OY36dZgz4iDY"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 192656,
       "name": "Escaping It (feat. Tania Foster)",
       "url": "https://open.spotify.com/track/0mpZguOykEX2E3ROET1JOa"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/4WvVSOcxkJLk56Rkn2sKyN"
+      },
+      "artists": [
+        {
+          "name": "Silvie Loto",
+          "url": "https://open.spotify.com/artist/79pt77aQRjnLUoKOGUi7Um"
+        }
+      ],
+      "duration_ms": 308636,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/5FLeEuEPsnTadO4jbKb34E"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "ROCK THIS",
+        "url": "https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE"
+      },
+      "artists": [
+        {
+          "name": "Sergio Saffe",
+          "url": "https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT"
+        }
+      ],
+      "duration_ms": 204375,
+      "name": "ROCK THIS",
+      "url": "https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Nuthin' On EP",
         "url": "https://open.spotify.com/album/0xHCfboVdtsec7vOiammF5"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 210000,
       "name": "Nuthin' On",
       "url": "https://open.spotify.com/track/2iSKzMK0aNxmNAzdBVN6jp"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "ROCK THIS",
-        "url": "https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE"
-      },
-      "artists": [
-        {
-          "name": "Sergio Saffe",
-          "url": "https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT"
-        }
-      ],
-      "duration_ms": 204375,
-      "name": "ROCK THIS",
-      "url": "https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Movimiento",
+        "url": "https://open.spotify.com/album/6aKGDyR5AGabrgoK72IspI"
+      },
+      "artists": [
+        {
+          "name": "GiGi FM",
+          "url": "https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi"
+        }
+      ],
+      "duration_ms": 333913,
+      "name": "Tempelhof",
+      "url": "https://open.spotify.com/track/1OXu6yphRorUKpTttBMMhl"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Space Bump",
         "url": "https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 167004,
       "name": "Space Bump",
       "url": "https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Movimiento",
-        "url": "https://open.spotify.com/album/6aKGDyR5AGabrgoK72IspI"
-      },
-      "artists": [
-        {
-          "name": "GiGi FM",
-          "url": "https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi"
-        }
-      ],
-      "duration_ms": 333913,
-      "name": "Tempelhof",
-      "url": "https://open.spotify.com/track/1OXu6yphRorUKpTttBMMhl"
     },
     {
       "added_at": "2024-07-19 04:00:00",

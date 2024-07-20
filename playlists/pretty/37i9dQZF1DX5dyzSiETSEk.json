@@ -1,6 +1,6 @@
 {
   "description": "The whole family will enjoy popular hits from yesterday and today!",
-  "num_followers": 586782,
+  "num_followers": 586795,
   "original_name": "Pop for Kids",
   "owner": {
     "name": "Spotify",
@@ -391,18 +391,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "More Than Just a Dream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK"
+        "name": "Double Life (From \"Despicable Me 4\")",
+        "url": "https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4"
       },
       "artists": [
         {
-          "name": "Fitz and The Tantrums",
-          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 209386,
-      "name": "Out of My League",
-      "url": "https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH"
+      "duration_ms": 190782,
+      "name": "Double Life - From \"Despicable Me 4\"",
+      "url": "https://open.spotify.com/track/07oO1U722crtVcavi6frX6"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -427,18 +427,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Double Life (From \"Despicable Me 4\")",
-        "url": "https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4"
+        "name": "More Than Just a Dream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK"
       },
       "artists": [
         {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
         }
       ],
-      "duration_ms": 190782,
-      "name": "Double Life - From \"Despicable Me 4\"",
-      "url": "https://open.spotify.com/track/07oO1U722crtVcavi6frX6"
+      "duration_ms": 209386,
+      "name": "Out of My League",
+      "url": "https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Kung Fu Panda 4 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6n2FMmygekI4wcwaRf0LGj"
-      },
-      "artists": [
-        {
-          "name": "Tenacious D",
-          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "...Baby One More Time (from Kung Fu Panda 4)",
-      "url": "https://open.spotify.com/track/5wViaajeHHPZlEjBY9nhU3"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Don't Go Yet",
         "url": "https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "finding it hard to smile",
-        "url": "https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4"
+        "name": "Kung Fu Panda 4 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6n2FMmygekI4wcwaRf0LGj"
       },
       "artists": [
         {
-          "name": "lovelytheband",
-          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
+          "name": "Tenacious D",
+          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
         }
       ],
-      "duration_ms": 204878,
-      "name": "broken",
-      "url": "https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX"
+      "duration_ms": 192600,
+      "name": "...Baby One More Time (from Kung Fu Panda 4)",
+      "url": "https://open.spotify.com/track/5wViaajeHHPZlEjBY9nhU3"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "finding it hard to smile",
+        "url": "https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4"
+      },
+      "artists": [
+        {
+          "name": "lovelytheband",
+          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
+        }
+      ],
+      "duration_ms": 204878,
+      "name": "broken",
+      "url": "https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Waffle House",
         "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
       },
@@ -1111,6 +1111,26 @@
       "duration_ms": 145440,
       "name": "Waffle House",
       "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Descendants: The Rise of Red (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3KPOdANPLDWwF0U4TOzjrK"
+      },
+      "artists": [
+        {
+          "name": "Descendants \u2013 Cast",
+          "url": "https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 218723,
+      "name": "Life Is Sweeter",
+      "url": "https://open.spotify.com/track/46CznmGbHRvRhTkvaN5rDB"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1279,26 +1299,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Descendants: The Rise of Red (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3KPOdANPLDWwF0U4TOzjrK"
-      },
-      "artists": [
-        {
-          "name": "Descendants \u2013 Cast",
-          "url": "https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 218723,
-      "name": "Life Is Sweeter",
-      "url": "https://open.spotify.com/track/46CznmGbHRvRhTkvaN5rDB"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
       },
@@ -1387,18 +1387,42 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Broken & Beautiful",
-        "url": "https://open.spotify.com/album/5UHs9Jq0Vy5E3eUdkgcZvj"
+        "name": "Descendants 3 (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/1rDO59SgTsY1HV5ZBtl9Hy"
       },
       "artists": [
         {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        },
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        },
+        {
+          "name": "Booboo Stewart",
+          "url": "https://open.spotify.com/artist/4A6cd63FWHbCLqk9mtGUZZ"
+        },
+        {
+          "name": "Cameron Boyce",
+          "url": "https://open.spotify.com/artist/4uBD3fsHzb3IpOTGpicsbH"
+        },
+        {
+          "name": "Jadah Marie",
+          "url": "https://open.spotify.com/artist/3hAR5VO7T6QRfivYreeXmz"
+        },
+        {
+          "name": "Anna Cathcart",
+          "url": "https://open.spotify.com/artist/0QFetakbVZD86mLaPGJy9Z"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 218948,
-      "name": "Broken & Beautiful",
-      "url": "https://open.spotify.com/track/1Y9cAYTmyWJCcmfqdG2I29"
+      "duration_ms": 189868,
+      "name": "Good to Be Bad",
+      "url": "https://open.spotify.com/track/1RIYF8NDIIWBvJe4vhQr6y"
     }
   ],
   "unique_name": "Pop for Kids",

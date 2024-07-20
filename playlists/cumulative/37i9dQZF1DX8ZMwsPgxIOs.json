@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 255483,
       "name": "Alive (ABGT556)",
       "url": "https://open.spotify.com/track/2Vp2qK8gK6HPvVenIvCauz"
@@ -2274,7 +2274,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 172520,
       "name": "Flash",
       "url": "https://open.spotify.com/track/0l5Xszbwm0vsNOWAiGwg8N"
@@ -2630,6 +2630,28 @@
       "duration_ms": 423618,
       "name": "Gintare",
       "url": "https://open.spotify.com/track/6KMwhOCh728m0Dmi4Lleqi"
+    },
+    {
+      "album": {
+        "name": "girl$ (Layton Giordani Remix)",
+        "url": "https://open.spotify.com/album/2vcisyP9y8jUFqI7W6x7BN"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184477,
+      "name": "girl$ - Layton Giordani Remix",
+      "url": "https://open.spotify.com/track/3ZzafniLjEBqRM7GeyRcvz"
     },
     {
       "album": {
@@ -3580,6 +3602,32 @@
       "duration_ms": 230909,
       "name": "Lift You Up",
       "url": "https://open.spotify.com/track/5gjW9eVblEKu8BMn5cEajE"
+    },
+    {
+      "album": {
+        "name": "Replicant",
+        "url": "https://open.spotify.com/album/14rp3aF0ExgOzJsSljuQ4K"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "Just Frank",
+          "url": "https://open.spotify.com/artist/6tMD9uX2BaPLnKloVrjiuV"
+        },
+        {
+          "name": "Kat Chu",
+          "url": "https://open.spotify.com/artist/0yviEZKWdiQpunCEA925NN"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219375,
+      "name": "Limitless",
+      "url": "https://open.spotify.com/track/5Zd4N7LSBhrOgKXqP6viFO"
     },
     {
       "album": {
@@ -5472,7 +5520,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 366591,
       "name": "Rozelle",
       "url": "https://open.spotify.com/track/326uipdZGAmMexRjE5OE0X"
@@ -5864,6 +5912,32 @@
       "duration_ms": 220375,
       "name": "Simulator",
       "url": "https://open.spotify.com/track/4VosqOFgprZKZz3EeDOdMA"
+    },
+    {
+      "album": {
+        "name": "Simulator Remixes",
+        "url": "https://open.spotify.com/album/3yYs4kAhpSnBsHC1Usadyd"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Simulator - Mha Iri Remix",
+      "url": "https://open.spotify.com/track/0HrPd1ytNx0LJXUOhQIFN4"
     },
     {
       "album": {

@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 
 ### [This Is Nívea Soares](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4xMHov)
 
-> This is Nívea Soares\. The essential tracks, all in one playlist.
+> This is Nívea Soares\. Tutti i brani in un'unica playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,884 likes - 51 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,895 likes - 51 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Abre os Selos \- Ao Vivo](https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Abre os Selos \(Ao Vivo\)](https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl) | 7:54 |
 | 2 | [Caminho no Deserto](https://open.spotify.com/track/2sKdvtNeQ3D2Lt6ZCHNNSa) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Caminho no Deserto](https://open.spotify.com/album/53ExbRaSYoHhR5ZAvD2U62) | 6:49 |
 | 3 | [Ruja o Leão / Que Se Abram Os Céus \- Ao Vivo](https://open.spotify.com/track/36OnXKUU9pAKRYs9jfusbl) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ruja o Leão / Que Se Abram Os Céus \(Ao Vivo\)](https://open.spotify.com/album/4PSU1YDNjWdpb4xErJpQRt) | 7:34 |
-| 4 | [A Boa Parte \- Ao Vivo](https://open.spotify.com/track/137KTFlEw4ynSLGhJ1JStl) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [A Boa Parte \(Ao Vivo\)](https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC) | 5:50 |
+| 4 | [A Boa Parte \- Ao Vivo](https://open.spotify.com/track/3xYAYpik21I77zsZOpUJkW) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [A Boa Parte \(Ao Vivo\)](https://open.spotify.com/album/0RQmJsjyVrI8sUuKIKwQSC) | 5:50 |
 | 5 | [A Bênção](https://open.spotify.com/track/1evlfCwP69atq9ahcTggiu) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [A Bênção](https://open.spotify.com/album/6Q9PrTuJMZuKgjtQMm8RR4) | 5:57 |
 | 6 | [Eu Vou Construir](https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Eu Vou Construir](https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH) | 6:49 |
 | 7 | [Teu Toque \- Ao Vivo](https://open.spotify.com/track/6G45Qr6vVxnHxX06qcGEp2) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Teu Toque \(Ao Vivo\)](https://open.spotify.com/album/2OMOHMTTcJxt4NZuiM2tuD) | 7:33 |
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 27 | [Estado De Graça \(feat\. Nívea Soares\) \- Ao Vivo](https://open.spotify.com/track/4Lsq6TlJTt1pLZ2lTmGrZx) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Preto no Branco 3 \(Ao Vivo\)](https://open.spotify.com/album/4HJ3j7O253RnPyu43mIicT) | 4:45 |
 | 28 | [Em Tua Presença \- Ao Vivo](https://open.spotify.com/track/2xpotltTAOvJbWJgJKCUoI) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 13:10 |
 | 29 | [Vem \- Ao Vivo](https://open.spotify.com/track/5IW9WRaLxJblCkVXhC1vye) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Vem \(Ao Vivo\)](https://open.spotify.com/album/2Issr9syuEqaUOfFRFXBms) | 9:31 |
-| 30 | [Hosana \- Ao Vivo](https://open.spotify.com/track/290pBQrxOBQHj6JaKST4JH) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/1A7Xb0rQaaG7wng9kUwVOl) | 5:48 |
-| 31 | [Meu Universo \- Acústico](https://open.spotify.com/track/1z1VXBSMZzbQF4pvJwDjga) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Música e Palavra \(Acústico\)](https://open.spotify.com/album/1526KV4Bw2ehCYTuP6YZe4) | 4:27 |
+| 30 | [Meu Universo \- Acústico](https://open.spotify.com/track/1z1VXBSMZzbQF4pvJwDjga) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Música e Palavra \(Acústico\)](https://open.spotify.com/album/1526KV4Bw2ehCYTuP6YZe4) | 4:27 |
+| 31 | [Hosana \- Ao Vivo](https://open.spotify.com/track/290pBQrxOBQHj6JaKST4JH) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/1A7Xb0rQaaG7wng9kUwVOl) | 5:48 |
 | 32 | [Só Existe Um Lugar \- Ao Vivo](https://open.spotify.com/track/3oVtUUirowVa9DEtjazJVq) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Só Existe Um Lugar \(Ao Vivo\)](https://open.spotify.com/album/468Y9pHDkKf8u6oLHWrimN) | 7:07 |
-| 33 | [Eu Cantarei](https://open.spotify.com/track/6wirmUJ6XncGeFjSyIMGwx) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ao Rei](https://open.spotify.com/album/4Oy8ojNQkl0Q1Q6FWTlFnO) | 4:04 |
-| 34 | [Jesus \- Ao Vivo](https://open.spotify.com/track/1tLprGViXjMjX1mwvncJc7) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Jesus \(Ao Vivo\)](https://open.spotify.com/album/6mf39m0DBS39bfATCHwNM5) | 7:17 |
+| 33 | [Jesus \- Ao Vivo](https://open.spotify.com/track/1tLprGViXjMjX1mwvncJc7) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Jesus \(Ao Vivo\)](https://open.spotify.com/album/6mf39m0DBS39bfATCHwNM5) | 7:17 |
+| 34 | [Eu Cantarei](https://open.spotify.com/track/6wirmUJ6XncGeFjSyIMGwx) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ao Rei](https://open.spotify.com/album/4Oy8ojNQkl0Q1Q6FWTlFnO) | 4:04 |
 | 35 | [Dependo de Ti \(feat\. Nívea Soares\)](https://open.spotify.com/track/7bqeh0EIv7fDvYu4zMhBBI) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Entre](https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh) | 4:39 |
 | 36 | [Ousado Amor](https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ousado Amor](https://open.spotify.com/album/3KuWof0g5DAfFT931oMXCE) | 13:46 |
 | 37 | [Acende o Fogo / Eu Me Prostro \- Ao Vivo](https://open.spotify.com/track/19XUB0kiYgNVx0RRx8sdls) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Acende o Fogo / Eu Me Prostro \(Ao Vivo\)](https://open.spotify.com/album/1nwCVNk24Z3iKotK788Dvw) | 8:28 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 50 | [Nenhum Deus Como Tu](https://open.spotify.com/track/4mEZLwnqOe3FsSZDW2GPoR) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Rio](https://open.spotify.com/album/2kNPup6bYnOFd74IvvrG8F) | 6:01 |
 | 51 | [Me Levantou](https://open.spotify.com/track/3DFCYOjz2ahzyPxkdzZX2w) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Um Lugar para 2](https://open.spotify.com/album/3DeMyJMsgElqGKsCFSPE90) | 5:34 |
 
-Snapshot ID: `ZpcJgAAAAABufXVH2hd+IIc6dRXFJ14c`
+Snapshot ID: `ZphbAAAAAAAkEqgmykBSeoTdoS+dBCtr`

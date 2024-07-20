@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 
 > 😈 welcome to the rave 😈  Verknipt takeover with tracks 1\-20! Get ready for Verknipt Arena.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,098 likes - 100 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,582 likes - 100 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 | 47 | [how do you like your tea?](https://open.spotify.com/track/3srbgx3cDhxpDFEQlsb3qk) | [✧BRAINDAAMAGE✧](https://open.spotify.com/artist/0Pn6XyvS2qCahtBOwcqsNf) | [how do you like your tea?](https://open.spotify.com/album/5dcBBwqX1IVf5poUqSCiqY) | 3:58 |
 | 48 | [HEISS \(Floorkiller Flex\)](https://open.spotify.com/track/4pHPgZOypoLFxt7oRoyjaQ) | [ÅMRTÜM](https://open.spotify.com/artist/3bb7lqTA4RWzdAXpdfR5VK), [Synta](https://open.spotify.com/artist/3xs9xI64jtMn4Z0S2nNiq2) | [HEISS \(Floorkiller Flex\)](https://open.spotify.com/album/1b7NKQ854B78JCooKptg4F) | 4:48 |
 | 49 | [Fist On Acid \(Techno Mix\)](https://open.spotify.com/track/3RotPxA6cgLQ9sduyM64yX) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [Fist On Acid \(Techno Mix\)](https://open.spotify.com/album/4hnP64S9CyCy6LzzcOiseW) | 3:50 |
-| 50 | [Do You Like It Fast?](https://open.spotify.com/track/7omTB2Z2lyHny4vQNFaUp7) | [Doruksen](https://open.spotify.com/artist/4QualaVaoF8vYnpJ5o8Pw6) | [Do You Like It Fast? EP](https://open.spotify.com/album/1i403h35Basm5D2bNKjdBO) | 5:07 |
-| 51 | [ABYSS](https://open.spotify.com/track/4fLw4RZYwwQMP2pf7i8q3g) | [Juul Exler](https://open.spotify.com/artist/0UX1w5iv2fvXoqdH7XbJM9) | [ABYSS](https://open.spotify.com/album/2WHcALRyJK8CUoDZ8QFCAa) | 3:41 |
+| 50 | [ABYSS](https://open.spotify.com/track/4fLw4RZYwwQMP2pf7i8q3g) | [Juul Exler](https://open.spotify.com/artist/0UX1w5iv2fvXoqdH7XbJM9) | [ABYSS](https://open.spotify.com/album/2WHcALRyJK8CUoDZ8QFCAa) | 3:41 |
+| 51 | [Do You Like It Fast?](https://open.spotify.com/track/7omTB2Z2lyHny4vQNFaUp7) | [Doruksen](https://open.spotify.com/artist/4QualaVaoF8vYnpJ5o8Pw6) | [Do You Like It Fast? EP](https://open.spotify.com/album/1i403h35Basm5D2bNKjdBO) | 5:07 |
 | 52 | [Peer Pressure](https://open.spotify.com/track/0rCCdYPJO7N2vYWQihflBh) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Incoming](https://open.spotify.com/album/4iFbFjCa3Kc4zS6tkQ9dbO) | 6:10 |
 | 53 | [Welcome Back Devil](https://open.spotify.com/track/51xCJIB6whswDNw6tdbF97) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF) | [Welcome Back Devil](https://open.spotify.com/album/41Knrnm88QyuE9h8ATY8Dz) | 5:20 |
 | 54 | [Never Enough](https://open.spotify.com/track/0g1UEsa2bqif2D0hlmxUfI) | [XRTN](https://open.spotify.com/artist/5oXWx1ZjiyWTt4fhjUQgKR) | [Never Enough](https://open.spotify.com/album/301BTyjA0xlkTu8gDm3ToF) | 5:27 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 | 87 | [Surpressed](https://open.spotify.com/track/20xymtXyIesn1RnCdV4u39) | [2FEL](https://open.spotify.com/artist/2YjhWg5nfeR14eUXqonx3x) | [Surpressed](https://open.spotify.com/album/1aS4DylxClt4R6OBImXrYA) | 6:44 |
 | 88 | [Frei](https://open.spotify.com/track/3zuaDpUbBX1yepWVGdBYQG) | [In Verruf](https://open.spotify.com/artist/5EnbpUtGIk2qPzGgNE75m0) | [Sektion 3](https://open.spotify.com/album/1nGOgACCBlA4Hmrlm8Xkpd) | 6:09 |
 | 89 | [Gettogether](https://open.spotify.com/track/4umMJJesNImOQ4uERpQtqA) | [H! Dude](https://open.spotify.com/artist/5EdJyUrE9kntnBdcVTVLAe) | [Gettogether](https://open.spotify.com/album/3OYEIb3CxkmIxheEGnSUpB) | 5:26 |
-| 90 | [Mystic Blast](https://open.spotify.com/track/6X24jDDs8Hx1PuuGounCth) | [Køzløv](https://open.spotify.com/artist/6lmg9kOOeuhhgThuBOE4bX), [CARV](https://open.spotify.com/artist/6xenmpQHeDugzwDn9H2pSI) | [TM002](https://open.spotify.com/album/27d7ZMLhcyuaALVrjYK6rF) | 5:34 |
-| 91 | [Control](https://open.spotify.com/track/7DiK4Zb8foUGz0DdmLGOCH) | [Clara Cuvé](https://open.spotify.com/artist/7daFW9cX9jHmOxZ0PIofRm) | [Sektion 1](https://open.spotify.com/album/4C3R1RL6h7EkNvTJnwwV1j) | 5:43 |
+| 90 | [Control](https://open.spotify.com/track/7DiK4Zb8foUGz0DdmLGOCH) | [Clara Cuvé](https://open.spotify.com/artist/7daFW9cX9jHmOxZ0PIofRm) | [Sektion 1](https://open.spotify.com/album/4C3R1RL6h7EkNvTJnwwV1j) | 5:43 |
+| 91 | [Mystic Blast](https://open.spotify.com/track/6X24jDDs8Hx1PuuGounCth) | [Køzløv](https://open.spotify.com/artist/6lmg9kOOeuhhgThuBOE4bX), [CARV](https://open.spotify.com/artist/6xenmpQHeDugzwDn9H2pSI) | [TM002](https://open.spotify.com/album/27d7ZMLhcyuaALVrjYK6rF) | 5:34 |
 | 92 | [BLACK](https://open.spotify.com/track/4YGzPQSuENk8V14hs3W9xH) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu) | [BLACK](https://open.spotify.com/album/2Z6O9GYTQtu1wivPY3kMBe) | 5:31 |
 | 93 | [Limbo](https://open.spotify.com/track/1X1FUGCW2OWcjFRwfL9G56) | [Estella Boersma](https://open.spotify.com/artist/4UCy3TOuu2eA6zNY50JQSV) | [Limbo](https://open.spotify.com/album/438pm70Wvf2G88ZnI9C7Zl) | 4:52 |
 | 94 | [Disfigure](https://open.spotify.com/track/1rbHfStcFOWagdugYdiK5T) | [XRTN](https://open.spotify.com/artist/5oXWx1ZjiyWTt4fhjUQgKR), [GWELD](https://open.spotify.com/artist/4RFa0ShXF9VKaaKDyT2NlC) | [Disfigure](https://open.spotify.com/album/40N5Ez27dWfybAHuOLcue8) | 5:26 |
 | 95 | [Adrenaline Assault](https://open.spotify.com/track/4pnmqNJxTQ1hICEv5rOKow) | [CARAVEL](https://open.spotify.com/artist/5od72ceH2aN3pS4hcHNzRy), [Køzløv](https://open.spotify.com/artist/6lmg9kOOeuhhgThuBOE4bX) | [Adrenaline Assault \[HAK002\]](https://open.spotify.com/album/7kR5VLDFHCm8PMiHWnjHCr) | 5:07 |
 | 96 | [The Future is Female](https://open.spotify.com/track/4V9UPaG4tajz9TQtTjPSOY) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [Diavoli](https://open.spotify.com/album/5bGud6uErdBVZbwUqBlIvc) | 5:24 |
-| 97 | [Massive Attack](https://open.spotify.com/track/2MlYnCsWXwMyVVQMZmYMYr) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk) | [Massive Attack](https://open.spotify.com/album/2RmsWUdkRKEIrcQhSVFCLF) | 4:06 |
-| 98 | [Full Belly](https://open.spotify.com/track/3FO2udFq5htKXTN61UwDNU) | [Cera Khin](https://open.spotify.com/artist/49QMv0RvuxcUG8Xk6YweEz) | [Full Belly](https://open.spotify.com/album/3RzpO4RjhbgfiAJjmxoM67) | 5:17 |
-| 99 | [Acid Is My Drug](https://open.spotify.com/track/6ozzp2fnqDP0iKzf3uwDAO) | [Rabteu](https://open.spotify.com/artist/6RJC2mTVh69zPcBo5RdkF4) | [Acid Is My Drug](https://open.spotify.com/album/1EEcgNtx2wToMD22yZ0W6b) | 4:26 |
-| 100 | [Looking 4 Balance](https://open.spotify.com/track/4hiSM6rPD1vv2c4Td9ShFS) | [Regal](https://open.spotify.com/artist/10RlWd6mCUDiRpQ30bGL2E) | [Various Artists \- EP 3](https://open.spotify.com/album/7Drk0jXeEUhOkK7ohIZlil) | 6:22 |
+| 97 | [Full Belly](https://open.spotify.com/track/3FO2udFq5htKXTN61UwDNU) | [Cera Khin](https://open.spotify.com/artist/49QMv0RvuxcUG8Xk6YweEz) | [Full Belly](https://open.spotify.com/album/3RzpO4RjhbgfiAJjmxoM67) | 5:17 |
+| 98 | [Acid Is My Drug](https://open.spotify.com/track/6ozzp2fnqDP0iKzf3uwDAO) | [Rabteu](https://open.spotify.com/artist/6RJC2mTVh69zPcBo5RdkF4) | [Acid Is My Drug](https://open.spotify.com/album/1EEcgNtx2wToMD22yZ0W6b) | 4:26 |
+| 99 | [Looking 4 Balance](https://open.spotify.com/track/4hiSM6rPD1vv2c4Td9ShFS) | [Regal](https://open.spotify.com/artist/10RlWd6mCUDiRpQ30bGL2E) | [Various Artists \- EP 3](https://open.spotify.com/album/7Drk0jXeEUhOkK7ohIZlil) | 6:22 |
+| 100 | [Posh & Scary](https://open.spotify.com/track/03qSprDdxsPGSrMFpWPAva) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF), [Parfait](https://open.spotify.com/artist/3tFRzplldDxib5z3YjQb6n) | [Various Artists 2 \- EP 1](https://open.spotify.com/album/2EryX3QueBkHLiomOEf6un) | 5:26 |
 
 Snapshot ID: `ZpmQnAAAAACz2qv8Z0LsbPXXJeNKB4UU`

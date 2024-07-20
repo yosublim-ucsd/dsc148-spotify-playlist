@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pXTlk.md) - [plain]
 
 ### [This Is The XCERTS](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4pXTlk)
 
-> This is The XCERTS\. The essential tracks, all in one playlist.
+> This Is The XCERTS\. Les titres incontournables, réunis dans une seule et même playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 583 likes - 40 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 584 likes - 40 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pXTlk.md) - [plain]
 | 12 | [Jealousy](https://open.spotify.com/track/6JR8HjROB76D1td19ma0fv) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Learning How To Live And Let Go](https://open.spotify.com/album/6GrsEsTOh0Pb56iQMIe0qe) | 2:02 |
 | 13 | [Kick It](https://open.spotify.com/track/6DudfdpqtGRCyUoTcMAmJb) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL) | 3:04 |
 | 14 | [Aberdeen 1987](https://open.spotify.com/track/4IPBnGpwKJIlSdlq8kgZVv) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 4:52 |
-| 15 | [First Kiss Feeling](https://open.spotify.com/track/3Ow3vn452NgBsTr09NZVAw) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 3:39 |
+| 15 | [Crazy](https://open.spotify.com/track/4OUtEuCBZvKlaPKzBG7M4G) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 3:32 |
 | 16 | [Drag Me Out](https://open.spotify.com/track/5MmCBut3K1DS3SJtjVDluN) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Learning How To Live And Let Go](https://open.spotify.com/album/6GrsEsTOh0Pb56iQMIe0qe) | 2:47 |
 | 17 | [Pop Song](https://open.spotify.com/track/5X8TmJVSztmMqT0kq2z6G3) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL) | 2:59 |
 | 18 | [Nightschool](https://open.spotify.com/track/7kypxcJ3LGW1OFH0PLvpf9) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 2:50 |
-| 19 | [Crazy](https://open.spotify.com/track/4OUtEuCBZvKlaPKzBG7M4G) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 3:32 |
+| 19 | [First Kiss Feeling](https://open.spotify.com/track/3Ow3vn452NgBsTr09NZVAw) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 3:39 |
 | 20 | [Everything I Cannot Live Without](https://open.spotify.com/track/2QmjlN2galNBzuLxbiOirz) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Learning How To Live And Let Go](https://open.spotify.com/album/6GrsEsTOh0Pb56iQMIe0qe) | 2:45 |
 | 21 | [I Don't Care](https://open.spotify.com/track/2Jt31docTzpsvfouRxEwoX) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL) | 3:52 |
 | 22 | [Do You Feel Safe?](https://open.spotify.com/track/71B1fNBwSnln85JuY4bTh3) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 3:32 |
@@ -36,17 +36,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pXTlk.md) - [plain]
 | 26 | [Home Versus Home](https://open.spotify.com/track/1xCHmRrMoqWgW3pMlyiJpR) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 4:07 |
 | 27 | [Slackerpop](https://open.spotify.com/track/7qgp4PNvNPG5vPoMeGg29E) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 2:34 |
 | 28 | [Weather Warning](https://open.spotify.com/track/7brYfjNrouDl1WtqLxQP9s) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Weather Warning](https://open.spotify.com/album/7BmVhPGyq2fG5Cg0Y1v4VF) | 4:10 |
-| 29 | [You Mean Everything](https://open.spotify.com/track/5AbVoazHJjVZvRBekq3BhI) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [You Mean Everything](https://open.spotify.com/album/4clkcMkCg0FE8HizG0CE8K) | 3:52 |
+| 29 | [Ready to Call](https://open.spotify.com/track/5ie3gZHgWj0Tip7YxJFTn6) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Ready to Call](https://open.spotify.com/album/4CMzznQBNj0AP2uDAxbbGS) | 3:39 |
 | 30 | [Crisis in the Slow Lane](https://open.spotify.com/track/7qWw4H4fBYV3p0rPrpT8IV) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 4:22 |
-| 31 | [Ready to Call](https://open.spotify.com/track/5ie3gZHgWj0Tip7YxJFTn6) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Ready to Call](https://open.spotify.com/album/4CMzznQBNj0AP2uDAxbbGS) | 3:39 |
+| 31 | [You Mean Everything](https://open.spotify.com/track/5AbVoazHJjVZvRBekq3BhI) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [You Mean Everything](https://open.spotify.com/album/4clkcMkCg0FE8HizG0CE8K) | 3:52 |
 | 32 | [Young \(Belane\)](https://open.spotify.com/track/6O3tpTZNeD4v0VEUvaBwSZ) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 3:33 |
 | 33 | [Fight or Run](https://open.spotify.com/track/1bkRlqgIqGHsthK66ot39Q) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Wildheart Dreaming](https://open.spotify.com/album/66OUu51LrvQjuywPP78Itc) | 3:12 |
 | 34 | [Cool Ethan](https://open.spotify.com/track/2qHRHqAVw7HPjCiJHF4UPM) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 5:16 |
 | 35 | [Complicated](https://open.spotify.com/track/7w7WlXyXPuo0AuuWMSGw98) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5), [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [Complicated \(feat\. Heights\)](https://open.spotify.com/album/3b5UdO9XkyHFQLFlNaWs01) | 3:32 |
-| 36 | [Scatterbrain](https://open.spotify.com/track/4WcdCE3c0lY31jac8qPRnt) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 3:15 |
+| 36 | [He Sinks\. He Sleeps](https://open.spotify.com/track/56z4syxpmOFBfrGAlM0VuR) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 4:14 |
 | 37 | [North East Kid](https://open.spotify.com/track/5Itxr5Pxr7Gm283MnkbcRv) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Shaking In The Water](https://open.spotify.com/album/4qAwGPiGVQvbgccrF34jih) | 3:50 |
-| 38 | [He Sinks\. He Sleeps](https://open.spotify.com/track/56z4syxpmOFBfrGAlM0VuR) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 4:14 |
-| 39 | [Carnival Time](https://open.spotify.com/track/0d05B9yk71AD3d4PRb1LbB) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 3:44 |
-| 40 | [Gum](https://open.spotify.com/track/5cOebVOa8m5nfJOIGvBErB) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 3:19 |
+| 38 | [Scatterbrain](https://open.spotify.com/track/4WcdCE3c0lY31jac8qPRnt) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 3:15 |
+| 39 | [Gum](https://open.spotify.com/track/5cOebVOa8m5nfJOIGvBErB) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 3:19 |
+| 40 | [Carnival Time](https://open.spotify.com/track/0d05B9yk71AD3d4PRb1LbB) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 3:44 |
 
-Snapshot ID: `ZpcJgAAAAACI0WzaMFxZzg3U0p1zbKJn`
+Snapshot ID: `ZphbAAAAAAA3Xny9Q+4CJD+BcGlzwH8s`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Anna Graves
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,777 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,802 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,21 +48,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 38 | [I Guess](https://open.spotify.com/track/0rkKuNq4U8E8KTLq7RRl1Z) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [I Guess](https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E) | 3:44 |
 | 39 | [Sadness As A Gift](https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Sadness As A Gift](https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD) | 4:19 |
 | 40 | [24](https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [24](https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR) | 4:06 |
-| 41 | [Crimes of the Heart](https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 3:04 |
+| 41 | [Starling](https://open.spotify.com/track/6IR4qfEu8sswMYBuQUyQAw) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Starling](https://open.spotify.com/album/70hcrcjqV7wtpXOTLMMgJ7) | 4:02 |
 | 42 | [The Anchor & The Kite](https://open.spotify.com/track/14GaOalWhixmfpfFVw8ycy) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Undone \(Love & Loss\) \[Deluxe\]](https://open.spotify.com/album/7aEGLB6rp077QBEms6JPZ4) | 2:38 |
-| 43 | [Starling](https://open.spotify.com/track/6IR4qfEu8sswMYBuQUyQAw) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Starling](https://open.spotify.com/album/70hcrcjqV7wtpXOTLMMgJ7) | 4:02 |
+| 43 | [Crimes of the Heart](https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 3:04 |
 | 44 | [Timeline](https://open.spotify.com/track/3T9QstFb2oeBo4QoMVMKKx) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Timeline](https://open.spotify.com/album/2SRvaltkNT8jvQ2NW8J8OZ) | 5:32 |
 | 45 | [Shut Up About It](https://open.spotify.com/track/22anHevRPlC1njepJ7FOvE) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17 \(Deluxe\)](https://open.spotify.com/album/4mSakdxl4oMzEMWeUxr37a) | 3:18 |
-| 46 | [How Long](https://open.spotify.com/track/6ugo6TrO93ZW9gAovTzegl) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [How Long](https://open.spotify.com/album/7ssXHDTUiWMgXKvu7Nw9Qe) | 3:30 |
-| 47 | [I Came Here to Leave You](https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [A Week in Nashville](https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1) | 2:58 |
+| 46 | [I Came Here to Leave You](https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [A Week in Nashville](https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1) | 2:58 |
+| 47 | [How Long](https://open.spotify.com/track/6ugo6TrO93ZW9gAovTzegl) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [How Long](https://open.spotify.com/album/7ssXHDTUiWMgXKvu7Nw9Qe) | 3:30 |
 | 48 | [Change \(feat\. Remi Wolf\)](https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:49 |
 | 49 | [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 |
 | 50 | [Nightvisions](https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Nightvisions](https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt) | 3:56 |
 | 51 | [Only One](https://open.spotify.com/track/5MXegzzvDfUSfwpf8a0FCq) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Only One](https://open.spotify.com/album/0fzG0DP1dF2MEGyuhZHj5w) | 3:09 |
 | 52 | [Life Is](https://open.spotify.com/track/7I20yqgoGEEfXBK8YNICJ8) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Here in the Pitch](https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0) | 3:08 |
 | 53 | [Wishes](https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Wishes](https://open.spotify.com/album/5SGGfUHXyfzxU11aAby1S1) | 4:09 |
-| 54 | [Watchman](https://open.spotify.com/track/4oKf0G986QhGLG8I9dpqP0) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Appaloosa Bones](https://open.spotify.com/album/4IVf6mYykPiEoqT099AXsX) | 3:18 |
-| 55 | [little me](https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [little me](https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm) | 3:00 |
+| 54 | [little me](https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [little me](https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm) | 3:00 |
+| 55 | [Watchman](https://open.spotify.com/track/4oKf0G986QhGLG8I9dpqP0) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Appaloosa Bones](https://open.spotify.com/album/4IVf6mYykPiEoqT099AXsX) | 3:18 |
 | 56 | [Stick Around](https://open.spotify.com/track/4LxQxGzZj0niHD8bbZCEYn) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Country](https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7) | 4:32 |
 | 57 | [4 foot 2](https://open.spotify.com/track/7smmFrbHO0vi23LiwHFipr) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [4 foot 2](https://open.spotify.com/album/1IoUGFTNFZPzBuMFq6UDUz) | 2:34 |
 | 58 | [Little Blue \(feat\. Brandi Carlile\)](https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Little Blue \(feat\. Brandi Carlile\)](https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa) | 4:25 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 63 | [One Less Question](https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [One Less Question](https://open.spotify.com/album/03IgjqBqPp0aTNiOxtpIiz) | 3:10 |
 | 64 | [talking to myself](https://open.spotify.com/track/4cJ7PE4KoLaUJg2S1iQMs3) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [talking to myself](https://open.spotify.com/album/4Q6zy7BRVEapZ8b0haQ6Tq) | 2:53 |
 | 65 | [Name of God](https://open.spotify.com/track/39Mbprj9K0OqHA6vxkREBy) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Name of God](https://open.spotify.com/album/1qk8EaixtL3TI4xc5dhyiq) | 3:28 |
-| 66 | [Afterlife](https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Afterlife](https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V) | 3:01 |
-| 67 | [Gasoline](https://open.spotify.com/track/4SpRlGOIkzx9bLfxl40wae) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Gasoline](https://open.spotify.com/album/2ap20TnfZUSbmas2IYCB7e) | 2:34 |
+| 66 | [Gasoline](https://open.spotify.com/track/4SpRlGOIkzx9bLfxl40wae) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Gasoline](https://open.spotify.com/album/2ap20TnfZUSbmas2IYCB7e) | 2:34 |
+| 67 | [Afterlife](https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Afterlife](https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V) | 3:01 |
 | 68 | [Forever](https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Hovvdy](https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0) | 3:28 |
 | 69 | [Malleable](https://open.spotify.com/track/4InJveZw3lD1gYUKEO4FtH) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [All For Something](https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm) | 4:01 |
 | 70 | [Housewarming \- The New Recording](https://open.spotify.com/track/5cLSmsKzxKhKwqkT9V3cat) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Wildewoman \(The New Recordings\) \[Deluxe\]](https://open.spotify.com/album/7IFZ1uR0Hs2h2W0arSqeHC) | 4:10 |

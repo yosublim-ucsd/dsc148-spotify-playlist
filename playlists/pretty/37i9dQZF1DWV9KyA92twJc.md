@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 
 > תחנת הרדיו הפרטית שלכם\. שירים יפים מישראל והעולם\. עטיפה: נועה קירל
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,647 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,644 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 75 | [רונדלים](https://open.spotify.com/track/3Au0H4VhjcXZ5HGOHo8Nc3) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [לירז](https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G) | 1:54 |
 | 76 | [ככה וככה](https://open.spotify.com/track/3QCWA9RzAPb4Xw4BagADFq) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [Part II](https://open.spotify.com/album/01OO9h8ieclWd8XiHHDg5e) | 3:39 |
 | 77 | [יהיה טוב & מים שקופים](https://open.spotify.com/track/44GSjYhBxuuKx0ikN5Dmag) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [יהיה טוב & מים שקופים](https://open.spotify.com/album/2EXKJU0fNDfuFSTCea3xCl) | 4:47 |
-| 78 | [יהיה טוב](https://open.spotify.com/track/6nSQvSGrFykSmDIOetK94r) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [אין עולם](https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc) | 3:16 |
-| 79 | [לצאת מדיכאון](https://open.spotify.com/track/0E9S1H3TktlpHmGyuKEfkL) | [יגל אושרי](https://open.spotify.com/artist/6Kn2CjfEButrWXszsA0E6Q) | [לצאת מדיכאון](https://open.spotify.com/album/3yKhRbzXdiublxlbHo69JF) | 3:10 |
+| 78 | [לצאת מדיכאון](https://open.spotify.com/track/0E9S1H3TktlpHmGyuKEfkL) | [יגל אושרי](https://open.spotify.com/artist/6Kn2CjfEButrWXszsA0E6Q) | [לצאת מדיכאון](https://open.spotify.com/album/3yKhRbzXdiublxlbHo69JF) | 3:10 |
+| 79 | [יהיה טוב](https://open.spotify.com/track/6nSQvSGrFykSmDIOetK94r) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [אין עולם](https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc) | 3:16 |
 | 80 | [Vandalist](https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Vandalist](https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ) | 3:28 |
 | 81 | [אהבה חולה](https://open.spotify.com/track/4RyMByXc5HfKc3b8wqwOso) | [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח](https://open.spotify.com/album/3YoJ4HHNk56z0qabdxYmci) | 3:02 |
 | 82 | [תיק קטן](https://open.spotify.com/track/3mCCFs2hdDM2mObzARzxOg) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe) | [תיק קטן](https://open.spotify.com/album/2eKft1fH1UqbnKrhWyuk4f) | 2:53 |
@@ -95,13 +95,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 85 | [38 וחוץ מכדורגל](https://open.spotify.com/track/3X0WwsNHfSqpd85A9Iggr2) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u), [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [38 וחוץ מכדורגל](https://open.spotify.com/album/20Pqok9eZIM415mGqpRPya) | 4:26 |
 | 86 | [עולם משוגע](https://open.spotify.com/track/4JmmjsGmOED0sn0Le3r84u) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [גם זה יעבור](https://open.spotify.com/album/0MYnKew1Jfihg9ItpHg2oT) | 5:55 |
 | 87 | [אין אותנו יותר \(By Tamar Yahalomy & Yonatan Kalimi\)](https://open.spotify.com/track/1zZ9bah4HU0TtICQzCFXp3) | [Avi Aburomi](https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr), [Mor](https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX) | [אין אותנו יותר \(By Tamar Yahalomy & Yonatan Kalimi\)](https://open.spotify.com/album/3e0NsW70ttnopNfVzZ2P6r) | 3:04 |
-| 88 | [צונאמי](https://open.spotify.com/track/6W6ssWo1mqA9bLTo47Alsz) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr), [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [אין עולם](https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc) | 2:47 |
+| 88 | [ויני וידי ויצ'י](https://open.spotify.com/track/4RrZdfphKgLiQ6uJJEgIMx) | [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) | [ויני וידי ויצ'י](https://open.spotify.com/album/2ZAVMJ0cfMztnaQoPiYv4N) | 2:24 |
 | 89 | [פרובוקטיבית](https://open.spotify.com/track/2b9TjqgLxE6zOZc4DSmYYx) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Forever Tel Aviv](https://open.spotify.com/artist/4j52sdXcMG3iMbXzTbQQ0q), [Sagi Kariv](https://open.spotify.com/artist/1Ki10qeE3KkXcpu9gsyq5a) | [פרובוקטיבית](https://open.spotify.com/album/0p6jsDXnFQ1nJqOZ5buGSx) | 2:34 |
 | 90 | [Come Back Home](https://open.spotify.com/track/7mo91mH70LRf4NMUs717c3) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Come Back Home](https://open.spotify.com/album/4y8kfoVNYrOUZ2GZr6sl7P) | 2:39 |
-| 91 | [ויני וידי ויצ'י](https://open.spotify.com/track/4RrZdfphKgLiQ6uJJEgIMx) | [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) | [ויני וידי ויצ'י](https://open.spotify.com/album/2ZAVMJ0cfMztnaQoPiYv4N) | 2:24 |
-| 92 | [הכל לטובה](https://open.spotify.com/track/0REMSQVoHQU9U1v5m657bx) | [Narkis](https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6) | [תשובה?](https://open.spotify.com/album/239QSa9yG5pSpwFPIVRqYN) | 2:41 |
+| 91 | [צונאמי](https://open.spotify.com/track/6W6ssWo1mqA9bLTo47Alsz) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr), [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [אין עולם](https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc) | 2:47 |
+| 92 | [שיר ללא שם](https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [עוגן במים](https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD) | 3:38 |
 | 93 | [בין העיר לפרדס](https://open.spotify.com/track/5rqeYyQ1EpbEJKkH4cgncs) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [בין העיר לפרדס](https://open.spotify.com/album/3hWlgKqZUnCC38e1FuGZSU) | 3:52 |
-| 94 | [שיר ללא שם](https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [עוגן במים](https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD) | 3:38 |
+| 94 | [הכל לטובה](https://open.spotify.com/track/0REMSQVoHQU9U1v5m657bx) | [Narkis](https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6) | [תשובה?](https://open.spotify.com/album/239QSa9yG5pSpwFPIVRqYN) | 2:41 |
 | 95 | [נהר הדמעות](https://open.spotify.com/track/0LqFPyHVwoYxJnZsa3Ji8x) | [Shlomo Artzi](https://open.spotify.com/artist/2W0dQPsEPd0tz7cj95gUse), [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [נהר הדמעות](https://open.spotify.com/album/6wI63Cyq2GddBiACSov0jB) | 2:54 |
 | 96 | [נתק אותי](https://open.spotify.com/track/4DR0S0A8F5DBByYLnPjdCr) | [Kfir Tsafrir](https://open.spotify.com/artist/7MKSeamhiRpa0xiS4FHGSC), [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [נתק אותי](https://open.spotify.com/album/5hcEdUlI8Ne2eiXtnFQXgY) | 3:20 |
 | 97 | [רק אני יודע](https://open.spotify.com/track/0NdV41q6lBoO4WyCaZmIJU) | [Stephane Legar](https://open.spotify.com/artist/2ZRiDEplNEZDgPBziiFEmk) | [רק אני יודע](https://open.spotify.com/album/1lclZGan78IHDPYl6p8iJ2) | 2:44 |

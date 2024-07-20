@@ -4,7 +4,7 @@
 
 > music from the underworld
 
-242 songs - 8 hr 32 min
+243 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [What I Want](https://open.spotify.com/track/77VtR2l9SUqNgN4mDRDEDt) | [Gregor McMurray](https://open.spotify.com/artist/1I2XKnqddS320Fo1vXH9WO) | [What I Want](https://open.spotify.com/album/0equCatWbHF6wgpR7Lxh0Q) | 3:02 | 2024-03-29 |  |
 | [WHAT YOU WANT!](https://open.spotify.com/track/2efqgrEC6lsx3KTy1yhllR) | [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9) | [WHAT YOU WANT!](https://open.spotify.com/album/7yt6zGA0dODjvY3Cmwx5cd) | 2:02 | 2023-12-14 |  |
 | [Won't Last Long](https://open.spotify.com/track/5yeNAyTWcAXGlRUinVjmjQ) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [Pröz](https://open.spotify.com/artist/2Iu7bGRaGHmvTuVWp8wMzX) | [Myspace Addiction](https://open.spotify.com/album/2Q2ZtKYsGAtTdnqSPWaA1S) | 2:35 | 2023-09-22 | 2024-05-18 |
+| [wutiwant](https://open.spotify.com/track/6zsUUymWPtq5bkoc5y97cM) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/4NHsl52eIxHX3ZGh66ZYUx) | 3:13 | 2024-07-19 |  |
 | [XoWoah](https://open.spotify.com/track/43zAiS2UVIZ1V4tKoS7wA4) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [XoWoah](https://open.spotify.com/album/6CHQdCW2DoR2hYg8uaYlBd) | 1:37 | 2023-07-21 | 2023-07-29 |
 | [XOXO \(Kisses Hugs\)](https://open.spotify.com/track/2otVGlTIMyGhIAyCcwb79v) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [horrormovies](https://open.spotify.com/artist/3FUMIWMYKoR9VlmLxrzIjA), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [XOXO \(Kisses Hugs\)](https://open.spotify.com/album/4KdsYbYINBVOGBfXOfUUJr) | 2:10 | 2024-01-12 | 2024-04-19 |
 | [XOXO \(Kisses Hugs\)](https://open.spotify.com/track/55n5kEar6hN5QOv1xbb8f7) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [horrormovies](https://open.spotify.com/artist/3FUMIWMYKoR9VlmLxrzIjA), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Myspace Addiction](https://open.spotify.com/album/2Q2ZtKYsGAtTdnqSPWaA1S) | 2:10 | 2023-09-22 | 2024-02-28 |

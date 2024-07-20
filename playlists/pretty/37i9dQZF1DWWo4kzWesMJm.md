@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 
 > Les meilleurs airs d'autoroute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,916 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,969 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,13 +35,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 25 | [Sur la route de Memphis](https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK) | [Eddy Mitchell](https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ) | [Sur La Route De Memphis](https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ) | 2:53 |
 | 26 | [Tiago](https://open.spotify.com/track/63eflEIBAF5VmO5AdVuZF7) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Amigo](https://open.spotify.com/album/29ct57rVIi3MIFyKJYUWrZ) | 2:58 |
 | 27 | [Sur la route](https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr) | [De Palmas](https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI) | [la derniere annee](https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4) | 3:41 |
-| 28 | [Ne partons pas fâchés](https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [caravane](https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6) | 3:13 |
-| 29 | [Le reste](https://open.spotify.com/track/73oVDoxJHbqOIkZ0C9ir31) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Cœur](https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC) | 3:38 |
+| 28 | [Le reste](https://open.spotify.com/track/73oVDoxJHbqOIkZ0C9ir31) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Cœur](https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC) | 3:38 |
+| 29 | [Ne partons pas fâchés](https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [caravane](https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6) | 3:13 |
 | 30 | [Ding Dang Dong \(Ringing at Your Bell\)](https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [Variéty](https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL) | 3:39 |
 | 31 | [L'indécision](https://open.spotify.com/track/41zrRHYHY72LCf2hzaK18z) | [Da Silva](https://open.spotify.com/artist/2DOrhe8H1WfcD6PPkgJH8X) | [Décembre en été](https://open.spotify.com/album/34FJDy2QrV2gMESfcL2Kxf) | 3:05 |
 | 32 | [Un jour je marierai un ange](https://open.spotify.com/track/5EWPzyWm0b9McPS5Qyaijp) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Un jour, je](https://open.spotify.com/album/6behht7b5iDD8CRpTWMWrI) | 2:45 |
-| 33 | [La belle vie](https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO) | [Sacha Distel](https://open.spotify.com/artist/1si0MhutSLRlQbxiBV08tz) | [Sacha Distel: Crooner](https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV) | 2:03 |
-| 34 | [On était beau](https://open.spotify.com/track/10ZrEcxWcD9vOSUVhUH33O) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Louane](https://open.spotify.com/album/7rDvst38yYrJFGqs4W25Y8) | 3:25 |
+| 33 | [On était beau](https://open.spotify.com/track/10ZrEcxWcD9vOSUVhUH33O) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Louane](https://open.spotify.com/album/7rDvst38yYrJFGqs4W25Y8) | 3:25 |
+| 34 | [La belle vie](https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO) | [Sacha Distel](https://open.spotify.com/artist/1si0MhutSLRlQbxiBV08tz) | [Sacha Distel: Crooner](https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV) | 2:03 |
 | 35 | [Tombé](https://open.spotify.com/track/399mh97iAmjU34de5MebHp) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [PYRAMIDE](https://open.spotify.com/album/4SGj2EwogAMqiN2imHvJSb) | 3:53 |
 | 36 | [Un jour au mauvais endroit](https://open.spotify.com/track/7ncNqIzXGRrKdP6C9fQUbm) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [Les feux d'artifice](https://open.spotify.com/album/4ZtEVWnShn3yATqGn1JTWh) | 4:54 |
 | 37 | [A la Folie](https://open.spotify.com/track/6EkR0w8oSHHuONFPsZW485) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Petite Amie \(Edition Délice\)](https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N) | 3:59 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 61 | [Le lion est mort ce soir](https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM) | [Pow Wow](https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ) | [Regagner Les Plaines](https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN) | 2:58 |
 | 62 | [Rockollection](https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Belle Ile En Mer](https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl) | 4:10 |
 | 63 | [Seul](https://open.spotify.com/track/7MRyru6giOwdtFYL5KQEVq) | [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn) | [Seul](https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP) | 4:41 |
-| 64 | [La recette](https://open.spotify.com/track/6ZujflJjESUbIV6LVgC9nY) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [La recette](https://open.spotify.com/album/5GbC8vKAEPFmMl40Wf0i8v) | 3:17 |
-| 65 | [Laissons entrer le soleil](https://open.spotify.com/track/1jRoXThsV21LQeNdT3tcUn) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Inédits 1968\-1998](https://open.spotify.com/album/1MlpnvY0WaNqf3fzEoklGj) | 3:44 |
+| 64 | [Laissons entrer le soleil](https://open.spotify.com/track/1jRoXThsV21LQeNdT3tcUn) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Inédits 1968\-1998](https://open.spotify.com/album/1MlpnvY0WaNqf3fzEoklGj) | 3:44 |
+| 65 | [La recette](https://open.spotify.com/track/6ZujflJjESUbIV6LVgC9nY) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [La recette](https://open.spotify.com/album/5GbC8vKAEPFmMl40Wf0i8v) | 3:17 |
 | 66 | [Mourir demain](https://open.spotify.com/track/0bdhH65xZdscxkATgDQlSS) | [Natasha St\-Pier](https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch), [Pascal Obispo](https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS) | [L'instant d'après](https://open.spotify.com/album/3teDBI5npi3hDWJ8zyFdv9) | 3:37 |
 | 67 | [Amoureuse \- Remasterisé en 2008](https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Amoureuse \(Edition Deluxe\)](https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG) | 3:41 |
 | 68 | [La femme chocolat](https://open.spotify.com/track/5M93fqN6b9HNmfQGmXlqdu) | [Olivia Ruiz](https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj) | [La femme chocolat](https://open.spotify.com/album/2s7Ajk85HeHsrB0rSzcKJM) | 2:51 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 72 | [Mauvais rêve](https://open.spotify.com/track/6IZWTHVNit0ajtXwAWDGO9) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Mauvais rêve](https://open.spotify.com/album/5blMLwINO84ZJntrW0CTNh) | 3:59 |
 | 73 | [Aux arbres citoyens](https://open.spotify.com/track/2poOtKwdjc39DRNmY6wRV2) | [Yannick Noah](https://open.spotify.com/artist/0BCkVcs4QEgfHlvZ7rjSNv) | [Charango](https://open.spotify.com/album/6poeQP5Vsy8V8cRdqLbn8c) | 3:15 |
 | 74 | [Tout savoir](https://open.spotify.com/track/5hquKiRUsOh0079PvO7EJN) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [Tout savoir](https://open.spotify.com/album/3KqSaDCCk1NIj4s4adfFTa) | 3:16 |
-| 75 | [Il suffira d'un signe](https://open.spotify.com/track/0xt1kT5tYW6BkwqGdOyUbA) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [A l'envers](https://open.spotify.com/album/6gVpnC0Dvjuv1XOVPnkGr6) | 5:49 |
-| 76 | [Je dis aime](https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Je Dis Aime](https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav) | 3:56 |
+| 75 | [Je dis aime](https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Je Dis Aime](https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav) | 3:56 |
+| 76 | [Il suffira d'un signe](https://open.spotify.com/track/0xt1kT5tYW6BkwqGdOyUbA) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [A l'envers](https://open.spotify.com/album/6gVpnC0Dvjuv1XOVPnkGr6) | 5:49 |
 | 77 | [L'autre finistère](https://open.spotify.com/track/0peab24FczqEtFcVhOnYmj) | [Les Innocents](https://open.spotify.com/artist/4yBNT94b6M3yRNVLIy8RhP) | [Meilleurs souvenirs \- Best Of](https://open.spotify.com/album/1qFDWiMazz2BuePnBmQbqg) | 4:09 |
 | 78 | [Sur la route](https://open.spotify.com/track/5NFbXrKAou3S8Jg0heGyW8) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM), [Jean\-Louis Aubert](https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs) | [La Réalité](https://open.spotify.com/album/6WY9BkvpRyeA5FYwpYrVp9) | 3:52 |
 | 79 | [Voyage en Italie](https://open.spotify.com/track/5FmknnkNLdiGeDndWfuxON) | [Lilicub](https://open.spotify.com/artist/4qb1iMTG9N0RulBWuV621J) | [Lilicub](https://open.spotify.com/album/54kmwLOLsXJQxGG1GwAUOj) | 3:55 |

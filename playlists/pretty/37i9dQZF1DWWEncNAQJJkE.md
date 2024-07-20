@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEncNAQJJkE.md) - [plain]
 
 > Our editors’ picks for the best of hip\-hop in Canada in 2023\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,377 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,344 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEncNAQJJkE.md) - [plain]
 | 44 | [The Jungle](https://open.spotify.com/track/4ZyxjjI2kMjMhECVgSkrdq) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [M.A.R.K](https://open.spotify.com/album/64eGGtowHL74uQ4MnIMZri) | 2:47 |
 | 45 | [PARANO](https://open.spotify.com/track/4usrLSSLd3ZeWPT8A91JtS) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [PARANO](https://open.spotify.com/album/0mwpThKSFOBSlxzK73cNdk) | 4:44 |
 | 46 | [Asteroids](https://open.spotify.com/track/7vTTOzp0E9D04XJVdt5qP5) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Asteroids](https://open.spotify.com/album/5jPlekW4E787N4lgsC9G3w) | 2:35 |
-| 47 | [What's Beef \(feat\. Inderpal Moga\)](https://open.spotify.com/track/08XzbojBXDW2GOGKQXt1ga) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [What's Beef \(feat\. Inderpal Moga\)](https://open.spotify.com/album/5yHCpPgd6ejBh3rHRZ5WSK) | 2:40 |
+| 47 | [What's Beef \(feat\. Jay Trak\)](https://open.spotify.com/track/08XzbojBXDW2GOGKQXt1ga) | [AR Paisley](https://open.spotify.com/artist/2BqW1aYg5QIWwZSB3dZxhI), [Chani Nattan](https://open.spotify.com/artist/73GCtKyixC0aZkyA6apUvp), [Inderpal Moga](https://open.spotify.com/artist/6y1EKbrek0DyHajky6pxf4), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [What's Beef \(feat\. Jay Trak\)](https://open.spotify.com/album/5yHCpPgd6ejBh3rHRZ5WSK) | 2:40 |
 | 48 | [SCIENTISTS & ENGINEERS \[Feat\. Future, Eryn Allen Kane\]](https://open.spotify.com/track/2RHKzvzdxXANTOKtbZnuLo) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [SCIENTISTS & ENGINEERS \[Feat\. Future, Eryn Allen Kane\]](https://open.spotify.com/album/2dxxlSiPPh9v9TwSTpjLgo) | 4:13 |
 | 49 | [First Day Out \(Freestyle\)](https://open.spotify.com/track/7idI4LLo9LVLqrvvzhSj3n) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\)](https://open.spotify.com/album/31UX5n39Siyj0nXs1s5DSZ) | 2:22 |
 | 50 | [JEEZ \- Remix](https://open.spotify.com/track/6nCWbZi88y0yWa8Kz6wypT) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT), [Paris Richards](https://open.spotify.com/artist/2QKgfzDlgGJCv1hkfOovKH) | [JEEZ \(Remix\)](https://open.spotify.com/album/4rVLtPPxZBFcxgwIFDavU3) | 2:08 |

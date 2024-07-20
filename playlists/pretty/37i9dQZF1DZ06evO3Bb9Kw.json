@@ -1,12 +1,12 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 169839,
+  "num_followers": 169853,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAACYuDV1zD0SJyVJfsusWcN1",
+  "snapshot_id": "ZphbAAAAAAByQWY5Hopx/uMAjTEdp6/D",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
       "duration_ms": 178196,
       "name": "Wranglers",
       "url": "https://open.spotify.com/track/5Ix11gWVeOnU2EKeP35AOO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB"
     },
     {
       "added_at": null,
@@ -167,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rearview Town",
         "url": "https://open.spotify.com/album/0m3ZCK4dSvyq6KUzEWdMhE"
       },
@@ -231,6 +231,22 @@
       "duration_ms": 197453,
       "name": "Settling Down",
       "url": "https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 247826,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW"
     },
     {
       "added_at": null,
@@ -1095,30 +1111,6 @@
       "duration_ms": 233266,
       "name": "Highway Vagabond",
       "url": "https://open.spotify.com/track/1m6un0uWcRlNcJHBQ1lKAo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cass County (Deluxe)",
-        "url": "https://open.spotify.com/album/3qsw8b2cxvBthq1OQIKBB3"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        },
-        {
-          "name": "Mick Jagger",
-          "url": "https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 270334,
-      "name": "Bramble Rose",
-      "url": "https://open.spotify.com/track/5jrzQx2i7TGqYGWpNmkH8n"
     }
   ],
   "unique_name": "This Is Miranda Lambert",

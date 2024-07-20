@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,884 songs - 4 day 3 hr 44 min
+1,885 songs - 4 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1330,6 +1330,7 @@
 | [Pas là](https://open.spotify.com/track/2gH0sY8ATBTt01imXPZJdH) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA](https://open.spotify.com/album/6mHX3onyNT2xYveguxhrDm) | 2:27 | 2023-03-04 | 2023-05-20 |
 | [Pas vraiment](https://open.spotify.com/track/50bolTQzLQn8AC1QhjM3XP) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 2:42 | 2022-03-05 | 2022-03-12 |
 | [Passat](https://open.spotify.com/track/5yHoANSze7sGzhn9MUarH3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [OCHO \(Deluxe\)](https://open.spotify.com/album/2imuPzHO3KOIVKMSZugf2Y) | 3:23 | 2022-03-01 | 2022-05-28 |
+| [Peace \- Nouvelle École](https://open.spotify.com/track/44aVBwrB5qGHvsp9e8wVby) | [JYEUHAIR](https://open.spotify.com/artist/7sr2KPOcmuTHm9GsbuRXKn) | [Nouvelle École \| Saison 3 \| Partie 2 \(Série Netflix\)](https://open.spotify.com/album/7IsXMsf593FfMSvHjV4WFn) | 2:01 | 2024-07-19 |  |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-27\* | 2021-08-15 |
 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-04-18 | 2024-05-07 |
 | [Pelo](https://open.spotify.com/track/4VcB0rnLW3Q9vvEbL5nKdv) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [2069'](https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq) | 1:57 | 2023-04-15 | 2023-05-07 |
@@ -1580,7 +1581,7 @@
 | [Sky Priority](https://open.spotify.com/track/6ItXr7qOXzK6KlhTbUu6hp) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 2:49 | 2021-12-05 | 2022-01-23 |
 | [Sleigh Ride](https://open.spotify.com/track/07RmHXaYqBdUyfAESPZkRO) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Christmas Portrait \(Special Edition/Reissue\)](https://open.spotify.com/album/5GMAtv4CU6GYQMo36Uuiqc) | 2:39 | 2022-12-25 | 2022-12-27 |
 | [Sleigh Ride](https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Sleigh Ride](https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s) | 3:01 | 2021-12-25 | 2023-12-30 |
-| [Slow It Down](https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 2:41 | 2024-07-13 |  |
+| [Slow It Down](https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 2:41 | 2024-07-13 | 2024-07-20 |
 | [SMS](https://open.spotify.com/track/0jHBAPWVAZIwW67hg0XHnh) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 2:33 | 2023-01-28 | 2023-02-04 |
 | [SMS](https://open.spotify.com/track/6PlZ3T2h2dpoEWKrviNkKS) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [SMS](https://open.spotify.com/album/3IW8rGJYse4RVtu1GaAGQJ) | 2:33 | 2022-12-03 | 2022-12-09 |
 | [SNAP](https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:59 | 2022-11-02 | 2023-04-01 |

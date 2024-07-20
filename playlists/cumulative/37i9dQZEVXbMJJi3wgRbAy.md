@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-831 songs - 1 day 20 hr 14 min
+832 songs - 1 day 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,8 @@
 | [Cosas Malas \- Remix](https://open.spotify.com/track/7hiAGGyiLaLBTVroaE08hx) | [Jona Mix](https://open.spotify.com/artist/766vvKS4M2b7XuaEzfkCs8) | [Cosas Malas \(Remix\)](https://open.spotify.com/album/7EDSu2ktxKYf8ZMm0NQFPP) | 2:59 | 2021-12-27 | 2022-03-04 |
 | [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 | 2023-05-02 | 2023-05-04 |
 | [CSIpher \(audio latino\)](https://open.spotify.com/track/39jHhYnMF65lncV4agV5dX) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Antes de Ameri](https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU) | 4:10 | 2023-06-24 | 2023-06-26 |
-| [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/track/5OwAhFlvFZ4ZdGDfroYgAm) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/album/5B3AaoOK8o22cYkdoBOVFI) | 3:38 | 2024-06-29 |  |
+| [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/track/3KeYEr9ogMBemsOfQIJmZp) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/album/4u5sL85dlRv7eIMJIozZl8) | 3:38 | 2024-07-19 |  |
+| [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/track/5OwAhFlvFZ4ZdGDfroYgAm) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/album/5B3AaoOK8o22cYkdoBOVFI) | 3:38 | 2024-06-29 | 2024-07-20 |
 | [cuatro veinte](https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [cuatro veinte](https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH) | 2:13 | 2022-03-26 | 2022-06-03 |
 | [cuatro veinte](https://open.spotify.com/track/3ushwCdjpWNdSnZgRFU6Oc) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:13 | 2022-06-02 | 2022-10-08 |
 | [Cuero](https://open.spotify.com/track/6Qm49W75EGGKYsuX6dooMP) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG), [Darmiko](https://open.spotify.com/artist/6AeznZajNbXUulT7W4tK5l), [Jheral](https://open.spotify.com/artist/4zsxko6Co1HikDuBTWcm7E) | [Cuero](https://open.spotify.com/album/5vMGHcLD18cN55lCqhWLRk) | 3:55 | 2024-02-20 | 2024-02-22 |

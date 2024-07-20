@@ -1,6 +1,6 @@
 {
   "description": "Ritmo latino!",
-  "num_followers": 322512,
+  "num_followers": 322788,
   "original_name": "Workout Latino",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,26 @@
     {
       "added_at": "2024-07-04 12:57:35",
       "album": {
+        "name": "El Efecto",
+        "url": "https://open.spotify.com/album/6C8ObcezFoorqPgY2J320r"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 217142,
+      "name": "El Efecto",
+      "url": "https://open.spotify.com/track/4SJHHpKhcuXwDsCsPqshXj"
+    },
+    {
+      "added_at": "2024-07-04 12:57:35",
+      "album": {
         "name": "OA",
         "url": "https://open.spotify.com/album/6YpCug9vNZz4uvlmlU7cet"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 235200,
       "name": "OA",
       "url": "https://open.spotify.com/track/6gMj2DzKR2PjrrbNSwcGFR"
-    },
-    {
-      "added_at": "2024-07-04 12:57:35",
-      "album": {
-        "name": "El Efecto",
-        "url": "https://open.spotify.com/album/6C8ObcezFoorqPgY2J320r"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "El Efecto",
-      "url": "https://open.spotify.com/track/4SJHHpKhcuXwDsCsPqshXj"
     },
     {
       "added_at": "2024-07-04 12:57:35",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2024-07-04 12:57:35",
       "album": {
-        "name": "BUBALU",
-        "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "BUBALU",
-      "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
-    },
-    {
-      "added_at": "2024-07-04 12:57:35",
-      "album": {
         "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
         "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 207301,
       "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
       "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
+    },
+    {
+      "added_at": "2024-07-04 12:57:35",
+      "album": {
+        "name": "BUBALU",
+        "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "BUBALU",
+      "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
     },
     {
       "added_at": "2024-07-04 12:57:35",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2024-07-04 12:57:35",
       "album": {
+        "name": "Vente Pa' Ca (feat. Maluma)",
+        "url": "https://open.spotify.com/album/1FkaJUwfqLdQdSmRPBlw6l"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 259195,
+      "name": "Vente Pa' Ca (feat. Maluma)",
+      "url": "https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46"
+    },
+    {
+      "added_at": "2024-07-04 12:57:35",
+      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1267,26 +1287,6 @@
     {
       "added_at": "2024-07-04 12:57:35",
       "album": {
-        "name": "Vente Pa' Ca (feat. Maluma)",
-        "url": "https://open.spotify.com/album/1FkaJUwfqLdQdSmRPBlw6l"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 259195,
-      "name": "Vente Pa' Ca (feat. Maluma)",
-      "url": "https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46"
-    },
-    {
-      "added_at": "2024-07-04 12:57:35",
-      "album": {
         "name": "SEJODIOTO",
         "url": "https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc"
       },
@@ -1299,6 +1299,26 @@
       "duration_ms": 181106,
       "name": "SEJODIOTO",
       "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
+    },
+    {
+      "added_at": "2024-07-04 12:57:35",
+      "album": {
+        "name": "Secreto",
+        "url": "https://open.spotify.com/album/6owzcG80ifZRDApCpzJYK1"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 258799,
+      "name": "Secreto",
+      "url": "https://open.spotify.com/track/5W83ErFkO3aKAIS1WMi6u0"
     },
     {
       "added_at": "2024-07-04 12:57:35",
@@ -1323,26 +1343,6 @@
       "duration_ms": 233453,
       "name": "Medallo",
       "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
-    },
-    {
-      "added_at": "2024-07-04 12:57:35",
-      "album": {
-        "name": "Secreto",
-        "url": "https://open.spotify.com/album/6owzcG80ifZRDApCpzJYK1"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 258799,
-      "name": "Secreto",
-      "url": "https://open.spotify.com/track/5W83ErFkO3aKAIS1WMi6u0"
     },
     {
       "added_at": "2024-07-04 12:57:35",

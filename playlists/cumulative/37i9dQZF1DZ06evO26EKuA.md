@@ -2,7 +2,7 @@
 
 ### [This Is Valentín Elizalde](https://open.spotify.com/playlist/37i9dQZF1DZ06evO26EKuA)
 
-> This Is Valentín Elizalde\. Los temas esenciales, todos en una lista.
+> This is Valentín Elizalde\. The essential tracks, all in one playlist.
 
 72 songs - 3 hr 51 min
 
@@ -12,7 +12,7 @@
 | [A Mis Enemigos](https://open.spotify.com/track/0rRxqhX6w0IWTFSzzRFSOo) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe) | 3:03 | 2022-06-01 |  |
 | [Acá Entre Nos \- En Vivo Desde Delfos, Guadalajara/2002](https://open.spotify.com/track/2YBcpGHHvg9vfCosDvTeal) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Valentin Elizalde En Vivo](https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L) | 3:55 | 2022-06-01 |  |
 | [Amor Prisionero \- En Vivo Desde Delfos, Guadalajara/2002](https://open.spotify.com/track/5XhsSUVmOHvPIrGn7safdH) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Valentin Elizalde En Vivo](https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L) | 2:41 | 2022-06-01 |  |
-| [Amor Que Muere \- En Vivo Desde Delfos, Guadalajara/2002](https://open.spotify.com/track/2NHZp87Eo4QbgSTYwcFAcs) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Valentin Elizalde En Vivo](https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L) | 2:52 | 2022-06-01 |  |
+| [Amor Que Muere \- En Vivo Desde Delfos, Guadalajara/2002](https://open.spotify.com/track/2NHZp87Eo4QbgSTYwcFAcs) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Valentin Elizalde En Vivo](https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L) | 2:52 | 2022-06-01 | 2024-07-20 |
 | [Así Que Te Vas](https://open.spotify.com/track/2ztgz4z6ZTBY7kOvEkZ87j) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Antología Musical](https://open.spotify.com/album/3RlQl1k33Vm0kynw47fTjX) | 2:58 | 2022-06-01 | 2022-10-13 |
 | [Así Que Te Vas](https://open.spotify.com/track/50ipI7duYwyQYw79guJRP8) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [El Vale Por Siempre](https://open.spotify.com/album/52ZgXPa5ge0JIMKKXz42QN) | 3:02 | 2022-12-20 |  |
 | [Así Que Te Vas](https://open.spotify.com/track/60t2rZ1IpgzX2UQ8MLHWTX) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Así Que Te Vas](https://open.spotify.com/album/2oGmmDoPposslbmIBYljwH) | 3:03 | 2022-11-26 | 2022-12-21 |
@@ -75,7 +75,7 @@
 | [Vete Con Él](https://open.spotify.com/track/11GMhNq5s4B2FTPzi0ahZL) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Las Bandas Románticas](https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd) | 3:06 | 2022-06-01 |  |
 | [Vete Ya](https://open.spotify.com/track/0nTf8OiF3lUTkDxJaMJB0N) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Banda Carnaval & Valentín Elizalde](https://open.spotify.com/album/77isjgI5Rz6GNpLvxA4VXm) | 2:38 | 2022-12-12 | 2023-01-11 |
 | [Vete Ya](https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Mi Satisfacción](https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl) | 2:37 | 2022-06-01 |  |
-| [Volvere A Amar](https://open.spotify.com/track/5QFuPzUEkWsTszwYyswsbB) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Volveré a Amar](https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h) | 3:51 | 2022-06-01 | 2024-07-19 |
+| [Volvere A Amar](https://open.spotify.com/track/5QFuPzUEkWsTszwYyswsbB) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Volveré a Amar](https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h) | 3:51 | 2022-06-01 |  |
 | [Vuelve Cariñito](https://open.spotify.com/track/2WwkIeLHly6VJuOb1ihhzG) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Mi Satisfacción](https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl) | 2:36 | 2022-06-01 |  |
 | [Y No Me Lo Das](https://open.spotify.com/track/4L8MlmRxoCRSzTP5PECCDx) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe) | 2:04 | 2023-08-03 |  |
 | [Y Se Parece A Ti](https://open.spotify.com/track/0XRCG6jacQjl0EkLJheIR8) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Y Se Parece A Tí](https://open.spotify.com/album/123FJyOsN9p5QU6wGi5sSo) | 2:22 | 2022-06-01 |  |

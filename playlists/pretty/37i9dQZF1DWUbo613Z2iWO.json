@@ -1,13 +1,53 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Sasha Keable",
-  "num_followers": 51504,
+  "description": "R&B of the moment by the artists of the future. Cover: Major Myjah",
+  "num_followers": 51514,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpCqQAAAAAAl3ldjIouHo1LbABtiXezy",
+  "snapshot_id": "Zpp9kwAAAADEYd41XgHcMdoCO6PXHO+Z",
   "tracks": [
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Exes",
+        "url": "https://open.spotify.com/album/2CSmZtcqtil57qW8BOiAoG"
+      },
+      "artists": [
+        {
+          "name": "Major Myjah",
+          "url": "https://open.spotify.com/artist/1pseCBuVDMZFDp6RbzuX8L"
+        }
+      ],
+      "duration_ms": 162764,
+      "name": "Exes",
+      "url": "https://open.spotify.com/track/4zUkoSQCwdHmidKyzXZXUV"
+    },
+    {
+      "added_at": "2024-07-19 14:52:03",
+      "album": {
+        "name": "Merlot",
+        "url": "https://open.spotify.com/album/5GznepRbxSMHnnnxPNUYGt"
+      },
+      "artists": [
+        {
+          "name": "Ye Ali",
+          "url": "https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH"
+        },
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        },
+        {
+          "name": "Sidney Gilliam",
+          "url": "https://open.spotify.com/artist/4f3YbRd80O0uo81hswwwo5"
+        }
+      ],
+      "duration_ms": 246060,
+      "name": "Merlot",
+      "url": "https://open.spotify.com/track/1qWEIjCuCRlRbtrPmtEvjb"
+    },
     {
       "added_at": "2024-06-28 17:53:44",
       "album": {
@@ -29,20 +69,20 @@
       "url": "https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD"
     },
     {
-      "added_at": "2024-06-28 17:53:44",
+      "added_at": "2024-07-19 14:52:03",
       "album": {
-        "name": "Gracious",
-        "url": "https://open.spotify.com/album/7mSj10R9kb4kEfG2XnrdrJ"
+        "name": "GARDEN",
+        "url": "https://open.spotify.com/album/3M0yFfkVWQnAmjMpe2TGlH"
       },
       "artists": [
         {
-          "name": "Bren Joy",
-          "url": "https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp"
+          "name": "Rayana Jay",
+          "url": "https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S"
         }
       ],
-      "duration_ms": 155144,
-      "name": "Gracious",
-      "url": "https://open.spotify.com/track/1iOWaIFoISTlYm13Kxtxm4"
+      "duration_ms": 186272,
+      "name": "GARDEN",
+      "url": "https://open.spotify.com/track/6YpiUebCTyUcLmV4X8W7Vq"
     },
     {
       "added_at": "2024-06-28 17:53:44",
@@ -59,6 +99,38 @@
       "duration_ms": 179571,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/4Z973kxz9iOlxwTlCDskpl"
+    },
+    {
+      "added_at": "2024-07-19 14:52:03",
+      "album": {
+        "name": "It's Complicated",
+        "url": "https://open.spotify.com/album/3rx7MeU8pWqIq9vZG2nr5p"
+      },
+      "artists": [
+        {
+          "name": "Trevor Jackson",
+          "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Find Out",
+      "url": "https://open.spotify.com/track/50ya4OPn83WoR4kssGh088"
+    },
+    {
+      "added_at": "2024-07-19 14:52:03",
+      "album": {
+        "name": "Boys Like U",
+        "url": "https://open.spotify.com/album/20Lna2QqNErPjA4lRDUGoX"
+      },
+      "artists": [
+        {
+          "name": "\u00c4yanna",
+          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Boys Like U",
+      "url": "https://open.spotify.com/track/1tUYtX5SrRj9MJQgZ9u2W3"
     },
     {
       "added_at": "2024-06-14 07:24:46",
@@ -107,22 +179,6 @@
       "duration_ms": 134845,
       "name": "CANDY",
       "url": "https://open.spotify.com/track/3ve0jZkY2ZrFY4ycBCKKFt"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Exes",
-        "url": "https://open.spotify.com/album/2CSmZtcqtil57qW8BOiAoG"
-      },
-      "artists": [
-        {
-          "name": "Major Myjah",
-          "url": "https://open.spotify.com/artist/1pseCBuVDMZFDp6RbzuX8L"
-        }
-      ],
-      "duration_ms": 162764,
-      "name": "Exes",
-      "url": "https://open.spotify.com/track/4zUkoSQCwdHmidKyzXZXUV"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -185,6 +241,54 @@
       "url": "https://open.spotify.com/track/3vUm8HaXvzoaP8yNNNiiu2"
     },
     {
+      "added_at": "2024-07-19 14:52:03",
+      "album": {
+        "name": "Luvr",
+        "url": "https://open.spotify.com/album/2sKQrhLFA3O4N1I47S39vO"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 178907,
+      "name": "Fine With Me",
+      "url": "https://open.spotify.com/track/2EsvKqdrDBYttjRimh8QMu"
+    },
+    {
+      "added_at": "2024-07-19 14:52:03",
+      "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/35AzGnMYa7ICT9A9jonkIx"
+      },
+      "artists": [
+        {
+          "name": "Forest Claudette",
+          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
+        }
+      ],
+      "duration_ms": 146437,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/2gvnHG9hb9S7Dwlo6EwAek"
+    },
+    {
+      "added_at": "2024-06-28 17:53:44",
+      "album": {
+        "name": "Gracious",
+        "url": "https://open.spotify.com/album/7mSj10R9kb4kEfG2XnrdrJ"
+      },
+      "artists": [
+        {
+          "name": "Bren Joy",
+          "url": "https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp"
+        }
+      ],
+      "duration_ms": 155144,
+      "name": "Gracious",
+      "url": "https://open.spotify.com/track/1iOWaIFoISTlYm13Kxtxm4"
+    },
+    {
       "added_at": "2024-05-31 07:31:18",
       "album": {
         "name": "SOMETHING MORE",
@@ -201,6 +305,26 @@
       "url": "https://open.spotify.com/track/1QD5FRoUo6gcxAzq7bg2ae"
     },
     {
+      "added_at": "2024-07-19 14:52:03",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/3Shtu9x2wwLdfhbTK44wuj"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "duration_ms": 150461,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/0TudtJBpsQzsCkdkJTmU2Q"
+    },
+    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "CRYBABY",
@@ -215,26 +339,6 @@
       "duration_ms": 239306,
       "name": "CRYBABY",
       "url": "https://open.spotify.com/track/2Xyzl5wumWGTvbZSQXH3aD"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Don't Wanna Let You Down",
-        "url": "https://open.spotify.com/album/5O8QsJ9KSgaUtrTnSlyvO2"
-      },
-      "artists": [
-        {
-          "name": "omoid\u00e9",
-          "url": "https://open.spotify.com/artist/4WK8Uiyh2rcYNK0ktKvBaL"
-        },
-        {
-          "name": "Sophia Galat\u00e9",
-          "url": "https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ"
-        }
-      ],
-      "duration_ms": 220661,
-      "name": "Don't Wanna Let You Down",
-      "url": "https://open.spotify.com/track/1znS1Nb3cRFg8UKHvbQaaY"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -259,6 +363,42 @@
       "duration_ms": 191658,
       "name": "Rock Steady",
       "url": "https://open.spotify.com/track/2ntw401pdhJCTDKRBAT2ZP"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Don't Wanna Let You Down",
+        "url": "https://open.spotify.com/album/5O8QsJ9KSgaUtrTnSlyvO2"
+      },
+      "artists": [
+        {
+          "name": "omoid\u00e9",
+          "url": "https://open.spotify.com/artist/4WK8Uiyh2rcYNK0ktKvBaL"
+        },
+        {
+          "name": "Sophia Galat\u00e9",
+          "url": "https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ"
+        }
+      ],
+      "duration_ms": 220661,
+      "name": "Don't Wanna Let You Down",
+      "url": "https://open.spotify.com/track/1znS1Nb3cRFg8UKHvbQaaY"
+    },
+    {
+      "added_at": "2024-07-19 14:52:03",
+      "album": {
+        "name": "For The Best",
+        "url": "https://open.spotify.com/album/11ql8nqyE8Zb81jS1VKs9U"
+      },
+      "artists": [
+        {
+          "name": "Hailey Knox",
+          "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
+        }
+      ],
+      "duration_ms": 135533,
+      "name": "Stranger - loop",
+      "url": "https://open.spotify.com/track/2qReqmTNGm1hQG3wmar4EC"
     },
     {
       "added_at": "2024-05-31 07:31:18",
@@ -431,22 +571,6 @@
       "duration_ms": 187075,
       "name": "carla's revenge (feat. Shantel May)",
       "url": "https://open.spotify.com/track/4siTPKthioqW6tOBC0l7AS"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Find Out",
-        "url": "https://open.spotify.com/album/2riOJEMeaodyfB9RN8hE5f"
-      },
-      "artists": [
-        {
-          "name": "Trevor Jackson",
-          "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Find Out",
-      "url": "https://open.spotify.com/track/71e1X3xV66f3ZeaPg6ztqn"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -919,22 +1043,6 @@
     {
       "added_at": "2024-05-31 07:31:18",
       "album": {
-        "name": "Love Somebody",
-        "url": "https://open.spotify.com/album/7BK8Km6JQ3D5YhT0PdRwus"
-      },
-      "artists": [
-        {
-          "name": "TheARTI$t",
-          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
-        }
-      ],
-      "duration_ms": 176166,
-      "name": "Love Somebody",
-      "url": "https://open.spotify.com/track/0TCQnVD1YqN2gNIFrvNICE"
-    },
-    {
-      "added_at": "2024-05-31 07:31:18",
-      "album": {
         "name": "unruly",
         "url": "https://open.spotify.com/album/30qNUbkHpnFRNd8x8sYWNT"
       },
@@ -1137,22 +1245,6 @@
       "url": "https://open.spotify.com/track/2k9R6I6dhAWnNnsU4qS53p"
     },
     {
-      "added_at": "2024-05-03 14:53:38",
-      "album": {
-        "name": "what do you need",
-        "url": "https://open.spotify.com/album/2XfbLj4z1SWkZsg6YfD9Wi"
-      },
-      "artists": [
-        {
-          "name": "Hailey Knox",
-          "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
-        }
-      ],
-      "duration_ms": 161053,
-      "name": "what do you need",
-      "url": "https://open.spotify.com/track/6w1e7VnGbH5TKIjX8gsTnR"
-    },
-    {
       "added_at": "2024-05-24 07:18:06",
       "album": {
         "name": "Like Dat (feat. Ambr\u00e9)",
@@ -1333,38 +1425,6 @@
       "url": "https://open.spotify.com/track/31kpgadjTib4K74PRKec0s"
     },
     {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
-        "name": "Paradigm Shift",
-        "url": "https://open.spotify.com/album/5uEbP31l5YIIzRWsGqCd6b"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Mikael",
-          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
-        }
-      ],
-      "duration_ms": 143543,
-      "name": "NEXT CHAPTER",
-      "url": "https://open.spotify.com/track/2bXMwqj4qwHU6dFc1lAuox"
-    },
-    {
-      "added_at": "2024-04-05 04:05:00",
-      "album": {
-        "name": "he's just not that into you!",
-        "url": "https://open.spotify.com/album/3LQxhuq5ZS9eQQrocLGwdO"
-      },
-      "artists": [
-        {
-          "name": "Amelia Moore",
-          "url": "https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo"
-        }
-      ],
-      "duration_ms": 164958,
-      "name": "back to him",
-      "url": "https://open.spotify.com/track/4l4q4SvYblrOQecJdKojJp"
-    },
-    {
       "added_at": "2024-03-22 08:51:00",
       "album": {
         "name": "The Honeymoon Phase",
@@ -1379,22 +1439,6 @@
       "duration_ms": 207128,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/2KU6NNHXLbXPDgzwzuc4d9"
-    },
-    {
-      "added_at": "2024-04-05 04:05:00",
-      "album": {
-        "name": "Way Back",
-        "url": "https://open.spotify.com/album/6wupFmAbunLGJluegOy9lf"
-      },
-      "artists": [
-        {
-          "name": "Tash",
-          "url": "https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR"
-        }
-      ],
-      "duration_ms": 159750,
-      "name": "Way Back",
-      "url": "https://open.spotify.com/track/1wAhoNjMBg3yQc2VzCxr1j"
     },
     {
       "added_at": "2024-04-05 04:05:00",
@@ -1537,22 +1581,6 @@
       "url": "https://open.spotify.com/track/7c41OkV2tVXVsjgCl9chVq"
     },
     {
-      "added_at": "2024-03-22 08:51:00",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/7dBQVQ6drTaBoL3H1v32Fq"
-      },
-      "artists": [
-        {
-          "name": "Forest Claudette",
-          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/5dkTWuvnE2B4dOW0xo8mul"
-    },
-    {
       "added_at": "2024-03-29 07:17:40",
       "album": {
         "name": "Let Me Wander",
@@ -1621,26 +1649,6 @@
       "url": "https://open.spotify.com/track/15SHKUdlRaqIVTJWcP5n5a"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "MET YOU AT A BAR",
-        "url": "https://open.spotify.com/album/5XFDNmKIETmCv4YabIQRHP"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "Tone Stith",
-          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "MET YOU AT A BAR",
-      "url": "https://open.spotify.com/track/1tqDKxcXd2dlni26L3BGQ3"
-    },
-    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Afro Blue",
@@ -1655,22 +1663,6 @@
       "duration_ms": 231427,
       "name": "Afro Blue",
       "url": "https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "IS IT WORTH IT",
-        "url": "https://open.spotify.com/album/07Cy5GDf829nfPbW5hIHKf"
-      },
-      "artists": [
-        {
-          "name": "Rae Khalil",
-          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
-        }
-      ],
-      "duration_ms": 220839,
-      "name": "IS IT WORTH IT",
-      "url": "https://open.spotify.com/track/4Nh0JxNzagptVbxUUbrcyW"
     },
     {
       "added_at": "2024-03-29 07:17:40",
@@ -1843,22 +1835,6 @@
       "duration_ms": 150000,
       "name": "Anonymous",
       "url": "https://open.spotify.com/track/0nzrey7EGWju6WBndLkUFa"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Delusion",
-        "url": "https://open.spotify.com/album/02Sbm2LatYl69bi0sWv4zc"
-      },
-      "artists": [
-        {
-          "name": "Amaeya",
-          "url": "https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56"
-        }
-      ],
-      "duration_ms": 170232,
-      "name": "Delusion",
-      "url": "https://open.spotify.com/track/7atJqz72vCyJyNIiRo33XO"
     },
     {
       "added_at": "2024-02-09 18:38:40",
@@ -2051,26 +2027,6 @@
       "duration_ms": 248871,
       "name": "Mixed Signals",
       "url": "https://open.spotify.com/track/37Ul8ruDPOdhMuCRYbSUn6"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Switching Sides (feat. Dee Gatti)",
-        "url": "https://open.spotify.com/album/0t0KTaeuABJBI0XiNM9vyr"
-      },
-      "artists": [
-        {
-          "name": "Marzz",
-          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
-        },
-        {
-          "name": "Dee Gatti",
-          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
-        }
-      ],
-      "duration_ms": 139794,
-      "name": "Switching Sides (feat. Dee Gatti)",
-      "url": "https://open.spotify.com/track/4lUEgk2Da44ikFhF5TS863"
     }
   ],
   "unique_name": "R&B Rising",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: Daniel, Me Estás Matando
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,882 likes - 65 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,915 likes - 65 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 39 | [Diferente](https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Diferente](https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya) | 3:40 |
 | 40 | [Bonito](https://open.spotify.com/track/3AQ0civlqpPROACEaMv4Xo) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Estas Canciones Me Recuerdan a Ti](https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM) | 4:00 |
 | 41 | [Frio](https://open.spotify.com/track/0Upd1dGnqg5TtrFb8urWTb) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Frio](https://open.spotify.com/album/1gbBR68zEJvzpArT7UhsPh) | 2:35 |
-| 42 | [Lo Que Tú Quieras](https://open.spotify.com/track/29IQpdkv1MaP6Hvr1IBsdv) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Lo Que Tú Quieras](https://open.spotify.com/album/1APLoRrGJUBAcIzHeYclft) | 3:18 |
+| 42 | [Somos Algo](https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Somos Algo](https://open.spotify.com/album/2AsN8qBSqdGAlvUT3NBS4k) | 3:54 |
 | 43 | [Casi algo](https://open.spotify.com/track/2lRIrlut8slUKShhAxJuK7) | [Me Dicen Jos](https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV) | [Casi algo](https://open.spotify.com/album/3FIiOO2a4yHnbCe5zDImkY) | 2:45 |
 | 44 | [Me Vas a Hacer Falta](https://open.spotify.com/track/6eEnycLcdQWSkgg12wjN4o) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 4:00 |
 | 45 | [Como Fue](https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 2:42 |

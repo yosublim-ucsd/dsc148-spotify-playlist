@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 212459,
       "name": "Deti Kaltert",
       "url": "https://open.spotify.com/track/28T6PyLSaQRNwpCCA8DAWj"
@@ -1854,7 +1854,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 228484,
       "name": "Family Dawn",
       "url": "https://open.spotify.com/track/2Gdybo91D2AszWaPKGLrul"
@@ -4831,6 +4831,24 @@
     },
     {
       "album": {
+        "name": "Solstice Waves",
+        "url": "https://open.spotify.com/album/05AOfjLp2pq7emPXZGbRXk"
+      },
+      "artists": [
+        {
+          "name": "Eternalistic",
+          "url": "https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Solstice Waves",
+      "url": "https://open.spotify.com/track/6SFSWBUYfepFU3iNlXLPeu"
+    },
+    {
+      "album": {
         "name": "Spectral Stone",
         "url": "https://open.spotify.com/album/5nw8PE1qYifYIlNXHQesdl"
       },
@@ -4878,7 +4896,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 159250,
       "name": "Stargaze",
       "url": "https://open.spotify.com/track/4lMmoawRGvO419cZgRP9mV"
@@ -5742,7 +5760,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 184235,
       "name": "Two Ways",
       "url": "https://open.spotify.com/track/2jtfOMMCIJrZgXbdnrVNDH"

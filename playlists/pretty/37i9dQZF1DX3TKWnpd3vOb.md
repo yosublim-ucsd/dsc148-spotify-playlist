@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Spiral Vortex.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,637 likes - 90 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,639 likes - 90 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,12 +65,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 55 | [Corazón Negro](https://open.spotify.com/track/2kacIVCOgeIypJgcsxJomO) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Corazón Negro](https://open.spotify.com/album/5UGVjuYlzgYGalIrb4jqPI) | 4:02 |
 | 56 | [Pálida Forma Nocturna](https://open.spotify.com/track/2ptZ7SzUM4PHW7MqhBYV1q) | [Pablo Ilabaca](https://open.spotify.com/artist/0G6TsGjX0YYEDjXeBkiW5A) | [Pálida Forma Nocturna](https://open.spotify.com/album/15b1UP34yIQYm87kTc3uB7) | 3:44 |
 | 57 | [Amaneciendo](https://open.spotify.com/track/7bPavFLJlHzL5lXvzCeoAr) | [Saiko](https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry) | [Amaneciendo](https://open.spotify.com/album/3UeaOvDIWsGVqUmsTjZ3Gd) | 4:48 |
-| 58 | [Vueltas y Vueltas](https://open.spotify.com/track/7v6l4Wa1SE7L26HQSj06ty) | [Noiz](https://open.spotify.com/artist/5NpCexmiedqpm9vOpdf5jW) | [Vueltas y Vueltas](https://open.spotify.com/album/6j9IY5ciee6ujWB671w2vl) | 3:15 |
-| 59 | [Camino a Casa](https://open.spotify.com/track/3evQsJptwoHiMgjPEXHgUY) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Camino a Casa](https://open.spotify.com/album/2ysiEW1gjjAB0WykQp31lU) | 2:53 |
+| 58 | [Camino a Casa](https://open.spotify.com/track/3evQsJptwoHiMgjPEXHgUY) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Camino a Casa](https://open.spotify.com/album/2ysiEW1gjjAB0WykQp31lU) | 2:53 |
+| 59 | [Vueltas y Vueltas](https://open.spotify.com/track/7v6l4Wa1SE7L26HQSj06ty) | [Noiz](https://open.spotify.com/artist/5NpCexmiedqpm9vOpdf5jW) | [Vueltas y Vueltas](https://open.spotify.com/album/6j9IY5ciee6ujWB671w2vl) | 3:15 |
 | 60 | [Diabla](https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa) | [Tsunamis](https://open.spotify.com/artist/2oqOl5iVYtC7mpaqUtm5pU) | [7 Mares](https://open.spotify.com/album/4im29JIy0zo9FsVD5rHvAy) | 4:18 |
-| 61 | [Lento](https://open.spotify.com/track/4DE2J87tCFKgAP4dfjtLFU) | [Perrosky](https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm) | [Lento](https://open.spotify.com/album/3LtJle06939dZyl1r49hIY) | 3:58 |
+| 61 | [Tanto creo en ti](https://open.spotify.com/track/0r5YhIxh1hmRJ7rSHxg7Vd) | [Depedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb), [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Tanto creo en ti](https://open.spotify.com/album/5nvL8Kst2zSHSTfO9S3oZd) | 3:16 |
 | 62 | [Mis Hermanos Sueñan Despiertos](https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Mis Hermanos Sueñan Despiertos](https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg) | 3:24 |
-| 63 | [Tanto creo en ti](https://open.spotify.com/track/0r5YhIxh1hmRJ7rSHxg7Vd) | [Depedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb), [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Tanto creo en ti](https://open.spotify.com/album/5nvL8Kst2zSHSTfO9S3oZd) | 3:16 |
+| 63 | [Lento](https://open.spotify.com/track/4DE2J87tCFKgAP4dfjtLFU) | [Perrosky](https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm) | [Lento](https://open.spotify.com/album/3LtJle06939dZyl1r49hIY) | 3:58 |
 | 64 | [Refugio](https://open.spotify.com/track/76t17pz5Pr6JrHUZltrr3z) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Refugio](https://open.spotify.com/album/2DSR4CdpDvpKaV9WE2Jmik) | 4:09 |
 | 65 | [Viajar \- Space Mix](https://open.spotify.com/track/0sGmeT8k85FWLkIREqdwda) | [Lucybell](https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht), [Cote Foncea](https://open.spotify.com/artist/17Et5bvvC8HQhiXU27wKQn) | [Viajar](https://open.spotify.com/album/7bnqsPENupVaK25z382mq9) | 4:52 |
 | 66 | [Los Niños Cuicos No Saben Rockear](https://open.spotify.com/track/556pT1Sm2jwHJ8bLaXJEoR) | [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Políticamente Incorrectos \(Soeces y Anacrónicos\)](https://open.spotify.com/album/2CTSh87S7pObaadO2HGovU) | 2:41 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 78 | [Son Puros Caballos](https://open.spotify.com/track/3JAyeMLkrl51mRA2Vk5EFB) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Hipertenso](https://open.spotify.com/album/3yBykHuW218uf6rXjUvl0o) | 2:44 |
 | 79 | [Nuestro Amor](https://open.spotify.com/track/1qV8Z8nwhEwH7Z5J0u1VCU) | [Upa!](https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n) | [Nuestro Amor](https://open.spotify.com/album/2azUl3rf0aMEQNzvGTeF98) | 4:15 |
 | 80 | [Soldados](https://open.spotify.com/track/3TCj56rGlJRCmX7L8Kgwgk) | [Kapitol](https://open.spotify.com/artist/5FuX1pfwNKtfSvimMmLSbt) | [Santos](https://open.spotify.com/album/3h8muVhOvlsw6Olfn5XrHG) | 3:45 |
-| 81 | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk) | 3:21 |
-| 82 | [Destino Final](https://open.spotify.com/track/7GMGv2nCPAMmfYzV1wiMLR) | [Autóctonos de Ninguna Parte](https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN) | [Destino Final](https://open.spotify.com/album/4tCScaVRF0iuf1EX65clDY) | 5:29 |
+| 81 | [Destino Final](https://open.spotify.com/track/7GMGv2nCPAMmfYzV1wiMLR) | [Autóctonos de Ninguna Parte](https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN) | [Destino Final](https://open.spotify.com/album/4tCScaVRF0iuf1EX65clDY) | 5:29 |
+| 82 | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk) | 3:21 |
 | 83 | [La vida mi vida se vive así \- Radio Edit](https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [La vida mi vida se vive así \(Radio Edit\)](https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS) | 2:54 |
 | 84 | [Revelando, Develando](https://open.spotify.com/track/7vjVFkNHk3nq6OiuzaoQck) | [Los Makana](https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5) | [Baladas del Fin del Mundo](https://open.spotify.com/album/0WPzYjeKd2clBUAgdZv6yw) | 4:08 |
 | 85 | [Asocial](https://open.spotify.com/track/2bCBHwtv930VSVbYfU1Ovd) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Asocial](https://open.spotify.com/album/57KPFodpLITwBR9iKUd2S6) | 3:17 |

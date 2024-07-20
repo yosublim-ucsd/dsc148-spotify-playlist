@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 
 > This is Grupo Firme\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 980,667 likes - 51 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 980,927 likes - 51 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 50 | [Mala Hierba](https://open.spotify.com/track/47Nf0haFCGYpWfMTP9Jdgd) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Mala Hierba](https://open.spotify.com/album/6QFKbgYHqHWwBL1MnSrC0v) | 2:47 |
 | 51 | [Te Soñé \(En Vivo\)](https://open.spotify.com/track/2RGQaFUjKxEVBEFzma54YN) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Te Soñé \(En Vivo\)](https://open.spotify.com/album/7DIYjfFkFIAfMBQF66NqKX) | 3:43 |
 
-Snapshot ID: `ZpcJgAAAAADCWEQ5oFlYbxTq2w0bmrrZ`
+Snapshot ID: `ZphbAAAAAABT8o7KTZ4XXK7wevNkEw2w`

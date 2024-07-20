@@ -1,6 +1,6 @@
 {
   "description": "Towa Bird takes over, highlighting some of her favorite LGBTQIA+ indie/alternative/rock artists.",
-  "num_followers": 166045,
+  "num_followers": 166110,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Clean",
-        "url": "https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 194009,
-      "name": "Your Dog",
-      "url": "https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "To Learn",
         "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 244800,
       "name": "(You) On My Arm",
       "url": "https://open.spotify.com/track/29nzgSkf11owK8vO9iBgCq"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Clean",
+        "url": "https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 194009,
+      "name": "Your Dog",
+      "url": "https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "5K",
-        "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
-      },
-      "artists": [
-        {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
-        }
-      ],
-      "duration_ms": 133493,
-      "name": "Races",
-      "url": "https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Fuck Me (I Didn\u2019t Know How To Say)",
         "url": "https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 186786,
       "name": "Fuck Me (I Didn\u2019t Know How To Say)",
       "url": "https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "5K",
+        "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 133493,
+      "name": "Races",
+      "url": "https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Girls Make Me Wanna Die (No Rome Remix)",
-        "url": "https://open.spotify.com/album/6NHWnrF8FvVeo56ZqyKVaX"
-      },
-      "artists": [
-        {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
-        }
-      ],
-      "duration_ms": 135297,
-      "name": "Girls Make Me Wanna Die",
-      "url": "https://open.spotify.com/track/0JVdbliSQkwLXsLpvNhFb1"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Smog",
         "url": "https://open.spotify.com/album/64loLOKtAxLC6IdlfTZzbD"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 194451,
       "name": "Smog",
       "url": "https://open.spotify.com/track/4iRtrvu2GVOCImocv42Wz2"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Girls Make Me Wanna Die (No Rome Remix)",
+        "url": "https://open.spotify.com/album/6NHWnrF8FvVeo56ZqyKVaX"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 135297,
+      "name": "Girls Make Me Wanna Die",
+      "url": "https://open.spotify.com/track/0JVdbliSQkwLXsLpvNhFb1"
     }
   ],
   "unique_name": "Alternative Pride",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 
 ### [This Is Emicida](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1g3boY)
 
-> This is Emicida\. The essential tracks, all in one playlist.
+> This is Emicida\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,164 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,187 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 | 25 | [O Amor É Tudo de Bom](https://open.spotify.com/track/6FgOPZIzN8J8Cssm1U5FlG) | [Mundo Bita](https://open.spotify.com/artist/47iSWoNrLjnWCWesR14gL2), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [O Amor É Tudo de Bom](https://open.spotify.com/album/4Id5nvGsp6yQhkoSxCcauN) | 3:27 |
 | 26 | [Alma Gêmea](https://open.spotify.com/track/4XlMzWC8jUKd6nTXcQmWF8) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rafa Kabelo](https://open.spotify.com/artist/1f45kEQGljLiTKsb3hX5Dj) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/57PWjWHzqzODblomXxnQca) | 4:00 |
 | 27 | [9nha / Eu Gosto Dela \- Ao Vivo](https://open.spotify.com/track/5OR3l3lAJBgkQb0viiYjKJ) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR) | [AmarElo \- Ao Vivo](https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw) | 5:05 |
-| 28 | [Capítulo 4, Versículo 3 \- Live](https://open.spotify.com/track/0ITzKSRykU81569IrYUhVC) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ) | [Criolo E Emicida Ao Vivo \(Live\)](https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8) | 2:07 |
-| 29 | [Pantera Negra](https://open.spotify.com/track/3oA8ovg8QzMjPTwG7kezA3) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Pantera Negra](https://open.spotify.com/album/235FXq3fhpJ3VqUX5Qjvrj) | 3:19 |
+| 28 | [Pantera Negra](https://open.spotify.com/track/3oA8ovg8QzMjPTwG7kezA3) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Pantera Negra](https://open.spotify.com/album/235FXq3fhpJ3VqUX5Qjvrj) | 3:19 |
+| 29 | [Capítulo 4, Versículo 3 \- Live](https://open.spotify.com/track/0ITzKSRykU81569IrYUhVC) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ) | [Criolo E Emicida Ao Vivo \(Live\)](https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8) | 2:07 |
 | 30 | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX) | 2:56 |
 | 31 | [Quem Tem Um Amigo \(Tem Tudo\) / A Amizade \- Ao Vivo](https://open.spotify.com/track/4H4eSq6Z17gKau4TEUTO5q) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [AmarElo \- Ao Vivo](https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw) | 6:11 |
 | 32 | [Sobe junto](https://open.spotify.com/track/1EicRoOBP95i5CNcBMGXyA) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Sobe junto](https://open.spotify.com/album/07yciL9GEXXT0kEzFEsKlt) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 | 49 | [Oi Compadre \- Ao Vivo](https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Rock In Rio \(Ao Vivo\)](https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS) | 4:06 |
 | 50 | [Gueto \- Ao Vivo](https://open.spotify.com/track/4qFliZbsCTWYEpL75Vw3RO) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [AmarElo \- Ao Vivo](https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw) | 3:13 |
 
-Snapshot ID: `ZpcJgAAAAADJj63VECv7K1QDtsSHK4c5`
+Snapshot ID: `ZphbAAAAAABwBAyMbIWTKNqAo1ATruKw`

@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Mezzosangue in cover.",
-  "num_followers": 41882,
+  "num_followers": 41901,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -447,8 +447,8 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Mi fist (Remastered version)",
-        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
+        "name": "Penna Capitale",
+        "url": "https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
         }
       ],
-      "duration_ms": 194322,
-      "name": "Vida loca - Remix 2k4",
-      "url": "https://open.spotify.com/track/3ZiIgbO4CTKZYMO0EE1D9X"
+      "duration_ms": 202885,
+      "name": "Una Volta Sola",
+      "url": "https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -607,8 +607,8 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Penna Capitale",
-        "url": "https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL"
+        "name": "Mi fist (Remastered version)",
+        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
         }
       ],
-      "duration_ms": 202885,
-      "name": "Una Volta Sola",
-      "url": "https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF"
+      "duration_ms": 194322,
+      "name": "Vida loca - Remix 2k4",
+      "url": "https://open.spotify.com/track/3ZiIgbO4CTKZYMO0EE1D9X"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
+        "name": "Blocknotes",
+        "url": "https://open.spotify.com/album/3F57zSmT6EyCVv3kWmqi4p"
+      },
+      "artists": [
+        {
+          "name": "Stokka & Madbuddy",
+          "url": "https://open.spotify.com/artist/6U8aUHDeArzovgvZazAK0z"
+        }
+      ],
+      "duration_ms": 247600,
+      "name": "Quando un giorno tornerai",
+      "url": "https://open.spotify.com/track/2OwDaBDgiW6E6r1JguSbi9"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
         "name": "Fritz",
         "url": "https://open.spotify.com/album/71OwUP6CTR5Kzsv6T9jcl0"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 219104,
       "name": "With Or Without It",
       "url": "https://open.spotify.com/track/6RqplPMqcfjFWvlqPycNDe"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "Blocknotes",
-        "url": "https://open.spotify.com/album/3F57zSmT6EyCVv3kWmqi4p"
-      },
-      "artists": [
-        {
-          "name": "Stokka & Madbuddy",
-          "url": "https://open.spotify.com/artist/6U8aUHDeArzovgvZazAK0z"
-        }
-      ],
-      "duration_ms": 247600,
-      "name": "Quando un giorno tornerai",
-      "url": "https://open.spotify.com/track/2OwDaBDgiW6E6r1JguSbi9"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "17.5",
-        "url": "https://open.spotify.com/album/6xUV3poagqa1FpnzwmcHHt"
-      },
-      "artists": [
-        {
-          "name": "Axos",
-          "url": "https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT"
-        }
-      ],
-      "duration_ms": 176195,
-      "name": "Psyco",
-      "url": "https://open.spotify.com/track/66DhR2jhmKjNIIC63suX8T"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "Ferro del mestiere",
         "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 130593,
       "name": "Yeah (feat. Emis Killa)",
       "url": "https://open.spotify.com/track/2CxCmoViEZSnWZU60K4tW3"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "17.5",
+        "url": "https://open.spotify.com/album/6xUV3poagqa1FpnzwmcHHt"
+      },
+      "artists": [
+        {
+          "name": "Axos",
+          "url": "https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT"
+        }
+      ],
+      "duration_ms": 176195,
+      "name": "Psyco",
+      "url": "https://open.spotify.com/track/66DhR2jhmKjNIIC63suX8T"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -1347,6 +1347,34 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
+        "name": "Machete Mixtape, Vol. 3",
+        "url": "https://open.spotify.com/album/0Ln6r2NSr89blemDAZK0KM"
+      },
+      "artists": [
+        {
+          "name": "Clementino",
+          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Jack The Smoker",
+          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
+        },
+        {
+          "name": "Nitro",
+          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/4o7olxYueLIX4Kzy4tfg4a"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
         "name": "MALAVITA, Pt. 2 / HeadShot, Vol. 3",
         "url": "https://open.spotify.com/album/2Ym6KhFJz7TwRqppa3fHMy"
       },
@@ -1387,34 +1415,6 @@
       "duration_ms": 296264,
       "name": "MALAVITA, Pt. 2 / HeadShot, Vol. 3",
       "url": "https://open.spotify.com/track/7sVCJaINF95KpCraI7sgRE"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "Machete Mixtape, Vol. 3",
-        "url": "https://open.spotify.com/album/0Ln6r2NSr89blemDAZK0KM"
-      },
-      "artists": [
-        {
-          "name": "Clementino",
-          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        },
-        {
-          "name": "Jack The Smoker",
-          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
-        },
-        {
-          "name": "Nitro",
-          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/4o7olxYueLIX4Kzy4tfg4a"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -1479,30 +1479,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Rosso Fuoco",
-        "url": "https://open.spotify.com/album/488oHGsY9aP0vynkOBwZCE"
-      },
-      "artists": [
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        },
-        {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
-        },
-        {
-          "name": "Brava Gente",
-          "url": "https://open.spotify.com/artist/4mGFiauNMsVwgTFpcDfr7T"
-        }
-      ],
-      "duration_ms": 227520,
-      "name": "Rosso Fuoco",
-      "url": "https://open.spotify.com/track/5dpmfVEMO4Lb2lHSEzpK68"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "Fritz",
         "url": "https://open.spotify.com/album/71OwUP6CTR5Kzsv6T9jcl0"
       },
@@ -1531,26 +1507,26 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Delorean",
-        "url": "https://open.spotify.com/album/66RJpmsJezgMhz1MegmyZe"
+        "name": "Rosso Fuoco",
+        "url": "https://open.spotify.com/album/488oHGsY9aP0vynkOBwZCE"
       },
       "artists": [
         {
-          "name": "DJ Fede",
-          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
         },
         {
-          "name": "Willie Peyote",
-          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
         },
         {
-          "name": "Dj Tsura",
-          "url": "https://open.spotify.com/artist/7lne06t55Q9jZAR7Cg81lD"
+          "name": "Brava Gente",
+          "url": "https://open.spotify.com/artist/4mGFiauNMsVwgTFpcDfr7T"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Delorean",
-      "url": "https://open.spotify.com/track/2BedkqoRhSUlK5XObeEAVZ"
+      "duration_ms": 227520,
+      "name": "Rosso Fuoco",
+      "url": "https://open.spotify.com/track/5dpmfVEMO4Lb2lHSEzpK68"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -1575,6 +1551,30 @@
       "duration_ms": 179213,
       "name": "Nak Su Kao - Parte 2 - Domo Version",
       "url": "https://open.spotify.com/track/6Pm7BmNjPZUKq2CCee34Ub"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "Delorean",
+        "url": "https://open.spotify.com/album/66RJpmsJezgMhz1MegmyZe"
+      },
+      "artists": [
+        {
+          "name": "DJ Fede",
+          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
+        },
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        },
+        {
+          "name": "Dj Tsura",
+          "url": "https://open.spotify.com/artist/7lne06t55Q9jZAR7Cg81lD"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Delorean",
+      "url": "https://open.spotify.com/track/2BedkqoRhSUlK5XObeEAVZ"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
+        "name": "GARA 7",
+        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
+      },
+      "artists": [
+        {
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
+        }
+      ],
+      "duration_ms": 130373,
+      "name": "Prime",
+      "url": "https://open.spotify.com/track/7JdjeREIOitJyG1Wak6awD"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
         "name": "Neurodeliri 2024",
         "url": "https://open.spotify.com/album/68oOfd51ZVekGtvxR17RnZ"
       },
@@ -1747,18 +1763,18 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "GARA 7",
-        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
+        "name": "Manchi solo tu",
+        "url": "https://open.spotify.com/album/4CxE3NYwqmUVXec7Ve35SZ"
       },
       "artists": [
         {
-          "name": "Johnny Marsiglia",
-          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
+          "name": "DJ Gruff",
+          "url": "https://open.spotify.com/artist/6CaMYv7NbgNHh8npP6rzdi"
         }
       ],
-      "duration_ms": 130373,
-      "name": "Prime",
-      "url": "https://open.spotify.com/track/7JdjeREIOitJyG1Wak6awD"
+      "duration_ms": 274500,
+      "name": "Manchi solo tu",
+      "url": "https://open.spotify.com/track/3dMyOpfVug1nDRpVZj5yPN"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -1775,22 +1791,6 @@
       "duration_ms": 260183,
       "name": "Dio lodato per sta chanche",
       "url": "https://open.spotify.com/track/114hZLY1cAfvd9gFaDAxoN"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "Manchi solo tu",
-        "url": "https://open.spotify.com/album/4CxE3NYwqmUVXec7Ve35SZ"
-      },
-      "artists": [
-        {
-          "name": "DJ Gruff",
-          "url": "https://open.spotify.com/artist/6CaMYv7NbgNHh8npP6rzdi"
-        }
-      ],
-      "duration_ms": 274500,
-      "name": "Manchi solo tu",
-      "url": "https://open.spotify.com/track/3dMyOpfVug1nDRpVZj5yPN"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -1871,30 +1871,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "A Fuoco Lento",
-        "url": "https://open.spotify.com/album/1JUQVLZDUMSWRSvVNleY05"
-      },
-      "artists": [
-        {
-          "name": "Fid Mella",
-          "url": "https://open.spotify.com/artist/6L0h3FSm3LQSwyIMxpeXgp"
-        },
-        {
-          "name": "Zonta",
-          "url": "https://open.spotify.com/artist/2OkeK9hCejCVIvGB403OVA"
-        },
-        {
-          "name": "Ghemon",
-          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "A Fuoco Lento",
-      "url": "https://open.spotify.com/track/36IGdOR39oMQk2vvmZ4sPW"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "Payback",
         "url": "https://open.spotify.com/album/05dBxSbBWiQo2IRtfkXWnG"
       },
@@ -1927,26 +1903,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Teoria Del Contrario",
-        "url": "https://open.spotify.com/album/5WtI1eNKltxIuj64GX6sKp"
-      },
-      "artists": [
-        {
-          "name": "Dani Faiv",
-          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
-        },
-        {
-          "name": "Pitto Stail",
-          "url": "https://open.spotify.com/artist/24hJr9W031R87ILon5Y4o0"
-        }
-      ],
-      "duration_ms": 171942,
-      "name": "Heart",
-      "url": "https://open.spotify.com/track/4X5uhcK7wjQItrJq34g1LB"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "GARA 7",
         "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
       },
@@ -1963,18 +1919,46 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Chi more pe' mme",
-        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
+        "name": "A Fuoco Lento",
+        "url": "https://open.spotify.com/album/1JUQVLZDUMSWRSvVNleY05"
       },
       "artists": [
         {
-          "name": "Cosang",
-          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+          "name": "Fid Mella",
+          "url": "https://open.spotify.com/artist/6L0h3FSm3LQSwyIMxpeXgp"
+        },
+        {
+          "name": "Zonta",
+          "url": "https://open.spotify.com/artist/2OkeK9hCejCVIvGB403OVA"
+        },
+        {
+          "name": "Ghemon",
+          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
         }
       ],
-      "duration_ms": 266933,
-      "name": "Int 'o rione",
-      "url": "https://open.spotify.com/track/7qccCcKFPjPB6YfZtClnzQ"
+      "duration_ms": 96000,
+      "name": "A Fuoco Lento",
+      "url": "https://open.spotify.com/track/36IGdOR39oMQk2vvmZ4sPW"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "Teoria Del Contrario",
+        "url": "https://open.spotify.com/album/5WtI1eNKltxIuj64GX6sKp"
+      },
+      "artists": [
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        },
+        {
+          "name": "Pitto Stail",
+          "url": "https://open.spotify.com/artist/24hJr9W031R87ILon5Y4o0"
+        }
+      ],
+      "duration_ms": 171942,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/4X5uhcK7wjQItrJq34g1LB"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -2023,26 +2007,18 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Io Speriamo Che Me La Cavo",
-        "url": "https://open.spotify.com/album/3bJ5kqq2Oc2K0aVUVISywk"
+        "name": "Chi more pe' mme",
+        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
       },
       "artists": [
         {
-          "name": "Warez",
-          "url": "https://open.spotify.com/artist/4WdCVm6hL5quAfNhZzCB1s"
-        },
-        {
-          "name": "Clementino",
-          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
-        },
-        {
-          "name": "LDO",
-          "url": "https://open.spotify.com/artist/4HT7gWYrsavCY0rq0pyL3Z"
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
         }
       ],
-      "duration_ms": 142213,
-      "name": "Io Speriamo Che Me La Cavo",
-      "url": "https://open.spotify.com/track/1E23vbu76A76cc3EwNOEyI"
+      "duration_ms": 266933,
+      "name": "Int 'o rione",
+      "url": "https://open.spotify.com/track/7qccCcKFPjPB6YfZtClnzQ"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -2067,22 +2043,26 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Zaffiro",
-        "url": "https://open.spotify.com/album/3NnBwoPNQ3CvIPxBLyDZuh"
+        "name": "Io Speriamo Che Me La Cavo",
+        "url": "https://open.spotify.com/album/3bJ5kqq2Oc2K0aVUVISywk"
       },
       "artists": [
         {
-          "name": "Jangy Leeon",
-          "url": "https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7"
+          "name": "Warez",
+          "url": "https://open.spotify.com/artist/4WdCVm6hL5quAfNhZzCB1s"
         },
         {
-          "name": "En?gma",
-          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+          "name": "Clementino",
+          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
+        },
+        {
+          "name": "LDO",
+          "url": "https://open.spotify.com/artist/4HT7gWYrsavCY0rq0pyL3Z"
         }
       ],
-      "duration_ms": 183529,
-      "name": "Zaffiro",
-      "url": "https://open.spotify.com/track/44e0qnheHPqzUziwjc7EP2"
+      "duration_ms": 142213,
+      "name": "Io Speriamo Che Me La Cavo",
+      "url": "https://open.spotify.com/track/1E23vbu76A76cc3EwNOEyI"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -2127,6 +2107,26 @@
       "duration_ms": 160365,
       "name": "Peri Peri",
       "url": "https://open.spotify.com/track/7Hi2almjxtGgAjODubaHEC"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "Zaffiro",
+        "url": "https://open.spotify.com/album/3NnBwoPNQ3CvIPxBLyDZuh"
+      },
+      "artists": [
+        {
+          "name": "Jangy Leeon",
+          "url": "https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7"
+        },
+        {
+          "name": "En?gma",
+          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Zaffiro",
+      "url": "https://open.spotify.com/track/44e0qnheHPqzUziwjc7EP2"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -2231,6 +2231,30 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
+        "name": "GENUFLEX",
+        "url": "https://open.spotify.com/album/1HAMs7LoNClaz8lwemRnzb"
+      },
+      "artists": [
+        {
+          "name": "Santa Sede",
+          "url": "https://open.spotify.com/artist/3hCet152qxZ2RHdimZ1isw"
+        },
+        {
+          "name": "RollzRois",
+          "url": "https://open.spotify.com/artist/1fTtdB7ppQhdFosmH7nxGR"
+        },
+        {
+          "name": "Less Torrance",
+          "url": "https://open.spotify.com/artist/0Ru2OUKDg0PwmkmypTXMmo"
+        }
+      ],
+      "duration_ms": 169377,
+      "name": "GENUFLEX",
+      "url": "https://open.spotify.com/track/1RSmAWBOJ7peDgLG6pYsOS"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
         "name": "Mercato nero",
         "url": "https://open.spotify.com/album/3WRF5zh8b6OlHVIUdYbIyJ"
       },
@@ -2255,30 +2279,6 @@
       "duration_ms": 275000,
       "name": "F35",
       "url": "https://open.spotify.com/track/4Mk8TVosV7qvFZhHWaaTto"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "GENUFLEX",
-        "url": "https://open.spotify.com/album/1HAMs7LoNClaz8lwemRnzb"
-      },
-      "artists": [
-        {
-          "name": "Santa Sede",
-          "url": "https://open.spotify.com/artist/3hCet152qxZ2RHdimZ1isw"
-        },
-        {
-          "name": "RollzRois",
-          "url": "https://open.spotify.com/artist/1fTtdB7ppQhdFosmH7nxGR"
-        },
-        {
-          "name": "Less Torrance",
-          "url": "https://open.spotify.com/artist/0Ru2OUKDg0PwmkmypTXMmo"
-        }
-      ],
-      "duration_ms": 169377,
-      "name": "GENUFLEX",
-      "url": "https://open.spotify.com/track/1RSmAWBOJ7peDgLG6pYsOS"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -2555,6 +2555,34 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
+        "name": "FEGATO",
+        "url": "https://open.spotify.com/album/08voNOMFTP8gbfUj1a8af0"
+      },
+      "artists": [
+        {
+          "name": "Nex Cassel",
+          "url": "https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe"
+        },
+        {
+          "name": "Dj Craim",
+          "url": "https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ"
+        },
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        },
+        {
+          "name": "Egreen",
+          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Detersivo",
+      "url": "https://open.spotify.com/track/4DZkasAnr7Vq9oEskZP2Ky"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
         "name": "Deep Challenger (Reloaded Version)",
         "url": "https://open.spotify.com/album/577TJqF08tPT4SiHV3w7FQ"
       },
@@ -2583,34 +2611,6 @@
       "duration_ms": 272195,
       "name": "Deep Challenger - Reloaded Version",
       "url": "https://open.spotify.com/track/6VuHwT0qI2PCAgUCzxbbT1"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "FEGATO",
-        "url": "https://open.spotify.com/album/08voNOMFTP8gbfUj1a8af0"
-      },
-      "artists": [
-        {
-          "name": "Nex Cassel",
-          "url": "https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe"
-        },
-        {
-          "name": "Dj Craim",
-          "url": "https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ"
-        },
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        },
-        {
-          "name": "Egreen",
-          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Detersivo",
-      "url": "https://open.spotify.com/track/4DZkasAnr7Vq9oEskZP2Ky"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -2683,34 +2683,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Young Veterans - Terzo Occhio - EP",
-        "url": "https://open.spotify.com/album/1QqaaVKakZw3Wn23YCs8mo"
-      },
-      "artists": [
-        {
-          "name": "DJ Fede",
-          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
-        },
-        {
-          "name": "Dafa",
-          "url": "https://open.spotify.com/artist/0XL3wakjeNxxacLlnGAqXv"
-        },
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        },
-        {
-          "name": "DJ Bront",
-          "url": "https://open.spotify.com/artist/62vW0gU3UTCWeCaYWc1nhv"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Tutto Deve Cambiare",
-      "url": "https://open.spotify.com/track/1YyxgxwPoPZuS98zd2p0Ew"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "Milano Monster",
         "url": "https://open.spotify.com/album/2anO1UBugnkwHURnxQKt20"
       },
@@ -2759,6 +2731,34 @@
       "duration_ms": 151538,
       "name": "MISERABILE",
       "url": "https://open.spotify.com/track/1U8UISHXkDT6lEXMpBOmSw"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "Young Veterans - Terzo Occhio - EP",
+        "url": "https://open.spotify.com/album/1QqaaVKakZw3Wn23YCs8mo"
+      },
+      "artists": [
+        {
+          "name": "DJ Fede",
+          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
+        },
+        {
+          "name": "Dafa",
+          "url": "https://open.spotify.com/artist/0XL3wakjeNxxacLlnGAqXv"
+        },
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "DJ Bront",
+          "url": "https://open.spotify.com/artist/62vW0gU3UTCWeCaYWc1nhv"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Tutto Deve Cambiare",
+      "url": "https://open.spotify.com/track/1YyxgxwPoPZuS98zd2p0Ew"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -2843,6 +2843,26 @@
       "duration_ms": 155745,
       "name": "Qgino",
       "url": "https://open.spotify.com/track/7Jn9Heg6GjVSabucO9CJLN"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "Amore puro",
+        "url": "https://open.spotify.com/album/4ghCrqj3HwLzKeeqAfO4rD"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "Norick",
+          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
+        }
+      ],
+      "duration_ms": 204081,
+      "name": "Amore puro",
+      "url": "https://open.spotify.com/track/17beKSnTNuVjiQd2lIOonB"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -2995,22 +3015,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "kARMA",
-        "url": "https://open.spotify.com/album/6IGY3OoYPu02MkighTgO2N"
-      },
-      "artists": [
-        {
-          "name": "Kaos",
-          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
-        }
-      ],
-      "duration_ms": 238773,
-      "name": "Il 6\u00b0 Senso",
-      "url": "https://open.spotify.com/track/1qoEXARIkDNbGAPLnynlAN"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "TRUENO",
         "url": "https://open.spotify.com/album/0rONrHzPeWE8cFpo5REOSa"
       },
@@ -3039,22 +3043,18 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Luigi XVI",
-        "url": "https://open.spotify.com/album/2UUL2KiO5wsQxH4GWpPgnR"
+        "name": "kARMA",
+        "url": "https://open.spotify.com/album/6IGY3OoYPu02MkighTgO2N"
       },
       "artists": [
         {
-          "name": "Lanz Khan",
-          "url": "https://open.spotify.com/artist/2AtGepWdw4TVBnE8cBszuL"
-        },
-        {
-          "name": "Axos",
-          "url": "https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT"
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
         }
       ],
-      "duration_ms": 183880,
-      "name": "Hashishin (feat. Axos)",
-      "url": "https://open.spotify.com/track/0uOVYFcPUSqp3i5o6KGv5L"
+      "duration_ms": 238773,
+      "name": "Il 6\u00b0 Senso",
+      "url": "https://open.spotify.com/track/1qoEXARIkDNbGAPLnynlAN"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -3083,22 +3083,38 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Amore puro",
-        "url": "https://open.spotify.com/album/4ghCrqj3HwLzKeeqAfO4rD"
+        "name": "Luigi XVI",
+        "url": "https://open.spotify.com/album/2UUL2KiO5wsQxH4GWpPgnR"
+      },
+      "artists": [
+        {
+          "name": "Lanz Khan",
+          "url": "https://open.spotify.com/artist/2AtGepWdw4TVBnE8cBszuL"
+        },
+        {
+          "name": "Axos",
+          "url": "https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT"
+        }
+      ],
+      "duration_ms": 183880,
+      "name": "Hashishin (feat. Axos)",
+      "url": "https://open.spotify.com/track/0uOVYFcPUSqp3i5o6KGv5L"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "Fabiano Detto Inoki",
+        "url": "https://open.spotify.com/album/78a5pjxDZLeFZQnGyjRiDQ"
       },
       "artists": [
         {
           "name": "Inoki",
           "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        },
-        {
-          "name": "Norick",
-          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
         }
       ],
-      "duration_ms": 204081,
-      "name": "Amore puro",
-      "url": "https://open.spotify.com/track/17beKSnTNuVjiQd2lIOonB"
+      "duration_ms": 232986,
+      "name": "Non Mi Avrete Mai",
+      "url": "https://open.spotify.com/track/3NKspAjWQGaWSecwtS3lS1"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -3147,22 +3163,6 @@
       "duration_ms": 193706,
       "name": "Bugie Bianche",
       "url": "https://open.spotify.com/track/4pMLcSYJgxfWtE5P7rpHPq"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "Fabiano Detto Inoki",
-        "url": "https://open.spotify.com/album/78a5pjxDZLeFZQnGyjRiDQ"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        }
-      ],
-      "duration_ms": 232986,
-      "name": "Non Mi Avrete Mai",
-      "url": "https://open.spotify.com/track/3NKspAjWQGaWSecwtS3lS1"
     },
     {
       "added_at": "2024-07-18 22:01:00",

@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: berlioz",
-  "num_followers": 314010,
+  "num_followers": 314042,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -327,18 +327,38 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Freudian Slips",
-        "url": "https://open.spotify.com/album/5sdHPWcKzFKUVHE87snT3v"
+        "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar)",
+        "url": "https://open.spotify.com/album/4QJCD7DW0AEzBr6FWe2E8d"
       },
       "artists": [
         {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        },
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        },
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        },
+        {
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+        },
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        },
+        {
+          "name": "Lula Galv\u00e3o",
+          "url": "https://open.spotify.com/artist/1fjf6ys7DWMxBlHVVT8HTs"
         }
       ],
-      "duration_ms": 163516,
-      "name": "Freudian Slips",
-      "url": "https://open.spotify.com/track/16RzGIuWeutIpBbwBH1Zcm"
+      "duration_ms": 324529,
+      "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar) [Feat. Maria Gadu, Lianne La Havas, Tim Bernardes]",
+      "url": "https://open.spotify.com/track/55J4oeEuPKa5tHu4qBGR1A"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -355,6 +375,22 @@
       "duration_ms": 236015,
       "name": "We Have Each Other",
       "url": "https://open.spotify.com/track/5uTLVdv9ILqGxYIK2xDCuG"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Freudian Slips",
+        "url": "https://open.spotify.com/album/5sdHPWcKzFKUVHE87snT3v"
+      },
+      "artists": [
+        {
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+        }
+      ],
+      "duration_ms": 163516,
+      "name": "Freudian Slips",
+      "url": "https://open.spotify.com/track/16RzGIuWeutIpBbwBH1Zcm"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -407,42 +443,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar)",
-        "url": "https://open.spotify.com/album/4QJCD7DW0AEzBr6FWe2E8d"
-      },
-      "artists": [
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        },
-        {
-          "name": "Esperanza Spalding",
-          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
-        },
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        },
-        {
-          "name": "Maria Gad\u00fa",
-          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
-        },
-        {
-          "name": "Tim Bernardes",
-          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
-        },
-        {
-          "name": "Lula Galv\u00e3o",
-          "url": "https://open.spotify.com/artist/1fjf6ys7DWMxBlHVVT8HTs"
-        }
-      ],
-      "duration_ms": 324529,
-      "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar) [Feat. Maria Gadu, Lianne La Havas, Tim Bernardes]",
-      "url": "https://open.spotify.com/track/55J4oeEuPKa5tHu4qBGR1A"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Rising",
         "url": "https://open.spotify.com/album/779CtOedaPfyu3SOhtvEEU"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "More Than This",
-        "url": "https://open.spotify.com/album/7FfQGdPblAtsR3cF7u1Qmp"
-      },
-      "artists": [
-        {
-          "name": "Myles Sanko",
-          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
-        }
-      ],
-      "duration_ms": 222989,
-      "name": "More Than This",
-      "url": "https://open.spotify.com/track/3fYHcbbE5I88UKIPg2Oa2f"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Sweet Whispers: Celebrating Sarah Vaughan",
         "url": "https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 279749,
       "name": "Inner City Blues",
       "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/7FfQGdPblAtsR3cF7u1Qmp"
+      },
+      "artists": [
+        {
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+        }
+      ],
+      "duration_ms": 222989,
+      "name": "More Than This",
+      "url": "https://open.spotify.com/track/3fYHcbbE5I88UKIPg2Oa2f"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -559,62 +559,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Vita",
-        "url": "https://open.spotify.com/album/4xmzTrlhKyVx4kJDynClhQ"
-      },
-      "artists": [
-        {
-          "name": "Snazzback",
-          "url": "https://open.spotify.com/artist/3bD0qDLbGmvMvbaP8vHr9e"
-        },
-        {
-          "name": "Nah Eeto",
-          "url": "https://open.spotify.com/artist/0eKY0x7zqfCOfiFR8YHEdV"
-        }
-      ],
-      "duration_ms": 172782,
-      "name": "Vita",
-      "url": "https://open.spotify.com/track/1YPkJ8YxFYPbtHD6uCaSnG"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/55zeJMwqGYlju0shEdhG4A"
-      },
-      "artists": [
-        {
-          "name": "Re:um",
-          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
-        }
-      ],
-      "duration_ms": 181124,
-      "name": "Wallflower",
-      "url": "https://open.spotify.com/track/60ZR3PxtOjGXa6LVQlSdSr"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "comet",
-        "url": "https://open.spotify.com/album/512NCG6NoaS3YToHv32xfX"
-      },
-      "artists": [
-        {
-          "name": "oreglo",
-          "url": "https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt"
-        },
-        {
-          "name": "Bel Cobain",
-          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
-        }
-      ],
-      "duration_ms": 160893,
-      "name": "comet (feat. Bel Cobain)",
-      "url": "https://open.spotify.com/track/0JvJdbcXiX0iXsMwnsiwDN"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Tuna Salad Samba",
         "url": "https://open.spotify.com/album/2HdHgXthMDcgX7ksS9Z8pz"
       },
@@ -639,6 +583,42 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/55zeJMwqGYlju0shEdhG4A"
+      },
+      "artists": [
+        {
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+        }
+      ],
+      "duration_ms": 181124,
+      "name": "Wallflower",
+      "url": "https://open.spotify.com/track/60ZR3PxtOjGXa6LVQlSdSr"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Vita",
+        "url": "https://open.spotify.com/album/4xmzTrlhKyVx4kJDynClhQ"
+      },
+      "artists": [
+        {
+          "name": "Snazzback",
+          "url": "https://open.spotify.com/artist/3bD0qDLbGmvMvbaP8vHr9e"
+        },
+        {
+          "name": "Nah Eeto",
+          "url": "https://open.spotify.com/artist/0eKY0x7zqfCOfiFR8YHEdV"
+        }
+      ],
+      "duration_ms": 172782,
+      "name": "Vita",
+      "url": "https://open.spotify.com/track/1YPkJ8YxFYPbtHD6uCaSnG"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
         "name": "Below Dawn",
         "url": "https://open.spotify.com/album/6RU8zWSJ6H5QIzQiLRYJYw"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 250941,
       "name": "Deep",
       "url": "https://open.spotify.com/track/7m81yXV1aGr6itme09Rx5k"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "comet",
+        "url": "https://open.spotify.com/album/512NCG6NoaS3YToHv32xfX"
+      },
+      "artists": [
+        {
+          "name": "oreglo",
+          "url": "https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt"
+        },
+        {
+          "name": "Bel Cobain",
+          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
+        }
+      ],
+      "duration_ms": 160893,
+      "name": "comet (feat. Bel Cobain)",
+      "url": "https://open.spotify.com/track/0JvJdbcXiX0iXsMwnsiwDN"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Palms",
-        "url": "https://open.spotify.com/album/222ggbqdnLF0dXZ5L86YO9"
-      },
-      "artists": [
-        {
-          "name": "Robohands",
-          "url": "https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX"
-        }
-      ],
-      "duration_ms": 171612,
-      "name": "Palms",
-      "url": "https://open.spotify.com/track/1ogAD0gX8Bp0lfPyqYBy8s"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/6kUnzF4bqYq6Whq5c91NbI"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 175635,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/4fcGgxx1moBvJZDgRU0hTk"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Palms",
+        "url": "https://open.spotify.com/album/222ggbqdnLF0dXZ5L86YO9"
+      },
+      "artists": [
+        {
+          "name": "Robohands",
+          "url": "https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX"
+        }
+      ],
+      "duration_ms": 171612,
+      "name": "Palms",
+      "url": "https://open.spotify.com/track/1ogAD0gX8Bp0lfPyqYBy8s"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Interdimensional",
-        "url": "https://open.spotify.com/album/2fOTi5RJypPOCa15JFLszn"
-      },
-      "artists": [
-        {
-          "name": "Cosmo Sheldrake",
-          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
-        }
-      ],
-      "duration_ms": 245626,
-      "name": "I Stitched My Mind Back To My Body",
-      "url": "https://open.spotify.com/track/1ebC2PO3ZuZcnVZbY4jqVK"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Never Doubt",
         "url": "https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 250399,
       "name": "Never Doubt",
       "url": "https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Interdimensional",
+        "url": "https://open.spotify.com/album/2fOTi5RJypPOCa15JFLszn"
+      },
+      "artists": [
+        {
+          "name": "Cosmo Sheldrake",
+          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
+        }
+      ],
+      "duration_ms": 245626,
+      "name": "I Stitched My Mind Back To My Body",
+      "url": "https://open.spotify.com/track/1ebC2PO3ZuZcnVZbY4jqVK"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
+        "name": "FIELDNOTES PT III",
+        "url": "https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q"
+      },
+      "artists": [
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "duration_ms": 191707,
+      "name": "Take It Easy (Miles' Song)",
+      "url": "https://open.spotify.com/track/2wL4LR49SRUAaKvZMiUvob"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
         "name": "Messimalism (Above Thought)",
         "url": "https://open.spotify.com/album/0CjY2PxtolrVrSt4SLGUKn"
       },
@@ -883,26 +899,6 @@
       "duration_ms": 404458,
       "name": "Messimalism (Above Thought)",
       "url": "https://open.spotify.com/track/7Bc6osTposJWE6bsej6fcv"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "When It Comes Together",
-        "url": "https://open.spotify.com/album/7IL0Qmw3AzVtUSbXa6dGic"
-      },
-      "artists": [
-        {
-          "name": "Matt Wilde",
-          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
-        },
-        {
-          "name": "[ K S R ]",
-          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
-        }
-      ],
-      "duration_ms": 188181,
-      "name": "When It Comes Together",
-      "url": "https://open.spotify.com/track/2izmpN7vA1Xn8I5FBLls6n"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -927,18 +923,22 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "FIELDNOTES PT III",
-        "url": "https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q"
+        "name": "When It Comes Together",
+        "url": "https://open.spotify.com/album/7IL0Qmw3AzVtUSbXa6dGic"
       },
       "artists": [
         {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+          "name": "Matt Wilde",
+          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
+        },
+        {
+          "name": "[ K S R ]",
+          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
         }
       ],
-      "duration_ms": 191707,
-      "name": "Take It Easy (Miles' Song)",
-      "url": "https://open.spotify.com/track/2wL4LR49SRUAaKvZMiUvob"
+      "duration_ms": 188181,
+      "name": "When It Comes Together",
+      "url": "https://open.spotify.com/track/2izmpN7vA1Xn8I5FBLls6n"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -975,6 +975,26 @@
       "duration_ms": 207857,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/4umLhAXqcyQ2ZTcdsfipYG"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Still Nothing Still (Deluxe)",
+        "url": "https://open.spotify.com/album/47zLi5b1Xv8uwVzTWTDM6C"
+      },
+      "artists": [
+        {
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        },
+        {
+          "name": "Slim.",
+          "url": "https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH"
+        }
+      ],
+      "duration_ms": 186153,
+      "name": "Amnesia - Slim. Remix",
+      "url": "https://open.spotify.com/track/7t5qW5nd52zSft927ByoHF"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1063,22 +1083,18 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Still Nothing Still (Deluxe)",
-        "url": "https://open.spotify.com/album/47zLi5b1Xv8uwVzTWTDM6C"
+        "name": "Mardy",
+        "url": "https://open.spotify.com/album/4pyM8BFy9SAXGHmSrOEOqC"
       },
       "artists": [
         {
-          "name": "Summers Sons",
-          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
-        },
-        {
-          "name": "Slim.",
-          "url": "https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH"
+          "name": "Olympia Vitalis",
+          "url": "https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt"
         }
       ],
-      "duration_ms": 186153,
-      "name": "Amnesia - Slim. Remix",
-      "url": "https://open.spotify.com/track/7t5qW5nd52zSft927ByoHF"
+      "duration_ms": 163404,
+      "name": "Mardy",
+      "url": "https://open.spotify.com/track/4s9KcTGJr5uzW2I9pjHZPI"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1095,22 +1111,6 @@
       "duration_ms": 227177,
       "name": "Honest Mistake",
       "url": "https://open.spotify.com/track/7lF8vFU9L2xzHJkv3zvtnm"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "Mardy",
-        "url": "https://open.spotify.com/album/4pyM8BFy9SAXGHmSrOEOqC"
-      },
-      "artists": [
-        {
-          "name": "Olympia Vitalis",
-          "url": "https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "Mardy",
-      "url": "https://open.spotify.com/track/4s9KcTGJr5uzW2I9pjHZPI"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "WeirdOs",
-        "url": "https://open.spotify.com/album/48rRditt0gLVgDEMt1DoY6"
-      },
-      "artists": [
-        {
-          "name": "O.",
-          "url": "https://open.spotify.com/artist/0R2UqQKBdSADXMN2Gx5CrB"
-        }
-      ],
-      "duration_ms": 269034,
-      "name": "TV Dinners",
-      "url": "https://open.spotify.com/track/7nJ58q6TZPNJSugTUGq8vy"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Runnin'",
         "url": "https://open.spotify.com/album/0egI36OMLEcADQ8zJSbZGm"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 206706,
       "name": "Runnin'",
       "url": "https://open.spotify.com/track/76q8RxpJisulRDVQZaW7b2"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "WeirdOs",
+        "url": "https://open.spotify.com/album/48rRditt0gLVgDEMt1DoY6"
+      },
+      "artists": [
+        {
+          "name": "O.",
+          "url": "https://open.spotify.com/artist/0R2UqQKBdSADXMN2Gx5CrB"
+        }
+      ],
+      "duration_ms": 269034,
+      "name": "TV Dinners",
+      "url": "https://open.spotify.com/track/7nJ58q6TZPNJSugTUGq8vy"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
+        "name": "Outerstate",
+        "url": "https://open.spotify.com/album/6g1KJdlbI53M3T97ascW5N"
+      },
+      "artists": [
+        {
+          "name": "Kessoncoda",
+          "url": "https://open.spotify.com/artist/7k9JPWPcswdCrwPiQqjvXZ"
+        }
+      ],
+      "duration_ms": 202698,
+      "name": "Dreambend",
+      "url": "https://open.spotify.com/track/4ufGGHCXkK2v1gONKMcCyV"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
         "name": "Ibio-Ibio",
         "url": "https://open.spotify.com/album/0qIUtII533DzbMMVXmvGuC"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 289809,
       "name": "Abasi Isang",
       "url": "https://open.spotify.com/track/5n8Ojo7PxZtMyFAx8BgPaE"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "End Of Innocence",
-        "url": "https://open.spotify.com/album/0OLSVizhVj6rzh97PS6uYX"
-      },
-      "artists": [
-        {
-          "name": "Shabaka",
-          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
-        }
-      ],
-      "duration_ms": 156933,
-      "name": "End Of Innocence",
-      "url": "https://open.spotify.com/track/3o9i2sgJhKv8HEFtJWsbxo"
     },
     {
       "added_at": "2024-07-18 23:00:00",

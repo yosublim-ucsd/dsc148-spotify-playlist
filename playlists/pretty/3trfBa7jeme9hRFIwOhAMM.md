@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3trfBa7jeme9hRFIwOhAMM.md) - [plain]
 
 > bringing you all things house!! follow me on tour <a href="http://www.instagram.com/curbi">here</a> and don't forget to <a href="https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT">follow my artist profile</a>..
 
-[Curbi](https://open.spotify.com/user/curbimusic) - 4,327 likes - 42 songs - 2 hr 13 min
+[Curbi](https://open.spotify.com/user/curbimusic) - 4,327 likes - 43 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,5 +50,6 @@ pretty - [cumulative](/playlists/cumulative/3trfBa7jeme9hRFIwOhAMM.md) - [plain]
 | 40 | [Like That](https://open.spotify.com/track/0DNpPGeQi11J05oYuHOZ4I) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V), [Janet Livv](https://open.spotify.com/artist/4kbrRWBDBTf1g4waN4fg6n) | [Like That](https://open.spotify.com/album/67XjrrrITpkyvIhSnaY03K) | 2:54 |
 | 41 | [Flying](https://open.spotify.com/track/23tSVCziOnXVAyayQt0Bi7) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Flying](https://open.spotify.com/album/5eSJZsLtK2qQsogB82R2bw) | 3:04 |
 | 42 | [Bassline Rumble](https://open.spotify.com/track/2D5LwVpW4D8BhEHjWGxofw) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Bassline Rumble](https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY) | 2:55 |
+| 43 | [One Day](https://open.spotify.com/track/5NKCLMiurWKVVeNzeNkkym) | [Prayer Handz](https://open.spotify.com/artist/11LK8QA4t0rsq3Mv5Bc3UW) | [One Day](https://open.spotify.com/album/6Cw7KpRRtUrAXtDzCx5CUn) | 2:40 |
 
-Snapshot ID: `AAAHixehWcKxS0UPSq0no8Xvu7QAY545`
+Snapshot ID: `AAAHjKUMAxlchu7KCUB9Snf+VDheFVhz`

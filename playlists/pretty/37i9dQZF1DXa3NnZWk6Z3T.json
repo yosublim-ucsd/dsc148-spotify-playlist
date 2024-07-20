@@ -1,6 +1,6 @@
 {
   "description": "Keep calm and enjoy this musical cafecito.",
-  "num_followers": 612011,
+  "num_followers": 612029,
   "original_name": "Caf\u00e9 con Leche",
   "owner": {
     "name": "Spotify",
@@ -463,26 +463,18 @@
     {
       "added_at": "2024-07-09 17:41:44",
       "album": {
-        "name": "Por qu\u00e9 Ser\u00e1 (feat. La Tania & Yerai Cort\u00e9s)",
-        "url": "https://open.spotify.com/album/24xWSIdWaIWJHnMfgYVqaR"
+        "name": "Te acuerdas?",
+        "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
       },
       "artists": [
         {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
-        },
-        {
-          "name": "La Tania",
-          "url": "https://open.spotify.com/artist/0dHJZzGiT5uu423w8avILQ"
-        },
-        {
-          "name": "Yerai Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/4lozfkWdqPL69SUoFK6GFi"
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
         }
       ],
-      "duration_ms": 300383,
-      "name": "Por qu\u00e9 Ser\u00e1 (feat. La Tania & Yerai Cort\u00e9s)",
-      "url": "https://open.spotify.com/track/5KE2x4MVkDMbuH4grodfdb"
+      "duration_ms": 183265,
+      "name": "Te acuerdas?",
+      "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
     },
     {
       "added_at": "2024-07-09 17:41:44",
@@ -503,18 +495,26 @@
     {
       "added_at": "2024-07-09 17:41:44",
       "album": {
-        "name": "Te acuerdas?",
-        "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
+        "name": "Por qu\u00e9 Ser\u00e1 (feat. La Tania & Yerai Cort\u00e9s)",
+        "url": "https://open.spotify.com/album/24xWSIdWaIWJHnMfgYVqaR"
       },
       "artists": [
         {
-          "name": "Paul Alone",
-          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        },
+        {
+          "name": "La Tania",
+          "url": "https://open.spotify.com/artist/0dHJZzGiT5uu423w8avILQ"
+        },
+        {
+          "name": "Yerai Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/4lozfkWdqPL69SUoFK6GFi"
         }
       ],
-      "duration_ms": 183265,
-      "name": "Te acuerdas?",
-      "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
+      "duration_ms": 300383,
+      "name": "Por qu\u00e9 Ser\u00e1 (feat. La Tania & Yerai Cort\u00e9s)",
+      "url": "https://open.spotify.com/track/5KE2x4MVkDMbuH4grodfdb"
     },
     {
       "added_at": "2024-07-09 17:41:44",
@@ -895,26 +895,6 @@
     {
       "added_at": "2024-07-09 17:41:44",
       "album": {
-        "name": "Mojo",
-        "url": "https://open.spotify.com/album/0SMSBq8yQiGXqultNvsRWy"
-      },
-      "artists": [
-        {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
-        },
-        {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
-        }
-      ],
-      "duration_ms": 206284,
-      "name": "Mojo",
-      "url": "https://open.spotify.com/track/70NxnUV2P0uOus3V5eL9gs"
-    },
-    {
-      "added_at": "2024-07-09 17:41:44",
-      "album": {
         "name": "Qu\u00e9 Dulce",
         "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 133666,
       "name": "Qu\u00e9 Dulce",
       "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
+    },
+    {
+      "added_at": "2024-07-09 17:41:44",
+      "album": {
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/0SMSBq8yQiGXqultNvsRWy"
+      },
+      "artists": [
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        },
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        }
+      ],
+      "duration_ms": 206284,
+      "name": "Mojo",
+      "url": "https://open.spotify.com/track/70NxnUV2P0uOus3V5eL9gs"
     },
     {
       "added_at": "2024-07-09 17:41:44",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-07-09 17:41:44",
       "album": {
+        "name": "Tiempo Compartido",
+        "url": "https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a"
+      },
+      "artists": [
+        {
+          "name": "Vacaci\u00f3n",
+          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
+        }
+      ],
+      "duration_ms": 202426,
+      "name": "T\u00e9 De Tila",
+      "url": "https://open.spotify.com/track/3JRbCOgf5piyZMppyg3hA4"
+    },
+    {
+      "added_at": "2024-07-09 17:41:44",
+      "album": {
         "name": "Un D\u00eda A La Vez",
         "url": "https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 165133,
       "name": "Facendo L'Amore",
       "url": "https://open.spotify.com/track/2Q9yKgwemkOyR3bAeCfPcx"
-    },
-    {
-      "added_at": "2024-07-09 17:41:44",
-      "album": {
-        "name": "Tiempo Compartido",
-        "url": "https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a"
-      },
-      "artists": [
-        {
-          "name": "Vacaci\u00f3n",
-          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
-        }
-      ],
-      "duration_ms": 202426,
-      "name": "T\u00e9 De Tila",
-      "url": "https://open.spotify.com/track/3JRbCOgf5piyZMppyg3hA4"
     },
     {
       "added_at": "2024-07-09 17:41:44",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-07-09 17:41:44",
       "album": {
+        "name": "Eucalipto",
+        "url": "https://open.spotify.com/album/48SgeHpP6RkBC5q3SSzb27"
+      },
+      "artists": [
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        }
+      ],
+      "duration_ms": 160213,
+      "name": "Eucalipto",
+      "url": "https://open.spotify.com/track/3XApO9AXI8gWMIr67HJUiL"
+    },
+    {
+      "added_at": "2024-07-09 17:41:44",
+      "album": {
         "name": "Otro Lado",
         "url": "https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN"
       },
@@ -1135,18 +1151,34 @@
     {
       "added_at": "2024-07-09 17:41:44",
       "album": {
-        "name": "Eucalipto",
-        "url": "https://open.spotify.com/album/48SgeHpP6RkBC5q3SSzb27"
+        "name": "L\u00ednea Recta",
+        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
       },
       "artists": [
         {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
         }
       ],
-      "duration_ms": 160213,
-      "name": "Eucalipto",
-      "url": "https://open.spotify.com/track/3XApO9AXI8gWMIr67HJUiL"
+      "duration_ms": 182186,
+      "name": "Para Verte",
+      "url": "https://open.spotify.com/track/1ck68b7U7AUPEefAfQBWiO"
+    },
+    {
+      "added_at": "2024-07-09 17:41:44",
+      "album": {
+        "name": "Todo el D\u00eda en la Cama",
+        "url": "https://open.spotify.com/album/09kUYvs5rwuZgRpblzn7lz"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 256947,
+      "name": "Todo el D\u00eda en la Cama",
+      "url": "https://open.spotify.com/track/3IyHmgfNBS3CSSP6zsCjQy"
     },
     {
       "added_at": "2024-07-09 17:41:44",
@@ -1171,22 +1203,6 @@
     {
       "added_at": "2024-07-09 17:41:44",
       "album": {
-        "name": "Todo el D\u00eda en la Cama",
-        "url": "https://open.spotify.com/album/09kUYvs5rwuZgRpblzn7lz"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 256947,
-      "name": "Todo el D\u00eda en la Cama",
-      "url": "https://open.spotify.com/track/3IyHmgfNBS3CSSP6zsCjQy"
-    },
-    {
-      "added_at": "2024-07-09 17:41:44",
-      "album": {
         "name": "Bohemio",
         "url": "https://open.spotify.com/album/38ziDGsYS10NPo4BxBAsvn"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 208004,
       "name": "Bohemio",
       "url": "https://open.spotify.com/track/7vgtsjhT7JpPGkv8RA1Qh1"
-    },
-    {
-      "added_at": "2024-07-09 17:41:44",
-      "album": {
-        "name": "L\u00ednea Recta",
-        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182186,
-      "name": "Para Verte",
-      "url": "https://open.spotify.com/track/1ck68b7U7AUPEefAfQBWiO"
     },
     {
       "added_at": "2024-07-09 17:41:44",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-07-09 17:41:44",
       "album": {
-        "name": "Se Acaba Todo",
-        "url": "https://open.spotify.com/album/3rYMUeFGP3oUm4xfPWyugB"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 196133,
-      "name": "Se Acaba Todo",
-      "url": "https://open.spotify.com/track/0uvY2zXHjplNTvfZMFXMYH"
-    },
-    {
-      "added_at": "2024-07-09 17:41:44",
-      "album": {
         "name": "Vientos De Octubre",
         "url": "https://open.spotify.com/album/3jU3G4fSqMKze4kZHTNdkG"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 202409,
       "name": "Vientos De Octubre",
       "url": "https://open.spotify.com/track/4gkp9363KMagdNiJ5lJmVT"
+    },
+    {
+      "added_at": "2024-07-09 17:41:44",
+      "album": {
+        "name": "Se Acaba Todo",
+        "url": "https://open.spotify.com/album/3rYMUeFGP3oUm4xfPWyugB"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 196133,
+      "name": "Se Acaba Todo",
+      "url": "https://open.spotify.com/track/0uvY2zXHjplNTvfZMFXMYH"
     },
     {
       "added_at": "2024-07-09 17:41:44",

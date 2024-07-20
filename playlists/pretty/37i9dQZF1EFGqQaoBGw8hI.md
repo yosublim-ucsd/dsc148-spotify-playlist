@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,205 likes - 575 songs - 1 day 16 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,215 likes - 575 songs - 1 day 16 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -391,8 +391,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 381 | [Lady What's Tomorrow](https://open.spotify.com/track/0xh9za4LZW0FEDrMnqDy5e) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 3:09 |
 | 382 | [Mansfield](https://open.spotify.com/track/3I0Cw8Qy3vB1gy1W76GPyv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:53 |
 | 383 | [No Valentines](https://open.spotify.com/track/2STzvqy1xZMAia1MVSfgML) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Love Songs](https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD) | 4:08 |
-| 384 | [They Call Her The Cat](https://open.spotify.com/track/6jOCw3rPbxQTG3nuxaaX3A) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:27 |
-| 385 | [This Town](https://open.spotify.com/track/65mcPebdGSUMX6VioUCV3X) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 3:56 |
+| 384 | [This Town](https://open.spotify.com/track/65mcPebdGSUMX6VioUCV3X) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 3:56 |
+| 385 | [They Call Her The Cat](https://open.spotify.com/track/6jOCw3rPbxQTG3nuxaaX3A) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:27 |
 | 386 | [The End Will Come](https://open.spotify.com/track/2xRCTZzmuPFnXwzGfFkvwL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9) | 4:52 |
 | 387 | [Just Like Strange Rain](https://open.spotify.com/track/7vaH8FyS59d7Gyf8futbsP) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 3:44 |
 | 388 | [Kiss The Ring](https://open.spotify.com/track/5DhrmmQ8wMQvqeDxEH1zaV) | [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO), [Masta Killa](https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh) | [Only Built 4 Cuban Linx 2](https://open.spotify.com/album/64B2AghiyK1TbiTp8DmBeX) | 4:09 |
@@ -500,8 +500,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 490 | [I Fall Apart](https://open.spotify.com/track/52fhpYycO8jg8ZEysm936D) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:02 |
 | 491 | [I Can't Go On Living Without You \- Arranged Band Version](https://open.spotify.com/track/0ptYmaU474xyGZ5Fr8hCP6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:57 |
 | 492 | [Fascist Faces \- Remastered 2003](https://open.spotify.com/track/2byAwZoNnmSKGMdPo7hyS9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Fox](https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y) | 5:11 |
-| 493 | [Gypsy Heart](https://open.spotify.com/track/2UetIVN5j3he2NN74senIA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:45 |
-| 494 | [Heart In The Right Place \- Remastered 2003](https://open.spotify.com/track/4L4Bs8mRMrjf1RC12ZQ1Lx) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Fox](https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y) | 5:14 |
+| 493 | [Heart In The Right Place \- Remastered 2003](https://open.spotify.com/track/4L4Bs8mRMrjf1RC12ZQ1Lx) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Fox](https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y) | 5:14 |
+| 494 | [Gypsy Heart](https://open.spotify.com/track/2UetIVN5j3he2NN74senIA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:45 |
 | 495 | [Since God Invented Girls](https://open.spotify.com/track/0agGbBdOQuH2qIsVzL6Hao) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 4:54 |
 | 496 | [Cartier](https://open.spotify.com/track/4fUVX9jVZmx0VJp8eoUsdf) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 0:53 |
 | 497 | [Planes](https://open.spotify.com/track/1Fm7IY67rMkXDi7UR4TjIO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/5S44NdVlcSkXL9AqJg4iJh) | 4:31 |
@@ -584,4 +584,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 574 | [The Wrong Gift](https://open.spotify.com/track/6WmTBqoLd5agrTigmY9UlX) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 3:00 |
 | 575 | [Sua Canção](https://open.spotify.com/track/5ABQkEGK30DVvB07JhYh5H) | [Plinio Oliveira](https://open.spotify.com/artist/3H0QZbeiCwLxBAqbnzbBK0), [Coro Infantil Sou da Paz](https://open.spotify.com/artist/1NVq6eZp8PQiYBSVAFNahZ), [Orquestra Jovem da Paz](https://open.spotify.com/artist/05RyEHgRQ9x8tJ25ulYEN4) | [Show da Paz 2017](https://open.spotify.com/album/4p3WhZIn7qLUX1UCEDeCUc) | 4:19 |
 
-Snapshot ID: `AbXE/AAAAACL5lQ8zLoUXHMN4hHfgRZf`
+Snapshot ID: `AbXJNAAAAACB/qG9Blrk6jWpIJvRWJ7U`

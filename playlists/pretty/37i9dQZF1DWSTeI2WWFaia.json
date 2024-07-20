@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Boldy James",
-  "num_followers": 1592306,
+  "num_followers": 1592293,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Sega",
-        "url": "https://open.spotify.com/album/7bVrwttLi9lgVg2Pa53DO1"
-      },
-      "artists": [
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
-        }
-      ],
-      "duration_ms": 105577,
-      "name": "Sega",
-      "url": "https://open.spotify.com/track/35abyRG69nf9bvTAwCpASz"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "VOIR DIRE",
         "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 113186,
       "name": "Vin Skully",
       "url": "https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Sega",
+        "url": "https://open.spotify.com/album/7bVrwttLi9lgVg2Pa53DO1"
+      },
+      "artists": [
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "duration_ms": 105577,
+      "name": "Sega",
+      "url": "https://open.spotify.com/track/35abyRG69nf9bvTAwCpASz"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -531,34 +531,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "DBZ",
-        "url": "https://open.spotify.com/album/29YHhWfhv5Cbpnk94SDc5S"
-      },
-      "artists": [
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        },
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "DBZ",
-      "url": "https://open.spotify.com/track/5YxyOJnOHFUnPU4UeKZMf6"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "And Then You Pray For Me",
         "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
       },
@@ -587,6 +559,34 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "DBZ",
+        "url": "https://open.spotify.com/album/29YHhWfhv5Cbpnk94SDc5S"
+      },
+      "artists": [
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "DBZ",
+      "url": "https://open.spotify.com/track/5YxyOJnOHFUnPU4UeKZMf6"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Saturday Night Special (feat. Rick Ross & Fat Joe)",
         "url": "https://open.spotify.com/album/3wAJhTshe6dXXworwy3CF1"
       },
@@ -611,30 +611,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Not Now I'm Busy",
-        "url": "https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2"
-      },
-      "artists": [
-        {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
-        },
-        {
-          "name": "Symba",
-          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
-        },
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 348352,
-      "name": "I Didn't Go",
-      "url": "https://open.spotify.com/track/6R7huB68Jl4HRYzDj5UOV7"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "VOIR DIRE",
         "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
       },
@@ -655,6 +631,30 @@
       "duration_ms": 161506,
       "name": "Mancala (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/3G2Xq0ZA5nra0iHMjbXOYD"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Not Now I'm Busy",
+        "url": "https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
+        },
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 348352,
+      "name": "I Didn't Go",
+      "url": "https://open.spotify.com/track/6R7huB68Jl4HRYzDj5UOV7"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -891,26 +891,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Terms And Conditions",
-        "url": "https://open.spotify.com/album/4chvLZw3TfuGn7xwGE3Dk9"
-      },
-      "artists": [
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "Conductor Williams",
-          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
-        }
-      ],
-      "duration_ms": 163771,
-      "name": "Terms And Conditions",
-      "url": "https://open.spotify.com/track/4ckASuglN7Xg6V5yL77bqc"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Sundial",
         "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
       },
@@ -943,6 +923,26 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Terms And Conditions",
+        "url": "https://open.spotify.com/album/4chvLZw3TfuGn7xwGE3Dk9"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Conductor Williams",
+          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
+        }
+      ],
+      "duration_ms": 163771,
+      "name": "Terms And Conditions",
+      "url": "https://open.spotify.com/track/4ckASuglN7Xg6V5yL77bqc"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "#RICHAXXHAITIAN",
         "url": "https://open.spotify.com/album/3akQbvTaRFTiQYZILxVm3E"
       },
@@ -963,22 +963,26 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "APT 6E",
-        "url": "https://open.spotify.com/album/3HDR2DFS1a5QbC1ZnGYiZF"
+        "name": "Heads I Win, Tails You Lose",
+        "url": "https://open.spotify.com/album/6I4MP7YoLlBWfiQCqjJc4d"
       },
       "artists": [
         {
-          "name": "Dave East",
-          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         },
         {
-          "name": "Mike & Keys",
-          "url": "https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4"
+          "name": "Oh No",
+          "url": "https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T"
+        },
+        {
+          "name": "Gangrene",
+          "url": "https://open.spotify.com/artist/56GO5ViKH7Sg7ihAmFfvwv"
         }
       ],
-      "duration_ms": 156626,
-      "name": "DOIN GREAT",
-      "url": "https://open.spotify.com/track/3uwTGCYleQp63OlweDUii0"
+      "duration_ms": 135800,
+      "name": "Cloud Surfing",
+      "url": "https://open.spotify.com/track/2q0NohCeNd3PIh3ibC6dLT"
     }
   ],
   "unique_name": "Spilled Ink",

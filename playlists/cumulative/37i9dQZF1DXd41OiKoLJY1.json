@@ -7987,6 +7987,24 @@
     },
     {
       "album": {
+        "name": "Chloe Ann",
+        "url": "https://open.spotify.com/album/3bQFfmkTVHltlOSVD0AjXB"
+      },
+      "artists": [
+        {
+          "name": "MoonDream City",
+          "url": "https://open.spotify.com/artist/2lyDS8Rxlclb12i1HN9HA2"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271395,
+      "name": "Chloe Ann",
+      "url": "https://open.spotify.com/track/4HNXR994Z0oWXtgOhvAK0Y"
+    },
+    {
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/34fhT1qTfNBljlwzbFG1WA"
       },
@@ -33970,6 +33988,24 @@
       "duration_ms": 287097,
       "name": "Parang Kahapon",
       "url": "https://open.spotify.com/track/0cDmuRppkylWo0Xb0odScF"
+    },
+    {
+      "album": {
+        "name": "Parang Magic",
+        "url": "https://open.spotify.com/album/13X3Tal608UKAdMAmb7wun"
+      },
+      "artists": [
+        {
+          "name": "4kDAMI",
+          "url": "https://open.spotify.com/artist/4wemcvntr6ZZh5DPkxJHds"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108298,
+      "name": "Parang Magic",
+      "url": "https://open.spotify.com/track/4fUQusd8m6lKvbEfqw7mYo"
     },
     {
       "album": {

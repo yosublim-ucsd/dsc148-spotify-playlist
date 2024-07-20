@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 
 ### [This Is El Fantasma](https://open.spotify.com/playlist/37i9dQZF1DZ06evO095KZq)
 
-> This is El Fantasma\. The essential tracks, all in one playlist.
+> This Is El Fantasma\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,561 likes - 51 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,604 likes - 51 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 | 21 | [Borracho de Cochera](https://open.spotify.com/track/0acLovnnWxsN8JwjTr0ecY) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Guárdame Esta Noche](https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ) | 3:06 |
 | 22 | [Tus Desprecios](https://open.spotify.com/track/3w5R3lzfQbj5UuB1WxboSp) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [A la Medida](https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1) | 2:23 |
 | 23 | [Lupe Campos](https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Circo](https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq) | 3:36 |
-| 24 | [El Selectivo](https://open.spotify.com/track/3XSEYfxNxAkTgmPSQeJgnA) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Selectivo](https://open.spotify.com/album/2ZNSAHSv7PttcfGTfooL7s) | 3:07 |
-| 25 | [Enseñanza De Los Viejos](https://open.spotify.com/track/05Lnoy1GuU0GNzVIthSYBo) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Enseñanza De Los Viejos](https://open.spotify.com/album/5oMG64KBWeilrKCVKQ4fEH) | 3:06 |
+| 24 | [Enseñanza De Los Viejos](https://open.spotify.com/track/05Lnoy1GuU0GNzVIthSYBo) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Enseñanza De Los Viejos](https://open.spotify.com/album/5oMG64KBWeilrKCVKQ4fEH) | 3:06 |
+| 25 | [El Selectivo](https://open.spotify.com/track/3XSEYfxNxAkTgmPSQeJgnA) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Selectivo](https://open.spotify.com/album/2ZNSAHSv7PttcfGTfooL7s) | 3:07 |
 | 26 | [Los Cuervos](https://open.spotify.com/track/6hwecQOSqCplz3u22e92gl) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Coronas Doradas](https://open.spotify.com/album/6ABTPCdPVk8GTqNsuWNcob) | 2:47 |
 | 27 | [El Mes de Mayo](https://open.spotify.com/track/6YYh0uf1CI0gQxlVScpZw4) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Circo](https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq) | 2:47 |
 | 28 | [Mi Ranchito](https://open.spotify.com/track/4jc4nx7L8I9JGcMbnQIyXl) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa' los Recuerdos, Vol\. 2](https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH) | 2:25 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 | 39 | [Cuatro Caminos](https://open.spotify.com/track/3ZRed7OJLXiSvfl0Ikv0qH) | [Banda Lirio](https://open.spotify.com/artist/1CeKKAjI4yG5sAIPMxJvY8), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Al Rey José Alfredo Jiménez Vol\. 2](https://open.spotify.com/album/2OSScqwUyJf5gtMfj93T2b) | 2:36 |
 | 40 | [Soy de Durango](https://open.spotify.com/track/5TSazyzXK958PlTdFc1CIX) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Dolor y Amor](https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT) | 2:21 |
 | 41 | [De Puntitas](https://open.spotify.com/track/5krlcKy4xFlCQbJ75rhNJ9) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Hay pa' Toro](https://open.spotify.com/album/1sFW62xlG5S3d5PrM0H7Cp) | 2:39 |
-| 42 | [El Perseverante](https://open.spotify.com/track/2Kn1fCHlf6ODnYKqCSfBni) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [10 Kilates \(Con Norteño\)](https://open.spotify.com/album/3bTNvG7R2BbLUE9zyaLCPt) | 2:47 |
-| 43 | [El Morro Pirata](https://open.spotify.com/track/7HwLI71eU0WXztrg2F6uLx) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Grupo Origen](https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7) | [El Morro Pirata](https://open.spotify.com/album/3Ax5dRVVL3pI79xcN5MWzJ) | 2:38 |
+| 42 | [El Morro Pirata](https://open.spotify.com/track/7HwLI71eU0WXztrg2F6uLx) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Grupo Origen](https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7) | [El Morro Pirata](https://open.spotify.com/album/3Ax5dRVVL3pI79xcN5MWzJ) | 2:38 |
+| 43 | [El Perseverante](https://open.spotify.com/track/2Kn1fCHlf6ODnYKqCSfBni) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [10 Kilates \(Con Norteño\)](https://open.spotify.com/album/3bTNvG7R2BbLUE9zyaLCPt) | 2:47 |
 | 44 | [Las Verdades \- En Vivo](https://open.spotify.com/track/7qdsBTWEGQLeY927NgmqsA) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Banda los Populares del Llano](https://open.spotify.com/artist/2lZQRzi0ru5O82CCXxpMAr) | [Vengo a Aclarar \(En Vivo\)](https://open.spotify.com/album/1OJEkIPywlcNiuCzmXE9Lj) | 2:30 |
 | 45 | [Encantadora](https://open.spotify.com/track/15gKM0h7lqe2vZsBAFA5L2) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Encantadora](https://open.spotify.com/album/0Cun0bbB8jz6QqyshWUBPe) | 2:24 |
 | 46 | [El Exitoso](https://open.spotify.com/track/0TaPRY3f4Iw1zhZ8aedti2) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/66gKx66gYItGzihEKkNnQh) | 3:42 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 | 50 | [Quien Te Dio Permiso](https://open.spotify.com/track/6ZzZIt4GgQTDeHXMxRvxNN) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Quien Te Dio Permiso](https://open.spotify.com/album/15ZaNM3eSNZ7MdFyPHBED3) | 2:53 |
 | 51 | [Catarino y los Rurales](https://open.spotify.com/track/3KXnVMFgHKnJFkoot8yJBU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa' los Recuerdos, Vol\. 2](https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH) | 2:32 |
 
-Snapshot ID: `ZpcJgAAAAADP6MQXZ19c8Vsr+/NSqVY4`
+Snapshot ID: `ZphbAAAAAACcrbnT7gXqhrj+npRlOwRI`

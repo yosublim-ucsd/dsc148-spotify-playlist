@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 
 > Unwind to the best Indian classical sounds out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,163 likes - 75 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,171 likes - 75 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 21 | [Aaye Hain Samjhane Log](https://open.spotify.com/track/1Wn4zfB2f3E2fM9fEFvzcH) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Aaye Hain Samjhane Log \- Single](https://open.spotify.com/album/7xrGnhOnRu2wdzcndieCaO) | 4:47 |
 | 22 | [Aakhiyaan Laagi](https://open.spotify.com/track/3SeyoWxJ18DVuoHRkj2Zgc) | [DEW](https://open.spotify.com/artist/3kTz6jnByrB7YKt0sEQC8s), [Sanchari Nag](https://open.spotify.com/artist/3Vdi9hu61GlWNIvJH51AmE) | [Aakhiyaan Laagi](https://open.spotify.com/album/4blxL5lxD7ihKqoFqT9k0A) | 3:05 |
 | 23 | [Ishq \- From "Lost;Found"](https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js), [Amir Ameer](https://open.spotify.com/artist/6MPuzz9hPrs4TwxeHh4cEj) | [Ishq \(From "Lost;Found"\)](https://open.spotify.com/album/49shWTH1llwLbKQ1bq1cvJ) | 3:48 |
-| 24 | [Ka Karoon Sajni](https://open.spotify.com/track/48OqiXra8GzWWSOYWmBLai) | [Suchismita Das](https://open.spotify.com/artist/1wNhICMwgSPAKq7CaaKOih) | [Ka Karoon Sajni](https://open.spotify.com/album/1BkwmDvQQJhdWyTU9V3v39) | 3:42 |
+| 24 | [Ka Karoon Sajni](https://open.spotify.com/track/48OqiXra8GzWWSOYWmBLai) | [Shuchismita Das](https://open.spotify.com/artist/3GmK2Ti2b8zfCnu9mtZCPn) | [Ka Karoon Sajni](https://open.spotify.com/album/1BkwmDvQQJhdWyTU9V3v39) | 3:42 |
 | 25 | [Main Vari Vari Jaungi](https://open.spotify.com/track/55nUHGqicMkA0wK36rk5pF) | [RaagNRocks](https://open.spotify.com/artist/3jTcN7ekTH3C1dnzRW65CY), [Nabanita Goswami](https://open.spotify.com/artist/6x3CZ20CvNvPKylTfC2nzB) | [Main Vari Vari Jaungi](https://open.spotify.com/album/5WtcnQajr7dTUbzV2P77yo) | 4:13 |
 | 26 | [Piya Ki Nazariya \- Raag Yaman](https://open.spotify.com/track/2y07A0vDh1waCZirOiodB5) | [DEW](https://open.spotify.com/artist/3kTz6jnByrB7YKt0sEQC8s), [Sanchari Nag](https://open.spotify.com/artist/3Vdi9hu61GlWNIvJH51AmE) | [Piya Ki Nazariya \(Raag Yaman\)](https://open.spotify.com/album/0uGYras6Hlp06K8nK0Sgd3) | 3:11 |
 | 27 | [Chalein Kahin](https://open.spotify.com/track/6TokDrAAt5tTxVlBjiKsTI) | [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8), [Ejaz](https://open.spotify.com/artist/02j9IBgTrlIHNYedpk4HEg), [Sean](https://open.spotify.com/artist/6EWOMj5R4Ipyv0AgMjmL4T) | [Chalein Kahin](https://open.spotify.com/album/0nQKahYCaWKCodVS3G7ZMH) | 4:01 |

@@ -1171,30 +1171,6 @@
     {
       "added_at": "2024-01-22 23:30:40",
       "album": {
-        "name": "Man On The Moon: The End Of Day",
-        "url": "https://open.spotify.com/album/47y3PbX8oIDCkYAFylCJz0"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        },
-        {
-          "name": "Ratatat",
-          "url": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
-        }
-      ],
-      "duration_ms": 295293,
-      "name": "Pursuit Of Happiness (Nightmare)",
-      "url": "https://open.spotify.com/track/5iSEsR6NKjlC9SrIJkyL3k"
-    },
-    {
-      "added_at": "2024-01-22 23:30:40",
-      "album": {
         "name": "All My Friends (feat. Tinashe & Chance the Rapper)",
         "url": "https://open.spotify.com/album/5cOhR878H8hC3UsxYq5Xyv"
       },
@@ -1215,6 +1191,30 @@
       "duration_ms": 229746,
       "name": "All My Friends (feat. Tinashe & Chance the Rapper)",
       "url": "https://open.spotify.com/track/6TaqooOXAEcijL6G1AWS2K"
+    },
+    {
+      "added_at": "2024-01-22 23:30:40",
+      "album": {
+        "name": "Man On The Moon: The End Of Day",
+        "url": "https://open.spotify.com/album/47y3PbX8oIDCkYAFylCJz0"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        },
+        {
+          "name": "Ratatat",
+          "url": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+        }
+      ],
+      "duration_ms": 295293,
+      "name": "Pursuit Of Happiness (Nightmare)",
+      "url": "https://open.spotify.com/track/5iSEsR6NKjlC9SrIJkyL3k"
     },
     {
       "added_at": "2024-01-22 23:30:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 
 > Lagu\-lagu Pop untuk teman bersantai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,819 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,925 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 61 | [Pergi Untuk Kembali](https://open.spotify.com/track/1WS4gL6sXWZ832B2SKYMq2) | [Marcello Tahitoe](https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp) | [Ello](https://open.spotify.com/album/3drZS8rKcEkKSaxFJ4XA2s) | 4:27 |
 | 62 | [Jikalau](https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp) | [Naif](https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt) | [The Best](https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE) | 3:06 |
 | 63 | [Kecewa](https://open.spotify.com/track/1sDfnkQge4Nmkp8sgLgH1i) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Tentang Kamu](https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8) | 3:49 |
-| 64 | [That Somebody](https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Scenery](https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6) | 4:43 |
-| 65 | [Dengan Caraku](https://open.spotify.com/track/6zZMfagNj5Nr8rSdJ9KLqq) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb) | [Dengan Caraku](https://open.spotify.com/album/6lfnTiXmRbPWrK40luaKFo) | 4:32 |
+| 64 | [Dengan Caraku](https://open.spotify.com/track/6zZMfagNj5Nr8rSdJ9KLqq) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb) | [Dengan Caraku](https://open.spotify.com/album/6lfnTiXmRbPWrK40luaKFo) | 4:32 |
+| 65 | [That Somebody](https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Scenery](https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6) | 4:43 |
 | 66 | [Hebat](https://open.spotify.com/track/5LU1VpAAJJ5FqKfZdNpfIG) | [Tangga](https://open.spotify.com/artist/2XcOYJZRPtn0BASWE7R66J) | [Tangga](https://open.spotify.com/album/4mcheIZyWPzUgH2dig6RSB) | 3:54 |
 | 67 | [Teman Bahagia](https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Teman Bahagia](https://open.spotify.com/album/4BqJFRg9Id95pDcb8ml84b) | 3:28 |
 | 68 | [Ada Di Sana](https://open.spotify.com/track/7e3JeMmuteFbUJuUjH1RfS) | [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny) | [Telisik](https://open.spotify.com/album/40iKWzfGlk2MC4xr7A9Go3) | 3:18 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 76 | [Luka](https://open.spotify.com/track/3uAbxlHUC7hZkUMQ2NfIOp) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Berona](https://open.spotify.com/album/6sV7rZpvGIIQS1ccs61YXV) | 3:13 |
 | 77 | [Harus Bahagia](https://open.spotify.com/track/6nPZx4xtBSX1x641ktitSY) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Harus Bahagia](https://open.spotify.com/album/5Hb50nIh6byYRzkyTYHxUG) | 2:53 |
 | 78 | [Tak Pernah Padam](https://open.spotify.com/track/0heY4hxgRs6s1wrMtrS3YJ) | [Sandhy Sondoro](https://open.spotify.com/artist/4sZCNSc9bpEa6bjM8Z3NOu) | [Find The Way](https://open.spotify.com/album/3kOVbZ8Ccl83UB9cGTvvi5) | 4:01 |
-| 79 | [Hadapi Berdua](https://open.spotify.com/track/1rxcQZWCjRtLucGDKOCclK) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Hadapi Berdua](https://open.spotify.com/album/7yqnXM7Z3r7iFRMKU4FIW6) | 3:55 |
-| 80 | [COBA CINTAKU](https://open.spotify.com/track/4lehCx6bf5uarWHvhw9XGx) | [UN1TY](https://open.spotify.com/artist/6W2D6VJjmJwdtzoYZIhmSK) | [COBA CINTAKU](https://open.spotify.com/album/2ydSDu6C3zj9jT9ukPmxhp) | 3:26 |
+| 79 | [COBA CINTAKU](https://open.spotify.com/track/4lehCx6bf5uarWHvhw9XGx) | [UN1TY](https://open.spotify.com/artist/6W2D6VJjmJwdtzoYZIhmSK) | [COBA CINTAKU](https://open.spotify.com/album/2ydSDu6C3zj9jT9ukPmxhp) | 3:26 |
+| 80 | [Hadapi Berdua](https://open.spotify.com/track/1rxcQZWCjRtLucGDKOCclK) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Hadapi Berdua](https://open.spotify.com/album/7yqnXM7Z3r7iFRMKU4FIW6) | 3:55 |
 
 Snapshot ID: `ZmaD9wAAAABPLY/OzOTJXItg5iqcRMAv`

@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-562 songs - 1 day 13 hr 54 min
+563 songs - 1 day 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Here in the Dark](https://open.spotify.com/track/312rd2c4ALzMJ0nbbie6Pg) | [Aoife Nessa Frances](https://open.spotify.com/artist/53HMXaQpXt5m6cBJNO5OFX) | [Land of No Junction](https://open.spotify.com/album/10QaSb6RScjUha6Wkeu1Km) | 5:26 | 2023-01-17 |  |
 | [Heretic Porcelain](https://open.spotify.com/track/1vKbvhNrBNgkPPOiIBcbyv) | [Tan Cologne](https://open.spotify.com/artist/0BzCBe2kdywrXRgiP1JZeo) | [Heretic Porcelain](https://open.spotify.com/album/2LxiqZJ4AgDxKT0R5sQf0K) | 4:45 | 2023-01-17 |  |
 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 | 2023-01-17 | 2024-04-19 |
+| [Hey, Ma](https://open.spotify.com/track/6YEyNkfWYAFTib8j1eXg1A) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Hey, Ma](https://open.spotify.com/album/3uvIbuVDxN1FmzhQtZHgYL) | 3:36 | 2023-01-17 |  |
 | [Hey, That's No Way To Say Goodbye](https://open.spotify.com/track/1frLfdzAN9vP7iryVFkchw) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Hey, That's No Way To Say Goodbye](https://open.spotify.com/album/39y4XsSMcz4OidDKNgsKBT) | 3:22 | 2023-01-17 | 2024-04-19 |
 | [Holiday House](https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Become](https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga) | 5:06 | 2023-05-09 |  |
 | [Holly Golightly](https://open.spotify.com/track/6cpS0DbBW6i2h2YhScfvDI) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Holly Golightly](https://open.spotify.com/album/2mPxVWoD1tTM3YwIKCk8Eg) | 2:44 | 2023-01-17 |  |
@@ -389,7 +390,7 @@
 | [Ride or Die](https://open.spotify.com/track/22uD6yBefgzRTLrohe4IZs) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Ride or Die](https://open.spotify.com/album/1vMfrkDvP3CDkYGt19voDl) | 3:30 | 2023-01-17 |  |
 | [Riverside](https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx) | 3:48 | 2023-01-17 | 2024-04-19 |
 | [Rocky Trail](https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:30 | 2023-01-17 | 2024-04-19 |
-| [Rocky Trail](https://open.spotify.com/track/5xKHD7mTnrCgy4SN1Y1jK3) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Rocky Trail](https://open.spotify.com/album/608ZymCmVta7bY6ZYjRU3j) | 3:30 | 2023-01-17 |  |
+| [Rocky Trail](https://open.spotify.com/track/5xKHD7mTnrCgy4SN1Y1jK3) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Rocky Trail](https://open.spotify.com/album/608ZymCmVta7bY6ZYjRU3j) | 3:30 | 2023-01-17 | 2024-07-20 |
 | [Romance](https://open.spotify.com/track/6OekrDohNUa6lMUQ6UWy1l) | [Ex:Re](https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ) | [Ex:Re](https://open.spotify.com/album/30sddBZ6VjuOkhIXvdE0Pw) | 6:43 | 2023-01-17 | 2024-04-19 |
 | [Room Temperature](https://open.spotify.com/track/6TPTnROcnJQXuAyRDw2qfu) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 4:04 | 2023-01-17 | 2024-04-19 |
 | [Rooting For You](https://open.spotify.com/track/0HFCw1viBRc2siCdkjL86P) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Truth Is a Beautiful Thing \(Deluxe\)](https://open.spotify.com/album/2czuN6tZcR5ebpuK9A1Vur) | 4:29 | 2023-01-17 | 2024-04-19 |
@@ -398,7 +399,7 @@
 | [Runaway](https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 4:08 | 2023-01-17 | 2024-04-19 |
 | [Running Up That Hill](https://open.spotify.com/track/0hjIjq7plLZgCmyHRpj042) | [Alih Jey](https://open.spotify.com/artist/5mdcH0FX9YUTUv9PXlxhBa) | [Running Up That Hill](https://open.spotify.com/album/7JT4iABklvGFoSUwGaqzhf) | 4:11 | 2023-01-17 |  |
 | [Running Up That Hill \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/7KIXAzdiG2Pae7spgsklZo) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Singles](https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2) | 3:56 | 2023-01-17 |  |
-| [Rylan](https://open.spotify.com/track/18IyalmZGqUTwvZStMf7A1) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/240Gfpkjr06NUT3zBYrwVN) | 3:43 | 2023-01-17 | 2024-07-19 |
+| [Rylan](https://open.spotify.com/track/18IyalmZGqUTwvZStMf7A1) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/240Gfpkjr06NUT3zBYrwVN) | 3:43 | 2023-01-17 |  |
 | [Rylan](https://open.spotify.com/track/6XxPXXqkE4lG7MVkpom6F8) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:43 | 2023-01-17 | 2024-04-19 |
 | [Safe With Me](https://open.spotify.com/track/6JXNQLqk8iSHgHp4ag7498) | [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [From Gas to Solid / you are my friend](https://open.spotify.com/album/0jDK15E80QD5ekIOlqdY7h) | 3:17 | 2023-01-17 | 2024-04-19 |
 | [Sandrail Silhouette](https://open.spotify.com/track/1wanXEOnOjtVk93VFv0xIQ) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Sandrail Silhouette](https://open.spotify.com/album/2vBvUI6HDD4bClYmKl16yw) | 4:29 | 2023-01-25 |  |
@@ -426,7 +427,7 @@
 | [Slow Disco \- piano version](https://open.spotify.com/track/2stcQY2OjzSIdk3I9Y1sCW) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MassEducation](https://open.spotify.com/album/3XwQPcRrrSNxETjuD5ka5r) | 2:30 | 2023-01-17 | 2024-04-19 |
 | [slow down](https://open.spotify.com/track/2ZQkYFEcfpAEaIirwyOG90) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [bloomington](https://open.spotify.com/album/7tUnJRaWtyZWyNPbXnRaUl) | 2:16 | 2023-01-17 | 2023-12-18 |
 | [Smother](https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:00 | 2023-01-17 | 2024-04-19 |
-| [Smother](https://open.spotify.com/track/3MH3oRNyFb5mNm663xcK7T) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/6E76aabodIl5DW5BTEZPHG) | 4:01 | 2023-01-17 |  |
+| [Smother](https://open.spotify.com/track/3MH3oRNyFb5mNm663xcK7T) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/6E76aabodIl5DW5BTEZPHG) | 4:01 | 2023-01-17 | 2024-07-20 |
 | [Snowman](https://open.spotify.com/track/3xKvXle8QcTpWz2al4WzaB) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 5:15 | 2023-06-07 | 2023-10-27 |
 | [Snowman](https://open.spotify.com/track/4oGfVF3hKD6gJ39D6LIBG8) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Snowman](https://open.spotify.com/album/7hniKkS2fAy2poyT6WYwbh) | 5:15 | 2023-06-07 | 2024-06-29 |
 | [Snowman](https://open.spotify.com/track/6gGKU1PSWNdLyjiURjfPil) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq) | 5:15 | 2023-06-07 | 2024-04-19 |

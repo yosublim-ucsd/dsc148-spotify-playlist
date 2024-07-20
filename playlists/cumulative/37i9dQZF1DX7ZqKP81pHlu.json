@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "A.E.M - Ya Ritek",
+        "url": "https://open.spotify.com/album/6OLAhYkuTvuiPYiSuJJtoh"
+      },
+      "artists": [
+        {
+          "name": "El Bobina",
+          "url": "https://open.spotify.com/artist/4sNeP7PIP7jF4srdCK0g3C"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256901,
+      "name": "A.E.M - Ya Ritek",
+      "url": "https://open.spotify.com/track/6LfVxjEYAd6wAdCaMU21M5"
+    },
+    {
+      "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/5t5ieknOAiq6hBfzTe2veZ"
       },
@@ -2040,7 +2058,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 230209,
       "name": "I Wanna Go",
       "url": "https://open.spotify.com/track/3stVq7jycIeOwgtxUiweCD"

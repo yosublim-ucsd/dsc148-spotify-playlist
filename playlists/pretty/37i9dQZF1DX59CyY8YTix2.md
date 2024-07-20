@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: FINLANDS
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,583 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,592 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,12 +56,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 46 | [A8番出口](https://open.spotify.com/track/0i9q3Cw9GwnvuSQltZRTYx) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [A8番出口](https://open.spotify.com/album/1GqgKYbjOxhU8TtzsUsQHl) | 3:35 |
 | 47 | [リベリオン](https://open.spotify.com/track/3AchaKyy2z6K85YGR729JQ) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [リベリオン](https://open.spotify.com/album/120fFIxJOERpjvhdC7xJSE) | 2:58 |
 | 48 | [Good Morning](https://open.spotify.com/track/4PCu8xygJhOG4TLNNw3LO4) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [Good Morning](https://open.spotify.com/album/5lf6d24IOe7lkGxaDQ6zE0) | 3:03 |
-| 49 | [ドラ１独走](https://open.spotify.com/track/0UkBK5kfWWX69QzWx1DDx3) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ドラ１独走](https://open.spotify.com/album/7pu6N5N8vmayVPxNNVihJE) | 3:03 |
-| 50 | [君の目も鼻も口も顎も眉も寝ても覚めても超素敵!!!](https://open.spotify.com/track/5Us9nHV0bOYJI7uh3wJQFf) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [君の目も鼻も口も顎も眉も寝ても覚めても超素敵!!!](https://open.spotify.com/album/5zEchapHbkbcP85WGzHBwi) | 3:38 |
+| 49 | [君の目も鼻も口も顎も眉も寝ても覚めても超素敵!!!](https://open.spotify.com/track/5Us9nHV0bOYJI7uh3wJQFf) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [君の目も鼻も口も顎も眉も寝ても覚めても超素敵!!!](https://open.spotify.com/album/5zEchapHbkbcP85WGzHBwi) | 3:38 |
+| 50 | [ドラ１独走](https://open.spotify.com/track/0UkBK5kfWWX69QzWx1DDx3) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ドラ１独走](https://open.spotify.com/album/7pu6N5N8vmayVPxNNVihJE) | 3:03 |
 | 51 | [Red:birthmark](https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Red:birthmark](https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj) | 3:36 |
 | 52 | [Tap Tap Dance](https://open.spotify.com/track/68Zr9ftLbJdjs0dLXMbvWT) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Party!!](https://open.spotify.com/album/3sg0BgfaXzY0QNNngxZG0J) | 3:32 |
-| 53 | [PEAK TIME](https://open.spotify.com/track/6AnigJs8uZ41ANllM0vfRS) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [PEAK TIME](https://open.spotify.com/album/4uHcA8aXhHoBTCrkSGctjv) | 3:46 |
-| 54 | [Sunshade](https://open.spotify.com/track/5ydosGKz5mN41OGweXrMx9) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Sunshade](https://open.spotify.com/album/6yfodvXv3ObrBqR1vXZe2y) | 3:17 |
+| 53 | [Sunshade](https://open.spotify.com/track/5ydosGKz5mN41OGweXrMx9) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Sunshade](https://open.spotify.com/album/6yfodvXv3ObrBqR1vXZe2y) | 3:17 |
+| 54 | [PEAK TIME](https://open.spotify.com/track/6AnigJs8uZ41ANllM0vfRS) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [PEAK TIME](https://open.spotify.com/album/4uHcA8aXhHoBTCrkSGctjv) | 3:46 |
 | 55 | [行方知れず](https://open.spotify.com/track/5eCSuo6fXYTzm6WyWkeOxV) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [行方知れず](https://open.spotify.com/album/6VqJt1oGF2UvWBiKJNW97J) | 3:09 |
 | 56 | [YOU&愛Heaven](https://open.spotify.com/track/61y30C7o99Zi0uGCyB5vqy) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [YOU&愛Heaven](https://open.spotify.com/album/3rYPFG85zZbBFX77PcdFQ5) | 3:45 |
 | 57 | [夏恋注意報](https://open.spotify.com/track/1AB5STSw5kjkOSmie1dkYb) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [夏恋注意報](https://open.spotify.com/album/2YPfXFSP0eiV5W0WnVyJUM) | 4:49 |
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 59 | [Welcome](https://open.spotify.com/track/2eret7tEFawBg7ivErrSdx) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Welcome to My Castle](https://open.spotify.com/album/7gkjbmsbhiXCDPmKYGPk2l) | 3:17 |
 | 60 | [求世主](https://open.spotify.com/track/4pepZPoJKPADagQMy69JA6) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [求世主](https://open.spotify.com/album/1Z4xjX90L8CstAWrwkk1Mr) | 2:57 |
 | 61 | [ひつじのショーン（Life's a Treat）\[English Cover\]](https://open.spotify.com/track/4S6bmn7y8pdotEBA7h5AMe) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [ひつじのショーン（Life's a Treat）\[English Cover\]](https://open.spotify.com/album/1EHfP9ipb4HweCWgUAee8c) | 2:37 |
-| 62 | [スケベなだけで金がない](https://open.spotify.com/track/2LhQsqnq5uyTtuobpoHCat) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [スケベなだけで金がない](https://open.spotify.com/album/5Ar3B8oObwuJfIuHQQIpDg) | 2:39 |
-| 63 | [双葉](https://open.spotify.com/track/0IAX0LbVY440WWJyOyuLw7) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [双葉](https://open.spotify.com/album/2iFDmdWIklUksYTCnbiuFw) | 4:37 |
-| 64 | [snowspring](https://open.spotify.com/track/7tonj11VpAOhsOH7QgJPhq) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [snowspring](https://open.spotify.com/album/6097pqjwHjLkbbWj30WQmt) | 3:42 |
-| 65 | [Musica](https://open.spotify.com/track/1ZcyDDA4S9BQxJaVQNiKQ1) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [Musica](https://open.spotify.com/album/15OsgQLfIzPAHgb8tXQ5XA) | 3:03 |
+| 62 | [双葉](https://open.spotify.com/track/0IAX0LbVY440WWJyOyuLw7) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [双葉](https://open.spotify.com/album/2iFDmdWIklUksYTCnbiuFw) | 4:37 |
+| 63 | [天きりん](https://open.spotify.com/track/6jfOCuvH5u7izNP0uu0k40) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [天きりん](https://open.spotify.com/album/5RfeWvnelkHOuxtgySwZLa) | 3:44 |
+| 64 | [スケベなだけで金がない](https://open.spotify.com/track/2LhQsqnq5uyTtuobpoHCat) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [スケベなだけで金がない](https://open.spotify.com/album/5Ar3B8oObwuJfIuHQQIpDg) | 2:39 |
+| 65 | [snowspring](https://open.spotify.com/track/7tonj11VpAOhsOH7QgJPhq) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [snowspring](https://open.spotify.com/album/6097pqjwHjLkbbWj30WQmt) | 3:42 |
 | 66 | [私のままで](https://open.spotify.com/track/5yd9B49JLpmQls6NZmvXaI) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [私のままで](https://open.spotify.com/album/1Z9No1qDbse2a6n5rCAl7B) | 4:15 |
 | 67 | [ゴーストダイブ](https://open.spotify.com/track/3YSYq98AiBIXAj8GCW3wbd) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [ゴーストダイブ](https://open.spotify.com/album/22Y4CMkBXjaGCVfzNrtdEw) | 3:18 |
 | 68 | [rose \- feat\. Vaundy](https://open.spotify.com/track/72DWkd9AazMHYDafzpq4XF) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [mixtape](https://open.spotify.com/album/3kbR4fhps595HxImAmVHvY) | 3:07 |
-| 69 | [天きりん](https://open.spotify.com/track/6jfOCuvH5u7izNP0uu0k40) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [天きりん](https://open.spotify.com/album/5RfeWvnelkHOuxtgySwZLa) | 3:44 |
+| 69 | [Musica](https://open.spotify.com/track/1ZcyDDA4S9BQxJaVQNiKQ1) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [Musica](https://open.spotify.com/album/15OsgQLfIzPAHgb8tXQ5XA) | 3:03 |
 | 70 | [可愛いユナちゃん](https://open.spotify.com/track/51Wglv2PINrDBmgjFBZAet) | [超☆社会的サンダル](https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4) | [可愛いユナちゃん](https://open.spotify.com/album/2Tq9r4PxlmsRHur9umG7Aw) | 3:59 |
 | 71 | [今晩の喧嘩](https://open.spotify.com/track/5BJNsJTrmjn21Y3K0eTxfK) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [今晩の喧嘩](https://open.spotify.com/album/3yjTA6CkYo5kvlZCvIIdDb) | 3:41 |
 | 72 | [line](https://open.spotify.com/track/1OvRhgVMmySVSreV9YnoBW) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [around dusk](https://open.spotify.com/album/4XG2t9y3aHT7IjCFn3jwNF) | 3:01 |

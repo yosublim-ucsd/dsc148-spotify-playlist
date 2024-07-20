@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Nenny
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,354 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,363 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 17 | [Por Enquanto](https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Por Enquanto](https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n) | 2:22 |
 | 18 | [Impec](https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Deepak Looper](https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf) | 3:13 |
 | 19 | [Ultimamente](https://open.spotify.com/track/2OXcFFTAhcpElg1ZMAqLB7) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Afro Fado](https://open.spotify.com/album/0GcsYtidlr4azVnuTjD3KI) | 3:42 |
-| 20 | [Solteiros](https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Solteiros](https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md) | 2:59 |
-| 21 | [ROSAS](https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr) | [ROSAS](https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E) | 2:57 |
+| 20 | [ROSAS](https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr) | [ROSAS](https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E) | 2:57 |
+| 21 | [Solteiros](https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Solteiros](https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md) | 2:59 |
 | 22 | [I'm Sorry](https://open.spotify.com/track/3aml52yDe6ff32XOgZQ0Cb) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [I'm Sorry](https://open.spotify.com/album/6xbIjf6sv5M4I9GT0NuEcj) | 3:22 |
 | 23 | [Chamadas](https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Chamadas](https://open.spotify.com/album/6AWc7VG51dRddGEWXjLpcH) | 2:36 |
 | 24 | [Do You No Wrong](https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Lisboa](https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh) | 4:03 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 61 | [Lugar Favorito](https://open.spotify.com/track/52gj1McTFcNmZRlIq3EpO3) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Lugar Favorito](https://open.spotify.com/album/0mTmzf6wbxNPsRbDNOotHU) | 3:17 |
 | 62 | [GUUD](https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [GUUD](https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI) | 2:48 |
 | 63 | [Povo](https://open.spotify.com/track/1QuMSpSKb8TddULszTHRDH) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Festival da Canção 2023](https://open.spotify.com/album/57v1ACsenMa34vYqhuLl0d) | 2:54 |
-| 64 | [T$UNAMI](https://open.spotify.com/track/2pks64KK1vHckQPEGiDuyK) | [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx), [ROCKY](https://open.spotify.com/artist/6VLLGzMNejO8BhWFOJXP5M) | [T$UNAMI](https://open.spotify.com/album/3RMYeQI4WDsrcR4CzKdnmy) | 3:03 |
-| 65 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 |
+| 64 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 |
+| 65 | [T$UNAMI](https://open.spotify.com/track/2pks64KK1vHckQPEGiDuyK) | [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx), [ROCKY](https://open.spotify.com/artist/6VLLGzMNejO8BhWFOJXP5M) | [T$UNAMI](https://open.spotify.com/album/3RMYeQI4WDsrcR4CzKdnmy) | 3:03 |
 | 66 | [Fica Pra Depois](https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Fica Pra Depois](https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog) | 3:33 |
 | 67 | [BOM BOM](https://open.spotify.com/track/3WIcI0ONzyVFHC21TlVXkM) | [Rony Fuego](https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk), [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv) | [BOM BOM](https://open.spotify.com/album/6JdO9kxfUaZ0kZCKKXkoBe) | 3:00 |
 | 68 | [Accelerate](https://open.spotify.com/track/6F037kDQvzNndsorXVKT8h) | [Florito](https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH) | [Accelerate](https://open.spotify.com/album/5VAYpc1ZX3S3ZDfQguDqNm) | 2:59 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 72 | [Credo](https://open.spotify.com/track/5QRdKPh18pJHdlIRjqEr8d) | [João Maia Ferreira](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [Credo](https://open.spotify.com/album/6QKiftBhtPna757ems3oE2) | 3:35 |
 | 73 | [Orgulho](https://open.spotify.com/track/76dnUs1YTIIGCUBiTWIbY4) | [Dream Boyz](https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf), [Dji Tafinha](https://open.spotify.com/artist/3VGB73iYdHZ7T3jjgucrYS) | [Orgulho](https://open.spotify.com/album/2pv6xhnEH7N71mcgMkp7wX) | 4:24 |
 | 74 | [Mo Ki Nu Ta Fazi](https://open.spotify.com/track/678MOfN1hxfPoOGodwKU10) | [Rapaz 100 Juiz](https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5), [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv) | [Mo Ki Nu Ta Fazi](https://open.spotify.com/album/5xaOy0KY0SKrRNccDXZua9) | 3:40 |
-| 75 | [Vistas](https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW) | [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Vistas](https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o) | 3:00 |
+| 75 | [INÍCIO](https://open.spotify.com/track/0pWS7S3UEkh2zGcNyB2p28) | [ZARCO](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf) | [INÍCIO](https://open.spotify.com/album/2cYblQu0jTbi8qv71eaoBD) | 3:25 |
 
 Snapshot ID: `ZpmecAAAAACPQlYDAP/3kGBISEIm5uAi`

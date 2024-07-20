@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: DOE
 
-1,433 songs - 3 day 4 hr 17 min
+1,434 songs - 3 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Can't Be Still](https://open.spotify.com/track/6XUTviMKLT68nRa3Sowgn2) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Can't Be Still](https://open.spotify.com/album/2jCBWWbsHm37ZGLybkiJvF) | 2:58 | 2024-06-01 |  |
 | [Can't Get Enough](https://open.spotify.com/track/3A0XNK2dqNFIjG4yBt9Zzd) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Can't Get Enough](https://open.spotify.com/album/3w8ZxUWRMNv5uERVK3fLq1) | 3:06 | 2024-01-26 | 2024-03-02 |
 | [Can't Shut Us Down](https://open.spotify.com/track/3JWNZPc8fsMmaMx3N4voQZ) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Can't Shut Us Down](https://open.spotify.com/album/19VPME5BsYWcAkyxz17rj9) | 3:12 | 2023-11-08 | 2023-11-30 |
+| [can't stand it](https://open.spotify.com/track/6ElYocyMBSR3LHqGQGmA2r) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [can't stand it](https://open.spotify.com/album/3XXJLgzB9eOg1oiEy0j2bD) | 3:05 | 2024-07-02 |  |
 | [Cardinal](https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 | 2024-04-01 | 2024-05-02 |
 | [Care](https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Care](https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg) | 4:37 | 2024-03-01 | 2024-04-02 |
 | [Carol Of The Bells \- Spotify Singles Holiday](https://open.spotify.com/track/1jFBoVvIFAVglcAJTZpoG8) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Carol Of The Bells \(Spotify Singles Holiday\)](https://open.spotify.com/album/4cvOEpiN4d4YMwM4eB9NvY) | 1:42 | 2021-12-01 | 2022-01-06 |
@@ -332,7 +333,7 @@
 | [Dates In Pickup Trucks](https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Dates In Pickup Trucks](https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK) | 2:45 | 2022-04-06 | 2022-05-05 |
 | [Day Like This](https://open.spotify.com/track/2QZ0YOuXUtfLY3cilsD3qu) | [kristina alcordo](https://open.spotify.com/artist/3y6KP6ZPC8SskJTCNAkFNs) | [Day Like This](https://open.spotify.com/album/6XXha8DIiLzRXNIxFFLpV8) | 2:28 | 2022-09-07 | 2022-09-15 |
 | [Deli](https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:06 | 2023-08-02 | 2024-01-27 |
-| [Delphinium Blue](https://open.spotify.com/track/27ws2QOhH3gNqyy30thMzR) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Delphinium Blue](https://open.spotify.com/album/4lfIqAm7yH6WcnO0qMzej8) | 3:37 | 2024-06-01 |  |
+| [Delphinium Blue](https://open.spotify.com/track/27ws2QOhH3gNqyy30thMzR) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Delphinium Blue](https://open.spotify.com/album/4lfIqAm7yH6WcnO0qMzej8) | 3:37 | 2024-06-01 | 2024-07-20 |
 | [Demons](https://open.spotify.com/track/1xemKSmCnH59ze3KX5wwgH) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Demons](https://open.spotify.com/album/7iduRgQGVmm0Thy4v734Py) | 3:15 | 2023-09-06 | 2023-10-05 |
 | [Denim & Rhinestones](https://open.spotify.com/track/4eTogc6gceI3O6AxwwP7oo) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/1OgqlCnE4CasUeYODzIMSs) | 2:48 | 2022-05-04 | 2022-06-01 |
 | [Desert](https://open.spotify.com/track/0V0InkpxgeM3jvYDRiMF16) | [Candace Coker](https://open.spotify.com/artist/0Frnv8PiVZxpcdUSLZSNj1) | [Desert](https://open.spotify.com/album/38xQ2BLCGy76OWe83xBd5F) | 4:41 | 2023-02-01 | 2023-03-02 |

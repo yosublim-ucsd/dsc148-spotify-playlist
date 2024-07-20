@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover:   <a href="spotify:artist:6008gjU9UTUCfLZoSun5SH">Annatoria</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,545 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,575 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 53 | [Hands Of The Healer](https://open.spotify.com/track/1JQsy5MkGA400fSEumjxWN) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Hands Of The Healer](https://open.spotify.com/album/3I7LT2cBTzO65R6bGzTBPr) | 4:18 |
 | 54 | [POV](https://open.spotify.com/track/5XSwywSFWmjnd4b7LyEr7i) | [Jesse Labelle](https://open.spotify.com/artist/5xLdSGejmdil911M6q1HdU) | [POV](https://open.spotify.com/album/3rCs08c0meQ5zFAnKKq6qm) | 2:45 |
 | 55 | [The Lord's Work](https://open.spotify.com/track/6xAp8QNvjVOvkOnNYC6ZUC) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [The Lord's Work](https://open.spotify.com/album/0UcnB8aCmnyoE9RzedDFfN) | 3:22 |
-| 56 | [My Lord Provided \- Radio Version](https://open.spotify.com/track/19qgs1hdCFfOn56Dmvxhib) | [Coquí](https://open.spotify.com/artist/1uCjP7p7EWy5ZfH2jszK06), [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t), [Much More](https://open.spotify.com/artist/0GzQFF0o2exeYIxW6CEA1a) | [My Lord Provided \(Radio Version\)](https://open.spotify.com/album/2pk8eHUcJ1LmUpX4GLSp9a) | 3:54 |
+| 56 | [My Lord Provided \- Radio Version](https://open.spotify.com/track/19qgs1hdCFfOn56Dmvxhib) | [Coquí](https://open.spotify.com/artist/1uCjP7p7EWy5ZfH2jszK06), [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t), [MUCH MORE](https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs) | [My Lord Provided \(Radio Version\)](https://open.spotify.com/album/2pk8eHUcJ1LmUpX4GLSp9a) | 3:54 |
 | 57 | [We Believe](https://open.spotify.com/track/2Y0nAf9t1aeutVYqmXOwq9) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [We Believe](https://open.spotify.com/album/0ZiQ24x1u9F9T8aMsqKYqo) | 4:03 |
 | 58 | [I Know What A Savior He Is](https://open.spotify.com/track/51F4xLMawZffSmUsq4PPlx) | [Mark Lowry](https://open.spotify.com/artist/7DpnqUope0VrBdoh4T5Uod) | [I Know What A Savior He Is](https://open.spotify.com/album/05l0TRzsJSsd0IAa6XuVQj) | 3:51 |
 | 59 | [There's A Hole in the Heart](https://open.spotify.com/track/4mHjtYE0c51pFxHkgVJeRH) | [The Nelons](https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn) | [There's A Hole in the Heart](https://open.spotify.com/album/1BxJsXl0vw15BRmbNFQdf6) | 3:21 |

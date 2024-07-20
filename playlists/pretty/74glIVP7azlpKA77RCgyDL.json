@@ -1,13 +1,109 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Wargasm",
-  "num_followers": 8632,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Cold Gawd",
+  "num_followers": 8633,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAMYKUMytWlUsb25nk48dQ1vHsd5opk",
+  "snapshot_id": "AAAMaMzEjUIScZoTOIvBG3fssa8PZuT0",
   "tracks": [
+    {
+      "added_at": "2024-07-19 19:35:20",
+      "album": {
+        "name": "Give Them Death",
+        "url": "https://open.spotify.com/album/2Qu0FrgnsXqkJ644o69qcJ"
+      },
+      "artists": [
+        {
+          "name": "Left to Suffer",
+          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
+        }
+      ],
+      "duration_ms": 217199,
+      "name": "Give Them Death",
+      "url": "https://open.spotify.com/track/07ixxw8UpxZuEptb6fX57W"
+    },
+    {
+      "added_at": "2024-07-19 19:35:37",
+      "album": {
+        "name": "Epidemic of Mutation",
+        "url": "https://open.spotify.com/album/5dsDnvofGGU4OAfYVZS4w7"
+      },
+      "artists": [
+        {
+          "name": "Extinction A.D.",
+          "url": "https://open.spotify.com/artist/1AVn1BUp281M9gQhYCrvGQ"
+        }
+      ],
+      "duration_ms": 233280,
+      "name": "Epidemic of Mutation",
+      "url": "https://open.spotify.com/track/0NWhLpygJ6jmb1np8RpVMA"
+    },
+    {
+      "added_at": "2024-07-19 19:35:49",
+      "album": {
+        "name": "Gorgeous",
+        "url": "https://open.spotify.com/album/3brN47YTTKHWEpB8hsOEa2"
+      },
+      "artists": [
+        {
+          "name": "Cold Gawd",
+          "url": "https://open.spotify.com/artist/4nD7mZ37GMiFBSjvWZIlDb"
+        }
+      ],
+      "duration_ms": 331957,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/02i9hlZQCCb6vYxpBm6r5h"
+    },
+    {
+      "added_at": "2024-07-19 19:36:02",
+      "album": {
+        "name": "The Undying",
+        "url": "https://open.spotify.com/album/2bDfUonCv8iWbwgxJ3HPMo"
+      },
+      "artists": [
+        {
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+        }
+      ],
+      "duration_ms": 304346,
+      "name": "The Undying",
+      "url": "https://open.spotify.com/track/3xLm7lIQPEkCamsWhKzuum"
+    },
+    {
+      "added_at": "2024-07-19 19:36:15",
+      "album": {
+        "name": "Steel Spine",
+        "url": "https://open.spotify.com/album/2VvkI58bYdqyrLwcXyG9PK"
+      },
+      "artists": [
+        {
+          "name": "LOCKED SHUT",
+          "url": "https://open.spotify.com/artist/5wXFJIjoTJiIcUqTrL808e"
+        }
+      ],
+      "duration_ms": 146233,
+      "name": "Steel Spine",
+      "url": "https://open.spotify.com/track/5X1e5ufWieZ1rg2EFDMIwt"
+    },
+    {
+      "added_at": "2024-07-19 19:36:27",
+      "album": {
+        "name": "The Briar Harp",
+        "url": "https://open.spotify.com/album/0HBjuSYNUKbEMoAJiIwkgu"
+      },
+      "artists": [
+        {
+          "name": "Shadow Knell",
+          "url": "https://open.spotify.com/artist/5FtVRR9Ht6OvritIsgHW6z"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "The Briar Harp",
+      "url": "https://open.spotify.com/track/2yutxTEXbll1F52e2bu8l6"
+    },
     {
       "added_at": "2024-07-12 19:49:55",
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 79184,
+  "num_followers": 79220,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAACBhiu06zJldtCB0ImvrXj3",
+  "snapshot_id": "ZphbAAAAAAA7nn83fOG28PCHTzER4Act",
   "tracks": [
     {
       "added_at": null,
@@ -459,34 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hayya Hayya (Better Together) [Music from FIFA World Cup Qatar 2022 Soundtrack]",
-        "url": "https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU"
-      },
-      "artists": [
-        {
-          "name": "Trinidad Cardona",
-          "url": "https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Aisha",
-          "url": "https://open.spotify.com/artist/0S85VL5RtkqXSh22xB8Je5"
-        },
-        {
-          "name": "FIFA Sound",
-          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
-        }
-      ],
-      "duration_ms": 206069,
-      "name": "Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack",
-      "url": "https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
@@ -744,9 +716,9 @@
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 249320,
-      "name": "Assurance",
-      "url": "https://open.spotify.com/track/3ZJblAM95vwSKA5IUloPJh"
+      "duration_ms": 203505,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/0H9agEp8BXR4S6DI50rmTU"
     },
     {
       "added_at": null,
@@ -812,9 +784,9 @@
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 203505,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/0H9agEp8BXR4S6DI50rmTU"
+      "duration_ms": 249320,
+      "name": "Assurance",
+      "url": "https://open.spotify.com/track/3ZJblAM95vwSKA5IUloPJh"
     },
     {
       "added_at": null,
@@ -831,26 +803,6 @@
       "duration_ms": 200000,
       "name": "Like Dat",
       "url": "https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breezy (Deluxe)",
-        "url": "https://open.spotify.com/album/79WcTJuCulopfqul1awYJk"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 179080,
-      "name": "Nobody Has To Know (feat. Davido)",
-      "url": "https://open.spotify.com/track/4U94pbUhXrzFNVcyrFeMso"
     },
     {
       "added_at": null,
@@ -879,6 +831,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 213892,
+      "name": "Shopping Spree (feat. Chris Brown & Young Thug)",
+      "url": "https://open.spotify.com/track/1ln2sDL64h9Y0PJIrUogM6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Good Time",
         "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
@@ -903,30 +879,6 @@
       "duration_ms": 248727,
       "name": "Sweet in the Middle (feat. Wurld, Naira Marley & Zlatan)",
       "url": "https://open.spotify.com/track/2ylO41DTQwQv1QH1mSP3cH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Better Time",
-        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 213892,
-      "name": "Shopping Spree (feat. Chris Brown & Young Thug)",
-      "url": "https://open.spotify.com/track/1ln2sDL64h9Y0PJIrUogM6"
     },
     {
       "added_at": null,
@@ -1031,6 +983,54 @@
       "duration_ms": 217154,
       "name": "Ride for You",
       "url": "https://open.spotify.com/track/5SwcKxSMFVxftpfHclPc03"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Green With Envy",
+        "url": "https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "Who's True",
+      "url": "https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blessings REMIX (feat. French Montana & Davido)",
+        "url": "https://open.spotify.com/album/3kxuAgeGxSrMLi9qu4F6x9"
+      },
+      "artists": [
+        {
+          "name": "Angel",
+          "url": "https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Blessings REMIX (feat. French Montana & Davido)",
+      "url": "https://open.spotify.com/track/4qxWose1KJgPDYQkMs0Ng5"
     }
   ],
   "unique_name": "This Is Davido",

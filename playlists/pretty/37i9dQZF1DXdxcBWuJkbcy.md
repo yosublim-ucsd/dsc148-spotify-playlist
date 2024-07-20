@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Pumping tracks for pumping iron!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,742,393 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,742,639 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 43 | [Not Fair](https://open.spotify.com/track/0JZ1ABjN8q7TNwMP39NjvU) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Not Fair](https://open.spotify.com/album/57jsctxgXIlNnaWtZpjweW) | 2:43 |
 | 44 | [girl$](https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [girl$](https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc) | 3:29 |
 | 45 | [Makeba \- Ian Asher Remix](https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [Makeba \(Ian Asher Remix\)](https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj) | 2:05 |
-| 46 | [Atmosphere](https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d) | 3:02 |
-| 47 | [Like A G6 \(with Naeleck\)](https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Like A G6 \(with Naeleck\)](https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y) | 2:28 |
-| 48 | [Lullaby](https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Lullaby](https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy) | 3:07 |
+| 46 | [Like A G6 \(with Naeleck\)](https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Like A G6 \(with Naeleck\)](https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y) | 2:28 |
+| 47 | [Lullaby](https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Lullaby](https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy) | 3:07 |
+| 48 | [Atmosphere](https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d) | 3:02 |
 | 49 | [Satisfaction](https://open.spotify.com/track/0lwyzp7GppQxv0Eu6wRkUo) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Satisfaction](https://open.spotify.com/album/70dWN40gJXCrmc7CDMYqtT) | 2:35 |
 | 50 | [Feeling Good](https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Feeling Good](https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk) | 3:23 |
 | 51 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 |

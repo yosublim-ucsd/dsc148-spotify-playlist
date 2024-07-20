@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Ton Carfi",
-  "num_followers": 303789,
+  "num_followers": 303846,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
+        "name": "Teu Amor Por Mim",
+        "url": "https://open.spotify.com/album/4NXpbo0APYOP2Q8waVCdtK"
+      },
+      "artists": [
+        {
+          "name": "Igor Roque",
+          "url": "https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8"
+        }
+      ],
+      "duration_ms": 185969,
+      "name": "Teu Amor Por Mim",
+      "url": "https://open.spotify.com/track/6uDKN3fyXi2zu0ZNapjtkz"
+    },
+    {
+      "added_at": "2024-07-19 03:01:00",
+      "album": {
         "name": "Minha For\u00e7a",
         "url": "https://open.spotify.com/album/6dP0Tgs1NVNEAIP2a45OGB"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 251076,
       "name": "Minha For\u00e7a",
       "url": "https://open.spotify.com/track/6jvr1b5DlWhl5zcxjBPVnm"
-    },
-    {
-      "added_at": "2024-07-19 03:01:00",
-      "album": {
-        "name": "Teu Amor Por Mim",
-        "url": "https://open.spotify.com/album/4NXpbo0APYOP2Q8waVCdtK"
-      },
-      "artists": [
-        {
-          "name": "Igor Roque",
-          "url": "https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8"
-        }
-      ],
-      "duration_ms": 185969,
-      "name": "Teu Amor Por Mim",
-      "url": "https://open.spotify.com/track/6uDKN3fyXi2zu0ZNapjtkz"
     },
     {
       "added_at": "2024-07-19 03:01:00",

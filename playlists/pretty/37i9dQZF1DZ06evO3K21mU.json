@@ -1,12 +1,12 @@
 {
   "description": "This is J. Cole. The essential tracks, all in one playlist.",
-  "num_followers": 885558,
+  "num_followers": 885651,
   "original_name": "This Is J. Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAAB+dwMaqIAmqCVR59ez103M",
+  "snapshot_id": "ZphbAAAAAADSm1+1IuFWk99I76Ccj5Gz",
   "tracks": [
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 142640,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/6XkIQqAsFjk1XfD4L7G6qR"
+      "duration_ms": 255440,
+      "name": "Trae The Truth in Ibiza",
+      "url": "https://open.spotify.com/track/4E2fOeF5A6onC10OtnjXJa"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 255440,
-      "name": "Trae The Truth in Ibiza",
-      "url": "https://open.spotify.com/track/4E2fOeF5A6onC10OtnjXJa"
+      "duration_ms": 142640,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/6XkIQqAsFjk1XfD4L7G6qR"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 242697,
-      "name": "January 28th",
-      "url": "https://open.spotify.com/track/6LBpGdlukUARutol7VgWIS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cole World: The Sideline Story",
         "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 234386,
       "name": "In The Morning",
       "url": "https://open.spotify.com/track/4OkiWfrZKmmVoILXk8JEtl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 242697,
+      "name": "January 28th",
+      "url": "https://open.spotify.com/track/6LBpGdlukUARutol7VgWIS"
     },
     {
       "added_at": null,

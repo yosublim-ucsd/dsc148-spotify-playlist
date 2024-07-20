@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB?si=AapZ8v7aT0aa9btLzi\_\-qA">an00k</a>
 
-803 songs - 1 day 21 hr 35 min
+804 songs - 1 day 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -743,6 +743,7 @@
 | [VIDEO GIRL](https://open.spotify.com/track/0FlEwDwRmWA7naZtqbKhx9) | [Fentse.](https://open.spotify.com/artist/4ze7a3Hlh8YVc31qs0EHHc) | [VIDEO GIRL](https://open.spotify.com/album/5NMFGvtC0Y2z4FRzXWZodS) | 2:44 | 2023-07-13 | 2023-09-08 |
 | [Viens on prend le temps](https://open.spotify.com/track/4DzyOw0ACdOdOqzh6suSWj) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Viens on prend le temps](https://open.spotify.com/album/7q3GG7E7Lf3Dlvk5XZ9MYA) | 2:56 | 2024-07-18 |  |
 | [VILLAIN](https://open.spotify.com/track/5BenD5bE1L6gX4auqfEDov) | [Kristi Lowe](https://open.spotify.com/artist/6XWv7bdLT5EQkyVMn4RaNh) | [VILLAIN](https://open.spotify.com/album/5rdNgKVRNrDIWO7JNYqJHb) | 3:24 | 2023-07-28 | 2023-09-02 |
+| [Vintage Style](https://open.spotify.com/track/7wYVpRWtrZ4pTIioaGID2R) | [Zach Leopard](https://open.spotify.com/artist/32BTikkFQuadVcD1LHVgWd) | [Vintage Style](https://open.spotify.com/album/4SKZmpfoYIRPvrBUNbgNXC) | 2:33 | 2024-07-18 |  |
 | [Vitamin D](https://open.spotify.com/track/3Ktp59pfDr2qcdhdCYop7T) | [Black Heidi](https://open.spotify.com/artist/1uKkDJ0B4qGyH0hsUaGPvt) | [Vitamin D](https://open.spotify.com/album/4sFSVAu6lPn5clc1izlKDE) | 3:17 | 2024-02-09 | 2024-02-23 |
 | [Vivid Memories](https://open.spotify.com/track/0lo4TTF9XtgNLzigXYgRu0) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Marching On](https://open.spotify.com/album/2ujoavk6dk8KVc93EYxT2g) | 2:09 | 2024-06-14 |  |
 | [Vonkel](https://open.spotify.com/track/32APAtwKXpC4Nmbw8I2uH2) | [Mymymy](https://open.spotify.com/artist/0CxAWHVlogP8cmw9Earfwf) | [Vonkel](https://open.spotify.com/album/0to1EOGNGl5DDev4nldVPX) | 4:06 | 2022-12-08 | 2023-01-13 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Ice Spice",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: JT",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 130750,
       "name": "8 Year Run",
       "url": "https://open.spotify.com/track/3E4xQP5sFwanJROhnqkEJF"
+    },
+    {
+      "album": {
+        "name": "City Cinderella",
+        "url": "https://open.spotify.com/album/66HrXUpGRlJdwXIw7B9SQI"
+      },
+      "artists": [
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127228,
+      "name": "90's Baby",
+      "url": "https://open.spotify.com/track/44qD9IskeQr9Qnm6wlIM60"
     },
     {
       "album": {
@@ -938,7 +956,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 160003,
       "name": "BDK",
       "url": "https://open.spotify.com/track/20AW3GrcTk71onw6tS5lHr"
@@ -2012,6 +2030,36 @@
       "duration_ms": 154960,
       "name": "Can't Come Back",
       "url": "https://open.spotify.com/track/4iB93144GBYUfBuNmIkoCX"
+    },
+    {
+      "album": {
+        "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
+        "url": "https://open.spotify.com/album/3NiNyHyUbObfCYN3GuytFL"
+      },
+      "artists": [
+        {
+          "name": "Culture Jam",
+          "url": "https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Flau'jae",
+          "url": "https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208163,
+      "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
+      "url": "https://open.spotify.com/track/3XvMwcBtHnk5GDem3AweQN"
     },
     {
       "album": {
@@ -3118,7 +3166,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 176000,
       "name": "Edible (feat. Gunna)",
       "url": "https://open.spotify.com/track/0PloZ9T7XT9NSVwzf56u8f"
@@ -5573,6 +5621,28 @@
     },
     {
       "album": {
+        "name": "City Cinderella",
+        "url": "https://open.spotify.com/album/66HrXUpGRlJdwXIw7B9SQI"
+      },
+      "artists": [
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        },
+        {
+          "name": "Stunna Girl",
+          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216986,
+      "name": "Lemon Pepper (feat. Stunna Girl)",
+      "url": "https://open.spotify.com/track/0YSunN721SC5IeuOuklmci"
+    },
+    {
+      "album": {
         "name": "Lick (with Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/6QcDsGaAocffXZY828eh8q"
       },
@@ -7556,7 +7626,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 134826,
       "name": "Playa (feat. Skilla Baby)",
       "url": "https://open.spotify.com/track/3pEOBaJeDXyN5PpGXxeDx9"

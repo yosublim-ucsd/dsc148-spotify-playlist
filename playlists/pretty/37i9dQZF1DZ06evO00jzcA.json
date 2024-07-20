@@ -1,12 +1,12 @@
 {
-  "description": "This Is KISS. Los temas esenciales, todos en una lista.",
-  "num_followers": 457933,
+  "description": "This is KISS\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 458003,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAADAoXDcNFbWsHEisiQ+BVE2",
+  "snapshot_id": "ZphbAAAAAACEFRuL/ZbWNNrc+EPnltrD",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Gun",
+        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "Love Gun",
+      "url": "https://open.spotify.com/track/0SPBrxOUEMIKugXR4bFhxs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Crazy Nights",
         "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
       },
@@ -187,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
       },
       "artists": [
         {
@@ -196,9 +212,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 320226,
-      "name": "God Gave Rock 'N' Roll To You II",
-      "url": "https://open.spotify.com/track/1jJenVEjsXClGR4n4vJkMu"
+      "duration_ms": 241506,
+      "name": "Sure Know Something",
+      "url": "https://open.spotify.com/track/1HBDWCrQVjrALiOA5rILnE"
     },
     {
       "added_at": null,
@@ -215,6 +231,22 @@
       "duration_ms": 169026,
       "name": "Shout It Out Loud",
       "url": "https://open.spotify.com/track/3qyHjQ1zTLvPeA99CP3K9N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 320226,
+      "name": "God Gave Rock 'N' Roll To You II",
+      "url": "https://open.spotify.com/track/1jJenVEjsXClGR4n4vJkMu"
     },
     {
       "added_at": null,
@@ -715,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dynasty",
-        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 267933,
-      "name": "Dirty Livin'",
-      "url": "https://open.spotify.com/track/159RwMV9yxgOBk0aXhs3sq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kiss",
         "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
       },
@@ -747,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotter Than Hell",
-        "url": "https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE"
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
       },
       "artists": [
         {
@@ -756,9 +772,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 135706,
-      "name": "Let Me Go, Rock 'N Roll",
-      "url": "https://open.spotify.com/track/6iwBE3iYSgeBI3OtBAPNc1"
+      "duration_ms": 267933,
+      "name": "Dirty Livin'",
+      "url": "https://open.spotify.com/track/159RwMV9yxgOBk0aXhs3sq"
     },
     {
       "added_at": null,
@@ -779,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dressed To Kill",
-        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
+        "name": "Hotter Than Hell",
+        "url": "https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE"
       },
       "artists": [
         {
@@ -788,29 +804,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 249000,
-      "name": "She",
-      "url": "https://open.spotify.com/track/2CgK3jgqeaR02D9mKE2XVt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Symphony: Alive IV",
-        "url": "https://open.spotify.com/album/2tu4fl2V9D3NHdocyV9J5T"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        },
-        {
-          "name": "The Melbourne Symphony Ensemble",
-          "url": "https://open.spotify.com/artist/7heI8mAanEFxzKBOCNWxJB"
-        }
-      ],
-      "duration_ms": 230386,
-      "name": "Forever (Live)",
-      "url": "https://open.spotify.com/track/1fM0MXvqlJT2H7znb3LiUD"
+      "duration_ms": 135706,
+      "name": "Let Me Go, Rock 'N Roll",
+      "url": "https://open.spotify.com/track/6iwBE3iYSgeBI3OtBAPNc1"
     }
   ],
   "unique_name": "This Is KISS",

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Glass Animals",
-  "num_followers": 33205,
+  "num_followers": 33204,
   "original_name": "Cena Indie",
   "owner": {
     "name": "Spotify",
@@ -899,8 +899,8 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Run Your Mouth",
-        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
+        "name": "If Only + No One Noticed",
+        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
       },
       "artists": [
         {
@@ -908,9 +908,9 @@
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Run Your Mouth",
-      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1043,8 +1043,8 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "If Only + No One Noticed",
-        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
+        "name": "Run Your Mouth",
+        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
       },
       "artists": [
         {
@@ -1052,9 +1052,9 @@
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
+      "duration_ms": 160000,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
+        "name": "work in progress",
+        "url": "https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 176805,
+      "name": "Down Swinging",
+      "url": "https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
         "name": "Just a Dance",
         "url": "https://open.spotify.com/album/39ZiNIvTOozeE4EcV0Ax5e"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 160932,
       "name": "Just a Dance",
       "url": "https://open.spotify.com/track/2iulJlc0L0rbcvowdlib7J"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "work in progress",
-        "url": "https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 176805,
-      "name": "Down Swinging",
-      "url": "https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72"
     },
     {
       "added_at": "2024-07-18 23:00:00",

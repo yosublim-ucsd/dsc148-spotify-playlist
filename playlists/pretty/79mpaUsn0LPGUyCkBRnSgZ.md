@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 509 songs - 1 day 9 hr 36 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 510 songs - 1 day 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -517,5 +517,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 507 | [Born To Die](https://open.spotify.com/track/5kMAugdkH2coRHRnW5FuDb) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die](https://open.spotify.com/album/4vXt6IpMcSnqonljffWlMI) | 4:46 |
 | 508 | [What’s The Goodside?](https://open.spotify.com/track/3JuJ79XWh5vZkA3zserZSW) | [Avey Tare](https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu) | [Cows on Hourglass Pond](https://open.spotify.com/album/5jNA5QJJl8BynLKtyrkhGj) | 6:31 |
 | 509 | [The Sound Of Confusion](https://open.spotify.com/track/3zUKCWesKho55Jm6e6JPpV) | [Spacemen 3](https://open.spotify.com/artist/1ZOlVrZ2MtNSY9LcFYklDB) | [Taking Drugs To Make Music To Take Drugs To \(Remastered\)](https://open.spotify.com/album/60dj0AVW7k2jFHPPLN6J1X) | 5:54 |
+| 510 | [Howling At The Moon](https://open.spotify.com/track/4dXNZHMLQSg1slX92JGjA1) | [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2) | [Love Gun 2](https://open.spotify.com/album/2jHaYTt9piEHSwhqA3ZJlB) | 4:36 |
 
-Snapshot ID: `AAAGRQOmhgI0OnVULxjvREzevfjWnabg`
+Snapshot ID: `AAAGRmoWd5OWh5sWIlH523RCFtlIW1gF`

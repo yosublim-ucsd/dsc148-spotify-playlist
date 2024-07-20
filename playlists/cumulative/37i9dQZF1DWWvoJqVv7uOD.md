@@ -4,7 +4,7 @@
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: OneRepublic
 
-706 songs - 1 day 14 hr 38 min
+707 songs - 1 day 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [Here’s Your Perfect \(with salem ilese\)](https://open.spotify.com/track/4Cw1fQBX3TaiZQwOAyddnj) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Here’s Your Perfect \(with salem ilese\)](https://open.spotify.com/album/5GniWbyYasCTUi8UZO6JZA) | 2:38 | 2022-02-04 | 2022-04-29 |
 | [Hero](https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Hero](https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC) | 3:16 | 2024-05-24 |  |
 | [Hero](https://open.spotify.com/track/5TMAescvs6Z6FlgQjfj3Vp) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Hero](https://open.spotify.com/album/7pFWRKpjaEFnX0gJSVQMIO) | 3:13 | 2022-02-04 | 2022-03-05 |
-| [Hey Driver \(feat\. The War and Treaty\)](https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-09-08 |  |
+| [Hey Driver \(feat\. The War and Treaty\)](https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-09-08 | 2024-07-20 |
 | [Hideaway](https://open.spotify.com/track/0ClngKpS4kdF0ymkVXI3zU) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Hideaway](https://open.spotify.com/album/0WSNWcs1LAOrWmwD26G5Nd) | 3:05 | 2022-09-09 | 2022-10-15 |
 | [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 | 2023-02-24 | 2023-05-27 |
 | [hill that i'll die on](https://open.spotify.com/track/7sQffRumg8cOOnEZ0LSPMo) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [hill that i'll die on](https://open.spotify.com/album/7GvvjRTMJ3ODSDqR6YiwrM) | 2:24 | 2022-09-30 | 2022-11-19 |
@@ -285,6 +285,7 @@
 | [Hold Me Like You Used To](https://open.spotify.com/track/7eEcVUDXfIaZPq4kwhPIML) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Golden Wings](https://open.spotify.com/album/3eLDkKjoLPJLR5sAgcx6lk) | 3:06 | 2022-02-04 | 2022-04-02 |
 | [Hold My Hand](https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Hold My Hand \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe) | 3:45 | 2022-05-04 | 2023-04-01 |
 | [Holding On](https://open.spotify.com/track/2FnLef29UuWUyj3TKEubR1) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Holding On](https://open.spotify.com/album/2xc5v6FRt8E3cEiAb71B7o) | 3:43 | 2022-05-13 | 2022-05-28 |
+| [Holy Ghost](https://open.spotify.com/track/3kKVjpgY1UQW3ikr0AhMZg) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Holy Ghost](https://open.spotify.com/album/2AUGXdf8CZckloBZfqY35g) | 2:38 | 2024-07-19 |  |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-02-09 |  |
 | [home is lonely](https://open.spotify.com/track/0ul8VoGOdO1IK5LveN0r2q) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [patience](https://open.spotify.com/album/4TdY7RhlmLkRxoyQPw3AR4) | 3:06 | 2022-11-04 | 2022-11-26 |
 | [Home Movies](https://open.spotify.com/track/17MgFhOFZc6JvSRHANh0rY) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Home Movies](https://open.spotify.com/album/5VCVMgNgN16eWS7kReGzEt) | 3:16 | 2023-01-13 | 2023-02-25 |
@@ -648,7 +649,7 @@
 | [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 | 2023-09-29 |  |
 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 | 2023-01-27 | 2023-07-29 |
 | [Turbulence](https://open.spotify.com/track/2Xc7OQIxS4Hn9p0DnLpUb2) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Turbulence](https://open.spotify.com/album/2A6b9NvbSmfPVDm6iEbCbJ) | 2:52 | 2022-03-18 | 2022-04-02 |
-| [Twice](https://open.spotify.com/track/2UHnJzIiyNqPTufzxHdTQx) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Lavender](https://open.spotify.com/album/11v89Gklx5GvGK6zfhj5jA) | 2:22 | 2023-10-20 |  |
+| [Twice](https://open.spotify.com/track/2UHnJzIiyNqPTufzxHdTQx) | [Jake Scott](https://open.spotify.com/artist/5ZXaVAiTvGiZPL43kd2mpI) | [Lavender](https://open.spotify.com/album/11v89Gklx5GvGK6zfhj5jA) | 2:22 | 2023-10-20 |  |
 | [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 | 2023-11-17 | 2024-04-05 |
 | [Two Hearts](https://open.spotify.com/track/6NwseBBU7N5ng39DvnSAdA) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [I've told the trees everything](https://open.spotify.com/album/2KHOBUj9QsyV2U3OYlKNJw) | 4:06 | 2023-12-01 | 2024-04-06 |
 | [Ugly](https://open.spotify.com/track/2kHQScyzjnhhuBPQQ1AVfo) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 3:33 | 2022-03-11 | 2022-05-07 |

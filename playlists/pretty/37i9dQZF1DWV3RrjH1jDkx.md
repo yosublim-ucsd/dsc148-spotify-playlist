@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag! 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,341 likes - 82 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,387 likes - 82 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Something Like This \(feat\. Dagny\)](https://open.spotify.com/track/2GtHpx7Q1xlmLBRx70i6oa) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg), [Eivind Helgerød](https://open.spotify.com/artist/4jAfuaUzyHkiLT9V32xe9l) | [Mad Women](https://open.spotify.com/album/53Fb80eoXfCbPF9DTaPXJk) | 3:23 |
+| 1 | [Something Like This \(feat\. Dagny\)](https://open.spotify.com/track/2GtHpx7Q1xlmLBRx70i6oa) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Mad Women](https://open.spotify.com/album/53Fb80eoXfCbPF9DTaPXJk) | 3:23 |
 | 2 | [My Brother, I](https://open.spotify.com/track/5VoNLvhJK6k7iJVawi2XGJ) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [My Brother, I](https://open.spotify.com/album/6AUurccJ7FMnQnFYiV6sNK) | 4:02 |
 | 3 | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe) | 3:49 |
 | 4 | [So Stunning](https://open.spotify.com/track/11H0FOYFDAQ2z6DUwIK5VZ) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [So Stunning](https://open.spotify.com/album/77iJPDjDNyKhQdsiFBNkUy) | 2:18 |

@@ -1,6 +1,6 @@
 {
   "description": "y el soundtrack suena as\u00ed...",
-  "num_followers": 13407,
+  "num_followers": 13419,
   "original_name": "mi vida es una peli",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "\u00bfPara Qu\u00e9?",
+        "url": "https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 147640,
+      "name": "\u00bfPara Qu\u00e9?",
+      "url": "https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "rompo esquemas",
         "url": "https://open.spotify.com/album/4sdH0YoWAHoozGAkVDqhpZ"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 209857,
       "name": "POEMA A TUS PROBLEMAS",
       "url": "https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "\u00bfPara Qu\u00e9?",
-        "url": "https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 147640,
-      "name": "\u00bfPara Qu\u00e9?",
-      "url": "https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2"
     },
     {
       "added_at": "2024-07-19 04:00:00",

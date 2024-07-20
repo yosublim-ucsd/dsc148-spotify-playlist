@@ -4,7 +4,7 @@
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Eminem
 
-437 songs - 22 hr 28 min
+438 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [In Da Car](https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [In Da Car](https://open.spotify.com/album/1DvFMj5C6pMKt0pebSlWhv) | 4:18 | 2022-08-05 | 2024-01-13 |
 | [In Luv With The Money](https://open.spotify.com/track/3dw4v5lOsKRqIX3c1bouJW) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Too Good To Be True](https://open.spotify.com/album/1jhGoiKDR41Qa2mzlveJFX) | 3:09 | 2023-11-17 | 2023-12-22 |
 | [In My Head](https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [In My Head](https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql) | 2:15 | 2022-07-27 | 2022-10-08 |
+| [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe) | 3:49 | 2024-07-19 |  |
 | [Incredible Sauce \(feat\. Dave\)](https://open.spotify.com/track/7jxnHknJtjE1MM8IfUidMF) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Zero Tolerance](https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk) | 4:03 | 2023-08-17 | 2023-09-19 |
 | [INTERMISSION](https://open.spotify.com/track/3Nn6h1A0DhGnfnMSWw73HQ) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [INTERMISSION](https://open.spotify.com/album/2bIfTq7gNYqPUGR7YIhZW7) | 2:48 | 2023-03-30 | 2023-04-15 |
 | [Is This Love \('09\) \(feat\. 50 Cent\)](https://open.spotify.com/track/7rK0iM6jwuo1oizdx8suQA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Curtain Call 2](https://open.spotify.com/album/3aTuW4BtsyyyyQa9LKqj8n) | 3:32 | 2022-08-05 | 2022-09-24 |
@@ -234,7 +235,7 @@
 | [Lemons \(Lemonade\)](https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Lemons \(Lemonade\)](https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ) | 4:19 | 2022-09-28 | 2023-11-18 |
 | [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 | 2022-12-18 | 2023-09-19 |
 | [Let's Get It \(Remix\) \[feat\. 21 Savage\]](https://open.spotify.com/track/1NVp7VnSVUJalgIBCIkh0w) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Let's Get It \(Remix\) \[feat\. 21 Savage\]](https://open.spotify.com/album/2ERLWOp7Bh4lAsoR7NytHu) | 2:36 | 2022-07-27 | 2023-02-17 |
-| [Let's Go \- Remix](https://open.spotify.com/track/55i5Hdv7VkcQtXCn1zyvKg) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Let's Go \(Remix\)](https://open.spotify.com/album/1Ecv7ghGqYhfdQzYZnOgG2) | 2:19 | 2024-04-12 |  |
+| [Let's Go \- Remix](https://open.spotify.com/track/55i5Hdv7VkcQtXCn1zyvKg) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Let's Go \(Remix\)](https://open.spotify.com/album/1Ecv7ghGqYhfdQzYZnOgG2) | 2:19 | 2024-04-12 | 2024-07-20 |
 | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/track/1wUpbNyIar4OFPM1Fg3R3j) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/album/03YnYlkkIiMOjIV9qIjykw) | 2:39 | 2022-10-07 | 2023-11-11 |
 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 | 2024-03-29 |  |
 | [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 | 2024-03-01 |  |

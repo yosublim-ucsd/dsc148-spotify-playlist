@@ -45,6 +45,32 @@
     },
     {
       "album": {
+        "name": "Alibi (with Pabllo Vittar & Yseult)",
+        "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161655,
+      "name": "Alibi (with Pabllo Vittar & Yseult)",
+      "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
+    },
+    {
+      "album": {
         "name": "PEEKABOO",
         "url": "https://open.spotify.com/album/7LP4dCklRhdTncqIYesDqi"
       },
@@ -286,7 +312,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 135758,
       "name": "Distant",
       "url": "https://open.spotify.com/track/7I5zI2Ty0O5MXS3yucCzdo"
@@ -1347,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "\u0416\u0438\u0432\u043e\u0442\u043d\u044b\u0439 \u043c\u0438\u0440",
+        "url": "https://open.spotify.com/album/6nR8jV3aFQBLfzqWpSCDRP"
+      },
+      "artists": [
+        {
+          "name": "Max Korzh",
+          "url": "https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173693,
+      "name": "\u0413\u0434\u0435 \u0442\u0432\u043e\u044f \u043b\u044e\u0431\u043e\u0432\u044c?",
+      "url": "https://open.spotify.com/track/7bQHty20BhXNYgvFfp2jgW"
+    },
+    {
+      "album": {
         "name": "GLAMOUR",
         "url": "https://open.spotify.com/album/0jPoAA3mBi9IbswX4q4C6p"
       },
@@ -1422,7 +1466,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 159836,
       "name": "\u0414\u0410 / \u041d\u0415\u0422",
       "url": "https://open.spotify.com/track/545xb1RbBBYESOgG2ENHxv"
@@ -2723,6 +2767,24 @@
     },
     {
       "album": {
+        "name": "\u0416\u0438\u0442\u044c \u0432 \u043a\u0430\u0439\u0444",
+        "url": "https://open.spotify.com/album/4ktDOYU0Jual1ELFTPhFd6"
+      },
+      "artists": [
+        {
+          "name": "Max Korzh",
+          "url": "https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188240,
+      "name": "\u0421\u0442\u0430\u043d\u044c",
+      "url": "https://open.spotify.com/track/475G1r5398lgxVY7Ld7m8r"
+    },
+    {
+      "album": {
         "name": "\u0421\u0422\u0412\u041e\u041b",
         "url": "https://open.spotify.com/album/1ZZiXJKL51J800x66cqyB6"
       },
@@ -2896,7 +2958,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 130123,
       "name": "\u0422\u0443\u0434\u0430 \u0421\u044e\u0434\u0430 \u041c\u0438\u043b\u043b\u0438\u043e\u043d\u0435\u0440",
       "url": "https://open.spotify.com/track/5pVoWJcrs67551V6KAP6EH"

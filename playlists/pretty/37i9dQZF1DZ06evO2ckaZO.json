@@ -1,12 +1,12 @@
 {
-  "description": "This Is Ice Spice. \u0642\u0637\u0639\u0647\u200c\u0647\u0627\u06cc \u0628\u0631\u062a\u0631 \u0647\u0645\u06af\u06cc \u062f\u0631 \u06cc\u06a9 \u0641\u0647\u0631\u0633\u062a \u067e\u062e\u0634.",
-  "num_followers": 63226,
-  "original_name": "\u0627\u06cc\u0646 Ice Spice \u0627\u0633\u062a",
+  "description": "This is Ice Spice. The essential tracks, all in one playlist.",
+  "num_followers": 63291,
+  "original_name": "This Is Ice Spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpcJgAAAAACWrX1jb+0uiknd1LSZ7Gk6",
+  "snapshot_id": "ZphbAAAAAABS6pJwiN02HulUywQs1mri",
   "tracks": [
     {
       "added_at": null,
@@ -251,26 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like..?",
-        "url": "https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 159370,
-      "name": "Gangsta Boo (with Lil Tjay)",
-      "url": "https://open.spotify.com/track/2g5q0UpOOFMNOcHGaMG4b0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like..? (Deluxe)",
         "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
       },
@@ -441,6 +421,6 @@
       "url": "https://open.spotify.com/track/15fiT3hdgQs817NrcgJ3CM"
     }
   ],
-  "unique_name": "\u0627\u06cc\u0646 Ice Spice \u0627\u0633\u062a",
+  "unique_name": "This Is Ice Spice",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ckaZO"
 }

@@ -1,6 +1,6 @@
 {
   "description": "Compare, prenda el carb\u00f3n y saque la bocina que ya se arm\u00f3 la carnita.",
-  "num_followers": 389306,
+  "num_followers": 389417,
   "original_name": "Carnita Asada Estilo Norte\u00f1o",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,26 @@
     {
       "added_at": "2024-07-15 22:51:12",
       "album": {
+        "name": "Tengo Claro",
+        "url": "https://open.spotify.com/album/6r2fG8QS313bzSxFEi7wnr"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 191681,
+      "name": "Tengo Claro",
+      "url": "https://open.spotify.com/track/2UAE43Y8K321CDAbnIXDD0"
+    },
+    {
+      "added_at": "2024-07-15 22:51:12",
+      "album": {
         "name": "Kbron y Medio",
         "url": "https://open.spotify.com/album/43lZUcMvNSAHtQTVHzAgax"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 214735,
       "name": "LOS DOS",
       "url": "https://open.spotify.com/track/4vT124ymmEAfre47gVCcRI"
-    },
-    {
-      "added_at": "2024-07-15 22:51:12",
-      "album": {
-        "name": "Tengo Claro",
-        "url": "https://open.spotify.com/album/6r2fG8QS313bzSxFEi7wnr"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 191681,
-      "name": "Tengo Claro",
-      "url": "https://open.spotify.com/track/2UAE43Y8K321CDAbnIXDD0"
     },
     {
       "added_at": "2024-07-15 22:51:12",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-07-15 22:51:12",
       "album": {
-        "name": "Prueba De Fuego",
-        "url": "https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 231855,
-      "name": "Prueba De Fuego",
-      "url": "https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR"
-    },
-    {
-      "added_at": "2024-07-15 22:51:12",
-      "album": {
         "name": "20 Canciones Banda y Norteno",
         "url": "https://open.spotify.com/album/7gct4wYWnkGa4lm44P8Lgt"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 156453,
       "name": "No Eres Tu Ahora Soy Yo",
       "url": "https://open.spotify.com/track/2id1k05l5qxinSNil4mfdM"
+    },
+    {
+      "added_at": "2024-07-15 22:51:12",
+      "album": {
+        "name": "Prueba De Fuego",
+        "url": "https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 231855,
+      "name": "Prueba De Fuego",
+      "url": "https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR"
     },
     {
       "added_at": "2024-07-15 22:51:12",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-07-15 22:51:12",
       "album": {
-        "name": "Tu Sombra",
-        "url": "https://open.spotify.com/album/2d7tfROtI0Sdsy2TYJMDpe"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 200560,
-      "name": "A chillar a otra parte",
-      "url": "https://open.spotify.com/track/3BwabPHcwg7jotkO7YOcJ2"
-    },
-    {
-      "added_at": "2024-07-15 22:51:12",
-      "album": {
         "name": "Cap\u00edtulo 1: El Regreso Del Dragon",
         "url": "https://open.spotify.com/album/6NbV4YCgoWwEUyjuN4WMT0"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 226250,
       "name": "Labios de Cereza 2",
       "url": "https://open.spotify.com/track/5kydBNKLSxvWNjXSSfyWAr"
+    },
+    {
+      "added_at": "2024-07-15 22:51:12",
+      "album": {
+        "name": "Tu Sombra",
+        "url": "https://open.spotify.com/album/2d7tfROtI0Sdsy2TYJMDpe"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "A chillar a otra parte",
+      "url": "https://open.spotify.com/track/3BwabPHcwg7jotkO7YOcJ2"
     },
     {
       "added_at": "2024-07-15 22:51:12",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-07-15 22:51:12",
       "album": {
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 189408,
+      "name": "Ya Acabo",
+      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
+    },
+    {
+      "added_at": "2024-07-15 22:51:12",
+      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 175532,
       "name": "La Nena",
       "url": "https://open.spotify.com/track/2O3V4meZv0bEc1LPITGvcC"
-    },
-    {
-      "added_at": "2024-07-15 22:51:12",
-      "album": {
-        "name": "DEV, Vol. 2",
-        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 189408,
-      "name": "Ya Acabo",
-      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
     },
     {
       "added_at": "2024-07-15 22:51:12",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-07-15 22:51:12",
       "album": {
+        "name": "A Ellas",
+        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
+      },
+      "artists": [
+        {
+          "name": "El Poder Del Norte",
+          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
+        }
+      ],
+      "duration_ms": 226093,
+      "name": "A Ella",
+      "url": "https://open.spotify.com/track/6xIiVGZs194HCa9wTVHRys"
+    },
+    {
+      "added_at": "2024-07-15 22:51:12",
+      "album": {
         "name": "Siempre Imitado, Jamas Igualado",
         "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 170333,
       "name": "Mi Casa Nueva",
       "url": "https://open.spotify.com/track/0YqxST7jMa8B4Ecr1675u6"
-    },
-    {
-      "added_at": "2024-07-15 22:51:12",
-      "album": {
-        "name": "A Ellas",
-        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
-      },
-      "artists": [
-        {
-          "name": "El Poder Del Norte",
-          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
-        }
-      ],
-      "duration_ms": 226093,
-      "name": "A Ella",
-      "url": "https://open.spotify.com/track/6xIiVGZs194HCa9wTVHRys"
     },
     {
       "added_at": "2024-07-15 22:51:12",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-07-15 22:51:12",
       "album": {
-        "name": "A Ellas",
-        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
-      },
-      "artists": [
-        {
-          "name": "El Poder Del Norte",
-          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
-        }
-      ],
-      "duration_ms": 212506,
-      "name": "Ni Que Valieras Tanto",
-      "url": "https://open.spotify.com/track/4YEtrr6BJfUX61LrEBjgLK"
-    },
-    {
-      "added_at": "2024-07-15 22:51:12",
-      "album": {
         "name": "Ya Me Entere (En Vivo)",
         "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 225040,
       "name": "Necesito Decirte",
       "url": "https://open.spotify.com/track/2b9rnsD5EzKMr6JBcNg7vE"
+    },
+    {
+      "added_at": "2024-07-15 22:51:12",
+      "album": {
+        "name": "A Ellas",
+        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
+      },
+      "artists": [
+        {
+          "name": "El Poder Del Norte",
+          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
+        }
+      ],
+      "duration_ms": 212506,
+      "name": "Ni Que Valieras Tanto",
+      "url": "https://open.spotify.com/track/4YEtrr6BJfUX61LrEBjgLK"
     },
     {
       "added_at": "2024-07-15 22:51:12",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-07-15 22:51:12",
       "album": {
-        "name": "Sobran Motivos",
-        "url": "https://open.spotify.com/album/3UX8li2vzG8IcjtPQ11dGt"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Rienda Real",
-          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
-        },
-        {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
-        }
-      ],
-      "duration_ms": 185338,
-      "name": "Sobran Motivos",
-      "url": "https://open.spotify.com/track/1uTHr7ij3eiDdUXvQfA5au"
-    },
-    {
-      "added_at": "2024-07-15 22:51:12",
-      "album": {
         "name": "Pideme (En Vivo)",
         "url": "https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 235906,
       "name": "Loco",
       "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
+    },
+    {
+      "added_at": "2024-07-15 22:51:12",
+      "album": {
+        "name": "Sobran Motivos",
+        "url": "https://open.spotify.com/album/3UX8li2vzG8IcjtPQ11dGt"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        },
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "duration_ms": 185338,
+      "name": "Sobran Motivos",
+      "url": "https://open.spotify.com/track/1uTHr7ij3eiDdUXvQfA5au"
     },
     {
       "added_at": "2024-07-15 22:51:12",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-07-15 22:51:12",
       "album": {
+        "name": "Imaginaci\u00f3n",
+        "url": "https://open.spotify.com/album/7BnXJy3LCtSuOtWZd7Lgxz"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Imaginaci\u00f3n",
+      "url": "https://open.spotify.com/track/3fMe9PdNbajE7285bYUaa9"
+    },
+    {
+      "added_at": "2024-07-15 22:51:12",
+      "album": {
         "name": "Bordada a Mano",
         "url": "https://open.spotify.com/album/1dyd7hJkMWDJnU10UGKphB"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 226000,
       "name": "Loco Enamorado",
       "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
-    },
-    {
-      "added_at": "2024-07-15 22:51:12",
-      "album": {
-        "name": "Imaginaci\u00f3n",
-        "url": "https://open.spotify.com/album/7BnXJy3LCtSuOtWZd7Lgxz"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Imaginaci\u00f3n",
-      "url": "https://open.spotify.com/track/3fMe9PdNbajE7285bYUaa9"
     },
     {
       "added_at": "2024-07-15 22:51:12",
@@ -2507,6 +2507,22 @@
     {
       "added_at": "2024-07-15 22:51:12",
       "album": {
+        "name": "Tan Bella y Tan Presumida",
+        "url": "https://open.spotify.com/album/52pEVRQMA45DSmfmNc8ici"
+      },
+      "artists": [
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+        }
+      ],
+      "duration_ms": 181264,
+      "name": "Tan Bella y Tan Presumida",
+      "url": "https://open.spotify.com/track/2fKPwiW1FJLH3JbB1DmR0K"
+    },
+    {
+      "added_at": "2024-07-15 22:51:12",
+      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
       },
@@ -2523,22 +2539,6 @@
       "duration_ms": 165848,
       "name": "EL AMOR DE SU VIDA",
       "url": "https://open.spotify.com/track/435g6uM0Atz3MyYwafHEss"
-    },
-    {
-      "added_at": "2024-07-15 22:51:12",
-      "album": {
-        "name": "Tan Bella y Tan Presumida",
-        "url": "https://open.spotify.com/album/52pEVRQMA45DSmfmNc8ici"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
-        }
-      ],
-      "duration_ms": 181264,
-      "name": "Tan Bella y Tan Presumida",
-      "url": "https://open.spotify.com/track/2fKPwiW1FJLH3JbB1DmR0K"
     },
     {
       "added_at": "2024-07-15 22:51:12",

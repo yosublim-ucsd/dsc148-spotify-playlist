@@ -1,6 +1,6 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Barbi Recanati",
-  "num_followers": 39193,
+  "num_followers": 39203,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Puro Rock (CD1)",
+        "url": "https://open.spotify.com/album/2HXxumPCyqtjOaw7G3bACs"
+      },
+      "artists": [
+        {
+          "name": "Kenny y los El\u00e9ctricos",
+          "url": "https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N"
+        }
+      ],
+      "duration_ms": 227066,
+      "name": "No Huyas De Mi",
+      "url": "https://open.spotify.com/track/6UBl1NDlUjc4vU3tXr3oQz"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Boom Boom Back",
         "url": "https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 204469,
       "name": "Boom Boom Back",
       "url": "https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Puro Rock (CD1)",
-        "url": "https://open.spotify.com/album/2HXxumPCyqtjOaw7G3bACs"
-      },
-      "artists": [
-        {
-          "name": "Kenny y los El\u00e9ctricos",
-          "url": "https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N"
-        }
-      ],
-      "duration_ms": 227066,
-      "name": "No Huyas De Mi",
-      "url": "https://open.spotify.com/track/6UBl1NDlUjc4vU3tXr3oQz"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1"
-      },
-      "artists": [
-        {
-          "name": "Daniela Milagros",
-          "url": "https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj"
-        }
-      ],
-      "duration_ms": 190165,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Change Your Mind",
         "url": "https://open.spotify.com/album/4DmQXKj0chk1Prwe0rbkhe"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 147772,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/5yqgKyX1TOG41LBSosE1X8"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1"
+      },
+      "artists": [
+        {
+          "name": "Daniela Milagros",
+          "url": "https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj"
+        }
+      ],
+      "duration_ms": 190165,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Mujer Contra Mujer",
-        "url": "https://open.spotify.com/album/2AeWM05mo2RBHxHH3HxulX"
-      },
-      "artists": [
-        {
-          "name": "Sandra & Celeste",
-          "url": "https://open.spotify.com/artist/6kLo0pXyAJMfZcQvCEqD0H"
-        }
-      ],
-      "duration_ms": 229373,
-      "name": "Mujer Contra Mujer",
-      "url": "https://open.spotify.com/track/1cbLr2u9FwmWvkSvuVbmUk"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "EL MUNDO PEQUE\u00d1O",
         "url": "https://open.spotify.com/album/7wmhvmQJ2Ms31oXLF0mLzi"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 265029,
       "name": "Aguardiente",
       "url": "https://open.spotify.com/track/34h4kkt4n6SVI5zsjYrFvy"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Mujer Contra Mujer",
+        "url": "https://open.spotify.com/album/2AeWM05mo2RBHxHH3HxulX"
+      },
+      "artists": [
+        {
+          "name": "Sandra & Celeste",
+          "url": "https://open.spotify.com/artist/6kLo0pXyAJMfZcQvCEqD0H"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "Mujer Contra Mujer",
+      "url": "https://open.spotify.com/track/1cbLr2u9FwmWvkSvuVbmUk"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Quieta",
-        "url": "https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu"
-      },
-      "artists": [
-        {
-          "name": "Escorpia",
-          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
-        }
-      ],
-      "duration_ms": 175957,
-      "name": "Quieta",
-      "url": "https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Buenas Noches Terr\u00edcolas",
         "url": "https://open.spotify.com/album/2JMMzWW3FcrPSEseYLhEuD"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 247970,
       "name": "MANIQU\u00cd",
       "url": "https://open.spotify.com/track/51kIOy4U7wxwhV8Ys697zH"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Quieta",
+        "url": "https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu"
+      },
+      "artists": [
+        {
+          "name": "Escorpia",
+          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
+        }
+      ],
+      "duration_ms": 175957,
+      "name": "Quieta",
+      "url": "https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "BANCATE ESE DEFECTO (Radio Edit)",
-        "url": "https://open.spotify.com/album/3S1bG3zai1ZaU7ZaiZ225e"
+        "name": "LOS VIEJOS CON GUITA",
+        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
       },
       "artists": [
         {
-          "name": "Hilda Lizarazu",
-          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+          "name": "cata carpena",
+          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
         }
       ],
-      "duration_ms": 262969,
-      "name": "BANCATE ESE DEFECTO - Radio Edit",
-      "url": "https://open.spotify.com/track/7eyUN8JSbeDzUB9w4eqEKh"
+      "duration_ms": 244195,
+      "name": "DOSMILUNO",
+      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "BANCATE ESE DEFECTO (Radio Edit)",
+        "url": "https://open.spotify.com/album/3S1bG3zai1ZaU7ZaiZ225e"
+      },
+      "artists": [
+        {
+          "name": "Hilda Lizarazu",
+          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+        }
+      ],
+      "duration_ms": 262969,
+      "name": "BANCATE ESE DEFECTO - Radio Edit",
+      "url": "https://open.spotify.com/track/7eyUN8JSbeDzUB9w4eqEKh"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Atasco",
         "url": "https://open.spotify.com/album/5Yh2mHQcwx2NdSLIDGgzbr"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 226195,
       "name": "Atasco",
       "url": "https://open.spotify.com/track/7hIpozpqki8Lnpu2WwsQ86"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "LOS VIEJOS CON GUITA",
-        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
-      },
-      "artists": [
-        {
-          "name": "cata carpena",
-          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
-        }
-      ],
-      "duration_ms": 244195,
-      "name": "DOSMILUNO",
-      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "La G\u00e9nesis",
-        "url": "https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah"
-      },
-      "artists": [
-        {
-          "name": "Hilda Lizarazu",
-          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
-        }
-      ],
-      "duration_ms": 266080,
-      "name": "G\u00e9nesis",
-      "url": "https://open.spotify.com/track/2Xx1vZX9UEBnwx11RfiElg"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Hora de No Ver",
         "url": "https://open.spotify.com/album/7vV8Ye5scpEoP8SsEQvXnR"
       },
@@ -1291,22 +1275,6 @@
       "duration_ms": 191559,
       "name": "Morir\u00edan",
       "url": "https://open.spotify.com/track/53JVw942AQvbqqDy8DqtaN"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Girando",
-        "url": "https://open.spotify.com/album/3UZQBVo8ILtP3nHpiikkQM"
-      },
-      "artists": [
-        {
-          "name": "Wayra Iglesias",
-          "url": "https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw"
-        }
-      ],
-      "duration_ms": 211614,
-      "name": "Girando",
-      "url": "https://open.spotify.com/track/5H5izKvNGSzMu1cH5ZuTiI"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1327,18 +1295,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Agitar",
-        "url": "https://open.spotify.com/album/2rdYalIkT3ijzl7zs69NGZ"
+        "name": "Girando",
+        "url": "https://open.spotify.com/album/3UZQBVo8ILtP3nHpiikkQM"
       },
       "artists": [
         {
-          "name": "Bala",
-          "url": "https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ"
+          "name": "Wayra Iglesias",
+          "url": "https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw"
         }
       ],
-      "duration_ms": 127598,
-      "name": "Agitar",
-      "url": "https://open.spotify.com/track/3V6CPu5kQ4iRcjngnwgSHe"
+      "duration_ms": 211614,
+      "name": "Girando",
+      "url": "https://open.spotify.com/track/5H5izKvNGSzMu1cH5ZuTiI"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1359,6 +1327,38 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "La G\u00e9nesis",
+        "url": "https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah"
+      },
+      "artists": [
+        {
+          "name": "Hilda Lizarazu",
+          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+        }
+      ],
+      "duration_ms": 266080,
+      "name": "G\u00e9nesis",
+      "url": "https://open.spotify.com/track/2Xx1vZX9UEBnwx11RfiElg"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Agitar",
+        "url": "https://open.spotify.com/album/2rdYalIkT3ijzl7zs69NGZ"
+      },
+      "artists": [
+        {
+          "name": "Bala",
+          "url": "https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ"
+        }
+      ],
+      "duration_ms": 127598,
+      "name": "Agitar",
+      "url": "https://open.spotify.com/track/3V6CPu5kQ4iRcjngnwgSHe"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Dulce Fuerte Grave",
         "url": "https://open.spotify.com/album/0zhB5QwCFJuqigoick9eHz"
       },
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Gabriela",
-        "url": "https://open.spotify.com/album/0mMeA5hOx4NYHbh63RiPal"
-      },
-      "artists": [
-        {
-          "name": "Gabriela",
-          "url": "https://open.spotify.com/artist/1Xh87BgBDuD8UpD6erCSBQ"
-        }
-      ],
-      "duration_ms": 293160,
-      "name": "Voy a Dejar Esta Casa Pap\u00e1",
-      "url": "https://open.spotify.com/track/7xkJSjT0eWkPNWJLJVCKel"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Epica & Fant\u00e1stica",
         "url": "https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 245246,
       "name": "Piedra Marea Fuego",
       "url": "https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Gabriela",
+        "url": "https://open.spotify.com/album/0mMeA5hOx4NYHbh63RiPal"
+      },
+      "artists": [
+        {
+          "name": "Gabriela",
+          "url": "https://open.spotify.com/artist/1Xh87BgBDuD8UpD6erCSBQ"
+        }
+      ],
+      "duration_ms": 293160,
+      "name": "Voy a Dejar Esta Casa Pap\u00e1",
+      "url": "https://open.spotify.com/track/7xkJSjT0eWkPNWJLJVCKel"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Hoy No",
-        "url": "https://open.spotify.com/album/06HGb8jNMefxibsLaV02x1"
+        "name": "Todo el mundo miente",
+        "url": "https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T"
       },
       "artists": [
         {
-          "name": "Bala",
-          "url": "https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ"
+          "name": "Las Dianas",
+          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
         }
       ],
-      "duration_ms": 127799,
-      "name": "Hoy No",
-      "url": "https://open.spotify.com/track/6afh2maKkoRe5S9haYRKe3"
+      "duration_ms": 207669,
+      "name": "Todo el mundo miente",
+      "url": "https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV"
     }
   ],
   "unique_name": "Rockeras",

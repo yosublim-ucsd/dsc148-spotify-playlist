@@ -1,18 +1,18 @@
 {
   "description": "New music from Childish Gambino, Jimin, Madison Beer, Rauw Alejandro and more!",
-  "num_followers": 4200008,
+  "num_followers": 4201055,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpnvXgAAAADHJv7+yrH58wAjofmuST0c",
+  "snapshot_id": "ZpqYDAAAAABX33jFRfhwie3CMPHA0jMY",
   "tracks": [
     {
-      "added_at": "2024-07-19 04:00:00",
+      "added_at": "2024-07-19 16:45:00",
       "album": {
-        "name": "In The Night (feat. Jorja Smith & Amaarae)",
-        "url": "https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe"
+        "name": "Bando Stone and The New World",
+        "url": "https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r"
       },
       "artists": [
         {
@@ -30,7 +30,7 @@
       ],
       "duration_ms": 229999,
       "name": "In The Night (feat. Jorja Smith & Amaarae)",
-      "url": "https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc"
+      "url": "https://open.spotify.com/track/11bJ1ws3dathgY9uzADUhL"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1005,7 +1005,7 @@
         }
       ],
       "duration_ms": 157998,
-      "name": "GEMINI (feat. Jackie Giroux)",
+      "name": "GEMINI",
       "url": "https://open.spotify.com/track/5j99dfS5X643RxuJdyizt3"
     },
     {
@@ -1547,7 +1547,7 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Fireflies and Southern Weather",
+        "name": "Fireflies & Southern Weather",
         "url": "https://open.spotify.com/album/1DEm1f02Qecy9KRu4EsRC7"
       },
       "artists": [
@@ -1557,7 +1557,7 @@
         }
       ],
       "duration_ms": 233087,
-      "name": "Fireflies and Southern Weather",
+      "name": "Fireflies & Southern Weather",
       "url": "https://open.spotify.com/track/2ADCUjWIIunQRw9OZ7qrth"
     },
     {

@@ -6187,6 +6187,28 @@
     },
     {
       "album": {
+        "name": "BLACK FLAG FREESTYLE (with That Mexican OT)",
+        "url": "https://open.spotify.com/album/6LYOGfTHG8i1bmf4FoyV2P"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207315,
+      "name": "BLACK FLAG FREESTYLE (with That Mexican OT)",
+      "url": "https://open.spotify.com/track/5HwYQgUgUsHC3RqfSFMPxq"
+    },
+    {
+      "album": {
         "name": "Black Friday",
         "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
       },
@@ -8965,6 +8987,24 @@
     },
     {
       "album": {
+        "name": "Chihiro",
+        "url": "https://open.spotify.com/album/5zxkH4g9xsFZXrhbhm5N77"
+      },
+      "artists": [
+        {
+          "name": "Gravagerz",
+          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128575,
+      "name": "Chihiro",
+      "url": "https://open.spotify.com/track/1antlMwNpOAXeUcIAx8FPB"
+    },
+    {
+      "album": {
         "name": "Children",
         "url": "https://open.spotify.com/album/4pAD0l5icphM5TC1A4q8Yn"
       },
@@ -10234,7 +10274,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 230600,
       "name": "Cowboys Cry Too (with Noah Kahan)",
       "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
@@ -19140,10 +19180,28 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 180922,
       "name": "Harpy Hare",
       "url": "https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT"
+    },
+    {
+      "album": {
+        "name": "Hayfields",
+        "url": "https://open.spotify.com/album/2lbpmMn8kXAMAyUFVK0oHi"
+      },
+      "artists": [
+        {
+          "name": "Yaelokre",
+          "url": "https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180922,
+      "name": "Harpy Hare",
+      "url": "https://open.spotify.com/track/6UBZABudOQOGXGObqKHhEz"
     },
     {
       "album": {
@@ -33982,7 +34040,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
@@ -37790,6 +37848,24 @@
       "duration_ms": 359862,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/7eKdGD7PCY5ScYeLOAlXw6"
+    },
+    {
+      "album": {
+        "name": "Pretty Baby",
+        "url": "https://open.spotify.com/album/3r1xlXd5nl8DgO9RGJWZZO"
+      },
+      "artists": [
+        {
+          "name": "Alex Sampson",
+          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203522,
+      "name": "Pretty Baby",
+      "url": "https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU"
     },
     {
       "album": {
@@ -44448,7 +44524,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-20",
       "duration_ms": 172533,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"

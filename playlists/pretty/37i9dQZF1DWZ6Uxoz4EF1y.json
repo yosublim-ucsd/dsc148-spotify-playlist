@@ -1,6 +1,6 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 188973,
+  "num_followers": 189036,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
+        "name": "El Poder De Tu Amor",
+        "url": "https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 269640,
+      "name": "Por Amor",
+      "url": "https://open.spotify.com/track/7j2pRAjkERWLyg4ULzxWTR"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
         "name": "Bethel Music en Espa\u00f1ol (Live)",
         "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 465386,
       "name": "S\u00e9 Entronado - Live",
       "url": "https://open.spotify.com/track/6RjPeSyTInfDrkfOdKHUXa"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
-        "name": "El Poder De Tu Amor",
-        "url": "https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 269640,
-      "name": "Por Amor",
-      "url": "https://open.spotify.com/track/7j2pRAjkERWLyg4ULzxWTR"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "Bethel Music en Espa\u00f1ol (Live)",
-        "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Paul McClure",
-          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
-        }
-      ],
-      "duration_ms": 316920,
-      "name": "Jesus Te Amamos - Live",
-      "url": "https://open.spotify.com/track/7JdGpxb7HAnDHKCdimfQRs"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
         "name": "El Dios Que Cambia Nombre",
         "url": "https://open.spotify.com/album/5NUIrHDIDuMr6Xsob6L5UO"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 219208,
       "name": "El Dios Que Cambia Nombre",
       "url": "https://open.spotify.com/track/6jxF4JXJ2hK8GEkRHqcj8b"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
+        "name": "Bethel Music en Espa\u00f1ol (Live)",
+        "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
+        }
+      ],
+      "duration_ms": 316920,
+      "name": "Jesus Te Amamos - Live",
+      "url": "https://open.spotify.com/track/7JdGpxb7HAnDHKCdimfQRs"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "De Vuelta En Casa",
-        "url": "https://open.spotify.com/album/7w7hAL4GH2Km9ZcT99Bx5S"
+        "name": "Lugar Secreto",
+        "url": "https://open.spotify.com/album/5m8ho5SBRDbEV1jUpCKEWa"
       },
       "artists": [
         {
-          "name": "Samuel Adri\u00e1n",
-          "url": "https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu"
+          "name": "Harborside Music",
+          "url": "https://open.spotify.com/artist/5Lw266onySIyRJlK8cYzyo"
         }
       ],
-      "duration_ms": 295862,
-      "name": "Su Vida Me Dio",
-      "url": "https://open.spotify.com/track/5trBZuRbQ7vY9DRJ3T4sth"
+      "duration_ms": 376362,
+      "name": "Tu Me Compraste",
+      "url": "https://open.spotify.com/track/47tS4Ocwk0OYLJTJ5L1e7c"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "Lugar Secreto",
-        "url": "https://open.spotify.com/album/5m8ho5SBRDbEV1jUpCKEWa"
+        "name": "De Vuelta En Casa",
+        "url": "https://open.spotify.com/album/7w7hAL4GH2Km9ZcT99Bx5S"
       },
       "artists": [
         {
-          "name": "Harborside Music",
-          "url": "https://open.spotify.com/artist/5Lw266onySIyRJlK8cYzyo"
+          "name": "Samuel Adri\u00e1n",
+          "url": "https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu"
         }
       ],
-      "duration_ms": 376362,
-      "name": "Tu Me Compraste",
-      "url": "https://open.spotify.com/track/47tS4Ocwk0OYLJTJ5L1e7c"
+      "duration_ms": 295862,
+      "name": "Su Vida Me Dio",
+      "url": "https://open.spotify.com/track/5trBZuRbQ7vY9DRJ3T4sth"
     },
     {
       "added_at": "2024-07-01 23:21:40",

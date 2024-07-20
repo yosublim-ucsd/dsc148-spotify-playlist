@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 
 > Country music with a Latin flair\. Cover: Ela Taubert
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,414 likes - 52 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,431 likes - 52 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Just good energy",
-  "num_followers": 502026,
+  "num_followers": 502064,
   "original_name": "Vibe Check",
   "owner": {
     "name": "Spotify",
@@ -199,26 +199,6 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -497,6 +497,26 @@
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
     },
     {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "duration_ms": 186661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+    },
+    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "For Life (feat. Nile Rodgers)",
@@ -519,26 +539,6 @@
       "duration_ms": 175803,
       "name": "For Life (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
-        }
-      ],
-      "duration_ms": 186661,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -803,6 +803,26 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 228267,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
         "name": "Asking",
         "url": "https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ"
       },
@@ -827,26 +847,6 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
         "name": "Miracle (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
       },
@@ -867,22 +867,22 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ"
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 228267,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY"
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "The Business",
-        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "The Business",
-      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
         "name": "Crying On The Dancefloor",
         "url": "https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7"
       },
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
       },
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "Drums (Feat. Kim Petras)",
-        "url": "https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 152400,
-      "name": "Drums (Feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
         "name": "Be Kind (with Halsey)",
         "url": "https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 172761,
       "name": "Be Kind (with Halsey)",
       "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
+        "name": "Drums (Feat. Kim Petras)",
+        "url": "https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 152400,
+      "name": "Drums (Feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
+        "name": "Zanaka",
+        "url": "https://open.spotify.com/album/2S12TNfqdnUFdTfYlE96tb"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "duration_ms": 249533,
+      "name": "Makeba",
+      "url": "https://open.spotify.com/track/5JdLUE9D743ob2RtgmVpVx"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
         "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
         "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 168023,
       "name": "lil' freak",
       "url": "https://open.spotify.com/track/6guIMfoWJvsCXQxNsAtWPN"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
-        "name": "Zanaka",
-        "url": "https://open.spotify.com/album/2S12TNfqdnUFdTfYlE96tb"
-      },
-      "artists": [
-        {
-          "name": "Jain",
-          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
-        }
-      ],
-      "duration_ms": 249533,
-      "name": "Makeba",
-      "url": "https://open.spotify.com/track/5JdLUE9D743ob2RtgmVpVx"
     },
     {
       "added_at": "2024-03-28 13:00:00",

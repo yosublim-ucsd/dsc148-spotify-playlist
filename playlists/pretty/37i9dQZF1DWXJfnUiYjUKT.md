@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Childish Gambino
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,978 likes - 99 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,020 likes - 99 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 53 | [SO WHAT](https://open.spotify.com/track/2ER6bbx6npLHiUPnR5nlgM) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [BACK IN ACTION 4.0](https://open.spotify.com/album/75MyXCYXcmz18Lcq6wEYxq) | 2:58 |
 | 54 | [For Once](https://open.spotify.com/track/0WUC0BH6QBePriikuKcN2m) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Western Space Grunge](https://open.spotify.com/album/6UH9GXns0zzKh8Xxmt7l3V) | 4:02 |
 | 55 | [The World Above](https://open.spotify.com/track/2IHOfg0T2tEO3iQ1aYvZA1) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The World Above](https://open.spotify.com/album/7e4uwIr9ceGWZH1HtE9NCO) | 3:32 |
-| 56 | [GEMINI \(feat\. Jackie Giroux\)](https://open.spotify.com/track/5j99dfS5X643RxuJdyizt3) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Jackie Giroux](https://open.spotify.com/artist/5QX6gWlu1rdoTKPZ9FiwYh) | [1\-800 FANTASY](https://open.spotify.com/album/4Hc9kwSIRb2jgE441FOueK) | 2:37 |
+| 56 | [GEMINI](https://open.spotify.com/track/5j99dfS5X643RxuJdyizt3) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Jackie Giroux](https://open.spotify.com/artist/5QX6gWlu1rdoTKPZ9FiwYh) | [1\-800 FANTASY](https://open.spotify.com/album/4Hc9kwSIRb2jgE441FOueK) | 2:37 |
 | 57 | [Free Like](https://open.spotify.com/track/1pRvzjKNkW5DY1ycqAftIR) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Free Like](https://open.spotify.com/album/3oLm7KrYF4ZMdqlialglaN) | 2:49 |
 | 58 | [Sweet Oblivion](https://open.spotify.com/track/62ZeAQ8DHdCXJqPQVOTsKu) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Sweet Oblivion](https://open.spotify.com/album/07gvXUNtRMXI98Hf3dd118) | 2:15 |
 | 59 | [CHUPA COÑO](https://open.spotify.com/track/3e0e2wQgq06Ht7Y1po72uQ) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [SATA 42](https://open.spotify.com/album/4k9YQ4z1BXtSB1XxN9oGDY) | 2:05 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 85 | [perfume](https://open.spotify.com/track/4l0CzhzfGxQBPTbknrq427) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [perfume](https://open.spotify.com/album/7FUdBkpRnlJxHYxlkzka5i) | 3:11 |
 | 86 | [No Sabes La Que Te Espera](https://open.spotify.com/track/0ueX8kma8wlUPPDfNnTLzL) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [No Sabes La Que Te Espera](https://open.spotify.com/album/7EHtKlwFa7ps7OTCR2ZqCA) | 2:41 |
 | 87 | [Make It Count](https://open.spotify.com/track/7z0BmvrHgSvLF8JU7iiE77) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Make It Count / Hillbilly Happy](https://open.spotify.com/album/0HRE5NQJm1eC0XX2drnYuw) | 4:00 |
-| 88 | [Fireflies and Southern Weather](https://open.spotify.com/track/2ADCUjWIIunQRw9OZ7qrth) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Fireflies and Southern Weather](https://open.spotify.com/album/1DEm1f02Qecy9KRu4EsRC7) | 3:53 |
+| 88 | [Fireflies & Southern Weather](https://open.spotify.com/track/2ADCUjWIIunQRw9OZ7qrth) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Fireflies & Southern Weather](https://open.spotify.com/album/1DEm1f02Qecy9KRu4EsRC7) | 3:53 |
 | 89 | [Kisses](https://open.spotify.com/track/2BeBl5zIuOINV0v3AYTVTD) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Luvr](https://open.spotify.com/album/2sKQrhLFA3O4N1I47S39vO) | 2:24 |
 | 90 | [Minute \(feat\. eamon mo\)](https://open.spotify.com/track/322kZCpEipYL2smYseMXce) | [Skizzy Mars](https://open.spotify.com/artist/00Z3UDoAQwzvGu13HoAM7J), [eamon mo](https://open.spotify.com/artist/3WbO3Mn34R017Hrq4WVXw2) | [Bad As I Wanna Be](https://open.spotify.com/album/6ss5K7Z1VPQqzkt2tBVISg) | 3:06 |
 | 91 | [Good Guy](https://open.spotify.com/track/1o85kjIkzuYJt1w8JjxAKs) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Good Guy](https://open.spotify.com/album/1phgcwEQmHmFEg2mf5r1wk) | 2:32 |

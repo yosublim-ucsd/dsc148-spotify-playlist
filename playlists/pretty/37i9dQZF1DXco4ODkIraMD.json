@@ -1,6 +1,6 @@
 {
   "description": "Esos \u00e9xitos que todav\u00eda quieres seguir escuchando. Foto: J Balvin, Nio Garcia & Bad Bunny.",
-  "num_followers": 659398,
+  "num_followers": 659428,
   "original_name": "Reggaet\u00f3n Rewind",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,6 @@
     {
       "added_at": "2024-06-14 18:44:21",
       "album": {
-        "name": "Con Calma",
-        "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Snow",
-          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "Con Calma",
-      "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
-    },
-    {
-      "added_at": "2024-06-14 18:44:21",
-      "album": {
         "name": "Intimo",
         "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 172854,
       "name": "X",
       "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
+    },
+    {
+      "added_at": "2024-06-14 18:44:21",
+      "album": {
+        "name": "Con Calma",
+        "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Snow",
+          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "Con Calma",
+      "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
     },
     {
       "added_at": "2024-06-14 18:44:21",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-06-14 18:44:21",
       "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 263899,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI"
+    },
+    {
+      "added_at": "2024-06-14 18:44:21",
+      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 332240,
       "name": "Si Se Da - Remix",
       "url": "https://open.spotify.com/track/6K5BsR04ijf3FHNzjbaagD"
-    },
-    {
-      "added_at": "2024-06-14 18:44:21",
-      "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 263899,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI"
     },
     {
       "added_at": "2024-06-14 18:44:21",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2024-06-14 18:44:21",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/7gnUxSrGT4npGYuFXwQTO4"
-      },
-      "artists": [
-        {
-          "name": "Amenazzy",
-          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
-        },
-        {
-          "name": "Lary Over",
-          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
-        }
-      ],
-      "duration_ms": 231909,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/6kTMnty169llVx9sGHb6LD"
-    },
-    {
-      "added_at": "2024-06-14 18:44:21",
-      "album": {
         "name": "Ubuntu",
         "url": "https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 220116,
       "name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
       "url": "https://open.spotify.com/track/1j6xOGusnyXq3l6IryKF3G"
+    },
+    {
+      "added_at": "2024-06-14 18:44:21",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/7gnUxSrGT4npGYuFXwQTO4"
+      },
+      "artists": [
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        },
+        {
+          "name": "Lary Over",
+          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
+        }
+      ],
+      "duration_ms": 231909,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/6kTMnty169llVx9sGHb6LD"
     },
     {
       "added_at": "2024-06-14 18:44:21",
@@ -2083,6 +2083,26 @@
     {
       "added_at": "2024-06-14 18:44:21",
       "album": {
+        "name": "MALA SANTA",
+        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 256519,
+      "name": "Cuando Te Bes\u00e9",
+      "url": "https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta"
+    },
+    {
+      "added_at": "2024-06-14 18:44:21",
+      "album": {
         "name": "La Jeepeta (Remix)",
         "url": "https://open.spotify.com/album/5emzM1P5GGeroiivNQgCq4"
       },
@@ -2171,26 +2191,6 @@
       "duration_ms": 261665,
       "name": "Fiel",
       "url": "https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs"
-    },
-    {
-      "added_at": "2024-06-14 18:44:21",
-      "album": {
-        "name": "MALA SANTA",
-        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 256519,
-      "name": "Cuando Te Bes\u00e9",
-      "url": "https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta"
     },
     {
       "added_at": "2024-06-14 18:44:21",

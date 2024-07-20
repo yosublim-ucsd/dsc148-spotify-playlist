@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-363 songs - 23 hr 8 min
+364 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Eye of the Needle](https://open.spotify.com/track/2ejeiQQcxOONtMDgV2GXSu) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 4:08 | 2023-12-30 |  |
 | [Eye To Eye](https://open.spotify.com/track/6IEz7AX56qZ2PDH4cCEVpq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 4:19 | 2023-12-30 |  |
 | [Fair Game](https://open.spotify.com/track/3N1bQ9rnwVXIKClKx6vcpG) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 3:51 | 2023-12-30 |  |
+| [Fast Forward](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu) | 2:40 | 2024-07-19 |  |
 | [Fear](https://open.spotify.com/track/5WfBl43XUcWng7OnB8LKNW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Fear](https://open.spotify.com/album/2wmvVAqB2sAiJQpp2pRWcD) | 4:40 | 2023-12-30 |  |
 | [Fire Meet Gasoline](https://open.spotify.com/track/3Rw6shHCDFRWv3g2WmEFKv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 4:01 | 2023-12-30 |  |
 | [Fire Meet Gasoline \- by Heidi Klum](https://open.spotify.com/track/36riEXIy7ySsrdhvFABbkF) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Fire Meet Gasoline \(by Heidi Klum\)](https://open.spotify.com/album/16SGueF8vuwi8S31xWcCUP) | 4:05 | 2024-01-21 | 2024-02-02 |

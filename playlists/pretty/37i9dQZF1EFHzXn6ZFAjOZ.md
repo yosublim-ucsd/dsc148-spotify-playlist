@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,208 likes - 131 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,240 likes - 131 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 113 | [War \(feat\. Keon Bryce\)](https://open.spotify.com/track/1GxgwYCyhEiS8XDh8J1y85) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Keon Bryce](https://open.spotify.com/artist/7aoCuY6OJl2puP2hX6Fal0) | [Street's Disciple](https://open.spotify.com/album/0jghcWTsQzux5T9sAfZO13) | 4:17 |
 | 114 | [Summer Love](https://open.spotify.com/track/0Wma8BNaxMOJEynkQ4CoMv) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Summer Love](https://open.spotify.com/album/4Ztozwf1oKHvz97IyGaocr) | 6:59 |
 | 115 | [Alien](https://open.spotify.com/track/0fZfRJ4LlniAOAvq2beBRI) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [Alien](https://open.spotify.com/album/7Lg6ullAYcXZA3VV8D7yBd) | 4:54 |
-| 116 | [Tell Me](https://open.spotify.com/track/3qERB87N7mWWvMiFnrMMzj) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [SECOND](https://open.spotify.com/album/6eT16kw4EZwX9jlHaQQ4Ww) | 3:27 |
-| 117 | [Overture\. \- Live at the Royal Albert Hall](https://open.spotify.com/track/2aU4dNaEpGQIp1oGkmJlBZ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [The Heritage Orchestra](https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx) | [My 21st Century Symphony\. \(Live at the Royal Albert Hall\)](https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP) | 1:37 |
+| 116 | [Overture\. \- Live at the Royal Albert Hall](https://open.spotify.com/track/2aU4dNaEpGQIp1oGkmJlBZ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [The Heritage Orchestra](https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx) | [My 21st Century Symphony\. \(Live at the Royal Albert Hall\)](https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP) | 1:37 |
+| 117 | [Tell Me](https://open.spotify.com/track/3qERB87N7mWWvMiFnrMMzj) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [SECOND](https://open.spotify.com/album/6eT16kw4EZwX9jlHaQQ4Ww) | 3:27 |
 | 118 | [Masterpiece](https://open.spotify.com/track/2pOxs66DFLeyKgq7SHguLW) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [Stones & Giants](https://open.spotify.com/album/0pFsaEcaen7zirGPKDjqGC) | 4:11 |
 | 119 | [About Last Night..\. \(Intro\)](https://open.spotify.com/track/4h7pGYo2Ciay17qYsPXwfL) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 0:34 |
 | 120 | [When The Party's Over](https://open.spotify.com/track/2KLWP0h8H5tZM7mbZOgh4C) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 2:55 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 130 | [Sink](https://open.spotify.com/track/77JuQtsC9l7u6vZYAl5ZOX) | [White Ape](https://open.spotify.com/artist/7pFTVAwKdNGN4qvqDVBH2A) | [Kick It Down](https://open.spotify.com/album/64QgAUzZedeat6jQsjFtAU) | 3:45 |
 | 131 | [Rough \- Axel Karakasis Remix](https://open.spotify.com/track/4Zq2jl1ZxsYOqBevqghdYa) | [Sintek](https://open.spotify.com/artist/5VVTbLgVKS2B0O7BoxRGBM) | [Rough](https://open.spotify.com/album/0EbJGp1zt5mtBztbMM7eMv) | 6:36 |
 
-Snapshot ID: `AbXFCgAAAABTeC0wiIygCCvfiSn4Je4x`
+Snapshot ID: `AbXJAgAAAAC6HuepUrWXRVsqHkYAZStu`

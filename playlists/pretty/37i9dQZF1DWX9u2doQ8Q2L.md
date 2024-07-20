@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,141 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,138 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 82 | [Drink!](https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Drink!](https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n) | 3:07 |
 | 83 | [LOA](https://open.spotify.com/track/7fFwkEjPSEapRqQRSOH8uL) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [LOA](https://open.spotify.com/album/6e3mISa6hpUWZFkmiv3Vdo) | 3:46 |
 | 84 | [ミッドナイトガール](https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ミッドナイトガール](https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw) | 3:22 |
-| 85 | [ヤバいな](https://open.spotify.com/track/1acXpvOjQiCDgEkPLPFupe) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [ヤバいな](https://open.spotify.com/album/4vOk4ViilWFM1MUCO94oU8) | 2:29 |
-| 86 | [生命体](https://open.spotify.com/track/4ZHPfDmmEu8ItB795BbF9W) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [生命体](https://open.spotify.com/album/0MwMa5UfavcI35Mc8F9afr) | 3:11 |
+| 85 | [生命体](https://open.spotify.com/track/4ZHPfDmmEu8ItB795BbF9W) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [生命体](https://open.spotify.com/album/0MwMa5UfavcI35Mc8F9afr) | 3:11 |
+| 86 | [ヤバいな](https://open.spotify.com/track/1acXpvOjQiCDgEkPLPFupe) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [ヤバいな](https://open.spotify.com/album/4vOk4ViilWFM1MUCO94oU8) | 2:29 |
 | 87 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 |
 | 88 | [RISE TOGETHER](https://open.spotify.com/track/4vGetXZZizkgXnWKWo3GkS) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO) | [RISE TOGETHER](https://open.spotify.com/album/15BXpNu8SXEPh9TVKse4ng) | 3:03 |
 | 89 | [食卓](https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [食卓](https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE) | 3:26 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 92 | [A24](https://open.spotify.com/track/291KmmFPIHGNZvekhqRTMC) | [BANNY BUGS](https://open.spotify.com/artist/2yttiOh6BTB10iOYtH0Fyq), [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [A24](https://open.spotify.com/album/2syB6hxQPvHrkILVlCffzJ) | 3:00 |
 | 93 | [Secret Idea](https://open.spotify.com/track/2YEMCKz8DFrxL7uRVhte5r) | [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Secret Idea](https://open.spotify.com/album/11yxJKJwnpPLHVzRwYg2YB) | 2:58 |
 | 94 | [ホムンクルス](https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ホムンクルス](https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw) | 3:23 |
-| 95 | [平安](https://open.spotify.com/track/4OpE0RXET72v9D2oLRDIbw) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [平安](https://open.spotify.com/album/3uuNRFtMmxz5Z1yuKb2XZw) | 3:09 |
-| 96 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 |
-| 97 | [Run](https://open.spotify.com/track/5Hi3N1zV22FTZzWrjFMsQp) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Run](https://open.spotify.com/album/1YjBHkHzDehlUyhlaskjvV) | 4:08 |
-| 98 | [Assaji](https://open.spotify.com/track/0VAyX04mjdpwMHmUCt63jL) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [nobori \- 上り](https://open.spotify.com/album/1o9zSOMYbKWv48zUb50MfY) | 2:10 |
-| 99 | [Welcome](https://open.spotify.com/track/2eret7tEFawBg7ivErrSdx) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Welcome to My Castle](https://open.spotify.com/album/7gkjbmsbhiXCDPmKYGPk2l) | 3:17 |
-| 100 | [happy im](https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [happy im](https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI) | 2:54 |
+| 95 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 |
+| 96 | [平安](https://open.spotify.com/track/4OpE0RXET72v9D2oLRDIbw) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [平安](https://open.spotify.com/album/3uuNRFtMmxz5Z1yuKb2XZw) | 3:09 |
+| 97 | [Assaji](https://open.spotify.com/track/0VAyX04mjdpwMHmUCt63jL) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [nobori \- 上り](https://open.spotify.com/album/1o9zSOMYbKWv48zUb50MfY) | 2:10 |
+| 98 | [Run](https://open.spotify.com/track/5Hi3N1zV22FTZzWrjFMsQp) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Run](https://open.spotify.com/album/1YjBHkHzDehlUyhlaskjvV) | 4:08 |
+| 99 | [happy im](https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [happy im](https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI) | 2:54 |
+| 100 | [Welcome](https://open.spotify.com/track/2eret7tEFawBg7ivErrSdx) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Welcome to My Castle](https://open.spotify.com/album/7gkjbmsbhiXCDPmKYGPk2l) | 3:17 |
 
 Snapshot ID: `ZpjOmQAAAACKkyvJUOQ3um/N8QFQsHe4`

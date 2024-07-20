@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25742,
+  "num_followers": 25744,
   "original_name": "NEW EDM 2024 \u26a1 EDM HITS 2024 \u26a1 MUSICA ELECTRONICA 2024",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABgNIvspuAa4XDrSj9IgqpRsVsIlIYl",
+  "snapshot_id": "AABgNzTTQeXZClTFl1Sz33rT0qHihlbT",
   "tracks": [
     {
       "added_at": "2024-07-19 02:03:10",
@@ -293,6 +293,234 @@
       "url": "https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8"
     },
     {
+      "added_at": "2024-07-19 12:07:44",
+      "album": {
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/5lk4rie1rNS4GMw0s0Mjga"
+      },
+      "artists": [
+        {
+          "name": "Alias Club",
+          "url": "https://open.spotify.com/artist/7iBfLTLOnJIArlk3IODV95"
+        }
+      ],
+      "duration_ms": 190984,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/617SoNO2LNsU6lTSN3t3t8"
+    },
+    {
+      "added_at": "2024-07-19 12:07:44",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/41BQsaMu8lrIaiTmvCnst0"
+      },
+      "artists": [
+        {
+          "name": "Wavetraxx",
+          "url": "https://open.spotify.com/artist/6lf34yUxPkqAQOSqJ0q06f"
+        },
+        {
+          "name": "Heatbeat",
+          "url": "https://open.spotify.com/artist/4FuFFzlzYgn3Yu2rxLhvdN"
+        },
+        {
+          "name": "NELLY TGM",
+          "url": "https://open.spotify.com/artist/0CcMmRLIvPFUg1AmCdsSSN"
+        }
+      ],
+      "duration_ms": 185076,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/216jQRd3JzpWGWUBOEjGgW"
+    },
+    {
+      "added_at": "2024-07-19 02:03:10",
+      "album": {
+        "name": "Resilience",
+        "url": "https://open.spotify.com/album/2f1nfvXpJ0BBccAq0o5dBW"
+      },
+      "artists": [
+        {
+          "name": "Giovi",
+          "url": "https://open.spotify.com/artist/3D2KnEWgwG5Iu8fTgdiflr"
+        }
+      ],
+      "duration_ms": 178814,
+      "name": "Resilience",
+      "url": "https://open.spotify.com/track/2CJ6AHAmhA3PAHk11y46bG"
+    },
+    {
+      "added_at": "2024-07-19 12:07:44",
+      "album": {
+        "name": "Decimate (N.O.B.A Remix)",
+        "url": "https://open.spotify.com/album/30t1zKXN0igRzWgV7mtpIn"
+      },
+      "artists": [
+        {
+          "name": "Sneijder",
+          "url": "https://open.spotify.com/artist/4zllvElH16KlgTqRstwYIb"
+        },
+        {
+          "name": "N.O.B.A",
+          "url": "https://open.spotify.com/artist/5MIr8QoqIu4PfJayaNTjb8"
+        }
+      ],
+      "duration_ms": 214647,
+      "name": "Decimate - N.O.B.A Remix",
+      "url": "https://open.spotify.com/track/1IBQOV538NLEQph6O34Slx"
+    },
+    {
+      "added_at": "2024-07-19 12:07:44",
+      "album": {
+        "name": "Here With You",
+        "url": "https://open.spotify.com/album/5BFCvht5psPKfvcfxYaOYQ"
+      },
+      "artists": [
+        {
+          "name": "Spencer Newell",
+          "url": "https://open.spotify.com/artist/5TuPKF4PK5PDgGuR9PlGfv"
+        },
+        {
+          "name": "Lokka Vox",
+          "url": "https://open.spotify.com/artist/7Me2tT0W9VHJHchAtFVc2o"
+        }
+      ],
+      "duration_ms": 231082,
+      "name": "Here With You",
+      "url": "https://open.spotify.com/track/5X1kuzL26fVOPuYNHT5Qlk"
+    },
+    {
+      "added_at": "2024-07-19 12:07:44",
+      "album": {
+        "name": "The Night Sky",
+        "url": "https://open.spotify.com/album/0eakTvQwbi2Hsme2BuAaT0"
+      },
+      "artists": [
+        {
+          "name": "VENNIC",
+          "url": "https://open.spotify.com/artist/0I9hDUnGp3ZYpR9FmnKXqS"
+        }
+      ],
+      "duration_ms": 181157,
+      "name": "The Night Sky",
+      "url": "https://open.spotify.com/track/5ASQL2glrTi6xS82g0fMRh"
+    },
+    {
+      "added_at": "2024-07-19 12:07:44",
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/4CAOTgEOGM21U8YOytJrZJ"
+      },
+      "artists": [
+        {
+          "name": "AANSE",
+          "url": "https://open.spotify.com/artist/6qlH3EfcFpLwAGiQQlAra6"
+        }
+      ],
+      "duration_ms": 170624,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/109l2CEP9CcXYKzbbXLeXd"
+    },
+    {
+      "added_at": "2024-07-19 12:07:44",
+      "album": {
+        "name": "One Thing",
+        "url": "https://open.spotify.com/album/3yrUclsTFchuxo2c4VYUPb"
+      },
+      "artists": [
+        {
+          "name": "Camisado",
+          "url": "https://open.spotify.com/artist/0pvlpkTlSafv0eKyGQ2HtS"
+        }
+      ],
+      "duration_ms": 144041,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/3Q8hbWH6nDCK050NOWPQaC"
+    },
+    {
+      "added_at": "2024-07-19 12:07:44",
+      "album": {
+        "name": "Rave (All I Want)",
+        "url": "https://open.spotify.com/album/68AeX81W42YPUqj1eST433"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "Heleen",
+          "url": "https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Rave (All I Want)",
+      "url": "https://open.spotify.com/track/1MdddafHu8hUzsk7eNAG2Y"
+    },
+    {
+      "added_at": "2024-07-19 12:07:44",
+      "album": {
+        "name": "Save me now",
+        "url": "https://open.spotify.com/album/0a3TiVK2fuaUnnUkBzRu1f"
+      },
+      "artists": [
+        {
+          "name": "Rick Kramer",
+          "url": "https://open.spotify.com/artist/0SMXRUzutHfPvHfVjApFN4"
+        }
+      ],
+      "duration_ms": 243750,
+      "name": "Save me now",
+      "url": "https://open.spotify.com/track/1UsDImhOVD4VTdUCIkpQG5"
+    },
+    {
+      "added_at": "2024-07-19 12:07:44",
+      "album": {
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/3o8GPFoFLVI0pfUPePSmbl"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "duration_ms": 131372,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/3D2jhnByvi7je8qYz3cWM1"
+    },
+    {
+      "added_at": "2024-07-19 12:07:44",
+      "album": {
+        "name": "Rhythm Is A Mystery",
+        "url": "https://open.spotify.com/album/4i8yo1Mr9V9r1zm3dea73q"
+      },
+      "artists": [
+        {
+          "name": "Stephani B",
+          "url": "https://open.spotify.com/artist/1KO1lRmzn2ruREb8hlFa0A"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "Rhythm Is A Mystery",
+      "url": "https://open.spotify.com/track/4to882WX8amPNUOrutLULh"
+    },
+    {
+      "added_at": "2024-07-19 12:07:44",
+      "album": {
+        "name": "Kitsune Maison Freestyle",
+        "url": "https://open.spotify.com/album/3RR6dCCUou6EdHrHVOQV1r"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "duration_ms": 234553,
+      "name": "Kitsune Maison Freestyle",
+      "url": "https://open.spotify.com/track/6n8VUJwJoANGLHfWf38gJv"
+    },
+    {
       "added_at": "2024-07-19 02:03:10",
       "album": {
         "name": "Shine On (Dantiez Remix)",
@@ -355,22 +583,6 @@
       "duration_ms": 200000,
       "name": "Lowlife",
       "url": "https://open.spotify.com/track/0IotY5YayJH3apsikkEsYk"
-    },
-    {
-      "added_at": "2024-07-19 02:03:10",
-      "album": {
-        "name": "Resilience",
-        "url": "https://open.spotify.com/album/2f1nfvXpJ0BBccAq0o5dBW"
-      },
-      "artists": [
-        {
-          "name": "Giovi",
-          "url": "https://open.spotify.com/artist/3D2KnEWgwG5Iu8fTgdiflr"
-        }
-      ],
-      "duration_ms": 178814,
-      "name": "Resilience",
-      "url": "https://open.spotify.com/track/2CJ6AHAmhA3PAHk11y46bG"
     },
     {
       "added_at": "2024-07-19 02:03:10",

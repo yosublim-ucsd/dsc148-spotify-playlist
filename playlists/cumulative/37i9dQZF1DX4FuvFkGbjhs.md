@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: Sampha
 
-138 songs - 7 hr 50 min
+139 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [BAD!](https://open.spotify.com/track/5WOyh6lYHKe2zJ3JxyRa1k) | [Rio Rainz](https://open.spotify.com/artist/1r6P4oTQ7kUvMXTkNjrb4C) | [BAD!](https://open.spotify.com/album/5hfJiBLnHNx2RaOE2acqWc) | 2:39 | 2024-07-11 |  |
 | [Better ft\. Cuco](https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Better ft\. Cuco](https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx) | 2:57 | 2024-07-18 |  |
 | [Big Man](https://open.spotify.com/track/1kgEHdcA1hesiL4qFISZc4) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Big Man](https://open.spotify.com/album/5yW6Sr7FABZxe95FEEKEkb) | 4:13 | 2024-06-27 |  |
-| [blu](https://open.spotify.com/track/5gNEUS6Ca9zxn5yYDiyTgK) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [blu](https://open.spotify.com/album/757Mnb96yy0jT7po5qnvuU) | 2:16 | 2024-06-27 |  |
+| [blu](https://open.spotify.com/track/5gNEUS6Ca9zxn5yYDiyTgK) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [blu](https://open.spotify.com/album/757Mnb96yy0jT7po5qnvuU) | 2:16 | 2024-06-27 | 2024-07-20 |
 | [Blue Moon](https://open.spotify.com/track/0aYf2v4kpJkx4KHl49gwY0) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Blue Moon](https://open.spotify.com/album/5J56mnyMUF67PMIfzm3YL5) | 3:46 | 2024-06-27 |  |
 | [Bon Bon](https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Bon Bon](https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT) | 3:30 | 2024-06-27 |  |
 | [Bubble Wrap](https://open.spotify.com/track/5fcMtHMqoUB5j7nx08XylC) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [BETWEEN2WORLDS](https://open.spotify.com/album/0vU9edLqvX0azxdWwKzCKl) | 2:41 | 2024-07-11 |  |
@@ -56,7 +56,7 @@
 | [Fortune Green](https://open.spotify.com/track/41arbLAzIm7uV8T0dCZNio) | [Koteri](https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI) | [Fortune Green](https://open.spotify.com/album/4QeB3eT7TwAaeIsqKMTW7o) | 2:24 | 2024-07-04 |  |
 | [FRESH AND NEW](https://open.spotify.com/track/6jkkBQC3drJYtL03cl6vS3) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw), [Carrie Baxter](https://open.spotify.com/artist/052GxJJYMQVVqXRsZfORK1) | [FRESH AND NEW](https://open.spotify.com/album/6y5eGkaWm3HPeuMi8P7fiy) | 2:25 | 2024-07-04 |  |
 | [FromHere \(feat\. Snoop Dogg & October London\)](https://open.spotify.com/track/1kJK2dkXbMw8yOMFEuJUm7) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [FromHere \(feat\. Snoop Dogg & October London\)](https://open.spotify.com/album/7aFWGuepWqTGZneBnfahBZ) | 4:01 | 2024-06-27 | 2024-07-19 |
-| [Fucked Up](https://open.spotify.com/track/37bFATT8sxbVSJfPWegCSK) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Fucked Up](https://open.spotify.com/album/2k7gCTS8KGqowNfOpSkEJz) | 3:51 | 2024-06-27 |  |
+| [Fucked Up](https://open.spotify.com/track/37bFATT8sxbVSJfPWegCSK) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Fucked Up](https://open.spotify.com/album/2k7gCTS8KGqowNfOpSkEJz) | 3:51 | 2024-06-27 | 2024-07-20 |
 | [Gaza is Calling](https://open.spotify.com/track/3ChIzdLUmq1sB9I556xwgC) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Gaza is Calling](https://open.spotify.com/album/33xs5LXJkJZDVptz8ovCcb) | 4:30 | 2024-06-27 |  |
 | [Genesis.](https://open.spotify.com/track/2bMhQ5kJTFTKEKBFzkMBvN) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 7:00 | 2024-06-27 |  |
 | [Girl](https://open.spotify.com/track/6N7u0W1wIBiANEvDvBD7lC) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Girl](https://open.spotify.com/album/29TdLg1fTzIS8taqkLky7B) | 3:37 | 2024-06-27 | 2024-07-05 |
@@ -75,6 +75,7 @@
 | [Into Gold](https://open.spotify.com/track/2uWJpyxK7gSGdGBLOX4lMV) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Into Gold](https://open.spotify.com/album/7yIJ7abwVOMsviS21jFkeW) | 5:42 | 2024-06-27 |  |
 | [Jam Toast](https://open.spotify.com/track/7kE2lk45qdnPKccuIhWkqE) | [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx) | [Jam Toast](https://open.spotify.com/album/5H0UAwmSaSsgLcpdhkgAqt) | 2:34 | 2024-06-27 |  |
 | [Joker](https://open.spotify.com/track/3HyD8c5C8C7P5TgmNfc8YK) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Joker](https://open.spotify.com/album/3C5hemEZFqLPsfbiW1tm70) | 2:20 | 2024-06-27 | 2024-07-19 |
+| [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 | 2024-07-19 |  |
 | [K9](https://open.spotify.com/track/5nnhETVQeAoJEnGJDuB6fC) | [Humane The Moon](https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [K9](https://open.spotify.com/album/4yBjOCopyDn9TDoJHm59kf) | 2:55 | 2024-06-27 | 2024-07-19 |
 | [Karnaby](https://open.spotify.com/track/3SI5Q4mkeRW1gDfSOSdiBa) | [Koteri](https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI) | [Karnaby](https://open.spotify.com/album/6MpbHu6gNud9ghMwpDXiGP) | 1:57 | 2024-06-27 |  |
 | [Kerosene Dreams](https://open.spotify.com/track/2tHUKqdFCcrJ0xiC9SNOwb) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [A Guilty Heart Can Never Rest](https://open.spotify.com/album/7kUEQbqX1Kaf6oL2x046d6) | 3:05 | 2024-06-27 | 2024-07-19 |

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [08pm rain](https://open.spotify.com/track/5avCPLTbfEaFt6KwhNaEsV) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in gothenburg](https://open.spotify.com/album/5YsUXczkuSJUIqYCTCcaOV) | 3:06 | 2022-04-07 | 2024-06-27 |
+| [08pm rain](https://open.spotify.com/track/5avCPLTbfEaFt6KwhNaEsV) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in gothenburg](https://open.spotify.com/album/5YsUXczkuSJUIqYCTCcaOV) | 3:06 | 2022-04-07 |  |
 | [11 p.m rain](https://open.spotify.com/track/0236YDA8KmwrVQV5f4tTzE) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [11 p.m rain](https://open.spotify.com/album/1lSOE7QiLZ79Egs0OBB1aW) | 2:15 | 2022-04-07 | 2023-06-21 |
 | [11 p.m rain](https://open.spotify.com/track/7umWlKowqWEBaX7XlwHC7I) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [11 p.m rain](https://open.spotify.com/album/1lSOE7QiLZ79Egs0OBB1aW) | 2:23 | 2022-04-07 |  |
 | [3am rain](https://open.spotify.com/track/1ylGvrRIddMub56gKjmkoN) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in oslo](https://open.spotify.com/album/13U4QiRMlsWftosdvI17ho) | 3:28 | 2022-04-07 |  |
@@ -100,7 +100,7 @@
 | [Lotus Rain](https://open.spotify.com/track/0cYf8BBWyP83Q6uxqjkSel) | [Adio](https://open.spotify.com/artist/1u9z4r9MRMjVc4t2bI2z4W) | [Lotus Rain](https://open.spotify.com/album/6SeFBqjQUAF0s2JVaoU8eJ) | 2:04 | 2022-04-07 |  |
 | [Magic Rain \(656 hZ White Noise Layer\)](https://open.spotify.com/track/1gjRqqwlMpy8aEO9aAabyL) | [NORTHERN WEATHER LAB](https://open.spotify.com/artist/4Hbi2fOx8T5IazZa4IBGEb) | [Healing Rain & Tuned White Noise](https://open.spotify.com/album/66i0iloF4PSmtAQ45yfWvh) | 4:03 | 2022-04-07 | 2024-06-20 |
 | [Marsh Rain](https://open.spotify.com/track/2RfArgDAbCC1zHe5oGGmRO) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Calm Rain](https://open.spotify.com/album/1gKD89LziZTe7NUmp6NG8P) | 2:10 | 2022-04-07 |  |
-| [Massive Rainfall](https://open.spotify.com/track/6QCCVreX9fgUhurti2TPdh) | [Seasons Of Nature](https://open.spotify.com/artist/3jF2TuX5ujvjhjcumIOZIb) | [Massive Rainfall](https://open.spotify.com/album/775fMQWudtTjHsR0XAirYj) | 4:23 | 2022-04-07 |  |
+| [Massive Rainfall](https://open.spotify.com/track/6QCCVreX9fgUhurti2TPdh) | [Seasons Of Nature](https://open.spotify.com/artist/3jF2TuX5ujvjhjcumIOZIb) | [Massive Rainfall](https://open.spotify.com/album/775fMQWudtTjHsR0XAirYj) | 4:23 | 2022-04-07 | 2024-07-20 |
 | [Mediatative Rain](https://open.spotify.com/track/1omNM0NNJZUoss3benPROm) | [High Sampling](https://open.spotify.com/artist/4DtTcZucLzox7VtkpWsVBw) | [Peaceful Rain Sounds](https://open.spotify.com/album/2PChgMddYdUsisFPjW9FGq) | 2:38 | 2022-04-07 |  |
 | [Medium to Heavy Rain](https://open.spotify.com/track/29A7nnvvxtTkH74OhHNAFv) | [Rain Games](https://open.spotify.com/artist/4rXhSiaGuJVQW3ruOywptk) | [Rain Moods](https://open.spotify.com/album/4ie6U4b2jmQdeaAw3zoAvM) | 3:27 | 2022-04-07 |  |
 | [Memories Of Rain](https://open.spotify.com/track/2djsrAf6nUCMHaseamvwv4) | [Jeff Olaf](https://open.spotify.com/artist/6giyCf63EfeAgxIofVymOq) | [Gotland Rain Sounds](https://open.spotify.com/album/0Zl63O9EmQKZQRl8xSsqk5) | 2:20 | 2022-04-07 |  |

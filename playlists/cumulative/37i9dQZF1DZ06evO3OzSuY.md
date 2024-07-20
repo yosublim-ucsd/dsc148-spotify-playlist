@@ -2,7 +2,7 @@
 
 ### [This Is Zendaya](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3OzSuY)
 
-> This is Zendaya\. The essential tracks, all in one playlist.
+> This is Zendaya\. Track\-track unggulan, semuanya dalam satu playlist.
 
 39 songs - 2 hr 6 min
 
@@ -13,7 +13,7 @@
 | [Beat Of My Drum](https://open.spotify.com/track/3kQof6BTRSz9eo0e8E0mSU) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Shake It Up: I <3 Dance](https://open.spotify.com/album/1eYsH5gyuJJaHdNg5inMff) | 3:16 | 2023-12-18 |  |
 | [Bottle You Up](https://open.spotify.com/track/7wbIPJ9Ptn328JWcMONz9p) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Zendaya](https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl) | 3:38 | 2023-12-18 |  |
 | [Butterflies](https://open.spotify.com/track/1nV9EKNIAORTvadQ19jkik) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Zendaya](https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl) | 3:47 | 2023-12-18 |  |
-| [Come Alive](https://open.spotify.com/track/5xNUR50KxswPRAvx7S163g) | [Hugh Jackman](https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2), [Keala Settle](https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS), [Daniel Everidge](https://open.spotify.com/artist/2Rimf9z3oYDBeszSXFACRR), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [The Greatest Showman Ensemble](https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8) | [The Greatest Showman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F) | 3:45 | 2023-12-19 | 2024-07-19 |
+| [Come Alive](https://open.spotify.com/track/5xNUR50KxswPRAvx7S163g) | [Hugh Jackman](https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2), [Keala Settle](https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS), [Daniel Everidge](https://open.spotify.com/artist/2Rimf9z3oYDBeszSXFACRR), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [The Greatest Showman Ensemble](https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8) | [The Greatest Showman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F) | 3:45 | 2023-12-19 |  |
 | [Contagious Love](https://open.spotify.com/track/1mmTplEfjFvEg1tmxiMxin) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [Bella Thorne](https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX) | [Shake It Up: I <3 Dance](https://open.spotify.com/album/1eYsH5gyuJJaHdNg5inMff) | 2:15 | 2023-12-18 |  |
 | [Dig Down Deeper](https://open.spotify.com/track/67sdRAA6JzTA0pJxLzNR5g) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Dig Down Deeper \(From the film "Pixie Hollow Games''\)](https://open.spotify.com/album/52l8ah8G648dsKnBMRRYr9) | 3:01 | 2023-12-18 | 2024-06-11 |
 | [Dig Down Deeper](https://open.spotify.com/track/3r0TVEiVGNFI5nuX87nstb) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Disney Fairies: Faith, Trust and Pixie Dust](https://open.spotify.com/album/7CteF40ZbCHjLYBYyYpAAJ) | 3:02 | 2024-06-11 |  |

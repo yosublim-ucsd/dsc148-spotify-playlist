@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,543 likes - 48 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,629 likes - 48 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 42 | [Soy Cubana](https://open.spotify.com/track/7trrKd0NJ6tGeLabz3068F) | [Son Damas](https://open.spotify.com/artist/60qGA95YCJPStxDgW1PoqM) | [Bailables de Cuba, Vol\. 2](https://open.spotify.com/album/6m7duIkPgcGsHwS5ijJaXX) | 5:09 |
 | 43 | [Esto Está](https://open.spotify.com/track/6aOj5462zikA3VwXxv2fQb) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Recoge y Vete](https://open.spotify.com/album/5mLkOShl9aG9Ikyj38AQVU) | 5:51 |
 | 44 | [La Bomba \(Yo Lo Sé\)](https://open.spotify.com/track/6Mq0PPDjAI9yaXZNZlwrOM) | [El Noro y Primera Clase](https://open.spotify.com/artist/5wfvAqF5O8wjiLdwIpfwyf) | [Sin Escala](https://open.spotify.com/album/0e12UMKQIn5tbSD08D3ma9) | 4:55 |
-| 45 | [El Dueno del Party](https://open.spotify.com/track/3dSfzMb6yzfofd6llvvVnk) | [Juan Guillermo](https://open.spotify.com/artist/2a6asokZtIXtp4pxTLvTvq), [Los Extraterrestres](https://open.spotify.com/artist/3G65Io9sxcoeyBVip1ruau) | [Que No Me Controlen](https://open.spotify.com/album/3T7xTNUfhefkNlgynjE4GN) | 4:39 |
-| 46 | [Un Poquito al Revés \- Remasterizado](https://open.spotify.com/track/1JTYxQB9J2KchmYpmaluQF) | [Pupy y Los Que Son Son](https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH) | [Tranquilo Que Yo Controlo \(Remasterizado\)](https://open.spotify.com/album/5j07wZn3eSyjnRch2zczmy) | 4:33 |
+| 45 | [Un Poquito al Revés \- Remasterizado](https://open.spotify.com/track/1JTYxQB9J2KchmYpmaluQF) | [Pupy y Los Que Son Son](https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH) | [Tranquilo Que Yo Controlo \(Remasterizado\)](https://open.spotify.com/album/5j07wZn3eSyjnRch2zczmy) | 4:33 |
+| 46 | [El Dueno del Party](https://open.spotify.com/track/3dSfzMb6yzfofd6llvvVnk) | [Juan Guillermo](https://open.spotify.com/artist/2a6asokZtIXtp4pxTLvTvq), [Los Extraterrestres](https://open.spotify.com/artist/3G65Io9sxcoeyBVip1ruau) | [Que No Me Controlen](https://open.spotify.com/album/3T7xTNUfhefkNlgynjE4GN) | 4:39 |
 | 47 | [Caramelo Con Picante](https://open.spotify.com/track/1LOTPsUy1m5XRB6iplC2ns) | [Lazarito Valdés](https://open.spotify.com/artist/1yft8LK8eazl4knHB4zi0s), [Bamboleo](https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4) | [Caramelo Con Picante](https://open.spotify.com/album/2obdmB6edFmMSm6whJR6m1) | 5:36 |
 | 48 | [Infiel \(with Jacob Forever, Gino Latino Dj\) \- Version Salsa](https://open.spotify.com/track/1yfTOpEoXrLmFGy1kJ5ahF) | [Divan](https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [Gino Latino DJ](https://open.spotify.com/artist/2eDW7jXIf7t8sGoocEaxYH) | [Infiel \(Version Salsa\)](https://open.spotify.com/album/7K5jcFAYRO3Ly69mCGATDc) | 3:29 |
 

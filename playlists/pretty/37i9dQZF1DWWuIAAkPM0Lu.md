@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > 🧚 <a href="https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq?si=uy7sZWLASdCFD2vIz3qU\-w">Mumle</a> og <a href="spotify:artist:7nCIXUCqZmxntAGJMyls5c">Svea S</a> sender ham op hvor solen ikk skinner 🧚🏻‍♀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,751 likes - 78 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,772 likes - 78 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 69 | [hair down \(remix\)](https://open.spotify.com/track/0J6uaKir7FzzTvnQcpg0MJ) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [hair down \(remix\)](https://open.spotify.com/album/5pViClRtFnnMBoRwfGS2rh) | 3:29 |
 | 70 | [Take Our Time](https://open.spotify.com/track/5swvKzNqDwOnlF1CwQ6Vbq) | [THYKIER](https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI), [Lefris](https://open.spotify.com/artist/3NxCFrrWRg6MVVNiPgPylF) | [Take Our Time](https://open.spotify.com/album/7lS34XcMcp2J28zbubcqZU) | 3:37 |
 | 71 | [Work It Out](https://open.spotify.com/track/1zepNi2GSE216osBwSn4ZD) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Work It Out](https://open.spotify.com/album/1sM2lvgt8XUBHJC4RRYN0Y) | 2:30 |
-| 72 | [Wahala](https://open.spotify.com/track/0V4ie5PXFiWXEd2XldImGr) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Adekunle Gold](https://open.spotify.com/artist/01w3jMWzWYm2INkQDkr2QW), [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Alusa Why Are You Topless? \(Deluxe\)](https://open.spotify.com/album/6piDT78sQ40k6xC5r9A8st) | 3:27 |
+| 72 | [Wahala](https://open.spotify.com/track/0V4ie5PXFiWXEd2XldImGr) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Alusa Why Are You Topless? \(Deluxe\)](https://open.spotify.com/album/6piDT78sQ40k6xC5r9A8st) | 3:27 |
 | 73 | [Paranoid](https://open.spotify.com/track/6Ez7j7MPocvayb7J7WlaR7) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Paranoid](https://open.spotify.com/album/3NN3PtcVj4qu9Wm237MgYP) | 3:41 |
 | 74 | [I Hate You \(So Much\)](https://open.spotify.com/track/4jOscqspgP24yNJ0jhOFRN) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [I Hate You \(So Much\)](https://open.spotify.com/album/5qR3QHS5XHa2IA4i6ujUNi) | 2:58 |
 | 75 | [I Byen I Natten Om Sommeren](https://open.spotify.com/track/5s0jqxmDwDIfJsNvrDbmvi) | [Tomas Høffding](https://open.spotify.com/artist/3vAZRzjco8xKk2NbT5BQ6A), [Asger Techau](https://open.spotify.com/artist/1XQ0s3nOnqFLPnVhOdAO3L), [Toby Ernest](https://open.spotify.com/artist/2D0OuL2YbAdSEM2PVs83Yv), [Maria Køhnke](https://open.spotify.com/artist/7vVoyj8ndrpyIE8xa288ML), [IDA KUDO](https://open.spotify.com/artist/1WyfdPnJcL6JS5s0TAq7Fa) | [I Byen I Natten Om Sommeren](https://open.spotify.com/album/3jl4WxWbYOPOeO8mTNM6r4) | 3:11 |
