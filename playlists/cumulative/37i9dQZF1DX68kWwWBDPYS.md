@@ -4,7 +4,7 @@
 
 > puros morrxs haciendo música chida\. Jacinto en portada.
 
-159 songs - 8 hr 26 min
+162 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [309](https://open.spotify.com/track/1oIraT61b04Xd9K92KvwV3) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [309](https://open.spotify.com/album/3ajXi0OL6QOjX3wyCMCHFI) | 4:27 | 2024-05-31 |  |
 | [80's](https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [80's](https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES) | 3:33 | 2023-07-21 | 2023-12-09 |
 | [A Diamond In Ashes](https://open.spotify.com/track/31Y7GTUiLoNZK3TcQIrzu8) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [A Diamond In Ashes](https://open.spotify.com/album/5erzaRQqc1tFjqAwzfjrzF) | 3:18 | 2023-07-21 | 2023-09-02 |
+| [A dónde vayas \- Acústico](https://open.spotify.com/track/4BqhQcVHFV5zns3WOZVqoS) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Piensa rápido: Perla Rosa](https://open.spotify.com/album/3du2TSH5VGMaylPXEWUno0) | 2:34 | 2024-07-20 |  |
 | [A Quien Corresponda.](https://open.spotify.com/track/4YYfcxRtW2ELHd31euxNmr) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd), [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS) | [A Quien Corresponda.](https://open.spotify.com/album/7hMvQVjOqM9SxRNWaaBT8n) | 3:07 | 2024-06-28 |  |
 | [A Simple Vista](https://open.spotify.com/track/59WBdqea9FTzB09z4vhhl1) | [Tyna Ros](https://open.spotify.com/artist/0UISs14imd71l4ruoL2XPT), [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [A Simple Vista](https://open.spotify.com/album/4MmPT0gnE81KHZepPsQUIP) | 3:27 | 2023-07-21 | 2023-09-27 |
 | [A TI](https://open.spotify.com/track/7BvX8hQxTizTNxsZhx9VIs) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [A TI](https://open.spotify.com/album/36InzgYAARL1G0fiqy0Uza) | 2:18 | 2023-10-20 | 2024-05-04 |
@@ -38,6 +39,7 @@
 | [bien hecho](https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [bien hecho](https://open.spotify.com/album/5MNb2jx4ncbpNMimeEUczU) | 4:01 | 2023-10-20 | 2024-05-11 |
 | [blush](https://open.spotify.com/track/6EBIty8gWIvorUu9JFg1sP) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [blush](https://open.spotify.com/album/4LYE5oTcpLgZBW1Un1vyia) | 2:43 | 2024-06-21 |  |
 | [Bola Oro](https://open.spotify.com/track/7nPafRuFaZo7QxN1j1rpyJ) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Bola Oro](https://open.spotify.com/album/6tszCQ4PZkcHtkNdVM5Is2) | 4:05 | 2023-07-21 | 2023-12-09 |
+| [bruce willisss](https://open.spotify.com/track/3ktkqlpsYxos7nF2CqGPh6) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [blush](https://open.spotify.com/album/6XFmWkqa5i9L4iKQSFZOHK) | 1:46 | 2024-07-20 |  |
 | [cada que...](https://open.spotify.com/track/0DxQ4wo5u9JtbTDGqcGO1h) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm), [Santa Madero](https://open.spotify.com/artist/0CRFTlHrIHedPTQFqUYAXN), [Poder Fantasma](https://open.spotify.com/artist/7BAa5FikfNdBTzy3FNBV0w), [Mariana Taylor](https://open.spotify.com/artist/3CCt5sS8zDpFbP9EKPH5Yt) | [cada que...](https://open.spotify.com/album/0hggg1LVqaRvo98L25NXXk) | 3:36 | 2023-12-08 | 2024-06-22 |
 | [California](https://open.spotify.com/track/2sOfChSTFiuicBli18TJkc) | [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf), [Alan Navarro](https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH) | [California](https://open.spotify.com/album/7e0leqj1Y2QcqqyUtKHdld) | 2:36 | 2024-05-03 |  |
 | [CARDIO](https://open.spotify.com/track/5iqIWY7nfKVQQMfydhuBT0) | [Alexia Mariel](https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn), [Barovier](https://open.spotify.com/artist/4R1nd0QT6rtLh6KKWKXeQh) | [CARDIO](https://open.spotify.com/album/07yFwMDQW8uDu48chfn9mq) | 2:26 | 2024-05-31 |  |
@@ -45,6 +47,7 @@
 | [Casi](https://open.spotify.com/track/1jesvXqRoERzpk4PYxbJC2) | [Pere George](https://open.spotify.com/artist/6Ydc7A5Y0e2hWwGo14HSIF) | [Casi](https://open.spotify.com/album/1tyzlv1IPY4YwK5N9CDEKp) | 4:01 | 2024-04-19 | 2024-06-29 |
 | [Check](https://open.spotify.com/track/3x7tIdDP7YpTj3Vm8dNc6G) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Check](https://open.spotify.com/album/0yKmUnSPPCyaNrBbFobzT4) | 3:23 | 2024-06-28 |  |
 | [Colorado](https://open.spotify.com/track/7nAjHsXvOG1AQcg8t88Sas) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [las cosas que quiero recordar](https://open.spotify.com/album/27vxcieuNzIF3vRup0AWBS) | 2:58 | 2024-06-21 |  |
+| [Come&Go \(funnynoiseclub002\)](https://open.spotify.com/track/7pkBZWpr9BActeFhWeWtVO) | [urboi.](https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Come&Go \(funnynoiseclub002\)](https://open.spotify.com/album/2BDAa2AXTSSJuUJQSNhN06) | 2:22 | 2024-07-20 |  |
 | [Confesión](https://open.spotify.com/track/1kKEfjhJNE3OKMu0GoqeU3) | [Wet Baes](https://open.spotify.com/artist/6mYovveNfg4PF4HnT8Lner) | [Confesión](https://open.spotify.com/album/4JhQbQL3qyhdgYep7YCOeI) | 3:58 | 2024-04-26 | 2024-07-06 |
 | [Confundida](https://open.spotify.com/track/4syfTORIfdxA39EalhrRgQ) | [LULÚ](https://open.spotify.com/artist/0WbhCU7N9haH6aBYhdqP8a) | [Confundida](https://open.spotify.com/album/3SwxV7jF9o7Yfg0186ieCT) | 2:43 | 2023-12-08 | 2024-05-11 |
 | [Contacto Cero](https://open.spotify.com/track/7g3RnWcBVocF37uHQbpQRo) | [Neela](https://open.spotify.com/artist/3c5q3H7Y58kioMJEZfAPgF) | [Contacto Cero](https://open.spotify.com/album/4BEMfN4E307qrqgkkdqHNB) | 3:22 | 2024-06-28 |  |

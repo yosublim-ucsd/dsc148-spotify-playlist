@@ -1,12 +1,12 @@
 {
-  "description": "This Is Christine D'Clario. Los temas esenciales, todos en una lista.",
-  "num_followers": 39180,
+  "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
+  "num_followers": 39189,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZphbAAAAAAA4JN/YEnBkLIiF/Q7rLtzn",
+  "snapshot_id": "ZpmsgAAAAABqpA0e0iFtkGxN47JR4eAK",
   "tracks": [
     {
       "added_at": null,
@@ -295,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tantas Historias",
+        "url": "https://open.spotify.com/album/1Fe1bElYmUYHJ51jHLJ4cH"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 240457,
+      "name": "Tantas Historias",
+      "url": "https://open.spotify.com/track/5kW4xrnOaXimPbVnucVzKh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emanuel",
         "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 632006,
       "name": "Admirable",
       "url": "https://open.spotify.com/track/266RImfSG8ZKvpj63JWtIo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tantas Historias",
-        "url": "https://open.spotify.com/album/1Fe1bElYmUYHJ51jHLJ4cH"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 240457,
-      "name": "Tantas Historias",
-      "url": "https://open.spotify.com/track/5kW4xrnOaXimPbVnucVzKh"
     },
     {
       "added_at": null,
@@ -443,6 +443,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Lucia Parker",
+          "url": "https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G"
+        }
+      ],
+      "duration_ms": 344549,
+      "name": "Me Amaste a M\u00ed",
+      "url": "https://open.spotify.com/track/2hsekOK9y9hmjJizQAJJnA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Homecoming (Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/20CnEGNCGv7sCWnV3AaC2o"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 633065,
       "name": "C\u00f3mo No Voy A Creer",
       "url": "https://open.spotify.com/track/1zZ9eHeIQuufBgUd8rnkRf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eterno (Live)",
-        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Lucia Parker",
-          "url": "https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G"
-        }
-      ],
-      "duration_ms": 344549,
-      "name": "Me Amaste a M\u00ed",
-      "url": "https://open.spotify.com/track/2hsekOK9y9hmjJizQAJJnA"
     },
     {
       "added_at": null,
@@ -687,6 +687,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adoraci\u00f3n Vol. 1",
+        "url": "https://open.spotify.com/album/4GuJtiXSnLq5tHFCWRNCF8"
+      },
+      "artists": [
+        {
+          "name": "Adoraci\u00f3n",
+          "url": "https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 351542,
+      "name": "Yo Te Busco",
+      "url": "https://open.spotify.com/track/0uYyXqF4CdeQFDEx73sc64"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Loco Amor (Spanish Version)",
         "url": "https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 335528,
       "name": "El Shaddai - Live",
       "url": "https://open.spotify.com/track/7nHFsC0S9EgcxneuxNxdpB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adoraci\u00f3n Vol. 1",
-        "url": "https://open.spotify.com/album/4GuJtiXSnLq5tHFCWRNCF8"
-      },
-      "artists": [
-        {
-          "name": "Adoraci\u00f3n",
-          "url": "https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 351542,
-      "name": "Yo Te Busco",
-      "url": "https://open.spotify.com/track/0uYyXqF4CdeQFDEx73sc64"
     },
     {
       "added_at": null,

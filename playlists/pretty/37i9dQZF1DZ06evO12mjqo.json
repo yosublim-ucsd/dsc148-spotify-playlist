@@ -1,29 +1,13 @@
 {
-  "description": "This Is Ghost. Los temas esenciales, todos en una lista.",
-  "num_followers": 414764,
+  "description": "This is Ghost. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 414924,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZphbAAAAAAAV9iyBogcJTPTVZz0pzqdI",
+  "snapshot_id": "ZpmsgAAAAAAhnhAdMw1pFgTXhazxt3Eu",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Future Is A Foreign Land",
-        "url": "https://open.spotify.com/album/6jSNCcxIIB0ccyTgOJ2y1F"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 225224,
-      "name": "The Future Is A Foreign Land",
-      "url": "https://open.spotify.com/track/1OQxJiHrr5HAmTaqAhn39c"
-    },
     {
       "added_at": null,
       "album": {
@@ -43,8 +27,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Inches Of Satanic Panic",
-        "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
+        "name": "The Future Is A Foreign Land",
+        "url": "https://open.spotify.com/album/6jSNCcxIIB0ccyTgOJ2y1F"
       },
       "artists": [
         {
@@ -52,9 +36,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 244804,
-      "name": "Mary On A Cross",
-      "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
+      "duration_ms": 225224,
+      "name": "The Future Is A Foreign Land",
+      "url": "https://open.spotify.com/track/1OQxJiHrr5HAmTaqAhn39c"
     },
     {
       "added_at": null,
@@ -91,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus He Knows Me",
-        "url": "https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK"
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
       },
       "artists": [
         {
@@ -100,9 +84,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 245240,
-      "name": "Jesus He Knows Me",
-      "url": "https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP"
+      "duration_ms": 219720,
+      "name": "Dance Macabre",
+      "url": "https://open.spotify.com/track/4pIKFpwflOdhYNIRmPTj3E"
     },
     {
       "added_at": null,
@@ -132,9 +116,25 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 298573,
-      "name": "Darkness At The Heart Of My Love",
-      "url": "https://open.spotify.com/track/6vXceKic4ACImU0bC3oecd"
+      "duration_ms": 284266,
+      "name": "Call Me Little Sunshine",
+      "url": "https://open.spotify.com/track/4xAmbn7xiy6wGOs4oaxv70"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus He Knows Me",
+        "url": "https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 245240,
+      "name": "Jesus He Knows Me",
+      "url": "https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP"
     },
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "IMPERA",
+        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 298573,
+      "name": "Darkness At The Heart Of My Love",
+      "url": "https://open.spotify.com/track/6vXceKic4ACImU0bC3oecd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If You Have Ghost",
         "url": "https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 214880,
       "name": "If You Have Ghosts",
       "url": "https://open.spotify.com/track/1sNSlzvQ5jPir46X5X1TeH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IMPERA",
-        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "Hunter\u2019s Moon",
-      "url": "https://open.spotify.com/track/2jfQ2g1q0w8tbjN46rLpr2"
     },
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "IMPERA",
+        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "Hunter\u2019s Moon",
+      "url": "https://open.spotify.com/track/2jfQ2g1q0w8tbjN46rLpr2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "13 Commandments",
         "url": "https://open.spotify.com/album/1jIpMY1agd8Uvd9cc9woTH"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 364533,
       "name": "Zenith",
       "url": "https://open.spotify.com/track/12OqhoWuHEzQ7AJMBS0WFJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IMPERA",
-        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 302040,
-      "name": "Kaisarion",
-      "url": "https://open.spotify.com/track/452WW3sHSkt9AxuKS4cLX0"
     },
     {
       "added_at": null,
@@ -303,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "IMPERA",
+        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 302040,
+      "name": "Kaisarion",
+      "url": "https://open.spotify.com/track/452WW3sHSkt9AxuKS4cLX0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If You Have Ghost",
         "url": "https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 313413,
       "name": "Crucified",
       "url": "https://open.spotify.com/track/0PSWSiRXsxsLAEdEhaJAId"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IMPERA",
-        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 316040,
-      "name": "Griftwood",
-      "url": "https://open.spotify.com/track/74gUN3LUQhqzfTLAP09ejk"
     },
     {
       "added_at": null,
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "IMPERA",
+        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 316040,
+      "name": "Griftwood",
+      "url": "https://open.spotify.com/track/74gUN3LUQhqzfTLAP09ejk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Opus Eponymous",
         "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 213573,
       "name": "Con Clavi Con Dio",
       "url": "https://open.spotify.com/track/59b6JxeyqIA428dgXU11iW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IMPERA",
-        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "Twenties",
-      "url": "https://open.spotify.com/track/3nae2T5GQuCVugpECx98K9"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 317800,
-      "name": "Miasma",
-      "url": "https://open.spotify.com/track/2YQtAJisZ4oXd3qVK6CyEA"
+      "duration_ms": 313693,
+      "name": "Nocturnal Me",
+      "url": "https://open.spotify.com/track/3rEODOW6kCtM4RPHOQoJ1B"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
       "duration_ms": 233373,
       "name": "Prime Mover",
       "url": "https://open.spotify.com/track/13Tw9FDhXVN5brv974A46H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meliora (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 313693,
-      "name": "Nocturnal Me",
-      "url": "https://open.spotify.com/track/3rEODOW6kCtM4RPHOQoJ1B"
     },
     {
       "added_at": null,

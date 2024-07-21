@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 
 > Lo mejor del pop electrónico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,071 likes - 95 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,072 likes - 95 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 36 | [ACUARIO](https://open.spotify.com/track/1QkgeUObaAPCDlbSB4mAh2) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [ACUARIO](https://open.spotify.com/album/5gxF2FABOq6pp3egtmYdlr) | 4:32 |
 | 37 | [La Casa del Amor Nocturno](https://open.spotify.com/track/6yi1h8v5YumwpW0wvWJFZs) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Maquillada en la Cama](https://open.spotify.com/album/5ifD7wxAIFjtABihB3YBQ9) | 5:01 |
 | 38 | [PARA AFUERA](https://open.spotify.com/track/6d0vMjFXHK2GkM7DOnwL5h) | [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PARA AFUERA](https://open.spotify.com/album/7aQXo5nVGDCxkW2oOwDXv9) | 2:34 |
-| 39 | [Pana](https://open.spotify.com/track/5m7I0u6k7PV2qSoGH3Os9h) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j), [Tom Tom](https://open.spotify.com/artist/1OwIf97MAIexwinSla1QrP) | [Remixes II](https://open.spotify.com/album/1wm51GhrM9EfstuTCgzn7N) | 3:48 |
-| 40 | [la noche de ayer](https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [la noche de ayer](https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR) | 4:15 |
+| 39 | [la noche de ayer](https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [la noche de ayer](https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR) | 4:15 |
+| 40 | [Pana](https://open.spotify.com/track/5m7I0u6k7PV2qSoGH3Os9h) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j), [Tom Tom](https://open.spotify.com/artist/1OwIf97MAIexwinSla1QrP) | [Remixes II](https://open.spotify.com/album/1wm51GhrM9EfstuTCgzn7N) | 3:48 |
 | 41 | [TU SI K TA LOKO](https://open.spotify.com/track/2u9No01x6M0p6DQwDFFZbA) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TU SI K TA LOKO](https://open.spotify.com/album/3wGWu2LA3agP0zM0uejUx0) | 2:50 |
 | 42 | [Lunes Por La Madrugada](https://open.spotify.com/track/7pEdDV1Izn1DgGhgTmhMM5) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Por Si Acaso Se Acaba El Mundo](https://open.spotify.com/album/4I1OiCznYVs09RpmTSIUm8) | 3:03 |
 | 43 | [VALOR](https://open.spotify.com/track/1pkGCeruFaTaIVsYrbw1f6) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [VALOR](https://open.spotify.com/album/7kOTGMgMDMkgIagREdKl9s) | 3:43 |
@@ -102,6 +102,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 92 | [Circular](https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk) | [Dani Umpi](https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI) | [Guazatumba](https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC) | 3:49 |
 | 93 | [Alta Magia \- Reversión 10 años](https://open.spotify.com/track/5i7zmthWP0dImjaFZvzHDj) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH), [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [Alta Magia \(Reversión 10 años\)](https://open.spotify.com/album/1a8CMgCRNBYvJCLogVuMVl) | 5:57 |
 | 94 | [Todas las Luces \- Remix](https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get), [Disonar](https://open.spotify.com/artist/5l1T9yWFAtznVgMMwhdnXM) | [Todas las Luces \(Remix\)](https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0) | 3:40 |
-| 95 | [Dejarte de Querer \- Nico Castro Remix](https://open.spotify.com/track/6PXKYJVbtpfZuOTmiIgJC2) | [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm), [Nico Castro](https://open.spotify.com/artist/3BPUQKAxccyClPyj2A4vv9) | [La Mar \(Remixes\)](https://open.spotify.com/album/7BUfVp5TlqMljuNoO8tX1O) | 5:47 |
+| 95 | [Te quiero ver](https://open.spotify.com/track/5bVEYK9UQf4ow5RMU296Qj) | [Fernanda Elío](https://open.spotify.com/artist/3fWL42NNnFgoXDTgVfWVrK) | [Después De Ti](https://open.spotify.com/album/2O8B8Y5bKAiimKnNU0p7OT) | 2:24 |
 
 Snapshot ID: `ZlnGdQAAAAA36w4116T53CWnPaUbxcFi`

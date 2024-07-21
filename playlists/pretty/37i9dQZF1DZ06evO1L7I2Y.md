@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1L7I2Y.md) - [plain]
 
 ### [This Is N.I.N.A](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1L7I2Y)
 
-> This is N.I.N.A\. The essential tracks, all in one playlist.
+> This Is N.I.N.A\. Todas as faixas essenciais numa única playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,829 likes - 34 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,832 likes - 34 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1L7I2Y.md) - [plain]
 | 27 | [10X Melhor \(Interlúdio\)](https://open.spotify.com/track/6l8WdWrVFAkG6sbpdEHyEm) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [PELE](https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh) | 1:21 |
 | 28 | [Rock Danger Brasil Grime Show \- Big Bllakk X N.I.N.A](https://open.spotify.com/track/0otaj8BW7Jjr7pNt38tAjq) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u), [diniBoy](https://open.spotify.com/artist/1hXHVRZlpm93rvPRb7d7HU), [Brasil Grime Show](https://open.spotify.com/artist/1MHo7H67rgMeXzF7UTqbjT), [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Rock Danger Brasil Grime Show \- Big Bllakk X N.I.N.A](https://open.spotify.com/album/63B0JgFYO5FgQml993TnS5) | 5:52 |
 | 29 | [Fed Tracks \#14: Recado](https://open.spotify.com/track/1AzsKMkoDCBhbOw5OU1Ii1) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa), [Baratapai](https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY) | [Fed Tracks \#14: Recado](https://open.spotify.com/album/2bdqJbDmCUaTVyN1AaUCDJ) | 2:41 |
-| 30 | [Quem que tá vindo no porte?](https://open.spotify.com/track/2vkkLaM2uBX8d5Gs1IBjsa) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [D38](https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [Quem que tá vindo no porte?](https://open.spotify.com/album/70MNJElKz42IGINcxMhJG5) | 2:30 |
+| 30 | [Copy](https://open.spotify.com/track/3Q6P44efSOTR4O52255KmX) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Kaylan Mary](https://open.spotify.com/artist/3ARExS7RN7MsIONPRMk9uD), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Copy](https://open.spotify.com/album/0aabe3MkHEfOH89G3AA7rX) | 3:01 |
 | 31 | [Anna](https://open.spotify.com/track/7efyDv6P8gaX3Im5nByK5n) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh) | 1:29 |
-| 32 | [Copy](https://open.spotify.com/track/3Q6P44efSOTR4O52255KmX) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Kaylan Mary](https://open.spotify.com/artist/3ARExS7RN7MsIONPRMk9uD), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Copy](https://open.spotify.com/album/0aabe3MkHEfOH89G3AA7rX) | 3:01 |
+| 32 | [Quem que tá vindo no porte?](https://open.spotify.com/track/2vkkLaM2uBX8d5Gs1IBjsa) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [D38](https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [Quem que tá vindo no porte?](https://open.spotify.com/album/70MNJElKz42IGINcxMhJG5) | 2:30 |
 | 33 | [Too Street 4 T.V.](https://open.spotify.com/track/3D9nPliI0cgYTdyUMb9KxL) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Dysfunktional Family \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0iBGpWpeiX2GPcIVCF5yEV) | 4:15 |
 | 34 | [Luxúria](https://open.spotify.com/track/37W8TBDB1z5rhQPEUP1Bhz) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Vitin](https://open.spotify.com/artist/3qqsM7MrioDCvQPL7AMBRS), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh) | 2:36 |
 
-Snapshot ID: `ZphbAAAAAADRWPhXubyJRD12JIZhIN8b`
+Snapshot ID: `ZpmsgAAAAABhKA2t9lJuXQHPicsoqJ+5`

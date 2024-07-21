@@ -1,6 +1,6 @@
 {
   "description": "All the New Joints featuring Denzel Curry, Lil Yachty, JT and more!",
-  "num_followers": 278837,
+  "num_followers": 278902,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
       "duration_ms": 170666,
       "name": "Kill Me",
       "url": "https://open.spotify.com/track/23O8BTAJhW7Z0RcoUR1nIh"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "MIGO",
+        "url": "https://open.spotify.com/album/6V0aAUfe12kKRFWNY9QGaj"
+      },
+      "artists": [
+        {
+          "name": "BashfortheWorld",
+          "url": "https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4"
+        }
+      ],
+      "duration_ms": 155998,
+      "name": "MIGO",
+      "url": "https://open.spotify.com/track/00Y58IUH7GfXLOk1ZpKVQY"
     },
     {
       "added_at": "2024-07-19 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "\u0410\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u0456 \u0445\u0456\u0442\u0438 \u0442\u0430 \u043f\u0440\u043e\u0440\u0438\u0432\u043d\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u043d\u0435\u0437\u0430\u043b\u0435\u0436\u043d\u043e\u0457 \u043c\u0456\u0441\u0446\u0435\u0432\u043e\u0457 \u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: INGRET",
-  "num_followers": 20940,
+  "num_followers": 20942,
   "original_name": "\u0456\u043d\u0434\u0456",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-07-12 16:17:45",
       "album": {
-        "name": "\u0422\u0438 [\u0420\u043e\u043c\u0430\u043d\u0442\u0438\u043a\u0430]",
-        "url": "https://open.spotify.com/album/5iPSAtJk05Zfa8Mpitd0Af"
-      },
-      "artists": [
-        {
-          "name": "\u041c\u0423\u0420",
-          "url": "https://open.spotify.com/artist/3NYo9EP6S3ReZ3ep86lsg3"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "\u0421\u043f\u043e\u0447\u0430\u0442\u043a\u0443 \u0431\u0443\u043b\u043e \u0421\u043b\u043e\u0432\u043e",
-      "url": "https://open.spotify.com/track/5OeWN69Qzwd3pzpy6802Ot"
-    },
-    {
-      "added_at": "2024-07-12 16:17:45",
-      "album": {
         "name": "\u0427\u043e\u0440\u043d\u0438\u0439 \u043b\u0435\u0431\u0456\u0434\u044c",
         "url": "https://open.spotify.com/album/52eVDoGR49BfRY64WG0QmQ"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 199434,
       "name": "\u0421\u043f\u0440\u043e\u0431\u0443\u0439 \u043a\u0443\u043f\u0438 \u043c\u0435\u043d\u0435",
       "url": "https://open.spotify.com/track/2szTMCjKgBVKLyDb8SiZ6J"
+    },
+    {
+      "added_at": "2024-07-12 16:17:45",
+      "album": {
+        "name": "\u0422\u0438 [\u0420\u043e\u043c\u0430\u043d\u0442\u0438\u043a\u0430]",
+        "url": "https://open.spotify.com/album/5iPSAtJk05Zfa8Mpitd0Af"
+      },
+      "artists": [
+        {
+          "name": "\u041c\u0423\u0420",
+          "url": "https://open.spotify.com/artist/3NYo9EP6S3ReZ3ep86lsg3"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "\u0421\u043f\u043e\u0447\u0430\u0442\u043a\u0443 \u0431\u0443\u043b\u043e \u0421\u043b\u043e\u0432\u043e",
+      "url": "https://open.spotify.com/track/5OeWN69Qzwd3pzpy6802Ot"
     },
     {
       "added_at": "2024-07-12 16:17:45",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-07-12 16:17:45",
       "album": {
-        "name": "\u0412\u0456\u0434\u043f\u0443\u0441\u0442\u0438",
-        "url": "https://open.spotify.com/album/3HV8gpFROgO6peVAfZVeOL"
-      },
-      "artists": [
-        {
-          "name": "Kadnay",
-          "url": "https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ"
-        }
-      ],
-      "duration_ms": 324728,
-      "name": "\u0412\u0456\u0434\u043f\u0443\u0441\u0442\u0438",
-      "url": "https://open.spotify.com/track/5IEHU7WIw059cVDCSnz8FX"
-    },
-    {
-      "added_at": "2024-07-12 16:17:45",
-      "album": {
         "name": "\u042f \u0441\u043f\u043e\u0434\u0456\u0432\u0430\u044e\u0441\u044c",
         "url": "https://open.spotify.com/album/4F4tG7F0QmZQduDgQejL7a"
       },
@@ -771,22 +755,6 @@
       "duration_ms": 151771,
       "name": "\u042f \u0441\u043f\u043e\u0434\u0456\u0432\u0430\u044e\u0441\u044c",
       "url": "https://open.spotify.com/track/1yTO4mmLprGq32ImfDk1Qb"
-    },
-    {
-      "added_at": "2024-07-12 16:17:45",
-      "album": {
-        "name": "Bohun",
-        "url": "https://open.spotify.com/album/5NkvD6R19ar48gZgFAPMx7"
-      },
-      "artists": [
-        {
-          "name": "LATEXFAUNA",
-          "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
-        }
-      ],
-      "duration_ms": 203125,
-      "name": "Bohun",
-      "url": "https://open.spotify.com/track/2XRpoAViyPcNdpcsdwkXi3"
     },
     {
       "added_at": "2024-07-12 16:17:45",
@@ -807,6 +775,38 @@
     {
       "added_at": "2024-07-12 16:17:45",
       "album": {
+        "name": "Bohun",
+        "url": "https://open.spotify.com/album/5NkvD6R19ar48gZgFAPMx7"
+      },
+      "artists": [
+        {
+          "name": "LATEXFAUNA",
+          "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
+        }
+      ],
+      "duration_ms": 203125,
+      "name": "Bohun",
+      "url": "https://open.spotify.com/track/2XRpoAViyPcNdpcsdwkXi3"
+    },
+    {
+      "added_at": "2024-07-12 16:17:45",
+      "album": {
+        "name": "\u0412\u0456\u0434\u043f\u0443\u0441\u0442\u0438",
+        "url": "https://open.spotify.com/album/3HV8gpFROgO6peVAfZVeOL"
+      },
+      "artists": [
+        {
+          "name": "Kadnay",
+          "url": "https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ"
+        }
+      ],
+      "duration_ms": 324728,
+      "name": "\u0412\u0456\u0434\u043f\u0443\u0441\u0442\u0438",
+      "url": "https://open.spotify.com/track/5IEHU7WIw059cVDCSnz8FX"
+    },
+    {
+      "added_at": "2024-07-12 16:17:45",
+      "album": {
         "name": "\u043f\u043b\u0430\u0432\u0438\u0442\u044c",
         "url": "https://open.spotify.com/album/0qOHXw5uBzji6DlRdqMmLB"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 140454,
       "name": "\u043f\u043b\u0430\u0432\u0438\u0442\u044c",
       "url": "https://open.spotify.com/track/3Lg76bdQ1Nl395dAhtaj15"
+    },
+    {
+      "added_at": "2024-07-12 16:17:45",
+      "album": {
+        "name": "\u0421\u0435\u0440\u0435\u0434 \u0437\u0438\u043c\u0438",
+        "url": "https://open.spotify.com/album/6u3t6mQmI5KTKCB7Jxckt8"
+      },
+      "artists": [
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
+        }
+      ],
+      "duration_ms": 215555,
+      "name": "\u0421\u0435\u0440\u0435\u0434 \u0437\u0438\u043c\u0438",
+      "url": "https://open.spotify.com/track/68LUQ0a4LOFKdopV19hQfT"
     },
     {
       "added_at": "2024-07-12 16:17:45",
@@ -875,22 +891,6 @@
     {
       "added_at": "2024-07-12 16:17:45",
       "album": {
-        "name": "\u0421\u0435\u0440\u0435\u0434 \u0437\u0438\u043c\u0438",
-        "url": "https://open.spotify.com/album/6u3t6mQmI5KTKCB7Jxckt8"
-      },
-      "artists": [
-        {
-          "name": "Adam",
-          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
-        }
-      ],
-      "duration_ms": 215555,
-      "name": "\u0421\u0435\u0440\u0435\u0434 \u0437\u0438\u043c\u0438",
-      "url": "https://open.spotify.com/track/68LUQ0a4LOFKdopV19hQfT"
-    },
-    {
-      "added_at": "2024-07-12 16:17:45",
-      "album": {
         "name": "\u041c\u0430\u0439\u0431\u0443\u0442\u043d\u0456\u0439 \u0430\u043b\u044c\u0431\u043e\u043c",
         "url": "https://open.spotify.com/album/2V4XWUQmIh8ofD2hyo1fwk"
       },
@@ -907,6 +907,26 @@
     {
       "added_at": "2024-07-12 16:17:45",
       "album": {
+        "name": "\u0442\u043e\u0436 \u0431\u0443\u0432\u0430\u0439",
+        "url": "https://open.spotify.com/album/0tuOGPeMyheBhAEUi5Nhpa"
+      },
+      "artists": [
+        {
+          "name": "temstime",
+          "url": "https://open.spotify.com/artist/2EKtYTgQP4Lu1PFE6yzEUi"
+        },
+        {
+          "name": "Love, Mary",
+          "url": "https://open.spotify.com/artist/7ppNgJPSCMBaqo6NBD1gvt"
+        }
+      ],
+      "duration_ms": 146181,
+      "name": "\u0442\u043e\u0436 \u0431\u0443\u0432\u0430\u0439",
+      "url": "https://open.spotify.com/track/2ZWphDlIe9amOdwGe4bgAW"
+    },
+    {
+      "added_at": "2024-07-12 16:17:45",
+      "album": {
         "name": "\u0406\u0441\u043a\u0440\u0430",
         "url": "https://open.spotify.com/album/4A26hszQR4hOxQm9JHnLjJ"
       },
@@ -919,22 +939,6 @@
       "duration_ms": 164161,
       "name": "\u0406\u0441\u043a\u0440\u0430",
       "url": "https://open.spotify.com/track/56BbaMW2BhfmDO1XuLlXaB"
-    },
-    {
-      "added_at": "2024-07-12 16:17:45",
-      "album": {
-        "name": "\u0427\u043e\u0440\u043d\u0438\u0439 \u043b\u0435\u0431\u0456\u0434\u044c",
-        "url": "https://open.spotify.com/album/52eVDoGR49BfRY64WG0QmQ"
-      },
-      "artists": [
-        {
-          "name": "Lely45",
-          "url": "https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw"
-        }
-      ],
-      "duration_ms": 146823,
-      "name": "\u0414\u0430\u0439 \u043c\u0435\u043d\u0456 \u0448\u0430\u043d\u0441",
-      "url": "https://open.spotify.com/track/4OUNPYTUH6NxOn8H6jRWPc"
     },
     {
       "added_at": "2024-07-12 16:17:45",
@@ -959,22 +963,18 @@
     {
       "added_at": "2024-07-12 16:17:45",
       "album": {
-        "name": "\u0442\u043e\u0436 \u0431\u0443\u0432\u0430\u0439",
-        "url": "https://open.spotify.com/album/0tuOGPeMyheBhAEUi5Nhpa"
+        "name": "\u0427\u043e\u0440\u043d\u0438\u0439 \u043b\u0435\u0431\u0456\u0434\u044c",
+        "url": "https://open.spotify.com/album/52eVDoGR49BfRY64WG0QmQ"
       },
       "artists": [
         {
-          "name": "temstime",
-          "url": "https://open.spotify.com/artist/2EKtYTgQP4Lu1PFE6yzEUi"
-        },
-        {
-          "name": "Love, Mary",
-          "url": "https://open.spotify.com/artist/7ppNgJPSCMBaqo6NBD1gvt"
+          "name": "Lely45",
+          "url": "https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw"
         }
       ],
-      "duration_ms": 146181,
-      "name": "\u0442\u043e\u0436 \u0431\u0443\u0432\u0430\u0439",
-      "url": "https://open.spotify.com/track/2ZWphDlIe9amOdwGe4bgAW"
+      "duration_ms": 146823,
+      "name": "\u0414\u0430\u0439 \u043c\u0435\u043d\u0456 \u0448\u0430\u043d\u0441",
+      "url": "https://open.spotify.com/track/4OUNPYTUH6NxOn8H6jRWPc"
     },
     {
       "added_at": "2024-07-12 16:17:45",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-07-12 16:17:45",
       "album": {
-        "name": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c",
-        "url": "https://open.spotify.com/album/1VR6uKHyaF3AmmzqqMJe7q"
-      },
-      "artists": [
-        {
-          "name": "alekkksa",
-          "url": "https://open.spotify.com/artist/3KiFi7CRRoB44ztX3jRyk0"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c",
-      "url": "https://open.spotify.com/track/2jr5gE5SOP2EKBGZWxtimw"
-    },
-    {
-      "added_at": "2024-07-12 16:17:45",
-      "album": {
         "name": "\u041f\u043e\u0434\u0456\u043b",
         "url": "https://open.spotify.com/album/2xeQKfvewh0YAXIjti6fsa"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 132991,
       "name": "\u041f\u043e\u0434\u0456\u043b",
       "url": "https://open.spotify.com/track/4J0bupIIezXeEt2Jcj02NN"
+    },
+    {
+      "added_at": "2024-07-12 16:17:45",
+      "album": {
+        "name": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c",
+        "url": "https://open.spotify.com/album/1VR6uKHyaF3AmmzqqMJe7q"
+      },
+      "artists": [
+        {
+          "name": "alekkksa",
+          "url": "https://open.spotify.com/artist/3KiFi7CRRoB44ztX3jRyk0"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c",
+      "url": "https://open.spotify.com/track/2jr5gE5SOP2EKBGZWxtimw"
     },
     {
       "added_at": "2024-07-12 16:17:45",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-07-12 16:17:45",
       "album": {
-        "name": "\u0427\u043e\u0433\u043e \u0443 \u0441\u043d\u0456",
-        "url": "https://open.spotify.com/album/13GfwgH5uMGPfjFRLKyhIe"
-      },
-      "artists": [
-        {
-          "name": "\u0422\u0432\u0456\u0439 \u0437\u0430\u0439\u0447\u0438\u043a \u043f\u0438\u0448\u0435",
-          "url": "https://open.spotify.com/artist/46dJPAcFc9mkxDUlXhSyYh"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "\u0427\u043e\u0433\u043e \u0443 \u0441\u043d\u0456",
-      "url": "https://open.spotify.com/track/6xHw8gPzCLRrcLBPsS2q4n"
-    },
-    {
-      "added_at": "2024-07-12 16:17:45",
-      "album": {
         "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0434\u0435\u043d\u044c \u043b\u0456\u0442\u0430",
         "url": "https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 198296,
       "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0434\u0435\u043d\u044c \u043b\u0456\u0442\u0430",
       "url": "https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw"
+    },
+    {
+      "added_at": "2024-07-12 16:17:45",
+      "album": {
+        "name": "\u0427\u043e\u0433\u043e \u0443 \u0441\u043d\u0456",
+        "url": "https://open.spotify.com/album/13GfwgH5uMGPfjFRLKyhIe"
+      },
+      "artists": [
+        {
+          "name": "\u0422\u0432\u0456\u0439 \u0437\u0430\u0439\u0447\u0438\u043a \u043f\u0438\u0448\u0435",
+          "url": "https://open.spotify.com/artist/46dJPAcFc9mkxDUlXhSyYh"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "\u0427\u043e\u0433\u043e \u0443 \u0441\u043d\u0456",
+      "url": "https://open.spotify.com/track/6xHw8gPzCLRrcLBPsS2q4n"
     },
     {
       "added_at": "2024-07-12 16:17:45",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-07-12 16:17:45",
       "album": {
-        "name": "\u0421\u0442\u0435\u043b\u044f",
-        "url": "https://open.spotify.com/album/2ywtrTHjc0s2nGAA7vEQAa"
-      },
-      "artists": [
-        {
-          "name": "\u0422\u0432\u0456\u0439 \u0437\u0430\u0439\u0447\u0438\u043a \u043f\u0438\u0448\u0435",
-          "url": "https://open.spotify.com/artist/46dJPAcFc9mkxDUlXhSyYh"
-        }
-      ],
-      "duration_ms": 94038,
-      "name": "\u0421\u0442\u0435\u043b\u044f",
-      "url": "https://open.spotify.com/track/1GxT5S0orNzMJ61M03i1mq"
-    },
-    {
-      "added_at": "2024-07-12 16:17:45",
-      "album": {
         "name": "\u0411\u0440\u0430\u0442 \u0421\u0435\u0441\u0442\u0440\u0430",
         "url": "https://open.spotify.com/album/06PQehMV8qO6zBKzHB7XCD"
       },
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2024-07-12 16:17:45",
       "album": {
-        "name": "\u041d\u0430 \u0441\u0430\u043c\u043e\u0442\u0456",
-        "url": "https://open.spotify.com/album/0MMu0fyYHvn4xl5I566v1O"
+        "name": "\u0421\u0442\u0435\u043b\u044f",
+        "url": "https://open.spotify.com/album/2ywtrTHjc0s2nGAA7vEQAa"
       },
       "artists": [
         {
-          "name": "\u041c\u0456\u044f \u0420\u0430\u043c\u0430\u0440\u0456",
-          "url": "https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y"
+          "name": "\u0422\u0432\u0456\u0439 \u0437\u0430\u0439\u0447\u0438\u043a \u043f\u0438\u0448\u0435",
+          "url": "https://open.spotify.com/artist/46dJPAcFc9mkxDUlXhSyYh"
         }
       ],
-      "duration_ms": 121333,
-      "name": "\u041d\u0430 \u0441\u0430\u043c\u043e\u0442\u0456",
-      "url": "https://open.spotify.com/track/7zshbb3VovaEaQR47csaEQ"
+      "duration_ms": 94038,
+      "name": "\u0421\u0442\u0435\u043b\u044f",
+      "url": "https://open.spotify.com/track/1GxT5S0orNzMJ61M03i1mq"
     },
     {
       "added_at": "2024-07-12 16:17:45",
@@ -1283,6 +1267,22 @@
       "duration_ms": 178755,
       "name": "\u042f \u0432\u0434\u043e\u043c\u0430",
       "url": "https://open.spotify.com/track/7fcIobA5JUkd90ad8y0cjO"
+    },
+    {
+      "added_at": "2024-07-12 16:17:45",
+      "album": {
+        "name": "\u041d\u0430 \u0441\u0430\u043c\u043e\u0442\u0456",
+        "url": "https://open.spotify.com/album/0MMu0fyYHvn4xl5I566v1O"
+      },
+      "artists": [
+        {
+          "name": "\u041c\u0456\u044f \u0420\u0430\u043c\u0430\u0440\u0456",
+          "url": "https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y"
+        }
+      ],
+      "duration_ms": 121333,
+      "name": "\u041d\u0430 \u0441\u0430\u043c\u043e\u0442\u0456",
+      "url": "https://open.spotify.com/track/7zshbb3VovaEaQR47csaEQ"
     },
     {
       "added_at": "2024-07-12 16:17:45",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-07-12 16:17:45",
       "album": {
-        "name": "\u041c\u0456\u0441\u0442\u043e. \u041c\u0443\u0437\u0438\u043a\u0430",
-        "url": "https://open.spotify.com/album/4XG0cirKxXBthRQIid82e4"
-      },
-      "artists": [
-        {
-          "name": "Lely45",
-          "url": "https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "\u041c\u0456\u0441\u0442\u043e. \u041c\u0443\u0437\u0438\u043a\u0430",
-      "url": "https://open.spotify.com/track/4qEa03hbf3pglMHGS7dYjw"
-    },
-    {
-      "added_at": "2024-07-12 16:17:45",
-      "album": {
         "name": "7.62 \u043c\u043c",
         "url": "https://open.spotify.com/album/3NCblVp7Ul5wKjHj0fNldl"
       },
@@ -1347,6 +1331,26 @@
       "duration_ms": 195622,
       "name": "7.62 \u043c\u043c",
       "url": "https://open.spotify.com/track/3tzOlbflkkp35cndRVdGho"
+    },
+    {
+      "added_at": "2024-07-12 16:17:45",
+      "album": {
+        "name": "\u041d\u0430\u043f\u0440\u044f\u0436\u043d\u043e",
+        "url": "https://open.spotify.com/album/557EwH5HgfHVzPch88XjXi"
+      },
+      "artists": [
+        {
+          "name": "\u0413\u0443\u0440\u0442 \u0414\u043d\u043e",
+          "url": "https://open.spotify.com/artist/4t9utcHzJznAOIInsK0SQg"
+        },
+        {
+          "name": "\u041e\u043b\u044f \u0428\u0443\u0440\u043e\u0432\u0430",
+          "url": "https://open.spotify.com/artist/4ManbdSYB5rKfEq71fAglf"
+        }
+      ],
+      "duration_ms": 125247,
+      "name": "\u041d\u0430\u043f\u0440\u044f\u0436\u043d\u043e",
+      "url": "https://open.spotify.com/track/0hhzD69nOJ2qTAR1AFIzsr"
     }
   ],
   "unique_name": "\u0456\u043d\u0434\u0456",

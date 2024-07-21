@@ -1,13 +1,29 @@
 {
   "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
-  "num_followers": 49995,
+  "num_followers": 50030,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZphbAAAAAABp+0RiDH1Vo2jLwZ9B86/t",
+  "snapshot_id": "ZpmsgAAAAACKbUfSpotPYnaMXc9QDKwf",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/6tf7wrgiVsVPoiI6wTUwnl"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 191194,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/3ioX4MCteVUN8LjbtlOC0c"
+    },
     {
       "added_at": null,
       "album": {
@@ -391,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KOIBUMI",
-        "url": "https://open.spotify.com/album/2zI6Rce9bvVZtXgazjhD6D"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 240285,
-      "name": "KOIBUMI",
-      "url": "https://open.spotify.com/track/1aT8DhQBZcLIMLTBaFIwi6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Freaks",
         "url": "https://open.spotify.com/album/5Z2m5xN45b5OvINBkhaUBE"
       },
@@ -427,6 +427,22 @@
       "duration_ms": 133802,
       "name": "Freaks",
       "url": "https://open.spotify.com/track/33uyQcKrKlGSOQSO3hrtpj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KOIBUMI",
+        "url": "https://open.spotify.com/album/2zI6Rce9bvVZtXgazjhD6D"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 240285,
+      "name": "KOIBUMI",
+      "url": "https://open.spotify.com/track/1aT8DhQBZcLIMLTBaFIwi6"
     },
     {
       "added_at": null,
@@ -467,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Edge",
-        "url": "https://open.spotify.com/album/38tSiz1dWutOylg4K0b1WF"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 163790,
-      "name": "The Edge",
-      "url": "https://open.spotify.com/track/1YQ6997r5wOIYmYBkDer2i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HELLO (from The Tiger's Apprentice)",
         "url": "https://open.spotify.com/album/4eCOedqcXqpKnu3wsRRVdf"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 153065,
       "name": "HELLO (from The Tiger's Apprentice)",
       "url": "https://open.spotify.com/track/6tmP2DtGTamdlOK7t5rjNB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Edge",
+        "url": "https://open.spotify.com/album/38tSiz1dWutOylg4K0b1WF"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 163790,
+      "name": "The Edge",
+      "url": "https://open.spotify.com/track/1YQ6997r5wOIYmYBkDer2i"
     },
     {
       "added_at": null,
@@ -640,9 +656,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 237800,
-      "name": "wakaranai",
-      "url": "https://open.spotify.com/track/3eusuilhnPfka2GnCPI1w1"
+      "duration_ms": 253866,
+      "name": "zzz",
+      "url": "https://open.spotify.com/track/6AFyBKENjWJBxwjcFTtEpo"
     },
     {
       "added_at": null,
@@ -672,9 +688,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 253866,
-      "name": "zzz",
-      "url": "https://open.spotify.com/track/6AFyBKENjWJBxwjcFTtEpo"
+      "duration_ms": 237800,
+      "name": "wakaranai",
+      "url": "https://open.spotify.com/track/3eusuilhnPfka2GnCPI1w1"
     },
     {
       "added_at": null,

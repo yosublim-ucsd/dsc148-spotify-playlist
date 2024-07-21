@@ -2,7 +2,7 @@
 
 ### [This Is Phil Wickham](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33TpHq)
 
-> This Is Phil Wickham\. Kaikki olennaiset kappaleet yhdessä soittolistassa.
+> This is Phil Wickham\. The essential tracks, all in one playlist.
 
 54 songs - 4 hr 14 min
 

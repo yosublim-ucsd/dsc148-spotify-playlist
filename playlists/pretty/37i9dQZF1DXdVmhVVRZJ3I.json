@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 276884,
+  "num_followers": 276912,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -439,30 +439,6 @@
     {
       "added_at": "2024-07-19 03:03:00",
       "album": {
-        "name": "Move Your Body (Ti\u00ebsto Edit)",
-        "url": "https://open.spotify.com/album/4S7vkTViiQhVqjtRfs09Cz"
-      },
-      "artists": [
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "Move Your Body - Ti\u00ebsto Edit",
-      "url": "https://open.spotify.com/track/6fKNqD073GoAQwpY7xyWVK"
-    },
-    {
-      "added_at": "2024-07-19 03:03:00",
-      "album": {
         "name": "Human (Remix)",
         "url": "https://open.spotify.com/album/5gV5YLk7ehBmnLzoj1ftOo"
       },
@@ -483,6 +459,30 @@
       "duration_ms": 211024,
       "name": "Human (Remix)",
       "url": "https://open.spotify.com/track/0bVp6yZEUrJzOm2agoFYZm"
+    },
+    {
+      "added_at": "2024-07-19 03:03:00",
+      "album": {
+        "name": "Move Your Body (Ti\u00ebsto Edit)",
+        "url": "https://open.spotify.com/album/4S7vkTViiQhVqjtRfs09Cz"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "Move Your Body - Ti\u00ebsto Edit",
+      "url": "https://open.spotify.com/track/6fKNqD073GoAQwpY7xyWVK"
     },
     {
       "added_at": "2024-07-19 03:03:00",
@@ -927,18 +927,22 @@
     {
       "added_at": "2024-07-19 03:03:00",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/7a5CUFbjwkJI6aGUAQONub"
+        "name": "Fria (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/71PHfxas0RxjsP7REVxbQa"
       },
       "artists": [
         {
-          "name": "Jack Back",
-          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
         }
       ],
-      "duration_ms": 158639,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/1q1ECI7iGvuYsEilkZRC1m"
+      "duration_ms": 160483,
+      "name": "Fria - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/44CPdSxbOvhrmvt8O3cVJk"
     },
     {
       "added_at": "2024-07-19 03:03:00",
@@ -967,6 +971,22 @@
       "duration_ms": 129000,
       "name": "Atomic Bomb (feat. Juan Alcasar)",
       "url": "https://open.spotify.com/track/1Ge8px4DSNseb1atf9XumE"
+    },
+    {
+      "added_at": "2024-07-19 03:03:00",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/7a5CUFbjwkJI6aGUAQONub"
+      },
+      "artists": [
+        {
+          "name": "Jack Back",
+          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
+        }
+      ],
+      "duration_ms": 158639,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/1q1ECI7iGvuYsEilkZRC1m"
     },
     {
       "added_at": "2024-07-19 03:03:00",
@@ -1019,30 +1039,6 @@
     {
       "added_at": "2024-07-19 03:03:00",
       "album": {
-        "name": "Oscillator (Jack Is Back)",
-        "url": "https://open.spotify.com/album/6IyQxAbhpHfUeL3zbjNx0z"
-      },
-      "artists": [
-        {
-          "name": "illusionize",
-          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
-        },
-        {
-          "name": "DJ Glen",
-          "url": "https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd"
-        },
-        {
-          "name": "Chuck Roberts",
-          "url": "https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu"
-        }
-      ],
-      "duration_ms": 168629,
-      "name": "Oscillator (Jack Is Back)",
-      "url": "https://open.spotify.com/track/6WPazu06dUe2cQ95KbS6NN"
-    },
-    {
-      "added_at": "2024-07-19 03:03:00",
-      "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/6o3vNyPtF8yDAhlnrwKJ6v"
       },
@@ -1063,26 +1059,26 @@
     {
       "added_at": "2024-07-19 03:03:00",
       "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/6gfGUXVaqfEKv8x9jaJ3LP"
+        "name": "Oscillator (Jack Is Back)",
+        "url": "https://open.spotify.com/album/6IyQxAbhpHfUeL3zbjNx0z"
       },
       "artists": [
         {
-          "name": "Jean Juan",
-          "url": "https://open.spotify.com/artist/0BdqSoiFVJSplPq3KSySFz"
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
         },
         {
-          "name": "Francisco",
-          "url": "https://open.spotify.com/artist/0t2ewh8ZZdrDruJgjnMTCF"
+          "name": "DJ Glen",
+          "url": "https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd"
         },
         {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+          "name": "Chuck Roberts",
+          "url": "https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/6JDjacug968YX4P56tJwMt"
+      "duration_ms": 168629,
+      "name": "Oscillator (Jack Is Back)",
+      "url": "https://open.spotify.com/track/6WPazu06dUe2cQ95KbS6NN"
     },
     {
       "added_at": "2024-07-19 03:03:00",

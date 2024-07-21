@@ -1,6 +1,6 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=eMGAGfGpQsWF4Xx05Adw2g>Sunmisola Agbebi</a>",
-  "num_followers": 10268,
+  "num_followers": 10275,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
@@ -365,22 +365,6 @@
       "url": "https://open.spotify.com/track/5FAGIf4yjvXLNETnWJzkF1"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "Anytime Anyday",
-        "url": "https://open.spotify.com/album/7HDwkbzwTBQUiQog0OjUGC"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 206723,
-      "name": "Anytime Anyday",
-      "url": "https://open.spotify.com/track/1anvi7u6XDv03ZoPQc8e4r"
-    },
-    {
       "added_at": "2024-03-08 00:01:00",
       "album": {
         "name": "Jesus, Lamb Of God (Live)",
@@ -399,6 +383,22 @@
       "duration_ms": 520293,
       "name": "Jesus, Lamb Of God - Live",
       "url": "https://open.spotify.com/track/08nS6fLDRnrMH9k5JxT6hr"
+    },
+    {
+      "added_at": "2024-06-07 00:01:00",
+      "album": {
+        "name": "Anytime Anyday",
+        "url": "https://open.spotify.com/album/7HDwkbzwTBQUiQog0OjUGC"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 206723,
+      "name": "Anytime Anyday",
+      "url": "https://open.spotify.com/track/1anvi7u6XDv03ZoPQc8e4r"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -637,26 +637,6 @@
       "url": "https://open.spotify.com/track/0aq8tNf7KTwvZf98EC2XO8"
     },
     {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "Faithful",
-        "url": "https://open.spotify.com/album/0lHS9xhfCMCZ9fSgvPMrol"
-      },
-      "artists": [
-        {
-          "name": "Tomi Favored",
-          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
-        },
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 375723,
-      "name": "Faithful",
-      "url": "https://open.spotify.com/track/0bWrdctV8cOeq7pZdcw3JC"
-    },
-    {
       "added_at": "2024-05-03 00:01:00",
       "album": {
         "name": "Higher",
@@ -675,6 +655,26 @@
       "duration_ms": 162223,
       "name": "Higher",
       "url": "https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Faithful",
+        "url": "https://open.spotify.com/album/0lHS9xhfCMCZ9fSgvPMrol"
+      },
+      "artists": [
+        {
+          "name": "Tomi Favored",
+          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 375723,
+      "name": "Faithful",
+      "url": "https://open.spotify.com/track/0bWrdctV8cOeq7pZdcw3JC"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/4mEl4NNDrzWLXC60nVlvnM"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "Yewo",
-        "url": "https://open.spotify.com/album/4BlGgfSDbniELn7AvOd0zM"
-      },
-      "artists": [
-        {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Yewo",
-      "url": "https://open.spotify.com/track/24q2NrlyFV3htvw0EqqJvE"
-    },
-    {
       "added_at": "2024-01-05 00:01:00",
       "album": {
         "name": "after all these years",
@@ -763,6 +747,22 @@
       "duration_ms": 268365,
       "name": "After All These Years",
       "url": "https://open.spotify.com/track/3ruNtWNKVsgAZ4YF9ybSl6"
+    },
+    {
+      "added_at": "2024-06-07 00:01:00",
+      "album": {
+        "name": "Yewo",
+        "url": "https://open.spotify.com/album/4BlGgfSDbniELn7AvOd0zM"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Yewo",
+      "url": "https://open.spotify.com/track/24q2NrlyFV3htvw0EqqJvE"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -815,6 +815,22 @@
       "duration_ms": 184337,
       "name": "Blessed Year",
       "url": "https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "Count My Blessings",
+        "url": "https://open.spotify.com/album/7cr2lkX9TqXS0uN0v5lPoX"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "duration_ms": 162893,
+      "name": "Count My Blessings",
+      "url": "https://open.spotify.com/track/43ZHlCWp1TAA1dyMxNh28L"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -909,40 +925,28 @@
       "url": "https://open.spotify.com/track/6SYKC5FbXfQqs4wQWviaXX"
     },
     {
-      "added_at": "2024-06-28 00:01:00",
+      "added_at": "2024-07-12 00:01:00",
       "album": {
-        "name": "BABA",
-        "url": "https://open.spotify.com/album/6jXXw60JwgQJczltb0uMmy"
+        "name": "Nothing But The Blood (Live)",
+        "url": "https://open.spotify.com/album/73k5ivCtC4hKJeeTKuZM2n"
       },
       "artists": [
         {
-          "name": "Callie4k",
-          "url": "https://open.spotify.com/artist/2j9rROYpEIotEUlh8FescC"
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
         },
         {
-          "name": "ManLikeStunna",
-          "url": "https://open.spotify.com/artist/2vHJNXr3Xe6p0wi2YPSXxL"
-        }
-      ],
-      "duration_ms": 144300,
-      "name": "BABA",
-      "url": "https://open.spotify.com/track/2D8XyKuIJEFxlRxboY3Bab"
-    },
-    {
-      "added_at": "2024-06-14 00:01:00",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6SXKoXwDn8T4NG0sPS4sEc"
-      },
-      "artists": [
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        },
         {
-          "name": "Uniekgrace",
-          "url": "https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7"
+          "name": "Kymberli Joye",
+          "url": "https://open.spotify.com/artist/3ret0C6J9DmZnqtQuptnfy"
         }
       ],
-      "duration_ms": 158746,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/4iA6XeCs04NrmGPnmQdCyT"
+      "duration_ms": 445533,
+      "name": "Nothing But The Blood - Live",
+      "url": "https://open.spotify.com/track/0QWtBHKR8yLhA2H55TyB2h"
     }
   ],
   "unique_name": "Redeemed",

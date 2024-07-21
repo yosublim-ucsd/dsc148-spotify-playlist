@@ -1,13 +1,29 @@
 {
-  "description": "This is Pedro Cap\u00f3. Les chansons essentielles, toutes regroup\u00e9es dans une seule liste de lecture.",
-  "num_followers": 64766,
+  "description": "This Is Pedro Cap\u00f3. Los temas esenciales, todos en una lista.",
+  "num_followers": 64797,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZphbAAAAAAAj9IUAFqBW3QtzpS+Uv9qV",
+  "snapshot_id": "ZpmsgAAAAAD+TcifPlRVyh1iYlbdv/WU",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sabe Bien",
+        "url": "https://open.spotify.com/album/2ntsVWNEOkxCYevBecgpvq"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 160723,
+      "name": "Sabe Bien",
+      "url": "https://open.spotify.com/track/36LDPQfypNqhflhok841qb"
+    },
     {
       "added_at": null,
       "album": {

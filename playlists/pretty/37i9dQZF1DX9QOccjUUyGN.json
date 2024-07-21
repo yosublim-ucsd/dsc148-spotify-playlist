@@ -1,6 +1,6 @@
 {
   "description": "tranquilo e calmo, no flow. Foto: MC Rogerinho, WIU",
-  "num_followers": 16491,
+  "num_followers": 16490,
   "original_name": "tamo flex",
   "owner": {
     "name": "Spotify",
@@ -280,16 +280,16 @@
       },
       "artists": [
         {
-          "name": "SoudCrime",
-          "url": "https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg"
-        },
-        {
           "name": "Chris Beats Zn",
           "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
         },
         {
           "name": "BG70",
           "url": "https://open.spotify.com/artist/1zoPugTFUOjfJo2J90ghDw"
+        },
+        {
+          "name": "SoudCrime",
+          "url": "https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg"
         }
       ],
       "duration_ms": 165937,

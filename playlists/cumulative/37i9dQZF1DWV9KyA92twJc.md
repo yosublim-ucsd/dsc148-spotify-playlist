@@ -4,7 +4,7 @@
 
 > תחנת הרדיו הפרטית שלכם\. שירים יפים מישראל והעולם\. עטיפה: נועה קירל
 
-109 songs - 5 hr 51 min
+110 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 | 2024-06-20 |  |
 | [Sink Or Swim](https://open.spotify.com/track/4FDDExmv76Da7aaFqxbxVp) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:34 | 2024-07-18 |  |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2024-06-20 |  |
+| [Sweet Oblivion](https://open.spotify.com/track/62ZeAQ8DHdCXJqPQVOTsKu) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Sweet Oblivion](https://open.spotify.com/album/07gvXUNtRMXI98Hf3dd118) | 2:15 | 2024-07-18 |  |
 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2024-06-20 |  |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 | 2024-06-20 |  |
 | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT) | 2:45 | 2024-06-20 |  |
@@ -89,7 +90,7 @@
 | [כל החיים](https://open.spotify.com/track/6V4HfYE5RAObktButIRj3Q) | [Boom Pam](https://open.spotify.com/artist/7srYnoskZP2OeiErBz333J), [Shai Tsabari](https://open.spotify.com/artist/0T0COcAFHD9oZ704HbZr2A) | [כל החיים](https://open.spotify.com/album/7lIHyWYs1wRbk1GxAIY7oG) | 3:43 | 2024-06-20 | 2024-07-05 |
 | [כפרה לנד](https://open.spotify.com/track/1Sw4FRafnTe0BLumLcpi3N) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG), [עידו בי](https://open.spotify.com/artist/1obWO7PfWL5n6oyqB984OQ) | [כפרה לנד](https://open.spotify.com/album/2I1xx5j5N0yQhdSDAGsHZx) | 2:24 | 2024-07-04 |  |
 | [להרים](https://open.spotify.com/track/38F5Qet7NykRGvr3C7KDJR) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [להרים](https://open.spotify.com/album/5d2zNtTFTHLMOmSZw3SFCC) | 2:15 | 2024-06-20 | 2024-07-05 |
-| [לחגוג ומגוג](https://open.spotify.com/track/7do5HTFZLs7swQHiBe8rQz) | [שחר סאול](https://open.spotify.com/artist/46KxKVpK7XNqlkdi5oiMxE), [Ella Lee](https://open.spotify.com/artist/0wVxjQGYkyNh5qQsVCZWlo), [הפשוטע](https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb) | [לחגוג ומגוג](https://open.spotify.com/album/6tBtsrQRiZ46WSNnTVR9Ld) | 2:25 | 2024-06-20 |  |
+| [לחגוג ומגוג](https://open.spotify.com/track/7do5HTFZLs7swQHiBe8rQz) | [שחר סאול](https://open.spotify.com/artist/46KxKVpK7XNqlkdi5oiMxE), [Ella Lee](https://open.spotify.com/artist/0wVxjQGYkyNh5qQsVCZWlo), [הפשוטע](https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb) | [לחגוג ומגוג](https://open.spotify.com/album/6tBtsrQRiZ46WSNnTVR9Ld) | 2:25 | 2024-06-20 | 2024-07-21 |
 | [למה את?](https://open.spotify.com/track/7rdPtMBZmQpSBraOq8ppuI) | [ילד.](https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG) | [למה את?](https://open.spotify.com/album/4bJP264v4vbf2y7HY9bCHk) | 3:13 | 2024-06-20 |  |
 | [לצאת מדיכאון](https://open.spotify.com/track/0E9S1H3TktlpHmGyuKEfkL) | [יגל אושרי](https://open.spotify.com/artist/6Kn2CjfEButrWXszsA0E6Q) | [לצאת מדיכאון](https://open.spotify.com/album/3yKhRbzXdiublxlbHo69JF) | 3:10 | 2024-06-20 |  |
 | [מי ירפא](https://open.spotify.com/track/2ztDViJS3DJh3xHREOxZlo) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z), [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [מרגיש כמו אהבה](https://open.spotify.com/album/0KhefYfT3hXwyUwis6u77M) | 2:22 | 2024-06-20 | 2024-07-05 |

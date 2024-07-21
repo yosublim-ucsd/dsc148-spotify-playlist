@@ -6082,7 +6082,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 264981,
       "name": "My Soul's Demise",
       "url": "https://open.spotify.com/track/1qdcekW1mcuwc193IutEFu"
@@ -10118,6 +10118,24 @@
       "duration_ms": 228408,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/74ameKBF6bcaHN7O6Knmqw"
+    },
+    {
+      "album": {
+        "name": "Two Worlds",
+        "url": "https://open.spotify.com/album/3Dk6K6o5C7CYneaR4CWTqM"
+      },
+      "artists": [
+        {
+          "name": "Xandria",
+          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428440,
+      "name": "Two Worlds",
+      "url": "https://open.spotify.com/track/7h2VMgWJQXFRZyv1VqZAPF"
     },
     {
       "album": {

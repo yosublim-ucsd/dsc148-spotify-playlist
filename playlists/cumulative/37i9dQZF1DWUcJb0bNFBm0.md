@@ -4,7 +4,7 @@
 
 > Noise distortion amongst the hazy clouds ☁️ \(Cover:  Drizzly\)
 
-104 songs - 7 hr 39 min
+105 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Doll](https://open.spotify.com/track/718j4dLgigKSHiRYiHuhMC) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Doll](https://open.spotify.com/album/233GhcZaDayKcSfRtx5rW3) | 3:31 | 2024-06-27 |  |
 | [Don't Get Yourself Dry](https://open.spotify.com/track/3CKSC3Wnq38bitaDJT1scQ) | [GAZEKATE](https://open.spotify.com/artist/4F8TQLHmLbfQbaewX40glp) | [Don't Get Yourself Dry](https://open.spotify.com/album/2QE4Yfo1KiIgpN6Hng3oh6) | 4:20 | 2024-06-27 |  |
 | [Dreaming Alone or Together \- Bonus Track](https://open.spotify.com/track/7LXVCqcHEXUKze1GuyHjeO) | [Precocious Neophyte](https://open.spotify.com/artist/5kPW0F59KHeCSj2dQsiqfH) | [Dreaming Alone or Together \(Bonus Track\)](https://open.spotify.com/album/32jDcy43AE0wow0QmAS7zO) | 3:52 | 2024-06-27 |  |
+| [Driven By Wanderlust](https://open.spotify.com/track/0oHUkg1oE93UUqUCYZshuj) | [Drotoch](https://open.spotify.com/artist/1gkL2IZQpyIM7qXG1Zep7U) | [Driven By Wanderlust](https://open.spotify.com/album/2MHaK1TaauTVrW6eGd4DyL) | 3:24 | 2024-07-19 |  |
 | [Dua Angsa \- Remastered 2023](https://open.spotify.com/track/6GEugjRX4lMrDE7B8UEuuZ) | [Hazel](https://open.spotify.com/artist/3BeR8fsabzQWl15Kx0yFO8), [Pingkan Dive Collate](https://open.spotify.com/artist/5IAsTCrRJdzSnieVaYICm5) | [Dua Angsa \(Remastered 2023\)](https://open.spotify.com/album/0kxukdm90YZsIPKgr2KSOi) | 4:22 | 2024-06-27 |  |
 | [Edges](https://open.spotify.com/track/1VKEi2gCOilCg9pM8dPo1j) | [meeve](https://open.spotify.com/artist/5WP6R7bAjeetDf7rZJQiMp) | [Edges](https://open.spotify.com/album/4GgGiHSIATT5mTsZ8nIn33) | 3:43 | 2024-06-27 |  |
 | [Endless Emotions](https://open.spotify.com/track/5q0hWAGPxg7pwctEzntHAU) | [Death Of Heather](https://open.spotify.com/artist/3O2fulTH5rTS4ttjPPI4rS) | [Forever](https://open.spotify.com/album/5jTFdGObfWZEideEm391F2) | 5:19 | 2024-06-27 |  |

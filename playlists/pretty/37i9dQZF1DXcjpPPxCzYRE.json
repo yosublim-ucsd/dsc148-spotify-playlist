@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 403956,
+  "num_followers": 403982,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-07-12 12:40:14",
       "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/2kzjVxsgT41txC1GIMMx3C"
-      },
-      "artists": [
-        {
-          "name": "Luis Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
-        }
-      ],
-      "duration_ms": 203013,
-      "name": "Al Alba",
-      "url": "https://open.spotify.com/track/0Sycs2Q0ejSwwwk3DS13iA"
-    },
-    {
-      "added_at": "2024-07-12 12:40:14",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 184548,
       "name": "ocean eyes - Recorded Live at Jungle City Studios",
       "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
+    },
+    {
+      "added_at": "2024-07-12 12:40:14",
+      "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/2kzjVxsgT41txC1GIMMx3C"
+      },
+      "artists": [
+        {
+          "name": "Luis Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
+        }
+      ],
+      "duration_ms": 203013,
+      "name": "Al Alba",
+      "url": "https://open.spotify.com/track/0Sycs2Q0ejSwwwk3DS13iA"
     },
     {
       "added_at": "2024-07-12 12:40:14",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2024-07-12 12:40:14",
       "album": {
-        "name": "Madrid",
-        "url": "https://open.spotify.com/album/2ZXY7q485ZgTRc9qiw4uGA"
-      },
-      "artists": [
-        {
-          "name": "Pajaro Sunrise",
-          "url": "https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq"
-        },
-        {
-          "name": "Yuri M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H"
-        }
-      ],
-      "duration_ms": 240622,
-      "name": "Madrid",
-      "url": "https://open.spotify.com/track/6DQQzhWtXNwnFrp3EZRCx7"
-    },
-    {
-      "added_at": "2024-07-12 12:40:14",
-      "album": {
         "name": "Es el Momento",
         "url": "https://open.spotify.com/album/7BoNtzLMhBC8TfqF7QEMTY"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 220448,
       "name": "El Amor",
       "url": "https://open.spotify.com/track/1Ml84YcdHdi34tYc3QEXxf"
+    },
+    {
+      "added_at": "2024-07-12 12:40:14",
+      "album": {
+        "name": "Madrid",
+        "url": "https://open.spotify.com/album/2ZXY7q485ZgTRc9qiw4uGA"
+      },
+      "artists": [
+        {
+          "name": "Pajaro Sunrise",
+          "url": "https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq"
+        },
+        {
+          "name": "Yuri M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H"
+        }
+      ],
+      "duration_ms": 240622,
+      "name": "Madrid",
+      "url": "https://open.spotify.com/track/6DQQzhWtXNwnFrp3EZRCx7"
     },
     {
       "added_at": "2024-07-12 12:40:14",
@@ -1179,6 +1179,22 @@
       "duration_ms": 165882,
       "name": "Ca\u00edmos las dos",
       "url": "https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J"
+    },
+    {
+      "added_at": "2024-07-12 12:40:14",
+      "album": {
+        "name": "_BCN626",
+        "url": "https://open.spotify.com/album/6IPGEB4W7g8u88NWZgVLEA"
+      },
+      "artists": [
+        {
+          "name": "_juno",
+          "url": "https://open.spotify.com/artist/4CwB3q2FWy0SqxMfCSRrJP"
+        }
+      ],
+      "duration_ms": 184746,
+      "name": "_El Infinito",
+      "url": "https://open.spotify.com/track/6W5Qfu0c3kCFRsD1mNClIB"
     },
     {
       "added_at": "2024-07-12 12:40:14",
@@ -1263,6 +1279,22 @@
     {
       "added_at": "2024-07-12 12:40:14",
       "album": {
+        "name": "reverie",
+        "url": "https://open.spotify.com/album/4aZGAh90HuhACBbHn9becT"
+      },
+      "artists": [
+        {
+          "name": "isaac gracie",
+          "url": "https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb"
+        }
+      ],
+      "duration_ms": 343249,
+      "name": "reverie",
+      "url": "https://open.spotify.com/track/1g2eirb8uaYn54iEYZl3CS"
+    },
+    {
+      "added_at": "2024-07-12 12:40:14",
+      "album": {
         "name": "Chilleando por Madrid",
         "url": "https://open.spotify.com/album/3vNNIS0eZY0cu45dYfq6q8"
       },
@@ -1279,22 +1311,6 @@
       "duration_ms": 234922,
       "name": "Chilleando por Madrid",
       "url": "https://open.spotify.com/track/5aMpFYfR9ixFBje9eeZMGE"
-    },
-    {
-      "added_at": "2024-07-12 12:40:14",
-      "album": {
-        "name": "reverie",
-        "url": "https://open.spotify.com/album/4aZGAh90HuhACBbHn9becT"
-      },
-      "artists": [
-        {
-          "name": "isaac gracie",
-          "url": "https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb"
-        }
-      ],
-      "duration_ms": 343249,
-      "name": "reverie",
-      "url": "https://open.spotify.com/track/1g2eirb8uaYn54iEYZl3CS"
     },
     {
       "added_at": "2024-07-12 12:40:14",
@@ -1351,18 +1367,18 @@
     {
       "added_at": "2024-07-12 12:40:14",
       "album": {
-        "name": "El Cervatillo",
-        "url": "https://open.spotify.com/album/2qCzPfroFLBsxrZaPT7hlG"
+        "name": "SUDANDO",
+        "url": "https://open.spotify.com/album/1MZVcuVoxAZbC4C6KKePRR"
       },
       "artists": [
         {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+          "name": "Confeti de Odio",
+          "url": "https://open.spotify.com/artist/3C1CPJ9K2aeHuj1x22B0qJ"
         }
       ],
-      "duration_ms": 307519,
-      "name": "El Cervatillo",
-      "url": "https://open.spotify.com/track/6vAoXRdls7zSYTQFoK0qaa"
+      "duration_ms": 117091,
+      "name": "SUDANDO",
+      "url": "https://open.spotify.com/track/467bCbzFtT127cI2WM9rNU"
     },
     {
       "added_at": "2024-07-12 12:40:14",
@@ -1379,6 +1395,22 @@
       "duration_ms": 197213,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM"
+    },
+    {
+      "added_at": "2024-07-12 12:40:14",
+      "album": {
+        "name": "El Cervatillo",
+        "url": "https://open.spotify.com/album/2qCzPfroFLBsxrZaPT7hlG"
+      },
+      "artists": [
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        }
+      ],
+      "duration_ms": 307519,
+      "name": "El Cervatillo",
+      "url": "https://open.spotify.com/track/6vAoXRdls7zSYTQFoK0qaa"
     },
     {
       "added_at": "2024-07-12 12:40:14",
@@ -1415,26 +1447,6 @@
     {
       "added_at": "2024-07-12 12:40:14",
       "album": {
-        "name": "La ventanita",
-        "url": "https://open.spotify.com/album/1OP7vJmHVQJZRwjwdjEtoS"
-      },
-      "artists": [
-        {
-          "name": "Pajaro Sunrise",
-          "url": "https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq"
-        },
-        {
-          "name": "Yuri M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H"
-        }
-      ],
-      "duration_ms": 255168,
-      "name": "La ventanita",
-      "url": "https://open.spotify.com/track/2UqZmktTdRxCOfZ9VDBuX0"
-    },
-    {
-      "added_at": "2024-07-12 12:40:14",
-      "album": {
         "name": "Al o\u00edrla cantar",
         "url": "https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h"
       },
@@ -1451,6 +1463,26 @@
       "duration_ms": 336330,
       "name": "Al o\u00edrla cantar",
       "url": "https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t"
+    },
+    {
+      "added_at": "2024-07-12 12:40:14",
+      "album": {
+        "name": "La ventanita",
+        "url": "https://open.spotify.com/album/1OP7vJmHVQJZRwjwdjEtoS"
+      },
+      "artists": [
+        {
+          "name": "Pajaro Sunrise",
+          "url": "https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq"
+        },
+        {
+          "name": "Yuri M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H"
+        }
+      ],
+      "duration_ms": 255168,
+      "name": "La ventanita",
+      "url": "https://open.spotify.com/track/2UqZmktTdRxCOfZ9VDBuX0"
     },
     {
       "added_at": "2024-07-12 12:40:14",
@@ -1487,22 +1519,6 @@
       "duration_ms": 178434,
       "name": "Fuegos Artificiales",
       "url": "https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ"
-    },
-    {
-      "added_at": "2024-07-12 12:40:14",
-      "album": {
-        "name": "Si Entras T\u00fa",
-        "url": "https://open.spotify.com/album/4GsLOIVspA9gbCfGMCOZQc"
-      },
-      "artists": [
-        {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
-        }
-      ],
-      "duration_ms": 159299,
-      "name": "Si Entras T\u00fa",
-      "url": "https://open.spotify.com/track/6n2WRPkRDZzuijN5ugt7EL"
     },
     {
       "added_at": "2024-07-12 12:40:14",
@@ -1559,34 +1575,18 @@
     {
       "added_at": "2024-07-12 12:40:14",
       "album": {
-        "name": "_BCN626",
-        "url": "https://open.spotify.com/album/6IPGEB4W7g8u88NWZgVLEA"
+        "name": "Si Entras T\u00fa",
+        "url": "https://open.spotify.com/album/4GsLOIVspA9gbCfGMCOZQc"
       },
       "artists": [
         {
-          "name": "_juno",
-          "url": "https://open.spotify.com/artist/4CwB3q2FWy0SqxMfCSRrJP"
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
         }
       ],
-      "duration_ms": 184746,
-      "name": "_El Infinito",
-      "url": "https://open.spotify.com/track/6W5Qfu0c3kCFRsD1mNClIB"
-    },
-    {
-      "added_at": "2024-07-12 12:40:14",
-      "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
-      },
-      "artists": [
-        {
-          "name": "Anne Lukin",
-          "url": "https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL"
-        }
-      ],
-      "duration_ms": 151027,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
+      "duration_ms": 159299,
+      "name": "Si Entras T\u00fa",
+      "url": "https://open.spotify.com/track/6n2WRPkRDZzuijN5ugt7EL"
     },
     {
       "added_at": "2024-07-12 12:40:14",
@@ -1603,6 +1603,22 @@
       "duration_ms": 195541,
       "name": "Canci\u00f3n de Cuna para Gabriel y Nicol\u00e1s - Tema inclu\u00eddo en la Banda Sonora Original \"Blue & Malone Casos Imposibles\"",
       "url": "https://open.spotify.com/track/2Nj6b1tSxcMdLGNp9UOkGy"
+    },
+    {
+      "added_at": "2024-07-12 12:40:14",
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
+      },
+      "artists": [
+        {
+          "name": "Anne Lukin",
+          "url": "https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL"
+        }
+      ],
+      "duration_ms": 151027,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
     },
     {
       "added_at": "2024-07-12 12:40:14",
@@ -1651,26 +1667,6 @@
       "duration_ms": 203003,
       "name": "Kevin",
       "url": "https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ"
-    },
-    {
-      "added_at": "2024-07-12 12:40:14",
-      "album": {
-        "name": "Tu",
-        "url": "https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS"
-      },
-      "artists": [
-        {
-          "name": "Judit Neddermann",
-          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
-        },
-        {
-          "name": "Vernat",
-          "url": "https://open.spotify.com/artist/5lxFyGjIisTPiz6W2MiOm9"
-        }
-      ],
-      "duration_ms": 163402,
-      "name": "Tu",
-      "url": "https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh"
     }
   ],
   "unique_name": "Relax en casa",

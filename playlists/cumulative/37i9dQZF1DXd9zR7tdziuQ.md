@@ -4,7 +4,7 @@
 
 > Relájate con tus canciones favoritas en versión acústica / Descontrai com versões acústicas das tuas músicas preferidas.
 
-222 songs - 13 hr 12 min
+223 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Give Me Everything](https://open.spotify.com/track/5AZWf9rIKcTBGsHfRDOb3M) | [Q.Z.B](https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG) | [Give Me Everything](https://open.spotify.com/album/0A28FCqEuG6uiAHIPQcLwe) | 3:12 | 2022-08-25 |  |
 | [Halo](https://open.spotify.com/track/5mVDhLnXTHlBWJnMHXa9Qs) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [The Bluebird of Happiness](https://open.spotify.com/album/4WnodV9BrrFECJxQo56FrX) | 4:29 | 2022-08-25 |  |
 | [Havana \- Acoustic](https://open.spotify.com/track/0P2HFqXUhqvdZ2bS8doDjR) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [Covers](https://open.spotify.com/album/51FVeMKotCRXxe2BKfTVTT) | 2:21 | 2022-08-25 | 2024-04-19 |
-| [Havana \- Acoustic](https://open.spotify.com/track/6WocEbaRB9G2QEnklpIhLd) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [Havana \(Acoustic\)](https://open.spotify.com/album/6h1bLyGqSOqyh1kjN4yz3T) | 2:21 | 2023-11-30 |  |
+| [Havana \- Acoustic](https://open.spotify.com/track/6WocEbaRB9G2QEnklpIhLd) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [Havana \(Acoustic\)](https://open.spotify.com/album/6h1bLyGqSOqyh1kjN4yz3T) | 2:21 | 2023-11-30 | 2024-07-21 |
 | [Have You Ever Seen The Rain \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/1iZdFYJujH9VZtj7c0Xw2y) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Spotify Singles](https://open.spotify.com/album/6zsyF9yFf1KzJIt4mJJNzj) | 2:34 | 2022-08-25 | 2024-04-19 |
 | [Have You Ever Seen The Rain \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/7a7v27v9qrwjKBbsqrCZt9) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Spotify Singles](https://open.spotify.com/album/5iqosfNUlegsdU0Zd5AJfp) | 2:34 | 2023-11-30 |  |
 | [Heaven Is a Place on Earth](https://open.spotify.com/track/674WNL7f5Xo8XxtipzB3ao) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [\#Acoustic \#2](https://open.spotify.com/album/2yENbnhh873NzrwFmxYMeO) | 3:13 | 2022-08-25 |  |
@@ -88,6 +88,7 @@
 | [I Wanna Dance with Somebody](https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY) | [Rachel Brown](https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE) | [The Band](https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0) | 3:39 | 2022-08-25 |  |
 | [I'm Not the Only One \- Live from Spotify, London](https://open.spotify.com/track/7wIYDzWW82O6Rc4vGuzjND) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Spotify Session](https://open.spotify.com/album/3NW16XZ8U99Qm8E9v52UTz) | 3:15 | 2022-08-25 |  |
 | [I'm the One \- Acoustic](https://open.spotify.com/track/5vk20vCA4C23pXxFhtbBTx) | [Sunset & Highland](https://open.spotify.com/artist/11gRZ3XWWyqrY8LUdV5EZT) | [I'm the One \(Acoustic\)](https://open.spotify.com/album/6WzXYSMc9J693mYihBbTwe) | 3:53 | 2022-08-25 |  |
+| [I'm Yours \- \(From the Casa Nova Sessions\)](https://open.spotify.com/track/1QlWYpD8hrhmS0kDDWwgb8) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Acoustic Café](https://open.spotify.com/album/73oIIoRDqSC8vpe0z1dFTU) | 4:40 | 2024-07-10 |  |
 | [I'm Yours \- From the Casa Nova Sessions](https://open.spotify.com/track/0UCwB06x7avKQDFAkNVg2T) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things\. \(Deluxe Edition\)](https://open.spotify.com/album/0bWIQoDyGTaztWXN2Aolmb) | 4:47 | 2023-06-27 | 2023-09-29 |
 | [I'm Yours \- From the Casa Nova Sessions](https://open.spotify.com/track/384ft9nYgu5fpnbeSMXkMo) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things\. \(Bonus Tracks Version\)](https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8) | 4:47 | 2023-06-27 | 2024-04-19 |
 | [IDGAF \- Acoustic](https://open.spotify.com/track/5ZMb1d14RLl5NHAgZIwVHc) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [IDGAF \(Remixes II\)](https://open.spotify.com/album/4M7slCAvVUFZLYICsgY3xq) | 3:37 | 2022-08-25 |  |

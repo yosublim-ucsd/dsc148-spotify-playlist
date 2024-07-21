@@ -1,6 +1,6 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 615345,
+  "num_followers": 615514,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
@@ -301,6 +301,22 @@
       "url": "https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz"
     },
     {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Ferment",
+        "url": "https://open.spotify.com/album/7LLZLkkBTR42Kb9JPRAzKb"
+      },
+      "artists": [
+        {
+          "name": "Catherine Wheel",
+          "url": "https://open.spotify.com/artist/1QPWAsWIjRcTfvY5uH8dov"
+        }
+      ],
+      "duration_ms": 438906,
+      "name": "Black Metallic",
+      "url": "https://open.spotify.com/track/0jmyo9QOmFbjDCYpNaPDhy"
+    },
+    {
       "added_at": "2022-09-28 23:01:40",
       "album": {
         "name": "Blow",
@@ -319,18 +335,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Ferment",
-        "url": "https://open.spotify.com/album/7LLZLkkBTR42Kb9JPRAzKb"
+        "name": "Siamese Dream (2011 - Remaster)",
+        "url": "https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN"
       },
       "artists": [
         {
-          "name": "Catherine Wheel",
-          "url": "https://open.spotify.com/artist/1QPWAsWIjRcTfvY5uH8dov"
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
         }
       ],
-      "duration_ms": 438906,
-      "name": "Black Metallic",
-      "url": "https://open.spotify.com/track/0jmyo9QOmFbjDCYpNaPDhy"
+      "duration_ms": 246413,
+      "name": "Rocket - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1nbXNrayQOc9UGVEudhlaT"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -347,22 +363,6 @@
       "duration_ms": 195613,
       "name": "Pancake",
       "url": "https://open.spotify.com/track/00YCRrySf0dJ6nRCKYSAkA"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Siamese Dream (2011 - Remaster)",
-        "url": "https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 246413,
-      "name": "Rocket - 2011 Remaster",
-      "url": "https://open.spotify.com/track/1nbXNrayQOc9UGVEudhlaT"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -467,22 +467,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "In Streams",
-        "url": "https://open.spotify.com/album/4NIUGM2AxYylwdhjshZsPL"
-      },
-      "artists": [
-        {
-          "name": "Centaur",
-          "url": "https://open.spotify.com/artist/4cFiH2RuKB8SzNi3MwCpJJ"
-        }
-      ],
-      "duration_ms": 455000,
-      "name": "The Same Place",
-      "url": "https://open.spotify.com/track/06WHKWWKPDqkWA5yHCCRUs"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Nowhere (Expanded)",
         "url": "https://open.spotify.com/album/4fW7CblaSvdhPWmcCFgZbQ"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 368760,
       "name": "Seagull - 2001 Remaster",
       "url": "https://open.spotify.com/track/1p75lScKo8XQT0niqFRxNx"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "In Streams",
+        "url": "https://open.spotify.com/album/4NIUGM2AxYylwdhjshZsPL"
+      },
+      "artists": [
+        {
+          "name": "Centaur",
+          "url": "https://open.spotify.com/artist/4cFiH2RuKB8SzNi3MwCpJJ"
+        }
+      ],
+      "duration_ms": 455000,
+      "name": "The Same Place",
+      "url": "https://open.spotify.com/track/06WHKWWKPDqkWA5yHCCRUs"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Winks & Kisses: Melted",
-        "url": "https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll"
-      },
-      "artists": [
-        {
-          "name": "Airiel",
-          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
-        }
-      ],
-      "duration_ms": 566466,
-      "name": "In Your Room",
-      "url": "https://open.spotify.com/track/7l5XWtUfIclO2xCTFvts8V"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Slowdive",
         "url": "https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 270918,
       "name": "Sugar for the Pill",
       "url": "https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Winks & Kisses: Melted",
+        "url": "https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll"
+      },
+      "artists": [
+        {
+          "name": "Airiel",
+          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
+        }
+      ],
+      "duration_ms": 566466,
+      "name": "In Your Room",
+      "url": "https://open.spotify.com/track/7l5XWtUfIclO2xCTFvts8V"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1279,6 +1279,22 @@
       "duration_ms": 226999,
       "name": "Under the Sun",
       "url": "https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/3CRBMstrlbZNVWQjahQACl"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "duration_ms": 318800,
+      "name": "23",
+      "url": "https://open.spotify.com/track/4HIwL9ii9CcXpTOTzMq0MP"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1395,6 +1411,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Turn Into",
+        "url": "https://open.spotify.com/album/3hGEiHWq02qRrTIWqJrk7U"
+      },
+      "artists": [
+        {
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+        }
+      ],
+      "duration_ms": 203536,
+      "name": "Turn Into",
+      "url": "https://open.spotify.com/track/0iIZNAtdihZR65sTst3KgZ"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Pink (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2rRHqBhUioCssa9VHMRJYO"
       },
@@ -1427,6 +1459,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Encounters",
+        "url": "https://open.spotify.com/album/0xeUhrPDwkyFJzOAADD6Bf"
+      },
+      "artists": [
+        {
+          "name": "Life On Venus",
+          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "May",
+      "url": "https://open.spotify.com/track/3hVlV66Z3PfvXwIYOTeZdi"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "I Love You in Other Cities",
         "url": "https://open.spotify.com/album/5LjqufMHmynqx9QEqWzHko"
       },
@@ -1439,22 +1487,6 @@
       "duration_ms": 262946,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/3t9fLR1lbPI8QguRVBgiAs"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Turn Into",
-        "url": "https://open.spotify.com/album/3hGEiHWq02qRrTIWqJrk7U"
-      },
-      "artists": [
-        {
-          "name": "Jay Som",
-          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
-        }
-      ],
-      "duration_ms": 203536,
-      "name": "Turn Into",
-      "url": "https://open.spotify.com/track/0iIZNAtdihZR65sTst3KgZ"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1507,22 +1539,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Encounters",
-        "url": "https://open.spotify.com/album/0xeUhrPDwkyFJzOAADD6Bf"
-      },
-      "artists": [
-        {
-          "name": "Life On Venus",
-          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "May",
-      "url": "https://open.spotify.com/track/3hVlV66Z3PfvXwIYOTeZdi"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Love Comes In Waves",
         "url": "https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR"
       },
@@ -1535,38 +1551,6 @@
       "duration_ms": 288575,
       "name": "Love Comes In Waves",
       "url": "https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/3CRBMstrlbZNVWQjahQACl"
-      },
-      "artists": [
-        {
-          "name": "Blonde Redhead",
-          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
-        }
-      ],
-      "duration_ms": 318800,
-      "name": "23",
-      "url": "https://open.spotify.com/track/4HIwL9ii9CcXpTOTzMq0MP"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/5k565ga9B9EJqLyCatmrt0"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 301866,
-      "name": "Lazuli",
-      "url": "https://open.spotify.com/track/0Fc8hmAuH0rHYq2Ur9t07Y"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1599,6 +1583,22 @@
       "duration_ms": 337600,
       "name": "Sight of You",
       "url": "https://open.spotify.com/track/2XMwak0QKaukNo502mcufY"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Odes to the Void",
+        "url": "https://open.spotify.com/album/4i5SFwqCIqlqtNFyYIXojb"
+      },
+      "artists": [
+        {
+          "name": "Life On Venus",
+          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
+        }
+      ],
+      "duration_ms": 208450,
+      "name": "For the Kill",
+      "url": "https://open.spotify.com/track/7JDoiqNTFEkzHGTUTRz2pG"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Odes to the Void",
-        "url": "https://open.spotify.com/album/4i5SFwqCIqlqtNFyYIXojb"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/5k565ga9B9EJqLyCatmrt0"
       },
       "artists": [
         {
-          "name": "Life On Venus",
-          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         }
       ],
-      "duration_ms": 208450,
-      "name": "For the Kill",
-      "url": "https://open.spotify.com/track/7JDoiqNTFEkzHGTUTRz2pG"
+      "duration_ms": 301866,
+      "name": "Lazuli",
+      "url": "https://open.spotify.com/track/0Fc8hmAuH0rHYq2Ur9t07Y"
     },
     {
       "added_at": "2021-06-03 02:39:04",

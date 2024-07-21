@@ -3350,24 +3350,6 @@
     {
       "album": {
         "name": "Stop & Stare",
-        "url": "https://open.spotify.com/album/1vn4qh7uF3nPfG9Hu5X20t"
-      },
-      "artists": [
-        {
-          "name": "Logan",
-          "url": "https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j"
-        }
-      ],
-      "date_added": "2023-10-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 156986,
-      "name": "Stop & Stare",
-      "url": "https://open.spotify.com/track/2l1g0c9TIopvMg5h0xBWgc"
-    },
-    {
-      "album": {
-        "name": "Stop & Stare",
         "url": "https://open.spotify.com/album/1NBIz4sWJZtw76e5D6issj"
       },
       "artists": [
@@ -3400,6 +3382,24 @@
       "duration_ms": 156986,
       "name": "Stop & Stare",
       "url": "https://open.spotify.com/track/5tpybInr1G31Wgl7FWXLKw"
+    },
+    {
+      "album": {
+        "name": "Stop & Stare",
+        "url": "https://open.spotify.com/album/1vn4qh7uF3nPfG9Hu5X20t"
+      },
+      "artists": [
+        {
+          "name": "Logan Priest",
+          "url": "https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156986,
+      "name": "Stop & Stare",
+      "url": "https://open.spotify.com/track/2l1g0c9TIopvMg5h0xBWgc"
     },
     {
       "album": {

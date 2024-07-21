@@ -7883,6 +7883,24 @@
     },
     {
       "album": {
+        "name": "DEAD AGAIN",
+        "url": "https://open.spotify.com/album/779L6djTaLxgLBBzHaM8lX"
+      },
+      "artists": [
+        {
+          "name": "DEREK DALI",
+          "url": "https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208604,
+      "name": "DEAD AGAIN",
+      "url": "https://open.spotify.com/track/1eDw0V97F5AR2E8BGCzIR0"
+    },
+    {
+      "album": {
         "name": "Seventh Wave",
         "url": "https://open.spotify.com/album/4bZnVnQDg85dT7S4SReDcJ"
       },

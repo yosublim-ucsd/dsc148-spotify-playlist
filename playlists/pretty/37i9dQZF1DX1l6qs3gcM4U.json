@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Calema",
-  "num_followers": 204755,
+  "num_followers": 204820,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/0WcU99EEi8NWEHrzkxHugx"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 214814,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/23UNzfTWydjS1PZKCImbMe"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Viagem",
         "url": "https://open.spotify.com/album/1kvWCOAFrsGVljCwx5uXPO"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 237341,
       "name": "Viagem",
       "url": "https://open.spotify.com/track/6IhsfuAwE81uKkeJnzAW2a"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/0WcU99EEi8NWEHrzkxHugx"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 214814,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/23UNzfTWydjS1PZKCImbMe"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1195,30 +1195,18 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/6xxYj7XEsGGquc3DSbUf7L"
+        "name": "Te Amo Tanto",
+        "url": "https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj"
       },
       "artists": [
         {
-          "name": "Black Spygo",
-          "url": "https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY"
-        },
-        {
-          "name": "Chelsea Dinorath",
-          "url": "https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        },
-        {
-          "name": "Black Vision",
-          "url": "https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ"
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
         }
       ],
-      "duration_ms": 207500,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/3WQxc2F2C57eqs57YJgEcZ"
+      "duration_ms": 182608,
+      "name": "Te Amo Tanto",
+      "url": "https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1263,18 +1251,30 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Te Amo Tanto",
-        "url": "https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj"
+        "name": "Control",
+        "url": "https://open.spotify.com/album/6xxYj7XEsGGquc3DSbUf7L"
       },
       "artists": [
         {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+          "name": "Black Spygo",
+          "url": "https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY"
+        },
+        {
+          "name": "Chelsea Dinorath",
+          "url": "https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        },
+        {
+          "name": "Black Vision",
+          "url": "https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ"
         }
       ],
-      "duration_ms": 182608,
-      "name": "Te Amo Tanto",
-      "url": "https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd"
+      "duration_ms": 207500,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/3WQxc2F2C57eqs57YJgEcZ"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
+        "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) [Remix]",
+        "url": "https://open.spotify.com/album/1655GCvhUr4AWd8ZXPj71n"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        },
+        {
+          "name": "Bruna Tatiana",
+          "url": "https://open.spotify.com/artist/4mZaNN0by52KJgL6zARF3H"
+        }
+      ],
+      "duration_ms": 237717,
+      "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) - Remix",
+      "url": "https://open.spotify.com/track/2soAp2kfNmLbb22JJIc96y"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
         "name": "Mika Mendes",
         "url": "https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q"
       },
@@ -1431,62 +1451,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Vai Por Mim",
-        "url": "https://open.spotify.com/album/267rz7fvTcr7yo7hKFIArq"
-      },
-      "artists": [
-        {
-          "name": "Dam\u00e1sio Brothers",
-          "url": "https://open.spotify.com/artist/6FRydQu73AnR88FL2Pndtu"
-        },
-        {
-          "name": "Anderson M\u00e1rio",
-          "url": "https://open.spotify.com/artist/1CS75XxFYNouLuB55te4YO"
-        },
-        {
-          "name": "Ney Chiqui",
-          "url": "https://open.spotify.com/artist/5GX4z0504g82P9Lvz8rcmx"
-        },
-        {
-          "name": "Teo No Beat",
-          "url": "https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2"
-        },
-        {
-          "name": "Button Rose",
-          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
-        },
-        {
-          "name": "Claudio F\u00eanix",
-          "url": "https://open.spotify.com/artist/6C4zLY4o7OvWCXq346DAjY"
-        }
-      ],
-      "duration_ms": 224256,
-      "name": "Vai Por Mim",
-      "url": "https://open.spotify.com/track/4iVckCZapMMHjbaJFyNxRz"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) [Remix]",
-        "url": "https://open.spotify.com/album/1655GCvhUr4AWd8ZXPj71n"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        },
-        {
-          "name": "Bruna Tatiana",
-          "url": "https://open.spotify.com/artist/4mZaNN0by52KJgL6zARF3H"
-        }
-      ],
-      "duration_ms": 237717,
-      "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) - Remix",
-      "url": "https://open.spotify.com/track/2soAp2kfNmLbb22JJIc96y"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Deusa do Amor",
         "url": "https://open.spotify.com/album/07eHTr7xC266F2C6LxKPXS"
       },
@@ -1531,6 +1495,42 @@
       "duration_ms": 217754,
       "name": "Cura",
       "url": "https://open.spotify.com/track/5GlPkahjTM2G5PdiN3eQhG"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Vai Por Mim",
+        "url": "https://open.spotify.com/album/267rz7fvTcr7yo7hKFIArq"
+      },
+      "artists": [
+        {
+          "name": "Dam\u00e1sio Brothers",
+          "url": "https://open.spotify.com/artist/6FRydQu73AnR88FL2Pndtu"
+        },
+        {
+          "name": "Anderson M\u00e1rio",
+          "url": "https://open.spotify.com/artist/1CS75XxFYNouLuB55te4YO"
+        },
+        {
+          "name": "Ney Chiqui",
+          "url": "https://open.spotify.com/artist/5GX4z0504g82P9Lvz8rcmx"
+        },
+        {
+          "name": "Teo No Beat",
+          "url": "https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2"
+        },
+        {
+          "name": "Button Rose",
+          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
+        },
+        {
+          "name": "Claudio F\u00eanix",
+          "url": "https://open.spotify.com/artist/6C4zLY4o7OvWCXq346DAjY"
+        }
+      ],
+      "duration_ms": 224256,
+      "name": "Vai Por Mim",
+      "url": "https://open.spotify.com/track/4iVckCZapMMHjbaJFyNxRz"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1691,22 +1691,18 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "J\u00e1 Deu",
-        "url": "https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G"
+        "name": "O Jeito Dela",
+        "url": "https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g"
       },
       "artists": [
         {
-          "name": "Josslyn",
-          "url": "https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF"
-        },
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+          "name": "Gasso",
+          "url": "https://open.spotify.com/artist/4vmi92Wdt4eTFUA6o4ST0i"
         }
       ],
-      "duration_ms": 227685,
-      "name": "J\u00e1 Deu",
-      "url": "https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK"
+      "duration_ms": 216127,
+      "name": "O Jeito Dela - Radio Edit",
+      "url": "https://open.spotify.com/track/1IPfgonCiEuHRIsDddkBWq"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1727,42 +1723,22 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "O Jeito Dela",
-        "url": "https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g"
+        "name": "J\u00e1 Deu",
+        "url": "https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G"
       },
       "artists": [
         {
-          "name": "Gasso",
-          "url": "https://open.spotify.com/artist/4vmi92Wdt4eTFUA6o4ST0i"
-        }
-      ],
-      "duration_ms": 216127,
-      "name": "O Jeito Dela - Radio Edit",
-      "url": "https://open.spotify.com/track/1IPfgonCiEuHRIsDddkBWq"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "Pondodu",
-        "url": "https://open.spotify.com/album/51gfGpmvSvZnVwxnnwWHpa"
-      },
-      "artists": [
-        {
-          "name": "Dynamo",
-          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+          "name": "Josslyn",
+          "url": "https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF"
         },
         {
-          "name": "Boy Game",
-          "url": "https://open.spotify.com/artist/0uUqFjPffTb1fW3spN0spk"
-        },
-        {
-          "name": "Pcc",
-          "url": "https://open.spotify.com/artist/2iBToyDbE9ZmciHQTxmSTy"
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
         }
       ],
-      "duration_ms": 203278,
-      "name": "Pondodu",
-      "url": "https://open.spotify.com/track/0hfdyksAPklSdEcZEeen5q"
+      "duration_ms": 227685,
+      "name": "J\u00e1 Deu",
+      "url": "https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1799,6 +1775,30 @@
       "duration_ms": 291960,
       "name": "Belissima",
       "url": "https://open.spotify.com/track/720YR0UhybUYFQUU4ZAWwP"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Pondodu",
+        "url": "https://open.spotify.com/album/51gfGpmvSvZnVwxnnwWHpa"
+      },
+      "artists": [
+        {
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+        },
+        {
+          "name": "Boy Game",
+          "url": "https://open.spotify.com/artist/0uUqFjPffTb1fW3spN0spk"
+        },
+        {
+          "name": "Pcc",
+          "url": "https://open.spotify.com/artist/2iBToyDbE9ZmciHQTxmSTy"
+        }
+      ],
+      "duration_ms": 203278,
+      "name": "Pondodu",
+      "url": "https://open.spotify.com/track/0hfdyksAPklSdEcZEeen5q"
     },
     {
       "added_at": "2024-07-18 23:00:00",

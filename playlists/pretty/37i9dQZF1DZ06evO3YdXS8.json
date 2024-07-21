@@ -1,12 +1,12 @@
 {
   "description": "This Is Selena. Los temas esenciales, todos en una lista.",
-  "num_followers": 619056,
+  "num_followers": 619163,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZphbAAAAAAB6jX+aJsMK0QfW6hndPWi1",
+  "snapshot_id": "ZpmsgAAAAACJMSy34SFiCRPCp2658ZtA",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 210626,
-      "name": "Bidi Bidi Bom Bom - 1994 Version",
-      "url": "https://open.spotify.com/track/08rj3keDexxAbhXnRM86ri"
+      "duration_ms": 157306,
+      "name": "Fotos Y Recuerdos",
+      "url": "https://open.spotify.com/track/10dVXtTtcZGkslowGjI18r"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 227440,
-      "name": "Techno Cumbia",
-      "url": "https://open.spotify.com/track/2tS0iNc2QTb3ADhlAydiDa"
+      "duration_ms": 210626,
+      "name": "Bidi Bidi Bom Bom - 1994 Version",
+      "url": "https://open.spotify.com/track/08rj3keDexxAbhXnRM86ri"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 403640,
-      "name": "Como La Flor - Live",
-      "url": "https://open.spotify.com/track/2e5lffoLF7p6YeGbcmigdX"
+      "duration_ms": 195346,
+      "name": "El Chico Del Apartamento 512 - Live",
+      "url": "https://open.spotify.com/track/6yBtO4KuwLX6ASanqMjVSG"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 195346,
-      "name": "El Chico Del Apartamento 512 - Live",
-      "url": "https://open.spotify.com/track/6yBtO4KuwLX6ASanqMjVSG"
+      "duration_ms": 116600,
+      "name": "Cobarde - Live",
+      "url": "https://open.spotify.com/track/6ELj5zKkDoh1yPjsS91LFZ"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live-The Last Concert",
-        "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 116600,
-      "name": "Cobarde - Live",
-      "url": "https://open.spotify.com/track/6ELj5zKkDoh1yPjsS91LFZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre A Mi Mundo",
         "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
       },
@@ -611,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 253493,
-      "name": "Missing My Baby",
-      "url": "https://open.spotify.com/track/1bofHtKrTkKQXx4wm4wITp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Leyenda (Version Super Deluxe)",
         "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
@@ -639,6 +607,22 @@
       "duration_ms": 181400,
       "name": "Siempre Estoy Pensando En Ti",
       "url": "https://open.spotify.com/track/7KsOTKIJAob3zAOgk1ltnv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 253493,
+      "name": "Missing My Baby",
+      "url": "https://open.spotify.com/track/1bofHtKrTkKQXx4wm4wITp"
     },
     {
       "added_at": null,
@@ -819,6 +803,22 @@
       "duration_ms": 217826,
       "name": "Dulce Amor",
       "url": "https://open.spotify.com/track/20GXVF6YKr4AUP3B0m3g8v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MOONCHILD MIXES",
+        "url": "https://open.spotify.com/album/71Om9aLEMuwpmB0POX3amC"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 225176,
+      "name": "No Llores M\u00e1s",
+      "url": "https://open.spotify.com/track/6WZECOJqjArNpvhHQXkEyu"
     }
   ],
   "unique_name": "This Is Selena",

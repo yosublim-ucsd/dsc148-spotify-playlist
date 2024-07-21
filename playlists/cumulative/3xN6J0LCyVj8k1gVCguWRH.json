@@ -5377,6 +5377,28 @@
     },
     {
       "album": {
+        "name": "Bailababas",
+        "url": "https://open.spotify.com/album/2GW3tYGoaUdPSCUHnFib4S"
+      },
+      "artists": [
+        {
+          "name": "Red Lokura",
+          "url": "https://open.spotify.com/artist/5J3K90VViGa4KRWazS3X3d"
+        },
+        {
+          "name": "John Raays",
+          "url": "https://open.spotify.com/artist/79Smj5XnmgWkjZf4nxhAQd"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128927,
+      "name": "Bailababas",
+      "url": "https://open.spotify.com/track/4tqWjUBzDsM9JEJYbF67RU"
+    },
+    {
+      "album": {
         "name": "BAILE FUNK 5",
         "url": "https://open.spotify.com/album/0ZUtOcfkTQfq5dBkeQcEVD"
       },
@@ -13754,7 +13776,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 205621,
       "name": "Cut Loose",
       "url": "https://open.spotify.com/track/4Al9vDLlf76F7cLPutHFQj"
@@ -28340,6 +28362,40 @@
       "duration_ms": 210510,
       "name": "I Like Him / Them Changes / Party Girl / Human - Mashup",
       "url": "https://open.spotify.com/track/3r7yEbiJDWPOFprhf0ksCR"
+    },
+    {
+      "album": {
+        "name": "I Like It",
+        "url": "https://open.spotify.com/album/2LqbyFgUiZJs1Vx7vTY9Wb"
+      },
+      "artists": [
+        {
+          "name": "Bunnetta",
+          "url": "https://open.spotify.com/artist/3U51hncaJNJkY13VBMArhu"
+        },
+        {
+          "name": "Gabriel Piattore",
+          "url": "https://open.spotify.com/artist/2XGd4DB8hMeAoHDMazsaaN"
+        },
+        {
+          "name": "Bueno Mayo",
+          "url": "https://open.spotify.com/artist/6kOw6SqZ8u6OCLsxK9gKOP"
+        },
+        {
+          "name": "Breezy Oakk",
+          "url": "https://open.spotify.com/artist/01m2RgItagPeup61suqakE"
+        },
+        {
+          "name": "Wilson Pura Vida",
+          "url": "https://open.spotify.com/artist/6prvYrBtl4c855HUYBBmuo"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288979,
+      "name": "I Like It",
+      "url": "https://open.spotify.com/track/3yJlB7Y7iHJLjZIIsLIBL5"
     },
     {
       "album": {
@@ -45504,7 +45560,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 138750,
       "name": "Palmerita",
       "url": "https://open.spotify.com/track/0FTOxjxei1i37xxpmOOGN3"
@@ -50256,7 +50312,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 165120,
       "name": "ruin july",
       "url": "https://open.spotify.com/track/24jV2UdYZkwbe14zBDoVPy"
@@ -53979,6 +54035,24 @@
     },
     {
       "album": {
+        "name": "Some Type of Way",
+        "url": "https://open.spotify.com/album/4ZpJBa89f0orqtLoAvMztc"
+      },
+      "artists": [
+        {
+          "name": "Lisa St. Lou",
+          "url": "https://open.spotify.com/artist/2DZUi8xatl7QYutuOvIfLf"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196696,
+      "name": "Some Type of Way",
+      "url": "https://open.spotify.com/track/3g1mR1wV5dzIspD1xaO3NR"
+    },
+    {
+      "album": {
         "name": "Bill",
         "url": "https://open.spotify.com/album/5IgVlmWQkSUXprjuSHNs3u"
       },
@@ -55512,7 +55586,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 251611,
       "name": "Stillcare",
       "url": "https://open.spotify.com/track/2qCzjsd2i20Al3IpUi6zYB"
@@ -62304,6 +62378,24 @@
       "duration_ms": 213933,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz"
+    },
+    {
+      "album": {
+        "name": "TU MIA",
+        "url": "https://open.spotify.com/album/6aSYxkh8RklUYINL4ayRF5"
+      },
+      "artists": [
+        {
+          "name": "Jlopezz",
+          "url": "https://open.spotify.com/artist/2hlpED801UlosNko4d5qoY"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161904,
+      "name": "TU MIA",
+      "url": "https://open.spotify.com/track/5h6vbCAYcUCW9KfXyYSfg3"
     },
     {
       "album": {

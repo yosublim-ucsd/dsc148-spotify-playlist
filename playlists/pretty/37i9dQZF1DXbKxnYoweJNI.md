@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 雷擎 \(L8ching\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,387 likes - 123 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,388 likes - 123 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 20 | [Came From The Struggle](https://open.spotify.com/track/0oObBxo4yqQbZCf2Tv5DY8) | [Barry Chen](https://open.spotify.com/artist/45sDYsh1i1bXB3IRi04MTz) | [Came From The Struggle](https://open.spotify.com/album/237xAGcZmjM0DMdsuqkl6z) | 3:08 |
 | 21 | [Overachieve 出奇制胜](https://open.spotify.com/track/0FcSbWan1rzkuA0u889ReU) | [ShiGGa Shay](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV) | [Overachieve 出奇制胜](https://open.spotify.com/album/6scP6NUmre7r5xBLDVN5X8) | 3:25 |
 | 22 | [一片海](https://open.spotify.com/track/01f3jEWKOTpZYhFzjW626r) | [蘇研之](https://open.spotify.com/artist/4cbEBwZICHpVIBPo9hgCdD) | [一片海](https://open.spotify.com/album/3GotJrlKXOJ3PmMV7HLNlM) | 4:47 |
-| 23 | [匯流向海 \- 2024 Version](https://open.spotify.com/track/5f2h3glhTXNVMNWwXk8cbR) | [Cicada](https://open.spotify.com/artist/5Od6qTN5QeUH6CyXaaZusC) | [回返（十五週年自選集）](https://open.spotify.com/album/3BNIcRAbuTLeIbGRByRWHJ) | 8:57 |
+| 23 | [匯流向海 Into the Ocean \- 2024 Version](https://open.spotify.com/track/5f2h3glhTXNVMNWwXk8cbR) | [Cicada](https://open.spotify.com/artist/5Od6qTN5QeUH6CyXaaZusC) | [回返 \(十五週年自選集\) Coastland Revisited \(A Remake of Select Pieces\)](https://open.spotify.com/album/3BNIcRAbuTLeIbGRByRWHJ) | 8:57 |
 | 24 | [我說的離開不是離開](https://open.spotify.com/track/72Ts4BqjNXDmRMrLGs8vit) | [劉恬君](https://open.spotify.com/artist/4wfaCGmNCxhzGHRFmHdyZW) | [我說的離開不是離開](https://open.spotify.com/album/6TFxVor4vIroi2pH3XCkFq) | 4:16 |
 | 25 | [除了愛我](https://open.spotify.com/track/6gYX1dh9f6V1pbJGtYYCXz) | [王嘯坤](https://open.spotify.com/artist/3b2IJ77oTomoHh9RXhvNiL) | [除了愛我](https://open.spotify.com/album/66GZAE1sl65VLTboQNF5v5) | 4:31 |
 | 26 | [海裡花茉莉 \(《上船了各位！》主題曲\)](https://open.spotify.com/track/58kktXIJa0IL6zRRatxg7i) | [Judy Chou](https://open.spotify.com/artist/0TEuJoFCfA5zd9YQlwRk44) | [海裡花茉莉 \(《上船了各位！》主題曲\)](https://open.spotify.com/album/5eofzfY8vfDrh8u5XJlVBM) | 3:43 |

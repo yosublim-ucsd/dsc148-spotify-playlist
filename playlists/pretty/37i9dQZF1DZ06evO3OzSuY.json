@@ -1,12 +1,12 @@
 {
-  "description": "This is Zendaya. Track-track unggulan, semuanya dalam satu playlist.",
-  "num_followers": 23996,
+  "description": "This is Zendaya. The essential tracks, all in one playlist.",
+  "num_followers": 24005,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZphbAAAAAADuY5YGFQotkZNaWRcszbg2",
+  "snapshot_id": "ZpmsgAAAAABS4IML7aHnt/34vTXkRQSl",
   "tracks": [
     {
       "added_at": null,
@@ -387,26 +387,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "To Live For",
-        "url": "https://open.spotify.com/album/3gioCmiIcOvqNRWBpMYrr5"
+        "name": "Too Much (From \u201cZapped\u201d)",
+        "url": "https://open.spotify.com/album/73XdslsbaoIRZworqNAgJ2"
       },
       "artists": [
         {
-          "name": "Bobby Brackins",
-          "url": "https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc"
-        },
-        {
           "name": "Zendaya",
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
         }
       ],
-      "duration_ms": 230207,
-      "name": "My Jam",
-      "url": "https://open.spotify.com/track/02DaqClSJTt95OvsiroP5j"
+      "duration_ms": 187333,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/1cqudsA6yOqEUwGX5mrCeW"
     },
     {
       "added_at": null,
@@ -427,18 +419,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Too Much (From \u201cZapped\u201d)",
-        "url": "https://open.spotify.com/album/73XdslsbaoIRZworqNAgJ2"
+        "name": "To Live For",
+        "url": "https://open.spotify.com/album/3gioCmiIcOvqNRWBpMYrr5"
       },
       "artists": [
         {
+          "name": "Bobby Brackins",
+          "url": "https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc"
+        },
+        {
           "name": "Zendaya",
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
         }
       ],
-      "duration_ms": 187333,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/1cqudsA6yOqEUwGX5mrCeW"
+      "duration_ms": 230207,
+      "name": "My Jam",
+      "url": "https://open.spotify.com/track/02DaqClSJTt95OvsiroP5j"
     },
     {
       "added_at": null,

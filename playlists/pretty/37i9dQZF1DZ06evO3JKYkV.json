@@ -1,12 +1,12 @@
 {
-  "description": "This is Aphex Twin. The essential tracks, all in one playlist.",
-  "num_followers": 65513,
+  "description": "This is Aphex Twin. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 65547,
   "original_name": "This Is Aphex Twin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZphbAAAAAAB/YrlPiNFgEGGHqZKq+vC3",
+  "snapshot_id": "ZpmsgAAAAACeoeEdAmYyELREQt2tFQgs",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Syro",
-        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
+        "name": "Come To Daddy",
+        "url": "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 321880,
-      "name": "aisatsana [102]",
-      "url": "https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np"
+      "duration_ms": 177093,
+      "name": "Flim",
+      "url": "https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come To Daddy",
-        "url": "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx"
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 177093,
-      "name": "Flim",
-      "url": "https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7"
+      "duration_ms": 321880,
+      "name": "aisatsana [102]",
+      "url": "https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 440333,
-      "name": "#13",
-      "url": "https://open.spotify.com/track/3jRCZkYVcDniUrXjL71QwE"
+      "duration_ms": 125106,
+      "name": "#17",
+      "url": "https://open.spotify.com/track/2ry9LQ8m7dRbRn6FN8uT5u"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 125106,
-      "name": "#17",
-      "url": "https://open.spotify.com/track/2ry9LQ8m7dRbRn6FN8uT5u"
+      "duration_ms": 440333,
+      "name": "#13",
+      "url": "https://open.spotify.com/track/3jRCZkYVcDniUrXjL71QwE"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Digeridoo (Expanded Edition)",
-        "url": "https://open.spotify.com/album/58H1ArDcd3bUzOK0cn31lD"
+        "name": "Blackbox Life Recorder 21f",
+        "url": "https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 420766,
-      "name": "Flap Head - 2022 Remaster",
-      "url": "https://open.spotify.com/track/24nMZbhkJNqJ70P1J81ZNx"
+      "duration_ms": 266558,
+      "name": "Blackbox Life Recorder 21f",
+      "url": "https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blackbox Life Recorder 21f",
-        "url": "https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX"
+        "name": "Digeridoo (Expanded Edition)",
+        "url": "https://open.spotify.com/album/58H1ArDcd3bUzOK0cn31lD"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 266558,
-      "name": "Blackbox Life Recorder 21f",
-      "url": "https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD"
+      "duration_ms": 420766,
+      "name": "Flap Head - 2022 Remaster",
+      "url": "https://open.spotify.com/track/24nMZbhkJNqJ70P1J81ZNx"
     },
     {
       "added_at": null,

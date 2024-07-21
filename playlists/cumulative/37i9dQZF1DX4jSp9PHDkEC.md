@@ -4,12 +4,13 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-563 songs - 1 day 13 hr 58 min
+564 songs - 1 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100](https://open.spotify.com/track/784VjdNkpXhFV0RHquzsi2) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk) | [BLACK METAL](https://open.spotify.com/album/7JFr7lrgJY7PdXuQV6L1SG) | 3:20 | 2023-01-17 |  |
 | [23](https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy) | 5:18 | 2023-01-17 | 2024-04-19 |
+| [23](https://open.spotify.com/track/4HIwL9ii9CcXpTOTzMq0MP) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/3CRBMstrlbZNVWQjahQACl) | 5:18 | 2023-01-17 |  |
 | [5AM Empanada with You](https://open.spotify.com/track/0UQF9Z1szgyxbMjfJGqdKb) | [Bubble Tea and Cigarettes](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [5AM Empanada with You](https://open.spotify.com/album/3i52R3QnIBb4knh1CZf3n6) | 5:41 | 2023-01-17 |  |
 | [A Different Kind Of Human](https://open.spotify.com/track/3xCYl9Ix2ZUa7rH7nbUOTS) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Different Kind Of Human \(Step II\)](https://open.spotify.com/album/2xLOaAi985d5Xb4alPI8Hf) | 4:01 | 2023-01-17 | 2024-04-19 |
 | [A Song for the Drunk and Broken Hearted](https://open.spotify.com/track/1NZM6rDe48w1GSisd75G5Q) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 3:59 | 2023-01-17 | 2024-04-19 |
@@ -211,7 +212,7 @@
 | [Here in the Dark](https://open.spotify.com/track/312rd2c4ALzMJ0nbbie6Pg) | [Aoife Nessa Frances](https://open.spotify.com/artist/53HMXaQpXt5m6cBJNO5OFX) | [Land of No Junction](https://open.spotify.com/album/10QaSb6RScjUha6Wkeu1Km) | 5:26 | 2023-01-17 |  |
 | [Heretic Porcelain](https://open.spotify.com/track/1vKbvhNrBNgkPPOiIBcbyv) | [Tan Cologne](https://open.spotify.com/artist/0BzCBe2kdywrXRgiP1JZeo) | [Heretic Porcelain](https://open.spotify.com/album/2LxiqZJ4AgDxKT0R5sQf0K) | 4:45 | 2023-01-17 |  |
 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 | 2023-01-17 | 2024-04-19 |
-| [Hey, Ma](https://open.spotify.com/track/6YEyNkfWYAFTib8j1eXg1A) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Hey, Ma](https://open.spotify.com/album/3uvIbuVDxN1FmzhQtZHgYL) | 3:36 | 2023-01-17 |  |
+| [Hey, Ma](https://open.spotify.com/track/6YEyNkfWYAFTib8j1eXg1A) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Hey, Ma](https://open.spotify.com/album/3uvIbuVDxN1FmzhQtZHgYL) | 3:36 | 2023-01-17 | 2024-07-21 |
 | [Hey, That's No Way To Say Goodbye](https://open.spotify.com/track/1frLfdzAN9vP7iryVFkchw) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Hey, That's No Way To Say Goodbye](https://open.spotify.com/album/39y4XsSMcz4OidDKNgsKBT) | 3:22 | 2023-01-17 | 2024-04-19 |
 | [Holiday House](https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Become](https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga) | 5:06 | 2023-05-09 |  |
 | [Holly Golightly](https://open.spotify.com/track/6cpS0DbBW6i2h2YhScfvDI) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Holly Golightly](https://open.spotify.com/album/2mPxVWoD1tTM3YwIKCk8Eg) | 2:44 | 2023-01-17 |  |
@@ -276,7 +277,7 @@
 | [Killer Shangri\-Lah \(from Killing Eve OST\)](https://open.spotify.com/track/1upx07zTnKv5CKbrEsPeo7) | [Pshycotic Beats](https://open.spotify.com/artist/2YgOXjE34QUTy7FqAg535R), [Pati Amor](https://open.spotify.com/artist/6uJUG3lkF8v7YQRJg9ye3u) | [Dormihcum](https://open.spotify.com/album/1ejSpz7NJnjp4FIYDFMX0o) | 3:53 | 2023-01-17 |  |
 | [Kinky Living](https://open.spotify.com/track/4eMoWR7Lughvru6Rn97uPi) | [Rustin Man](https://open.spotify.com/artist/62NNHMoDbLSbR3THDaFNO7) | [Clockdust](https://open.spotify.com/album/07DVhzbsPKNkEen1aPUtHn) | 4:45 | 2023-01-17 |  |
 | [Kinky Love](https://open.spotify.com/track/5hUCTgttGB1eS4GJdPEQEM) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [Flesh Balloon](https://open.spotify.com/album/57N92LQlPaWjNfxCP98SRx) | 4:04 | 2023-01-17 | 2024-04-19 |
-| [Kiss City](https://open.spotify.com/track/3BnAP43rJ04D2iAgTon1ji) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 2:23 | 2023-07-25 |  |
+| [Kiss City](https://open.spotify.com/track/3BnAP43rJ04D2iAgTon1ji) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 2:23 | 2023-07-25 | 2024-07-21 |
 | [Kiss City](https://open.spotify.com/track/7f1mKhZ8s6di51f76Qf03E) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 2:23 | 2023-07-25 | 2024-04-19 |
 | [L.A Coliseum](https://open.spotify.com/track/22bndzPoPVfvHHuE3HM0Iv) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [L.A Coliseum](https://open.spotify.com/album/2Jjv3uvOBVcCauorURNgce) | 4:07 | 2023-01-17 |  |
 | [Late](https://open.spotify.com/track/0o6dHLopdXxFKtPusAh2IJ) | [Ostel](https://open.spotify.com/artist/2jPXYtYbPX8qgScKiPJJI2), [Marcelan](https://open.spotify.com/artist/0eotK24x1tJQHZQwF0hJ61) | [Late](https://open.spotify.com/album/1HkjmL2E17igsNHkrLjFq6) | 5:03 | 2023-01-17 |  |
@@ -366,7 +367,7 @@
 | [Parking Lot Pirouette](https://open.spotify.com/track/1MACvuUKIRibcPcpPDTsul) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Parking Lot Pirouette](https://open.spotify.com/album/2OoJ3nXmTPXVTzkNBBvVoR) | 3:32 | 2023-01-17 |  |
 | [Particles \- Edit](https://open.spotify.com/track/4ROXjJjgMW0y6wXlTJBPqA) | [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Particles](https://open.spotify.com/album/2q5XSD3D9TwFNOTK1m1uWt) | 3:02 | 2023-01-17 |  |
 | [Pass The Hours](https://open.spotify.com/track/1uLfBlfAwUV7SwBTK1ayTQ) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Pass The Hours](https://open.spotify.com/album/2kYRMnwB5ieAs6OV9pZ1YT) | 3:43 | 2023-01-17 | 2024-04-19 |
-| [Pass The Hours](https://open.spotify.com/track/4EVpdoFt3L6sAa4hivmWz9) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Pass The Hours](https://open.spotify.com/album/68oS2XnHyYFPwOeknwOabE) | 3:43 | 2023-01-17 | 2024-07-12 |
+| [Pass The Hours](https://open.spotify.com/track/4EVpdoFt3L6sAa4hivmWz9) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Pass The Hours](https://open.spotify.com/album/68oS2XnHyYFPwOeknwOabE) | 3:43 | 2023-01-17 |  |
 | [Persephone](https://open.spotify.com/track/4106SA5Wyw8fRTyh8pFDHc) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Willowbank](https://open.spotify.com/album/4xhEaaCBfWXGWQF6rUIb03) | 4:33 | 2023-01-17 | 2024-04-19 |
 | [Pistol](https://open.spotify.com/track/2nD9CUfMMUVxL0UyFs8fGG) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/3pvGm1n0cKAfHpGKbZhKi5) | 3:54 | 2023-01-17 | 2024-04-19 |
 | [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 | 2023-01-17 |  |

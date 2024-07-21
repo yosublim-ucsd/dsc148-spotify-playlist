@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: berlioz",
-  "num_followers": 314042,
+  "num_followers": 314076,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,38 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/5Tu4ytCjEMSDx04f1TwGYf"
+        "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar)",
+        "url": "https://open.spotify.com/album/4QJCD7DW0AEzBr6FWe2E8d"
       },
       "artists": [
         {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
         },
         {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        },
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        },
+        {
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+        },
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        },
+        {
+          "name": "Lula Galv\u00e3o",
+          "url": "https://open.spotify.com/artist/1fjf6ys7DWMxBlHVVT8HTs"
         }
       ],
-      "duration_ms": 241560,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/52qi04bO7emYkJH6lhA4sk"
+      "duration_ms": 324529,
+      "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar) [Feat. Maria Gadu, Lianne La Havas, Tim Bernardes]",
+      "url": "https://open.spotify.com/track/55J4oeEuPKa5tHu4qBGR1A"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -203,6 +219,26 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/5Tu4ytCjEMSDx04f1TwGYf"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 241560,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/52qi04bO7emYkJH6lhA4sk"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
         "name": "Chasing the Drum - A COLORS SHOW",
         "url": "https://open.spotify.com/album/1skZcEagq9Q9DHgeuHYb9F"
       },
@@ -215,30 +251,6 @@
       "duration_ms": 221986,
       "name": "Chasing the Drum - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0kJ4GK8E5eDy7WYUQ5fUT5"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/2kxvs0BMPQVRlBo5KnqkDz"
-      },
-      "artists": [
-        {
-          "name": "Louis Cole",
-          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
-        },
-        {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
-        },
-        {
-          "name": "Jules Buckley",
-          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
-        }
-      ],
-      "duration_ms": 256374,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/4fKGoKVkyAgZK3p3CoiZIa"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -327,38 +339,26 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar)",
-        "url": "https://open.spotify.com/album/4QJCD7DW0AEzBr6FWe2E8d"
+        "name": "Life",
+        "url": "https://open.spotify.com/album/2kxvs0BMPQVRlBo5KnqkDz"
       },
       "artists": [
         {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
         },
         {
-          "name": "Esperanza Spalding",
-          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
         },
         {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        },
-        {
-          "name": "Maria Gad\u00fa",
-          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
-        },
-        {
-          "name": "Tim Bernardes",
-          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
-        },
-        {
-          "name": "Lula Galv\u00e3o",
-          "url": "https://open.spotify.com/artist/1fjf6ys7DWMxBlHVVT8HTs"
+          "name": "Jules Buckley",
+          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
         }
       ],
-      "duration_ms": 324529,
-      "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar) [Feat. Maria Gadu, Lianne La Havas, Tim Bernardes]",
-      "url": "https://open.spotify.com/track/55J4oeEuPKa5tHu4qBGR1A"
+      "duration_ms": 256374,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/4fKGoKVkyAgZK3p3CoiZIa"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -411,8 +411,8 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "The Seer",
-        "url": "https://open.spotify.com/album/41ege95duesxAA0g2MRXoa"
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/0Ak2aBGFCtMPfIWK4ZaYqD"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
         }
       ],
-      "duration_ms": 302960,
-      "name": "The Seer",
-      "url": "https://open.spotify.com/track/1Z3RwVpioQ9GvWL3LJQXe2"
+      "duration_ms": 375291,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/4OroPOlqY8tPrAFNfRHKIS"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -527,8 +527,8 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/0Ak2aBGFCtMPfIWK4ZaYqD"
+        "name": "The Seer",
+        "url": "https://open.spotify.com/album/41ege95duesxAA0g2MRXoa"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
         }
       ],
-      "duration_ms": 375291,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/4OroPOlqY8tPrAFNfRHKIS"
+      "duration_ms": 302960,
+      "name": "The Seer",
+      "url": "https://open.spotify.com/track/1Z3RwVpioQ9GvWL3LJQXe2"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
+        "name": "Below Dawn",
+        "url": "https://open.spotify.com/album/6RU8zWSJ6H5QIzQiLRYJYw"
+      },
+      "artists": [
+        {
+          "name": "Bryony Jarman-Pinto",
+          "url": "https://open.spotify.com/artist/4qGRPAtF4Dnuy1pZEH8Pgv"
+        }
+      ],
+      "duration_ms": 250941,
+      "name": "Deep",
+      "url": "https://open.spotify.com/track/7m81yXV1aGr6itme09Rx5k"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/55zeJMwqGYlju0shEdhG4A"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Below Dawn",
-        "url": "https://open.spotify.com/album/6RU8zWSJ6H5QIzQiLRYJYw"
-      },
-      "artists": [
-        {
-          "name": "Bryony Jarman-Pinto",
-          "url": "https://open.spotify.com/artist/4qGRPAtF4Dnuy1pZEH8Pgv"
-        }
-      ],
-      "duration_ms": 250941,
-      "name": "Deep",
-      "url": "https://open.spotify.com/track/7m81yXV1aGr6itme09Rx5k"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "comet",
         "url": "https://open.spotify.com/album/512NCG6NoaS3YToHv32xfX"
       },
@@ -651,6 +651,22 @@
       "duration_ms": 160893,
       "name": "comet (feat. Bel Cobain)",
       "url": "https://open.spotify.com/track/0JvJdbcXiX0iXsMwnsiwDN"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/6kUnzF4bqYq6Whq5c91NbI"
+      },
+      "artists": [
+        {
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+        }
+      ],
+      "duration_ms": 175635,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/4fcGgxx1moBvJZDgRU0hTk"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -675,22 +691,6 @@
       "duration_ms": 463080,
       "name": "I\u2019ll Do Whatever You Want (feat. Floating Points, Laraaji)",
       "url": "https://open.spotify.com/track/7tv000vU2ikgKNUNmGDeKV"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/6kUnzF4bqYq6Whq5c91NbI"
-      },
-      "artists": [
-        {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
-        }
-      ],
-      "duration_ms": 175635,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/4fcGgxx1moBvJZDgRU0hTk"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -883,22 +883,22 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Messimalism (Above Thought)",
-        "url": "https://open.spotify.com/album/0CjY2PxtolrVrSt4SLGUKn"
+        "name": "When It Comes Together",
+        "url": "https://open.spotify.com/album/7IL0Qmw3AzVtUSbXa6dGic"
       },
       "artists": [
         {
-          "name": "Emanative",
-          "url": "https://open.spotify.com/artist/5XNaa9EOra6P39TWGbCXuB"
+          "name": "Matt Wilde",
+          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
         },
         {
-          "name": "Peter Zummo",
-          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
+          "name": "[ K S R ]",
+          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
         }
       ],
-      "duration_ms": 404458,
-      "name": "Messimalism (Above Thought)",
-      "url": "https://open.spotify.com/track/7Bc6osTposJWE6bsej6fcv"
+      "duration_ms": 188181,
+      "name": "When It Comes Together",
+      "url": "https://open.spotify.com/track/2izmpN7vA1Xn8I5FBLls6n"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -923,22 +923,42 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "When It Comes Together",
-        "url": "https://open.spotify.com/album/7IL0Qmw3AzVtUSbXa6dGic"
+        "name": "Still Nothing Still (Deluxe)",
+        "url": "https://open.spotify.com/album/47zLi5b1Xv8uwVzTWTDM6C"
       },
       "artists": [
         {
-          "name": "Matt Wilde",
-          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
         },
         {
-          "name": "[ K S R ]",
-          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
+          "name": "Slim.",
+          "url": "https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH"
         }
       ],
-      "duration_ms": 188181,
-      "name": "When It Comes Together",
-      "url": "https://open.spotify.com/track/2izmpN7vA1Xn8I5FBLls6n"
+      "duration_ms": 186153,
+      "name": "Amnesia - Slim. Remix",
+      "url": "https://open.spotify.com/track/7t5qW5nd52zSft927ByoHF"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Messimalism (Above Thought)",
+        "url": "https://open.spotify.com/album/0CjY2PxtolrVrSt4SLGUKn"
+      },
+      "artists": [
+        {
+          "name": "Emanative",
+          "url": "https://open.spotify.com/artist/5XNaa9EOra6P39TWGbCXuB"
+        },
+        {
+          "name": "Peter Zummo",
+          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
+        }
+      ],
+      "duration_ms": 404458,
+      "name": "Messimalism (Above Thought)",
+      "url": "https://open.spotify.com/track/7Bc6osTposJWE6bsej6fcv"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -975,26 +995,6 @@
       "duration_ms": 207857,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/4umLhAXqcyQ2ZTcdsfipYG"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "Still Nothing Still (Deluxe)",
-        "url": "https://open.spotify.com/album/47zLi5b1Xv8uwVzTWTDM6C"
-      },
-      "artists": [
-        {
-          "name": "Summers Sons",
-          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
-        },
-        {
-          "name": "Slim.",
-          "url": "https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH"
-        }
-      ],
-      "duration_ms": 186153,
-      "name": "Amnesia - Slim. Remix",
-      "url": "https://open.spotify.com/track/7t5qW5nd52zSft927ByoHF"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Honest Mistake",
-        "url": "https://open.spotify.com/album/61cgfMVzBy0dtDFWGrZl6t"
-      },
-      "artists": [
-        {
-          "name": "Hohnen Ford",
-          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
-        }
-      ],
-      "duration_ms": 227177,
-      "name": "Honest Mistake",
-      "url": "https://open.spotify.com/track/7lF8vFU9L2xzHJkv3zvtnm"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Be Myself",
         "url": "https://open.spotify.com/album/1aSn9BV6hbllpcdVzJyrIW"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 227835,
       "name": "Be Myself",
       "url": "https://open.spotify.com/track/4KbDuejN3kCl68RNPPVt5h"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Honest Mistake",
+        "url": "https://open.spotify.com/album/61cgfMVzBy0dtDFWGrZl6t"
+      },
+      "artists": [
+        {
+          "name": "Hohnen Ford",
+          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
+        }
+      ],
+      "duration_ms": 227177,
+      "name": "Honest Mistake",
+      "url": "https://open.spotify.com/track/7lF8vFU9L2xzHJkv3zvtnm"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1235,6 +1235,38 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
+        "name": "The Silhouettes Project, Vol. 2",
+        "url": "https://open.spotify.com/album/6GjyshlYp4mykcyT7rxoAs"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "MANIK MC",
+          "url": "https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        },
+        {
+          "name": "Paya",
+          "url": "https://open.spotify.com/artist/4f7XN0Gqff52MXO79EFvJO"
+        },
+        {
+          "name": "Joe Beard",
+          "url": "https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP"
+        }
+      ],
+      "duration_ms": 222653,
+      "name": "Hocus Pocus",
+      "url": "https://open.spotify.com/track/6Bidjfsyq4qbpwRCl2Cd85"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
         "name": "Radio Masoda",
         "url": "https://open.spotify.com/album/4wNS5Z7ziNOWQoh5bgVqEo"
       },
@@ -1279,38 +1311,6 @@
       "duration_ms": 311686,
       "name": "Ode Two",
       "url": "https://open.spotify.com/track/1CoNi5SlHAPZLGHsL57ril"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "The Silhouettes Project, Vol. 2",
-        "url": "https://open.spotify.com/album/6GjyshlYp4mykcyT7rxoAs"
-      },
-      "artists": [
-        {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
-        },
-        {
-          "name": "MANIK MC",
-          "url": "https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol"
-        },
-        {
-          "name": "Kojey Radical",
-          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
-        },
-        {
-          "name": "Paya",
-          "url": "https://open.spotify.com/artist/4f7XN0Gqff52MXO79EFvJO"
-        },
-        {
-          "name": "Joe Beard",
-          "url": "https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP"
-        }
-      ],
-      "duration_ms": 222653,
-      "name": "Hocus Pocus",
-      "url": "https://open.spotify.com/track/6Bidjfsyq4qbpwRCl2Cd85"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Dream Chaser",
-        "url": "https://open.spotify.com/album/0KxzL7oJ5M4uFjLrTIa2L3"
+        "name": "End Of Innocence",
+        "url": "https://open.spotify.com/album/0OLSVizhVj6rzh97PS6uYX"
       },
       "artists": [
         {
-          "name": "Myles Sanko",
-          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
         }
       ],
-      "duration_ms": 228523,
-      "name": "Dream Chaser",
-      "url": "https://open.spotify.com/track/05bXcmbz6iAJ5tM9WgdOqX"
+      "duration_ms": 156933,
+      "name": "End Of Innocence",
+      "url": "https://open.spotify.com/track/3o9i2sgJhKv8HEFtJWsbxo"
     }
   ],
   "unique_name": "Jazz UK",

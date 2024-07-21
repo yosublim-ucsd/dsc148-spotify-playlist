@@ -4,7 +4,7 @@
 
 > Aquí vive el hip\-hop mexicano\. Remik Gonzalez en la casa.
 
-554 songs - 1 day 9 hr 10 min
+554 songs - 1 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,7 @@
 | [LA PIPA DE LA PAZ](https://open.spotify.com/track/35k8oH1X7gfCyw2Bp3c1Yy) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [LA PIPA DE LA PAZ](https://open.spotify.com/album/6Y7QL2YRsVOkFB2gxpnBEZ) | 2:30 | 2023-04-21 | 2023-06-01 |
 | [La Plata](https://open.spotify.com/track/4J5tVP18No1PCLSmmFPYji) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [La Plata](https://open.spotify.com/album/4Xu3pbXJU8bhrfMDEhN3lI) | 4:07 | 2023-09-01 | 2023-10-21 |
 | [La Playa](https://open.spotify.com/track/6vODt4E4hZNCsJ3hFe5Ve2) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Scoop Deville](https://open.spotify.com/artist/0LJri3xvwsHWKErcNKnZxg) | [La Playa](https://open.spotify.com/album/7u1DEKqn7WLabDAteCjPjH) | 3:24 | 2024-03-22 | 2024-04-13 |
-| [La Vida Loca](https://open.spotify.com/track/33LE0sQAMPgDIbJIDR8Q66) | [Sauceda SM](https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Shit Masiva](https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78) | 3:07 | 2024-07-19 |  |
+| [La Vida Loca](https://open.spotify.com/track/33LE0sQAMPgDIbJIDR8Q66) | [Sauceda SM](https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Shit Masiva](https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78) | 3:32 | 2024-07-19 |  |
 | [La última Y No Nos Vamos](https://open.spotify.com/track/6ZsL4COu7tM4m9inHPxAdH) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9) | [La Última Y No Nos Vamos \(Episodio 4\)](https://open.spotify.com/album/1sAhYHPWUiUkW6Lhr0q5M9) | 2:54 | 2023-03-31 | 2023-06-24 |
 | [Laayli' kuxa'ano'one](https://open.spotify.com/track/02dF3qjpgTpmPCBKo72C06) | [Adn Maya Colectivo](https://open.spotify.com/artist/3jADYwTI7Ae1cGiix32d3o), [Pat Boy](https://open.spotify.com/artist/7w2LEbH35jdB5RamMTuf40), [Yaalen K'uj](https://open.spotify.com/artist/3otlAvVRLjmlSjCNDA8SBu), [All Mayan Winik](https://open.spotify.com/artist/0gkJGL3WK17uE96aWRVDFd) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:44 | 2022-11-15 | 2022-12-17 |
 | [Laayli' kuxa'ano'one](https://open.spotify.com/track/6qBYHKN99lH5cZBHbfju1q) | [Adn Maya Colectivo](https://open.spotify.com/artist/3jADYwTI7Ae1cGiix32d3o), [Pat Boy](https://open.spotify.com/artist/7w2LEbH35jdB5RamMTuf40), [Yaalen K'uj](https://open.spotify.com/artist/3otlAvVRLjmlSjCNDA8SBu), [All Mayan Winik](https://open.spotify.com/artist/0gkJGL3WK17uE96aWRVDFd) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 3:44 | 2022-11-15 | 2022-11-21 |

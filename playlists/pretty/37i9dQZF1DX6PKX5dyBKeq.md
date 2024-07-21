@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Russ Millions
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,382,502 likes - 59 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,382,938 likes - 59 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

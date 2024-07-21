@@ -1,6 +1,6 @@
 {
   "description": "The best new music from the wide world of punk. Cover: SOFT PLAY",
-  "num_followers": 310436,
+  "num_followers": 310471,
   "original_name": "All New Punk",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
       "duration_ms": 238105,
       "name": "Jaw Locked",
       "url": "https://open.spotify.com/track/4O9ElEiw7JuYp8XILugzoX"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "DEAD AGAIN",
+        "url": "https://open.spotify.com/album/779L6djTaLxgLBBzHaM8lX"
+      },
+      "artists": [
+        {
+          "name": "DEREK DALI",
+          "url": "https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6"
+        }
+      ],
+      "duration_ms": 208604,
+      "name": "DEAD AGAIN",
+      "url": "https://open.spotify.com/track/1eDw0V97F5AR2E8BGCzIR0"
     },
     {
       "added_at": "2024-07-18 23:00:00",

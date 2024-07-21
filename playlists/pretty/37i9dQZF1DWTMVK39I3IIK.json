@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste nye knive i dansk musik! <a href=\"spotify:artist:6J9AFauvtJJ8brNaiWwWat\">Sira Jovina</a> p\u00e5 forsiden\ud83d\udd2a",
-  "num_followers": 23231,
+  "num_followers": 23247,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "grib mig hvis jeg falder",
-        "url": "https://open.spotify.com/album/4wlR4NXJZVLw4zjfPfkmHj"
-      },
-      "artists": [
-        {
-          "name": "KALASET",
-          "url": "https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7"
-        }
-      ],
-      "duration_ms": 193981,
-      "name": "Gennemsku Mig Nu",
-      "url": "https://open.spotify.com/track/3a6YcuG8rRxMtZdMWkAQCR"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Lyden Af Livet",
         "url": "https://open.spotify.com/album/1anEXLEWx8jsAnesccDtWv"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 230125,
       "name": "Lyden Af Livet",
       "url": "https://open.spotify.com/track/4JfnZgT0ehB5Za52GOgKNZ"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "grib mig hvis jeg falder",
+        "url": "https://open.spotify.com/album/4wlR4NXJZVLw4zjfPfkmHj"
+      },
+      "artists": [
+        {
+          "name": "KALASET",
+          "url": "https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7"
+        }
+      ],
+      "duration_ms": 193981,
+      "name": "Gennemsku Mig Nu",
+      "url": "https://open.spotify.com/track/3a6YcuG8rRxMtZdMWkAQCR"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Siger Det Ik'",
-        "url": "https://open.spotify.com/album/1hdjh1iAjtRzAwKfy8LMO8"
-      },
-      "artists": [
-        {
-          "name": "UNG-SKAB",
-          "url": "https://open.spotify.com/artist/7JfoyGGsFgGPfhgfPvpqk8"
-        }
-      ],
-      "duration_ms": 168986,
-      "name": "Siger Det Ik'",
-      "url": "https://open.spotify.com/track/0A4EXxKqR3WSfft3rwFeHU"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "dagdr\u00f8mmer (akustisk version)",
         "url": "https://open.spotify.com/album/7f6dsDteuo24cgM9vK5RSh"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 162573,
       "name": "l\u00e6s mig (akustisk version)",
       "url": "https://open.spotify.com/track/3rY5dgQAki617xDHkqjEux"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Siger Det Ik'",
+        "url": "https://open.spotify.com/album/1hdjh1iAjtRzAwKfy8LMO8"
+      },
+      "artists": [
+        {
+          "name": "UNG-SKAB",
+          "url": "https://open.spotify.com/artist/7JfoyGGsFgGPfhgfPvpqk8"
+        }
+      ],
+      "duration_ms": 168986,
+      "name": "Siger Det Ik'",
+      "url": "https://open.spotify.com/track/0A4EXxKqR3WSfft3rwFeHU"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "Amager Forbr\u00e6nding",
+        "url": "https://open.spotify.com/album/4Bkf4gR14UujSaNy6WlX8H"
+      },
+      "artists": [
+        {
+          "name": "Carl Emil Petersen",
+          "url": "https://open.spotify.com/artist/110Rr0Zj9wSL6vOlh9DEyW"
+        }
+      ],
+      "duration_ms": 184075,
+      "name": "Levende Billeder",
+      "url": "https://open.spotify.com/track/586R54PZL7ylXFu9UIiPTx"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "Amor",
         "url": "https://open.spotify.com/album/22Es0Jeka50VvECPh4TOpu"
       },
@@ -1023,8 +1039,8 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Noget For Nogen",
-        "url": "https://open.spotify.com/album/4cTBw8cEyxgshlZz5SO447"
+        "name": "Ny Og N\u00e6",
+        "url": "https://open.spotify.com/album/10LVG1XLuoTivi3WYvPqkD"
       },
       "artists": [
         {
@@ -1032,25 +1048,9 @@
           "url": "https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Noget For Nogen",
-      "url": "https://open.spotify.com/track/6nzQ4R4i3g70M0ZKo8qaiT"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Amager Forbr\u00e6nding",
-        "url": "https://open.spotify.com/album/4Bkf4gR14UujSaNy6WlX8H"
-      },
-      "artists": [
-        {
-          "name": "Carl Emil Petersen",
-          "url": "https://open.spotify.com/artist/110Rr0Zj9wSL6vOlh9DEyW"
-        }
-      ],
-      "duration_ms": 184075,
-      "name": "Levende Billeder",
-      "url": "https://open.spotify.com/track/586R54PZL7ylXFu9UIiPTx"
+      "duration_ms": 191437,
+      "name": "Ny Og N\u00e6",
+      "url": "https://open.spotify.com/track/3Qrb34pY41bEv1UaFy9li9"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Sol Gennem Regn",
-        "url": "https://open.spotify.com/album/1wnPzqdbhmYpeuZ5TZe385"
-      },
-      "artists": [
-        {
-          "name": "UNG-SKAB",
-          "url": "https://open.spotify.com/artist/7JfoyGGsFgGPfhgfPvpqk8"
-        }
-      ],
-      "duration_ms": 173450,
-      "name": "Sol Gennem Regn",
-      "url": "https://open.spotify.com/track/17n1KmOAVGpXe8BnWKrAD4"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Klubben (i Klubben)",
         "url": "https://open.spotify.com/album/2yxOclgOPNKkEJ5rC5OQ1j"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 171918,
       "name": "Klubben (i Klubben) (feat. Choir Of Young Believers)",
       "url": "https://open.spotify.com/track/2jlxBDCYsN3jdKqA7EviyG"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Sol Gennem Regn",
+        "url": "https://open.spotify.com/album/1wnPzqdbhmYpeuZ5TZe385"
+      },
+      "artists": [
+        {
+          "name": "UNG-SKAB",
+          "url": "https://open.spotify.com/artist/7JfoyGGsFgGPfhgfPvpqk8"
+        }
+      ],
+      "duration_ms": 173450,
+      "name": "Sol Gennem Regn",
+      "url": "https://open.spotify.com/track/17n1KmOAVGpXe8BnWKrAD4"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Ny Og N\u00e6",
-        "url": "https://open.spotify.com/album/10LVG1XLuoTivi3WYvPqkD"
+        "name": "GENSTART",
+        "url": "https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11"
       },
       "artists": [
         {
-          "name": "Pauline",
-          "url": "https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl"
+          "name": "PATINA",
+          "url": "https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh"
         }
       ],
-      "duration_ms": 191437,
-      "name": "Ny Og N\u00e6",
-      "url": "https://open.spotify.com/track/3Qrb34pY41bEv1UaFy9li9"
+      "duration_ms": 280244,
+      "name": "Genstart",
+      "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
     }
   ],
   "unique_name": "ung kniv ",

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Simon & Garfunkel. Los temas esenciales, todos en una lista.",
-  "num_followers": 332676,
+  "description": "This is Simon & Garfunkel. The essential tracks, all in one playlist.",
+  "num_followers": 332767,
   "original_name": "This Is Simon & Garfunkel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZphbAAAAAAChTShJG/7CNJreHEKBDFQq",
+  "snapshot_id": "ZpmsgAAAAABBfGHBPb4AfY6EpwtB22Ah",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 238413,
-      "name": "The Only Living Boy in New York",
-      "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
+      "duration_ms": 187040,
+      "name": "El Condor Pasa (If I Could)",
+      "url": "https://open.spotify.com/track/1eN42Q7IWRzRBq8eW2Y2TE"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 187040,
-      "name": "El Condor Pasa (If I Could)",
-      "url": "https://open.spotify.com/track/1eN42Q7IWRzRBq8eW2Y2TE"
+      "duration_ms": 238413,
+      "name": "The Only Living Boy in New York",
+      "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
     },
     {
       "added_at": null,

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Aquí vive el hip\-hop mexicano\. Remik Gonzalez en la casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,668 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,714 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [GOET](https://open.spotify.com/track/5CE77TLqLjOQ2qgAobzPds) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [GOET](https://open.spotify.com/album/3tbuO1Yqd3nkyGdVqqtAbF) | 3:01 |
 | 2 | [El De La Letra B \(Remix\)](https://open.spotify.com/track/1PLXWZh44pL4f3hQ7YO4g4) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Ian Cordova](https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh) | [El De La Letra B \(Remix\)](https://open.spotify.com/album/6zlhI5c5nNI1T7RxRIj7rd) | 3:11 |
 | 3 | [PUT EM IN THE FRIDGE](https://open.spotify.com/track/2BACqEbfDpPMOO7xhSOz2B) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 2:34 |
-| 4 | [La Vida Loca](https://open.spotify.com/track/33LE0sQAMPgDIbJIDR8Q66) | [Sauceda SM](https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Shit Masiva](https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78) | 3:07 |
+| 4 | [La Vida Loca](https://open.spotify.com/track/33LE0sQAMPgDIbJIDR8Q66) | [Sauceda SM](https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Shit Masiva](https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78) | 3:32 |
 | 5 | [Alzypher Vol\. 18](https://open.spotify.com/track/4iYPFY7wHMfdFhqJAaPFw6) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j) | [Alzypher Vol\. 18](https://open.spotify.com/album/4G7la9eJr0ZngnCHjV2mYo) | 3:34 |
 | 6 | [Cypher Rv X Capital Gang](https://open.spotify.com/track/5hjdGrBkuYrNBAuiqahcES) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Sipo One](https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Achepe](https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM), [T\-Killa](https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl) | [Cypher Rv X Capital Gang](https://open.spotify.com/album/5tw3f8pEpPTY0yEqYzIaYg) | 4:45 |
 | 7 | [Enemigo de las Leyes](https://open.spotify.com/track/5NnlIpnudDfVZ76j5e2pea) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6) | [Enemigo de las Leyes](https://open.spotify.com/album/7LPAiVJnr8g9HCPHCnkZzi) | 3:20 |

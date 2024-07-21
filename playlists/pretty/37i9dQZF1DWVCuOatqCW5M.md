@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from your fav I\-Pop artists\. Cover\- Zaeden
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,042 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,064 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 10 | [Chhadd Jaave](https://open.spotify.com/track/0R1ME9ewzPRKNqU3Qj5fJQ) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Chhadd Jaave](https://open.spotify.com/album/0VVqWKutHXIRyzbk9VFAOO) | 3:00 |
 | 11 | [Mohabbat Ki Barsaat](https://open.spotify.com/track/1nKKWaoGyBf3UCJkiypoVT) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Mohabbat Ki Barsaat](https://open.spotify.com/album/4Aqx9rGv4hbPB6lrGdrBgq) | 3:19 |
 | 12 | [Anjaane](https://open.spotify.com/track/0T22EWhBIWwHi7VYQUaS3m) | [Achint](https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk) | [Anjaane](https://open.spotify.com/album/1WsEkPOTz7bZOqwZ5LAuPG) | 3:05 |
-| 13 | [Kaisa Rishta Ye Banaayaa Tune Rab](https://open.spotify.com/track/4wTnN3TNxGgOwyNubm44ng) | [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH) | [Kaisa Rishta Ye Banaayaa Tune Rab](https://open.spotify.com/album/0ZDIAUNKLgVqd2EhwKcju1) | 4:12 |
+| 13 | [Kaisa Rishta Ye Banaayaa Tune Rab](https://open.spotify.com/track/4wTnN3TNxGgOwyNubm44ng) | [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH), [Akshay Vairagi](https://open.spotify.com/artist/7L3uC1DOPeLK4TC4AQQ5pz), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK) | [Kaisa Rishta Ye Banaayaa Tune Rab](https://open.spotify.com/album/0ZDIAUNKLgVqd2EhwKcju1) | 4:12 |
 | 14 | [Ae Kaash](https://open.spotify.com/track/05mqon0NyDBLuk8poJM3LV) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Salman Ali](https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF), [Shraddha Pandit](https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa) | [Ae Kaash](https://open.spotify.com/album/6l72zPQJGJsbi6HAEw2sHN) | 3:35 |
 | 15 | [Madham Madham](https://open.spotify.com/track/6H5Au8nOo8eaWMga2O6ntM) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK) | [Madham Madham](https://open.spotify.com/album/5FoFP34d98jLxiy6fUMwAQ) | 3:35 |
 | 16 | [Sada \- From "Tijori"](https://open.spotify.com/track/7AvF3ANEUvn8rHI9Q3XFPL) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Blu Attic](https://open.spotify.com/artist/4yIQ0g5IyRNgJBsWsgkjIe), [Aaromal](https://open.spotify.com/artist/5nRJ2qrhbaylhsz0lslpFV) | [Sada \(From "Tijori"\)](https://open.spotify.com/album/0Ux0Ddwebdd41QGJGsIGjX) | 4:46 |

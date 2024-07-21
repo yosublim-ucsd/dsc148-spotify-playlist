@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: MC Rogerinho, WIU
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,491 likes - 74 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,490 likes - 74 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 9 | [Estilo do QTZ](https://open.spotify.com/track/33VoEPPMrW6gOkW4OmTg6i) | [Tivityn](https://open.spotify.com/artist/17eBIeZfCeaETi2IgqQlxE) | [Estilo do QTZ](https://open.spotify.com/album/66dqjdGP4v7CZs9yoXfxRm) | 1:59 |
 | 10 | [NGM De Fora](https://open.spotify.com/track/51xlYvtiz9zpc5FqvTYQoR) | [Ar Baby](https://open.spotify.com/artist/2AT3153fquK7QLZYfOLi9K), [2T](https://open.spotify.com/artist/3ls0I42IWbgbZFnFCfi21m), [Fresh Records](https://open.spotify.com/artist/57W4uiQxtVLKnwQWctG1gB), [DuaL021](https://open.spotify.com/artist/56GWDFupQ5FL0YanKueYCH), [Jotta7](https://open.spotify.com/artist/58R1ujQvkCqUT4Ljk9CjVf) | [NGM de Fora](https://open.spotify.com/album/6BYoe5HjRwllZegYuBJ2Ir) | 2:27 |
 | 11 | [Mafioso](https://open.spotify.com/track/22XOIijyGcMvNoJ3a2lTH5) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Yuri Primo](https://open.spotify.com/artist/0h05nT9ApNry2PENabj4sl), [Kustor](https://open.spotify.com/artist/01KhiXBvC4UaFIaTFrzgjx) | [Mafioso](https://open.spotify.com/album/1OCG0tloxa1bQpJaKV7Pi2) | 2:45 |
-| 12 | [Vibe dos Prédios \(Soudlab\#2\)](https://open.spotify.com/track/4tXaOmIOTfruT3l00t9fyQ) | [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [BG70](https://open.spotify.com/artist/1zoPugTFUOjfJo2J90ghDw) | [Vibe dos Prédios \(Soudlab\#2\)](https://open.spotify.com/album/24RPHscwFahORa65Mh6L5P) | 2:45 |
+| 12 | [Vibe dos Prédios \(Soudlab\#2\)](https://open.spotify.com/track/4tXaOmIOTfruT3l00t9fyQ) | [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [BG70](https://open.spotify.com/artist/1zoPugTFUOjfJo2J90ghDw), [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Vibe dos Prédios \(Soudlab\#2\)](https://open.spotify.com/album/24RPHscwFahORa65Mh6L5P) | 2:45 |
 | 13 | [Melhores Dias](https://open.spotify.com/track/75zNDGCcRnQ7HgdNK4KRAh) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN) | [Dialeto Delinquente](https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB) | 2:04 |
 | 14 | [Sua Saudade](https://open.spotify.com/track/1etE6wBGPMcJr2xZZQbNgM) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Italo Melo](https://open.spotify.com/artist/7DCF8Y7xwC2LkdHth5E7c8) | [Minha Ex é Minha Maior Fã](https://open.spotify.com/album/6EjbpqfdOx0HdpScIcSoVw) | 4:04 |
 | 15 | [Drink Azul 2 \(feat\. TcheloBeats\)](https://open.spotify.com/track/3ZXt3rfyWUjRFANw2KsXN3) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87), [TcheloBeats](https://open.spotify.com/artist/1jsSoxl3CZZjIEplGDBd3B) | [Drink Azul 2 \(feat\. TcheloBeats\)](https://open.spotify.com/album/4VpX1NU92MkXt0slgyFrbX) | 3:32 |

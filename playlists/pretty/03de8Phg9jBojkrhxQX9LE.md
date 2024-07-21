@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,724 likes - 152 songs - 8 hr 42 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,735 likes - 152 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 16 | [Lavish \(feat\. Redders\)](https://open.spotify.com/track/5VRnOOYvlSHKLjD3yAB9mT) | [Bianca Oblivion](https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94), [Redders](https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk) | [Lavish \(feat\. Redders\)](https://open.spotify.com/album/4necD8Wd7Zp8aMepQvwhAK) | 2:23 |
 | 17 | [Alone With You \(feat\. AlunaGeorge\)](https://open.spotify.com/track/2lxW1CHmEhVZc9d94IdxwJ) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Alone With You \(feat\. AlunaGeorge\)](https://open.spotify.com/album/4Whi7aaBEJhYP37iNaupol) | 2:58 |
 | 18 | [Belong To Me](https://open.spotify.com/track/3vyUvAoODWmnHlbytG7KTY) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Belong To Me](https://open.spotify.com/album/6BRxdbRzHzAZJP2A8te7wQ) | 3:18 |
-| 19 | [HAUNT ME](https://open.spotify.com/track/6NezzY7fxfLs3twWjj3rUg) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ), [artemis orion](https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg) | [Lost In Paranoia EP](https://open.spotify.com/album/1AArcaQENbluAkBH4wVw0V) | 3:31 |
+| 19 | [HAUNT ME](https://open.spotify.com/track/6NezzY7fxfLs3twWjj3rUg) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ), [artemis orion](https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg) | [Lost In Paranoia](https://open.spotify.com/album/1AArcaQENbluAkBH4wVw0V) | 3:31 |
 | 20 | [Sit Down](https://open.spotify.com/track/7eFOkLB2xgBjcBBru0BD8o) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Sit Down](https://open.spotify.com/album/1T4vM2JuwbMaFIcuwJXR8Y) | 2:51 |
 | 21 | [Gone](https://open.spotify.com/track/5XLeb3P1uKR7eF1rPcgVMM) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [PASSPORT](https://open.spotify.com/artist/5F8uZfcb8vSjCAtsLSVWOL), [KELIZA](https://open.spotify.com/artist/30lY0f2CYHFHHKPn4PsRrs) | [Gone](https://open.spotify.com/album/7fFjDKcZM56M8EzOgpws1m) | 3:44 |
 | 22 | [badthiings \(rip avicii\)](https://open.spotify.com/track/5DfmnhUS1s3m87fsDSedoe) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [GOODBYE SALÒ](https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1) | 3:31 |

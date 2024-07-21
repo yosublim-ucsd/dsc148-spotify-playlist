@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: PRIBELSZKI",
-  "num_followers": 13378,
+  "num_followers": 13384,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -379,26 +379,22 @@
     {
       "added_at": "2024-07-19 13:24:54",
       "album": {
-        "name": "n\u00e9ha-n\u00e9ha",
-        "url": "https://open.spotify.com/album/4ozadBudxjgvEmKraTBPi8"
+        "name": "Sivatag",
+        "url": "https://open.spotify.com/album/0Z78ucckt1P6XNux1EoEBu"
       },
       "artists": [
         {
-          "name": "Mehringer",
-          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
+          "name": "Indigo",
+          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
         },
         {
-          "name": "Filo",
-          "url": "https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee"
-        },
-        {
-          "name": "sosehol",
-          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
+          "name": "Dan Pinto",
+          "url": "https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw"
         }
       ],
-      "duration_ms": 201000,
-      "name": "n\u00e9ha-n\u00e9ha",
-      "url": "https://open.spotify.com/track/3d11FZAmFZ57EXpv0CgsGO"
+      "duration_ms": 152658,
+      "name": "Sivatag",
+      "url": "https://open.spotify.com/track/5qaOxpSVzbHHSF4J7yyBKS"
     },
     {
       "added_at": "2024-07-19 13:24:54",
@@ -435,6 +431,30 @@
       "duration_ms": 199305,
       "name": "Orrv\u00e9rz\u00e9s",
       "url": "https://open.spotify.com/track/6enUH4ma5KwzXyCucty8yT"
+    },
+    {
+      "added_at": "2024-07-19 13:24:54",
+      "album": {
+        "name": "n\u00e9ha-n\u00e9ha",
+        "url": "https://open.spotify.com/album/4ozadBudxjgvEmKraTBPi8"
+      },
+      "artists": [
+        {
+          "name": "Mehringer",
+          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
+        },
+        {
+          "name": "Filo",
+          "url": "https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee"
+        },
+        {
+          "name": "sosehol",
+          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "n\u00e9ha-n\u00e9ha",
+      "url": "https://open.spotify.com/track/3d11FZAmFZ57EXpv0CgsGO"
     },
     {
       "added_at": "2024-07-19 13:24:54",
@@ -491,26 +511,6 @@
     {
       "added_at": "2024-07-19 13:24:54",
       "album": {
-        "name": "Sivatag",
-        "url": "https://open.spotify.com/album/0Z78ucckt1P6XNux1EoEBu"
-      },
-      "artists": [
-        {
-          "name": "Indigo",
-          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
-        },
-        {
-          "name": "Dan Pinto",
-          "url": "https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw"
-        }
-      ],
-      "duration_ms": 152658,
-      "name": "Sivatag",
-      "url": "https://open.spotify.com/track/5qaOxpSVzbHHSF4J7yyBKS"
-    },
-    {
-      "added_at": "2024-07-19 13:24:54",
-      "album": {
         "name": "Sz\u00f6rny vagyok",
         "url": "https://open.spotify.com/album/5JJgpHyOAnaceUH0RKmmI7"
       },
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-07-19 13:24:54",
       "album": {
-        "name": "Diszkomfort",
-        "url": "https://open.spotify.com/album/4TfQVT90BnuML3cWv4LIz8"
-      },
-      "artists": [
-        {
-          "name": "szolnoki",
-          "url": "https://open.spotify.com/artist/7xTpU206maLjUZtvl5xx4X"
-        }
-      ],
-      "duration_ms": 155278,
-      "name": "Diszkomfort",
-      "url": "https://open.spotify.com/track/0KycjsM9rZi1Ys6z15xKxu"
-    },
-    {
-      "added_at": "2024-07-19 13:24:54",
-      "album": {
         "name": "Quatre Grapes",
         "url": "https://open.spotify.com/album/166W34UydwJ0pZlsNbrRKN"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 210400,
       "name": "Quatre Grapes",
       "url": "https://open.spotify.com/track/4a8KAMlAAhdTuBxGnjS6Zc"
+    },
+    {
+      "added_at": "2024-07-19 13:24:54",
+      "album": {
+        "name": "Diszkomfort",
+        "url": "https://open.spotify.com/album/4TfQVT90BnuML3cWv4LIz8"
+      },
+      "artists": [
+        {
+          "name": "szolnoki",
+          "url": "https://open.spotify.com/artist/7xTpU206maLjUZtvl5xx4X"
+        }
+      ],
+      "duration_ms": 155278,
+      "name": "Diszkomfort",
+      "url": "https://open.spotify.com/track/0KycjsM9rZi1Ys6z15xKxu"
     },
     {
       "added_at": "2024-07-19 13:24:54",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-07-19 13:24:54",
       "album": {
-        "name": "Legszebb Hib\u00e1nk",
-        "url": "https://open.spotify.com/album/3m9VNJ9qZMXhBHwmJ2ldi9"
-      },
-      "artists": [
-        {
-          "name": "Beretka \u00c1d\u00e1m",
-          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "Legszebb Hib\u00e1nk",
-      "url": "https://open.spotify.com/track/1aDekm12qg6Eu7cOwlAOBw"
-    },
-    {
-      "added_at": "2024-07-19 13:24:54",
-      "album": {
         "name": "Ugyanitt v\u00e1rlak",
         "url": "https://open.spotify.com/album/3K0RrtPlf7DttkxvCrrVKj"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 197500,
       "name": "Ugyanitt v\u00e1rlak",
       "url": "https://open.spotify.com/track/1b6DV0wJ8YWBzFINSUNRFO"
+    },
+    {
+      "added_at": "2024-07-19 13:24:54",
+      "album": {
+        "name": "Legszebb Hib\u00e1nk",
+        "url": "https://open.spotify.com/album/3m9VNJ9qZMXhBHwmJ2ldi9"
+      },
+      "artists": [
+        {
+          "name": "Beretka \u00c1d\u00e1m",
+          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "Legszebb Hib\u00e1nk",
+      "url": "https://open.spotify.com/track/1aDekm12qg6Eu7cOwlAOBw"
     },
     {
       "added_at": "2024-07-19 13:24:54",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-07-19 13:24:54",
       "album": {
+        "name": "Dreamgirl",
+        "url": "https://open.spotify.com/album/2jCYpMUl6kltjhUpxotxBO"
+      },
+      "artists": [
+        {
+          "name": "Puzzls",
+          "url": "https://open.spotify.com/artist/0p4n095CPa0aR6OirCbVD9"
+        }
+      ],
+      "duration_ms": 132727,
+      "name": "Dreamgirl",
+      "url": "https://open.spotify.com/track/4GaXyfHQd1grsMdL5y5N50"
+    },
+    {
+      "added_at": "2024-07-19 13:24:54",
+      "album": {
         "name": "Szob\u00e1k felett",
         "url": "https://open.spotify.com/album/5LiXOFGCIm4rXVEclWrsmB"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 232293,
       "name": "Alb\u00e9rlet",
       "url": "https://open.spotify.com/track/0LxmBrcAbrGY9Z1kNZChic"
-    },
-    {
-      "added_at": "2024-07-19 13:24:54",
-      "album": {
-        "name": "Romeo and Juliet",
-        "url": "https://open.spotify.com/album/7E1RYDo9HsSGefJI92cum9"
-      },
-      "artists": [
-        {
-          "name": "Saya No\u00e9",
-          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
-        }
-      ],
-      "duration_ms": 174250,
-      "name": "Romeo and Juliet",
-      "url": "https://open.spotify.com/track/5gRSdMYwjwS4TvnS4fRufp"
     },
     {
       "added_at": "2024-07-19 13:24:54",
@@ -923,18 +923,18 @@
     {
       "added_at": "2024-07-19 13:24:54",
       "album": {
-        "name": "Dreamgirl",
-        "url": "https://open.spotify.com/album/2jCYpMUl6kltjhUpxotxBO"
+        "name": "Romeo and Juliet",
+        "url": "https://open.spotify.com/album/7E1RYDo9HsSGefJI92cum9"
       },
       "artists": [
         {
-          "name": "Puzzls",
-          "url": "https://open.spotify.com/artist/0p4n095CPa0aR6OirCbVD9"
+          "name": "Saya No\u00e9",
+          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
         }
       ],
-      "duration_ms": 132727,
-      "name": "Dreamgirl",
-      "url": "https://open.spotify.com/track/4GaXyfHQd1grsMdL5y5N50"
+      "duration_ms": 174250,
+      "name": "Romeo and Juliet",
+      "url": "https://open.spotify.com/track/5gRSdMYwjwS4TvnS4fRufp"
     },
     {
       "added_at": "2024-07-19 13:24:54",
@@ -967,22 +967,6 @@
       "duration_ms": 202400,
       "name": "RENDEZ\u0150I V\u00c1LTOZAT",
       "url": "https://open.spotify.com/track/4TU5svg9eXvk6USHEZJn84"
-    },
-    {
-      "added_at": "2024-07-19 13:24:54",
-      "album": {
-        "name": "Megbolond\u00edtott\u00e1l",
-        "url": "https://open.spotify.com/album/0GcH92lOVlvEemDDetvKxX"
-      },
-      "artists": [
-        {
-          "name": "Saya No\u00e9",
-          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
-        }
-      ],
-      "duration_ms": 198665,
-      "name": "Megbolond\u00edtott\u00e1l",
-      "url": "https://open.spotify.com/track/4GvYeS4CDBsWzuOaNloPp8"
     },
     {
       "added_at": "2024-07-19 13:24:54",
@@ -1031,6 +1015,22 @@
       "duration_ms": 162099,
       "name": "N\u00e9gyes-Hatos",
       "url": "https://open.spotify.com/track/53f8mvFLHGOny8RyF8qkrX"
+    },
+    {
+      "added_at": "2024-07-19 13:24:54",
+      "album": {
+        "name": "Megbolond\u00edtott\u00e1l",
+        "url": "https://open.spotify.com/album/0GcH92lOVlvEemDDetvKxX"
+      },
+      "artists": [
+        {
+          "name": "Saya No\u00e9",
+          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
+        }
+      ],
+      "duration_ms": 198665,
+      "name": "Megbolond\u00edtott\u00e1l",
+      "url": "https://open.spotify.com/track/4GvYeS4CDBsWzuOaNloPp8"
     },
     {
       "added_at": "2024-07-19 13:24:54",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-07-19 13:24:54",
       "album": {
-        "name": "ENSO",
-        "url": "https://open.spotify.com/album/2Zm6SG1MzkQmTRy2ZDekyH"
-      },
-      "artists": [
-        {
-          "name": "kristoaf",
-          "url": "https://open.spotify.com/artist/1JkASUd5gc4NlepQHX4KVz"
-        }
-      ],
-      "duration_ms": 186750,
-      "name": "POCSOLYA",
-      "url": "https://open.spotify.com/track/1xhtbZAAjUEuldqYNil0rW"
-    },
-    {
-      "added_at": "2024-07-19 13:24:54",
-      "album": {
         "name": "CSILLAGT\u00daRA",
         "url": "https://open.spotify.com/album/2IdXSgwU1THJ65yaSh4jTF"
       },
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2024-07-19 13:24:54",
       "album": {
+        "name": "ENSO",
+        "url": "https://open.spotify.com/album/2Zm6SG1MzkQmTRy2ZDekyH"
+      },
+      "artists": [
+        {
+          "name": "kristoaf",
+          "url": "https://open.spotify.com/artist/1JkASUd5gc4NlepQHX4KVz"
+        }
+      ],
+      "duration_ms": 186750,
+      "name": "POCSOLYA",
+      "url": "https://open.spotify.com/track/1xhtbZAAjUEuldqYNil0rW"
+    },
+    {
+      "added_at": "2024-07-19 13:24:54",
+      "album": {
         "name": "SAME OLD LIES",
         "url": "https://open.spotify.com/album/1GpPYa9LDqDt8nCXimLWNk"
       },
@@ -1223,54 +1223,6 @@
       "duration_ms": 154329,
       "name": "SAME OLD LIES",
       "url": "https://open.spotify.com/track/3o7poLcvXMdISIbfwkiGYN"
-    },
-    {
-      "added_at": "2024-07-19 13:24:54",
-      "album": {
-        "name": "VERTIGO",
-        "url": "https://open.spotify.com/album/5jcSebHW2VdUSrirHFuDnF"
-      },
-      "artists": [
-        {
-          "name": "H\u0171v\u00f6s",
-          "url": "https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA"
-        }
-      ],
-      "duration_ms": 217499,
-      "name": "VERTIGO",
-      "url": "https://open.spotify.com/track/6lRVrHMMpkizaoq32hZMaR"
-    },
-    {
-      "added_at": "2024-07-19 13:24:54",
-      "album": {
-        "name": "l\u00e9lekveszt\u0151",
-        "url": "https://open.spotify.com/album/1kmRowYdtUySOuanW922gI"
-      },
-      "artists": [
-        {
-          "name": "girlhood",
-          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "l\u00e9lekveszt\u0151",
-      "url": "https://open.spotify.com/track/7dgFk7rFobeILxZRDfiCNC"
-    },
-    {
-      "added_at": "2024-07-19 13:24:54",
-      "album": {
-        "name": "Ellensz\u00e9lben",
-        "url": "https://open.spotify.com/album/4By8kRZG7dHeKY4CBKbU7y"
-      },
-      "artists": [
-        {
-          "name": "Galaxisok",
-          "url": "https://open.spotify.com/artist/0oTbG6PYGGhT0vRYqByYEL"
-        }
-      ],
-      "duration_ms": 173750,
-      "name": "Fekete p\u00f3l\u00f3",
-      "url": "https://open.spotify.com/track/1uI3hvdmVeRXOe5XEuwn3E"
     },
     {
       "added_at": "2024-07-19 13:24:54",
@@ -1291,22 +1243,50 @@
     {
       "added_at": "2024-07-19 13:24:54",
       "album": {
-        "name": "Dreaming",
-        "url": "https://open.spotify.com/album/7K0LwglwjmTKmciV4qQXYa"
+        "name": "l\u00e9lekveszt\u0151",
+        "url": "https://open.spotify.com/album/1kmRowYdtUySOuanW922gI"
       },
       "artists": [
         {
-          "name": "som som",
-          "url": "https://open.spotify.com/artist/5QsyNOmpemZtsGIjTcufjN"
-        },
-        {
-          "name": "Dom Beats",
-          "url": "https://open.spotify.com/artist/2eaCBvMHhhq9rQo9npqKet"
+          "name": "girlhood",
+          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
         }
       ],
-      "duration_ms": 250898,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/2ROgCcAANTmdGfsX4HjrvF"
+      "duration_ms": 195692,
+      "name": "l\u00e9lekveszt\u0151",
+      "url": "https://open.spotify.com/track/7dgFk7rFobeILxZRDfiCNC"
+    },
+    {
+      "added_at": "2024-07-19 13:24:54",
+      "album": {
+        "name": "VERTIGO",
+        "url": "https://open.spotify.com/album/5jcSebHW2VdUSrirHFuDnF"
+      },
+      "artists": [
+        {
+          "name": "H\u0171v\u00f6s",
+          "url": "https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA"
+        }
+      ],
+      "duration_ms": 217499,
+      "name": "VERTIGO",
+      "url": "https://open.spotify.com/track/6lRVrHMMpkizaoq32hZMaR"
+    },
+    {
+      "added_at": "2024-07-19 13:24:54",
+      "album": {
+        "name": "Ellensz\u00e9lben",
+        "url": "https://open.spotify.com/album/4By8kRZG7dHeKY4CBKbU7y"
+      },
+      "artists": [
+        {
+          "name": "Galaxisok",
+          "url": "https://open.spotify.com/artist/0oTbG6PYGGhT0vRYqByYEL"
+        }
+      ],
+      "duration_ms": 173750,
+      "name": "Fekete p\u00f3l\u00f3",
+      "url": "https://open.spotify.com/track/1uI3hvdmVeRXOe5XEuwn3E"
     },
     {
       "added_at": "2024-07-19 13:24:54",
@@ -1323,6 +1303,26 @@
       "duration_ms": 219562,
       "name": "Csup\u00e1n",
       "url": "https://open.spotify.com/track/5oLkVpF6enDCaFHBPPNOuP"
+    },
+    {
+      "added_at": "2024-07-19 13:24:54",
+      "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/7K0LwglwjmTKmciV4qQXYa"
+      },
+      "artists": [
+        {
+          "name": "som som",
+          "url": "https://open.spotify.com/artist/5QsyNOmpemZtsGIjTcufjN"
+        },
+        {
+          "name": "Dom Beats",
+          "url": "https://open.spotify.com/artist/2eaCBvMHhhq9rQo9npqKet"
+        }
+      ],
+      "duration_ms": 250898,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/2ROgCcAANTmdGfsX4HjrvF"
     },
     {
       "added_at": "2024-07-19 13:24:54",

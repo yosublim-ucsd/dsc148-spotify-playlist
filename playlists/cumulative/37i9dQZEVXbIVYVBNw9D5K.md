@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-962 songs - 1 day 23 hr 53 min
+964 songs - 1 day 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [ARABA](https://open.spotify.com/track/5tjWDHOCqsbKPuiivil0BM) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [ARABA](https://open.spotify.com/album/6qk5ajwfXB8QplASyF7lXH) | 2:13 | 2024-01-13 |  |
 | [ARABA](https://open.spotify.com/track/47l3syDKFT3PPonobpm1NA) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [ARABA](https://open.spotify.com/album/5fcQowx2O7wTG0QiOdWZe6) | 1:31 | 2023-06-12 | 2023-12-13 |
 | [ARADAN ÇOK YILLAR GEÇTİ](https://open.spotify.com/track/54zsmA29OuHxurKZwx77Li) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [13 Killoki](https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK), [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1) | [ARADAN ÇOK YILLAR GEÇTİ](https://open.spotify.com/album/3WuNWoi9UgDhWtLpEVboyQ) | 3:12 | 2024-03-16 | 2024-03-19 |
+| [Aradan Çok Yıllar Geçti](https://open.spotify.com/track/4CDY8eGMrkQjyOTkvsXiq0) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Aradan Çok Yıllar Geçti](https://open.spotify.com/album/4rsN93FJo8QLv2MLSiMivc) | 2:50 | 2024-07-20 |  |
 | [ARASAN DA](https://open.spotify.com/track/5sIHhx9IOpQ7ggv16wLsWZ) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 3:11 | 2022-09-10 | 2023-05-06 |
 | [ARASAN DA](https://open.spotify.com/track/72jYQj3RgTR1DFLfibD71B) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [ARASAN DA](https://open.spotify.com/album/604LjoILfRCmhYuLCFvel7) | 3:11 | 2022-03-18 | 2023-01-14 |
 | [Arıyorum](https://open.spotify.com/track/1jWXlhsOpwVGXtYUcI96tV) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Arıyorum](https://open.spotify.com/album/13SQLlpjrblc3zRrdBvr7E) | 3:13 | 2021-09-19 | 2022-01-05 |
@@ -126,7 +127,7 @@
 | [BASKIN \(feat\. Ceza & Gazapizm\)](https://open.spotify.com/track/6Cccs46H9lvssHSKypNe3D) | [DJ Sivo](https://open.spotify.com/artist/6hBbagFZrwC44AclzbxWvU), [Ceza](https://open.spotify.com/artist/28Qbi9jTj2eej21P2mImZI), [Gazapizm](https://open.spotify.com/artist/2boacFGRX1WIo7NFS8B0F2) | [Griot](https://open.spotify.com/album/0gFN1g60cmnD4HPFgujZVe) | 3:29 | 2021-07-11 | 2021-08-20 |
 | [Batık Gemi](https://open.spotify.com/track/00GZFsd16gSMedK2jHATQ4) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Karışık Kaset](https://open.spotify.com/album/4ugxmdGNXaqVHPuID09bs8) | 4:20 | 2023-12-16 | 2023-12-23 |
 | [Batık Gemi](https://open.spotify.com/track/3Gpffv3gaD1UxQPeElIjCp) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Karışık Kaset](https://open.spotify.com/album/5SHv3oXpZdmsqHt57lY0Yg) | 4:20 | 2023-12-22 |  |
-| [BAYBAY](https://open.spotify.com/track/232LbugfZaCUwq82xiELtd) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [BAYBAY](https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o) | 3:11 | 2023-03-18 |  |
+| [BAYBAY](https://open.spotify.com/track/232LbugfZaCUwq82xiELtd) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [BAYBAY](https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o) | 3:11 | 2023-03-18 | 2024-07-21 |
 | [BAYBAY](https://open.spotify.com/track/2QYc9Z0vdqsDgcRKHvg9qR) | [revient](https://open.spotify.com/artist/518ZNbTEeb6RifRfWNQ224), [JSON](https://open.spotify.com/artist/5AQ95bS3im8uXwX56pGVC2) | [BAYBAY](https://open.spotify.com/album/39ijDsCEuVWnVSi8Rnb8U3) | 3:11 | 2023-03-19 | 2023-03-21 |
 | [Başa Sar](https://open.spotify.com/track/0oTjuMN99JNRIj2CUdT3g7) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [Başa Sar](https://open.spotify.com/album/7reVX131NVuP74udQg1LPs) | 2:41 | 2021-04-13 | 2021-05-08 |
 | [Başıma Belasın](https://open.spotify.com/track/0Yyy5dSNK3cgknZ86Cto9g) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Başıma Belasın](https://open.spotify.com/album/6X7ylEnN9qu3zdK3GsTgYZ) | 2:24 | 2023-09-29 | 2024-03-24 |
@@ -271,6 +272,7 @@
 | [Diğer Yarım](https://open.spotify.com/track/38QSynLcDBfbETORhSsssH) | [ATE](https://open.spotify.com/artist/1gta8KxWev006kmzUCM0a5) | [Diğer Yarım](https://open.spotify.com/album/6BUUNt9guUeWxBEh8veuNj) | 2:22 | 2022-07-09 | 2023-06-11 |
 | [Dokunan Yanar](https://open.spotify.com/track/7LDAa5ZNwnEnLqheWiHatr) | [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD) | [Kağıt Kesikleri](https://open.spotify.com/album/6z02Z4aAPIvWgfI88xw1af) | 4:07 | 2022-06-04 | 2022-06-06 |
 | [Dom Dom Kurşunu \- E.K\. Remix](https://open.spotify.com/track/2NRJHv4gpxj4mK36prfq2r) | [İbrahim Tatlıses](https://open.spotify.com/artist/0gPgE6wLLiPnrakh9WcsdQ), [E.K.](https://open.spotify.com/artist/3T7jBTOmnCmP2DY2v3y2xy) | [Dom Dom Kurşunu \(E.K\. Remix\)](https://open.spotify.com/album/7BCHAXzmVaig14baYVNg8s) | 1:19 | 2021-04-13 | 2021-04-15 |
+| [DOMDOM](https://open.spotify.com/track/2gSRr7OuGdZ960VndIDgGS) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [DOMDOM](https://open.spotify.com/album/7qBK1pzSfq9fEXvQmVdT0X) | 2:13 | 2024-07-20 |  |
 | [Dondu Puşt](https://open.spotify.com/track/3bH14FqMe4LSmUVsaWgx9o) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Dondu Puşt](https://open.spotify.com/album/17thE0QIHYHAcqq52hjytR) | 2:23 | 2021-12-05 | 2021-12-06 |
 | [DOYAMADIM](https://open.spotify.com/track/4C9oMKq6WuLPVyLFncFMXR) | [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [DOYAMADIM](https://open.spotify.com/album/3ZcoGz1y8uuLK2TctffImK) | 2:37 | 2024-02-10 |  |
 | [DOĞUŞTAN BERİ HAKLIYIM \(tmm\)](https://open.spotify.com/track/2M7BEoyAzxLBKgnFQqUGmF) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [DOĞUŞTAN BERİ HAKLIYIM \(tmm\)](https://open.spotify.com/album/46Lu9sb5R04T208BLZ5kRm) | 2:13 | 2024-01-13 |  |
@@ -758,7 +760,7 @@
 | [Sana Bayılıyorum](https://open.spotify.com/track/1P75ygfeKbTnWpuyTzUpCy) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Zeynodisco](https://open.spotify.com/album/4bmvAhffkgJO3vtmq4KWwD) | 2:36 | 2021-05-23 | 2021-06-06 |
 | [Sana El Pençe Durmam](https://open.spotify.com/track/1cnx5g8kHElNAf28sV3mRJ) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [Sana El Pençe Durmam](https://open.spotify.com/album/7cstnexGC8wmiP8eQJpm3j) | 3:31 | 2024-05-28 |  |
 | [sana söz yine baharlar gelecek](https://open.spotify.com/track/0gEo5eyqUlq7XkgPMTtUy1) | [nezexous](https://open.spotify.com/artist/2jFc0gwjzIe1klTCZF8BDH), [CASH INC.](https://open.spotify.com/artist/6SlwDPsViVqnsWqQerbZH8), [samet aka spud](https://open.spotify.com/artist/3qrVFzmsmq7upWkunEfrKc) | [sana söz yine baharlar gelecek](https://open.spotify.com/album/1N4J6AD7zAMnZlD6C1NfKV) | 3:29 | 2023-05-15 | 2023-05-17 |
-| [Sana Yıldızları Ödediğimden](https://open.spotify.com/track/0fu7d7LgXjClCkgBmnNlc0) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Sana Yıldızları Ödediğimden](https://open.spotify.com/album/745xmwLY8UKgHtxDa9UMYU) | 4:18 | 2024-05-10 |  |
+| [Sana Yıldızları Ödediğimden](https://open.spotify.com/track/0fu7d7LgXjClCkgBmnNlc0) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Sana Yıldızları Ödediğimden](https://open.spotify.com/album/745xmwLY8UKgHtxDa9UMYU) | 4:18 | 2024-05-10 | 2024-07-21 |
 | [Sana Çıkıyor Yollar \- Kaderimin Oyunu Orijinal Dizi Müziği](https://open.spotify.com/track/7dvt5DT77W7neWuCfCUOYV) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Sana Çıkıyor Yollar \(Kaderimin Oyunu Orijinal Dizi Müziği\)](https://open.spotify.com/album/6GR9ERCXRTQ8edXsSuX7wi) | 3:49 | 2022-02-15 | 2023-06-18 |
 | [SAVANA](https://open.spotify.com/track/4zamjWcxvLNIkiAmBEQhda) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [22](https://open.spotify.com/album/3rLonfO60rC52gkXQzy7TW) | 3:23 | 2022-01-22 | 2022-01-30 |
 | [Savaştım Harbiden](https://open.spotify.com/track/082Z8aWrikvq4JA8qpgcgX) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1), [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [Savaştım Harbiden](https://open.spotify.com/album/5uLpCvsEo70kqh0fUD1u2w) | 2:31 | 2022-09-03 | 2023-01-09 |

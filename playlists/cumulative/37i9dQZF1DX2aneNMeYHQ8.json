@@ -1787,6 +1787,24 @@
     },
     {
       "album": {
+        "name": "Drugs",
+        "url": "https://open.spotify.com/album/67T0rpWRDBsHTVSCZqxC7e"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203739,
+      "name": "Drugs",
+      "url": "https://open.spotify.com/track/2kJUgk2aoKWN1cP1lErEOj"
+    },
+    {
+      "album": {
         "name": "Council Skies",
         "url": "https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f"
       },
@@ -2454,6 +2472,32 @@
       "duration_ms": 207294,
       "name": "Golden",
       "url": "https://open.spotify.com/track/5149LIHpBivPrcQsX5HZO6"
+    },
+    {
+      "album": {
+        "name": "Gonna Be Me (the friendship song)",
+        "url": "https://open.spotify.com/album/1xN72g072AxdFeiWrIVJZs"
+      },
+      "artists": [
+        {
+          "name": "O.A.R.",
+          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Brady Watt",
+          "url": "https://open.spotify.com/artist/3zx1v6xCo7VE8vxhhyqr5Y"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203303,
+      "name": "Gonna Be Me (the friendship song)",
+      "url": "https://open.spotify.com/track/4mQWiSFhxoo3hbllceNNTo"
     },
     {
       "album": {
@@ -4497,7 +4541,7 @@
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 138506,
+      "duration_ms": 138640,
       "name": "Midas",
       "url": "https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2"
     },
@@ -7400,7 +7444,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 208146,
       "name": "The Weakness",
       "url": "https://open.spotify.com/track/3HQYZhbq8hhVxof8H5nqVF"
@@ -8328,7 +8372,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 232917,
       "name": "Wondering Why",
       "url": "https://open.spotify.com/track/1OG7o5af3ILKrFkp7pvvb0"

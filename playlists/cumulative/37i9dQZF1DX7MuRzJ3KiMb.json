@@ -464,7 +464,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 155651,
       "name": "Caguamita Banquetera",
       "url": "https://open.spotify.com/track/20CVdUmIYyPy5Qcqr7uzrj"
@@ -746,7 +746,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 196384,
       "name": "Contigo Me Quedo",
       "url": "https://open.spotify.com/track/3iwURMcbfTjtOZcBrVwQh5"
@@ -1433,6 +1433,24 @@
     },
     {
       "album": {
+        "name": "Junto A Mi",
+        "url": "https://open.spotify.com/album/4hehFutvL9k78A5CgckCur"
+      },
+      "artists": [
+        {
+          "name": "ALMAS",
+          "url": "https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203837,
+      "name": "Junto A Mi (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/4ikv5erAaVObaPRd6zDrIt"
+    },
+    {
+      "album": {
         "name": "Navegando",
         "url": "https://open.spotify.com/album/1dExVI7g7HBba3243F7XRy"
       },
@@ -1700,10 +1718,28 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 188980,
       "name": "Menos T\u00fa Y Yo",
       "url": "https://open.spotify.com/track/43SNLAbMAeWEj5iV2WIrIm"
+    },
+    {
+      "album": {
+        "name": "Mi Casita",
+        "url": "https://open.spotify.com/album/6OlLFigu7as8Cee3dKyfpz"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159453,
+      "name": "Mi Casita",
+      "url": "https://open.spotify.com/track/7DwZmTFwaW6IExAyeGDKQ3"
     },
     {
       "album": {
@@ -3014,6 +3050,28 @@
       "duration_ms": 210357,
       "name": "TQM",
       "url": "https://open.spotify.com/track/0fEnop5LLsiuKZXyl8ZU48"
+    },
+    {
+      "album": {
+        "name": "TRAUMADOS",
+        "url": "https://open.spotify.com/album/0r8YRk6T4vdpRE8StwonTV"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Diana Meril",
+          "url": "https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215348,
+      "name": "TRAUMADOS",
+      "url": "https://open.spotify.com/track/5HiqWYk05KTv8bRxTjXtNV"
     },
     {
       "album": {

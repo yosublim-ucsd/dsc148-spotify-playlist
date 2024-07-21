@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: AYLIVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,419 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,520 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nein!](https://open.spotify.com/track/2wvUmObLQbxClXFsuhw8Ns) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Nein!](https://open.spotify.com/album/1J4tY6DjG58gdMmcVHllLu) | 3:14 |
 | 2 | [Starboy](https://open.spotify.com/track/0Rgdhptwk0A3Clbu5RpYI1) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Starboy](https://open.spotify.com/album/1NiBNFqgyaSatkYqDZqTtG) | 2:50 |
-| 3 | [I Adore You](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
+| 3 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
 | 4 | [DENK ZU VIEL NACH](https://open.spotify.com/track/1ctq4FdMatfR9ZNCY8WKbM) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [DENK ZU VIEL NACH](https://open.spotify.com/album/3rIVdn7T2glnMoBobBvjlA) | 2:24 |
 | 5 | [erste/letzte](https://open.spotify.com/track/4XHAU1QcCIj4GyPAlCsjs0) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [erste/letzte](https://open.spotify.com/album/11IioagwjEgh3hUGuNl3te) | 2:39 |
 | 6 | [abgelenkt](https://open.spotify.com/track/79XKsdLlYGx1lqwctmMD2v) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [abgelenkt](https://open.spotify.com/album/0eezzl5aVtoPFUO3InwewZ) | 2:39 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 13 | [Leben leben](https://open.spotify.com/track/7DvIRHBKdGVVJtnw8VGlWe) | [ELDENO](https://open.spotify.com/artist/1WjugBWqSC9hNVa7uonC7I), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Leben leben](https://open.spotify.com/album/0YfZZAmrgqVsmfxtltoyxv) | 2:31 |
 | 14 | [Alright](https://open.spotify.com/track/3lxLYA80tPMvpni048At5z) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Alright](https://open.spotify.com/album/6MNH5j7RV1tvYBIhPBR76x) | 2:23 |
 | 15 | [Dead Man](https://open.spotify.com/track/175ApsLKPzdEeEiibmtqFQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Dead Man](https://open.spotify.com/album/2bXR6WDlDnm31wMvAd0MhB) | 3:23 |
-| 16 | [rauch](https://open.spotify.com/track/3DxLnjueYU6PC7EhgWVNNl) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [rauch](https://open.spotify.com/album/3f1DyygD4bDZn6nshNhuLU) | 2:01 |
+| 16 | [rauch](https://open.spotify.com/track/3DxLnjueYU6PC7EhgWVNNl) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [rauch](https://open.spotify.com/album/3f1DyygD4bDZn6nshNhuLU) | 1:59 |
 | 17 | [Up All Night \(with The Lumineers & Noah Kahan\)](https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Up All Night](https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s) | 3:23 |
 | 18 | [One Call](https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [One Call](https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a) | 2:38 |
 | 19 | [We Want More](https://open.spotify.com/track/7nfCb5stHePZ6OoE7HDTe2) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [We Want More](https://open.spotify.com/album/7nKp2UoahBhOLo5KiYHqpd) | 2:53 |

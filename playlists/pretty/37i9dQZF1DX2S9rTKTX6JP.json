@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 684762,
+  "num_followers": 684896,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "Bad Guy",
-        "url": "https://open.spotify.com/album/2oU2YsoVW3KG0jIlDXWIkx"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 157831,
-      "name": "Bad Guy",
-      "url": "https://open.spotify.com/track/0iM1Ioz4N4p7MU1DKyqsov"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "The Promise",
         "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 205146,
       "name": "Because the Night",
       "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "Bad Guy",
+        "url": "https://open.spotify.com/album/2oU2YsoVW3KG0jIlDXWIkx"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 157831,
+      "name": "Bad Guy",
+      "url": "https://open.spotify.com/track/0iM1Ioz4N4p7MU1DKyqsov"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
+        "name": "Lest We Forget - The Best Of",
+        "url": "https://open.spotify.com/album/7fmOTYDQn9DIXCy1YDrl4S"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "duration_ms": 291440,
+      "name": "Sweet Dreams (Are Made Of This)",
+      "url": "https://open.spotify.com/track/0Xq7FPQaLJgIHSB605YUMy"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
         "name": "Wild Card/A Word To The Wise",
         "url": "https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 315491,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
-        "name": "Lest We Forget - The Best Of",
-        "url": "https://open.spotify.com/album/7fmOTYDQn9DIXCy1YDrl4S"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
-        }
-      ],
-      "duration_ms": 291440,
-      "name": "Sweet Dreams (Are Made Of This)",
-      "url": "https://open.spotify.com/track/0Xq7FPQaLJgIHSB605YUMy"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "What's Love Got To Do With It",
-        "url": "https://open.spotify.com/album/7uU2XaLVRgtHcBahv0JlvQ"
-      },
-      "artists": [
-        {
-          "name": "Black Stone Cherry",
-          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
-        }
-      ],
-      "duration_ms": 199725,
-      "name": "What's Love Got To Do With It",
-      "url": "https://open.spotify.com/track/09c29n43dZdj4MaBcx3C92"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "The Curse (Deluxe Edition)",
         "url": "https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 206133,
       "name": "You Give Love A Bad Name",
       "url": "https://open.spotify.com/track/7lHINmM0WM8infPvyokWIe"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "What's Love Got To Do With It",
+        "url": "https://open.spotify.com/album/7uU2XaLVRgtHcBahv0JlvQ"
+      },
+      "artists": [
+        {
+          "name": "Black Stone Cherry",
+          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+        }
+      ],
+      "duration_ms": 199725,
+      "name": "What's Love Got To Do With It",
+      "url": "https://open.spotify.com/track/09c29n43dZdj4MaBcx3C92"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "HEADSPLIT (Deluxe)",
-        "url": "https://open.spotify.com/album/2nsAfCxX4wdq13Iipr3mSc"
-      },
-      "artists": [
-        {
-          "name": "Maggie Lindemann",
-          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
-        }
-      ],
-      "duration_ms": 260060,
-      "name": "decode",
-      "url": "https://open.spotify.com/track/02yKRIxDtUuqbwLQSCjmsX"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "One Step Closer \u2013 Spotify Singles",
         "url": "https://open.spotify.com/album/6IJc9uUeydaQenQSu9d3Ym"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 188513,
       "name": "Summer in the City",
       "url": "https://open.spotify.com/track/1yCXPOdArdy2kDPUD1WTeQ"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "HEADSPLIT (Deluxe)",
+        "url": "https://open.spotify.com/album/2nsAfCxX4wdq13Iipr3mSc"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        }
+      ],
+      "duration_ms": 260060,
+      "name": "decode",
+      "url": "https://open.spotify.com/track/02yKRIxDtUuqbwLQSCjmsX"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "Lie To Me",
-        "url": "https://open.spotify.com/album/2m7XMTj30tOUAr4YPFRQmV"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 255774,
-      "name": "Song to the Siren",
-      "url": "https://open.spotify.com/track/5ebyPkIzYSFHmzZtdVBOZm"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "Music From The Motion Picture Not Another Teen Movie",
         "url": "https://open.spotify.com/album/3e89oGaupFgYKUIuE92Eb4"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 242133,
       "name": "99 Red Balloons",
       "url": "https://open.spotify.com/track/4iHITBaV9sOIukW5ABdHhI"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "Lie To Me",
+        "url": "https://open.spotify.com/album/2m7XMTj30tOUAr4YPFRQmV"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 255774,
+      "name": "Song to the Siren",
+      "url": "https://open.spotify.com/track/5ebyPkIzYSFHmzZtdVBOZm"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/4uiyLLg6YL8wQuYQcw29I8"
-      },
-      "artists": [
-        {
-          "name": "Lit",
-          "url": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp"
-        }
-      ],
-      "duration_ms": 228974,
-      "name": "Breakaway",
-      "url": "https://open.spotify.com/track/7IcSNVUvVdOv2gOXjExsFC"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "Tainted Love",
         "url": "https://open.spotify.com/album/3obOuWdKKDTA5toHFQhQ0z"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 204960,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/3TJYSrFUkSSd95XXdMNgmY"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/4uiyLLg6YL8wQuYQcw29I8"
+      },
+      "artists": [
+        {
+          "name": "Lit",
+          "url": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp"
+        }
+      ],
+      "duration_ms": 228974,
+      "name": "Breakaway",
+      "url": "https://open.spotify.com/track/7IcSNVUvVdOv2gOXjExsFC"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "Sugar We\u2019re Goin Down",
-        "url": "https://open.spotify.com/album/70Jry5eQg2mZzWGebXkwZR"
-      },
-      "artists": [
-        {
-          "name": "Fame on Fire",
-          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
-        }
-      ],
-      "duration_ms": 221481,
-      "name": "Sugar We\u2019re Goin Down",
-      "url": "https://open.spotify.com/track/1WoP8y5Koy4p51ZFGWEacX"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "When Doves Cry",
         "url": "https://open.spotify.com/album/302wtl4vr5C1SsCTfBFMsJ"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 196938,
       "name": "When Doves Cry",
       "url": "https://open.spotify.com/track/7umzok5rx1Lctwa2pb03OR"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "Sugar We\u2019re Goin Down",
+        "url": "https://open.spotify.com/album/70Jry5eQg2mZzWGebXkwZR"
+      },
+      "artists": [
+        {
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+        }
+      ],
+      "duration_ms": 221481,
+      "name": "Sugar We\u2019re Goin Down",
+      "url": "https://open.spotify.com/track/1WoP8y5Koy4p51ZFGWEacX"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -2467,6 +2467,22 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
+        "name": "It's The End Of The World As We Know It (And I Feel Fine)",
+        "url": "https://open.spotify.com/album/7m2qgouMIUFAAeWjeNfyiF"
+      },
+      "artists": [
+        {
+          "name": "Islander",
+          "url": "https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w"
+        }
+      ],
+      "duration_ms": 178250,
+      "name": "It's The End Of The World As We Know It (And I Feel Fine)",
+      "url": "https://open.spotify.com/track/5o9gbDIYU02WpBT1XHpXsy"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
         "name": "Orgy of the Damned",
         "url": "https://open.spotify.com/album/3t3ZFkQhYdxBro1D83C8EB"
       },
@@ -2483,22 +2499,6 @@
       "duration_ms": 472253,
       "name": "Papa Was a Rolling Stone (feat. Demi Lovato)",
       "url": "https://open.spotify.com/track/2ZBE2MwgYqw6JgNgUztCVZ"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
-        "name": "It's The End Of The World As We Know It (And I Feel Fine)",
-        "url": "https://open.spotify.com/album/7m2qgouMIUFAAeWjeNfyiF"
-      },
-      "artists": [
-        {
-          "name": "Islander",
-          "url": "https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w"
-        }
-      ],
-      "duration_ms": 178250,
-      "name": "It's The End Of The World As We Know It (And I Feel Fine)",
-      "url": "https://open.spotify.com/track/5o9gbDIYU02WpBT1XHpXsy"
     },
     {
       "added_at": "2024-07-17 15:08:46",

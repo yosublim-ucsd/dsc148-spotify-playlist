@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-537 songs - 1 day 21 hr 36 min
+538 songs - 1 day 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [Interlaced](https://open.spotify.com/track/4xwUt1Ukkfc0b3DwsB3f2b) | [Aleph One](https://open.spotify.com/artist/3oYNb7aE6uwlrEi6mehZeP) | [Interlaced](https://open.spotify.com/album/1LKwsKTXI8hvBmccPCXsec) | 5:04 | 2021-12-08 | 2024-01-17 |
 | [Into The Night](https://open.spotify.com/track/4sKq8rbmhzWElf2rJDG7cJ) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Into The Night](https://open.spotify.com/album/5oiK8JQJeUOstxrhzjgKjZ) | 3:06 | 2024-06-21 |  |
 | [Into The Night](https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Into The Night](https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr) | 7:03 | 2023-08-04 |  |
-| [Into The Sun](https://open.spotify.com/track/07mpkMEJczVv3rXW0m5cmG) | [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Into The Sun](https://open.spotify.com/album/37GGcijAjQtWkUHbZYwPmL) | 4:03 | 2021-12-08 |  |
+| [Into The Sun](https://open.spotify.com/track/07mpkMEJczVv3rXW0m5cmG) | [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Into The Sun](https://open.spotify.com/album/37GGcijAjQtWkUHbZYwPmL) | 4:03 | 2021-12-08 | 2024-07-21 |
 | [Into The Sun](https://open.spotify.com/track/5xUomxrzkIr0MAP9YQur24) | [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Flourish](https://open.spotify.com/album/6f1xUyLnfRELUNufnypE3Z) | 4:03 | 2022-05-03 | 2024-04-19 |
 | [Isla](https://open.spotify.com/track/1TyJYuuPJHwlxRgaXrH8nj) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Isla](https://open.spotify.com/album/1ZVe213YDbHlpSIPFkeqW8) | 3:49 | 2024-07-12 |  |
 | [It Was You, It Was Always You](https://open.spotify.com/track/6rAxlRdBTz4NzSZH3OnxjH) | [LEGATO](https://open.spotify.com/artist/5jpu8iB4nbX9H3bkV8LYz2) | [It Was You, It Was Always You](https://open.spotify.com/album/4bUm0WVhzY6sAFyczgyjiv) | 4:13 | 2021-12-08 | 2023-05-06 |
@@ -526,6 +526,7 @@
 | [When The World Stops Turning \- Quiet Mix](https://open.spotify.com/track/1ek1kNO1a5EJCNIUvNs5XI) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [When The World Stops Turning \(Quiet Mix\)](https://open.spotify.com/album/4Oz04uOU1JkaZtYe7LBXmt) | 3:47 | 2021-12-08 | 2023-12-09 |
 | [When You Focus On The Good The Good Gets Better](https://open.spotify.com/track/2yYTqo2wnc2PssYogT57MG) | [Devante Embers](https://open.spotify.com/artist/34Lopo5VNpkJUIiVXTB0ZT) | [When You Focus On The Good The Good Gets Better](https://open.spotify.com/album/4vRJV9s2ykMP6MoI29ndDm) | 7:08 | 2021-12-08 | 2023-05-06 |
 | [Where I Find My Mind](https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Where I Find My Mind](https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM) | 3:32 | 2023-05-12 |  |
+| [Where We Left Off](https://open.spotify.com/track/6Y6jYPexxSS0Nowqm09exj) | [Andrew Long](https://open.spotify.com/artist/6NPsafXznTqTcdDVugrEvP) | [Where We Left Off](https://open.spotify.com/album/5SP2tqgoYxi64Dnf2lqV3m) | 3:47 | 2024-07-19 |  |
 | [White Sky](https://open.spotify.com/track/0MuOQWH4N9C9jK44bzRTBQ) | [LYANE](https://open.spotify.com/artist/0cQEcLmC43QHccKlphpAYK) | [White Sky](https://open.spotify.com/album/2JpFWVg9PCkJbDKZ41WJDQ) | 2:15 | 2021-12-08 | 2022-07-29 |
 | [Whole Lotta Groove](https://open.spotify.com/track/569WHNKLrlhueTZsAiegDm) | [Bauhouse](https://open.spotify.com/artist/3W0ymz5go3eaOIclFYWyzz) | [Whole Lotta Groove](https://open.spotify.com/album/7MkCIDc5iDwz5IPEvjdavy) | 6:32 | 2021-12-08 | 2024-03-04 |
 | [Why So Blue? \- Radio Edit](https://open.spotify.com/track/3pMT96h7pwJMsRGsXwpyVU) | [Haider](https://open.spotify.com/artist/7L7XkH1dMZGeedtOdYOVLF) | [Why So Blue? \(Radio Edit\)](https://open.spotify.com/album/34Bdpya8LJbNANnDDmlfXq) | 2:58 | 2023-01-06 | 2023-04-05 |

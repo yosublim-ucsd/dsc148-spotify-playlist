@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Denzel Curry, Lil Yachty, JT and more!
 
-5,577 songs - 10 day 19 hr 10 min
+5,578 songs - 10 day 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3040,6 +3040,7 @@
 | [Middle Man](https://open.spotify.com/track/7cetyzjVJMwwLgbvBxahNf) | [BigKayBeezy](https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50) | [Middle Man](https://open.spotify.com/album/7vUo6VsYYgD7KBu4EiZBkG) | 2:11 | 2021-12-24 | 2022-01-15 |
 | [middling](https://open.spotify.com/track/3LVDyWo88rXnV0e0YEHKto) | [Open Mike Eagle](https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX) | [Sir Rockabye](https://open.spotify.com/album/2F3hC39WA7WOobsvCotWjX) | 3:07 | 2024-06-07 | 2024-06-15 |
 | [Might Be Tweakin](https://open.spotify.com/track/6jAWFH2BuMQbolxhwV2MLs) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Might Be Tweakin](https://open.spotify.com/album/0UplN00A3Czo1MSnn46Tu6) | 1:26 | 2024-04-26 | 2024-05-03 |
+| [MIGO](https://open.spotify.com/track/00Y58IUH7GfXLOk1ZpKVQY) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4) | [MIGO](https://open.spotify.com/album/6V0aAUfe12kKRFWNY9QGaj) | 2:35 | 2024-07-19 |  |
 | [Mike Phelps](https://open.spotify.com/track/2TyDPtli4XPNtGZGHbpaYx) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Mike Phelps](https://open.spotify.com/album/3I0HVMGECeVOhIqM9Dd2dm) | 2:14 | 2024-03-22 | 2024-03-30 |
 | [Milk & Cookies](https://open.spotify.com/track/152urCVFEYJpYcqsbqnoEM) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Milk & Cookies](https://open.spotify.com/album/4Ka6SHL1uDZfVeQP8HWEJH) | 2:21 | 2023-06-02 | 2023-06-10 |
 | [MILKSHAKE](https://open.spotify.com/track/5GAt6husUBZ9dzfSTcwq0w) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [MILKSHAKE](https://open.spotify.com/album/5soMcFTHXUbPRxFvJlKZHP) | 3:12 | 2024-04-12 | 2024-04-19 |

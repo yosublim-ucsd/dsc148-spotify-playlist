@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 42 likes - 790 songs - 2 day 13 hr 59 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 42 likes - 791 songs - 2 day 14 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -798,5 +798,6 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 788 | [Mitamiyo](https://open.spotify.com/track/3JPELpMeKmfYqKCbGcq0fy) | [Mendes & Mendes](https://open.spotify.com/artist/0yXGE4eVAQ5ctPX65p1KwY) | [Mendes & Mendes](https://open.spotify.com/album/3Th308COR3kTdif10grhRT) | 5:26 |
 | 789 | [Saraabe Toe](https://open.spotify.com/track/5ovb09UxRZImZtfip1WKTZ) | [Kourosh Yaghmaei](https://open.spotify.com/artist/6hKJvRsiSIyjIBv9usxkhh) | [Back From The Brink: Pre\-Revolution Psychedelic Rock From Iran: 1973\-1979](https://open.spotify.com/album/03Ewp6nI2gEGIwPzIWDlj4) | 4:34 |
 | 790 | [One Inch Punch](https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Rabbit That Hunts Tigers](https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK) | 5:08 |
+| 791 | [La Carta \(Mi Carta Final\)](https://open.spotify.com/track/0zNmzLkD8WLUvQDzL115I6) | [Tierra Canela](https://open.spotify.com/artist/4UJR3YhhFBlHwUrav8WzPB) | [Tu Recuerdo](https://open.spotify.com/album/2eXcyFcMRLfCwJzUZXEW0W) | 3:42 |
 
-Snapshot ID: `AAADdQjObzz/6Qxz3g5ZisTc7tPTZuoE`
+Snapshot ID: `AAADdvWf3NjrDcqozaBvALow+A6Njvyg`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,124 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,125 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aata Gaani Aata](https://open.spotify.com/track/6mN6G6IetQns6xMtkxznVZ) | [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk) | [Aata Gaani Aata](https://open.spotify.com/album/3zuzsB3BkRQRUrzvPHdSR2) | 2:42 |
-| 2 | [Maawa Paata](https://open.spotify.com/track/6fyg0c8ktTqKjEodSB9QgF) | [Jammers](https://open.spotify.com/artist/35rhxl9kHgmuqIODepTF6u), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Jagdish Chintala](https://open.spotify.com/artist/1Ll6Pj8fy7R3e6ghT2lzVC), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS), [Naren RK Siddartha](https://open.spotify.com/artist/3kmgV8x6lfoHZKSp9mrKBB), [Shashank Bhaskaruni](https://open.spotify.com/artist/6IwTtuEKKoggjUtPgcObwD), [Srirag Vadlakonda](https://open.spotify.com/artist/6OCxOIWN5WGB9iZSnYqwRb) | [Maawa Paata](https://open.spotify.com/album/6thV698YCV2goAO1Jx6oTl) | 2:39 |
+| 2 | [Maawa Paata](https://open.spotify.com/track/6fyg0c8ktTqKjEodSB9QgF) | [Jammers](https://open.spotify.com/artist/35rhxl9kHgmuqIODepTF6u) | [Maawa Paata](https://open.spotify.com/album/6thV698YCV2goAO1Jx6oTl) | 2:39 |
 | 3 | [Swapnam](https://open.spotify.com/track/473hTuGXsaU59XzBTJB1eA) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Sony Mohan](https://open.spotify.com/artist/65NpKvImlpRJpitOScm5GJ), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Swapnam](https://open.spotify.com/album/0gh8MM140CnK7VwM1u5Q5K) | 3:36 |
 | 4 | [Amma Paata](https://open.spotify.com/track/72PJ4xPZPVugEzylXYHWz4) | [Janhavi Yerram](https://open.spotify.com/artist/2S1gi8rHfqRE7XyNiAHj9n) | [Amma Paata](https://open.spotify.com/album/5NjRW3fcSvXnTkXZA97GT7) | 3:32 |
 | 5 | [Macha Vachey Ra \- Vibe Anthem](https://open.spotify.com/track/5hxdnqbT4AavtOD6SSQhlV) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Macha Vachey Ra \(Vibe Anthem\)](https://open.spotify.com/album/39WPpzx3iAH6eyjp77dj98) | 3:16 |

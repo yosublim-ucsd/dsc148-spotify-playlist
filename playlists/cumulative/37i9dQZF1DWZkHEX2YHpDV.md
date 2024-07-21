@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt & more\. Cover: The Home Team
 
-1,245 songs - 2 day 17 hr 50 min
+1,246 songs - 2 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -572,6 +572,7 @@
 | [If You Were a Robot You'd Tell Me, Right?](https://open.spotify.com/track/2AWnzpien4nUUrxch08Pmw) | [The Seafloor Cinema](https://open.spotify.com/artist/39a4hGdTS669oJBra6j9Ru) | [If You Were a Robot You'd Tell Me, Right?](https://open.spotify.com/album/42Av3KvAXas7PQMDe8Fbr5) | 3:30 | 2021-12-10 | 2022-06-07 |
 | [Imposter Syndrome](https://open.spotify.com/track/78hoPZfqF2jN857pGjKzDO) | [Action/Adventure](https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF) | [Imposter Syndrome](https://open.spotify.com/album/0332xuUCQS7pzkMoeky6wY) | 1:37 | 2023-04-10 | 2024-05-15 |
 | [Imprint](https://open.spotify.com/track/1qlUw3ZejypRGcpdQcX3ix) | [dying in designer](https://open.spotify.com/artist/3QZxOYl5zlZtfigtXOZsfT) | [Imprint](https://open.spotify.com/album/3VFtRcwhLRnRKYaRAq3DQc) | 3:10 | 2021-12-10 | 2022-07-22 |
+| [In Another Dream](https://open.spotify.com/track/4EPeKo0NZJgTtuoFlVgyOZ) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [In Another Dream](https://open.spotify.com/album/0Z5mgdbl2E6GygFzHHZm6t) | 3:56 | 2024-07-19 |  |
 | [In Between](https://open.spotify.com/track/16fn9av6Y86Lmt1JJveNpO) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [In Between](https://open.spotify.com/album/0QkM3ThpYjGJ38O8MoxE4S) | 3:25 | 2021-12-10 | 2022-07-20 |
 | [In Loving Memory](https://open.spotify.com/track/45jdfAmN8eVIvcGJJQTQql) | [Ben Quad](https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE) | [In Loving Memory](https://open.spotify.com/album/1GgdhdPOZRfHJkuPxC6xNb) | 3:38 | 2024-02-09 |  |
 | [In Loving Memory](https://open.spotify.com/track/69xq52Yl3XgWRPIAOwfaYY) | [First and Forever](https://open.spotify.com/artist/4yoepOpyKCDc3xDj0fX21r) | [In Loving Memory](https://open.spotify.com/album/4ZU7tF78ZlRzoomq9HNsTQ) | 2:52 | 2021-12-10 | 2023-04-11 |
@@ -1043,7 +1044,7 @@
 | [TELL ME SOMETHING](https://open.spotify.com/track/14H0nxeKjs053w9hQo7XJk) | [trxvis](https://open.spotify.com/artist/1ytozhc77a6qMKUxWTpprm) | [TELL ME SOMETHING](https://open.spotify.com/album/173wMqOzorgtnFnseokb1W) | 2:45 | 2022-12-07 | 2023-04-11 |
 | [Tell Me You're Sorry](https://open.spotify.com/track/5NKcjYtLkYbh5nn1yMIG7H) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Tell Me You're Sorry](https://open.spotify.com/album/1uJm8Z3D7UDvcxYppBm08N) | 2:48 | 2022-02-11 | 2023-12-09 |
 | [Temper](https://open.spotify.com/track/7LadUBljqx0uNKq9gOctUo) | [Hidden In Plain View](https://open.spotify.com/artist/5rXLC3lGmx2JjclFJYZud4) | [Temper](https://open.spotify.com/album/6DtVGqzADtenexnMDQ0Sso) | 2:27 | 2022-04-08 | 2022-07-29 |
-| [THANK GOD I'M A CELEBRITY](https://open.spotify.com/track/6tVRJPq4cEVD8ys7lnbieb) | [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC) | [THANK GOD I'M A CELEBRITY](https://open.spotify.com/album/5NygT71nKXV8J6X6Petsou) | 3:14 | 2024-05-14 |  |
+| [THANK GOD I'M A CELEBRITY](https://open.spotify.com/track/6tVRJPq4cEVD8ys7lnbieb) | [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC) | [THANK GOD I'M A CELEBRITY](https://open.spotify.com/album/5NygT71nKXV8J6X6Petsou) | 3:14 | 2024-05-14 | 2024-07-21 |
 | [Thank You, New Jersey](https://open.spotify.com/track/3dl2M4CJENgzI6IG2dNxLL) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Thank You, New Jersey](https://open.spotify.com/album/197wjUARH2gam9EIaPnyfC) | 2:39 | 2023-04-23 | 2024-05-15 |
 | [Thanks, I Hate It](https://open.spotify.com/track/1DVPl37UU468V6RK8fMJPX) | [Simple Creatures](https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL) | [Thanks, I Hate It](https://open.spotify.com/album/5maB3BSB7Lo0ykXq0ihbSR) | 2:57 | 2021-12-10 | 2022-05-20 |
 | [THAT ONE SONG](https://open.spotify.com/track/1f8JpHrCJpqYUyT4DSzz20) | [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [THAT ONE SONG](https://open.spotify.com/album/1W9zc0MZLktpJKsj27iKb7) | 3:02 | 2021-12-10 | 2022-07-29 |

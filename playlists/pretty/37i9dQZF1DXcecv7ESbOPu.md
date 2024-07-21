@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,027 likes - 84 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,025 likes - 84 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 50 | [Ponytail](https://open.spotify.com/track/4y2KeXbvKEjalxsElqq9Ze) | [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Ponytail](https://open.spotify.com/album/3og4eBQKRVoMIPJAArPD4X) | 3:39 |
 | 51 | [BANG BANG BANG](https://open.spotify.com/track/14PemhwETE2QIvoM2Sd0Un) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE), [DJ BERIT](https://open.spotify.com/artist/2Ens93DBGHbUTJUm83TQRI) | [BANG BANG BANG](https://open.spotify.com/album/77pkse1TOBLm8A3SNzHv7j) | 1:55 |
 | 52 | [Omåomigen \- PARTY VERSION](https://open.spotify.com/track/0Xd1S2nuoNVgUconTLBD1l) | [Ferdinand](https://open.spotify.com/artist/1DIiXNFlKuRBQMKIrvwuha) | [Omåomigen](https://open.spotify.com/album/3R4Ki8jxSqZ2RQtPfx9Lnz) | 2:20 |
-| 53 | [I Adore You](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
+| 53 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
 | 54 | [Vantablack](https://open.spotify.com/track/6mQqAVoNYWe8YjeXVlNdqY) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [Vantablack](https://open.spotify.com/album/5JpE6PhSDMXZJWYOBGMlnp) | 3:28 |
 | 55 | [Home](https://open.spotify.com/track/651NGwLvO5GiIpx6v9HJE0) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Home](https://open.spotify.com/album/2I1lXDLSd7naOK0nbE1viy) | 2:27 |
 | 56 | [DRIPP DROPP](https://open.spotify.com/track/7Iu8DXmsZm21lLP6UQJgMw) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [DRIPP DROPP](https://open.spotify.com/album/5z6QzvdUx7H245Uc2pXnGU) | 2:00 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Élite \- Season 8, is almost here! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,392 likes - 408 songs - 1 day 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,387 likes - 408 songs - 1 day 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -258,7 +258,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 248 | [Crush on You](https://open.spotify.com/track/5gMbKu3MWoXNR3fXwNG3V8) | [Brigitte Laverne](https://open.spotify.com/artist/7izngL0eNHQmTmeNgwrMSx) | [Wasted](https://open.spotify.com/album/0wLz4xS7pwBTjngM0ReyZI) | 3:48 |
 | 249 | [Take My Time](https://open.spotify.com/track/5ooWGAzXs3fU7eKHCrwZyd) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Life & Love](https://open.spotify.com/album/4XUQIBFGgxMSlkMZzjNWpj) | 3:03 |
 | 250 | [This Ain't No Hymn](https://open.spotify.com/track/57UHWDFh9xKx5XyXIBiHj5) | [Saint Saviour](https://open.spotify.com/artist/613dNRsij8cjgiIS6lqSIy) | [Union](https://open.spotify.com/album/65Rx2LxCXuT3XhRnTc6TQL) | 4:22 |
-| 251 | [You](https://open.spotify.com/track/1m4Jk7HXqNBdlkJtTGSK8u) | [Flo/So](https://open.spotify.com/artist/3Exl4gYa8yBajHnOFwt94e) | [You](https://open.spotify.com/album/1jOVM0dhGeRd1FepOGH86J) | 3:36 |
+| 251 | [You](https://open.spotify.com/track/1m4Jk7HXqNBdlkJtTGSK8u) | [Flo/so](https://open.spotify.com/artist/3Exl4gYa8yBajHnOFwt94e) | [You](https://open.spotify.com/album/1jOVM0dhGeRd1FepOGH86J) | 3:36 |
 | 252 | [gently brutal](https://open.spotify.com/track/5lSjr38198cg0BchvdYYsL) | [Lyhre](https://open.spotify.com/artist/5vXW9OH1w7aKOurpCHeQeG) | [sad cyborg](https://open.spotify.com/album/5JvR7IF7557xKkFkjCNn4f) | 3:30 |
 | 253 | [Funk Face](https://open.spotify.com/track/267H6VAP77RaX8KIWeLzpo) | [Death Ray Shake](https://open.spotify.com/artist/2BlUAkjOkIi2CVv853XkhA) | [Funk Face](https://open.spotify.com/album/7B794FwVmRVlgY3IpVRmnb) | 3:09 |
 | 254 | [SATANA, S\. A.](https://open.spotify.com/track/5ga1gPFk7w5DlvCCsTPwVG) | [Almodóvar](https://open.spotify.com/artist/2nSByhPugkeLLEHhMR6nTP), [McNamara](https://open.spotify.com/artist/5r6L9ttUyUlwoV7dDnkB5j) | [¡Cómo está el servicio de señoras!](https://open.spotify.com/album/5SqWUpoC9wNLm4aJVz2FJV) | 3:51 |

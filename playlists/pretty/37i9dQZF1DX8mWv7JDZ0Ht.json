@@ -1,6 +1,6 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Liniker",
-  "num_followers": 434376,
+  "num_followers": 434379,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Depois do Fim (Deluxe)",
-        "url": "https://open.spotify.com/album/4Rfk2LiqBbz0FH97L9WWoy"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 132439,
-      "name": "C\u00f3cegas",
-      "url": "https://open.spotify.com/track/0OXEKRIQpYwKxgyiFdaNz3"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Quem Sabe",
         "url": "https://open.spotify.com/album/52Zx3yPSSNwEuFBR45BFhc"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 173858,
       "name": "Quem Sabe",
       "url": "https://open.spotify.com/track/4EhMEPnreQE7o1sA47eVXB"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Depois do Fim (Deluxe)",
+        "url": "https://open.spotify.com/album/4Rfk2LiqBbz0FH97L9WWoy"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 132439,
+      "name": "C\u00f3cegas",
+      "url": "https://open.spotify.com/track/0OXEKRIQpYwKxgyiFdaNz3"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "que mal que tem?",
-        "url": "https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 157708,
-      "name": "que mal que tem?",
-      "url": "https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Encantos Mil",
         "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 168637,
       "name": "Encantos Mil",
       "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "que mal que tem?",
+        "url": "https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 157708,
+      "name": "que mal que tem?",
+      "url": "https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -383,18 +383,18 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Saudade Sussurrou",
-        "url": "https://open.spotify.com/album/5f1AUvrMH7HcBKRVBassaD"
+        "name": "Existe Amor Aqui",
+        "url": "https://open.spotify.com/album/1oiN0TvrXq2LYlOkKGtcET"
       },
       "artists": [
         {
-          "name": "Gabriela",
-          "url": "https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM"
+          "name": "Julia Smith",
+          "url": "https://open.spotify.com/artist/4DfLXTDD8dF2vGIbff6fzs"
         }
       ],
-      "duration_ms": 175771,
-      "name": "Saudade Sussurrou",
-      "url": "https://open.spotify.com/track/46hMVeI8kjadm4xrokacdG"
+      "duration_ms": 199681,
+      "name": "Sem Me Preocupar",
+      "url": "https://open.spotify.com/track/4xoyLEqcy6eVq8orVRaPrl"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -435,38 +435,18 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Carinha De Problema",
-        "url": "https://open.spotify.com/album/1dABET9ANzLH053hXWtfoD"
+        "name": "Saudade Sussurrou",
+        "url": "https://open.spotify.com/album/5f1AUvrMH7HcBKRVBassaD"
       },
       "artists": [
         {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+          "name": "Gabriela",
+          "url": "https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM"
         }
       ],
-      "duration_ms": 163258,
-      "name": "Carinha De Problema",
-      "url": "https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Existe Amor Aqui",
-        "url": "https://open.spotify.com/album/1oiN0TvrXq2LYlOkKGtcET"
-      },
-      "artists": [
-        {
-          "name": "Julia Smith",
-          "url": "https://open.spotify.com/artist/4DfLXTDD8dF2vGIbff6fzs"
-        }
-      ],
-      "duration_ms": 199681,
-      "name": "Sem Me Preocupar",
-      "url": "https://open.spotify.com/track/4xoyLEqcy6eVq8orVRaPrl"
+      "duration_ms": 175771,
+      "name": "Saudade Sussurrou",
+      "url": "https://open.spotify.com/track/46hMVeI8kjadm4xrokacdG"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -483,6 +463,22 @@
       "duration_ms": 206781,
       "name": "FICA",
       "url": "https://open.spotify.com/track/5fMTlLvvfPZ0xWSCcTsZFz"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "DEJAVU",
+        "url": "https://open.spotify.com/album/3aqafowqLbPeovkfLtbdxJ"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 183679,
+      "name": "Big Bang",
+      "url": "https://open.spotify.com/track/4xC41bv1fU1BXaO6cdmEAy"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -507,18 +503,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "DEJAVU",
-        "url": "https://open.spotify.com/album/3aqafowqLbPeovkfLtbdxJ"
+        "name": "Carinha De Problema",
+        "url": "https://open.spotify.com/album/1dABET9ANzLH053hXWtfoD"
       },
       "artists": [
         {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
         }
       ],
-      "duration_ms": 183679,
-      "name": "Big Bang",
-      "url": "https://open.spotify.com/track/4xC41bv1fU1BXaO6cdmEAy"
+      "duration_ms": 163258,
+      "name": "Carinha De Problema",
+      "url": "https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Concreto (2024 Rework)",
-        "url": "https://open.spotify.com/album/1BEdpQGeHrhtjZekdaKUPJ"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        }
-      ],
-      "duration_ms": 194196,
-      "name": "Recome\u00e7o - Bonus Track",
-      "url": "https://open.spotify.com/track/1Ll03UzfVOYrcWK4FgwEtH"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "PROIBIDO N\u00c3O GOSTAR",
         "url": "https://open.spotify.com/album/69WlCG6kcfEwIinh2asJcu"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 184000,
       "name": "Romance",
       "url": "https://open.spotify.com/track/7JqcuxIUQDuLNE8LMoRB7X"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Concreto (2024 Rework)",
+        "url": "https://open.spotify.com/album/1BEdpQGeHrhtjZekdaKUPJ"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 194196,
+      "name": "Recome\u00e7o - Bonus Track",
+      "url": "https://open.spotify.com/track/1Ll03UzfVOYrcWK4FgwEtH"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "No Teu Mar",
-        "url": "https://open.spotify.com/album/6ewFG75JpBi8H630jshivJ"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 149072,
-      "name": "No Teu Mar",
-      "url": "https://open.spotify.com/track/3YI1nFCJBx33t2YM9d8VmT"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "J\u00e1 Te Falei",
         "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 205540,
       "name": "J\u00e1 Te Falei",
       "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "No Teu Mar",
+        "url": "https://open.spotify.com/album/6ewFG75JpBi8H630jshivJ"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 149072,
+      "name": "No Teu Mar",
+      "url": "https://open.spotify.com/track/3YI1nFCJBx33t2YM9d8VmT"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "dos p\u00e9s a cabe\u00e7a",
+        "url": "https://open.spotify.com/album/3hRZ5gR2hn6EifOnilmllU"
+      },
+      "artists": [
+        {
+          "name": "Georgia Castro",
+          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
+        }
+      ],
+      "duration_ms": 202286,
+      "name": "dos p\u00e9s a cabe\u00e7a",
+      "url": "https://open.spotify.com/track/5IWFZ5Od7wArGGxGo1kVAa"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "Bia Marques Sessions (Ao Vivo)",
         "url": "https://open.spotify.com/album/4FxJpaUTrbHY6jbD7c3BD4"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 172268,
       "name": "V\u00e1 Com Deus",
       "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "dos p\u00e9s a cabe\u00e7a",
-        "url": "https://open.spotify.com/album/3hRZ5gR2hn6EifOnilmllU"
-      },
-      "artists": [
-        {
-          "name": "Georgia Castro",
-          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
-        }
-      ],
-      "duration_ms": 202286,
-      "name": "dos p\u00e9s a cabe\u00e7a",
-      "url": "https://open.spotify.com/track/5IWFZ5Od7wArGGxGo1kVAa"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Me Deixa Ser S\u00f3 Teu",
-        "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Me Deixa Ser S\u00f3 Teu",
-      "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Vem C\u00e1, Me Beija",
         "url": "https://open.spotify.com/album/5iTMqZsLOCGnxjVuxcfs5P"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 158170,
       "name": "Vem C\u00e1, Me Beija",
       "url": "https://open.spotify.com/track/5zrnow8n59LyOhSa4IhcVI"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Me Deixa Ser S\u00f3 Teu",
+        "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Me Deixa Ser S\u00f3 Teu",
+      "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
     },
     {
       "added_at": "2024-07-19 03:00:00",

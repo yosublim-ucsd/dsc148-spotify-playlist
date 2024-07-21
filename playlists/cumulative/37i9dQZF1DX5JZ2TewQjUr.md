@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: 小本生燈XSGACHA
 
-1,097 songs - 2 day 14 hr 6 min
+1,098 songs - 2 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Dream On](https://open.spotify.com/track/0rKi0fBy4sAM29TBKTAhr5) | [J Ho](https://open.spotify.com/artist/3hLoyLpu0vKQwSQ63c3xcy) | [Sky is the Limit](https://open.spotify.com/album/4uxs4OV71XqfDFct1eUfug) | 3:07 | 2023-03-09 | 2023-07-14 |
 | [dreamgirl\(s\).](https://open.spotify.com/track/3GhZ9ngx41rpxnjVwkaFH0) | [dorothy 劉君冬](https://open.spotify.com/artist/1qjsjBF6F451KY2MB5tSKQ) | [dreamgirl\(s\).](https://open.spotify.com/album/1wOEx9F3prCwdDXRxUrxdC) | 2:34 | 2023-03-09 | 2023-07-14 |
 | [Dreams \- Acoustic Version](https://open.spotify.com/track/6WBiD1wHBQrvVoBABHsidv) | [Science Noodles](https://open.spotify.com/artist/4cqVlLy4QV2KwAojyE7KHR) | [All I want for Christmas is Acoustic](https://open.spotify.com/album/7bNLecuW4MfNBYeyT1ol9w) | 2:00 | 2023-12-28 | 2024-05-10 |
+| [Driven By Wanderlust](https://open.spotify.com/track/0oHUkg1oE93UUqUCYZshuj) | [Drotoch](https://open.spotify.com/artist/1gkL2IZQpyIM7qXG1Zep7U) | [Driven By Wanderlust](https://open.spotify.com/album/2MHaK1TaauTVrW6eGd4DyL) | 3:24 | 2024-07-18 |  |
 | [Drowsy](https://open.spotify.com/track/4TuwJZQQlFJV70l84pp0CV) | [相庭](https://open.spotify.com/artist/3enBaZU25C9ybf9BqFExZa), [Alexis744](https://open.spotify.com/artist/1LG8vvLrAFtfp4qnMdlBCw) | [MK.](https://open.spotify.com/album/7H516CT67Pweq64mb0Goxv) | 3:46 | 2023-01-19 | 2023-02-03 |
 | [Dumb and Slow](https://open.spotify.com/track/04l4XqKiMQs27hLsAclWhO) | [戴晉揚Mark Tai](https://open.spotify.com/artist/3itIlX6DhZHYXMjOAxYkvf) | [Dumb and Slow](https://open.spotify.com/album/0RkbSW2T7c9Ng1gngmrEgR) | 3:57 | 2022-05-26 | 2022-07-29 |
 | [Dumb Love](https://open.spotify.com/track/6133T1KQNuxGA7oYwRfE4O) | [A New World If You Can Take It](https://open.spotify.com/artist/2PAWeJB5IPKkWEzlYYOBM1) | [SYATOS](https://open.spotify.com/album/3xNjjPHGJdzf9zuXv5guIO) | 5:19 | 2023-11-30 | 2024-02-16 |

@@ -4,7 +4,7 @@
 
 > Eletrônico do momento para curtir onde estiver\. Foto: KVSH, CERES
 
-386 songs - 21 hr 17 min
+386 songs - 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,7 @@
 | [Oxygen](https://open.spotify.com/track/7yhncpKK3TG7aoYcyjKKAc) | [Pic Schmitz](https://open.spotify.com/artist/1sE1LdTZxsVYyGl84vl9zl) | [Oxygen](https://open.spotify.com/album/0XY1qjL2K0GCil4lbmEs8L) | 3:05 | 2023-07-21 | 2023-08-26 |
 | [Pandora](https://open.spotify.com/track/4M4xiqCQdw7nd7AzrNAO2S) | [Mary Mesk](https://open.spotify.com/artist/7Fc6qlNa6F4ONSLfJjlfjJ) | [Pandora](https://open.spotify.com/album/0Cb9Dw2TLZCejFa4SzdeWb) | 3:54 | 2023-09-22 | 2023-10-30 |
 | [Panthers Pulse](https://open.spotify.com/track/6iyCeNSV9mS6ytzt0eeJub) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa) | [Panthers Pulse](https://open.spotify.com/album/3iMZQ09orJ1mFXvHAsJZ6o) | 1:58 | 2024-05-10 | 2024-07-19 |
-| [Papi Tchulo \- Original Mix](https://open.spotify.com/track/1mlpGoO3y9YeeeQPAp5XbL) | [Dubdisko](https://open.spotify.com/artist/6DL4EekcvzJIDIOOQQbe3Z), [Jack Baron](https://open.spotify.com/artist/4pxQgjDzsZiSnSjdxdYPK9) | [Papi Tchulo](https://open.spotify.com/album/2Lf8NGEdvzDfAABAz2MMRM) | 5:02 | 2024-07-19 |  |
+| [Papi Tchulo \- Original Mix](https://open.spotify.com/track/1mlpGoO3y9YeeeQPAp5XbL) | [Dubdisko](https://open.spotify.com/artist/6DL4EekcvzJIDIOOQQbe3Z), [Jack Baron](https://open.spotify.com/artist/4pxQgjDzsZiSnSjdxdYPK9) | [Papi Tchulo](https://open.spotify.com/album/2Lf8NGEdvzDfAABAz2MMRM) | 1:58 | 2024-07-19 |  |
 | [Paradise](https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Paradise](https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3) | 3:17 | 2023-09-22 | 2023-10-14 |
 | [Paradise Baile](https://open.spotify.com/track/4VTOYPpc22gWBGE7GME3pa) | [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Paradise Baile](https://open.spotify.com/album/1PUZdNH4XLewbBlg0dWYpd) | 3:31 | 2023-10-06 | 2024-02-17 |
 | [Party All The Time](https://open.spotify.com/track/637yGvPCV8Fi1kl5GnoVuq) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [DISORDER](https://open.spotify.com/artist/58wlWYajhaIloGV3GlPd9M) | [Party All The Time](https://open.spotify.com/album/3leEcSpfr1uqP5PXgmRbXI) | 3:46 | 2024-05-17 |  |

@@ -1336,7 +1336,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 197622,
       "name": "Before And After",
       "url": "https://open.spotify.com/track/4TtF1aNhUmgg5UNB9WEdcz"
@@ -2508,6 +2508,24 @@
       "duration_ms": 183977,
       "name": "CHIVALRY IS DEAD",
       "url": "https://open.spotify.com/track/48KAjFkydsuZHkG7ftt8GW"
+    },
+    {
+      "album": {
+        "name": "CHLORINE",
+        "url": "https://open.spotify.com/album/3juQIkQykDHqa62bUwVoCf"
+      },
+      "artists": [
+        {
+          "name": "Justin Nozuka",
+          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142881,
+      "name": "CHLORINE",
+      "url": "https://open.spotify.com/track/4km4gNXy7TTPG0e2LT5kYo"
     },
     {
       "album": {
@@ -5809,6 +5827,28 @@
     },
     {
       "album": {
+        "name": "hair down (with CHUNG HA)",
+        "url": "https://open.spotify.com/album/5pViClRtFnnMBoRwfGS2rh"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209060,
+      "name": "hair down (with CHUNG HA)",
+      "url": "https://open.spotify.com/track/0J6uaKir7FzzTvnQcpg0MJ"
+    },
+    {
+      "album": {
         "name": "whatislove2u?",
         "url": "https://open.spotify.com/album/54PDrXJ7a0If3sawApXJQ3"
       },
@@ -5820,7 +5860,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 115759,
       "name": "HAPPY ENDING",
       "url": "https://open.spotify.com/track/6OGaQWSZCskbFH9CgldHTQ"
@@ -7956,6 +7996,24 @@
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
+    },
+    {
+      "album": {
+        "name": "LEFT OF ME",
+        "url": "https://open.spotify.com/album/2eBFKPAzMn0bHJWigIrRiV"
+      },
+      "artists": [
+        {
+          "name": "Johnny Huynh",
+          "url": "https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194172,
+      "name": "LEFT OF ME",
+      "url": "https://open.spotify.com/track/3yekSsyZzNvn9fsm1cznEP"
     },
     {
       "album": {
@@ -14414,7 +14472,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 203333,
       "name": "Tragic Love",
       "url": "https://open.spotify.com/track/1UBwp5S204qFsVS0enwAEo"

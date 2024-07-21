@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,522 songs - 3 day 10 hr 47 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,524 songs - 3 day 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1530,5 +1530,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1520 | [WANT 2](https://open.spotify.com/track/2incBxwnVgONDwAkQhT58j) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl) | [WANT 2](https://open.spotify.com/album/6LUlzHjEDFu1nPSrLLpYMX) | 3:45 |
 | 1521 | [Nothing Else Matters](https://open.spotify.com/track/5gMWdzYh8ozzbK9kTP9p1v) | [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W), [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI), [Manifest Destiny](https://open.spotify.com/artist/1XTpiNqD37eVQdS0xFqX3j) | [Live And Have Fun](https://open.spotify.com/album/5O1lrsMbl1jSSTMvQPn16c) | 2:48 |
 | 1522 | [Pure Energy](https://open.spotify.com/track/6BQzzPMjxFl2XKJC8Xz35M) | [JEEX](https://open.spotify.com/artist/2yyaQ5rBXKUgEo8unwNQIS), [Twiic](https://open.spotify.com/artist/7c8HE4UShCpCnUp2xn7jyV) | [Pure Energy](https://open.spotify.com/album/1sZ4BmLQkLlco96oBWGF3N) | 2:24 |
+| 1523 | [BE THE 1](https://open.spotify.com/track/0Ct22UdldN3gp9gy6teQwD) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl) | [BE THE 1](https://open.spotify.com/album/58AGTpMpkdPuEBZcdWjSoh) | 3:07 |
+| 1524 | [BUSSIN](https://open.spotify.com/track/5kbchQrlxzXWwncaOcgAjm) | [Strictly Business](https://open.spotify.com/artist/7kC4umc8A1sRBGBnkeKVY1) | [BUSSIN](https://open.spotify.com/album/1XCqwxumBYQoss3eTXz0Vr) | 2:30 |
 
-Snapshot ID: `AAAGH9Jx41GWvall8N0j4svnAGGlBG0/`
+Snapshot ID: `AAAGITH+cz8DeVwkgcgPaxKLxv5hfaAt`

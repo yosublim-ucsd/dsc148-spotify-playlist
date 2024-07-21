@@ -1,12 +1,12 @@
 {
-  "description": "This Is Gerardo Ortiz. Los temas esenciales, todos en una lista.",
-  "num_followers": 434506,
+  "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
+  "num_followers": 434672,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZphbAAAAAADjWwF/qp/5k7FmKbSpGPKV",
+  "snapshot_id": "ZpmsgAAAAAAV5zM0/L3LZbKWaHJDuSCu",
   "tracks": [
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Asi Es la Vida",
-        "url": "https://open.spotify.com/album/3XLeRZusHt9brXcWTNslHO"
-      },
-      "artists": [
-        {
-          "name": "Omar Ruiz",
-          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 161132,
-      "name": "Ando Bien",
-      "url": "https://open.spotify.com/track/4xIPF0XvckZ32QXXI6fW9P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Andamos Recio",
         "url": "https://open.spotify.com/album/5OU2nDge99Voto4N4Vl6yS"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 152200,
       "name": "Andamos Recio",
       "url": "https://open.spotify.com/track/4x02u1dxnmoeR4GHOAmuXG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Asi Es la Vida",
+        "url": "https://open.spotify.com/album/3XLeRZusHt9brXcWTNslHO"
+      },
+      "artists": [
+        {
+          "name": "Omar Ruiz",
+          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 161132,
+      "name": "Ando Bien",
+      "url": "https://open.spotify.com/track/4xIPF0XvckZ32QXXI6fW9P"
     },
     {
       "added_at": null,

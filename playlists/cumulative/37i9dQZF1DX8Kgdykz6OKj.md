@@ -4,7 +4,7 @@
 
 > Laid back cratedigger hip\-hop from around the world.
 
-396 songs - 22 hr 25 min
+397 songs - 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Albany](https://open.spotify.com/track/3axd6nS2OpTthBIv7Fv8LB) | [Kev Brown](https://open.spotify.com/artist/1Yi9MvKxq35HFHWl0nNelG) | [Always / Albany](https://open.spotify.com/album/350aqUY5tiF829qMI0QC6X) | 2:49 | 2021-12-16 | 2022-05-30 |
 | [Alchemy](https://open.spotify.com/track/02ck9tzXidQ4fTTMMGX43t) | [MANIK MC](https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Alchemy](https://open.spotify.com/album/137mUauJjgIwCPORvCsk5o) | 3:13 | 2021-12-16 |  |
 | [almost got me](https://open.spotify.com/track/7tYbDFqHeiNRMRwfk7PF5w) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [almost got me](https://open.spotify.com/album/3CgByUDYSBxYmUdQfQDOLk) | 3:03 | 2024-07-12 |  |
+| [Amnesia \- Slim\. Remix](https://open.spotify.com/track/7t5qW5nd52zSft927ByoHF) | [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z), [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH) | [Still Nothing Still \(Deluxe\)](https://open.spotify.com/album/47zLi5b1Xv8uwVzTWTDM6C) | 3:06 | 2024-07-18 |  |
 | [Anointed Soul](https://open.spotify.com/track/6kPK6JPNSsWovpDcnfOIyQ) | [Jahari Massamba Unit](https://open.spotify.com/artist/0wQu6RGpwgoD20qNxb4vwj), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [YHWH is LOVE](https://open.spotify.com/album/0GCFzQmxBDBjUcVFHh3Mji) | 3:09 | 2024-03-01 | 2024-06-19 |
 | [Another Day](https://open.spotify.com/track/2GFr1qKDZcByge6O956l2B) | [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP) | [In The Beginning: Before The Heavens](https://open.spotify.com/album/493jNMqrlOYhzQ0aoYU03s) | 3:53 | 2022-04-11 | 2022-04-21 |
 | [Any Way, Any Day](https://open.spotify.com/track/66KfkAGF4QBp4lElvKKqI1) | [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB), [Sadat X](https://open.spotify.com/artist/6Nf1gMtwFrHqlEySdSkzZw) | [Meditations](https://open.spotify.com/album/7dieRoSqwmlqOHJAxXPYsR) | 3:40 | 2022-04-11 | 2022-04-21 |
@@ -35,7 +36,7 @@
 | [Athens](https://open.spotify.com/track/4YKrRk2jraHkFuHcVaUvog) | [Ol' Burger Beats](https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz), [Vuyo](https://open.spotify.com/artist/6pWOGQubsgAiEZmzioIyDi) | [Athens](https://open.spotify.com/album/3jFju6gf1gujqRGxGyeoHy) | 2:30 | 2021-12-16 | 2022-07-29 |
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-06-21 | 2023-12-15 |
 | [Bacc 2 Harlem](https://open.spotify.com/track/4GMQyTh4yglx08mb1Aci6y) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [2 Piece](https://open.spotify.com/album/4ETZDoRT2DmjIb3L2IUo57) | 3:06 | 2024-04-19 |  |
-| [Battiti in parole](https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL) | [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso), [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [fusion.](https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54) | 3:40 | 2024-04-19 |  |
+| [Battiti in parole](https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL) | [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso), [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [fusion.](https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54) | 3:40 | 2024-04-19 | 2024-07-21 |
 | [Beautiful Life \(feat\. 38 Spesh & Jay Worthy\)](https://open.spotify.com/track/6lKRzRSizlPqAnHSAALuqG) | [Jay Exodus](https://open.spotify.com/artist/5dgpDskNSWSGt4CfF3uEmA), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT), [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q) | [Beautiful Life \(feat\. 38 Spesh & Jay Worthy\)](https://open.spotify.com/album/5FpBZuKzH03Q38TG6crrB4) | 4:13 | 2024-04-05 | 2024-07-06 |
 | [Before It's Over](https://open.spotify.com/track/5LnOtXW4jm8hlkMTkB0X4O) | [EllMatic](https://open.spotify.com/artist/6DyhWc1O1h5v5olTLhKv3M), [Kijk Een Ster](https://open.spotify.com/artist/4mRAdzbdUDWVyTGuVV8TS6) | [Before It's Over](https://open.spotify.com/album/0nmryJ3Mx4NFUcSfVgfO9O) | 3:10 | 2022-04-11 | 2022-10-20 |
 | [Beloved! Paradise! Jazz!?](https://open.spotify.com/track/4DoFmJKTQsWqjVgoXC7zOs) | [McKinley Dixon](https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko), [Ms\. Jaylin Brown](https://open.spotify.com/artist/1ffnZupAfeFVxIBCtbiy0d) | [Beloved! Paradise! Jazz!?](https://open.spotify.com/album/3RDAqHBWBHXRwVSJF9T8VW) | 4:07 | 2024-01-24 | 2024-04-19 |

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Banda Carnaval. Los temas esenciales, todos en una lista.",
-  "num_followers": 56734,
+  "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
+  "num_followers": 56750,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZphbAAAAAAAjOwn+mh5d0/HEsPonRAtS",
+  "snapshot_id": "ZpmsgAAAAACI2n2E2pZr9WqsY5Njkuqp",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El N\u00famero 1",
-        "url": "https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Olvidarte No Ser\u00e1 Sencillo",
-      "url": "https://open.spotify.com/track/28G1NMKWboIAlzSo7O0eT7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Vueltas De La Vida",
         "url": "https://open.spotify.com/album/4EsRdUztvnblHNgu53aqZr"
       },
@@ -239,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El N\u00famero 1",
+        "url": "https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Olvidarte No Ser\u00e1 Sencillo",
+      "url": "https://open.spotify.com/track/28G1NMKWboIAlzSo7O0eT7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Rindo",
         "url": "https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57"
       },
@@ -251,6 +251,22 @@
       "duration_ms": 220653,
       "name": "Me Rindo",
       "url": "https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo M\u00e1s Rom\u00e1ntico De",
+        "url": "https://open.spotify.com/album/5fno20N7QRlErQUnHy0qSZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 198786,
+      "name": "P\u00eddeme",
+      "url": "https://open.spotify.com/track/47dgKdqRE5zuAa7yESoKCj"
     },
     {
       "added_at": null,
@@ -363,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 176066,
-      "name": "El Herradero - En Vivo Desde El Rancho",
-      "url": "https://open.spotify.com/track/1XSQE1KKdfIO8auVrK2l2s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como No Queriendo",
         "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
       },
@@ -391,6 +391,22 @@
       "duration_ms": 221626,
       "name": "C\u00f3mo No Adorarla",
       "url": "https://open.spotify.com/track/2VOltazP4iORb1wbbYKPY3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 176066,
+      "name": "El Herradero - En Vivo Desde El Rancho",
+      "url": "https://open.spotify.com/track/1XSQE1KKdfIO8auVrK2l2s"
     },
     {
       "added_at": null,
@@ -431,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 148680,
-      "name": "Caballito De Otate - En Vivo Desde El Rancho",
-      "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como No Queriendo",
         "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
       },
@@ -459,6 +459,22 @@
       "duration_ms": 163253,
       "name": "Ella Es Mi Mujer",
       "url": "https://open.spotify.com/track/5WdjiXWPnfjgwFssJGFU4K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 148680,
+      "name": "Caballito De Otate - En Vivo Desde El Rancho",
+      "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
     },
     {
       "added_at": null,
@@ -491,6 +507,22 @@
       "duration_ms": 204413,
       "name": "\u00bfDesde Cu\u00e1ndo No Me Quieres?",
       "url": "https://open.spotify.com/track/1zMxs8npzBg46TbJtwFgO0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como No Queriendo",
+        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Segunda Opci\u00f3n",
+      "url": "https://open.spotify.com/track/3bvQCGDb6D66J7b0lzXsKG"
     },
     {
       "added_at": null,
@@ -571,22 +603,6 @@
       "duration_ms": 191226,
       "name": "Volver A Volar",
       "url": "https://open.spotify.com/track/1UTax2cvw1ehp87jkxbCXF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como No Queriendo",
-        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Segunda Opci\u00f3n",
-      "url": "https://open.spotify.com/track/3bvQCGDb6D66J7b0lzXsKG"
     },
     {
       "added_at": null,
@@ -859,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confieso",
-        "url": "https://open.spotify.com/album/62cNdvz0c0wDqgp4imMhpI"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 242786,
-      "name": "Confieso",
-      "url": "https://open.spotify.com/track/5A5M4GH24OwRGtSbaIDLPU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vamos De Nuevo",
         "url": "https://open.spotify.com/album/3BAwuS5HqCNysuh7qpNreR"
       },
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Confieso",
+        "url": "https://open.spotify.com/album/62cNdvz0c0wDqgp4imMhpI"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 242786,
+      "name": "Confieso",
+      "url": "https://open.spotify.com/track/5A5M4GH24OwRGtSbaIDLPU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos, Rancheras Y Caballos En Vivo",
         "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
       },
@@ -907,26 +923,6 @@
       "duration_ms": 191560,
       "name": "El Becerro No Ha Mamado Y El Borrego Cachet\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/76FZVlzBjXGtbN9ff9sdtV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos De Alto Calibre (Vol. II)",
-        "url": "https://open.spotify.com/album/7wqVdv2T7Z7b1vDyRSjcIk"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        },
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "Joaqu\u00edn",
-      "url": "https://open.spotify.com/track/6iO3I852AXG3gZj5AdRxyX"
     }
   ],
   "unique_name": "This Is Banda Carnaval",

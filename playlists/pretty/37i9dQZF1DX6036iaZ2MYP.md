@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: SPINALL
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,079 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,240 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 9 | [Pimpon](https://open.spotify.com/track/1yXRvMTmXbgxy9p5CS63bc) | [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4), [Game Over](https://open.spotify.com/artist/5asZFEvwtp6ex6hX9CFp9f) | [Game Over 3 \- Terminal 3](https://open.spotify.com/album/2mzGH2M2nXqCq15XL01P5z) | 2:25 |
 | 10 | [YBIL \(You Believe in Love\) \(feat\. Kizz Daniel\)](https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Qing Madi \(Deluxe\)](https://open.spotify.com/album/4vxIotduGifC33fGSfxxom) | 3:15 |
 | 11 | [SOWETO](https://open.spotify.com/track/1OZP6Q2O8ybMyDHwoXOSEz) | [WAYNE FLENORY](https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV) | [SOWETO](https://open.spotify.com/album/4sPSjfJ5R9j3wsWJHfDyN7) | 2:32 |
-| 12 | [Paparazzi](https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Paparazzi](https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b) | 2:27 |
+| 12 | [PAPARAZZI](https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [PAPARAZZI](https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b) | 2:27 |
 | 13 | [Wahala](https://open.spotify.com/track/0V4ie5PXFiWXEd2XldImGr) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Alusa Why Are You Topless? \(Deluxe\)](https://open.spotify.com/album/6piDT78sQ40k6xC5r9A8st) | 3:27 |
 | 14 | [J'suis plus là \(feat\. LowJay & Papi\)](https://open.spotify.com/track/56R1EXj3sVlmy2ldgiTeef) | [Titai](https://open.spotify.com/artist/0kTTkHvvtYNtRKnRPyNGhT), [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR), [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N), [Papi](https://open.spotify.com/artist/1seuCAgNtazhgOk3LaP68H) | [J'suis plus là \(feat\. LowJay & Papi\)](https://open.spotify.com/album/6m4vIkjGn1K8TOqYF4d90A) | 2:43 |
 | 15 | [Secrets](https://open.spotify.com/track/3GcJMp3qA4F8S2vGZ4yZ0N) | [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Secrets](https://open.spotify.com/album/2wkkmWlkPwBaMVE3Cs6VIl) | 3:21 |

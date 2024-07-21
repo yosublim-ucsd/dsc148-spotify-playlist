@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: Cicada
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,951 likes - 61 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,953 likes - 61 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [匯流向海 \- 2024 Version](https://open.spotify.com/track/5f2h3glhTXNVMNWwXk8cbR) | [Cicada](https://open.spotify.com/artist/5Od6qTN5QeUH6CyXaaZusC) | [回返（十五週年自選集）](https://open.spotify.com/album/3BNIcRAbuTLeIbGRByRWHJ) | 8:57 |
+| 1 | [匯流向海 Into the Ocean \- 2024 Version](https://open.spotify.com/track/5f2h3glhTXNVMNWwXk8cbR) | [Cicada](https://open.spotify.com/artist/5Od6qTN5QeUH6CyXaaZusC) | [回返 \(十五週年自選集\) Coastland Revisited \(A Remake of Select Pieces\)](https://open.spotify.com/album/3BNIcRAbuTLeIbGRByRWHJ) | 8:57 |
 | 2 | [是 Am](https://open.spotify.com/track/7uMHJYzGXsSPeeFrGEIxjI) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [是 Am](https://open.spotify.com/album/0bMv2UDQtyg5ww8D61LrVX) | 6:29 |
 | 3 | [未濟](https://open.spotify.com/track/4czAdMTQSVvWADk8V0RChL) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1), [Karen Mok & The Masters](https://open.spotify.com/artist/5jzZwYtRoS8Yod0MYwnCCR) | [未濟](https://open.spotify.com/album/3zBP1bEzcJlL7YyjSHi8iZ) | 3:18 |
 | 4 | [用力的愛將我帶去遠方](https://open.spotify.com/track/2y58AH8dsNRWqzn1WaBjCS) | [TANA樂隊](https://open.spotify.com/artist/13gwGnpMwFCCXOm81Rk0Zz) | [用力的愛將我帶去遠方](https://open.spotify.com/album/4q0sWiGO5daPuoMJ9tqwPR) | 4:35 |

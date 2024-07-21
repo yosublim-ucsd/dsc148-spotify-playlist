@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-599 songs - 1 day 17 hr 31 min
+600 songs - 1 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,8 +454,9 @@
 | [Someone That You Loved Before](https://open.spotify.com/track/2hUOxRQa0WBLnbJEI1GJmv) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Every Day Is a New Day](https://open.spotify.com/album/06Oz3WGqsrMwHz4VmtUORF) | 3:48 | 2023-12-30 |  |
 | [Soon](https://open.spotify.com/track/0YRGIRTHsQzuHoOKvdosBN) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [I Need You](https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK) | 3:52 | 2023-12-30 |  |
 | [Soul of My Soul](https://open.spotify.com/track/0uikANAtgIQOI4U3LjpSV9) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:42 | 2023-12-30 |  |
-| [Spanish Guitar](https://open.spotify.com/track/0cRaxYYOrxuz7OkpUP2CLL) | [Dubble Trubble](https://open.spotify.com/artist/6RnUwB5FnD60Cfd2SlWnyi) | [Gentle Soul Ballads](https://open.spotify.com/album/3AFeCAdxa2gNBjXrbCEqsZ) | 4:48 | 2024-07-10 |  |
+| [Spanish Guitar](https://open.spotify.com/track/0cRaxYYOrxuz7OkpUP2CLL) | [Dubble Trubble](https://open.spotify.com/artist/6RnUwB5FnD60Cfd2SlWnyi) | [Gentle Soul Ballads](https://open.spotify.com/album/3AFeCAdxa2gNBjXrbCEqsZ) | 4:48 | 2024-07-10 | 2024-07-21 |
 | [Spanish Guitar](https://open.spotify.com/track/1ieouFxB2A3JjKEt1OoEiB) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [The Heat](https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi) | 4:49 | 2023-12-30 |  |
+| [Spanish Guitar](https://open.spotify.com/track/78xZmv0VetvNAslUqlggdx) | [Ultra Band](https://open.spotify.com/artist/4EcDwU1AjqKHYuytqo9DJ6) | [Essência Feminina Internacional](https://open.spotify.com/album/4PwuhuWIirjtB4voJXG8ew) | 4:46 | 2024-07-20 |  |
 | [Stand in the Fire](https://open.spotify.com/track/2yO7ZmuxCUsRlFt4KFKyAZ) | [Eric Thomas](https://open.spotify.com/artist/5URFLvsIMbJIqmQL36FmvW) | [Varnell Road](https://open.spotify.com/album/0aMt1oxaPk8NRkxWXknRzW) | 5:34 | 2024-07-10 |  |
 | [Stand up for Something \(feat\. Common\)](https://open.spotify.com/track/0Vf1E9i3cK9O6KZyPynDHg) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Stand up for Something \(feat\. Common\)](https://open.spotify.com/album/1X5UxEFIFdJUm2m9fwerDH) | 3:44 | 2023-12-30 |  |
 | [State Your Case](https://open.spotify.com/track/2qfp2aMU8eJwC5tvU5d4ph) | [Martina Stavolo](https://open.spotify.com/artist/46XMakeFnFoqF1CkbzhZqF) | [Due Cose Importanti](https://open.spotify.com/album/0JpcAxEYrw4uFcgOifahKB) | 3:35 | 2024-07-10 |  |

@@ -393,6 +393,28 @@
     },
     {
       "album": {
+        "name": "Still Nothing Still (Deluxe)",
+        "url": "https://open.spotify.com/album/47zLi5b1Xv8uwVzTWTDM6C"
+      },
+      "artists": [
+        {
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        },
+        {
+          "name": "Slim.",
+          "url": "https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186153,
+      "name": "Amnesia - Slim. Remix",
+      "url": "https://open.spotify.com/track/7t5qW5nd52zSft927ByoHF"
+    },
+    {
+      "album": {
         "name": "YHWH is LOVE",
         "url": "https://open.spotify.com/album/0GCFzQmxBDBjUcVFHh3Mji"
       },
@@ -610,7 +632,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 220797,
       "name": "Battiti in parole",
       "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"

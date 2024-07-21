@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Fred De Palma in cover + le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,700 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,736 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 41 | [Tequila](https://open.spotify.com/track/3OONvR6HW8rdXNDGYO81Ru) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Everything Or Nothing \#DQH2](https://open.spotify.com/album/3qAA1ejpFJwfbSEyXzBikF) | 2:28 |
 | 42 | [FIRE](https://open.spotify.com/track/3iTxrQHyBMrdaYnfsX38Dp) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8), [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey) | [FIRE](https://open.spotify.com/album/5XKam0U5tpofSPMnH12aVM) | 2:15 |
 | 43 | [Any Location](https://open.spotify.com/track/5NrKXnyWe2KutEeuUz7J7b) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [SHYLO](https://open.spotify.com/album/5byuY0SyANjYF7NyKvn0iu) | 2:17 |
-| 44 | [I Adore You](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
+| 44 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
 | 45 | [How Do You Love? \(feat\. Mougleta\)](https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Reverie](https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6) | 3:30 |
 | 46 | [Summer Of 69](https://open.spotify.com/track/1qFqeKWXP1hMMoVa1vvEiv) | [C3DRIC](https://open.spotify.com/artist/5P2W0yAyT5iL5HzSi7uHpK), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD) | [Summer Of 69](https://open.spotify.com/album/0PFx8R87W9HGfpXTWBLEqQ) | 1:59 |
 | 47 | [LEGAMI](https://open.spotify.com/track/1C9OAXQN4zKkPbTRO17Hma) | [Goldreick](https://open.spotify.com/artist/0UJ6nopuHJk9q7addrnFhD), [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP), [Alice](https://open.spotify.com/artist/2secXZJFel5sboofeiGQyk), [maggio](https://open.spotify.com/artist/7bykcg3a4exhrIgiffIR2Q) | [MERO CREDIT](https://open.spotify.com/album/0ToH1czj1bGlNTGka6cdzm) | 3:33 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 68 | [Mia / Niente da perdere](https://open.spotify.com/track/1MyPoVnakQSGWtfl1lqFSp) | [Soave](https://open.spotify.com/artist/4lfpDO5m3RdKU2859LXmsN) | [Mia / Niente da perdere](https://open.spotify.com/album/3UTZzJOWjOMPf74nPEsArv) | 2:15 |
 | 69 | [troppo presto](https://open.spotify.com/track/3VAKgrEdeG9Hyrr2midIgk) | [Lil Markiese](https://open.spotify.com/artist/3raaszvUEmOauJOMrrhg4I) | [troppo presto](https://open.spotify.com/album/0pAfGcmGCRPOvflSiUbeDx) | 2:56 |
 | 70 | [Rom'antica](https://open.spotify.com/track/2MUDmWgfJtAma6br0HOqnG) | [Tekla](https://open.spotify.com/artist/5OnzvdeLNxjYNpruf2z0Uw) | [Rom'antica](https://open.spotify.com/album/16cwdZL6EO35vjk74512UP) | 3:31 |
-| 71 | [O.G](https://open.spotify.com/track/3ohHzYLKYRmvOIEq5QngJJ) | [Puka Shell's Bling](https://open.spotify.com/artist/1asNZP2giwLI7reZVQUCSu) | [O.G](https://open.spotify.com/album/5tp7jGT8GxNxLHzTc4urFT) | 4:33 |
+| 71 | [O.G.](https://open.spotify.com/track/3ohHzYLKYRmvOIEq5QngJJ) | [Puka Shell's Bling](https://open.spotify.com/artist/1asNZP2giwLI7reZVQUCSu) | [O.G.](https://open.spotify.com/album/5tp7jGT8GxNxLHzTc4urFT) | 4:33 |
 | 72 | [The World Above](https://open.spotify.com/track/2IHOfg0T2tEO3iQ1aYvZA1) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The World Above](https://open.spotify.com/album/7e4uwIr9ceGWZH1HtE9NCO) | 3:32 |
 | 73 | [Disordine](https://open.spotify.com/track/1AUHhNM2E5or6DnZysnJVV) | [Visconti](https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P) | [Disordine](https://open.spotify.com/album/3FtOmPmrSvIH3oWbATUx4N) | 2:58 |
 | 74 | [The Depth Of An Answer](https://open.spotify.com/track/4Ctd50Er8N3MIOirhnJl6W) | [Dumbo Gets Mad](https://open.spotify.com/artist/530iy3GzOTqWe9LEeiZuDO) | [The Depth Of An Answer](https://open.spotify.com/album/0IlHcsXe4APAegzwVcKbpe) | 4:10 |

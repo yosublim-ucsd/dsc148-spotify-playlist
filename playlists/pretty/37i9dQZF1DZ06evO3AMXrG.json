@@ -1,12 +1,12 @@
 {
-  "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 231531,
+  "description": "This Is Cultura Prof\u00e9tica. Los temas esenciales, todos en una lista.",
+  "num_followers": 231575,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZphbAAAAAABkrudDcthgdxqH4rVBhQAS",
+  "snapshot_id": "ZpmsgAAAAAANO4RfkLHBEpIYnQYwcSEP",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuiste Cruel",
-        "url": "https://open.spotify.com/album/3gFaZRToVe63cRTJJh94Yo"
+        "name": "M. O. T. A.",
+        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 297738,
-      "name": "Fuiste Cruel",
-      "url": "https://open.spotify.com/track/4ElWiTXz0iz5vKO8X2L0hN"
+      "duration_ms": 281760,
+      "name": "Sube el Humo",
+      "url": "https://open.spotify.com/track/7ChGr8JqBeKaOhgvattRGs"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "M. O. T. A.",
-        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
+        "name": "Fuiste Cruel",
+        "url": "https://open.spotify.com/album/3gFaZRToVe63cRTJJh94Yo"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 281760,
-      "name": "Sube el Humo",
-      "url": "https://open.spotify.com/track/7ChGr8JqBeKaOhgvattRGs"
+      "duration_ms": 297738,
+      "name": "Fuiste Cruel",
+      "url": "https://open.spotify.com/track/4ElWiTXz0iz5vKO8X2L0hN"
     },
     {
       "added_at": null,
@@ -275,22 +275,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "L\u00e1grimas",
-        "url": "https://open.spotify.com/album/07AdSSqAECv1zjfmAxjYsu"
+        "name": "M. O. T. A.",
+        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
       },
       "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
         {
           "name": "Cultura Prof\u00e9tica",
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 280000,
-      "name": "L\u00e1grimas",
-      "url": "https://open.spotify.com/track/0jY3QomRqGPCDBhaIkcndk"
+      "duration_ms": 349226,
+      "name": "Ritmo Que Pesa",
+      "url": "https://open.spotify.com/track/2FSpiaFpqmCNnC7IPr1TAy"
     },
     {
       "added_at": null,
@@ -311,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M. O. T. A.",
-        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 349226,
-      "name": "Ritmo Que Pesa",
-      "url": "https://open.spotify.com/track/2FSpiaFpqmCNnC7IPr1TAy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobrevolando",
         "url": "https://open.spotify.com/album/52NO2mK3NAWxWbDzYicN9L"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 283315,
       "name": "Llevarte All\u00ed",
       "url": "https://open.spotify.com/track/1SNEzBEXudD7IOSFE5MpV6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L\u00e1grimas",
+        "url": "https://open.spotify.com/album/07AdSSqAECv1zjfmAxjYsu"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/0jY3QomRqGPCDBhaIkcndk"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le da Igual",
-        "url": "https://open.spotify.com/album/2HDu1meEZDzEvSq8BZtRYs"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 249770,
-      "name": "Le da Igual",
-      "url": "https://open.spotify.com/track/30aOv2QHVEqm4PmDdJ6uvl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobrevolando",
         "url": "https://open.spotify.com/album/52NO2mK3NAWxWbDzYicN9L"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 280574,
       "name": "Caracoles",
       "url": "https://open.spotify.com/track/5DqMyO2bBZhSw2f11IX0y6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le da Igual",
+        "url": "https://open.spotify.com/album/2HDu1meEZDzEvSq8BZtRYs"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 249770,
+      "name": "Le da Igual",
+      "url": "https://open.spotify.com/track/30aOv2QHVEqm4PmDdJ6uvl"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M. O. T. A.",
-        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 248533,
-      "name": "La Noche Vibra",
-      "url": "https://open.spotify.com/track/04LV5ZhMdkFJqvGtITa62B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobrevolando",
         "url": "https://open.spotify.com/album/52NO2mK3NAWxWbDzYicN9L"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 343963,
       "name": "Herida Mortal",
       "url": "https://open.spotify.com/track/2WIwsUshsqeBrAt7jHaHOg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M. O. T. A.",
+        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 332533,
+      "name": "Nadie Se Atreve",
+      "url": "https://open.spotify.com/track/5I2SkxIYjfRQ1PhqQLqP6F"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M. O. T. A.",
-        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 332533,
-      "name": "Nadie Se Atreve",
-      "url": "https://open.spotify.com/track/5I2SkxIYjfRQ1PhqQLqP6F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobrevolando",
         "url": "https://open.spotify.com/album/52NO2mK3NAWxWbDzYicN9L"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 267764,
       "name": "Sobrevolando",
       "url": "https://open.spotify.com/track/43R5n6DUZ0zW6cVwC65z1e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M. O. T. A.",
+        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 248533,
+      "name": "La Noche Vibra",
+      "url": "https://open.spotify.com/track/04LV5ZhMdkFJqvGtITa62B"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M. O. T. A.",
-        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 344493,
-      "name": "No Me Interesa",
-      "url": "https://open.spotify.com/track/1lIBlgWFQCN9zLwUaUMJfL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobrevolando",
         "url": "https://open.spotify.com/album/52NO2mK3NAWxWbDzYicN9L"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 259536,
       "name": "Despertador Solar",
       "url": "https://open.spotify.com/track/0BiprIH3JRP2s6RtNxVB89"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M. O. T. A.",
+        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 344493,
+      "name": "No Me Interesa",
+      "url": "https://open.spotify.com/track/1lIBlgWFQCN9zLwUaUMJfL"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canci\u00f3n de Alerta",
-        "url": "https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "Fruto de la Tierra",
-      "url": "https://open.spotify.com/track/7L0E4HQmpPLDIWhpDqYJez"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobrevolando",
         "url": "https://open.spotify.com/album/52NO2mK3NAWxWbDzYicN9L"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 308756,
       "name": "Love and Happiness",
       "url": "https://open.spotify.com/track/3P5Rurr1VBvsJmlTODMdWj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canci\u00f3n de Alerta",
+        "url": "https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "Fruto de la Tierra",
+      "url": "https://open.spotify.com/track/7L0E4HQmpPLDIWhpDqYJez"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
       "duration_ms": 382920,
       "name": "Ley Natural",
       "url": "https://open.spotify.com/track/2FthRSpEy044BM8QkoqeeP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canci\u00f3n de Alerta",
-        "url": "https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 71333,
-      "name": "Enyoyando",
-      "url": "https://open.spotify.com/track/6ySSJb08nj05F4zqcUtFBx"
     },
     {
       "added_at": null,

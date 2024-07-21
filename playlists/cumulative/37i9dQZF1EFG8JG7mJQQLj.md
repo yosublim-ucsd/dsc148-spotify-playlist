@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-475 songs - 1 day 3 hr 30 min
+476 songs - 1 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,7 +345,8 @@
 | [Savior](https://open.spotify.com/track/4VhR9r9zgzikeruUScgj8A) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 3:01 | 2024-01-29 |  |
 | [Say \(All I Need\)](https://open.spotify.com/track/6H4vq5gz0rlNjH0LBzu4An) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:50 | 2024-01-29 |  |
 | [Say It All](https://open.spotify.com/track/57CyqjHnj1E9dNysbxLysv) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [LP1](https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm) | 3:27 | 2024-01-29 |  |
-| [Scars](https://open.spotify.com/track/2rd4MCZrbOzbgAc7zzho4W) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [Forever \(Deluxe\)](https://open.spotify.com/album/0rKecMSGWfKqhls4Rp3PJn) | 3:18 | 2024-01-29 |  |
+| [Scars](https://open.spotify.com/track/2rd4MCZrbOzbgAc7zzho4W) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [Forever \(Deluxe\)](https://open.spotify.com/album/0rKecMSGWfKqhls4Rp3PJn) | 3:18 | 2024-01-29 | 2024-07-21 |
+| [Scars](https://open.spotify.com/track/6wZYxok5OMWAZh8r91vFEL) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [Forever](https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw) | 3:18 | 2024-07-20 |  |
 | [Seasons](https://open.spotify.com/track/17Mrpdv01Bp7H0YTnGeqRH) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Seasons](https://open.spotify.com/album/13grdFQAoT10WhB7tLcPqL) | 3:35 | 2024-01-30 | 2024-02-01 |
 | [Seasons](https://open.spotify.com/track/6TW2OHata91dIc99MZehcT) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Never Been Better \(Expanded Edition\)](https://open.spotify.com/album/41QyJYx6N181E3QxWpC2FW) | 3:37 | 2024-01-29 |  |
 | [Second Guessing \- From Songland](https://open.spotify.com/track/08IV5RiD02METcqtfzDeqj) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 3:07 | 2024-01-29 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 612710,
+  "num_followers": 612714,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZphbAAAAAACa17PSfKyi6r6DtJta/mC2",
+  "snapshot_id": "ZpmsgAAAAADodfLatVZDR6V+22An1YkZ",
   "tracks": [
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BEAUTIFUL HANGOVER",
+        "url": "https://open.spotify.com/album/0T3kfOUAUkhzvrPUm6sxxA"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 223946,
+      "name": "BEAUTIFUL HANGOVER",
+      "url": "https://open.spotify.com/track/1Z9metSk7L35CWSbVzoP2w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THE BEST OF BIGBANG 2006-2014",
         "url": "https://open.spotify.com/album/1JwbdXLKJVffgSW95WcTUp"
       },
@@ -543,22 +559,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bigbang 03",
-        "url": "https://open.spotify.com/album/0UewBgAMHugPdwS4Utk8SH"
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
       },
       "artists": [
         {
           "name": "BIGBANG",
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        },
-        {
-          "name": "Park Bom",
-          "url": "https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt"
         }
       ],
-      "duration_ms": 218618,
-      "name": "Forever With U (Feat. Park Bom)",
-      "url": "https://open.spotify.com/track/7czVcA9IUsAy61QdQaX2Tw"
+      "duration_ms": 213640,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/4UIKBrkH4ZKI2glKwQFDSV"
     },
     {
       "added_at": null,
@@ -595,18 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
+        "name": "Bigbang 03",
+        "url": "https://open.spotify.com/album/0UewBgAMHugPdwS4Utk8SH"
       },
       "artists": [
         {
           "name": "BIGBANG",
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        },
+        {
+          "name": "Park Bom",
+          "url": "https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt"
         }
       ],
-      "duration_ms": 213640,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/4UIKBrkH4ZKI2glKwQFDSV"
+      "duration_ms": 218618,
+      "name": "Forever With U (Feat. Park Bom)",
+      "url": "https://open.spotify.com/track/7czVcA9IUsAy61QdQaX2Tw"
     },
     {
       "added_at": null,

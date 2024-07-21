@@ -4,7 +4,7 @@
 
 > The biggest festival of the year\. The official playlist for Glastonbury 2024.
 
-210 songs - 12 hr 54 min
+211 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Grown Up](https://open.spotify.com/track/2KrkWcSP0oFWBUZzvj9KjS) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Grown Up](https://open.spotify.com/album/75BAkzFWLER9MrZjaeFX2X) | 2:19 | 2024-05-31 |  |
 | [Halcyon and On and On](https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Orbital 2](https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W) | 9:27 | 2024-05-31 |  |
 | [Handsworth Revolution](https://open.spotify.com/track/6IvCfEDx144Whfy0RWUdO3) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Reggae Greats](https://open.spotify.com/album/6DiwyMhNGSkMwJxGg8DUVZ) | 5:23 | 2024-05-31 |  |
-| [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 | 2024-05-31 |  |
+| [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 | 2024-05-31 | 2024-07-21 |
 | [Heavy Cross](https://open.spotify.com/track/3N9pOaB1a8nIULbCgmEVXc) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Music For Men](https://open.spotify.com/album/0HQQZSfbrsaWBlN7IdwKuD) | 4:02 | 2024-05-31 |  |
 | [High Note](https://open.spotify.com/track/28f5cHOahtA3JhbIBt9q9Y) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [High Note](https://open.spotify.com/album/0BKjTW49qxO6j8md9eW91g) | 3:45 | 2024-05-31 |  |
 | [High Time](https://open.spotify.com/track/22NG6qqEocSa7srAyyyLQw) | [4am Kru](https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ) | [High Time](https://open.spotify.com/album/6AVejTEoRqWHNonqliy9R0) | 3:42 | 2024-05-31 |  |
@@ -172,6 +172,7 @@
 | [Rush](https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 3:05 | 2024-05-31 |  |
 | [Self](https://open.spotify.com/track/5rNqaOOSNGrYtMo4sLDXU6) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Room 25](https://open.spotify.com/album/5GV2nBx7O67vu9NYHbMfXl) | 1:34 | 2024-05-31 |  |
 | [She's So Lovely](https://open.spotify.com/track/0wG4gampO24nC7VKm5pxjg) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [Scouting For Girls \(Expanded Edition\)](https://open.spotify.com/album/6kX0sZ1DFl2TE3e7SNJbkV) | 3:43 | 2024-05-31 |  |
+| [Shlut](https://open.spotify.com/track/6bAR0U4WV9uEBzuoNUzQSC) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 2:12 | 2024-05-31 |  |
 | [Smile](https://open.spotify.com/track/4SuNxKrkCjdC4mJdzwbUX3) | [Mista Trick](https://open.spotify.com/artist/68aX2oJPY4Hk1QRzGH8YU1), [Fizzy Gillespie](https://open.spotify.com/artist/7tvrCtVtWojFBvN99hHCT3), [Lottie Jones](https://open.spotify.com/artist/5dScLouYq1Xn2eUlzlpusx) | [Smile](https://open.spotify.com/album/6EXHOL67nL9ErBGTAPO81N) | 4:27 | 2024-05-31 |  |
 | [Socials](https://open.spotify.com/track/4lXM4G3waswwheaVOhKPKZ) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Socials](https://open.spotify.com/album/3wIFD68W3eGHj0Yx5C8I4r) | 2:45 | 2024-05-31 |  |
 | [Spirit 2.0](https://open.spotify.com/track/57s2fT1A0hOxscqF2Jipd5) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 4:49 | 2024-05-31 |  |

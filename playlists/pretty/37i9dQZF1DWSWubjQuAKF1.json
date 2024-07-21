@@ -1,6 +1,6 @@
 {
   "description": "nasze brzmienie \u2728 Cover: Julia Po\u015bnik",
-  "num_followers": 20467,
+  "num_followers": 20486,
   "original_name": "gen z ",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Szcz\u0119\u015bliwa Wina",
-        "url": "https://open.spotify.com/album/00MIiun6wtpS1KScwHB7aV"
-      },
-      "artists": [
-        {
-          "name": "Zale\u015b",
-          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
-        }
-      ],
-      "duration_ms": 153402,
-      "name": "Szcz\u0119\u015bliwa Wina",
-      "url": "https://open.spotify.com/track/5mpaSyASd5ev6RMfSqW4cR"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "my",
         "url": "https://open.spotify.com/album/19GsnIluYB9d42QHswzfej"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 216320,
       "name": "my",
       "url": "https://open.spotify.com/track/19dHt2hh8aaWNCDC3ReLZY"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Szcz\u0119\u015bliwa Wina",
+        "url": "https://open.spotify.com/album/00MIiun6wtpS1KScwHB7aV"
+      },
+      "artists": [
+        {
+          "name": "Zale\u015b",
+          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
+        }
+      ],
+      "duration_ms": 153402,
+      "name": "Szcz\u0119\u015bliwa Wina",
+      "url": "https://open.spotify.com/track/5mpaSyASd5ev6RMfSqW4cR"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -363,22 +363,26 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Dzikie R\u00f3\u017ce",
-        "url": "https://open.spotify.com/album/5zfh0diDFVQtVc5mZTNNvR"
+        "name": "Daj\u0119 Ci s\u0142owo",
+        "url": "https://open.spotify.com/album/4D1LPMuAnWE10544yIQY5T"
       },
       "artists": [
         {
-          "name": "Sasi",
-          "url": "https://open.spotify.com/artist/6QSTk1RVXLYa5lWqZCkWpE"
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
         },
         {
-          "name": "Mikolaj Blascello",
-          "url": "https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU"
+          "name": "Blinders",
+          "url": "https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J"
+        },
+        {
+          "name": "Karbid",
+          "url": "https://open.spotify.com/artist/69Tmta3dLLced5SbYhTg4l"
         }
       ],
-      "duration_ms": 234959,
-      "name": "Dzikie R\u00f3\u017ce",
-      "url": "https://open.spotify.com/track/5lKovMHSTqq5RR2Q80fGaD"
+      "duration_ms": 127366,
+      "name": "Daj\u0119 Ci s\u0142owo",
+      "url": "https://open.spotify.com/track/3vascTwzAFu8bvHbhvEduF"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -411,26 +415,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Daj\u0119 Ci s\u0142owo",
-        "url": "https://open.spotify.com/album/4D1LPMuAnWE10544yIQY5T"
+        "name": "Dzikie R\u00f3\u017ce",
+        "url": "https://open.spotify.com/album/5zfh0diDFVQtVc5mZTNNvR"
       },
       "artists": [
         {
-          "name": "Frank Leen",
-          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+          "name": "Sasi",
+          "url": "https://open.spotify.com/artist/6QSTk1RVXLYa5lWqZCkWpE"
         },
         {
-          "name": "Blinders",
-          "url": "https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J"
-        },
-        {
-          "name": "Karbid",
-          "url": "https://open.spotify.com/artist/69Tmta3dLLced5SbYhTg4l"
+          "name": "Mikolaj Blascello",
+          "url": "https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU"
         }
       ],
-      "duration_ms": 127366,
-      "name": "Daj\u0119 Ci s\u0142owo",
-      "url": "https://open.spotify.com/track/3vascTwzAFu8bvHbhvEduF"
+      "duration_ms": 234959,
+      "name": "Dzikie R\u00f3\u017ce",
+      "url": "https://open.spotify.com/track/5lKovMHSTqq5RR2Q80fGaD"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -515,6 +515,26 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "D\u00e9j\u00e0 Vu",
+        "url": "https://open.spotify.com/album/3Wkdzr7KwebHyxmxmqdAtK"
+      },
+      "artists": [
+        {
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+        },
+        {
+          "name": "Blinders",
+          "url": "https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J"
+        }
+      ],
+      "duration_ms": 138409,
+      "name": "D\u00e9j\u00e0 Vu",
+      "url": "https://open.spotify.com/track/3jCMMNBQbNZp1JdMjFKg32"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "fotki",
         "url": "https://open.spotify.com/album/2joFyfzqVnUz8GT3fIH9aN"
       },
@@ -551,38 +571,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Wszystko Minie",
-        "url": "https://open.spotify.com/album/24kue1VX52fHrZA4CnMlEp"
+        "name": "zero dwa",
+        "url": "https://open.spotify.com/album/11VxtaKa4FqvRxw42414cv"
       },
       "artists": [
         {
-          "name": "Mateusz Ciaw\u0142owski",
-          "url": "https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF"
-        }
-      ],
-      "duration_ms": 168284,
-      "name": "Wszystko Minie",
-      "url": "https://open.spotify.com/track/1pxRlP7Bbiraw3X8XG38kF"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "D\u00e9j\u00e0 Vu",
-        "url": "https://open.spotify.com/album/3Wkdzr7KwebHyxmxmqdAtK"
-      },
-      "artists": [
-        {
-          "name": "Frank Leen",
-          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+          "name": "pik pik",
+          "url": "https://open.spotify.com/artist/2tg8M5no3GJwNf0XBq4tcY"
         },
         {
-          "name": "Blinders",
-          "url": "https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J"
+          "name": "Marianna Matyja",
+          "url": "https://open.spotify.com/artist/69C3K642BGqBEFR5au5t48"
         }
       ],
-      "duration_ms": 138409,
-      "name": "D\u00e9j\u00e0 Vu",
-      "url": "https://open.spotify.com/track/3jCMMNBQbNZp1JdMjFKg32"
+      "duration_ms": 248828,
+      "name": "zero dwa",
+      "url": "https://open.spotify.com/track/5jKEhld4eJ5emfvC5fpeyA"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -611,6 +615,22 @@
       "duration_ms": 177750,
       "name": "Mia\u0142e\u015b by\u0107",
       "url": "https://open.spotify.com/track/6VZZhPyAo9U7ZTBRXduWBH"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Wszystko Minie",
+        "url": "https://open.spotify.com/album/24kue1VX52fHrZA4CnMlEp"
+      },
+      "artists": [
+        {
+          "name": "Mateusz Ciaw\u0142owski",
+          "url": "https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF"
+        }
+      ],
+      "duration_ms": 168284,
+      "name": "Wszystko Minie",
+      "url": "https://open.spotify.com/track/1pxRlP7Bbiraw3X8XG38kF"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -683,6 +703,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "zabierz mnie nad morze",
+        "url": "https://open.spotify.com/album/59UiYzMBzRGieC5egH19Ck"
+      },
+      "artists": [
+        {
+          "name": "Lackluster",
+          "url": "https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY"
+        }
+      ],
+      "duration_ms": 171235,
+      "name": "zabierz mnie nad morze",
+      "url": "https://open.spotify.com/track/7F2Gq8jGLgZen4XgLCKWaP"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "GOJO SATORU",
         "url": "https://open.spotify.com/album/5dfXXlA1vpRXhFasJmahp6"
       },
@@ -699,22 +735,6 @@
       "duration_ms": 205607,
       "name": "GOJO SATORU",
       "url": "https://open.spotify.com/track/7t3JhX1H4UfANMijhzoI3M"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "zabierz mnie nad morze",
-        "url": "https://open.spotify.com/album/59UiYzMBzRGieC5egH19Ck"
-      },
-      "artists": [
-        {
-          "name": "Lackluster",
-          "url": "https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY"
-        }
-      ],
-      "duration_ms": 171235,
-      "name": "zabierz mnie nad morze",
-      "url": "https://open.spotify.com/track/7F2Gq8jGLgZen4XgLCKWaP"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -787,22 +807,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Terminal 3",
-        "url": "https://open.spotify.com/album/1gSTT7TKMLWf5UOeP9vIcS"
-      },
-      "artists": [
-        {
-          "name": "Viki Gabor",
-          "url": "https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR"
-        }
-      ],
-      "duration_ms": 157384,
-      "name": "Kiss And Fly",
-      "url": "https://open.spotify.com/track/5d4WpBQcZOCRo0wepc7ojd"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Teleranek",
         "url": "https://open.spotify.com/album/61C2QQjGxZioq1gyenC2GM"
       },
@@ -835,6 +839,38 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "+1",
+        "url": "https://open.spotify.com/album/0L2L29KzYBJtGGHeUAI0Wg"
+      },
+      "artists": [
+        {
+          "name": "Anastazja Maci\u0105g",
+          "url": "https://open.spotify.com/artist/7FUSTVgPrNPjB3I3QYPby3"
+        }
+      ],
+      "duration_ms": 155044,
+      "name": "+1",
+      "url": "https://open.spotify.com/track/1uSqsOYzHF8wXAcyhO7xFm"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Terminal 3",
+        "url": "https://open.spotify.com/album/1gSTT7TKMLWf5UOeP9vIcS"
+      },
+      "artists": [
+        {
+          "name": "Viki Gabor",
+          "url": "https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR"
+        }
+      ],
+      "duration_ms": 157384,
+      "name": "Kiss And Fly",
+      "url": "https://open.spotify.com/track/5d4WpBQcZOCRo0wepc7ojd"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "Kosmosy",
         "url": "https://open.spotify.com/album/30I9WyETvOCanXQFRxJqN7"
       },
@@ -847,6 +883,26 @@
       "duration_ms": 175758,
       "name": "Kosmosy",
       "url": "https://open.spotify.com/track/1pJutt0aXEbS1uuFu2qK6w"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "lawenda",
+        "url": "https://open.spotify.com/album/4SYewAkrqWANmfutFXeZc1"
+      },
+      "artists": [
+        {
+          "name": "irys",
+          "url": "https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U"
+        },
+        {
+          "name": "Marcin Przyby\u0142owicz",
+          "url": "https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw"
+        }
+      ],
+      "duration_ms": 235401,
+      "name": "lawenda",
+      "url": "https://open.spotify.com/track/1MkUt0F83LEQUOkMylVLQR"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -883,58 +939,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "lawenda",
-        "url": "https://open.spotify.com/album/4SYewAkrqWANmfutFXeZc1"
-      },
-      "artists": [
-        {
-          "name": "irys",
-          "url": "https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U"
-        },
-        {
-          "name": "Marcin Przyby\u0142owicz",
-          "url": "https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw"
-        }
-      ],
-      "duration_ms": 235401,
-      "name": "lawenda",
-      "url": "https://open.spotify.com/track/1MkUt0F83LEQUOkMylVLQR"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "+1",
-        "url": "https://open.spotify.com/album/0L2L29KzYBJtGGHeUAI0Wg"
-      },
-      "artists": [
-        {
-          "name": "Anastazja Maci\u0105g",
-          "url": "https://open.spotify.com/artist/7FUSTVgPrNPjB3I3QYPby3"
-        }
-      ],
-      "duration_ms": 155044,
-      "name": "+1",
-      "url": "https://open.spotify.com/track/1uSqsOYzHF8wXAcyhO7xFm"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Nie chc\u0119 by\u0107 jak Barbie",
-        "url": "https://open.spotify.com/album/0EeRLhRycspWqUmk271S8x"
-      },
-      "artists": [
-        {
-          "name": "Maja Krzy\u017cewska",
-          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
-        }
-      ],
-      "duration_ms": 138694,
-      "name": "Nie chc\u0119 by\u0107 jak Barbie",
-      "url": "https://open.spotify.com/track/0H1FFFuvz73x0tm35qpWNf"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "AMORE",
         "url": "https://open.spotify.com/album/7A7Yg3CYOmOtM6XDJtOz8i"
       },
@@ -963,6 +967,22 @@
       "duration_ms": 128332,
       "name": "Klub Z\u0142amanych Serc",
       "url": "https://open.spotify.com/track/3pfOeXoXWDeLoUSvVagqTM"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Nie chc\u0119 by\u0107 jak Barbie",
+        "url": "https://open.spotify.com/album/0EeRLhRycspWqUmk271S8x"
+      },
+      "artists": [
+        {
+          "name": "Maja Krzy\u017cewska",
+          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
+        }
+      ],
+      "duration_ms": 138694,
+      "name": "Nie chc\u0119 by\u0107 jak Barbie",
+      "url": "https://open.spotify.com/track/0H1FFFuvz73x0tm35qpWNf"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1039,22 +1059,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Zabawy Sercem",
-        "url": "https://open.spotify.com/album/2Ibp0DGPnQfUmvTmpd1hsm"
-      },
-      "artists": [
-        {
-          "name": "Maja Krzy\u017cewska",
-          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
-        }
-      ],
-      "duration_ms": 156294,
-      "name": "Zabawy Sercem",
-      "url": "https://open.spotify.com/track/7ivio4VD40tDP5UsiGNnOJ"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "POPSTAR",
         "url": "https://open.spotify.com/album/5TCgpSMekiz0v3n3r9caF7"
       },
@@ -1095,6 +1099,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "Zabawy Sercem",
+        "url": "https://open.spotify.com/album/2Ibp0DGPnQfUmvTmpd1hsm"
+      },
+      "artists": [
+        {
+          "name": "Maja Krzy\u017cewska",
+          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
+        }
+      ],
+      "duration_ms": 156294,
+      "name": "Zabawy Sercem",
+      "url": "https://open.spotify.com/track/7ivio4VD40tDP5UsiGNnOJ"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "Pole namiotowe",
         "url": "https://open.spotify.com/album/6DPS1tx26SJVb7VHOPc340"
       },
@@ -1111,22 +1131,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "NIE ZNASZ JEJ",
-        "url": "https://open.spotify.com/album/5Lz3RAlx009Pp3PfYGMmb1"
-      },
-      "artists": [
-        {
-          "name": "Elena",
-          "url": "https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn"
-        }
-      ],
-      "duration_ms": 154698,
-      "name": "NIE ZNASZ JEJ",
-      "url": "https://open.spotify.com/track/6h3tQYd7SQ5R24y4BSNld8"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Wybacz",
         "url": "https://open.spotify.com/album/57RgCyvk7mbVRwQ5ghiqAJ"
       },
@@ -1139,6 +1143,22 @@
       "duration_ms": 160173,
       "name": "Wybacz",
       "url": "https://open.spotify.com/track/0uhhM7tSYivThVeEbDRm7N"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "NIE ZNASZ JEJ",
+        "url": "https://open.spotify.com/album/5Lz3RAlx009Pp3PfYGMmb1"
+      },
+      "artists": [
+        {
+          "name": "Elena",
+          "url": "https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn"
+        }
+      ],
+      "duration_ms": 154698,
+      "name": "NIE ZNASZ JEJ",
+      "url": "https://open.spotify.com/track/6h3tQYd7SQ5R24y4BSNld8"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1191,26 +1211,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/51ipp3GlTVp79WutZBZeGa"
-      },
-      "artists": [
-        {
-          "name": "Kajetan Wolas",
-          "url": "https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj"
-        },
-        {
-          "name": "Magiera",
-          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
-        }
-      ],
-      "duration_ms": 178961,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/48f5bIDTWkFITgsBthfgrc"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "czuje sie jak w orange county",
         "url": "https://open.spotify.com/album/6RbfzOC39Tv7VwAozhJYb0"
       },
@@ -1227,18 +1227,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Tylko na moment",
-        "url": "https://open.spotify.com/album/74Uk3H4hRvzyyo6aTEK6mv"
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/51ipp3GlTVp79WutZBZeGa"
       },
       "artists": [
         {
-          "name": "Iga Jaworska",
-          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
+          "name": "Kajetan Wolas",
+          "url": "https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj"
+        },
+        {
+          "name": "Magiera",
+          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
         }
       ],
-      "duration_ms": 118899,
-      "name": "Tylko na moment",
-      "url": "https://open.spotify.com/track/1EjWpkR2JATl6hgQyOPwsO"
+      "duration_ms": 178961,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/48f5bIDTWkFITgsBthfgrc"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1263,6 +1267,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "Tylko na moment",
+        "url": "https://open.spotify.com/album/74Uk3H4hRvzyyo6aTEK6mv"
+      },
+      "artists": [
+        {
+          "name": "Iga Jaworska",
+          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
+        }
+      ],
+      "duration_ms": 118899,
+      "name": "Tylko na moment",
+      "url": "https://open.spotify.com/track/1EjWpkR2JATl6hgQyOPwsO"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "Grzesiu",
         "url": "https://open.spotify.com/album/4FZltuAdipxeoWAR0kYwWD"
       },
@@ -1275,6 +1295,22 @@
       "duration_ms": 153230,
       "name": "Grzesiu",
       "url": "https://open.spotify.com/track/6BDV4Or3MFnqKNN9EH8p91"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Ambiwalencje",
+        "url": "https://open.spotify.com/album/1sFwhCJPNkPu572N4u6ANw"
+      },
+      "artists": [
+        {
+          "name": "Filip Grodowski",
+          "url": "https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f"
+        }
+      ],
+      "duration_ms": 171873,
+      "name": "Ambiwalencje",
+      "url": "https://open.spotify.com/track/6jiBhMEv34yXWzqG1tEbCL"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1307,22 +1343,6 @@
       "duration_ms": 163750,
       "name": "W moim \u015bnie",
       "url": "https://open.spotify.com/track/4KbU2jeBjeQOsG8T0apLgK"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Ambiwalencje",
-        "url": "https://open.spotify.com/album/1sFwhCJPNkPu572N4u6ANw"
-      },
-      "artists": [
-        {
-          "name": "Filip Grodowski",
-          "url": "https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f"
-        }
-      ],
-      "duration_ms": 171873,
-      "name": "Ambiwalencje",
-      "url": "https://open.spotify.com/track/6jiBhMEv34yXWzqG1tEbCL"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1411,22 +1431,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Nowa Era",
-        "url": "https://open.spotify.com/album/1l4RC3SFVx7g4JCe91lLpg"
-      },
-      "artists": [
-        {
-          "name": "SaMa",
-          "url": "https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Nowa Era",
-      "url": "https://open.spotify.com/track/4FdrZ3wiKbpIRoEKfRSDAB"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "blokowiska",
         "url": "https://open.spotify.com/album/2nOIjjbgDjziQ5fzYsxAEy"
       },
@@ -1443,18 +1447,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "SELFISH",
-        "url": "https://open.spotify.com/album/5UoQemJq64zyyU2DAvOvu2"
+        "name": "Szach i mat",
+        "url": "https://open.spotify.com/album/2W1QxAsVDF9EHlJfNsYPRh"
       },
       "artists": [
         {
-          "name": "ZUZA",
-          "url": "https://open.spotify.com/artist/7LUZ4hKUPN0UitE6WqWyKQ"
+          "name": "Natalia Zast\u0119pa",
+          "url": "https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno"
         }
       ],
-      "duration_ms": 151341,
-      "name": "SELFISH",
-      "url": "https://open.spotify.com/track/7kPuCRW93380qAKwAD4NFQ"
+      "duration_ms": 160561,
+      "name": "Szach i mat",
+      "url": "https://open.spotify.com/track/5QJD59lfNELT6Lgv9S4KvV"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1479,6 +1483,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "SELFISH",
+        "url": "https://open.spotify.com/album/5UoQemJq64zyyU2DAvOvu2"
+      },
+      "artists": [
+        {
+          "name": "ZUZA",
+          "url": "https://open.spotify.com/artist/7LUZ4hKUPN0UitE6WqWyKQ"
+        }
+      ],
+      "duration_ms": 151341,
+      "name": "SELFISH",
+      "url": "https://open.spotify.com/track/7kPuCRW93380qAKwAD4NFQ"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "Dancechlor",
         "url": "https://open.spotify.com/album/3PISRyQEHa8sJBTy7BnGzA"
       },
@@ -1491,6 +1511,22 @@
       "duration_ms": 161842,
       "name": "Dancechlor",
       "url": "https://open.spotify.com/track/3Gi9KxBBxjpYnXgxULVqBN"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Nowa Era",
+        "url": "https://open.spotify.com/album/1l4RC3SFVx7g4JCe91lLpg"
+      },
+      "artists": [
+        {
+          "name": "SaMa",
+          "url": "https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Nowa Era",
+      "url": "https://open.spotify.com/track/4FdrZ3wiKbpIRoEKfRSDAB"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1627,26 +1663,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "zero dwa",
-        "url": "https://open.spotify.com/album/11VxtaKa4FqvRxw42414cv"
-      },
-      "artists": [
-        {
-          "name": "pik pik",
-          "url": "https://open.spotify.com/artist/2tg8M5no3GJwNf0XBq4tcY"
-        },
-        {
-          "name": "Marianna Matyja",
-          "url": "https://open.spotify.com/artist/69C3K642BGqBEFR5au5t48"
-        }
-      ],
-      "duration_ms": 248828,
-      "name": "zero dwa",
-      "url": "https://open.spotify.com/track/5jKEhld4eJ5emfvC5fpeyA"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "P\u0119tle",
         "url": "https://open.spotify.com/album/0VM7z6lryDDKmfqONMDpwa"
       },
@@ -1679,38 +1695,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Jak si\u0119 trzymasz?",
-        "url": "https://open.spotify.com/album/72ki9XRChViCzvMWsn2ZBN"
-      },
-      "artists": [
-        {
-          "name": "Promie\u0144",
-          "url": "https://open.spotify.com/artist/7eijvMViYR2Qh5a3APXCwl"
-        }
-      ],
-      "duration_ms": 153642,
-      "name": "Jak si\u0119 trzymasz?",
-      "url": "https://open.spotify.com/track/3UVT5F9UB61H6Q0p1fksI3"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Szach i mat",
-        "url": "https://open.spotify.com/album/2W1QxAsVDF9EHlJfNsYPRh"
-      },
-      "artists": [
-        {
-          "name": "Natalia Zast\u0119pa",
-          "url": "https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno"
-        }
-      ],
-      "duration_ms": 160561,
-      "name": "Szach i mat",
-      "url": "https://open.spotify.com/track/5QJD59lfNELT6Lgv9S4KvV"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Skarbie",
         "url": "https://open.spotify.com/album/2tqSlGb9uKMxcIApvo25j0"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 177235,
       "name": "Skarbie",
       "url": "https://open.spotify.com/track/3a6rdrLGpbcQAUVu78hca6"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Jak si\u0119 trzymasz?",
+        "url": "https://open.spotify.com/album/72ki9XRChViCzvMWsn2ZBN"
+      },
+      "artists": [
+        {
+          "name": "Promie\u0144",
+          "url": "https://open.spotify.com/artist/7eijvMViYR2Qh5a3APXCwl"
+        }
+      ],
+      "duration_ms": 153642,
+      "name": "Jak si\u0119 trzymasz?",
+      "url": "https://open.spotify.com/track/3UVT5F9UB61H6Q0p1fksI3"
     },
     {
       "added_at": "2024-07-18 22:00:00",

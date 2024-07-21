@@ -1,12 +1,12 @@
 {
-  "description": "This Is Skillet. Kaikki olennaiset kappaleet yhdess\u00e4 soittolistassa.",
-  "num_followers": 280378,
+  "description": "This is Skillet. The essential tracks, all in one playlist.",
+  "num_followers": 280448,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZphbAAAAAABQ6DC6OGdFvpRQR8HM6ifF",
+  "snapshot_id": "ZpmsgAAAAACp5k24qsBwuDXTp1qhsNXY",
   "tracks": [
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Collide",
-        "url": "https://open.spotify.com/album/77JbhmUqfoId7D2AHKU4zW"
+        "name": "Victorious: The Aftermath (Deluxe)",
+        "url": "https://open.spotify.com/album/3YhTX4XmDv0BHQ8gReEStW"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 194773,
-      "name": "Open Wounds",
-      "url": "https://open.spotify.com/track/2UfKuGYONPAuopJtpGfZyA"
+      "duration_ms": 231105,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/0xdHxI8iKatXB8PYWKRi74"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victorious: The Aftermath (Deluxe)",
-        "url": "https://open.spotify.com/album/3YhTX4XmDv0BHQ8gReEStW"
+        "name": "Collide",
+        "url": "https://open.spotify.com/album/77JbhmUqfoId7D2AHKU4zW"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 231105,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/0xdHxI8iKatXB8PYWKRi74"
+      "duration_ms": 194773,
+      "name": "Open Wounds",
+      "url": "https://open.spotify.com/track/2UfKuGYONPAuopJtpGfZyA"
     },
     {
       "added_at": null,

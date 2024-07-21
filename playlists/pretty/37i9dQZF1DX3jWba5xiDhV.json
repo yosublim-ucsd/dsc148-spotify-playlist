@@ -1,6 +1,6 @@
 {
   "description": "Pino D'Angi\u00f2, italo disco king, you will always be missed \ud83d\udc94 1952-2024",
-  "num_followers": 241860,
+  "num_followers": 242633,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-07-16 11:53:19",
       "album": {
-        "name": "For You (LP)",
-        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
+        "name": "The Voice of Q",
+        "url": "https://open.spotify.com/album/6tKNLeKZ8UJyO7A5QG2wjF"
       },
       "artists": [
         {
-          "name": "Ago",
-          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/1na8Q5qKP8amvDCoLkvhLD"
         }
       ],
-      "duration_ms": 353000,
-      "name": "For You - Original Album",
-      "url": "https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C"
+      "duration_ms": 316118,
+      "name": "The Voice of Q - 12\" Mix",
+      "url": "https://open.spotify.com/track/4DoxBUKSlnZwe30Y23mGbH"
     },
     {
       "added_at": "2024-07-16 11:53:19",
@@ -855,18 +855,18 @@
     {
       "added_at": "2024-07-16 11:53:19",
       "album": {
-        "name": "The Voice of Q",
-        "url": "https://open.spotify.com/album/6tKNLeKZ8UJyO7A5QG2wjF"
+        "name": "For You (LP)",
+        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
       },
       "artists": [
         {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/1na8Q5qKP8amvDCoLkvhLD"
+          "name": "Ago",
+          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
         }
       ],
-      "duration_ms": 316118,
-      "name": "The Voice of Q - 12\" Mix",
-      "url": "https://open.spotify.com/track/4DoxBUKSlnZwe30Y23mGbH"
+      "duration_ms": 353000,
+      "name": "For You - Original Album",
+      "url": "https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C"
     },
     {
       "added_at": "2024-07-16 11:53:19",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2024-07-16 11:53:19",
       "album": {
-        "name": "BUBBLEGUM (J\u00fcrgen Paape \"Frutti Di Mare\" Remix)",
-        "url": "https://open.spotify.com/album/3eQABYZMjZ0ZPFlPdxcO5C"
-      },
-      "artists": [
-        {
-          "name": "ISABELLA",
-          "url": "https://open.spotify.com/artist/2mm9hPa6bzyiKaCeKBb55l"
-        },
-        {
-          "name": "J\u00fcrgen Paape",
-          "url": "https://open.spotify.com/artist/51qSeH9HimuYMMQ7qbWGrk"
-        }
-      ],
-      "duration_ms": 315916,
-      "name": "BUBBLEGUM - J\u00fcrgen Paape \"Frutti Di Mare\" Remix",
-      "url": "https://open.spotify.com/track/4A1PYa1gZxIeRdF2iOHEYO"
-    },
-    {
-      "added_at": "2024-07-16 11:53:19",
-      "album": {
         "name": "Baciami",
         "url": "https://open.spotify.com/album/1Yfw5ZfDELSGZHbTvjWofP"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 176063,
       "name": "Baciami",
       "url": "https://open.spotify.com/track/0trp5xcRDZwQiL7zatx8gs"
+    },
+    {
+      "added_at": "2024-07-16 11:53:19",
+      "album": {
+        "name": "BUBBLEGUM (J\u00fcrgen Paape \"Frutti Di Mare\" Remix)",
+        "url": "https://open.spotify.com/album/3eQABYZMjZ0ZPFlPdxcO5C"
+      },
+      "artists": [
+        {
+          "name": "ISABELLA",
+          "url": "https://open.spotify.com/artist/2mm9hPa6bzyiKaCeKBb55l"
+        },
+        {
+          "name": "J\u00fcrgen Paape",
+          "url": "https://open.spotify.com/artist/51qSeH9HimuYMMQ7qbWGrk"
+        }
+      ],
+      "duration_ms": 315916,
+      "name": "BUBBLEGUM - J\u00fcrgen Paape \"Frutti Di Mare\" Remix",
+      "url": "https://open.spotify.com/track/4A1PYa1gZxIeRdF2iOHEYO"
     },
     {
       "added_at": "2024-07-16 11:53:19",

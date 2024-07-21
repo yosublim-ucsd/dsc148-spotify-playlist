@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO?si=lEo05sboQw6l8l5RA6rlXQ">DJ Lag</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,972 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,976 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 10 | [SLB](https://open.spotify.com/track/5aKVi02d8B8hoFuiqroPXT) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [SLB](https://open.spotify.com/album/4gYrCsnSRFp0plFHs7U6ve) | 4:05 |
 | 11 | [My Love \(Vigro Deep Remix\)](https://open.spotify.com/track/537meWHdSQxsDQBWMlR7R3) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Vigro Deep](https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love \(Vigro Deep Remix\)](https://open.spotify.com/album/3ve1PQx8cTGMViHUzzHvk8) | 6:15 |
 | 12 | [Panakisi](https://open.spotify.com/track/5lf53Q8wU7xWV9z4LElKUC) | [Cubique Dj](https://open.spotify.com/artist/4UAhuYCnnH3OQYcc54muJM), [PeeKay Mzee](https://open.spotify.com/artist/3kjGJR4uVdVSidEHzw1Ebu), [West Rhythm](https://open.spotify.com/artist/77SQEnPVwrZ1FBag5ZzhEr) | [Panakisi](https://open.spotify.com/album/1QuoWiyyySITxI0wvknG2s) | 6:03 |
-| 13 | [I Adore You](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
+| 13 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
 | 14 | [Isibani](https://open.spotify.com/track/0UwjnvadO37prE3pH1xvRs) | [Dazzie Funk](https://open.spotify.com/artist/2lJ6KTYOfueHtp5i0nmql2), [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p), [Yamke](https://open.spotify.com/artist/0JDkIwQ94aMviEFSvUgPJF) | [Isibani](https://open.spotify.com/album/7wKi4a3VyrShQQgk5nuRL4) | 6:55 |
 | 15 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 |
 | 16 | [Go Deeper](https://open.spotify.com/track/5DuYUQO1VPDM5vfcb6esuP) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [Go Deeper](https://open.spotify.com/album/5srysQygAgaCcq4rHZcXDi) | 3:09 |

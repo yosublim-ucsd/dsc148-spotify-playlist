@@ -5193,6 +5193,54 @@
     },
     {
       "album": {
+        "name": "in my dreams",
+        "url": "https://open.spotify.com/album/4aJRiQUFVaPiiBgVlul1SF"
+      },
+      "artists": [
+        {
+          "name": "Kareful",
+          "url": "https://open.spotify.com/artist/7y4breKexfBWgdyMgHMEHK"
+        },
+        {
+          "name": "pale fortress",
+          "url": "https://open.spotify.com/artist/1j34wbS4gwSUjpvrik7epS"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132765,
+      "name": "in my dreams",
+      "url": "https://open.spotify.com/track/6XtTHfuTaOgCvZUmnNkczE"
+    },
+    {
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/0rZu66Rudp3s6b1yHEyd6J"
+      },
+      "artists": [
+        {
+          "name": "Park Hanoi",
+          "url": "https://open.spotify.com/artist/0qT14ZE5gz94vOn3oxoEiB"
+        },
+        {
+          "name": "Boyc0tt",
+          "url": "https://open.spotify.com/artist/57SVOkx2FC6MWkm4B8wWp8"
+        },
+        {
+          "name": "sleepylittlestar",
+          "url": "https://open.spotify.com/artist/5BnyjyTssit4bUVImQKwCg"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/2fzSwDlKUIw6QNNgRsnI2a"
+    },
+    {
+      "album": {
         "name": "Face Value (Deluxe Editon)",
         "url": "https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln"
       },
@@ -8575,6 +8623,24 @@
     },
     {
       "album": {
+        "name": "Reduxx",
+        "url": "https://open.spotify.com/album/4p6EumRvC7Wc81GferfTTt"
+      },
+      "artists": [
+        {
+          "name": "Park Hanoi",
+          "url": "https://open.spotify.com/artist/0qT14ZE5gz94vOn3oxoEiB"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Reduxx - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/2jLrGrihtKOJSTlhTuBRtH"
+    },
+    {
+      "album": {
         "name": "Regicide",
         "url": "https://open.spotify.com/album/0Op2o7M3BEXbfWkOEUZRCc"
       },
@@ -9280,7 +9346,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 338469,
       "name": "Sexorcism",
       "url": "https://open.spotify.com/track/73gGibu8hbmLuU2U2onPov"
@@ -10600,7 +10666,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 261600,
       "name": "the change",
       "url": "https://open.spotify.com/track/2ygQnlQBkDhwSMdHUzhb1y"

@@ -11877,6 +11877,36 @@
     },
     {
       "album": {
+        "name": "MERO CREDIT",
+        "url": "https://open.spotify.com/album/0ToH1czj1bGlNTGka6cdzm"
+      },
+      "artists": [
+        {
+          "name": "Goldreick",
+          "url": "https://open.spotify.com/artist/0UJ6nopuHJk9q7addrnFhD"
+        },
+        {
+          "name": "Tanca",
+          "url": "https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP"
+        },
+        {
+          "name": "Alice",
+          "url": "https://open.spotify.com/artist/2secXZJFel5sboofeiGQyk"
+        },
+        {
+          "name": "maggio",
+          "url": "https://open.spotify.com/artist/7bykcg3a4exhrIgiffIR2Q"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213230,
+      "name": "LEGAMI",
+      "url": "https://open.spotify.com/track/1C9OAXQN4zKkPbTRO17Hma"
+    },
+    {
+      "album": {
         "name": "Letto",
         "url": "https://open.spotify.com/album/7d0hmcEyqTIhYLZkCEAys9"
       },
@@ -13198,10 +13228,28 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 177950,
       "name": "manifesto",
       "url": "https://open.spotify.com/track/6uG81Z7Q7aYAKBXViEAIGz"
+    },
+    {
+      "album": {
+        "name": "Maracaibo",
+        "url": "https://open.spotify.com/album/3eodZtQpGzsUQmpPrUDgFm"
+      },
+      "artists": [
+        {
+          "name": "Lucy",
+          "url": "https://open.spotify.com/artist/4UH11YIdiHkl8rCyRdSR0P"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192857,
+      "name": "Maracaibo",
+      "url": "https://open.spotify.com/track/0rL2TR2zVp958CFmIdDIqz"
     },
     {
       "album": {
@@ -13782,6 +13830,24 @@
       "duration_ms": 149371,
       "name": "Mi Scivoli Addosso",
       "url": "https://open.spotify.com/track/5rAXBt0QeQpB90hvkOv6OI"
+    },
+    {
+      "album": {
+        "name": "Mia / Niente da perdere",
+        "url": "https://open.spotify.com/album/3UTZzJOWjOMPf74nPEsArv"
+      },
+      "artists": [
+        {
+          "name": "Soave",
+          "url": "https://open.spotify.com/artist/4lfpDO5m3RdKU2859LXmsN"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135460,
+      "name": "Mia / Niente da perdere",
+      "url": "https://open.spotify.com/track/1MyPoVnakQSGWtfl1lqFSp"
     },
     {
       "album": {
@@ -17890,7 +17956,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 203789,
       "name": "PIANOPIANOFORTE",
       "url": "https://open.spotify.com/track/1IPYLIUcqI1jxQCasFK8Iy"
@@ -25150,7 +25216,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 155446,
       "name": "Voglio di pi\u00f9",
       "url": "https://open.spotify.com/track/4MmOYatHoZD8hzDbRnKPB7"

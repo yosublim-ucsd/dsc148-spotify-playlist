@@ -328,7 +328,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 354357,
       "name": "Ange",
       "url": "https://open.spotify.com/track/4TvmFIi8lcfZBnuU9omTYN"
@@ -3977,6 +3977,24 @@
     },
     {
       "album": {
+        "name": "VEGGIE GAMES",
+        "url": "https://open.spotify.com/album/6Zft5nkHMRA6f4Xfk9XSHt"
+      },
+      "artists": [
+        {
+          "name": "INFEKT",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160312,
+      "name": "GOOP",
+      "url": "https://open.spotify.com/track/0tT6vs8ErNQ0yvgAXBdg3C"
+    },
+    {
+      "album": {
         "name": "gopher it",
         "url": "https://open.spotify.com/album/5kKegDHRlOi8UJjoSehl51"
       },
@@ -5846,6 +5864,28 @@
       "duration_ms": 238109,
       "name": "Loan Shark",
       "url": "https://open.spotify.com/track/2zyugikoilcZwUYx6wWm7O"
+    },
+    {
+      "album": {
+        "name": "Locked In",
+        "url": "https://open.spotify.com/album/2Zye1xchnUBzuDjtDAcMjE"
+      },
+      "artists": [
+        {
+          "name": "Maddy O'Neal",
+          "url": "https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF"
+        },
+        {
+          "name": "ProbCause",
+          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Locked In",
+      "url": "https://open.spotify.com/track/2Sk9IWoxmGwvI6eeXEUCNz"
     },
     {
       "album": {
@@ -7776,7 +7816,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 226285,
       "name": "Psychotherapy",
       "url": "https://open.spotify.com/track/32RVEL94lelYvfcLOKl1Gh"
@@ -11101,6 +11141,28 @@
     },
     {
       "album": {
+        "name": "Tree People",
+        "url": "https://open.spotify.com/album/2MdKRtDyLmEb0gLGJgZL9C"
+      },
+      "artists": [
+        {
+          "name": "AHEE",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        },
+        {
+          "name": "Equanimous",
+          "url": "https://open.spotify.com/artist/33W9Pu3NHtSlqbaOI6pqXn"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "Tree People",
+      "url": "https://open.spotify.com/track/3F7ijcGgk9cR1KPAXyR4C2"
+    },
+    {
+      "album": {
         "name": "Trenches",
         "url": "https://open.spotify.com/album/0BIuPX2XzG3P7Bir90cpP4"
       },
@@ -11534,7 +11596,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 222664,
       "name": "Warrior Mentality",
       "url": "https://open.spotify.com/track/5u0QpOpQl3hyakqr3rb3SE"

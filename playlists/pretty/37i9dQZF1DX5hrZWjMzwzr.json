@@ -1,6 +1,6 @@
 {
   "description": "Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'. Pos\u0142uchaj zwyci\u0119zc\u00f3w oraz wszystkich nominowanych na jednej playli\u015bcie. ",
-  "num_followers": 10345,
+  "num_followers": 10344,
   "original_name": "Popkillery 2024: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "1-800-O\u015aWIECENIE",
-        "url": "https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU"
-      },
-      "artists": [
-        {
-          "name": "Taco Hemingway",
-          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
-        }
-      ],
-      "duration_ms": 208939,
-      "name": "Makarena Freestyle",
-      "url": "https://open.spotify.com/track/6Vzl09EVLdB1MTZdDwm2Zd"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "Cherry Lady",
         "url": "https://open.spotify.com/album/73AskkkPaeQsljbltdSTur"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 184500,
       "name": "Cherry Lady",
       "url": "https://open.spotify.com/track/4ZmWYEsdiGRPN9oMJgi96r"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "1-800-O\u015aWIECENIE",
+        "url": "https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU"
+      },
+      "artists": [
+        {
+          "name": "Taco Hemingway",
+          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
+        }
+      ],
+      "duration_ms": 208939,
+      "name": "Makarena Freestyle",
+      "url": "https://open.spotify.com/track/6Vzl09EVLdB1MTZdDwm2Zd"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -283,30 +283,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Mam Ci\u0119",
-        "url": "https://open.spotify.com/album/0wMWyIDW56FjxvAmFrBI0V"
-      },
-      "artists": [
-        {
-          "name": "Paluch",
-          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
-        },
-        {
-          "name": "Miroff",
-          "url": "https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD"
-        },
-        {
-          "name": "Poly",
-          "url": "https://open.spotify.com/artist/0UyJNcG74XhDLo1cPXXFeO"
-        }
-      ],
-      "duration_ms": 141500,
-      "name": "Mam Ci\u0119",
-      "url": "https://open.spotify.com/track/3moDqdYK90QDw3Lk9q5yDE"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "WWA NA KXKSIE",
         "url": "https://open.spotify.com/album/6R3IJyx9vPOZFk4ARB7N2H"
       },
@@ -331,6 +307,30 @@
       "duration_ms": 205925,
       "name": "WWA NA KXKSIE",
       "url": "https://open.spotify.com/track/0oyR4Ql18Y1GNwS3arouvb"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "Mam Ci\u0119",
+        "url": "https://open.spotify.com/album/0wMWyIDW56FjxvAmFrBI0V"
+      },
+      "artists": [
+        {
+          "name": "Paluch",
+          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
+        },
+        {
+          "name": "Miroff",
+          "url": "https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD"
+        },
+        {
+          "name": "Poly",
+          "url": "https://open.spotify.com/artist/0UyJNcG74XhDLo1cPXXFeO"
+        }
+      ],
+      "duration_ms": 141500,
+      "name": "Mam Ci\u0119",
+      "url": "https://open.spotify.com/track/3moDqdYK90QDw3Lk9q5yDE"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -947,34 +947,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "R\u00d3\u017bA WIATR\u00d3W",
-        "url": "https://open.spotify.com/album/708SuoMyf1hZYpjl78BKuJ"
-      },
-      "artists": [
-        {
-          "name": "Jano Polska Wersja",
-          "url": "https://open.spotify.com/artist/0BBB9DjvskQV0oReJMxTP1"
-        },
-        {
-          "name": "Hinol Polska Wersja",
-          "url": "https://open.spotify.com/artist/7jrtLe4eVfWhYWZn5vsopg"
-        },
-        {
-          "name": "Gibbs",
-          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
-        },
-        {
-          "name": "PSR",
-          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
-        }
-      ],
-      "duration_ms": 173271,
-      "name": "ZENIT",
-      "url": "https://open.spotify.com/track/7lTvt1RIudZHsISZqAQGmq"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "Czarny \u015al\u0105sk",
         "url": "https://open.spotify.com/album/5v2v9p4n6Z1MuGS11wTwfy"
       },
@@ -1007,6 +979,34 @@
       "duration_ms": 278636,
       "name": "Czarny \u015al\u0105sk",
       "url": "https://open.spotify.com/track/0YYvmuW2qBIetZ907QPw35"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "R\u00d3\u017bA WIATR\u00d3W",
+        "url": "https://open.spotify.com/album/708SuoMyf1hZYpjl78BKuJ"
+      },
+      "artists": [
+        {
+          "name": "Jano Polska Wersja",
+          "url": "https://open.spotify.com/artist/0BBB9DjvskQV0oReJMxTP1"
+        },
+        {
+          "name": "Hinol Polska Wersja",
+          "url": "https://open.spotify.com/artist/7jrtLe4eVfWhYWZn5vsopg"
+        },
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "PSR",
+          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
+        }
+      ],
+      "duration_ms": 173271,
+      "name": "ZENIT",
+      "url": "https://open.spotify.com/track/7lTvt1RIudZHsISZqAQGmq"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Freestyle",
-        "url": "https://open.spotify.com/album/6pgZMKPMrzdMQdkdYbEfnV"
-      },
-      "artists": [
-        {
-          "name": "Oliwka Brazil",
-          "url": "https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs"
-        },
-        {
-          "name": "WIKTOR",
-          "url": "https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN"
-        }
-      ],
-      "duration_ms": 126514,
-      "name": "Freestyle",
-      "url": "https://open.spotify.com/track/21edHwVjnKC1X2QLjpp5Oi"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "Kr\u00f3l jest nagi",
         "url": "https://open.spotify.com/album/6b9NF0T18WzviHeExbcGeT"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 184733,
       "name": "Kr\u00f3l jest nagi",
       "url": "https://open.spotify.com/track/0G7iH8Fs6PHELkLK0lQUlp"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "Freestyle",
+        "url": "https://open.spotify.com/album/6pgZMKPMrzdMQdkdYbEfnV"
+      },
+      "artists": [
+        {
+          "name": "Oliwka Brazil",
+          "url": "https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs"
+        },
+        {
+          "name": "WIKTOR",
+          "url": "https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN"
+        }
+      ],
+      "duration_ms": 126514,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/21edHwVjnKC1X2QLjpp5Oi"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1275,6 +1275,30 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "Nie ma sprawy",
+        "url": "https://open.spotify.com/album/3fsTzJ4ZEujyQuBd649DE0"
+      },
+      "artists": [
+        {
+          "name": "Diho",
+          "url": "https://open.spotify.com/artist/6PcYcDQ7UCL4U5PopumiWY"
+        },
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Kaz Ba\u0142agane",
+          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
+        }
+      ],
+      "duration_ms": 132750,
+      "name": "Nie ma sprawy",
+      "url": "https://open.spotify.com/track/7dNLbmYbfHAQxIIcnD6Fri"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "Mamy ci\u0119\u017cko",
         "url": "https://open.spotify.com/album/0wYBM3GIqYhMZNUFXsLS5F"
       },
@@ -1303,46 +1327,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Nie ma sprawy",
-        "url": "https://open.spotify.com/album/3fsTzJ4ZEujyQuBd649DE0"
-      },
-      "artists": [
-        {
-          "name": "Diho",
-          "url": "https://open.spotify.com/artist/6PcYcDQ7UCL4U5PopumiWY"
-        },
-        {
-          "name": "Malik Montana",
-          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
-        },
-        {
-          "name": "Kaz Ba\u0142agane",
-          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
-        }
-      ],
-      "duration_ms": 132750,
-      "name": "Nie ma sprawy",
-      "url": "https://open.spotify.com/track/7dNLbmYbfHAQxIIcnD6Fri"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "HHULTRAS",
-        "url": "https://open.spotify.com/album/1hrT9b9eOofnc73kblwE6b"
-      },
-      "artists": [
-        {
-          "name": "W\u0142odi",
-          "url": "https://open.spotify.com/artist/2FBmYj55zZwng9GlsCCn9j"
-        }
-      ],
-      "duration_ms": 167034,
-      "name": "HHULTRAS",
-      "url": "https://open.spotify.com/track/71Y1TmjUbMGbBlHkBV54pz"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "KOMBINATORYKA",
         "url": "https://open.spotify.com/album/6pEdsCNTjZ0UODB0KdAnHL"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 216000,
       "name": "Przekaz",
       "url": "https://open.spotify.com/track/42QXTFTKlka5XAFZVHpc3d"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "HHULTRAS",
+        "url": "https://open.spotify.com/album/1hrT9b9eOofnc73kblwE6b"
+      },
+      "artists": [
+        {
+          "name": "W\u0142odi",
+          "url": "https://open.spotify.com/artist/2FBmYj55zZwng9GlsCCn9j"
+        }
+      ],
+      "duration_ms": 167034,
+      "name": "HHULTRAS",
+      "url": "https://open.spotify.com/track/71Y1TmjUbMGbBlHkBV54pz"
     },
     {
       "added_at": "2024-02-27 08:21:33",

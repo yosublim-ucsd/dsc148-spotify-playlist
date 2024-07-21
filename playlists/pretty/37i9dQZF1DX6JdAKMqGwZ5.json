@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Ganges.",
-  "num_followers": 194033,
+  "num_followers": 194092,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -31,6 +31,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "Mis T\u00edas",
+        "url": "https://open.spotify.com/album/1yaPRCa4pcJpYHQzDTFtaD"
+      },
+      "artists": [
+        {
+          "name": "Juanjo Bona",
+          "url": "https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Mis T\u00edas",
+      "url": "https://open.spotify.com/track/0j9azcT9Rj85v2PKLulWfs"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "mangata",
         "url": "https://open.spotify.com/album/1DS6sekds9PYqX9M80abUq"
       },
@@ -43,6 +59,22 @@
       "duration_ms": 183360,
       "name": "mangata",
       "url": "https://open.spotify.com/track/6M3BYtzp1WLov2NDM5nsaI"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "PR\u00cdNCIPE",
+        "url": "https://open.spotify.com/album/1L6SLEogRrudf8IN1H3muW"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 171459,
+      "name": "PR\u00cdNCIPE",
+      "url": "https://open.spotify.com/track/48puBWvqOsEwv1kcmMR8Ah"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -67,38 +99,6 @@
       "duration_ms": 171690,
       "name": "Del mismo modo",
       "url": "https://open.spotify.com/track/0ckZnUqPmNWdPZM66FkKhR"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "PR\u00cdNCIPE",
-        "url": "https://open.spotify.com/album/1L6SLEogRrudf8IN1H3muW"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 171459,
-      "name": "PR\u00cdNCIPE",
-      "url": "https://open.spotify.com/track/48puBWvqOsEwv1kcmMR8Ah"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Mis T\u00edas",
-        "url": "https://open.spotify.com/album/1yaPRCa4pcJpYHQzDTFtaD"
-      },
-      "artists": [
-        {
-          "name": "Juanjo Bona",
-          "url": "https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Mis T\u00edas",
-      "url": "https://open.spotify.com/track/0j9azcT9Rj85v2PKLulWfs"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Lo Que Hay Dentro de M\u00ed",
-        "url": "https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX"
-      },
-      "artists": [
-        {
-          "name": "Malm\u00f6 040",
-          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
-        }
-      ],
-      "duration_ms": 190875,
-      "name": "Lo Que Hay Dentro de M\u00ed",
-      "url": "https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "to lo ke",
         "url": "https://open.spotify.com/album/5lMTXM5AoxKNTAS084MQb0"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 166943,
       "name": "to lo ke",
       "url": "https://open.spotify.com/track/6aIXhiqT4Oec2VY1tPky8G"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Lo Que Hay Dentro de M\u00ed",
+        "url": "https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX"
+      },
+      "artists": [
+        {
+          "name": "Malm\u00f6 040",
+          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
+        }
+      ],
+      "duration_ms": 190875,
+      "name": "Lo Que Hay Dentro de M\u00ed",
+      "url": "https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -303,18 +303,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Pipi",
-        "url": "https://open.spotify.com/album/26g7iXjXkVu9aC0wu3yP0y"
+        "name": "blush",
+        "url": "https://open.spotify.com/album/6XFmWkqa5i9L4iKQSFZOHK"
       },
       "artists": [
         {
-          "name": "Pimp Flaco",
-          "url": "https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC"
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
         }
       ],
-      "duration_ms": 102480,
-      "name": "Pipi",
-      "url": "https://open.spotify.com/track/5R5OfqtFcZhCBlJr0WjITd"
+      "duration_ms": 106222,
+      "name": "bruce willisss",
+      "url": "https://open.spotify.com/track/3ktkqlpsYxos7nF2CqGPh6"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -371,18 +371,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "blush",
-        "url": "https://open.spotify.com/album/6XFmWkqa5i9L4iKQSFZOHK"
+        "name": "Pipi",
+        "url": "https://open.spotify.com/album/26g7iXjXkVu9aC0wu3yP0y"
       },
       "artists": [
         {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+          "name": "Pimp Flaco",
+          "url": "https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC"
         }
       ],
-      "duration_ms": 106222,
-      "name": "bruce willisss",
-      "url": "https://open.spotify.com/track/3ktkqlpsYxos7nF2CqGPh6"
+      "duration_ms": 102480,
+      "name": "Pipi",
+      "url": "https://open.spotify.com/track/5R5OfqtFcZhCBlJr0WjITd"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Nost\u00e0lgia Airlines",
-        "url": "https://open.spotify.com/album/5csb7A1tX7g8GCvar9WuLV"
-      },
-      "artists": [
-        {
-          "name": "Maria Jaume",
-          "url": "https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO"
-        }
-      ],
-      "duration_ms": 176176,
-      "name": "Pura geografia",
-      "url": "https://open.spotify.com/track/7hO8gFY9xTofMHbZIoSRGv"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Joga Bonito",
         "url": "https://open.spotify.com/album/1eTSgzybuVPF0NlBz6OTLf"
       },
@@ -563,18 +547,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
-        "url": "https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj"
+        "name": "Nost\u00e0lgia Airlines",
+        "url": "https://open.spotify.com/album/5csb7A1tX7g8GCvar9WuLV"
       },
       "artists": [
         {
-          "name": "Karavana",
-          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
+          "name": "Maria Jaume",
+          "url": "https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO"
         }
       ],
-      "duration_ms": 193423,
-      "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
-      "url": "https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb"
+      "duration_ms": 176176,
+      "name": "Pura geografia",
+      "url": "https://open.spotify.com/track/7hO8gFY9xTofMHbZIoSRGv"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -595,18 +579,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Madriz Madriz",
-        "url": "https://open.spotify.com/album/6Aa0m8lK0IwjuKYn7hQXvX"
+        "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
+        "url": "https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj"
       },
       "artists": [
         {
-          "name": "Delaporte",
-          "url": "https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ"
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
         }
       ],
-      "duration_ms": 197014,
-      "name": "Madriz Madriz",
-      "url": "https://open.spotify.com/track/2XUhcZOcLPAWwAnUclFpeu"
+      "duration_ms": 193423,
+      "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
+      "url": "https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -623,6 +607,22 @@
       "duration_ms": 164534,
       "name": "PASARELA",
       "url": "https://open.spotify.com/track/6wXP0oiJk3gZXGfFNrKQaz"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Madriz Madriz",
+        "url": "https://open.spotify.com/album/6Aa0m8lK0IwjuKYn7hQXvX"
+      },
+      "artists": [
+        {
+          "name": "Delaporte",
+          "url": "https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ"
+        }
+      ],
+      "duration_ms": 197014,
+      "name": "Madriz Madriz",
+      "url": "https://open.spotify.com/track/2XUhcZOcLPAWwAnUclFpeu"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Loros",
-        "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
-      },
-      "artists": [
-        {
-          "name": "Camellos",
-          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
-        }
-      ],
-      "duration_ms": 146853,
-      "name": "Loros",
-      "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "estonovabien",
         "url": "https://open.spotify.com/album/3v1KsYYv3bgQJujQqPuDuW"
       },
@@ -855,6 +839,38 @@
       "duration_ms": 161354,
       "name": "estonovabien",
       "url": "https://open.spotify.com/track/0BIS2dEAuLOxAyfC1lvzsD"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "d\u00b4ESCARNIO",
+        "url": "https://open.spotify.com/album/2JNJtZgFI9JuxOy7qpeFeQ"
+      },
+      "artists": [
+        {
+          "name": "Fillas de Cassandra",
+          "url": "https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5"
+        }
+      ],
+      "duration_ms": 159148,
+      "name": "d\u00b4ESCARNIO",
+      "url": "https://open.spotify.com/track/3KJ52eq5xaJVKDHDz4JQPt"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Loros",
+        "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
+      },
+      "artists": [
+        {
+          "name": "Camellos",
+          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
+        }
+      ],
+      "duration_ms": 146853,
+      "name": "Loros",
+      "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -891,22 +907,6 @@
       "duration_ms": 149352,
       "name": "Con otra cabeza",
       "url": "https://open.spotify.com/track/5KdVewdmh5VWkCSxXBcl8o"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "d\u00b4ESCARNIO",
-        "url": "https://open.spotify.com/album/2JNJtZgFI9JuxOy7qpeFeQ"
-      },
-      "artists": [
-        {
-          "name": "Fillas de Cassandra",
-          "url": "https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5"
-        }
-      ],
-      "duration_ms": 159148,
-      "name": "d\u00b4ESCARNIO",
-      "url": "https://open.spotify.com/track/3KJ52eq5xaJVKDHDz4JQPt"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "El farsante",
+        "url": "https://open.spotify.com/album/1RUSabd7pUar8XyoLwqHa7"
+      },
+      "artists": [
+        {
+          "name": "lusill\u00f3n",
+          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
+        }
+      ],
+      "duration_ms": 182768,
+      "name": "El farsante",
+      "url": "https://open.spotify.com/track/2CNMMWso8912ZK45QcyYIP"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "Frente al Latido",
         "url": "https://open.spotify.com/album/3EH5Vvu3RU8yGf0uVBt9Vn"
       },
@@ -1103,38 +1119,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "MATAR\u00cdA A TODOS LOS HOMBRES",
-        "url": "https://open.spotify.com/album/1rFSCBdcIs2ji4hNoqyMGX"
-      },
-      "artists": [
-        {
-          "name": "Morreo",
-          "url": "https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d"
-        }
-      ],
-      "duration_ms": 114799,
-      "name": "MATAR\u00cdA A TODOS LOS HOMBRES",
-      "url": "https://open.spotify.com/track/7Dc5ArYUZKm5DFN2SNWK3N"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "El farsante",
-        "url": "https://open.spotify.com/album/1RUSabd7pUar8XyoLwqHa7"
-      },
-      "artists": [
-        {
-          "name": "lusill\u00f3n",
-          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
-        }
-      ],
-      "duration_ms": 182768,
-      "name": "El farsante",
-      "url": "https://open.spotify.com/track/2CNMMWso8912ZK45QcyYIP"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "The Last of Us",
         "url": "https://open.spotify.com/album/3m706HSNKqmnycUdWYt7Zw"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 270137,
       "name": "The Last of Us",
       "url": "https://open.spotify.com/track/2WxZ92Q1q5NPbdJbJx7k8q"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "MATAR\u00cdA A TODOS LOS HOMBRES",
+        "url": "https://open.spotify.com/album/1rFSCBdcIs2ji4hNoqyMGX"
+      },
+      "artists": [
+        {
+          "name": "Morreo",
+          "url": "https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d"
+        }
+      ],
+      "duration_ms": 114799,
+      "name": "MATAR\u00cdA A TODOS LOS HOMBRES",
+      "url": "https://open.spotify.com/track/7Dc5ArYUZKm5DFN2SNWK3N"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Un Mill\u00f3n de A\u00f1os",
-        "url": "https://open.spotify.com/album/1cpc3zlcpeHCWS9ib1E4dG"
-      },
-      "artists": [
-        {
-          "name": "Valira",
-          "url": "https://open.spotify.com/artist/7xzBMbJO4ooYoW2mJxX09u"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Un Mill\u00f3n de A\u00f1os",
-      "url": "https://open.spotify.com/track/1FwNzcMOscVkseCTpW6aey"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "HELLO PITI",
         "url": "https://open.spotify.com/album/57qRNanR544Lq3kOxDDl3p"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 143029,
       "name": "HELLO PITI",
       "url": "https://open.spotify.com/track/02qzGFQ2zbuMPPyDXXs6CB"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Un Mill\u00f3n de A\u00f1os",
+        "url": "https://open.spotify.com/album/1cpc3zlcpeHCWS9ib1E4dG"
+      },
+      "artists": [
+        {
+          "name": "Valira",
+          "url": "https://open.spotify.com/artist/7xzBMbJO4ooYoW2mJxX09u"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Un Mill\u00f3n de A\u00f1os",
+      "url": "https://open.spotify.com/track/1FwNzcMOscVkseCTpW6aey"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "24 7",
-        "url": "https://open.spotify.com/album/5NbqLYm2jinvXThQz4QQm8"
-      },
-      "artists": [
-        {
-          "name": "GOMZ",
-          "url": "https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA"
-        }
-      ],
-      "duration_ms": 172061,
-      "name": "24 7",
-      "url": "https://open.spotify.com/track/42edNeWrOtXk4G63dSfw4E"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Todas las Drogas del Mundo",
         "url": "https://open.spotify.com/album/1dmxJQ49QgpSth3mEUvsOM"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 218409,
       "name": "Todas las Drogas del Mundo",
       "url": "https://open.spotify.com/track/3cvoxKYRlvu1fBnXrIdZ6U"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "24 7",
+        "url": "https://open.spotify.com/album/5NbqLYm2jinvXThQz4QQm8"
+      },
+      "artists": [
+        {
+          "name": "GOMZ",
+          "url": "https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA"
+        }
+      ],
+      "duration_ms": 172061,
+      "name": "24 7",
+      "url": "https://open.spotify.com/track/42edNeWrOtXk4G63dSfw4E"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "Me la pegu\u00e9",
+        "url": "https://open.spotify.com/album/51wfIhnYN76YmKEOyge1fv"
+      },
+      "artists": [
+        {
+          "name": "Delaporte",
+          "url": "https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ"
+        }
+      ],
+      "duration_ms": 184551,
+      "name": "Me la pegu\u00e9",
+      "url": "https://open.spotify.com/track/5If3lF4jq4JiNAhgcdGo56"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "invisible",
         "url": "https://open.spotify.com/album/5SBLJieZS1BQbNOqTXnQ01"
       },
@@ -1455,18 +1471,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Me la pegu\u00e9",
-        "url": "https://open.spotify.com/album/51wfIhnYN76YmKEOyge1fv"
+        "name": "KORAJE",
+        "url": "https://open.spotify.com/album/57rBM3xWlhAHtGffXq8OZE"
       },
       "artists": [
         {
-          "name": "Delaporte",
-          "url": "https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ"
+          "name": "Malva Vela",
+          "url": "https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz"
         }
       ],
-      "duration_ms": 184551,
-      "name": "Me la pegu\u00e9",
-      "url": "https://open.spotify.com/track/5If3lF4jq4JiNAhgcdGo56"
+      "duration_ms": 226549,
+      "name": "KORAJE",
+      "url": "https://open.spotify.com/track/4m6if2f135zgTxCGhR1jAj"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1487,18 +1503,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "KORAJE",
-        "url": "https://open.spotify.com/album/57rBM3xWlhAHtGffXq8OZE"
+        "name": "un beso y una flor",
+        "url": "https://open.spotify.com/album/2f5b0JZTneMgOWC78ACg0p"
       },
       "artists": [
         {
-          "name": "Malva Vela",
-          "url": "https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz"
+          "name": "Eva B",
+          "url": "https://open.spotify.com/artist/7C6WKCefGMAg2hbx7BNCIq"
         }
       ],
-      "duration_ms": 226549,
-      "name": "KORAJE",
-      "url": "https://open.spotify.com/track/4m6if2f135zgTxCGhR1jAj"
+      "duration_ms": 186976,
+      "name": "un beso y una flor",
+      "url": "https://open.spotify.com/track/2ZjanRmhMk2cBK6Hl4nAYL"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1539,38 +1555,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "un beso y una flor",
-        "url": "https://open.spotify.com/album/2f5b0JZTneMgOWC78ACg0p"
-      },
-      "artists": [
-        {
-          "name": "Eva B",
-          "url": "https://open.spotify.com/artist/7C6WKCefGMAg2hbx7BNCIq"
-        }
-      ],
-      "duration_ms": 186976,
-      "name": "un beso y una flor",
-      "url": "https://open.spotify.com/track/2ZjanRmhMk2cBK6Hl4nAYL"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "HACER TEATRO",
-        "url": "https://open.spotify.com/album/4QrD2b9rwY3O8acSduHOan"
-      },
-      "artists": [
-        {
-          "name": "Sila Lua",
-          "url": "https://open.spotify.com/artist/1s0SFRaivMSqrjS3C3R7xR"
-        }
-      ],
-      "duration_ms": 159152,
-      "name": "HACER TEATRO",
-      "url": "https://open.spotify.com/track/3so52dZJbgrqhU2rBrNiuM"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "sangre y sal",
         "url": "https://open.spotify.com/album/6okCd7VpD269wjGPHAmk1x"
       },
@@ -1591,6 +1575,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "HACER TEATRO",
+        "url": "https://open.spotify.com/album/4QrD2b9rwY3O8acSduHOan"
+      },
+      "artists": [
+        {
+          "name": "Sila Lua",
+          "url": "https://open.spotify.com/artist/1s0SFRaivMSqrjS3C3R7xR"
+        }
+      ],
+      "duration_ms": 159152,
+      "name": "HACER TEATRO",
+      "url": "https://open.spotify.com/track/3so52dZJbgrqhU2rBrNiuM"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "BLU",
         "url": "https://open.spotify.com/album/0lTNBDVR2b8Ubcm0L44CA5"
       },
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Bomba de humo",
-        "url": "https://open.spotify.com/album/06BlOopUvZxtb5vcRGAejC"
-      },
-      "artists": [
-        {
-          "name": "Bely Basarte",
-          "url": "https://open.spotify.com/artist/6akDfyocmsREgR5eUXZt3I"
-        }
-      ],
-      "duration_ms": 168885,
-      "name": "BDH",
-      "url": "https://open.spotify.com/track/2xjFhcTdQFACj6HPTQrrYU"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Ahora Qu\u00e9",
         "url": "https://open.spotify.com/album/4at4PncnsDMz7UvjGX5sWo"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 187300,
       "name": "Ahora Qu\u00e9",
       "url": "https://open.spotify.com/track/5dZ5xLXPB02NrOku9Vc0XP"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Bomba de humo",
+        "url": "https://open.spotify.com/album/06BlOopUvZxtb5vcRGAejC"
+      },
+      "artists": [
+        {
+          "name": "Bely Basarte",
+          "url": "https://open.spotify.com/artist/6akDfyocmsREgR5eUXZt3I"
+        }
+      ],
+      "duration_ms": 168885,
+      "name": "BDH",
+      "url": "https://open.spotify.com/track/2xjFhcTdQFACj6HPTQrrYU"
     },
     {
       "added_at": "2024-07-18 22:00:00",

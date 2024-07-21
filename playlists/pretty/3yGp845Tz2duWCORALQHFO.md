@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,744 likes - 52 songs - 2 hr 51 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,745 likes - 52 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 38 | [Sever](https://open.spotify.com/track/3sXl6kTbIhhPZ3mrho4woG) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [some ep](https://open.spotify.com/album/5OPRF4o1pypBIdGbKtAbCN) | 7:07 |
 | 39 | [BADDADAN BAD](https://open.spotify.com/track/4y5D7aMisZv6K9muZbx58S) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd) | [BADDADAN BAD](https://open.spotify.com/album/37D8jgoCVb15DKk4OC2HmM) | 3:02 |
 | 40 | [Prayer in C \- Paul Kalkbrenner Remix](https://open.spotify.com/track/7xavr5xmO2aoHfKDWNHtiK) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Prayer in C \(Paul Kalkbrenner Remix\)](https://open.spotify.com/album/73WlvhF3NhxO97U3MeVNet) | 3:39 |
-| 41 | [I Adore You](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
+| 41 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
 | 42 | [Feel The Drop](https://open.spotify.com/track/0DWg3dAm0tdNSgtt5k2RiK) | [Rene Ablaze](https://open.spotify.com/artist/6rXpyi122Zalz9VORZB1xd), [JAN DE VICE](https://open.spotify.com/artist/52KXkPOeQnh8Ck5QqQkCIH) | [Feel The Drop](https://open.spotify.com/album/17JSsLSsZM2EMz88ZyzyrI) | 3:06 |
 | 43 | [Rust \- Luke Terry Remix](https://open.spotify.com/track/1frX8Il9gExdwvZTuzXSTR) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90), [Super\-Frog Saves Tokyo](https://open.spotify.com/artist/53eRwFJ92aFBw8xEdPfgOl), [Luke Terry](https://open.spotify.com/artist/6dQoo0WllYeISVY97X06qX) | [Rust \(Luke Terry Remix\)](https://open.spotify.com/album/7kh6MKXvLeLmhUAPtAypVJ) | 4:09 |
 | 44 | [Between Us](https://open.spotify.com/track/5mXAZYgqMhqzgNBsDmbpQl) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [MRYN](https://open.spotify.com/artist/6nvB3AlAAvRl4OGvPOPsMR) | [Between Us](https://open.spotify.com/album/6jmOQJSmFU11Hfy5TQyUOS) | 4:37 |

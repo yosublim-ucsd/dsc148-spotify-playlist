@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Childish Gambino
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,040,837 likes - 200 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,040,915 likes - 200 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,7 +135,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 125 | [Risky](https://open.spotify.com/track/3AQyDEYGTFG6TJiZPBhq3G) | [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [Risky](https://open.spotify.com/album/0AIIBXCTsv1tWuFv4hO64y) | 3:05 |
 | 126 | [Uber Driver](https://open.spotify.com/track/70BGqPX1A20XVIWMDumGfv) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Uber Driver](https://open.spotify.com/album/5EAZx5ZDmYLnvyE1ziQ3bg) | 4:00 |
 | 127 | [Company](https://open.spotify.com/track/4fvb32GNmFqx2qdWwhDRj8) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Company](https://open.spotify.com/album/3ANp1ViW4Rs5xwrAiTKqbc) | 3:29 |
-| 128 | [Orange Lampshade](https://open.spotify.com/track/0Rp8nweSZPLKnBagHAwZNJ) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Orange Lampshade](https://open.spotify.com/album/50M5XsdhezSmmSJDKb5L4A) | 3:06 |
+| 128 | [ORANGE LAMPSHADE](https://open.spotify.com/track/0Rp8nweSZPLKnBagHAwZNJ) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [ORANGE LAMPSHADE](https://open.spotify.com/album/50M5XsdhezSmmSJDKb5L4A) | 3:06 |
 | 129 | [PYP](https://open.spotify.com/track/2OGKCzG66mRzVLjyvnqHAh) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [PYP](https://open.spotify.com/album/6znz7y2vU3zObZ5iZSZ0Vy) | 3:14 |
 | 130 | [WAT U WANT \(feat\. Jacquees\)](https://open.spotify.com/track/5fbNN0Tn9pPd8IdSSX334P) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Vibe Responsibly, Vol\. 1](https://open.spotify.com/album/5DpoVZ2KXkg4Xh39B0wQuF) | 2:50 |
 | 131 | [Voodoo](https://open.spotify.com/track/4Mm9v6Wk5aPK0g1H6WwxMW) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Voodoo](https://open.spotify.com/album/5tipdRRnZ8AsJVmenoJziS) | 2:28 |

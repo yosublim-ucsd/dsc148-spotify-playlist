@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,181 songs - 6 day 15 hr 41 min
+4,182 songs - 6 day 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2562,7 +2562,7 @@
 | [Oasis](https://open.spotify.com/track/20MymF25fDU1jGD1kxDpca) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Oasis](https://open.spotify.com/album/5FCQHUtlLtj4fq8CCkW0HT) | 2:47 | 2021-12-03 | 2022-06-24 |
 | [Oasis](https://open.spotify.com/track/5KvQYvD1axCFjgjYgLxpJn) | [Jazzquarterz](https://open.spotify.com/artist/3z0rwYZuq2g5fblmdIMzkf) | [Oasis / Distant Shores](https://open.spotify.com/album/49TseYQCFnYHV4w1xXRSlJ) | 3:06 | 2019-05-26\* | 2019-08-30 |
 | [Oasis](https://open.spotify.com/track/0R1CjGONKrRmkCm9KTjDJY) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Oasis](https://open.spotify.com/album/06TPgMRmQvdxwMFUYbeY4l) | 2:02 | 2020-03-27 | 2020-05-30 |
-| [Ocean Cove](https://open.spotify.com/track/3vgNDsgsE9pyk9pGY2W5zv) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [Ocean Cove](https://open.spotify.com/album/2i4JryyVYAglE28hIPWOH9) | 1:58 | 2023-10-12 |  |
+| [Ocean Cove](https://open.spotify.com/track/3vgNDsgsE9pyk9pGY2W5zv) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [Ocean Cove](https://open.spotify.com/album/2i4JryyVYAglE28hIPWOH9) | 1:58 | 2023-10-12 | 2024-07-21 |
 | [Ocean Drive](https://open.spotify.com/track/3lpJnTcQ88VKeFskvuGYcN) | [C Y G N](https://open.spotify.com/artist/6OgHTWl7y9oeccoxeXXDPn) | [Discover](https://open.spotify.com/album/7dYAZ8GwqolvrrGPceaxHW) | 3:09 | 2019-10-11 | 2020-03-07 |
 | [Ocean Girl](https://open.spotify.com/track/3Hj0UxhscN8ZtCDUsaApGC) | [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv), [Lawrence Walther](https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME) | [Ocean Girl](https://open.spotify.com/album/6Iuxn9dM8YK5ko6dBBnymC) | 2:50 | 2021-07-09 | 2021-09-24 |
 | [Ocean:Atlantic](https://open.spotify.com/track/1neGlhXwDU60QlAdAXi5I1) | [Heather Grey](https://open.spotify.com/artist/0NHdHKgWjJriXzzufBwSqE), [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB) | [Ocean:Atlantic](https://open.spotify.com/album/3Khz25aHM2n7c4WB2Posjx) | 2:45 | 2019-11-20 | 2020-03-31 |
@@ -2652,6 +2652,7 @@
 | [Osloer Straße \- Instrumental](https://open.spotify.com/track/3ESyOoe4nT5sEBGiKHOROZ) | [Galv](https://open.spotify.com/artist/7mbdcJkkgnyrlLvFBg32U6), [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW) | [Shigeo \- Instrumentals](https://open.spotify.com/album/7sNPCxItzNTviUXCiGQymE) | 1:56 | 2019-08-10 | 2019-11-15 |
 | [othello](https://open.spotify.com/track/5cB5hyrP15gtkFp0JVeiNd) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP), [Nalim](https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F) | [othello](https://open.spotify.com/album/6cV8TkMfuzCKFOOYkjIvhi) | 3:01 | 2020-04-24 | 2020-07-01 |
 | [Otters](https://open.spotify.com/track/3wXlfGmKCqG30LxBj0zERw) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Otters](https://open.spotify.com/album/72CicGuIXlZpVJUIkcTNPE) | 1:53 | 2023-09-14 | 2024-07-19 |
+| [Oubaitori](https://open.spotify.com/track/3asgEGGEtFvd26PjI5Gcid) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [marsquake](https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i) | [Oubaitori](https://open.spotify.com/album/104jNYlkCdhntS39zfhVvZ) | 2:26 | 2024-07-04 |  |
 | [Our Little Dilemma](https://open.spotify.com/track/56hqH6z2CU6G8NbVvVXAb2) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84) | [Our Little Dilemma](https://open.spotify.com/album/1oG7Rrh028vORF4dYs0GRI) | 3:22 | 2021-03-14 | 2021-05-21 |
 | [Out for a Stroll](https://open.spotify.com/track/36Foss260ItalU4rLJhYks) | [Tabi](https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK) | [Journey](https://open.spotify.com/album/0Y89JuEUKr68HwH9XDEmFA) | 3:42 | 2022-11-17 | 2022-12-24 |
 | [Out for a Stroll](https://open.spotify.com/track/52uThjP5ZMRijeBTKUMUkS) | [Tabi](https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK) | [Out for a Stroll](https://open.spotify.com/album/0LGnwyI6nxYH6ZHbyYtoDZ) | 3:42 | 2021-07-16 | 2022-11-20 |

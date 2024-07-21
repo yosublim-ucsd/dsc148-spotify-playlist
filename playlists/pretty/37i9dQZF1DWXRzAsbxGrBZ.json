@@ -1,6 +1,6 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 60400,
+  "num_followers": 60531,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
+        "name": "Jewels",
+        "url": "https://open.spotify.com/album/7w0aGvreLMz7dGW1G78Ym5"
+      },
+      "artists": [
+        {
+          "name": "Dwson",
+          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
+        }
+      ],
+      "duration_ms": 440330,
+      "name": "Jewels",
+      "url": "https://open.spotify.com/track/2u36IdOtMZsEY1yCjKvz0B"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
         "name": "Happy Ending",
         "url": "https://open.spotify.com/album/5sLHd3Dha1l5Fjj8TTFNlC"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 435672,
       "name": "Happy Ending - Main Mix",
       "url": "https://open.spotify.com/track/7z1Aaj0TgXx7YpQOhfiDTS"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "Jewels",
-        "url": "https://open.spotify.com/album/7w0aGvreLMz7dGW1G78Ym5"
-      },
-      "artists": [
-        {
-          "name": "Dwson",
-          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
-        }
-      ],
-      "duration_ms": 440330,
-      "name": "Jewels",
-      "url": "https://open.spotify.com/track/2u36IdOtMZsEY1yCjKvz0B"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "4 The Wolves",
-        "url": "https://open.spotify.com/album/2L7bxv0WicWk3VD9UxzggR"
-      },
-      "artists": [
-        {
-          "name": "!Sooks",
-          "url": "https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI"
-        }
-      ],
-      "duration_ms": 521682,
-      "name": "Eyesolation",
-      "url": "https://open.spotify.com/track/0JF4uuEeEaAQYTVZ9jv2Zg"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "AWA",
         "url": "https://open.spotify.com/album/28e7SX68Y9jGYw8Pbj0AIe"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 239995,
       "name": "AWA - Ralf GUM Vocal Mix Edit",
       "url": "https://open.spotify.com/track/7shDYbTq0YcuDWgzJdziyY"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "4 The Wolves",
+        "url": "https://open.spotify.com/album/2L7bxv0WicWk3VD9UxzggR"
+      },
+      "artists": [
+        {
+          "name": "!Sooks",
+          "url": "https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI"
+        }
+      ],
+      "duration_ms": 521682,
+      "name": "Eyesolation",
+      "url": "https://open.spotify.com/track/0JF4uuEeEaAQYTVZ9jv2Zg"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -423,6 +423,26 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
+        "name": "Unprepared",
+        "url": "https://open.spotify.com/album/7uEWijv34tZQflxMh21Yg3"
+      },
+      "artists": [
+        {
+          "name": "Zinyo",
+          "url": "https://open.spotify.com/artist/2vk3zvWovQVzknMW3HREjV"
+        },
+        {
+          "name": "DJ Clock",
+          "url": "https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg"
+        }
+      ],
+      "duration_ms": 405447,
+      "name": "Unprepared",
+      "url": "https://open.spotify.com/track/6ONHhlt6ru9nmImeDs0w8e"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
         "name": "Breathe (Remixes)",
         "url": "https://open.spotify.com/album/3W9mtsPqpTzW5mciGGlSkb"
       },
@@ -443,26 +463,6 @@
       "duration_ms": 402056,
       "name": "Breathe - Ed-ward Remix",
       "url": "https://open.spotify.com/track/6nkQmI4HgnFuutM9fUkdAE"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "Unprepared",
-        "url": "https://open.spotify.com/album/7uEWijv34tZQflxMh21Yg3"
-      },
-      "artists": [
-        {
-          "name": "Zinyo",
-          "url": "https://open.spotify.com/artist/2vk3zvWovQVzknMW3HREjV"
-        },
-        {
-          "name": "DJ Clock",
-          "url": "https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg"
-        }
-      ],
-      "duration_ms": 405447,
-      "name": "Unprepared",
-      "url": "https://open.spotify.com/track/6ONHhlt6ru9nmImeDs0w8e"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -607,30 +607,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Some Lovin'",
-        "url": "https://open.spotify.com/album/7sy4IIIAlvxUqCNSOczerx"
-      },
-      "artists": [
-        {
-          "name": "UPZ",
-          "url": "https://open.spotify.com/artist/06FvvzAQBhG5bfiMHwmvyE"
-        },
-        {
-          "name": "Salvador",
-          "url": "https://open.spotify.com/artist/2FUmeo84bwi3tKKlkLf9C0"
-        },
-        {
-          "name": "Kali Mija",
-          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
-        }
-      ],
-      "duration_ms": 236659,
-      "name": "Some Lovin'",
-      "url": "https://open.spotify.com/track/101I43Y2D9AHKOtgJlB4tO"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Usangikhumbula (Fka Mash Glitch Dub)",
         "url": "https://open.spotify.com/album/2euiDFx9jHb8wmUfD63sIT"
       },
@@ -651,6 +627,30 @@
       "duration_ms": 359750,
       "name": "Usangikhumbula - Fka Mash Glitch Dub",
       "url": "https://open.spotify.com/track/7Ef7oadhBDjyTj2OdxLXcz"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Some Lovin'",
+        "url": "https://open.spotify.com/album/7sy4IIIAlvxUqCNSOczerx"
+      },
+      "artists": [
+        {
+          "name": "UPZ",
+          "url": "https://open.spotify.com/artist/06FvvzAQBhG5bfiMHwmvyE"
+        },
+        {
+          "name": "Salvador",
+          "url": "https://open.spotify.com/artist/2FUmeo84bwi3tKKlkLf9C0"
+        },
+        {
+          "name": "Kali Mija",
+          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
+        }
+      ],
+      "duration_ms": 236659,
+      "name": "Some Lovin'",
+      "url": "https://open.spotify.com/track/101I43Y2D9AHKOtgJlB4tO"
     },
     {
       "added_at": "2024-07-18 23:00:00",

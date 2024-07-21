@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 
 > Si tocan a una respondemos todas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,395 likes - 65 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,390 likes - 65 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 58 | [Noche](https://open.spotify.com/track/60y8hKEZjCMchod0EcEnN7) | [Valentina Peralta](https://open.spotify.com/artist/2zsV26r2jyjg8toXnBiEId), [Fabián Hidalgo](https://open.spotify.com/artist/2ZylpF6ChLnfAkQHINmf8r) | [Noche](https://open.spotify.com/album/1rbgnjnxu4tHWNdf2OuArH) | 4:31 |
 | 59 | [Se Busca](https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [SE BUSCA](https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD) | 2:34 |
 | 60 | [Por Cada Unx](https://open.spotify.com/track/56we8zTvtmSuoqd8ktNzlh) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Mala Reputación: Latfem Presenta una Memoria Feminista en Canción](https://open.spotify.com/album/5JZhhS3MgW4b4XY0aLvH6L) | 4:49 |
-| 61 | [La Loba \- Trooko Remix](https://open.spotify.com/track/5eFI4a7q8Ln0HDZ0lbIPhr) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr), [Trooko](https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi) | [La Loba \(Remixes\)](https://open.spotify.com/album/6DV5ObthuIgftL8GaJqwKx) | 4:16 |
-| 62 | [Aquí Seguimos 2020](https://open.spotify.com/track/3IdyNey4zJRrCLrRDmhZBc) | [Tania Barbará](https://open.spotify.com/artist/18zlMHVUNwCW1CmnG4pgFP), [Carmen Ruiz](https://open.spotify.com/artist/6lT6X7ff95ucDbUfPkyZWB), [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD), [Ale Moreno](https://open.spotify.com/artist/33PzdbMNyVpDyta6Fyx1x3), [Florencia Quinteros](https://open.spotify.com/artist/7E2jCj5j3DvSf77UQ3M9TO) | [Aquí Seguimos 2020](https://open.spotify.com/album/62d6vTic3lLfCvt4HVEDYF) | 4:30 |
+| 61 | [Aquí Seguimos 2020](https://open.spotify.com/track/3IdyNey4zJRrCLrRDmhZBc) | [Tania Barbará](https://open.spotify.com/artist/18zlMHVUNwCW1CmnG4pgFP), [Carmen Ruiz](https://open.spotify.com/artist/6lT6X7ff95ucDbUfPkyZWB), [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD), [Ale Moreno](https://open.spotify.com/artist/33PzdbMNyVpDyta6Fyx1x3), [Florencia Quinteros](https://open.spotify.com/artist/7E2jCj5j3DvSf77UQ3M9TO) | [Aquí Seguimos 2020](https://open.spotify.com/album/62d6vTic3lLfCvt4HVEDYF) | 4:30 |
+| 62 | [La Loba \- Trooko Remix](https://open.spotify.com/track/5eFI4a7q8Ln0HDZ0lbIPhr) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr), [Trooko](https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi) | [La Loba \(Remixes\)](https://open.spotify.com/album/6DV5ObthuIgftL8GaJqwKx) | 4:16 |
 | 63 | [Alborotá](https://open.spotify.com/track/4U8TmShsXRikqHGAcHsyhX) | [Alea](https://open.spotify.com/artist/7Ix9zNDM7zF30F2QBQKfNS), [Luisa Bastidas](https://open.spotify.com/artist/63bqOy8a5FlnNVQ3N6TkJv) | [Alborotá](https://open.spotify.com/album/5x4tWBJAy5ciC0GWwksaU9) | 4:16 |
 | 64 | [Brujas](https://open.spotify.com/track/5KgWXLYmWDXFmRiWAkYECD) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR) | [Brujas](https://open.spotify.com/album/6SK2Fcj0EZ2iqIlGRd5FxF) | 2:54 |
 | 65 | [Lisístrata](https://open.spotify.com/track/6BxjJVZL5GMv8OnyUP587z) | [Gata Cattana](https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo) | [Anclas](https://open.spotify.com/album/4eg8ReqTsC0N8BZwdEIHKN) | 3:57 |

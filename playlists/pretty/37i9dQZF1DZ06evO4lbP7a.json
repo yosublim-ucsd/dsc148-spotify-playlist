@@ -1,12 +1,12 @@
 {
-  "description": "This is yama. The essential tracks, all in one playlist.",
-  "num_followers": 47962,
+  "description": "This Is yama. Los temas esenciales, todos en una lista.",
+  "num_followers": 47963,
   "original_name": "This Is yama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZphbAAAAAACf0oFkvC1qhekWPFyIIa4E",
+  "snapshot_id": "ZpmsgAAAAACGKXhfuD67G3C6m8zevhjA",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "the meaning of life",
-        "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "\u9ebb\u75fa",
-      "url": "https://open.spotify.com/track/5v1dhqe9vgvp87eyd27hkb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "awake\uff06build",
         "url": "https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 150506,
       "name": "\u507d\u9854",
       "url": "https://open.spotify.com/track/1CuCtAmIi4Gjk3q9wkWOKw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "the meaning of life",
+        "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "\u9ebb\u75fa",
+      "url": "https://open.spotify.com/track/5v1dhqe9vgvp87eyd27hkb"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "the meaning of life",
-        "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 208093,
-      "name": "\u8840\u6d41",
-      "url": "https://open.spotify.com/track/0bBl2jjpCFCgRd60BowZoV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "awake\uff06build",
         "url": "https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 205973,
       "name": "\u61a7\u308c\u306e\u307e\u307e\u306b",
       "url": "https://open.spotify.com/track/6cRZpoOfi9kBOTFxeN8X3t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "the meaning of life",
+        "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 208093,
+      "name": "\u8840\u6d41",
+      "url": "https://open.spotify.com/track/0bBl2jjpCFCgRd60BowZoV"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u6843\u6e90\u90f7",
-        "url": "https://open.spotify.com/album/6aO1Ot1JoA9TPH73qX7ejE"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "\u6843\u6e90\u90f7",
-      "url": "https://open.spotify.com/track/3XpV0yCZRizTsCMEIkxZVm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the meaning of life",
         "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 258866,
       "name": "Sleepless Night",
       "url": "https://open.spotify.com/track/4QudMialF8Y73NNyCdDD0G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u6843\u6e90\u90f7",
+        "url": "https://open.spotify.com/album/6aO1Ot1JoA9TPH73qX7ejE"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "\u6843\u6e90\u90f7",
+      "url": "https://open.spotify.com/track/3XpV0yCZRizTsCMEIkxZVm"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oz. / \u4e16\u754c\u306f\u7f8e\u3057\u3044\u306f\u305a\u306a\u3093\u3060 / \u30b9\u30e2\u30fc\u30ad\u30fc\u30d2\u30ed\u30a4\u30f3",
-        "url": "https://open.spotify.com/album/4fMCXT5qH5jgPmYTpPVSIf"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "\u4e16\u754c\u306f\u7f8e\u3057\u3044\u306f\u305a\u306a\u3093\u3060",
-      "url": "https://open.spotify.com/track/5eOEqeLIkfbj6lFQ7a4mmZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the meaning of life",
         "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 274800,
       "name": "\u5e0c\u671b\u8ad6",
       "url": "https://open.spotify.com/track/4ivrdKOEXXGiRIApiD7rII"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oz. / \u4e16\u754c\u306f\u7f8e\u3057\u3044\u306f\u305a\u306a\u3093\u3060 / \u30b9\u30e2\u30fc\u30ad\u30fc\u30d2\u30ed\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/4fMCXT5qH5jgPmYTpPVSIf"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "\u4e16\u754c\u306f\u7f8e\u3057\u3044\u306f\u305a\u306a\u3093\u3060",
+      "url": "https://open.spotify.com/track/5eOEqeLIkfbj6lFQ7a4mmZ"
     },
     {
       "added_at": null,

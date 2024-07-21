@@ -1,6 +1,6 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX?si=4xD-kH0vQt2t8vcRGj963A>Theresa Phondo</a>",
-  "num_followers": 72355,
+  "num_followers": 72378,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
@@ -413,24 +413,20 @@
       "url": "https://open.spotify.com/track/6lrhr9KAExOwMopLB7WBgV"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2024-07-05 00:01:00",
       "album": {
-        "name": "My Daddy, My Daddy (Live at AiiiH - As It Is In Heaven)",
-        "url": "https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ"
+        "name": "Aileyipada",
+        "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
       },
       "artists": [
         {
           "name": "Sunmisola Agbebi",
           "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        },
-        {
-          "name": "Lawrence Oyor",
-          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
         }
       ],
-      "duration_ms": 812625,
-      "name": "My Daddy, My Daddy - Live at AiiiH - As It Is In Heaven",
-      "url": "https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4"
+      "duration_ms": 395555,
+      "name": "Aileyipada",
+      "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -529,20 +525,24 @@
       "url": "https://open.spotify.com/track/78D1ZERxVW4XvelhO1jG4K"
     },
     {
-      "added_at": "2024-07-05 00:01:00",
+      "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Aileyipada",
-        "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
+        "name": "My Daddy, My Daddy (Live at AiiiH - As It Is In Heaven)",
+        "url": "https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ"
       },
       "artists": [
         {
           "name": "Sunmisola Agbebi",
           "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        },
+        {
+          "name": "Lawrence Oyor",
+          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
         }
       ],
-      "duration_ms": 395555,
-      "name": "Aileyipada",
-      "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
+      "duration_ms": 812625,
+      "name": "My Daddy, My Daddy - Live at AiiiH - As It Is In Heaven",
+      "url": "https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1181,30 +1181,6 @@
       "url": "https://open.spotify.com/track/4imwSeFR8R3yKpfD2yNI2r"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Daily",
-        "url": "https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ofei",
-          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Becca Folkes",
-          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
-        }
-      ],
-      "duration_ms": 176571,
-      "name": "Daily",
-      "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
-    },
-    {
       "added_at": "2024-03-29 00:01:00",
       "album": {
         "name": "In Jesus Name (God Of Possible)",
@@ -1227,6 +1203,30 @@
       "duration_ms": 184891,
       "name": "In Jesus Name (God Of Possible)",
       "url": "https://open.spotify.com/track/7w7q9tajAO0CiPw1Fx7vOG"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Daily",
+        "url": "https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+        }
+      ],
+      "duration_ms": 176571,
+      "name": "Daily",
+      "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1365,30 +1365,6 @@
       "url": "https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi"
     },
     {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Baba",
-        "url": "https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ofei",
-          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
-        },
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        },
-        {
-          "name": "Annatoria",
-          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Baba",
-      "url": "https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL"
-    },
-    {
       "added_at": "2024-06-14 00:01:00",
       "album": {
         "name": "Rise Up (Lazarus)",
@@ -1411,6 +1387,30 @@
       "duration_ms": 165689,
       "name": "Rise Up (Lazarus)",
       "url": "https://open.spotify.com/track/04LAy5aSyniUfX6sXnjsF5"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Baba",
+        "url": "https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        },
+        {
+          "name": "Annatoria",
+          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1469,86 +1469,6 @@
       "url": "https://open.spotify.com/track/0UidF9z25XgNCEsTwHNi5B"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "OL\u00d9GB\u00c8J\u00c0",
-        "url": "https://open.spotify.com/album/2hpKtfaNQc6Obg1iEgse2G"
-      },
-      "artists": [
-        {
-          "name": "Veekee James",
-          "url": "https://open.spotify.com/artist/3d0vDLmDic461i6fOfImUA"
-        },
-        {
-          "name": "Shallom Matthew",
-          "url": "https://open.spotify.com/artist/5ELs59GeiNNa11OOGO4vVl"
-        },
-        {
-          "name": "OBA",
-          "url": "https://open.spotify.com/artist/6RSMZnjbnEHuVEB2l1vfIj"
-        }
-      ],
-      "duration_ms": 888000,
-      "name": "OL\u00d9GB\u00c8J\u00c0",
-      "url": "https://open.spotify.com/track/5DXFUaVUCxYvpvrzbjfhQP"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Blast (tongues)",
-        "url": "https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 204841,
-      "name": "Blast - tongues",
-      "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj"
-      },
-      "artists": [
-        {
-          "name": "S.O.N Music",
-          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
-        },
-        {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        }
-      ],
-      "duration_ms": 162223,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j"
-    },
-    {
-      "added_at": "2024-06-14 00:01:00",
-      "album": {
-        "name": "Find Me Here (Blessings Find Me) [Afropop Remix]",
-        "url": "https://open.spotify.com/album/6VDOkiaNd2gUGN7IuBjYMz"
-      },
-      "artists": [
-        {
-          "name": "Sherwin Gardner",
-          "url": "https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW"
-        },
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        }
-      ],
-      "duration_ms": 164243,
-      "name": "Find Me Here (Blessings Find Me) - Afropop Remix",
-      "url": "https://open.spotify.com/track/7tXZWxisWNZ0f0oTqjsvpK"
-    },
-    {
       "added_at": "2024-07-12 00:01:00",
       "album": {
         "name": "The Blessing",
@@ -1573,6 +1493,66 @@
       "url": "https://open.spotify.com/track/6F8PbXZTeRxKc3ac032E00"
     },
     {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "Blast (tongues)",
+        "url": "https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 204841,
+      "name": "Blast - tongues",
+      "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "OL\u00d9GB\u00c8J\u00c0",
+        "url": "https://open.spotify.com/album/2hpKtfaNQc6Obg1iEgse2G"
+      },
+      "artists": [
+        {
+          "name": "Veekee James",
+          "url": "https://open.spotify.com/artist/3d0vDLmDic461i6fOfImUA"
+        },
+        {
+          "name": "Shallom Matthew",
+          "url": "https://open.spotify.com/artist/5ELs59GeiNNa11OOGO4vVl"
+        },
+        {
+          "name": "OBA",
+          "url": "https://open.spotify.com/artist/6RSMZnjbnEHuVEB2l1vfIj"
+        }
+      ],
+      "duration_ms": 888000,
+      "name": "OL\u00d9GB\u00c8J\u00c0",
+      "url": "https://open.spotify.com/track/5DXFUaVUCxYvpvrzbjfhQP"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj"
+      },
+      "artists": [
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        }
+      ],
+      "duration_ms": 162223,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Ah Yami",
@@ -1595,6 +1575,26 @@
       "duration_ms": 193890,
       "name": "Tate",
       "url": "https://open.spotify.com/track/4V7gzz7gtgVpaFBr4YK1Gi"
+    },
+    {
+      "added_at": "2024-06-14 00:01:00",
+      "album": {
+        "name": "Find Me Here (Blessings Find Me) [Afropop Remix]",
+        "url": "https://open.spotify.com/album/6VDOkiaNd2gUGN7IuBjYMz"
+      },
+      "artists": [
+        {
+          "name": "Sherwin Gardner",
+          "url": "https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "duration_ms": 164243,
+      "name": "Find Me Here (Blessings Find Me) - Afropop Remix",
+      "url": "https://open.spotify.com/track/7tXZWxisWNZ0f0oTqjsvpK"
     },
     {
       "added_at": "2023-12-15 00:01:00",

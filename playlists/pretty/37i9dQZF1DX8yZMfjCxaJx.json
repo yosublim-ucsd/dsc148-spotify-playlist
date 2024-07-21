@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. La Adictiva y El Fantasma en portada.",
-  "num_followers": 223125,
+  "num_followers": 223185,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,26 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
+        "name": "Los Brothers",
+        "url": "https://open.spotify.com/album/0NKBG5glYWs0ephhtBH2YH"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        },
+        {
+          "name": "Antonin Padilla",
+          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
+        }
+      ],
+      "duration_ms": 213442,
+      "name": "Los Brothers",
+      "url": "https://open.spotify.com/track/1iB1sVaGDfCbhB3syfoZ7J"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
         "name": "THE GB",
         "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
       },
@@ -287,26 +307,6 @@
       "duration_ms": 153557,
       "name": "BELIKON",
       "url": "https://open.spotify.com/track/3cZ7HCLpXjKGy0mLNNPvxr"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "Los Brothers",
-        "url": "https://open.spotify.com/album/0NKBG5glYWs0ephhtBH2YH"
-      },
-      "artists": [
-        {
-          "name": "Beto Vega",
-          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
-        },
-        {
-          "name": "Antonin Padilla",
-          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
-        }
-      ],
-      "duration_ms": 213442,
-      "name": "Los Brothers",
-      "url": "https://open.spotify.com/track/1iB1sVaGDfCbhB3syfoZ7J"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -719,18 +719,22 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "Contrato A La Vida",
-        "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
+        "name": "Desde Topo Hasta La Sierra",
+        "url": "https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F"
       },
       "artists": [
         {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        },
+        {
+          "name": "Los Torrenciales de la Sierra",
+          "url": "https://open.spotify.com/artist/1AR0atiSk7fk8C18cEyYNn"
         }
       ],
-      "duration_ms": 163359,
-      "name": "Fuga Del Jefe",
-      "url": "https://open.spotify.com/track/3V6lLVVvLJKMqtGRsuSX6l"
+      "duration_ms": 218534,
+      "name": "Desde Topo Hasta La Sierra",
+      "url": "https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -759,22 +763,18 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "Desde Topo Hasta La Sierra",
-        "url": "https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F"
+        "name": "Contrato A La Vida",
+        "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
       },
       "artists": [
         {
-          "name": "Novillos de la Sierra",
-          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
-        },
-        {
-          "name": "Los Torrenciales de la Sierra",
-          "url": "https://open.spotify.com/artist/1AR0atiSk7fk8C18cEyYNn"
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
         }
       ],
-      "duration_ms": 218534,
-      "name": "Desde Topo Hasta La Sierra",
-      "url": "https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj"
+      "duration_ms": 163359,
+      "name": "Fuga Del Jefe",
+      "url": "https://open.spotify.com/track/3V6lLVVvLJKMqtGRsuSX6l"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
+        "name": "Los Cheetos",
+        "url": "https://open.spotify.com/album/0VHXUvSjtDKV7b07JMDgCp"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 205525,
+      "name": "Los Cheetos",
+      "url": "https://open.spotify.com/track/4uPbjb2byXsOAh2a1KaaAU"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
         "name": "El Primito (En Vivo)",
         "url": "https://open.spotify.com/album/49i61oL9VS1ISxh4Zsn8NW"
       },
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "Los Cheetos",
-        "url": "https://open.spotify.com/album/0VHXUvSjtDKV7b07JMDgCp"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 205525,
-      "name": "Los Cheetos",
-      "url": "https://open.spotify.com/track/4uPbjb2byXsOAh2a1KaaAU"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
         "name": "El Corrido de Luisito",
         "url": "https://open.spotify.com/album/2C9Gt8uvZeWrzntBtHTO1G"
       },
@@ -1619,6 +1619,98 @@
       "duration_ms": 174720,
       "name": "El Corrido de Luisito",
       "url": "https://open.spotify.com/track/0YGFzNB1HiK0pS6tN3em8K"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "La Plebada de la Sierra",
+        "url": "https://open.spotify.com/album/6EnWegUWbof76Og4e1QFZx"
+      },
+      "artists": [
+        {
+          "name": "Alemi Bustos",
+          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
+        },
+        {
+          "name": "La Cuadrilla Oficial",
+          "url": "https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI"
+        }
+      ],
+      "duration_ms": 189633,
+      "name": "La Plebada de la Sierra",
+      "url": "https://open.spotify.com/track/4VvWMPR4qWC7djRy6gnmH2"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "El Abueloco",
+        "url": "https://open.spotify.com/album/2SUhkYTy3AW6gKLMZ36Hp2"
+      },
+      "artists": [
+        {
+          "name": "Otro Nivel",
+          "url": "https://open.spotify.com/artist/2dCsNoreGt2dkckeSrszzp"
+        },
+        {
+          "name": "Revolver Cannabis",
+          "url": "https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I"
+        }
+      ],
+      "duration_ms": 159343,
+      "name": "El Abueloco",
+      "url": "https://open.spotify.com/track/5UALMeemGdfMO12oO4B0dI"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "El P8",
+        "url": "https://open.spotify.com/album/01hMLYztvfMO4LNmv8AUoV"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        }
+      ],
+      "duration_ms": 216011,
+      "name": "El P8",
+      "url": "https://open.spotify.com/track/3ETjJoHFlZdlNYwYFXXMYg"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "Valente Quintero (En Vivo)",
+        "url": "https://open.spotify.com/album/7hyA4JFSywUYSUQmo6F3c8"
+      },
+      "artists": [
+        {
+          "name": "La Bertiniza De Culiacan",
+          "url": "https://open.spotify.com/artist/7ky1WrqzDILf6obnwFMc8J"
+        },
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        }
+      ],
+      "duration_ms": 338470,
+      "name": "Valente Quintero - En Vivo",
+      "url": "https://open.spotify.com/track/2CSzHGJcQwibhTZpRbJnkQ"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "Leyendas",
+        "url": "https://open.spotify.com/album/2tG8rtWaejsYPkwYjGiCzO"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        }
+      ],
+      "duration_ms": 168806,
+      "name": "La Casa De Balta",
+      "url": "https://open.spotify.com/track/2dIlhCIUP8P9kAjs9qDgvE"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1699,22 +1791,6 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "Leyendas",
-        "url": "https://open.spotify.com/album/2tG8rtWaejsYPkwYjGiCzO"
-      },
-      "artists": [
-        {
-          "name": "La Ventaja",
-          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
-        }
-      ],
-      "duration_ms": 168806,
-      "name": "La Casa De Balta",
-      "url": "https://open.spotify.com/track/2dIlhCIUP8P9kAjs9qDgvE"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
         "name": "Vive Y Dejame Vivir",
         "url": "https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847"
       },
@@ -1727,6 +1803,22 @@
       "duration_ms": 176208,
       "name": "El Vago De Los Nike",
       "url": "https://open.spotify.com/track/3MdhvQ8BprBhd4lYlgtPt2"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "El Jessy",
+        "url": "https://open.spotify.com/album/1frZG7cwuuu7fgRe4EBPls"
+      },
+      "artists": [
+        {
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
+        }
+      ],
+      "duration_ms": 191146,
+      "name": "El Jessy",
+      "url": "https://open.spotify.com/track/1ShS4CeMAsuTKuAbE6dMA2"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1751,82 +1843,6 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "Valente Quintero (En Vivo)",
-        "url": "https://open.spotify.com/album/7hyA4JFSywUYSUQmo6F3c8"
-      },
-      "artists": [
-        {
-          "name": "La Bertiniza De Culiacan",
-          "url": "https://open.spotify.com/artist/7ky1WrqzDILf6obnwFMc8J"
-        },
-        {
-          "name": "Novillos de la Sierra",
-          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
-        }
-      ],
-      "duration_ms": 338470,
-      "name": "Valente Quintero - En Vivo",
-      "url": "https://open.spotify.com/track/2CSzHGJcQwibhTZpRbJnkQ"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "El Jessy",
-        "url": "https://open.spotify.com/album/1frZG7cwuuu7fgRe4EBPls"
-      },
-      "artists": [
-        {
-          "name": "Dinamicos Jrs",
-          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
-        }
-      ],
-      "duration_ms": 191146,
-      "name": "El Jessy",
-      "url": "https://open.spotify.com/track/1ShS4CeMAsuTKuAbE6dMA2"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "El Abueloco",
-        "url": "https://open.spotify.com/album/2SUhkYTy3AW6gKLMZ36Hp2"
-      },
-      "artists": [
-        {
-          "name": "Otro Nivel",
-          "url": "https://open.spotify.com/artist/2dCsNoreGt2dkckeSrszzp"
-        },
-        {
-          "name": "Revolver Cannabis",
-          "url": "https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I"
-        }
-      ],
-      "duration_ms": 159343,
-      "name": "El Abueloco",
-      "url": "https://open.spotify.com/track/5UALMeemGdfMO12oO4B0dI"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "La Plebada de la Sierra",
-        "url": "https://open.spotify.com/album/6EnWegUWbof76Og4e1QFZx"
-      },
-      "artists": [
-        {
-          "name": "Alemi Bustos",
-          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
-        },
-        {
-          "name": "La Cuadrilla Oficial",
-          "url": "https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI"
-        }
-      ],
-      "duration_ms": 189633,
-      "name": "La Plebada de la Sierra",
-      "url": "https://open.spotify.com/track/4VvWMPR4qWC7djRy6gnmH2"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
         "name": "Yo Soy el Bueno",
         "url": "https://open.spotify.com/album/3LHlJuJwxCFYKn70czmxbW"
       },
@@ -1847,22 +1863,6 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "El Muletas",
-        "url": "https://open.spotify.com/album/5YT6xi1UEcpYh07FRQc3Q5"
-      },
-      "artists": [
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
-        }
-      ],
-      "duration_ms": 216575,
-      "name": "El Muletas",
-      "url": "https://open.spotify.com/track/1K1Y3NUDZulng4vgoRR6hE"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
         "name": "Jardines Del Humaya",
         "url": "https://open.spotify.com/album/2dGIIbRg2yOR6rShg9a6v9"
       },
@@ -1879,18 +1879,18 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "El P8",
-        "url": "https://open.spotify.com/album/01hMLYztvfMO4LNmv8AUoV"
+        "name": "El Muletas",
+        "url": "https://open.spotify.com/album/5YT6xi1UEcpYh07FRQc3Q5"
       },
       "artists": [
         {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
         }
       ],
-      "duration_ms": 216011,
-      "name": "El P8",
-      "url": "https://open.spotify.com/track/3ETjJoHFlZdlNYwYFXXMYg"
+      "duration_ms": 216575,
+      "name": "El Muletas",
+      "url": "https://open.spotify.com/track/1K1Y3NUDZulng4vgoRR6hE"
     }
   ],
   "unique_name": "Corridos Chakalosos",

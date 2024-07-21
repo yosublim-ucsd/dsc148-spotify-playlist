@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 
 > 528 hertz solfeggio frequency, tones and music for deep sleep and restful nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,229 likes - 198 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,369 likes - 198 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 | 42 | [Traveler \- 528hz](https://open.spotify.com/track/0I2kOQX4Ze1muap28CqOWA) | [Kenton](https://open.spotify.com/artist/3GFWDsoRkUif3Xnlj9Wxk8) | [Traveler \- 528hz](https://open.spotify.com/album/4Gcs60XMhnd2YrPrnnwETs) | 3:37 |
 | 43 | [528 Hz Ancient Wisdom](https://open.spotify.com/track/58Ap6hWC34NP3BVf3GtzOm) | [Infinite Imagination](https://open.spotify.com/artist/2PQdqbfdZhfs3BAKayChbv) | [528 Hz Ancient Wisdom](https://open.spotify.com/album/7qEknQBiOT4SkKkuiU7AxC) | 2:11 |
 | 44 | [Aura 528 Hz](https://open.spotify.com/track/6uYchDO9dpHTPsHPmtJyRX) | [Rivers Of Time](https://open.spotify.com/artist/01HPpfT387ULSdN6EztPip) | [Aura 528 Hz](https://open.spotify.com/album/0zMiqSy9H8nxAMVlHmPlJl) | 2:55 |
-| 45 | [Another Galaxy \- 528hz](https://open.spotify.com/track/6TlZUXHoOGnxDSaiI1blxH) | [machine ii](https://open.spotify.com/artist/7CHSbRQykU4I2Tv5ebez6r) | [Another Galaxy \- 528hz](https://open.spotify.com/album/6MK9bVWeT5dctFCO0ZORga) | 2:45 |
+| 45 | [Another Galaxy \- 528hz](https://open.spotify.com/track/6TlZUXHoOGnxDSaiI1blxH) | [machine ii](https://open.spotify.com/artist/3sV5j5szPjt1sDVnsoptHK) | [Another Galaxy \- 528hz](https://open.spotify.com/album/6MK9bVWeT5dctFCO0ZORga) | 2:45 |
 | 46 | [528 Hz Singularity Waves](https://open.spotify.com/track/51ixKspMpNLiiJwkwF4zws) | [Binaural Exploration Solfeggio](https://open.spotify.com/artist/69FqgXw1kDOqbP9rx3t7Kg) | [528 Hz Singularity Waves](https://open.spotify.com/album/6cNou2GLigU0xuQGYuRYGW) | 2:36 |
 | 47 | [528 Hz Balance](https://open.spotify.com/track/2XF5TCttQw3BfSKIlvSyKY) | [Seven Minutes From Sleep](https://open.spotify.com/artist/7KZs6AxtvWSNJC1qMPWZU1) | [528 Hz Balance](https://open.spotify.com/album/66S8ZfxSp7dysGXS4K44f1) | 2:44 |
 | 48 | [528 Hz Dream Waves](https://open.spotify.com/track/33EnVud0g9HtnKH9SBc3Q0) | [Elevated Waves](https://open.spotify.com/artist/0CLGXphAxygjR7w7ZsRo25) | [528 Hz Dream Waves](https://open.spotify.com/album/4xBQ0eSeXS1Qn02HqOmA9S) | 2:45 |

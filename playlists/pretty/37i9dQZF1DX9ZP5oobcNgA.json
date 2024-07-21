@@ -1,6 +1,6 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 125442,
+  "num_followers": 125461,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
@@ -483,30 +483,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
-        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "English Baroque Soloists",
-          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
-        },
-        {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        }
-      ],
-      "duration_ms": 131479,
-      "name": "Handel: Concerto grosso in F Major, Op. 3 No. 4, HWV 315: II. Andante",
-      "url": "https://open.spotify.com/track/1SSaWY93eyPcEOtDyMaMab"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Organ Concertos, Op. 4",
         "url": "https://open.spotify.com/album/2pflqKce344roWZ9shdTiC"
       },
@@ -527,6 +503,30 @@
       "duration_ms": 434333,
       "name": "Organ Concertos, Op. 4, Concerto No. 6 in B-Flat Major, HWV 294: I. Andante allegro",
       "url": "https://open.spotify.com/track/2hRO0WN2Goxy4NWaQW58XB"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
+        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        }
+      ],
+      "duration_ms": 131479,
+      "name": "Handel: Concerto grosso in F Major, Op. 3 No. 4, HWV 315: II. Andante",
+      "url": "https://open.spotify.com/track/1SSaWY93eyPcEOtDyMaMab"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -779,34 +779,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Belshazzar",
-        "url": "https://open.spotify.com/album/64jpRJoBITmrqWeqnqNOff"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "William Christie",
-          "url": "https://open.spotify.com/artist/7mkcqdifmNkhfJ7XZ7WFFS"
-        },
-        {
-          "name": "Les Arts Florissants",
-          "url": "https://open.spotify.com/artist/652tly1eoAkKzhJ5z4LsEx"
-        },
-        {
-          "name": "Iestyn Davies",
-          "url": "https://open.spotify.com/artist/0oKLScf6HtYdmZgAEXpSzl"
-        }
-      ],
-      "duration_ms": 293920,
-      "name": "Belshazzar, HWV 61: Arioso: \"O Sacred Oracles of Truth!\" - Aria: \"Amaz'd to Find the Foe So Near\" - Chorus of Persians: \"to Arms, to Arms, No More Delay\"",
-      "url": "https://open.spotify.com/track/1XMx2uskl2JWKXoMkupyRi"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Music for the Royal Fireworks; Water Music Suites",
         "url": "https://open.spotify.com/album/0W4OhMLKiSF0yACzBMjQ2c"
       },
@@ -851,6 +823,34 @@
       "duration_ms": 203066,
       "name": "Laudate Pueri (Psalm 112): Laudate Pueri Dominum",
       "url": "https://open.spotify.com/track/2iypBiPebvQux3ZyZY5Sbe"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Belshazzar",
+        "url": "https://open.spotify.com/album/64jpRJoBITmrqWeqnqNOff"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "William Christie",
+          "url": "https://open.spotify.com/artist/7mkcqdifmNkhfJ7XZ7WFFS"
+        },
+        {
+          "name": "Les Arts Florissants",
+          "url": "https://open.spotify.com/artist/652tly1eoAkKzhJ5z4LsEx"
+        },
+        {
+          "name": "Iestyn Davies",
+          "url": "https://open.spotify.com/artist/0oKLScf6HtYdmZgAEXpSzl"
+        }
+      ],
+      "duration_ms": 293920,
+      "name": "Belshazzar, HWV 61: Arioso: \"O Sacred Oracles of Truth!\" - Aria: \"Amaz'd to Find the Foe So Near\" - Chorus of Persians: \"to Arms, to Arms, No More Delay\"",
+      "url": "https://open.spotify.com/track/1XMx2uskl2JWKXoMkupyRi"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1051,6 +1051,78 @@
       "duration_ms": 274866,
       "name": "Music for the Royal Fireworks, HWV 351: III. La Paix. Largo alla Siciliana",
       "url": "https://open.spotify.com/track/6leCZq7Sh4KbQC4pEwnwmY"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Rinaldo",
+        "url": "https://open.spotify.com/album/73sgulPZjDhSvSogFTiRhP"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Marion Newman",
+          "url": "https://open.spotify.com/artist/75vVcn9hLeYBBg0huooqUT"
+        },
+        {
+          "name": "Melinda Delorme",
+          "url": "https://open.spotify.com/artist/1haKY9W8yelYsNlhY89ufS"
+        },
+        {
+          "name": "Lenard Whiting",
+          "url": "https://open.spotify.com/artist/0cUqY7VI9p5M6gSyeLHiY6"
+        },
+        {
+          "name": "Opera in Concert",
+          "url": "https://open.spotify.com/artist/5vSieuKQcFT2byBKVk7xS6"
+        },
+        {
+          "name": "Aradia Ensemble",
+          "url": "https://open.spotify.com/artist/2KXYFI4KgMpIDpkHisArTk"
+        },
+        {
+          "name": "Kevin Mallon",
+          "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
+        },
+        {
+          "name": "Laura Whalen",
+          "url": "https://open.spotify.com/artist/6CPV8Gp7FgNODTXGiLbIPk"
+        },
+        {
+          "name": "Kimberley Barber",
+          "url": "https://open.spotify.com/artist/6nkeyUzgUIV3Rixm7FFJ1X"
+        },
+        {
+          "name": "Jennifer Ens Modolo",
+          "url": "https://open.spotify.com/artist/5xYPtzEIWBCvHEUbKmuql6"
+        },
+        {
+          "name": "Sean Watson",
+          "url": "https://open.spotify.com/artist/3wTSCuKXDYYjNHnBO8415A"
+        },
+        {
+          "name": "Barbara Hannigan",
+          "url": "https://open.spotify.com/artist/3j1x7avIuQvbywKCRSvdIq"
+        },
+        {
+          "name": "Giles Tomkins",
+          "url": "https://open.spotify.com/artist/6HvEGmJfZwQp5muiZMHO7A"
+        },
+        {
+          "name": "Nicole Bower",
+          "url": "https://open.spotify.com/artist/7okUWPLNp8hYl0qUunJt79"
+        },
+        {
+          "name": "Catherine Affleck",
+          "url": "https://open.spotify.com/artist/7siOn03bL8FpZ1roVqpflv"
+        }
+      ],
+      "duration_ms": 330880,
+      "name": "Rinaldo, HWV 7, Act I: Overture",
+      "url": "https://open.spotify.com/track/72YigZmIxr7hHQgCoDw3ui"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1435,78 +1507,6 @@
       "duration_ms": 180133,
       "name": "Theodora, HWV 68, Act I Scene 5: Air. Angels, ever bright and fair (Theodora)",
       "url": "https://open.spotify.com/track/6fpILeounzhWhvHWgHxsMm"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel: Rinaldo",
-        "url": "https://open.spotify.com/album/73sgulPZjDhSvSogFTiRhP"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Marion Newman",
-          "url": "https://open.spotify.com/artist/75vVcn9hLeYBBg0huooqUT"
-        },
-        {
-          "name": "Melinda Delorme",
-          "url": "https://open.spotify.com/artist/1haKY9W8yelYsNlhY89ufS"
-        },
-        {
-          "name": "Lenard Whiting",
-          "url": "https://open.spotify.com/artist/0cUqY7VI9p5M6gSyeLHiY6"
-        },
-        {
-          "name": "Opera in Concert",
-          "url": "https://open.spotify.com/artist/5vSieuKQcFT2byBKVk7xS6"
-        },
-        {
-          "name": "Aradia Ensemble",
-          "url": "https://open.spotify.com/artist/2KXYFI4KgMpIDpkHisArTk"
-        },
-        {
-          "name": "Kevin Mallon",
-          "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
-        },
-        {
-          "name": "Laura Whalen",
-          "url": "https://open.spotify.com/artist/6CPV8Gp7FgNODTXGiLbIPk"
-        },
-        {
-          "name": "Kimberley Barber",
-          "url": "https://open.spotify.com/artist/6nkeyUzgUIV3Rixm7FFJ1X"
-        },
-        {
-          "name": "Jennifer Ens Modolo",
-          "url": "https://open.spotify.com/artist/5xYPtzEIWBCvHEUbKmuql6"
-        },
-        {
-          "name": "Sean Watson",
-          "url": "https://open.spotify.com/artist/3wTSCuKXDYYjNHnBO8415A"
-        },
-        {
-          "name": "Barbara Hannigan",
-          "url": "https://open.spotify.com/artist/3j1x7avIuQvbywKCRSvdIq"
-        },
-        {
-          "name": "Giles Tomkins",
-          "url": "https://open.spotify.com/artist/6HvEGmJfZwQp5muiZMHO7A"
-        },
-        {
-          "name": "Nicole Bower",
-          "url": "https://open.spotify.com/artist/7okUWPLNp8hYl0qUunJt79"
-        },
-        {
-          "name": "Catherine Affleck",
-          "url": "https://open.spotify.com/artist/7siOn03bL8FpZ1roVqpflv"
-        }
-      ],
-      "duration_ms": 330880,
-      "name": "Rinaldo, HWV 7, Act I: Overture",
-      "url": "https://open.spotify.com/track/72YigZmIxr7hHQgCoDw3ui"
     },
     {
       "added_at": "2022-06-28 08:56:25",

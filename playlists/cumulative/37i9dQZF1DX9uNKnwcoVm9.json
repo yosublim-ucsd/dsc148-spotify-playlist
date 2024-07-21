@@ -20,7 +20,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 305320,
       "name": "A Ti Sea La Gloria (feat. Marcela Gandara)",
       "url": "https://open.spotify.com/track/4gkqlpX6YJXJeMICepszZe"
@@ -99,6 +99,32 @@
     },
     {
       "album": {
+        "name": "Uniendo Cielo Y Tierra",
+        "url": "https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W"
+      },
+      "artists": [
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        },
+        {
+          "name": "Toma Tu Lugar",
+          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
+        },
+        {
+          "name": "Lucas Conslie",
+          "url": "https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 601586,
+      "name": "Al Que Est\u00e1 Sentado En el Trono (feat. Lucas Conslie)",
+      "url": "https://open.spotify.com/track/499FGrXrU5vMuuh9EG0vEU"
+    },
+    {
+      "album": {
         "name": "Algo Grande Viene",
         "url": "https://open.spotify.com/album/72sKgqdTMvoBgWyVo6ZzXX"
       },
@@ -110,7 +136,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 289613,
       "name": "Algo Grande Viene",
       "url": "https://open.spotify.com/track/3qrF7uBexHKFQevKCIR6GH"
@@ -146,7 +172,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 499411,
       "name": "Ancla",
       "url": "https://open.spotify.com/track/1RMYwS5tm4QG8L7CVQX7wi"
@@ -182,7 +208,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 313078,
       "name": "Anhelo Conocerte Espiritu Santo",
       "url": "https://open.spotify.com/track/7ylsvpGbWJNgXUbqEyrxtk"
@@ -218,7 +244,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 360826,
       "name": "Asi Se\u00f1or",
       "url": "https://open.spotify.com/track/5BfuA0EhIYYg4sjxyVYAOD"
@@ -236,7 +262,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 392438,
       "name": "Atr\u00e1eme a Ti",
       "url": "https://open.spotify.com/track/1NG2W9OLWi5CXxlmzCcCLj"
@@ -254,7 +280,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 232853,
       "name": "Ayer Te Vi... Fue Mas Claro Que La Luna",
       "url": "https://open.spotify.com/track/57ifvUopbuDoMNpgSD6PzV"
@@ -290,7 +316,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 296546,
       "name": "Bendito Jesus - En Vivo",
       "url": "https://open.spotify.com/track/2RW5lhGNfI0dKwVrx446iT"
@@ -326,7 +352,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 299600,
       "name": "Como Dijiste",
       "url": "https://open.spotify.com/track/7BY5JRklkQUu4e0tlZDBy7"
@@ -384,7 +410,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 278500,
       "name": "Cree Solamente",
       "url": "https://open.spotify.com/track/4G33FeKB2sM4W9bC4bSii4"
@@ -420,7 +446,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 288266,
       "name": "Creemos",
       "url": "https://open.spotify.com/track/1Z33wIAMRaaGFSuBnFcYRU"
@@ -499,6 +525,24 @@
     },
     {
       "album": {
+        "name": "Glorioso Rey",
+        "url": "https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa"
+      },
+      "artists": [
+        {
+          "name": "En Esp\u00edritu Y En Verdad",
+          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 593320,
+      "name": "Cuan Grande Es Dios",
+      "url": "https://open.spotify.com/track/0WigYZOESf55IuZsoWb0YD"
+    },
+    {
+      "album": {
         "name": "Un Toque De F\u00e9",
         "url": "https://open.spotify.com/album/5K06CX20PkHPstgVWLg4Nd"
       },
@@ -546,7 +590,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 281773,
       "name": "Danzo en el R\u00edo (En Vivo)",
       "url": "https://open.spotify.com/track/0I3cmPOnNwgCOVtO6tfQsG"
@@ -600,10 +644,32 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 465335,
       "name": "De Lo M\u00e1s Profundo",
       "url": "https://open.spotify.com/track/4ldw8AP89yMbSrbJviQxBb"
+    },
+    {
+      "album": {
+        "name": "Lo Que el Viento Me Ense\u00f1o",
+        "url": "https://open.spotify.com/album/4yu6vGUgF13tbPSO4Pysy5"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        },
+        {
+          "name": "Annette Moreno",
+          "url": "https://open.spotify.com/artist/3ECxfxbxwRMTXdy1I5HWJq"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270268,
+      "name": "Demente",
+      "url": "https://open.spotify.com/track/6NU7EbNi0lwgqaApqBTCZt"
     },
     {
       "album": {
@@ -626,10 +692,28 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 450875,
       "name": "Dios de Lo Imposible",
       "url": "https://open.spotify.com/track/10AHJmPp1y86W3hYg5fjeH"
+    },
+    {
+      "album": {
+        "name": "Generacion Sedienta",
+        "url": "https://open.spotify.com/album/5o2qsJPwkvAXcI4imypDqV"
+      },
+      "artists": [
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340120,
+      "name": "Dios Hablame",
+      "url": "https://open.spotify.com/track/2XbQ5OKrb31tqscfsjU8CA"
     },
     {
       "album": {
@@ -644,7 +728,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 289693,
       "name": "Dios Siempre Tiene el Control",
       "url": "https://open.spotify.com/track/25uL5bEmMZ0ObN8A7HH2n9"
@@ -724,7 +808,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 534748,
       "name": "Donde T\u00fa Est\u00e1s (feat. Rebeca Zamorano)",
       "url": "https://open.spotify.com/track/0ghEDN5LzOFJW7xkCKVWoZ"
@@ -742,7 +826,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 527133,
       "name": "El Borde De Su Manto",
       "url": "https://open.spotify.com/track/3b7ykSOZzZ3bW4IU36Lj69"
@@ -778,7 +862,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 287493,
       "name": "El Deseado",
       "url": "https://open.spotify.com/track/44OMyCQXFDR9xUap4KjQrx"
@@ -814,7 +898,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 300460,
       "name": "El es mi amigo fiel",
       "url": "https://open.spotify.com/track/4i8Dl9bKIF0QyopVYg6Qxt"
@@ -850,7 +934,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 260295,
       "name": "El No Pereci\u00f3",
       "url": "https://open.spotify.com/track/5chE8rPKomf8QxhllFujhi"
@@ -912,7 +996,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 204493,
       "name": "El Padre Que Siempre So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/1mjyjgatJGw8DtNTejtztn"
@@ -948,7 +1032,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 79213,
       "name": "El Poderoso de Israel",
       "url": "https://open.spotify.com/track/63TNDMbqRlJKBr8YcyaBgU"
@@ -966,7 +1050,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 270933,
       "name": "El Proceso",
       "url": "https://open.spotify.com/track/3LJEMnT7NpGZUKiatardBT"
@@ -1020,7 +1104,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 258716,
       "name": "El Se\u00f1or es mi pastor",
       "url": "https://open.spotify.com/track/6dzzAzS051TUrSE0iSKO2C"
@@ -1042,10 +1126,32 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 99093,
       "name": "El Se\u00f1or Es Mi Rey (feat. Tony Perez)",
       "url": "https://open.spotify.com/track/7APlp9ZOXPuv9CzONC68T8"
+    },
+    {
+      "album": {
+        "name": "Grande y Fiel (Live)",
+        "url": "https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277787,
+      "name": "En Cristo Puedo - Live",
+      "url": "https://open.spotify.com/track/4O3xZyGch3aPPi8aDQ2qCq"
     },
     {
       "album": {
@@ -1060,7 +1166,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 231753,
       "name": "En las Manos de Dios",
       "url": "https://open.spotify.com/track/4wauES61ARPVjMndN9DeyB"
@@ -1096,7 +1202,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 254600,
       "name": "En paz",
       "url": "https://open.spotify.com/track/3aBwdmDksm7NMKZ6uEXmn2"
@@ -1136,6 +1242,28 @@
       "duration_ms": 305972,
       "name": "Eres Fiel",
       "url": "https://open.spotify.com/track/6vTBRcJDcPEqwmtpi3qoI6"
+    },
+    {
+      "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        },
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240136,
+      "name": "Eres Mi Bendicion (feat. Alex Zurdo)",
+      "url": "https://open.spotify.com/track/3lMZAnQgm5Sjr6KDR0uZNw"
     },
     {
       "album": {
@@ -1186,10 +1314,36 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 297626,
       "name": "Escondido en \u00c8l - Spanish",
       "url": "https://open.spotify.com/track/5j7zEOjg0ySSGK5R3aSS3s"
+    },
+    {
+      "album": {
+        "name": "Unidos I",
+        "url": "https://open.spotify.com/album/3QYwYVOOFooTyXbLBV8jh3"
+      },
+      "artists": [
+        {
+          "name": "Nueva Raza",
+          "url": "https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0"
+        },
+        {
+          "name": "Semillas De Vida",
+          "url": "https://open.spotify.com/artist/5wzQXPEWdkh3PCkxoceoP2"
+        },
+        {
+          "name": "Cristian Castellanos",
+          "url": "https://open.spotify.com/artist/1MWMzTCQ4NGhuY2kF1JZg2"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401034,
+      "name": "Esperar\u00e9 en T\u00ed",
+      "url": "https://open.spotify.com/track/2YYLL33W5SgqwSMR3oQFSp"
     },
     {
       "album": {
@@ -1222,7 +1376,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 282906,
       "name": "Esta Cayendo",
       "url": "https://open.spotify.com/track/6du2h0Y8CWEz0EHkyITOGD"
@@ -1240,7 +1394,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 305173,
       "name": "Faltan 5 para las Doce Llego Jes\u00fas",
       "url": "https://open.spotify.com/track/05gbMX505TQR6U1SGwMYku"
@@ -1294,7 +1448,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 300186,
       "name": "Gloria en Lo Alto",
       "url": "https://open.spotify.com/track/7x6tBBMlzv6OkHfYTYu3FO"
@@ -1312,7 +1466,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 323693,
       "name": "Gracias Se\u00f1or",
       "url": "https://open.spotify.com/track/6fVAVie4PzmKAoMAZBGtz1"
@@ -1352,7 +1506,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 273066,
       "name": "Hay Una Fuente En M\u00ed - Live",
       "url": "https://open.spotify.com/track/5tTLHg3Q35lzFLQ9KmtD6G"
@@ -1370,7 +1524,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 276706,
       "name": "Haz Llover",
       "url": "https://open.spotify.com/track/3O51YNgaVGHrrFLXLVJxNO"
@@ -1388,7 +1542,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 401253,
       "name": "He Visto Su Gloria",
       "url": "https://open.spotify.com/track/6mBTNoOs9cqcuqEmZZopVz"
@@ -1432,7 +1586,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 335560,
       "name": "Hermoso (feat. Coalo Zamorano)",
       "url": "https://open.spotify.com/track/0XZHCkROGGQ2Ig30ApKVLP"
@@ -1504,10 +1658,28 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 245893,
       "name": "Iglesia",
       "url": "https://open.spotify.com/track/4Po4C0odXzBWN3z5F9qiBa"
+    },
+    {
+      "album": {
+        "name": "Como En El Cielo (En Vivo)",
+        "url": "https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395320,
+      "name": "Incre\u00edble (En Vivo)",
+      "url": "https://open.spotify.com/track/4hcRAkZDzCTCH9qGQwls8e"
     },
     {
       "album": {
@@ -1522,7 +1694,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 136960,
       "name": "Jehov\u00e1 Es Mi Guerrero/Le Llaman (Reprise)",
       "url": "https://open.spotify.com/track/38rRpy2CTsHScLk9IRo0PC"
@@ -1544,6 +1716,32 @@
       "duration_ms": 136960,
       "name": "Jehov\u00e1 Es Mi Guerrero/Le Llaman (Reprise)",
       "url": "https://open.spotify.com/track/5IsqUSeMnxmoEdX9Ooot0r"
+    },
+    {
+      "album": {
+        "name": "Jesucristo Basta (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/7qYIGL8Zkxg0ItaAa5Ex96"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279858,
+      "name": "Jesucristo Basta (Ver. Ac\u00fastica) feat. Living",
+      "url": "https://open.spotify.com/track/2XKkNxB8oxQHIy8023f2wH"
     },
     {
       "album": {
@@ -1594,10 +1792,32 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 211069,
       "name": "La Ni\u00f1a de tus Ojos",
       "url": "https://open.spotify.com/track/4r5yle9whdWDsA6ApFGaZj"
+    },
+    {
+      "album": {
+        "name": "La Sunamita",
+        "url": "https://open.spotify.com/album/1atwSXYD9Dpmf40HhCOC9N"
+      },
+      "artists": [
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        },
+        {
+          "name": "Alex Marquez Oficial",
+          "url": "https://open.spotify.com/artist/0mWEEdgUmHziltREUUbcAt"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 773909,
+      "name": "La Sunamita",
+      "url": "https://open.spotify.com/track/5nmRDCoUya4XwQXCuQjzjm"
     },
     {
       "album": {
@@ -1612,7 +1832,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 263732,
       "name": "La Ultima Palabra",
       "url": "https://open.spotify.com/track/2FpFT8olvwhsGoeiEKpT36"
@@ -1666,7 +1886,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 252765,
       "name": "Llegaste T\u00fa",
       "url": "https://open.spotify.com/track/4gxJmwQeeG1RSJm1AtLlAS"
@@ -1746,7 +1966,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 228053,
       "name": "Lo mejor de m\u00ed",
       "url": "https://open.spotify.com/track/6f4j6jsqytNjSmBeXk5Zyz"
@@ -1804,7 +2024,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 447491,
       "name": "Lo Unico Que Quiero",
       "url": "https://open.spotify.com/track/1HCKcrifeQmtEXwEqfXcjD"
@@ -1844,7 +2064,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 269746,
       "name": "Los Muros Caer\u00e1n",
       "url": "https://open.spotify.com/track/3Lywk0gqbG3YoW4Mo3eNPW"
@@ -1862,7 +2082,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 241933,
       "name": "Me Dice Que Me Ama",
       "url": "https://open.spotify.com/track/4asTccqkv3G7KSKdy7QGED"
@@ -1916,7 +2136,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 231853,
       "name": "Me Paro en la Brecha",
       "url": "https://open.spotify.com/track/7I81aahD8HSOIDATkWQdTc"
@@ -1934,7 +2154,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 374491,
       "name": "Me rindo ante ti",
       "url": "https://open.spotify.com/track/1l1xlZZlbfgQdTq86MQcpy"
@@ -1988,7 +2208,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 333653,
       "name": "Mi confianza est\u00e1 en ti (remix)",
       "url": "https://open.spotify.com/track/5RDTDeDzKwjzZKqStxDvcG"
@@ -2064,7 +2284,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 253200,
       "name": "Mi Universo",
       "url": "https://open.spotify.com/track/4tZccDFqoZp8IN7VUnsJ9K"
@@ -2100,7 +2320,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 258813,
       "name": "Nadie Me Dijo",
       "url": "https://open.spotify.com/track/5xVUzEyx6UK23sDpYVhjOf"
@@ -2136,7 +2356,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 230093,
       "name": "No Basta",
       "url": "https://open.spotify.com/track/2jP3Vq1WzlOTwCejhokGuN"
@@ -2172,7 +2392,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 260360,
       "name": "No Crezcas M\u00e1s",
       "url": "https://open.spotify.com/track/6rO8OuBnXrEusZgnzMj4Br"
@@ -2212,10 +2432,50 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 285000,
       "name": "No Me Digas Adi\u00f3s",
       "url": "https://open.spotify.com/track/3egMhO3nfCiet0IGp95czv"
+    },
+    {
+      "album": {
+        "name": "Aleluya (En La Tierra)",
+        "url": "https://open.spotify.com/album/2XbDHJ6hKGpn3MndpsHfuH"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Elevation Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308945,
+      "name": "No Se Detendr\u00e1 (Won't Stop Now)",
+      "url": "https://open.spotify.com/track/7t4OHqKL5rAUgpjP2d2peI"
+    },
+    {
+      "album": {
+        "name": "En Esto Creo (Spanish)",
+        "url": "https://open.spotify.com/album/2bjV5XKKD0g4wDFnsWBVhi"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259613,
+      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar)",
+      "url": "https://open.spotify.com/track/1SNJTouyG6mRfHYk9Kp3W8"
     },
     {
       "album": {
@@ -2248,7 +2508,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 234057,
       "name": "Parece un Sueno",
       "url": "https://open.spotify.com/track/7LYLheF1lgAicmSeugSFR7"
@@ -2266,7 +2526,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 323240,
       "name": "Pedir Perdon",
       "url": "https://open.spotify.com/track/25rQ4tq18dcdSoabIPCLgR"
@@ -2302,7 +2562,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 329013,
       "name": "Por el poder de tu amor (The power of your Love)",
       "url": "https://open.spotify.com/track/0AQPDMIJmAEiXe182jLAIp"
@@ -2338,7 +2598,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 270001,
       "name": "Por el Sue\u00f1o De Dios",
       "url": "https://open.spotify.com/track/1hKVju5eLUkPkYFVYh7hkR"
@@ -2360,7 +2620,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 299706,
       "name": "Preciosa Sangre",
       "url": "https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp"
@@ -2440,7 +2700,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 445906,
       "name": "Que Se Abra el Cielo",
       "url": "https://open.spotify.com/track/795ipT8LPC3Zlbro5Umykx"
@@ -2498,7 +2758,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 472493,
       "name": "Revelacion",
       "url": "https://open.spotify.com/track/6qYidY706dT5LxQSmbTg94"
@@ -2516,7 +2776,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 295444,
       "name": "Roca eterna",
       "url": "https://open.spotify.com/track/09YG9ee8meFr9ba4pxynbi"
@@ -2552,7 +2812,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 237557,
       "name": "Se Mueven las Aguas",
       "url": "https://open.spotify.com/track/3LtpWjUOqFGG4rFWGBn8MD"
@@ -2592,6 +2852,24 @@
       "duration_ms": 257463,
       "name": "Si Puedes Creer",
       "url": "https://open.spotify.com/track/6THfYx5hakkpqodT3JvRxf"
+    },
+    {
+      "album": {
+        "name": "Si Tu Presencia Conmigo No Va",
+        "url": "https://open.spotify.com/album/46KmpiuPAvHcuXGQrmFPbq"
+      },
+      "artists": [
+        {
+          "name": "Oasis Ministry",
+          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288183,
+      "name": "Si Tu Presencia Conmigo No Va",
+      "url": "https://open.spotify.com/track/4GSSysU56FdBKhnv9HlTnT"
     },
     {
       "album": {
@@ -2712,10 +2990,28 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 330973,
       "name": "Soy Un Altar",
       "url": "https://open.spotify.com/track/1lmPSE7QyIA2XKSYMUtlix"
+    },
+    {
+      "album": {
+        "name": "Suelto",
+        "url": "https://open.spotify.com/album/6MtthKgel9UaIw3gegtemS"
+      },
+      "artists": [
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261213,
+      "name": "Suelto",
+      "url": "https://open.spotify.com/track/4gzdXnYl4s10PXMZn1XSlF"
     },
     {
       "album": {
@@ -2766,7 +3062,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 252640,
       "name": "Tan Solo Cree",
       "url": "https://open.spotify.com/track/52UBY1QBlCTRAyWa6GO0mZ"
@@ -2856,7 +3152,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 360386,
       "name": "Toda la Gloria",
       "url": "https://open.spotify.com/track/108rn8fBtcwYFd7kQzdvRA"
@@ -2935,6 +3231,28 @@
     },
     {
       "album": {
+        "name": "Marcela Gandara (Live)",
+        "url": "https://open.spotify.com/album/3u0wEJACfVAI4SwRg9LHEq"
+      },
+      "artists": [
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        },
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330786,
+      "name": "T\u00fa Est\u00e1s Aqu\u00ed (Live)",
+      "url": "https://open.spotify.com/track/6uExMEig887UmyXoFqdyOW"
+    },
+    {
+      "album": {
         "name": "Marco Barrientos Auditorio Nacional",
         "url": "https://open.spotify.com/album/02jz93WiEGLDvMhDb2xCPC"
       },
@@ -2964,7 +3282,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 343928,
       "name": "Ven te necesito",
       "url": "https://open.spotify.com/track/5zkqh0190NNxbAuRjgytTo"
@@ -3022,7 +3340,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 319920,
       "name": "Vengo a Adorate",
       "url": "https://open.spotify.com/track/7CGvRA47dm5evqdGbaZhc1"
@@ -3040,10 +3358,32 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 180333,
       "name": "Veo Llover",
       "url": "https://open.spotify.com/track/19Gbb0udRUmOM0vmsKB358"
+    },
+    {
+      "album": {
+        "name": "ResplanDC",
+        "url": "https://open.spotify.com/album/5qP3FrkV5QQb5qwZiFBFQx"
+      },
+      "artists": [
+        {
+          "name": "Visi\u00f3n Juvenil",
+          "url": "https://open.spotify.com/artist/1GTB46jRUYDiEatOzZQt1r"
+        },
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408026,
+      "name": "Vine a Adorarte (feat. Marcela G\u00e2ndara)",
+      "url": "https://open.spotify.com/track/6MB7lTUlKuJi8WBSa5V7FR"
     },
     {
       "album": {
@@ -3084,10 +3424,66 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 238413,
       "name": "Vivir\u00e9 (feat. Evan Craft)",
       "url": "https://open.spotify.com/track/0Ft7B7xB781P2lrdGIVaHo"
+    },
+    {
+      "album": {
+        "name": "Sana Nuestra Naci\u00f3n",
+        "url": "https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Maverick City Musica",
+          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        },
+        {
+          "name": "Nate Diaz",
+          "url": "https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN"
+        },
+        {
+          "name": "Karen Espinosa",
+          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 549068,
+      "name": "Vuelvo a Casa",
+      "url": "https://open.spotify.com/track/2FJQHTLhycwIjRnRbd4Wm6"
+    },
+    {
+      "album": {
+        "name": "Way Maker",
+        "url": "https://open.spotify.com/album/19vhTnN6vnEBP67UfKAKSN"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Bueno",
+          "url": "https://open.spotify.com/artist/3583URsjwdBL39M6t9Y3TM"
+        },
+        {
+          "name": "Centro Vida Cristiana Band",
+          "url": "https://open.spotify.com/artist/5m2TP17FEpGsmPrKetDVGk"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448615,
+      "name": "Way Maker",
+      "url": "https://open.spotify.com/track/5CBMIfSbwEqytxeN9gEaVM"
     },
     {
       "album": {
@@ -3142,7 +3538,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 356280,
       "name": "Yo Quiero Mas de Cristo",
       "url": "https://open.spotify.com/track/0H79dPuHeHPkfR51XfwBUD"
@@ -3164,7 +3560,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 385733,
       "name": "\u00bfA Quien Ir\u00e9?",
       "url": "https://open.spotify.com/track/4KbeBXWEqSH6QmoUHbf1as"
@@ -3204,10 +3600,28 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 259094,
       "name": "\u00bfDe Qui\u00e9n Temer\u00e9? (Dios De Ej\u00e9rcitos)",
       "url": "https://open.spotify.com/track/60J9n7mYcPsunOxSJGjSqW"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n Podr\u00e1?",
+        "url": "https://open.spotify.com/album/5d7OfKuFa3narlwzaOxVKe"
+      },
+      "artists": [
+        {
+          "name": "Averly Morillo",
+          "url": "https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498754,
+      "name": "\u00bfQui\u00e9n Podr\u00e1? - Live",
+      "url": "https://open.spotify.com/track/0xub9rulfU41NsUi0nl8Ff"
     },
     {
       "album": {

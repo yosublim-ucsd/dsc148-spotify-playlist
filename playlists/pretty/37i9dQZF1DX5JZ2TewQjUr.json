@@ -79,6 +79,22 @@
     {
       "added_at": "2024-07-18 16:00:00",
       "album": {
+        "name": "Driven By Wanderlust",
+        "url": "https://open.spotify.com/album/2MHaK1TaauTVrW6eGd4DyL"
+      },
+      "artists": [
+        {
+          "name": "Drotoch",
+          "url": "https://open.spotify.com/artist/1gkL2IZQpyIM7qXG1Zep7U"
+        }
+      ],
+      "duration_ms": 204210,
+      "name": "Driven By Wanderlust",
+      "url": "https://open.spotify.com/track/0oHUkg1oE93UUqUCYZshuj"
+    },
+    {
+      "added_at": "2024-07-18 16:00:00",
+      "album": {
         "name": "Inside Wanna Out",
         "url": "https://open.spotify.com/album/7sxd4XHLaSYliu2AVdS5uw"
       },

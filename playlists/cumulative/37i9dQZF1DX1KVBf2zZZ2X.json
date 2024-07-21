@@ -2057,6 +2057,24 @@
     },
     {
       "album": {
+        "name": "Peaceful Waters",
+        "url": "https://open.spotify.com/album/2aTeyEIlLEuOyMUqYKMfUj"
+      },
+      "artists": [
+        {
+          "name": "Full Presence",
+          "url": "https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153639,
+      "name": "Peaceful Waters",
+      "url": "https://open.spotify.com/track/3A66mkYRioE3x2Yk7uHFdh"
+    },
+    {
+      "album": {
         "name": "Pentode",
         "url": "https://open.spotify.com/album/7s4sByi9wlNJ4Dd07s0K9A"
       },
@@ -2716,7 +2734,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 192000,
       "name": "The Sparrow",
       "url": "https://open.spotify.com/track/0Ciglo4whwagbwcBRGU8O1"

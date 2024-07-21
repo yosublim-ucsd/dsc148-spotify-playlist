@@ -1,6 +1,6 @@
 {
   "description": "El futuro est\u00e1 aqu\u00ed. Foto: Luis Cort\u00e9s",
-  "num_followers": 26817,
+  "num_followers": 26816,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -227,18 +227,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/2kzjVxsgT41txC1GIMMx3C"
+        "name": "Por Si Ma\u00f1ana No Estoy",
+        "url": "https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5"
       },
       "artists": [
         {
-          "name": "Luis Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
         }
       ],
-      "duration_ms": 203013,
-      "name": "Al Alba",
-      "url": "https://open.spotify.com/track/0Sycs2Q0ejSwwwk3DS13iA"
+      "duration_ms": 154509,
+      "name": "Por Si Ma\u00f1ana No Estoy",
+      "url": "https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -255,22 +255,6 @@
       "duration_ms": 207750,
       "name": "Mi Culpa",
       "url": "https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Por Si Ma\u00f1ana No Estoy",
-        "url": "https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 154509,
-      "name": "Por Si Ma\u00f1ana No Estoy",
-      "url": "https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -311,6 +295,22 @@
       "duration_ms": 178111,
       "name": "fumas?",
       "url": "https://open.spotify.com/track/7AltFl3cm57Qq2cW70ieXM"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/2kzjVxsgT41txC1GIMMx3C"
+      },
+      "artists": [
+        {
+          "name": "Luis Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
+        }
+      ],
+      "duration_ms": 203013,
+      "name": "Al Alba",
+      "url": "https://open.spotify.com/track/0Sycs2Q0ejSwwwk3DS13iA"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -383,38 +383,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Semanas",
-        "url": "https://open.spotify.com/album/3iAAgL24uLxSTzihPfmzao"
-      },
-      "artists": [
-        {
-          "name": "Charlie USG",
-          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
-        }
-      ],
-      "duration_ms": 176587,
-      "name": "Semanas",
-      "url": "https://open.spotify.com/track/0ICi6PF2OFhz0NZ9POMNj8"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Otra Vida",
-        "url": "https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        }
-      ],
-      "duration_ms": 218752,
-      "name": "Otra Vida",
-      "url": "https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "SexySensible",
         "url": "https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1"
       },
@@ -435,6 +403,38 @@
       "duration_ms": 154549,
       "name": "Xarnega",
       "url": "https://open.spotify.com/track/49qfhb3mTtHwcW4t3375iK"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Otra Vida",
+        "url": "https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "duration_ms": 218752,
+      "name": "Otra Vida",
+      "url": "https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Semanas",
+        "url": "https://open.spotify.com/album/3iAAgL24uLxSTzihPfmzao"
+      },
+      "artists": [
+        {
+          "name": "Charlie USG",
+          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
+        }
+      ],
+      "duration_ms": 176587,
+      "name": "Semanas",
+      "url": "https://open.spotify.com/track/0ICi6PF2OFhz0NZ9POMNj8"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "pablopablo",
+        "url": "https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "duration_ms": 213563,
+      "name": "Mandela Place",
+      "url": "https://open.spotify.com/track/1d3LnbVCbpcAZGdOCw7PlQ"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "SexySensible",
         "url": "https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 160695,
       "name": "habibi",
       "url": "https://open.spotify.com/track/2jd8SrFiK2arEPZHxlE0ys"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "pablopablo",
-        "url": "https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        }
-      ],
-      "duration_ms": 213563,
-      "name": "Mandela Place",
-      "url": "https://open.spotify.com/track/1d3LnbVCbpcAZGdOCw7PlQ"
     },
     {
       "added_at": "2024-07-18 22:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-12",
-  "description": "This is KISS\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "description": "This is KISS. The essential tracks, all in one playlist.",
   "name": "This Is KISS",
   "tracks": [
     {
@@ -484,7 +484,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 279066,
       "name": "Every Time I Look At You",
       "url": "https://open.spotify.com/track/0ute0e8bY0FmSEIqDfhrBJ"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 230386,
       "name": "Forever (Live)",
       "url": "https://open.spotify.com/track/1fM0MXvqlJT2H7znb3LiUD"
@@ -690,7 +690,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 201400,
       "name": "Heaven's On Fire",
       "url": "https://open.spotify.com/track/1brpdmqkx3kSxyqzqXfW7J"
@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 182093,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/5RaXQF86U71nenpwo2yjdz"
@@ -1428,7 +1428,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 249000,
       "name": "She",
       "url": "https://open.spotify.com/track/2CgK3jgqeaR02D9mKE2XVt"
@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 222200,
       "name": "Unholy",
       "url": "https://open.spotify.com/track/1eyRkbW5tJ7YobW9wQ5zVB"

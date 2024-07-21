@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 203762,
+  "num_followers": 203790,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Innocent",
-        "url": "https://open.spotify.com/album/42JWTAWXnwJx0Qmdcvpy6u"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
-        }
-      ],
-      "duration_ms": 156197,
-      "name": "Innocent",
-      "url": "https://open.spotify.com/track/0PSSz0R58WstAQk7Ui0GUs"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Pixie's Parasol",
         "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 182946,
       "name": "Pixie's Parasol",
       "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Innocent",
+        "url": "https://open.spotify.com/album/42JWTAWXnwJx0Qmdcvpy6u"
+      },
+      "artists": [
+        {
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
+        }
+      ],
+      "duration_ms": 156197,
+      "name": "Innocent",
+      "url": "https://open.spotify.com/track/0PSSz0R58WstAQk7Ui0GUs"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -711,22 +711,6 @@
       "duration_ms": 202000,
       "name": "Broken Road",
       "url": "https://open.spotify.com/track/3U68FhkqgAVLxCR1s7aoD4"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "All of Me",
-        "url": "https://open.spotify.com/album/0wEaalS9Qna2fCrgnLMPDc"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
-        }
-      ],
-      "duration_ms": 176793,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/0VFbizmhEILidyQBvPOjCx"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -815,22 +799,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Honey In The Waves",
-        "url": "https://open.spotify.com/album/4mg7SjpIbWdpdysGU1P8bA"
-      },
-      "artists": [
-        {
-          "name": "Alexander Grandjean",
-          "url": "https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp"
-        }
-      ],
-      "duration_ms": 256548,
-      "name": "Honey In The Waves",
-      "url": "https://open.spotify.com/track/3tSxWyj3XlLqnMCfpzq8Df"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "I Live After I Died",
         "url": "https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i"
       },
@@ -843,6 +811,38 @@
       "duration_ms": 164083,
       "name": "I Live After I Died",
       "url": "https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/0wEaalS9Qna2fCrgnLMPDc"
+      },
+      "artists": [
+        {
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
+        }
+      ],
+      "duration_ms": 176793,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/0VFbizmhEILidyQBvPOjCx"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Honey In The Waves",
+        "url": "https://open.spotify.com/album/4mg7SjpIbWdpdysGU1P8bA"
+      },
+      "artists": [
+        {
+          "name": "Alexander Grandjean",
+          "url": "https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp"
+        }
+      ],
+      "duration_ms": 256548,
+      "name": "Honey In The Waves",
+      "url": "https://open.spotify.com/track/3tSxWyj3XlLqnMCfpzq8Df"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -895,8 +895,8 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Wash It Away",
-        "url": "https://open.spotify.com/album/3VRr7bkdTRnc5Gej5ymHGt"
+        "name": "Asymmetry",
+        "url": "https://open.spotify.com/album/7hUysjVpItw73HUo8VS5Tq"
       },
       "artists": [
         {
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
         }
       ],
-      "duration_ms": 243362,
-      "name": "Wash It Away",
-      "url": "https://open.spotify.com/track/6uWg8e184kvHyy2LkDVoHj"
+      "duration_ms": 244381,
+      "name": "Asymmetry",
+      "url": "https://open.spotify.com/track/42PkrZXRieevKfmgxOfDFv"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Bloodshed",
-        "url": "https://open.spotify.com/album/2DjLVPwQLO6RqxQebJpZX3"
-      },
-      "artists": [
-        {
-          "name": "Simen Mitlid",
-          "url": "https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A"
-        }
-      ],
-      "duration_ms": 215620,
-      "name": "Bloodshed",
-      "url": "https://open.spotify.com/track/3S7y6iLyXfLZjRzyHvqB4x"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Fehu (First Flight of the White Raven LIVE)",
         "url": "https://open.spotify.com/album/23ghp02cykc1CY2BWn74RR"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 328240,
       "name": "Fehu - First Flight of the White Raven LIVE",
       "url": "https://open.spotify.com/track/4JEFld1zyKtbLaKMwdRmTh"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Bloodshed",
+        "url": "https://open.spotify.com/album/2DjLVPwQLO6RqxQebJpZX3"
+      },
+      "artists": [
+        {
+          "name": "Simen Mitlid",
+          "url": "https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A"
+        }
+      ],
+      "duration_ms": 215620,
+      "name": "Bloodshed",
+      "url": "https://open.spotify.com/track/3S7y6iLyXfLZjRzyHvqB4x"
     }
   ],
   "unique_name": "Nordic Folk",

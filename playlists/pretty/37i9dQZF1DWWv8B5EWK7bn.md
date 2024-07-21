@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,790 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,829 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 38 | [Jour 3](https://open.spotify.com/track/1RLMR4pVuuHEzn8mOe1U2s) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Hildegard](https://open.spotify.com/album/73YfC8h0xwIr2KFhW99iLk) | 3:06 |
 | 39 | [Corner Of My Sky](https://open.spotify.com/track/0Kx5mnfoluqEcrZmQDin6m) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Inner Song](https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz) | 7:27 |
 | 40 | [Robber](https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Robber](https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5) | 5:20 |
-| 41 | [Sus Dog](https://open.spotify.com/track/4SIy0CT0thjNx55TAeBq6x) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta), [Anika](https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5) | [Sus Dog](https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f) | 4:36 |
-| 42 | [Army Of Me \- Spotify Single](https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Spotify Singles](https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM) | 4:49 |
-| 43 | [Dawn blessings](https://open.spotify.com/track/2CDErqDxCM5ggWEgiYopcl) | [Bex Burch](https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [There is only love and fear](https://open.spotify.com/album/1uVwUTnbeJYN352RI4jRKe) | 4:50 |
-| 44 | [Up and Up](https://open.spotify.com/track/5DICKyBTFX6rzXTRrZH6iz) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Agitprop Alterna](https://open.spotify.com/album/56o75WZe4MrgNj1wL0769C) | 5:14 |
+| 41 | [Army Of Me \- Spotify Single](https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Spotify Singles](https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM) | 4:49 |
+| 42 | [Sus Dog](https://open.spotify.com/track/4SIy0CT0thjNx55TAeBq6x) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta), [Anika](https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5) | [Sus Dog](https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f) | 4:36 |
+| 43 | [Up and Up](https://open.spotify.com/track/5DICKyBTFX6rzXTRrZH6iz) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Agitprop Alterna](https://open.spotify.com/album/56o75WZe4MrgNj1wL0769C) | 5:14 |
+| 44 | [Dawn blessings](https://open.spotify.com/track/2CDErqDxCM5ggWEgiYopcl) | [Bex Burch](https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [There is only love and fear](https://open.spotify.com/album/1uVwUTnbeJYN352RI4jRKe) | 4:50 |
 | 45 | [Open the Gates](https://open.spotify.com/track/4fbvhFhIhItsBS4V5EUdYu) | [Irreversible Entanglements](https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89) | [Open the Gates](https://open.spotify.com/album/3o8AaBOVFR7Fp6gXhwXpsh) | 2:39 |
 | 46 | [STORY OF BLOOD](https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [STORY OF BLOOD](https://open.spotify.com/album/6voVkae1055milSYpRzzGc) | 7:31 |
 | 47 | [All Through The Day](https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP) | [Las Los](https://open.spotify.com/artist/3WqvmoaOxt3SeGPoEew1L1) | [All Through The Day](https://open.spotify.com/album/4nZxZJv3TFbVq9cDqQjkhS) | 3:02 |

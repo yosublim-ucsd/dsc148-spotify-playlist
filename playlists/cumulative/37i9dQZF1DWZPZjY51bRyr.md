@@ -4,12 +4,12 @@
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-218 songs - 11 hr 21 min
+219 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [432 Hz \- Din Aur Raat](https://open.spotify.com/track/3TM9284Jq1JRm0EouDrEGa) | [Mishika](https://open.spotify.com/artist/79pwbuZeN20i17nbhG3Qgr) | [432 Hz \- Din Aur Raat](https://open.spotify.com/album/0bFlvpmQGGiH43x1n29ptn) | 2:32 | 2024-07-18 |  |
-| [432 Hz Delta Earth](https://open.spotify.com/track/0yClwB7zCLWhcshv29Oep6) | [Jupiter Sorrow](https://open.spotify.com/artist/3jqblnBchsyc0UJrQ9YJMw) | [432 Hz Delta Earth](https://open.spotify.com/album/5MDAtNZmWg0GfB23Rvyaas) | 2:22 | 2023-10-26 |  |
+| [432 Hz Delta Earth](https://open.spotify.com/track/0yClwB7zCLWhcshv29Oep6) | [Jupiter Sorrow](https://open.spotify.com/artist/3jqblnBchsyc0UJrQ9YJMw) | [432 Hz Delta Earth](https://open.spotify.com/album/5MDAtNZmWg0GfB23Rvyaas) | 2:22 | 2023-10-26 | 2024-07-21 |
 | [432 Hz Serenity Embrace](https://open.spotify.com/track/2H1JcyE318d91zg3DXI6Zj) | [Juni Willow](https://open.spotify.com/artist/5fyPGApAeuzdkwvW02LjT8) | [432 Hz Serenity Embrace](https://open.spotify.com/album/66mC8CxQZFCfinlZw5QyTh) | 2:41 | 2023-09-25 |  |
 | [432hz Let It Heal \- Studio Edit](https://open.spotify.com/track/5NWPSiHduPE5OSAeh6Frpb) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Let It Heal](https://open.spotify.com/album/7l2UxyaSgVWBMxCChOXMeR) | 3:40 | 2023-03-28 |  |
 | [528 Hz \- Depth](https://open.spotify.com/track/4wir6hzWdheNZVGQQMOrih) | [Willow Bird](https://open.spotify.com/artist/4xVge9wtVXlLcmj9BvDoHy) | [528 Hz \- Depth](https://open.spotify.com/album/4I6ywVOrEHtslVrCFC3tI8) | 2:31 | 2023-12-15 |  |
@@ -206,6 +206,7 @@
 | [The Sweetest Bansuri](https://open.spotify.com/track/61dYKNEcKbV6Cq494FuOcv) | [Golgon Kami](https://open.spotify.com/artist/1tkEL3kkz3cp0QnCPKuomr) | [The Sweetest Bansuri](https://open.spotify.com/album/5Yq1yNWHSgiFFAcrKUu0JY) | 2:46 | 2023-02-17 | 2023-08-17 |
 | [There And Back](https://open.spotify.com/track/2kH1pkg3I1Z0dk5zcOlXYu) | [Phanari](https://open.spotify.com/artist/4EbKxHUCFQoF8htm8bKXxg) | [There And Back](https://open.spotify.com/album/76UGD3zDbzEHjbTKkbSpYL) | 2:53 | 2023-09-25 | 2024-07-12 |
 | [Through The Changes](https://open.spotify.com/track/101jUm7J6B3zxVOezYJofl) | [Uli Jons](https://open.spotify.com/artist/0K4PNBCw5wDm6lKZYil6cU) | [Through The Changes](https://open.spotify.com/album/515aroNRt3KAYBvyF9NIns) | 3:29 | 2023-07-10 |  |
+| [Tonal Calmness](https://open.spotify.com/track/3PDE4uafLyorNaIWTos0MA) | [Places Within](https://open.spotify.com/artist/00rLUyC4CkQCYpvg0kBI87) | [Tonal Calmness](https://open.spotify.com/album/3UIe0Q2nz2FJOPKj01Kiut) | 3:45 | 2024-07-18 |  |
 | [Tranquility](https://open.spotify.com/track/0Xho0q1PiEDX0jrtxYuBUe) | [Sascha Ann Riis](https://open.spotify.com/artist/4OVKc3I1eQtw2J7xqVCRNs) | [Tranquility](https://open.spotify.com/album/0pP3iJlExImW0IusI2wy6Q) | 2:31 | 2023-07-10 |  |
 | [Transcend Ego 432 Hz](https://open.spotify.com/track/6OH0oW8GbQkmn5NthSMu3x) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Solfeggio Frequencies: Aligning for Change](https://open.spotify.com/album/2F3sPtIXbBmr6cknoZAWLE) | 3:34 | 2023-02-17 | 2023-08-17 |
 | [Transcendent Whispers](https://open.spotify.com/track/5MXlWdZ3ESK24lX3u1GU1S) | [Man Dala](https://open.spotify.com/artist/3kf3VjiaMISV3pvj50wkk6) | [Himalayan Breeze](https://open.spotify.com/album/0qwpizBQ8iC6VOLE7jdPTh) | 4:08 | 2023-07-27 |  |

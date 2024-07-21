@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 19282,
+  "num_followers": 19289,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-05-17 14:18:57",
       "album": {
+        "name": "Virginia Luque Cronolog\u00eda - La Estrella de Buenos Aires (1968)",
+        "url": "https://open.spotify.com/album/0gF8PydJV7gZYrHKVwZZi2"
+      },
+      "artists": [
+        {
+          "name": "Virginia Luque",
+          "url": "https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc"
+        }
+      ],
+      "duration_ms": 155280,
+      "name": "La Morocha",
+      "url": "https://open.spotify.com/track/1wgpDmWmiFO8m7ZBWCaQDF"
+    },
+    {
+      "added_at": "2024-05-17 14:18:57",
+      "album": {
         "name": "Patio De Tango",
         "url": "https://open.spotify.com/album/1kOUXHJMkKuXur3xTBoKmS"
       },
@@ -659,22 +675,6 @@
     {
       "added_at": "2024-05-17 14:18:57",
       "album": {
-        "name": "Virginia Luque Cronolog\u00eda - La Estrella de Buenos Aires (1968)",
-        "url": "https://open.spotify.com/album/0gF8PydJV7gZYrHKVwZZi2"
-      },
-      "artists": [
-        {
-          "name": "Virginia Luque",
-          "url": "https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc"
-        }
-      ],
-      "duration_ms": 155280,
-      "name": "La Morocha",
-      "url": "https://open.spotify.com/track/1wgpDmWmiFO8m7ZBWCaQDF"
-    },
-    {
-      "added_at": "2024-05-17 14:18:57",
-      "album": {
         "name": "Temas Pendientes",
         "url": "https://open.spotify.com/album/7dAmJJhKx2p5QCmknLNYlB"
       },
@@ -691,8 +691,8 @@
     {
       "added_at": "2024-05-17 14:18:57",
       "album": {
-        "name": "Martingala",
-        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
+        "name": "Cabeza Negra",
+        "url": "https://open.spotify.com/album/1g26oBJd6HGQxPdJLJwqI5"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
         }
       ],
-      "duration_ms": 193348,
-      "name": "La Piel de la Ciudad",
-      "url": "https://open.spotify.com/track/4OyBpawRu6Bh5CpK8bBXh4"
+      "duration_ms": 154006,
+      "name": "Fuga de Ausencias",
+      "url": "https://open.spotify.com/track/3rsIVOZOnD9sxT2mcZYfm1"
     },
     {
       "added_at": "2024-05-17 14:18:57",
@@ -755,22 +755,6 @@
       "duration_ms": 156155,
       "name": "El d\u00eda que me quieras - Remastered",
       "url": "https://open.spotify.com/track/02TbTxbu4H9heTFaXe3iVQ"
-    },
-    {
-      "added_at": "2024-05-17 14:18:57",
-      "album": {
-        "name": "Pu\u00f1al de Sombra",
-        "url": "https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh"
-      },
-      "artists": [
-        {
-          "name": "Lidia Borda",
-          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
-        }
-      ],
-      "duration_ms": 213476,
-      "name": "Mano a Mano",
-      "url": "https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq"
     },
     {
       "added_at": "2024-05-17 14:18:57",
@@ -835,6 +819,54 @@
     {
       "added_at": "2024-05-17 14:18:57",
       "album": {
+        "name": "Virginia Luque Interpreta a Disc\u00e9polo",
+        "url": "https://open.spotify.com/album/3fHmSlpFfyNaP33X9CKYZF"
+      },
+      "artists": [
+        {
+          "name": "Virginia Luque",
+          "url": "https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "Cafet\u00edn de Buenos Aires",
+      "url": "https://open.spotify.com/track/36NEktz9d2npV7RojXQJNU"
+    },
+    {
+      "added_at": "2024-05-17 14:18:57",
+      "album": {
+        "name": "Pu\u00f1al de Sombra",
+        "url": "https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh"
+      },
+      "artists": [
+        {
+          "name": "Lidia Borda",
+          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+        }
+      ],
+      "duration_ms": 213476,
+      "name": "Mano a Mano",
+      "url": "https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq"
+    },
+    {
+      "added_at": "2024-05-17 14:18:57",
+      "album": {
+        "name": "Martingala",
+        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        }
+      ],
+      "duration_ms": 193348,
+      "name": "La Piel de la Ciudad",
+      "url": "https://open.spotify.com/track/4OyBpawRu6Bh5CpK8bBXh4"
+    },
+    {
+      "added_at": "2024-05-17 14:18:57",
+      "album": {
         "name": "Tangos Famosos Cantados",
         "url": "https://open.spotify.com/album/6e0npZfXXOvdAY8YulsfLo"
       },
@@ -851,22 +883,6 @@
     {
       "added_at": "2024-05-17 14:18:57",
       "album": {
-        "name": "Cabeza Negra",
-        "url": "https://open.spotify.com/album/1g26oBJd6HGQxPdJLJwqI5"
-      },
-      "artists": [
-        {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
-        }
-      ],
-      "duration_ms": 154006,
-      "name": "Fuga de Ausencias",
-      "url": "https://open.spotify.com/track/3rsIVOZOnD9sxT2mcZYfm1"
-    },
-    {
-      "added_at": "2024-05-17 14:18:57",
-      "album": {
         "name": "Mujeres del Tango",
         "url": "https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 133000,
       "name": "Malena",
       "url": "https://open.spotify.com/track/1U0UYJWWUzmrJ0mhj9wwRw"
-    },
-    {
-      "added_at": "2024-05-17 14:18:57",
-      "album": {
-        "name": "Virginia Luque Interpreta a Disc\u00e9polo",
-        "url": "https://open.spotify.com/album/3fHmSlpFfyNaP33X9CKYZF"
-      },
-      "artists": [
-        {
-          "name": "Virginia Luque",
-          "url": "https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "Cafet\u00edn de Buenos Aires",
-      "url": "https://open.spotify.com/track/36NEktz9d2npV7RojXQJNU"
     },
     {
       "added_at": "2024-05-17 14:18:57",
@@ -931,26 +931,6 @@
     {
       "added_at": "2024-05-17 14:18:57",
       "album": {
-        "name": "Pobre Flor (Primera Ilusi\u00f3n)",
-        "url": "https://open.spotify.com/album/4AzE3DULdR9WjtXG8UwqGu"
-      },
-      "artists": [
-        {
-          "name": "Gisela Magri",
-          "url": "https://open.spotify.com/artist/4oRCN5rTR7AwwL3OxZ8vwH"
-        },
-        {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
-        }
-      ],
-      "duration_ms": 126460,
-      "name": "Pobre Flor (Primera Ilusi\u00f3n)",
-      "url": "https://open.spotify.com/track/4kVOaiBBIVjyvkaY9eURki"
-    },
-    {
-      "added_at": "2024-05-17 14:18:57",
-      "album": {
         "name": "The History Of Tango, Volume 1 / Recordings 1925 - 1929",
         "url": "https://open.spotify.com/album/7iw58RnRTqZgzdT5sG5j5C"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 180520,
       "name": "La Morocha",
       "url": "https://open.spotify.com/track/1anG08CBwoLXg6gdpfjbcP"
+    },
+    {
+      "added_at": "2024-05-17 14:18:57",
+      "album": {
+        "name": "Pobre Flor (Primera Ilusi\u00f3n)",
+        "url": "https://open.spotify.com/album/4AzE3DULdR9WjtXG8UwqGu"
+      },
+      "artists": [
+        {
+          "name": "Gisela Magri",
+          "url": "https://open.spotify.com/artist/4oRCN5rTR7AwwL3OxZ8vwH"
+        },
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        }
+      ],
+      "duration_ms": 126460,
+      "name": "Pobre Flor (Primera Ilusi\u00f3n)",
+      "url": "https://open.spotify.com/track/4kVOaiBBIVjyvkaY9eURki"
     },
     {
       "added_at": "2024-05-17 14:18:57",

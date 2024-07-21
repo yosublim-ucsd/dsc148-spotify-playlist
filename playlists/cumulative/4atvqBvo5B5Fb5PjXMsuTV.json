@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Updated daily, with the latest popular singles!",
-  "name": "NEW SINGLES RELEASES | UPDATED 20 JUL",
+  "description": "Latest popular single releases. Updated 21 Jul 22:02 UTC.",
+  "name": "New Singles Now",
   "tracks": [
     {
       "album": {
@@ -819,6 +819,24 @@
     },
     {
       "album": {
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/0DYWKlOXtdUVBHrRR5ZFiB"
+      },
+      "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215088,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/3GJpQY3I6YTgL3TtvvxmNm"
+    },
+    {
+      "album": {
         "name": "All In My Head",
         "url": "https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX"
       },
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 197639,
       "name": "Angel Of My Dreams",
       "url": "https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X"
@@ -2654,7 +2672,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 156325,
       "name": "Bon Appetit",
       "url": "https://open.spotify.com/track/4byRwjC6yKSyAWsAzY7xeZ"
@@ -4494,7 +4512,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 138320,
       "name": "COPACABANA",
       "url": "https://open.spotify.com/track/3P3wdlzvU9pZSu5Ppkv53L"
@@ -4854,6 +4872,24 @@
       "duration_ms": 187195,
       "name": "Darling, The Planets",
       "url": "https://open.spotify.com/track/1Gn6yw9hDNoXKYaF2rNjF0"
+    },
+    {
+      "album": {
+        "name": "Dead Man",
+        "url": "https://open.spotify.com/album/2bXR6WDlDnm31wMvAd0MhB"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203343,
+      "name": "Dead Man",
+      "url": "https://open.spotify.com/track/175ApsLKPzdEeEiibmtqFQ"
     },
     {
       "album": {
@@ -5586,7 +5622,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 178510,
       "name": "Don't Let My Boyfriend Get In Your Way",
       "url": "https://open.spotify.com/track/3DOZgqdpYCfjmAP2eR7H98"
@@ -6702,7 +6738,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 109530,
       "name": "Eye Know",
       "url": "https://open.spotify.com/track/1EKOslsEZTqm7iAdzu06d5"
@@ -6854,7 +6890,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 250070,
       "name": "Fall To Pieces - Acoustic",
       "url": "https://open.spotify.com/track/2mzTM8Ks1J4SCmCszU8ZX2"
@@ -7078,7 +7114,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 134457,
       "name": "Female Intuition",
       "url": "https://open.spotify.com/track/3irbvUcejyhvW0Zg4wqz9R"
@@ -7678,7 +7714,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 159903,
       "name": "Friendly",
       "url": "https://open.spotify.com/track/24rugivInJ0ZVcMHsyl8CN"
@@ -7754,6 +7790,28 @@
       "duration_ms": 150266,
       "name": "Fuck Around & Find Out",
       "url": "https://open.spotify.com/track/53V7lIwY3ayAJbH79lmZWd"
+    },
+    {
+      "album": {
+        "name": "FUGGIT 10 MINUTE SONG!",
+        "url": "https://open.spotify.com/album/2khF7zDzOObd1pI6eSe9xw"
+      },
+      "artists": [
+        {
+          "name": "ISSBROKIE",
+          "url": "https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI"
+        },
+        {
+          "name": "Lil Darkie",
+          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 598776,
+      "name": "FUGGIT 10 MINUTE SONG!",
+      "url": "https://open.spotify.com/track/6lCmf56ymp9OFJDjt0SgHl"
     },
     {
       "album": {
@@ -8008,6 +8066,24 @@
       "duration_ms": 181363,
       "name": "Generation Gap",
       "url": "https://open.spotify.com/track/5FQ9dxFbkBO7tGYNnE8gin"
+    },
+    {
+      "album": {
+        "name": "GENESIS",
+        "url": "https://open.spotify.com/album/0lauCMMmgQpzDyQxqhXLuH"
+      },
+      "artists": [
+        {
+          "name": "From First To Last",
+          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193979,
+      "name": "GENESIS",
+      "url": "https://open.spotify.com/track/1Jijb30txJ6YZNe5DTu3Lb"
     },
     {
       "album": {
@@ -8538,7 +8614,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 152759,
       "name": "Good Guy",
       "url": "https://open.spotify.com/track/1o85kjIkzuYJt1w8JjxAKs"
@@ -10189,6 +10265,24 @@
     },
     {
       "album": {
+        "name": "i thought we were past it",
+        "url": "https://open.spotify.com/album/0YwALAwuXNU547gXHqnMjQ"
+      },
+      "artists": [
+        {
+          "name": "Darko",
+          "url": "https://open.spotify.com/artist/63dmB3SM4vOZ8rK1EX5IkU"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166104,
+      "name": "i thought we were past it",
+      "url": "https://open.spotify.com/track/439MGAoj7xH45di7vW4PZX"
+    },
+    {
+      "album": {
         "name": "I WANNA BE",
         "url": "https://open.spotify.com/album/0xdlQ55UOIikv6P4DifQb4"
       },
@@ -11224,7 +11318,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 293181,
       "name": "Kisapmata",
       "url": "https://open.spotify.com/track/1Xs9mIQdHSy6XG7ZtCx40b"
@@ -11644,7 +11738,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 224680,
       "name": "LET'S GET FUCKED (TEQUILA Remix)",
       "url": "https://open.spotify.com/track/1Mortchz7Y5AVsbK7Sas5X"
@@ -11662,7 +11756,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 161052,
       "name": "Lets Get On Dey Ass",
       "url": "https://open.spotify.com/track/1SUQlEQUTsxZBU6KTmLh9n"
@@ -12648,7 +12742,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 182946,
       "name": "Man on a Boat",
       "url": "https://open.spotify.com/track/5chP8vYNfCbtOZYHZLZpxm"
@@ -13732,7 +13826,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 187433,
       "name": "Nack Nostalgia",
       "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
@@ -14448,7 +14542,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 224281,
       "name": "NOW IS THE TIME",
       "url": "https://open.spotify.com/track/11reRtXKSalcmr5aB8R8FT"
@@ -15035,6 +15129,24 @@
     },
     {
       "album": {
+        "name": "PAPER PLANES",
+        "url": "https://open.spotify.com/album/4bLFlOQu1SGje263R3C93H"
+      },
+      "artists": [
+        {
+          "name": "Broly500!",
+          "url": "https://open.spotify.com/artist/2bv7Ug89GAd0si5W9gzBGf"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137357,
+      "name": "PAPER PLANES",
+      "url": "https://open.spotify.com/track/6jS6oE5cSBjNzIW5qDoImb"
+    },
+    {
+      "album": {
         "name": "Para Lennon e McCartney",
         "url": "https://open.spotify.com/album/5Vm3PCwxFiamaMoZzH0NIc"
       },
@@ -15520,7 +15632,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 246048,
       "name": "Polkamania!",
       "url": "https://open.spotify.com/track/1GXIST9gaPpWcRrRhHUcJb"
@@ -17454,6 +17566,28 @@
     {
       "album": {
         "name": "Shoot",
+        "url": "https://open.spotify.com/album/0J67VD8T4YXrFFh1MuMBWv"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158238,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/1A8NNjRd8WLUirNesl9jYW"
+    },
+    {
+      "album": {
+        "name": "Shoot",
         "url": "https://open.spotify.com/album/57rUghf1RsZKSbiObGIWfh"
       },
       "artists": [
@@ -18008,6 +18142,28 @@
       "duration_ms": 240000,
       "name": "SMACK TALK",
       "url": "https://open.spotify.com/track/5rzHkSHRyZUdQcCX6noFDB"
+    },
+    {
+      "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/5dLEg3MZITafGfwzp65Qev"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147244,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/2QaKqCBZzBossC940glm6N"
     },
     {
       "album": {
@@ -18880,7 +19036,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 118700,
       "name": "Summer '24",
       "url": "https://open.spotify.com/track/1aMUl8tkDCHl4dWIIGo1tR"
@@ -19252,6 +19408,28 @@
       "duration_ms": 235216,
       "name": "Sweet Eyes",
       "url": "https://open.spotify.com/track/2cblWZLH8NAVR3ss2LUobR"
+    },
+    {
+      "album": {
+        "name": "Switch",
+        "url": "https://open.spotify.com/album/6L2qyexv1IleiJkkcYl4zT"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189022,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/5l9wqqfosStld3rOPimbDw"
     },
     {
       "album": {
@@ -21526,7 +21704,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 275213,
       "name": "Voodoo Lady - Demo",
       "url": "https://open.spotify.com/track/0pg7hStao1AjHACJuqnu6Z"
@@ -22422,7 +22600,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 119786,
       "name": "Worda Bro",
       "url": "https://open.spotify.com/track/6SfdiJE1Ls5ItYUCvZ7B2O"
@@ -22502,7 +22680,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 150474,
       "name": "Work It Out",
       "url": "https://open.spotify.com/track/1zepNi2GSE216osBwSn4ZD"
@@ -22654,6 +22832,24 @@
       "duration_ms": 221744,
       "name": "Yacht Party",
       "url": "https://open.spotify.com/track/2LOoUMTCzJrEuY2OH4HfdQ"
+    },
+    {
+      "album": {
+        "name": "Yeah Baby",
+        "url": "https://open.spotify.com/album/5PHb8QUa081t4IxLhLrWcV"
+      },
+      "artists": [
+        {
+          "name": "Glokk40Spaz",
+          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109237,
+      "name": "Yeah Baby",
+      "url": "https://open.spotify.com/track/4wmDMvjvjddgK17lnOYuvb"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 85606,
+  "num_followers": 85696,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZphbAAAAAAAxXPfofWhTa4b/RPa5/2te",
+  "snapshot_id": "ZpmsgAAAAACaryMpmYGL54eY4NEaKlEY",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,26 @@
       "duration_ms": 177533,
       "name": "the perfect pair",
       "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "death bed (coffee for your head)",
+        "url": "https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "death bed (coffee for your head)",
+      "url": "https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx"
     },
     {
       "added_at": null,
@@ -576,9 +596,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 194173,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/3r1qdSsvJEwiMKHeCWapMM"
+      "duration_ms": 90928,
+      "name": "Back To Mars",
+      "url": "https://open.spotify.com/track/0ZkpIZ3PQb1rYrM3ghBXIv"
     },
     {
       "added_at": null,
@@ -640,9 +660,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 90928,
-      "name": "Back To Mars",
-      "url": "https://open.spotify.com/track/0ZkpIZ3PQb1rYrM3ghBXIv"
+      "duration_ms": 194173,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/3r1qdSsvJEwiMKHeCWapMM"
     },
     {
       "added_at": null,
@@ -835,30 +855,6 @@
       "duration_ms": 241109,
       "name": "Sun More Often",
       "url": "https://open.spotify.com/track/1qkKf2v0cE3BVePzQQEQq3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hurry Home (with beabadoobee & Jay Som)",
-        "url": "https://open.spotify.com/album/6vAkWJVChKrwbY9WTLeKZZ"
-      },
-      "artists": [
-        {
-          "name": "No Rome",
-          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
-        },
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        },
-        {
-          "name": "Jay Som",
-          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
-        }
-      ],
-      "duration_ms": 236048,
-      "name": "Hurry Home (with beabadoobee & Jay Som)",
-      "url": "https://open.spotify.com/track/6Ha8pqxdSJHdPY4tlzPhlT"
     }
   ],
   "unique_name": "This Is beabadoobee",

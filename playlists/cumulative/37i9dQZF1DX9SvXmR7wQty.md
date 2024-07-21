@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Klô Pelgag
 
-2,686 songs - 5 day 22 hr 54 min
+2,688 songs - 5 day 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,6 +422,7 @@
 | [Chocolat](https://open.spotify.com/track/6Are8wJXglZ9q9QX00xoLV) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm) | [AGUÀ EXTEND'EAU](https://open.spotify.com/album/5fvffbbz0BfUuo42slpV9A) | 3:09 | 2022-06-10 | 2022-06-25 |
 | [Choker](https://open.spotify.com/track/2n9JkcdNp7pFviL0qdmmuH) | [Thomas Gauthier](https://open.spotify.com/artist/1o1lGge9gBLbaWPQ6QncqQ) | [Choker](https://open.spotify.com/album/795cwI0M8cjrFb86T2dcqf) | 3:13 | 2022-05-27 | 2022-06-11 |
 | [Chorale](https://open.spotify.com/track/5tss9uEnYDuHGK6Dkc0HII) | [Olivier Lessard](https://open.spotify.com/artist/475de0iJKSQa7PebOU27Lk) | [Chorale](https://open.spotify.com/album/5g10y4j8zX5zpqPapVwjzA) | 3:16 | 2022-04-29 | 2022-05-14 |
+| [Choré](https://open.spotify.com/track/2J6iYDncej8Z1vOiisz7zN) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Choré](https://open.spotify.com/album/2RRwrVWsZeNCTq6y3ORp20) | 3:00 | 2024-07-20 |  |
 | [Chrome](https://open.spotify.com/track/4td35NZotdGMJtFhCkZ4jh) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Chrome](https://open.spotify.com/album/4sDZK3v11y3o90np32XcJS) | 2:49 | 2023-02-24 | 2023-03-11 |
 | [Chrome Hearts](https://open.spotify.com/track/6OhaunEHa10FjmOMFuxy38) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Hiver à Paris](https://open.spotify.com/album/6dgmwFp2mMEhTmOJ32vDPA) | 2:49 | 2022-11-11 | 2022-12-03 |
 | [Chu faite comme ça](https://open.spotify.com/track/74ZR7MgLLDULPnB3xCbYUT) | [Jace](https://open.spotify.com/artist/7KCD5IGwoH8rY19DZnOHpO), [Ced Auger](https://open.spotify.com/artist/64wJH22II7dGiPX2c8ClZk) | [Chu faite comme ça](https://open.spotify.com/album/0ErQTTS9PPDy1MpYBADy1R) | 2:21 | 2022-08-26 | 2022-09-10 |
@@ -646,6 +647,7 @@
 | [Donne\-moi](https://open.spotify.com/track/4uaTB9fYcJShbCkqMzddnp) | [J4DE](https://open.spotify.com/artist/65ybHpIX6Enoe6RRrpgyqX) | [Donne\-moi](https://open.spotify.com/album/6yub9z8Lbnn5z20018oLHa) | 2:44 | 2022-06-10 | 2022-06-18 |
 | [Donne\-moi tout](https://open.spotify.com/track/3p2F9SRs390U4dOp3siAcF) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [Donne\-moi tout](https://open.spotify.com/album/7qvR4RsNKAzIX4c0C4IBOz) | 4:21 | 2023-02-24 | 2023-03-11 |
 | [Doom](https://open.spotify.com/track/2Wx68wiDmnjd97UdWq9qia) | [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP) | [Sul Cadran](https://open.spotify.com/album/5uLvNRaVm518IWRcotKuY8) | 2:34 | 2021-12-31 | 2022-01-22 |
+| [Dopamine](https://open.spotify.com/track/21Ctmv1xIMNqEaJeZCYITE) | [Olivier Dion](https://open.spotify.com/artist/0PruFnhaNaqZRPJO1s73Em) | [Dopamine](https://open.spotify.com/album/1vo1KYEtI5p0nu7ALn8U6E) | 2:10 | 2024-07-20 |  |
 | [dopamine \- Version Française](https://open.spotify.com/track/4B6eD1nzrz6PNOLMgtT7VX) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [dopamine](https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3) | 2:45 | 2023-04-21 | 2023-06-03 |
 | [Dormir dans l'auto](https://open.spotify.com/track/6YeU90UGMd5pOapVHBXF1Q) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Dormir dans l'auto](https://open.spotify.com/album/38XYlSUWPXP5g0YiFqnsEl) | 3:28 | 2022-09-23 | 2022-10-08 |
 | [Dormir sur ton couch \- Live](https://open.spotify.com/track/5BNlRMITpOxM4FJlthEc0f) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Live au Quai des Brumes](https://open.spotify.com/album/0aLzx2qpouIRJaIbXuR3BM) | 3:43 | 2022-05-20 | 2022-05-28 |
@@ -1248,7 +1250,7 @@
 | [La couleur du vent](https://open.spotify.com/track/6nfD0dsDhOePkShWpABOKh) | [Tire Le Coyote](https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku) | [Au premier tour de l'évidence](https://open.spotify.com/album/5ZGmH9Byd2dddSLWZbHLL8) | 3:49 | 2022-02-11 | 2022-02-26 |
 | [La Cour des Miracles](https://open.spotify.com/track/4zlNiZt4UyHd6KWvGlWQXQ) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [La Cour des Miracles](https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql) | 3:10 | 2024-02-02 | 2024-04-13 |
 | [La course ou la vie](https://open.spotify.com/track/72lMVBBmE7duYmsF1SpHny) | [Vilain Pingouin](https://open.spotify.com/artist/7lS2jO7gRXSOtMYlhfjtbi), [Polo](https://open.spotify.com/artist/2ms9ObpCtg7f0UyZJOikSW) | [La course ou la vie](https://open.spotify.com/album/2mysaFAd6HtnTEJkmndR2a) | 3:27 | 2022-10-07 | 2022-10-22 |
-| [La Différence](https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [RECOMMENCE\-MOI](https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu) | 4:32 | 2024-05-31 |  |
+| [La Différence](https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [RECOMMENCE\-MOI](https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu) | 4:32 | 2024-05-31 | 2024-07-21 |
 | [La faille](https://open.spotify.com/track/3K7NtnyDx90mw7tq6dFIRD) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3) | [La faille](https://open.spotify.com/album/60Mk9xTw6x9DfmJ8Mjlaxl) | 3:17 | 2023-10-13 | 2023-10-21 |
 | [La faute](https://open.spotify.com/track/6UKQBUkXOe2ifFhJgOVpto) | [Bronswick](https://open.spotify.com/artist/4mPApT3WY8A04ZnQOS30BL) | [Entre mes insomnies](https://open.spotify.com/album/1Uj24O9gW9E8Sm5qGlTiC4) | 3:29 | 2022-04-29 | 2022-05-14 |
 | [La fessée](https://open.spotify.com/track/58yY0A77OhfNWhTJ6wyWW1) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [La fessée](https://open.spotify.com/album/0TXhfvemA79THgrX4Jcwet) | 3:57 | 2023-10-27 | 2023-11-11 |
@@ -2196,7 +2198,7 @@
 | [Sensualité](https://open.spotify.com/track/1Alkj28p7nCXl55sgl1AHD) | [julien charbonneau](https://open.spotify.com/artist/12JcVQ0h95M307VbxBtcwI) | [Star Académie 2022](https://open.spotify.com/album/3TvQmrQtM1bo233j3zXUZK) | 4:49 | 2022-04-01 | 2022-04-16 |
 | [Sentencé](https://open.spotify.com/track/3n9VHoMlVJvotkaXLFNqA2) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Sentencé](https://open.spotify.com/album/0A8VTHR0FqyOwGeiaiuMc7) | 3:32 | 2022-05-13 | 2022-05-28 |
 | [Sentimental](https://open.spotify.com/track/2X2h4pcHtGwCIsjzAngY7t) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Sentimental](https://open.spotify.com/album/3YNeiNBJjIAznSmjIp1Mjd) | 2:56 | 2022-08-19 | 2022-09-03 |
-| [Sentiments](https://open.spotify.com/track/6kjduA3AGvdjArQrIt9tMx) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Sentiments](https://open.spotify.com/album/3Srh7pQ9Y2eUjSxwmByWN1) | 2:37 | 2024-05-31 |  |
+| [Sentiments](https://open.spotify.com/track/6kjduA3AGvdjArQrIt9tMx) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Sentiments](https://open.spotify.com/album/3Srh7pQ9Y2eUjSxwmByWN1) | 2:37 | 2024-05-31 | 2024-07-21 |
 | [Sentiments nouveaux](https://open.spotify.com/track/5Gf05sJ1T2JPaclXS1GK71) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Sentiments nouveaux](https://open.spotify.com/album/3mgWiKYNpcaaESQCp8SKqH) | 3:33 | 2023-03-03 | 2023-03-18 |
 | [Sentinelle sur l'échafaud](https://open.spotify.com/track/1ri9UFpW11x5XeFf4VQ2CZ) | [Julien Sagot](https://open.spotify.com/artist/5xzKAqikd9zZs4uiTRAGWt) | [Sentinelle sur l'échafaud](https://open.spotify.com/album/5GD1RcouhXGWLvLqQq6t0D) | 5:21 | 2022-09-23 | 2022-10-01 |
 | [Serpent & Échelle](https://open.spotify.com/track/2MzCbFlcQ8npw83nPFtt5Q) | [Tristan Guay](https://open.spotify.com/artist/0Bi9l2FyMlGmNQ4xKUcJYU) | [Serpent & Échelle](https://open.spotify.com/album/0c3NiMb6feLMn96pHhPxwX) | 3:50 | 2023-03-17 | 2023-03-25 |

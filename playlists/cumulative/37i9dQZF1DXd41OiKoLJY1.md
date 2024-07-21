@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Jem\. Artwork: Isu Kim
 
-2,544 songs - 6 day 5 hr 42 min
+2,545 songs - 6 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -645,7 +645,7 @@
 | [Everyone's Just Trying To Survive](https://open.spotify.com/track/6Ei5E8Y1DFGW6mvlbAdb01) | [Wicked Adobo](https://open.spotify.com/artist/3Z8kNkPtwHdbq8CkfPIaLp), [Silverfilter](https://open.spotify.com/artist/0mELhHNNwatIgE5tFTcoHA) | [Everyone's Just Trying To Survive](https://open.spotify.com/album/23mi1uAoIF7sQIgoDubJOe) | 4:08 | 2022-03-03 | 2022-04-01 |
 | [Everything](https://open.spotify.com/track/6CMm84EhAwHwloz6dAi7wO) | [KRT](https://open.spotify.com/artist/5VZjChYDtaSkKRkXpymYHF), [Ric](https://open.spotify.com/artist/2bO0YGDJ1fW8XEg6Vzcxm2) | [Everything](https://open.spotify.com/album/2fGdfWaaeclkWCawdUYlsR) | 2:33 | 2022-02-10 | 2022-04-01 |
 | [Everything Is Meaningless](https://open.spotify.com/track/6Np8bnukg8UW161IVKIzb8) | [Franciskoe](https://open.spotify.com/artist/73s6RRWrA8DakmvmS4o8ae) | [Everything Is Meaningless](https://open.spotify.com/album/2xnmPAfUr7Nf7niBDwQ9E6) | 3:16 | 2022-10-13 | 2023-02-10 |
-| [EVIL EYE \(with DMC\)](https://open.spotify.com/track/3awS1XfBGQ1qMSUc0kYHlz) | [Figo](https://open.spotify.com/artist/0BVfgdAkJOnrpoFl2bKkQM), [DMC](https://open.spotify.com/artist/32M61LDNxZZYSVW8GkyDoD) | [EVIL EYE \(feat\. DMC\)](https://open.spotify.com/album/3V2cebGFofClkv6hhsT31D) | 2:43 | 2024-07-18 |  |
+| [EVIL EYE \(feat\. DMC\)](https://open.spotify.com/track/3awS1XfBGQ1qMSUc0kYHlz) | [Figo](https://open.spotify.com/artist/0BVfgdAkJOnrpoFl2bKkQM), [DMC](https://open.spotify.com/artist/32M61LDNxZZYSVW8GkyDoD) | [EVIL EYE \(feat\. DMC\)](https://open.spotify.com/album/3V2cebGFofClkv6hhsT31D) | 2:43 | 2024-07-18 |  |
 | [Ew](https://open.spotify.com/track/3rUoEI7rTXyaM8f1ZEaEfd) | [Eliza Marie](https://open.spotify.com/artist/2J15J7lLY74L3uG6mvPVnc) | [Ew](https://open.spotify.com/album/3j0YWZVYN3ujIWVIzXujuf) | 3:00 | 2024-02-15 | 2024-03-15 |
 | [EXIT](https://open.spotify.com/track/0mp3et9FYwPgShtpIFhVcs) | [Pink Trash Project](https://open.spotify.com/artist/4YmeeA5wy3hUMdN2bA1pVf) | [EXIT](https://open.spotify.com/album/64Byx233u7ky6GbMswZzbB) | 3:28 | 2023-03-02 | 2024-01-12 |
 | [EZPZ](https://open.spotify.com/track/5L9Pkf47stktbxBncgmk5p) | [Aurelius](https://open.spotify.com/artist/4HbX5Lopc0KOdxLRdeWRai) | [EZPZ](https://open.spotify.com/album/0WxmtWbgzN87aSCwNXOrrk) | 2:57 | 2022-08-19 | 2022-09-09 |
@@ -950,6 +950,7 @@
 | [House That We Built](https://open.spotify.com/track/0BEOVXDDWCAqysLpc0mdi6) | [Jiji](https://open.spotify.com/artist/0lnA5vYJqi9LAdOcmpmmw3) | [House That We Built](https://open.spotify.com/album/1KZnMlWoK8uusYfXo1Cutw) | 2:57 | 2023-02-16 | 2023-03-03 |
 | [how could it be](https://open.spotify.com/track/2fbuZc8ms9dRnKa8TgIrHW) | [Shan Capri](https://open.spotify.com/artist/2v6cSFZEDYoO3C9dAODVjr) | [how could it be](https://open.spotify.com/album/4RuBUy4SQ0EMVwUYcq47bY) | 3:42 | 2023-11-02 | 2023-12-09 |
 | [How I Feel](https://open.spotify.com/track/2Z8GaLWB3eOIG8Jtal74Ch) | [Jrxme](https://open.spotify.com/artist/08rpVm7QVoQQhXWAirxqv3) | [How I Feel](https://open.spotify.com/album/52iKbiiDD7bGDvFXvkVzod) | 3:17 | 2023-03-23 | 2023-04-14 |
+| [How's My Baby?](https://open.spotify.com/track/23gcyYmsBGOz0yywkIF6YY) | [Mis Margo](https://open.spotify.com/artist/532fVvn7ygaiz312K9VeBr) | [How's My Baby?](https://open.spotify.com/album/0YVXAAb02weMSuGA3rzD8x) | 3:50 | 2024-07-18 |  |
 | [HOW2RAGE](https://open.spotify.com/track/5HTagkZZOZRUCF9JJ4CHXH) | [Jnuzh](https://open.spotify.com/artist/7HyJFrpVIEYmf2tRMVU8hk), [VVNILLA](https://open.spotify.com/artist/77GOFfG6ibHi4EHpJkvUU7) | [HOW2RAGE](https://open.spotify.com/album/356wzEeKWt19nAZnp8GWGg) | 1:52 | 2024-02-29 | 2024-04-05 |
 | [HOY EX!](https://open.spotify.com/track/6HBbw3lpQyZVKa6O7VF5pv) | [Niño Vasquez](https://open.spotify.com/artist/6oyhXZ7eZsXKakCcCVS18y) | [HOY EX!](https://open.spotify.com/album/3OfK6PYVI9ZEXCYj1rMQaE) | 2:24 | 2023-07-27 | 2023-08-18 |
 | [HP](https://open.spotify.com/track/2RauOx8IDxZQGYm2hECZsv) | [Drae Tutor](https://open.spotify.com/artist/3ZsOt9KwtGeRzXdatiJQjR), [Walter](https://open.spotify.com/artist/3fZzHVClrvFlHazfc05rGx) | [HP](https://open.spotify.com/album/5dRVpHi0pOMLsZQLogvLgH) | 2:41 | 2023-07-13 | 2023-07-28 |

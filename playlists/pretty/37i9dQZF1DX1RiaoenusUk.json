@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 27436,
+  "num_followers": 27445,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,38 @@
     {
       "added_at": "2024-07-11 23:40:44",
       "album": {
+        "name": "Musica Pa'l Mundo",
+        "url": "https://open.spotify.com/album/1fFE1eKtIxh4ILklmzLoiv"
+      },
+      "artists": [
+        {
+          "name": "De Kiruza",
+          "url": "https://open.spotify.com/artist/4xH9kppPFTwGTtty82ZDfX"
+        }
+      ],
+      "duration_ms": 293013,
+      "name": "Liviano Como el Viento",
+      "url": "https://open.spotify.com/track/3rtUCQlFu2MUoiqiLB4tGR"
+    },
+    {
+      "added_at": "2024-07-11 23:40:44",
+      "album": {
+        "name": "Groovin' Bohemia",
+        "url": "https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI"
+      },
+      "artists": [
+        {
+          "name": "Groovin' Bohemia",
+          "url": "https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1"
+        }
+      ],
+      "duration_ms": 445089,
+      "name": "Ameba",
+      "url": "https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe"
+    },
+    {
+      "added_at": "2024-07-11 23:40:44",
+      "album": {
         "name": "One Night",
         "url": "https://open.spotify.com/album/7pxArAvPLT49D1pujkSm9P"
       },
@@ -679,38 +711,6 @@
       "duration_ms": 178000,
       "name": "Debilidad",
       "url": "https://open.spotify.com/track/382BrveYviOFjqpqA5d1M2"
-    },
-    {
-      "added_at": "2024-07-11 23:40:44",
-      "album": {
-        "name": "Musica Pa'l Mundo",
-        "url": "https://open.spotify.com/album/1fFE1eKtIxh4ILklmzLoiv"
-      },
-      "artists": [
-        {
-          "name": "De Kiruza",
-          "url": "https://open.spotify.com/artist/4xH9kppPFTwGTtty82ZDfX"
-        }
-      ],
-      "duration_ms": 293013,
-      "name": "Liviano Como el Viento",
-      "url": "https://open.spotify.com/track/3rtUCQlFu2MUoiqiLB4tGR"
-    },
-    {
-      "added_at": "2024-07-11 23:40:44",
-      "album": {
-        "name": "Groovin' Bohemia",
-        "url": "https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI"
-      },
-      "artists": [
-        {
-          "name": "Groovin' Bohemia",
-          "url": "https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1"
-        }
-      ],
-      "duration_ms": 445089,
-      "name": "Ameba",
-      "url": "https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe"
     },
     {
       "added_at": "2024-07-11 23:40:44",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-07-11 23:40:44",
       "album": {
+        "name": "Chicas on Fire - Single",
+        "url": "https://open.spotify.com/album/19hyihRj65Z9jPhBAXaErH"
+      },
+      "artists": [
+        {
+          "name": "Shocklenders",
+          "url": "https://open.spotify.com/artist/45F0w3u4aSG89gClIx4QIR"
+        }
+      ],
+      "duration_ms": 240085,
+      "name": "Chicas on Fire",
+      "url": "https://open.spotify.com/track/1OJTHnR95k4N0mNfYYkoFB"
+    },
+    {
+      "added_at": "2024-07-11 23:40:44",
+      "album": {
         "name": "Afromama Jams",
         "url": "https://open.spotify.com/album/5eLwYeM4bFzNhPiIPC4FiC"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 183651,
       "name": "Afromama Jams",
       "url": "https://open.spotify.com/track/1tf8i6ceZQkUSi5LhNXG2q"
-    },
-    {
-      "added_at": "2024-07-11 23:40:44",
-      "album": {
-        "name": "Chicas on Fire - Single",
-        "url": "https://open.spotify.com/album/19hyihRj65Z9jPhBAXaErH"
-      },
-      "artists": [
-        {
-          "name": "Shocklenders",
-          "url": "https://open.spotify.com/artist/45F0w3u4aSG89gClIx4QIR"
-        }
-      ],
-      "duration_ms": 240085,
-      "name": "Chicas on Fire",
-      "url": "https://open.spotify.com/track/1OJTHnR95k4N0mNfYYkoFB"
     },
     {
       "added_at": "2024-07-11 23:40:44",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-07-11 23:40:44",
       "album": {
+        "name": "Solo por Hoy",
+        "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
+      },
+      "artists": [
+        {
+          "name": "Flor Lovaglio",
+          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
+        }
+      ],
+      "duration_ms": 210566,
+      "name": "Solo por Hoy",
+      "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
+    },
+    {
+      "added_at": "2024-07-11 23:40:44",
+      "album": {
         "name": "Twice",
         "url": "https://open.spotify.com/album/6oTWq9X9mmzBoamr5Q9527"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 216249,
       "name": "Twice",
       "url": "https://open.spotify.com/track/3VKdesoESiJOCohefJctj3"
-    },
-    {
-      "added_at": "2024-07-11 23:40:44",
-      "album": {
-        "name": "Solo por Hoy",
-        "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
-      },
-      "artists": [
-        {
-          "name": "Flor Lovaglio",
-          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
-        }
-      ],
-      "duration_ms": 210566,
-      "name": "Solo por Hoy",
-      "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
     },
     {
       "added_at": "2024-07-11 23:40:44",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-07-11 23:40:44",
       "album": {
+        "name": "Ando Buscando",
+        "url": "https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1"
+      },
+      "artists": [
+        {
+          "name": "Flor Lovaglio",
+          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
+        }
+      ],
+      "duration_ms": 206142,
+      "name": "Ando Buscando",
+      "url": "https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk"
+    },
+    {
+      "added_at": "2024-07-11 23:40:44",
+      "album": {
         "name": "7 Am",
         "url": "https://open.spotify.com/album/18Gy6Xx7OqnlKksIerzJQN"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 210796,
       "name": "Selva",
       "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
-    },
-    {
-      "added_at": "2024-07-11 23:40:44",
-      "album": {
-        "name": "Ando Buscando",
-        "url": "https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1"
-      },
-      "artists": [
-        {
-          "name": "Flor Lovaglio",
-          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
-        }
-      ],
-      "duration_ms": 206142,
-      "name": "Ando Buscando",
-      "url": "https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk"
     },
     {
       "added_at": "2024-07-11 23:40:44",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-07-11 23:40:44",
       "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/0h3fqfIY7r003GSs1HupSd"
+      },
+      "artists": [
+        {
+          "name": "Ania Ivania",
+          "url": "https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb"
+        }
+      ],
+      "duration_ms": 227822,
+      "name": "Carin\u0303oso Calificativo",
+      "url": "https://open.spotify.com/track/0gWiGSQNQpfSt4zFIdkIYU"
+    },
+    {
+      "added_at": "2024-07-11 23:40:44",
+      "album": {
         "name": "Contra la Corriente",
         "url": "https://open.spotify.com/album/4BDKn8HX52PP61H4GcZODY"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 175957,
       "name": "Contra la Corriente",
       "url": "https://open.spotify.com/track/1GltPY9or2DUMLAZIIFyno"
-    },
-    {
-      "added_at": "2024-07-11 23:40:44",
-      "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/0h3fqfIY7r003GSs1HupSd"
-      },
-      "artists": [
-        {
-          "name": "Ania Ivania",
-          "url": "https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb"
-        }
-      ],
-      "duration_ms": 227822,
-      "name": "Carin\u0303oso Calificativo",
-      "url": "https://open.spotify.com/track/0gWiGSQNQpfSt4zFIdkIYU"
     },
     {
       "added_at": "2024-07-11 23:40:44",

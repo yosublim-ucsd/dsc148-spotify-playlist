@@ -1,6 +1,6 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 468198,
+  "num_followers": 468274,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 367362,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "RITUAL (palace)",
         "url": "https://open.spotify.com/album/6nO37jTIWGvANeK8VQtz2U"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 355488,
       "name": "RITUAL (palace)",
       "url": "https://open.spotify.com/track/23glDLdns3JnzpaFdY8eH8"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 367362,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -507,18 +507,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Alone Together",
-        "url": "https://open.spotify.com/album/6EUF2ofzBAtVWQW2fUWzsN"
+        "name": "SETRA",
+        "url": "https://open.spotify.com/album/3Gs41oQERljW26cLyr3YG4"
       },
       "artists": [
         {
-          "name": "Viken Arman",
-          "url": "https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK"
+          "name": "Nokiaa",
+          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
+        },
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
         }
       ],
-      "duration_ms": 164878,
-      "name": "You With Me",
-      "url": "https://open.spotify.com/track/4MgyEN8kWjh6ARc67pjcLL"
+      "duration_ms": 128571,
+      "name": "Setra",
+      "url": "https://open.spotify.com/track/4L3YA6fhW1IBGCw1ZnPNIu"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -539,22 +543,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "SETRA",
-        "url": "https://open.spotify.com/album/3Gs41oQERljW26cLyr3YG4"
+        "name": "Alone Together",
+        "url": "https://open.spotify.com/album/6EUF2ofzBAtVWQW2fUWzsN"
       },
       "artists": [
         {
-          "name": "Nokiaa",
-          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
-        },
-        {
-          "name": "Glimlip",
-          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+          "name": "Viken Arman",
+          "url": "https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK"
         }
       ],
-      "duration_ms": 128571,
-      "name": "Setra",
-      "url": "https://open.spotify.com/track/4L3YA6fhW1IBGCw1ZnPNIu"
+      "duration_ms": 164878,
+      "name": "You With Me",
+      "url": "https://open.spotify.com/track/4MgyEN8kWjh6ARc67pjcLL"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Asakusa Light",
+        "url": "https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3"
+      },
+      "artists": [
+        {
+          "name": "Soichi Terada",
+          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
+        }
+      ],
+      "duration_ms": 271349,
+      "name": "Diving into Minds",
+      "url": "https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Everytime (Girls of the Internet Remix)",
         "url": "https://open.spotify.com/album/00tUn0L1LYxlimWjRsk97P"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 221900,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/4YiAmotbXcIwFkDNRd2tQw"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Asakusa Light",
-        "url": "https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3"
-      },
-      "artists": [
-        {
-          "name": "Soichi Terada",
-          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
-        }
-      ],
-      "duration_ms": 271349,
-      "name": "Diving into Minds",
-      "url": "https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Limb Valley",
-        "url": "https://open.spotify.com/album/1cW1KQEfAhaDUk2MVlc2Gq"
-      },
-      "artists": [
-        {
-          "name": "Al Zanders",
-          "url": "https://open.spotify.com/artist/4udfBn2nJQ6bHoMrr2lKpz"
-        }
-      ],
-      "duration_ms": 450020,
-      "name": "Endcliffe Park",
-      "url": "https://open.spotify.com/track/4Uoy2ySRvBC1jnbj5FfusP"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Alone Girl",
         "url": "https://open.spotify.com/album/4v4E87v7TwXmwdgnceN6F8"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 188852,
       "name": "Alone Girl",
       "url": "https://open.spotify.com/track/2j2clSPCLFbBqNVS6MPR8q"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Limb Valley",
+        "url": "https://open.spotify.com/album/1cW1KQEfAhaDUk2MVlc2Gq"
+      },
+      "artists": [
+        {
+          "name": "Al Zanders",
+          "url": "https://open.spotify.com/artist/4udfBn2nJQ6bHoMrr2lKpz"
+        }
+      ],
+      "duration_ms": 450020,
+      "name": "Endcliffe Park",
+      "url": "https://open.spotify.com/track/4Uoy2ySRvBC1jnbj5FfusP"
     },
     {
       "added_at": "2024-07-12 04:00:00",

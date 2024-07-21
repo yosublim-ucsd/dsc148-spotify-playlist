@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring PAWSA
 
-922 songs - 2 day 6 hr 39 min
+923 songs - 2 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [BUBBLEGUM](https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [BUBBLEGUM](https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe) | 2:28 | 2022-09-16 | 2023-04-09 |
 | [Bucovina 2023](https://open.spotify.com/track/0gCbPAMhtXptfzsUCac5La) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Shantel](https://open.spotify.com/artist/0F8l1raRpXvRCsTrfSVocA) | [Bucovina 2023](https://open.spotify.com/album/6bXo2rgz9XgOZEaSctxNDm) | 3:07 | 2023-09-01 | 2024-01-13 |
 | [Burn This House](https://open.spotify.com/track/5HYOVRe3chMbHoFnGxdxWC) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Burn This House](https://open.spotify.com/album/54p2xfsHK8EbDCSLsEX956) | 3:35 | 2022-05-27 | 2022-07-28 |
-| [Burnin'](https://open.spotify.com/track/55NFZV4mg6VcXvoB0M65d0) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Burnin'](https://open.spotify.com/album/1ZDMO0PcbHNL0Tdx3ysi9U) | 3:10 | 2023-10-20 |  |
+| [Burnin'](https://open.spotify.com/track/55NFZV4mg6VcXvoB0M65d0) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Burnin'](https://open.spotify.com/album/1ZDMO0PcbHNL0Tdx3ysi9U) | 3:10 | 2023-10-20 | 2024-07-21 |
 | [Butterflies \(feat\. Tristan Henry\) \- Biscits Remix](https://open.spotify.com/track/7qY1QnjNuxThxtTz9wMuRo) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [FFLORA](https://open.spotify.com/artist/6H4XYByPbHw4cmWEiyoHPE), [Tristan Henry](https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T), [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Butterflies \(feat\. Tristan Henry\) \[Biscits Remix\]](https://open.spotify.com/album/3h3NhuJpMw8EAksnUJlhuk) | 3:34 | 2021-10-30 | 2022-06-11 |
 | [By My Side \- Edit](https://open.spotify.com/track/2DrOVQdF9Mj0I5mkL4x2xD) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Martin Badder](https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8) | [By My Side \(Edit\)](https://open.spotify.com/album/1LuBDSn3O82u6Nvpj63hhm) | 2:58 | 2021-03-27\* | 2021-07-10 |
 | [California Dreamin' \(feat\. High Jinx\)](https://open.spotify.com/track/4ASOMWcJUrwEpjJy4GEijz) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [High Jinx](https://open.spotify.com/artist/0XFmkmsCbCoR7wlqaZdt64) | [California Dreamin' \(feat\. High Jinx\)](https://open.spotify.com/album/4QNJtrJyZlV4CMzvQqPcjW) | 3:16 | 2021-10-16 | 2023-11-18 |
@@ -701,6 +701,7 @@
 | [Saving Grace](https://open.spotify.com/track/2E7BbDuEdhPuOvomfdjuqt) | [MoMa Ready](https://open.spotify.com/artist/5X6LaznpXYDwhSt5eirvRV) | [HAUS Psychology](https://open.spotify.com/album/2Z5zloAArJs9EwzExaSysu) | 4:40 | 2021-03-27\* | 2021-05-15 |
 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 | 2023-10-06 |  |
 | [Say It To My Face](https://open.spotify.com/track/2Y7str4JalVvAAFcKALeyl) | [Melissa Pools](https://open.spotify.com/artist/3ZKTIDG2YvVYr9EogB9KpW), [Axel North](https://open.spotify.com/artist/3R6uxVGkeyvGM6i9Dipr7h) | [Say It To My Face](https://open.spotify.com/album/7paSCVBfktpNZjGfIHBKp9) | 2:12 | 2023-10-20 | 2024-03-02 |
+| [See You Sweat](https://open.spotify.com/track/0sC4CNFI8FdKJUDuYPdDiw) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [See You Sweat](https://open.spotify.com/album/4AUlxBbuEVzK645RFnaD4i) | 3:29 | 2024-07-19 |  |
 | [Seismic](https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Fly With Us](https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL) | [Seismic](https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ) | 3:28 | 2024-01-26 | 2024-06-08 |
 | [Set Me Free](https://open.spotify.com/track/5zA3gMIFlgnhNQj39GcTqE) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Set Me Free](https://open.spotify.com/album/2SR6UldibmBVT6te65lEuI) | 3:00 | 2023-02-17 | 2023-08-12 |
 | [Set Me Free](https://open.spotify.com/track/0mlT36UaCBdLk3eWBf1xP2) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Set Me Free](https://open.spotify.com/album/7IVvaU7Jcv9fikTipL141a) | 2:37 | 2023-09-01 | 2023-11-14 |

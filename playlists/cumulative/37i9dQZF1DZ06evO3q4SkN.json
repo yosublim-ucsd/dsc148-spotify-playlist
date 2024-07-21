@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "The Mother (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2024-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132080,
+      "name": "Ancient Pickup Truck",
+      "url": "https://open.spotify.com/track/18DRgjjcKxzN7QY7J79VQu"
+    },
+    {
+      "album": {
         "name": "Dora and the Lost City of Gold (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p"
       },
@@ -428,7 +446,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 85720,
       "name": "Castleland Adventure",
       "url": "https://open.spotify.com/track/0ZDGnFayzMpiKryD0I7VOw"
@@ -554,7 +572,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 380626,
       "name": "Depths Of Winter",
       "url": "https://open.spotify.com/track/6SJL0oAYUxvF3yYH8NGlU9"
@@ -920,7 +938,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 67600,
       "name": "Giant Sea Turtle",
       "url": "https://open.spotify.com/track/3bkJr6YU7AfHUwCsg0yYa4"
@@ -956,7 +974,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 129973,
       "name": "Ginny's Home",
       "url": "https://open.spotify.com/track/3LZEdjxVerAfGds8a2ddJW"
@@ -1390,7 +1408,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 102600,
       "name": "Mother To Mother",
       "url": "https://open.spotify.com/track/0PCLZXHh7EiqzaL5kwYoPX"
@@ -1590,7 +1608,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 70600,
       "name": "Royal Barge Disaster",
       "url": "https://open.spotify.com/track/6fmRBaYCK3bUKUgQozL9fw"
@@ -1778,7 +1796,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 124973,
       "name": "Spring Passes Into Summer",
       "url": "https://open.spotify.com/track/3Q2dB7nmnKkaEjU9gtTPw4"

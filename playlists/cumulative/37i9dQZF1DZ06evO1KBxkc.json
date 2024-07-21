@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-19",
-  "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
+  "description": "This Is A Boogie Wit da Hoodie. Los temas esenciales, todos en una lista.",
   "name": "This Is A Boogie Wit da Hoodie",
   "tracks": [
     {
@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 156511,
       "name": "Come Closer (feat. Queen Naija)",
       "url": "https://open.spotify.com/track/3UhRsQVrELOATEiY7E9X2T"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 214592,
       "name": "Demons and Angels (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/3L19besdNQzd342qL78xqm"
@@ -546,7 +546,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 209269,
       "name": "Drowning (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI"
@@ -620,7 +620,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 158994,
       "name": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/0HLhptvI8NozbOHRLNniFz"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 161120,
       "name": "Foreigner (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/7AdTyfK7fnvUYbUCGpWqUf"
@@ -726,6 +726,28 @@
       "duration_ms": 235776,
       "name": "Friend Zone",
       "url": "https://open.spotify.com/track/3W0Fvft7V7MtSftTrC8MSQ"
+    },
+    {
+      "album": {
+        "name": "Friendly",
+        "url": "https://open.spotify.com/album/1DyMr2lzHwRu3n9Z6CILeK"
+      },
+      "artists": [
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2024-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159903,
+      "name": "Friendly",
+      "url": "https://open.spotify.com/track/24rugivInJ0ZVcMHsyl8CN"
     },
     {
       "album": {
@@ -934,7 +956,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 135017,
       "name": "It's Crazy (feat. Melody)",
       "url": "https://open.spotify.com/track/43KDvvVHjDBtx8qD5hs5qH"
@@ -952,7 +974,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 174192,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/5uZm7EFtP5aoTJvx5gv9Xf"
@@ -1026,7 +1048,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 151914,
       "name": "KEKE",
       "url": "https://open.spotify.com/track/7ELPiYjcp2DjvbrKdqcAx1"
@@ -1150,7 +1172,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 157862,
       "name": "Love Drugs and Sex",
       "url": "https://open.spotify.com/track/1Gno5IBUHh6vUKp4nxu2Yd"
@@ -1186,7 +1208,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 161764,
       "name": "Me and My Guitar",
       "url": "https://open.spotify.com/track/6cZH4rX1KTt1aJ3Ql6Ynja"
@@ -1324,7 +1346,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 128156,
       "name": "My Shit",
       "url": "https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw"
@@ -1890,7 +1912,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 192779,
       "name": "Startender (feat. Offset and Tyga)",
       "url": "https://open.spotify.com/track/0jAfdqv18goRTUxm3ilRjb"
@@ -1948,7 +1970,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 143493,
       "name": "Stretch You Out (feat. A Boogie wit da Hoodie)",
       "url": "https://open.spotify.com/track/4Qxn47gWPSucovKrMyRf1z"
@@ -2054,7 +2076,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 185806,
       "name": "Tip Toe (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/6ztvsy3C6hPjVg9j4x1XKJ"

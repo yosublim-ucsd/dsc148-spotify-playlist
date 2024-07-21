@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Lamb of God on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,506,592 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,506,774 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 30 | [Lost in the Dark](https://open.spotify.com/track/29icHp3xGk5PGfzPSKsXrg) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Lost in the Dark](https://open.spotify.com/album/40jVhBsza03byS968oOfi3) | 3:18 |
 | 31 | [The Cave We Fear to Enter](https://open.spotify.com/track/1ZMDs14YVVl7dwcZk5C1Se) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [The Cave We Fear To Enter](https://open.spotify.com/album/17NEYsWWUrE1vhgPzS11n6) | 5:07 |
 | 32 | [Tabula Rasa](https://open.spotify.com/track/7j8rM6qmKanhiaogz5EG1Y) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [HYPERVIOLENCE](https://open.spotify.com/album/45dtTykdSpSunaRsONUYqX) | 3:04 |
-| 33 | [Paralyzed \(feat\. Attack Attack!\)](https://open.spotify.com/track/2og0nXCxECL4AfuYMwh2ga) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc), [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Paralyzed \(feat\. Attack Attack!\)](https://open.spotify.com/album/238QCuqkflGRVqbJJ2rL9R) | 3:32 |
+| 33 | [Paralyzed \(feat\. Attack Attack!\)](https://open.spotify.com/track/2og0nXCxECL4AfuYMwh2ga) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc), [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Paralyzed](https://open.spotify.com/album/238QCuqkflGRVqbJJ2rL9R) | 3:32 |
 | 34 | [The Flood \(ǝɔᴉʇsnɾ\)](https://open.spotify.com/track/2KKH6FyUo1h6Cj2AEtukjR) | [In Hearts Wake](https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N), [Winston McCall](https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO) | [Incarnation](https://open.spotify.com/album/7tbIYPZtSjE02oMgCiJuoK) | 3:10 |
 | 35 | [Kid Of Darkness](https://open.spotify.com/track/6jfdoFizeyEAJ30BNHjVq7) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Kid Of Darkness](https://open.spotify.com/album/7nSuVfuuJObHowL6DL8SlH) | 4:25 |
 | 36 | [Screaming Suicide](https://open.spotify.com/track/2hBn08QphNtdnhwDNtnZMg) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 5:30 |

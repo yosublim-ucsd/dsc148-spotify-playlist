@@ -1,6 +1,6 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 37755,
+  "num_followers": 37774,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Dog Days",
+        "url": "https://open.spotify.com/album/05CHTnmUe3df2YJyJGvRA8"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 223631,
+      "name": "Dog Days",
+      "url": "https://open.spotify.com/track/0Uk6JcLoMOKwIP9Qkg1z4q"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Rizzla (Mochakk Remix)",
         "url": "https://open.spotify.com/album/2blv3hfKbwCQubKJmCoNpw"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 321860,
       "name": "Rizzla - Mochakk Remix",
       "url": "https://open.spotify.com/track/3pE6Hl7fH4sbjmF9p8gzb5"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Dog Days",
-        "url": "https://open.spotify.com/album/05CHTnmUe3df2YJyJGvRA8"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 223631,
-      "name": "Dog Days",
-      "url": "https://open.spotify.com/track/0Uk6JcLoMOKwIP9Qkg1z4q"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/4WvVSOcxkJLk56Rkn2sKyN"
-      },
-      "artists": [
-        {
-          "name": "Silvie Loto",
-          "url": "https://open.spotify.com/artist/79pt77aQRjnLUoKOGUi7Um"
-        }
-      ],
-      "duration_ms": 308636,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/5FLeEuEPsnTadO4jbKb34E"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Provenance",
         "url": "https://open.spotify.com/album/1NyCHXjwjEBTLlJHUrtECk"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 401250,
       "name": "Provenance",
       "url": "https://open.spotify.com/track/1Rbrm7ozBLd32dTyhikJhu"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/4WvVSOcxkJLk56Rkn2sKyN"
+      },
+      "artists": [
+        {
+          "name": "Silvie Loto",
+          "url": "https://open.spotify.com/artist/79pt77aQRjnLUoKOGUi7Um"
+        }
+      ],
+      "duration_ms": 308636,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/5FLeEuEPsnTadO4jbKb34E"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Supermodel Thick",
+        "url": "https://open.spotify.com/album/1WBrocFNoWaAwV1n7y4UTo"
+      },
+      "artists": [
+        {
+          "name": "Jho Roscioli",
+          "url": "https://open.spotify.com/artist/1YyeTuJ8IrPSpPiZMq0rhH"
+        }
+      ],
+      "duration_ms": 326357,
+      "name": "Supermodel Thick",
+      "url": "https://open.spotify.com/track/4czwcLS8x96vBcCDAFBeKv"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "You Can Forever Be",
         "url": "https://open.spotify.com/album/6rbZRt3dlMT8wAHIoxz7DV"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 376875,
       "name": "You Can Forever Be",
       "url": "https://open.spotify.com/track/6JAQXmvq7Ry0DhMYfRIJze"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Supermodel Thick",
-        "url": "https://open.spotify.com/album/1WBrocFNoWaAwV1n7y4UTo"
-      },
-      "artists": [
-        {
-          "name": "Jho Roscioli",
-          "url": "https://open.spotify.com/artist/1YyeTuJ8IrPSpPiZMq0rhH"
-        }
-      ],
-      "duration_ms": 326357,
-      "name": "Supermodel Thick",
-      "url": "https://open.spotify.com/track/4czwcLS8x96vBcCDAFBeKv"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Fakez",
-        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Fakez",
-      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "So Far So Good",
         "url": "https://open.spotify.com/album/5xgM97vD71r0gHCCcRZj11"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 162914,
       "name": "So Far So Good",
       "url": "https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Fakez",
+        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Fakez",
+      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Nobody Else",
-        "url": "https://open.spotify.com/album/2dAboPtSUPEeEiKqHmRdIm"
-      },
-      "artists": [
-        {
-          "name": "Jack Orley",
-          "url": "https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j"
-        }
-      ],
-      "duration_ms": 186299,
-      "name": "Nobody Else",
-      "url": "https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 388800,
       "name": "Get On The Floor",
       "url": "https://open.spotify.com/track/45JOJ1S8OK78Ce0zX6krvu"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Nobody Else",
+        "url": "https://open.spotify.com/album/2dAboPtSUPEeEiKqHmRdIm"
+      },
+      "artists": [
+        {
+          "name": "Jack Orley",
+          "url": "https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j"
+        }
+      ],
+      "duration_ms": 186299,
+      "name": "Nobody Else",
+      "url": "https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "YAP EP",
+        "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
+      },
+      "artists": [
+        {
+          "name": "Kollektiv Turmstrasse",
+          "url": "https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N"
+        }
+      ],
+      "duration_ms": 246474,
+      "name": "YAP",
+      "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "You\u00b4re So Just Just",
         "url": "https://open.spotify.com/album/3x4oMcvGVAT0Eomho0KAGX"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 417300,
       "name": "You're So Just Just - Seth Troxler x Ryan Crosson Remix",
       "url": "https://open.spotify.com/track/1rXWi5LOQTes7AHv4JiP1f"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "YAP EP",
-        "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
-      },
-      "artists": [
-        {
-          "name": "Kollektiv Turmstrasse",
-          "url": "https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N"
-        }
-      ],
-      "duration_ms": 246474,
-      "name": "YAP",
-      "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
     },
     {
       "added_at": "2024-07-19 04:00:00",

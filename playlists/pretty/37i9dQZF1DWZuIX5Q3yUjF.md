@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: AINÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,577 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,579 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 2 | [No Me Llames](https://open.spotify.com/track/7qNPXRA4f17HVwrTvSQv54) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J), [aura6am](https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU) | [No Me Llames](https://open.spotify.com/album/049aJ3Z6SANuykZlKsZs06) | 2:24 |
 | 3 | [Runnin'](https://open.spotify.com/track/6PTkjN7w6gRLditOZiydxL) | [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9) | [Runnin'](https://open.spotify.com/album/6Ekg0UHGat8nP7O9oMDLSb) | 3:05 |
 | 4 | [Le Cose](https://open.spotify.com/track/6pYSUBIoiKGKGKNYVtPLLj) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Le Cose](https://open.spotify.com/album/4wimb8jyQFyFETvLlffqmZ) | 2:36 |
-| 5 | [O.G](https://open.spotify.com/track/3ohHzYLKYRmvOIEq5QngJJ) | [Puka Shell's Bling](https://open.spotify.com/artist/1asNZP2giwLI7reZVQUCSu) | [O.G](https://open.spotify.com/album/5tp7jGT8GxNxLHzTc4urFT) | 4:33 |
+| 5 | [O.G.](https://open.spotify.com/track/3ohHzYLKYRmvOIEq5QngJJ) | [Puka Shell's Bling](https://open.spotify.com/artist/1asNZP2giwLI7reZVQUCSu) | [O.G.](https://open.spotify.com/album/5tp7jGT8GxNxLHzTc4urFT) | 4:33 |
 | 6 | [Mambo](https://open.spotify.com/track/1Eslj0XCaVpzPbYBmaol7T) | [Tatum Rush](https://open.spotify.com/artist/47p2js8l70JjDWGS0a1hqr) | [Mambo](https://open.spotify.com/album/4Rf1gy3dHPSQNFhanMHtjp) | 4:05 |
 | 7 | [Lupo Volkswagen](https://open.spotify.com/track/2KKBe1n19PkNbfhGg4DYIA) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 3:05 |
 | 8 | [troppo presto](https://open.spotify.com/track/3VAKgrEdeG9Hyrr2midIgk) | [Lil Markiese](https://open.spotify.com/artist/3raaszvUEmOauJOMrrhg4I) | [troppo presto](https://open.spotify.com/album/0pAfGcmGCRPOvflSiUbeDx) | 2:56 |

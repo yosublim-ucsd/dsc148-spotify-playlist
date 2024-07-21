@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 292,010 likes - 45 songs - 2 hr 24 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 292,000 likes - 45 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 25 | [Abyss](https://open.spotify.com/track/3G5bdVaVsCbQB9NELmOvJ5) | [Megisto](https://open.spotify.com/artist/7I71G5L7KmvTcTcBFUcL1h) | [Abyss](https://open.spotify.com/album/1SIP2J0K5Gd0yfJ1leFkGp) | 2:20 |
 | 26 | [Guess What](https://open.spotify.com/track/6DhrQT1JCGtIk93JDMV68t) | [Summum](https://open.spotify.com/artist/1uHoVy6fKhUB3IO5EyWAMw) | [Guess What](https://open.spotify.com/album/2Fq5udXxfCitd3hbuB5Cn7) | 3:15 |
 | 27 | [She's In The Club \(feat\. Asal\) \- Sonny Fodera Remix](https://open.spotify.com/track/77aH3AxjNt2sOgFfnatV6f) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [She's In The Club \(feat\. Asal\) \[Sonny Fodera Remix\]](https://open.spotify.com/album/7rxdNuGqrW2vmA6T3oEDRB) | 5:15 |
-| 28 | [Down Low \- YDG Remix](https://open.spotify.com/track/20iODoi8eZUC1sBS5C01GF) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx), [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4) | [Down Low \(YDG Remix\)](https://open.spotify.com/album/4OgyJ5Zk7Ucye5ZKupsjhD) | 3:09 |
+| 28 | [Down Low \- YDG Remix](https://open.spotify.com/track/20iODoi8eZUC1sBS5C01GF) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4), [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Down Low \(YDG Remix\)](https://open.spotify.com/album/4OgyJ5Zk7Ucye5ZKupsjhD) | 3:09 |
 | 29 | [Butter](https://open.spotify.com/track/3B7hSnr8orVp9tMF5Nt8we) | [Disco Dom](https://open.spotify.com/artist/3q8DkzC4UfA5lKG1YG4004), [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Inferno \(No\. 2\)](https://open.spotify.com/album/2rY5Z3ismUfHQqxZhZRPFN) | 2:34 |
 | 30 | [Raven \- Torren Foot & Airwolf Paradise Remix](https://open.spotify.com/track/307cEniVE1LUYooSEpiE3J) | [Proxy](https://open.spotify.com/artist/3KOzW9NF2ZGwYRo0KfID1R), [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4), [Airwolf Paradise](https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl) | [Raven \(Torren Foot & Airwolf Paradise Remix\)](https://open.spotify.com/album/0w7JcSRublScXJ05tnqPjy) | 2:14 |
 | 31 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 |

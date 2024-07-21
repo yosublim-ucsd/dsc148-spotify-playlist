@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-717 songs - 1 day 12 hr 16 min
+718 songs - 1 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Beautiful](https://open.spotify.com/track/3yj6Hc5nO7t88CUAss0tHH) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Beautiful](https://open.spotify.com/album/1CWzpNbClW9MWEhKcprnHC) | 2:55 | 2022-01-14 | 2022-11-12 |
 | [Beautiful Life \(feat\. Sandro Cavazza\)](https://open.spotify.com/track/5QdB0HJmTHkPvyJhKfQLM1) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Less Is More](https://open.spotify.com/album/57AJ70IWVE0pmPwNYBa4PT) | 2:41 | 2022-02-18 | 2022-04-21 |
 | [Been A While](https://open.spotify.com/track/4mPOYg53faLL6brBcoZ5T8) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Been A While EP](https://open.spotify.com/album/4uZwvic3uzZeuMQW9jWp2Y) | 2:43 | 2022-01-14 | 2022-04-21 |
+| [Before LA](https://open.spotify.com/track/71dVzENqh6brbKDWRmL5IE) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Before LA](https://open.spotify.com/album/4AkoffQBD7hYtcKwK3WENM) | 2:51 | 2024-07-19 |  |
 | [Before the Sun Sets](https://open.spotify.com/track/7j5IEblPv4Q15WE667AlGb) | [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo), [RED](https://open.spotify.com/artist/6UZK9xlpTAM8dUAiB2Y42b) | [Before the Sun Sets](https://open.spotify.com/album/1abjZNW2kV2pmxsT6jiW5K) | 2:00 | 2022-07-15 |  |
 | [Believe](https://open.spotify.com/track/18atM21acJCu9bH0YCsYG0) | [NORRA](https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7), [lostinspace](https://open.spotify.com/artist/2c43LX3975Nv5hUcntUhMG) | [Believe](https://open.spotify.com/album/3VLYzHg6S1JngbXYapwMF3) | 2:13 | 2022-12-01 |  |
 | [Believer](https://open.spotify.com/track/7LA7TbC3rcGvBAFVIfENOK) | [BOILERS](https://open.spotify.com/artist/3xdxQ8fboHLHVfL9R4MvZ8), [Daniel McMillan](https://open.spotify.com/artist/0QmjDGwdHEo5er9pQnYuO8), [Crew Cardinal](https://open.spotify.com/artist/57Kse5pzj6Mlxhu7N6aNWr) | [Believer](https://open.spotify.com/album/0qVkuC4BXTIN4srhod67kg) | 2:42 | 2023-07-21 |  |
@@ -76,7 +77,7 @@
 | [Bloom](https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Bloom](https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT) | 3:38 | 2022-04-01 |  |
 | [Bloom \(Brendan Mills Remix\)](https://open.spotify.com/track/18IP0JyVbV7ignrEW0HyNR) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE) | [Bloom \(Brendan Mills Remix\)](https://open.spotify.com/album/1n4ehWqCzUM2BVAjIXydCe) | 2:36 | 2024-04-05 |  |
 | [Blossom](https://open.spotify.com/track/4SgjQcULlbOSQQqdpPQyHW) | [Willow](https://open.spotify.com/artist/4YH3yvWJyMhJdmZTumulrb), [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy) | [Blossom](https://open.spotify.com/album/5e33ZdqLTi4rBv0yVlSQfO) | 2:10 | 2024-03-01 |  |
-| [Blue](https://open.spotify.com/track/3m2uBLnzdWi4CsOhRQytZj) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74), [Sensei Schön](https://open.spotify.com/artist/1ukxakPI5ZQkXoeOpze1oc) | [Blue](https://open.spotify.com/album/34fPX3fiT4dzVc29CosY9r) | 3:55 | 2022-06-17 |  |
+| [Blue](https://open.spotify.com/track/3m2uBLnzdWi4CsOhRQytZj) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74), [Sensei Schön](https://open.spotify.com/artist/1ukxakPI5ZQkXoeOpze1oc) | [Blue](https://open.spotify.com/album/34fPX3fiT4dzVc29CosY9r) | 3:55 | 2022-06-17 | 2024-07-21 |
 | [Blue Lagoon](https://open.spotify.com/track/6aQtasf3Q6JZIBHCWXsyej) | [LVSN](https://open.spotify.com/artist/6FU8aRDlZ8zAMjmi5PvT35), [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li), [Finn Kleffmann](https://open.spotify.com/artist/6FnTIb3jf0VUbOIFgxO3he) | [Blue Lagoon](https://open.spotify.com/album/57nS0f2WiZk3m0RwLQxtWi) | 3:08 | 2022-01-14 | 2023-05-13 |
 | [Blue Moon](https://open.spotify.com/track/72p4bX3wUsqySOtUBvVIXp) | [Tippy Ro](https://open.spotify.com/artist/7sgxEpfnodusFKzUSTSFIY) | [Blue Moon](https://open.spotify.com/album/48TAtMtx4aogZtbU9w9svQ) | 4:12 | 2022-04-01 | 2022-07-23 |
 | [Body to Body](https://open.spotify.com/track/3qyeNnFY67zX6VmmIbzPsL) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn) | [Body to Body](https://open.spotify.com/album/4nCftrm5v7amR0TGNVrB2F) | 2:58 | 2022-02-18 | 2022-04-02 |

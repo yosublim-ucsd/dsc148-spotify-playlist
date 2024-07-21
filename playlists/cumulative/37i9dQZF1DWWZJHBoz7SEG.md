@@ -4,7 +4,7 @@
 
 > Fiesta de verano con tus amix, unos drinks y lo nuevo de El Malilla 🥵
 
-6,336 songs - 14 day 8 hr 42 min
+6,336 songs - 14 day 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,7 +389,7 @@
 | [aquí andamos](https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [aquí andamos](https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux) | 2:15 | 2023-11-10 | 2023-11-18 |
 | [Aquí Lo Siento](https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Camila Fernández](https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq) | 3:41 | 2023-10-27 | 2023-11-04 |
 | [Aquí Mando Yo](https://open.spotify.com/track/777fe7EyoQ7vatcRRHbTmO) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Aquí Mando Yo](https://open.spotify.com/album/3Hn6SB2nMJulWtrRdr5Bnk) | 3:36 | 2024-05-31 | 2024-06-08 |
-| [Aquí Nos Vale](https://open.spotify.com/track/2hUdyJze7ZqHmpnu6qYRwg) | [Sauceda SM](https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Shit Masiva](https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78) | 3:55 | 2024-07-19 |  |
+| [Aquí Nos Vale](https://open.spotify.com/track/2hUdyJze7ZqHmpnu6qYRwg) | [Sauceda SM](https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Shit Masiva](https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78) | 3:07 | 2024-07-19 |  |
 | [Aquí Sigo](https://open.spotify.com/track/03SfiKlwlCXmYRVHdXSA4C) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Aquí Sigo](https://open.spotify.com/album/1StQn8B5i4LVkAR0gJdRm9) | 2:38 | 2023-06-09 | 2023-06-17 |
 | [Aquí Somos Calle](https://open.spotify.com/track/6ZojL2JdRPJCszNOYCboW2) | [Wuicho Nt](https://open.spotify.com/artist/2PmfdLUGLjMYSEXPCqju5k), [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1), [Vizual Dealer](https://open.spotify.com/artist/55rW4Zyiqqky6OxedADMkY) | [Aquí Somos Calle](https://open.spotify.com/album/6NCK9VJgDnOETi3BM8u4JK) | 3:30 | 2024-04-05 | 2024-04-13 |
 | [Aquí Te Espero](https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Aquí Te Espero](https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE) | 4:15 | 2023-07-28 | 2023-08-05 |
@@ -4072,7 +4072,7 @@
 | [Older ft Jimmie Allen & Dixie D'Amelio](https://open.spotify.com/track/4ofGcbHRWhIsrYJswteQkU) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Older ft Jimmie Allen & Dixie D'Amelio](https://open.spotify.com/album/0ulArbgB8WgKtxbuBtKDYO) | 2:59 | 2023-04-07 | 2023-04-15 |
 | [Olvidarme de Ti](https://open.spotify.com/track/3maV3zRST3lH8rT5RHVHzH) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Apartamento 23](https://open.spotify.com/album/2X5xKYHX32aybrZiZznQet) | 3:49 | 2024-06-14 | 2024-06-22 |
 | [Olvidarte](https://open.spotify.com/track/22d0nkXEPtxwIA8LsptZdV) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [Olvidarte](https://open.spotify.com/album/03gge9sO9TiO7skWbfHY2n) | 3:40 | 2022-06-17 | 2022-06-25 |
-| [Olvídala](https://open.spotify.com/track/39NILND6Hwmj28GJpfU8Cq) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Olvídala](https://open.spotify.com/album/4ZowiypZomVYtSJ46ArTGJ) | 4:36 | 2024-07-19 |  |
+| [Olvídala](https://open.spotify.com/track/39NILND6Hwmj28GJpfU8Cq) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Vallenatos Norteños](https://open.spotify.com/artist/6XfjRUwgJpsY7UfUdIjc98) | [Olvídala](https://open.spotify.com/album/4ZowiypZomVYtSJ46ArTGJ) | 4:36 | 2024-07-19 |  |
 | [Olvídalo Conmigo](https://open.spotify.com/track/6BqlfnLy0eivSsWtGZMKAm) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Y ¿Qué Tiene?](https://open.spotify.com/album/6iwrrlySAjumvNTDAs0HeE) | 2:58 | 2024-05-10 | 2024-05-18 |
 | [Olé Olé \(feat\. Ronaldinho Gaúcho\)](https://open.spotify.com/track/3eUsJCHaRFj7MUmYbycwHw) | [AriBeatz](https://open.spotify.com/artist/6cNWiizYLCClZdnIvqU968), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Ronaldinho Gaúcho](https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe) | [Olé Olé \(feat\. Ronaldinho Gaúcho\)](https://open.spotify.com/album/12IaoWeaXTEte1MULtTvjm) | 3:00 | 2022-11-25 | 2022-12-03 |
 | [Oma](https://open.spotify.com/track/7xY0orsr2RKRoFtyvz1eJM) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Oma](https://open.spotify.com/album/0lDDxLhbL9J5hLO1iFSRSX) | 3:18 | 2022-12-30 | 2023-01-06 |

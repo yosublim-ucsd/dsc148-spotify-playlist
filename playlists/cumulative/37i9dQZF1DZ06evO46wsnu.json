@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "This is Rise Against. The essential tracks, all in one playlist.",
+  "description": "This Is Rise Against. Los temas esenciales, todos en una lista.",
   "name": "This Is Rise Against",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 245480,
       "name": "Audience Of One",
       "url": "https://open.spotify.com/track/1YkozbENeETx2a45JWrr8E"
@@ -474,7 +474,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 239960,
       "name": "I Don\u2019t Want To Be Here Anymore",
       "url": "https://open.spotify.com/track/6qtg4gz3DhqOHL5BHtSQw8"
@@ -600,7 +600,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-16",
+      "date_removed": null,
       "duration_ms": 241560,
       "name": "Long Forgotten Sons",
       "url": "https://open.spotify.com/track/6pnZrjbUdehm1bQQS63bpD"
@@ -888,7 +888,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 242280,
       "name": "Savior",
       "url": "https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB"
@@ -978,7 +978,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 200066,
       "name": "Swing Life Away",
       "url": "https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL"
@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 207026,
       "name": "The Strength To Go On",
       "url": "https://open.spotify.com/track/2gVuP7yxrIsn2s3i68eHjt"

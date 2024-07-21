@@ -2,7 +2,7 @@
 
 ### [This Is ClariS](https://open.spotify.com/playlist/37i9dQZF1DZ06evO36zBDs)
 
-> This is ClariS\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is ClariS\. Todos os maiores hits em uma só playlist.
 
 99 songs - 6 hr 52 min
 

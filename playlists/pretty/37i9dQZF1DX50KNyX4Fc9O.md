@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Blusher
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,305 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,304 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 94 | [All I Ever Wanted](https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [All I Ever Wanted](https://open.spotify.com/album/3ea7Bl4ur3eojJ8ycDVsXZ) | 3:09 |
 | 95 | [Lose My Focus](https://open.spotify.com/track/5zhmlyLla3YNdjpEyi3Amk) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:47 |
 | 96 | [bad emotions](https://open.spotify.com/track/2nbEuZBC0LzeRpU6b3P05m) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [bad emotions](https://open.spotify.com/album/6SXKpBlu64BQ9lC88r2ywc) | 3:05 |
-| 97 | [On The Line](https://open.spotify.com/track/2FmdOegR6nF8SJLGYb3Y7Z) | [Logan](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j), [KIAN](https://open.spotify.com/artist/1TulCA2zO3YxAjQ7ZsvtDq) | [On The Line](https://open.spotify.com/album/68tz2MPmMKmk3ynt8yw19G) | 3:03 |
+| 97 | [On The Line](https://open.spotify.com/track/2FmdOegR6nF8SJLGYb3Y7Z) | [Logan Priest](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j), [KIAN](https://open.spotify.com/artist/1TulCA2zO3YxAjQ7ZsvtDq) | [On The Line](https://open.spotify.com/album/68tz2MPmMKmk3ynt8yw19G) | 3:03 |
 | 98 | [dog, black](https://open.spotify.com/track/2CaGh9tyoXSVzzWgGFbCFG) | [Charlie Pittman](https://open.spotify.com/artist/2c4LNcrWUBi3z18mTTs5ly) | [nothing is forever](https://open.spotify.com/album/0DdJZHGFqAzesJPsCAxbhf) | 3:10 |
 | 99 | [Pretty Please](https://open.spotify.com/track/7F0QjOWQgH2N0aSqdRBuMy) | [Toby Hobart](https://open.spotify.com/artist/3tUXWcfWHvxepLCfAZUKK9), [HANNI](https://open.spotify.com/artist/4VOC9EBF72tcQPs6P05Q1c) | [Pretty Please](https://open.spotify.com/album/6b9GXRm94zq2PSBBRRZdUm) | 2:21 |
 | 100 | [Supernova](https://open.spotify.com/track/2xfqLV89WUBW5qmJ45zcB8) | [ISHAN](https://open.spotify.com/artist/4bOSK7fslWnqp8M4YQRBzm) | [Supernova](https://open.spotify.com/album/6sZFQA29XLp93kacRkgAZp) | 3:39 |

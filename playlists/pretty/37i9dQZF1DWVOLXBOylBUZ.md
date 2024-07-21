@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Kapo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,342 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,375 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 19 | [SE SIENTE](https://open.spotify.com/track/227AYEQae0hQ0oTNMoeLy7) | [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH) | [SE SIENTE](https://open.spotify.com/album/5SRlSmpncdc2Y45ZxwQrz0) | 3:08 |
 | 20 | [Casablanca](https://open.spotify.com/track/2N8kAHdidqn9oXgucjltl6) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh) | [Casablanca](https://open.spotify.com/album/1gnIIZdFJVklWscOqe1qTs) | 3:07 |
 | 21 | [Ganas](https://open.spotify.com/track/4f5Bw7pvjyCW5mEeyyoKve) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [Ganas](https://open.spotify.com/album/2atbau8pIwRzcTvSUT7TGu) | 3:57 |
-| 22 | [Borojo](https://open.spotify.com/track/2NoiG2hVkxifpZ4zvF3Fek) | [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY), [Tenso Beats](https://open.spotify.com/artist/7ytxEQNc1LNnQr24a8Yvg0), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [D'Frutas](https://open.spotify.com/album/4AMhfpjLv8kvutKhayvfhP) | 2:40 |
+| 22 | [Borojo](https://open.spotify.com/track/2NoiG2hVkxifpZ4zvF3Fek) | [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY), [Tenso Beats](https://open.spotify.com/artist/6TFVhalJ6wMABVUsVBaqge), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [D'Frutas](https://open.spotify.com/album/4AMhfpjLv8kvutKhayvfhP) | 2:40 |
 | 23 | [Dos Pa Uno](https://open.spotify.com/track/79JeRe6GWIGwHquIuBIfDq) | [TGO](https://open.spotify.com/artist/60Qd4MNKoo1o3LwysjFVPV), [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE) | [Dos Pa Uno](https://open.spotify.com/album/1GfxdaN5x4zzKOdX0AqHqo) | 2:35 |
 | 24 | [De Luto](https://open.spotify.com/track/00OeLLTUpcLjGOXaK4PULr) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [De Luto](https://open.spotify.com/album/5nluiz4DKmpAzSd6n3p1RL) | 2:26 |
 | 25 | [Extrañándote](https://open.spotify.com/track/6pTKWN96v1dpEaBMzDYlww) | [Zhamira Zambrano](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Extrañándote](https://open.spotify.com/album/5wyMJ9XYRHetHFcu8tOowP) | 3:03 |

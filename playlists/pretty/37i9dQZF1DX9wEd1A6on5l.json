@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 57417,
+  "num_followers": 57492,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -1071,6 +1071,30 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
+        "name": "One Call",
+        "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 158712,
+      "name": "One Call",
+      "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
         "name": "Small Money",
         "url": "https://open.spotify.com/album/3wxXvsPsPxi0ZDrbPGmiB4"
       },
@@ -1083,26 +1107,6 @@
       "duration_ms": 145500,
       "name": "Small Money",
       "url": "https://open.spotify.com/track/5jYCb3QsnXxS2Qh5HzwT7J"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
-        "name": "Before The Feast",
-        "url": "https://open.spotify.com/album/3ShLyszujn5P1Jb5yihyNI"
-      },
-      "artists": [
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 183157,
-      "name": "Who Go Pay",
-      "url": "https://open.spotify.com/track/34ywCJhKleJmZ3YthwBL4u"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1123,6 +1127,26 @@
       "duration_ms": 154689,
       "name": "Trending",
       "url": "https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "Before The Feast",
+        "url": "https://open.spotify.com/album/3ShLyszujn5P1Jb5yihyNI"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 183157,
+      "name": "Who Go Pay",
+      "url": "https://open.spotify.com/track/34ywCJhKleJmZ3YthwBL4u"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1211,26 +1235,6 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Jigga (feat. Khaid)",
-        "url": "https://open.spotify.com/album/3OSxByQbloa6nXxRwaUBW1"
-      },
-      "artists": [
-        {
-          "name": "TAR1Q",
-          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
-        },
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 139285,
-      "name": "Jigga (feat. Khaid)",
-      "url": "https://open.spotify.com/track/2M3mZOLJc4rnosgHWbJhCE"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
         "name": "KATIGORI/PIANO",
         "url": "https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3"
       },
@@ -1247,18 +1251,22 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Controlla",
-        "url": "https://open.spotify.com/album/3opatoAYLUOlZ2BiGi935S"
+        "name": "Jigga (feat. Khaid)",
+        "url": "https://open.spotify.com/album/3OSxByQbloa6nXxRwaUBW1"
       },
       "artists": [
         {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+        },
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
         }
       ],
-      "duration_ms": 148781,
-      "name": "Controlla",
-      "url": "https://open.spotify.com/track/1K4DhSCptGVbSq30IHTJ69"
+      "duration_ms": 139285,
+      "name": "Jigga (feat. Khaid)",
+      "url": "https://open.spotify.com/track/2M3mZOLJc4rnosgHWbJhCE"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1283,6 +1291,42 @@
       "duration_ms": 193125,
       "name": "BOMBING",
       "url": "https://open.spotify.com/track/0dtwzfXcb6lKIkuFw7w8nC"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "Controlla",
+        "url": "https://open.spotify.com/album/3opatoAYLUOlZ2BiGi935S"
+      },
+      "artists": [
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 148781,
+      "name": "Controlla",
+      "url": "https://open.spotify.com/track/1K4DhSCptGVbSq30IHTJ69"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "Your Body",
+        "url": "https://open.spotify.com/album/78gHWIm7BzgTfUgVAq67z7"
+      },
+      "artists": [
+        {
+          "name": "Lil Qhuid",
+          "url": "https://open.spotify.com/artist/1BLlvXV8nOlu9QpAYqDWLP"
+        },
+        {
+          "name": "BetejayMadeIt",
+          "url": "https://open.spotify.com/artist/4pvwFJJ5bMKFB3QYZTzDdY"
+        }
+      ],
+      "duration_ms": 151462,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/58aqMiOHapRaGUdHnbeE1T"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1319,26 +1363,6 @@
       "duration_ms": 188000,
       "name": "Borrow Me Your Baby (feat. Falz)",
       "url": "https://open.spotify.com/track/01AkBgeMy8BSiJuzDl0WXc"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
-        "name": "Your Body",
-        "url": "https://open.spotify.com/album/78gHWIm7BzgTfUgVAq67z7"
-      },
-      "artists": [
-        {
-          "name": "Lil Qhuid",
-          "url": "https://open.spotify.com/artist/1BLlvXV8nOlu9QpAYqDWLP"
-        },
-        {
-          "name": "BetejayMadeIt",
-          "url": "https://open.spotify.com/artist/4pvwFJJ5bMKFB3QYZTzDdY"
-        }
-      ],
-      "duration_ms": 151462,
-      "name": "Your Body",
-      "url": "https://open.spotify.com/track/58aqMiOHapRaGUdHnbeE1T"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1479,6 +1503,22 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
+        "name": "Koko",
+        "url": "https://open.spotify.com/album/73cpCSFA8mfXBMxXZkzc4w"
+      },
+      "artists": [
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "duration_ms": 154615,
+      "name": "Koko",
+      "url": "https://open.spotify.com/track/3OILFI5RxdzoGCHUEa6X00"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
         "name": "Naija Funk",
         "url": "https://open.spotify.com/album/10MuD6qY8FZx08xgnlJc7O"
       },
@@ -1495,22 +1535,6 @@
       "duration_ms": 126213,
       "name": "Naija Funk",
       "url": "https://open.spotify.com/track/368hIemlcjDPQuYulhJrHE"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
-        "name": "Koko",
-        "url": "https://open.spotify.com/album/73cpCSFA8mfXBMxXZkzc4w"
-      },
-      "artists": [
-        {
-          "name": "D'banj",
-          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
-        }
-      ],
-      "duration_ms": 154615,
-      "name": "Koko",
-      "url": "https://open.spotify.com/track/3OILFI5RxdzoGCHUEa6X00"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1559,22 +1583,6 @@
       "duration_ms": 127067,
       "name": "Duffel Bag",
       "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
-        "name": "Sweet Tea (Aduke)",
-        "url": "https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 149481,
-      "name": "Sweet Tea (Aduke)",
-      "url": "https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS"
     }
   ],
   "unique_name": "Party Dey!",

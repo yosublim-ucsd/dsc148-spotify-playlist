@@ -1,12 +1,12 @@
 {
   "description": "This is Tex Tex. The essential tracks, all in one playlist.",
-  "num_followers": 8582,
+  "num_followers": 8589,
   "original_name": "This Is Tex Tex",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZphbAAAAAAB2tjNIEpD8Z1KaZ/ZXpFF7",
+  "snapshot_id": "ZpmsgAAAAADCvCKK3vRWlJaBg0A7FuNG",
   "tracks": [
     {
       "added_at": null,
@@ -123,38 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor de Tex Tex",
-        "url": "https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 207255,
-      "name": "Amigo",
-      "url": "https://open.spotify.com/track/1E6XDLIKqxAyO6qpNbFlSZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tex Tex",
-        "url": "https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 188373,
-      "name": "Ahora Que No Vives Conmigo",
-      "url": "https://open.spotify.com/track/2yFG7bR0njsm6ZpWXIT5n2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Vas a Acordar de M\u00ed, Anda Borracho Pancho, Tlatelolco M\u00edstico, No Tengo Tiempo (Unidos por el Rock)",
         "url": "https://open.spotify.com/album/7abal0FXuwfI15XtxPleU2"
       },
@@ -183,8 +151,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perdidos",
-        "url": "https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a"
+        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tex Tex",
+        "url": "https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG"
       },
       "artists": [
         {
@@ -192,9 +160,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 236277,
-      "name": "Artesano de la Construccion",
-      "url": "https://open.spotify.com/track/6IUlLJuUiCvqzuR3WWIKfS"
+      "duration_ms": 188373,
+      "name": "Ahora Que No Vives Conmigo",
+      "url": "https://open.spotify.com/track/2yFG7bR0njsm6ZpWXIT5n2"
     },
     {
       "added_at": null,
@@ -211,6 +179,38 @@
       "duration_ms": 198240,
       "name": "Srita Martinez Punk",
       "url": "https://open.spotify.com/track/5xtJYEAXKpBNFQZisiS9sr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perdidos",
+        "url": "https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 236277,
+      "name": "Artesano de la Construccion",
+      "url": "https://open.spotify.com/track/6IUlLJuUiCvqzuR3WWIKfS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Mejor de Tex Tex",
+        "url": "https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 207255,
+      "name": "Amigo",
+      "url": "https://open.spotify.com/track/1E6XDLIKqxAyO6qpNbFlSZ"
     },
     {
       "added_at": null,
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 300760,
-      "name": "Ni una M\u00e1s",
-      "url": "https://open.spotify.com/track/13eFPA8zkZoJBEhCSz9sj1"
+      "duration_ms": 314600,
+      "name": "El Hijo Desobediente",
+      "url": "https://open.spotify.com/track/4EtEnahAm6WGKdHRL19RvK"
     },
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 314600,
-      "name": "El Hijo Desobediente",
-      "url": "https://open.spotify.com/track/4EtEnahAm6WGKdHRL19RvK"
+      "duration_ms": 300760,
+      "name": "Ni una M\u00e1s",
+      "url": "https://open.spotify.com/track/13eFPA8zkZoJBEhCSz9sj1"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Toque Magico",
-        "url": "https://open.spotify.com/album/58ozvUHrRppgI8nCqAyCdL"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 317252,
-      "name": "La Calle 16",
-      "url": "https://open.spotify.com/track/1wf4pyJiS0fkX84FLwoEPf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Haces Volar",
         "url": "https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 320960,
       "name": "Vengador An\u00f3nimo",
       "url": "https://open.spotify.com/track/4YmEl8T1rbGyNifdmB7tTp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Toque Magico",
+        "url": "https://open.spotify.com/album/58ozvUHrRppgI8nCqAyCdL"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 317252,
+      "name": "La Calle 16",
+      "url": "https://open.spotify.com/track/1wf4pyJiS0fkX84FLwoEPf"
     },
     {
       "added_at": null,

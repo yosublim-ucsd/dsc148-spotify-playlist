@@ -1815,6 +1815,24 @@
     },
     {
       "album": {
+        "name": "abgelenkt",
+        "url": "https://open.spotify.com/album/0eezzl5aVtoPFUO3InwewZ"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159286,
+      "name": "abgelenkt",
+      "url": "https://open.spotify.com/track/79XKsdLlYGx1lqwctmMD2v"
+    },
+    {
+      "album": {
         "name": "About Damn Time",
         "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
       },
@@ -5090,7 +5108,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 138866,
       "name": "Baddies",
       "url": "https://open.spotify.com/track/66Bup3CXgRRl8z91EDHUIf"
@@ -5424,7 +5442,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 140733,
       "name": "BAND4BAND (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
@@ -5490,6 +5508,24 @@
       "duration_ms": 204377,
       "name": "Baradar (feat. Nimo)",
       "url": "https://open.spotify.com/track/6ggAvP0nLXpBKPeHAiM49t"
+    },
+    {
+      "album": {
+        "name": "Barbie & Ken",
+        "url": "https://open.spotify.com/album/59HrY7RS8ApXzqN287hUPL"
+      },
+      "artists": [
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139557,
+      "name": "Barbie & Ken",
+      "url": "https://open.spotify.com/track/6mCE6ymlJhhjfcWmiUuBHT"
     },
     {
       "album": {
@@ -11563,6 +11599,24 @@
     },
     {
       "album": {
+        "name": "DENK ZU VIEL NACH",
+        "url": "https://open.spotify.com/album/3rIVdn7T2glnMoBobBvjlA"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144966,
+      "name": "DENK ZU VIEL NACH",
+      "url": "https://open.spotify.com/track/1ctq4FdMatfR9ZNCY8WKbM"
+    },
+    {
+      "album": {
         "name": "Bitches brauchen Rap",
         "url": "https://open.spotify.com/album/1ip2dYNZGfpdV5wass2xQp"
       },
@@ -12148,7 +12202,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 137375,
       "name": "Dieser Sommer",
       "url": "https://open.spotify.com/track/0Cnf2mlQavyPknr3OxzTAn"
@@ -15127,6 +15181,24 @@
     },
     {
       "album": {
+        "name": "erste/letzte",
+        "url": "https://open.spotify.com/album/11IioagwjEgh3hUGuNl3te"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159916,
+      "name": "erste/letzte",
+      "url": "https://open.spotify.com/track/4XHAU1QcCIj4GyPAlCsjs0"
+    },
+    {
+      "album": {
         "name": "Tage vor 2000",
         "url": "https://open.spotify.com/album/2sc27jZbMMb8XdwKiZj9Jk"
       },
@@ -17428,7 +17500,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone)",
       "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
@@ -25644,7 +25716,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 122360,
       "name": "KEHLANI",
       "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
@@ -27750,6 +27822,28 @@
       "duration_ms": 132005,
       "name": "Leben lang",
       "url": "https://open.spotify.com/track/1u59aqUTvk0X1TxchtyyNZ"
+    },
+    {
+      "album": {
+        "name": "Leben leben",
+        "url": "https://open.spotify.com/album/0YfZZAmrgqVsmfxtltoyxv"
+      },
+      "artists": [
+        {
+          "name": "ELDENO",
+          "url": "https://open.spotify.com/artist/1WjugBWqSC9hNVa7uonC7I"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151087,
+      "name": "Leben leben",
+      "url": "https://open.spotify.com/track/7DvIRHBKdGVVJtnw8VGlWe"
     },
     {
       "album": {
@@ -32092,7 +32186,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
@@ -34742,6 +34836,24 @@
       "duration_ms": 163426,
       "name": "NEED U",
       "url": "https://open.spotify.com/track/4V3cTkfjWuwtLWHTq6K79J"
+    },
+    {
+      "album": {
+        "name": "Nein!",
+        "url": "https://open.spotify.com/album/1J4tY6DjG58gdMmcVHllLu"
+      },
+      "artists": [
+        {
+          "name": "AYLIVA",
+          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194217,
+      "name": "Nein!",
+      "url": "https://open.spotify.com/track/2wvUmObLQbxClXFsuhw8Ns"
     },
     {
       "album": {
@@ -38938,7 +39050,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 186365,
       "name": "Please Please Please",
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
@@ -39284,7 +39396,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -45306,6 +45418,28 @@
       "duration_ms": 210575,
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
       "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
+    },
+    {
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/1NiBNFqgyaSatkYqDZqTtG"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170898,
+      "name": "Starboy",
+      "url": "https://open.spotify.com/track/0Rgdhptwk0A3Clbu5RpYI1"
     },
     {
       "album": {
@@ -51940,6 +52074,24 @@
       "duration_ms": 209937,
       "name": "Was wei\u00dft du schon",
       "url": "https://open.spotify.com/track/07MQt3L6LsFS5rAgUSSrMO"
+    },
+    {
+      "album": {
+        "name": "Was w\u00e4re wenn du nicht w\u00e4rst?",
+        "url": "https://open.spotify.com/album/0ANGBiq4fo4acpGYXFCGTe"
+      },
+      "artists": [
+        {
+          "name": "FANJI",
+          "url": "https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167053,
+      "name": "Was w\u00e4re wenn du nicht w\u00e4rst?",
+      "url": "https://open.spotify.com/track/1wYdHjqYbGZW087h9lFHxX"
     },
     {
       "album": {

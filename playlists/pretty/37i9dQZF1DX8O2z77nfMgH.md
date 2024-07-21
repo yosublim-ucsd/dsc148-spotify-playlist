@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Rauw Alejandro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,592 likes - 67 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,600 likes - 67 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 22 | [Sun Colored Eyes](https://open.spotify.com/track/2Rlw1EslDSKSODPst1GhOY) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Harvest](https://open.spotify.com/album/7hIjNhXoPqyARBpaKpS3nk) | 3:55 |
 | 23 | [Hasta Aquí Llegué](https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Hasta Aquí Llegué](https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5) | 3:08 |
 | 24 | [LLAMAS](https://open.spotify.com/track/5OoDPkBacv1y2hOsRmncGH) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [LLAMAS](https://open.spotify.com/album/0c0bwULhVKpaKQVdnLxfhZ) | 3:17 |
-| 25 | [Aquí Nos Vale](https://open.spotify.com/track/2hUdyJze7ZqHmpnu6qYRwg) | [Sauceda SM](https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Shit Masiva](https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78) | 3:55 |
+| 25 | [Aquí Nos Vale](https://open.spotify.com/track/2hUdyJze7ZqHmpnu6qYRwg) | [Sauceda SM](https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Shit Masiva](https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78) | 3:07 |
 | 26 | [Sabe Bien](https://open.spotify.com/track/36LDPQfypNqhflhok841qb) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Sabe Bien](https://open.spotify.com/album/2ntsVWNEOkxCYevBecgpvq) | 2:40 |
 | 27 | [Todo Mal](https://open.spotify.com/track/6ULxgCV7FxWqkzESh2lY3J) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Todo Mal](https://open.spotify.com/album/6zrXJM76MEr9J2i9Sd4HDO) | 3:00 |
 | 28 | [No Soy Tuya \- Main Title](https://open.spotify.com/track/6soVui0dpsnaFegcclSdAg) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [No Soy Tuya \(Música Original de “Las Azules” de Apple TV+\) \[Main Title\]](https://open.spotify.com/album/3nwgEgEjPZqqLthxVEr5Uw) | 3:11 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 55 | [Bareto y Chanel](https://open.spotify.com/track/002nPmx72z53AYh3ysujMM) | [LA GURU](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [Bareto y Chanel](https://open.spotify.com/album/4REtrl2A9VxJiL2Aeszilp) | 3:22 |
 | 56 | [Tu & Yo](https://open.spotify.com/track/0uc5l2XerrZLWbOH3phDwp) | [Afrodisiaco](https://open.spotify.com/artist/184bX1ApmIMyWU3TcpTy93) | [Tu & Yo](https://open.spotify.com/album/08riEe8rn8hLNiu3ST5rDK) | 3:46 |
 | 57 | [Me Envolvi](https://open.spotify.com/track/57v2SSRmOVByUxzsYBAgrV) | [Jay Nex](https://open.spotify.com/artist/3z14e8xJmNmNIMeYNDcV0y), [Ivan Espinal](https://open.spotify.com/artist/0xqs5F0YGOi5ud0fUfTJiE), [Jerry el Sonido Perfecto](https://open.spotify.com/artist/4dJ8w1SN00Xw1GFPH9udBr) | [Me Envolvi](https://open.spotify.com/album/59mmbXMVnYeJc1VXYws3bR) | 2:47 |
-| 58 | [PUEBLO PALETA](https://open.spotify.com/track/77WiCldgpZPW1jqGBeQ5KZ) | [OMGisNEFF](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g) | [QCEO](https://open.spotify.com/album/4KRkCJeXEjHGJ34YiFzhzD) | 2:15 |
+| 58 | [PUEBLO PALETA](https://open.spotify.com/track/77WiCldgpZPW1jqGBeQ5KZ) | [OMGisNEFF](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [SokeThugPro](https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0), [Neverknwn](https://open.spotify.com/artist/3h83Vh5q1KWo8KkvvV1kPa) | [QCEO](https://open.spotify.com/album/4KRkCJeXEjHGJ34YiFzhzD) | 2:15 |
 | 59 | [Perreo Pa’ Llevar](https://open.spotify.com/track/1fYjwanHbxFTcSzMuRTptH) | [Rik](https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh) | [Perreo Pa’ Llevar](https://open.spotify.com/album/7cnyDIDKpP0P6MfGi4W58Y) | 2:29 |
-| 60 | [Borojo](https://open.spotify.com/track/2NoiG2hVkxifpZ4zvF3Fek) | [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY), [Tenso Beats](https://open.spotify.com/artist/7ytxEQNc1LNnQr24a8Yvg0), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [D'Frutas](https://open.spotify.com/album/4AMhfpjLv8kvutKhayvfhP) | 2:40 |
+| 60 | [Borojo](https://open.spotify.com/track/2NoiG2hVkxifpZ4zvF3Fek) | [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY), [Tenso Beats](https://open.spotify.com/artist/6TFVhalJ6wMABVUsVBaqge), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [D'Frutas](https://open.spotify.com/album/4AMhfpjLv8kvutKhayvfhP) | 2:40 |
 | 61 | [SAHARA](https://open.spotify.com/track/4NuYE4exbvPeJgr4gJiFUS) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [SAHARA](https://open.spotify.com/album/7B5RSeXqwIBWobYh3GRTjk) | 2:26 |
 | 62 | [Invencible](https://open.spotify.com/track/26zQHh6RCdP2cjuiWDzeXm) | [Alexis Play](https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv) | [Invencible](https://open.spotify.com/album/55ph6RFSjY71Tx2IRDzWkc) | 3:38 |
 | 63 | [No Me Hagas Seguir](https://open.spotify.com/track/6Ylv3sfQITiT3szgTKAXE6) | [More](https://open.spotify.com/artist/0vLXnXSAplgnptyE3jKnpi) | [No Me Hagas Seguir](https://open.spotify.com/album/2uFQET4CktuiLQjLKDFXQk) | 2:51 |

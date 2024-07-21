@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Nonaria
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,112 likes - 96 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,122 likes - 96 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

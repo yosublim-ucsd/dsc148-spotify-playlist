@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-322 songs - 20 hr 24 min
+323 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Death Sound](https://open.spotify.com/track/0BFNt26WzWcIkVyn6yPPD5) | [Headcharger](https://open.spotify.com/artist/34M4LcAKFb4852Iigq7BNv) | [Death Sound](https://open.spotify.com/album/59WBiX12rBMJkVXpStVGWe) | 4:03 | 2021-12-15 | 2022-07-27 |
 | [Despite](https://open.spotify.com/track/129whHjHOOX5AyxEXGwh9N) | [W!ZARD](https://open.spotify.com/artist/3E7Z5zzigflRAScfu3gigd) | [Despite](https://open.spotify.com/album/7CIoj4MTGannSHp7Tp7dCa) | 4:46 | 2022-11-28 | 2023-01-27 |
 | [Devil in sight](https://open.spotify.com/track/7t6rd88j5ie44uHFzDO5kP) | [Cold Valley](https://open.spotify.com/artist/1w1u8ebvhNqRMCv2GeBRrQ) | [Devil in sight](https://open.spotify.com/album/7a6PGGG9hVl4VicBn6iwYL) | 3:50 | 2021-12-31 | 2022-07-25 |
+| [Devil's Dance](https://open.spotify.com/track/45dAEqHX92rv5mXyYO82k7) | [Goblins On Saturn](https://open.spotify.com/artist/0XZmQFCZSSXUUQunfVJr4v) | [Devil's Dance](https://open.spotify.com/album/5sifGNh0NHOWpxlnIgJZDR) | 3:43 | 2024-07-15 |  |
 | [Didn’t Know](https://open.spotify.com/track/15nBPDVVQr8F7RXFicG5KT) | [Do It Later](https://open.spotify.com/artist/4ghzsBC2zItzqKvULx6CGF), [Totorro](https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx) | [Future Me](https://open.spotify.com/album/5OaYsU9Y4xwSOYZ8N1TntQ) | 3:07 | 2023-01-26 |  |
 | [Disappear](https://open.spotify.com/track/5cOYvRvQ31Ff0sTeNTDPAV) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn) | [Disappear](https://open.spotify.com/album/62ncD2u49O0QFm0voLVzoX) | 3:54 | 2022-11-28 | 2023-06-30 |
 | [Disappointed](https://open.spotify.com/track/0ZNaRU6cK7nGIqw4kcMeSK) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [The Big Picture](https://open.spotify.com/album/0FfGjheDjSorhabLLNoB4x) | 5:20 | 2023-02-02 | 2024-04-19 |
@@ -186,7 +187,7 @@
 | [Moments](https://open.spotify.com/track/1ANlexfiMuDYl6T6G8o93v) | [TERNE](https://open.spotify.com/artist/4QkgbsfcoQbCfiSw9gT4kq) | [Moments](https://open.spotify.com/album/72enbv0nkgZK6bnIUh9fNj) | 3:09 | 2023-07-23 |  |
 | [Mr\. BigYellowSun](https://open.spotify.com/track/27YpSQcKYFC2BDKXPba4D7) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [Sunflower](https://open.spotify.com/album/7yaDbs8UuwGoYqzgmGt3lu) | 3:09 | 2022-06-30 | 2024-01-20 |
 | [Mr\. Perfect](https://open.spotify.com/track/43XPO9j08EgaPyGwsCjxpz) | [Holy Fake News](https://open.spotify.com/artist/6HGor9KJpMcOImEhrQpWy4) | [Holy Fake News](https://open.spotify.com/album/5ZBR50XOCNosCl7XB2vi15) | 3:36 | 2022-01-03 | 2022-07-25 |
-| [Murderology](https://open.spotify.com/track/5ABNXl7Dlqa1y0gl0M3Brn) | [Yard of Blondes](https://open.spotify.com/artist/3rpeGp3AdGW8w8P3K04hcg) | [Murderology](https://open.spotify.com/album/4APpUafKlxYejTiKM4Zvti) | 4:23 | 2021-12-15 | 2022-07-28 |
+| [Murderology](https://open.spotify.com/track/5ABNXl7Dlqa1y0gl0M3Brn) | [Yard of Blondes](https://open.spotify.com/artist/3rpeGp3AdGW8w8P3K04hcg) | [Murderology](https://open.spotify.com/album/4APpUafKlxYejTiKM4Zvti) | 4:23 | 2021-12-15 |  |
 | [My Eyes Won't Open](https://open.spotify.com/track/5nJf9fcruNplm2LNIUdAY8) | [Prune 99](https://open.spotify.com/artist/4ZsSkWfP0bc2AFjUhk9xpN) | [My Eyes Won't Open](https://open.spotify.com/album/7pd6ELfvOIt8dMb8RAbH8r) | 4:37 | 2024-05-02 | 2024-06-01 |
 | [My time](https://open.spotify.com/track/3jRvGaPzOAK9UVFLRjs9wG) | [Clavicule](https://open.spotify.com/artist/3MyvhIeNVItWCpXSwm6pLI) | [Garage Is Dead](https://open.spotify.com/album/5aHRyWY4RRq04Bx1cLgbjH) | 3:44 | 2022-04-17 |  |
 | [Nasty Habits](https://open.spotify.com/track/2YBh9d0765HJaWVyScvNrE) | [Komodor](https://open.spotify.com/artist/4IsZphrl7x0aGLGQDYKAmt) | [Nasty Habits](https://open.spotify.com/album/6J1ziCqilUwlShHoRpy2hX) | 3:58 | 2022-06-30 |  |
@@ -206,7 +207,7 @@
 | [O.E.](https://open.spotify.com/track/5QbRcqJpmlDgN9VBCIpBPn) | [Ready For Mars](https://open.spotify.com/artist/2YFoFKcC1vQhddH2aCEKD1) | [O.E.](https://open.spotify.com/album/4pJCbw5VR9tiDkAtV26XT8) | 3:39 | 2021-12-15 | 2022-07-28 |
 | [Oh Lord, It Came To Me](https://open.spotify.com/track/2NtcpNBDXeuEwpc9QOVfq9) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Songs/Revolving](https://open.spotify.com/album/71QcqCUQr7EusqTXKhnZVy) | 5:32 | 2022-02-07 | 2022-12-18 |
 | [Oh Lord, It Came To Me](https://open.spotify.com/track/6XE78Iy9cQLjUP5q0ISL6D) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Songs / Revolving](https://open.spotify.com/album/6krcKaWpYXqjZSt1Uk430O) | 5:32 | 2022-12-11 | 2023-06-30 |
-| [Once You Taste Blood](https://open.spotify.com/track/52npcX3OyVS3Gg5UAYtpbO) | [Flèche](https://open.spotify.com/artist/5R5eFkv3lGzBuYpjU6w5qs) | [Homes & Galaxies](https://open.spotify.com/album/0TvqbBd23TOC2gSxnYbgV3) | 4:23 | 2023-11-16 |  |
+| [Once You Taste Blood](https://open.spotify.com/track/52npcX3OyVS3Gg5UAYtpbO) | [Flèche](https://open.spotify.com/artist/5R5eFkv3lGzBuYpjU6w5qs) | [Homes & Galaxies](https://open.spotify.com/album/0TvqbBd23TOC2gSxnYbgV3) | 4:23 | 2023-11-16 | 2024-07-21 |
 | [One Big Mess](https://open.spotify.com/track/40TRgHGktzDSlNnN0c7pS2) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Head Above Water](https://open.spotify.com/album/5Ra5ZI7sjmxLxi8pA4t3Pc) | 3:56 | 2024-02-28 |  |
 | [One Big Mess](https://open.spotify.com/track/75o3FmX9UgTjT3H05EOuzg) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Head Above Water](https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj) | 3:56 | 2023-01-29 | 2023-12-20 |
 | [Only Weird People Can Fly](https://open.spotify.com/track/75zhMxYeZoLRp2qrKiz5sQ) | [Dust On Earth](https://open.spotify.com/artist/2HbxbDzJQeFyeHgsH0Mou6) | [Only Weird People Can Fly](https://open.spotify.com/album/2srLsSJHxis4kIt99ugrUV) | 4:18 | 2023-06-29 |  |
@@ -303,7 +304,7 @@
 | [Too Late](https://open.spotify.com/track/0nHJq23KJ6Fb34tHeC3qtX) | [Shady Fat Kats](https://open.spotify.com/artist/2ZgDtiPPJJhephke84L7BD) | [Too Late](https://open.spotify.com/album/4vxSmhPj7cz8B1Pqu1Ygdy) | 3:36 | 2024-05-02 |  |
 | [Toxin](https://open.spotify.com/track/5jg80lE6H1bTtN33BR7M2F) | [The One You Loved](https://open.spotify.com/artist/3iPrDGnKhUZFKh7hwpiKOY) | [Bitter Memory](https://open.spotify.com/album/12VwqPuaF6edUXKiMaBZCE) | 3:53 | 2023-07-05 | 2023-12-09 |
 | [Toy](https://open.spotify.com/track/204jDxDMw4u8NWQm7jMNnD) | [Pythies](https://open.spotify.com/artist/6xMjSwnzwclo7mLrB3Yqk3) | [Toy](https://open.spotify.com/album/3Kr7lm2ciyU7bJxUWgaKRl) | 3:36 | 2024-07-15 |  |
-| [Tree](https://open.spotify.com/track/38fLg3qA8mtJTuLDmtVc3x) | [Servo](https://open.spotify.com/artist/6y5MFAfEupGez5ZLRYDHlN) | [The Lair of Gods](https://open.spotify.com/album/1snWQPp1HIT5ixB77kRcpf) | 4:01 | 2021-12-15 |  |
+| [Tree](https://open.spotify.com/track/38fLg3qA8mtJTuLDmtVc3x) | [Servo](https://open.spotify.com/artist/6y5MFAfEupGez5ZLRYDHlN) | [The Lair of Gods](https://open.spotify.com/album/1snWQPp1HIT5ixB77kRcpf) | 4:01 | 2021-12-15 | 2024-07-21 |
 | [Two Rocks in a Whiskey](https://open.spotify.com/track/1SNc84gk62C61df7PoPTh0) | [Dirty Deep](https://open.spotify.com/artist/4XoAOMv60D4FylIqui9WGE), [Yarol Poupaud](https://open.spotify.com/artist/1wQavz0TEd9BEp0K2choCR) | [Meet Me in the City](https://open.spotify.com/album/7xQVlfuATrY8K3dK8Ddzlb) | 5:23 | 2021-12-15 | 2022-07-28 |
 | [Two Rocks In a Whiskey](https://open.spotify.com/track/5MJKfpUClhimQ6APxUAFVH) | [Dirty Deep & Yarol](https://open.spotify.com/artist/0S9f3sqwKQxg3GvZ5mAYLl) | [Meet In The City](https://open.spotify.com/album/6G3JP4vgky4O24iSPkmMny) | 5:23 | 2023-05-11 | 2024-01-26 |
 | [Tête blême](https://open.spotify.com/track/6AQvZgtjYGbw2wEMYMZef4) | [Pogo Car Crash Control](https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD) | [Tête blême](https://open.spotify.com/album/1k77W6tW9MlXCnRhNySBSR) | 2:42 | 2022-04-17 |  |

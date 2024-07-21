@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Judith Hill
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,765 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,777 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mother](https://open.spotify.com/track/1VIuh0pmfz3vGGrte8738e) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Mother](https://open.spotify.com/album/7Emv4cUBw1Sjbpa1iq3Q8Y) | 2:57 |
 | 2 | [Short Change Hero \- Edit](https://open.spotify.com/track/1IyCXqedk72kIPyCf7sNPh) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [Short Change Hero \(Edit\)](https://open.spotify.com/album/4DJ1fx8Z1sAFZzOM3zqZaI) | 2:07 |
-| 3 | [Mr\. Mechanic Man](https://open.spotify.com/track/0x5Jhx9pmRvqYdEDpnegfq) | [Sheba Potts\-Wright](https://open.spotify.com/artist/0YhLEuRkRqKV3cXBsSb0Ty) | [Mr\. Mechanic Man](https://open.spotify.com/album/1gm77KuKLDfyPzBy3UgAvm) | 3:41 |
+| 3 | [Mr\. Mechanic Man](https://open.spotify.com/track/0x5Jhx9pmRvqYdEDpnegfq) | [Sheba Potts\-Wright](https://open.spotify.com/artist/0YhLEuRkRqKV3cXBsSb0Ty) | [Mr\. Mechanic Man](https://open.spotify.com/album/1gm77KuKLDfyPzBy3UgAvm) | 3:33 |
 | 4 | [Leaving in 3/4 Time](https://open.spotify.com/track/1wil07vTmtw9SyDq4XuXOn) | [Honeybear, the Band](https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk) | [Leaving in 3/4 Time](https://open.spotify.com/album/7HeySAN5T1fvUCpXitFGLm) | 2:05 |
 | 5 | [Show Me The Green](https://open.spotify.com/track/1YzIXYmTLbjGtG3AEuJlRP) | [The Harpoonist](https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG), [Big Sugar](https://open.spotify.com/artist/75eraSeadYDXU4zyzDxglZ) | [Show Me The Green](https://open.spotify.com/album/2lSS8XMdwd7iFICtoYbDkW) | 3:10 |
 | 6 | [Believer](https://open.spotify.com/track/24xBL7ddkkVxbaWmkdYF0w) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [Believer](https://open.spotify.com/album/2xpbE9vaLpfQLryVl39SPz) | 3:02 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Black Coffee. The essential tracks, all in one playlist.",
-  "num_followers": 139049,
+  "description": "This Is Black Coffee. Los temas esenciales, todos en una lista.",
+  "num_followers": 139185,
   "original_name": "This Is Black Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZphbAAAAAAAFfDJiz2w24bxvX1JVYy6h",
+  "snapshot_id": "ZpmsgAAAAABNO+ZqAz9RV0HVYjPp2Euy",
   "tracks": [
     {
       "added_at": null,
@@ -552,13 +552,13 @@
           "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
         },
         {
-          "name": "Zano",
-          "url": "https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq"
+          "name": "Zonke",
+          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
         }
       ],
-      "duration_ms": 402613,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/7chKchP8IVPi34sqbss0AH"
+      "duration_ms": 371640,
+      "name": "Gardens Of Eden",
+      "url": "https://open.spotify.com/track/2ULJ82U9boJhUMi2yzgpuD"
     },
     {
       "added_at": null,
@@ -632,13 +632,13 @@
           "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
         },
         {
-          "name": "Zonke",
-          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
+          "name": "Zano",
+          "url": "https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq"
         }
       ],
-      "duration_ms": 371640,
-      "name": "Gardens Of Eden",
-      "url": "https://open.spotify.com/track/2ULJ82U9boJhUMi2yzgpuD"
+      "duration_ms": 402613,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/7chKchP8IVPi34sqbss0AH"
     },
     {
       "added_at": null,

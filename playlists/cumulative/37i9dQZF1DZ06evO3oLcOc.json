@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 225226,
       "name": "Ayo",
       "url": "https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 207746,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/72Bz4ciRZPBcVSw0nrZDHi"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 206666,
       "name": "Faded",
       "url": "https://open.spotify.com/track/2NRUU0gP1d8Yif8CpsCW8l"
@@ -994,7 +994,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 166626,
       "name": "Kream (feat. Tyga)",
       "url": "https://open.spotify.com/track/5mu1uv8RmzDkF8foePK5qa"
@@ -1234,6 +1234,28 @@
       "duration_ms": 208620,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/0WlotBaAKbCwFTRnrypGpu"
+    },
+    {
+      "album": {
+        "name": "Nasty XXX Remix (feat. Tyga)",
+        "url": "https://open.spotify.com/album/7wYSM5P3myPWOSoTao1a2n"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2024-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Nasty XXX Remix (feat. Tyga)",
+      "url": "https://open.spotify.com/track/5OHxVP5lTk1ZdKEXORPyIA"
     },
     {
       "album": {
@@ -1720,7 +1742,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 145292,
       "name": "Too Many",
       "url": "https://open.spotify.com/track/0CR60XwKbzgohE3I6NMjlR"

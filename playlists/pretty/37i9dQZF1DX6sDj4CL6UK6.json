@@ -1,12 +1,12 @@
 {
   "description": "Top English songs from Asia. Cover: Prateek Kuhad",
-  "num_followers": 36968,
+  "num_followers": 36978,
   "original_name": "IndiEnglish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpDxfgAAAADciHzFy+6CjoL6F7Z0t3Ok",
+  "snapshot_id": "ZptMDAAAAACR8labfXxC9zS6d2oTN218",
   "tracks": [
     {
       "added_at": "2024-07-12 09:03:58",
@@ -149,20 +149,20 @@
       "url": "https://open.spotify.com/track/6GoJ0lUo9yEN6aahDXZ2VZ"
     },
     {
-      "added_at": "2024-07-12 09:03:58",
+      "added_at": "2024-07-20 05:33:00",
       "album": {
-        "name": "Making Steak",
-        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
+        "name": "For a While",
+        "url": "https://open.spotify.com/album/6aNgCHHG3x5U112Wuj0fZ4"
       },
       "artists": [
         {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+          "name": "Krishnahazar",
+          "url": "https://open.spotify.com/artist/2Z16jBrzl4twrIQ1NCQb7d"
         }
       ],
-      "duration_ms": 203532,
-      "name": "Dancing with my phone",
-      "url": "https://open.spotify.com/track/6ppefZt5uQ62aHAfSa1Jx9"
+      "duration_ms": 188214,
+      "name": "For a While",
+      "url": "https://open.spotify.com/track/1yhfYBmhghTPVEs103vITH"
     },
     {
       "added_at": "2024-07-12 09:03:58",
@@ -195,6 +195,22 @@
       "duration_ms": 204565,
       "name": "Want Me Now",
       "url": "https://open.spotify.com/track/3ut2AuTjfESYl8AJbUtHPU"
+    },
+    {
+      "added_at": "2024-07-12 09:03:58",
+      "album": {
+        "name": "Making Steak",
+        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 203532,
+      "name": "Dancing with my phone",
+      "url": "https://open.spotify.com/track/6ppefZt5uQ62aHAfSa1Jx9"
     },
     {
       "added_at": "2024-07-12 09:03:58",
@@ -315,22 +331,6 @@
     {
       "added_at": "2024-07-12 09:03:58",
       "album": {
-        "name": "Making Steak",
-        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 198612,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/0H4oRjAoMl6EVhBZraB0fn"
-    },
-    {
-      "added_at": "2024-07-12 09:03:58",
-      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/2I7m8ajkcmyuaYWdVG2VoC"
       },
@@ -359,6 +359,22 @@
       "duration_ms": 218000,
       "name": "so beautiful, with you",
       "url": "https://open.spotify.com/track/30amHpRQprKxYbVh7bVWfl"
+    },
+    {
+      "added_at": "2024-07-12 09:03:58",
+      "album": {
+        "name": "Making Steak",
+        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 198612,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/0H4oRjAoMl6EVhBZraB0fn"
     },
     {
       "added_at": "2024-07-12 09:03:58",
@@ -643,6 +659,74 @@
     {
       "added_at": "2024-07-12 09:03:58",
       "album": {
+        "name": "Heartbreak 2020",
+        "url": "https://open.spotify.com/album/2zjPqiapUHz5lSNL8NImwp"
+      },
+      "artists": [
+        {
+          "name": "Kamakshi Khanna",
+          "url": "https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq"
+        }
+      ],
+      "duration_ms": 172758,
+      "name": "Heartbreak 2020",
+      "url": "https://open.spotify.com/track/0PIyGX9ZcJWNnyEtQfMNAW"
+    },
+    {
+      "added_at": "2024-07-12 09:03:58",
+      "album": {
+        "name": "Hope this song finds you",
+        "url": "https://open.spotify.com/album/14chazI21bYizAAr0t2Mlr"
+      },
+      "artists": [
+        {
+          "name": "Arham Fulfagar",
+          "url": "https://open.spotify.com/artist/4ul4X6GIdmYLXjWpsYRU4E"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "Hope this song finds you",
+      "url": "https://open.spotify.com/track/6dNDbNSwF4gF3Cp8hDCnpQ"
+    },
+    {
+      "added_at": "2024-07-12 09:03:58",
+      "album": {
+        "name": "Model",
+        "url": "https://open.spotify.com/album/4GSiUIXVqq2mICYcy6CAhC"
+      },
+      "artists": [
+        {
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+        }
+      ],
+      "duration_ms": 202605,
+      "name": "Model",
+      "url": "https://open.spotify.com/track/2Zazn9812HoUjjs1fN6cMP"
+    },
+    {
+      "added_at": "2024-07-12 09:03:58",
+      "album": {
+        "name": "The Archies (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2qHdnDIIyffdF46dwQ4V8i"
+      },
+      "artists": [
+        {
+          "name": "Dot.",
+          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
+        },
+        {
+          "name": "Tejas",
+          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Asymmetrical",
+      "url": "https://open.spotify.com/track/4Wi8LAUHkE2fWjGvrelJ4h"
+    },
+    {
+      "added_at": "2024-07-12 09:03:58",
+      "album": {
         "name": "Nature Tapes, Vol. 1",
         "url": "https://open.spotify.com/album/3JxsX5nmbAn0lMrOcD5gPA"
       },
@@ -675,54 +759,34 @@
     {
       "added_at": "2024-07-12 09:03:58",
       "album": {
-        "name": "Model",
-        "url": "https://open.spotify.com/album/4GSiUIXVqq2mICYcy6CAhC"
+        "name": "Overrated",
+        "url": "https://open.spotify.com/album/6wdJu0Z74v0zKWnf2oUh8E"
       },
       "artists": [
         {
-          "name": "ADOY",
-          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+          "name": "Trance Effect",
+          "url": "https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A"
         }
       ],
-      "duration_ms": 202605,
-      "name": "Model",
-      "url": "https://open.spotify.com/track/2Zazn9812HoUjjs1fN6cMP"
+      "duration_ms": 200000,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/5lSUuHikeDyhMJlWHLfDPi"
     },
     {
       "added_at": "2024-07-12 09:03:58",
       "album": {
-        "name": "Hope this song finds you",
-        "url": "https://open.spotify.com/album/14chazI21bYizAAr0t2Mlr"
+        "name": "Foolish Once Again",
+        "url": "https://open.spotify.com/album/2F8nmRroxmD3yHbnFiN1tV"
       },
       "artists": [
         {
-          "name": "Arham Fulfagar",
-          "url": "https://open.spotify.com/artist/4ul4X6GIdmYLXjWpsYRU4E"
+          "name": "Frizzell D'souza",
+          "url": "https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ"
         }
       ],
-      "duration_ms": 138461,
-      "name": "Hope this song finds you",
-      "url": "https://open.spotify.com/track/6dNDbNSwF4gF3Cp8hDCnpQ"
-    },
-    {
-      "added_at": "2024-07-12 09:03:58",
-      "album": {
-        "name": "The Archies (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2qHdnDIIyffdF46dwQ4V8i"
-      },
-      "artists": [
-        {
-          "name": "Dot.",
-          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
-        },
-        {
-          "name": "Tejas",
-          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Asymmetrical",
-      "url": "https://open.spotify.com/track/4Wi8LAUHkE2fWjGvrelJ4h"
+      "duration_ms": 243692,
+      "name": "Foolish Once Again",
+      "url": "https://open.spotify.com/track/5fv2dx3jfxxX8Gqvzl6TjI"
     },
     {
       "added_at": "2024-07-12 09:03:58",
@@ -736,25 +800,9 @@
           "url": "https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq"
         }
       ],
-      "duration_ms": 172758,
-      "name": "Heartbreak 2020",
-      "url": "https://open.spotify.com/track/0PIyGX9ZcJWNnyEtQfMNAW"
-    },
-    {
-      "added_at": "2024-07-12 09:03:58",
-      "album": {
-        "name": "Overrated",
-        "url": "https://open.spotify.com/album/6wdJu0Z74v0zKWnf2oUh8E"
-      },
-      "artists": [
-        {
-          "name": "Trance Effect",
-          "url": "https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Overrated",
-      "url": "https://open.spotify.com/track/5lSUuHikeDyhMJlWHLfDPi"
+      "duration_ms": 165732,
+      "name": "Tourist",
+      "url": "https://open.spotify.com/track/7enEWPtX7qbL0AiiIwY59s"
     },
     {
       "added_at": "2024-07-12 09:03:58",
@@ -787,22 +835,6 @@
       "duration_ms": 188689,
       "name": "People",
       "url": "https://open.spotify.com/track/0lygeGFALYsTrHXi6yThOK"
-    },
-    {
-      "added_at": "2024-07-12 09:03:58",
-      "album": {
-        "name": "Foolish Once Again",
-        "url": "https://open.spotify.com/album/2F8nmRroxmD3yHbnFiN1tV"
-      },
-      "artists": [
-        {
-          "name": "Frizzell D'souza",
-          "url": "https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ"
-        }
-      ],
-      "duration_ms": 243692,
-      "name": "Foolish Once Again",
-      "url": "https://open.spotify.com/track/5fv2dx3jfxxX8Gqvzl6TjI"
     },
     {
       "added_at": "2024-07-12 09:03:58",
@@ -871,22 +903,6 @@
     {
       "added_at": "2024-07-12 09:03:58",
       "album": {
-        "name": "Heartbreak 2020",
-        "url": "https://open.spotify.com/album/2zjPqiapUHz5lSNL8NImwp"
-      },
-      "artists": [
-        {
-          "name": "Kamakshi Khanna",
-          "url": "https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq"
-        }
-      ],
-      "duration_ms": 165732,
-      "name": "Tourist",
-      "url": "https://open.spotify.com/track/7enEWPtX7qbL0AiiIwY59s"
-    },
-    {
-      "added_at": "2024-07-12 09:03:58",
-      "album": {
         "name": "The Hills Know Of You",
         "url": "https://open.spotify.com/album/7bmnGlu7dJtSgACtv2cZNA"
       },
@@ -899,6 +915,22 @@
       "duration_ms": 198000,
       "name": "The Hills Know Of You",
       "url": "https://open.spotify.com/track/0iDuVPiWspI7lcWRrFJ9LC"
+    },
+    {
+      "added_at": "2024-07-12 09:03:58",
+      "album": {
+        "name": "Peace Lily",
+        "url": "https://open.spotify.com/album/1YNZ0OwZKqDwMXtAjhtTlc"
+      },
+      "artists": [
+        {
+          "name": "Aarya",
+          "url": "https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf"
+        }
+      ],
+      "duration_ms": 225216,
+      "name": "Peace Lily",
+      "url": "https://open.spotify.com/track/1SASOKMlkabWVo1SwZdzDA"
     },
     {
       "added_at": "2024-07-12 09:03:58",
@@ -919,22 +951,6 @@
       "duration_ms": 155860,
       "name": "Mutual",
       "url": "https://open.spotify.com/track/25T9KzOqSe44j3nsWuKfiM"
-    },
-    {
-      "added_at": "2024-07-12 09:03:58",
-      "album": {
-        "name": "Peace Lily",
-        "url": "https://open.spotify.com/album/1YNZ0OwZKqDwMXtAjhtTlc"
-      },
-      "artists": [
-        {
-          "name": "Aarya",
-          "url": "https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf"
-        }
-      ],
-      "duration_ms": 225216,
-      "name": "Peace Lily",
-      "url": "https://open.spotify.com/track/1SASOKMlkabWVo1SwZdzDA"
     },
     {
       "added_at": "2024-07-12 09:03:58",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2024-07-12 09:03:58",
       "album": {
-        "name": "Because Because Because",
-        "url": "https://open.spotify.com/album/5nRXba9Mx7yK0FqrwneBvY"
-      },
-      "artists": [
-        {
-          "name": "Nikhil D'Souza",
-          "url": "https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC"
-        }
-      ],
-      "duration_ms": 238899,
-      "name": "Because Because Because",
-      "url": "https://open.spotify.com/track/3Ke8cQwRISvXEXXvHou7Rv"
-    },
-    {
-      "added_at": "2024-07-12 09:03:58",
-      "album": {
         "name": "The Hills Know Of You",
         "url": "https://open.spotify.com/album/0oJkrsCaWMPcAOhMd1f0Xn"
       },
@@ -1183,6 +1183,22 @@
       "duration_ms": 170400,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/2AuCCfMVTPtMS023qXYGlB"
+    },
+    {
+      "added_at": "2024-07-12 09:03:58",
+      "album": {
+        "name": "Because Because Because",
+        "url": "https://open.spotify.com/album/5nRXba9Mx7yK0FqrwneBvY"
+      },
+      "artists": [
+        {
+          "name": "Nikhil D'Souza",
+          "url": "https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC"
+        }
+      ],
+      "duration_ms": 238899,
+      "name": "Because Because Because",
+      "url": "https://open.spotify.com/track/3Ke8cQwRISvXEXXvHou7Rv"
     },
     {
       "added_at": "2024-07-12 09:03:58",
@@ -1263,22 +1279,6 @@
       "duration_ms": 187666,
       "name": "Gimme Love",
       "url": "https://open.spotify.com/track/4Lrj5gedGK2BoHYlmIQSjd"
-    },
-    {
-      "added_at": "2024-07-12 09:03:58",
-      "album": {
-        "name": "Blue Sweatshirt",
-        "url": "https://open.spotify.com/album/35uZu48y9q6uQdfkR0kBjU"
-      },
-      "artists": [
-        {
-          "name": "Trance Effect",
-          "url": "https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Blue Sweatshirt",
-      "url": "https://open.spotify.com/track/3lnKi2aWh2tS1MvHGLFA3B"
     }
   ],
   "unique_name": "IndiEnglish",

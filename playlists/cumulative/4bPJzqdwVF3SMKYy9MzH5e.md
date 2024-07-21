@@ -4,7 +4,7 @@
 
 > 
 
-1,937 songs - 4 day 8 hr 29 min
+1,938 songs - 4 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1655,6 +1655,7 @@
 | [Telephony](https://open.spotify.com/track/3tmQWvFXANFgOd6jJgdIVQ) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 4:36 | 2022-04-03 |  |
 | [Television / So Far So Good](https://open.spotify.com/track/5OUTFH5acycdnf8OVo21Gv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Apricot Princess](https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH) | 4:22 | 2021-08-05 |  |
 | [Tell Em](https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Tell Em](https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ) | 3:00 | 2021-08-05 |  |
+| [tension](https://open.spotify.com/track/01kclZe2YxCS39ykf4Wpzd) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [tension](https://open.spotify.com/album/4UKvA0W2eTUphnKu0TRRSo) | 2:10 | 2024-07-20 |  |
 | [Territorial Pissings](https://open.spotify.com/track/4zZh3CwOCWGjxxfXNocAOe) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind](https://open.spotify.com/album/6yaiubHHJy8N8QcHy3julo) | 2:22 | 2021-08-05 |  |
 | [text me back](https://open.spotify.com/track/0WdMRbjB45q2Rl7FTZ5Q5n) | [TOKYOPILL](https://open.spotify.com/artist/39kuwM2oBNmrM3kEYVmk2X) | [VIRTUAL DEATH 9 5](https://open.spotify.com/album/3wgQAnJoHQ7BfEZsH2mTQD) | 1:07 | 2022-02-04 |  |
 | [Thalassophobia](https://open.spotify.com/track/1pcDlqCeLHpxK6xVdv6ONZ) | [APHØTIC](https://open.spotify.com/artist/0bMxsn0N2APrVga72XmQJ4) | [Thalassophobia](https://open.spotify.com/album/3JHerj4helcEAuoZzsfkSE) | 5:37 | 2024-05-14 |  |

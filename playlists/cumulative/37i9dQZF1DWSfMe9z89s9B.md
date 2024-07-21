@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Amindi
 
-1,237 songs - 2 day 17 hr 27 min
+1,238 songs - 2 day 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,6 +382,7 @@
 | [FLORIDA BABY](https://open.spotify.com/track/722k2gLamerL9i7bTlGJrm) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [FLORIDA BABY](https://open.spotify.com/album/4LTy8CCkKN3YCB6zQ4OJou) | 2:20 | 2024-03-15 |  |
 | [Flow State](https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Flow State](https://open.spotify.com/album/3RsIqH2zBlSWAnehnZ8KwP) | 4:02 | 2023-07-21 |  |
 | [Fly](https://open.spotify.com/track/5i7ZEk2uiG4t4Czf8MKImF) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Fly](https://open.spotify.com/album/4PdghOXArMQYltT3xYpCQI) | 3:05 | 2023-07-28 | 2023-10-07 |
+| [Fly On the Wall\. \(Osaka Version\)](https://open.spotify.com/track/6lZC0P2I2CB1zL1bSbijpz) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Fly On the Wall\. \(Osaka Version\)](https://open.spotify.com/album/229219MaA5bdnCL9XFHfw5) | 3:42 | 2024-07-19 |  |
 | [Fly on Your Wall](https://open.spotify.com/track/5a3wssFEZkJ14B7UeUg0GS) | [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a), [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf), [Ezra Martin](https://open.spotify.com/artist/1DDWw9aZYz7pXgs9jmf6Go) | [Fly on Your Wall](https://open.spotify.com/album/5VuZOE3FqvMJ5lwfVVweSk) | 3:17 | 2022-09-16 | 2022-09-24 |
 | [FML](https://open.spotify.com/track/7qPTGnMtJoUMNJzDPxA74k) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Pseudo](https://open.spotify.com/album/0wUIVK2RgEzIWgxmihbaiz) | 2:38 | 2023-04-28 | 2023-08-27 |
 | [Fool 4 U](https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y4](https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR) | 2:59 | 2022-09-02 | 2022-12-03 |
@@ -1094,7 +1095,7 @@
 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 | 2022-04-01 | 2022-10-08 |
 | [Tightrope](https://open.spotify.com/track/4L9F956l8R1bKr2QLH9q1N) | [Olu Bliss](https://open.spotify.com/artist/678OPmqIs9qhpULpdD8T2h) | [Tightrope](https://open.spotify.com/album/4ZMibYwiTjtdstL2MjLb74) | 3:39 | 2021-06-04 | 2022-01-26 |
 | [Time](https://open.spotify.com/track/4DD7pNR3Q3wGCck3N58LbN) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Time](https://open.spotify.com/album/4JIqSYtTrU9W0p92QrjHrd) | 3:20 | 2023-05-05 | 2024-05-05 |
-| [Time Apart](https://open.spotify.com/track/7Bi4OrBlggm1PaobdxW9Up) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0) | [The Burden of Fever Dreams](https://open.spotify.com/album/5uLDLgEEZgACeR6JiCeg9H) | 2:40 | 2024-03-22 |  |
+| [Time Apart](https://open.spotify.com/track/7Bi4OrBlggm1PaobdxW9Up) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0) | [The Burden of Fever Dreams](https://open.spotify.com/album/5uLDLgEEZgACeR6JiCeg9H) | 2:40 | 2024-03-22 | 2024-07-21 |
 | [TIME FOR YOU](https://open.spotify.com/track/1DPLs8cVyL1Trlg5Kayua7) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [TIME FOR YOU](https://open.spotify.com/album/7kdjlaRQdB1u6PhdTSgXMC) | 3:23 | 2022-04-01 | 2022-04-15 |
 | [Tinko Tinko \(Don't Play Me for a Fool\)](https://open.spotify.com/track/6f8pOnEswFwiU4FTcZicV6) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Tinko Tinko \(Don't Play Me For a Fool\)](https://open.spotify.com/album/2Dav0MhZTRuj13ZPSBYmtX) | 3:07 | 2022-04-01 | 2022-04-16 |
 | [Tiny Garden](https://open.spotify.com/track/40ke1BOmv6yyUrfbchPr3P) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [duendita](https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22) | [Tiny Garden](https://open.spotify.com/album/6auEC4yc0x3xoYv580Dbke) | 4:11 | 2023-07-14 | 2023-12-09 |

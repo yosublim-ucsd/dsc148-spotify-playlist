@@ -164,10 +164,32 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 223741,
       "name": "5AM",
       "url": "https://open.spotify.com/track/3Jgua4smPx1L5VDxxvyBsh"
+    },
+    {
+      "album": {
+        "name": "7 Minutes in Hell",
+        "url": "https://open.spotify.com/album/06F5oVa8NEp8ABHMhDhbiX"
+      },
+      "artists": [
+        {
+          "name": "Chrissy Costanza",
+          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
+        },
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "7 Minutes in Hell",
+      "url": "https://open.spotify.com/track/0n59ZBDoWijyJezvnA13cl"
     },
     {
       "album": {
@@ -10207,7 +10229,7 @@
     },
     {
       "album": {
-        "name": "Paralyzed (feat. Attack Attack!)",
+        "name": "Paralyzed",
         "url": "https://open.spotify.com/album/238QCuqkflGRVqbJJ2rL9R"
       },
       "artists": [

@@ -8197,6 +8197,24 @@
     },
     {
       "album": {
+        "name": "Chor\u00e9",
+        "url": "https://open.spotify.com/album/2RRwrVWsZeNCTq6y3ORp20"
+      },
+      "artists": [
+        {
+          "name": "Hatik",
+          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180228,
+      "name": "Chor\u00e9",
+      "url": "https://open.spotify.com/track/2J6iYDncej8Z1vOiisz7zN"
+    },
+    {
+      "album": {
         "name": "Chrome",
         "url": "https://open.spotify.com/album/4sDZK3v11y3o90np32XcJS"
       },
@@ -12570,6 +12588,24 @@
       "duration_ms": 154482,
       "name": "Doom",
       "url": "https://open.spotify.com/track/2Wx68wiDmnjd97UdWq9qia"
+    },
+    {
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/1vo1KYEtI5p0nu7ALn8U6E"
+      },
+      "artists": [
+        {
+          "name": "Olivier Dion",
+          "url": "https://open.spotify.com/artist/0PruFnhaNaqZRPJO1s73Em"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130628,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/21Ctmv1xIMNqEaJeZCYITE"
     },
     {
       "album": {
@@ -24272,7 +24308,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 272413,
       "name": "La Diff\u00e9rence",
       "url": "https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6"
@@ -42620,7 +42656,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 157643,
       "name": "Sentiments",
       "url": "https://open.spotify.com/track/6kjduA3AGvdjArQrIt9tMx"

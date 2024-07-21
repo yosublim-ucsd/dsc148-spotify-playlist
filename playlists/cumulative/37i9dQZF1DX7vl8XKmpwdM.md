@@ -4,7 +4,7 @@
 
 > Dance Machi Dance<br/>Cover : GOAT
 
-144 songs - 8 hr 38 min
+145 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Maalta \- From "Kudimahaan"](https://open.spotify.com/track/6oSvoNGiPp3kaT3Qbbwm3X) | [Tanuj Menon](https://open.spotify.com/artist/4KxyMwBnfRMC3tNpPJOKxA), [Gana Balachandar](https://open.spotify.com/artist/1GH0DojDQJeEKQ4BDMShAL), [Gana Gokul](https://open.spotify.com/artist/7JkhqdTsDxQoJyNp99ofQB) | [Maalta \(From "Kudimahaan"\)](https://open.spotify.com/album/7I7oHhUGVnwiiJwuyiPYzv) | 4:32 | 2023-02-16 | 2023-03-29 |
 | [Maamadura \- From "Jigarthanda DoubleX"](https://open.spotify.com/track/5DezAsjtSLUxW9j00eh0Ia) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Maamadura \(From "Jigarthanda DoubleX"\)](https://open.spotify.com/album/6ndlH0frO7Ol70wcwNrcIS) | 2:48 | 2023-10-09 |  |
 | [Madthapetti](https://open.spotify.com/track/6wGWoPqztBH2UfIKsgZXHD) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Manu](https://open.spotify.com/artist/15Z6MWPrXCZD0TwlA36BeH), [Ninsy](https://open.spotify.com/artist/4xRZnTBoafsKYfHMgb2Dut), [Naveen](https://open.spotify.com/artist/4xbLzGsR7W5QMlLS08BNGt) | [Guntur Kaaram \(Tamil\)](https://open.spotify.com/album/6uSCeFSBleiltMou95hJJg) | 4:17 | 2024-02-28 | 2024-03-13 |
+| [Makkamishi \- From "Brother"](https://open.spotify.com/track/0T1cGhK2iio0JmaVT3Vh47) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx) | [Makkamishi \(From "Brother"\)](https://open.spotify.com/album/0ScQvvJTicZFU6msnflOj7) | 4:14 | 2024-07-20 |  |
 | [Mangalyam](https://open.spotify.com/track/7n5Jcqw85WSfJHrMXsk5N2) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Roshini JKV](https://open.spotify.com/artist/5e7jC00VGhxRpK5f9ahXhX) | [Eeswaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/01o6a3aUODtx67UiWJnABf) | 4:20 | 2021-12-01 | 2023-04-18 |
 | [Mashooka \(Tamil\) \[feat\. Rakul Preet Singh\]](https://open.spotify.com/track/0RHBdFlKMpvsWJGMsPuFkI) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Aditya Iyengar](https://open.spotify.com/artist/47DIrvE03m9rQzgFXu9eJo), [Rakul Preet Singh](https://open.spotify.com/artist/1MKWS2FzyIsjlLV9v926gU) | [Mashooka \(Tamil\) \[feat\. Rakul Preet Singh\]](https://open.spotify.com/album/6rwRAdvQRUTXHaOeG6QwCU) | 3:07 | 2022-07-28 | 2022-08-17 |
 | [Master the Blaster \(From "Master"\)](https://open.spotify.com/track/2cVJDlu9jmkPUeuJxA6v8i) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Bjorn Surrao](https://open.spotify.com/artist/6WaQm4n7YfvvH7r94yMAeu) | [Master the Blaster \(From "Master"\)](https://open.spotify.com/album/5WJcoXdTMji80ZtFDQgZrL) | 1:32 | 2021-12-01 | 2024-04-16 |

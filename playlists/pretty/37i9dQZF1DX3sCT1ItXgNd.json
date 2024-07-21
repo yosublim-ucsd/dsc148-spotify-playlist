@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Aitana",
-  "num_followers": 964226,
+  "num_followers": 964290,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "Lucas y Marta",
+        "url": "https://open.spotify.com/album/63YPKYEGvtHH61oEpJfwWz"
+      },
+      "artists": [
+        {
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
+        }
+      ],
+      "duration_ms": 158750,
+      "name": "Lucas y Marta",
+      "url": "https://open.spotify.com/track/0GnBtvSUflXvdTTtTYRFA3"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "GOOD DAY (feat. Camidoh)",
         "url": "https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 164765,
       "name": "GOOD DAY (feat. Camidoh)",
       "url": "https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Lucas y Marta",
-        "url": "https://open.spotify.com/album/63YPKYEGvtHH61oEpJfwWz"
-      },
-      "artists": [
-        {
-          "name": "Marlon",
-          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
-        }
-      ],
-      "duration_ms": 158750,
-      "name": "Lucas y Marta",
-      "url": "https://open.spotify.com/track/0GnBtvSUflXvdTTtTYRFA3"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -899,6 +899,22 @@
       "duration_ms": 163578,
       "name": "EL FORASTERO",
       "url": "https://open.spotify.com/track/1W4IXAf9YN7FOsdycfu7j8"
+    },
+    {
+      "added_at": "2024-07-19 08:29:49",
+      "album": {
+        "name": "\u00bfPara Qu\u00e9?",
+        "url": "https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 147640,
+      "name": "\u00bfPara Qu\u00e9?",
+      "url": "https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -971,22 +987,6 @@
       "duration_ms": 155625,
       "name": "GARITO EN MALASA\u00d1A",
       "url": "https://open.spotify.com/track/44KlWlxTCSrKqGG5Clm0CS"
-    },
-    {
-      "added_at": "2024-07-19 08:29:49",
-      "album": {
-        "name": "\u00bfPara Qu\u00e9?",
-        "url": "https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 147640,
-      "name": "\u00bfPara Qu\u00e9?",
-      "url": "https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2"
     },
     {
       "added_at": "2024-07-18 22:00:00",

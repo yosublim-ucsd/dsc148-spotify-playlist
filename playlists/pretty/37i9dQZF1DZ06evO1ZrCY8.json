@@ -1,12 +1,12 @@
 {
-  "description": "This is Heroes Del Silencio. Tutti i brani in un'unica playlist.",
-  "num_followers": 188760,
+  "description": "This is Heroes Del Silencio. The essential tracks, all in one playlist.",
+  "num_followers": 188824,
   "original_name": "This Is Heroes Del Silencio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZphbAAAAAAB5ZI0Hv9teSAQP/c7lGpma",
+  "snapshot_id": "ZpmsgAAAAABtQNXxslX/4lG/PmLKKf+n",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 256546,
-      "name": "Con nombre de guerra",
-      "url": "https://open.spotify.com/track/2W0SOlPRDSxLLbMNR9tR7P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tour 2007",
         "url": "https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 280560,
       "name": "El estanque - Live",
       "url": "https://open.spotify.com/track/2vrVlidqD4TPASvwqlBztv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 256546,
+      "name": "Con nombre de guerra",
+      "url": "https://open.spotify.com/track/2W0SOlPRDSxLLbMNR9tR7P"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 248586,
-      "name": "Oraci\u00f3n",
-      "url": "https://open.spotify.com/track/2y2EIt9PIGMXcxufDBkU9v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Platinum Collection",
         "url": "https://open.spotify.com/album/6EdwaXDANI01KsWzOyLFt3"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 414920,
       "name": "La herida",
       "url": "https://open.spotify.com/track/2aegLCwIWlVYvCjUf641Qr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 248586,
+      "name": "Oraci\u00f3n",
+      "url": "https://open.spotify.com/track/2y2EIt9PIGMXcxufDBkU9v"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
       "duration_ms": 256253,
       "name": "Decadencia",
       "url": "https://open.spotify.com/track/5Uqw9M6tKMWka2pmMcWGoE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Esp\u00edritu del Vino-20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/46OqhyoVeC27eY4keJehHa"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 36480,
+      "name": "Bendecida 2 - 2012 Remastered Version",
+      "url": "https://open.spotify.com/track/4J0HROC9pT8Wdahp2M6gHO"
     },
     {
       "added_at": null,
@@ -680,9 +696,9 @@
           "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
         }
       ],
-      "duration_ms": 36480,
-      "name": "Bendecida 2 - 2012 Remastered Version",
-      "url": "https://open.spotify.com/track/4J0HROC9pT8Wdahp2M6gHO"
+      "duration_ms": 318840,
+      "name": "Sangre hirviendo - 2012 Remastered Version",
+      "url": "https://open.spotify.com/track/0Y01aV2CFzCawjqFIArGmB"
     },
     {
       "added_at": null,
@@ -735,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Esp\u00edritu del Vino-20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/46OqhyoVeC27eY4keJehHa"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 318840,
-      "name": "Sangre hirviendo - 2012 Remastered Version",
-      "url": "https://open.spotify.com/track/0Y01aV2CFzCawjqFIArGmB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parasiempre",
         "url": "https://open.spotify.com/album/3hLMxN4If95jDUnv4ebMxI"
       },
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mar No Cesa",
-        "url": "https://open.spotify.com/album/3qnbkXzDzbClaESvDYeEnq"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 210893,
-      "name": "Olvidado",
-      "url": "https://open.spotify.com/track/7zk3hfoyY091DiGRET3vfN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Avalancha- Edici\u00f3n Especial",
         "url": "https://open.spotify.com/album/5e1v1vALoEYeOLFaFwmxi4"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 225226,
       "name": "...Y para siempre",
       "url": "https://open.spotify.com/track/6D7gPrYpET9NhpowaUFT2E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mar No Cesa",
+        "url": "https://open.spotify.com/album/3qnbkXzDzbClaESvDYeEnq"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 210893,
+      "name": "Olvidado",
+      "url": "https://open.spotify.com/track/7zk3hfoyY091DiGRET3vfN"
     }
   ],
   "unique_name": "This Is Heroes Del Silencio",

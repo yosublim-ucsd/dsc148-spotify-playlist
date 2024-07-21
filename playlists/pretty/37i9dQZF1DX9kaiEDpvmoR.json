@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92196,
+  "num_followers": 92193,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Hoppas du m\u00e5r bra",
-        "url": "https://open.spotify.com/album/3gSVVZjJ5EwrkqReBk6ff4"
+        "name": "Sally/Hungry Eyes",
+        "url": "https://open.spotify.com/album/4s7h1Ew5dA1ofYiSQ2XPFQ"
       },
       "artists": [
         {
-          "name": "Klara Almstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
+          "name": "June Vide",
+          "url": "https://open.spotify.com/artist/20armtjDqM2eubNGx6P6p1"
         }
       ],
-      "duration_ms": 196560,
-      "name": "Hoppas du m\u00e5r bra",
-      "url": "https://open.spotify.com/track/7FUXC8AnXYjpQrBHX5wqlA"
+      "duration_ms": 207300,
+      "name": "Sally/Hungry Eyes",
+      "url": "https://open.spotify.com/track/2eyNZz8rxzDg2SScNaO4NQ"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Hoppas du m\u00e5r bra",
+        "url": "https://open.spotify.com/album/3gSVVZjJ5EwrkqReBk6ff4"
+      },
+      "artists": [
+        {
+          "name": "Klara Almstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
+        }
+      ],
+      "duration_ms": 196560,
+      "name": "Hoppas du m\u00e5r bra",
+      "url": "https://open.spotify.com/track/7FUXC8AnXYjpQrBHX5wqlA"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Solen g\u00e5r aldrig ner",
         "url": "https://open.spotify.com/album/2y5tJvYtWXmNNXizFcF9LT"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 160095,
       "name": "Solen g\u00e5r aldrig ner",
       "url": "https://open.spotify.com/track/7sWi4kUiI1o0dmp72tfZpS"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Sally/Hungry Eyes",
-        "url": "https://open.spotify.com/album/4s7h1Ew5dA1ofYiSQ2XPFQ"
-      },
-      "artists": [
-        {
-          "name": "June Vide",
-          "url": "https://open.spotify.com/artist/20armtjDqM2eubNGx6P6p1"
-        }
-      ],
-      "duration_ms": 207300,
-      "name": "Sally/Hungry Eyes",
-      "url": "https://open.spotify.com/track/2eyNZz8rxzDg2SScNaO4NQ"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -735,6 +735,26 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Viker inte ner mig \u00e4n",
+        "url": "https://open.spotify.com/album/2mFPWvGbmGbPErZLI1qAl2"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ledin",
+          "url": "https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn"
+        },
+        {
+          "name": "Vapendragarna",
+          "url": "https://open.spotify.com/artist/2oLvIYXFghwfx85ywFoR2G"
+        }
+      ],
+      "duration_ms": 227400,
+      "name": "Viker inte ner mig \u00e4n",
+      "url": "https://open.spotify.com/track/1PIDqdVm2Or0tep3zHbkBz"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Lucy Rider",
         "url": "https://open.spotify.com/album/5CD61BtzWq6aPXULvnAnve"
       },
@@ -771,46 +791,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Viker inte ner mig \u00e4n",
-        "url": "https://open.spotify.com/album/2mFPWvGbmGbPErZLI1qAl2"
-      },
-      "artists": [
-        {
-          "name": "Tomas Ledin",
-          "url": "https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn"
-        },
-        {
-          "name": "Vapendragarna",
-          "url": "https://open.spotify.com/artist/2oLvIYXFghwfx85ywFoR2G"
-        }
-      ],
-      "duration_ms": 227400,
-      "name": "Viker inte ner mig \u00e4n",
-      "url": "https://open.spotify.com/track/1PIDqdVm2Or0tep3zHbkBz"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Fri till slut - Spotify Singles",
-        "url": "https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        },
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 288155,
-      "name": "Fri till slut - Spotify Singles",
-      "url": "https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/5Eia9IVqXdnCdYlH4bYIqy"
       },
@@ -835,6 +815,26 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Fri till slut - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        },
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 288155,
+      "name": "Fri till slut - Spotify Singles",
+      "url": "https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Walk With Me - Chod\u017a ze mn\u0105",
         "url": "https://open.spotify.com/album/1NQkvIurxrCar63mMVxX4z"
       },
@@ -851,6 +851,26 @@
       "duration_ms": 168457,
       "name": "Walk With Me - Chod\u017a ze mn\u0105",
       "url": "https://open.spotify.com/track/2WVD6L40UgAfoGqkLplnlr"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Som jag har l\u00e4ngtat",
+        "url": "https://open.spotify.com/album/183IIgn8Rta9AJkGaP90wG"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ledin",
+          "url": "https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn"
+        },
+        {
+          "name": "Vapendragarna",
+          "url": "https://open.spotify.com/artist/2oLvIYXFghwfx85ywFoR2G"
+        }
+      ],
+      "duration_ms": 206955,
+      "name": "Som jag har l\u00e4ngtat",
+      "url": "https://open.spotify.com/track/4DWHJnyw4aeD3lQqnHyf0S"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -903,42 +923,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Manic Pixie Dream Girl",
-        "url": "https://open.spotify.com/album/2SwuFnNlOESLujPQxIqXYr"
-      },
-      "artists": [
-        {
-          "name": "Maja Francis",
-          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
-        }
-      ],
-      "duration_ms": 163984,
-      "name": "Manic Pixie Dream Girl",
-      "url": "https://open.spotify.com/track/4xnS3g0dqWujMo3prnQwIn"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Som jag har l\u00e4ngtat",
-        "url": "https://open.spotify.com/album/183IIgn8Rta9AJkGaP90wG"
-      },
-      "artists": [
-        {
-          "name": "Tomas Ledin",
-          "url": "https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn"
-        },
-        {
-          "name": "Vapendragarna",
-          "url": "https://open.spotify.com/artist/2oLvIYXFghwfx85ywFoR2G"
-        }
-      ],
-      "duration_ms": 206955,
-      "name": "Som jag har l\u00e4ngtat",
-      "url": "https://open.spotify.com/track/4DWHJnyw4aeD3lQqnHyf0S"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "En F\u00f6rsta Dans",
         "url": "https://open.spotify.com/album/5uizL4oF1rIIaQoqFC683R"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 130285,
       "name": "En F\u00f6rsta Dans",
       "url": "https://open.spotify.com/track/2M0mCS649bGFR0Y9tPpCer"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Manic Pixie Dream Girl",
+        "url": "https://open.spotify.com/album/2SwuFnNlOESLujPQxIqXYr"
+      },
+      "artists": [
+        {
+          "name": "Maja Francis",
+          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
+        }
+      ],
+      "duration_ms": 163984,
+      "name": "Manic Pixie Dream Girl",
+      "url": "https://open.spotify.com/track/4xnS3g0dqWujMo3prnQwIn"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/4vk66a9MvfT6Zz1NGhfVh0"
-      },
-      "artists": [
-        {
-          "name": "ELMA",
-          "url": "https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c"
-        }
-      ],
-      "duration_ms": 194509,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/3uxYhXV0mZimmqvRbZbpX7"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Mordbrand",
         "url": "https://open.spotify.com/album/1Qq4f6MVfVz1QG0NSvSB6D"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 218103,
       "name": "Mordbrand",
       "url": "https://open.spotify.com/track/5wcN4IzrDi0vEEAL5etavw"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/4vk66a9MvfT6Zz1NGhfVh0"
+      },
+      "artists": [
+        {
+          "name": "ELMA",
+          "url": "https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c"
+        }
+      ],
+      "duration_ms": 194509,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/3uxYhXV0mZimmqvRbZbpX7"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Whenever Until Forever",
+        "url": "https://open.spotify.com/album/5Usc0cjLbxZIYTHITrYzpH"
+      },
+      "artists": [
+        {
+          "name": "Andreas Aleman",
+          "url": "https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "Whenever Until Forever",
+      "url": "https://open.spotify.com/track/37EADDLCH83KNNW0ydwhNO"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "D enkla livet",
         "url": "https://open.spotify.com/album/47TXTOoOZnIUFV9WqSKkO0"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 177146,
       "name": "Queen Of Pearls",
       "url": "https://open.spotify.com/track/584mfOg5T8fMsHmYCAZTN2"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Whenever Until Forever",
-        "url": "https://open.spotify.com/album/5Usc0cjLbxZIYTHITrYzpH"
-      },
-      "artists": [
-        {
-          "name": "Andreas Aleman",
-          "url": "https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "Whenever Until Forever",
-      "url": "https://open.spotify.com/track/37EADDLCH83KNNW0ydwhNO"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "True Romantic",
-        "url": "https://open.spotify.com/album/3qK8CbdoXxqT1MJHvOGTIM"
-      },
-      "artists": [
-        {
-          "name": "Linda Sundblad",
-          "url": "https://open.spotify.com/artist/28WJiPB1WvNQzMLwM5Hb7G"
-        }
-      ],
-      "duration_ms": 208500,
-      "name": "True Romantic",
-      "url": "https://open.spotify.com/track/0L9q3REkq7p1UEONWON7Vn"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Jag g\u00f6r allt som man inte f\u00e5r",
         "url": "https://open.spotify.com/album/26AjUi95V3BArfHFPfBcWz"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 184256,
       "name": "Jag g\u00f6r allt som man inte f\u00e5r",
       "url": "https://open.spotify.com/track/7MyUU3mlh2g4FtSjPUItXL"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "True Romantic",
+        "url": "https://open.spotify.com/album/3qK8CbdoXxqT1MJHvOGTIM"
+      },
+      "artists": [
+        {
+          "name": "Linda Sundblad",
+          "url": "https://open.spotify.com/artist/28WJiPB1WvNQzMLwM5Hb7G"
+        }
+      ],
+      "duration_ms": 208500,
+      "name": "True Romantic",
+      "url": "https://open.spotify.com/track/0L9q3REkq7p1UEONWON7Vn"
     },
     {
       "added_at": "2024-06-27 22:00:00",

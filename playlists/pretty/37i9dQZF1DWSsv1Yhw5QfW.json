@@ -1,6 +1,6 @@
 {
   "description": "Ag\u00e1rrense fuerte.",
-  "num_followers": 126708,
+  "num_followers": 126773,
   "original_name": "Lentos",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
+        "name": "Ultimate",
+        "url": "https://open.spotify.com/album/3AUHDaXUhZimlDLFh4sTDV"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 293573,
+      "name": "Have You Ever Really Loved A Woman? - From \"Don Juan DeMarco\"",
+      "url": "https://open.spotify.com/track/2niWeDbz2OMvOwH57tbCm4"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
         "name": "Automatic For The People (U.S. Version)",
         "url": "https://open.spotify.com/album/006Qsi10luS9xEBAcIWGTf"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 318240,
       "name": "Everybody Hurts",
       "url": "https://open.spotify.com/track/4tCWWnk3BXinf7FllmSyHW"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/0dLBZmYzmQRZOz4cJG05DA"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 243693,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/3wvfuyGNtR7ySfRkhtXtO9"
     },
     {
       "added_at": "2024-06-14 18:07:20",
@@ -763,18 +763,18 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "Nothing But The Best (Remastered)",
-        "url": "https://open.spotify.com/album/54jgcQieeiqZEuA8fb5CsZ"
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/0dLBZmYzmQRZOz4cJG05DA"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 276253,
-      "name": "My Way - Remastered 2008",
-      "url": "https://open.spotify.com/track/5XAGevtAmPWTN9kyaJwFbx"
+      "duration_ms": 243693,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3wvfuyGNtR7ySfRkhtXtO9"
     },
     {
       "added_at": "2024-06-14 18:07:20",
@@ -791,6 +791,22 @@
       "duration_ms": 299760,
       "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
       "url": "https://open.spotify.com/track/6lEuFGrUqR9Yc6hSsHPnYP"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
+        "name": "Nothing But The Best (Remastered)",
+        "url": "https://open.spotify.com/album/54jgcQieeiqZEuA8fb5CsZ"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 276253,
+      "name": "My Way - Remastered 2008",
+      "url": "https://open.spotify.com/track/5XAGevtAmPWTN9kyaJwFbx"
     },
     {
       "added_at": "2024-06-14 18:07:20",
@@ -823,22 +839,6 @@
       "duration_ms": 229746,
       "name": "You're The Inspiration",
       "url": "https://open.spotify.com/track/2Z7bUp8cJKTM9eoj7hvWXG"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
-        "name": "Ultimate",
-        "url": "https://open.spotify.com/album/3AUHDaXUhZimlDLFh4sTDV"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 293573,
-      "name": "Have You Ever Really Loved A Woman? - From \"Don Juan DeMarco\"",
-      "url": "https://open.spotify.com/track/2niWeDbz2OMvOwH57tbCm4"
     },
     {
       "added_at": "2024-06-14 18:07:20",

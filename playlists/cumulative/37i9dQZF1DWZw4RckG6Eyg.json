@@ -1704,24 +1704,6 @@
     {
       "album": {
         "name": "Huh",
-        "url": "https://open.spotify.com/album/5OxjYCmqR7hbuSlENcNBTX"
-      },
-      "artists": [
-        {
-          "name": "Logan",
-          "url": "https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j"
-        }
-      ],
-      "date_added": "2023-11-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 146266,
-      "name": "Huh",
-      "url": "https://open.spotify.com/track/0Xsy7WstVHZvrgpPpdoJFq"
-    },
-    {
-      "album": {
-        "name": "Huh",
         "url": "https://open.spotify.com/album/79rY7sqFQLxLGePOOkaUXR"
       },
       "artists": [
@@ -1754,6 +1736,24 @@
       "duration_ms": 146266,
       "name": "Huh",
       "url": "https://open.spotify.com/track/2GAO4fbGIo8QuYXe4ZQA01"
+    },
+    {
+      "album": {
+        "name": "Huh",
+        "url": "https://open.spotify.com/album/5OxjYCmqR7hbuSlENcNBTX"
+      },
+      "artists": [
+        {
+          "name": "Logan Priest",
+          "url": "https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146266,
+      "name": "Huh",
+      "url": "https://open.spotify.com/track/0Xsy7WstVHZvrgpPpdoJFq"
     },
     {
       "album": {

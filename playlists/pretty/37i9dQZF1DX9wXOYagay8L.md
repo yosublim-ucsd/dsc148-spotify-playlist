@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6?si=RVzVsQpZQKSz6bTQ2Oo5lQ">Sjava</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,578 likes - 60 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,678 likes - 60 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

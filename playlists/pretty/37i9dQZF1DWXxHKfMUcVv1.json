@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 116165,
+  "num_followers": 116191,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -751,26 +751,6 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
-        "name": "Verano \u00b499",
-        "url": "https://open.spotify.com/album/4rFyWkT6MhskGdHSAiNd0A"
-      },
-      "artists": [
-        {
-          "name": "VILLAGR\u00c1N",
-          "url": "https://open.spotify.com/artist/7j4EDoy89FLUbaeJuV1gNY"
-        },
-        {
-          "name": "Kchiporros",
-          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
-        }
-      ],
-      "duration_ms": 163494,
-      "name": "Verano \u00b499",
-      "url": "https://open.spotify.com/track/18NgnGTlHgdKnjq0FKXvoe"
-    },
-    {
-      "added_at": "2024-06-13 21:06:26",
-      "album": {
         "name": "Loco Tu Forma de Ser",
         "url": "https://open.spotify.com/album/2BIuDdc0UhRmwEHHFIgqAc"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 201480,
       "name": "Loco Tu Forma de Ser",
       "url": "https://open.spotify.com/track/5R2fgpQdSBWBYQIDILkiT9"
+    },
+    {
+      "added_at": "2024-06-13 21:06:26",
+      "album": {
+        "name": "Verano \u00b499",
+        "url": "https://open.spotify.com/album/4rFyWkT6MhskGdHSAiNd0A"
+      },
+      "artists": [
+        {
+          "name": "VILLAGR\u00c1N",
+          "url": "https://open.spotify.com/artist/7j4EDoy89FLUbaeJuV1gNY"
+        },
+        {
+          "name": "Kchiporros",
+          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
+        }
+      ],
+      "duration_ms": 163494,
+      "name": "Verano \u00b499",
+      "url": "https://open.spotify.com/track/18NgnGTlHgdKnjq0FKXvoe"
     },
     {
       "added_at": "2024-06-13 21:06:26",

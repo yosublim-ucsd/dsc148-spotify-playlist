@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-940 songs - 2 day 8 hr 52 min
+941 songs - 2 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Brighter \- Aimoon Remix](https://open.spotify.com/track/3JV0H72eSiSxHXpovPj6Yb) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [Novan](https://open.spotify.com/artist/7tWMqcbdCIBp5NF23GkbaA), [Aimoon](https://open.spotify.com/artist/17vJZOw0HdCJgRMBWBTmHT), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Brighter \(Aimoon Remix\)](https://open.spotify.com/album/1v1ORc5Ltl82Qj9H2FZhZb) | 3:52 | 2021-12-17 | 2022-05-28 |
 | [Brighton BOP](https://open.spotify.com/track/0OiTcPWEK2g48f0BokrLj4) | [SØNIN](https://open.spotify.com/artist/3SH652OkhCjni8ksczeEdC), [JS](https://open.spotify.com/artist/6lMFdZ2Ogr7RJ2cY7KLEq0) | [Brighton BOP](https://open.spotify.com/album/5mGElpHMdswgEyrkMwG0vh) | 3:28 | 2024-07-19 |  |
 | [Bullet Train To Paris](https://open.spotify.com/track/0lIOamNC6EMXu1AgPyzSTD) | [Willaris\. K](https://open.spotify.com/artist/6ZHeg2Op5ZkNppXbNLSglj), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Silversun](https://open.spotify.com/album/4EAemIQHlJl7ZwCndwy8ro) | 4:59 | 2023-11-17 | 2023-12-09 |
+| [Burned](https://open.spotify.com/track/04jpNjWoeNHfHoZAjhyU01) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM), [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm), [nilsix](https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I) | [Burned](https://open.spotify.com/album/1JQEp5WZnrrtN8N0ouoDDX) | 3:12 | 2024-07-19 |  |
 | [Butterfly x Metamorphosis](https://open.spotify.com/track/6ONguNljES7sX2KdLF4Giq) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL) | [Butterfly x Metamorphosis](https://open.spotify.com/album/67BoNabTRA8C01jLJOkNbt) | 4:38 | 2022-10-14 | 2024-02-17 |
 | [By My Side](https://open.spotify.com/track/3SIAjk8qHhIdldTDZxl2WH) | [Dennis Sheperd](https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY), [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g) | [By My Side](https://open.spotify.com/album/73nxKigYLBMQtCLohsZaI3) | 3:24 | 2021-12-17 | 2022-02-26 |
 | [By Now](https://open.spotify.com/track/0OxLol8qf9zsrXSs1IqyMu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Laura Welsh](https://open.spotify.com/artist/2QGdI8fUEuoVPJ4xuC5NDe) | [By Now](https://open.spotify.com/album/5ayaI14vSPFDIUK23VwzRX) | 2:33 | 2024-04-26 |  |
@@ -202,7 +203,7 @@
 | [Dawn](https://open.spotify.com/track/4OkpB4tHyv7YmkOyiRGYij) | [Sneijder](https://open.spotify.com/artist/4zllvElH16KlgTqRstwYIb) | [Dawn](https://open.spotify.com/album/4NnWjmwfrlQluFAwql0euW) | 3:57 | 2023-07-21 |  |
 | [Daytona](https://open.spotify.com/track/6xjZxEibJdqHKs4KS4n83M) | [David Forbes](https://open.spotify.com/artist/3kwdB3aUfg0uneHczX2vTG) | [Daytona](https://open.spotify.com/album/5VJPUht3ewMoJyPP3Yd0ew) | 3:27 | 2024-07-12 |  |
 | [Deceiver](https://open.spotify.com/track/0i9bVXTlNguVWgseEFhCsB) | [RAM](https://open.spotify.com/artist/4f0a5IgkYFHFts5Z9N9SDX), [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR) | [Deceiver](https://open.spotify.com/album/3dk6hdeNu9qUKY0cXJlVpq) | 3:31 | 2024-03-15 |  |
-| [Defector](https://open.spotify.com/track/1qVD7zeYA21VPi6agPRAlv) | [Will Rees](https://open.spotify.com/artist/1dlEz2w0VlP9NSzM6YA1Cm), [Rhys Elliott](https://open.spotify.com/artist/0ejSFSeeaw2uQYdL8enRmd) | [Defector](https://open.spotify.com/album/3rHa5xUSY4yxNCjgceAVnn) | 3:46 | 2024-02-16 |  |
+| [Defector](https://open.spotify.com/track/1qVD7zeYA21VPi6agPRAlv) | [Will Rees](https://open.spotify.com/artist/1dlEz2w0VlP9NSzM6YA1Cm), [Rhys Elliott](https://open.spotify.com/artist/0ejSFSeeaw2uQYdL8enRmd) | [Defector](https://open.spotify.com/album/3rHa5xUSY4yxNCjgceAVnn) | 3:46 | 2024-02-16 | 2024-07-21 |
 | [Deja Vu](https://open.spotify.com/track/4hpCaW3UntoXmsgTbl5FVV) | [Tensteps](https://open.spotify.com/artist/7gIEIIwEUPxZmScP2JCkPU), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Deja Vu](https://open.spotify.com/album/5rF0AAKnkVnlYaAYXF0eng) | 3:46 | 2023-06-09 | 2024-03-22 |
 | [Delyo's Voyage](https://open.spotify.com/track/4cNnZvWG0RuQpVsb3jbcu8) | [Robert Nickson](https://open.spotify.com/artist/0dMK3g7XAApwIpLTyE7mqJ) | [Delyo's Voyage](https://open.spotify.com/album/03BW71V7SXKx2drYPScy6B) | 4:26 | 2022-04-08 | 2023-04-09 |
 | [Departure](https://open.spotify.com/track/2rESTwxLf2TgzK0vpcHaq6) | [Doppenberg](https://open.spotify.com/artist/4wQuZIXFDqWeO8VYJmbajF) | [Departure](https://open.spotify.com/album/2pqx5Sjc6xGWD5p87aXhUC) | 3:27 | 2023-07-14 |  |

@@ -362,7 +362,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 163333,
       "name": "Dreams of Surf",
       "url": "https://open.spotify.com/track/3PUufjfgnfjiDXj8nW77hq"
@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "Vangelis: Delectus (Remastered)",
+        "url": "https://open.spotify.com/album/7DoFecRxuDQE3Nkp5GC8SU"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2024-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354906,
+      "name": "La petite fille de la mer - Remastered",
+      "url": "https://open.spotify.com/track/2lB8swV3T9yiXyU6OnZ3tY"
+    },
+    {
+      "album": {
         "name": "L'apocalypse des animaux (Remastered)",
         "url": "https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD"
       },
@@ -668,7 +686,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 354906,
       "name": "La petite fille de la mer - Remastered",
       "url": "https://open.spotify.com/track/3uNFRvQVEIEsQgHdZFw6Dk"
@@ -762,7 +780,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 295693,
       "name": "Love Theme",
       "url": "https://open.spotify.com/track/2oDR7QWoLBk9VYMwsFbRGq"
@@ -816,7 +834,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 222373,
       "name": "Main Titles",
       "url": "https://open.spotify.com/track/6baN5nSUIVTsUyugSuAj7U"

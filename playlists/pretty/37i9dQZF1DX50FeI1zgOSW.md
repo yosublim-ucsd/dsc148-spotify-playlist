@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Nicky.M x Rajaganapathy
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,287 likes - 85 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,300 likes - 85 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 31 | [Uruttuvah Ularuveh](https://open.spotify.com/track/2IOUMctG2IYgY7SCbjX5Fd) | [Sanjit Lucksman](https://open.spotify.com/artist/2dny6Q7OeJFg2Dh2Xwud9C), [Nicky.M](https://open.spotify.com/artist/58QgZsCB2X7kk31Og7Fw3Q), [Sudarshan Arumugam](https://open.spotify.com/artist/6D4IJcXCBRLOro4B4wg02E), [Pratheep Samithambi](https://open.spotify.com/artist/4cuWjNnexsRXrLEluLO4jl), [Praveen Krishnaraja](https://open.spotify.com/artist/5JWT3CqFowAnJVs7jJFvty) | [Uruttuvah Ularuveh](https://open.spotify.com/album/6jZIQkfJTd7gPsD3fYiKRc) | 2:51 |
 | 32 | [3PM in Chennai](https://open.spotify.com/track/4AoGxCTkCAGujIDzSeuOoI) | [JBE](https://open.spotify.com/artist/65QGjfyW0qmCA5710AfZIQ), [Akroniim](https://open.spotify.com/artist/2kNXaf7u31dDUTGFFatzZ4) | [3PM in Chennai](https://open.spotify.com/album/2xVByRUYQCKaHJOlrtgjeN) | 2:18 |
 | 33 | [Baasha](https://open.spotify.com/track/6ihc2u4GmDXVeIizwL3jEw) | [sachu Madrasi](https://open.spotify.com/artist/5cTDZIXnv13h05pY6zTQjN), [Atiium](https://open.spotify.com/artist/59FtOOdwOyFCBSRh7drSjU) | [Baasha](https://open.spotify.com/album/7m9TNeVmbF54r1oDUivMcp) | 2:16 |
-| 34 | [Aadanum](https://open.spotify.com/track/1JGhnyq3qiRNOVWkefnmNL) | [daszi](https://open.spotify.com/artist/0afiI57tEFIwLFQBZC71sp), [RAK](https://open.spotify.com/artist/5fRjKFvGLlv4XCjkgWuPoT) | [Aadanum](https://open.spotify.com/album/3G4VnipeKZSCX6hmAYBMXH) | 3:53 |
+| 34 | [Aadanum](https://open.spotify.com/track/1JGhnyq3qiRNOVWkefnmNL) | [daszi](https://open.spotify.com/artist/0afiI57tEFIwLFQBZC71sp), [RAK](https://open.spotify.com/artist/79S8UUNoam5wxZHXY51eEt) | [Aadanum](https://open.spotify.com/album/3G4VnipeKZSCX6hmAYBMXH) | 3:53 |
 | 35 | [Idhai Yaar Solvaaro \- Deaffrogs Records](https://open.spotify.com/track/4OfLGsdYdU2MgWAXyErZ2A) | [KENEESHAA](https://open.spotify.com/artist/4zZsaegDxBfhj2UbGqDIDe), [Stony Psyko](https://open.spotify.com/artist/39cUrSwXh9awPD0itfevhV) | [Idhai Yaar Solvaaro \(Deaffrogs Records\)](https://open.spotify.com/album/2RxNgx7KUCHj5o3c1f0luA) | 3:37 |
 | 36 | [Manase](https://open.spotify.com/track/5LUZ0deU7z2IxNc6wZzKfL) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y), [Hemanth Kumar MHD](https://open.spotify.com/artist/0FdT37rY4wTmIF4B8kPjpV) | [Manase](https://open.spotify.com/album/4OQ26nnhwmautoZOlNkyH4) | 4:45 |
 | 37 | [Neram](https://open.spotify.com/track/38Tb67e6nPNjKxtKFfGI3Y) | [Tarun Lucas](https://open.spotify.com/artist/4CwXkAApZDWux0Ppl6GVLM) | [Neram](https://open.spotify.com/album/7aS9XY7sAnrPg6SXukhrAH) | 3:42 |

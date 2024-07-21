@@ -1,6 +1,6 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 196232,
+  "num_followers": 196285,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Islands, Pt. 2",
-        "url": "https://open.spotify.com/album/295zTFUzqlhF1uU0B9eLnd"
-      },
-      "artists": [
-        {
-          "name": "Jupi/ter",
-          "url": "https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Tree",
-      "url": "https://open.spotify.com/track/5M4o1gPeRQAMOSHzJT50n7"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Cycles",
         "url": "https://open.spotify.com/album/6b0k4pryDUm5lneoKhX8mD"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 291583,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/1Ocs34KuEsoPtYLv071mk7"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Islands, Pt. 2",
+        "url": "https://open.spotify.com/album/295zTFUzqlhF1uU0B9eLnd"
+      },
+      "artists": [
+        {
+          "name": "Jupi/ter",
+          "url": "https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Tree",
+      "url": "https://open.spotify.com/track/5M4o1gPeRQAMOSHzJT50n7"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "J\u00e4rnn\u00e4tter",
+        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
+      },
+      "artists": [
+        {
+          "name": "Civilistj\u00e4vel!",
+          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
+        }
+      ],
+      "duration_ms": 74304,
+      "name": "B3",
+      "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Anoyo",
         "url": "https://open.spotify.com/album/78DUDqx2smwm8ZB8D6zG4T"
       },
@@ -735,42 +751,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "J\u00e4rnn\u00e4tter",
-        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
-      },
-      "artists": [
-        {
-          "name": "Civilistj\u00e4vel!",
-          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
-        }
-      ],
-      "duration_ms": 74304,
-      "name": "B3",
-      "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "The Last Retention",
-        "url": "https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t"
-      },
-      "artists": [
-        {
-          "name": "Ronnie & Clyde",
-          "url": "https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ"
-        },
-        {
-          "name": "Thomas Ragsdale",
-          "url": "https://open.spotify.com/artist/09HagWD8vD5RLYn9DNDuG4"
-        }
-      ],
-      "duration_ms": 328063,
-      "name": "The Last Retention - Thomas Ragsdale's Deep Space Mix",
-      "url": "https://open.spotify.com/track/0SzKbI4scZulf94FEjJMx3"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Sketches of Nowhere",
         "url": "https://open.spotify.com/album/7KdbQqhvfhmXOTCkJj6bC2"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 151061,
       "name": "Dreams of Sand and Snow - And the Horse-Sized Cat",
       "url": "https://open.spotify.com/track/0HrD2QFHbDDGTCqUH89wCR"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "The Last Retention",
+        "url": "https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t"
+      },
+      "artists": [
+        {
+          "name": "Ronnie & Clyde",
+          "url": "https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ"
+        },
+        {
+          "name": "Thomas Ragsdale",
+          "url": "https://open.spotify.com/artist/09HagWD8vD5RLYn9DNDuG4"
+        }
+      ],
+      "duration_ms": 328063,
+      "name": "The Last Retention - Thomas Ragsdale's Deep Space Mix",
+      "url": "https://open.spotify.com/track/0SzKbI4scZulf94FEjJMx3"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Goatherder",
-        "url": "https://open.spotify.com/album/3kay810nPv6SykhqhrUCeI"
-      },
-      "artists": [
-        {
-          "name": "Capitol K",
-          "url": "https://open.spotify.com/artist/2Nrvi6wKKZ0iAaxaBPDBzj"
-        }
-      ],
-      "duration_ms": 239794,
-      "name": "Landlocked",
-      "url": "https://open.spotify.com/track/23QUBd5ZfFw0fI3UepHHx1"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Land III",
         "url": "https://open.spotify.com/album/5HzaGyiK0jjF0zGILrZhmG"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 284684,
       "name": "Land III - Vocal Mix",
       "url": "https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Goatherder",
+        "url": "https://open.spotify.com/album/3kay810nPv6SykhqhrUCeI"
+      },
+      "artists": [
+        {
+          "name": "Capitol K",
+          "url": "https://open.spotify.com/artist/2Nrvi6wKKZ0iAaxaBPDBzj"
+        }
+      ],
+      "duration_ms": 239794,
+      "name": "Landlocked",
+      "url": "https://open.spotify.com/track/23QUBd5ZfFw0fI3UepHHx1"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "that day, on the beach",
+        "url": "https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha"
+      },
+      "artists": [
+        {
+          "name": "Matt Kivel",
+          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
+        }
+      ],
+      "duration_ms": 151302,
+      "name": "memorial park",
+      "url": "https://open.spotify.com/track/4OoGwa6kp9TmsjXopMP5Yo"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Endlessness",
         "url": "https://open.spotify.com/album/0pHwRR0CdmJTwTU96ZCrIE"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 199148,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/5lfY5qGSiGqpaVbkW3OCn9"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "that day, on the beach",
-        "url": "https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha"
-      },
-      "artists": [
-        {
-          "name": "Matt Kivel",
-          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
-        }
-      ],
-      "duration_ms": 151302,
-      "name": "memorial park",
-      "url": "https://open.spotify.com/track/4OoGwa6kp9TmsjXopMP5Yo"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Whisper Fold Brush",
+        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 1190161,
+      "name": "Whisper Fold Brush, Pt. One",
+      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Signals Bulletin",
         "url": "https://open.spotify.com/album/10FIu2uRFbl2UVZSKgaK54"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 385998,
       "name": "How A Spiral Works",
       "url": "https://open.spotify.com/track/7eGYkcCZMNTLpJZ0sc4Jgc"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Whisper Fold Brush",
-        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 1190161,
-      "name": "Whisper Fold Brush, Pt. One",
-      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Mammatus",
-        "url": "https://open.spotify.com/album/6NZf1c6w62aoBAgaixdKD5"
-      },
-      "artists": [
-        {
-          "name": "Aatom",
-          "url": "https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh"
-        }
-      ],
-      "duration_ms": 234795,
-      "name": "Mammatus",
-      "url": "https://open.spotify.com/track/6giYnirz09CPhUuZpbUD9g"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Picnic",
         "url": "https://open.spotify.com/album/0Kd8yf0aMa6IgjV3KJS2RE"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 436796,
       "name": "Plush Hooves",
       "url": "https://open.spotify.com/track/4xqdlgyj4LQvP13GBmP3AN"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Mammatus",
+        "url": "https://open.spotify.com/album/6NZf1c6w62aoBAgaixdKD5"
+      },
+      "artists": [
+        {
+          "name": "Aatom",
+          "url": "https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh"
+        }
+      ],
+      "duration_ms": 234795,
+      "name": "Mammatus",
+      "url": "https://open.spotify.com/track/6giYnirz09CPhUuZpbUD9g"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Spheres (Original Score)",
-        "url": "https://open.spotify.com/album/0FxvjAQQvYouHmDAjF3PnR"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dixon & Michael Stein",
-          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
-        }
-      ],
-      "duration_ms": 223898,
-      "name": "Accretion Disk",
-      "url": "https://open.spotify.com/track/6slY6FHA1PynXmL0vZmXd3"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Inner Rage",
         "url": "https://open.spotify.com/album/3k7kOAsZhqLlIO0pouLde8"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 374679,
       "name": "Rise",
       "url": "https://open.spotify.com/track/71DKAvZJ4eDrFdtqGfxALd"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Spheres (Original Score)",
+        "url": "https://open.spotify.com/album/0FxvjAQQvYouHmDAjF3PnR"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
+        }
+      ],
+      "duration_ms": 223898,
+      "name": "Accretion Disk",
+      "url": "https://open.spotify.com/track/6slY6FHA1PynXmL0vZmXd3"
     },
     {
       "added_at": "2023-04-21 14:41:23",

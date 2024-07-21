@@ -333,6 +333,32 @@
     },
     {
       "album": {
+        "name": "Andorinha",
+        "url": "https://open.spotify.com/album/0kRywY9UFy7GEB1Z8oKYxZ"
+      },
+      "artists": [
+        {
+          "name": "Nakar",
+          "url": "https://open.spotify.com/artist/2VmAYh9NhFCSiaLiiNRFED"
+        },
+        {
+          "name": "Did Brock",
+          "url": "https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558"
+        },
+        {
+          "name": "Sinopoli",
+          "url": "https://open.spotify.com/artist/6nwIPv4P6LtbGz9CNX0YqN"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185791,
+      "name": "Andorinha",
+      "url": "https://open.spotify.com/track/0DwY9ZomxNlmzUyCxEJw0P"
+    },
+    {
+      "album": {
         "name": "Andressa",
         "url": "https://open.spotify.com/album/6XQbOoWHk2L2Cnn472eHGJ"
       },
@@ -1704,7 +1730,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 232000,
       "name": "Interfone",
       "url": "https://open.spotify.com/track/2BKAS8KxZW3AlAqHzFjACm"
@@ -2955,6 +2981,28 @@
     },
     {
       "album": {
+        "name": "Passa a Bola (Ao Vivo em Noronha)",
+        "url": "https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs"
+      },
+      "artists": [
+        {
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208213,
+      "name": "Passa a Bola (Ao Vivo em Noronha)",
+      "url": "https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1"
+    },
+    {
+      "album": {
         "name": "Ciclo Vicioso",
         "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
       },
@@ -3438,7 +3486,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 205906,
       "name": "Puro Suco Stronda",
       "url": "https://open.spotify.com/track/3CIBwDCGbrYAyUIT9Gt7Bc"

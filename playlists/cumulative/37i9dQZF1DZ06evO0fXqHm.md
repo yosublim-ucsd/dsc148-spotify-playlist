@@ -4,11 +4,12 @@
 
 > This is Mac Júlia\. The essential tracks, all in one playlist.
 
-77 songs - 3 hr 24 min
+78 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Melhor Coisa da Vida](https://open.spotify.com/track/1m7jKxbOWiaYUDFNv6Ldn3) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [Dj Dg Do Rb](https://open.spotify.com/artist/7hcLgowsbmmUxHXPmrKHnA) | [Baile da Dona Onça](https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey) | 2:09 | 2024-05-19 | 2024-06-18 |
+| [A Vida De Uma Gostosa](https://open.spotify.com/track/5kENXCermYSISd7l9rSBNf) | [Ananda Paixão](https://open.spotify.com/artist/5LCSzaHtMSsMqXOEjnASiJ), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [A Vida De Uma Gostosa](https://open.spotify.com/album/3lKFu66OVJkAGww20AjXoN) | 2:37 | 2024-07-21 |  |
 | [Aguenta Caladinha](https://open.spotify.com/track/5vUQOsGWg3wyMClrSiQ3Yo) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge) | [Aguenta Caladinha](https://open.spotify.com/album/1hAKPxee4ubrf4EzXlNXSz) | 3:25 | 2023-12-30 |  |
 | [Ai Que Saudade](https://open.spotify.com/track/6MMAOv60bsI4o7RpJ6vJqB) | [DJ DOIS JOTA](https://open.spotify.com/artist/3gVJzoIndSNQEMSqvF8ZRt), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Mc Pedrin do Engenha](https://open.spotify.com/artist/0cO5CCI3s6CjA19gXjJXJG), [DJ JOÃO PEREIRA](https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt) | [Ai Que Saudade](https://open.spotify.com/album/7mH92lcb3fZU1aI46RFSHh) | 2:42 | 2024-07-08 | 2024-07-13 |
 | [Amor, Só](https://open.spotify.com/track/78ojRMl3NjbhdbEgBkhxmS) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [JuceRock](https://open.spotify.com/artist/6NCddBg7GUX4ivzTTRYofU), [OGCapitu](https://open.spotify.com/artist/3DV512qhStQiF9X2caGAhD), [Baezi](https://open.spotify.com/artist/5nWewtJeyIKQrdzXZNRcku), [Nobruxo](https://open.spotify.com/artist/0mBsY6dhFvFh9IuMLIxqH2) | [Sextape: Love Me Two Times](https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR) | 4:54 | 2024-02-24 | 2024-03-10 |

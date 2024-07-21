@@ -4,7 +4,7 @@
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Chiara Parravicini en portada.
 
-332 songs - 16 hr 42 min
+333 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Mis Amigos Opinan Lo Mismo \(Este Volumen Pide Outro\)](https://open.spotify.com/track/4ZHYOSuMJVhx5fnlGI6GGZ) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Mis Amigos Opinan Lo Mismo \(Este Volumen Pide Outro\)](https://open.spotify.com/album/460OjAPOiQCNlu5VvQySCZ) | 1:28 | 2023-08-25 | 2024-01-27 |
 | [Mis Impulsos Sobre Ti](https://open.spotify.com/track/1k6Q5x5CkuGOm4TSRHICDP) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Mis Impulsos Sobre Ti](https://open.spotify.com/album/07R6N3nhqDnZpFMUCvaqxu) | 4:02 | 2023-11-17 | 2024-04-07 |
 | [MISS XV x 2](https://open.spotify.com/track/2grZPV3t9Mm420oyJXtTLz) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [MISS XV x 2](https://open.spotify.com/album/6NAoM8SewAHPxWPTTVSfKr) | 3:10 | 2022-02-04 | 2022-07-28 |
-| [Modo Melancólico](https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Modo Melancólico](https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1) | 2:46 | 2022-06-28 |  |
+| [Modo Melancólico](https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Modo Melancólico](https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1) | 2:46 | 2022-06-28 | 2024-07-21 |
 | [Mojito](https://open.spotify.com/track/2mQ2xgCWPSrlm1eJJdAjfw) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Mojito](https://open.spotify.com/album/6UcyaKAJuH5e90PAbFeVrk) | 2:53 | 2022-02-04 | 2022-11-01 |
 | [Moloko](https://open.spotify.com/track/1lbZNXnbOkiyjAQ4XEyl26) | [NK](https://open.spotify.com/artist/3YkZxu7ClLCOqRJG7CxlK7), [Atomic Otro Way](https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ), [Garrent Atkinson](https://open.spotify.com/artist/16ikdJYPg6shOF2eBGeusR), [Jonathan valdez](https://open.spotify.com/artist/3QhBxclqPukX7LMm2TsgBq) | [Moloko](https://open.spotify.com/album/6h9FKofL5Qa1J2BnCn5prD) | 2:39 | 2024-06-07 | 2024-06-22 |
 | [Morena Mujer](https://open.spotify.com/track/3nqD2zEi8WQlI2gUzsGDtm) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Morena Mujer](https://open.spotify.com/album/52Enkie6zGmASAECzepRp1) | 2:54 | 2022-02-04 | 2023-05-15 |
@@ -333,6 +333,7 @@
 | [Veneno](https://open.spotify.com/track/1Pw3YZofZjTNuxrGUB3wgY) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Veneno](https://open.spotify.com/album/45yr2xU2lJ8Gdcb9axOPXP) | 2:24 | 2023-08-25 | 2023-09-26 |
 | [Verano En NY](https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Verano En NY](https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD) | 3:06 | 2023-09-25 | 2024-04-27 |
 | [X Tu Casa](https://open.spotify.com/track/2w8mK5E51BICF0MCerzYkS) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:43 | 2023-04-07 | 2023-07-29 |
+| [Y Me Llegaste Tú](https://open.spotify.com/track/4qN4XbCVxsIxxXavhis6O0) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Y Me Llegaste Tú](https://open.spotify.com/album/1JUPNUe2TK3u59p8oCpNt2) | 3:20 | 2024-07-20 |  |
 | [Ya No Dueles](https://open.spotify.com/track/1CVaF9hZmlZWSDMM6tFdb3) | [Dennis Arana](https://open.spotify.com/artist/091aVX0Jur4ClmN1k1VJVw), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Ya No Dueles](https://open.spotify.com/album/4MuZgMI05gSqTVkDXDsL7S) | 2:48 | 2022-02-04 | 2023-01-29 |
 | [Yo Soy](https://open.spotify.com/track/35GAgahp5pdRfL5eq5b81i) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Yo Soy](https://open.spotify.com/album/4oz9KbvSo3SQOhHITyYhT2) | 2:49 | 2022-02-04 | 2023-04-01 |
 | [zicatela](https://open.spotify.com/track/6JuvBCSTPIZRFMLPZ0hOCU) | [ANASOF](https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm) | [zicatela](https://open.spotify.com/album/1wMY2RJPerX3VGFIOxIVkD) | 2:25 | 2024-01-26 | 2024-02-17 |

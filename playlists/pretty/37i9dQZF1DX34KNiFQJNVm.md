@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mari Fernandez com Zé Felipe, KayBlack, BIN e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,922,543 likes - 62 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,922,774 likes - 62 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Louco, Louco \- Ao Vivo](https://open.spotify.com/track/7xjV9rXbAUDCreKgx2pkGY) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Mari No Barzinho, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/1uA9OubhaxPCMtZM5CMYzy) | 2:23 |
 | 2 | [Mistérios](https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Mistérios](https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH) | 2:16 |
-| 3 | [Baddie](https://open.spotify.com/track/3UsrHKcNDILUGoV7zQkZbA) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Iambinhu](https://open.spotify.com/album/7BpvuVN4bsFdncN2KLkBLU) | 3:02 |
+| 3 | [Baddie](https://open.spotify.com/track/3UsrHKcNDILUGoV7zQkZbA) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [IAMBINHU](https://open.spotify.com/album/7BpvuVN4bsFdncN2KLkBLU) | 3:02 |
 | 4 | [Wi\-Fi \- Ao Vivo](https://open.spotify.com/track/0S7o4sti5I5CAbbotTUzTM) | [Traia Véia](https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Wi\-Fi \(Ao Vivo\)](https://open.spotify.com/album/4iPWQzXrICuvO2Dy7TztRw) | 2:41 |
 | 5 | [De Bandeja](https://open.spotify.com/track/5dYgIl06rPx4gIAZ7kMUTO) | [Bruno Cesar e Rodrigo](https://open.spotify.com/artist/1LKDfxZdebmgWG4qSR7hO9), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [De Bandeja](https://open.spotify.com/album/63alAoMzRcSkyxKrPYR05I) | 2:21 |
 | 6 | [Passa a Bola \(Ao Vivo em Noronha\)](https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Passa a Bola \(Ao Vivo em Noronha\)](https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs) | 3:28 |

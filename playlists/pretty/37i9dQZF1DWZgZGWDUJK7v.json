@@ -1,6 +1,6 @@
 {
   "description": "Meet the popular webtoon OSTs now! (Cover: A Not So Fairy Tale(\uc120\ub140\uc678\uc804)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 90402,
+  "num_followers": 90456,
   "original_name": "K-Webtoon OSTs (\uc6f9\ud230 OSTs)",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "How about you? (No Office Romance! X THE BOYZ) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/1xXbRj29uRvRA7iT7aKT3N"
-      },
-      "artists": [
-        {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "How about you?",
-      "url": "https://open.spotify.com/track/6bOuFd9CLbQA8IKRWwVVBP"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "Hug Me (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
         "url": "https://open.spotify.com/album/6vjWWclU2DqncdQsLWS9hh"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 227600,
       "name": "Hug Me (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
       "url": "https://open.spotify.com/track/79iwErOUuLtnx11lTepXLz"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "How about you? (No Office Romance! X THE BOYZ) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/1xXbRj29uRvRA7iT7aKT3N"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "How about you?",
+      "url": "https://open.spotify.com/track/6bOuFd9CLbQA8IKRWwVVBP"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "\ub9c8\ud53c\uc544 \ubcf4\uc2a4\uac00 \ub098\uc5d0\uac8c \uc9d1\ucc29\ud55c\ub2e4 (Original Webtoon Soundtrack) Pt. 9",
-        "url": "https://open.spotify.com/album/4DcGE7a0Amd7C6qYU82Jyy"
-      },
-      "artists": [
-        {
-          "name": "BUSTERS",
-          "url": "https://open.spotify.com/artist/0BIHC8He3YfrhXeECyXSI4"
-        }
-      ],
-      "duration_ms": 161338,
-      "name": "Shining Day",
-      "url": "https://open.spotify.com/track/6ib78JN3RfglRI2kETD2jA"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "Let's meet again (Original Soundtrack from the Webtoon A Not So Fairy Tale)",
         "url": "https://open.spotify.com/album/5EYR7m8K1v7CsIxp8Nt8qp"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "Daily JoJo (Original Webtoon Soundtrack) Pt.2",
-        "url": "https://open.spotify.com/album/0YGbevSnSPmsRyOoMAosrW"
+        "name": "\ub9c8\ud53c\uc544 \ubcf4\uc2a4\uac00 \ub098\uc5d0\uac8c \uc9d1\ucc29\ud55c\ub2e4 (Original Webtoon Soundtrack) Pt. 9",
+        "url": "https://open.spotify.com/album/4DcGE7a0Amd7C6qYU82Jyy"
       },
       "artists": [
         {
-          "name": "KIM JAE HWAN",
-          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
+          "name": "BUSTERS",
+          "url": "https://open.spotify.com/artist/0BIHC8He3YfrhXeECyXSI4"
         }
       ],
-      "duration_ms": 176946,
-      "name": "Cinderella's Love (Daily JoJo)",
-      "url": "https://open.spotify.com/track/6nkoJCo2lwG3HBValDvApj"
+      "duration_ms": 161338,
+      "name": "Shining Day",
+      "url": "https://open.spotify.com/track/6ib78JN3RfglRI2kETD2jA"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -883,6 +867,22 @@
       "duration_ms": 222252,
       "name": "My 20th Twenty",
       "url": "https://open.spotify.com/track/6EbXl39EhKldo6XU4q9MCe"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "Daily JoJo (Original Webtoon Soundtrack) Pt.2",
+        "url": "https://open.spotify.com/album/0YGbevSnSPmsRyOoMAosrW"
+      },
+      "artists": [
+        {
+          "name": "KIM JAE HWAN",
+          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
+        }
+      ],
+      "duration_ms": 176946,
+      "name": "Cinderella's Love (Daily JoJo)",
+      "url": "https://open.spotify.com/track/6nkoJCo2lwG3HBValDvApj"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "Zombie daughter (Original Soundtrack) : A long dream",
-        "url": "https://open.spotify.com/album/7zr4nKroD3nQUDsHLSOzCd"
-      },
-      "artists": [
-        {
-          "name": "ThorThor",
-          "url": "https://open.spotify.com/artist/59i2jZRFSm4qh7QqhyoU9V"
-        }
-      ],
-      "duration_ms": 213972,
-      "name": "A long dream (Full Ver.)",
-      "url": "https://open.spotify.com/track/6Mw5Gg8WGqsTWE5LpoWpGi"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "Don't Move Away (WEBTOON 'Good Doctor' X KIM JAE HYUNG)",
         "url": "https://open.spotify.com/album/5s24w8XpEYFb34kaIhZymr"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 235106,
       "name": "Don\u2032t Move Away",
       "url": "https://open.spotify.com/track/24P7QAGjSohYUki76zBm4y"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "Zombie daughter (Original Soundtrack) : A long dream",
+        "url": "https://open.spotify.com/album/7zr4nKroD3nQUDsHLSOzCd"
+      },
+      "artists": [
+        {
+          "name": "ThorThor",
+          "url": "https://open.spotify.com/artist/59i2jZRFSm4qh7QqhyoU9V"
+        }
+      ],
+      "duration_ms": 213972,
+      "name": "A long dream (Full Ver.)",
+      "url": "https://open.spotify.com/track/6Mw5Gg8WGqsTWE5LpoWpGi"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "\uac00\uc9dc \uacf5\ub140\ub2d8\uc758 \ub9cc\ub819 \ud1a0\ub07c OST Part.30 (Soundtrack)",
-        "url": "https://open.spotify.com/album/1UTM9hXWghsDNDWqBDeUyb"
-      },
-      "artists": [
-        {
-          "name": "Weeky1",
-          "url": "https://open.spotify.com/artist/6kxfUeI8Sq80X7ICFw7KtK"
-        }
-      ],
-      "duration_ms": 191608,
-      "name": "Should we walk hand in hand?",
-      "url": "https://open.spotify.com/track/45Odu7IUv2jqhia7m99eaq"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "Dr. Choi Ki Seok (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6jcnqltbs1c31gfYAN1lFJ"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 220745,
       "name": "Today's Weather (From \"Spring Is Gone\" [Original Soundtrack])",
       "url": "https://open.spotify.com/track/6oK4qRi5kCaWpo0bwhBbRl"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "\uac00\uc9dc \uacf5\ub140\ub2d8\uc758 \ub9cc\ub819 \ud1a0\ub07c OST Part.30 (Soundtrack)",
+        "url": "https://open.spotify.com/album/1UTM9hXWghsDNDWqBDeUyb"
+      },
+      "artists": [
+        {
+          "name": "Weeky1",
+          "url": "https://open.spotify.com/artist/6kxfUeI8Sq80X7ICFw7KtK"
+        }
+      ],
+      "duration_ms": 191608,
+      "name": "Should we walk hand in hand?",
+      "url": "https://open.spotify.com/track/45Odu7IUv2jqhia7m99eaq"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "Yeolguk Scandal (Original Soundtrack), Part. 1",
-        "url": "https://open.spotify.com/album/5YoeNDokyfGSGFwvjTbEPj"
-      },
-      "artists": [
-        {
-          "name": "PARK MIN HYE",
-          "url": "https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ"
-        }
-      ],
-      "duration_ms": 250653,
-      "name": "Empty Spot",
-      "url": "https://open.spotify.com/track/3iFZyOkHyT7pMNJ6y4u1Z8"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "Miss you.. want to caress you (Something Between Us X Monday Kiz)",
         "url": "https://open.spotify.com/album/09KjzzpY8alpaYvkzI4fxX"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 242573,
       "name": "Miss you.. want to caress you (Something Between Us X Monday Kiz)",
       "url": "https://open.spotify.com/track/0hItNTeDE4VYgm8lxxzlir"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "Yeolguk Scandal (Original Soundtrack), Part. 1",
+        "url": "https://open.spotify.com/album/5YoeNDokyfGSGFwvjTbEPj"
+      },
+      "artists": [
+        {
+          "name": "PARK MIN HYE",
+          "url": "https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ"
+        }
+      ],
+      "duration_ms": 250653,
+      "name": "Empty Spot",
+      "url": "https://open.spotify.com/track/3iFZyOkHyT7pMNJ6y4u1Z8"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "\uc789\uc5b4\ub2d8\uacfc \ub5a1\ubcf6\uc774 OST Part.17 (Soundtrack)",
-        "url": "https://open.spotify.com/album/5rRUcHvm5fmjI9ZFuzIfwp"
-      },
-      "artists": [
-        {
-          "name": "Yeoeun",
-          "url": "https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug"
-        }
-      ],
-      "duration_ms": 250737,
-      "name": "The saddest song",
-      "url": "https://open.spotify.com/track/2PQnxR5z0a7DK7pUonHAY3"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "Caf\u00e9 Anchorage OST Part.19 (Soundtrack)",
         "url": "https://open.spotify.com/album/0IEOcub1mb7jJz3wvvtXWn"
       },
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
+        "name": "\uc789\uc5b4\ub2d8\uacfc \ub5a1\ubcf6\uc774 OST Part.17 (Soundtrack)",
+        "url": "https://open.spotify.com/album/5rRUcHvm5fmjI9ZFuzIfwp"
+      },
+      "artists": [
+        {
+          "name": "Yeoeun",
+          "url": "https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug"
+        }
+      ],
+      "duration_ms": 250737,
+      "name": "The saddest song",
+      "url": "https://open.spotify.com/track/2PQnxR5z0a7DK7pUonHAY3"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
         "name": "\uc694\uc870\uc2e0\uc0ac \ub9c8\ucd08\uc219\ub140 (Original Webtoon Soundtrack) Pt. 28",
         "url": "https://open.spotify.com/album/6qo1VC3B2K7WaiZZNTa3LF"
       },
@@ -1371,22 +1371,6 @@
       "duration_ms": 219657,
       "name": "\uc628\uc138\uc0c1\uc774 \ub108",
       "url": "https://open.spotify.com/track/6sWpb7Ked0QP1LuVCKmcJZ"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
-        "name": "The Crush Of Spring OST Part.6",
-        "url": "https://open.spotify.com/album/7l0RjwUfOMMCAABHWX33qI"
-      },
-      "artists": [
-        {
-          "name": "Suki",
-          "url": "https://open.spotify.com/artist/3nvehGmSWu2jlnWSC2EacH"
-        }
-      ],
-      "duration_ms": 216565,
-      "name": "To be honest I still love you",
-      "url": "https://open.spotify.com/track/5IJxeM3hnKqyTMVqGiiYSq"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
+        "name": "The Crush Of Spring OST Part.6",
+        "url": "https://open.spotify.com/album/7l0RjwUfOMMCAABHWX33qI"
+      },
+      "artists": [
+        {
+          "name": "Suki",
+          "url": "https://open.spotify.com/artist/3nvehGmSWu2jlnWSC2EacH"
+        }
+      ],
+      "duration_ms": 216565,
+      "name": "To be honest I still love you",
+      "url": "https://open.spotify.com/track/5IJxeM3hnKqyTMVqGiiYSq"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
         "name": "\uc0ac\ub791\ub3c4 \uc5c6\uc774 \uacb0\ud63c (Original Soundtrack), Pt1",
         "url": "https://open.spotify.com/album/0EkaOnrGPsSU6XRE6AW0DX"
       },
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "\uc0ac\ub791\ub3c4 \uc5c6\uc774 \uacb0\ud63c OST Part.9 (Soundtrack)",
-        "url": "https://open.spotify.com/album/7yoWIYagwoss6PRdFqLCSj"
+        "name": "Oh, Boy! OST Part.4 (Soundtrack)",
+        "url": "https://open.spotify.com/album/0iCzWgCwoQackdi0mS1I8q"
       },
       "artists": [
         {
-          "name": "Lydia",
-          "url": "https://open.spotify.com/artist/7vF0OMb98Tc514WZDBJ6c6"
+          "name": "BBAHN",
+          "url": "https://open.spotify.com/artist/095i3doKOvEd3cY25Mjcvi"
         }
       ],
-      "duration_ms": 195351,
-      "name": "You let me live as myself",
-      "url": "https://open.spotify.com/track/5FNR1Ly5BCFQddWcth5RzP"
+      "duration_ms": 234128,
+      "name": "The way I love you",
+      "url": "https://open.spotify.com/track/29yC3hQEyVpmJ2gwFCpV4k"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
+        "name": "\uc0ac\ub791\ub3c4 \uc5c6\uc774 \uacb0\ud63c OST Part.9 (Soundtrack)",
+        "url": "https://open.spotify.com/album/7yoWIYagwoss6PRdFqLCSj"
+      },
+      "artists": [
+        {
+          "name": "Lydia",
+          "url": "https://open.spotify.com/artist/7vF0OMb98Tc514WZDBJ6c6"
+        }
+      ],
+      "duration_ms": 195351,
+      "name": "You let me live as myself",
+      "url": "https://open.spotify.com/track/5FNR1Ly5BCFQddWcth5RzP"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
         "name": "The Crush Of Spring OST Part.15",
         "url": "https://open.spotify.com/album/2Vs9a6xFjTehdTeIueAF5u"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 222623,
       "name": "I can't even love you",
       "url": "https://open.spotify.com/track/0V62KTZFy4GcURYyK67QDi"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
-        "name": "Oh, Boy! OST Part.4 (Soundtrack)",
-        "url": "https://open.spotify.com/album/0iCzWgCwoQackdi0mS1I8q"
-      },
-      "artists": [
-        {
-          "name": "BBAHN",
-          "url": "https://open.spotify.com/artist/095i3doKOvEd3cY25Mjcvi"
-        }
-      ],
-      "duration_ms": 234128,
-      "name": "The way I love you",
-      "url": "https://open.spotify.com/track/29yC3hQEyVpmJ2gwFCpV4k"
     },
     {
       "added_at": "2024-06-24 05:39:23",

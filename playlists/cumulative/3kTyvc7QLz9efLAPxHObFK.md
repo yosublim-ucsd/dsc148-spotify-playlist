@@ -4,7 +4,7 @@
 
 > 
 
-1,523 songs - 3 day 10 hr 51 min
+1,525 songs - 3 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [BE LOUDER](https://open.spotify.com/track/6ckT6ox1soFZMQluYlF6uG) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7) | [BE LOUDER](https://open.spotify.com/album/6dTq1L6wEGnJWNaEVCsTGg) | 2:51 | 2023-09-01 |  |
 | [Be My Love](https://open.spotify.com/track/3bsG5YOiLctXOPdAXZlpQ8) | [BPM BUNNY](https://open.spotify.com/artist/6HnXeGWhLv6Q3XCvdVpary) | [Be My Love](https://open.spotify.com/album/7cjfIyGKP3JIuQ1gnRlWaA) | 3:18 | 2023-07-14 |  |
 | [Be Strong](https://open.spotify.com/track/72KiNuf7OFPxlIQO4SdLak) | [Neko](https://open.spotify.com/artist/1Fx413KaORo2dLYrdZEBan), [Soulblast](https://open.spotify.com/artist/3f6KorUYJp7dxTAJpgqKiY) | [Be Strong](https://open.spotify.com/album/2dlN7eT3Fvgrgt5WMu14dX) | 2:56 | 2024-06-28 |  |
+| [BE THE 1](https://open.spotify.com/track/0Ct22UdldN3gp9gy6teQwD) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl) | [BE THE 1](https://open.spotify.com/album/58AGTpMpkdPuEBZcdWjSoh) | 3:07 | 2024-07-20 |  |
 | [BE THERE](https://open.spotify.com/track/3AAjgwno8RvMJPD7TZl4pq) | [Avi8](https://open.spotify.com/artist/1GNl1iTql0c4P9brn1Fj6m) | [BE THERE](https://open.spotify.com/album/3kMP45zMaoiidk8Gvqzcsd) | 3:27 | 2023-09-01 |  |
 | [Be With U](https://open.spotify.com/track/6JPeJvJYsCdSlr7T6DC5tn) | [M\-Project](https://open.spotify.com/artist/5XQLMFJlYMppzVqRUpFP5x) | [Be With U](https://open.spotify.com/album/7FFg8lMRvTarqDCTAZZoFl) | 2:39 | 2023-02-25 |  |
 | [BEAT DROP](https://open.spotify.com/track/6euvRHGSDbaHgbQYbJeX7S) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1) | [BEAT DROP](https://open.spotify.com/album/4tB9m8YxO1ubNOi6iYocZH) | 3:26 | 2023-04-10 |  |
@@ -209,6 +210,7 @@
 | [Burn The Mainframe](https://open.spotify.com/track/2PM8TVgw5cupxuL7DRmkBk) | [Revelation](https://open.spotify.com/artist/4xSp6WltH5N47OrAu4pjKw) | [Burn The Mainframe](https://open.spotify.com/album/5yoVniX2KVvUye2dUqnV0u) | 2:49 | 2024-06-17 |  |
 | [Burning Inside](https://open.spotify.com/track/7efZ72rl3hENqyEcY9CM4L) | [Access One](https://open.spotify.com/artist/2yH3lflCSPqb8jI0MKmbPh), [Unphased](https://open.spotify.com/artist/5JxoiyTDKm2RwvSpuWvoam) | [Burning Inside](https://open.spotify.com/album/5O9V8kEL34fqHwuTQtqmh4) | 3:03 | 2024-04-19 |  |
 | [Burning Love](https://open.spotify.com/track/4mhuBO0VjqcJ3OSgc6Mv33) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM), [Critical Mass](https://open.spotify.com/artist/5anwTbhEWgbOnZUs2GbuB9) | [Burning Love](https://open.spotify.com/album/4QtKtnuiJlNiChWgdam1gP) | 3:39 | 2022-11-21 |  |
+| [BUSSIN](https://open.spotify.com/track/5kbchQrlxzXWwncaOcgAjm) | [Strictly Business](https://open.spotify.com/artist/7kC4umc8A1sRBGBnkeKVY1) | [BUSSIN](https://open.spotify.com/album/1XCqwxumBYQoss3eTXz0Vr) | 2:30 | 2024-07-21 |  |
 | [But you like that](https://open.spotify.com/track/04uSax1A7LFgGPa797Axfm) | [PunisherDJ](https://open.spotify.com/artist/58fdt49XRhiPHzzrHFME6g), [MYTH](https://open.spotify.com/artist/1XL4fxBGQkPAlo07WU4jdI) | [But you like that](https://open.spotify.com/album/7zCBka2R8uCDWCOX3x0O2I) | 1:57 | 2023-02-07 |  |
 | [By Your Side](https://open.spotify.com/track/3oxnQVhsBICZBtZXhjVoko) | [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6) | [By Your Side](https://open.spotify.com/album/0tW1vUbaz9OC3k6qlYccju) | 3:19 | 2023-03-21 |  |
 | [Call Back](https://open.spotify.com/track/2a24hhEKIiEVdm8yQfmED5) | [Dead X](https://open.spotify.com/artist/1viO40zvthKBg0VNEnJoma), [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41) | [Call Back](https://open.spotify.com/album/75ZnlzkmfvQnbo4juWYHwx) | 3:18 | 2023-02-12 |  |

@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie latina\. Ganges en portada.
 
-4,556 songs - 10 day 11 hr 35 min
+4,557 songs - 10 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -799,6 +799,7 @@
 | [Coma profundo](https://open.spotify.com/track/0NWF6B9coTs0DKlDtwdMuw) | [trashi](https://open.spotify.com/artist/4NCT7ucfttKL0FUmd3zllQ) | [Coma profundo](https://open.spotify.com/album/2MN1vmSl4udkSjz82bD2OP) | 3:09 | 2024-04-26 | 2024-05-03 |
 | [Comadre](https://open.spotify.com/track/6KZnvozLmnxxOEzHaH404F) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch), [TIRAYA](https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy) | [Comadre](https://open.spotify.com/album/5GsTcqmOSSHQcWStrI0E2m) | 3:32 | 2022-09-02 | 2022-09-10 |
 | [Comala](https://open.spotify.com/track/7zWSYeMxy8T9TdMlmJG4se) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718) | [Comala](https://open.spotify.com/album/7yzqVCp7b2CUBQvLemfwjn) | 1:39 | 2023-09-01 | 2023-09-09 |
+| [Come&Go \(funnynoiseclub002\)](https://open.spotify.com/track/7pkBZWpr9BActeFhWeWtVO) | [urboi.](https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Come&Go \(funnynoiseclub002\)](https://open.spotify.com/album/2BDAa2AXTSSJuUJQSNhN06) | 2:22 | 2024-07-20 |  |
 | [Comenzar de Cero](https://open.spotify.com/track/76FPUOVjAc7pSWCGukG5lO) | [Cementerio De Elefantes](https://open.spotify.com/artist/10OYRF7ERuocazzldugdFT) | [Comenzar de Cero](https://open.spotify.com/album/06T64nAEgwae6b0i8GdYnO) | 4:05 | 2023-06-23 | 2023-07-01 |
 | [Comer de Verdad](https://open.spotify.com/track/0f3RqNf069JXO7UhQeuGd8) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [Comer de Verdad](https://open.spotify.com/album/13lLBcDbBKzL73MaaLFYux) | 3:19 | 2022-11-25 | 2022-12-10 |
 | [COMETIERRA REMIX](https://open.spotify.com/track/73fztLrrdzBHSzLs5vubFU) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [COMETIERRA REMIX](https://open.spotify.com/album/4IGPLizzYYiDIRG35OMqtZ) | 3:00 | 2023-12-08 | 2023-12-23 |

@@ -1,29 +1,13 @@
 {
-  "description": "This is Bad Religion. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 77346,
+  "description": "This is Bad Religion. The essential tracks, all in one playlist.",
+  "num_followers": 77368,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZphbAAAAAAA8piyLYiw/oB5xzPM6E3IA",
+  "snapshot_id": "ZpmsgAAAAAASpqFO0TMYISA0Pdr2+S0L",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recipe For Hate",
-        "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "American Jesus",
-      "url": "https://open.spotify.com/track/5TZn3LQSWwVPnBlPgFKb54"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 67005,
       "name": "Do What You Want",
       "url": "https://open.spotify.com/track/6kE91QjOimRTG5BW1BBj4D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recipe For Hate",
+        "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "American Jesus",
+      "url": "https://open.spotify.com/track/5TZn3LQSWwVPnBlPgFKb54"
     },
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Empire Strikes First",
-        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Los Angeles Is Burning",
-      "url": "https://open.spotify.com/track/0biGKHOtNVGM14sRSztyKq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True North",
         "url": "https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 133986,
       "name": "Fuck You",
       "url": "https://open.spotify.com/track/0Yk3FzkNpuZUYY59j9p6eN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Empire Strikes First",
+        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Los Angeles Is Burning",
+      "url": "https://open.spotify.com/track/0biGKHOtNVGM14sRSztyKq"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Age Of Unreason",
-        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 178449,
-      "name": "My Sanity",
-      "url": "https://open.spotify.com/track/0KNKU0I1iNOydBWTjbfJVx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How Could Hell Be Any Worse? (2005 Remaster)",
         "url": "https://open.spotify.com/album/7G9tRlpSNYGMzAjcjpgIJP"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 132866,
       "name": "We're Only Gonna Die",
       "url": "https://open.spotify.com/track/4c066sJzrKuIceqJ0k9ulg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Age Of Unreason",
+        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 178449,
+      "name": "My Sanity",
+      "url": "https://open.spotify.com/track/0KNKU0I1iNOydBWTjbfJVx"
     },
     {
       "added_at": null,

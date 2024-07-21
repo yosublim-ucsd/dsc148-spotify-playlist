@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Hudson Westbrook",
-  "num_followers": 411345,
+  "num_followers": 411348,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-07-12 13:26:15",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/4j8zbgOMEK1MdNCMfZFBhg"
-      },
-      "artists": [
-        {
-          "name": "Ty Myers",
-          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
-        }
-      ],
-      "duration_ms": 204141,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/37s7g1BDBh9n8dSF2iWBNd"
-    },
-    {
-      "added_at": "2024-07-12 13:26:15",
-      "album": {
         "name": "If You Were Mine",
         "url": "https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 219882,
       "name": "If You Were Mine",
       "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
+    },
+    {
+      "added_at": "2024-07-12 13:26:15",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/4j8zbgOMEK1MdNCMfZFBhg"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "duration_ms": 204141,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/37s7g1BDBh9n8dSF2iWBNd"
     },
     {
       "added_at": "2024-07-12 13:26:15",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-07-12 13:26:15",
       "album": {
-        "name": "Tomorrow's Out Of Sight",
-        "url": "https://open.spotify.com/album/2fnlrAlHt9poTfrMSsUSCt"
-      },
-      "artists": [
-        {
-          "name": "Ty Myers",
-          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
-        }
-      ],
-      "duration_ms": 214252,
-      "name": "Tomorrow's Out Of Sight",
-      "url": "https://open.spotify.com/track/37CikqHaMorBEZg3hRx9P8"
-    },
-    {
-      "added_at": "2024-07-12 13:26:15",
-      "album": {
         "name": "That's What Makes the World Go Around",
         "url": "https://open.spotify.com/album/0WJUACzppmRQemrlwap45e"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 197861,
       "name": "That's What Makes The World Go Around",
       "url": "https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy"
+    },
+    {
+      "added_at": "2024-07-12 13:26:15",
+      "album": {
+        "name": "Tomorrow's Out Of Sight",
+        "url": "https://open.spotify.com/album/2fnlrAlHt9poTfrMSsUSCt"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "duration_ms": 214252,
+      "name": "Tomorrow's Out Of Sight",
+      "url": "https://open.spotify.com/track/37CikqHaMorBEZg3hRx9P8"
     },
     {
       "added_at": "2024-07-12 13:26:15",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-07-12 13:26:15",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/2oagcp2i1TpX5QbKtqjWLa"
-      },
-      "artists": [
-        {
-          "name": "Ty Myers",
-          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
-        }
-      ],
-      "duration_ms": 219163,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/2YYMlqyO7PXnq9qOADLN2m"
-    },
-    {
-      "added_at": "2024-07-12 13:26:15",
-      "album": {
         "name": "The Show",
         "url": "https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 208477,
       "name": "The Show",
       "url": "https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE"
+    },
+    {
+      "added_at": "2024-07-12 13:26:15",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/2oagcp2i1TpX5QbKtqjWLa"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "duration_ms": 219163,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/2YYMlqyO7PXnq9qOADLN2m"
     },
     {
       "added_at": "2024-07-12 13:26:15",
@@ -995,18 +995,18 @@
     {
       "added_at": "2024-07-12 13:26:15",
       "album": {
-        "name": "Love Talking",
-        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
+        "name": "Honky Tonk City",
+        "url": "https://open.spotify.com/album/6KmJTSwySjjcGGs16wqPIR"
       },
       "artists": [
         {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+          "name": "Braxton Keith",
+          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
         }
       ],
-      "duration_ms": 173131,
-      "name": "Love Talking",
-      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
+      "duration_ms": 152253,
+      "name": "Honky Tonk City",
+      "url": "https://open.spotify.com/track/4sdtcGaySrotXJHPBsF3id"
     },
     {
       "added_at": "2024-07-12 13:26:15",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2024-07-12 13:26:15",
       "album": {
-        "name": "Honky Tonk City",
-        "url": "https://open.spotify.com/album/6KmJTSwySjjcGGs16wqPIR"
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
       },
       "artists": [
         {
-          "name": "Braxton Keith",
-          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
         }
       ],
-      "duration_ms": 152253,
-      "name": "Honky Tonk City",
-      "url": "https://open.spotify.com/track/4sdtcGaySrotXJHPBsF3id"
+      "duration_ms": 173131,
+      "name": "Love Talking",
+      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
     },
     {
       "added_at": "2024-07-12 13:26:15",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-07-12 13:26:15",
       "album": {
+        "name": "Keep Lookin' Down The Road",
+        "url": "https://open.spotify.com/album/3UZyPuO9Kl8dVBLw4ruJDU"
+      },
+      "artists": [
+        {
+          "name": "Reckless Kelly",
+          "url": "https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg"
+        }
+      ],
+      "duration_ms": 184867,
+      "name": "Keep Lookin' Down The Road",
+      "url": "https://open.spotify.com/track/2I6GzticU6dxwZOAN8bG9d"
+    },
+    {
+      "added_at": "2024-07-12 13:26:15",
+      "album": {
         "name": "Come Rest Your Head (On My Pillow)",
         "url": "https://open.spotify.com/album/3Sh65R9MY2FdyKdhiyW9Uo"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 277600,
       "name": "Come Rest Your Head (On My Pillow)",
       "url": "https://open.spotify.com/track/4wNsAbCvwN5syfU06Yd7ec"
-    },
-    {
-      "added_at": "2024-07-12 13:26:15",
-      "album": {
-        "name": "Keep Lookin' Down The Road",
-        "url": "https://open.spotify.com/album/3UZyPuO9Kl8dVBLw4ruJDU"
-      },
-      "artists": [
-        {
-          "name": "Reckless Kelly",
-          "url": "https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg"
-        }
-      ],
-      "duration_ms": 184867,
-      "name": "Keep Lookin' Down The Road",
-      "url": "https://open.spotify.com/track/2I6GzticU6dxwZOAN8bG9d"
     },
     {
       "added_at": "2024-07-12 13:26:15",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2024-07-12 13:26:15",
       "album": {
-        "name": "Here's To You. Here's To Me.",
-        "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
+        "name": "Dancin' With The Devil",
+        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
       },
       "artists": [
         {
-          "name": "William Beckmann",
-          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
+          "name": "Josh Ward",
+          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
         }
       ],
-      "duration_ms": 182318,
-      "name": "Tennessee Drinkin'",
-      "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
+      "duration_ms": 178848,
+      "name": "Dancin' With The Devil",
+      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
     },
     {
       "added_at": "2024-07-12 13:26:15",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2024-07-12 13:26:15",
       "album": {
-        "name": "Dancin' With The Devil",
-        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
+        "name": "Here's To You. Here's To Me.",
+        "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
       },
       "artists": [
         {
-          "name": "Josh Ward",
-          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
         }
       ],
-      "duration_ms": 178848,
-      "name": "Dancin' With The Devil",
-      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
+      "duration_ms": 182318,
+      "name": "Tennessee Drinkin'",
+      "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
     },
     {
       "added_at": "2024-07-12 13:26:15",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2024-07-12 13:26:15",
       "album": {
-        "name": "Happy Hour",
-        "url": "https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2"
+        "name": "Burn The Ground",
+        "url": "https://open.spotify.com/album/5vEmZcMq1NXyNRHr7aMB8X"
       },
       "artists": [
         {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+          "name": "Mason Lively",
+          "url": "https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs"
         }
       ],
-      "duration_ms": 191777,
-      "name": "Happy Hour",
-      "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
+      "duration_ms": 203800,
+      "name": "How To Love You",
+      "url": "https://open.spotify.com/track/4FJT0U4ecuD6l53YtKCeEI"
     },
     {
       "added_at": "2024-07-12 13:26:15",
@@ -1411,22 +1411,18 @@
     {
       "added_at": "2024-07-12 13:26:15",
       "album": {
-        "name": "All I Wanna Do Is Drink",
-        "url": "https://open.spotify.com/album/70R3YqEm3BxYOfkumvPdjk"
+        "name": "Happy Hour",
+        "url": "https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2"
       },
       "artists": [
         {
-          "name": "Randy Rogers",
-          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
-        },
-        {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
         }
       ],
-      "duration_ms": 224093,
-      "name": "All I Wanna Do Is Drink",
-      "url": "https://open.spotify.com/track/4jHJ3GZtmx5iqjTZoxgMgx"
+      "duration_ms": 191777,
+      "name": "Happy Hour",
+      "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
     },
     {
       "added_at": "2024-07-12 13:26:15",
@@ -1447,18 +1443,22 @@
     {
       "added_at": "2024-07-12 13:26:15",
       "album": {
-        "name": "Burn The Ground",
-        "url": "https://open.spotify.com/album/5vEmZcMq1NXyNRHr7aMB8X"
+        "name": "All I Wanna Do Is Drink",
+        "url": "https://open.spotify.com/album/70R3YqEm3BxYOfkumvPdjk"
       },
       "artists": [
         {
-          "name": "Mason Lively",
-          "url": "https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs"
+          "name": "Randy Rogers",
+          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
+        },
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
         }
       ],
-      "duration_ms": 203800,
-      "name": "How To Love You",
-      "url": "https://open.spotify.com/track/4FJT0U4ecuD6l53YtKCeEI"
+      "duration_ms": 224093,
+      "name": "All I Wanna Do Is Drink",
+      "url": "https://open.spotify.com/track/4jHJ3GZtmx5iqjTZoxgMgx"
     },
     {
       "added_at": "2024-07-12 13:26:15",
@@ -1511,6 +1511,30 @@
     {
       "added_at": "2024-07-12 13:26:15",
       "album": {
+        "name": "Kick A Little",
+        "url": "https://open.spotify.com/album/4ge2mkLRHL3eVxABHU9hEb"
+      },
+      "artists": [
+        {
+          "name": "Tracy Lawrence",
+          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+        },
+        {
+          "name": "Rodney Carrington",
+          "url": "https://open.spotify.com/artist/7xsMZdxw6eEJXGTLZulONO"
+        },
+        {
+          "name": "David Adam Byrnes",
+          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
+        }
+      ],
+      "duration_ms": 227175,
+      "name": "Kick A Little",
+      "url": "https://open.spotify.com/track/7JVAxrtctxKu5GpmlCCyGL"
+    },
+    {
+      "added_at": "2024-07-12 13:26:15",
+      "album": {
         "name": "Radio Wave",
         "url": "https://open.spotify.com/album/4VkuvviTPG2MUXRJ6iJGEQ"
       },
@@ -1539,30 +1563,6 @@
       "duration_ms": 144573,
       "name": "Made In Texas",
       "url": "https://open.spotify.com/track/0ba2g72aL4NG7gxuvbp0my"
-    },
-    {
-      "added_at": "2024-07-12 13:26:15",
-      "album": {
-        "name": "Kick A Little",
-        "url": "https://open.spotify.com/album/4ge2mkLRHL3eVxABHU9hEb"
-      },
-      "artists": [
-        {
-          "name": "Tracy Lawrence",
-          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
-        },
-        {
-          "name": "Rodney Carrington",
-          "url": "https://open.spotify.com/artist/7xsMZdxw6eEJXGTLZulONO"
-        },
-        {
-          "name": "David Adam Byrnes",
-          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
-        }
-      ],
-      "duration_ms": 227175,
-      "name": "Kick A Little",
-      "url": "https://open.spotify.com/track/7JVAxrtctxKu5GpmlCCyGL"
     },
     {
       "added_at": "2024-07-12 13:26:15",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-07-12 13:26:15",
       "album": {
-        "name": "State You Left Me In",
-        "url": "https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd"
-      },
-      "artists": [
-        {
-          "name": "Jake Worthington",
-          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
-        }
-      ],
-      "duration_ms": 325299,
-      "name": "State You Left Me In",
-      "url": "https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W"
-    },
-    {
-      "added_at": "2024-07-12 13:26:15",
-      "album": {
         "name": "Easy as Hello",
         "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 279796,
       "name": "Easy as Hello",
       "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
+    },
+    {
+      "added_at": "2024-07-12 13:26:15",
+      "album": {
+        "name": "State You Left Me In",
+        "url": "https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd"
+      },
+      "artists": [
+        {
+          "name": "Jake Worthington",
+          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
+        }
+      ],
+      "duration_ms": 325299,
+      "name": "State You Left Me In",
+      "url": "https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W"
     },
     {
       "added_at": "2024-07-12 13:26:15",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-07-12 13:26:15",
       "album": {
-        "name": "Flyin",
-        "url": "https://open.spotify.com/album/6piPOikcjVHKg1JMUAEwfU"
-      },
-      "artists": [
-        {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
-        }
-      ],
-      "duration_ms": 274626,
-      "name": "Nothin But Texas",
-      "url": "https://open.spotify.com/track/2Rphg4r8aRkglve2415SAG"
-    },
-    {
-      "added_at": "2024-07-12 13:26:15",
-      "album": {
         "name": "Outta Dirt",
         "url": "https://open.spotify.com/album/16CEupIepvrJlX6ay6NM9n"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 164412,
       "name": "Outta Dirt",
       "url": "https://open.spotify.com/track/0iUAgtPIBPFzAXqdy9sDb5"
+    },
+    {
+      "added_at": "2024-07-12 13:26:15",
+      "album": {
+        "name": "Flyin",
+        "url": "https://open.spotify.com/album/6piPOikcjVHKg1JMUAEwfU"
+      },
+      "artists": [
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+        }
+      ],
+      "duration_ms": 274626,
+      "name": "Nothin But Texas",
+      "url": "https://open.spotify.com/track/2Rphg4r8aRkglve2415SAG"
     },
     {
       "added_at": "2024-07-12 13:26:15",

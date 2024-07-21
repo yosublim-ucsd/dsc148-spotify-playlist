@@ -180,7 +180,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 169171,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/58hzFlHm1gKIJzRMSt0vWV"
@@ -456,6 +456,28 @@
       "duration_ms": 274322,
       "name": "I Am",
       "url": "https://open.spotify.com/track/31CgjKFR1pzFO5Im365rXB"
+    },
+    {
+      "album": {
+        "name": "I Am Happy",
+        "url": "https://open.spotify.com/album/2j3UeoEWrTnc6PVVbfBe6F"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Del The Funky Homosapien",
+          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+        }
+      ],
+      "date_added": "2024-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182893,
+      "name": "I Am Happy",
+      "url": "https://open.spotify.com/track/5nDwo3rYfPVzKTxFX7JBRy"
     },
     {
       "album": {

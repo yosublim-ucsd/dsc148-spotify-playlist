@@ -606,7 +606,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 392493,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/0J56BoNc7pCnE68bAt7ycz"
@@ -1682,6 +1682,28 @@
       "duration_ms": 199024,
       "name": "Entre Or\u00e1culos",
       "url": "https://open.spotify.com/track/5N45OAFe3M6pyueCO0W7Ym"
+    },
+    {
+      "album": {
+        "name": "Esmeralda (Episodio 2)",
+        "url": "https://open.spotify.com/album/6sxVaMwALeEANXA2b7TtLt"
+      },
+      "artists": [
+        {
+          "name": "Leiden",
+          "url": "https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI"
+        },
+        {
+          "name": "El Palomar",
+          "url": "https://open.spotify.com/artist/5NQBS0Adzkd4OheoR7DtpF"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228153,
+      "name": "Esmeralda (Episodio 2)",
+      "url": "https://open.spotify.com/track/6FgVbS4WlDLPTjr0C6Ozkw"
     },
     {
       "album": {
@@ -4087,6 +4109,24 @@
     },
     {
       "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/2hEqB0JliRzhmxRhyN9IEH"
+      },
+      "artists": [
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181592,
+      "name": "Selva Negra",
+      "url": "https://open.spotify.com/track/4abXKMf3IsIe3gQaCsiiHx"
+    },
+    {
+      "album": {
         "name": "Semilla de Laurel",
         "url": "https://open.spotify.com/album/3x1sFQ58wDd7t0Pa8abeZ9"
       },
@@ -4814,7 +4854,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 321120,
       "name": "Un Derecho de Nacimiento",
       "url": "https://open.spotify.com/track/5iRyYvj7aDYImzxBTDeN3J"

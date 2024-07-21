@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 7722,
+  "num_followers": 7735,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-07-19 06:12:32",
       "album": {
-        "name": "Rollin' with the Punches",
-        "url": "https://open.spotify.com/album/5VLNC9q4WqKqG3tOQsPKEw"
-      },
-      "artists": [
-        {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1"
-        }
-      ],
-      "duration_ms": 253194,
-      "name": "Rollin' with the Punches",
-      "url": "https://open.spotify.com/track/0n3dt5BM0wJm6kLvUfB7hK"
-    },
-    {
-      "added_at": "2024-07-19 06:12:32",
-      "album": {
         "name": "Built And Broken",
         "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 268293,
       "name": "Built And Broken",
       "url": "https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS"
+    },
+    {
+      "added_at": "2024-07-19 06:12:32",
+      "album": {
+        "name": "Rollin' with the Punches",
+        "url": "https://open.spotify.com/album/5VLNC9q4WqKqG3tOQsPKEw"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1"
+        }
+      ],
+      "duration_ms": 253194,
+      "name": "Rollin' with the Punches",
+      "url": "https://open.spotify.com/track/0n3dt5BM0wJm6kLvUfB7hK"
     },
     {
       "added_at": "2024-07-19 06:12:32",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-07-19 06:12:32",
       "album": {
+        "name": "Pink Shades",
+        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "Pink Shades",
+      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
+    },
+    {
+      "added_at": "2024-07-19 06:12:32",
+      "album": {
         "name": "Keep It Simple",
         "url": "https://open.spotify.com/album/7GazVXm5O9ETxTyNcvO6Yi"
       },
@@ -531,38 +547,6 @@
     {
       "added_at": "2024-07-19 06:12:32",
       "album": {
-        "name": "Pink Shades",
-        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "Pink Shades",
-      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
-    },
-    {
-      "added_at": "2024-07-19 06:12:32",
-      "album": {
-        "name": "For The Better Of Me",
-        "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
-      },
-      "artists": [
-        {
-          "name": "Yentl",
-          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
-        }
-      ],
-      "duration_ms": 230431,
-      "name": "For The Better Of Me",
-      "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
-    },
-    {
-      "added_at": "2024-07-19 06:12:32",
-      "album": {
         "name": "Before The Storm",
         "url": "https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 191760,
       "name": "Before The Storm",
       "url": "https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8"
+    },
+    {
+      "added_at": "2024-07-19 06:12:32",
+      "album": {
+        "name": "For The Better Of Me",
+        "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
+      },
+      "artists": [
+        {
+          "name": "Yentl",
+          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
+        }
+      ],
+      "duration_ms": 230431,
+      "name": "For The Better Of Me",
+      "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
     },
     {
       "added_at": "2024-07-19 06:12:32",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-07-19 06:12:32",
       "album": {
-        "name": "Fortunes & Willows",
-        "url": "https://open.spotify.com/album/12ycpUr0zVCaDesITqsq0x"
-      },
-      "artists": [
-        {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1"
-        }
-      ],
-      "duration_ms": 244667,
-      "name": "Little Miss Blue Eyes",
-      "url": "https://open.spotify.com/track/13eAihSwYg2klEZYutJVxO"
-    },
-    {
-      "added_at": "2024-07-19 06:12:32",
-      "album": {
         "name": "Dancing In The Dark",
         "url": "https://open.spotify.com/album/4QUzb6iiFjr2K0NTqCIZTV"
       },
@@ -703,22 +687,18 @@
     {
       "added_at": "2024-07-19 06:12:32",
       "album": {
-        "name": "Bluefinger",
-        "url": "https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1"
+        "name": "Fortunes & Willows",
+        "url": "https://open.spotify.com/album/12ycpUr0zVCaDesITqsq0x"
       },
       "artists": [
         {
-          "name": "Bertolf",
-          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
-        },
-        {
-          "name": "Tim Knol",
-          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1"
         }
       ],
-      "duration_ms": 202906,
-      "name": "Even The Bad Ends Badly",
-      "url": "https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37"
+      "duration_ms": 244667,
+      "name": "Little Miss Blue Eyes",
+      "url": "https://open.spotify.com/track/13eAihSwYg2klEZYutJVxO"
     },
     {
       "added_at": "2024-07-19 06:12:32",
@@ -743,6 +723,26 @@
       "duration_ms": 180466,
       "name": "Gold Dust Woman",
       "url": "https://open.spotify.com/track/1FH9iCgUtZXnwodYzahivh"
+    },
+    {
+      "added_at": "2024-07-19 06:12:32",
+      "album": {
+        "name": "Bluefinger",
+        "url": "https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1"
+      },
+      "artists": [
+        {
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
+        },
+        {
+          "name": "Tim Knol",
+          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
+        }
+      ],
+      "duration_ms": 202906,
+      "name": "Even The Bad Ends Badly",
+      "url": "https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37"
     },
     {
       "added_at": "2024-07-19 06:12:32",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-07-19 06:12:32",
       "album": {
-        "name": "Aphrodite",
-        "url": "https://open.spotify.com/album/4Z9VwS2ksXpFBdn5pSxfoQ"
-      },
-      "artists": [
-        {
-          "name": "Donna Blue",
-          "url": "https://open.spotify.com/artist/2p3WhDRwfMseVi8f04ODpd"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "Aphrodite",
-      "url": "https://open.spotify.com/track/6noeTONJnM5NukhaQYsqDQ"
-    },
-    {
-      "added_at": "2024-07-19 06:12:32",
-      "album": {
         "name": "Wandering Soul",
         "url": "https://open.spotify.com/album/6OPr5drQs4sdE8IgAK4vEv"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 152590,
       "name": "Gravel Road",
       "url": "https://open.spotify.com/track/078aq6YFLnlMAK6yqst82A"
+    },
+    {
+      "added_at": "2024-07-19 06:12:32",
+      "album": {
+        "name": "Aphrodite",
+        "url": "https://open.spotify.com/album/4Z9VwS2ksXpFBdn5pSxfoQ"
+      },
+      "artists": [
+        {
+          "name": "Donna Blue",
+          "url": "https://open.spotify.com/artist/2p3WhDRwfMseVi8f04ODpd"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "Aphrodite",
+      "url": "https://open.spotify.com/track/6noeTONJnM5NukhaQYsqDQ"
     },
     {
       "added_at": "2024-07-19 06:12:32",

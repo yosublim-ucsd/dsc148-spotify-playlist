@@ -1,6 +1,6 @@
 {
   "description": "\u0427\u0430\u0441 \u043f\u0435\u0440\u0435\u043f\u043e\u0447\u0438\u0442\u0438 \ud83c\udf3b\ud83e\uddd8\ud83c\udf32",
-  "num_followers": 30132,
+  "num_followers": 30150,
   "original_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u0422\u0438 \u0442\u0430\u043a \u043c\u0430\u043b\u043e \u0433\u043e\u0432\u043e\u0440\u0438\u0448",
-        "url": "https://open.spotify.com/album/2SFJTC1JEUbcj5Wuahvitl"
-      },
-      "artists": [
-        {
-          "name": "ba.latskii",
-          "url": "https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz"
-        }
-      ],
-      "duration_ms": 152608,
-      "name": "\u0422\u0438 \u0442\u0430\u043a \u043c\u0430\u043b\u043e \u0433\u043e\u0432\u043e\u0440\u0438\u0448",
-      "url": "https://open.spotify.com/track/7mmU3dlHNkrA8sjaT4l03s"
-    },
-    {
-      "added_at": "2024-07-12 16:07:22",
-      "album": {
         "name": "\u041a\u0432\u0456\u0442\u043d\u0443 \u0437 \u0442\u043e\u0431\u043e\u044e",
         "url": "https://open.spotify.com/album/1bclOZnQcI8N02mdPy1TqY"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 140666,
       "name": "\u041a\u0432\u0456\u0442\u043d\u0443 \u0437 \u0442\u043e\u0431\u043e\u044e",
       "url": "https://open.spotify.com/track/1gEOO9uivwxwAKIF5Z0ezH"
+    },
+    {
+      "added_at": "2024-07-12 16:07:22",
+      "album": {
+        "name": "\u0422\u0438 \u0442\u0430\u043a \u043c\u0430\u043b\u043e \u0433\u043e\u0432\u043e\u0440\u0438\u0448",
+        "url": "https://open.spotify.com/album/2SFJTC1JEUbcj5Wuahvitl"
+      },
+      "artists": [
+        {
+          "name": "ba.latskii",
+          "url": "https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz"
+        }
+      ],
+      "duration_ms": 152608,
+      "name": "\u0422\u0438 \u0442\u0430\u043a \u043c\u0430\u043b\u043e \u0433\u043e\u0432\u043e\u0440\u0438\u0448",
+      "url": "https://open.spotify.com/track/7mmU3dlHNkrA8sjaT4l03s"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "I tell everyone about you",
-        "url": "https://open.spotify.com/album/5OAjZsMKliYqXaKsTZZnXf"
+        "name": "\u041a\u0430\u043c\u0435\u0440\u0442\u043e\u043d",
+        "url": "https://open.spotify.com/album/6k5oC3oLwKd8UocbZlISp4"
       },
       "artists": [
         {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+          "name": "Khrystyna Soloviy",
+          "url": "https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa"
         }
       ],
-      "duration_ms": 180558,
-      "name": "I tell everyone about you",
-      "url": "https://open.spotify.com/track/7BmXvGEFDk8uPudvlJPCcB"
+      "duration_ms": 209911,
+      "name": "\u041a\u0430\u043c\u0435\u0440\u0442\u043e\u043d",
+      "url": "https://open.spotify.com/track/0O3BnlKDKVeoqrHWanbO0r"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -547,18 +547,18 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u0422\u0435\u0431\u0435 - \u0441\u043e\u0431\u0456",
-        "url": "https://open.spotify.com/album/4c9X2MvAHcldczNbYTaP9r"
+        "name": "I tell everyone about you",
+        "url": "https://open.spotify.com/album/5OAjZsMKliYqXaKsTZZnXf"
       },
       "artists": [
         {
-          "name": "KOLA",
-          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
         }
       ],
-      "duration_ms": 122666,
-      "name": "\u0422\u0435\u0431\u0435 - \u0441\u043e\u0431\u0456",
-      "url": "https://open.spotify.com/track/5YKrl96QnEDPQNYKTCfokP"
+      "duration_ms": 180558,
+      "name": "I tell everyone about you",
+      "url": "https://open.spotify.com/track/7BmXvGEFDk8uPudvlJPCcB"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -579,18 +579,18 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u041a\u0430\u043c\u0435\u0440\u0442\u043e\u043d",
-        "url": "https://open.spotify.com/album/6k5oC3oLwKd8UocbZlISp4"
+        "name": "\u0422\u0435\u0431\u0435 - \u0441\u043e\u0431\u0456",
+        "url": "https://open.spotify.com/album/4c9X2MvAHcldczNbYTaP9r"
       },
       "artists": [
         {
-          "name": "Khrystyna Soloviy",
-          "url": "https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa"
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
         }
       ],
-      "duration_ms": 209911,
-      "name": "\u041a\u0430\u043c\u0435\u0440\u0442\u043e\u043d",
-      "url": "https://open.spotify.com/track/0O3BnlKDKVeoqrHWanbO0r"
+      "duration_ms": 122666,
+      "name": "\u0422\u0435\u0431\u0435 - \u0441\u043e\u0431\u0456",
+      "url": "https://open.spotify.com/track/5YKrl96QnEDPQNYKTCfokP"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
-        "url": "https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf"
-      },
-      "artists": [
-        {
-          "name": "KOLA",
-          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
-        }
-      ],
-      "duration_ms": 139805,
-      "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
-      "url": "https://open.spotify.com/track/6FTXegNMKv59Kalaukq6pC"
-    },
-    {
-      "added_at": "2024-07-12 16:07:22",
-      "album": {
         "name": "\u041b\u044e\u0431\u043b\u044e",
         "url": "https://open.spotify.com/album/38n8fjrs7QHF8Y2aGhwj6K"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 168145,
       "name": "\u041b\u044e\u0431\u043b\u044e",
       "url": "https://open.spotify.com/track/05L0LJID1XtFqzlHm9S744"
+    },
+    {
+      "added_at": "2024-07-12 16:07:22",
+      "album": {
+        "name": "The Fall",
+        "url": "https://open.spotify.com/album/0U7AFwPDmrvgthIFj7DQWq"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 218120,
+      "name": "Young Blood",
+      "url": "https://open.spotify.com/track/0HVnaML1M41ACk570JuGK8"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "The Fall",
-        "url": "https://open.spotify.com/album/0U7AFwPDmrvgthIFj7DQWq"
+        "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
+        "url": "https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
         }
       ],
-      "duration_ms": 218120,
-      "name": "Young Blood",
-      "url": "https://open.spotify.com/track/0HVnaML1M41ACk570JuGK8"
+      "duration_ms": 139805,
+      "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
+      "url": "https://open.spotify.com/track/6FTXegNMKv59Kalaukq6pC"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u041c\u0443\u0437\u0438\u0447\u043d\u0438\u0439 \u0449\u043e\u0434\u0435\u043d\u043d\u0438\u043a. \u0427\u0430\u0441\u0442\u0438\u043d\u0430 \u21161",
-        "url": "https://open.spotify.com/album/0ClFr44iWLQp8zCilHSJaM"
-      },
-      "artists": [
-        {
-          "name": "KOLA",
-          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
-        }
-      ],
-      "duration_ms": 112262,
-      "name": "\u041b\u0438\u043d\u0443",
-      "url": "https://open.spotify.com/track/2SyrQZYHL1Q3yZbVX5UVKc"
-    },
-    {
-      "added_at": "2024-07-12 16:07:22",
-      "album": {
         "name": "\u041c\u043e\u044f \u0443\u0442\u043e\u043c\u0430",
         "url": "https://open.spotify.com/album/4sP1lkLKPxozycub24LV3V"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 255310,
       "name": "Makoterchyk",
       "url": "https://open.spotify.com/track/2VHw1Ie1Job3uYw0GYMOwL"
+    },
+    {
+      "added_at": "2024-07-12 16:07:22",
+      "album": {
+        "name": "\u0417 \u0442\u043e\u0431\u043e\u044e",
+        "url": "https://open.spotify.com/album/5nHYLXock3TMYnuOJrLAWf"
+      },
+      "artists": [
+        {
+          "name": "Tina Karol",
+          "url": "https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r"
+        }
+      ],
+      "duration_ms": 180495,
+      "name": "\u0417 \u0442\u043e\u0431\u043e\u044e",
+      "url": "https://open.spotify.com/track/5ErRotOfxOqygtKwW1Bkjd"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -871,18 +871,18 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u0417 \u0442\u043e\u0431\u043e\u044e",
-        "url": "https://open.spotify.com/album/5nHYLXock3TMYnuOJrLAWf"
+        "name": "\u041c\u0443\u0437\u0438\u0447\u043d\u0438\u0439 \u0449\u043e\u0434\u0435\u043d\u043d\u0438\u043a. \u0427\u0430\u0441\u0442\u0438\u043d\u0430 \u21161",
+        "url": "https://open.spotify.com/album/0ClFr44iWLQp8zCilHSJaM"
       },
       "artists": [
         {
-          "name": "Tina Karol",
-          "url": "https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r"
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
         }
       ],
-      "duration_ms": 180495,
-      "name": "\u0417 \u0442\u043e\u0431\u043e\u044e",
-      "url": "https://open.spotify.com/track/5ErRotOfxOqygtKwW1Bkjd"
+      "duration_ms": 112262,
+      "name": "\u041b\u0438\u043d\u0443",
+      "url": "https://open.spotify.com/track/2SyrQZYHL1Q3yZbVX5UVKc"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -971,22 +971,22 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u0426\u0456\u043b\u0443\u0439",
-        "url": "https://open.spotify.com/album/4j3Zg22aQBr2R61zVe2LRC"
+        "name": "Spinnin'",
+        "url": "https://open.spotify.com/album/4CRfnrDgWkCNq4jO08YzQt"
       },
       "artists": [
         {
-          "name": "Adam",
-          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
+          "name": "Garden City Movement",
+          "url": "https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa"
         },
         {
-          "name": "\u041c\u0423\u041b\u042c\u0422\u0418\u0422\u0420\u0415\u041a",
-          "url": "https://open.spotify.com/artist/6xVfsVrltoRr7tm4Gq9oev"
+          "name": "Ninet Tayeb",
+          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
         }
       ],
-      "duration_ms": 261500,
-      "name": "\u0426\u0456\u043b\u0443\u0439",
-      "url": "https://open.spotify.com/track/5DAzNt68KuvlFP0ntLJ6qO"
+      "duration_ms": 197546,
+      "name": "Spinnin'",
+      "url": "https://open.spotify.com/track/2xWPDIps7ger8WRUE84bg9"
     },
     {
       "added_at": "2024-07-12 16:07:22",

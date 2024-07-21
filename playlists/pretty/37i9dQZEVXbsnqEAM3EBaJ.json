@@ -6,8 +6,40 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADnh/qPrhK5mzrwyM7FPt1W",
+  "snapshot_id": "AAAAAAAAAAD0RXPu68++d1DIx767HhZR",
   "tracks": [
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Nueva Vida",
+        "url": "https://open.spotify.com/album/4Fzm2ZfYgttec2MQwFKJq3"
+      },
+      "artists": [
+        {
+          "name": "Tronic",
+          "url": "https://open.spotify.com/artist/5HkHDnrE6HW1FsD5gf8nrw"
+        }
+      ],
+      "duration_ms": 195002,
+      "name": "Nueva Vida",
+      "url": "https://open.spotify.com/track/1oJJLjnp8ileP4jdR7ZwQV"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "\u0422\u044b \u0416\u0435 \u041d\u0435 \u0417\u043d\u0430\u0435\u0448\u044c \u041a\u0442\u043e \u042f / Ty Zhe Ne Znaesh Kto Ya",
+        "url": "https://open.spotify.com/album/4vR2PxqfpCpRvMRUXvoAGR"
+      },
+      "artists": [
+        {
+          "name": "Molchat Doma",
+          "url": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "\u0422\u044b \u0416\u0435 \u041d\u0435 \u0417\u043d\u0430\u0435\u0448\u044c \u041a\u0442\u043e \u042f / Ty Zhe Ne Znaesh Kto Ya - Radio Edit",
+      "url": "https://open.spotify.com/track/28NMmYBDD4CF8PUpbS2wgq"
+    },
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
@@ -31,70 +63,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "\u0422\u044b \u0416\u0435 \u041d\u0435 \u0417\u043d\u0430\u0435\u0448\u044c \u041a\u0442\u043e \u042f / Ty Zhe Ne Znaesh Kto Ya",
-        "url": "https://open.spotify.com/album/4vR2PxqfpCpRvMRUXvoAGR"
-      },
-      "artists": [
-        {
-          "name": "Molchat Doma",
-          "url": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "\u0422\u044b \u0416\u0435 \u041d\u0435 \u0417\u043d\u0430\u0435\u0448\u044c \u041a\u0442\u043e \u042f / Ty Zhe Ne Znaesh Kto Ya - Radio Edit",
-      "url": "https://open.spotify.com/track/28NMmYBDD4CF8PUpbS2wgq"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Nueva Vida",
-        "url": "https://open.spotify.com/album/4Fzm2ZfYgttec2MQwFKJq3"
-      },
-      "artists": [
-        {
-          "name": "Tronic",
-          "url": "https://open.spotify.com/artist/5HkHDnrE6HW1FsD5gf8nrw"
-        }
-      ],
-      "duration_ms": 195002,
-      "name": "Nueva Vida",
-      "url": "https://open.spotify.com/track/1oJJLjnp8ileP4jdR7ZwQV"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Ana Tijoux (En Vivo en NPR Tiny Desk)",
-        "url": "https://open.spotify.com/album/0Z2LIP15wpNu04owMtvB7F"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 265750,
-      "name": "1977 - En Vivo en NPR Tiny Desk",
-      "url": "https://open.spotify.com/track/43MNu5m1YOwA0y0NRKaHw9"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "= 1",
-        "url": "https://open.spotify.com/album/4nZFejdpJI4dqllNHlAjXE"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 224466,
-      "name": "Sharp Shooter",
-      "url": "https://open.spotify.com/track/0mpu7EUvtfjSvLPZuwc2u7"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Laid to Rest (HEALTH Remix)",
         "url": "https://open.spotify.com/album/2xJ9kcY65dxKtx81YOCa1K"
       },
@@ -111,6 +79,22 @@
       "duration_ms": 158604,
       "name": "Laid to Rest - HEALTH Remix",
       "url": "https://open.spotify.com/track/15qtJGXETtDOflM2Rvod4U"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Ana Tijoux (En Vivo en NPR Tiny Desk)",
+        "url": "https://open.spotify.com/album/0Z2LIP15wpNu04owMtvB7F"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 265750,
+      "name": "1977 - En Vivo en NPR Tiny Desk",
+      "url": "https://open.spotify.com/track/43MNu5m1YOwA0y0NRKaHw9"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -143,6 +127,22 @@
       "duration_ms": 297972,
       "name": "Up In The Sky - Monnow Valley Version",
       "url": "https://open.spotify.com/track/7mjNRaaJ9UoBabebO00JNL"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "= 1",
+        "url": "https://open.spotify.com/album/4nZFejdpJI4dqllNHlAjXE"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 224466,
+      "name": "Sharp Shooter",
+      "url": "https://open.spotify.com/track/0mpu7EUvtfjSvLPZuwc2u7"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -195,54 +195,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "One Hand Clapping \u2013 The Backyard (One Hand Clapping Sessions)",
-        "url": "https://open.spotify.com/album/6YCmiTHYtzwNuW4DkgzcwI"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 154653,
-      "name": "Blackbird - One Hand Clapping Sessions",
-      "url": "https://open.spotify.com/track/3qfMHMt2UzbyPkePNKIYDh"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Black Mold",
-        "url": "https://open.spotify.com/album/1G06wIGTvexsq1xiXGdfnX"
-      },
-      "artists": [
-        {
-          "name": "Silos",
-          "url": "https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9"
-        },
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        },
-        {
-          "name": "Craig Mabbitt",
-          "url": "https://open.spotify.com/artist/0whorprfBPk2ZY7u81QwHa"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
-        }
-      ],
-      "duration_ms": 202453,
-      "name": "Black Mold",
-      "url": "https://open.spotify.com/track/0uOLM57T5P4nRq2ul5u65X"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "GENESIS",
         "url": "https://open.spotify.com/album/0lauCMMmgQpzDyQxqhXLuH"
       },
@@ -275,22 +227,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Like A Stone (Reimagined)",
-        "url": "https://open.spotify.com/album/6xCsPSZ3THpZRrYPox5kK2"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 287631,
-      "name": "Like A Stone - Reimagined",
-      "url": "https://open.spotify.com/track/2EHZpEtgE48ztROdwkPgfQ"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Live From The Garden Amphitheater",
         "url": "https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN"
       },
@@ -303,6 +239,34 @@
       "duration_ms": 285056,
       "name": "You're Not Alone - Live",
       "url": "https://open.spotify.com/track/4r7F2pBLRLV8qdx12kE11J"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Black Mold",
+        "url": "https://open.spotify.com/album/1G06wIGTvexsq1xiXGdfnX"
+      },
+      "artists": [
+        {
+          "name": "Silos",
+          "url": "https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9"
+        },
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        },
+        {
+          "name": "Craig Mabbitt",
+          "url": "https://open.spotify.com/artist/0whorprfBPk2ZY7u81QwHa"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "duration_ms": 202453,
+      "name": "Black Mold",
+      "url": "https://open.spotify.com/track/0uOLM57T5P4nRq2ul5u65X"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -339,6 +303,26 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/5zVhUz76UL3A1VXftq6g76"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        },
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "duration_ms": 210174,
+      "name": "Proof",
+      "url": "https://open.spotify.com/track/5ASY9hrg61fOhdQ1isNbQm"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "And Waves of Dreams",
         "url": "https://open.spotify.com/album/4MaeSCqaXnO0RR0r42YLXx"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 142000,
       "name": "And Waves of Dreams",
       "url": "https://open.spotify.com/track/4rxvzq4CtdaR1sNxAYCq6y"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/0WSzv4640pPFZ6gqo78TCx"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 175463,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/6mbrwy2qyswMGrhXcfkjNE"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -396,45 +396,9 @@
           "url": "https://open.spotify.com/artist/4Y5t1XCXXpViFckIHadvW6"
         }
       ],
-      "duration_ms": 163351,
-      "name": "Transiciones Tranquilas De Tocata",
-      "url": "https://open.spotify.com/track/5pVEe9EbvpH68ZqK4OQXD5"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/0WSzv4640pPFZ6gqo78TCx"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 175463,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/6mbrwy2qyswMGrhXcfkjNE"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/5zVhUz76UL3A1VXftq6g76"
-      },
-      "artists": [
-        {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
-        },
-        {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
-        }
-      ],
-      "duration_ms": 210174,
-      "name": "Proof",
-      "url": "https://open.spotify.com/track/5ASY9hrg61fOhdQ1isNbQm"
+      "duration_ms": 148832,
+      "name": "Serenidad En El Sonido",
+      "url": "https://open.spotify.com/track/0uPALqdEpx6No6gQLXClg8"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -451,6 +415,62 @@
       "duration_ms": 170640,
       "name": "Here I am",
       "url": "https://open.spotify.com/track/7qzpdzJRiIHXJpa28FYrD9"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Like A Stone (Reimagined)",
+        "url": "https://open.spotify.com/album/6xCsPSZ3THpZRrYPox5kK2"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 287631,
+      "name": "Like A Stone - Reimagined",
+      "url": "https://open.spotify.com/track/2EHZpEtgE48ztROdwkPgfQ"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Country Roads, Take Me Home (2024 Mix)",
+        "url": "https://open.spotify.com/album/1tOOCHUQSI6JJjmgW2nYD4"
+      },
+      "artists": [
+        {
+          "name": "Dzeko",
+          "url": "https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw"
+        },
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 138118,
+      "name": "Country Roads, Take Me Home - 2024 Mix",
+      "url": "https://open.spotify.com/track/0PCRNtWlXWMcf3HlDhDa3i"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "One Hand Clapping \u2013 The Backyard (One Hand Clapping Sessions)",
+        "url": "https://open.spotify.com/album/6YCmiTHYtzwNuW4DkgzcwI"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 154653,
+      "name": "Blackbird - One Hand Clapping Sessions",
+      "url": "https://open.spotify.com/track/3qfMHMt2UzbyPkePNKIYDh"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -499,26 +519,6 @@
       "duration_ms": 192963,
       "name": "Smile (feat. Carolina Liar)",
       "url": "https://open.spotify.com/track/73SGUxXPloaU5CfeKkJf5D"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Country Roads, Take Me Home (2024 Mix)",
-        "url": "https://open.spotify.com/album/1tOOCHUQSI6JJjmgW2nYD4"
-      },
-      "artists": [
-        {
-          "name": "Dzeko",
-          "url": "https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw"
-        },
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 138118,
-      "name": "Country Roads, Take Me Home - 2024 Mix",
-      "url": "https://open.spotify.com/track/0PCRNtWlXWMcf3HlDhDa3i"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Wilderness",
-        "url": "https://open.spotify.com/album/2s1J15Gm1NHPu7dXmv81uj"
-      },
-      "artists": [
-        {
-          "name": "Eyes Set To Kill",
-          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
-        }
-      ],
-      "duration_ms": 202758,
-      "name": "Wilderness",
-      "url": "https://open.spotify.com/track/3r2cEBiAQ0fiq4FM867d4y"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Best of: Living the Dream (Tarja's Non-Rock Specials)",
         "url": "https://open.spotify.com/album/7BNQjKP4HADfs1XinGEJqB"
       },
@@ -743,22 +727,34 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "I Like It (with Nate Smith)",
-        "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
+        "name": "Wilderness",
+        "url": "https://open.spotify.com/album/2s1J15Gm1NHPu7dXmv81uj"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+          "name": "Eyes Set To Kill",
+          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
         }
       ],
-      "duration_ms": 152349,
-      "name": "I Like It (with Nate Smith)",
-      "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
+      "duration_ms": 202758,
+      "name": "Wilderness",
+      "url": "https://open.spotify.com/track/3r2cEBiAQ0fiq4FM867d4y"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Fading Like A Rose - EP",
+        "url": "https://open.spotify.com/album/4cZWw7DhPFapr3GcoTCxVi"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 155409,
+      "name": "Fading Like A Rose (Everytime Remix)",
+      "url": "https://open.spotify.com/track/165eiC8yyWkBZo26oDtFLl"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -783,38 +779,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Can You Feel the Love Tonight (From \"A Whole New Sound\")",
-        "url": "https://open.spotify.com/album/3NuSK3YNeKeP1GdnYj8KY9"
+        "name": "Hear You Me",
+        "url": "https://open.spotify.com/album/1O9tT8ySLZhhmHfCpVNESK"
       },
       "artists": [
         {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
         }
       ],
-      "duration_ms": 173350,
-      "name": "Can You Feel the Love Tonight - From \"A Whole New Sound\"",
-      "url": "https://open.spotify.com/track/372ltCYz1uLID85yHqe7S9"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Fading Like A Rose - EP",
-        "url": "https://open.spotify.com/album/4cZWw7DhPFapr3GcoTCxVi"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 155409,
-      "name": "Fading Like A Rose (Everytime Remix)",
-      "url": "https://open.spotify.com/track/165eiC8yyWkBZo26oDtFLl"
+      "duration_ms": 272639,
+      "name": "Hear You Me",
+      "url": "https://open.spotify.com/track/2lyUYcQi8XW0O3iAYmZpwi"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -839,22 +815,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Hear You Me",
-        "url": "https://open.spotify.com/album/1O9tT8ySLZhhmHfCpVNESK"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        }
-      ],
-      "duration_ms": 272639,
-      "name": "Hear You Me",
-      "url": "https://open.spotify.com/track/2lyUYcQi8XW0O3iAYmZpwi"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Pretty Good To Feel Something",
         "url": "https://open.spotify.com/album/1cPLGYaAsxln3s6UgpboQw"
       },
@@ -867,6 +827,46 @@
       "duration_ms": 186679,
       "name": "Pretty Good To Feel Something",
       "url": "https://open.spotify.com/track/4JNMzNr6ukpwa6ALIMnkje"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "I Like It (with Nate Smith)",
+        "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 152349,
+      "name": "I Like It (with Nate Smith)",
+      "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Can You Feel the Love Tonight (From \"A Whole New Sound\")",
+        "url": "https://open.spotify.com/album/3NuSK3YNeKeP1GdnYj8KY9"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 173350,
+      "name": "Can You Feel the Love Tonight - From \"A Whole New Sound\"",
+      "url": "https://open.spotify.com/track/372ltCYz1uLID85yHqe7S9"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Tonight I\u2019m Alive",
-        "url": "https://open.spotify.com/album/2iGQvx1bqpDmLZD7mW25iz"
-      },
-      "artists": [
-        {
-          "name": "Visions of Atlantis",
-          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
-        }
-      ],
-      "duration_ms": 248066,
-      "name": "Tonight I'm Alive",
-      "url": "https://open.spotify.com/track/4j8NCEbj5SMGbpjqLi8iUV"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Acaecer",
         "url": "https://open.spotify.com/album/3PRvbNxj1nyt2n71V06qTo"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 224906,
       "name": "Acaecer",
       "url": "https://open.spotify.com/track/0TXJsbQDxbUlsjsk2FttAb"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Tonight I\u2019m Alive",
+        "url": "https://open.spotify.com/album/2iGQvx1bqpDmLZD7mW25iz"
+      },
+      "artists": [
+        {
+          "name": "Visions of Atlantis",
+          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
+        }
+      ],
+      "duration_ms": 248066,
+      "name": "Tonight I'm Alive",
+      "url": "https://open.spotify.com/track/4j8NCEbj5SMGbpjqLi8iUV"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Live At Rockpalast 1979 (Live, Hamburg, 1979)",
-        "url": "https://open.spotify.com/album/0t3ufEdHY8K6RRIYSLHCsc"
-      },
-      "artists": [
-        {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Keep Pushin' - Live, Hamburg, 1979",
-      "url": "https://open.spotify.com/track/0hOy1QMijkTp6lYEEAwfg2"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "\u9065\u304b\u5f7c\u65b9 (2024 ver.)",
         "url": "https://open.spotify.com/album/4dWjVtltGW5YsDIqegCcAM"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 242266,
       "name": "\u9065\u304b\u5f7c\u65b9 (2024 ver.)",
       "url": "https://open.spotify.com/track/5mZGmMnM99YI70hvqBlViY"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Live At Rockpalast 1979 (Live, Hamburg, 1979)",
+        "url": "https://open.spotify.com/album/0t3ufEdHY8K6RRIYSLHCsc"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Keep Pushin' - Live, Hamburg, 1979",
+      "url": "https://open.spotify.com/track/0hOy1QMijkTp6lYEEAwfg2"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "The 30th Anniversary of Weezer | Spotify Anniversaries LIVE",
-        "url": "https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 163330,
-      "name": "Buddy Holly - Spotify Anniversaries Version - Live",
-      "url": "https://open.spotify.com/track/5c5rLhAayijwytvgq5AfVF"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Linger (Iain Cook Remix)",
         "url": "https://open.spotify.com/album/1cu4TMoCmGTpuJ0cozozF0"
       },
@@ -1115,38 +1099,6 @@
       "duration_ms": 376094,
       "name": "Linger - Iain Cook Remix",
       "url": "https://open.spotify.com/track/5p77oRvGJ57vzlhjw8pqtq"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/2ZB3oyrG9aDyb6hFOOuYnd"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/73EIurQGydymTCrHuxYt3q"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Cosmic",
-        "url": "https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 225864,
-      "name": "Cosmic",
-      "url": "https://open.spotify.com/track/0kE4TRJ0pWoRKzKdtbx8To"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1267,22 +1219,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "(LIVE) - Born & Raised 2022, St Catharines ON",
-        "url": "https://open.spotify.com/album/2eBNgO9LxosJNLXMUtGaip"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 259763,
-      "name": "Accidents - Live",
-      "url": "https://open.spotify.com/track/0QwTG5slf3LCYi6xTUlHCT"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "My Favourite Game (feat. The Cardigans & P Money) [P Money Remix]",
         "url": "https://open.spotify.com/album/5PIEuV0qZOlHiXAgcF3ESy"
       },
@@ -1331,122 +1267,6 @@
       "duration_ms": 147230,
       "name": "Spicy Margarita (A7S Remix)",
       "url": "https://open.spotify.com/track/4iDztJeRKU05YvfufEZ1XG"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Not Nothing",
-        "url": "https://open.spotify.com/album/2T5iMDHBrMdV0N9e0qySzj"
-      },
-      "artists": [
-        {
-          "name": "Dark Tranquillity",
-          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
-        }
-      ],
-      "duration_ms": 292760,
-      "name": "Not Nothing",
-      "url": "https://open.spotify.com/track/4vmLFO56Gb5LeMK8surfau"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "lofi chill vibes with korn",
-        "url": "https://open.spotify.com/album/2an3rCrUgZsJu7ApHemCBC"
-      },
-      "artists": [
-        {
-          "name": "lonelyboy",
-          "url": "https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc"
-        },
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "freak on a leash - lofi",
-      "url": "https://open.spotify.com/track/68Y09eztj5gaGcY6jJBdpV"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Worlds Collide Tour (Live in Amsterdam)",
-        "url": "https://open.spotify.com/album/4FA76o2vhVqP8dpMlnnmPv"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 270100,
-      "name": "Faster - Live in Amsterdam",
-      "url": "https://open.spotify.com/track/09az9LNbYDb1aBXiKoNjjz"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "La Dieta del Murci\u00e9lago (Instrumentales)",
-        "url": "https://open.spotify.com/album/2ZGVSITaf9Jmne4WH1lhOC"
-      },
-      "artists": [
-        {
-          "name": "Matiah Chinaski",
-          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
-        },
-        {
-          "name": "Bufalo Dit",
-          "url": "https://open.spotify.com/artist/7eC2HRtBhiXNWTAVdflUtK"
-        },
-        {
-          "name": "Terrible",
-          "url": "https://open.spotify.com/artist/1b8mm6QmyRah9dIxduf1Z9"
-        },
-        {
-          "name": "Dj Perez",
-          "url": "https://open.spotify.com/artist/4pYx5PDavOZqKec3vIX9Xr"
-        }
-      ],
-      "duration_ms": 211010,
-      "name": "Globo",
-      "url": "https://open.spotify.com/track/527O1cZ8tn7jV6SylvY9z5"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "The Henry Mancini 100th Sessions: Henry Has Company",
-        "url": "https://open.spotify.com/album/6GkHGNDk3Zf7pIAsvN5J0v"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        },
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        },
-        {
-          "name": "Audrey Hepburn",
-          "url": "https://open.spotify.com/artist/16eV2TebyEhqaDRFEZJ9h8"
-        },
-        {
-          "name": "Los Angeles Philharmonic",
-          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
-        },
-        {
-          "name": "Los Angeles Master Chorale",
-          "url": "https://open.spotify.com/artist/66HwS8U1RybE701IOdJT1x"
-        }
-      ],
-      "duration_ms": 267314,
-      "name": "Moon River / Audrey\u2019s Letter",
-      "url": "https://open.spotify.com/track/6g7uwja1iFcOEPFHWEZN8I"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

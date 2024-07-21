@@ -1,6 +1,6 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 460296,
+  "num_followers": 460337,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Essa \u00c9 Pra Voc\u00eas",
-        "url": "https://open.spotify.com/album/03pJz5LVFVNSGNHBVREUL0"
-      },
-      "artists": [
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
-        }
-      ],
-      "duration_ms": 228080,
-      "name": "Oh! Chuva",
-      "url": "https://open.spotify.com/track/5RkPULKkPpFKkS5BnvK1t6"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "BRABA",
         "url": "https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 129782,
       "name": "BRABA",
       "url": "https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Essa \u00c9 Pra Voc\u00eas",
+        "url": "https://open.spotify.com/album/03pJz5LVFVNSGNHBVREUL0"
+      },
+      "artists": [
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        }
+      ],
+      "duration_ms": 228080,
+      "name": "Oh! Chuva",
+      "url": "https://open.spotify.com/track/5RkPULKkPpFKkS5BnvK1t6"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Latin Grooves - Samba",
-        "url": "https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Keti",
-          "url": "https://open.spotify.com/artist/2bmDvPwz8Fu9LQ8aMTFvMr"
-        }
-      ],
-      "duration_ms": 123760,
-      "name": "A Voz do Morro",
-      "url": "https://open.spotify.com/track/6ItZuqcTniqKVEwENXoDBP"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Ao Vivo No Parque Madureira (Deluxe)",
         "url": "https://open.spotify.com/album/3thGMOkqtJew544FUk6S7O"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 216866,
       "name": "O Show Tem Que Continuar - Ao Vivo",
       "url": "https://open.spotify.com/track/4IhgFq4UseWi8RNH7OCZmv"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Latin Grooves - Samba",
+        "url": "https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Keti",
+          "url": "https://open.spotify.com/artist/2bmDvPwz8Fu9LQ8aMTFvMr"
+        }
+      ],
+      "duration_ms": 123760,
+      "name": "A Voz do Morro",
+      "url": "https://open.spotify.com/track/6ItZuqcTniqKVEwENXoDBP"
     },
     {
       "added_at": "2021-11-26 03:18:52",

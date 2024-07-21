@@ -1,6 +1,6 @@
 {
   "description": "This is our playground! \ud83e\udea9\u200a Cover: Keinemusik",
-  "num_followers": 874958,
+  "num_followers": 875056,
   "original_name": "Electronic Circus",
   "owner": {
     "name": "Spotify",
@@ -759,26 +759,18 @@
     {
       "added_at": "2024-07-08 12:27:37",
       "album": {
-        "name": "Changing Colors",
-        "url": "https://open.spotify.com/album/2wW09qZMOQYec3CHMcnofR"
+        "name": "Zodiac",
+        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
       },
       "artists": [
         {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "Solique",
-          "url": "https://open.spotify.com/artist/0RIUSfIxj9TP0NcloqxKiR"
-        },
-        {
-          "name": "ALSO ASTIR",
-          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
         }
       ],
-      "duration_ms": 230526,
-      "name": "Changing Colors",
-      "url": "https://open.spotify.com/track/04UuPln30oxyJeoufFB1cg"
+      "duration_ms": 342857,
+      "name": "Zodiac",
+      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
     },
     {
       "added_at": "2024-07-08 12:27:37",
@@ -839,18 +831,26 @@
     {
       "added_at": "2024-07-08 12:27:37",
       "album": {
-        "name": "Zodiac",
-        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
+        "name": "Changing Colors",
+        "url": "https://open.spotify.com/album/2wW09qZMOQYec3CHMcnofR"
       },
       "artists": [
         {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Solique",
+          "url": "https://open.spotify.com/artist/0RIUSfIxj9TP0NcloqxKiR"
+        },
+        {
+          "name": "ALSO ASTIR",
+          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
         }
       ],
-      "duration_ms": 342857,
-      "name": "Zodiac",
-      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
+      "duration_ms": 230526,
+      "name": "Changing Colors",
+      "url": "https://open.spotify.com/track/04UuPln30oxyJeoufFB1cg"
     },
     {
       "added_at": "2024-07-08 12:27:37",
@@ -911,6 +911,26 @@
     {
       "added_at": "2024-07-08 12:27:37",
       "album": {
+        "name": "The Pledge",
+        "url": "https://open.spotify.com/album/1HKLAFY8fdSVaHGYF1cR7i"
+      },
+      "artists": [
+        {
+          "name": "MRAK",
+          "url": "https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY"
+        },
+        {
+          "name": "braev",
+          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
+        }
+      ],
+      "duration_ms": 215693,
+      "name": "The World Is Yours",
+      "url": "https://open.spotify.com/track/6K9pYyxTDqXWXxGJbzxGAM"
+    },
+    {
+      "added_at": "2024-07-08 12:27:37",
+      "album": {
         "name": "GENESIS",
         "url": "https://open.spotify.com/album/0ooUnGvQJmZap152eUHY0y"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 208804,
       "name": "GENESIS",
       "url": "https://open.spotify.com/track/2NZ8HlZmXQUvDonf24hw34"
-    },
-    {
-      "added_at": "2024-07-08 12:27:37",
-      "album": {
-        "name": "The Pledge",
-        "url": "https://open.spotify.com/album/1HKLAFY8fdSVaHGYF1cR7i"
-      },
-      "artists": [
-        {
-          "name": "MRAK",
-          "url": "https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY"
-        },
-        {
-          "name": "braev",
-          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
-        }
-      ],
-      "duration_ms": 215693,
-      "name": "The World Is Yours",
-      "url": "https://open.spotify.com/track/6K9pYyxTDqXWXxGJbzxGAM"
     },
     {
       "added_at": "2024-07-08 12:27:37",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-07-08 12:27:37",
       "album": {
+        "name": "Powers of Ten",
+        "url": "https://open.spotify.com/album/5zj0qH4lKPQOotmWkE3ECb"
+      },
+      "artists": [
+        {
+          "name": "Stephan Bodzin",
+          "url": "https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7"
+        }
+      ],
+      "duration_ms": 421306,
+      "name": "Singularity",
+      "url": "https://open.spotify.com/track/0yuJtvXsapVOQfNDYxQ5mw"
+    },
+    {
+      "added_at": "2024-07-08 12:27:37",
+      "album": {
         "name": "Beyond Us (Hatshepsut Version, Alex Wann Remix)",
         "url": "https://open.spotify.com/album/4BZMQm2r4EB5rbRL9i2nLp"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 219836,
       "name": "Beyond Us - Hatshepsut Version, Alex Wann Remix",
       "url": "https://open.spotify.com/track/72cQXgoxWZqqdstvqOZ34D"
-    },
-    {
-      "added_at": "2024-07-08 12:27:37",
-      "album": {
-        "name": "Powers of Ten",
-        "url": "https://open.spotify.com/album/5zj0qH4lKPQOotmWkE3ECb"
-      },
-      "artists": [
-        {
-          "name": "Stephan Bodzin",
-          "url": "https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7"
-        }
-      ],
-      "duration_ms": 421306,
-      "name": "Singularity",
-      "url": "https://open.spotify.com/track/0yuJtvXsapVOQfNDYxQ5mw"
     },
     {
       "added_at": "2024-07-08 12:27:37",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2024-07-08 12:27:37",
       "album": {
-        "name": "Independence",
-        "url": "https://open.spotify.com/album/3gTody5aBTLm3YzTfhz6Wv"
+        "name": "She Likes",
+        "url": "https://open.spotify.com/album/6IYcxLpMGHQnM5iZoo6zUF"
       },
       "artists": [
         {
-          "name": "Marino Canal",
-          "url": "https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8"
+          "name": "Dyzen",
+          "url": "https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl"
         }
       ],
-      "duration_ms": 369756,
-      "name": "Independence",
-      "url": "https://open.spotify.com/track/1nhtOnWnzXDnhfWZdqtu0m"
+      "duration_ms": 404000,
+      "name": "She Likes",
+      "url": "https://open.spotify.com/track/6mfHJzb7C3EO1c8K3Jd6aC"
     },
     {
       "added_at": "2024-07-08 12:27:37",
@@ -1415,38 +1415,18 @@
     {
       "added_at": "2024-07-08 12:27:37",
       "album": {
-        "name": "Delete Time",
-        "url": "https://open.spotify.com/album/3Rn97fqjZ6Nj5ECntOaDJB"
+        "name": "Independence",
+        "url": "https://open.spotify.com/album/3gTody5aBTLm3YzTfhz6Wv"
       },
       "artists": [
         {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        },
-        {
-          "name": "Space Motion",
-          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+          "name": "Marino Canal",
+          "url": "https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8"
         }
       ],
-      "duration_ms": 218709,
-      "name": "Delete Time",
-      "url": "https://open.spotify.com/track/0IEmWo1Opdmir15BejC5Yt"
-    },
-    {
-      "added_at": "2024-07-08 12:27:37",
-      "album": {
-        "name": "She Likes",
-        "url": "https://open.spotify.com/album/6IYcxLpMGHQnM5iZoo6zUF"
-      },
-      "artists": [
-        {
-          "name": "Dyzen",
-          "url": "https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl"
-        }
-      ],
-      "duration_ms": 404000,
-      "name": "She Likes",
-      "url": "https://open.spotify.com/track/6mfHJzb7C3EO1c8K3Jd6aC"
+      "duration_ms": 369756,
+      "name": "Independence",
+      "url": "https://open.spotify.com/track/1nhtOnWnzXDnhfWZdqtu0m"
     },
     {
       "added_at": "2024-07-08 12:27:37",
@@ -1467,6 +1447,26 @@
       "duration_ms": 334284,
       "name": "AMA",
       "url": "https://open.spotify.com/track/4aJo4L06xodly3Gam3MSoP"
+    },
+    {
+      "added_at": "2024-07-08 12:27:37",
+      "album": {
+        "name": "Delete Time",
+        "url": "https://open.spotify.com/album/3Rn97fqjZ6Nj5ECntOaDJB"
+      },
+      "artists": [
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        },
+        {
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+        }
+      ],
+      "duration_ms": 218709,
+      "name": "Delete Time",
+      "url": "https://open.spotify.com/track/0IEmWo1Opdmir15BejC5Yt"
     },
     {
       "added_at": "2024-07-08 12:27:37",

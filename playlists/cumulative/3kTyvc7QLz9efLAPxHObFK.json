@@ -2211,6 +2211,24 @@
     },
     {
       "album": {
+        "name": "BE THE 1",
+        "url": "https://open.spotify.com/album/58AGTpMpkdPuEBZcdWjSoh"
+      },
+      "artists": [
+        {
+          "name": "Audiofreq",
+          "url": "https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "BE THE 1",
+      "url": "https://open.spotify.com/track/0Ct22UdldN3gp9gy6teQwD"
+    },
+    {
+      "album": {
         "name": "BE THERE",
         "url": "https://open.spotify.com/album/3kMP45zMaoiidk8Gvqzcsd"
       },
@@ -4072,6 +4090,24 @@
       "duration_ms": 219000,
       "name": "Burning Love",
       "url": "https://open.spotify.com/track/4mhuBO0VjqcJ3OSgc6Mv33"
+    },
+    {
+      "album": {
+        "name": "BUSSIN",
+        "url": "https://open.spotify.com/album/1XCqwxumBYQoss3eTXz0Vr"
+      },
+      "artists": [
+        {
+          "name": "Strictly Business",
+          "url": "https://open.spotify.com/artist/7kC4umc8A1sRBGBnkeKVY1"
+        }
+      ],
+      "date_added": "2024-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150375,
+      "name": "BUSSIN",
+      "url": "https://open.spotify.com/track/5kbchQrlxzXWwncaOcgAjm"
     },
     {
       "album": {

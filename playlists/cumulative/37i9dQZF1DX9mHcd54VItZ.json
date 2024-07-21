@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Ewigheid (Remastered 2024)",
+        "url": "https://open.spotify.com/album/2U8RKMXqNsceEJCC1XGaTa"
+      },
+      "artists": [
+        {
+          "name": "Millennium",
+          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240489,
+      "name": "Alleen - Remastered 2024",
+      "url": "https://open.spotify.com/track/5US58PJyctlJoImyWqsyvZ"
+    },
+    {
+      "album": {
         "name": "Almal Baklei",
         "url": "https://open.spotify.com/album/6AAkDXooH5CSCH0fXOttzD"
       },
@@ -4212,7 +4230,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 247146,
       "name": "Katedraal",
       "url": "https://open.spotify.com/track/0mJcJqP8GWSLCV2TMbnlIY"

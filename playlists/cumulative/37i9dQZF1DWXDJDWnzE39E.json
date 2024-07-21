@@ -2220,7 +2220,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 192000,
       "name": "Ghost Myself",
       "url": "https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT"
@@ -3570,6 +3570,24 @@
       "duration_ms": 264219,
       "name": "Mr. Magic",
       "url": "https://open.spotify.com/track/0VwhP56nyBybH9WhLhMPrG"
+    },
+    {
+      "album": {
+        "name": "MUD",
+        "url": "https://open.spotify.com/album/2n5Xis2doysiKlNtSoY6ZV"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190858,
+      "name": "MUD",
+      "url": "https://open.spotify.com/track/3WNXHyqT7xlsxZEXbi9jYg"
     },
     {
       "album": {

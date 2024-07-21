@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,000 songs - 3 day 4 hr 11 min
+2,001 songs - 3 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [all again](https://open.spotify.com/track/59N3AFjJ6JrlILv9abN5SQ) | [mujikaa](https://open.spotify.com/artist/7ylJb6yLYp3fGiFa7eUXUu) | [lo\-fi bloom](https://open.spotify.com/album/2sZbTPl0U0XmSlmw9bxkiW) | 1:43 | 2022-04-15 | 2022-09-02 |
 | [All Around The CN Tower](https://open.spotify.com/track/7rXFzFgtZyuyKampDNL7U4) | [Florida Frank](https://open.spotify.com/artist/1XPs2qSUuafYCiqiCf6V3z) | [All Around The CN Tower](https://open.spotify.com/album/4HqXN08Pzcqe25IWsccwYH) | 2:22 | 2023-01-20 | 2024-06-10 |
 | [All downhill from here](https://open.spotify.com/track/2MFbMTRA9SYAZJvjv0mzbm) | [Art Vandeley](https://open.spotify.com/artist/6aHekjqSdW1DwredIrNAWE) | [All downhill from here](https://open.spotify.com/album/0P8byZc39T2R6c9o28xAHp) | 2:10 | 2023-12-22 |  |
-| [All For You](https://open.spotify.com/track/3MfEbk1mY9pbKQwYZ8X768) | [Boxi Docks](https://open.spotify.com/artist/3QYJVt9IC6TvA0n6xsRvNK) | [All For You](https://open.spotify.com/album/5Ekgbu3w34wmJiSrDNmUSy) | 1:45 | 2022-10-28 |  |
+| [All For You](https://open.spotify.com/track/3MfEbk1mY9pbKQwYZ8X768) | [Boxi Docks](https://open.spotify.com/artist/3QYJVt9IC6TvA0n6xsRvNK) | [All For You](https://open.spotify.com/album/5Ekgbu3w34wmJiSrDNmUSy) | 1:45 | 2022-10-28 | 2024-07-21 |
 | [all the stars in the sky](https://open.spotify.com/track/2QJ3SfZuMA5nOi6LrDFJbs) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [all the stars in the sky](https://open.spotify.com/album/4iFeZo1H2srsSgeV5DLOrb) | 2:27 | 2023-03-08 |  |
 | [all the things I can't control](https://open.spotify.com/track/7qQot1bz4npRHXSrPGbfVa) | [Aviscerall](https://open.spotify.com/artist/39eka3QcVZN0xYUX5nvtXM) | [all the things I can't control](https://open.spotify.com/album/424klxgKsiS3TbbZjTylsD) | 2:14 | 2022-04-15 | 2022-07-22 |
 | [allcity](https://open.spotify.com/track/1Db4Qa67eYC7MxnCqFvRQj) | [sonolon](https://open.spotify.com/artist/1y3NpCoVmVh5gLL0uGKv5t) | [graffiti tape](https://open.spotify.com/album/0KIocgWQakNy8op2OkUz2V) | 1:49 | 2022-04-15 | 2022-05-13 |
@@ -1130,6 +1130,7 @@
 | [Moonlight](https://open.spotify.com/track/6Mo6z3J7TR9fLvKodREcDz) | [Becky Bowder](https://open.spotify.com/artist/4H2ndjNhOqdmRcrWzvnNEo) | [Moonlight](https://open.spotify.com/album/6P3WeSOyJzj0P1pztC5aG4) | 2:18 | 2023-01-06 | 2024-05-14 |
 | [Moonlight Juice](https://open.spotify.com/track/6UzKVwHnMR2rHjCfOl4XoX) | [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718), [Shetafacker](https://open.spotify.com/artist/5WU1vju2aPiVy4O56cOhk6) | [Moonlight Juice](https://open.spotify.com/album/438r9WwiloWn5BVNR07tS5) | 2:27 | 2023-03-20 | 2024-02-09 |
 | [Moonlight Kite](https://open.spotify.com/track/0s1qfJj2RT5O5FKXYWpcKu) | [Bnjo](https://open.spotify.com/artist/2ypA9JtiknHFRxTq1X36ry) | [Low Gear](https://open.spotify.com/album/37c24i7QFE72G8Aj1g1hWK) | 2:37 | 2022-04-15 | 2022-09-02 |
+| [MoonRise](https://open.spotify.com/track/3m1XMpzK6J1ZiLYoLJ47zM) | [Lunar Lo\-Fi](https://open.spotify.com/artist/0LeGNGW4wUUlVfuNATYlLD), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [MoonRise](https://open.spotify.com/album/4gbEeGRlFLcJ2CRSPlqYHp) | 3:15 | 2024-07-19 |  |
 | [Moonshine](https://open.spotify.com/track/3lYQ3kdb5YVZ038kG3BMkf) | [Wax A Dizk](https://open.spotify.com/artist/0oFTGAftcAfchCbIObOGjh) | [Moonshine](https://open.spotify.com/album/4Z1tjtyP4DRsFiFOMSniLu) | 1:52 | 2022-10-28 | 2024-02-02 |
 | [More Than Useless](https://open.spotify.com/track/5XBdasgmMGjsbmf3rqKlZT) | [Lo Hank](https://open.spotify.com/artist/4UBUThKPPH6NtugsndL7Er) | [More Than Useless](https://open.spotify.com/album/3sOzbCKAe2GRT9gg1M4NHF) | 2:11 | 2023-01-20 | 2023-03-25 |
 | [morning coffee](https://open.spotify.com/track/22YaZEoX2OiG5yA2O3cHDv) | [bearé](https://open.spotify.com/artist/0y2pOX94bmFYgbD8pFWqfK) | [morning coffee](https://open.spotify.com/album/77rJWwqP3W0MxO8Nb8fxsl) | 2:28 | 2024-03-08 |  |

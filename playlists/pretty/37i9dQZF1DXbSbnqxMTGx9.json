@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 2988498,
+  "num_followers": 2989074,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Reggae Classics",
-        "url": "https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP"
-      },
-      "artists": [
-        {
-          "name": "El General",
-          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
-        }
-      ],
-      "duration_ms": 242826,
-      "name": "Te Ves Buena",
-      "url": "https://open.spotify.com/track/11hTfTUePHgMu4VpaNZ3Ir"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
         "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 194573,
       "name": "Stop That Train",
       "url": "https://open.spotify.com/track/4lrwg5ZBwcyRQ92seMGhIf"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Reggae Classics",
+        "url": "https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP"
+      },
+      "artists": [
+        {
+          "name": "El General",
+          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
+        }
+      ],
+      "duration_ms": 242826,
+      "name": "Te Ves Buena",
+      "url": "https://open.spotify.com/track/11hTfTUePHgMu4VpaNZ3Ir"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond",
-        "url": "https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU"
-      },
-      "artists": [
-        {
-          "name": "Don Drummond",
-          "url": "https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn"
-        }
-      ],
-      "duration_ms": 145933,
-      "name": "Don De Lion",
-      "url": "https://open.spotify.com/track/1Oeey02HNBNBirWvHstVS2"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
         "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 199120,
       "name": "Ba Ba Boom",
       "url": "https://open.spotify.com/track/7GUdxwA5wqhkJI5QaFynFn"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond",
+        "url": "https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU"
+      },
+      "artists": [
+        {
+          "name": "Don Drummond",
+          "url": "https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn"
+        }
+      ],
+      "duration_ms": 145933,
+      "name": "Don De Lion",
+      "url": "https://open.spotify.com/track/1Oeey02HNBNBirWvHstVS2"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1104,13 +1104,13 @@
       },
       "artists": [
         {
-          "name": "Stranger & Gladdy",
-          "url": "https://open.spotify.com/artist/5Dh9VDwHjpxkdR5rTR6Jnp"
+          "name": "Desmond Dekker & The Aces",
+          "url": "https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt"
         }
       ],
-      "duration_ms": 157253,
-      "name": "Just Like A River",
-      "url": "https://open.spotify.com/track/04BTjbEcGVsfzRRPYHr7Y8"
+      "duration_ms": 163440,
+      "name": "Intensified",
+      "url": "https://open.spotify.com/track/34mK7IhVyT10qBzRv5IYSY"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1120,13 +1120,13 @@
       },
       "artists": [
         {
-          "name": "Desmond Dekker & The Aces",
-          "url": "https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt"
+          "name": "Stranger & Gladdy",
+          "url": "https://open.spotify.com/artist/5Dh9VDwHjpxkdR5rTR6Jnp"
         }
       ],
-      "duration_ms": 163440,
-      "name": "Intensified",
-      "url": "https://open.spotify.com/track/34mK7IhVyT10qBzRv5IYSY"
+      "duration_ms": 157253,
+      "name": "Just Like A River",
+      "url": "https://open.spotify.com/track/04BTjbEcGVsfzRRPYHr7Y8"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1236,13 +1236,13 @@
       },
       "artists": [
         {
-          "name": "Clancy Eccles",
-          "url": "https://open.spotify.com/artist/0YVtA75CDCz5FYqis7Kf8v"
+          "name": "The Three Tops",
+          "url": "https://open.spotify.com/artist/79kei1hSypfSpVCg1tutz8"
         }
       ],
-      "duration_ms": 201200,
-      "name": "What Will Your Mama Say",
-      "url": "https://open.spotify.com/track/5UD98Sz4F4Jl2mtUsRPnxS"
+      "duration_ms": 148480,
+      "name": "Do It Right",
+      "url": "https://open.spotify.com/track/2JROlfSYAfoMYYOPfgOPbS"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1252,13 +1252,13 @@
       },
       "artists": [
         {
-          "name": "The Three Tops",
-          "url": "https://open.spotify.com/artist/79kei1hSypfSpVCg1tutz8"
+          "name": "Clancy Eccles",
+          "url": "https://open.spotify.com/artist/0YVtA75CDCz5FYqis7Kf8v"
         }
       ],
-      "duration_ms": 148480,
-      "name": "Do It Right",
-      "url": "https://open.spotify.com/track/2JROlfSYAfoMYYOPfgOPbS"
+      "duration_ms": 201200,
+      "name": "What Will Your Mama Say",
+      "url": "https://open.spotify.com/track/5UD98Sz4F4Jl2mtUsRPnxS"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Monkey Man",
-        "url": "https://open.spotify.com/album/7bttXg6FHq7nVRWbFnkiIP"
-      },
-      "artists": [
-        {
-          "name": "The Maytals",
-          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
-        }
-      ],
-      "duration_ms": 192386,
-      "name": "Sun Moon and Star",
-      "url": "https://open.spotify.com/track/2FzdFjiwYvKsRLDmrgKUE0"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Ska & Reggae Classics",
         "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 189760,
       "name": "Kingston Town",
       "url": "https://open.spotify.com/track/6UP58GoB80kzAX6eowFj3M"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Monkey Man",
+        "url": "https://open.spotify.com/album/7bttXg6FHq7nVRWbFnkiIP"
+      },
+      "artists": [
+        {
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+        }
+      ],
+      "duration_ms": 192386,
+      "name": "Sun Moon and Star",
+      "url": "https://open.spotify.com/track/2FzdFjiwYvKsRLDmrgKUE0"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "1000 Volts of Holt (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1bRaF6zDhFQuPqBxozEqcs"
+      },
+      "artists": [
+        {
+          "name": "John Holt",
+          "url": "https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu"
+        }
+      ],
+      "duration_ms": 318106,
+      "name": "Mr. Bojangles",
+      "url": "https://open.spotify.com/track/7ouKT7R4BgwvAtoyzR8gCc"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "Be True to Yourself: The Godfather of Lover's Rock (Anthology 1965-1973)",
         "url": "https://open.spotify.com/album/2MocD24NCoqCSmf1EaaaQ0"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 190760,
       "name": "54-46 Was My Number",
       "url": "https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "1000 Volts of Holt (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1bRaF6zDhFQuPqBxozEqcs"
-      },
-      "artists": [
-        {
-          "name": "John Holt",
-          "url": "https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu"
-        }
-      ],
-      "duration_ms": 318106,
-      "name": "Mr. Bojangles",
-      "url": "https://open.spotify.com/track/7ouKT7R4BgwvAtoyzR8gCc"
     }
   ],
   "unique_name": "Reggae Classics",

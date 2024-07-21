@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Dominik Hartz
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,758 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,769 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fallen](https://open.spotify.com/track/7x8yoh4fgdDqGWM75W4CMZ) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Fallen](https://open.spotify.com/album/0LxGPGeOv4WEM4m3js7Muq) | 2:25 |
-| 2 | [rauch](https://open.spotify.com/track/3DxLnjueYU6PC7EhgWVNNl) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [rauch](https://open.spotify.com/album/3f1DyygD4bDZn6nshNhuLU) | 2:01 |
+| 2 | [rauch](https://open.spotify.com/track/3DxLnjueYU6PC7EhgWVNNl) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [rauch](https://open.spotify.com/album/3f1DyygD4bDZn6nshNhuLU) | 1:59 |
 | 3 | [gästeliste](https://open.spotify.com/track/1GRNmHpcVobOQpU4sTotMm) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [gästeliste](https://open.spotify.com/album/6DagEYiLogzejjAebrffI8) | 2:41 |
 | 4 | [Lichtblick](https://open.spotify.com/track/3bclSz6FTJriC5YVWoAzo7) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3), [falcke](https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf) | [Lichtblick](https://open.spotify.com/album/0xCORZARvmRRlbRbHCJeii) | 3:11 |
 | 5 | [Randali](https://open.spotify.com/track/7x76MsHLcWQ4rLlHVkT7yw) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Randali](https://open.spotify.com/album/1NSEKARvPRzT2tSG1DZrmi) | 2:23 |

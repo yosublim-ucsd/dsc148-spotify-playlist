@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "This is Fall Out Boy. The essential tracks, all in one playlist.",
+  "description": "This Is Fall Out Boy. Los temas esenciales, todos en una lista.",
   "name": "This Is Fall Out Boy",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 203413,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/5MsZIaCYY6Tsdph0LiB0hE"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 214133,
       "name": "America's Suitehearts",
       "url": "https://open.spotify.com/track/3Dg1BK3rHo6mCvzSO2b9Ct"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 228360,
       "name": "Centuries",
       "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"
@@ -458,6 +458,24 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
+      "date_added": "2024-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203413,
+      "name": "Favorite Record",
+      "url": "https://open.spotify.com/track/4vC4nKK6bk9pYEVOU4EIbA"
+    },
+    {
+      "album": {
+        "name": "American Beauty/American Psycho",
+        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -514,7 +532,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 217537,
       "name": "Heartbreak Feels So Good",
       "url": "https://open.spotify.com/track/2DIo5VoBB6X1GzgpGbmMIF"
@@ -532,7 +550,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 236754,
       "name": "Heaven, Iowa",
       "url": "https://open.spotify.com/track/3GKg5UKHIi1Tj2Noz5N0F5"
@@ -550,7 +568,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 215601,
       "name": "Hold Me Like a Grudge",
       "url": "https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR"
@@ -788,7 +806,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 279737,
       "name": "Love From The Other Side",
       "url": "https://open.spotify.com/track/2W0ML0bVXNew4Jmc40Rpzj"
@@ -806,7 +824,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 211026,
       "name": "Miss Missing You",
       "url": "https://open.spotify.com/track/05Z77MHLPcBA2Wd5eDSJzl"
@@ -950,7 +968,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 216699,
       "name": "Saturday",
       "url": "https://open.spotify.com/track/423FiDerFgzeEcqKEOmZ81"
@@ -1192,7 +1210,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 244960,
       "name": "The Phoenix",
       "url": "https://open.spotify.com/track/7jwDuO7UZvWs77KNj9HbvF"
@@ -1354,7 +1372,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 204506,
       "name": "Young Volcanoes",
       "url": "https://open.spotify.com/track/4yXNMbZrsFJbPTH0WfhwEB"

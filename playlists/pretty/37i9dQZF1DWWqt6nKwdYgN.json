@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Loyaltty en portada. ",
-  "num_followers": 14526,
+  "num_followers": 14528,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -235,26 +235,22 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "El \u00daltimo Tango",
-        "url": "https://open.spotify.com/album/7uvZ0u4gg8xAm8b9lps07W"
+        "name": "Ondeado V2",
+        "url": "https://open.spotify.com/album/3QP7QduLUEP3xkQQNZpkYl"
       },
       "artists": [
         {
-          "name": "SANTU",
-          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+          "name": "El Makabelico",
+          "url": "https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO"
         },
         {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "El Chojin",
-          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
+          "name": "Sucesi\u00f3n M",
+          "url": "https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6"
         }
       ],
-      "duration_ms": 250382,
-      "name": "El \u00daltimo Tango",
-      "url": "https://open.spotify.com/track/6pUeqmlV162GbTx76DbodN"
+      "duration_ms": 355869,
+      "name": "Ondeado V2",
+      "url": "https://open.spotify.com/track/5X5thivWst7CHdwIO3l2qw"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -279,6 +275,30 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
+        "name": "El \u00daltimo Tango",
+        "url": "https://open.spotify.com/album/7uvZ0u4gg8xAm8b9lps07W"
+      },
+      "artists": [
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
+        }
+      ],
+      "duration_ms": 250382,
+      "name": "El \u00daltimo Tango",
+      "url": "https://open.spotify.com/track/6pUeqmlV162GbTx76DbodN"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
         "name": "HOMENAJE",
         "url": "https://open.spotify.com/album/0ztt17XG00kFS3YcCauWts"
       },
@@ -299,26 +319,6 @@
       "duration_ms": 215869,
       "name": "HOMENAJE",
       "url": "https://open.spotify.com/track/02qsYZznhFSX0psInKC7st"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "Ondeado V2",
-        "url": "https://open.spotify.com/album/3QP7QduLUEP3xkQQNZpkYl"
-      },
-      "artists": [
-        {
-          "name": "El Makabelico",
-          "url": "https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO"
-        },
-        {
-          "name": "Sucesi\u00f3n M",
-          "url": "https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6"
-        }
-      ],
-      "duration_ms": 355869,
-      "name": "Ondeado V2",
-      "url": "https://open.spotify.com/track/5X5thivWst7CHdwIO3l2qw"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
+        "name": "Amor de \u00d1eros",
+        "url": "https://open.spotify.com/album/1yLQGi8faWEaBa5uKMVSvU"
+      },
+      "artists": [
+        {
+          "name": "Solitario Soldado",
+          "url": "https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG"
+        }
+      ],
+      "duration_ms": 131725,
+      "name": "Amor de \u00d1eros",
+      "url": "https://open.spotify.com/track/6l2meq89gz3CPj3fRWlLv6"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
         "name": "MELANCOL\u00cdA",
         "url": "https://open.spotify.com/album/5H9fjS95ycyEPZOHT2hgM8"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 222994,
       "name": "MELANCOL\u00cdA",
       "url": "https://open.spotify.com/track/41N9Co3jknF8m5BH0cNdqb"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "Amor de \u00d1eros",
-        "url": "https://open.spotify.com/album/1yLQGi8faWEaBa5uKMVSvU"
-      },
-      "artists": [
-        {
-          "name": "Solitario Soldado",
-          "url": "https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG"
-        }
-      ],
-      "duration_ms": 131725,
-      "name": "Amor de \u00d1eros",
-      "url": "https://open.spotify.com/track/6l2meq89gz3CPj3fRWlLv6"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -563,6 +563,26 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
+        "name": "MISMAS BITCHES",
+        "url": "https://open.spotify.com/album/3TaFegKf8CdoHToIzfo9me"
+      },
+      "artists": [
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        },
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "duration_ms": 143927,
+      "name": "MISMAS BITCHES",
+      "url": "https://open.spotify.com/track/1VYHBSsWYOsxJFsbOUUkX3"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
         "name": "Rosas y Serpientes",
         "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 270769,
       "name": "Rosas y Serpientes",
       "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "MISMAS BITCHES",
-        "url": "https://open.spotify.com/album/3TaFegKf8CdoHToIzfo9me"
-      },
-      "artists": [
-        {
-          "name": "Aqua VS",
-          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
-        },
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        }
-      ],
-      "duration_ms": 143927,
-      "name": "MISMAS BITCHES",
-      "url": "https://open.spotify.com/track/1VYHBSsWYOsxJFsbOUUkX3"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
+        "name": "El Sol",
+        "url": "https://open.spotify.com/album/1wpkzV51fjsIlKpTPfx5pl"
+      },
+      "artists": [
+        {
+          "name": "LosPetitFellas",
+          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
+        }
+      ],
+      "duration_ms": 224521,
+      "name": "El Sol",
+      "url": "https://open.spotify.com/track/2qaRS0nH4KHINXl2nMNQFZ"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
         "name": "Ni Con Money",
         "url": "https://open.spotify.com/album/4VTP9EUl9ssmAHgxCJuAxA"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 246666,
       "name": "Ni Con Money",
       "url": "https://open.spotify.com/track/4YOtMbDO0RlkGdqGKTM76E"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "El Sol",
-        "url": "https://open.spotify.com/album/1wpkzV51fjsIlKpTPfx5pl"
-      },
-      "artists": [
-        {
-          "name": "LosPetitFellas",
-          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
-        }
-      ],
-      "duration_ms": 224521,
-      "name": "El Sol",
-      "url": "https://open.spotify.com/track/2qaRS0nH4KHINXl2nMNQFZ"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -887,50 +887,6 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "Parlante",
-        "url": "https://open.spotify.com/album/3alCeWkJMPizFI5bO70mw3"
-      },
-      "artists": [
-        {
-          "name": "Al2 El Aldeano",
-          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
-        },
-        {
-          "name": "Valles T",
-          "url": "https://open.spotify.com/artist/2h5NjKTy7y3blBMgsNusrt"
-        },
-        {
-          "name": "Raymond Daniel",
-          "url": "https://open.spotify.com/artist/033jXqXsPX6VM4DNx6F0tB"
-        }
-      ],
-      "duration_ms": 261311,
-      "name": "Parlante",
-      "url": "https://open.spotify.com/track/0NLbyORu1l5SNT0ZNDOU6L"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "EL POINT",
-        "url": "https://open.spotify.com/album/7gcS8OYnRu1Wanx11hsu6t"
-      },
-      "artists": [
-        {
-          "name": "Deyco",
-          "url": "https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp"
-        },
-        {
-          "name": "B Noize",
-          "url": "https://open.spotify.com/artist/7yNB8pdsclWM7BwvP7Fbmf"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "EL POINT",
-      "url": "https://open.spotify.com/track/1wpTe5DR763yUG00YExCUS"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
         "name": "Cypher MND #18: Neo Pistea, Obie Wanshot & CNO",
         "url": "https://open.spotify.com/album/1eF1nsMyY0LfwNOqeTrnVt"
       },
@@ -959,6 +915,26 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
+        "name": "EL POINT",
+        "url": "https://open.spotify.com/album/7gcS8OYnRu1Wanx11hsu6t"
+      },
+      "artists": [
+        {
+          "name": "Deyco",
+          "url": "https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp"
+        },
+        {
+          "name": "B Noize",
+          "url": "https://open.spotify.com/artist/7yNB8pdsclWM7BwvP7Fbmf"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "EL POINT",
+      "url": "https://open.spotify.com/track/1wpTe5DR763yUG00YExCUS"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
         "name": "Voy tranquilo",
         "url": "https://open.spotify.com/album/2sODnDNsxbIF8snIvBiR8b"
       },
@@ -971,6 +947,46 @@
       "duration_ms": 142921,
       "name": "Voy tranquilo",
       "url": "https://open.spotify.com/track/1YBLxv6oT9SGuxwwmE6w88"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "PAC-MAN",
+        "url": "https://open.spotify.com/album/48EaiFxq0j5dywhlAQNYd3"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        }
+      ],
+      "duration_ms": 209759,
+      "name": "PAC-MAN",
+      "url": "https://open.spotify.com/track/10mihya6eHDgKZwbTowXiQ"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "Parlante",
+        "url": "https://open.spotify.com/album/3alCeWkJMPizFI5bO70mw3"
+      },
+      "artists": [
+        {
+          "name": "Al2 El Aldeano",
+          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
+        },
+        {
+          "name": "Valles T",
+          "url": "https://open.spotify.com/artist/2h5NjKTy7y3blBMgsNusrt"
+        },
+        {
+          "name": "Raymond Daniel",
+          "url": "https://open.spotify.com/artist/033jXqXsPX6VM4DNx6F0tB"
+        }
+      ],
+      "duration_ms": 261311,
+      "name": "Parlante",
+      "url": "https://open.spotify.com/track/0NLbyORu1l5SNT0ZNDOU6L"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -991,22 +1007,6 @@
       "duration_ms": 296460,
       "name": "Eva, Ad\u00e1n y las Manzanas",
       "url": "https://open.spotify.com/track/4S7HqetuvEZ8P66rakdmf6"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "PAC-MAN",
-        "url": "https://open.spotify.com/album/48EaiFxq0j5dywhlAQNYd3"
-      },
-      "artists": [
-        {
-          "name": "Zeballos",
-          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
-        }
-      ],
-      "duration_ms": 209759,
-      "name": "PAC-MAN",
-      "url": "https://open.spotify.com/track/10mihya6eHDgKZwbTowXiQ"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "KEEP IT STUPID",
-        "url": "https://open.spotify.com/album/7qbZ5AczohhC6vaOmTa044"
-      },
-      "artists": [
-        {
-          "name": "FEMI",
-          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
-        }
-      ],
-      "duration_ms": 147158,
-      "name": "KEEP IT STUPID",
-      "url": "https://open.spotify.com/track/5FsUKOjDDeQ0vEc5dn77AY"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
         "name": "Trinidad",
         "url": "https://open.spotify.com/album/1Cci7b8OkTzn8zSYsRq9Gh"
       },
@@ -1299,6 +1283,22 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
+        "name": "KEEP IT STUPID",
+        "url": "https://open.spotify.com/album/7qbZ5AczohhC6vaOmTa044"
+      },
+      "artists": [
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        }
+      ],
+      "duration_ms": 147158,
+      "name": "KEEP IT STUPID",
+      "url": "https://open.spotify.com/track/5FsUKOjDDeQ0vEc5dn77AY"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
         "name": "NEZA",
         "url": "https://open.spotify.com/album/6QryhfUs8EDXS3nw2SPnME"
       },
@@ -1315,22 +1315,6 @@
       "duration_ms": 167746,
       "name": "NEZA",
       "url": "https://open.spotify.com/track/22CAGoeCFwdDQQQkeSUtDO"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "MC Davo En Vivo: Parte 1",
-        "url": "https://open.spotify.com/album/22nziBYtQx99cuPNviBuB0"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 194383,
-      "name": "Adi\u00f3s - En Vivo",
-      "url": "https://open.spotify.com/track/7a4T12ZnRyt2kxA3NHgLwj"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1367,6 +1351,22 @@
       "duration_ms": 198095,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/02SouKKkQikm8xEOCT4e3U"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "MC Davo En Vivo: Parte 1",
+        "url": "https://open.spotify.com/album/22nziBYtQx99cuPNviBuB0"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 194383,
+      "name": "Adi\u00f3s - En Vivo",
+      "url": "https://open.spotify.com/track/7a4T12ZnRyt2kxA3NHgLwj"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
+        "name": "De La Mata",
+        "url": "https://open.spotify.com/album/1bNUKMiUZNA0r4JUVcRjz0"
+      },
+      "artists": [
+        {
+          "name": "Crudo Means Raw",
+          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "De La Mata",
+      "url": "https://open.spotify.com/track/2iF8BmUy05E9iHRgRuCak9"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
         "name": "Sideral",
         "url": "https://open.spotify.com/album/3xcboZ4sXClPniEFbaEW9M"
       },
@@ -1543,34 +1559,18 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "Ol\u00e9",
-        "url": "https://open.spotify.com/album/4burORupgjRcxfrI56pZiS"
+        "name": "\u00c1rtico",
+        "url": "https://open.spotify.com/album/1hnmPNhozqh1HUAlGwqgqz"
       },
       "artists": [
         {
-          "name": "Stilo",
-          "url": "https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9"
+          "name": "Dante",
+          "url": "https://open.spotify.com/artist/2hDnlqxEGmcq74MAfO9iEX"
         }
       ],
-      "duration_ms": 163910,
-      "name": "Ol\u00e9",
-      "url": "https://open.spotify.com/track/6AAGQWXAB7MQhbZBsvfJEh"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "De La Mata",
-        "url": "https://open.spotify.com/album/1bNUKMiUZNA0r4JUVcRjz0"
-      },
-      "artists": [
-        {
-          "name": "Crudo Means Raw",
-          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "De La Mata",
-      "url": "https://open.spotify.com/track/2iF8BmUy05E9iHRgRuCak9"
+      "duration_ms": 202162,
+      "name": "Cuando te miro",
+      "url": "https://open.spotify.com/track/4uzd952ca0XsLnYb5r5jMy"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1591,18 +1591,70 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "\u00c1rtico",
-        "url": "https://open.spotify.com/album/1hnmPNhozqh1HUAlGwqgqz"
+        "name": "Ol\u00e9",
+        "url": "https://open.spotify.com/album/4burORupgjRcxfrI56pZiS"
       },
       "artists": [
         {
-          "name": "Dante",
-          "url": "https://open.spotify.com/artist/2hDnlqxEGmcq74MAfO9iEX"
+          "name": "Stilo",
+          "url": "https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9"
         }
       ],
-      "duration_ms": 202162,
-      "name": "Cuando te miro",
-      "url": "https://open.spotify.com/track/4uzd952ca0XsLnYb5r5jMy"
+      "duration_ms": 163910,
+      "name": "Ol\u00e9",
+      "url": "https://open.spotify.com/track/6AAGQWXAB7MQhbZBsvfJEh"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "Disparo",
+        "url": "https://open.spotify.com/album/2oZiqCM9HqOVYLEKHTdEqg"
+      },
+      "artists": [
+        {
+          "name": "Flowker Slick",
+          "url": "https://open.spotify.com/artist/08Jl77YAzZDOfkM3OY4OrN"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Eslok Diaz",
+          "url": "https://open.spotify.com/artist/4aw8yIxecib0iVGD4WHb7a"
+        }
+      ],
+      "duration_ms": 222053,
+      "name": "Disparo",
+      "url": "https://open.spotify.com/track/48WIOq6Rji75sRruneWI7X"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "Cuervos",
+        "url": "https://open.spotify.com/album/0XSlJq1I6jb5EpZt7WZJS2"
+      },
+      "artists": [
+        {
+          "name": "Primobeatz",
+          "url": "https://open.spotify.com/artist/72LTyD9Rh8nqOCvb3uyLxG"
+        },
+        {
+          "name": "Murder",
+          "url": "https://open.spotify.com/artist/5tdug7wnpNPEAOesKa1Aw1"
+        },
+        {
+          "name": "Noizy Black",
+          "url": "https://open.spotify.com/artist/10RLEwuNazdSJUr3QrLeLN"
+        },
+        {
+          "name": "Russhade",
+          "url": "https://open.spotify.com/artist/1AS7icKiA8yptArBjbm05f"
+        }
+      ],
+      "duration_ms": 234482,
+      "name": "Cuervos",
+      "url": "https://open.spotify.com/track/5AobkOUXrsRz0oQpMpkLDO"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1651,30 +1703,6 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "Disparo",
-        "url": "https://open.spotify.com/album/2oZiqCM9HqOVYLEKHTdEqg"
-      },
-      "artists": [
-        {
-          "name": "Flowker Slick",
-          "url": "https://open.spotify.com/artist/08Jl77YAzZDOfkM3OY4OrN"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "Eslok Diaz",
-          "url": "https://open.spotify.com/artist/4aw8yIxecib0iVGD4WHb7a"
-        }
-      ],
-      "duration_ms": 222053,
-      "name": "Disparo",
-      "url": "https://open.spotify.com/track/48WIOq6Rji75sRruneWI7X"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
         "name": "Tiempo y Espacio",
         "url": "https://open.spotify.com/album/26wbg3gjneYtT9Efmichn7"
       },
@@ -1691,34 +1719,6 @@
       "duration_ms": 177756,
       "name": "Tiempo y Espacio",
       "url": "https://open.spotify.com/track/0nKGAf7pfSNmgI0d7gtNI1"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "Cuervos",
-        "url": "https://open.spotify.com/album/0XSlJq1I6jb5EpZt7WZJS2"
-      },
-      "artists": [
-        {
-          "name": "Primobeatz",
-          "url": "https://open.spotify.com/artist/72LTyD9Rh8nqOCvb3uyLxG"
-        },
-        {
-          "name": "Murder",
-          "url": "https://open.spotify.com/artist/5tdug7wnpNPEAOesKa1Aw1"
-        },
-        {
-          "name": "Noizy Black",
-          "url": "https://open.spotify.com/artist/10RLEwuNazdSJUr3QrLeLN"
-        },
-        {
-          "name": "Russhade",
-          "url": "https://open.spotify.com/artist/1AS7icKiA8yptArBjbm05f"
-        }
-      ],
-      "duration_ms": 234482,
-      "name": "Cuervos",
-      "url": "https://open.spotify.com/track/5AobkOUXrsRz0oQpMpkLDO"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1775,6 +1775,26 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
+        "name": "LA VIDA ES TAN DURA",
+        "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
+      },
+      "artists": [
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Cheo Gallego",
+          "url": "https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "LA VIDA ES TAN DURA",
+      "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
         "name": "La pr\u00e1ctica",
         "url": "https://open.spotify.com/album/6jTRyRI7EFAOHlQJNWdIeS"
       },
@@ -1799,42 +1819,6 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "LA VIDA ES TAN DURA",
-        "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
-      },
-      "artists": [
-        {
-          "name": "Flor De Rap",
-          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
-        },
-        {
-          "name": "Cheo Gallego",
-          "url": "https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "LA VIDA ES TAN DURA",
-      "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "Qu\u00e9mele",
-        "url": "https://open.spotify.com/album/6kIMIdFssq2DDjCAgK38sY"
-      },
-      "artists": [
-        {
-          "name": "Crudo Means Raw",
-          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
-        }
-      ],
-      "duration_ms": 122553,
-      "name": "Qu\u00e9mele",
-      "url": "https://open.spotify.com/track/0aPwGpjIaaZsPiUglNVAuN"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
         "name": "PERO NAH!",
         "url": "https://open.spotify.com/album/6cTAjRwKXVfrHvFGFGHlHk"
       },
@@ -1855,54 +1839,18 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/4gajuf08d8JcGjWuroGCTb"
+        "name": "Qu\u00e9mele",
+        "url": "https://open.spotify.com/album/6kIMIdFssq2DDjCAgK38sY"
       },
       "artists": [
         {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+          "name": "Crudo Means Raw",
+          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
         }
       ],
-      "duration_ms": 283909,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/3gwBWDL8qR3Vz4rUbj7RAK"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "Linda como siempre",
-        "url": "https://open.spotify.com/album/6ZW8e7vagrNeqwiFcli0CX"
-      },
-      "artists": [
-        {
-          "name": "XXL Irione",
-          "url": "https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY"
-        },
-        {
-          "name": "Picky Lejano Oeste",
-          "url": "https://open.spotify.com/artist/4YqH71D6jgcThVcJepW7sC"
-        }
-      ],
-      "duration_ms": 191977,
-      "name": "Linda como siempre",
-      "url": "https://open.spotify.com/track/2LhSnFBianHUfisgAgUMh7"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "3 RAP",
-        "url": "https://open.spotify.com/album/7aEo9W4GQzMs5xNXVDBnFD"
-      },
-      "artists": [
-        {
-          "name": "Rokero",
-          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
-        }
-      ],
-      "duration_ms": 255339,
-      "name": "3 RAP",
-      "url": "https://open.spotify.com/track/1MdgjClX0dCx2qCEuo05pF"
+      "duration_ms": 122553,
+      "name": "Qu\u00e9mele",
+      "url": "https://open.spotify.com/track/0aPwGpjIaaZsPiUglNVAuN"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1931,6 +1879,58 @@
       "duration_ms": 229395,
       "name": "Ya Te Solt\u00e9",
       "url": "https://open.spotify.com/track/40cHXCflLI04RYm5WFbvLR"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/4gajuf08d8JcGjWuroGCTb"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "duration_ms": 283909,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/3gwBWDL8qR3Vz4rUbj7RAK"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "3 RAP",
+        "url": "https://open.spotify.com/album/7aEo9W4GQzMs5xNXVDBnFD"
+      },
+      "artists": [
+        {
+          "name": "Rokero",
+          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
+        }
+      ],
+      "duration_ms": 255339,
+      "name": "3 RAP",
+      "url": "https://open.spotify.com/track/1MdgjClX0dCx2qCEuo05pF"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "Linda como siempre",
+        "url": "https://open.spotify.com/album/6ZW8e7vagrNeqwiFcli0CX"
+      },
+      "artists": [
+        {
+          "name": "XXL Irione",
+          "url": "https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY"
+        },
+        {
+          "name": "Picky Lejano Oeste",
+          "url": "https://open.spotify.com/artist/4YqH71D6jgcThVcJepW7sC"
+        }
+      ],
+      "duration_ms": 191977,
+      "name": "Linda como siempre",
+      "url": "https://open.spotify.com/track/2LhSnFBianHUfisgAgUMh7"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -2011,30 +2011,26 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "Sicariato & Robo",
-        "url": "https://open.spotify.com/album/4Pzxur3KYtbr5iXVmp9B3L"
+        "name": "No Pidas Tanto",
+        "url": "https://open.spotify.com/album/6gEcoYe8NQdcVZSQy23cSc"
       },
       "artists": [
         {
-          "name": "Pla La Sustancia",
-          "url": "https://open.spotify.com/artist/6wTPPL1LzCVykuqxwnfHB7"
+          "name": "El Muisca",
+          "url": "https://open.spotify.com/artist/4x8wZfPrrPnfariwleEnr5"
         },
         {
-          "name": "El Jincho",
-          "url": "https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw"
+          "name": "Pedro Navajas",
+          "url": "https://open.spotify.com/artist/1K71G4Q54XLGcY5WKPc5Ux"
         },
         {
-          "name": "Tiro Loko",
-          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
-        },
-        {
-          "name": "El Rapper RD",
-          "url": "https://open.spotify.com/artist/0jhqcayvFFUrYyqHlgZidV"
+          "name": "Arion",
+          "url": "https://open.spotify.com/artist/1KNW0yA92QHGP5wyLXvT2c"
         }
       ],
-      "duration_ms": 250105,
-      "name": "Sicariato & Robo",
-      "url": "https://open.spotify.com/track/3OQzbOfl3KsIHNUOGYZCg1"
+      "duration_ms": 152441,
+      "name": "No Pidas Tanto",
+      "url": "https://open.spotify.com/track/35AK8srOaFTQBnwN2RxQTJ"
     }
   ],
   "unique_name": "Rimas Frescas ",

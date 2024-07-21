@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Fake Fruit
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,875 likes - 125 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,925 likes - 125 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 56 | [Double Down](https://open.spotify.com/track/4L5VY5ddVTP5e9a1IP8SZr) | [Future Teens](https://open.spotify.com/artist/4psGjIN7MDwMYJTlRjauKr) | [Double Down](https://open.spotify.com/album/6BFExOPyrzjAZToTNLWIA7) | 2:59 |
 | 57 | [carnival sounds](https://open.spotify.com/track/2cgWY4Vw6udOpM384eZYvS) | [Jahnah Camille](https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS) | [carnival sounds](https://open.spotify.com/album/6k1w7HAK3B09JHglsLd9J0) | 4:20 |
 | 58 | [LEECHES \(PLAY DEAD!\)](https://open.spotify.com/track/3d8jzlgadqM4KgaSBt8sce) | [Suzie True](https://open.spotify.com/artist/4COdM5vE5byEogAXp1cghR) | [LEECHES \(PLAY DEAD!\)](https://open.spotify.com/album/3xu19lAUjYda3wSieB6bhq) | 2:38 |
-| 59 | [Stop & Stare](https://open.spotify.com/track/5tpybInr1G31Wgl7FWXLKw) | [Logan](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Lost In Translation](https://open.spotify.com/album/2TLhzp9VSGiYoSd7IPdU69) | 2:36 |
+| 59 | [Stop & Stare](https://open.spotify.com/track/5tpybInr1G31Wgl7FWXLKw) | [Logan Priest](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Lost In Translation](https://open.spotify.com/album/2TLhzp9VSGiYoSd7IPdU69) | 2:36 |
 | 60 | [Panic Growth](https://open.spotify.com/track/7H6KN6M4pTG98RBGfgVFWg) | [The Nagging Doubts](https://open.spotify.com/artist/2sSlFb9ZRolDd3qcBrMDCr) | [Panic Growth](https://open.spotify.com/album/2tzJvf8oe5L6VcVQ2aU6Y7) | 3:49 |
 | 61 | [Sinker](https://open.spotify.com/track/6PQuJzQaUgl178ODVn6MyD) | [Downhaul](https://open.spotify.com/artist/5g4PKgeQwXYLTktYSIYPXR) | [Sinker](https://open.spotify.com/album/0Pkq1d3FTIGfW3U9dkjyqe) | 2:21 |
 | 62 | [Cooler Talk](https://open.spotify.com/track/6vSaCAHXzSSs9g4q2MtsWJ) | [Bacchae](https://open.spotify.com/artist/2kkzGUcM1xMk6BWxbIINd8) | [Cooler Talk](https://open.spotify.com/album/7yeC7GDK72IbmZeUkfph15) | 3:07 |

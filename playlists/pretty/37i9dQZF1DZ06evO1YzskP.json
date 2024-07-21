@@ -1,12 +1,12 @@
 {
-  "description": "This Is La Receta. Los temas esenciales, todos en una lista.",
-  "num_followers": 26616,
+  "description": "This is La Receta. The essential tracks, all in one playlist.",
+  "num_followers": 26684,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZphbAAAAAADjvIOvuzAH0tCXfzMlX6fc",
+  "snapshot_id": "ZpmsgAAAAADiOCa92/3s4KiIiNPvlyAa",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 208413,
-      "name": "Malas Decisiones",
-      "url": "https://open.spotify.com/track/2iO3N5docEHN5irGJRVoqA"
+      "duration_ms": 216800,
+      "name": "Ojitos Lindos",
+      "url": "https://open.spotify.com/track/6fON6XAgh3MWT1QBw4katd"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 216800,
-      "name": "Ojitos Lindos",
-      "url": "https://open.spotify.com/track/6fON6XAgh3MWT1QBw4katd"
+      "duration_ms": 208413,
+      "name": "Malas Decisiones",
+      "url": "https://open.spotify.com/track/2iO3N5docEHN5irGJRVoqA"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dr. Simi",
-        "url": "https://open.spotify.com/album/7bHkoBBlKnFICfnYfvdwsa"
+        "name": "El Sombrero De Lado",
+        "url": "https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 173160,
-      "name": "Dr. Simi",
-      "url": "https://open.spotify.com/track/3OtTpxvwKrP4svo22XHJMg"
+      "duration_ms": 158733,
+      "name": "El Sombero De Lado",
+      "url": "https://open.spotify.com/track/77TZY5sLHOkjSjgiF4hLqa"
     },
     {
       "added_at": null,
@@ -863,8 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Sombrero De Lado",
-        "url": "https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw"
+        "name": "Dr. Simi",
+        "url": "https://open.spotify.com/album/7bHkoBBlKnFICfnYfvdwsa"
       },
       "artists": [
         {
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 158733,
-      "name": "El Sombero De Lado",
-      "url": "https://open.spotify.com/track/77TZY5sLHOkjSjgiF4hLqa"
+      "duration_ms": 173160,
+      "name": "Dr. Simi",
+      "url": "https://open.spotify.com/track/3OtTpxvwKrP4svo22XHJMg"
     },
     {
       "added_at": null,

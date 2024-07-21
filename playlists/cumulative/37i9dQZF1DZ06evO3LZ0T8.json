@@ -335,6 +335,32 @@
     },
     {
       "album": {
+        "name": "Get Loose (feat. LexBlaze)",
+        "url": "https://open.spotify.com/album/3vZ71dARheqUhoxXLp9gvf"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "Cave Studio",
+          "url": "https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE"
+        },
+        {
+          "name": "LexBlaze",
+          "url": "https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri"
+        }
+      ],
+      "date_added": "2024-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149956,
+      "name": "Get Loose (feat. LexBlaze)",
+      "url": "https://open.spotify.com/track/0qRMIJvnJRicT1XI0zkFYH"
+    },
+    {
+      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/6HC5lHejoIqI7L7JJd09jS"
       },

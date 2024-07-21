@@ -4,7 +4,7 @@
 
 > 
 
-786 songs - 2 day 13 hr 53 min
+787 songs - 2 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Kyenkyen Bi Adi M'awu](https://open.spotify.com/track/2iomWDpUomxZI0MYh4SKXM) | [K\. Frimpong](https://open.spotify.com/artist/2LDOr6fxXh2JPduLAHzztr) | [Afro\-Rock Vol\. 1](https://open.spotify.com/album/3xeW7a1YY6rTIccohDOHrr) | 6:54 | 2020-06-11 |  |
 | [Köroğlu Dağları](https://open.spotify.com/track/5mETTpAx7Ccmpd6FUwycRb) | [İstanbul Şarkıcıları](https://open.spotify.com/artist/3dAWWhURuoeND0OPcwrOpR) | [Ayva Çiçek Açmış](https://open.spotify.com/album/3ogoUyugtlKcOHTByhOF2b) | 3:43 | 2024-01-21 |  |
 | [La Canoa Ranchaa](https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [10 De Colección](https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk) | 4:40 | 2020-09-12 |  |
+| [La Carta \(Mi Carta Final\)](https://open.spotify.com/track/0zNmzLkD8WLUvQDzL115I6) | [Tierra Canela](https://open.spotify.com/artist/4UJR3YhhFBlHwUrav8WzPB) | [Tu Recuerdo](https://open.spotify.com/album/2eXcyFcMRLfCwJzUZXEW0W) | 3:42 | 2024-07-20 |  |
 | [La Colegiala](https://open.spotify.com/track/2J4ReM7NFthWBgkuQqaiXa) | [Gary Low](https://open.spotify.com/artist/4MntnRuXrTyjMGt1RF0k8b) | [Latina Collection](https://open.spotify.com/album/5pMG2HRwDzWd8aCghmb1DM) | 8:39 | 2020-07-29 |  |
 | [La Gente Es la Misma](https://open.spotify.com/track/27y60AoHYM5EPoOMsRKJi8) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Tango](https://open.spotify.com/album/4nERMDbTykjpMJTWeTvXPl) | 3:48 | 2023-09-06 |  |
 | [La Ka Ba'a](https://open.spotify.com/track/1Y62CbvptkVHpq6OsmFceu) | [Alogte Oho & His Sounds of Joy](https://open.spotify.com/artist/4rGa6nIVxUyi8xWSwkHDE1) | [O Yinne!](https://open.spotify.com/album/44sQZjLg99YdsNsPAkBNXj) | 4:12 | 2023-11-12 |  |

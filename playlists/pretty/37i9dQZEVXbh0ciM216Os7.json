@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABbdt69oUF/Ms/rFHIetCUW",
+  "snapshot_id": "AAAAAAAAAAAUmdbE7WYkalx0GSAs1Wtw",
   "tracks": [
     {
       "added_at": "2024-07-19 04:00:00",
@@ -135,42 +135,46 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Survival (Version)",
-        "url": "https://open.spotify.com/album/4JoNOt6JilkkOThzeCD5EA"
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/3NOo89RhpGQUHGWEhvE8jc"
       },
       "artists": [
         {
-          "name": "YG Marley",
-          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+          "name": "Black Alley",
+          "url": "https://open.spotify.com/artist/4O7xE3mpAOnolHQovF4C2R"
         }
       ],
-      "duration_ms": 264008,
-      "name": "Survival - Version",
-      "url": "https://open.spotify.com/track/0sEPFptPf88s08tCIIXEwj"
+      "duration_ms": 204545,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/221anSbYZzWbghtK9h3usE"
     },
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Swarm Tactics",
-        "url": "https://open.spotify.com/album/6ZYhBhEKQjDyWDXB1wvOfM"
+        "name": "Brother's Story",
+        "url": "https://open.spotify.com/album/17xGU1Fno4hevAznF1elCH"
       },
       "artists": [
         {
-          "name": "Senor Draz",
-          "url": "https://open.spotify.com/artist/3tJ8nCkB8rNtID1RSXWNKK"
+          "name": "Biggle",
+          "url": "https://open.spotify.com/artist/7MggeUqVyhUtNXswzjKB32"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
         },
         {
           "name": "Ghostface Killah",
           "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
         }
       ],
-      "duration_ms": 130347,
-      "name": "Swarm Tactics",
-      "url": "https://open.spotify.com/track/0mGd6eHMiq4dEQHCpZYJR1"
+      "duration_ms": 269758,
+      "name": "Brother's Story",
+      "url": "https://open.spotify.com/track/6gyqpKtkCJQ56BtJp7mtt3"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -211,18 +215,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "A Bar Song (Tipsy)",
-        "url": "https://open.spotify.com/album/3NOo89RhpGQUHGWEhvE8jc"
+        "name": "Survival (Version)",
+        "url": "https://open.spotify.com/album/4JoNOt6JilkkOThzeCD5EA"
       },
       "artists": [
         {
-          "name": "Black Alley",
-          "url": "https://open.spotify.com/artist/4O7xE3mpAOnolHQovF4C2R"
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
         }
       ],
-      "duration_ms": 204545,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/221anSbYZzWbghtK9h3usE"
+      "duration_ms": 264008,
+      "name": "Survival - Version",
+      "url": "https://open.spotify.com/track/0sEPFptPf88s08tCIIXEwj"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -307,26 +315,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "JOHANN SEBASTIAN BACHLAVA THE DOCTOR",
-        "url": "https://open.spotify.com/album/0rTMVd3N7czUFdf1mBfNMt"
-      },
-      "artists": [
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
-        },
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        }
-      ],
-      "duration_ms": 173106,
-      "name": "KOMPRESSOR",
-      "url": "https://open.spotify.com/track/4PvR0sNCLMTzKHzVOAVNbO"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "COSM",
         "url": "https://open.spotify.com/album/53GnrSyRkPcoG4Irsno3sp"
       },
@@ -347,6 +335,26 @@
       "duration_ms": 195867,
       "name": "No Popcorn",
       "url": "https://open.spotify.com/track/0Tj263pPIIwkH6oShMu6W0"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "JOHANN SEBASTIAN BACHLAVA THE DOCTOR",
+        "url": "https://open.spotify.com/album/0rTMVd3N7czUFdf1mBfNMt"
+      },
+      "artists": [
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 173106,
+      "name": "KOMPRESSOR",
+      "url": "https://open.spotify.com/track/4PvR0sNCLMTzKHzVOAVNbO"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -439,6 +447,30 @@
       "duration_ms": 245773,
       "name": "Life in a Wind",
       "url": "https://open.spotify.com/track/1ot4TEgXBIcdPpoGmbNpmx"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "One Cry (Galantis & Misha K VIP Mix)",
+        "url": "https://open.spotify.com/album/3O2KBAwKS4xzfweFVEAO7g"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        },
+        {
+          "name": "Misha K",
+          "url": "https://open.spotify.com/artist/3py4xCfrW0MbgZEQXHp65q"
+        }
+      ],
+      "duration_ms": 189640,
+      "name": "One Cry (Galantis & Misha K VIP Mix)",
+      "url": "https://open.spotify.com/track/1RGCpHSk5bvVaByhoeDpVc"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -563,70 +595,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Pretty Low",
-        "url": "https://open.spotify.com/album/4wehh0Iq3Z3CBvll9mRHuc"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
-        },
-        {
-          "name": "Good Humans",
-          "url": "https://open.spotify.com/artist/66DcMpiCLGdsHffqTqkjow"
-        }
-      ],
-      "duration_ms": 172655,
-      "name": "Pretty Low",
-      "url": "https://open.spotify.com/track/0svMffDGjaAgtQHL0Pn8DA"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Two Demos",
-        "url": "https://open.spotify.com/album/2VjFQvMuzBpLTMB4TUr4RX"
-      },
-      "artists": [
-        {
-          "name": "Modern Baseball",
-          "url": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8"
-        }
-      ],
-      "duration_ms": 133986,
-      "name": "Rock Bottom - Demo",
-      "url": "https://open.spotify.com/track/1BKg6PWpynctmDnxopUFYu"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Killin' Time",
-        "url": "https://open.spotify.com/album/5YGwvrD8FI9KmSVIK2zzzX"
-      },
-      "artists": [
-        {
-          "name": "Clint Black",
-          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
-        },
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 204232,
-      "name": "Killin' Time",
-      "url": "https://open.spotify.com/track/1HtwsvHDgGqhY00SeJxNAx"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Things Are Changin",
         "url": "https://open.spotify.com/album/4DAFQZ5QRQsSrLCBfqHwMp"
       },
@@ -647,26 +615,6 @@
       "duration_ms": 215172,
       "name": "Things Are Changin",
       "url": "https://open.spotify.com/track/7atMMTyNZsumXblV1TIUd6"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Revenge of The Rebel",
-        "url": "https://open.spotify.com/album/3owsYhX4GBy75G2UhX40Y9"
-      },
-      "artists": [
-        {
-          "name": "DJ Flipcyide",
-          "url": "https://open.spotify.com/artist/2ZEoVkriVtu0SdMhMSqVie"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 175075,
-      "name": "Revenge of The Rebel",
-      "url": "https://open.spotify.com/track/2p3sfd8dg3syNidioQFaZV"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

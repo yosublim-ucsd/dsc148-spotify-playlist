@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-192 songs - 8 hr 32 min
+193 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Pivot](https://open.spotify.com/track/70eLlZeUn31MKzLaVlSlbP) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Every Story / Pivot](https://open.spotify.com/album/4D9eXpTDXXLDO8OUyj2VZi) | 3:18 | 2023-01-12 | 2024-01-18 |
 | [places i have yet to see](https://open.spotify.com/track/0ScamXll3uLlIp5Pt5s8Ze) | [tonbo](https://open.spotify.com/artist/5yMbLExmd8BnFP1LaWPfQ4), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [places i have yet to see](https://open.spotify.com/album/1Uh4HKvQmuBWqaIshTEyiE) | 2:16 | 2023-06-15 |  |
 | [Pouring Margarita](https://open.spotify.com/track/0ibru2bNyCrClfqznOVXFI) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Pouring Margarita](https://open.spotify.com/album/0dhtfQ82luu5zclu117YwH) | 1:30 | 2023-01-19 | 2023-08-19 |
-| [Pretrip](https://open.spotify.com/track/1dFNTrPWQd9mt1ZaGr9ZH1) | [ID Labs](https://open.spotify.com/artist/26oVoq5QZzsm9MGhOyT2tv) | [Nothing You Don’t Know](https://open.spotify.com/album/5VQCYupHULZGO2Ji7WyIst) | 2:24 | 2024-06-07 |  |
+| [Pretrip](https://open.spotify.com/track/1dFNTrPWQd9mt1ZaGr9ZH1) | [ID Labs](https://open.spotify.com/artist/26oVoq5QZzsm9MGhOyT2tv) | [Nothing You Don’t Know](https://open.spotify.com/album/5VQCYupHULZGO2Ji7WyIst) | 2:24 | 2024-06-07 | 2024-07-21 |
 | [Pyramids Revisited](https://open.spotify.com/track/3vXrrNtaV8I6opIxPniy2j) | [Electrotastica](https://open.spotify.com/artist/5q5uMW70FwqROgeYo3ojb8) | [Pyramids Revisited](https://open.spotify.com/album/0B8x8wor9Hv9ahYC0naaTA) | 3:18 | 2023-06-20 |  |
 | [Pão de Mel](https://open.spotify.com/track/6c6xj5g0hgCRfXXIa2iYEN) | [Marinha Paz](https://open.spotify.com/artist/3BNOGFlCLueiu93ELsIKF9) | [Pão de Mel](https://open.spotify.com/album/401l50TXjvmfXWlLonXhi9) | 2:20 | 2024-06-14 | 2024-06-22 |
 | [Reflection](https://open.spotify.com/track/20rDMAV7nHVWN0ih5vLdLc) | [Glance](https://open.spotify.com/artist/4zsm9w2iVTLhuOIhnpqz9M), [yujeongcokr](https://open.spotify.com/artist/3mspVlD1WihY46b7keRPyf) | [Reflection](https://open.spotify.com/album/168btAQtCTUue1WU0bpJz7) | 2:56 | 2023-01-12 |  |
@@ -156,6 +156,7 @@
 | [Scho Guet](https://open.spotify.com/track/6ottSGnUxB1xuyLR9Pd4Vd) | [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Scho Guet](https://open.spotify.com/album/0RW29wYWBcPejIxG1ANPKM) | 3:53 | 2023-01-13 | 2023-03-10 |
 | [Scrambled Eggs](https://open.spotify.com/track/7bTPwHHPyw83LN6dxLZgFF) | [Slo Five](https://open.spotify.com/artist/5irIh5qdcXwDG9p7EWegeN), [Hypntc](https://open.spotify.com/artist/40WuCSBpNDy6QCmhmZrl1E) | [Scrambled Eggs](https://open.spotify.com/album/03qZ8AJgMGeOyk1tfdRIWa) | 1:55 | 2023-06-20 | 2023-08-19 |
 | [Seasons](https://open.spotify.com/track/3ic2O47katD7m5S4YDvbCt) | [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q), [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY) | [Seasons](https://open.spotify.com/album/3pHtNw9KkN3KzNPP4PyU0c) | 2:24 | 2023-01-12 |  |
+| [See You, Space Cowboy](https://open.spotify.com/track/3wH8G4TzAVS6YyBhlUX6Se) | [404flipp](https://open.spotify.com/artist/0JAoyodhQGwikUsJp8FKNV) | [See You, Space Cowboy](https://open.spotify.com/album/5cYKSdW2gvvEIGkkvALVdh) | 2:27 | 2024-07-12 |  |
 | [Silver Lining](https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS) | 3:42 | 2023-01-12 |  |
 | [sip at zibetto](https://open.spotify.com/track/26nx2DrmEhpfw67zsvLPgZ) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [sip at zibetto](https://open.spotify.com/album/3TVwc64dpqtucwupK2dFYR) | 2:20 | 2024-06-07 | 2024-06-15 |
 | [sleepy hat](https://open.spotify.com/track/6weHje3zmObTuMqPaTBxD7) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [sleepy hat](https://open.spotify.com/album/4aDtOBTxMRwi40T8b4IHUZ) | 2:48 | 2023-10-06 | 2024-05-25 |

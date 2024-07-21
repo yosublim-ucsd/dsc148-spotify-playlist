@@ -1906,7 +1906,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 191145,
       "name": "Allez (feat. PLK & Naps)",
       "url": "https://open.spotify.com/track/50XM4fyredImTQ4NLGaggW"
@@ -4690,7 +4690,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -8050,6 +8050,28 @@
       "duration_ms": 165933,
       "name": "Corazon",
       "url": "https://open.spotify.com/track/4Uz9uTnqgM0xjZpY9wb8ym"
+    },
+    {
+      "album": {
+        "name": "LA VIE CONTINUE",
+        "url": "https://open.spotify.com/album/3pa4I96zdjB4CRR7e0gjyK"
+      },
+      "artists": [
+        {
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+        },
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198946,
+      "name": "CORDILL\u00c8RE",
+      "url": "https://open.spotify.com/track/2rVrFAV4XPF0gonpDwvFQI"
     },
     {
       "album": {
@@ -15960,6 +15982,24 @@
       "duration_ms": 40040,
       "name": "Interlude *",
       "url": "https://open.spotify.com/track/2YfheDNEEBZYaMuaIk85zJ"
+    },
+    {
+      "album": {
+        "name": "LA VIE CONTINUE",
+        "url": "https://open.spotify.com/album/3pa4I96zdjB4CRR7e0gjyK"
+      },
+      "artists": [
+        {
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151453,
+      "name": "INTERPOL",
+      "url": "https://open.spotify.com/track/3sRQcQ9LsPhO6Pluvvii71"
     },
     {
       "album": {
@@ -31667,6 +31707,24 @@
     },
     {
       "album": {
+        "name": "SOIS PAS TIMIDE",
+        "url": "https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2024-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165978,
+      "name": "SOIS PAS TIMIDE",
+      "url": "https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo"
+    },
+    {
+      "album": {
         "name": "Telegram",
         "url": "https://open.spotify.com/album/2IvmoaCYrxIVVdmfW9082i"
       },
@@ -33538,7 +33596,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-21",
       "duration_ms": 212648,
       "name": "The Door",
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"

@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass. Cover: CloZee and LSDREAM",
-  "num_followers": 475019,
+  "num_followers": 474980,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2024-07-12 16:32:11",
       "album": {
+        "name": "Rise Up",
+        "url": "https://open.spotify.com/album/48QCBT4gmWL2vnumry86eP"
+      },
+      "artists": [
+        {
+          "name": "The FifthGuys",
+          "url": "https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR"
+        },
+        {
+          "name": "Chris Linton",
+          "url": "https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/7I2eD1bRTXJDkQcg9liRr1"
+    },
+    {
+      "added_at": "2024-07-12 16:32:11",
+      "album": {
         "name": "You Found Me",
         "url": "https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu"
       },
@@ -1367,26 +1387,6 @@
       "duration_ms": 269538,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
-    },
-    {
-      "added_at": "2024-07-12 16:32:11",
-      "album": {
-        "name": "Rise Up",
-        "url": "https://open.spotify.com/album/48QCBT4gmWL2vnumry86eP"
-      },
-      "artists": [
-        {
-          "name": "The FifthGuys",
-          "url": "https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR"
-        },
-        {
-          "name": "Chris Linton",
-          "url": "https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Rise Up",
-      "url": "https://open.spotify.com/track/7I2eD1bRTXJDkQcg9liRr1"
     },
     {
       "added_at": "2024-07-12 16:32:11",
@@ -1643,30 +1643,6 @@
     {
       "added_at": "2024-07-12 16:32:11",
       "album": {
-        "name": "Unity",
-        "url": "https://open.spotify.com/album/5JIpX5UWCjxFOVDKOCqt92"
-      },
-      "artists": [
-        {
-          "name": "MitiS",
-          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
-        },
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Natalie Taylor",
-          "url": "https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "I Wanna Know",
-      "url": "https://open.spotify.com/track/76Fq9a7tnVhQ13C8bfqJ2g"
-    },
-    {
-      "added_at": "2024-07-12 16:32:11",
-      "album": {
         "name": "Crazy (feat. Casey Cook)",
         "url": "https://open.spotify.com/album/65oyOZzt4GYuAPNz7ckr27"
       },
@@ -1687,6 +1663,30 @@
       "duration_ms": 212800,
       "name": "Crazy (feat. Casey Cook)",
       "url": "https://open.spotify.com/track/61ilfNBj7SUVn3YYQlWy04"
+    },
+    {
+      "added_at": "2024-07-12 16:32:11",
+      "album": {
+        "name": "Unity",
+        "url": "https://open.spotify.com/album/5JIpX5UWCjxFOVDKOCqt92"
+      },
+      "artists": [
+        {
+          "name": "MitiS",
+          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+        },
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Natalie Taylor",
+          "url": "https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "I Wanna Know",
+      "url": "https://open.spotify.com/track/76Fq9a7tnVhQ13C8bfqJ2g"
     },
     {
       "added_at": "2024-07-12 16:32:11",
@@ -1735,8 +1735,8 @@
     {
       "added_at": "2024-07-12 16:32:11",
       "album": {
-        "name": "If The World Was Ending",
-        "url": "https://open.spotify.com/album/3P12oVJ6YKmeZXUajqTMEh"
+        "name": "Eternity (feat. Dayce Williams)",
+        "url": "https://open.spotify.com/album/5X0bqp1XBaGVPQ4DWGaADN"
       },
       "artists": [
         {
@@ -1748,9 +1748,9 @@
           "url": "https://open.spotify.com/artist/5u0wIrbneNgQ9iNw0PEAM6"
         }
       ],
-      "duration_ms": 248798,
-      "name": "If The World Was Ending",
-      "url": "https://open.spotify.com/track/6TxfKUTPFXpD9TWNVTxXtj"
+      "duration_ms": 229694,
+      "name": "Eternity (feat. Dayce Williams)",
+      "url": "https://open.spotify.com/track/2OYgoG7jqfMXsUaQfgROtw"
     },
     {
       "added_at": "2024-07-12 16:32:11",
@@ -1823,26 +1823,6 @@
     {
       "added_at": "2024-07-12 16:32:11",
       "album": {
-        "name": "Glow In The Dark",
-        "url": "https://open.spotify.com/album/6EGhyU4YNH0ahFaYU0H8YW"
-      },
-      "artists": [
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        },
-        {
-          "name": "Trella",
-          "url": "https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT"
-        }
-      ],
-      "duration_ms": 229074,
-      "name": "Glow In The Dark",
-      "url": "https://open.spotify.com/track/4VQR7e1OXp1gJcX72FJNv7"
-    },
-    {
-      "added_at": "2024-07-12 16:32:11",
-      "album": {
         "name": "Meant To Be Lonely",
         "url": "https://open.spotify.com/album/56V9FyY6YpImAG8NuPKn1f"
       },
@@ -1859,6 +1839,26 @@
       "duration_ms": 214285,
       "name": "Meant To Be Lonely",
       "url": "https://open.spotify.com/track/2VaOJEHR9U3Q6SlG8TZN5j"
+    },
+    {
+      "added_at": "2024-07-12 16:32:11",
+      "album": {
+        "name": "Glow In The Dark",
+        "url": "https://open.spotify.com/album/6EGhyU4YNH0ahFaYU0H8YW"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "Trella",
+          "url": "https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT"
+        }
+      ],
+      "duration_ms": 229074,
+      "name": "Glow In The Dark",
+      "url": "https://open.spotify.com/track/4VQR7e1OXp1gJcX72FJNv7"
     },
     {
       "added_at": "2024-07-12 16:32:11",
@@ -1883,8 +1883,8 @@
     {
       "added_at": "2024-07-12 16:32:11",
       "album": {
-        "name": "Eternity (feat. Dayce Williams)",
-        "url": "https://open.spotify.com/album/5X0bqp1XBaGVPQ4DWGaADN"
+        "name": "If The World Was Ending",
+        "url": "https://open.spotify.com/album/3P12oVJ6YKmeZXUajqTMEh"
       },
       "artists": [
         {
@@ -1896,9 +1896,9 @@
           "url": "https://open.spotify.com/artist/5u0wIrbneNgQ9iNw0PEAM6"
         }
       ],
-      "duration_ms": 229694,
-      "name": "Eternity (feat. Dayce Williams)",
-      "url": "https://open.spotify.com/track/2OYgoG7jqfMXsUaQfgROtw"
+      "duration_ms": 248798,
+      "name": "If The World Was Ending",
+      "url": "https://open.spotify.com/track/6TxfKUTPFXpD9TWNVTxXtj"
     },
     {
       "added_at": "2024-07-12 16:32:11",
@@ -1927,6 +1927,26 @@
     {
       "added_at": "2024-07-12 16:32:11",
       "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/6kNbjMxKLsoplhgfPomGce"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Medyk",
+          "url": "https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/3QFK0Yga88uv2gC8Yz3P8j"
+    },
+    {
+      "added_at": "2024-07-12 16:32:11",
+      "album": {
         "name": "Under Pressure",
         "url": "https://open.spotify.com/album/4dBYQY3XWW4txP7EyMoSEE"
       },
@@ -1947,26 +1967,6 @@
       "duration_ms": 226882,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/0pts9b6iz93rMS6XKhri0V"
-    },
-    {
-      "added_at": "2024-07-12 16:32:11",
-      "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/6kNbjMxKLsoplhgfPomGce"
-      },
-      "artists": [
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        },
-        {
-          "name": "Medyk",
-          "url": "https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/3QFK0Yga88uv2gC8Yz3P8j"
     },
     {
       "added_at": "2024-07-12 16:32:11",
@@ -1995,30 +1995,6 @@
     {
       "added_at": "2024-07-12 16:32:11",
       "album": {
-        "name": "Glass House",
-        "url": "https://open.spotify.com/album/0wJXk6rpJXYEyVVRP6vsZw"
-      },
-      "artists": [
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
-          "name": "Terry Zhong",
-          "url": "https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg"
-        },
-        {
-          "name": "CVBZ",
-          "url": "https://open.spotify.com/artist/0pt7PX4Hftlg8mV1ySU84Q"
-        }
-      ],
-      "duration_ms": 197122,
-      "name": "Glass House",
-      "url": "https://open.spotify.com/track/7ohh779FFPKSuPgSYvIPn8"
-    },
-    {
-      "added_at": "2024-07-12 16:32:11",
-      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/07LWmdM0PcSsymfyfkPPLn"
       },
@@ -2039,6 +2015,30 @@
       "duration_ms": 205423,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/11DwTQXNzDjpQ8svvX6czk"
+    },
+    {
+      "added_at": "2024-07-12 16:32:11",
+      "album": {
+        "name": "Glass House",
+        "url": "https://open.spotify.com/album/0wJXk6rpJXYEyVVRP6vsZw"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "Terry Zhong",
+          "url": "https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg"
+        },
+        {
+          "name": "CVBZ",
+          "url": "https://open.spotify.com/artist/0pt7PX4Hftlg8mV1ySU84Q"
+        }
+      ],
+      "duration_ms": 197122,
+      "name": "Glass House",
+      "url": "https://open.spotify.com/track/7ohh779FFPKSuPgSYvIPn8"
     },
     {
       "added_at": "2024-07-12 16:32:11",
@@ -2211,6 +2211,26 @@
     {
       "added_at": "2024-07-12 16:32:11",
       "album": {
+        "name": "iloveitwhentheyrun",
+        "url": "https://open.spotify.com/album/3XlSEKQ4K8luPp5icnTYKo"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        },
+        {
+          "name": "Conrad",
+          "url": "https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC"
+        }
+      ],
+      "duration_ms": 188793,
+      "name": "get my way",
+      "url": "https://open.spotify.com/track/03JEVI9w0PKZ7e2h72XAfl"
+    },
+    {
+      "added_at": "2024-07-12 16:32:11",
+      "album": {
         "name": "COME BACK HOME",
         "url": "https://open.spotify.com/album/0f6J3OVa7XztlTuQgdI595"
       },
@@ -2231,26 +2251,6 @@
       "duration_ms": 177142,
       "name": "COME BACK HOME",
       "url": "https://open.spotify.com/track/0WeqUDwiPd186VrFROE2KA"
-    },
-    {
-      "added_at": "2024-07-12 16:32:11",
-      "album": {
-        "name": "iloveitwhentheyrun",
-        "url": "https://open.spotify.com/album/3XlSEKQ4K8luPp5icnTYKo"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        },
-        {
-          "name": "Conrad",
-          "url": "https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC"
-        }
-      ],
-      "duration_ms": 188793,
-      "name": "get my way",
-      "url": "https://open.spotify.com/track/03JEVI9w0PKZ7e2h72XAfl"
     },
     {
       "added_at": "2024-07-12 16:32:11",
@@ -2315,30 +2315,6 @@
     {
       "added_at": "2024-07-12 16:32:11",
       "album": {
-        "name": "die 4 u",
-        "url": "https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8"
-      },
-      "artists": [
-        {
-          "name": "if found",
-          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
-        },
-        {
-          "name": "n\u00f8ll",
-          "url": "https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL"
-        },
-        {
-          "name": "damnboy!",
-          "url": "https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "die 4 u",
-      "url": "https://open.spotify.com/track/01XP4DU82QE56hH3l16a7S"
-    },
-    {
-      "added_at": "2024-07-12 16:32:11",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/3XjD5Vaq09m61AYKjQth7K"
       },
@@ -2359,6 +2335,30 @@
       "duration_ms": 253200,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/2kY3zw2cGQOG3IL6gMW20R"
+    },
+    {
+      "added_at": "2024-07-12 16:32:11",
+      "album": {
+        "name": "die 4 u",
+        "url": "https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8"
+      },
+      "artists": [
+        {
+          "name": "if found",
+          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
+        },
+        {
+          "name": "n\u00f8ll",
+          "url": "https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL"
+        },
+        {
+          "name": "damnboy!",
+          "url": "https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "die 4 u",
+      "url": "https://open.spotify.com/track/01XP4DU82QE56hH3l16a7S"
     },
     {
       "added_at": "2024-07-12 16:32:11",
@@ -2447,22 +2447,6 @@
     {
       "added_at": "2024-07-12 16:32:11",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/7GHSZ1Vxs6XC3Lo3bJfxXd"
-      },
-      "artists": [
-        {
-          "name": "Egzod",
-          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
-        }
-      ],
-      "duration_ms": 180620,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/23hjPKU8eYI9YT1GHzYygc"
-    },
-    {
-      "added_at": "2024-07-12 16:32:11",
-      "album": {
         "name": "Never Go Back",
         "url": "https://open.spotify.com/album/4Um0ybuMNGabnrlBv0tJSD"
       },
@@ -2483,6 +2467,22 @@
       "duration_ms": 198400,
       "name": "Never Go Back",
       "url": "https://open.spotify.com/track/72HLQHccuxrH5rHxAzHeKT"
+    },
+    {
+      "added_at": "2024-07-12 16:32:11",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/7GHSZ1Vxs6XC3Lo3bJfxXd"
+      },
+      "artists": [
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        }
+      ],
+      "duration_ms": 180620,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/23hjPKU8eYI9YT1GHzYygc"
     },
     {
       "added_at": "2024-07-12 16:32:11",
@@ -2587,6 +2587,38 @@
     {
       "added_at": "2024-07-12 16:32:11",
       "album": {
+        "name": "All We Needed",
+        "url": "https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "All We Needed",
+      "url": "https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb"
+    },
+    {
+      "added_at": "2024-07-12 16:32:11",
+      "album": {
+        "name": "Together As One",
+        "url": "https://open.spotify.com/album/0ZwmLUsu23EY1ZAaUZc2kv"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        }
+      ],
+      "duration_ms": 238095,
+      "name": "September Nights",
+      "url": "https://open.spotify.com/track/20NGAb04LqwxDX2dsSgHZi"
+    },
+    {
+      "added_at": "2024-07-12 16:32:11",
+      "album": {
         "name": "Different Future",
         "url": "https://open.spotify.com/album/2uBUb7Fs1UDBVAkuQItRxf"
       },
@@ -2611,38 +2643,6 @@
       "duration_ms": 204923,
       "name": "Different Future",
       "url": "https://open.spotify.com/track/266xopBiawptt9tviXJLlg"
-    },
-    {
-      "added_at": "2024-07-12 16:32:11",
-      "album": {
-        "name": "Together As One",
-        "url": "https://open.spotify.com/album/0ZwmLUsu23EY1ZAaUZc2kv"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        }
-      ],
-      "duration_ms": 238095,
-      "name": "September Nights",
-      "url": "https://open.spotify.com/track/20NGAb04LqwxDX2dsSgHZi"
-    },
-    {
-      "added_at": "2024-07-12 16:32:11",
-      "album": {
-        "name": "All We Needed",
-        "url": "https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt"
-      },
-      "artists": [
-        {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "All We Needed",
-      "url": "https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb"
     },
     {
       "added_at": "2024-07-12 16:32:11",
@@ -2691,30 +2691,6 @@
     {
       "added_at": "2024-07-12 16:32:11",
       "album": {
-        "name": "Heaven Again",
-        "url": "https://open.spotify.com/album/7oP8wBi22HDnIVxEjrHmeC"
-      },
-      "artists": [
-        {
-          "name": "Wurme",
-          "url": "https://open.spotify.com/artist/3rOSH7IovBDpCELYQq4gSJ"
-        },
-        {
-          "name": "Marc Rain",
-          "url": "https://open.spotify.com/artist/1acCVrk05rfolkBU3M6b7f"
-        },
-        {
-          "name": "Jetason",
-          "url": "https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Heaven Again",
-      "url": "https://open.spotify.com/track/03MzMaGtcNGKBkgQqJ1oUF"
-    },
-    {
-      "added_at": "2024-07-12 16:32:11",
-      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/3ZFzU8m52LCtZXnfKLvpao"
       },
@@ -2735,6 +2711,30 @@
       "duration_ms": 184258,
       "name": "High",
       "url": "https://open.spotify.com/track/0apCPw4wHWMtW3DPR6Aou7"
+    },
+    {
+      "added_at": "2024-07-12 16:32:11",
+      "album": {
+        "name": "Heaven Again",
+        "url": "https://open.spotify.com/album/7oP8wBi22HDnIVxEjrHmeC"
+      },
+      "artists": [
+        {
+          "name": "Wurme",
+          "url": "https://open.spotify.com/artist/3rOSH7IovBDpCELYQq4gSJ"
+        },
+        {
+          "name": "Marc Rain",
+          "url": "https://open.spotify.com/artist/1acCVrk05rfolkBU3M6b7f"
+        },
+        {
+          "name": "Jetason",
+          "url": "https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Heaven Again",
+      "url": "https://open.spotify.com/track/03MzMaGtcNGKBkgQqJ1oUF"
     },
     {
       "added_at": "2024-07-12 16:32:11",
@@ -2775,6 +2775,22 @@
     {
       "added_at": "2024-07-12 16:32:11",
       "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/5vfssDdkPeC0AAXkOvsKNa"
+      },
+      "artists": [
+        {
+          "name": "KDrew",
+          "url": "https://open.spotify.com/artist/1DLsogyGi0pwPtwV78D8uZ"
+        }
+      ],
+      "duration_ms": 147868,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/45PDrg2UUXCCDBTihLbvX2"
+    },
+    {
+      "added_at": "2024-07-12 16:32:11",
+      "album": {
         "name": "The Call",
         "url": "https://open.spotify.com/album/1sVOjksWKAB963CfPAi36A"
       },
@@ -2795,22 +2811,6 @@
       "duration_ms": 201931,
       "name": "The Call",
       "url": "https://open.spotify.com/track/6eqma9IlfnFFxpZFDooc3z"
-    },
-    {
-      "added_at": "2024-07-12 16:32:11",
-      "album": {
-        "name": "Hysteria",
-        "url": "https://open.spotify.com/album/5vfssDdkPeC0AAXkOvsKNa"
-      },
-      "artists": [
-        {
-          "name": "KDrew",
-          "url": "https://open.spotify.com/artist/1DLsogyGi0pwPtwV78D8uZ"
-        }
-      ],
-      "duration_ms": 147868,
-      "name": "Hysteria",
-      "url": "https://open.spotify.com/track/45PDrg2UUXCCDBTihLbvX2"
     },
     {
       "added_at": "2024-07-12 16:32:11",
@@ -3039,26 +3039,6 @@
     {
       "added_at": "2024-07-12 16:32:11",
       "album": {
-        "name": "Worst Night of My Life",
-        "url": "https://open.spotify.com/album/0LV7hVjylBE8h9ZxbOXapY"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "SPIRIT LINK",
-          "url": "https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Worst Night of My Life",
-      "url": "https://open.spotify.com/track/5QP7Wvkr7TG1qxtOZ88Ri8"
-    },
-    {
-      "added_at": "2024-07-12 16:32:11",
-      "album": {
         "name": "Talk To You",
         "url": "https://open.spotify.com/album/6WgUuJYSA2mYQOCAvVoHZ3"
       },
@@ -3079,6 +3059,26 @@
     {
       "added_at": "2024-07-12 16:32:11",
       "album": {
+        "name": "Worst Night of My Life",
+        "url": "https://open.spotify.com/album/0LV7hVjylBE8h9ZxbOXapY"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "SPIRIT LINK",
+          "url": "https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Worst Night of My Life",
+      "url": "https://open.spotify.com/track/5QP7Wvkr7TG1qxtOZ88Ri8"
+    },
+    {
+      "added_at": "2024-07-12 16:32:11",
+      "album": {
         "name": "Play With You",
         "url": "https://open.spotify.com/album/2cRHpoN1heCtuKIHHxwo8w"
       },
@@ -3095,30 +3095,6 @@
       "duration_ms": 214005,
       "name": "Take Your Throne",
       "url": "https://open.spotify.com/track/6hZ9RASHR1lgLRtRjjjhDn"
-    },
-    {
-      "added_at": "2024-07-12 16:32:11",
-      "album": {
-        "name": "Brokenhearted",
-        "url": "https://open.spotify.com/album/7CfLWkhnZ4HJVUJ3wSCtBh"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        },
-        {
-          "name": "Chassi",
-          "url": "https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 273600,
-      "name": "Brokenhearted",
-      "url": "https://open.spotify.com/track/3s6NVWtlt4UCf0J3lwNDbA"
     },
     {
       "added_at": "2024-07-12 16:32:11",
@@ -3155,6 +3131,30 @@
       "duration_ms": 252200,
       "name": "Sail Away (feat. Jay Mason)",
       "url": "https://open.spotify.com/track/4r9qyANhnnv7q2ENG2ggre"
+    },
+    {
+      "added_at": "2024-07-12 16:32:11",
+      "album": {
+        "name": "Brokenhearted",
+        "url": "https://open.spotify.com/album/7CfLWkhnZ4HJVUJ3wSCtBh"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "Chassi",
+          "url": "https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 273600,
+      "name": "Brokenhearted",
+      "url": "https://open.spotify.com/track/3s6NVWtlt4UCf0J3lwNDbA"
     }
   ],
   "unique_name": "Bass Lounge",

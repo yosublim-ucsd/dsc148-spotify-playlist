@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 
 > This is Tassia Reis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,905 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,906 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 | 17 | [Shonda \- RMX](https://open.spotify.com/track/62EZkcLKboeOZ6OHC0yR2s) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Preta Ary](https://open.spotify.com/artist/3ybz6l89ingwOWKDAZEoRh), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 4:23 |
 | 18 | [Girl from Bahia](https://open.spotify.com/track/5iLPuAregh2acj2I2rrWOF) | [Jevon](https://open.spotify.com/artist/1cwNKCIuq12wLqAAsC1Zyi), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Girl from Bahia](https://open.spotify.com/album/3NRwcRgNBM5gtT6LM9BAON) | 3:22 |
 | 19 | [Black Loro](https://open.spotify.com/track/4oXmqXtCQhbK77XGg4c8fx) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Black Loro](https://open.spotify.com/album/6be6POk7ENDnzbgBFlTfYh) | 2:45 |
-| 20 | [Me Beije](https://open.spotify.com/track/5jrcXyG8dp23qC71owIgNh) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Nelson D](https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof) | [Próspera D+](https://open.spotify.com/album/2pwEcYczMERg84xdmJQzhj) | 4:00 |
+| 20 | [Yin & Yang](https://open.spotify.com/track/7c8UHEObyzDsqOC4LiW7cE) | [Slim Rimografia](https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Yin & Yang \(feat\. Tássia Reis\)](https://open.spotify.com/album/71D52WT6ukguEWW3MRJNiS) | 3:22 |
 | 21 | [Eu + Vc](https://open.spotify.com/track/1MbZJ1ZvcP15HcmZDfWqf7) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 4:52 |
-| 22 | [Yin & Yang](https://open.spotify.com/track/7c8UHEObyzDsqOC4LiW7cE) | [Slim Rimografia](https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Yin & Yang \(feat\. Tássia Reis\)](https://open.spotify.com/album/71D52WT6ukguEWW3MRJNiS) | 3:22 |
+| 22 | [Me Beije](https://open.spotify.com/track/5jrcXyG8dp23qC71owIgNh) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Nelson D](https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof) | [Próspera D+](https://open.spotify.com/album/2pwEcYczMERg84xdmJQzhj) | 4:00 |
 | 23 | [Vida de Atriz](https://open.spotify.com/track/5coH2g5lXFO4PxEARDHL7V) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Bem Longe do Fim](https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH) | 2:48 |
 | 24 | [Ostentação da Cultura](https://open.spotify.com/track/048xJoXrJeWu1dtVy3clRZ) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Ostentação da Cultura](https://open.spotify.com/album/5DpUob8vu7Fy8SgoBDfaeg) | 2:45 |
 | 25 | [Ansiejazz](https://open.spotify.com/track/0tZVFCC60EASRBcdv9OTjY) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 | 49 | [Elza](https://open.spotify.com/track/303Ggzkhj1cUVhV5BbQL0d) | [Rimas e Melodias](https://open.spotify.com/artist/3mkeZhsYgHmDg1l80UBOSJ), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Tatiana](https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8), [Karol de Souza](https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6), [Mayra Maldjian](https://open.spotify.com/artist/2HwGMsVf8kqckNXfE06IIk) | [Elza](https://open.spotify.com/album/3haMa3eXxCjDFz5BOB6Yno) | 6:04 |
 | 50 | [Flor Laranja](https://open.spotify.com/track/4Oct09kM0spNmbowmgmjE4) | [A.X.L.](https://open.spotify.com/artist/0do07emvR7qjROBp1jl7Yt), [Skeeter](https://open.spotify.com/artist/7g7jKmP3nb2Ys5jdoZpdsw), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Quando É Preciso Voltar](https://open.spotify.com/album/0nLvIHbTPxE9aPmcP45T6D) | 3:55 |
 
-Snapshot ID: `ZphbAAAAAABQFzExPLJRzq5abHN+s/at`
+Snapshot ID: `ZpmsgAAAAAA+iIJsgYTrckByiSlYJxxa`

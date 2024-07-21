@@ -1,12 +1,12 @@
 {
-  "description": "This Is Alexisonfire. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
-  "num_followers": 21753,
+  "description": "This is Alexisonfire. The essential tracks, all in one playlist.",
+  "num_followers": 21758,
   "original_name": "This Is Alexisonfire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZphbAAAAAABNmx8yub/iPQ/6QZv2cp80",
+  "snapshot_id": "ZpmsgAAAAADBMm6lAIXv2wY5MLTqFcRO",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alexisonfire",
+        "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 292558,
+      "name": "Little Girls Pointing and Laughing",
+      "url": "https://open.spotify.com/track/5b0ZFCqgkYc3XdA4cbjT2S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "(LIVE) - Born & Raised 2022, St Catharines ON",
         "url": "https://open.spotify.com/album/2eBNgO9LxosJNLXMUtGaip"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 200763,
       "name": "Accept Crime - Live",
       "url": "https://open.spotify.com/track/7JTQuGvm5y837W5j9cfLK6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alexisonfire",
-        "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 314876,
-      "name": "Adelleda",
-      "url": "https://open.spotify.com/track/2USjkYb3JFNr9HDZcMUQ8H"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Girls Pointing and Laughing (Live)",
-        "url": "https://open.spotify.com/album/7Iy9LMILoGIaZLknGwZTac"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 293958,
-      "name": "Little Girls Pointing and Laughing - Live",
-      "url": "https://open.spotify.com/track/0UL9ahJncduDBElTmZJQ2Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alexisonfire",
         "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
       },
@@ -532,25 +516,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 191086,
-      "name": "Where No One Knows",
-      "url": "https://open.spotify.com/track/4KoJronH3cHIYDu7AYFQYV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Old Crows / Young Cardinals",
-        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 195826,
-      "name": "Emerald Street",
-      "url": "https://open.spotify.com/track/5l85aKbiWzcvUTMwBqC5AJ"
+      "duration_ms": 314876,
+      "name": "Adelleda",
+      "url": "https://open.spotify.com/track/2USjkYb3JFNr9HDZcMUQ8H"
     },
     {
       "added_at": null,
@@ -567,6 +535,22 @@
       "duration_ms": 376906,
       "name": "Dogs Blood - Live",
       "url": "https://open.spotify.com/track/1k6EbFWkBkB6nqGuO6RApc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Crows / Young Cardinals",
+        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 195826,
+      "name": "Emerald Street",
+      "url": "https://open.spotify.com/track/5l85aKbiWzcvUTMwBqC5AJ"
     },
     {
       "added_at": null,
@@ -603,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Crows / Young Cardinals",
-        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 257106,
-      "name": "Old Crows",
-      "url": "https://open.spotify.com/track/0cevQODp2daA7IySqHWwhd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "(LIVE) - Born & Raised 2022, St Catharines ON",
         "url": "https://open.spotify.com/album/2eBNgO9LxosJNLXMUtGaip"
       },
@@ -631,6 +599,22 @@
       "duration_ms": 184426,
       "name": "Jubella - Live",
       "url": "https://open.spotify.com/track/2DeLdi7dH3cb57BMXe8GiS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Crows / Young Cardinals",
+        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 257106,
+      "name": "Old Crows",
+      "url": "https://open.spotify.com/track/0cevQODp2daA7IySqHWwhd"
     },
     {
       "added_at": null,

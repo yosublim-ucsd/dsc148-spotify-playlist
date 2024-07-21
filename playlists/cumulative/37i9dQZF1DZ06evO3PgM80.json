@@ -565,6 +565,28 @@
     },
     {
       "album": {
+        "name": "O Meu Pai \u00c9 Bom (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2fCwHzbPlz7WSywTzroQO5"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2024-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 532577,
+      "name": "O Meu Pai \u00c9 Bom - Ao Vivo",
+      "url": "https://open.spotify.com/track/1EZ8LejBperuDSPr004cpU"
+    },
+    {
+      "album": {
         "name": "Outra Vez",
         "url": "https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8"
       },

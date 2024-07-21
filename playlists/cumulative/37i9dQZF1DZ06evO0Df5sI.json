@@ -654,6 +654,24 @@
     {
       "album": {
         "name": "Maybe I'll Catch Fire",
+        "url": "https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2024-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289706,
+      "name": "Fuck You Aurora",
+      "url": "https://open.spotify.com/track/2VDhNJigUBtbkxToyLPu2I"
+    },
+    {
+      "album": {
+        "name": "Maybe I'll Catch Fire",
         "url": "https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m"
       },
       "artists": [

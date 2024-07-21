@@ -449,6 +449,24 @@
     },
     {
       "album": {
+        "name": "EL PROCESO",
+        "url": "https://open.spotify.com/album/0btfCnFxFTTJ9xgs6j4bLr"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "date_added": "2024-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156812,
+      "name": "EL PROCESO",
+      "url": "https://open.spotify.com/track/7jRTjCPPxpUBSdx5jh05az"
+    },
+    {
+      "album": {
         "name": "Entre La Tierra y El Cielo",
         "url": "https://open.spotify.com/album/32Pv25yHJ8Tnyac7ATFo7T"
       },

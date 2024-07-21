@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: SOFT PLAY
 
-1,950 songs - 4 day 1 hr 1 min
+1,951 songs - 4 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,6 +433,7 @@
 | [Daydrinker](https://open.spotify.com/track/7FHcWjWcUiVPohKZcC5WTn) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Daydrinker](https://open.spotify.com/album/0YDXq4cjU2ygFh6RFBbqhY) | 2:45 | 2023-06-15 | 2023-08-04 |
 | [Daylight Robbery](https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [Daylight Robbery](https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM) | 2:50 | 2023-03-17 | 2023-04-21 |
 | [DAYTRIP!](https://open.spotify.com/track/483jYFAUB6wjeGpGv2HcdL) | [GANG!](https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C) | [DAYTRIP!](https://open.spotify.com/album/5w4NWdi5DLyqCAo3v1PYUj) | 1:16 | 2024-02-23 | 2024-04-05 |
+| [DEAD AGAIN](https://open.spotify.com/track/1eDw0V97F5AR2E8BGCzIR0) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6) | [DEAD AGAIN](https://open.spotify.com/album/779L6djTaLxgLBBzHaM8lX) | 3:28 | 2024-07-18 |  |
 | [Dead and Gone](https://open.spotify.com/track/1E3gbjnloxboIn5r3K8IcD) | [No Fun At All](https://open.spotify.com/artist/6usO1o98RY3cUWxqaQxi8O) | [Seventh Wave](https://open.spotify.com/album/4bZnVnQDg85dT7S4SReDcJ) | 2:44 | 2022-10-13 | 2022-11-11 |
 | [Dead and Gone](https://open.spotify.com/track/7gpXmJgNOpapz5GxFs0FGW) | [No Fun At All](https://open.spotify.com/artist/6usO1o98RY3cUWxqaQxi8O) | [Dead and Gone](https://open.spotify.com/album/26d640oDNCm5BcEYt3vX5r) | 2:44 | 2022-10-13 | 2022-10-15 |
 | [DEAD ASTRONAUT](https://open.spotify.com/track/2hym6qBXvGwg0VnI7HuZot) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [DEAD ASTRONAUT](https://open.spotify.com/album/5EXQvM0YJmhdqaU0lBXG4A) | 2:37 | 2022-02-11 | 2022-04-01 |

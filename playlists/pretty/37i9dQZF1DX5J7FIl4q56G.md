@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new tracks in metal, hard rock, and all things heavy\. Cover: Imminence
 
-[Spotify](https://open.spotify.com/user/spotify) - 716,101 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 716,126 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Death by a Thousand Cuts \- Feat\. Lucas Woodland](https://open.spotify.com/track/7B81PwYsKxxznT4frjjzFA) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH), [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU), [Lucas Woodland](https://open.spotify.com/artist/76iTTQpdw0ECsYeXVnKA2t) | [Death by a Thousand Cuts \(Feat\. Lucas Woodland\)](https://open.spotify.com/album/7t6lpHcNeLELIK4kuygGXg) | 5:21 |
 | 2 | [Laid to Rest \- HEALTH Remix](https://open.spotify.com/track/15qtJGXETtDOflM2Rvod4U) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [Laid to Rest \(HEALTH Remix\)](https://open.spotify.com/album/2xJ9kcY65dxKtx81YOCa1K) | 2:38 |
 | 3 | [Stuck In My Head](https://open.spotify.com/track/35N9LmzkCjMd2ZmAATzG6U) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Stuck In My Head](https://open.spotify.com/album/10e9Xt5aK3eye5TyNb8vx1) | 3:17 |
-| 4 | [Paralyzed \(feat\. Attack Attack!\)](https://open.spotify.com/track/2og0nXCxECL4AfuYMwh2ga) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc), [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Paralyzed \(feat\. Attack Attack!\)](https://open.spotify.com/album/238QCuqkflGRVqbJJ2rL9R) | 3:32 |
+| 4 | [Paralyzed \(feat\. Attack Attack!\)](https://open.spotify.com/track/2og0nXCxECL4AfuYMwh2ga) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc), [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Paralyzed](https://open.spotify.com/album/238QCuqkflGRVqbJJ2rL9R) | 3:32 |
 | 5 | [GENESIS](https://open.spotify.com/track/1Jijb30txJ6YZNe5DTu3Lb) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [GENESIS](https://open.spotify.com/album/0lauCMMmgQpzDyQxqhXLuH) | 3:13 |
 | 6 | [Give Them Death](https://open.spotify.com/track/07ixxw8UpxZuEptb6fX57W) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Give Them Death](https://open.spotify.com/album/2Qu0FrgnsXqkJ644o69qcJ) | 3:37 |
 | 7 | [I Am Dog Now](https://open.spotify.com/track/2V0hvlkjUrp9GxL6iHnOJD) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [I Am Dog Now](https://open.spotify.com/album/4A3gdWUjByvSGaT7z2DwvK) | 3:53 |

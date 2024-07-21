@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jfYpWb92femNCZefwYZhs">Janieck</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13 likes - 37 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 14 likes - 37 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 | 15 | [Madison \(feat\. Janieck\)](https://open.spotify.com/track/2dxfmq4OI7iy8ckdQE6J8q) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Music Is My Best Friend](https://open.spotify.com/album/32QOMbVCKKaKkFiEmX4laq) | 2:45 |
 | 16 | [22](https://open.spotify.com/track/3ZBeBPho2tpNn6vHcic9Jd) | [Sarah McTernan](https://open.spotify.com/artist/5KHDZuaKZOP6cJWRtSHWe8) | [22](https://open.spotify.com/album/7dakU6o0pVLhFyKOpBD1JY) | 2:53 |
 | 17 | [Take My Crown](https://open.spotify.com/track/5Cw3g20qoXLGM8ACIeiXko) | [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [LittleKings](https://open.spotify.com/artist/7pSOgeenBhBEN5a5yHzxIS), [Kalkovich](https://open.spotify.com/artist/1FeiNJm4aeEJ97JnSMduTh) | [Take My Crown](https://open.spotify.com/album/1e1TUK852Wm9sw7cY46c8W) | 2:26 |
-| 18 | [Just Wanna Be With You](https://open.spotify.com/track/2MJKbbjmQSU80KA27ozSU7) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Just Wanna Be With You](https://open.spotify.com/album/5CtSAySz886wilKOAf6IfY) | 2:31 |
-| 19 | [Holy](https://open.spotify.com/track/5HnHPAhzUpLa2hYgy6EqDf) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Holy](https://open.spotify.com/album/5cc9BsBk62rvhj2YifqBNK) | 2:28 |
+| 18 | [Holy](https://open.spotify.com/track/5HnHPAhzUpLa2hYgy6EqDf) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Holy](https://open.spotify.com/album/5cc9BsBk62rvhj2YifqBNK) | 2:28 |
+| 19 | [Just Wanna Be With You](https://open.spotify.com/track/2MJKbbjmQSU80KA27ozSU7) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Just Wanna Be With You](https://open.spotify.com/album/5CtSAySz886wilKOAf6IfY) | 2:31 |
 | 20 | [How \(Do I Love You\)](https://open.spotify.com/track/1wNC6sLBGiN6WdnhCvE9SF) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [How \(Do I Love You\)](https://open.spotify.com/album/2ELOXw40fZeu3WxJDlNa9S) | 2:34 |
 | 21 | [Break Through](https://open.spotify.com/track/4rFi6ScbWNQLNHcmfJeqzl) | [Preon](https://open.spotify.com/artist/53e6luchskqkXYn2ECFJJM), [David Bulla](https://open.spotify.com/artist/1m4dgoC8JY2DM5jNd11gK9), [Lars M](https://open.spotify.com/artist/0E1pXFeZDRIaKr1993EZEn) | [Break Through](https://open.spotify.com/album/2L27XU8NehlG8qDKphYdiE) | 3:11 |
 | 22 | [Follow](https://open.spotify.com/track/1JoM3HEBn0cNTi8bNSyqTb) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Follow](https://open.spotify.com/album/2bgUfyfDGDgn1lcchgFOTZ) | 2:32 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 | 26 | [Twenty One](https://open.spotify.com/track/3iAD8b8HXY4M7jyrU90mgS) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Twenty One](https://open.spotify.com/album/0tOTP7MnvbpTUbg55rKXzq) | 2:08 |
 | 27 | [Northern Lights](https://open.spotify.com/track/5RfewpRbpiihMwWPQxTnB3) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Northern Lights](https://open.spotify.com/album/3jcyaJQYwvcVKyyK5eNNCe) | 2:35 |
 | 28 | [Hero](https://open.spotify.com/track/4GSIloqu2wEqZkZGYOWsTC) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Hero](https://open.spotify.com/album/1rES1wW8xvN6QFElSGe57u) | 3:15 |
-| 29 | [Boem Boem Boem](https://open.spotify.com/track/2qf5GS2a5ewZqK5oRT3dAE) | [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [Nils](https://open.spotify.com/artist/2m8UpPHNuamk6f8mgNHyU7) | [Boem Boem Boem](https://open.spotify.com/album/5M5YCUfUxyzmZjGHq7HLPy) | 2:12 |
-| 30 | [Whenever](https://open.spotify.com/track/0bep2a6WGLFclEAHl6yXgO) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Whenever](https://open.spotify.com/album/2Yt2fZjV3yE86fnDdV9RCr) | 2:35 |
+| 29 | [Whenever](https://open.spotify.com/track/0bep2a6WGLFclEAHl6yXgO) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Whenever](https://open.spotify.com/album/2Yt2fZjV3yE86fnDdV9RCr) | 2:35 |
+| 30 | [Boem Boem Boem](https://open.spotify.com/track/2qf5GS2a5ewZqK5oRT3dAE) | [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [Nils](https://open.spotify.com/artist/2m8UpPHNuamk6f8mgNHyU7) | [Boem Boem Boem](https://open.spotify.com/album/5M5YCUfUxyzmZjGHq7HLPy) | 2:12 |
 | 31 | [Connecting Like Stars](https://open.spotify.com/track/46j7uZr4aVa9GbsVAgGnql) | [Club Banditz](https://open.spotify.com/artist/37w7AKYFnSBXALpTG9WYgw), [Radboud](https://open.spotify.com/artist/45u76TkBT9bVGMISjzb3Ty) | [Connecting Like Stars](https://open.spotify.com/album/11KGsBvcc2dIuvF2cKic9o) | 5:11 |
 | 32 | [Do You Want Me To Go?](https://open.spotify.com/track/6vJ1DjEWXvZIGtXq6EeG3U) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Maude](https://open.spotify.com/artist/3V0aYZvJGDE2SZwNNv80Xa) | [Do You Want Me To Go?](https://open.spotify.com/album/2axMOrohY6LvYgXWINJwkv) | 2:20 |
 | 33 | [You Got Me](https://open.spotify.com/track/4nVayQ2bTwoQTTUEse49Pq) | [Regi](https://open.spotify.com/artist/77ehFS1P2bU6Bfcs1qu6Jd), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Vergeet De Tijd](https://open.spotify.com/album/0f2JlVi8G2XI4hnSdVSrhk) | 3:07 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 | 36 | [Best Days](https://open.spotify.com/track/1hlVq4qDWAbk5daRO8c8nY) | [Max Hurrell](https://open.spotify.com/artist/0MekCsZ593nZDsPIts2wkd), [Bk](https://open.spotify.com/artist/2ZXi5gHD72bz9mdRBaVgOT) | [Best Days](https://open.spotify.com/album/0MNwcjq8gOTy2BOsKGiXEn) | 3:08 |
 | 37 | [Remedy](https://open.spotify.com/track/5qlTVVj7HjwEWBuAyIdGEy) | [OYADI](https://open.spotify.com/artist/3oIZUzAdCrbsm30GIleFvs) | [Remedy](https://open.spotify.com/album/3WEVoOmB0XKyNzDL4cvvZE) | 3:00 |
 
-Snapshot ID: `AbXJNwAAAABZ77m8AgWhUNeDatj5Hwf1`
+Snapshot ID: `AbXO1wAAAACFIpdhxS2g1FWC7VXg11A+`
