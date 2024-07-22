@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Dreane
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,873 likes - 33 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,872 likes - 33 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

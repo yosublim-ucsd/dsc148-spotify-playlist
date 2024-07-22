@@ -1,6 +1,6 @@
 {
   "description": "Nur tote Fische schwimmen mit dem Strom. Cover: Yu",
-  "num_followers": 112642,
+  "num_followers": 112656,
   "original_name": "Gegen den Strom",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Moshpit",
-        "url": "https://open.spotify.com/album/5WyiLUBm2DaTasNN24WTfY"
-      },
-      "artists": [
-        {
-          "name": "Yu",
-          "url": "https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6"
-        }
-      ],
-      "duration_ms": 121022,
-      "name": "Moshpit",
-      "url": "https://open.spotify.com/track/6QFyquVHheJrzJbuv8tWFY"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Troph\u00e4e",
         "url": "https://open.spotify.com/album/6nr65gmEp8iT0gzfe0nZNB"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 160320,
       "name": "Troph\u00e4e",
       "url": "https://open.spotify.com/track/0ktvX44VXoA8TUcB74anK9"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Moshpit",
+        "url": "https://open.spotify.com/album/5WyiLUBm2DaTasNN24WTfY"
+      },
+      "artists": [
+        {
+          "name": "Yu",
+          "url": "https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6"
+        }
+      ],
+      "duration_ms": 121022,
+      "name": "Moshpit",
+      "url": "https://open.spotify.com/track/6QFyquVHheJrzJbuv8tWFY"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Das ist alles von der Kunstfreiheit gedeckt",
-        "url": "https://open.spotify.com/album/0Tq272YaJbK0hH9vyEZBbm"
-      },
-      "artists": [
-        {
-          "name": "Danger Dan",
-          "url": "https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a"
-        }
-      ],
-      "duration_ms": 155960,
-      "name": "Trotzdem",
-      "url": "https://open.spotify.com/track/2xOJ5GlTL3qZj514CHE3HF"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Ein letztes Liebeslied",
         "url": "https://open.spotify.com/album/3xw2ol4SHeWZqoXiOoPilO"
       },
@@ -243,34 +227,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Zittern",
-        "url": "https://open.spotify.com/album/1N1Pe9J71EgxGBCcWnrRWY"
+        "name": "Das ist alles von der Kunstfreiheit gedeckt",
+        "url": "https://open.spotify.com/album/0Tq272YaJbK0hH9vyEZBbm"
       },
       "artists": [
         {
-          "name": "Yu",
-          "url": "https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6"
+          "name": "Danger Dan",
+          "url": "https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a"
         }
       ],
-      "duration_ms": 246530,
-      "name": "Zittern",
-      "url": "https://open.spotify.com/track/5dUdIExBgfgxWoqJ77Xi4W"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Schreien!",
-        "url": "https://open.spotify.com/album/4e6jAKuaVuz2cuHju2vSyJ"
-      },
-      "artists": [
-        {
-          "name": "Paula Carolina",
-          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
-        }
-      ],
-      "duration_ms": 174960,
-      "name": "Schreien!",
-      "url": "https://open.spotify.com/track/6n12nfjzuGGJSK5IAmfx8A"
+      "duration_ms": 155960,
+      "name": "Trotzdem",
+      "url": "https://open.spotify.com/track/2xOJ5GlTL3qZj514CHE3HF"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -319,6 +287,38 @@
       "duration_ms": 141245,
       "name": "maria mag nur kaviar",
       "url": "https://open.spotify.com/track/4fmSdDMyrWjWKaB1VlCiyu"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Schreien!",
+        "url": "https://open.spotify.com/album/4e6jAKuaVuz2cuHju2vSyJ"
+      },
+      "artists": [
+        {
+          "name": "Paula Carolina",
+          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
+        }
+      ],
+      "duration_ms": 174960,
+      "name": "Schreien!",
+      "url": "https://open.spotify.com/track/6n12nfjzuGGJSK5IAmfx8A"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Zittern",
+        "url": "https://open.spotify.com/album/1N1Pe9J71EgxGBCcWnrRWY"
+      },
+      "artists": [
+        {
+          "name": "Yu",
+          "url": "https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6"
+        }
+      ],
+      "duration_ms": 246530,
+      "name": "Zittern",
+      "url": "https://open.spotify.com/track/5dUdIExBgfgxWoqJ77Xi4W"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "absolute gewinner",
+        "url": "https://open.spotify.com/album/1bcvCOkwy8Jpwxac1AJbc4"
+      },
+      "artists": [
+        {
+          "name": "Tiavo",
+          "url": "https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "absolute gewinner",
+      "url": "https://open.spotify.com/track/6zyUsh5QCMywV1A7bEky45"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "Santorin",
         "url": "https://open.spotify.com/album/1MTXqKBpMDmbXCsWPnT6Bm"
       },
@@ -459,18 +475,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "absolute gewinner",
-        "url": "https://open.spotify.com/album/1bcvCOkwy8Jpwxac1AJbc4"
+        "name": "Schnee Im Sommer",
+        "url": "https://open.spotify.com/album/1sjo1t4qs6MrfowKwoLhnH"
       },
       "artists": [
         {
-          "name": "Tiavo",
-          "url": "https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B"
+          "name": "MOLA",
+          "url": "https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye"
         }
       ],
-      "duration_ms": 141000,
-      "name": "absolute gewinner",
-      "url": "https://open.spotify.com/track/6zyUsh5QCMywV1A7bEky45"
+      "duration_ms": 177226,
+      "name": "Wenn Du Springst",
+      "url": "https://open.spotify.com/track/6tGv9WOFiv14P6cpSEdeL6"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -491,22 +507,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Schnee Im Sommer",
-        "url": "https://open.spotify.com/album/1sjo1t4qs6MrfowKwoLhnH"
-      },
-      "artists": [
-        {
-          "name": "MOLA",
-          "url": "https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye"
-        }
-      ],
-      "duration_ms": 177226,
-      "name": "Wenn Du Springst",
-      "url": "https://open.spotify.com/track/6tGv9WOFiv14P6cpSEdeL6"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Stures dummes Herz",
         "url": "https://open.spotify.com/album/7iTZebDTdiXQC4uluRWoxi"
       },
@@ -519,54 +519,6 @@
       "duration_ms": 176566,
       "name": "Stures dummes Herz",
       "url": "https://open.spotify.com/track/2Jw8Ij0rDWuUDKvkktFzrO"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Das erste Mal",
-        "url": "https://open.spotify.com/album/3XTth7s9YmgxGuMoYd15IM"
-      },
-      "artists": [
-        {
-          "name": "Milliarden",
-          "url": "https://open.spotify.com/artist/1GltDYqF7Pl8qKkIuN85GA"
-        }
-      ],
-      "duration_ms": 247070,
-      "name": "Das erste Mal",
-      "url": "https://open.spotify.com/track/7gsAQKpCsXV8i31cljdW6u"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Mensch am Mond",
-        "url": "https://open.spotify.com/album/7zASnixcrPirKFIjhAwmXu"
-      },
-      "artists": [
-        {
-          "name": "Leftovers",
-          "url": "https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI"
-        }
-      ],
-      "duration_ms": 185250,
-      "name": "Mensch am Mond",
-      "url": "https://open.spotify.com/track/3ztlPP5pc0ZiX2Oa4YBYjx"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Muttertag",
-        "url": "https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN"
-      },
-      "artists": [
-        {
-          "name": "Antilopen Gang",
-          "url": "https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB"
-        }
-      ],
-      "duration_ms": 66209,
-      "name": "Muttertag",
-      "url": "https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -591,6 +543,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "Das erste Mal",
+        "url": "https://open.spotify.com/album/3XTth7s9YmgxGuMoYd15IM"
+      },
+      "artists": [
+        {
+          "name": "Milliarden",
+          "url": "https://open.spotify.com/artist/1GltDYqF7Pl8qKkIuN85GA"
+        }
+      ],
+      "duration_ms": 247070,
+      "name": "Das erste Mal",
+      "url": "https://open.spotify.com/track/7gsAQKpCsXV8i31cljdW6u"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "Leere Flaschen",
         "url": "https://open.spotify.com/album/1O60XqPGhSgEJ1LPDLlwgK"
       },
@@ -607,6 +575,38 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "Muttertag",
+        "url": "https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN"
+      },
+      "artists": [
+        {
+          "name": "Antilopen Gang",
+          "url": "https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB"
+        }
+      ],
+      "duration_ms": 66209,
+      "name": "Muttertag",
+      "url": "https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Mensch am Mond",
+        "url": "https://open.spotify.com/album/7zASnixcrPirKFIjhAwmXu"
+      },
+      "artists": [
+        {
+          "name": "Leftovers",
+          "url": "https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI"
+        }
+      ],
+      "duration_ms": 185250,
+      "name": "Mensch am Mond",
+      "url": "https://open.spotify.com/track/3ztlPP5pc0ZiX2Oa4YBYjx"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "Du kriegst mich nicht zur\u00fcck",
         "url": "https://open.spotify.com/album/4cxJotBAgV0ZOmROIezp6k"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 207986,
       "name": "Du kriegst mich nicht zur\u00fcck",
       "url": "https://open.spotify.com/track/2yPmT3WjYGFtqn9NqiejjB"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Marmelade Und Himbeereis",
-        "url": "https://open.spotify.com/album/064OxNn7XPDjxpmaKu57Di"
-      },
-      "artists": [
-        {
-          "name": "Leftovers",
-          "url": "https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Marmelade Und Himbeereis",
-      "url": "https://open.spotify.com/track/3CrC7C45IHGfkD5Z1SOSOH"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -759,6 +743,22 @@
       "duration_ms": 202308,
       "name": "Skandal im Patriarchat",
       "url": "https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Marmelade Und Himbeereis",
+        "url": "https://open.spotify.com/album/064OxNn7XPDjxpmaKu57Di"
+      },
+      "artists": [
+        {
+          "name": "Leftovers",
+          "url": "https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Marmelade Und Himbeereis",
+      "url": "https://open.spotify.com/track/3CrC7C45IHGfkD5Z1SOSOH"
     },
     {
       "added_at": "2024-07-18 22:00:00",

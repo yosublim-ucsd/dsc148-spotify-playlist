@@ -10637,6 +10637,24 @@
     },
     {
       "album": {
+        "name": "All Hour Cymbals",
+        "url": "https://open.spotify.com/album/6mVyKlhq3v2IHeksO38syx"
+      },
+      "artists": [
+        {
+          "name": "Yeasayer",
+          "url": "https://open.spotify.com/artist/04HvbIwBccFmRie5ATX4ft"
+        }
+      ],
+      "date_added": "2024-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246893,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/3gaH8NE0t7SBKhUIjv0SYv"
+    },
+    {
+      "album": {
         "name": "Acaciawood",
         "url": "https://open.spotify.com/album/31LTbP6O3O7RVnCY5pyEO4"
       },

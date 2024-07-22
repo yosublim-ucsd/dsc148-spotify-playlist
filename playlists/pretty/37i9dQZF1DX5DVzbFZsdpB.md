@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 
 > Podcasts you need to have on your RADAR: The Lets Trot Show, with NRL legends Josh Addo\-Carr and Josh Mansour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,399 likes - 10 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,400 likes - 10 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

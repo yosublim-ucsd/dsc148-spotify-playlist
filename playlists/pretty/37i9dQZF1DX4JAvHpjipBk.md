@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Childish Gambino, Jimin, Madison Beer, Rauw Alejandro and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,201,386 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,201,560 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 50 | [Sever](https://open.spotify.com/track/3sXl6kTbIhhPZ3mrho4woG) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [some ep](https://open.spotify.com/album/5OPRF4o1pypBIdGbKtAbCN) | 7:07 |
 | 51 | [Chk Chk Boom](https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 2:28 |
 | 52 | [SIN MIEDO](https://open.spotify.com/track/4qAQTQH5lF4kINZ9JkURXp) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [SIN MIEDO](https://open.spotify.com/album/4NBSLYMhwbf5gUSc0ZHKQK) | 2:47 |
-| 53 | [SO WHAT](https://open.spotify.com/track/2ER6bbx6npLHiUPnR5nlgM) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [BACK IN ACTION 4.0](https://open.spotify.com/album/75MyXCYXcmz18Lcq6wEYxq) | 2:58 |
+| 53 | [SO WHAT?](https://open.spotify.com/track/2ER6bbx6npLHiUPnR5nlgM) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [BACK IN ACTION 4.0](https://open.spotify.com/album/75MyXCYXcmz18Lcq6wEYxq) | 2:58 |
 | 54 | [For Once](https://open.spotify.com/track/0WUC0BH6QBePriikuKcN2m) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Western Space Grunge](https://open.spotify.com/album/6UH9GXns0zzKh8Xxmt7l3V) | 4:02 |
 | 55 | [The World Above](https://open.spotify.com/track/2IHOfg0T2tEO3iQ1aYvZA1) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The World Above](https://open.spotify.com/album/7e4uwIr9ceGWZH1HtE9NCO) | 3:32 |
 | 56 | [GEMINI](https://open.spotify.com/track/5j99dfS5X643RxuJdyizt3) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Jackie Giroux](https://open.spotify.com/artist/5QX6gWlu1rdoTKPZ9FiwYh) | [1\-800 FANTASY](https://open.spotify.com/album/4Hc9kwSIRb2jgE441FOueK) | 2:37 |

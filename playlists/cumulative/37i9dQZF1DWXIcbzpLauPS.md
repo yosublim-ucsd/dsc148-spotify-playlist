@@ -4,7 +4,7 @@
 
 > metalcore at its best\. Cover:Windwaker
 
-953 songs - 2 day 11 hr 16 min
+954 songs - 2 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -471,7 +471,7 @@
 | [Invictus Unto Fire](https://open.spotify.com/track/671wVJrGptwhsVbxyGiMLg) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Invictus Unto Fire](https://open.spotify.com/album/3lAOXpQ0cqHwVfMbeSD26I) | 3:21 | 2022-07-13 | 2022-07-20 |
 | [Invisible Rain](https://open.spotify.com/track/6UxqRS5vDYkFDScGdBX5IO) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Invisible Rain](https://open.spotify.com/album/06fR6U5Ps2jja9Lp4kcmlx) | 2:39 | 2024-06-10 |  |
 | [Isolated](https://open.spotify.com/track/5ol2lC3LsGr2ynRo0ptaFE) | [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [Isolated](https://open.spotify.com/album/6iXKfbzhJ3n48tc0aucqxz) | 3:41 | 2022-05-20 | 2022-07-23 |
-| [It Consumes Me](https://open.spotify.com/track/07QTf5QNSssDofN7uoWt7l) | [Grayscale Season](https://open.spotify.com/artist/7vkn8n6j3FIOVuRmVVYzA4) | [feel something new](https://open.spotify.com/album/1pTzGnTJw2ygewCm6m48ho) | 3:24 | 2024-03-08 |  |
+| [It Consumes Me](https://open.spotify.com/track/07QTf5QNSssDofN7uoWt7l) | [Grayscale Season](https://open.spotify.com/artist/7vkn8n6j3FIOVuRmVVYzA4) | [feel something new](https://open.spotify.com/album/1pTzGnTJw2ygewCm6m48ho) | 3:24 | 2024-03-08 | 2024-07-22 |
 | [It's Hell Down Here](https://open.spotify.com/track/0chASbpWKoTnrXDoPyNSyH) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [It's Hell Down Here](https://open.spotify.com/album/2nyvCfPmmT3u7fbF4Hno4a) | 4:00 | 2023-03-31 | 2024-05-11 |
 | [It's Hell Down Here](https://open.spotify.com/track/3vxMfMNjD8k0ozmuVDu0Ai) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Not Without My Ghosts](https://open.spotify.com/album/5IBhAOIYSATI3WY7DgeSl7) | 4:00 | 2023-05-05 | 2024-04-19 |
 | [It's Over](https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [It's Over](https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9) | 3:23 | 2021-12-17 | 2022-07-23 |
@@ -780,6 +780,7 @@
 | [Subsistence](https://open.spotify.com/track/6ifbaBmTWX9cjzuq9qGELQ) | [Together in Tragedy](https://open.spotify.com/artist/4QbAK8ShoFElp2EABLWzSc) | [Memoriam](https://open.spotify.com/album/6eDQh4ZnNdjf1rqrt9L69l) | 3:42 | 2021-12-17 | 2022-07-15 |
 | [Sucks 2 Suck](https://open.spotify.com/track/256sFTOD01wutUbC7omH17) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Sucks 2 Suck](https://open.spotify.com/album/4vApNOb7B86XOY1DdLcs7w) | 3:53 | 2024-02-09 | 2024-03-09 |
 | [Suffer](https://open.spotify.com/track/66ZM0tKioRCiW5TyPUdfpl) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [Suffer](https://open.spotify.com/album/2Km1B3OkljeuAyGAmnxZT2) | 3:23 | 2022-05-20 | 2022-12-17 |
+| [suffer.](https://open.spotify.com/track/7qAYv0vSlnaa5vknIChwcz) | [What Lies Below](https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj) | [Darker Colors \(Deluxe Edition\)](https://open.spotify.com/album/7HRxq68MnkH9ecuxVf9SPB) | 3:18 | 2024-07-12 |  |
 | [Suffocate](https://open.spotify.com/track/7aIKpaMchQAKcNv7W8GQhv) | [Execution Day](https://open.spotify.com/artist/3f3CYDS0i8Z0Egxp9gwD1Z) | [Suffocate](https://open.spotify.com/album/6KXqyVNZsxl7NwgQVvtZ4C) | 3:47 | 2022-05-13 | 2023-05-23 |
 | [Suffocate](https://open.spotify.com/track/530wk2tz33m2Rrsp7pdBB7) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Suffocate](https://open.spotify.com/album/0uZVH3RsHVBgSkvURev7D0) | 3:18 | 2022-02-16 | 2022-05-14 |
 | [Summertown](https://open.spotify.com/track/5M0jC2erbDuwYEM6PgiQ3I) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU), [Breakdown Bros](https://open.spotify.com/artist/7noSWnLC2cNbtgKXmUrvLc) | [Summertown](https://open.spotify.com/album/40iNTLmwIhwkEYRtsUNlJC) | 3:43 | 2022-07-08 | 2022-09-03 |

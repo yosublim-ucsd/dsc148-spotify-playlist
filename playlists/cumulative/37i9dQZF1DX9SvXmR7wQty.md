@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Klô Pelgag
 
-2,688 songs - 5 day 22 hr 59 min
+2,689 songs - 5 day 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,7 +422,7 @@
 | [Chocolat](https://open.spotify.com/track/6Are8wJXglZ9q9QX00xoLV) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm) | [AGUÀ EXTEND'EAU](https://open.spotify.com/album/5fvffbbz0BfUuo42slpV9A) | 3:09 | 2022-06-10 | 2022-06-25 |
 | [Choker](https://open.spotify.com/track/2n9JkcdNp7pFviL0qdmmuH) | [Thomas Gauthier](https://open.spotify.com/artist/1o1lGge9gBLbaWPQ6QncqQ) | [Choker](https://open.spotify.com/album/795cwI0M8cjrFb86T2dcqf) | 3:13 | 2022-05-27 | 2022-06-11 |
 | [Chorale](https://open.spotify.com/track/5tss9uEnYDuHGK6Dkc0HII) | [Olivier Lessard](https://open.spotify.com/artist/475de0iJKSQa7PebOU27Lk) | [Chorale](https://open.spotify.com/album/5g10y4j8zX5zpqPapVwjzA) | 3:16 | 2022-04-29 | 2022-05-14 |
-| [Choré](https://open.spotify.com/track/2J6iYDncej8Z1vOiisz7zN) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Choré](https://open.spotify.com/album/2RRwrVWsZeNCTq6y3ORp20) | 3:00 | 2024-07-20 |  |
+| [Choré](https://open.spotify.com/track/2J6iYDncej8Z1vOiisz7zN) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Choré](https://open.spotify.com/album/2RRwrVWsZeNCTq6y3ORp20) | 3:00 | 2024-07-20 | 2024-07-22 |
 | [Chrome](https://open.spotify.com/track/4td35NZotdGMJtFhCkZ4jh) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Chrome](https://open.spotify.com/album/4sDZK3v11y3o90np32XcJS) | 2:49 | 2023-02-24 | 2023-03-11 |
 | [Chrome Hearts](https://open.spotify.com/track/6OhaunEHa10FjmOMFuxy38) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Hiver à Paris](https://open.spotify.com/album/6dgmwFp2mMEhTmOJ32vDPA) | 2:49 | 2022-11-11 | 2022-12-03 |
 | [Chu faite comme ça](https://open.spotify.com/track/74ZR7MgLLDULPnB3xCbYUT) | [Jace](https://open.spotify.com/artist/7KCD5IGwoH8rY19DZnOHpO), [Ced Auger](https://open.spotify.com/artist/64wJH22II7dGiPX2c8ClZk) | [Chu faite comme ça](https://open.spotify.com/album/0ErQTTS9PPDy1MpYBADy1R) | 2:21 | 2022-08-26 | 2022-09-10 |
@@ -1858,6 +1858,7 @@
 | [Partout tu me suis](https://open.spotify.com/track/5jWdSlWSlHUQ6Zjn3DsMp9) | [Maxyme](https://open.spotify.com/artist/3hvjtwYWvSCbyPkrZBVtt6) | [Partout tu me suis](https://open.spotify.com/album/11VbAaGdrefEAXsPNVzIJB) | 3:03 | 2022-05-27 | 2022-06-04 |
 | [Paruline](https://open.spotify.com/track/5lb0glSnt2mMDS4oszbUZi) | [Jérôme Minière](https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT), [Fé](https://open.spotify.com/artist/3K9HSO9F4XeBp2ugZb9Ven) | [Paruline](https://open.spotify.com/album/4SWXcEZyuQxss7cOmIcSq8) | 3:10 | 2022-05-20 | 2022-05-28 |
 | [Pas assez](https://open.spotify.com/track/38cj3UAVsZJicscLLCEtt1) | [Vendôme](https://open.spotify.com/artist/0Ynccr9no1SvYRuIL8jKqJ) | [Pas assez](https://open.spotify.com/album/1fR3HHIVEGsWm15GqfMFq9) | 2:55 | 2023-02-03 | 2023-02-18 |
+| [Pas Comme Ça](https://open.spotify.com/track/5Os3fdIL2QS2e1r6JzMrjQ) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [D&D](https://open.spotify.com/album/7EznJ3BjBGXxRgNSC6n610) | 3:17 | 2024-07-20 |  |
 | [Pas d'casque ben soul](https://open.spotify.com/track/6JkgB8I9NqTGYTOEPAc0X3) | [Tom Folly](https://open.spotify.com/artist/4vNtkEivYgKJKHk99G9jLz) | [Folking tard](https://open.spotify.com/album/0Yqz3UIq9JRRehQ51gKT4S) | 3:01 | 2023-02-03 | 2023-02-18 |
 | [Pas easy](https://open.spotify.com/track/0UDjZfnzk359pIy3SyZKwg) | [Meghan Oak](https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k) | [Pas easy](https://open.spotify.com/album/5QrXUODOqfBbc3KZry6p3S) | 2:43 | 2022-09-23 | 2022-10-01 |
 | [Pas la peine](https://open.spotify.com/track/4rjS2xJ4ky6S9unMoNfujB) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Pas la peine](https://open.spotify.com/album/52iK7td3lEXJehzbQokb6t) | 2:47 | 2023-11-17 | 2023-12-09 |

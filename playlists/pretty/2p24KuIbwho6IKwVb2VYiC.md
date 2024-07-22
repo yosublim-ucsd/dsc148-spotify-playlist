@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: John Summit &amp; Kaskade
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 20,563 likes - 135 songs - 7 hr 6 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 20,565 likes - 135 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

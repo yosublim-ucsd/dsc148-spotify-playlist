@@ -3740,7 +3740,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-22",
       "duration_ms": 187783,
       "name": "Dos Extra\u00f1os",
       "url": "https://open.spotify.com/track/2InhKV1mZAkERacOHu7Shb"
@@ -4042,6 +4042,24 @@
       "duration_ms": 173616,
       "name": "el parque",
       "url": "https://open.spotify.com/track/5m4Hatowj4h4x2dMCJJOKc"
+    },
+    {
+      "album": {
+        "name": "El Plan",
+        "url": "https://open.spotify.com/album/45OSlUPwtVQYaqOtquiFUM"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276040,
+      "name": "El Plan",
+      "url": "https://open.spotify.com/track/3zHPbX68iu31N50fthWcJE"
     },
     {
       "album": {

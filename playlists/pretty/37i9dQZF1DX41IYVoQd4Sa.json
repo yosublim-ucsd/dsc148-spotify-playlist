@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05d3\u05d5\u05d3\u05d5 \u05d8\u05e1\u05d4",
-  "num_followers": 29838,
+  "num_followers": 29849,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,18 @@
     {
       "added_at": "2024-07-18 21:00:00",
       "album": {
-        "name": "\u05e9\u05de\u05e9 \u05d5\u05e2\u05e0\u05df",
-        "url": "https://open.spotify.com/album/5dNYF4ZWgUL2NhAJM3Dym8"
+        "name": "Until The Morning",
+        "url": "https://open.spotify.com/album/6e1fxnLrU2cp5GxPbko4Oq"
       },
       "artists": [
         {
-          "name": "Dudu Tassa",
-          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
-        },
-        {
-          "name": "Shlomi Saranga",
-          "url": "https://open.spotify.com/artist/2b9OkxEH6i2Dxm9RqA9Eti"
+          "name": "Gabriel Guy",
+          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
         }
       ],
-      "duration_ms": 187860,
-      "name": "\u05e1\u05d1\u05ea\u05d0 \u05d7\u05e0\u05d4",
-      "url": "https://open.spotify.com/track/6O0JjxigZoLH6ZOhrBIWkW"
+      "duration_ms": 151719,
+      "name": "Until The Morning",
+      "url": "https://open.spotify.com/track/5EMgxRd9V5ARW4b3aRol1L"
     },
     {
       "added_at": "2024-07-18 21:00:00",
@@ -675,18 +671,22 @@
     {
       "added_at": "2024-07-18 21:00:00",
       "album": {
-        "name": "Until The Morning",
-        "url": "https://open.spotify.com/album/6e1fxnLrU2cp5GxPbko4Oq"
+        "name": "\u05e9\u05de\u05e9 \u05d5\u05e2\u05e0\u05df",
+        "url": "https://open.spotify.com/album/5dNYF4ZWgUL2NhAJM3Dym8"
       },
       "artists": [
         {
-          "name": "Gabriel Guy",
-          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
+          "name": "Dudu Tassa",
+          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
+        },
+        {
+          "name": "Shlomi Saranga",
+          "url": "https://open.spotify.com/artist/2b9OkxEH6i2Dxm9RqA9Eti"
         }
       ],
-      "duration_ms": 151719,
-      "name": "Until The Morning",
-      "url": "https://open.spotify.com/track/5EMgxRd9V5ARW4b3aRol1L"
+      "duration_ms": 187860,
+      "name": "\u05e1\u05d1\u05ea\u05d0 \u05d7\u05e0\u05d4",
+      "url": "https://open.spotify.com/track/6O0JjxigZoLH6ZOhrBIWkW"
     },
     {
       "added_at": "2024-07-18 21:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-07-18 21:00:00",
       "album": {
+        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
+      },
+      "artists": [
+        {
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+        }
+      ],
+      "duration_ms": 237875,
+      "name": "\u05e9\u05d9\u05e8",
+      "url": "https://open.spotify.com/track/2AUzygfHvqOIfd3W9uViro"
+    },
+    {
+      "added_at": "2024-07-18 21:00:00",
+      "album": {
         "name": "\u05d1\u05d9\u05ea \u05e4\u05ea\u05d5\u05d7 \u05d7\u05dc\u05e7 \u05d0'",
         "url": "https://open.spotify.com/album/4zDlFZUFP6NLyULgGO3SiC"
       },
@@ -787,22 +803,6 @@
     {
       "added_at": "2024-07-18 21:00:00",
       "album": {
-        "name": "\u05d4\u05d0\u05dd \u05e0\u05d3\u05e2 \u05dc\u05d4\u05d9\u05d5\u05d5\u05dc\u05d3 \u05e9\u05d5\u05d1 \u05de\u05d7\u05d3\u05e9",
-        "url": "https://open.spotify.com/album/5rzvnCtCEJk4pGsxx8OkFL"
-      },
-      "artists": [
-        {
-          "name": "The Backyard",
-          "url": "https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "\u05d4\u05d0\u05dd \u05e0\u05d3\u05e2 \u05dc\u05d4\u05d9\u05d5\u05d5\u05dc\u05d3 \u05e9\u05d5\u05d1 \u05de\u05d7\u05d3\u05e9",
-      "url": "https://open.spotify.com/track/6icmYzENBRjRO5AKIP2kBz"
-    },
-    {
-      "added_at": "2024-07-18 21:00:00",
-      "album": {
         "name": "\u05dc\u05d1",
         "url": "https://open.spotify.com/album/4gaVOXO7NvJwgXhQQ2SIRj"
       },
@@ -819,8 +819,8 @@
     {
       "added_at": "2024-07-18 21:00:00",
       "album": {
-        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
+        "name": "\u05de\u05e2\u05d5\u05e0\u05d4 \u05dc\u05e2\u05d5\u05e0\u05d4",
+        "url": "https://open.spotify.com/album/05Fd43H9kijfdRJECTCYBV"
       },
       "artists": [
         {
@@ -828,9 +828,41 @@
           "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
         }
       ],
-      "duration_ms": 237875,
-      "name": "\u05e9\u05d9\u05e8",
-      "url": "https://open.spotify.com/track/2AUzygfHvqOIfd3W9uViro"
+      "duration_ms": 213023,
+      "name": "\u05de\u05e2\u05d5\u05e0\u05d4 \u05dc\u05e2\u05d5\u05e0\u05d4",
+      "url": "https://open.spotify.com/track/22jXWfwJBMhBXgA9rVDffX"
+    },
+    {
+      "added_at": "2024-07-18 21:00:00",
+      "album": {
+        "name": "\u05d4\u05d0\u05dd \u05e0\u05d3\u05e2 \u05dc\u05d4\u05d9\u05d5\u05d5\u05dc\u05d3 \u05e9\u05d5\u05d1 \u05de\u05d7\u05d3\u05e9",
+        "url": "https://open.spotify.com/album/5rzvnCtCEJk4pGsxx8OkFL"
+      },
+      "artists": [
+        {
+          "name": "The Backyard",
+          "url": "https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "\u05d4\u05d0\u05dd \u05e0\u05d3\u05e2 \u05dc\u05d4\u05d9\u05d5\u05d5\u05dc\u05d3 \u05e9\u05d5\u05d1 \u05de\u05d7\u05d3\u05e9",
+      "url": "https://open.spotify.com/track/6icmYzENBRjRO5AKIP2kBz"
+    },
+    {
+      "added_at": "2024-07-18 21:00:00",
+      "album": {
+        "name": "Shot Shot Cherry",
+        "url": "https://open.spotify.com/album/5S047vXGgxCioGnpxQFuhe"
+      },
+      "artists": [
+        {
+          "name": "Lola Marsh",
+          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
+        }
+      ],
+      "duration_ms": 152584,
+      "name": "Shot Shot Cherry",
+      "url": "https://open.spotify.com/track/2YtGRSOyUBzvmavhAV73XD"
     },
     {
       "added_at": "2024-07-18 21:00:00",
@@ -871,22 +903,6 @@
     {
       "added_at": "2024-07-18 21:00:00",
       "album": {
-        "name": "Shot Shot Cherry",
-        "url": "https://open.spotify.com/album/5S047vXGgxCioGnpxQFuhe"
-      },
-      "artists": [
-        {
-          "name": "Lola Marsh",
-          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
-        }
-      ],
-      "duration_ms": 152584,
-      "name": "Shot Shot Cherry",
-      "url": "https://open.spotify.com/track/2YtGRSOyUBzvmavhAV73XD"
-    },
-    {
-      "added_at": "2024-07-18 21:00:00",
-      "album": {
         "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
         "url": "https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW"
       },
@@ -903,18 +919,18 @@
     {
       "added_at": "2024-07-18 21:00:00",
       "album": {
-        "name": "\u05de\u05e2\u05d5\u05e0\u05d4 \u05dc\u05e2\u05d5\u05e0\u05d4",
-        "url": "https://open.spotify.com/album/05Fd43H9kijfdRJECTCYBV"
+        "name": "Petrified",
+        "url": "https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP"
       },
       "artists": [
         {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+          "name": "David Lerner",
+          "url": "https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR"
         }
       ],
-      "duration_ms": 213023,
-      "name": "\u05de\u05e2\u05d5\u05e0\u05d4 \u05dc\u05e2\u05d5\u05e0\u05d4",
-      "url": "https://open.spotify.com/track/22jXWfwJBMhBXgA9rVDffX"
+      "duration_ms": 252456,
+      "name": "Petrified",
+      "url": "https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV"
     },
     {
       "added_at": "2024-07-18 21:00:00",
@@ -987,22 +1003,6 @@
     {
       "added_at": "2024-07-18 21:00:00",
       "album": {
-        "name": "Petrified",
-        "url": "https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP"
-      },
-      "artists": [
-        {
-          "name": "David Lerner",
-          "url": "https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR"
-        }
-      ],
-      "duration_ms": 252456,
-      "name": "Petrified",
-      "url": "https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV"
-    },
-    {
-      "added_at": "2024-07-18 21:00:00",
-      "album": {
         "name": "\u05e2\u05ea \u05dc\u05d0\u05d4\u05d5\u05d1",
         "url": "https://open.spotify.com/album/2EN0t3s8obVmls1bxVbcHO"
       },
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2024-07-18 21:00:00",
       "album": {
+        "name": "\u05e6'\u05d5\u05e4 \u05e6'\u05d5\u05e4",
+        "url": "https://open.spotify.com/album/5ZciqquzRfFvGev2NZhwgs"
+      },
+      "artists": [
+        {
+          "name": "\u05e1\u05dc\u05d5\u05df \u05e7\u05d5\u05e8\u05d8\u05d9\u05e0\u05d4",
+          "url": "https://open.spotify.com/artist/4c2Lkr9QFX5ifjlLKgFd5o"
+        },
+        {
+          "name": "J.Lamotta",
+          "url": "https://open.spotify.com/artist/76O0DRobXGao078KT0xci8"
+        }
+      ],
+      "duration_ms": 157177,
+      "name": "\u05e6'\u05d5\u05e4 \u05e6'\u05d5\u05e4",
+      "url": "https://open.spotify.com/track/6EC5YNG81bMVfxX56u0j9T"
+    },
+    {
+      "added_at": "2024-07-18 21:00:00",
+      "album": {
         "name": "\u05db\u05d9\u05e9\u05d5\u05e3",
         "url": "https://open.spotify.com/album/1DwHJ5aREc5hKCyv6uI1Eg"
       },
@@ -1031,34 +1051,6 @@
       "duration_ms": 197100,
       "name": "\u05d0\u05e4\u05d5\u05e7\u05dc\u05d9\u05e4\u05e1\u05d4",
       "url": "https://open.spotify.com/track/2F3vpzuGutSHZNDtCulFtA"
-    },
-    {
-      "added_at": "2024-07-18 21:00:00",
-      "album": {
-        "name": "\u05e9\u05d5\u05d1 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05dc\u05d9\u05e9\u05d5\u05df",
-        "url": "https://open.spotify.com/album/43mFIYYPdf1tqmpqYA1wpM"
-      },
-      "artists": [
-        {
-          "name": "Alon Eder",
-          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
-        },
-        {
-          "name": "Eder 2 Lipschitz",
-          "url": "https://open.spotify.com/artist/2omk6v84kD0vX9TaAZ7jR2"
-        },
-        {
-          "name": "\u05d9\u05d4\u05d5\u05d3\u05d4 \u05e2\u05d3\u05e8",
-          "url": "https://open.spotify.com/artist/5LhqNdFK1YXr8qcf7is7Kh"
-        },
-        {
-          "name": "\u05d4\u05e8\u05d9 \u05dc\u05d9\u05e4\u05e9\u05d9\u05e5",
-          "url": "https://open.spotify.com/artist/3JygULwEzXNWvwWyhJMP5s"
-        }
-      ],
-      "duration_ms": 190259,
-      "name": "\u05e9\u05d5\u05d1 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05dc\u05d9\u05e9\u05d5\u05df",
-      "url": "https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

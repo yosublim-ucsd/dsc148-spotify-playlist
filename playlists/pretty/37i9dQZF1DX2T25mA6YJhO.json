@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Barry B, Carolina Durante.",
-  "num_followers": 19301,
+  "num_followers": 19315,
   "original_name": "Rock 2024",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "El Final",
-        "url": "https://open.spotify.com/album/09Ea8QMbl8c88ddxsaN0dd"
-      },
-      "artists": [
-        {
-          "name": "Karavana",
-          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
-        }
-      ],
-      "duration_ms": 196629,
-      "name": "El Final",
-      "url": "https://open.spotify.com/track/3qcDuXsK4lYgRMm8yK7Y8F"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Todos menos t\u00fa",
         "url": "https://open.spotify.com/album/1glqnjzKUryH8YfGhMYE8S"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 170571,
       "name": "Todos menos t\u00fa",
       "url": "https://open.spotify.com/track/4vhtRQdd9QTKTufs8GDzBW"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "El Final",
+        "url": "https://open.spotify.com/album/09Ea8QMbl8c88ddxsaN0dd"
+      },
+      "artists": [
+        {
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
+        }
+      ],
+      "duration_ms": 196629,
+      "name": "El Final",
+      "url": "https://open.spotify.com/track/3qcDuXsK4lYgRMm8yK7Y8F"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -659,6 +659,42 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "Cierra la puerta",
+        "url": "https://open.spotify.com/album/5DA4ALes4Z3cEO7ekZeWMh"
+      },
+      "artists": [
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+        }
+      ],
+      "duration_ms": 157416,
+      "name": "Cierra la puerta",
+      "url": "https://open.spotify.com/track/4QYMXL9ytzRrmvHs2MHbuc"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Maldito",
+        "url": "https://open.spotify.com/album/2j5JyU1ZbTAotHmrLIujL4"
+      },
+      "artists": [
+        {
+          "name": "The Parrots",
+          "url": "https://open.spotify.com/artist/34UH1BNxUlj7CjvivyS5Ev"
+        },
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "duration_ms": 255653,
+      "name": "Maldito",
+      "url": "https://open.spotify.com/track/7y96YbNfiol51Ge5V9xGbw"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "Fantasma",
         "url": "https://open.spotify.com/album/5GVjWzf8rgSXBafLaqavPl"
       },
@@ -691,22 +727,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Maldito",
-        "url": "https://open.spotify.com/album/2j5JyU1ZbTAotHmrLIujL4"
+        "name": "The Last of Us",
+        "url": "https://open.spotify.com/album/3m706HSNKqmnycUdWYt7Zw"
       },
       "artists": [
         {
-          "name": "The Parrots",
-          "url": "https://open.spotify.com/artist/34UH1BNxUlj7CjvivyS5Ev"
-        },
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
         }
       ],
-      "duration_ms": 255653,
-      "name": "Maldito",
-      "url": "https://open.spotify.com/track/7y96YbNfiol51Ge5V9xGbw"
+      "duration_ms": 270137,
+      "name": "The Last of Us",
+      "url": "https://open.spotify.com/track/2WxZ92Q1q5NPbdJbJx7k8q"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -731,38 +763,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Cierra la puerta",
-        "url": "https://open.spotify.com/album/5DA4ALes4Z3cEO7ekZeWMh"
-      },
-      "artists": [
-        {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
-        }
-      ],
-      "duration_ms": 157416,
-      "name": "Cierra la puerta",
-      "url": "https://open.spotify.com/track/4QYMXL9ytzRrmvHs2MHbuc"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "The Last of Us",
-        "url": "https://open.spotify.com/album/3m706HSNKqmnycUdWYt7Zw"
-      },
-      "artists": [
-        {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
-        }
-      ],
-      "duration_ms": 270137,
-      "name": "The Last of Us",
-      "url": "https://open.spotify.com/track/2WxZ92Q1q5NPbdJbJx7k8q"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Martes 13",
         "url": "https://open.spotify.com/album/7cBxE1Jmy4Xb6YdWze1plb"
       },
@@ -779,22 +779,6 @@
       "duration_ms": 181638,
       "name": "Martes 13",
       "url": "https://open.spotify.com/track/0KVfyqqSuwWeX5aWe954m9"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "El d\u00eda no me da",
-        "url": "https://open.spotify.com/album/2iCobXpDOaBzIXIb7agybP"
-      },
-      "artists": [
-        {
-          "name": "Repion",
-          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
-        }
-      ],
-      "duration_ms": 227448,
-      "name": "El d\u00eda no me da",
-      "url": "https://open.spotify.com/track/0qzQEe6xg8dkoco1DHinMq"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -843,6 +827,22 @@
       "duration_ms": 147579,
       "name": "Travieso",
       "url": "https://open.spotify.com/track/2q6kjZSeB3P9mmV3W4lOlY"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "El d\u00eda no me da",
+        "url": "https://open.spotify.com/album/2iCobXpDOaBzIXIb7agybP"
+      },
+      "artists": [
+        {
+          "name": "Repion",
+          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
+        }
+      ],
+      "duration_ms": 227448,
+      "name": "El d\u00eda no me da",
+      "url": "https://open.spotify.com/track/0qzQEe6xg8dkoco1DHinMq"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Repion",
-        "url": "https://open.spotify.com/album/5o72CTv41E3lh2h7yNEm1R"
-      },
-      "artists": [
-        {
-          "name": "Repion",
-          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
-        }
-      ],
-      "duration_ms": 205957,
-      "name": "Sin Hablar",
-      "url": "https://open.spotify.com/track/4xGAVaRPvewFxX3RGLR433"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "No Puedo M\u00e1s",
         "url": "https://open.spotify.com/album/0Kw47uyjzuktMpz6OKZMpj"
       },
@@ -979,6 +963,38 @@
       "duration_ms": 261333,
       "name": "Tekken",
       "url": "https://open.spotify.com/track/5kxroIDsvS0AQck5X8EKYN"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Repion",
+        "url": "https://open.spotify.com/album/5o72CTv41E3lh2h7yNEm1R"
+      },
+      "artists": [
+        {
+          "name": "Repion",
+          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
+        }
+      ],
+      "duration_ms": 205957,
+      "name": "Sin Hablar",
+      "url": "https://open.spotify.com/track/4xGAVaRPvewFxX3RGLR433"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Que arda Madriz",
+        "url": "https://open.spotify.com/album/6DbaSRHWCIjvzXvFLg3IYC"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "duration_ms": 234067,
+      "name": "Que arda Madriz",
+      "url": "https://open.spotify.com/track/6kiSbGU14JU9wgcWqQhQAn"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Que arda Madriz",
-        "url": "https://open.spotify.com/album/6DbaSRHWCIjvzXvFLg3IYC"
-      },
-      "artists": [
-        {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
-        }
-      ],
-      "duration_ms": 234067,
-      "name": "Que arda Madriz",
-      "url": "https://open.spotify.com/track/6kiSbGU14JU9wgcWqQhQAn"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Desde Flores y Entra\u00f1as",
         "url": "https://open.spotify.com/album/7wXKA4oPHORyBu6jTE2oQm"
       },
@@ -1091,22 +1091,6 @@
       "duration_ms": 206026,
       "name": "Las Victorias y Derrotas",
       "url": "https://open.spotify.com/track/0ZnNvpU4h5Se9bm301yOv0"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "La Excusa Perfecta",
-        "url": "https://open.spotify.com/album/51pAvbdBsnJGDBxrNN3Ax5"
-      },
-      "artists": [
-        {
-          "name": "Alavedra",
-          "url": "https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt"
-        }
-      ],
-      "duration_ms": 180705,
-      "name": "La Excusa Perfecta",
-      "url": "https://open.spotify.com/track/7vyoSMhwAepA7tGwruszQA"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Esta historia ya no est\u00e1 disponible",
-        "url": "https://open.spotify.com/album/1nzm7XdIQU2Tg5XBWHew1O"
+        "name": "La Excusa Perfecta",
+        "url": "https://open.spotify.com/album/51pAvbdBsnJGDBxrNN3Ax5"
       },
       "artists": [
         {
-          "name": "Venturi",
-          "url": "https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE"
+          "name": "Alavedra",
+          "url": "https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt"
         }
       ],
-      "duration_ms": 156510,
-      "name": "Vino el Amor",
-      "url": "https://open.spotify.com/track/7LWvckYxoIoPb1QW6OnrEb"
+      "duration_ms": 180705,
+      "name": "La Excusa Perfecta",
+      "url": "https://open.spotify.com/track/7vyoSMhwAepA7tGwruszQA"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1175,6 +1159,22 @@
       "duration_ms": 223698,
       "name": "Todo por el Aire",
       "url": "https://open.spotify.com/track/5hBJWe70D97dTK6EDdS9sP"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Esta historia ya no est\u00e1 disponible",
+        "url": "https://open.spotify.com/album/1nzm7XdIQU2Tg5XBWHew1O"
+      },
+      "artists": [
+        {
+          "name": "Venturi",
+          "url": "https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE"
+        }
+      ],
+      "duration_ms": 156510,
+      "name": "Vino el Amor",
+      "url": "https://open.spotify.com/track/7LWvckYxoIoPb1QW6OnrEb"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Darveider",
-        "url": "https://open.spotify.com/album/3DujoKOCP2JsIRslD8QnfT"
-      },
-      "artists": [
-        {
-          "name": "Venturi",
-          "url": "https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE"
-        }
-      ],
-      "duration_ms": 156375,
-      "name": "Darveider",
-      "url": "https://open.spotify.com/track/2KaOOQ2130RPjcnz8A1DuR"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Amanecer Gal\u00e1ctico",
         "url": "https://open.spotify.com/album/0gPfFGANWqyNiBiKqbyip2"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 163280,
       "name": "El Campe\u00f3n en tus ojos",
       "url": "https://open.spotify.com/track/6Y1Y3z4Uwv2oTzpEbA0q4j"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Darveider",
+        "url": "https://open.spotify.com/album/3DujoKOCP2JsIRslD8QnfT"
+      },
+      "artists": [
+        {
+          "name": "Venturi",
+          "url": "https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE"
+        }
+      ],
+      "duration_ms": 156375,
+      "name": "Darveider",
+      "url": "https://open.spotify.com/track/2KaOOQ2130RPjcnz8A1DuR"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "O Todos o Ninguno",
-        "url": "https://open.spotify.com/album/5Lequ6yHwYYoT6SNS2wTuB"
-      },
-      "artists": [
-        {
-          "name": "Sexy Zebras",
-          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
-        }
-      ],
-      "duration_ms": 229313,
-      "name": "O Todos o Ninguno",
-      "url": "https://open.spotify.com/track/1yXB3vkiBKhOMYIIbStiP8"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "p0pper",
         "url": "https://open.spotify.com/album/2WQgZmFIxitM7eGZ9HECWl"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 213308,
       "name": "p0pper",
       "url": "https://open.spotify.com/track/06BKn2S0alWLPcLHH0pkOe"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "O Todos o Ninguno",
+        "url": "https://open.spotify.com/album/5Lequ6yHwYYoT6SNS2wTuB"
+      },
+      "artists": [
+        {
+          "name": "Sexy Zebras",
+          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
+        }
+      ],
+      "duration_ms": 229313,
+      "name": "O Todos o Ninguno",
+      "url": "https://open.spotify.com/track/1yXB3vkiBKhOMYIIbStiP8"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "V\u00e1monos",
-        "url": "https://open.spotify.com/album/26m3HonKZaNY2mr5dyfpDz"
-      },
-      "artists": [
-        {
-          "name": "levitants",
-          "url": "https://open.spotify.com/artist/5Ed1kJRHN0Uj0BhGbRNutV"
-        }
-      ],
-      "duration_ms": 248975,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/1ZD4PRGZC7HyPLxncinlt4"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Barrio",
         "url": "https://open.spotify.com/album/0ltN0HsRNUxEB1OsFuiH93"
       },
@@ -1579,22 +1563,6 @@
       "duration_ms": 185174,
       "name": "Barrio",
       "url": "https://open.spotify.com/track/3vfxWUBtICQbiSlemtDSmL"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "patito",
-        "url": "https://open.spotify.com/album/5RePQAtG2OT9uHmoL9fjoJ"
-      },
-      "artists": [
-        {
-          "name": "Las Petunias",
-          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
-        }
-      ],
-      "duration_ms": 174449,
-      "name": "patito",
-      "url": "https://open.spotify.com/track/4g3iyszdHctzCawEMndp2e"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1627,6 +1595,38 @@
       "duration_ms": 169597,
       "name": "Me lapidar\u00eda",
       "url": "https://open.spotify.com/track/52oaBSXjnO6tqxokFwusnM"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "patito",
+        "url": "https://open.spotify.com/album/5RePQAtG2OT9uHmoL9fjoJ"
+      },
+      "artists": [
+        {
+          "name": "Las Petunias",
+          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
+        }
+      ],
+      "duration_ms": 174449,
+      "name": "patito",
+      "url": "https://open.spotify.com/track/4g3iyszdHctzCawEMndp2e"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "V\u00e1monos",
+        "url": "https://open.spotify.com/album/26m3HonKZaNY2mr5dyfpDz"
+      },
+      "artists": [
+        {
+          "name": "levitants",
+          "url": "https://open.spotify.com/artist/5Ed1kJRHN0Uj0BhGbRNutV"
+        }
+      ],
+      "duration_ms": 248975,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/1ZD4PRGZC7HyPLxncinlt4"
     },
     {
       "added_at": "2024-07-18 22:00:00",

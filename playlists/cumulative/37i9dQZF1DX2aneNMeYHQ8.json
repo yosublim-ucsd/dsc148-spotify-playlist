@@ -1931,6 +1931,28 @@
     },
     {
       "album": {
+        "name": "Empty Trainload Of Sky",
+        "url": "https://open.spotify.com/album/7gBbmPCqZLPo7RmIkezKnm"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        },
+        {
+          "name": "David Rawlings",
+          "url": "https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204914,
+      "name": "Empty Trainload Of Sky",
+      "url": "https://open.spotify.com/track/5E2fgZXTY7U50Fo6HYCKT6"
+    },
+    {
+      "album": {
         "name": "End At The Door",
         "url": "https://open.spotify.com/album/2Suj3QaQY8U4ZnFCiHUSnb"
       },
@@ -5282,7 +5304,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-22",
       "duration_ms": 224093,
       "name": "Over and Over",
       "url": "https://open.spotify.com/track/1qMujJpda7A5NGWxbR3jeQ"

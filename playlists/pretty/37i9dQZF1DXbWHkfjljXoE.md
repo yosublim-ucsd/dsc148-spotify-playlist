@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbWHkfjljXoE.md) - [plain]
 
 > Melodies of the movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,286 likes - 65 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,321 likes - 65 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

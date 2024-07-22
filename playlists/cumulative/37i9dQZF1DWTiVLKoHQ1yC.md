@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-201 songs - 14 hr 14 min
+202 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Manaya](https://open.spotify.com/track/4acEjzjiCG8CFaQSw7BZ1J) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Beul Un Latha](https://open.spotify.com/album/33aIxvWUZEkt5y6bHRGrqA) | 3:25 | 2022-01-14 | 2022-07-29 |
 | [Masina](https://open.spotify.com/track/1iIfC5kyhIN0ny0X6NtjIY) | [Matthias Tanzmann](https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M) | [Masina](https://open.spotify.com/album/7km063WgmtcvuzwrguShQy) | 4:00 | 2022-01-14 | 2022-11-17 |
 | [Maybe, It's Possible](https://open.spotify.com/track/0bHFuMqBH9kk7h3KgHMqJe) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Maybe, It's Possible](https://open.spotify.com/album/1ef3AznSTfNt5OOAZPIAv5) | 3:49 | 2022-11-25 | 2024-03-11 |
+| [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 | 2024-07-18 |  |
 | [Monolith](https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [LNOE Introducing Vol\. 1](https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz) | 5:22 | 2022-01-14 | 2024-02-23 |
 | [Move On](https://open.spotify.com/track/2hRd8sG0Qx15VNx4Jk8E7u) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Move On](https://open.spotify.com/album/5SqJpjqYemto4l2ETxIHzA) | 3:13 | 2024-07-12 |  |
 | [Mwaki \- Franky Wah Remix](https://open.spotify.com/track/2Jwg3J8GugivOdk4VjoUK1) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki \(Franky Wah Remix\)](https://open.spotify.com/album/44Y3edTo7tpWjwwGtQp6h3) | 3:37 | 2024-02-02 | 2024-03-31 |
@@ -137,7 +138,7 @@
 | [OnlyL ft\. TSHA & NIMMO](https://open.spotify.com/track/6IgYMKfaqv8VIYYIbsmlpo) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [OnlyL](https://open.spotify.com/album/4hSZwUM3VO8bNwb1ufMra5) | 6:07 | 2024-02-23 | 2024-07-05 |
 | [Osama](https://open.spotify.com/track/1YPkBfrRCpvBrwJU66LQWq) | [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Osama](https://open.spotify.com/album/08FzfT91jguU5Odn4bHc7T) | 6:49 | 2022-01-14 | 2024-03-29 |
 | [Overgrown](https://open.spotify.com/track/5jSeRMnM20bsVnqI86NsYa) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Overgrown](https://open.spotify.com/album/3E7HLysdFPM1yBwEXY6Qwc) | 4:28 | 2024-04-12 | 2024-05-11 |
-| [Paint My Tomorrow](https://open.spotify.com/track/7FI9lWbsdyv5BGnO8eBBgw) | [Midnight Pass](https://open.spotify.com/artist/2F8qRDc5o9tYPuRiT4cvN6), [GAM8Y](https://open.spotify.com/artist/5ch71xT3tifThqNN03BCy6), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Paint My Tomorrow](https://open.spotify.com/album/5A6O6zDkdKNo94ZGErrQlK) | 2:30 | 2024-03-15 |  |
+| [Paint My Tomorrow](https://open.spotify.com/track/7FI9lWbsdyv5BGnO8eBBgw) | [Midnight Pass](https://open.spotify.com/artist/2F8qRDc5o9tYPuRiT4cvN6), [GAM8Y](https://open.spotify.com/artist/5ch71xT3tifThqNN03BCy6), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Paint My Tomorrow](https://open.spotify.com/album/5A6O6zDkdKNo94ZGErrQlK) | 2:30 | 2024-03-15 | 2024-07-22 |
 | [Piece Of Art](https://open.spotify.com/track/05Z9XLTEN2aJx3y6YWlGoJ) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [Piece Of Art](https://open.spotify.com/album/2FxV796hbaU52R033iD7s5) | 3:16 | 2022-01-14 | 2024-04-20 |
 | [Places](https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Places](https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM) | 3:31 | 2024-07-18 |  |
 | [Poison \(feat\. Darla Jade\)](https://open.spotify.com/track/7wNny3grnsHDuHxCrrcpgF) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Poison \(feat\. Darla Jade\)](https://open.spotify.com/album/7wUWLFKic6z5SDcTk8LIoA) | 3:03 | 2022-01-14 | 2022-11-26 |

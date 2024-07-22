@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 232079,
+  "num_followers": 232080,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2024-06-14 21:41:58",
       "album": {
+        "name": "Retratos",
+        "url": "https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 261733,
+      "name": "Canto Das Tr\u00eas Ra\u00e7as",
+      "url": "https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3"
+    },
+    {
+      "added_at": "2024-06-14 21:41:58",
+      "album": {
         "name": "Eu Sou O Samba",
         "url": "https://open.spotify.com/album/5F3t6SwYT1S8RITt8lvHd6"
       },
@@ -387,22 +403,6 @@
     {
       "added_at": "2024-06-14 21:41:58",
       "album": {
-        "name": "Retratos",
-        "url": "https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 261733,
-      "name": "Canto Das Tr\u00eas Ra\u00e7as",
-      "url": "https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3"
-    },
-    {
-      "added_at": "2024-06-14 21:41:58",
-      "album": {
         "name": "Sentimento Brasileiro",
         "url": "https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP"
       },
@@ -415,6 +415,22 @@
       "duration_ms": 171293,
       "name": "Quando o povo entra na dan\u00e7a",
       "url": "https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F"
+    },
+    {
+      "added_at": "2024-06-14 21:41:58",
+      "album": {
+        "name": "Gostoso Veneno",
+        "url": "https://open.spotify.com/album/3GVTWsxdNM3yBnjS6r5wbO"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 195493,
+      "name": "Gostoso Veneno",
+      "url": "https://open.spotify.com/track/2gfSAH2Cim8mwv4VPsqvId"
     },
     {
       "added_at": "2024-06-14 21:41:58",
@@ -435,18 +451,18 @@
     {
       "added_at": "2024-06-14 21:41:58",
       "album": {
-        "name": "Gostoso Veneno",
-        "url": "https://open.spotify.com/album/3GVTWsxdNM3yBnjS6r5wbO"
+        "name": "Argumento",
+        "url": "https://open.spotify.com/album/2583ZBimIH39KBAGBzmc53"
       },
       "artists": [
         {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
         }
       ],
-      "duration_ms": 195493,
-      "name": "Gostoso Veneno",
-      "url": "https://open.spotify.com/track/2gfSAH2Cim8mwv4VPsqvId"
+      "duration_ms": 192893,
+      "name": "Argumento",
+      "url": "https://open.spotify.com/track/5SK175I291bHHcroTHUwQn"
     },
     {
       "added_at": "2024-06-14 21:41:58",
@@ -483,18 +499,18 @@
     {
       "added_at": "2024-06-14 21:41:58",
       "album": {
-        "name": "Argumento",
-        "url": "https://open.spotify.com/album/2583ZBimIH39KBAGBzmc53"
+        "name": "Nova Bis - Clara Nunes",
+        "url": "https://open.spotify.com/album/1nVMy8Gae1hKAPYAqUj66Y"
       },
       "artists": [
         {
-          "name": "Paulinho Da Viola",
-          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
         }
       ],
-      "duration_ms": 192893,
-      "name": "Argumento",
-      "url": "https://open.spotify.com/track/5SK175I291bHHcroTHUwQn"
+      "duration_ms": 181466,
+      "name": "\u00ca Baiana",
+      "url": "https://open.spotify.com/track/2TQUBvaI4k1Z1VnUDWL6AP"
     },
     {
       "added_at": "2024-06-14 21:41:58",
@@ -535,38 +551,6 @@
     {
       "added_at": "2024-06-14 21:41:58",
       "album": {
-        "name": "Sambista Perfeito",
-        "url": "https://open.spotify.com/album/3HuBoelQqiwD47mpONUHQw"
-      },
-      "artists": [
-        {
-          "name": "Arlindo Cruz",
-          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
-        }
-      ],
-      "duration_ms": 226813,
-      "name": "Sambista Perfeito",
-      "url": "https://open.spotify.com/track/1HInYWLAypJkiyUbmaJE4E"
-    },
-    {
-      "added_at": "2024-06-14 21:41:58",
-      "album": {
-        "name": "Nova Bis - Clara Nunes",
-        "url": "https://open.spotify.com/album/1nVMy8Gae1hKAPYAqUj66Y"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 181466,
-      "name": "\u00ca Baiana",
-      "url": "https://open.spotify.com/track/2TQUBvaI4k1Z1VnUDWL6AP"
-    },
-    {
-      "added_at": "2024-06-14 21:41:58",
-      "album": {
         "name": "Bota Pra Tocar Tim Maia",
         "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 222577,
       "name": "Bota Pra Tocar Tim Maia",
       "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
+    },
+    {
+      "added_at": "2024-06-14 21:41:58",
+      "album": {
+        "name": "Sambista Perfeito",
+        "url": "https://open.spotify.com/album/3HuBoelQqiwD47mpONUHQw"
+      },
+      "artists": [
+        {
+          "name": "Arlindo Cruz",
+          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
+        }
+      ],
+      "duration_ms": 226813,
+      "name": "Sambista Perfeito",
+      "url": "https://open.spotify.com/track/1HInYWLAypJkiyUbmaJE4E"
     },
     {
       "added_at": "2024-06-14 21:41:58",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-06-14 21:41:58",
       "album": {
-        "name": "Zeca Pagodinho",
-        "url": "https://open.spotify.com/album/2enLS4TGDR3l4FtvpqswEs"
-      },
-      "artists": [
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Spc",
-      "url": "https://open.spotify.com/track/0IEbtavzyWh3EHchvR5Jjt"
-    },
-    {
-      "added_at": "2024-06-14 21:41:58",
-      "album": {
         "name": "De M\u00e3os Dadas",
         "url": "https://open.spotify.com/album/01pZRU79DqDZnNJkakf7gF"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 185120,
       "name": "No Pagode Do Vav\u00e1",
       "url": "https://open.spotify.com/track/3X4JN049J3iPAkwkHVPJxD"
+    },
+    {
+      "added_at": "2024-06-14 21:41:58",
+      "album": {
+        "name": "Zeca Pagodinho",
+        "url": "https://open.spotify.com/album/2enLS4TGDR3l4FtvpqswEs"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Spc",
+      "url": "https://open.spotify.com/track/0IEbtavzyWh3EHchvR5Jjt"
     },
     {
       "added_at": "2024-06-14 21:41:58",

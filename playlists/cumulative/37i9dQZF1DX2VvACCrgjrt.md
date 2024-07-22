@@ -4,7 +4,7 @@
 
 > Real nasty house 😈😈 featuring Nostalgix
 
-807 songs - 1 day 17 hr 43 min
+808 songs - 1 day 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,7 +317,7 @@
 | [Going Up](https://open.spotify.com/track/0u1iigR4tFHXrNEnJEofp4) | [BUTTER](https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO), [Daniel Best](https://open.spotify.com/artist/21X9VaLa5Ag1smk5QohqiO) | [Going Up](https://open.spotify.com/album/5KHOYnQl1A6YbEiyMREvut) | 2:25 | 2023-12-01 | 2023-12-09 |
 | [Gold](https://open.spotify.com/track/2AZo3hWWkaJjfSLcHRxG41) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Rhiannon Roze](https://open.spotify.com/artist/3epScA5vlvqzr2AfI7JJ2f) | [Gold](https://open.spotify.com/album/2a854nNydyqb4hkHeKqWEh) | 3:35 | 2022-02-18 | 2022-04-21 |
 | [Gold On My Crown \(feat\. Born I\)](https://open.spotify.com/track/19T0zMPlfewq1NL7FVuxii) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab), [Born I](https://open.spotify.com/artist/6VaCJv2KP3kU8uZiezGkgM) | [Gold On My Crown \(feat\. Born I\)](https://open.spotify.com/album/09mT14hpl7yACg6W6J1iB9) | 2:43 | 2021-10-29 | 2022-01-21 |
-| [Gonna Get Back](https://open.spotify.com/track/62aIjxgjsYc4sYBiXzdTTC) | [BUTTER](https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO) | [Gonna Get Back](https://open.spotify.com/album/48Wz6otqb3iJoVSv03AjXQ) | 2:22 | 2024-04-05 |  |
+| [Gonna Get Back](https://open.spotify.com/track/62aIjxgjsYc4sYBiXzdTTC) | [BUTTER](https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO) | [Gonna Get Back](https://open.spotify.com/album/48Wz6otqb3iJoVSv03AjXQ) | 2:22 | 2024-04-05 | 2024-07-22 |
 | [Gonna Make That Money](https://open.spotify.com/track/6jsVScFFlOaGUlomNve4El) | [R Rivera Grooves](https://open.spotify.com/artist/1HvC3OeF8fb9INjQy6DO6z), [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Tyzn](https://open.spotify.com/artist/4RtLJ6ksxpaktS32qE6kxo) | [Gonna Make That Money](https://open.spotify.com/album/4B0fm5p2ltBYtQVHyAB0Ie) | 2:49 | 2022-03-18 | 2022-04-21 |
 | [Good Again](https://open.spotify.com/track/6jbdxYkwM7pf1pVujcoWyQ) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Good Again](https://open.spotify.com/album/48RsPqs6xA7scWJaUPBj0b) | 2:22 | 2021-10-29 | 2022-01-22 |
 | [Good Dope \- SLVR Remix](https://open.spotify.com/track/4vdTMntJIJZsL7Xdf5h6z8) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [Makloud](https://open.spotify.com/artist/5pmx4PcrEWphi2Z8lW9rUN), [SLVR](https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU) | [Good Dope \(SLVR Remix\)](https://open.spotify.com/album/3vcebnTG2D4tffVzsVrs3b) | 2:55 | 2021-10-29 | 2022-04-21 |
@@ -680,6 +680,7 @@
 | [Supah Fly](https://open.spotify.com/track/4zndIOEwqNne000JFuaGoD) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Michael Sparks](https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87) | [Supah Fly](https://open.spotify.com/album/2wmk33OnnDzrrPPydJcpsd) | 3:01 | 2022-10-07 | 2024-05-03 |
 | [Surdose](https://open.spotify.com/track/4LC69zHD4ErGxZZBzHpThq) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Joey Valence](https://open.spotify.com/artist/6BkiL5nhcwWK6JqWbBjNgu) | [Surdose](https://open.spotify.com/album/6ky2LQD22BcQtCeqyxRmfr) | 4:00 | 2022-04-29 | 2022-10-13 |
 | [Surdose](https://open.spotify.com/track/117bHhXQMRhZPpAQ9JF7PY) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [Surdose](https://open.spotify.com/album/5QrtzLtFshW96oO7VGVRiB) | 4:00 | 2022-07-22 | 2023-03-22 |
+| [Swagger Feet](https://open.spotify.com/track/05zlLlHThHGTjH5Xpgb4n2) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [BRANDON](https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY) | [Swagger Feet](https://open.spotify.com/album/7LXd9hQxk9DkCqVYI3Yr6I) | 3:29 | 2024-07-19 |  |
 | [Sweat](https://open.spotify.com/track/1rlSCPVYbtfi2t2dG5VFHU) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2) | [Sweat](https://open.spotify.com/album/1KKSoZJYVNx9DCEOtgG8nP) | 2:31 | 2024-04-19 | 2024-06-04 |
 | [SWEAT \- Radio Edit](https://open.spotify.com/track/6sCsUn5KqYxxayAB1L9po2) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [SWEAT](https://open.spotify.com/album/5OQAcfTe1Ifzs8Qrtly5aH) | 2:49 | 2024-01-19 | 2024-02-17 |
 | [SYMPHONY](https://open.spotify.com/track/3cPfCJLdadQ3u0T4DOTsnp) | [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg) | [SYMPHONY](https://open.spotify.com/album/0Llq9KaiTVbpljjRE4Eb1B) | 2:29 | 2023-05-19 | 2024-03-16 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 47213,
-  "original_name": "This Is Phil Wickham",
+  "description": "This is Phil Wickham. Piesele esen\u021biale \u00eentr-un singur playlist.",
+  "num_followers": 47236,
+  "original_name": "Acesta este Phil Wickham.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpmsgAAAAAAWiWdFWi/SPeMMF6BkF5jg",
+  "snapshot_id": "Zpr+AAAAAADnv2Il918ZuEh/48+fAuxB",
   "tracks": [
     {
       "added_at": null,
@@ -651,22 +651,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace, Vol. II",
-        "url": "https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p"
+        "name": "Children of God Acoustic Sessions",
+        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
       },
       "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 380453,
-      "name": "Living Hope",
-      "url": "https://open.spotify.com/track/1Zm86n2tQ7o5gKgdhqAHjY"
+      "duration_ms": 239973,
+      "name": "At the Foot of the Cross - Acoustic",
+      "url": "https://open.spotify.com/track/59dF79fypzaMFZYJCCPJbl"
     },
     {
       "added_at": null,
@@ -687,18 +683,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Children of God Acoustic Sessions",
-        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
+        "name": "Peace, Vol. II",
+        "url": "https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p"
       },
       "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 239973,
-      "name": "At the Foot of the Cross - Acoustic",
-      "url": "https://open.spotify.com/track/59dF79fypzaMFZYJCCPJbl"
+      "duration_ms": 380453,
+      "name": "Living Hope",
+      "url": "https://open.spotify.com/track/1Zm86n2tQ7o5gKgdhqAHjY"
     },
     {
       "added_at": null,
@@ -837,6 +837,6 @@
       "url": "https://open.spotify.com/track/3Y7OpOyaKc3uMdFSm1Q2zU"
     }
   ],
-  "unique_name": "This Is Phil Wickham",
+  "unique_name": "Acesta este Phil Wickham.",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO33TpHq"
 }

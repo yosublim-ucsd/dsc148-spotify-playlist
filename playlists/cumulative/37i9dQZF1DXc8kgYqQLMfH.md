@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,177 songs - 1 day 20 hr 47 min
+1,178 songs - 1 day 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -802,6 +802,7 @@
 | [Phantasm](https://open.spotify.com/track/5LAlZfEzoY9hcLSCmN8PuZ) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [Phantasm](https://open.spotify.com/album/51C6TuuKe2frV8YCUsjkoy) | 2:03 | 2022-11-11 | 2022-12-10 |
 | [Phase II](https://open.spotify.com/track/3JpZhbNwRv3E5RlKIj0Txe) | [Yehu](https://open.spotify.com/artist/1mVFtRG3DGigjQYeET4aJx), [11:11 Music Group](https://open.spotify.com/artist/2MDj296KJIfgWDNBtHzeFi), [Jasper](https://open.spotify.com/artist/42tsiNwD1xyyE4Hws2RvrC) | [Restarting...](https://open.spotify.com/album/0A3PuioobPpAMjmN2siIBt) | 2:47 | 2022-04-15 | 2022-12-10 |
 | [Picnic](https://open.spotify.com/track/1EPxFjUEjsPRw7XM9Yo9I3) | [tezpu](https://open.spotify.com/artist/4qsNTmhzMYuDilyDFbJFp2), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Picnic](https://open.spotify.com/album/3JrioVMOvHuEOgH42rmrxp) | 1:46 | 2022-04-22 | 2023-09-16 |
+| [Piece Of Mind](https://open.spotify.com/track/63yUqUFLVbDQRKR8rQXdsD) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Piece Of Mind](https://open.spotify.com/album/36V4L35fwzJoSChXYJceYT) | 2:06 | 2024-07-19 |  |
 | [Pink Elephants](https://open.spotify.com/track/6Owf9tXo9S2GZiVDXG7xrK) | [Timestreet](https://open.spotify.com/artist/1ZUmSYkOlZf9weqimkmtC6) | [Waterfalls](https://open.spotify.com/album/3NKUeD45OF8kHbL2zWNytO) | 2:51 | 2021-11-10 | 2022-09-23 |
 | [Pinky Promise](https://open.spotify.com/track/1mhDF1TDgIIPSuHtzByUxY) | [7th Indigo](https://open.spotify.com/artist/75RGXEBlI9OL7jBSMlf12W) | [Pinky Promise](https://open.spotify.com/album/2z8joKVkTwmorWDtrZt4cN) | 2:30 | 2022-10-01 |  |
 | [Pisa](https://open.spotify.com/track/46atmNl6nPzZuj6qAzBgpi) | [Tuva Sersh](https://open.spotify.com/artist/7iM8O4ZKvjeOFDPBkxncPk) | [Pisa](https://open.spotify.com/album/5z1vV0FxJ7UNcmHp4aRVfj) | 2:25 | 2022-04-08 |  |
@@ -1098,7 +1099,7 @@
 | [u make me](https://open.spotify.com/track/6OyPiy5eWajl56cC6Em7no) | [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc), [milligon](https://open.spotify.com/artist/62h3mAlyYduSmprbNEdKKD) | [u make me](https://open.spotify.com/album/3iXK2nkrVGdDeAd50g67UY) | 2:02 | 2021-11-10 | 2023-08-04 |
 | [Ubongo Extreme](https://open.spotify.com/track/01mOFVIoSPGQQVodkz7qB4) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Ubongo Extreme](https://open.spotify.com/album/6UdCLCk1mdYkYyctZz4a6t) | 2:50 | 2023-09-22 | 2023-11-11 |
 | [Umbrella Shopping](https://open.spotify.com/track/7MgqCfXy33YBpunYl1uhMQ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Umbrella Shopping](https://open.spotify.com/album/638MCjxBy9yOuhN34rB4x6) | 2:21 | 2021-11-10 | 2022-07-22 |
-| [under the bridge](https://open.spotify.com/track/3h7XIKkKdKANv6A7Fnp2Dt) | [lucygray](https://open.spotify.com/artist/1LIIJsUl0fGlhLHwAWjrJI), [Cxldaf](https://open.spotify.com/artist/2SAKglF2F0Wb3G2xd9ddfS) | [under the bridge](https://open.spotify.com/album/17pt1juyta07K6q3HTuB4T) | 1:48 | 2022-12-09 |  |
+| [under the bridge](https://open.spotify.com/track/3h7XIKkKdKANv6A7Fnp2Dt) | [lucygray](https://open.spotify.com/artist/1LIIJsUl0fGlhLHwAWjrJI), [Cxldaf](https://open.spotify.com/artist/2SAKglF2F0Wb3G2xd9ddfS) | [under the bridge](https://open.spotify.com/album/17pt1juyta07K6q3HTuB4T) | 1:48 | 2022-12-09 | 2024-07-22 |
 | [Under the Sun](https://open.spotify.com/track/3KXCoTPmfACMdybcLX1fMg) | [Smith Beats](https://open.spotify.com/artist/5HHXSrUf66808GVDTVmH1u), [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5) | [Beach Nights](https://open.spotify.com/album/5Z9PxUtXneYQv30ZqtofI3) | 1:57 | 2022-11-11 | 2023-05-20 |
 | [Under your spell](https://open.spotify.com/track/0lhi5mngupaKhSpOQFp2w3) | [Blank x Blank](https://open.spotify.com/artist/7tZMN6RonZwh9uUI3zdDgT) | [Under your spell](https://open.spotify.com/album/2rAzqLth8UwwTnysQFnRNe) | 2:42 | 2024-03-01 |  |
 | [Underwater](https://open.spotify.com/track/78lEAnMeOms1c1FXioIeeu) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b), [Funcc.](https://open.spotify.com/artist/3vAvHFXAMYvfj5AO2CoYyX) | [Underwater](https://open.spotify.com/album/12UhzmLUAd5IF165Hl3jSv) | 2:22 | 2021-11-10 | 2022-07-29 |

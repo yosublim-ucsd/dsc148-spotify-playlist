@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Agoney.",
-  "num_followers": 18246,
+  "num_followers": 18245,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,26 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
+        "name": "3 AMIGAS TUYAS",
+        "url": "https://open.spotify.com/album/4ifITgh9n4HwL3kwAFqNlv"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        },
+        {
+          "name": "EDDI CIRCA",
+          "url": "https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa"
+        }
+      ],
+      "duration_ms": 184152,
+      "name": "3 AMIGAS TUYAS",
+      "url": "https://open.spotify.com/track/45fYscRYuzAX226WjBnE3S"
+    },
+    {
+      "added_at": "2024-07-03 08:00:50",
+      "album": {
         "name": "La Magia de Tu Melena",
         "url": "https://open.spotify.com/album/5skve00VQ4XaOUQqqD3XRw"
       },
@@ -319,22 +339,6 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
-        "name": "ADICCI\u00d3N",
-        "url": "https://open.spotify.com/album/3Gl9bJ1Q1w7vzQIfoL6qiU"
-      },
-      "artists": [
-        {
-          "name": "BR\u00dcNNE ROMEO",
-          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
-        }
-      ],
-      "duration_ms": 177396,
-      "name": "ADICCI\u00d3N",
-      "url": "https://open.spotify.com/track/5iG9KI3KT20unk2NwfToWi"
-    },
-    {
-      "added_at": "2024-07-03 08:00:50",
-      "album": {
         "name": "Nada Importa Tanto",
         "url": "https://open.spotify.com/album/5amLYy53WJ55Ga58lgv1w4"
       },
@@ -351,22 +355,18 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
-        "name": "3 AMIGAS TUYAS",
-        "url": "https://open.spotify.com/album/4ifITgh9n4HwL3kwAFqNlv"
+        "name": "ADICCI\u00d3N",
+        "url": "https://open.spotify.com/album/3Gl9bJ1Q1w7vzQIfoL6qiU"
       },
       "artists": [
         {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
-        },
-        {
-          "name": "EDDI CIRCA",
-          "url": "https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa"
+          "name": "BR\u00dcNNE ROMEO",
+          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
         }
       ],
-      "duration_ms": 184152,
-      "name": "3 AMIGAS TUYAS",
-      "url": "https://open.spotify.com/track/45fYscRYuzAX226WjBnE3S"
+      "duration_ms": 177396,
+      "name": "ADICCI\u00d3N",
+      "url": "https://open.spotify.com/track/5iG9KI3KT20unk2NwfToWi"
     },
     {
       "added_at": "2024-07-03 08:00:50",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
+        "name": "No Quiero Ser Tu Amiga",
+        "url": "https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 148607,
+      "name": "No Quiero Ser Tu Amiga",
+      "url": "https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5"
+    },
+    {
+      "added_at": "2024-07-03 08:00:50",
+      "album": {
         "name": "Me Gustas Demasiado - Remix",
         "url": "https://open.spotify.com/album/192BQCY2BJGJtpNAuaJLQc"
       },
@@ -515,18 +531,18 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
-        "name": "No Quiero Ser Tu Amiga",
-        "url": "https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv"
+        "name": "Si es contigo si",
+        "url": "https://open.spotify.com/album/3GzUwScv8d3UskxWWj6480"
       },
       "artists": [
         {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
         }
       ],
-      "duration_ms": 148607,
-      "name": "No Quiero Ser Tu Amiga",
-      "url": "https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5"
+      "duration_ms": 146784,
+      "name": "Si es contigo si",
+      "url": "https://open.spotify.com/track/3e4v184cFsZZdy9gEk9S6f"
     },
     {
       "added_at": "2024-07-03 08:00:50",
@@ -547,38 +563,6 @@
       "duration_ms": 190588,
       "name": "Resaca",
       "url": "https://open.spotify.com/track/0kB41opCLgtqDI4llb9s30"
-    },
-    {
-      "added_at": "2024-07-03 08:00:50",
-      "album": {
-        "name": "Si es contigo si",
-        "url": "https://open.spotify.com/album/3GzUwScv8d3UskxWWj6480"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        }
-      ],
-      "duration_ms": 146784,
-      "name": "Si es contigo si",
-      "url": "https://open.spotify.com/track/3e4v184cFsZZdy9gEk9S6f"
-    },
-    {
-      "added_at": "2024-07-03 08:00:50",
-      "album": {
-        "name": "LA LUNA",
-        "url": "https://open.spotify.com/album/3ETnGzTDjhnrVudUbcc4TG"
-      },
-      "artists": [
-        {
-          "name": "SAZZA",
-          "url": "https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe"
-        }
-      ],
-      "duration_ms": 117777,
-      "name": "LA LUNA",
-      "url": "https://open.spotify.com/track/0Oe5FDm7zS2cz4WDRW2erw"
     },
     {
       "added_at": "2024-07-03 08:00:50",
@@ -707,6 +691,22 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
+        "name": "LA LUNA",
+        "url": "https://open.spotify.com/album/3ETnGzTDjhnrVudUbcc4TG"
+      },
+      "artists": [
+        {
+          "name": "SAZZA",
+          "url": "https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe"
+        }
+      ],
+      "duration_ms": 117777,
+      "name": "LA LUNA",
+      "url": "https://open.spotify.com/track/0Oe5FDm7zS2cz4WDRW2erw"
+    },
+    {
+      "added_at": "2024-07-03 08:00:50",
+      "album": {
         "name": "MADRE M\u00cdA EL ASCO QUE ME DAS",
         "url": "https://open.spotify.com/album/4aCUBRVvC3l1aFMZ1Vp9Yr"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
-        "name": "Intacto",
-        "url": "https://open.spotify.com/album/64rIfd9Cgllr89y2dbkgwU"
-      },
-      "artists": [
-        {
-          "name": "Agoney",
-          "url": "https://open.spotify.com/artist/4jKvQ93sRiKroRRaAI6Fqk"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "Intacto",
-      "url": "https://open.spotify.com/track/4jOI70Kq9jCpGbxEt80c7m"
-    },
-    {
-      "added_at": "2024-07-03 08:00:50",
-      "album": {
         "name": "Aitana O'Ca\u00f1a",
         "url": "https://open.spotify.com/album/4Iwvq5gd7DVHzYqa8dCg0u"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 172378,
       "name": "Aitana O'Ca\u00f1a",
       "url": "https://open.spotify.com/track/7yoxipcKVR52kAV8kMLJsU"
+    },
+    {
+      "added_at": "2024-07-03 08:00:50",
+      "album": {
+        "name": "Intacto",
+        "url": "https://open.spotify.com/album/64rIfd9Cgllr89y2dbkgwU"
+      },
+      "artists": [
+        {
+          "name": "Agoney",
+          "url": "https://open.spotify.com/artist/4jKvQ93sRiKroRRaAI6Fqk"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "Intacto",
+      "url": "https://open.spotify.com/track/4jOI70Kq9jCpGbxEt80c7m"
     },
     {
       "added_at": "2024-07-03 08:00:50",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
-        "name": "HETERO",
-        "url": "https://open.spotify.com/album/62CiORkFOOAQEa61gYD8aQ"
-      },
-      "artists": [
-        {
-          "name": "VALENTINO",
-          "url": "https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0"
-        }
-      ],
-      "duration_ms": 158750,
-      "name": "HETERO",
-      "url": "https://open.spotify.com/track/7e39dVZt37PASe2c1c8Xdu"
-    },
-    {
-      "added_at": "2024-07-03 08:00:50",
-      "album": {
         "name": "Animalitos",
         "url": "https://open.spotify.com/album/5JBrDB9iD7huWT5y6LCFPC"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 225000,
       "name": "Disfraz de tigre",
       "url": "https://open.spotify.com/track/5cME04YK44GYaVeVHMTbdL"
+    },
+    {
+      "added_at": "2024-07-03 08:00:50",
+      "album": {
+        "name": "HETERO",
+        "url": "https://open.spotify.com/album/62CiORkFOOAQEa61gYD8aQ"
+      },
+      "artists": [
+        {
+          "name": "VALENTINO",
+          "url": "https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0"
+        }
+      ],
+      "duration_ms": 158750,
+      "name": "HETERO",
+      "url": "https://open.spotify.com/track/7e39dVZt37PASe2c1c8Xdu"
     },
     {
       "added_at": "2024-07-03 08:00:50",
@@ -923,18 +923,22 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
-        "name": "\u00bfQu\u00e9 ha pasado?",
-        "url": "https://open.spotify.com/album/6IvElxMrJA1bk7uRJfb9cI"
+        "name": "Manual de Cortejo",
+        "url": "https://open.spotify.com/album/1g0iT6TvvvVFfheThXR0Dk"
       },
       "artists": [
         {
-          "name": "Kora",
-          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
+          "name": "Rodrigo Cuevas",
+          "url": "https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO"
+        },
+        {
+          "name": "Ra\u00fcl Refree",
+          "url": "https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy"
         }
       ],
-      "duration_ms": 245416,
-      "name": "\u00bfQu\u00e9 ha pasado?",
-      "url": "https://open.spotify.com/track/1tgNGn3dmVankBzzBkzt18"
+      "duration_ms": 218177,
+      "name": "Arboleda Bien Plantada",
+      "url": "https://open.spotify.com/track/7DQSEa2uqg5QsiIIMT91Ev"
     }
   ],
   "unique_name": "Glow Espa\u00f1a",

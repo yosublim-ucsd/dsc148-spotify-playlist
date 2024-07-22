@@ -1,6 +1,6 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Ana Farelo",
-  "num_followers": 216029,
+  "num_followers": 216020,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,18 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Los Sue\u00f1os De Nube",
-        "url": "https://open.spotify.com/album/0ERo8VtTm8Xjputhv6WtTN"
+        "name": "Her\u00e1ldica",
+        "url": "https://open.spotify.com/album/1llfWsTfOoTmG3vK0cdyNr"
       },
       "artists": [
-        {
-          "name": "Rojuu",
-          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
-        },
         {
           "name": "Saramalacara",
           "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
         }
       ],
-      "duration_ms": 216402,
-      "name": "Coraz\u00f3n De Nube",
-      "url": "https://open.spotify.com/track/3d399pzUaweyFAPKYsIO4k"
+      "duration_ms": 110075,
+      "name": "HUMO",
+      "url": "https://open.spotify.com/track/3K8xpeyxqmNeInA7WcLgII"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -123,18 +119,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Her\u00e1ldica",
-        "url": "https://open.spotify.com/album/1llfWsTfOoTmG3vK0cdyNr"
+        "name": "Los Sue\u00f1os De Nube",
+        "url": "https://open.spotify.com/album/0ERo8VtTm8Xjputhv6WtTN"
       },
       "artists": [
+        {
+          "name": "Rojuu",
+          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
+        },
         {
           "name": "Saramalacara",
           "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
         }
       ],
-      "duration_ms": 110075,
-      "name": "HUMO",
-      "url": "https://open.spotify.com/track/3K8xpeyxqmNeInA7WcLgII"
+      "duration_ms": 216402,
+      "name": "Coraz\u00f3n De Nube",
+      "url": "https://open.spotify.com/track/3d399pzUaweyFAPKYsIO4k"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -627,26 +627,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Big Fish",
-        "url": "https://open.spotify.com/album/0alF5dX6vmk8WaAEa2EWFT"
-      },
-      "artists": [
-        {
-          "name": "Mda",
-          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
-        },
-        {
-          "name": "Kabasaki",
-          "url": "https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Big Fish",
-      "url": "https://open.spotify.com/track/37CK6tuEnqZjIPLpuyS0pv"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "HARAKIRI",
         "url": "https://open.spotify.com/album/5tndicOFZ6DlGE5twFvzIX"
       },
@@ -659,22 +639,6 @@
       "duration_ms": 141000,
       "name": "HARAKIRI",
       "url": "https://open.spotify.com/track/6Rc2Mbj3V8xMQOqucCTsjh"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Ki Infinito",
-        "url": "https://open.spotify.com/album/5gGcb7PNZLT4gdiNyqKLLM"
-      },
-      "artists": [
-        {
-          "name": "Sticky M.A.",
-          "url": "https://open.spotify.com/artist/5o7fmoqHl79fzoCzeApdxm"
-        }
-      ],
-      "duration_ms": 133448,
-      "name": "Ki Infinito",
-      "url": "https://open.spotify.com/track/4mOT5hzDdxJEY2sZZW9at2"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -695,6 +659,26 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "Big Fish",
+        "url": "https://open.spotify.com/album/0alF5dX6vmk8WaAEa2EWFT"
+      },
+      "artists": [
+        {
+          "name": "Mda",
+          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
+        },
+        {
+          "name": "Kabasaki",
+          "url": "https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Big Fish",
+      "url": "https://open.spotify.com/track/37CK6tuEnqZjIPLpuyS0pv"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "Zorra (Hypertechno) [Sof\u00eda Mart\u00edn Mix]",
         "url": "https://open.spotify.com/album/7pLuF8WfgNqg5x9bGtkleC"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 168400,
       "name": "Zorra (Hypertechno) [Sof\u00eda Mart\u00edn Mix]",
       "url": "https://open.spotify.com/track/4NYnhwB1hTMVk5OVEHi9Av"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Ki Infinito",
+        "url": "https://open.spotify.com/album/5gGcb7PNZLT4gdiNyqKLLM"
+      },
+      "artists": [
+        {
+          "name": "Sticky M.A.",
+          "url": "https://open.spotify.com/artist/5o7fmoqHl79fzoCzeApdxm"
+        }
+      ],
+      "duration_ms": 133448,
+      "name": "Ki Infinito",
+      "url": "https://open.spotify.com/track/4mOT5hzDdxJEY2sZZW9at2"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -751,30 +751,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Barbiet\u00faricos",
-        "url": "https://open.spotify.com/album/7JfJdgYA7tvR79u619boAJ"
-      },
-      "artists": [
-        {
-          "name": "Metrika",
-          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
-        },
-        {
-          "name": "D.Basto",
-          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
-        },
-        {
-          "name": "Kabasaki",
-          "url": "https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX"
-        }
-      ],
-      "duration_ms": 139510,
-      "name": "Barbiet\u00faricos",
-      "url": "https://open.spotify.com/track/5O83Nfv1SG3587o5Xnm5om"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Latencia Emocional",
         "url": "https://open.spotify.com/album/52sXPLbPzr7AMm092zZXzn"
       },
@@ -795,6 +771,30 @@
       "duration_ms": 126000,
       "name": "me agobye",
       "url": "https://open.spotify.com/track/2KETKqUQIsvEBnxiJ6U6Qo"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Barbiet\u00faricos",
+        "url": "https://open.spotify.com/album/7JfJdgYA7tvR79u619boAJ"
+      },
+      "artists": [
+        {
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+        },
+        {
+          "name": "D.Basto",
+          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
+        },
+        {
+          "name": "Kabasaki",
+          "url": "https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX"
+        }
+      ],
+      "duration_ms": 139510,
+      "name": "Barbiet\u00faricos",
+      "url": "https://open.spotify.com/track/5O83Nfv1SG3587o5Xnm5om"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1539,42 +1539,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "PASODOBLE",
-        "url": "https://open.spotify.com/album/4hjgpCwdCfuvpPj8MUGTwx"
-      },
-      "artists": [
-        {
-          "name": "kepa",
-          "url": "https://open.spotify.com/artist/641uUz4loRaQhEkuFOIefT"
-        }
-      ],
-      "duration_ms": 136778,
-      "name": "PASODOBLE",
-      "url": "https://open.spotify.com/track/7sEkenTzNgk2begN3tfZDb"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Trucos",
-        "url": "https://open.spotify.com/album/6Un99X2alguHGIaW43Kxyh"
-      },
-      "artists": [
-        {
-          "name": "Pau By Chance",
-          "url": "https://open.spotify.com/artist/3Hd7UpP0eSOCpT4FW52n9I"
-        },
-        {
-          "name": "mauvetrip",
-          "url": "https://open.spotify.com/artist/5tGSRe3Dn91WESmIuRssIR"
-        }
-      ],
-      "duration_ms": 149777,
-      "name": "Trucos",
-      "url": "https://open.spotify.com/track/2fGhCfX9TwxKg2Ut2dH8i4"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "oniria",
         "url": "https://open.spotify.com/album/1Btj0VH3tWjhuIMilXh4qJ"
       },
@@ -1599,6 +1563,62 @@
       "duration_ms": 164442,
       "name": "hechizo final",
       "url": "https://open.spotify.com/track/3EvVrRxevFUiuS4ZX1pK7p"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "PASODOBLE",
+        "url": "https://open.spotify.com/album/4hjgpCwdCfuvpPj8MUGTwx"
+      },
+      "artists": [
+        {
+          "name": "kepa",
+          "url": "https://open.spotify.com/artist/641uUz4loRaQhEkuFOIefT"
+        }
+      ],
+      "duration_ms": 136778,
+      "name": "PASODOBLE",
+      "url": "https://open.spotify.com/track/7sEkenTzNgk2begN3tfZDb"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "LOVE 003",
+        "url": "https://open.spotify.com/album/1tCti1oIrfocCG2CIGLVc4"
+      },
+      "artists": [
+        {
+          "name": "pobre lucca",
+          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
+        },
+        {
+          "name": "Talla",
+          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
+        }
+      ],
+      "duration_ms": 147350,
+      "name": "LOVE 003",
+      "url": "https://open.spotify.com/track/12pQvOYiIJw5dtng80QMul"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Trucos",
+        "url": "https://open.spotify.com/album/6Un99X2alguHGIaW43Kxyh"
+      },
+      "artists": [
+        {
+          "name": "Pau By Chance",
+          "url": "https://open.spotify.com/artist/3Hd7UpP0eSOCpT4FW52n9I"
+        },
+        {
+          "name": "mauvetrip",
+          "url": "https://open.spotify.com/artist/5tGSRe3Dn91WESmIuRssIR"
+        }
+      ],
+      "duration_ms": 149777,
+      "name": "Trucos",
+      "url": "https://open.spotify.com/track/2fGhCfX9TwxKg2Ut2dH8i4"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1643,26 +1663,6 @@
       "duration_ms": 150795,
       "name": "2 perdices",
       "url": "https://open.spotify.com/track/4hKgioVmJ74290mQLo70vb"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "LOVE 003",
-        "url": "https://open.spotify.com/album/1tCti1oIrfocCG2CIGLVc4"
-      },
-      "artists": [
-        {
-          "name": "pobre lucca",
-          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
-        },
-        {
-          "name": "Talla",
-          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
-        }
-      ],
-      "duration_ms": 147350,
-      "name": "LOVE 003",
-      "url": "https://open.spotify.com/track/12pQvOYiIJw5dtng80QMul"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1807,6 +1807,26 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "No Hab\u00eda Choice",
+        "url": "https://open.spotify.com/album/3BxvaH2NoNQJcybK9fQzOM"
+      },
+      "artists": [
+        {
+          "name": "Cozko",
+          "url": "https://open.spotify.com/artist/31mGj9EGiXfDJaFtMekA0P"
+        },
+        {
+          "name": "Jlee",
+          "url": "https://open.spotify.com/artist/0bZMxHRlHk7CDH7HU2WFjH"
+        }
+      ],
+      "duration_ms": 171245,
+      "name": "No Hab\u00eda Choice",
+      "url": "https://open.spotify.com/track/57ig3SMp9E3Zj7h8CeCZyV"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "Enfermedad",
         "url": "https://open.spotify.com/album/4T0TvG4am4yq4kX1EV5lx7"
       },
@@ -1839,26 +1859,6 @@
       "duration_ms": 214400,
       "name": "FLOR",
       "url": "https://open.spotify.com/track/0pFMCV998z1q1LbZouGLJk"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "No Hab\u00eda Choice",
-        "url": "https://open.spotify.com/album/3BxvaH2NoNQJcybK9fQzOM"
-      },
-      "artists": [
-        {
-          "name": "Cozko",
-          "url": "https://open.spotify.com/artist/31mGj9EGiXfDJaFtMekA0P"
-        },
-        {
-          "name": "Jlee",
-          "url": "https://open.spotify.com/artist/0bZMxHRlHk7CDH7HU2WFjH"
-        }
-      ],
-      "duration_ms": 171245,
-      "name": "No Hab\u00eda Choice",
-      "url": "https://open.spotify.com/track/57ig3SMp9E3Zj7h8CeCZyV"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "ALAS Y GARRAS",
-        "url": "https://open.spotify.com/album/1jGCunUecbzbpPS0vyJdbt"
-      },
-      "artists": [
-        {
-          "name": "Andrea Mir",
-          "url": "https://open.spotify.com/artist/6i4kEOvhG0iB0JhqY2r4vf"
-        }
-      ],
-      "duration_ms": 194560,
-      "name": "TE MISSEO",
-      "url": "https://open.spotify.com/track/3bi8iYbc7r3cfiAJWc4INV"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Canicarchy The Animation",
         "url": "https://open.spotify.com/album/7xuor3seMazG92AD7NAalX"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 132880,
       "name": "Cicatrices",
       "url": "https://open.spotify.com/track/1fAE31fMpHsoQYRVxQdzuZ"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "ALAS Y GARRAS",
+        "url": "https://open.spotify.com/album/1jGCunUecbzbpPS0vyJdbt"
+      },
+      "artists": [
+        {
+          "name": "Andrea Mir",
+          "url": "https://open.spotify.com/artist/6i4kEOvhG0iB0JhqY2r4vf"
+        }
+      ],
+      "duration_ms": 194560,
+      "name": "TE MISSEO",
+      "url": "https://open.spotify.com/track/3bi8iYbc7r3cfiAJWc4INV"
     }
   ],
   "unique_name": "helium",

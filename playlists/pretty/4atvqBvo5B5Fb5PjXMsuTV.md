@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/4atvqBvo5B5Fb5PjXMsuTV.md) - [plain]
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Updated 21 Jul 22:02 UTC.
+> Latest popular single releases\. Updated 21 Jul 04:02 UTC.
 
 [Listige](https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis) - 79 likes - 25 songs - 1 hr 18 min
 
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/4atvqBvo5B5Fb5PjXMsuTV.md) - [plain]
 | 24 | [GENESIS](https://open.spotify.com/track/1Jijb30txJ6YZNe5DTu3Lb) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [GENESIS](https://open.spotify.com/album/0lauCMMmgQpzDyQxqhXLuH) | 3:13 |
 | 25 | [i thought we were past it](https://open.spotify.com/track/439MGAoj7xH45di7vW4PZX) | [Darko](https://open.spotify.com/artist/63dmB3SM4vOZ8rK1EX5IkU) | [i thought we were past it](https://open.spotify.com/album/0YwALAwuXNU547gXHqnMjQ) | 2:46 |
 
-Snapshot ID: `AAAJ1VP9Dwv/ddrNk1vBy+K8VX0asSlK`
+Snapshot ID: `AAAJ1nDjkmI7o+obXAuTdjS1rAYIQmjJ`

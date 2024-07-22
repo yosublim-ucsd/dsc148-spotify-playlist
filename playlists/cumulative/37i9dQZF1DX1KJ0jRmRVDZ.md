@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,161 songs - 2 day 18 hr 12 min
+1,162 songs - 2 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,7 +482,7 @@
 | [なにやってもうまくいかない](https://open.spotify.com/track/2ILz4eU7UCTv0Wup7F5lVt) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [なにやってもうまくいかない](https://open.spotify.com/album/0L3CTv09dL9iJL35WNzGXv) | 2:26 | 2022-07-14 | 2023-01-06 |
 | [なにやってもうまくいかない feat.asmi](https://open.spotify.com/track/6QLMizE79f7VfKKnuMYxez) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [100回嘔吐](https://open.spotify.com/artist/7dH8GwbARXVbB3wuwUiX08) | [なにやってもうまくいかない feat.asmi](https://open.spotify.com/album/0spGhgCjnIuHwohs1QVuDO) | 2:28 | 2022-06-14 | 2022-07-11 |
 | [なまけもの](https://open.spotify.com/track/1iwU4xlV62g7vlht0Dqfk6) | [niKu](https://open.spotify.com/artist/22geWzdiGIPezlnNgoifJM) | [なまけもの](https://open.spotify.com/album/0Pirwc5nLJk0hOBGHK3f9B) | 3:10 | 2022-07-24 | 2022-07-26 |
-| [なんもない \(feat\. 星街すいせい, sakuma.\)](https://open.spotify.com/track/1YHmGQGyNmFAsVAgPckYxF) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX), [sakuma.](https://open.spotify.com/artist/28dIdhPktpaNDZlLD41cLj) | [なんもない \(feat\. 星街すいせい, sakuma.\)](https://open.spotify.com/album/57Hvt5oeXrOauE7NZgd4lm) | 3:37 | 2024-04-30 |  |
+| [なんもない \(feat\. 星街すいせい, sakuma.\)](https://open.spotify.com/track/1YHmGQGyNmFAsVAgPckYxF) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX), [sakuma.](https://open.spotify.com/artist/28dIdhPktpaNDZlLD41cLj) | [なんもない \(feat\. 星街すいせい, sakuma.\)](https://open.spotify.com/album/57Hvt5oeXrOauE7NZgd4lm) | 3:37 | 2024-04-30 | 2024-07-22 |
 | [ねぐせ](https://open.spotify.com/track/2ZWvzYy2iWIpCDlYHuJKih) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw), [ZETTAKUN](https://open.spotify.com/artist/7yXfTS7XSd7lqCBxjhXeqo) | [ねぐせ](https://open.spotify.com/album/1tXsfWmwLT0UpUtD1lf09K) | 3:38 | 2022-06-09 | 2022-07-28 |
 | [はなにあらし](https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [はなにあらし](https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk) | 4:32 | 2023-11-07 | 2024-01-19 |
 | [ばかじゃないのに](https://open.spotify.com/track/2UkcZV07LP39NQg9tGBvnh) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ばかじゃないのに](https://open.spotify.com/album/6XY8TrEZf0R3xnm6kouGzT) | 4:16 | 2022-06-28 | 2022-07-27 |
@@ -1028,6 +1028,7 @@
 | [生命謳歌](https://open.spotify.com/track/4ds7UtHjZaDOqrNfDvEAFu) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [贅沢](https://open.spotify.com/album/4veTaGfANaofpm4qHiNnah) | 3:09 | 2023-04-25 | 2023-04-27 |
 | [生存](https://open.spotify.com/track/6nUFA6RjYu2i7um1C4Mx9V) | [ヰ世界情緒](https://open.spotify.com/artist/0ZTvnZCr6Njbsmn9Xx4Y0U), [春猿火](https://open.spotify.com/artist/39fp9WgXJxPo1pYxt96w6l), [V.W.P](https://open.spotify.com/artist/2WEdpSG62DEFsMhN4iw5P1) | [生存](https://open.spotify.com/album/6oSDIdniGff9ECq3dMsL3q) | 3:05 | 2023-05-16 | 2023-06-21 |
 | [病みモード](https://open.spotify.com/track/4QKQ5TFUWbszXlPLiIJ9Fw) | [ぱーてぃー韻きゃ](https://open.spotify.com/artist/72V55VMTQr63qFnf8dUD8q) | [病みモード](https://open.spotify.com/album/2nUqm5j2LQJgu6TLYOWtKk) | 2:46 | 2023-08-01 | 2023-11-16 |
+| [痛いの痛いの飛んでいけ](https://open.spotify.com/track/5Mi5wHBGH7ck5EghEhHIV1) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [痛いの痛いの飛んでいけ](https://open.spotify.com/album/3CM6XVo41OSyfplg443RRj) | 3:36 | 2024-07-15 |  |
 | [痛いの痛いの飛んでいけ](https://open.spotify.com/track/5sCpOWy1H179Iw95PoP7PS) | [ふたりごと](https://open.spotify.com/artist/0yGH6SpQ0FRgHtdNu11fjI) | [Out of body](https://open.spotify.com/album/71LKMdmI4PfOf60lPI5PrK) | 3:34 | 2022-06-16 | 2022-06-22 |
 | [白い蝉](https://open.spotify.com/track/1NC6YtHbDdREN4pZB2GzPl) | [majiko](https://open.spotify.com/artist/6HX4Jrnb0WhEv9goeGoh6p) | [白い蝉](https://open.spotify.com/album/4wwRPFYc7N4LjWjBV8rVql) | 4:12 | 2022-06-23 | 2022-07-03 |
 | [白夜](https://open.spotify.com/track/62zbaLNH7hDTP5yccPyuu0) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [白夜](https://open.spotify.com/album/5zgnygQTqF3Jxx7xG6Q7sT) | 3:43 | 2022-07-26 | 2022-07-29 |

@@ -1,6 +1,6 @@
 {
   "description": "Enmascarados, Pin-Up Girls, Engrasados y Surfers en un mismo lugar ",
-  "num_followers": 73503,
+  "num_followers": 73522,
   "original_name": "Surf y Rockabilly ",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,22 @@
     {
       "added_at": "2024-07-18 01:04:55",
       "album": {
+        "name": "60s Rock Instrumental Collection, Vol. 2",
+        "url": "https://open.spotify.com/album/4rsapx0Krcb08U1NubmC6f"
+      },
+      "artists": [
+        {
+          "name": "The Ventures",
+          "url": "https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35"
+        }
+      ],
+      "duration_ms": 233466,
+      "name": "Wipeout",
+      "url": "https://open.spotify.com/track/7MDhNSelA2xaMH60WCypF4"
+    },
+    {
+      "added_at": "2024-07-18 01:04:55",
+      "album": {
         "name": "Bestiario de Santa Lucia",
         "url": "https://open.spotify.com/album/7hHBljFGjPZxIgOQ9MjK4a"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 203680,
       "name": "Shell Island",
       "url": "https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I"
-    },
-    {
-      "added_at": "2024-07-18 01:04:55",
-      "album": {
-        "name": "60s Rock Instrumental Collection, Vol. 2",
-        "url": "https://open.spotify.com/album/4rsapx0Krcb08U1NubmC6f"
-      },
-      "artists": [
-        {
-          "name": "The Ventures",
-          "url": "https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35"
-        }
-      ],
-      "duration_ms": 233466,
-      "name": "Wipeout",
-      "url": "https://open.spotify.com/track/7MDhNSelA2xaMH60WCypF4"
     },
     {
       "added_at": "2024-07-18 01:04:55",
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-07-18 01:04:55",
       "album": {
-        "name": "Surf Extremo",
-        "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
-      },
-      "artists": [
-        {
-          "name": "Sr. Bikini",
-          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
-        }
-      ],
-      "duration_ms": 139400,
-      "name": "Fuera Ropa",
-      "url": "https://open.spotify.com/track/0DeOs4UCe0TzOKMkheHMlU"
-    },
-    {
-      "added_at": "2024-07-18 01:04:55",
-      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/42JQLLWxQEO4FWNUIF5etd"
       },
@@ -295,22 +279,6 @@
     {
       "added_at": "2024-07-18 01:04:55",
       "album": {
-        "name": "The Incredible Crocotiger",
-        "url": "https://open.spotify.com/album/3j7XTxpkvKB3bkkkLQmP5P"
-      },
-      "artists": [
-        {
-          "name": "Messer Chups",
-          "url": "https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl"
-        }
-      ],
-      "duration_ms": 170160,
-      "name": "Magneto",
-      "url": "https://open.spotify.com/track/6QpUKeuW5YxcQ5m3r9lwBl"
-    },
-    {
-      "added_at": "2024-07-18 01:04:55",
-      "album": {
         "name": "Rebel Cats Y Sus Amigos",
         "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
       },
@@ -327,6 +295,38 @@
       "duration_ms": 220826,
       "name": "Cuando No Estoy Contigo",
       "url": "https://open.spotify.com/track/2919sjFdazH79snBQfS7jZ"
+    },
+    {
+      "added_at": "2024-07-18 01:04:55",
+      "album": {
+        "name": "Surf Extremo",
+        "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
+      },
+      "artists": [
+        {
+          "name": "Sr. Bikini",
+          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
+        }
+      ],
+      "duration_ms": 139400,
+      "name": "Fuera Ropa",
+      "url": "https://open.spotify.com/track/0DeOs4UCe0TzOKMkheHMlU"
+    },
+    {
+      "added_at": "2024-07-18 01:04:55",
+      "album": {
+        "name": "The Incredible Crocotiger",
+        "url": "https://open.spotify.com/album/3j7XTxpkvKB3bkkkLQmP5P"
+      },
+      "artists": [
+        {
+          "name": "Messer Chups",
+          "url": "https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl"
+        }
+      ],
+      "duration_ms": 170160,
+      "name": "Magneto",
+      "url": "https://open.spotify.com/track/6QpUKeuW5YxcQ5m3r9lwBl"
     },
     {
       "added_at": "2024-07-18 01:04:55",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-07-18 01:04:55",
       "album": {
-        "name": "Daikaiju",
-        "url": "https://open.spotify.com/album/2JeW42eEkcpxw1UHvZFfVG"
-      },
-      "artists": [
-        {
-          "name": "Daikaiju",
-          "url": "https://open.spotify.com/artist/1boMjUeqvfISOyhMtR89QC"
-        }
-      ],
-      "duration_ms": 506360,
-      "name": "Farewell to Monster Island",
-      "url": "https://open.spotify.com/track/4L84ElkLcocqS6iuQjbL9m"
-    },
-    {
-      "added_at": "2024-07-18 01:04:55",
-      "album": {
         "name": "Surf Party: Best Of The Surfaris - Live!",
         "url": "https://open.spotify.com/album/6Sxn3U1oloIaKAZl8pc0Y4"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 162906,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/6iBdawbfBxb7op85Ydd9C7"
+    },
+    {
+      "added_at": "2024-07-18 01:04:55",
+      "album": {
+        "name": "Daikaiju",
+        "url": "https://open.spotify.com/album/2JeW42eEkcpxw1UHvZFfVG"
+      },
+      "artists": [
+        {
+          "name": "Daikaiju",
+          "url": "https://open.spotify.com/artist/1boMjUeqvfISOyhMtR89QC"
+        }
+      ],
+      "duration_ms": 506360,
+      "name": "Farewell to Monster Island",
+      "url": "https://open.spotify.com/track/4L84ElkLcocqS6iuQjbL9m"
     },
     {
       "added_at": "2024-07-18 01:04:55",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-07-18 01:04:55",
       "album": {
-        "name": "Surf Extremo",
-        "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
-      },
-      "artists": [
-        {
-          "name": "Sr. Bikini",
-          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
-        }
-      ],
-      "duration_ms": 116013,
-      "name": "Tiki Surf",
-      "url": "https://open.spotify.com/track/1OAcBwfDqJXWOawfaSfark"
-    },
-    {
-      "added_at": "2024-07-18 01:04:55",
-      "album": {
         "name": "Hay Una Cobra En Mi Sopa",
         "url": "https://open.spotify.com/album/1p3Z6K9Iei8L6RyaaFJUdr"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": "2024-07-18 01:04:55",
       "album": {
+        "name": "Surf Extremo",
+        "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
+      },
+      "artists": [
+        {
+          "name": "Sr. Bikini",
+          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
+        }
+      ],
+      "duration_ms": 116013,
+      "name": "Tiki Surf",
+      "url": "https://open.spotify.com/track/1OAcBwfDqJXWOawfaSfark"
+    },
+    {
+      "added_at": "2024-07-18 01:04:55",
+      "album": {
         "name": "Daikaiju",
         "url": "https://open.spotify.com/album/2JeW42eEkcpxw1UHvZFfVG"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 209746,
       "name": "The Trouble With Those Mothra Girls",
       "url": "https://open.spotify.com/track/5DS76z4SSW8MWAyl9NVqMg"
-    },
-    {
-      "added_at": "2024-07-18 01:04:55",
-      "album": {
-        "name": "Taste the Blood of Guitaracula",
-        "url": "https://open.spotify.com/album/36Zg5IWSFPezDutbYpwrfB"
-      },
-      "artists": [
-        {
-          "name": "Messer Chups",
-          "url": "https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl"
-        }
-      ],
-      "duration_ms": 165720,
-      "name": "Surf De L'amour",
-      "url": "https://open.spotify.com/track/08qSIeJEOg3aQaDN4xii9C"
     },
     {
       "added_at": "2024-07-18 01:04:55",
@@ -687,18 +671,18 @@
     {
       "added_at": "2024-07-18 01:04:55",
       "album": {
-        "name": "Surf Extremo",
-        "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
+        "name": "Maremoto Shake",
+        "url": "https://open.spotify.com/album/0bPZLplqluqn69ynqcyye9"
       },
       "artists": [
         {
-          "name": "Sr. Bikini",
-          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
+          "name": "Lost Acapulco",
+          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
         }
       ],
-      "duration_ms": 126626,
-      "name": "Surfin Beer",
-      "url": "https://open.spotify.com/track/230qkv2nzn62ejlAFo3flv"
+      "duration_ms": 183164,
+      "name": "Maremoto Shake",
+      "url": "https://open.spotify.com/track/0mcyq6bCHGF08smeC1B72k"
     },
     {
       "added_at": "2024-07-18 01:04:55",
@@ -735,6 +719,22 @@
     {
       "added_at": "2024-07-18 01:04:55",
       "album": {
+        "name": "Taste the Blood of Guitaracula",
+        "url": "https://open.spotify.com/album/36Zg5IWSFPezDutbYpwrfB"
+      },
+      "artists": [
+        {
+          "name": "Messer Chups",
+          "url": "https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl"
+        }
+      ],
+      "duration_ms": 165720,
+      "name": "Surf De L'amour",
+      "url": "https://open.spotify.com/track/08qSIeJEOg3aQaDN4xii9C"
+    },
+    {
+      "added_at": "2024-07-18 01:04:55",
+      "album": {
         "name": "Surf Club",
         "url": "https://open.spotify.com/album/6VY5SB42zlUxmSKWzTnboL"
       },
@@ -751,38 +751,18 @@
     {
       "added_at": "2024-07-18 01:04:55",
       "album": {
-        "name": "Maremoto Shake",
-        "url": "https://open.spotify.com/album/0bPZLplqluqn69ynqcyye9"
+        "name": "Surf Extremo",
+        "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
       },
       "artists": [
         {
-          "name": "Lost Acapulco",
-          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
+          "name": "Sr. Bikini",
+          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
         }
       ],
-      "duration_ms": 183164,
-      "name": "Maremoto Shake",
-      "url": "https://open.spotify.com/track/0mcyq6bCHGF08smeC1B72k"
-    },
-    {
-      "added_at": "2024-07-18 01:04:55",
-      "album": {
-        "name": "Rebel Cats Y Sus Amigos",
-        "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
-      },
-      "artists": [
-        {
-          "name": "Rebel Cats",
-          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
-        },
-        {
-          "name": "Fr\u00e1ncisco Familiar",
-          "url": "https://open.spotify.com/artist/6inDzeziUIxChspv3DEKtJ"
-        }
-      ],
-      "duration_ms": 162013,
-      "name": "Hombre Lobo Adolescente",
-      "url": "https://open.spotify.com/track/1lVcqcdXrOqqtKyF8HoCWF"
+      "duration_ms": 126626,
+      "name": "Surfin Beer",
+      "url": "https://open.spotify.com/track/230qkv2nzn62ejlAFo3flv"
     },
     {
       "added_at": "2024-07-18 01:04:55",
@@ -819,6 +799,26 @@
     {
       "added_at": "2024-07-18 01:04:55",
       "album": {
+        "name": "Rebel Cats Y Sus Amigos",
+        "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
+      },
+      "artists": [
+        {
+          "name": "Rebel Cats",
+          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
+        },
+        {
+          "name": "Fr\u00e1ncisco Familiar",
+          "url": "https://open.spotify.com/artist/6inDzeziUIxChspv3DEKtJ"
+        }
+      ],
+      "duration_ms": 162013,
+      "name": "Hombre Lobo Adolescente",
+      "url": "https://open.spotify.com/track/1lVcqcdXrOqqtKyF8HoCWF"
+    },
+    {
+      "added_at": "2024-07-18 01:04:55",
+      "album": {
         "name": "Savage Island!",
         "url": "https://open.spotify.com/album/6rYOpRv7EjECzIvQIoV6rN"
       },
@@ -851,18 +851,18 @@
     {
       "added_at": "2024-07-18 01:04:55",
       "album": {
-        "name": "Bomber Man",
-        "url": "https://open.spotify.com/album/0qr2U0eP1wOtJ8xRJHxsVe"
+        "name": "Tequila Connection 3",
+        "url": "https://open.spotify.com/album/1jzDxQ0X1yNxjcg7mKEhlC"
       },
       "artists": [
         {
-          "name": "Sr. Bikini",
-          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
+          "name": "Lost Acapulco",
+          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
         }
       ],
-      "duration_ms": 134443,
-      "name": "Bomber Man",
-      "url": "https://open.spotify.com/track/3Df8hnLQLwribk4gDnwcKU"
+      "duration_ms": 183306,
+      "name": "El Garage de Gina Monster",
+      "url": "https://open.spotify.com/track/6L6npzAT4Cd8cD0U2n8Fgk"
     },
     {
       "added_at": "2024-07-18 01:04:55",
@@ -883,38 +883,6 @@
     {
       "added_at": "2024-07-18 01:04:55",
       "album": {
-        "name": "La Dosis Perfecta",
-        "url": "https://open.spotify.com/album/6YCHADzZp1iYWHO1fpPjOn"
-      },
-      "artists": [
-        {
-          "name": "Rebel Cats",
-          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "La Dosis Perfecta",
-      "url": "https://open.spotify.com/track/3pTHO0Q5QlixCL2eGbx1kl"
-    },
-    {
-      "added_at": "2024-07-18 01:04:55",
-      "album": {
-        "name": "Tequila Connection 3",
-        "url": "https://open.spotify.com/album/1jzDxQ0X1yNxjcg7mKEhlC"
-      },
-      "artists": [
-        {
-          "name": "Lost Acapulco",
-          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
-        }
-      ],
-      "duration_ms": 183306,
-      "name": "El Garage de Gina Monster",
-      "url": "https://open.spotify.com/track/6L6npzAT4Cd8cD0U2n8Fgk"
-    },
-    {
-      "added_at": "2024-07-18 01:04:55",
-      "album": {
         "name": "Langhorns",
         "url": "https://open.spotify.com/album/5kQLgTlaXTkcq27zaGTSk4"
       },
@@ -931,18 +899,34 @@
     {
       "added_at": "2024-07-18 01:04:55",
       "album": {
-        "name": "Costa Ventura",
-        "url": "https://open.spotify.com/album/3H3HevJCx1bRHJe4RFLg7W"
+        "name": "Bomber Man",
+        "url": "https://open.spotify.com/album/0qr2U0eP1wOtJ8xRJHxsVe"
       },
       "artists": [
         {
-          "name": "Dr. Trit\u00f3n",
-          "url": "https://open.spotify.com/artist/3oQhj5KP8pCIdvVEmvhZKM"
+          "name": "Sr. Bikini",
+          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
         }
       ],
-      "duration_ms": 221170,
-      "name": "Costa Ventura",
-      "url": "https://open.spotify.com/track/6GYggbJfsWS37wTzs9sdaV"
+      "duration_ms": 134443,
+      "name": "Bomber Man",
+      "url": "https://open.spotify.com/track/3Df8hnLQLwribk4gDnwcKU"
+    },
+    {
+      "added_at": "2024-07-18 01:04:55",
+      "album": {
+        "name": "La Dosis Perfecta",
+        "url": "https://open.spotify.com/album/6YCHADzZp1iYWHO1fpPjOn"
+      },
+      "artists": [
+        {
+          "name": "Rebel Cats",
+          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "La Dosis Perfecta",
+      "url": "https://open.spotify.com/track/3pTHO0Q5QlixCL2eGbx1kl"
     },
     {
       "added_at": "2024-07-18 01:04:55",
@@ -975,6 +959,22 @@
       "duration_ms": 123107,
       "name": "Swan's Lake",
       "url": "https://open.spotify.com/track/2dMCzVJOAAo0gUDWzBAIPR"
+    },
+    {
+      "added_at": "2024-07-18 01:04:55",
+      "album": {
+        "name": "Costa Ventura",
+        "url": "https://open.spotify.com/album/3H3HevJCx1bRHJe4RFLg7W"
+      },
+      "artists": [
+        {
+          "name": "Dr. Trit\u00f3n",
+          "url": "https://open.spotify.com/artist/3oQhj5KP8pCIdvVEmvhZKM"
+        }
+      ],
+      "duration_ms": 221170,
+      "name": "Costa Ventura",
+      "url": "https://open.spotify.com/track/6GYggbJfsWS37wTzs9sdaV"
     },
     {
       "added_at": "2024-07-18 01:04:55",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-07-18 01:04:55",
       "album": {
+        "name": "I Wanna Believe",
+        "url": "https://open.spotify.com/album/6EnAmJs0JJSoXNchktGik8"
+      },
+      "artists": [
+        {
+          "name": "Corizonas",
+          "url": "https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Piangi Con Me",
+      "url": "https://open.spotify.com/track/4K5Yo0mU2jOFUEQ7MnWUEB"
+    },
+    {
+      "added_at": "2024-07-18 01:04:55",
+      "album": {
         "name": "Las Mejores Olas",
         "url": "https://open.spotify.com/album/3ZWimjUwLvF5ONvMj2gWYt"
       },
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2024-07-18 01:04:55",
       "album": {
-        "name": "The News Today",
-        "url": "https://open.spotify.com/album/5RHDJFdQC90EIRn682wXXN"
-      },
-      "artists": [
-        {
-          "name": "Corizonas",
-          "url": "https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP"
-        }
-      ],
-      "duration_ms": 190293,
-      "name": "The Falcon Sleeps Tonight",
-      "url": "https://open.spotify.com/track/4toFjXCMOTkZrw36kzixHy"
-    },
-    {
-      "added_at": "2024-07-18 01:04:55",
-      "album": {
         "name": "The Octopus Incident? (This Was the Day That Engulfed the Space in Terror)",
         "url": "https://open.spotify.com/album/1YwgzJrFjMNnCedQPETpE0"
       },
@@ -1091,22 +1091,6 @@
       "duration_ms": 158386,
       "name": "Pintor",
       "url": "https://open.spotify.com/track/41APmx0ZZyNS9ARvS2R0ad"
-    },
-    {
-      "added_at": "2024-07-18 01:04:55",
-      "album": {
-        "name": "Mil Navajas",
-        "url": "https://open.spotify.com/album/5Ul9BEPWYLF6K27B1pMnfI"
-      },
-      "artists": [
-        {
-          "name": "El General Villamil",
-          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Mil Navajas",
-      "url": "https://open.spotify.com/track/3AmJoBwYvzfIGRD708ayaa"
     },
     {
       "added_at": "2024-07-18 01:04:55",
@@ -1131,22 +1115,18 @@
     {
       "added_at": "2024-07-18 01:04:55",
       "album": {
-        "name": "Rocket Song",
-        "url": "https://open.spotify.com/album/7mM4xNYZMMZO79JxEzI5aw"
+        "name": "Mil Navajas",
+        "url": "https://open.spotify.com/album/5Ul9BEPWYLF6K27B1pMnfI"
       },
       "artists": [
         {
-          "name": "Lasser Drakar",
-          "url": "https://open.spotify.com/artist/5PMSq3OgSznXoYCWcszP7K"
-        },
-        {
-          "name": "Stag Girls",
-          "url": "https://open.spotify.com/artist/3x3erz9ReUd13rHrUh76o5"
+          "name": "El General Villamil",
+          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Rocket Song",
-      "url": "https://open.spotify.com/track/0yvPC1XEX2lnY3dFpuRgkN"
+      "duration_ms": 300000,
+      "name": "Mil Navajas",
+      "url": "https://open.spotify.com/track/3AmJoBwYvzfIGRD708ayaa"
     },
     {
       "added_at": "2024-07-18 01:04:55",
@@ -1163,6 +1143,26 @@
       "duration_ms": 224151,
       "name": "Soy Pandillero",
       "url": "https://open.spotify.com/track/5xeZDsYEOaBWAAFexDACba"
+    },
+    {
+      "added_at": "2024-07-18 01:04:55",
+      "album": {
+        "name": "Rocket Song",
+        "url": "https://open.spotify.com/album/7mM4xNYZMMZO79JxEzI5aw"
+      },
+      "artists": [
+        {
+          "name": "Lasser Drakar",
+          "url": "https://open.spotify.com/artist/5PMSq3OgSznXoYCWcszP7K"
+        },
+        {
+          "name": "Stag Girls",
+          "url": "https://open.spotify.com/artist/3x3erz9ReUd13rHrUh76o5"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Rocket Song",
+      "url": "https://open.spotify.com/track/0yvPC1XEX2lnY3dFpuRgkN"
     },
     {
       "added_at": "2024-07-18 01:04:55",
@@ -1199,8 +1199,8 @@
     {
       "added_at": "2024-07-18 01:04:55",
       "album": {
-        "name": "I Wanna Believe",
-        "url": "https://open.spotify.com/album/6EnAmJs0JJSoXNchktGik8"
+        "name": "The News Today",
+        "url": "https://open.spotify.com/album/5RHDJFdQC90EIRn682wXXN"
       },
       "artists": [
         {
@@ -1208,9 +1208,9 @@
           "url": "https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP"
         }
       ],
-      "duration_ms": 238400,
-      "name": "Piangi Con Me",
-      "url": "https://open.spotify.com/track/4K5Yo0mU2jOFUEQ7MnWUEB"
+      "duration_ms": 190293,
+      "name": "The Falcon Sleeps Tonight",
+      "url": "https://open.spotify.com/track/4toFjXCMOTkZrw36kzixHy"
     },
     {
       "added_at": "2024-07-18 01:04:55",
@@ -1247,18 +1247,22 @@
     {
       "added_at": "2024-07-18 01:04:55",
       "album": {
-        "name": "Surf Vs The Flying Saucers",
-        "url": "https://open.spotify.com/album/1gwqaSqAt3klyYmbATSDNu"
+        "name": "Dos Bandas y un Destino: El Concierto (En Directo)",
+        "url": "https://open.spotify.com/album/7tpauqGPBkR0RHrDhSSH0a"
       },
       "artists": [
         {
-          "name": "Urban Surf Kings",
-          "url": "https://open.spotify.com/artist/2PibVUaJBzKOmP872xVQ02"
+          "name": "Arizona Baby",
+          "url": "https://open.spotify.com/artist/1RzhOKsFwEhVZWR2OmCCqV"
+        },
+        {
+          "name": "Los Coronas",
+          "url": "https://open.spotify.com/artist/47Q90hbpzShTWyi60e6uVN"
         }
       ],
-      "duration_ms": 159946,
-      "name": "Surf Vs. The Flying Saucers",
-      "url": "https://open.spotify.com/track/2M9DsKdenidJeWP1mqcfNq"
+      "duration_ms": 183760,
+      "name": "Runaway - En Directo",
+      "url": "https://open.spotify.com/track/6n9lXiZ7ncFaTQyGV9RaAy"
     }
   ],
   "unique_name": "Surf y Rockabilly ",

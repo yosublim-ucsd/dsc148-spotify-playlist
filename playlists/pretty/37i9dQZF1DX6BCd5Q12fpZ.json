@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 66129,
+  "num_followers": 66127,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "This Is Our Night",
+        "url": "https://open.spotify.com/album/71diCysWyJmFHsEv4ExMwD"
+      },
+      "artists": [
+        {
+          "name": "Sakis Rouvas",
+          "url": "https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe"
+        }
+      ],
+      "duration_ms": 177562,
+      "name": "This Is Our Night",
+      "url": "https://open.spotify.com/track/3KcRTivsw7hbxSRMGDtsMS"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "Bobbysocks / Let It Swing - The Best Of Bobbysocks",
         "url": "https://open.spotify.com/album/1Y5N3dPwHgubECWrFqpG5T"
       },
@@ -715,22 +731,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "This Is Our Night",
-        "url": "https://open.spotify.com/album/71diCysWyJmFHsEv4ExMwD"
-      },
-      "artists": [
-        {
-          "name": "Sakis Rouvas",
-          "url": "https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe"
-        }
-      ],
-      "duration_ms": 177562,
-      "name": "This Is Our Night",
-      "url": "https://open.spotify.com/track/3KcRTivsw7hbxSRMGDtsMS"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Walk On Water",
         "url": "https://open.spotify.com/album/2gdlErpWJdjuXOo4BJg0DV"
       },
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "Young Love",
+        "url": "https://open.spotify.com/album/25yASEbY2Pz60pCnx7l3kx"
+      },
+      "artists": [
+        {
+          "name": "Jedward",
+          "url": "https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Waterline",
+      "url": "https://open.spotify.com/track/0xCMGAf80y3dUevG2qXpvS"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "Au top des ann\u00e9es 80, vol. 1 (30 titres + 5 maxis)",
         "url": "https://open.spotify.com/album/76YvIXe5aWujtislm12yVk"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 189640,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/0lI9LRra3k2RAYrNO0Htcc"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "Young Love",
-        "url": "https://open.spotify.com/album/25yASEbY2Pz60pCnx7l3kx"
-      },
-      "artists": [
-        {
-          "name": "Jedward",
-          "url": "https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Waterline",
-      "url": "https://open.spotify.com/track/0xCMGAf80y3dUevG2qXpvS"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "Golden Boy",
+        "url": "https://open.spotify.com/album/3z1b8cnvUTzTIvyEExYB9s"
+      },
+      "artists": [
+        {
+          "name": "Nadav Guedj",
+          "url": "https://open.spotify.com/artist/0QmOR0TqxMPtZxtaIJ5klY"
+        }
+      ],
+      "duration_ms": 180585,
+      "name": "Golden Boy",
+      "url": "https://open.spotify.com/track/6YWFr8BHQrRL4b7RwuqS36"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "A Million Voices",
         "url": "https://open.spotify.com/album/43rQvK1t3lUDzNhXRLE6bQ"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 180381,
       "name": "A Million Voices",
       "url": "https://open.spotify.com/track/6VlxdfLIfqf7saVOuerWyR"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "Waterloo",
-        "url": "https://open.spotify.com/album/5JGTMU2ovYCxC6nfJbft8W"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Waterloo",
-      "url": "https://open.spotify.com/track/10fRfvMo6WCO9Gaawxy2U9"
     }
   ],
   "unique_name": "Eurovision Party",

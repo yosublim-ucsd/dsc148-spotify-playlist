@@ -4,7 +4,7 @@
 
 > Il meglio della musica indipendente italiana! Cover: <a href="spotify:artist:0ez4Y0vHwlRCrqGIkChC3Q">TÄRA</a>
 
-1,360 songs - 2 day 19 hr 26 min
+1,361 songs - 2 day 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [acqueprofonde](https://open.spotify.com/track/4ZuvQTm6dgEiFzFaifPNpr) | [fluente](https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9) | [acqueprofonde](https://open.spotify.com/album/6rvtAnNNU9HlEJlmVdun7H) | 2:48 | 2024-02-21 | 2024-03-21 |
 | [Acufene](https://open.spotify.com/track/1C41cV6Ue9g7QJGHbk4js0) | [Lepre](https://open.spotify.com/artist/5Trjt6t3hTEwDuczYiwJEx) | [Eremo](https://open.spotify.com/album/3RZAw2MYi7QYdNf51IMMDf) | 3:32 | 2024-01-24 | 2024-02-22 |
 | [Ad asciugare](https://open.spotify.com/track/4CquLzK6GAIk8Lxm7Ncp9h) | [Tashi](https://open.spotify.com/artist/6BHftRBxdUHhG0ByRT8N0f) | [Ad asciugare](https://open.spotify.com/album/1TA2lLIKMZmxbueSYxUSS1) | 3:23 | 2024-03-20 | 2024-04-24 |
+| [Ad Occhi Aperti](https://open.spotify.com/track/3NMAYytFJOcIbYAhdJr3gj) | [Anita Cane Violins](https://open.spotify.com/artist/4o0yqv6vXY7VZiHXFhCBhP) | [Ad Occhi Aperti](https://open.spotify.com/album/5s0su3k09HeBuNPKuyvU47) | 4:03 | 2024-07-18 |  |
 | [adesso](https://open.spotify.com/track/2JgIA29erF0M21VHHR4MtH) | [giovanni pedersini](https://open.spotify.com/artist/7st4Lxa5DqYksukGujvxpr) | [adesso / tardi](https://open.spotify.com/album/7bQfAELBzrVzWVCzQrvaBh) | 3:14 | 2024-04-23 | 2024-05-24 |
 | [ADRENALINFA](https://open.spotify.com/track/3ibFxXx3HhpUUdzRyXmPfx) | [MANTIS](https://open.spotify.com/artist/2B9UBUaerwqqf0y1cAKKkQ), [xx.buio](https://open.spotify.com/artist/79fm1bknXIjgvx5kMmzOm6) | [ADRENALINFA](https://open.spotify.com/album/589tkGaRrkFSgJOakBJbE5) | 3:05 | 2023-01-05 | 2023-01-20 |
 | [Adriatico](https://open.spotify.com/track/60iTrYE4LeA0FWVFXdPvNs) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Adriatico](https://open.spotify.com/album/5marBpgCvBOm8LjeWEwW1k) | 3:46 | 2023-10-03 | 2023-11-01 |
@@ -1120,7 +1121,7 @@
 | [SETTESATANICHE](https://open.spotify.com/track/2p3LzX6cbB8gm6DnUExMYb) | [MIVERGOGNO](https://open.spotify.com/artist/2ViO7phpBZJNKwhNqoWSau) | [SETTESATANICHE](https://open.spotify.com/album/7mdSGcuQMbN0jsauoOnSpw) | 2:29 | 2023-01-05 | 2023-01-27 |
 | [Setting Of The Sun](https://open.spotify.com/track/3HVINZ2GShhkChl0Sn7Rap) | [Guinevere](https://open.spotify.com/artist/0SdOBSTmq4qpS3Qxb6NvDn) | [Setting Of The Sun](https://open.spotify.com/album/1SFOLRKr22IA7QvXy8mLLS) | 7:23 | 2022-10-10 | 2022-12-01 |
 | [Sfumature](https://open.spotify.com/track/31fg9suyzjQLRhAB1cfdZ5) | [Clemente Guidi](https://open.spotify.com/artist/5bOuFPnpoGm6xl7m2KjCly) | [Sfumature](https://open.spotify.com/album/4jyoROijt42YMlLUMBKNss) | 3:20 | 2023-10-03 | 2023-11-01 |
-| [si dai però](https://open.spotify.com/track/556yPQfa994qWfw6X1ctsf) | [Leanò](https://open.spotify.com/artist/0pb0sehd5pPALyoCt8B4MV) | [si dai però](https://open.spotify.com/album/2wJBHBlSfOPMDheHJknHwH) | 2:22 | 2024-05-23 |  |
+| [si dai però](https://open.spotify.com/track/556yPQfa994qWfw6X1ctsf) | [Leanò](https://open.spotify.com/artist/0pb0sehd5pPALyoCt8B4MV) | [si dai però](https://open.spotify.com/album/2wJBHBlSfOPMDheHJknHwH) | 2:22 | 2024-05-23 | 2024-07-22 |
 | [Si putesse](https://open.spotify.com/track/5i4tKtK3OnM5PM0KjWM5FN) | [Rayo](https://open.spotify.com/artist/4wa7qisFQVyHvGnE93JrDA) | [Si putesse](https://open.spotify.com/album/4Ac6H4rfj4AMQO0rxOEmIJ) | 2:57 | 2023-11-21 | 2024-01-25 |
 | [SIAMO RAGAZZU](https://open.spotify.com/track/7FluC0cEpmpyWEAlXMbrCT) | [fantahouse](https://open.spotify.com/artist/4KpMCwaKuRFMJ9wtf9gujd) | [SIAMO RAGAZZU](https://open.spotify.com/album/0SM2IfzvxEGCQGqq8ort9o) | 1:34 | 2022-01-31 | 2022-04-09 |
 | [Sides](https://open.spotify.com/track/2ne1ojKyDKMMvD4VSDYvzf) | [Danxgerous](https://open.spotify.com/artist/0Gt3wzw2zPVUVVAhGkeLuT) | [Sides](https://open.spotify.com/album/2a8G9pLND6ILoopArfwy3k) | 3:06 | 2024-02-21 | 2024-03-21 |

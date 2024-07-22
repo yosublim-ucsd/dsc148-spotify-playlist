@@ -334,7 +334,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 191373,
-      "name": "Crown",
+      "name": "Crown (feat. Jamila Velazquez, Raquel Castro & Yani Marin)",
       "url": "https://open.spotify.com/track/75nhw5YxdMeEE9cj9AjyHR"
     },
     {
@@ -641,28 +641,6 @@
     },
     {
       "album": {
-        "name": "Empire: Original Soundtrack, Season 2 Volume 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/5F63FnyDVZcFljjvVRdPd8"
-      },
-      "artists": [
-        {
-          "name": "Empire Cast",
-          "url": "https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA"
-        },
-        {
-          "name": "Jussie Smollett",
-          "url": "https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm"
-        }
-      ],
-      "date_added": "2024-03-01",
-      "date_added_asterisk": false,
-      "date_removed": "2024-07-21",
-      "duration_ms": 185973,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/3K21eqPSN8Fb4SxEnKfEOo"
-    },
-    {
-      "album": {
         "name": "Jesus Piece (Deluxe)",
         "url": "https://open.spotify.com/album/5IBNSiR9VYaGIxOfcOJ2LB"
       },
@@ -682,6 +660,28 @@
       "duration_ms": 346880,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/1Y7PcAoFbvlTWGX75kzyf5"
+    },
+    {
+      "album": {
+        "name": "Empire: Original Soundtrack, Season 2 Volume 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/5F63FnyDVZcFljjvVRdPd8"
+      },
+      "artists": [
+        {
+          "name": "Empire Cast",
+          "url": "https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA"
+        },
+        {
+          "name": "Jussie Smollett",
+          "url": "https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185973,
+      "name": "Freedom (feat. Jussie Smollett)",
+      "url": "https://open.spotify.com/track/3K21eqPSN8Fb4SxEnKfEOo"
     },
     {
       "album": {

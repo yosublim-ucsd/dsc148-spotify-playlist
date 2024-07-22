@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Denzel Curry
 
-[Spotify](https://open.spotify.com/user/spotify) - 948,603 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 948,669 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 15 | [SALAD](https://open.spotify.com/track/29fUrdzF1FqIhk0ZWxyyby) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn), [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [SALAD](https://open.spotify.com/album/0xkWdFSnZVaHICeiGyiVIY) | 2:53 |
 | 16 | [Earwax](https://open.spotify.com/track/6R6QNEIy56zoi5BZkx4OEA) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [11th Dimension](https://open.spotify.com/album/4Ioudl1Qx3fTh5AMOYRBvf) | 1:55 |
 | 17 | [SIN MIEDO](https://open.spotify.com/track/4qAQTQH5lF4kINZ9JkURXp) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [SIN MIEDO](https://open.spotify.com/album/4NBSLYMhwbf5gUSc0ZHKQK) | 2:47 |
-| 18 | [SO WHAT](https://open.spotify.com/track/2ER6bbx6npLHiUPnR5nlgM) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [BACK IN ACTION 4.0](https://open.spotify.com/album/75MyXCYXcmz18Lcq6wEYxq) | 2:58 |
+| 18 | [SO WHAT?](https://open.spotify.com/track/2ER6bbx6npLHiUPnR5nlgM) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [BACK IN ACTION 4.0](https://open.spotify.com/album/75MyXCYXcmz18Lcq6wEYxq) | 2:58 |
 | 19 | [Yoshinoya](https://open.spotify.com/track/2pNYM3OcS7WdCW13TuhMeK) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 3:22 |
 | 20 | [HIT THE FLOOR \(with Ski Mask The Slump God\)](https://open.spotify.com/track/3y4J1NqqwJhxo0xhaBFMCN) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [King Of The Mischievous South Vol\. 2](https://open.spotify.com/album/6LoDd1G8en4TcqdSg7yqrV) | 3:26 |
 | 21 | [don't rely on other men](https://open.spotify.com/track/2RZBNHSfrxyIs8u9ciLKLf) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [don't rely on other men](https://open.spotify.com/album/0S3p06Juu3pFmzpdQbOHOK) | 3:14 |

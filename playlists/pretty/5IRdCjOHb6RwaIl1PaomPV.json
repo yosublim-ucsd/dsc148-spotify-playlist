@@ -1,29 +1,13 @@
 {
   "description": "The latest tracks from Mad Decent and friends. New music from Devon Again and MRD, plus the latest cuts from Miss Madeline, Delachute + more.",
-  "num_followers": 50720,
+  "num_followers": 50716,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "AAAaWRHFIifQZ6RYWE5L7+mLD7aEvmEW",
+  "snapshot_id": "AAAaWvpqWzxkXuNo/g7FjvnyJp8jHUWK",
   "tracks": [
-    {
-      "added_at": "2024-07-14 22:51:47",
-      "album": {
-        "name": "cherry cola / sunburn",
-        "url": "https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn"
-      },
-      "artists": [
-        {
-          "name": "Devon Again",
-          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
-        }
-      ],
-      "duration_ms": 168226,
-      "name": "cherry cola",
-      "url": "https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k"
-    },
     {
       "added_at": "2024-07-14 22:57:40",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 225375,
       "name": "fucking highschool people",
       "url": "https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z"
+    },
+    {
+      "added_at": "2024-07-14 22:51:47",
+      "album": {
+        "name": "cherry cola / sunburn",
+        "url": "https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn"
+      },
+      "artists": [
+        {
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
+        }
+      ],
+      "duration_ms": 168226,
+      "name": "cherry cola",
+      "url": "https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k"
     },
     {
       "added_at": "2024-07-14 23:07:14",

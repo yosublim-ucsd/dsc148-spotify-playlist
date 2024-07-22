@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 555629,
+  "num_followers": 555653,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2024-06-05 07:57:22",
       "album": {
+        "name": "Sorai",
+        "url": "https://open.spotify.com/album/60YDoJUMHjkYtZnPztRvZ1"
+      },
+      "artists": [
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+        }
+      ],
+      "duration_ms": 278333,
+      "name": "Sorai",
+      "url": "https://open.spotify.com/track/3ymuBMTviroWLuf1jMsMVf"
+    },
+    {
+      "added_at": "2024-06-05 07:57:22",
+      "album": {
         "name": "Dunia Batas",
         "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
       },
@@ -483,6 +499,22 @@
       "duration_ms": 342000,
       "name": "Untuk Perempuan Yang Sedang Di Pelukan",
       "url": "https://open.spotify.com/track/0urpBLpcm6DOGzs86rcKd8"
+    },
+    {
+      "added_at": "2024-06-05 07:57:22",
+      "album": {
+        "name": "Surat Cinta Untuk Starla",
+        "url": "https://open.spotify.com/album/6a2Btrft7cIsCHTmSjTiU3"
+      },
+      "artists": [
+        {
+          "name": "Virgoun",
+          "url": "https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f"
+        }
+      ],
+      "duration_ms": 308036,
+      "name": "Surat Cinta Untuk Starla",
+      "url": "https://open.spotify.com/track/5o6StwqqVfG3vRLx8UP310"
     },
     {
       "added_at": "2024-06-05 07:57:22",
@@ -503,22 +535,6 @@
     {
       "added_at": "2024-06-05 07:57:22",
       "album": {
-        "name": "Sorai",
-        "url": "https://open.spotify.com/album/60YDoJUMHjkYtZnPztRvZ1"
-      },
-      "artists": [
-        {
-          "name": "Nadin Amizah",
-          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
-        }
-      ],
-      "duration_ms": 278333,
-      "name": "Sorai",
-      "url": "https://open.spotify.com/track/3ymuBMTviroWLuf1jMsMVf"
-    },
-    {
-      "added_at": "2024-06-05 07:57:22",
-      "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/51PNqOMj1ttmbuZPzxOqSI"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 234386,
       "name": "Perahu Kertas",
       "url": "https://open.spotify.com/track/0InJPuWIYp8fwlBGIQglLf"
-    },
-    {
-      "added_at": "2024-06-05 07:57:22",
-      "album": {
-        "name": "Surat Cinta Untuk Starla",
-        "url": "https://open.spotify.com/album/6a2Btrft7cIsCHTmSjTiU3"
-      },
-      "artists": [
-        {
-          "name": "Virgoun",
-          "url": "https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f"
-        }
-      ],
-      "duration_ms": 308036,
-      "name": "Surat Cinta Untuk Starla",
-      "url": "https://open.spotify.com/track/5o6StwqqVfG3vRLx8UP310"
     },
     {
       "added_at": "2024-06-05 07:57:22",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-06-05 07:57:22",
       "album": {
+        "name": "Dunia Batas",
+        "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
+      },
+      "artists": [
+        {
+          "name": "Payung Teduh",
+          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Berdua Saja",
+      "url": "https://open.spotify.com/track/7tZ69fC235bauF9Dyxk8Ps"
+    },
+    {
+      "added_at": "2024-06-05 07:57:22",
+      "album": {
         "name": "happy",
         "url": "https://open.spotify.com/album/0pVXyvbdicfbAhqKaxsnkd"
       },
@@ -883,6 +899,22 @@
     {
       "added_at": "2024-06-05 07:57:22",
       "album": {
+        "name": "Putus Atau Terus",
+        "url": "https://open.spotify.com/album/1zqYuKvhLBILR5PZdyAMyW"
+      },
+      "artists": [
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        }
+      ],
+      "duration_ms": 248823,
+      "name": "Putus Atau Terus",
+      "url": "https://open.spotify.com/track/7HBW6yX8iRf81nn6NVOzHL"
+    },
+    {
+      "added_at": "2024-06-05 07:57:22",
+      "album": {
         "name": "Cek Toko Sebelah (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5RWbax0hn7iswKdw9FsyAe"
       },
@@ -908,25 +940,9 @@
           "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
         }
       ],
-      "duration_ms": 267000,
-      "name": "Berdua Saja",
-      "url": "https://open.spotify.com/track/7tZ69fC235bauF9Dyxk8Ps"
-    },
-    {
-      "added_at": "2024-06-05 07:57:22",
-      "album": {
-        "name": "Putus Atau Terus",
-        "url": "https://open.spotify.com/album/1zqYuKvhLBILR5PZdyAMyW"
-      },
-      "artists": [
-        {
-          "name": "Judika",
-          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
-        }
-      ],
-      "duration_ms": 248823,
-      "name": "Putus Atau Terus",
-      "url": "https://open.spotify.com/track/7HBW6yX8iRf81nn6NVOzHL"
+      "duration_ms": 306428,
+      "name": "Menuju Senja",
+      "url": "https://open.spotify.com/track/6ctfCjsLBJfadmBH41SFkl"
     },
     {
       "added_at": "2024-06-05 07:57:22",
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2024-06-05 07:57:22",
       "album": {
-        "name": "Dunia Batas",
-        "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
-      },
-      "artists": [
-        {
-          "name": "Payung Teduh",
-          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
-        }
-      ],
-      "duration_ms": 306428,
-      "name": "Menuju Senja",
-      "url": "https://open.spotify.com/track/6ctfCjsLBJfadmBH41SFkl"
-    },
-    {
-      "added_at": "2024-06-05 07:57:22",
-      "album": {
         "name": "Gajah",
         "url": "https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6"
       },
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-06-05 07:57:22",
       "album": {
-        "name": "Monokrom",
-        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 195914,
-      "name": "Cahaya",
-      "url": "https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj"
-    },
-    {
-      "added_at": "2024-06-05 07:57:22",
-      "album": {
         "name": "Cerita Hanin Dhiya",
         "url": "https://open.spotify.com/album/1MFgXbGxEoiVD1FUeOvlKH"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 265518,
       "name": "Tak Ingin Pisah Lagi",
       "url": "https://open.spotify.com/track/67L0rPX2z7n44XBYStoHDg"
+    },
+    {
+      "added_at": "2024-06-05 07:57:22",
+      "album": {
+        "name": "Monokrom",
+        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 195914,
+      "name": "Cahaya",
+      "url": "https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj"
     }
   ],
   "unique_name": "Kopikustik",

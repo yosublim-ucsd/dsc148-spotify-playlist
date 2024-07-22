@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 ### [Indie Arrivals](https://open.spotify.com/playlist/37i9dQZF1DWXuD9SwnM4ac)
 
-> All the new indie tracks worth knowing about\. Cover: Teenage Dads
+> All the new indie tracks worth knowing about\. Cover: GUM & Ambrose Kenny\-Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,898 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,909 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 99 | [Take 2](https://open.spotify.com/track/69TlQZbPEiz8qeq6SSq2v8) | [Eves Karydas](https://open.spotify.com/artist/7MbSdIkdgkwmVxObpCg87e) | [Take 2](https://open.spotify.com/album/0C3rR7bt6GFBsIPBTRymns) | 2:53 |
 | 100 | [Eating Heartache \(feat\. spill tab\)](https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Stop Thinking Start Feeling](https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS) | 2:42 |
 
-Snapshot ID: `ZpnkwAAAAABuHSRUsHJiqvad7ppnbxKR`
+Snapshot ID: `Zp2ioQAAAADzCTep8yTc/UXWXNKgSo9J`

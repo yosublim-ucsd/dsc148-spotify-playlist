@@ -4,7 +4,7 @@
 
 > your new favorite girl group just dropped 📸 Blusher
 
-2,127 songs - 4 day 11 hr 1 min
+2,128 songs - 4 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,7 @@
 | [Break Up](https://open.spotify.com/track/1gp97syO65VxKgH8ew19tb) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [Break Up](https://open.spotify.com/album/3iyrgPqlArYixTFDvb4inx) | 3:34 | 2022-10-07 | 2022-12-03 |
 | [Breakfast With You](https://open.spotify.com/track/7BmSy7lf9pPK1X1y0xfgzo) | [Shannen James](https://open.spotify.com/artist/3FByq9nQILZhHHI8U2n7AE) | [Breakfast With You](https://open.spotify.com/album/64jYA3DliGLlsFdx7Yiv57) | 4:02 | 2022-02-25 | 2022-03-26 |
 | [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 | 2024-07-19 |  |
-| [Breakthrough](https://open.spotify.com/track/3CbTqAhSMl1p41PEx9Tc4E) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [Breakthrough](https://open.spotify.com/album/0ZQ9F867lpLrMArteZet0J) | 2:36 | 2024-02-23 |  |
+| [Breakthrough](https://open.spotify.com/track/3CbTqAhSMl1p41PEx9Tc4E) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [Breakthrough](https://open.spotify.com/album/0ZQ9F867lpLrMArteZet0J) | 2:36 | 2024-02-23 | 2024-07-22 |
 | [breakup song](https://open.spotify.com/track/0UzEXxCeUvdARQhCpbR3EI) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [breakup song](https://open.spotify.com/album/4RoEOdEz9SvEmKTpJHmGoM) | 3:04 | 2022-05-20 | 2022-06-06 |
 | [Breathe Deeper \- Lil Yachty Remix](https://open.spotify.com/track/6GtOsEzNUhJghrIf6UTbRV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Breathe Deeper \(Lil Yachty Remix\)](https://open.spotify.com/album/3Gl28UI0f8xU2DAhaXWz04) | 4:48 | 2021-10-08 | 2022-03-26 |
 | [Bring Back The Beat](https://open.spotify.com/track/10HGnM2Bo6BGYAlcrC6N5O) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Bring Back The Beat](https://open.spotify.com/album/71qCLGh8kLzsm8PrRok8gx) | 3:13 | 2024-06-21 |  |
@@ -437,6 +437,7 @@
 | [d e a d](https://open.spotify.com/track/4syKTHaJJTF1fxvsNJXHHV) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [d e a d](https://open.spotify.com/album/6BoTX3xIgr81kb80R3nkPL) | 2:37 | 2022-10-28 | 2023-01-28 |
 | [Dadada](https://open.spotify.com/track/4SRkixF643LgySLh8owTkJ) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Dadada](https://open.spotify.com/album/0UUBtEMsxJwMQkoYKiFdjK) | 2:11 | 2021-11-05 | 2022-03-12 |
 | [Daddy \(feat\. Quinn XCII\)](https://open.spotify.com/track/4pJzUvwU5ufYr8rLdQ6aYK) | [Tiny Meat Gang](https://open.spotify.com/artist/072QZuLtCqlAesYnOGY7lN), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Daddy \(feat\. Quinn XCII\)](https://open.spotify.com/album/4fRHBAVYfRzVkd9fBqoJLk) | 2:45 | 2021-05-03 | 2022-03-26 |
+| [Daisies](https://open.spotify.com/track/7GldSXuo3pxP6GC7Et7bdw) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Daisies](https://open.spotify.com/album/4ue8ig83KmyEJcxR93qtNy) | 2:22 | 2024-07-19 |  |
 | [Daisies](https://open.spotify.com/track/3xTY1ZFh1md781DtPHodkv) | [Ryan Caraveo](https://open.spotify.com/artist/1PDE2MIJ4M6uvFJDrslazf) | [Daisies](https://open.spotify.com/album/1APeBCt3sawQD09Om6hbqc) | 2:33 | 2021-04-20 | 2022-05-14 |
 | [Daisy Chain](https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI), [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Daisy Chain](https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD) | 2:46 | 2023-06-23 | 2023-08-19 |
 | [Daisy Chains](https://open.spotify.com/track/0pCUjjbww2787QjYwlaD7M) | [Aimée](https://open.spotify.com/artist/6kiGJNxa3SvcQWfCrqL1sb) | [Daisy Chains \(The Summer EP\)](https://open.spotify.com/album/0N9G9tvD1yueaWjpHSVvSQ) | 3:20 | 2024-07-05 |  |

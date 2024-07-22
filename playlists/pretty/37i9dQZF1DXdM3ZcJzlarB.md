@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Peces Raros
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,885 likes - 95 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,884 likes - 95 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

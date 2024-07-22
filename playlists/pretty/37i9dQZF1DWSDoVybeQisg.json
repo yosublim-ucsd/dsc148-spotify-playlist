@@ -1,6 +1,6 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1166524,
+  "num_followers": 1166722,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 130173,
+      "name": "People Are Strange",
+      "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
         "name": "Surrealistic Pillow",
         "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
       },
@@ -159,22 +175,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Strange Days",
-        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 130173,
-      "name": "People Are Strange",
-      "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Buffalo Springfield Again",
         "url": "https://open.spotify.com/album/7hez8jibf36E66GHpFkWz7"
       },
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
-        "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 208466,
-      "name": "Lucy In The Sky With Diamonds - Remastered 2009",
-      "url": "https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Insight Out",
         "url": "https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta"
       },
@@ -255,18 +239,18 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Sunshine Superman",
-        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+        "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
       },
       "artists": [
         {
-          "name": "Donovan",
-          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Sunshine Superman",
-      "url": "https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w"
+      "duration_ms": 208466,
+      "name": "Lucy In The Sky With Diamonds - Remastered 2009",
+      "url": "https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -299,6 +283,22 @@
       "duration_ms": 208666,
       "name": "Crimson & Clover - Single Version",
       "url": "https://open.spotify.com/track/1vXuYPpkLjn1v06E2EsWQY"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "Sunshine Superman",
+        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
+      },
+      "artists": [
+        {
+          "name": "Donovan",
+          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Sunshine Superman",
+      "url": "https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Mothership (Remastered)",
-        "url": "https://open.spotify.com/album/4wExFfncaUIqSgoxnqa3Eh"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 422680,
-      "name": "No Quarter - Remaster",
-      "url": "https://open.spotify.com/track/55ZL7fjGAWfClmpnsK6Xon"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Are You Experienced",
         "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 222293,
       "name": "Manic Depression",
       "url": "https://open.spotify.com/track/3f5JtAsGRIXN8pSAeTi6vA"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "Mothership (Remastered)",
+        "url": "https://open.spotify.com/album/4wExFfncaUIqSgoxnqa3Eh"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 422680,
+      "name": "No Quarter - Remaster",
+      "url": "https://open.spotify.com/track/55ZL7fjGAWfClmpnsK6Xon"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
-        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 312426,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/6d3I7THB2bONUkxOo1DvmZ"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Happy Trails",
         "url": "https://open.spotify.com/album/7d9IZA5hVMlRqkRszYt66r"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 212733,
       "name": "Who Do You Love - Pt. 1",
       "url": "https://open.spotify.com/track/14hykKy6TC9y6chiptCtje"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
+        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 312426,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/6d3I7THB2bONUkxOo1DvmZ"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Green Tambourine",
-        "url": "https://open.spotify.com/album/4rwwZmYuH2XhZDozHksVQw"
-      },
-      "artists": [
-        {
-          "name": "The Lemon Pipers",
-          "url": "https://open.spotify.com/artist/2rUmEpDSHKMhamwClclHs5"
-        }
-      ],
-      "duration_ms": 131133,
-      "name": "Rice Is Nice",
-      "url": "https://open.spotify.com/track/2Lg0cTxmByzQcozvDcayw0"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Wake Up...It's Tomorrow",
         "url": "https://open.spotify.com/album/4DWojULyo8xC7cRB5QjKMm"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 182906,
       "name": "Sit With The Guru",
       "url": "https://open.spotify.com/track/0PKrvcdX7PUgubTWn0LDQ7"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "Green Tambourine",
+        "url": "https://open.spotify.com/album/4rwwZmYuH2XhZDozHksVQw"
+      },
+      "artists": [
+        {
+          "name": "The Lemon Pipers",
+          "url": "https://open.spotify.com/artist/2rUmEpDSHKMhamwClclHs5"
+        }
+      ],
+      "duration_ms": 131133,
+      "name": "Rice Is Nice",
+      "url": "https://open.spotify.com/track/2Lg0cTxmByzQcozvDcayw0"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Bohemian Vendetta",
-        "url": "https://open.spotify.com/album/2fARshM3fpN5Drk6pVdveD"
-      },
-      "artists": [
-        {
-          "name": "Bohemian Vendetta",
-          "url": "https://open.spotify.com/artist/73VmM9R8AtZr2yM6cTkB6c"
-        }
-      ],
-      "duration_ms": 177580,
-      "name": "Riddles and Fairytales",
-      "url": "https://open.spotify.com/track/4Xs7lOyFcLlpaKU0Psu1Rw"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Clear Light (US Internet Release)",
         "url": "https://open.spotify.com/album/5js8Q3QkxR0FT94B64OiCl"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 223960,
       "name": "I'd Love To Change The World",
       "url": "https://open.spotify.com/track/3s9ri7hKv6ijDn2k89veEU"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "Bohemian Vendetta",
+        "url": "https://open.spotify.com/album/2fARshM3fpN5Drk6pVdveD"
+      },
+      "artists": [
+        {
+          "name": "Bohemian Vendetta",
+          "url": "https://open.spotify.com/artist/73VmM9R8AtZr2yM6cTkB6c"
+        }
+      ],
+      "duration_ms": 177580,
+      "name": "Riddles and Fairytales",
+      "url": "https://open.spotify.com/track/4Xs7lOyFcLlpaKU0Psu1Rw"
     },
     {
       "added_at": "2024-07-12 17:17:21",

@@ -967,6 +967,24 @@
     },
     {
       "album": {
+        "name": "Game Of Thrones: Season 4 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109986,
+      "name": "Two Swords",
+      "url": "https://open.spotify.com/track/2tTL5i8WbAHjytktA4NTHR"
+    },
+    {
+      "album": {
         "name": "Game of Thrones: Season 4 (Music from the HBO Series)",
         "url": "https://open.spotify.com/album/7Dp7U0XeSimsNTkvVTcKJl"
       },

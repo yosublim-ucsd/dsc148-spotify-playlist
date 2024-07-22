@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hDC7HCAEdb.md) - [plain]
 
 > The best new alternative sounds from Scotland\. Cover: The Joy Hotel
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,280 likes - 70 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,295 likes - 70 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

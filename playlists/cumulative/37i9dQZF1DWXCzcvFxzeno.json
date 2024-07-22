@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-11",
-  "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Verknipt takeover with tracks 1-20! Get ready for Verknipt Arena.",
+  "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: Sara Landry",
   "name": "Hard Techno",
   "tracks": [
     {
@@ -256,7 +256,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-22",
       "duration_ms": 379200,
       "name": "Bomb Drop Rhythm",
       "url": "https://open.spotify.com/track/6NfF1hLZKtjAiacXN3ZKTE"
@@ -296,7 +296,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-22",
       "duration_ms": 379200,
       "name": "Boundless Space",
       "url": "https://open.spotify.com/track/0DGpsSqGVJO3VIx3dLg4d0"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 282986,
       "name": "Burn",
       "url": "https://open.spotify.com/track/0WSDlDRc8Yex9b2UyTOciK"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-22",
       "duration_ms": 300923,
       "name": "BYEBYE",
       "url": "https://open.spotify.com/track/4pm6fdwvqoUixkk6U0GoLg"
@@ -434,6 +434,28 @@
       "duration_ms": 462324,
       "name": "Calvin Klein",
       "url": "https://open.spotify.com/track/5C69PdWc5YoFWiZV1q9aBR"
+    },
+    {
+      "album": {
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/57bbRzO01n3k5md318EFtK"
+      },
+      "artists": [
+        {
+          "name": "OMAKS",
+          "url": "https://open.spotify.com/artist/41GRjz5PGO2O66R6aHLVhm"
+        },
+        {
+          "name": "CHAST",
+          "url": "https://open.spotify.com/artist/47MfeoK51R2miigq4AtnuB"
+        }
+      ],
+      "date_added": "2024-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246153,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/7wjdC6qnD3sBBJWVIF2tb2"
     },
     {
       "album": {
@@ -506,7 +528,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 313600,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/0YAjsNY7yy3zbvX3HB2cP1"
@@ -634,7 +656,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-22",
       "duration_ms": 210000,
       "name": "Do My Thing",
       "url": "https://open.spotify.com/track/3834nOMPPsVt0EuCuRsvSf"
@@ -998,7 +1020,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 328951,
       "name": "Gimme Some Love",
       "url": "https://open.spotify.com/track/4wAcWlwcrlnTMzpZQ23YjA"
@@ -1074,7 +1096,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-22",
       "duration_ms": 278823,
       "name": "GODD - T78 Remix",
       "url": "https://open.spotify.com/track/7BTU6GDGVz7LDFq0bI24Mm"
@@ -1224,7 +1246,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-22",
       "duration_ms": 318060,
       "name": "High On C",
       "url": "https://open.spotify.com/track/48oFEZWfCjhLQuZHkKwAVW"
@@ -1242,7 +1264,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-22",
       "duration_ms": 148389,
       "name": "Hit The Club",
       "url": "https://open.spotify.com/track/4AlA1z25JYMU1kgmgCc8St"
@@ -1394,7 +1416,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 316478,
       "name": "Levada",
       "url": "https://open.spotify.com/track/4jyL6lRVTyh2j67ObJ0EUH"
@@ -1488,7 +1510,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-22",
       "duration_ms": 234872,
       "name": "Magic Feet",
       "url": "https://open.spotify.com/track/7p7XX2brjwJG6DP4S34EPH"
@@ -1506,7 +1528,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 246062,
       "name": "Massive Attack",
       "url": "https://open.spotify.com/track/2MlYnCsWXwMyVVQMZmYMYr"
@@ -1524,7 +1546,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-22",
       "duration_ms": 319569,
       "name": "Masterclass",
       "url": "https://open.spotify.com/track/08KQZbwrjvdXQrnzv9gxG6"
@@ -1564,7 +1586,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 164082,
       "name": "Meet Her At The Love Parade - Mixed Cut",
       "url": "https://open.spotify.com/track/5KcrlmHmiVV6tzmP8k2W1R"
@@ -1656,7 +1678,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 181870,
       "name": "MUJER",
       "url": "https://open.spotify.com/track/3tCyfFH3PpwDGtXzoGqjJR"
@@ -2118,7 +2140,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 346072,
       "name": "Reverse Bitch",
       "url": "https://open.spotify.com/track/0X5SKepXgvauLJRWxS004t"
@@ -2136,7 +2158,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 353022,
       "name": "Rock & Roll And More Techno",
       "url": "https://open.spotify.com/track/3DKD1qmzLysOK3Yt1vQlgf"
@@ -2308,7 +2330,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 258461,
       "name": "Subspace",
       "url": "https://open.spotify.com/track/67wppGWUHSa72Qfa12LH2r"
@@ -2326,7 +2348,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 183243,
       "name": "Sucia",
       "url": "https://open.spotify.com/track/65Vx8J63EtrVdsJrbGYxIr"
@@ -2420,7 +2442,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-22",
       "duration_ms": 300774,
       "name": "The Banger",
       "url": "https://open.spotify.com/track/3xyBlqKf2LguVQirOd7Fyl"
@@ -2438,7 +2460,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 337454,
       "name": "The Bass",
       "url": "https://open.spotify.com/track/12lZnyC84ht2jq7codKpZy"
@@ -2616,7 +2638,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 366961,
       "name": "Torx",
       "url": "https://open.spotify.com/track/5DhIH97LtpstokHxGHyLht"
@@ -2638,7 +2660,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-22",
       "duration_ms": 236756,
       "name": "Toxic Waste",
       "url": "https://open.spotify.com/track/7szvdSmepMz8QMMBsD5pM2"
@@ -2710,7 +2732,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-22",
       "duration_ms": 314322,
       "name": "Trip To Fantasy",
       "url": "https://open.spotify.com/track/3KexUMzIeo3nfakLvIAx4a"
@@ -2746,7 +2768,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-22",
       "duration_ms": 300250,
       "name": "Unaccepted Complex",
       "url": "https://open.spotify.com/track/7x9FOsf8u8hKP33uuANICq"
@@ -2910,7 +2932,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-22",
       "duration_ms": 301615,
       "name": "Young Birds - Hard Duck Edit",
       "url": "https://open.spotify.com/track/1jxgFyyTRgoMGKRZsJ27bi"

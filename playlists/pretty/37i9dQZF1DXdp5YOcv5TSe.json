@@ -1,6 +1,6 @@
 {
   "description": "The official G2 Esports playlist. Cover: G2 R6",
-  "num_followers": 70514,
+  "num_followers": 70496,
   "original_name": "G2 Esports",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2024-07-03 07:52:33",
       "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/5FfkiNcXAvagExRCLd8nn4"
+      },
+      "artists": [
+        {
+          "name": "The Outfield",
+          "url": "https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y"
+        }
+      ],
+      "duration_ms": 221840,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/5dRQUolXAVX3BbCiIxmSsf"
+    },
+    {
+      "added_at": "2024-07-03 07:52:33",
+      "album": {
         "name": "HARDSTONE PSYCHO",
         "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 218920,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/2RsAajgo0g7bMCHxwH3Sk0"
-    },
-    {
-      "added_at": "2024-07-03 07:52:33",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/5FfkiNcXAvagExRCLd8nn4"
-      },
-      "artists": [
-        {
-          "name": "The Outfield",
-          "url": "https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y"
-        }
-      ],
-      "duration_ms": 221840,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/5dRQUolXAVX3BbCiIxmSsf"
     },
     {
       "added_at": "2024-07-03 07:52:33",
@@ -411,26 +411,6 @@
     {
       "added_at": "2024-07-03 07:52:33",
       "album": {
-        "name": "Ningu\u00e9m T\u00e1 Puro",
-        "url": "https://open.spotify.com/album/6OhCaNW6ldTBX4CWxuoQHk"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "DJ Oreia",
-          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
-        }
-      ],
-      "duration_ms": 87804,
-      "name": "Ningu\u00e9m T\u00e1 Puro",
-      "url": "https://open.spotify.com/track/1Od9NokLPxoWIZKIbImt6P"
-    },
-    {
-      "added_at": "2024-07-03 07:52:33",
-      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/6fN9aKsrArw37XP4Wdiiw6"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 156000,
       "name": "Halo",
       "url": "https://open.spotify.com/track/2kfZCiSWhAYKdxD7o7WLoa"
+    },
+    {
+      "added_at": "2024-07-03 07:52:33",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/6mpTzL80F11TaeU79loRyJ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 191702,
+      "name": "FE!N (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/3KEMjT3QVfKIl4E9DIcrmF"
     },
     {
       "added_at": "2024-07-03 07:52:33",
@@ -479,22 +479,22 @@
     {
       "added_at": "2024-07-03 07:52:33",
       "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/6mpTzL80F11TaeU79loRyJ"
+        "name": "Ningu\u00e9m T\u00e1 Puro",
+        "url": "https://open.spotify.com/album/6OhCaNW6ldTBX4CWxuoQHk"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
         },
         {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+          "name": "DJ Oreia",
+          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
         }
       ],
-      "duration_ms": 191702,
-      "name": "FE!N (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/3KEMjT3QVfKIl4E9DIcrmF"
+      "duration_ms": 87804,
+      "name": "Ningu\u00e9m T\u00e1 Puro",
+      "url": "https://open.spotify.com/track/1Od9NokLPxoWIZKIbImt6P"
     },
     {
       "added_at": "2024-07-03 07:52:33",
@@ -579,30 +579,6 @@
     {
       "added_at": "2024-07-03 07:52:33",
       "album": {
-        "name": "Noite Fria",
-        "url": "https://open.spotify.com/album/0aixHaAcI8UV5vBWmRnLni"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "MC Pipokinha",
-          "url": "https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O"
-        },
-        {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        }
-      ],
-      "duration_ms": 160975,
-      "name": "Noite Fria",
-      "url": "https://open.spotify.com/track/3lT2haeJ7ype7nCJrV96nI"
-    },
-    {
-      "added_at": "2024-07-03 07:52:33",
-      "album": {
         "name": "Hurricane (feat. SHIBUI)",
         "url": "https://open.spotify.com/album/5QGih7kgYuAfmYJROylEX3"
       },
@@ -627,6 +603,30 @@
       "duration_ms": 153222,
       "name": "Hurricane (feat. SHIBUI)",
       "url": "https://open.spotify.com/track/1SlLP2AI4L2oh3VRJfHBpf"
+    },
+    {
+      "added_at": "2024-07-03 07:52:33",
+      "album": {
+        "name": "Noite Fria",
+        "url": "https://open.spotify.com/album/0aixHaAcI8UV5vBWmRnLni"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Pipokinha",
+          "url": "https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        }
+      ],
+      "duration_ms": 160975,
+      "name": "Noite Fria",
+      "url": "https://open.spotify.com/track/3lT2haeJ7ype7nCJrV96nI"
     },
     {
       "added_at": "2024-07-03 07:52:33",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-07-03 07:52:33",
       "album": {
-        "name": "L\u00f6ssi",
-        "url": "https://open.spotify.com/album/3UMyPs5CRDMYIZbJzrhmGa"
-      },
-      "artists": [
-        {
-          "name": "Gettomasa",
-          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "L\u00f6ssi",
-      "url": "https://open.spotify.com/track/2XruMFzX9m7Zup8LStQVlb"
-    },
-    {
-      "added_at": "2024-07-03 07:52:33",
-      "album": {
         "name": "M\u00e9lo",
         "url": "https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 211746,
       "name": "1ntro'p",
       "url": "https://open.spotify.com/track/3BHtZgssaXNil9uATzw76o"
+    },
+    {
+      "added_at": "2024-07-03 07:52:33",
+      "album": {
+        "name": "L\u00f6ssi",
+        "url": "https://open.spotify.com/album/3UMyPs5CRDMYIZbJzrhmGa"
+      },
+      "artists": [
+        {
+          "name": "Gettomasa",
+          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
+        }
+      ],
+      "duration_ms": 235500,
+      "name": "L\u00f6ssi",
+      "url": "https://open.spotify.com/track/2XruMFzX9m7Zup8LStQVlb"
     },
     {
       "added_at": "2024-07-03 07:52:33",
@@ -863,26 +863,6 @@
     {
       "added_at": "2024-07-03 07:52:33",
       "album": {
-        "name": "Meridian",
-        "url": "https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 255160,
-      "name": "Meridian",
-      "url": "https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G"
-    },
-    {
-      "added_at": "2024-07-03 07:52:33",
-      "album": {
         "name": "Shamppanjadieetill\u00e4",
         "url": "https://open.spotify.com/album/4LmcLNXzZ3atEgqWm2qg3l"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 154570,
       "name": "Shamppanjadieetill\u00e4",
       "url": "https://open.spotify.com/track/22KSKT3mCbSiG4RT20ogxB"
+    },
+    {
+      "added_at": "2024-07-03 07:52:33",
+      "album": {
+        "name": "Meridian",
+        "url": "https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 255160,
+      "name": "Meridian",
+      "url": "https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G"
     },
     {
       "added_at": "2024-07-03 07:52:33",

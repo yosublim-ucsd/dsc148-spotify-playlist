@@ -1,12 +1,12 @@
 {
   "description": "This is Vanessa Zamora. The essential tracks, all in one playlist.",
-  "num_followers": 2645,
+  "num_followers": 2646,
   "original_name": "This Is Vanessa Zamora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpmsgAAAAADG5uHU2kwJwWIaa70RJziG",
+  "snapshot_id": "Zpr+AAAAAACcb40+OJjCZDiCZeLFwomR",
   "tracks": [
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 180866,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/6eEzLREEDhrE4ib9JSTNcv"
+      "duration_ms": 218452,
+      "name": "Correr",
+      "url": "https://open.spotify.com/track/3RlWx4MPft8Ienq8JqabJI"
     },
     {
       "added_at": null,
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 218452,
-      "name": "Correr",
-      "url": "https://open.spotify.com/track/3RlWx4MPft8Ienq8JqabJI"
+      "duration_ms": 180866,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/6eEzLREEDhrE4ib9JSTNcv"
     }
   ],
   "unique_name": "This Is Vanessa Zamora",

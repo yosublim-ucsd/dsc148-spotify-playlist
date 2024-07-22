@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: KVSH, CERES
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,246,035 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,246,016 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 10 | [What You Want](https://open.spotify.com/track/5aoy0Xf1ojp3NAaRImuEz8) | [Flux Zone](https://open.spotify.com/artist/5bc0ZhQrLswD1dDqRNvc5S), [Gustavo Koch](https://open.spotify.com/artist/3d81jYgc8CxZ0dN0KC5k6w), [A.IFF](https://open.spotify.com/artist/34qFUgffoclkPOTcCarEiC) | [What You Want](https://open.spotify.com/album/2MV109Ut6kpE4V1DeYw9kS) | 3:50 |
 | 11 | [Presente](https://open.spotify.com/track/2wJFp8plZQfBA9mIXfra14) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Felterz](https://open.spotify.com/artist/7koJQ45fvaUVgY8sdtp9JR), [LEMON DROPS](https://open.spotify.com/artist/50ANvd7tfvmNJf2JhcjguF) | [Presente](https://open.spotify.com/album/76gX9O51yCM96n379aK1j7) | 2:34 |
 | 12 | [Deep Cut](https://open.spotify.com/track/3nZ8NNEHwRmxKbFV7fBeHS) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [EMAD](https://open.spotify.com/artist/6Zs48LypDzoPWJdJhfAenh) | [Deep Cut](https://open.spotify.com/album/3UB8ZF4mBMDiw5N7UGrulF) | 3:33 |
-| 13 | [Papi Tchulo \- Original Mix](https://open.spotify.com/track/1mlpGoO3y9YeeeQPAp5XbL) | [Dubdisko](https://open.spotify.com/artist/6DL4EekcvzJIDIOOQQbe3Z), [Jack Baron](https://open.spotify.com/artist/4pxQgjDzsZiSnSjdxdYPK9) | [Papi Tchulo](https://open.spotify.com/album/2Lf8NGEdvzDfAABAz2MMRM) | 1:58 |
+| 13 | [Papi Tchulo](https://open.spotify.com/track/1mlpGoO3y9YeeeQPAp5XbL) | [Dubdisko](https://open.spotify.com/artist/6DL4EekcvzJIDIOOQQbe3Z), [Jack Baron](https://open.spotify.com/artist/4pxQgjDzsZiSnSjdxdYPK9) | [Papi Tchulo](https://open.spotify.com/album/2Lf8NGEdvzDfAABAz2MMRM) | 1:58 |
 | 14 | [Summer's Back](https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Summer's Back](https://open.spotify.com/album/24XgXT0x8aojo4VyU4OxxO) | 2:27 |
 | 15 | [Body](https://open.spotify.com/track/1SHi3iPwONZQq18svzNFEP) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Body](https://open.spotify.com/album/78kQMZwCWkKfRYI16XjbGW) | 2:30 |
 | 16 | [Nebula](https://open.spotify.com/track/3Flk6mi5DnEG50CXFVGKMH) | [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Nebula](https://open.spotify.com/album/3UV2KjXNKuht6JO7y1hnzk) | 2:31 |

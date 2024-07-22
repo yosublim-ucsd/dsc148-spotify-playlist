@@ -2,7 +2,7 @@
 
 ### [This Is James Newton Howard](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1B3M4M)
 
-> This is James Newton Howard\. The essential tracks, all in one playlist.
+> This is James Newton Howard\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 85 songs - 4 hr 38 min
 

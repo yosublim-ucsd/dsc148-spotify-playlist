@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 42,965 likes - 89 songs - 5 hr 2 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 42,978 likes - 89 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 2 | [bless her](https://open.spotify.com/track/4lHp8te8pbvrhBIj5zxVcx) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu), [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [bless her](https://open.spotify.com/album/0g3DM7yC1IuZbgz0gSsmtD) | 4:10 |
 | 3 | [Don't die](https://open.spotify.com/track/7nWDcNYpWE3OsaXRLY4ors) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [Don't die](https://open.spotify.com/album/7g4dfVwHTNOnqiAanVNMHB) | 3:28 |
 | 4 | [SHE KINDA LOOKS LIKE ME \- ELIO x Billy Lemos Remix](https://open.spotify.com/track/5cIOUM73a6bp3xjzMxZ12I) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2), [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [SHE KINDA LOOKS LIKE ME \(ELIO x Billy Lemos Remix\)](https://open.spotify.com/album/02fMgPkvkGBRj1sFnELIki) | 2:51 |
-| 5 | [Rodeo \- Shinichi Osawa Remix](https://open.spotify.com/track/47mNoqhJptWa4dTk9JHKlf) | [Y.O.G.A.](https://open.spotify.com/artist/0H2mWrAuc4RzRwr2SkpG2y), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [Rodeo \(Shinichi Osawa Remix\)](https://open.spotify.com/album/0OSwbhLdOceHCemckXcK3T) | 4:41 |
+| 5 | [Rodeo \- Shinichi Osawa Remix](https://open.spotify.com/track/47mNoqhJptWa4dTk9JHKlf) | [Y.O.G.A.](https://open.spotify.com/artist/0H2mWrAuc4RzRwr2SkpG2y), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [Rodeo \(Shinichi Osawa Remix\)](https://open.spotify.com/album/0OSwbhLdOceHCemckXcK3T) | 4:41 |
 | 6 | [What Happened To You](https://open.spotify.com/track/3oTDaUQoNamrWl2nSafH8X) | [Haley Smalls](https://open.spotify.com/artist/5uTsMjH1CdE81ncmOnE4WY) | [What Happened To You](https://open.spotify.com/album/61AYewbhdRhzIisRj5hPak) | 2:54 |
 | 7 | [Mood](https://open.spotify.com/track/2TvoVgIcf6eZ6709mK4xro) | [Gino Mondana](https://open.spotify.com/artist/2vsRoBbScJXFoPggL3co4M), [Dizzle Raw](https://open.spotify.com/artist/6xW3uEt3Nlayz9oHjECjpf) | [Mood \(Feat\. Dizzle Raw\)](https://open.spotify.com/album/1Tmby3RS4N9oWDOPFBZxFV) | 2:25 |
 | 8 | [End of You](https://open.spotify.com/track/0H93ysLhIX9JpJ9CVnRoka) | [NICOLOSI](https://open.spotify.com/artist/7fexYDMRWxJ25mYGdblXWW) | [End of You](https://open.spotify.com/album/2QAc72i2Jtb3GEVJyBet2o) | 2:55 |

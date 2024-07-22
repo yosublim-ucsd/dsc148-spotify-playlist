@@ -2,7 +2,7 @@
 
 ### [Indie Arrivals](https://open.spotify.com/playlist/37i9dQZF1DWXuD9SwnM4ac)
 
-> All the new indie tracks worth knowing about\. Cover: Teenage Dads
+> All the new indie tracks worth knowing about\. Cover: GUM & Ambrose Kenny\-Smith
 
 152 songs - 8 hr 17 min
 

@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Miss Night and Day (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3I83BQRPW9TIyvEgJGSMy4"
+      },
+      "artists": [
+        {
+          "name": "LAS",
+          "url": "https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4"
+        }
+      ],
+      "date_added": "2024-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200848,
+      "name": "Day & Night",
+      "url": "https://open.spotify.com/track/4jmErvspZGl9kYKzUhXkME"
+    },
+    {
+      "album": {
         "name": "Reply 1988 (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/1xfxTZoewn33lWaXFOJky2"
       },

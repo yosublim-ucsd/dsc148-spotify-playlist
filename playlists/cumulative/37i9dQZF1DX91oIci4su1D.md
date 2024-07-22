@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-941 songs - 2 day 8 hr 55 min
+942 songs - 2 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Elevate](https://open.spotify.com/track/0iF3VTHA1QSrUZRjsaGpX2) | [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR) | [Elevate](https://open.spotify.com/album/7KbloOEzxIRrSzHobwFBLQ) | 3:46 | 2024-04-19 |  |
 | [Ellipsis](https://open.spotify.com/track/4ItNI65feNcstJ0IzR8LWa) | [John Grand](https://open.spotify.com/artist/0aEdRQpkXFx1g2GwRfJgTy) | [Ellipsis](https://open.spotify.com/album/3dy2cumKj5MUB8PYNfruG8) | 3:39 | 2022-07-01 | 2023-04-22 |
 | [Elysium \[Transmission 2024 Theme\]](https://open.spotify.com/track/3tgzSZb9sHfTTmQXEnMpYE) | [Daxson](https://open.spotify.com/artist/4WwMR8h0vztJLNgiL5ZFqW) | [Elysium \[Transmission 2024 Theme\]](https://open.spotify.com/album/49bCIw1A3H9YoBYcLemVNi) | 2:38 | 2024-03-08 |  |
+| [Emotion FM](https://open.spotify.com/track/6KnFnI5Ki0DPLmR23AeDIb) | [Craig Connelly](https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL) | [Emotion FM](https://open.spotify.com/album/3SoYH9xcNQNNL696KIaU0S) | 4:49 | 2024-07-19 |  |
 | [Emotions of Colour](https://open.spotify.com/track/6eBUO6Nb29FOvkIwkUc5li) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Emotions of Colour](https://open.spotify.com/album/0nH0K8vP8UTgZNHLYSGe5K) | 4:26 | 2023-03-03 | 2024-05-18 |
 | [Encounter](https://open.spotify.com/track/45oSgCJoDcQcXjxssQPVZg) | [Steve Dekay](https://open.spotify.com/artist/7lF2WmukgrCZa5pxW6q1IE), [Exouler](https://open.spotify.com/artist/0iGNYF6J9JmfpBHAmYAucM) | [Encounter](https://open.spotify.com/album/2LYnFQKvtPlKp36HCRGuRv) | 3:37 | 2021-12-17 | 2022-02-26 |
 | [End Of Time](https://open.spotify.com/track/5yoFtDZJzZUmptrpnQiXsD) | [Hel:sløwed](https://open.spotify.com/artist/153wxN1mEz167KM0a34zss), [Hidden Tigress](https://open.spotify.com/artist/53ZEdEG4hThZtzjhfQRHEu) | [End Of Time](https://open.spotify.com/album/5swpo2MesNA6V7OBY2orFT) | 3:23 | 2023-01-13 | 2023-05-20 |
@@ -843,7 +844,7 @@
 | [This Is Not The End](https://open.spotify.com/track/4nM12eRb7k6pylJGGivAQp) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Roddy Woomble](https://open.spotify.com/artist/313Xqjb7z7JBYcHgWiLvUv) | [This Is Not The End](https://open.spotify.com/album/43UWsAliOiQaroBO1H0aNl) | 3:18 | 2022-04-22 | 2022-12-10 |
 | [This Is Real](https://open.spotify.com/track/4YNkPVM9axWMaffM9Y3ovw) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [This Is Real](https://open.spotify.com/album/6JuzlHWoTILkAyLobUSG9H) | 3:48 | 2021-12-17 | 2022-01-08 |
 | [This Is Real \- Christopher Corrigan Remix](https://open.spotify.com/track/1rxfxybkU2MH5FPqE7UNqs) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y), [Christopher Corrigan](https://open.spotify.com/artist/2JJD0m0hYRMyHElA7d3tH8) | [This Is Real \(Christopher Corrigan Remix\)](https://open.spotify.com/album/3MvFKWuD9UdN5MmOFwxb2v) | 4:25 | 2023-06-09 | 2023-10-14 |
-| [Through The Shadows](https://open.spotify.com/track/1G2G5rVFPHIbxzfQLpjgkR) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Andrea Martini](https://open.spotify.com/artist/1ys1VqaDEFMz5iN74MuQMr), [Luke Coulson](https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx) | [Through The Shadows](https://open.spotify.com/album/1eRnXdIeNy842Q5awvTSlC) | 3:37 | 2024-03-01 |  |
+| [Through The Shadows](https://open.spotify.com/track/1G2G5rVFPHIbxzfQLpjgkR) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Andrea Martini](https://open.spotify.com/artist/1ys1VqaDEFMz5iN74MuQMr), [Luke Coulson](https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx) | [Through The Shadows](https://open.spotify.com/album/1eRnXdIeNy842Q5awvTSlC) | 3:37 | 2024-03-01 | 2024-07-22 |
 | [Thunderstorm](https://open.spotify.com/track/1W7IB819HPkn1wder2Yq15) | [Myde](https://open.spotify.com/artist/4GLfkXTyojK3BHJJkuUmpq) | [Thunderstorm](https://open.spotify.com/album/5yjnMWHueuTWmPj3B6GBKT) | 3:59 | 2022-04-22 | 2022-05-14 |
 | [Tiger](https://open.spotify.com/track/4uUxMuipFKX8gq4me7pGty) | [DRYM](https://open.spotify.com/artist/0kDuIuxZhlgE9XYRy6NVSq) | [Tiger](https://open.spotify.com/album/19ndH7HNa1DKyt18uyXikg) | 3:19 | 2022-01-21 | 2022-07-26 |
 | [Till The Sun Is Up High](https://open.spotify.com/track/6sS1woPe1F2CHvwr1JamkY) | [Natalie Gioia](https://open.spotify.com/artist/7Im3RJDHc4svDzWNlSvoAO) | [Till The Sun Is Up High](https://open.spotify.com/album/0NaVzChiy0uqs9bcDUDRS5) | 3:18 | 2023-07-21 |  |

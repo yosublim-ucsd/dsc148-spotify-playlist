@@ -1,6 +1,6 @@
 {
   "description": "Il meglio della musica indipendente italiana! Cover: <a href=\"spotify:artist:0ez4Y0vHwlRCrqGIkChC3Q\">T\u00c4RA</a>",
-  "num_followers": 8565,
+  "num_followers": 8570,
   "original_name": "Fresh Finds Italia",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Porta Pia",
-        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
-      },
-      "artists": [
-        {
-          "name": "Coca Puma",
-          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
-        }
-      ],
-      "duration_ms": 175458,
-      "name": "Porta Pia",
-      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "Citt\u00e0 Futura",
         "url": "https://open.spotify.com/album/57VVdwvhb2E3hOp21U6Isw"
       },
@@ -195,6 +179,38 @@
       "duration_ms": 292217,
       "name": "'E Parole",
       "url": "https://open.spotify.com/track/4o4f0Cddeo8fTA4Rc3ZP5c"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "Maracaibo",
+        "url": "https://open.spotify.com/album/3eodZtQpGzsUQmpPrUDgFm"
+      },
+      "artists": [
+        {
+          "name": "Lucy",
+          "url": "https://open.spotify.com/artist/4UH11YIdiHkl8rCyRdSR0P"
+        }
+      ],
+      "duration_ms": 192857,
+      "name": "Maracaibo",
+      "url": "https://open.spotify.com/track/0rL2TR2zVp958CFmIdDIqz"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "Porta Pia",
+        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
+      },
+      "artists": [
+        {
+          "name": "Coca Puma",
+          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
+        }
+      ],
+      "duration_ms": 175458,
+      "name": "Porta Pia",
+      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -251,22 +267,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Karnevale di Rio",
-        "url": "https://open.spotify.com/album/3rLIAQuVXv900dkPdZygCo"
-      },
-      "artists": [
-        {
-          "name": "Yaraki",
-          "url": "https://open.spotify.com/artist/6NEJLQRMkIN8ud5ng05XIX"
-        }
-      ],
-      "duration_ms": 150537,
-      "name": "Karnevale di Rio",
-      "url": "https://open.spotify.com/track/5NPvMrIzj1cMiKZ4TB4qld"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "Cuore di plastica",
         "url": "https://open.spotify.com/album/133fvM0w0I7MYBWpea2FnP"
       },
@@ -279,6 +279,22 @@
       "duration_ms": 182126,
       "name": "Cuore di plastica",
       "url": "https://open.spotify.com/track/60z4eK84ANB9UZZuAe2cNr"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "Karnevale di Rio",
+        "url": "https://open.spotify.com/album/3rLIAQuVXv900dkPdZygCo"
+      },
+      "artists": [
+        {
+          "name": "Yaraki",
+          "url": "https://open.spotify.com/artist/6NEJLQRMkIN8ud5ng05XIX"
+        }
+      ],
+      "duration_ms": 150537,
+      "name": "Karnevale di Rio",
+      "url": "https://open.spotify.com/track/5NPvMrIzj1cMiKZ4TB4qld"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -347,6 +363,22 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
+        "name": "LOVE IS OVERRATED",
+        "url": "https://open.spotify.com/album/7tpjW39hgq2b4dah9PgOQx"
+      },
+      "artists": [
+        {
+          "name": "Francesca Everly",
+          "url": "https://open.spotify.com/artist/1ORfD7Cf5AiwKcIikkTY7n"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "LOVE IS OVERRATED",
+      "url": "https://open.spotify.com/track/32aeAbj5YQ3xpfsELu1hze"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
         "name": "Il vento del nord",
         "url": "https://open.spotify.com/album/6qaturmycSCGiH4mEasn0n"
       },
@@ -395,38 +427,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "LOVE IS OVERRATED",
-        "url": "https://open.spotify.com/album/7tpjW39hgq2b4dah9PgOQx"
-      },
-      "artists": [
-        {
-          "name": "Francesca Everly",
-          "url": "https://open.spotify.com/artist/1ORfD7Cf5AiwKcIikkTY7n"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "LOVE IS OVERRATED",
-      "url": "https://open.spotify.com/track/32aeAbj5YQ3xpfsELu1hze"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "Maracaibo",
-        "url": "https://open.spotify.com/album/3eodZtQpGzsUQmpPrUDgFm"
-      },
-      "artists": [
-        {
-          "name": "Lucy",
-          "url": "https://open.spotify.com/artist/4UH11YIdiHkl8rCyRdSR0P"
-        }
-      ],
-      "duration_ms": 192857,
-      "name": "Maracaibo",
-      "url": "https://open.spotify.com/track/0rL2TR2zVp958CFmIdDIqz"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "su misura",
         "url": "https://open.spotify.com/album/4L1ZJY8ztaQbLN9bPWpc6J"
       },
@@ -443,6 +443,34 @@
       "duration_ms": 151903,
       "name": "su misura",
       "url": "https://open.spotify.com/track/7nfYprCn6N57rE40tFmUY8"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "MERO CREDIT",
+        "url": "https://open.spotify.com/album/0ToH1czj1bGlNTGka6cdzm"
+      },
+      "artists": [
+        {
+          "name": "Goldreick",
+          "url": "https://open.spotify.com/artist/0UJ6nopuHJk9q7addrnFhD"
+        },
+        {
+          "name": "Tanca",
+          "url": "https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP"
+        },
+        {
+          "name": "Alice",
+          "url": "https://open.spotify.com/artist/2secXZJFel5sboofeiGQyk"
+        },
+        {
+          "name": "maggio",
+          "url": "https://open.spotify.com/artist/7bykcg3a4exhrIgiffIR2Q"
+        }
+      ],
+      "duration_ms": 213230,
+      "name": "LEGAMI",
+      "url": "https://open.spotify.com/track/1C9OAXQN4zKkPbTRO17Hma"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -487,34 +515,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "MERO CREDIT",
-        "url": "https://open.spotify.com/album/0ToH1czj1bGlNTGka6cdzm"
-      },
-      "artists": [
-        {
-          "name": "Goldreick",
-          "url": "https://open.spotify.com/artist/0UJ6nopuHJk9q7addrnFhD"
-        },
-        {
-          "name": "Tanca",
-          "url": "https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP"
-        },
-        {
-          "name": "Alice",
-          "url": "https://open.spotify.com/artist/2secXZJFel5sboofeiGQyk"
-        },
-        {
-          "name": "maggio",
-          "url": "https://open.spotify.com/artist/7bykcg3a4exhrIgiffIR2Q"
-        }
-      ],
-      "duration_ms": 213230,
-      "name": "LEGAMI",
-      "url": "https://open.spotify.com/track/1C9OAXQN4zKkPbTRO17Hma"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "Apatia",
         "url": "https://open.spotify.com/album/1DMTh6TGoVCJyGxdd2VTiB"
       },
@@ -527,22 +527,6 @@
       "duration_ms": 224571,
       "name": "Apatia",
       "url": "https://open.spotify.com/track/0ITpTWRwcK6WvTQn8C2TZk"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "tt ok / k.o. tt",
-        "url": "https://open.spotify.com/album/4tWdxF6UNNA1yqajBZWN7p"
-      },
-      "artists": [
-        {
-          "name": "Saphe",
-          "url": "https://open.spotify.com/artist/0PfwY5WJuVYmUc6PJzQ9TO"
-        }
-      ],
-      "duration_ms": 115862,
-      "name": "k.o. tt",
-      "url": "https://open.spotify.com/track/1cwNTlAcz9SXkvfMpsphhA"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -563,6 +547,38 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
+        "name": "tt ok / k.o. tt",
+        "url": "https://open.spotify.com/album/4tWdxF6UNNA1yqajBZWN7p"
+      },
+      "artists": [
+        {
+          "name": "Saphe",
+          "url": "https://open.spotify.com/artist/0PfwY5WJuVYmUc6PJzQ9TO"
+        }
+      ],
+      "duration_ms": 115862,
+      "name": "k.o. tt",
+      "url": "https://open.spotify.com/track/1cwNTlAcz9SXkvfMpsphhA"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "Ad Occhi Aperti",
+        "url": "https://open.spotify.com/album/5s0su3k09HeBuNPKuyvU47"
+      },
+      "artists": [
+        {
+          "name": "Anita Cane Violins",
+          "url": "https://open.spotify.com/artist/4o0yqv6vXY7VZiHXFhCBhP"
+        }
+      ],
+      "duration_ms": 243789,
+      "name": "Ad Occhi Aperti",
+      "url": "https://open.spotify.com/track/3NMAYytFJOcIbYAhdJr3gj"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
         "name": "Fashioonnova",
         "url": "https://open.spotify.com/album/3mq9zy99CKEdS5qE1ipv42"
       },
@@ -575,6 +591,22 @@
       "duration_ms": 144000,
       "name": "Fashioonnova",
       "url": "https://open.spotify.com/track/5J7eyCSelkvqBdY63cr41X"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "Mia / Niente da perdere",
+        "url": "https://open.spotify.com/album/3UTZzJOWjOMPf74nPEsArv"
+      },
+      "artists": [
+        {
+          "name": "Soave",
+          "url": "https://open.spotify.com/artist/4lfpDO5m3RdKU2859LXmsN"
+        }
+      ],
+      "duration_ms": 135460,
+      "name": "Mia / Niente da perdere",
+      "url": "https://open.spotify.com/track/1MyPoVnakQSGWtfl1lqFSp"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -751,22 +783,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Mia / Niente da perdere",
-        "url": "https://open.spotify.com/album/3UTZzJOWjOMPf74nPEsArv"
-      },
-      "artists": [
-        {
-          "name": "Soave",
-          "url": "https://open.spotify.com/artist/4lfpDO5m3RdKU2859LXmsN"
-        }
-      ],
-      "duration_ms": 135460,
-      "name": "Mia / Niente da perdere",
-      "url": "https://open.spotify.com/track/1MyPoVnakQSGWtfl1lqFSp"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "COME SEMBRA",
         "url": "https://open.spotify.com/album/6bHSfXnPXUoUVZqhAtKmyG"
       },
@@ -779,54 +795,6 @@
       "duration_ms": 186463,
       "name": "COME SEMBRA",
       "url": "https://open.spotify.com/track/2wpK0bmYeIN0S695bPoZI2"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "OROSCOPO",
-        "url": "https://open.spotify.com/album/4jhrmY7LBLWaphzf2rtCRP"
-      },
-      "artists": [
-        {
-          "name": "Caesar",
-          "url": "https://open.spotify.com/artist/3oHyQMgRYjhjp2nMLhmiiP"
-        }
-      ],
-      "duration_ms": 135842,
-      "name": "OROSCOPO",
-      "url": "https://open.spotify.com/track/2d8y0w5xrBi9qey8wHex1f"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "SDM",
-        "url": "https://open.spotify.com/album/1l5TOZqVMgUtjzEgy0OFv3"
-      },
-      "artists": [
-        {
-          "name": "Keyra",
-          "url": "https://open.spotify.com/artist/5Y0hkP4UJmxdajANUr1IoC"
-        }
-      ],
-      "duration_ms": 140388,
-      "name": "SDM",
-      "url": "https://open.spotify.com/track/7BwfxhDgqinbsVqeZ7wEqn"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "lies",
-        "url": "https://open.spotify.com/album/0eWfIaaKB0eu0c2fRXUlda"
-      },
-      "artists": [
-        {
-          "name": "georgia, georgia",
-          "url": "https://open.spotify.com/artist/08O0sKRCrDDxVnduKUQNH6"
-        }
-      ],
-      "duration_ms": 194932,
-      "name": "lies",
-      "url": "https://open.spotify.com/track/5ambyYCxFIrHf6ilNGBQkt"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -847,18 +815,50 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "si dai per\u00f2",
-        "url": "https://open.spotify.com/album/2wJBHBlSfOPMDheHJknHwH"
+        "name": "SDM",
+        "url": "https://open.spotify.com/album/1l5TOZqVMgUtjzEgy0OFv3"
       },
       "artists": [
         {
-          "name": "Lean\u00f2",
-          "url": "https://open.spotify.com/artist/0pb0sehd5pPALyoCt8B4MV"
+          "name": "Keyra",
+          "url": "https://open.spotify.com/artist/5Y0hkP4UJmxdajANUr1IoC"
         }
       ],
-      "duration_ms": 142000,
-      "name": "si dai per\u00f2",
-      "url": "https://open.spotify.com/track/556yPQfa994qWfw6X1ctsf"
+      "duration_ms": 140388,
+      "name": "SDM",
+      "url": "https://open.spotify.com/track/7BwfxhDgqinbsVqeZ7wEqn"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "OROSCOPO",
+        "url": "https://open.spotify.com/album/4jhrmY7LBLWaphzf2rtCRP"
+      },
+      "artists": [
+        {
+          "name": "Caesar",
+          "url": "https://open.spotify.com/artist/3oHyQMgRYjhjp2nMLhmiiP"
+        }
+      ],
+      "duration_ms": 135842,
+      "name": "OROSCOPO",
+      "url": "https://open.spotify.com/track/2d8y0w5xrBi9qey8wHex1f"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "lies",
+        "url": "https://open.spotify.com/album/0eWfIaaKB0eu0c2fRXUlda"
+      },
+      "artists": [
+        {
+          "name": "georgia, georgia",
+          "url": "https://open.spotify.com/artist/08O0sKRCrDDxVnduKUQNH6"
+        }
+      ],
+      "duration_ms": 194932,
+      "name": "lies",
+      "url": "https://open.spotify.com/track/5ambyYCxFIrHf6ilNGBQkt"
     }
   ],
   "unique_name": "Fresh Finds Italia",

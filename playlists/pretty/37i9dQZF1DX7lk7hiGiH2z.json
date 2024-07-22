@@ -1,6 +1,6 @@
 {
   "description": "Zeit f\u00fcr Plantschen, Eis & Freibadpommes.",
-  "num_followers": 42111,
+  "num_followers": 42155,
   "original_name": "Familienzeit: Sommer",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,42 @@
     {
       "added_at": "2024-07-12 09:30:00",
       "album": {
+        "name": "Boom Schakkalakka",
+        "url": "https://open.spotify.com/album/21iU8QtgINaMWyCLZGX9Mq"
+      },
+      "artists": [
+        {
+          "name": "DIKKA",
+          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
+        },
+        {
+          "name": "Wincent Weiss",
+          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
+        }
+      ],
+      "duration_ms": 199293,
+      "name": "Boom Schakkalakka",
+      "url": "https://open.spotify.com/track/0K1YxwGmBvJrD4vQErPniv"
+    },
+    {
+      "added_at": "2024-07-12 09:30:00",
+      "album": {
+        "name": "Encanto (Deutscher Original Film-Soundtrack)",
+        "url": "https://open.spotify.com/album/0WexjM0UZvvk3AjWK7S8RI"
+      },
+      "artists": [
+        {
+          "name": "Jenniffer Kae",
+          "url": "https://open.spotify.com/artist/7s12cq7LvagVKZN1MWHHNw"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Druck",
+      "url": "https://open.spotify.com/track/6lq2ScYLYvIwQwTGEYjFW2"
+    },
+    {
+      "added_at": "2024-07-12 09:30:00",
+      "album": {
         "name": "Bibi und Tina: VOLL VERHEXT! (Der Original-Soundtrack zum Kinofilm)",
         "url": "https://open.spotify.com/album/5CXxYkRdKPyE7tWGmqZZOP"
       },
@@ -147,22 +183,6 @@
       "duration_ms": 179780,
       "name": "Ich bleib hier (feat. Lina Larissa Strahl)",
       "url": "https://open.spotify.com/track/64W6MhqnoDBXrLMnM5d1Hp"
-    },
-    {
-      "added_at": "2024-07-12 09:30:00",
-      "album": {
-        "name": "Encanto (Deutscher Original Film-Soundtrack)",
-        "url": "https://open.spotify.com/album/0WexjM0UZvvk3AjWK7S8RI"
-      },
-      "artists": [
-        {
-          "name": "Jenniffer Kae",
-          "url": "https://open.spotify.com/artist/7s12cq7LvagVKZN1MWHHNw"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "Druck",
-      "url": "https://open.spotify.com/track/6lq2ScYLYvIwQwTGEYjFW2"
     },
     {
       "added_at": "2024-07-12 09:30:00",
@@ -195,26 +215,6 @@
       "duration_ms": 158226,
       "name": "Die Biene Maja",
       "url": "https://open.spotify.com/track/7jbWJ8dBSFElWnoGn9XYHI"
-    },
-    {
-      "added_at": "2024-07-12 09:30:00",
-      "album": {
-        "name": "Boom Schakkalakka",
-        "url": "https://open.spotify.com/album/21iU8QtgINaMWyCLZGX9Mq"
-      },
-      "artists": [
-        {
-          "name": "DIKKA",
-          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
-        },
-        {
-          "name": "Wincent Weiss",
-          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
-        }
-      ],
-      "duration_ms": 199293,
-      "name": "Boom Schakkalakka",
-      "url": "https://open.spotify.com/track/0K1YxwGmBvJrD4vQErPniv"
     },
     {
       "added_at": "2024-07-12 09:30:00",
@@ -311,6 +311,54 @@
     {
       "added_at": "2024-07-12 09:30:00",
       "album": {
+        "name": "Oh Yeah!",
+        "url": "https://open.spotify.com/album/1SNAih5cZ1toqZNL1RwXlR"
+      },
+      "artists": [
+        {
+          "name": "DIKKA",
+          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
+        }
+      ],
+      "duration_ms": 145106,
+      "name": "Party im Zoo",
+      "url": "https://open.spotify.com/track/6Ze5ZsSYnUIoNWVStEgJsv"
+    },
+    {
+      "added_at": "2024-07-12 09:30:00",
+      "album": {
+        "name": "Das Gelbe vom Schwamm",
+        "url": "https://open.spotify.com/album/6tnWalBmzvZ4PlMyG2WUNT"
+      },
+      "artists": [
+        {
+          "name": "SpongeBob Schwammkopf",
+          "url": "https://open.spotify.com/artist/4nzfncntC1DiwIFMARUT2w"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "In den Urlaub",
+      "url": "https://open.spotify.com/track/3N84t07BWwkHopG8rQB4qc"
+    },
+    {
+      "added_at": "2024-07-12 09:30:00",
+      "album": {
+        "name": "Rolfs Liederkalender / Die Jahresuhr",
+        "url": "https://open.spotify.com/album/7lNjgPujRDW1nmd8bxevFW"
+      },
+      "artists": [
+        {
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+        }
+      ],
+      "duration_ms": 232840,
+      "name": "Die Jahresuhr",
+      "url": "https://open.spotify.com/track/5sS65MOpYlQuqq7HU8jQWZ"
+    },
+    {
+      "added_at": "2024-07-12 09:30:00",
+      "album": {
         "name": "Giraffenaffen 2",
         "url": "https://open.spotify.com/album/5vrbcnXTiRb9xoO61FYHp6"
       },
@@ -331,34 +379,18 @@
     {
       "added_at": "2024-07-12 09:30:00",
       "album": {
-        "name": "Oh Yeah!",
-        "url": "https://open.spotify.com/album/1SNAih5cZ1toqZNL1RwXlR"
+        "name": "Meine Lieblingskinderlieder",
+        "url": "https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb"
       },
       "artists": [
         {
-          "name": "DIKKA",
-          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
         }
       ],
-      "duration_ms": 145106,
-      "name": "Party im Zoo",
-      "url": "https://open.spotify.com/track/6Ze5ZsSYnUIoNWVStEgJsv"
-    },
-    {
-      "added_at": "2024-07-12 09:30:00",
-      "album": {
-        "name": "Rolfs Liederkalender / Die Jahresuhr",
-        "url": "https://open.spotify.com/album/7lNjgPujRDW1nmd8bxevFW"
-      },
-      "artists": [
-        {
-          "name": "Rolf Zuckowski",
-          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
-        }
-      ],
-      "duration_ms": 232840,
-      "name": "Die Jahresuhr",
-      "url": "https://open.spotify.com/track/5sS65MOpYlQuqq7HU8jQWZ"
+      "duration_ms": 147375,
+      "name": "LiederTiger Lied",
+      "url": "https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w"
     },
     {
       "added_at": "2024-07-12 09:30:00",
@@ -387,34 +419,38 @@
     {
       "added_at": "2024-07-12 09:30:00",
       "album": {
-        "name": "Das Gelbe vom Schwamm",
-        "url": "https://open.spotify.com/album/6tnWalBmzvZ4PlMyG2WUNT"
+        "name": "Jahreszeiten",
+        "url": "https://open.spotify.com/album/3HWPzMy11VN2SEH4NI5svm"
       },
       "artists": [
         {
-          "name": "SpongeBob Schwammkopf",
-          "url": "https://open.spotify.com/artist/4nzfncntC1DiwIFMARUT2w"
+          "name": "DIKKA",
+          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
+        },
+        {
+          "name": "Esther Graf",
+          "url": "https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID"
         }
       ],
-      "duration_ms": 210333,
-      "name": "In den Urlaub",
-      "url": "https://open.spotify.com/track/3N84t07BWwkHopG8rQB4qc"
+      "duration_ms": 202042,
+      "name": "Jahreszeiten",
+      "url": "https://open.spotify.com/track/4jHtjsvqHhOJaPgvq36szI"
     },
     {
       "added_at": "2024-07-12 09:30:00",
       "album": {
-        "name": "Meine Lieblingskinderlieder",
-        "url": "https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb"
+        "name": "ordentlich durcheinander",
+        "url": "https://open.spotify.com/album/5goLpuhOuPvi646aejZHJa"
       },
       "artists": [
         {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+          "name": "Deine Freunde",
+          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
         }
       ],
-      "duration_ms": 147375,
-      "name": "LiederTiger Lied",
-      "url": "https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w"
+      "duration_ms": 178426,
+      "name": "Wir holen euch ab",
+      "url": "https://open.spotify.com/track/76mevuKh4WonFC305wU9BD"
     },
     {
       "added_at": "2024-07-12 09:30:00",
@@ -455,82 +491,6 @@
     {
       "added_at": "2024-07-12 09:30:00",
       "album": {
-        "name": "Jahreszeiten",
-        "url": "https://open.spotify.com/album/3HWPzMy11VN2SEH4NI5svm"
-      },
-      "artists": [
-        {
-          "name": "DIKKA",
-          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
-        },
-        {
-          "name": "Esther Graf",
-          "url": "https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID"
-        }
-      ],
-      "duration_ms": 202042,
-      "name": "Jahreszeiten",
-      "url": "https://open.spotify.com/track/4jHtjsvqHhOJaPgvq36szI"
-    },
-    {
-      "added_at": "2024-07-12 09:30:00",
-      "album": {
-        "name": "Die 30 besten Urlaubs- und Sommerlieder",
-        "url": "https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6"
-      },
-      "artists": [
-        {
-          "name": "Simone Sommerland",
-          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
-        },
-        {
-          "name": "Karsten Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
-        },
-        {
-          "name": "Die Kita-Fr\u00f6sche",
-          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
-        }
-      ],
-      "duration_ms": 114258,
-      "name": "Plitsch, plitsch, platsch",
-      "url": "https://open.spotify.com/track/5D0Dsd7CecM74CahtrIioW"
-    },
-    {
-      "added_at": "2024-07-12 09:30:00",
-      "album": {
-        "name": "ordentlich durcheinander",
-        "url": "https://open.spotify.com/album/5goLpuhOuPvi646aejZHJa"
-      },
-      "artists": [
-        {
-          "name": "Deine Freunde",
-          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Wir holen euch ab",
-      "url": "https://open.spotify.com/track/76mevuKh4WonFC305wU9BD"
-    },
-    {
-      "added_at": "2024-07-12 09:30:00",
-      "album": {
-        "name": "Bei uns in der Kita - 22 Lieder im Fr\u00fchling + Sommer",
-        "url": "https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc"
-      },
-      "artists": [
-        {
-          "name": "Rolf Zuckowski",
-          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "Sommerkinder",
-      "url": "https://open.spotify.com/track/2reHbWEZw5ANVmIL9pjw01"
-    },
-    {
-      "added_at": "2024-07-12 09:30:00",
-      "album": {
         "name": "Giraffenaffen 7 - Die gro\u00dfe Geburtstagsfeier (Party mit Schlagerstars)",
         "url": "https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy"
       },
@@ -547,42 +507,6 @@
       "duration_ms": 214546,
       "name": "Hakuna Matata",
       "url": "https://open.spotify.com/track/2C91VnXhPNC6jVFgWObd7t"
-    },
-    {
-      "added_at": "2024-07-12 09:30:00",
-      "album": {
-        "name": "Schmetterlingskacke",
-        "url": "https://open.spotify.com/album/4oN2rHeLP0ktDYl2RMZWc0"
-      },
-      "artists": [
-        {
-          "name": "Sukini",
-          "url": "https://open.spotify.com/artist/3Ih8ZVTlhbYfoRdr4PBVT4"
-        },
-        {
-          "name": "Saskia Lavaux",
-          "url": "https://open.spotify.com/artist/4lQzJokyhDUcTixCqcegfZ"
-        }
-      ],
-      "duration_ms": 182213,
-      "name": "Glitzer",
-      "url": "https://open.spotify.com/track/7igJwFCV2rDA9j7t9t4eJE"
-    },
-    {
-      "added_at": "2024-07-12 09:30:00",
-      "album": {
-        "name": "Kinderlieder - umgedacht & neu gemacht",
-        "url": "https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8"
-      },
-      "artists": [
-        {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
-        }
-      ],
-      "duration_ms": 138266,
-      "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
-      "url": "https://open.spotify.com/track/4ZMiwU7dAYoVyytt3wttAc"
     },
     {
       "added_at": "2024-07-12 09:30:00",
@@ -647,8 +571,8 @@
     {
       "added_at": "2024-07-12 09:30:00",
       "album": {
-        "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
-        "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
+        "name": "Die 30 besten Urlaubs- und Sommerlieder",
+        "url": "https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6"
       },
       "artists": [
         {
@@ -664,9 +588,9 @@
           "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
         }
       ],
-      "duration_ms": 88540,
-      "name": "Kleine Meise",
-      "url": "https://open.spotify.com/track/4MShM7cBCCtVdphsrwkks5"
+      "duration_ms": 114258,
+      "name": "Plitsch, plitsch, platsch",
+      "url": "https://open.spotify.com/track/5D0Dsd7CecM74CahtrIioW"
     },
     {
       "added_at": "2024-07-12 09:30:00",
@@ -680,9 +604,45 @@
           "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
         }
       ],
-      "duration_ms": 108293,
-      "name": "Alle V\u00f6gel sind schon da",
-      "url": "https://open.spotify.com/track/3o1gtPqPPleF3uz4OEXI9a"
+      "duration_ms": 178280,
+      "name": "Sommerkinder",
+      "url": "https://open.spotify.com/track/2reHbWEZw5ANVmIL9pjw01"
+    },
+    {
+      "added_at": "2024-07-12 09:30:00",
+      "album": {
+        "name": "Schmetterlingskacke",
+        "url": "https://open.spotify.com/album/4oN2rHeLP0ktDYl2RMZWc0"
+      },
+      "artists": [
+        {
+          "name": "Sukini",
+          "url": "https://open.spotify.com/artist/3Ih8ZVTlhbYfoRdr4PBVT4"
+        },
+        {
+          "name": "Saskia Lavaux",
+          "url": "https://open.spotify.com/artist/4lQzJokyhDUcTixCqcegfZ"
+        }
+      ],
+      "duration_ms": 182213,
+      "name": "Glitzer",
+      "url": "https://open.spotify.com/track/7igJwFCV2rDA9j7t9t4eJE"
+    },
+    {
+      "added_at": "2024-07-12 09:30:00",
+      "album": {
+        "name": "Kinderlieder - umgedacht & neu gemacht",
+        "url": "https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "duration_ms": 138266,
+      "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
+      "url": "https://open.spotify.com/track/4ZMiwU7dAYoVyytt3wttAc"
     },
     {
       "added_at": "2024-07-12 09:30:00",
@@ -739,6 +699,30 @@
     {
       "added_at": "2024-07-12 09:30:00",
       "album": {
+        "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
+        "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
+      },
+      "artists": [
+        {
+          "name": "Simone Sommerland",
+          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
+        },
+        {
+          "name": "Karsten Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
+        },
+        {
+          "name": "Die Kita-Fr\u00f6sche",
+          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
+        }
+      ],
+      "duration_ms": 88540,
+      "name": "Kleine Meise",
+      "url": "https://open.spotify.com/track/4MShM7cBCCtVdphsrwkks5"
+    },
+    {
+      "added_at": "2024-07-12 09:30:00",
+      "album": {
         "name": "Idas Sommerlied",
         "url": "https://open.spotify.com/album/4LdzXTHhwOWSpLDOkC8QKv"
       },
@@ -755,18 +739,18 @@
     {
       "added_at": "2024-07-12 09:30:00",
       "album": {
-        "name": "Meine M\u00fctze und Ich",
-        "url": "https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5"
+        "name": "Bei uns in der Kita - 22 Lieder im Fr\u00fchling + Sommer",
+        "url": "https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc"
       },
       "artists": [
         {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
         }
       ],
-      "duration_ms": 167090,
-      "name": "Baller mit meinem Rad",
-      "url": "https://open.spotify.com/track/4mqMxZjFLrTi7lwPdnYxHm"
+      "duration_ms": 108293,
+      "name": "Alle V\u00f6gel sind schon da",
+      "url": "https://open.spotify.com/track/3o1gtPqPPleF3uz4OEXI9a"
     },
     {
       "added_at": "2024-07-12 09:30:00",
@@ -803,26 +787,6 @@
     {
       "added_at": "2024-07-12 09:30:00",
       "album": {
-        "name": "Sommerzeit",
-        "url": "https://open.spotify.com/album/3hUAQEXxyiYRDFoJ1FhFxs"
-      },
-      "artists": [
-        {
-          "name": "Nilsen",
-          "url": "https://open.spotify.com/artist/13x0bektBEknCM276OqYMn"
-        },
-        {
-          "name": "Kinderlieder Gang",
-          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
-        }
-      ],
-      "duration_ms": 134265,
-      "name": "Sommerzeit",
-      "url": "https://open.spotify.com/track/4QBmgphP6uIJq3G2wnG55h"
-    },
-    {
-      "added_at": "2024-07-12 09:30:00",
-      "album": {
         "name": "Die 30 besten Urlaubs- und Sommerlieder",
         "url": "https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6"
       },
@@ -843,6 +807,42 @@
       "duration_ms": 130180,
       "name": "Dickie, der dicke Delfin",
       "url": "https://open.spotify.com/track/1bnwtnDox65Be81ol7TX1x"
+    },
+    {
+      "added_at": "2024-07-12 09:30:00",
+      "album": {
+        "name": "Meine M\u00fctze und Ich",
+        "url": "https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "duration_ms": 167090,
+      "name": "Baller mit meinem Rad",
+      "url": "https://open.spotify.com/track/4mqMxZjFLrTi7lwPdnYxHm"
+    },
+    {
+      "added_at": "2024-07-12 09:30:00",
+      "album": {
+        "name": "Sommerzeit",
+        "url": "https://open.spotify.com/album/3hUAQEXxyiYRDFoJ1FhFxs"
+      },
+      "artists": [
+        {
+          "name": "Nilsen",
+          "url": "https://open.spotify.com/artist/13x0bektBEknCM276OqYMn"
+        },
+        {
+          "name": "Kinderlieder Gang",
+          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
+        }
+      ],
+      "duration_ms": 134265,
+      "name": "Sommerzeit",
+      "url": "https://open.spotify.com/track/4QBmgphP6uIJq3G2wnG55h"
     },
     {
       "added_at": "2024-07-12 09:30:00",

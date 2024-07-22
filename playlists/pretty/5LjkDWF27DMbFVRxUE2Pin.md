@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LjkDWF27DMbFVRxUE2Pin.md) - [plain]
 
 > 
 
-[Arran Ross\-Paterson](https://open.spotify.com/user/arranrp) - 12 likes - 388 songs - 1 day 0 hr 56 min
+[Arran Ross\-Paterson](https://open.spotify.com/user/arranrp) - 11 likes - 398 songs - 1 day 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -396,5 +396,15 @@ pretty - [cumulative](/playlists/cumulative/5LjkDWF27DMbFVRxUE2Pin.md) - [plain]
 | 386 | [Can't Get Enough](https://open.spotify.com/track/4C87nkudWPwtorbwG9uwgq) | [Galo](https://open.spotify.com/artist/4v0KJDTlY8yFHSZAFmMj3L) | [Can't Get Enough](https://open.spotify.com/album/1JCXBQyAij4p3Mm5XZgbeb) | 3:56 |
 | 387 | [I Don't Wanna Rush](https://open.spotify.com/track/3cJLvOe20mubVRkWEpgN9G) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [I Don't Wanna Rush](https://open.spotify.com/album/2z5b9JPx8u2UMzJXXV131T) | 3:04 |
 | 388 | [So Bad](https://open.spotify.com/track/2it0K7P3FoPI4aq2ufYO1f) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [So Bad](https://open.spotify.com/album/7iu6jVSKSbQYT6aGBzEjAY) | 3:18 |
+| 389 | [Selkie](https://open.spotify.com/track/42PPLNYjvjv17r7pT1sYVm) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [The Cause of Shipwreck](https://open.spotify.com/album/5pkvMawHD8iGBuzaQcQ5xG) | 4:23 |
+| 390 | [Until Eternity](https://open.spotify.com/track/7wxkIezqwD81OiGhR1eZRF) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Fractured Fairytales EP](https://open.spotify.com/album/5iCtj5xEQAxD9SBqXmc2K8) | 4:38 |
+| 391 | [I'd Rather Burn](https://open.spotify.com/track/1GzcLTRTeI6OY1vwpUCwnm) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [We'd Rather Burn EP](https://open.spotify.com/album/64Lvt83g32bg4OL1Xu5b1W) | 3:20 |
+| 392 | [My Soul's Demise](https://open.spotify.com/track/3r87j3X0S4v3Pad6KWN3dM) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [A Dark Euphony](https://open.spotify.com/album/4I3tki9qLe8Oiz32zK5o2P) | 4:24 |
+| 393 | [Moonflower](https://open.spotify.com/track/1ESIs43SNP0pMcQ3p0x0VL) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI), [Marjana Semkina](https://open.spotify.com/artist/4SgKhFmVKw8lbiXf4hloKt) | [Moonflower](https://open.spotify.com/album/6OrS5d0eYwn0SGydjiX8Q8) | 3:47 |
+| 394 | [Confess](https://open.spotify.com/track/2ZIjPiI6erJLGdfj792dzq) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [The Cause of Shipwreck](https://open.spotify.com/album/5pkvMawHD8iGBuzaQcQ5xG) | 3:47 |
+| 395 | [Walking Over My Grave](https://open.spotify.com/track/3BZTexQN5ZbGJyBRUgEv5B) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [The Cause of Shipwreck](https://open.spotify.com/album/5pkvMawHD8iGBuzaQcQ5xG) | 4:29 |
+| 396 | [Weakness and Lust](https://open.spotify.com/track/4ApdCY41L8w7oK9HS5plmg) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [The Cause of Shipwreck](https://open.spotify.com/album/5pkvMawHD8iGBuzaQcQ5xG) | 4:54 |
+| 397 | [Lilith Be Gone](https://open.spotify.com/track/1VoJ4WvTDVpIi3AKwCW9o7) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [The Cause of Shipwreck](https://open.spotify.com/album/5pkvMawHD8iGBuzaQcQ5xG) | 5:36 |
+| 398 | [Let Me In](https://open.spotify.com/track/0nBGuCJeZimI0MNKGt4oSD) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [We'd Rather Burn EP](https://open.spotify.com/album/64Lvt83g32bg4OL1Xu5b1W) | 4:29 |
 
-Snapshot ID: `AAABrlSjyE2eS7yitEaoUTRAzrtk4XNy`
+Snapshot ID: `AAABuOnh6O+9fmAGLAagYwtsDU7NxlKm`

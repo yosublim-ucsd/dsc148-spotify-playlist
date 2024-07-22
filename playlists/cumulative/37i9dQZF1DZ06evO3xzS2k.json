@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "This Is Nothing. Los temas esenciales, todos en una lista.",
+  "description": "This is Nothing. The essential tracks, all in one playlist.",
   "name": "This Is Nothing",
   "tracks": [
     {
@@ -340,7 +340,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 300660,
       "name": "Eaten by Worms",
       "url": "https://open.spotify.com/track/6cpbYfrmRRATj7MK89ZMox"
@@ -748,7 +748,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-22",
       "duration_ms": 329717,
       "name": "Our Plague",
       "url": "https://open.spotify.com/track/52GxXiWKYRCy1z8RxGYWiT"

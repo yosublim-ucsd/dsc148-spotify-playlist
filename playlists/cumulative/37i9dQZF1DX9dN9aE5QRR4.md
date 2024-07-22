@@ -4,7 +4,7 @@
 
 > La playlist officielle de l'émission Nouvelle École Saison 3, disponible sur Netflix.
 
-95 songs - 4 hr 26 min
+98 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Avant\-goût \- Nouvelle École](https://open.spotify.com/track/5MXsJhqpma8RvMr98zMD7Q) | [Clara Charlotte](https://open.spotify.com/artist/2j2XsTjam1x6HjXkoPu2ki) | [Nouvelle École \| Saison 3 \| Partie 1 \(Série Netflix\)](https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6) | 1:51 | 2024-07-05 |  |
 | [Baby Mama](https://open.spotify.com/track/5XD8dAkKVX2RwjYEjgGY9j) | [Yuz Boy](https://open.spotify.com/artist/0D02Za9zPwvLFkiRQoi6qH) | [Baby Mama](https://open.spotify.com/album/6onJiWfTJ5nYCg6B1ihMug) | 3:14 | 2023-05-31 | 2024-07-05 |
 | [BAGARRE \- Nouvelle École](https://open.spotify.com/track/4rgY6aiDHgEiRG6pZvfBPf) | [Arka](https://open.spotify.com/artist/3PnK1yG5p3O5dfK0m3oNRG), [Bayass](https://open.spotify.com/artist/0PT8CEHQdV4RtZfgpEdSgb), [LEDOS](https://open.spotify.com/artist/3YWUSYVX6bCnVZBaXEUwbH), [Rethno](https://open.spotify.com/artist/2buxXXrtBJJ480Nwmw95yp), [WarEnd](https://open.spotify.com/artist/0kf4yD8VtffGwtLpbienGR) | [BAGARRE \- Nouvelle École](https://open.spotify.com/album/10oTjqrL31dPKWJlZXfj3H) | 4:45 | 2023-05-31 |  |
+| [Bah Ouais \- Nouvelle École](https://open.spotify.com/track/2PYMw8P6kuCHqhltz47XMr) | [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434) | [Nouvelle École \| Saison 3 \| La Finale \(Série Netflix\)](https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F) | 3:21 | 2024-07-21 |  |
 | [Benze](https://open.spotify.com/track/3fwXNaxlslH41y3a47qela) | [Driss Sks](https://open.spotify.com/artist/2sbCB581cl6ZarOL5cU7t7) | [Benze](https://open.spotify.com/album/3w6eziQRJ2GqZEk1h03IKH) | 3:05 | 2023-05-31 | 2024-07-05 |
 | [Birthday \- Nouvelle École](https://open.spotify.com/track/1esmF7IeAbGUdq71b6UvVp) | [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434) | [Nouvelle École \| Saison 3 \| Partie 3 \(Série Netflix\)](https://open.spotify.com/album/0DbVstsApJvNjhgHsj1u1z) | 2:28 | 2024-07-18 |  |
 | [Bolide allemand](https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 2:56 | 2024-07-04 |  |
@@ -54,6 +55,7 @@
 | [Goal](https://open.spotify.com/track/2yYwQWgkmEWEivKeLGODRK) | [Slkrack](https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85) | [Crackito, vol\. 1](https://open.spotify.com/album/5Z0HoUBlTxKxoJaMNcKHW8) | 2:37 | 2023-05-31 | 2024-04-19 |
 | [Goal](https://open.spotify.com/track/3yPL30dEp7quFIPKZSNIsA) | [Slkrack](https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85) | [Goal](https://open.spotify.com/album/3eGBwixVuMykpeIRP6CoZB) | 2:37 | 2023-05-31 | 2024-07-05 |
 | [Gravé dans la roche](https://open.spotify.com/track/0LZ90308GB1Tp05STjabeC) | [SNIPER](https://open.spotify.com/artist/1nTVNdaDAzXB1AbP30cGk6) | [Gravé dans la roche](https://open.spotify.com/album/6chD9SocKyshylTuhbKV2O) | 4:45 | 2024-07-11 |  |
+| [Générique de Fin \- Nouvelle École](https://open.spotify.com/track/3D2wU177Hr5AXTePqaC8KQ) | [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q) | [Nouvelle École \| Saison 3 \| La Finale \(Série Netflix\)](https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F) | 3:05 | 2024-07-21 |  |
 | [HOMEMADE](https://open.spotify.com/track/6E00uxTQsrmtdYTSCx0Yme) | [James Loup](https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE) | [FULL OPTION](https://open.spotify.com/album/64gWzun5ti8C2p8gvIrjYc) | 2:55 | 2024-07-04 |  |
 | [Illégal](https://open.spotify.com/track/05F2F5LYyfpldsBb0hQQcp) | [Slkrack](https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85), [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [Illégal](https://open.spotify.com/album/6u5fg232ZGcnhgBEX50Llz) | 2:41 | 2024-07-11 |  |
 | [Je sais pas faire de Refrains \- Nouvelle École](https://open.spotify.com/track/2nqz8fkqxbWx373LdoxlvR) | [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q) | [Nouvelle École \| Saison 3 \| Partie 3 \(Série Netflix\)](https://open.spotify.com/album/0DbVstsApJvNjhgHsj1u1z) | 3:39 | 2024-07-18 |  |
@@ -68,6 +70,7 @@
 | [Malya](https://open.spotify.com/track/5XRSmVzOdT0dd3mMEWFnQC) | [AMK](https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi) | [15](https://open.spotify.com/album/1kPpMyLk2aWFhjP6Jw51Gn) | 3:12 | 2024-07-04 |  |
 | [ME VOILÀ](https://open.spotify.com/track/3qJzUKj78n8JzdxFjkfkGr) | [Clara Charlotte](https://open.spotify.com/artist/2j2XsTjam1x6HjXkoPu2ki) | [ME VOILÀ](https://open.spotify.com/album/1xmDvMNKREJDfHBVjexEnm) | 2:54 | 2024-07-04 |  |
 | [Mi\-Temps](https://open.spotify.com/track/4giONHPVER7LRWKzPG0AyQ) | [Bayass](https://open.spotify.com/artist/0PT8CEHQdV4RtZfgpEdSgb), [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434) | [Mi\-Temps](https://open.spotify.com/album/3ZCqDNrBOZEvCSJOAtSvd6) | 2:13 | 2024-07-11 |  |
+| [Misaotra \- Nouvelle École](https://open.spotify.com/track/1E1sFUwobQopymfKEQpC66) | [JYEUHAIR](https://open.spotify.com/artist/7sr2KPOcmuTHm9GsbuRXKn) | [Nouvelle École \| Saison 3 \| La Finale \(Série Netflix\)](https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F) | 3:04 | 2024-07-21 |  |
 | [Mourir Demain \(Nouvelle École\)](https://open.spotify.com/track/2QPGE7wCDh2VMTcvGl2rzE) | [Elyon](https://open.spotify.com/artist/3VY8rqAcd0Aj6eAJyvmbON) | [Mourir Demain \(Nouvelle École\)](https://open.spotify.com/album/4KIIiadeLMb6tvzh27twVy) | 3:39 | 2024-07-18 |  |
 | [Mwaka Moon](https://open.spotify.com/track/7LDq2cE0TQV66BXorbV8FD) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Mwaka Moon](https://open.spotify.com/album/0JiHJJGVSHzQMdTJ2fp9dh) | 3:57 | 2023-05-31 | 2024-07-05 |
 | [Médusa](https://open.spotify.com/track/2hL0WVDLvlxZ60J4YyWvFW) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [A\-One](https://open.spotify.com/album/7vA0TnW2lm682zNwiRKEcE) | 2:37 | 2023-05-31 | 2024-07-05 |

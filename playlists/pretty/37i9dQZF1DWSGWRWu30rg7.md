@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Xeva Al Gazel
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,589 likes - 87 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,591 likes - 87 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

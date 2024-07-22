@@ -945,6 +945,36 @@
     },
     {
       "album": {
+        "name": "The Return (Deadly Deluxe)",
+        "url": "https://open.spotify.com/album/4pAQW3M2Fe7jNTBe64CtKX"
+      },
+      "artists": [
+        {
+          "name": "LVCRFT",
+          "url": "https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T"
+        },
+        {
+          "name": "Jake Miller",
+          "url": "https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t"
+        },
+        {
+          "name": "JHart",
+          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
+        },
+        {
+          "name": "Sarah Hudson",
+          "url": "https://open.spotify.com/artist/11S3x86ILlsuCBil6EmDo2"
+        }
+      ],
+      "date_added": "2024-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199330,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/4pIhySEQSAc1u8Aa3edT3M"
+    },
+    {
+      "album": {
         "name": "Father's Son",
         "url": "https://open.spotify.com/album/0Ti3d4vzU1JZd0kPhhRh4G"
       },

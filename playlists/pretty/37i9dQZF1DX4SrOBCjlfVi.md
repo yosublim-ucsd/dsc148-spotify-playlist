@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Denzel Curry, Lil Yachty, JT and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,902 likes - 48 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,954 likes - 48 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 7 | [Can't Get Enough \(feat\. BIA, Lakeyah & Flau'jae\)](https://open.spotify.com/track/3XvMwcBtHnk5GDem3AweQN) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Flau'jae](https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC) | [Can't Get Enough \(feat\. BIA, Lakeyah & Flau'jae\)](https://open.spotify.com/album/3NiNyHyUbObfCYN3GuytFL) | 3:28 |
 | 8 | [Shoot](https://open.spotify.com/track/1A8NNjRd8WLUirNesl9jYW) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Shoot](https://open.spotify.com/album/0J67VD8T4YXrFFh1MuMBWv) | 2:38 |
 | 9 | [Beretta](https://open.spotify.com/track/0f8chi9Bk1SstR3Rla6bJs) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z), [Tiny Boost](https://open.spotify.com/artist/7AXuWUXnSqeOfW4Wv29760) | [SHYLO](https://open.spotify.com/album/5byuY0SyANjYF7NyKvn0iu) | 2:16 |
-| 10 | [SO WHAT](https://open.spotify.com/track/2ER6bbx6npLHiUPnR5nlgM) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [BACK IN ACTION 4.0](https://open.spotify.com/album/75MyXCYXcmz18Lcq6wEYxq) | 2:58 |
+| 10 | [SO WHAT?](https://open.spotify.com/track/2ER6bbx6npLHiUPnR5nlgM) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [BACK IN ACTION 4.0](https://open.spotify.com/album/75MyXCYXcmz18Lcq6wEYxq) | 2:58 |
 | 11 | [Eye Know](https://open.spotify.com/track/1EKOslsEZTqm7iAdzu06d5) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Eye Know](https://open.spotify.com/album/3wSZdqiKzgyYIVfgGAomaf) | 1:49 |
 | 12 | [SIN MIEDO](https://open.spotify.com/track/4qAQTQH5lF4kINZ9JkURXp) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [SIN MIEDO](https://open.spotify.com/album/4NBSLYMhwbf5gUSc0ZHKQK) | 2:47 |
 | 13 | [Demi God](https://open.spotify.com/track/0tksP2JLwvrsOKbm1xjYYF) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Sahtyre](https://open.spotify.com/artist/1ZHmdzn0KzjEICyi9v6oDU) | [Demi God](https://open.spotify.com/album/5q08kDdIVPD5m3XBQGwmUh) | 2:56 |

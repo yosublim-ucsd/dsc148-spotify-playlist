@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico! Alberto V\u00e1zquez en portada.",
-  "num_followers": 157737,
+  "num_followers": 157776,
   "original_name": "Los 60 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Rock & Roll",
-        "url": "https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K"
-      },
-      "artists": [
-        {
-          "name": "Los Crazy Boys",
-          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
-        }
-      ],
-      "duration_ms": 155533,
-      "name": "Corina, Corina",
-      "url": "https://open.spotify.com/track/5CXC1tQRXrLTtRkzVbPTe6"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "Discos Del Mill\u00f3n",
         "url": "https://open.spotify.com/album/6UdmTdJKNARrt4QGRURZ8k"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 176493,
       "name": "Lagrimas De Cristal",
       "url": "https://open.spotify.com/track/16UEXcWy0r21FNGDxiMbgv"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Rock & Roll",
+        "url": "https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K"
+      },
+      "artists": [
+        {
+          "name": "Los Crazy Boys",
+          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
+        }
+      ],
+      "duration_ms": 155533,
+      "name": "Corina, Corina",
+      "url": "https://open.spotify.com/track/5CXC1tQRXrLTtRkzVbPTe6"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -271,22 +271,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Peerless 80 Aniversario - 24 \u00c9xitos",
-        "url": "https://open.spotify.com/album/52eGdmCUeEOIJFOM1rGJYX"
-      },
-      "artists": [
-        {
-          "name": "Queta Garay",
-          "url": "https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg"
-        }
-      ],
-      "duration_ms": 133253,
-      "name": "Chica ye y\u00e9",
-      "url": "https://open.spotify.com/track/6d57N8nRzeGBW2bMinOEKr"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "Antes del Fin del Mundo - 60's en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/25t6ChUwqdLVFgvkgmG1jw"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 143506,
       "name": "La Novia de Mi Mejor Amigo (The Girl of My Best Friend)",
       "url": "https://open.spotify.com/track/4dXvc8kyze9DQpnV5veD54"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Peerless 80 Aniversario - 24 \u00c9xitos",
+        "url": "https://open.spotify.com/album/52eGdmCUeEOIJFOM1rGJYX"
+      },
+      "artists": [
+        {
+          "name": "Queta Garay",
+          "url": "https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg"
+        }
+      ],
+      "duration_ms": 133253,
+      "name": "Chica ye y\u00e9",
+      "url": "https://open.spotify.com/track/6d57N8nRzeGBW2bMinOEKr"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -495,22 +495,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops",
-        "url": "https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q"
-      },
-      "artists": [
-        {
-          "name": "Los Teen Tops",
-          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
-        }
-      ],
-      "duration_ms": 171733,
-      "name": "Popotitos (Bonie Moroni)",
-      "url": "https://open.spotify.com/track/70dBmROatI6VWV7HoWayte"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "Go-Go en Rojo",
         "url": "https://open.spotify.com/album/5j8NJSGyjLcejTwyCN9d1P"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 142946,
       "name": "La Ni\u00f1a Bu (Ring Dang Doo)",
       "url": "https://open.spotify.com/track/2ctgZALPuTO2TkF5BVm0vS"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops",
+        "url": "https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q"
+      },
+      "artists": [
+        {
+          "name": "Los Teen Tops",
+          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
+        }
+      ],
+      "duration_ms": 171733,
+      "name": "Popotitos (Bonie Moroni)",
+      "url": "https://open.spotify.com/track/70dBmROatI6VWV7HoWayte"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -669,22 +669,6 @@
       "url": "https://open.spotify.com/track/1Ae5yrpad97frKpGWjRVVD"
     },
     {
-      "added_at": "2023-03-25 17:44:53",
-      "album": {
-        "name": "Mamacita Donde Esta Santa Claus",
-        "url": "https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF"
-      },
-      "artists": [
-        {
-          "name": "Chabelo",
-          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
-        }
-      ],
-      "duration_ms": 176848,
-      "name": "Aladino",
-      "url": "https://open.spotify.com/track/4OLxeBUasU6JxtOFwN4wXH"
-    },
-    {
       "added_at": "2024-07-12 13:46:41",
       "album": {
         "name": "100% Mexican Groovy: Batalla Estelar",
@@ -699,6 +683,22 @@
       "duration_ms": 167926,
       "name": "Fiebre",
       "url": "https://open.spotify.com/track/23MPu8Zp0HPhSVtNSTixMc"
+    },
+    {
+      "added_at": "2023-03-25 17:44:53",
+      "album": {
+        "name": "Mamacita Donde Esta Santa Claus",
+        "url": "https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF"
+      },
+      "artists": [
+        {
+          "name": "Chabelo",
+          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
+        }
+      ],
+      "duration_ms": 176848,
+      "name": "Aladino",
+      "url": "https://open.spotify.com/track/4OLxeBUasU6JxtOFwN4wXH"
     },
     {
       "added_at": "2024-07-12 13:46:41",
@@ -781,36 +781,36 @@
       "url": "https://open.spotify.com/track/7LhWtkCyEXgJCb2tednlR8"
     },
     {
-      "added_at": "2023-03-25 17:44:53",
+      "added_at": "2024-07-12 13:46:41",
       "album": {
-        "name": "Mamacita Donde Esta Santa Claus",
-        "url": "https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF"
+        "name": "100% Mexican Groovy: Batalla Estelar",
+        "url": "https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr"
       },
       "artists": [
         {
-          "name": "Chabelo",
-          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
+          "name": "Beto Diaz",
+          "url": "https://open.spotify.com/artist/0LBeJSgLxquJHj9Q976YRB"
         }
       ],
-      "duration_ms": 120790,
-      "name": "Cha Cha Cha Be Bop",
-      "url": "https://open.spotify.com/track/39tj1h7QcC7S5VU9deXDAc"
+      "duration_ms": 160949,
+      "name": "Jerusal\u00e9n",
+      "url": "https://open.spotify.com/track/17yn43ogchDhAbdWkWJwSU"
     },
     {
-      "added_at": "2020-03-18 04:18:26",
+      "added_at": "2024-07-12 13:46:41",
       "album": {
-        "name": "Las Numero 1 De Angelica Maria",
-        "url": "https://open.spotify.com/album/6jPn7YfPq82g8pllPp7YLW"
+        "name": "100% Mexican Groovy: Batalla Estelar",
+        "url": "https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr"
       },
       "artists": [
         {
-          "name": "Angelica Maria",
-          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
+          "name": "Salomon Jimenez",
+          "url": "https://open.spotify.com/artist/3smgD1PMafRnTOsCDJCFDx"
         }
       ],
-      "duration_ms": 181533,
-      "name": "Cuando Me Enamoro (Quando Mi Inamoro)",
-      "url": "https://open.spotify.com/track/3qTNqW7hrlVkFHmmgwHEK8"
+      "duration_ms": 147330,
+      "name": "Algo Tonto",
+      "url": "https://open.spotify.com/track/6V1fjhv6qcnQF24bgZvVDx"
     }
   ],
   "unique_name": "Los 60 M\u00e9xico",

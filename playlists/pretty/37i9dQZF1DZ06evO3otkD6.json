@@ -1,12 +1,12 @@
 {
   "description": "This Is Belinda. Los temas esenciales, todos en una lista.",
-  "num_followers": 67961,
+  "num_followers": 67973,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpmsgAAAAADEcCxxGsxnjni+O6gvKXVo",
+  "snapshot_id": "Zpr+AAAAAAAj5UE34Jfc01oQvzpoWVip",
   "tracks": [
     {
       "added_at": null,
@@ -995,22 +995,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Madrid X Marbella",
-        "url": "https://open.spotify.com/album/2coM4rvjL0SLDKoCwjtu8y"
+        "name": "Te Quiero Maxi Single",
+        "url": "https://open.spotify.com/album/6YZ2lSsfCVzabCnAOLNs7H"
       },
       "artists": [
         {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+          "name": "Nigga",
+          "url": "https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd"
+        },
+        {
+          "name": "Flex",
+          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
         },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 194576,
-      "name": "Madrid X Marbella",
-      "url": "https://open.spotify.com/track/3DiE3kg9WyLw0s8Sa7aTPE"
+      "duration_ms": 205775,
+      "name": "Te Quiero (feat. Belinda) - Spanglish",
+      "url": "https://open.spotify.com/track/5vD1PU8G39zpTB0J4LWJhm"
     },
     {
       "added_at": null,
@@ -1051,30 +1055,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Quiero Maxi Single",
-        "url": "https://open.spotify.com/album/6YZ2lSsfCVzabCnAOLNs7H"
-      },
-      "artists": [
-        {
-          "name": "Nigga",
-          "url": "https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd"
-        },
-        {
-          "name": "Flex",
-          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 205775,
-      "name": "Te Quiero (feat. Belinda) - Spanglish",
-      "url": "https://open.spotify.com/track/5vD1PU8G39zpTB0J4LWJhm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Silvana - C\u00f3mplices Al Rescate",
         "url": "https://open.spotify.com/album/7Mn2dBHL97jRe7zyuAXcgc"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 205040,
       "name": "Colorblind",
       "url": "https://open.spotify.com/track/2oekKvTdvWAk3x09g7HVlJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 216520,
+      "name": "I Love You... Te Quiero",
+      "url": "https://open.spotify.com/track/7FFFRavnUPwKhidY259LMD"
     },
     {
       "added_at": null,

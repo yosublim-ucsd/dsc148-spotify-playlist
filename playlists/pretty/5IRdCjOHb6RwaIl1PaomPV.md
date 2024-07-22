@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New music from Devon Again and MRD, plus the latest cuts from Miss Madeline, Delachute + more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,720 likes - 100 songs - 5 hr 13 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,716 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [cherry cola](https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [cherry cola / sunburn](https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn) | 2:48 |
-| 2 | [fucking highschool people](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z) | [MRD](https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR) | [fucking highschool people](https://open.spotify.com/album/2JY2jO4bnETjAmxqY0Jd2H) | 3:45 |
+| 1 | [fucking highschool people](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z) | [MRD](https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR) | [fucking highschool people](https://open.spotify.com/album/2JY2jO4bnETjAmxqY0Jd2H) | 3:45 |
+| 2 | [cherry cola](https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [cherry cola / sunburn](https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn) | 2:48 |
 | 3 | [beine spüren \- Paul Seul remix](https://open.spotify.com/track/6oVcJ76iH86cZ5tDx2OiPJ) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1), [Paul Seul](https://open.spotify.com/artist/1sSdOYlIBpjKaysZ7BVVdi) | [beine spüren \(Paul Seul remix\)](https://open.spotify.com/album/1ifWtNI7hW0ybxmoMoAl2W) | 4:15 |
 | 4 | [Heaven or Not \- AMÉMÉ Remix](https://open.spotify.com/track/1X1DOR4j3Ztmad5nEPgfEz) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Heaven or Not \(AMÉMÉ Remix\)](https://open.spotify.com/album/5EFiIqfdukR7UWW3QWmLfB) | 2:57 |
 | 5 | [Illusion](https://open.spotify.com/track/23MT4lzlKIjhZw8lf8uKzp) | [ascendant vierge](https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G), [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Illusion](https://open.spotify.com/album/4rWOfSWboZ1OWQXaSmL7sQ) | 4:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 99 | [Evighet](https://open.spotify.com/track/4cEN3svbqObdDpaZiv9sWP) | [Död Mark](https://open.spotify.com/artist/36ufPZjygPOubok9wycfl9) | [Död Mark 4Evigt](https://open.spotify.com/album/70XKEcF9OgL0YE3icy72ft) | 2:37 |
 | 100 | [FOREVER](https://open.spotify.com/track/6LLsYNT3q36780QZwUGZ8q) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Exodus](https://open.spotify.com/album/2ZiukKDfRim3Ejy1Cx5nLd) | 4:23 |
 
-Snapshot ID: `AAAaWRHFIifQZ6RYWE5L7+mLD7aEvmEW`
+Snapshot ID: `AAAaWvpqWzxkXuNo/g7FjvnyJp8jHUWK`

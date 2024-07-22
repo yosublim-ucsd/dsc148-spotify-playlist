@@ -2,7 +2,7 @@
 
 ### [This Is RENEE](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1niegE)
 
-> This Is RENEE\. Los temas esenciales, todos en una lista.
+> This is RENEE\. The essential tracks, all in one playlist.
 
 54 songs - 2 hr 50 min
 

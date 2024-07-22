@@ -3033,6 +3033,24 @@
     },
     {
       "album": {
+        "name": "Walk Over",
+        "url": "https://open.spotify.com/album/3IKSvw0ySq4gPmxMzb5sZY"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        }
+      ],
+      "date_added": "2024-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159250,
+      "name": "Walk Over",
+      "url": "https://open.spotify.com/track/2aUqsU0TGHC8ggDINWPC7l"
+    },
+    {
+      "album": {
         "name": "Talk That Talk (Deluxe Explicit)",
         "url": "https://open.spotify.com/album/3oQebIVUPY0IPiROZSIQFl"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL4ybW0RHS6K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/27oxH68ZhwZ4Td6jZztQqs">Caza</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65 likes - 78 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 66 likes - 78 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL4ybW0RHS6K.md) - [plain]
 | 14 | [SLANGEN](https://open.spotify.com/track/22tIwKXAZIbMRJxjIor9Rl) | [Famke Louise](https://open.spotify.com/artist/4Dm1MX4VPbtLssAQeBhHFo) | [SLANGEN](https://open.spotify.com/album/67LiVUDdyr9LbV7A6GWWla) | 2:46 |
 | 15 | [Volmaakt](https://open.spotify.com/track/6sHGyWWfe4nSUKAvlwIya6) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Lach](https://open.spotify.com/album/5fFbetGfiyklQC2dUyHwRA) | 3:23 |
 | 16 | [Je Weet Maar Nooit](https://open.spotify.com/track/2dHlCKfl1F4CfIxUbIQJk6) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Quessswho](https://open.spotify.com/artist/4Q23rm8jYyd2ft6Cm1MhwJ), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Chase](https://open.spotify.com/album/3IB6wQmGa8n1AzZMJ7LECv) | 2:56 |
-| 17 | [Doe ‘t Voor Kleine](https://open.spotify.com/track/2HAB4T8FrO01NjffeB2mUh) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Jongen Van De Straat](https://open.spotify.com/album/4CdHokdfzbzZYoJGLAvQ8T) | 3:05 |
-| 18 | [Gaan We Weg?](https://open.spotify.com/track/02nm2yGw7BygWmRcbFhAlC) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Gaan We Weg?](https://open.spotify.com/album/4SV6Y14WPFNuivMPrbfSas) | 2:21 |
+| 17 | [Gaan We Weg?](https://open.spotify.com/track/02nm2yGw7BygWmRcbFhAlC) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Gaan We Weg?](https://open.spotify.com/album/4SV6Y14WPFNuivMPrbfSas) | 2:21 |
+| 18 | [Doe ‘t Voor Kleine](https://open.spotify.com/track/2HAB4T8FrO01NjffeB2mUh) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Jongen Van De Straat](https://open.spotify.com/album/4CdHokdfzbzZYoJGLAvQ8T) | 3:05 |
 | 19 | [Bewijzen](https://open.spotify.com/track/5goPbNqajuVYBT0j7AQTdu) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [I am Aisha](https://open.spotify.com/artist/1fTPAgBH6gCQZU9bBWVaOf), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF), [Jandro](https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI), [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM) | [Chase](https://open.spotify.com/album/3IB6wQmGa8n1AzZMJ7LECv) | 2:52 |
 | 20 | [HOUD ME VAST](https://open.spotify.com/track/1TqCfH7JX282aVNvjRUUmH) | [Nienke Plas](https://open.spotify.com/artist/5rAvD7H6mxJut208JT5KI4) | [HOUD ME VAST](https://open.spotify.com/album/4ZFp2KgE1QN5nFEISt6otd) | 3:48 |
 | 21 | [Lockdown](https://open.spotify.com/track/1a4rqo1v8hv75XRXOrW1v1) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Ibiza Stories](https://open.spotify.com/album/4f4XrPHbOOPXglYfMCkHgP) | 3:09 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL4ybW0RHS6K.md) - [plain]
 | 77 | [No Crown \(feat\. Caza\)](https://open.spotify.com/track/1Cen6JcfsfSiYE1hN84EDC) | [Vlado](https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Trap Phone](https://open.spotify.com/album/74AVyCfx2HgawZ84ZT1ULq) | 2:33 |
 | 78 | [Rudebwoy \(feat\. Kempi & Caza\) \- Instrumental](https://open.spotify.com/track/7gfwWdXbcjAfsOjqFhpHDG) | [Jiri11](https://open.spotify.com/artist/6RxMqY900Xpza3Kh9j86Mn), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [TRIFECTA Type Beat Volume 4](https://open.spotify.com/album/0N0MHtP27q7nwH0PVrqByX) | 3:09 |
 
-Snapshot ID: `AbXO2gAAAAAO2Lx6ByRBZZMXQmb6hxuk`
+Snapshot ID: `AbXUegAAAABmB7laaAxNl7EBMoCM5S+j`

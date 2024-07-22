@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT?si=1vkq9fm2QqeGgGf37IYn1w>Limoblaze</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,177 likes - 87 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,262 likes - 87 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 45 | [For Your Glory](https://open.spotify.com/track/37s4tnTBnzCfgNTmLT0LFi) | [Benjamin Israel](https://open.spotify.com/artist/5qGo4F4KRcg0fBmJBD2Ubq) | [For Your Glory](https://open.spotify.com/album/0Mm1IpVznG9wd5WQNvope4) | 5:49 |
 | 46 | [Ebezina \- Remix](https://open.spotify.com/track/4aeJUqWP7Sa1PKd8E0ZpDV) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Promise Effiong](https://open.spotify.com/artist/1I9z32ju9HEWHAZcEhKGqp) | [Ebezina \(Remix\)](https://open.spotify.com/album/0WCYtMFPpuBcdlLzeKfztd) | 4:54 |
 | 47 | [God is with me](https://open.spotify.com/track/01e8xtHzB4RHLyQJTyvZFA) | [Ify Benson](https://open.spotify.com/artist/2KiXfF8UiD0qA7kqMvYKBl) | [God is with me](https://open.spotify.com/album/69ocvSQGMUHObMqCHCk7c5) | 2:23 |
-| 48 | [Every thing](https://open.spotify.com/track/7M7033I303m5q3iKEqgfjc) | [Steve Rhema](https://open.spotify.com/artist/6Kh0D0JaOXIPRzD5BI9YwN) | [Every thing](https://open.spotify.com/album/79BFOuyXIanYphMG7uS202) | 2:45 |
+| 48 | [Everything](https://open.spotify.com/track/7M7033I303m5q3iKEqgfjc) | [Steve Rhema](https://open.spotify.com/artist/6Kh0D0JaOXIPRzD5BI9YwN) | [Everything](https://open.spotify.com/album/79BFOuyXIanYphMG7uS202) | 2:45 |
 | 49 | [Mighty Supply II](https://open.spotify.com/track/4BHibKM4v9yL7Elm7KuCWm) | [Younggod](https://open.spotify.com/artist/7fmf0V5T7xiIRjHS46hHiW), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa), [Wiffi Drips](https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7), [Apostle X](https://open.spotify.com/artist/5YcEq3AmBkhOVAZpxAxJBT), [Rev\. Arome Adah](https://open.spotify.com/artist/6xiBesoZpO4YkLAw8vZL2d) | [Mighty Supply II](https://open.spotify.com/album/13jRoPRDCVROERTAHtVlyt) | 4:25 |
 | 50 | [You And Me Forever \- Special Version](https://open.spotify.com/track/3UWec3urPYb30iZrQVB9qp) | [Da Voice](https://open.spotify.com/artist/5Dc9tfmomwFNnBY10xj0kj) | [You And Me Forever \(Special Version\)](https://open.spotify.com/album/2yZfOlrbXUeWTZh6E3ivuD) | 2:23 |
 | 51 | [Heilig Is U Heer](https://open.spotify.com/track/4QWfFIVnuHQoDyzPe8TImt) | [EKC Worship](https://open.spotify.com/artist/3A6LDU0SrL6MzYbI7lYOx9) | [Heilig Is U Heer](https://open.spotify.com/album/693LL64XfvjIC0oawNLWGu) | 8:31 |

@@ -4,7 +4,7 @@
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-186 songs - 10 hr 7 min
+186 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Original MTK \#2 \- Se Você Vier](https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9), [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Original MTK \#2 \- Se Você Vier](https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP) | 4:24 | 2021-11-12 |  |
 | [Papaya](https://open.spotify.com/track/06QF4GmSL2y1BIUy9g4H06) | [Tubaína](https://open.spotify.com/artist/5aJbzurT6OT2V55swJzGpf) | [Papaya](https://open.spotify.com/album/2jw9GmBUFi9NupG0vf69Pr) | 3:13 | 2023-02-03 | 2023-02-18 |
 | [Para de Mentir](https://open.spotify.com/track/1bjvTcHiftBtqeK6Y2Mh8H) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Para de Mentir](https://open.spotify.com/album/0nMw6EngQqlOJXLxt53jpQ) | 4:14 | 2023-11-17 | 2024-06-22 |
-| [Passa a Bola \(Ao Vivo em Noronha\)](https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Passa a Bola \(Ao Vivo em Noronha\)](https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs) | 3:28 | 2024-07-19 |  |
+| [Passa a Bola \(Ao Vivo em Noronha\)](https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Passa a Bola \(Ao Vivo em Noronha\)](https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs) | 3:08 | 2024-07-19 |  |
 | [Pegando Carona](https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Ciclo Vicioso](https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ) | 3:26 | 2024-03-08 |  |
 | [Pelo Mundo](https://open.spotify.com/track/6Gv2AXzjxhlTYKyb0cznEF) | [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV), [Jef Rodriguez](https://open.spotify.com/artist/2W964lXNPqsQoUu1xzEKNo) | [Pelo Mundo](https://open.spotify.com/album/3CBgeU3PHAYf1Yai40dUDI) | 2:46 | 2023-03-24 | 2023-09-23 |
 | [Perto do Sol](https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib) | [RNT](https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d) | [Perto do Sol](https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r) | 2:48 | 2021-11-12 |  |

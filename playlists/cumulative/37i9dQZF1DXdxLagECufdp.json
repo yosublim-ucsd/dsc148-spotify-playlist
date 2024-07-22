@@ -773,6 +773,32 @@
     },
     {
       "album": {
+        "name": "Chat Noir Chat Blanc",
+        "url": "https://open.spotify.com/album/0wESIDOydrlI7S5mI2saXn"
+      },
+      "artists": [
+        {
+          "name": "Dr. Nelle Karajlic",
+          "url": "https://open.spotify.com/artist/5yzgU0obBQzoueVFvrR8Sa"
+        },
+        {
+          "name": "Dejan Sparavalo",
+          "url": "https://open.spotify.com/artist/3yn8Rsrzmf05bVkrQtl420"
+        },
+        {
+          "name": "Vojislav Aralica",
+          "url": "https://open.spotify.com/artist/68fyIAl24S9AqCMZMErTMd"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169106,
+      "name": "Duj Sandale",
+      "url": "https://open.spotify.com/track/3rx0WO8pmKvpW7DxBOPxry"
+    },
+    {
+      "album": {
         "name": "El Fantasma Enamorado (E13 Sessions)",
         "url": "https://open.spotify.com/album/3Ka4qbcJGSq1ouSFDbs4K1"
       },
@@ -2340,7 +2366,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-22",
       "duration_ms": 218546,
       "name": "Pa' Bailar (Siempre Quiero Mas)",
       "url": "https://open.spotify.com/track/701VW4sjPM6NNyvgQiAUDX"

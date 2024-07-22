@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,695 songs - 4 day 22 hr 36 min
+1,696 songs - 4 day 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,6 +390,7 @@
 | [Dreamlike](https://open.spotify.com/track/2Q5SujJTPSQRKH5Yu2b4Ov) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Dreamlike](https://open.spotify.com/album/5vrOVj0dYdmEuhXT6cY6jW) | 3:28 | 2023-04-07 | 2023-04-15 |
 | [Dreamlike \- orchestral](https://open.spotify.com/track/2jwlaf1skvY0QEC4I38coo) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Dreamlike \(orchestral\)](https://open.spotify.com/album/3f7KIERdCN1UPslXmiIxri) | 2:24 | 2024-06-14 | 2024-06-29 |
 | [DROP \(feat\. Randy Blythe\)](https://open.spotify.com/track/0EYW7sCfFn9QnuFsSGAt33) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [DROP \(feat\. Randy Blythe\)](https://open.spotify.com/album/4NKRWnBsryI3hSVOSm5ihE) | 3:11 | 2023-09-22 | 2023-10-15 |
+| [Drum Solo \- Live](https://open.spotify.com/track/2M4tVLZkNYkveYuvLYi5T0) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Standing By The Light \(Live New York '78\)](https://open.spotify.com/album/0V2O3buHgj8GeXOkY521H3) | 6:15 | 2024-07-19 |  |
 | [Drum Solo \- Live From Mid\-Hudson Civic Arena, Poughkeepsie NY / 1984](https://open.spotify.com/track/7BZSorIzeorVRG78YDt3Fx) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS Off The Soundboard: Live In Poughkeepsie](https://open.spotify.com/album/5fy9u8pWFQtEO2Er9SSfcj) | 5:25 | 2023-04-28 | 2023-05-06 |
 | [Dubai Desires](https://open.spotify.com/track/0zAfmkp6yhpFYXbdsdxt39) | [Piero](https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm) | [Dubai Desires](https://open.spotify.com/album/2vEtMdf2Owawtm89Lozqt3) | 2:37 | 2024-04-19 | 2024-05-10 |
 | [Dump On Em](https://open.spotify.com/track/1C1OdOEh7TEbI2qKPOZnmh) | [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [MC Ren](https://open.spotify.com/artist/4fbyGOEjViyE97W58eGEgU) | [Soul Assassins 3: Death Valley](https://open.spotify.com/album/2mdiBHkwcyU6EBnhLtStoD) | 3:36 | 2023-08-25 | 2023-09-10 |
@@ -1255,7 +1256,7 @@
 | [Shake Dog Shake \- Live At Zenith, Paris](https://open.spotify.com/track/08Ky8qaJYZanGFxRRrqlLW) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Shake Dog Shake](https://open.spotify.com/album/4XnEtST40geeFcAnToByfc) | 5:05 | 2024-02-16 | 2024-02-24 |
 | [Sharp Shooter](https://open.spotify.com/track/0mpu7EUvtfjSvLPZuwc2u7) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [= 1](https://open.spotify.com/album/4nZFejdpJI4dqllNHlAjXE) | 3:44 | 2024-07-19 |  |
 | [She is a Fire](https://open.spotify.com/track/4y1FN6vpHYUAaJVEOsgCHp) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [She is a Fire](https://open.spotify.com/album/03xxDa7rJRB4fl7ZB2B5qg) | 5:22 | 2023-03-03 | 2023-03-11 |
-| [She Makes Me \(Feel Alright\) \- Live](https://open.spotify.com/track/0jQGiTIMPDpYnOsomWyrd8) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Standing By The Light \(Live New York '78\)](https://open.spotify.com/album/0V2O3buHgj8GeXOkY521H3) | 3:34 | 2024-07-19 |  |
+| [She Makes Me \(Feel Alright\) \- Live](https://open.spotify.com/track/0jQGiTIMPDpYnOsomWyrd8) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Standing By The Light \(Live New York '78\)](https://open.spotify.com/album/0V2O3buHgj8GeXOkY521H3) | 3:34 | 2024-07-19 | 2024-07-22 |
 | [She's My Best Friend \- Live](https://open.spotify.com/track/1v0au4U2fSOC7MpV8GvCxs) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Live 76](https://open.spotify.com/album/1ow8kQSYz5M2nqCWWasM0t) | 5:33 | 2023-09-08 | 2023-09-14 |
 | [Sherry Darling \- Live at Wembley Arena, London, UK \- June 5, 1981](https://open.spotify.com/track/4wkA7TQn8AtguuDgowgn18) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Live Series: Songs Of Character](https://open.spotify.com/album/5Do6bS6vnJqvAC9b3mJ1fi) | 4:54 | 2023-04-21 | 2023-05-21 |
 | [Shikanoko Nokonoko Koshitantan Meme](https://open.spotify.com/track/7pmP9JHlkAwa2UUN1mv49U) | [The Covers Duo](https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G) | [Shikanoko Nokonoko Koshitantan Meme](https://open.spotify.com/album/25xw8BXlctmH3CxyTwJTBV) | 5:26 | 2024-07-19 |  |

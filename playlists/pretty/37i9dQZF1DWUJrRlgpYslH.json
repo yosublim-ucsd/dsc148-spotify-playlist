@@ -1,6 +1,6 @@
 {
   "description": "A lazy Sunday vibe, whatever day of the week it is.",
-  "num_followers": 75897,
+  "num_followers": 77331,
   "original_name": "Sunday Mood",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-07-12 21:26:03",
       "album": {
+        "name": "Menagerie",
+        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 254560,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
+    },
+    {
+      "added_at": "2024-07-12 21:26:03",
+      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 279204,
       "name": "Good Days",
       "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
-    },
-    {
-      "added_at": "2024-07-12 21:26:03",
-      "album": {
-        "name": "Menagerie",
-        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 254560,
-      "name": "Lovely Day",
-      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
     },
     {
       "added_at": "2024-07-12 21:26:03",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-07-12 21:26:03",
       "album": {
-        "name": "Star Crossed",
-        "url": "https://open.spotify.com/album/2p02lUwcpq63r3I7V94m3r"
-      },
-      "artists": [
-        {
-          "name": "Devin Kennedy",
-          "url": "https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z"
-        }
-      ],
-      "duration_ms": 200581,
-      "name": "Star Crossed",
-      "url": "https://open.spotify.com/track/2iDrFP2ayV44GlQlUv3RKj"
-    },
-    {
-      "added_at": "2024-07-12 21:26:03",
-      "album": {
         "name": "The Dionne Warwick Collection: Her All-Time Greatest Hits",
         "url": "https://open.spotify.com/album/6jt0AE3c2ZC5e9TJA2Duo2"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 179506,
       "name": "(There's) Always Something There to Remind Me",
       "url": "https://open.spotify.com/track/2wc9DHQnBTnMKDIYcXFzoq"
+    },
+    {
+      "added_at": "2024-07-12 21:26:03",
+      "album": {
+        "name": "Star Crossed",
+        "url": "https://open.spotify.com/album/2p02lUwcpq63r3I7V94m3r"
+      },
+      "artists": [
+        {
+          "name": "Devin Kennedy",
+          "url": "https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z"
+        }
+      ],
+      "duration_ms": 200581,
+      "name": "Star Crossed",
+      "url": "https://open.spotify.com/track/2iDrFP2ayV44GlQlUv3RKj"
     },
     {
       "added_at": "2024-07-12 21:26:03",

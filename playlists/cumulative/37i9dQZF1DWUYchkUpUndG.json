@@ -14185,24 +14185,6 @@
     },
     {
       "album": {
-        "name": "Every thing",
-        "url": "https://open.spotify.com/album/79BFOuyXIanYphMG7uS202"
-      },
-      "artists": [
-        {
-          "name": "Steve Rhema",
-          "url": "https://open.spotify.com/artist/6Kh0D0JaOXIPRzD5BI9YwN"
-        }
-      ],
-      "date_added": "2024-07-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 165041,
-      "name": "Every thing",
-      "url": "https://open.spotify.com/track/7M7033I303m5q3iKEqgfjc"
-    },
-    {
-      "album": {
         "name": "Everybody (Remix)",
         "url": "https://open.spotify.com/album/2wR5ikP7YWuFlBxG6vdCMS"
       },
@@ -14452,6 +14434,24 @@
       "duration_ms": 131250,
       "name": "Everything",
       "url": "https://open.spotify.com/track/3jvZBYSIgwUflehgC2dIWl"
+    },
+    {
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/79BFOuyXIanYphMG7uS202"
+      },
+      "artists": [
+        {
+          "name": "Steve Rhema",
+          "url": "https://open.spotify.com/artist/6Kh0D0JaOXIPRzD5BI9YwN"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165041,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/7M7033I303m5q3iKEqgfjc"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Updated 21 Jul 22:02 UTC.
+> Latest popular single releases\. Updated 21 Jul 04:02 UTC.
 
 1,214 songs - 2 day 19 hr 5 min
 

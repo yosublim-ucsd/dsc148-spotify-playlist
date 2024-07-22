@@ -1,12 +1,12 @@
 {
-  "description": "This Is Banda Maguey. Los temas esenciales, todos en una lista.",
-  "num_followers": 27175,
+  "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
+  "num_followers": 27210,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpmsgAAAAAAF/kTK68SyDtm9GDzBAgVy",
+  "snapshot_id": "Zpr+AAAAAAC+XTHJDD+ENAqXCtAU74uY",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tesoros de Coleccion",
-        "url": "https://open.spotify.com/album/32VXfWuobjTws2zbbs2rnM"
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 167386,
-      "name": "Quiero Volver",
-      "url": "https://open.spotify.com/track/7vBRSk7UkuFjLjVVMsoHZx"
+      "duration_ms": 149902,
+      "name": "Juan Colorado",
+      "url": "https://open.spotify.com/track/2nVMZNKy25WDfy96XNqZKQ"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 149902,
-      "name": "Juan Colorado",
-      "url": "https://open.spotify.com/track/2nVMZNKy25WDfy96XNqZKQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Coraz\u00f3n Abierto",
         "url": "https://open.spotify.com/album/40pLKjuTNiEgIiUeaXQ2Lk"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 166900,
       "name": "El Toca Toca",
       "url": "https://open.spotify.com/track/48eyqkxVkl5nKOdHp5WIxv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tesoros de Coleccion",
+        "url": "https://open.spotify.com/album/32VXfWuobjTws2zbbs2rnM"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 167386,
+      "name": "Quiero Volver",
+      "url": "https://open.spotify.com/track/7vBRSk7UkuFjLjVVMsoHZx"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tesoros de Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/4q62DxnJ4jXxBybGvBjWuD"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 189626,
-      "name": "Cu\u00e1nto Te Quiero",
-      "url": "https://open.spotify.com/track/2y58KLpoSRCHHR1053NO9E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Toro Pinto",
         "url": "https://open.spotify.com/album/7l2PClmsLcKhI0p3FDL65N"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 211306,
       "name": "El Toro Pinto",
       "url": "https://open.spotify.com/track/1Bintm3VasQng30o97U9D3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tesoros de Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/4q62DxnJ4jXxBybGvBjWuD"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 189626,
+      "name": "Cu\u00e1nto Te Quiero",
+      "url": "https://open.spotify.com/track/2y58KLpoSRCHHR1053NO9E"
     },
     {
       "added_at": null,

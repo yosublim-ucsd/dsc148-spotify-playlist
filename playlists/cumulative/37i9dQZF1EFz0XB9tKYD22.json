@@ -2665,6 +2665,24 @@
     },
     {
       "album": {
+        "name": "If You Were A Country Girl",
+        "url": "https://open.spotify.com/album/7dGxG3XxGN6AOm6nz2oUi0"
+      },
+      "artists": [
+        {
+          "name": "Demps",
+          "url": "https://open.spotify.com/artist/5Gx523vSXLobJkopSyany4"
+        }
+      ],
+      "date_added": "2024-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157359,
+      "name": "If You Were A Country Girl",
+      "url": "https://open.spotify.com/track/0z7CPCDePaauQh9g1k5VZl"
+    },
+    {
+      "album": {
         "name": "Getting Good",
         "url": "https://open.spotify.com/album/4dKNidNDeT9LaPwjzrKv6c"
       },

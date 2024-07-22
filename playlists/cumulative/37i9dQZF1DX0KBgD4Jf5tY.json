@@ -1195,6 +1195,24 @@
     },
     {
       "album": {
+        "name": "Ad Occhi Aperti",
+        "url": "https://open.spotify.com/album/5s0su3k09HeBuNPKuyvU47"
+      },
+      "artists": [
+        {
+          "name": "Anita Cane Violins",
+          "url": "https://open.spotify.com/artist/4o0yqv6vXY7VZiHXFhCBhP"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243789,
+      "name": "Ad Occhi Aperti",
+      "url": "https://open.spotify.com/track/3NMAYytFJOcIbYAhdJr3gj"
+    },
+    {
+      "album": {
         "name": "adesso / tardi",
         "url": "https://open.spotify.com/album/7bQfAELBzrVzWVCzQrvaBh"
       },
@@ -21224,7 +21242,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-22",
       "duration_ms": 142000,
       "name": "si dai per\u00f2",
       "url": "https://open.spotify.com/track/556yPQfa994qWfw6X1ctsf"

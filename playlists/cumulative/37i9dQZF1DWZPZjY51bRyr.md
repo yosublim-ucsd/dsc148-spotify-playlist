@@ -4,12 +4,13 @@
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-219 songs - 11 hr 25 min
+220 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [432 Hz \- Din Aur Raat](https://open.spotify.com/track/3TM9284Jq1JRm0EouDrEGa) | [Mishika](https://open.spotify.com/artist/79pwbuZeN20i17nbhG3Qgr) | [432 Hz \- Din Aur Raat](https://open.spotify.com/album/0bFlvpmQGGiH43x1n29ptn) | 2:32 | 2024-07-18 |  |
 | [432 Hz Delta Earth](https://open.spotify.com/track/0yClwB7zCLWhcshv29Oep6) | [Jupiter Sorrow](https://open.spotify.com/artist/3jqblnBchsyc0UJrQ9YJMw) | [432 Hz Delta Earth](https://open.spotify.com/album/5MDAtNZmWg0GfB23Rvyaas) | 2:22 | 2023-10-26 | 2024-07-21 |
+| [432 Hz Lotus](https://open.spotify.com/track/2sdrlf1AV9jJqORYxGlIan) | [Vanessa Parson](https://open.spotify.com/artist/59S9QzQL8JVg6lts6OmX7I) | [432 Hz Lotus](https://open.spotify.com/album/4y7l5zPX113XxJE8g1XCeI) | 2:58 | 2024-07-18 |  |
 | [432 Hz Serenity Embrace](https://open.spotify.com/track/2H1JcyE318d91zg3DXI6Zj) | [Juni Willow](https://open.spotify.com/artist/5fyPGApAeuzdkwvW02LjT8) | [432 Hz Serenity Embrace](https://open.spotify.com/album/66mC8CxQZFCfinlZw5QyTh) | 2:41 | 2023-09-25 |  |
 | [432hz Let It Heal \- Studio Edit](https://open.spotify.com/track/5NWPSiHduPE5OSAeh6Frpb) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Let It Heal](https://open.spotify.com/album/7l2UxyaSgVWBMxCChOXMeR) | 3:40 | 2023-03-28 |  |
 | [528 Hz \- Depth](https://open.spotify.com/track/4wir6hzWdheNZVGQQMOrih) | [Willow Bird](https://open.spotify.com/artist/4xVge9wtVXlLcmj9BvDoHy) | [528 Hz \- Depth](https://open.spotify.com/album/4I6ywVOrEHtslVrCFC3tI8) | 2:31 | 2023-12-15 |  |
@@ -185,7 +186,7 @@
 | [Soothe](https://open.spotify.com/track/1DL4f1FiSNforkp9pWBWRc) | [Damir Yamm](https://open.spotify.com/artist/1IpLgouAHJGUP94xZkXi5z) | [Soothe](https://open.spotify.com/album/1gNyZvF7PBAgWsMyW4DvTP) | 2:35 | 2023-03-20 |  |
 | [Soulful Serenity](https://open.spotify.com/track/7z49f0uSg5zzR0M7c2WuVB) | [Neoterikoi](https://open.spotify.com/artist/003GvxsE75RdUGOB36UElA) | [Soulful Serenity](https://open.spotify.com/album/692iI5bmgzIOAdpkD6zMvj) | 3:04 | 2023-10-16 |  |
 | [Sounds Of The Earth](https://open.spotify.com/track/1BwGOA5hAFxJSsCxMzofhC) | [Soliaga](https://open.spotify.com/artist/7LIerH0gT1AvTtmxx7xQp8) | [Sounds Of The Earth](https://open.spotify.com/album/6pqqZL1majgeW7H17H9Wlw) | 2:28 | 2023-03-03 |  |
-| [Sparrow Cloud](https://open.spotify.com/track/0ScOpQ7ZnaFE1wjkuZ5pIX) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Essence of Mind](https://open.spotify.com/album/2kXPGbbn7SVW9YCDFYbx1Y) | 4:00 | 2023-02-17 |  |
+| [Sparrow Cloud](https://open.spotify.com/track/0ScOpQ7ZnaFE1wjkuZ5pIX) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Essence of Mind](https://open.spotify.com/album/2kXPGbbn7SVW9YCDFYbx1Y) | 4:00 | 2023-02-17 | 2024-07-22 |
 | [Spatial Healing](https://open.spotify.com/track/3JJC1OPhvfUEkq2imeT9yu) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Spatial Healing](https://open.spotify.com/album/6x7ptkcLvOwjKEj3VzeuzI) | 2:58 | 2023-02-17 | 2023-08-17 |
 | [Spiritual Echoes](https://open.spotify.com/track/5TGrXaVmrNlJoeaCcuyGhc) | [Bernie Longo](https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1) | [Spiritual Echoes](https://open.spotify.com/album/20ztVU1HJ6YJSVCVruojPu) | 2:44 | 2023-09-25 |  |
 | [Spiritual Sleep](https://open.spotify.com/track/3NxOODwM9R5KfibzsvTT2F) | [Queens of the Dream World](https://open.spotify.com/artist/3CyLUmnwr7NReZg4Hm4EWz) | [Dream Will End](https://open.spotify.com/album/2BX0VKPhfcUrCeITkQwKVu) | 2:36 | 2023-02-17 | 2023-08-17 |

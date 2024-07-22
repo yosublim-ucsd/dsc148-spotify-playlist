@@ -4,7 +4,7 @@
 
 > Take another hit.
 
-201 songs - 10 hr 7 min
+202 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [AYÉ AYO \(feat\. Skalpovich\)](https://open.spotify.com/track/4XXJnTdwm0MaKLP2OXajCU) | [L'Algérino](https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui), [Skalpovich](https://open.spotify.com/artist/0Flx9EfBqXHltFcp3guYVt) | [AYÉ AYO \(feat\. Skalpovich\)](https://open.spotify.com/album/2LFb14evc1ArfZ8SkQUbcl) | 3:03 | 2023-03-14 |  |
 | [Baby](https://open.spotify.com/track/3pudQCMnsFGwOElTZmuml8) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Baby](https://open.spotify.com/album/4ag07Nbz1xUcFWU17JNh1r) | 2:57 | 2022-07-28 | 2023-03-28 |
 | [Baddest Boy \- Remix](https://open.spotify.com/track/4lDghGd035xrzGp6Yec2j1) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Baddest Boy \(Remix\)](https://open.spotify.com/album/2aNveWp5zVMduvpZwAZTpf) | 2:24 | 2022-07-28 | 2023-03-28 |
-| [Balader](https://open.spotify.com/track/6PrB4KpvuoYWtwjPC5a44S) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 2:56 | 2022-07-28 |  |
+| [Balader](https://open.spotify.com/track/6PrB4KpvuoYWtwjPC5a44S) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 2:56 | 2022-07-28 | 2024-07-22 |
 | [Başkasını Sevmem \(feat\. Dilara Guntekin\)](https://open.spotify.com/track/493qLcwTTmGlPuvfp8urdA) | [Emil Rosé](https://open.spotify.com/artist/3TNTPduFxe8yaox2f6NxNC), [Dilara Guntekin](https://open.spotify.com/artist/4H6YFOGMXklQmPYSzISocN) | [Başkasını Sevmem \(feat\. Dilara Guntekin\)](https://open.spotify.com/album/0Nl33GUJXy6KHhfMXC9mS8) | 3:15 | 2023-02-10 |  |
 | [Bebeğim](https://open.spotify.com/track/3LHEkrzQf5Von16auXW10H) | [Ali471](https://open.spotify.com/artist/2hH16roqnQFy0PdSmgZRSJ), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Bebeğim](https://open.spotify.com/album/6RUSOUecDOBsdjSL1Q6mw5) | 2:41 | 2023-07-07 | 2024-05-26 |
 | [BERIZ](https://open.spotify.com/track/1MpuM9oqDtjMZ2tVImMG23) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [BERIZ](https://open.spotify.com/album/4jsWNnuGu4LnaYAQ4wWfQA) | 2:55 | 2022-07-28 | 2023-07-08 |
@@ -145,6 +145,7 @@
 | [Onder Invloed](https://open.spotify.com/track/1XnbSJdC6moI5TQDyL3LYQ) | [Shah](https://open.spotify.com/artist/7lPPiwLIuHV5fPlN6jLi13) | [Onder Invloed](https://open.spotify.com/album/1K5yamaxaxE6azHb5sUofC) | 2:10 | 2023-07-07 |  |
 | [Only You](https://open.spotify.com/track/28cKZOhv7MWfUnlOIj1Rid) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd) | [Les vestiges du fleau](https://open.spotify.com/album/10BrhVps4lNlCk75szZSIk) | 3:37 | 2022-07-28 | 2023-03-26 |
 | [ONLY YOU \(feat\. Dhurata Dora\)](https://open.spotify.com/track/42iz4icGtihF8Q7lXABUoR) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd) | [LES VESTIGES DU FLÉAU](https://open.spotify.com/album/2w5v7qfVUFA9YEIDh6BS6d) | 3:37 | 2023-03-16 | 2023-03-28 |
+| [Otra](https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Otra](https://open.spotify.com/album/7CDNVS0VbByb886MZVPeuF) | 2:14 | 2024-07-21 |  |
 | [Overseas](https://open.spotify.com/track/337kcYVjYXdLBItCw9ry3b) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Home Alone 2](https://open.spotify.com/album/50ez0rCXWIf3s5cvcALStA) | 3:42 | 2023-12-20 |  |
 | [PAINTING PICTURES](https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [5LBS OF PRESSURE](https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI) | 2:02 | 2023-03-27 | 2023-07-08 |
 | [Pakistan](https://open.spotify.com/track/72bWarcvDzWp9aAsUWnVpq) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Pakistan](https://open.spotify.com/album/2Xjzyzg5UuBg6fGHBs1SL2) | 2:54 | 2023-07-07 |  |

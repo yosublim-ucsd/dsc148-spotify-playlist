@@ -1732,7 +1732,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-21",
+      "date_removed": null,
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -2712,10 +2712,28 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-22",
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
+    },
+    {
+      "album": {
+        "name": "ATE",
+        "url": "https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148051,
+      "name": "Chk Chk Boom",
+      "url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH"
     },
     {
       "album": {
@@ -2730,7 +2748,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-22",
       "duration_ms": 153347,
       "name": "Chk Chk Boom (Festival Ver.)",
       "url": "https://open.spotify.com/track/5yye6RvxPOo8YU0fYWQpNn"
@@ -6730,7 +6748,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-22",
       "duration_ms": 148632,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/04A4WyCRyHQ8Nb3u3IsfzH"
@@ -7358,7 +7376,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-22",
       "duration_ms": 185527,
       "name": "JJAM",
       "url": "https://open.spotify.com/track/6ojfWEW5oBSyXQqO9G72iM"
@@ -9938,10 +9956,28 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-22",
       "duration_ms": 187545,
       "name": "MOUNTAINS",
       "url": "https://open.spotify.com/track/0MvgUGhKvrStBo2XsPuwt6"
+    },
+    {
+      "album": {
+        "name": "ATE",
+        "url": "https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187545,
+      "name": "MOUNTAINS",
+      "url": "https://open.spotify.com/track/6jTOFMDc15rrTj9ZN0b7eN"
     },
     {
       "album": {
@@ -10620,7 +10656,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-22",
       "duration_ms": 126000,
       "name": "OBUZA",
       "url": "https://open.spotify.com/track/656lAa8HiCtNMdDprPDuwp"
@@ -12282,7 +12318,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-22",
       "duration_ms": 196684,
       "name": "Runners",
       "url": "https://open.spotify.com/track/4tIAHpF340zdoCCIBFcyit"
@@ -12452,7 +12488,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 154250,
       "name": "Salut papa",
       "url": "https://open.spotify.com/track/0TskfugKgc0Dj6Afw0jdmu"
@@ -13970,7 +14006,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-22",
       "duration_ms": 189050,
       "name": "Stray Kids",
       "url": "https://open.spotify.com/track/08H8CT32rALUZvL8TE4ruD"
@@ -15002,7 +15038,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-22",
       "duration_ms": 192777,
       "name": "twilight",
       "url": "https://open.spotify.com/track/1T0hdoMSjzoKUPbKRmrDg3"
@@ -17506,7 +17542,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 227560,
       "name": "\u0411\u0443\u0440\u0435\u0432\u0456\u044f\u043c\u0438 - 2023 Remastered Version",
       "url": "https://open.spotify.com/track/7fjPLaFXmMhDKReqzmNWq6"
@@ -24962,7 +24998,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-21",
+      "date_removed": null,
       "duration_ms": 166500,
       "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
       "url": "https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur"
@@ -26030,6 +26066,24 @@
       "duration_ms": 211583,
       "name": "\u0421\u0432\u043e\u0439 \u0434\u043e\u043c",
       "url": "https://open.spotify.com/track/6ovBMbqpAA8N1FtN1fa0Vq"
+    },
+    {
+      "album": {
+        "name": "\u0441\u0435\u0439\u0434\u0436\u0443\u0440\u043e \u0430\u043a\u0430\u0448\u0438 2)",
+        "url": "https://open.spotify.com/album/6LGvtUcKhVHeNMiNCKaAWQ"
+      },
+      "artists": [
+        {
+          "name": "dabbackwood",
+          "url": "https://open.spotify.com/artist/197D0NwoUgPyjzksisOqcy"
+        }
+      ],
+      "date_added": "2024-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73708,
+      "name": "\u0441\u0435\u0439\u0434\u0436\u0443\u0440\u043e \u0430\u043a\u0430\u0448\u0438 2)",
+      "url": "https://open.spotify.com/track/17VtOCT1WwkYI1VGA2MoLa"
     },
     {
       "album": {
@@ -27280,6 +27334,28 @@
       "duration_ms": 125034,
       "name": "\u0422\u0415\u041b\u0415\u0424\u041e\u041d",
       "url": "https://open.spotify.com/track/3rSWpGXQtUssrq3F31S3Ka"
+    },
+    {
+      "album": {
+        "name": "\u0422\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0430",
+        "url": "https://open.spotify.com/album/2lCyQUHZvCZeL1kfGOoqTT"
+      },
+      "artists": [
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
+        },
+        {
+          "name": "Parfeniuk",
+          "url": "https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C"
+        }
+      ],
+      "date_added": "2024-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "\u0422\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0430",
+      "url": "https://open.spotify.com/track/4jv6YqdzJSlDfCbvW3F6o6"
     },
     {
       "album": {
@@ -29980,7 +30056,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-21",
+      "date_removed": null,
       "duration_ms": 121666,
       "name": "\u042f \u0449\u0430\u0441\u043b\u0438\u0432\u0430 - \u041b\u0456\u043a\u0430\u0440\u0456 \u043a\u0430\u0436\u0443\u0442\u044c",
       "url": "https://open.spotify.com/track/7LxpaPwRVTYEG2Gf5T5iLO"

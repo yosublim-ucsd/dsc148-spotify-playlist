@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: 小本生燈XSGACHA \(Hong Kong\)
 
-1,413 songs - 3 day 13 hr 10 min
+1,414 songs - 3 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Center Of The Universe](https://open.spotify.com/track/5d8W3FelJJYH2S5YpkP7bm) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Center Of The Universe](https://open.spotify.com/album/0HrAgLrgGfqr9MC16d3HZ0) | 3:07 | 2022-10-06 | 2022-10-15 |
 | [Cerita Bahaya](https://open.spotify.com/track/3vudXFZo78HISE8sA9Lwo3) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Cerita Bahaya](https://open.spotify.com/album/0qJbdOQddkmhalfruJob47) | 5:15 | 2022-07-07 | 2022-09-23 |
 | [Chances](https://open.spotify.com/track/7nXsY5j0SJoANUJ6NtmXFe) | [FUAD](https://open.spotify.com/artist/0sFxcrZPKTFoOL4LCAL7NW) | [Dispositions](https://open.spotify.com/album/46hd6Aj37dUTCVHPERBWGt) | 3:13 | 2022-08-18 | 2022-08-26 |
+| [Change](https://open.spotify.com/track/3ioX4MCteVUN8LjbtlOC0c) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Change](https://open.spotify.com/album/6tf7wrgiVsVPoiI6wTUwnl) | 3:11 | 2024-07-18 |  |
 | [Changes](https://open.spotify.com/track/2hfvgjrLurakx7qltP75KO) | [The Candle Light Children](https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW) | [Pastor Pedro & The Candle Light Children, Vol\. 01](https://open.spotify.com/album/0YTOYMjzjsoGvJcUkIra4s) | 4:58 | 2022-05-26 | 2022-07-01 |
 | [Chaos Calls](https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Chaos Calls](https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB) | 3:56 | 2022-08-11 | 2024-06-02 |
 | [cheeze](https://open.spotify.com/track/61lc9FK6RvPaU8YgeKf2NE) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Andrew Kang](https://open.spotify.com/artist/3LkRCEpMB7txHe7F203CgZ) | [cheeze](https://open.spotify.com/album/6rtrPG0ubNp6cBPR8pYuFf) | 2:38 | 2022-03-24 | 2023-07-13 |
@@ -442,7 +443,7 @@
 | [Good Care](https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Good Care](https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d) | 3:14 | 2023-01-26 | 2023-04-01 |
 | [Good In Me](https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe) | [Bones & The Boy](https://open.spotify.com/artist/0AF2gJIJJdCVC4nNRcYI9B), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Yung Lee Records](https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw) | [Good In Me](https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX) | 2:28 | 2022-06-09 | 2022-06-24 |
 | [Good News](https://open.spotify.com/track/1yxfzybmAemgfZfBXMly2v) | [Swim Deep](https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc), [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [Familiarise Yourself with Your Closest Exit](https://open.spotify.com/album/3o4Z0ilAUhqBdqby9lJftF) | 4:05 | 2022-03-24 | 2022-04-29 |
-| [Good Times](https://open.spotify.com/track/12upHAA95HQP1iRRqOOGZ4) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Good Times](https://open.spotify.com/album/4mTkEAZDd4xGZlFEfmROPz) | 3:13 | 2024-07-18 |  |
+| [Good Times](https://open.spotify.com/track/12upHAA95HQP1iRRqOOGZ4) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Good Times](https://open.spotify.com/album/4mTkEAZDd4xGZlFEfmROPz) | 3:13 | 2024-07-18 | 2024-07-22 |
 | [Good vibe](https://open.spotify.com/track/2sQd0HmrHWrLF0BY3br4AH) | [Ant Chan](https://open.spotify.com/artist/7kAosYOzDiSkn5LXfUSU0m) | [Backseat Driver](https://open.spotify.com/album/5Vh3EwjMySkJjUNkRAOxhm) | 2:50 | 2024-05-30 | 2024-06-14 |
 | [Goodbye Caroline](https://open.spotify.com/track/7DSVtzxNAs7OmCXU70sIUL) | [SoulFa 靈魂沙發](https://open.spotify.com/artist/2eJX9VONHesNkNhdVKuBTY) | [Goodbye Caroline](https://open.spotify.com/album/09VLOEVAEz7TFrREaw4983) | 4:11 | 2022-11-17 | 2023-01-13 |
 | [goodnight, don’t wait](https://open.spotify.com/track/4TfFa0wkZiHR8TGbYpELna) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [willow tree](https://open.spotify.com/album/12vbr4MN4nwzxxLgh3VfiH) | 3:23 | 2024-06-06 | 2024-06-14 |

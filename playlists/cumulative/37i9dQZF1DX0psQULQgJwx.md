@@ -4,7 +4,7 @@
 
 > Lounge sounds for SPA
 
-234 songs - 12 hr 45 min
+235 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,13 +21,13 @@
 | [Agreement](https://open.spotify.com/track/0hQN2kDFS4f1doAwUH91pL) | [Zims Ele](https://open.spotify.com/artist/524faUIag4FGhFHGbDij0s) | [Agreement](https://open.spotify.com/album/2YzjIDe9aM5tq75fApnyRs) | 2:59 | 2024-04-07 |  |
 | [Ahasaas](https://open.spotify.com/track/4rt8jPJ9Yk4jzgRYsUxYIW) | [Asanah](https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR) | [Ahasaas](https://open.spotify.com/album/4x7wRUVS5XAzvEPbihKndQ) | 2:45 | 2023-07-14 |  |
 | [Airborne](https://open.spotify.com/track/4b8bOH57dE7KgBjvIjK04X) | [Lars Peters](https://open.spotify.com/artist/6UFCmfl7djtHECEfm4Vhcx) | [Airborne](https://open.spotify.com/album/4RrPbWpibTn6MZ7VkjG7eS) | 2:17 | 2024-05-10 |  |
-| [Akasha](https://open.spotify.com/track/5q4J2KGLDooMaYvsc2WxAu) | [Ewa Drishti](https://open.spotify.com/artist/36bqrOQ7m5YgPYvqSWuw7q) | [Akasha](https://open.spotify.com/album/3PmQ3GHAVKAmZkwP1NyQpA) | 2:51 | 2022-09-02 |  |
+| [Akasha](https://open.spotify.com/track/5q4J2KGLDooMaYvsc2WxAu) | [Ewa Drishti](https://open.spotify.com/artist/36bqrOQ7m5YgPYvqSWuw7q) | [Akasha](https://open.spotify.com/album/3PmQ3GHAVKAmZkwP1NyQpA) | 2:51 | 2022-09-02 | 2024-07-22 |
 | [Alaskan Dream](https://open.spotify.com/track/40VHrQeS00gz6vcGPoJuBA) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Amalinalli Pichardo](https://open.spotify.com/artist/6SZiLxASFuXX3R6BusWUkp), [David Ralicke](https://open.spotify.com/artist/3M0FPaOfQNhmv3WZ7CU62Y) | [Alaskan Dream](https://open.spotify.com/album/7jLRbqXYxf8lHjT5V5ZMxF) | 5:20 | 2023-01-04 |  |
 | [Alluvial](https://open.spotify.com/track/20DqGufkwM3Zy7l05GqtTO) | [Cosmologica](https://open.spotify.com/artist/3mtKH7qKSckjQ2tx3CaGCY) | [Alluvial](https://open.spotify.com/album/7hGQkINy88oomqyYo4mWYX) | 3:38 | 2024-05-10 |  |
 | [Alpha Breather 9 Hz](https://open.spotify.com/track/36gTVpuBCTexD5HQ8OEDDg) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Breather](https://open.spotify.com/album/0PBmK1phDPubvfE0AebcU7) | 2:29 | 2024-07-13 |  |
 | [Amaranth](https://open.spotify.com/track/6AKVp68qN6p0WruUgzsot8) | [Skyrios](https://open.spotify.com/artist/55uEL0DabWyI3Yv8dt1Y0Q) | [Amaranth](https://open.spotify.com/album/1O3geowtzKrz9SdLnNk7gz) | 2:12 | 2024-06-10 |  |
 | [Ambient Mood](https://open.spotify.com/track/5KBPV8DAORKR4lNj1HId2b) | [A Deeper Sense](https://open.spotify.com/artist/34C1icJqIMVraGaiyybDSW) | [Ambient Mood](https://open.spotify.com/album/17WpJAZJXDs216M9Ng3z8D) | 2:52 | 2024-05-10 |  |
-| [Andaz](https://open.spotify.com/track/4isjKciq9yrInyKELj2iGn) | [Orion](https://open.spotify.com/artist/6GWCB8ekz6k8xgOzb8i31f) | [Sirelis](https://open.spotify.com/album/27cJfiiUttUeLho3Lfzi7E) | 3:22 | 2022-09-02 |  |
+| [Andaz](https://open.spotify.com/track/4isjKciq9yrInyKELj2iGn) | [Orion](https://open.spotify.com/artist/6GWCB8ekz6k8xgOzb8i31f) | [Sirelis](https://open.spotify.com/album/27cJfiiUttUeLho3Lfzi7E) | 3:22 | 2022-09-02 | 2024-07-22 |
 | [Angel Dust](https://open.spotify.com/track/6SXEIHzo9REiTw88SX18kR) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Pan Flute Sessions 1](https://open.spotify.com/album/3AchEUirca9Quy6RBg32qs) | 4:10 | 2022-09-02 |  |
 | [Animálico](https://open.spotify.com/track/3uZ4KyVZwwnfAt3IGhS3c0) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Turtle tear](https://open.spotify.com/album/3seQAGD75K3qac1otkGSbT) | 2:41 | 2024-05-10 |  |
 | [Arabian Spa](https://open.spotify.com/track/2eINxDGMgnKBMZARjqtr4R) | [Spiritual Concepts](https://open.spotify.com/artist/6FhOqTnCaT3K3q05l7TfFA) | [Arabian Spa](https://open.spotify.com/album/438FxHslucydZ8YQxjQKqQ) | 1:28 | 2022-09-23 | 2023-04-07 |
@@ -121,6 +121,7 @@
 | [Lysa](https://open.spotify.com/track/71CYIlZUay1sVrfUlQBagr) | [Liva](https://open.spotify.com/artist/3OUnfI9kqulSplNuBsIf1p) | [Lysa](https://open.spotify.com/album/6xh61dVNbjiZoPxJuzDxGn) | 2:54 | 2024-05-10 |  |
 | [MATI](https://open.spotify.com/track/6HeFLsBljHuuYdG4gUzlyE) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [MATI](https://open.spotify.com/album/41wh35g4nY8ilqZKYDBr4h) | 2:16 | 2022-09-02 |  |
 | [Me Segure](https://open.spotify.com/track/7pkRv94aXaSd5wYzMzM0OT) | [Fleur Harmon](https://open.spotify.com/artist/3LzyV3YGTAhie6tKAGAdh7) | [Me Segure](https://open.spotify.com/album/74YPxHGHyuInkemmIUMnGl) | 3:13 | 2022-09-02 |  |
+| [Meditatio Lux](https://open.spotify.com/track/5Q9U0Fh4QjQWPsCFy7TAQ1) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Meditatio Lux](https://open.spotify.com/album/5HLUwTzWyI6Bsu0ATw5yIO) | 3:45 | 2024-07-21 |  |
 | [Meditation](https://open.spotify.com/track/5Z4lXr3SC43QgYmhXeHNaA) | [Sufi Lounge](https://open.spotify.com/artist/4NmV2aAqjIDi2nVhKjsk39) | [Meditation](https://open.spotify.com/album/3LmunxZ9ihwNanicxMpqYl) | 2:11 | 2022-09-30 |  |
 | [Melted wax](https://open.spotify.com/track/0gPYUajvYdFr8R56H0aHbS) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Ícaro](https://open.spotify.com/album/1QC0Khis5UVsFZfZjcp5PK) | 2:43 | 2024-04-07 |  |
 | [Melting Snow](https://open.spotify.com/track/3P7VUd2zZQiAGoHVv5kx6P) | [Riley Lee](https://open.spotify.com/artist/7eJJlXsiOqFXsaxRDyelMO) | [Buddha's Dream](https://open.spotify.com/album/4I6REoU5dcDWZts0uMiFbH) | 7:11 | 2022-09-02 | 2023-04-07 |
@@ -230,7 +231,7 @@
 | [We Are](https://open.spotify.com/track/3hwmB5wcWwszc2OfHaiqG1) | [Erik Walmoe](https://open.spotify.com/artist/6A5AsqsnvVDdHsup7edHPy) | [We Are](https://open.spotify.com/album/0BTv8frPTRHscn9qp3ligr) | 2:42 | 2022-09-02 |  |
 | [Weightless Echoes](https://open.spotify.com/track/1aejBWe9OIjh34IqKcDayI) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [Weightless Echoes](https://open.spotify.com/album/28hoaBT6C14YwltsFZLl4f) | 2:20 | 2024-05-10 |  |
 | [Weightlessly Drifting](https://open.spotify.com/track/3Cj542A7pRieF9x19YYrE8) | [Rah Moon](https://open.spotify.com/artist/2ZTWRQ0L4s7UuB55QBxOfN) | [Weightlessly Drifting](https://open.spotify.com/album/2n4iqSyKHptpwMHqW7wwwN) | 2:41 | 2024-07-13 |  |
-| [Wellen](https://open.spotify.com/track/7aeHCE4TOCRWzX8kKahmkJ) | [Celine Brandt](https://open.spotify.com/artist/7JshNZgXnBP253y6KE0aQR) | [Wellen](https://open.spotify.com/album/1HBCQ7Q6MnhJ5oHlFOT7EF) | 3:36 | 2023-04-06 |  |
+| [Wellen](https://open.spotify.com/track/7aeHCE4TOCRWzX8kKahmkJ) | [Celine Brandt](https://open.spotify.com/artist/7JshNZgXnBP253y6KE0aQR) | [Wellen](https://open.spotify.com/album/1HBCQ7Q6MnhJ5oHlFOT7EF) | 3:36 | 2023-04-06 | 2024-07-22 |
 | [What If](https://open.spotify.com/track/1TNaCe4Qd8fyNSbHoGvjbG) | [Airin](https://open.spotify.com/artist/26UTcEInDAyY9tnGHZpGWQ) | [What If](https://open.spotify.com/album/6PhSMtqauo1H6EoPgtPG9S) | 2:43 | 2022-09-02 |  |
 | [Whisper](https://open.spotify.com/track/2v76MOixsD0W5HXeQmfwDv) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [Whisper](https://open.spotify.com/album/3nwa5OspLhO62FEZXfmaE9) | 2:31 | 2024-05-10 |  |
 | [Width](https://open.spotify.com/track/3kO8LCfAZEXQX3Flr5fnmo) | [Cinoes](https://open.spotify.com/artist/0mAoPU4Cku57sGWT1pVMmq) | [Width](https://open.spotify.com/album/6rfZtutLY00ipw3U9HUrPA) | 2:56 | 2024-07-13 |  |

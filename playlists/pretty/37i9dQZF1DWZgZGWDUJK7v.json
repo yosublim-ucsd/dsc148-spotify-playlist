@@ -1,6 +1,6 @@
 {
   "description": "Meet the popular webtoon OSTs now! (Cover: A Not So Fairy Tale(\uc120\ub140\uc678\uc804)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 90456,
+  "num_followers": 90507,
   "original_name": "K-Webtoon OSTs (\uc6f9\ud230 OSTs)",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "Melody (Gongzza X Whee In) (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4"
-      },
-      "artists": [
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 234066,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "Better for Me (Nth Romance X MeloMance)",
         "url": "https://open.spotify.com/album/4WY3wjjGNW8kubhkHd1Qey"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 239853,
       "name": "Better for Me (Nth Romance X MeloMance)",
       "url": "https://open.spotify.com/track/3d2tLjYswXQsIsoDAZRkUr"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "Melody (Gongzza X Whee In) (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "duration_ms": 234066,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "Starlight (No Office Romance! X JINI) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/3xJ4992CDlMMCIdjpRTkfy"
-      },
-      "artists": [
-        {
-          "name": "JINI",
-          "url": "https://open.spotify.com/artist/5X8oV02v7yAe4gsI4Rxl5D"
-        }
-      ],
-      "duration_ms": 165293,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/10mZOfUMXYsXVTGuxp69O3"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "Loving You",
         "url": "https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm"
       },
@@ -723,6 +707,22 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
+        "name": "Starlight (No Office Romance! X JINI) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/3xJ4992CDlMMCIdjpRTkfy"
+      },
+      "artists": [
+        {
+          "name": "JINI",
+          "url": "https://open.spotify.com/artist/5X8oV02v7yAe4gsI4Rxl5D"
+        }
+      ],
+      "duration_ms": 165293,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/10mZOfUMXYsXVTGuxp69O3"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
         "name": "I'M BACK (Killer Peter X BLAS\u00c9)[Original Webtoon Soundtrack]",
         "url": "https://open.spotify.com/album/3welRhhSY9rNNa9PPSqP4h"
       },
@@ -735,26 +735,6 @@
       "duration_ms": 176711,
       "name": "I'M BACK",
       "url": "https://open.spotify.com/track/6sy2Gh0U6gUQ4jYG3ydwvd"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
-        "name": "Just stay with me (Feat. Swan) (Webtoon 'Marriage Or Death' X San E)",
-        "url": "https://open.spotify.com/album/7yoZ8HEjrawNnnLoHSNekd"
-      },
-      "artists": [
-        {
-          "name": "San E",
-          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
-        },
-        {
-          "name": "Swan",
-          "url": "https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "Just stay with me (Feat. Swan)",
-      "url": "https://open.spotify.com/track/0gmZsfrT5vkZIYKReHTXa2"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -787,6 +767,26 @@
       "duration_ms": 223266,
       "name": "When You Believe",
       "url": "https://open.spotify.com/track/6NXwnqGG6wAE7UP73AAor4"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "Just stay with me (Feat. Swan) (Webtoon 'Marriage Or Death' X San E)",
+        "url": "https://open.spotify.com/album/7yoZ8HEjrawNnnLoHSNekd"
+      },
+      "artists": [
+        {
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+        },
+        {
+          "name": "Swan",
+          "url": "https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Just stay with me (Feat. Swan)",
+      "url": "https://open.spotify.com/track/0gmZsfrT5vkZIYKReHTXa2"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "\uc8fd\uc774\uace0 \uc2f6\uc740 \ub098\uc758 \uc804\ubcf5 \uc655\uc790\ub2d8 OST Part.12 (Soundtrack)",
-        "url": "https://open.spotify.com/album/3t629Z1Tyz0XroCgoA9OF9"
+        "name": "\uc8fd\uc774\uace0 \uc2f6\uc740 \ub098\uc758 \uc804\ubcf5 \uc655\uc790\ub2d8 OST Part.13 (Soundtrack)",
+        "url": "https://open.spotify.com/album/4R2AwCEtMKFcx479JbgGPb"
       },
       "artists": [
         {
-          "name": "Joo Hyunmin",
-          "url": "https://open.spotify.com/artist/7I4EANWzax0oiEtNrNmlx7"
+          "name": "Panini Brunch",
+          "url": "https://open.spotify.com/artist/2TMsQv3NaxJYcid3natcij"
         }
       ],
-      "duration_ms": 215422,
-      "name": "I haven't erased you even for a single day",
-      "url": "https://open.spotify.com/track/6wgCtd1Z1hb4VndLPeb6bX"
+      "duration_ms": 269747,
+      "name": "All I have left is separation",
+      "url": "https://open.spotify.com/track/0E7W0Vxym2L4FiXRlsBmym"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "\uc8fd\uc774\uace0 \uc2f6\uc740 \ub098\uc758 \uc804\ubcf5 \uc655\uc790\ub2d8 OST Part.13 (Soundtrack)",
-        "url": "https://open.spotify.com/album/4R2AwCEtMKFcx479JbgGPb"
+        "name": "\uc8fd\uc774\uace0 \uc2f6\uc740 \ub098\uc758 \uc804\ubcf5 \uc655\uc790\ub2d8 OST Part.12 (Soundtrack)",
+        "url": "https://open.spotify.com/album/3t629Z1Tyz0XroCgoA9OF9"
       },
       "artists": [
         {
-          "name": "Panini Brunch",
-          "url": "https://open.spotify.com/artist/2TMsQv3NaxJYcid3natcij"
+          "name": "Joo Hyunmin",
+          "url": "https://open.spotify.com/artist/7I4EANWzax0oiEtNrNmlx7"
         }
       ],
-      "duration_ms": 269747,
-      "name": "All I have left is separation",
-      "url": "https://open.spotify.com/track/0E7W0Vxym2L4FiXRlsBmym"
+      "duration_ms": 215422,
+      "name": "I haven't erased you even for a single day",
+      "url": "https://open.spotify.com/track/6wgCtd1Z1hb4VndLPeb6bX"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "Secret Love",
-        "url": "https://open.spotify.com/album/4Ddvn34VTjczpUK8FvyI35"
-      },
-      "artists": [
-        {
-          "name": "YOO YEONJUNG(WJSN)",
-          "url": "https://open.spotify.com/artist/5qZUq6ijHZTasLNjljdFKO"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "Secret Love",
-      "url": "https://open.spotify.com/track/3ELM8jqcULO29nHsTup8WQ"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "Oh, Boy! OST Part.18 (Soundtrack)",
         "url": "https://open.spotify.com/album/1uhGglTdvY0sFWq99dCEyw"
       },
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "Caf\u00e9 Anchorage OST Part.19 (Soundtrack)",
-        "url": "https://open.spotify.com/album/0IEOcub1mb7jJz3wvvtXWn"
+        "name": "Secret Love",
+        "url": "https://open.spotify.com/album/4Ddvn34VTjczpUK8FvyI35"
       },
       "artists": [
         {
-          "name": "BBAHN",
-          "url": "https://open.spotify.com/artist/095i3doKOvEd3cY25Mjcvi"
+          "name": "YOO YEONJUNG(WJSN)",
+          "url": "https://open.spotify.com/artist/5qZUq6ijHZTasLNjljdFKO"
         }
       ],
-      "duration_ms": 202575,
-      "name": "It's not what I want",
-      "url": "https://open.spotify.com/track/6tEAPcJcKXUfAs2QveWgpQ"
+      "duration_ms": 193600,
+      "name": "Secret Love",
+      "url": "https://open.spotify.com/track/3ELM8jqcULO29nHsTup8WQ"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1355,6 +1339,22 @@
       "duration_ms": 250737,
       "name": "The saddest song",
       "url": "https://open.spotify.com/track/2PQnxR5z0a7DK7pUonHAY3"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "Caf\u00e9 Anchorage OST Part.19 (Soundtrack)",
+        "url": "https://open.spotify.com/album/0IEOcub1mb7jJz3wvvtXWn"
+      },
+      "artists": [
+        {
+          "name": "BBAHN",
+          "url": "https://open.spotify.com/artist/095i3doKOvEd3cY25Mjcvi"
+        }
+      ],
+      "duration_ms": 202575,
+      "name": "It's not what I want",
+      "url": "https://open.spotify.com/track/6tEAPcJcKXUfAs2QveWgpQ"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "Coffee Fox Kim Sam Wol OST Part.18 (Soundtrack)",
-        "url": "https://open.spotify.com/album/3ardg1OkWTrhUc8pH9b18n"
-      },
-      "artists": [
-        {
-          "name": "CANDO",
-          "url": "https://open.spotify.com/artist/06KgokwCwsWO8f1h1pzPcV"
-        }
-      ],
-      "duration_ms": 228096,
-      "name": "Guess I still miss you",
-      "url": "https://open.spotify.com/track/4foQqq9ScD8LlcLkxpmPiU"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "The Crush Of Spring OST Part.6",
         "url": "https://open.spotify.com/album/7l0RjwUfOMMCAABHWX33qI"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 216565,
       "name": "To be honest I still love you",
       "url": "https://open.spotify.com/track/5IJxeM3hnKqyTMVqGiiYSq"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "Coffee Fox Kim Sam Wol OST Part.18 (Soundtrack)",
+        "url": "https://open.spotify.com/album/3ardg1OkWTrhUc8pH9b18n"
+      },
+      "artists": [
+        {
+          "name": "CANDO",
+          "url": "https://open.spotify.com/artist/06KgokwCwsWO8f1h1pzPcV"
+        }
+      ],
+      "duration_ms": 228096,
+      "name": "Guess I still miss you",
+      "url": "https://open.spotify.com/track/4foQqq9ScD8LlcLkxpmPiU"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "Oh, Boy! OST Part.4 (Soundtrack)",
-        "url": "https://open.spotify.com/album/0iCzWgCwoQackdi0mS1I8q"
+        "name": "The Crush Of Spring OST Part.15",
+        "url": "https://open.spotify.com/album/2Vs9a6xFjTehdTeIueAF5u"
       },
       "artists": [
         {
-          "name": "BBAHN",
-          "url": "https://open.spotify.com/artist/095i3doKOvEd3cY25Mjcvi"
+          "name": "Han Ga Bin",
+          "url": "https://open.spotify.com/artist/5VXpgnStSS71wk0kWGKwQv"
         }
       ],
-      "duration_ms": 234128,
-      "name": "The way I love you",
-      "url": "https://open.spotify.com/track/29yC3hQEyVpmJ2gwFCpV4k"
+      "duration_ms": 222623,
+      "name": "I can't even love you",
+      "url": "https://open.spotify.com/track/0V62KTZFy4GcURYyK67QDi"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1487,50 +1487,18 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "\uc0ac\ub791\ub3c4 \uc5c6\uc774 \uacb0\ud63c OST Part.9 (Soundtrack)",
-        "url": "https://open.spotify.com/album/7yoWIYagwoss6PRdFqLCSj"
+        "name": "Oh, Boy! OST Part.4 (Soundtrack)",
+        "url": "https://open.spotify.com/album/0iCzWgCwoQackdi0mS1I8q"
       },
       "artists": [
         {
-          "name": "Lydia",
-          "url": "https://open.spotify.com/artist/7vF0OMb98Tc514WZDBJ6c6"
+          "name": "BBAHN",
+          "url": "https://open.spotify.com/artist/095i3doKOvEd3cY25Mjcvi"
         }
       ],
-      "duration_ms": 195351,
-      "name": "You let me live as myself",
-      "url": "https://open.spotify.com/track/5FNR1Ly5BCFQddWcth5RzP"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
-        "name": "The Crush Of Spring OST Part.15",
-        "url": "https://open.spotify.com/album/2Vs9a6xFjTehdTeIueAF5u"
-      },
-      "artists": [
-        {
-          "name": "Han Ga Bin",
-          "url": "https://open.spotify.com/artist/5VXpgnStSS71wk0kWGKwQv"
-        }
-      ],
-      "duration_ms": 222623,
-      "name": "I can't even love you",
-      "url": "https://open.spotify.com/track/0V62KTZFy4GcURYyK67QDi"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
-        "name": "Coffee Fox Kim Sam Wol OST Part.10 (Soundtrack)",
-        "url": "https://open.spotify.com/album/3wFlmLOdSwFf0hYlcVbiXM"
-      },
-      "artists": [
-        {
-          "name": "Tae Hwa Yoon",
-          "url": "https://open.spotify.com/artist/2D8TOjwm9HxmUClDQC7S5M"
-        }
-      ],
-      "duration_ms": 223442,
-      "name": "I wait for you without knowing",
-      "url": "https://open.spotify.com/track/1jqGHm9Yh5DsuY5cGL7NiU"
+      "duration_ms": 234128,
+      "name": "The way I love you",
+      "url": "https://open.spotify.com/track/29yC3hQEyVpmJ2gwFCpV4k"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1547,6 +1515,38 @@
       "duration_ms": 243765,
       "name": "Never say",
       "url": "https://open.spotify.com/track/0g123qCff4LxJwlOakrrEZ"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "\uc0ac\ub791\ub3c4 \uc5c6\uc774 \uacb0\ud63c OST Part.9 (Soundtrack)",
+        "url": "https://open.spotify.com/album/7yoWIYagwoss6PRdFqLCSj"
+      },
+      "artists": [
+        {
+          "name": "Lydia",
+          "url": "https://open.spotify.com/artist/7vF0OMb98Tc514WZDBJ6c6"
+        }
+      ],
+      "duration_ms": 195351,
+      "name": "You let me live as myself",
+      "url": "https://open.spotify.com/track/5FNR1Ly5BCFQddWcth5RzP"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "Coffee Fox Kim Sam Wol OST Part.10 (Soundtrack)",
+        "url": "https://open.spotify.com/album/3wFlmLOdSwFf0hYlcVbiXM"
+      },
+      "artists": [
+        {
+          "name": "Tae Hwa Yoon",
+          "url": "https://open.spotify.com/artist/2D8TOjwm9HxmUClDQC7S5M"
+        }
+      ],
+      "duration_ms": 223442,
+      "name": "I wait for you without knowing",
+      "url": "https://open.spotify.com/track/1jqGHm9Yh5DsuY5cGL7NiU"
     },
     {
       "added_at": "2024-06-24 05:39:23",

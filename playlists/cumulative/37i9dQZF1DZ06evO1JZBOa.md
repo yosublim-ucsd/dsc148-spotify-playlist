@@ -2,14 +2,14 @@
 
 ### [This Is Manu Dibango](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1JZBOa)
 
-> This is Manu Dibango\. Todos os maiores hits em uma só playlist.
+> This is Manu Dibango\. The essential tracks, all in one playlist.
 
 138 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Abele Dance](https://open.spotify.com/track/1tTUxQPN19BkCv5Qk9FFSx) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [The Very Best of Manu Dibango: Afro Soul Jazz from the Original Makossa Man](https://open.spotify.com/album/02v98oaLbJQweqTYB3tAgv) | 6:54 | 2021-12-29 | 2022-10-13 |
-| [Africa Boogie](https://open.spotify.com/track/2G7bPzKZl4pQjn1OalcIuQ) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Waka Juju](https://open.spotify.com/album/30gLt6nQcs5kTTU1n9zoZh) | 4:16 | 2024-02-08 | 2024-07-21 |
+| [Africa Boogie](https://open.spotify.com/track/2G7bPzKZl4pQjn1OalcIuQ) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Waka Juju](https://open.spotify.com/album/30gLt6nQcs5kTTU1n9zoZh) | 4:16 | 2024-02-08 |  |
 | [Africa Boogie](https://open.spotify.com/track/0vN7mFkONrm4lRXNHSyimn) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 4:17 | 2021-12-31 | 2024-01-07 |
 | [Africadelic](https://open.spotify.com/track/64i32ix5p44S1Pq7ulh92i) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 2:14 | 2022-03-06 | 2022-03-13 |
 | [Africadelic](https://open.spotify.com/track/3oViSE4pEzB9UT6Lo5XJyF) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 2:16 | 2022-03-31 |  |
@@ -129,7 +129,7 @@
 | [Sun Explosion](https://open.spotify.com/track/5Xq4OzsOviUwGbxTDgdg5q) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Sun Explosion](https://open.spotify.com/album/3QyB0bQGWdWGt9MgmBfVgc) | 8:09 | 2021-12-28 | 2022-10-13 |
 | [Super Kumba](https://open.spotify.com/track/6dbNLNAVQFVxAgFgq22o0O) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 8:01 | 2021-12-30 | 2022-07-29 |
 | [Take Five](https://open.spotify.com/track/7FxWWb9wpvm0nbB211zQRp) | [Moreira Chonguiça](https://open.spotify.com/artist/39IHtnX5EC2ge39XUftUle), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [M & M](https://open.spotify.com/album/1NHrBasHmhaEvemj74DHPm) | 6:34 | 2021-12-28 | 2023-03-30 |
-| [Tek Time](https://open.spotify.com/track/42yVShsOhzl2gfIyJGVdGE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Gone Clear \(The Complete Kingston Sessions\)](https://open.spotify.com/album/2DTqR31j9GAyHoWK2smUAt) | 7:00 | 2024-01-06 |  |
+| [Tek Time](https://open.spotify.com/track/42yVShsOhzl2gfIyJGVdGE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Gone Clear \(The Complete Kingston Sessions\)](https://open.spotify.com/album/2DTqR31j9GAyHoWK2smUAt) | 7:00 | 2024-01-06 | 2024-07-22 |
 | [Tek Time](https://open.spotify.com/track/3QzRmXp2ANZFcf8Fa3sQ0x) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 7:03 | 2021-12-29 | 2024-01-05 |
 | [The Panther](https://open.spotify.com/track/0QDyFT23YOXVPLdiAPYVin) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 2:29 | 2024-01-01 |  |
 | [The Panther](https://open.spotify.com/track/0TO438ElpElpdtY9s4aNjv) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 2:29 | 2021-12-28 | 2024-01-02 |

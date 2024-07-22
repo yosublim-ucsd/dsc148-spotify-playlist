@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Chike, SPINALL, Blaqbonez, Childish Gambino and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,943 likes - 49 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,018 likes - 49 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 26 | [15 MINUTES](https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [15 MINUTES](https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK) | 3:09 |
 | 27 | [Valley Of Trappers \(feat\. Sarkodie\) \- Remix](https://open.spotify.com/track/3wbTj2CQdppIyUTn69wInH) | [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Juiczx](https://open.spotify.com/artist/6NlTIdfjzOUvzb0uhRUO4e) | [Valley Of Trappers \(feat\. Sarkodie\) \[Remix\]](https://open.spotify.com/album/4w0ZEXI1OL7ocnC4EYmh8d) | 2:22 |
 | 28 | [Everyday People](https://open.spotify.com/track/5yPU55tsZtLrMHdLrNQ7c1) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU), [Worlasi](https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9) | [Everyday People](https://open.spotify.com/album/1j6CF3Pq0Vuobo1rRYgpyH) | 3:37 |
-| 29 | [Track 5](https://open.spotify.com/track/2P3TcKcmSvd6ymORzAWzSg) | [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O) | [Casamigos](https://open.spotify.com/album/6VHl2eKVBKJ70NS2kvEfgk) | 2:10 |
+| 29 | [Casamigos](https://open.spotify.com/track/2P3TcKcmSvd6ymORzAWzSg) | [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O) | [Casamigos](https://open.spotify.com/album/6VHl2eKVBKJ70NS2kvEfgk) | 2:10 |
 | 30 | [Big](https://open.spotify.com/track/0YVhJRwwj4RVOVPduzD7w6) | [RKC](https://open.spotify.com/artist/1hAAxPEyfrijnKoH9EnNKt), [Lexsil](https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h), [Afroboytish](https://open.spotify.com/artist/5QFYru4ZIzpQjojS3l7f70) | [Big](https://open.spotify.com/album/1R4zW2JIsbSZRAhA95EbQa) | 2:46 |
 | 31 | [Bigger Picture](https://open.spotify.com/track/21ZDmEYeHbewO0pXOOrXKD) | [Victoria Kimani](https://open.spotify.com/artist/6HbeytIa6j2WCdPQzCrXpf) | [Mood 4 Life](https://open.spotify.com/album/6wVGimVZZwzEE5Oxo5G2ej) | 2:28 |
 | 32 | [Chills](https://open.spotify.com/track/6icdY6BaVRm98PSck8kfYi) | [Sheramang](https://open.spotify.com/artist/3SODeoSJfcKgWgIAinhTaa) | [Boy Sheramang](https://open.spotify.com/album/6NhJKsUu2LjkDZN6ogDZAN) | 3:00 |

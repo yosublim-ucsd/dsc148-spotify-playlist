@@ -4,7 +4,7 @@
 
 > What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! A predicttion playlist that also Includes Summer 2023 edition &amp; bonus tracks.
 
-3,628 songs - 8 day 12 hr 49 min
+3,629 songs - 8 day 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1739,6 +1739,7 @@
 | [Lady Lady Lady \- Acoustic](https://open.spotify.com/track/630MyFOvn0Ik3LpyLZyyTE) | [Sean Kool](https://open.spotify.com/artist/7L3wTnkJU2jSzeOyX30nKR) | [Lady Lady Lady \(Acoustic\)](https://open.spotify.com/album/2smTy9OWQjLXJsZt3MjY5K) | 5:04 | 2022-03-11 | 2022-03-31 |
 | [Lady Luck](https://open.spotify.com/track/3fVcdqx80sdILBkrgHTjmV) | [Luke Morris](https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi) | [Lady Luck](https://open.spotify.com/album/3FuNUW8290xWKBrmnXEwyq) | 4:41 | 2021-02-06 | 2021-02-20 |
 | [Lana Del Rey](https://open.spotify.com/track/7dxPX2S5jh5yqS5QqIy1NP) | [Akili Ni Mali](https://open.spotify.com/artist/0EFDRfMFz6WJAMpEC2nBcG) | [Lana Del Rey](https://open.spotify.com/album/5Su9D7P4sI61Zuszz6I5WF) | 4:17 | 2023-09-09 | 2023-12-14 |
+| [Landslide \- Live](https://open.spotify.com/track/5LPLCJpfHQaBuwYRseaicK) | [Niesja](https://open.spotify.com/artist/2vZ8xAYDRj9itu0vLpmB4R) | [Landslide \(Live\)](https://open.spotify.com/album/2ne0oFv8OlmQQsej6CEeg4) | 5:23 | 2024-07-21 |  |
 | [Larga Vida](https://open.spotify.com/track/77s5oCZ0eI59BygbuicR4W) | [Xavi Jordan](https://open.spotify.com/artist/5H1dqpna1LZM58Estbgg6B) | [Larga Vida](https://open.spotify.com/album/1OJa8YSZ5UYW7wb5K6K6yv) | 2:22 | 2023-08-27 | 2023-09-26 |
 | [Las Grandes Bañistas](https://open.spotify.com/track/1a0bNJu5SZKoxZB4IXUUbA) | [Xackal](https://open.spotify.com/artist/6I8vp2QeDqh8HDpUP1ZjpB) | [Las Grandes Bañistas](https://open.spotify.com/album/5OpYJcsXKiKmbvykoTEviR) | 3:41 | 2020-12-11 | 2020-12-26 |
 | [Las Vegas Will You Marry Me](https://open.spotify.com/track/33xZh3jEHKNIWCTmvvyL81) | [Dennis Bono](https://open.spotify.com/artist/2PNqDNuYzvppDUV0tKHJT9), [Dan Slider & The Vegas Headliner Big Band](https://open.spotify.com/artist/0zGQ8R1ViCcF5nYCg8DMmj) | [Las Vegas Will You Marry Me](https://open.spotify.com/album/07PoqhcscnvZxIGV34j75B) | 2:58 | 2023-06-13 | 2023-06-27 |
