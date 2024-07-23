@@ -4,7 +4,7 @@
 
 > Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Kevindauroi
 
-1,724 songs - 4 day 5 hr 1 min
+1,726 songs - 4 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -588,7 +588,7 @@
 | [Gonna be you](https://open.spotify.com/track/1qGD0pluRScUcMhojxeyrk) | [Linh Ka](https://open.spotify.com/artist/6gXUsziOuoRCgmtm62Nrny), [Will](https://open.spotify.com/artist/3HMWKU43x9GxkGWVP1KjQT) | [CHU](https://open.spotify.com/album/1o5Q4upUUQxQv5P5me3Nid) | 4:18 | 2023-05-25 | 2023-07-14 |
 | [Good Luck in Chicago](https://open.spotify.com/track/4mn98j9Ep10XpG9zjbkgQk) | [Juliet](https://open.spotify.com/artist/4kFlZCpQ9vLFSlqsqs24HP) | [Good Luck in Chicago](https://open.spotify.com/album/2QwDNTUJ3DzUcoVvXE5OA0) | 3:56 | 2023-06-15 | 2023-07-07 |
 | [Good Nai](https://open.spotify.com/track/3BmyKQJlUssp3eiq4BBUgp) | [Bùi Lý Thiên Hương](https://open.spotify.com/artist/26oCSI7BiDy5LCrC7REsy8), [Weeza](https://open.spotify.com/artist/3KCwCM9okdx5d2iDbIxQ9l) | [Good Nai](https://open.spotify.com/album/0GANIWlHP2c5qxz7zKM8Dm) | 3:23 | 2023-08-24 | 2023-09-09 |
-| [guiding light](https://open.spotify.com/track/3hBWQuSesEt8LF151dsEII) | [tnghi](https://open.spotify.com/artist/217CQDuGuHtrk3hbj1Nlaa), [WAVES](https://open.spotify.com/artist/3CrAGTXH12HVzjA337Ajzo) | [guiding light](https://open.spotify.com/album/4G8gQTNYLbRzP23lbSdELA) | 3:01 | 2024-04-24 |  |
+| [guiding light](https://open.spotify.com/track/3hBWQuSesEt8LF151dsEII) | [tnghi](https://open.spotify.com/artist/217CQDuGuHtrk3hbj1Nlaa), [WAVES](https://open.spotify.com/artist/3CrAGTXH12HVzjA337Ajzo) | [guiding light](https://open.spotify.com/album/4G8gQTNYLbRzP23lbSdELA) | 3:01 | 2024-04-24 | 2024-07-23 |
 | [Gã Trai Mơ](https://open.spotify.com/track/1R2CGVLsCsZyVEK8a2IrXW) | [Nguyễn Trung Đức](https://open.spotify.com/artist/0AOAMHZgHaxM71om8IDGsv) | [Gã Trai Mơ](https://open.spotify.com/album/1TTIiXq5LoO6KbQycGW3Xg) | 2:45 | 2022-07-09 | 2022-08-09 |
 | [Gì Vậy Pa](https://open.spotify.com/track/3n6oOhfU02QRqa7xqMrOpD) | [Cà Nâu](https://open.spotify.com/artist/1GaNXOOINBcBKwdd58rMbW) | [Gì Vậy Pa](https://open.spotify.com/album/5Spdb8WoQXd7IEexEjMJ7S) | 2:56 | 2022-02-28 | 2022-03-09 |
 | [Gương](https://open.spotify.com/track/2TyQWAOJjGSoCzgM7iVwWi) | [An Thiện](https://open.spotify.com/artist/4zmJvzP4zvw8easnYnXEmx) | [Gương](https://open.spotify.com/album/3zFO74q3Y46FFPDS4eTPvC) | 3:52 | 2023-05-22 | 2023-06-05 |
@@ -1090,6 +1090,7 @@
 | [Nếu Nói Ra Lời Yêu Ấy](https://open.spotify.com/track/6sWvHkMA8aCQwWlJnznqZn) | [Ân Nhi](https://open.spotify.com/artist/7zwJ09FAPbh7EJYvwEAqDD), [Sumo](https://open.spotify.com/artist/7yM6qvfj60We1Dz4nOrIjJ) | [Nếu Nói Ra Lời Yêu Ấy](https://open.spotify.com/album/7kjIkkASoc3nZD1nRumSgX) | 3:33 | 2023-04-07 | 2023-06-02 |
 | [Nếu Ánh Trăng Không Đến](https://open.spotify.com/track/51ipTNZ9xdpH1EcUqODZoD) | [Anh Khoa](https://open.spotify.com/artist/0r5KtuhT32hmawS8dj6jFm), [Tiến Nguyễn](https://open.spotify.com/artist/56EQy40jmVh0wNeS4uO1Mx) | [Nếu Ánh Trăng Không Đến](https://open.spotify.com/album/7tyKY6aXyoSZzJNQhEIRDt) | 3:44 | 2024-06-17 | 2024-07-02 |
 | [Nếu Đã Không Còn Yêu \(feat\. Joke D\)](https://open.spotify.com/track/32ipe05GHzbLQKhGRNOu9g) | [LT Midside](https://open.spotify.com/artist/50OfeNlZcOMffMzBpfDCTL), [Joke D](https://open.spotify.com/artist/5UjssQfB90YVhMKQW8nHFN) | [Nếu Đã Không Còn Yêu \(feat\. Joke D\)](https://open.spotify.com/album/3d45lEoLzRl2ApRjPCJqsD) | 4:22 | 2022-01-06 | 2023-01-06 |
+| [Nổi Gió Lên](https://open.spotify.com/track/4nB8rzp00TytQi9tvhs06o) | [Phan Như Thuỳ](https://open.spotify.com/artist/3icUzqyDWte78fxHtTniUz) | [Nổi Gió Lên](https://open.spotify.com/album/2XnLsrY68ElgfpdiIvXbOo) | 4:46 | 2024-07-22 |  |
 | [Nổi Gió Rồi](https://open.spotify.com/track/2WV44nKGCahw1lpbrhL3eJ) | [Nguyễn Hoàng Minh Khôi](https://open.spotify.com/artist/4I2wDGfh61KDoqB2A0JJcf) | [Nổi Gió Rồi](https://open.spotify.com/album/0LFpZLf2kFkeV0BLE4VcPK) | 5:16 | 2023-08-10 | 2023-10-18 |
 | [Nụ Cười Em](https://open.spotify.com/track/5ceYOxNRwB2vTloINEQJ7d) | [Phú Quí](https://open.spotify.com/artist/7kFRelrojoTz5zxPBnAArZ) | [Nụ Cười Em](https://open.spotify.com/album/43OmrjWLJPxmm1OAvcNJ6b) | 2:55 | 2022-06-07 | 2023-01-06 |
 | [Nụ Cười Em Là Nắng](https://open.spotify.com/track/0DYcI5r05t1alSODvgpQAT) | [Green](https://open.spotify.com/artist/2mYrvZz0fllkkUnZishGE4) | [Nụ Cười Em Là Nắng](https://open.spotify.com/album/5vTeB1SggEz4ALE1EtnqHc) | 4:05 | 2022-11-30 | 2023-01-06 |
@@ -1541,6 +1542,7 @@
 | [vết thương](https://open.spotify.com/track/4lVSQKOrx0KLeKJEPCKkJh) | [Fishy](https://open.spotify.com/artist/7kSmS2G15QIw8rllwGex9r) | [vết thương](https://open.spotify.com/album/3bsr3IV4aD34ADHC1qSrEF) | 4:21 | 2023-06-29 | 2024-06-01 |
 | [về nhà ăn cơm](https://open.spotify.com/track/0p5IsaYs1NORTYm9sGdoVE) | [TaylorDaClownn](https://open.spotify.com/artist/3HZZADizLAtNsAy36T8wiD), [Phanh nèe](https://open.spotify.com/artist/7Gw2yW6mWrj0IEDhW9WOQE) | [về nhà ăn cơm](https://open.spotify.com/album/6G0NSG8Qhh94UlJypARzFx) | 4:20 | 2022-06-16 | 2023-01-06 |
 | [Về Năm Tháng Sau Này \(feat\. D Aces\)](https://open.spotify.com/track/2hm0zneWHp95ahOp3tZ4id) | [Bơ](https://open.spotify.com/artist/14Hk06CVNkpu9cvTvUQivi), [D Aces](https://open.spotify.com/artist/60tSwWmk52m7UJXoVDLqYa) | [Về Năm Tháng Sau Này \(feat\. D Aces\)](https://open.spotify.com/album/0DdZXBHIEpZL9wSw876uM4) | 4:39 | 2023-06-07 | 2023-06-30 |
+| [Vệt Nắng Nhạt Phai](https://open.spotify.com/track/4mZzqlaG67gUD0lAQIEVMs) | [Kai](https://open.spotify.com/artist/7Arxev7cDH8LukhCCSBMgp), [Xưa Lâm](https://open.spotify.com/artist/48paF1vGoA5tuyve0fmN8a), [Dylann.](https://open.spotify.com/artist/3I2zyKkfEGyPtkrVqNC3Dz), [The Felixetine](https://open.spotify.com/artist/7bfBdJSn0HbXJ7kYWjRqHf) | [Vệt Nắng Nhạt Phai](https://open.spotify.com/album/3sOlwcyicTG93aslsJ01E8) | 4:21 | 2024-07-22 |  |
 | [Vị Son Môi](https://open.spotify.com/track/07COmDP7r58Oxd1StzcsaB) | [Tama](https://open.spotify.com/artist/4npVRqpqmmM0MYHXTzu0o1) | [Vị Son Môi](https://open.spotify.com/album/2w9o4LzSgNXR4hUpyzEAgO) | 4:10 | 2022-10-06 | 2023-03-10 |
 | [Vớ Vẩn](https://open.spotify.com/track/3ZPFZihOWSpSmDyQQZHMtp) | [H2N](https://open.spotify.com/artist/1YGubsONDzyJQMvWpirChb) | [Vớ Vẩn](https://open.spotify.com/album/5T6iNhsjL3tY0Xn9qUnbAn) | 2:47 | 2024-02-14 | 2024-03-18 |
 | [Với em anh là gì? \- Sang](https://open.spotify.com/track/4rKQB0uvS6Mdvcv1quHFiB) | [\#SSdaRealest](https://open.spotify.com/artist/10wPOKgSR6fBgohk23b226), [Tr.M](https://open.spotify.com/artist/533XALivP2buJd5Ghsm38o) | [Với em anh là gì? \- Sang](https://open.spotify.com/album/57VIdaDXnPMx991FfPKgyu) | 4:17 | 2023-07-06 | 2023-07-27 |

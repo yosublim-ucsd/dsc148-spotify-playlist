@@ -4,7 +4,7 @@
 
 > hora d hacer la meme
 
-488 songs - 23 hr 53 min
+492 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Butterfly](https://open.spotify.com/track/5bKOctkwgdfCktzgabUPne) | [Penny Layn](https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy) | [Butterfly](https://open.spotify.com/album/0z60NoGLU6RnvxUSCCskIW) | 3:01 | 2023-03-31 | 2024-02-09 |
 | [Bywyd](https://open.spotify.com/track/2C1IIUSDxqBsNr3k772BdT) | [Carwyn](https://open.spotify.com/artist/07xmi3luGn1Zgl4LbQs9i3) | [Bywyd](https://open.spotify.com/album/10SpdrXvHP9hQjJVOW5jft) | 2:21 | 2023-04-13 | 2024-05-21 |
 | [Cadeau](https://open.spotify.com/track/1uDuwJazJz7RRgrrkkEonw) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Cadeau](https://open.spotify.com/album/0jLAqumtp6VUkT7ielt55m) | 3:09 | 2023-03-31 | 2024-02-09 |
-| [Calm Reservoir](https://open.spotify.com/track/6oSfuQVa5NVuZE3kHYbFgN) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Calm Reservoir](https://open.spotify.com/album/3ZCjwdGKdjfSPyTsGPQyDd) | 3:35 | 2024-03-06 |  |
+| [Calm Reservoir](https://open.spotify.com/track/6oSfuQVa5NVuZE3kHYbFgN) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Calm Reservoir](https://open.spotify.com/album/3ZCjwdGKdjfSPyTsGPQyDd) | 3:35 | 2024-03-06 | 2024-07-23 |
 | [Calmative](https://open.spotify.com/track/4q0m55JUumpMjGiLtYsSan) | [Rae Mansell](https://open.spotify.com/artist/4aVZNmLEXiIMrNM5GIzRw8) | [Calmative](https://open.spotify.com/album/0hzrMQP5DDS5iyDiAyNj3y) | 2:35 | 2023-03-31 | 2023-06-10 |
 | [Calmness](https://open.spotify.com/track/3ZjO9JL84czoWKZLmeIqU2) | [Matheo Lyon](https://open.spotify.com/artist/5yBqlv8zkkzTmWN0TtjMf4) | [Rare Lights](https://open.spotify.com/album/6UQVAkdfBQy3w90s6daUZY) | 2:58 | 2023-09-01 |  |
 | [Canvas Of Dreams](https://open.spotify.com/track/6ggbzDPtCQKf3UxSy9ScyD) | [Lamente](https://open.spotify.com/artist/4Ag7w2NgcYPYHbqPgTp3Tq) | [Canvas Of Dreams](https://open.spotify.com/album/5QKI9bvr95E70LY8i6fTb8) | 3:02 | 2024-05-20 |  |
@@ -154,6 +154,7 @@
 | [En el Espacio](https://open.spotify.com/track/5ZRWtriBKg5blYLi2UDLMP) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [En el Espacio](https://open.spotify.com/album/7q0vBgCyzRg8iufFApO4J5) | 3:02 | 2024-01-13 |  |
 | [Enacted](https://open.spotify.com/track/1eQ8RtqtzkigYMsL1PtVWq) | [Brent Dockery](https://open.spotify.com/artist/08G5ITlau5oxxn5DnIGhQ2) | [Enacted](https://open.spotify.com/album/1LG30PPzugMZOUTptrB0AP) | 3:34 | 2024-05-20 | 2024-07-16 |
 | [Enchanted](https://open.spotify.com/track/61o8UCKk0i1idxF0HrjMZ6) | [Kisti Na](https://open.spotify.com/artist/0knq7j3TMUmMrBBpeXdx1C) | [Enchanted](https://open.spotify.com/album/0xmOLu0gZiNQmA8mgGzmkx) | 2:55 | 2024-03-20 | 2024-07-16 |
+| [Endicino](https://open.spotify.com/track/6sCBSdY0rB7pwS8kosA2Md) | [Amphose](https://open.spotify.com/artist/719YWjEvZBDkU5Esi9rsZz) | [Endicino](https://open.spotify.com/album/0D3FLFw97MUgnSA6VL7slA) | 2:51 | 2024-07-22 |  |
 | [Endless Cosmos](https://open.spotify.com/track/37PNuXmxQzb7xQERMSoYdA) | [Hans Jacob](https://open.spotify.com/artist/6gT2Bu1wTc1uHC5NcJV0gQ) | [Endless Cosmos](https://open.spotify.com/album/3bz9e5yKivJ9Y4juq04T6S) | 2:50 | 2024-04-05 | 2024-07-16 |
 | [Enhance](https://open.spotify.com/track/6qEnfDbUi83vhDsQ0Fbft1) | [Eône](https://open.spotify.com/artist/4kZXfTjEmv2pM1m4B5H1I7) | [Enhance](https://open.spotify.com/album/5OrGR2SQ7hmJeqH5thqCay) | 2:52 | 2024-07-09 |  |
 | [Eons](https://open.spotify.com/track/538bWp96juSoSBvM7wD2Qm) | [Erratic Peace](https://open.spotify.com/artist/2soZQALc84ALUcZxlDyxPD) | [Eons](https://open.spotify.com/album/1mrlHBWDGAFlIiZooWzedK) | 3:03 | 2023-03-31 | 2023-09-01 |
@@ -323,10 +324,12 @@
 | [Peak Calm](https://open.spotify.com/track/5lXpowQ714d5VWxjdFLfi7) | [Claira Mikkelsen](https://open.spotify.com/artist/1UW4IN55vQzgYjkdR3ivVE) | [Peak Calm](https://open.spotify.com/album/4Xfiq1H2pq5VtknmKXkUm8) | 2:36 | 2023-03-31 | 2024-02-09 |
 | [Pegasus Prism](https://open.spotify.com/track/2WFNWNsGT2DXFLJMdC5eDG) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Pegasus Prism](https://open.spotify.com/album/7wBtN4fXTEnVVK61JRJctc) | 2:54 | 2024-05-04 |  |
 | [Perfection](https://open.spotify.com/track/1b6zd9iiSYGSCz5tYW14l6) | [Mundo Suave](https://open.spotify.com/artist/7mpuCc5RJrH5047X6M7Rcd) | [Perfection](https://open.spotify.com/album/25nMYJeMnGslko2C1Id5ps) | 2:54 | 2023-03-31 | 2024-05-21 |
+| [Perfume](https://open.spotify.com/track/3sunZ2cuWiRtcijRukE8kJ) | [Sleepwear](https://open.spotify.com/artist/2FZAnYg9alDc7hUebvR9Ph) | [Perfume](https://open.spotify.com/album/4D8Uhm4HmQXFMZLPh4vQMI) | 3:36 | 2024-07-22 |  |
 | [Permanence](https://open.spotify.com/track/7pj05Z3J520aOzLdH3sAAz) | [Ageena](https://open.spotify.com/artist/183DOqgVm3LpcUQFICEpH2) | [Permanence](https://open.spotify.com/album/2OwEKuCKehvTMSyOg4Q7y1) | 3:00 | 2024-07-09 |  |
 | [Perspectives](https://open.spotify.com/track/3chCZBYrCCjcUmT4mX5x8E) | [Norrona](https://open.spotify.com/artist/0A4UAFw5R9u5z9doUYX0WM) | [Perspectives](https://open.spotify.com/album/6SKpBhqxzknHdxfGsEQMkw) | 4:09 | 2023-03-31 | 2023-09-01 |
 | [Phonaesthetics](https://open.spotify.com/track/6HpMcAZZhc9wNitIohrY76) | [Devin Echo](https://open.spotify.com/artist/2FMBuPowBpiUWnwcpJ41DM) | [Phonaesthetics](https://open.spotify.com/album/3FkiWVSOevq1nrao1UQFUG) | 2:36 | 2023-03-31 | 2024-03-21 |
 | [Phosphenes](https://open.spotify.com/track/7zCXE5rdGmk2YzsSWuhO8I) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Phosphenes](https://open.spotify.com/album/5gjWfsOxuWUuxt63LiuuAh) | 3:00 | 2023-03-31 | 2024-02-09 |
+| [Placid Echoes](https://open.spotify.com/track/7ybzymL0w0XYyJaBeqFSRy) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Placid Echoes](https://open.spotify.com/album/7qB2UagPGPPr2t7hTZQS58) | 2:36 | 2024-07-22 |  |
 | [Pomalu](https://open.spotify.com/track/12Oywn6DYHxxnq1DUFrwRR) | [Marie Protivová](https://open.spotify.com/artist/0N0cHhRbd0hOXkUv8szdQ3) | [Pomalu](https://open.spotify.com/album/2VY6QYyg4a9jwm2swobVi7) | 3:24 | 2023-03-31 | 2024-05-05 |
 | [Pondering](https://open.spotify.com/track/1BhS7zg5Xc8HvCqILpiDgq) | [Aetheria Solara](https://open.spotify.com/artist/53Dh6mRLAQrQVAwNvXiifJ) | [Pondering](https://open.spotify.com/album/7t9gbTOlSMndGUbLJqOYH6) | 2:55 | 2024-01-17 | 2024-07-16 |
 | [Positive Reaction](https://open.spotify.com/track/2iU9lxQ5XbDn1TVYVl2ciQ) | [Pretoqi](https://open.spotify.com/artist/4mPtfT4HNXKbghcssDspnW) | [Lost In Reality](https://open.spotify.com/album/6tzlO26AszLOwt0kJBwagX) | 3:10 | 2023-03-31 | 2024-05-21 |
@@ -400,6 +403,7 @@
 | [Solange](https://open.spotify.com/track/7CrjRJEOLkJ5oD7TTHpqZi) | [Neil Mansella](https://open.spotify.com/artist/6R6OzpQPL5Mh9ulcQy6CET) | [Solange](https://open.spotify.com/album/0X2iA43edDtNT5UJZCVZUt) | 3:02 | 2024-02-08 | 2024-07-16 |
 | [Solitude](https://open.spotify.com/track/4hmBfrGNlsVhZRHHiHwqB5) | [Ed Stanley](https://open.spotify.com/artist/5MHC495Xm9U5sxKFQ25Eba) | [Solitude](https://open.spotify.com/album/0tfDok0b70Ytqt6pX7vKQE) | 3:06 | 2024-05-04 |  |
 | [Solsten](https://open.spotify.com/track/5rDK66Zorl6x02BmupEFbM) | [Ganlas](https://open.spotify.com/artist/0AmPU5zuAi7slA529gGago) | [Solsten](https://open.spotify.com/album/49GVq2UFbm0PK962WsRcxB) | 3:32 | 2024-07-09 |  |
+| [Solstice Waves](https://open.spotify.com/track/6SFSWBUYfepFU3iNlXLPeu) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Solstice Waves](https://open.spotify.com/album/05AOfjLp2pq7emPXZGbRXk) | 2:48 | 2024-07-22 |  |
 | [Somniantes](https://open.spotify.com/track/2oRPG3rScsUtAwJ5W0Ij6m) | [Enma](https://open.spotify.com/artist/65t1qirLuVn4JyCfkiPUIc) | [Somniantes](https://open.spotify.com/album/6oXKW8Jaida4M5Y0A9rQRI) | 2:41 | 2024-07-09 |  |
 | [Somnisonic](https://open.spotify.com/track/5AQQYMkVL7216ZVuPytjwL) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Somnisonic](https://open.spotify.com/album/09sd9ZHGWdZn4fgFOTta4D) | 2:22 | 2024-01-13 | 2024-07-16 |
 | [Somnium](https://open.spotify.com/track/1AAarJ2ZVp2JNvoRY43V41) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Somnium](https://open.spotify.com/album/3A13wz1QjS5umrWC7sEA7L) | 2:14 | 2023-03-31 | 2024-03-21 |

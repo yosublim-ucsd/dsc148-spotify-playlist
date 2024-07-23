@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Th\u1ebf h\u1ec7 ngh\u1ec7 s\u0129 m\u1edbi. \u1ea2nh b\u00eca: SIXTYUPTOWN",
+  "description": "Th\u1ebf h\u1ec7 ngh\u1ec7 s\u0129 m\u1edbi. \u1ea2nh b\u00eca: Vy Vy",
   "name": "RADAR Vietnam",
   "tracks": [
     {
@@ -254,6 +254,24 @@
       "duration_ms": 247800,
       "name": "B\u1ed3ng B\u1ec1nh B\u1ed3ng B\u1ec1nh",
       "url": "https://open.spotify.com/track/22zJA0YrEtlklcbU8jXTVr"
+    },
+    {
+      "album": {
+        "name": "B\u1ed3ng B\u1ec1nh B\u1ed3ng B\u1ec1nh (Vy Vy\u2019s Version)",
+        "url": "https://open.spotify.com/album/7FdrD45rexscsczC9yCxMp"
+      },
+      "artists": [
+        {
+          "name": "Vy Vy",
+          "url": "https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258750,
+      "name": "B\u1ed3ng B\u1ec1nh B\u1ed3ng B\u1ec1nh - Vy Vy\u2019s Version",
+      "url": "https://open.spotify.com/track/2fmDg4vApfWP9ZAT68C4y1"
     },
     {
       "album": {

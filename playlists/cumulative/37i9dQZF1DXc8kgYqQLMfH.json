@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 147428,
       "name": "Blue Mountain",
       "url": "https://open.spotify.com/track/4GWyN3ou7FqaWuyVt82Hf8"
@@ -11486,6 +11486,24 @@
       "duration_ms": 82285,
       "name": "Lucid Dreams",
       "url": "https://open.spotify.com/track/0TwLsrWtzGYbOYB6Z936vR"
+    },
+    {
+      "album": {
+        "name": "lucid dreams",
+        "url": "https://open.spotify.com/album/4Of93b2Ovw9NmMIENMLURc"
+      },
+      "artists": [
+        {
+          "name": "rollinsmpls",
+          "url": "https://open.spotify.com/artist/2IQUECU4moSgtL1qqJuois"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140952,
+      "name": "lucid dreams",
+      "url": "https://open.spotify.com/track/10sshsVC3JPafby7pLdarc"
     },
     {
       "album": {

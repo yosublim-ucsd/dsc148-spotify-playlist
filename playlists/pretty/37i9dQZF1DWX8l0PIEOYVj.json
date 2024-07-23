@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass. Cover: CloZee and LSDREAM",
-  "num_followers": 474948,
+  "num_followers": 474909,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -2063,30 +2063,6 @@
     {
       "added_at": "2024-07-12 16:32:11",
       "album": {
-        "name": "Light Up The Sky (feat. Scott Stapp)",
-        "url": "https://open.spotify.com/album/7IbNjX1uq9D7up01LHX0mw"
-      },
-      "artists": [
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        },
-        {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
-        },
-        {
-          "name": "Scott Stapp",
-          "url": "https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql"
-        }
-      ],
-      "duration_ms": 284425,
-      "name": "Light Up The Sky (feat. Scott Stapp)",
-      "url": "https://open.spotify.com/track/5ROUkE55LI83kG3ZRmAnum"
-    },
-    {
-      "added_at": "2024-07-12 16:32:11",
-      "album": {
         "name": "Darkness",
         "url": "https://open.spotify.com/album/4HQYlLQCrkwbLpxAaKhdC2"
       },
@@ -2111,42 +2087,26 @@
     {
       "added_at": "2024-07-12 16:32:11",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/2FffB4voVDZ7T2EeLFPs44"
+        "name": "Light Up The Sky (feat. Scott Stapp)",
+        "url": "https://open.spotify.com/album/7IbNjX1uq9D7up01LHX0mw"
       },
       "artists": [
         {
-          "name": "Nytrix",
-          "url": "https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa"
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
         },
         {
-          "name": "DZMA",
-          "url": "https://open.spotify.com/artist/60h475nikrqMsOWGBmH36V"
-        }
-      ],
-      "duration_ms": 245404,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/44533l23WUXBT18jjfO5wf"
-    },
-    {
-      "added_at": "2024-07-12 16:32:11",
-      "album": {
-        "name": "On Purpose",
-        "url": "https://open.spotify.com/album/2BkAoe9YZd9unSoWw1IN4G"
-      },
-      "artists": [
-        {
-          "name": "NURKO",
-          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
         },
         {
-          "name": "Ryland James",
-          "url": "https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0"
+          "name": "Scott Stapp",
+          "url": "https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql"
         }
       ],
-      "duration_ms": 256971,
-      "name": "On Purpose",
-      "url": "https://open.spotify.com/track/0g01JYDahgFwR3CJuKxnfG"
+      "duration_ms": 284425,
+      "name": "Light Up The Sky (feat. Scott Stapp)",
+      "url": "https://open.spotify.com/track/5ROUkE55LI83kG3ZRmAnum"
     },
     {
       "added_at": "2024-07-12 16:32:11",
@@ -2171,6 +2131,46 @@
       "duration_ms": 181714,
       "name": "Gone For Good",
       "url": "https://open.spotify.com/track/7wrWHbHWCDka64pTNjabae"
+    },
+    {
+      "added_at": "2024-07-12 16:32:11",
+      "album": {
+        "name": "On Purpose",
+        "url": "https://open.spotify.com/album/2BkAoe9YZd9unSoWw1IN4G"
+      },
+      "artists": [
+        {
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "Ryland James",
+          "url": "https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0"
+        }
+      ],
+      "duration_ms": 256971,
+      "name": "On Purpose",
+      "url": "https://open.spotify.com/track/0g01JYDahgFwR3CJuKxnfG"
+    },
+    {
+      "added_at": "2024-07-12 16:32:11",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/2FffB4voVDZ7T2EeLFPs44"
+      },
+      "artists": [
+        {
+          "name": "Nytrix",
+          "url": "https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa"
+        },
+        {
+          "name": "DZMA",
+          "url": "https://open.spotify.com/artist/60h475nikrqMsOWGBmH36V"
+        }
+      ],
+      "duration_ms": 245404,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/44533l23WUXBT18jjfO5wf"
     },
     {
       "added_at": "2024-07-12 16:32:11",
@@ -2643,6 +2643,30 @@
     {
       "added_at": "2024-07-12 16:32:11",
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/3ZFzU8m52LCtZXnfKLvpao"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        },
+        {
+          "name": "Jo Cohen",
+          "url": "https://open.spotify.com/artist/0Szh8DhUXEL2iujQ9cdS4q"
+        },
+        {
+          "name": "Lusil",
+          "url": "https://open.spotify.com/artist/1AzsVW3RPGZk0foQcGktHZ"
+        }
+      ],
+      "duration_ms": 184258,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0apCPw4wHWMtW3DPR6Aou7"
+    },
+    {
+      "added_at": "2024-07-12 16:32:11",
+      "album": {
         "name": "Different Future",
         "url": "https://open.spotify.com/album/2uBUb7Fs1UDBVAkuQItRxf"
       },
@@ -2667,30 +2691,6 @@
       "duration_ms": 204923,
       "name": "Different Future",
       "url": "https://open.spotify.com/track/266xopBiawptt9tviXJLlg"
-    },
-    {
-      "added_at": "2024-07-12 16:32:11",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/3ZFzU8m52LCtZXnfKLvpao"
-      },
-      "artists": [
-        {
-          "name": "Whales",
-          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
-        },
-        {
-          "name": "Jo Cohen",
-          "url": "https://open.spotify.com/artist/0Szh8DhUXEL2iujQ9cdS4q"
-        },
-        {
-          "name": "Lusil",
-          "url": "https://open.spotify.com/artist/1AzsVW3RPGZk0foQcGktHZ"
-        }
-      ],
-      "duration_ms": 184258,
-      "name": "High",
-      "url": "https://open.spotify.com/track/0apCPw4wHWMtW3DPR6Aou7"
     },
     {
       "added_at": "2024-07-12 16:32:11",
@@ -2735,6 +2735,22 @@
     {
       "added_at": "2024-07-12 16:32:11",
       "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/5vfssDdkPeC0AAXkOvsKNa"
+      },
+      "artists": [
+        {
+          "name": "KDrew",
+          "url": "https://open.spotify.com/artist/1DLsogyGi0pwPtwV78D8uZ"
+        }
+      ],
+      "duration_ms": 147868,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/45PDrg2UUXCCDBTihLbvX2"
+    },
+    {
+      "added_at": "2024-07-12 16:32:11",
+      "album": {
         "name": "Heaven Again",
         "url": "https://open.spotify.com/album/7oP8wBi22HDnIVxEjrHmeC"
       },
@@ -2755,22 +2771,6 @@
       "duration_ms": 232000,
       "name": "Heaven Again",
       "url": "https://open.spotify.com/track/03MzMaGtcNGKBkgQqJ1oUF"
-    },
-    {
-      "added_at": "2024-07-12 16:32:11",
-      "album": {
-        "name": "Hysteria",
-        "url": "https://open.spotify.com/album/5vfssDdkPeC0AAXkOvsKNa"
-      },
-      "artists": [
-        {
-          "name": "KDrew",
-          "url": "https://open.spotify.com/artist/1DLsogyGi0pwPtwV78D8uZ"
-        }
-      ],
-      "duration_ms": 147868,
-      "name": "Hysteria",
-      "url": "https://open.spotify.com/track/45PDrg2UUXCCDBTihLbvX2"
     },
     {
       "added_at": "2024-07-12 16:32:11",
@@ -2895,62 +2895,6 @@
     {
       "added_at": "2024-07-12 16:32:11",
       "album": {
-        "name": "One Time",
-        "url": "https://open.spotify.com/album/2m0tPdS8lzYnZulyV0DoXB"
-      },
-      "artists": [
-        {
-          "name": "Jason Ross",
-          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/4OqJ2AncNhhIyI3oCBYktq"
-    },
-    {
-      "added_at": "2024-07-12 16:32:11",
-      "album": {
-        "name": "Your Imagination",
-        "url": "https://open.spotify.com/album/1yxnhDQIHEyFpuDjDJsQmY"
-      },
-      "artists": [
-        {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
-        },
-        {
-          "name": "Casey Cook",
-          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
-        }
-      ],
-      "duration_ms": 237696,
-      "name": "Your Imagination",
-      "url": "https://open.spotify.com/track/0M0ac58ggq3FHG849kCfGR"
-    },
-    {
-      "added_at": "2024-07-12 16:32:11",
-      "album": {
-        "name": "Violet Sky (feat. Sarah de Warren)",
-        "url": "https://open.spotify.com/album/67y37MnCWsZJssnbekw3lf"
-      },
-      "artists": [
-        {
-          "name": "Codeko",
-          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 228333,
-      "name": "Violet Sky (feat. Sarah de Warren)",
-      "url": "https://open.spotify.com/track/4n5IFVKYfrdxOIgWgP4unG"
-    },
-    {
-      "added_at": "2024-07-12 16:32:11",
-      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge"
       },
@@ -2975,22 +2919,58 @@
     {
       "added_at": "2024-07-12 16:32:11",
       "album": {
-        "name": "Did You Really?",
-        "url": "https://open.spotify.com/album/4q7t6ig8158vrciDDJZUCk"
+        "name": "Your Imagination",
+        "url": "https://open.spotify.com/album/1yxnhDQIHEyFpuDjDJsQmY"
       },
       "artists": [
         {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
         },
         {
-          "name": "Freja",
-          "url": "https://open.spotify.com/artist/7rmUZLn14Yu6epkCEPGcVd"
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
         }
       ],
-      "duration_ms": 200859,
-      "name": "Did You Really?",
-      "url": "https://open.spotify.com/track/75WtlfvvdmR1GWdaA6oZ6d"
+      "duration_ms": 237696,
+      "name": "Your Imagination",
+      "url": "https://open.spotify.com/track/0M0ac58ggq3FHG849kCfGR"
+    },
+    {
+      "added_at": "2024-07-12 16:32:11",
+      "album": {
+        "name": "One Time",
+        "url": "https://open.spotify.com/album/2m0tPdS8lzYnZulyV0DoXB"
+      },
+      "artists": [
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/4OqJ2AncNhhIyI3oCBYktq"
+    },
+    {
+      "added_at": "2024-07-12 16:32:11",
+      "album": {
+        "name": "Violet Sky (feat. Sarah de Warren)",
+        "url": "https://open.spotify.com/album/67y37MnCWsZJssnbekw3lf"
+      },
+      "artists": [
+        {
+          "name": "Codeko",
+          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 228333,
+      "name": "Violet Sky (feat. Sarah de Warren)",
+      "url": "https://open.spotify.com/track/4n5IFVKYfrdxOIgWgP4unG"
     },
     {
       "added_at": "2024-07-12 16:32:11",
@@ -3015,6 +2995,26 @@
       "duration_ms": 200869,
       "name": "Made For",
       "url": "https://open.spotify.com/track/3wPIAfjNvZqSDdyEU95gxI"
+    },
+    {
+      "added_at": "2024-07-12 16:32:11",
+      "album": {
+        "name": "Did You Really?",
+        "url": "https://open.spotify.com/album/4q7t6ig8158vrciDDJZUCk"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Freja",
+          "url": "https://open.spotify.com/artist/7rmUZLn14Yu6epkCEPGcVd"
+        }
+      ],
+      "duration_ms": 200859,
+      "name": "Did You Really?",
+      "url": "https://open.spotify.com/track/75WtlfvvdmR1GWdaA6oZ6d"
     },
     {
       "added_at": "2024-07-12 16:32:11",
@@ -3059,26 +3059,6 @@
     {
       "added_at": "2024-07-12 16:32:11",
       "album": {
-        "name": "Worst Night of My Life",
-        "url": "https://open.spotify.com/album/0LV7hVjylBE8h9ZxbOXapY"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "SPIRIT LINK",
-          "url": "https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Worst Night of My Life",
-      "url": "https://open.spotify.com/track/5QP7Wvkr7TG1qxtOZ88Ri8"
-    },
-    {
-      "added_at": "2024-07-12 16:32:11",
-      "album": {
         "name": "Play With You",
         "url": "https://open.spotify.com/album/2cRHpoN1heCtuKIHHxwo8w"
       },
@@ -3099,18 +3079,22 @@
     {
       "added_at": "2024-07-12 16:32:11",
       "album": {
-        "name": "Mine To Lose",
-        "url": "https://open.spotify.com/album/5BDJfCwn3zbGKxJR6Dwg9s"
+        "name": "Worst Night of My Life",
+        "url": "https://open.spotify.com/album/0LV7hVjylBE8h9ZxbOXapY"
       },
       "artists": [
         {
-          "name": "FLOTE",
-          "url": "https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO"
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "SPIRIT LINK",
+          "url": "https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc"
         }
       ],
-      "duration_ms": 195200,
-      "name": "Mine To Lose",
-      "url": "https://open.spotify.com/track/05cMfYOfz4cq9XhRuwomRI"
+      "duration_ms": 175000,
+      "name": "Worst Night of My Life",
+      "url": "https://open.spotify.com/track/5QP7Wvkr7TG1qxtOZ88Ri8"
     },
     {
       "added_at": "2024-07-12 16:32:11",
@@ -3135,26 +3119,38 @@
     {
       "added_at": "2024-07-12 16:32:11",
       "album": {
-        "name": "Brokenhearted",
-        "url": "https://open.spotify.com/album/7CfLWkhnZ4HJVUJ3wSCtBh"
+        "name": "Mine To Lose",
+        "url": "https://open.spotify.com/album/5BDJfCwn3zbGKxJR6Dwg9s"
       },
       "artists": [
         {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        },
-        {
-          "name": "Chassi",
-          "url": "https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+          "name": "FLOTE",
+          "url": "https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO"
         }
       ],
-      "duration_ms": 273600,
-      "name": "Brokenhearted",
-      "url": "https://open.spotify.com/track/3s6NVWtlt4UCf0J3lwNDbA"
+      "duration_ms": 195200,
+      "name": "Mine To Lose",
+      "url": "https://open.spotify.com/track/05cMfYOfz4cq9XhRuwomRI"
+    },
+    {
+      "added_at": "2024-07-12 16:32:11",
+      "album": {
+        "name": "Glow In The Dark",
+        "url": "https://open.spotify.com/album/3AMkR5uLWftipdTryaZz85"
+      },
+      "artists": [
+        {
+          "name": "Friendzone",
+          "url": "https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Glow In The Dark",
+      "url": "https://open.spotify.com/track/1VDglOP1aicFIAQUolynFU"
     }
   ],
   "unique_name": "Bass Lounge",

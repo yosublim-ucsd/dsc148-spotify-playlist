@@ -2320,7 +2320,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 174857,
       "name": "Descanso",
       "url": "https://open.spotify.com/track/5kI3nJuVik4PYmVGBQ3lq3"
@@ -3080,6 +3080,24 @@
       "duration_ms": 151232,
       "name": "Enchanted Reality",
       "url": "https://open.spotify.com/track/4ZxnrE8g0DKcRfZ2ct9rYv"
+    },
+    {
+      "album": {
+        "name": "Endicino",
+        "url": "https://open.spotify.com/album/0D3FLFw97MUgnSA6VL7slA"
+      },
+      "artists": [
+        {
+          "name": "Amphose",
+          "url": "https://open.spotify.com/artist/719YWjEvZBDkU5Esi9rsZz"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171637,
+      "name": "Endicino",
+      "url": "https://open.spotify.com/track/6sCBSdY0rB7pwS8kosA2Md"
     },
     {
       "album": {
@@ -7069,6 +7087,24 @@
     },
     {
       "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/4D8Uhm4HmQXFMZLPh4vQMI"
+      },
+      "artists": [
+        {
+          "name": "Sleepwear",
+          "url": "https://open.spotify.com/artist/2FZAnYg9alDc7hUebvR9Ph"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216107,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/3sunZ2cuWiRtcijRukE8kJ"
+    },
+    {
+      "album": {
         "name": "Permanence",
         "url": "https://open.spotify.com/album/2OwEKuCKehvTMSyOg4Q7y1"
       },
@@ -7174,6 +7210,24 @@
       "duration_ms": 167613,
       "name": "Phenomena",
       "url": "https://open.spotify.com/track/5DzOeqMOYZ7WoLU9iokZHG"
+    },
+    {
+      "album": {
+        "name": "Placid Echoes",
+        "url": "https://open.spotify.com/album/7qB2UagPGPPr2t7hTZQS58"
+      },
+      "artists": [
+        {
+          "name": "Leon White",
+          "url": "https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156723,
+      "name": "Placid Echoes",
+      "url": "https://open.spotify.com/track/7ybzymL0w0XYyJaBeqFSRy"
     },
     {
       "album": {
@@ -8196,7 +8250,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 142784,
       "name": "Serenium",
       "url": "https://open.spotify.com/track/6I1WmsOxCm5Qi6PooQPRq6"
@@ -8902,6 +8956,24 @@
       "duration_ms": 212666,
       "name": "Solsten",
       "url": "https://open.spotify.com/track/5rDK66Zorl6x02BmupEFbM"
+    },
+    {
+      "album": {
+        "name": "Solstice Waves",
+        "url": "https://open.spotify.com/album/05AOfjLp2pq7emPXZGbRXk"
+      },
+      "artists": [
+        {
+          "name": "Eternalistic",
+          "url": "https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Solstice Waves",
+      "url": "https://open.spotify.com/track/6SFSWBUYfepFU3iNlXLPeu"
     },
     {
       "album": {
@@ -10248,7 +10320,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 173406,
       "name": "Untroubled",
       "url": "https://open.spotify.com/track/2hVqXyj5dWgWNTO0Op8iB8"

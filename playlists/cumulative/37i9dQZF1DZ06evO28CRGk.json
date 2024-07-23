@@ -274,7 +274,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 228941,
       "name": "Certified",
       "url": "https://open.spotify.com/track/33hQPXHC4eZ3NbskPaMfXq"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 187800,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/31OZegULDzG3uE33Nl8iSw"
@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2024-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 184178,
       "name": "Life Music",
       "url": "https://open.spotify.com/track/45U7W3MZ3xjT6XHdBJ9igC"
@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 239887,
       "name": "Low Budget Allstars",
       "url": "https://open.spotify.com/track/7BoOgKHYSccK4riG6Dg7hp"
@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 238538,
       "name": "Przyjaciel Diab\u0142a",
       "url": "https://open.spotify.com/track/0h8DtGEXqTMkHnUZn0ZELH"
@@ -2174,6 +2174,28 @@
       "duration_ms": 190160,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0hHZgJRrnN2ysNf4LqN8G3"
+    },
+    {
+      "album": {
+        "name": "Kartagina",
+        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
+      },
+      "artists": [
+        {
+          "name": "O.S.T.R.",
+          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239393,
+      "name": "\u017bywy lub Martwy",
+      "url": "https://open.spotify.com/track/6Iyj5JsEk9agqb2J8XSQqB"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO28CRGk"

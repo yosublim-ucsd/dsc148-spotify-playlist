@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Kittie
 
-925 songs - 2 day 20 hr 3 min
+926 songs - 2 day 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -444,7 +444,7 @@
 | [Land of the Free \- 30 Years \- Live Version](https://open.spotify.com/track/7iMt0du7vAQf3m1IYTrhM4) | [Gamma Ray](https://open.spotify.com/artist/6LZE884lDIsCSLHuTplfGp) | [Land of the Free](https://open.spotify.com/album/7kHii8llgDEAKLR6SJDrKt) | 4:36 | 2021-12-29 | 2022-07-19 |
 | [Landslide](https://open.spotify.com/track/5h9R0Z3lqvgfItpq4QsvjG) | [Alienist](https://open.spotify.com/artist/3QjDcXIEFoAGHAe6TSBnce) | [Landslide](https://open.spotify.com/album/0rDeiOVJ47MhUgRqPiP0mW) | 3:31 | 2022-03-22 | 2022-04-19 |
 | [Left on Mars](https://open.spotify.com/track/4vR33RBNDOk6hpgqZpaom9) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00), [Tarja](https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc) | [Left on Mars](https://open.spotify.com/album/3Teu4wdoUdqhuDJRIW06P5) | 5:01 | 2024-03-22 |  |
-| [Legends Never Die](https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [Legends Never Die](https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC) | 3:54 | 2024-05-03 |  |
+| [Legends Never Die](https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [Legends Never Die](https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC) | 3:54 | 2024-05-03 | 2024-07-23 |
 | [Let It Burn](https://open.spotify.com/track/1taz6QC91MFJmODsf7aQsb) | [Cold Kingdom](https://open.spotify.com/artist/2xCNGjnt3szUnV29cCtrWD) | [The Moon and the Fool](https://open.spotify.com/album/5MQrXXhEaswOBKULG4qLX6) | 4:01 | 2022-07-08 | 2024-04-06 |
 | [Let It Burn](https://open.spotify.com/track/74XK6loeWil2omwM9VMZdi) | [Cold Kingdom](https://open.spotify.com/artist/2xCNGjnt3szUnV29cCtrWD) | [The Moon and the Fool](https://open.spotify.com/album/770sGenNXg0Upc6FFYrX09) | 4:01 | 2022-01-28 | 2022-07-04 |
 | [Let It Go](https://open.spotify.com/track/1aR6W01r094onPc4O2avEp) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:43 | 2022-08-19 |  |
@@ -818,6 +818,7 @@
 | [The Undertaker](https://open.spotify.com/track/3uBjEUnGmq3JOhCEjFzHw8) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [The Undertaker](https://open.spotify.com/album/2Ik9ocKBxRseYSLsd6FAId) | 5:38 | 2021-12-17 | 2022-07-29 |
 | [The Unholy Grail \(feat\. Dominum, Orden Ogan\)](https://open.spotify.com/track/4XlUgHnEKPQ0ALHVWXBMWW) | [Feuerschwanz](https://open.spotify.com/artist/2Ct54gNxKnYLnXk9HhviMI), [DOMINUM](https://open.spotify.com/artist/4Nm9FxM65RZa6EgFV2z8S9), [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [The Unholy Grail](https://open.spotify.com/album/3GoxiYK5rimYv6UL395ipL) | 3:51 | 2024-03-22 | 2024-05-03 |
 | [The Unkillable Soldier](https://open.spotify.com/track/1h98WxD3tsMfb4YlB2wBDS) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Unkillable Soldier](https://open.spotify.com/album/3wjhgpXJu4BWzOilpLkYte) | 4:11 | 2022-02-11 | 2022-05-28 |
+| [The Way Of The Samurai](https://open.spotify.com/track/4CJZsCNWGcaMNpP6PkZuyN) | [All For Metal](https://open.spotify.com/artist/7pwIx2j4SX0cLAgPrIkv27) | [The Way Of The Samurai](https://open.spotify.com/album/59ewv620MUm8G907bialCs) | 3:23 | 2024-07-12 |  |
 | [The Wicked Rule The Night](https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Ralf Scheepers](https://open.spotify.com/artist/0r4DFjrsHb3Qf3L8NBdPGV) | [The Wicked Rule The Night](https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf) | 4:24 | 2022-05-20 | 2022-12-10 |
 | [The Wolf You Feed \(feat\. Alissa White\-Gluz\)](https://open.spotify.com/track/6P6h9RdPJxPWqFqpLFIYA9) | [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [Alissa White\-Gluz](https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg) | [The Wolf You Feed \(feat\. Alissa White\-Gluz\)](https://open.spotify.com/album/0RldApXzFEBMTvPetGTIcF) | 3:54 | 2022-12-09 | 2023-06-10 |
 | [The World Is Burning](https://open.spotify.com/track/62d3zAqzjE3p0yMBdXgTjc) | [Ember Falls](https://open.spotify.com/artist/6RbFulf0Q38msfpcgh8e0m) | [The World Is Burning](https://open.spotify.com/album/73MEQygFKwruE4aIxmA3Lf) | 4:12 | 2021-12-17 | 2022-06-19 |

@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 57590,
+  "num_followers": 57682,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "Bahamas",
+      "url": "https://open.spotify.com/track/75c5cm8y5Fzb6aTZM3MOpN"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
         "name": "Adenuga x Concerning",
         "url": "https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 160000,
       "name": "Adenuga (feat. Qing Madi)",
       "url": "https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "Bahamas",
-      "url": "https://open.spotify.com/track/75c5cm8y5Fzb6aTZM3MOpN"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -839,6 +839,30 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
+        "name": "One Call",
+        "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 158712,
+      "name": "One Call",
+      "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
         "name": "The Year I Turned 21",
         "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
       },
@@ -883,30 +907,6 @@
       "duration_ms": 156428,
       "name": "TECHNICIAN (feat. Blaqbonez & Lekaa Beats)",
       "url": "https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
-        "name": "One Call",
-        "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 158712,
-      "name": "One Call",
-      "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Small Money",
-        "url": "https://open.spotify.com/album/3wxXvsPsPxi0ZDrbPGmiB4"
-      },
-      "artists": [
-        {
-          "name": "Nasboi",
-          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "Small Money",
-      "url": "https://open.spotify.com/track/5jYCb3QsnXxS2Qh5HzwT7J"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
         "name": "Muyeez (Deluxe)",
         "url": "https://open.spotify.com/album/3z5ScTzthtKvfOzxc2XBE0"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 154689,
       "name": "Trending",
       "url": "https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "Small Money",
+        "url": "https://open.spotify.com/album/3wxXvsPsPxi0ZDrbPGmiB4"
+      },
+      "artists": [
+        {
+          "name": "Nasboi",
+          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "Small Money",
+      "url": "https://open.spotify.com/track/5jYCb3QsnXxS2Qh5HzwT7J"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Before The Feast",
-        "url": "https://open.spotify.com/album/3ShLyszujn5P1Jb5yihyNI"
-      },
-      "artists": [
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 183157,
-      "name": "Who Go Pay",
-      "url": "https://open.spotify.com/track/34ywCJhKleJmZ3YthwBL4u"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
         "name": "Continental (feat. Shallipopi)",
         "url": "https://open.spotify.com/album/0WjeuE3MxIdRxWUb8PURa8"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 180720,
       "name": "Continental (feat. Shallipopi)",
       "url": "https://open.spotify.com/track/5p3PWZEHyHxlFhoROX4dzz"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "Before The Feast",
+        "url": "https://open.spotify.com/album/3ShLyszujn5P1Jb5yihyNI"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 183157,
+      "name": "Who Go Pay",
+      "url": "https://open.spotify.com/track/34ywCJhKleJmZ3YthwBL4u"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Borrow Me Your Baby (feat. Falz)",
-        "url": "https://open.spotify.com/album/56Kv6uvuBbZ2ZqjaZ9vKqs"
-      },
-      "artists": [
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        },
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Borrow Me Your Baby (feat. Falz)",
-      "url": "https://open.spotify.com/track/01AkBgeMy8BSiJuzDl0WXc"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
         "name": "Dis Kain Luv",
         "url": "https://open.spotify.com/album/42kZLEMm7IxL1CjW88NGg1"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 152565,
       "name": "Dis Kain Luv",
       "url": "https://open.spotify.com/track/6vpC9vAX6UsuxTAlclCFDd"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "Borrow Me Your Baby (feat. Falz)",
+        "url": "https://open.spotify.com/album/56Kv6uvuBbZ2ZqjaZ9vKqs"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Borrow Me Your Baby (feat. Falz)",
+      "url": "https://open.spotify.com/track/01AkBgeMy8BSiJuzDl0WXc"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
+        "name": "If I Be You",
+        "url": "https://open.spotify.com/album/3kevAJqIQ59F9EzYNTI43E"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "duration_ms": 136719,
+      "name": "If I Be You",
+      "url": "https://open.spotify.com/track/6hzPMSoUJxMJkNkTCHaDni"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
         "name": "Naija Funk",
         "url": "https://open.spotify.com/album/10MuD6qY8FZx08xgnlJc7O"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 126213,
       "name": "Naija Funk",
       "url": "https://open.spotify.com/track/368hIemlcjDPQuYulhJrHE"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
-        "name": "If I Be You",
-        "url": "https://open.spotify.com/album/3kevAJqIQ59F9EzYNTI43E"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 136719,
-      "name": "If I Be You",
-      "url": "https://open.spotify.com/track/6hzPMSoUJxMJkNkTCHaDni"
     },
     {
       "added_at": "2024-07-19 00:01:00",

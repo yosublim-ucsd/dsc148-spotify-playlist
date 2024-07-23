@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Melly",
-  "num_followers": 170109,
+  "num_followers": 170161,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -187,26 +187,18 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
-        "name": "Te Ouvir",
-        "url": "https://open.spotify.com/album/7J0lgtrG1nb3vHLRNQpdlG"
+        "name": "MENTIROSO",
+        "url": "https://open.spotify.com/album/4M1ABS74NBYnrsXMSEQIRV"
       },
       "artists": [
         {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
-        },
-        {
-          "name": "Khris",
-          "url": "https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624"
-        },
-        {
-          "name": "WALL",
-          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
         }
       ],
-      "duration_ms": 215757,
-      "name": "Te Ouvir",
-      "url": "https://open.spotify.com/track/6exIYcUynpOULD7mcWIEas"
+      "duration_ms": 167936,
+      "name": "MENTIROSO",
+      "url": "https://open.spotify.com/track/2pWh0qXT9466a6HwMf9I1W"
     },
     {
       "added_at": "2024-07-19 03:01:00",
@@ -227,18 +219,26 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
-        "name": "MENTIROSO",
-        "url": "https://open.spotify.com/album/4M1ABS74NBYnrsXMSEQIRV"
+        "name": "Te Ouvir",
+        "url": "https://open.spotify.com/album/7J0lgtrG1nb3vHLRNQpdlG"
       },
       "artists": [
         {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
+        },
+        {
+          "name": "Khris",
+          "url": "https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624"
+        },
+        {
+          "name": "WALL",
+          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
         }
       ],
-      "duration_ms": 167936,
-      "name": "MENTIROSO",
-      "url": "https://open.spotify.com/track/2pWh0qXT9466a6HwMf9I1W"
+      "duration_ms": 215757,
+      "name": "Te Ouvir",
+      "url": "https://open.spotify.com/track/6exIYcUynpOULD7mcWIEas"
     },
     {
       "added_at": "2024-07-19 03:01:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
+        "name": "Colch\u00e3o no Ch\u00e3o",
+        "url": "https://open.spotify.com/album/4IeW0GhVCXNDU6tP0NUs6h"
+      },
+      "artists": [
+        {
+          "name": "Jun Alcan",
+          "url": "https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V"
+        }
+      ],
+      "duration_ms": 124285,
+      "name": "Colch\u00e3o no Ch\u00e3o",
+      "url": "https://open.spotify.com/track/4CggXaIT68pFfn84NYNs3Z"
+    },
+    {
+      "added_at": "2024-07-19 03:01:00",
+      "album": {
         "name": "Vai Lembrar de Mim",
         "url": "https://open.spotify.com/album/0ss50z7yx1Gh4VHH53Ycvj"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 123784,
       "name": "A Faca e o Beijo",
       "url": "https://open.spotify.com/track/2B6uSfSsBqdCOo1Xc1WqGY"
-    },
-    {
-      "added_at": "2024-07-19 03:01:00",
-      "album": {
-        "name": "Colch\u00e3o no Ch\u00e3o",
-        "url": "https://open.spotify.com/album/4IeW0GhVCXNDU6tP0NUs6h"
-      },
-      "artists": [
-        {
-          "name": "Jun Alcan",
-          "url": "https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V"
-        }
-      ],
-      "duration_ms": 124285,
-      "name": "Colch\u00e3o no Ch\u00e3o",
-      "url": "https://open.spotify.com/track/4CggXaIT68pFfn84NYNs3Z"
     },
     {
       "added_at": "2024-07-19 03:01:00",

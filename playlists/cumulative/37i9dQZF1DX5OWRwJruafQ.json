@@ -2289,6 +2289,24 @@
     },
     {
       "album": {
+        "name": "Diamond",
+        "url": "https://open.spotify.com/album/2gsAXNDQbdMAJyw13PgHws"
+      },
+      "artists": [
+        {
+          "name": "Gurjass",
+          "url": "https://open.spotify.com/artist/2MtMmv1X7aUPErcnGHndKZ"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146253,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/5w8rVGQDtF8bZScjmgVzYi"
+    },
+    {
+      "album": {
         "name": "Dil Tod Da (Remix) [Remix Version]",
         "url": "https://open.spotify.com/album/62J5P4loHXbElzgJwdQydO"
       },
@@ -3306,7 +3324,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 165000,
       "name": "Gangsta Shit",
       "url": "https://open.spotify.com/track/1JrMBCjCRiBe0XNB6ZzWhY"
@@ -3746,10 +3764,32 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 136941,
       "name": "Hold Your Horses (Ghodiyan)",
       "url": "https://open.spotify.com/track/5cImTCNguZxXNpWhaFa3tH"
+    },
+    {
+      "album": {
+        "name": "Holidays",
+        "url": "https://open.spotify.com/album/0RtgAhFlDfM2ZP2F6lsE7T"
+      },
+      "artists": [
+        {
+          "name": "TABBI BRAR",
+          "url": "https://open.spotify.com/artist/2ns3ygjlIKLyKE30Sh2ZW9"
+        },
+        {
+          "name": "Mofusion",
+          "url": "https://open.spotify.com/artist/3JXcjiMGfbPsp7deM1JYIv"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136755,
+      "name": "Holidays",
+      "url": "https://open.spotify.com/track/0GQo6bquRdnPjoJhYj89NZ"
     },
     {
       "album": {
@@ -4160,6 +4200,24 @@
       "duration_ms": 155661,
       "name": "Iran",
       "url": "https://open.spotify.com/track/2sAvvxcPYW5qJmFWCTSoFv"
+    },
+    {
+      "album": {
+        "name": "Issa Flex",
+        "url": "https://open.spotify.com/album/34N3wiKUWE3VZUDzeIpzuC"
+      },
+      "artists": [
+        {
+          "name": "Jaura Phagwara",
+          "url": "https://open.spotify.com/artist/2NV7RSOqlCvigkJ9xMBxDW"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180307,
+      "name": "Issa Flex",
+      "url": "https://open.spotify.com/track/0chF5H6p4exI8iUO8OIBUU"
     },
     {
       "album": {
@@ -9164,7 +9222,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 232207,
       "name": "Window",
       "url": "https://open.spotify.com/track/0fbUmoAjzKTOY96pBh6j5b"

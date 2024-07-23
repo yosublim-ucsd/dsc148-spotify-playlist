@@ -640,6 +640,24 @@
     {
       "album": {
         "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168630,
+      "name": "JACK",
+      "url": "https://open.spotify.com/track/34t98bNg4yQxO32BXU5RzC"
+    },
+    {
+      "album": {
+        "name": "the mockingbird & THE CROW",
         "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
       },
       "artists": [
@@ -650,7 +668,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 168630,
       "name": "JACK",
       "url": "https://open.spotify.com/track/4q4ITrTmB4LyoNw9yjb2Ic"
@@ -858,7 +876,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-21",
+      "date_removed": null,
       "duration_ms": 185947,
       "name": "One Of Y\u2019all (feat. HARDY, Rhett Akins & The Cadillac Three)",
       "url": "https://open.spotify.com/track/4DcvlNRw65x0Fj4hsTEOUV"
@@ -876,7 +894,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 220995,
       "name": "ORPHAN",
       "url": "https://open.spotify.com/track/4cqNXoDNcxAItL6mMrSAUW"
@@ -1062,10 +1080,28 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 194341,
       "name": "ROCKSTAR",
       "url": "https://open.spotify.com/track/10ggGD9ff8c4vNSOR9xIEX"
+    },
+    {
+      "album": {
+        "name": "Quit!!",
+        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194341,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/5NKPbcHaLSl4K3lJCo4pJr"
     },
     {
       "album": {

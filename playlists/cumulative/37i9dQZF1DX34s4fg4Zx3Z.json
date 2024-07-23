@@ -12012,7 +12012,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 181894,
       "name": "guiding light",
       "url": "https://open.spotify.com/track/3hBWQuSesEt8LF151dsEII"
@@ -22205,6 +22205,24 @@
     },
     {
       "album": {
+        "name": "N\u1ed5i Gi\u00f3 L\u00ean",
+        "url": "https://open.spotify.com/album/2XnLsrY68ElgfpdiIvXbOo"
+      },
+      "artists": [
+        {
+          "name": "Phan Nh\u01b0 Thu\u1ef3",
+          "url": "https://open.spotify.com/artist/3icUzqyDWte78fxHtTniUz"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286753,
+      "name": "N\u1ed5i Gi\u00f3 L\u00ean",
+      "url": "https://open.spotify.com/track/4nB8rzp00TytQi9tvhs06o"
+    },
+    {
+      "album": {
         "name": "N\u1ed5i Gi\u00f3 R\u1ed3i",
         "url": "https://open.spotify.com/album/0LFpZLf2kFkeV0BLE4VcPK"
       },
@@ -31524,6 +31542,36 @@
       "duration_ms": 279850,
       "name": "V\u1ec1 N\u0103m Th\u00e1ng Sau N\u00e0y (feat. D Aces)",
       "url": "https://open.spotify.com/track/2hm0zneWHp95ahOp3tZ4id"
+    },
+    {
+      "album": {
+        "name": "V\u1ec7t N\u1eafng Nh\u1ea1t Phai",
+        "url": "https://open.spotify.com/album/3sOlwcyicTG93aslsJ01E8"
+      },
+      "artists": [
+        {
+          "name": "Kai",
+          "url": "https://open.spotify.com/artist/7Arxev7cDH8LukhCCSBMgp"
+        },
+        {
+          "name": "X\u01b0a L\u00e2m",
+          "url": "https://open.spotify.com/artist/48paF1vGoA5tuyve0fmN8a"
+        },
+        {
+          "name": "Dylann.",
+          "url": "https://open.spotify.com/artist/3I2zyKkfEGyPtkrVqNC3Dz"
+        },
+        {
+          "name": "The Felixetine",
+          "url": "https://open.spotify.com/artist/7bfBdJSn0HbXJ7kYWjRqHf"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261333,
+      "name": "V\u1ec7t N\u1eafng Nh\u1ea1t Phai",
+      "url": "https://open.spotify.com/track/4mZzqlaG67gUD0lAQIEVMs"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 797725,
+  "num_followers": 797751,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Bem Melhor",
-        "url": "https://open.spotify.com/album/1EDPtYxbHJ8iqRdLH6u2m4"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 183050,
-      "name": "Bem Melhor",
-      "url": "https://open.spotify.com/track/00vOICbp9QDX7e0R9l0Vl6"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Enciclop\u00e9dia Musical Brasileira",
         "url": "https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 235080,
       "name": "Brasil pandeiro",
       "url": "https://open.spotify.com/track/4IIK7KvWCTSkVVRufxyh3d"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Bem Melhor",
+        "url": "https://open.spotify.com/album/1EDPtYxbHJ8iqRdLH6u2m4"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 183050,
+      "name": "Bem Melhor",
+      "url": "https://open.spotify.com/track/00vOICbp9QDX7e0R9l0Vl6"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Ac\u00fastico - Ao Vivo",
-        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
-      },
-      "artists": [
-        {
-          "name": "Raimundos",
-          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
-        }
-      ],
-      "duration_ms": 219728,
-      "name": "Lugar Ao Sol - Ao Vivo | Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Gabriela - A COLORS SHOW",
         "url": "https://open.spotify.com/album/1epPdl89RfrtujzRW2MSug"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 253732,
       "name": "Gabriela - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6c4TZcp1po2GH7ZJz3Jkf3"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Ac\u00fastico - Ao Vivo",
+        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
+      },
+      "artists": [
+        {
+          "name": "Raimundos",
+          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
+        }
+      ],
+      "duration_ms": 219728,
+      "name": "Lugar Ao Sol - Ao Vivo | Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "Nossa m\u00fasica",
+        "url": "https://open.spotify.com/album/7vdk9XKYqz9BL7mZlzIlfj"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        }
+      ],
+      "duration_ms": 239642,
+      "name": "Nossa m\u00fasica",
+      "url": "https://open.spotify.com/track/4hpcc2wq84pilUgDbIPkDN"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "PRISCILLA",
         "url": "https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik"
       },
@@ -923,22 +939,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Nossa m\u00fasica",
-        "url": "https://open.spotify.com/album/7vdk9XKYqz9BL7mZlzIlfj"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 239642,
-      "name": "Nossa m\u00fasica",
-      "url": "https://open.spotify.com/track/4hpcc2wq84pilUgDbIPkDN"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "12 Horas (feat. Mar\u00edlia Mendon\u00e7a) [Ac\u00fastico]",
         "url": "https://open.spotify.com/album/2XJWP3wpipPyna8pFX68ZJ"
       },
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Flora - EP",
-        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Vem conversar",
-      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 197453,
       "name": "Petrified",
       "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Flora - EP",
+        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Vem conversar",
+      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Na Medida do Imposs\u00edvel Ao Vivo No Inhotim (\u00c1lbum Comentado)",
-        "url": "https://open.spotify.com/album/6duND4qwkaiUAyVFsoJUfB"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Takai",
-          "url": "https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE"
-        }
-      ],
-      "duration_ms": 207933,
-      "name": "I Don't Want To Talk About It",
-      "url": "https://open.spotify.com/track/79hHaRraMY1E8t8U2TS7jK"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Lanca Perfume E Outras Manias",
         "url": "https://open.spotify.com/album/4XLbkcXDkeCPrCInaG9bvS"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 314240,
       "name": "Lan\u00e7a Perfume",
       "url": "https://open.spotify.com/track/3RCoY39kzmHdnvCvHeGh3K"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Na Medida do Imposs\u00edvel Ao Vivo No Inhotim (\u00c1lbum Comentado)",
+        "url": "https://open.spotify.com/album/6duND4qwkaiUAyVFsoJUfB"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Takai",
+          "url": "https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE"
+        }
+      ],
+      "duration_ms": 207933,
+      "name": "I Don't Want To Talk About It",
+      "url": "https://open.spotify.com/track/79hHaRraMY1E8t8U2TS7jK"
     },
     {
       "added_at": "2024-07-19 03:00:00",

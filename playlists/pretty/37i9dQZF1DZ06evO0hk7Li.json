@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 37759,
+  "num_followers": 37768,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpr+AAAAAACPqgOWIKMROHq/MJu8SHzW",
+  "snapshot_id": "ZpxPgAAAAABTLgloOLMzVb27M2b6e9pV",
   "tracks": [
     {
       "added_at": null,
@@ -615,18 +615,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
-        "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
+        "name": "Other People\u2019s Heartache (Pt. 4)",
+        "url": "https://open.spotify.com/album/3cGGFGQJ027VtMknlIHNNi"
       },
       "artists": [
+        {
+          "name": "Other People's Heartache",
+          "url": "https://open.spotify.com/artist/5gXNY1o9BtajaZfYJVXQrv"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Lily Moore",
+          "url": "https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS"
+        },
+        {
+          "name": "Moss Kena",
+          "url": "https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv"
+        },
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 204658,
-      "name": "In The Name Of Love - From The Motion Picture The Equalizer 2",
-      "url": "https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I"
+      "duration_ms": 342012,
+      "name": "The Descent",
+      "url": "https://open.spotify.com/track/54bqtn4yFAPD9OoIecweDA"
     },
     {
       "added_at": null,
@@ -663,34 +679,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Other People\u2019s Heartache (Pt. 4)",
-        "url": "https://open.spotify.com/album/3cGGFGQJ027VtMknlIHNNi"
+        "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
+        "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
       },
       "artists": [
-        {
-          "name": "Other People's Heartache",
-          "url": "https://open.spotify.com/artist/5gXNY1o9BtajaZfYJVXQrv"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        },
-        {
-          "name": "Lily Moore",
-          "url": "https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS"
-        },
-        {
-          "name": "Moss Kena",
-          "url": "https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv"
-        },
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 342012,
-      "name": "The Descent",
-      "url": "https://open.spotify.com/track/54bqtn4yFAPD9OoIecweDA"
+      "duration_ms": 204658,
+      "name": "In The Name Of Love - From The Motion Picture The Equalizer 2",
+      "url": "https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I"
     },
     {
       "added_at": null,

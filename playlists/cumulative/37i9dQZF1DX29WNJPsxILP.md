@@ -4,7 +4,7 @@
 
 > Rap from the hoods of Dilli featuring KR$NA
 
-146 songs - 7 hr 32 min
+147 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,8 @@
 | [We Here](https://open.spotify.com/track/1Xafs2vf5iaTYEZlUeceDl) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F) | [We Here](https://open.spotify.com/album/56JGq0uSnSjLi2hH4PXNTH) | 2:21 | 2024-06-28 |  |
 | [WOH](https://open.spotify.com/track/1QUU43rTDMnGl4xyaIfsYN) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [WOH](https://open.spotify.com/album/0hYH2JNegSbU72fmNnQ3LW) | 5:28 | 2023-03-10 |  |
 | [Woh Raat](https://open.spotify.com/track/27xsLWmSmEAiXABnOngOw7) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Woh Raat](https://open.spotify.com/album/7MKr5NF5sZUWjheSa1NXFf) | 3:12 | 2023-11-16 |  |
-| [You Know The Drill](https://open.spotify.com/track/0PZT2VMwK3qGF9tp0xYAbz) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Ellde Fazilka](https://open.spotify.com/artist/29VMPclNqVgvAfLV5QCpMj) | [You Know The Drill](https://open.spotify.com/album/5SecXwBQSy1AalOteM4hRn) | 3:00 | 2023-03-10 |  |
+| [Yaari Hai Imaan x Yaaron Wali Baat](https://open.spotify.com/track/5QngU7tqU1TuJkPF0GN4kx) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Manna Dey](https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU) | [Yaari Hai Imaan x Yaaron Wali Baat](https://open.spotify.com/album/4NGy4ScfsNZoM8qrhzODFk) | 2:39 | 2024-07-22 |  |
+| [You Know The Drill](https://open.spotify.com/track/0PZT2VMwK3qGF9tp0xYAbz) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Ellde Fazilka](https://open.spotify.com/artist/29VMPclNqVgvAfLV5QCpMj) | [You Know The Drill](https://open.spotify.com/album/5SecXwBQSy1AalOteM4hRn) | 3:00 | 2023-03-10 | 2024-07-23 |
 | [Young 4EVER](https://open.spotify.com/track/06v9NnS6OVA77FjCFFvLHc) | [Ab 17](https://open.spotify.com/artist/6WZbxCOTFeEqJHpcZYgDiG), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Mr\. Baawe](https://open.spotify.com/album/1vOTWQkwc01nGARFmA3fKO) | 2:21 | 2024-06-28 |  |
 | [Zaruri Nahi](https://open.spotify.com/track/6JLBvPFd61Y0t7scB9TxEH) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [Zaruri Nahi](https://open.spotify.com/album/515rEggHfPWyzspMu4zgBY) | 3:12 | 2023-03-10 | 2023-10-12 |
 

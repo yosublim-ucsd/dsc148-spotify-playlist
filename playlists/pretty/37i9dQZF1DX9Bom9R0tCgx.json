@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 385196,
+  "num_followers": 385302,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "LA DI DA",
-        "url": "https://open.spotify.com/album/2WquxpybBSGTu5fqYIYIrR"
-      },
-      "artists": [
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "DJane HouseKat",
-          "url": "https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx"
-        }
-      ],
-      "duration_ms": 179824,
-      "name": "LA DI DA",
-      "url": "https://open.spotify.com/track/6l07fK093JBCIh6enC4cof"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Convivium",
         "url": "https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 133200,
       "name": "Convivium",
       "url": "https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "LA DI DA",
+        "url": "https://open.spotify.com/album/2WquxpybBSGTu5fqYIYIrR"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "DJane HouseKat",
+          "url": "https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx"
+        }
+      ],
+      "duration_ms": 179824,
+      "name": "LA DI DA",
+      "url": "https://open.spotify.com/track/6l07fK093JBCIh6enC4cof"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Round Round",
-        "url": "https://open.spotify.com/album/4e7zsUUHx3IvraiPsvirT7"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        },
-        {
-          "name": "Gigi Russ",
-          "url": "https://open.spotify.com/artist/54TtQ6BIKwjmQsV3yX2NeB"
-        }
-      ],
-      "duration_ms": 226259,
-      "name": "Round Round",
-      "url": "https://open.spotify.com/track/4hB0gb4KGm17u266JD5pbc"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "New Generation (Space 92 Remix)",
         "url": "https://open.spotify.com/album/77RCWyzeOsqkIH0QFNdrjH"
       },
@@ -1735,34 +1715,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "No Time",
-        "url": "https://open.spotify.com/album/4WgsMPY3IfJt6w0BC3VkSI"
+        "name": "Round Round",
+        "url": "https://open.spotify.com/album/4e7zsUUHx3IvraiPsvirT7"
       },
       "artists": [
         {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        }
-      ],
-      "duration_ms": 156328,
-      "name": "No Time",
-      "url": "https://open.spotify.com/track/6L4ZHLACL2Fla9qT56ef8P"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "9mm",
-        "url": "https://open.spotify.com/album/3sci6Sx5qkPpOxTVYXYzxD"
-      },
-      "artists": [
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        },
         {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+          "name": "Gigi Russ",
+          "url": "https://open.spotify.com/artist/54TtQ6BIKwjmQsV3yX2NeB"
         }
       ],
-      "duration_ms": 237928,
-      "name": "9mm",
-      "url": "https://open.spotify.com/track/1g1SuDg4vUq9u0J7V142Zx"
+      "duration_ms": 226259,
+      "name": "Round Round",
+      "url": "https://open.spotify.com/track/4hB0gb4KGm17u266JD5pbc"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1791,6 +1759,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "9mm",
+        "url": "https://open.spotify.com/album/3sci6Sx5qkPpOxTVYXYzxD"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 237928,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/1g1SuDg4vUq9u0J7V142Zx"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "Hardstyle Fish",
         "url": "https://open.spotify.com/album/6p1XPlmC2m4J7AsGMVlNAA"
       },
@@ -1811,6 +1795,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "No Time",
+        "url": "https://open.spotify.com/album/4WgsMPY3IfJt6w0BC3VkSI"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        }
+      ],
+      "duration_ms": 156328,
+      "name": "No Time",
+      "url": "https://open.spotify.com/track/6L4ZHLACL2Fla9qT56ef8P"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "GASOLINA & COCAINA",
         "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
       },
@@ -1823,26 +1823,6 @@
       "duration_ms": 192390,
       "name": "GASOLINA & COCAINA",
       "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Heaven (Million Miles Rework)",
-        "url": "https://open.spotify.com/album/2g22w07k3HC8TJGSX33KTu"
-      },
-      "artists": [
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "HALIENE",
-          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
-        }
-      ],
-      "duration_ms": 193629,
-      "name": "Heaven - Million Miles Rework",
-      "url": "https://open.spotify.com/track/492rfFS9Gc3mgBrAOiRpc1"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1863,6 +1843,26 @@
       "duration_ms": 260001,
       "name": "Black Ice",
       "url": "https://open.spotify.com/track/1oacAKa5ReNOfuqaJ1gdBJ"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Heaven (Million Miles Rework)",
+        "url": "https://open.spotify.com/album/2g22w07k3HC8TJGSX33KTu"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        }
+      ],
+      "duration_ms": 193629,
+      "name": "Heaven - Million Miles Rework",
+      "url": "https://open.spotify.com/track/492rfFS9Gc3mgBrAOiRpc1"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -2015,18 +2015,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/7ioeb14iIitWm03e7K9eXq"
+        "name": "One Night In Bangkok 2K23 (The Ultimate Remixes)",
+        "url": "https://open.spotify.com/album/31gy6l39adSklojfefXZCB"
       },
       "artists": [
         {
-          "name": "Bisken",
-          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Vinylshakerz",
+          "url": "https://open.spotify.com/artist/7g7uwd4PAs7J3PgiKUx47q"
         }
       ],
-      "duration_ms": 134357,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/2kQ853vf9Z5rxjJCQRRQIL"
+      "duration_ms": 207815,
+      "name": "One Night in Bangkok 2K23 - Da Tweekaz 2K23 Remix",
+      "url": "https://open.spotify.com/track/44rdr40M1DhqS7X5HKoPQ9"
     }
   ],
   "unique_name": "Bass Explosion",

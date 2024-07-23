@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-285 songs - 16 hr 28 min
+287 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,20 +80,21 @@
 | [Everybody Lets You Down](https://open.spotify.com/track/3tliQO1g9DSsEHJziifqEO) | [Euan Blackman](https://open.spotify.com/artist/3OnnLtFCGyi9C8an2obEz1) | [Everybody Lets You Down](https://open.spotify.com/album/22691Ekpew0aRVYenq16dD) | 3:32 | 2023-02-24 | 2024-02-01 |
 | [Fallen Angel](https://open.spotify.com/track/6IUvnywluytD4Q0XLaneQ9) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [The Ghost of Our Past](https://open.spotify.com/album/5F2AUeavouVLCvaGEm7LaT) | 2:44 | 2024-07-19 |  |
 | [Fever Dream](https://open.spotify.com/track/4m25RlfLwq6cNsdovfAAFG) | [Adam Youngman](https://open.spotify.com/artist/3K8XkFDgyQhbHQGzD0xz8Y) | [Fever Dream](https://open.spotify.com/album/0wh19fdjJXbt1tynRG0aS2) | 1:42 | 2023-02-24 | 2023-05-20 |
+| [Firefight](https://open.spotify.com/track/4dnRA4RkcxIPtKpvKpo7um) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Firefight](https://open.spotify.com/album/1EFQeU8UvvTF0416pl5vOq) | 3:52 | 2024-07-19 |  |
 | [Floorboards](https://open.spotify.com/track/3DZKzoLMmAXIEH0vIDILjk) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t) | [Floorboards](https://open.spotify.com/album/5wQ3lBKKZtiZt1D2WO83si) | 2:47 | 2023-01-13 | 2024-04-30 |
 | [Folding](https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Folding](https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL) | 3:47 | 2022-04-08 |  |
 | [For Your Touch](https://open.spotify.com/track/5VeUl0KzQQOm4qLzqTyX83) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [For Your Touch](https://open.spotify.com/album/3E6MTeXMibrYqUIqUnn9qO) | 3:02 | 2023-08-11 |  |
 | [Forever](https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:28 | 2024-02-09 |  |
 | [Forever](https://open.spotify.com/track/0QDtXBF9jBvmHFzTUPeKIC) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Forever](https://open.spotify.com/album/7LQVnMp1BvmBJE75bEZ5yd) | 2:02 | 2023-02-24 |  |
 | [Forever For Now](https://open.spotify.com/track/56CveEemU2lye9WOHVaoh6) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Forever For Now](https://open.spotify.com/album/5fYvianKo0w7xm0BRXIgfw) | 4:13 | 2023-06-30 | 2024-05-26 |
-| [Forward](https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU) | [Qazi & Qazi](https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM) | [Forward](https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG) | 4:23 | 2022-10-07 |  |
+| [Forward](https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU) | [Qazi & Qazi](https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM) | [Forward](https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG) | 4:23 | 2022-10-07 | 2024-07-23 |
 | [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 | 2024-04-29 |  |
 | [Full Circle](https://open.spotify.com/track/0ID888wUXbMfZVVPe0DtJg) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Full Circle](https://open.spotify.com/album/3sXZ5ffRKfELEF2urHXAvK) | 3:01 | 2024-06-07 |  |
 | [garden ghosts](https://open.spotify.com/track/0vi2mGOi4tQQWvzFzR51tQ) | [Sarah McCreedy](https://open.spotify.com/artist/5bWGFe8kM0mQLEUZhfMqpC), [AOIBHA](https://open.spotify.com/artist/1JQePmAx9vPWhhAzmSOVIS) | [garden ghosts](https://open.spotify.com/album/1TNfcCkt7xsH9wvkZnvuJD) | 3:44 | 2023-01-13 | 2023-04-09 |
 | [Garden Of England](https://open.spotify.com/track/3niX005MakToUal5nk3x9M) | [Mitch Sanders](https://open.spotify.com/artist/7HedZ72Eue9RBASoQXqQWf) | [Garden Of England](https://open.spotify.com/album/1l3RkCJDJQQcEe3He0VPhZ) | 4:33 | 2024-04-29 |  |
 | [Ghost](https://open.spotify.com/track/2THLqQsIwN7Q5Wf1AMNMaT) | [Callum Pitt](https://open.spotify.com/artist/15mRJDZiAQq5CI6AqnlJfd) | [Ghost](https://open.spotify.com/album/6MPxhvn8psLz9AaNq0MHzn) | 4:12 | 2023-05-19 | 2023-07-01 |
 | [Ghost](https://open.spotify.com/track/5xWpOP3RvKvd8oz1y5HfRo) | [Callum Pitt](https://open.spotify.com/artist/15mRJDZiAQq5CI6AqnlJfd) | [Ghost](https://open.spotify.com/album/6tEpoBigcuVdWFWqza7U8f) | 4:12 | 2022-04-08 | 2023-06-07 |
-| [Gin & Tonics](https://open.spotify.com/track/2yyDkQwTDkrf9B6t53dgb6) | [George David](https://open.spotify.com/artist/1NXtGiEomSRw1p2sxpIzft) | [Gin & Tonics](https://open.spotify.com/album/4mwPWJ52L7ZZ06QNoQxrza) | 2:31 | 2022-05-20 |  |
+| [Gin & Tonics](https://open.spotify.com/track/2yyDkQwTDkrf9B6t53dgb6) | [George David](https://open.spotify.com/artist/1NXtGiEomSRw1p2sxpIzft) | [Gin & Tonics](https://open.spotify.com/album/4mwPWJ52L7ZZ06QNoQxrza) | 2:31 | 2022-05-20 | 2024-07-23 |
 | [Girl Like You](https://open.spotify.com/track/6j4mDM1LbxbTpiLC7FBCDd) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Forever](https://open.spotify.com/album/5QMbfVH8QFE6JhLNELYfEz) | 1:45 | 2023-04-07 |  |
 | [Give Me A Minute](https://open.spotify.com/track/0d0iBmyaaywSWyEjN9NQla) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 2:37 | 2022-04-08 | 2022-10-13 |
 | [Give Me A Minute](https://open.spotify.com/track/3YyASDEwePUZaPcgCjGOoV) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 2:37 | 2022-10-07 | 2023-10-07 |
@@ -104,6 +105,7 @@
 | [Halfway Down the Street \(home demo\)](https://open.spotify.com/track/6AL4I4q2O4jc7Dzf4RB1b5) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq), [Pet Snake](https://open.spotify.com/artist/6iD9rqdmw5kq1W8CchAtCi) | [Jake Whiskin \(Deluxe\)](https://open.spotify.com/album/0GGrKOUtCvI8FOhULte26M) | 4:03 | 2023-04-07 | 2023-08-12 |
 | [Hallelujah I Love Her So](https://open.spotify.com/track/4Fuyarf5fHo2zJ6GoYC48N) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz) | 2:43 | 2023-01-13 | 2023-02-25 |
 | [Hallelujah I Love Her So](https://open.spotify.com/track/6chbqElEHkFSRDJpEydK2H) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Hallelujah I Love Her So](https://open.spotify.com/album/4KkR1fwO3tgHfhsKRgfFuf) | 2:43 | 2022-04-08 | 2023-02-15 |
+| [Harpy Hare](https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz) | 3:00 | 2024-07-23 |  |
 | [Harsh](https://open.spotify.com/track/4kQ83UaTyWGNW935WsE6xm) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Harsh](https://open.spotify.com/album/6OF83X7IwBRBP3SXQkMUuR) | 2:14 | 2022-08-26 | 2024-01-20 |
 | [Harvest Moon](https://open.spotify.com/track/0vd9oVF2YwYMm6uD4VoKcm) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Harvest Moon](https://open.spotify.com/album/5AhUi3hCsj7fUfkonM9KlV) | 3:05 | 2022-05-20 | 2022-11-19 |
 | [Hearts That Pound Like Yours](https://open.spotify.com/track/5pv7m6jR9YanJsOelgPXXt) | [Joschko](https://open.spotify.com/artist/2e0VwUHIkR3USVL6GomQ0i) | [Hearts That Pound Like Yours](https://open.spotify.com/album/4J7zHXQyKKUSOpha3swQle) | 3:46 | 2022-04-08 | 2022-10-08 |

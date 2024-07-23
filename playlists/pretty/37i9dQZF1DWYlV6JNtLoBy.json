@@ -1,6 +1,6 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 5567,
+  "num_followers": 5570,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Grave Robber",
-        "url": "https://open.spotify.com/album/0wB9OS3MOqEHXAfxEbk5Px"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 170854,
-      "name": "Grave Robber",
-      "url": "https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Take It All Back",
         "url": "https://open.spotify.com/album/0CmaxOquxepYKzJjDJCmvt"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 260064,
       "name": "Kumama Papa",
       "url": "https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Grave Robber",
+        "url": "https://open.spotify.com/album/0wB9OS3MOqEHXAfxEbk5Px"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 170854,
+      "name": "Grave Robber",
+      "url": "https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -583,26 +583,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "CAVES",
-        "url": "https://open.spotify.com/album/1Rtopf52bLtF0kdxQsL8TL"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        },
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 264386,
-      "name": "Fall On Me (feat. Carly Pearce)",
-      "url": "https://open.spotify.com/track/0mA4Uq9WRl32K5C39jAFUF"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "New Generation",
         "url": "https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 648235,
       "name": "New Generation",
       "url": "https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "CAVES",
+        "url": "https://open.spotify.com/album/1Rtopf52bLtF0kdxQsL8TL"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        },
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 264386,
+      "name": "Fall On Me (feat. Carly Pearce)",
+      "url": "https://open.spotify.com/track/0mA4Uq9WRl32K5C39jAFUF"
     },
     {
       "added_at": "2024-01-19 00:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: DYSTINCT & Dadju
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,623 likes - 84 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,631 likes - 84 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 43 | [100 Lives](https://open.spotify.com/track/1esueU6TI7y7bOwHhOP14K) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [100 Lives](https://open.spotify.com/album/6zOK13fGEgCUcqCwYySpHu) | 3:13 |
 | 44 | [Sky/Shore/Sea](https://open.spotify.com/track/3QSdxo2w7sJDPUCnw4806Q) | [Exp.](https://open.spotify.com/artist/1H7n686346Z5bb65sYw9xi), [Darrell Cole](https://open.spotify.com/artist/7MfUUL2EyTCm4rLuvbK72a), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz), [Eklipse](https://open.spotify.com/artist/2ycTuWzeewjBC6SHxF1gID), [Thierry Ganz](https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV), [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [Sky/Shore/Sea](https://open.spotify.com/album/3WXKGMdXTQYjYIrBhBYqyN) | 2:54 |
 | 45 | [Corazón](https://open.spotify.com/track/77qNb5nsA1zFvQMj8OfyUn) | [Naomi Aguilera](https://open.spotify.com/artist/1C9JdiobtnE0jht0I6g9uI) | [Corazón](https://open.spotify.com/album/4Z5fauR5ebwKTxITvPcCx7) | 2:25 |
-| 46 | [La même histoire](https://open.spotify.com/track/6I6nQIBRYlQLMT58liSyWI) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [La même histoire](https://open.spotify.com/album/1q67Fv3Ccr8yAOrtVD7F7U) | 2:12 |
+| 46 | [LA MÊME HISTOIRE](https://open.spotify.com/track/6I6nQIBRYlQLMT58liSyWI) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [LA MÊME HISTOIRE](https://open.spotify.com/album/1q67Fv3Ccr8yAOrtVD7F7U) | 2:12 |
 | 47 | [Toujours rien à remplacer](https://open.spotify.com/track/57McKRNvUC7b25hpohCXm8) | [Scylla](https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA) | [Ivresse des profondeurs](https://open.spotify.com/album/02fsOKarSDUsPaNNOhDE6c) | 6:22 |
 | 48 | [Therapy](https://open.spotify.com/track/50GBuFD6FPNoJDjVnd4nrV) | [Giefa Sparkle](https://open.spotify.com/artist/3mqzTvW2KgKL0cVKtFMwyh), [Miss Angel](https://open.spotify.com/artist/714BxIYCFvSENkMWlaCwfi) | [Therapy](https://open.spotify.com/album/5IFzjb9HjakhvB4zCBgoLH) | 3:25 |
 | 49 | [Hottest Summer on Record](https://open.spotify.com/track/5uWA8WojlklsMu8aQxzybZ) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Hottest Summer on Record](https://open.spotify.com/album/1JJXOjU7KbjXLcyVWoUrxp) | 3:26 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 83 | [HEADPOP](https://open.spotify.com/track/0AEniffbTbszvF835TWf5P) | [Sadandsolo](https://open.spotify.com/artist/0JKJ8w8dzJ894jec6ZtAkH) | [HEADPOP / W](https://open.spotify.com/album/30tlW2vvh6v29xbITQ9Mou) | 2:53 |
 | 84 | [Tagada](https://open.spotify.com/track/6I89r41HpPP0iGv8oDjEgX) | [Kipili](https://open.spotify.com/artist/6xZr3qhSDTiUTuYt49khaJ) | [Tagada](https://open.spotify.com/album/0Nw9iYkJI1Vtmu9ut1Asz4) | 2:36 |
 
-Snapshot ID: `Zpn/rQAAAAA32Ymhn/16S/38EOHZB16u`
+Snapshot ID: `Zp47nAAAAACdsz4hulsXyAorcLxXmud+`

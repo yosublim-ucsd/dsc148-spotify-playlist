@@ -1,13 +1,29 @@
 {
-  "description": "This is Aidan Bissett. Piesele esen\u021biale \u00eentr-un singur playlist.",
-  "num_followers": 871,
-  "original_name": "Acesta este Aidan Bissett.",
+  "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
+  "num_followers": 873,
+  "original_name": "This Is Aidan Bissett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpr+AAAAAADc+EYNnd6glQ5d/5ORdXa8",
+  "snapshot_id": "ZpxPgAAAAAB06i48IdFENG7UOg1Q9YIP",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tripping Over Air",
+        "url": "https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 182382,
+      "name": "Tripping Over Air",
+      "url": "https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd"
+    },
     {
       "added_at": null,
       "album": {
@@ -187,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 190173,
+      "name": "People Pleaser",
+      "url": "https://open.spotify.com/track/23poOrvCs7LgiluX0Bcye0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'm Alright If You're Ok",
         "url": "https://open.spotify.com/album/1oWU2nS60Jn0kQ6WjeCBen"
       },
@@ -203,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT"
+        "name": "Grocery Store Girl",
+        "url": "https://open.spotify.com/album/4eXLGwqYRvu2GJ0cGcVvNS"
       },
       "artists": [
         {
@@ -212,9 +244,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 190173,
-      "name": "People Pleaser",
-      "url": "https://open.spotify.com/track/23poOrvCs7LgiluX0Bcye0"
+      "duration_ms": 163983,
+      "name": "Grocery Store Girl",
+      "url": "https://open.spotify.com/track/1xUzY52IQQ5psQnhesko3U"
     },
     {
       "added_at": null,
@@ -235,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "So High",
-        "url": "https://open.spotify.com/album/70a5Kxi0a0LeWUNOzGzwcb"
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT"
       },
       "artists": [
         {
@@ -244,9 +276,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 169732,
-      "name": "So High",
-      "url": "https://open.spotify.com/track/3tIuCHOW1namhnP5smJES3"
+      "duration_ms": 153773,
+      "name": "Wish It Was Me",
+      "url": "https://open.spotify.com/track/5znIh3KjSph3m7wCJsGgRY"
     },
     {
       "added_at": null,
@@ -267,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT"
+        "name": "So High",
+        "url": "https://open.spotify.com/album/70a5Kxi0a0LeWUNOzGzwcb"
       },
       "artists": [
         {
@@ -276,9 +308,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 153773,
-      "name": "Wish It Was Me",
-      "url": "https://open.spotify.com/track/5znIh3KjSph3m7wCJsGgRY"
+      "duration_ms": 169732,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/3tIuCHOW1namhnP5smJES3"
     },
     {
       "added_at": null,
@@ -297,6 +329,6 @@
       "url": "https://open.spotify.com/track/3RVe55HNkkjblwYqMh8bol"
     }
   ],
-  "unique_name": "Acesta este Aidan Bissett.",
+  "unique_name": "This Is Aidan Bissett",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ULe02"
 }

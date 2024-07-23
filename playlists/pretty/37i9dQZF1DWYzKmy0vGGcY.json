@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James",
-  "num_followers": 432157,
+  "num_followers": 432307,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Save the Last Dance for Me",
-        "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "Save the Last Dance for Me",
-      "url": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Green, Green Grass Of Home",
         "url": "https://open.spotify.com/album/15QRC2FhT659a5YJIS0Nff"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 184893,
       "name": "Green Green Grass Of Home",
       "url": "https://open.spotify.com/track/5BFWQXNGPYadZxNKxY1UfU"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Save the Last Dance for Me",
+        "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "Save the Last Dance for Me",
+      "url": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -909,22 +909,6 @@
       "url": "https://open.spotify.com/track/5Zu9mG353GB3p26t7M5AmR"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "True Genius",
-        "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 219560,
-      "name": "Georgia on My Mind",
-      "url": "https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "The Beat Goes On: Best Of",
@@ -939,6 +923,22 @@
       "duration_ms": 193840,
       "name": "I Got You Babe",
       "url": "https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "True Genius",
+        "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "Georgia on My Mind",
+      "url": "https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -1541,22 +1541,6 @@
       "url": "https://open.spotify.com/track/1vG906bxMqUVufJoLSF4rV"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Oldies 60's",
-        "url": "https://open.spotify.com/album/3y2gHDcfKpQG21SutK6ErH"
-      },
-      "artists": [
-        {
-          "name": "Gerry & The Pacemakers",
-          "url": "https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8"
-        }
-      ],
-      "duration_ms": 160026,
-      "name": "You'll Never Walk Alone",
-      "url": "https://open.spotify.com/track/3nxEmpFc1R0kiDrULNkSaf"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Empty Sky",
@@ -1587,6 +1571,22 @@
       "duration_ms": 165213,
       "name": "As Tears Go By - (Original Single Mono Version)",
       "url": "https://open.spotify.com/track/5rUwnfuvEebahvFInZB8mC"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Oldies 60's",
+        "url": "https://open.spotify.com/album/3y2gHDcfKpQG21SutK6ErH"
+      },
+      "artists": [
+        {
+          "name": "Gerry & The Pacemakers",
+          "url": "https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8"
+        }
+      ],
+      "duration_ms": 160026,
+      "name": "You'll Never Walk Alone",
+      "url": "https://open.spotify.com/track/3nxEmpFc1R0kiDrULNkSaf"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -2175,6 +2175,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "The Ultimate Bee Gees",
+        "url": "https://open.spotify.com/album/6PM8QzSc6FXrL11UwDfdI1"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/6oEyQSER3TyW92IJm61Fzk"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Hello Louis - The Hit Years (1963-1969)",
         "url": "https://open.spotify.com/album/3IkAJdl6rQcSbnfpGr3MVt"
       },
@@ -2227,22 +2243,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Lesley Gore Sings Of Mixed-Up Hearts",
-        "url": "https://open.spotify.com/album/0dfUGbWBn7pyc1npqyKOj1"
-      },
-      "artists": [
-        {
-          "name": "Lesley Gore",
-          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "You Don't Own Me",
-      "url": "https://open.spotify.com/track/5E1pngWasYW2Y6OjV6WMUs"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Abbey Road (Remastered)",
         "url": "https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd"
       },
@@ -2255,6 +2255,22 @@
       "duration_ms": 259946,
       "name": "Come Together - Remastered",
       "url": "https://open.spotify.com/track/0MKqeOVdZcUFGJvWpGCKbG"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Lesley Gore Sings Of Mixed-Up Hearts",
+        "url": "https://open.spotify.com/album/0dfUGbWBn7pyc1npqyKOj1"
+      },
+      "artists": [
+        {
+          "name": "Lesley Gore",
+          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "You Don't Own Me",
+      "url": "https://open.spotify.com/track/5E1pngWasYW2Y6OjV6WMUs"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2291,22 +2307,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Ultimate Bee Gees",
-        "url": "https://open.spotify.com/album/6PM8QzSc6FXrL11UwDfdI1"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/6oEyQSER3TyW92IJm61Fzk"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
         "url": "https://open.spotify.com/album/3hnTlNIWecT7V0IkxWHeqS"
       },
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Greatest Motown Hits",
-        "url": "https://open.spotify.com/album/0OA94DlliFxpfYOptv1rNS"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Ruffin",
-          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
-        }
-      ],
-      "duration_ms": 175693,
-      "name": "What Becomes Of The Brokenhearted",
-      "url": "https://open.spotify.com/track/7Bvap2GAW2DAyZ7EVUJpMO"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Strangers In The Night (Expanded Edition)",
         "url": "https://open.spotify.com/album/6eDqmBWwrp7VTToRzH49Wv"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 157866,
       "name": "Strangers In The Night",
       "url": "https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Greatest Motown Hits",
+        "url": "https://open.spotify.com/album/0OA94DlliFxpfYOptv1rNS"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Ruffin",
+          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
+        }
+      ],
+      "duration_ms": 175693,
+      "name": "What Becomes Of The Brokenhearted",
+      "url": "https://open.spotify.com/track/7Bvap2GAW2DAyZ7EVUJpMO"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2387,6 +2387,38 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "Best Of Bee Gees, Vol. 1",
+        "url": "https://open.spotify.com/album/0YD5pkRnCzXeCM2z8YlvjU"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 145573,
+      "name": "Massachusetts (2008 Remastered LP Version)",
+      "url": "https://open.spotify.com/track/1mBPlknQe00PCd7R9g34ix"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "September Of My Years (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4R7TQJ3SZGpbTV8kSq6POA"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "It Was A Very Good Year",
+      "url": "https://open.spotify.com/track/2MAMKyVDaei008snxzXzT8"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "How Sweet It Is To Be Loved By You",
         "url": "https://open.spotify.com/album/308UA1MWMf1VnJV8jqyUPM"
       },
@@ -2399,38 +2431,6 @@
       "duration_ms": 177773,
       "name": "How Sweet It Is (To Be Loved By You)",
       "url": "https://open.spotify.com/track/7xsH4s0GwIQUhId1AtPVZv"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "The Definitive 60's (sixties)",
-        "url": "https://open.spotify.com/album/4B5tAsWRbuik1yAOzdZcuX"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 169746,
-      "name": "I Left My Heart In San Francisco",
-      "url": "https://open.spotify.com/track/3nr6QXimwd9K4hpuFdgr6N"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Take It Easy With The Walker Brothers",
-        "url": "https://open.spotify.com/album/4i3uOn5MgkttGg798efCGi"
-      },
-      "artists": [
-        {
-          "name": "The Walker Brothers",
-          "url": "https://open.spotify.com/artist/49WlsIvcUYj7Awo93hDKgf"
-        }
-      ],
-      "duration_ms": 194133,
-      "name": "Make It Easy On Yourself",
-      "url": "https://open.spotify.com/track/4NhFqirjszwBSFdOG7swnf"
     }
   ],
   "unique_name": "Soft 60s",

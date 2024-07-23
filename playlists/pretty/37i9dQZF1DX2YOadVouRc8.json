@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 25691,
+  "num_followers": 25713,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Boy Alone (Deluxe)",
-        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 147363,
-      "name": "reason",
-      "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
         "name": "Reset (feat. Crayon & Bella Shmurda)",
         "url": "https://open.spotify.com/album/3itD5YIFHhsxo3ICHes9lA"
       },
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
+        "name": "Boy Alone (Deluxe)",
+        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 147363,
+      "name": "reason",
+      "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
         "name": "Loner (Alone)",
         "url": "https://open.spotify.com/album/3T66NsbkDR8yu0Da7nE4pl"
       },
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "sweeeet",
-        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 111229,
-      "name": "sweeeet",
-      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
         "name": "TEQUILA",
         "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 205000,
       "name": "TEQUILA",
       "url": "https://open.spotify.com/track/3meLEmr860diy8furP4Bff"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "sweeeet",
+        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 111229,
+      "name": "sweeeet",
+      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
+        "name": "Your Body",
+        "url": "https://open.spotify.com/album/78gHWIm7BzgTfUgVAq67z7"
+      },
+      "artists": [
+        {
+          "name": "Lil Qhuid",
+          "url": "https://open.spotify.com/artist/1BLlvXV8nOlu9QpAYqDWLP"
+        },
+        {
+          "name": "BetejayMadeIt",
+          "url": "https://open.spotify.com/artist/4pvwFJJ5bMKFB3QYZTzDdY"
+        }
+      ],
+      "duration_ms": 151462,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/58aqMiOHapRaGUdHnbeE1T"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
         "name": "Best Interest",
         "url": "https://open.spotify.com/album/2DIGbvisJJIIf2xYU9xrW2"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 198000,
       "name": "Best Interest",
       "url": "https://open.spotify.com/track/5IQUPSzuNlYmSzHK8fO0yH"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
-        "name": "Bad Intentions",
-        "url": "https://open.spotify.com/album/5COQlZAbe4e3uklPQlOTuS"
-      },
-      "artists": [
-        {
-          "name": "Deola",
-          "url": "https://open.spotify.com/artist/6l1wMjMtPsD4Y7khSsbjyR"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 194181,
-      "name": "Bad Intentions",
-      "url": "https://open.spotify.com/track/27q7h5x84WFrJY3nuSazaB"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1219,22 +1219,22 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Your Body",
-        "url": "https://open.spotify.com/album/78gHWIm7BzgTfUgVAq67z7"
+        "name": "Bad Intentions",
+        "url": "https://open.spotify.com/album/5COQlZAbe4e3uklPQlOTuS"
       },
       "artists": [
         {
-          "name": "Lil Qhuid",
-          "url": "https://open.spotify.com/artist/1BLlvXV8nOlu9QpAYqDWLP"
+          "name": "Deola",
+          "url": "https://open.spotify.com/artist/6l1wMjMtPsD4Y7khSsbjyR"
         },
         {
-          "name": "BetejayMadeIt",
-          "url": "https://open.spotify.com/artist/4pvwFJJ5bMKFB3QYZTzDdY"
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
         }
       ],
-      "duration_ms": 151462,
-      "name": "Your Body",
-      "url": "https://open.spotify.com/track/58aqMiOHapRaGUdHnbeE1T"
+      "duration_ms": 194181,
+      "name": "Bad Intentions",
+      "url": "https://open.spotify.com/track/27q7h5x84WFrJY3nuSazaB"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1539,22 +1539,18 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Go Harder",
-        "url": "https://open.spotify.com/album/3s7mMPvH9b5JPEIWw4esUj"
+        "name": "Exclusive",
+        "url": "https://open.spotify.com/album/6ergz4yx0HdT7FQnuEtxor"
       },
       "artists": [
         {
-          "name": "Soundz",
-          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
-        },
-        {
-          "name": "Ema Onigah",
-          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
+          "name": "Boybreed",
+          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
         }
       ],
-      "duration_ms": 140727,
-      "name": "Go Harder",
-      "url": "https://open.spotify.com/track/1Yiiy90LfO31UDfE5SpU2a"
+      "duration_ms": 140963,
+      "name": "Exclusive",
+      "url": "https://open.spotify.com/track/70PaIwmNlnNjR3xBFgdiY0"
     }
   ],
   "unique_name": "Afro Chill",

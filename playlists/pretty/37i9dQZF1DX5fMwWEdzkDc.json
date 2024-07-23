@@ -1,6 +1,6 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 14764,
+  "num_followers": 14766,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -811,38 +811,6 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
-        "name": "Just Listen.......",
-        "url": "https://open.spotify.com/album/4QoM0VDe5UPOotBYmmcg5U"
-      },
-      "artists": [
-        {
-          "name": "SE7EN",
-          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Come Back To Me",
-      "url": "https://open.spotify.com/track/4ezlt6ciGxes2ctqphnKVU"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
-        "name": "Girls On Top",
-        "url": "https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 218653,
-      "name": "Girls On Top",
-      "url": "https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
         "name": "Ames Room",
         "url": "https://open.spotify.com/album/5MCWiknia0CVi71e67Fdzh"
       },
@@ -863,6 +831,38 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
+        "name": "Girls On Top",
+        "url": "https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 218653,
+      "name": "Girls On Top",
+      "url": "https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
+        "name": "Just Listen.......",
+        "url": "https://open.spotify.com/album/4QoM0VDe5UPOotBYmmcg5U"
+      },
+      "artists": [
+        {
+          "name": "SE7EN",
+          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Come Back To Me",
+      "url": "https://open.spotify.com/track/4ezlt6ciGxes2ctqphnKVU"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
         "name": "\uc0b4\ub2e4\uac00",
         "url": "https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe"
       },
@@ -875,22 +875,6 @@
       "duration_ms": 283786,
       "name": "\uc0b4\ub2e4\uac00",
       "url": "https://open.spotify.com/track/0qqHi5iyYkcbvCpnWwHKLl"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
-        "name": "Like The Bible",
-        "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
-      },
-      "artists": [
-        {
-          "name": "BIG MAMA",
-          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
-        }
-      ],
-      "duration_ms": 299426,
-      "name": "\uccb4\ub150",
-      "url": "https://open.spotify.com/track/2GQNIuqbHbsSJPjvp91AJg"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -911,6 +895,22 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
+        "name": "Like The Bible",
+        "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
+      },
+      "artists": [
+        {
+          "name": "BIG MAMA",
+          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
+        }
+      ],
+      "duration_ms": 299426,
+      "name": "\uccb4\ub150",
+      "url": "https://open.spotify.com/track/2GQNIuqbHbsSJPjvp91AJg"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
         "name": "Stand Alone",
         "url": "https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i"
       },
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
-        "name": "Type B (1)",
-        "url": "https://open.spotify.com/album/017upK3dMmJeQygGsuJyzC"
-      },
-      "artists": [
-        {
-          "name": "Son Dam Bi",
-          "url": "https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU"
-        }
-      ],
-      "duration_ms": 222171,
-      "name": "Saturday Night",
-      "url": "https://open.spotify.com/track/4Y5IS0sbhbm7Yrc0EFnHuj"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
         "name": "Traveling You",
         "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 251846,
       "name": "\ud30c\ub3c4",
       "url": "https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
+        "name": "Type B (1)",
+        "url": "https://open.spotify.com/album/017upK3dMmJeQygGsuJyzC"
+      },
+      "artists": [
+        {
+          "name": "Son Dam Bi",
+          "url": "https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU"
+        }
+      ],
+      "duration_ms": 222171,
+      "name": "Saturday Night",
+      "url": "https://open.spotify.com/track/4Y5IS0sbhbm7Yrc0EFnHuj"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
-        "name": "My love has faded away",
-        "url": "https://open.spotify.com/album/69dtdfRPdV7cV3taX0horB"
-      },
-      "artists": [
-        {
-          "name": "Monday Kiz",
-          "url": "https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD"
-        }
-      ],
-      "duration_ms": 220466,
-      "name": "My love has faded away",
-      "url": "https://open.spotify.com/track/1K7POuN7vtBx5MCAi2W6DJ"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
         "name": "The Jadu 3",
         "url": "https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4"
       },
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
+        "name": "My love has faded away",
+        "url": "https://open.spotify.com/album/69dtdfRPdV7cV3taX0horB"
+      },
+      "artists": [
+        {
+          "name": "Monday Kiz",
+          "url": "https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD"
+        }
+      ],
+      "duration_ms": 220466,
+      "name": "My love has faded away",
+      "url": "https://open.spotify.com/track/1K7POuN7vtBx5MCAi2W6DJ"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
         "name": "Exhibition",
         "url": "https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj"
       },
@@ -1035,6 +1035,22 @@
       "duration_ms": 313106,
       "name": "Etude of Memory",
       "url": "https://open.spotify.com/track/3YpiZu52TdVbNKExZpZAWW"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
+        "name": "M.C The Max! Vol.1",
+        "url": "https://open.spotify.com/album/0FPzOi7YqDtrJAqnfq3O4T"
+      },
+      "artists": [
+        {
+          "name": "M.C the Max",
+          "url": "https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo"
+        }
+      ],
+      "duration_ms": 408678,
+      "name": "\uc7a0\uc2dc\ub9cc \uc548\ub155",
+      "url": "https://open.spotify.com/track/7fyEwJts3Fv2D4MIt5I1M9"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -1059,18 +1075,18 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
-        "name": "M.C The Max! Vol.1",
-        "url": "https://open.spotify.com/album/0FPzOi7YqDtrJAqnfq3O4T"
+        "name": "With L.O.V.E Brown Eyed Girls",
+        "url": "https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl"
       },
       "artists": [
         {
-          "name": "M.C the Max",
-          "url": "https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo"
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
         }
       ],
-      "duration_ms": 408678,
-      "name": "\uc7a0\uc2dc\ub9cc \uc548\ub155",
-      "url": "https://open.spotify.com/track/7fyEwJts3Fv2D4MIt5I1M9"
+      "duration_ms": 217626,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -1087,22 +1103,6 @@
       "duration_ms": 194821,
       "name": "\ud61c\uc131",
       "url": "https://open.spotify.com/track/1JrzvYMdLqHGBa6jmnBXia"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
-        "name": "With L.O.V.E Brown Eyed Girls",
-        "url": "https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
-        "name": "Swan Songs",
-        "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "Amin. J",
-          "url": "https://open.spotify.com/artist/5xs4WKD1qLTJNSRnX0O4d2"
-        }
-      ],
-      "duration_ms": 201226,
-      "name": "Fly (feat. Amin. J)",
-      "url": "https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
         "name": "The 3rd Masterpiece",
         "url": "https://open.spotify.com/album/78hxnlQlbAaIsaQxG3RonV"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 257226,
       "name": "Dropping the Tears",
       "url": "https://open.spotify.com/track/0WHzRzinRoUzW7vX7xhSLD"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
+        "name": "Swan Songs",
+        "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Amin. J",
+          "url": "https://open.spotify.com/artist/5xs4WKD1qLTJNSRnX0O4d2"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "Fly (feat. Amin. J)",
+      "url": "https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h"
     },
     {
       "added_at": "2024-04-04 20:14:22",

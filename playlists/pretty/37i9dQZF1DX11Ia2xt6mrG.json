@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. YoSoyMatt en portada.",
-  "num_followers": 58118,
+  "num_followers": 58129,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "ADICTO",
+        "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "ADICTO",
+      "url": "https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Como Tony",
         "url": "https://open.spotify.com/album/1jmwAD0eB7bUzE9TfGwt1G"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 212088,
       "name": "Como Tony",
       "url": "https://open.spotify.com/track/4h1xBeWL6aPDkZc6JuSbAb"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "ADICTO",
-        "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "ADICTO",
-      "url": "https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "CAJETA",
+        "url": "https://open.spotify.com/album/0uYZaczNoETjWCLYFQVhbH"
+      },
+      "artists": [
+        {
+          "name": "Fend",
+          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
+        }
+      ],
+      "duration_ms": 146976,
+      "name": "CAJETA",
+      "url": "https://open.spotify.com/track/3gtlrOxwdsrreHMqH1heyw"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Santa Mar\u00eda",
         "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 260584,
       "name": "Santa Mar\u00eda",
       "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "CAJETA",
-        "url": "https://open.spotify.com/album/0uYZaczNoETjWCLYFQVhbH"
-      },
-      "artists": [
-        {
-          "name": "Fend",
-          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
-        }
-      ],
-      "duration_ms": 146976,
-      "name": "CAJETA",
-      "url": "https://open.spotify.com/track/3gtlrOxwdsrreHMqH1heyw"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "MASERATI",
+        "url": "https://open.spotify.com/album/2vuyDqJLFKQIfGS0n4Zu3q"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "MASERATI",
+      "url": "https://open.spotify.com/track/7nHocPrvEi7mGoguftmCt0"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Throw Your Hands Up",
         "url": "https://open.spotify.com/album/58K43P0kCpBXJHSv5anp2L"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 159103,
       "name": "Throw Your Hands Up",
       "url": "https://open.spotify.com/track/41QWpqEoozBbbRhyt1ypyh"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "MASERATI",
-        "url": "https://open.spotify.com/album/2vuyDqJLFKQIfGS0n4Zu3q"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "MASERATI",
-      "url": "https://open.spotify.com/track/7nHocPrvEi7mGoguftmCt0"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Levantando",
-        "url": "https://open.spotify.com/album/3gfFB97DovfyjjBRnUTUFv"
-      },
-      "artists": [
-        {
-          "name": "Cabizbajo",
-          "url": "https://open.spotify.com/artist/3sZkCrbHsAo7OS6CuB7F6Q"
-        },
-        {
-          "name": "Miranda Santizo",
-          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
-        }
-      ],
-      "duration_ms": 369403,
-      "name": "El Encantador",
-      "url": "https://open.spotify.com/track/3wa3TrXBQL5xI95Yb40Kmh"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Ancara Messi",
         "url": "https://open.spotify.com/album/045J1gvKL5Uj3AuKMV89Bf"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 193846,
       "name": "Ancara Messi",
       "url": "https://open.spotify.com/track/1aQS0CQAONJqpO2zZi0ZSr"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Levantando",
+        "url": "https://open.spotify.com/album/3gfFB97DovfyjjBRnUTUFv"
+      },
+      "artists": [
+        {
+          "name": "Cabizbajo",
+          "url": "https://open.spotify.com/artist/3sZkCrbHsAo7OS6CuB7F6Q"
+        },
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "duration_ms": 369403,
+      "name": "El Encantador",
+      "url": "https://open.spotify.com/track/3wa3TrXBQL5xI95Yb40Kmh"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Forever (Tonga Conga Remix)",
-        "url": "https://open.spotify.com/album/1AuahjwurBIlkDXjJ2D95I"
-      },
-      "artists": [
-        {
-          "name": "Midnight Generation",
-          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
-        },
-        {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        }
-      ],
-      "duration_ms": 332000,
-      "name": "Forever - Tonga Conga Remix",
-      "url": "https://open.spotify.com/track/5u4rVp6lsWZRgkVmHNPDV2"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Ayanami",
         "url": "https://open.spotify.com/album/5NVQqWiBw9New8cyTEwBsR"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 147000,
       "name": "Ayanami",
       "url": "https://open.spotify.com/track/0WXJI3uV5WfXOdr9bYv4Um"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Forever (Tonga Conga Remix)",
+        "url": "https://open.spotify.com/album/1AuahjwurBIlkDXjJ2D95I"
+      },
+      "artists": [
+        {
+          "name": "Midnight Generation",
+          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
+        },
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "Forever - Tonga Conga Remix",
+      "url": "https://open.spotify.com/track/5u4rVp6lsWZRgkVmHNPDV2"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Feeling Alive",
-        "url": "https://open.spotify.com/album/6bfjes4qXi1rFpAhsJ21wM"
-      },
-      "artists": [
-        {
-          "name": "HAJJ",
-          "url": "https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Feeling Alive",
-      "url": "https://open.spotify.com/track/1ebCYKQos3cErSrDfvFz5B"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Amanece",
         "url": "https://open.spotify.com/album/0MQWqKc8nJ1rmrmQFZx8a8"
       },
@@ -1631,22 +1615,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Leave It On The Floor",
-        "url": "https://open.spotify.com/album/6UT8pdpkuzzbRAnwhUiIDY"
+        "name": "Feeling Alive",
+        "url": "https://open.spotify.com/album/6bfjes4qXi1rFpAhsJ21wM"
       },
       "artists": [
         {
-          "name": "Sunsets",
-          "url": "https://open.spotify.com/artist/3YiHDe6lmmKjRaN6jzJoRA"
-        },
-        {
-          "name": "KTLN",
-          "url": "https://open.spotify.com/artist/5i4N8QFXPLaqgFiORTSnol"
+          "name": "HAJJ",
+          "url": "https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI"
         }
       ],
-      "duration_ms": 164516,
-      "name": "Leave It On The Floor",
-      "url": "https://open.spotify.com/track/4vNmu3Z3KNJoFF09zCqfZG"
+      "duration_ms": 153750,
+      "name": "Feeling Alive",
+      "url": "https://open.spotify.com/track/1ebCYKQos3cErSrDfvFz5B"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1671,6 +1651,26 @@
       "duration_ms": 174891,
       "name": "Ruja",
       "url": "https://open.spotify.com/track/7ipNXtOqIcUh6Gs9jVSI8O"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Leave It On The Floor",
+        "url": "https://open.spotify.com/album/6UT8pdpkuzzbRAnwhUiIDY"
+      },
+      "artists": [
+        {
+          "name": "Sunsets",
+          "url": "https://open.spotify.com/artist/3YiHDe6lmmKjRaN6jzJoRA"
+        },
+        {
+          "name": "KTLN",
+          "url": "https://open.spotify.com/artist/5i4N8QFXPLaqgFiORTSnol"
+        }
+      ],
+      "duration_ms": 164516,
+      "name": "Leave It On The Floor",
+      "url": "https://open.spotify.com/track/4vNmu3Z3KNJoFF09zCqfZG"
     },
     {
       "added_at": "2024-07-12 06:00:00",

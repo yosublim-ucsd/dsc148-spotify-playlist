@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEJlAGA9gs0.md) - [plain]
 
 > A selection of the greatest classical tunes; the perfect starting point for anyone who's keen to explore the world of classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,524,640 likes - 160 songs - 17 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,525,119 likes - 160 songs - 17 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

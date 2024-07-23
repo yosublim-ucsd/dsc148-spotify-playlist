@@ -1,6 +1,6 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 93514,
+  "num_followers": 93555,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,26 @@
   },
   "snapshot_id": "ZoP0tAAAAADbW4fQ0DIs2QOR0kdWnTuI",
   "tracks": [
+    {
+      "added_at": "2024-07-02 12:38:12",
+      "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 221601,
+      "name": "OJITOS ROJOS",
+      "url": "https://open.spotify.com/track/11PV8CaPqlto9Uejx92C35"
+    },
     {
       "added_at": "2024-07-02 12:38:12",
       "album": {
@@ -31,26 +51,6 @@
       "duration_ms": 162500,
       "name": "Un Finde | CROSSOVER #2",
       "url": "https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY"
-    },
-    {
-      "added_at": "2024-07-02 12:38:12",
-      "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 221601,
-      "name": "OJITOS ROJOS",
-      "url": "https://open.spotify.com/track/11PV8CaPqlto9Uejx92C35"
     },
     {
       "added_at": "2024-07-02 12:38:12",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-07-02 12:38:12",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 160856,
-      "name": "ADI\u00d3S",
-      "url": "https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN"
-    },
-    {
-      "added_at": "2024-07-02 12:38:12",
-      "album": {
         "name": "Pobre Coraz\u00f3n (En Vivo)",
         "url": "https://open.spotify.com/album/7kNdveFXAKstJ8iNMrwq4Z"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 198930,
       "name": "Pobre Coraz\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/1AX4aybSRyXHWrjg27wTFE"
+    },
+    {
+      "added_at": "2024-07-02 12:38:12",
+      "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 160856,
+      "name": "ADI\u00d3S",
+      "url": "https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN"
     },
     {
       "added_at": "2024-07-02 12:38:12",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-07-02 12:38:12",
       "album": {
-        "name": "Intimo",
-        "url": "https://open.spotify.com/album/03cM3dIe3jpI8B67DTKLSP"
-      },
-      "artists": [
-        {
-          "name": "Grupo Z\u00fambale Primo",
-          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
-        }
-      ],
-      "duration_ms": 180912,
-      "name": "Cinco D\u00edas",
-      "url": "https://open.spotify.com/track/35ywixbXivTHRfXKD2Q59K"
-    },
-    {
-      "added_at": "2024-07-02 12:38:12",
-      "album": {
         "name": "Sa, Za...Sabor",
         "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 233613,
       "name": "Porque te amo",
       "url": "https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5"
+    },
+    {
+      "added_at": "2024-07-02 12:38:12",
+      "album": {
+        "name": "Intimo",
+        "url": "https://open.spotify.com/album/03cM3dIe3jpI8B67DTKLSP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
+        }
+      ],
+      "duration_ms": 180912,
+      "name": "Cinco D\u00edas",
+      "url": "https://open.spotify.com/track/35ywixbXivTHRfXKD2Q59K"
     },
     {
       "added_at": "2024-07-02 12:38:12",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-07-02 12:38:12",
       "album": {
-        "name": "Imperio de la Cumbia",
-        "url": "https://open.spotify.com/album/1sfzCRMaEsnOO7STpsKswx"
-      },
-      "artists": [
-        {
-          "name": "Peregrinos del Amor",
-          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
-        }
-      ],
-      "duration_ms": 287193,
-      "name": "La Carretera 1",
-      "url": "https://open.spotify.com/track/4lOVowTMEA5DYrfp2Bxyr9"
-    },
-    {
-      "added_at": "2024-07-02 12:38:12",
-      "album": {
         "name": "Grandes \u00c9xitos Regrabados",
         "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 242242,
       "name": "Iluminar\u00e1",
       "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
+    },
+    {
+      "added_at": "2024-07-02 12:38:12",
+      "album": {
+        "name": "Imperio de la Cumbia",
+        "url": "https://open.spotify.com/album/1sfzCRMaEsnOO7STpsKswx"
+      },
+      "artists": [
+        {
+          "name": "Peregrinos del Amor",
+          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
+        }
+      ],
+      "duration_ms": 287193,
+      "name": "La Carretera 1",
+      "url": "https://open.spotify.com/track/4lOVowTMEA5DYrfp2Bxyr9"
     },
     {
       "added_at": "2024-07-02 12:38:12",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-07-02 12:38:12",
       "album": {
-        "name": "Enamorados Para Toda La Vida",
-        "url": "https://open.spotify.com/album/72Wb2uk9oGhQhboNpzL3PP"
-      },
-      "artists": [
-        {
-          "name": "Grupo Z\u00fambale Primo",
-          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
-        }
-      ],
-      "duration_ms": 322011,
-      "name": "Cinco Minutos y Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/2hqdjMileiJr3OGpXl7eAH"
-    },
-    {
-      "added_at": "2024-07-02 12:38:12",
-      "album": {
         "name": "Historias",
         "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 195644,
       "name": "Y Dime",
       "url": "https://open.spotify.com/track/5be0AiqAcjVqapIqvVeP38"
+    },
+    {
+      "added_at": "2024-07-02 12:38:12",
+      "album": {
+        "name": "Enamorados Para Toda La Vida",
+        "url": "https://open.spotify.com/album/72Wb2uk9oGhQhboNpzL3PP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
+        }
+      ],
+      "duration_ms": 322011,
+      "name": "Cinco Minutos y Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/2hqdjMileiJr3OGpXl7eAH"
     },
     {
       "added_at": "2024-07-02 12:38:12",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-07-02 12:38:12",
       "album": {
-        "name": "Sue\u00f1o Cumplido",
-        "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
-      },
-      "artists": [
-        {
-          "name": "La Banda De Lechuga",
-          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/0Czh7yRIgkTJfM9Ju4QY88"
-    },
-    {
-      "added_at": "2024-07-02 12:38:12",
-      "album": {
         "name": "El Bonaerense",
         "url": "https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 263315,
       "name": "Se Te Ve la Tanga",
       "url": "https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS"
+    },
+    {
+      "added_at": "2024-07-02 12:38:12",
+      "album": {
+        "name": "Sue\u00f1o Cumplido",
+        "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
+      },
+      "artists": [
+        {
+          "name": "La Banda De Lechuga",
+          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/0Czh7yRIgkTJfM9Ju4QY88"
     },
     {
       "added_at": "2024-07-02 12:38:12",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-07-02 12:38:12",
       "album": {
+        "name": "Somos Parte de Tu Vida",
+        "url": "https://open.spotify.com/album/6t4VfXgbfFiQ32V69loQ5K"
+      },
+      "artists": [
+        {
+          "name": "Grupo Alegria",
+          "url": "https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Mujeres y Cerveza",
+      "url": "https://open.spotify.com/track/0u8Xjs6MaShfUSZ5XAEoaO"
+    },
+    {
+      "added_at": "2024-07-02 12:38:12",
+      "album": {
         "name": "Si Te Vas (Vivo)",
         "url": "https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 275375,
       "name": "Si Te Vas - Vivo",
       "url": "https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK"
-    },
-    {
-      "added_at": "2024-07-02 12:38:12",
-      "album": {
-        "name": "Somos Parte de Tu Vida",
-        "url": "https://open.spotify.com/album/6t4VfXgbfFiQ32V69loQ5K"
-      },
-      "artists": [
-        {
-          "name": "Grupo Alegria",
-          "url": "https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Mujeres y Cerveza",
-      "url": "https://open.spotify.com/track/0u8Xjs6MaShfUSZ5XAEoaO"
     },
     {
       "added_at": "2024-07-02 12:38:12",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-07-02 12:38:12",
       "album": {
-        "name": "Ahora Que Te Vas",
-        "url": "https://open.spotify.com/album/2pajddBhVxUas3ioYXCyHL"
-      },
-      "artists": [
-        {
-          "name": "Ojos de Luna",
-          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Ahora Que Te Vas",
-      "url": "https://open.spotify.com/track/4A0PE9JT69DyzVkFZLTEeq"
-    },
-    {
-      "added_at": "2024-07-02 12:38:12",
-      "album": {
         "name": "Sa, Za...Sabor",
         "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 217293,
       "name": "Ya lleg\u00f3 el sabor",
       "url": "https://open.spotify.com/track/5BG9WgcEpgdC8dLZIA8CTj"
+    },
+    {
+      "added_at": "2024-07-02 12:38:12",
+      "album": {
+        "name": "Ahora Que Te Vas",
+        "url": "https://open.spotify.com/album/2pajddBhVxUas3ioYXCyHL"
+      },
+      "artists": [
+        {
+          "name": "Ojos de Luna",
+          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Ahora Que Te Vas",
+      "url": "https://open.spotify.com/track/4A0PE9JT69DyzVkFZLTEeq"
     },
     {
       "added_at": "2024-07-02 12:38:12",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-07-02 12:38:12",
       "album": {
+        "name": "Si Tu No Estas",
+        "url": "https://open.spotify.com/album/0R2QOzo02NBpqQ5QFkBl2J"
+      },
+      "artists": [
+        {
+          "name": "Ojos de Luna",
+          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
+        }
+      ],
+      "duration_ms": 220369,
+      "name": "Si Tu No Estas",
+      "url": "https://open.spotify.com/track/45xDNypuZ1tv3JEkCXRFxG"
+    },
+    {
+      "added_at": "2024-07-02 12:38:12",
+      "album": {
         "name": "Iconos Kitsch",
         "url": "https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME"
       },
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2024-07-02 12:38:12",
       "album": {
-        "name": "Si Tu No Estas",
-        "url": "https://open.spotify.com/album/0R2QOzo02NBpqQ5QFkBl2J"
-      },
-      "artists": [
-        {
-          "name": "Ojos de Luna",
-          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
-        }
-      ],
-      "duration_ms": 220369,
-      "name": "Si Tu No Estas",
-      "url": "https://open.spotify.com/track/45xDNypuZ1tv3JEkCXRFxG"
-    },
-    {
-      "added_at": "2024-07-02 12:38:12",
-      "album": {
         "name": "Te Mueve",
         "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
       },
@@ -1183,6 +1183,22 @@
       "duration_ms": 298480,
       "name": "Ahora Qui\u00e9n",
       "url": "https://open.spotify.com/track/6orkKcLFfNacnV5J0xnFjJ"
+    },
+    {
+      "added_at": "2024-07-02 12:38:12",
+      "album": {
+        "name": "Bebe Dame / Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1SMWZi4LNX3jILzjA9jvmQ"
+      },
+      "artists": [
+        {
+          "name": "Ojos de Luna",
+          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
+        }
+      ],
+      "duration_ms": 268518,
+      "name": "Bebe Dame / Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3tggXkSVsQG4yEIfP3obT0"
     },
     {
       "added_at": "2024-07-02 12:38:12",
@@ -1235,42 +1251,6 @@
     {
       "added_at": "2024-07-02 12:38:12",
       "album": {
-        "name": "Compa\u00f1eros",
-        "url": "https://open.spotify.com/album/54d0VDtGvhr7zgX2ouIo5T"
-      },
-      "artists": [
-        {
-          "name": "Arte Elegante",
-          "url": "https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0"
-        },
-        {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        }
-      ],
-      "duration_ms": 245581,
-      "name": "Compa\u00f1eros",
-      "url": "https://open.spotify.com/track/5J9UqmTKnIGSz2EgI5wvyk"
-    },
-    {
-      "added_at": "2024-07-02 12:38:12",
-      "album": {
-        "name": "Bebe Dame / Pobre Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1SMWZi4LNX3jILzjA9jvmQ"
-      },
-      "artists": [
-        {
-          "name": "Ojos de Luna",
-          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
-        }
-      ],
-      "duration_ms": 268518,
-      "name": "Bebe Dame / Pobre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3tggXkSVsQG4yEIfP3obT0"
-    },
-    {
-      "added_at": "2024-07-02 12:38:12",
-      "album": {
         "name": "En Tu Cuarto",
         "url": "https://open.spotify.com/album/1gxuJDFiKPibw5TAZ9NXqJ"
       },
@@ -1283,6 +1263,22 @@
       "duration_ms": 220266,
       "name": "Quiero Ser Libre",
       "url": "https://open.spotify.com/track/5IYYyNV4ly1IFNBFLQO6ge"
+    },
+    {
+      "added_at": "2024-07-02 12:38:12",
+      "album": {
+        "name": "Despu\u00e9s De Ti",
+        "url": "https://open.spotify.com/album/5WY09iKtH5IL3XKIo7h3zO"
+      },
+      "artists": [
+        {
+          "name": "Ojos de Luna",
+          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
+        }
+      ],
+      "duration_ms": 192073,
+      "name": "Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/6SmzvjXkM8u1OlHQlw7ynM"
     },
     {
       "added_at": "2024-07-02 12:38:12",
@@ -1351,66 +1347,22 @@
     {
       "added_at": "2024-07-02 12:38:12",
       "album": {
-        "name": "Amor Entre S\u00e1banas",
-        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
+        "name": "Compa\u00f1eros",
+        "url": "https://open.spotify.com/album/54d0VDtGvhr7zgX2ouIo5T"
       },
       "artists": [
         {
-          "name": "La Noche",
-          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
-        }
-      ],
-      "duration_ms": 201827,
-      "name": "Amor Sobre 4 Ruedas",
-      "url": "https://open.spotify.com/track/2ITePMEKaSYFFoD9Lc3z4f"
-    },
-    {
-      "added_at": "2024-07-02 12:38:12",
-      "album": {
-        "name": "Mil Amores",
-        "url": "https://open.spotify.com/album/0Aq1GI87sb2SXnckACgMjy"
-      },
-      "artists": [
+          "name": "Arte Elegante",
+          "url": "https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0"
+        },
         {
-          "name": "La Combo Tortuga",
-          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
         }
       ],
-      "duration_ms": 181308,
-      "name": "Mil Amores",
-      "url": "https://open.spotify.com/track/2gDs4twNCdoEQCWNMBpHqp"
-    },
-    {
-      "added_at": "2024-07-02 12:38:12",
-      "album": {
-        "name": "Vamos a La Boti",
-        "url": "https://open.spotify.com/album/4SGTUuoBZgFeXV3XSt5CVF"
-      },
-      "artists": [
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        }
-      ],
-      "duration_ms": 153188,
-      "name": "Vamos a La Boti",
-      "url": "https://open.spotify.com/track/1L3cNFIt6YEeVFFjQyI573"
-    },
-    {
-      "added_at": "2024-07-02 12:38:12",
-      "album": {
-        "name": "Despu\u00e9s De Ti",
-        "url": "https://open.spotify.com/album/5WY09iKtH5IL3XKIo7h3zO"
-      },
-      "artists": [
-        {
-          "name": "Ojos de Luna",
-          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
-        }
-      ],
-      "duration_ms": 192073,
-      "name": "Despu\u00e9s De Ti",
-      "url": "https://open.spotify.com/track/6SmzvjXkM8u1OlHQlw7ynM"
+      "duration_ms": 245581,
+      "name": "Compa\u00f1eros",
+      "url": "https://open.spotify.com/track/5J9UqmTKnIGSz2EgI5wvyk"
     },
     {
       "added_at": "2024-07-02 12:38:12",
@@ -1431,18 +1383,66 @@
     {
       "added_at": "2024-07-02 12:38:12",
       "album": {
-        "name": "Amor y Caos",
-        "url": "https://open.spotify.com/album/4dxLAaULsk0CzzHbkM5sqX"
+        "name": "Mil Amores",
+        "url": "https://open.spotify.com/album/0Aq1GI87sb2SXnckACgMjy"
       },
       "artists": [
         {
-          "name": "El Bloque 8",
-          "url": "https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9"
+          "name": "La Combo Tortuga",
+          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
         }
       ],
-      "duration_ms": 194895,
-      "name": "Borracho y Loco",
-      "url": "https://open.spotify.com/track/48ZmRcUdWGJrzn1xfMEHup"
+      "duration_ms": 181308,
+      "name": "Mil Amores",
+      "url": "https://open.spotify.com/track/2gDs4twNCdoEQCWNMBpHqp"
+    },
+    {
+      "added_at": "2024-07-02 12:38:12",
+      "album": {
+        "name": "Amor Entre S\u00e1banas",
+        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
+      },
+      "artists": [
+        {
+          "name": "La Noche",
+          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
+        }
+      ],
+      "duration_ms": 201827,
+      "name": "Amor Sobre 4 Ruedas",
+      "url": "https://open.spotify.com/track/2ITePMEKaSYFFoD9Lc3z4f"
+    },
+    {
+      "added_at": "2024-07-02 12:38:12",
+      "album": {
+        "name": "Vamos a La Boti",
+        "url": "https://open.spotify.com/album/4SGTUuoBZgFeXV3XSt5CVF"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "duration_ms": 153188,
+      "name": "Vamos a La Boti",
+      "url": "https://open.spotify.com/track/1L3cNFIt6YEeVFFjQyI573"
+    },
+    {
+      "added_at": "2024-07-02 12:38:12",
+      "album": {
+        "name": "El Sonido Inconfundible",
+        "url": "https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr"
+      },
+      "artists": [
+        {
+          "name": "D'Latin Sound",
+          "url": "https://open.spotify.com/artist/3yiRkpXCOrmggFKe5I8FDU"
+        }
+      ],
+      "duration_ms": 224560,
+      "name": "Chiquilla Bonita",
+      "url": "https://open.spotify.com/track/2vQVZ8NkPTkKnRNa69107H"
     },
     {
       "added_at": "2024-07-02 12:38:12",
@@ -1463,18 +1463,38 @@
     {
       "added_at": "2024-07-02 12:38:12",
       "album": {
-        "name": "El Sonido Inconfundible",
-        "url": "https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr"
+        "name": "Amor y Caos",
+        "url": "https://open.spotify.com/album/4dxLAaULsk0CzzHbkM5sqX"
       },
       "artists": [
         {
-          "name": "D'Latin Sound",
-          "url": "https://open.spotify.com/artist/3yiRkpXCOrmggFKe5I8FDU"
+          "name": "El Bloque 8",
+          "url": "https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9"
         }
       ],
-      "duration_ms": 224560,
-      "name": "Chiquilla Bonita",
-      "url": "https://open.spotify.com/track/2vQVZ8NkPTkKnRNa69107H"
+      "duration_ms": 194895,
+      "name": "Borracho y Loco",
+      "url": "https://open.spotify.com/track/48ZmRcUdWGJrzn1xfMEHup"
+    },
+    {
+      "added_at": "2024-07-02 12:38:12",
+      "album": {
+        "name": "La Terrible Pulenta",
+        "url": "https://open.spotify.com/album/0RildIXfukQ6fFuNtkpgX4"
+      },
+      "artists": [
+        {
+          "name": "La Combo Tortuga",
+          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
+        },
+        {
+          "name": "Pollo Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/3lrVu7mL3lav5ySeUyD5CV"
+        }
+      ],
+      "duration_ms": 147226,
+      "name": "Cumbia de la G\u00fcena",
+      "url": "https://open.spotify.com/track/1CY7kMLypzLhj8vbBBmNGY"
     },
     {
       "added_at": "2024-07-02 12:38:12",
@@ -1511,26 +1531,6 @@
     {
       "added_at": "2024-07-02 12:38:12",
       "album": {
-        "name": "La Terrible Pulenta",
-        "url": "https://open.spotify.com/album/0RildIXfukQ6fFuNtkpgX4"
-      },
-      "artists": [
-        {
-          "name": "La Combo Tortuga",
-          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
-        },
-        {
-          "name": "Pollo Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/3lrVu7mL3lav5ySeUyD5CV"
-        }
-      ],
-      "duration_ms": 147226,
-      "name": "Cumbia de la G\u00fcena",
-      "url": "https://open.spotify.com/track/1CY7kMLypzLhj8vbBBmNGY"
-    },
-    {
-      "added_at": "2024-07-02 12:38:12",
-      "album": {
         "name": "Rap Guachaca & Cumbia Reflexiva",
         "url": "https://open.spotify.com/album/7nQdEffGKLmEawaZkMtO7o"
       },
@@ -1547,8 +1547,8 @@
     {
       "added_at": "2024-07-02 12:38:12",
       "album": {
-        "name": "Chico de Oro",
-        "url": "https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr"
+        "name": "Gran Pecador",
+        "url": "https://open.spotify.com/album/2F8FyUjk8G8twPQhNgdNt1"
       },
       "artists": [
         {
@@ -1556,9 +1556,9 @@
           "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
         }
       ],
-      "duration_ms": 270893,
-      "name": "Medallita",
-      "url": "https://open.spotify.com/track/6XMY9qZM7HXXu0PVqnv7y9"
+      "duration_ms": 153080,
+      "name": "Cali\u00e9ntame la Sopa Con un Hueso",
+      "url": "https://open.spotify.com/track/2MSuiAejQ5LxGMvDwiNOfy"
     },
     {
       "added_at": "2024-07-02 12:38:12",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-07-02 12:38:12",
       "album": {
-        "name": "Saca La Casa Pal Mambo",
-        "url": "https://open.spotify.com/album/7rtg30guVaiiMZIrODJVrG"
-      },
-      "artists": [
-        {
-          "name": "El Bloque 8",
-          "url": "https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9"
-        }
-      ],
-      "duration_ms": 162084,
-      "name": "Saca La Casa Pal Mambo",
-      "url": "https://open.spotify.com/track/3L9s7NzT1CYOqmPzFk129W"
-    },
-    {
-      "added_at": "2024-07-02 12:38:12",
-      "album": {
         "name": "El Sonido Inconfundible",
         "url": "https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 190600,
       "name": "Ritmo Loco",
       "url": "https://open.spotify.com/track/2j8FwsqiF5QkfxjOszg9G0"
+    },
+    {
+      "added_at": "2024-07-02 12:38:12",
+      "album": {
+        "name": "Saca La Casa Pal Mambo",
+        "url": "https://open.spotify.com/album/7rtg30guVaiiMZIrODJVrG"
+      },
+      "artists": [
+        {
+          "name": "El Bloque 8",
+          "url": "https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9"
+        }
+      ],
+      "duration_ms": 162084,
+      "name": "Saca La Casa Pal Mambo",
+      "url": "https://open.spotify.com/track/3L9s7NzT1CYOqmPzFk129W"
     },
     {
       "added_at": "2024-07-02 12:38:12",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-07-02 12:38:12",
       "album": {
-        "name": "Dime Qu\u00e9 Pasa",
-        "url": "https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx"
+        "name": "Digan Lo Que Digan",
+        "url": "https://open.spotify.com/album/4FCdQWYqbvztVZEB7YVsGu"
       },
       "artists": [
         {
-          "name": "La Floripondio",
-          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
+          "name": "Amerika'n Sound",
+          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
         }
       ],
-      "duration_ms": 186848,
-      "name": "Bailando Como Mono",
-      "url": "https://open.spotify.com/track/7GOBsKucPG5Bh8qzStmrQ6"
+      "duration_ms": 174889,
+      "name": "Ritmo Sabroso",
+      "url": "https://open.spotify.com/track/6nwIqQv2JXDahVTXZitzXQ"
     },
     {
       "added_at": "2024-07-02 12:38:12",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2024-07-02 12:38:12",
       "album": {
-        "name": "Digan Lo Que Digan",
-        "url": "https://open.spotify.com/album/4FCdQWYqbvztVZEB7YVsGu"
+        "name": "Dime Qu\u00e9 Pasa",
+        "url": "https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx"
       },
       "artists": [
         {
-          "name": "Amerika'n Sound",
-          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
+          "name": "La Floripondio",
+          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
         }
       ],
-      "duration_ms": 174889,
-      "name": "Ritmo Sabroso",
-      "url": "https://open.spotify.com/track/6nwIqQv2JXDahVTXZitzXQ"
+      "duration_ms": 186848,
+      "name": "Bailando Como Mono",
+      "url": "https://open.spotify.com/track/7GOBsKucPG5Bh8qzStmrQ6"
     },
     {
       "added_at": "2024-07-02 12:38:12",

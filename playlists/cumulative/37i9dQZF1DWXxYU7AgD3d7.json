@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Calinda",
+        "url": "https://open.spotify.com/album/3LXjY7JPyaIWi8mzWrY6nX"
+      },
+      "artists": [
+        {
+          "name": "Laurent Wolf",
+          "url": "https://open.spotify.com/artist/0U2M5hyVn2T78XKlRHJFcn"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326546,
+      "name": "Calinda - Club Mix",
+      "url": "https://open.spotify.com/track/0C1loegZKOZCHvQD5buUy9"
+    },
+    {
+      "album": {
         "name": "Changing Channels / Hole Away",
         "url": "https://open.spotify.com/album/19Lb00gXUDQJH3WPtvuLl0"
       },
@@ -216,6 +234,42 @@
       "duration_ms": 118772,
       "name": "Cut",
       "url": "https://open.spotify.com/track/2y8USOrYuvaz4BqN9guAt4"
+    },
+    {
+      "album": {
+        "name": "DESIRE96 (VIP)",
+        "url": "https://open.spotify.com/album/6yffBdWzFvn5pjc2FSBxiR"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267826,
+      "name": "DESIRE96 (VIP)",
+      "url": "https://open.spotify.com/track/1Wwwp6exHJubbn2UBFf6J5"
+    },
+    {
+      "album": {
+        "name": "Discobole",
+        "url": "https://open.spotify.com/album/7gGxgkvzTMxdwpWalTeYQY"
+      },
+      "artists": [
+        {
+          "name": "Chateau Flight",
+          "url": "https://open.spotify.com/artist/6mtCXhF5yj1GUsQItDNDwr"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323080,
+      "name": "Discobole (Pepe Bradock Remix)",
+      "url": "https://open.spotify.com/track/6cT8pQGmyt9F29TwpABg4K"
     },
     {
       "album": {
@@ -310,7 +364,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 206931,
       "name": "Freedom 2",
       "url": "https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp"
@@ -408,7 +462,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 300547,
       "name": "gr etiquette",
       "url": "https://open.spotify.com/track/44pX2G3zFb5rvsqy6uaDeF"
@@ -697,6 +751,24 @@
     },
     {
       "album": {
+        "name": "Inspiration",
+        "url": "https://open.spotify.com/album/4fcBiFhHv9FWfnlcOw9ydU"
+      },
+      "artists": [
+        {
+          "name": "Don Carlos",
+          "url": "https://open.spotify.com/artist/5WF9UkgNk1JGU2C76UayUq"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441147,
+      "name": "Inspiration - Afro Mix",
+      "url": "https://open.spotify.com/track/6GnrfWmutEw8r9zZUZVFdd"
+    },
+    {
+      "album": {
         "name": "Remember That Feeling",
         "url": "https://open.spotify.com/album/6JYt3VwmbRL9zA8ooRUkkK"
       },
@@ -737,6 +809,72 @@
     },
     {
       "album": {
+        "name": "Ju (Traumer Sunset Mix)",
+        "url": "https://open.spotify.com/album/1ZgrCccclMPkEHD0d3JKSJ"
+      },
+      "artists": [
+        {
+          "name": "antraum",
+          "url": "https://open.spotify.com/artist/0swXQmBdpOVEmrPc9QTfkr"
+        },
+        {
+          "name": "Anton",
+          "url": "https://open.spotify.com/artist/6alymk3dYbCVzCwUdBHKII"
+        },
+        {
+          "name": "Traumer",
+          "url": "https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349606,
+      "name": "Ju - Traumer Sunset Mix",
+      "url": "https://open.spotify.com/track/031MRnGJqlmhd27mWgog2P"
+    },
+    {
+      "album": {
+        "name": "lift off!",
+        "url": "https://open.spotify.com/album/5PCGG2ken65WpPN06uqa08"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214391,
+      "name": "lift off!",
+      "url": "https://open.spotify.com/track/1lsuQNbQXg0smdcAaRpmja"
+    },
+    {
+      "album": {
+        "name": "Look How Far We've Come",
+        "url": "https://open.spotify.com/album/45icijppwUqUsUvLsAwc5Y"
+      },
+      "artists": [
+        {
+          "name": "kryptogram",
+          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341000,
+      "name": "Look How Far We've Come",
+      "url": "https://open.spotify.com/track/6PocfxbZxJm2OM3zOwO4pE"
+    },
+    {
+      "album": {
         "name": "Alchemy",
         "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
       },
@@ -766,7 +904,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 173810,
       "name": "LOVE 4 LIFE",
       "url": "https://open.spotify.com/track/4fmMlfYmxRNdTEWXBJyaZa"
@@ -874,7 +1012,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 329166,
       "name": "My Body",
       "url": "https://open.spotify.com/track/1NISyNrwwO4ysIDadFQI1c"
@@ -1133,6 +1271,46 @@
     },
     {
       "album": {
+        "name": "She\u2019s Gone, Dance On",
+        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226773,
+      "name": "She\u2019s Gone, Dance On",
+      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
+    },
+    {
+      "album": {
+        "name": "She\u2019s Gone, Dance On (Carlita Remix)",
+        "url": "https://open.spotify.com/album/3SrOkzgu1SmZ8CiChMbKSt"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214435,
+      "name": "She\u2019s Gone, Dance On (Carlita Remix)",
+      "url": "https://open.spotify.com/track/5GFXl6uAUANwLkTeZmyr2R"
+    },
+    {
+      "album": {
         "name": "Alchemy",
         "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
       },
@@ -1286,7 +1464,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 232239,
       "name": "system",
       "url": "https://open.spotify.com/track/0Tc7p0cKE8078NVGRDcDOX"
@@ -1442,7 +1620,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 300444,
       "name": "WOI",
       "url": "https://open.spotify.com/track/2CISvEFIKOri1e92IMrWLA"
@@ -1596,7 +1774,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 257390,
       "name": "Zip",
       "url": "https://open.spotify.com/track/4aDG9AuAxM310HJPMeCEW8"

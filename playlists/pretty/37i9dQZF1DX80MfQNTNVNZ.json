@@ -1,6 +1,6 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B",
-  "num_followers": 185661,
+  "num_followers": 185724,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
@@ -979,26 +979,6 @@
     {
       "added_at": "2024-07-12 16:45:43",
       "album": {
-        "name": "Work This Out",
-        "url": "https://open.spotify.com/album/6vb6Zec5YfjXBcizesC5yh"
-      },
-      "artists": [
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        },
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 178120,
-      "name": "Work This Out",
-      "url": "https://open.spotify.com/track/3VymabYos1p2fXzmk0cPKg"
-    },
-    {
-      "added_at": "2024-07-12 16:45:43",
-      "album": {
         "name": "New Me, Same Us",
         "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 158015,
       "name": "Are You Feeling Sad?",
       "url": "https://open.spotify.com/track/60v8m0VhlTqw7GgIQDxNbq"
+    },
+    {
+      "added_at": "2024-07-12 16:45:43",
+      "album": {
+        "name": "Work This Out",
+        "url": "https://open.spotify.com/album/6vb6Zec5YfjXBcizesC5yh"
+      },
+      "artists": [
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 178120,
+      "name": "Work This Out",
+      "url": "https://open.spotify.com/track/3VymabYos1p2fXzmk0cPKg"
     },
     {
       "added_at": "2024-07-12 16:45:43",

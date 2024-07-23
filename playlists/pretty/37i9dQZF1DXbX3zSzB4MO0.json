@@ -1,6 +1,6 @@
 {
   "description": "Club vibes wherever you are!",
-  "num_followers": 13496,
+  "num_followers": 13556,
   "original_name": "Club Beats",
   "owner": {
     "name": "Spotify",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
+        "name": "My Addiction",
+        "url": "https://open.spotify.com/album/04KOqBxpJIfL6NdOpwig4l"
+      },
+      "artists": [
+        {
+          "name": "Alex Guesta",
+          "url": "https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3"
+        }
+      ],
+      "duration_ms": 157680,
+      "name": "My Addiction",
+      "url": "https://open.spotify.com/track/28WRWusCLgWULI6Gv7h8DL"
+    },
+    {
+      "added_at": "2024-02-07 08:57:42",
+      "album": {
         "name": "Yeah The Girls",
         "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 194310,
       "name": "Yeah The Girls",
       "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
-    },
-    {
-      "added_at": "2024-02-07 08:57:42",
-      "album": {
-        "name": "My Addiction",
-        "url": "https://open.spotify.com/album/04KOqBxpJIfL6NdOpwig4l"
-      },
-      "artists": [
-        {
-          "name": "Alex Guesta",
-          "url": "https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3"
-        }
-      ],
-      "duration_ms": 157680,
-      "name": "My Addiction",
-      "url": "https://open.spotify.com/track/28WRWusCLgWULI6Gv7h8DL"
     },
     {
       "added_at": "2024-02-07 08:57:42",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
-        "name": "Tears On The Dancefloor (feat. Hannah Boleyn)",
-        "url": "https://open.spotify.com/album/0IPAqCfLfsDauO2huFSnGt"
-      },
-      "artists": [
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        },
-        {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
-        }
-      ],
-      "duration_ms": 211347,
-      "name": "Tears On The Dancefloor (feat. Hannah Boleyn)",
-      "url": "https://open.spotify.com/track/3dLAuJrWEQQaXyh12BeQG5"
-    },
-    {
-      "added_at": "2024-02-07 08:57:42",
-      "album": {
         "name": "Feels Like (La La La)",
         "url": "https://open.spotify.com/album/5Fshe1YTYoyg6xJULVRxjn"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 168000,
       "name": "Feels Like (La La La)",
       "url": "https://open.spotify.com/track/66xH0ZJHR3GzjXdTWfpuCP"
+    },
+    {
+      "added_at": "2024-02-07 08:57:42",
+      "album": {
+        "name": "Tears On The Dancefloor (feat. Hannah Boleyn)",
+        "url": "https://open.spotify.com/album/0IPAqCfLfsDauO2huFSnGt"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "duration_ms": 211347,
+      "name": "Tears On The Dancefloor (feat. Hannah Boleyn)",
+      "url": "https://open.spotify.com/track/3dLAuJrWEQQaXyh12BeQG5"
     },
     {
       "added_at": "2024-02-07 08:57:42",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f. \u0627\u0644\u063a\u0644\u0627\u0641:\u062d\u0646\u064a\u0646 \u062d\u0633\u064a\u0646",
+  "description": "\u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f. \u0627\u0644\u063a\u0644\u0627\u0641:\u0639\u0628\u0627\u062f\u064a \u0627\u0644\u062c\u0648\u0647\u0631",
   "name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -3001,6 +3001,24 @@
     },
     {
       "album": {
+        "name": "Mahma Sar",
+        "url": "https://open.spotify.com/album/4aKgcNWhxMBYZyk3u6vjdn"
+      },
+      "artists": [
+        {
+          "name": "Abadi Al Johar",
+          "url": "https://open.spotify.com/artist/1y7XnZ7jxpZXKQAvez1bYf"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240299,
+      "name": "Mahma Sar",
+      "url": "https://open.spotify.com/track/1DmeuZVKKUhFZT3nnVANXb"
+    },
+    {
+      "album": {
         "name": "Majnoon",
         "url": "https://open.spotify.com/album/6HxBMjzjmu3vKMbOkd0KHC"
       },
@@ -4102,7 +4120,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 399085,
       "name": "Sout Al Ana",
       "url": "https://open.spotify.com/track/1vIYyossOXSeCnatiCMalf"

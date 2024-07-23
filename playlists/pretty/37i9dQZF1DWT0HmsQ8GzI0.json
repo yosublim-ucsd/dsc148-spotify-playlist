@@ -435,6 +435,22 @@
     {
       "added_at": "2024-07-19 13:24:54",
       "album": {
+        "name": "Szeptember V\u00e9g\u00e9n",
+        "url": "https://open.spotify.com/album/3FTqXcCmloEXBywwx1YLC8"
+      },
+      "artists": [
+        {
+          "name": "Beretka \u00c1d\u00e1m",
+          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
+        }
+      ],
+      "duration_ms": 153882,
+      "name": "Szeptember V\u00e9g\u00e9n",
+      "url": "https://open.spotify.com/track/6o1xgKQw1RMIJ64MdQ3yDC"
+    },
+    {
+      "added_at": "2024-07-19 13:24:54",
+      "album": {
         "name": "n\u00e9ha-n\u00e9ha",
         "url": "https://open.spotify.com/album/4ozadBudxjgvEmKraTBPi8"
       },
@@ -459,38 +475,6 @@
     {
       "added_at": "2024-07-19 13:24:54",
       "album": {
-        "name": "Szeptember V\u00e9g\u00e9n",
-        "url": "https://open.spotify.com/album/3FTqXcCmloEXBywwx1YLC8"
-      },
-      "artists": [
-        {
-          "name": "Beretka \u00c1d\u00e1m",
-          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
-        }
-      ],
-      "duration_ms": 153882,
-      "name": "Szeptember V\u00e9g\u00e9n",
-      "url": "https://open.spotify.com/track/6o1xgKQw1RMIJ64MdQ3yDC"
-    },
-    {
-      "added_at": "2024-07-19 13:24:54",
-      "album": {
-        "name": "Dancer",
-        "url": "https://open.spotify.com/album/3flCGlR7kuf0lXQaly9I1w"
-      },
-      "artists": [
-        {
-          "name": "Ivan & The Parazol",
-          "url": "https://open.spotify.com/artist/0arW2wuAryC7RMZpjpw3N8"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/6OGUMF9e9yLyIYCwu3jAC5"
-    },
-    {
-      "added_at": "2024-07-19 13:24:54",
-      "album": {
         "name": "Holnapt\u00f3l",
         "url": "https://open.spotify.com/album/3SsL4cNOFjtFq0UZ9kalkE"
       },
@@ -511,6 +495,22 @@
     {
       "added_at": "2024-07-19 13:24:54",
       "album": {
+        "name": "Dancer",
+        "url": "https://open.spotify.com/album/3flCGlR7kuf0lXQaly9I1w"
+      },
+      "artists": [
+        {
+          "name": "Ivan & The Parazol",
+          "url": "https://open.spotify.com/artist/0arW2wuAryC7RMZpjpw3N8"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/6OGUMF9e9yLyIYCwu3jAC5"
+    },
+    {
+      "added_at": "2024-07-19 13:24:54",
+      "album": {
         "name": "Sz\u00f6rny vagyok",
         "url": "https://open.spotify.com/album/5JJgpHyOAnaceUH0RKmmI7"
       },
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-07-19 13:24:54",
       "album": {
-        "name": "Zenekar (5 f\u0151re)",
-        "url": "https://open.spotify.com/album/2R5j3oqN0v404WTG8w4toT"
-      },
-      "artists": [
-        {
-          "name": "Csaknekedkisl\u00e1ny",
-          "url": "https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ"
-        }
-      ],
-      "duration_ms": 197844,
-      "name": "Zenekar - 5 f\u0151re",
-      "url": "https://open.spotify.com/track/5MKvuUgVdEmRAXKKrtLWxy"
-    },
-    {
-      "added_at": "2024-07-19 13:24:54",
-      "album": {
         "name": "Mengyelejev",
         "url": "https://open.spotify.com/album/5p1oiSCrqASJ8uAaGiaWQa"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 204896,
       "name": "Mengyelejev",
       "url": "https://open.spotify.com/track/0glZz6OUVF5lwL5jktid2I"
+    },
+    {
+      "added_at": "2024-07-19 13:24:54",
+      "album": {
+        "name": "Zenekar (5 f\u0151re)",
+        "url": "https://open.spotify.com/album/2R5j3oqN0v404WTG8w4toT"
+      },
+      "artists": [
+        {
+          "name": "Csaknekedkisl\u00e1ny",
+          "url": "https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ"
+        }
+      ],
+      "duration_ms": 197844,
+      "name": "Zenekar - 5 f\u0151re",
+      "url": "https://open.spotify.com/track/5MKvuUgVdEmRAXKKrtLWxy"
     },
     {
       "added_at": "2024-07-19 13:24:54",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-07-19 13:24:54",
       "album": {
+        "name": "BOLDOGOK VAGYUNK-E",
+        "url": "https://open.spotify.com/album/0Rr5JPQ3lYDLRXMszZGmmp"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00e9re",
+          "url": "https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Boldogok vagyunk-e",
+      "url": "https://open.spotify.com/track/7y1CtYDtYwAI8phNE05MZ3"
+    },
+    {
+      "added_at": "2024-07-19 13:24:54",
+      "album": {
         "name": "b\u00fajj hozz\u00e1m",
         "url": "https://open.spotify.com/album/66i9I2BocGO3p0yrVlRTqn"
       },
@@ -743,22 +759,6 @@
     {
       "added_at": "2024-07-19 13:24:54",
       "album": {
-        "name": "BOLDOGOK VAGYUNK-E",
-        "url": "https://open.spotify.com/album/0Rr5JPQ3lYDLRXMszZGmmp"
-      },
-      "artists": [
-        {
-          "name": "Sol\u00e9re",
-          "url": "https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Boldogok vagyunk-e",
-      "url": "https://open.spotify.com/track/7y1CtYDtYwAI8phNE05MZ3"
-    },
-    {
-      "added_at": "2024-07-19 13:24:54",
-      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/32wzMd5KnDN0BkArhepXqH"
       },
@@ -771,6 +771,22 @@
       "duration_ms": 166000,
       "name": "kavicsok k\u00f6vek",
       "url": "https://open.spotify.com/track/0awKUATA6B9xzGvnLQn3k7"
+    },
+    {
+      "added_at": "2024-07-19 13:24:54",
+      "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/0BTUhr3dSFmyNRMxmOZVSO"
+      },
+      "artists": [
+        {
+          "name": "Kov\u00e1cs Harmat",
+          "url": "https://open.spotify.com/artist/4phC473Kwy8WUJcxdWFXZ4"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/4090q3mHZqadwUt75u0WV3"
     },
     {
       "added_at": "2024-07-19 13:24:54",
@@ -807,22 +823,6 @@
       "duration_ms": 229480,
       "name": "Hex",
       "url": "https://open.spotify.com/track/2DShMZVt6bD0BJdmSCdnER"
-    },
-    {
-      "added_at": "2024-07-19 13:24:54",
-      "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/0BTUhr3dSFmyNRMxmOZVSO"
-      },
-      "artists": [
-        {
-          "name": "Kov\u00e1cs Harmat",
-          "url": "https://open.spotify.com/artist/4phC473Kwy8WUJcxdWFXZ4"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/4090q3mHZqadwUt75u0WV3"
     },
     {
       "added_at": "2024-07-19 13:24:54",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-07-19 13:24:54",
       "album": {
-        "name": "Egym\u00e1shoz r\u00f6vid az \u00fat",
-        "url": "https://open.spotify.com/album/4Iz2McUkaRCAR6uLbpuutA"
-      },
-      "artists": [
-        {
-          "name": "Magashegyi Underground",
-          "url": "https://open.spotify.com/artist/7hyP2xUpgaCaMi4rrm4Fzi"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Napf\u00e9ny",
-      "url": "https://open.spotify.com/track/7lgJPqlkZ3jTYsfE3S8Jih"
-    },
-    {
-      "added_at": "2024-07-19 13:24:54",
-      "album": {
         "name": "Szob\u00e1k felett",
         "url": "https://open.spotify.com/album/5LiXOFGCIm4rXVEclWrsmB"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 232293,
       "name": "Alb\u00e9rlet",
       "url": "https://open.spotify.com/track/0LxmBrcAbrGY9Z1kNZChic"
+    },
+    {
+      "added_at": "2024-07-19 13:24:54",
+      "album": {
+        "name": "Egym\u00e1shoz r\u00f6vid az \u00fat",
+        "url": "https://open.spotify.com/album/4Iz2McUkaRCAR6uLbpuutA"
+      },
+      "artists": [
+        {
+          "name": "Magashegyi Underground",
+          "url": "https://open.spotify.com/artist/7hyP2xUpgaCaMi4rrm4Fzi"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Napf\u00e9ny",
+      "url": "https://open.spotify.com/track/7lgJPqlkZ3jTYsfE3S8Jih"
     },
     {
       "added_at": "2024-07-19 13:24:54",
@@ -1099,22 +1099,22 @@
     {
       "added_at": "2024-07-19 13:24:54",
       "album": {
-        "name": "Cloudy Skies",
-        "url": "https://open.spotify.com/album/2eBvVJk659UlbB4q9V3VPc"
+        "name": "Engem szeretni neh\u00e9z",
+        "url": "https://open.spotify.com/album/0xzTy11q0KuvPg9roMMRhP"
       },
       "artists": [
         {
-          "name": "LARA",
-          "url": "https://open.spotify.com/artist/6NNKnAZiJnFqSWP8TCmMZJ"
+          "name": "Wolf Kati",
+          "url": "https://open.spotify.com/artist/014QBBl8y5KESIV292Qo3r"
         },
         {
-          "name": "Haquin",
-          "url": "https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb"
+          "name": "Wolf Kati Band",
+          "url": "https://open.spotify.com/artist/3Cvyg69e41F3yGom7an5H8"
         }
       ],
-      "duration_ms": 253171,
-      "name": "Cloudy Skies",
-      "url": "https://open.spotify.com/track/3GMMKNxWhrotyUCgH9oTgU"
+      "duration_ms": 242803,
+      "name": "Engem szeretni neh\u00e9z",
+      "url": "https://open.spotify.com/track/4Mamklib5ugFYkndshmeif"
     },
     {
       "added_at": "2024-07-19 13:24:54",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2024-07-19 13:24:54",
       "album": {
+        "name": "Cloudy Skies",
+        "url": "https://open.spotify.com/album/2eBvVJk659UlbB4q9V3VPc"
+      },
+      "artists": [
+        {
+          "name": "LARA",
+          "url": "https://open.spotify.com/artist/6NNKnAZiJnFqSWP8TCmMZJ"
+        },
+        {
+          "name": "Haquin",
+          "url": "https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb"
+        }
+      ],
+      "duration_ms": 253171,
+      "name": "Cloudy Skies",
+      "url": "https://open.spotify.com/track/3GMMKNxWhrotyUCgH9oTgU"
+    },
+    {
+      "added_at": "2024-07-19 13:24:54",
+      "album": {
         "name": "TIK-TAK",
         "url": "https://open.spotify.com/album/0zKlCumrFYMC5lLVL42hRP"
       },
@@ -1147,26 +1167,6 @@
       "duration_ms": 309252,
       "name": "TIK-TAK",
       "url": "https://open.spotify.com/track/4QsWsbAEdYMsT8Z0JlTRVK"
-    },
-    {
-      "added_at": "2024-07-19 13:24:54",
-      "album": {
-        "name": "Engem szeretni neh\u00e9z",
-        "url": "https://open.spotify.com/album/0xzTy11q0KuvPg9roMMRhP"
-      },
-      "artists": [
-        {
-          "name": "Wolf Kati",
-          "url": "https://open.spotify.com/artist/014QBBl8y5KESIV292Qo3r"
-        },
-        {
-          "name": "Wolf Kati Band",
-          "url": "https://open.spotify.com/artist/3Cvyg69e41F3yGom7an5H8"
-        }
-      ],
-      "duration_ms": 242803,
-      "name": "Engem szeretni neh\u00e9z",
-      "url": "https://open.spotify.com/track/4Mamklib5ugFYkndshmeif"
     },
     {
       "added_at": "2024-07-19 13:24:54",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-19 13:24:54",
       "album": {
-        "name": "SAME OLD LIES",
-        "url": "https://open.spotify.com/album/1GpPYa9LDqDt8nCXimLWNk"
-      },
-      "artists": [
-        {
-          "name": "Monstaz.",
-          "url": "https://open.spotify.com/artist/0iVpOORKECahYu3FggiXFt"
-        }
-      ],
-      "duration_ms": 154329,
-      "name": "SAME OLD LIES",
-      "url": "https://open.spotify.com/track/3o7poLcvXMdISIbfwkiGYN"
-    },
-    {
-      "added_at": "2024-07-19 13:24:54",
-      "album": {
         "name": "Elk\u00e9pzelt H\u0151s",
         "url": "https://open.spotify.com/album/6d6ZFECNuG6rfZ6NT0HZkn"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 358541,
       "name": "Elk\u00e9pzelt H\u0151s",
       "url": "https://open.spotify.com/track/7ygArGFB1kfKb3NSywRO2E"
+    },
+    {
+      "added_at": "2024-07-19 13:24:54",
+      "album": {
+        "name": "SAME OLD LIES",
+        "url": "https://open.spotify.com/album/1GpPYa9LDqDt8nCXimLWNk"
+      },
+      "artists": [
+        {
+          "name": "Monstaz.",
+          "url": "https://open.spotify.com/artist/0iVpOORKECahYu3FggiXFt"
+        }
+      ],
+      "duration_ms": 154329,
+      "name": "SAME OLD LIES",
+      "url": "https://open.spotify.com/track/3o7poLcvXMdISIbfwkiGYN"
     },
     {
       "added_at": "2024-07-19 13:24:54",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-07-19 13:24:54",
       "album": {
+        "name": "Visszav\u00e1rsz",
+        "url": "https://open.spotify.com/album/0F9J62CdO226zPEVk7um2x"
+      },
+      "artists": [
+        {
+          "name": "Huzugha",
+          "url": "https://open.spotify.com/artist/6DTLsLKcEsWYBdawxfMi4y"
+        }
+      ],
+      "duration_ms": 125844,
+      "name": "Visszav\u00e1rsz",
+      "url": "https://open.spotify.com/track/329tYqlYRGeB1OauTkGlcC"
+    },
+    {
+      "added_at": "2024-07-19 13:24:54",
+      "album": {
         "name": "Es\u0151 el\u0151tt",
         "url": "https://open.spotify.com/album/7pPp3iMLWOeCKfRq3qYeCh"
       },
@@ -1375,26 +1391,6 @@
       "duration_ms": 170270,
       "name": "A v\u00e9g\u00e9n \u00fagyis",
       "url": "https://open.spotify.com/track/6co2nRBAZopdXDN1iZxdby"
-    },
-    {
-      "added_at": "2024-07-19 13:24:54",
-      "album": {
-        "name": "R\u00e1mszokn\u00e1l",
-        "url": "https://open.spotify.com/album/6FTTat9BmATbki7dfdiGK3"
-      },
-      "artists": [
-        {
-          "name": "L\u00f3ci J\u00e1tszik",
-          "url": "https://open.spotify.com/artist/1M7KsIoOlY1CK4h0bFkjIf"
-        },
-        {
-          "name": "Volkova",
-          "url": "https://open.spotify.com/artist/6r8dF10rNGR4C5U8hhwtoR"
-        }
-      ],
-      "duration_ms": 219868,
-      "name": "R\u00e1mszokn\u00e1l",
-      "url": "https://open.spotify.com/track/5WAqO62zy1U2Vu5ZH5ytK2"
     }
   ],
   "unique_name": "Nemazapop",

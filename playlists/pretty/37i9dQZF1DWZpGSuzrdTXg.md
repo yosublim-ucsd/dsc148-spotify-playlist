@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 
 ### [Easy On Sunday](https://open.spotify.com/playlist/37i9dQZF1DWZpGSuzrdTXg)
 
-> Lekker rustig aan doen op zondag met deze zachte pop liedjes.
+> Lekker rustig aan doen op zondag met deze zachte popliedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,005 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,001 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 | 99 | [Back](https://open.spotify.com/track/2tJ0GB8yDrGSHahyBHjDrB) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Blackbird \(Deluxe\)](https://open.spotify.com/album/6UzCkpGRJ4ojKeYUGKfyEc) | 3:38 |
 | 100 | [The Way You Take Time \- acoustic](https://open.spotify.com/track/18fvrCWvxLrNLyU8cPK2or) | [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [The Way You Take Time \(acoustic\)](https://open.spotify.com/album/03ebKoGM3m5XuumbpZA7mR) | 3:15 |
 
-Snapshot ID: `ZpmQYAAAAAAeK10AUtRFAJul1Gq0+qTL`
+Snapshot ID: `Zp5zuAAAAADHSEkX0pHXqZzZSKBIwZDy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Denzel Curry
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,892 likes - 83 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,894 likes - 83 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

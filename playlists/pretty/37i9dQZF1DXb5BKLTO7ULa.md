@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Frenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,980 likes - 99 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,993 likes - 99 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 98 | [Zeg Eens Meisje](https://open.spotify.com/track/1D0KihEzXr7rJmUMhEe0Mx) | [Vieze Jack](https://open.spotify.com/artist/14VHCbKz3ITlGgh8Ozni2L) | [Zeg Eens Meisje](https://open.spotify.com/album/0IlaRW9KUAFNwGmkcpSh54) | 2:51 |
 | 99 | [Zo Ver Weg](https://open.spotify.com/track/2pOwKrDIbCGYfpvS6jLfNv) | [Feestteam](https://open.spotify.com/artist/42Lgl2myla33QoKueaTxmA) | [Zo Ver Weg](https://open.spotify.com/album/5Ej9m66Wd5aU1QWbO6NRJV) | 2:40 |
 
-Snapshot ID: `Zpn9sQAAAACNWw63NWyMCobwYumAFblC`
+Snapshot ID: `Zp489gAAAADr0I/f7F8l9gC6kBvx9YL/`

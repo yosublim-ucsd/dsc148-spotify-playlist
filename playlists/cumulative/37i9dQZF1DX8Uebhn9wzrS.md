@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,002 songs - 3 day 4 hr 17 min
+2,004 songs - 3 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -635,6 +635,7 @@
 | [For One day](https://open.spotify.com/track/7fSrFB7FWoz4BtXEbJkEqQ) | [Ambient Solle](https://open.spotify.com/artist/34ScNK2ccDxZim8TVcqWXT) | [For One day](https://open.spotify.com/album/2OYOSpMBaxmOZk1vKATq3q) | 2:37 | 2023-03-24 |  |
 | [for you](https://open.spotify.com/track/7EUp5t0R3xhWNRaOiIleFV) | [dirtybirdie](https://open.spotify.com/artist/757oyVLql8wYqYzOEz7BIT) | [for you](https://open.spotify.com/album/2Ee66lYmpcXnbSW5cZbJxw) | 1:48 | 2022-07-08 | 2024-05-14 |
 | [Forgiveness](https://open.spotify.com/track/3WmznVJAHrzBHZvpAz1ix5) | [pucca](https://open.spotify.com/artist/6kLGnSLqv3I3NPOTdmm5lA) | [Forgiveness](https://open.spotify.com/album/2q9DCmx4VatcJLEpmZ8umy) | 1:42 | 2022-05-13 | 2022-11-12 |
+| [Forgotten Dreams](https://open.spotify.com/track/1YjAqVamDxZouwyHBfsap3) | [Holy Jamie](https://open.spotify.com/artist/0GM7yT54YHIyH0bXYCzD9u) | [Forgotten Dreams](https://open.spotify.com/album/0sZbZJCsTpcQSYwmTeGyyy) | 2:00 | 2024-07-19 |  |
 | [Forty Winks](https://open.spotify.com/track/6ziC95AXSfHpzieMwruS2P) | [Ben Bada Boom](https://open.spotify.com/artist/0sN3N3h3Ti2BTwqrenBhU2), [c e c e l i e](https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX) | [Forty Winks](https://open.spotify.com/album/3HVV3I4Z82zV6CJRIQ8h33) | 3:25 | 2022-05-13 | 2022-11-12 |
 | [Found it hard](https://open.spotify.com/track/2AzFlRHnk47ucORREL1igj) | [Jerrick Lamar](https://open.spotify.com/artist/2xhhQBn6RvsBDYNwON3bN5) | [You Can´t See](https://open.spotify.com/album/6jTus5QZtP1MjvsChDmtBJ) | 1:49 | 2022-04-15 | 2023-04-21 |
 | [Foyer](https://open.spotify.com/track/5xLp8h4lYj0PoevICi9WWq) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7), [Chill Def](https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41) | [Foyer](https://open.spotify.com/album/6MebS5lJhwjePkjU88plwu) | 2:49 | 2022-05-27 | 2024-05-14 |
@@ -667,6 +668,7 @@
 | [Frozen Lake](https://open.spotify.com/track/6EO6ElRq0FZo8x6QAoMr2I) | [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [AK420](https://open.spotify.com/artist/6CW4PA1rghGWGSHhmxGrrE) | [Beats with Brothers, Vol\. 7](https://open.spotify.com/album/2IBaDCogQmvw5B8cVQqbIt) | 2:28 | 2023-02-13 | 2023-03-25 |
 | [Frozen Trees](https://open.spotify.com/track/5FkZ9xAb6k2XfHrR1zjnee) | [Miller Jones](https://open.spotify.com/artist/510OvGYbABEpEGZBCnL8Yd) | [Frozen Trees](https://open.spotify.com/album/5Vj6vsFcWunXh1CbRZbtlQ) | 2:09 | 2022-04-15 | 2022-10-01 |
 | [Fruitee](https://open.spotify.com/track/4cZvUiWkcNEfNgp7bzSzWt) | [Baggers and Losers](https://open.spotify.com/artist/12mqRds6vUdR57FvXbxdzR) | [Strawberry Milk](https://open.spotify.com/album/4XKzb0B67gDo3qqMwYM8eK) | 2:46 | 2022-04-15 | 2022-09-02 |
+| [fruitful](https://open.spotify.com/track/16ZBxJvYhFW3hRu40WG5qO) | [Oroshi](https://open.spotify.com/artist/3gqs8fHrmLkMfjT5BI1bNh) | [fruitful](https://open.spotify.com/album/54Aa9l1DxkwKe73vq424cr) | 3:03 | 2024-07-19 |  |
 | [fruta verde](https://open.spotify.com/track/5r8OKzdJadvERTJyPPCUCg) | [Mirá](https://open.spotify.com/artist/0dmRquUJ70tvTf8xxeohPa) | [fruta verde](https://open.spotify.com/album/4GuhPC2YJ4vk9njh103Zut) | 1:51 | 2023-09-29 |  |
 | [Fudge](https://open.spotify.com/track/5GmSjNEypkbo1NCsculloA) | [StopLock](https://open.spotify.com/artist/1gkcZxjftNAWnTbfbmnUqQ) | [Fudge](https://open.spotify.com/album/5cRYDjSTpYmsVv4wezkkEH) | 2:09 | 2022-04-15 | 2022-05-13 |
 | [Fuji Vibes](https://open.spotify.com/track/7cD8vjgwrgwewmHUqAZ2LT) | [LoWorld](https://open.spotify.com/artist/0PnFnQLdM7YKMBLxTHI9jl) | [Fuji Vibes](https://open.spotify.com/album/6GgE6elHCZotSn5dFW1JPv) | 2:25 | 2023-02-06 | 2024-07-10 |
@@ -713,7 +715,7 @@
 | [Good Times](https://open.spotify.com/track/3TQWfUf2Xe99d93tSyC6Gs) | [Loodwig](https://open.spotify.com/artist/7zLCueWV49iUQ2MwVOx12y) | [Good Times](https://open.spotify.com/album/0BAYEKipO0viW6ibBlADlK) | 1:53 | 2022-04-22 | 2022-11-12 |
 | [Goodbye](https://open.spotify.com/track/2C4pl7JiNTV0Ae9wd1H8IS) | [by the way](https://open.spotify.com/artist/3W3rHemC3V9S6AspSRpZgo) | [Polar Picnic EP](https://open.spotify.com/album/3qSG7nuarahG2siS04UBPr) | 1:34 | 2022-05-27 | 2022-11-12 |
 | [Got It](https://open.spotify.com/track/2Z94cduAGpcMsSDy1QUv4l) | [Keyser](https://open.spotify.com/artist/52XeGIGAMhVqec1ev8t3Qc) | [Got It](https://open.spotify.com/album/5hBgxAYtyev9MdBcpS8sAZ) | 2:05 | 2022-11-11 |  |
-| [gramophone groove](https://open.spotify.com/track/1o0sTvsEd5nIx3kFHtDXeP) | [nuttin](https://open.spotify.com/artist/4VO2SFvePDZLXlr7W1EJlu) | [gramophone groove](https://open.spotify.com/album/7IGbYhHDbq2orgTHMdjJ1a) | 2:12 | 2022-10-28 |  |
+| [gramophone groove](https://open.spotify.com/track/1o0sTvsEd5nIx3kFHtDXeP) | [nuttin](https://open.spotify.com/artist/4VO2SFvePDZLXlr7W1EJlu) | [gramophone groove](https://open.spotify.com/album/7IGbYhHDbq2orgTHMdjJ1a) | 2:12 | 2022-10-28 | 2024-07-23 |
 | [Grand Master](https://open.spotify.com/track/1vDIIfv8qU7xPmK44oAdn7) | [Spiral Groove](https://open.spotify.com/artist/1gWC6rCLFzEeh7k62E1Ah0) | [Grand Master](https://open.spotify.com/album/2pjhEAX1kHJZ0W73jMTG6x) | 2:10 | 2024-02-02 |  |
 | [Grass and River](https://open.spotify.com/track/6K0Pw82tPWRDMBfJfsbLte) | [Speezhead](https://open.spotify.com/artist/7Bg8y3H9sNWsbm2tnThkpA) | [Grass and River](https://open.spotify.com/album/0BCjyDpUUvRTPUGbLHWaF7) | 2:46 | 2022-10-14 |  |
 | [Grateful](https://open.spotify.com/track/2vETyRzz3gDtUX9eCIfty8) | [goldenfleece](https://open.spotify.com/artist/5p9gjkZcT07UNRL5nW6TE9), [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb) | [Grateful](https://open.spotify.com/album/1h4qcP5yz5xBKVgWTO2Z6A) | 2:25 | 2022-11-18 | 2023-09-16 |
@@ -1622,7 +1624,7 @@
 | [Special Juice](https://open.spotify.com/track/5m4bEYyJh1G7TxlWYBDx31) | [Wally Woo](https://open.spotify.com/artist/3XVKC5nfhl73bqsvMz9coN) | [Special Juice](https://open.spotify.com/album/16VeFUhnt3jgHG8zVNvuK7) | 2:16 | 2022-04-15 | 2022-12-17 |
 | [Specs](https://open.spotify.com/track/5oTOrR69wkWoJbKElUhmRA) | [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx), [Sid Similar](https://open.spotify.com/artist/1w4vugLBqgHoBPartBq9A9) | [Specs](https://open.spotify.com/album/14nqrIOs4msbZoxrQUa92c) | 1:53 | 2022-08-19 | 2022-11-21 |
 | [Specs](https://open.spotify.com/track/6atHVHvVI6N0TJGGdgFTLR) | [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx), [Sid Similar](https://open.spotify.com/artist/1w4vugLBqgHoBPartBq9A9) | [Specs](https://open.spotify.com/album/37zmqkX5JDc19MVZMBj21w) | 1:53 | 2022-11-18 | 2022-12-24 |
-| [Spectre](https://open.spotify.com/track/7lAMobRN7Q1Gj00qA0TyNM) | [submarine](https://open.spotify.com/artist/5Z939ZaWYTA9rJyHq1jzKv) | [Spectre](https://open.spotify.com/album/1gI6pkoJ3EvTV5msQgFzSe) | 1:51 | 2022-09-16 |  |
+| [Spectre](https://open.spotify.com/track/7lAMobRN7Q1Gj00qA0TyNM) | [submarine](https://open.spotify.com/artist/5Z939ZaWYTA9rJyHq1jzKv) | [Spectre](https://open.spotify.com/album/1gI6pkoJ3EvTV5msQgFzSe) | 1:51 | 2022-09-16 | 2024-07-23 |
 | [spellbounds](https://open.spotify.com/track/5XtH4864ouLpUJx3rzBeOS) | [Beamer](https://open.spotify.com/artist/6AbxfHV92ca4w7SK7IN9Md) | [spellbounds](https://open.spotify.com/album/5QR42b7gHmNPuK2IqkpDD9) | 3:29 | 2023-01-06 |  |
 | [Spicy Zest](https://open.spotify.com/track/5KFq0sLS7aBkcaARm2OpeR) | [Casino Bianco](https://open.spotify.com/artist/5X7OxBWmTg024LLmavducM) | [Spicy Zest](https://open.spotify.com/album/33zMRhxJCGGkweKfdPvQfR) | 2:30 | 2024-01-05 |  |
 | [Spin Free](https://open.spotify.com/track/3XfWLX7rsb5AptnfdY63iv) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Spin Free](https://open.spotify.com/album/3mgmSjsfe7MZcPSAlG6PuH) | 2:20 | 2023-09-08 |  |

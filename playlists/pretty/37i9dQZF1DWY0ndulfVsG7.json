@@ -1,6 +1,6 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Last Child, Sansan",
-  "num_followers": 55645,
+  "num_followers": 55674,
   "original_name": "Berjiran",
   "owner": {
     "name": "Spotify",
@@ -747,26 +747,6 @@
     {
       "added_at": "2024-07-22 02:00:45",
       "album": {
-        "name": "Tentang Kamu",
-        "url": "https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8"
-      },
-      "artists": [
-        {
-          "name": "Bunga Citra Lestari",
-          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
-        },
-        {
-          "name": "Ari Lasso",
-          "url": "https://open.spotify.com/artist/1sqYIwXAmhrcSTsYmsTFAr"
-        }
-      ],
-      "duration_ms": 267880,
-      "name": "Aku dan Dirimu (feat. Ari Lasso)",
-      "url": "https://open.spotify.com/track/3boGp1c9CIHwwA0vktqlOP"
-    },
-    {
-      "added_at": "2024-07-22 02:00:45",
-      "album": {
         "name": "Love, Life & Music",
         "url": "https://open.spotify.com/album/427i70YCWKnkDAvvHjsxMp"
       },
@@ -787,18 +767,38 @@
     {
       "added_at": "2024-07-22 02:00:45",
       "album": {
-        "name": "King of Soundtrack",
-        "url": "https://open.spotify.com/album/1Bz3ZhNWrWrV0MOALDvMCF"
+        "name": "Tentang Kamu",
+        "url": "https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8"
       },
       "artists": [
         {
-          "name": "Nidji",
-          "url": "https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d"
+          "name": "Bunga Citra Lestari",
+          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
+        },
+        {
+          "name": "Ari Lasso",
+          "url": "https://open.spotify.com/artist/1sqYIwXAmhrcSTsYmsTFAr"
         }
       ],
-      "duration_ms": 232786,
-      "name": "Laskar Pelangi",
-      "url": "https://open.spotify.com/track/6lTbFpGPseKbUFFIOHscXO"
+      "duration_ms": 267880,
+      "name": "Aku dan Dirimu (feat. Ari Lasso)",
+      "url": "https://open.spotify.com/track/3boGp1c9CIHwwA0vktqlOP"
+    },
+    {
+      "added_at": "2024-07-22 02:00:45",
+      "album": {
+        "name": "Taman Langit",
+        "url": "https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC"
+      },
+      "artists": [
+        {
+          "name": "Noah",
+          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
+        }
+      ],
+      "duration_ms": 199138,
+      "name": "Yang Terdalam",
+      "url": "https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G"
     },
     {
       "added_at": "2024-07-22 02:00:45",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-07-22 02:00:45",
       "album": {
-        "name": "Taman Langit",
-        "url": "https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC"
+        "name": "King of Soundtrack",
+        "url": "https://open.spotify.com/album/1Bz3ZhNWrWrV0MOALDvMCF"
       },
       "artists": [
         {
-          "name": "Noah",
-          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
+          "name": "Nidji",
+          "url": "https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d"
         }
       ],
-      "duration_ms": 199138,
-      "name": "Yang Terdalam",
-      "url": "https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G"
+      "duration_ms": 232786,
+      "name": "Laskar Pelangi",
+      "url": "https://open.spotify.com/track/6lTbFpGPseKbUFFIOHscXO"
     }
   ],
   "unique_name": "Berjiran",

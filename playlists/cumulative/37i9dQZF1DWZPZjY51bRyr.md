@@ -4,7 +4,7 @@
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-220 songs - 11 hr 28 min
+221 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Arrivals](https://open.spotify.com/track/6ebuQW1JklhK6vrS02nS8w) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Arrivals](https://open.spotify.com/album/2wzLZcooRdJ6LYtIGTSDA8) | 2:42 | 2023-07-27 |  |
 | [Asana](https://open.spotify.com/track/5JrPeUYpXnIXFAA1YLM8kc) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Asana](https://open.spotify.com/album/5jKt8AOgsOYMaEdIykJ3bo) | 2:31 | 2023-05-19 |  |
 | [Asha](https://open.spotify.com/track/7MMsg5sBQNpVCLlycq0sGw) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Asha](https://open.spotify.com/album/45j2xwLqufgtoAkOIBna6p) | 2:34 | 2023-03-10 |  |
-| [Astral Devotion \- Spa 432Hz](https://open.spotify.com/track/1uSZTZnhRpibJK605YhZch) | [FloatSpace](https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL) | [Astral Devotion](https://open.spotify.com/album/5Llatm2flQMgSbu4bcqGs8) | 3:37 | 2023-09-25 |  |
+| [Astral Devotion \- Spa 432Hz](https://open.spotify.com/track/1uSZTZnhRpibJK605YhZch) | [FloatSpace](https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL) | [Astral Devotion](https://open.spotify.com/album/5Llatm2flQMgSbu4bcqGs8) | 3:37 | 2023-09-25 | 2024-07-23 |
 | [Aura](https://open.spotify.com/track/5kv8YaBfm2SZQk8YRPjXy5) | [Spirit Garden](https://open.spotify.com/artist/21ADT1cKkGhiB070brX819) | [Aura Sound Bath](https://open.spotify.com/album/5aIwEEosN0woun4BzkMawo) | 3:06 | 2023-02-17 | 2023-03-29 |
 | [Awakening Gaia](https://open.spotify.com/track/5eoH9HajJgIynunJ67VMEU) | [Juno Yang](https://open.spotify.com/artist/56eIS6isBmK4l3hoJlzCxP) | [Awakening Gaia](https://open.spotify.com/album/5josYCC1kuTj4wnYmnV26X) | 2:21 | 2023-02-17 |  |
 | [Aún](https://open.spotify.com/track/45o1tTvcokwroBi9TR5qfv) | [Didio Carrión](https://open.spotify.com/artist/1poC0V8QpqJPeO3ogJw0zw) | [Aún](https://open.spotify.com/album/6vMZ7NEoCkORl8R20IXYGq) | 3:04 | 2023-02-17 |  |
@@ -110,6 +110,7 @@
 | [Golden Meadow](https://open.spotify.com/track/2RnLkBVNSErnfTgnRtT7lJ) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Golden Meadow](https://open.spotify.com/album/7csw7q2jmFiLOJdEpHQgyw) | 2:40 | 2023-02-17 |  |
 | [Harmless 417 Hz](https://open.spotify.com/track/2bH8j0OZJMudcwpxqlmFyF) | [Inner Peace Champions](https://open.spotify.com/artist/5bSKwZCrNCkL4EWOkxvkHK) | [Harmless 417 Hz](https://open.spotify.com/album/1HYpP4M5rRaJPDBbhfDnuy) | 2:55 | 2024-07-18 |  |
 | [Harmonious Waves](https://open.spotify.com/track/4Z4KRvAEWbQ7uodFWnvptY) | [Torino Sky](https://open.spotify.com/artist/4qUuZzHZAeduYNqDbRGITd) | [Harmonious Waves](https://open.spotify.com/album/40UBjtYufZkwb3oVI11kM6) | 2:47 | 2023-07-10 |  |
+| [Harps of Refinement](https://open.spotify.com/track/7rmtLLMsb4zKZbs8m4TBFs) | [Beyond Observable](https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq) | [Harps of Refinement](https://open.spotify.com/album/24rrR09ppuyoNWgKwGRP4J) | 3:00 | 2024-07-18 |  |
 | [Healing](https://open.spotify.com/track/3S6xG02IfUIGy1iaG5iRuk) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Lunar](https://open.spotify.com/album/72VzXU9NtbdvWG8zcGR8O1) | 2:49 | 2023-02-17 |  |
 | [Healing Serenade](https://open.spotify.com/track/3RVyOL4WiLVUAw5s0M1M2K) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Lotus Garden & Healing Serenade](https://open.spotify.com/album/7KoiOv415asddhMDXYYOlQ) | 3:02 | 2023-08-02 |  |
 | [Healing Solfeggio 528 Hz](https://open.spotify.com/track/1rttTie5nGvG5aSlrXegQI) | [Zoe Sutherland](https://open.spotify.com/artist/3u1Ksfmps8VxbPLL4a2EAb) | [Healing Solfeggio 528 Hz](https://open.spotify.com/album/0yqpMHlXKWc8CrP4Lh6INf) | 2:34 | 2023-12-15 |  |

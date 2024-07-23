@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,927 likes - 236 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,518 likes - 236 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 2 | [same dream](https://open.spotify.com/track/6amvFwenSMBzEliXcGIduy) | [sozin](https://open.spotify.com/artist/0XO6mvpyaIdmGMmpsTtyIj) | [same dream](https://open.spotify.com/album/2jbEgDxCtcvhPIm7R37HZu) | 2:21 |
 | 3 | [bahia nights](https://open.spotify.com/track/1xHMZoLph7yjsZRcYRzvqX) | [moodsinger](https://open.spotify.com/artist/5Sb19EofLxyxtjsQH7BDjn) | [bahia nights](https://open.spotify.com/album/1gQwA7qKAjuB9pL8wxGHw4) | 2:05 |
 | 4 | [Early Birds](https://open.spotify.com/track/1FnSnpMEQF0USjUgeuOf4y) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Early Birds](https://open.spotify.com/album/6tATSmM3ph9cXzwMYinRes) | 2:22 |
-| 5 | [Sundew](https://open.spotify.com/track/6PRi7RcZU3P0atYsV6WVmx) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Otaam](https://open.spotify.com/artist/0yABOXFZ5fJ1KyoXXgj5B0), [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin), [Dubillard](https://open.spotify.com/artist/2UNd8V88DmE0Fa2FVIX4h8) | [Sundew](https://open.spotify.com/album/4xWQSV1KUuvABJPGJ9KvUS) | 3:46 |
+| 5 | [Sundew](https://open.spotify.com/track/6PRi7RcZU3P0atYsV6WVmx) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Otaam](https://open.spotify.com/artist/0yABOXFZ5fJ1KyoXXgj5B0), [Dubillard](https://open.spotify.com/artist/2UNd8V88DmE0Fa2FVIX4h8), [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin) | [Sundew](https://open.spotify.com/album/4xWQSV1KUuvABJPGJ9KvUS) | 3:46 |
 | 6 | [Chewy](https://open.spotify.com/track/6wv26tqIej3IqFHt3IfrBu) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Chewy](https://open.spotify.com/album/4F0isokOGIcGzEVRX1xYkq) | 2:29 |
 | 7 | [Kalamos](https://open.spotify.com/track/7uHaPTyjST0BX8ftqLzMqq) | [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN), [Soulvibe Cuts](https://open.spotify.com/artist/37qQan0WPQj9vb2GQLYG6M) | [Kalamos](https://open.spotify.com/album/1TdGSHKyi7QNr0a7OVOTT4) | 2:07 |
 | 8 | [winter balloon](https://open.spotify.com/track/6qKhsRKyfUbeqeIEArP2d8) | [Ponzi Skeemz](https://open.spotify.com/artist/217VkbBQjlErrkiDqNPDPM) | [winter balloon](https://open.spotify.com/album/69793ppyxJHCz149lVQHIt) | 2:11 |

@@ -8127,6 +8127,28 @@
     },
     {
       "album": {
+        "name": "Story So Precious (Live)",
+        "url": "https://open.spotify.com/album/1tMEMJdmqWqag3Ixaeb058"
+      },
+      "artists": [
+        {
+          "name": "Elyssa Figueroa",
+          "url": "https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l"
+        },
+        {
+          "name": "Worship Together",
+          "url": "https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335169,
+      "name": "Story So Precious - Live",
+      "url": "https://open.spotify.com/track/6nxl2P4dUKwNQSlpIbo9wP"
+    },
+    {
+      "album": {
         "name": "Story To Tell (Live)",
         "url": "https://open.spotify.com/album/13ZEtf9IwtKQ4st3m96GD9"
       },

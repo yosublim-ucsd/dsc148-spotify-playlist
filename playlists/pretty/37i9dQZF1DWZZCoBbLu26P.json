@@ -1,6 +1,6 @@
 {
   "description": "Queens everywhere - givin' us life. ",
-  "num_followers": 88673,
+  "num_followers": 88701,
   "original_name": "Fierce",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp"
-      },
-      "artists": [
-        {
-          "name": "Bimini",
-          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
-        }
-      ],
-      "duration_ms": 210708,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Soak It Up",
         "url": "https://open.spotify.com/album/2pJbUeVzXT2f7HGB8H0H2F"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 256298,
       "name": "Soak It Up (Remix)",
       "url": "https://open.spotify.com/track/3M8oAB4Nof44bWG5qP7gtq"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp"
+      },
+      "artists": [
+        {
+          "name": "Bimini",
+          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
+        }
+      ],
+      "duration_ms": 210708,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
+        "name": "Loving Me Like That",
+        "url": "https://open.spotify.com/album/6SkAm5294LP04lW1dCUAgY"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Loving Me Like That",
+      "url": "https://open.spotify.com/track/03NhvyKomhZpEkvuePLseZ"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
         "name": "AAA",
         "url": "https://open.spotify.com/album/7Hg59DHj3jPVUWxegY6Inm"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 191680,
       "name": "AAA",
       "url": "https://open.spotify.com/track/3emMgXnKizZEJfE8HN4WTW"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Loving Me Like That",
-        "url": "https://open.spotify.com/album/6SkAm5294LP04lW1dCUAgY"
-      },
-      "artists": [
-        {
-          "name": "Tia Kofi",
-          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Loving Me Like That",
-      "url": "https://open.spotify.com/track/03NhvyKomhZpEkvuePLseZ"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW"
-      },
-      "artists": [
-        {
-          "name": "Tia Kofi",
-          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/6jQMDvMwscJjhhXH4go8y9"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 202476,
       "name": "Boys Like Me",
       "url": "https://open.spotify.com/track/6ACCpKQ0Ca5VmFaRqdKm9h"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -867,18 +867,18 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Outside In",
-        "url": "https://open.spotify.com/album/6VT6gpzqEWSk5r0IulfDyR"
+        "name": "Fight for Love",
+        "url": "https://open.spotify.com/album/7z5c2c2cnPBER6cSOc0yiW"
       },
       "artists": [
         {
-          "name": "Tia Kofi",
-          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+          "name": "Courtney Act",
+          "url": "https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq"
         }
       ],
-      "duration_ms": 194361,
-      "name": "Outside In",
-      "url": "https://open.spotify.com/track/5Yi2qzDQ2HPv9k2J6ZCKso"
+      "duration_ms": 176000,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/0BspWxbPFXiuH1HwLm83NK"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -959,18 +959,18 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Fight for Love",
-        "url": "https://open.spotify.com/album/7z5c2c2cnPBER6cSOc0yiW"
+        "name": "Outside In",
+        "url": "https://open.spotify.com/album/6VT6gpzqEWSk5r0IulfDyR"
       },
       "artists": [
         {
-          "name": "Courtney Act",
-          "url": "https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq"
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Fight for Love",
-      "url": "https://open.spotify.com/track/0BspWxbPFXiuH1HwLm83NK"
+      "duration_ms": 194361,
+      "name": "Outside In",
+      "url": "https://open.spotify.com/track/5Yi2qzDQ2HPv9k2J6ZCKso"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Part 2: The Antidote",
-        "url": "https://open.spotify.com/album/3BMSQ62xPnpHMyYx8CByYh"
-      },
-      "artists": [
-        {
-          "name": "Tia Kofi",
-          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
-        },
-        {
-          "name": "Little Boots",
-          "url": "https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30"
-        }
-      ],
-      "duration_ms": 169731,
-      "name": "I Specialise In Love",
-      "url": "https://open.spotify.com/track/5J0S0kIoIOH0FCs9Q6Y3B1"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Transphibian",
         "url": "https://open.spotify.com/album/34Q0hpXICT1xqe6t6TjZTb"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 186686,
       "name": "Sunshine State",
       "url": "https://open.spotify.com/track/2wwO8AXtUB0qy8rT4dV9nP"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Part 2: The Antidote",
+        "url": "https://open.spotify.com/album/3BMSQ62xPnpHMyYx8CByYh"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        },
+        {
+          "name": "Little Boots",
+          "url": "https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30"
+        }
+      ],
+      "duration_ms": 169731,
+      "name": "I Specialise In Love",
+      "url": "https://open.spotify.com/track/5J0S0kIoIOH0FCs9Q6Y3B1"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Part 1: The Damage",
-        "url": "https://open.spotify.com/album/4NAcKRrc0ueLhK8A0tYqGL"
-      },
-      "artists": [
-        {
-          "name": "Tia Kofi",
-          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
-        },
-        {
-          "name": "Billy Cullum",
-          "url": "https://open.spotify.com/artist/4io2LV6Cv46tjHIMSDie5k"
-        }
-      ],
-      "duration_ms": 173473,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/2rSE4Hl1vnWQhRbbUH0bhb"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Here For It",
         "url": "https://open.spotify.com/album/0vLZFcJpMsjOsublHTFjIk"
       },
@@ -1279,6 +1259,22 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
+        "name": "Ornacia",
+        "url": "https://open.spotify.com/album/69LWtOGlMSCXJest9Zzmv7"
+      },
+      "artists": [
+        {
+          "name": "Vivacious",
+          "url": "https://open.spotify.com/artist/17f5kPkp5H8UHtz31e9MAp"
+        }
+      ],
+      "duration_ms": 286940,
+      "name": "Ornacia",
+      "url": "https://open.spotify.com/track/3P7De9YTBIt5jfrZepoWVA"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
         "name": "Stars",
         "url": "https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G"
       },
@@ -1295,18 +1291,22 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Ornacia",
-        "url": "https://open.spotify.com/album/69LWtOGlMSCXJest9Zzmv7"
+        "name": "Part 1: The Damage",
+        "url": "https://open.spotify.com/album/4NAcKRrc0ueLhK8A0tYqGL"
       },
       "artists": [
         {
-          "name": "Vivacious",
-          "url": "https://open.spotify.com/artist/17f5kPkp5H8UHtz31e9MAp"
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        },
+        {
+          "name": "Billy Cullum",
+          "url": "https://open.spotify.com/artist/4io2LV6Cv46tjHIMSDie5k"
         }
       ],
-      "duration_ms": 286940,
-      "name": "Ornacia",
-      "url": "https://open.spotify.com/track/3P7De9YTBIt5jfrZepoWVA"
+      "duration_ms": 173473,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/2rSE4Hl1vnWQhRbbUH0bhb"
     },
     {
       "added_at": "2024-05-31 17:55:47",

@@ -4,14 +4,14 @@
 
 > Soft piano lullaby versions of Jazz classics to lull your baby to sleep.
 
-98 songs - 5 hr 6 min
+100 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Flower Is A Lonesome Thing](https://open.spotify.com/track/6VvWYVzG8F16Q1lGrBE22Q) | [Jonny Lockley](https://open.spotify.com/artist/09VHG7HRDUHBwGjvRRB3Xj) | [A Flower Is a Lonesome Thing](https://open.spotify.com/album/5yyEbOdcKmTWyYraAagFSk) | 4:03 | 2022-04-12 |  |
 | [A Good Day](https://open.spotify.com/track/4CKFgo4cHetK6zsBywwBIx) | [Mrs Lawson](https://open.spotify.com/artist/6GRdbp1aBLfEJCgNcdGKLM) | [A Good Day](https://open.spotify.com/album/4h73tz90SvA4W9P2EydSOt) | 2:28 | 2022-09-28 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/10RuHxKum9NEanMnjISzNF) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/3sQaHcC5OYhvDmJalmlLoM) | 2:25 | 2022-04-12 |  |
-| [Alfie](https://open.spotify.com/track/0hM1KJAmxzankL3lgogyxf) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [Alfie](https://open.spotify.com/album/5Utoepi0mubUEicgDq7WnY) | 2:43 | 2022-04-12 |  |
+| [Alfie](https://open.spotify.com/track/0hM1KJAmxzankL3lgogyxf) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [Alfie](https://open.spotify.com/album/5Utoepi0mubUEicgDq7WnY) | 2:43 | 2022-04-12 | 2024-07-23 |
 | [Alice In Wonderland](https://open.spotify.com/track/4mJzer8K8AT67EkD3VLTGE) | [Anna Niva](https://open.spotify.com/artist/535a8rNQO9F4uQjhRJirsx) | [Alice In Wonderland](https://open.spotify.com/album/2fHP1WQbizUKTyMoNDRPrV) | 2:04 | 2022-10-27 |  |
 | [Alice In Wonderland](https://open.spotify.com/track/3KvvR3y5CZTt7Zef7y2Yc5) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL) | [Alice In Wonderland](https://open.spotify.com/album/7x5H2e51cujnBxayPva0C3) | 3:00 | 2022-05-10 | 2022-05-25 |
 | [Almost Being In Love](https://open.spotify.com/track/7lFqg5DjHCJW7fLgY6kLt2) | [Soñoliento](https://open.spotify.com/artist/0wINvfAKLiF2PHqBYU422q) | [Almost Being In Love](https://open.spotify.com/album/5Ymu1jC3DZjHLdTCtQg8rn) | 1:53 | 2022-12-08 |  |
@@ -48,6 +48,7 @@
 | [It's Only A Paper Moon](https://open.spotify.com/track/7naIptuhLR1lTnnxx4Dx46) | [Maki Yuoma](https://open.spotify.com/artist/3VUflANX1g7LBvBXRZKatX) | [I Keep Clinging To Close](https://open.spotify.com/album/4rCMPGvTEERHD29NspCuC7) | 4:26 | 2022-04-12 |  |
 | [Jitterbug Waltz](https://open.spotify.com/track/466GOMGOnG9eld0Hx4JWKm) | [Jenn Higgins](https://open.spotify.com/artist/1osOMrNNhLsHInJWbS6ejR) | [Polkadots and Moonbeams](https://open.spotify.com/album/4Ui5vnomcfy5yjjhTLnTYa) | 2:35 | 2022-11-10 |  |
 | [Just Friends](https://open.spotify.com/track/1f3DJiFqPSWaWoPvEsbFTp) | [Simon Parrish](https://open.spotify.com/artist/7CJ8E44Q0ShDRlMUojPQ3q) | [Just Friends](https://open.spotify.com/album/6aHQy26R8FbK2bMPGzEion) | 2:01 | 2022-04-12 |  |
+| [L\-O\-V\-E](https://open.spotify.com/track/2HOBHKyf3Sm9SjqUTFybyY) | [Jené Martins](https://open.spotify.com/artist/6ivuOAayX7AMI5dMc32BHo) | [L\-O\-V\-E](https://open.spotify.com/album/4jYf6fhH6oQIHjn5Ur98F8) | 2:41 | 2024-07-22 |  |
 | [Last Summer](https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Last Summer](https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2) | 2:27 | 2022-04-12 |  |
 | [Let's Do It \(Let's Fall In Love\)](https://open.spotify.com/track/7E1eNodaXumIQKrnzv2kzb) | [Dylan McFerrin](https://open.spotify.com/artist/2u2yE1h7hm3GT561nJL4rS) | [A Foggy Day](https://open.spotify.com/album/3MPhQbsiYueZQ89XBRCgL1) | 3:52 | 2022-04-12 | 2022-11-25 |
 | [Long Ago and Far Away](https://open.spotify.com/track/55m9IfGX0Hf4WWPmZa3JKv) | [Issy Tam](https://open.spotify.com/artist/1A24SZSBVcZbWE8VJ0RkfH) | [Long Ago and Far Away](https://open.spotify.com/album/4WHAAvPCu3ZMMdmxpmky2P) | 1:50 | 2022-04-12 |  |
@@ -59,6 +60,7 @@
 | [My One and Only Love](https://open.spotify.com/track/6UFErRwNsXFmbZYnOdBLQb) | [Jan Singh](https://open.spotify.com/artist/3754x5uMBUG3kwven7gOgu) | [My One and Only Love](https://open.spotify.com/album/10MOshcK6sWbLtlG9hQqMt) | 3:14 | 2022-04-26 |  |
 | [Naima](https://open.spotify.com/track/4OxC4yBBsZ3BNmS9oFAzBx) | [Louie Martin](https://open.spotify.com/artist/6V322191Co4lw7MgeQdcHu) | [Naima](https://open.spotify.com/album/6Zoa4RTHHwt7FY6fxHLja2) | 3:40 | 2022-04-12 | 2023-01-27 |
 | [Next to Nothing](https://open.spotify.com/track/3NSUJkVYfauEwgNlhJinXF) | [Jacob De La Rose](https://open.spotify.com/artist/4fe6kAGXzfd9qBI1z4cwjj) | [Next to Nothing](https://open.spotify.com/album/0aUgCD4UfCBXhuz0uBtT5z) | 3:27 | 2022-04-12 |  |
+| [Night and Day](https://open.spotify.com/track/000sIz4pDu580oiCo9JDXc) | [Joshua Garland](https://open.spotify.com/artist/4uDakG3Fmg1CdRB1xvby7X) | [Night and Day](https://open.spotify.com/album/0BCwxgvqpwuTdZyfW4kEg8) | 3:03 | 2024-07-22 |  |
 | [On A Clear Day](https://open.spotify.com/track/7dM3VnSFJt1wZMPmYmAfZp) | [Lisbeth Rayner](https://open.spotify.com/artist/7KXBo2SSWy680ZGle8Zc6d) | [On A Clear Day](https://open.spotify.com/album/6Cya7dOUQMiirrjpbzDZsC) | 2:12 | 2022-04-12 |  |
 | [Once I Had A secret Love](https://open.spotify.com/track/7kvwOnTBlrIAkScJkjIPUR) | [Jeff Robins](https://open.spotify.com/artist/74TmlbkJzQhvG8Jurm01cE) | [Once I Had A secret Love](https://open.spotify.com/album/0cBqA8iqJvj72zbk5etg5b) | 5:46 | 2022-04-12 |  |
 | [Out of place](https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 3:31 | 2022-04-12 |  |
@@ -93,7 +95,7 @@
 | [The Very Thought of You](https://open.spotify.com/track/1lObGlX2OlCzecsMJW9LPd) | [Susan Sunnemo](https://open.spotify.com/artist/1ZyaRKG1kRNm8pILCfWMz7) | [The Very Thought of You](https://open.spotify.com/album/5TFDnrSIUBg4JWl3gkKrY7) | 3:32 | 2023-02-02 |  |
 | [These Foolish Things](https://open.spotify.com/track/0CXDipwJc206zISTQqO5y6) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [These Foolish Things](https://open.spotify.com/album/2bePbAVM2pnJoZKimuHZzw) | 4:57 | 2022-04-12 |  |
 | [Till There Was You](https://open.spotify.com/track/2UDtRV70lU0JbFNLeznfOJ) | [Julian Byrd](https://open.spotify.com/artist/6xuFoS81N7OFQKHhhCdeVC) | [Till There Was You](https://open.spotify.com/album/5f1XIM1Hp0TiZEC1H3UBRV) | 1:47 | 2022-05-05 |  |
-| [Time After Time](https://open.spotify.com/track/0MljxuIuG5VkNEhZy0Wn1j) | [Lester Rosin](https://open.spotify.com/artist/0A2nXJBdV4EkQ7fiQPkELE) | [You Stepped Out of a Dream](https://open.spotify.com/album/0xuRscRx1FotSIRc6JeKTM) | 2:17 | 2022-04-12 |  |
+| [Time After Time](https://open.spotify.com/track/0MljxuIuG5VkNEhZy0Wn1j) | [Lester Rosin](https://open.spotify.com/artist/0A2nXJBdV4EkQ7fiQPkELE) | [You Stepped Out of a Dream](https://open.spotify.com/album/0xuRscRx1FotSIRc6JeKTM) | 2:17 | 2022-04-12 | 2024-07-23 |
 | [Under the Mango Tree](https://open.spotify.com/track/33KChiNPI0s6An3lRKjcQV) | [Erika Stevenson](https://open.spotify.com/artist/3qqiQwpDv5suNnRA8lCMAE) | [Under the Mango Tree](https://open.spotify.com/album/0oBtirMIo2gIJiK2m6zyHj) | 2:08 | 2022-10-06 |  |
 | [Very Early](https://open.spotify.com/track/233mHTkvc7567uCXc7XsHR) | [Ottilie Lebau](https://open.spotify.com/artist/361nXBd8zOp4m6PB7Gjnie) | [Very Early](https://open.spotify.com/album/0Gdo0WpxqvA4s8UGxFO3Hf) | 2:10 | 2022-04-12 |  |
 | [What a Difference a Day Made](https://open.spotify.com/track/4CameIqIIPcQzNgIY4iCXi) | [Jazz for Babies](https://open.spotify.com/artist/6HTqDlK6LS0Ju7P58XXW2T) | [The Piano Album](https://open.spotify.com/album/0eBs49NdPsqdca0VztAB4K) | 3:07 | 2022-04-12 | 2022-06-23 |

@@ -4,7 +4,7 @@
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-93 songs - 5 hr 15 min
+94 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Ask Me Now](https://open.spotify.com/track/1JRBmuvgDW9rcoJst2oJre) | [Teemu Viinikainen](https://open.spotify.com/artist/0OgaFFwXXVXsIpAaPS2EBR) | [Ask Me Now](https://open.spotify.com/album/0DBEAQOu9OhVK4BUE3tiJf) | 2:30 | 2022-10-13 |  |
 | [Autumn Leaves](https://open.spotify.com/track/609aYx7tX9W22UwKaH7CRK) | [Erik Faelt](https://open.spotify.com/artist/1ML8LCQGl0s8S4IECHztk1) | [My Romance](https://open.spotify.com/album/08n5jSurl6yZPKmPlwr5Ru) | 2:49 | 2022-10-13 |  |
 | [Autumn Skies](https://open.spotify.com/track/1xHI2bJ5Lb9zjA2uNvVndM) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Autumn Skies](https://open.spotify.com/album/1kgfE8meNls51OZ8Tmv602) | 2:49 | 2022-10-13 |  |
+| [Back There](https://open.spotify.com/track/21Xor47HLYhzTrfNnCY5Yz) | [Lukas Auer](https://open.spotify.com/artist/1T58UK6Ao6O1qWahGTyfAu) | [Back There](https://open.spotify.com/album/5RPcB0dJKIgRba7DQsvOA9) | 2:22 | 2024-07-22 |  |
 | [Backstage](https://open.spotify.com/track/5fkhwXNw3xWy7IrGDhBDB6) | [Daniel Monza](https://open.spotify.com/artist/4cM9QbsCEUCRRm7RocSczP) | [Backstage](https://open.spotify.com/album/6FIJRZtL0Sca4b93q4RJXv) | 2:27 | 2022-10-13 |  |
 | [Bali](https://open.spotify.com/track/0gIQviarG5RlZbvCxfpHKL) | [Isato Nakagawa](https://open.spotify.com/artist/7H7kbnGiqnG8GYDtDALthl) | [Tree Circle](https://open.spotify.com/album/6scj26E3tVRTzcBkkx5qRB) | 5:48 | 2022-10-13 |  |
 | [Blame It On My Youth](https://open.spotify.com/track/3L0bUhCLyWQif6u3oRtUjo) | [Billie Arnold](https://open.spotify.com/artist/3r47s3wKylwAGlM9XYoI4v) | [Blame It On My Youth](https://open.spotify.com/album/7qe6VBTIkgGfnluSwEV4jz) | 2:38 | 2022-11-24 |  |
@@ -60,7 +61,7 @@
 | [Mellow D](https://open.spotify.com/track/3pjT3Pa3yTlouX3VhkmC5z) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Berlin Baritone](https://open.spotify.com/album/20SPYDVOBZtlUWqzKXUUuv) | 3:56 | 2023-04-27 | 2024-04-19 |
 | [Mellow D](https://open.spotify.com/track/4cyKMZoxryulVelRY8Fj4G) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Mellow D](https://open.spotify.com/album/68X7GSqcU0rRDF737X94w5) | 3:56 | 2022-11-24 |  |
 | [Misty](https://open.spotify.com/track/51HXNZE27Z1HZv434alcCU) | [Jay Peters](https://open.spotify.com/artist/4TSsVmOkMQ992fO3eHBdBd) | [Misty](https://open.spotify.com/album/3mm9MeaqIKonEcINmU4boS) | 1:42 | 2023-02-16 | 2023-09-16 |
-| [Mona Lisa](https://open.spotify.com/track/2HGbt4l6SI2QklbIL56gqJ) | [Martin Taylor](https://open.spotify.com/artist/3ZNRPH9WeMybGggbmNOE62) | [Kiss And Tell](https://open.spotify.com/album/5inAnI4fK2mZZKahLIxDGB) | 4:49 | 2022-10-13 |  |
+| [Mona Lisa](https://open.spotify.com/track/2HGbt4l6SI2QklbIL56gqJ) | [Martin Taylor](https://open.spotify.com/artist/3ZNRPH9WeMybGggbmNOE62) | [Kiss And Tell](https://open.spotify.com/album/5inAnI4fK2mZZKahLIxDGB) | 4:49 | 2022-10-13 | 2024-07-23 |
 | [Moon River](https://open.spotify.com/track/7HFhaGSj1ZOsNwyDilDEGm) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [Moon River](https://open.spotify.com/album/6IC8m7kndMMCp8OkNjnjPE) | 3:34 | 2022-10-13 |  |
 | [My Favorite Things](https://open.spotify.com/track/1lPh8cvsT4TaRZxtJ7Mcfb) | [Kevin Richard](https://open.spotify.com/artist/0rH3yL76S15p46AsE3jQL8) | [My Favorite Things](https://open.spotify.com/album/7ezSR5lXvnK7H6na0exbbt) | 3:26 | 2022-12-01 | 2023-08-11 |
 | [My Foolish Heart](https://open.spotify.com/track/3zsM3SaQiMxd3IEUeQ1L5n) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535) | [My Foolish Heart](https://open.spotify.com/album/1E2MNk4Xg8YA7EBlYsuTQQ) | 3:51 | 2022-10-13 |  |

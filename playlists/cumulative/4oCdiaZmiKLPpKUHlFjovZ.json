@@ -893,6 +893,28 @@
     },
     {
       "album": {
+        "name": "Ghetto Boyz",
+        "url": "https://open.spotify.com/album/40chibcpJl6iVoRkdKk4ql"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133708,
+      "name": "Ghetto Boyz",
+      "url": "https://open.spotify.com/track/1EH3nPHVZbWn2LTwxrp3j1"
+    },
+    {
+      "album": {
         "name": "Green Carpet",
         "url": "https://open.spotify.com/album/7MZCu883H2Y7Br2K9Wd3Ef"
       },

@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-127 songs - 5 hr 15 min
+128 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Serene Lullaby](https://open.spotify.com/track/6senBBuEDrhyrtq83mNw8K) | [Michele Nobler](https://open.spotify.com/artist/3c77k7JBsnl7h72xlCuaS2) | [A Second Life](https://open.spotify.com/album/4zfzNeWgluMMQfhXxNOft8) | 2:46 | 2023-05-09 |  |
 | [Serenity](https://open.spotify.com/track/5ul8fmKLEXPOoxI2UB03Cl) | [Peighton](https://open.spotify.com/artist/1YUB5ogOMQkiMfYvaPIEPY) | [Serenity](https://open.spotify.com/album/3H4nRo9aqyV0W0CK0MyaRo) | 2:38 | 2023-05-09 |  |
 | [Sincere](https://open.spotify.com/track/3COEj6CCw5iG6ykRZ0LuKf) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Sincere](https://open.spotify.com/album/2FrUT2fF8TXPMGiiChOkph) | 2:07 | 2023-05-09 |  |
+| [Slowdive](https://open.spotify.com/track/2zqiro2tpHZkYVrtdMQAVn) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Slowdive](https://open.spotify.com/album/3kZgD5YMFeOpGlF39LD9VM) | 2:50 | 2024-07-22 |  |
 | [Small](https://open.spotify.com/track/0aviORRTQwOiKwtM8EX6Ep) | [Théa Allemand](https://open.spotify.com/artist/4ZnTLMnuVhamRoBXLbTO9S) | [Small](https://open.spotify.com/album/3rMGkoE0Q38xRszZD11K6F) | 3:04 | 2023-05-09 |  |
 | [Solace](https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Solace](https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj) | 1:57 | 2023-05-09 |  |
 | [Solandis](https://open.spotify.com/track/3fxdFU7UuXbmos8FTVydU0) | [Maria Melua](https://open.spotify.com/artist/0ltDh2ebSVsK4Xd9wjM1L2) | [Solandis](https://open.spotify.com/album/7i2iTmTnMDyFBFBX8wEvrH) | 1:55 | 2023-05-09 |  |

@@ -361,6 +361,24 @@
     },
     {
       "album": {
+        "name": "Aal Doghrey",
+        "url": "https://open.spotify.com/album/7zhW3zAi1lfGgNmSk9GiCY"
+      },
+      "artists": [
+        {
+          "name": "Reda El Bahrawy",
+          "url": "https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283278,
+      "name": "Aal Doghrey",
+      "url": "https://open.spotify.com/track/0rGCXktltsDt5jmcFwjFm4"
+    },
+    {
+      "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
       },
@@ -3570,7 +3588,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 160524,
       "name": "El Neyya",
       "url": "https://open.spotify.com/track/2lygVhKHBUzEGMJXljHOV2"
@@ -9800,7 +9818,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 229025,
       "name": "Reyah El Hayah",
       "url": "https://open.spotify.com/track/08yqfVX2AXNzrq6xlaGB3h"
@@ -16768,7 +16786,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 230586,
       "name": "\u0648\u063a\u0644\u0627\u0648\u062a\u0643",
       "url": "https://open.spotify.com/track/1dVGCdJ4SibwgThXlUBU0l"

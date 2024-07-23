@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Loredana
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,463 likes - 110 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,466 likes - 110 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 8 | [Pas Comme Ça](https://open.spotify.com/track/5Os3fdIL2QS2e1r6JzMrjQ) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [D&D](https://open.spotify.com/album/7EznJ3BjBGXxRgNSC6n610) | 3:17 |
 | 9 | [erste/letzte](https://open.spotify.com/track/4XHAU1QcCIj4GyPAlCsjs0) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [erste/letzte](https://open.spotify.com/album/11IioagwjEgh3hUGuNl3te) | 2:39 |
 | 10 | [that life](https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [i always remember all of my dreams](https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq) | 2:51 |
-| 11 | [La même histoire](https://open.spotify.com/track/6I6nQIBRYlQLMT58liSyWI) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [La même histoire](https://open.spotify.com/album/1q67Fv3Ccr8yAOrtVD7F7U) | 2:12 |
+| 11 | [LA MÊME HISTOIRE](https://open.spotify.com/track/6I6nQIBRYlQLMT58liSyWI) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [LA MÊME HISTOIRE](https://open.spotify.com/album/1q67Fv3Ccr8yAOrtVD7F7U) | 2:12 |
 | 12 | [abgelenkt](https://open.spotify.com/track/79XKsdLlYGx1lqwctmMD2v) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [abgelenkt](https://open.spotify.com/album/0eezzl5aVtoPFUO3InwewZ) | 2:39 |
 | 13 | [Si Te Vas](https://open.spotify.com/track/3D2jhnByvi7je8qYz3cWM1) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Si Te Vas](https://open.spotify.com/album/3o8GPFoFLVI0pfUPePSmbl) | 2:11 |
 | 14 | [Coco \(feat\. Tayc\)](https://open.spotify.com/track/6MG8MRq1odNsWCasM9IehW) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Coco \(feat\. Tayc\)](https://open.spotify.com/album/5hGsaXtfKcheS0r0AzMhgi) | 3:18 |

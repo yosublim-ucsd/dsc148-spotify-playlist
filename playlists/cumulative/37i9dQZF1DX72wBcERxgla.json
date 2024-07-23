@@ -286,7 +286,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 300036,
       "name": "A Sleepin' Bee",
       "url": "https://open.spotify.com/track/6BMoH1WjyQuNwKrxP1eVNg"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 149495,
       "name": "Box Of Photos",
       "url": "https://open.spotify.com/track/1du3L7rqD0PrJSrNE0ye0q"
@@ -2518,7 +2518,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 199944,
       "name": "Evermore Street",
       "url": "https://open.spotify.com/track/4D5p92Sg5NATIW22l1msgN"
@@ -4912,7 +4912,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 147755,
       "name": "Late Silence",
       "url": "https://open.spotify.com/track/5BLJfLNLFD7KsVMKeeCD9v"
@@ -5632,7 +5632,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 197070,
       "name": "Meet me in my dreams",
       "url": "https://open.spotify.com/track/1x7zmdH7luQE9WvDUsbpTj"
@@ -5942,6 +5942,24 @@
       "duration_ms": 130037,
       "name": "More of you",
       "url": "https://open.spotify.com/track/5nV0i4idKEo34XOVH7vmoM"
+    },
+    {
+      "album": {
+        "name": "Morning in Paris",
+        "url": "https://open.spotify.com/album/0aIUEUHyUpCfzucDBSWIMS"
+      },
+      "artists": [
+        {
+          "name": "Leah Lambert",
+          "url": "https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205933,
+      "name": "Morning in Paris",
+      "url": "https://open.spotify.com/track/4i7ZmDrBGDncsokMtNwJ3j"
     },
     {
       "album": {
@@ -7216,7 +7234,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 200516,
       "name": "Red Roses",
       "url": "https://open.spotify.com/track/4nF6ml6bgg0nomCgQYreI2"
@@ -7504,7 +7522,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 121015,
       "name": "Sapphire Skies and Velvet Dreams",
       "url": "https://open.spotify.com/track/3Aon4cYBKcNb5RLopJPPrG"
@@ -7634,6 +7652,24 @@
       "duration_ms": 197382,
       "name": "September Song",
       "url": "https://open.spotify.com/track/0I4fzEcHoiQTuvWw928Z6C"
+    },
+    {
+      "album": {
+        "name": "September Waltz",
+        "url": "https://open.spotify.com/album/5JQ17DeOHq133g4VZNkHYp"
+      },
+      "artists": [
+        {
+          "name": "Dennis Riley-Jones",
+          "url": "https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220803,
+      "name": "September Waltz",
+      "url": "https://open.spotify.com/track/6LLdCx5n7skyCfJ1sCZ7Rm"
     },
     {
       "album": {
@@ -7846,7 +7882,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 161750,
       "name": "Sleepless Hours",
       "url": "https://open.spotify.com/track/1QheW87tmDiL4BlbvUi9Bd"
@@ -8008,7 +8044,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 148829,
       "name": "Some Other Spring",
       "url": "https://open.spotify.com/track/0G8AkUVxf9cdD4Y8AyRzFm"
@@ -8836,7 +8872,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 181000,
       "name": "The Green Sky",
       "url": "https://open.spotify.com/track/6Dw1etXpypea1PvGSIVmJN"
@@ -9016,7 +9052,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 200749,
       "name": "The Morning Coffee",
       "url": "https://open.spotify.com/track/67AR74v5XF4tLLFkKbFnmB"
@@ -9484,7 +9520,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 199124,
       "name": "They Say It's Wonderful",
       "url": "https://open.spotify.com/track/70XPtCtNGP1SoHfAq0Wjdv"
@@ -9628,7 +9664,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 164533,
       "name": "Time To Get Up",
       "url": "https://open.spotify.com/track/7dQfkjzkxNBOe3fCYHUT0k"

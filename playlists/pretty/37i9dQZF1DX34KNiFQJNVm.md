@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mari Fernandez com Zé Felipe, KayBlack, BIN e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,923,117 likes - 62 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,923,370 likes - 62 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,731 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,747 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 69 | [金継ぎ](https://open.spotify.com/track/7Idnc6G2UTAGANTgC4xLpX) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [古風](https://open.spotify.com/album/6up103j3F99vuOxqx9ye83) | 1:06 |
 | 70 | [Bitsummer](https://open.spotify.com/track/7CTUtBYUjFSLtk97ZpEaTL) | [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z), [Rinko](https://open.spotify.com/artist/36IKnQFNBrUs7GrgO6KuhD) | [Bitsummer](https://open.spotify.com/album/4RSVUUq6KsWDCLeTjMSFny) | 2:46 |
 | 71 | [solari](https://open.spotify.com/track/4VqvHOwxiadYcXdbUNpOm3) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/3Kd4OGkyOjvB4P1j8bVJ2A) | 3:52 |
-| 72 | [Nomozaki](https://open.spotify.com/track/3tUB1UvLWbFkSrPmFftXdp) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ), [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [Nomozaki](https://open.spotify.com/album/4Sm8ekmzW1tGc4JMSF8PAK) | 4:21 |
-| 73 | [霧中夢](https://open.spotify.com/track/3QfKXrXI14fomDcmwYdkOY) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [夢中夢](https://open.spotify.com/album/62kdE7eeVhMWFMvvHPxiBn) | 6:59 |
+| 72 | [霧中夢](https://open.spotify.com/track/3QfKXrXI14fomDcmwYdkOY) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [夢中夢](https://open.spotify.com/album/62kdE7eeVhMWFMvvHPxiBn) | 6:59 |
+| 73 | [Nomozaki](https://open.spotify.com/track/3tUB1UvLWbFkSrPmFftXdp) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ), [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [Nomozaki](https://open.spotify.com/album/4Sm8ekmzW1tGc4JMSF8PAK) | 4:21 |
 | 74 | [夜の街](https://open.spotify.com/track/6GDHhqXm5rRuHyXc6nRpsi) | [Yoshiaki Dewa](https://open.spotify.com/artist/3NWiLtzfi2mh7EB2Fq9TyY) | [TVアニメ『よふかしのうた』オリジナル・サウンドトラック](https://open.spotify.com/album/0hRquZKDpTRqpi8kjD7lcv) | 3:07 |
 | 75 | [Still Dreaming](https://open.spotify.com/track/5x3F4GtnGOSpM7g1R90joU) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Delight](https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU) | 4:27 |
 | 76 | [SLEEP](https://open.spotify.com/track/1aw0BaQEC2PGp8kmYYHvyP) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green \(SFX Version\)](https://open.spotify.com/album/6viDcqQjEZbYDCxomxO18w) | 6:50 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 89 | [oto](https://open.spotify.com/track/5RbyOEJsxOVIOGUk1sxX6j) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [cendre](https://open.spotify.com/album/4PnuHl4d1rzQ8lsqxAfB6H) | 3:48 |
 | 90 | [Of Mystic Dreams](https://open.spotify.com/track/3dtTmuaWc0EcnnZK63CzSq) | [Chari Chari](https://open.spotify.com/artist/4MJT57L7RMCvSvg2GjU0wQ) | [We hear the last decades dreaming](https://open.spotify.com/album/55v2rPWFhanCrbVNytkTmT) | 6:26 |
 | 91 | [True Life Again](https://open.spotify.com/track/7h3Jac9a1L6S745rl0mC59) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [True Life](https://open.spotify.com/album/5yE9lcwFUv5i7pvfNm7EGm) | 3:55 |
-| 92 | [Li Ma Li](https://open.spotify.com/track/0iQZ81pN5ykDwDVOE98vpU) | [Tō Yō](https://open.spotify.com/artist/1HsbWI9eeccgUpzffKCYQT) | [Stray Birds From The Far East](https://open.spotify.com/album/6Fj8AWo4WMh7Qc5R8DEc8I) | 6:17 |
-| 93 | [KI\-KI\-KI](https://open.spotify.com/track/7C7nnQSwudlE7K7zKVks0b) | [Midori Takada](https://open.spotify.com/artist/3fuab64Hf1xiRGocX1sT1n) | [MSCTY X V&A Dundee](https://open.spotify.com/album/75SHGWcZLS9bpcCB3kgIEe) | 13:39 |
+| 92 | [KI\-KI\-KI](https://open.spotify.com/track/7C7nnQSwudlE7K7zKVks0b) | [Midori Takada](https://open.spotify.com/artist/3fuab64Hf1xiRGocX1sT1n) | [MSCTY X V&A Dundee](https://open.spotify.com/album/75SHGWcZLS9bpcCB3kgIEe) | 13:39 |
+| 93 | [Li Ma Li](https://open.spotify.com/track/0iQZ81pN5ykDwDVOE98vpU) | [Tō Yō](https://open.spotify.com/artist/1HsbWI9eeccgUpzffKCYQT) | [Stray Birds From The Far East](https://open.spotify.com/album/6Fj8AWo4WMh7Qc5R8DEc8I) | 6:17 |
 | 94 | [Slowly Diving](https://open.spotify.com/track/19RiT2dZ8TkHvL6cPaFP1A) | [Takuro Okada](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm), [葛西敏彦](https://open.spotify.com/artist/2lDaAvUzZP2ux1i12xuH6Y), [香田 悠真](https://open.spotify.com/artist/6VzrikesByN5Ogb8A67n47) | [To Waters of Lethe](https://open.spotify.com/album/5bbc9oYHs1OcOVrc6pwC1g) | 4:20 |
 | 95 | [Zhan\-ti\-sui Temple](https://open.spotify.com/track/0aOmAlujBbTmbnMrxy0iwk) | [Utena Kobayashi](https://open.spotify.com/artist/3JU5NOb3kKE7xffuEn7udg) | [6 roads](https://open.spotify.com/album/0wvuqxZa7jZHv4N57qbJih) | 4:14 |
 | 96 | [C/O](https://open.spotify.com/track/5BKWJlgXhxT7UmWXxzoCfK) | [Sakura Tsuruta](https://open.spotify.com/artist/79OBZx6sPHvnUqeIpooOcZ) | [C/O](https://open.spotify.com/album/7quy2UPFmb4p5k7lLx1a59) | 5:28 |

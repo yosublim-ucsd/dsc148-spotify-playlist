@@ -2,7 +2,7 @@
 
 ### [This Is Mc Luanna](https://open.spotify.com/playlist/37i9dQZF1DZ06evO45TXx1)
 
-> This is Mc Luanna\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Mc Luanna\. Todos os maiores hits em uma só playlist.
 
 69 songs - 3 hr 28 min
 

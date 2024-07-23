@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 36744,
+  "num_followers": 36775,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 144026,
-      "name": "Rhythm & Blues",
-      "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
         "name": "Qing Madi (Deluxe)",
         "url": "https://open.spotify.com/album/4vxIotduGifC33fGSfxxom"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 195789,
       "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 144026,
+      "name": "Rhythm & Blues",
+      "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Qing Madi",
-        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Vision",
-      "url": "https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
         "name": "Run Away (OMALICHA)",
         "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 176200,
       "name": "Run Away (OMALICHA)",
       "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "Qing Madi",
+        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Wayo",
-        "url": "https://open.spotify.com/album/2YCEgok5pslGRKb6LmUfMf"
-      },
-      "artists": [
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 149454,
-      "name": "Wayo",
-      "url": "https://open.spotify.com/track/3J6APt513Rv9lN7auorpw5"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
         "name": "I Told Them...",
         "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
       },
@@ -767,22 +751,18 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Vision Remix (feat. Chl\u00f6e)",
-        "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
+        "name": "Wayo",
+        "url": "https://open.spotify.com/album/2YCEgok5pslGRKb6LmUfMf"
       },
       "artists": [
         {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        },
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Vision Remix (feat. Chl\u00f6e)",
-      "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
+      "duration_ms": 149454,
+      "name": "Wayo",
+      "url": "https://open.spotify.com/track/3J6APt513Rv9lN7auorpw5"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -831,18 +811,22 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "sweeeet",
-        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
+        "name": "Vision Remix (feat. Chl\u00f6e)",
+        "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
       },
       "artists": [
         {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
         }
       ],
-      "duration_ms": 111229,
-      "name": "sweeeet",
-      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
+      "duration_ms": 166000,
+      "name": "Vision Remix (feat. Chl\u00f6e)",
+      "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -859,6 +843,22 @@
       "duration_ms": 154455,
       "name": "Body & Soul",
       "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "sweeeet",
+        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 111229,
+      "name": "sweeeet",
+      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -903,8 +903,8 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Borrow Me Your Baby (feat. Falz)",
-        "url": "https://open.spotify.com/album/56Kv6uvuBbZ2ZqjaZ9vKqs"
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/7ngqg1CSDp6jc7KPs6tWax"
       },
       "artists": [
         {
@@ -912,13 +912,13 @@
           "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
         },
         {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Borrow Me Your Baby (feat. Falz)",
-      "url": "https://open.spotify.com/track/01AkBgeMy8BSiJuzDl0WXc"
+      "duration_ms": 186947,
+      "name": "Alafia (feat. Bella Shmurda)",
+      "url": "https://open.spotify.com/track/0WWRzMI40xHc9I3ZDnHw49"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Palava",
-        "url": "https://open.spotify.com/album/3we5MjWRa9RX9IrYS6kDqW"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        }
-      ],
-      "duration_ms": 155151,
-      "name": "Palava",
-      "url": "https://open.spotify.com/track/5JJCbMb6uI7vbifC6skGf3"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
         "name": "IN MY HEAD",
         "url": "https://open.spotify.com/album/5dI959e51lkReZI50si0ef"
       },
@@ -1043,8 +1027,24 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Lost and Found",
-        "url": "https://open.spotify.com/album/7ngqg1CSDp6jc7KPs6tWax"
+        "name": "Palava",
+        "url": "https://open.spotify.com/album/3we5MjWRa9RX9IrYS6kDqW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "duration_ms": 155151,
+      "name": "Palava",
+      "url": "https://open.spotify.com/track/5JJCbMb6uI7vbifC6skGf3"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "Borrow Me Your Baby (feat. Falz)",
+        "url": "https://open.spotify.com/album/56Kv6uvuBbZ2ZqjaZ9vKqs"
       },
       "artists": [
         {
@@ -1052,13 +1052,13 @@
           "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
         },
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
         }
       ],
-      "duration_ms": 186947,
-      "name": "Alafia (feat. Bella Shmurda)",
-      "url": "https://open.spotify.com/track/0WWRzMI40xHc9I3ZDnHw49"
+      "duration_ms": 188000,
+      "name": "Borrow Me Your Baby (feat. Falz)",
+      "url": "https://open.spotify.com/track/01AkBgeMy8BSiJuzDl0WXc"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Stay Wise",
-        "url": "https://open.spotify.com/album/1Vy5sl6lW9yRJWlwkuVvIb"
-      },
-      "artists": [
-        {
-          "name": "Logos olori",
-          "url": "https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z"
-        }
-      ],
-      "duration_ms": 144999,
-      "name": "Stay Wise",
-      "url": "https://open.spotify.com/track/7M3WKySNnVWCUCi85cmLAd"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
         "name": "JEALOUS (feat. Ambr\u00e9)",
         "url": "https://open.spotify.com/album/4owkBc2GpCLoSoncX50jrU"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 159157,
       "name": "JEALOUS (feat. Ambr\u00e9)",
       "url": "https://open.spotify.com/track/3UuP7C0942VjdtQHZi4erQ"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "Stay Wise",
+        "url": "https://open.spotify.com/album/1Vy5sl6lW9yRJWlwkuVvIb"
+      },
+      "artists": [
+        {
+          "name": "Logos olori",
+          "url": "https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z"
+        }
+      ],
+      "duration_ms": 144999,
+      "name": "Stay Wise",
+      "url": "https://open.spotify.com/track/7M3WKySNnVWCUCi85cmLAd"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/6VLlcv2OAuGSR5oDD5yzWl"
+      },
+      "artists": [
+        {
+          "name": "Singah",
+          "url": "https://open.spotify.com/artist/42B7kT9OrmQyjYb2jYGFHe"
+        }
+      ],
+      "duration_ms": 184821,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/2zO2Zdd88qb0H2dB8sXoKM"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
         "name": "Madam Dearest Pt. 1",
         "url": "https://open.spotify.com/album/7K8oP8pRg0FdTRfUkN0e8q"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 183680,
       "name": "Forever Sweet",
       "url": "https://open.spotify.com/track/4lXRwrXdvUa6CWIpId9Vaq"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/6VLlcv2OAuGSR5oDD5yzWl"
-      },
-      "artists": [
-        {
-          "name": "Singah",
-          "url": "https://open.spotify.com/artist/42B7kT9OrmQyjYb2jYGFHe"
-        }
-      ],
-      "duration_ms": 184821,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/2zO2Zdd88qb0H2dB8sXoKM"
     }
   ],
   "unique_name": "Lovin' Beats",

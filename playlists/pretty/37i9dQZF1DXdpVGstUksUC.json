@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 541550,
+  "num_followers": 541562,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Godzilla's / Eatin' Dust",
-        "url": "https://open.spotify.com/album/7GyCk26ieCcV2CAtheDuYF"
-      },
-      "artists": [
-        {
-          "name": "Fu Manchu",
-          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Eatin' Dust",
-      "url": "https://open.spotify.com/track/2eHruBEy06Vt7VswO4ROhC"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Sleep's Holy Mountain",
         "url": "https://open.spotify.com/album/6L7ENQZtfSKVAq1CIRZSxs"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 343160,
       "name": "Dragonaut",
       "url": "https://open.spotify.com/track/6qLgGLeawKyhMFJ848XtYD"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Godzilla's / Eatin' Dust",
+        "url": "https://open.spotify.com/album/7GyCk26ieCcV2CAtheDuYF"
+      },
+      "artists": [
+        {
+          "name": "Fu Manchu",
+          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Eatin' Dust",
+      "url": "https://open.spotify.com/track/2eHruBEy06Vt7VswO4ROhC"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "The Action Is Go",
-        "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
-      },
-      "artists": [
-        {
-          "name": "Fu Manchu",
-          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "Evil Eye",
-      "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "In the tail of a comet",
         "url": "https://open.spotify.com/album/2Osc8Xt9YkCcNWbURMtrNA"
       },
@@ -311,22 +295,6 @@
       "duration_ms": 162866,
       "name": "Supersoul",
       "url": "https://open.spotify.com/track/1kqEeFbUyuaMSI27hzW6K4"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Welcome to Sky Valley",
-        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
-      },
-      "artists": [
-        {
-          "name": "Kyuss",
-          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
-        }
-      ],
-      "duration_ms": 311906,
-      "name": "Demon Cleaner",
-      "url": "https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -347,6 +315,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Welcome to Sky Valley",
+        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
+      },
+      "artists": [
+        {
+          "name": "Kyuss",
+          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+        }
+      ],
+      "duration_ms": 311906,
+      "name": "Demon Cleaner",
+      "url": "https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 158013,
       "name": "The Fox",
       "url": "https://open.spotify.com/track/4Ej7SloeEgarsCcsxK8VRL"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "The Action Is Go",
+        "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
+      },
+      "artists": [
+        {
+          "name": "Fu Manchu",
+          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "Evil Eye",
+      "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Lightning Born",
-        "url": "https://open.spotify.com/album/5YhcMNf4XiXfsDWpXpyPhG"
-      },
-      "artists": [
-        {
-          "name": "Lightning Born",
-          "url": "https://open.spotify.com/artist/0fmgWMDXvcR5OMYgJLSate"
-        }
-      ],
-      "duration_ms": 275066,
-      "name": "Shifting Winds",
-      "url": "https://open.spotify.com/track/2uSJ9sR3R3beiktlY8ZZtj"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Love Fear Choices and Astronauts",
         "url": "https://open.spotify.com/album/0U4Bj6rqtCCLwwDPuXUj2d"
       },
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Lightning Born",
+        "url": "https://open.spotify.com/album/5YhcMNf4XiXfsDWpXpyPhG"
+      },
+      "artists": [
+        {
+          "name": "Lightning Born",
+          "url": "https://open.spotify.com/artist/0fmgWMDXvcR5OMYgJLSate"
+        }
+      ],
+      "duration_ms": 275066,
+      "name": "Shifting Winds",
+      "url": "https://open.spotify.com/track/2uSJ9sR3R3beiktlY8ZZtj"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Seven Thunders Roar",
         "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
       },
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Dos E.P.'s",
-        "url": "https://open.spotify.com/album/18zCcLMlccJiRswPU6O0QL"
-      },
-      "artists": [
-        {
-          "name": "Nebula",
-          "url": "https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE"
-        }
-      ],
-      "duration_ms": 328960,
-      "name": "Smokin' Woman",
-      "url": "https://open.spotify.com/track/3As9x85QW00A257ahhwKLr"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Sunrise on Slaughter Beach (The Complete Edition)",
         "url": "https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 221033,
       "name": "Slaughter Beach",
       "url": "https://open.spotify.com/track/4hZwv69zyXmgipXqFyr7IJ"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Dos E.P.'s",
+        "url": "https://open.spotify.com/album/18zCcLMlccJiRswPU6O0QL"
+      },
+      "artists": [
+        {
+          "name": "Nebula",
+          "url": "https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE"
+        }
+      ],
+      "duration_ms": 328960,
+      "name": "Smokin' Woman",
+      "url": "https://open.spotify.com/track/3As9x85QW00A257ahhwKLr"
     },
     {
       "added_at": "2024-07-19 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Yo Hai Haryanvi Hip-Hop! Cover: Badal & GD47",
-  "num_followers": 36420,
+  "num_followers": 36467,
   "original_name": "Hip-Hop Haryanvi",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,26 @@
     {
       "added_at": "2024-07-19 06:25:03",
       "album": {
+        "name": "Bagdadi",
+        "url": "https://open.spotify.com/album/54VGUtzXIowOk9m3NPOCpW"
+      },
+      "artists": [
+        {
+          "name": "Semicolon",
+          "url": "https://open.spotify.com/artist/1MWKy0Hucv9MInRiOf0Duh"
+        },
+        {
+          "name": "Amanraj Gill",
+          "url": "https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "Bagdadi",
+      "url": "https://open.spotify.com/track/56kDXRd6Yy2w7034LaOwJN"
+    },
+    {
+      "added_at": "2024-07-19 06:25:03",
+      "album": {
         "name": "Matha Garam",
         "url": "https://open.spotify.com/album/0rUPO4MVsnME1dyAmmgHm9"
       },
@@ -815,22 +835,22 @@
     {
       "added_at": "2024-07-19 06:25:03",
       "album": {
-        "name": "Bagdadi",
-        "url": "https://open.spotify.com/album/54VGUtzXIowOk9m3NPOCpW"
+        "name": "Boon",
+        "url": "https://open.spotify.com/album/5SpdwWStrbkgR4WLedB7ih"
       },
       "artists": [
         {
-          "name": "Semicolon",
-          "url": "https://open.spotify.com/artist/1MWKy0Hucv9MInRiOf0Duh"
+          "name": "Sumit Parta",
+          "url": "https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr"
         },
         {
-          "name": "Amanraj Gill",
-          "url": "https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs"
+          "name": "Fakeer Music",
+          "url": "https://open.spotify.com/artist/3JRA310czJn79acuTTDetA"
         }
       ],
-      "duration_ms": 170526,
-      "name": "Bagdadi",
-      "url": "https://open.spotify.com/track/56kDXRd6Yy2w7034LaOwJN"
+      "duration_ms": 132923,
+      "name": "Jaat",
+      "url": "https://open.spotify.com/track/2yDrzP2riEk9nj0z94cJ4h"
     },
     {
       "added_at": "2024-07-19 06:25:03",
@@ -855,26 +875,6 @@
     {
       "added_at": "2024-07-19 06:25:03",
       "album": {
-        "name": "Boon",
-        "url": "https://open.spotify.com/album/5SpdwWStrbkgR4WLedB7ih"
-      },
-      "artists": [
-        {
-          "name": "Sumit Parta",
-          "url": "https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr"
-        },
-        {
-          "name": "Fakeer Music",
-          "url": "https://open.spotify.com/artist/3JRA310czJn79acuTTDetA"
-        }
-      ],
-      "duration_ms": 132923,
-      "name": "Jaat",
-      "url": "https://open.spotify.com/track/2yDrzP2riEk9nj0z94cJ4h"
-    },
-    {
-      "added_at": "2024-07-19 06:25:03",
-      "album": {
         "name": "Sheesha",
         "url": "https://open.spotify.com/album/3H2mp5opnTBnWbFYQlxEaT"
       },
@@ -887,30 +887,6 @@
       "duration_ms": 217674,
       "name": "Sheesha",
       "url": "https://open.spotify.com/track/0aFLaSo21GazAKoZDooDuc"
-    },
-    {
-      "added_at": "2024-07-19 06:25:03",
-      "album": {
-        "name": "Eyes 44",
-        "url": "https://open.spotify.com/album/4klfeFNyR2zuPf2r5r1Wns"
-      },
-      "artists": [
-        {
-          "name": "Billa Sonipat Ala",
-          "url": "https://open.spotify.com/artist/2meesqiC5l9NfNShrgP8Hf"
-        },
-        {
-          "name": "Jaya Rohilla",
-          "url": "https://open.spotify.com/artist/6hAMialSGkEoYb0eMtPjAH"
-        },
-        {
-          "name": "Deepty",
-          "url": "https://open.spotify.com/artist/6V0gxfUlhg6fOcQGEhcpel"
-        }
-      ],
-      "duration_ms": 177759,
-      "name": "Eyes 44",
-      "url": "https://open.spotify.com/track/1DFTaua4jLEU4XPDfYLAa2"
     },
     {
       "added_at": "2024-07-19 06:25:03",
@@ -935,6 +911,30 @@
       "duration_ms": 156000,
       "name": "Rao Sahab",
       "url": "https://open.spotify.com/track/0DcgGCxSsVkjNcjUz8FyrJ"
+    },
+    {
+      "added_at": "2024-07-19 06:25:03",
+      "album": {
+        "name": "Eyes 44",
+        "url": "https://open.spotify.com/album/4klfeFNyR2zuPf2r5r1Wns"
+      },
+      "artists": [
+        {
+          "name": "Billa Sonipat Ala",
+          "url": "https://open.spotify.com/artist/2meesqiC5l9NfNShrgP8Hf"
+        },
+        {
+          "name": "Jaya Rohilla",
+          "url": "https://open.spotify.com/artist/6hAMialSGkEoYb0eMtPjAH"
+        },
+        {
+          "name": "Deepty",
+          "url": "https://open.spotify.com/artist/6V0gxfUlhg6fOcQGEhcpel"
+        }
+      ],
+      "duration_ms": 177759,
+      "name": "Eyes 44",
+      "url": "https://open.spotify.com/track/1DFTaua4jLEU4XPDfYLAa2"
     },
     {
       "added_at": "2024-07-19 06:25:03",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-07-19 06:25:03",
       "album": {
-        "name": "Vampire",
-        "url": "https://open.spotify.com/album/5KI34lG871b5QkuNHKeIn1"
-      },
-      "artists": [
-        {
-          "name": "Miki Malang",
-          "url": "https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM"
-        }
-      ],
-      "duration_ms": 306750,
-      "name": "Vampire",
-      "url": "https://open.spotify.com/track/31olLVhKdDW291OezbnDZt"
-    },
-    {
-      "added_at": "2024-07-19 06:25:03",
-      "album": {
         "name": "32 Bore",
         "url": "https://open.spotify.com/album/5uneWMrAfrjpvrKOZ9nGdC"
       },
@@ -1455,18 +1439,34 @@
     {
       "added_at": "2024-07-19 06:25:03",
       "album": {
-        "name": "This is Haryana",
-        "url": "https://open.spotify.com/album/39lfhZMC6uszJC2VoB5XhH"
+        "name": "Vampire",
+        "url": "https://open.spotify.com/album/5KI34lG871b5QkuNHKeIn1"
       },
       "artists": [
         {
-          "name": "Badal",
-          "url": "https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp"
+          "name": "Miki Malang",
+          "url": "https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM"
         }
       ],
-      "duration_ms": 208563,
-      "name": "This is Haryana",
-      "url": "https://open.spotify.com/track/3K0HbRxcEZoPH7jE7VDltd"
+      "duration_ms": 306750,
+      "name": "Vampire",
+      "url": "https://open.spotify.com/track/31olLVhKdDW291OezbnDZt"
+    },
+    {
+      "added_at": "2024-07-19 06:25:03",
+      "album": {
+        "name": "Hukumat",
+        "url": "https://open.spotify.com/album/7DzYIOcztFH1kJLo5RoLxn"
+      },
+      "artists": [
+        {
+          "name": "Siddh",
+          "url": "https://open.spotify.com/artist/2O2zQMpJF97uRqphTsm7hV"
+        }
+      ],
+      "duration_ms": 231836,
+      "name": "Hukumat",
+      "url": "https://open.spotify.com/track/2Q9yt6YZuSSOwaWriqUX4o"
     },
     {
       "added_at": "2024-07-19 06:25:03",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2024-07-19 06:25:03",
       "album": {
-        "name": "Hukumat",
-        "url": "https://open.spotify.com/album/7DzYIOcztFH1kJLo5RoLxn"
+        "name": "This is Haryana",
+        "url": "https://open.spotify.com/album/39lfhZMC6uszJC2VoB5XhH"
       },
       "artists": [
         {
-          "name": "Siddh",
-          "url": "https://open.spotify.com/artist/2O2zQMpJF97uRqphTsm7hV"
+          "name": "Badal",
+          "url": "https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp"
         }
       ],
-      "duration_ms": 231836,
-      "name": "Hukumat",
-      "url": "https://open.spotify.com/track/2Q9yt6YZuSSOwaWriqUX4o"
+      "duration_ms": 208563,
+      "name": "This is Haryana",
+      "url": "https://open.spotify.com/track/3K0HbRxcEZoPH7jE7VDltd"
     },
     {
       "added_at": "2024-07-19 06:25:03",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2024-07-19 06:25:03",
       "album": {
-        "name": "Gangsta's Paradise",
-        "url": "https://open.spotify.com/album/4eSk46CTbXcbvV3qL9c9kX"
-      },
-      "artists": [
-        {
-          "name": "Irshad Khan",
-          "url": "https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4"
-        },
-        {
-          "name": "Sheenam Katholic",
-          "url": "https://open.spotify.com/artist/5GSBzF7y5fq4zb27LQ2jZY"
-        }
-      ],
-      "duration_ms": 216428,
-      "name": "Gangsta's Paradise",
-      "url": "https://open.spotify.com/track/6AXvpvF8WOv40zybrWNAGl"
-    },
-    {
-      "added_at": "2024-07-19 06:25:03",
-      "album": {
         "name": "Sarpanchi",
         "url": "https://open.spotify.com/album/6wRtFnB9JX7iH2NHgPiCNS"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 210000,
       "name": "Sarpanchi",
       "url": "https://open.spotify.com/track/1pOc0yVstj8V2BvK5UYgqw"
+    },
+    {
+      "added_at": "2024-07-19 06:25:03",
+      "album": {
+        "name": "Gangsta's Paradise",
+        "url": "https://open.spotify.com/album/4eSk46CTbXcbvV3qL9c9kX"
+      },
+      "artists": [
+        {
+          "name": "Irshad Khan",
+          "url": "https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4"
+        },
+        {
+          "name": "Sheenam Katholic",
+          "url": "https://open.spotify.com/artist/5GSBzF7y5fq4zb27LQ2jZY"
+        }
+      ],
+      "duration_ms": 216428,
+      "name": "Gangsta's Paradise",
+      "url": "https://open.spotify.com/track/6AXvpvF8WOv40zybrWNAGl"
     },
     {
       "added_at": "2024-07-19 06:25:03",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2024-07-19 06:25:03",
       "album": {
-        "name": "NANA NANA",
-        "url": "https://open.spotify.com/album/5OQwFjDhsHg0M7CuP82jSG"
-      },
-      "artists": [
-        {
-          "name": "Krackerr",
-          "url": "https://open.spotify.com/artist/2U0uKstdi6uiiPCjYL0Dm9"
-        },
-        {
-          "name": "Komal Choudhary",
-          "url": "https://open.spotify.com/artist/42TuhqUBzIpywk1h4QlUyT"
-        }
-      ],
-      "duration_ms": 168823,
-      "name": "NANA NANA",
-      "url": "https://open.spotify.com/track/02kpRLkAifubwinL5NGMAa"
-    },
-    {
-      "added_at": "2024-07-19 06:25:03",
-      "album": {
         "name": "No Love",
         "url": "https://open.spotify.com/album/47UPjlcNYUogBn5QUm7zFF"
       },
@@ -1723,18 +1703,42 @@
     {
       "added_at": "2024-07-19 06:25:03",
       "album": {
-        "name": "No Fake",
-        "url": "https://open.spotify.com/album/54xTuRGq24Av5cqavO8jmE"
+        "name": "NANA NANA",
+        "url": "https://open.spotify.com/album/5OQwFjDhsHg0M7CuP82jSG"
       },
       "artists": [
         {
-          "name": "Irshad Khan",
-          "url": "https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4"
+          "name": "Krackerr",
+          "url": "https://open.spotify.com/artist/2U0uKstdi6uiiPCjYL0Dm9"
+        },
+        {
+          "name": "Komal Choudhary",
+          "url": "https://open.spotify.com/artist/42TuhqUBzIpywk1h4QlUyT"
         }
       ],
-      "duration_ms": 194400,
-      "name": "No Fake",
-      "url": "https://open.spotify.com/track/6g9O3FKotfjT9rxqgNOTi2"
+      "duration_ms": 168823,
+      "name": "NANA NANA",
+      "url": "https://open.spotify.com/track/02kpRLkAifubwinL5NGMAa"
+    },
+    {
+      "added_at": "2024-07-19 06:25:03",
+      "album": {
+        "name": "Sneeze",
+        "url": "https://open.spotify.com/album/0i9EeZFCVSRa3FbSeLF64o"
+      },
+      "artists": [
+        {
+          "name": "Miki Malang",
+          "url": "https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM"
+        },
+        {
+          "name": "RP Singh",
+          "url": "https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ"
+        }
+      ],
+      "duration_ms": 256363,
+      "name": "Sneeze",
+      "url": "https://open.spotify.com/track/0ssV2OWkon59eAeR7gEpXZ"
     },
     {
       "added_at": "2024-07-19 06:25:03",
@@ -1763,22 +1767,18 @@
     {
       "added_at": "2024-07-19 06:25:03",
       "album": {
-        "name": "Sneeze",
-        "url": "https://open.spotify.com/album/0i9EeZFCVSRa3FbSeLF64o"
+        "name": "No Fake",
+        "url": "https://open.spotify.com/album/54xTuRGq24Av5cqavO8jmE"
       },
       "artists": [
         {
-          "name": "Miki Malang",
-          "url": "https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM"
-        },
-        {
-          "name": "RP Singh",
-          "url": "https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ"
+          "name": "Irshad Khan",
+          "url": "https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4"
         }
       ],
-      "duration_ms": 256363,
-      "name": "Sneeze",
-      "url": "https://open.spotify.com/track/0ssV2OWkon59eAeR7gEpXZ"
+      "duration_ms": 194400,
+      "name": "No Fake",
+      "url": "https://open.spotify.com/track/6g9O3FKotfjT9rxqgNOTi2"
     },
     {
       "added_at": "2024-07-19 06:25:03",
@@ -1947,26 +1947,6 @@
     {
       "added_at": "2024-07-19 06:25:03",
       "album": {
-        "name": "SIZE 7",
-        "url": "https://open.spotify.com/album/5qGFSr2mhi9DqliGs9CND1"
-      },
-      "artists": [
-        {
-          "name": "Muhfaad",
-          "url": "https://open.spotify.com/artist/5pqZ05b1zkz3er6iz4d4qr"
-        },
-        {
-          "name": "Yuvraj Vijay",
-          "url": "https://open.spotify.com/artist/352sCHXoSWFV41bH0rnVOZ"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "SIZE 7",
-      "url": "https://open.spotify.com/track/5auKuXhe69d48mUm6nzG84"
-    },
-    {
-      "added_at": "2024-07-19 06:25:03",
-      "album": {
         "name": "Desi Raag",
         "url": "https://open.spotify.com/album/0S2KO9ca9CcyNkmJO4c8kO"
       },
@@ -1987,6 +1967,26 @@
       "duration_ms": 164671,
       "name": "Desi Pavega",
       "url": "https://open.spotify.com/track/0yeaXNtt81sOxNFi8FmcQv"
+    },
+    {
+      "added_at": "2024-07-19 06:25:03",
+      "album": {
+        "name": "SIZE 7",
+        "url": "https://open.spotify.com/album/5qGFSr2mhi9DqliGs9CND1"
+      },
+      "artists": [
+        {
+          "name": "Muhfaad",
+          "url": "https://open.spotify.com/artist/5pqZ05b1zkz3er6iz4d4qr"
+        },
+        {
+          "name": "Yuvraj Vijay",
+          "url": "https://open.spotify.com/artist/352sCHXoSWFV41bH0rnVOZ"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "SIZE 7",
+      "url": "https://open.spotify.com/track/5auKuXhe69d48mUm6nzG84"
     }
   ],
   "unique_name": "Hip-Hop Haryanvi",

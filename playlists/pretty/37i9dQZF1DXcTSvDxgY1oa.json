@@ -243,22 +243,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Sirocco",
-        "url": "https://open.spotify.com/album/66n3hUwcOBU8vOzxkqu3J0"
-      },
-      "artists": [
-        {
-          "name": "Sirocco",
-          "url": "https://open.spotify.com/artist/2bsNvdyVIKezcGI4QxXdDd"
-        }
-      ],
-      "duration_ms": 262039,
-      "name": "Vientu",
-      "url": "https://open.spotify.com/track/3JBoHXPeA0muUhjDg34K3Z"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Sleep Tonight",
         "url": "https://open.spotify.com/album/4JnKXBHT1uPw2MzlfoxMbg"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 162559,
       "name": "Sleep Tonight",
       "url": "https://open.spotify.com/track/1f0VDcOFMOwde5xql7PRfc"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Sirocco",
+        "url": "https://open.spotify.com/album/66n3hUwcOBU8vOzxkqu3J0"
+      },
+      "artists": [
+        {
+          "name": "Sirocco",
+          "url": "https://open.spotify.com/artist/2bsNvdyVIKezcGI4QxXdDd"
+        }
+      ],
+      "duration_ms": 262039,
+      "name": "Vientu",
+      "url": "https://open.spotify.com/track/3JBoHXPeA0muUhjDg34K3Z"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -339,6 +339,22 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "Payback",
+        "url": "https://open.spotify.com/album/7k2jLfPPv0qYgpcg5B0mu9"
+      },
+      "artists": [
+        {
+          "name": "State Power",
+          "url": "https://open.spotify.com/artist/2ZksA5DzgDlR4hTXquufqU"
+        }
+      ],
+      "duration_ms": 142386,
+      "name": "Payback",
+      "url": "https://open.spotify.com/track/1H4PeFDmnt4QCRtJTVa7a0"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "That Day (Live At Wisseloord Studios)",
         "url": "https://open.spotify.com/album/5vhyyMG04e9SON9vlBJMKa"
       },
@@ -359,18 +375,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Payback",
-        "url": "https://open.spotify.com/album/7k2jLfPPv0qYgpcg5B0mu9"
+        "name": "Sleeptalk",
+        "url": "https://open.spotify.com/album/35KwhKnntqjExXWEOLiFZs"
       },
       "artists": [
         {
-          "name": "State Power",
-          "url": "https://open.spotify.com/artist/2ZksA5DzgDlR4hTXquufqU"
+          "name": "Dreamer",
+          "url": "https://open.spotify.com/artist/2ZtELmYTWzfnlVKkT0kJUk"
         }
       ],
-      "duration_ms": 142386,
-      "name": "Payback",
-      "url": "https://open.spotify.com/track/1H4PeFDmnt4QCRtJTVa7a0"
+      "duration_ms": 209109,
+      "name": "Sleeptalk",
+      "url": "https://open.spotify.com/track/1T70LLYXcqRucK2nLO2dLA"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -387,22 +403,6 @@
       "duration_ms": 174306,
       "name": "Bricks",
       "url": "https://open.spotify.com/track/6dM1vcolkt9ft1HNpCbIyJ"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "Sleeptalk",
-        "url": "https://open.spotify.com/album/35KwhKnntqjExXWEOLiFZs"
-      },
-      "artists": [
-        {
-          "name": "Dreamer",
-          "url": "https://open.spotify.com/artist/2ZtELmYTWzfnlVKkT0kJUk"
-        }
-      ],
-      "duration_ms": 209109,
-      "name": "Sleeptalk",
-      "url": "https://open.spotify.com/track/1T70LLYXcqRucK2nLO2dLA"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "jij praat. (blah blah blah)",
-        "url": "https://open.spotify.com/album/51jeR6roxJN0NW2ikwGOWM"
-      },
-      "artists": [
-        {
-          "name": "Lateesha",
-          "url": "https://open.spotify.com/artist/2x3xOxKdqWDBWDwnhHMaPm"
-        }
-      ],
-      "duration_ms": 155494,
-      "name": "jij praat. (blah blah blah)",
-      "url": "https://open.spotify.com/track/7d7Gbia7TnzFjpW758bhYx"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Partiyi Durdurun!",
         "url": "https://open.spotify.com/album/1HK4nensGYLHAAbUVUSX5k"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 205333,
       "name": "C\u0130N SODA",
       "url": "https://open.spotify.com/track/2GzyM29nYgdJOhfJHLA0sc"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "jij praat. (blah blah blah)",
+        "url": "https://open.spotify.com/album/51jeR6roxJN0NW2ikwGOWM"
+      },
+      "artists": [
+        {
+          "name": "Lateesha",
+          "url": "https://open.spotify.com/artist/2x3xOxKdqWDBWDwnhHMaPm"
+        }
+      ],
+      "duration_ms": 155494,
+      "name": "jij praat. (blah blah blah)",
+      "url": "https://open.spotify.com/track/7d7Gbia7TnzFjpW758bhYx"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Come On In",
-        "url": "https://open.spotify.com/album/05uzU3ddIhHgvA50dNfzXs"
-      },
-      "artists": [
-        {
-          "name": "Sonic Whip",
-          "url": "https://open.spotify.com/artist/2RydJze7DD9pybPixyXRan"
-        }
-      ],
-      "duration_ms": 209002,
-      "name": "Come On In",
-      "url": "https://open.spotify.com/track/68Zcn2RvSbtRhldSRDfxsF"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Inter-Minus-Net",
         "url": "https://open.spotify.com/album/01I1uWAPQFE4UEtc6Sbozf"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 173242,
       "name": "Inter-Minus-Net",
       "url": "https://open.spotify.com/track/5IPQOYGSBLF6pO2KNmcxvM"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Come On In",
+        "url": "https://open.spotify.com/album/05uzU3ddIhHgvA50dNfzXs"
+      },
+      "artists": [
+        {
+          "name": "Sonic Whip",
+          "url": "https://open.spotify.com/artist/2RydJze7DD9pybPixyXRan"
+        }
+      ],
+      "duration_ms": 209002,
+      "name": "Come On In",
+      "url": "https://open.spotify.com/track/68Zcn2RvSbtRhldSRDfxsF"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "Liever Lui Dan Moe",
+        "url": "https://open.spotify.com/album/7CM8TADIvf0PIttpNdeccU"
+      },
+      "artists": [
+        {
+          "name": "R\u00f8yking",
+          "url": "https://open.spotify.com/artist/1NtnritmdQdSfebKWpcJdp"
+        }
+      ],
+      "duration_ms": 150233,
+      "name": "Liever Lui Dan Moe",
+      "url": "https://open.spotify.com/track/3TXRQwgtqyRB4oQoOVNYb5"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "Maankind",
         "url": "https://open.spotify.com/album/14ScUgJJXyRXGLvgHmXxBm"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 173138,
       "name": "Blushing Over Nothing",
       "url": "https://open.spotify.com/track/05jB4DbQXCRTbtfhKHiJUl"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "Liever Lui Dan Moe",
-        "url": "https://open.spotify.com/album/7CM8TADIvf0PIttpNdeccU"
-      },
-      "artists": [
-        {
-          "name": "R\u00f8yking",
-          "url": "https://open.spotify.com/artist/1NtnritmdQdSfebKWpcJdp"
-        }
-      ],
-      "duration_ms": 150233,
-      "name": "Liever Lui Dan Moe",
-      "url": "https://open.spotify.com/track/3TXRQwgtqyRB4oQoOVNYb5"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Maar Verder Gaat Het Goed",
-        "url": "https://open.spotify.com/album/6YVWLc3C8jrD0HHczwN1lO"
-      },
-      "artists": [
-        {
-          "name": "So-Fi",
-          "url": "https://open.spotify.com/artist/6TIw842G1nVz2xEhU9YlBs"
-        }
-      ],
-      "duration_ms": 173506,
-      "name": "In M'n Hoofd",
-      "url": "https://open.spotify.com/track/2ky5w4vqqhH5g1V7oh7ouR"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Even later in de tuin",
         "url": "https://open.spotify.com/album/4kacum9sNlrE50wYFZJeG9"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 160611,
       "name": "Even later in de tuin",
       "url": "https://open.spotify.com/track/1EpMGlnDB4UuYIBNkdrenA"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Maar Verder Gaat Het Goed",
+        "url": "https://open.spotify.com/album/6YVWLc3C8jrD0HHczwN1lO"
+      },
+      "artists": [
+        {
+          "name": "So-Fi",
+          "url": "https://open.spotify.com/artist/6TIw842G1nVz2xEhU9YlBs"
+        }
+      ],
+      "duration_ms": 173506,
+      "name": "In M'n Hoofd",
+      "url": "https://open.spotify.com/track/2ky5w4vqqhH5g1V7oh7ouR"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Whirligig",
-        "url": "https://open.spotify.com/album/3hE04LDpNwaG2u29p15JbK"
-      },
-      "artists": [
-        {
-          "name": "Mo Bedick",
-          "url": "https://open.spotify.com/artist/5I603otxzNxlCw0YbgcqYE"
-        }
-      ],
-      "duration_ms": 227354,
-      "name": "Cemetery Caretaker",
-      "url": "https://open.spotify.com/track/5ddkfCxbjYNQptFpq7v5JV"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Black Beach",
         "url": "https://open.spotify.com/album/2beZWwj39t1TxNo76LzwUS"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 164750,
       "name": "I Can't Lie",
       "url": "https://open.spotify.com/track/0CLUGkolqLXfB2jtLYU4co"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Whirligig",
+        "url": "https://open.spotify.com/album/3hE04LDpNwaG2u29p15JbK"
+      },
+      "artists": [
+        {
+          "name": "Mo Bedick",
+          "url": "https://open.spotify.com/artist/5I603otxzNxlCw0YbgcqYE"
+        }
+      ],
+      "duration_ms": 227354,
+      "name": "Cemetery Caretaker",
+      "url": "https://open.spotify.com/track/5ddkfCxbjYNQptFpq7v5JV"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "the grand scheme of things",
-        "url": "https://open.spotify.com/album/779j4dby6PbXIkjin6ZaYe"
-      },
-      "artists": [
-        {
-          "name": "levi boon",
-          "url": "https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ"
-        }
-      ],
-      "duration_ms": 236117,
-      "name": "the grand scheme of things",
-      "url": "https://open.spotify.com/track/0I85pQRven0mpIXCVjxlmU"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Les Heures du Jour",
         "url": "https://open.spotify.com/album/4QyIqQYLvj7AXXBiZQ2Mzg"
       },
@@ -1435,6 +1419,22 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "the grand scheme of things",
+        "url": "https://open.spotify.com/album/779j4dby6PbXIkjin6ZaYe"
+      },
+      "artists": [
+        {
+          "name": "levi boon",
+          "url": "https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ"
+        }
+      ],
+      "duration_ms": 236117,
+      "name": "the grand scheme of things",
+      "url": "https://open.spotify.com/track/0I85pQRven0mpIXCVjxlmU"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "As Time Went By",
         "url": "https://open.spotify.com/album/4GE7rF9A8vD61Kuo8qEgKz"
       },
@@ -1447,6 +1447,22 @@
       "duration_ms": 204100,
       "name": "Again",
       "url": "https://open.spotify.com/track/5a75z8ZqnRb4a7LHD23fWi"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Shit / Verliefd",
+        "url": "https://open.spotify.com/album/0HnKzrvnp1QVtD0YzvhCe5"
+      },
+      "artists": [
+        {
+          "name": "Loen",
+          "url": "https://open.spotify.com/artist/4xz8GW1ZE8go3EZKeT5ZHp"
+        }
+      ],
+      "duration_ms": 165490,
+      "name": "Shit / Verliefd",
+      "url": "https://open.spotify.com/track/1M9FawBXdGyOwLZw2RHLVE"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1495,22 +1511,6 @@
       "duration_ms": 154000,
       "name": "Home Is Not a Place",
       "url": "https://open.spotify.com/track/4pmBo4y4Ri0ZxAxers3Ixa"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "Shit / Verliefd",
-        "url": "https://open.spotify.com/album/0HnKzrvnp1QVtD0YzvhCe5"
-      },
-      "artists": [
-        {
-          "name": "Loen",
-          "url": "https://open.spotify.com/artist/4xz8GW1ZE8go3EZKeT5ZHp"
-        }
-      ],
-      "duration_ms": 165490,
-      "name": "Shit / Verliefd",
-      "url": "https://open.spotify.com/track/1M9FawBXdGyOwLZw2RHLVE"
     },
     {
       "added_at": "2024-07-01 08:44:42",

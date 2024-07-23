@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: toe",
-  "num_followers": 286351,
+  "num_followers": 286380,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2024-07-16 15:02:21",
       "album": {
-        "name": "\u5fc3\u5909\u308f\u308a",
-        "url": "https://open.spotify.com/album/6TCrimUaueZD1u6QVlWHX3"
+        "name": "Magic Number",
+        "url": "https://open.spotify.com/album/2PrTH628OvzyS42j9yMMUy"
       },
       "artists": [
         {
-          "name": "indigo la End",
-          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
+          "name": "go!go!vanillas",
+          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
         }
       ],
-      "duration_ms": 223657,
-      "name": "\u5fc3\u5909\u308f\u308a",
-      "url": "https://open.spotify.com/track/2J3BzhevHS1UjZ5wHoboZd"
+      "duration_ms": 207213,
+      "name": "\u30a8\u30de",
+      "url": "https://open.spotify.com/track/3BcpM90O0BWj13cg439m5P"
     },
     {
       "added_at": "2024-07-16 15:02:21",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2024-07-16 15:02:21",
       "album": {
-        "name": "Magic Number",
-        "url": "https://open.spotify.com/album/2PrTH628OvzyS42j9yMMUy"
+        "name": "\u5fc3\u5909\u308f\u308a",
+        "url": "https://open.spotify.com/album/6TCrimUaueZD1u6QVlWHX3"
       },
       "artists": [
         {
-          "name": "go!go!vanillas",
-          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
+          "name": "indigo la End",
+          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
         }
       ],
-      "duration_ms": 207213,
-      "name": "\u30a8\u30de",
-      "url": "https://open.spotify.com/track/3BcpM90O0BWj13cg439m5P"
+      "duration_ms": 223657,
+      "name": "\u5fc3\u5909\u308f\u308a",
+      "url": "https://open.spotify.com/track/2J3BzhevHS1UjZ5wHoboZd"
     },
     {
       "added_at": "2024-07-16 15:02:21",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-07-16 15:02:21",
       "album": {
-        "name": "\u8d16\u7f6a",
-        "url": "https://open.spotify.com/album/7dlmEwKRp2afa4Le7CKQ2f"
-      },
-      "artists": [
-        {
-          "name": "SID",
-          "url": "https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE"
-        }
-      ],
-      "duration_ms": 237176,
-      "name": "\u8d16\u7f6a",
-      "url": "https://open.spotify.com/track/5nCNu4qC9WoVK5RLkvNJEL"
-    },
-    {
-      "added_at": "2024-07-16 15:02:21",
-      "album": {
         "name": "\u3044\u3051\u306a\u3044fool logic",
         "url": "https://open.spotify.com/album/2FGXwd9HF1RNw7C3XIQLW4"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 255000,
       "name": "\u3044\u3051\u306a\u3044fool logic",
       "url": "https://open.spotify.com/track/7bssqLtlFKC3DZXoUCzsAo"
+    },
+    {
+      "added_at": "2024-07-16 15:02:21",
+      "album": {
+        "name": "\u8d16\u7f6a",
+        "url": "https://open.spotify.com/album/7dlmEwKRp2afa4Le7CKQ2f"
+      },
+      "artists": [
+        {
+          "name": "SID",
+          "url": "https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE"
+        }
+      ],
+      "duration_ms": 237176,
+      "name": "\u8d16\u7f6a",
+      "url": "https://open.spotify.com/track/5nCNu4qC9WoVK5RLkvNJEL"
     },
     {
       "added_at": "2024-07-16 15:02:21",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2024-07-16 15:02:21",
       "album": {
+        "name": "\u30b1\u30e2\u30ce\u30df\u30c1",
+        "url": "https://open.spotify.com/album/0klgJfPMllexvhss9c816Z"
+      },
+      "artists": [
+        {
+          "name": "Mr.Children",
+          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
+        }
+      ],
+      "duration_ms": 238543,
+      "name": "\u30b1\u30e2\u30ce\u30df\u30c1",
+      "url": "https://open.spotify.com/track/4lpFErPc45W6HYnpoaxCdl"
+    },
+    {
+      "added_at": "2024-07-16 15:02:21",
+      "album": {
         "name": "KANASHIBARI",
         "url": "https://open.spotify.com/album/68Sl0rwtjcl6UdxKGjFy6X"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 297692,
       "name": "KANASHIBARI",
       "url": "https://open.spotify.com/track/4zJEGkmkmA4orRkMdzimRu"
-    },
-    {
-      "added_at": "2024-07-16 15:02:21",
-      "album": {
-        "name": "\u30b1\u30e2\u30ce\u30df\u30c1",
-        "url": "https://open.spotify.com/album/0klgJfPMllexvhss9c816Z"
-      },
-      "artists": [
-        {
-          "name": "Mr.Children",
-          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
-        }
-      ],
-      "duration_ms": 238543,
-      "name": "\u30b1\u30e2\u30ce\u30df\u30c1",
-      "url": "https://open.spotify.com/track/4lpFErPc45W6HYnpoaxCdl"
     }
   ],
   "unique_name": "Big in Japan",

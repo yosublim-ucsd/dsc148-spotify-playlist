@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABNhuU9w6EAxJNiSzKrT1jQ",
+  "snapshot_id": "AAAAAAAAAAAp+JO6Br/YTtGpF2NEf1FW",
   "tracks": [
     {
       "added_at": "2024-07-19 04:00:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "A Bar Song (Tipsy)",
-        "url": "https://open.spotify.com/album/3NOo89RhpGQUHGWEhvE8jc"
-      },
-      "artists": [
-        {
-          "name": "Black Alley",
-          "url": "https://open.spotify.com/artist/4O7xE3mpAOnolHQovF4C2R"
-        }
-      ],
-      "duration_ms": 204545,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/221anSbYZzWbghtK9h3usE"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Survival (Version)",
         "url": "https://open.spotify.com/album/4JoNOt6JilkkOThzeCD5EA"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 264008,
       "name": "Survival - Version",
       "url": "https://open.spotify.com/track/0sEPFptPf88s08tCIIXEwj"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/3NOo89RhpGQUHGWEhvE8jc"
+      },
+      "artists": [
+        {
+          "name": "Black Alley",
+          "url": "https://open.spotify.com/artist/4O7xE3mpAOnolHQovF4C2R"
+        }
+      ],
+      "duration_ms": 204545,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/221anSbYZzWbghtK9h3usE"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -243,6 +243,26 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Match My Freak EP",
+        "url": "https://open.spotify.com/album/0HT5IJZmpesl8X28KSBPbq"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 182643,
+      "name": "Nasty - Match My Chic Remix",
+      "url": "https://open.spotify.com/track/7wknfJIi6OkDZPt0iE5rhh"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/5UHRbkgIGjmLQspuigKh3R"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 574634,
       "name": "One (feat. Robert Trujillo) - Instrumental",
       "url": "https://open.spotify.com/track/43qcGBcVT8wz2ntoS625vP"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "DONNY DARKO (FEAT. LIL UZI VERT)",
-        "url": "https://open.spotify.com/album/0pUFmRt9tTZudRD8r75iJX"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 116733,
-      "name": "DONNY DARKO (FEAT. LIL UZI VERT)",
-      "url": "https://open.spotify.com/track/1Y000V7yKx4BYYAFs3BwZ8"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -351,30 +351,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "War (feat. Ari Lennox & Jeremih)",
-        "url": "https://open.spotify.com/album/3tR4PWPHf5CdhFbXUJ3AyV"
-      },
-      "artists": [
-        {
-          "name": "Camper",
-          "url": "https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 142799,
-      "name": "War (feat. Ari Lennox & Jeremih)",
-      "url": "https://open.spotify.com/track/4q2nRKWOSBH1IFp4EK1n3w"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "COSM",
         "url": "https://open.spotify.com/album/53GnrSyRkPcoG4Irsno3sp"
       },
@@ -399,6 +375,30 @@
       "duration_ms": 243691,
       "name": "Disgusted",
       "url": "https://open.spotify.com/track/4uaaWQL4XikhR7IXyLEXmB"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "War (feat. Ari Lennox & Jeremih)",
+        "url": "https://open.spotify.com/album/3tR4PWPHf5CdhFbXUJ3AyV"
+      },
+      "artists": [
+        {
+          "name": "Camper",
+          "url": "https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 142799,
+      "name": "War (feat. Ari Lennox & Jeremih)",
+      "url": "https://open.spotify.com/track/4q2nRKWOSBH1IFp4EK1n3w"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Too Shy to Say (Cover)",
-        "url": "https://open.spotify.com/album/0wruphfbmn62MPOK8jjljf"
-      },
-      "artists": [
-        {
-          "name": "Josh Augustin",
-          "url": "https://open.spotify.com/artist/2dYrni0Ip1lY2KYPzwCCVW"
-        }
-      ],
-      "duration_ms": 146109,
-      "name": "Too Shy to Say - Cover",
-      "url": "https://open.spotify.com/track/73V9aIv4o4f5Zq8x3EOA5H"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Key103",
         "url": "https://open.spotify.com/album/449cSwxW2mczsRKAV8BetQ"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 236764,
       "name": "Key103 [a56 edit]",
       "url": "https://open.spotify.com/track/56fuQi8Bld3J8Jwkw8Hc08"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Too Shy to Say (Cover)",
+        "url": "https://open.spotify.com/album/0wruphfbmn62MPOK8jjljf"
+      },
+      "artists": [
+        {
+          "name": "Josh Augustin",
+          "url": "https://open.spotify.com/artist/2dYrni0Ip1lY2KYPzwCCVW"
+        }
+      ],
+      "duration_ms": 146109,
+      "name": "Too Shy to Say - Cover",
+      "url": "https://open.spotify.com/track/73V9aIv4o4f5Zq8x3EOA5H"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -560,13 +560,17 @@
           "url": "https://open.spotify.com/artist/7oY5aVgPka3wkrI9dKAqoy"
         },
         {
+          "name": "WBE Juss Glo",
+          "url": "https://open.spotify.com/artist/6OxxQhS2LqyRL694MD1Drp"
+        },
+        {
           "name": "Syd",
           "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
         }
       ],
-      "duration_ms": 190899,
-      "name": "Lalala",
-      "url": "https://open.spotify.com/track/5yPkN7zDHG6n2njMWGimiB"
+      "duration_ms": 222502,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5U7jEnlwRG0C8Z1pKMvKpd"
     },
     {
       "added_at": "2024-07-19 04:00:00",

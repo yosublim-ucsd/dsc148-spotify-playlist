@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Hi Nanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,459 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,577 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,12 +65,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 55 | [Pareshanura](https://open.spotify.com/track/0UipbyZ94eKrCm1Vcydvl3) | [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk), [Vishnupriya Ravi](https://open.spotify.com/artist/0znqmX3tzZ55FFTmlffAlv) | [Dhruva](https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM) | 3:13 |
 | 56 | [Choolenge Aasma](https://open.spotify.com/track/3RyfIFxOrHLJV3reR37Xwr) | [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [Veena Ghantasala](https://open.spotify.com/artist/79q31PNsYAnl0QN4doZFFp) | [Temper](https://open.spotify.com/album/64aQTxaAVppQw0m5qSkzvS) | 4:10 |
 | 57 | [Yevandoi Nani Garu](https://open.spotify.com/track/6WCH22y0yjBbL1Vyuf0E9g) | [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk) | [MCA](https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN) | 3:24 |
-| 58 | [Bullet](https://open.spotify.com/track/1xKzEU01wRyVEHhJvXPTP5) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [George Reddy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6cyAwiu1CjIippC8RQ9rwT) | 3:26 |
-| 59 | [Emitemitemo](https://open.spotify.com/track/3ZasHIQ1l7tCYqxnebFOsK) | [Alphonse](https://open.spotify.com/artist/1GRV7IB2LNWKCdG46tsKgT) | [Arjun Reddy](https://open.spotify.com/album/1tqm6TOZEJfsjJagQPFbyd) | 3:23 |
-| 60 | [Ee Raathale](https://open.spotify.com/track/77feKtBcyhRv4SE2u6dd9R) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Harini Ivaturi](https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI) | [Radhe Shyam](https://open.spotify.com/album/0oqXFsTVJInCqJJJAn7wel) | 3:52 |
-| 61 | [Gulabi Kallu Rendu Mullu](https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Govindudu Andarivaadele](https://open.spotify.com/album/6IKZJLQIyKWHYk9iarEI0W) | 4:24 |
+| 58 | [Emitemitemo](https://open.spotify.com/track/3ZasHIQ1l7tCYqxnebFOsK) | [Alphonse](https://open.spotify.com/artist/1GRV7IB2LNWKCdG46tsKgT) | [Arjun Reddy](https://open.spotify.com/album/1tqm6TOZEJfsjJagQPFbyd) | 3:23 |
+| 59 | [Bullet](https://open.spotify.com/track/1xKzEU01wRyVEHhJvXPTP5) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [George Reddy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6cyAwiu1CjIippC8RQ9rwT) | 3:26 |
+| 60 | [Gulabi Kallu Rendu Mullu](https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Govindudu Andarivaadele](https://open.spotify.com/album/6IKZJLQIyKWHYk9iarEI0W) | 4:24 |
+| 61 | [Kanulanu Thaake](https://open.spotify.com/track/4IoL5eSdPTk44UjQf0fk4m) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Manam](https://open.spotify.com/album/2FqMc3pSul2960B7WyO4hl) | 4:54 |
 | 62 | [Yenno Yenno](https://open.spotify.com/track/6jaQom4BBYEoylc4NSMcga) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Malli Malli Idi Rani Roju](https://open.spotify.com/album/53U9SGBZng53hsthxE6cP7) | 4:31 |
-| 63 | [Kanulanu Thaake](https://open.spotify.com/track/4IoL5eSdPTk44UjQf0fk4m) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Manam](https://open.spotify.com/album/2FqMc3pSul2960B7WyO4hl) | 4:54 |
+| 63 | [Ee Raathale](https://open.spotify.com/track/77feKtBcyhRv4SE2u6dd9R) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Harini Ivaturi](https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI) | [Radhe Shyam](https://open.spotify.com/album/0oqXFsTVJInCqJJJAn7wel) | 3:52 |
 | 64 | [Jala Jala Jalapaatham Nuvvu](https://open.spotify.com/track/3NF3c438tAguEcWvU4b5iA) | [Jaspreet Jasz , Shreya Ghoshal](https://open.spotify.com/artist/0SrOoISCcqWMq27CrEA5vo) | [Uppena](https://open.spotify.com/album/4ug7KdJJ2CVG5fANdZbzHM) | 4:12 |
 | 65 | [Vachinde](https://open.spotify.com/track/7KkaBto4aewGt8wl6q6wxH) | [Madhu Priya](https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY), [Ramky](https://open.spotify.com/artist/0T6ky5WnBqEazCMELEcQbn) | [Fidaa](https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh) | 5:24 |
 | 66 | [Kaanunna Kalyanam \(From "Sita Ramam \(Telugu\)"\)](https://open.spotify.com/track/3eH3HTKPBmxvbT7OgxjNit) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO) | [Kaanunna Kalyanam \[From "Sita Ramam \(Telugu\)"\]](https://open.spotify.com/album/36D0e4dKu2Sf7M4CR61bI6) | 3:52 |

@@ -89,6 +89,50 @@
     },
     {
       "album": {
+        "name": "Alibi (with Pabllo Vittar & Yseult)",
+        "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161655,
+      "name": "Alibi (with Pabllo Vittar & Yseult)",
+      "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
+    },
+    {
+      "album": {
+        "name": "Annyi mindent nem szerettem m\u00e9g",
+        "url": "https://open.spotify.com/album/3shn8v1zV4pnYK4RiBnknI"
+      },
+      "artists": [
+        {
+          "name": "Halott P\u00e9nz",
+          "url": "https://open.spotify.com/artist/0Hir00e5sSBEH8WqOmvi8h"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151547,
+      "name": "Annyi mindent nem szerettem m\u00e9g",
+      "url": "https://open.spotify.com/track/5PKL3Pdw7cEm8LYOiPiY19"
+    },
+    {
+      "album": {
         "name": "Ap\u00e1ly",
         "url": "https://open.spotify.com/album/1Mh4B5kMXU35AexkEjOlSX"
       },
@@ -220,7 +264,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 259051,
       "name": "BOCS",
       "url": "https://open.spotify.com/track/2FQJjGenDT2XajHMOHvFCs"
@@ -464,6 +508,50 @@
       "duration_ms": 160218,
       "name": "Europapa",
       "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
+    },
+    {
+      "album": {
+        "name": "Eyvallah",
+        "url": "https://open.spotify.com/album/5SiC3rTRbWG81miyo2hBOd"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw"
+        },
+        {
+          "name": "Kretz",
+          "url": "https://open.spotify.com/artist/3ntgx2xQPmbD4cj0YFGTxd"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Eyvallah",
+      "url": "https://open.spotify.com/track/63MWrqm4IMXOriLBlDS1zO"
+    },
+    {
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191700,
+      "name": "FE!N (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
       "album": {
@@ -1164,7 +1252,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 208000,
       "name": "M\u00e1r nem sz\u00e9d\u00fcl\u00f6k",
       "url": "https://open.spotify.com/track/5cp1amsVOYe2HFbiaezm4B"
@@ -1361,6 +1449,28 @@
     },
     {
       "album": {
+        "name": "NINCS HOLNAP",
+        "url": "https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd"
+      },
+      "artists": [
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        },
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130679,
+      "name": "PROSECCO",
+      "url": "https://open.spotify.com/track/6iiW35hSlD0H9AAWpcv9Ii"
+    },
+    {
+      "album": {
         "name": "CARPE DIEM",
         "url": "https://open.spotify.com/album/68gj4MmytrI8exdgfjhWzb"
       },
@@ -1526,7 +1636,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 152658,
       "name": "Sivatag",
       "url": "https://open.spotify.com/track/5qaOxpSVzbHHSF4J7yyBKS"
@@ -1548,7 +1658,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 213600,
       "name": "SOFIA COPPOLA",
       "url": "https://open.spotify.com/track/1LuXPfE3lgAzS8w5IcHAbL"
@@ -1720,7 +1830,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 171874,
       "name": "Sz\u00e9p L\u00e1ny",
       "url": "https://open.spotify.com/track/6LrZ0IvJFl2LcMPluO7InI"
@@ -1756,7 +1866,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 148554,
       "name": "Testmozg\u00e1s",
       "url": "https://open.spotify.com/track/2vpUDe9FJz3O757cPbnrcX"
@@ -1960,6 +2070,28 @@
       "duration_ms": 199183,
       "name": "\u00dagy Hiszem",
       "url": "https://open.spotify.com/track/2zIijzos3rNY6DkvX2ZYDX"
+    },
+    {
+      "album": {
+        "name": "A b\u00e1lban",
+        "url": "https://open.spotify.com/album/0x89eDYKFXBDebJqzTyt5b"
+      },
+      "artists": [
+        {
+          "name": "Mehringer",
+          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
+        },
+        {
+          "name": "sosehol",
+          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "\u00fagy unom",
+      "url": "https://open.spotify.com/track/0h3Ua52yOapva267D0QoQw"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXd8ptjXuKXfB"

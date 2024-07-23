@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Klô Pelgag
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,348 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,351 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,21 +41,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 31 | [CŒUR DE ICE](https://open.spotify.com/track/1KPuYzyP2wKwFXQEF1voqj) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [CŒUR DE ICE](https://open.spotify.com/album/16q1SBIfIoTnp6jxlRugUe) | 3:24 |
 | 32 | [Un peu d'amour](https://open.spotify.com/track/2S8Mp8yS3W4tDlxpj0sCbY) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Un peu d'amour](https://open.spotify.com/album/0eUrSSgOBnidKw4sviTK7x) | 3:03 |
 | 33 | [Shayo](https://open.spotify.com/track/2e7qqQ8MkLa0h5xmHL5cso) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [LVDR](https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1) | 2:41 |
-| 34 | [Chaque seconde](https://open.spotify.com/track/5QKXM4zRBrVzofZJxlO5tL) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde](https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm) | 2:46 |
-| 35 | [HÉHÉ HÉ](https://open.spotify.com/track/1C4PROiF5jENfbksRBTTqD) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [HÉHÉ HÉ](https://open.spotify.com/album/5Ja9Da9rK2h6NwaMSe9Eor) | 2:18 |
+| 34 | [HÉHÉ HÉ](https://open.spotify.com/track/1C4PROiF5jENfbksRBTTqD) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [HÉHÉ HÉ](https://open.spotify.com/album/5Ja9Da9rK2h6NwaMSe9Eor) | 2:18 |
+| 35 | [Chaque seconde](https://open.spotify.com/track/5QKXM4zRBrVzofZJxlO5tL) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde](https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm) | 2:46 |
 | 36 | [PAF](https://open.spotify.com/track/2RGG3LWnqjEHpplIkieJqP) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [MB](https://open.spotify.com/artist/2TDTS5K5hN0lAyfOOKIkoe) | [PAF](https://open.spotify.com/album/6pgypgF6c5yIrfmQ099g8x) | 2:52 |
 | 37 | [Résister \(What about Peace?\)](https://open.spotify.com/track/46fePeAZ2ui3QHDoGxpDMx) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Résister \(What about Peace?\)](https://open.spotify.com/album/3lrK6iynnWj1oO1fONiQ9I) | 3:10 |
 | 38 | [Tout y est](https://open.spotify.com/track/1W2zRAejDGNLqtqXpcrhVw) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [Jozii](https://open.spotify.com/artist/1nDtmYJmQcZEXU56pz5R9d) | [Tout y est](https://open.spotify.com/album/245xn3XplCs6PHCiBk3dBU) | 2:47 |
-| 39 | [YOMB](https://open.spotify.com/track/6NLolWRVPfmvKKmDpTgPZT) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [DLPDA](https://open.spotify.com/album/2qF7voJS33g9r7USnQa0AT) | 2:50 |
-| 40 | [Freestyle BMF \#1](https://open.spotify.com/track/3Jys0zVvXhlgf0MVAcj9ji) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Freestyle BMF \#1](https://open.spotify.com/album/7HFPAZo4QBzKQ7AbwxUxnn) | 2:56 |
+| 39 | [Pas Comme Ça](https://open.spotify.com/track/5Os3fdIL2QS2e1r6JzMrjQ) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [D&D](https://open.spotify.com/album/7EznJ3BjBGXxRgNSC6n610) | 3:17 |
+| 40 | [YOMB](https://open.spotify.com/track/6NLolWRVPfmvKKmDpTgPZT) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [DLPDA](https://open.spotify.com/album/2qF7voJS33g9r7USnQa0AT) | 2:50 |
 | 41 | [Le chant des cygnes \- Single Version](https://open.spotify.com/track/76cAQOMWaqiRAoi6SgggNo) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Le chant des cygnes](https://open.spotify.com/album/66tfL8ySR7cx4YAlGo54a3) | 3:37 |
-| 42 | [La pluie](https://open.spotify.com/track/1xNEjz5Wfhb5ApOMN0Xr8Q) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [La pluie](https://open.spotify.com/album/13N4j77R6XsNHGwwtl6npd) | 2:41 |
-| 43 | [Solide](https://open.spotify.com/track/19WSNgI0RNwB8zcXaomnpF) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Solide](https://open.spotify.com/album/1HIdu8IIaYSb5awkKL4Md8) | 2:15 |
-| 44 | [Si ça va](https://open.spotify.com/track/3qL5wlh5GaEKam28diqZo9) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Imad](https://open.spotify.com/album/2JQGzY8aNTwefM5JBoL5M7) | 3:04 |
-| 45 | [Bene](https://open.spotify.com/track/08a2Ve5gCAmvSomD1m2DJB) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Par nous\-mêmes](https://open.spotify.com/album/2X5USMHX1pApuSt0JIRrjA) | 3:13 |
-| 46 | [Pas Comme Ça](https://open.spotify.com/track/5Os3fdIL2QS2e1r6JzMrjQ) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [D&D](https://open.spotify.com/album/7EznJ3BjBGXxRgNSC6n610) | 3:17 |
-| 47 | [Play](https://open.spotify.com/track/3aLBTbiSEgxDPn3FvVghCD) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Play](https://open.spotify.com/album/535W2Yy9YCZeKqefhEMyM0) | 3:28 |
-| 48 | [Monaco](https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Monaco](https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT) | 2:21 |
+| 42 | [Bene](https://open.spotify.com/track/08a2Ve5gCAmvSomD1m2DJB) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Par nous\-mêmes](https://open.spotify.com/album/2X5USMHX1pApuSt0JIRrjA) | 3:13 |
+| 43 | [La pluie](https://open.spotify.com/track/1xNEjz5Wfhb5ApOMN0Xr8Q) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [La pluie](https://open.spotify.com/album/13N4j77R6XsNHGwwtl6npd) | 2:41 |
+| 44 | [Freestyle BMF \#1](https://open.spotify.com/track/3Jys0zVvXhlgf0MVAcj9ji) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Freestyle BMF \#1](https://open.spotify.com/album/7HFPAZo4QBzKQ7AbwxUxnn) | 2:56 |
+| 45 | [Solide](https://open.spotify.com/track/19WSNgI0RNwB8zcXaomnpF) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Solide](https://open.spotify.com/album/1HIdu8IIaYSb5awkKL4Md8) | 2:15 |
+| 46 | [Si ça va](https://open.spotify.com/track/3qL5wlh5GaEKam28diqZo9) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Imad](https://open.spotify.com/album/2JQGzY8aNTwefM5JBoL5M7) | 3:04 |
+| 47 | [Monaco](https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Monaco](https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT) | 2:21 |
+| 48 | [Play](https://open.spotify.com/track/3aLBTbiSEgxDPn3FvVghCD) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Play](https://open.spotify.com/album/535W2Yy9YCZeKqefhEMyM0) | 3:28 |
 | 49 | [Ton regard](https://open.spotify.com/track/4FrlgpyAzw4a3gErecQqUO) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Ton regard](https://open.spotify.com/album/1988pIjDPXPRwSLJQHIKvH) | 2:33 |
 | 50 | [Bandito](https://open.spotify.com/track/3H6npmJown5S3sDn3cbWDh) | [Sasso](https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [VICE CITY](https://open.spotify.com/album/7dww12XouIt2bytCWNRoBp) | 2:42 |
 

@@ -4,7 +4,7 @@
 
 > Nuevos temas de géneros tropicales\. Foto: Lasso, Sofia Reyes
 
-2,629 songs - 6 day 9 hr 37 min
+2,630 songs - 6 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1380,6 +1380,7 @@
 | [Me Dominas](https://open.spotify.com/track/4tziPpkf86KRVF89XUS5lq) | [J Salez](https://open.spotify.com/artist/1k9LH8hJGdjr23xa8Gu7zU), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Me Dominas](https://open.spotify.com/album/02h5fBXUJRgppIC9yuvJVG) | 3:13 | 2024-02-23 | 2024-03-02 |
 | [Me Duele \- Remix](https://open.spotify.com/track/0a0JLEXyAPnGGYjXaeoKnc) | [Rodry\-Go!](https://open.spotify.com/artist/0It4ViJPDNNNXkK7u899xV), [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS), [DJ Paso](https://open.spotify.com/artist/2dOyCw1LXxFFT3UDNJhKIm) | [Me Duele \(Remix\)](https://open.spotify.com/album/56jdCrkHHIcwQQUZIxLJwh) | 3:21 | 2024-02-16 | 2024-02-24 |
 | [Me Duele Perderte](https://open.spotify.com/track/6s4GOG6jGfsyUOOKeelV0K) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1), [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [Me Duele Perderte](https://open.spotify.com/album/3BqsWVIzgYY6zpj9MNoyWw) | 3:48 | 2024-05-24 | 2024-06-01 |
+| [ME DUELE TU TRAICIÓN](https://open.spotify.com/track/6HegiTRemAAx7CN8tHqRta) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [ME DUELE TU TRAICIÓN](https://open.spotify.com/album/30DgBlS7pFZFRnkbum26E8) | 3:32 | 2024-07-22 |  |
 | [Me Elijo a Mi](https://open.spotify.com/track/7etcM3Fw35faeKppqLGKUp) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Me Elijo a Mi](https://open.spotify.com/album/7r0BC5odLpajUFg2nj6Zgu) | 3:19 | 2024-07-05 | 2024-07-13 |
 | [Me Emborrachare 2.0](https://open.spotify.com/track/6c8Gwt0ij9Rbvke8udngu2) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [Me Emborrachare 2.0](https://open.spotify.com/album/3ddXtm9b4eieMqoIR6xB8d) | 2:58 | 2023-06-30 | 2023-07-15 |
 | [Me Enamoras](https://open.spotify.com/track/0Qdc4YUPzYT6BPbiZtvNWK) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Me Enamoras](https://open.spotify.com/album/6is5nmGaAdVgAZTMFDiTPQ) | 3:22 | 2022-09-23 | 2022-10-08 |
@@ -2145,7 +2146,7 @@
 | [Sin Tu Amor](https://open.spotify.com/track/3fWAe3mBB6PfCMGocEiwbl) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Sin Tu Amor](https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla) | 2:41 | 2023-02-03 | 2023-02-25 |
 | [Sin Valentín](https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Sin Valentín](https://open.spotify.com/album/1ZPwG0m0QpSpsPKcmqAJdj) | 2:41 | 2024-02-16 | 2024-03-09 |
 | [Sintonía de Amor \- En Vivo](https://open.spotify.com/track/4Itb8t7D0uFYfQ0xOjfOHF) | [Sonido Caracol](https://open.spotify.com/artist/2QoRWNLJ6A9M8f9F0ovGcM), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Sintonía de Amor \(En Vivo\)](https://open.spotify.com/album/6Tm8kJ7OoHQqSBB99GuhXr) | 4:06 | 2023-01-27 | 2023-02-18 |
-| [SINVERGÜENZA \- con Angela Torres](https://open.spotify.com/track/2xbH0CuDbid800YW5nMPzR) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [SINVERGÜENZA \- con Angela Torres](https://open.spotify.com/album/2j4yf0X00zieL424k90UVn) | 3:37 | 2023-12-08 |  |
+| [SINVERGÜENZA \- con Angela Torres](https://open.spotify.com/track/2xbH0CuDbid800YW5nMPzR) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [SINVERGÜENZA \- con Angela Torres](https://open.spotify.com/album/2j4yf0X00zieL424k90UVn) | 3:37 | 2023-12-08 | 2024-07-23 |
 | [SNDA](https://open.spotify.com/track/0ZVqhn9lLVVj0tcGSVjw3i) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Camaleónica](https://open.spotify.com/album/1lEuD7jDpzBax13ZBhuMUk) | 4:34 | 2024-03-08 | 2024-03-16 |
 | [Sobrio](https://open.spotify.com/track/2s6Msf6JuH7rQP6QauANU1) | [El Arrebato](https://open.spotify.com/artist/56C261PgvMlf0QxmFlRLRg) | [Sobrio](https://open.spotify.com/album/2jREwOReGpbsTX3sTyPyas) | 3:41 | 2022-08-05 | 2022-08-13 |
 | [Sol Negro](https://open.spotify.com/track/0xV04jMTXZmX6k7TXzgk2J) | [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm) | [Sol Negro](https://open.spotify.com/album/2hro2XPX4iGmQ8NJUakyAq) | 4:25 | 2024-04-19 | 2024-04-27 |

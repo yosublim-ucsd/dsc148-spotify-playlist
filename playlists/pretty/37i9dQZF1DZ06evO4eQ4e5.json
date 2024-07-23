@@ -1,12 +1,12 @@
 {
-  "description": "This Is Edith M\u00e1rquez. Los temas esenciales, todos en una lista.",
-  "num_followers": 80481,
+  "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
+  "num_followers": 80499,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpr+AAAAAADFkJzoOZpFGOPJc9HQnKC+",
+  "snapshot_id": "ZpxPgAAAAACCOqXcZzDVbUHKDAKVZYHi",
   "tracks": [
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Mejores Baladas del Pop",
-        "url": "https://open.spotify.com/album/7ypiEzpdXi5pktXBFnHUe0"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 258986,
-      "name": "Tengo todo excepto a ti",
-      "url": "https://open.spotify.com/track/5qJbSTfXbnkzXnoFPNGCXG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/5WunOHdzIYAbG6uu6sFlWL"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 199880,
       "name": "Vas A Llorar",
       "url": "https://open.spotify.com/track/65YAbcxJjJ2nHGCgS4Cyw8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Mejores Baladas del Pop",
+        "url": "https://open.spotify.com/album/7ypiEzpdXi5pktXBFnHUe0"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 258986,
+      "name": "Tengo todo excepto a ti",
+      "url": "https://open.spotify.com/track/5qJbSTfXbnkzXnoFPNGCXG"
     },
     {
       "added_at": null,

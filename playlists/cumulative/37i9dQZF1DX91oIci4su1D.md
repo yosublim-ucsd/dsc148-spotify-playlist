@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-942 songs - 2 day 9 hr 0 min
+943 songs - 2 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Do You Feel So Right](https://open.spotify.com/track/2D5qj1qPzpj1sJjou8WZhk) | [Pinball](https://open.spotify.com/artist/7qfKjRGrO1By4TujWvUA8F), [Pulsedriver](https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp) | [Do You Feel So Right](https://open.spotify.com/album/0SNZo59K6w2X2iIgYyopWQ) | 2:35 | 2023-02-03 | 2023-05-20 |
 | [Do You Want Me](https://open.spotify.com/track/5GXT1Qz6oMmvJalrPntZ4b) | [John Grand](https://open.spotify.com/artist/0aEdRQpkXFx1g2GwRfJgTy) | [Do You Want Me](https://open.spotify.com/album/5HMJMsog5o4q4R4H1hxtKN) | 3:56 | 2023-12-08 |  |
 | [Don't Give Up](https://open.spotify.com/track/6EfCZu8Az3CCzNVRTXbcyf) | [Phillip Castle](https://open.spotify.com/artist/74Ly4RWI1R9HIKN76crvxd) | [Don't Give Up](https://open.spotify.com/album/5tcfap5dwahhFupIrPJRpT) | 3:41 | 2023-12-08 |  |
+| [Don't Stop \- Drums & Acid Mix](https://open.spotify.com/track/3Lfuh4PLekVuYmEUmgRTgY) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [slash 010 \- 5 Mins Of Acid](https://open.spotify.com/album/7kPaOFIJ0jqmVtMJBKJpRY) | 4:58 | 2024-07-22 |  |
 | [Dopex](https://open.spotify.com/track/2aWKb2LbwbdMQtwr7ogAE6) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi) | [Dopex](https://open.spotify.com/album/5PMU6pNV77eQ5ohtUVcq8j) | 3:56 | 2022-06-24 | 2024-02-17 |
 | [Down to Love](https://open.spotify.com/track/7nfiLZ7uRsvG8pVH8q3ori) | [ALPHA 9](https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn), [Jonathan Mendelsohn](https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm) | [Down to Love](https://open.spotify.com/album/2bq9mWHuy7sZtZ0WZGCuXH) | 3:50 | 2022-11-11 | 2023-01-14 |
 | [dreamcore](https://open.spotify.com/track/5mCDSnNX4wXDxCwtHBRysH) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv), [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb) | [dreamcore](https://open.spotify.com/album/59P9rAUO9S4VUuZRPgpCCx) | 2:55 | 2022-04-01 | 2023-04-09 |
@@ -743,7 +744,7 @@
 | [Something New](https://open.spotify.com/track/6m5aNC2SqNherMjAYU7s5k) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C), [LYCA](https://open.spotify.com/artist/4naWgrSAZPl2RsnTFdST4H) | [Something New](https://open.spotify.com/album/796wmTXuTFSrXxu67ig4KR) | 3:24 | 2022-05-06 | 2023-04-09 |
 | [Sonata](https://open.spotify.com/track/4tbJLaTclmcaaro2lAhKIe) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq) | [Sonata](https://open.spotify.com/album/3qLi1lqpntgGdH5DAROvY0) | 3:13 | 2021-12-17 | 2022-05-07 |
 | [Sorry](https://open.spotify.com/track/0PJr4eTfffgfHQda27VpIq) | [Simon Patterson](https://open.spotify.com/artist/3QxbGzjZc3kgHNJOBOZM2M), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Sorry](https://open.spotify.com/album/0hDrWUeld7zd4DZIx0p9tg) | 4:03 | 2022-08-12 | 2023-05-20 |
-| [Soul Doubt](https://open.spotify.com/track/0hC4DHZy8h5OmQp7lmAQNd) | [Robert Nickson](https://open.spotify.com/artist/0dMK3g7XAApwIpLTyE7mqJ) | [Soul Doubt](https://open.spotify.com/album/6ipCLvlTch0tWpG4Ny7HhV) | 3:24 | 2024-02-16 |  |
+| [Soul Doubt](https://open.spotify.com/track/0hC4DHZy8h5OmQp7lmAQNd) | [Robert Nickson](https://open.spotify.com/artist/0dMK3g7XAApwIpLTyE7mqJ) | [Soul Doubt](https://open.spotify.com/album/6ipCLvlTch0tWpG4Ny7HhV) | 3:24 | 2024-02-16 | 2024-07-23 |
 | [Soul Theory](https://open.spotify.com/track/4P64WuBJEjSwyAnM3II9zh) | [Tempo Giusto](https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R) | [Soul Theory](https://open.spotify.com/album/6hxEUebk8cOULv4bQgSAFB) | 2:57 | 2023-06-02 | 2024-05-18 |
 | [Soundscape](https://open.spotify.com/track/2ckuYy0wxNGXfjrRLfCnQQ) | [Steve Dekay](https://open.spotify.com/artist/7lF2WmukgrCZa5pxW6q1IE), [Proyal](https://open.spotify.com/artist/4Lof8bu6EJxnEX2owLrVtP) | [Soundscape](https://open.spotify.com/album/0D5zpBdgsCQAfeXtpoUuhK) | 3:58 | 2023-02-24 | 2024-01-24 |
 | [Sovereign](https://open.spotify.com/track/6iZ1W8WDYCYjstuzxHWv6d) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90) | [Sovereign](https://open.spotify.com/album/6Q4QME7TcWGXtquJEi2ZRO) | 4:54 | 2022-04-08 | 2022-06-04 |

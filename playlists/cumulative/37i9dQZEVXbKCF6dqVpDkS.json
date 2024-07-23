@@ -1808,7 +1808,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 157485,
       "name": "Amalia",
       "url": "https://open.spotify.com/track/3c28vYkrzU9nVqvJfbaSiu"
@@ -28266,7 +28266,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
@@ -29222,19 +29222,19 @@
           "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
         },
         {
-          "name": "Monq",
-          "url": "https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs"
-        },
-        {
           "name": "Billy Dans",
           "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        },
+        {
+          "name": "Monq",
+          "url": "https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs"
         }
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 148704,
-      "name": "Vannacht Slaap Jij Bij Mij (feat. Monq & Billy Dans)",
+      "name": "Vannacht Slaap Jij Bij Mij",
       "url": "https://open.spotify.com/track/7gv9Ky47iGM6LRp5aO5tkt"
     },
     {

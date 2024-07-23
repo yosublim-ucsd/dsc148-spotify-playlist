@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,635 songs - 3 day 13 hr 8 min
+1,636 songs - 3 day 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -722,7 +722,7 @@
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-05-11 |  |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2021-12-28 | 2022-01-01 |
 | [I Heard You’re Married \(feat\. Lil Wayne\)](https://open.spotify.com/track/5XbA7TAqsD0fj0dGBrbb0D) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 4:23 | 2022-01-08 | 2022-01-10 |
-| [I KNOW](https://open.spotify.com/track/3aQzeklWllLWZSH4xk7Udj) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [I KNOW](https://open.spotify.com/album/5DjM5MJoima73xcyXJ1mkG) | 3:09 | 2023-06-24 |  |
+| [I KNOW](https://open.spotify.com/track/3aQzeklWllLWZSH4xk7Udj) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [I KNOW](https://open.spotify.com/album/5DjM5MJoima73xcyXJ1mkG) | 3:09 | 2023-06-24 | 2024-07-23 |
 | [I KNOW ?](https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:31 | 2023-07-29 | 2023-08-13 |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-03-26 | 2024-07-13 |
 | [i like the way you kiss me](https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [yustyna](https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD) | 2:22 | 2024-07-12 |  |
@@ -1031,6 +1031,7 @@
 | [MOTIVATION MANSION \(INTRO\)](https://open.spotify.com/track/2XXk3OrAGPEAbRvPZ6b8Nv) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Miklo](https://open.spotify.com/artist/2h1aup6p1Y0OM8v0I3XnKr), [Sami](https://open.spotify.com/artist/1wKMr8T2lch6KNm9e1Q3m4) | [10 YEARS](https://open.spotify.com/album/78t37LD6kbhLgnlCiG5nmU) | 2:27 | 2021-09-25 | 2021-09-28 |
 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 | 2021-07-11 | 2021-08-22 |
 | [MOULAGA](https://open.spotify.com/track/5MzZ0U4Zihj9iAR9c7uUyy) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [MOULAGA](https://open.spotify.com/album/16WOsN6JTgg1QV4VwrdlXm) | 2:15 | 2023-05-20 | 2023-06-04 |
+| [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-07-22 |  |
 | [Mr Romeo](https://open.spotify.com/track/5674aTBHCadkrKz1E9t1zh) | [Babyvivi](https://open.spotify.com/artist/0f5WE68aCmEMkDFIpqcZ3U) | [Mr Romeo](https://open.spotify.com/album/34M6xEbMTHtMSyMSXJUTvi) | 1:45 | 2024-07-10 | 2024-07-12 |
 | [Mr\. Lummer \(feat\. Stewart Stardust\)](https://open.spotify.com/track/43gebe9VUqbC0hEu92HpzZ) | [Ude Af Kontrol](https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev), [Stewart Stardust](https://open.spotify.com/artist/4W37go9X8efhtDP1q9GCzK) | [Bedre Sent End Aldrig](https://open.spotify.com/album/5ltSOF7fD6ujjdKb3w9QsM) | 3:02 | 2023-02-24 | 2023-04-03 |
 | [Mucki Bar](https://open.spotify.com/track/31dynF6Vm6s6cLsHEBL8kp) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Mucki Bar](https://open.spotify.com/album/3pYdHv18QdrVPTldybOpSk) | 2:59 | 2022-02-12 | 2022-10-23 |

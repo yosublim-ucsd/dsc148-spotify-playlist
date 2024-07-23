@@ -1,13 +1,153 @@
 {
-  "description": "Latest popular single releases. Updated 21 Jul 04:02 UTC.",
+  "description": "Latest popular single releases.",
   "num_followers": 79,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAJ1nDjkmI7o+obXAuTdjS1rAYIQmjJ",
+  "snapshot_id": "AAAJ24GJi6mvGHJ58wzJaPak6nuTaoNs",
   "tracks": [
+    {
+      "added_at": "2024-07-22 22:03:28",
+      "album": {
+        "name": "Beyond the Raindrops",
+        "url": "https://open.spotify.com/album/3THRUCUoif0D9Ru6bBFqYu"
+      },
+      "artists": [
+        {
+          "name": "envy",
+          "url": "https://open.spotify.com/artist/0CfjW2VuMdrhWodHtG7DWi"
+        }
+      ],
+      "duration_ms": 321003,
+      "name": "Beyond the Raindrops",
+      "url": "https://open.spotify.com/track/3hnDvAqMLJkyT3UP52WMEC"
+    },
+    {
+      "added_at": "2024-07-22 19:57:27",
+      "album": {
+        "name": "Chk Chk Boom (Remixes)",
+        "url": "https://open.spotify.com/album/4I3XnuXU5fZJeC6q9yTGwa"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 148051,
+      "name": "Chk Chk Boom",
+      "url": "https://open.spotify.com/track/0fGi4CsfgPHRcHum8OeX1X"
+    },
+    {
+      "added_at": "2024-07-22 17:50:06",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/3VQnrU5KGvjs1Fqzuo3E1C"
+      },
+      "artists": [
+        {
+          "name": "Cryogeyser",
+          "url": "https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ"
+        }
+      ],
+      "duration_ms": 176761,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/75z6Zk55dQrjxAnuAlmurY"
+    },
+    {
+      "added_at": "2024-07-22 17:50:06",
+      "album": {
+        "name": "YOUR DEMISE",
+        "url": "https://open.spotify.com/album/0DWL8H04a9G8SCO63DxBsZ"
+      },
+      "artists": [
+        {
+          "name": "Lil Darkie",
+          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
+        },
+        {
+          "name": "Terror Reid",
+          "url": "https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "YOUR DEMISE",
+      "url": "https://open.spotify.com/track/78mmybAyBjnyXeCt5fh7r0"
+    },
+    {
+      "added_at": "2024-07-22 17:50:06",
+      "album": {
+        "name": "Pyroclastic",
+        "url": "https://open.spotify.com/album/2fMKtEJt9BgUGbX5J00F39"
+      },
+      "artists": [
+        {
+          "name": "Chime",
+          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
+        },
+        {
+          "name": "Skybreak",
+          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
+        }
+      ],
+      "duration_ms": 208200,
+      "name": "Pyroclastic",
+      "url": "https://open.spotify.com/track/1xcPjGqDvj0ftzVficnBbB"
+    },
+    {
+      "added_at": "2024-07-22 17:50:06",
+      "album": {
+        "name": "\u3064\u3088\u304c\u308b\u30ac\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/2udxqBTrnKaqPzRLzC5w9K"
+      },
+      "artists": [
+        {
+          "name": "\u307c\u3063\u3061\u307c\u308d\u307e\u308b",
+          "url": "https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo"
+        },
+        {
+          "name": "\u3082\u3063\u3055",
+          "url": "https://open.spotify.com/artist/7a7uhcdZvYg4IGcD9tUB3g"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "\u3064\u3088\u304c\u308b\u30ac\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/3GxZpsOr0vFZfU30PYULgU"
+    },
+    {
+      "added_at": "2024-07-22 17:50:06",
+      "album": {
+        "name": "UTuber",
+        "url": "https://open.spotify.com/album/5JYofhyiQ0Qz6DTwLULrKF"
+      },
+      "artists": [
+        {
+          "name": "PinocchioP",
+          "url": "https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC"
+        }
+      ],
+      "duration_ms": 173835,
+      "name": "UTuber",
+      "url": "https://open.spotify.com/track/3AlzjEBOrTE0hRJVeNmCzC"
+    },
+    {
+      "added_at": "2024-07-22 17:50:06",
+      "album": {
+        "name": "Weak warriors with broken wings",
+        "url": "https://open.spotify.com/album/4Qywpf69QQHlhVZKCy4bSY"
+      },
+      "artists": [
+        {
+          "name": "UPIKO",
+          "url": "https://open.spotify.com/artist/5C5L6loDkixk21Pcp1CQiy"
+        }
+      ],
+      "duration_ms": 264571,
+      "name": "Weak warriors with broken wings",
+      "url": "https://open.spotify.com/track/6F6v1uCJlyff1oC1x9sWpc"
+    },
     {
       "added_at": "2024-07-20 10:02:07",
       "album": {
@@ -57,6 +197,38 @@
       "url": "https://open.spotify.com/track/2wvUmObLQbxClXFsuhw8Ns"
     },
     {
+      "added_at": "2024-07-22 17:50:06",
+      "album": {
+        "name": "Lets Get On Dey Ass",
+        "url": "https://open.spotify.com/album/1lLaabBqtvYNJnBCWczqiZ"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 161052,
+      "name": "Lets Get On Dey Ass",
+      "url": "https://open.spotify.com/track/1SUQlEQUTsxZBU6KTmLh9n"
+    },
+    {
+      "added_at": "2024-07-20 17:33:32",
+      "album": {
+        "name": "Work It Out",
+        "url": "https://open.spotify.com/album/1sM2lvgt8XUBHJC4RRYN0Y"
+      },
+      "artists": [
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "duration_ms": 150474,
+      "name": "Work It Out",
+      "url": "https://open.spotify.com/track/1zepNi2GSE216osBwSn4ZD"
+    },
+    {
       "added_at": "2024-07-20 17:33:32",
       "album": {
         "name": "Switch",
@@ -75,22 +247,6 @@
       "duration_ms": 189022,
       "name": "Switch",
       "url": "https://open.spotify.com/track/5l9wqqfosStld3rOPimbDw"
-    },
-    {
-      "added_at": "2024-07-20 17:33:32",
-      "album": {
-        "name": "Work It Out",
-        "url": "https://open.spotify.com/album/1sM2lvgt8XUBHJC4RRYN0Y"
-      },
-      "artists": [
-        {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
-        }
-      ],
-      "duration_ms": 150474,
-      "name": "Work It Out",
-      "url": "https://open.spotify.com/track/1zepNi2GSE216osBwSn4ZD"
     },
     {
       "added_at": "2024-07-20 17:33:32",
@@ -129,6 +285,38 @@
       "url": "https://open.spotify.com/track/2QaKqCBZzBossC940glm6N"
     },
     {
+      "added_at": "2024-07-22 17:50:06",
+      "album": {
+        "name": "Kitsune Maison Freestyle",
+        "url": "https://open.spotify.com/album/3RR6dCCUou6EdHrHVOQV1r"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "duration_ms": 234553,
+      "name": "Kitsune Maison Freestyle",
+      "url": "https://open.spotify.com/track/6n8VUJwJoANGLHfWf38gJv"
+    },
+    {
+      "added_at": "2024-07-20 17:33:32",
+      "album": {
+        "name": "Polkamania!",
+        "url": "https://open.spotify.com/album/1gqDuax64n9FHQxaFlyobc"
+      },
+      "artists": [
+        {
+          "name": "\"Weird Al\" Yankovic",
+          "url": "https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG"
+        }
+      ],
+      "duration_ms": 246048,
+      "name": "Polkamania!",
+      "url": "https://open.spotify.com/track/1GXIST9gaPpWcRrRhHUcJb"
+    },
+    {
       "added_at": "2024-07-20 17:33:32",
       "album": {
         "name": "Summer '24",
@@ -149,20 +337,40 @@
       "url": "https://open.spotify.com/track/1aMUl8tkDCHl4dWIIGo1tR"
     },
     {
-      "added_at": "2024-07-20 17:33:32",
+      "added_at": "2024-07-20 04:02:42",
       "album": {
-        "name": "Polkamania!",
-        "url": "https://open.spotify.com/album/1gqDuax64n9FHQxaFlyobc"
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/0DYWKlOXtdUVBHrRR5ZFiB"
       },
       "artists": [
         {
-          "name": "\"Weird Al\" Yankovic",
-          "url": "https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG"
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
         }
       ],
-      "duration_ms": 246048,
-      "name": "Polkamania!",
-      "url": "https://open.spotify.com/track/1GXIST9gaPpWcRrRhHUcJb"
+      "duration_ms": 215088,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/3GJpQY3I6YTgL3TtvvxmNm"
+    },
+    {
+      "added_at": "2024-07-20 17:33:32",
+      "album": {
+        "name": "Shoot",
+        "url": "https://open.spotify.com/album/0J67VD8T4YXrFFh1MuMBWv"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "duration_ms": 158238,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/1A8NNjRd8WLUirNesl9jYW"
     },
     {
       "added_at": "2024-07-19 16:02:49",
@@ -203,86 +411,18 @@
     {
       "added_at": "2024-07-20 17:33:32",
       "album": {
-        "name": "Shoot",
-        "url": "https://open.spotify.com/album/0J67VD8T4YXrFFh1MuMBWv"
+        "name": "GENESIS",
+        "url": "https://open.spotify.com/album/0lauCMMmgQpzDyQxqhXLuH"
       },
       "artists": [
         {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+          "name": "From First To Last",
+          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
         }
       ],
-      "duration_ms": 158238,
-      "name": "Shoot",
-      "url": "https://open.spotify.com/track/1A8NNjRd8WLUirNesl9jYW"
-    },
-    {
-      "added_at": "2024-07-20 04:02:42",
-      "album": {
-        "name": "Yeah Baby",
-        "url": "https://open.spotify.com/album/5PHb8QUa081t4IxLhLrWcV"
-      },
-      "artists": [
-        {
-          "name": "Glokk40Spaz",
-          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
-        }
-      ],
-      "duration_ms": 109237,
-      "name": "Yeah Baby",
-      "url": "https://open.spotify.com/track/4wmDMvjvjddgK17lnOYuvb"
-    },
-    {
-      "added_at": "2024-07-20 17:33:32",
-      "album": {
-        "name": "Don't Let My Boyfriend Get In Your Way",
-        "url": "https://open.spotify.com/album/3ByjB5KzxOJs40RywOOvsI"
-      },
-      "artists": [
-        {
-          "name": "Alice Chater",
-          "url": "https://open.spotify.com/artist/6MwwUAN4kN0umzSH7w6y93"
-        }
-      ],
-      "duration_ms": 178510,
-      "name": "Don't Let My Boyfriend Get In Your Way",
-      "url": "https://open.spotify.com/track/3DOZgqdpYCfjmAP2eR7H98"
-    },
-    {
-      "added_at": "2024-07-19 10:03:06",
-      "album": {
-        "name": "Rather Be Lonely",
-        "url": "https://open.spotify.com/album/0cENSCQhJwwx9rtMBcs1pB"
-      },
-      "artists": [
-        {
-          "name": "David Archuleta",
-          "url": "https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk"
-        }
-      ],
-      "duration_ms": 164558,
-      "name": "Rather Be Lonely",
-      "url": "https://open.spotify.com/track/3lBO1ZuelfLTtkYfc1t7PO"
-    },
-    {
-      "added_at": "2024-07-20 04:02:42",
-      "album": {
-        "name": "All For You",
-        "url": "https://open.spotify.com/album/0DYWKlOXtdUVBHrRR5ZFiB"
-      },
-      "artists": [
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        }
-      ],
-      "duration_ms": 215088,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/3GJpQY3I6YTgL3TtvvxmNm"
+      "duration_ms": 193979,
+      "name": "GENESIS",
+      "url": "https://open.spotify.com/track/1Jijb30txJ6YZNe5DTu3Lb"
     },
     {
       "added_at": "2024-07-19 10:03:06",
@@ -301,20 +441,20 @@
       "url": "https://open.spotify.com/track/5uWA8WojlklsMu8aQxzybZ"
     },
     {
-      "added_at": "2024-07-19 16:02:49",
+      "added_at": "2024-07-20 04:02:42",
       "album": {
-        "name": "Dip",
-        "url": "https://open.spotify.com/album/4pZVmvkynk0jJFVAAK7V2c"
+        "name": "Yeah Baby",
+        "url": "https://open.spotify.com/album/5PHb8QUa081t4IxLhLrWcV"
       },
       "artists": [
         {
-          "name": "Brennan Jones",
-          "url": "https://open.spotify.com/artist/4PaHlM2H2hC3VQV4BfLo4B"
+          "name": "Glokk40Spaz",
+          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
         }
       ],
-      "duration_ms": 103397,
-      "name": "Dip",
-      "url": "https://open.spotify.com/track/7ttAbCCBNE5FXpHMZkyVxH"
+      "duration_ms": 109237,
+      "name": "Yeah Baby",
+      "url": "https://open.spotify.com/track/4wmDMvjvjddgK17lnOYuvb"
     },
     {
       "added_at": "2024-07-19 10:03:06",
@@ -357,6 +497,54 @@
       "url": "https://open.spotify.com/track/6lCmf56ymp9OFJDjt0SgHl"
     },
     {
+      "added_at": "2024-07-20 17:33:32",
+      "album": {
+        "name": "Don't Let My Boyfriend Get In Your Way",
+        "url": "https://open.spotify.com/album/3ByjB5KzxOJs40RywOOvsI"
+      },
+      "artists": [
+        {
+          "name": "Alice Chater",
+          "url": "https://open.spotify.com/artist/6MwwUAN4kN0umzSH7w6y93"
+        }
+      ],
+      "duration_ms": 178510,
+      "name": "Don't Let My Boyfriend Get In Your Way",
+      "url": "https://open.spotify.com/track/3DOZgqdpYCfjmAP2eR7H98"
+    },
+    {
+      "added_at": "2024-07-20 17:33:32",
+      "album": {
+        "name": "Shifter",
+        "url": "https://open.spotify.com/album/2Dn7I0fYrknnyoLjzrA5Cu"
+      },
+      "artists": [
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "duration_ms": 180034,
+      "name": "Shifter",
+      "url": "https://open.spotify.com/track/4AxRMLSbCygXGVeyjGbKJB"
+    },
+    {
+      "added_at": "2024-07-19 10:03:06",
+      "album": {
+        "name": "Rather Be Lonely",
+        "url": "https://open.spotify.com/album/0cENSCQhJwwx9rtMBcs1pB"
+      },
+      "artists": [
+        {
+          "name": "David Archuleta",
+          "url": "https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk"
+        }
+      ],
+      "duration_ms": 164558,
+      "name": "Rather Be Lonely",
+      "url": "https://open.spotify.com/track/3lBO1ZuelfLTtkYfc1t7PO"
+    },
+    {
       "added_at": "2024-07-19 16:02:49",
       "album": {
         "name": "SHOCK ME",
@@ -389,36 +577,52 @@
       "url": "https://open.spotify.com/track/6griwc1RjYP1BxnzTkxnqO"
     },
     {
-      "added_at": "2024-07-20 17:33:32",
+      "added_at": "2024-07-19 16:02:49",
       "album": {
-        "name": "Shifter",
-        "url": "https://open.spotify.com/album/2Dn7I0fYrknnyoLjzrA5Cu"
+        "name": "Dip",
+        "url": "https://open.spotify.com/album/4pZVmvkynk0jJFVAAK7V2c"
       },
       "artists": [
         {
-          "name": "Icewear Vezzo",
-          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+          "name": "Brennan Jones",
+          "url": "https://open.spotify.com/artist/4PaHlM2H2hC3VQV4BfLo4B"
         }
       ],
-      "duration_ms": 180034,
-      "name": "Shifter",
-      "url": "https://open.spotify.com/track/4AxRMLSbCygXGVeyjGbKJB"
+      "duration_ms": 103397,
+      "name": "Dip",
+      "url": "https://open.spotify.com/track/7ttAbCCBNE5FXpHMZkyVxH"
     },
     {
-      "added_at": "2024-07-20 17:33:32",
+      "added_at": "2024-07-22 17:50:06",
       "album": {
-        "name": "GENESIS",
-        "url": "https://open.spotify.com/album/0lauCMMmgQpzDyQxqhXLuH"
+        "name": "My Toxic Friend",
+        "url": "https://open.spotify.com/album/007bMg54bPYpScHPrlOQsn"
       },
       "artists": [
         {
-          "name": "From First To Last",
-          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
+          "name": "The Reds, Pinks and Purples",
+          "url": "https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz"
         }
       ],
-      "duration_ms": 193979,
-      "name": "GENESIS",
-      "url": "https://open.spotify.com/track/1Jijb30txJ6YZNe5DTu3Lb"
+      "duration_ms": 303673,
+      "name": "New Market Space",
+      "url": "https://open.spotify.com/track/1hJXWRQeXvWEutlyDrfhWY"
+    },
+    {
+      "added_at": "2024-07-22 17:50:06",
+      "album": {
+        "name": "Party Never Ends",
+        "url": "https://open.spotify.com/album/5mJPlL9P5oLexaBWyP0jys"
+      },
+      "artists": [
+        {
+          "name": "M Row",
+          "url": "https://open.spotify.com/artist/2HJMjrjAQfFCJ41EoLX9VG"
+        }
+      ],
+      "duration_ms": 130610,
+      "name": "Party Never Ends",
+      "url": "https://open.spotify.com/track/61LV4axlniLckSeyB15HtC"
     },
     {
       "added_at": "2024-07-20 17:33:32",

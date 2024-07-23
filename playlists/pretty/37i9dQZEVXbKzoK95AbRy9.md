@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,615 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,673 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 50 | [Desilusão \(MTG\) \(feat\. Loirin Prod\)](https://open.spotify.com/track/4dSDTAZ7ohybHBonbtMBpP) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [Loirin prod](https://open.spotify.com/artist/0SgHuOMfN5sYzxKYMAHhvJ) | [Desilusão \(MTG\) \(feat\. Loirin Prod\)](https://open.spotify.com/album/488ePTBXMWN0LVNsFDHbEr) | 2:41 |
 
-Snapshot ID: `LjB08AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LjHEGAAAAAAAAAAAAAAAAAAAAAAAAGVu`

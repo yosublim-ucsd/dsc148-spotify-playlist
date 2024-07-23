@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. Cover: Jacqline",
-  "num_followers": 195722,
+  "num_followers": 195713,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Hur f\u00f6rklarar man s\u00e5nt f\u00f6r datorer?",
-        "url": "https://open.spotify.com/album/1fgPCDkgF39t2671KiaL89"
-      },
-      "artists": [
-        {
-          "name": "Daniel Adams-Ray",
-          "url": "https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC"
-        }
-      ],
-      "duration_ms": 230975,
-      "name": "Hur f\u00f6rklarar man s\u00e5nt f\u00f6r datorer?",
-      "url": "https://open.spotify.com/track/1L7NKwG84v0yvSeU2hv9IU"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Maskinen \u00e4r tillbaka",
         "url": "https://open.spotify.com/album/77XVwKfKdyawzhtiiU3ljm"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 139836,
       "name": "Maskinen \u00e4r tillbaka",
       "url": "https://open.spotify.com/track/2qvgrcWLxkvdZCXJVzh7Yw"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Hur f\u00f6rklarar man s\u00e5nt f\u00f6r datorer?",
+        "url": "https://open.spotify.com/album/1fgPCDkgF39t2671KiaL89"
+      },
+      "artists": [
+        {
+          "name": "Daniel Adams-Ray",
+          "url": "https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC"
+        }
+      ],
+      "duration_ms": 230975,
+      "name": "Hur f\u00f6rklarar man s\u00e5nt f\u00f6r datorer?",
+      "url": "https://open.spotify.com/track/1L7NKwG84v0yvSeU2hv9IU"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Whole Damn Summer",
+        "url": "https://open.spotify.com/album/6pbrBaGrAjelkXqXUOvFUf"
+      },
+      "artists": [
+        {
+          "name": "Kiana",
+          "url": "https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g"
+        }
+      ],
+      "duration_ms": 162985,
+      "name": "Whole Damn Summer",
+      "url": "https://open.spotify.com/track/3ArB9nvOdiTAYyfgjEojrg"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Upp med hakan",
         "url": "https://open.spotify.com/album/3OAWeefFpKwzXX4JOINByi"
       },
@@ -575,18 +591,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Whole Damn Summer",
-        "url": "https://open.spotify.com/album/6pbrBaGrAjelkXqXUOvFUf"
+        "name": "When she holds me",
+        "url": "https://open.spotify.com/album/0bZ5ZKnXCHLoxgm5Y4lSrt"
       },
       "artists": [
         {
-          "name": "Kiana",
-          "url": "https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g"
+          "name": "Becky and the Birds",
+          "url": "https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d"
         }
       ],
-      "duration_ms": 162985,
-      "name": "Whole Damn Summer",
-      "url": "https://open.spotify.com/track/3ArB9nvOdiTAYyfgjEojrg"
+      "duration_ms": 243440,
+      "name": "When she holds me",
+      "url": "https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -603,22 +619,6 @@
       "duration_ms": 161566,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/6pIQxaY3KwmYSAowTxssZW"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "When she holds me",
-        "url": "https://open.spotify.com/album/0bZ5ZKnXCHLoxgm5Y4lSrt"
-      },
-      "artists": [
-        {
-          "name": "Becky and the Birds",
-          "url": "https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d"
-        }
-      ],
-      "duration_ms": 243440,
-      "name": "When she holds me",
-      "url": "https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -871,26 +871,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Sprit & Blondiner",
-        "url": "https://open.spotify.com/album/3bXFyWuISWjAIonXpBupcK"
-      },
-      "artists": [
-        {
-          "name": "Silvana Imam",
-          "url": "https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g"
-        },
-        {
-          "name": "ALMA",
-          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
-        }
-      ],
-      "duration_ms": 203571,
-      "name": "Sprit & Blondiner",
-      "url": "https://open.spotify.com/track/0jXbmr98Xm2bNlAUyq9caV"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Som du r\u00f6r dig",
         "url": "https://open.spotify.com/album/6leT3esDbYQrR47KUGgEM7"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 133933,
       "name": "Som du r\u00f6r dig",
       "url": "https://open.spotify.com/track/2wzXMY7p5Y5eXh7pDznhKM"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Sprit & Blondiner",
+        "url": "https://open.spotify.com/album/3bXFyWuISWjAIonXpBupcK"
+      },
+      "artists": [
+        {
+          "name": "Silvana Imam",
+          "url": "https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g"
+        },
+        {
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+        }
+      ],
+      "duration_ms": 203571,
+      "name": "Sprit & Blondiner",
+      "url": "https://open.spotify.com/track/0jXbmr98Xm2bNlAUyq9caV"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Hon \u00e4r liv",
+        "url": "https://open.spotify.com/album/5SfusNXUIfDQNJa3xL5bBI"
+      },
+      "artists": [
+        {
+          "name": "Sofijah",
+          "url": "https://open.spotify.com/artist/6fMbyqT4Iqi8hMs9w4tpPD"
+        }
+      ],
+      "duration_ms": 147520,
+      "name": "Hon \u00e4r liv",
+      "url": "https://open.spotify.com/track/2ATMAlWadqEjkZ5c0GljAf"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "22 (feat. Nadja Evelina)",
         "url": "https://open.spotify.com/album/2fqcOlGoHnGTLOpRE1vjak"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 173675,
       "name": "22 (feat. Nadja Evelina)",
       "url": "https://open.spotify.com/track/0scqi9Ay3rmAV2gm8di8VA"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Hon \u00e4r liv",
-        "url": "https://open.spotify.com/album/5SfusNXUIfDQNJa3xL5bBI"
-      },
-      "artists": [
-        {
-          "name": "Sofijah",
-          "url": "https://open.spotify.com/artist/6fMbyqT4Iqi8hMs9w4tpPD"
-        }
-      ],
-      "duration_ms": 147520,
-      "name": "Hon \u00e4r liv",
-      "url": "https://open.spotify.com/track/2ATMAlWadqEjkZ5c0GljAf"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/4vk66a9MvfT6Zz1NGhfVh0"
-      },
-      "artists": [
-        {
-          "name": "ELMA",
-          "url": "https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c"
-        }
-      ],
-      "duration_ms": 194509,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/3uxYhXV0mZimmqvRbZbpX7"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Presence",
         "url": "https://open.spotify.com/album/1014Fy5LvVwZaB7yDY82RP"
       },
@@ -1191,22 +1175,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Underbart \u00e4r kort",
-        "url": "https://open.spotify.com/album/3DLq7TpZfPda8HtNA8CIsx"
-      },
-      "artists": [
-        {
-          "name": "Simon Forslund",
-          "url": "https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "Underbart \u00e4r kort",
-      "url": "https://open.spotify.com/track/3nBH4JLXw1XJuoMXxiuizQ"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Hear Me Out",
         "url": "https://open.spotify.com/album/1WRUI0cnE0LH0J9TJkNeQa"
       },
@@ -1219,6 +1187,38 @@
       "duration_ms": 184042,
       "name": "Hear Me Out",
       "url": "https://open.spotify.com/track/2DPvoJDAidOfXnB0QuFQiy"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/4vk66a9MvfT6Zz1NGhfVh0"
+      },
+      "artists": [
+        {
+          "name": "ELMA",
+          "url": "https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c"
+        }
+      ],
+      "duration_ms": 194509,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/3uxYhXV0mZimmqvRbZbpX7"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Underbart \u00e4r kort",
+        "url": "https://open.spotify.com/album/3DLq7TpZfPda8HtNA8CIsx"
+      },
+      "artists": [
+        {
+          "name": "Simon Forslund",
+          "url": "https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "Underbart \u00e4r kort",
+      "url": "https://open.spotify.com/track/3nBH4JLXw1XJuoMXxiuizQ"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Out Of Love",
-        "url": "https://open.spotify.com/album/3oIw9biBKkPJM8pCylG0eW"
-      },
-      "artists": [
-        {
-          "name": "Robin Bengtsson",
-          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
-        }
-      ],
-      "duration_ms": 203877,
-      "name": "Out Of Love",
-      "url": "https://open.spotify.com/track/1gEeVO5KgqgpPWh6ghNpCd"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Confused",
         "url": "https://open.spotify.com/album/6BoYdLoD7Y6ZOT6pnsLInu"
       },
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Imagine Paradise",
-        "url": "https://open.spotify.com/album/58vBq0ClQQ9mvouhUoBw2b"
+        "name": "Out Of Love",
+        "url": "https://open.spotify.com/album/3oIw9biBKkPJM8pCylG0eW"
       },
       "artists": [
         {
-          "name": "Kleerup",
-          "url": "https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc"
+          "name": "Robin Bengtsson",
+          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
         }
       ],
-      "duration_ms": 237655,
-      "name": "Imagine Paradise",
-      "url": "https://open.spotify.com/track/0TXoLkIqtEqb9mPv3ReBEX"
+      "duration_ms": 203877,
+      "name": "Out Of Love",
+      "url": "https://open.spotify.com/track/1gEeVO5KgqgpPWh6ghNpCd"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1451,6 +1435,22 @@
       "duration_ms": 199683,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/1AdgVWMgeSZNj59u16F0gV"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Imagine Paradise",
+        "url": "https://open.spotify.com/album/58vBq0ClQQ9mvouhUoBw2b"
+      },
+      "artists": [
+        {
+          "name": "Kleerup",
+          "url": "https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc"
+        }
+      ],
+      "duration_ms": 237655,
+      "name": "Imagine Paradise",
+      "url": "https://open.spotify.com/track/0TXoLkIqtEqb9mPv3ReBEX"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Juicy",
+        "url": "https://open.spotify.com/album/0Fl0L8SVYbDbFPUw7kx8gE"
+      },
+      "artists": [
+        {
+          "name": "Naomi Vaughn",
+          "url": "https://open.spotify.com/artist/1SCpIF2L2jzSfIcdgGtPE8"
+        }
+      ],
+      "duration_ms": 215059,
+      "name": "Juicy",
+      "url": "https://open.spotify.com/track/0IvmW2HJrScnzsMIMlSq7G"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Jag vill ha dig HETT",
         "url": "https://open.spotify.com/album/4QVqawHLqtlvHBKl3WNDjG"
       },
@@ -1571,6 +1587,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "I HATE IT!",
+        "url": "https://open.spotify.com/album/5354Xi5KXJ6EtjB1qrQP82"
+      },
+      "artists": [
+        {
+          "name": "Hanna Mel",
+          "url": "https://open.spotify.com/artist/5KZjB3QwCH7oFbualxmGq8"
+        }
+      ],
+      "duration_ms": 178701,
+      "name": "I HATE IT!",
+      "url": "https://open.spotify.com/track/3VuVNNSD9gL6TBq43PeB5v"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Utan Dig (oh nej)",
         "url": "https://open.spotify.com/album/4IuvDIuuhzpP2Vaa6sn7lv"
       },
@@ -1591,22 +1623,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "I HATE IT!",
-        "url": "https://open.spotify.com/album/5354Xi5KXJ6EtjB1qrQP82"
-      },
-      "artists": [
-        {
-          "name": "Hanna Mel",
-          "url": "https://open.spotify.com/artist/5KZjB3QwCH7oFbualxmGq8"
-        }
-      ],
-      "duration_ms": 178701,
-      "name": "I HATE IT!",
-      "url": "https://open.spotify.com/track/3VuVNNSD9gL6TBq43PeB5v"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Lily Of The Valley",
         "url": "https://open.spotify.com/album/7ivEAEyQvcQPzaRGKMbYcY"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 189583,
       "name": "Lily Of The Valley",
       "url": "https://open.spotify.com/track/39xdvtTXTiWnkkLlJOfqTn"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Juicy",
-        "url": "https://open.spotify.com/album/0Fl0L8SVYbDbFPUw7kx8gE"
-      },
-      "artists": [
-        {
-          "name": "Naomi Vaughn",
-          "url": "https://open.spotify.com/artist/1SCpIF2L2jzSfIcdgGtPE8"
-        }
-      ],
-      "duration_ms": 215059,
-      "name": "Juicy",
-      "url": "https://open.spotify.com/track/0IvmW2HJrScnzsMIMlSq7G"
     },
     {
       "added_at": "2024-06-27 22:00:00",

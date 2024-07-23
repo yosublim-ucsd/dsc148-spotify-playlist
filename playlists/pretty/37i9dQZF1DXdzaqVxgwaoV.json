@@ -1,6 +1,6 @@
 {
   "description": "La m\u00fasica que enciende las fiestas navide\u00f1as y de fin de a\u00f1o en Colombia.",
-  "num_followers": 124021,
+  "num_followers": 124010,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
@@ -335,26 +335,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Historia Musical de los Chiches Vallenatos: \u00c9xitos Originales",
-        "url": "https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt"
-      },
-      "artists": [
-        {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        },
-        {
-          "name": "Amin Martinez",
-          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
-        }
-      ],
-      "duration_ms": 288194,
-      "name": "Tierra Mala",
-      "url": "https://open.spotify.com/track/5BX4ez5Wz62RdJANkifj3k"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "\u00c9xitos los Embajadores Vallenatos",
         "url": "https://open.spotify.com/album/4AcJClSsSiNwBjBAvO67rn"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 258217,
       "name": "Se Le Moja la Canoa (La Canoa)",
       "url": "https://open.spotify.com/track/0JVnEzXd7T3Q0nEvveigLn"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Historia Musical de los Chiches Vallenatos: \u00c9xitos Originales",
+        "url": "https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt"
+      },
+      "artists": [
+        {
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        },
+        {
+          "name": "Amin Martinez",
+          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
+        }
+      ],
+      "duration_ms": 288194,
+      "name": "Tierra Mala",
+      "url": "https://open.spotify.com/track/5BX4ez5Wz62RdJANkifj3k"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Premio Platino para los Vallenatos Nueva Generaci\u00f3n",
-        "url": "https://open.spotify.com/album/0NWu62PPxYyA3l7aOWLrzI"
-      },
-      "artists": [
-        {
-          "name": "Ramiro Y Joche",
-          "url": "https://open.spotify.com/artist/7Is8U6C3xnnwIf3PQuAsI1"
-        }
-      ],
-      "duration_ms": 305950,
-      "name": "La Due\u00f1a de Mi Suerte",
-      "url": "https://open.spotify.com/track/67GaNUSyiFt3kqkZ08mFco"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "\u00c9xitos los Chiches Vallenatos",
         "url": "https://open.spotify.com/album/1KpRYCfdhi4dnnCNdGvdcU"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 241297,
       "name": "Ceniza Fr\u00eda",
       "url": "https://open.spotify.com/track/3q15KHRykWDh4IzLuVj8sc"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Premio Platino para los Vallenatos Nueva Generaci\u00f3n",
+        "url": "https://open.spotify.com/album/0NWu62PPxYyA3l7aOWLrzI"
+      },
+      "artists": [
+        {
+          "name": "Ramiro Y Joche",
+          "url": "https://open.spotify.com/artist/7Is8U6C3xnnwIf3PQuAsI1"
+        }
+      ],
+      "duration_ms": 305950,
+      "name": "La Due\u00f1a de Mi Suerte",
+      "url": "https://open.spotify.com/track/67GaNUSyiFt3kqkZ08mFco"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "Lo Mejor de los Melodicos Vol. 1",
+        "url": "https://open.spotify.com/album/13evw9mEtB5xBNgUWk89rR"
+      },
+      "artists": [
+        {
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+        }
+      ],
+      "duration_ms": 227733,
+      "name": "Amparito",
+      "url": "https://open.spotify.com/track/4RQ0j2QKEe5gjrFsKriIF5"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "\u00c9xitos Gustavo 'El Loko' Quintero",
         "url": "https://open.spotify.com/album/0MNldUvah3YWbTUzFGjOiL"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 200033,
       "name": "La Cinta Verde",
       "url": "https://open.spotify.com/track/6HX5qNv8VDWdm9YaYZKImS"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "Lo Mejor de los Melodicos Vol. 1",
-        "url": "https://open.spotify.com/album/13evw9mEtB5xBNgUWk89rR"
-      },
-      "artists": [
-        {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
-        }
-      ],
-      "duration_ms": 227733,
-      "name": "Amparito",
-      "url": "https://open.spotify.com/track/4RQ0j2QKEe5gjrFsKriIF5"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/1hrtxfYCglIx47SZN8CVI1"
-      },
-      "artists": [
-        {
-          "name": "Banda La Bocana",
-          "url": "https://open.spotify.com/artist/2mNk9YrmPJ7DsCKqQsYEEF"
-        }
-      ],
-      "duration_ms": 349024,
-      "name": "El Porte\u00f1ito",
-      "url": "https://open.spotify.com/track/1jJnywpOLOkrdQK3loWnxZ"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "Historia Musical de el Tropicombo",
         "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 243086,
       "name": "Distancia",
       "url": "https://open.spotify.com/track/1uCs7r1Col4jCPsfMrVUwS"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/1hrtxfYCglIx47SZN8CVI1"
+      },
+      "artists": [
+        {
+          "name": "Banda La Bocana",
+          "url": "https://open.spotify.com/artist/2mNk9YrmPJ7DsCKqQsYEEF"
+        }
+      ],
+      "duration_ms": 349024,
+      "name": "El Porte\u00f1ito",
+      "url": "https://open.spotify.com/track/1jJnywpOLOkrdQK3loWnxZ"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "La Sonora Matancera y sus voces de oro, Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/6uFvAQZBCx1ZMWLxMO35iM"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 153414,
+      "name": "El negrito del Batey - Remastered",
+      "url": "https://open.spotify.com/track/5l3zT77F4kGXeBKs4FO2pH"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "\u00c9xitos Gustavo 'El Loko' Quintero",
         "url": "https://open.spotify.com/album/0MNldUvah3YWbTUzFGjOiL"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 173371,
       "name": "Carita de \u00c1ngel",
       "url": "https://open.spotify.com/track/7oeWNxDXjmD6fLyunLunVa"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "La Sonora Matancera y sus voces de oro, Vol. 1 (Remastered)",
-        "url": "https://open.spotify.com/album/6uFvAQZBCx1ZMWLxMO35iM"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 153414,
-      "name": "El negrito del Batey - Remastered",
-      "url": "https://open.spotify.com/track/5l3zT77F4kGXeBKs4FO2pH"
     },
     {
       "added_at": "2023-12-20 18:46:33",

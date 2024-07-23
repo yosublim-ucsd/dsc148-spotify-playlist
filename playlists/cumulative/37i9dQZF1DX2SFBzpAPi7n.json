@@ -4151,6 +4151,24 @@
     },
     {
       "album": {
+        "name": "THE WORLD EP.PARADIGM",
+        "url": "https://open.spotify.com/album/2f1QQQD15aeu9e5EWO3XrA"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215438,
+      "name": "Guerrilla - Flag Version",
+      "url": "https://open.spotify.com/track/2lhcC5gHaWaxOEcfa1WwgY"
+    },
+    {
+      "album": {
         "name": "Let\u2019s take a step to a brighter place",
         "url": "https://open.spotify.com/album/33myALTzpif1l5ApybO8pk"
       },
@@ -12780,7 +12798,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 232558,
       "name": "\ub098\ubb34",
       "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"

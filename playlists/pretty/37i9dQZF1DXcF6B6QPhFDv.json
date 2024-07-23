@@ -1,12 +1,12 @@
 {
   "description": "rock never dies. feel it in your bones. \ud83d\udcf8: The Linda Lindas",
-  "num_followers": 4570425,
+  "num_followers": 4570121,
   "original_name": "MARROW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpnkwAAAAABQknSdO/AHxKSUXulBURVh",
+  "snapshot_id": "Zp6VpgAAAACXNuHEQFJj6Qkh9BiNFVyu",
   "tracks": [
     {
       "added_at": "2024-07-19 04:00:00",
@@ -75,18 +75,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Kinky",
-        "url": "https://open.spotify.com/album/0fCN0g8Y2hBCeVLYFHNkRN"
+        "name": "Sad In Carolina",
+        "url": "https://open.spotify.com/album/6zyGuyzZHVMvVmnvwVOCx9"
       },
       "artists": [
         {
-          "name": "bby",
-          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+          "name": "Dexter and The Moonrocks",
+          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
         }
       ],
-      "duration_ms": 134117,
-      "name": "Kinky",
-      "url": "https://open.spotify.com/track/5HO0GMmYN9gPme6XbQMhoF"
+      "duration_ms": 190552,
+      "name": "Sad In Carolina",
+      "url": "https://open.spotify.com/track/4q3jPOs1eS4BoHtG08r9QW"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -103,22 +103,6 @@
       "duration_ms": 158866,
       "name": "Take A Bite",
       "url": "https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Sad In Carolina",
-        "url": "https://open.spotify.com/album/6zyGuyzZHVMvVmnvwVOCx9"
-      },
-      "artists": [
-        {
-          "name": "Dexter and The Moonrocks",
-          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
-        }
-      ],
-      "duration_ms": 190552,
-      "name": "Sad In Carolina",
-      "url": "https://open.spotify.com/track/4q3jPOs1eS4BoHtG08r9QW"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -151,6 +135,22 @@
       "duration_ms": 167996,
       "name": "Takes One To Know One",
       "url": "https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Kinky",
+        "url": "https://open.spotify.com/album/0fCN0g8Y2hBCeVLYFHNkRN"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "duration_ms": 134117,
+      "name": "Kinky",
+      "url": "https://open.spotify.com/track/5HO0GMmYN9gPme6XbQMhoF"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/31N0p91JhTyeJaiP0VxRky"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 148326,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/7q32daOSf12k8WynvXBcyh"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "The 30th Anniversary of Weezer | Spotify Anniversaries LIVE",
         "url": "https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 257413,
       "name": "Say It Ain't So - Spotify Anniversaries Version - Live",
       "url": "https://open.spotify.com/track/5yNwnJeSPgDGSdvuCf44g0"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/31N0p91JhTyeJaiP0VxRky"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 148326,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/7q32daOSf12k8WynvXBcyh"
     },
     {
       "added_at": "2024-07-19 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Sinach
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,373 likes - 85 songs - 11 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,413 likes - 85 songs - 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

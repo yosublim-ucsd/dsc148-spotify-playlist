@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste popliedjes. Cover: Katy Perry",
-  "num_followers": 97398,
+  "num_followers": 97399,
   "original_name": "Fresh Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpxPGAAAAAAUCfP0k/pMNcPLFj1pA59n",
+  "snapshot_id": "Zp7WYAAAAADZmwn7AD7Nv0UhK2AgLPwV",
   "tracks": [
     {
       "added_at": "2024-07-18 22:00:00",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/0ieUviafigTnoovXhb8jyd"
     },
     {
+      "added_at": "2024-07-22 22:00:00",
+      "album": {
+        "name": "15 MINUTES",
+        "url": "https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 189192,
+      "name": "15 MINUTES",
+      "url": "https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf"
+    },
+    {
       "added_at": "2024-07-15 22:00:00",
       "album": {
         "name": "Roots",
@@ -121,36 +137,20 @@
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-22 22:00:00",
       "album": {
-        "name": "Taking My Love Back",
-        "url": "https://open.spotify.com/album/66xNNEPz96RqJIKlw6728p"
+        "name": "Death Wish Love (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC"
       },
       "artists": [
         {
-          "name": "ROND\u00c9",
-          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 141133,
-      "name": "Taking My Love Back",
-      "url": "https://open.spotify.com/track/4kCKaipCawfr34DfyrBVgu"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "bigger love",
-        "url": "https://open.spotify.com/album/2LnQON8qXdOaXm4HaqtLKt"
-      },
-      "artists": [
-        {
-          "name": "Ruxley",
-          "url": "https://open.spotify.com/artist/1STiTeuda0CtQf1DDh7F8P"
-        }
-      ],
-      "duration_ms": 188556,
-      "name": "bigger love",
-      "url": "https://open.spotify.com/track/2VpieVmdihQUTalzU77VRh"
+      "duration_ms": 223955,
+      "name": "Death Wish Love (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2"
     },
     {
       "added_at": "2024-07-15 22:00:00",
@@ -173,6 +173,86 @@
       "url": "https://open.spotify.com/track/6CnRXn7fv8wLXmzsmsAIzm"
     },
     {
+      "added_at": "2024-07-22 22:00:00",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 150243,
+      "name": "So Fast",
+      "url": "https://open.spotify.com/track/7sC4LsVu0KTdn1dLC2tnhu"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Taking My Love Back",
+        "url": "https://open.spotify.com/album/66xNNEPz96RqJIKlw6728p"
+      },
+      "artists": [
+        {
+          "name": "ROND\u00c9",
+          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
+        }
+      ],
+      "duration_ms": 141133,
+      "name": "Taking My Love Back",
+      "url": "https://open.spotify.com/track/4kCKaipCawfr34DfyrBVgu"
+    },
+    {
+      "added_at": "2024-07-22 22:00:00",
+      "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/2AUGXdf8CZckloBZfqY35g"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 158251,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/3kKVjpgY1UQW3ikr0AhMZg"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "bigger love",
+        "url": "https://open.spotify.com/album/2LnQON8qXdOaXm4HaqtLKt"
+      },
+      "artists": [
+        {
+          "name": "Ruxley",
+          "url": "https://open.spotify.com/artist/1STiTeuda0CtQf1DDh7F8P"
+        }
+      ],
+      "duration_ms": 188556,
+      "name": "bigger love",
+      "url": "https://open.spotify.com/track/2VpieVmdihQUTalzU77VRh"
+    },
+    {
+      "added_at": "2024-07-22 22:00:00",
+      "album": {
+        "name": "Everything Or Nothing #DQH2",
+        "url": "https://open.spotify.com/album/3qAA1ejpFJwfbSEyXzBikF"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/3OONvR6HW8rdXNDGYO81Ru"
+    },
+    {
       "added_at": "2024-07-08 11:41:56",
       "album": {
         "name": "Algorithm",
@@ -187,6 +267,22 @@
       "duration_ms": 227368,
       "name": "HERicane",
       "url": "https://open.spotify.com/track/6ywb8fhYB0URhVPhuYK8Z5"
+    },
+    {
+      "added_at": "2024-07-22 22:00:00",
+      "album": {
+        "name": "ICE",
+        "url": "https://open.spotify.com/album/1CfMEQLm2odm1spSvQas9W"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "duration_ms": 185697,
+      "name": "ICE",
+      "url": "https://open.spotify.com/track/0zqZJ7iBj9Jpoy1pdyPnqV"
     },
     {
       "added_at": "2024-07-08 11:41:56",
@@ -221,22 +317,6 @@
       "url": "https://open.spotify.com/track/5msyZ3CYqTXWdIYmrcwBQk"
     },
     {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Tears For Fun",
-      "url": "https://open.spotify.com/track/2cmxKeY72HeimX9tcm57Ru"
-    },
-    {
       "added_at": "2024-07-15 22:00:00",
       "album": {
         "name": "early twenties",
@@ -267,6 +347,38 @@
       "duration_ms": 174660,
       "name": "Look Who's Laughing Now",
       "url": "https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7"
+    },
+    {
+      "added_at": "2024-07-22 22:00:00",
+      "album": {
+        "name": "Mend The Silence",
+        "url": "https://open.spotify.com/album/5dnW4jvcD3BhuFxEnSsniN"
+      },
+      "artists": [
+        {
+          "name": "Mara Necia",
+          "url": "https://open.spotify.com/artist/7GmAxuHGS4ySjZecLjWgfE"
+        }
+      ],
+      "duration_ms": 200888,
+      "name": "Mend The Silence",
+      "url": "https://open.spotify.com/track/6feFYuv2IHjFexCcXDhUz8"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Tears For Fun",
+      "url": "https://open.spotify.com/track/2cmxKeY72HeimX9tcm57Ru"
     },
     {
       "added_at": "2024-07-15 22:00:00",
@@ -787,22 +899,6 @@
     {
       "added_at": "2024-06-10 14:56:03",
       "album": {
-        "name": "Outside Of Love",
-        "url": "https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 175628,
-      "name": "Outside Of Love",
-      "url": "https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40"
-    },
-    {
-      "added_at": "2024-06-10 14:56:03",
-      "album": {
         "name": "don't forget about me",
         "url": "https://open.spotify.com/album/0fVIxgVxPzOVs1vLO7ZZEa"
       },
@@ -831,38 +927,6 @@
       "duration_ms": 199626,
       "name": "Ask & You Shall Receive",
       "url": "https://open.spotify.com/track/4zB5pU3cwGiC6Fcz5qtfUe"
-    },
-    {
-      "added_at": "2024-06-10 14:56:03",
-      "album": {
-        "name": "Chase It (Mmm Da Da Da)",
-        "url": "https://open.spotify.com/album/7LWwnuLW7GNZ8qdw4yPKzN"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 154639,
-      "name": "Chase It (Mmm Da Da Da)",
-      "url": "https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY"
-    },
-    {
-      "added_at": "2024-06-10 14:56:03",
-      "album": {
-        "name": "Never Far From Paradise",
-        "url": "https://open.spotify.com/album/1jyjlTXKLKlZ2WGAbmqQGG"
-      },
-      "artists": [
-        {
-          "name": "Florrie",
-          "url": "https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8"
-        }
-      ],
-      "duration_ms": 187653,
-      "name": "Never Far From Paradise",
-      "url": "https://open.spotify.com/track/5yJDj9ppmBA3FANgQMA24D"
     },
     {
       "added_at": "2024-06-10 14:56:03",
@@ -899,26 +963,6 @@
     {
       "added_at": "2024-06-10 14:56:03",
       "album": {
-        "name": "Cocoon",
-        "url": "https://open.spotify.com/album/3BYNvCPN2QOHwyG6HcBRKT"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        },
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 197945,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/1HiTSSMkRcKzeCEbTlZySu"
-    },
-    {
-      "added_at": "2024-06-10 14:56:03",
-      "album": {
         "name": "Sacrifice Tomorrow",
         "url": "https://open.spotify.com/album/0GVkcfu3pkAdakG3oIt5cu"
       },
@@ -947,38 +991,6 @@
       "duration_ms": 195500,
       "name": "Feel Again",
       "url": "https://open.spotify.com/track/6ZqFEJmQokxWJ2dwzJZ3RR"
-    },
-    {
-      "added_at": "2024-06-10 14:56:03",
-      "album": {
-        "name": "JESS",
-        "url": "https://open.spotify.com/album/4Ql1u2tIY6R7xRXnBgYmKE"
-      },
-      "artists": [
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 187040,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2irLZwJgLkQZRdXnUoILhq"
-    },
-    {
-      "added_at": "2024-06-10 14:56:03",
-      "album": {
-        "name": "Potential",
-        "url": "https://open.spotify.com/album/7k0D9VjRqVMbhg0uNMiq3O"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 177662,
-      "name": "Potential",
-      "url": "https://open.spotify.com/track/7D7oIpsm4trbxthAU7JMtB"
     }
   ],
   "unique_name": "Fresh Pop",

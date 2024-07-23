@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-12",
-  "description": "This is Tom Petty and the Heartbreakers. The essential tracks, all in one playlist.",
+  "description": "This Is Tom Petty and the Heartbreakers. Los temas esenciales, todos en una lista.",
   "name": "This Is Tom Petty and the Heartbreakers",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 245733,
       "name": "All Or Nothin'",
       "url": "https://open.spotify.com/track/1yVRnCEy5qXzwwaWaq4NB9"
@@ -726,10 +726,28 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 144173,
       "name": "I Need to Know",
       "url": "https://open.spotify.com/track/26TpLkciA8vz3kAvSI5tHG"
+    },
+    {
+      "album": {
+        "name": "You're Gonna Get It!",
+        "url": "https://open.spotify.com/album/6q5l0EKkX5ZITkSUy5SObw"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144173,
+      "name": "I Need To Know",
+      "url": "https://open.spotify.com/track/2NNpI1bOvnhXcACZ4IdiM3"
     },
     {
       "album": {
@@ -838,7 +856,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 223333,
       "name": "Into The Great Wide Open",
       "url": "https://open.spotify.com/track/63xBnyUVKIupzjHno4wFs3"
@@ -946,7 +964,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 242106,
       "name": "Learning To Fly",
       "url": "https://open.spotify.com/track/17S4XrLvF5jlGvGCJHgF51"
@@ -1072,7 +1090,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 273600,
       "name": "Mary Jane's Last Dance",
       "url": "https://open.spotify.com/track/3dmqIB2Qxe2XZobw9gXxJ6"
@@ -1202,7 +1220,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 221000,
       "name": "Out In The Cold",
       "url": "https://open.spotify.com/track/3m8w70z3xjmSjpc30Bn2T2"
@@ -1256,7 +1274,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 201693,
       "name": "Refugee",
       "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
@@ -1476,7 +1494,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 229000,
       "name": "Straight Into Darkness",
       "url": "https://open.spotify.com/track/7qqxZi3lnnNNdoeUOwzN6g"
@@ -1674,7 +1692,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 251853,
       "name": "U Get Me High",
       "url": "https://open.spotify.com/track/2rlhuKi3o7oySloqWw5TUa"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. JC Reyes, Omar Montes",
+  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Beny Jr",
   "name": "PEGAO",
   "tracks": [
     {
@@ -3699,6 +3699,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9jame Entrar",
+        "url": "https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254705,
+      "name": "D\u00e9jame Entrar",
+      "url": "https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU"
+    },
+    {
+      "album": {
         "name": "diamantes y espinas",
         "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
       },
@@ -6288,6 +6306,24 @@
       "duration_ms": 229738,
       "name": "LA RANGER (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/6m5pxtjGX5rEzvGS1SUTVt"
+    },
+    {
+      "album": {
+        "name": "blu\u20acs",
+        "url": "https://open.spotify.com/album/4w81uLwtHNI0rgoLYBJCIT"
+      },
+      "artists": [
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133767,
+      "name": "la ra\u00edz d\u20acl mal",
+      "url": "https://open.spotify.com/track/6S8uVRVYlNsXLQ57FCWpt8"
     },
     {
       "album": {
@@ -9722,6 +9758,28 @@
       "duration_ms": 187960,
       "name": "Q-Lito",
       "url": "https://open.spotify.com/track/6Xgl86s5e6eHHffFPRa7MX"
+    },
+    {
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172797,
+      "name": "QLONA",
+      "url": "https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh"
     },
     {
       "album": {

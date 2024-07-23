@@ -2,9 +2,9 @@
 
 ### [This Is JJ Hairston](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1D0sR2)
 
-> This is JJ Hairston\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is JJ Hairston\. The essential tracks, all in one playlist.
 
-145 songs - 16 hr 9 min
+146 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [He Reigns](https://open.spotify.com/track/4w67C9ICVsxgbPzMqVRNYS) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA) | 5:42 | 2024-01-07 |  |
 | [He Shall Reign Forevermore \- Live](https://open.spotify.com/track/2DHiJ8ETKsHfSm4Pb6WHeH) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Donishisa Ballard](https://open.spotify.com/artist/1DvT4SMxc9Myoo6sBTGzOq), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm) | [Joy Is Here \(Live\)](https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa) | 10:47 | 2024-01-08 | 2024-01-14 |
 | [He's Worthy](https://open.spotify.com/track/1QPFwYsaopJstLBjpMTEo8) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA) | 4:51 | 2024-06-27 | 2024-07-08 |
+| [I Am](https://open.spotify.com/track/0mU6VcGFHTkzxNSu93K0gp) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [After This](https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g) | 4:37 | 2024-07-23 |  |
 | [I Am Thankful](https://open.spotify.com/track/0p0tFR1OuBkWOrsb6SbvaW) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Chris House](https://open.spotify.com/artist/6VnxEUi7BfcBs9u6YsfTsZ) | [Not Holding Back](https://open.spotify.com/album/4xYwMKxTffmhIZwJKLsMlR) | 9:12 | 2023-04-02 | 2024-01-07 |
 | [I Am Thankful](https://open.spotify.com/track/78e5Uq7w3JlVBwEoOVSmac) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Chris House](https://open.spotify.com/artist/6VnxEUi7BfcBs9u6YsfTsZ) | [Not Holding Back](https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk) | 9:12 | 2024-01-06 |  |
 | [I Feel You Moving](https://open.spotify.com/track/5Ak7GmSRaZc5OdUPR21gK5) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Jason Nelson](https://open.spotify.com/artist/5O3FSEZyqMTsQi0RQlJLV3) | [I See Victory](https://open.spotify.com/album/4BRPb4QlYTndXSoCuEsEBl) | 6:57 | 2023-04-02 | 2024-01-07 |
@@ -131,7 +132,7 @@
 | [We Adore You \- Live](https://open.spotify.com/track/6X0MR8zGMm0HkrY0bbuOI3) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm) | [Joy Is Here \(Live\)](https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB) | 8:19 | 2024-01-14 |  |
 | [We Serve \(feat\. Travis Greene\)](https://open.spotify.com/track/1XcmuuYKOrWmDebXxb6VgP) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [You Deserve It \(Deluxe Edition\)](https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1) | 7:45 | 2024-01-08 |  |
 | [We Serve \(feat\. Travis Greene\)](https://open.spotify.com/track/5j6ZKQF1mEelSUVRKqXhK8) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [You Deserve It \(Deluxe Edition\)](https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP) | 7:45 | 2023-04-02 | 2024-01-09 |
-| [We Worship Christ \- Live](https://open.spotify.com/track/3xzLpAX2uQAGc8ypyRVq2o) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [JeNard Carpenter](https://open.spotify.com/artist/7qBhbntecLXk6ZlnTaGbav) | [Joy Is Here \(Live\)](https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB) | 6:38 | 2024-07-20 |  |
+| [We Worship Christ \- Live](https://open.spotify.com/track/3xzLpAX2uQAGc8ypyRVq2o) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [JeNard Carpenter](https://open.spotify.com/artist/7qBhbntecLXk6ZlnTaGbav) | [Joy Is Here \(Live\)](https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB) | 6:38 | 2024-07-20 | 2024-07-23 |
 | [We Worship Christ \- Live](https://open.spotify.com/track/5MZ9Z2LoVksgrXV4zsVoxA) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [JeNard Carpenter](https://open.spotify.com/artist/7qBhbntecLXk6ZlnTaGbav) | [Joy Is Here \(Live\)](https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa) | 6:38 | 2024-01-14 | 2024-01-18 |
 | [You Are Awesome](https://open.spotify.com/track/0JuACuUfaF7TVgHTQV5gCa) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py) | 5:29 | 2023-04-02 | 2024-01-10 |
 | [You Are Awesome](https://open.spotify.com/track/4h5GMPfnPIHhcZ0yuVWSAw) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA) | 5:29 | 2024-02-04 |  |

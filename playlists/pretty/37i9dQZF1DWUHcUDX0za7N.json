@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Showdemcamp, The cavemen & nsikak david",
-  "num_followers": 52234,
+  "num_followers": 52283,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
+        "name": "LOVE OR LAMBA",
+        "url": "https://open.spotify.com/album/0B7OiCfdcXs7a68aYvm6wP"
+      },
+      "artists": [
+        {
+          "name": "Kobi Jonz",
+          "url": "https://open.spotify.com/artist/5k9IrMHs9Jfpk8A94Ta7nR"
+        }
+      ],
+      "duration_ms": 153402,
+      "name": "LOVE OR LAMBA",
+      "url": "https://open.spotify.com/track/4jkIybqZVorJl9tUsurxLH"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
         "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
         "url": "https://open.spotify.com/album/2imNyNmpOrJktWi5eQNLY1"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 147192,
       "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
       "url": "https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
-        "name": "LOVE OR LAMBA",
-        "url": "https://open.spotify.com/album/0B7OiCfdcXs7a68aYvm6wP"
-      },
-      "artists": [
-        {
-          "name": "Kobi Jonz",
-          "url": "https://open.spotify.com/artist/5k9IrMHs9Jfpk8A94Ta7nR"
-        }
-      ],
-      "duration_ms": 153402,
-      "name": "LOVE OR LAMBA",
-      "url": "https://open.spotify.com/track/4jkIybqZVorJl9tUsurxLH"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Ije Nwoke",
-        "url": "https://open.spotify.com/album/7q8Vopxx2mj4DSe04qHP1X"
-      },
-      "artists": [
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 157808,
-      "name": "Ije Nwoke",
-      "url": "https://open.spotify.com/track/0yeE2B1raXnYil6MiAJPA1"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
         "name": "Taya",
         "url": "https://open.spotify.com/album/22MDn2iHQC7Uj5bEyU79L0"
       },
@@ -911,18 +895,34 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "On Boiz",
-        "url": "https://open.spotify.com/album/7vW0pMgrEcQhzUMvPMrEJm"
+        "name": "Ije Nwoke",
+        "url": "https://open.spotify.com/album/7q8Vopxx2mj4DSe04qHP1X"
       },
       "artists": [
         {
-          "name": "Aj\u00e9 (The Realest)",
-          "url": "https://open.spotify.com/artist/64238OzArmly4GYxwSbRdy"
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
         }
       ],
-      "duration_ms": 143408,
-      "name": "On Boiz",
-      "url": "https://open.spotify.com/track/6dwr5OEMoUDrXcEjVegpHp"
+      "duration_ms": 157808,
+      "name": "Ije Nwoke",
+      "url": "https://open.spotify.com/track/0yeE2B1raXnYil6MiAJPA1"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "Belong to You",
+        "url": "https://open.spotify.com/album/4wQ95SQDjYY9WxDp3ClIrU"
+      },
+      "artists": [
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Belong to You",
+      "url": "https://open.spotify.com/track/4JDB6Rqf7lkWNx9wzs4kVb"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -951,18 +951,18 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Belong to You",
-        "url": "https://open.spotify.com/album/4wQ95SQDjYY9WxDp3ClIrU"
+        "name": "On Boiz",
+        "url": "https://open.spotify.com/album/7vW0pMgrEcQhzUMvPMrEJm"
       },
       "artists": [
         {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "Aj\u00e9 (The Realest)",
+          "url": "https://open.spotify.com/artist/64238OzArmly4GYxwSbRdy"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Belong to You",
-      "url": "https://open.spotify.com/track/4JDB6Rqf7lkWNx9wzs4kVb"
+      "duration_ms": 143408,
+      "name": "On Boiz",
+      "url": "https://open.spotify.com/track/6dwr5OEMoUDrXcEjVegpHp"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Can You Hear Me? (feat. Daiela)",
-        "url": "https://open.spotify.com/album/0WJboNwlFuIjKbyk3ylw1o"
-      },
-      "artists": [
-        {
-          "name": "DAP The Contract",
-          "url": "https://open.spotify.com/artist/12OwAxjoznv1QOdIGR9R73"
-        },
-        {
-          "name": "Daiela",
-          "url": "https://open.spotify.com/artist/44whqkFHSInFDnpZ4xsTG6"
-        }
-      ],
-      "duration_ms": 194688,
-      "name": "Can You Hear Me? (feat. Daiela)",
-      "url": "https://open.spotify.com/track/0DdevPBh3T5igMwgsq9Hm4"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
         "name": "Evil Twin",
         "url": "https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 152558,
       "name": "Breaking News",
       "url": "https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "Can You Hear Me? (feat. Daiela)",
+        "url": "https://open.spotify.com/album/0WJboNwlFuIjKbyk3ylw1o"
+      },
+      "artists": [
+        {
+          "name": "DAP The Contract",
+          "url": "https://open.spotify.com/artist/12OwAxjoznv1QOdIGR9R73"
+        },
+        {
+          "name": "Daiela",
+          "url": "https://open.spotify.com/artist/44whqkFHSInFDnpZ4xsTG6"
+        }
+      ],
+      "duration_ms": 194688,
+      "name": "Can You Hear Me? (feat. Daiela)",
+      "url": "https://open.spotify.com/track/0DdevPBh3T5igMwgsq9Hm4"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
+        "name": "Osimhen",
+        "url": "https://open.spotify.com/album/0qsU8DB7HceYBCzdLbC8Bd"
+      },
+      "artists": [
+        {
+          "name": "Priesst",
+          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
+        }
+      ],
+      "duration_ms": 154416,
+      "name": "Osimhen",
+      "url": "https://open.spotify.com/track/2fYD0mOWlPBjtyVDJx9xI4"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
         "name": "Before The Feast",
         "url": "https://open.spotify.com/album/3ShLyszujn5P1Jb5yihyNI"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 124556,
       "name": "Popping Tonight",
       "url": "https://open.spotify.com/track/4veszAy3oVExaFiLZxrskN"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
-        "name": "Osimhen",
-        "url": "https://open.spotify.com/album/0qsU8DB7HceYBCzdLbC8Bd"
-      },
-      "artists": [
-        {
-          "name": "Priesst",
-          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
-        }
-      ],
-      "duration_ms": 154416,
-      "name": "Osimhen",
-      "url": "https://open.spotify.com/track/2fYD0mOWlPBjtyVDJx9xI4"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Tena",
-        "url": "https://open.spotify.com/album/1xuHZkLI7kjFUrM6Y6FXRl"
-      },
-      "artists": [
-        {
-          "name": "Kobi Jonz",
-          "url": "https://open.spotify.com/artist/5k9IrMHs9Jfpk8A94Ta7nR"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Tena",
-      "url": "https://open.spotify.com/track/3pohfOAdKZRKP8AyOy9QDi"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
         "name": "Vawulence (Remix)",
         "url": "https://open.spotify.com/album/1hkosTcAidMQWeEdYgMEri"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 174315,
       "name": "Vawulence (Remix)",
       "url": "https://open.spotify.com/track/26zrOWI3JO2y0grY3UyTGj"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "Tena",
+        "url": "https://open.spotify.com/album/1xuHZkLI7kjFUrM6Y6FXRl"
+      },
+      "artists": [
+        {
+          "name": "Kobi Jonz",
+          "url": "https://open.spotify.com/artist/5k9IrMHs9Jfpk8A94Ta7nR"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Tena",
+      "url": "https://open.spotify.com/track/3pohfOAdKZRKP8AyOy9QDi"
     }
   ],
   "unique_name": "Naija Bars ",

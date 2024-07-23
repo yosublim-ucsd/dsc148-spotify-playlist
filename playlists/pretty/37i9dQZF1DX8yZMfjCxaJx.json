@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. La Adictiva y El Fantasma en portada.",
-  "num_followers": 223268,
+  "num_followers": 223341,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
+        "name": "La Capi",
+        "url": "https://open.spotify.com/album/55pTCyi6i0JmvmiIA1yGl2"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 189075,
+      "name": "La Capi",
+      "url": "https://open.spotify.com/track/2jMAtQFsAhG5Fo9tVH3xfK"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
         "name": "THE GB",
         "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 153557,
       "name": "BELIKON",
       "url": "https://open.spotify.com/track/3cZ7HCLpXjKGy0mLNNPvxr"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "La Capi",
-        "url": "https://open.spotify.com/album/55pTCyi6i0JmvmiIA1yGl2"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 189075,
-      "name": "La Capi",
-      "url": "https://open.spotify.com/track/2jMAtQFsAhG5Fo9tVH3xfK"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "Desde La Prisi\u00f3n 19",
-        "url": "https://open.spotify.com/album/1kdG9DtGQoZGHAEFd4lLQj"
-      },
-      "artists": [
-        {
-          "name": "Grupo Cartel",
-          "url": "https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J"
-        }
-      ],
-      "duration_ms": 175583,
-      "name": "Desde La Prisi\u00f3n 19",
-      "url": "https://open.spotify.com/track/5WKa58Z9qiOYdOwKw52KUg"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
         "name": "EXOTIC\u00d3N",
         "url": "https://open.spotify.com/album/7MTZomem1mbxWoBgo9u52X"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 158493,
       "name": "EXOTIC\u00d3N",
       "url": "https://open.spotify.com/track/5D679I3gCMw6maX0MQR5Vw"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "Desde La Prisi\u00f3n 19",
+        "url": "https://open.spotify.com/album/1kdG9DtGQoZGHAEFd4lLQj"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cartel",
+          "url": "https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J"
+        }
+      ],
+      "duration_ms": 175583,
+      "name": "Desde La Prisi\u00f3n 19",
+      "url": "https://open.spotify.com/track/5WKa58Z9qiOYdOwKw52KUg"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
+        "name": "Sold Out",
+        "url": "https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "duration_ms": 198036,
+      "name": "Sold Out",
+      "url": "https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
         "name": "La Revancha (En Vivo)",
         "url": "https://open.spotify.com/album/0UNQNIZZhS7dlLGhEvPCUD"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 182045,
       "name": "Los Cuartitos (En Vivo)",
       "url": "https://open.spotify.com/track/73XOOI8jTRXGLlLzequy3M"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "Sold Out",
-        "url": "https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi"
-      },
-      "artists": [
-        {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
-        }
-      ],
-      "duration_ms": 198036,
-      "name": "Sold Out",
-      "url": "https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
+        "name": "Los Cheetos",
+        "url": "https://open.spotify.com/album/0VHXUvSjtDKV7b07JMDgCp"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 205525,
+      "name": "Los Cheetos",
+      "url": "https://open.spotify.com/track/4uPbjb2byXsOAh2a1KaaAU"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
         "name": "Don Cheyo Imperial",
         "url": "https://open.spotify.com/album/6FMWZ9K8YlljAxvWdLBYOn"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 179486,
       "name": "Luces, C\u00e1mara y Acci\u00f3n",
       "url": "https://open.spotify.com/track/2Olwh5dazDuJLNMPxAszab"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "Los Cheetos",
-        "url": "https://open.spotify.com/album/0VHXUvSjtDKV7b07JMDgCp"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 205525,
-      "name": "Los Cheetos",
-      "url": "https://open.spotify.com/track/4uPbjb2byXsOAh2a1KaaAU"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
+        "name": "El Corrido de Luisito",
+        "url": "https://open.spotify.com/album/2C9Gt8uvZeWrzntBtHTO1G"
+      },
+      "artists": [
+        {
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "El Corrido de Luisito",
+      "url": "https://open.spotify.com/track/0YGFzNB1HiK0pS6tN3em8K"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
         "name": "Buenas Vibras",
         "url": "https://open.spotify.com/album/7zgQU4dD2S2122n8as0vco"
       },
@@ -1571,6 +1587,22 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
+        "name": "El Muletas",
+        "url": "https://open.spotify.com/album/5YT6xi1UEcpYh07FRQc3Q5"
+      },
+      "artists": [
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "duration_ms": 216575,
+      "name": "El Muletas",
+      "url": "https://open.spotify.com/track/1K1Y3NUDZulng4vgoRR6hE"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
         "name": "B.M.T",
         "url": "https://open.spotify.com/album/3LcuQGx8YAispGsomWu2fF"
       },
@@ -1583,22 +1615,6 @@
       "duration_ms": 188393,
       "name": "Bienvenidos a Guasave",
       "url": "https://open.spotify.com/track/1Fmurh0G4umnBgsJtZoD0Q"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "El Corrido de Luisito",
-        "url": "https://open.spotify.com/album/2C9Gt8uvZeWrzntBtHTO1G"
-      },
-      "artists": [
-        {
-          "name": "Dinamicos Jrs",
-          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "El Corrido de Luisito",
-      "url": "https://open.spotify.com/track/0YGFzNB1HiK0pS6tN3em8K"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1643,34 +1659,18 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "Leyendas",
-        "url": "https://open.spotify.com/album/2tG8rtWaejsYPkwYjGiCzO"
+        "name": "El P8",
+        "url": "https://open.spotify.com/album/01hMLYztvfMO4LNmv8AUoV"
       },
       "artists": [
         {
-          "name": "La Ventaja",
-          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
         }
       ],
-      "duration_ms": 168806,
-      "name": "La Casa De Balta",
-      "url": "https://open.spotify.com/track/2dIlhCIUP8P9kAjs9qDgvE"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "El Muletas",
-        "url": "https://open.spotify.com/album/5YT6xi1UEcpYh07FRQc3Q5"
-      },
-      "artists": [
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
-        }
-      ],
-      "duration_ms": 216575,
-      "name": "El Muletas",
-      "url": "https://open.spotify.com/track/1K1Y3NUDZulng4vgoRR6hE"
+      "duration_ms": 216011,
+      "name": "El P8",
+      "url": "https://open.spotify.com/track/3ETjJoHFlZdlNYwYFXXMYg"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "El P8",
-        "url": "https://open.spotify.com/album/01hMLYztvfMO4LNmv8AUoV"
+        "name": "Leyendas",
+        "url": "https://open.spotify.com/album/2tG8rtWaejsYPkwYjGiCzO"
       },
       "artists": [
         {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
         }
       ],
-      "duration_ms": 216011,
-      "name": "El P8",
-      "url": "https://open.spotify.com/track/3ETjJoHFlZdlNYwYFXXMYg"
+      "duration_ms": 168806,
+      "name": "La Casa De Balta",
+      "url": "https://open.spotify.com/track/2dIlhCIUP8P9kAjs9qDgvE"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1727,22 +1727,6 @@
       "duration_ms": 338470,
       "name": "Valente Quintero - En Vivo",
       "url": "https://open.spotify.com/track/2CSzHGJcQwibhTZpRbJnkQ"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "Jardines Del Humaya",
-        "url": "https://open.spotify.com/album/2dGIIbRg2yOR6rShg9a6v9"
-      },
-      "artists": [
-        {
-          "name": "La Ventaja",
-          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
-        }
-      ],
-      "duration_ms": 214777,
-      "name": "Jardines Del Humaya",
-      "url": "https://open.spotify.com/track/6Y2YCIxmUuzuDTScVJF2WK"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1799,6 +1783,22 @@
       "duration_ms": 237700,
       "name": "A Punta De Balazos - En Vivo",
       "url": "https://open.spotify.com/track/0o26lY9phEuhqZvSKTfGcb"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "Jardines Del Humaya",
+        "url": "https://open.spotify.com/album/2dGIIbRg2yOR6rShg9a6v9"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        }
+      ],
+      "duration_ms": 214777,
+      "name": "Jardines Del Humaya",
+      "url": "https://open.spotify.com/track/6Y2YCIxmUuzuDTScVJF2WK"
     },
     {
       "added_at": "2024-07-19 06:00:00",

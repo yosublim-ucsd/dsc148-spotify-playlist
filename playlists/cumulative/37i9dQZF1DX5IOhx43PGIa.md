@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\.  Cover: keshi.
 
-843 songs - 1 day 19 hr 31 min
+844 songs - 1 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -753,7 +753,7 @@
 | [TOUCH](https://open.spotify.com/track/7mZ19pGoinaWwanIDq0JTY) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [TOUCH](https://open.spotify.com/album/58QltYKAAcCgYSoyzDsCP7) | 3:25 | 2022-05-27 | 2022-07-29 |
 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 | 2024-01-19 |  |
 | [Tragic Love](https://open.spotify.com/track/1UBwp5S204qFsVS0enwAEo) | [H I N A N O](https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY) | [Tragic Love](https://open.spotify.com/album/4YxfdqBl4tSYgERe54AWPS) | 3:23 | 2024-02-23 | 2024-07-21 |
-| [Train Goes Faster](https://open.spotify.com/track/1tYOveOD0d2Pu0DYO7jJ4J) | [Will Jay](https://open.spotify.com/artist/4lWJityOQkWcLFiboQBvBq) | [Train Goes Faster](https://open.spotify.com/album/0wX5y6h9xocq3xvcZgeuD9) | 2:48 | 2024-05-15 |  |
+| [Train Goes Faster](https://open.spotify.com/track/1tYOveOD0d2Pu0DYO7jJ4J) | [Will Jay](https://open.spotify.com/artist/4lWJityOQkWcLFiboQBvBq) | [Train Goes Faster](https://open.spotify.com/album/0wX5y6h9xocq3xvcZgeuD9) | 2:48 | 2024-05-15 | 2024-07-23 |
 | [Trauma](https://open.spotify.com/track/48JqgW96LVIcrE4umJweWw) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Trauma](https://open.spotify.com/album/2wYh1adQn0CaWPlJMHFo56) | 2:43 | 2023-08-04 | 2024-03-23 |
 | [TRAVELIN'](https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [TRAVELIN'](https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y) | 3:37 | 2023-08-25 | 2024-06-15 |
 | [traveling](https://open.spotify.com/track/6OxxzC0HsX7zK3ZO3q79H6) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [DEEP RIVER](https://open.spotify.com/album/5xcIRLlQWJBqN8fpmlskGr) | 5:13 | 2022-09-23 | 2022-10-08 |
@@ -830,6 +830,7 @@
 | [You](https://open.spotify.com/track/52INmBPUsLUQ6to3WnGWUm) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [You](https://open.spotify.com/album/2jjveyg1Fb0Pf6wfnTOGg4) | 3:14 | 2022-05-27 | 2023-08-12 |
 | [You](https://open.spotify.com/track/05zKUkJCx09zN4RfHHYG94) | [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) | [You](https://open.spotify.com/album/6RAGRnaFCd8sAA7XIBmXP5) | 3:33 | 2022-07-22 | 2022-09-10 |
 | [You & Me](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 | 2023-10-06 |  |
+| [you \(꿈\)](https://open.spotify.com/track/0K6tzLlWxc6H7ZSb8eiSia) | [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb) | [STARPOP](https://open.spotify.com/album/4FB4yfITG3rwtu8htRBThs) | 2:07 | 2024-07-19 |  |
 | [You Are \(feat\. Corinne Bailey Rae & UMI\)](https://open.spotify.com/track/3f0SgNOjVjUW7BTv79WgX3) | [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd), [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [You Are \(feat\. Corinne Bailey Rae & UMI\)](https://open.spotify.com/album/75evbAxtFFu951JESaYEyM) | 3:57 | 2022-05-27 | 2022-08-27 |
 | [you don't like me like that](https://open.spotify.com/track/3OPyobYAM5MgTm35AJV99O) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [you don't like me like that](https://open.spotify.com/album/35YQAprIaYWKCWtr7iS5UT) | 2:35 | 2023-05-19 | 2023-09-02 |
 | [you won't be there for me](https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [you won't be there for me](https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa) | 3:02 | 2023-03-10 | 2023-11-11 |

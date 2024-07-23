@@ -1,6 +1,6 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Daniel, Me Est\u00e1s Matando",
-  "num_followers": 85967,
+  "num_followers": 86004,
   "original_name": "boleritos",
   "owner": {
     "name": "Spotify",
@@ -379,18 +379,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
-        "url": "https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q"
+        "name": "Camas Separadas",
+        "url": "https://open.spotify.com/album/7n2Jn4FFREegsVpFlVpbp3"
       },
       "artists": [
         {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         }
       ],
-      "duration_ms": 178630,
-      "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
-      "url": "https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v"
+      "duration_ms": 218506,
+      "name": "Costa Rica",
+      "url": "https://open.spotify.com/track/6fodcUvAswFV8Az3Imd5F5"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Camas Separadas",
-        "url": "https://open.spotify.com/album/7n2Jn4FFREegsVpFlVpbp3"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 218506,
-      "name": "Costa Rica",
-      "url": "https://open.spotify.com/track/6fodcUvAswFV8Az3Imd5F5"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Juntos Otra Vez",
         "url": "https://open.spotify.com/album/5t2r34uTiQMRsFrJlyDPpr"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 157176,
       "name": "Odio Gitano",
       "url": "https://open.spotify.com/track/02Ac24S0EOspktEdg0CeCi"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
+        "url": "https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "duration_ms": 178630,
+      "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
+      "url": "https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -611,18 +611,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Conversaciones Ajenas en un Caf\u00e9",
-        "url": "https://open.spotify.com/album/4UHIunQP15TgnfK7aCWhM9"
+        "name": "Viejitos",
+        "url": "https://open.spotify.com/album/7DZ4iMQMjZ1aQORiKD56Xv"
       },
       "artists": [
         {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+          "name": "Okills",
+          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
         }
       ],
-      "duration_ms": 211156,
-      "name": "\u00bfA Qu\u00e9 Te Sabe el Caf\u00e9?",
-      "url": "https://open.spotify.com/track/5n7a1XYL8oaOGNptOdENIQ"
+      "duration_ms": 225476,
+      "name": "Viejitos",
+      "url": "https://open.spotify.com/track/2Zcpghuzu8wX8C9KVbnkun"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -643,22 +647,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Viejitos",
-        "url": "https://open.spotify.com/album/7DZ4iMQMjZ1aQORiKD56Xv"
+        "name": "Conversaciones Ajenas en un Caf\u00e9",
+        "url": "https://open.spotify.com/album/4UHIunQP15TgnfK7aCWhM9"
       },
       "artists": [
         {
-          "name": "Okills",
-          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
-        },
-        {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
         }
       ],
-      "duration_ms": 225476,
-      "name": "Viejitos",
-      "url": "https://open.spotify.com/track/2Zcpghuzu8wX8C9KVbnkun"
+      "duration_ms": 211156,
+      "name": "\u00bfA Qu\u00e9 Te Sabe el Caf\u00e9?",
+      "url": "https://open.spotify.com/track/5n7a1XYL8oaOGNptOdENIQ"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Tengo Algo Que Decirte",
-        "url": "https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A"
+        "name": "Apasionadamente",
+        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
       },
       "artists": [
         {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
         }
       ],
-      "duration_ms": 206546,
-      "name": "Tengo Algo Que Decirte",
-      "url": "https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG"
+      "duration_ms": 180588,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Apasionadamente",
-        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
+        "name": "Tengo Algo Que Decirte",
+        "url": "https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A"
       },
       "artists": [
         {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
         }
       ],
-      "duration_ms": 180588,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
+      "duration_ms": 206546,
+      "name": "Tengo Algo Que Decirte",
+      "url": "https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG"
     },
     {
       "added_at": "2024-07-12 04:00:00",

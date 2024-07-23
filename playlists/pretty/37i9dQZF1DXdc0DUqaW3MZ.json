@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 345406,
+  "num_followers": 345502,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "OUR LOVE (80'S)",
-        "url": "https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX"
-      },
-      "artists": [
-        {
-          "name": "YOURS",
-          "url": "https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7"
-        }
-      ],
-      "duration_ms": 179323,
-      "name": "OUR LOVE (80'S)",
-      "url": "https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Walked In The Room",
         "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
       },
@@ -847,22 +831,18 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
+        "name": "OUR LOVE (80'S)",
+        "url": "https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX"
       },
       "artists": [
         {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+          "name": "YOURS",
+          "url": "https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7"
         }
       ],
-      "duration_ms": 218973,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
+      "duration_ms": 179323,
+      "name": "OUR LOVE (80'S)",
+      "url": "https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -883,6 +863,26 @@
       "duration_ms": 201626,
       "name": "Deafened (feat. Family Habits)",
       "url": "https://open.spotify.com/track/1uQGRe4JpJqKqYvMRkeOtV"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 218973,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -919,26 +919,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Happy Ending (A.G Remix)",
-        "url": "https://open.spotify.com/album/193C77LqG2p3YtbHu3SwPt"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        },
-        {
-          "name": "A.G",
-          "url": "https://open.spotify.com/artist/1TTOSCFPyiNJXR5KCsZGqM"
-        }
-      ],
-      "duration_ms": 195800,
-      "name": "Happy Ending - A.G Remix",
-      "url": "https://open.spotify.com/track/64JCU4QP7RRmlPqXQWgW6S"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "North",
         "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 222000,
       "name": "Middle of Things, Beautiful Wife (feat. Xavier Oma\u0308r))",
       "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Happy Ending (A.G Remix)",
+        "url": "https://open.spotify.com/album/193C77LqG2p3YtbHu3SwPt"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "A.G",
+          "url": "https://open.spotify.com/artist/1TTOSCFPyiNJXR5KCsZGqM"
+        }
+      ],
+      "duration_ms": 195800,
+      "name": "Happy Ending - A.G Remix",
+      "url": "https://open.spotify.com/track/64JCU4QP7RRmlPqXQWgW6S"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "SOLID (Adam Swim Remix)",
-        "url": "https://open.spotify.com/album/0w7NLSySt7vtrmjtUHZDJu"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Das Cabrio",
-          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
-        },
-        {
-          "name": "Adam Swim",
-          "url": "https://open.spotify.com/artist/0ZHyEyFhetS8KsJ8taBr35"
-        }
-      ],
-      "duration_ms": 311578,
-      "name": "SOLID - Adam Swim Remix",
-      "url": "https://open.spotify.com/track/0eexYnEdmMy8AIICcQjkYi"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Holier (JD. REID Remix feat. Shygirl)",
         "url": "https://open.spotify.com/album/42At6bfdhnCcDuX2d3zhxh"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 215063,
       "name": "Holier - JD. REID Remix feat. Shygirl",
       "url": "https://open.spotify.com/track/3SAGwjKKitPBNpgdi80ScD"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "SOLID (Adam Swim Remix)",
+        "url": "https://open.spotify.com/album/0w7NLSySt7vtrmjtUHZDJu"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Das Cabrio",
+          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
+        },
+        {
+          "name": "Adam Swim",
+          "url": "https://open.spotify.com/artist/0ZHyEyFhetS8KsJ8taBr35"
+        }
+      ],
+      "duration_ms": 311578,
+      "name": "SOLID - Adam Swim Remix",
+      "url": "https://open.spotify.com/track/0eexYnEdmMy8AIICcQjkYi"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1331,42 +1331,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Da Bump",
-        "url": "https://open.spotify.com/album/6KvcL7bYlbKre0ywXkiw7y"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Das Cabrio",
-          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
-        }
-      ],
-      "duration_ms": 205679,
-      "name": "Da Bump",
-      "url": "https://open.spotify.com/track/53uo8HtqXUDJdeZ4Vd5PsE"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "Gravity (feat. ALLKNIGHT)",
-        "url": "https://open.spotify.com/album/2pH5xR9bZtJYGCcFbyu5ab"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        },
-        {
-          "name": "ALLKNIGHT",
-          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
-        }
-      ],
-      "duration_ms": 220203,
-      "name": "Gravity (feat. ALLKNIGHT)",
-      "url": "https://open.spotify.com/track/3iMkKRoe7RET14nRHia1A4"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Closure (Flexulant x BAMBII Remix feat. Rahrah Gabor + brazy)",
         "url": "https://open.spotify.com/album/5hEYwukqmNvYtTHSgYOlos"
       },
@@ -1395,6 +1359,42 @@
       "duration_ms": 286040,
       "name": "Closure - Flexulant x BAMBII Remix feat. Rahrah Gabor + Brazy",
       "url": "https://open.spotify.com/track/2pqiyukPWDQQSkKVDEoKoA"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Gravity (feat. ALLKNIGHT)",
+        "url": "https://open.spotify.com/album/2pH5xR9bZtJYGCcFbyu5ab"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        }
+      ],
+      "duration_ms": 220203,
+      "name": "Gravity (feat. ALLKNIGHT)",
+      "url": "https://open.spotify.com/track/3iMkKRoe7RET14nRHia1A4"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Da Bump",
+        "url": "https://open.spotify.com/album/6KvcL7bYlbKre0ywXkiw7y"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Das Cabrio",
+          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
+        }
+      ],
+      "duration_ms": 205679,
+      "name": "Da Bump",
+      "url": "https://open.spotify.com/track/53uo8HtqXUDJdeZ4Vd5PsE"
     },
     {
       "added_at": "2024-07-18 23:00:00",

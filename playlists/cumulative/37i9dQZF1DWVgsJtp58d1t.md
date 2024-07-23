@@ -4,7 +4,7 @@
 
 > New music from Black artists every Friday\. Cover: <a href="spotify:artist:4qXC0i02bSFstECuXP2ZpL">Blxst</a>
 
-3,544 songs - 7 day 10 hr 16 min
+3,545 songs - 7 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1583,7 +1583,8 @@
 | [In My Pockets](https://open.spotify.com/track/7nMAdI1vYJUEK8aCMhLwrR) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Spaceships on the Blade](https://open.spotify.com/album/2aydhloXt99nJk9Nsu5AV4) | 2:39 | 2022-08-19 | 2022-09-10 |
 | [In The Club](https://open.spotify.com/track/1MRvZ3PMsd86Kul6xINAze) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [In The Club](https://open.spotify.com/album/5KWKFjOuDQ0W7KUimRclNs) | 2:52 | 2022-04-29 | 2022-06-08 |
 | [In The Mood](https://open.spotify.com/track/2omLNrDBhaCBqscV1yltOB) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [In The Mood](https://open.spotify.com/album/47k4k9xp4avDKdMkPuvLQS) | 4:02 | 2023-03-03 | 2023-03-25 |
-| [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe) | 3:49 | 2024-07-19 |  |
+| [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/track/11bJ1ws3dathgY9uzADUhL) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 3:49 | 2024-07-22 |  |
+| [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe) | 3:49 | 2024-07-19 | 2024-07-23 |
 | [In The UK](https://open.spotify.com/track/7kWXW1tYyE2cOR11TPkKT7) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [In The UK](https://open.spotify.com/album/7ueX2aPzPqbryfJKHnJPTh) | 3:03 | 2022-07-09 | 2022-08-06 |
 | [In The Way](https://open.spotify.com/track/58c9TE41TdDYYJ9NfIaE9X) | [GoGo Morrow](https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO) | [Ready](https://open.spotify.com/album/4iqAFxy3MJKXwo1E0aYoQ7) | 3:25 | 2022-10-21 | 2022-11-19 |
 | [In Your Hands](https://open.spotify.com/track/2wq5tNWrGnqtLOhmmI1g4K) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [In Your Hands](https://open.spotify.com/album/3qgNnYfoYLmt9a8Uduru7d) | 2:51 | 2024-03-15 | 2024-06-15 |
@@ -2149,7 +2150,7 @@
 | [No Days Off \(feat\. Chris Brown\)](https://open.spotify.com/track/00WrKIo8ouRqOVqRoICMVG) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Flowers](https://open.spotify.com/album/7o8DwLov2NtcxsfaO9sfdi) | 3:19 | 2023-02-10 | 2023-02-25 |
 | [No Effort](https://open.spotify.com/track/6FDeouZz4liRfuXB7CjeEg) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [No Effort](https://open.spotify.com/album/73ZrfPFfKXA6VtBYJEsFzt) | 2:48 | 2022-03-18 | 2022-04-09 |
 | [No Evil](https://open.spotify.com/track/7JHVXlqkoXViFD4giUlzEs) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [No Evil](https://open.spotify.com/album/56Jd4r8JhqgpAk6E43h71R) | 2:25 | 2024-01-26 | 2024-02-24 |
-| [No Excuses](https://open.spotify.com/track/61wsDs3Dbb11h1m2tw9eMZ) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 7:23 | 2024-07-19 |  |
+| [No Excuses \(feat\. Ludwig Göransson\)](https://open.spotify.com/track/61wsDs3Dbb11h1m2tw9eMZ) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 7:23 | 2024-07-19 |  |
 | [No Face](https://open.spotify.com/track/1jcBUsiQik3PxgtGG0tfnb) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [No Face](https://open.spotify.com/album/7xcVwFxP43b548OelDTjBv) | 3:09 | 2022-07-15 | 2022-08-06 |
 | [no fun/party](https://open.spotify.com/track/1HoSyT8MIKRUZ3q3ohEFiK) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 5:56 | 2024-01-12 | 2024-01-27 |
 | [No Fuss](https://open.spotify.com/track/7BAreLM0Yif723pgS8Kydl) | [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [No Fuss](https://open.spotify.com/album/2HEjp4r9NGBGLtXxk5TxsA) | 3:10 | 2022-01-28 | 2022-03-05 |

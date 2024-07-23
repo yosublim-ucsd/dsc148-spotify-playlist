@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Rauw Alejandro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,636 likes - 67 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,683 likes - 67 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 42 | [¿Cuándo Se Va' ir El Calor?](https://open.spotify.com/track/5Bpl9FQisl5HNmazpby0pl) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [¿Cuándo Se Va' ir El Calor?](https://open.spotify.com/album/72R0sNJQxA4KbUIkBXl6c8) | 2:23 |
 | 43 | [Profundo](https://open.spotify.com/track/68YEcQFqHgROlFUCdQa1kE) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Profundo](https://open.spotify.com/album/1Z3xO7kzGnHycnNolKbDf3) | 2:01 |
 | 44 | [Veneno](https://open.spotify.com/track/1ARzLQnVJwKNiHTULmi28n) | [Chamaco](https://open.spotify.com/artist/1xCbQhtV5c1Vc1I1n2jyv0), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [Veneno](https://open.spotify.com/album/2umzSFJb2qVDO3Iew7fRkN) | 3:31 |
-| 45 | [SINVERGÜENZA \- con Angela Torres](https://open.spotify.com/track/2xbH0CuDbid800YW5nMPzR) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [SINVERGÜENZA \- con Angela Torres](https://open.spotify.com/album/2j4yf0X00zieL424k90UVn) | 3:37 |
+| 45 | [ME DUELE TU TRAICIÓN](https://open.spotify.com/track/6HegiTRemAAx7CN8tHqRta) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [ME DUELE TU TRAICIÓN](https://open.spotify.com/album/30DgBlS7pFZFRnkbum26E8) | 3:32 |
 | 46 | [Los Morritos](https://open.spotify.com/track/26E9ySMhzSl29YqEwgDMf1) | [CHOCA](https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk), [Morrow](https://open.spotify.com/artist/6xIdQeYrbSdRZEpiY6gYd4) | [Los Morritos](https://open.spotify.com/album/6sZWcqk0Tlh6kj36IS4QN8) | 2:43 |
 | 47 | [Mi Chico](https://open.spotify.com/track/3EOzK14fWquSyJ5gOH2vl1) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo) | [Mi Chico](https://open.spotify.com/album/54lAVXBkFU7de4mBBWYhu5) | 3:14 |
 | 48 | [Bluedream](https://open.spotify.com/track/4g5hUHqasYwIXvZMuS5GoZ) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Playground](https://open.spotify.com/album/2NkyVnADJzU6adJMdhrSsH) | 2:53 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 66 | [La Rebelde \(feat\. The Chosen Few\)](https://open.spotify.com/track/3GFj7czyZnG94FoARp5Ks1) | [Charlee Way](https://open.spotify.com/artist/6EDCaSmqeDArGXLlVEq15u), [Corraliza](https://open.spotify.com/artist/17jhkTVYXnVmTVNfl8zIha), [Kino TTF](https://open.spotify.com/artist/1kGHEjQSEWtJNeX0QwKPQk), [The Chosen Few](https://open.spotify.com/artist/2HOZmbv4saI1WELN907XSN) | [La Rebelde \(feat\. The Chosen Few\)](https://open.spotify.com/album/5johzdDNsGTc3GiWysO0KH) | 3:32 |
 | 67 | [Perdí Mi Corazón](https://open.spotify.com/track/1WLicNTskq8GVwmDRLXyQe) | [La Pambelé](https://open.spotify.com/artist/0CRVq33mNJl6sTcWvH6WzV) | [Perdí Mi Corazón](https://open.spotify.com/album/1I9eeks8HEMtnkRK9N53dt) | 5:14 |
 
-Snapshot ID: `ZpoA4AAAAAAAp978yGsHo3VI4nBQ2SWi`
+Snapshot ID: `Zp6eaQAAAADcIRTVfh/aI72VU2bg9gB8`

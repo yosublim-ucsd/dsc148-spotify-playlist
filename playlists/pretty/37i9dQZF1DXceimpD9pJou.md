@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:6dBxV47XdYFxRPmDGSyhgh">Omy Alka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,999 likes - 99 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,035 likes - 99 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

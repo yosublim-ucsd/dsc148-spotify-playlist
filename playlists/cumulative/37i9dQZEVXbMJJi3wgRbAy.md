@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-832 songs - 1 day 20 hr 18 min
+833 songs - 1 day 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Cazame](https://open.spotify.com/track/1GzNajZtxF1eUczzec5Ax2) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Animal](https://open.spotify.com/album/2OXeXtTp8KR8TO21LbBIWP) | 3:19 | 2021-08-29 | 2021-09-22 |
 | [Cazame](https://open.spotify.com/track/2LtTHIXTaFwvY9oLOThElU) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Cazame](https://open.spotify.com/album/2YIoAADK2tVeSyMbe2LFOW) | 3:19 | 2021-06-13 | 2021-08-29 |
 | [Celosa](https://open.spotify.com/track/4FtuqEWmjtgKmVWW0iZOP7) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 2:37 | 2022-06-25 | 2022-07-15 |
-| [CEO](https://open.spotify.com/track/5ha7HmgsLaYNwCIA1TClnO) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [CEO](https://open.spotify.com/album/4Gd49c3h5KaOfCJ5pitwND) | 2:49 | 2024-06-20 |  |
+| [CEO](https://open.spotify.com/track/5ha7HmgsLaYNwCIA1TClnO) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [CEO](https://open.spotify.com/album/4Gd49c3h5KaOfCJ5pitwND) | 2:49 | 2024-06-20 | 2024-07-23 |
 | [Chance](https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Chance](https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4) | 3:24 | 2022-04-08 | 2022-05-22 |
 | [Chanel \(feat\. Eme Santana\)](https://open.spotify.com/track/5B0vGlnXGZH53v8W3RZavf) | [Chris Jonex](https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E), [Eme Santana](https://open.spotify.com/artist/5nDA5BYRYBo92lTzCECLhA) | [Chanel](https://open.spotify.com/album/6IPSnKh21CZDtRnUbBwvwr) | 2:02 | 2023-11-25 | 2023-12-03 |
 | [Chica Brasileña \- Remix](https://open.spotify.com/track/4DGiqgfFlufsMK4yV42mPB) | [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V), [Tomi Narbondo](https://open.spotify.com/artist/2h6p2myNwThMseeeCZqMFc), [Laguna](https://open.spotify.com/artist/5AEQ9NQK8LJSpUzhuJga5u) | [Chica Brasileña \(Remix\)](https://open.spotify.com/album/4wf6FNJgJO96RFeN7faOK9) | 2:36 | 2023-12-23 | 2024-01-02 |
@@ -557,6 +557,7 @@
 | [Pa’ la Selección](https://open.spotify.com/track/4J1vAbtAhMdsdpO1sKU3EO) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Pa’ la Selección](https://open.spotify.com/album/3S3QVRXr0QxDc6bg5w4DbN) | 3:06 | 2023-01-02 | 2023-03-19 |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-27\* | 2021-06-14 |
 | [Pechito Partido](https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Pechito Partido](https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7) | 2:27 | 2022-10-16 | 2022-12-04 |
+| [PELIGROSA](https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [PELIGROSA](https://open.spotify.com/album/6KiPy0AFWwVK4pTIstFbLz) | 2:14 | 2024-07-22 |  |
 | [Penas de Antaño](https://open.spotify.com/track/4zYHsmc2V9RyR8eOA0mlx6) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [en dormir sin Madrid](https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB) | 3:21 | 2023-10-06 | 2023-10-29 |
 | [Pepas](https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 4:47 | 2021-10-03 | 2022-02-25 |
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2021-07-29 | 2021-10-03 |

@@ -1560,7 +1560,7 @@
       ],
       "date_added": "2021-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 198777,
       "name": "City Strollin'",
       "url": "https://open.spotify.com/track/0DZyMqCAMr4LALQKA1QizL"
@@ -10554,6 +10554,24 @@
       "duration_ms": 157985,
       "name": "zen",
       "url": "https://open.spotify.com/track/5jpqTv9D0BFsaYa0SkMbNx"
+    },
+    {
+      "album": {
+        "name": "zero",
+        "url": "https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz"
+      },
+      "artists": [
+        {
+          "name": "invisible design",
+          "url": "https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147695,
+      "name": "zero",
+      "url": "https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4"
     },
     {
       "album": {

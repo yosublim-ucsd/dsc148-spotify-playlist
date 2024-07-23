@@ -1,12 +1,12 @@
 {
-  "description": "This is Damares. Track-track unggulan, semuanya dalam satu playlist.",
-  "num_followers": 29599,
+  "description": "This is Damares. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 29604,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpr+AAAAAADrEqM8wd36y9IjCXVeG2wB",
+  "snapshot_id": "ZpxPgAAAAAAP3jDW14kSeimBFuPVMzq9",
   "tracks": [
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obra Prima",
-        "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 323200,
-      "name": "Sou o Que Sou",
-      "url": "https://open.spotify.com/track/3jWAJKgbJl6mPivyVZhJo5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tudo Volta ao Seu Lugar",
         "url": "https://open.spotify.com/album/7iFsnjU5wTgTSeEF4tLxV5"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 391352,
       "name": "Dependente",
       "url": "https://open.spotify.com/track/2hvEKOvLh4Vt1m1r4nuCaV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Obra Prima",
+        "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 323200,
+      "name": "Sou o Que Sou",
+      "url": "https://open.spotify.com/track/3jWAJKgbJl6mPivyVZhJo5"
     },
     {
       "added_at": null,

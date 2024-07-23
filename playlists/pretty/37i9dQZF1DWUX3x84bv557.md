@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Roxy Dekker & Ronnie Flex
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,092 likes - 65 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,119 likes - 65 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gaan We Weg?](https://open.spotify.com/track/02nm2yGw7BygWmRcbFhAlC) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Gaan We Weg?](https://open.spotify.com/album/4SV6Y14WPFNuivMPrbfSas) | 2:21 |
 | 2 | [Lilly](https://open.spotify.com/track/6uFq5oi9RDxLrQOBptKzeh) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Lilly](https://open.spotify.com/album/5pp73yx8ED4pbIzqBvU1P6) | 3:52 |
 | 3 | [Onder Invloed](https://open.spotify.com/track/7ABMV7gt2YIQGBjkQ3IqZz) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Onder Invloed](https://open.spotify.com/album/1wHyKHiPa0OIc2nCNr6Deq) | 2:44 |
-| 4 | [Kom Met Me Dansen](https://open.spotify.com/track/3F6BHPhUkM5jKzpzJAxw90) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Kom Met Me Dansen](https://open.spotify.com/album/6kCO8tjI1Tzs9jWH9v66e3) | 4:00 |
-| 5 | [Nergens Liever](https://open.spotify.com/track/5PhLJO4IkwuWwUlnRr0VKH) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Nergens Liever](https://open.spotify.com/album/7BfMAnfZJBqhrRy16FbpzB) | 3:15 |
-| 6 | [Sowieso](https://open.spotify.com/track/020Ctks6NzM9htzWdFsI37) | [Carmell](https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse) | [Sowieso](https://open.spotify.com/album/6qHb1I8crdjoT1f3MlX25a) | 2:18 |
-| 7 | [Omhoog](https://open.spotify.com/track/2UklSNaVRkMInzUTOEkmsM) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Omhoog](https://open.spotify.com/album/518wPXNPF0xHjX5TdgCQGm) | 2:48 |
-| 8 | [Geef Me Het Leven](https://open.spotify.com/track/0Q0HDbyXAjuyhkEvVBJ9tx) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Geef Me Het Leven](https://open.spotify.com/album/6hsFidirKZuZtSc4LNjOMk) | 3:15 |
+| 4 | [Nergens Liever](https://open.spotify.com/track/5PhLJO4IkwuWwUlnRr0VKH) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Nergens Liever](https://open.spotify.com/album/7BfMAnfZJBqhrRy16FbpzB) | 3:15 |
+| 5 | [Sowieso](https://open.spotify.com/track/020Ctks6NzM9htzWdFsI37) | [Carmell](https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse) | [Sowieso](https://open.spotify.com/album/6qHb1I8crdjoT1f3MlX25a) | 2:18 |
+| 6 | [Omhoog](https://open.spotify.com/track/2UklSNaVRkMInzUTOEkmsM) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Omhoog](https://open.spotify.com/album/518wPXNPF0xHjX5TdgCQGm) | 2:48 |
+| 7 | [Geef Me Het Leven](https://open.spotify.com/track/0Q0HDbyXAjuyhkEvVBJ9tx) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Geef Me Het Leven](https://open.spotify.com/album/6hsFidirKZuZtSc4LNjOMk) | 3:15 |
+| 8 | [Kom Met Me Dansen](https://open.spotify.com/track/3F6BHPhUkM5jKzpzJAxw90) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Kom Met Me Dansen](https://open.spotify.com/album/6kCO8tjI1Tzs9jWH9v66e3) | 4:00 |
 | 9 | [Nog Één Laatste Dans](https://open.spotify.com/track/2Xna5UxLejgr80HXcXhMDE) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Nog Één Laatste Dans](https://open.spotify.com/album/3osA0lKFSHMNtxl910iuM0) | 2:51 |
 | 10 | [Heling](https://open.spotify.com/track/79WaMgt0AKB74sqqPo9Kdw) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Heling](https://open.spotify.com/album/2oDzb0tTK7Iy3kLA8xlf4E) | 2:19 |
 | 11 | [Ça Va](https://open.spotify.com/track/4KIsxUAKHmbnrNqraNs6Yb) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Ça Va](https://open.spotify.com/album/0MmjwvLcZF5y7ocMVV69E3) | 2:10 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 64 | [Waar Ben Jij](https://open.spotify.com/track/2oybR9LRXJ0ixXpNgNRXde) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Tegendraads](https://open.spotify.com/album/7k2fnz81WU5IPPNqkqNORj) | 2:48 |
 | 65 | [Eloise](https://open.spotify.com/track/3QGIkkjhRIhRwanFXkenW9) | [Nils](https://open.spotify.com/artist/2m8UpPHNuamk6f8mgNHyU7) | [Eloise](https://open.spotify.com/album/6wCab0sEdCH02C5LgY9c4q) | 2:14 |
 
-Snapshot ID: `Zpom5AAAAABS+vfYZqxysb1R993f8PEc`
+Snapshot ID: `Zp5eXAAAAABbSpslyNhiU+Bu1QO3BpdM`

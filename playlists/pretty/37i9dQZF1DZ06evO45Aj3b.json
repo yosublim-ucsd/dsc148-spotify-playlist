@@ -1,12 +1,12 @@
 {
   "description": "This is Dominic Fike. The essential tracks, all in one playlist.",
-  "num_followers": 81597,
+  "num_followers": 81678,
   "original_name": "This Is Dominic Fike",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpr+AAAAAAD2twlQ9XgQvFKnEEQovnmA",
+  "snapshot_id": "ZpxPgAAAAACeH5hycAEyriHPemR6lQrf",
   "tracks": [
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 150620,
-      "name": "Wurli",
-      "url": "https://open.spotify.com/track/5MSshyHGM9ajWSEoBcR0jv"
+      "duration_ms": 186050,
+      "name": "Vampire",
+      "url": "https://open.spotify.com/track/0SRPuTnr5QOKRoIxMvvlgK"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 186050,
-      "name": "Vampire",
-      "url": "https://open.spotify.com/track/0SRPuTnr5QOKRoIxMvvlgK"
+      "duration_ms": 150620,
+      "name": "Wurli",
+      "url": "https://open.spotify.com/track/5MSshyHGM9ajWSEoBcR0jv"
     },
     {
       "added_at": null,
@@ -579,6 +579,26 @@
       "duration_ms": 141807,
       "name": "Hey Blondie",
       "url": "https://open.spotify.com/track/0hABacr1yTSleOlPKpIWBb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Manic",
+        "url": "https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 76480,
+      "name": "Dominic\u2019s Interlude",
+      "url": "https://open.spotify.com/track/2sOOXgEGB7nhKO8mmc1GhI"
     }
   ],
   "unique_name": "This Is Dominic Fike",

@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa Eminem.
 
-123 songs - 6 hr 4 min
+124 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Healing \(Shattered Heart\)](https://open.spotify.com/track/40kmaQ1Dpddc9EUuUrPMP0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Healing \(Shattered Heart\)](https://open.spotify.com/album/3UImWW3XpXLzF5l9VsEft5) | 2:42 | 2024-07-02 | 2024-07-12 |
 | [HEAT](https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [HEAT](https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG) | 3:37 | 2024-07-02 | 2024-07-19 |
 | [Hideaway](https://open.spotify.com/track/0vPFKYTI6VNFhGTnyaa3SS) | [Samu Haber](https://open.spotify.com/artist/211cqZyaBD7Wk7fAcLjsDB) | [Hideaway](https://open.spotify.com/album/1IxVW2BhEB9qUdwe3rzMBF) | 3:23 | 2024-07-18 |  |
-| [HKI city girl](https://open.spotify.com/track/3m6oB4GoIC0q2nq7etIz3R) | [ARTEM](https://open.spotify.com/artist/0qSXK9LxTX9HE3jCXSmbvL) | [HKI city girl](https://open.spotify.com/album/0J38JCq37bRhqgXtaJcuVs) | 2:41 | 2024-07-02 |  |
+| [HKI city girl](https://open.spotify.com/track/3m6oB4GoIC0q2nq7etIz3R) | [ARTEM](https://open.spotify.com/artist/0qSXK9LxTX9HE3jCXSmbvL) | [HKI city girl](https://open.spotify.com/album/0J38JCq37bRhqgXtaJcuVs) | 2:41 | 2024-07-02 | 2024-07-23 |
 | [HOT UPTOWN \(feat\. Drake\)](https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 2:30 | 2024-07-02 |  |
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-07-02 |  |
 | [huijarisyndrooma](https://open.spotify.com/track/31wZNsGk852WmwyZY5SC9O) | [dreamilla](https://open.spotify.com/artist/4jlwU8ZSTDGkLnpJ8iQIaj) | [huijarisyndrooma](https://open.spotify.com/album/3yEc6NNywLrzZHVYZI6TCH) | 2:55 | 2024-07-02 | 2024-07-12 |
@@ -93,6 +93,7 @@
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-07-02 |  |
 | [Pour Me A Drink \(Feat\. Blake Shelton\)](https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Pour Me A Drink](https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz) | 3:15 | 2024-07-02 | 2024-07-12 |
 | [PPP](https://open.spotify.com/track/17CrgUrrHKhlC9hAdJrxT6) | [ILON](https://open.spotify.com/artist/40sIqI3UYyunS5uyEVILIa) | [PPP](https://open.spotify.com/album/38vT6jTm2yMX20tbdXjY9o) | 2:35 | 2024-07-02 |  |
+| [PRADA SHEIDIT](https://open.spotify.com/track/6OplMWd0zoaj2Y8tpvIlXu) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT) | [PRADA SHEIDIT](https://open.spotify.com/album/1b4Ap7YFqXzo9R2vZ7XAL9) | 2:33 | 2024-07-22 |  |
 | [Prinsessa \(feat\. baka®\)](https://open.spotify.com/track/6ioqZb07eWdepb7NaBt2xA) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2), [baka®](https://open.spotify.com/artist/2cIN5e6ouIgJiebmItnDaW) | [Prinsessa \(feat\. baka®\)](https://open.spotify.com/album/3oybXiUqKzYBOzQHSfS3ii) | 2:00 | 2024-07-04 |  |
 | [Päiväkirja](https://open.spotify.com/track/1SlXWvdCgVnyg5gNOMGdIy) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Jotta muistaisin](https://open.spotify.com/album/54iqUFv3oAuIWKcjsublrY) | 2:35 | 2024-07-02 |  |
 | [Päästä varpaisiin](https://open.spotify.com/track/4FbBHuCdza6S4WODZAvaDb) | [ROBIN](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM), [Keki](https://open.spotify.com/artist/2JQnbpN1Tvt1ew1H9q1qOm), [ADI](https://open.spotify.com/artist/7pQPSSRLhVEr3rNYfpSvW3) | [Päästä varpaisiin](https://open.spotify.com/album/47YDU0C9hk5d2rIoziYucD) | 3:19 | 2024-07-18 |  |

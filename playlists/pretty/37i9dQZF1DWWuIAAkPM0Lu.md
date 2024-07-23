@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > 🧚 <a href="https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq?si=uy7sZWLASdCFD2vIz3qU\-w">Mumle</a> og <a href="spotify:artist:7nCIXUCqZmxntAGJMyls5c">Svea S</a> sender ham op hvor solen ikk skinner 🧚🏻‍♀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,794 likes - 78 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,798 likes - 78 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

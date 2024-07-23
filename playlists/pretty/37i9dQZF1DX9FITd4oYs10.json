@@ -1,6 +1,6 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 17927,
+  "num_followers": 17925,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -999,6 +999,30 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
+        "name": "Malvad\u00e3o",
+        "url": "https://open.spotify.com/album/2bRHA2sbwWGnRXuSEYc6Zq"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Damassaclan",
+          "url": "https://open.spotify.com/artist/1g4RI8yZ2TS4Y0ST5482OU"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        }
+      ],
+      "duration_ms": 149956,
+      "name": "Malvad\u00e3o",
+      "url": "https://open.spotify.com/track/6U3PUhdhUHMM8lBqmIg2Ro"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
         "name": "Poetas no Topo 2",
         "url": "https://open.spotify.com/album/4Qnc9kgBCgCD4BAOlf8GHb"
       },
@@ -1043,30 +1067,6 @@
       "duration_ms": 523467,
       "name": "Poetas no Topo 2",
       "url": "https://open.spotify.com/track/5ePNo6uzHyOiZ5lq1L5WVs"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "Malvad\u00e3o",
-        "url": "https://open.spotify.com/album/2bRHA2sbwWGnRXuSEYc6Zq"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Damassaclan",
-          "url": "https://open.spotify.com/artist/1g4RI8yZ2TS4Y0ST5482OU"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        }
-      ],
-      "duration_ms": 149956,
-      "name": "Malvad\u00e3o",
-      "url": "https://open.spotify.com/track/6U3PUhdhUHMM8lBqmIg2Ro"
     },
     {
       "added_at": "2024-02-23 18:00:29",

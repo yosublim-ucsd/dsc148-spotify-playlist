@@ -1,6 +1,6 @@
 {
   "description": "Fue durante los '70 que el Rock se manifest\u00f3 como un gigante a nivel mundial. Argentina no fue la excepci\u00f3n.  Foto: <a href=\"spotify:artist:10vtHOCA3qPLmrGylgO2F1\">Manal</a>",
-  "num_followers": 41485,
+  "num_followers": 41490,
   "original_name": "Esp\u00edritu Setentista",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-06-12 23:45:40",
       "album": {
-        "name": "El Reloj",
-        "url": "https://open.spotify.com/album/3xIkQ0YsEyRvjEY1a8KdXc"
-      },
-      "artists": [
-        {
-          "name": "El Reloj",
-          "url": "https://open.spotify.com/artist/4qZeDZdBD3NiWVbkwX2Lpx"
-        }
-      ],
-      "duration_ms": 242266,
-      "name": "Alguien M\u00e1s en Quien Confiar - '74 Single Version",
-      "url": "https://open.spotify.com/track/10F81E1vPGGROdMHyVthSh"
-    },
-    {
-      "added_at": "2024-06-12 23:45:40",
-      "album": {
         "name": "Alma y Vida, Vol. 2",
         "url": "https://open.spotify.com/album/7MHEzCpcFrBeVBaqzM6cSl"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 165826,
       "name": "Hoy Te Queremos Cantar",
       "url": "https://open.spotify.com/track/6O036ngVof8dIfCILsJkVv"
+    },
+    {
+      "added_at": "2024-06-12 23:45:40",
+      "album": {
+        "name": "El Reloj",
+        "url": "https://open.spotify.com/album/3xIkQ0YsEyRvjEY1a8KdXc"
+      },
+      "artists": [
+        {
+          "name": "El Reloj",
+          "url": "https://open.spotify.com/artist/4qZeDZdBD3NiWVbkwX2Lpx"
+        }
+      ],
+      "duration_ms": 242266,
+      "name": "Alguien M\u00e1s en Quien Confiar - '74 Single Version",
+      "url": "https://open.spotify.com/track/10F81E1vPGGROdMHyVthSh"
     },
     {
       "added_at": "2024-06-12 23:45:40",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-06-12 23:45:40",
       "album": {
-        "name": "El Reloj",
-        "url": "https://open.spotify.com/album/3xIkQ0YsEyRvjEY1a8KdXc"
-      },
-      "artists": [
-        {
-          "name": "El Reloj",
-          "url": "https://open.spotify.com/artist/4qZeDZdBD3NiWVbkwX2Lpx"
-        }
-      ],
-      "duration_ms": 189853,
-      "name": "M\u00e1s Fuerte Que El Hombre",
-      "url": "https://open.spotify.com/track/0kCvymt8ka2hQqecsJDC4h"
-    },
-    {
-      "added_at": "2024-06-12 23:45:40",
-      "album": {
         "name": "El 1er \u00c1lbum M\u00e1s los Singles",
         "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 212546,
       "name": "Figuraci\u00f3n",
       "url": "https://open.spotify.com/track/2ZXPZV2w9KSEH6YXJQwFBP"
+    },
+    {
+      "added_at": "2024-06-12 23:45:40",
+      "album": {
+        "name": "David Lebon",
+        "url": "https://open.spotify.com/album/2sVpQXYG4nKgpJ5F3Q84RC"
+      },
+      "artists": [
+        {
+          "name": "David Leb\u00f3n",
+          "url": "https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E"
+        }
+      ],
+      "duration_ms": 431160,
+      "name": "Envases de Todo",
+      "url": "https://open.spotify.com/track/7gIUh5iGYpTagqtq74hvs0"
     },
     {
       "added_at": "2024-06-12 23:45:40",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-06-12 23:45:40",
       "album": {
-        "name": "David Lebon",
-        "url": "https://open.spotify.com/album/2sVpQXYG4nKgpJ5F3Q84RC"
+        "name": "El Reloj",
+        "url": "https://open.spotify.com/album/3xIkQ0YsEyRvjEY1a8KdXc"
       },
       "artists": [
         {
-          "name": "David Leb\u00f3n",
-          "url": "https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E"
+          "name": "El Reloj",
+          "url": "https://open.spotify.com/artist/4qZeDZdBD3NiWVbkwX2Lpx"
         }
       ],
-      "duration_ms": 431160,
-      "name": "Envases de Todo",
-      "url": "https://open.spotify.com/track/7gIUh5iGYpTagqtq74hvs0"
+      "duration_ms": 189853,
+      "name": "M\u00e1s Fuerte Que El Hombre",
+      "url": "https://open.spotify.com/track/0kCvymt8ka2hQqecsJDC4h"
     },
     {
       "added_at": "2024-06-12 23:45:40",

@@ -105,6 +105,28 @@
     },
     {
       "album": {
+        "name": "Achei que era Pagode",
+        "url": "https://open.spotify.com/album/2Xv52XBe67uFQJzEDAW4nH"
+      },
+      "artists": [
+        {
+          "name": "Mc Priscila",
+          "url": "https://open.spotify.com/artist/0q3ElVcc042mnCyUBce8CG"
+        },
+        {
+          "name": "Dj Olliver",
+          "url": "https://open.spotify.com/artist/6akRUh5g0XiVQaZj6U23fd"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180922,
+      "name": "Achei que era Pagode",
+      "url": "https://open.spotify.com/track/2NmunJ0EJbE2oFbs1CIOeQ"
+    },
+    {
+      "album": {
         "name": "Agora Fudeu Virei 157 Vs Mete Com For\u00e7a",
         "url": "https://open.spotify.com/album/0XmbEdLreBuXjO4MUGBXxW"
       },

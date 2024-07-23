@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpr+AAAAAACcb40+OJjCZDiCZeLFwomR",
+  "snapshot_id": "ZpxPgAAAAADkVpVOiPOvy/qfT3SiRiZ0",
   "tracks": [
     {
       "added_at": null,
@@ -187,30 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RESISTOL +",
-        "url": "https://open.spotify.com/album/4MzJewJ3ThSXETzrMG1wUT"
-      },
-      "artists": [
-        {
-          "name": "chicano wei",
-          "url": "https://open.spotify.com/artist/7EqiVYwHFYEKr843rp3NVt"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "Chiquete",
-          "url": "https://open.spotify.com/artist/0XOIm8UCjrzJHRmSRzVRTP"
-        }
-      ],
-      "duration_ms": 190285,
-      "name": "RESISTOL +",
-      "url": "https://open.spotify.com/track/6WYgRI3X9b4Lqb4qroBrq7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Caricia",
         "url": "https://open.spotify.com/album/5w5SEY5U50140We5w2gk1f"
       },
@@ -231,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAMALEONA",
-        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 158249,
-      "name": "OPUESTOS",
-      "url": "https://open.spotify.com/track/1JrMzp8dK5VhGpfuQboqnh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tornaluna",
         "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
       },
@@ -259,6 +219,22 @@
       "duration_ms": 315000,
       "name": "Solegrande",
       "url": "https://open.spotify.com/track/1ucbZ6xHcfJEpZXecucLfx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DAMALEONA",
+        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 158249,
+      "name": "OPUESTOS",
+      "url": "https://open.spotify.com/track/1JrMzp8dK5VhGpfuQboqnh"
     },
     {
       "added_at": null,
@@ -283,6 +259,22 @@
       "duration_ms": 209042,
       "name": "Nada",
       "url": "https://open.spotify.com/track/3tPVvPnyiD4IR5Un9rCVBf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mundo Puede Esperar",
+        "url": "https://open.spotify.com/album/099chjJsmLQM4YqTNuaE9Y"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 161142,
+      "name": "El Mundo Puede Esperar",
+      "url": "https://open.spotify.com/track/6uzI8rhOIY8Aifbmq5WyZI"
     },
     {
       "added_at": null,
@@ -319,18 +311,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mundo Puede Esperar",
-        "url": "https://open.spotify.com/album/099chjJsmLQM4YqTNuaE9Y"
+        "name": "RESISTOL +",
+        "url": "https://open.spotify.com/album/4MzJewJ3ThSXETzrMG1wUT"
       },
       "artists": [
         {
+          "name": "chicano wei",
+          "url": "https://open.spotify.com/artist/7EqiVYwHFYEKr843rp3NVt"
+        },
+        {
           "name": "Vanessa Zamora",
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "Chiquete",
+          "url": "https://open.spotify.com/artist/0XOIm8UCjrzJHRmSRzVRTP"
         }
       ],
-      "duration_ms": 161142,
-      "name": "El Mundo Puede Esperar",
-      "url": "https://open.spotify.com/track/6uzI8rhOIY8Aifbmq5WyZI"
+      "duration_ms": 190285,
+      "name": "RESISTOL +",
+      "url": "https://open.spotify.com/track/6WYgRI3X9b4Lqb4qroBrq7"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 218452,
-      "name": "Correr",
-      "url": "https://open.spotify.com/track/3RlWx4MPft8Ienq8JqabJI"
+      "duration_ms": 180866,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/6eEzLREEDhrE4ib9JSTNcv"
     },
     {
       "added_at": null,
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 180866,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/6eEzLREEDhrE4ib9JSTNcv"
+      "duration_ms": 218452,
+      "name": "Correr",
+      "url": "https://open.spotify.com/track/3RlWx4MPft8Ienq8JqabJI"
     }
   ],
   "unique_name": "This Is Vanessa Zamora",

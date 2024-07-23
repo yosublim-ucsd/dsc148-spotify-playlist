@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-08",
-  "description": "This is Migos. The essential tracks, all in one playlist.",
+  "description": "This Is Migos. Los temas esenciales, todos en una lista.",
   "name": "This Is Migos",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 206271,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/4KD0lLJ4OGonZhBeKtct9I"
@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 343150,
       "name": "Bad and Boujee (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1"
@@ -86,7 +86,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 245722,
       "name": "Bad Intentions",
       "url": "https://open.spotify.com/track/5W3UniuRMkHHIpaiQo1hAW"
@@ -108,7 +108,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 251858,
       "name": "BBO (Bad Bitches Only)",
       "url": "https://open.spotify.com/track/4BHzHISX21PYwGXiBEUQ70"
@@ -454,7 +454,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 258741,
       "name": "Frosted Flakes",
       "url": "https://open.spotify.com/track/2ngLCsaDgirvx3aNgejilJ"
@@ -644,7 +644,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 229434,
       "name": "How We Coming",
       "url": "https://open.spotify.com/track/0oxfifOPoqzmWlTT2Tnu3k"
@@ -666,7 +666,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 233087,
       "name": "I Get the Bag (feat. Migos)",
       "url": "https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 248651,
       "name": "Malibu (feat. Polo G)",
       "url": "https://open.spotify.com/track/3v1zVVdzNVNt7vmI9VG2gq"
@@ -798,7 +798,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 144337,
       "name": "Menace 2 (Migos, Lil Yachty)",
       "url": "https://open.spotify.com/track/4XRABck4iyZrh5yJ7nOWOi"
@@ -956,7 +956,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 271483,
       "name": "No Way",
       "url": "https://open.spotify.com/track/7sJd82Bq8y7oHl2rbzmijx"
@@ -978,7 +978,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 233880,
       "name": "Notice Me",
       "url": "https://open.spotify.com/track/3OnOomd79OjqSYHchCQ6ht"
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 256320,
       "name": "Oh Me Oh My",
       "url": "https://open.spotify.com/track/56urRCfhQX5H3tfGt6q3uU"
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 192470,
       "name": "Pure Water (with Migos)",
       "url": "https://open.spotify.com/track/3j84U36KvLeXNDPv4t5pI8"
@@ -1128,7 +1128,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 178024,
       "name": "Racks 2 Skinny",
       "url": "https://open.spotify.com/track/568OIKgeHyGRD3uWR44JbO"
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 287320,
       "name": "Sacrifices",
       "url": "https://open.spotify.com/track/1r0faljjM2b876iNoaDUh5"
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 239826,
       "name": "Seize The Block",
       "url": "https://open.spotify.com/track/0WQJIDidlJOv2C2PyvDUv5"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 230813,
       "name": "Slide (feat. Frank Ocean & Migos)",
       "url": "https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl"
@@ -1480,7 +1480,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 248506,
       "name": "What the Price",
       "url": "https://open.spotify.com/track/74tYjkmVk06hYJzzzskWa0"

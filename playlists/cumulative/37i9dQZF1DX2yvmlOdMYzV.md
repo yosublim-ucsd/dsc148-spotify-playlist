@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-762 songs - 1 day 17 hr 34 min
+763 songs - 1 day 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Charismatic](https://open.spotify.com/track/4JhKLjRioxSZ9AkrL8pPcM) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Charismatic](https://open.spotify.com/album/2Sh1TDbKzFr7UxZdbnnX17) | 3:04 | 2023-05-12 | 2024-04-19 |
 | [Charismatic](https://open.spotify.com/track/4zJD8PyDnzzA3WCi8Eg0jc) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Charismatic](https://open.spotify.com/album/6mbkUcTvJ5eS6OBzeuAwyw) | 3:04 | 2023-05-12 | 2023-12-17 |
 | [Chasing](https://open.spotify.com/track/2TR35rjnC69Mqs3uBZ1QqR) | [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Chasing](https://open.spotify.com/album/0Sne6wKPU3s6feDEkCqKff) | 3:01 | 2024-04-05 |  |
+| [CHASING FANTASIES](https://open.spotify.com/track/3zMfCySyYt5H0vB4p8dd4n) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV) | [1\-800 FANTASY](https://open.spotify.com/album/4Hc9kwSIRb2jgE441FOueK) | 4:15 | 2024-07-19 |  |
 | [chasing the bus](https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [chasing the bus](https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp) | 3:08 | 2024-02-02 |  |
 | [CHERIMOYA](https://open.spotify.com/track/2dldFaASbSWz8uzz9KY2al) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [CHERIMOYA](https://open.spotify.com/album/4PrcKgbbS0rudXsXJqfyR5) | 2:09 | 2023-02-10 | 2023-10-07 |
 | [Cherry Delight](https://open.spotify.com/track/4w2rs45lbR16nWa7UclbzN) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Cherry Delight](https://open.spotify.com/album/5J3jmFBDseDbLmrtto1bcy) | 2:57 | 2023-09-08 |  |
@@ -163,7 +164,7 @@
 | [Don't Look My Way](https://open.spotify.com/track/0zHWYFL39eS420oqza436i) | [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ), [Journi](https://open.spotify.com/artist/7fuTziCrGgeg5UpOvlDS1H) | [Don't Look My Way](https://open.spotify.com/album/2YKn4AR6lbimPBhYWizQ0u) | 3:43 | 2024-03-29 | 2024-04-30 |
 | [Don't Pretend \- Acoustic](https://open.spotify.com/track/2sWL4tq39W5EMdC0ItdPTy) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Don't Pretend \(Acoustic\)](https://open.spotify.com/album/1EVSU42vLvFmSjHt3TGmx1) | 2:21 | 2023-06-16 | 2024-07-09 |
 | [Don't Say It](https://open.spotify.com/track/6ltghPpgP522rAJvYuplke) | [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [Don't Say It](https://open.spotify.com/album/6qvPhhzet4eeMYzrOwY4HR) | 2:43 | 2023-07-21 | 2023-11-24 |
-| [Don't Stare Too Long](https://open.spotify.com/track/5MZ46M8kBTyY6BMYFKDVpo) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [Don't Stare Too Long](https://open.spotify.com/album/1rZ9hqFJSznZlQNMOyPZpP) | 3:08 | 2023-08-04 |  |
+| [Don't Stare Too Long](https://open.spotify.com/track/5MZ46M8kBTyY6BMYFKDVpo) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [Don't Stare Too Long](https://open.spotify.com/album/1rZ9hqFJSznZlQNMOyPZpP) | 3:08 | 2023-08-04 | 2024-07-23 |
 | [Don't Stop](https://open.spotify.com/track/6stmHwlMLQbE8Z2N831ri6) | [GoGo Morrow](https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO) | [Ready](https://open.spotify.com/album/4iqAFxy3MJKXwo1E0aYoQ7) | 2:31 | 2023-01-27 | 2023-08-12 |
 | [Don't Turn The Music Down](https://open.spotify.com/track/5oCRONUj1i5wNH4XM5lPSl) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN), [Jus Lovehall](https://open.spotify.com/artist/4ZOPuDsefk2ZNBYUJfSXR5) | [Welcome Home](https://open.spotify.com/album/2eDPUEKbqGcVlprMxu3n8P) | 3:43 | 2023-08-25 |  |
 | [Don’t Lie \[Feat\. Malaya\]](https://open.spotify.com/track/6xVgDPrFSlBinlx7lRzI1S) | [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb) | [Don’t Lie \[Feat\. Malaya\]](https://open.spotify.com/album/1JUxXtOkoLUgwHN7dfb2ML) | 4:21 | 2023-08-04 | 2023-09-29 |

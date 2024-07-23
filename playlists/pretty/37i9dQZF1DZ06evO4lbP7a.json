@@ -1,12 +1,12 @@
 {
   "description": "This is yama. The essential tracks, all in one playlist.",
-  "num_followers": 47965,
+  "num_followers": 47971,
   "original_name": "This Is yama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpr+AAAAAADV3tVR4/9EdU+bDzWL4W9m",
+  "snapshot_id": "ZpxPgAAAAAAoua79ctcQa+8JQ6WrhFSZ",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u4e00\u5bf8\u306e\u8d64",
-        "url": "https://open.spotify.com/album/3AZiSmcQY2ci47AneOFYhj"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 231673,
-      "name": "\u4e00\u5bf8\u306e\u8d64",
-      "url": "https://open.spotify.com/track/6gLIdsq5niNohbCT3LFT1Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the meaning of life",
         "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 258866,
       "name": "Sleepless Night",
       "url": "https://open.spotify.com/track/4QudMialF8Y73NNyCdDD0G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u4e00\u5bf8\u306e\u8d64",
+        "url": "https://open.spotify.com/album/3AZiSmcQY2ci47AneOFYhj"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 231673,
+      "name": "\u4e00\u5bf8\u306e\u8d64",
+      "url": "https://open.spotify.com/track/6gLIdsq5niNohbCT3LFT1Z"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "the meaning of life",
-        "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 274800,
-      "name": "\u5e0c\u671b\u8ad6",
-      "url": "https://open.spotify.com/track/4ivrdKOEXXGiRIApiD7rII"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oz. / \u4e16\u754c\u306f\u7f8e\u3057\u3044\u306f\u305a\u306a\u3093\u3060 / \u30b9\u30e2\u30fc\u30ad\u30fc\u30d2\u30ed\u30a4\u30f3",
         "url": "https://open.spotify.com/album/4fMCXT5qH5jgPmYTpPVSIf"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 226440,
       "name": "\u4e16\u754c\u306f\u7f8e\u3057\u3044\u306f\u305a\u306a\u3093\u3060",
       "url": "https://open.spotify.com/track/5eOEqeLIkfbj6lFQ7a4mmZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "the meaning of life",
+        "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 274800,
+      "name": "\u5e0c\u671b\u8ad6",
+      "url": "https://open.spotify.com/track/4ivrdKOEXXGiRIApiD7rII"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Versus the night",
-        "url": "https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 205066,
-      "name": "\u30e9\u30a4\u30ab",
-      "url": "https://open.spotify.com/track/5uUB3W0R5M3dh3iXLPsiK7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u9ebb\u75fa",
         "url": "https://open.spotify.com/album/2xrjmxY15z5drRavtSB07f"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 192333,
       "name": "\u30bf\u30eb\u30c8",
       "url": "https://open.spotify.com/track/130eybbEhnHRlKBJK9N4TR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Versus the night",
+        "url": "https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 205066,
+      "name": "\u30e9\u30a4\u30ab",
+      "url": "https://open.spotify.com/track/5uUB3W0R5M3dh3iXLPsiK7"
     },
     {
       "added_at": null,

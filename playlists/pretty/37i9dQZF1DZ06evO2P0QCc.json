@@ -1,12 +1,12 @@
 {
-  "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 110269,
+  "description": "This Is Inspector. Los temas esenciales, todos en una lista.",
+  "num_followers": 110303,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpr+AAAAAABLZZwDjYMfmSF/zQiUZ9sQ",
+  "snapshot_id": "ZpxPgAAAAABwI2SO6MJJYULHhk45LJYx",
   "tracks": [
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Convaleciente",
-        "url": "https://open.spotify.com/album/5ugPUCZNcNtYJZuczE83Th"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 206694,
-      "name": "Convaleciente",
-      "url": "https://open.spotify.com/track/4O0sPAqzasrIPPuDDrlM3r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inspector",
         "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 200613,
       "name": "Noviembre (feat. Ely Guerra)",
       "url": "https://open.spotify.com/track/1ZZwOa4F545Z0bsirja8iz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Convaleciente",
+        "url": "https://open.spotify.com/album/5ugPUCZNcNtYJZuczE83Th"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 206694,
+      "name": "Convaleciente",
+      "url": "https://open.spotify.com/track/4O0sPAqzasrIPPuDDrlM3r"
     },
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Soledad",
-        "url": "https://open.spotify.com/album/1k1MjUF3FtfOKtUKDzF9c8"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Lng Sht",
-          "url": "https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2"
-        }
-      ],
-      "duration_ms": 208400,
-      "name": "Soy Soledad",
-      "url": "https://open.spotify.com/track/50QvMSeHtzMjDGhgtWJDsi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
         "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 214000,
       "name": "Hoy Ser\u00e1 (feat. Natalia Ram\u00edrez)",
       "url": "https://open.spotify.com/track/4x868qxqVPPXQiPEc27zDG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy Soledad",
+        "url": "https://open.spotify.com/album/1k1MjUF3FtfOKtUKDzF9c8"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Lng Sht",
+          "url": "https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2"
+        }
+      ],
+      "duration_ms": 208400,
+      "name": "Soy Soledad",
+      "url": "https://open.spotify.com/track/50QvMSeHtzMjDGhgtWJDsi"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 172771,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/23ZPovMSlcsbHq2aQWQMM2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
         "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 222400,
       "name": "Yo No Se T\u00fa",
       "url": "https://open.spotify.com/track/1pNA1WDGprHjwNVINAvVNs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 172771,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/23ZPovMSlcsbHq2aQWQMM2"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 11194,
+  "num_followers": 11197,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-06-24 06:54:45",
       "album": {
+        "name": "Holiday / Reason You",
+        "url": "https://open.spotify.com/album/0MscDmFA5ibrxKmm0RiKpd"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 206750,
+      "name": "Reason You",
+      "url": "https://open.spotify.com/track/3kPJGFBlp69ZaJ9smfaklJ"
+    },
+    {
+      "added_at": "2024-06-24 06:54:45",
+      "album": {
         "name": "When It Blooms",
         "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 191952,
       "name": "Kilimanjaro (with BEAM)",
       "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
-    },
-    {
-      "added_at": "2024-06-24 06:54:45",
-      "album": {
-        "name": "Holiday / Reason You",
-        "url": "https://open.spotify.com/album/0MscDmFA5ibrxKmm0RiKpd"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 206750,
-      "name": "Reason You",
-      "url": "https://open.spotify.com/track/3kPJGFBlp69ZaJ9smfaklJ"
     },
     {
       "added_at": "2024-06-24 06:54:45",
@@ -747,26 +747,6 @@
     {
       "added_at": "2024-06-24 06:54:45",
       "album": {
-        "name": "MINISKIRT",
-        "url": "https://open.spotify.com/album/3OgE1xXu2rY3uXj3MWJxIo"
-      },
-      "artists": [
-        {
-          "name": "Yinka Bernie",
-          "url": "https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL"
-        },
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
-        }
-      ],
-      "duration_ms": 124751,
-      "name": "MINISKIRT",
-      "url": "https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0"
-    },
-    {
-      "added_at": "2024-06-24 06:54:45",
-      "album": {
         "name": "Leap of Faith",
         "url": "https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 259134,
       "name": "My Wave",
       "url": "https://open.spotify.com/track/7FbmKPvnVKpyd45jDsRhlF"
+    },
+    {
+      "added_at": "2024-06-24 06:54:45",
+      "album": {
+        "name": "MINISKIRT",
+        "url": "https://open.spotify.com/album/3OgE1xXu2rY3uXj3MWJxIo"
+      },
+      "artists": [
+        {
+          "name": "Yinka Bernie",
+          "url": "https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL"
+        },
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        }
+      ],
+      "duration_ms": 124751,
+      "name": "MINISKIRT",
+      "url": "https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0"
     },
     {
       "added_at": "2024-06-24 06:54:45",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-06-24 06:54:45",
       "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo"
+      },
+      "artists": [
+        {
+          "name": "TMXO",
+          "url": "https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP"
+        }
+      ],
+      "duration_ms": 128450,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ"
+    },
+    {
+      "added_at": "2024-06-24 06:54:45",
+      "album": {
         "name": "WASTELINE",
         "url": "https://open.spotify.com/album/0VzLyC8Er2QnVwOyGF5ZLX"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 164680,
       "name": "WASTELINE",
       "url": "https://open.spotify.com/track/6zwNCNnzNfhC5XEhnG9F7Z"
-    },
-    {
-      "added_at": "2024-06-24 06:54:45",
-      "album": {
-        "name": "Monica",
-        "url": "https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo"
-      },
-      "artists": [
-        {
-          "name": "TMXO",
-          "url": "https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP"
-        }
-      ],
-      "duration_ms": 128450,
-      "name": "Monica",
-      "url": "https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ"
     },
     {
       "added_at": "2024-06-24 06:54:45",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2024-06-24 06:54:45",
       "album": {
+        "name": "Freaky",
+        "url": "https://open.spotify.com/album/6Pu1lSXtiqJ06JbfpR9x8h"
+      },
+      "artists": [
+        {
+          "name": "Fasina",
+          "url": "https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 237532,
+      "name": "Freaky",
+      "url": "https://open.spotify.com/track/4l4GKn42jsZItX8FDdTet4"
+    },
+    {
+      "added_at": "2024-06-24 06:54:45",
+      "album": {
         "name": "Full Full Condition Vol. 3",
         "url": "https://open.spotify.com/album/36kkJHEPONjWSX6mOYHlRi"
       },
@@ -1107,26 +1127,6 @@
       "duration_ms": 134295,
       "name": "Mondays",
       "url": "https://open.spotify.com/track/6MG6ZiaBw8fLXSMaqlfkjt"
-    },
-    {
-      "added_at": "2024-06-24 06:54:45",
-      "album": {
-        "name": "Freaky",
-        "url": "https://open.spotify.com/album/6Pu1lSXtiqJ06JbfpR9x8h"
-      },
-      "artists": [
-        {
-          "name": "Fasina",
-          "url": "https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 237532,
-      "name": "Freaky",
-      "url": "https://open.spotify.com/track/4l4GKn42jsZItX8FDdTet4"
     }
   ],
   "unique_name": "Alt\u00e9 Classics ",

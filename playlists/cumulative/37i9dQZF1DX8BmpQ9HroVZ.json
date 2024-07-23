@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "The hottest tracks trending in Pakistan. Cover: Faris Shafi, Umair Butt, Gharvi Group",
+  "description": "The hottest tracks trending in Pakistan. Cover: Karan Aujla",
   "name": "Hot Hits Pakistan",
   "tracks": [
     {
@@ -370,7 +370,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 214750,
       "name": "Admirin' You (feat. Preston Pablo)",
       "url": "https://open.spotify.com/track/6ygiy70ujkNOYXM1tQuMNe"
@@ -546,6 +546,24 @@
       "duration_ms": 158447,
       "name": "Alfaazo",
       "url": "https://open.spotify.com/track/6KvXpACADAz73IPrCgXobL"
+    },
+    {
+      "album": {
+        "name": "Four Me",
+        "url": "https://open.spotify.com/album/09LRfKybx7mDRlMtysHrcX"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187332,
+      "name": "ANTIDOTE",
+      "url": "https://open.spotify.com/track/7KmCQLSSde0UX5OqCgvGN9"
     },
     {
       "album": {
@@ -853,6 +871,24 @@
     },
     {
       "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/1B5RSKDW0XtvEyFzBvgP0J"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148133,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/7acH6yiK56etufZpUIv1YW"
+    },
+    {
+      "album": {
         "name": "BEMATLAB",
         "url": "https://open.spotify.com/album/5FxaP7bs11XrDUAza4z5es"
       },
@@ -1041,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "album": {
         "name": "Blockbuster",
         "url": "https://open.spotify.com/album/6uqXvhk1Qq1sUUDTDZgxg8"
       },
@@ -1140,7 +1194,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 175686,
       "name": "California Love",
       "url": "https://open.spotify.com/track/610keNiNVTIkYD0CqeSerg"
@@ -2348,7 +2402,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 167234,
       "name": "God Damn",
       "url": "https://open.spotify.com/track/209QxKVJzh2FLUmZHpYs4m"
@@ -2516,6 +2570,24 @@
       "duration_ms": 168926,
       "name": "Haegeum",
       "url": "https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1"
+    },
+    {
+      "album": {
+        "name": "Haider e Karrar",
+        "url": "https://open.spotify.com/album/3NMe9RkEFyXCFEG6HzMsRL"
+      },
+      "artists": [
+        {
+          "name": "Nadeem Sarwar",
+          "url": "https://open.spotify.com/artist/4n1Lkjq6mDmuro1j3h3YEs"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 539732,
+      "name": "Haider e Karrar",
+      "url": "https://open.spotify.com/track/0XsGmcNuC4ExTbyv7bEeOE"
     },
     {
       "album": {
@@ -2781,6 +2853,24 @@
     },
     {
       "album": {
+        "name": "Four Me",
+        "url": "https://open.spotify.com/album/09LRfKybx7mDRlMtysHrcX"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175556,
+      "name": "IDK HOW",
+      "url": "https://open.spotify.com/track/5ouREJYZCYqwF0p7VeUtfH"
+    },
+    {
+      "album": {
         "name": "Main Tera",
         "url": "https://open.spotify.com/album/47nAxBUhyce2q5v8lN1H2v"
       },
@@ -2880,7 +2970,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 133305,
       "name": "Iraaday",
       "url": "https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi"
@@ -2982,7 +3072,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 223390,
       "name": "Janiye (from the Netflix Film \"Chor Nikal Ke Bhaga\")",
       "url": "https://open.spotify.com/track/0645eBDehHcqfiF15hscQV"
@@ -4628,7 +4718,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 285656,
       "name": "Nahin Milta",
       "url": "https://open.spotify.com/track/0cUdmruT6kjxa5KpteSdwc"
@@ -4892,7 +4982,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
@@ -5120,7 +5210,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 208965,
       "name": "Paon Ki Jutti",
       "url": "https://open.spotify.com/track/0TrsGqtFXMWCrF9pPMICY9"
@@ -5340,7 +5430,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 286122,
       "name": "Piya Piya Calling (feat. The Quick Style)",
       "url": "https://open.spotify.com/track/1K0d6cMvNwiAhQWJjqYJDu"
@@ -5710,7 +5800,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 143200,
       "name": "Safety Off",
       "url": "https://open.spotify.com/track/3NwmvlTYDZPRBGDMGgJH8K"
@@ -6196,7 +6286,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 213599,
       "name": "Soulmate",
       "url": "https://open.spotify.com/track/1tf2iody5iRLYYPDSBpzRc"
@@ -6644,6 +6734,24 @@
       "duration_ms": 276757,
       "name": "Tasweer",
       "url": "https://open.spotify.com/track/2CMMyIYdieC1RDpxnIPeMG"
+    },
+    {
+      "album": {
+        "name": "Bad Newz",
+        "url": "https://open.spotify.com/album/6bqZS60eLo3NhEQDtuUGaW"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207157,
+      "name": "Tauba Tauba",
+      "url": "https://open.spotify.com/track/25Nxyrng0Z3jC5Q0hAibpw"
     },
     {
       "album": {
@@ -7184,6 +7292,28 @@
       "duration_ms": 522500,
       "name": "Tu Kuja Man Kuja",
       "url": "https://open.spotify.com/track/10FMebRh92qPZdO7wLtcJL"
+    },
+    {
+      "album": {
+        "name": "Jab We Met",
+        "url": "https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321225,
+      "name": "Tum Se Hi",
+      "url": "https://open.spotify.com/track/7eQl3Yqv35ioqUfveKHitE"
     },
     {
       "album": {

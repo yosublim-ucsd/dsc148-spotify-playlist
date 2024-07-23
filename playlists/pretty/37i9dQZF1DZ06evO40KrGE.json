@@ -1,12 +1,12 @@
 {
-  "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 34252,
+  "description": "This is Cassiane. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 34257,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpr+AAAAAAAcBcau8BUzeDf6sJPBkS8b",
+  "snapshot_id": "ZpxPgAAAAAAE+7YDPZI57vBOjz7rKBeo",
   "tracks": [
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Sempre",
-        "url": "https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb"
+        "name": "Recompensa",
+        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 282633,
-      "name": "Vou Seguir",
-      "url": "https://open.spotify.com/track/67TQGw4cZzFD33j4KJcOdQ"
+      "duration_ms": 325079,
+      "name": "500 Graus",
+      "url": "https://open.spotify.com/track/7qSzexUzL3H8Fqic0jwDDL"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recompensa",
-        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
+        "name": "Para Sempre",
+        "url": "https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 325079,
-      "name": "500 Graus",
-      "url": "https://open.spotify.com/track/7qSzexUzL3H8Fqic0jwDDL"
+      "duration_ms": 282633,
+      "name": "Vou Seguir",
+      "url": "https://open.spotify.com/track/67TQGw4cZzFD33j4KJcOdQ"
     },
     {
       "added_at": null,

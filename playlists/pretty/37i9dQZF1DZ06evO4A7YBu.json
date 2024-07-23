@@ -1,12 +1,12 @@
 {
   "description": "This is Static-X. The essential tracks, all in one playlist.",
-  "num_followers": 36189,
+  "num_followers": 36202,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpr+AAAAAAA5vr/94jV1Jrx7EF/TaoGs",
+  "snapshot_id": "ZpxPgAAAAADzwkQWmFykl8IsJc1NRR+J",
   "tracks": [
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 235238,
-      "name": "Take Control",
-      "url": "https://open.spotify.com/track/3WhIt6QZGOXERXzDWheBeM"
+      "duration_ms": 243343,
+      "name": "Terrible Lie - Bonus Track",
+      "url": "https://open.spotify.com/track/4K0aSGvZHYAwdinsncDhvT"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 243343,
-      "name": "Terrible Lie - Bonus Track",
-      "url": "https://open.spotify.com/track/4K0aSGvZHYAwdinsncDhvT"
+      "duration_ms": 235238,
+      "name": "Take Control",
+      "url": "https://open.spotify.com/track/3WhIt6QZGOXERXzDWheBeM"
     },
     {
       "added_at": null,

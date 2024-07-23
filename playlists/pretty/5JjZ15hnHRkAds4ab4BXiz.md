@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 405 songs - 1 day 1 hr 57 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 406 songs - 1 day 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -413,5 +413,6 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 403 | [Original Monet \- Demo](https://open.spotify.com/track/4Fq1gRuwSnbHuPFsbpdELV) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Demo EP](https://open.spotify.com/album/030PWSHt39Cg6qF2iYvcT9) | 2:57 |
 | 404 | [cotton eye joe](https://open.spotify.com/track/13vwUuL2l4XoDKUr42ULLt) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [cotton eye joe](https://open.spotify.com/album/1QhH2QjT3n7WaJ5bSysO8L) | 2:50 |
 | 405 | [At a Moment's Notice](https://open.spotify.com/track/79sWENj1DxZlTsdzn57PnU) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [I Don't Make Me](https://open.spotify.com/album/0BMtMOLzV90U3DUWN868WZ) | 3:51 |
+| 406 | [scars](https://open.spotify.com/track/016z46SJwcRosW9Xb8JKmF) | [Novulent](https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0) | [scars](https://open.spotify.com/album/3nVunTBVbJO5fiCP6YlhuB) | 1:35 |
 
-Snapshot ID: `AAAGe6EOAQqYxrfoMchu72c68o2SSGa1`
+Snapshot ID: `AAAGfBpzjcr/kZGV2TBNpVbWlwleIJBn`

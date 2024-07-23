@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 163993,
       "name": "Ataraxia",
       "url": "https://open.spotify.com/track/61dxukleqtTkJE4ThqQTKt"
@@ -3047,6 +3047,24 @@
     },
     {
       "album": {
+        "name": "Doldrum",
+        "url": "https://open.spotify.com/album/5LMsvF1H1WamgFyyntbmRp"
+      },
+      "artists": [
+        {
+          "name": "Sophie Emitt",
+          "url": "https://open.spotify.com/artist/2eoLmo76ASA6kgdyZ5QRSN"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Doldrum",
+      "url": "https://open.spotify.com/track/37quvRyKWSQPu2xhNKjArk"
+    },
+    {
+      "album": {
         "name": "Don\u00b4t Wake Me Up",
         "url": "https://open.spotify.com/album/2gJ7knjWQVrxqrUTKxO8g3"
       },
@@ -3292,7 +3310,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 166946,
       "name": "Dusk's Embrace",
       "url": "https://open.spotify.com/track/0GRGJ6N5wWFpDTDqYJCzWU"
@@ -3688,7 +3706,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 172432,
       "name": "Eon",
       "url": "https://open.spotify.com/track/1lEmgReLHaCJHJwG4OCo13"
@@ -5568,6 +5586,24 @@
     {
       "album": {
         "name": "Imagination",
+        "url": "https://open.spotify.com/album/3v4GX1G3JqaBClvBqsSUzr"
+      },
+      "artists": [
+        {
+          "name": "Julian Nema",
+          "url": "https://open.spotify.com/artist/1Q6EETJLIdmRFA2OVj97HS"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/2ReSb2FXHx7n7tnhUUK66A"
+    },
+    {
+      "album": {
+        "name": "Imagination",
         "url": "https://open.spotify.com/album/7FtteL9w25Y1jvVdqLjheK"
       },
       "artists": [
@@ -7047,6 +7083,24 @@
     },
     {
       "album": {
+        "name": "Moonlit Serenity",
+        "url": "https://open.spotify.com/album/01av7JgZJSuw6ndd153Tr6"
+      },
+      "artists": [
+        {
+          "name": "Martin Landh",
+          "url": "https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195040,
+      "name": "Moonlit Serenity",
+      "url": "https://open.spotify.com/track/0mjRLZf7gpyTUMrnik8PuK"
+    },
+    {
+      "album": {
         "name": "Moonwalk",
         "url": "https://open.spotify.com/album/10xs3hLs3VbR1YV3A4h1We"
       },
@@ -7368,6 +7422,24 @@
       "duration_ms": 169636,
       "name": "Night Owl",
       "url": "https://open.spotify.com/track/6t5yxl4OsdAYeA4zb4VjVe"
+    },
+    {
+      "album": {
+        "name": "Night Sky",
+        "url": "https://open.spotify.com/album/78aA74Ncr1sdYKEWxQGWMU"
+      },
+      "artists": [
+        {
+          "name": "Aleksy Nowak",
+          "url": "https://open.spotify.com/artist/2CXq4IRNqG54c9NBHuBWLw"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199132,
+      "name": "Night Sky",
+      "url": "https://open.spotify.com/track/1k7vD3V5JdcYYodfmkBANS"
     },
     {
       "album": {

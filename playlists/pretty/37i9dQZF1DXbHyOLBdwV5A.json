@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 122226,
+  "num_followers": 122256,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -859,30 +859,6 @@
     {
       "added_at": "2024-07-11 15:55:35",
       "album": {
-        "name": "N\u00e3o Sou Merecedor",
-        "url": "https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89"
-      },
-      "artists": [
-        {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        },
-        {
-          "name": "JoyFull",
-          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
-        },
-        {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
-        }
-      ],
-      "duration_ms": 147840,
-      "name": "N\u00e3o Sou Merecedor",
-      "url": "https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F"
-    },
-    {
-      "added_at": "2024-07-11 15:55:35",
-      "album": {
         "name": "Tudo Vai Ficar Bem",
         "url": "https://open.spotify.com/album/2rtnrWiiIWjlVoFk4U66FN"
       },
@@ -923,6 +899,30 @@
       "duration_ms": 225712,
       "name": "Queima de Novo - Remix",
       "url": "https://open.spotify.com/track/4uZmD5i0iGXQjDJ6t1fGN5"
+    },
+    {
+      "added_at": "2024-07-11 15:55:35",
+      "album": {
+        "name": "N\u00e3o Sou Merecedor",
+        "url": "https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89"
+      },
+      "artists": [
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        },
+        {
+          "name": "JoyFull",
+          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
+        },
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "N\u00e3o Sou Merecedor",
+      "url": "https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F"
     },
     {
       "added_at": "2024-07-11 15:55:35",

@@ -1,6 +1,6 @@
 {
   "description": "Escute Yasmin Santos e mais mulheres no volume m\u00e1ximo! Co-curadoria com Yasmin Santos",
-  "num_followers": 183286,
+  "num_followers": 183404,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -31,6 +31,22 @@
     {
       "added_at": "2024-07-10 03:00:00",
       "album": {
+        "name": "Cantando Sua Hist\u00f3ria (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/14BMySBTWlLEkqQcUEpdtk"
+      },
+      "artists": [
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "duration_ms": 189440,
+      "name": "Dois Tristes - Ao Vivo",
+      "url": "https://open.spotify.com/track/4kQbzdZLAeqlrw3y7o4k3i"
+    },
+    {
+      "added_at": "2024-07-10 03:00:00",
+      "album": {
         "name": "Mari No Barzinho (Ao Vivo No RJ)",
         "url": "https://open.spotify.com/album/6iBPOik18bu37n3mLNGwbx"
       },
@@ -47,18 +63,18 @@
     {
       "added_at": "2024-07-10 03:00:00",
       "album": {
-        "name": "Cantando Sua Hist\u00f3ria (Ao Vivo / Vol.1)",
-        "url": "https://open.spotify.com/album/14BMySBTWlLEkqQcUEpdtk"
+        "name": "Maliciosa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ijC1S3LFTvQlrQWkQko3E"
       },
       "artists": [
         {
-          "name": "Simone Mendes",
-          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 189440,
-      "name": "Dois Tristes - Ao Vivo",
-      "url": "https://open.spotify.com/track/4kQbzdZLAeqlrw3y7o4k3i"
+      "duration_ms": 167027,
+      "name": "Maliciosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/3vCH7bgO37Cx4dOIUlX9sv"
     },
     {
       "added_at": "2024-07-10 03:00:00",
@@ -79,22 +95,6 @@
       "duration_ms": 169058,
       "name": "Esque\u00e7a-Me Se For Capaz",
       "url": "https://open.spotify.com/track/4qsOrxBv09HhNSpsgMRXdC"
-    },
-    {
-      "added_at": "2024-07-10 03:00:00",
-      "album": {
-        "name": "Maliciosa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6ijC1S3LFTvQlrQWkQko3E"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 167027,
-      "name": "Maliciosa - Ao Vivo",
-      "url": "https://open.spotify.com/track/3vCH7bgO37Cx4dOIUlX9sv"
     },
     {
       "added_at": "2024-07-10 03:00:00",
@@ -147,38 +147,6 @@
     {
       "added_at": "2024-07-10 03:00:00",
       "album": {
-        "name": "Cintilante (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3XDhhtRxHceSxoCJwVPwWK"
-      },
-      "artists": [
-        {
-          "name": "Simone Mendes",
-          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
-        }
-      ],
-      "duration_ms": 178811,
-      "name": "Erro Gostoso - Ao Vivo",
-      "url": "https://open.spotify.com/track/51pxwIxDVCbFHW8oyJFQXD"
-    },
-    {
-      "added_at": "2024-07-10 03:00:00",
-      "album": {
-        "name": "menina solta",
-        "url": "https://open.spotify.com/album/5FRPzvOEvmhNvIHMwBp6nR"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 150026,
-      "name": "menina solta",
-      "url": "https://open.spotify.com/track/2MOq63fxuFLYQM3CsDcFs1"
-    },
-    {
-      "added_at": "2024-07-10 03:00:00",
-      "album": {
         "name": "Macetando",
         "url": "https://open.spotify.com/album/6FEJSBFIqZe9GYN2xaAP52"
       },
@@ -195,6 +163,54 @@
       "duration_ms": 167786,
       "name": "Macetando",
       "url": "https://open.spotify.com/track/6eJUG282cUKuIoa72sEsqO"
+    },
+    {
+      "added_at": "2024-07-10 03:00:00",
+      "album": {
+        "name": "Cintilante (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3XDhhtRxHceSxoCJwVPwWK"
+      },
+      "artists": [
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "duration_ms": 178811,
+      "name": "Erro Gostoso - Ao Vivo",
+      "url": "https://open.spotify.com/track/51pxwIxDVCbFHW8oyJFQXD"
+    },
+    {
+      "added_at": "2024-07-10 03:00:00",
+      "album": {
+        "name": "Graveto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5LC5xnORMHtfcwDMI5cC2V"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 170877,
+      "name": "Graveto - Ao Vivo",
+      "url": "https://open.spotify.com/track/3tc8Z4lGzOIwmIVftsxO6o"
+    },
+    {
+      "added_at": "2024-07-10 03:00:00",
+      "album": {
+        "name": "menina solta",
+        "url": "https://open.spotify.com/album/5FRPzvOEvmhNvIHMwBp6nR"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 150026,
+      "name": "menina solta",
+      "url": "https://open.spotify.com/track/2MOq63fxuFLYQM3CsDcFs1"
     },
     {
       "added_at": "2024-07-10 03:00:00",
@@ -239,54 +255,6 @@
     {
       "added_at": "2024-07-10 03:00:00",
       "album": {
-        "name": "Graveto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5LC5xnORMHtfcwDMI5cC2V"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 170877,
-      "name": "Graveto - Ao Vivo",
-      "url": "https://open.spotify.com/track/3tc8Z4lGzOIwmIVftsxO6o"
-    },
-    {
-      "added_at": "2024-07-10 03:00:00",
-      "album": {
-        "name": "Cintilante (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3XDhhtRxHceSxoCJwVPwWK"
-      },
-      "artists": [
-        {
-          "name": "Simone Mendes",
-          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
-        }
-      ],
-      "duration_ms": 173370,
-      "name": "Dois Fugitivos - Ao Vivo",
-      "url": "https://open.spotify.com/track/6MCaEL0pQo1Jg1vlKpMWop"
-    },
-    {
-      "added_at": "2024-07-10 03:00:00",
-      "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo",
-        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 182111,
-      "name": "Chico",
-      "url": "https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT"
-    },
-    {
-      "added_at": "2024-07-10 03:00:00",
-      "album": {
         "name": "Se N\u00e3o For Tu",
         "url": "https://open.spotify.com/album/35jt8GxrLlWmSBGECbZnjZ"
       },
@@ -307,6 +275,38 @@
     {
       "added_at": "2024-07-10 03:00:00",
       "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 182111,
+      "name": "Chico",
+      "url": "https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT"
+    },
+    {
+      "added_at": "2024-07-10 03:00:00",
+      "album": {
+        "name": "Cintilante (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3XDhhtRxHceSxoCJwVPwWK"
+      },
+      "artists": [
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "duration_ms": 173370,
+      "name": "Dois Fugitivos - Ao Vivo",
+      "url": "https://open.spotify.com/track/6MCaEL0pQo1Jg1vlKpMWop"
+    },
+    {
+      "added_at": "2024-07-10 03:00:00",
+      "album": {
         "name": "Quem \u00c9 o Louco Entre N\u00f3s",
         "url": "https://open.spotify.com/album/5iz3ooADhhU2gQP76pxqyV"
       },
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-07-10 03:00:00",
       "album": {
-        "name": "Nosso (Ao Vivo)",
-        "url": "https://open.spotify.com/album/74lknOVJP9u8Rinrwup97d"
-      },
-      "artists": [
-        {
-          "name": "Paula Toller",
-          "url": "https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs"
-        }
-      ],
-      "duration_ms": 210233,
-      "name": "Nada por Mim - Ao Vivo",
-      "url": "https://open.spotify.com/track/5D7q1wP8qMMgj0C4IS3qle"
-    },
-    {
-      "added_at": "2024-07-10 03:00:00",
-      "album": {
         "name": "Realidade - Ao Vivo Em Manaus",
         "url": "https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 202066,
       "name": "De Quem \u00c9 a Culpa? - Ao Vivo",
       "url": "https://open.spotify.com/track/4YhPcVIxIAJrLhFVPGbJkE"
+    },
+    {
+      "added_at": "2024-07-10 03:00:00",
+      "album": {
+        "name": "Nosso (Ao Vivo)",
+        "url": "https://open.spotify.com/album/74lknOVJP9u8Rinrwup97d"
+      },
+      "artists": [
+        {
+          "name": "Paula Toller",
+          "url": "https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs"
+        }
+      ],
+      "duration_ms": 210233,
+      "name": "Nada por Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/5D7q1wP8qMMgj0C4IS3qle"
     },
     {
       "added_at": "2024-07-10 03:00:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-07-10 03:00:00",
       "album": {
+        "name": "Mar\u00edlia Mendon\u00e7a - Perfil (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6JFSCrp4FNZhVZmrDpEZi5"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 149995,
+      "name": "Aus\u00eancia - Ao Vivo | Ac\u00fastico",
+      "url": "https://open.spotify.com/track/37erXXnh4mlWE7mdO6EYOp"
+    },
+    {
+      "added_at": "2024-07-10 03:00:00",
+      "album": {
         "name": "Continua, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/7mcHPmUUdA3O8JjnVkKjxe"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 237798,
       "name": "Cria Da Ivete - Ao Vivo",
       "url": "https://open.spotify.com/track/4XpB5oBPuygG2Gbpi3PUhu"
-    },
-    {
-      "added_at": "2024-07-10 03:00:00",
-      "album": {
-        "name": "Mar\u00edlia Mendon\u00e7a - Perfil (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6JFSCrp4FNZhVZmrDpEZi5"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 149995,
-      "name": "Aus\u00eancia - Ao Vivo | Ac\u00fastico",
-      "url": "https://open.spotify.com/track/37erXXnh4mlWE7mdO6EYOp"
     },
     {
       "added_at": "2024-07-10 03:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-07-10 03:00:00",
       "album": {
+        "name": "Mar\u00edlia Mendon\u00e7a - Ao Vivo",
+        "url": "https://open.spotify.com/album/0qy6yZjgoZ2cGGk9joy8E4"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 173152,
+      "name": "Sil\u00eancio - Ao Vivo",
+      "url": "https://open.spotify.com/track/0snqnBbzkmkHPEdkUIdxIu"
+    },
+    {
+      "added_at": "2024-07-10 03:00:00",
+      "album": {
         "name": "Yasmin Santos Ao Vivo em Goi\u00e2nia",
         "url": "https://open.spotify.com/album/5LiNfSeXC0VjZ00nSF5Rab"
       },
@@ -655,22 +671,6 @@
     {
       "added_at": "2024-07-10 03:00:00",
       "album": {
-        "name": "Mar\u00edlia Mendon\u00e7a - Ao Vivo",
-        "url": "https://open.spotify.com/album/0qy6yZjgoZ2cGGk9joy8E4"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 173152,
-      "name": "Sil\u00eancio - Ao Vivo",
-      "url": "https://open.spotify.com/track/0snqnBbzkmkHPEdkUIdxIu"
-    },
-    {
-      "added_at": "2024-07-10 03:00:00",
-      "album": {
         "name": "Bora Testar",
         "url": "https://open.spotify.com/album/0cT2wFroLy3chvFZ2hWuI7"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-07-10 03:00:00",
       "album": {
-        "name": "Yasmin Santos Ao Vivo em Goi\u00e2nia",
-        "url": "https://open.spotify.com/album/5LiNfSeXC0VjZ00nSF5Rab"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        }
-      ],
-      "duration_ms": 181114,
-      "name": "N\u00e3o Quero Ser Mais Eu - Ao Vivo",
-      "url": "https://open.spotify.com/track/1isGVPazsjGdUd05I0ljjT"
-    },
-    {
-      "added_at": "2024-07-10 03:00:00",
-      "album": {
         "name": "Assino com X / Do Outro Lado Da Cidade (Ao Vivo)",
         "url": "https://open.spotify.com/album/1XVEi0YAuK5FcN4zIm03Gp"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 191445,
       "name": "Assino com X / Do Outro Lado Da Cidade - Ao Vivo",
       "url": "https://open.spotify.com/track/2PxkAKIQNYBO7RTKzhJMi5"
+    },
+    {
+      "added_at": "2024-07-10 03:00:00",
+      "album": {
+        "name": "Yasmin Santos Ao Vivo em Goi\u00e2nia",
+        "url": "https://open.spotify.com/album/5LiNfSeXC0VjZ00nSF5Rab"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        }
+      ],
+      "duration_ms": 181114,
+      "name": "N\u00e3o Quero Ser Mais Eu - Ao Vivo",
+      "url": "https://open.spotify.com/track/1isGVPazsjGdUd05I0ljjT"
     },
     {
       "added_at": "2024-07-10 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 256167,
+  "num_followers": 256207,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpr+AAAAAACWCEDikYoOPFBqY9F2Wuvl",
+  "snapshot_id": "ZpxPgAAAAADsNsBi57Rwn5aySvJ6TjPg",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,6 @@
       "duration_ms": 188253,
       "name": "What Ifs (feat. Lauren Alaina)",
       "url": "https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kane Brown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 179506,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
     },
     {
       "added_at": null,
@@ -279,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Experiment Extended",
-        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 178986,
-      "name": "Lose It",
-      "url": "https://open.spotify.com/track/7epGknfpAlH1u33S71Ur1o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Mississippi",
         "url": "https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl"
       },
@@ -335,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different Man",
-        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "Grand",
-      "url": "https://open.spotify.com/track/36ckQ6GqvcqeYeiWBnl6uz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Experiment Extended",
         "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
       },
@@ -363,6 +315,22 @@
       "duration_ms": 194146,
       "name": "Short Skirt Weather",
       "url": "https://open.spotify.com/track/6PN7QeNItfzZBpCTQvsLyq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Grand",
+      "url": "https://open.spotify.com/track/36ckQ6GqvcqeYeiWBnl6uz"
     },
     {
       "added_at": null,
@@ -383,30 +351,6 @@
       "duration_ms": 198171,
       "name": "Blessed & Free",
       "url": "https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SCOOB! The Album",
-        "url": "https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164683,
-      "name": "On Me (feat. Ava Max)",
-      "url": "https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc"
     },
     {
       "added_at": null,
@@ -443,22 +387,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different Man",
-        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+        "name": "SCOOB! The Album",
+        "url": "https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG"
       },
       "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
         {
           "name": "Kane Brown",
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         },
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 175773,
-      "name": "Different Man",
-      "url": "https://open.spotify.com/track/2n99h7z08LvHr7Cjcnm1Ub"
+      "duration_ms": 164683,
+      "name": "On Me (feat. Ava Max)",
+      "url": "https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc"
     },
     {
       "added_at": null,
@@ -479,6 +427,26 @@
       "duration_ms": 211102,
       "name": "Saturday Nights REMIX",
       "url": "https://open.spotify.com/track/0W5oXFrxZNBTIS1eMW9Ofz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 175773,
+      "name": "Different Man",
+      "url": "https://open.spotify.com/track/2n99h7z08LvHr7Cjcnm1Ub"
     },
     {
       "added_at": null,
@@ -567,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different Man",
-        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+        "name": "Kane Brown",
+        "url": "https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T"
       },
       "artists": [
         {
@@ -576,9 +544,9 @@
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 203666,
-      "name": "Go Around",
-      "url": "https://open.spotify.com/track/4bRZoRhAQfqGLOkqAFDPp5"
+      "duration_ms": 164920,
+      "name": "Thunder in the Rain",
+      "url": "https://open.spotify.com/track/1A8s182NfOT6dOXjPsWfTn"
     },
     {
       "added_at": null,
@@ -599,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kane Brown",
-        "url": "https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T"
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
       },
       "artists": [
         {
@@ -608,9 +576,9 @@
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 164920,
-      "name": "Thunder in the Rain",
-      "url": "https://open.spotify.com/track/1A8s182NfOT6dOXjPsWfTn"
+      "duration_ms": 203666,
+      "name": "Go Around",
+      "url": "https://open.spotify.com/track/4bRZoRhAQfqGLOkqAFDPp5"
     },
     {
       "added_at": null,
@@ -791,22 +759,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reboot",
-        "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
       },
       "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        },
         {
           "name": "Kane Brown",
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 311200,
-      "name": "Believe - with Kane Brown",
-      "url": "https://open.spotify.com/track/5qOCmP9qU3AmeCIZ4hjimg"
+      "duration_ms": 186346,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/0y2Zvt89QMAZ9gEYvB5hpO"
     },
     {
       "added_at": null,
@@ -839,18 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worldwide Beautiful",
-        "url": "https://open.spotify.com/album/30mVH408jo6oYaMduiwX66"
+        "name": "Reboot",
+        "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
       },
       "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
         {
           "name": "Kane Brown",
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 208977,
-      "name": "Worldwide Beautiful",
-      "url": "https://open.spotify.com/track/431M98gFekRc9HdNfgWc7N"
+      "duration_ms": 311200,
+      "name": "Believe - with Kane Brown",
+      "url": "https://open.spotify.com/track/5qOCmP9qU3AmeCIZ4hjimg"
     },
     {
       "added_at": null,
@@ -867,6 +835,22 @@
       "duration_ms": 222320,
       "name": "Better Place",
       "url": "https://open.spotify.com/track/0vtKLjkpdHoysT5ZPcwgA7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Worldwide Beautiful",
+        "url": "https://open.spotify.com/album/30mVH408jo6oYaMduiwX66"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 208977,
+      "name": "Worldwide Beautiful",
+      "url": "https://open.spotify.com/track/431M98gFekRc9HdNfgWc7N"
     },
     {
       "added_at": null,
@@ -935,6 +919,26 @@
       "duration_ms": 169565,
       "name": "Last Minute Late Night",
       "url": "https://open.spotify.com/track/3Sso0f19u0o5HavJErdZEN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        }
+      ],
+      "duration_ms": 200293,
+      "name": "Setting the Night On Fire (with Chris Young)",
+      "url": "https://open.spotify.com/track/2OeyphE568es62xmmJTt1z"
     }
   ],
   "unique_name": "This Is Kane Brown",

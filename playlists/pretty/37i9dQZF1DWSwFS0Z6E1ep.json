@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 260442,
+  "num_followers": 260494,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Collections",
-        "url": "https://open.spotify.com/album/7s1t3zA17RfNVhMYv2v52o"
-      },
-      "artists": [
-        {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
-        }
-      ],
-      "duration_ms": 135773,
-      "name": "Oh! Carol",
-      "url": "https://open.spotify.com/track/1VI29k31nGdasgJ8BBpPu8"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Buddy Knox",
         "url": "https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 135173,
       "name": "Party Doll",
       "url": "https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Collections",
+        "url": "https://open.spotify.com/album/7s1t3zA17RfNVhMYv2v52o"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 135773,
+      "name": "Oh! Carol",
+      "url": "https://open.spotify.com/track/1VI29k31nGdasgJ8BBpPu8"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "So Young / Right Behind You Baby",
-        "url": "https://open.spotify.com/album/6LP7wSqVMR2We0QErREC0w"
-      },
-      "artists": [
-        {
-          "name": "Ray Smith",
-          "url": "https://open.spotify.com/artist/4SGITJm1kRaIEoqEwv360I"
-        }
-      ],
-      "duration_ms": 145093,
-      "name": "Right Behind You Baby",
-      "url": "https://open.spotify.com/track/5omAt5Vn4vRZH9ulslkKZ6"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/4Q06dq3TI47Aqm3NyH1bTO"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 160266,
       "name": "Money (That's What I Want)",
       "url": "https://open.spotify.com/track/0jqr2lIlIU09FsuSOibDdA"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "So Young / Right Behind You Baby",
+        "url": "https://open.spotify.com/album/6LP7wSqVMR2We0QErREC0w"
+      },
+      "artists": [
+        {
+          "name": "Ray Smith",
+          "url": "https://open.spotify.com/artist/4SGITJm1kRaIEoqEwv360I"
+        }
+      ],
+      "duration_ms": 145093,
+      "name": "Right Behind You Baby",
+      "url": "https://open.spotify.com/track/5omAt5Vn4vRZH9ulslkKZ6"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Drinkin' Wine Spodee-O-Dee / Just Rolling Along",
+        "url": "https://open.spotify.com/album/6nC3m8DahB7IQpmzfEy3xK"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Yelvington",
+          "url": "https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "Drinkin' Wine Spodee-O-Dee",
+      "url": "https://open.spotify.com/track/591iSuSiJcSIH1ureumYyk"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Sun Records Recording Artist - Rosco Gordon",
         "url": "https://open.spotify.com/album/1yVVmzSJ8XucF6wYCO2jzH"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 153627,
       "name": "Little Fine Healthy Thing",
       "url": "https://open.spotify.com/track/2eTOZn2Mn4ZswpMsbrihhm"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Drinkin' Wine Spodee-O-Dee / Just Rolling Along",
-        "url": "https://open.spotify.com/album/6nC3m8DahB7IQpmzfEy3xK"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Yelvington",
-          "url": "https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "Drinkin' Wine Spodee-O-Dee",
-      "url": "https://open.spotify.com/track/591iSuSiJcSIH1ureumYyk"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Shoobie Oobie / Cheese and Crackers",
-        "url": "https://open.spotify.com/album/2QPUN37KYyUzOUACYg4qrX"
-      },
-      "artists": [
-        {
-          "name": "Rosco Gordon",
-          "url": "https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9"
-        }
-      ],
-      "duration_ms": 174003,
-      "name": "Shoobie Oobie",
-      "url": "https://open.spotify.com/track/3jImyuUHe6bm8ACMIzuUud"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Rockabilly 50",
         "url": "https://open.spotify.com/album/0KXqBhjN5zKNUaHR2ssrZx"
       },
@@ -1659,22 +1643,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Sun Records - Rockabilly Archive",
-        "url": "https://open.spotify.com/album/11T29v7GCXUnwgRziqoNZL"
-      },
-      "artists": [
-        {
-          "name": "Dean Beard",
-          "url": "https://open.spotify.com/artist/4dzwpcq6tAVSgWZaGchyN5"
-        }
-      ],
-      "duration_ms": 139181,
-      "name": "Rock Around The Town",
-      "url": "https://open.spotify.com/track/7HwQfLZkIFcbqVYp41KpAh"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "If You Love Me / Alone and Blue",
         "url": "https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ"
       },
@@ -1691,6 +1659,38 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Sun Records - Rockabilly Archive",
+        "url": "https://open.spotify.com/album/11T29v7GCXUnwgRziqoNZL"
+      },
+      "artists": [
+        {
+          "name": "Dean Beard",
+          "url": "https://open.spotify.com/artist/4dzwpcq6tAVSgWZaGchyN5"
+        }
+      ],
+      "duration_ms": 139181,
+      "name": "Rock Around The Town",
+      "url": "https://open.spotify.com/track/7HwQfLZkIFcbqVYp41KpAh"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Shoobie Oobie / Cheese and Crackers",
+        "url": "https://open.spotify.com/album/2QPUN37KYyUzOUACYg4qrX"
+      },
+      "artists": [
+        {
+          "name": "Rosco Gordon",
+          "url": "https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9"
+        }
+      ],
+      "duration_ms": 174003,
+      "name": "Shoobie Oobie",
+      "url": "https://open.spotify.com/track/3jImyuUHe6bm8ACMIzuUud"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Sun Records - 60 Years, 60 Singles Box Set",
         "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
       },
@@ -1703,22 +1703,6 @@
       "duration_ms": 141785,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/0X8ggfrvgUqrzR4mnQU5YP"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Rockabilly",
-        "url": "https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B"
-      },
-      "artists": [
-        {
-          "name": "Eddie Bush",
-          "url": "https://open.spotify.com/artist/0tuRmjt5kv75nedebw4kFo"
-        }
-      ],
-      "duration_ms": 112561,
-      "name": "Baby I Don't Care",
-      "url": "https://open.spotify.com/track/3Q04VdrTsD4hB6Uez783JO"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1783,6 +1767,22 @@
       "duration_ms": 134640,
       "name": "Just In Time - Remastered 1998",
       "url": "https://open.spotify.com/track/1UzlJGnPQLCIDAHuKSjQQT"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Rockabilly",
+        "url": "https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B"
+      },
+      "artists": [
+        {
+          "name": "Eddie Bush",
+          "url": "https://open.spotify.com/artist/0tuRmjt5kv75nedebw4kFo"
+        }
+      ],
+      "duration_ms": 112561,
+      "name": "Baby I Don't Care",
+      "url": "https://open.spotify.com/track/3Q04VdrTsD4hB6Uez783JO"
     },
     {
       "added_at": "2022-06-07 05:25:13",

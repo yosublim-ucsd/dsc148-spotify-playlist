@@ -2963,6 +2963,24 @@
     },
     {
       "album": {
+        "name": "De Qual Que Eu Vou",
+        "url": "https://open.spotify.com/album/4R0YYuPuow2729bfqnsDOO"
+      },
+      "artists": [
+        {
+          "name": "Bento",
+          "url": "https://open.spotify.com/artist/33KFxz88F1NQUDJq9v7WhV"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148987,
+      "name": "De Qual Que Eu Vou",
+      "url": "https://open.spotify.com/track/3WRd3YjxX3UlTeVgZrSmZu"
+    },
+    {
+      "album": {
         "name": "Esquenta do DVD",
         "url": "https://open.spotify.com/album/7vP0uuTxpBPK2jpmt8TcyV"
       },
@@ -5182,7 +5200,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 194426,
       "name": "Lei da Atra\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4R2K4PKzNcwCYCNPZ5Fuh2"

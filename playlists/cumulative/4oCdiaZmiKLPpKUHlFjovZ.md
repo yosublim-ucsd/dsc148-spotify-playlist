@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! 310Babii, Key Glock, Peezy &amp; Tyga.
 
-99 songs - 4 hr 15 min
+100 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Gangsta Lean](https://open.spotify.com/track/0EFY0o5DqcD8n7JKDtfgf9) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Gangsta Lean](https://open.spotify.com/album/0dy9A6nscVVldqXuWDgREB) | 2:09 | 2023-09-05 |  |
 | [Gerskiway](https://open.spotify.com/track/0BJXaODE8YHcS0wInGHewf) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [GEMINI!](https://open.spotify.com/album/1oocvwkq7m9gmJma0SceUi) | 2:27 | 2024-06-14 |  |
 | [Get Off](https://open.spotify.com/track/1Pk5l0MYcmMlFG5XS9VGsK) | [Pretty Brayah](https://open.spotify.com/artist/04T13CNEP9VzNd4jMNQrQb) | [Get Off](https://open.spotify.com/album/36osWrlEhL8GT8IwreDLEM) | 2:33 | 2023-09-28 | 2024-06-19 |
+| [Ghetto Boyz](https://open.spotify.com/track/1EH3nPHVZbWn2LTwxrp3j1) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [Ghetto Boyz](https://open.spotify.com/album/40chibcpJl6iVoRkdKk4ql) | 2:13 | 2024-07-22 |  |
 | [Green Carpet](https://open.spotify.com/track/4OYy7dfHbLKi4lvpzpzeRv) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Green Carpet](https://open.spotify.com/album/7MZCu883H2Y7Br2K9Wd3Ef) | 2:13 | 2024-03-04 | 2024-06-19 |
 | [Hard To Handle](https://open.spotify.com/track/3N4LtsPwD5TikEeEIq1m9a) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Hard To Handle](https://open.spotify.com/album/1itz9psxuHakXi5iVap9Hr) | 3:35 | 2023-08-18 | 2024-05-21 |
 | [Heavy On My Heart](https://open.spotify.com/track/1IjxlfejE7sf6C70vYGcmw) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [2 Faced, Pt\. 2](https://open.spotify.com/album/20WBtyZuLSGHtzJ02ZsY4p) | 2:42 | 2024-06-01 |  |

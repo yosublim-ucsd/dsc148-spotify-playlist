@@ -4174,7 +4174,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 211329,
       "name": "Distant hearts",
       "url": "https://open.spotify.com/track/5j5VssUHAJRKH8KM94gpDX"
@@ -11640,6 +11640,24 @@
       "duration_ms": 207834,
       "name": "Mulled Wine",
       "url": "https://open.spotify.com/track/0vmKw0Rn07BRuhBBfOqIPq"
+    },
+    {
+      "album": {
+        "name": "My Favorite Dream",
+        "url": "https://open.spotify.com/album/2SDaNT2UPepHLI351MPNrY"
+      },
+      "artists": [
+        {
+          "name": "Arta Porting",
+          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299683,
+      "name": "My Favorite Dream",
+      "url": "https://open.spotify.com/track/6qXDjpOG7DroqigzG6hV9M"
     },
     {
       "album": {

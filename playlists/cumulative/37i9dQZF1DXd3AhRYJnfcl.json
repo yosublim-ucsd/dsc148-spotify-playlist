@@ -1299,6 +1299,24 @@
     },
     {
       "album": {
+        "name": "Esmek Eh",
+        "url": "https://open.spotify.com/album/5BeEQxslkgF497LOzD8fBU"
+      },
+      "artists": [
+        {
+          "name": "Amir Eid",
+          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190328,
+      "name": "Esmek Eh",
+      "url": "https://open.spotify.com/track/3bG2kL6F0M71u4j9Du8lSC"
+    },
+    {
+      "album": {
         "name": "Etnaset",
         "url": "https://open.spotify.com/album/5nE6ovXOMjYZ1UG695iIkU"
       },

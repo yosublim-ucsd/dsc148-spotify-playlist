@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Anna Graves",
-  "num_followers": 78851,
+  "num_followers": 78883,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "I Guess",
-        "url": "https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 224022,
-      "name": "I Guess",
-      "url": "https://open.spotify.com/track/0rkKuNq4U8E8KTLq7RRl1Z"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Sadness As A Gift",
         "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 259015,
       "name": "Sadness As A Gift",
       "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "I Guess",
+        "url": "https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 224022,
+      "name": "I Guess",
+      "url": "https://open.spotify.com/track/0rkKuNq4U8E8KTLq7RRl1Z"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC"
     },
     {
-      "added_at": "2024-07-08 18:00:19",
-      "album": {
-        "name": "How Long",
-        "url": "https://open.spotify.com/album/7ssXHDTUiWMgXKvu7Nw9Qe"
-      },
-      "artists": [
-        {
-          "name": "Yana",
-          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
-        }
-      ],
-      "duration_ms": 210658,
-      "name": "How Long",
-      "url": "https://open.spotify.com/track/6ugo6TrO93ZW9gAovTzegl"
-    },
-    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Spotify Singles",
@@ -803,6 +787,22 @@
       "duration_ms": 289964,
       "name": "Change (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
+    },
+    {
+      "added_at": "2024-07-08 18:00:19",
+      "album": {
+        "name": "How Long",
+        "url": "https://open.spotify.com/album/7ssXHDTUiWMgXKvu7Nw9Qe"
+      },
+      "artists": [
+        {
+          "name": "Yana",
+          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
+        }
+      ],
+      "duration_ms": 210658,
+      "name": "How Long",
+      "url": "https://open.spotify.com/track/6ugo6TrO93ZW9gAovTzegl"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "How Much Longer?",
-        "url": "https://open.spotify.com/album/0DaO7SKybQhxKPK4HLCZrV"
-      },
-      "artists": [
-        {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
-        }
-      ],
-      "duration_ms": 243798,
-      "name": "How Much Longer?",
-      "url": "https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Riding Around In The Dark",
         "url": "https://open.spotify.com/album/5AOciqgWEcZRjz0D85Hktj"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "How Much Longer?",
+        "url": "https://open.spotify.com/album/0DaO7SKybQhxKPK4HLCZrV"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "duration_ms": 243798,
+      "name": "How Much Longer?",
+      "url": "https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "The Past Is Still Alive",
         "url": "https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy"
       },
@@ -1015,6 +1015,22 @@
       "duration_ms": 222341,
       "name": "Hawkmoon",
       "url": "https://open.spotify.com/track/5KwvjABtVbrDGBamRoyos2"
+    },
+    {
+      "added_at": "2024-07-08 18:00:19",
+      "album": {
+        "name": "talking to myself",
+        "url": "https://open.spotify.com/album/4Q6zy7BRVEapZ8b0haQ6Tq"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "duration_ms": 173953,
+      "name": "talking to myself",
+      "url": "https://open.spotify.com/track/4cJ7PE4KoLaUJg2S1iQMs3"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1035,22 +1051,6 @@
       "duration_ms": 190866,
       "name": "One Less Question",
       "url": "https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij"
-    },
-    {
-      "added_at": "2024-07-08 18:00:19",
-      "album": {
-        "name": "talking to myself",
-        "url": "https://open.spotify.com/album/4Q6zy7BRVEapZ8b0haQ6Tq"
-      },
-      "artists": [
-        {
-          "name": "philine",
-          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
-        }
-      ],
-      "duration_ms": 173953,
-      "name": "talking to myself",
-      "url": "https://open.spotify.com/track/4cJ7PE4KoLaUJg2S1iQMs3"
     },
     {
       "added_at": "2024-07-08 18:00:19",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Don't Do Me Good",
-        "url": "https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 253613,
-      "name": "Don't Do Me Good",
-      "url": "https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Hovvdy",
         "url": "https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0"
       },
@@ -1191,6 +1171,26 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Don't Do Me Good",
+        "url": "https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 253613,
+      "name": "Don't Do Me Good",
+      "url": "https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Rare Disease",
         "url": "https://open.spotify.com/album/4P2NQ1wYESDt51NGx9ZbW2"
       },
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Whiskey",
-        "url": "https://open.spotify.com/album/2YyLl4pOkP4RWJIphfcAr8"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 307007,
-      "name": "Whiskey",
-      "url": "https://open.spotify.com/track/0fwQ9azMBpJHQ8pzDl9I9i"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "No Complaints",
         "url": "https://open.spotify.com/album/42xj07uXecDQBFGUcEVfwx"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 187089,
       "name": "No Complaints",
       "url": "https://open.spotify.com/track/2D2rLS5IBt2EzDajhtuHZR"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Whiskey",
+        "url": "https://open.spotify.com/album/2YyLl4pOkP4RWJIphfcAr8"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 307007,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/0fwQ9azMBpJHQ8pzDl9I9i"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

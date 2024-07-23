@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-527 songs - 1 day 2 hr 42 min
+529 songs - 1 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Engelbewaarder](https://open.spotify.com/track/2C2vSufLm1wLq2GjDH3iMh) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Engelbewaarder](https://open.spotify.com/album/3c6Hst9lqpnnRRpEbP1RxH) | 3:16 | 2023-03-16 | 2023-07-11 |
 | [Entourage](https://open.spotify.com/track/48kxfGK5XbO1eW8Cf4Vil7) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Entourage](https://open.spotify.com/album/3QuhArgaKaAgzXoh6Iggue) | 2:09 | 2024-03-18 |  |
 | [Er Was Eens Een Meid](https://open.spotify.com/track/128TSKhbp925wwRpJksRXH) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Er Was Eens Een Meid](https://open.spotify.com/album/3fO8TSTjkapJpQU4xKgahE) | 2:56 | 2023-04-11 | 2023-05-26 |
+| [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-07-22 |  |
 | [Est\-ce que tu m'aimes ? \- Pilule bleue](https://open.spotify.com/track/3a9TMd2Yrza6HXqqlfMtfy) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Mon coeur avait raison](https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur) | 3:57 | 2023-10-18 | 2024-02-27 |
 | [Est\-ce que tu m'aimes? \- Techno Mix](https://open.spotify.com/track/4Wfhrtx2YYGF6PuO3aejek) | [NALYRO](https://open.spotify.com/artist/3XC1TzybOz2MUgUybEoUUf) | [Est\-ce que tu m'aimes? \(Techno Mix\)](https://open.spotify.com/album/2gHbzrnertShfYSJiCps6C) | 2:36 | 2024-03-21 |  |
 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-05-06 | 2024-05-24 |
@@ -186,6 +187,7 @@
 | [HaHUA \(Doei Doei\)](https://open.spotify.com/track/4qWdCSPVYD4FeEPW6tS7jU) | [AUXBERGINE](https://open.spotify.com/artist/5ITnDaeBB9eLjQaDQUJwzi) | [HaHUA \(Doei Doei\)](https://open.spotify.com/album/0kMYgc76yYiikvTzgyQQfB) | 1:55 | 2024-03-07 | 2024-03-22 |
 | [Happy Nation](https://open.spotify.com/track/7yCF65vpc7sUwPjftI0iFb) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Happy Nation](https://open.spotify.com/album/6cpOIdpPfGaazHsh5eYz0k) | 4:15 | 2024-02-14 | 2024-04-09 |
 | [Hardcore Will Never Die](https://open.spotify.com/track/2EMMqD9aKPLx1DJ90JHnaJ) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [Koningsdag 2022](https://open.spotify.com/album/0Ag7wvNwmOYh8CugoVh6Jl) | 2:11 | 2023-07-18 | 2024-05-07 |
+| [HAY LUPITA](https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY LUPITA](https://open.spotify.com/album/2VOwmlyJzRjfMfofsNHTtR) | 1:45 | 2024-07-22 |  |
 | [Hear The Sound](https://open.spotify.com/track/276lQAZfUAXTvlzpPiSFTw) | [Franck](https://open.spotify.com/artist/3XGGc2cdg65V8AOXGfdHwb) | [Rf1](https://open.spotify.com/album/1q6vPrcAmGbLFsYikTLGfG) | 6:13 | 2023-02-23 | 2023-03-08 |
 | [Heartbeat](https://open.spotify.com/track/4QlRUzRXS4fCyrlVBLXg8r) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Heartbeat](https://open.spotify.com/album/6BK9a0A1iFK11y9FvFDTvl) | 3:18 | 2023-02-23 | 2023-04-12 |
 | [HEET \(feat\. Bizzey\)](https://open.spotify.com/track/45ZGE4ZqMOZwf47RMg5XdV) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [TURBULENTIE](https://open.spotify.com/album/1LyxYL6FtgF4p1DTiazSjw) | 2:53 | 2024-03-29 |  |

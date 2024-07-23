@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-202 songs - 14 hr 18 min
+203 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [I Know You](https://open.spotify.com/track/5f7gdXvYTZqCRl4ieL4xvl) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [I Know You](https://open.spotify.com/album/2CXL7xliVASXyKWYoJfu3Q) | 3:52 | 2022-11-25 | 2024-04-05 |
 | [I Saw Good](https://open.spotify.com/track/58R30o2zynpgdvG5Nxfur8) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [I Saw Good](https://open.spotify.com/album/6LTbiiZ7tfWtDTVxsDzWKU) | 3:07 | 2022-01-14 | 2024-02-04 |
 | [Ice Moon](https://open.spotify.com/track/1Vv4jqn3EZZw0BThJqjhJD) | [LSR/CITY](https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2), [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Annabel](https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l) | [Ice Moon](https://open.spotify.com/album/4ZFwY8augL822xcvrf0LL2) | 2:34 | 2024-02-23 |  |
-| [In The Quiet](https://open.spotify.com/track/249ezY4pPzbgSgxfwnHrnT) | [Able Faces](https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2), [MA:RK](https://open.spotify.com/artist/7nq7r3on1FX8ztpwOHqHbF), [Montagu](https://open.spotify.com/artist/6eHaNJTQcHcvkwGTl3V4vb) | [In The Quiet](https://open.spotify.com/album/6AJzq43Wwf38iYJ9WnD2BH) | 2:52 | 2024-03-29 |  |
+| [In The Quiet](https://open.spotify.com/track/249ezY4pPzbgSgxfwnHrnT) | [Able Faces](https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2), [MA:RK](https://open.spotify.com/artist/7nq7r3on1FX8ztpwOHqHbF), [Montagu](https://open.spotify.com/artist/6eHaNJTQcHcvkwGTl3V4vb) | [In The Quiet](https://open.spotify.com/album/6AJzq43Wwf38iYJ9WnD2BH) | 2:52 | 2024-03-29 | 2024-07-23 |
 | [In Your Arms](https://open.spotify.com/track/7lLuAZCes4jKORs3ak8xZP) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Another Life](https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ), [CAY \(DE\)](https://open.spotify.com/artist/2ug2jpxDeOgYfYleeYzg2K) | [In Your Arms](https://open.spotify.com/album/0KIJ5H16buFOBL0vNpmSsi) | 5:33 | 2024-02-02 |  |
 | [Incomplete Dreaming](https://open.spotify.com/track/6SRM57YcCB4YqiqhJlnqdn) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Incomplete Dreaming](https://open.spotify.com/album/6QsZfxJ3RL8oUV32vlJ2n7) | 4:12 | 2024-06-21 |  |
 | [Influence \- Edit](https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s) | [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup) | [Influence](https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o) | 4:19 | 2022-01-14 | 2024-02-02 |
@@ -194,6 +194,7 @@
 | [Vaia \- PVSHL Remix Edit](https://open.spotify.com/track/5j3kkxIyGrDaHLaWPNb56g) | [Troste](https://open.spotify.com/artist/0ugRi4v3utREAUASuPhlJz), [PVSHL](https://open.spotify.com/artist/1DgG7X6SdsC8JD3No1A4HF) | [Vaia \(PVSHL Remix\)](https://open.spotify.com/album/5Y4NzuaqziJu0QFkP2WHiQ) | 4:36 | 2022-01-14 | 2022-07-29 |
 | [Vanishing](https://open.spotify.com/track/03AOPd7ZJbE9LPIA8oZMsA) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Unity Pt\. 2](https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6) | 6:12 | 2022-01-14 | 2024-01-05 |
 | [Vanishing](https://open.spotify.com/track/0ycTj4BB8FFmFL6tWw7m6N) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Unity Pt\. 2](https://open.spotify.com/album/3XCXszgpnwhnZa0TdyoIFX) | 6:12 | 2022-11-25 | 2024-04-05 |
+| [Vertigo](https://open.spotify.com/track/3jVo350GBcozw5OrXySv5N) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Vertigo](https://open.spotify.com/album/4LJhKUgLG4w4uM99XyAkMz) | 3:54 | 2024-07-18 |  |
 | [Vivi](https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1) | [Elevven](https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu) | [Vivi](https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy) | 3:56 | 2022-01-14 | 2024-02-16 |
 | [Was It the Wind That Stirred The Trees](https://open.spotify.com/track/444nE6DEGBPTjLgR39BjdT) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Was It the Wind That Stirred The Trees](https://open.spotify.com/album/0e9kIrv9PyjGWubMLQXJyY) | 3:48 | 2022-11-25 | 2024-04-19 |
 | [Was It The Wind That Stirred The Trees](https://open.spotify.com/track/7DhgAwnYzYnJzSdqQhTYwB) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Was It The Wind That Stirred The Trees](https://open.spotify.com/album/7sanzFRWH1nfrXrLFix8Am) | 3:48 | 2022-01-14 | 2023-10-02 |

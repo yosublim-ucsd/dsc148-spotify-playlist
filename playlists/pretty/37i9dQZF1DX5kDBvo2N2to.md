@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 
 > låtarna som inte går att få nog av.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,214 likes - 104 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,211 likes - 104 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 48 | [Upset](https://open.spotify.com/track/1lmESvOXWfDSgVAAaIruLL) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Crying Dove](https://open.spotify.com/album/6xGehMsofWMuFW2nKYdmK7) | 2:38 |
 | 49 | [Flyttat därifrån](https://open.spotify.com/track/2HC0Y27D9pGyMBMoivUcer) | [Dear Sara](https://open.spotify.com/artist/721YShAWcHkTb98Kn0zi3S) | [Flyttat därifrån](https://open.spotify.com/album/5PDNp1F6qzCnMDp6Q9GSJp) | 2:57 |
 | 50 | [Ordna sig](https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Ordna sig](https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP) | 2:31 |
-| 51 | [Days Like These](https://open.spotify.com/track/6sjEyfadmCik7jzNs7gNIT) | [Then Argus](https://open.spotify.com/artist/60Rap5PmLfAvGbx10vytgB) | [Days Like These](https://open.spotify.com/album/41QlBp7EDWQbqVJTRFItpD) | 2:20 |
-| 52 | [Ditt hjärta bor](https://open.spotify.com/track/61HiBDc2oUSHectbGwr7GU) | [Strobaek](https://open.spotify.com/artist/082YfpbTrmcJ7CVtnQcbQp) | [Sjung om \(lyxversion\)](https://open.spotify.com/album/0ncTdDynh14mkzhC6KHfJ2) | 2:39 |
+| 51 | [Ditt hjärta bor](https://open.spotify.com/track/61HiBDc2oUSHectbGwr7GU) | [Strobaek](https://open.spotify.com/artist/082YfpbTrmcJ7CVtnQcbQp) | [Sjung om \(lyxversion\)](https://open.spotify.com/album/0ncTdDynh14mkzhC6KHfJ2) | 2:39 |
+| 52 | [Days Like These](https://open.spotify.com/track/6sjEyfadmCik7jzNs7gNIT) | [Then Argus](https://open.spotify.com/artist/60Rap5PmLfAvGbx10vytgB) | [Days Like These](https://open.spotify.com/album/41QlBp7EDWQbqVJTRFItpD) | 2:20 |
 | 53 | [Där Jag Fann Dig Sist](https://open.spotify.com/track/3K0gRKBAK1Iux4hEZwamyD) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [¿Kan Du Höra Det?](https://open.spotify.com/album/6EZN2n5FRDb3vaFVSCx6ay) | 3:51 |
 | 54 | [Empty the Bags](https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Empty the Bags](https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse) | 2:33 |
 | 55 | [Som En Sol](https://open.spotify.com/track/56oeHpuKnpG3U8UEkj2T8n) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk) | [Som En Sol](https://open.spotify.com/album/7pMPAhJVAfJ1JedHFanzs7) | 2:55 |
@@ -78,17 +78,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 68 | [BeReal](https://open.spotify.com/track/2VX7K6KHk5Qx3bcgiO4ugi) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Waterworks](https://open.spotify.com/album/4o329n3fKBiuDuE66t0s1L) | 2:08 |
 | 69 | [FRÄKNAR](https://open.spotify.com/track/5SUzt46A6j4bPmBFgoAxf7) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [FRÄKNAR](https://open.spotify.com/album/04nlURLc8M6HpECP1lNVkg) | 3:45 |
 | 70 | [Mirrors](https://open.spotify.com/track/2EKz3OWAJPZOufOpgBmeYe) | [Julia Logan](https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0) | [Mirrors](https://open.spotify.com/album/5lgVfF0JPiYDnL6espVfgv) | 3:38 |
-| 71 | [C\-60](https://open.spotify.com/track/2vUYH6wKQAGjGbTCz53ojI) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [C\-60](https://open.spotify.com/album/7Jk6ZUYXFZDkmA6lMqITer) | 1:00:00 |
-| 72 | [Alltid för alltid](https://open.spotify.com/track/05NfDxkW5lY35zcEMyoaNQ) | [Tiger](https://open.spotify.com/artist/13daebbVeDg0MQzofle4hQ) | [Alltid för alltid](https://open.spotify.com/album/2dMsFd4EfIc2MagYvYlSQO) | 3:20 |
+| 71 | [Alltid för alltid](https://open.spotify.com/track/05NfDxkW5lY35zcEMyoaNQ) | [Tiger](https://open.spotify.com/artist/13daebbVeDg0MQzofle4hQ) | [Alltid för alltid](https://open.spotify.com/album/2dMsFd4EfIc2MagYvYlSQO) | 3:20 |
+| 72 | [C\-60](https://open.spotify.com/track/2vUYH6wKQAGjGbTCz53ojI) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [C\-60](https://open.spotify.com/album/7Jk6ZUYXFZDkmA6lMqITer) | 1:00:00 |
 | 73 | [Tillbaka till Stockholm](https://open.spotify.com/track/31M2PcGLJvTvqwdP7WZmAM) | [Galleriet](https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7) | [Slutscen](https://open.spotify.com/album/69hclcYXfpNiRiqSwj7UHJ) | 3:07 |
 | 74 | [Till hälften människa, till hälften moderat](https://open.spotify.com/track/6X1QmXwBadartUpzhUfgjS) | [The Tarantula Waltz](https://open.spotify.com/artist/7KqyMhqYoujfdaQZni6iUR), [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Till hälften människa, till hälften moderat](https://open.spotify.com/album/7M2UQRwp5YgXHE2PvMShgG) | 4:44 |
 | 75 | [Right Here](https://open.spotify.com/track/0a0A8jVA0TfQkv9zCGbsP6) | [Fee van Deelen](https://open.spotify.com/artist/0YWNM5Kfhj7w5MBOgq8W1B) | [Right Here](https://open.spotify.com/album/4VLIa6SNzRP3NZeA0ZhtlV) | 3:43 |
 | 76 | [Hey Little Love](https://open.spotify.com/track/5Qbrs0cLLZU771kNUhSfnr) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Hey Little Love](https://open.spotify.com/album/6xTYdiLnMPxflJl2NeJOF9) | 2:38 |
 | 77 | [Snow In The Summer](https://open.spotify.com/track/2u8jdrBjDG3VM7YbhTAJPo) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Snow In The Summer](https://open.spotify.com/album/46fIzNsQu0ZOjVXrH4rto9) | 2:49 |
 | 78 | [Ord som lämnats kvar](https://open.spotify.com/track/7GSxiR9jtTGz7DLrXxRoUI) | [Svart Ridå](https://open.spotify.com/artist/2RDTmgr7EdHCN0hmw8XoJM) | [Ord som lämnats kvar](https://open.spotify.com/album/5dMkrrRuILXMuoQ0C43Gji) | 6:35 |
-| 79 | [Closer To You](https://open.spotify.com/track/3KKJs4wcsgwapvvtG9VKjV) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Closer To You](https://open.spotify.com/album/5en29xsFo9ZGuUlz5cc94V) | 2:33 |
-| 80 | [Utan Dig \(oh nej\)](https://open.spotify.com/track/7prmKt30TMo28aiaMSPsbe) | [Laura Toth](https://open.spotify.com/artist/7je1BJ0ktL1zQbQSJhMU22), [Albin Loán](https://open.spotify.com/artist/6n8c8YMCqNbs0veQjYdYga) | [Utan Dig \(oh nej\)](https://open.spotify.com/album/4IuvDIuuhzpP2Vaa6sn7lv) | 2:37 |
-| 81 | [Blomma i city](https://open.spotify.com/track/1kjhnKWwhrUFNxuOpzxy2S) | [Johanna Frostling](https://open.spotify.com/artist/4vbrC3LBk1yySodkSbG3IY) | [Blomma i city](https://open.spotify.com/album/2UeQe6zB080WCiO0NIOIRi) | 3:19 |
+| 79 | [Blomma i city](https://open.spotify.com/track/1kjhnKWwhrUFNxuOpzxy2S) | [Johanna Frostling](https://open.spotify.com/artist/4vbrC3LBk1yySodkSbG3IY) | [Blomma i city](https://open.spotify.com/album/2UeQe6zB080WCiO0NIOIRi) | 3:19 |
+| 80 | [Closer To You](https://open.spotify.com/track/3KKJs4wcsgwapvvtG9VKjV) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Closer To You](https://open.spotify.com/album/5en29xsFo9ZGuUlz5cc94V) | 2:33 |
+| 81 | [Utan Dig \(oh nej\)](https://open.spotify.com/track/7prmKt30TMo28aiaMSPsbe) | [Laura Toth](https://open.spotify.com/artist/7je1BJ0ktL1zQbQSJhMU22), [Albin Loán](https://open.spotify.com/artist/6n8c8YMCqNbs0veQjYdYga) | [Utan Dig \(oh nej\)](https://open.spotify.com/album/4IuvDIuuhzpP2Vaa6sn7lv) | 2:37 |
 | 82 | [GALAXER](https://open.spotify.com/track/3j0U59EWvIZQ35Kaomvysz) | [IRMELI](https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv) | [GALAXER](https://open.spotify.com/album/2gsf8X6S3JdlUeYzIAJDZI) | 3:09 |
 | 83 | [Big Nose](https://open.spotify.com/track/0Vr1b1m2v5F4NorSjUUXym) | [Frey](https://open.spotify.com/artist/7rf5nN7CXclpCw7k7ah3yK) | [Big Nose](https://open.spotify.com/album/244WbaXCLVuZkRfUvLz2Sz) | 3:37 |
 | 84 | [Born a Riot](https://open.spotify.com/track/6bdTCyQozk9a7mBfNHzSYb) | [DAKOO](https://open.spotify.com/artist/72343jDquF52drRGQa3xZV) | [Born a Riot](https://open.spotify.com/album/5brdqGmI6uyXYnvANurSZc) | 2:39 |

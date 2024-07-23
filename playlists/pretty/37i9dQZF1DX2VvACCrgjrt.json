@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring Nostalgix",
-  "num_followers": 445940,
+  "num_followers": 445968,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "GASOLINA & COCAINA",
+        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 192390,
+      "name": "GASOLINA & COCAINA",
+      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Skip",
         "url": "https://open.spotify.com/album/6FGPOgL60G0VhYki83WFCE"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 151520,
       "name": "Skip",
       "url": "https://open.spotify.com/track/0OHyE7d3EfGT6jIDVRN4Qn"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "GASOLINA & COCAINA",
-        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 192390,
-      "name": "GASOLINA & COCAINA",
-      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -999,22 +999,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "NIGHTMARE",
-        "url": "https://open.spotify.com/album/0ckQr4EULt42qIQXxf0N7q"
+        "name": "Ridin' Dirty",
+        "url": "https://open.spotify.com/album/5mnLXTacNtrmWrchALjk4A"
       },
       "artists": [
         {
-          "name": "Cody Ko",
-          "url": "https://open.spotify.com/artist/51etCwhy3kaQLY5Tj06PW5"
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
         },
         {
-          "name": "Young Nut",
-          "url": "https://open.spotify.com/artist/6Qup2N8UoK6Tn3R8V1HSHC"
+          "name": "NXNJAS",
+          "url": "https://open.spotify.com/artist/3NiiV7QNgurciXVAmr2C7o"
+        },
+        {
+          "name": "Chamillionaire",
+          "url": "https://open.spotify.com/artist/6vdMPayKk8YJxxeNP5oMCb"
         }
       ],
-      "duration_ms": 159241,
-      "name": "NIGHTMARE",
-      "url": "https://open.spotify.com/track/3II25HAiRQ5dGlcFYpVrHy"
+      "duration_ms": 169657,
+      "name": "Ridin' Dirty",
+      "url": "https://open.spotify.com/track/2eHDuXlnG21sfPV2XTufWY"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1039,26 +1043,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Ridin' Dirty",
-        "url": "https://open.spotify.com/album/5mnLXTacNtrmWrchALjk4A"
+        "name": "NIGHTMARE",
+        "url": "https://open.spotify.com/album/0ckQr4EULt42qIQXxf0N7q"
       },
       "artists": [
         {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+          "name": "Cody Ko",
+          "url": "https://open.spotify.com/artist/51etCwhy3kaQLY5Tj06PW5"
         },
         {
-          "name": "NXNJAS",
-          "url": "https://open.spotify.com/artist/3NiiV7QNgurciXVAmr2C7o"
-        },
-        {
-          "name": "Chamillionaire",
-          "url": "https://open.spotify.com/artist/6vdMPayKk8YJxxeNP5oMCb"
+          "name": "Young Nut",
+          "url": "https://open.spotify.com/artist/6Qup2N8UoK6Tn3R8V1HSHC"
         }
       ],
-      "duration_ms": 169657,
-      "name": "Ridin' Dirty",
-      "url": "https://open.spotify.com/track/2eHDuXlnG21sfPV2XTufWY"
+      "duration_ms": 159241,
+      "name": "NIGHTMARE",
+      "url": "https://open.spotify.com/track/3II25HAiRQ5dGlcFYpVrHy"
     },
     {
       "added_at": "2024-06-28 14:01:45",
@@ -1681,26 +1681,6 @@
       "url": "https://open.spotify.com/track/4leBPYgRKj82Ce8ENp4Jxf"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "BAD",
-        "url": "https://open.spotify.com/album/6BjhnTo2M4j5u5wDZEJzwN"
-      },
-      "artists": [
-        {
-          "name": "Cheyenne Giles",
-          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
-        },
-        {
-          "name": "ALRT",
-          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "BAD",
-      "url": "https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Want My Love",
@@ -1719,6 +1699,26 @@
       "duration_ms": 157404,
       "name": "Want My Love",
       "url": "https://open.spotify.com/track/1VPOl6ZBsQYXXWkgXsBvEo"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "BAD",
+        "url": "https://open.spotify.com/album/6BjhnTo2M4j5u5wDZEJzwN"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        },
+        {
+          "name": "ALRT",
+          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1791,46 +1791,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Chrome",
-        "url": "https://open.spotify.com/album/28LsxANYPdphsjifnCR1xo"
-      },
-      "artists": [
-        {
-          "name": "Luxo",
-          "url": "https://open.spotify.com/artist/3ECUg6kTV5tp9vJ2UFNYZ9"
-        },
-        {
-          "name": "PINEO & LOEB",
-          "url": "https://open.spotify.com/artist/7LildCOU5me58NKlvsLVRI"
-        }
-      ],
-      "duration_ms": 161428,
-      "name": "Chrome",
-      "url": "https://open.spotify.com/track/1MwOIwpxfqZtsnaBx9tswz"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Intoxicated",
-        "url": "https://open.spotify.com/album/35XprblJeDWF7j7KzUnyOl"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "No Thanks",
-          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
-        }
-      ],
-      "duration_ms": 196190,
-      "name": "Intoxicated",
-      "url": "https://open.spotify.com/track/31rfmss1bYtH3MxPGw6FwE"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Ignite",
         "url": "https://open.spotify.com/album/6fZiqn8LoZ4N4ZBYiKKmOR"
       },
@@ -1855,6 +1815,34 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Mobbing",
+        "url": "https://open.spotify.com/album/4Vm904GD6MCy6lw423NMEK"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "Big Tone",
+          "url": "https://open.spotify.com/artist/6tsUXFsa7L3tIMCjzOEEdP"
+        },
+        {
+          "name": "A-Wax",
+          "url": "https://open.spotify.com/artist/4uUpfGMXZlncCRFtvUzh3O"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Mobbing",
+      "url": "https://open.spotify.com/track/31W5YClrYctLHB9RWslEGR"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Stereo Function",
         "url": "https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts"
       },
@@ -1871,6 +1859,26 @@
       "duration_ms": 206904,
       "name": "Stereo Function",
       "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Chrome",
+        "url": "https://open.spotify.com/album/28LsxANYPdphsjifnCR1xo"
+      },
+      "artists": [
+        {
+          "name": "Luxo",
+          "url": "https://open.spotify.com/artist/3ECUg6kTV5tp9vJ2UFNYZ9"
+        },
+        {
+          "name": "PINEO & LOEB",
+          "url": "https://open.spotify.com/artist/7LildCOU5me58NKlvsLVRI"
+        }
+      ],
+      "duration_ms": 161428,
+      "name": "Chrome",
+      "url": "https://open.spotify.com/track/1MwOIwpxfqZtsnaBx9tswz"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1961,10 +1969,10 @@
       "url": "https://open.spotify.com/track/5N0p6vaK1JC1C6T6raVb8w"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Mobbing",
-        "url": "https://open.spotify.com/album/4Vm904GD6MCy6lw423NMEK"
+        "name": "Intoxicated",
+        "url": "https://open.spotify.com/album/35XprblJeDWF7j7KzUnyOl"
       },
       "artists": [
         {
@@ -1972,21 +1980,13 @@
           "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
         },
         {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "Big Tone",
-          "url": "https://open.spotify.com/artist/6tsUXFsa7L3tIMCjzOEEdP"
-        },
-        {
-          "name": "A-Wax",
-          "url": "https://open.spotify.com/artist/4uUpfGMXZlncCRFtvUzh3O"
+          "name": "No Thanks",
+          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Mobbing",
-      "url": "https://open.spotify.com/track/31W5YClrYctLHB9RWslEGR"
+      "duration_ms": 196190,
+      "name": "Intoxicated",
+      "url": "https://open.spotify.com/track/31rfmss1bYtH3MxPGw6FwE"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2117,6 +2117,22 @@
       "url": "https://open.spotify.com/track/24rPV15ci9iOz0BRTX5ZKt"
     },
     {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Don't Need U",
+        "url": "https://open.spotify.com/album/2tVR3DTOaL7dbKQpUKgcqM"
+      },
+      "artists": [
+        {
+          "name": "Mad Miguel",
+          "url": "https://open.spotify.com/artist/21fqKfKRAPydpw3u8KPtRr"
+        }
+      ],
+      "duration_ms": 147157,
+      "name": "Don't Need U",
+      "url": "https://open.spotify.com/track/0M334leIc51SErTtCd7SG0"
+    },
+    {
       "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "I Just Wanna",
@@ -2135,22 +2151,6 @@
       "duration_ms": 168281,
       "name": "I Just Wanna",
       "url": "https://open.spotify.com/track/3PfFnAMDnkuDrTdXuz8W2L"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Don't Need U",
-        "url": "https://open.spotify.com/album/2tVR3DTOaL7dbKQpUKgcqM"
-      },
-      "artists": [
-        {
-          "name": "Mad Miguel",
-          "url": "https://open.spotify.com/artist/21fqKfKRAPydpw3u8KPtRr"
-        }
-      ],
-      "duration_ms": 147157,
-      "name": "Don't Need U",
-      "url": "https://open.spotify.com/track/0M334leIc51SErTtCd7SG0"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2173,6 +2173,26 @@
       "url": "https://open.spotify.com/track/2iUALxU5pXPWRS8Qs9j8k8"
     },
     {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Swagger Feet",
+        "url": "https://open.spotify.com/album/7LXd9hQxk9DkCqVYI3Yr6I"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "BRANDON",
+          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
+        }
+      ],
+      "duration_ms": 209523,
+      "name": "Swagger Feet",
+      "url": "https://open.spotify.com/track/05zlLlHThHGTjH5Xpgb4n2"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Flex",
@@ -2187,6 +2207,22 @@
       "duration_ms": 128716,
       "name": "Flex",
       "url": "https://open.spotify.com/track/5qV78cIfWx3fd8l8LeLbWz"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "OVERDOSE",
+        "url": "https://open.spotify.com/album/7KG0bfR59nbz0nWO0USRIP"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "OVERDOSE",
+      "url": "https://open.spotify.com/track/3EndRWjDyW9XqK0xmMIgzm"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2223,30 +2259,6 @@
       "duration_ms": 217142,
       "name": "LIMIT",
       "url": "https://open.spotify.com/track/76IbCTgkgm0t8PaX5x488g"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Firestarter",
-        "url": "https://open.spotify.com/album/0kLHN4gERGE3aTDnmmNwbA"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "Corrupt (UK)",
-          "url": "https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ"
-        },
-        {
-          "name": "Julia Temos",
-          "url": "https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac"
-        }
-      ],
-      "duration_ms": 135937,
-      "name": "Firestarter",
-      "url": "https://open.spotify.com/track/0iaIB0L80Ri5kBR6KNhsuZ"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2315,6 +2327,30 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Firestarter",
+        "url": "https://open.spotify.com/album/0kLHN4gERGE3aTDnmmNwbA"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Corrupt (UK)",
+          "url": "https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ"
+        },
+        {
+          "name": "Julia Temos",
+          "url": "https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac"
+        }
+      ],
+      "duration_ms": 135937,
+      "name": "Firestarter",
+      "url": "https://open.spotify.com/track/0iaIB0L80Ri5kBR6KNhsuZ"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Dancing With My Boyz",
         "url": "https://open.spotify.com/album/2wAmFZUuvaR7O5Lm2iKNig"
       },
@@ -2351,50 +2387,6 @@
       "duration_ms": 217941,
       "name": "Underground",
       "url": "https://open.spotify.com/track/0I6ho71EGsxtEEe3k1RtHT"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Swagger Feet",
-        "url": "https://open.spotify.com/album/7LXd9hQxk9DkCqVYI3Yr6I"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "BRANDON",
-          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
-        }
-      ],
-      "duration_ms": 209523,
-      "name": "Swagger Feet",
-      "url": "https://open.spotify.com/track/05zlLlHThHGTjH5Xpgb4n2"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Juice",
-        "url": "https://open.spotify.com/album/5VhMBWzcMUppdo3UYpSTEP"
-      },
-      "artists": [
-        {
-          "name": "Plastik Funk",
-          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
-        },
-        {
-          "name": "Toxic Joy",
-          "url": "https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to"
-        },
-        {
-          "name": "NEIV",
-          "url": "https://open.spotify.com/artist/3ut90lKywC3gUtTmaX2gOg"
-        }
-      ],
-      "duration_ms": 156960,
-      "name": "Juice",
-      "url": "https://open.spotify.com/track/51dzsgG32Z9nPvSdpVwJ86"
     }
   ],
   "unique_name": "Nasty Bits",

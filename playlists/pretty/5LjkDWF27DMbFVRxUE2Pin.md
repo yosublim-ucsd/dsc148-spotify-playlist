@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LjkDWF27DMbFVRxUE2Pin.md) - [plain]
 
 > 
 
-[Arran Ross\-Paterson](https://open.spotify.com/user/arranrp) - 11 likes - 398 songs - 1 day 1 hr 40 min
+[Arran Ross\-Paterson](https://open.spotify.com/user/arranrp) - 11 likes - 405 songs - 1 day 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -406,5 +406,12 @@ pretty - [cumulative](/playlists/cumulative/5LjkDWF27DMbFVRxUE2Pin.md) - [plain]
 | 396 | [Weakness and Lust](https://open.spotify.com/track/4ApdCY41L8w7oK9HS5plmg) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [The Cause of Shipwreck](https://open.spotify.com/album/5pkvMawHD8iGBuzaQcQ5xG) | 4:54 |
 | 397 | [Lilith Be Gone](https://open.spotify.com/track/1VoJ4WvTDVpIi3AKwCW9o7) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [The Cause of Shipwreck](https://open.spotify.com/album/5pkvMawHD8iGBuzaQcQ5xG) | 5:36 |
 | 398 | [Let Me In](https://open.spotify.com/track/0nBGuCJeZimI0MNKGt4oSD) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [We'd Rather Burn EP](https://open.spotify.com/album/64Lvt83g32bg4OL1Xu5b1W) | 4:29 |
+| 399 | [לילה כיום יאיר](https://open.spotify.com/track/2xqMifKIz1qVTElCZPkyRH) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [לילה כיום יאיר](https://open.spotify.com/album/6MTaG6ouyHqSauq4Xks8E7) | 3:24 |
+| 400 | [יורד הערב](https://open.spotify.com/track/4i5eQvJ94qL3FgsRDiGRrS) | [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1) | [רבע לשש](https://open.spotify.com/album/4CRH0SyV6d0Uc5yGQ6wfvt) | 2:18 |
+| 401 | [רק אותו](https://open.spotify.com/track/1Pe91CU1KWhDrD65u96Uvs) | [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1) | [רבע לשש](https://open.spotify.com/album/4CRH0SyV6d0Uc5yGQ6wfvt) | 2:43 |
+| 402 | [Soundscapes](https://open.spotify.com/track/3zIAy5GKWwbmBu6aaQymKM) | [L'Indécis](https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu) | [Plethoria](https://open.spotify.com/album/4chBvvHjAX7KoMwiilTdse) | 5:31 |
+| 403 | [Yodo](https://open.spotify.com/track/2boM8rpV9jgBOzL3oSPp6w) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Astra](https://open.spotify.com/album/4OAUrKQYGBtbThIVRIAVQx) | 3:52 |
+| 404 | [It Is What It Is](https://open.spotify.com/track/1goTwTL1XZt1uuzohJppxN) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Pedro Martins](https://open.spotify.com/artist/7fgw6kQggc48KiNoTGWNU5) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 5:02 |
+| 405 | [זמנך עבר](https://open.spotify.com/track/5u7kBEPVjMuk5jl4IM7prr) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [אהוד בנאי והפליטים](https://open.spotify.com/album/7ebMUyaeUZXn7lA21H1W1c) | 4:06 |
 
-Snapshot ID: `AAABuOnh6O+9fmAGLAagYwtsDU7NxlKm`
+Snapshot ID: `AAABv71LfJg4Mb2t4J0xrs9wIExBMuzm`

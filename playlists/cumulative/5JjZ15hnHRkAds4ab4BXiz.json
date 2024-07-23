@@ -5601,6 +5601,24 @@
     },
     {
       "album": {
+        "name": "scars",
+        "url": "https://open.spotify.com/album/3nVunTBVbJO5fiCP6YlhuB"
+      },
+      "artists": [
+        {
+          "name": "Novulent",
+          "url": "https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95002,
+      "name": "scars",
+      "url": "https://open.spotify.com/track/016z46SJwcRosW9Xb8JKmF"
+    },
+    {
+      "album": {
         "name": "Flower Boy",
         "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },

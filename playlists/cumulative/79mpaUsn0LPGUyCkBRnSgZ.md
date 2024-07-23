@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-712 songs - 1 day 22 hr 48 min
+713 songs - 1 day 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,6 +417,7 @@
 | [Mystery Fish](https://open.spotify.com/track/5r13QvPVwh6OfOvUf71shX) | [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ) | [The Impossible Kid](https://open.spotify.com/album/6D6v19wYlLDsYkkfebOY3g) | 3:08 | 2023-03-24 | 2023-05-03 |
 | [Myth](https://open.spotify.com/track/2NfxtzCIrpCmJX5Z2KMdD5) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 4:18 | 2022-04-23 |  |
 | [Nappy Heads](https://open.spotify.com/track/5ZOsm73xqrZPJBBtv4aGpS) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY) | [Blunted On Reality](https://open.spotify.com/album/0SHdsrvo4oGJiUlYLaqCcu) | 4:29 | 2024-05-27 |  |
+| [Native Belle](https://open.spotify.com/track/28N9Albx54zeZwhccbk3qR) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Ark](https://open.spotify.com/album/7Mpy0YPUymmzOopyQrMXw5) | 3:52 | 2024-07-22 |  |
 | [Natural Vaudou](https://open.spotify.com/track/7F5taDAEzGYIcKA6mYNlCs) | [Vaudou Game](https://open.spotify.com/artist/7MEH1SUDgj0NU6gDjDXokz) | [Kidayu](https://open.spotify.com/album/76PW5sf4kKQR5jCZ05gilM) | 3:41 | 2024-01-18 |  |
 | [Necessary](https://open.spotify.com/track/1oAmBK4NtTlQQHVdTNPl6y) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [90059](https://open.spotify.com/album/1fsvlnonD95p6VTEdQ7zJn) | 3:20 | 2022-07-26 |  |
 | [Never Meant](https://open.spotify.com/track/51R5mPcJjOnfv9lKY1u5sW) | [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4) | [American Football](https://open.spotify.com/album/3wRBlpk5PRoixwOnLujTal) | 4:28 | 2022-10-22 |  |

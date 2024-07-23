@@ -2,7 +2,7 @@
 
 ### [This Is Shirley Caesar](https://open.spotify.com/playlist/37i9dQZF1DZ06evO36yqJT)
 
-> This is Shirley Caesar\. Todos os maiores hits em uma só playlist.
+> This Is Shirley Caesar\. Los temas esenciales, todos en una lista.
 
 82 songs - 6 hr 6 min
 

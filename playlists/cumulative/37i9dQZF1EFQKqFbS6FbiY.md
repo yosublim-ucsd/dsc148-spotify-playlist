@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-551 songs - 1 day 2 hr 48 min
+552 songs - 1 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Danadinha](https://open.spotify.com/track/5BOpg0L7BAdspPJmhuCSOJ) | [Loubet](https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI) | [Ao Vivo no Coração do Brasil \(Vol\. 2\)](https://open.spotify.com/album/4F05yadatFWV4uEsfGwFkL) | 2:47 | 2023-12-30 |  |
 | [Daqui pra Frente Só Piora \- Ao Vivo](https://open.spotify.com/track/3RuTjeSkOesM0CZliDrBPL) | [Alice Ianes](https://open.spotify.com/artist/5t9QE38oK2ziTKzi2s0nh5), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Ao Vivo em Goiânia, Ep\. 2](https://open.spotify.com/album/6tkGC2RInYatoe1pvKymD1) | 3:10 | 2023-12-30 |  |
 | [De Amor Virei Amante \(feat\. César Menotti & Fabiano\) \- Ao Vivo](https://open.spotify.com/track/7heAgXjqhJ0BHmkIhPIfiA) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft), [César Menotti & Fabiano](https://open.spotify.com/artist/08yxJfM5RnFAjJvMJIFnvh) | [Ao Vivo em Goiânia](https://open.spotify.com/album/2lFI0KAX7HvEa82V3BoDRP) | 3:29 | 2023-12-30 |  |
+| [De Qual Que Eu Vou](https://open.spotify.com/track/3WRd3YjxX3UlTeVgZrSmZu) | [Bento](https://open.spotify.com/artist/33KFxz88F1NQUDJq9v7WhV) | [De Qual Que Eu Vou](https://open.spotify.com/album/4R0YYuPuow2729bfqnsDOO) | 2:28 | 2024-07-22 |  |
 | [De Seguidor Virou Amor](https://open.spotify.com/track/565Qh9WkIgK2Dh73bBIpif) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Esquenta do DVD](https://open.spotify.com/album/7vP0uuTxpBPK2jpmt8TcyV) | 2:35 | 2023-12-30 |  |
 | [Deixa o Choro Pingar \(Ao Vivo\)](https://open.spotify.com/track/68DbeflYqndZsXCca7hc3R) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [\#Nabebidaenasofrência, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/43VostSbPyVlPMEGNy6zSX) | 2:53 | 2023-12-30 |  |
 | [Delicinha](https://open.spotify.com/track/4Vwr6rNipMxIolYHDDb86L) | [Gabriel Gava](https://open.spotify.com/artist/01WrcqajqftNjrRuSqgyQA), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Delicinha](https://open.spotify.com/album/3OdNgpZ9q0CqFwDpzcqZGJ) | 2:57 | 2023-12-30 |  |
@@ -279,7 +280,7 @@
 | [Laudo](https://open.spotify.com/track/5FSgHps0zSSwbVp0bNPuDe) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [Foi Deus, Vol\. 1](https://open.spotify.com/album/3kww8Qg2g6ZGURQO5YS0bq) | 2:20 | 2023-12-30 | 2024-01-22 |
 | [Laudo \- Ao Vivo](https://open.spotify.com/track/6NOz9pn0YJrlnAzR8ndo6h) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [Foi Deus \(Ao Vivo\)](https://open.spotify.com/album/1tDSUVPzasnw5EloTxMdwf) | 2:20 | 2024-01-21 |  |
 | [Legítima Defesa \- Ao Vivo](https://open.spotify.com/track/0psIGMvSu9PLj83RJZ8nAV) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Simone & Simaria \(Ao Vivo\)](https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM) | 3:48 | 2023-12-30 |  |
-| [Lei da Atração](https://open.spotify.com/track/4R2K4PKzNcwCYCNPZ5Fuh2) | [Luana Marques](https://open.spotify.com/artist/386JRU9BMh5rhCvr9BbgtX), [Juliano](https://open.spotify.com/artist/61NXK69iKkrZrGJKrJycB5) | [Na Estrada](https://open.spotify.com/album/7BLvZfehX4ROZKgrK56wS6) | 3:14 | 2024-01-24 | 2024-07-19 |
+| [Lei da Atração](https://open.spotify.com/track/4R2K4PKzNcwCYCNPZ5Fuh2) | [Luana Marques](https://open.spotify.com/artist/386JRU9BMh5rhCvr9BbgtX), [Juliano](https://open.spotify.com/artist/61NXK69iKkrZrGJKrJycB5) | [Na Estrada](https://open.spotify.com/album/7BLvZfehX4ROZKgrK56wS6) | 3:14 | 2024-01-24 |  |
 | [Liga pro Meu Advogado \- Ao Vivo](https://open.spotify.com/track/1aaiYji010jKvefnnddA3E) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Day e Lara \(...\) \[Ao Vivo\]](https://open.spotify.com/album/4ijQqGz1C1a8JtKBykhYsj) | 2:49 | 2023-12-30 |  |
 | [Lista de Trouxa \- Ao Vivo](https://open.spotify.com/track/6FoCVEPZEJ5w69Bdh9y5mo) | [Leo e Matheus](https://open.spotify.com/artist/6Ezj2v8IDNB9UllAtaNpma), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Lista de Trouxa \(Ao Vivo\)](https://open.spotify.com/album/2AcXMrS6i5LCCJgeLAxISy) | 2:46 | 2023-12-30 |  |
 | [Localiza Aí BB](https://open.spotify.com/track/2fFMUYCKXdw5yq5tkM0mEP) | [Vitor e Luan](https://open.spotify.com/artist/5hDZAExrfOVqKBLS8Ofyac), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Localiza Aí](https://open.spotify.com/album/4VCogLqsEo8cNmXuuJKa6a) | 2:25 | 2023-12-30 |  |

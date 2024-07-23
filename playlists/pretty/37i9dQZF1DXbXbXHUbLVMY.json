@@ -1,6 +1,6 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 28248,
+  "num_followers": 28250,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Norge Elsker Rap",
-        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 160106,
-      "name": "Tenke Sj\u00e6l",
-      "url": "https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Utested",
         "url": "https://open.spotify.com/album/1yMhNrho22lcCp3MKwnHEu"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 162857,
       "name": "Utested",
       "url": "https://open.spotify.com/track/19188WQf2DrNMfI1XLDnYF"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Norge Elsker Rap",
+        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 160106,
+      "name": "Tenke Sj\u00e6l",
+      "url": "https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -711,26 +711,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "BLANCO",
-        "url": "https://open.spotify.com/album/2xy29TobynKnncoMPfSLD2"
-      },
-      "artists": [
-        {
-          "name": "Gaboro",
-          "url": "https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx"
-        },
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 135004,
-      "name": "BLANCO",
-      "url": "https://open.spotify.com/track/5LYFMzXTecAGk9cKxRpxwo"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Vakuum",
         "url": "https://open.spotify.com/album/2L8St3KnSEuLWvNNkKSKts"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 161684,
       "name": "Vakuum",
       "url": "https://open.spotify.com/track/0oMLqIM9gyxXKpmtNZVTKm"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "BLANCO",
+        "url": "https://open.spotify.com/album/2xy29TobynKnncoMPfSLD2"
+      },
+      "artists": [
+        {
+          "name": "Gaboro",
+          "url": "https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx"
+        },
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "duration_ms": 135004,
+      "name": "BLANCO",
+      "url": "https://open.spotify.com/track/5LYFMzXTecAGk9cKxRpxwo"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "Habibi You",
+        "url": "https://open.spotify.com/album/1oZxYI2x03nykDvfkInDAf"
+      },
+      "artists": [
+        {
+          "name": "Y4ska",
+          "url": "https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8"
+        }
+      ],
+      "duration_ms": 114098,
+      "name": "Habibi You",
+      "url": "https://open.spotify.com/track/4IyVIKG3ecTEMzc9iY1BYb"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "TIL DEG",
         "url": "https://open.spotify.com/album/7bI1OfEsCmIv35F1HPz6KI"
       },
@@ -851,6 +867,26 @@
       "duration_ms": 195577,
       "name": "Matrisen",
       "url": "https://open.spotify.com/track/7BZ3S5F0IRzzrC7ecSqYO2"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Ambassador",
+        "url": "https://open.spotify.com/album/3xPt4uCVp49yGgVMPORwlS"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 173714,
+      "name": "Ambassador",
+      "url": "https://open.spotify.com/track/1J1TrqO93opcc5mx3Xv8DG"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -923,26 +959,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Ledare",
-        "url": "https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA"
-      },
-      "artists": [
-        {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
-        },
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 161258,
-      "name": "Ledare",
-      "url": "https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "S\u00e4g Mig",
         "url": "https://open.spotify.com/album/0EfLxPztOcuTi1gr2qXPXp"
       },
@@ -963,6 +979,26 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "Ledare",
+        "url": "https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        },
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "duration_ms": 161258,
+      "name": "Ledare",
+      "url": "https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "Gata",
         "url": "https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs"
       },
@@ -975,22 +1011,6 @@
       "duration_ms": 155825,
       "name": "Gata",
       "url": "https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Habibi You",
-        "url": "https://open.spotify.com/album/1oZxYI2x03nykDvfkInDAf"
-      },
-      "artists": [
-        {
-          "name": "Y4ska",
-          "url": "https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8"
-        }
-      ],
-      "duration_ms": 114098,
-      "name": "Habibi You",
-      "url": "https://open.spotify.com/track/4IyVIKG3ecTEMzc9iY1BYb"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1027,26 +1047,6 @@
       "duration_ms": 135333,
       "name": "SIPPER",
       "url": "https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Ambassador",
-        "url": "https://open.spotify.com/album/3xPt4uCVp49yGgVMPORwlS"
-      },
-      "artists": [
-        {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
-        },
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 173714,
-      "name": "Ambassador",
-      "url": "https://open.spotify.com/track/1J1TrqO93opcc5mx3Xv8DG"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "I Care",
-        "url": "https://open.spotify.com/album/3eEH7sepvY4yYG8DGly0ii"
-      },
-      "artists": [
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        }
-      ],
-      "duration_ms": 139764,
-      "name": "I Care",
-      "url": "https://open.spotify.com/track/05e7SNuOTnMpY6D39ZbNI6"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Bed\u00f8velse Gj\u00f8r Mester",
         "url": "https://open.spotify.com/album/1MEQ3H8iYw0q4npG8Bht2t"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 221276,
       "name": "Tyrs Vals (feat. Arif Murakami & Siyab\u00e5ng)",
       "url": "https://open.spotify.com/track/0V0qOWYd1Oz1jGaVFii95s"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "I Care",
+        "url": "https://open.spotify.com/album/3eEH7sepvY4yYG8DGly0ii"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        }
+      ],
+      "duration_ms": 139764,
+      "name": "I Care",
+      "url": "https://open.spotify.com/track/05e7SNuOTnMpY6D39ZbNI6"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "duration_ms": 186123,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "YOUNG THUG P\u00c5 1M",
         "url": "https://open.spotify.com/album/4ZjRNNwA1ldmgFausc2oby"
       },
@@ -1191,42 +1207,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Voksen Mann Uten Slips",
-        "url": "https://open.spotify.com/album/2BNCNlkVDlR7gNCpN97jnk"
-      },
-      "artists": [
-        {
-          "name": "Rambow",
-          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
-        },
-        {
-          "name": "Voksen Mann Uten Slips",
-          "url": "https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF"
-        }
-      ],
-      "duration_ms": 132609,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/3Z9Hk0xOZpmKXUSMWIRf1V"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI"
-      },
-      "artists": [
-        {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
-        }
-      ],
-      "duration_ms": 186123,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Frossa",
         "url": "https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO"
       },
@@ -1243,22 +1223,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "4 the summer",
-        "url": "https://open.spotify.com/album/2mbPM7vQa2XQJFDJbyzJBH"
+        "name": "Voksen Mann Uten Slips",
+        "url": "https://open.spotify.com/album/2BNCNlkVDlR7gNCpN97jnk"
       },
       "artists": [
         {
-          "name": "Tyr",
-          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
         },
         {
-          "name": "Siyab\u00e5ng",
-          "url": "https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK"
+          "name": "Voksen Mann Uten Slips",
+          "url": "https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF"
         }
       ],
-      "duration_ms": 201546,
-      "name": "rizla (feat. Siyab\u00e5ng)",
-      "url": "https://open.spotify.com/track/2awCNwTAJwnTDWK5P0PHKb"
+      "duration_ms": 132609,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/3Z9Hk0xOZpmKXUSMWIRf1V"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1295,8 +1275,28 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Skulle Bare Visst",
-        "url": "https://open.spotify.com/album/32UzzFs5NTcA5QRoc9b6sv"
+        "name": "4 the summer",
+        "url": "https://open.spotify.com/album/2mbPM7vQa2XQJFDJbyzJBH"
+      },
+      "artists": [
+        {
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        },
+        {
+          "name": "Siyab\u00e5ng",
+          "url": "https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK"
+        }
+      ],
+      "duration_ms": 201546,
+      "name": "rizla (feat. Siyab\u00e5ng)",
+      "url": "https://open.spotify.com/track/2awCNwTAJwnTDWK5P0PHKb"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Takket v\u00e6re livet",
+        "url": "https://open.spotify.com/album/0FpElBecf0GKSZh1ZV2XZC"
       },
       "artists": [
         {
@@ -1304,13 +1304,13 @@
           "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
         },
         {
-          "name": "Isah",
-          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
         }
       ],
-      "duration_ms": 231346,
-      "name": "Skulle bare visst (feat. Isah)",
-      "url": "https://open.spotify.com/track/7mFLCn9SG7l30kxWkwRkbG"
+      "duration_ms": 210453,
+      "name": "555",
+      "url": "https://open.spotify.com/track/4s8kJv5M6vIXPciohYgMHN"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1331,6 +1331,26 @@
       "duration_ms": 134400,
       "name": "FLEX",
       "url": "https://open.spotify.com/track/2WDNr2kjwAhtlqEXELyYkz"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Mariachi",
+        "url": "https://open.spotify.com/album/5VEJg4FgkfQXOJygPhgqzL"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        },
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Mariachi",
+      "url": "https://open.spotify.com/track/4NDYDxNhfR5eJRDXB1P6OV"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1387,62 +1407,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Mariachi",
-        "url": "https://open.spotify.com/album/5VEJg4FgkfQXOJygPhgqzL"
-      },
-      "artists": [
-        {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
-        },
-        {
-          "name": "Dani M",
-          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Mariachi",
-      "url": "https://open.spotify.com/track/4NDYDxNhfR5eJRDXB1P6OV"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Plz",
-        "url": "https://open.spotify.com/album/1fq4RgmOWZDIcn8xMU8Seb"
-      },
-      "artists": [
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
-        }
-      ],
-      "duration_ms": 142118,
-      "name": "Plz",
-      "url": "https://open.spotify.com/track/01zRsUiMwy2eev4L0LKZvo"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Takket v\u00e6re livet",
-        "url": "https://open.spotify.com/album/0FpElBecf0GKSZh1ZV2XZC"
-      },
-      "artists": [
-        {
-          "name": "Jonas Benyoub",
-          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
-        },
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        }
-      ],
-      "duration_ms": 210453,
-      "name": "555",
-      "url": "https://open.spotify.com/track/4s8kJv5M6vIXPciohYgMHN"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Boys I D Bl\u00e5",
         "url": "https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB"
       },
@@ -1459,6 +1423,42 @@
       "duration_ms": 133130,
       "name": "Boys I D Bl\u00e5",
       "url": "https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Skulle Bare Visst",
+        "url": "https://open.spotify.com/album/32UzzFs5NTcA5QRoc9b6sv"
+      },
+      "artists": [
+        {
+          "name": "Jonas Benyoub",
+          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
+        },
+        {
+          "name": "Isah",
+          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
+        }
+      ],
+      "duration_ms": 231346,
+      "name": "Skulle bare visst (feat. Isah)",
+      "url": "https://open.spotify.com/track/7mFLCn9SG7l30kxWkwRkbG"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Plz",
+        "url": "https://open.spotify.com/album/1fq4RgmOWZDIcn8xMU8Seb"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        }
+      ],
+      "duration_ms": 142118,
+      "name": "Plz",
+      "url": "https://open.spotify.com/track/01zRsUiMwy2eev4L0LKZvo"
     }
   ],
   "unique_name": "100 (2)",

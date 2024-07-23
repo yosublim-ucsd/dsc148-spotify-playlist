@@ -1,6 +1,6 @@
 {
   "description": "The home of Australian music. Cover: Royel Otis",
-  "num_followers": 121283,
+  "num_followers": 121286,
   "original_name": "The Local List",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,26 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "We Could Be Love",
-        "url": "https://open.spotify.com/album/4p3Eue4nXRORfFiID2811z"
+        "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
+        "url": "https://open.spotify.com/album/3D5NnN6OYVFfBYGOWQ78Ns"
       },
       "artists": [
         {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         },
         {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Hyunjin",
+          "url": "https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg"
         }
       ],
-      "duration_ms": 189112,
-      "name": "We Could Be Love",
-      "url": "https://open.spotify.com/track/3y20RxZMr3wZMvhC78jc8O"
+      "duration_ms": 172151,
+      "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
+      "url": "https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -259,26 +263,22 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
-        "url": "https://open.spotify.com/album/3D5NnN6OYVFfBYGOWQ78Ns"
+        "name": "We Could Be Love",
+        "url": "https://open.spotify.com/album/4p3Eue4nXRORfFiID2811z"
       },
       "artists": [
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
         },
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Hyunjin",
-          "url": "https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg"
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
         }
       ],
-      "duration_ms": 172151,
-      "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
-      "url": "https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc"
+      "duration_ms": 189112,
+      "name": "We Could Be Love",
+      "url": "https://open.spotify.com/track/3y20RxZMr3wZMvhC78jc8O"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -465,22 +465,6 @@
       "url": "https://open.spotify.com/track/7a8mHVnOWMKJEfmoNtBqwb"
     },
     {
-      "added_at": "2024-06-06 14:00:00",
-      "album": {
-        "name": "Small Change",
-        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 165020,
-      "name": "Small Change",
-      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
-    },
-    {
       "added_at": "2024-07-18 14:00:00",
       "album": {
         "name": "Nack Nostalgia",
@@ -495,6 +479,22 @@
       "duration_ms": 187433,
       "name": "Nack Nostalgia",
       "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
+    },
+    {
+      "added_at": "2024-06-06 14:00:00",
+      "album": {
+        "name": "Small Change",
+        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 165020,
+      "name": "Small Change",
+      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "Touchy Subject",
-        "url": "https://open.spotify.com/album/7E6LnPGLCbh5yZMb5sjWEk"
-      },
-      "artists": [
-        {
-          "name": "Peach PRC",
-          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
-        }
-      ],
-      "duration_ms": 227142,
-      "name": "Touchy Subject",
-      "url": "https://open.spotify.com/track/5oquffCDI8BAXP7jBewlll"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "Still Have Room",
-        "url": "https://open.spotify.com/album/1GmmNjn5tr3pb4ka13c9V1"
+        "name": "Touchy Subject",
+        "url": "https://open.spotify.com/album/7E6LnPGLCbh5yZMb5sjWEk"
       },
       "artists": [
         {
-          "name": "Hockey Dad",
-          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
         }
       ],
-      "duration_ms": 142584,
-      "name": "Still Have Room",
-      "url": "https://open.spotify.com/track/1CqISEsTc9TDUDyfAtJNmc"
+      "duration_ms": 227142,
+      "name": "Touchy Subject",
+      "url": "https://open.spotify.com/track/5oquffCDI8BAXP7jBewlll"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -591,22 +575,6 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "Wonderful",
-        "url": "https://open.spotify.com/album/3BwgvjyD1pDNyj1VLW0dBw"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 226689,
-      "name": "Wonderful",
-      "url": "https://open.spotify.com/track/3Jm4XJix6nkGiY3IY8mPyu"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
         "name": "One Bad Day",
         "url": "https://open.spotify.com/album/5morg7Iz68tT3I4jqLHc1M"
       },
@@ -623,6 +591,22 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
+        "name": "Still Have Room",
+        "url": "https://open.spotify.com/album/1GmmNjn5tr3pb4ka13c9V1"
+      },
+      "artists": [
+        {
+          "name": "Hockey Dad",
+          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
+        }
+      ],
+      "duration_ms": 142584,
+      "name": "Still Have Room",
+      "url": "https://open.spotify.com/track/1CqISEsTc9TDUDyfAtJNmc"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
         "name": "Young Free & Reckless",
         "url": "https://open.spotify.com/album/4YLib1gcf6CL1FS41Vfk38"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 192876,
       "name": "Young Free & Reckless",
       "url": "https://open.spotify.com/track/4jXHmBEYQy2EF1pI8PWzrO"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "Wonderful",
+        "url": "https://open.spotify.com/album/3BwgvjyD1pDNyj1VLW0dBw"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 226689,
+      "name": "Wonderful",
+      "url": "https://open.spotify.com/track/3Jm4XJix6nkGiY3IY8mPyu"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -777,22 +777,6 @@
       "url": "https://open.spotify.com/track/6akrLfeUZ4WZoQ7SSnOONX"
     },
     {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
-        "name": "Like A Girl Does",
-        "url": "https://open.spotify.com/album/5IktkodoE8Wr2heQRXyBfW"
-      },
-      "artists": [
-        {
-          "name": "Peach PRC",
-          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
-        }
-      ],
-      "duration_ms": 172427,
-      "name": "Like A Girl Does",
-      "url": "https://open.spotify.com/track/46jKlwucqKdKZR0cPLE4QD"
-    },
-    {
       "added_at": "2024-06-20 14:00:00",
       "album": {
         "name": "What You've Lost",
@@ -807,6 +791,22 @@
       "duration_ms": 171351,
       "name": "What You've Lost",
       "url": "https://open.spotify.com/track/4oeABmOn0nnLSa2UEETqmz"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "Like A Girl Does",
+        "url": "https://open.spotify.com/album/5IktkodoE8Wr2heQRXyBfW"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "duration_ms": 172427,
+      "name": "Like A Girl Does",
+      "url": "https://open.spotify.com/track/46jKlwucqKdKZR0cPLE4QD"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -841,6 +841,22 @@
       "url": "https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI"
     },
     {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "And We",
+        "url": "https://open.spotify.com/album/1LsthOymdj0WByKPShsB3W"
+      },
+      "artists": [
+        {
+          "name": "Hooligan Hefs",
+          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
+        }
+      ],
+      "duration_ms": 161562,
+      "name": "And We",
+      "url": "https://open.spotify.com/track/2bKnka3kbhgqGb4pCHPmYl"
+    },
+    {
       "added_at": "2024-06-06 14:00:00",
       "album": {
         "name": "Cold Treatment",
@@ -859,22 +875,6 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "And We",
-        "url": "https://open.spotify.com/album/1LsthOymdj0WByKPShsB3W"
-      },
-      "artists": [
-        {
-          "name": "Hooligan Hefs",
-          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
-        }
-      ],
-      "duration_ms": 161562,
-      "name": "And We",
-      "url": "https://open.spotify.com/track/2bKnka3kbhgqGb4pCHPmYl"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
         "name": "I Get High",
         "url": "https://open.spotify.com/album/6kb7iyiFPdPEAJ59c08P8J"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 260148,
       "name": "I Get High",
       "url": "https://open.spotify.com/track/3fbmrIE49XTFLEwm5TQUB9"
-    },
-    {
-      "added_at": "2024-06-06 14:00:00",
-      "album": {
-        "name": "24 Hours in Paris",
-        "url": "https://open.spotify.com/album/3qK46m8uJIkTlIG1ZhZwha"
-      },
-      "artists": [
-        {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
-        }
-      ],
-      "duration_ms": 180673,
-      "name": "24 Hours in Paris",
-      "url": "https://open.spotify.com/track/669mVgiLz39msLj9dDsGBK"
     },
     {
       "added_at": "2024-06-20 14:00:00",
@@ -919,6 +903,22 @@
       "duration_ms": 153726,
       "name": "Snack",
       "url": "https://open.spotify.com/track/1foj3wbUlhrF4CVu3IBpFY"
+    },
+    {
+      "added_at": "2024-06-06 14:00:00",
+      "album": {
+        "name": "24 Hours in Paris",
+        "url": "https://open.spotify.com/album/3qK46m8uJIkTlIG1ZhZwha"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "duration_ms": 180673,
+      "name": "24 Hours in Paris",
+      "url": "https://open.spotify.com/track/669mVgiLz39msLj9dDsGBK"
     },
     {
       "added_at": "2024-06-13 14:00:00",
@@ -1053,20 +1053,20 @@
       "url": "https://open.spotify.com/track/04PlB7eNOehCCAf4Mdfx62"
     },
     {
-      "added_at": "2024-05-31 03:34:39",
+      "added_at": "2024-07-11 14:00:00",
       "album": {
-        "name": "Love Heart Cheat Code",
-        "url": "https://open.spotify.com/album/3TsAZSV9r6h0w4S5fxS2qX"
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx"
       },
       "artists": [
         {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+          "name": "Teenage Dads",
+          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
         }
       ],
-      "duration_ms": 273291,
-      "name": "Love Heart Cheat Code",
-      "url": "https://open.spotify.com/track/0ewpVF33opGsxPJlLRflWX"
+      "duration_ms": 237117,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -1101,22 +1101,6 @@
       "url": "https://open.spotify.com/track/0ZL3KCVOotXnC5trEE3XPa"
     },
     {
-      "added_at": "2024-07-11 14:00:00",
-      "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx"
-      },
-      "artists": [
-        {
-          "name": "Teenage Dads",
-          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
-        }
-      ],
-      "duration_ms": 237117,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC"
-    },
-    {
       "added_at": "2024-05-31 03:34:39",
       "album": {
         "name": "Caught in a Reverie",
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "Pedestal",
-        "url": "https://open.spotify.com/album/3wkV84YZxNsqZ0CUZkKAdj"
+        "name": "Love Heart Cheat Code",
+        "url": "https://open.spotify.com/album/3TsAZSV9r6h0w4S5fxS2qX"
       },
       "artists": [
         {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
         }
       ],
-      "duration_ms": 261798,
-      "name": "Pedestal",
-      "url": "https://open.spotify.com/track/6lKaiRbX5DtGMGNvE4xRbx"
+      "duration_ms": 273291,
+      "name": "Love Heart Cheat Code",
+      "url": "https://open.spotify.com/track/0ewpVF33opGsxPJlLRflWX"
     },
     {
       "added_at": "2024-07-11 14:00:00",
@@ -1165,20 +1149,20 @@
       "url": "https://open.spotify.com/track/5nr1Ndcw55fBJ002iTUJVJ"
     },
     {
-      "added_at": "2024-06-13 14:00:00",
+      "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "BLOOD ON THE DRUMS (The Thorns)",
-        "url": "https://open.spotify.com/album/4GOETHIJEzUKybjE6aywCa"
+        "name": "Pedestal",
+        "url": "https://open.spotify.com/album/3wkV84YZxNsqZ0CUZkKAdj"
       },
       "artists": [
         {
-          "name": "Ashton Irwin",
-          "url": "https://open.spotify.com/artist/3zOKGDS77tYdGFQ6UJMC4E"
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
         }
       ],
-      "duration_ms": 189591,
-      "name": "Breakup",
-      "url": "https://open.spotify.com/track/0Fts3iBGy196UIxlHC9ZqS"
+      "duration_ms": 261798,
+      "name": "Pedestal",
+      "url": "https://open.spotify.com/track/6lKaiRbX5DtGMGNvE4xRbx"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -1195,6 +1179,22 @@
       "duration_ms": 190851,
       "name": "Fingerprints",
       "url": "https://open.spotify.com/track/4kAlUfeHA7oxVKPs823Goj"
+    },
+    {
+      "added_at": "2024-06-13 14:00:00",
+      "album": {
+        "name": "BLOOD ON THE DRUMS (The Thorns)",
+        "url": "https://open.spotify.com/album/4GOETHIJEzUKybjE6aywCa"
+      },
+      "artists": [
+        {
+          "name": "Ashton Irwin",
+          "url": "https://open.spotify.com/artist/3zOKGDS77tYdGFQ6UJMC4E"
+        }
+      ],
+      "duration_ms": 189591,
+      "name": "Breakup",
+      "url": "https://open.spotify.com/track/0Fts3iBGy196UIxlHC9ZqS"
     },
     {
       "added_at": "2024-05-31 03:34:39",

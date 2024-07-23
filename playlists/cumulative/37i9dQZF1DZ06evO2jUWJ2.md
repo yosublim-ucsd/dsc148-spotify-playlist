@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2jUWJ2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2jUWJ2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2jUWJ2)
 
-### [Acesta este Elevation Worship.](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2jUWJ2)
+### [This Is Elevation Worship](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2jUWJ2)
 
-> This is Elevation Worship\. Piesele esențiale într\-un singur playlist.
+> This is Elevation Worship\. The essential tracks, all in one playlist.
 
 63 songs - 6 hr 56 min
 

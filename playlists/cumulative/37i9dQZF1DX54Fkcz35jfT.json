@@ -312,7 +312,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 178938,
       "name": "BATMAN",
       "url": "https://open.spotify.com/track/2mjmpNRKFWlPXiN3KCfK8t"
@@ -4142,7 +4142,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 237813,
       "name": "Something New",
       "url": "https://open.spotify.com/track/0vA9uNpBSTnwDLaetS4DFT"
@@ -4286,7 +4286,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 320980,
       "name": "Still Burning",
       "url": "https://open.spotify.com/track/5Ep7HRnmu32mSkk1U1eaYQ"
@@ -4774,6 +4774,24 @@
       "duration_ms": 194695,
       "name": "Vandalize",
       "url": "https://open.spotify.com/track/2tOtU8EJ8SOXKAGKJ1XlYh"
+    },
+    {
+      "album": {
+        "name": "Vendetta",
+        "url": "https://open.spotify.com/album/7tbjNQEV1A7YeOT4Qi9IBa"
+      },
+      "artists": [
+        {
+          "name": "Petit Brabancon",
+          "url": "https://open.spotify.com/artist/0hS6BAggi7bO0BrnJLg8Ad"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166056,
+      "name": "Vendetta",
+      "url": "https://open.spotify.com/track/5IfPB9YOdTgrQ88yReMvdW"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
-  "num_followers": 45304,
+  "num_followers": 45314,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpr+AAAAAACVjc06ScwebDl2Q6ci26rU",
+  "snapshot_id": "ZpxPgAAAAABdzAIyZCvYCVlwreYXzyZF",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
       "duration_ms": 219986,
       "name": "Maps",
       "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It's Blitz!",
-        "url": "https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Heads Will Roll",
-      "url": "https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs"
     },
     {
       "added_at": null,
@@ -755,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is Is EP",
-        "url": "https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo"
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
       },
       "artists": [
         {
@@ -764,9 +748,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 190986,
-      "name": "Rockers To Swallow",
-      "url": "https://open.spotify.com/track/2UiapyNBxFVssobcZVuQuL"
+      "duration_ms": 212880,
+      "name": "Faces",
+      "url": "https://open.spotify.com/track/6Yw3IyoSf5S05g1nTB6woC"
     },
     {
       "added_at": null,
@@ -819,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Blitz!",
-        "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
+        "name": "Yeah Yeah Yeahs",
+        "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
       },
       "artists": [
         {
@@ -828,9 +812,25 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 212880,
-      "name": "Faces",
-      "url": "https://open.spotify.com/track/6Yw3IyoSf5S05g1nTB6woC"
+      "duration_ms": 177693,
+      "name": "Mystery Girl",
+      "url": "https://open.spotify.com/track/3pvfyKJWQYRe8jCCgsD3BI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IS IS",
+        "url": "https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 191093,
+      "name": "Rockers To Swallow",
+      "url": "https://open.spotify.com/track/4MFhnFd5IlotC8L4E4ZifJ"
     }
   ],
   "unique_name": "This Is Yeah Yeah Yeahs",

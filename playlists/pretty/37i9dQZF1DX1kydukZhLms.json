@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1375570,
+  "num_followers": 1375813,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
+        "name": "The Silent Force",
+        "url": "https://open.spotify.com/album/7Mqb9JDLwwr4kLuNXFnuJZ"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 231186,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/17AtQU2FNV14jSGpPfhejn"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
         "name": "Worlds Collide",
         "url": "https://open.spotify.com/album/0rr0bj60VA1iBM0T6s34mL"
       },
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/491aVcQHmKwGjVego5VI15"
-      },
-      "artists": [
-        {
-          "name": "Sonata Arctica",
-          "url": "https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH"
-        }
-      ],
-      "duration_ms": 313533,
-      "name": "Last Drop Falls",
-      "url": "https://open.spotify.com/track/4bSetRYOPYAMlLc9mgEGr0"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Keeper of the Seven Keys, Pt. I (Expanded Edition)",
         "url": "https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp"
       },
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "The Silent Force",
-        "url": "https://open.spotify.com/album/7Mqb9JDLwwr4kLuNXFnuJZ"
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/491aVcQHmKwGjVego5VI15"
       },
       "artists": [
         {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+          "name": "Sonata Arctica",
+          "url": "https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH"
         }
       ],
-      "duration_ms": 231186,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/17AtQU2FNV14jSGpPfhejn"
+      "duration_ms": 313533,
+      "name": "Last Drop Falls",
+      "url": "https://open.spotify.com/track/4bSetRYOPYAMlLc9mgEGr0"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/4L5pz06MVlsWaTEjSQPN8h"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 284800,
+      "name": "Don't Cry (Original)",
+      "url": "https://open.spotify.com/track/0ZEhlT9v8CdOKu55zhYGv9"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
         "name": "Get A Grip (Reissue - Remaster)",
         "url": "https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 356160,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/2YswrtCvqzD5k8AWT7irnS"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
-        "name": "The Best of Bruce Dickinson",
-        "url": "https://open.spotify.com/album/0yPd9nZ543MWHGoGHcFKRR"
-      },
-      "artists": [
-        {
-          "name": "Bruce Dickinson",
-          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
-        }
-      ],
-      "duration_ms": 320106,
-      "name": "Man of Sorrows - 2001 Remaster",
-      "url": "https://open.spotify.com/track/3aKlrWvtDCJ13npobUO5zg"
     }
   ],
   "unique_name": "Heavy Ballads",

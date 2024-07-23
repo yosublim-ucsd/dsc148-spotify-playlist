@@ -4,13 +4,14 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sanjith Hegde
 
-364 songs - 19 hr 43 min
+365 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5 Sonne](https://open.spotify.com/track/5SVDYs73KClBu5QUN4UzVd) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [5 Sonne](https://open.spotify.com/album/0ZOs6YDIZGoyYFvQsjxcKl) | 1:23 | 2024-04-29 |  |
 | [6ne Crossu](https://open.spotify.com/track/7C3DQb695Vt7vBcPTiSeOK) | [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [6ne Crossu](https://open.spotify.com/album/13WU6iqMTXFRuMUa3B5ioG) | 2:48 | 2023-11-17 | 2024-04-30 |
 | [Aa Gagana Surya \(feat\. Pancham Jeeva, Kinnal Raj\)](https://open.spotify.com/track/3fNRmb3gOCVxCiPuIs3HYl) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N), [Pancham Jeeva](https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s), [Kinnal Raj](https://open.spotify.com/artist/6fYwsvBDdHgmAtfnjGJqOD) | [Aa Gagana Surya \(feat\. Pancham Jeeva, Kinnal Raj\)](https://open.spotify.com/album/2ahIFjlvrc8twTzfYj1ftg) | 5:31 | 2023-05-10 | 2023-06-08 |
+| [Aadidavara Manava Balle](https://open.spotify.com/track/1Z0wlM0rNfb1J3ywtQ9465) | [Puornausri D](https://open.spotify.com/artist/1T5JDdqWTbT57tpBZtviqX) | [Aadidavara Manava Balle](https://open.spotify.com/album/3EtWYbsmP7VFfCZK6q7ICM) | 4:07 | 2024-07-22 |  |
 | [Aagodella Olledakke](https://open.spotify.com/track/5txyQo6mRKlNBkrfoBUI1x) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Aagodella Olledakke](https://open.spotify.com/album/3YA8kASOPKdeuhGpu729tb) | 3:40 | 2024-02-08 |  |
 | [Abbabbaa](https://open.spotify.com/track/1o9S562QxYvL66rVHxxGOE) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Abbabbaa](https://open.spotify.com/album/2TNCNVlnDzBhSvqPcE0LTT) | 2:19 | 2023-11-28 | 2024-01-26 |
 | [Abbabbaa](https://open.spotify.com/track/2ZKsmvbi4GElE0uvhAo2gC) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Abbabbaa](https://open.spotify.com/album/2IFpnZl9vZmfQgH7EvNbKr) | 2:19 | 2023-11-28 | 2024-02-17 |

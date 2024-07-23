@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 ### [Street Culto](https://open.spotify.com/playlist/37i9dQZF1DWXU2naFUn37x)
 
-> Il top dello street rap italiano, con in cover Artie 5ive e Guè
+> Il top dello street rap italiano, in cover Artie 5ive e Guè
 
-[Spotify](https://open.spotify.com/user/spotify) - 893,303 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 893,442 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [TARANTELLA \(feat\. Kid Yugi & RRARI DAL TACCO\)](https://open.spotify.com/track/5K0u93zeFEfNC2Om1p4CCk) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Timon](https://open.spotify.com/artist/4pQprwhppwLQDnYkXVNCHp), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [CAPO DELLA JERSEY](https://open.spotify.com/album/0MLAg2GbEnu5DB5mQE6Oa1) | 2:10 |
 | 50 | [CHICCHI DI MAIS](https://open.spotify.com/track/6DfiF3w7udIgertxVxACql) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [CHICCHI DI MAIS](https://open.spotify.com/album/1vO11VjSP50ATrDbTvYzPX) | 2:50 |
 
-Snapshot ID: `ZpmQnAAAAAC7rOPje48TjOpCUL5D2tUO`
+Snapshot ID: `Zp4GtgAAAABNrB/RF/z44z44NZuER5SQ`

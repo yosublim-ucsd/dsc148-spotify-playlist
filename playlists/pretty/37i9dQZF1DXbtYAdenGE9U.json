@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 588546,
+  "num_followers": 588846,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "As The Rush Comes",
-        "url": "https://open.spotify.com/album/1RUZtaNoGK9tvaNlFzVtrB"
-      },
-      "artists": [
-        {
-          "name": "Motorcycle",
-          "url": "https://open.spotify.com/artist/7DZ9xBelM79Mlk3Weia4oD"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "As The Rush Comes",
-      "url": "https://open.spotify.com/track/6uEmDZoJcc7Oqrute8BA2N"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
         "name": "The Xpander E.P.",
         "url": "https://open.spotify.com/album/2xnwMwLUMQOquTnjLOuh6Q"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 202026,
       "name": "Xpander - Edit",
       "url": "https://open.spotify.com/track/75653mwqn2ikumvrHuhEKf"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
+        "name": "As The Rush Comes",
+        "url": "https://open.spotify.com/album/1RUZtaNoGK9tvaNlFzVtrB"
+      },
+      "artists": [
+        {
+          "name": "Motorcycle",
+          "url": "https://open.spotify.com/artist/7DZ9xBelM79Mlk3Weia4oD"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "As The Rush Comes",
+      "url": "https://open.spotify.com/track/6uEmDZoJcc7Oqrute8BA2N"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -903,22 +903,22 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "Not Over Yet '99",
-        "url": "https://open.spotify.com/album/2P3GrMALjeCYAbFvuFFsFH"
+        "name": "Southern Sun / Ready Steady Go",
+        "url": "https://open.spotify.com/album/10vaUmlTOpclr1x7xjYS8h"
       },
       "artists": [
         {
-          "name": "Planet Perfecto",
-          "url": "https://open.spotify.com/artist/3Q9P0SbpaP9xsBtLUVK0Be"
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
         },
         {
-          "name": "Grace",
-          "url": "https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg"
+          "name": "Carla Werner",
+          "url": "https://open.spotify.com/artist/3SMF5D7b8NM3YFSsgu9WQ9"
         }
       ],
-      "duration_ms": 216066,
-      "name": "Not Over Yet '99 (feat. Grace) - Radio Edit",
-      "url": "https://open.spotify.com/track/3gYUvf0BzPsPky2y3oBf3d"
+      "duration_ms": 235426,
+      "name": "Southern Sun",
+      "url": "https://open.spotify.com/track/6GZO2jSzaULhCH30DakBhu"
     }
   ],
   "unique_name": "Trance Classics",

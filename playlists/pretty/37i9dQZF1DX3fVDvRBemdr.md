@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollandse hits\. Cover: André Hazes & Mart Hoogkamer
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,321 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,330 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Zij Begrijpt Het](https://open.spotify.com/track/6rk8aJ7P3O7OhdQQ0ce29e) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Zij Begrijpt Het](https://open.spotify.com/album/1nUC9zziMNcQBg4pu1pVv5) | 2:49 |
 | 2 | [Zij Is Van Mij](https://open.spotify.com/track/5ElK7HPvWfRYOzz6F6ICId) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Zij Is Van Mij](https://open.spotify.com/album/42ySQUp33CT7jH0XTOVYPh) | 2:25 |
-| 3 | [Vannacht Slaap Jij Bij Mij \(feat\. Monq & Billy Dans\)](https://open.spotify.com/track/7gv9Ky47iGM6LRp5aO5tkt) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Vannacht Slaap Jij Bij Mij](https://open.spotify.com/album/72aiMSxFyKAiY4mrolRPgj) | 2:28 |
+| 3 | [Vannacht Slaap Jij Bij Mij](https://open.spotify.com/track/7gv9Ky47iGM6LRp5aO5tkt) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs) | [Vannacht Slaap Jij Bij Mij](https://open.spotify.com/album/72aiMSxFyKAiY4mrolRPgj) | 2:28 |
 | 4 | [Suavemente, Dans Met Mij](https://open.spotify.com/track/2GLSRL3sIOQR5TTppRqkjj) | [Gerard Palts](https://open.spotify.com/artist/7agcYn7rMxlilM5iilw4qf), [Trafassi](https://open.spotify.com/artist/2Vf41WkCUjjGaAuCF3cd9O) | [Suavemente, Dans Met Mij](https://open.spotify.com/album/26N1Eca9A56lXptg6u9T9M) | 3:10 |
 | 5 | [Met Het Vliegtuig Naar Spanje](https://open.spotify.com/track/1nCs068okLCuxJeFnObvbC) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm) | [Met Het Vliegtuig Naar Spanje](https://open.spotify.com/album/3v9ZAOqiho1zRej69vSnWk) | 2:46 |
 | 6 | [Maandag](https://open.spotify.com/track/1ZmCl5Ip9moo86hdqufgU0) | [Sander Kwarten](https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn) | [Maandag](https://open.spotify.com/album/2hYNOJpCCEbuKLLOxOE7RW) | 2:44 |

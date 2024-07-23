@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 60478,
+  "num_followers": 60487,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -305,6 +305,30 @@
       "url": "https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS"
     },
     {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Sacbe: Sacbe (Complete)",
+        "url": "https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP"
+      },
+      "artists": [
+        {
+          "name": "Arturo Cipriano",
+          "url": "https://open.spotify.com/artist/5MagvaL80lMCb6ZTiNHW0u"
+        },
+        {
+          "name": "Gerardo Batiz",
+          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
+        },
+        {
+          "name": "Sacbe",
+          "url": "https://open.spotify.com/artist/2UA1zpDaD5s3Uy5R7JzzOh"
+        }
+      ],
+      "duration_ms": 404666,
+      "name": "Las Pulgas Freeway",
+      "url": "https://open.spotify.com/track/5AFlumcmhChuLqzrkPzj0M"
+    },
+    {
       "added_at": "2022-08-09 18:38:23",
       "album": {
         "name": "Tukumtak",
@@ -343,30 +367,6 @@
       "duration_ms": 285386,
       "name": "2 Cartas",
       "url": "https://open.spotify.com/track/1BKByJotqMPplXpnaovvr5"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Sacbe: Sacbe (Complete)",
-        "url": "https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP"
-      },
-      "artists": [
-        {
-          "name": "Arturo Cipriano",
-          "url": "https://open.spotify.com/artist/5MagvaL80lMCb6ZTiNHW0u"
-        },
-        {
-          "name": "Gerardo Batiz",
-          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
-        },
-        {
-          "name": "Sacbe",
-          "url": "https://open.spotify.com/artist/2UA1zpDaD5s3Uy5R7JzzOh"
-        }
-      ],
-      "duration_ms": 404666,
-      "name": "Las Pulgas Freeway",
-      "url": "https://open.spotify.com/track/5AFlumcmhChuLqzrkPzj0M"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -667,22 +667,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Funk da Power",
-        "url": "https://open.spotify.com/album/04THe7KJSRQ6zRh9idIg63"
-      },
-      "artists": [
-        {
-          "name": "Fiusha",
-          "url": "https://open.spotify.com/artist/0CwPHvEoMX4vMIARIu2WZk"
-        }
-      ],
-      "duration_ms": 316023,
-      "name": "Let It Play",
-      "url": "https://open.spotify.com/track/1Czyel4ty0L3Jhsw6jQTKl"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Mujer De Luna",
         "url": "https://open.spotify.com/album/6T8B3gspDicZbXyDW37MV4"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 285746,
       "name": "Ana's Song",
       "url": "https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Funk da Power",
+        "url": "https://open.spotify.com/album/04THe7KJSRQ6zRh9idIg63"
+      },
+      "artists": [
+        {
+          "name": "Fiusha",
+          "url": "https://open.spotify.com/artist/0CwPHvEoMX4vMIARIu2WZk"
+        }
+      ],
+      "duration_ms": 316023,
+      "name": "Let It Play",
+      "url": "https://open.spotify.com/track/1Czyel4ty0L3Jhsw6jQTKl"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -735,6 +735,26 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Sacbe: Sacbe (Complete)",
+        "url": "https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP"
+      },
+      "artists": [
+        {
+          "name": "Clare Fischer",
+          "url": "https://open.spotify.com/artist/6YUywiIGx79eA85WXt0FrM"
+        },
+        {
+          "name": "Sacbe",
+          "url": "https://open.spotify.com/artist/2UA1zpDaD5s3Uy5R7JzzOh"
+        }
+      ],
+      "duration_ms": 380800,
+      "name": "Mijo",
+      "url": "https://open.spotify.com/track/5xWmwOAA9RiH4iTrxWKWnL"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Mi Sentimiento Guerrerense",
         "url": "https://open.spotify.com/album/6035edQMGEkEvpgomvasDC"
       },
@@ -747,6 +767,26 @@
       "duration_ms": 339280,
       "name": "Por los Caminos del Sur",
       "url": "https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Semillas De Copinol",
+        "url": "https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2"
+      },
+      "artists": [
+        {
+          "name": "Juanjo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/2xXOq35UCrY7y2IAx1P8fp"
+        },
+        {
+          "name": "Xuc Tr\u00edo",
+          "url": "https://open.spotify.com/artist/5eHROgXWpoOumSJvUs76Z9"
+        }
+      ],
+      "duration_ms": 352952,
+      "name": "En Cualquier Momento",
+      "url": "https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -781,26 +821,6 @@
       "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Semillas De Copinol",
-        "url": "https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2"
-      },
-      "artists": [
-        {
-          "name": "Juanjo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/2xXOq35UCrY7y2IAx1P8fp"
-        },
-        {
-          "name": "Xuc Tr\u00edo",
-          "url": "https://open.spotify.com/artist/5eHROgXWpoOumSJvUs76Z9"
-        }
-      ],
-      "duration_ms": 352952,
-      "name": "En Cualquier Momento",
-      "url": "https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4"
-    },
-    {
       "added_at": "2023-04-13 19:45:15",
       "album": {
         "name": "Calladito Te Ves Mejor",
@@ -819,26 +839,6 @@
       "duration_ms": 236419,
       "name": "Calladito Te Ves Mejor",
       "url": "https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Sacbe: Sacbe (Complete)",
-        "url": "https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP"
-      },
-      "artists": [
-        {
-          "name": "Clare Fischer",
-          "url": "https://open.spotify.com/artist/6YUywiIGx79eA85WXt0FrM"
-        },
-        {
-          "name": "Sacbe",
-          "url": "https://open.spotify.com/artist/2UA1zpDaD5s3Uy5R7JzzOh"
-        }
-      ],
-      "duration_ms": 380800,
-      "name": "Mijo",
-      "url": "https://open.spotify.com/track/5xWmwOAA9RiH4iTrxWKWnL"
     },
     {
       "added_at": "2021-07-28 16:44:28",

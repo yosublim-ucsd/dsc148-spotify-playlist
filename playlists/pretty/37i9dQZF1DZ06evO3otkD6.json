@@ -1,12 +1,12 @@
 {
   "description": "This Is Belinda. Los temas esenciales, todos en una lista.",
-  "num_followers": 67973,
+  "num_followers": 67987,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpr+AAAAAAAj5UE34Jfc01oQvzpoWVip",
+  "snapshot_id": "ZpxPgAAAAADZCBaEkWhhJSFRdUYuDwM8",
   "tracks": [
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cocoterapia",
-        "url": "https://open.spotify.com/album/0vmNJ8cSNDKIOSOuYSnIz1"
+        "name": "No Estamos Tan Locos",
+        "url": "https://open.spotify.com/album/7gZvRRiER5mk2ZtqBfaTu3"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 202153,
-      "name": "Flamenkito",
-      "url": "https://open.spotify.com/track/2oRtscLLwdLMiDpRoQOSWW"
+      "duration_ms": 206354,
+      "name": "No Estamos Tan Locos",
+      "url": "https://open.spotify.com/track/1uZJgxYvEOTlyY2baL0m17"
     },
     {
       "added_at": null,
@@ -339,6 +339,26 @@
       "duration_ms": 241906,
       "name": "Luz Sin Gravedad",
       "url": "https://open.spotify.com/track/60CEVNgCHcVyWCPy6Kh2K6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cocoterapia",
+        "url": "https://open.spotify.com/album/0vmNJ8cSNDKIOSOuYSnIz1"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 202153,
+      "name": "Flamenkito",
+      "url": "https://open.spotify.com/track/2oRtscLLwdLMiDpRoQOSWW"
     },
     {
       "added_at": null,
@@ -514,15 +534,11 @@
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         }
       ],
-      "duration_ms": 204146,
-      "name": "Egoista",
-      "url": "https://open.spotify.com/track/1e6L0EbCaG0TraK7LtbcXE"
+      "duration_ms": 195866,
+      "name": "Dopamina",
+      "url": "https://open.spotify.com/track/3jGVYqal9gz8MLufUzrRhU"
     },
     {
       "added_at": null,
@@ -588,9 +604,9 @@
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 195866,
-      "name": "Dopamina",
-      "url": "https://open.spotify.com/track/3jGVYqal9gz8MLufUzrRhU"
+      "duration_ms": 206226,
+      "name": "Sal De Mi Piel",
+      "url": "https://open.spotify.com/track/1COpsT2iGXmVp9TiI8poft"
     },
     {
       "added_at": null,
@@ -643,22 +659,6 @@
       "duration_ms": 204666,
       "name": "Ni Freud Ni Tu Mama",
       "url": "https://open.spotify.com/track/2SHu2n8MmP3ym3LpuyTrUf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 206226,
-      "name": "Sal De Mi Piel",
-      "url": "https://open.spotify.com/track/1COpsT2iGXmVp9TiI8poft"
     },
     {
       "added_at": null,
@@ -1055,6 +1055,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Colorblind",
+        "url": "https://open.spotify.com/album/10pmOIJFrZ1Miyl1qP6Xfw"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 205040,
+      "name": "Colorblind",
+      "url": "https://open.spotify.com/track/2oekKvTdvWAk3x09g7HVlJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Silvana - C\u00f3mplices Al Rescate",
         "url": "https://open.spotify.com/album/7Mn2dBHL97jRe7zyuAXcgc"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 174626,
       "name": "Contigo Siempre",
       "url": "https://open.spotify.com/track/4hrKrgSeEil3uXvgouZLhd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Colorblind",
-        "url": "https://open.spotify.com/album/10pmOIJFrZ1Miyl1qP6Xfw"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 205040,
-      "name": "Colorblind",
-      "url": "https://open.spotify.com/track/2oekKvTdvWAk3x09g7HVlJ"
     },
     {
       "added_at": null,
@@ -1131,6 +1131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/33nYUqCHeO8jyrvctV5Fr0"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 160979,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/17ndjs5jsTO1X15raRZV0u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aventuras En El Tiempo",
         "url": "https://open.spotify.com/album/0TpcSvWBE1qXWGvtybMfAq"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 160173,
       "name": "Aventuras En El Tiempo",
       "url": "https://open.spotify.com/track/0lh18hhI9vxejLA6fjwynz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/33nYUqCHeO8jyrvctV5Fr0"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 160979,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/17ndjs5jsTO1X15raRZV0u"
     },
     {
       "added_at": null,

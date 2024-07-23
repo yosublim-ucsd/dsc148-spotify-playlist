@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 
 > Revisit the retro Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,208 likes - 72 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,288 likes - 72 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 | 62 | [Konjam Nilavu](https://open.spotify.com/track/7MBpd31LfRWqSq4S6iXm0t) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Chandralekha Annupamaa](https://open.spotify.com/artist/2qpBRQ66e1zdpzBVNklhSv), [Suresh Peters](https://open.spotify.com/artist/1EvTAKGpcJx8wtvppR7p45) | [Thiruda Thiruda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZainykpWQep1A7T7YHhK6) | 5:48 |
 | 63 | [July Matham](https://open.spotify.com/track/33YNTB6DdLOub76BwkWkBj) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Chandralekha Annupamaa](https://open.spotify.com/artist/2qpBRQ66e1zdpzBVNklhSv) | [Pudhiya Mugam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/41C2DoK8FZqe2rtg4KAxm5) | 4:28 |
 | 64 | [Minnalea En Vazhvin](https://open.spotify.com/track/6078vTOfNPOHZDuyzzsMLx) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [May Madham](https://open.spotify.com/album/7lOAMWFbgRFydIu8U4Qr0v) | 5:36 |
-| 65 | [Ottagtha Katikko](https://open.spotify.com/track/7pT6IaXJKXDq85Ucu2fNUg) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Gentleman](https://open.spotify.com/album/6e97t01pmASFo2XJFkJtOC) | 5:14 |
-| 66 | [En Veettu Thottathil](https://open.spotify.com/track/3mRb10pErMGcLNepfuCV2j) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Gentleman](https://open.spotify.com/album/6e97t01pmASFo2XJFkJtOC) | 4:03 |
+| 65 | [En Veettu Thottathil](https://open.spotify.com/track/3mRb10pErMGcLNepfuCV2j) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Gentleman](https://open.spotify.com/album/6e97t01pmASFo2XJFkJtOC) | 4:03 |
+| 66 | [Ottagtha Katikko](https://open.spotify.com/track/7pT6IaXJKXDq85Ucu2fNUg) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Gentleman](https://open.spotify.com/album/6e97t01pmASFo2XJFkJtOC) | 5:14 |
 | 67 | [Kannai Kattikkollathae](https://open.spotify.com/track/4ND4dDfxFWOZx5PXo0bU85) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Iruvar](https://open.spotify.com/album/5ztXu69YTnoVGJixlOcmBD) | 6:01 |
 | 68 | [Thanga Thamari Magale](https://open.spotify.com/track/3UBL5FEA4JgMHj2z94fLSW) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Minsara Kanavu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0lu9EJwZFYWUogxPtptP3N) | 5:02 |
 | 69 | [Roja Roja](https://open.spotify.com/track/6QleOhmbHLwcyB0vOm1uwb) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX) | [Kadhalar Dhinam](https://open.spotify.com/album/6lomyyBX6OCYGNKutQBbhZ) | 5:47 |

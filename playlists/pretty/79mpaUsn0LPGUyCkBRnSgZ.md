@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 511 songs - 1 day 9 hr 45 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 512 songs - 1 day 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -519,5 +519,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 509 | [The Sound Of Confusion](https://open.spotify.com/track/3zUKCWesKho55Jm6e6JPpV) | [Spacemen 3](https://open.spotify.com/artist/1ZOlVrZ2MtNSY9LcFYklDB) | [Taking Drugs To Make Music To Take Drugs To \(Remastered\)](https://open.spotify.com/album/60dj0AVW7k2jFHPPLN6J1X) | 5:54 |
 | 510 | [Howling At The Moon](https://open.spotify.com/track/4dXNZHMLQSg1slX92JGjA1) | [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2) | [Love Gun 2](https://open.spotify.com/album/2jHaYTt9piEHSwhqA3ZJlB) | 4:36 |
 | 511 | [Sunrise](https://open.spotify.com/track/3gaH8NE0t7SBKhUIjv0SYv) | [Yeasayer](https://open.spotify.com/artist/04HvbIwBccFmRie5ATX4ft) | [All Hour Cymbals](https://open.spotify.com/album/6mVyKlhq3v2IHeksO38syx) | 4:06 |
+| 512 | [Native Belle](https://open.spotify.com/track/28N9Albx54zeZwhccbk3qR) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Ark](https://open.spotify.com/album/7Mpy0YPUymmzOopyQrMXw5) | 3:52 |
 
-Snapshot ID: `AAAGR65LsW2wxCjDBlCXlH0PzTb+GA1X`
+Snapshot ID: `AAAGSBGoBTmd86o/2OmEowwORb9g5gzp`

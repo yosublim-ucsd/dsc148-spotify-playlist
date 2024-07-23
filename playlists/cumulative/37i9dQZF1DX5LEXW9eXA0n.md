@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: Tophyun\(탑현\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,260 songs - 3 day 9 hr 34 min
+1,261 songs - 3 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -942,6 +942,7 @@
 | [Stay there](https://open.spotify.com/track/5IndKDof7V94eb33af1WlF) | [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [Stay there](https://open.spotify.com/album/6wS7aYn81YsL0bdpscugBo) | 3:23 | 2023-01-20 | 2023-02-15 |
 | [Stay With Me](https://open.spotify.com/track/17qoIHNHmxUu4YjeAs0Prh) | [Jeon Eun Jin](https://open.spotify.com/artist/67lzkCTgtpkhb56aGYXJEY) | [Stay With Me](https://open.spotify.com/album/58GDtLSSF7VjO9xjjaADbP) | 3:21 | 2022-02-10 | 2022-02-17 |
 | [Step](https://open.spotify.com/track/2ZML6XkrBnaauvtkwP8at1) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Step](https://open.spotify.com/album/1xWCeaqYgmdUQ2Cm90Z6Zk) | 4:56 | 2023-04-08 | 2023-08-25 |
+| [Still](https://open.spotify.com/track/2FPVLNcMPKysmV1TpozETD) | [VROMANCE](https://open.spotify.com/artist/5YPW3OmiqnqnQaFjloAvA7) | [Still](https://open.spotify.com/album/0dS3PtdYqB4uboBYWRln6H) | 3:43 | 2024-07-22 |  |
 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 | 2022-10-07 | 2023-01-11 |
 | [Still I miss you](https://open.spotify.com/track/7wernZE5R61X4HtWD1aBhs) | [KIM KI TAE](https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI) | [Still I miss you](https://open.spotify.com/album/2i4UOo0Yr9vEzySpsyVj4v) | 4:08 | 2023-03-21 | 2023-07-08 |
 | [Still Our Love Continue \(My love X KYUHYUN, Jeong Eun Ji\)](https://open.spotify.com/track/5Q4TkZMBO5LKcI7wqbla8V) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln), [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Still Our Love Continue \(My love X KYUHYUN, Jeong Eun Ji\)](https://open.spotify.com/album/2lZHUTDqiVgw0Dk8eXWn9Z) | 4:20 | 2023-07-07 | 2023-10-20 |

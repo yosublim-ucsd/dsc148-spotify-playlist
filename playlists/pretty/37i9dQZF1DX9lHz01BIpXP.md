@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=9PTEqsPxTgq3Vja7mAf6nA">Ziggy4x</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,681 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,683 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 43 | [Trap In Die Hood](https://open.spotify.com/track/1knJxiQusxbgHW0oKjwOym) | [Cee Jay Zondagh](https://open.spotify.com/artist/4VmAlrF7izp3l9EaOzSedM) | [Big Cee](https://open.spotify.com/album/59W9gdp4g28mnEy5KAXnmz) | 3:25 |
 | 44 | [OGlizzy](https://open.spotify.com/track/1NlWi9AEB4vB9z7MxoalXS) | [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY) | [OGlizzy](https://open.spotify.com/album/58cgGZyo8nD6zMFjdMfQFH) | 3:16 |
 | 45 | [Los Hom](https://open.spotify.com/track/7Iec6TaiOl3rOaqW3cTCfk) | [Wboy](https://open.spotify.com/artist/04JztP9AaI1fxKtfZ6eQVW) | [Forever](https://open.spotify.com/album/3XFk6y7qOGBONEP0C7Vlme) | 2:01 |
-| 46 | [Hopeless](https://open.spotify.com/track/4pmnGONjm31Llig19zwpde) | [Marky Futurekid](https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr) | [Hopeless](https://open.spotify.com/album/1Vpan89LcSJn14BVEq2DDD) | 3:03 |
-| 47 | [Skrik Wakker](https://open.spotify.com/track/5pOcnruKNKTWB0U3xE5KoO) | [KerwieG](https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5), [YB Benzy](https://open.spotify.com/artist/2Nm9WbGktDzUxMXLVp1ALm), [Rennie\-Boy](https://open.spotify.com/artist/53BPfXb27ng2cYGEK6PtaG) | [Skrik Wakker](https://open.spotify.com/album/0zGRb9dlhnxbgEtax9R9aB) | 4:00 |
+| 46 | [Skrik Wakker](https://open.spotify.com/track/5pOcnruKNKTWB0U3xE5KoO) | [KerwieG](https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5), [YB Benzy](https://open.spotify.com/artist/2Nm9WbGktDzUxMXLVp1ALm), [Rennie\-Boy](https://open.spotify.com/artist/53BPfXb27ng2cYGEK6PtaG) | [Skrik Wakker](https://open.spotify.com/album/0zGRb9dlhnxbgEtax9R9aB) | 4:00 |
+| 47 | [Hopeless](https://open.spotify.com/track/4pmnGONjm31Llig19zwpde) | [Marky Futurekid](https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr) | [Hopeless](https://open.spotify.com/album/1Vpan89LcSJn14BVEq2DDD) | 3:03 |
 | 48 | [Ek Sal Nie Lieg Nie](https://open.spotify.com/track/4reYk1zhvoQh4K78On9Y0h) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [M.Jay](https://open.spotify.com/artist/6NSyRLnJIPll8pR2mRYRnl) | [Ek Sal Nie Lieg Nie](https://open.spotify.com/album/0P2QBEdQVwvUwQJXWVJ4mQ) | 2:31 |
 | 49 | [Da Money](https://open.spotify.com/track/2PpXTeSSxwZ3CfqI1or0wM) | [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY), [Cee Jay Zondagh](https://open.spotify.com/artist/3GWLfJPjLRZdlKUoVzUZ9a) | [Da Money](https://open.spotify.com/album/3adAOGcOj3SiDgZcExb9bN) | 3:44 |
-| 50 | [4EvR](https://open.spotify.com/track/7gEtSGK5PaKgh0gbT1oEXz) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ) | [4EvR](https://open.spotify.com/album/5rEvOfwPXeii3VdzsIIWlN) | 1:28 |
+| 50 | [Broke](https://open.spotify.com/track/4DaJv3w5BZrsj5eLgDWsEK) | [Demo Ricch](https://open.spotify.com/artist/48pSu0n4jTo1FRkZXZNBcY) | [Broke](https://open.spotify.com/album/39JjyQmeNvnbFwNkOHIBQw) | 3:08 |
 
 Snapshot ID: `ZpmQYAAAAACb7okE/jMitktRMlzPJAou`

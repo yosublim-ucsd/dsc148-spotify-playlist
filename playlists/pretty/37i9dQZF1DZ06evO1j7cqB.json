@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 9736,
+  "num_followers": 9737,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpr+AAAAAADBx/RZpCdspd9fPMdhlLjX",
+  "snapshot_id": "ZpxPgAAAAAAgAiOZD3teyQ79DnrhsaJb",
   "tracks": [
     {
       "added_at": null,
@@ -183,18 +183,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Five: Partings - Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4upGT86TEEIw2vJpcPG4Mk"
       },
       "artists": [
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Megan Richards",
+          "url": "https://open.spotify.com/artist/1HGr7gYjFUt2S3LmL9hbGG"
         }
       ],
-      "duration_ms": 565666,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/5rBXF4jd4xsenZnv5h3mfn"
+      "duration_ms": 128556,
+      "name": "This Wandering Day",
+      "url": "https://open.spotify.com/track/7GzOUmcsBrCmt93N1t1Oni"
     },
     {
       "added_at": null,
@@ -215,22 +219,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Five: Partings - Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/4upGT86TEEIw2vJpcPG4Mk"
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
       },
       "artists": [
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Megan Richards",
-          "url": "https://open.spotify.com/artist/1HGr7gYjFUt2S3LmL9hbGG"
         }
       ],
-      "duration_ms": 128556,
-      "name": "This Wandering Day",
-      "url": "https://open.spotify.com/track/7GzOUmcsBrCmt93N1t1Oni"
+      "duration_ms": 565666,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/5rBXF4jd4xsenZnv5h3mfn"
     },
     {
       "added_at": null,
@@ -859,18 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Seven: The Eye - Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1uVZhJYHy8dcumbR7ZEkVv"
+        "name": "Outlander: Season 7 (Highlights from the Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/732Keyphs0peCIsZ1zVdFn"
       },
       "artists": [
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Griogair",
+          "url": "https://open.spotify.com/artist/0a7CuqmpmugDCpDgIRoqwK"
         }
       ],
-      "duration_ms": 392964,
-      "name": "Infirmary",
-      "url": "https://open.spotify.com/track/0kjI3u4eyLULtEiJE07DEc"
+      "duration_ms": 203333,
+      "name": "Tha Mi Sgith'n Fhogar Seo' (feat. Griogair Labhruidh)",
+      "url": "https://open.spotify.com/track/43B3H05TIJSGHeIN5Kqarz"
     },
     {
       "added_at": null,
@@ -891,22 +895,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Season 7 (Highlights from the Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/732Keyphs0peCIsZ1zVdFn"
+        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Seven: The Eye - Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1uVZhJYHy8dcumbR7ZEkVv"
       },
       "artists": [
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Griogair",
-          "url": "https://open.spotify.com/artist/0a7CuqmpmugDCpDgIRoqwK"
         }
       ],
-      "duration_ms": 203333,
-      "name": "Tha Mi Sgith'n Fhogar Seo' (feat. Griogair Labhruidh)",
-      "url": "https://open.spotify.com/track/43B3H05TIJSGHeIN5Kqarz"
+      "duration_ms": 392964,
+      "name": "Infirmary",
+      "url": "https://open.spotify.com/track/0kjI3u4eyLULtEiJE07DEc"
     }
   ],
   "unique_name": "This Is Bear McCreary",

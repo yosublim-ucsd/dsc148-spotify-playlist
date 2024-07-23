@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Pate Mustajärvi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,846 likes - 74 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,845 likes - 74 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pirulle turpaan](https://open.spotify.com/track/5ZTyPmCm2Bq8EH1lHupnsU) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Pirulle turpaan](https://open.spotify.com/album/4TYWP0Gj9YJG3313saJxyp) | 3:34 |
-| 2 | [Tuonelan tuulet](https://open.spotify.com/track/3qPVlKbay9J0lLhJ05F1dE) | [Ikuinenkesä](https://open.spotify.com/artist/1gv2UQ0PpCHGnS1ozjAiHf) | [Tuonelan tuulet](https://open.spotify.com/album/1g0dAkEmeS4oKEQJQ8vLUC) | 2:55 |
-| 3 | [Armonlisävero](https://open.spotify.com/track/0kbMfnBWslhBMujXLS4ZTD) | [Baabelin Nulikat](https://open.spotify.com/artist/6XUvNVuLi9Y2mUitrP3CZZ) | [Armonlisävero](https://open.spotify.com/album/6luuQjLean0Woo10V1PISP) | 2:46 |
-| 4 | [On](https://open.spotify.com/track/4DgGCSm4lCbxoFpJxcWsBB) | [Ilkka Alanko](https://open.spotify.com/artist/4KGPlF7eEnZRgR31GRtoor) | [On](https://open.spotify.com/album/1LEmmQW4GL9rXGvBey4oaY) | 3:26 |
-| 5 | [Mitä meistä jää](https://open.spotify.com/track/2eyWzMUQASQysU9DzGQ9aS) | [JP Leppäluoto](https://open.spotify.com/artist/24Rd4rNLnKZbKmCEl79Fxx) | [Mitä meistä jää](https://open.spotify.com/album/3fcNKRnfUEftW3irGCyLdL) | 2:58 |
-| 6 | [10 Hyvää](https://open.spotify.com/track/4r2oF2dZLUjnXoS1hUH1L8) | [Mikko Herranen](https://open.spotify.com/artist/6AQrndwcFAGXfoiAdgCxXb) | [10 Hyvää](https://open.spotify.com/album/4HnFts5tn8GwW0rfGxLvbl) | 3:20 |
-| 7 | [Kompassi](https://open.spotify.com/track/0cUXDElEWqQ87agmCdQGjS) | [Varjokoodi](https://open.spotify.com/artist/7DKrGAIwzSyahY63WZSFmv) | [Kompassi](https://open.spotify.com/album/13xUxVE7xv8mr0jZenEeEN) | 3:37 |
-| 8 | [Ruusu](https://open.spotify.com/track/7jhOBsDrLrBFK0bt2jqfzX) | [HÄTÄHUUTO](https://open.spotify.com/artist/4p14Za7tptr7RnruH0LAP2) | [Ruusu](https://open.spotify.com/album/0ergX8StLFAffGHD37bbfM) | 3:33 |
-| 9 | [Viimeiseen iltaan](https://open.spotify.com/track/6EQEjhlQW7rd2NWs1hoJa1) | [Aino & Hajonneet](https://open.spotify.com/artist/1sRsNqY5RY8NvNtM0E8Aa6) | [Viimeiseen iltaan](https://open.spotify.com/album/2W895ZuuOiGR8n4slZetbU) | 3:00 |
-| 10 | [Elät Vaan](https://open.spotify.com/track/2tQk2A6XDXKlhxw5cT2jYe) | [Remix](https://open.spotify.com/artist/60rrONrFQipKsTXYazdmQO), [Karoliina Kallio](https://open.spotify.com/artist/0PMSbS727MWOXbiEcSjSLm) | [Elät Vaan](https://open.spotify.com/album/4zTGHW1H5IxyUSYGcRmj6W) | 3:40 |
+| 2 | [Elät Vaan](https://open.spotify.com/track/2tQk2A6XDXKlhxw5cT2jYe) | [Remix](https://open.spotify.com/artist/60rrONrFQipKsTXYazdmQO), [Karoliina Kallio](https://open.spotify.com/artist/0PMSbS727MWOXbiEcSjSLm) | [Elät Vaan](https://open.spotify.com/album/4zTGHW1H5IxyUSYGcRmj6W) | 3:40 |
+| 3 | [Tuonelan tuulet](https://open.spotify.com/track/3qPVlKbay9J0lLhJ05F1dE) | [Ikuinenkesä](https://open.spotify.com/artist/1gv2UQ0PpCHGnS1ozjAiHf) | [Tuonelan tuulet](https://open.spotify.com/album/1g0dAkEmeS4oKEQJQ8vLUC) | 2:55 |
+| 4 | [Armonlisävero](https://open.spotify.com/track/0kbMfnBWslhBMujXLS4ZTD) | [Baabelin Nulikat](https://open.spotify.com/artist/6XUvNVuLi9Y2mUitrP3CZZ) | [Armonlisävero](https://open.spotify.com/album/6luuQjLean0Woo10V1PISP) | 2:46 |
+| 5 | [On](https://open.spotify.com/track/4DgGCSm4lCbxoFpJxcWsBB) | [Ilkka Alanko](https://open.spotify.com/artist/4KGPlF7eEnZRgR31GRtoor) | [On](https://open.spotify.com/album/1LEmmQW4GL9rXGvBey4oaY) | 3:26 |
+| 6 | [Mitä meistä jää](https://open.spotify.com/track/2eyWzMUQASQysU9DzGQ9aS) | [JP Leppäluoto](https://open.spotify.com/artist/24Rd4rNLnKZbKmCEl79Fxx) | [Mitä meistä jää](https://open.spotify.com/album/3fcNKRnfUEftW3irGCyLdL) | 2:58 |
+| 7 | [10 Hyvää](https://open.spotify.com/track/4r2oF2dZLUjnXoS1hUH1L8) | [Mikko Herranen](https://open.spotify.com/artist/6AQrndwcFAGXfoiAdgCxXb) | [10 Hyvää](https://open.spotify.com/album/4HnFts5tn8GwW0rfGxLvbl) | 3:20 |
+| 8 | [Kompassi](https://open.spotify.com/track/0cUXDElEWqQ87agmCdQGjS) | [Varjokoodi](https://open.spotify.com/artist/7DKrGAIwzSyahY63WZSFmv) | [Kompassi](https://open.spotify.com/album/13xUxVE7xv8mr0jZenEeEN) | 3:37 |
+| 9 | [Ruusu](https://open.spotify.com/track/7jhOBsDrLrBFK0bt2jqfzX) | [HÄTÄHUUTO](https://open.spotify.com/artist/4p14Za7tptr7RnruH0LAP2) | [Ruusu](https://open.spotify.com/album/0ergX8StLFAffGHD37bbfM) | 3:33 |
+| 10 | [Viimeiseen iltaan](https://open.spotify.com/track/6EQEjhlQW7rd2NWs1hoJa1) | [Aino & Hajonneet](https://open.spotify.com/artist/1sRsNqY5RY8NvNtM0E8Aa6) | [Viimeiseen iltaan](https://open.spotify.com/album/2W895ZuuOiGR8n4slZetbU) | 3:00 |
 | 11 | [Periaatteessa onnellinen](https://open.spotify.com/track/1Ph4WJUA4KRC9MJxbikvat) | [The Stonewalls](https://open.spotify.com/artist/3Lb8xb895mxv1PW4ATbIJc), [Lauri Ketonen](https://open.spotify.com/artist/0COKPylAjot2zwI9ABkrd0) | [Periaatteessa onnellinen](https://open.spotify.com/album/0qatNBp4KY5SMzilMrnMvS) | 3:56 |
 | 12 | [Sadaskuudestoista](https://open.spotify.com/track/2Wja6XFz1hxUhHtJf5iY7j) | [Hampaat suussa](https://open.spotify.com/artist/1JT04ARat8ksflutJlqXXH) | [Sadaskuudestoista](https://open.spotify.com/album/7yLirwMVzUB1N48EDHoL2f) | 2:27 |
 | 13 | [hvvmukipuv \- apeasti](https://open.spotify.com/track/0UzlyVNE0Ha2AcdiJ31yTQ) | [Vaasa Palaa](https://open.spotify.com/artist/5r22UCkMnYyxVPmVLoA6vJ) | [hvvmukipuv juhlajulkaisu](https://open.spotify.com/album/3zBAWm5r0TXyGcTZEgo3UT) | 4:21 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 73 | [Jatkan matkaa](https://open.spotify.com/track/0os9TLERlmn5h1QFFbfyEC) | [Valontuojat](https://open.spotify.com/artist/27ErkSOWbcCKKFIyU4NnQr) | [Jatkan matkaa](https://open.spotify.com/album/1ywU5JGbLEOpmL1sa80KGf) | 3:14 |
 | 74 | [Kun kukaan ei huomaa](https://open.spotify.com/track/7o5cMmqHuxgErNxn12ROCc) | [Rakas Paheeni](https://open.spotify.com/artist/0K3ne1iuunHgCOAML6yOnz) | [Kun kukaan ei huomaa](https://open.spotify.com/album/03oSV0SZ4PnPzxlJeIqKCg) | 3:46 |
 
-Snapshot ID: `ZpmCjAAAAADfgqZU3nCFNT6jVI25mpdP`
+Snapshot ID: `Zp4PmwAAAAArFO0/1zpsV9rc4Ar1TLJ9`

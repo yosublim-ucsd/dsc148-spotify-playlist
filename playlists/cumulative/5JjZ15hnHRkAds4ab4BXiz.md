@@ -4,7 +4,7 @@
 
 > 
 
-438 songs - 1 day 4 hr 13 min
+439 songs - 1 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [Sacred Beast](https://open.spotify.com/track/6XYSGrWrA2si0cjO9BjbDw) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Good & Evil](https://open.spotify.com/album/2Vq0Y8wgiZRYtZ1mQ7zOMG) | 2:22 | 2024-05-24 |  |
 | [Saint Pablo](https://open.spotify.com/track/1o0kWPueYo94LIjPYOE5Nf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 6:12 | 2024-06-30 |  |
 | [SASFM](https://open.spotify.com/track/3mR7a59x0KsRK00GIXobfd) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [You Gave It Your Best](https://open.spotify.com/album/4y3ZVR9bObdAuD7cVDTet0) | 2:05 | 2024-07-17 |  |
+| [scars](https://open.spotify.com/track/016z46SJwcRosW9Xb8JKmF) | [Novulent](https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0) | [scars](https://open.spotify.com/album/3nVunTBVbJO5fiCP6YlhuB) | 1:35 | 2024-07-23 |  |
 | [See You Again \(feat\. Kali Uchis\)](https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:00 | 2024-02-16 | 2024-02-18 |
 | [Selfish](https://open.spotify.com/track/3Z3Fs0QhlvrJVRBHwzAFnQ) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Selfish](https://open.spotify.com/album/0trjZp7SXk1jKZKko0nck0) | 3:47 | 2024-04-05 |  |
 | [Selfless](https://open.spotify.com/track/2t0wwvR15fc3K1ey8OiOaN) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 3:42 | 2024-05-12 |  |

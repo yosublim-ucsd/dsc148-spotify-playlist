@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "These are Warren Zeiders' Country Music Essentials for summer of 2024, all in one playlist! Get the BBQ going, the drinks out and listen below!",
-  "name": "Country Essentials",
+  "description": "CURATED BY WARREN ZEIDERS-- these are his summer country essentials!  Keep checking back to see who will curate next! This is the best of country. ",
+  "name": "Country Essentials 2024",
   "tracks": [
     {
       "album": {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 233333,
       "name": "28",
       "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218933,
+      "name": "American Nights",
+      "url": "https://open.spotify.com/track/3c9EsIo34kil8Oj1reaozB"
+    },
+    {
+      "album": {
         "name": "The Wall [2011 - Remaster] (2011 Remastered Version)",
         "url": "https://open.spotify.com/album/1ITpsfAcoaSe4i1tUXm44D"
       },
@@ -254,6 +272,24 @@
       "duration_ms": 365626,
       "name": "Baker Street",
       "url": "https://open.spotify.com/track/3V07f70cRjUDg4KqDzHhFg"
+    },
+    {
+      "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216728,
+      "name": "Bass Boat",
+      "url": "https://open.spotify.com/track/2M8IvrzqvNMAJsAx7UYwXK"
     },
     {
       "album": {
@@ -2766,7 +2802,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 216253,
       "name": "Sandpaper (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/3JzVK0f8gqAAjyEDyXAys4"

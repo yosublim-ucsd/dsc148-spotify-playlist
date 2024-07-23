@@ -71,6 +71,24 @@
     },
     {
       "album": {
+        "name": "Aadidavara Manava Balle",
+        "url": "https://open.spotify.com/album/3EtWYbsmP7VFfCZK6q7ICM"
+      },
+      "artists": [
+        {
+          "name": "Puornausri D",
+          "url": "https://open.spotify.com/artist/1T5JDdqWTbT57tpBZtviqX"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247578,
+      "name": "Aadidavara Manava Balle",
+      "url": "https://open.spotify.com/track/1Z0wlM0rNfb1J3ywtQ9465"
+    },
+    {
+      "album": {
         "name": "Aagodella Olledakke",
         "url": "https://open.spotify.com/album/3YA8kASOPKdeuhGpu729tb"
       },

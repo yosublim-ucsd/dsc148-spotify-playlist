@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-168 songs - 15 hr 16 min
+169 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Humko Kisike Gham Ne Maara](https://open.spotify.com/track/1ftMjWQH3eIxJkN3KjLKjD) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Best of Ghulam Ali: His 50 Greatest Ghazal Hits](https://open.spotify.com/album/5vsRAeRm6meFIQi2LWgVGz) | 7:18 | 2021-12-01 |  |
 | [Humko Kisike Gham Ne Maara](https://open.spotify.com/track/3e2saSOAkc7ex0jhCwws4Y) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Top 10 Ghulam Ali](https://open.spotify.com/album/0eE9TMiCZp5VBEnBf3dQHg) | 7:18 | 2022-11-09 | 2022-11-13 |
 | [Humko Kisike Gham Ne Maara](https://open.spotify.com/track/5hZmZaExf8sG6wvoWpqs8m) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Enriching Ghazals](https://open.spotify.com/album/0reghrVnpLYtzSN8h9NstO) | 7:18 | 2022-07-26 | 2024-04-19 |
-| [Humne Duniya](https://open.spotify.com/track/6Z2yW8WWkwnetkQTZecj2A) | [Maahirii Bose](https://open.spotify.com/artist/4MNIF4TvN3PcvanPUrmnCa) | [Humne Duniya](https://open.spotify.com/album/7gLaSEKiizil6HQJRGJjv7) | 4:59 | 2024-02-28 |  |
+| [Humne Duniya](https://open.spotify.com/track/6Z2yW8WWkwnetkQTZecj2A) | [Maahirii Bose](https://open.spotify.com/artist/4MNIF4TvN3PcvanPUrmnCa) | [Humne Duniya](https://open.spotify.com/album/7gLaSEKiizil6HQJRGJjv7) | 4:59 | 2024-02-28 | 2024-07-23 |
 | [Hungama Hai Kyon Barpa](https://open.spotify.com/track/7fDOT7WW72bsyS2cY4tON0) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Hungama Hai Kyon Barpa](https://open.spotify.com/album/7uWXgcrOW9ZU4bkY3irIWD) | 8:28 | 2021-12-01 |  |
 | [Is Dil Pe Naaz Tha Mujhe](https://open.spotify.com/track/25VkJONJpEE1jFn5jdJfUh) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [25 Everlasting Ghazals By Mehdi Hassan](https://open.spotify.com/album/4o0t32M7pq69MgYcddWw28) | 4:47 | 2022-07-26 | 2023-07-28 |
 | [Is Dil Pe Naaz Tha Mujhe](https://open.spotify.com/track/1LhBqgSGz2URInfLJgdDex) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Shehenshah\-E\-Ghazal Mehdi Hassan](https://open.spotify.com/album/6faBY021EEthCQiSUVyK4w) | 4:47 | 2022-11-09 | 2022-11-13 |
@@ -175,6 +175,7 @@
 | [Yeh Watan Tumhara Hai](https://open.spotify.com/track/1LotGrrDWUGHqC0b2viZUr) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Ae Mere Des](https://open.spotify.com/album/4qqhhBFB4eGbKCyDwxZRXj) | 5:38 | 2021-12-01 | 2023-02-18 |
 | [Zid](https://open.spotify.com/track/01zEqBcguhTPOWo0DZhjew) | [Yogita Godbole](https://open.spotify.com/artist/7HzJcu2wULiol2dXlEC9gg) | [Zid](https://open.spotify.com/album/4uabV43WtpLFd0QOI6xK3H) | 5:09 | 2023-03-28 |  |
 | [Zid](https://open.spotify.com/track/08PBtue3SWYVlZqfbvQIE9) | [Yogita Godbole](https://open.spotify.com/artist/7HzJcu2wULiol2dXlEC9gg) | [Zid](https://open.spotify.com/album/2x4a52pauzSvhQnCI9DY6a) | 5:09 | 2024-02-09 | 2024-04-19 |
+| [Zikr](https://open.spotify.com/track/1XIlRRkIx6H3kcTrwO5RoX) | [Sharib Hashmi](https://open.spotify.com/artist/1MU1MnjAkAgRuLVwdajXPr) | [Zikr](https://open.spotify.com/album/7vaFZCYHyJsobB8E32m7Z8) | 2:50 | 2024-07-22 |  |
 | [Zikr Hamara Hai Magar \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/track/5raBN9JYslOZsjZjQ0UgjA) | [Hemant Brijwasi](https://open.spotify.com/artist/11BXjsOWoC85qAKxr1h0NX) | [Zikr Hamara Hai Magar \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/album/210Xmg0WOxgQ17S1eJJY83) | 5:43 | 2024-01-25 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Powerwolf\n",
-  "num_followers": 773306,
+  "num_followers": 773443,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
-        "name": "Bloodclock",
-        "url": "https://open.spotify.com/album/3kixMRYRnhTP9ppQDPwHNc"
-      },
-      "artists": [
-        {
-          "name": "Fleshgod Apocalypse",
-          "url": "https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML"
-        }
-      ],
-      "duration_ms": 314373,
-      "name": "Bloodclock",
-      "url": "https://open.spotify.com/track/0v2TBqAtyK8p6yDusBNVAZ"
-    },
-    {
-      "added_at": "2024-06-24 20:30:56",
-      "album": {
         "name": "Beyond The Black",
         "url": "https://open.spotify.com/album/0tdRNZ2Rb53OoY6CioMdZy"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 269533,
       "name": "Is There Anybody Out There?",
       "url": "https://open.spotify.com/track/6UtlekzNKTvFPuOtJvZjkK"
+    },
+    {
+      "added_at": "2024-06-24 20:30:56",
+      "album": {
+        "name": "Bloodclock",
+        "url": "https://open.spotify.com/album/3kixMRYRnhTP9ppQDPwHNc"
+      },
+      "artists": [
+        {
+          "name": "Fleshgod Apocalypse",
+          "url": "https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML"
+        }
+      ],
+      "duration_ms": 314373,
+      "name": "Bloodclock",
+      "url": "https://open.spotify.com/track/0v2TBqAtyK8p6yDusBNVAZ"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
-        "name": "We Shall Remain",
-        "url": "https://open.spotify.com/album/2qowWVHf8S7hOkZ9utWmEG"
-      },
-      "artists": [
-        {
-          "name": "Eleine",
-          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
-        }
-      ],
-      "duration_ms": 260573,
-      "name": "We Shall Remain",
-      "url": "https://open.spotify.com/track/4NE5lWvdpevNpziV5BUoOq"
-    },
-    {
-      "added_at": "2024-06-24 20:30:56",
-      "album": {
         "name": "Frozen",
         "url": "https://open.spotify.com/album/5MWTGZcBF5bGoKZHI9p9xz"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 300560,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/0s9S861lgoFOi4vXG3wsab"
+    },
+    {
+      "added_at": "2024-06-24 20:30:56",
+      "album": {
+        "name": "We Shall Remain",
+        "url": "https://open.spotify.com/album/2qowWVHf8S7hOkZ9utWmEG"
+      },
+      "artists": [
+        {
+          "name": "Eleine",
+          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
+        }
+      ],
+      "duration_ms": 260573,
+      "name": "We Shall Remain",
+      "url": "https://open.spotify.com/track/4NE5lWvdpevNpziV5BUoOq"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
-        "name": "Love Reign O'er Me",
-        "url": "https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce"
-      },
-      "artists": [
-        {
-          "name": "Edge Of Paradise",
-          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
-        }
-      ],
-      "duration_ms": 240106,
-      "name": "Love Reign O'er Me",
-      "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
-    },
-    {
-      "added_at": "2024-06-24 20:30:56",
-      "album": {
         "name": "Light up the Sky",
         "url": "https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM"
       },
@@ -1063,18 +1043,22 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
-        "name": "Walborg",
-        "url": "https://open.spotify.com/album/7tgt7BhR3dGVsj5AHopGAK"
+        "name": "Love Reign O'er Me",
+        "url": "https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce"
       },
       "artists": [
         {
-          "name": "Tungsten",
-          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
+          "name": "Edge Of Paradise",
+          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
         }
       ],
-      "duration_ms": 171760,
-      "name": "Walborg",
-      "url": "https://open.spotify.com/track/44gQ6qYCNVksivDoFwHnZ8"
+      "duration_ms": 240106,
+      "name": "Love Reign O'er Me",
+      "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -1099,6 +1083,22 @@
       "duration_ms": 298124,
       "name": "The Endless Shore",
       "url": "https://open.spotify.com/track/1MmecgkGmAS0dpJtF0k4Is"
+    },
+    {
+      "added_at": "2024-06-24 20:30:56",
+      "album": {
+        "name": "Walborg",
+        "url": "https://open.spotify.com/album/7tgt7BhR3dGVsj5AHopGAK"
+      },
+      "artists": [
+        {
+          "name": "Tungsten",
+          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
+        }
+      ],
+      "duration_ms": 171760,
+      "name": "Walborg",
+      "url": "https://open.spotify.com/track/44gQ6qYCNVksivDoFwHnZ8"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
+        "name": "Keeper of the Celestial Flame of Abernethy",
+        "url": "https://open.spotify.com/album/1BvtzKUe7PcQDbuld5snVh"
+      },
+      "artists": [
+        {
+          "name": "Gloryhammer",
+          "url": "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV"
+        }
+      ],
+      "duration_ms": 275168,
+      "name": "Holy Flaming Hammer of Unholy Cosmic Frost",
+      "url": "https://open.spotify.com/track/2fYbpl6jAG4XEUdnuKXwTG"
+    },
+    {
+      "added_at": "2024-06-24 20:30:56",
+      "album": {
         "name": "Not All Those Who Wander Are Lost",
         "url": "https://open.spotify.com/album/2Hdnxdxtbgbajj18nZcp65"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 286525,
       "name": "Not All Those Who Wander Are Lost",
       "url": "https://open.spotify.com/track/3BllrsBQnKlfb4rNDcllkt"
-    },
-    {
-      "added_at": "2024-06-24 20:30:56",
-      "album": {
-        "name": "Keeper of the Celestial Flame of Abernethy",
-        "url": "https://open.spotify.com/album/1BvtzKUe7PcQDbuld5snVh"
-      },
-      "artists": [
-        {
-          "name": "Gloryhammer",
-          "url": "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV"
-        }
-      ],
-      "duration_ms": 275168,
-      "name": "Holy Flaming Hammer of Unholy Cosmic Frost",
-      "url": "https://open.spotify.com/track/2fYbpl6jAG4XEUdnuKXwTG"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
-        "name": "Diamond Claws",
-        "url": "https://open.spotify.com/album/6ABYt8Esd1En0LnDm9iKBx"
-      },
-      "artists": [
-        {
-          "name": "Rhapsody Of Fire",
-          "url": "https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1"
-        }
-      ],
-      "duration_ms": 276552,
-      "name": "Diamond Claws",
-      "url": "https://open.spotify.com/track/1Zd6cxz9jtBEMPjbKHHOIJ"
-    },
-    {
-      "added_at": "2024-06-24 20:30:56",
-      "album": {
         "name": "One More River to Cross",
         "url": "https://open.spotify.com/album/7gb21nwjJJum3M1NoL5NkN"
       },
@@ -1703,18 +1687,34 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
-        "name": "Two Worlds",
-        "url": "https://open.spotify.com/album/3Dk6K6o5C7CYneaR4CWTqM"
+        "name": "My Soul's Demise",
+        "url": "https://open.spotify.com/album/4HaSyezw05cF8ujn3CS2Nz"
       },
       "artists": [
         {
-          "name": "Xandria",
-          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
         }
       ],
-      "duration_ms": 428440,
-      "name": "Two Worlds",
-      "url": "https://open.spotify.com/track/7h2VMgWJQXFRZyv1VqZAPF"
+      "duration_ms": 264981,
+      "name": "My Soul's Demise",
+      "url": "https://open.spotify.com/track/1qdcekW1mcuwc193IutEFu"
+    },
+    {
+      "added_at": "2024-06-24 20:30:56",
+      "album": {
+        "name": "Diamond Claws",
+        "url": "https://open.spotify.com/album/6ABYt8Esd1En0LnDm9iKBx"
+      },
+      "artists": [
+        {
+          "name": "Rhapsody Of Fire",
+          "url": "https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1"
+        }
+      ],
+      "duration_ms": 276552,
+      "name": "Diamond Claws",
+      "url": "https://open.spotify.com/track/1Zd6cxz9jtBEMPjbKHHOIJ"
     }
   ],
   "unique_name": "Epic & Melodic",

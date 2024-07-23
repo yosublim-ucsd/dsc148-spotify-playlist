@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,183 songs - 6 day 15 hr 45 min
+4,184 songs - 6 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,6 +468,7 @@
 | [Bout A Thing](https://open.spotify.com/track/4RIDlA3Zk2a1KMoIG2jiXd) | [Terce S.](https://open.spotify.com/artist/3dUZsndiuWqeatgYQBhkI9), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Bout A Thing](https://open.spotify.com/album/1el6BHwULcWREIY80BhAlf) | 2:00 | 2021-07-04 | 2022-11-20 |
 | [Boxy](https://open.spotify.com/track/6sHepww4kfJDLnIWqkVIqw) | [Keymer](https://open.spotify.com/artist/11KbGk05uR2COLPYEqehU3) | [Tack and Jibe](https://open.spotify.com/album/786IfmtdwjgEj0qobFQpNZ) | 2:51 | 2020-06-09 | 2020-08-08 |
 | [Brainfreeze](https://open.spotify.com/track/62jzXNf48Xn6pGTLyDRF5C) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Brainfreeze](https://open.spotify.com/album/4z2o3zvqt3n5XBqjWzMnrG) | 1:49 | 2021-12-17 | 2021-12-21 |
+| [Brasil Brasil](https://open.spotify.com/track/5HC3SqEvdIAaFhUJUkQ316) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv) | [Brasil Brasil](https://open.spotify.com/album/0odg2PGwJ3gG2r10nQ7S0s) | 1:39 | 2024-07-04 |  |
 | [Brasil Spring Vibes](https://open.spotify.com/track/6PmICVfLLQNIRWK6KojnCN) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT) | [Brasil Spring Vibes](https://open.spotify.com/album/1Axq8W6kU3J50sykCGrkNT) | 1:56 | 2019-05-26\* | 2019-08-13 |
 | [Brasilia](https://open.spotify.com/track/7680VIj8zmkPd3i8En1Xbw) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Maple Syrup](https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr) | [Brasilia](https://open.spotify.com/album/2mE1kaFlMkB68FMIWjWsgN) | 2:54 | 2021-05-15 | 2021-07-02 |
 | [Brass Fiction](https://open.spotify.com/track/5cIHAEFSoWsYAQjadcQl8D) | [Huez](https://open.spotify.com/artist/11nJzHENlaUYrrT9CAd0W9) | [Outskirts](https://open.spotify.com/album/59IZB3rhkw2WhrFJGQ1DNe) | 1:29 | 2019-05-26\* | 2019-10-08 |
@@ -1854,7 +1855,7 @@
 | [Kicks](https://open.spotify.com/track/0vas8HCL32nindp9zooi6H) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz) | [Kicks](https://open.spotify.com/album/3Gb7FclZ5Sl7QsMVzRD5g3) | 2:05 | 2022-10-26 | 2022-12-16 |
 | [Kiesel](https://open.spotify.com/track/55VY62asjYmNGQp350DFts) | [Miramare](https://open.spotify.com/artist/1GobnwKx4ZG8tvfqJxOMXg), [Kinaticc](https://open.spotify.com/artist/4oM78lmVB20DQW6HBT1PF2), [Dezi\-Belle](https://open.spotify.com/artist/7kiiO7qyA1Qe3WXJnc4eCy) | [Kiesel](https://open.spotify.com/album/2lAWUkmd8F89FLRxcimzLM) | 2:47 | 2021-04-09 | 2021-05-28 |
 | [Killing Time](https://open.spotify.com/track/3WgPd7FVAvSxjjfdeS7wj4) | [Malia Løu](https://open.spotify.com/artist/7L101JhKGlktbrpW8DQ3GL) | [Killing Time](https://open.spotify.com/album/6mrxtNyOo55rEMAKJvBO3r) | 2:02 | 2020-09-18 | 2021-03-06 |
-| [kindleflame](https://open.spotify.com/track/5UH63MymNOlBsyx1lSejJx) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [kindleflame](https://open.spotify.com/album/6Y3EzyneGiXc0BNeLgTg1b) | 1:57 | 2023-10-19 |  |
+| [kindleflame](https://open.spotify.com/track/5UH63MymNOlBsyx1lSejJx) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [kindleflame](https://open.spotify.com/album/6Y3EzyneGiXc0BNeLgTg1b) | 1:57 | 2023-10-19 | 2024-07-23 |
 | [Kindness](https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Kindness](https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV) | 2:36 | 2020-01-31 | 2020-05-15 |
 | [King](https://open.spotify.com/track/1WiVsATv1z70mJgRZQlyAk) | [Mayaewk](https://open.spotify.com/artist/20oT5LKCdO5vqCSgZ83OsQ) | [Jubilee](https://open.spotify.com/album/6ns2fLMrPkiI05zMmB0hkI) | 1:45 | 2023-11-23 | 2023-12-02 |
 | [Kinsey](https://open.spotify.com/track/7dQE1LQt4VsuMkUvyTnsEJ) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Kinsey](https://open.spotify.com/album/3uOvcnUMZkGIhE5sfJnWU1) | 1:42 | 2020-06-13 | 2020-10-13 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 
 ### [Easy On Saturday](https://open.spotify.com/playlist/37i9dQZF1DX79N7YUDFu8f)
 
-> Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
+> Lekker rustig aan doen op zaterdag met deze zachte popliedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,742 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,736 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 99 | [October, Halfway July](https://open.spotify.com/track/2eD56lWTL92klRLfmgjP9h) | [A\. Johanson](https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69) | [October, Halfway July](https://open.spotify.com/album/2zQmazQRssxqwdUe198gqn) | 3:22 |
 | 100 | [I'll Hold On](https://open.spotify.com/track/0I5zRkBLsUQWnUfZad8vOA) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [I'll Hold On](https://open.spotify.com/album/0TB1v6bj2mto2rqiYZ6qa4) | 3:12 |
 
-Snapshot ID: `ZpmQYAAAAADMXUeq7QPtkJ4dUKbGusfQ`
+Snapshot ID: `Zp5zzQAAAABDP0OWe48feLKTPedWCldl`

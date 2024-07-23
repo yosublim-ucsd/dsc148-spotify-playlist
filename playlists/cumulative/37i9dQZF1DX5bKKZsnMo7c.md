@@ -4,7 +4,7 @@
 
 > Feeling dramatic? All eyes on you\. Cover: Chappell Roan
 
-376 songs - 20 hr 12 min
+377 songs - 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Amnesia Was Her Name](https://open.spotify.com/track/0ww8jZZtGU70QvYUFmDbqZ) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [View\-Monster](https://open.spotify.com/album/2iKe0QhSWxNuyiUlzmJpTs) | 4:03 | 2022-05-17 | 2022-08-06 |
 | [anarchy](https://open.spotify.com/track/7cxcMgTHKSZ25C0q1i50Dk) | [Egg](https://open.spotify.com/artist/6zQlhM6cyJRrzuqAbB8PlB) | [anarchy](https://open.spotify.com/album/1DCgCD9gO2Z2t2gDS3Inxi) | 2:47 | 2023-05-26 | 2024-01-27 |
 | [anymore](https://open.spotify.com/track/3jf8u2tg0RXdBfgVwA4zoB) | [Abby Izzy](https://open.spotify.com/artist/5VIF6Dh11VwoMYHmR7KA38) | [anymore](https://open.spotify.com/album/3nRGHSO0Oq5cdrzlzPGQD9) | 2:32 | 2023-01-06 | 2023-01-21 |
-| [ANYTHING 4 U](https://open.spotify.com/track/3bfqtvnae2MjD6ONvLIH5H) | [Naethan Apollo](https://open.spotify.com/artist/7iS4CQkDpux3s40py3SqZi) | [ANYTHING 4 U](https://open.spotify.com/album/6pSyEQrFZCPYlmlHI8VP6o) | 2:41 | 2024-02-09 |  |
+| [ANYTHING 4 U](https://open.spotify.com/track/3bfqtvnae2MjD6ONvLIH5H) | [Naethan Apollo](https://open.spotify.com/artist/7iS4CQkDpux3s40py3SqZi) | [ANYTHING 4 U](https://open.spotify.com/album/6pSyEQrFZCPYlmlHI8VP6o) | 2:41 | 2024-02-09 | 2024-07-23 |
 | [Are You Satisfied?](https://open.spotify.com/track/6lKRMylSZMtA7EqPl0pcdI) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/3dWObfa3vKyudzgmh53Xzg) | 3:18 | 2022-05-17 | 2023-05-27 |
 | [Army Dreamers \- 2018 Remaster](https://open.spotify.com/track/5QYUNHT2dQwoNHorXznygN) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH) | 2:59 | 2024-03-19 |  |
 | [Aspartame](https://open.spotify.com/track/18PHtRnlXpXC3A01eOXRdX) | [May Rio](https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w), [Elegant Ensemble](https://open.spotify.com/artist/6Gis2e0EzPH00b2v5OIFxh) | [Elegant Ensemble](https://open.spotify.com/album/5LVsFiW7vbyElF7NBGEZB2) | 3:16 | 2024-05-24 | 2024-07-06 |
@@ -209,6 +209,7 @@
 | [Life on Mars? \- 2015 Remaster](https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 3:55 | 2022-05-17 | 2022-11-26 |
 | [Like or Like Like](https://open.spotify.com/track/1OrD9RkuBnoNrrURFap9wi) | [Miniature Tigers](https://open.spotify.com/artist/7xWU2A2lw1xf4zTjKhkrGK) | [Tell It to the Volcano](https://open.spotify.com/album/7JNBcWEv23JuyxNmDjR8ov) | 2:38 | 2022-10-21 | 2023-01-07 |
 | [Like or Like Like](https://open.spotify.com/track/2laAFvo3q3GIcXX7Ql8OeD) | [Miniature Tigers](https://open.spotify.com/artist/7xWU2A2lw1xf4zTjKhkrGK) | [Tell It to the Volcano](https://open.spotify.com/album/6LVXJslQ2aT7xyIBnDsXXj) | 2:38 | 2022-09-20 | 2022-12-04 |
+| [Little Fortune](https://open.spotify.com/track/6j13TVDdDcgXV9bae3oMYH) | [Katie Lynne Sharbaugh](https://open.spotify.com/artist/7ufoDy3DR2gEi68WTyUGcu) | [Act II](https://open.spotify.com/album/5AH01Vqh1hsvYjgBb9PYa9) | 2:30 | 2024-07-22 |  |
 | [Long Gone](https://open.spotify.com/track/5HcPpRhTGsj9VEIYd3r8a0) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Long Gone](https://open.spotify.com/album/1bAD7LRQyKFCaaBxjLkWte) | 3:36 | 2023-07-21 | 2024-02-15 |
 | [Loser, Baby](https://open.spotify.com/track/6zJjw0iXY0aMBEUyCG1NsA) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Keith David](https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY), [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej) | [Hazbin Hotel \(Original Soundtrack\)](https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq) | 2:55 | 2024-01-22 | 2024-04-19 |
 | [Loser, Baby](https://open.spotify.com/track/7sRz3vO2bEMhZGEkjnfMxb) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Keith David](https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY), [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej) | [Hazbin Hotel Original Soundtrack \(Part 1\)](https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy) | 2:55 | 2024-01-22 |  |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 
 ### [Easy On Monday](https://open.spotify.com/playlist/37i9dQZF1DWYlXpl3xXzDI)
 
-> Lekker rustig aan doen op maandag met deze zachte pop liedjes.
+> Lekker rustig aan doen op maandag met deze zachte popliedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,495 likes - 99 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,529 likes - 99 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 | 98 | [Lost Without You](https://open.spotify.com/track/6fz5mW8Tx9AtOhFGHvMFY2) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Sweet High](https://open.spotify.com/album/7wTtBKjwKLq2heZHDHedWD) | 3:14 |
 | 99 | [Green & Gold](https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK) | 4:38 |
 
-Snapshot ID: `ZXuI8AAAAACTw2EuINa1aTus655OqFBd`
+Snapshot ID: `Zp50DwAAAACiasvJH9eMiI/6aofMWbug`

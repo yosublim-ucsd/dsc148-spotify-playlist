@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-352 songs - 18 hr 15 min
+353 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Fulveri](https://open.spotify.com/track/3UuFC3sajVWwouDMwo7Cjh) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Al Bamania](https://open.spotify.com/artist/4pyPB6M72hmPH7Ec3LGVap), [Kaka Sady](https://open.spotify.com/artist/4MkyBr9fmRHVsOmeyjk3N8) | [Colonial Mindset](https://open.spotify.com/album/3p0Bw5SSaU6CJtRr4CqmJ5) | 3:12 | 2024-06-17 |  |
 | [G\-Yaan](https://open.spotify.com/track/3wGz2eHyWekq06k6LdqYiG) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 2:22 | 2024-03-22 | 2024-07-13 |
 | [GABBAR](https://open.spotify.com/track/1onRB8Y9I8coG52cFeq5oD) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [PUNA](https://open.spotify.com/artist/6xxZ5ygLggYl3EXuzDezvo) | [MERI JAAN PEHLE NAACH](https://open.spotify.com/album/0EjqvUumscGjg4Y12yalkV) | 4:01 | 2024-07-19 |  |
-| [GABBAR](https://open.spotify.com/track/4OBkPKd0iA6GY0oNqhjg6v) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [PUNA](https://open.spotify.com/artist/6xxZ5ygLggYl3EXuzDezvo) | [GABBAR](https://open.spotify.com/album/6kGiUi378xy9rAPZGRzBnu) | 4:01 | 2024-05-31 |  |
+| [GABBAR](https://open.spotify.com/track/4OBkPKd0iA6GY0oNqhjg6v) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [PUNA](https://open.spotify.com/artist/6xxZ5ygLggYl3EXuzDezvo) | [GABBAR](https://open.spotify.com/album/6kGiUi378xy9rAPZGRzBnu) | 4:01 | 2024-05-31 | 2024-07-23 |
 | [Gang](https://open.spotify.com/track/7t7osq9vb9bQG5iN5J9WHx) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Stunnah Beatz](https://open.spotify.com/artist/0qtrkagnaYxnByLorZ1dzl) | [Gang](https://open.spotify.com/album/5Gn8zttLWDIDP1sRjij8np) | 2:50 | 2023-08-04 | 2023-12-14 |
 | [GANGNUM](https://open.spotify.com/track/5jjF4AbQaA7mTZyGjK5aLo) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 2:50 | 2023-03-29 | 2023-04-17 |
 | [Gangster Shit 1st](https://open.spotify.com/track/78WyKftS4YtbhbnQGwAMMi) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Gangster Shit 1st](https://open.spotify.com/album/2EASVa2mSXZs7KERC2D8zp) | 5:21 | 2024-05-22 | 2024-06-08 |
@@ -356,6 +356,7 @@
 | [Woh Raat](https://open.spotify.com/track/27xsLWmSmEAiXABnOngOw7) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Woh Raat](https://open.spotify.com/album/7MKr5NF5sZUWjheSa1NXFf) | 3:12 | 2023-11-17 | 2024-07-13 |
 | [Wonder Boy](https://open.spotify.com/track/1STXHYKdLdiP56YOQjT2i3) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [Rohit Gaira](https://open.spotify.com/artist/67DKne1v7QUTa1TpkrnjQZ) | [Wonder Boy](https://open.spotify.com/album/4z1pi3K7ULGne7CJ2202Td) | 3:23 | 2023-08-19 | 2024-06-25 |
 | [WZKD](https://open.spotify.com/track/3Gu3YTvfmGfNMNiI6FeTl2) | [Yunan](https://open.spotify.com/artist/6gIUB3nYX67IbwUi2bcrUJ), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [WZKD](https://open.spotify.com/album/6fk68vB0oWyDoyTPW7Z0Gk) | 3:03 | 2023-06-19 | 2023-11-09 |
+| [Yaari Hai Imaan x Yaaron Wali Baat](https://open.spotify.com/track/5QngU7tqU1TuJkPF0GN4kx) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Manna Dey](https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU) | [Yaari Hai Imaan x Yaaron Wali Baat](https://open.spotify.com/album/4NGy4ScfsNZoM8qrhzODFk) | 2:39 | 2024-07-22 |  |
 | [You Know The Drill](https://open.spotify.com/track/0PZT2VMwK3qGF9tp0xYAbz) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Ellde Fazilka](https://open.spotify.com/artist/29VMPclNqVgvAfLV5QCpMj) | [You Know The Drill](https://open.spotify.com/album/5SecXwBQSy1AalOteM4hRn) | 3:00 | 2023-03-29 | 2023-04-17 |
 | [Young 4EVER](https://open.spotify.com/track/06v9NnS6OVA77FjCFFvLHc) | [Ab 17](https://open.spotify.com/artist/6WZbxCOTFeEqJHpcZYgDiG), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Mr\. Baawe](https://open.spotify.com/album/1vOTWQkwc01nGARFmA3fKO) | 2:21 | 2024-06-28 | 2024-07-13 |
 | [Young King](https://open.spotify.com/track/3DNBXEXQSU18Ufq0IqboF7) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [DEB](https://open.spotify.com/artist/1kRqyOs7RYeov3V6b9T86c) | [Young King](https://open.spotify.com/album/101INuhkIfoZ6pXtqiwJ8J) | 2:32 | 2023-08-11 | 2023-10-10 |

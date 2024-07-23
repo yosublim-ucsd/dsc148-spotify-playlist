@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-541 songs - 22 hr 23 min
+542 songs - 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Chet's Dip Cuts](https://open.spotify.com/track/31SKs7K6vBqP83AaQ578pn) | [Kavv](https://open.spotify.com/artist/2s9AUbN500rutTnXy78HzE) | [Chet's Dip Cuts](https://open.spotify.com/album/0ii1o8MN8EHstHRmU2nJHP) | 1:27 | 2020-06-19 | 2021-10-29 |
 | [chill oil](https://open.spotify.com/track/3zitR68UQPvSJXhj0VhVKB) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [chill oil](https://open.spotify.com/album/1EBszIXQGrExYYVJl0UaYV) | 2:35 | 2023-03-09 | 2023-11-25 |
 | [ChunkySoul!!!](https://open.spotify.com/track/1tsSV0cI3Qc5WhZqNYCruu) | [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [Zion II](https://open.spotify.com/album/5fnXMRZFd0SkPitan6pLu4) | 2:03 | 2019-05-26\* | 2020-01-14 |
-| [City Strollin'](https://open.spotify.com/track/0DZyMqCAMr4LALQKA1QizL) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Nocatchphraze](https://open.spotify.com/artist/4efXbuujGTBlH1mfRkvnpJ), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [City Strollin'](https://open.spotify.com/album/2AV89a2bJw3pjTpfCa3hg4) | 3:18 | 2021-10-30 |  |
+| [City Strollin'](https://open.spotify.com/track/0DZyMqCAMr4LALQKA1QizL) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Nocatchphraze](https://open.spotify.com/artist/4efXbuujGTBlH1mfRkvnpJ), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [City Strollin'](https://open.spotify.com/album/2AV89a2bJw3pjTpfCa3hg4) | 3:18 | 2021-10-30 | 2024-07-23 |
 | [Cloud Walking](https://open.spotify.com/track/1A2KuZ3ojY7MdfZrkecxiY) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF), [Homage](https://open.spotify.com/artist/0Nax9ohdb2ezDUpPmT3iMz) | [Collabs, Vol 2](https://open.spotify.com/album/4xN8ZoRTp9aE1mu61uO1oe) | 1:58 | 2020-06-19 | 2022-04-20 |
 | [Cloud9](https://open.spotify.com/track/1guVDJWyU2q5BGIaos8jZ2) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [Cloud9](https://open.spotify.com/album/5if4TAmZGtsuUpyIqRludq) | 2:06 | 2023-03-23 |  |
 | [Clout Chaser](https://open.spotify.com/track/6pnQl5hBvh6gaG3nfs5UN5) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u), [Tempura](https://open.spotify.com/artist/3WLUyDqIO1ihcIgNzIu6ZB) | [Clout Chaser](https://open.spotify.com/album/6K53BqCNrtbrdYT4C39XzI) | 1:52 | 2023-04-27 | 2024-02-15 |
@@ -546,6 +546,7 @@
 | [YOU](https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [AYG](https://open.spotify.com/artist/7w9gDceqJGG2K8XBAiDhZu) | [YOU](https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug) | 2:40 | 2022-04-07 | 2024-06-02 |
 | [You and I](https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm) | [MANTIS](https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa) | [GeGe E.P.](https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX) | 3:32 | 2023-08-31 | 2023-10-10 |
 | [zen](https://open.spotify.com/track/5jpqTv9D0BFsaYa0SkMbNx) | [TANGDEN](https://open.spotify.com/artist/2eaGOP1phNaqh5XcjFMjOi), [OONOO](https://open.spotify.com/artist/3N0ZLLAp4RBTBt2zMlRUiw), [botanik](https://open.spotify.com/artist/0KvCRbWbiJwKJWTYGrKi81) | [zen](https://open.spotify.com/album/4BF3jUWMuRqxlqp9ZCRaVx) | 2:37 | 2024-06-14 |  |
+| [zero](https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [zero](https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz) | 2:27 | 2024-07-18 |  |
 | [Zimzilla](https://open.spotify.com/track/5KBh3fUwv6xrDFO6wZzmFI) | [Mad Q](https://open.spotify.com/artist/7IxHBmCE0jN2vhoLKQSZR6) | [Zimzilla](https://open.spotify.com/album/5LVHMBwC8BMucytnEejcTj) | 3:28 | 2019-05-26\* | 2019-08-13 |
 | [夜桜](https://open.spotify.com/track/5p0XdPnjJGBe3939Ythxil) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [夜桜](https://open.spotify.com/album/0sZamxxWUgGiRSDf98w8KE) | 2:06 | 2022-04-07 | 2022-07-28 |
 | [夢の中](https://open.spotify.com/track/50cJTPKCH0CyEgsUgv53Ny) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [夢の中](https://open.spotify.com/album/4fULEvayFtLR24G9VDWvCb) | 2:39 | 2021-12-10 | 2022-07-29 |

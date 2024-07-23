@@ -1,6 +1,6 @@
 {
   "description": "\u305f\u3063\u305f\u72ec\u308a\u3067\u30e1\u30ed\u30c7\u30a3\u30fc\u3068\u8a00\u8449\u3092\u7d21\u3050\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3002Cover: Tele",
-  "num_followers": 54982,
+  "num_followers": 55014,
   "original_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "owner": {
     "name": "Spotify",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-07-16 15:00:00",
       "album": {
-        "name": "\u5168\u65b9\u5411\u7f8e\u5c11\u5973",
-        "url": "https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl"
+        "name": "\u30d9\u30ac\u3068\u30a2\u30eb\u30bf\u30a4\u30eb",
+        "url": "https://open.spotify.com/album/005VNX1PTHOlstwc3STv09"
       },
       "artists": [
         {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+          "name": "\u97f3\u7530 \u96c5\u5247",
+          "url": "https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo"
         }
       ],
-      "duration_ms": 127925,
-      "name": "\u5168\u65b9\u5411\u7f8e\u5c11\u5973",
-      "url": "https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS"
+      "duration_ms": 235242,
+      "name": "\u30d9\u30ac\u3068\u30a2\u30eb\u30bf\u30a4\u30eb",
+      "url": "https://open.spotify.com/track/7M9E7w9tskTz1Bf2VrNfKy"
     },
     {
       "added_at": "2024-07-16 15:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-07-16 15:00:00",
       "album": {
+        "name": "\u5168\u65b9\u5411\u7f8e\u5c11\u5973",
+        "url": "https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "duration_ms": 127925,
+      "name": "\u5168\u65b9\u5411\u7f8e\u5c11\u5973",
+      "url": "https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS"
+    },
+    {
+      "added_at": "2024-07-16 15:00:00",
+      "album": {
         "name": "\u305a\u3046\u3063\u3068\u3044\u3063\u3057\u3087\uff01",
         "url": "https://open.spotify.com/album/0WcvYEwpmtLdlNsRNVeLU4"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 184500,
       "name": "\u305a\u3046\u3063\u3068\u3044\u3063\u3057\u3087\uff01",
       "url": "https://open.spotify.com/track/291j3B0q0RBJ15y3TRTzA5"
-    },
-    {
-      "added_at": "2024-07-16 15:00:00",
-      "album": {
-        "name": "\u30d9\u30ac\u3068\u30a2\u30eb\u30bf\u30a4\u30eb",
-        "url": "https://open.spotify.com/album/005VNX1PTHOlstwc3STv09"
-      },
-      "artists": [
-        {
-          "name": "\u97f3\u7530 \u96c5\u5247",
-          "url": "https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo"
-        }
-      ],
-      "duration_ms": 235242,
-      "name": "\u30d9\u30ac\u3068\u30a2\u30eb\u30bf\u30a4\u30eb",
-      "url": "https://open.spotify.com/track/7M9E7w9tskTz1Bf2VrNfKy"
     },
     {
       "added_at": "2024-07-16 15:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-07-16 15:00:00",
       "album": {
-        "name": "\u30cf\u30fc\u30c8",
-        "url": "https://open.spotify.com/album/2TMrGnNWnF1GgUwRY427zk"
-      },
-      "artists": [
-        {
-          "name": "Aimyon",
-          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
-        }
-      ],
-      "duration_ms": 271280,
-      "name": "\u30cf\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/6cvKfEw8rDcmXBslqSEC9G"
-    },
-    {
-      "added_at": "2024-07-16 15:00:00",
-      "album": {
         "name": "\u30b9\u30a4\u30fc\u30c8\u30e1\u30e2\u30ea\u30fc",
         "url": "https://open.spotify.com/album/5Zxr5RKkTWrkrMmSULCNQD"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 199186,
       "name": "\u30b9\u30a4\u30fc\u30c8\u30e1\u30e2\u30ea\u30fc",
       "url": "https://open.spotify.com/track/1ogO3SlbAhuba46ecZ05v8"
+    },
+    {
+      "added_at": "2024-07-16 15:00:00",
+      "album": {
+        "name": "\u30cf\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/2TMrGnNWnF1GgUwRY427zk"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "duration_ms": 271280,
+      "name": "\u30cf\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/6cvKfEw8rDcmXBslqSEC9G"
     },
     {
       "added_at": "2024-07-16 15:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-07-16 15:00:00",
       "album": {
-        "name": "BANDAGE",
-        "url": "https://open.spotify.com/album/6n2pGYbSxV3RtXgJHcqMxz"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 188700,
-      "name": "BANDAGE",
-      "url": "https://open.spotify.com/track/14A4jC5UJzjqr8nWW5jFqe"
-    },
-    {
-      "added_at": "2024-07-16 15:00:00",
-      "album": {
         "name": "\u5b9d\u8005",
         "url": "https://open.spotify.com/album/4urlo8qlVk7bwSKlwcDIc2"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 257413,
       "name": "\u5b9d\u8005",
       "url": "https://open.spotify.com/track/1htuhBLEvnY2s2k9juFQJG"
+    },
+    {
+      "added_at": "2024-07-16 15:00:00",
+      "album": {
+        "name": "BANDAGE",
+        "url": "https://open.spotify.com/album/6n2pGYbSxV3RtXgJHcqMxz"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 188700,
+      "name": "BANDAGE",
+      "url": "https://open.spotify.com/track/14A4jC5UJzjqr8nWW5jFqe"
     },
     {
       "added_at": "2024-07-16 15:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-07-16 15:00:00",
       "album": {
-        "name": "A8\u756a\u51fa\u53e3",
-        "url": "https://open.spotify.com/album/1GqgKYbjOxhU8TtzsUsQHl"
-      },
-      "artists": [
-        {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
-        }
-      ],
-      "duration_ms": 215748,
-      "name": "A8\u756a\u51fa\u53e3",
-      "url": "https://open.spotify.com/track/0i9q3Cw9GwnvuSQltZRTYx"
-    },
-    {
-      "added_at": "2024-07-16 15:00:00",
-      "album": {
         "name": "SF\u6771\u4eac",
         "url": "https://open.spotify.com/album/3tFtbRkAUERFNH9qlM5CZT"
       },
@@ -1311,18 +1295,34 @@
     {
       "added_at": "2024-07-16 15:00:00",
       "album": {
-        "name": "\u7d3a\u8272\u306b\u61a7\u308c\u3066",
-        "url": "https://open.spotify.com/album/0pamS1zgtw84s4qocKynlk"
+        "name": "A8\u756a\u51fa\u53e3",
+        "url": "https://open.spotify.com/album/1GqgKYbjOxhU8TtzsUsQHl"
       },
       "artists": [
         {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
         }
       ],
-      "duration_ms": 242010,
-      "name": "\u7d3a\u8272\u306b\u61a7\u308c\u3066",
-      "url": "https://open.spotify.com/track/0uNELWoVBRVsmeeGjNgGfc"
+      "duration_ms": 215748,
+      "name": "A8\u756a\u51fa\u53e3",
+      "url": "https://open.spotify.com/track/0i9q3Cw9GwnvuSQltZRTYx"
+    },
+    {
+      "added_at": "2024-07-16 15:00:00",
+      "album": {
+        "name": "\u3042\u308f\u3044\u306b",
+        "url": "https://open.spotify.com/album/5SCavhtaz95mQ9mdaMDSRi"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "duration_ms": 201471,
+      "name": "\u3042\u308f\u3044\u306b",
+      "url": "https://open.spotify.com/track/1frzEIThDJKzds4I7aPP95"
     },
     {
       "added_at": "2024-07-16 15:00:00",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2024-07-16 15:00:00",
       "album": {
-        "name": "\u3042\u308f\u3044\u306b",
-        "url": "https://open.spotify.com/album/5SCavhtaz95mQ9mdaMDSRi"
+        "name": "\u7d3a\u8272\u306b\u61a7\u308c\u3066",
+        "url": "https://open.spotify.com/album/0pamS1zgtw84s4qocKynlk"
       },
       "artists": [
         {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
         }
       ],
-      "duration_ms": 201471,
-      "name": "\u3042\u308f\u3044\u306b",
-      "url": "https://open.spotify.com/track/1frzEIThDJKzds4I7aPP95"
+      "duration_ms": 242010,
+      "name": "\u7d3a\u8272\u306b\u61a7\u308c\u3066",
+      "url": "https://open.spotify.com/track/0uNELWoVBRVsmeeGjNgGfc"
     },
     {
       "added_at": "2024-07-16 15:00:00",

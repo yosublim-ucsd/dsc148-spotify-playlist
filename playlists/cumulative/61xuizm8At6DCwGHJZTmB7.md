@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2024 \| The latest and greatest of today's best Worship music\. Featuring artist's such as Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-477 songs - 1 day 22 hr 29 min
+478 songs - 1 day 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,6 +391,7 @@
 | [Steady Love](https://open.spotify.com/track/1RO3hZt6FlYBLK40UxFwax) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Jessie\-Rose Rayner](https://open.spotify.com/artist/3fQGORRT8xvQCPMniaGgEU) | [Steady Love](https://open.spotify.com/album/5spOPiSus1L36TXEUkLwzo) | 4:51 | 2024-05-10 |  |
 | [Still God \- Live](https://open.spotify.com/track/6CY4YjEDsar3g1BLRkIwKK) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Peace: The Album \(Deluxe\)](https://open.spotify.com/album/6arAbdsYCdQZqMYHEzIQ9W) | 7:15 | 2022-02-17 | 2022-03-16 |
 | [Stories On Stories](https://open.spotify.com/track/5ZHHtf1eZs6d6OcvYuTzk9) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Stories On Stories](https://open.spotify.com/album/11x6snME6Sa5BG8aEIzEBr) | 4:00 | 2023-12-01 |  |
+| [Story So Precious \- Live](https://open.spotify.com/track/6nxl2P4dUKwNQSlpIbo9wP) | [Elyssa Figueroa](https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc) | [Story So Precious \(Live\)](https://open.spotify.com/album/1tMEMJdmqWqag3Ixaeb058) | 5:35 | 2024-07-22 |  |
 | [Story To Tell \- Live](https://open.spotify.com/track/1Qr7BpvN96a9bEqSsaIM6d) | [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo), [Women Who Worship](https://open.spotify.com/artist/7JHvic6eP3yMrUCrRFtdbp) | [Story To Tell \(Live\)](https://open.spotify.com/album/13ZEtf9IwtKQ4st3m96GD9) | 3:58 | 2023-12-01 | 2024-04-19 |
 | [Sure Thing](https://open.spotify.com/track/4X44EQ7MFjs0aXSydakBQr) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Sure Thing](https://open.spotify.com/album/5VbdE3Lxdzna1g8CG6lBX7) | 5:48 | 2022-02-17 | 2022-04-02 |
 | [Surely](https://open.spotify.com/track/2nwo4mImDCcyD0B7ii7tbq) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK), [Michael Monroe](https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv) | [Surely](https://open.spotify.com/album/6cqF6nUlnRGArypZzu0gWC) | 4:30 | 2024-04-26 |  |

@@ -2,7 +2,7 @@
 
 ### [Easy On Sunday](https://open.spotify.com/playlist/37i9dQZF1DWZpGSuzrdTXg)
 
-> Lekker rustig aan doen op zondag met deze zachte pop liedjes.
+> Lekker rustig aan doen op zondag met deze zachte popliedjes.
 
 191 songs - 10 hr 56 min
 

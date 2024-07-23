@@ -563,6 +563,28 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Desisto",
+        "url": "https://open.spotify.com/album/1y16WYWXU9osg7dSAXViWl"
+      },
+      "artists": [
+        {
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299788,
+      "name": "N\u00e3o Desisto",
+      "url": "https://open.spotify.com/track/0PzxVp7nECCO36Nl355Dnt"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Haver\u00e1 Vergonha",
         "url": "https://open.spotify.com/album/5JHnsAUQlOUH88A4bg2LRX"
       },
@@ -686,7 +708,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 413000,
       "name": "O Nome de Jesus (The Name Of Our God)",
       "url": "https://open.spotify.com/track/7xfxErLZXui34OxxUthzjU"

@@ -1,6 +1,6 @@
 {
   "description": "The best Blues for a long trip behind the wheel. ",
-  "num_followers": 44273,
+  "num_followers": 44318,
   "original_name": "Blues Road Trip",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "On The Boards",
-        "url": "https://open.spotify.com/album/6UP7rSugk9wAcMYnqZ6Ti8"
-      },
-      "artists": [
-        {
-          "name": "Taste",
-          "url": "https://open.spotify.com/artist/4Se7TFuKKQVCzttyri6bg3"
-        }
-      ],
-      "duration_ms": 216426,
-      "name": "Railway And Gun",
-      "url": "https://open.spotify.com/track/0T7D44xh8oCPLYDfi8HIo7"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "Tons Of Sobs",
         "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 254746,
       "name": "The Hunter",
       "url": "https://open.spotify.com/track/6zFFYdst2u4PIKykSU7HOT"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "On The Boards",
+        "url": "https://open.spotify.com/album/6UP7rSugk9wAcMYnqZ6Ti8"
+      },
+      "artists": [
+        {
+          "name": "Taste",
+          "url": "https://open.spotify.com/artist/4Se7TFuKKQVCzttyri6bg3"
+        }
+      ],
+      "duration_ms": 216426,
+      "name": "Railway And Gun",
+      "url": "https://open.spotify.com/track/0T7D44xh8oCPLYDfi8HIo7"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Goin' To Chicago",
-        "url": "https://open.spotify.com/album/4p5MlG351OaQac8CRZsF3K"
-      },
-      "artists": [
-        {
-          "name": "Billy Boy Arnold",
-          "url": "https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o"
-        }
-      ],
-      "duration_ms": 154786,
-      "name": "Left My Happy Home",
-      "url": "https://open.spotify.com/track/7j8M2LKnaM5onc0XtcGotq"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "Beck, Bogert, Appice",
         "url": "https://open.spotify.com/album/6FJqfog8O3e8gypdDlsCvz"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 217640,
       "name": "Tom Cat",
       "url": "https://open.spotify.com/track/1UHa7agK1kxbcyHLNQ8gTM"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Goin' To Chicago",
+        "url": "https://open.spotify.com/album/4p5MlG351OaQac8CRZsF3K"
+      },
+      "artists": [
+        {
+          "name": "Billy Boy Arnold",
+          "url": "https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o"
+        }
+      ],
+      "duration_ms": 154786,
+      "name": "Left My Happy Home",
+      "url": "https://open.spotify.com/track/7j8M2LKnaM5onc0XtcGotq"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Blues For Greeny",
-        "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 126773,
-      "name": "Long Grey Mare",
-      "url": "https://open.spotify.com/track/2qVOcQMtxjrY8WHPkygyGc"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "Whiskey & Wimmen: John Lee Hooker's Finest",
         "url": "https://open.spotify.com/album/2IREyf1bkFTWuZMCayQ5V7"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 137920,
       "name": "Big Legs, Tight Skirt",
       "url": "https://open.spotify.com/track/1RjsFNsXnkFETdkLNRpAg0"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Blues For Greeny",
+        "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 126773,
+      "name": "Long Grey Mare",
+      "url": "https://open.spotify.com/track/2qVOcQMtxjrY8WHPkygyGc"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "BD Music & Toppi Present the Blues",
-        "url": "https://open.spotify.com/album/1f3irUajLCbRpZhS4aZvae"
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
       },
       "artists": [
         {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
         }
       ],
-      "duration_ms": 131946,
-      "name": "Confessin' the Blues",
-      "url": "https://open.spotify.com/track/1jITXDhtm0vwjyeY3bLVN3"
+      "duration_ms": 166506,
+      "name": "Early One Morning",
+      "url": "https://open.spotify.com/track/6mUSXLiUA398z4cpcRp7a5"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
-        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
+        "name": "BD Music & Toppi Present the Blues",
+        "url": "https://open.spotify.com/album/1f3irUajLCbRpZhS4aZvae"
       },
       "artists": [
         {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 166506,
-      "name": "Early One Morning",
-      "url": "https://open.spotify.com/track/6mUSXLiUA398z4cpcRp7a5"
+      "duration_ms": 131946,
+      "name": "Confessin' the Blues",
+      "url": "https://open.spotify.com/track/1jITXDhtm0vwjyeY3bLVN3"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Calrence 'Gatemouth' Brown Sings Louis Jordan (The Definitive Black & Blue Sessions)",
-        "url": "https://open.spotify.com/album/4aLFUkBJDpD76HZ1KDHckx"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 250906,
-      "name": "Choo Choo Ch'Boogie",
-      "url": "https://open.spotify.com/track/6F8zjuHkDML7rltzx7wvgK"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "Basic Soul",
         "url": "https://open.spotify.com/album/5WRNrna2YPWvQtfgCVU7Of"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 232226,
       "name": "Uh Huh My Baby",
       "url": "https://open.spotify.com/track/1smUyCwjopLiEnkyzypWOW"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Calrence 'Gatemouth' Brown Sings Louis Jordan (The Definitive Black & Blue Sessions)",
+        "url": "https://open.spotify.com/album/4aLFUkBJDpD76HZ1KDHckx"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 250906,
+      "name": "Choo Choo Ch'Boogie",
+      "url": "https://open.spotify.com/track/6F8zjuHkDML7rltzx7wvgK"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Retrospective 1957-62",
-        "url": "https://open.spotify.com/album/6uWHkVI2uh6Dg2xvvZCwTe"
-      },
-      "artists": [
-        {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
-        }
-      ],
-      "duration_ms": 133866,
-      "name": "Don't Start Cryin' Now",
-      "url": "https://open.spotify.com/track/4ElJ84z6n86sNxbRpOrnMp"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "The Complete Blue Horizon Sessions",
         "url": "https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 266413,
       "name": "The Letter",
       "url": "https://open.spotify.com/track/4cCSqQBd2b6Uu0ErT4zXvd"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Retrospective 1957-62",
+        "url": "https://open.spotify.com/album/6uWHkVI2uh6Dg2xvvZCwTe"
+      },
+      "artists": [
+        {
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+        }
+      ],
+      "duration_ms": 133866,
+      "name": "Don't Start Cryin' Now",
+      "url": "https://open.spotify.com/track/4ElJ84z6n86sNxbRpOrnMp"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
+        "name": "The Complete Blue Horizon Sessions",
+        "url": "https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur"
+      },
+      "artists": [
+        {
+          "name": "Chicken Shack",
+          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
+        }
+      ],
+      "duration_ms": 181640,
+      "name": "Lonesome Whistle Blues",
+      "url": "https://open.spotify.com/track/6FlElscpn0N3PwA2RVFbG2"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
         "name": "The Blues Ain't Nothin' (Recorded in France 1971-1973)",
         "url": "https://open.spotify.com/album/3KTnRBMogesNlMGkx4Axb1"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 123324,
       "name": "(He Said Yeah) Baby, You\u00b4re the One",
       "url": "https://open.spotify.com/track/3OHvbRM4MoyvN3RJpN015b"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
-        "name": "The Complete Blue Horizon Sessions",
-        "url": "https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur"
-      },
-      "artists": [
-        {
-          "name": "Chicken Shack",
-          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
-        }
-      ],
-      "duration_ms": 181640,
-      "name": "Lonesome Whistle Blues",
-      "url": "https://open.spotify.com/track/6FlElscpn0N3PwA2RVFbG2"
     },
     {
       "added_at": "2024-05-29 07:10:09",

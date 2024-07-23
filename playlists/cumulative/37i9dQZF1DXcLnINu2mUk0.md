@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Nenny
 
-628 songs - 1 day 9 hr 28 min
+629 songs - 1 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [In The Middle](https://open.spotify.com/track/3IQQGIHWNK1ryHqoMtqUZg) | [SFISTIKATED](https://open.spotify.com/artist/2LkUD32emCfDhhfldggZ9T), [Rezar](https://open.spotify.com/artist/0KwVGVN1bZfDNQVOySxjsk) | [In The Middle](https://open.spotify.com/album/6etc4KshHLH0RaeZrr0Vgi) | 3:37 | 2023-03-01 | 2023-03-25 |
 | [Incondicional](https://open.spotify.com/track/6lPmN0eGKHfOBWtg1j3POy) | [Eva Rapdiva](https://open.spotify.com/artist/3aS15wWCmzXkFRIvbu2KUd), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Incondicional](https://open.spotify.com/album/2P0qrKBUGVHvzvZLcParmC) | 3:25 | 2023-11-17 | 2023-12-15 |
 | [Interfeer](https://open.spotify.com/track/0Sc0LtMt22xo48C8YiojYk) | [Chá Black](https://open.spotify.com/artist/3tiL6mQyAaxxHVa8lMudaI), [Rikas](https://open.spotify.com/artist/4Vfwk2pzV3ppLQ93PtT54a), [MasterPiece](https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L) | [Interfeer](https://open.spotify.com/album/20HDAlAV4WyhRQ8JmgwwvB) | 3:42 | 2023-09-14 | 2023-10-06 |
-| [INÍCIO](https://open.spotify.com/track/0pWS7S3UEkh2zGcNyB2p28) | [ZARCO](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf) | [INÍCIO](https://open.spotify.com/album/2cYblQu0jTbi8qv71eaoBD) | 3:25 | 2024-04-18 |  |
+| [INÍCIO](https://open.spotify.com/track/0pWS7S3UEkh2zGcNyB2p28) | [ZARCO](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf) | [INÍCIO](https://open.spotify.com/album/2cYblQu0jTbi8qv71eaoBD) | 3:25 | 2024-04-18 | 2024-07-23 |
 | [jingle.tm \- remix](https://open.spotify.com/track/4mXY3BEmpSxceP5bsT9JI5) | [PTM](https://open.spotify.com/artist/0wqRH0NmahVaDoeCXRlEuP), [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [jingle.tm](https://open.spotify.com/album/5TTL9OOjczMupeEm3u2yM4) | 3:02 | 2024-04-25 |  |
 | [Jorge Mundo](https://open.spotify.com/track/249u6O2uBVavumgxEpQyWN) | [Reyz](https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl) | [Jorge Mundo](https://open.spotify.com/album/2jtgdgFSqKMJX2AuBIXnYA) | 3:27 | 2022-08-18 | 2022-09-02 |
 | [Jura](https://open.spotify.com/track/23GXQ3JzXWx72SM6eZP1B8) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [Jura](https://open.spotify.com/album/7ckkZsKrcK4fegh5MhbDif) | 2:52 | 2023-08-03 | 2023-09-15 |
@@ -431,6 +431,7 @@
 | [PARA SEMPRE](https://open.spotify.com/track/1iGHa37wh2nlr4upmazMdS) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [PARA SEMPRE](https://open.spotify.com/album/7rsjtUS9ofrZ9VTeIzpbtm) | 2:32 | 2023-03-01 | 2023-03-25 |
 | [Paralyzed.](https://open.spotify.com/track/02DGElKTTgmjelTjCPIPW5) | [zozyy!](https://open.spotify.com/artist/0ZaZIdgE7KOclOmuPzYJYR) | [Paralyzed.](https://open.spotify.com/album/4Tx03iHA9H5vxY2ZwSjTR5) | 2:12 | 2022-11-11 | 2022-12-02 |
 | [Parque](https://open.spotify.com/track/1VWBwCl2jdElZfRuwqjP5c) | [Mike Flowers](https://open.spotify.com/artist/4fwKbNGSZ5NNI7Tc6DAuOE) | [Parque](https://open.spotify.com/album/3z2cKr6G3oX1ssqFjgTsLb) | 2:21 | 2023-06-22 | 2023-07-14 |
+| [Partimento](https://open.spotify.com/track/2YEA1CW7n1Aa60AU2Vp9gM) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw) | [Partimento](https://open.spotify.com/album/4BpbosuLKEhM0UTvKHcAF7) | 1:53 | 2024-07-18 |  |
 | [Party](https://open.spotify.com/track/40jZDYCY0sTWYKWiB9sEZc) | [Octávio Cabuata](https://open.spotify.com/artist/1ic894GVX50YRMFUpuHrTQ), [Tennaz](https://open.spotify.com/artist/4rRsJzI4T5Q7LhNDUVAXmN) | [Party](https://open.spotify.com/album/4DGHUpkVXKS8O4bukjK46Y) | 2:42 | 2022-08-18 | 2022-09-09 |
 | [Party All Night](https://open.spotify.com/track/3L3zc4oIMB1iSj0xS2kLq0) | [Vinagre](https://open.spotify.com/artist/0Vbmq52b8v3fCMlWxzmxd5) | [Party All Night](https://open.spotify.com/album/7kptxnxfhnvZH5X6ViSxqS) | 3:12 | 2024-03-08 | 2024-04-05 |
 | [Party Hard](https://open.spotify.com/track/3x1lrn6EKBSM6yRXQwgzQX) | [Cali John](https://open.spotify.com/artist/44LkKBh5Gk5KLl2C7jIl7I), [Dj Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY) | [Party Hard](https://open.spotify.com/album/4UNhQRsBuhMbw5dL2C62Eo) | 3:36 | 2022-07-07 | 2022-08-05 |

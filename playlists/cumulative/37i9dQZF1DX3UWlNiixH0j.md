@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: トクマルシューゴ \(Shugo Tokumaru\)
 
-1,761 songs - 4 day 13 hr 28 min
+1,762 songs - 4 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -866,7 +866,7 @@
 | [SHOZEN](https://open.spotify.com/track/016rLtnTe7IChoF8f0l0Nu) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [SHOZEN](https://open.spotify.com/album/6FEJoTviFUPHucUfGgbJT9) | 3:43 | 2023-12-05 | 2024-03-06 |
 | [Shunrai](https://open.spotify.com/track/6QIyB1933cJ6VBt50bzidT) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 3:39 | 2023-03-30 | 2023-04-05 |
 | [Side Step](https://open.spotify.com/track/1te3NRWiAyRzowFqMrrLw0) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Side Step](https://open.spotify.com/album/6TvvtkYhB2KIFvPeXMTTE6) | 3:28 | 2024-02-20 | 2024-03-13 |
-| [Side Step](https://open.spotify.com/track/386pH7tdgWOUkvAEija9eK) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Your Favorite Things](https://open.spotify.com/album/45w2uu1ElL5z9NCTJ9Sf8e) | 3:28 | 2024-03-12 |  |
+| [Side Step](https://open.spotify.com/track/386pH7tdgWOUkvAEija9eK) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Your Favorite Things](https://open.spotify.com/album/45w2uu1ElL5z9NCTJ9Sf8e) | 3:28 | 2024-03-12 | 2024-07-23 |
 | [Siesta](https://open.spotify.com/track/74J0ffff6Hp3fYCkp3ceKW) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Siesta](https://open.spotify.com/album/4q5mMGjlcMUUhlGd4RWDp3) | 3:11 | 2023-04-25 | 2023-05-10 |
 | [Signal](https://open.spotify.com/track/0RWAEbEcbu53uJjGEykgOi) | [藤本夏樹](https://open.spotify.com/artist/0l14yZqsqEyTqqaR7tz4iz) | [RANDOM](https://open.spotify.com/album/4S7xvdrtOQqUFMd9Clwksr) | 5:07 | 2023-08-08 | 2023-08-23 |
 | [sinister](https://open.spotify.com/track/7tR03ofElFzll0dVIgnIAm) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [sinister](https://open.spotify.com/album/2sYMWQ3gsmhz8waGwYpGCq) | 3:38 | 2023-04-11 | 2024-01-09 |
@@ -1033,6 +1033,7 @@
 | [Tokyu Toyoko Daisakusen](https://open.spotify.com/track/68wAqWiyj85aviRpQXcAHl) | [Joe Takizawa](https://open.spotify.com/artist/6ryDJqLYmpLpe2BQ4ZkYWk) | [Tokyu Toyoko Daisakusen](https://open.spotify.com/album/6eg8EEjiT2Q4u1TcJyBON4) | 6:26 | 2024-01-16 | 2024-01-24 |
 | [TOMORROW](https://open.spotify.com/track/0CtLaqaOEcCcnrd4SMyRO6) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [TOMORROW](https://open.spotify.com/album/3OzVRrt3RvNApAx0zsiihO) | 3:11 | 2023-01-12 | 2023-02-22 |
 | [Tonight](https://open.spotify.com/track/6xHQ5Pzxoor8cjQjKgcevB) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Tonight](https://open.spotify.com/album/0IMYcOMmlYhL0QFBekAHdX) | 3:33 | 2023-05-23 | 2023-06-07 |
+| [TOO COLD?](https://open.spotify.com/track/6Cj22QRXoeHrJIVE83F2bR) | [ティンペッツ](https://open.spotify.com/artist/75uba7u8cg297V1nx7HGh1) | [TOO COLD?](https://open.spotify.com/album/3kaxPX3SdnQM0k1sfaho1e) | 3:37 | 2024-07-16 |  |
 | [Too dry to die](https://open.spotify.com/track/06PwDDJ5QSf53DBEX7PuzT) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [Too dry to die](https://open.spotify.com/album/26NOGqdDjsSnXRYNWIsOwN) | 3:58 | 2023-01-12 | 2023-01-25 |
 | [TOO LATE](https://open.spotify.com/track/4YVirjfcLuw9A56Tle2uHt) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [APORIE VIVANT](https://open.spotify.com/album/63wqYCsKXga09N2IXHPFuV) | 2:32 | 2024-03-19 | 2024-05-08 |
 | [TOO LATE](https://open.spotify.com/track/4Zs8jWeCujpyHVYdYMSTty) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [APORIE VIVANT](https://open.spotify.com/album/0gtvEjBBN5QTvB3lkyruNI) | 2:32 | 2024-03-19 | 2024-04-17 |

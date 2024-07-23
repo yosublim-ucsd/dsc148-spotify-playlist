@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Ganges.",
-  "num_followers": 194119,
+  "num_followers": 194162,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "Ens hem guanyat l'estiu",
+        "url": "https://open.spotify.com/album/4pyaZxtfP0YHcDfLvzW8ZR"
+      },
+      "artists": [
+        {
+          "name": "Pau Vallv\u00e9",
+          "url": "https://open.spotify.com/artist/2e9wKql4wZPFzTfNgpBa9s"
+        }
+      ],
+      "duration_ms": 219440,
+      "name": "Ens hem guanyat l'estiu",
+      "url": "https://open.spotify.com/track/0U0S0quAHLkelr6bPsi7Z9"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "Joga Bonito",
         "url": "https://open.spotify.com/album/1eTSgzybuVPF0NlBz6OTLf"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 176176,
       "name": "Pura geografia",
       "url": "https://open.spotify.com/track/7hO8gFY9xTofMHbZIoSRGv"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Ens hem guanyat l'estiu",
-        "url": "https://open.spotify.com/album/4pyaZxtfP0YHcDfLvzW8ZR"
-      },
-      "artists": [
-        {
-          "name": "Pau Vallv\u00e9",
-          "url": "https://open.spotify.com/artist/2e9wKql4wZPFzTfNgpBa9s"
-        }
-      ],
-      "duration_ms": 219440,
-      "name": "Ens hem guanyat l'estiu",
-      "url": "https://open.spotify.com/track/0U0S0quAHLkelr6bPsi7Z9"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Mirarte",
-        "url": "https://open.spotify.com/album/0oHBRHSQBrgQ9ENQ4dAFP9"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 188464,
-      "name": "Mirarte",
-      "url": "https://open.spotify.com/track/3hgXQHurkosJVHCHCnNh5p"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Casa Linda",
         "url": "https://open.spotify.com/album/0QeEF4yiYHMzh66Qhv7Z9j"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 209371,
       "name": "No hay manera",
       "url": "https://open.spotify.com/track/5hJoeTG9qNCawVnpTwOkiR"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Mirarte",
+        "url": "https://open.spotify.com/album/0oHBRHSQBrgQ9ENQ4dAFP9"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 188464,
+      "name": "Mirarte",
+      "url": "https://open.spotify.com/track/3hgXQHurkosJVHCHCnNh5p"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "So payaso",
-        "url": "https://open.spotify.com/album/1SJJG2C7MHBWA3FQyHrLXZ"
+        "name": "d\u00b4ESCARNIO",
+        "url": "https://open.spotify.com/album/2JNJtZgFI9JuxOy7qpeFeQ"
       },
       "artists": [
         {
-          "name": "_juno",
-          "url": "https://open.spotify.com/artist/4CwB3q2FWy0SqxMfCSRrJP"
+          "name": "Fillas de Cassandra",
+          "url": "https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5"
         }
       ],
-      "duration_ms": 186040,
-      "name": "So payaso",
-      "url": "https://open.spotify.com/track/3OSIzpGBWIcygaZNcp099X"
+      "duration_ms": 159148,
+      "name": "d\u00b4ESCARNIO",
+      "url": "https://open.spotify.com/track/3KJ52eq5xaJVKDHDz4JQPt"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "d\u00b4ESCARNIO",
-        "url": "https://open.spotify.com/album/2JNJtZgFI9JuxOy7qpeFeQ"
+        "name": "So payaso",
+        "url": "https://open.spotify.com/album/1SJJG2C7MHBWA3FQyHrLXZ"
       },
       "artists": [
         {
-          "name": "Fillas de Cassandra",
-          "url": "https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5"
+          "name": "_juno",
+          "url": "https://open.spotify.com/artist/4CwB3q2FWy0SqxMfCSRrJP"
         }
       ],
-      "duration_ms": 159148,
-      "name": "d\u00b4ESCARNIO",
-      "url": "https://open.spotify.com/track/3KJ52eq5xaJVKDHDz4JQPt"
+      "duration_ms": 186040,
+      "name": "So payaso",
+      "url": "https://open.spotify.com/track/3OSIzpGBWIcygaZNcp099X"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -855,22 +855,6 @@
       "duration_ms": 211695,
       "name": "Gente Corriente",
       "url": "https://open.spotify.com/track/14nR4STG0GeaCLYtlJXjHI"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Loros",
-        "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
-      },
-      "artists": [
-        {
-          "name": "Camellos",
-          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
-        }
-      ],
-      "duration_ms": 146853,
-      "name": "Loros",
-      "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -895,6 +879,38 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "Loros",
+        "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
+      },
+      "artists": [
+        {
+          "name": "Camellos",
+          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
+        }
+      ],
+      "duration_ms": 146853,
+      "name": "Loros",
+      "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Con otra cabeza",
+        "url": "https://open.spotify.com/album/1XhcGwZwWx0cZ6Fi62gAVV"
+      },
+      "artists": [
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+        }
+      ],
+      "duration_ms": 149352,
+      "name": "Con otra cabeza",
+      "url": "https://open.spotify.com/track/5KdVewdmh5VWkCSxXBcl8o"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "Esp\u00edritu Ol\u00edmpico",
         "url": "https://open.spotify.com/album/5KhojvYi9mOuTkQQcbuXLh"
       },
@@ -915,18 +931,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Con otra cabeza",
-        "url": "https://open.spotify.com/album/1XhcGwZwWx0cZ6Fi62gAVV"
+        "name": "No Quiero Ser Tu Amiga",
+        "url": "https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv"
       },
       "artists": [
         {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
         }
       ],
-      "duration_ms": 149352,
-      "name": "Con otra cabeza",
-      "url": "https://open.spotify.com/track/5KdVewdmh5VWkCSxXBcl8o"
+      "duration_ms": 148607,
+      "name": "No Quiero Ser Tu Amiga",
+      "url": "https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -951,18 +967,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "No Quiero Ser Tu Amiga",
-        "url": "https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv"
+        "name": "Autom\u00f3viles",
+        "url": "https://open.spotify.com/album/3opwVD7QPkliMcVj4iuuMf"
       },
       "artists": [
         {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+          "name": "Besmaya",
+          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
+        },
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
         }
       ],
-      "duration_ms": 148607,
-      "name": "No Quiero Ser Tu Amiga",
-      "url": "https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5"
+      "duration_ms": 228890,
+      "name": "Autom\u00f3viles",
+      "url": "https://open.spotify.com/track/7sm0mCPk9si3MQ8706IrOT"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -983,26 +1003,6 @@
       "duration_ms": 213750,
       "name": "Espera",
       "url": "https://open.spotify.com/track/1UqwvHN3GzqQ8E1JRQZ5w6"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Autom\u00f3viles",
-        "url": "https://open.spotify.com/album/3opwVD7QPkliMcVj4iuuMf"
-      },
-      "artists": [
-        {
-          "name": "Besmaya",
-          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
-        },
-        {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        }
-      ],
-      "duration_ms": 228890,
-      "name": "Autom\u00f3viles",
-      "url": "https://open.spotify.com/track/7sm0mCPk9si3MQ8706IrOT"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "The Last of Us",
-        "url": "https://open.spotify.com/album/3m706HSNKqmnycUdWYt7Zw"
-      },
-      "artists": [
-        {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
-        }
-      ],
-      "duration_ms": 270137,
-      "name": "The Last of Us",
-      "url": "https://open.spotify.com/track/2WxZ92Q1q5NPbdJbJx7k8q"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "BCN 747/CHEVY 57",
         "url": "https://open.spotify.com/album/6YBwCMkzzu03pWqXxkCVYQ"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 263920,
       "name": "CHEVY 57",
       "url": "https://open.spotify.com/track/5rKci9JXTy3npFUXCqsKTL"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "The Last of Us",
+        "url": "https://open.spotify.com/album/3m706HSNKqmnycUdWYt7Zw"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "duration_ms": 270137,
+      "name": "The Last of Us",
+      "url": "https://open.spotify.com/track/2WxZ92Q1q5NPbdJbJx7k8q"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Si Tengo Suerte",
-        "url": "https://open.spotify.com/album/6TrI89PomEOYFifshPg7uh"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Si Tengo Suerte",
-      "url": "https://open.spotify.com/track/6tTdsX1G7PqeJag5rmkKRD"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "un beso y una flor",
         "url": "https://open.spotify.com/album/2f5b0JZTneMgOWC78ACg0p"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 186976,
       "name": "un beso y una flor",
       "url": "https://open.spotify.com/track/2ZjanRmhMk2cBK6Hl4nAYL"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Si Tengo Suerte",
+        "url": "https://open.spotify.com/album/6TrI89PomEOYFifshPg7uh"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Si Tengo Suerte",
+      "url": "https://open.spotify.com/track/6tTdsX1G7PqeJag5rmkKRD"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Nunca Estuviste Tan Lejos",
-        "url": "https://open.spotify.com/album/1U6KHSJ66igiyRiVvirZKj"
-      },
-      "artists": [
-        {
-          "name": "Ultral\u00e1grima",
-          "url": "https://open.spotify.com/artist/1Wmv9SIc5k9ipk457eaFFV"
-        }
-      ],
-      "duration_ms": 241500,
-      "name": "Nunca Estuviste Tan Lejos",
-      "url": "https://open.spotify.com/track/4E3ckTCxqiSrUSM2rKGnC3"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "campamento base",
         "url": "https://open.spotify.com/album/7mJty5NrSPAt2inyesbwSa"
       },
@@ -1671,18 +1655,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "GUAYA GUAYA",
-        "url": "https://open.spotify.com/album/1tpgr92aJbeazAyMziemfe"
+        "name": "Nunca Estuviste Tan Lejos",
+        "url": "https://open.spotify.com/album/1U6KHSJ66igiyRiVvirZKj"
       },
       "artists": [
         {
-          "name": "Blackpanda",
-          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
+          "name": "Ultral\u00e1grima",
+          "url": "https://open.spotify.com/artist/1Wmv9SIc5k9ipk457eaFFV"
         }
       ],
-      "duration_ms": 148401,
-      "name": "GUAYA GUAYA",
-      "url": "https://open.spotify.com/track/5vksHe2CEG5tOrLSSNug5U"
+      "duration_ms": 241500,
+      "name": "Nunca Estuviste Tan Lejos",
+      "url": "https://open.spotify.com/track/4E3ckTCxqiSrUSM2rKGnC3"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1699,6 +1683,22 @@
       "duration_ms": 117891,
       "name": "COMO YO",
       "url": "https://open.spotify.com/track/506T6zVDUSlZ0d4pIMhMGJ"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "GUAYA GUAYA",
+        "url": "https://open.spotify.com/album/1tpgr92aJbeazAyMziemfe"
+      },
+      "artists": [
+        {
+          "name": "Blackpanda",
+          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
+        }
+      ],
+      "duration_ms": 148401,
+      "name": "GUAYA GUAYA",
+      "url": "https://open.spotify.com/track/5vksHe2CEG5tOrLSSNug5U"
     },
     {
       "added_at": "2024-07-18 22:00:00",

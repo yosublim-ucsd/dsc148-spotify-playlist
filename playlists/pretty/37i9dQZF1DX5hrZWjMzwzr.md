@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'\. Posłuchaj zwycięzców oraz wszystkich nominowanych na jednej playliście.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,342 likes - 82 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,340 likes - 82 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 8 | [Stan](https://open.spotify.com/track/18bAMjHACL9Iphk0KB0z7o) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak), [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1) | [Stan](https://open.spotify.com/album/4lSPL8p1PEevYs9RMgvqD0) | 3:01 |
 | 9 | [Taxi](https://open.spotify.com/track/6tARtPlcilM1u4tbAWgato) | [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m), [BeMelo](https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx), [Eddie Block](https://open.spotify.com/artist/5WEdZfOfI9kQJnwJGvLRJf), [Adash](https://open.spotify.com/artist/61OiK85G3liQ764VKRLJPk) | [Taxi](https://open.spotify.com/album/4jhbMRksvKzOhCqoHbLWQ4) | 3:00 |
 | 10 | [Cherry Lady](https://open.spotify.com/track/4ZmWYEsdiGRPN9oMJgi96r) | [Louis Villain](https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv) | [Cherry Lady](https://open.spotify.com/album/73AskkkPaeQsljbltdSTur) | 3:04 |
-| 11 | [Makarena Freestyle](https://open.spotify.com/track/6Vzl09EVLdB1MTZdDwm2Zd) | [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ) | [1\-800\-OŚWIECENIE](https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU) | 3:28 |
-| 12 | [TYLE SŁOŃCA](https://open.spotify.com/track/2oILgeSykGjl0N9m0VvAjO) | [White Widow](https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0), [BAHsick](https://open.spotify.com/artist/0TuA7E5H4nlEtWvpXSr7uv) | [TYLE SŁOŃCA](https://open.spotify.com/album/34pnuaLEiWt0Cs4JQv2MM2) | 2:22 |
+| 11 | [TYLE SŁOŃCA](https://open.spotify.com/track/2oILgeSykGjl0N9m0VvAjO) | [White Widow](https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0), [BAHsick](https://open.spotify.com/artist/0TuA7E5H4nlEtWvpXSr7uv) | [TYLE SŁOŃCA](https://open.spotify.com/album/34pnuaLEiWt0Cs4JQv2MM2) | 2:22 |
+| 12 | [Makarena Freestyle](https://open.spotify.com/track/6Vzl09EVLdB1MTZdDwm2Zd) | [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ) | [1\-800\-OŚWIECENIE](https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU) | 3:28 |
 | 13 | [NÓŻ](https://open.spotify.com/track/08rZCN2J2ELhooLqm9wB6i) | [Qry](https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy), [LEEO](https://open.spotify.com/artist/5bjlaptdRxdTCicOIX7k2P) | [NÓŻ](https://open.spotify.com/album/5WxKqpmvTX0NDV3Xb35xPr) | 2:33 |
 | 14 | [WWA NA KXKSIE](https://open.spotify.com/track/0oyR4Ql18Y1GNwS3arouvb) | [Yung Adisz](https://open.spotify.com/artist/2G8IXlvZR5PxsMAAg2ZG40), [schafter](https://open.spotify.com/artist/2aDaFARm4U9hf5DI9Fhbnh), [Gottastral](https://open.spotify.com/artist/4QXo5C5MyU5monLYHsJOG9), [Tosiek](https://open.spotify.com/artist/0WvOprQ8IaFWR5L76Czhww) | [WWA NA KXKSIE](https://open.spotify.com/album/6R3IJyx9vPOZFk4ARB7N2H) | 3:25 |
 | 15 | [Mam Cię](https://open.spotify.com/track/3moDqdYK90QDw3Lk9q5yDE) | [Paluch](https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv), [Miroff](https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD), [Poly](https://open.spotify.com/artist/0UyJNcG74XhDLo1cPXXFeO) | [Mam Cię](https://open.spotify.com/album/0wMWyIDW56FjxvAmFrBI0V) | 2:21 |

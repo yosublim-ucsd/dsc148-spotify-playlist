@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Dadju x DYSTINCT au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,537 likes - 74 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,576 likes - 74 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 14 | [La Romance](https://open.spotify.com/track/0ls9BOrEHJUOPftepjSuN8) | [Ronnie](https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz) | [La Romance](https://open.spotify.com/album/16QXt3XzV9u3atxLK2sWSK) | 3:16 |
 | 15 | [Pimpon](https://open.spotify.com/track/1yXRvMTmXbgxy9p5CS63bc) | [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4), [Game Over](https://open.spotify.com/artist/5asZFEvwtp6ex6hX9CFp9f) | [Game Over 3 \- Terminal 3](https://open.spotify.com/album/2mzGH2M2nXqCq15XL01P5z) | 2:25 |
 | 16 | [Coco \(feat\. Tayc\)](https://open.spotify.com/track/6MG8MRq1odNsWCasM9IehW) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Coco \(feat\. Tayc\)](https://open.spotify.com/album/5hGsaXtfKcheS0r0AzMhgi) | 3:18 |
-| 17 | [La même histoire](https://open.spotify.com/track/6I6nQIBRYlQLMT58liSyWI) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [La même histoire](https://open.spotify.com/album/1q67Fv3Ccr8yAOrtVD7F7U) | 2:12 |
+| 17 | [LA MÊME HISTOIRE](https://open.spotify.com/track/6I6nQIBRYlQLMT58liSyWI) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [LA MÊME HISTOIRE](https://open.spotify.com/album/1q67Fv3Ccr8yAOrtVD7F7U) | 2:12 |
 | 18 | [Work It Out](https://open.spotify.com/track/1zepNi2GSE216osBwSn4ZD) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Work It Out](https://open.spotify.com/album/1sM2lvgt8XUBHJC4RRYN0Y) | 2:30 |
 | 19 | [Female Intuition](https://open.spotify.com/track/3irbvUcejyhvW0Zg4wqz9R) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Female Intuition](https://open.spotify.com/album/7wpaCoJbebCK3FeSySNgpE) | 2:14 |
 | 20 | [100 Lives](https://open.spotify.com/track/1esueU6TI7y7bOwHhOP14K) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [100 Lives](https://open.spotify.com/album/6zOK13fGEgCUcqCwYySpHu) | 3:13 |

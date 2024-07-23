@@ -1,12 +1,12 @@
 {
   "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
-  "num_followers": 2936683,
+  "num_followers": 2936972,
   "original_name": "This Is XXXTENTACION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpr+AAAAAACVLCwJnR3aQnyHSm9pjcjR",
+  "snapshot_id": "ZpxPgAAAAAAtmCD/OSpyYy3KHai5Pja6",
   "tracks": [
     {
       "added_at": null,
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 166605,
-      "name": "SAD!",
-      "url": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
+      "duration_ms": 135090,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL"
     },
     {
       "added_at": null,
@@ -163,6 +163,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "?",
+        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 166605,
+      "name": "SAD!",
+      "url": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad Vibes Forever",
         "url": "https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ"
       },
@@ -203,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 119133,
+      "name": "Jocelyn Flores",
+      "url": "https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Again (feat. XXXTENTACION)",
         "url": "https://open.spotify.com/album/5UD36hu4fYZ6R8b8crkKL7"
       },
@@ -223,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 119133,
-      "name": "Jocelyn Flores",
-      "url": "https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "?",
         "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
       },
@@ -248,9 +264,9 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 121886,
-      "name": "changes",
-      "url": "https://open.spotify.com/track/7AFASza1mXqntmGtbxXprO"
+      "duration_ms": 160184,
+      "name": "the remedy for a broken heart (why am I so in love)",
+      "url": "https://open.spotify.com/track/4UKCKdYiLN6IMA5ZESUTL7"
     },
     {
       "added_at": null,
@@ -275,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Vibes Forever",
-        "url": "https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 121671,
-      "name": "Ex Bitch",
-      "url": "https://open.spotify.com/track/40KuvsFD0zpUFuCcmt5Xm0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
       },
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "?",
-        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
+        "name": "Bad Vibes Forever",
+        "url": "https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 160184,
-      "name": "the remedy for a broken heart (why am I so in love)",
-      "url": "https://open.spotify.com/track/4UKCKdYiLN6IMA5ZESUTL7"
+      "duration_ms": 121671,
+      "name": "Ex Bitch",
+      "url": "https://open.spotify.com/track/40KuvsFD0zpUFuCcmt5Xm0"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "?",
-        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 186267,
-      "name": "NUMB",
-      "url": "https://open.spotify.com/track/01TnVDiet1DFTsyWKUKovl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "let's pretend we're numb",
         "url": "https://open.spotify.com/album/5MmwkV5cSX2MQJpo1mMa5V"
       },
@@ -415,6 +399,26 @@
       "duration_ms": 80105,
       "name": "let's pretend we're numb",
       "url": "https://open.spotify.com/track/4VOLwHXIrB5zktV7prPeOW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "?",
+        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 176590,
+      "name": "infinity (888) - feat. Joey Bada$$",
+      "url": "https://open.spotify.com/track/7J2gyNghNTzl4EsLhXp01Q"
     },
     {
       "added_at": null,
@@ -556,9 +560,9 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 150769,
-      "name": "what are you so afraid of",
-      "url": "https://open.spotify.com/track/57nOpVSc3j9o03Cr928ZM4"
+      "duration_ms": 76973,
+      "name": "difference (interlude)",
+      "url": "https://open.spotify.com/track/5itzep0nGnq7hxCfFNsTIR"
     },
     {
       "added_at": null,
@@ -603,38 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "? (Deluxe)",
-        "url": "https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 103986,
-      "name": "hate will never win",
-      "url": "https://open.spotify.com/track/3TzgIJC8U7o57nx8xnWvnt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SKINS",
-        "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 76973,
-      "name": "difference (interlude)",
-      "url": "https://open.spotify.com/track/5itzep0nGnq7hxCfFNsTIR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revenge",
         "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
       },
@@ -651,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Vibes Forever",
-        "url": "https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ"
+        "name": "SKINS",
+        "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
       },
       "artists": [
         {
@@ -660,9 +632,9 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 136357,
-      "name": "HEARTEATER",
-      "url": "https://open.spotify.com/track/0MW5zwGXciXyVdFwQbvBq8"
+      "duration_ms": 150769,
+      "name": "what are you so afraid of",
+      "url": "https://open.spotify.com/track/57nOpVSc3j9o03Cr928ZM4"
     },
     {
       "added_at": null,
@@ -683,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SKINS",
-        "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
+        "name": "Bad Vibes Forever",
+        "url": "https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ"
       },
       "artists": [
         {
@@ -692,9 +664,9 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 108034,
-      "name": "Guardian angel",
-      "url": "https://open.spotify.com/track/7uqcLJFlSYjVPLUz1vPxkY"
+      "duration_ms": 136357,
+      "name": "HEARTEATER",
+      "url": "https://open.spotify.com/track/0MW5zwGXciXyVdFwQbvBq8"
     },
     {
       "added_at": null,
@@ -719,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Vibes Forever",
-        "url": "https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ"
+        "name": "SKINS",
+        "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
       },
       "artists": [
         {
@@ -728,9 +700,9 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 82470,
-      "name": "numb the pain",
-      "url": "https://open.spotify.com/track/4rhr8LgQoPtWkQaXVPSNOO"
+      "duration_ms": 108034,
+      "name": "Guardian angel",
+      "url": "https://open.spotify.com/track/7uqcLJFlSYjVPLUz1vPxkY"
     },
     {
       "added_at": null,
@@ -747,6 +719,22 @@
       "duration_ms": 144724,
       "name": "Sauce!",
       "url": "https://open.spotify.com/track/3jq1RpStaB1YGyN3rRZGca"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Vibes Forever",
+        "url": "https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 82470,
+      "name": "numb the pain",
+      "url": "https://open.spotify.com/track/4rhr8LgQoPtWkQaXVPSNOO"
     },
     {
       "added_at": null,
@@ -891,6 +879,22 @@
       "duration_ms": 77600,
       "name": "Boost!",
       "url": "https://open.spotify.com/track/455IYy22hKJXgEwgownVqT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOOK AT ME: THE ALBUM",
+        "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 173320,
+      "name": "#ImSippinTeaInYoHood",
+      "url": "https://open.spotify.com/track/2z6W6oeZvBaO56Mg587v0w"
     }
   ],
   "unique_name": "This Is XXXTENTACION",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > moooooooove
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,448 likes - 255 songs - 18 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,593 likes - 255 songs - 18 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

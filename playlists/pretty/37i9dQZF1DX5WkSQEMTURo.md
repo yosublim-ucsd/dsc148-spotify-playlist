@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WkSQEMTURo.md) - [plain]
 
 > Everyone deserves a happy ending\. Listen to the music from Deadpool ahead of Deadpool & Wolverine, coming soon to theaters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,578 likes - 53 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,531 likes - 53 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

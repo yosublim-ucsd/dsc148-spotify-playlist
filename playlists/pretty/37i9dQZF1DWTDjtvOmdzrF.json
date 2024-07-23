@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 555653,
+  "num_followers": 555665,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-06-05 07:57:22",
       "album": {
-        "name": "Nanti Kita Seperti Ini",
-        "url": "https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT"
-      },
-      "artists": [
-        {
-          "name": "Batas Senja",
-          "url": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
-        }
-      ],
-      "duration_ms": 209647,
-      "name": "Nanti Kita Seperti Ini",
-      "url": "https://open.spotify.com/track/2NjbJR8y083mOV59255QSe"
-    },
-    {
-      "added_at": "2024-06-05 07:57:22",
-      "album": {
         "name": "Apa Mungkin",
         "url": "https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 238879,
       "name": "Apa Mungkin",
       "url": "https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl"
+    },
+    {
+      "added_at": "2024-06-05 07:57:22",
+      "album": {
+        "name": "Nanti Kita Seperti Ini",
+        "url": "https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT"
+      },
+      "artists": [
+        {
+          "name": "Batas Senja",
+          "url": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
+        }
+      ],
+      "duration_ms": 209647,
+      "name": "Nanti Kita Seperti Ini",
+      "url": "https://open.spotify.com/track/2NjbJR8y083mOV59255QSe"
     },
     {
       "added_at": "2024-06-05 07:57:22",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-06-05 07:57:22",
       "album": {
-        "name": "Lebih Dari Egoku",
-        "url": "https://open.spotify.com/album/3Q11b83KaQfF6KjjKMiRYu"
-      },
-      "artists": [
-        {
-          "name": "Mawar de Jongh",
-          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
-        }
-      ],
-      "duration_ms": 249097,
-      "name": "Lebih Dari Egoku",
-      "url": "https://open.spotify.com/track/4vh193RZbEEBanSG0719Wh"
-    },
-    {
-      "added_at": "2024-06-05 07:57:22",
-      "album": {
         "name": "Seamin Tak Seiman",
         "url": "https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 216448,
       "name": "Seamin Tak Seiman",
       "url": "https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun"
+    },
+    {
+      "added_at": "2024-06-05 07:57:22",
+      "album": {
+        "name": "Lebih Dari Egoku",
+        "url": "https://open.spotify.com/album/3Q11b83KaQfF6KjjKMiRYu"
+      },
+      "artists": [
+        {
+          "name": "Mawar de Jongh",
+          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
+        }
+      ],
+      "duration_ms": 249097,
+      "name": "Lebih Dari Egoku",
+      "url": "https://open.spotify.com/track/4vh193RZbEEBanSG0719Wh"
     },
     {
       "added_at": "2024-06-05 07:57:22",

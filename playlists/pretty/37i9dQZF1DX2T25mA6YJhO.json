@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Barry B, Carolina Durante.",
-  "num_followers": 19315,
+  "num_followers": 19322,
   "original_name": "Rock 2024",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Reventarme",
-        "url": "https://open.spotify.com/album/5uPGlDtsU8HOG5wktQdJjX"
-      },
-      "artists": [
-        {
-          "name": "trashi",
-          "url": "https://open.spotify.com/artist/4NCT7ucfttKL0FUmd3zllQ"
-        }
-      ],
-      "duration_ms": 186382,
-      "name": "Reventarme",
-      "url": "https://open.spotify.com/track/637HLsAIU5NCKr4mMssOj1"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Y no lo ves",
         "url": "https://open.spotify.com/album/59pD3E1YOQ2vTDxHAL2v8z"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 171740,
       "name": "Y no lo ves",
       "url": "https://open.spotify.com/track/5ds91qYmtz0fSPwQgUBIJi"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Reventarme",
+        "url": "https://open.spotify.com/album/5uPGlDtsU8HOG5wktQdJjX"
+      },
+      "artists": [
+        {
+          "name": "trashi",
+          "url": "https://open.spotify.com/artist/4NCT7ucfttKL0FUmd3zllQ"
+        }
+      ],
+      "duration_ms": 186382,
+      "name": "Reventarme",
+      "url": "https://open.spotify.com/track/637HLsAIU5NCKr4mMssOj1"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "Al Amanecer",
+        "url": "https://open.spotify.com/album/0tvM7MTPrI9bASHbYn89Xy"
+      },
+      "artists": [
+        {
+          "name": "Jordana B.",
+          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
+        }
+      ],
+      "duration_ms": 191617,
+      "name": "Al Amanecer",
+      "url": "https://open.spotify.com/track/5FMnqUbLGqWi0Y12MCVYSN"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "Martes 13",
         "url": "https://open.spotify.com/album/7cBxE1Jmy4Xb6YdWze1plb"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 181638,
       "name": "Martes 13",
       "url": "https://open.spotify.com/track/0KVfyqqSuwWeX5aWe954m9"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Al Amanecer",
-        "url": "https://open.spotify.com/album/0tvM7MTPrI9bASHbYn89Xy"
-      },
-      "artists": [
-        {
-          "name": "Jordana B.",
-          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
-        }
-      ],
-      "duration_ms": 191617,
-      "name": "Al Amanecer",
-      "url": "https://open.spotify.com/track/5FMnqUbLGqWi0Y12MCVYSN"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "Echo de menos a los Arctic Monkeys",
+        "url": "https://open.spotify.com/album/1hLzA65hHzjmVkJGucZCwG"
+      },
+      "artists": [
+        {
+          "name": "Tenda",
+          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
+        }
+      ],
+      "duration_ms": 199448,
+      "name": "Echo de menos a los Arctic Monkeys",
+      "url": "https://open.spotify.com/track/1gVe7hDguYKZyeUjdyuOsK"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "Azul Oscuro Casi Negro",
         "url": "https://open.spotify.com/album/6wRuSSafJuAgVM61XEStGj"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 160301,
       "name": "Azul Oscuro Casi Negro",
       "url": "https://open.spotify.com/track/5WkLIlcbax45uOOoNqFacQ"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Echo de menos a los Arctic Monkeys",
-        "url": "https://open.spotify.com/album/1hLzA65hHzjmVkJGucZCwG"
-      },
-      "artists": [
-        {
-          "name": "Tenda",
-          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
-        }
-      ],
-      "duration_ms": 199448,
-      "name": "Echo de menos a los Arctic Monkeys",
-      "url": "https://open.spotify.com/track/1gVe7hDguYKZyeUjdyuOsK"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "El Campe\u00f3n en tus ojos",
-        "url": "https://open.spotify.com/album/0D0LLeJuxDzwCRolaazjRC"
+        "name": "Todo Ir\u00e1 Bien",
+        "url": "https://open.spotify.com/album/63trf8Z60h09bjYiYOMesB"
       },
       "artists": [
         {
-          "name": "Caballo Prieto Azabache",
-          "url": "https://open.spotify.com/artist/3lldEYxABJZKVPL9NRWcq3"
+          "name": "Victorias",
+          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
         }
       ],
-      "duration_ms": 163280,
-      "name": "El Campe\u00f3n en tus ojos",
-      "url": "https://open.spotify.com/track/6Y1Y3z4Uwv2oTzpEbA0q4j"
+      "duration_ms": 198851,
+      "name": "Todo Ir\u00e1 Bien",
+      "url": "https://open.spotify.com/track/2spHoHAGAQlOI3twB5QRVl"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Todo Ir\u00e1 Bien",
-        "url": "https://open.spotify.com/album/63trf8Z60h09bjYiYOMesB"
+        "name": "El Campe\u00f3n en tus ojos",
+        "url": "https://open.spotify.com/album/0D0LLeJuxDzwCRolaazjRC"
       },
       "artists": [
         {
-          "name": "Victorias",
-          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
+          "name": "Caballo Prieto Azabache",
+          "url": "https://open.spotify.com/artist/3lldEYxABJZKVPL9NRWcq3"
         }
       ],
-      "duration_ms": 198851,
-      "name": "Todo Ir\u00e1 Bien",
-      "url": "https://open.spotify.com/track/2spHoHAGAQlOI3twB5QRVl"
+      "duration_ms": 163280,
+      "name": "El Campe\u00f3n en tus ojos",
+      "url": "https://open.spotify.com/track/6Y1Y3z4Uwv2oTzpEbA0q4j"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1467,18 +1467,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Premonici\u00f3n",
-        "url": "https://open.spotify.com/album/199LyCLvxz9v5LEzj8hMfu"
+        "name": "Finales Alternativos",
+        "url": "https://open.spotify.com/album/3MMD6gPBZiceeybqsTPUOj"
       },
       "artists": [
         {
-          "name": "Capsula",
-          "url": "https://open.spotify.com/artist/4JSzzwHzs5cp6dm2onRPRd"
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/5N5JYIR5eyLrUcwutGZdal"
+        },
+        {
+          "name": "J (Los Planetas)",
+          "url": "https://open.spotify.com/artist/4rZQYggyATv0COs3Ku167l"
         }
       ],
-      "duration_ms": 165111,
-      "name": "Premonici\u00f3n",
-      "url": "https://open.spotify.com/track/43Uy9y0xKRjCPFz2AEdj34"
+      "duration_ms": 144846,
+      "name": "Finales Alternativos",
+      "url": "https://open.spotify.com/track/5Iz3b8J09zstCwndwYPaOJ"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1499,22 +1503,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Finales Alternativos",
-        "url": "https://open.spotify.com/album/3MMD6gPBZiceeybqsTPUOj"
+        "name": "Premonici\u00f3n",
+        "url": "https://open.spotify.com/album/199LyCLvxz9v5LEzj8hMfu"
       },
       "artists": [
         {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/5N5JYIR5eyLrUcwutGZdal"
-        },
-        {
-          "name": "J (Los Planetas)",
-          "url": "https://open.spotify.com/artist/4rZQYggyATv0COs3Ku167l"
+          "name": "Capsula",
+          "url": "https://open.spotify.com/artist/4JSzzwHzs5cp6dm2onRPRd"
         }
       ],
-      "duration_ms": 144846,
-      "name": "Finales Alternativos",
-      "url": "https://open.spotify.com/track/5Iz3b8J09zstCwndwYPaOJ"
+      "duration_ms": 165111,
+      "name": "Premonici\u00f3n",
+      "url": "https://open.spotify.com/track/43Uy9y0xKRjCPFz2AEdj34"
     },
     {
       "added_at": "2024-07-18 22:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Hombres G y Reik en portada.",
-  "num_followers": 30450,
+  "num_followers": 30467,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 191526,
+      "name": "YO VISTO AS\u00cd",
+      "url": "https://open.spotify.com/track/5fROvzNghPid8mbKNDYvpJ"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Diamantes",
         "url": "https://open.spotify.com/album/2Yyxl3sTrmwzr0IAtI1nl8"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 243234,
       "name": "Diamantes",
       "url": "https://open.spotify.com/track/4UNnkCN1QCJsmFFZOYeBdp"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 191526,
-      "name": "YO VISTO AS\u00cd",
-      "url": "https://open.spotify.com/track/5fROvzNghPid8mbKNDYvpJ"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -239,18 +239,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Miel de Azar",
-        "url": "https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma"
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR"
       },
       "artists": [
         {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 192197,
-      "name": "Como Queremos",
-      "url": "https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c"
+      "duration_ms": 179520,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -271,18 +271,34 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Lejos de Ti",
-        "url": "https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR"
+        "name": "LOKADEM\u00c1S",
+        "url": "https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "RUSLANA",
+          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
         }
       ],
-      "duration_ms": 179520,
-      "name": "Lejos de Ti",
-      "url": "https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m"
+      "duration_ms": 193412,
+      "name": "LOKADEM\u00c1S",
+      "url": "https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Miel de Azar",
+        "url": "https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 192197,
+      "name": "Como Queremos",
+      "url": "https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -303,42 +319,6 @@
       "duration_ms": 251093,
       "name": "\u00bfQu\u00e9 vas a saber?",
       "url": "https://open.spotify.com/track/38V0tYzvhjYghBvlES5oef"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "LOKADEM\u00c1S",
-        "url": "https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB"
-      },
-      "artists": [
-        {
-          "name": "RUSLANA",
-          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
-        }
-      ],
-      "duration_ms": 193412,
-      "name": "LOKADEM\u00c1S",
-      "url": "https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Nada por Hecho (feat. Leiva)",
-        "url": "https://open.spotify.com/album/6dD5pmen05khim74MHtYC9"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        },
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 208802,
-      "name": "Nada por Hecho (feat. Leiva)",
-      "url": "https://open.spotify.com/track/44XbWNRHal0zmIFVdxdG18"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -491,6 +471,26 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "Nada por Hecho (feat. Leiva)",
+        "url": "https://open.spotify.com/album/6dD5pmen05khim74MHtYC9"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        },
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 208802,
+      "name": "Nada por Hecho (feat. Leiva)",
+      "url": "https://open.spotify.com/track/44XbWNRHal0zmIFVdxdG18"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "A Fuego",
         "url": "https://open.spotify.com/album/5fwB9BD3xstcl7cZpxYFmH"
       },
@@ -527,6 +527,26 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "Hablar de Flores",
+        "url": "https://open.spotify.com/album/1QaPbNvQv3yEVQ3S1V70P7"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        }
+      ],
+      "duration_ms": 189551,
+      "name": "Hablar de Flores",
+      "url": "https://open.spotify.com/track/5Kl2aRgbzHQGpzMgCmpWAS"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Rompehielos",
         "url": "https://open.spotify.com/album/13HcAi6ldlKksKEFPCrsf3"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 235360,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Hablar de Flores",
-        "url": "https://open.spotify.com/album/1QaPbNvQv3yEVQ3S1V70P7"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        },
-        {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
-        }
-      ],
-      "duration_ms": 189551,
-      "name": "Hablar de Flores",
-      "url": "https://open.spotify.com/track/5Kl2aRgbzHQGpzMgCmpWAS"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Elemento Noches De Sal\u00f3n",
-        "url": "https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 223990,
-      "name": "Elemento Noches De Sal\u00f3n - Noches De Sal\u00f3n",
-      "url": "https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "sin nada",
         "url": "https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 154514,
       "name": "sin nada",
       "url": "https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Elemento Noches De Sal\u00f3n",
+        "url": "https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 223990,
+      "name": "Elemento Noches De Sal\u00f3n - Noches De Sal\u00f3n",
+      "url": "https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Le\u00f3n Divino",
-        "url": "https://open.spotify.com/album/7qmjC9tvkmWsdG6s3cwwOz"
-      },
-      "artists": [
-        {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
-        }
-      ],
-      "duration_ms": 183850,
-      "name": "Le\u00f3n Divino",
-      "url": "https://open.spotify.com/track/5kyFfRxy4MtV57JuYk7HKe"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Ojal\u00e1",
         "url": "https://open.spotify.com/album/6WNr4SBLBhTqGWI17liKAb"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 193360,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Le\u00f3n Divino",
+        "url": "https://open.spotify.com/album/7qmjC9tvkmWsdG6s3cwwOz"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        }
+      ],
+      "duration_ms": 183850,
+      "name": "Le\u00f3n Divino",
+      "url": "https://open.spotify.com/track/5kyFfRxy4MtV57JuYk7HKe"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "El Amor Es un Juego de Perdedores",
-        "url": "https://open.spotify.com/album/1Xxs2T7CHUycFvPg7rj2La"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 208839,
-      "name": "El Amor Es un Juego de Perdedores",
-      "url": "https://open.spotify.com/track/1iPK5UXUetYDBRoDgwjvHA"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Desandando Mis Pasos",
         "url": "https://open.spotify.com/album/2Murx2ffqeCVKyJhnVHjpC"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 147038,
       "name": "El Nuevo Amor",
       "url": "https://open.spotify.com/track/4ewO4CRFVkcD0IcTvGCSGc"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "El Amor Es un Juego de Perdedores",
+        "url": "https://open.spotify.com/album/1Xxs2T7CHUycFvPg7rj2La"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 208839,
+      "name": "El Amor Es un Juego de Perdedores",
+      "url": "https://open.spotify.com/track/1iPK5UXUetYDBRoDgwjvHA"
     },
     {
       "added_at": "2024-07-12 06:00:00",

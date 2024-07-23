@@ -2,7 +2,7 @@
 
 ### [This Is Senses Fail](https://open.spotify.com/playlist/37i9dQZF1DZ06evO31u6DZ)
 
-> This is Senses Fail\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Senses Fail\. The essential tracks, all in one playlist.
 
 103 songs - 5 hr 48 min
 

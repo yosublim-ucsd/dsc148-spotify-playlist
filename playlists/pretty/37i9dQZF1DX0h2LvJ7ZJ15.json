@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1367912,
+  "num_followers": 1367838,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
+        "name": "ICEWHORE!",
+        "url": "https://open.spotify.com/album/4To1CK51OcwNtpLnlirXQK"
+      },
+      "artists": [
+        {
+          "name": "Lumi Athena",
+          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
+        }
+      ],
+      "duration_ms": 123062,
+      "name": "ICEWHORE! - slowed",
+      "url": "https://open.spotify.com/track/01A9Xt0XyeYIzC9K7MSvua"
+    },
+    {
+      "added_at": "2024-05-24 04:38:40",
+      "album": {
         "name": "YUM YUM",
         "url": "https://open.spotify.com/album/7Bc7xEWvkW01bvq5jAhCQS"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 154236,
       "name": "YUM YUM - Slowed",
       "url": "https://open.spotify.com/track/7eLiel6UxoNWPGJoSfrq46"
-    },
-    {
-      "added_at": "2024-05-24 04:38:40",
-      "album": {
-        "name": "ICEWHORE!",
-        "url": "https://open.spotify.com/album/4To1CK51OcwNtpLnlirXQK"
-      },
-      "artists": [
-        {
-          "name": "Lumi Athena",
-          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
-        }
-      ],
-      "duration_ms": 123062,
-      "name": "ICEWHORE! - slowed",
-      "url": "https://open.spotify.com/track/01A9Xt0XyeYIzC9K7MSvua"
     },
     {
       "added_at": "2024-05-24 04:38:40",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
+        "name": "It's Ok (Slowed)",
+        "url": "https://open.spotify.com/album/1sjKHrK5J9tVQi512c0Vrj"
+      },
+      "artists": [
+        {
+          "name": "Edith Whiskers",
+          "url": "https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN"
+        }
+      ],
+      "duration_ms": 214371,
+      "name": "It's Ok - Slowed",
+      "url": "https://open.spotify.com/track/5RKUztud1fb5UhO4gljjl7"
+    },
+    {
+      "added_at": "2024-05-24 04:38:40",
+      "album": {
         "name": "BASSLINE",
         "url": "https://open.spotify.com/album/7AmJYPuvIFdqLKcnhtIfNK"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 130000,
       "name": "BASSLINE - SLOWED",
       "url": "https://open.spotify.com/track/3KpuvLHfzkUl2T7ARb5SUP"
-    },
-    {
-      "added_at": "2024-05-24 04:38:40",
-      "album": {
-        "name": "It's Ok (Slowed)",
-        "url": "https://open.spotify.com/album/1sjKHrK5J9tVQi512c0Vrj"
-      },
-      "artists": [
-        {
-          "name": "Edith Whiskers",
-          "url": "https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN"
-        }
-      ],
-      "duration_ms": 214371,
-      "name": "It's Ok - Slowed",
-      "url": "https://open.spotify.com/track/5RKUztud1fb5UhO4gljjl7"
     },
     {
       "added_at": "2024-05-24 04:38:40",

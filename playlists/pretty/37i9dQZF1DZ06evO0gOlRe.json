@@ -1,12 +1,12 @@
 {
-  "description": "This is Alexander Stewart. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
-  "num_followers": 31773,
+  "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
+  "num_followers": 31790,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpr+AAAAAACjDwyz4+a2BxNYZNZIZHBk",
+  "snapshot_id": "ZpxPgAAAAABpSNsv3D1yXb7cOigX7pBo",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Your Life",
-        "url": "https://open.spotify.com/album/1HKJnTZ2cEEE6ufiKTwzwP"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 155998,
-      "name": "This Is Your Life",
-      "url": "https://open.spotify.com/track/6wC22rOiOSbpwiAxAxG0kP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Stand Together",
         "url": "https://open.spotify.com/album/6Kk0U3JRoniLtiSjypjEVL"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 201813,
       "name": "Gone",
       "url": "https://open.spotify.com/track/1ovfVFW6hg0uQuxxvGlhCb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Your Life",
+        "url": "https://open.spotify.com/album/1HKJnTZ2cEEE6ufiKTwzwP"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 155998,
+      "name": "This Is Your Life",
+      "url": "https://open.spotify.com/track/6wC22rOiOSbpwiAxAxG0kP"
     },
     {
       "added_at": null,

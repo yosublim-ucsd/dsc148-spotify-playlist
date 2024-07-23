@@ -2,7 +2,7 @@
 
 ### [RADAR Polska](https://open.spotify.com/playlist/37i9dQZF1DX1aXwAOtpwvU)
 
-> Odkryj swojego nowego ulubionego artystę\. Cover:  <a href="spotify:artist:07EyVrrbqIAHNLw9FEnQUs">Lotta</a>
+> Odkryj swojego nowego ulubionego artystę\. Cover:  <a href="spotify:artist:7ruGjTmqO10lSqHWRIchnU">Daniel Godson</a>
 
 176 songs - 8 hr 31 min
 

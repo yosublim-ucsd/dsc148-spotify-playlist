@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 276963,
+  "num_followers": 277009,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,26 @@
     {
       "added_at": "2024-07-19 03:03:00",
       "album": {
+        "name": "Fria (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/71PHfxas0RxjsP7REVxbQa"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 160483,
+      "name": "Fria - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/44CPdSxbOvhrmvt8O3cVJk"
+    },
+    {
+      "added_at": "2024-07-19 03:03:00",
+      "album": {
         "name": "You Were Loved (with OneRepublic)",
         "url": "https://open.spotify.com/album/6fSPZKwEPxrHfQcdLz83EY"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 166299,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/0XmQPFLkdMEsnKQOrqy9rU"
-    },
-    {
-      "added_at": "2024-07-19 03:03:00",
-      "album": {
-        "name": "Fria (Felix Jaehn Remix)",
-        "url": "https://open.spotify.com/album/71PHfxas0RxjsP7REVxbQa"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 160483,
-      "name": "Fria - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/44CPdSxbOvhrmvt8O3cVJk"
     },
     {
       "added_at": "2024-07-19 03:03:00",
@@ -1011,6 +1011,30 @@
     {
       "added_at": "2024-07-19 03:03:00",
       "album": {
+        "name": "Oscillator (Jack Is Back)",
+        "url": "https://open.spotify.com/album/6IyQxAbhpHfUeL3zbjNx0z"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "DJ Glen",
+          "url": "https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd"
+        },
+        {
+          "name": "Chuck Roberts",
+          "url": "https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu"
+        }
+      ],
+      "duration_ms": 168629,
+      "name": "Oscillator (Jack Is Back)",
+      "url": "https://open.spotify.com/track/6WPazu06dUe2cQ95KbS6NN"
+    },
+    {
+      "added_at": "2024-07-19 03:03:00",
+      "album": {
         "name": "Stay High (Zerb Remix)",
         "url": "https://open.spotify.com/album/3WNwoy8cC9kcksFSf4d0kM"
       },
@@ -1035,30 +1059,6 @@
       "duration_ms": 187626,
       "name": "Stay High - Zerb Remix",
       "url": "https://open.spotify.com/track/3fripGC0ptg0cUE2qkjfRF"
-    },
-    {
-      "added_at": "2024-07-19 03:03:00",
-      "album": {
-        "name": "Oscillator (Jack Is Back)",
-        "url": "https://open.spotify.com/album/6IyQxAbhpHfUeL3zbjNx0z"
-      },
-      "artists": [
-        {
-          "name": "illusionize",
-          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
-        },
-        {
-          "name": "DJ Glen",
-          "url": "https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd"
-        },
-        {
-          "name": "Chuck Roberts",
-          "url": "https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu"
-        }
-      ],
-      "duration_ms": 168629,
-      "name": "Oscillator (Jack Is Back)",
-      "url": "https://open.spotify.com/track/6WPazu06dUe2cQ95KbS6NN"
     },
     {
       "added_at": "2024-07-19 03:03:00",

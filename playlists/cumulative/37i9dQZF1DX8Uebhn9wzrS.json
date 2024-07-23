@@ -11883,6 +11883,24 @@
     },
     {
       "album": {
+        "name": "Forgotten Dreams",
+        "url": "https://open.spotify.com/album/0sZbZJCsTpcQSYwmTeGyyy"
+      },
+      "artists": [
+        {
+          "name": "Holy Jamie",
+          "url": "https://open.spotify.com/artist/0GM7yT54YHIyH0bXYCzD9u"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120429,
+      "name": "Forgotten Dreams",
+      "url": "https://open.spotify.com/track/1YjAqVamDxZouwyHBfsap3"
+    },
+    {
+      "album": {
         "name": "Forty Winks",
         "url": "https://open.spotify.com/album/3HVV3I4Z82zV6CJRIQ8h33"
       },
@@ -12484,6 +12502,24 @@
       "duration_ms": 166923,
       "name": "Fruitee",
       "url": "https://open.spotify.com/track/4cZvUiWkcNEfNgp7bzSzWt"
+    },
+    {
+      "album": {
+        "name": "fruitful",
+        "url": "https://open.spotify.com/album/54Aa9l1DxkwKe73vq424cr"
+      },
+      "artists": [
+        {
+          "name": "Oroshi",
+          "url": "https://open.spotify.com/artist/3gqs8fHrmLkMfjT5BI1bNh"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183858,
+      "name": "fruitful",
+      "url": "https://open.spotify.com/track/16ZBxJvYhFW3hRu40WG5qO"
     },
     {
       "album": {
@@ -13358,7 +13394,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 132705,
       "name": "gramophone groove",
       "url": "https://open.spotify.com/track/1o0sTvsEd5nIx3kFHtDXeP"
@@ -30464,7 +30500,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 111546,
       "name": "Spectre",
       "url": "https://open.spotify.com/track/7lAMobRN7Q1Gj00qA0TyNM"

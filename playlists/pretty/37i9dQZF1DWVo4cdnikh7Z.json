@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Thangalaan",
-  "num_followers": 665621,
+  "num_followers": 665696,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZptXcQAAAAANsEtl+dpECx5xsGqZbBiO",
+  "snapshot_id": "Zp7hDQAAAADhhViabpFN0YrTkGIti7Xa",
   "tracks": [
     {
       "added_at": "2024-07-17 12:28:30",
@@ -241,78 +241,6 @@
       "url": "https://open.spotify.com/track/4Tt5XWEl7kUawvupLCdzxh"
     },
     {
-      "added_at": "2024-07-19 06:06:04",
-      "album": {
-        "name": "Valliamma Peraandi - Vol. 01",
-        "url": "https://open.spotify.com/album/1CUpxD8bx7lF4od9FtAXCG"
-      },
-      "artists": [
-        {
-          "name": "Arivu",
-          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
-        },
-        {
-          "name": "Schnochild",
-          "url": "https://open.spotify.com/artist/1qOgMjz4fXyk6T8nfiu9Vu"
-        },
-        {
-          "name": "Alewya",
-          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
-        }
-      ],
-      "duration_ms": 170991,
-      "name": "Thodaadha",
-      "url": "https://open.spotify.com/track/3rzy4osPIm95vjZdPcyzgL"
-    },
-    {
-      "added_at": "2024-07-19 12:27:21",
-      "album": {
-        "name": "Thakida Thadhimi (From \"Boat\")",
-        "url": "https://open.spotify.com/album/7Ex9DuMwrHhyq64974ajMj"
-      },
-      "artists": [
-        {
-          "name": "Ghibran",
-          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
-        },
-        {
-          "name": "Gold Devaraj",
-          "url": "https://open.spotify.com/artist/2Daf4nkCTn4wwE3ckhBVRn"
-        },
-        {
-          "name": "Deva",
-          "url": "https://open.spotify.com/artist/3uVi0q6DLwjjLZTzs51zO1"
-        }
-      ],
-      "duration_ms": 160615,
-      "name": "Thakida Thadhimi (From \"Boat\")",
-      "url": "https://open.spotify.com/track/050r3774kILHWO4GYsB0Ab"
-    },
-    {
-      "added_at": "2024-06-17 02:33:21",
-      "album": {
-        "name": "Bhairava Anthem (From \"Kalki 2898 Ad\") (Tamil)",
-        "url": "https://open.spotify.com/album/1VakDDz6IzQqUWdbXfEZpS"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        },
-        {
-          "name": "Vivek",
-          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Bhairava Anthem (From \"Kalki 2898 Ad\") (Tamil)",
-      "url": "https://open.spotify.com/track/4pLpEysZ0Y6kZ1SCC1pNtY"
-    },
-    {
       "added_at": "2024-05-24 12:55:55",
       "album": {
         "name": "Water Packet (From \"Raayan\")",
@@ -339,6 +267,94 @@
       "duration_ms": 246002,
       "name": "Water Packet (From \"Raayan\")",
       "url": "https://open.spotify.com/track/1hHrBEkN0JIaeFPegy4Xak"
+    },
+    {
+      "added_at": "2024-07-19 12:27:21",
+      "album": {
+        "name": "Thakida Thadhimi (From \"Boat\")",
+        "url": "https://open.spotify.com/album/7Ex9DuMwrHhyq64974ajMj"
+      },
+      "artists": [
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "Gold Devaraj",
+          "url": "https://open.spotify.com/artist/2Daf4nkCTn4wwE3ckhBVRn"
+        },
+        {
+          "name": "Deva",
+          "url": "https://open.spotify.com/artist/3uVi0q6DLwjjLZTzs51zO1"
+        }
+      ],
+      "duration_ms": 160615,
+      "name": "Thakida Thadhimi (From \"Boat\")",
+      "url": "https://open.spotify.com/track/050r3774kILHWO4GYsB0Ab"
+    },
+    {
+      "added_at": "2024-07-22 22:41:31",
+      "album": {
+        "name": "Aruge Vaa (From \"Raghu Thatha\")",
+        "url": "https://open.spotify.com/album/2iwMKtyEqWPxgvtIXXp3BL"
+      },
+      "artists": [
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        }
+      ],
+      "duration_ms": 263040,
+      "name": "Aruge Vaa (From \"Raghu Thatha\")",
+      "url": "https://open.spotify.com/track/21lxLJMeg8PuLeyvz4HrYo"
+    },
+    {
+      "added_at": "2024-06-17 02:33:21",
+      "album": {
+        "name": "Bhairava Anthem (From \"Kalki 2898 Ad\") (Tamil)",
+        "url": "https://open.spotify.com/album/1VakDDz6IzQqUWdbXfEZpS"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Bhairava Anthem (From \"Kalki 2898 Ad\") (Tamil)",
+      "url": "https://open.spotify.com/track/4pLpEysZ0Y6kZ1SCC1pNtY"
+    },
+    {
+      "added_at": "2024-07-19 06:06:04",
+      "album": {
+        "name": "Valliamma Peraandi - Vol. 01",
+        "url": "https://open.spotify.com/album/1CUpxD8bx7lF4od9FtAXCG"
+      },
+      "artists": [
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        },
+        {
+          "name": "Schnochild",
+          "url": "https://open.spotify.com/artist/1qOgMjz4fXyk6T8nfiu9Vu"
+        },
+        {
+          "name": "Alewya",
+          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
+        }
+      ],
+      "duration_ms": 170991,
+      "name": "Thodaadha",
+      "url": "https://open.spotify.com/track/3rzy4osPIm95vjZdPcyzgL"
     },
     {
       "added_at": "2024-07-20 06:21:37",
@@ -389,6 +405,30 @@
       "url": "https://open.spotify.com/track/3mIyypFRBKUgcaFp70EfTW"
     },
     {
+      "added_at": "2024-07-22 22:43:00",
+      "album": {
+        "name": "Vaada Vaa (From \"Boat\")",
+        "url": "https://open.spotify.com/album/5exChmpb8NT64bONaPh38z"
+      },
+      "artists": [
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "Gold Devaraj",
+          "url": "https://open.spotify.com/artist/2Daf4nkCTn4wwE3ckhBVRn"
+        },
+        {
+          "name": "Vamanaa",
+          "url": "https://open.spotify.com/artist/5ltwHuHNxtXl6EmCW6nbdM"
+        }
+      ],
+      "duration_ms": 162089,
+      "name": "Vaada Vaa (From \"Boat\")",
+      "url": "https://open.spotify.com/track/2dsX5Hiux0kWGhleGSUjUE"
+    },
+    {
       "added_at": "2024-07-19 06:06:04",
       "album": {
         "name": "Valliamma Peraandi - Vol. 01",
@@ -435,6 +475,26 @@
       "duration_ms": 217000,
       "name": "Pakkura - From \"Sembiyan Madhevi\"",
       "url": "https://open.spotify.com/track/3aUhuZsYk8Jq5AKZwYr0hx"
+    },
+    {
+      "added_at": "2024-07-22 22:41:31",
+      "album": {
+        "name": "Avarum Sethutaara (From \"Rocket Driver\")",
+        "url": "https://open.spotify.com/album/16sRfeRepn0k296hIMnqIM"
+      },
+      "artists": [
+        {
+          "name": "Jassie Gift",
+          "url": "https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl"
+        },
+        {
+          "name": "Kaushik Krish",
+          "url": "https://open.spotify.com/artist/0qkE3ei6S9JhPheroVpzqn"
+        }
+      ],
+      "duration_ms": 206234,
+      "name": "Avarum Sethutaara - From \"Rocket Driver\"",
+      "url": "https://open.spotify.com/track/5zSodppTYBerBZHNGMeNSB"
     },
     {
       "added_at": "2024-07-06 14:10:30",
@@ -1177,30 +1237,6 @@
       "url": "https://open.spotify.com/track/1ZzYPJ20fj7rEyrNWiBLc5"
     },
     {
-      "added_at": "2024-04-12 10:10:00",
-      "album": {
-        "name": "Thala Forever - Whistle for Dhoni",
-        "url": "https://open.spotify.com/album/2ZQjEJaQHe2opILdX8eHik"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Narendar Sankar",
-          "url": "https://open.spotify.com/artist/2sHlh9GXbnnLWMLKT3RqPG"
-        },
-        {
-          "name": "Arish",
-          "url": "https://open.spotify.com/artist/4Rdq83q6jEyKm1d93sMHqX"
-        }
-      ],
-      "duration_ms": 208070,
-      "name": "Thala Forever - Whistle for Dhoni",
-      "url": "https://open.spotify.com/track/3ksNJELawyxwq4fLdKTPcV"
-    },
-    {
       "added_at": "2024-05-10 08:57:39",
       "album": {
         "name": "Theera (From \"Election\")",
@@ -1525,26 +1561,6 @@
       "url": "https://open.spotify.com/track/4LE4BUcrDqfSStt2oJisqb"
     },
     {
-      "added_at": "2024-05-09 11:12:02",
-      "album": {
-        "name": "Kurangu Pedal (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3OubgHUF1CT6YmCjOmN72s"
-      },
-      "artists": [
-        {
-          "name": "Ghibran",
-          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
-        },
-        {
-          "name": "Gold Devaraj",
-          "url": "https://open.spotify.com/artist/2Daf4nkCTn4wwE3ckhBVRn"
-        }
-      ],
-      "duration_ms": 265936,
-      "name": "Theraattam Poguthu",
-      "url": "https://open.spotify.com/track/6qrdOL9wdshydIBY3OHT6G"
-    },
-    {
       "added_at": "2024-05-06 09:02:56",
       "album": {
         "name": "Star (Original Motion Picture Soundtrack)",
@@ -1623,30 +1639,6 @@
       "duration_ms": 216749,
       "name": "Ente Omane",
       "url": "https://open.spotify.com/track/4UiTkQk7CFSwgg10oIeARW"
-    },
-    {
-      "added_at": "2024-04-23 15:00:36",
-      "album": {
-        "name": "Mandaikku Soouurru Eruthu (From \"Soodhu Kavvum 2\") (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5MbkUHSUXoFIdYGq4dPzIw"
-      },
-      "artists": [
-        {
-          "name": "Karnan Kanapathy",
-          "url": "https://open.spotify.com/artist/7ckDqrVOzKpUk5yqQpQyPf"
-        },
-        {
-          "name": "Premgi Amaren",
-          "url": "https://open.spotify.com/artist/4GxNKj50amLne9azxcrqK2"
-        },
-        {
-          "name": "Stephen Zechariah",
-          "url": "https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG"
-        }
-      ],
-      "duration_ms": 107271,
-      "name": "Mandaikku Soouurru Eruthu (From \"Soodhu Kavvum 2\") (Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/1NraWaup7fKQJSahx60NcV"
     },
     {
       "added_at": "2024-04-18 22:05:50",

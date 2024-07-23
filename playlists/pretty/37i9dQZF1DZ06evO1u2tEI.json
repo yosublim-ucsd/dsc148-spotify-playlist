@@ -1,12 +1,12 @@
 {
-  "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 76290,
+  "description": "This Is Elliott Smith. Los temas esenciales, todos en una lista.",
+  "num_followers": 76315,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpr+AAAAAAA8//d+cJmEUqhYKXtkZRCc",
+  "snapshot_id": "ZpxPgAAAAAC6TDHYuhetE8XABmk7k8Vs",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 141280,
       "name": "Between The Bars",
       "url": "https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 280106,
+      "name": "Waltz #2 (XO)",
+      "url": "https://open.spotify.com/track/5AMrnF761nziCWUfjBgRUI"
     },
     {
       "added_at": null,
@@ -59,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "XO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3uLHeL4d8aILBRlfpWNPYM"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 192280,
-      "name": "Miss Misery",
-      "url": "https://open.spotify.com/track/4zetUxeSCCDwrr1jJT0SuD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
       },
@@ -87,6 +87,22 @@
       "duration_ms": 139000,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/4IKMZtDIqyQDA6a4YvsgpK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3uLHeL4d8aILBRlfpWNPYM"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 192280,
+      "name": "Miss Misery",
+      "url": "https://open.spotify.com/track/4zetUxeSCCDwrr1jJT0SuD"
     },
     {
       "added_at": null,
@@ -123,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 176826,
+      "name": "Angeles",
+      "url": "https://open.spotify.com/track/1aMafyDbpEw3a8FrVhwRlg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Elliott Smith",
         "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
       },
@@ -139,6 +171,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Figure 8",
+        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "Everything Reminds Me Of Her",
+      "url": "https://open.spotify.com/track/3nkdVXnH4xC6f3YZS0C8pC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Independence Day",
+      "url": "https://open.spotify.com/track/3pM7gfel0ho7yVJw4KK5Eq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
       },
@@ -148,9 +212,25 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 176826,
-      "name": "Angeles",
-      "url": "https://open.spotify.com/track/1aMafyDbpEw3a8FrVhwRlg"
+      "duration_ms": 168333,
+      "name": "Ballad Of Big Nothing",
+      "url": "https://open.spotify.com/track/6L9uay2MM8qACwI1yQHnw2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 157360,
+      "name": "Angel In The Snow",
+      "url": "https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9"
     },
     {
       "added_at": null,
@@ -180,25 +260,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 184906,
-      "name": "Independence Day",
-      "url": "https://open.spotify.com/track/3pM7gfel0ho7yVJw4KK5Eq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 157360,
-      "name": "Angel In The Snow",
-      "url": "https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9"
+      "duration_ms": 137533,
+      "name": "I Didn't Understand",
+      "url": "https://open.spotify.com/track/3IQApXKUun0iHHtpsvI7xL"
     },
     {
       "added_at": null,
@@ -212,9 +276,25 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 168333,
-      "name": "Ballad Of Big Nothing",
-      "url": "https://open.spotify.com/track/6L9uay2MM8qACwI1yQHnw2"
+      "duration_ms": 181293,
+      "name": "Speed Trials",
+      "url": "https://open.spotify.com/track/05lmqBrKGLHAmqsADEuU9a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 137800,
+      "name": "Whatever (Folk Song In C)",
+      "url": "https://open.spotify.com/track/5CrMp9BViHrB30hM6gbmIx"
     },
     {
       "added_at": null,
@@ -244,25 +324,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 137533,
-      "name": "I Didn't Understand",
-      "url": "https://open.spotify.com/track/3IQApXKUun0iHHtpsvI7xL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 137800,
-      "name": "Whatever (Folk Song In C)",
-      "url": "https://open.spotify.com/track/5CrMp9BViHrB30hM6gbmIx"
+      "duration_ms": 193760,
+      "name": "Baby Britain",
+      "url": "https://open.spotify.com/track/3pwj90XGAD6I0jO3q6fkCx"
     },
     {
       "added_at": null,
@@ -276,41 +340,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 181293,
-      "name": "Speed Trials",
-      "url": "https://open.spotify.com/track/05lmqBrKGLHAmqsADEuU9a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Figure 8",
-        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 113240,
-      "name": "Bye",
-      "url": "https://open.spotify.com/track/4JosyubgIpErAsvMKwph8n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 193760,
-      "name": "Baby Britain",
-      "url": "https://open.spotify.com/track/3pwj90XGAD6I0jO3q6fkCx"
+      "duration_ms": 223400,
+      "name": "Alameda",
+      "url": "https://open.spotify.com/track/7hg9DGPDztq8fjIr2YweZb"
     },
     {
       "added_at": null,
@@ -331,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Either/Or",
-        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
+        "name": "Figure 8",
+        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
       },
       "artists": [
         {
@@ -340,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 223400,
-      "name": "Alameda",
-      "url": "https://open.spotify.com/track/7hg9DGPDztq8fjIr2YweZb"
+      "duration_ms": 113240,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/4JosyubgIpErAsvMKwph8n"
     },
     {
       "added_at": null,
@@ -375,22 +407,6 @@
       "duration_ms": 269360,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/51LWYJAmtqHLYOQD1BKG9X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Figure 8",
-        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 229706,
-      "name": "Junk Bond Trader",
-      "url": "https://open.spotify.com/track/5I82Gy3FcoPGP4rzYbXADt"
     },
     {
       "added_at": null,
@@ -479,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
+        "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
       },
       "artists": [
         {
@@ -488,9 +504,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 187133,
-      "name": "Tomorrow Tomorrow",
-      "url": "https://open.spotify.com/track/1cYudm5fk5igcsjroJKmFw"
+      "duration_ms": 183053,
+      "name": "No Name #1",
+      "url": "https://open.spotify.com/track/5fKfzL3IVXqilKqFu1E8is"
     },
     {
       "added_at": null,
@@ -511,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roman Candle",
-        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
       },
       "artists": [
         {
@@ -520,9 +536,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 183053,
-      "name": "No Name #1",
-      "url": "https://open.spotify.com/track/5fKfzL3IVXqilKqFu1E8is"
+      "duration_ms": 231560,
+      "name": "Going Nowhere",
+      "url": "https://open.spotify.com/track/3j7kIRldLpus5gJK21dhId"
     },
     {
       "added_at": null,
@@ -543,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
+        "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
       },
       "artists": [
         {
@@ -552,9 +568,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 231560,
-      "name": "Going Nowhere",
-      "url": "https://open.spotify.com/track/3j7kIRldLpus5gJK21dhId"
+      "duration_ms": 214853,
+      "name": "Condor Ave",
+      "url": "https://open.spotify.com/track/2lUejG76ZEmgY7PvzwxxTj"
     },
     {
       "added_at": null,
@@ -575,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roman Candle",
-        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
       },
       "artists": [
         {
@@ -584,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 214853,
-      "name": "Condor Ave",
-      "url": "https://open.spotify.com/track/2lUejG76ZEmgY7PvzwxxTj"
+      "duration_ms": 204573,
+      "name": "Pretty Mary K (Other Version)",
+      "url": "https://open.spotify.com/track/5m80zPT09wNZd3MO7flmEv"
     },
     {
       "added_at": null,
@@ -603,22 +619,6 @@
       "duration_ms": 147240,
       "name": "Let's Get Lost",
       "url": "https://open.spotify.com/track/7CV3sIPtEwUhdZ5E3Qgykq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 204573,
-      "name": "Pretty Mary K (Other Version)",
-      "url": "https://open.spotify.com/track/5m80zPT09wNZd3MO7flmEv"
     },
     {
       "added_at": null,

@@ -6,7 +6,7 @@
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAapEcdE7RclzysvSEXORMn9bDnjta5",
+  "snapshot_id": "AAAappYiP5x1bm9QYI6BYGCv6AYAVpgu",
   "tracks": [
     {
       "added_at": "2024-04-24 23:11:22",
@@ -39,6 +39,26 @@
       "duration_ms": 114135,
       "name": "soak city (do it)",
       "url": "https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB"
+    },
+    {
+      "added_at": "2024-07-22 18:49:16",
+      "album": {
+        "name": "Ghetto Boyz",
+        "url": "https://open.spotify.com/album/40chibcpJl6iVoRkdKk4ql"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        }
+      ],
+      "duration_ms": 133708,
+      "name": "Ghetto Boyz",
+      "url": "https://open.spotify.com/track/1EH3nPHVZbWn2LTwxrp3j1"
     },
     {
       "added_at": "2024-06-14 22:48:57",

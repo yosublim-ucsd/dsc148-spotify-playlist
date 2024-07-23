@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-708 songs - 1 day 6 hr 8 min
+709 songs - 1 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Eclipse](https://open.spotify.com/track/4jsclhn5Q5oYDdV8uFa1DS) | [Taylor Owen](https://open.spotify.com/artist/6ZjCGd6OJIo6RTmtY8Kz0v) | [Eclipse](https://open.spotify.com/album/526Ra8D1uYLW8XcpT0Tw29) | 2:04 | 2024-02-02 |  |
 | [Een droom](https://open.spotify.com/track/3P7nk24Jc1yp0vemiFhPLh) | [Leandra Annemie](https://open.spotify.com/artist/1ET9NGdvdAIpABpOdrZQYr) | [Een droom](https://open.spotify.com/album/6Rb00pg6majXThMxoPEjJA) | 2:07 | 2023-04-21 |  |
 | [El Antiguo Camino](https://open.spotify.com/track/6c7m8DqA9iH8R1PrA3DzVn) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [El Antiguo Camino](https://open.spotify.com/album/092tdrmx3Ot8b75qGeZg0q) | 2:36 | 2022-10-28 | 2023-03-31 |
+| [El Mayor](https://open.spotify.com/track/0zCXkQqiVItDnClHPSyNd1) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [El Mayor](https://open.spotify.com/album/15WDSMS14fdqlntiw5SwLF) | 2:09 | 2024-07-19 |  |
 | [El Raval](https://open.spotify.com/track/6uJivEVCODHUHv5d772Sll) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [El Raval](https://open.spotify.com/album/6ZDP9iCNBu05nZfeJQ2Ez4) | 3:07 | 2022-07-15 | 2022-07-29 |
 | [El Sabio](https://open.spotify.com/track/1BD7TSYXjUvy4TSK32Wdvt) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [El Sabio](https://open.spotify.com/album/7rEdQ9J5cqBWErZkHyLf7n) | 2:06 | 2022-12-09 | 2023-04-22 |
 | [El Viaje](https://open.spotify.com/track/2YFGFwuUBprxAXQjVHS4Q3) | [Juan Jose Moreno](https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P) | [El Viaje](https://open.spotify.com/album/44HzmqeXrVMkV4XCAb4Muv) | 2:48 | 2022-07-15 | 2022-07-29 |
@@ -428,7 +429,7 @@
 | [Mértola](https://open.spotify.com/track/6ht9QNV3O5IZGXzX8QXHI0) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Mértola](https://open.spotify.com/album/3vx3SZudj0S0aS87AlYcRm) | 3:01 | 2023-11-24 | 2024-05-24 |
 | [Même Dans La Mort](https://open.spotify.com/track/39F5SdQXokv3QJxmLODxfU) | [Jourdain Hume](https://open.spotify.com/artist/60PchiK8jssOvwkHk8By6Q) | [Même Dans La Mort](https://open.spotify.com/album/3RJkaEjjDI6fvQocZnebby) | 2:16 | 2023-04-21 |  |
 | [Nachtfalke](https://open.spotify.com/track/1KA3f0hBZfwbcoeDidN91k) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Nachtfalke](https://open.spotify.com/album/665FBCmE1FNe3sycFJ5wCO) | 4:21 | 2022-07-15 | 2023-03-11 |
-| [Nana 1985 \(Two Guitars Version\)](https://open.spotify.com/track/7cn8OaiEmm9eM5cO5m3JqJ) | [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM) | [Nana 1985 \(Two Guitars Version\)](https://open.spotify.com/album/2LTna82bAjdhBShUJh7Vn6) | 2:39 | 2023-04-21 |  |
+| [Nana 1985 \(Two Guitars Version\)](https://open.spotify.com/track/7cn8OaiEmm9eM5cO5m3JqJ) | [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM) | [Nana 1985 \(Two Guitars Version\)](https://open.spotify.com/album/2LTna82bAjdhBShUJh7Vn6) | 2:39 | 2023-04-21 | 2024-07-23 |
 | [Nascondiglio](https://open.spotify.com/track/5lz0ZF3oUGWZpt7TjdlAwf) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [Nascondiglio](https://open.spotify.com/album/6dxdPL7IFCKy0f0V15eJHX) | 2:25 | 2023-04-21 | 2023-05-13 |
 | [Natural State](https://open.spotify.com/track/6kvTeQ3FJGVt1UYFcKNPe7) | [Mia Cornell](https://open.spotify.com/artist/22hTiR40dkmbKc5bLT5owB) | [Natural State](https://open.spotify.com/album/5n7ZLyBMJU1UWtpUCAiVwF) | 2:24 | 2022-07-15 | 2024-04-06 |
 | [Nebula's Lullaby](https://open.spotify.com/track/3bpXmth8hxymLN2H457E9b) | [Serena Perez](https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR) | [Nebula's Lullaby](https://open.spotify.com/album/6x9a7Hpb4vgKqTblifErDo) | 2:08 | 2023-12-15 |  |

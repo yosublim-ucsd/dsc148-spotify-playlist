@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Lasso, Sofia Reyes
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,365 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,383 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 5 | [Coronada](https://open.spotify.com/track/3EkjYdIcPy5pmRKncozJun) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Gabriel C](https://open.spotify.com/artist/5MXG4Q2qBDsT8AGcTX0nAj) | [ÑEROSTARS](https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU) | 3:18 |
 | 6 | [Zero](https://open.spotify.com/track/7u6vHgLvAktTSW0KTDPvC4) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI) | [Zero](https://open.spotify.com/album/6hihmmdxAEIdIwp6CUILEY) | 3:00 |
 | 7 | [Deja de Llorar \- Remix](https://open.spotify.com/track/213XnJpTBY7pkumgiaR15m) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Deja de Llorar \(Remix\)](https://open.spotify.com/album/3ZCFRZG7ZPYRhbMrid7BR5) | 3:17 |
-| 8 | [SINVERGÜENZA \- con Angela Torres](https://open.spotify.com/track/2xbH0CuDbid800YW5nMPzR) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [SINVERGÜENZA \- con Angela Torres](https://open.spotify.com/album/2j4yf0X00zieL424k90UVn) | 3:37 |
+| 8 | [ME DUELE TU TRAICIÓN](https://open.spotify.com/track/6HegiTRemAAx7CN8tHqRta) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [ME DUELE TU TRAICIÓN](https://open.spotify.com/album/30DgBlS7pFZFRnkbum26E8) | 3:32 |
 | 9 | [Quedamos solo amigos](https://open.spotify.com/track/29ImtnW7jPW3JsnF9RtUrX) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [Quedamos solo amigos](https://open.spotify.com/album/7jC8V0VtNvueGqLMvYwFtj) | 2:40 |
 | 10 | [Pájaro y Demonio](https://open.spotify.com/track/2JjIRzMOIkIiM8WZ7fiXvx) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Pájaro y Demonio](https://open.spotify.com/album/00qCqI06k51qcsVRVMXLIQ) | 3:46 |
 | 11 | [No Me Valió](https://open.spotify.com/track/5hi6YEJOjzigd5wEJjaavl) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [No Me Valió](https://open.spotify.com/album/3KYX8Gjc0pPOoZfMyIQSee) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Ojitos Cerrados](https://open.spotify.com/track/01gEeTQvRM1lt9P8uPbjyw) | [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL) | [Ojitos Cerrados](https://open.spotify.com/album/75NwksYxfwwQiqR3TlfqL2) | 2:40 |
 | 50 | [Tu Nombre](https://open.spotify.com/track/6CfgJrpZrx2PfiS8NoFxgG) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7), [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Tu Nombre](https://open.spotify.com/album/5mXyq9C7w69KlACfjXyS3E) | 3:30 |
 
-Snapshot ID: `ZpoA4AAAAABDtmR1SpN+I7NgJGkbdfe/`
+Snapshot ID: `Zp6ehgAAAADw+DLQoXAoWQ5CJH7vZ9ws`

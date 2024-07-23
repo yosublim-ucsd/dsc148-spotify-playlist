@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05d3\u05d5\u05d3\u05d5 \u05d8\u05e1\u05d4",
-  "num_followers": 29849,
+  "num_followers": 29862,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -835,18 +835,18 @@
     {
       "added_at": "2024-07-18 21:00:00",
       "album": {
-        "name": "\u05d4\u05d0\u05dd \u05e0\u05d3\u05e2 \u05dc\u05d4\u05d9\u05d5\u05d5\u05dc\u05d3 \u05e9\u05d5\u05d1 \u05de\u05d7\u05d3\u05e9",
-        "url": "https://open.spotify.com/album/5rzvnCtCEJk4pGsxx8OkFL"
+        "name": "Petrified",
+        "url": "https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP"
       },
       "artists": [
         {
-          "name": "The Backyard",
-          "url": "https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB"
+          "name": "David Lerner",
+          "url": "https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR"
         }
       ],
-      "duration_ms": 226000,
-      "name": "\u05d4\u05d0\u05dd \u05e0\u05d3\u05e2 \u05dc\u05d4\u05d9\u05d5\u05d5\u05dc\u05d3 \u05e9\u05d5\u05d1 \u05de\u05d7\u05d3\u05e9",
-      "url": "https://open.spotify.com/track/6icmYzENBRjRO5AKIP2kBz"
+      "duration_ms": 252456,
+      "name": "Petrified",
+      "url": "https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV"
     },
     {
       "added_at": "2024-07-18 21:00:00",
@@ -863,6 +863,22 @@
       "duration_ms": 152584,
       "name": "Shot Shot Cherry",
       "url": "https://open.spotify.com/track/2YtGRSOyUBzvmavhAV73XD"
+    },
+    {
+      "added_at": "2024-07-18 21:00:00",
+      "album": {
+        "name": "\u05d4\u05d0\u05dd \u05e0\u05d3\u05e2 \u05dc\u05d4\u05d9\u05d5\u05d5\u05dc\u05d3 \u05e9\u05d5\u05d1 \u05de\u05d7\u05d3\u05e9",
+        "url": "https://open.spotify.com/album/5rzvnCtCEJk4pGsxx8OkFL"
+      },
+      "artists": [
+        {
+          "name": "The Backyard",
+          "url": "https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "\u05d4\u05d0\u05dd \u05e0\u05d3\u05e2 \u05dc\u05d4\u05d9\u05d5\u05d5\u05dc\u05d3 \u05e9\u05d5\u05d1 \u05de\u05d7\u05d3\u05e9",
+      "url": "https://open.spotify.com/track/6icmYzENBRjRO5AKIP2kBz"
     },
     {
       "added_at": "2024-07-18 21:00:00",
@@ -887,22 +903,6 @@
     {
       "added_at": "2024-07-18 21:00:00",
       "album": {
-        "name": "\u05db\u05d9\u05e9\u05d5\u05e3",
-        "url": "https://open.spotify.com/album/2AYNaul3xaYy6bh4aVaXHE"
-      },
-      "artists": [
-        {
-          "name": "Jane Bordeaux",
-          "url": "https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4"
-        }
-      ],
-      "duration_ms": 203890,
-      "name": "\u05db\u05d9\u05e9\u05d5\u05e3",
-      "url": "https://open.spotify.com/track/2ujR5NQ1zx65qwCbobw8br"
-    },
-    {
-      "added_at": "2024-07-18 21:00:00",
-      "album": {
         "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
         "url": "https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW"
       },
@@ -919,18 +919,18 @@
     {
       "added_at": "2024-07-18 21:00:00",
       "album": {
-        "name": "Petrified",
-        "url": "https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP"
+        "name": "\u05db\u05d9\u05e9\u05d5\u05e3",
+        "url": "https://open.spotify.com/album/2AYNaul3xaYy6bh4aVaXHE"
       },
       "artists": [
         {
-          "name": "David Lerner",
-          "url": "https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR"
+          "name": "Jane Bordeaux",
+          "url": "https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4"
         }
       ],
-      "duration_ms": 252456,
-      "name": "Petrified",
-      "url": "https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV"
+      "duration_ms": 203890,
+      "name": "\u05db\u05d9\u05e9\u05d5\u05e3",
+      "url": "https://open.spotify.com/track/2ujR5NQ1zx65qwCbobw8br"
     },
     {
       "added_at": "2024-07-18 21:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-07-18 21:00:00",
       "album": {
-        "name": "\u05d1\u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05e8",
-        "url": "https://open.spotify.com/album/0Ch02uieisTBRUvU3i5vfJ"
-      },
-      "artists": [
-        {
-          "name": "Yoni Rechter",
-          "url": "https://open.spotify.com/artist/05YG290otZjn1UMHXjEqxh"
-        }
-      ],
-      "duration_ms": 205720,
-      "name": "\u05d1\u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05e8",
-      "url": "https://open.spotify.com/track/6m3qxagd6VP0zpBnfd6MXi"
-    },
-    {
-      "added_at": "2024-07-18 21:00:00",
-      "album": {
         "name": "You Are What You Do",
         "url": "https://open.spotify.com/album/2zpV0nJZs5H56fETTAynlx"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 200146,
       "name": "Smile Again",
       "url": "https://open.spotify.com/track/1lQjJ8jEgRtlvHWK16JyER"
+    },
+    {
+      "added_at": "2024-07-18 21:00:00",
+      "album": {
+        "name": "\u05d1\u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05e8",
+        "url": "https://open.spotify.com/album/0Ch02uieisTBRUvU3i5vfJ"
+      },
+      "artists": [
+        {
+          "name": "Yoni Rechter",
+          "url": "https://open.spotify.com/artist/05YG290otZjn1UMHXjEqxh"
+        }
+      ],
+      "duration_ms": 205720,
+      "name": "\u05d1\u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05e8",
+      "url": "https://open.spotify.com/track/6m3qxagd6VP0zpBnfd6MXi"
     },
     {
       "added_at": "2024-07-18 21:00:00",
@@ -1039,18 +1039,26 @@
     {
       "added_at": "2024-07-18 21:00:00",
       "album": {
-        "name": "\u05db\u05d9\u05e9\u05d5\u05e3",
-        "url": "https://open.spotify.com/album/1DwHJ5aREc5hKCyv6uI1Eg"
+        "name": "\u05e9\u05d9\u05e8 \u05d0\u05d4\u05d1\u05d4 \u05d0\u05d9\u05e0\u05d3\u05d9\u05d0\u05e0\u05d9",
+        "url": "https://open.spotify.com/album/1aEuZGohsPhpxjUIR0HMVm"
       },
       "artists": [
         {
-          "name": "Jane Bordeaux",
-          "url": "https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4"
+          "name": "Barak Biton",
+          "url": "https://open.spotify.com/artist/4jk2OJYfUVhgPigfQpb2mh"
+        },
+        {
+          "name": "Alma Zohar",
+          "url": "https://open.spotify.com/artist/61Sbigb2Faz8K27wBoOBo9"
+        },
+        {
+          "name": "Shekel",
+          "url": "https://open.spotify.com/artist/4XRymSxqMfKCkA6njs39lM"
         }
       ],
-      "duration_ms": 197100,
-      "name": "\u05d0\u05e4\u05d5\u05e7\u05dc\u05d9\u05e4\u05e1\u05d4",
-      "url": "https://open.spotify.com/track/2F3vpzuGutSHZNDtCulFtA"
+      "duration_ms": 195494,
+      "name": "\u05e9\u05d9\u05e8 \u05d0\u05d4\u05d1\u05d4 \u05d0\u05d9\u05e0\u05d3\u05d9\u05d0\u05e0\u05d9",
+      "url": "https://open.spotify.com/track/7hAU0v73HDHE4XQPvL1xVH"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

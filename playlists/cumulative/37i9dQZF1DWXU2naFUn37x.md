@@ -2,7 +2,7 @@
 
 ### [Street Culto](https://open.spotify.com/playlist/37i9dQZF1DWXU2naFUn37x)
 
-> Il top dello street rap italiano, con in cover Artie 5ive e Guè
+> Il top dello street rap italiano, in cover Artie 5ive e Guè
 
 580 songs - 1 day 2 hr 37 min
 

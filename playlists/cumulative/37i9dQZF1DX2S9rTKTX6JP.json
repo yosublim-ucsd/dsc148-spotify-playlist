@@ -1250,7 +1250,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 211956,
       "name": "Crawling",
       "url": "https://open.spotify.com/track/3kBrf6U9QWh4lZ5wBvtE8e"
@@ -3579,6 +3579,24 @@
     },
     {
       "album": {
+        "name": "Like A Stone (Reimagined)",
+        "url": "https://open.spotify.com/album/6xCsPSZ3THpZRrYPox5kK2"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287631,
+      "name": "Like A Stone - Reimagined",
+      "url": "https://open.spotify.com/track/2EHZpEtgE48ztROdwkPgfQ"
+    },
+    {
+      "album": {
         "name": "The Dirt Soundtrack",
         "url": "https://open.spotify.com/album/1FeIa1My6QQ6oQjUYxI36O"
       },
@@ -4418,7 +4436,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 472253,
       "name": "Papa Was a Rolling Stone (feat. Demi Lovato)",
       "url": "https://open.spotify.com/track/2ZBE2MwgYqw6JgNgUztCVZ"
@@ -4790,7 +4808,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 237653,
       "name": "Rolling In The Deep - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5GYPG4kaMv1nSSQtMca3iM"

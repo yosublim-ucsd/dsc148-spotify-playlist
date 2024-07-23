@@ -2,7 +2,7 @@
 
 ### [Gacha Pop](https://open.spotify.com/playlist/37i9dQZF1DX9ww9tisjowN)
 
-> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: MNNK Bro\. \(Takashi　　　　<br/>Murakami + JP THE WAVY\) ©TM/KK
+> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: MNNK Bro\. \(Takashi Murakami + JP THE WAVY\) ©TM/KK
 
 501 songs - 1 day 4 hr 52 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 
 > Si tocan a una respondemos todas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,388 likes - 65 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,391 likes - 65 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 41 | [Nos Queremos Vivas](https://open.spotify.com/track/4UYBH2rHhTDa655jgcfZUt) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Nos Queremos Vivas](https://open.spotify.com/album/5Dqwsm0uvmt6TvPHScZ35W) | 3:40 |
 | 42 | [Ovarios](https://open.spotify.com/track/2gC9hVnERFu46pSYh3xNST) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Ovarios](https://open.spotify.com/album/277fN3hslccaJCKC6Evvnk) | 4:09 |
 | 43 | [somos flores](https://open.spotify.com/track/34xv9WXxnZxaiHd23LoYxK) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [somos flores](https://open.spotify.com/album/3xzMAIxJ88TfqcoaOiFhDd) | 3:26 |
-| 44 | [Déjame de Matar](https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Déjame de Matar](https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK) | 3:10 |
-| 45 | [Amiga](https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Amiga](https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x) | 2:37 |
+| 44 | [Amiga](https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Amiga](https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x) | 2:37 |
+| 45 | [Déjame de Matar](https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Déjame de Matar](https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK) | 3:10 |
 | 46 | [Bruja](https://open.spotify.com/track/01XccHu8pc3IIdCyT6lGl4) | [Jueves](https://open.spotify.com/artist/0QgjobhNIK7xjezjEl1giw), [Adryana Marroquín](https://open.spotify.com/artist/4ksR4M4XHakLLh7YaTE7zh), [Fernanda Elío](https://open.spotify.com/artist/3fWL42NNnFgoXDTgVfWVrK), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI), [Lúa Jenn](https://open.spotify.com/artist/7IxAfATN571mFtoyZHwCgE), [Michelle Anzo](https://open.spotify.com/artist/7fF7CiFel3ggkgm1tDIgvb), [Tyna Ros](https://open.spotify.com/artist/0UISs14imd71l4ruoL2XPT), [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV) | [Bruja](https://open.spotify.com/album/1qeYxt5kg2nX9Bw3Qic8jj) | 2:33 |
 | 47 | [Lucha](https://open.spotify.com/track/3wMvE0XAID6AIP13rJedQ6) | [AKACATS](https://open.spotify.com/artist/5SaHvzTtCZQHeRjbUsJq1X), [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [Lucha](https://open.spotify.com/album/6gRDacwclCBvNamgOgKCa6) | 3:26 |
 | 48 | [Mujeres](https://open.spotify.com/track/34bvJEceDRCHVQDyPd7sa2) | [Banda Femenil Regional "Mujeres del Viento Florido"](https://open.spotify.com/artist/1x4v8vs04mwdQwKy74mQBd) | [Mujeres](https://open.spotify.com/album/2umjf37Z9va9M5JSgEPR5V) | 3:15 |

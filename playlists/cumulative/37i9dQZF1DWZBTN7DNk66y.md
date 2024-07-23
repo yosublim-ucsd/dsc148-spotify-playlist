@@ -4,7 +4,7 @@
 
 > El nuevo sonido de la canción sudamericana de la mano de Seba Alfaro.
 
-106 songs - 6 hr 13 min
+107 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Amor Libre](https://open.spotify.com/track/6fFG7bHilanpAAbEu9jF95) | [Rocio Igarzabal](https://open.spotify.com/artist/7HzX50l6Oi0gFLTkdHJcOZ), [Lola Parda](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [Amor Libre](https://open.spotify.com/album/0FCNWttcDi6rF5pRuwppVx) | 3:05 | 2024-06-28 |  |
 | [Ana María](https://open.spotify.com/track/56frUZQsbNRY22EyjcuCrH) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [TÁ](https://open.spotify.com/album/2jqMX5VF39iN4Jgm1SSh03) | 2:20 | 2024-06-28 |  |
 | [Apasionadamente](https://open.spotify.com/track/40R2dPgyTDiToHbjU6Nen0) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y), [Juan Pablo de Mendonça](https://open.spotify.com/artist/3mtXjQYoBmpnmZeCchOLVT) | [Sed de Ternura Vol.1 \(Duo Set\)](https://open.spotify.com/album/4qYPcULqIyFhuyqBRbDHpA) | 3:07 | 2024-06-28 | 2024-07-13 |
-| [Arrancar el Día](https://open.spotify.com/track/2ylkfIWfKXb7mTb17GxVhc) | [Julieta Diaz](https://open.spotify.com/artist/5Rsf5ssoL1u7kInV5NK7qF), [Diego Presa](https://open.spotify.com/artist/3ocrfk5U9Q5V2j6F0T8fjT) | [Arrancar el Día](https://open.spotify.com/album/6zQPVrqbDGJQAwBHFA55Hc) | 3:36 | 2024-06-28 |  |
+| [Arrancar el Día](https://open.spotify.com/track/2ylkfIWfKXb7mTb17GxVhc) | [Julieta Diaz](https://open.spotify.com/artist/5Rsf5ssoL1u7kInV5NK7qF), [Diego Presa](https://open.spotify.com/artist/3ocrfk5U9Q5V2j6F0T8fjT) | [Arrancar el Día](https://open.spotify.com/album/6zQPVrqbDGJQAwBHFA55Hc) | 3:36 | 2024-06-28 | 2024-07-23 |
 | [Arrullito](https://open.spotify.com/track/3UQhsG1P4KM2cueYmYMWRi) | [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Arrullito](https://open.spotify.com/album/4kASZ1hMeBCDM1bE61NQLz) | 3:48 | 2024-06-28 |  |
 | [Así Sea](https://open.spotify.com/track/3oz3bcmqhDrESwfzuYTXTo) | [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda), [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [Así Sea](https://open.spotify.com/album/4T9FJTDQanEnBuU9ejrLhB) | 3:36 | 2024-06-28 |  |
 | [Barquito de Papel](https://open.spotify.com/track/69i2pr9PTrJ8rIT9sjnPlj) | [Elizabeth Morris](https://open.spotify.com/artist/3kJaCi1igGWOKYUVDdJnoi) | [Los Ojos del Corazón](https://open.spotify.com/album/4WTFgsaQUZMEeCprqxxH4b) | 3:51 | 2024-06-28 |  |
@@ -44,6 +44,7 @@
 | [Felipa y la Luna](https://open.spotify.com/track/2stlqZmixD2n8YF79fanaj) | [Joaquin del Mundo](https://open.spotify.com/artist/5akC5ZXbpjIWwpsLXfw9hS) | [LIVE SESSION](https://open.spotify.com/album/2T7m6TjBDqQqKyEGrXCoKG) | 3:25 | 2024-06-28 |  |
 | [Ficción](https://open.spotify.com/track/6lqD2TljGW0XoWTxhYs5Yj) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [OTRX](https://open.spotify.com/album/6AS4KbrYma83kDn1WORqly) | 2:55 | 2024-06-28 |  |
 | [Frascuelo](https://open.spotify.com/track/6Ls9qttIRWBG4hLDZK7kku) | [Juan Cottet](https://open.spotify.com/artist/2c3DwX82qvgVH4HBtnP5N4) | [FRÁGIL](https://open.spotify.com/album/0HzJ9p25CxxmrntNPch3Qz) | 3:29 | 2024-07-12 |  |
+| [Frik](https://open.spotify.com/track/3BSHiT7tGIf5VafjR2u3tF) | [Juan Campodónico](https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Frik](https://open.spotify.com/album/1o9jga0jQBT8ApCNP5IV65) | 3:13 | 2024-07-22 |  |
 | [Fronteras](https://open.spotify.com/track/6wu6ygRWypOH95DR43izkz) | [Montse](https://open.spotify.com/artist/3T0GzJMjk9HMVCWH8cteSm) | [Fronteras](https://open.spotify.com/album/6KyNfwXo4sb3ZqhbwE800U) | 4:18 | 2024-07-12 |  |
 | [Fósil](https://open.spotify.com/track/0gxxQkcl0XPRnAvwG0XZ5K) | [La Chicana](https://open.spotify.com/artist/5G6S0tVzlQJD709dvAvOyQ) | [Los Lobos del Recuerdo](https://open.spotify.com/album/17BgcItk2ixHXDenSIdA4T) | 2:51 | 2024-06-28 |  |
 | [Guitarra Dímelo Tú](https://open.spotify.com/track/3vaqzU9dZBtwWTKI3MsUJd) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [PATA DE PERRA](https://open.spotify.com/album/6hUqvWg7adYcRcWLJhJZJO) | 3:15 | 2024-06-28 |  |

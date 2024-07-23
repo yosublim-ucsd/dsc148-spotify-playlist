@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Zaynara, Pabllo Vittar",
-  "num_followers": 372448,
+  "num_followers": 372440,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Te Procurei",
-        "url": "https://open.spotify.com/album/4OOoEFmG410X2Ww1YyX9IN"
-      },
-      "artists": [
-        {
-          "name": "Elana Dara",
-          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
-        }
-      ],
-      "duration_ms": 161903,
-      "name": "Te Procurei",
-      "url": "https://open.spotify.com/track/2RZzQJKn6byIPL1ldj8nca"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "BOTA A CARA",
         "url": "https://open.spotify.com/album/5Wub4p2JWj7jEYFVjO7ckJ"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 150048,
       "name": "BOTA A CARA",
       "url": "https://open.spotify.com/track/6OWHkXsLiTgsSGpgA2QKPT"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Te Procurei",
+        "url": "https://open.spotify.com/album/4OOoEFmG410X2Ww1YyX9IN"
+      },
+      "artists": [
+        {
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        }
+      ],
+      "duration_ms": 161903,
+      "name": "Te Procurei",
+      "url": "https://open.spotify.com/track/2RZzQJKn6byIPL1ldj8nca"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Nem Sei Fingir",
-        "url": "https://open.spotify.com/album/0DDKZ9qObSoNiA4qAkuiEh"
+        "name": "Calma, agora vai!",
+        "url": "https://open.spotify.com/album/61UTuzn1XmNx2iydg3xTTM"
       },
       "artists": [
         {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+          "name": "Ana Laura Lopes",
+          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
         }
       ],
-      "duration_ms": 176640,
-      "name": "Nem Sei Fingir",
-      "url": "https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP"
+      "duration_ms": 165306,
+      "name": "Calma, agora vai!",
+      "url": "https://open.spotify.com/track/1jJkZt6vUvO4z1YKqwguza"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "Nem Sei Fingir",
+        "url": "https://open.spotify.com/album/0DDKZ9qObSoNiA4qAkuiEh"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Nem Sei Fingir",
+      "url": "https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "Ai, Que Calor",
         "url": "https://open.spotify.com/album/1ZdCeqypeVqs47668BjdkZ"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 144262,
       "name": "Ai, Que Calor",
       "url": "https://open.spotify.com/track/32z2SmKSxh80H0LfnDpD1m"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Calma, agora vai!",
-        "url": "https://open.spotify.com/album/61UTuzn1XmNx2iydg3xTTM"
-      },
-      "artists": [
-        {
-          "name": "Ana Laura Lopes",
-          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
-        }
-      ],
-      "duration_ms": 165306,
-      "name": "Calma, agora vai!",
-      "url": "https://open.spotify.com/track/1jJkZt6vUvO4z1YKqwguza"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1415,30 +1415,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Calor Dobrado",
-        "url": "https://open.spotify.com/album/54HwXoVN8oVkJWQiHhqOHZ"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        },
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Calor Dobrado",
-      "url": "https://open.spotify.com/track/3xzAK3eh6npZsoCybDtKXh"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Love Songs, Vol. I",
         "url": "https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON"
       },
@@ -1463,22 +1439,26 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "O Que Tem Por Vir",
-        "url": "https://open.spotify.com/album/2mun0ycL4YeFEmdkmsOWGC"
+        "name": "Calor Dobrado",
+        "url": "https://open.spotify.com/album/54HwXoVN8oVkJWQiHhqOHZ"
       },
       "artists": [
         {
-          "name": "Mar\u00f4",
-          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
         },
         {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
         }
       ],
-      "duration_ms": 193194,
-      "name": "O Que Tem Por Vir",
-      "url": "https://open.spotify.com/track/3hexwXMaoMiBlz3W7ZIOH3"
+      "duration_ms": 156000,
+      "name": "Calor Dobrado",
+      "url": "https://open.spotify.com/track/3xzAK3eh6npZsoCybDtKXh"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1499,6 +1479,26 @@
       "duration_ms": 119639,
       "name": "Que Calor!",
       "url": "https://open.spotify.com/track/3JypNKIr8gWwo9mJd0lr6l"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "O Que Tem Por Vir",
+        "url": "https://open.spotify.com/album/2mun0ycL4YeFEmdkmsOWGC"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00f4",
+          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 193194,
+      "name": "O Que Tem Por Vir",
+      "url": "https://open.spotify.com/track/3hexwXMaoMiBlz3W7ZIOH3"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1543,6 +1543,26 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "Meus Gostos",
+        "url": "https://open.spotify.com/album/0zmmeosdFMUp97fVS7p9Sb"
+      },
+      "artists": [
+        {
+          "name": "Igor Jansen",
+          "url": "https://open.spotify.com/artist/54Pv9pzUjOxS46LyOsdnyz"
+        },
+        {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+        }
+      ],
+      "duration_ms": 168576,
+      "name": "Ariana",
+      "url": "https://open.spotify.com/track/0mDcEQc2cjNbK0BXIunJli"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "MEDUSA",
         "url": "https://open.spotify.com/album/0NUNSLOOIBkS8kzkPqHGEH"
       },
@@ -1575,26 +1595,6 @@
       "duration_ms": 130720,
       "name": "Mimada",
       "url": "https://open.spotify.com/track/6cI2mAtILbeXx9Els5Qqur"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Meus Gostos",
-        "url": "https://open.spotify.com/album/0zmmeosdFMUp97fVS7p9Sb"
-      },
-      "artists": [
-        {
-          "name": "Igor Jansen",
-          "url": "https://open.spotify.com/artist/54Pv9pzUjOxS46LyOsdnyz"
-        },
-        {
-          "name": "Mousik",
-          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
-        }
-      ],
-      "duration_ms": 168576,
-      "name": "Ariana",
-      "url": "https://open.spotify.com/track/0mDcEQc2cjNbK0BXIunJli"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1654,11 +1654,15 @@
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
         }
       ],
-      "duration_ms": 140196,
-      "name": "Carnificina",
-      "url": "https://open.spotify.com/track/3hwGnwRkIAs8iQ9CJZiWkd"
+      "duration_ms": 234730,
+      "name": "Surreal",
+      "url": "https://open.spotify.com/track/7mdNECcDlMZLUr8RATkS9Z"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1702,15 +1706,11 @@
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
         }
       ],
-      "duration_ms": 234730,
-      "name": "Surreal",
-      "url": "https://open.spotify.com/track/7mdNECcDlMZLUr8RATkS9Z"
+      "duration_ms": 140196,
+      "name": "Carnificina",
+      "url": "https://open.spotify.com/track/3hwGnwRkIAs8iQ9CJZiWkd"
     }
   ],
   "unique_name": "Palco POP",

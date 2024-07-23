@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 183607,
+  "num_followers": 183662,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpr+AAAAAAAaVFE/9dGaj5gHScxa5Zpv",
+  "snapshot_id": "ZpxPgAAAAAAkveghQ52e+lRk0Hgw4y+g",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Remain in Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 259906,
+      "name": "Once in a Lifetime - 2005 Remaster",
+      "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Burning Down the House / I Get Wild / Wild Gravity",
         "url": "https://open.spotify.com/album/1invpprZoPxP2H3CfGgSfJ"
       },
@@ -71,6 +87,22 @@
       "duration_ms": 219200,
       "name": "And She Was",
       "url": "https://open.spotify.com/track/5JwK7v6XhG0YgqDuCgzOy8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Songs About Buildings and Food (Deluxe Version)",
+        "url": "https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 302520,
+      "name": "Take Me to the River - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1oV1tu8utgHQjLJsEK9sVl"
     },
     {
       "added_at": null,
@@ -107,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Stories",
-        "url": "https://open.spotify.com/album/7qCDoQjDZhqA51wzOKmEZO"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Wild Wild Life",
-      "url": "https://open.spotify.com/track/5VGl1VsTtPO2gbhHrhB5Lx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Little Creatures",
         "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
       },
@@ -135,6 +151,22 @@
       "duration_ms": 260213,
       "name": "Road to Nowhere - 2005 Remaster",
       "url": "https://open.spotify.com/track/2co8fDyaVmxv8xruQWORnC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Stories",
+        "url": "https://open.spotify.com/album/7qCDoQjDZhqA51wzOKmEZO"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 219826,
+      "name": "Wild Wild Life",
+      "url": "https://open.spotify.com/track/5VGl1VsTtPO2gbhHrhB5Lx"
     },
     {
       "added_at": null,
@@ -603,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remain in Light (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+        "name": "Little Creatures",
+        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
       },
       "artists": [
         {
@@ -612,9 +644,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 282906,
-      "name": "Listening Wind - 2005 Remaster",
-      "url": "https://open.spotify.com/track/438kAOxGJQtpEkVMom9WXJ"
+      "duration_ms": 267333,
+      "name": "Perfect World - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6e7IrptCjEXaRcKrVaEgO1"
     },
     {
       "added_at": null,
@@ -635,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Creatures",
-        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 267333,
-      "name": "Perfect World - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6e7IrptCjEXaRcKrVaEgO1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stop Making Sense (Deluxe Edition) [Live]",
         "url": "https://open.spotify.com/album/0ydE6hjtxC05pkX164DnuK"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 443558,
       "name": "Big Business / I Zimbra (Live) - 2023 Remaster",
       "url": "https://open.spotify.com/track/0RKQbaU8oYf7XK4nfYxMNU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fear of Music",
-        "url": "https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/5oTq6IxaYmUF6TIVc6f7BL"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fear of Music",
+        "url": "https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/5oTq6IxaYmUF6TIVc6f7BL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "True Stories",
         "url": "https://open.spotify.com/album/5PvkD4XryLL9oC4NFItYIM"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 271813,
       "name": "Love for Sale - 2005 Remaster",
       "url": "https://open.spotify.com/track/1RqNYDlHoHNdr3QGLtzKtb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fear of Music",
-        "url": "https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 159426,
-      "name": "Paper",
-      "url": "https://open.spotify.com/track/3kfsFQhrPxNKmZLgm26u0U"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fear of Music",
+        "url": "https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 159426,
+      "name": "Paper",
+      "url": "https://open.spotify.com/track/3kfsFQhrPxNKmZLgm26u0U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Best of Talking Heads",
         "url": "https://open.spotify.com/album/1UIoS9WbxcNNmvUGkWlfzU"
       },
@@ -795,26 +811,6 @@
       "duration_ms": 298960,
       "name": "Blind - 2003 Remaster",
       "url": "https://open.spotify.com/track/7p2AcgfakS47Augp9NDdaS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "True Stories",
-        "url": "https://open.spotify.com/album/5PvkD4XryLL9oC4NFItYIM"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        },
-        {
-          "name": "Jerry Harrison",
-          "url": "https://open.spotify.com/artist/1GkiKu2FJFSBrXSL8wKFzy"
-        }
-      ],
-      "duration_ms": 309306,
-      "name": "City of Dreams - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1oQagJhSI9Gz6W7zDpf8xm"
     }
   ],
   "unique_name": "This Is Talking Heads",

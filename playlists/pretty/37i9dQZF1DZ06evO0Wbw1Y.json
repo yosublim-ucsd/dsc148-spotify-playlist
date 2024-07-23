@@ -1,12 +1,12 @@
 {
-  "description": "This is Ventino. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
-  "num_followers": 28902,
+  "description": "This Is Ventino. Los temas esenciales, todos en una lista.",
+  "num_followers": 28899,
   "original_name": "This Is Ventino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpr+AAAAAADANJp5gts5xFH+wMKnaUZG",
+  "snapshot_id": "ZpxPgAAAAAA6kYD4tOQ2kG/e2KRAE4fh",
   "tracks": [
     {
       "added_at": null,
@@ -595,42 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Quiero Amarte",
-        "url": "https://open.spotify.com/album/1s548Q6mTkf9bOYivdgrE5"
-      },
-      "artists": [
-        {
-          "name": "Nab\u00e1lez",
-          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
-        },
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 188729,
-      "name": "Ya No Quiero Amarte",
-      "url": "https://open.spotify.com/track/5aa5ycJnO3yDcmSjihjyBu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 141558,
-      "name": "Cuesta Amarte",
-      "url": "https://open.spotify.com/track/1v65TkytkaJKvvFR9mIOJp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otra Noche",
         "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
       },
@@ -647,6 +611,22 @@
       "duration_ms": 195488,
       "name": "Soltar Tu Mano (feat. Rom\u00e1n Torres)",
       "url": "https://open.spotify.com/track/0PFPvBVuzKoQTVu9jkePzj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 141558,
+      "name": "Cuesta Amarte",
+      "url": "https://open.spotify.com/track/1v65TkytkaJKvvFR9mIOJp"
     },
     {
       "added_at": null,
@@ -699,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para No Esperarte M\u00e1s",
-        "url": "https://open.spotify.com/album/26Bj0Iqvf6Ns5GCC8mjia6"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 178295,
-      "name": "Para No Esperarte M\u00e1s",
-      "url": "https://open.spotify.com/track/3VMMm6ie9HmnZGq8Sq0H83"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De 0 a 100",
         "url": "https://open.spotify.com/album/1LGhGflurGnPJAINGAS7nW"
       },
@@ -727,6 +691,22 @@
       "duration_ms": 168645,
       "name": "De 0 a 100",
       "url": "https://open.spotify.com/track/758aruGJmpUvoLtBc7GH5F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para No Esperarte M\u00e1s",
+        "url": "https://open.spotify.com/album/26Bj0Iqvf6Ns5GCC8mjia6"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 178295,
+      "name": "Para No Esperarte M\u00e1s",
+      "url": "https://open.spotify.com/track/3VMMm6ie9HmnZGq8Sq0H83"
     },
     {
       "added_at": null,

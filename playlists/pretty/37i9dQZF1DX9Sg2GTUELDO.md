@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover：Cath黃妍
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,109 likes - 335 songs - 20 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,115 likes - 335 songs - 20 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

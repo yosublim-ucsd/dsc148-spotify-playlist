@@ -1,13 +1,29 @@
 {
   "description": "Today's top country music! Featuring: <a href=\"https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2?si=hGObFgbfQnOQ75_EbuOhDg\"> Zach Bryan</a>, Bailey Zimmerman, Cody Johnson, Dan + Shay,  Cole Swindell, Kenny Chesney &amp; many more. ",
-  "num_followers": 34819,
+  "num_followers": 34824,
   "original_name": "Top Country Hits - Summer 2024 ",
   "owner": {
     "name": "Topsify Canada",
     "url": "https://open.spotify.com/user/playlistmecanada"
   },
-  "snapshot_id": "AAAaBek/SY39z9oN5ZVqgFoAfGjsvk4B",
+  "snapshot_id": "AAAaKfBFkGmHYpbT75NpotdW4WUc/D71",
   "tracks": [
+    {
+      "added_at": "2024-07-22 14:36:09",
+      "album": {
+        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 210950,
+      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
+    },
     {
       "added_at": "2024-07-20 00:26:40",
       "album": {
@@ -41,20 +57,52 @@
       "url": "https://open.spotify.com/track/1i07MlxQIuFSqNX3x3LkJH"
     },
     {
-      "added_at": "2024-07-20 00:26:40",
+      "added_at": "2024-07-22 14:32:02",
       "album": {
-        "name": "Out of Oklahoma (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ"
+        "name": "Twisters: The Album",
+        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
       },
       "artists": [
         {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 208266,
-      "name": "Out of Oklahoma (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q"
+      "duration_ms": 152133,
+      "name": "Dead End Road",
+      "url": "https://open.spotify.com/track/1unTSILv272aGjufNBJjQj"
+    },
+    {
+      "added_at": "2024-07-20 00:26:40",
+      "album": {
+        "name": "Devil You Know",
+        "url": "https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM"
+      },
+      "artists": [
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        }
+      ],
+      "duration_ms": 192693,
+      "name": "Devil You Know",
+      "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
+    },
+    {
+      "added_at": "2024-07-20 00:26:40",
+      "album": {
+        "name": "Lies Lies Lies",
+        "url": "https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 198068,
+      "name": "Lies Lies Lies",
+      "url": "https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5"
     },
     {
       "added_at": "2024-07-20 00:26:40",
@@ -91,34 +139,34 @@
     {
       "added_at": "2024-07-20 00:26:40",
       "album": {
-        "name": "Lies Lies Lies",
-        "url": "https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc"
+        "name": "Out of Oklahoma (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 198068,
-      "name": "Lies Lies Lies",
-      "url": "https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5"
+      "duration_ms": 208266,
+      "name": "Out of Oklahoma (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q"
     },
     {
       "added_at": "2024-07-20 00:26:40",
       "album": {
-        "name": "New To Country",
-        "url": "https://open.spotify.com/album/1ubJSiGbO0OsLHwFFs8NBr"
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
       },
       "artists": [
         {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 177123,
-      "name": "New To Country",
-      "url": "https://open.spotify.com/track/11nmHJICkQ9emiYJJINygH"
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
     },
     {
       "added_at": "2024-07-20 00:26:40",
@@ -139,6 +187,22 @@
     {
       "added_at": "2024-07-20 00:26:40",
       "album": {
+        "name": "New To Country",
+        "url": "https://open.spotify.com/album/1ubJSiGbO0OsLHwFFs8NBr"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 177123,
+      "name": "New To Country",
+      "url": "https://open.spotify.com/track/11nmHJICkQ9emiYJJINygH"
+    },
+    {
+      "added_at": "2024-07-20 00:26:40",
+      "album": {
         "name": "Pink Skies",
         "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
       },
@@ -151,22 +215,6 @@
       "duration_ms": 194920,
       "name": "Pink Skies",
       "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
-    },
-    {
-      "added_at": "2024-07-20 00:26:40",
-      "album": {
-        "name": "A Bar Song (Tipsy)",
-        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 171291,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
     },
     {
       "added_at": "2024-07-20 00:26:40",
@@ -221,6 +269,22 @@
       "url": "https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ"
     },
     {
+      "added_at": "2024-07-22 14:31:58",
+      "album": {
+        "name": "Twisters: The Album",
+        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 168581,
+      "name": "The Cards I've Been Dealt",
+      "url": "https://open.spotify.com/track/2BBPapdfx0q8TALGexmwnC"
+    },
+    {
       "added_at": "2024-07-20 00:26:40",
       "album": {
         "name": "Old No. 7",
@@ -237,20 +301,24 @@
       "url": "https://open.spotify.com/track/3Sg0jiuv2ckmxTBX4tLJQq"
     },
     {
-      "added_at": "2024-07-20 00:26:40",
+      "added_at": "2024-07-22 14:32:13",
       "album": {
-        "name": "Devil You Know",
-        "url": "https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM"
+        "name": "Twisters: The Album",
+        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
       },
       "artists": [
         {
-          "name": "Tyler Braden",
-          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
         }
       ],
-      "duration_ms": 192693,
-      "name": "Devil You Know",
-      "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
+      "duration_ms": 148274,
+      "name": "Boots Don't",
+      "url": "https://open.spotify.com/track/0MZ7Qj5BoJNTsFYDLPufVt"
     },
     {
       "added_at": "2024-07-20 00:26:40",
@@ -267,6 +335,114 @@
       "duration_ms": 239453,
       "name": "4x4xU",
       "url": "https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ"
+    },
+    {
+      "added_at": "2024-07-22 14:32:05",
+      "album": {
+        "name": "Twisters: The Album",
+        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 300800,
+      "name": "Song While You're Away",
+      "url": "https://open.spotify.com/track/0MEZnFwEu4MSB1ulmarWZ6"
+    },
+    {
+      "added_at": "2024-07-22 14:37:12",
+      "album": {
+        "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 167534,
+      "name": "TRUCK BED",
+      "url": "https://open.spotify.com/track/103u49mLoJUge83B1CnLxI"
+    },
+    {
+      "added_at": "2024-07-22 14:32:07",
+      "album": {
+        "name": "Twisters: The Album",
+        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 175367,
+      "name": "Country Classic",
+      "url": "https://open.spotify.com/track/2iQ9sF1pVNmYLIv8fHhYPb"
+    },
+    {
+      "added_at": "2024-07-22 14:37:49",
+      "album": {
+        "name": "you look like you love me (feat. Riley Green)",
+        "url": "https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 224280,
+      "name": "you look like you love me (feat. Riley Green)",
+      "url": "https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo"
+    },
+    {
+      "added_at": "2024-07-22 14:32:19",
+      "album": {
+        "name": "Twisters: The Album",
+        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Alexandra Kay",
+          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
+        }
+      ],
+      "duration_ms": 200733,
+      "name": "Leave The Light On (feat. Alexandra Kay)",
+      "url": "https://open.spotify.com/track/7zXm5RfPShKDVnbMQb7gJ7"
+    },
+    {
+      "added_at": "2024-07-20 00:26:40",
+      "album": {
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 178205,
+      "name": "I Had Some Help (Feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
     },
     {
       "added_at": "2024-07-20 00:26:40",
@@ -339,26 +515,6 @@
       "duration_ms": 179666,
       "name": "Forever To Me",
       "url": "https://open.spotify.com/track/38RJG8nLAwGycitlHOiifP"
-    },
-    {
-      "added_at": "2024-07-20 00:26:40",
-      "album": {
-        "name": "I Had Some Help",
-        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 178205,
-      "name": "I Had Some Help (Feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
     },
     {
       "added_at": "2024-07-20 00:26:40",
@@ -991,38 +1147,6 @@
     {
       "added_at": "2024-07-20 00:26:40",
       "album": {
-        "name": "Two Wheel Drive Cowboy",
-        "url": "https://open.spotify.com/album/7dLzLHc2JEWefwat5ZoSWm"
-      },
-      "artists": [
-        {
-          "name": "Eli Winders",
-          "url": "https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w"
-        }
-      ],
-      "duration_ms": 157913,
-      "name": "Two Wheel Drive Cowboy",
-      "url": "https://open.spotify.com/track/5P50sBnHTqfbA6ciFs0cBY"
-    },
-    {
-      "added_at": "2024-07-20 00:26:40",
-      "album": {
-        "name": "Bulletproof",
-        "url": "https://open.spotify.com/album/3ooWwlDKWfaVMx9kumptgg"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 183919,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J"
-    },
-    {
-      "added_at": "2024-07-20 00:26:40",
-      "album": {
         "name": "Heartbreak King",
         "url": "https://open.spotify.com/album/1HyRowYp3Pvrt8PYcomgpp"
       },
@@ -1107,22 +1231,6 @@
     {
       "added_at": "2024-07-20 00:26:40",
       "album": {
-        "name": "Smoke, Wine & Whiskey",
-        "url": "https://open.spotify.com/album/46Gr2IyUZrqMQmzb1anM9o"
-      },
-      "artists": [
-        {
-          "name": "Runaway June",
-          "url": "https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl"
-        }
-      ],
-      "duration_ms": 164413,
-      "name": "Fine Wine",
-      "url": "https://open.spotify.com/track/2oHW5EW14gL2VG4q0gRh6j"
-    },
-    {
-      "added_at": "2024-07-20 00:26:40",
-      "album": {
         "name": "The Devil I Know",
         "url": "https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr"
       },
@@ -1135,38 +1243,6 @@
       "duration_ms": 187880,
       "name": "The Devil I Know",
       "url": "https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC"
-    },
-    {
-      "added_at": "2024-07-20 00:26:40",
-      "album": {
-        "name": "My Stupid Life",
-        "url": "https://open.spotify.com/album/3pWiHbMUEcxA0TjNW1Ipb3"
-      },
-      "artists": [
-        {
-          "name": "Brittney Spencer",
-          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
-        }
-      ],
-      "duration_ms": 233626,
-      "name": "I Got Time",
-      "url": "https://open.spotify.com/track/1zaufJBBqhltoSMZUVwJmA"
-    },
-    {
-      "added_at": "2024-07-20 00:26:40",
-      "album": {
-        "name": "Thank You for the Music",
-        "url": "https://open.spotify.com/album/5DzUuOF4W29ywVtCyOjIhc"
-      },
-      "artists": [
-        {
-          "name": "Lemon Cash",
-          "url": "https://open.spotify.com/artist/2QgUS0sRpv7kBOad5vhy7n"
-        }
-      ],
-      "duration_ms": 226519,
-      "name": "Thank You for the Music",
-      "url": "https://open.spotify.com/track/1hh9bpvDAaF2qGEF36bWxC"
     },
     {
       "added_at": "2024-07-20 00:26:40",
@@ -1187,22 +1263,6 @@
     {
       "added_at": "2024-07-20 00:26:40",
       "album": {
-        "name": "Til' a Heart Breaks You",
-        "url": "https://open.spotify.com/album/7JF12mYvSKyIx5mkt2jOzn"
-      },
-      "artists": [
-        {
-          "name": "Carson Janik",
-          "url": "https://open.spotify.com/artist/1b42fTv9XwOsp9OL5gchOM"
-        }
-      ],
-      "duration_ms": 186127,
-      "name": "Til' a Heart Breaks You",
-      "url": "https://open.spotify.com/track/4YLKKN4bAkfkxaPidMeE4M"
-    },
-    {
-      "added_at": "2024-07-20 00:26:40",
-      "album": {
         "name": "3 Feet Tall",
         "url": "https://open.spotify.com/album/4nh0KuO11MpP06u2P165QJ"
       },
@@ -1215,58 +1275,6 @@
       "duration_ms": 222906,
       "name": "3 Feet Tall",
       "url": "https://open.spotify.com/track/2gwrfZzOjAinobFoOiy1T2"
-    },
-    {
-      "added_at": "2024-07-20 00:26:40",
-      "album": {
-        "name": "Beautiful Lies",
-        "url": "https://open.spotify.com/album/6l4pvSCSSeBuUpyQaCAGoC"
-      },
-      "artists": [
-        {
-          "name": "Tanner Usrey",
-          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
-        },
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 232763,
-      "name": "Beautiful Lies",
-      "url": "https://open.spotify.com/track/5bLgdnoxwts6ihPpv5G2dV"
-    },
-    {
-      "added_at": "2024-07-20 00:26:40",
-      "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 239533,
-      "name": "Where the Wild Things Are",
-      "url": "https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn"
-    },
-    {
-      "added_at": "2024-07-20 00:26:40",
-      "album": {
-        "name": "Coulda Been Love",
-        "url": "https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6"
-      },
-      "artists": [
-        {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Coulda Been Love",
-      "url": "https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp"
     },
     {
       "added_at": "2024-07-20 00:26:40",
@@ -1299,26 +1307,6 @@
       "duration_ms": 205023,
       "name": "Better Than You Found It",
       "url": "https://open.spotify.com/track/2c63uJJUxD65VchxIBfqJU"
-    },
-    {
-      "added_at": "2024-07-20 00:26:40",
-      "album": {
-        "name": "How I Learned To Pray (feat. Luke Combs)",
-        "url": "https://open.spotify.com/album/0QikezpLsccyG7W7oNwQ8D"
-      },
-      "artists": [
-        {
-          "name": "Charlie Worsham",
-          "url": "https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq"
-        },
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 270933,
-      "name": "How I Learned To Pray (feat. Luke Combs)",
-      "url": "https://open.spotify.com/track/6DYtfjCJdFOXUlV3E9a9bI"
     },
     {
       "added_at": "2024-07-20 00:26:40",
@@ -1471,6 +1459,22 @@
       "duration_ms": 162885,
       "name": "Cowboy Don\u2019t",
       "url": "https://open.spotify.com/track/5qxXv3JWNTTliODO4LZ0V4"
+    },
+    {
+      "added_at": "2024-07-22 14:31:40",
+      "album": {
+        "name": "More Than A Prayer",
+        "url": "https://open.spotify.com/album/3REJ10imAC6BnIihUhwTyO"
+      },
+      "artists": [
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        }
+      ],
+      "duration_ms": 164089,
+      "name": "More Than A Prayer",
+      "url": "https://open.spotify.com/track/30hhkjL3FB3Y2BoWsn1oGo"
     }
   ],
   "unique_name": "Top Country Hits - Summer 2024 ",

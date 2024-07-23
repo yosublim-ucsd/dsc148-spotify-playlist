@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 63438,
+  "num_followers": 63449,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "King Of The World",
-        "url": "https://open.spotify.com/album/5CtsuslrRP5CNsmuZQ8UIr"
-      },
-      "artists": [
-        {
-          "name": "Sheila",
-          "url": "https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu"
-        }
-      ],
-      "duration_ms": 354240,
-      "name": "Spacer",
-      "url": "https://open.spotify.com/track/2HnfVsBDEesQJPcXSyB7L2"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "The Boss (Expanded Edition)",
         "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 274560,
       "name": "It's My House",
       "url": "https://open.spotify.com/track/7yAslROTLRHGwuiLBpdErT"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "King Of The World",
+        "url": "https://open.spotify.com/album/5CtsuslrRP5CNsmuZQ8UIr"
+      },
+      "artists": [
+        {
+          "name": "Sheila",
+          "url": "https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu"
+        }
+      ],
+      "duration_ms": 354240,
+      "name": "Spacer",
+      "url": "https://open.spotify.com/track/2HnfVsBDEesQJPcXSyB7L2"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -327,6 +327,22 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
+        "name": "The Boss (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "The Boss",
+      "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
         "name": "Love Is The Message",
         "url": "https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 222346,
       "name": "T.S.O.P. (The Sound of Philadelphia) (feat. The Three Degrees)",
       "url": "https://open.spotify.com/track/7kllQQPam6HumbUCIPSvHJ"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "The Boss (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "The Boss",
-      "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
-        "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
-      },
-      "artists": [
-        {
-          "name": "Sarah Dash",
-          "url": "https://open.spotify.com/artist/40GzTuEPg9xjzGeXJESEMH"
-        }
-      ],
-      "duration_ms": 338973,
-      "name": "Sinner Man",
-      "url": "https://open.spotify.com/track/4ejEDBcfJgMXyBd9hooIp8"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "Stay Free",
         "url": "https://open.spotify.com/album/0deJgBEQc6s9ljcW2My2uV"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 322480,
       "name": "Stay Free",
       "url": "https://open.spotify.com/track/39rVzigiXOF0feDwgKzKIs"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
+        "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
+      },
+      "artists": [
+        {
+          "name": "Sarah Dash",
+          "url": "https://open.spotify.com/artist/40GzTuEPg9xjzGeXJESEMH"
+        }
+      ],
+      "duration_ms": 338973,
+      "name": "Sinner Man",
+      "url": "https://open.spotify.com/track/4ejEDBcfJgMXyBd9hooIp8"
     },
     {
       "added_at": "2024-02-12 15:00:21",

@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Nederlandse pop! Cover: Roxy Dekker & Ronnie Flex",
-  "num_followers": 163092,
+  "num_followers": 163119,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpom5AAAAABS+vfYZqxysb1R993f8PEc",
+  "snapshot_id": "Zp5eXAAAAABbSpslyNhiU+Bu1QO3BpdM",
   "tracks": [
     {
       "added_at": "2024-07-19 08:42:12",
@@ -59,22 +59,6 @@
       "duration_ms": 164500,
       "name": "Onder Invloed",
       "url": "https://open.spotify.com/track/7ABMV7gt2YIQGBjkQ3IqZz"
-    },
-    {
-      "added_at": "2024-07-19 08:42:12",
-      "album": {
-        "name": "Kom Met Me Dansen",
-        "url": "https://open.spotify.com/album/6kCO8tjI1Tzs9jWH9v66e3"
-      },
-      "artists": [
-        {
-          "name": "Krystl",
-          "url": "https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi"
-        }
-      ],
-      "duration_ms": 240249,
-      "name": "Kom Met Me Dansen",
-      "url": "https://open.spotify.com/track/3F6BHPhUkM5jKzpzJAxw90"
     },
     {
       "added_at": "2024-07-19 08:42:12",
@@ -139,6 +123,22 @@
       "duration_ms": 195863,
       "name": "Geef Me Het Leven",
       "url": "https://open.spotify.com/track/0Q0HDbyXAjuyhkEvVBJ9tx"
+    },
+    {
+      "added_at": "2024-07-19 08:42:12",
+      "album": {
+        "name": "Kom Met Me Dansen",
+        "url": "https://open.spotify.com/album/6kCO8tjI1Tzs9jWH9v66e3"
+      },
+      "artists": [
+        {
+          "name": "Krystl",
+          "url": "https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi"
+        }
+      ],
+      "duration_ms": 240249,
+      "name": "Kom Met Me Dansen",
+      "url": "https://open.spotify.com/track/3F6BHPhUkM5jKzpzJAxw90"
     },
     {
       "added_at": "2024-07-19 08:42:12",

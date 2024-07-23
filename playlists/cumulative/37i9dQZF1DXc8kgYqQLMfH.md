@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,178 songs - 1 day 20 hr 49 min
+1,179 songs - 1 day 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Blue Fraction](https://open.spotify.com/track/3V5oF645lO6vFmOjwfXalX) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Blue Fraction](https://open.spotify.com/album/3kzLYlY7ByzGe90WcKCjXy) | 3:02 | 2022-10-28 | 2023-10-06 |
 | [blue jacket](https://open.spotify.com/track/7AaALYPKTkyXODP4YU72Jq) | [costa rossa](https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U) | [blue jacket](https://open.spotify.com/album/771iUXmzwZbihDdCWUmIV9) | 2:09 | 2021-11-10 | 2022-05-27 |
 | [Blue Lagoon](https://open.spotify.com/track/6cV5DZwGqN0kLcrW5QnZqY) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Blue Lagoon](https://open.spotify.com/album/6PmmIqUkGHItXbZeBx4kLE) | 2:25 | 2022-07-29 | 2023-04-28 |
-| [Blue Mountain](https://open.spotify.com/track/4GWyN3ou7FqaWuyVt82Hf8) | [Mount Dreamer](https://open.spotify.com/artist/2pPuDXt6uSj2gGllSLRjnO) | [Blue Mountain](https://open.spotify.com/album/0ocKq0cOVAFwbBYfISICVD) | 2:27 | 2023-03-01 |  |
+| [Blue Mountain](https://open.spotify.com/track/4GWyN3ou7FqaWuyVt82Hf8) | [Mount Dreamer](https://open.spotify.com/artist/2pPuDXt6uSj2gGllSLRjnO) | [Blue Mountain](https://open.spotify.com/album/0ocKq0cOVAFwbBYfISICVD) | 2:27 | 2023-03-01 | 2024-07-23 |
 | [Blue Star](https://open.spotify.com/track/78cxzQ74mA9zk2q6QHZJ7R) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0), [another silent weekend](https://open.spotify.com/artist/7tYro3kW5Ocevel9uXDCKA) | [Blue Star](https://open.spotify.com/album/6Zn3rxUEnPhnthLXaTHfkT) | 2:03 | 2022-10-28 | 2023-10-06 |
 | [Blue Whale](https://open.spotify.com/track/2euzWZlQ7DG1CnzKDFUvzh) | [Flying Demond](https://open.spotify.com/artist/6RBGmg9yokIH4mEaoPABJd) | [Blue Whale](https://open.spotify.com/album/4p37WfqSzQdk86J9Py2vrZ) | 2:47 | 2022-11-11 | 2023-08-04 |
 | [Blue World](https://open.spotify.com/track/5d6XbF5UoCjESQmkJoguCz) | [Basicboy](https://open.spotify.com/artist/6NhNVWuAGFt7hfq9M4kj9U) | [Blue World](https://open.spotify.com/album/4Zu0sTolUiyJzxt5Yd6YQw) | 2:08 | 2023-07-13 |  |
@@ -610,6 +610,7 @@
 | [Low\-Key Into You](https://open.spotify.com/track/2z4t24jysAzffGRI99idTW) | [Benjamin August](https://open.spotify.com/artist/5mYtzsopZvARbaLrR0puNS) | [Low\-Key Into You](https://open.spotify.com/album/0h51gXK0Oe3OyfHBt2sgxV) | 2:20 | 2021-11-10 | 2023-03-02 |
 | [Lowtide or Lazy \(LoL\)](https://open.spotify.com/track/6LY3WPaO30WJZpsPMgMlUg) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Lowtide or Lazy \(LoL\)](https://open.spotify.com/album/67OUz7ozv8dG3Gbpqvnzsb) | 3:30 | 2021-11-10 | 2022-09-17 |
 | [Lucid Dreams](https://open.spotify.com/track/0TwLsrWtzGYbOYB6Z936vR) | [Nivla](https://open.spotify.com/artist/3VkGnJN59AU5YmXltksYR5) | [Lucid Dreams](https://open.spotify.com/album/4XaOFl3tYNQ4kyoCXkvAQ5) | 1:22 | 2022-06-17 | 2023-04-28 |
+| [lucid dreams](https://open.spotify.com/track/10sshsVC3JPafby7pLdarc) | [rollinsmpls](https://open.spotify.com/artist/2IQUECU4moSgtL1qqJuois) | [lucid dreams](https://open.spotify.com/album/4Of93b2Ovw9NmMIENMLURc) | 2:20 | 2024-07-19 |  |
 | [lucking out](https://open.spotify.com/track/6f8bZWdO64g2cgCJle01OD) | [late tripper](https://open.spotify.com/artist/6qAFdIh8283HnxwpcVa7yD) | [lucking out](https://open.spotify.com/album/0ESc7FdQlxeel0vvKVJkAa) | 2:13 | 2021-11-10 | 2022-09-09 |
 | [lucky cat](https://open.spotify.com/track/71oqTW6guCCmN2gwO34dRV) | [Samu Rai](https://open.spotify.com/artist/7fJdohGW8ELBvPXnETK4Um) | [lucky cat](https://open.spotify.com/album/0eeN5EReBav3FnFM5kkuSC) | 2:33 | 2023-07-13 | 2023-11-18 |
 | [Lucky S](https://open.spotify.com/track/2jUMhQ6GLpvyhqB4hzmPDY) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Lucky S](https://open.spotify.com/album/2Vte3A1urErAcVwq4sNO06) | 2:56 | 2022-08-05 | 2022-11-12 |

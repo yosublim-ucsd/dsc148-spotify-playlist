@@ -1,12 +1,12 @@
 {
   "description": "Summer motion en good vibes. Cover: Frenna",
-  "num_followers": 324782,
+  "num_followers": 324834,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpxN3AAAAACVqcO1laYTNl6OY0PNcFLg",
+  "snapshot_id": "Zp7WYAAAAAD+zhAtr5Hx63KZZ/pUdLIc",
   "tracks": [
     {
       "added_at": "2024-07-19 05:59:26",
@@ -103,6 +103,26 @@
     {
       "added_at": "2024-07-19 05:59:26",
       "album": {
+        "name": "PINK SUMMER",
+        "url": "https://open.spotify.com/album/4j33fN2BPocBEJTsguqRPl"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        }
+      ],
+      "duration_ms": 165247,
+      "name": "MY STYLE",
+      "url": "https://open.spotify.com/track/0T2MLcykLYj215hslAHtMT"
+    },
+    {
+      "added_at": "2024-07-19 05:59:26",
+      "album": {
         "name": "Deim Van Je",
         "url": "https://open.spotify.com/album/4t4eaa2CdjvOj0E0ojRqZu"
       },
@@ -159,42 +179,18 @@
     {
       "added_at": "2024-07-19 05:59:26",
       "album": {
-        "name": "GIRLS WANNA HAVE FUN",
-        "url": "https://open.spotify.com/album/7I10Tjo8NKUvesJtUrpBof"
+        "name": "Op De Zeeweg (Deluxe)",
+        "url": "https://open.spotify.com/album/22Gy1naJdrn2Blmj71VbAs"
       },
       "artists": [
         {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
         }
       ],
-      "duration_ms": 208471,
-      "name": "GIRLS WANNA HAVE FUN",
-      "url": "https://open.spotify.com/track/2Zu4Eg1f9xPjPYusZceHvo"
-    },
-    {
-      "added_at": "2024-07-19 05:59:26",
-      "album": {
-        "name": "Mafioso",
-        "url": "https://open.spotify.com/album/0Y2N4LZj8PKiJiLTMiUnd0"
-      },
-      "artists": [
-        {
-          "name": "Hakmadafack",
-          "url": "https://open.spotify.com/artist/3zR5ehEa2HIlUB9oRGF0lz"
-        },
-        {
-          "name": "Henkie T",
-          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
-        },
-        {
-          "name": "Eves Laurent",
-          "url": "https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS"
-        }
-      ],
-      "duration_ms": 148177,
-      "name": "Mafioso (feat. Henkie T & Eves Laurent)",
-      "url": "https://open.spotify.com/track/4yNHc6EU5G7dFtg775usCD"
+      "duration_ms": 166237,
+      "name": "Bij Jou",
+      "url": "https://open.spotify.com/track/6VxT6SoJbls60iDNSi3RLK"
     },
     {
       "added_at": "2024-07-19 05:59:26",
@@ -223,38 +219,42 @@
     {
       "added_at": "2024-07-19 05:59:26",
       "album": {
-        "name": "PINK SUMMER",
-        "url": "https://open.spotify.com/album/4j33fN2BPocBEJTsguqRPl"
+        "name": "Mafioso",
+        "url": "https://open.spotify.com/album/0Y2N4LZj8PKiJiLTMiUnd0"
+      },
+      "artists": [
+        {
+          "name": "Hakmadafack",
+          "url": "https://open.spotify.com/artist/3zR5ehEa2HIlUB9oRGF0lz"
+        },
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        },
+        {
+          "name": "Eves Laurent",
+          "url": "https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS"
+        }
+      ],
+      "duration_ms": 148177,
+      "name": "Mafioso (feat. Henkie T & Eves Laurent)",
+      "url": "https://open.spotify.com/track/4yNHc6EU5G7dFtg775usCD"
+    },
+    {
+      "added_at": "2024-07-19 05:59:26",
+      "album": {
+        "name": "GIRLS WANNA HAVE FUN",
+        "url": "https://open.spotify.com/album/7I10Tjo8NKUvesJtUrpBof"
       },
       "artists": [
         {
           "name": "Frenna",
           "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Dopebwoy",
-          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
         }
       ],
-      "duration_ms": 165247,
-      "name": "MY STYLE",
-      "url": "https://open.spotify.com/track/0T2MLcykLYj215hslAHtMT"
-    },
-    {
-      "added_at": "2024-07-19 05:59:26",
-      "album": {
-        "name": "Op De Zeeweg (Deluxe)",
-        "url": "https://open.spotify.com/album/22Gy1naJdrn2Blmj71VbAs"
-      },
-      "artists": [
-        {
-          "name": "Siggy & D1ns",
-          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
-        }
-      ],
-      "duration_ms": 166237,
-      "name": "Bij Jou",
-      "url": "https://open.spotify.com/track/6VxT6SoJbls60iDNSi3RLK"
+      "duration_ms": 208471,
+      "name": "GIRLS WANNA HAVE FUN",
+      "url": "https://open.spotify.com/track/2Zu4Eg1f9xPjPYusZceHvo"
     },
     {
       "added_at": "2024-07-19 05:59:26",
@@ -355,18 +355,26 @@
     {
       "added_at": "2024-07-19 05:59:26",
       "album": {
-        "name": "ZOMERFESTIVAL",
-        "url": "https://open.spotify.com/album/0oz4xyfiIbErrkrGRSi94g"
+        "name": "Basshall Sound",
+        "url": "https://open.spotify.com/album/0aptnL9Ov80AzVDKA1Tnxy"
       },
       "artists": [
         {
-          "name": "Caza",
-          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        },
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        },
+        {
+          "name": "Big Shenn",
+          "url": "https://open.spotify.com/artist/1oRevsg3KXvciSXKMlsEZl"
         }
       ],
-      "duration_ms": 106875,
-      "name": "ZOMERFESTIVAL",
-      "url": "https://open.spotify.com/track/52tN51jqTmzIHPZ5Oz6IWA"
+      "duration_ms": 135824,
+      "name": "Basshall Sound",
+      "url": "https://open.spotify.com/track/123Z3LCGVhRKvZnEP8uqUt"
     },
     {
       "added_at": "2024-07-19 05:59:26",
@@ -427,30 +435,6 @@
     {
       "added_at": "2024-07-19 05:59:26",
       "album": {
-        "name": "Basshall Sound",
-        "url": "https://open.spotify.com/album/0aptnL9Ov80AzVDKA1Tnxy"
-      },
-      "artists": [
-        {
-          "name": "Kalibwoy",
-          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
-        },
-        {
-          "name": "Tribal Kush",
-          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
-        },
-        {
-          "name": "Big Shenn",
-          "url": "https://open.spotify.com/artist/1oRevsg3KXvciSXKMlsEZl"
-        }
-      ],
-      "duration_ms": 135824,
-      "name": "Basshall Sound",
-      "url": "https://open.spotify.com/track/123Z3LCGVhRKvZnEP8uqUt"
-    },
-    {
-      "added_at": "2024-07-19 05:59:26",
-      "album": {
         "name": "Beetje Dik",
         "url": "https://open.spotify.com/album/1MwGLSiNV1lZz9zIIyUUfW"
       },
@@ -491,6 +475,42 @@
       "duration_ms": 198323,
       "name": "MORE PRETTY GIRLS",
       "url": "https://open.spotify.com/track/5cXQQa5G0hyc6m5Mk1rM2i"
+    },
+    {
+      "added_at": "2024-07-19 05:59:26",
+      "album": {
+        "name": "ZOMERFESTIVAL",
+        "url": "https://open.spotify.com/album/0oz4xyfiIbErrkrGRSi94g"
+      },
+      "artists": [
+        {
+          "name": "Caza",
+          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
+        }
+      ],
+      "duration_ms": 106875,
+      "name": "ZOMERFESTIVAL",
+      "url": "https://open.spotify.com/track/52tN51jqTmzIHPZ5Oz6IWA"
+    },
+    {
+      "added_at": "2024-07-19 05:59:26",
+      "album": {
+        "name": "MIA",
+        "url": "https://open.spotify.com/album/6TFlkQ8cftUsavjJxyUBrQ"
+      },
+      "artists": [
+        {
+          "name": "OCS",
+          "url": "https://open.spotify.com/artist/6eFyS3cm4ANCbAuxQNl7ap"
+        },
+        {
+          "name": "Architrackz",
+          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
+        }
+      ],
+      "duration_ms": 183662,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/338Nv6tQdYT1DMwlVPRLwv"
     },
     {
       "added_at": "2024-07-19 05:59:26",
@@ -595,26 +615,6 @@
       "duration_ms": 136031,
       "name": "Ik kan je",
       "url": "https://open.spotify.com/track/1G2eu9fcGS80uhub5XCqBX"
-    },
-    {
-      "added_at": "2024-07-19 05:59:26",
-      "album": {
-        "name": "MIA",
-        "url": "https://open.spotify.com/album/6TFlkQ8cftUsavjJxyUBrQ"
-      },
-      "artists": [
-        {
-          "name": "OCS",
-          "url": "https://open.spotify.com/artist/6eFyS3cm4ANCbAuxQNl7ap"
-        },
-        {
-          "name": "Architrackz",
-          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
-        }
-      ],
-      "duration_ms": 183662,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/338Nv6tQdYT1DMwlVPRLwv"
     },
     {
       "added_at": "2024-07-19 05:59:26",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2024-07-19 05:59:26",
       "album": {
-        "name": "Keeper",
-        "url": "https://open.spotify.com/album/3NVMLm66TK5iDnp7Cl9dQ2"
-      },
-      "artists": [
-        {
-          "name": "KILATE TESLA",
-          "url": "https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo"
-        },
-        {
-          "name": "Dylisa",
-          "url": "https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2"
-        }
-      ],
-      "duration_ms": 155771,
-      "name": "Keeper",
-      "url": "https://open.spotify.com/track/4JdEDm25kiFS9pxNUs2bPN"
-    },
-    {
-      "added_at": "2024-07-19 05:59:26",
-      "album": {
         "name": "Si Si",
         "url": "https://open.spotify.com/album/2q0V1wmNVUpZUxYy85r1y3"
       },
@@ -1315,26 +1295,6 @@
       "duration_ms": 170269,
       "name": "Tiffany",
       "url": "https://open.spotify.com/track/5alGFMfqBYoo1ifkYblVDb"
-    },
-    {
-      "added_at": "2024-07-19 05:59:26",
-      "album": {
-        "name": "Jij Bent Het",
-        "url": "https://open.spotify.com/album/3fa5PRokqVLjVg98LAJASp"
-      },
-      "artists": [
-        {
-          "name": "Kish",
-          "url": "https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci"
-        },
-        {
-          "name": "2mochh",
-          "url": "https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk"
-        }
-      ],
-      "duration_ms": 148085,
-      "name": "Jij Bent Het",
-      "url": "https://open.spotify.com/track/2n8tEYDOkHJnHhu3DdKjKk"
     },
     {
       "added_at": "2024-07-19 05:59:26",
@@ -1547,26 +1507,6 @@
     {
       "added_at": "2024-07-19 05:59:26",
       "album": {
-        "name": "Done With Me",
-        "url": "https://open.spotify.com/album/3O0i0NCY5Cm1r3gJJPWc8a"
-      },
-      "artists": [
-        {
-          "name": "Bokoesam",
-          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
-        },
-        {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
-        }
-      ],
-      "duration_ms": 197351,
-      "name": "Done With Me",
-      "url": "https://open.spotify.com/track/1oTWwkoxxqAqdMSCRwuStJ"
-    },
-    {
-      "added_at": "2024-07-19 05:59:26",
-      "album": {
         "name": "MOOIE LEUGEN",
         "url": "https://open.spotify.com/album/0s3MLbCflRasdVSBXfAmwy"
       },
@@ -1595,26 +1535,6 @@
       "duration_ms": 134000,
       "name": "Otra",
       "url": "https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX"
-    },
-    {
-      "added_at": "2024-07-19 05:59:26",
-      "album": {
-        "name": "ANTONI ANTONI",
-        "url": "https://open.spotify.com/album/0pKw0LiqXPX5uawfPIFjrT"
-      },
-      "artists": [
-        {
-          "name": "ASHI",
-          "url": "https://open.spotify.com/artist/0UGCSjBTzOrOIl5Yng2wHr"
-        },
-        {
-          "name": "LA$$A",
-          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
-        }
-      ],
-      "duration_ms": 124525,
-      "name": "ANTONI ANTONI",
-      "url": "https://open.spotify.com/track/1is22v0wd43nx93pyNopTg"
     },
     {
       "added_at": "2024-07-19 05:59:26",

@@ -4,12 +4,12 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-210 songs - 10 hr 16 min
+211 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Accordeon Sur Seine](https://open.spotify.com/track/6maobgJ1IUx7o0mHZgnIH2) | [Daniel Janin](https://open.spotify.com/artist/6Y3tbVSmwrunXf2PLea5wH) | [Authentic France](https://open.spotify.com/album/2vWdztr1r7yVlFamyCNbGG) | 2:50 | 2022-11-25 |  |
-| [Alone](https://open.spotify.com/track/0u1Z6QGnebrQTI00Ep05rZ) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ) | [Alone](https://open.spotify.com/album/1OTHiYWUd2C9xeCXyTQlMN) | 3:30 | 2022-02-18 |  |
+| [Alone](https://open.spotify.com/track/0u1Z6QGnebrQTI00Ep05rZ) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ) | [Alone](https://open.spotify.com/album/1OTHiYWUd2C9xeCXyTQlMN) | 3:30 | 2022-02-18 | 2024-07-23 |
 | [Alone](https://open.spotify.com/track/1LLvGyC6OfyrE06zrdkZg2) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ) | [Incandessence](https://open.spotify.com/album/3B9vXnaS3md9FibgkwyczM) | 3:30 | 2022-02-18 | 2023-05-04 |
 | [Alone](https://open.spotify.com/track/4Q0HA7QYunPrVYTuLyDj1J) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ) | [Incandessence](https://open.spotify.com/album/35Gdl9xS5pYQcxbz4V1Dgn) | 3:30 | 2023-05-03 | 2024-04-19 |
 | [Amarcord](https://open.spotify.com/track/5FRQe614oqDkHGf4LVZCr9) | [Les Musettes de Montmartre](https://open.spotify.com/artist/7DsLMRMVsh4L7LcwWpps2j) | [More Accordions Of Paris](https://open.spotify.com/album/1No7DEy8vVaAmqYmVSaY6r) | 3:32 | 2022-11-25 |  |
@@ -137,6 +137,7 @@
 | [Mon Tournesol](https://open.spotify.com/track/3xWy7j5HeruNwzEACKLEav) | [Les Petits Parisians](https://open.spotify.com/artist/6zjNoaNyUsp1ZEIbzLv4Jk) | [Valse de la Rose](https://open.spotify.com/album/3cmofgkvBgbsU8igeIgC6w) | 2:15 | 2023-03-21 |  |
 | [Montagne Ste Genevieve](https://open.spotify.com/track/4idHXZqvu37IDsiHTZDrLC) | [Stephane Wrembel](https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm) | [Introducing Stephane Wrembel](https://open.spotify.com/album/4sz3Jgvhv7jAzxwQRxtGZD) | 2:10 | 2023-03-07 |  |
 | [Moon River](https://open.spotify.com/track/4P902IvZ9cyL3HiiuzNzYn) | [Cafe Accordion Orcherstra](https://open.spotify.com/artist/08vqZfm3Whj0wYPjBhILIc) | [Cinema](https://open.spotify.com/album/5G5cAxKMd5LFD4t5FKNI7V) | 3:09 | 2023-03-07 | 2023-08-19 |
+| [Mouche](https://open.spotify.com/track/7Ho46ehZckjIjQan5sZtoc) | [Carré Bleu](https://open.spotify.com/artist/1QV54AIfd6OK9AbHFG19es) | [Mouche](https://open.spotify.com/album/0eDvclRd12KLedW4YFazAM) | 2:52 | 2024-07-22 |  |
 | [My Soldiers](https://open.spotify.com/track/4xObqqg9zU7wv68JWgTeCK) | [Café Chill Lounge Club](https://open.spotify.com/artist/4obSt0gEebcfehobp1G430) | [I Love Paris! Classic Gypsy Swing & French Accordion Jazz](https://open.spotify.com/album/1ibnd4YKQvYubqiGF6NetS) | 2:34 | 2022-02-18 | 2022-07-29 |
 | [My Soldiers](https://open.spotify.com/track/1OsddOsPvKDR44OsQqtpm6) | [Dragan Pecinar](https://open.spotify.com/artist/36gS49uoNh1Z84XVRPFsr5) | [I Love Paris! Classic Gypsy Swing & French Accordion Jazz](https://open.spotify.com/album/19YBIZTcF1jaNcJY2DkBQf) | 2:34 | 2022-02-18 | 2022-11-26 |
 | [My Soldiers](https://open.spotify.com/track/3F1g7JmYqhgEoAox9GoTPx) | [Dragan Pecinar](https://open.spotify.com/artist/36gS49uoNh1Z84XVRPFsr5) | [Luxury Lounge: Downtempo Chill Out Classics](https://open.spotify.com/album/5QwIa5VINXlWDTw6C8VB7k) | 2:34 | 2022-08-05 | 2022-11-13 |

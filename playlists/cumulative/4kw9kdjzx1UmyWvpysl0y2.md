@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-776 songs - 1 day 20 hr 34 min
+777 songs - 1 day 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,6 +531,7 @@
 | [Pump](https://open.spotify.com/track/0wdmg7VuwWNWnRkDWOh27n) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm), [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Pump](https://open.spotify.com/album/3LocwBHPnRIn9FFkDLMQ9d) | 4:24 | 2023-08-14 | 2023-12-14 |
 | [Purple](https://open.spotify.com/track/4mMYRb2AZyZiI6XiHzqHBo) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Purple](https://open.spotify.com/album/1TYUytf3KP39fBUe4ZS4pl) | 3:09 | 2021-12-03 | 2022-03-10 |
 | [Pursuit of Violence](https://open.spotify.com/track/05bArpM2cVvDXOSr3sWFxK) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0) | [Pursuit of Violence](https://open.spotify.com/album/4wFX3JgcI39B2i6TcdYvfL) | 3:53 | 2023-03-14 | 2023-06-06 |
+| [Pyroclastic](https://open.spotify.com/track/1xcPjGqDvj0ftzVficnBbB) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Pyroclastic](https://open.spotify.com/album/2fMKtEJt9BgUGbX5J00F39) | 3:28 | 2024-07-22 |  |
 | [Quantum Level](https://open.spotify.com/track/61Td1mc3CdLhIyMwXblkSU) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Prismatic](https://open.spotify.com/artist/2W8zVw5vOEFKRz9k5GIZZl) | [Quantum Level](https://open.spotify.com/album/7AQLiKBitTPJ9f8VrYYQxE) | 3:38 | 2023-05-08 | 2023-08-01 |
 | [Quick Highs](https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Helen](https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl) | [Quick Highs](https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf) | 3:14 | 2023-06-01 | 2023-08-28 |
 | [RAD](https://open.spotify.com/track/6OOKfkImPzQ60wK5ElkAKu) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [RAD](https://open.spotify.com/album/3NOLC3FyPcACcSmmGwCUbZ) | 4:00 | 2022-10-03 | 2022-12-04 |
@@ -615,7 +616,7 @@
 | [Snowflake](https://open.spotify.com/track/4VvZTuzlS4YxA47LWp589i) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Snowflake](https://open.spotify.com/album/4PczSQmF1bDcTTZw93cYjA) | 3:42 | 2024-05-28 |  |
 | [SO ABSURD](https://open.spotify.com/track/4jzBFkBWHnMovc9fnND3Tm) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [SO ABSURD](https://open.spotify.com/album/5OkjBm4prdIorIAYptLT81) | 2:32 | 2023-10-04 | 2024-01-19 |
 | [So Far Away](https://open.spotify.com/track/2tKElQZfUyUQjDZwP2tOWF) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [LOST](https://open.spotify.com/album/2IKVthOoA0M9xgN4PL8Otj) | 3:39 | 2022-06-20 | 2022-09-02 |
-| [So High](https://open.spotify.com/track/3PdssIeO7774PbZquBoYMA) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [So High](https://open.spotify.com/album/77BLeJIkcNdUQB6u1hNXOZ) | 3:27 | 2024-05-02 |  |
+| [So High](https://open.spotify.com/track/3PdssIeO7774PbZquBoYMA) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [So High](https://open.spotify.com/album/77BLeJIkcNdUQB6u1hNXOZ) | 3:27 | 2024-05-02 | 2024-07-23 |
 | [So Lost](https://open.spotify.com/track/6FxRjxdst4FEPDFZ3a8Zik) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [So Lost](https://open.spotify.com/album/6ODRIjsZYGjS2AOB9XkeXN) | 3:08 | 2024-05-09 |  |
 | [Someday](https://open.spotify.com/track/1GiPvfJ558pRE7kP3X7vxd) | [Cressida](https://open.spotify.com/artist/3TarSQLteG4x5prong6iPz), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Someday](https://open.spotify.com/album/2wlgrRRWuzfOQAJ9qc7YKo) | 3:36 | 2022-11-23 | 2023-02-18 |
 | [Someone Else \- Blanke Remix](https://open.spotify.com/track/4ht1wtZBmlyLAVDivgVYok) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Overthrown \(The Thrones of Blood Remix Album\)](https://open.spotify.com/album/0uX6vlfx2rgxUX5cCZ1eXE) | 4:26 | 2023-12-01 | 2024-03-15 |

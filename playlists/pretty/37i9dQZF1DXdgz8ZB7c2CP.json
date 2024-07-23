@@ -1,6 +1,6 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Killen. & Oaks",
-  "num_followers": 778569,
+  "num_followers": 778591,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "CHROMA 004",
+        "url": "https://open.spotify.com/album/7cUJWzpsqr0derOqCfJxol"
+      },
+      "artists": [
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 289054,
+      "name": "CHROMA 004 ROLA",
+      "url": "https://open.spotify.com/track/3YTLL48dJGvXU7NrtiXDFQ"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Believe It (with Madeon)",
         "url": "https://open.spotify.com/album/19wYBYcGqvKbpmuUz8YFuA"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 150464,
       "name": "Believe It (with Madeon)",
       "url": "https://open.spotify.com/track/5glaxT4IXZtym1ea6RFW49"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "CHROMA 004",
-        "url": "https://open.spotify.com/album/7cUJWzpsqr0derOqCfJxol"
-      },
-      "artists": [
-        {
-          "name": "BICEP",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 289054,
-      "name": "CHROMA 004 ROLA",
-      "url": "https://open.spotify.com/track/3YTLL48dJGvXU7NrtiXDFQ"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Say The Word (feat. Clementine Douglas)",
-        "url": "https://open.spotify.com/album/6n71DzGS11DoNhdmGQGq5B"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 237133,
-      "name": "Say The Word (feat. Clementine Douglas)",
-      "url": "https://open.spotify.com/track/1jxGhPyCn9SZR9eqrTduja"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Talking Too Much",
         "url": "https://open.spotify.com/album/5DlqOm7mN0iuJs9k5r16Ii"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 234666,
       "name": "Talking Too Much",
       "url": "https://open.spotify.com/track/60O3TTCYh6LZFNKiicBodq"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Say The Word (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/6n71DzGS11DoNhdmGQGq5B"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 237133,
+      "name": "Say The Word (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/1jxGhPyCn9SZR9eqrTduja"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1503,6 +1503,26 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Windhorse",
+        "url": "https://open.spotify.com/album/4sz5jike641ayFQ12d1wRu"
+      },
+      "artists": [
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        },
+        {
+          "name": "Sophie Marks",
+          "url": "https://open.spotify.com/artist/6spwry8r7pCSX6cY2Y7bSk"
+        }
+      ],
+      "duration_ms": 234244,
+      "name": "Windhorse",
+      "url": "https://open.spotify.com/track/6tTDDMmEJpyA97VNYQjjeP"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Spinback Remixes",
         "url": "https://open.spotify.com/album/7wBTfpRnS7yaw5cdi3bWpu"
       },
@@ -1543,26 +1563,6 @@
       "duration_ms": 210937,
       "name": "Fire",
       "url": "https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Windhorse",
-        "url": "https://open.spotify.com/album/4sz5jike641ayFQ12d1wRu"
-      },
-      "artists": [
-        {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
-        },
-        {
-          "name": "Sophie Marks",
-          "url": "https://open.spotify.com/artist/6spwry8r7pCSX6cY2Y7bSk"
-        }
-      ],
-      "duration_ms": 234244,
-      "name": "Windhorse",
-      "url": "https://open.spotify.com/track/6tTDDMmEJpyA97VNYQjjeP"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 217369,
+      "name": "Cold Blooded",
+      "url": "https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "iwaly",
         "url": "https://open.spotify.com/album/5t9ZFc1WA70vNHvAGGoHVC"
       },
@@ -1915,22 +1931,6 @@
       "duration_ms": 293124,
       "name": "A Little Bit Further (Chrome Sparks Remix)",
       "url": "https://open.spotify.com/track/0ZOcp6c2qoxOmdM04ufpG5"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Good Lies",
-        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 217369,
-      "name": "Cold Blooded",
-      "url": "https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn"
     },
     {
       "added_at": "2024-07-19 04:00:00",

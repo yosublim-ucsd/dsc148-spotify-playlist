@@ -4,7 +4,7 @@
 
 > killer rock & alternative covers\. Cover: Paramore
 
-364 songs - 23 hr 30 min
+365 songs - 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Come Together \- Live From Fox Theatre Detroit, MI/2012](https://open.spotify.com/track/02LrmnkHvOcQo6L2RBdfqu) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Live & Inspired](https://open.spotify.com/album/4qq3w5Bfb46Rw9kE6QSYNT) | 3:46 | 2022-06-17 | 2023-11-10 |
 | [Crawling](https://open.spotify.com/track/2hGx3rghGVc4agPAB2gFby) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Crawling](https://open.spotify.com/album/4sv3EzDGjdOWmGoF16mvuc) | 3:32 | 2022-06-17 | 2024-02-03 |
 | [Crawling](https://open.spotify.com/track/4Z7rxBIhhMBa8NcntQju0P) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Songs That Saved My Life](https://open.spotify.com/album/5XkUTL5Ccl5krryba7M7JI) | 3:32 | 2020-12-16 | 2022-05-20 |
-| [Crawling](https://open.spotify.com/track/3kBrf6U9QWh4lZ5wBvtE8e) | [Like A Storm](https://open.spotify.com/artist/5gFZo6Oh5WehnbEj0XtxiF) | [Crawling](https://open.spotify.com/album/3wzzOrJoohHVNe3rAaA29o) | 3:31 | 2022-03-25 |  |
+| [Crawling](https://open.spotify.com/track/3kBrf6U9QWh4lZ5wBvtE8e) | [Like A Storm](https://open.spotify.com/artist/5gFZo6Oh5WehnbEj0XtxiF) | [Crawling](https://open.spotify.com/album/3wzzOrJoohHVNe3rAaA29o) | 3:31 | 2022-03-25 | 2024-07-23 |
 | [Crazy](https://open.spotify.com/track/093b1blyOJsbJcX9dyJ8RB) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Crazy](https://open.spotify.com/album/1gbZr44u85xj3X7SGrim98) | 3:31 | 2024-02-12 |  |
 | [Crazy](https://open.spotify.com/track/0jh3Rey2X3m5DOHiRGGGCM) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Crazy](https://open.spotify.com/album/31VU7DWHqZ3kqutbuZD6ZW) | 4:38 | 2022-03-25 | 2022-11-26 |
 | [Creep](https://open.spotify.com/track/7qhX4rQE1Z7YndaF6SBwPs) | [Just Loud](https://open.spotify.com/artist/7xAO3x13zwxGoIM7N3pXL9) | [Episode I](https://open.spotify.com/album/3RrQW08C8THSayARHysvOU) | 3:21 | 2020-12-16 | 2022-04-20 |
@@ -199,6 +199,7 @@
 | [Let It Be](https://open.spotify.com/track/21u6zgstEm23O0P6NvVoIg) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [Songs That Saved My Life](https://open.spotify.com/album/5XkUTL5Ccl5krryba7M7JI) | 3:52 | 2020-12-16 | 2022-07-21 |
 | [Life's Been Good](https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Life's Been Good](https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto) | 3:13 | 2022-07-06 | 2024-02-03 |
 | [Like A Stone \(feat\. Tom Morello\) \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Spotify Singles](https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU) | 4:19 | 2022-03-25 |  |
+| [Like A Stone \- Reimagined](https://open.spotify.com/track/2EHZpEtgE48ztROdwkPgfQ) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Like A Stone \(Reimagined\)](https://open.spotify.com/album/6xCsPSZ3THpZRrYPox5kK2) | 4:47 | 2024-07-22 |  |
 | [Like a Virgin](https://open.spotify.com/track/55tH1vUqhMrLlcJ09k2QGq) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [The Dirt Soundtrack](https://open.spotify.com/album/1FeIa1My6QQ6oQjUYxI36O) | 3:08 | 2022-06-17 | 2023-04-06 |
 | [Like a Virgin](https://open.spotify.com/track/5y1QAwcpZ6cDSAQDYgw9dX) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Like a Virgin](https://open.spotify.com/album/77eoArzqUsV6nffTcaND6B) | 3:08 | 2020-12-16 | 2022-07-29 |
 | [Like a Virgin](https://open.spotify.com/track/7zmEtA2x8zcMDiDBr9kT2p) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [The Dirt Soundtrack](https://open.spotify.com/album/6FLUCOGmzatDd2Ab85FjsO) | 3:08 | 2023-11-17 | 2024-04-19 |
@@ -241,7 +242,7 @@
 | [One Step Closer – Spotify Singles](https://open.spotify.com/track/3PmNDKYfKGALpIRz5CEQD1) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [One Step Closer – Spotify Singles](https://open.spotify.com/album/6IJc9uUeydaQenQSu9d3Ym) | 2:26 | 2022-03-25 |  |
 | [Only Happy When It Rains](https://open.spotify.com/track/6PQsEmqXl81ULIZcuk8VoO) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp), [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [The Influence EP](https://open.spotify.com/album/79IXJNggITVEGL4W4LEXw1) | 2:44 | 2022-03-25 | 2022-04-19 |
 | [Our House](https://open.spotify.com/track/1rkGytnje8oF8Ek13ZodT5) | [American Hi\-Fi](https://open.spotify.com/artist/4XlcLj6bxCnpBIOHmBpIWP) | [Our House](https://open.spotify.com/album/1o0W44e3TLSSkyFI55Wi2Z) | 3:32 | 2020-12-16 |  |
-| [Papa Was a Rolling Stone \(feat\. Demi Lovato\)](https://open.spotify.com/track/2ZBE2MwgYqw6JgNgUztCVZ) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Orgy of the Damned](https://open.spotify.com/album/3t3ZFkQhYdxBro1D83C8EB) | 7:52 | 2024-05-17 |  |
+| [Papa Was a Rolling Stone \(feat\. Demi Lovato\)](https://open.spotify.com/track/2ZBE2MwgYqw6JgNgUztCVZ) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Orgy of the Damned](https://open.spotify.com/album/3t3ZFkQhYdxBro1D83C8EB) | 7:52 | 2024-05-17 | 2024-07-23 |
 | [Patience](https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Patience](https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo) | 4:13 | 2020-12-16 |  |
 | [People Are Strange](https://open.spotify.com/track/3PX33J7MsHibdN9kmubVTk) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [The Violent](https://open.spotify.com/album/0mQNxURcyah31JJNXMA86S) | 2:27 | 2022-10-26 | 2023-12-24 |
 | [People Are Strange](https://open.spotify.com/track/7GoOq1xY12PehqOfUryNWU) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [The Violent](https://open.spotify.com/album/5hrWPFVNiTbMqrv6rdvVap) | 2:27 | 2022-03-22 | 2022-10-14 |
@@ -261,7 +262,7 @@
 | [ROCKIN' IN THE FREE WORLD](https://open.spotify.com/track/31krf2frQwDTGrHeyqEhsP) | [Smith & Myers](https://open.spotify.com/artist/3L7yYf09MZWuZhZl5e92Xe) | [Volume 1](https://open.spotify.com/album/1V7mEaiz643Os9Gq4icuzI) | 3:33 | 2022-10-26 | 2024-04-19 |
 | [ROCKIN' IN THE FREE WORLD](https://open.spotify.com/track/46s9pVsSRVewvyFvs1cBaF) | [Smith & Myers](https://open.spotify.com/artist/3L7yYf09MZWuZhZl5e92Xe) | [NOT MAD ENOUGH/ROCKIN' IN THE FREE WORLD](https://open.spotify.com/album/5qrSGLktcjp0OOcNCLStOD) | 3:33 | 2020-12-16 | 2022-07-29 |
 | [Rolling In The Deep \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2VprRdTmbgyjXnDzHIcfNl) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Spotify Singles](https://open.spotify.com/album/7brFrlSSH6jF8LA1HRI6EP) | 3:57 | 2022-06-17 | 2024-04-19 |
-| [Rolling In The Deep \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5GYPG4kaMv1nSSQtMca3iM) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Spotify Singles](https://open.spotify.com/album/6euCv1XBsg76oFROlkmvdM) | 3:57 | 2020-12-16 | 2024-07-18 |
+| [Rolling In The Deep \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5GYPG4kaMv1nSSQtMca3iM) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Spotify Singles](https://open.spotify.com/album/6euCv1XBsg76oFROlkmvdM) | 3:57 | 2020-12-16 |  |
 | [Royals](https://open.spotify.com/track/2kRzQJ6CBubjaLBbDIuLra) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Royals](https://open.spotify.com/album/5s43GovfaEXhryRE71wH9c) | 3:36 | 2023-10-27 |  |
 | [Royals](https://open.spotify.com/track/3RZxpy9ic7FhK3UPvxmPET) | [Youth in Revolt](https://open.spotify.com/artist/2bAEq3Pn4AHfpyffs2s8ai) | [Punk Goes Pop, Vol\. 6](https://open.spotify.com/album/1l6S45U20fiob98cV6siw8) | 3:24 | 2022-06-17 | 2024-04-19 |
 | [Royals](https://open.spotify.com/track/5BOlH2d2muo9YSCBARiKLJ) | [Youth in Revolt](https://open.spotify.com/artist/2bAEq3Pn4AHfpyffs2s8ai) | [Punk Goes Pop, Vol\. 6](https://open.spotify.com/album/6J3znrWBoBl1Px81FNdn7d) | 3:24 | 2022-03-25 | 2022-04-20 |

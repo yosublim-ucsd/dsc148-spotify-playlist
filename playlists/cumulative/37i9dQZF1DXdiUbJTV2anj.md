@@ -4,7 +4,7 @@
 
 > bands and tracks on the rise in heavy music\. Cover: 200 Stab Wounds
 
-242 songs - 14 hr 2 min
+245 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Death Awaits](https://open.spotify.com/track/4is7qbTZWLTZGGGEF42w3M) | [Resolve](https://open.spotify.com/artist/52tIYMYQgBbgOFIJHaOPxY) | [Human](https://open.spotify.com/album/07SPetFV41UfQXMpsHj4CO) | 3:23 | 2024-07-15 |  |
 | [Ded to Me](https://open.spotify.com/track/0WATUz2EzNC0NT8w4D3HE7) | [Vended](https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ) | [Ded to Me](https://open.spotify.com/album/1XyQDiFCupKpn5E9yAtlRL) | 3:44 | 2022-08-19 | 2023-01-14 |
 | [Deeper](https://open.spotify.com/track/2zadmTSePlxYA2LYq81c8U) | [Jigsaw Youth](https://open.spotify.com/artist/4nyGm04ANLhY9t8TnId45y) | [Deeper](https://open.spotify.com/album/72VaQUDx8Yw8Jz5qJW1lLW) | 3:28 | 2023-01-13 | 2024-07-16 |
+| [Delusion](https://open.spotify.com/track/3zkJJM6Uz4r6OqCgwgGTmz) | [Doubt](https://open.spotify.com/artist/517PMQHC4Vb1vUmUDWI6KS) | [Held in Contempt](https://open.spotify.com/album/4KY9UoEdNsnFuDhGmKxTcx) | 1:52 | 2024-07-22 |  |
 | [Demure](https://open.spotify.com/track/0q3a74dm3dH5Sm8ORI2hnB) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Demure](https://open.spotify.com/album/7wuJv3LE3mXdMY0CxF29Mj) | 4:49 | 2023-03-24 | 2024-07-16 |
 | [Deny the Sun](https://open.spotify.com/track/4imE4U6GmWCOzaWV6r7haj) | [Black Orchid Empire](https://open.spotify.com/artist/4TrfxRxjCvOFprX1W2V8k1) | [Deny the Sun](https://open.spotify.com/album/1DmFgV1PER3DY0cfV4PKf0) | 3:14 | 2023-02-09 | 2024-07-16 |
 | [Diabolic](https://open.spotify.com/track/35nX8jOmfuUEofO4r20zJN) | [My Favourite Nemesis](https://open.spotify.com/artist/3YKCy7kEFDbG1ZGq6qNKjM) | [Diabolic](https://open.spotify.com/album/5JXXDea10HLfGk9zMoK90j) | 3:25 | 2022-09-02 | 2023-01-06 |
@@ -157,6 +158,7 @@
 | [Pink Rover](https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 1:58 | 2022-07-29 | 2022-08-20 |
 | [Poisoned Apple](https://open.spotify.com/track/4uBp1JwbTLgaIyqlIMIXkB) | [Lilith PH](https://open.spotify.com/artist/5nXlGudijhyJZ5f3KgIDG3) | [Poisoned Apple](https://open.spotify.com/album/1smJ2OftBEPrqx7SadeimT) | 3:56 | 2024-07-15 |  |
 | [Puzzles](https://open.spotify.com/track/0rWIAbUoOL67JAHxxGRKx7) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Puzzles](https://open.spotify.com/album/4LULr4Lz6obf9eL2BA0tiJ) | 2:41 | 2022-07-29 | 2022-08-20 |
+| [Rachma](https://open.spotify.com/track/1nKvgLaSPLHrwwKKryfCRE) | [Mirar](https://open.spotify.com/artist/6g4uwq36brjISbcfehJ7yi) | [Mare](https://open.spotify.com/album/7MDMBadUvE61SEwGapi43t) | 4:52 | 2024-07-22 |  |
 | [Rap Rock Jesus](https://open.spotify.com/track/10eYvXs1Lv8eiUXIdztnuV) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Rap Rock Jesus](https://open.spotify.com/album/0BiFxOJxNjN9OCNxVRM17m) | 3:09 | 2023-05-18 | 2024-07-16 |
 | [RATATATA](https://open.spotify.com/track/69MHdGzxzt4GMliiXqpWn4) | [Wake up Frankie](https://open.spotify.com/artist/0a3b8EtIuUttBtZ2mIhLuv) | [RATATATA](https://open.spotify.com/album/4lvR3TmGeAdG6CesUqaPBd) | 3:27 | 2022-09-09 | 2023-03-03 |
 | [Red Wing](https://open.spotify.com/track/5bZMw4BXuxEgjXH1anAMUA) | [Wolfrik](https://open.spotify.com/artist/6Yyr4z6ZKxZu9y3Wa0Vs2o) | [Clones](https://open.spotify.com/album/5gUhgvoU6u50Seadl0Bk5K) | 3:11 | 2022-07-29 | 2022-08-20 |
@@ -229,6 +231,7 @@
 | [Until Falling](https://open.spotify.com/track/1oQc7ebfr4unGdUTlad9of) | [Stoned Statues](https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ) | [Until Falling](https://open.spotify.com/album/4zGPzMSMUwxcYJRuN5twAc) | 4:22 | 2022-11-04 | 2024-07-16 |
 | [Venenosa](https://open.spotify.com/track/0ILEkL0wB67TmOgW13U3kN) | [Future Static](https://open.spotify.com/artist/00IwRuoCtg1U25AGQxDleF) | [Liminality](https://open.spotify.com/album/0EMnIPOou5LCTjqdeYv1UB) | 3:24 | 2024-07-15 |  |
 | [Venom & Cadmium](https://open.spotify.com/track/50BIIRCIkkWA6R37v2lp3v) | [Scarcity](https://open.spotify.com/artist/46cAf9jkwRvcUWh0KsvekG) | [Venom & Cadmium](https://open.spotify.com/album/54VWB8sAerEjNmwMcXEfYv) | 7:27 | 2024-07-15 |  |
+| [Vortex of the Severed Dead \(feat\. Devourment\)](https://open.spotify.com/track/2uVZI2LVCqX3pQhxlUyPzi) | [Stabbing](https://open.spotify.com/artist/2dsmFzu9Ks0ds6SpaP6hVT), [Devourment](https://open.spotify.com/artist/47aXAyH6vI3y70PKyGldNG) | [Vortex of the Severed Dead / Pulled Apart](https://open.spotify.com/album/1bnqop3sujbbja7nanVL0o) | 3:17 | 2024-07-22 |  |
 | [Vultures of North](https://open.spotify.com/track/7EtQ5CqjSRgItuTYXeEtc9) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Vultures of North](https://open.spotify.com/album/738F2jVcoLtg0mBuXuxows) | 4:38 | 2022-08-26 | 2022-10-15 |
 | [Waco Horror](https://open.spotify.com/track/0ALS99PdJqNgXZDoQXBPLA) | [Burner](https://open.spotify.com/artist/7Amw4gNz7nLq7140PFhtuk) | [It All Returns to Nothing](https://open.spotify.com/album/4E4kqTJbWktENiux8xEoRF) | 1:10 | 2024-07-15 |  |
 | [Warrior](https://open.spotify.com/track/6qk8F2IGR7nvDHOS3rDV7O) | [No Terror in the Bang](https://open.spotify.com/artist/6JucMO8FO1iC8WHtFjlb6S) | [Warrior](https://open.spotify.com/album/4MAkD36KZnHMFatNBvcD2u) | 4:34 | 2024-07-15 |  |

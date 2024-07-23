@@ -1,12 +1,12 @@
 {
   "description": "This Is MYA. Los temas esenciales, todos en una lista.",
-  "num_followers": 40105,
+  "num_followers": 40128,
   "original_name": "This Is MYA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpr+AAAAAADK3/iDcszUEoOyURMEN0mN",
+  "snapshot_id": "ZpxPgAAAAADzMMDIsYneLQPPyt33hh6b",
   "tracks": [
     {
       "added_at": null,
@@ -311,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAL DE AMOR",
-        "url": "https://open.spotify.com/album/1PJGPDQCUfl18e5C3to1Uk"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 221270,
-      "name": "MAL DE AMOR",
-      "url": "https://open.spotify.com/track/0j15NSe9m6egjzJXXn1QXQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lado Triste (Remix)",
         "url": "https://open.spotify.com/album/75sX87O97X5BFJ4uvnlUhN"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 167038,
       "name": "Lado Triste - Remix",
       "url": "https://open.spotify.com/track/7gNClxHxDnazoQvgFhLMKr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAL DE AMOR",
+        "url": "https://open.spotify.com/album/1PJGPDQCUfl18e5C3to1Uk"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 221270,
+      "name": "MAL DE AMOR",
+      "url": "https://open.spotify.com/track/0j15NSe9m6egjzJXXn1QXQ"
     },
     {
       "added_at": null,

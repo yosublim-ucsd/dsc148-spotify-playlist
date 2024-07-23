@@ -4,7 +4,7 @@
 
 > Найпопулярніші пісні сьогодення\. Обкладинка: Sevdaliza, Pabllo Vittar, Yseult
 
-53 songs - 2 hr 31 min
+54 songs - 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,9 +53,10 @@
 | [Спалахи](https://open.spotify.com/track/6sVoLpo3i7p2WCaU3bpvpF) | [POSITIFF](https://open.spotify.com/artist/3f7zhsCueKsjZbwOkoTsME) | [Спалахи](https://open.spotify.com/album/4DgFv3Bs9zX3QhK7iaKD1d) | 2:11 | 2024-06-27 |  |
 | [Стерва](https://open.spotify.com/track/0EFwdcg2SJjINoW2wPLANa) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz) | [ТРОЯНДИ](https://open.spotify.com/album/1FhzXPtyqJbf59X5vreUig) | 3:03 | 2024-06-27 |  |
 | [Театр](https://open.spotify.com/track/4cwnOIjFKrnSEBwwuLdThM) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Театр](https://open.spotify.com/album/6EirQNLrSsspYFKTiRt5eo) | 2:28 | 2024-06-27 |  |
+| [Температура](https://open.spotify.com/track/4jv6YqdzJSlDfCbvW3F6o6) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Температура](https://open.spotify.com/album/2lCyQUHZvCZeL1kfGOoqTT) | 2:56 | 2024-07-22 |  |
 | [Хай пишуть](https://open.spotify.com/track/4CrtgDoRlrafpZxowRGwyN) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Хай пишуть](https://open.spotify.com/album/5T3DYiV80d2Z21sNOdncwV) | 2:42 | 2024-06-27 |  |
 | [Хартбіт](https://open.spotify.com/track/198PqHQboOXnYfwD1cr9Sa) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Хартбіт](https://open.spotify.com/album/4iZGHBz7mngvXLEcO9T1RY) | 3:07 | 2024-06-27 |  |
-| [Хочеш](https://open.spotify.com/track/2R8CylfWLqBcejsXu2mdcW) | [Після Дощу](https://open.spotify.com/artist/7vUQFioWvCavqy0WKpo1yD) | [Хочеш](https://open.spotify.com/album/2rJgsuytbx0DNv1ngQ2w6I) | 2:27 | 2024-06-27 |  |
+| [Хочеш](https://open.spotify.com/track/2R8CylfWLqBcejsXu2mdcW) | [Після Дощу](https://open.spotify.com/artist/7vUQFioWvCavqy0WKpo1yD) | [Хочеш](https://open.spotify.com/album/2rJgsuytbx0DNv1ngQ2w6I) | 2:27 | 2024-06-27 | 2024-07-23 |
 | [Хризантеми](https://open.spotify.com/track/2ZwNgWo1U0PLbzFCYMNPTW) | [анастимоза](https://open.spotify.com/artist/387gWxnXhGdDQFO7Ld3mLZ) | [Хризантеми](https://open.spotify.com/album/6pHum88f6JOO8QxkpBU5Bv) | 2:56 | 2024-07-11 |  |
 | [Це любов](https://open.spotify.com/track/1wC8M93ofAwfrV9a4mDzYa) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf) | [Це любов](https://open.spotify.com/album/2kZi9EkuwliINWGlTF4PXR) | 2:36 | 2024-06-27 |  |
 | [Час](https://open.spotify.com/track/4mVDYu5SYxeKK9BhEnlstT) | [Vivienne Mort](https://open.spotify.com/artist/6mQd5HeHhMBZK8u2bTCduH) | [Досвід](https://open.spotify.com/album/44prQVO4fIoqf2qQYy0Eyq) | 3:20 | 2024-06-27 |  |

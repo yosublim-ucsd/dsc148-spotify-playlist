@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-432 songs - 22 hr 13 min
+433 songs - 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Okparaji](https://open.spotify.com/track/7px4SA0BxMTaTSz6Mpxpxa) | [Bahd Man Niko](https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb), [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [BOYAHNAH II \(Untold Stories\)](https://open.spotify.com/album/2PIlja96GttnquJXBzPlts) | 2:32 | 2024-06-14 | 2024-06-28 |
 | [On My Way](https://open.spotify.com/track/6CU6x5fT8W0lY3eKc8DLBm) | [Danny Brace](https://open.spotify.com/artist/3z5ugR0fqaXNQWzaXSbOc5), [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Dj Consequence](https://open.spotify.com/artist/1S28Xg1Txe8qgxku1sFrbh) | [On My Way](https://open.spotify.com/album/3gUNe3ik8fjvbMxCmADVIR) | 2:36 | 2023-11-24 | 2023-12-08 |
 | [One Chance](https://open.spotify.com/track/6ve8S2fWHzzceBn0N3OwwH) | [Kvngs](https://open.spotify.com/artist/1SxJBIJJbaj2fpni5DNoXU) | [One Chance](https://open.spotify.com/album/3r4Umo18cNkc5kKJAUe8WL) | 1:52 | 2024-03-01 | 2024-04-04 |
+| [One Day](https://open.spotify.com/track/5HRx964pvIFS5rYcfjJhTT) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Son of Chike](https://open.spotify.com/album/7H6k4Pga6vIsaLM10sQf6W) | 2:53 | 2024-07-19 |  |
 | [One Of A Kind](https://open.spotify.com/track/1GYffAby5VxcjjIp7j0ea7) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [One Of A Kind](https://open.spotify.com/album/58SSPXzU66q7GdFqUPxCaU) | 2:56 | 2023-03-17 | 2023-06-16 |
 | [One Shokoto \(feat\. Ajebutter 22\)](https://open.spotify.com/track/06QkF0VUAB95p5Ry7WRoPa) | [M.A.K](https://open.spotify.com/artist/6kWofa8Y5XmNkUzxhk7OdU), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [One Shokoto \(feat\. Ajebutter22\)](https://open.spotify.com/album/3rptn5XO6onJryNiEpoC2T) | 3:23 | 2022-07-22 | 2022-07-28 |
 | [Operation Sweep](https://open.spotify.com/track/2exuZNzNYl96pncjTYokOd) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Operation Sweep](https://open.spotify.com/album/5Z27393Vx6iqkl1dG6mXyq) | 2:35 | 2023-08-10 | 2023-09-28 |
@@ -310,7 +311,7 @@
 | [PALAZZO](https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [PALAZZO](https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf) | 3:06 | 2022-05-12 |  |
 | [Para](https://open.spotify.com/track/63oup3T49OzdnDqxS3Xbzb) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Para](https://open.spotify.com/album/2iU5X3vUdNMcAOXYqMC5OE) | 3:00 | 2022-08-12 | 2022-12-13 |
 | [Paris](https://open.spotify.com/track/59u2srfelizSWf7MX5ppen) | [JaQi](https://open.spotify.com/artist/6LZpOGQnCzICEEoCsw0ybt), [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn) | [Paris](https://open.spotify.com/album/7oUxPl9r5HZbBKpbFfqCP8) | 3:16 | 2024-05-10 | 2024-05-17 |
-| [PARIWO](https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [PARIWO](https://open.spotify.com/album/0Jkvu3rltjFQC0khKkivk8) | 2:00 | 2023-09-29 |  |
+| [PARIWO](https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [PARIWO](https://open.spotify.com/album/0Jkvu3rltjFQC0khKkivk8) | 2:00 | 2023-09-29 | 2024-07-23 |
 | [Party](https://open.spotify.com/track/0RdO7NC6LgugflNKRmNeAn) | [A\-swxg](https://open.spotify.com/artist/4WLrRRtBJv9WV3A5KVClPg), [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Party](https://open.spotify.com/album/2nUeJg5EVfIFZBqZkGYjhB) | 2:25 | 2022-06-30 | 2022-08-22 |
 | [Party Monster](https://open.spotify.com/track/6XQ3ver8HQA5voTiXDk0xG) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 2:55 | 2024-04-19 | 2024-06-28 |
 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 | 2023-03-17 | 2024-06-28 |

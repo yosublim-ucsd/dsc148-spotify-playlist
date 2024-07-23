@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,081 songs - 2 day 7 hr 58 min
+1,083 songs - 2 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,6 +456,7 @@
 | [ID\-1999](https://open.spotify.com/track/0p04xEOgqfbzwUc4tcW2vt) | [Marc Antonix](https://open.spotify.com/artist/73hmgKy5dPtfbmkzOH7Uco) | [ID\-1999](https://open.spotify.com/album/42PYPVdXv4kGetNfShSWzb) | 2:53 | 2022-03-07 | 2022-04-02 |
 | [IDGAF](https://open.spotify.com/track/0LbUIB8LnedfY0nbPPouN6) | [Yung Zime](https://open.spotify.com/artist/3iG3DOwDRNNcU4SD26P0qp), [Big Melancholy](https://open.spotify.com/artist/1Ed0HN8RP6sHQCud1P8QWr), [luna online](https://open.spotify.com/artist/4uhnWSGtIqr0dlua70UCAF), [Xaron](https://open.spotify.com/artist/7MS6GFUsSbDdEvh9VMzgfD) | [IDGAF](https://open.spotify.com/album/5Z3PUFseqdLBimouApxeaR) | 1:33 | 2023-09-22 | 2023-10-14 |
 | [IDK](https://open.spotify.com/track/2GYjSu8UPhlOHDIjmc4ltN) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [IDK](https://open.spotify.com/album/3n50gOQTJOqXQipa4RNevS) | 3:31 | 2024-01-26 | 2024-07-02 |
+| [if u want me](https://open.spotify.com/track/4kupKSEh2N586EvBClD0wi) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF), [Daiela](https://open.spotify.com/artist/44whqkFHSInFDnpZ4xsTG6) | [if u want me](https://open.spotify.com/album/6RxwwgN2lzj8N7PnDKrUTF) | 1:40 | 2024-07-22 |  |
 | [IMMORTAL](https://open.spotify.com/track/0bKSDHj1UbeHkoAp7DDvx9) | [AENEAS](https://open.spotify.com/artist/0jxe1oY7DFUhgw97SFrKe5), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [IMMORTAL](https://open.spotify.com/album/18PQAswvtOmLzJqmIt09Dq) | 3:18 | 2023-07-07 | 2023-09-09 |
 | [Import Tuner](https://open.spotify.com/track/3mUSP6Ln9vcpdWjxXmXnfi) | [shxde](https://open.spotify.com/artist/6rCnAlUYZj7i19NEeRlwCr) | [Import Tuner](https://open.spotify.com/album/21qkQkz1fYketSDDNZhPNd) | 3:12 | 2023-06-09 | 2023-07-22 |
 | [In My Dreams](https://open.spotify.com/track/6ZHPUfO3lFuYEA7yCBBi0m) | [BB Cooper](https://open.spotify.com/artist/2J1QfFspvaEyOJ4w4GhLGi) | [In My Dreams](https://open.spotify.com/album/7wSgLKelqFenbjGxEfN3NP) | 2:41 | 2022-03-18 | 2022-04-19 |
@@ -1048,6 +1049,7 @@
 | [Where Are You Now](https://open.spotify.com/track/5hv2wCXlAWX4IospgC1xJI) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [DiFi](https://open.spotify.com/artist/5xAqa5xaSxHC1L3EP8g9KL), [CASSIE](https://open.spotify.com/artist/1vOxtZLlDyrdReqWrm9oMr) | [Where Are You Now](https://open.spotify.com/album/4uQ0CbHLd5PbJA3cmqiDnH) | 2:22 | 2022-09-30 | 2022-10-29 |
 | [While We're Young \- Marze Remix](https://open.spotify.com/track/0B5jpdoINneNjnPZ8yAzCu) | [Josh Rivera](https://open.spotify.com/artist/1MPWHkKtgL5X61RI8JS6cn), [Marze](https://open.spotify.com/artist/6JoNplNFJPDvDHBB4WRq7T) | [While We're Young \(Marze Remix\)](https://open.spotify.com/album/62JCkNsrR5gweeEM5ySIWA) | 2:57 | 2022-08-26 | 2022-10-22 |
 | [Whine in Brazil](https://open.spotify.com/track/5yudLBaBLfvWu6YjqmTWuB) | [Ichiss](https://open.spotify.com/artist/6wWEEpCzvBH6Z5EVZ86wJl) | [Whine in Brazil](https://open.spotify.com/album/7AMtOQ4omSoq5q74aZPxdS) | 1:40 | 2024-07-13 |  |
+| [WHINE IN BRAZIL FUNK](https://open.spotify.com/track/1Xvs6IKi0O1PWYzzIwxR2Q) | [Ichiss](https://open.spotify.com/artist/6wWEEpCzvBH6Z5EVZ86wJl) | [WHINE IN BRAZIL FUNK](https://open.spotify.com/album/6tuTOSJX2SjH8JBsh5uM30) | 1:47 | 2024-07-22 |  |
 | [Who Will Save Us \- hyperforms Remix](https://open.spotify.com/track/4mBCcNSM2GDYVHTZlImRQJ) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4), [hyperforms](https://open.spotify.com/artist/0NreEgNG54pUbCtdJ7W7ub) | [The Remixes \(Vol\. 2\)](https://open.spotify.com/album/7o9Q8Gcu9ALGjs1gJ1hUcX) | 2:37 | 2022-01-25 | 2022-02-26 |
 | [Why](https://open.spotify.com/track/2woXOL3Lh25Bs3HwHJDC8Q) | [Mad Miguel](https://open.spotify.com/artist/21fqKfKRAPydpw3u8KPtRr) | [Why](https://open.spotify.com/album/4A66DpGB7QfaCcG7KzsO3P) | 2:55 | 2023-04-28 | 2023-05-03 |
 | [Why Don't You](https://open.spotify.com/track/4y7OSoFuXiXXqg1CViM2NM) | [Thorgan](https://open.spotify.com/artist/4h222pRnmurJxvcdpOa5wZ) | [Why Don't You](https://open.spotify.com/album/1MdX85on6xJmZPviX0hDlm) | 2:48 | 2024-01-05 | 2024-06-01 |

@@ -4,7 +4,7 @@
 
 > 
 
-394 songs - 1 day 1 hr 27 min
+401 songs - 1 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Inspector Gadget](https://open.spotify.com/track/7lOCuVqblMUwmBrRWLhquh) | [Madam Misfit](https://open.spotify.com/artist/42rQYQExEIwKEsPwkREvIM) | [Inspector Gadget \(Electro Swing\)](https://open.spotify.com/album/78sRRgpbdRu3B2B23seshd) | 3:06 | 2024-07-04 |  |
 | [Is Yesterday, Tomorrow, Today?](https://open.spotify.com/track/3j0A1mwzKtsFI4Lx7NPLY3) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Performance And Cocktails](https://open.spotify.com/album/3L8K0FWsWGSHvYj56skH00) | 4:02 | 2024-07-16 |  |
 | [Is Yesterday, Tomorrow, Today?](https://open.spotify.com/track/5fkoCiO92Gno1SaOA6Hc7x) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Performance And Cocktails Deluxe Set](https://open.spotify.com/album/0QA22Bo9p1xhEOJ8rFol6o) | 4:02 | 2024-07-16 |  |
+| [It Is What It Is](https://open.spotify.com/track/1goTwTL1XZt1uuzohJppxN) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Pedro Martins](https://open.spotify.com/artist/7fgw6kQggc48KiNoTGWNU5) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 5:02 | 2024-07-22 |  |
 | [James Monroe](https://open.spotify.com/track/6Yj3YkHvEiFiuoiN0LIG5a) | [The Henry Girls](https://open.spotify.com/artist/02KeGV8345Zm6WfWdCiD2i) | [Louder Than Words](https://open.spotify.com/album/71Xv0HxHxU6zsYTjXLHcPi) | 3:44 | 2024-07-16 |  |
 | [Jealousy](https://open.spotify.com/track/7Cq4xMDoUPuUGoLCpLsIqV) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [You Gotta Go There To Come Back](https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8) | 4:24 | 2024-07-16 |  |
 | [Jimmy the Exploder](https://open.spotify.com/track/4BzDfIxPyZOR37XArUhKFK) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 2:29 | 2024-07-17 |  |
@@ -311,6 +312,7 @@
 | [Someone Else](https://open.spotify.com/track/3f90aCH4ohR2He7054FLdf) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [Loveless I](https://open.spotify.com/album/6oICQlFFse7v0qbnPo2L7l) | 2:56 | 2024-07-18 |  |
 | [Something Wild](https://open.spotify.com/track/2XsQS1noUOFR0NfX1VUIoK) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Pete's Dragon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1YrocR69AHthl982tykNpQ) | 3:43 | 2024-07-16 |  |
 | [Song Of Durin](https://open.spotify.com/track/2pBS4XbHNBrjeSuhvWYAoS) | [Colm R\. McGuinness](https://open.spotify.com/artist/2hwZ6O8nd7zKSUqRhYPo5U), [Jonathan Young](https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl), [Bobby Bass](https://open.spotify.com/artist/0ZM2ioGGBOZ3NPTSUbuimj) | [Song Of Durin](https://open.spotify.com/album/7pLftf1izScqTztweuxtw4) | 5:32 | 2024-07-17 |  |
+| [Soundscapes](https://open.spotify.com/track/3zIAy5GKWwbmBu6aaQymKM) | [L'Indécis](https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu) | [Plethoria](https://open.spotify.com/album/4chBvvHjAX7KoMwiilTdse) | 5:31 | 2024-07-22 |  |
 | [Spank \(feat\. Tai & B\. More\)](https://open.spotify.com/track/5LEKaXKhroyffegsL9918u) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [TAI](https://open.spotify.com/artist/5VOokbPJRb3e8tJYMxxsMQ), [B\. More](https://open.spotify.com/artist/6Bwq1KkcWl3c4AufWJLDVR) | [HIDE](https://open.spotify.com/album/71QVT34KzcvxtmPIyZtP75) | 4:38 | 2024-07-18 |  |
 | [Speir Thoo the Wast Wind](https://open.spotify.com/track/4rlhmwj0u8R9yhKiM9CeDk) | [Fara](https://open.spotify.com/artist/7bIa98JBktrW1lfUpRHjOk) | [Times from Times Fall](https://open.spotify.com/album/36xqkb0hu0IevHSM8Uk5ak) | 3:13 | 2024-07-16 |  |
 | [Standing Still](https://open.spotify.com/track/2RbQjHMZY6nBgRipXdAOlG) | [Rukhsana Merrise](https://open.spotify.com/artist/51WveHy70ZoLyFjZVgM9bn) | [September Songs](https://open.spotify.com/album/0dyGgvBAKPW2mOXlfrNR9M) | 2:31 | 2024-07-19 |  |
@@ -383,6 +385,7 @@
 | [Wire To Wire](https://open.spotify.com/track/7uYGpBJZDaAZX3Leot2iku) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Slipway Fires](https://open.spotify.com/album/7sAFIdbOtciWPnMsBqEZwL) | 2:58 | 2024-07-18 |  |
 | [Woman](https://open.spotify.com/track/2rM0fvLBxBsXVeNifwAePp) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [ROCKISDEAD](https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir) | 3:41 | 2024-07-16 |  |
 | [Would You Believe?](https://open.spotify.com/track/1m3xKGJlvrkWxvaMunw2Tj) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Scream Above the Sounds \(Deluxe Edition\)](https://open.spotify.com/album/3BiwYdv0OQRdCFB4OqUMiI) | 4:07 | 2024-07-16 |  |
+| [Yodo](https://open.spotify.com/track/2boM8rpV9jgBOzL3oSPp6w) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Astra](https://open.spotify.com/album/4OAUrKQYGBtbThIVRIAVQx) | 3:52 | 2024-07-22 |  |
 | [You](https://open.spotify.com/track/2PW73peL8ruP84O8Xtxqhj) | [Atmosphere](https://open.spotify.com/artist/1GAS0rb4L8VTPvizAx2O9J) | [When Life Gives You Lemons, You Paint That Shit Gold \(Deluxe Edition\)](https://open.spotify.com/album/3vBd1MNz3Ldw7sl5mC4jn3) | 3:14 | 2024-07-18 |  |
 | [You Are My Energy \(Bonus Track\)](https://open.spotify.com/track/68AGQOwtzyGFXRpnHiOqCn) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Keep the Village Alive \(Deluxe\)](https://open.spotify.com/album/5NKgyV3NPyX3ErJCgctHgW) | 4:01 | 2024-07-16 |  |
 | [You Can Have Alonetime When You’re Dead](https://open.spotify.com/track/1LaWcOwcWxTPH4zcUvP4FW) | [Remember Sports](https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc) | [Slow Buzz](https://open.spotify.com/album/1NHmvDgdWGAAq9XEf4gCdr) | 2:46 | 2024-07-19 |  |
@@ -398,9 +401,13 @@
 | [Är Du En Av Dem?](https://open.spotify.com/track/6qaVlhkgTLyTNrLcv8T4jz) | [Lovisa Negga](https://open.spotify.com/artist/3SZ8ar93t0KaCd0WCBYoAN) | [Kär](https://open.spotify.com/album/1NyUPf31LFU8AEocvfLmgu) | 3:18 | 2024-07-18 |  |
 | [אווז על הגז](https://open.spotify.com/track/0xdGvlDwKTd6t0GxeUF5nz) | [Dudu Faruk](https://open.spotify.com/artist/0PWRQodP2EvmBFpgyKUNc6) | [ששש...](https://open.spotify.com/album/2PLB7rkOfCmGlzzmSjas6s) | 2:30 | 2024-07-16 |  |
 | [דוד המלך \(אבא אבא אבא\)](https://open.spotify.com/track/1l2tfScuW48xYd5IsGRE1G) | [אורי קומאי](https://open.spotify.com/artist/0WV7RoN2jfLshGy7czoezA), [Dudu Faruk](https://open.spotify.com/artist/0PWRQodP2EvmBFpgyKUNc6) | [דוד המלך \(אבא אבא אבא\)](https://open.spotify.com/album/44i7Y3BEb90POu7CBkwuWB) | 3:08 | 2024-07-16 |  |
+| [זמנך עבר](https://open.spotify.com/track/5u7kBEPVjMuk5jl4IM7prr) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [אהוד בנאי והפליטים](https://open.spotify.com/album/7ebMUyaeUZXn7lA21H1W1c) | 4:06 | 2024-07-22 |  |
 | [חצי מדלקת](https://open.spotify.com/track/2dNgsk7Xj4C10tuHvroBVB) | [Dudu Faruk](https://open.spotify.com/artist/0PWRQodP2EvmBFpgyKUNc6) | [חצי מדלקת](https://open.spotify.com/album/6AAQuB2aZrGKEm8W5MdJFb) | 2:41 | 2024-07-16 |  |
+| [יורד הערב](https://open.spotify.com/track/4i5eQvJ94qL3FgsRDiGRrS) | [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1) | [רבע לשש](https://open.spotify.com/album/4CRH0SyV6d0Uc5yGQ6wfvt) | 2:18 | 2024-07-22 |  |
 | [כמה טוב שבאת הביתה](https://open.spotify.com/track/3NwCkvveOs671bd1QjhEY9) | [The Uzi Navon Legacy](https://open.spotify.com/artist/1slP3t9sVZTNu1vN9qZxKp) | [למה לא עכשיו](https://open.spotify.com/album/5gSkiVvgxZByJEOFaAwYfg) | 4:34 | 2024-07-16 |  |
+| [לילה כיום יאיר](https://open.spotify.com/track/2xqMifKIz1qVTElCZPkyRH) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [לילה כיום יאיר](https://open.spotify.com/album/6MTaG6ouyHqSauq4Xks8E7) | 3:24 | 2024-07-22 |  |
 | [קפה אצל ברטה](https://open.spotify.com/track/7JCtcpIZIhja6DFTlJKqfb) | [The Pure Souls](https://open.spotify.com/artist/6Np0YXMg3YOVqgdITFyJqs) | [הנשמות הטהורות](https://open.spotify.com/album/1HEmkt3tg508dOaGPJ0Rmx) | 3:32 | 2024-07-16 |  |
+| [רק אותו](https://open.spotify.com/track/1Pe91CU1KWhDrD65u96Uvs) | [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1) | [רבע לשש](https://open.spotify.com/album/4CRH0SyV6d0Uc5yGQ6wfvt) | 2:43 | 2024-07-22 |  |
 | [שובי אל ביתי](https://open.spotify.com/track/5qgRpu5U5pqXyuKGvX2t2o) | [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1) | [ממעמקים](https://open.spotify.com/album/7myXHy4W0g70SWGgzlaQvU) | 3:54 | 2024-07-16 |  |
 
 \*This playlist was first scraped on 2024-07-17. Prior content cannot be recovered.

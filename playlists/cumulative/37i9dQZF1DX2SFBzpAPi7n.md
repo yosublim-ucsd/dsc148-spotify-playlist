@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: KyoungSeo\(경서\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-709 songs - 1 day 18 hr 55 min
+710 songs - 1 day 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [GRIPPIN’THEGREEN](https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Jannabi’s small pieces ll : GRIPPIN’THEGREEN](https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt) | 3:24 | 2022-05-24 | 2022-07-29 |
 | [Growing Pain](https://open.spotify.com/track/7r8aFgJzUbqpApUNmzV5yY) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 3:20 | 2024-05-09 |  |
 | [Guard You](https://open.spotify.com/track/3AQLNP4d68hIenp2KpwLlp) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:17 | 2022-04-12 | 2023-01-12 |
+| [Guerrilla \- Flag Version](https://open.spotify.com/track/2lhcC5gHaWaxOEcfa1WwgY) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.PARADIGM](https://open.spotify.com/album/2f1QQQD15aeu9e5EWO3XrA) | 3:35 | 2024-07-16 |  |
 | [Guess Who?](https://open.spotify.com/track/7LsHODr3Z7Q3AYgOyuQ2dx) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 3:59 | 2022-06-13 | 2022-07-02 |
 | [Gypsophila](https://open.spotify.com/track/6LA3jxPIsMLM4tpCGrb2B5) | [Lee Ju Hyuk](https://open.spotify.com/artist/05kWx8q5sU1MChiDfWcVRk) | [Crash Course in Romance OST Part 1](https://open.spotify.com/album/0h2Mo9WsDtc23UqKcY1zUv) | 3:32 | 2023-02-24 | 2023-03-25 |
 | [Habit](https://open.spotify.com/track/7IxgIn4YcdJjtaE9dqw1zw) | [Jae Woo AN](https://open.spotify.com/artist/4xDwz6SwDRIFKshWYRjIL3), [LIPNINE](https://open.spotify.com/artist/1q5u8LnvomvAmiMhg8kRDp) | [Intermission](https://open.spotify.com/album/377CA84mWXSqmnxqEwBJ6W) | 2:55 | 2024-03-21 | 2024-05-10 |
@@ -698,7 +699,7 @@
 | [Zombie](https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ) | 3:29 | 2023-06-19 |  |
 | [Zombie](https://open.spotify.com/track/4s0dJmVknlUl7V6oK3puzZ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor) | 3:29 | 2022-04-12 | 2022-07-27 |
 | [zombie pop](https://open.spotify.com/track/5zhMMVw097YOSvT0oDGgDV) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [DPR ARCHIVES](https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw) | 1:54 | 2024-06-05 |  |
-| [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 | 2022-04-21 |  |
+| [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 | 2022-04-21 | 2024-07-23 |
 | [날 버리지 마요](https://open.spotify.com/track/5NZLKa0BTaxTtIkmeK2Jjs) | [JUROKEY](https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC) | [날 버리지 마요](https://open.spotify.com/album/3l25IElZW7jIlbTD7obUAr) | 4:01 | 2022-04-12 | 2022-04-29 |
 | [낡은 괴담 Cumulus](https://open.spotify.com/track/6SGISb2p5ebnvpRUtIaXlr) | [JUNGWOO](https://open.spotify.com/artist/3tvnuk98r2VOv9ygTK8cjs) | [클라우드 쿠쿠 랜드 Cloud Cuckoo Land](https://open.spotify.com/album/1JsmKt5IsgxgqkIVNsjuuz) | 4:02 | 2023-11-10 | 2023-11-24 |
 | [내 인생은 영화가 아니니깐 Even if it's not a movie](https://open.spotify.com/track/3iNKeoWEHeOiggDyDUoQ1Z) | [SAGA](https://open.spotify.com/artist/2ZRfFuLggOblc7VecpyL7l) | [내 인생은 영화가 아니니깐 Even if it's not a movie](https://open.spotify.com/album/7HVbI46GN8Aka3KJbJwhVj) | 3:45 | 2022-04-12 | 2022-07-01 |

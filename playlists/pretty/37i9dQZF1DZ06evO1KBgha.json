@@ -1,12 +1,12 @@
 {
   "description": "This Is Kenia OS. Los temas esenciales, todos en una lista.",
-  "num_followers": 326195,
+  "num_followers": 326410,
   "original_name": "This Is Kenia OS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpr+AAAAAADL2hFUr+SmCTknzCyBs2dk",
+  "snapshot_id": "ZpxPgAAAAAASlzYok3BmPUPvdqvObcCH",
   "tracks": [
     {
       "added_at": null,
@@ -707,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/3hECK15kYfJL0rrUVNxLOA"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/5tsaIE9YwWkgnSzKbAkcr5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "T\u00fa S\u00ed",
         "url": "https://open.spotify.com/album/3A9d6xjgv8Gzf5sBL5WUy2"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 173347,
       "name": "T\u00fa S\u00ed",
       "url": "https://open.spotify.com/track/3UYbYRx8LAEMSNiN9oaJuD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diamantes",
-        "url": "https://open.spotify.com/album/3hECK15kYfJL0rrUVNxLOA"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Diamantes",
-      "url": "https://open.spotify.com/track/5tsaIE9YwWkgnSzKbAkcr5"
     },
     {
       "added_at": null,

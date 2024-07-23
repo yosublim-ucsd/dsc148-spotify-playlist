@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u7d2b \u4eca\uff08Mulasaki Ima\uff09",
-  "num_followers": 113116,
+  "num_followers": 113123,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-07-16 15:00:00",
       "album": {
-        "name": "\u30b5\u30af\u30e9\u30ad\u30df\u30ef\u30bf\u30b7",
-        "url": "https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 202533,
-      "name": "\u30b5\u30af\u30e9\u30ad\u30df\u30ef\u30bf\u30b7",
-      "url": "https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd"
-    },
-    {
-      "added_at": "2024-07-16 15:00:00",
-      "album": {
         "name": "\u82e5\u8005\u306e\u3059\u3079\u3066",
         "url": "https://open.spotify.com/album/2pS9ATc0f1xRthcOaTVXvb"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 301000,
       "name": "\u82e5\u8005\u306e\u3059\u3079\u3066",
       "url": "https://open.spotify.com/track/0bolEYwnvGkCjy38QACpBt"
+    },
+    {
+      "added_at": "2024-07-16 15:00:00",
+      "album": {
+        "name": "\u30b5\u30af\u30e9\u30ad\u30df\u30ef\u30bf\u30b7",
+        "url": "https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "duration_ms": 202533,
+      "name": "\u30b5\u30af\u30e9\u30ad\u30df\u30ef\u30bf\u30b7",
+      "url": "https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd"
     },
     {
       "added_at": "2024-07-16 15:00:00",
@@ -735,18 +735,18 @@
     {
       "added_at": "2024-07-16 15:00:00",
       "album": {
-        "name": "Value",
-        "url": "https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf"
+        "name": "\u5168\u65b9\u5411\u7f8e\u5c11\u5973",
+        "url": "https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl"
       },
       "artists": [
         {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Value",
-      "url": "https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh"
+      "duration_ms": 127925,
+      "name": "\u5168\u65b9\u5411\u7f8e\u5c11\u5973",
+      "url": "https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS"
     },
     {
       "added_at": "2024-07-16 15:00:00",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-07-16 15:00:00",
       "album": {
-        "name": "\u5168\u65b9\u5411\u7f8e\u5c11\u5973",
-        "url": "https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl"
+        "name": "Value",
+        "url": "https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf"
       },
       "artists": [
         {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
         }
       ],
-      "duration_ms": 127925,
-      "name": "\u5168\u65b9\u5411\u7f8e\u5c11\u5973",
-      "url": "https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS"
+      "duration_ms": 185000,
+      "name": "Value",
+      "url": "https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh"
     },
     {
       "added_at": "2024-07-16 15:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-07-16 15:00:00",
       "album": {
+        "name": "L7 Blues",
+        "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "duration_ms": 141974,
+      "name": "L7 Blues",
+      "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
+    },
+    {
+      "added_at": "2024-07-16 15:00:00",
+      "album": {
         "name": "\u9752\u6625\u8b33\u6b4c (feat.ano)",
         "url": "https://open.spotify.com/album/4szJowsqkuvKbBwZG9rYQG"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 227792,
       "name": "\u9752\u6625\u8b33\u6b4c (feat.ano)",
       "url": "https://open.spotify.com/track/5N6DFXriMN64kM62mpk9uc"
-    },
-    {
-      "added_at": "2024-07-16 15:00:00",
-      "album": {
-        "name": "L7 Blues",
-        "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
-      },
-      "artists": [
-        {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
-        }
-      ],
-      "duration_ms": 141974,
-      "name": "L7 Blues",
-      "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
     },
     {
       "added_at": "2024-07-16 15:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-07-16 15:00:00",
       "album": {
-        "name": "\u3054\u3081\u3093\u306d",
-        "url": "https://open.spotify.com/album/3TciDpDFjXBuUBD2wxkdDj"
-      },
-      "artists": [
-        {
-          "name": "AYANE",
-          "url": "https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM"
-        }
-      ],
-      "duration_ms": 175786,
-      "name": "\u3054\u3081\u3093\u306d",
-      "url": "https://open.spotify.com/track/2IO8EYYxhOVbvgCFlOq3ol"
-    },
-    {
-      "added_at": "2024-07-16 15:00:00",
-      "album": {
         "name": "\u7d14\u611b\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
         "url": "https://open.spotify.com/album/5sZ9pXCCxfRLpVJ6QLrMw9"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 277453,
       "name": "\u3042\u305f\u3057\u304c\u6b7b\u3093\u3067\u3082",
       "url": "https://open.spotify.com/track/3bJUYzp2dq4ZPz448hCmzm"
+    },
+    {
+      "added_at": "2024-07-16 15:00:00",
+      "album": {
+        "name": "\u3054\u3081\u3093\u306d",
+        "url": "https://open.spotify.com/album/3TciDpDFjXBuUBD2wxkdDj"
+      },
+      "artists": [
+        {
+          "name": "AYANE",
+          "url": "https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM"
+        }
+      ],
+      "duration_ms": 175786,
+      "name": "\u3054\u3081\u3093\u306d",
+      "url": "https://open.spotify.com/track/2IO8EYYxhOVbvgCFlOq3ol"
     },
     {
       "added_at": "2024-07-16 15:00:00",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2024-07-16 15:00:00",
       "album": {
-        "name": "\u30ea\u30ba\u30e064",
-        "url": "https://open.spotify.com/album/5ItDzD0v8osJxkUrUCPLJs"
+        "name": "Ashes",
+        "url": "https://open.spotify.com/album/3UZBxSPfJQumL14kCOzJJo"
       },
       "artists": [
         {
-          "name": "Aimyon",
-          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+          "name": "Superfly",
+          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
         }
       ],
-      "duration_ms": 268980,
-      "name": "\u30ea\u30ba\u30e064",
-      "url": "https://open.spotify.com/track/74GJbmNHys47ZfdoQCySpM"
+      "duration_ms": 200366,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/2hWYqb2PHlUZKXOdK2rfFA"
     },
     {
       "added_at": "2024-07-16 15:00:00",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2024-07-16 15:00:00",
       "album": {
-        "name": "Ashes",
-        "url": "https://open.spotify.com/album/3UZBxSPfJQumL14kCOzJJo"
+        "name": "\u30ea\u30ba\u30e064",
+        "url": "https://open.spotify.com/album/5ItDzD0v8osJxkUrUCPLJs"
       },
       "artists": [
         {
-          "name": "Superfly",
-          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
         }
       ],
-      "duration_ms": 200366,
-      "name": "Ashes",
-      "url": "https://open.spotify.com/track/2hWYqb2PHlUZKXOdK2rfFA"
+      "duration_ms": 268980,
+      "name": "\u30ea\u30ba\u30e064",
+      "url": "https://open.spotify.com/track/74GJbmNHys47ZfdoQCySpM"
     },
     {
       "added_at": "2024-07-16 15:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-07-16 15:00:00",
       "album": {
-        "name": "\u30d2\u30ca\u30b2\u30b7",
-        "url": "https://open.spotify.com/album/5MqmrYvhB4oJ5O8eB3VFEf"
-      },
-      "artists": [
-        {
-          "name": "shimamo",
-          "url": "https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm"
-        }
-      ],
-      "duration_ms": 249562,
-      "name": "\u30d2\u30ca\u30b2\u30b7",
-      "url": "https://open.spotify.com/track/0oHhxTCMPByXBRQfy2MiHS"
-    },
-    {
-      "added_at": "2024-07-16 15:00:00",
-      "album": {
         "name": "\u611b\u304c\u706f\u308b",
         "url": "https://open.spotify.com/album/7x7aD8dOcULUeoJT5CNcPr"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 199117,
       "name": "\u611b\u304c\u706f\u308b",
       "url": "https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR"
+    },
+    {
+      "added_at": "2024-07-16 15:00:00",
+      "album": {
+        "name": "\u30d2\u30ca\u30b2\u30b7",
+        "url": "https://open.spotify.com/album/5MqmrYvhB4oJ5O8eB3VFEf"
+      },
+      "artists": [
+        {
+          "name": "shimamo",
+          "url": "https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm"
+        }
+      ],
+      "duration_ms": 249562,
+      "name": "\u30d2\u30ca\u30b2\u30b7",
+      "url": "https://open.spotify.com/track/0oHhxTCMPByXBRQfy2MiHS"
     },
     {
       "added_at": "2024-07-16 15:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-07-16 15:00:00",
       "album": {
-        "name": "\u904b\u547d\u3061\u3083\u3093",
-        "url": "https://open.spotify.com/album/4a7LxWB47pTyCvLdK7LvJj"
-      },
-      "artists": [
-        {
-          "name": "Ikimonogakari",
-          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
-        }
-      ],
-      "duration_ms": 196960,
-      "name": "\u904b\u547d\u3061\u3083\u3093",
-      "url": "https://open.spotify.com/track/6hrFluMqAYUB7708EnnpiN"
-    },
-    {
-      "added_at": "2024-07-16 15:00:00",
-      "album": {
         "name": "\u30ef\u30eb\u30c4",
         "url": "https://open.spotify.com/album/31BC9S9cEbJYjjkyJIxc4N"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 276933,
       "name": "\u30ef\u30eb\u30c4",
       "url": "https://open.spotify.com/track/68vtBxs3GCBkVjLS94QVPd"
+    },
+    {
+      "added_at": "2024-07-16 15:00:00",
+      "album": {
+        "name": "\u904b\u547d\u3061\u3083\u3093",
+        "url": "https://open.spotify.com/album/4a7LxWB47pTyCvLdK7LvJj"
+      },
+      "artists": [
+        {
+          "name": "Ikimonogakari",
+          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
+        }
+      ],
+      "duration_ms": 196960,
+      "name": "\u904b\u547d\u3061\u3083\u3093",
+      "url": "https://open.spotify.com/track/6hrFluMqAYUB7708EnnpiN"
     },
     {
       "added_at": "2024-07-16 15:00:00",

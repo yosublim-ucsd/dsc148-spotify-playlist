@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 163567,
       "name": "Alfie",
       "url": "https://open.spotify.com/track/0hM1KJAmxzankL3lgogyxf"
@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "L-O-V-E",
+        "url": "https://open.spotify.com/album/4jYf6fhH6oQIHjn5Ur98F8"
+      },
+      "artists": [
+        {
+          "name": "Jen\u00e9 Martins",
+          "url": "https://open.spotify.com/artist/6ivuOAayX7AMI5dMc32BHo"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "L-O-V-E",
+      "url": "https://open.spotify.com/track/2HOBHKyf3Sm9SjqUTFybyY"
+    },
+    {
+      "album": {
         "name": "Last Summer",
         "url": "https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2"
       },
@@ -920,6 +938,24 @@
       "duration_ms": 207747,
       "name": "Next to Nothing",
       "url": "https://open.spotify.com/track/3NSUJkVYfauEwgNlhJinXF"
+    },
+    {
+      "album": {
+        "name": "Night and Day",
+        "url": "https://open.spotify.com/album/0BCwxgvqpwuTdZyfW4kEg8"
+      },
+      "artists": [
+        {
+          "name": "Joshua Garland",
+          "url": "https://open.spotify.com/artist/4uDakG3Fmg1CdRB1xvby7X"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183050,
+      "name": "Night and Day",
+      "url": "https://open.spotify.com/track/000sIz4pDu580oiCo9JDXc"
     },
     {
       "album": {
@@ -1546,7 +1582,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 137656,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/0MljxuIuG5VkNEhZy0Wn1j"

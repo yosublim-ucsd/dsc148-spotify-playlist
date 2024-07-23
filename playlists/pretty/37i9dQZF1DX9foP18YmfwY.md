@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Colo de Deus
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,610 likes - 70 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,746 likes - 70 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,14 +29,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 19 | [Romaria \- Ao Vivo](https://open.spotify.com/track/06gsgAFv0RXiFnir0PsuYj) | [Daniel](https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM), [Leo Cidade](https://open.spotify.com/artist/6zikg0PVHgcLu227sEPDit) | [Romaria \(Ao Vivo\)](https://open.spotify.com/album/36ZVrFlkRLQOEJO4p2ha3U) | 5:19 |
 | 20 | [Não Vou Desisitir](https://open.spotify.com/track/5GF5wmkOro0Ldjlkmk5ofu) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt) | [Não Vou Desistir](https://open.spotify.com/album/3lIFxKUC9Ipe7pT1b3Ril0) | 4:27 |
 | 21 | [Decididamente](https://open.spotify.com/track/3wWu0QLfTDfNa7ZVH6pQs8) | [Cassiano Menke](https://open.spotify.com/artist/6XEVCyhWv960rTzOHTkcv1), [Walmir Alencar](https://open.spotify.com/artist/5dPToGb1vTTAf0ZiKqCpSN) | [Decididamente](https://open.spotify.com/album/0mAKA1AGk8xqP2i4bfBPeN) | 4:18 |
-| 22 | [Me Aceita de Volta](https://open.spotify.com/track/3GIxWG9j6QNtm6BteSTIqG) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Adoração na Nossa Casa É Assim 9](https://open.spotify.com/album/1Z19YIT9c8WBEPPsiUnGBU) | 10:36 |
+| 22 | [Me Leva](https://open.spotify.com/track/2z6uchqZ5mTC5spfvsmAsc) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Me Leva](https://open.spotify.com/album/1L69Pt5Yg6FpXFbK1AaI2r) | 11:36 |
 | 23 | [Yeshua \(feat\. Eliana Ribeiro\)](https://open.spotify.com/track/2K3QKrBAZBdRdABzOmQ1TL) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Yeshua \(feat\. Eliana Ribeiro\)](https://open.spotify.com/album/6kb2Z7f0oZtl7TDrfhTN3j) | 4:47 |
 | 24 | [Ninguém Explica Deus \- Ao Vivo](https://open.spotify.com/track/6tSqtTXUDgG9R1BA1wtwBN) | [Daniel](https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM) | [Ninguém Explica Deus \(Ao Vivo\)](https://open.spotify.com/album/3PQJ1WcygTdXHMaXWI8qbW) | 5:09 |
 | 25 | [Louvor dos Pequenos](https://open.spotify.com/track/34OpCyq1JuZoEajsedtbJv) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Cantai a Deus Com Alegria 2023](https://open.spotify.com/album/5tqJF42DVxyCtzLQ1Zho3q) | 5:08 |
 | 26 | [Maria de Minha Infância](https://open.spotify.com/track/4cSp3zAiACxH3sQrhzj3Y2) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Suely Façanha](https://open.spotify.com/artist/6BuaFf9rDLYqRgZhnzwvy5) | [Gba Stage, Vol\. 11](https://open.spotify.com/album/1YlEijhkZrFIZ9NGgvpSVG) | 5:02 |
 | 27 | [Se Eu Tenho o Hoje](https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Se Eu Tenho o Hoje](https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi) | 5:27 |
 | 28 | [Acalma o Meu Coração](https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [Acalma o Meu Coração](https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9) | 4:22 |
-| 29 | [Me Leva](https://open.spotify.com/track/2z6uchqZ5mTC5spfvsmAsc) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Me Leva](https://open.spotify.com/album/1L69Pt5Yg6FpXFbK1AaI2r) | 11:36 |
+| 29 | [Me Aceita de Volta](https://open.spotify.com/track/3GIxWG9j6QNtm6BteSTIqG) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Adoração na Nossa Casa É Assim 9](https://open.spotify.com/album/1Z19YIT9c8WBEPPsiUnGBU) | 10:36 |
 | 30 | [Em Silêncio](https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg) | [Fernando Vinhote](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS), [Padre Denis\-Ricard](https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb) | [Em Silêncio](https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z) | 3:48 |
 | 31 | [Quem É Essa Que Avança Como Aurora?](https://open.spotify.com/track/7bZwSB2GKZ1xKazrxDc6Fp) | [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Quem É Essa Que Avança Como Aurora?](https://open.spotify.com/album/01zKN1vkGZLOgbTZysudFi) | 2:22 |
 | 32 | [Espírito Poderoso](https://open.spotify.com/track/3n1t1QGVGNtf0Pmglzddgp) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07), [Ramon e Rafael](https://open.spotify.com/artist/0ivA4QP4IYhr99InHqVOLV) | [Espírito Poderoso](https://open.spotify.com/album/5rqu2ue7TCopF0bY9YIbSW) | 8:24 |

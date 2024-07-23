@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34l1tsrbKtmGYuTEef0YFl">D'Mile</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,108 likes - 148 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,110 likes - 148 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 85 | [Time Will Tell](https://open.spotify.com/track/30iYVELFKzXdKReWpZXgcn) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 2:48 |
 | 86 | [The 1st Lady](https://open.spotify.com/track/6Jb3ulaGgpHEfNGCGLuGWq) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [The Rebirth](https://open.spotify.com/album/1dmRT4o84KJpQlbaJF7vhY) | 2:44 |
 | 87 | [No Justice \(feat\. Big TC\)](https://open.spotify.com/track/6T31igJOl970c2C9aHVNZn) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Big TC](https://open.spotify.com/artist/0lcJ0rnv51qnpYkAlvMCGE) | [No Justice \(feat\. Big TC\)](https://open.spotify.com/album/7HEN7UZ0Ak2jPSQ8dMCrg7) | 3:30 |
-| 88 | [Paint It](https://open.spotify.com/track/118vnrWTfc2QzsmIQHCUkd) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 4:12 |
-| 89 | [The Beginning](https://open.spotify.com/track/46BEdbS8fN3xTRxGtiLiZ6) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/0nmCwOAFeqD69X1MWwKTS6) | 2:14 |
+| 88 | [The Beginning](https://open.spotify.com/track/46BEdbS8fN3xTRxGtiLiZ6) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/0nmCwOAFeqD69X1MWwKTS6) | 2:14 |
+| 89 | [Paint It](https://open.spotify.com/track/118vnrWTfc2QzsmIQHCUkd) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 4:12 |
 | 90 | [My World](https://open.spotify.com/track/5wXQFi7alwkKVf7PdYb3Co) | [Asiahn](https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs) | [The Interlude](https://open.spotify.com/album/6bZ7XNBJFwmpOdAp9xZkoX) | 3:11 |
 | 91 | [Ex At The Party](https://open.spotify.com/track/1DiGAGAS2iLoY81VnIjAMi) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC) | [Modus Operandi](https://open.spotify.com/album/16JYdERnBWMgtLL7JEluUq) | 3:08 |
 | 92 | [Gangster](https://open.spotify.com/track/1TYiFslbRaM2N7xgmw22uQ) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Gangster](https://open.spotify.com/album/0haE8BchouIV0AKjBMB4TK) | 3:37 |
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 104 | [Work \(feat\. Casey Veggies, Twista & Nate Poetics\)](https://open.spotify.com/track/7o9auSKq2JNs8D7u97czK1) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS), [Nate Poetics](https://open.spotify.com/artist/1RvjIvawOPm3NLKlEV7ySj) | [Beach House EP](https://open.spotify.com/album/2P0JJ9p0o3unqi6EK4iDQw) | 7:09 |
 | 105 | [New Religion](https://open.spotify.com/track/0Dak6ZI1drWHHWx4S0yr7r) | [Ro James](https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y) | [ELDORADO](https://open.spotify.com/album/1SXqTsVnjtIULG5YKXafeY) | 3:53 |
 | 106 | [2,000 Miles](https://open.spotify.com/track/3hWxJGRO3noWNCUgv8blO6) | [D\-Why](https://open.spotify.com/artist/2NEV1rTY8EalBHz91d3cW9) | [Don't Flatter Yourself](https://open.spotify.com/album/4k7NTlpFnWeK4F1mME8S2q) | 3:41 |
-| 107 | [Nothing To Lose](https://open.spotify.com/track/3dcLr0Nf8uy5UdqjEH0u3g) | [Zola Courtney](https://open.spotify.com/artist/11lgCVODZLjSSBl1oSke9J) | [Nothing To Lose](https://open.spotify.com/album/0iBO5wsvuNE3xY9V1cXfSm) | 3:37 |
-| 108 | [CALI LOVE](https://open.spotify.com/track/15PfsHwrnQ43VSQP3BngxW) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [BEFORE WE GO](https://open.spotify.com/album/5xf4AOythWohRnXhjmSF2P) | 3:16 |
+| 107 | [CALI LOVE](https://open.spotify.com/track/15PfsHwrnQ43VSQP3BngxW) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [BEFORE WE GO](https://open.spotify.com/album/5xf4AOythWohRnXhjmSF2P) | 3:16 |
+| 108 | [Nothing To Lose](https://open.spotify.com/track/3dcLr0Nf8uy5UdqjEH0u3g) | [Zola Courtney](https://open.spotify.com/artist/11lgCVODZLjSSBl1oSke9J) | [Nothing To Lose](https://open.spotify.com/album/0iBO5wsvuNE3xY9V1cXfSm) | 3:37 |
 | 109 | [SUPERFINE](https://open.spotify.com/track/7BBdodDRaP6waS34503kCd) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [BEFORE WE GO](https://open.spotify.com/album/5xf4AOythWohRnXhjmSF2P) | 4:22 |
 | 110 | [Sunday Morning](https://open.spotify.com/track/7qzcdcS65oCivPNXxvOT1o) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U) | 3:12 |
 | 111 | [Running Blind \- From "Liberated / Music For the Movement Vol\. 3"](https://open.spotify.com/track/7ALUF2i2FCiRCx9OqBJ5Ot) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Running Blind \(From "Liberated / Music For the Movement Vol\. 3"\)](https://open.spotify.com/album/74XnffQl19Z2WAErQ4DjZb) | 3:13 |
@@ -138,8 +138,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 128 | [BLACKS N MEXICANS \(feat\. ScHoolboy Q & B\-Real\)](https://open.spotify.com/track/2x0bstZabBon41J1GmKBo8) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd) | [Gully \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3AXV4OJLUI7v9MQ3w8wzaN) | 2:46 |
 | 129 | [Sorry \- New Album Version](https://open.spotify.com/track/76tGW76WRjhetIxj7QIhZ0) | [Noel Gourdin](https://open.spotify.com/artist/3u7hrkQcZmqCkcDg3WPczt) | [After My Time](https://open.spotify.com/album/2KwyEnvCVY0pxohOsqR72J) | 3:32 |
 | 130 | [Casino](https://open.spotify.com/track/7nIMtLGnPTb2xxYCax4dH6) | [Daye Jack](https://open.spotify.com/artist/0LSjb1pZ3uHwuvIaVzhdyT) | [No Data](https://open.spotify.com/album/64wV0bHpfRBo9eiCHr8tJo) | 4:10 |
-| 131 | [Go Crazy](https://open.spotify.com/track/3rizvrE6h50nuvO1vJXutX) | [Mack Wilds](https://open.spotify.com/artist/5BO8aIDUyNtvnq98qMIs85) | [AfterHours](https://open.spotify.com/album/1bTyhuo2fpYqiNJOrG28fY) | 4:40 |
-| 132 | [Bar Song](https://open.spotify.com/track/2UWs1yE9D6PXiwhRBOQ2Nw) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 2:48 |
+| 131 | [Bar Song](https://open.spotify.com/track/2UWs1yE9D6PXiwhRBOQ2Nw) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 2:48 |
+| 132 | [Go Crazy](https://open.spotify.com/track/3rizvrE6h50nuvO1vJXutX) | [Mack Wilds](https://open.spotify.com/artist/5BO8aIDUyNtvnq98qMIs85) | [AfterHours](https://open.spotify.com/album/1bTyhuo2fpYqiNJOrG28fY) | 4:40 |
 | 133 | [Stolen Gold](https://open.spotify.com/track/0UGletXaklsa24q8BnaAvz) | [Mack Wilds](https://open.spotify.com/artist/5BO8aIDUyNtvnq98qMIs85) | [AfterHours](https://open.spotify.com/album/1bTyhuo2fpYqiNJOrG28fY) | 2:30 |
 | 134 | [Higher](https://open.spotify.com/track/7D0I8fOtcm8AWaemRWLre4) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [Five Needle](https://open.spotify.com/album/226GOluIz4EHZQaY8fFCnO) | 3:23 |
 | 135 | [Something New](https://open.spotify.com/track/0ZdrjOWJJ1I3giBbPTf8xz) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Something New](https://open.spotify.com/album/3k8s8mNRylIC3ePz3PiKrz) | 3:00 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 147 | [Warzone \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/63S7ixo9OYf1VLCRjGoBWI) | [Keep Cool](https://open.spotify.com/artist/6YihZKGlCq75jYZbfRFrtt), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Warzone \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/4rKCnoYMhbRTdsaIxjjh7K) | 3:41 |
 | 148 | [First Place Loser \- Bonus Track](https://open.spotify.com/track/1d5AxYa4bOiTaHTOC3UvTg) | [Diddy \- Dirty Money](https://open.spotify.com/artist/2QYEvpsWUOjqaYuxDPTCmV) | [Last Train To Paris \(Deluxe\)](https://open.spotify.com/album/4Ofqtk9mm4nmBuCPhctq0e) | 4:28 |
 
-Snapshot ID: `AbXUTAAAAAArv6/rjFCzNB5WHUVIelno`
+Snapshot ID: `AbXZ7QAAAABQrkgZrfXropxFdLK6EC9j`

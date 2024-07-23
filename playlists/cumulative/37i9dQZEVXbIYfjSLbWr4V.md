@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-254 songs - 11 hr 15 min
+255 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,9 +53,9 @@
 | [I Believe In You](https://open.spotify.com/track/3Af5F6bqnFBLptWHbuJbJV) | [Xenia](https://open.spotify.com/artist/4c13QPiKh4XE8FNqXr28FU) | [Happy Vibes XENIA](https://open.spotify.com/album/6MY0wuDDbzzqzAtpXafE5u) | 3:07 | 2024-04-22 | 2024-04-24 |
 | [I GOT U](https://open.spotify.com/track/39uQdNywrxrH1ZjfOFc72n) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [I GOT U](https://open.spotify.com/album/4zo7PO4aB50EFFZqerSER4) | 2:43 | 2024-06-08 |  |
 | [I Like It](https://open.spotify.com/track/04A4WyCRyHQ8Nb3u3IsfzH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 | 2024-07-20 | 2024-07-22 |
-| [I Like It](https://open.spotify.com/track/3YBjR4X2CXbUcbpFTPSfSk) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 2:28 | 2024-07-21 |  |
+| [I Like It](https://open.spotify.com/track/3YBjR4X2CXbUcbpFTPSfSk) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 2:28 | 2024-07-21 | 2024-07-23 |
 | [Ignis Aeternus](https://open.spotify.com/track/2D7xpmq3H8ld4J1sXUWv9i) | [Antinem](https://open.spotify.com/artist/1Gz538DkElU8nUejaYW3HA) | [Amor Et Memoria](https://open.spotify.com/album/0X7BfIp0NbQZVF4YnwrIQJ) | 4:12 | 2024-03-28 | 2024-03-30 |
-| [JJAM](https://open.spotify.com/track/4KRgLn8XQmriYbqY0PX9eC) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 3:05 | 2024-07-21 |  |
+| [JJAM](https://open.spotify.com/track/4KRgLn8XQmriYbqY0PX9eC) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 3:05 | 2024-07-21 | 2024-07-23 |
 | [JJAM](https://open.spotify.com/track/6ojfWEW5oBSyXQqO9G72iM) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 3:05 | 2024-07-20 | 2024-07-22 |
 | [juice](https://open.spotify.com/track/2PXxdh7WHZAlONZW8P3H2h) | [daryana](https://open.spotify.com/artist/5GVO9K6Iaebk8oQnXGTzqL) | [juice](https://open.spotify.com/album/704AHdqt76FvWV8EFSPtDV) | 1:47 | 2024-03-02 |  |
 | [Krug](https://open.spotify.com/track/7Er6wXTKI7DsQo9n4oK8r3) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [PEEKABOO](https://open.spotify.com/album/7LP4dCklRhdTncqIYesDqi) | 3:39 | 2024-06-29 | 2024-07-01 |
@@ -78,7 +78,7 @@
 | [MOUNTAINS](https://open.spotify.com/track/0MvgUGhKvrStBo2XsPuwt6) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 3:07 | 2024-07-20 | 2024-07-22 |
 | [MOUNTAINS](https://open.spotify.com/track/6jTOFMDc15rrTj9ZN0b7eN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 3:07 | 2024-07-21 |  |
 | [NARCOTIK](https://open.spotify.com/track/3kkA5knVG6LY5SsicXkNL1) | [9mice](https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm) | [NARCOTIK](https://open.spotify.com/album/5J6ZJjNjEQgqjE2qzft6Ub) | 2:00 | 2024-05-18 | 2024-05-20 |
-| [Never Broke Again](https://open.spotify.com/track/21LIoC4ZxT3F8xq9gidNbX) | [xxxmanera](https://open.spotify.com/artist/0hAEtx2GQLtMTJj8qycHRr) | [Never Broke Again](https://open.spotify.com/album/3fsKGXLjN1T0fdDzE2MfgI) | 1:48 | 2024-03-10 |  |
+| [Never Broke Again](https://open.spotify.com/track/21LIoC4ZxT3F8xq9gidNbX) | [xxxmanera](https://open.spotify.com/artist/0hAEtx2GQLtMTJj8qycHRr) | [Never Broke Again](https://open.spotify.com/album/3fsKGXLjN1T0fdDzE2MfgI) | 1:48 | 2024-03-10 | 2024-07-23 |
 | [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 | 2024-06-08 | 2024-06-10 |
 | [Not Obama](https://open.spotify.com/track/0KcPjLCxQGKUOhTjjfb5g0) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo) | [PEEKABOO](https://open.spotify.com/album/7LP4dCklRhdTncqIYesDqi) | 2:24 | 2024-06-29 | 2024-07-02 |
 | [Not the same](https://open.spotify.com/track/6fc44ZlFFyTxX5FTMrpcIB) | [DIMA SP](https://open.spotify.com/artist/3V2y7WZiaDdH0lBDAXou8d), [favor](https://open.spotify.com/artist/2z2h9JKWPNVqjnfCFNlPEU) | [Not the same](https://open.spotify.com/album/4nfVHwiNX7Hn8gEBfhC0qk) | 2:17 | 2024-05-11 | 2024-05-14 |
@@ -164,7 +164,7 @@
 | [кончил](https://open.spotify.com/track/4Q6eUXtjd9sbzP2orZY6x0) | [ENINA](https://open.spotify.com/artist/1jUPTaRiy2sOdOhvIEUosG) | [кончил](https://open.spotify.com/album/6IzJYD4LZjnlggZmYHsKX6) | 2:10 | 2024-04-25 |  |
 | [Крепче](https://open.spotify.com/track/6bCLkzoE3agC7Ws9NxVxIn) | [KRBK](https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE) | [Крепче](https://open.spotify.com/album/1e82MHQz8mczZXotjeR0ky) | 2:00 | 2024-01-29 |  |
 | [КТО ТЕБЕ ЭТО СКАЗАЛ](https://open.spotify.com/track/0mEoX8LDlk1UR2Uem8NfFu) | [Pepel Nahudi](https://open.spotify.com/artist/4AM93R2m6QIKGPWH6QILF3) | [PSYCHEDELIC LOVE](https://open.spotify.com/album/3HOCSNvo6JGfDUuRzWssWe) | 2:13 | 2024-04-06 | 2024-04-08 |
-| [кто ты](https://open.spotify.com/track/1eAy3nePI1v2EHpye6iy0g) | [daryana](https://open.spotify.com/artist/5GVO9K6Iaebk8oQnXGTzqL) | [кто ты](https://open.spotify.com/album/48Zo7gXVhzzW5VbvUQjzxy) | 1:40 | 2024-05-24 | 2024-05-26 |
+| [кто ты](https://open.spotify.com/track/1eAy3nePI1v2EHpye6iy0g) | [daryana](https://open.spotify.com/artist/5GVO9K6Iaebk8oQnXGTzqL) | [кто ты](https://open.spotify.com/album/48Zo7gXVhzzW5VbvUQjzxy) | 1:40 | 2024-05-24 |  |
 | [ЛАБИРИНТ](https://open.spotify.com/track/7biChppM3c8q7qcVl7ceb2) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [12](https://open.spotify.com/album/12gG6thCtApE8B1nKcowOg) | 2:49 | 2024-01-29 |  |
 | [Лайки \[prod\. by Wipo\]](https://open.spotify.com/track/6tm8VbnmtGJKaYj6uHG0wg) | [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032), [SODA LUV](https://open.spotify.com/artist/3TikHXhctY4FUIMlkl0tzR) | [Лайки \[prod\. by Wipo\]](https://open.spotify.com/album/4XI4B7KTYPq52zg5TpdTpp) | 2:39 | 2024-06-16 | 2024-06-18 |
 | [Лиза](https://open.spotify.com/track/69E0PXED6MvClnqED4d7f5) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3), [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Hate Love](https://open.spotify.com/album/5UKIxEdQDFQztvCEfK5QME) | 3:00 | 2024-01-29 | 2024-04-23 |
@@ -210,6 +210,7 @@
 | [Разноцветные таблетки](https://open.spotify.com/track/1Za23uNH9LP4gcflnvAGCE) | [5mewmet](https://open.spotify.com/artist/6M09SBwYD0F13PjIavxbih) | [Кетаминовая яма](https://open.spotify.com/album/6z5gnL9E2kbHV0A7nJ3SIP) | 1:57 | 2024-01-29 | 2024-07-19 |
 | [Самый лучший день](https://open.spotify.com/track/6aZw4hMz6ZZqjALf0GAbKy) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Эскапист](https://open.spotify.com/album/0QbaRQInDgZOAjogD0Ku7V) | 1:33 | 2024-01-29 |  |
 | [Сделай Мне Приятно Щас](https://open.spotify.com/track/70UzDzCNvw4g0ROQVBAMgP) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [Сделай Мне Приятно Щас](https://open.spotify.com/album/0JMbS5OMyVtfiwoXGZ4HmF) | 1:54 | 2024-07-13 | 2024-07-15 |
+| [сейджуро акаши 2\)](https://open.spotify.com/track/17VtOCT1WwkYI1VGA2MoLa) | [dabbackwood](https://open.spotify.com/artist/197D0NwoUgPyjzksisOqcy) | [сейджуро акаши 2\)](https://open.spotify.com/album/6LGvtUcKhVHeNMiNCKaAWQ) | 1:13 | 2024-07-22 |  |
 | [СЕЙЧАС](https://open.spotify.com/track/6HVQNzaVnJdreqdaezdD39) | [NEWLIGHTCHILD](https://open.spotify.com/artist/6OYItdfhVXpz16ZvpFq7Uh) | [IN MY DNA](https://open.spotify.com/album/1iccPHXLRk2mRsdqf2dfke) | 1:39 | 2024-01-29 | 2024-06-03 |
 | [Селфхарм](https://open.spotify.com/track/46tUEN0dIhVxYbOgxCvkF4) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Молитвы\. Анекдоты\. Тосты.](https://open.spotify.com/album/1eE8tgJvckpa4qYLp2L9ox) | 3:08 | 2024-05-25 |  |
 | [Случайно навсегда](https://open.spotify.com/track/1PYrTqbEPnESlEonarrfCf) | [DomNi](https://open.spotify.com/artist/71b58VyplYQ88uY7VsY6MZ), [ViD](https://open.spotify.com/artist/0TRWeKOK5lxzmGYcoZKrXg) | [Случайно навсегда](https://open.spotify.com/album/7y2uN4e9ITiXlQfMuxr6u7) | 3:18 | 2024-04-07 | 2024-04-09 |
@@ -252,7 +253,7 @@
 | [Четыре тридцать](https://open.spotify.com/track/4GBfKfnvmcTcNrlJcV4OLV) | [Violetta Sokolova](https://open.spotify.com/artist/7K2PBAFUE98RKu30clhIms) | [Четыре тридцать](https://open.spotify.com/album/6EspHfqFwGFqqUTLDXJLs1) | 2:13 | 2024-03-27 |  |
 | [ЧСВ](https://open.spotify.com/track/05wSx129HwVCEpXpjAXn6X) | [Lida](https://open.spotify.com/artist/0ChMIwzbYxHbebgoPeETfV), [СЕРЕГА ПИРАТ](https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7) | [ЧСВ](https://open.spotify.com/album/7thnTMZ6YHfUgaARJIl0eG) | 3:20 | 2024-02-03 |  |
 | [Шоколадка](https://open.spotify.com/track/0iLaVAFazlX7I9VdIBFulE) | [Минаева](https://open.spotify.com/artist/0zR4pGeKJictWoIOwPYbYZ) | [Шоколадка](https://open.spotify.com/album/3zF5GBYnMldcJq1eTYZYLd) | 2:48 | 2024-07-10 |  |
-| [Эй](https://open.spotify.com/track/2oUSzRUIE4GvMw29rLKlWw) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Сборник хуйни и картинки](https://open.spotify.com/album/6bNQ6UFOF8C70iz7IajffH) | 2:15 | 2024-01-29 | 2024-07-21 |
+| [Эй](https://open.spotify.com/track/2oUSzRUIE4GvMw29rLKlWw) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Сборник хуйни и картинки](https://open.spotify.com/album/6bNQ6UFOF8C70iz7IajffH) | 2:15 | 2024-01-29 |  |
 | [Эндорфин](https://open.spotify.com/track/4GbHNkWtWUIZAL0owhoz1i) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Жить в кайф](https://open.spotify.com/album/4ktDOYU0Jual1ELFTPhFd6) | 4:28 | 2024-07-04 | 2024-07-21 |
 | [Это было в России](https://open.spotify.com/track/12NAMTSAP5gphJROLrcT12) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Молитвы\. Анекдоты\. Тосты.](https://open.spotify.com/album/1eE8tgJvckpa4qYLp2L9ox) | 3:13 | 2024-05-26 | 2024-06-28 |
 | [Это любовь](https://open.spotify.com/track/1P9oRiZJWnxe2pZmYUZ5eC) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Дом с нормальными явлениями](https://open.spotify.com/album/7j7tgADtrPaN7Rrfb8qIcI) | 4:39 | 2024-01-29 |  |

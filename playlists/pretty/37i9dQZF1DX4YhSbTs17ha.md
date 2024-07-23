@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YhSbTs17ha.md) - [plain]
 
 > Las canciones de pop más exitosas en México\. RENEE en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,696,873 likes - 83 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,696,828 likes - 83 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The best Dance and EDM tracks right now! Cover: John Summit &amp; Kaskade
 
-216 songs - 11 hr 21 min
+217 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Without You](https://open.spotify.com/track/4NH496Sf2JEOvDRxEuIBc4) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Without You](https://open.spotify.com/album/1QmznZxsQ9lUSEYO8KK58j) | 2:23 | 2023-10-27 | 2023-11-25 |
 | [Won't Forget You \(Donk Edit Featuring The Blackout Crew\)](https://open.spotify.com/track/0SDeRncYFKK7Q0taUn6KNk) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3), [The Blackout Crew](https://open.spotify.com/artist/2wM4w5wKzgAOBd0cDyBbsi) | [Won't Forget You \(Donk Edit Featuring The Blackout Crew\)](https://open.spotify.com/album/4L55NyxwQbWNzerZaxhaZt) | 2:36 | 2023-11-24 | 2024-05-13 |
 | [WORTH NOTHING \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast & Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2023-10-27 |  |
+| [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 | 2024-07-22 |  |
 | [yes, and? \- Jonas Blue Remix](https://open.spotify.com/track/4h2fgDf2gpwx5s4IwEr58I) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [yes, and? \(remixes\)](https://open.spotify.com/album/7vvPJ2BSUaS8C4dhl3aiYP) | 3:32 | 2024-02-22 | 2024-02-27 |
 | [yes, and? \- The Blessed Madonna’s Godsquad Mix](https://open.spotify.com/track/1GxNDaFx9411X1g7cCf55E) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [yes, and? \(remixes\)](https://open.spotify.com/album/0kHBlnc69hLOSyXAZn2yeX) | 5:01 | 2024-02-23 |  |
 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 | 2024-02-16 |  |

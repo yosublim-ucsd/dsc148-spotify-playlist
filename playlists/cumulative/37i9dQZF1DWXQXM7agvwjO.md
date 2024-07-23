@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: 小本生燈XSGACHA \(Hong Kong\)
 
-1,414 songs - 3 day 13 hr 13 min
+1,415 songs - 3 day 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -819,7 +819,7 @@
 | [Ocean](https://open.spotify.com/track/3wk5eClZ1jwqeX3r48YYNR) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Ocean](https://open.spotify.com/album/4iQxzq6K4KUjUOA5YXTQj9) | 2:24 | 2023-01-19 | 2023-03-25 |
 | [ODDESSY](https://open.spotify.com/track/6RDEv3g48vfu0B51BoEeSp) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [ODDESSY](https://open.spotify.com/album/08KcmPvH8mRDBN7ccqEge9) | 2:42 | 2023-04-13 | 2023-05-08 |
 | [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 | 2022-05-19 | 2022-07-22 |
-| [Oh My God!](https://open.spotify.com/track/05Jx8FESfPgEabByGDbukL) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Love, Again](https://open.spotify.com/album/4h6KumY8NGiN5wVXexLl18) | 2:50 | 2024-02-29 |  |
+| [Oh My God!](https://open.spotify.com/track/05Jx8FESfPgEabByGDbukL) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Love, Again](https://open.spotify.com/album/4h6KumY8NGiN5wVXexLl18) | 2:50 | 2024-02-29 | 2024-07-23 |
 | [Old Fashioned](https://open.spotify.com/track/6ZWKRmmYetfk6LsEVbSIk6) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [SiNNER MOON](https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw), [Peatle](https://open.spotify.com/artist/0iIymgyAW3hH5oY7kRMVsp) | [Old Fashioned](https://open.spotify.com/album/3Rv9kwdTjYAdyUsVLz2gZh) | 3:19 | 2023-02-16 | 2023-03-25 |
 | [on & on](https://open.spotify.com/track/2z60665qOaXrUcFIVIB9yj) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [on & on](https://open.spotify.com/album/2fInwWeb0bggsmMeUSAYbv) | 2:48 | 2022-03-24 | 2022-04-22 |
 | [On and On](https://open.spotify.com/track/33xlpG5E7QYjQhlOFCpnLF) | [Kogane](https://open.spotify.com/artist/6d9pWmFd3oZE3tKQVfgkmM), [Park Bird](https://open.spotify.com/artist/7bVJIMenC0rlgot8O60qpF) | [Ceremonies](https://open.spotify.com/album/0BPhpmgOpi6o9EfOz6Ga16) | 3:40 | 2023-06-08 | 2023-07-15 |
@@ -1356,6 +1356,7 @@
 | [你在哪裡](https://open.spotify.com/track/4SBrGswUzLYp2uXNqSEYZ1) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G), [Mixer](https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv) | [你在哪裡](https://open.spotify.com/album/6LT7YFr4Mw6MEUZIcy6Dz3) | 4:06 | 2024-05-23 |  |
 | [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 | 2022-03-24 |  |
 | [做一半的夢](https://open.spotify.com/track/4DF0vn03c0k24e2dr6cGqA) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [做一半的夢](https://open.spotify.com/album/37I6oZZMqyleclQQp6mPAa) | 3:24 | 2024-06-06 |  |
+| [冇有形狀 \- 壞數學 VERSION](https://open.spotify.com/track/4s5kbw5mtf2AgXZzrkJLjI) | [Bad Math](https://open.spotify.com/artist/07IjEAbgCClbsODsIrdxeo), [XSGACHA 小本生燈](https://open.spotify.com/artist/78CZPfx44NXnJAR0bxEaXw) | [冇有形狀 \(壞數學 VERSION\)](https://open.spotify.com/album/22YYxCpNNtdxu7VajaOcQU) | 5:26 | 2024-07-18 |  |
 | [初恋](https://open.spotify.com/track/1zf8tA4xX7LzhEK4Nm6YYE) | [yomm](https://open.spotify.com/artist/51eUf0X63PMw1Cm8p8xkqV) | [初恋](https://open.spotify.com/album/2CcyWs26HCrKU0v9BFZkYo) | 4:38 | 2024-04-25 | 2024-05-10 |
 | [午後迷茫2021](https://open.spotify.com/track/3owVY1qeMZJxEMRVs0POkj) | [Hormone Boys](https://open.spotify.com/artist/7MR5iqnOtuXv9RMMMQbOIl) | [午後迷茫2021](https://open.spotify.com/album/0zLsqb2rZ5nm4loxFTJkIL) | 5:15 | 2022-06-09 | 2022-07-01 |
 | [君莫問](https://open.spotify.com/track/0aTRqpyXgGs3yfnlRR4IBF) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [君莫問](https://open.spotify.com/album/5jCsCSxXDojiRu92WdoXFG) | 3:07 | 2023-05-25 | 2023-06-20 |

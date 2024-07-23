@@ -2197,6 +2197,28 @@
     },
     {
       "album": {
+        "name": "close to you",
+        "url": "https://open.spotify.com/album/6x0gUHUpKPbMlzoQEaNaHL"
+      },
+      "artists": [
+        {
+          "name": "kenzie",
+          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
+        },
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "close to you",
+      "url": "https://open.spotify.com/track/1sxEFo3yp89PYwBP8qRmkh"
+    },
+    {
+      "album": {
         "name": "Feed The Fever",
         "url": "https://open.spotify.com/album/5aGDn1PfQ0b3cPup6cpe3d"
       },
@@ -3180,6 +3202,24 @@
       "duration_ms": 218106,
       "name": "Electric Love",
       "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
+    },
+    {
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/1U7IKNUfUq3YRL4HgSI0KG"
+      },
+      "artists": [
+        {
+          "name": "Lucy Spraggan",
+          "url": "https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185760,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/0UUM29yiU2z1mxvxGzZVa7"
     },
     {
       "album": {
@@ -4491,6 +4531,24 @@
     },
     {
       "album": {
+        "name": "Love Actually (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/4Kw7yE7xBZdHrvkTswoQq4"
+      },
+      "artists": [
+        {
+          "name": "Craig Armstrong",
+          "url": "https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125186,
+      "name": "Glasgow Love Theme",
+      "url": "https://open.spotify.com/track/2dz5fCXiNZk4W5Qptpmfgm"
+    },
+    {
+      "album": {
         "name": "Dedication: The Start - EP",
         "url": "https://open.spotify.com/album/6KPsOy4kFUDDpQTlYVOJ2K"
       },
@@ -4556,7 +4614,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 122998,
       "name": "God Only Knows - Piano Version",
       "url": "https://open.spotify.com/track/1Xch6mhRTcjlea9JCsDPOU"
@@ -5052,6 +5110,28 @@
       "duration_ms": 173888,
       "name": "Head Down",
       "url": "https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH"
+    },
+    {
+      "album": {
+        "name": "Head Up",
+        "url": "https://open.spotify.com/album/7FQA4DGX7aIfT8b8f8GVhp"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189636,
+      "name": "Head Up",
+      "url": "https://open.spotify.com/track/3zieOwCrap1s2sIpxWlx92"
     },
     {
       "album": {
@@ -8175,6 +8255,42 @@
     },
     {
       "album": {
+        "name": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253520,
+      "name": "Love Me Like You Do",
+      "url": "https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP"
+    },
+    {
+      "album": {
+        "name": "Love Me Like You Do (Acoustic)",
+        "url": "https://open.spotify.com/album/4aX5Utj2TSwg3jc8felZng"
+      },
+      "artists": [
+        {
+          "name": "Jada Facer",
+          "url": "https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156531,
+      "name": "Love Me Like You Do (Acoustic)",
+      "url": "https://open.spotify.com/track/4mzSkWDdDDrd1i3wg1FfpC"
+    },
+    {
+      "album": {
         "name": "Love Me or Let Me Down",
         "url": "https://open.spotify.com/album/7wh8dseuzc7iiecuIqybGD"
       },
@@ -8868,7 +8984,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 314389,
       "name": "Next to Me",
       "url": "https://open.spotify.com/track/6NAFSxL8yGctNgHqxfQEF5"
@@ -9532,6 +9648,24 @@
       "duration_ms": 136380,
       "name": "People Love",
       "url": "https://open.spotify.com/track/6j09kFtLDQBLH4a8RBWxlc"
+    },
+    {
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263400,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
     },
     {
       "album": {
@@ -10240,7 +10374,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 161156,
       "name": "Rise Above",
       "url": "https://open.spotify.com/track/2lTCInyx0mmMNKnazX8SI6"
@@ -11134,6 +11268,28 @@
       "duration_ms": 136359,
       "name": "Something Good",
       "url": "https://open.spotify.com/track/3tGDCGgKuXKXYIMgzGzWkM"
+    },
+    {
+      "album": {
+        "name": "Something In The Air",
+        "url": "https://open.spotify.com/album/1QtvIVErzodfwT7I4X9P1w"
+      },
+      "artists": [
+        {
+          "name": "Skylar Astin",
+          "url": "https://open.spotify.com/artist/1QXyMGVMzdhyM5efhg3m3j"
+        },
+        {
+          "name": "burnboy",
+          "url": "https://open.spotify.com/artist/71VyBxgJcNeMKe6eYUlPHz"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215521,
+      "name": "Something In The Air",
+      "url": "https://open.spotify.com/track/66ORKkgjBupar3GnqwfqRW"
     },
     {
       "album": {
@@ -13800,7 +13956,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 189146,
       "name": "Wild Love - Acoustic",
       "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"

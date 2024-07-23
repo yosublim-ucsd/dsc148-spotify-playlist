@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-323 songs - 20 hr 27 min
+324 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Isolation](https://open.spotify.com/track/49Mg47fyRNRHP1pt8EIw9B) | [Bryan's Magic Tears](https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST) | [Vacuum Sealed](https://open.spotify.com/album/1h6Mngi160e472DTepN8qD) | 3:54 | 2021-12-15 | 2022-07-29 |
 | [It's About Time !](https://open.spotify.com/track/741CQNrA1mkBvzqPKKbw9F) | [Iron Lizards](https://open.spotify.com/artist/5M3OioPh7JR2rfVOCFyDRY) | [Hungry for Action](https://open.spotify.com/album/6joG9m7o9GNL1cePZEn3YC) | 2:44 | 2021-12-15 |  |
 | [It's Gone](https://open.spotify.com/track/26cUvSqatbmZQ4hlp75E4M) | [The Psychotic Monks](https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy) | [Silence Slowly And Madly Shines](https://open.spotify.com/album/6z5nHHrbow0HdyZLcBqWfA) | 5:43 | 2021-12-15 |  |
-| [Italia](https://open.spotify.com/track/6Kw6I8YLJadN5HPUHhp1XL) | [Luje](https://open.spotify.com/artist/6ytlQp07reEmExW6EeeLFD) | [Raving Track](https://open.spotify.com/album/32b7pGGSU86sMYGutnARZr) | 4:35 | 2023-02-02 |  |
+| [Italia](https://open.spotify.com/track/6Kw6I8YLJadN5HPUHhp1XL) | [Luje](https://open.spotify.com/artist/6ytlQp07reEmExW6EeeLFD) | [Raving Track](https://open.spotify.com/album/32b7pGGSU86sMYGutnARZr) | 4:35 | 2023-02-02 | 2024-07-23 |
 | [Jocelyne](https://open.spotify.com/track/5G9yfOMJgjzdsgeb61RoG9) | [JIVRE](https://open.spotify.com/artist/0guPFpmvHHxsjqhwxoXmOA) | [No Beach](https://open.spotify.com/album/2zWFIy0MCyzlPd9KJHnDRw) | 3:24 | 2021-12-15 | 2022-07-29 |
 | [Joy](https://open.spotify.com/track/6q3L0PXHNHM2wLRkpxINmH) | [Sympathies](https://open.spotify.com/artist/4ivXcuZRP6CfR9gVdmE2yb) | [Reconnect with Me](https://open.spotify.com/album/0DSfvoJLR6f9MzwlFutcqy) | 3:00 | 2021-12-15 | 2022-07-21 |
 | [Jumping Fences](https://open.spotify.com/track/5jPVbOtH88Sa97kifoLYi9) | [Back Garden Light](https://open.spotify.com/artist/7bLrwX8HkyBWahu7yvw7bJ) | [Back Garden Light](https://open.spotify.com/album/70fiQZH8ZbN3WF6KvLSwLT) | 4:44 | 2022-03-24 |  |
@@ -187,7 +187,7 @@
 | [Moments](https://open.spotify.com/track/1ANlexfiMuDYl6T6G8o93v) | [TERNE](https://open.spotify.com/artist/4QkgbsfcoQbCfiSw9gT4kq) | [Moments](https://open.spotify.com/album/72enbv0nkgZK6bnIUh9fNj) | 3:09 | 2023-07-23 |  |
 | [Mr\. BigYellowSun](https://open.spotify.com/track/27YpSQcKYFC2BDKXPba4D7) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [Sunflower](https://open.spotify.com/album/7yaDbs8UuwGoYqzgmGt3lu) | 3:09 | 2022-06-30 | 2024-01-20 |
 | [Mr\. Perfect](https://open.spotify.com/track/43XPO9j08EgaPyGwsCjxpz) | [Holy Fake News](https://open.spotify.com/artist/6HGor9KJpMcOImEhrQpWy4) | [Holy Fake News](https://open.spotify.com/album/5ZBR50XOCNosCl7XB2vi15) | 3:36 | 2022-01-03 | 2022-07-25 |
-| [Murderology](https://open.spotify.com/track/5ABNXl7Dlqa1y0gl0M3Brn) | [Yard of Blondes](https://open.spotify.com/artist/3rpeGp3AdGW8w8P3K04hcg) | [Murderology](https://open.spotify.com/album/4APpUafKlxYejTiKM4Zvti) | 4:23 | 2021-12-15 |  |
+| [Murderology](https://open.spotify.com/track/5ABNXl7Dlqa1y0gl0M3Brn) | [Yard of Blondes](https://open.spotify.com/artist/3rpeGp3AdGW8w8P3K04hcg) | [Murderology](https://open.spotify.com/album/4APpUafKlxYejTiKM4Zvti) | 4:23 | 2021-12-15 | 2024-07-23 |
 | [My Eyes Won't Open](https://open.spotify.com/track/5nJf9fcruNplm2LNIUdAY8) | [Prune 99](https://open.spotify.com/artist/4ZsSkWfP0bc2AFjUhk9xpN) | [My Eyes Won't Open](https://open.spotify.com/album/7pd6ELfvOIt8dMb8RAbH8r) | 4:37 | 2024-05-02 | 2024-06-01 |
 | [My time](https://open.spotify.com/track/3jRvGaPzOAK9UVFLRjs9wG) | [Clavicule](https://open.spotify.com/artist/3MyvhIeNVItWCpXSwm6pLI) | [Garage Is Dead](https://open.spotify.com/album/5aHRyWY4RRq04Bx1cLgbjH) | 3:44 | 2022-04-17 |  |
 | [Nasty Habits](https://open.spotify.com/track/2YBh9d0765HJaWVyScvNrE) | [Komodor](https://open.spotify.com/artist/4IsZphrl7x0aGLGQDYKAmt) | [Nasty Habits](https://open.spotify.com/album/6J1ziCqilUwlShHoRpy2hX) | 3:58 | 2022-06-30 |  |
@@ -207,7 +207,7 @@
 | [O.E.](https://open.spotify.com/track/5QbRcqJpmlDgN9VBCIpBPn) | [Ready For Mars](https://open.spotify.com/artist/2YFoFKcC1vQhddH2aCEKD1) | [O.E.](https://open.spotify.com/album/4pJCbw5VR9tiDkAtV26XT8) | 3:39 | 2021-12-15 | 2022-07-28 |
 | [Oh Lord, It Came To Me](https://open.spotify.com/track/2NtcpNBDXeuEwpc9QOVfq9) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Songs/Revolving](https://open.spotify.com/album/71QcqCUQr7EusqTXKhnZVy) | 5:32 | 2022-02-07 | 2022-12-18 |
 | [Oh Lord, It Came To Me](https://open.spotify.com/track/6XE78Iy9cQLjUP5q0ISL6D) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Songs / Revolving](https://open.spotify.com/album/6krcKaWpYXqjZSt1Uk430O) | 5:32 | 2022-12-11 | 2023-06-30 |
-| [Once You Taste Blood](https://open.spotify.com/track/52npcX3OyVS3Gg5UAYtpbO) | [Flèche](https://open.spotify.com/artist/5R5eFkv3lGzBuYpjU6w5qs) | [Homes & Galaxies](https://open.spotify.com/album/0TvqbBd23TOC2gSxnYbgV3) | 4:23 | 2023-11-16 | 2024-07-21 |
+| [Once You Taste Blood](https://open.spotify.com/track/52npcX3OyVS3Gg5UAYtpbO) | [Flèche](https://open.spotify.com/artist/5R5eFkv3lGzBuYpjU6w5qs) | [Homes & Galaxies](https://open.spotify.com/album/0TvqbBd23TOC2gSxnYbgV3) | 4:23 | 2023-11-16 |  |
 | [One Big Mess](https://open.spotify.com/track/40TRgHGktzDSlNnN0c7pS2) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Head Above Water](https://open.spotify.com/album/5Ra5ZI7sjmxLxi8pA4t3Pc) | 3:56 | 2024-02-28 |  |
 | [One Big Mess](https://open.spotify.com/track/75o3FmX9UgTjT3H05EOuzg) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Head Above Water](https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj) | 3:56 | 2023-01-29 | 2023-12-20 |
 | [Only Weird People Can Fly](https://open.spotify.com/track/75zhMxYeZoLRp2qrKiz5sQ) | [Dust On Earth](https://open.spotify.com/artist/2HbxbDzJQeFyeHgsH0Mou6) | [Only Weird People Can Fly](https://open.spotify.com/album/2srLsSJHxis4kIt99ugrUV) | 4:18 | 2023-06-29 |  |
@@ -239,6 +239,7 @@
 | [REQUIN MAKO](https://open.spotify.com/track/5DSNrLlcBs3QNvyEPTJrkG) | [Péniche](https://open.spotify.com/artist/5Sg5EoVjPH1WP8CgRKkiP0) | [DEUXIÈME ÉTOILE](https://open.spotify.com/album/249WNcUE4agsZX6OnzVNwl) | 2:44 | 2023-07-23 | 2024-04-19 |
 | [Ritalin](https://open.spotify.com/track/70A8T4BtU7PNmQMVOflMEb) | [Dirty Cloud](https://open.spotify.com/artist/33ss0pCcfJSAQi9EbWMnoV) | [Straight\-Jacket](https://open.spotify.com/album/1I8YjgUFSqw2N85hljqRMc) | 2:03 | 2024-05-29 |  |
 | [RUNNING IN CIRCLES](https://open.spotify.com/track/2lbrjYnCyMaN4lsSmFLu9F) | [lya!](https://open.spotify.com/artist/5DIzsQoiKqAEqckzSIOGDH) | [RUNNING IN CIRCLES](https://open.spotify.com/album/6mdvONDzaauSwdHTsD7XIE) | 2:53 | 2022-11-28 | 2023-03-22 |
+| [Rust](https://open.spotify.com/track/1ypSajFbc1MhW80bDpYgV9) | [Shoefiti](https://open.spotify.com/artist/1tOAn2TxpYxDMggpXTNoEB) | [CityT error](https://open.spotify.com/album/2XBkDqqkgPLkuXaZyYgzHj) | 3:42 | 2024-07-15 |  |
 | [Réveil heureux](https://open.spotify.com/track/185HvxnL9HUliNEb1Ohb48) | [PARK](https://open.spotify.com/artist/5pMItVznpNhxltDYviTMsu), [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU), [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Réveil heureux](https://open.spotify.com/album/43qiPYd2IshCDP2HhgiYlu) | 5:08 | 2022-02-01 | 2022-03-25 |
 | [Réveil heureux](https://open.spotify.com/track/5jIOQUM9SWwLE2QmWFh30R) | [PARK](https://open.spotify.com/artist/5pMItVznpNhxltDYviTMsu), [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU), [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Park](https://open.spotify.com/album/5TlXmC4JTP9rrBvQV9O621) | 5:08 | 2023-06-29 | 2023-09-23 |
 | [Sabotage](https://open.spotify.com/track/13IFoiFdQ9ywSD8FSeqYhn) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Sabotage](https://open.spotify.com/album/0gxLqxmKUjHF2B7ep1xBdQ) | 5:40 | 2021-12-15 | 2022-12-18 |

@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Y'akoto",
-  "num_followers": 34474,
+  "num_followers": 34468,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-07-03 08:13:40",
       "album": {
-        "name": "Wenn du gehst",
-        "url": "https://open.spotify.com/album/3M9Bvk0dfZv1HOUCScxpIK"
-      },
-      "artists": [
-        {
-          "name": "Aylo",
-          "url": "https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO"
-        }
-      ],
-      "duration_ms": 150084,
-      "name": "Wenn du gehst",
-      "url": "https://open.spotify.com/track/7mDjp1foA6p4us9QZj8s8f"
-    },
-    {
-      "added_at": "2024-07-03 08:13:40",
-      "album": {
         "name": "C\u00f6p",
         "url": "https://open.spotify.com/album/5RlAz9c1qzY0ncGQ86tzr9"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 126975,
       "name": "C\u00f6p",
       "url": "https://open.spotify.com/track/0UHhs3pzejxiostXGLnNPH"
+    },
+    {
+      "added_at": "2024-07-03 08:13:40",
+      "album": {
+        "name": "Wenn du gehst",
+        "url": "https://open.spotify.com/album/3M9Bvk0dfZv1HOUCScxpIK"
+      },
+      "artists": [
+        {
+          "name": "Aylo",
+          "url": "https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO"
+        }
+      ],
+      "duration_ms": 150084,
+      "name": "Wenn du gehst",
+      "url": "https://open.spotify.com/track/7mDjp1foA6p4us9QZj8s8f"
     },
     {
       "added_at": "2024-07-03 08:13:40",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-07-03 08:13:40",
       "album": {
-        "name": "AREA CODES",
-        "url": "https://open.spotify.com/album/2ilAU5T7UcLW9iz3oRBMtb"
-      },
-      "artists": [
-        {
-          "name": "BOUNTY & COCOA",
-          "url": "https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "AREA CODES",
-      "url": "https://open.spotify.com/track/6E3ZYtO2r8DZEHlSlvXOjI"
-    },
-    {
-      "added_at": "2024-07-03 08:13:40",
-      "album": {
         "name": "Stimmen",
         "url": "https://open.spotify.com/album/6q2FZdmkrBSGVCYpxsU6f8"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 209577,
       "name": "Stimmen",
       "url": "https://open.spotify.com/track/4j0aEdwpUwh04DKqmBmYOp"
+    },
+    {
+      "added_at": "2024-07-03 08:13:40",
+      "album": {
+        "name": "AREA CODES",
+        "url": "https://open.spotify.com/album/2ilAU5T7UcLW9iz3oRBMtb"
+      },
+      "artists": [
+        {
+          "name": "BOUNTY & COCOA",
+          "url": "https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "AREA CODES",
+      "url": "https://open.spotify.com/track/6E3ZYtO2r8DZEHlSlvXOjI"
     },
     {
       "added_at": "2024-07-03 08:13:40",

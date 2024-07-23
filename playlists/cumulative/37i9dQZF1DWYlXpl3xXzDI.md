@@ -2,7 +2,7 @@
 
 ### [Easy On Monday](https://open.spotify.com/playlist/37i9dQZF1DWYlXpl3xXzDI)
 
-> Lekker rustig aan doen op maandag met deze zachte pop liedjes.
+> Lekker rustig aan doen op maandag met deze zachte popliedjes.
 
 215 songs - 12 hr 53 min
 

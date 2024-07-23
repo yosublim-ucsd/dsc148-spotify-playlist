@@ -1,12 +1,12 @@
 {
   "description": "This is Slipknot. The essential tracks, all in one playlist.",
-  "num_followers": 973118,
+  "num_followers": 973326,
   "original_name": "This Is Slipknot",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpr+AAAAAADo5fhaIqAp18vYKINZO0kN",
+  "snapshot_id": "ZpxPgAAAAAD3rMSUwsV49tW+gDJ/04fZ",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 342821,
-      "name": "The Devil in I",
-      "url": "https://open.spotify.com/track/5hheGdf1cb4rK0FNiedCfK"
+      "duration_ms": 254466,
+      "name": "Custer",
+      "url": "https://open.spotify.com/track/3GiJq4AQK7324mfIQbpiTf"
     },
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": ".5: The Gray Chapter (Special Edition)",
+        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 342821,
+      "name": "The Devil in I",
+      "url": "https://open.spotify.com/track/5hheGdf1cb4rK0FNiedCfK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Iowa",
         "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
       },
@@ -139,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": ".5: The Gray Chapter (Special Edition)",
-        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 225066,
-      "name": "Killpop",
-      "url": "https://open.spotify.com/track/6AAZigYqOch79lKcrSBOv0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Are Not Your Kind",
         "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
       },
@@ -167,6 +167,22 @@
       "duration_ms": 315177,
       "name": "Nero Forte",
       "url": "https://open.spotify.com/track/56fiFTRrSiHHH3gBeaTg2P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": ".5: The Gray Chapter (Special Edition)",
+        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 225066,
+      "name": "Killpop",
+      "url": "https://open.spotify.com/track/6AAZigYqOch79lKcrSBOv0"
     },
     {
       "added_at": null,
@@ -363,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Are Not Your Kind",
-        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
       },
       "artists": [
         {
@@ -372,9 +388,9 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 355540,
-      "name": "Solway Firth",
-      "url": "https://open.spotify.com/track/6WCkyaVmut83CtBFEUhDo4"
+      "duration_ms": 283786,
+      "name": "Yen",
+      "url": "https://open.spotify.com/track/5ih5d9WJSI7Hxz0KIPJPY2"
     },
     {
       "added_at": null,
@@ -427,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": ".5: The Gray Chapter (Special Edition)",
-        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
+        "name": "We Are Not Your Kind",
+        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
       },
       "artists": [
         {
@@ -436,9 +452,9 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 325171,
-      "name": "The Negative One",
-      "url": "https://open.spotify.com/track/2ugAOltSeiFqKHItLMKFK3"
+      "duration_ms": 355540,
+      "name": "Solway Firth",
+      "url": "https://open.spotify.com/track/6WCkyaVmut83CtBFEUhDo4"
     },
     {
       "added_at": null,
@@ -475,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": ".5: The Gray Chapter (Special Edition)",
+        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 325171,
+      "name": "The Negative One",
+      "url": "https://open.spotify.com/track/2ugAOltSeiFqKHItLMKFK3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Are Not Your Kind",
         "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
       },
@@ -487,22 +519,6 @@
       "duration_ms": 251697,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/4SsgF844NGbl7UFcymqWKy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": ".5: The Gray Chapter (Special Edition)",
-        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 332906,
-      "name": "AOV",
-      "url": "https://open.spotify.com/track/2qfLaOWD7bB4J1Val3vO4K"
     },
     {
       "added_at": null,
@@ -539,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": ".5: The Gray Chapter (Special Edition)",
+        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 332906,
+      "name": "AOV",
+      "url": "https://open.spotify.com/track/2qfLaOWD7bB4J1Val3vO4K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Are Not Your Kind",
         "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
       },
@@ -555,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": ".5: The Gray Chapter (Special Edition)",
-        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
+        "name": "Slipknot (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
       },
       "artists": [
         {
@@ -564,9 +596,9 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 286560,
-      "name": "Skeptic",
-      "url": "https://open.spotify.com/track/7yzFUknHiad4kRBfHq2ki1"
+      "duration_ms": 184306,
+      "name": "Liberate",
+      "url": "https://open.spotify.com/track/0SNybMfb3uFISmnYrIt7Gs"
     },
     {
       "added_at": null,
@@ -587,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slipknot (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+        "name": ".5: The Gray Chapter (Special Edition)",
+        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
       },
       "artists": [
         {
@@ -596,9 +628,9 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 184306,
-      "name": "Liberate",
-      "url": "https://open.spotify.com/track/0SNybMfb3uFISmnYrIt7Gs"
+      "duration_ms": 286560,
+      "name": "Skeptic",
+      "url": "https://open.spotify.com/track/7yzFUknHiad4kRBfHq2ki1"
     },
     {
       "added_at": null,
@@ -651,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": ".5: The Gray Chapter (Special Edition)",
-        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 258360,
-      "name": "Nomadic",
-      "url": "https://open.spotify.com/track/4vCG26vd7hzGdLq84pl1tf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slipknot",
         "url": "https://open.spotify.com/album/5lOFvOWAdy9G6p44noRILU"
       },
@@ -679,6 +695,22 @@
       "duration_ms": 159426,
       "name": "Me Inside",
       "url": "https://open.spotify.com/track/5gs3OJVv8wly05nf44iHiZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bone Church",
+        "url": "https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 327240,
+      "name": "Bone Church",
+      "url": "https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi"
     },
     {
       "added_at": null,
@@ -715,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bone Church",
-        "url": "https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 327240,
-      "name": "Bone Church",
-      "url": "https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Hope Is Gone",
         "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 211320,
       "name": "Heirloom",
       "url": "https://open.spotify.com/track/7d0XwaQbPLT8tPX81uRYMv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The End, So Far",
-        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 307040,
-      "name": "Finale",
-      "url": "https://open.spotify.com/track/6hqys5tmolP7EU6ZNP981s"
     }
   ],
   "unique_name": "This Is Slipknot",

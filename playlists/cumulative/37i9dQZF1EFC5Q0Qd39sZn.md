@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-600 songs - 1 day 17 hr 36 min
+602 songs - 1 day 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,8 @@
 | [I Would Find a Way](https://open.spotify.com/track/6fYrcILR5hdVlAAdcg4G4N) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [Unity](https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe) | 5:05 | 2023-12-30 |  |
 | [I'd Lie For You \(And That's The Truth\)](https://open.spotify.com/track/0hrh211HEFDbqIpG6znlwQ) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Welcome To The Neighbourhood](https://open.spotify.com/album/2zpSj5iBkyxYy9uEVA4ucY) | 6:41 | 2023-12-30 |  |
 | [I'll Be](https://open.spotify.com/track/66ZBkOR0Q2bQEM42Pbj7hQ) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [So Good Together](https://open.spotify.com/album/3MIT6r0IA688BmmtV8USfD) | 4:28 | 2023-12-30 |  |
-| [I'll Be Your Shelter](https://open.spotify.com/track/4hbXvRJfgctBgz7PVBtWQu) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Can't Fight Fate \(Expanded Edition\)](https://open.spotify.com/album/2Zfh05UDjO13pJqtVcr8b9) | 4:43 | 2023-12-30 |  |
+| [I'll Be Your Shelter](https://open.spotify.com/track/4hbXvRJfgctBgz7PVBtWQu) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Can't Fight Fate \(Expanded Edition\)](https://open.spotify.com/album/2Zfh05UDjO13pJqtVcr8b9) | 4:43 | 2023-12-30 | 2024-07-23 |
+| [I'll Be Your Shelter](https://open.spotify.com/track/7eoXGYyTwJTFwKv7gu9FM6) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Arista Heritage Series: Taylor Dayne](https://open.spotify.com/album/08nkVfPFOyoL5vH3B0ehSn) | 4:44 | 2024-07-22 |  |
 | [I'll Come Runnin'](https://open.spotify.com/track/431rUCxqrubQs5Xay3va5N) | [Juice](https://open.spotify.com/artist/6MvVFJb6iebegaT6FLxEAF) | [Something To Feel](https://open.spotify.com/album/3pWZkAbvLJE40u4Mtrfagc) | 4:25 | 2023-12-30 |  |
 | [I'll Fight \- From "RBG" Soundtrack](https://open.spotify.com/track/7ELxtyrasiOfwsRUJiEMGR) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I'll Fight \(From "RBG" Soundtrack\)](https://open.spotify.com/album/4xUSPYluy7p9aYTobDT3du) | 3:19 | 2023-12-30 |  |
 | [I'll Get There \(The Other Side\)](https://open.spotify.com/track/3Kpj2yYjpc86WrkifbiuDz) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [I’ll Get There \(The Other Side\)](https://open.spotify.com/album/5qQ0VD5av5UFSZrfIcgXbA) | 3:28 | 2023-12-30 |  |
@@ -320,7 +321,8 @@
 | [Love Me Like That \(Champion Love\)](https://open.spotify.com/track/5kUMB8d7Xa6X7VNe8qTY9k) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Creed II: The Album](https://open.spotify.com/album/7kSa9AwcDQ6ZUScaXxp8zP) | 3:30 | 2023-12-30 |  |
 | [Love On A Rooftop](https://open.spotify.com/track/391b0hw6MBlVreaHd1wTyU) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 4:25 | 2023-12-30 |  |
 | [Love Will Lead You Back](https://open.spotify.com/track/6YVJn3D9rw2h6KyJjIY54e) | [Dominique Karan](https://open.spotify.com/artist/2WBHpkqFLXc6bgQZAi6cQZ) | [Dominique Karan Greatest Hits](https://open.spotify.com/album/2PF5U3Lc8L8x5j8nNb621z) | 4:36 | 2024-07-10 |  |
-| [Love Will Lead You Back](https://open.spotify.com/track/3HLgjHYaEhKFvV4SSvI9Te) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Can't Fight Fate \(Expanded Edition\)](https://open.spotify.com/album/2Zfh05UDjO13pJqtVcr8b9) | 4:37 | 2023-12-30 |  |
+| [Love Will Lead You Back](https://open.spotify.com/track/3HLgjHYaEhKFvV4SSvI9Te) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Can't Fight Fate \(Expanded Edition\)](https://open.spotify.com/album/2Zfh05UDjO13pJqtVcr8b9) | 4:37 | 2023-12-30 | 2024-07-23 |
+| [Love Will Lead You Back](https://open.spotify.com/track/0m8PenXC6y9fo0LaSd4vPw) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Arista Heritage Series: Taylor Dayne](https://open.spotify.com/album/08nkVfPFOyoL5vH3B0ehSn) | 4:38 | 2024-07-22 |  |
 | [Lovin' Proof](https://open.spotify.com/track/2wjCT6QwVk0nvkeqdgevbx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:11 | 2023-12-30 |  |
 | [Loving You Is All I Know](https://open.spotify.com/track/2IKxEzeJaEDioeuxVMxtCs) | [Christina Undhjem](https://open.spotify.com/artist/32eduOoS9D0HT4LwQBkwp0) | [Christina Undhjem EP](https://open.spotify.com/album/77GQSMnOaY5HxEPVpFzkf9) | 3:59 | 2023-12-30 |  |
 | [Marshall's Theme \- I Need You](https://open.spotify.com/track/0ZKAcFfeylW0jhas028wc5) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Marshall \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ) | 1:07 | 2023-12-30 |  |

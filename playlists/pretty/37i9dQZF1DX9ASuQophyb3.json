@@ -1,13 +1,29 @@
 {
   "description": "T\u00fcrkiye'nin en b\u00fcy\u00fck pop listesi. Kapak: Amo988",
-  "num_followers": 1445999,
+  "num_followers": 1446267,
   "original_name": "T\u00fcrk\u00e7e Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpmCUAAAAABwKcZA+Fyv1CqE6ZbelovT",
+  "snapshot_id": "Zp4YoAAAAAAIUp//5nuqGBWJOhgbL1Nm",
   "tracks": [
+    {
+      "added_at": "2024-07-18 21:00:00",
+      "album": {
+        "name": "\u00d6n\u00fcm\u00fcz Yaz",
+        "url": "https://open.spotify.com/album/1RQR6pJby9qvranN8SuM1v"
+      },
+      "artists": [
+        {
+          "name": "Simge",
+          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+        }
+      ],
+      "duration_ms": 181518,
+      "name": "\u00d6n\u00fcm\u00fcz Yaz",
+      "url": "https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR"
+    },
     {
       "added_at": "2024-07-18 21:00:00",
       "album": {
@@ -47,22 +63,6 @@
     {
       "added_at": "2024-07-18 21:00:00",
       "album": {
-        "name": "\u00d6n\u00fcm\u00fcz Yaz",
-        "url": "https://open.spotify.com/album/1RQR6pJby9qvranN8SuM1v"
-      },
-      "artists": [
-        {
-          "name": "Simge",
-          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
-        }
-      ],
-      "duration_ms": 181518,
-      "name": "\u00d6n\u00fcm\u00fcz Yaz",
-      "url": "https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR"
-    },
-    {
-      "added_at": "2024-07-18 21:00:00",
-      "album": {
         "name": "Yansam",
         "url": "https://open.spotify.com/album/3jrBw3qp6f0oLYFUJUHxdo"
       },
@@ -91,22 +91,6 @@
       "duration_ms": 135588,
       "name": "H\u00fcrrem",
       "url": "https://open.spotify.com/track/0mQxlAQVm5jVuExsofCiPM"
-    },
-    {
-      "added_at": "2024-07-18 21:00:00",
-      "album": {
-        "name": "Zombi",
-        "url": "https://open.spotify.com/album/1ocqjiB9rtooF66uuW5jlZ"
-      },
-      "artists": [
-        {
-          "name": "Hande Yener",
-          "url": "https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R"
-        }
-      ],
-      "duration_ms": 159677,
-      "name": "Zombi",
-      "url": "https://open.spotify.com/track/4mUgiufbW5HSZ24RK1yDPr"
     },
     {
       "added_at": "2024-07-18 21:00:00",
@@ -155,6 +139,22 @@
       "duration_ms": 157625,
       "name": "BAL",
       "url": "https://open.spotify.com/track/2RojZW2380o281z4LF0wTh"
+    },
+    {
+      "added_at": "2024-07-18 21:00:00",
+      "album": {
+        "name": "Zombi",
+        "url": "https://open.spotify.com/album/1ocqjiB9rtooF66uuW5jlZ"
+      },
+      "artists": [
+        {
+          "name": "Hande Yener",
+          "url": "https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R"
+        }
+      ],
+      "duration_ms": 159677,
+      "name": "Zombi",
+      "url": "https://open.spotify.com/track/4mUgiufbW5HSZ24RK1yDPr"
     },
     {
       "added_at": "2024-07-18 21:00:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-07-18 21:00:00",
       "album": {
-        "name": "Nanik",
-        "url": "https://open.spotify.com/album/3YXOLFTeVUTprhtcq7VGyG"
-      },
-      "artists": [
-        {
-          "name": "G\u00fclben Ergen",
-          "url": "https://open.spotify.com/artist/6hypPYDPSsgioRRfBXve38"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Nanik",
-      "url": "https://open.spotify.com/track/2czKxc4zNI4LWBAkOq2bg9"
-    },
-    {
-      "added_at": "2024-07-18 21:00:00",
-      "album": {
         "name": "CEMiyet Beach",
         "url": "https://open.spotify.com/album/29irqiFigkCaqcK5d5Feej"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 199081,
       "name": "Senden Hat\u0131ra",
       "url": "https://open.spotify.com/track/2i7XLrmbkbhIFbGwBMw2ec"
+    },
+    {
+      "added_at": "2024-07-18 21:00:00",
+      "album": {
+        "name": "Nanik",
+        "url": "https://open.spotify.com/album/3YXOLFTeVUTprhtcq7VGyG"
+      },
+      "artists": [
+        {
+          "name": "G\u00fclben Ergen",
+          "url": "https://open.spotify.com/artist/6hypPYDPSsgioRRfBXve38"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Nanik",
+      "url": "https://open.spotify.com/track/2czKxc4zNI4LWBAkOq2bg9"
     },
     {
       "added_at": "2024-07-18 21:00:00",

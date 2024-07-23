@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-22",
-  "description": "Meet the future.  Cover: Bayaan",
+  "description": "Meet the future.  Cover: Umair",
   "name": "RADAR PAKISTAN",
   "tracks": [
     {
@@ -125,6 +125,32 @@
     },
     {
       "album": {
+        "name": "ROCKSTAR WITHOUT A GUITAR",
+        "url": "https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So"
+      },
+      "artists": [
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        },
+        {
+          "name": "Annural Khalid",
+          "url": "https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "ALL WE HAD (feat. Asim Azhar & Annural Khalid)",
+      "url": "https://open.spotify.com/track/1s3R9uVmrUaqiWluVc1RR6"
+    },
+    {
+      "album": {
         "name": "Diya",
         "url": "https://open.spotify.com/album/6ngQPB42n6qbvTHhoDHoNX"
       },
@@ -176,7 +202,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 186008,
       "name": "Andheri Raat",
       "url": "https://open.spotify.com/track/2ojtfOXp5BR9Jxh3GIdZ6h"
@@ -348,6 +374,54 @@
       "duration_ms": 206117,
       "name": "Cold Hours",
       "url": "https://open.spotify.com/track/2uThc9fZx2BEL3t6uuRMO1"
+    },
+    {
+      "album": {
+        "name": "ROCKSTAR WITHOUT A GUITAR",
+        "url": "https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So"
+      },
+      "artists": [
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Abdullah Maharvi",
+          "url": "https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "COME THROUGH (feat. Abdullah Maharvi & Talha Anjum)",
+      "url": "https://open.spotify.com/track/4yNtO1F3flXZ4v3Ry1MzuP"
+    },
+    {
+      "album": {
+        "name": "ROCKSTAR WITHOUT A GUITAR",
+        "url": "https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So"
+      },
+      "artists": [
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238500,
+      "name": "COMPETITION & CURRENCY (feat. Talha Anjum)",
+      "url": "https://open.spotify.com/track/3wGp1azIVCBN1wzsph3f2m"
     },
     {
       "album": {
@@ -878,7 +952,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 229500,
       "name": "Kids",
       "url": "https://open.spotify.com/track/2qTqeKMywXEsWbrdYr5OxP"
@@ -922,7 +996,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 193333,
       "name": "Laiyan",
       "url": "https://open.spotify.com/track/2l7Z6J3b0wpohKqmNfASdC"
@@ -1205,6 +1279,28 @@
     },
     {
       "album": {
+        "name": "ROCKSTAR WITHOUT A GUITAR",
+        "url": "https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So"
+      },
+      "artists": [
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "OBVIOUS (feat. Hasan Raheem)",
+      "url": "https://open.spotify.com/track/40MgoUXdjPRk27R1Fp7EAp"
+    },
+    {
+      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/47Sdi35I8VIvGb1pCldY87"
       },
@@ -1318,7 +1414,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 161311,
       "name": "Rangeen",
       "url": "https://open.spotify.com/track/5oR58bDC1H53YMEARuTQV6"
@@ -1358,7 +1454,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 162760,
       "name": "Rent Free",
       "url": "https://open.spotify.com/track/33ceEkDXui08r2MswdCBcX"
@@ -1438,7 +1534,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 161684,
       "name": "SAHI HO",
       "url": "https://open.spotify.com/track/1Y5WFyPuEzuBXx8qC76iNW"
@@ -1686,7 +1782,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 194660,
       "name": "Teriyan",
       "url": "https://open.spotify.com/track/4hHPrjRpr1jiqTXdWZn3zz"

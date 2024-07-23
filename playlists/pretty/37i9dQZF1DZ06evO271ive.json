@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 18047,
+  "num_followers": 18100,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpr+AAAAAADg1dLv14sRB4nSQu59KAKJ",
+  "snapshot_id": "ZpxPgAAAAAB6vRbphzfC5u14E/QosuUJ",
   "tracks": [
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SLUT ME OUT (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 203858,
-      "name": "SLUT ME OUT (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hellcats SRTs 2 (with Lil Durk)",
         "url": "https://open.spotify.com/album/4ygqsOtoimrPwwH33iaAq0"
       },
@@ -759,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Love My Nickel",
-        "url": "https://open.spotify.com/album/5NqDt0UzIjimOthcVq5zZM"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 124578,
-      "name": "I Love My Nickel",
-      "url": "https://open.spotify.com/track/3E3K5odae35rwcOhBYcITc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slob on My Ckat",
         "url": "https://open.spotify.com/album/4CgEqMImprIzF3Y9z0pTA1"
       },
@@ -787,6 +751,22 @@
       "duration_ms": 148114,
       "name": "Slob on My Ckat",
       "url": "https://open.spotify.com/track/2Xikr2ck5gioTbXLsEX0iW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Love My Nickel",
+        "url": "https://open.spotify.com/album/5NqDt0UzIjimOthcVq5zZM"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 124578,
+      "name": "I Love My Nickel",
+      "url": "https://open.spotify.com/track/3E3K5odae35rwcOhBYcITc"
     },
     {
       "added_at": null,
@@ -871,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEXT8PE",
-        "url": "https://open.spotify.com/album/3uIEBssMK6MKzhVNEv7oVp"
-      },
-      "artists": [
-        {
-          "name": "Pardison Fontaine",
-          "url": "https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 170523,
-      "name": "Sexyy & Conceited",
-      "url": "https://open.spotify.com/track/4EYlx0Dzl7XWpCcdwgZo4h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Big Dawg (Moneybagg Yo, Sexyy Red)",
         "url": "https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34"
       },
@@ -911,6 +871,26 @@
       "duration_ms": 151272,
       "name": "Big Dawg (Moneybagg Yo, Sexyy Red)",
       "url": "https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SEXT8PE",
+        "url": "https://open.spotify.com/album/3uIEBssMK6MKzhVNEv7oVp"
+      },
+      "artists": [
+        {
+          "name": "Pardison Fontaine",
+          "url": "https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 170523,
+      "name": "Sexyy & Conceited",
+      "url": "https://open.spotify.com/track/4EYlx0Dzl7XWpCcdwgZo4h"
     }
   ],
   "unique_name": "This Is Sexyy Red",

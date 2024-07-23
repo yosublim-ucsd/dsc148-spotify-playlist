@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > Découvrez les artistes à l'affiche de l’édition 2024 des Francos de Montréal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,262 likes - 125 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,266 likes - 125 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 101 | [R.B.](https://open.spotify.com/track/6YMG5XbVgKUdVIrMaFr8J5) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [R.B.](https://open.spotify.com/album/7xZKrE00O2cUzItOtQ2oPU) | 4:49 |
 | 102 | [Romantisme](https://open.spotify.com/track/3IqqmMjTOCAjVr2hJay9VZ) | [Élégie](https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0) | [Romantisme](https://open.spotify.com/album/1BdZFmzKE7B3QAxJJyXXx4) | 3:53 |
 | 103 | [Western](https://open.spotify.com/track/4yn7tvfl1AiGOFZ0E4ctGL) | [King Melrose](https://open.spotify.com/artist/2AQF1jj79zuIK0HFMSPn91) | [Fleur de cactus \(Face A\)](https://open.spotify.com/album/5TmctCsJ7iHZOEfPov009R) | 3:33 |
-| 104 | [Elle vit dans les bois](https://open.spotify.com/track/0VBzJIYJey6MvcNH8Set2U) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Feux de joie](https://open.spotify.com/album/69un5QeWz6xSBF7dc7cROC) | 3:29 |
-| 105 | [Revoir le monde](https://open.spotify.com/track/2EOIAHCr3irNh5NEhv0qzN) | [Michelle & Les Garçons](https://open.spotify.com/artist/4pkiINtgqRjnKwflzhlH2z) | [Revoir le monde](https://open.spotify.com/album/5CR4XEKyc3ipMnKjevgkfk) | 2:48 |
+| 104 | [Revoir le monde](https://open.spotify.com/track/2EOIAHCr3irNh5NEhv0qzN) | [Michelle & Les Garçons](https://open.spotify.com/artist/4pkiINtgqRjnKwflzhlH2z) | [Revoir le monde](https://open.spotify.com/album/5CR4XEKyc3ipMnKjevgkfk) | 2:48 |
+| 105 | [Elle vit dans les bois](https://open.spotify.com/track/0VBzJIYJey6MvcNH8Set2U) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Feux de joie](https://open.spotify.com/album/69un5QeWz6xSBF7dc7cROC) | 3:29 |
 | 106 | [J'pourrais pas vivre avec toi](https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 3:12 |
 | 107 | [Bisous](https://open.spotify.com/track/1ceBIstPnCycyYsMpVwVUF) | [Douance](https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq) | [Monstre](https://open.spotify.com/album/5bCt5WDkmXofNiUcguDSu0) | 3:04 |
 | 108 | [un grand plat de riz](https://open.spotify.com/track/7cdfQb6ekMLykA2Av1xIZg) | [Témé Tan](https://open.spotify.com/artist/257G4gJ7XVp8Ec8TrjGyMW) | [Quand il est seul](https://open.spotify.com/album/7LnW6iz8kqZvVPhQw67ZxK) | 3:27 |
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 115 | [Après la nuit](https://open.spotify.com/track/0BPbIaHil9VVRgKUTOrA3k) | [Marie\-Annick Lepine](https://open.spotify.com/artist/6X0xLOYFVNmRVbKM7t46X3) | [J'ai brodé mon cœur](https://open.spotify.com/album/1PEpCslLEnFiASwWXpkXrP) | 0:34 |
 | 116 | [Holla](https://open.spotify.com/track/6GBNzIYj90vLRZNmdiS3VR) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [On frap la route?](https://open.spotify.com/album/7hES63PMmDtTdyuXzN2usE) | 2:52 |
 | 117 | [Le bois](https://open.spotify.com/track/7rDjKfbvrjrhCgQVQoSE6V) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [La clairière](https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq) | 2:59 |
-| 118 | [Sorry](https://open.spotify.com/track/6p84e47BuGYmh282V13y4H) | [Dylan Dylan](https://open.spotify.com/artist/2xwod0qobIBd0aaKo4t6BY), [Emma Wizz](https://open.spotify.com/artist/2fAdSDBTsaj7YvTUPHWMTE) | [Sorry](https://open.spotify.com/album/20hYXKljxpp3OB34PHcaIo) | 3:43 |
-| 119 | [Tralala](https://open.spotify.com/track/0iLVqqB6eQGyvQnQ1QcLGx) | [La Bottine Souriante](https://open.spotify.com/artist/7ba7eFah7fB6SbgnSufYBJ) | [Tralala](https://open.spotify.com/album/4XXJC6DVgxRnbdcTfJTQXV) | 4:23 |
+| 118 | [Tralala](https://open.spotify.com/track/0iLVqqB6eQGyvQnQ1QcLGx) | [La Bottine Souriante](https://open.spotify.com/artist/7ba7eFah7fB6SbgnSufYBJ) | [Tralala](https://open.spotify.com/album/4XXJC6DVgxRnbdcTfJTQXV) | 4:23 |
+| 119 | [Sorry](https://open.spotify.com/track/6p84e47BuGYmh282V13y4H) | [Dylan Dylan](https://open.spotify.com/artist/2xwod0qobIBd0aaKo4t6BY), [Emma Wizz](https://open.spotify.com/artist/2fAdSDBTsaj7YvTUPHWMTE) | [Sorry](https://open.spotify.com/album/20hYXKljxpp3OB34PHcaIo) | 3:43 |
 | 120 | [Il a plu il a neigé](https://open.spotify.com/track/5tKtMAzHT1wm9FFK5XSME0) | [Navet Confit](https://open.spotify.com/artist/6aZpCVbPUYikMx9HJV897D), [Douance](https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq) | [Désolé mouvement geste](https://open.spotify.com/album/0sD47gP8BDddXIU4snaup7) | 4:10 |
 | 121 | [Où est passé mon contour](https://open.spotify.com/track/21nOADtle90zRJ13y4Poy1) | [Sandra Contour](https://open.spotify.com/artist/2HqHdeGxArnQWvcEz57v4H) | [Où est passé mon contour](https://open.spotify.com/album/14179pvxliO47am5SkoCLw) | 3:01 |
 | 122 | [Dolce Vita](https://open.spotify.com/track/2yM8hnByWMOLVRxuUmOuT5) | [DJ Mohtorious](https://open.spotify.com/artist/5HaxxHnRzfZCyJbbxs0mIc), [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Fababy](https://open.spotify.com/artist/1ufm09MhiuoHpIFkbcIZGx) | [Dolce Vita](https://open.spotify.com/album/2uAzgEvhRjbA9sL9boeVNl) | 3:14 |

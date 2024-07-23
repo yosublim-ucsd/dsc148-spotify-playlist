@@ -2,7 +2,7 @@
 
 ### [Hot Hits Magyarország](https://open.spotify.com/playlist/37i9dQZF1DXddoYHYnHJ9N)
 
-> Az 50 legnépszerűbb dal Magyarországon\. Cover: KKevin, T\. Danny
+> Az 50 legnépszerűbb dal Magyarországon\. Cover: Sevdaliza, Pabllo Vittar, Yseult
 
 54 songs - 2 hr 38 min
 

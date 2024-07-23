@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2NoR0KhNZ8oZnC3HoNt2FV.md) - [plain]
 
 > Check out the demise of Slim Shady and dozens of Eminem's favorite rhymes.
 
-[PlayStation®️](https://open.spotify.com/user/playstation_music) - 228,415 likes - 854 songs - 2 day 2 hr 23 min
+[PlayStation®️](https://open.spotify.com/user/playstation_music) - 228,464 likes - 854 songs - 2 day 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

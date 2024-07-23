@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDiwzsFdvXP.md) - [plain]
 
 > Explore food culture through a Black lens\. Updates once a month.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,944 likes - 9 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,943 likes - 9 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Il meglio della musica indipendente italiana! Cover: <a href="spotify:artist:0ez4Y0vHwlRCrqGIkChC3Q">TÄRA</a>
 
-1,361 songs - 2 day 19 hr 30 min
+1,363 songs - 2 day 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -636,7 +636,7 @@
 | [Letto di carta](https://open.spotify.com/track/104YERAvUufTM1PCaR8bxc) | [Maggie](https://open.spotify.com/artist/1atJdNxjTQOUJlyb3skZqW) | [Letto di carta](https://open.spotify.com/album/7J9tjQWcMpANDCym7ZwbrO) | 2:20 | 2023-02-02 | 2023-03-03 |
 | [Liar](https://open.spotify.com/track/1HCJgMSEiB94WKUIw9B5YW) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4), [Filippo Bubbico](https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw) | [Liar](https://open.spotify.com/album/2dV8ZXGws3TLABKp4qvh7e) | 1:56 | 2024-01-24 | 2024-02-22 |
 | [LIBERACASA](https://open.spotify.com/track/1D4S1WgmKAFfp2g5lrmfWw) | [Dacota](https://open.spotify.com/artist/0yTK9PkVBhKwdiyuOeSk9l) | [LIBERACASA](https://open.spotify.com/album/3QRAd9CUavWFRoMJyVnRGE) | 3:44 | 2024-03-20 | 2024-04-24 |
-| [lies](https://open.spotify.com/track/5ambyYCxFIrHf6ilNGBQkt) | [georgia, georgia](https://open.spotify.com/artist/08O0sKRCrDDxVnduKUQNH6) | [lies](https://open.spotify.com/album/0eWfIaaKB0eu0c2fRXUlda) | 3:14 | 2024-03-20 |  |
+| [lies](https://open.spotify.com/track/5ambyYCxFIrHf6ilNGBQkt) | [georgia, georgia](https://open.spotify.com/artist/08O0sKRCrDDxVnduKUQNH6) | [lies](https://open.spotify.com/album/0eWfIaaKB0eu0c2fRXUlda) | 3:14 | 2024-03-20 | 2024-07-23 |
 | [Light](https://open.spotify.com/track/6t7ssvIwRyThKBiI9xi85q) | [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb) | [Light](https://open.spotify.com/album/3Y3SK2ySrRdlYccBgHyCki) | 2:51 | 2024-03-20 | 2024-04-24 |
 | [Lilo e Stitch](https://open.spotify.com/track/4yiHkUuvdgOhuxjbBiUW8I) | [Juli](https://open.spotify.com/artist/2sK3zc7YU0Jhx9VczDkCkF) | [Lilo e Stitch](https://open.spotify.com/album/1yTNEwLCDzanzs6c9IAfwe) | 2:37 | 2023-01-05 | 2023-02-03 |
 | [Limonata](https://open.spotify.com/track/446f5DoGMvQ8a6obyoCD3m) | [Serepocaiontas](https://open.spotify.com/artist/1E0z4tZ543qWy0oe9Xe4u2) | [Limonata](https://open.spotify.com/album/6UqmfFA7fR2v4U4aZ0LwhV) | 3:34 | 2022-11-30 | 2023-01-06 |
@@ -818,6 +818,7 @@
 | [non bevo più caffè](https://open.spotify.com/track/3PzljMGulBNrtqpOx7W2AG) | [Mariangela Tria](https://open.spotify.com/artist/1cNCpk5ae58rvv9lhGqotR) | [non bevo più caffè](https://open.spotify.com/album/33ScURcGo2o1IL3nbk3yLE) | 2:18 | 2022-01-06 | 2022-02-18 |
 | [NON C'HO VOGLIA](https://open.spotify.com/track/0PJuBiUN2seAh7Ia33OYA9) | [venerdì](https://open.spotify.com/artist/0v9674wp1zmIxhlfpjBXfo) | [NON C'HO VOGLIA](https://open.spotify.com/album/0DfhGcBmei3dnp2pXPU9q1) | 2:48 | 2023-11-21 | 2024-01-25 |
 | [Non c'è mare](https://open.spotify.com/track/2p0ImE7xlDmUdVtv8EXAxs) | [Nico Arezzo](https://open.spotify.com/artist/58NJMW79swpy2lbC6BM35V), [Moregrè](https://open.spotify.com/artist/2fw5erjUYoGPxwKhOnELAm) | [Non c'è mare](https://open.spotify.com/album/3lYE8a0ygUhb7UjJddmTtY) | 4:08 | 2024-05-23 | 2024-06-19 |
+| [NON CAMBIO MAI](https://open.spotify.com/track/1suAKLt3OIwoVECcdSvQGq) | [Alessia Dalia](https://open.spotify.com/artist/7ItlEnUdJ8rhanA9Tf2uRc) | [NON CAMBIO MAI](https://open.spotify.com/album/6fScpbLp2m9nBFCbOCP2ND) | 2:46 | 2024-07-18 |  |
 | [Non capisco niente](https://open.spotify.com/track/5EfCHYvLNxrlW40OOCJwaC) | [Brando Madonia](https://open.spotify.com/artist/3UAeF4girTzN2loV6WRsCh) | [Autunno 80](https://open.spotify.com/album/7MSwtrNw5iC3LVA0x1Q4Lj) | 2:49 | 2023-11-22 | 2024-01-25 |
 | [Non capisco niente](https://open.spotify.com/track/6O3EHSyweYh1rnBxnQfDJh) | [Brando Madonia](https://open.spotify.com/artist/3UAeF4girTzN2loV6WRsCh) | [Autunno 80](https://open.spotify.com/album/4MfMNoH9BbDIogppCD25Nt) | 2:49 | 2023-11-14 | 2023-11-25 |
 | [Non chiamarmi bella](https://open.spotify.com/track/7zEfVA2Zg2oUlMpTwcO3FY) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [In Memoria Di](https://open.spotify.com/album/5Y6cSv9uLJrv3iVvgqyOr4) | 2:22 | 2024-05-23 | 2024-07-19 |
@@ -890,7 +891,7 @@
 | [ORBO](https://open.spotify.com/track/4VBCWRlrzDNxyjBEfuubST) | [I Le Lucertole](https://open.spotify.com/artist/5RzjUawywFTUvNpO6wEvvM) | [ORBO](https://open.spotify.com/album/6UYDYZNV39L4V138niJ2Pf) | 3:55 | 2022-05-19 | 2022-06-24 |
 | [Orchestra di silenzi](https://open.spotify.com/track/5QvFzgSGWBDC5q5MBRlkE1) | [PUGNI](https://open.spotify.com/artist/1LfDpyJZOMLA5B6o140mqa) | [Orchestra di silenzi](https://open.spotify.com/album/0vyaVR7ozC4RvQCosx0IvI) | 3:06 | 2024-03-20 | 2024-04-24 |
 | [ORO](https://open.spotify.com/track/3wH0SKPlLPvNY9liDTjena) | [KEFÀLI](https://open.spotify.com/artist/7pBnZtZHuUkF9dC3T5z9xP) | [ORO](https://open.spotify.com/album/5tTJoBCj4i5juKCMdgyMgP) | 3:05 | 2023-05-10 | 2023-05-31 |
-| [OROSCOPO](https://open.spotify.com/track/2d8y0w5xrBi9qey8wHex1f) | [Caesar](https://open.spotify.com/artist/3oHyQMgRYjhjp2nMLhmiiP) | [OROSCOPO](https://open.spotify.com/album/4jhrmY7LBLWaphzf2rtCRP) | 2:15 | 2024-07-18 |  |
+| [OROSCOPO](https://open.spotify.com/track/2d8y0w5xrBi9qey8wHex1f) | [Caesar](https://open.spotify.com/artist/3oHyQMgRYjhjp2nMLhmiiP) | [OROSCOPO](https://open.spotify.com/album/4jhrmY7LBLWaphzf2rtCRP) | 2:15 | 2024-07-18 | 2024-07-23 |
 | [orsi](https://open.spotify.com/track/3eqWiO14rV2jI5JNfdfsqx) | [t vernìce](https://open.spotify.com/artist/7gb9u6sWHfrLs9jA5LoKKL) | [orsi](https://open.spotify.com/album/4Ab3jOgsU1ye5kirJlLq9g) | 2:56 | 2023-10-18 | 2023-11-23 |
 | [orso](https://open.spotify.com/track/73AtLu6D34F9MBD7gDEnb7) | [SANTATERESA](https://open.spotify.com/artist/2PTv9Z4F73QVUNS8IWJGDz) | [orso](https://open.spotify.com/album/7ii0v1oYLS4CmGzNOcQR62) | 3:30 | 2023-07-12 | 2023-08-30 |
 | [Ortiche](https://open.spotify.com/track/3v1EbZE4YXWqI3MgBUaiC2) | [Acqua Distillata](https://open.spotify.com/artist/5qPCNyvxjgOXZMHrCbZIBF) | [BOLLE](https://open.spotify.com/album/6N1nvgI5o6PFFO1WA9f9JJ) | 2:05 | 2024-04-23 | 2024-05-24 |
@@ -923,6 +924,7 @@
 | [Passerà](https://open.spotify.com/track/4Wo3LQ1o5j44qGuchDIBC3) | [Hibiscus](https://open.spotify.com/artist/1gkatkVUlfa8KJX1sSyj73) | [Passerà](https://open.spotify.com/album/1Y4isFZeHs1yCbrbdZ10Vn) | 2:35 | 2022-08-26 | 2022-10-11 |
 | [Passerà](https://open.spotify.com/track/35V948aBwEJCCWdkrSdW2h) | [Johana](https://open.spotify.com/artist/2dco5qMuxiVnHMK2ROrD91) | [Passerà](https://open.spotify.com/album/4z4D8q6vfOhTEm7oeeEF9q) | 2:33 | 2023-04-18 | 2023-05-24 |
 | [PASTIGLIE BLU](https://open.spotify.com/track/3S3QnIeVFa2HXKcoK4mw3U) | [INARIA](https://open.spotify.com/artist/27tgtbtrHISzeyzYjsEoyf) | [PASTIGLIE BLU](https://open.spotify.com/album/5cOBAiQSaaepDET6bWlM6k) | 2:28 | 2024-03-20 | 2024-04-24 |
+| [paura di morire](https://open.spotify.com/track/7Kmv8kPvI0Zad70P2jRmNK) | [Brokenkidzz](https://open.spotify.com/artist/5YoIT0p6aIAuLfxbK4D6mb) | [paura di morire](https://open.spotify.com/album/4BAei2Ld3o6mtKGuSREqhD) | 2:08 | 2024-07-18 |  |
 | [pavimento](https://open.spotify.com/track/5Gsts0SjO5pqvCzY8ZCCVM) | [chenopsia](https://open.spotify.com/artist/0LD8RSks9BHCIxqeTOdnAh) | [pavimento](https://open.spotify.com/album/3XMqMlWdbTNUzCiTTyFoal) | 2:52 | 2022-09-29 | 2023-01-06 |
 | [Pazzi](https://open.spotify.com/track/1ZSot2wwzAA9fGHLj9WXC5) | [Tersø](https://open.spotify.com/artist/6dPkQ9H6GSNXJFe7ZnukoU) | [Pazzi](https://open.spotify.com/album/6vqc9VXJ7jr1QikmqhZZni) | 2:58 | 2023-04-18 | 2023-05-18 |
 | [Peggio](https://open.spotify.com/track/1DsLubKWbd09U9o81DtaGZ) | [Michelle](https://open.spotify.com/artist/7MIRMyX15r6QK4aw3mobvF) | [Peggio](https://open.spotify.com/album/3nfztMM1u7QbULe6ktHM1y) | 2:40 | 2023-05-30 | 2023-07-13 |

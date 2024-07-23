@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-20",
-  "description": "This is Barry White. The essential tracks, all in one playlist.",
+  "description": "This Is Barry White. Los temas esenciales, todos en una lista.",
   "name": "This Is Barry White",
   "tracks": [
     {
@@ -290,7 +290,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 302493,
       "name": "Heavenly, That's What You Are To Me",
       "url": "https://open.spotify.com/track/2Zkfn9RlK67gTpiUZcDIvQ"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 194173,
       "name": "Honey Please, Can't Ya See",
       "url": "https://open.spotify.com/track/6yPBONQzToDpSP5302UjTJ"
@@ -810,7 +810,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 340826,
       "name": "Lady, Sweet Lady",
       "url": "https://open.spotify.com/track/10z1bj9T7hpJ9bfIlsHF1s"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 210386,
       "name": "Let The Music Play - Single Version",
       "url": "https://open.spotify.com/track/75pBjCi8cxfkp4xd68uo6O"
@@ -972,7 +972,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 290666,
       "name": "Never, Never Gonna Give Ya Up",
       "url": "https://open.spotify.com/track/3pepZAOvUCBt3qWi9Ax6Aq"
@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-21",
+      "date_removed": null,
       "duration_ms": 273466,
       "name": "Sho' You Right",
       "url": "https://open.spotify.com/track/5dRFOwbyqjX1ZqwzBP0iDr"
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 450600,
       "name": "Slow Jams",
       "url": "https://open.spotify.com/track/6CtrSJaPZxcGn991fLgxJF"
@@ -1522,7 +1522,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 219440,
       "name": "What Am I Gonna Do With You",
       "url": "https://open.spotify.com/track/097OvOx07eXC4UmdnywvoE"
@@ -1540,7 +1540,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 639600,
       "name": "Whatever We Had, We Had",
       "url": "https://open.spotify.com/track/6Lu3H89JgTh2QzGRnZqYku"
@@ -1678,7 +1678,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-23",
       "duration_ms": 267106,
       "name": "You're The First, The Last, My Everything - Live",
       "url": "https://open.spotify.com/track/62OKQRxgusW4mvvUwLjGye"
