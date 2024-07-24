@@ -1,12 +1,12 @@
 {
-  "description": "This is Meg Smith. The essential tracks, all in one playlist.",
-  "num_followers": 253,
-  "original_name": "This Is Meg Smith",
+  "description": "This is Meg Smith. Piesele esen\u021biale \u00eentr-un singur playlist.",
+  "num_followers": 254,
+  "original_name": "Acesta este Meg Smith.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpxPgAAAAADFpDHD3MxjnrojHVe9/RKe",
+  "snapshot_id": "Zp2hAAAAAABt1+MxslNVu1Ouzrn9rOZl",
   "tracks": [
     {
       "added_at": null,
@@ -353,6 +353,6 @@
       "url": "https://open.spotify.com/track/2vDtDVAnCMvaKmKtSPTedt"
     }
   ],
-  "unique_name": "This Is Meg Smith",
+  "unique_name": "Acesta este Meg Smith.",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NM7Yf"
 }

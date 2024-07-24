@@ -6,8 +6,24 @@
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AACaFx8Eym38sx7aRMPJDERwFkNQhh9b",
+  "snapshot_id": "AACaGHHd7ZKangRR6sCd7OvUgj3KkkWi",
   "tracks": [
+    {
+      "added_at": "2024-07-23 14:59:34",
+      "album": {
+        "name": "Long Dark Night",
+        "url": "https://open.spotify.com/album/692UfApwZN5hJ7rRIfcSde"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "duration_ms": 213240,
+      "name": "Long Dark Night",
+      "url": "https://open.spotify.com/track/3geRAOC9ZYJQxA1f2RZrYC"
+    },
     {
       "added_at": "2024-07-18 10:10:15",
       "album": {

@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-304 songs - 12 hr 25 min
+305 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [durabilité](https://open.spotify.com/track/7Bqz55Uc7PouyqsmTS0q7R) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Aveline Bisset](https://open.spotify.com/album/6Gls7jY8E6316yqBIwTcS4) | 2:39 | 2021-12-14 | 2022-04-29 |
 | [Echoes](https://open.spotify.com/track/2FOlLBy4G6UKrSNgHrestM) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Echoes](https://open.spotify.com/album/6gLOeTm93OHXZHFPHtsYJ5) | 2:00 | 2023-06-20 |  |
 | [Eisriesenwelt](https://open.spotify.com/track/3H8OQdKlhhsMtLZ2Ip4x0G) | [Maik Kuefer](https://open.spotify.com/artist/7dDWo6Yh2ZWKRrvnZ87rEe) | [Eisriesenwelt](https://open.spotify.com/album/62GiMxJNxVwm31dn89uC5t) | 2:08 | 2023-06-20 |  |
+| [El Amanecer](https://open.spotify.com/track/3oPTemjjHIfNeHOcJOXNJT) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [El Amanecer](https://open.spotify.com/album/6aRSkv2lYrBQZ66KNckTOZ) | 2:14 | 2024-07-23 |  |
 | [Emerald Enlightenment](https://open.spotify.com/track/4uoJsS8jQmsHmdoORGzxh0) | [Aramis Morel](https://open.spotify.com/artist/0ggD5NH7vsGHwcBWHnyVq4) | [Emerald Enlightenment](https://open.spotify.com/album/26dTk7VugnkScRBYCv8s2W) | 1:39 | 2023-01-20 | 2023-09-19 |
 | [Empty Pews](https://open.spotify.com/track/4RnRAj8j9eLv4ksbuhjk78) | [John Thomas Remington](https://open.spotify.com/artist/4IjrAYpXscdCP4Twuor1f3) | [Empty Pews](https://open.spotify.com/album/2KzoXF3GQ7XnqyUIcpPBwf) | 2:36 | 2021-12-14 | 2023-11-11 |
 | [Entre les Lignes](https://open.spotify.com/track/0v8Qxq3gLumQvLyJE2AhXR) | [Lou Maxence](https://open.spotify.com/artist/7KP4VeCHHi7TuDNlociPui) | [Entre les Lignes](https://open.spotify.com/album/51WQ52JifiEhQ8QPjqQHJz) | 2:03 | 2022-12-21 |  |

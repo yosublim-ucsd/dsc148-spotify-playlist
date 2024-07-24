@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,341 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,344 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,12 +57,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 47 | [Abrete corazon](https://open.spotify.com/track/1WGAVihxhiKWAfCICZPlwW) | [Laboratorium Pieśni](https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l) | [Hé oyáte](https://open.spotify.com/album/3ovjzkM9J9FIaf8MStJqq1) | 9:52 |
 | 48 | [VIOLET \(feat\. ZERØ\)](https://open.spotify.com/track/4i3SeVJzijSclCmmp4UDt8) | [BOKKA](https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3), [ZERØ](https://open.spotify.com/artist/4X0wkHFRCALIvIprXD5YsK) | [BOKKA HITS 10](https://open.spotify.com/album/4lpEIOhjPlV3ACNCQahbne) | 4:10 |
 | 49 | [Płonąca stodoła](https://open.spotify.com/track/6koA8seh19SIjaOwf45jgC) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Zalewski śpiewa Niemena \(Reedycja\)](https://open.spotify.com/album/3hPcfIfLoRoSmtWF1vOrZ0) | 2:57 |
-| 50 | [My](https://open.spotify.com/track/3x3HRFlqBsM3tm2DH9HpGa) | [Kim Nowak](https://open.spotify.com/artist/2MCd1BJPM71DbGdVewk94d) | [My](https://open.spotify.com/album/71FoVkacUpn0o5dTfQWX4b) | 4:23 |
-| 51 | [Zaopiekuj się mną](https://open.spotify.com/track/47Zuvh8n2MakxHcNuKp6xL) | [KARAŚ/ROGUCKI](https://open.spotify.com/artist/1ZAGaCgMaOtt2yOUm1Qq6x) | [Zaopiekuj się mną](https://open.spotify.com/album/20qU6KwVmu7dIbH4hIhDXJ) | 4:13 |
+| 50 | [Zaopiekuj się mną](https://open.spotify.com/track/47Zuvh8n2MakxHcNuKp6xL) | [KARAŚ/ROGUCKI](https://open.spotify.com/artist/1ZAGaCgMaOtt2yOUm1Qq6x) | [Zaopiekuj się mną](https://open.spotify.com/album/20qU6KwVmu7dIbH4hIhDXJ) | 4:13 |
+| 51 | [My](https://open.spotify.com/track/3x3HRFlqBsM3tm2DH9HpGa) | [Kim Nowak](https://open.spotify.com/artist/2MCd1BJPM71DbGdVewk94d) | [My](https://open.spotify.com/album/71FoVkacUpn0o5dTfQWX4b) | 4:23 |
 | 52 | [Chory na Polskę](https://open.spotify.com/track/3ZLGYIVXOjINT2ZLakODhF) | [Dr Misio](https://open.spotify.com/artist/0ov3NwkivwP03icKu8jQBy) | [Chory na Polskę](https://open.spotify.com/album/0SGXYkMO9FNhn7wznAaFiw) | 3:19 |
 | 53 | [SUMMER SONG](https://open.spotify.com/track/30snd5cTiUVngr70zOe8RQ) | [Zdechły Osa](https://open.spotify.com/artist/509dS4Q0EfUQuG7KvaSsiz) | [BRESLAU HARDCORE](https://open.spotify.com/album/7d3sWhON26NwIUIuoVELTm) | 3:16 |
-| 54 | [Most](https://open.spotify.com/track/3yqkdKHD11qU1RAe5PQffz) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Miłość w czasach](https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU) | 2:55 |
-| 55 | [Moje serce w Warszawie](https://open.spotify.com/track/3ctthws9etjZKZIctF34Wq) | [Sorry Boys](https://open.spotify.com/artist/0WX7MXOUx7elCFdxdgvdBU) | [Moje serce w Warszawie](https://open.spotify.com/album/6S27z8vNLgebk8Jbgr6WcG) | 5:29 |
+| 54 | [Moje serce w Warszawie](https://open.spotify.com/track/3ctthws9etjZKZIctF34Wq) | [Sorry Boys](https://open.spotify.com/artist/0WX7MXOUx7elCFdxdgvdBU) | [Moje serce w Warszawie](https://open.spotify.com/album/6S27z8vNLgebk8Jbgr6WcG) | 5:29 |
+| 55 | [Most](https://open.spotify.com/track/3yqkdKHD11qU1RAe5PQffz) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Miłość w czasach](https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU) | 2:55 |
 | 56 | [Na Polanie](https://open.spotify.com/track/0YWvctopN5MKKHVl7DcVvy) | [Fismoll](https://open.spotify.com/artist/5jIMSlGidlmS3NmLKio9Wa) | [Pomiędzy](https://open.spotify.com/album/2sAKQ4Vg3LDNj9ZpV0eGNC) | 4:06 |
 | 57 | [Początek](https://open.spotify.com/track/54BfcKAKZwBwZ2I4PgCcup) | [Miuosh](https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX) | [Początek](https://open.spotify.com/album/049sW8ENjB8HtNXRHmQ0tY) | 4:31 |
 | 58 | [Jakbym zjadł mentosy i popił je colą](https://open.spotify.com/track/2nc3VYvWHGckELkcmzssWa) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X) | [Pokolenie Końca Świata](https://open.spotify.com/album/1AIy2wSd4TWW0CjP1ibZsp) | 2:48 |

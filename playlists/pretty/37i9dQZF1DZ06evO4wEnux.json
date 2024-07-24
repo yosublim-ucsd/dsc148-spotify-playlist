@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpxPgAAAAABc/9Bs92VG0LshyTzlvP99",
+  "snapshot_id": "Zp2hAAAAAACKe2j1dRkF0b0CRqtVGD6+",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sum of All Your Parts",
-        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
+        "name": "Afterwords",
+        "url": "https://open.spotify.com/album/5qxhSY3SgCnFLaMQYtOF4R"
       },
       "artists": [
         {
           "name": "Fatherson",
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        },
-        {
-          "name": "Bryde",
-          "url": "https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU"
         }
       ],
-      "duration_ms": 284973,
-      "name": "Nothing to No One",
-      "url": "https://open.spotify.com/track/4yTOBKjpXlbZ1VfiFmRD3W"
+      "duration_ms": 268777,
+      "name": "Afterwords",
+      "url": "https://open.spotify.com/track/7Jp5JCzWgFBHrpJGQI0gzu"
     },
     {
       "added_at": null,
@@ -415,18 +411,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afterwords",
-        "url": "https://open.spotify.com/album/5qxhSY3SgCnFLaMQYtOF4R"
+        "name": "Sum of All Your Parts",
+        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
       },
       "artists": [
         {
           "name": "Fatherson",
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        },
+        {
+          "name": "Bryde",
+          "url": "https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU"
         }
       ],
-      "duration_ms": 268777,
-      "name": "Afterwords",
-      "url": "https://open.spotify.com/track/7Jp5JCzWgFBHrpJGQI0gzu"
+      "duration_ms": 284973,
+      "name": "Nothing to No One",
+      "url": "https://open.spotify.com/track/4yTOBKjpXlbZ1VfiFmRD3W"
     },
     {
       "added_at": null,

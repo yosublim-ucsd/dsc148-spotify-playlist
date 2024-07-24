@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Fred De Palma in cover + le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,753 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,758 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 47 | [LEGAMI](https://open.spotify.com/track/1C9OAXQN4zKkPbTRO17Hma) | [Goldreick](https://open.spotify.com/artist/0UJ6nopuHJk9q7addrnFhD), [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP), [Alice](https://open.spotify.com/artist/2secXZJFel5sboofeiGQyk), [maggio](https://open.spotify.com/artist/7bykcg3a4exhrIgiffIR2Q) | [MERO CREDIT](https://open.spotify.com/album/0ToH1czj1bGlNTGka6cdzm) | 3:33 |
 | 48 | [MUSICA ESPECIAL](https://open.spotify.com/track/28mZlmVrofwqdZ3sVIFxJJ) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6), [Sebra Cruz](https://open.spotify.com/artist/2OaoLYNZqzNVMM4H7KL5ye) | [MUSICA ESPECIAL](https://open.spotify.com/album/6Tk4yBFG7aLLMzuJMkVQkr) | 3:11 |
 | 49 | [MIA](https://open.spotify.com/track/4a8jvaNPoKtUPg0lvMYwpy) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [MIA](https://open.spotify.com/album/4rMkN9uKA447BTvYU6NZTa) | 2:20 |
-| 50 | [MESSAGGI](https://open.spotify.com/track/3S3u9z8ydHqmJVqzB8IySM) | [Lolloflow](https://open.spotify.com/artist/6od7hFnrVLa1zCuSyQimic) | [MESSAGGI](https://open.spotify.com/album/0cqm6vQmofEJdixKnKaGol) | 2:31 |
+| 50 | [MESSAGGI](https://open.spotify.com/track/3S3u9z8ydHqmJVqzB8IySM) | [Lolloflow](https://open.spotify.com/artist/6od7hFnrVLa1zCuSyQimic) | [MESSAGGI](https://open.spotify.com/album/0cqm6vQmofEJdixKnKaGol) | 2:37 |
 | 51 | [Vertigo](https://open.spotify.com/track/3jVo350GBcozw5OrXySv5N) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Vertigo](https://open.spotify.com/album/4LJhKUgLG4w4uM99XyAkMz) | 3:54 |
 | 52 | [Gem Lingo \(ovr now\)](https://open.spotify.com/track/6dSqM0tWJPlchpmGrEwC1c) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Gem Lingo \(ovr now\)](https://open.spotify.com/album/3r4QpzGNuewu0vLvapRZS7) | 3:50 |
 | 53 | [Wahala](https://open.spotify.com/track/0V4ie5PXFiWXEd2XldImGr) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Alusa Why Are You Topless? \(Deluxe\)](https://open.spotify.com/album/6piDT78sQ40k6xC5r9A8st) | 3:27 |

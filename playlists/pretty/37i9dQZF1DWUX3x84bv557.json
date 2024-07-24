@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Nederlandse pop! Cover: Roxy Dekker & Ronnie Flex",
-  "num_followers": 163119,
+  "num_followers": 163143,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zp5eXAAAAABbSpslyNhiU+Bu1QO3BpdM",
+  "snapshot_id": "ZqAAyQAAAABxDPf/wkRPTrdPPNHu3zCD",
   "tracks": [
     {
       "added_at": "2024-07-19 08:42:12",
@@ -123,6 +123,26 @@
       "duration_ms": 195863,
       "name": "Geef Me Het Leven",
       "url": "https://open.spotify.com/track/0Q0HDbyXAjuyhkEvVBJ9tx"
+    },
+    {
+      "added_at": "2024-07-19 08:42:12",
+      "album": {
+        "name": "Mijn Huisje",
+        "url": "https://open.spotify.com/album/0fy34G5zLy2C86oi23Gph1"
+      },
+      "artists": [
+        {
+          "name": "Bolle Tito",
+          "url": "https://open.spotify.com/artist/20768ncxf9ouMj8IKAB6nc"
+        },
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Mijn Huisje",
+      "url": "https://open.spotify.com/track/2S0b2igN6JP3gcokE7EXtE"
     },
     {
       "added_at": "2024-07-19 08:42:12",
@@ -471,26 +491,6 @@
       "duration_ms": 174315,
       "name": "Niet Meer Terug",
       "url": "https://open.spotify.com/track/66N1MWt8bWfw0P5EbIAGtP"
-    },
-    {
-      "added_at": "2024-07-19 08:42:12",
-      "album": {
-        "name": "Mijn Huisje",
-        "url": "https://open.spotify.com/album/0fy34G5zLy2C86oi23Gph1"
-      },
-      "artists": [
-        {
-          "name": "Bolle Tito",
-          "url": "https://open.spotify.com/artist/20768ncxf9ouMj8IKAB6nc"
-        },
-        {
-          "name": "Lange Frans",
-          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Mijn Huisje",
-      "url": "https://open.spotify.com/track/2S0b2igN6JP3gcokE7EXtE"
     },
     {
       "added_at": "2024-07-19 08:42:12",

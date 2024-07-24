@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance music</a> for the heart <3",
-  "num_followers": 1235736,
+  "num_followers": 1235778,
   "original_name": "Heart Beats",
   "owner": {
     "name": "Spotify",
@@ -443,30 +443,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Eternity",
-        "url": "https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        },
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        }
-      ],
-      "duration_ms": 135428,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "I Adore You (feat. Daecolm)",
         "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
       },
@@ -491,6 +467,30 @@
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "duration_ms": 135428,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Mid Air",
-        "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 181240,
-      "name": "She's On My Mind",
-      "url": "https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Comfort In Chaos",
         "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 131294,
       "name": "palm of my hands",
       "url": "https://open.spotify.com/track/6y5HLopYu7Uu0hYwVBj4T6"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Mid Air",
+        "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 181240,
+      "name": "She's On My Mind",
+      "url": "https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Stop Loving You",
+        "url": "https://open.spotify.com/album/7d3UAHh6dVhDFdLupDUJ7B"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 169503,
+      "name": "Stop Loving You",
+      "url": "https://open.spotify.com/track/1TRmgkGE0EdfjjAovbMpTk"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Love On You (feat. Griff Clawson)",
         "url": "https://open.spotify.com/album/7hijxy3rso2MSNyHf0K5kj"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 170196,
       "name": "Love On You (feat. Griff Clawson)",
       "url": "https://open.spotify.com/track/7Iv0928rZ28KjivhAJPqfC"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Stop Loving You",
-        "url": "https://open.spotify.com/album/7d3UAHh6dVhDFdLupDUJ7B"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 169503,
-      "name": "Stop Loving You",
-      "url": "https://open.spotify.com/track/1TRmgkGE0EdfjjAovbMpTk"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "I Choose You",
+        "url": "https://open.spotify.com/album/7xL9P258zioz3ztUmu5D6u"
+      },
+      "artists": [
+        {
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        }
+      ],
+      "duration_ms": 200314,
+      "name": "I Choose You",
+      "url": "https://open.spotify.com/track/6pciypwNijdOfdZG93mZ5I"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Easy To Love",
         "url": "https://open.spotify.com/album/5yFZxRJaW7Vrc7lV8cXl7s"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 151820,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/36fFojPImg5YSuktc7ph3j"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "I Choose You",
-        "url": "https://open.spotify.com/album/7xL9P258zioz3ztUmu5D6u"
-      },
-      "artists": [
-        {
-          "name": "CHANEY",
-          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
-        }
-      ],
-      "duration_ms": 200314,
-      "name": "I Choose You",
-      "url": "https://open.spotify.com/track/6pciypwNijdOfdZG93mZ5I"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1883,6 +1883,26 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "ILYAF (I love you always forever)",
+        "url": "https://open.spotify.com/album/3NUVzJfg1NL9d1QJ9lm6PO"
+      },
+      "artists": [
+        {
+          "name": "Donna Lewis",
+          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
+        },
+        {
+          "name": "Digital Farm Animals",
+          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
+        }
+      ],
+      "duration_ms": 166091,
+      "name": "ILYAF (I love you always forever)",
+      "url": "https://open.spotify.com/track/5cBz1eRdiLpTVcKBZkHnul"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/3wLwVLZ25BdqRKjcnWSTx5"
       },
@@ -1903,22 +1923,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "ILYAF (I love you always forever)",
-        "url": "https://open.spotify.com/album/3NUVzJfg1NL9d1QJ9lm6PO"
+        "name": "LIFELINE",
+        "url": "https://open.spotify.com/album/1plQ1snsvRuNbQR7FbRpdo"
       },
       "artists": [
         {
-          "name": "Donna Lewis",
-          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
         },
         {
-          "name": "Digital Farm Animals",
-          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
+          "name": "NASAYA",
+          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
         }
       ],
-      "duration_ms": 166091,
-      "name": "ILYAF (I love you always forever)",
-      "url": "https://open.spotify.com/track/5cBz1eRdiLpTVcKBZkHnul"
+      "duration_ms": 206017,
+      "name": "LIFELINE",
+      "url": "https://open.spotify.com/track/1DgDLr9M24s6EDdySEsQkh"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1943,26 +1963,6 @@
       "duration_ms": 178130,
       "name": "Physique (feat. RBZ)",
       "url": "https://open.spotify.com/track/0Tr1fMsT0SkAogFV343Bvy"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "LIFELINE",
-        "url": "https://open.spotify.com/album/1plQ1snsvRuNbQR7FbRpdo"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        },
-        {
-          "name": "NASAYA",
-          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
-        }
-      ],
-      "duration_ms": 206017,
-      "name": "LIFELINE",
-      "url": "https://open.spotify.com/track/1DgDLr9M24s6EDdySEsQkh"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2155,6 +2155,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Everywhere (I wanna be with you)",
+        "url": "https://open.spotify.com/album/79PJhpCEtArNZ9paa2jOjw"
+      },
+      "artists": [
+        {
+          "name": "Lyrah",
+          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+        }
+      ],
+      "duration_ms": 140625,
+      "name": "Everywhere (I wanna be with you)",
+      "url": "https://open.spotify.com/track/2lh1prYnrU9tL843C6rzSq"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Antidote",
         "url": "https://open.spotify.com/album/2eBWEtVvAtX1Ajoh0VKogz"
       },
@@ -2175,22 +2191,6 @@
       "duration_ms": 188679,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/6qIEUT4vS2g2g8EgqOS62o"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Everywhere (I wanna be with you)",
-        "url": "https://open.spotify.com/album/79PJhpCEtArNZ9paa2jOjw"
-      },
-      "artists": [
-        {
-          "name": "Lyrah",
-          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
-        }
-      ],
-      "duration_ms": 140625,
-      "name": "Everywhere (I wanna be with you)",
-      "url": "https://open.spotify.com/track/2lh1prYnrU9tL843C6rzSq"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "One, Two, & 3",
-        "url": "https://open.spotify.com/album/1vQWQX4pHIp1c1QSntHZrn"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 206007,
-      "name": "One, Two, & 3",
-      "url": "https://open.spotify.com/track/1Yu1fJCwqEWlacl4ofyeUg"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Stay The Weekend (feat. Uffie)",
         "url": "https://open.spotify.com/album/365Ua66eIkbBRD48k0uRTE"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 162938,
       "name": "Stay The Weekend (feat. Uffie)",
       "url": "https://open.spotify.com/track/0ZSN8Z0gcBJjVJFYYlpf9U"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "One, Two, & 3",
+        "url": "https://open.spotify.com/album/1vQWQX4pHIp1c1QSntHZrn"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 206007,
+      "name": "One, Two, & 3",
+      "url": "https://open.spotify.com/track/1Yu1fJCwqEWlacl4ofyeUg"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Believe In Myself",
-        "url": "https://open.spotify.com/album/5ngmMrPiCbLRleKZXj3zqV"
-      },
-      "artists": [
-        {
-          "name": "PARISI",
-          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
-        }
-      ],
-      "duration_ms": 221387,
-      "name": "Believe In Myself",
-      "url": "https://open.spotify.com/track/047hYmw8Viqwx4cavskXVy"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/3Tc4RzAWum7OKbNkTGgkAX"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 140826,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/3Z8pXlydvG00cjalDZgiUq"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Believe In Myself",
+        "url": "https://open.spotify.com/album/5ngmMrPiCbLRleKZXj3zqV"
+      },
+      "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        }
+      ],
+      "duration_ms": 221387,
+      "name": "Believe In Myself",
+      "url": "https://open.spotify.com/track/047hYmw8Viqwx4cavskXVy"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2603,6 +2603,26 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/4YLt37YBJKmbL9udretXlK"
+      },
+      "artists": [
+        {
+          "name": "LAR",
+          "url": "https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0"
+        },
+        {
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+        }
+      ],
+      "duration_ms": 267540,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/0s1XsqBecwpSibK8RSueWM"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Bringing Me Home",
         "url": "https://open.spotify.com/album/1WdDBOFiSMGuAuLUKJbvXL"
       },
@@ -2663,26 +2683,6 @@
       "duration_ms": 194784,
       "name": "LIGHTS DOWN LOW (feat. Sly Jr.)",
       "url": "https://open.spotify.com/track/72clwH22fwZF7utiFGJ9Ho"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Anyone",
-        "url": "https://open.spotify.com/album/4YLt37YBJKmbL9udretXlK"
-      },
-      "artists": [
-        {
-          "name": "LAR",
-          "url": "https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0"
-        },
-        {
-          "name": "Taylr Renee",
-          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
-        }
-      ],
-      "duration_ms": 267540,
-      "name": "Anyone",
-      "url": "https://open.spotify.com/track/0s1XsqBecwpSibK8RSueWM"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2855,6 +2855,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Lost In Time",
+        "url": "https://open.spotify.com/album/7k6BzEe7PQlixQJJbmTKUO"
+      },
+      "artists": [
+        {
+          "name": "Adrian Knows",
+          "url": "https://open.spotify.com/artist/7tzhTKYUV6uWR4BskFhzB9"
+        }
+      ],
+      "duration_ms": 136695,
+      "name": "Lost In Time",
+      "url": "https://open.spotify.com/track/0aHUTp6y31Fr6F7p99edHp"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Right Here",
         "url": "https://open.spotify.com/album/75tGirdosTvIEwrLyg2umg"
       },
@@ -2911,22 +2927,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Lost In Time",
-        "url": "https://open.spotify.com/album/7k6BzEe7PQlixQJJbmTKUO"
-      },
-      "artists": [
-        {
-          "name": "Adrian Knows",
-          "url": "https://open.spotify.com/artist/7tzhTKYUV6uWR4BskFhzB9"
-        }
-      ],
-      "duration_ms": 136695,
-      "name": "Lost In Time",
-      "url": "https://open.spotify.com/track/0aHUTp6y31Fr6F7p99edHp"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Together As One",
         "url": "https://open.spotify.com/album/0ZwmLUsu23EY1ZAaUZc2kv"
       },
@@ -2963,26 +2963,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Here By Now (feat. Lilly Ahlberg)",
-        "url": "https://open.spotify.com/album/3qmMgA7FVycxNIkZsn4gMG"
-      },
-      "artists": [
-        {
-          "name": "Drove",
-          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
-        },
-        {
-          "name": "Lilly Ahlberg",
-          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
-        }
-      ],
-      "duration_ms": 211771,
-      "name": "Here By Now (feat. Lilly Ahlberg)",
-      "url": "https://open.spotify.com/track/6LXoxSbn5NB07w0QqvbeNJ"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "3 Strikes (Terror's Version)",
         "url": "https://open.spotify.com/album/3hPBz2bG48hgGmENQgSiP1"
       },
@@ -2999,6 +2979,26 @@
       "duration_ms": 139032,
       "name": "3 Strikes (Terror's Version)",
       "url": "https://open.spotify.com/track/4pUznRdmMgxkFfU8Std5W6"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Here By Now (feat. Lilly Ahlberg)",
+        "url": "https://open.spotify.com/album/3qmMgA7FVycxNIkZsn4gMG"
+      },
+      "artists": [
+        {
+          "name": "Drove",
+          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
+        },
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "duration_ms": 211771,
+      "name": "Here By Now (feat. Lilly Ahlberg)",
+      "url": "https://open.spotify.com/track/6LXoxSbn5NB07w0QqvbeNJ"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -3151,26 +3151,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Lay Me Down",
-        "url": "https://open.spotify.com/album/5AIWJ1zabzxrzboNYzKlxz"
+        "name": "Midnight Highlight",
+        "url": "https://open.spotify.com/album/2EUAQLvuP3jnHfpuyUeKbm"
       },
       "artists": [
         {
-          "name": "HIDDN",
-          "url": "https://open.spotify.com/artist/0wqZ6mvk4DfOvtQUVniOCX"
+          "name": "Boo Seeka",
+          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
         },
         {
-          "name": "ADDAM",
-          "url": "https://open.spotify.com/artist/3pf0506idhclBF4UAL8z4Q"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+          "name": "upsidedownhead",
+          "url": "https://open.spotify.com/artist/40ZjHfdes7hiAS1RXSP9EB"
         }
       ],
-      "duration_ms": 147531,
-      "name": "Lay Me Down",
-      "url": "https://open.spotify.com/track/7EJVlH2MfseE8YSOhCiNhO"
+      "duration_ms": 194509,
+      "name": "Somebody (feat. upsidedownhead)",
+      "url": "https://open.spotify.com/track/4aZPM2DIO0k5eTQiX0VTkz"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -3191,22 +3187,26 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Midnight Highlight",
-        "url": "https://open.spotify.com/album/2EUAQLvuP3jnHfpuyUeKbm"
+        "name": "Lay Me Down",
+        "url": "https://open.spotify.com/album/5AIWJ1zabzxrzboNYzKlxz"
       },
       "artists": [
         {
-          "name": "Boo Seeka",
-          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
+          "name": "HIDDN",
+          "url": "https://open.spotify.com/artist/0wqZ6mvk4DfOvtQUVniOCX"
         },
         {
-          "name": "upsidedownhead",
-          "url": "https://open.spotify.com/artist/40ZjHfdes7hiAS1RXSP9EB"
+          "name": "ADDAM",
+          "url": "https://open.spotify.com/artist/3pf0506idhclBF4UAL8z4Q"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
         }
       ],
-      "duration_ms": 194509,
-      "name": "Somebody (feat. upsidedownhead)",
-      "url": "https://open.spotify.com/track/4aZPM2DIO0k5eTQiX0VTkz"
+      "duration_ms": 147531,
+      "name": "Lay Me Down",
+      "url": "https://open.spotify.com/track/7EJVlH2MfseE8YSOhCiNhO"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -3267,6 +3267,26 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Decide",
+        "url": "https://open.spotify.com/album/2rKhyTbITXnKnGmpBf7qpx"
+      },
+      "artists": [
+        {
+          "name": "narou",
+          "url": "https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH"
+        },
+        {
+          "name": "James Hersey",
+          "url": "https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Decide",
+      "url": "https://open.spotify.com/track/2py6xMr2thQmJ2VhlpSD8W"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Feel Alive",
         "url": "https://open.spotify.com/album/7HrcX0abyUxFmgpVpFPN9y"
       },
@@ -3287,6 +3307,26 @@
       "duration_ms": 228100,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/7JCHjXDrNDqxfgIeqP39yQ"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Hold On To Me",
+        "url": "https://open.spotify.com/album/0sSxQyiUkhe42OFtBk0ygo"
+      },
+      "artists": [
+        {
+          "name": "The Aston Shuffle",
+          "url": "https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94"
+        },
+        {
+          "name": "Koko LaRoo",
+          "url": "https://open.spotify.com/artist/4ldIyz6hptVfXelMQcdae2"
+        }
+      ],
+      "duration_ms": 168454,
+      "name": "Hold On To Me",
+      "url": "https://open.spotify.com/track/2X3MLtAHDPfwYyg6wfSaiY"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -3323,22 +3363,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Mimesis, Pt. 2",
-        "url": "https://open.spotify.com/album/1Rp8lrDzW4N6UzFmFOxnMF"
-      },
-      "artists": [
-        {
-          "name": "Giants' Nest",
-          "url": "https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn"
-        }
-      ],
-      "duration_ms": 190440,
-      "name": "Looking for Someone",
-      "url": "https://open.spotify.com/track/0itdqhILsN7MBOYr8M9DFw"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/360SX9q5vv9hj2puA2T5jt"
       },
@@ -3351,6 +3375,22 @@
       "duration_ms": 253170,
       "name": "For You",
       "url": "https://open.spotify.com/track/2aqpdslghUfmfvr9OX1ini"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Mimesis, Pt. 2",
+        "url": "https://open.spotify.com/album/1Rp8lrDzW4N6UzFmFOxnMF"
+      },
+      "artists": [
+        {
+          "name": "Giants' Nest",
+          "url": "https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn"
+        }
+      ],
+      "duration_ms": 190440,
+      "name": "Looking for Someone",
+      "url": "https://open.spotify.com/track/0itdqhILsN7MBOYr8M9DFw"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -3395,22 +3435,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/26aQmXr9LU8S1F74vWjBOB"
-      },
-      "artists": [
-        {
-          "name": "Dillistone",
-          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
-        }
-      ],
-      "duration_ms": 194730,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/7ihVBzv0Gz10R2OnyBDuEk"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Touching Me",
         "url": "https://open.spotify.com/album/1bDSoiZzTeV1ogWFC20Uii"
       },
@@ -3423,6 +3447,22 @@
       "duration_ms": 156328,
       "name": "Touching Me",
       "url": "https://open.spotify.com/track/61UGcM7RcpgMsmsokgAnAZ"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/26aQmXr9LU8S1F74vWjBOB"
+      },
+      "artists": [
+        {
+          "name": "Dillistone",
+          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+        }
+      ],
+      "duration_ms": 194730,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/7ihVBzv0Gz10R2OnyBDuEk"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -3527,46 +3567,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Left Or Right",
-        "url": "https://open.spotify.com/album/5b7e1Oph2YSLKHw0hxPMn6"
-      },
-      "artists": [
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "Matthew Nolan",
-          "url": "https://open.spotify.com/artist/00eBZtIQVnVtZHOW1qDDDn"
-        }
-      ],
-      "duration_ms": 193250,
-      "name": "Left Or Right",
-      "url": "https://open.spotify.com/track/4xNYBLLd9x2DA9ZW7DYYcg"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Hold On To Me",
-        "url": "https://open.spotify.com/album/0sSxQyiUkhe42OFtBk0ygo"
-      },
-      "artists": [
-        {
-          "name": "The Aston Shuffle",
-          "url": "https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94"
-        },
-        {
-          "name": "Koko LaRoo",
-          "url": "https://open.spotify.com/artist/4ldIyz6hptVfXelMQcdae2"
-        }
-      ],
-      "duration_ms": 168454,
-      "name": "Hold On To Me",
-      "url": "https://open.spotify.com/track/2X3MLtAHDPfwYyg6wfSaiY"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/6RA60E1Fm7C2Up4aKRDLcV"
       },
@@ -3603,22 +3603,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Decide",
-        "url": "https://open.spotify.com/album/2rKhyTbITXnKnGmpBf7qpx"
+        "name": "Left Or Right",
+        "url": "https://open.spotify.com/album/5b7e1Oph2YSLKHw0hxPMn6"
       },
       "artists": [
         {
-          "name": "narou",
-          "url": "https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH"
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
         },
         {
-          "name": "James Hersey",
-          "url": "https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS"
+          "name": "Matthew Nolan",
+          "url": "https://open.spotify.com/artist/00eBZtIQVnVtZHOW1qDDDn"
         }
       ],
-      "duration_ms": 208106,
-      "name": "Decide",
-      "url": "https://open.spotify.com/track/2py6xMr2thQmJ2VhlpSD8W"
+      "duration_ms": 193250,
+      "name": "Left Or Right",
+      "url": "https://open.spotify.com/track/4xNYBLLd9x2DA9ZW7DYYcg"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -3823,26 +3823,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Only For A Moment EP",
-        "url": "https://open.spotify.com/album/3sIbb1IgiQAnkyZVNwsWZ7"
-      },
-      "artists": [
-        {
-          "name": "Rezident",
-          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
-        },
-        {
-          "name": "Kate Morgan",
-          "url": "https://open.spotify.com/artist/48hiuLYhfSj1EYOrZPAuje"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Muse",
-      "url": "https://open.spotify.com/track/4MaULwvOuXjAmMvOsThiAf"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Love You Loud",
         "url": "https://open.spotify.com/album/7jmrf6IQfmchm8rb9PeoBV"
       },
@@ -3863,6 +3843,26 @@
       "duration_ms": 209763,
       "name": "Love You Loud",
       "url": "https://open.spotify.com/track/74LbmJtLRgeRubfKthJpeT"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Only For A Moment EP",
+        "url": "https://open.spotify.com/album/3sIbb1IgiQAnkyZVNwsWZ7"
+      },
+      "artists": [
+        {
+          "name": "Rezident",
+          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
+        },
+        {
+          "name": "Kate Morgan",
+          "url": "https://open.spotify.com/artist/48hiuLYhfSj1EYOrZPAuje"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Muse",
+      "url": "https://open.spotify.com/track/4MaULwvOuXjAmMvOsThiAf"
     },
     {
       "added_at": "2024-07-19 04:00:00",

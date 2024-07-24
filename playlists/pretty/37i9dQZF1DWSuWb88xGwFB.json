@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 35461,
+  "num_followers": 35471,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Blues for You (Remixes)",
-        "url": "https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC"
-        }
-      ],
-      "duration_ms": 269173,
-      "name": "Blues For You - Hard Dub",
-      "url": "https://open.spotify.com/track/1ooV7Bm7ahkeWzKNwiLItL"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "(Who?) Keeps Changing Your Mind",
         "url": "https://open.spotify.com/album/1dHGk4t778mMsQ02eHNFR1"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 460939,
       "name": "(Who?) Keeps Changing Your Mind? - The Night Mix",
       "url": "https://open.spotify.com/track/5XrnMnFLf7sQ6R9nRXIAGS"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Blues for You (Remixes)",
+        "url": "https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC"
+        }
+      ],
+      "duration_ms": 269173,
+      "name": "Blues For You - Hard Dub",
+      "url": "https://open.spotify.com/track/1ooV7Bm7ahkeWzKNwiLItL"
     },
     {
       "added_at": "2022-03-03 13:59:16",

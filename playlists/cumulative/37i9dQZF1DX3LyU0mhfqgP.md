@@ -2,9 +2,9 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Vũ Cát Tường
+> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Felix Jaehn
 
-1,276 songs - 2 day 20 hr 48 min
+1,277 songs - 2 day 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Bamboo](https://open.spotify.com/track/7aJGnriGYMhFONUgC4yDFh) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Bamboo](https://open.spotify.com/album/5nbiNNINR828Q0QWmZ0pxK) | 4:50 | 2022-01-28 | 2022-07-14 |
 | [Bandiera Bianca \(feat\. Schiuma\)](https://open.spotify.com/track/4OuN0P20LGrI0glXatZqTs) | [Blue Phelix](https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt), [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB), [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [Bandiera Bianca \(feat\. Schiuma\)](https://open.spotify.com/album/0etE8FFEYUrvMnxDKNohy9) | 2:54 | 2024-01-10 | 2024-02-14 |
 | [Bang Bang \(feat\. Donna Missal\)](https://open.spotify.com/track/17JiXMOiulilj4Pgf0Yq04) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Bang Bang \(feat\. Donna Missal\)](https://open.spotify.com/album/5pVAHcpyTloN8dq49tOY9C) | 3:08 | 2022-04-08 | 2022-04-29 |
-| [Bastonada nos Dentes](https://open.spotify.com/track/05e2ruOLoaPqTMo9DPQZ1I) | [Filipe Sambado](https://open.spotify.com/artist/4DBnj3zFrGcRiFME23yT0q) | [Bastonada nos Dentes](https://open.spotify.com/album/0qfpP7JfJkzo3hyT73XoFO) | 3:31 | 2024-07-09 |  |
+| [Bastonada nos Dentes](https://open.spotify.com/track/05e2ruOLoaPqTMo9DPQZ1I) | [Filipe Sambado](https://open.spotify.com/artist/4DBnj3zFrGcRiFME23yT0q) | [Bastonada nos Dentes](https://open.spotify.com/album/0qfpP7JfJkzo3hyT73XoFO) | 3:31 | 2024-07-09 | 2024-07-24 |
 | [Bathroom Floor](https://open.spotify.com/track/5EKDvADWw9Nqz3hTcORq2y) | [KC Rae](https://open.spotify.com/artist/2l6GzV9FZipY3F45P3JErw) | [Think I'm Gonna Die](https://open.spotify.com/album/7FHCXvrXoDLfYZMn1LP9BG) | 3:28 | 2024-01-10 | 2024-03-13 |
 | [bathroom floor](https://open.spotify.com/track/5JvEHdLTVmD6I9a3EMoOjL) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [bathroom floor](https://open.spotify.com/album/2wqQU2IjzsCVRv96k0bd0u) | 3:30 | 2023-01-24 | 2023-03-08 |
 | [BDSM](https://open.spotify.com/track/73WojSE8AHCQvfAcNaDjR8) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [BDSM](https://open.spotify.com/album/4tJMW1h9dl8cTRBdWJoDAf) | 3:29 | 2022-07-08 | 2022-07-20 |
@@ -978,6 +978,7 @@
 | [Shambaralai](https://open.spotify.com/track/7q9zd2m4jFAPCl0ALBuWH1) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu) | [Shambaralai](https://open.spotify.com/album/6b7OxrDMqVYg1SybAYFi7y) | 4:08 | 2023-03-31 | 2023-04-14 |
 | [Shapeshift](https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shapeshift](https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf) | 2:25 | 2022-01-28 | 2023-01-25 |
 | [she](https://open.spotify.com/track/0YbytPAQHKpmAQD3VJfRNo) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [she](https://open.spotify.com/album/1oNLeUk0a0uqLq5qFGmIDg) | 3:39 | 2024-02-13 | 2024-04-10 |
+| [she calls me daddy](https://open.spotify.com/track/12ZuYk6Tx3BMQIaDW6fNHI) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [she calls me daddy](https://open.spotify.com/album/52dHlZgYvDv9BVaISE95hQ) | 2:29 | 2024-07-23 |  |
 | [SHE CAN DANCE](https://open.spotify.com/track/13k1V6Qr0c3ZX20oOiiGfl) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [BIG!](https://open.spotify.com/album/4xrzNkHJXlkvwYyVipesug) | 3:04 | 2022-10-28 | 2022-12-01 |
 | [SHE CAN DANCE](https://open.spotify.com/track/5rWi2q5zyWZzQupvHJgrWB) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [SHE CAN DANCE](https://open.spotify.com/album/0ZvZsk1tWYnw35slDlTXXR) | 3:04 | 2022-07-31 | 2022-10-27 |
 | [She Don’t Want \- ft\. HMLT](https://open.spotify.com/track/0ccMXvrfYJrH8K4EJyIb4N) | [Otomodatchi](https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj), [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6), [HMLT](https://open.spotify.com/artist/0fBHUKzEq03UdHV8nc0KOy) | [She Don’t Want \(ft\. HMLT\)](https://open.spotify.com/album/1QZ0w6xapkb62YH2gmn3d3) | 2:48 | 2023-06-01 | 2023-07-12 |

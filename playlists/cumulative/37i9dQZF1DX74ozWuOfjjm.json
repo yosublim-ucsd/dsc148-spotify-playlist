@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "A Complicated Truth",
+        "url": "https://open.spotify.com/album/3m7GBpcTbTX4Oamc6oeHsj"
+      },
+      "artists": [
+        {
+          "name": "Missy Higgins",
+          "url": "https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305320,
+      "name": "A Complicated Truth",
+      "url": "https://open.spotify.com/track/7liP5U5gYOIb1yjjpP30dZ"
+    },
+    {
+      "album": {
         "name": "A Heart Don't Break Like That",
         "url": "https://open.spotify.com/album/0DCDKUtWSJc3KgIG0JjcwT"
       },
@@ -608,7 +626,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 154000,
       "name": "Asphalt",
       "url": "https://open.spotify.com/track/7wsZgP1uN9IRlcH0NoCVq9"
@@ -2163,6 +2181,24 @@
     },
     {
       "album": {
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/1zOtMlOYvUqvbEiwSuqVGa"
+      },
+      "artists": [
+        {
+          "name": "BATTS",
+          "url": "https://open.spotify.com/artist/1PIsw4oKKnFzyefiLWI7Rg"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245596,
+      "name": "Crisis",
+      "url": "https://open.spotify.com/track/7DDzWtjOLJPz41tmzJZy6o"
+    },
+    {
+      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/0hble8eLgWuU9xMZVwn7EU"
       },
@@ -2730,7 +2766,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 177473,
       "name": "Dramamine",
       "url": "https://open.spotify.com/track/0z0xgpdkvzjJdylAlILbzE"
@@ -9266,7 +9302,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 185597,
       "name": "Sell You The Sun",
       "url": "https://open.spotify.com/track/42XQuJjmpcUddVyP3aUebP"
@@ -10224,7 +10260,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 227289,
       "name": "Sunny Hills",
       "url": "https://open.spotify.com/track/09KpQeXi5Z45DraS2JiSDu"
@@ -11935,6 +11971,24 @@
     },
     {
       "album": {
+        "name": "When You Call",
+        "url": "https://open.spotify.com/album/17JFxXWM6ey8nzM4I6Tihs"
+      },
+      "artists": [
+        {
+          "name": "Greta Stanley",
+          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233426,
+      "name": "When You Call",
+      "url": "https://open.spotify.com/track/1ijOzegJHJZGOOM0CgokKL"
+    },
+    {
+      "album": {
         "name": "Where The Light Used To Lay",
         "url": "https://open.spotify.com/album/5dta0K0dySJ527iiB9AFFa"
       },
@@ -12112,6 +12166,24 @@
       "duration_ms": 161760,
       "name": "Won One",
       "url": "https://open.spotify.com/track/1aTT7TbksmOo2hDw8VCdaM"
+    },
+    {
+      "album": {
+        "name": "Won't Hold My Breath",
+        "url": "https://open.spotify.com/album/6ATPgYP2TcaHNDq2Od6WCs"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Hass",
+          "url": "https://open.spotify.com/artist/1ngeTsUw6Wo2W4TTgTSCcC"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166421,
+      "name": "Won't Hold My Breath",
+      "url": "https://open.spotify.com/track/5UK487suwwzt6dLCeSGlIa"
     },
     {
       "album": {

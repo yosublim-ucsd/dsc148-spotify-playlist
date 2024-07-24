@@ -345,8 +345,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 335 | [Iludiu Já Era \- Ao Vivo](https://open.spotify.com/track/7v7W8YErtBEpnw0cHGuC9e) | [Bruno César e Rodrigo Reys](https://open.spotify.com/artist/5sK9s1gAdA9kdimFfDS6wy) | [Sofrendo em Goiânia \(Ao Vivo\)](https://open.spotify.com/album/0h6od2HkWY5DVvgyNOSYaf) | 2:40 |
 | 336 | [Veja Bem](https://open.spotify.com/track/2KSNWkprFRJH7wh0HQLm9S) | [Alex de Oliveira](https://open.spotify.com/artist/0i9Fo62GoHxhB4OaF8Ua1U) | [Veja Bem](https://open.spotify.com/album/60fUbQM29nXHK7MEbYRHVI) | 4:28 |
 | 337 | [Sofredor Beijoqueiro \- Ao Vivo](https://open.spotify.com/track/4d1HRatu3QGSvGWy9rnIre) | [Luan Kastelan](https://open.spotify.com/artist/4M6lVoZ5HyURV1T3541xNE), [Thiago & Graciano](https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD) | [Sofredor Beijoqueiro \(Ao Vivo\)](https://open.spotify.com/album/65LucT7ntgrwNV1yH3CLgz) | 2:32 |
-| 338 | [Ex Princesinha](https://open.spotify.com/track/5elo4vUEsYHrWULRFQIrLP) | [Luly](https://open.spotify.com/artist/4bhFDt9GzqXHja4ImVog8L) | [Ex Princesinha](https://open.spotify.com/album/3S0FAwytLjb6VVIfLXkvm6) | 2:48 |
-| 339 | [Sem Querer Bebendo](https://open.spotify.com/track/7vF1hkvVDgPANldNKUTmsM) | [Mateuz M7](https://open.spotify.com/artist/007crq5snynGRn6kUTU4ww) | [Do Piseiro ao Pagodin](https://open.spotify.com/album/2pRsNZMtfIo5N574fuelhw) | 2:48 |
+| 338 | [Sem Querer Bebendo](https://open.spotify.com/track/7vF1hkvVDgPANldNKUTmsM) | [Mateuz M7](https://open.spotify.com/artist/007crq5snynGRn6kUTU4ww) | [Do Piseiro ao Pagodin](https://open.spotify.com/album/2pRsNZMtfIo5N574fuelhw) | 2:48 |
+| 339 | [Ex Princesinha](https://open.spotify.com/track/5elo4vUEsYHrWULRFQIrLP) | [Luly](https://open.spotify.com/artist/4bhFDt9GzqXHja4ImVog8L) | [Ex Princesinha](https://open.spotify.com/album/3S0FAwytLjb6VVIfLXkvm6) | 2:48 |
 | 340 | [Até Nunca Mais](https://open.spotify.com/track/2usm5XOFde2zSxaKJ3fNLN) | [Everton e Marcos](https://open.spotify.com/artist/3vWwVA0XeEpUj1hjIBwPzg) | [Ressurgindo das Cinzas](https://open.spotify.com/album/59dkg3TPf2DnpHtWqFQvI9) | 2:51 |
 | 341 | [Calcinha da Namorada](https://open.spotify.com/track/2Ce4P5TrxsAl23Jrbg6EFn) | [Roberto Voice](https://open.spotify.com/artist/1leVwzYb28wqWJc8ZznBEJ) | [Vol 03](https://open.spotify.com/album/16T6vTBj3TNSdf6M4NmT5j) | 2:45 |
 | 342 | [Tudo Bom](https://open.spotify.com/track/4jtRud0mQTvxeEPHfjdQSu) | [Eduardo Queiroz](https://open.spotify.com/artist/6CPHEJGsWPZwr8RBtSBhWv), [Felipe Alexandre](https://open.spotify.com/artist/5Rh2K7f7mavhpoIIkRRT26) | [Boogie Oogie \- Música Original de Eduardo Queiroz](https://open.spotify.com/album/1wjPFJ111QLvoJ0CK3kEOh) | 3:01 |
@@ -364,4 +364,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 354 | [A Mala](https://open.spotify.com/track/63c83YDpAv9lNMki7WxpvD) | [Banda Os3](https://open.spotify.com/artist/11h78bXFcmu3cQrNsRSulG) | [A Mala](https://open.spotify.com/album/4g6F3WuVRHQVHQSKaDxVmK) | 2:44 |
 | 355 | [Ciúme Doido](https://open.spotify.com/track/02ci6a7onTK8CT6NEn6XoY) | [Caúzzo](https://open.spotify.com/artist/7ITxrki6AXPCK5mnUSTs1O) | [Ciúme Doido](https://open.spotify.com/album/3fA6Nv5mzfzGc9hcESbkh6) | 2:57 |
 
-Snapshot ID: `AbXZ4gAAAACJWGK28hYKg3fibIR9Eway`
+Snapshot ID: `AbXfggAAAABGiIitExFc4Niv2WmsGWIG`

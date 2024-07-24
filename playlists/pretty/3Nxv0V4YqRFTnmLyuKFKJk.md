@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Nxv0V4YqRFTnmLyuKFKJk.md) - [plain]
 
 > CURATED BY WARREN ZEIDERS\-\- these are his summer country essentials!  Keep checking back to see who will curate next! This is the best of country.
 
-[Topsify](https://open.spotify.com/user/topsify) - 60,434 likes - 88 songs - 4 hr 42 min
+[Topsify](https://open.spotify.com/user/topsify) - 60,431 likes - 88 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

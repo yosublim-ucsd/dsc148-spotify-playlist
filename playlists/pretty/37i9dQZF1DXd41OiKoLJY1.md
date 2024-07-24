@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Jem\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,427 likes - 129 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,438 likes - 129 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 9 | [Langit at Lupa](https://open.spotify.com/track/3dvx6L3w6eJnfO9308f0ms) | [NaÏV](https://open.spotify.com/artist/09UWVORoWNvb4g6A4CBDuF) | [Langit at Lupa](https://open.spotify.com/album/0zjLI9aNRNmwY08F2p0LIx) | 4:12 |
 | 10 | [Melooodiya](https://open.spotify.com/track/2s1aGvAJ72JGgutfqzyxnh) | [KPC](https://open.spotify.com/artist/38bPbvvWC0Le02oOntVqeJ) | [Melooodiya](https://open.spotify.com/album/4vV1KPKwVi9SxIl0kSUHQz) | 3:14 |
 | 11 | [Deja Vu](https://open.spotify.com/track/2In0JPw2iuh9WWC7Zvs0jy) | [Lorenz](https://open.spotify.com/artist/0fZcZCndBWE3BfnL6ivACA), [KYLIX](https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs) | [Deja Vu](https://open.spotify.com/album/5mxbKgjCodrVuZhm9p6WV2) | 3:10 |
-| 12 | [ROCKSTARS \(feat\. CBAKE$\)](https://open.spotify.com/track/5xXN4smeIBC4jJ5C3ZbcqP) | [Cisco](https://open.spotify.com/artist/1hQJe9CyAmPBXJ8Cz0Krnq), [CBAKE$](https://open.spotify.com/artist/4gb1sxw9cTOxLcVrdshd3q) | [ROCKSTARS \(feat\. CBAKE$\)](https://open.spotify.com/album/5dPLS706HdOQigJ22Uy0aT) | 2:22 |
+| 12 | [ROCKSTARS](https://open.spotify.com/track/5xXN4smeIBC4jJ5C3ZbcqP) | [Cisco](https://open.spotify.com/artist/1hQJe9CyAmPBXJ8Cz0Krnq), [CBAKE$](https://open.spotify.com/artist/4gb1sxw9cTOxLcVrdshd3q) | [ROCKSTARS](https://open.spotify.com/album/5dPLS706HdOQigJ22Uy0aT) | 2:22 |
 | 13 | [Paulit\-ulit](https://open.spotify.com/track/0bIi6AzC6NaoTc8Q9rmGq3) | [Caren Tevanny](https://open.spotify.com/artist/3p3NIGIG5T7nlV5FIhh0M1) | [Paulit\-ulit](https://open.spotify.com/album/0nvluHuedszYTden67p6cX) | 3:36 |
 | 14 | [drawing board](https://open.spotify.com/track/7KpmiNuX3WgyNEdVBOYPiz) | [Reanne Borela](https://open.spotify.com/artist/4VesHAVAMMJsmXZGMEo4IA) | [drawing board](https://open.spotify.com/album/7c63E98XFl8jgiQF6hOjCw) | 4:02 |
 | 15 | [Martyr](https://open.spotify.com/track/0lbycuxVujxZwLeCWZ7IzM) | [Riscain](https://open.spotify.com/artist/75u8xQcO628eeqr5DiODWD), [Shendy](https://open.spotify.com/artist/1nrfLsbRoVMtth6D8cslhL) | [Martyr](https://open.spotify.com/album/5u3aJUE3c6ga5PSC9nkLTR) | 2:19 |

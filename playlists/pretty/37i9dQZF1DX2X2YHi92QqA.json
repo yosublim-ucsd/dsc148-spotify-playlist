@@ -1,6 +1,6 @@
 {
   "description": "\u0427\u0430\u0441 \u043f\u0435\u0440\u0435\u043f\u043e\u0447\u0438\u0442\u0438 \ud83c\udf3b\ud83e\uddd8\ud83c\udf32",
-  "num_followers": 30191,
+  "num_followers": 30204,
   "original_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -579,8 +579,8 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u0422\u0435\u0431\u0435 - \u0441\u043e\u0431\u0456",
-        "url": "https://open.spotify.com/album/4c9X2MvAHcldczNbYTaP9r"
+        "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
+        "url": "https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
         }
       ],
-      "duration_ms": 122666,
-      "name": "\u0422\u0435\u0431\u0435 - \u0441\u043e\u0431\u0456",
-      "url": "https://open.spotify.com/track/5YKrl96QnEDPQNYKTCfokP"
+      "duration_ms": 139805,
+      "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
+      "url": "https://open.spotify.com/track/6FTXegNMKv59Kalaukq6pC"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -695,8 +695,8 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
-        "url": "https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf"
+        "name": "\u0422\u0435\u0431\u0435 - \u0441\u043e\u0431\u0456",
+        "url": "https://open.spotify.com/album/4c9X2MvAHcldczNbYTaP9r"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
         }
       ],
-      "duration_ms": 139805,
-      "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
-      "url": "https://open.spotify.com/track/6FTXegNMKv59Kalaukq6pC"
+      "duration_ms": 122666,
+      "name": "\u0422\u0435\u0431\u0435 - \u0441\u043e\u0431\u0456",
+      "url": "https://open.spotify.com/track/5YKrl96QnEDPQNYKTCfokP"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
+        "name": "\u041b\u0456\u0442\u043e\u043c",
+        "url": "https://open.spotify.com/album/1MC5YNrcI3dLWh9aFEmmpy"
+      },
+      "artists": [
+        {
+          "name": "\u0413\u0435\u043b\u044f \u0417\u043e\u0437\u0443\u043b\u044f",
+          "url": "https://open.spotify.com/artist/5NR8eODM4CQ2X6rBuGpZ2B"
+        }
+      ],
+      "duration_ms": 133384,
+      "name": "\u041b\u0456\u0442\u043e\u043c",
+      "url": "https://open.spotify.com/track/00JNUr987Adbk9Y8Toukd7"
+    },
+    {
+      "added_at": "2024-07-12 16:07:22",
+      "album": {
         "name": "\u0422\u0430\u043a\u0456 \u0440\u0456\u0437\u043d\u0456",
         "url": "https://open.spotify.com/album/6Dtic6mqZLUhKDelOgMMXk"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 154527,
       "name": "\u043c\u0435\u0442\u0430\u043c\u043e\u0440\u0444\u043e\u0441\u0456\u043d\u044c",
       "url": "https://open.spotify.com/track/4rLvqRtMQN0u5NQmPrtZkT"
-    },
-    {
-      "added_at": "2024-07-12 16:07:22",
-      "album": {
-        "name": "\u041b\u0456\u0442\u043e\u043c",
-        "url": "https://open.spotify.com/album/1MC5YNrcI3dLWh9aFEmmpy"
-      },
-      "artists": [
-        {
-          "name": "\u0413\u0435\u043b\u044f \u0417\u043e\u0437\u0443\u043b\u044f",
-          "url": "https://open.spotify.com/artist/5NR8eODM4CQ2X6rBuGpZ2B"
-        }
-      ],
-      "duration_ms": 133384,
-      "name": "\u041b\u0456\u0442\u043e\u043c",
-      "url": "https://open.spotify.com/track/00JNUr987Adbk9Y8Toukd7"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -971,6 +971,26 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
+        "name": "Small things",
+        "url": "https://open.spotify.com/album/3TEpoDnyz0GjzCyTCq5ptu"
+      },
+      "artists": [
+        {
+          "name": "NOIRA",
+          "url": "https://open.spotify.com/artist/0UWpD8yCQsAW8g5hL7AtKo"
+        },
+        {
+          "name": "TIMEA",
+          "url": "https://open.spotify.com/artist/6r2KeAcGJeDDXmQoFdlcw1"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Small things",
+      "url": "https://open.spotify.com/track/0pIkEi390vLhzMPLpTqhHD"
+    },
+    {
+      "added_at": "2024-07-12 16:07:22",
+      "album": {
         "name": "\u0412\u043e\u043b\u044f (full version)",
         "url": "https://open.spotify.com/album/4ZnOl68KK8mpwi9D13Fzhf"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 197546,
       "name": "Spinnin'",
       "url": "https://open.spotify.com/track/2xWPDIps7ger8WRUE84bg9"
-    },
-    {
-      "added_at": "2024-07-12 16:07:22",
-      "album": {
-        "name": "Small things",
-        "url": "https://open.spotify.com/album/3TEpoDnyz0GjzCyTCq5ptu"
-      },
-      "artists": [
-        {
-          "name": "NOIRA",
-          "url": "https://open.spotify.com/artist/0UWpD8yCQsAW8g5hL7AtKo"
-        },
-        {
-          "name": "TIMEA",
-          "url": "https://open.spotify.com/artist/6r2KeAcGJeDDXmQoFdlcw1"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Small things",
-      "url": "https://open.spotify.com/track/0pIkEi390vLhzMPLpTqhHD"
     }
   ],
   "unique_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",

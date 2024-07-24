@@ -2,7 +2,7 @@
 
 ### [This Is Tokyo Ska Paradise Orchestra](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tOuj6)
 
-> This Is Tokyo Ska Paradise Orchestra\. Los temas esenciales, todos en una lista.
+> This is Tokyo Ska Paradise Orchestra\. Todos os maiores hits em uma só playlist.
 
 73 songs - 4 hr 49 min
 

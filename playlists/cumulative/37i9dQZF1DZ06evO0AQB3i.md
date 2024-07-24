@@ -2,7 +2,7 @@
 
 ### [This Is Alabama Shakes](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0AQB3i)
 
-> This Is Alabama Shakes\. Los temas esenciales, todos en una lista.
+> This is Alabama Shakes\. The essential tracks, all in one playlist.
 
 23 songs - 1 hr 20 min
 

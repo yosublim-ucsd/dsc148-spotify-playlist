@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Tony Trischka
 
-592 songs - 1 day 11 hr 11 min
+593 songs - 1 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,7 +533,7 @@
 | [Traveler](https://open.spotify.com/track/5ytipdvaQRgOQvRARYQD4z) | [The Foreign Landers](https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv) | [Travelers Rest](https://open.spotify.com/album/0nx6Drh6lFh27sZ5uNQwRy) | 3:37 | 2023-06-23 | 2024-04-07 |
 | [Traveling the Highway Home](https://open.spotify.com/track/4tDtaYKaHte0FzX3KH6Cgo) | [The Grascals](https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm) | [Traveling the Highway Home](https://open.spotify.com/album/7eSMID0T1b6W3PbPRybdPc) | 2:43 | 2021-12-17 | 2022-07-16 |
 | [Tried to Ruin My Name](https://open.spotify.com/track/2vSnv3tjh9FbogKRWrrFo1) | [Cory Walker](https://open.spotify.com/artist/3LHp5fPvJvKchR2MB4E1ZZ), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Tried to Ruin My Name](https://open.spotify.com/album/6Ciri7OY3x7Rv5DrdKabyN) | 2:23 | 2023-08-25 | 2023-10-06 |
-| [Trip Around The Sun](https://open.spotify.com/track/47tqsLKc4dfIcaeQ8W8V1f) | [Bronwyn Keith\-Hynes](https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO), [Dierks Bentley](https://open.spotify.com/artist/706EDprXH10iiLcPZfEzgf) | [Trip Around the Sun](https://open.spotify.com/album/2jAtYiIh9gHlBr1ZmwMWJb) | 4:20 | 2024-07-13 |  |
+| [Trip Around The Sun](https://open.spotify.com/track/47tqsLKc4dfIcaeQ8W8V1f) | [Bronwyn Keith\-Hynes](https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO), [Dierks Bentley](https://open.spotify.com/artist/706EDprXH10iiLcPZfEzgf) | [Trip Around the Sun](https://open.spotify.com/album/2jAtYiIh9gHlBr1ZmwMWJb) | 4:20 | 2024-07-13 | 2024-07-24 |
 | [Troubled Times](https://open.spotify.com/track/0mF8LPhWriCL78r2h2UnXU) | [The Muddy Souls](https://open.spotify.com/artist/1MNJv5xS7pUvBg3ljFLTX3) | [The Raven](https://open.spotify.com/album/0UNap2Kryw872d7Yt4OtCC) | 4:12 | 2022-03-11 | 2022-07-29 |
 | [Turn Me into a Diamond](https://open.spotify.com/track/19VRvX8xmTABSpVa9eiIFF) | [Sharell Bryant](https://open.spotify.com/artist/4yAeOCzeSufeXn1Vccgi7P) | [Turn Me into a Diamond](https://open.spotify.com/album/1gNvyjqoYmm0Ok3imuiZJA) | 2:52 | 2021-12-17 | 2024-01-27 |
 | [Unholy Water](https://open.spotify.com/track/2oEXzg6PzHXQ3Mt6Ar4fYt) | [Sister Sadie](https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8) | [Sister Sadie](https://open.spotify.com/album/5ImW9Rgw0hvn5Sh1naKrur) | 3:24 | 2022-07-22 | 2022-08-30 |
@@ -557,6 +557,7 @@
 | [Wellington](https://open.spotify.com/track/1SFzKEJOIuCDv7Vp2e6YrF) | [Allison de Groot & Tatiana Hargreaves](https://open.spotify.com/artist/1VEQZsxHsrlZDP7DFsevbe) | [Hurricane Clarice](https://open.spotify.com/album/5XreExffe2MWIUZKfnOm76) | 3:23 | 2022-03-25 | 2022-07-14 |
 | [What I Didn't Say](https://open.spotify.com/track/7AOrtGwHK6TuD0j8E7crxb) | [Volume Five](https://open.spotify.com/artist/1M5MzZDx6FRFfKQP0X23IX) | [What I Didn't Say](https://open.spotify.com/album/51LHDpv3b6ptMiXLqeiy6P) | 2:42 | 2022-03-25 | 2022-07-02 |
 | [What Kind of Fool Are You?](https://open.spotify.com/track/7e6VBbNwooVpAkE2USKKND) | [Benson](https://open.spotify.com/artist/6bPV28MZGhKrAelauCkYto) | [What Kind of Fool Are You?](https://open.spotify.com/album/0atG8lmz5sOf6aY9HIzBES) | 3:33 | 2022-06-25 | 2022-07-09 |
+| [What People Think of Me Is None of My Business](https://open.spotify.com/track/5hk7aR6Qg3PUlZxUO0Qoeh) | [Robert Hale](https://open.spotify.com/artist/5EW8tdIOzONH7GWxaM07Jb) | [What People Think of Me Is None of My Business](https://open.spotify.com/album/5AO7gQRmQuWW24y0LoSxvm) | 2:19 | 2024-07-13 |  |
 | [What the Years Do](https://open.spotify.com/track/460M2nfu0pI3JpGfT3CWdB) | [Balsam Range](https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU) | [What the Years Do](https://open.spotify.com/album/3XU0wy0OBrqc3ewwtV1K5T) | 3:20 | 2023-03-24 | 2023-05-27 |
 | [What's It Gonna Take](https://open.spotify.com/track/0cUNw4XQ0KnITQnB6OibPp) | [Anya Hinkle](https://open.spotify.com/artist/6g2FWv22yEWMqEiaEv5CNc), [Graham Sharp](https://open.spotify.com/artist/2VgjLUdJQfjmjy4qFSeftQ) | [What's It Gonna Take](https://open.spotify.com/album/2KB4XKjxrDHZVR44CNkeJQ) | 4:21 | 2021-12-17 | 2022-07-27 |
 | [Wheels Up \(feat\. Sierra Hull & Molly Tuttle\)](https://open.spotify.com/track/38yl3Y2LbWFmphbaVwvKEy) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Wheels Up \(feat\. Sierra Hull & Molly Tuttle\)](https://open.spotify.com/album/0GtT7uD8ebTxZ26ExOksy9) | 4:15 | 2021-12-17 | 2023-04-17 |

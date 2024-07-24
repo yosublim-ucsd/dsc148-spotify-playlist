@@ -1,6 +1,6 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 105312,
+  "num_followers": 105427,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "HOLD ON",
+        "url": "https://open.spotify.com/album/44IVa7WdCY2II6a9AVnwpe"
+      },
+      "artists": [
+        {
+          "name": "ill peach",
+          "url": "https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt"
+        }
+      ],
+      "duration_ms": 245454,
+      "name": "HOLD ON",
+      "url": "https://open.spotify.com/track/3PspK6baTu8laBFO32ArQL"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Universal Credit (Deluxe)",
         "url": "https://open.spotify.com/album/4p0i4iUDBybIceENugG7gl"
       },
@@ -683,22 +699,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "HOLD ON",
-        "url": "https://open.spotify.com/album/44IVa7WdCY2II6a9AVnwpe"
-      },
-      "artists": [
-        {
-          "name": "ill peach",
-          "url": "https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt"
-        }
-      ],
-      "duration_ms": 245454,
-      "name": "HOLD ON",
-      "url": "https://open.spotify.com/track/3PspK6baTu8laBFO32ArQL"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "CATALYST",
         "url": "https://open.spotify.com/album/5Il5xcMQhzdH6YFKZH3VGU"
       },
@@ -719,22 +719,18 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Passport Bros (with J. Cole)",
-        "url": "https://open.spotify.com/album/2iajSKu8NgMAWhNNXDaIGz"
+        "name": "Henge",
+        "url": "https://open.spotify.com/album/0B9BY82cIWo4DjRMkUOeeW"
       },
       "artists": [
         {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
         }
       ],
-      "duration_ms": 164551,
-      "name": "Passport Bros (with J. Cole)",
-      "url": "https://open.spotify.com/track/5EAxubrBUiiNnbx6ygl8cI"
+      "duration_ms": 222200,
+      "name": "The Stranger",
+      "url": "https://open.spotify.com/track/6vWKSlMiyGlsWzRw8REBxE"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -755,18 +751,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Henge",
-        "url": "https://open.spotify.com/album/0B9BY82cIWo4DjRMkUOeeW"
+        "name": "Passport Bros (with J. Cole)",
+        "url": "https://open.spotify.com/album/2iajSKu8NgMAWhNNXDaIGz"
       },
       "artists": [
         {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 222200,
-      "name": "The Stranger",
-      "url": "https://open.spotify.com/track/6vWKSlMiyGlsWzRw8REBxE"
+      "duration_ms": 164551,
+      "name": "Passport Bros (with J. Cole)",
+      "url": "https://open.spotify.com/track/5EAxubrBUiiNnbx6ygl8cI"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1077,6 +1077,22 @@
       "url": "https://open.spotify.com/track/5tw5H51GeMaSBcD0CHKsBq"
     },
     {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "TOMMY",
+        "url": "https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1"
+      },
+      "artists": [
+        {
+          "name": "WALKER.",
+          "url": "https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB"
+        }
+      ],
+      "duration_ms": 212521,
+      "name": "TOMMY",
+      "url": "https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po"
+    },
+    {
       "added_at": "2024-01-08 18:27:55",
       "album": {
         "name": "Always Get Through To You",
@@ -1095,22 +1111,6 @@
       "duration_ms": 203130,
       "name": "Always Get Through To You",
       "url": "https://open.spotify.com/track/7AzXnrWEKbHxjOX1NRuKtn"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "TOMMY",
-        "url": "https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1"
-      },
-      "artists": [
-        {
-          "name": "WALKER.",
-          "url": "https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB"
-        }
-      ],
-      "duration_ms": 212521,
-      "name": "TOMMY",
-      "url": "https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "THAT GIRL",
-        "url": "https://open.spotify.com/album/0dCFboe6x4Nz3e7LkGWIgE"
-      },
-      "artists": [
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        }
-      ],
-      "duration_ms": 125800,
-      "name": "THAT GIRL",
-      "url": "https://open.spotify.com/track/3WSlZ5C7P9rN98QG7AYcB5"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "I Go Get It",
         "url": "https://open.spotify.com/album/1NCyCAeI4jdb8HTymUhouL"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 131320,
       "name": "I Go Get It",
       "url": "https://open.spotify.com/track/4ADaOjVuuwWbRrOyvayozt"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "THAT GIRL",
+        "url": "https://open.spotify.com/album/0dCFboe6x4Nz3e7LkGWIgE"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "duration_ms": 125800,
+      "name": "THAT GIRL",
+      "url": "https://open.spotify.com/track/3WSlZ5C7P9rN98QG7AYcB5"
     },
     {
       "added_at": "2023-11-20 15:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This Is Eden Mu\u00f1oz. Los temas esenciales, todos en una lista.",
-  "num_followers": 238649,
+  "num_followers": 238777,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpxPgAAAAACw6BXiU2MBn3BYeAZxL8wd",
+  "snapshot_id": "Zp2hAAAAAAAAu1iayByUVor8lAtfAsW+",
   "tracks": [
     {
       "added_at": null,
@@ -727,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Del Trigo",
+        "url": "https://open.spotify.com/album/0Xf6CfmEEadTIyqmxWLImy"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Cheko Mg",
+          "url": "https://open.spotify.com/artist/6gSAzGq3CloVM0kyt8uOKA"
+        }
+      ],
+      "duration_ms": 178864,
+      "name": "El Del Trigo",
+      "url": "https://open.spotify.com/track/0AVtMI07ElJJxViPO2Dg92"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Me Ense\u00f1aste",
         "url": "https://open.spotify.com/album/1p1LvWM0ysgMEPmK8paYm0"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 222571,
       "name": "MX - MAD",
       "url": "https://open.spotify.com/track/1CdFg273lkDDOA13pV8FXX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Del Trigo",
-        "url": "https://open.spotify.com/album/0Xf6CfmEEadTIyqmxWLImy"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Cheko Mg",
-          "url": "https://open.spotify.com/artist/6gSAzGq3CloVM0kyt8uOKA"
-        }
-      ],
-      "duration_ms": 178864,
-      "name": "El Del Trigo",
-      "url": "https://open.spotify.com/track/0AVtMI07ElJJxViPO2Dg92"
     },
     {
       "added_at": null,

@@ -1,13 +1,33 @@
 {
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this instrumental playlist for reflection and calm.",
-  "num_followers": 62601,
+  "num_followers": 62602,
   "original_name": "Wellness",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAHOZskpaE1x7mlSrwAp3+09tJ8pshx",
+  "snapshot_id": "AAAHPjZ7q+NgoMTzsAKau2YihJ+wp3Pa",
   "tracks": [
+    {
+      "added_at": "2024-07-23 20:22:15",
+      "album": {
+        "name": "3 Intermezzi, Op. 117/No. 1 in E-Flat Major",
+        "url": "https://open.spotify.com/album/0yJELcW2IEAD2iXEjLrqp9"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "duration_ms": 310019,
+      "name": "3 Intermezzi, Op. 117: 3 Intermezzi, Op. 117/No. 1 in E-Flat Major",
+      "url": "https://open.spotify.com/track/2qMnYj3hfOHDhQamPx3eLp"
+    },
     {
       "added_at": "2024-07-04 20:01:27",
       "album": {
@@ -25,6 +45,26 @@
       "url": "https://open.spotify.com/track/2TCBiOu9kpsk0JaC8vwTOf"
     },
     {
+      "added_at": "2024-07-23 20:23:22",
+      "album": {
+        "name": "Toccata in C Major, BWV 564: II. Adagio (Arr. for Two Pianos by Alexander Kelberine)",
+        "url": "https://open.spotify.com/album/2nuE8i9zbN65jkakqyJ9lp"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Tal & Groethuysen",
+          "url": "https://open.spotify.com/artist/3jcDwPU3uLhLAt5WZR1suZ"
+        }
+      ],
+      "duration_ms": 224298,
+      "name": "Toccata in C Major, BWV 564: II. Adagio (Arr. for Two Pianos by Alexander Kelberine)",
+      "url": "https://open.spotify.com/track/0T7D1lgQz8fCUHGMF9YI4H"
+    },
+    {
       "added_at": "2024-07-04 20:01:11",
       "album": {
         "name": "Walls",
@@ -39,26 +79,6 @@
       "duration_ms": 176333,
       "name": "Walls",
       "url": "https://open.spotify.com/track/35bdYC7xm7koy0KoyKS4Bw"
-    },
-    {
-      "added_at": "2024-07-04 20:00:54",
-      "album": {
-        "name": "6 Piano Pieces, Op. 118/No. 2: Intermezzo in A Major",
-        "url": "https://open.spotify.com/album/5GLie4IiAzBJHlHe0swGY1"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Igor Levit",
-          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
-        }
-      ],
-      "duration_ms": 353739,
-      "name": "6 Piano Pieces, Op. 118: 6 Piano Pieces, Op. 118/No. 2: Intermezzo in A Major",
-      "url": "https://open.spotify.com/track/2hXtkD5vFf6flaZWlVA6HE"
     },
     {
       "added_at": "2024-07-04 20:01:50",
@@ -81,26 +101,6 @@
       "url": "https://open.spotify.com/track/7fxAIhOSzm4l5y30HBaezt"
     },
     {
-      "added_at": "2024-07-04 19:56:22",
-      "album": {
-        "name": "Two Pieces for Piano Solo/I. Augenblick",
-        "url": "https://open.spotify.com/album/0js0BkJf2G1rEHjvnwUHFv"
-      },
-      "artists": [
-        {
-          "name": "Valentin Silvestrov",
-          "url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6"
-        },
-        {
-          "name": "Alexei Lubimov",
-          "url": "https://open.spotify.com/artist/0604Eow92EXTCLStZOUNlG"
-        }
-      ],
-      "duration_ms": 91133,
-      "name": "Two Pieces for Piano Solo: I. Augenblick",
-      "url": "https://open.spotify.com/track/5CCZkBpvYzsTaZGfxM3T0g"
-    },
-    {
       "added_at": "2024-07-04 19:55:59",
       "album": {
         "name": "Mon Coeur, B\u00e9ton Brut",
@@ -115,6 +115,26 @@
       "duration_ms": 170909,
       "name": "Mon Coeur, B\u00e9ton Brut",
       "url": "https://open.spotify.com/track/5173dCKZ2LebM7PJFTTv3S"
+    },
+    {
+      "added_at": "2024-07-23 20:22:40",
+      "album": {
+        "name": "Kitsch-Musik/IV. Moderato",
+        "url": "https://open.spotify.com/album/0YRUzXeBVY2wfIkzkUhOWI"
+      },
+      "artists": [
+        {
+          "name": "Valentin Silvestrov",
+          "url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6"
+        },
+        {
+          "name": "Alexei Lubimov",
+          "url": "https://open.spotify.com/artist/0604Eow92EXTCLStZOUNlG"
+        }
+      ],
+      "duration_ms": 176253,
+      "name": "Kitsch-Musik: IV. Moderato",
+      "url": "https://open.spotify.com/track/668HM3SxGjFs3U2yfV2ZGb"
     },
     {
       "added_at": "2024-07-04 19:55:40",
@@ -147,6 +167,26 @@
       "duration_ms": 208480,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/32q8GrkqQotlZjWLJMHyF8"
+    },
+    {
+      "added_at": "2024-07-04 20:00:54",
+      "album": {
+        "name": "6 Piano Pieces, Op. 118/No. 2: Intermezzo in A Major",
+        "url": "https://open.spotify.com/album/5GLie4IiAzBJHlHe0swGY1"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "duration_ms": 353739,
+      "name": "6 Piano Pieces, Op. 118: 6 Piano Pieces, Op. 118/No. 2: Intermezzo in A Major",
+      "url": "https://open.spotify.com/track/2hXtkD5vFf6flaZWlVA6HE"
     },
     {
       "added_at": "2024-06-03 14:35:53",
@@ -315,6 +355,26 @@
       "duration_ms": 163160,
       "name": "La Sieste",
       "url": "https://open.spotify.com/track/48lCGg8M4kDMJk9SAsTWgO"
+    },
+    {
+      "added_at": "2024-07-04 19:56:22",
+      "album": {
+        "name": "Two Pieces for Piano Solo/I. Augenblick",
+        "url": "https://open.spotify.com/album/0js0BkJf2G1rEHjvnwUHFv"
+      },
+      "artists": [
+        {
+          "name": "Valentin Silvestrov",
+          "url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6"
+        },
+        {
+          "name": "Alexei Lubimov",
+          "url": "https://open.spotify.com/artist/0604Eow92EXTCLStZOUNlG"
+        }
+      ],
+      "duration_ms": 91133,
+      "name": "Two Pieces for Piano Solo: I. Augenblick",
+      "url": "https://open.spotify.com/track/5CCZkBpvYzsTaZGfxM3T0g"
     },
     {
       "added_at": "2024-04-01 14:05:02",

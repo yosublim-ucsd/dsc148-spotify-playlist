@@ -4,7 +4,7 @@
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-208 songs - 15 hr 8 min
+209 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Let The Light Shine In](https://open.spotify.com/track/4r0QFrGKt8RzFGadAn2vlm) | [Darren Tate](https://open.spotify.com/artist/16330UNmPRfGUXZC6flXqI), [Jono Grant](https://open.spotify.com/artist/3Cs2Bm3Qwc9It4om0KVK8E) | [Let The Light Shine In \(Crusy & Jose De Mara Remix\)](https://open.spotify.com/album/76CKJTVGc65vGDcGbmoR56) | 3:18 | 2023-12-27 | 2024-01-12 |
 | [Linking People](https://open.spotify.com/track/7GDHnh0uFnONkHDDnGkFN7) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [Linking People](https://open.spotify.com/album/5YuQtNZ5nWZYykCxXFjiM4) | 8:34 | 2022-04-13 | 2022-07-20 |
 | [Lizard](https://open.spotify.com/track/4t12tfpnld2b3XwXsNfEgt) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [The Double Album](https://open.spotify.com/album/6YvP4jnV1o5QL02rykTm1a) | 5:13 | 2023-08-11 |  |
+| [Loneliness](https://open.spotify.com/track/5xspb4pHCUdfQvWc5y3e51) | [Tomcraft](https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp) | [Trance \- The Early Years, Vol\. 2 \(2002\-2007\)](https://open.spotify.com/album/47D7XEBUhrgSh1CaVixJLh) | 3:48 | 2024-07-23 |  |
 | [Loneliness \- Radio Cut](https://open.spotify.com/track/0i5PmXaEZ6LChGzvHgm6iy) | [Tomcraft](https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp) | [Loneliness](https://open.spotify.com/album/2Q7qJLN5RwBvfDV6j1Ew4d) | 3:46 | 2023-08-11 | 2024-01-14 |
 | [Loneliness \- Radio Cut](https://open.spotify.com/track/7mPrEblYX8GLGRXLmPL8ws) | [Tomcraft](https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp) | [Loneliness](https://open.spotify.com/album/5LOLNALdP8O97CMeGdqOOM) | 3:48 | 2023-03-10 | 2023-10-19 |
 | [Lonely Girl \- Gareth Emery Remix \(Edit\)](https://open.spotify.com/track/0AyySV2exaNwoyK99nTfeQ) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Oceanlab](https://open.spotify.com/artist/0aTdKgInKeMlNnwWSa1YPT), [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi) | [Fatum Presents: 20 Years Of Anjunabeats](https://open.spotify.com/album/0knnadrIb51q2XTdSMrTC3) | 4:15 | 2022-12-28 | 2023-05-17 |
@@ -162,7 +163,7 @@
 | [Silence \- Tiësto's In Search Of Sunrise Remix](https://open.spotify.com/track/4bUpfS6TyKz2tWfpimRGU4) | [Delerium](https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Trance Anthems Top 60](https://open.spotify.com/album/72XiReSpOBjWiKuF83byA6) | 3:56 | 2023-12-27 | 2024-01-12 |
 | [Someone \- Original Mix](https://open.spotify.com/track/2IZnE8sBqz4X8zgaRiAM7p) | [Ascension](https://open.spotify.com/artist/6R02LUvSJaMB0WXZ8cRHRQ) | [Someone](https://open.spotify.com/album/3cYHxVX4Q14aKb0XUGZNLK) | 8:56 | 2022-04-13 | 2022-11-12 |
 | [Something](https://open.spotify.com/track/3e9L9HiHKcfYLAga28Vmcf) | [Lasgo](https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp) | [Some Things](https://open.spotify.com/album/7d5N4KB4rlO1kqcoyLdm3h) | 3:40 | 2022-04-13 | 2022-12-28 |
-| [Southern Sun](https://open.spotify.com/track/6GZO2jSzaULhCH30DakBhu) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Carla Werner](https://open.spotify.com/artist/3SMF5D7b8NM3YFSsgu9WQ9) | [Southern Sun / Ready Steady Go](https://open.spotify.com/album/10vaUmlTOpclr1x7xjYS8h) | 3:55 | 2023-08-11 |  |
+| [Southern Sun](https://open.spotify.com/track/6GZO2jSzaULhCH30DakBhu) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Carla Werner](https://open.spotify.com/artist/3SMF5D7b8NM3YFSsgu9WQ9) | [Southern Sun / Ready Steady Go](https://open.spotify.com/album/10vaUmlTOpclr1x7xjYS8h) | 3:55 | 2023-08-11 | 2024-07-24 |
 | [Southern Sun \- DJ Tiësto Remix](https://open.spotify.com/track/1bAHNj6NQQqbRmnlWyOQvC) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Carla Werner](https://open.spotify.com/artist/3SMF5D7b8NM3YFSsgu9WQ9), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Southern Sun / Ready Steady Go](https://open.spotify.com/album/10vaUmlTOpclr1x7xjYS8h) | 9:44 | 2022-04-13 | 2022-12-28 |
 | [Stay \- Original Single Edit](https://open.spotify.com/track/26oBh1fvCfQ5ZaBAgwnLAw) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [La Trec](https://open.spotify.com/artist/744Aa9RuKugKrpF6nt1kbv) | [Stay](https://open.spotify.com/album/1olrz5rnUp5iYb1KEztPVU) | 3:32 | 2023-08-11 |  |
 | [Stonecold \- Radio Edit](https://open.spotify.com/track/0DqhPqYIRfWAylYpBBtnNd) | [Bossanova](https://open.spotify.com/artist/3WZRhTTwhsDVDbpsy2mi7l) | [A State Of Trance Classics, Vol\. 7](https://open.spotify.com/album/7fV9Ip8u5o1BRMPPrpZhNF) | 3:30 | 2022-04-13 | 2022-07-29 |

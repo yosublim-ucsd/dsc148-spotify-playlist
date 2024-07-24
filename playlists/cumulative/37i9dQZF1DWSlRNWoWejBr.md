@@ -2,7 +2,7 @@
 
 ### [funk challenge](https://open.spotify.com/playlist/37i9dQZF1DWSlRNWoWejBr)
 
-> mae q q vc escutava qndo era mais nova? .
+> ginga y balança
 
 241 songs - 10 hr 17 min
 

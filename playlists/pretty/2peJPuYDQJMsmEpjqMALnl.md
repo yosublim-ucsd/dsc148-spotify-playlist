@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 
 > A classic playlist full of favorites of the 80s! Featuring hits from Queen, Tears For Fears, The Go\-Go's and many many more!
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 320,225 likes - 110 songs - 7 hr 40 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 320,227 likes - 110 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 | 109 | [Sofa \#2 \- Live](https://open.spotify.com/track/5T2alV23Cti08eTqK5Y42Q) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [You Can't Do That On Stage Anymore, Vol\. 1 \(Live\)](https://open.spotify.com/album/2Ekqr3FJo41daBiMY3VkaS) | 3:02 |
 | 110 | [DV2 \(Kool Thing\) \- 8 Track Demo](https://open.spotify.com/track/0YqVGMsrMYDnXxqCLKP2z3) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Goo \(Deluxe Edition\)](https://open.spotify.com/album/1Qsx0sOd9rcIeTuI1j419U) | 4:17 |
 
-Snapshot ID: `AAAEUy7gjm5tyn8cOMq4jpamslIDp+UE`
+Snapshot ID: `AAAEWMlbRW/G6+E2M2lIDho2Gke5+Ngg`

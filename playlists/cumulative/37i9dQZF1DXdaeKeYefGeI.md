@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Herman van Veen
 
-172 songs - 10 hr 39 min
+173 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Sarah](https://open.spotify.com/track/7yDqMzyLCuu3pE1NqbqWbO) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Edith Leerkes](https://open.spotify.com/artist/78UaWj1oZgFfDSjhTj6oKs) | [Moeders](https://open.spotify.com/album/7tjnfbRE4E3jCzH6pv1BHd) | 3:30 | 2023-02-10 | 2023-04-26 |
 | [Stap Voor Stap](https://open.spotify.com/track/6x8y52msTAuUrGpXjkrYKG) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Stap Voor Stap](https://open.spotify.com/album/0gDWnkxZ44kcBdizwd12qT) | 3:53 | 2023-02-10 | 2023-10-13 |
 | [Stilte Na De Storm](https://open.spotify.com/track/6wkKgQuU44VWkWD7A4Y2mv) | [The Kik](https://open.spotify.com/artist/5vEW6oifezRitpxbykJSw8) | [Stilte Na De Storm](https://open.spotify.com/album/1edANTaXlVj17VXFPOG04b) | 3:33 | 2023-02-10 | 2023-04-26 |
-| [Straks](https://open.spotify.com/track/7AFTRQtshBcHlTTzuvk2Ig) | [Stephanie Struijk](https://open.spotify.com/artist/2D2KkoPYCe9SDUQwp6G8ff) | [Dezelfde Zon](https://open.spotify.com/album/0W4OKFFc9K9IqXpvxUpemx) | 2:16 | 2024-01-11 |  |
+| [Straks](https://open.spotify.com/track/7AFTRQtshBcHlTTzuvk2Ig) | [Stephanie Struijk](https://open.spotify.com/artist/2D2KkoPYCe9SDUQwp6G8ff) | [Dezelfde Zon](https://open.spotify.com/album/0W4OKFFc9K9IqXpvxUpemx) | 2:16 | 2024-01-11 | 2024-07-24 |
 | [Suzanne](https://open.spotify.com/track/1BNp77RjuxC9koWD67CNiL) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [20 Jaar Herman Van Veen \- In Vogelvlucht](https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze) | 3:59 | 2023-02-10 | 2024-03-23 |
 | [Te Veel, Te Vaak](https://open.spotify.com/track/21akKWbeYAd1HPzMUGMvMg) | [Liesbeth List](https://open.spotify.com/artist/4x9b95tQANyGxHLQzWN0If) | [100 Mooiste Liedjes van Ramses en Liesbeth](https://open.spotify.com/album/0Yj16bjpuUz4sLggLn8XFR) | 3:42 | 2024-07-18 |  |
 | [Telkens Weer](https://open.spotify.com/track/45PcTtMMf5qUGhSTj43ZnE) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Liedjes Uit De Film Rooie Sien \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1mejiAFSmPftZbBTq43Bee) | 3:14 | 2023-02-10 | 2024-01-12 |
@@ -176,6 +176,7 @@
 | [Zing\-Vecht\-Huil\-Bid\-Lach\-Werk En Bewonder](https://open.spotify.com/track/72PEd2qwD5t0p6MIj4i5HG) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Favorieten Expres](https://open.spotify.com/album/3g9av5u7zlnWVHzZe8H05A) | 3:49 | 2023-02-10 | 2023-06-20 |
 | [Zing\-Vecht\-Huil\-Bid\-Lach\-Werk En Bewonder](https://open.spotify.com/track/3jMqRtGTnYmGHqSvdinx2O) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Zonder Bagage](https://open.spotify.com/album/6C2BruFkpg9TImWwigpLRL) | 3:50 | 2023-06-01 | 2024-04-19 |
 | [Zing\-Vecht\-Huil\-Bid\-Lach\-Werk En Bewonder](https://open.spotify.com/track/2g7QbxPVnDQ7c92y47TxiK) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Zijn Grootste Successen \- Ramses Shaffy](https://open.spotify.com/album/5G67M6iod8Zpharcd04x0m) | 3:52 | 2024-04-18 |  |
+| [Zomer](https://open.spotify.com/track/2vbFcIIVaftdr2ZgnVa3rQ) | [Toon Gezet](https://open.spotify.com/artist/2Cj6egfxg8THB8bLE4EPFf) | [Zomer](https://open.spotify.com/album/4i5MkLb9nrznaeg9QUtFk6) | 3:20 | 2024-07-23 |  |
 | [Zonden](https://open.spotify.com/track/3CTVkBeZBpO8TWIxsFr9ZW) | [Sophie](https://open.spotify.com/artist/4s5ENnBFGHPG0N6W6QKwGV) | [Zonden](https://open.spotify.com/album/7dMWmv9ozI0l6sVM0EbBzM) | 3:48 | 2023-02-10 | 2023-11-11 |
 | [Zonder Jou](https://open.spotify.com/track/7dIuHfrJskIy7ynwRkptkb) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Simone Kleinsma](https://open.spotify.com/artist/7xNISTVPefpc5iesdJQqz0) | [Mooi Weer Een CD](https://open.spotify.com/album/2SqhO69ScHJePoFmMesQs6) | 3:56 | 2024-04-18 |  |
 | [Zonder Jou](https://open.spotify.com/track/4xPkcG6Efkn22baq0kJmQo) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Simone Kleinsma](https://open.spotify.com/artist/7xNISTVPefpc5iesdJQqz0) | [Mooi Weer Een CD](https://open.spotify.com/album/2EVSRkvcdN6TYFg1gY8tlE) | 3:57 | 2023-02-10 | 2024-04-19 |

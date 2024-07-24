@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: رامي صبري
 
-1,053 songs - 2 day 11 hr 14 min
+1,054 songs - 2 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,7 +388,7 @@
 | [Khoshy Hayaty](https://open.spotify.com/track/6IZc9TCicWP7pV1yKjQ5c2) | [Abdelrahman Roshdy](https://open.spotify.com/artist/4uKgnZbfQdntYvL9j9hzeK) | [Khoshy Hayaty](https://open.spotify.com/album/4L1MlEeeI7bYnitOdSgeds) | 2:55 | 2023-01-19 | 2023-03-04 |
 | [Kobtan](https://open.spotify.com/track/4bHz4sVrmpeLLUsu0i9liP) | [Mohamed Adawya](https://open.spotify.com/artist/4isXJBD1o2NfaC5EcotlXN) | [Kobtan](https://open.spotify.com/album/2f4yayWGqNkfjocXF84vf7) | 3:06 | 2023-11-16 | 2024-01-18 |
 | [Kol El Habiba](https://open.spotify.com/track/5E75d0gLJzysLedwDQeWIR) | [Mai Farouk](https://open.spotify.com/artist/6WDborvz84s4INwkuajFxP) | [Kol El Habiba](https://open.spotify.com/album/1k485w1wXZn2AM4BCXe6iA) | 4:47 | 2024-02-16 | 2024-05-08 |
-| [Kol Elly Eshto](https://open.spotify.com/track/3PsPaxw4KgRJXAVWxnUu7q) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Kol Elly Eshto](https://open.spotify.com/album/36RN9n5MnY8qHLv9gwzfu0) | 3:08 | 2024-06-07 |  |
+| [Kol Elly Eshto](https://open.spotify.com/track/3PsPaxw4KgRJXAVWxnUu7q) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Kol Elly Eshto](https://open.spotify.com/album/36RN9n5MnY8qHLv9gwzfu0) | 3:08 | 2024-06-07 | 2024-07-24 |
 | [Kol Elly Fi Alby](https://open.spotify.com/track/0eCQyp0QixPbUn6yn0GIDg) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Kol Elly Fi Alby](https://open.spotify.com/album/3mljnESPv1qiYVXy0yYBV0) | 3:13 | 2021-12-23 | 2022-01-21 |
 | [Kol Youm](https://open.spotify.com/track/3IGIcmSEULycb9jwx6iUhX) | [ميمز](https://open.spotify.com/artist/1S1mn0Jg5ZaI2Kya26uE8K) | [Kol Youm](https://open.spotify.com/album/5F0Rcxjd3TOBcu059YbTS3) | 2:48 | 2023-09-28 | 2024-01-08 |
 | [Kolo Falso](https://open.spotify.com/track/1il1wNIj3ful9IlWgxLRmX) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7), [Esaad Younis](https://open.spotify.com/artist/2VtjN9mCdwy6DBkms1ujiQ) | [Kolo Falso](https://open.spotify.com/album/7mbfcm8CXhfUEJVf2ioUwF) | 2:58 | 2023-12-26 | 2024-02-07 |
@@ -748,6 +748,7 @@
 | [اسقيني](https://open.spotify.com/track/3UvItzqBASEeNcv1SQpXf5) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [اسقيني](https://open.spotify.com/album/5b95RnfBRDGQqltiA61qDf) | 3:00 | 2023-12-12 | 2024-01-19 |
 | [اصحى للكلام](https://open.spotify.com/track/2UT9rAvXb95knln6VgVgtT) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [اصحى للكلام](https://open.spotify.com/album/0Fx94IBKPo7V7CCRwIVgH1) | 3:14 | 2023-06-25 | 2023-07-29 |
 | [اعدائك كترت](https://open.spotify.com/track/0CFfVxPKnJfh7bIxzgOyO0) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [اعدائك كترت](https://open.spotify.com/album/5FTpX2Ws71TQRQyec4CbqY) | 3:27 | 2022-09-21 | 2022-12-09 |
+| [اعلان اورنچ "دايماً معاك" أحمد عز \- غناء أحمد سعد](https://open.spotify.com/track/5J3ywH3PAIvgT6vLzSLSx9) | [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W), [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Bossy](https://open.spotify.com/artist/3nEBKHt4OqRhXJv1TCYD1t) | [اعلان اورنچ "دايماً معاك" أحمد عز \- غناء أحمد سعد](https://open.spotify.com/album/2J2okSDZB1TZ3vOB3X4BQF) | 2:24 | 2024-07-23 |  |
 | [اغنية اقوى ميكس من وي](https://open.spotify.com/track/53NXe3kkRKLOHetbquwSxt) | [Telecom Egypt](https://open.spotify.com/artist/1dIzfeZM7R7E6Wl9MedD9v), [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [اغنية اقوى ميكس من وي](https://open.spotify.com/album/4kETJFrrqFJn9VO5EkcTLB) | 3:10 | 2022-02-08 | 2022-05-19 |
 | [اقوي من جرحك](https://open.spotify.com/track/7t8u3kc3aq5SKHRUhcmCYG) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [يا عالمي](https://open.spotify.com/album/5oMj9SZJZAh9JEn1qoqxt0) | 4:25 | 2023-08-03 | 2023-09-22 |
 | [البدايات](https://open.spotify.com/track/64cbxJ5sRG93qgaqWw1Lfn) | [bassma boussel](https://open.spotify.com/artist/6fxepvV4IKhI2gmoHrOiTP) | [البدايات](https://open.spotify.com/album/109AUHjhLxGLBTjtkpMny2) | 4:43 | 2024-05-14 | 2024-07-12 |

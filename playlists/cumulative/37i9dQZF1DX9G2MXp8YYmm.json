@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "2017",
+        "url": "https://open.spotify.com/album/7bHm4NBxAUgM3XpfXmB7fv"
+      },
+      "artists": [
+        {
+          "name": "M Lisa",
+          "url": "https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127333,
+      "name": "2017",
+      "url": "https://open.spotify.com/track/4QccVW3CYYLzvTY0yCwcrZ"
+    },
+    {
+      "album": {
         "name": "Ac\u0131yla Kucakla\u015ft\u0131m",
         "url": "https://open.spotify.com/album/6VOx7oShyeQgY11InDvTZX"
       },
@@ -158,7 +176,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-23",
+      "date_removed": null,
       "duration_ms": 265000,
       "name": "Bal",
       "url": "https://open.spotify.com/track/0Dj36bCRSouqzx8wHwB9dR"
@@ -634,7 +652,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 202663,
       "name": "D\u0130ZG\u0130 HATASI",
       "url": "https://open.spotify.com/track/1aY8XeGD9zP21IxZYqeY3f"
@@ -800,7 +818,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 204950,
       "name": "Haybeden",
       "url": "https://open.spotify.com/track/0FHOupsqeuju8lxk8Y0zRZ"
@@ -1270,7 +1288,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 142874,
       "name": "Seviyore Mi",
       "url": "https://open.spotify.com/track/03akFZOY1Gpe6gnBjq3ZzM"
@@ -1394,7 +1412,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 168979,
       "name": "Yakacak Belli",
       "url": "https://open.spotify.com/track/5Ra1k4mBQjP2NPk5NX5Pbq"

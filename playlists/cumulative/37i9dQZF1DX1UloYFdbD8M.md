@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Benny Dayal
 
-211 songs - 14 hr 21 min
+212 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Giddh](https://open.spotify.com/track/3QSD8pMN4h5W7Q1uXf2llP) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Giddh](https://open.spotify.com/album/3xfYCwy48NZw4dKdmDURiO) | 4:18 | 2023-08-30 |  |
 | [Gopa Trance](https://open.spotify.com/track/2U2YHuFB8kYdmYzOp2FHg5) | [Madhuvanthi Narayan](https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8) | [Gopa Trance](https://open.spotify.com/album/3nSlJ9VWwpcX66QgFjSZNe) | 2:42 | 2023-09-29 | 2024-02-19 |
 | [Green Bean](https://open.spotify.com/track/4Fy7zmLbPiGDYhmp6ziHwi) | [Jatayu](https://open.spotify.com/artist/4FRg3iQY9IQNzFiEs29WtK) | [Co Creation Project: Kappa Originals x Bloom In Green '22](https://open.spotify.com/album/12naOKwjLae6Z86tAl6BLL) | 2:31 | 2023-08-05 | 2024-02-19 |
-| [Guru Meets Mastan](https://open.spotify.com/track/2WEp8R52IgXTf7zYVjMZJc) | [Shahabaz Aman](https://open.spotify.com/artist/0ef7C50MIK4GSqlk2WnOGk) | [Guru Meets Mastan](https://open.spotify.com/album/0CQ6xO6ATp0215Eg2OgLHl) | 4:49 | 2024-05-24 |  |
+| [Guru Meets Mastan](https://open.spotify.com/track/2WEp8R52IgXTf7zYVjMZJc) | [Shahabaz Aman](https://open.spotify.com/artist/0ef7C50MIK4GSqlk2WnOGk) | [Guru Meets Mastan](https://open.spotify.com/album/0CQ6xO6ATp0215Eg2OgLHl) | 4:49 | 2024-05-24 | 2024-07-24 |
 | [GVQ](https://open.spotify.com/track/5ujiob8B2fy0UiLvJWr1cK) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mojo Sessions Live](https://open.spotify.com/album/6UtfSEfMlTw9h4DKa59Yjn) | 4:50 | 2022-12-22 |  |
 | [I.O.Y.A \(Ayyo Vayye\)](https://open.spotify.com/track/2hs0eVQRkBiGw8nLPN2rIu) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [I.O.Y.A \(Ayyo Vayye\)](https://open.spotify.com/album/3oKCeBPVdQrbrIU28yml2n) | 3:45 | 2023-07-28 | 2024-06-19 |
 | [Ilaveyil](https://open.spotify.com/track/2VApp3THX0kR1kF0kPb8fs) | [Vinod Venugopal Acharya](https://open.spotify.com/artist/2au9zesflE7xTx0uutjLFi) | [Ilaveyil](https://open.spotify.com/album/1xJE7gCQtOS39EBM1S1J1b) | 3:24 | 2024-02-01 | 2024-03-01 |
@@ -163,6 +163,7 @@
 | [Pollunnunde](https://open.spotify.com/track/75yafDG35Tx47lp1NIc6l3) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Pollunnunde](https://open.spotify.com/album/45GNFY5oWRTEBT79hFRs1b) | 2:48 | 2023-05-10 | 2023-07-29 |
 | [Pooram \- From "Think Specials"](https://open.spotify.com/track/05ipt7R52WNXApEurABdOJ) | [RHYTHOM](https://open.spotify.com/artist/4TRwdVEDrdpaeYiP7iohlu) | [Pooram \(From "Think Specials"\)](https://open.spotify.com/album/0aO4EHRsIN96DOWrYxMjIS) | 3:18 | 2023-08-16 | 2024-05-25 |
 | [Poralikal](https://open.spotify.com/track/4Yi3Z3kmaQIqG00EZ5XEyv) | [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ) | [Poralikal](https://open.spotify.com/album/0JsO6jG4H4NOHyDZ21grXa) | 2:51 | 2023-05-26 | 2023-07-28 |
+| [Porul](https://open.spotify.com/track/0kJJmko72rMUeFdi3WI4dM) | [Saju Sreenivas](https://open.spotify.com/artist/6CmEs3zFMHjLjYsanVCK0T) | [Porul](https://open.spotify.com/album/6fQGWw9fs9ms6JVpMQDzeM) | 4:20 | 2024-07-23 |  |
 | [Pravasi](https://open.spotify.com/track/2T5FVgSvxUyEn1rH4Stfu2) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mojo Sessions Live](https://open.spotify.com/album/6UtfSEfMlTw9h4DKa59Yjn) | 4:03 | 2022-12-22 | 2024-06-29 |
 | [Puttu Paattu](https://open.spotify.com/track/7i8me6jJ0iAWHeOwdImXFT) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mojo Sessions Live](https://open.spotify.com/album/6UtfSEfMlTw9h4DKa59Yjn) | 5:32 | 2022-12-22 |  |
 | [Rangapura Vihara](https://open.spotify.com/track/0DanEzIERtRw1Toae6IFXM) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Rangapura Vihara \- Single](https://open.spotify.com/album/6f4cOJPPGqBKXbj0luhAQQ) | 8:57 | 2022-12-22 |  |

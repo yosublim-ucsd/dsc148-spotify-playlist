@@ -4,7 +4,7 @@
 
 > Meditate with the frequency of the Root Chakra, used by many to help with anxiety and negativity.
 
-127 songs - 6 hr 7 min
+129 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [396 Hz Beneath the Sky](https://open.spotify.com/track/0KGM19l4Rd7CysKWGlLJZY) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [396 Hz Soundscapes for Mindfulness](https://open.spotify.com/album/3iA0cOUPyMJDONnUYlTLsQ) | 3:24 | 2023-03-10 |  |
 | [396 Hz Beneficial Solfeggio](https://open.spotify.com/track/2a3CTPp7O41lK1Uuq9qFsa) | [Sleeposines](https://open.spotify.com/artist/26ZV8qtSHuFvztrDGKUKgG) | [Oneness](https://open.spotify.com/album/4QLfoHYd8mMaXxYbSwV4OU) | 3:10 | 2023-03-10 |  |
 | [396 Hz Breathe Deeply](https://open.spotify.com/track/5fHv6nk5URUA3UIzFpw0CA) | [Solfeggio Wellness Frequencies](https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x) | [396 Hz Sleep and Rest Frequencies](https://open.spotify.com/album/7lslmhseWYQFmtzvyoeErL) | 3:10 | 2023-03-10 |  |
-| [396 Hz Chakra Khan](https://open.spotify.com/track/60S6i0Q73myZu4WZIEfKBn) | [Chakrasapiens](https://open.spotify.com/artist/0ifeddor0BLT2TaPLlzhjg) | [396 Hz Chakra Khan](https://open.spotify.com/album/11XPMpvcsyKOcax3wiiCY1) | 2:39 | 2023-03-10 |  |
+| [396 Hz Chakra Khan](https://open.spotify.com/track/60S6i0Q73myZu4WZIEfKBn) | [Chakrasapiens](https://open.spotify.com/artist/0ifeddor0BLT2TaPLlzhjg) | [396 Hz Chakra Khan](https://open.spotify.com/album/11XPMpvcsyKOcax3wiiCY1) | 2:39 | 2023-03-10 | 2024-07-24 |
 | [396 Hz Chill Out](https://open.spotify.com/track/6s1Msat4uHpLy7iBLS9pqU) | [Solfeggio Wellness Frequencies](https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x) | [396 Hz Sleep and Rest Frequencies](https://open.spotify.com/album/7lslmhseWYQFmtzvyoeErL) | 3:02 | 2023-03-10 |  |
 | [396 Hz Cosmic Light](https://open.spotify.com/track/2GjBa9h45454y9oElOgsBn) | [Seraphic Binaural Wisdom](https://open.spotify.com/artist/0HlDANrsQmbtySRs1OA3bY) | [396 Hz Cosmic Light](https://open.spotify.com/album/188ZsQ7k8ky4RNMxNeBvTx) | 2:34 | 2024-05-11 |  |
 | [396 Hz Cosmiflow](https://open.spotify.com/track/2MDELc6AvQdlPU4FMP0uPp) | [Elnas](https://open.spotify.com/artist/55WeSuvEkyLLgJjDU2zAO0) | [396 Hz Cosmiflow](https://open.spotify.com/album/2z3dXnt6oZfao3X9PYP0N2) | 2:42 | 2024-07-13 |  |
@@ -86,9 +86,10 @@
 | [Blue Sinus 396 hz](https://open.spotify.com/track/1oWjDRlkhE6ikWp7NblkoG) | [Fables From Mars](https://open.spotify.com/artist/2jIevUMKJWhRbcToBLJjqW) | [Blue Sinus](https://open.spotify.com/album/3TnvcL3axNy2n0tz84D84p) | 2:44 | 2023-03-10 |  |
 | [Body Base \(396 Hz\)](https://open.spotify.com/track/46JkDNOM4XYkmztlTF3aHX) | [Theatantrical](https://open.spotify.com/artist/3NfPyQcxlNd7Avfcgn13Sh) | [Body Base](https://open.spotify.com/album/7ovjHB9PhzdKcgK4XKNFjE) | 3:12 | 2023-09-28 |  |
 | [Bordunis 396 Hz](https://open.spotify.com/track/3kYWjk2L2MVIvx4Ntj6gby) | [Waveframe](https://open.spotify.com/artist/6qllkUXzVK9b2C1HRVsp2T) | [Bordunis 396 Hz](https://open.spotify.com/album/6ZxG83xswcprunwOjDuNyn) | 2:44 | 2023-03-10 |  |
-| [Branches Of Hope 396 Hz](https://open.spotify.com/track/2qTCXNLnsgxgQwxRRTXsTT) | [Pink Opal](https://open.spotify.com/artist/4G2znNneRZlbCwuDAIQi2E) | [Branches Of Hope 396 Hz](https://open.spotify.com/album/43xjev2lSdpllfZT6f4IMC) | 2:48 | 2023-08-07 |  |
+| [Branches Of Hope 396 Hz](https://open.spotify.com/track/2qTCXNLnsgxgQwxRRTXsTT) | [Pink Opal](https://open.spotify.com/artist/4G2znNneRZlbCwuDAIQi2E) | [Branches Of Hope 396 Hz](https://open.spotify.com/album/43xjev2lSdpllfZT6f4IMC) | 2:48 | 2023-08-07 | 2024-07-24 |
 | [Celestial Plane 396Hz](https://open.spotify.com/track/7ITaMlzR0HYU32HaRor2EX) | [Introspective Release](https://open.spotify.com/artist/0lOSiJ1BplaLxVIEEw3CHS) | [Celestial Plane 396Hz](https://open.spotify.com/album/2IXInjqSnoGkvUlVvr8tkP) | 2:50 | 2023-03-10 |  |
 | [Chakra Healing Bowl \(Sound Bath\)](https://open.spotify.com/track/0xbn3eRyGE0CWzYgl2kNOG) | [EXOPIRS](https://open.spotify.com/artist/2Q0Qqbi8FdkM0oBsOQaqyE) | [Meditation Sounds](https://open.spotify.com/album/3oMUxmMSX0gza3sPwhsU20) | 3:04 | 2023-03-10 | 2023-12-01 |
+| [Cleansing Waves \- 396 Hz](https://open.spotify.com/track/6bb9J56a7kMd4mbzEkYx8b) | [Luc Sobonne](https://open.spotify.com/artist/3yr6NkSYlRKW7VUxx05GEX) | [Cleansing Waves](https://open.spotify.com/album/0FtA9wZhhmTrLL9M2dEEEh) | 3:00 | 2024-07-23 |  |
 | [Closing Eyes 396 Hz](https://open.spotify.com/track/1pmXuL5vE0PKxEQgYnwa1m) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Frame of Frequencies](https://open.spotify.com/album/2ADv7aRLplDrzNQVmQyDGd) | 3:25 | 2023-03-10 |  |
 | [Core Healer \(396 Hz\)](https://open.spotify.com/track/5CwJ4rRpHttyjIYTO07KmH) | [Night Whisperer](https://open.spotify.com/artist/3AisymC691EsyYYKjPNSG6) | [Healing Sleep](https://open.spotify.com/album/5ipmmUltHfJSwnfUvxHYHA) | 3:20 | 2023-03-10 |  |
 | [Crystal Lake](https://open.spotify.com/track/6e3ygSWFzpBenGaZ29CrlJ) | [Jarra](https://open.spotify.com/artist/3Cz7AqV45zqiyWoFaXrS69) | [Crystal Lake](https://open.spotify.com/album/7z0C3ZalO7w8XKPfEkfwCx) | 3:53 | 2023-03-10 | 2023-08-08 |
@@ -101,6 +102,7 @@
 | [Floating Forest](https://open.spotify.com/track/6VnjI1HG4vrnkqf8BdCwN1) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Ancient Analogue](https://open.spotify.com/album/7M37zkkLECmNsbpSh0gWHR) | 3:51 | 2023-03-10 |  |
 | [Floating Through Solfeggio 396 Hz](https://open.spotify.com/track/7dk0QgP4xfLPtsLv9Zm85W) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Floating Through Solfeggio](https://open.spotify.com/album/3xTHmhfddNPrN9FLvD68Q6) | 3:11 | 2023-03-10 |  |
 | [Flow of the Forest 396 Hz](https://open.spotify.com/track/7rz3PDMn8GCKn3IpUsrgCd) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Night Solfeggio for the Mind](https://open.spotify.com/album/1WUP0qojbqgfTDiouUyyB0) | 3:54 | 2023-03-10 |  |
+| [Foundational \- 396 Hz](https://open.spotify.com/track/66XocM7YWZwPjcdsuB3r7U) | [Amaia Bescós](https://open.spotify.com/artist/0h9O8A9Z4u2sSj79DxyjKx) | [Foundational](https://open.spotify.com/album/097P8j0w7upxrbfXxBAYPl) | 2:44 | 2024-07-23 |  |
 | [Fresh Start](https://open.spotify.com/track/5B396k96KkOIHaVAOXZhUW) | [Wellness Portal](https://open.spotify.com/artist/6t5G5UjoSmisKCSYhdI0gs) | [Wellness Portal](https://open.spotify.com/album/19nYyLIiUYfGOtDDVIRoA9) | 2:34 | 2023-03-10 | 2023-12-01 |
 | [Grounding \(396 Hz\)](https://open.spotify.com/track/6h4PAVYbTtZHul8qVMEvni) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Grounding](https://open.spotify.com/album/0vFCQHF8lMnmjjehplMToz) | 3:24 | 2023-11-30 |  |
 | [Healing Sleep \(396 Hz\)](https://open.spotify.com/track/1mPQd0uPfFLdH3r8m8IfdV) | [Night Whisperer](https://open.spotify.com/artist/3AisymC691EsyYYKjPNSG6) | [Healing Sleep](https://open.spotify.com/album/5ipmmUltHfJSwnfUvxHYHA) | 3:02 | 2023-03-10 | 2023-08-08 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,761 likes - 64 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,774 likes - 64 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Latin Lovers \- Joyhauser Remix](https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Latin Lovers \(Joyhauser Remix\)](https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9) | 4:35 |
+| 1 | [Latin Lovers \- Joyhauser Remix](https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Latin Lovers \(Joyhauser Remix & Original\)](https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9) | 4:35 |
 | 2 | [Close Your Eyes](https://open.spotify.com/track/2QQoVCfKeBCU64YmdMXPNy) | [Torsten Kanzler](https://open.spotify.com/artist/6ivd3NhMvn9EIN64Q3lqik) | [Close Your Eyes](https://open.spotify.com/album/0SNIPV29hynF7rbKrqpaN8) | 5:56 |
 | 3 | [Align](https://open.spotify.com/track/2JK7E0PWzGX78GGjh51rfb) | [Zafer Atabey](https://open.spotify.com/artist/7FnPG0rhevatoL8aTx9Ag7) | [Align](https://open.spotify.com/album/3VhR2yoBOeurE9WNY4tcv9) | 4:10 |
 | 4 | [I Am Free \- Oscar L Remix](https://open.spotify.com/track/3uxPWfCPabSiogBzsC6ZTa) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5), [Oscar L](https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm) | [I Am Free \- \(Oscar L Remix\)](https://open.spotify.com/album/2FHbom4z3bJGIedcshgh5s) | 3:25 |
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 8 | [How You Move \- Edit](https://open.spotify.com/track/1biKqdOsiIo2JekJ8UPX1x) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [How You Move](https://open.spotify.com/album/4niVd6YJlKn3EST1SUoOwn) | 2:49 |
 | 9 | [Move Up](https://open.spotify.com/track/1EzWq5UB2jprlYyj1rgEtj) | [Mark Reeve](https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ) | [Move Up](https://open.spotify.com/album/5K4TpfUwASOiSN86V0nzFM) | 3:26 |
 | 10 | [Something Inside Us \- Kos:mo Remix](https://open.spotify.com/track/0cKWD5Wwn4hQl7IwFsFB12) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT), [Kos:mo](https://open.spotify.com/artist/0DlU4o8v7xq5AnJTFb6onr) | [Something Inside Us \(Kos:mo Remix\)](https://open.spotify.com/album/2GMdvLjfG3QD2J7yOGFhFK) | 6:19 |
-| 11 | [Latin Lovers \- 2004 Version Edit](https://open.spotify.com/track/6PKP4qXzVPztw65EHeLS4F) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [Latin Lovers \(Joyhauser Remix\)](https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9) | 3:46 |
+| 11 | [Latin Lovers \- 2004 Version Edit](https://open.spotify.com/track/6PKP4qXzVPztw65EHeLS4F) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [Latin Lovers \(Joyhauser Remix & Original\)](https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9) | 3:46 |
 | 12 | [Sunshine & Rainbows](https://open.spotify.com/track/4PlTolEwou5RaJb68swuet) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Sunshine & Rainbows](https://open.spotify.com/album/3GVd9dxZaRdwsmrrCOiNin) | 4:45 |
 | 13 | [Bassdrone \- Teenage Mutants Remix](https://open.spotify.com/track/7aJ4qldtxcDsr09FuasUwO) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y), [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Bassdrone \(Teenage Mutants Remix\)](https://open.spotify.com/album/2C9SX0laiP8Vc72Gjpsl41) | 4:08 |
 | 14 | [The Final Night](https://open.spotify.com/track/5WHDVvtmPb45jgkaPlgLzh) | [Drunken Kong](https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk) | [The Final Night](https://open.spotify.com/album/7m2CxkoFw9XSWP7JtdCha9) | 4:32 |

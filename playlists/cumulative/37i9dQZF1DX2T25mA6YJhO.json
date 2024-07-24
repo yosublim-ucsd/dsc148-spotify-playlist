@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "agosto",
+        "url": "https://open.spotify.com/album/0eIk5M7jExLB3SLpmgitMz"
+      },
+      "artists": [
+        {
+          "name": "garb\u00ed",
+          "url": "https://open.spotify.com/artist/0VqZ86s4Z8DHDNHFwYf0oM"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208862,
+      "name": "agosto",
+      "url": "https://open.spotify.com/track/2rMCjGUXkg9eyweQPcwvRX"
+    },
+    {
+      "album": {
         "name": "Al Amanecer",
         "url": "https://open.spotify.com/album/0tvM7MTPrI9bASHbYn89Xy"
       },
@@ -952,7 +970,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 211087,
       "name": "Lo de siempre",
       "url": "https://open.spotify.com/track/1wjRd9NhFtwSfGRaH4VFBB"

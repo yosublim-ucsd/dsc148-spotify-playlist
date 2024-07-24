@@ -2484,6 +2484,24 @@
     {
       "album": {
         "name": "Avignon",
+        "url": "https://open.spotify.com/album/3McxyA2RxYVWvjDOBMrM9a"
+      },
+      "artists": [
+        {
+          "name": "Oscar Latreux",
+          "url": "https://open.spotify.com/artist/3sdfC805aK4OSRQ5YdlDLK"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150950,
+      "name": "Avignon",
+      "url": "https://open.spotify.com/track/4QtIR11IW8W62Fl6J1gXpB"
+    },
+    {
+      "album": {
+        "name": "Avignon",
         "url": "https://open.spotify.com/album/6y7OWImxz4xSyspxzKsLvl"
       },
       "artists": [
@@ -12085,6 +12103,24 @@
     },
     {
       "album": {
+        "name": "Invitation",
+        "url": "https://open.spotify.com/album/3dnVyXLUFDwBcUwC3s82yx"
+      },
+      "artists": [
+        {
+          "name": "Samuel Kees",
+          "url": "https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174750,
+      "name": "Invitation",
+      "url": "https://open.spotify.com/track/0gTjyLSaG5FFIpDhw6IA2C"
+    },
+    {
+      "album": {
         "name": "Io e te",
         "url": "https://open.spotify.com/album/0Svky6kOkcaDUJb0woHTmz"
       },
@@ -19334,6 +19370,24 @@
       "duration_ms": 152850,
       "name": "Particle rise",
       "url": "https://open.spotify.com/track/0D1cenBb72xRFkD4CErjP3"
+    },
+    {
+      "album": {
+        "name": "Particles",
+        "url": "https://open.spotify.com/album/2hkdSb3Av1Z1JP67nKZpxX"
+      },
+      "artists": [
+        {
+          "name": "Arlo Thiem",
+          "url": "https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159750,
+      "name": "Particles",
+      "url": "https://open.spotify.com/track/30eikMQkwP7jtD5SnYCBbB"
     },
     {
       "album": {

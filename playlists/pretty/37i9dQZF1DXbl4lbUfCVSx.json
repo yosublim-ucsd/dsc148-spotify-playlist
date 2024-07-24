@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 32180,
+  "num_followers": 32188,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-07-03 19:15:11",
       "album": {
+        "name": "Motivation",
+        "url": "https://open.spotify.com/album/2Ybmb9XATCj15djpbLGkNr"
+      },
+      "artists": [
+        {
+          "name": "X-tassy",
+          "url": "https://open.spotify.com/artist/4ZnUHVxaahHmKCdy6U9u3D"
+        }
+      ],
+      "duration_ms": 264341,
+      "name": "Di'm Kib\u00f2'w Vle'l #Quickie",
+      "url": "https://open.spotify.com/track/6CEJsCNgCBr47PmEGD01cp"
+    },
+    {
+      "added_at": "2024-07-03 19:15:11",
+      "album": {
         "name": "Gen Bagay",
         "url": "https://open.spotify.com/album/2c17yCuqm2HgVmPldv3vhV"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 194716,
       "name": "Gen Bagay",
       "url": "https://open.spotify.com/track/3QGvZ2bW5WCZ8J6oVoj9ky"
-    },
-    {
-      "added_at": "2024-07-03 19:15:11",
-      "album": {
-        "name": "Motivation",
-        "url": "https://open.spotify.com/album/2Ybmb9XATCj15djpbLGkNr"
-      },
-      "artists": [
-        {
-          "name": "X-tassy",
-          "url": "https://open.spotify.com/artist/4ZnUHVxaahHmKCdy6U9u3D"
-        }
-      ],
-      "duration_ms": 264341,
-      "name": "Di'm Kib\u00f2'w Vle'l #Quickie",
-      "url": "https://open.spotify.com/track/6CEJsCNgCBr47PmEGD01cp"
     },
     {
       "added_at": "2024-07-03 19:15:11",

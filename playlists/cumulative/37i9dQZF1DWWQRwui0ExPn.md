@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,878 songs - 10 day 20 hr 44 min
+6,879 songs - 10 day 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1250,7 +1250,7 @@
 | [Comfort Zone](https://open.spotify.com/track/05OLav4TT1ys02hEq6UKLW) | [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx), [MAFFYN](https://open.spotify.com/artist/7i6UGI2zH0k1SsPgfFCB1S), [Wishes and Dreams](https://open.spotify.com/artist/3z3HY7B1UqsrP5un2WXe2h) | [Comfort Zone](https://open.spotify.com/album/6LYZy00TD5OHpcOPZuk9Ij) | 2:00 | 2022-12-02 | 2023-12-01 |
 | [Comfortable Issues](https://open.spotify.com/track/7rC7qu57qKC7c7r0KJ7DVk) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [Dusk till Dawn](https://open.spotify.com/album/1dKsRlj4Znuyz6NfCer4mk) | 2:00 | 2023-10-06 | 2024-03-15 |
 | [comin 4 ya](https://open.spotify.com/track/6ld2KFMZCkKtf3PBCJDqaH) | [Analog Sunset](https://open.spotify.com/artist/1b5zsebDdBntav2svPU0TZ) | [comin 4 ya](https://open.spotify.com/album/02owCKt9bWzEiftAGO02lh) | 2:24 | 2021-10-20 | 2022-04-15 |
-| [Coming Home](https://open.spotify.com/track/5YTpeipC04dmLuWgP6lVVo) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [Coming Home](https://open.spotify.com/album/3vdfBMFxJsU8mORPKwIlIA) | 2:32 | 2024-02-16 |  |
+| [Coming Home](https://open.spotify.com/track/5YTpeipC04dmLuWgP6lVVo) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [Coming Home](https://open.spotify.com/album/3vdfBMFxJsU8mORPKwIlIA) | 2:32 | 2024-02-16 | 2024-07-24 |
 | [Committed To The Beat](https://open.spotify.com/track/0W9OwdBkPx3wY1ObtDKbmc) | [Spiral Groove](https://open.spotify.com/artist/1gWC6rCLFzEeh7k62E1Ah0) | [Committed To The Beat](https://open.spotify.com/album/15daiezQeFXSABiDMKOFHg) | 1:47 | 2022-10-28 |  |
 | [Community](https://open.spotify.com/track/49L13iy30mE0SJ8WnThTTX) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Community](https://open.spotify.com/album/1PyeIA6UAqtpYAF8nDUaTy) | 1:44 | 2022-08-12 | 2022-11-25 |
 | [Compass](https://open.spotify.com/track/1h5xl9Dylis2CE8DFboUdH) | [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx), [Cloud Break](https://open.spotify.com/artist/5tcXTOoVIDRSfvwgOAy3OE) | [Compass](https://open.spotify.com/album/54fsmuCTC6EFIU4L8ioBoO) | 2:51 | 2022-11-25 | 2023-09-16 |
@@ -1283,6 +1283,7 @@
 | [Cool Cats Club](https://open.spotify.com/track/7bIGu96YQNSplp4RTE11rp) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [Cool Cats Club](https://open.spotify.com/album/7FTABL9Bd350HgzwJM4x0t) | 2:00 | 2022-12-09 | 2023-09-16 |
 | [Cool Jazz beat](https://open.spotify.com/track/5l3NsIWgERHhKvUY13BUYG) | [Elven Chlls](https://open.spotify.com/artist/2KleiaytQePm3q471pOHdJ) | [LOVE](https://open.spotify.com/album/3qcXogjQUfxJBCcq3vAQBN) | 1:30 | 2022-03-11 | 2022-08-12 |
 | [Cool Parties](https://open.spotify.com/track/6jEQVTsSoprTNWiSkjIdhW) | [green tee](https://open.spotify.com/artist/3gumwjGgamfj1wh8c0iEMO) | [Cool Parties](https://open.spotify.com/album/3YS54Qk4dfzKx4hpHTqTRc) | 1:42 | 2021-09-11 | 2022-04-08 |
+| [cooled coffee](https://open.spotify.com/track/6sTPExOpsrVJJ06m5lZbPB) | [hinako fukushi](https://open.spotify.com/artist/5glOFLmRNoXs1AC2jGYS6j) | [cooled coffee](https://open.spotify.com/album/4JcZNcGeR9Uamb6fDDBKn3) | 2:09 | 2024-07-19 |  |
 | [Cooler than Calm](https://open.spotify.com/track/4HNazCOgZCBScJ7p9Frlou) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [Cooler than Calm](https://open.spotify.com/album/1YzsK360isT9OfK2h2ZUoC) | 2:14 | 2022-07-29 | 2022-12-09 |
 | [Coolin'](https://open.spotify.com/track/1FqyrPWyT5kPxS77IGkPku) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy) | [Coolin'](https://open.spotify.com/album/6DYXwgEZa2WovSIQ1Lj3Z6) | 2:18 | 2022-02-14 | 2022-07-22 |
 | [Coolio](https://open.spotify.com/track/2wQblqsmGCr6NMTgt01OMX) | [Thoreau](https://open.spotify.com/artist/0mXq227LEoIqWSv4bTuGe2) | [Coolio](https://open.spotify.com/album/169GTGcvx6badMRxjHAkuP) | 1:53 | 2021-11-20 | 2022-06-10 |

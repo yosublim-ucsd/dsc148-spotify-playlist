@@ -707,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Darma Karma",
+        "url": "https://open.spotify.com/album/3MSb27LzvO7txXUL0qu9Xk"
+      },
+      "artists": [
+        {
+          "name": "Darma Waters",
+          "url": "https://open.spotify.com/artist/4nN4oxcvDaWafW2VAmvf7Y"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Darma Karma",
+      "url": "https://open.spotify.com/track/6ztM1Tfblptt8WPceaYzX7"
+    },
+    {
+      "album": {
         "name": "Fountain of Life",
         "url": "https://open.spotify.com/album/1ipenLBGBc2xcdSKd4BF08"
       },
@@ -898,7 +916,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 201655,
       "name": "Euthalia Lubentina",
       "url": "https://open.spotify.com/track/2bni5uNaF2vpuErZvO8Z33"
@@ -1334,7 +1352,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 188061,
       "name": "Healing Forest",
       "url": "https://open.spotify.com/track/3IHG0LxWiwcRQRDJZBYmPB"
@@ -1748,7 +1766,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 195692,
       "name": "Luminous Mind",
       "url": "https://open.spotify.com/track/0QrazvL9WC3OhJGlnhKBuo"
@@ -1856,7 +1874,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 132203,
       "name": "Melody in the Rain",
       "url": "https://open.spotify.com/track/4Bl2g1lL12IxgQRfFiRQuR"
@@ -2400,7 +2418,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 168517,
       "name": "Ritorna per sempre",
       "url": "https://open.spotify.com/track/0SzIrNbNDpUN8jpHdlnSaz"
@@ -2782,7 +2800,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 164100,
       "name": "Spirit of Suvidha",
       "url": "https://open.spotify.com/track/4grKRzSE5X7wagEemdYcK6"
@@ -3322,7 +3340,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 138600,
       "name": "Until Dawn",
       "url": "https://open.spotify.com/track/0zuvJ3nl5sq8gAX59COKdN"
@@ -3394,7 +3412,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 159374,
       "name": "Walk of the spirits",
       "url": "https://open.spotify.com/track/4JACIMZAYI7XVct3neUH90"

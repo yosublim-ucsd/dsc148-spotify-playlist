@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Eden Muñoz, Luck Ra
 
-[Spotify](https://open.spotify.com/user/spotify) - 664,375 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 664,481 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 35 | [El Cigarro de Tino](https://open.spotify.com/track/1mWBTCy9fbqFmEe8SUUwgF) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [El Cigarro de Tino](https://open.spotify.com/album/22Nib72iw8615kPaKHUfe9) | 3:12 |
 | 36 | [Vida De Revista](https://open.spotify.com/track/6OXxEgJUqj6VvCLzPdSQ78) | [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC), [GRUPO MÁXIMA AUTORIDAD](https://open.spotify.com/artist/4q387526Mzf8gSizxTIiq4) | [Vida De Revista](https://open.spotify.com/album/007xvDt2142MS0YBUkP0Xd) | 3:25 |
 | 37 | [Madonna](https://open.spotify.com/track/6KTxbrRJdX7KIxjWMsHL7P) | [La Imponente Vientos de Jalisco](https://open.spotify.com/artist/4Tx6Ti44QhL2JRmHSu1mU7) | [Madonna](https://open.spotify.com/album/3CgvhHuwNnEHH1qopcieI3) | 2:55 |
-| 38 | [Alrato Te Me Pasas \- Cover](https://open.spotify.com/track/56RwXdb0cRY9jCLyPEqBnz) | [Solido](https://open.spotify.com/artist/2f6HJFmIQEIUdJGUAZcTIj) | [Alrato Te Me Pasas \(Cover\)](https://open.spotify.com/album/6fK10e5VKPYCqF7RNmDT9U) | 3:34 |
+| 38 | [Alrato Te Me Pasas](https://open.spotify.com/track/56RwXdb0cRY9jCLyPEqBnz) | [Solido](https://open.spotify.com/artist/2f6HJFmIQEIUdJGUAZcTIj) | [Alrato Te Me Pasas](https://open.spotify.com/album/6fK10e5VKPYCqF7RNmDT9U) | 3:34 |
 | 39 | [Blues No\. 8](https://open.spotify.com/track/3EZKxg7CwtO8CvsTSbEPtH) | [La Leyenda](https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn) | [Blues No\. 8](https://open.spotify.com/album/5dLGAi6G9Ih1uMGY0ulPwi) | 3:26 |
 | 40 | [EL](https://open.spotify.com/track/0cp2JvbIz95NbvhDUjEOMa) | [Saul Villarreal](https://open.spotify.com/artist/2x8UcZmAbP008alg57hI3K) | [Ilusión](https://open.spotify.com/album/3w6NNRVZY39VlbI40NIB6b) | 3:27 |
 | 41 | [Otra Vez](https://open.spotify.com/track/0H2Qw0TmKOBNsGBgetLJph) | [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl) | [Otra Vez](https://open.spotify.com/album/2mCITGYipdoLlHale4oiOJ) | 3:12 |

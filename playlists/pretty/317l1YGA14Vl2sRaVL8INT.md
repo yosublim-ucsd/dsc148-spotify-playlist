@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/317l1YGA14Vl2sRaVL8INT.md) - [plain]
 
 > It’s pop punk, it’s the best\. Celebrating 30 years of Hopeless Records.
 
-[Hopeless Records](https://open.spotify.com/user/hopelessrecords) - 43,629 likes - 106 songs - 5 hr 50 min
+[Hopeless Records](https://open.spotify.com/user/hopelessrecords) - 43,631 likes - 106 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Deadbolt](https://open.spotify.com/track/0NO7LPtpU4nyYoctchHsOr) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Deadbolt](https://open.spotify.com/album/6amJ15wX2tAUGw0Ma33xM8) | 2:25 |
+| 1 | [Deadbolt](https://open.spotify.com/track/0NO7LPtpU4nyYoctchHsOr) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K), [Hopelessly Devoted To You](https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8) | [Deadbolt](https://open.spotify.com/album/6amJ15wX2tAUGw0Ma33xM8) | 2:25 |
 | 2 | [Deadbolt](https://open.spotify.com/track/5Kj6WCM3ZNak8s8DCh95XX) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Illusion of Safety](https://open.spotify.com/album/1FPafRXRCsX5ZDhL16Qlyc) | 3:00 |
-| 3 | [Unholy Confessions](https://open.spotify.com/track/6Y5DKaZn11PJy3hlsw2rKt) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Unholy Confessions](https://open.spotify.com/album/7q4jZunVEEHBCpTvU6AZuE) | 4:39 |
+| 3 | [Unholy Confessions](https://open.spotify.com/track/6Y5DKaZn11PJy3hlsw2rKt) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r), [Hopelessly Devoted To You](https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8) | [Unholy Confessions](https://open.spotify.com/album/7q4jZunVEEHBCpTvU6AZuE) | 4:39 |
 | 4 | [Unholy Confessions](https://open.spotify.com/track/78XFPcFYN8YFOHjtVwnPsl) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk) | 4:43 |
-| 5 | [I Miss Having Sex But At Least I Don't Wanna Die Anymore](https://open.spotify.com/track/1bOGXE0pJ19nDabUM9wlR6) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [I Miss Having Sex But At Least I Don't Wanna Die Anymore](https://open.spotify.com/album/5oHRBkovo2MwTnjorK3d16) | 2:05 |
+| 5 | [I Miss Having Sex But At Least I Don't Wanna Die Anymore](https://open.spotify.com/track/1bOGXE0pJ19nDabUM9wlR6) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM), [Hopelessly Devoted To You](https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8) | [I Miss Having Sex But At Least I Don't Wanna Die Anymore](https://open.spotify.com/album/5oHRBkovo2MwTnjorK3d16) | 2:05 |
 | 6 | [I Miss Having Sex But At Least I Don't Wanna Die Anymore](https://open.spotify.com/track/2Rmw7J0krEU75ffhkaK93D) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FANDOM](https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb) | 2:13 |
 | 7 | [Dumbstruck Dumbf\*\*k](https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 2:58 |
 | 8 | [Ocean Avenue](https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 3:18 |

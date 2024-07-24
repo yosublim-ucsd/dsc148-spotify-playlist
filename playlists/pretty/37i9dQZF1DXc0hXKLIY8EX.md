@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 
 > New York, Jersey and Connecticut music breaking waves\. Curated by: <a href="spotify:artist:1WcZXhILKBJktTKnqfjWMT">Kitty Ca$h</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,239 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,247 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 | 49 | [Bonnie & Shyne \(feat\. Barrington Levy\)](https://open.spotify.com/track/0UmIdWRGDL5gkXnqG9ZozM) | [Shyne](https://open.spotify.com/artist/64ovxBmjJ9ZDqkzEXVWpVc), [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Shyne](https://open.spotify.com/album/3HjNR0QUTdQ5xPBp7ymw2N) | 4:17 |
 | 50 | [Dipset Anthem](https://open.spotify.com/track/3rvM0obwHthpskrZKQxYLa) | [The Diplomats](https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi) | [Diplomatic Immunity](https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk) | 4:09 |
 | 51 | [Pop Champagne \(feat\. Juelz Santana\) \- Explicit Album Version](https://open.spotify.com/track/5lrOsw7J8R7shum7A4j36t) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Ron Browz](https://open.spotify.com/artist/1iqf0x89oxmmAFv9w9hiJM), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [Pray IV Reign](https://open.spotify.com/album/5KeOOX9AvR13yopcOZWazo) | 3:35 |
-| 52 | [The Future](https://open.spotify.com/track/3HnXU2ld6yt5URuEYzlL5t) | [Massive Sounds](https://open.spotify.com/artist/68TdHCXHDsvJGVFRTMPDAH) | [A Lost Era in NYC 1987 \- 1992](https://open.spotify.com/album/0yyM3vkmFtkOkLKzz44qnC) | 6:56 |
+| 52 | [The Future](https://open.spotify.com/track/3HnXU2ld6yt5URuEYzlL5t) | [Massive Sounds](https://open.spotify.com/artist/5QmSXHYzeGwtS31wYV8Ury) | [A Lost Era in NYC 1987 \- 1992](https://open.spotify.com/album/0yyM3vkmFtkOkLKzz44qnC) | 6:56 |
 | 53 | [Down For My Niggaz](https://open.spotify.com/track/6SSJcmQgBEvHqqCivyVfqG) | [C\-Murder](https://open.spotify.com/artist/4135eJjHCRw5SuVzLfzR0x), [Magic](https://open.spotify.com/artist/5RszwcBlHzry6slQ9LRcSw), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Trapped In Crime](https://open.spotify.com/album/7MDd3o71CPSVTi3F58gWVu) | 3:45 |
 | 54 | [What You Know Bout Love](https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 2:40 |
 | 55 | [What They Call Me](https://open.spotify.com/track/79qSLBw54yfALjCp41cTkn) | [Rah Digga](https://open.spotify.com/artist/1uT0jnwsq3AifrLorG4UDt) | [Dirty Harriet](https://open.spotify.com/album/6OUIOBJjnQvKB3e22hAQEm) | 3:49 |

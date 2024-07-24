@@ -4,7 +4,7 @@
 
 > Everyone deserves a happy ending\. Listen to the music from Deadpool ahead of Deadpool & Wolverine, coming soon to theaters.
 
-53 songs - 2 hr 53 min
+54 songs - 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Only You \- Re\-Recorded](https://open.spotify.com/track/2GuTKe67s8VBtdqtRE9nd2) | [The Platters](https://open.spotify.com/artist/6BegLrPRWvCirC0LllaVCA) | [Only You \(Re\-Recorded \- Acapella\)](https://open.spotify.com/album/1HYzh0OFuAeSmMyqiO8wPr) | 2:45 | 2024-07-17 |  |
 | [Scrap Yard](https://open.spotify.com/track/5FA4q0k2hH7GJhGVrjo5v5) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Deadpool \(Original Soundtrack Album\)](https://open.spotify.com/album/6VYJa5gmoecpJavlgh0BHH) | 1:02 | 2024-05-20 |  |
 | [Shoop](https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Very Necessary](https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g) | 4:08 | 2024-05-20 |  |
+| [SLASH](https://open.spotify.com/track/2MKGrYH1PyPAUKu2Sl8IaT) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SLASH](https://open.spotify.com/album/7pu8cy2ZNnN2rlLlkXXwq9) | 3:11 | 2024-07-23 |  |
 | [Small Disruption](https://open.spotify.com/track/22LFxrcbZNaorrX9rKcsrW) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Deadpool \(Original Soundtrack Album\)](https://open.spotify.com/album/6VYJa5gmoecpJavlgh0BHH) | 1:12 | 2024-05-20 |  |
 | [Stupider When You Say It](https://open.spotify.com/track/2qmRKwJD5AjiqJ3c2tYU4c) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Deadpool \(Original Soundtrack Album\)](https://open.spotify.com/album/6VYJa5gmoecpJavlgh0BHH) | 2:24 | 2024-05-20 |  |
 | [Take On Me \- MTV Unplugged](https://open.spotify.com/track/7htt7UuxHL5wneOcMWJP5E) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [MTV Unplugged \- Summer Solstice](https://open.spotify.com/album/55SHqC4ZxSnT0wWQgg9eOY) | 4:13 | 2024-05-20 |  |

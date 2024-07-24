@@ -3135,6 +3135,28 @@
     },
     {
       "album": {
+        "name": "Empty Trainload Of Sky",
+        "url": "https://open.spotify.com/album/5ojEvbXKOHXughEQcGoUwD"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        },
+        {
+          "name": "David Rawlings",
+          "url": "https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204914,
+      "name": "Empty Trainload Of Sky",
+      "url": "https://open.spotify.com/track/4XNeSs0RanJTsQ8XF5OYes"
+    },
+    {
+      "album": {
         "name": "End Of The Line [Feat. Aaron Neville]",
         "url": "https://open.spotify.com/album/6Jej60SOD8fojT5s4HHsGS"
       },

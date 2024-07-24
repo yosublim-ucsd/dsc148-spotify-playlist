@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3h2IgKtlJYBhfbxPRuHMEG.md) - [plain]
 
 > The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: FrostTop
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 489 likes - 100 songs - 5 hr 36 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 488 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Punjabi](https://open.spotify.com/playlist/37i9dQZF1DX292jPa6tXaE)
 
-> Discover new Punjabi artists! Cover: Jaby
+> Discover new Punjabi artists! Cover: Kalra Saab
 
-55 songs - 2 hr 38 min
+57 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Backhome](https://open.spotify.com/track/0GhRs7Mj3bJyHR94IswfXN) | [Prabh Bains](https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Backhome](https://open.spotify.com/album/7LwdMsMPLn3RgCQpyBQKPY) | 2:42 | 2024-07-10 | 2024-07-17 |
 | [BARREL](https://open.spotify.com/track/6rjyW0rSUTVwZO42QdsEbG) | [JATINDER SANDHU](https://open.spotify.com/artist/4cOSuBnGP1eqfqwk8eAnsq) | [BARREL](https://open.spotify.com/album/1g2MXouj62HSUnW3wsLDIO) | 2:12 | 2024-07-03 |  |
 | [Breed](https://open.spotify.com/track/6wh2PO9EVUPXCaJYzXXQsE) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Qarn](https://open.spotify.com/artist/6iQlgUcQyy89NF7n9xs1FG), [Leo Rana](https://open.spotify.com/artist/3tAjZSorMLv8rskQQy0DLu) | [Breed](https://open.spotify.com/album/2cGBmj1TSZ3T0UROXRLOBp) | 2:18 | 2024-07-03 |  |
-| [Breeze](https://open.spotify.com/track/6Q3Vmb5Fic1bRv6EnQ1nsg) | [Supreet Singh](https://open.spotify.com/artist/6pICJ9L34VsLAdPfSpCT5n) | [Breeze](https://open.spotify.com/album/3DLvYUpFnSAp5yPpNzGYO7) | 3:04 | 2024-07-03 |  |
+| [Breeze](https://open.spotify.com/track/6Q3Vmb5Fic1bRv6EnQ1nsg) | [Supreet Singh](https://open.spotify.com/artist/6pICJ9L34VsLAdPfSpCT5n) | [Breeze](https://open.spotify.com/album/3DLvYUpFnSAp5yPpNzGYO7) | 3:04 | 2024-07-03 | 2024-07-24 |
 | [Chann](https://open.spotify.com/track/6B4fsij9F9St8IpnKOWZ8j) | [Harsh Sandhu](https://open.spotify.com/artist/2CHBl68TFdhrBp0unns5ZY) | [Chann](https://open.spotify.com/album/6yAF3pRecIAH5DhG5hb1Qv) | 2:45 | 2024-07-03 |  |
 | [Chitte Te La Gyi](https://open.spotify.com/track/1dLBKArxfhzaw1JAD3VzDg) | [Supernova Muzic](https://open.spotify.com/artist/2dYNHuh7x5ySIMUG6ZvvYp) | [Chitte Te La Gyi](https://open.spotify.com/album/05Jo6Av74UjT1l0FLRC3Bj) | 3:11 | 2024-07-03 | 2024-07-17 |
 | [Chorni](https://open.spotify.com/track/0E5ZAOPHtBvDVJ7FwQHo9p) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [MERCURY](https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW) | 2:18 | 2024-07-03 |  |
@@ -40,13 +40,15 @@
 | [Let It Be](https://open.spotify.com/track/01ShIzQsKqIasK06g9tFDc) | [NADAR](https://open.spotify.com/artist/1Bgk62DL2Mc8CthtepdVBr), [DaBrown](https://open.spotify.com/artist/4xAjp5uHf1HTQnXMGPZEMC) | [Let It Be](https://open.spotify.com/album/38mmeFfHE8qrujAZQ2jV9U) | 3:34 | 2024-07-03 |  |
 | [Let's Ride Together](https://open.spotify.com/track/02dbngFtyEzsKdk85n7LPi) | [Davinder Dhillon](https://open.spotify.com/artist/76gJAlgNxPb4NpMY87qxrn) | [Let's Ride Together](https://open.spotify.com/album/5VNzg7iZv171Y5TqB16Lm0) | 3:04 | 2024-07-03 |  |
 | [Long Distance](https://open.spotify.com/track/2uGov0C50BMmNhWEjznwIL) | [Qarn](https://open.spotify.com/artist/6iQlgUcQyy89NF7n9xs1FG), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM), [Deep Bajheriwala](https://open.spotify.com/artist/7rZrBECX3UBrOBloYmC7jL) | [Long Distance](https://open.spotify.com/album/32aTwYbiLXm2Gna2RAkm3h) | 2:19 | 2024-07-03 |  |
-| [Lovelorn](https://open.spotify.com/track/0zGC8T0XicGLBJbFCb2SLn) | [Pavvi Singh](https://open.spotify.com/artist/4p8vDVPxlrR6IVZvIwqsJF) | [Lovelorn](https://open.spotify.com/album/14XhzE5O1I4sq16dWx8s3a) | 2:36 | 2024-07-03 |  |
+| [Lovelorn](https://open.spotify.com/track/0zGC8T0XicGLBJbFCb2SLn) | [Pavvi Singh](https://open.spotify.com/artist/4p8vDVPxlrR6IVZvIwqsJF) | [Lovelorn](https://open.spotify.com/album/14XhzE5O1I4sq16dWx8s3a) | 2:36 | 2024-07-03 | 2024-07-24 |
+| [Main Teriyan](https://open.spotify.com/track/596eXAmuLYKtUXVBgImgr2) | [Kalra Saab](https://open.spotify.com/artist/52wEoKNZk5QyZrVDFI3jWD) | [Main Teriyan](https://open.spotify.com/album/50eQJlIfGhAa17U636kEei) | 3:35 | 2024-07-23 |  |
 | [Makeup](https://open.spotify.com/track/6BcO4yobIcPtMZfmSVA0Mi) | [Simar Sethi](https://open.spotify.com/artist/16oBN2vPJych5RW6qJg8XI), [Saga Sounds](https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN), [Jeet Gill](https://open.spotify.com/artist/5IhKG4KW7qxkYRmNv6adl2) | [Makeup](https://open.spotify.com/album/6njfoEOxQA7TWhk4v7Oi7D) | 2:52 | 2024-07-03 |  |
 | [MERA YAAR](https://open.spotify.com/track/5EkuhS6Fxi7JgwaNJaaVvB) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP) | [MERA YAAR](https://open.spotify.com/album/7Fq5g1BORrbYwavQKvmyHC) | 3:18 | 2024-07-03 |  |
 | [Meri Sorry](https://open.spotify.com/track/1KiRR1KUh4w8UFkj7nBei9) | [Simmi Virk](https://open.spotify.com/artist/7dgHHyujaW1YGhycujHnj7), [Jus Keys](https://open.spotify.com/artist/27OucFF5mWVB8L55dp5RJP), [Vinder Nathu Majra](https://open.spotify.com/artist/1B4NLf9v1eIpwm8vZCEOKN) | [Meri Sorry](https://open.spotify.com/album/6g5Zt8zkDLmKYJtghOqSek) | 4:21 | 2024-07-03 |  |
 | [Mi Precioso](https://open.spotify.com/track/6dD2PSY0pVmkQKsyflBR92) | [Jas Chahal](https://open.spotify.com/artist/1dEQI8eLF7oqlS3iV8aH24), [Nawab Khan](https://open.spotify.com/artist/36jHfTqq00vX3h5qu1yuWO), [Deol Harman](https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa) | [Mi Precioso](https://open.spotify.com/album/5y868NRUeKZvLnPtHnKC44) | 2:52 | 2024-07-03 |  |
 | [Mithiyan Maar Ke](https://open.spotify.com/track/7pgosVSOiaC5lP1kXn6OJI) | [Arsh Maini](https://open.spotify.com/artist/4ImRA2lyBqPcegIXeCmPvj), [Chobbxr](https://open.spotify.com/artist/6EG5sYMUAuU5Y1bD4r8JGU) | [Mithiyan Maar Ke](https://open.spotify.com/album/5hH98GCotwvLKLh4Z9GtGl) | 2:32 | 2024-07-03 |  |
 | [Muqabala](https://open.spotify.com/track/10LE4vS4t6omJmadQQeqOg) | [The Ranjha](https://open.spotify.com/artist/23gh7bRgR4erlbpfArCjOF), [The Kidd](https://open.spotify.com/artist/7rs8gMmzWfpTdRodGfBq3w) | [Muqabala](https://open.spotify.com/album/5QFYUisazLdsrFLpILm3iL) | 2:30 | 2024-07-03 |  |
+| [One Side](https://open.spotify.com/track/5VW6S70Y49aXLD80n4KJpo) | [Jaby](https://open.spotify.com/artist/43EHJ772rdjyyT5jOXsPaQ) | [One Side](https://open.spotify.com/album/5npAFG27HowT3zQb7DMtP1) | 2:49 | 2024-07-23 |  |
 | [Paisa](https://open.spotify.com/track/49Enb7JmNLeNLq8k5YHp9S) | [Karma](https://open.spotify.com/artist/4sBNHDKJHXwpXVoMNRV3Ol) | [Paisa](https://open.spotify.com/album/7jLJcHGDgJxbkJtxN14gh9) | 2:08 | 2024-07-03 |  |
 | [Pasand](https://open.spotify.com/track/3s607yqwmhwVTSEEu8kU1S) | [HRJXT](https://open.spotify.com/artist/4s5P33ladNMi7gcBMHwp9a), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Pasand](https://open.spotify.com/album/6IbHnrRFkokRd6jrOoSTfk) | 2:12 | 2024-07-03 |  |
 | [Pyaar Jeha](https://open.spotify.com/track/4e02hXlLN8HXnLctxmpDNY) | [Jaby](https://open.spotify.com/artist/43EHJ772rdjyyT5jOXsPaQ) | [Pyaar Jeha](https://open.spotify.com/album/0I3SOKo41LBRK0HCyUUDRB) | 2:33 | 2024-07-16 |  |

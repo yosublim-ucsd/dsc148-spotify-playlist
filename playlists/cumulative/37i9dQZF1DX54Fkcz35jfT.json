@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: 10-FEET",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: The BONEZ",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -312,7 +312,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-23",
+      "date_removed": null,
       "duration_ms": 178938,
       "name": "BATMAN",
       "url": "https://open.spotify.com/track/2mjmpNRKFWlPXiN3KCfK8t"
@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 225308,
       "name": "Dark Horse",
       "url": "https://open.spotify.com/track/5tdi3BqFzpYVAaXi2qwC2Y"
@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 183163,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/1NC0kno3QW9FgX0vlhZ8pu"
@@ -4290,6 +4290,28 @@
       "duration_ms": 320980,
       "name": "Still Burning",
       "url": "https://open.spotify.com/track/5Ep7HRnmu32mSkk1U1eaYQ"
+    },
+    {
+      "album": {
+        "name": "Straight Up",
+        "url": "https://open.spotify.com/album/4pIsjjQsa4krzRpcI2sds5"
+      },
+      "artists": [
+        {
+          "name": "The BONEZ",
+          "url": "https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ"
+        },
+        {
+          "name": "Kj",
+          "url": "https://open.spotify.com/artist/2dSWXwLgHi3PrwT9l1CKDq"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252300,
+      "name": "Straight Up",
+      "url": "https://open.spotify.com/track/01yS4eW9jeCPXJgz6I7DxJ"
     },
     {
       "album": {

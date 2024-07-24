@@ -4,7 +4,7 @@
 
 > Najlepsza świeża polska alternatywa\. Cover: Ofelia
 
-144 songs - 7 hr 59 min
+145 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [MIASTO AWANTUR](https://open.spotify.com/track/5XviZjMYtVOUTGg28EH2TP) | [Jędrzej Wise](https://open.spotify.com/artist/6OhvvOofPPDksfUkjcKgsC), [Krzy Krzysztof](https://open.spotify.com/artist/72D9Z2UoIl2Bhy1aoBajzi), [maszaitsme](https://open.spotify.com/artist/1dOCtyVzQv3kaoCQKPyxfN), [Wroobel](https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS) | [MIASTO AWANTUR](https://open.spotify.com/album/6HO76guwAcbrxelENdWSGJ) | 3:32 | 2024-07-11 |  |
 | [Miałeś być](https://open.spotify.com/track/6VZZhPyAo9U7ZTBRXduWBH) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [PROJEKT WOW](https://open.spotify.com/artist/5PMVw2BdUOLVhFe0Hibkms) | [Miałeś być](https://open.spotify.com/album/3CBHukc8YI5PSfaurN9JCS) | 2:57 | 2024-06-27 |  |
 | [MINIE LATO](https://open.spotify.com/track/3C6pTtv1YHbUabZ71x1YQv) | [SMKKPM](https://open.spotify.com/artist/4lCX5p5WkECbLeUgUC6myj), [mayke](https://open.spotify.com/artist/3pz6wDI5WQRQRWj3YtU89d) | [MINIE LATO](https://open.spotify.com/album/1CUjBOuyUsoxuiPPVUWHXH) | 2:16 | 2024-07-11 | 2024-07-19 |
-| [mleko i mood](https://open.spotify.com/track/2kVqFphu0NCZ0BOBVfeCov) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [mleko i mood](https://open.spotify.com/album/6vOopwGrl03G72HFat8jkR) | 3:22 | 2024-06-27 |  |
+| [mleko i mood](https://open.spotify.com/track/2kVqFphu0NCZ0BOBVfeCov) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [mleko i mood](https://open.spotify.com/album/6vOopwGrl03G72HFat8jkR) | 3:22 | 2024-06-27 | 2024-07-24 |
 | [modlę się o nic](https://open.spotify.com/track/6xBI2Hw30aTk3ljNNAMx39) | [Senny](https://open.spotify.com/artist/1G9URp0t7Z45RhHHUdRo5P) | [modlę się o nic](https://open.spotify.com/album/4NUbtyqacVHHLh5FyOduwg) | 2:56 | 2024-06-27 | 2024-07-19 |
 | [Moja](https://open.spotify.com/track/0j5i4GzBdNrgsxK5wbkOP8) | [Łukasz Drapała](https://open.spotify.com/artist/4k4q4VaHJ1vUXWBTGrYorY) | [Moja](https://open.spotify.com/album/05kxfEZEOrk7VhlnZoCuW5) | 3:10 | 2024-07-18 |  |
 | [Moja droga](https://open.spotify.com/track/6CI1dS84yJlTzhHRcaak34) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY), [Hades](https://open.spotify.com/artist/3MblUyzg5WUKZQhWGpyk5B), [2K88](https://open.spotify.com/artist/1U1CwZeD8SU65TWHjLoPFY) | [Moja droga](https://open.spotify.com/album/0Pu9usfeyXKV8kiOeTsfvL) | 3:23 | 2024-06-27 | 2024-07-19 |
@@ -72,6 +72,7 @@
 | [Nie biłeś się nigdy o mnie](https://open.spotify.com/track/4uNqvR2hKyBHE3tFzwJuOZ) | [Mikromusic](https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5) | [Nie biłeś się nigdy o mnie](https://open.spotify.com/album/7zzPcdyNM39ID3bJcdHtaZ) | 3:13 | 2024-06-27 |  |
 | [nie o Tobie](https://open.spotify.com/track/4L1W2Ecp7nL3C6VLKbg8JB) | [nic nic](https://open.spotify.com/artist/3iXF1TPd2ydHapLJ6uPqUi) | [nie o Tobie](https://open.spotify.com/album/5kfUaKJ3uVq4GQIzcLPIMv) | 2:37 | 2024-06-27 | 2024-07-12 |
 | [Nie Wiem Jak Jest](https://open.spotify.com/track/3llPwITzXBO5CHoHe9PSvl) | [Hedone](https://open.spotify.com/artist/6V5i3nKQb9azqjqdCLlQFJ) | [600 Lat Samotności](https://open.spotify.com/album/0a2ceno5j7BykP4mwf979O) | 3:12 | 2024-07-11 |  |
+| [Niebo](https://open.spotify.com/track/1v5ABm7hr2XBx9RButUtJh) | [Galecki](https://open.spotify.com/artist/3IK9XKgPI53fY6E48Oi5S4) | [Niebo](https://open.spotify.com/album/1eQB1O1BbF5eZhvuKPKKpB) | 3:34 | 2024-07-23 |  |
 | [Nieromantycznie](https://open.spotify.com/track/4k5d14f7JuF6mhKkJx7K97) | [Aga Bigaj](https://open.spotify.com/artist/0VZDjI0a13ul3WeprkpDSI) | [Nieromantycznie](https://open.spotify.com/album/38dNvBvy6BjmhjgMgz2sKl) | 3:51 | 2024-06-27 | 2024-07-12 |
 | [NIGDY NIE ZAKOCHAM SIĘ](https://open.spotify.com/track/3YUc20JqdQyeMYPCshA6AG) | [Ofelia](https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX) | [NIGDY NIE ZAKOCHAM SIĘ](https://open.spotify.com/album/5cc2v2DnjLnKzWT3p8ISqR) | 3:44 | 2024-07-18 |  |
 | [Nim przykryje kurz](https://open.spotify.com/track/7fnfY4WdBrHS9RMlLmUXnK) | [Rubens](https://open.spotify.com/artist/0f53X3udWEWIhMbmuWdxo7) | [Nim przykryje kurz](https://open.spotify.com/album/5F3TsXvAr2piL4qINgAMK1) | 3:16 | 2024-06-27 |  |

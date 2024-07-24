@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-203 songs - 14 hr 22 min
+204 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Eternal Summer](https://open.spotify.com/track/0MlfXAmNFfukGWTm4eQNU2) | [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS) | [Eternal Summer](https://open.spotify.com/album/4BzUIyGCKu1Ywv9qceWMe2) | 4:33 | 2022-01-14 | 2022-07-29 |
 | [Face The Sun](https://open.spotify.com/track/1NBGV6jaSjoCtdhwQlaj1n) | [Yeadon](https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn) | [Face The Sun](https://open.spotify.com/album/5AiQ3B6Tdr19gfEgurUS4Z) | 7:19 | 2022-01-14 | 2022-07-29 |
 | [Face The Sun](https://open.spotify.com/track/5HexTiFznk9l0KMEJq54AI) | [Yeadon](https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn) | [Face The Sun](https://open.spotify.com/album/7AY9Y7FUFNwFVQYxVn2h9B) | 7:19 | 2022-01-14 | 2023-05-30 |
-| [Fall Between The Cracks](https://open.spotify.com/track/37FvnZdhlIjEqCGrpqjxdD) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Fall Between The Cracks](https://open.spotify.com/album/6b0Q7jiXPpDpvWjGRs0nJV) | 3:46 | 2024-05-10 |  |
+| [Fall Between The Cracks](https://open.spotify.com/track/37FvnZdhlIjEqCGrpqjxdD) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Fall Between The Cracks](https://open.spotify.com/album/6b0Q7jiXPpDpvWjGRs0nJV) | 3:46 | 2024-05-10 | 2024-07-24 |
 | [Fallen](https://open.spotify.com/track/6I0i1jsugzmfYHbRRLfAXY) | [Jerome Price](https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8) | [Fallen](https://open.spotify.com/album/66M5YSekgQPGWLhU2cdVOA) | 3:25 | 2022-01-14 | 2022-11-26 |
 | [Fallen](https://open.spotify.com/track/71yhzfnnCJGyqASU49wKJO) | [Jerome Price](https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8) | [Fallen](https://open.spotify.com/album/2lU1O72Qpkh9PFhP5UQM4F) | 3:25 | 2022-11-25 | 2024-02-22 |
 | [Famax](https://open.spotify.com/track/4yhqQAKFiHNCXpxxFVhxRq) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/1wwVoTyNUWFP6BAOcGWbZI) | 5:35 | 2024-04-05 | 2024-07-20 |
@@ -61,6 +61,7 @@
 | [Felt \(feat\. Henry Green\)](https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [A Life](https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R) | 3:19 | 2024-05-10 |  |
 | [Floral Decor](https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Floral Decor](https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX) | 4:08 | 2022-01-14 | 2024-02-24 |
 | [Fortified](https://open.spotify.com/track/4DCUXQ5oVnTqEnCgK65B5a) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT), [Dwara](https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG) | [Fortified](https://open.spotify.com/album/3CY9DD7Kle1y2hA5tjoT4I) | 3:32 | 2024-07-05 |  |
+| [Freedom 2024](https://open.spotify.com/track/3g3wivIMksmnO0k4Hy2aSn) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [CeCe Rogers](https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1) | [Freedom 2024](https://open.spotify.com/album/2xCpkjYMEJQ2dFHxl3zOsI) | 2:41 | 2024-07-18 |  |
 | [Freedom Call](https://open.spotify.com/track/68ctazgs0K7svqWLzsheDB) | [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Black 8](https://open.spotify.com/artist/4cYiFuL9moK820ABEN99ju) | [Freedom Call](https://open.spotify.com/album/6MdOQa7i68HuppXqgBgkEo) | 3:59 | 2022-11-25 | 2024-03-18 |
 | [Freedom Call](https://open.spotify.com/track/6CujcykyguhQMztfXWNlQz) | [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Black 8](https://open.spotify.com/artist/4cYiFuL9moK820ABEN99ju) | [Freedom Call](https://open.spotify.com/album/3ePjxQHzc4yLtu7fuHOXTo) | 3:59 | 2022-01-14 | 2022-11-09 |
 | [Garden](https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Garden](https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm) | 3:35 | 2022-01-14 | 2024-04-04 |

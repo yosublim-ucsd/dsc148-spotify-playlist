@@ -4,7 +4,7 @@
 
 > This week's best new tracks in metal, hard rock, and all things heavy\. Cover: Imminence
 
-6,949 songs - 19 day 13 hr 42 min
+6,950 songs - 19 day 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1671,6 +1671,7 @@
 | [Digital Bullets \(feat\. Chris Motionless\)](https://open.spotify.com/track/1a7hFfEXGJKSKSFKDoufPi) | [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [Chris Motionless](https://open.spotify.com/artist/2bulKOP1y1iUYGE6FcMrHd) | [The Call of the Void](https://open.spotify.com/album/6v472xKTGoBedRClrXfY45) | 3:58 | 2023-07-07 | 2023-07-15 |
 | [Digital Hellscape](https://open.spotify.com/track/6O4huUphk6Xc7P6nOIzn6E) | [Texas In July](https://open.spotify.com/artist/3J5OtMrtDAw0IcanJR28Ya) | [Without Reason](https://open.spotify.com/album/21oA6Z4rEAQnPVt4rw1c7i) | 2:55 | 2023-11-17 | 2023-11-25 |
 | [Digital Junkie](https://open.spotify.com/track/3UexiN7dco9dZtmjo5I8b1) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Digital Junkie](https://open.spotify.com/album/2GaVzUFa9vB1F3ouVefd7w) | 3:42 | 2022-02-17 | 2022-03-04 |
+| [Digital Numb](https://open.spotify.com/track/7K6Rw8bymSUuAHtRQ4GfVe) | [Dark Divine](https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX) | [Digital Numb](https://open.spotify.com/album/0mKvtFI3mBGZ3JftMulDKo) | 3:21 | 2024-07-23 |  |
 | [Digital Sea](https://open.spotify.com/track/2kETSkWftrKAiljmcBMp55) | [Lions At The Gate](https://open.spotify.com/artist/2w31BeEjUAUda4Qya5wtil) | [The Excuses We Cannot Make](https://open.spotify.com/album/0gJ8Q54bXOtutGVoRKlDKu) | 4:05 | 2023-08-25 | 2023-08-30 |
 | [Digital Sea](https://open.spotify.com/track/5TjZ42d17pQfzgJ5TbByjI) | [Lions At The Gate](https://open.spotify.com/artist/2w31BeEjUAUda4Qya5wtil) | [The Excuses We Cannot Make](https://open.spotify.com/album/1CHpiJDADFFbO3rzs09YXK) | 4:05 | 2023-08-25 | 2023-09-02 |
 | [Digital Twin](https://open.spotify.com/track/6ZIQ6EuZuolQGgW21KIhzp) | [Last Chance To Reason](https://open.spotify.com/artist/2yipEy4OI8E6ppgifCkKKS) | [Digital Twin](https://open.spotify.com/album/7ooKMG7XDkHb4iH6lRKE3o) | 5:05 | 2024-01-12 | 2024-01-20 |

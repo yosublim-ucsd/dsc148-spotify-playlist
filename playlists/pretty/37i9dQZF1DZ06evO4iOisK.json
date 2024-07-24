@@ -1,12 +1,12 @@
 {
   "description": "This is SPYAIR. The essential tracks, all in one playlist.",
-  "num_followers": 25007,
+  "num_followers": 25010,
   "original_name": "This Is SPYAIR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpxPgAAAAADXA529cTo7P65POHyZFRq+",
+  "snapshot_id": "Zp2hAAAAAAALDGJy4RiJYI2C6P/X27Vq",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MILLION",
-        "url": "https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58"
+        "name": "KINGDOM",
+        "url": "https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 298813,
-      "name": "\u8679",
-      "url": "https://open.spotify.com/track/4025tnZPnd3kpYuGytu3Mo"
+      "duration_ms": 300173,
+      "name": "\u541b\u304c\u3044\u305f\u590f",
+      "url": "https://open.spotify.com/track/4ZE0oGkJo6jSWtg2nKKdUi"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KINGDOM",
-        "url": "https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX"
+        "name": "MILLION",
+        "url": "https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 300173,
-      "name": "\u541b\u304c\u3044\u305f\u590f",
-      "url": "https://open.spotify.com/track/4ZE0oGkJo6jSWtg2nKKdUi"
+      "duration_ms": 298813,
+      "name": "\u8679",
+      "url": "https://open.spotify.com/track/4025tnZPnd3kpYuGytu3Mo"
     },
     {
       "added_at": null,

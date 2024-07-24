@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpxPgAAAAAAYME60MzC0ZCf8b3zLkYWw",
+  "snapshot_id": "Zp2hAAAAAADESgr6GYhVxfjLY9PBJuGN",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 214426,
       "name": "LoLo Felix",
       "url": "https://open.spotify.com/track/1VibppoKjhco3CmIbEcsC0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En La Fuga",
-        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 175872,
-      "name": "Platicame De Ti",
-      "url": "https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4"
     },
     {
       "added_at": null,
@@ -63,6 +47,22 @@
       "duration_ms": 172316,
       "name": "Vida Peligrosa (feat. Arsenal Efectivo & Omar Ruiz)",
       "url": "https://open.spotify.com/track/7k7r1GvHZQ06n7fFFLrxCn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En La Fuga",
+        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 175872,
+      "name": "Platicame De Ti",
+      "url": "https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4"
     },
     {
       "added_at": null,
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En La Fuga",
-        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 132800,
-      "name": "38 y Super",
-      "url": "https://open.spotify.com/track/2ccEuah5UamtifhUsHoBCR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pura Lumbre",
         "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
       },
@@ -135,6 +119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En La Fuga",
+        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 132800,
+      "name": "38 y Super",
+      "url": "https://open.spotify.com/track/2ccEuah5UamtifhUsHoBCR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seguiremos Trabajando",
         "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
       },
@@ -147,6 +147,22 @@
       "duration_ms": 183501,
       "name": "Dicen Que Soy Marihuano",
       "url": "https://open.spotify.com/track/6bo5XTVD5D84mECgjaZXad"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vida Peligrosa",
+        "url": "https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 127253,
+      "name": "Arsenal Efectivo",
+      "url": "https://open.spotify.com/track/48lGvpvrgmH0MHv07J9EUp"
     },
     {
       "added_at": null,
@@ -187,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vida Peligrosa",
-        "url": "https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Tali 50",
-      "url": "https://open.spotify.com/track/7FNL3TSmusZoSBrgYW4r2M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seguiremos Trabajando",
         "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
       },
@@ -215,6 +215,22 @@
       "duration_ms": 146499,
       "name": "Playas",
       "url": "https://open.spotify.com/track/7xVJ2ccRAQpUWL6fHPslqL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vida Peligrosa",
+        "url": "https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Tali 50",
+      "url": "https://open.spotify.com/track/7FNL3TSmusZoSBrgYW4r2M"
     },
     {
       "added_at": null,
@@ -259,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vida Peligrosa",
-        "url": "https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 177506,
-      "name": "Soy Ayon",
-      "url": "https://open.spotify.com/track/59R6ch1PRI9YY7aGHGiOc0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seguiremos Trabajando",
         "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
       },
@@ -287,6 +287,22 @@
       "duration_ms": 146249,
       "name": "Gente De Negocio",
       "url": "https://open.spotify.com/track/3rZXsyClbQZPN20u3h8ADk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vida Peligrosa",
+        "url": "https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 177506,
+      "name": "Soy Ayon",
+      "url": "https://open.spotify.com/track/59R6ch1PRI9YY7aGHGiOc0"
     },
     {
       "added_at": null,

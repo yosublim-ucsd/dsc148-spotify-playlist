@@ -4,7 +4,7 @@
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-283 songs - 17 hr 19 min
+284 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,8 @@
 | [New South Africa](https://open.spotify.com/track/4iLDm89exSxhdjEtzQ4Ctq) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Abigail Washburn](https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP) | [Béla Fleck & Abigail Washburn](https://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm) | 4:33 | 2021-12-03 |  |
 | [No Resolution](https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Fork In The Road](https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes) | 4:48 | 2021-12-03 |  |
 | [No Wise Men](https://open.spotify.com/track/2RjM38LJMAb4GxMthocOXY) | [Mark Grundhoefer](https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w), [David Brimer](https://open.spotify.com/artist/668Oojl6P3J0BOUymsWnOh) | [No Wise Men](https://open.spotify.com/album/2MTB8w2lEje2L5DVub4hYk) | 3:07 | 2022-07-08 |  |
-| [No\. 444](https://open.spotify.com/track/72Xjcfh50FRUeMaomktamF) | [Wood Box Heroes](https://open.spotify.com/artist/2ywJwGJPEbhirJb831dHtH) | [Wood Box Heroes](https://open.spotify.com/album/0KMYFch1J5SGDL6Zz4if9f) | 3:07 | 2024-05-10 |  |
+| [No\. 444](https://open.spotify.com/track/62UxY8jTCQIOJglkZl2QuW) | [Wood Box Heroes](https://open.spotify.com/artist/2ywJwGJPEbhirJb831dHtH) | [444](https://open.spotify.com/album/66W5KTdHyd7pCtULDT6VLB) | 3:06 | 2024-07-13 |  |
+| [No\. 444](https://open.spotify.com/track/72Xjcfh50FRUeMaomktamF) | [Wood Box Heroes](https://open.spotify.com/artist/2ywJwGJPEbhirJb831dHtH) | [Wood Box Heroes](https://open.spotify.com/album/0KMYFch1J5SGDL6Zz4if9f) | 3:07 | 2024-05-10 | 2024-07-24 |
 | [North Missouri Wagoner](https://open.spotify.com/track/0HIWU30PMWj7RdH24YvjWW) | [Hannah Read](https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9), [Michael Starkey](https://open.spotify.com/artist/0v5kYF6D2YsoToYXmEUhYk) | [North Missouri Wagoner](https://open.spotify.com/album/3IJaZbvZENYGvQSv225EOS) | 2:53 | 2022-06-25 | 2022-07-08 |
 | [Old Joe Clark](https://open.spotify.com/track/6p54JGVQTiP2oT8UBnOW8L) | [David Grisman](https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O), [Tony Rice](https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr) | [The Gasoline Brothers](https://open.spotify.com/album/19w0zikbLZgW8v7BKjyeTX) | 3:16 | 2022-11-18 |  |
 | [Once in a Thousand](https://open.spotify.com/track/4SyZE6yKsawGAlkks34FfX) | [Chandler Beavers](https://open.spotify.com/artist/0O4QuWDJqAFumy2JFr4Srv), [Caleb Cox](https://open.spotify.com/artist/0tnOQUxUsvtuOzlQjFxenc), [Chris Stockwell](https://open.spotify.com/artist/3UyfWIdlmw1ejsXy1h3owu), [Brendan Macie](https://open.spotify.com/artist/2lctN9BubZrESorwh3JGHT), [Lars Swanson](https://open.spotify.com/artist/43AjHzaUAjsoTmaOJWqqzQ) | [4:09](https://open.spotify.com/album/2KwAbI08WaxaEABYTgSPpJ) | 4:18 | 2023-06-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Ivan Cornejo, Rauw Alejandro, Chencho Corleone, Ela Taubert and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,062 likes - 53 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,115 likes - 53 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

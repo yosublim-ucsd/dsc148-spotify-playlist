@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste nye knive i dansk musik! <a href=\"spotify:artist:6J9AFauvtJJ8brNaiWwWat\">Sira Jovina</a> p\u00e5 forsiden\ud83d\udd2a",
-  "num_followers": 23255,
+  "num_followers": 23265,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -127,18 +127,22 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Regn",
-        "url": "https://open.spotify.com/album/5xRpLE2g1CpQStr3AeNYHl"
+        "name": "N\u00e5r Man Taler Om Solen",
+        "url": "https://open.spotify.com/album/4TQRX60tYsCyalmTrFNxrx"
       },
       "artists": [
         {
-          "name": "\u00d8sten",
-          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
+        },
+        {
+          "name": "Hans Philip",
+          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
         }
       ],
-      "duration_ms": 222537,
-      "name": "Regn",
-      "url": "https://open.spotify.com/track/2fPIqRfy3iZIFwycVk8J90"
+      "duration_ms": 172338,
+      "name": "Gennem Dit Hjerte (feat. Hans Philip)",
+      "url": "https://open.spotify.com/track/2nnuovjlAAfkGRTPW1NJOb"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -159,22 +163,18 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "N\u00e5r Man Taler Om Solen",
-        "url": "https://open.spotify.com/album/4TQRX60tYsCyalmTrFNxrx"
+        "name": "Regn",
+        "url": "https://open.spotify.com/album/5xRpLE2g1CpQStr3AeNYHl"
       },
       "artists": [
         {
-          "name": "MAS",
-          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
-        },
-        {
-          "name": "Hans Philip",
-          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
+          "name": "\u00d8sten",
+          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
         }
       ],
-      "duration_ms": 172338,
-      "name": "Gennem Dit Hjerte (feat. Hans Philip)",
-      "url": "https://open.spotify.com/track/2nnuovjlAAfkGRTPW1NJOb"
+      "duration_ms": 222537,
+      "name": "Regn",
+      "url": "https://open.spotify.com/track/2fPIqRfy3iZIFwycVk8J90"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "B\u00e6nkevarmer",
+        "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
+      },
+      "artists": [
+        {
+          "name": "Ida Laurberg",
+          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
+        }
+      ],
+      "duration_ms": 234138,
+      "name": "Uden At T\u00e6nke P\u00e5 Dig",
+      "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "</3",
         "url": "https://open.spotify.com/album/5eLaGyEggzHmcTzRQyGkzq"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 203218,
       "name": "Til Mit Hjerte Stopper (feat. Kundo)",
       "url": "https://open.spotify.com/track/5aZzTieCOHU3CfhLJ7FSyS"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "B\u00e6nkevarmer",
-        "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
-      },
-      "artists": [
-        {
-          "name": "Ida Laurberg",
-          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
-        }
-      ],
-      "duration_ms": 234138,
-      "name": "Uden At T\u00e6nke P\u00e5 Dig",
-      "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Dopa min",
-        "url": "https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b"
-      },
-      "artists": [
-        {
-          "name": "Bette",
-          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
-        }
-      ],
-      "duration_ms": 161911,
-      "name": "Dopa min",
-      "url": "https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Lander Et Sted",
         "url": "https://open.spotify.com/album/053hmh2lhKniUcNLL8NkKF"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 173508,
       "name": "Lander Et Sted",
       "url": "https://open.spotify.com/track/1dO1mdz4CTpn2ep7kMYaqY"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Dopa min",
+        "url": "https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b"
+      },
+      "artists": [
+        {
+          "name": "Bette",
+          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
+        }
+      ],
+      "duration_ms": 161911,
+      "name": "Dopa min",
+      "url": "https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "B\u00e6nkevarmer",
-        "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
-      },
-      "artists": [
-        {
-          "name": "Ida Laurberg",
-          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
-        }
-      ],
-      "duration_ms": 205238,
-      "name": "B\u00e6nkevarmer",
-      "url": "https://open.spotify.com/track/5rfWrweJSSVvC4Mg7opz8I"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Ung & Smuk",
         "url": "https://open.spotify.com/album/34l6ED81fuFFDNLy4jJWX3"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 160974,
       "name": "Ung & Smuk",
       "url": "https://open.spotify.com/track/1TXZrOx2LgKZfHsxKyUSia"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "B\u00e6nkevarmer",
+        "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
+      },
+      "artists": [
+        {
+          "name": "Ida Laurberg",
+          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
+        }
+      ],
+      "duration_ms": 205238,
+      "name": "B\u00e6nkevarmer",
+      "url": "https://open.spotify.com/track/5rfWrweJSSVvC4Mg7opz8I"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Siger Det Ik'",
-        "url": "https://open.spotify.com/album/1hdjh1iAjtRzAwKfy8LMO8"
-      },
-      "artists": [
-        {
-          "name": "UNG-SKAB",
-          "url": "https://open.spotify.com/artist/7JfoyGGsFgGPfhgfPvpqk8"
-        }
-      ],
-      "duration_ms": 168986,
-      "name": "Siger Det Ik'",
-      "url": "https://open.spotify.com/track/0A4EXxKqR3WSfft3rwFeHU"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "dagdr\u00f8mmer (akustisk version)",
         "url": "https://open.spotify.com/album/7f6dsDteuo24cgM9vK5RSh"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 184075,
       "name": "Levende Billeder",
       "url": "https://open.spotify.com/track/586R54PZL7ylXFu9UIiPTx"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Siger Det Ik'",
+        "url": "https://open.spotify.com/album/1hdjh1iAjtRzAwKfy8LMO8"
+      },
+      "artists": [
+        {
+          "name": "UNG-SKAB",
+          "url": "https://open.spotify.com/artist/7JfoyGGsFgGPfhgfPvpqk8"
+        }
+      ],
+      "duration_ms": 168986,
+      "name": "Siger Det Ik'",
+      "url": "https://open.spotify.com/track/0A4EXxKqR3WSfft3rwFeHU"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Sol Gennem Regn",
-        "url": "https://open.spotify.com/album/1wnPzqdbhmYpeuZ5TZe385"
-      },
-      "artists": [
-        {
-          "name": "UNG-SKAB",
-          "url": "https://open.spotify.com/artist/7JfoyGGsFgGPfhgfPvpqk8"
-        }
-      ],
-      "duration_ms": 173450,
-      "name": "Sol Gennem Regn",
-      "url": "https://open.spotify.com/track/17n1KmOAVGpXe8BnWKrAD4"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Forfra Forbundet",
         "url": "https://open.spotify.com/album/0gq6IFI5AgEr5ygk1CjEMW"
       },
@@ -1139,6 +1123,38 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "GENSTART",
+        "url": "https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11"
+      },
+      "artists": [
+        {
+          "name": "PATINA",
+          "url": "https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh"
+        }
+      ],
+      "duration_ms": 280244,
+      "name": "Genstart",
+      "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Sol Gennem Regn",
+        "url": "https://open.spotify.com/album/1wnPzqdbhmYpeuZ5TZe385"
+      },
+      "artists": [
+        {
+          "name": "UNG-SKAB",
+          "url": "https://open.spotify.com/artist/7JfoyGGsFgGPfhgfPvpqk8"
+        }
+      ],
+      "duration_ms": 173450,
+      "name": "Sol Gennem Regn",
+      "url": "https://open.spotify.com/track/17n1KmOAVGpXe8BnWKrAD4"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "Noget For Nogen",
         "url": "https://open.spotify.com/album/4cTBw8cEyxgshlZz5SO447"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 204000,
       "name": "Noget For Nogen",
       "url": "https://open.spotify.com/track/6nzQ4R4i3g70M0ZKo8qaiT"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Bedre",
-        "url": "https://open.spotify.com/album/0zsJJ0AfLC7ZBePfhHK88h"
-      },
-      "artists": [
-        {
-          "name": "Bette",
-          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
-        }
-      ],
-      "duration_ms": 170727,
-      "name": "Bedre",
-      "url": "https://open.spotify.com/track/5Ql2mALNZqpOGjIniaI5sY"
     }
   ],
   "unique_name": "ung kniv ",

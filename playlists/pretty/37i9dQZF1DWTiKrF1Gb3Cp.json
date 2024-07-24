@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 206933,
+  "num_followers": 206971,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "El r\u00e1pido y la muerte",
-        "url": "https://open.spotify.com/album/4KEAWW8uiHym3lJLk35aKb"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        },
-        {
-          "name": "Noel Torres",
-          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
-        }
-      ],
-      "duration_ms": 140063,
-      "name": "El r\u00e1pido y la muerte",
-      "url": "https://open.spotify.com/track/1IsSTMD9AL0wokF1pfxiyd"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
         "name": "Pandillero Pero Millonario (feat. Santa Fe Klan)",
         "url": "https://open.spotify.com/album/2KLvSqqH6CC1Ka9Tks0HgP"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 243999,
       "name": "Pandillero Pero Millonario (feat. Santa Fe Klan)",
       "url": "https://open.spotify.com/track/3AiQx9X4ZJIsd4h7vE7zDx"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "El r\u00e1pido y la muerte",
+        "url": "https://open.spotify.com/album/4KEAWW8uiHym3lJLk35aKb"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Noel Torres",
+          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
+        }
+      ],
+      "duration_ms": 140063,
+      "name": "El r\u00e1pido y la muerte",
+      "url": "https://open.spotify.com/track/1IsSTMD9AL0wokF1pfxiyd"
     },
     {
       "added_at": "2024-07-19 06:00:00",

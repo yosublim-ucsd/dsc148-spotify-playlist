@@ -4588,7 +4588,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 156893,
       "name": "Carrousel",
       "url": "https://open.spotify.com/track/3VoiH20aQU7IbbgVidWE5P"
@@ -13034,7 +13034,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 227826,
       "name": "KIF KIF",
       "url": "https://open.spotify.com/track/23iRPid7TsITfNxKGL0toM"
@@ -16003,6 +16003,24 @@
     },
     {
       "album": {
+        "name": "Mahboul Ana",
+        "url": "https://open.spotify.com/album/5S0X8OEdaDeVvvH5EoSlxY"
+      },
+      "artists": [
+        {
+          "name": "Lazaro",
+          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185077,
+      "name": "Mahboul Ana",
+      "url": "https://open.spotify.com/track/2YmbOhmRPDZ5XD5l9jROln"
+    },
+    {
+      "album": {
         "name": "MAHBOULA",
         "url": "https://open.spotify.com/album/6xxm174FrG6Mni52k9UFWL"
       },
@@ -18644,7 +18662,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-21",
+      "date_removed": null,
       "duration_ms": 273454,
       "name": "NIKEY",
       "url": "https://open.spotify.com/track/3pkKb7bj2eVQjNaHOGzYSf"
@@ -23386,7 +23404,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-21",
+      "date_removed": null,
       "duration_ms": 192340,
       "name": "Si tu savais",
       "url": "https://open.spotify.com/track/2XoeD3lix5eVNEa40ZFtHW"
@@ -24564,7 +24582,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 235139,
       "name": "Still Alive",
       "url": "https://open.spotify.com/track/0RNLOJuaBDGzg7oS4qS8OT"

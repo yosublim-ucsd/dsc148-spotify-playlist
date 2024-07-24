@@ -1375,6 +1375,24 @@
     },
     {
       "album": {
+        "name": "ok :)",
+        "url": "https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209327,
+      "name": "ok :)",
+      "url": "https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt"
+    },
+    {
+      "album": {
         "name": "ok :/",
         "url": "https://open.spotify.com/album/7JMRoCMELpRyMhzj8XAkmt"
       },
@@ -2044,6 +2062,24 @@
       "duration_ms": 190018,
       "name": "Un buon inizio",
       "url": "https://open.spotify.com/track/1VlJaPRbfyyOkEVaWJhRdg"
+    },
+    {
+      "album": {
+        "name": "pok\u00e9 melodrama",
+        "url": "https://open.spotify.com/album/2wTktpdvwoQdSYVhw54Lbz"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159262,
+      "name": "una bella canzone",
+      "url": "https://open.spotify.com/track/5OuXhUBx0w4ruJymbEFgYJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,419 songs - 2 day 5 hr 27 min
+1,420 songs - 2 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -917,6 +917,7 @@
 | [Out The Blue \- Beat Edit](https://open.spotify.com/track/0C0YfH9QJ0vh0p4yQyjZyU) | [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH), [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [Out The Blue \(Beat Edit\)](https://open.spotify.com/album/4cjeF3pTkT8til7510bCSp) | 1:30 | 2022-01-27 | 2022-09-17 |
 | [Outdoor Seating](https://open.spotify.com/track/2rIfTTZC9pfxczVyBxlVEI) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Outdoor Seating](https://open.spotify.com/album/0IXP86oI4kFKsKzSCW6mtJ) | 2:17 | 2022-01-27 | 2022-07-01 |
 | [Over Again](https://open.spotify.com/track/6m4dF4GCkRzD28MkynaziJ) | [kosmikk](https://open.spotify.com/artist/7ttBQqZEqRcKAyTstldlyj), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Over Again](https://open.spotify.com/album/5UMYKt3BUeSc54rEZMIV1F) | 1:54 | 2022-05-27 | 2022-08-19 |
+| [Overjoyed](https://open.spotify.com/track/45PnHB5hvvieNVYE5UnGKa) | [Dozed Again](https://open.spotify.com/artist/3vOFXxcfuGSZQKpj6Ueinf) | [Overjoyed](https://open.spotify.com/album/3GIwh9JOwT3dvcoWlc6uwR) | 2:00 | 2024-07-19 |  |
 | [Oxydation](https://open.spotify.com/track/0ps8AEK7yyrTjM2DAO7gKN) | [static breather](https://open.spotify.com/artist/7Cs5V32aCaZI0kSYXSk30A) | [Oxydation](https://open.spotify.com/album/3Eq4Y7vwtCceabjf9EwwPX) | 2:28 | 2022-01-27 | 2022-10-15 |
 | [oyoyoy](https://open.spotify.com/track/3olHLiTm1rO8x0MzyP1ad7) | [bito bitox](https://open.spotify.com/artist/4biX5gqFgXs4cSzHcdVFms) | [oyoyoy](https://open.spotify.com/album/6pC5QrbAOUJcl4Tu62lRmR) | 2:24 | 2022-01-27 | 2022-11-12 |
 | [Oysterz](https://open.spotify.com/track/2TdkjlncY2p0VM4HxavJY9) | [Oysterz](https://open.spotify.com/artist/0VzxjGtQNEMzEZJV0NNpQq) | [ramen noodles](https://open.spotify.com/album/4HCYUlbLLPHu0Jo4UCvxLx) | 2:21 | 2023-09-08 |  |
@@ -969,7 +970,7 @@
 | [Post Truth](https://open.spotify.com/track/71UZNO2eVE8dqoThogxIin) | [Beatific Vision](https://open.spotify.com/artist/3VPIbKQGNGPsJN9WGpnILw) | [Post Truth](https://open.spotify.com/album/064VOoFuTQLCSlfGccJAjq) | 1:23 | 2023-04-11 | 2023-09-29 |
 | [Pour the Blue](https://open.spotify.com/track/6b7oKYz6sfV90rMTG4Bkvu) | [Jackson Hacking](https://open.spotify.com/artist/220Ej7lTYoyJxdsbGwahB6) | [Pour The Blue](https://open.spotify.com/album/1TzJxGqIZ81oRWXdiEkisM) | 2:05 | 2022-01-27 | 2022-09-23 |
 | [Pressure](https://open.spotify.com/track/4vAz4u1ThUJULhu7wySGrs) | [PRODA](https://open.spotify.com/artist/2wKsHaG2GNyzDYW3nhDlJZ) | [Pressure](https://open.spotify.com/album/3NOAjaGP9BiEuyN5jUaPSE) | 2:34 | 2023-11-17 |  |
-| [preview](https://open.spotify.com/track/4mPYGec9TWUSvow9OhU59v) | [merīkurisumasu!](https://open.spotify.com/artist/2xyYJCo9TXPAQZvPCR2L97) | [preview](https://open.spotify.com/album/5rdIaM518SZWB9nf2IzGHU) | 1:30 | 2022-09-30 |  |
+| [preview](https://open.spotify.com/track/4mPYGec9TWUSvow9OhU59v) | [merīkurisumasu!](https://open.spotify.com/artist/2xyYJCo9TXPAQZvPCR2L97) | [preview](https://open.spotify.com/album/5rdIaM518SZWB9nf2IzGHU) | 1:30 | 2022-09-30 | 2024-07-24 |
 | [Principles](https://open.spotify.com/track/0dgAgBQijLtATLnQ9wxjrk) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Eggz Benny](https://open.spotify.com/album/3zuujkBis1epFkensMUnp7) | 2:05 | 2022-03-04 | 2023-05-20 |
 | [Private Room](https://open.spotify.com/track/3pw1MCuiKn7szIVEzJV2Qt) | [Henry Lowe](https://open.spotify.com/artist/1Op6kjtkZu2Yqx5UprLQVt) | [Private Room](https://open.spotify.com/album/5UWzqfmBQBt1rY10gVG1Gk) | 3:18 | 2022-08-12 |  |
 | [Promenade](https://open.spotify.com/track/3JDOvZ4CWTKkutg1Yb7jaU) | [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q), [Homson](https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2) | [Promenade](https://open.spotify.com/album/1ANpESUR6OSsyGpreUnGKE) | 2:20 | 2022-09-16 | 2023-03-09 |

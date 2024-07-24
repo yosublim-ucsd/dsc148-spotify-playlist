@@ -1,6 +1,6 @@
 {
   "description": "blir det en hvit sommer?",
-  "num_followers": 110618,
+  "num_followers": 110640,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -523,18 +523,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "S\u00e5nn So Det Va F\u00f8r",
-        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
+        "name": "FREDAG",
+        "url": "https://open.spotify.com/album/2FlDQsT40blZmH2HAt097u"
       },
       "artists": [
         {
-          "name": "Vassendgutane",
-          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
+          "name": "Silje Bakke",
+          "url": "https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c"
+        },
+        {
+          "name": "Jamze",
+          "url": "https://open.spotify.com/artist/3OBoHiFRFSu5KaqskfBDPX"
         }
       ],
-      "duration_ms": 278457,
-      "name": "S\u00e5nn So Det Va F\u00f8r",
-      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
+      "duration_ms": 127026,
+      "name": "FREDAG",
+      "url": "https://open.spotify.com/track/2BW06C7AAEjCdK6GVi2tzU"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -575,22 +579,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "FREDAG",
-        "url": "https://open.spotify.com/album/2FlDQsT40blZmH2HAt097u"
+        "name": "S\u00e5nn So Det Va F\u00f8r",
+        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
       },
       "artists": [
         {
-          "name": "Silje Bakke",
-          "url": "https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c"
-        },
-        {
-          "name": "Jamze",
-          "url": "https://open.spotify.com/artist/3OBoHiFRFSu5KaqskfBDPX"
+          "name": "Vassendgutane",
+          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
         }
       ],
-      "duration_ms": 127026,
-      "name": "FREDAG",
-      "url": "https://open.spotify.com/track/2BW06C7AAEjCdK6GVi2tzU"
+      "duration_ms": 278457,
+      "name": "S\u00e5nn So Det Va F\u00f8r",
+      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Bara vara med dig",
-        "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
+        "name": "Bygda v\u00e5r",
+        "url": "https://open.spotify.com/album/0LLyHCTAT1jgF0cnOioJJk"
       },
       "artists": [
         {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
         }
       ],
-      "duration_ms": 161267,
-      "name": "Bara vara med dig",
-      "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
+      "duration_ms": 161418,
+      "name": "Bygda v\u00e5r",
+      "url": "https://open.spotify.com/track/7GkeilYNSQTNQnyX9YGibA"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

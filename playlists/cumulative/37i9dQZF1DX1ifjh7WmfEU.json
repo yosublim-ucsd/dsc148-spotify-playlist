@@ -3981,6 +3981,24 @@
     },
     {
       "album": {
+        "name": "to be better again",
+        "url": "https://open.spotify.com/album/7uHoxKaEL3Gq28RYRCpIZs"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Mind",
+          "url": "https://open.spotify.com/artist/4eixU2X2ZzzxUNiCv4OZA5"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "to be better again",
+      "url": "https://open.spotify.com/track/7A5KsH4tO6rdv4RN3qNzUu"
+    },
+    {
+      "album": {
         "name": "To The Mountain",
         "url": "https://open.spotify.com/album/3oeXa4YitPTXSnMTRRbpOF"
       },

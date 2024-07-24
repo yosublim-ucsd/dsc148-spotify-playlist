@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-757 songs - 1 day 8 hr 48 min
+758 songs - 1 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Blijheid](https://open.spotify.com/track/5JkjVf8tpS6JiBQ8M56Lhe) | [Annebelle Coenraad](https://open.spotify.com/artist/3WBXpzZraL3JcZGch7287z) | [Blijheid](https://open.spotify.com/album/0glfYY0y3DtvgPb4LpHzVM) | 2:30 | 2022-05-26 |  |
 | [Blossom](https://open.spotify.com/track/02zIWKGNiMG0buJZs0atfc) | [Dennis Korn](https://open.spotify.com/artist/1YITDkdJkXrk05uBpnWw4P) | [Blossom](https://open.spotify.com/album/77dcOLHLEG9rwf6scPD2GY) | 1:31 | 2022-10-14 | 2023-07-25 |
 | [Blue River](https://open.spotify.com/track/789zWw6YwOpoDXoyRXaG1R) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Madrigal](https://open.spotify.com/album/3T4PBqvtzGDoVuD6wXmzu8) | 3:21 | 2022-04-15 | 2022-04-23 |
+| [Bonds](https://open.spotify.com/track/19Le1uK7augMwFgc6wUOWe) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Bonds](https://open.spotify.com/album/4FXjKSGBPFLk9h70k8NTxg) | 2:07 | 2024-07-23 |  |
 | [Botanical](https://open.spotify.com/track/0auGwYryPNa1UIEn3BrIx0) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Botanical](https://open.spotify.com/album/4j5uGANP6T2CGeyhKa6BGZ) | 2:23 | 2022-04-15 | 2024-04-10 |
 | [Boundaries](https://open.spotify.com/track/6fcBDcZTZVx1jJAED8KYv0) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Boundaries](https://open.spotify.com/album/2B6kWesA1AyfYfG6VxZN2b) | 2:50 | 2022-04-15 | 2023-08-15 |
 | [Branches étoilées](https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Branches étoilées](https://open.spotify.com/album/1EpKF5KgUMncRXA0hC4MJj) | 2:46 | 2022-04-15 | 2024-03-19 |

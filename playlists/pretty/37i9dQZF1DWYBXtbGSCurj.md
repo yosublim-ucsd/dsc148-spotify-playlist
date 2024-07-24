@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: BIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,222 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,268 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 71 | [PLAQUE](https://open.spotify.com/track/5XfxNjRbr9oPnpKkzTZ21L) | [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk), [Tevito](https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf), [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe) | [PLAQUE](https://open.spotify.com/album/2iK9eRH3H0KuqsGs6tNAJx) | 3:23 |
 | 72 | [Rainha da Finesse](https://open.spotify.com/track/0w7vodPWFEcuEYvWpbNbOu) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Vagabundo de Luxo](https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv) | 2:46 |
 | 73 | [EXPLÍCITO](https://open.spotify.com/track/44pMN39R6Mz6yaxzlE8WX8) | [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Neconbeat](https://open.spotify.com/artist/0FbOZwBS2giL3NOXLUoLQu), [A$IX](https://open.spotify.com/artist/2mxXr2xQSfM4JVO4pxhJjP) | [EXPLÍCITO](https://open.spotify.com/album/0t2KenW1hmQpTHESZFcZoA) | 2:59 |
-| 74 | [Será](https://open.spotify.com/track/1mmLSjtDosfkTD8cU5n9cc) | [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU) | [Será](https://open.spotify.com/album/2oIOH6l8OnlUrgq9zt20L0) | 2:02 |
+| 74 | [Será](https://open.spotify.com/track/1mmLSjtDosfkTD8cU5n9cc) | [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU), [PROD OGG](https://open.spotify.com/artist/1aGYEe3T6Es7aIjI7ePvyb) | [Será](https://open.spotify.com/album/2oIOH6l8OnlUrgq9zt20L0) | 2:02 |
 | 75 | [Inconvencional](https://open.spotify.com/track/3URgu7EkiNuswUVoXVE4BX) | [Magrão AllFavela](https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY), [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM) | [Mixtape Novset, Vol\. 1](https://open.spotify.com/album/7kcsgu8mvNtnM9DUoMg2U6) | 2:28 |
 
 Snapshot ID: `ZpnW7AAAAABAZ64MWnb/svElKFNgiXio`

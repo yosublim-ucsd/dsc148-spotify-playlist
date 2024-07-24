@@ -506,7 +506,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 317648,
       "name": "piano (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/2mcCtXijdSmKPJanbsq3y3"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 222727,
       "name": "\u305d\u3093\u306a\u3053\u3068\u8a00\u308f\u306a\u3044\u3067\u3088 (feat. \u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/71UxNdsNguzTYAM7dhodgP"
@@ -997,6 +997,24 @@
     },
     {
       "album": {
+        "name": "\u307f\u306f\u308b\u304b\u3059",
+        "url": "https://open.spotify.com/album/2y2ZMpW2KcSkG1gUXR3Nb0"
+      },
+      "artists": [
+        {
+          "name": "cat nap",
+          "url": "https://open.spotify.com/artist/5kcEo2AxXur3mNk3c1R7N7"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214699,
+      "name": "\u307f\u306f\u308b\u304b\u3059 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/2ACcn2G6N32XwVQPRQ1V2P"
+    },
+    {
+      "album": {
         "name": "ROVE-Remaster-",
         "url": "https://open.spotify.com/album/50exdrbp8eQmXTRJuSk4Ra"
       },
@@ -1038,6 +1056,28 @@
       "duration_ms": 301868,
       "name": "\u3088\u308f\u3080\u3057\u3068\u304b\u3052\u306e\u30d5\u30ec\u30fc\u30ec (feat. \u97f3\u8857\u30a6\u30ca)",
       "url": "https://open.spotify.com/track/28dOFnXc4oLSOA6g5KsHe7"
+    },
+    {
+      "album": {
+        "name": "\u30a6\u30bd\u306e\u3064\u304d\u304b\u305f",
+        "url": "https://open.spotify.com/album/74quUVvVDRTxRAOQVrDtZl"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u305a\u3081\u306e\u3081",
+          "url": "https://open.spotify.com/artist/4cifhCWjXaMshfZxoAltRF"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248925,
+      "name": "\u308f\u305f\u3042\u3081 (feat. \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/1Ck3xKvWX2CXrJ9TDvtHTg"
     },
     {
       "album": {
@@ -1318,7 +1358,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 186486,
       "name": "\u30b9\u30ab\u30fc\u30c6\u30a3\u30b7\u30e5\u30fc (feat. MEIKO)",
       "url": "https://open.spotify.com/track/2Fvjx8UvSw4dVfvUyqHtmV"
@@ -1344,6 +1384,28 @@
       "duration_ms": 162150,
       "name": "\u30c4\u30ae\u30cf\u30ae\u30ca\u30e0\u30b8\u30ab (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/1m0G8vtPj0SB2vaohgbjdj"
+    },
+    {
+      "album": {
+        "name": "\u30c9\u30e9\u30a4\u30c9\u30e9\u30a4\u30d5\u30e9\u30ef\u30fc",
+        "url": "https://open.spotify.com/album/4kT4ppxo1nVy2c24Dob4b9"
+      },
+      "artists": [
+        {
+          "name": "Toa",
+          "url": "https://open.spotify.com/artist/0GpuT5uCfbeG4IwyPLvJ7b"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154363,
+      "name": "\u30c9\u30e9\u30a4\u30c9\u30e9\u30a4\u30d5\u30e9\u30ef\u30fc (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/59Ox4WDNrLbe5OixGHuyWx"
     },
     {
       "album": {
@@ -1490,6 +1552,28 @@
       "duration_ms": 298641,
       "name": "\u30d4\u30a2\u30cb\u30b7\u30e2 (feat. \u93e1\u97f3\u30ec\u30f3)",
       "url": "https://open.spotify.com/track/7njNeIOQDqdU0ATytrZ2td"
+    },
+    {
+      "album": {
+        "name": "\u3042\u3053\u304c\u308c\u306f\u54b2\u304d",
+        "url": "https://open.spotify.com/album/3dPMzQh7HZSoYlU1OSHK35"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u5b50",
+          "url": "https://open.spotify.com/artist/0dRTohab8XeVhAB7Xb0mPK"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215200,
+      "name": "\u30d4\u30a2\u30cb\u30b9\u30c8 (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/2WQ4Qe2eBUQ8qVcEvLTeTd"
     },
     {
       "album": {
@@ -1800,7 +1884,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 224347,
       "name": "\u4e94\u6708\u96e8 (feat. \u82b1\u9688\u5343\u51ac)",
       "url": "https://open.spotify.com/track/1rfKUaBY93Y5U2wVYPMYtO"
@@ -1956,7 +2040,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 175000,
       "name": "\u5922\u3067\u9022\u3048\u305f\u3089 (feat. KAITO)",
       "url": "https://open.spotify.com/track/5NWj7fGZCDQWWqKkk1Cz3w"
@@ -2018,6 +2102,28 @@
       "duration_ms": 169756,
       "name": "\u5bdd\u9854",
       "url": "https://open.spotify.com/track/1b40zl0fa5v0Ey8a9EzwKW"
+    },
+    {
+      "album": {
+        "name": "\u611b\u5bfe\u3059\u308b\u54c0\u306b\u3064\u3044\u3066",
+        "url": "https://open.spotify.com/album/0mFZKSAHCU9FYMrgH94uDQ"
+      },
+      "artists": [
+        {
+          "name": "nogumi",
+          "url": "https://open.spotify.com/artist/1JjUaqy0XWsW95PFEctSs8"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227076,
+      "name": "\u611b\u5bfe\u3059\u308b\u54c0\u306b\u3064\u3044\u3066 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/57mlIUKN4t9E3QrCU6tJUd"
     },
     {
       "album": {

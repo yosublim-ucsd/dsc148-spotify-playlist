@@ -1733,6 +1733,24 @@
     },
     {
       "album": {
+        "name": "El Amanecer",
+        "url": "https://open.spotify.com/album/6aRSkv2lYrBQZ66KNckTOZ"
+      },
+      "artists": [
+        {
+          "name": "Algot Brooke",
+          "url": "https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134350,
+      "name": "El Amanecer",
+      "url": "https://open.spotify.com/track/3oPTemjjHIfNeHOcJOXNJT"
+    },
+    {
+      "album": {
         "name": "Elevate",
         "url": "https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO"
       },
@@ -4442,6 +4460,24 @@
       "duration_ms": 137393,
       "name": "Parallel",
       "url": "https://open.spotify.com/track/1e8J1ZdmX0HcWWfxcCA5Zm"
+    },
+    {
+      "album": {
+        "name": "Particles",
+        "url": "https://open.spotify.com/album/2hkdSb3Av1Z1JP67nKZpxX"
+      },
+      "artists": [
+        {
+          "name": "Arlo Thiem",
+          "url": "https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159750,
+      "name": "Particles",
+      "url": "https://open.spotify.com/track/30eikMQkwP7jtD5SnYCBbB"
     },
     {
       "album": {

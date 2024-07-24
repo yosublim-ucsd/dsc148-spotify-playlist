@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollandse hits\. Cover: André Hazes & Mart Hoogkamer
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,330 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,372 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Zij Begrijpt Het](https://open.spotify.com/track/6rk8aJ7P3O7OhdQQ0ce29e) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Zij Begrijpt Het](https://open.spotify.com/album/1nUC9zziMNcQBg4pu1pVv5) | 2:49 |
+| 1 | [Suavemente, Dans Met Mij](https://open.spotify.com/track/2GLSRL3sIOQR5TTppRqkjj) | [Gerard Palts](https://open.spotify.com/artist/7agcYn7rMxlilM5iilw4qf), [Trafassi](https://open.spotify.com/artist/2Vf41WkCUjjGaAuCF3cd9O) | [Suavemente, Dans Met Mij](https://open.spotify.com/album/26N1Eca9A56lXptg6u9T9M) | 3:10 |
 | 2 | [Zij Is Van Mij](https://open.spotify.com/track/5ElK7HPvWfRYOzz6F6ICId) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Zij Is Van Mij](https://open.spotify.com/album/42ySQUp33CT7jH0XTOVYPh) | 2:25 |
-| 3 | [Vannacht Slaap Jij Bij Mij](https://open.spotify.com/track/7gv9Ky47iGM6LRp5aO5tkt) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs) | [Vannacht Slaap Jij Bij Mij](https://open.spotify.com/album/72aiMSxFyKAiY4mrolRPgj) | 2:28 |
-| 4 | [Suavemente, Dans Met Mij](https://open.spotify.com/track/2GLSRL3sIOQR5TTppRqkjj) | [Gerard Palts](https://open.spotify.com/artist/7agcYn7rMxlilM5iilw4qf), [Trafassi](https://open.spotify.com/artist/2Vf41WkCUjjGaAuCF3cd9O) | [Suavemente, Dans Met Mij](https://open.spotify.com/album/26N1Eca9A56lXptg6u9T9M) | 3:10 |
+| 3 | [Zij Begrijpt Het](https://open.spotify.com/track/6rk8aJ7P3O7OhdQQ0ce29e) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Zij Begrijpt Het](https://open.spotify.com/album/1nUC9zziMNcQBg4pu1pVv5) | 2:49 |
+| 4 | [Vannacht Slaap Jij Bij Mij](https://open.spotify.com/track/7gv9Ky47iGM6LRp5aO5tkt) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs) | [Vannacht Slaap Jij Bij Mij](https://open.spotify.com/album/72aiMSxFyKAiY4mrolRPgj) | 2:28 |
 | 5 | [Met Het Vliegtuig Naar Spanje](https://open.spotify.com/track/1nCs068okLCuxJeFnObvbC) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm) | [Met Het Vliegtuig Naar Spanje](https://open.spotify.com/album/3v9ZAOqiho1zRej69vSnWk) | 2:46 |
 | 6 | [Maandag](https://open.spotify.com/track/1ZmCl5Ip9moo86hdqufgU0) | [Sander Kwarten](https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn) | [Maandag](https://open.spotify.com/album/2hYNOJpCCEbuKLLOxOE7RW) | 2:44 |
 | 7 | [Vraag Me Niets](https://open.spotify.com/track/2Ed0Hh28X8zPYSszIK90sS) | [Niels Korsuize](https://open.spotify.com/artist/3skXwmIMhcloZklvWrOYRy) | [Vraag Me Niets](https://open.spotify.com/album/4t8JfD3aZl8yapJs5JjWT0) | 2:22 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 69 | [Stapelgek Op Jou](https://open.spotify.com/track/2HlBFknY6RmzzAcJOd7U1c) | [Marvin de Geest](https://open.spotify.com/artist/1EjFOZptMvuufEtWCMzsES) | [Stapelgek Op Jou](https://open.spotify.com/album/7c9rzkiEHY8QLShd4J92ry) | 3:33 |
 | 70 | [Alles Met Jou](https://open.spotify.com/track/4jXjI1kipE0EJvnNTMfnMn) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Alles Met Jou](https://open.spotify.com/album/78XaAfFng3Ad9GErnBWnRe) | 2:40 |
 
-Snapshot ID: `ZpxNowAAAACp2zezxVTE+Ir0P/cqD6ed`
+Snapshot ID: `ZqACDgAAAADH3Qv+F6ZJ6ZCc5wIC0TRi`

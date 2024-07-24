@@ -8814,7 +8814,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 118002,
       "name": "Did It First (with Central Cee)",
       "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
@@ -13516,7 +13516,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 164895,
       "name": "HERO",
       "url": "https://open.spotify.com/track/2D4DUc5XU6p8iBmzjPH9AZ"
@@ -23310,7 +23310,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 200769,
       "name": "Ne Rozumiju",
       "url": "https://open.spotify.com/track/3XWr2NZqYd80MB8FIq9r55"
@@ -25346,7 +25346,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-21",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "On Me",
       "url": "https://open.spotify.com/track/6esBajH4pfY0i61Vr53QWR"
@@ -34117,6 +34117,32 @@
     },
     {
       "album": {
+        "name": "Soma 0,5 mg",
+        "url": "https://open.spotify.com/album/7sFTg1OTqCzmDykyrlQi8D"
+      },
+      "artists": [
+        {
+          "name": "TACONAFIDE",
+          "url": "https://open.spotify.com/artist/5vgHNLPDrYD3hztA8yKoxP"
+        },
+        {
+          "name": "Quebonafide",
+          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
+        },
+        {
+          "name": "Taco Hemingway",
+          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201829,
+      "name": "Tamagotchi",
+      "url": "https://open.spotify.com/track/6jGFzqqW8VBBf4oLhnP4A6"
+    },
+    {
+      "album": {
         "name": "Tarcho Terror",
         "url": "https://open.spotify.com/album/4vpuz19etWHFtiImSCRMSe"
       },
@@ -34396,7 +34422,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 187637,
       "name": "TEMPERATURA",
       "url": "https://open.spotify.com/track/2IUtP8bP0mtvctIcwTMrXv"

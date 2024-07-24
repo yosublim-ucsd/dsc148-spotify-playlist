@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "This Is Paramore. Los temas esenciales, todos en una lista.",
+  "description": "This is Paramore. The essential tracks, all in one playlist.",
   "name": "This Is Paramore",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 260384,
       "name": "Big Man, Little Dignity",
       "url": "https://open.spotify.com/track/2bfOeIn8bQkRr02NNX29tR"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 230440,
       "name": "Careful",
       "url": "https://open.spotify.com/track/63L9AjBDN3SOMbJlBkFqiZ"
@@ -794,7 +794,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-23",
+      "date_removed": null,
       "duration_ms": 181506,
       "name": "Misguided Ghosts",
       "url": "https://open.spotify.com/track/2VYqkb77OjToeRAnMNd4yU"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-23",
+      "date_removed": null,
       "duration_ms": 239173,
       "name": "My Heart",
       "url": "https://open.spotify.com/track/5wWkbQ18TPaWq2GeJDF2O3"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 220966,
       "name": "Never Let This Go",
       "url": "https://open.spotify.com/track/2itu79WbZhUCHX4jg0fyAd"
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 206700,
       "name": "This Is Why",
       "url": "https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"

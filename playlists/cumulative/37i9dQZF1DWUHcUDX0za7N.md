@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Showdemcamp, The cavemen & nsikak david
 
-440 songs - 20 hr 53 min
+441 songs - 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Culture](https://open.spotify.com/track/57o2d5ejkTbNMrgoraDkOJ) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Culture](https://open.spotify.com/album/20rCv5TASuxaLAgd8Icw1V) | 3:28 | 2022-06-09 | 2022-12-25 |
 | [Culture](https://open.spotify.com/track/5jfkErsgpDgdMQzO563tNL) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 3:28 | 2022-06-09 | 2023-06-17 |
 | [Culture](https://open.spotify.com/track/6ilJ5I8xWC4CjCvgLA91Fy) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Culture](https://open.spotify.com/album/3D2Q4xKdKQQigHuNk1O3ZD) | 3:28 | 2022-06-09 | 2022-12-29 |
+| [D\-RIDE \(feat\. SadBoi\)](https://open.spotify.com/track/7GP9LIMNDuHcQ3WhTSbExX) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [D\-RIDE \(feat\. SadBoi\)](https://open.spotify.com/album/0wbkFz9Zkl9ihLqJQS28cl) | 2:00 | 2024-07-19 |  |
 | [Dahtor](https://open.spotify.com/track/7cajggDhww5RVtEN8XASI5) | [C.I.C](https://open.spotify.com/artist/3aXsyi1OrB31fQETNot0lw), [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Dahtor](https://open.spotify.com/album/2Wodk3tCTbwz4BIONX4JOp) | 2:37 | 2023-08-03 | 2023-09-29 |
 | [DECLAN RICE](https://open.spotify.com/track/0QdQh3umB7stVOExuHlWvl) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 2:04 | 2023-10-13 | 2023-10-20 |
 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-03-25 | 2023-12-02 |
@@ -390,7 +391,7 @@
 | [Te Button](https://open.spotify.com/track/0z2knWPwd0ersERolm2o77) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku) | [Te Button](https://open.spotify.com/album/4mL10441YojtOmgogaMlzG) | 2:56 | 2024-06-07 |  |
 | [TECHNICIAN \(feat\. Blaqbonez & Lekaa Beats\)](https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY) | [TECHNICIAN](https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK) | 2:36 | 2024-04-19 |  |
 | [Tempo](https://open.spotify.com/track/5u3DPeOB7igxEaZV6lntlh) | [dndSection](https://open.spotify.com/artist/7mQzdxdxZFsbWLMP3lcZtS) | [Tempo](https://open.spotify.com/album/62idXCwWHEJYlTvBNTnXuE) | 2:49 | 2024-03-15 | 2024-04-19 |
-| [Tena](https://open.spotify.com/track/3pohfOAdKZRKP8AyOy9QDi) | [Kobi Jonz](https://open.spotify.com/artist/5k9IrMHs9Jfpk8A94Ta7nR) | [Tena](https://open.spotify.com/album/1xuHZkLI7kjFUrM6Y6FXRl) | 2:20 | 2024-07-19 |  |
+| [Tena](https://open.spotify.com/track/3pohfOAdKZRKP8AyOy9QDi) | [Kobi Jonz](https://open.spotify.com/artist/5k9IrMHs9Jfpk8A94Ta7nR) | [Tena](https://open.spotify.com/album/1xuHZkLI7kjFUrM6Y6FXRl) | 2:20 | 2024-07-19 | 2024-07-24 |
 | [The Emperor's Killz](https://open.spotify.com/track/4Dji6d3OBRuQ8AVSkoiCvy) | [Ikechukwu](https://open.spotify.com/artist/7xhdfJjebilccfAhprilhE), [Jesse Jagz](https://open.spotify.com/artist/30N9JY1VoDikz8Czs2TKtT) | [The Emperor's Killz](https://open.spotify.com/album/1ntps2YD2MokdrfPpgPSRV) | 2:53 | 2023-02-11 | 2023-02-17 |
 | [THE GOAT](https://open.spotify.com/track/6pLcTVmCUa6cDBAcwi9c3h) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [The Lost Boy \(Deluxe Version\)](https://open.spotify.com/album/7MDNR9DbdaUzv03PKMIkrp) | 2:33 | 2022-12-08 | 2023-02-17 |
 | [The Guy](https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL) | [The Guy](https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL) | 3:17 | 2022-07-21 | 2023-06-17 |

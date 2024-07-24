@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QGqIfuB65s.md) - [plain]
 
 > Top tracks that celebrate the connection between Hip\-Hop and sports.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,040 likes - 25 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,084 likes - 25 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QGqIfuB65s.md) - [plain]
 | 10 | [Free](https://open.spotify.com/track/7fLu4KJaQEDfbCiaBqVXhL) | [Goodie Mob](https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj) | [Soul Food](https://open.spotify.com/album/6cKgDS8oVcCNw9EjQf66er) | 1:24 |
 | 11 | [Ashley's Roachclip](https://open.spotify.com/track/5KTc1UNNv8HaVFSgRy4gbR) | [The Soul Searchers](https://open.spotify.com/artist/1lCR3CeDs4k24mC8R5fpU5) | [Salt Of The Earth](https://open.spotify.com/album/2SkkllUuU0xbzTpUOaRvR0) | 5:35 |
 | 12 | [6 'N the Mornin'](https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Rhyme Pays](https://open.spotify.com/album/267xiIVnif2CUxhbRQk115) | 3:44 |
-| 13 | [Let Me Ride](https://open.spotify.com/track/36yUCSB9OaMz0RMUQDOSpT) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 4:20 |
+| 13 | [Let Me Ride](https://open.spotify.com/track/36yUCSB9OaMz0RMUQDOSpT) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [RBX](https://open.spotify.com/artist/3drEaBmm4UexsiDfz5AzXV), [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 4:20 |
 | 14 | [Fuck Tha Police](https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Straight Outta Compton](https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW) | 5:45 |
 | 15 | [What's Up Doc? \(Can We Rock\) \(with Shaquille O'Neal\) \- K\-Cut's Fat Trac Remix](https://open.spotify.com/track/6mlaUgQpibEkHN7J0YBsaF) | [FU\-Schnickens](https://open.spotify.com/artist/2BnZSEAPhFsB1RIyeEgXmN), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Greatest Hits](https://open.spotify.com/album/49GzwOUSDRGD5Vv1P8kQ0E) | 3:52 |
 | 16 | [We the People Who Are Darker Than Blue](https://open.spotify.com/track/6dSdoRdRIJ7fUvxDRq9Ln1) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Curtis \(Expanded Edition\)](https://open.spotify.com/album/3tgJmEz0R0ZsRSrpwafp4R) | 6:05 |

@@ -2587,6 +2587,24 @@
     },
     {
       "album": {
+        "name": "Fractions",
+        "url": "https://open.spotify.com/album/1ZlQ3IKKLFUt7firrpyCD4"
+      },
+      "artists": [
+        {
+          "name": "Tim Firth",
+          "url": "https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137309,
+      "name": "Fractions",
+      "url": "https://open.spotify.com/track/4zHsgYHkouqqPwlGcgsOVo"
+    },
+    {
+      "album": {
         "name": "Fragments",
         "url": "https://open.spotify.com/album/1Txz3W66EqLF7DPLFGoL3K"
       },
@@ -5457,6 +5475,24 @@
     },
     {
       "album": {
+        "name": "Particles",
+        "url": "https://open.spotify.com/album/2hkdSb3Av1Z1JP67nKZpxX"
+      },
+      "artists": [
+        {
+          "name": "Arlo Thiem",
+          "url": "https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159750,
+      "name": "Particles",
+      "url": "https://open.spotify.com/track/30eikMQkwP7jtD5SnYCBbB"
+    },
+    {
+      "album": {
         "name": "Paseo",
         "url": "https://open.spotify.com/album/11v1XsFDWHyGfF8FKizm6P"
       },
@@ -5670,6 +5706,24 @@
       "duration_ms": 120926,
       "name": "Promenade",
       "url": "https://open.spotify.com/track/7mRoJ7GqlDNNRfhjoc3Jk9"
+    },
+    {
+      "album": {
+        "name": "Promenade des Anglais",
+        "url": "https://open.spotify.com/album/5CHfPwOBF88FZAc0QBT4Ch"
+      },
+      "artists": [
+        {
+          "name": "Theordor Wessman",
+          "url": "https://open.spotify.com/artist/0PakiWNpTSBhrIdGmVW9PA"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182829,
+      "name": "Promenade des Anglais",
+      "url": "https://open.spotify.com/track/4uXnNxy3h9zK6OvMVkNFX0"
     },
     {
       "album": {

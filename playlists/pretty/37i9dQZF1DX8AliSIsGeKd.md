@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Hidden Empire
 
-[Spotify](https://open.spotify.com/user/spotify) - 656,060 likes - 90 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 656,232 likes - 90 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 39 | [Redemption](https://open.spotify.com/track/2368msrRD9nwScaLY7XQHL) | [Two but One](https://open.spotify.com/artist/5OGCXg4IbF3utqOk6ILqtr) | [Redemption](https://open.spotify.com/album/4oiot7jsL7qROdR6ltEUf9) | 4:11 |
 | 40 | [Hiding](https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Hiding](https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx) | 3:42 |
 | 41 | [Get It](https://open.spotify.com/track/3LDliyBS8BW7hrYeP2VqO6) | [Melgazzo](https://open.spotify.com/artist/16t0GPAOlD5YHSo8EaabPA) | [Get It](https://open.spotify.com/album/515P5uoM28V9H668JWi1A6) | 5:44 |
-| 42 | [Latin Lovers \- Joyhauser Remix](https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Latin Lovers \(Joyhauser Remix\)](https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9) | 4:35 |
+| 42 | [Latin Lovers \- Joyhauser Remix](https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Latin Lovers \(Joyhauser Remix & Original\)](https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9) | 4:35 |
 | 43 | [I Just Wanna](https://open.spotify.com/track/3ya85DCfnBwrrQcWh47nj5) | [Boban](https://open.spotify.com/artist/3foreuplG5V9qrqe0dX18f) | [I Just Wanna](https://open.spotify.com/album/1tegy6JwwppUOhNFg40H1J) | 2:31 |
 | 44 | [Be Where I Am \- Edit](https://open.spotify.com/track/2sprcor6DvHMpHTB8HzKwf) | [Metroplane](https://open.spotify.com/artist/4NV4qWnRhLrr41zy1IwFGm), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD), [Aeroplane](https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu), [Daniel Wilson](https://open.spotify.com/artist/44eNlYXYkIGob3NU82tgLq) | [Be Where I Am \(Edit\)](https://open.spotify.com/album/3pg3j7qPZo40RbPm7amhjw) | 3:02 |
 | 45 | [Super Cool \- Radio Edit](https://open.spotify.com/track/4qBOjZQ6HpSCfG9TuBvo4Z) | [Made In TLV](https://open.spotify.com/artist/7kJRd8zWmByU1AGpWyhBt3) | [Super Cool](https://open.spotify.com/album/52fIIDaTmVrmke6dMuDtzL) | 3:16 |

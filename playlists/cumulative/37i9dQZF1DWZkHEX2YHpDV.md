@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt & more\. Cover: The Home Team
 
-1,246 songs - 2 day 17 hr 54 min
+1,247 songs - 2 day 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -858,7 +858,7 @@
 | [Psyche!](https://open.spotify.com/track/5X46KFIG4wAwMTjaA0ZX2p) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Psyche!](https://open.spotify.com/album/3E1OO7KbqraYZYD8NuK4xr) | 5:34 | 2023-04-28 | 2024-01-20 |
 | [Psycho](https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Psycho](https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat) | 2:59 | 2022-10-07 | 2024-01-20 |
 | [Punching Bag](https://open.spotify.com/track/7fudux10sVIxILOocZaHrW) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Punching Bag](https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS) | 2:59 | 2023-04-10 |  |
-| [Punkstar \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1rppprlWCNdcJY6DQxVNkI) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Punkstar \(feat\. Royal & the Serpent\)](https://open.spotify.com/album/5waz9PhRXRpr5LKEkPr09t) | 2:20 | 2023-04-10 |  |
+| [Punkstar \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1rppprlWCNdcJY6DQxVNkI) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Punkstar \(feat\. Royal & the Serpent\)](https://open.spotify.com/album/5waz9PhRXRpr5LKEkPr09t) | 2:20 | 2023-04-10 | 2024-07-24 |
 | [R.I.P](https://open.spotify.com/track/37PZSNSxLG6iuJAlUo8Wqv) | [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [R.I.P](https://open.spotify.com/album/2PkakWXe2YnTBVv0QsRyNc) | 3:05 | 2022-03-25 | 2022-07-07 |
 | [R.I.P](https://open.spotify.com/track/5QZ3Kj45XirIHeH66cj9B3) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [R.I.P](https://open.spotify.com/album/6toev0ULibvYWipK05GDXr) | 2:07 | 2022-04-15 | 2022-08-03 |
 | [Re\-Entry \(feat\. Mark Hoppus\)](https://open.spotify.com/track/2f2WCKwB1r2SH7AvJc0P8W) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Re\-Entry \(feat\. Mark Hoppus\)](https://open.spotify.com/album/1HVOuAKPRBI8oBT76slmdv) | 2:52 | 2022-01-21 | 2024-07-13 |
@@ -1167,6 +1167,7 @@
 | [Walk Tall II](https://open.spotify.com/track/4YYlCBwxmaFOBsMrhrb8MB) | [Set to Stun](https://open.spotify.com/artist/240W24sOn3h0vXU4wEwNeH) | [VALKYRIE ONE](https://open.spotify.com/album/0JkLw9jfpz5QhnnySYSZJ4) | 5:49 | 2023-11-10 | 2024-01-20 |
 | [Walk This World With Me](https://open.spotify.com/track/3YAbKZu8vQYOg8ddPOBV3T) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [The Crucible Of Life](https://open.spotify.com/album/3YMGlieEVrvq5GFV7wCDZm) | 3:48 | 2024-07-19 |  |
 | [Walk This World With Me](https://open.spotify.com/track/4C4xwikhiK5uZX1oyxsRpZ) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Walk This World With Me](https://open.spotify.com/album/3bOo5s7GANC5FY4nQKWnkm) | 3:48 | 2024-06-24 | 2024-07-20 |
+| [wallflower](https://open.spotify.com/track/1b6bMbsjqpZD8pTlsrFjSv) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [\(e\)motion sickness](https://open.spotify.com/album/1j6hMN9ifg5WuvaDetd1kb) | 3:10 | 2024-07-19 |  |
 | [Wander](https://open.spotify.com/track/518x9Mmuw2x3aXpNwCjHov) | [House & Home](https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7) | [Wander](https://open.spotify.com/album/41P2UVuQyU3tKdLJOW0Xco) | 4:05 | 2022-03-25 | 2022-04-13 |
 | [WANNA BE \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/058pBOh77XQJNg3YWGr4jN) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:38 | 2021-12-10 | 2023-04-11 |
 | [Want You Back](https://open.spotify.com/track/5CElk3IWvXZwXohMes1hkr) | [Saint Young](https://open.spotify.com/artist/4zS8T4WSzhklqXmik1sTBj), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [Want You Back](https://open.spotify.com/album/3m2p3knOJ7HIAHTX9KM4xI) | 2:44 | 2023-04-10 | 2023-04-12 |

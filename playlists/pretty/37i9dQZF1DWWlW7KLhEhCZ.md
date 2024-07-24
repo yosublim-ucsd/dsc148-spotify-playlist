@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Mattyahu, A$HP
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,506 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,519 likes - 74 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 23 | [Percs](https://open.spotify.com/track/4Ioj7yHEfwsyH2DxHyf9m6) | [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [Trunks](https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch), [Cassin](https://open.spotify.com/artist/7JswWkHCTMyEgHlNXOvK6p) | [Unique](https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL) | 3:26 |
 | 24 | [ASMR](https://open.spotify.com/track/5izophAYYzzuucdehttmoN) | [Uxie Kid](https://open.spotify.com/artist/04qByqUf8qEushGa1aQQ8V), [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG), [Link do Zap](https://open.spotify.com/artist/69HZc0P77aI7VUFx4GAdQm), [chard la plaga](https://open.spotify.com/artist/1RKq2YyvdgeiC4IcspV1wS) | [ASMR](https://open.spotify.com/album/4AhXjVvT9CAqbunVOtWLxJ) | 3:32 |
 | 25 | [Inconvencional](https://open.spotify.com/track/3URgu7EkiNuswUVoXVE4BX) | [Magrão AllFavela](https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY), [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM) | [Mixtape Novset, Vol\. 1](https://open.spotify.com/album/7kcsgu8mvNtnM9DUoMg2U6) | 2:28 |
-| 26 | [Oh Mãe](https://open.spotify.com/track/1wJ1pRqkbtwdFKjH87t6FD) | [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Oh Mãe](https://open.spotify.com/album/61m0wlWSuEHtWFLJugcHjo) | 2:48 |
+| 26 | [Oh Mãe](https://open.spotify.com/track/1wJ1pRqkbtwdFKjH87t6FD) | [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Oh Mãe](https://open.spotify.com/album/61m0wlWSuEHtWFLJugcHjo) | 2:48 |
 | 27 | [P.P.R.T](https://open.spotify.com/track/0Jd6gf9RsWvlhp90mT6BxI) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [Nega Doce](https://open.spotify.com/album/3s4rhVwqwqwMTaGdxsOYn8) | 2:56 |
 | 28 | [4 Manos](https://open.spotify.com/track/2QeNW4gSfPdQSrV2BhM2JH) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Barretinho](https://open.spotify.com/artist/17vAOVwiHa7hsKePvIb5e9) | [LáDoEsgoto](https://open.spotify.com/album/6razVeB0xgRp9Dh6iZmzRr) | 4:28 |
 | 29 | [Mais Uma Vez](https://open.spotify.com/track/7DjQ1hL4AvAmEmVJ2bO0hV) | [Xamuel](https://open.spotify.com/artist/62T0lHxZPLwEo96o1cgBoC), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [Mais Uma Vez](https://open.spotify.com/album/0HFQONR8J5P5GYPgugPek2) | 2:32 |
@@ -82,6 +82,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 72 | [Não Para](https://open.spotify.com/track/2O5QBfC0DXpKX9XAMaRQzt) | [DJ Kalfani](https://open.spotify.com/artist/02RSgo6GjUSDChRsq79jTg), [Junior Lord](https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Não Para](https://open.spotify.com/album/4xtoYhc3EgJLPIN6yUQmsu) | 2:59 |
 | 73 | [Dedicação](https://open.spotify.com/track/74DgW3ssbgQhCT23TTdTOx) | [Jake the Kid](https://open.spotify.com/artist/08G1EcOqlI874W6YuJjCXM), [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX), [Yung Drum](https://open.spotify.com/artist/18jsmx1hcUmGvZ0IKWG6KO) | [Dedicação](https://open.spotify.com/album/5zbifxkAsUaSNSWE7ThFj5) | 2:38 |
 | 74 | [Distopia](https://open.spotify.com/track/4Tp3tWaxAongOs5kF6q6yv) | [Xaga](https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6), [CHF](https://open.spotify.com/artist/1HNVz8Sg0CzK1um1QNB7qS), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF) | [Distopia](https://open.spotify.com/album/3XQc0jL2vaovTl13969QVV) | 3:55 |
-| 75 | [G Wagon](https://open.spotify.com/track/726AIEba3u6eETD7A4e5LJ) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07) | [G Wagon](https://open.spotify.com/album/5yOXfIJsr2DBJuFTKRG3Az) | 3:10 |
 
-Snapshot ID: `Zpp3pwAAAADD91J+MRv9Sv50AvJvrMTa`
+Snapshot ID: `Zp/I8AAAAAAdv27wEb/jLXGqE+unZwbV`

@@ -559,6 +559,24 @@
     },
     {
       "album": {
+        "name": "Kalah 2",
+        "url": "https://open.spotify.com/album/2XDM13lSNzlB3eIz1wJGoO"
+      },
+      "artists": [
+        {
+          "name": "Aftershine",
+          "url": "https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310153,
+      "name": "Kalah 2",
+      "url": "https://open.spotify.com/track/1CHQEzT8SY3pPoBz9FuSgb"
+    },
+    {
+      "album": {
         "name": "Kebacut Nyaman",
         "url": "https://open.spotify.com/album/5WMqMj79VLVJp6YG42WwrL"
       },
@@ -1424,6 +1442,24 @@
       "duration_ms": 303957,
       "name": "Sewates Konco",
       "url": "https://open.spotify.com/track/3ZsxUx6uEUq2JaaJZHpY8J"
+    },
+    {
+      "album": {
+        "name": "Sigar",
+        "url": "https://open.spotify.com/album/1yN2WgWXFFgfnIgzFmpEyu"
+      },
+      "artists": [
+        {
+          "name": "Denny Caknan",
+          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329204,
+      "name": "Sigar",
+      "url": "https://open.spotify.com/track/12BUsSyjHbnvmnFw6TObGD"
     },
     {
       "album": {

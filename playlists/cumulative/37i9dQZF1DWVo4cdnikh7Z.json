@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New Music from Kollywood.\nCover : Thangalaan",
+  "description": "New Music from Kollywood.\nCover : Kanguva",
   "name": "Latest Tamil",
   "tracks": [
     {
@@ -7480,7 +7480,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 216749,
       "name": "Ente Omane",
       "url": "https://open.spotify.com/track/4UiTkQk7CFSwgg10oIeARW"
@@ -7802,6 +7802,44 @@
       "duration_ms": 172248,
       "name": "Feeley Dhooley (From \"Not Reachable\")",
       "url": "https://open.spotify.com/track/2Qj554XMBqn1PawvMm5LaU"
+    },
+    {
+      "album": {
+        "name": "Fire Song (From \"Kanguva\") (Tamil)",
+        "url": "https://open.spotify.com/album/5Sai4cfSIDwEUxHg7apPdl"
+      },
+      "artists": [
+        {
+          "name": "V.M. Mahalingam",
+          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
+        },
+        {
+          "name": "Senthil Ganesh",
+          "url": "https://open.spotify.com/artist/4tJdetTsMFHnS8UzgopPzn"
+        },
+        {
+          "name": "Shenbagaraj",
+          "url": "https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI"
+        },
+        {
+          "name": "Deepthi Suresh",
+          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Viveka",
+          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206545,
+      "name": "Fire Song (From \"Kanguva\") (Tamil)",
+      "url": "https://open.spotify.com/track/6THKvd4fDUp30sIzVq1c0f"
     },
     {
       "album": {
@@ -10324,7 +10362,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 206278,
       "name": "Jo Jo - From \"Aranmanai 4\"",
       "url": "https://open.spotify.com/track/7xcssMdb17Wi4xFtC8wOBh"
@@ -12228,7 +12266,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 205565,
       "name": "Kannadi Nilave",
       "url": "https://open.spotify.com/track/6o6qco57cMAqBkSmoW68yP"
@@ -13240,7 +13278,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 250363,
       "name": "Kolluraale (From \"Maanavan\")",
       "url": "https://open.spotify.com/track/6cCdiiRqpc3nIslPns7WtL"
@@ -15140,7 +15178,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 332175,
       "name": "Madhuramum Idha (From \"The Family Star\")",
       "url": "https://open.spotify.com/track/6rsmlUhCUyZEgsFXaxRhae"
@@ -16576,7 +16614,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 136243,
       "name": "Melody (From \"Star\")",
       "url": "https://open.spotify.com/track/2yMk1KYbh3F8P7VArxxGwT"
@@ -18266,7 +18304,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 299117,
       "name": "Nandanandanaa",
       "url": "https://open.spotify.com/track/3aMozoUv47XXfPmdBfsSIE"
@@ -30212,7 +30250,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 185507,
       "name": "Uyire En Uyire",
       "url": "https://open.spotify.com/track/1XSPGt3p14bKxsJxeICjbd"

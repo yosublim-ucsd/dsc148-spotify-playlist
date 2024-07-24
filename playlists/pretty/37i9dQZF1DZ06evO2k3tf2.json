@@ -1,12 +1,12 @@
 {
   "description": "This is Twenty One Pilots. The essential tracks, all in one playlist.",
-  "num_followers": 1358270,
+  "num_followers": 1358430,
   "original_name": "This Is Twenty One Pilots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpxPgAAAAAB+GQfavDBXdon6cnCP7evW",
+  "snapshot_id": "Zp2hAAAAAAA1TpfMxAUGlZIuhDBPzyYO",
   "tracks": [
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trench",
-        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
+        "name": "Vessel",
+        "url": "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 258853,
-      "name": "Morph",
-      "url": "https://open.spotify.com/track/01vv2AjxgP4uUyb8waYO5Y"
+      "duration_ms": 267720,
+      "name": "Car Radio",
+      "url": "https://open.spotify.com/track/5cbpoIu3YjoOwbBDGUEp3P"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vessel",
-        "url": "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn"
+        "name": "Trench",
+        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 239014,
-      "name": "Migraine",
-      "url": "https://open.spotify.com/track/4rfaoyaZvNa60cj3OKSQV9"
+      "duration_ms": 258853,
+      "name": "Morph",
+      "url": "https://open.spotify.com/track/01vv2AjxgP4uUyb8waYO5Y"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trench",
-        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
+        "name": "Vessel",
+        "url": "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 225040,
-      "name": "Nico and the Niners",
-      "url": "https://open.spotify.com/track/5SehvGGC53A7SZKCLXQcyt"
+      "duration_ms": 239014,
+      "name": "Migraine",
+      "url": "https://open.spotify.com/track/4rfaoyaZvNa60cj3OKSQV9"
     },
     {
       "added_at": null,
@@ -391,6 +391,22 @@
       "duration_ms": 203853,
       "name": "At The Risk Of Feeling Dumb",
       "url": "https://open.spotify.com/track/0ZucyPms79Cydv0RMYV2Oi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trench",
+        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 225040,
+      "name": "Nico and the Niners",
+      "url": "https://open.spotify.com/track/5SehvGGC53A7SZKCLXQcyt"
     },
     {
       "added_at": null,
@@ -583,22 +599,6 @@
       "duration_ms": 223065,
       "name": "Choker",
       "url": "https://open.spotify.com/track/732E6ibFkQR5lNIPEeiEnx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vessel",
-        "url": "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 308388,
-      "name": "Ode to Sleep",
-      "url": "https://open.spotify.com/track/773xZHHSHJvC1z3AAtWgH6"
     },
     {
       "added_at": null,

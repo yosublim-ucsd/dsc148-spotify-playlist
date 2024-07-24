@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "This is Lila Downs. The essential tracks, all in one playlist.",
+  "description": "This Is Lila Downs. Los temas esenciales, todos en una lista.",
   "name": "This Is Lila Downs",
   "tracks": [
     {
@@ -1508,10 +1508,6 @@
           "url": "https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF"
         },
         {
-          "name": "Mar\u00eda Fernanda Rivera",
-          "url": "https://open.spotify.com/artist/5R3cXcDrqWiBPRX9ouKmkz"
-        },
-        {
           "name": "Vivir Quintana",
           "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
         },
@@ -1534,6 +1530,10 @@
         {
           "name": "Pascuala Ilabaca y Fauna",
           "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        },
+        {
+          "name": "Mar\u00edafer Rivera",
+          "url": "https://open.spotify.com/artist/28obedFQ2AkjfbBKzeSCWB"
         }
       ],
       "date_added": "2023-12-18",

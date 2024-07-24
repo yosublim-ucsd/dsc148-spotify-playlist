@@ -1,12 +1,12 @@
 {
-  "description": "This is Tex Tex. The essential tracks, all in one playlist.",
+  "description": "This Is Tex Tex. Los temas esenciales, todos en una lista.",
   "num_followers": 8594,
   "original_name": "This Is Tex Tex",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpxPgAAAAAABpi++gXMwN4ehjfGEaanW",
+  "snapshot_id": "Zp2hAAAAAAAi9Su+EOCWLmYcoHXTlcqY",
   "tracks": [
     {
       "added_at": null,
@@ -167,8 +167,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Srita Martinez Punk",
-        "url": "https://open.spotify.com/album/7zUKgICWPou4BmMc0cYNGV"
+        "name": "Lo Mejor de Tex Tex",
+        "url": "https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X"
       },
       "artists": [
         {
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 198240,
-      "name": "Srita Martinez Punk",
-      "url": "https://open.spotify.com/track/5xtJYEAXKpBNFQZisiS9sr"
+      "duration_ms": 207255,
+      "name": "Amigo",
+      "url": "https://open.spotify.com/track/1E6XDLIKqxAyO6qpNbFlSZ"
     },
     {
       "added_at": null,
@@ -199,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor de Tex Tex",
-        "url": "https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X"
+        "name": "Srita Martinez Punk",
+        "url": "https://open.spotify.com/album/7zUKgICWPou4BmMc0cYNGV"
       },
       "artists": [
         {
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 207255,
-      "name": "Amigo",
-      "url": "https://open.spotify.com/track/1E6XDLIKqxAyO6qpNbFlSZ"
+      "duration_ms": 198240,
+      "name": "Srita Martinez Punk",
+      "url": "https://open.spotify.com/track/5xtJYEAXKpBNFQZisiS9sr"
     },
     {
       "added_at": null,
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 314600,
-      "name": "El Hijo Desobediente",
-      "url": "https://open.spotify.com/track/4EtEnahAm6WGKdHRL19RvK"
+      "duration_ms": 300760,
+      "name": "Ni una M\u00e1s",
+      "url": "https://open.spotify.com/track/13eFPA8zkZoJBEhCSz9sj1"
     },
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 300760,
-      "name": "Ni una M\u00e1s",
-      "url": "https://open.spotify.com/track/13eFPA8zkZoJBEhCSz9sj1"
+      "duration_ms": 314600,
+      "name": "El Hijo Desobediente",
+      "url": "https://open.spotify.com/track/4EtEnahAm6WGKdHRL19RvK"
     },
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor de Tex Tex",
-        "url": "https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X"
+        "name": "Perdidos",
+        "url": "https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 192208,
-      "name": "Ya Te Rogu\u00e9",
-      "url": "https://open.spotify.com/track/2MZAMKInHRqIIfMOPf6kGF"
+      "duration_ms": 188786,
+      "name": "Blues del Borracho",
+      "url": "https://open.spotify.com/track/1rA5JzukQ5DVicpwZ5JxIS"
     },
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Mejor de Tex Tex",
+        "url": "https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 192208,
+      "name": "Ya Te Rogu\u00e9",
+      "url": "https://open.spotify.com/track/2MZAMKInHRqIIfMOPf6kGF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Perdidos",
         "url": "https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a"
       },
@@ -560,25 +576,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 188786,
-      "name": "Blues del Borracho",
-      "url": "https://open.spotify.com/track/1rA5JzukQ5DVicpwZ5JxIS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Vas a Acordar de Mi",
-        "url": "https://open.spotify.com/album/3UWvD8vARmr4oXYLRfSXEP"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "Vestido Blanco",
-      "url": "https://open.spotify.com/track/3WVRoIs8UO1OV89G3ezp6O"
+      "duration_ms": 229093,
+      "name": "Deja en Paz Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5Ov9ys2XQdAuxBg8OW3Ugy"
     },
     {
       "added_at": null,
@@ -615,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perdidos",
-        "url": "https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a"
+        "name": "Te Vas a Acordar de Mi",
+        "url": "https://open.spotify.com/album/3UWvD8vARmr4oXYLRfSXEP"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 229093,
-      "name": "Deja en Paz Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5Ov9ys2XQdAuxBg8OW3Ugy"
+      "duration_ms": 239026,
+      "name": "Vestido Blanco",
+      "url": "https://open.spotify.com/track/3WVRoIs8UO1OV89G3ezp6O"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perdidos",
-        "url": "https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 102217,
-      "name": "Vacas",
-      "url": "https://open.spotify.com/track/2yhXukrwoHoT2HAFAVFllc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "*86",
         "url": "https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA"
       },
@@ -727,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perdidos",
+        "url": "https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 102217,
+      "name": "Vacas",
+      "url": "https://open.spotify.com/track/2yhXukrwoHoT2HAFAVFllc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "S\u00fabete al Tren",
         "url": "https://open.spotify.com/album/6scq5eOKVsFPlzmgZtjdxC"
       },
@@ -739,6 +739,26 @@
       "duration_ms": 147906,
       "name": "Fast Food",
       "url": "https://open.spotify.com/track/5tZQcnx2HRbeRwBp8P24U9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forajido (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1BnFqEcCY568k6wDfWbPYR"
+      },
+      "artists": [
+        {
+          "name": "Salon Victoria",
+          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
+        },
+        {
+          "name": "Tex-Tex",
+          "url": "https://open.spotify.com/artist/4qb4e4Uuc3D2oUv7dJunsn"
+        }
+      ],
+      "duration_ms": 197553,
+      "name": "Sal\u00f3n",
+      "url": "https://open.spotify.com/track/792lAOhCxwFi8AdaWRkgW6"
     },
     {
       "added_at": null,
@@ -807,26 +827,6 @@
       "duration_ms": 201133,
       "name": "Asesinos del Rock",
       "url": "https://open.spotify.com/track/5PrzzhjU0EiN2ryEdVnsDB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Segunda Oportunidad (Duetos: Caminando Voy)",
-        "url": "https://open.spotify.com/album/7HGHoQGRRbC0B6vh23FTy0"
-      },
-      "artists": [
-        {
-          "name": "Juan Hern\u00e1ndez y Su Banda de Blues",
-          "url": "https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ"
-        },
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 191813,
-      "name": "Octubre",
-      "url": "https://open.spotify.com/track/3yKdnG4abZ5HRLhp8lh4TG"
     }
   ],
   "unique_name": "This Is Tex Tex",

@@ -2,9 +2,9 @@
 
 ### [Latest Dance Tamil](https://open.spotify.com/playlist/37i9dQZF1DX7vl8XKmpwdM)
 
-> Dance Machi Dance<br/>Cover : GOAT
+> Dance Machi Dance<br/>Cover : Indian 2
 
-145 songs - 8 hr 42 min
+146 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Enjoy Enjaami \- Spotify Singles \(with Dhee feat\. Arivu & Santhosh Narayanan\)](https://open.spotify.com/track/3z5ITnx50sxmTospLAcM03) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Enjoy Enjaami \- Spotify Singles \(with Dhee feat\. Arivu & Santhosh Narayanan\)](https://open.spotify.com/album/340wvzkkhWbH7wllc3UDLM) | 2:47 | 2021-12-01 | 2022-08-17 |
 | [Evanda Enakku Custody \(From "Mahaan"\)](https://open.spotify.com/track/4rGLwg8ej2ar25UJ5Rw7xz) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Evanda Enakku Custody \(From "Mahaan"\)](https://open.spotify.com/album/52wMl2ktm9T0EnixrpPwBz) | 3:32 | 2022-01-28 |  |
 | [Eyy Beta Idhu En Patta](https://open.spotify.com/track/0DY2T4yHZ0hvXrtWkG0itF) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Pushpa \- The Rise](https://open.spotify.com/album/08ao6XwCHVwzkABGokCrAh) | 3:56 | 2021-12-01 | 2022-11-15 |
+| [Fire Song \(From "Kanguva"\) \(Tamil\)](https://open.spotify.com/track/6THKvd4fDUp30sIzVq1c0f) | [V.M\. Mahalingam](https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u), [Senthil Ganesh](https://open.spotify.com/artist/4tJdetTsMFHnS8UzgopPzn), [Shenbagaraj](https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI), [Deepthi Suresh](https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Viveka](https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z) | [Fire Song \(From "Kanguva"\) \(Tamil\)](https://open.spotify.com/album/5Sai4cfSIDwEUxHg7apPdl) | 3:26 | 2024-07-23 |  |
 | [French Kuthu](https://open.spotify.com/track/7pKo8F4MS6XRC63XlU72Qj) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Gana Muthu](https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx) | [DD Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/15jO3bBmBGQs51Q2TmQshe) | 3:50 | 2023-08-07 | 2023-10-07 |
 | [Gaandu Kannamma](https://open.spotify.com/track/7eS07q4Ft2ySmiH7NalStq) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Gaandu Kannamma](https://open.spotify.com/album/2yZXnhQoiiQN6PMNoGcQ4r) | 3:25 | 2021-12-01 | 2023-04-18 |
 | [Ghora Hara \(From "Captain Miller"\)](https://open.spotify.com/track/6oqXn1XMRUhSfMPzG018qe) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Rakendu Mouli](https://open.spotify.com/artist/2wBKMv1ci10ht9OqJzJBg8) | [Ghora Hara \(From "Captain Miller"\)](https://open.spotify.com/album/6FEN1B46d7CuEKZ6Cw7kiH) | 3:21 | 2024-01-02 | 2024-01-25 |

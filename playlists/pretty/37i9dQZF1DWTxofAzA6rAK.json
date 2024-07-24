@@ -1,6 +1,6 @@
 {
   "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Intence ",
-  "num_followers": 70081,
+  "num_followers": 70127,
   "original_name": "Back a Yard",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Dunce Bat",
+        "url": "https://open.spotify.com/album/6JfEFqt2dfB7vwrAseppiV"
+      },
+      "artists": [
+        {
+          "name": "RajahWild",
+          "url": "https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI"
+        }
+      ],
+      "duration_ms": 156081,
+      "name": "Dunce Bat",
+      "url": "https://open.spotify.com/track/3hDwJFAZcw0kOwwjzQBAWo"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "From Rags to Riches",
         "url": "https://open.spotify.com/album/6u7JQUvZJJHCKXfQd1fhPp"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 197052,
       "name": "From Rags to Riches",
       "url": "https://open.spotify.com/track/4aiIKB4FplhLZq0TCh16Ya"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Dunce Bat",
-        "url": "https://open.spotify.com/album/6JfEFqt2dfB7vwrAseppiV"
-      },
-      "artists": [
-        {
-          "name": "RajahWild",
-          "url": "https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI"
-        }
-      ],
-      "duration_ms": 156081,
-      "name": "Dunce Bat",
-      "url": "https://open.spotify.com/track/3hDwJFAZcw0kOwwjzQBAWo"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Solemn Request",
+        "url": "https://open.spotify.com/album/6rnacNkcCAOybo9DZNKHXM"
+      },
+      "artists": [
+        {
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
+        }
+      ],
+      "duration_ms": 186958,
+      "name": "Solemn Request",
+      "url": "https://open.spotify.com/track/4svJStfE1Z3lMpcPeqDYlD"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Static",
         "url": "https://open.spotify.com/album/7r54RUpeMgdMbDh9YPVc0O"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 156951,
       "name": "Static",
       "url": "https://open.spotify.com/track/30OaDvU7L0CjE4amrbRNi9"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Solemn Request",
-        "url": "https://open.spotify.com/album/6rnacNkcCAOybo9DZNKHXM"
-      },
-      "artists": [
-        {
-          "name": "Chronic Law",
-          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
-        }
-      ],
-      "duration_ms": 186958,
-      "name": "Solemn Request",
-      "url": "https://open.spotify.com/track/4svJStfE1Z3lMpcPeqDYlD"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Great Is He",
+        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 221583,
+      "name": "Skeleton Cartier",
+      "url": "https://open.spotify.com/track/7vRm8Bzniw9mtHoFtnoxB0"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "BOUNCE",
         "url": "https://open.spotify.com/album/1EIWqkCUf5ZR6FBaP0J8LV"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 153652,
       "name": "BOUNCE",
       "url": "https://open.spotify.com/track/744IMVuf8wEVECCOLThDHJ"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Great Is He",
-        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 221583,
-      "name": "Skeleton Cartier",
-      "url": "https://open.spotify.com/track/7vRm8Bzniw9mtHoFtnoxB0"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1315,6 +1315,30 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Dior Kicks",
+        "url": "https://open.spotify.com/album/3LUDwZHFWsZSn9s23RKUNt"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lee Sparta",
+          "url": "https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh"
+        },
+        {
+          "name": "BL Tha Hook Slaya",
+          "url": "https://open.spotify.com/artist/7fNtLOQqt7xawYGAVMt4DJ"
+        },
+        {
+          "name": "Skirdle Sparta",
+          "url": "https://open.spotify.com/artist/6ipyegbx9d7n8iGBmDtw0n"
+        }
+      ],
+      "duration_ms": 207060,
+      "name": "Dior Kicks",
+      "url": "https://open.spotify.com/track/4r07a9L5IDW5l68WfzOAed"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Don't Play with Me",
         "url": "https://open.spotify.com/album/7h9p1vEitLwJgfA0V78Erz"
       },
@@ -1363,30 +1387,6 @@
       "duration_ms": 186000,
       "name": "Sidepiece",
       "url": "https://open.spotify.com/track/1WO6MRJNAjq4qV65DpAFOg"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Dior Kicks",
-        "url": "https://open.spotify.com/album/3LUDwZHFWsZSn9s23RKUNt"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lee Sparta",
-          "url": "https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh"
-        },
-        {
-          "name": "BL Tha Hook Slaya",
-          "url": "https://open.spotify.com/artist/7fNtLOQqt7xawYGAVMt4DJ"
-        },
-        {
-          "name": "Skirdle Sparta",
-          "url": "https://open.spotify.com/artist/6ipyegbx9d7n8iGBmDtw0n"
-        }
-      ],
-      "duration_ms": 207060,
-      "name": "Dior Kicks",
-      "url": "https://open.spotify.com/track/4r07a9L5IDW5l68WfzOAed"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Foot",
+        "url": "https://open.spotify.com/album/0Eti6sYztHFTrS2p1hDRTV"
+      },
+      "artists": [
+        {
+          "name": "Squash",
+          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
+        }
+      ],
+      "duration_ms": 167021,
+      "name": "Foot",
+      "url": "https://open.spotify.com/track/07mwyrR0iD3MJjyBIRe4KQ"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Ride (Remix)",
         "url": "https://open.spotify.com/album/5ksTZQyb1EcTen6NYlEgL5"
       },
@@ -1463,42 +1479,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Forgive Me",
-        "url": "https://open.spotify.com/album/3420tn1FpPedT6tGRhe01X"
-      },
-      "artists": [
-        {
-          "name": "Teejay",
-          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
-        },
-        {
-          "name": "Govana",
-          "url": "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39"
-        }
-      ],
-      "duration_ms": 233125,
-      "name": "Forgive Me",
-      "url": "https://open.spotify.com/track/6KDUXVgS7Fifk8NsBT7i9S"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Foot",
-        "url": "https://open.spotify.com/album/0Eti6sYztHFTrS2p1hDRTV"
-      },
-      "artists": [
-        {
-          "name": "Squash",
-          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
-        }
-      ],
-      "duration_ms": 167021,
-      "name": "Foot",
-      "url": "https://open.spotify.com/track/07mwyrR0iD3MJjyBIRe4KQ"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Statistic",
         "url": "https://open.spotify.com/album/2o96kaWezr20piyF7LRqne"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 182909,
       "name": "Statistic",
       "url": "https://open.spotify.com/track/19NSqvgwMXkRc1g0FCvaR9"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Forgive Me",
+        "url": "https://open.spotify.com/album/3420tn1FpPedT6tGRhe01X"
+      },
+      "artists": [
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        },
+        {
+          "name": "Govana",
+          "url": "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39"
+        }
+      ],
+      "duration_ms": 233125,
+      "name": "Forgive Me",
+      "url": "https://open.spotify.com/track/6KDUXVgS7Fifk8NsBT7i9S"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "She Like It (Remix)",
+        "url": "https://open.spotify.com/album/6hVZ2HnEngQycSLXY1Ljgn"
+      },
+      "artists": [
+        {
+          "name": "Bayka",
+          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "duration_ms": 139440,
+      "name": "She Like It - Remix",
+      "url": "https://open.spotify.com/track/1yCjvhIGFqctLZ6JflOH9n"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Leggo Mi Ears (Remix)",
         "url": "https://open.spotify.com/album/7xGJ194K1JhpXgbJNLBrse"
       },
@@ -1611,26 +1631,6 @@
       "duration_ms": 187711,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/2CzOkRsKah0qNRsAMiSD0p"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "She Like It (Remix)",
-        "url": "https://open.spotify.com/album/6hVZ2HnEngQycSLXY1Ljgn"
-      },
-      "artists": [
-        {
-          "name": "Bayka",
-          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
-        },
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        }
-      ],
-      "duration_ms": 139440,
-      "name": "She Like It - Remix",
-      "url": "https://open.spotify.com/track/1yCjvhIGFqctLZ6JflOH9n"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1871,6 +1871,26 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Geet Weh",
+        "url": "https://open.spotify.com/album/2uRMF6ahQkrTDiVDabe635"
+      },
+      "artists": [
+        {
+          "name": "Silk Boss",
+          "url": "https://open.spotify.com/artist/5eDVLjuN0hk3ZhjJdCvHLF"
+        },
+        {
+          "name": "Terro Don",
+          "url": "https://open.spotify.com/artist/7oXpzQEwUnq5cFEGPK8wk7"
+        }
+      ],
+      "duration_ms": 171935,
+      "name": "Geet Weh",
+      "url": "https://open.spotify.com/track/3UeNRslRMrBxd6fDytLvWL"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Want You Back",
         "url": "https://open.spotify.com/album/7DyRjxogpXhnbhSeTKj80P"
       },
@@ -1895,26 +1915,6 @@
       "duration_ms": 153000,
       "name": "Want You Back",
       "url": "https://open.spotify.com/track/1jjKMxay070xOXjse6TsGw"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Geet Weh",
-        "url": "https://open.spotify.com/album/2uRMF6ahQkrTDiVDabe635"
-      },
-      "artists": [
-        {
-          "name": "Silk Boss",
-          "url": "https://open.spotify.com/artist/5eDVLjuN0hk3ZhjJdCvHLF"
-        },
-        {
-          "name": "Terro Don",
-          "url": "https://open.spotify.com/artist/7oXpzQEwUnq5cFEGPK8wk7"
-        }
-      ],
-      "duration_ms": 171935,
-      "name": "Geet Weh",
-      "url": "https://open.spotify.com/track/3UeNRslRMrBxd6fDytLvWL"
     },
     {
       "added_at": "2023-05-24 08:21:37",

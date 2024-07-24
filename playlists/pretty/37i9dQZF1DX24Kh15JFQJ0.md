@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,821 likes - 204 songs - 12 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,817 likes - 204 songs - 12 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

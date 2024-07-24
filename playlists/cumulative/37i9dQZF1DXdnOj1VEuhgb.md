@@ -4,7 +4,7 @@
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Ati242
 
-397 songs - 17 hr 33 min
+398 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Dilden Dile](https://open.spotify.com/track/2gEzY9A4cQIOGsOM9xODKF) | [Sansar Salvo](https://open.spotify.com/artist/6hxb4rGrYXtrAZbUK7uzt9) | [Dilden Dile](https://open.spotify.com/album/60X4XyKOlu9SliLzjElmGB) | 3:37 | 2024-05-30 | 2024-06-21 |
 | [Diyardan Diyara](https://open.spotify.com/track/7Ebb2WheOGGauCH2wuQB55) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [Diyardan Diyara](https://open.spotify.com/album/5fKySH2Y7Q2LYl0QrGtudP) | 2:29 | 2023-01-10 | 2023-09-22 |
 | [DIYE](https://open.spotify.com/track/35dhWi0kF2ZJbTA2jY2Phs) | [Ayaz](https://open.spotify.com/artist/4BNyQQUayFkUOdf2sw9cLY), [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [EPIZOD](https://open.spotify.com/album/0bZOB8JHT7TL3lheF8jEMG) | 3:00 | 2023-11-16 | 2023-12-14 |
+| [DOMDOM](https://open.spotify.com/track/2gSRr7OuGdZ960VndIDgGS) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [DOMDOM](https://open.spotify.com/album/7qBK1pzSfq9fEXvQmVdT0X) | 2:13 | 2024-07-23 |  |
 | [DOYAMADIM](https://open.spotify.com/track/4C9oMKq6WuLPVyLFncFMXR) | [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [DOYAMADIM](https://open.spotify.com/album/3ZcoGz1y8uuLK2TctffImK) | 2:37 | 2024-02-08 | 2024-04-12 |
 | [DOĞUŞTAN BERİ HAKLIYIM \(tmm\)](https://open.spotify.com/track/2M7BEoyAzxLBKgnFQqUGmF) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [DOĞUŞTAN BERİ HAKLIYIM \(tmm\)](https://open.spotify.com/album/46Lu9sb5R04T208BLZ5kRm) | 2:13 | 2024-01-11 |  |
 | [DUNYA](https://open.spotify.com/track/1UOmVab2gB09lsu82lSc3r) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [DUNYA](https://open.spotify.com/album/7mNMnXYzlNqqhav7QsETj3) | 2:40 | 2024-01-11 | 2024-03-01 |

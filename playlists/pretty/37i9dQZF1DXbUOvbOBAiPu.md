@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: DYSTINCT & Dadju
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,631 likes - 84 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,636 likes - 84 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 76 | [Gem Lingo \(ovr now\)](https://open.spotify.com/track/6dSqM0tWJPlchpmGrEwC1c) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Gem Lingo \(ovr now\)](https://open.spotify.com/album/3r4QpzGNuewu0vLvapRZS7) | 3:50 |
 | 77 | [Gunfinger \(Salute\)](https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT) | [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Gunfinger \(Salute\)](https://open.spotify.com/album/1T0ZCkKD1tLyZ35AHnIL58) | 2:46 |
 | 78 | [STVCK IT UP!](https://open.spotify.com/track/26mqZe7iltH2tSyREqZ7Yc) | [BrokenChild](https://open.spotify.com/artist/6CkWPe8LmIMEcGtuZPqG49), [omgkembo](https://open.spotify.com/artist/2f37YKTToessZMNozEd20F) | [STVCK IT UP!](https://open.spotify.com/album/117duGOKQdwAbcpMeuS4Dm) | 2:22 |
-| 79 | [Back](https://open.spotify.com/track/14mzbwEcHUze13WqwY52jg) | [BEKA](https://open.spotify.com/artist/4Eryf2DuHDKG9a6KT1nyaL) | [Back](https://open.spotify.com/album/0UP7lBxADP7AOY71VJkpOk) | 1:39 |
+| 79 | [Back](https://open.spotify.com/track/14mzbwEcHUze13WqwY52jg) | [BEKA](https://open.spotify.com/artist/4Eryf2DuHDKG9a6KT1nyaL) | [Back](https://open.spotify.com/album/0UP7lBxADP7AOY71VJkpOk) | 1:44 |
 | 80 | [J'ai l'impression](https://open.spotify.com/track/5OS1SdcRNkcMdlfolW2clz) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [J'ai l'impression](https://open.spotify.com/album/1vzYm7DbAf7yKQgaPkXXCO) | 2:47 |
 | 81 | [SD Night](https://open.spotify.com/track/7E8RJY17lUK5W7J1TDFd6z) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [SD Night](https://open.spotify.com/album/4hQDYoPdi19Fkd0BJPLhp6) | 3:02 |
 | 82 | [Chargeur](https://open.spotify.com/track/1OMAkScfDvLuTJnXryEneM) | [Lomaik](https://open.spotify.com/artist/7h8knWcCUC66CDY0Tt5lhB) | [Chargeur](https://open.spotify.com/album/4cHHaqcfz9dmLS94U8J6GZ) | 2:36 |

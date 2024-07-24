@@ -1,6 +1,6 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 155521,
+  "num_followers": 155575,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -607,26 +607,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Si No Vas a Ser T\u00fa",
-        "url": "https://open.spotify.com/album/4gaVr59Phf6qtOHIGe12Bk"
+        "name": "Moctezuma",
+        "url": "https://open.spotify.com/album/70nk1mvQAQ1Tpf6j7gudRW"
       },
       "artists": [
         {
-          "name": "Young Tender",
-          "url": "https://open.spotify.com/artist/19g2jApswUTCNqXFxx2lAx"
-        },
-        {
-          "name": "Los Blenders",
-          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
-        },
-        {
-          "name": "She's A Tease",
-          "url": "https://open.spotify.com/artist/1Vv6KQLygM1XDyikIMaN9W"
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
         }
       ],
-      "duration_ms": 229225,
-      "name": "Si No Vas a Ser T\u00fa",
-      "url": "https://open.spotify.com/track/2vLFK4t0KQwNVQvnjGuMb8"
+      "duration_ms": 345199,
+      "name": "Palapa",
+      "url": "https://open.spotify.com/track/2vofpKYoBvc2uiV2yHYrHW"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -663,18 +655,26 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Moctezuma",
-        "url": "https://open.spotify.com/album/70nk1mvQAQ1Tpf6j7gudRW"
+        "name": "Si No Vas a Ser T\u00fa",
+        "url": "https://open.spotify.com/album/4gaVr59Phf6qtOHIGe12Bk"
       },
       "artists": [
         {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+          "name": "Young Tender",
+          "url": "https://open.spotify.com/artist/19g2jApswUTCNqXFxx2lAx"
+        },
+        {
+          "name": "Los Blenders",
+          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
+        },
+        {
+          "name": "She's A Tease",
+          "url": "https://open.spotify.com/artist/1Vv6KQLygM1XDyikIMaN9W"
         }
       ],
-      "duration_ms": 345199,
-      "name": "Palapa",
-      "url": "https://open.spotify.com/track/2vofpKYoBvc2uiV2yHYrHW"
+      "duration_ms": 229225,
+      "name": "Si No Vas a Ser T\u00fa",
+      "url": "https://open.spotify.com/track/2vLFK4t0KQwNVQvnjGuMb8"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Bengala",
-        "url": "https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA"
-      },
-      "artists": [
-        {
-          "name": "Bengala",
-          "url": "https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ"
-        }
-      ],
-      "duration_ms": 187600,
-      "name": "Miente",
-      "url": "https://open.spotify.com/track/1gA2JKymFK2wqvNKbiZmjl"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Kiosko",
         "url": "https://open.spotify.com/album/3pTfNraLlf2tDpMQsrJgxY"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 253501,
       "name": "Kiosko",
       "url": "https://open.spotify.com/track/7qix8lqLAvHAInf3Xq1TU3"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Bengala",
+        "url": "https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA"
+      },
+      "artists": [
+        {
+          "name": "Bengala",
+          "url": "https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ"
+        }
+      ],
+      "duration_ms": 187600,
+      "name": "Miente",
+      "url": "https://open.spotify.com/track/1gA2JKymFK2wqvNKbiZmjl"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/4lv6sqE4r1OScgwFWFI65E"
-      },
-      "artists": [
-        {
-          "name": "Sotomayor",
-          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
-        }
-      ],
-      "duration_ms": 263760,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/0XfkTdunFLoBXvoq2TJ40o"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "El Bar de Peter Pan",
         "url": "https://open.spotify.com/album/3uzJdTLK0NfNbkKnsusZII"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 280853,
       "name": "Fiesta Permanente",
       "url": "https://open.spotify.com/track/2IWmJTCkFBafsl702cwURa"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/4lv6sqE4r1OScgwFWFI65E"
+      },
+      "artists": [
+        {
+          "name": "Sotomayor",
+          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
+        }
+      ],
+      "duration_ms": 263760,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/0XfkTdunFLoBXvoq2TJ40o"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Sistema Solar",
-        "url": "https://open.spotify.com/album/59yujuM8E3OSYdjiWFIRRi"
-      },
-      "artists": [
-        {
-          "name": "Disco Ruido",
-          "url": "https://open.spotify.com/artist/6kfY9q7lPItE7Azxtzz3xH"
-        }
-      ],
-      "duration_ms": 249630,
-      "name": "Amorfos",
-      "url": "https://open.spotify.com/track/2DmZbYnCLusQ1m20awqYnm"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/6Xs7IL8Aljl4uslAKzA5M1"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 255869,
       "name": "24 Horas",
       "url": "https://open.spotify.com/track/4rPPEiwF4MlBHEVMokts8v"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Sistema Solar",
+        "url": "https://open.spotify.com/album/59yujuM8E3OSYdjiWFIRRi"
+      },
+      "artists": [
+        {
+          "name": "Disco Ruido",
+          "url": "https://open.spotify.com/artist/6kfY9q7lPItE7Azxtzz3xH"
+        }
+      ],
+      "duration_ms": 249630,
+      "name": "Amorfos",
+      "url": "https://open.spotify.com/track/2DmZbYnCLusQ1m20awqYnm"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "The Future Sugar",
-        "url": "https://open.spotify.com/album/3JFTJTZLNG2B0ZJpxcUBOt"
-      },
-      "artists": [
-        {
-          "name": "Rey Pila",
-          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Alexander",
-      "url": "https://open.spotify.com/track/5udE6XUnhzUvoC80bsYEMR"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Antolog\u00eda",
         "url": "https://open.spotify.com/album/5UDoOYylqlJqoitSCg2Cps"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 191520,
       "name": "Curse the Space",
       "url": "https://open.spotify.com/track/2Ryk5DzBoaJsIVtAUFfd95"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "The Future Sugar",
+        "url": "https://open.spotify.com/album/3JFTJTZLNG2B0ZJpxcUBOt"
+      },
+      "artists": [
+        {
+          "name": "Rey Pila",
+          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Alexander",
+      "url": "https://open.spotify.com/track/5udE6XUnhzUvoC80bsYEMR"
     },
     {
       "added_at": "2023-09-01 16:42:45",

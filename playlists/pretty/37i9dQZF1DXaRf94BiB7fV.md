@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover: Pakshee, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,734 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,755 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 31 | [Juie](https://open.spotify.com/track/6C6jhsXMumyaJV1tl57or7) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1) | [Juie](https://open.spotify.com/album/4AnxQDBjqfllJAOyraMZdM) | 2:52 |
 | 32 | [hbd](https://open.spotify.com/track/5VKkxDE0Yj5EAhWxXfrcCb) | [Natascha](https://open.spotify.com/artist/1SpIm9sFUETlZoBvndFwH1) | [hbd](https://open.spotify.com/album/7cxZPmFLNdb5wtLySlae5Q) | 2:14 |
 | 33 | [Adhuri Batein](https://open.spotify.com/track/3rzWpPm92lhqcECqrTAatP) | [Vpk](https://open.spotify.com/artist/5V3RHOKu6rLpj0sZqqa0jF) | [Adhuri Batein](https://open.spotify.com/album/4ET3UfAvdcmhC4cqLD4kXt) | 2:59 |
-| 34 | [Le Ja Re](https://open.spotify.com/track/4b0zJze6X4NL3s1N0TT729) | [Tapas Kalai](https://open.spotify.com/artist/0guDWAQ2Bj73Q8wIv38BKq), [Soultrax](https://open.spotify.com/artist/3uTKGSzD1RzhEPhvWkg7fA) | [Le Ja Re](https://open.spotify.com/album/68Exb1as3S5FHYM0yQUUB6) | 3:58 |
+| 34 | [Le Ja Re](https://open.spotify.com/track/4b0zJze6X4NL3s1N0TT729) | [Tapas Kalai](https://open.spotify.com/artist/0guDWAQ2Bj73Q8wIv38BKq), [SoulTrax](https://open.spotify.com/artist/5xyovpABCtEybs55kIQg1b) | [Le Ja Re](https://open.spotify.com/album/68Exb1as3S5FHYM0yQUUB6) | 3:58 |
 | 35 | [Karwaan](https://open.spotify.com/track/44omThOKpKQVLCgTmX2YAA) | [Inaam](https://open.spotify.com/artist/7ddf3Nw2raeTiFtZ4ebDdF) | [Karwaan](https://open.spotify.com/album/1ux8EJGSSN43jMkfEltN71) | 2:54 |
 | 36 | [Tere Peeche Chal Diya](https://open.spotify.com/track/2VUik9Lfuu7n5ftlzL6H7E) | [Anirudh Bhola](https://open.spotify.com/artist/7ojuUObZvGIFTPmThkU91K) | [Tere Peeche Chal Diya](https://open.spotify.com/album/7HmP4zLHdIgP6WiNhdCvRA) | 3:15 |
 | 37 | [Le Chal Zara](https://open.spotify.com/track/508BHouq8Fh0WWWtI8Dr5r) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI) | [Savera](https://open.spotify.com/album/5gkmTHGZTYetH7jKHcjzM8) | 2:53 |

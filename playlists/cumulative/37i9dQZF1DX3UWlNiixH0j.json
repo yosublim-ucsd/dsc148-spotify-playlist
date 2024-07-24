@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u30c8\u30af\u30de\u30eb\u30b7\u30e5\u30fc\u30b4 (Shugo Tokumaru)",
+  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u9577\u8c37\u5ddd\u767d\u7d19 Hakushi Hasegawa",
   "name": "Edge!",
   "tracks": [
     {
@@ -4928,7 +4928,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 234428,
       "name": "eclipse",
       "url": "https://open.spotify.com/track/0V6KjZQAx4Jt3nOlFsBKu4"
@@ -6064,6 +6064,24 @@
       "duration_ms": 240685,
       "name": "for never end",
       "url": "https://open.spotify.com/track/08Ms1LvE6haWBO6vFety2l"
+    },
+    {
+      "album": {
+        "name": "Mah\u014dgakk\u014d",
+        "url": "https://open.spotify.com/album/4pNJ4qCheT1fQASProMDrj"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284817,
+      "name": "Forbidden Thing (Kimmotsu)",
+      "url": "https://open.spotify.com/track/0a5EKnEXfZHtKATfNcmnks"
     },
     {
       "album": {
@@ -13403,6 +13421,24 @@
     },
     {
       "album": {
+        "name": "Mah\u014dgakk\u014d",
+        "url": "https://open.spotify.com/album/4pNJ4qCheT1fQASProMDrj"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206527,
+      "name": "Outside (Soto)",
+      "url": "https://open.spotify.com/track/3qFGKudbda5dTtblhOvlXh"
+    },
+    {
+      "album": {
         "name": "outside of the house",
         "url": "https://open.spotify.com/album/0H6FGzdwIRGc4F7UXEGNsX"
       },
@@ -17908,7 +17944,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 276378,
       "name": "Sweet Cherry",
       "url": "https://open.spotify.com/track/50yh6IKYA8b7y6ydZypdfj"

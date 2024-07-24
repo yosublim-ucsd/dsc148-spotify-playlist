@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 220000,
       "name": "432hz Let It Heal - Studio Edit",
       "url": "https://open.spotify.com/track/5NWPSiHduPE5OSAeh6Frpb"
@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "Clear Skies Ahead",
+        "url": "https://open.spotify.com/album/5rKVWByShf5lLqfFwDBsrg"
+      },
+      "artists": [
+        {
+          "name": "Syla Lo",
+          "url": "https://open.spotify.com/artist/3zNfKSIPCXKHZqlo2HQQl2"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "Clear Skies Ahead",
+      "url": "https://open.spotify.com/track/4m1wouuJbxxmeONhfmeeoV"
+    },
+    {
+      "album": {
         "name": "Clear Thoughts",
         "url": "https://open.spotify.com/album/0EObGlJoKBfBr14MLHKtGn"
       },
@@ -988,7 +1006,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 163436,
       "name": "Clearing Your Mind",
       "url": "https://open.spotify.com/track/0hadvoa1iZL28fFKLLp6as"
@@ -2270,6 +2288,24 @@
       "duration_ms": 136820,
       "name": "Lush",
       "url": "https://open.spotify.com/track/5SDlIDE7MvKEEfUwPvXrvN"
+    },
+    {
+      "album": {
+        "name": "L\u00b4unico Mondo",
+        "url": "https://open.spotify.com/album/3OTgcKoceFHbQPoSXTMx6D"
+      },
+      "artists": [
+        {
+          "name": "Yoga Sonique",
+          "url": "https://open.spotify.com/artist/0j9m2Hyt0u5GlBxHna1SO0"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157874,
+      "name": "L\u00b4unico Mondo",
+      "url": "https://open.spotify.com/track/0GapXKIQZFt1bxbZ6m2QHN"
     },
     {
       "album": {

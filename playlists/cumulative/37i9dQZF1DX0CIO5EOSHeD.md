@@ -2,9 +2,9 @@
 
 ### [Lofi Indie](https://open.spotify.com/playlist/37i9dQZF1DX0CIO5EOSHeD)
 
-> Slacker jams\. Cover: Hovvdy
+> Slacker jams\. Cover: Eyedress
 
-408 songs - 22 hr 1 min
+410 songs - 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Dreams Tonite](https://open.spotify.com/track/0DRvClQbN9znQ295sx76VC) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/7CCwkPweMxKq8yWkVerH6T) | 3:16 | 2022-03-30 | 2022-11-25 |
 | [Dreams Tonite](https://open.spotify.com/track/3xiMFRYBQL1zxdxbgUmBKI) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/5TGZvGolR6PoM1zYYyZNzX) | 3:16 | 2022-02-03 |  |
 | [Dreams Tonite](https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s) | 3:16 | 2022-09-13 | 2024-04-19 |
+| [Drivin'](https://open.spotify.com/track/2xLCfxnW0HxrNpkFNtin7d) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Drivin'](https://open.spotify.com/album/67ZGAMyret2ZCdHzq0axeX) | 3:17 | 2024-07-23 |  |
 | [Ego](https://open.spotify.com/track/2qgXNUKWcCcXjRo2aMLjBa) | [Scruffpuppie](https://open.spotify.com/artist/4sfEJm0Dv8H6RFfeenNJEd) | [Ego](https://open.spotify.com/album/2jfGYnx0a3MrNkwXzn5mRt) | 2:28 | 2020-10-27\* | 2021-12-09 |
 | [Ego Sand](https://open.spotify.com/track/2vqd30zLWO7SfTBFi2H5QV) | [syrup, go on](https://open.spotify.com/artist/3JWYHUPKrZmheEfly6TH7m) | [Last Light](https://open.spotify.com/album/69k9sTYPJJHPVSeRQJrJbb) | 4:06 | 2020-10-27\* | 2020-11-27 |
 | [Erasure \(Talking Drums\)](https://open.spotify.com/track/2qUBFbpfujv4OT6nUA2suG) | [Terror Firma](https://open.spotify.com/artist/3FXrpd7aBrYjRJzGnoZx6E) | [Erasure](https://open.spotify.com/album/0unV11dAZcDJ8fuePPvnXq) | 1:49 | 2021-12-09 | 2022-07-19 |
@@ -231,7 +232,7 @@
 | [Lunchbox](https://open.spotify.com/track/7BTkY4JFfuC3OTxcYsfCm4) | [Paxtcord](https://open.spotify.com/artist/2pzxlKBrvgogWXuVC9mxNU) | [Lunchbox](https://open.spotify.com/album/6yb8hy7Dt6GWbDFIS8tn8k) | 2:22 | 2021-10-07 | 2022-05-13 |
 | [madhouse](https://open.spotify.com/track/36fC4xtAucJ7KH6sdSDDo7) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [madhouse](https://open.spotify.com/album/3C7TLQLW8cXiDoogT7Hrlj) | 3:31 | 2022-03-30 | 2024-04-19 |
 | [madhouse](https://open.spotify.com/track/3EsYB7kiB7JsLvP3tHuHij) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [madhouse](https://open.spotify.com/album/47zuKf611JlvNEqmRnhXn0) | 3:31 | 2020-10-27\* | 2022-07-29 |
-| [Makeup](https://open.spotify.com/track/1vTNp2KQzVM5GkQ7sd2GOp) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [Makeup](https://open.spotify.com/album/4pBMcr7cjlbsB7MkMiuA0H) | 3:28 | 2020-11-12 |  |
+| [Makeup](https://open.spotify.com/track/1vTNp2KQzVM5GkQ7sd2GOp) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [Makeup](https://open.spotify.com/album/4pBMcr7cjlbsB7MkMiuA0H) | 3:28 | 2020-11-12 | 2024-07-24 |
 | [Man Love](https://open.spotify.com/track/71nPVaCmjNptNeB9bPiJ8n) | [Margot](https://open.spotify.com/artist/7Gql8RptDsVy6MIJzTLaB6) | [Man Love](https://open.spotify.com/album/0Yefs8ZgP83qCBnm8DPcSL) | 4:56 | 2020-10-27\* | 2021-02-26 |
 | [Maybe the Problem Is Me](https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Maybe the Problem Is Me](https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB) | 2:13 | 2021-02-06 |  |
 | [mean creek.](https://open.spotify.com/track/00AM3zuuier3pzRI0dFhSO) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [Elizabethtown.](https://open.spotify.com/album/7epCR4GKjfqGTuKZMyhtid) | 2:16 | 2023-05-18 | 2024-07-10 |
@@ -273,6 +274,7 @@
 | [Open](https://open.spotify.com/track/5GrmEP9RYU4XEHCPLdTAP0) | [World Brain](https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k) | [Open](https://open.spotify.com/album/5XOlVDmoXEsVEgIO4vzrMu) | 3:58 | 2024-07-09 |  |
 | [Orange Roses](https://open.spotify.com/track/670aiWD6QsDWp84szcpWE6) | [Lazygirl](https://open.spotify.com/artist/1YV0K79qt0uLTxtGflXTH9) | [Orange Roses](https://open.spotify.com/album/3R6PGdhybXer7PrwSCpc0w) | 4:05 | 2020-10-27\* | 2022-07-29 |
 | [Own](https://open.spotify.com/track/3p7pOrxCAt2obpQ7WNa0VM) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Own](https://open.spotify.com/album/4XC9aKl4vpKP9vSZcyt1MV) | 4:59 | 2023-05-18 | 2023-07-22 |
+| [Owner Operator](https://open.spotify.com/track/13PC7fpNWPPkMFJjTQeMh1) | [Sidewalk & the Wheely Bin](https://open.spotify.com/artist/3EZkOcE5IpJKOBQf1AKEAH) | [Wet bit beef bit no bit](https://open.spotify.com/album/785FkH4huvQH3rQyHvVwAU) | 2:32 | 2024-07-23 |  |
 | [Paces](https://open.spotify.com/track/6RiF8SC99TQlhS1HkdM7sF) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 2:44 | 2023-12-02 |  |
 | [Paimon Prom Dress](https://open.spotify.com/track/3yHSlNtttgrmdce8sO8ndN) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pink Songs](https://open.spotify.com/album/7HrvucSDN0Bsf3vsyROFnr) | 2:30 | 2022-02-03 | 2022-07-27 |
 | [Patience](https://open.spotify.com/track/2lxBhYFEacY4Sc8RoDm7Ty) | [scott is okay](https://open.spotify.com/artist/74sQB0xBWG3zl72UcRjIKK) | [Patience](https://open.spotify.com/album/5LGOD8FNLQQgNaTMijMdRx) | 2:20 | 2020-10-27\* | 2022-07-17 |
@@ -300,7 +302,7 @@
 | [Real](https://open.spotify.com/track/6JA93Y4aUHtzZyuxCGOhSm) | [Chelou](https://open.spotify.com/artist/2RwfRD2vlkdztGtVXENShq) | [Real](https://open.spotify.com/album/3LDD22obHHlYlxtBlUnj2h) | 3:46 | 2020-10-27\* | 2022-07-29 |
 | [Reality](https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v) | [Em Glasser](https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5), [Maatz](https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr) | [Reality](https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO) | 3:39 | 2022-09-13 |  |
 | [really happening](https://open.spotify.com/track/5Xrn2EX2EtCsghe8AppB3N) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [i'm so lucky](https://open.spotify.com/album/3CWtENutenUjSjgdt6XNBa) | 3:14 | 2024-07-09 |  |
-| [Reason](https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Reason](https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs) | 3:40 | 2020-12-11 |  |
+| [Reason](https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Reason](https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs) | 3:40 | 2020-12-11 | 2024-07-24 |
 | [Red Rag To A Bull](https://open.spotify.com/track/3v9dcSB3xTGLoQ7vwdr3I5) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [Red Rag To A Bull](https://open.spotify.com/album/7gh3pCCd0TDhLm25VAKlIN) | 2:36 | 2021-10-11 | 2022-04-20 |
 | [Red Stone](https://open.spotify.com/track/68uXJTiiZfSKL2KQrowXAL) | [Ed Dowie](https://open.spotify.com/artist/5fVWsyYSseyTctaZKbzYb5) | [Red Stone](https://open.spotify.com/album/1pLCw41U8oSFSIC37fsi00) | 4:14 | 2021-03-06 | 2022-04-21 |
 | [Ribbon Blue](https://open.spotify.com/track/7A8a4VvIFOhwg8cezHeGwP) | [PANTōNE VU](https://open.spotify.com/artist/5luLFn9eaF12EIamzc4oK8) | [Ribbon Blue](https://open.spotify.com/album/4jDSIRfuFvN6sZTLmwKHV8) | 2:05 | 2021-12-09 | 2022-07-19 |

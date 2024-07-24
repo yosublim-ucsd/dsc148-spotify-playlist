@@ -4,7 +4,7 @@
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: DYSTINCT & Dadju
 
-1,103 songs - 2 day 10 hr 14 min
+1,103 songs - 2 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Aw, Shoot!](https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Aw, Shoot!](https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu) | 3:28 | 2024-05-09 | 2024-05-17 |
 | [Baby Blue Bathing Suit](https://open.spotify.com/track/44g9B391W79R6B0AFXhRyd) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Baby Blue Bathing Suit](https://open.spotify.com/album/0utcSpsj5S64rk7Ob05iYv) | 3:15 | 2024-05-16 | 2024-05-24 |
 | [Baby Blue Movie](https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Baby Blue Movie](https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj) | 4:04 | 2024-06-06 | 2024-06-14 |
-| [Back](https://open.spotify.com/track/14mzbwEcHUze13WqwY52jg) | [BEKA](https://open.spotify.com/artist/4Eryf2DuHDKG9a6KT1nyaL) | [Back](https://open.spotify.com/album/0UP7lBxADP7AOY71VJkpOk) | 1:39 | 2024-07-19 |  |
+| [Back](https://open.spotify.com/track/14mzbwEcHUze13WqwY52jg) | [BEKA](https://open.spotify.com/artist/4Eryf2DuHDKG9a6KT1nyaL) | [Back](https://open.spotify.com/album/0UP7lBxADP7AOY71VJkpOk) | 1:44 | 2024-07-19 |  |
 | [Back Again](https://open.spotify.com/track/5v1KjLcpxjntj3bHyYJ40g) | [Joan As Police Woman](https://open.spotify.com/artist/6PBv8t9YTLggA9ZMwpeoqj) | [Back Again](https://open.spotify.com/album/4qi64z33gcZ5eo0mDNj2Qy) | 3:54 | 2024-07-19 |  |
 | [Back To One](https://open.spotify.com/track/1kOg8OXkYhsoaCuDppNyxF) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 4:58 | 2024-06-06 | 2024-06-14 |
 | [Backslide](https://open.spotify.com/track/62aSL7D64td5wr09L6iFiV) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Backslide](https://open.spotify.com/album/4bwNLICcbpG5VpFGG1J2pD) | 3:00 | 2024-04-26 | 2024-05-03 |

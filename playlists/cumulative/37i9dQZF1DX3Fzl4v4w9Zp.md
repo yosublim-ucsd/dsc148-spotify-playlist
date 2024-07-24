@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Kaitlin Butts
 
-695 songs - 1 day 18 hr 54 min
+696 songs - 1 day 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Dust Cain't Kill Me](https://open.spotify.com/track/2gf0zcBLZQnHvgpeKLya6w) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Dust Cain't Kill Me](https://open.spotify.com/album/15hGn4dEhC4o4tkQMLQGCA) | 3:20 | 2021-12-17 | 2022-05-14 |
 | [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 | 2022-09-23 | 2024-02-17 |
 | [El Mirador](https://open.spotify.com/track/6HQgUBaY6RbmmrXRER8y8E) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [El Mirador](https://open.spotify.com/album/0G9Bc2RYNUkCjUFK4zWKlX) | 3:38 | 2022-02-04 | 2022-04-02 |
+| [Empty Trainload Of Sky](https://open.spotify.com/track/4XNeSs0RanJTsQ8XF5OYes) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Empty Trainload Of Sky](https://open.spotify.com/album/5ojEvbXKOHXughEQcGoUwD) | 3:24 | 2024-07-23 |  |
 | [End Of The Line](https://open.spotify.com/track/2IwhGWbdmfMZMZ9JE4GiDN) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO), [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [End Of The Line \[Feat\. Aaron Neville\]](https://open.spotify.com/album/6Jej60SOD8fojT5s4HHsGS) | 4:12 | 2022-08-19 | 2023-08-05 |
 | [Eveline](https://open.spotify.com/track/4yaXd7WI8tiRWCxciM851k) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Eveline](https://open.spotify.com/album/3sO2usnoC00QBWa0XlmPrA) | 3:49 | 2023-03-10 | 2023-07-15 |
 | [Even Jesus Got The Blues](https://open.spotify.com/track/3O6pwu8y1SGJudoAiLouGy) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Even Jesus Got The Blues](https://open.spotify.com/album/54V2QD9hvipUq4629FNm36) | 3:31 | 2023-04-14 | 2024-03-09 |

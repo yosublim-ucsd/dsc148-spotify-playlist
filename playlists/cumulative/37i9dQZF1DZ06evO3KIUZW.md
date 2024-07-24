@@ -2,7 +2,7 @@
 
 ### [This Is Iron Maiden](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3KIUZW)
 
-> This Is Iron Maiden\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Iron Maiden\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 65 songs - 6 hr 44 min
 

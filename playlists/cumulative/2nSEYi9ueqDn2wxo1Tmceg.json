@@ -9009,6 +9009,28 @@
     },
     {
       "album": {
+        "name": "John Lennon (Crooked Fluxus)",
+        "url": "https://open.spotify.com/album/6l8w9sYVGaBIrg65te4p6f"
+      },
+      "artists": [
+        {
+          "name": "Fat White Family",
+          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
+        },
+        {
+          "name": "Crooked Man",
+          "url": "https://open.spotify.com/artist/4fKvjHGCib116TGkWmkSgR"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310319,
+      "name": "John Lennon - Crooked Fluxus 1",
+      "url": "https://open.spotify.com/track/25PLOc82Uo2YcnFWVXgEg6"
+    },
+    {
+      "album": {
         "name": "Joker",
         "url": "https://open.spotify.com/album/3C5hemEZFqLPsfbiW1tm70"
       },

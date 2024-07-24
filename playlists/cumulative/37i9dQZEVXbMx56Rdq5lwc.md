@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-1,680 songs - 3 day 19 hr 55 min
+1,681 songs - 3 day 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Familia](https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX) | 3:26 | 2022-04-09 | 2022-08-27 |
 | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 | 2024-05-25 | 2024-07-21 |
 | [Bandit](https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Bandit](https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC) | 2:27 | 2024-02-03 | 2024-02-05 |
-| [Barakuda](https://open.spotify.com/track/3HGClgmdNtHAhoFEChhKNH) | [Furytto](https://open.spotify.com/artist/53xjuOkCa7byXggNs2VZOw), [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5) | [Barakuda](https://open.spotify.com/album/6GoqmwBQds9BavOYJClefF) | 1:59 | 2024-03-09 |  |
+| [Barakuda](https://open.spotify.com/track/3HGClgmdNtHAhoFEChhKNH) | [Furytto](https://open.spotify.com/artist/53xjuOkCa7byXggNs2VZOw), [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5) | [Barakuda](https://open.spotify.com/album/6GoqmwBQds9BavOYJClefF) | 1:59 | 2024-03-09 | 2024-07-24 |
 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 | 2023-07-22 | 2023-09-03 |
 | [Bardot](https://open.spotify.com/track/00tUE6zCYP3B4Kb4fL76Kd) | [FC Baseball](https://open.spotify.com/artist/0C2U98NkIkyePhoocejsCD) | [Bėgti laiptais](https://open.spotify.com/album/1o0OoS4di5BrZfdLLxxUBP) | 3:27 | 2023-10-28 | 2023-10-30 |
 | [Bateliai](https://open.spotify.com/track/49Li0GSpdrMoZQYzDfOUFv) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Pasaka](https://open.spotify.com/album/5qNv5pwpkoWahhan3t528U) | 2:24 | 2023-03-11 | 2023-07-20 |
@@ -178,6 +178,7 @@
 | [BITTERSUITE](https://open.spotify.com/track/7DpUoxGSdlDHfqCYj0otzU) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:58 | 2024-05-18 | 2024-06-01 |
 | [BIZNIS](https://open.spotify.com/track/0qVZ7rWYIjaabPOGOVipIR) | [Proflame](https://open.spotify.com/artist/08hlS00IaeGBaRSZtxuwUq) | [KIEK TIK GALIU](https://open.spotify.com/album/7xMS0qdvTe2hcVSQE003gB) | 2:06 | 2023-12-01 |  |
 | [BIZNIS](https://open.spotify.com/track/3zB5KG6eGNnNS38dvAQs9K) | [Proflame](https://open.spotify.com/artist/08hlS00IaeGBaRSZtxuwUq) | [BIZNIS](https://open.spotify.com/album/5ti82aEJC2euzp1rwxW7vO) | 2:06 | 2023-07-15 | 2023-12-01 |
+| [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 | 2024-07-23 |  |
 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 | 2022-02-05 | 2022-02-07 |
 | [Blank Space \(Taylor's Version\)](https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:51 | 2023-10-28 | 2023-10-30 |
 | [Blinding Lies](https://open.spotify.com/track/0leLXQJfUG0ZfeGg7mPniA) | [NOFALSE FEELIN](https://open.spotify.com/artist/5uoCJiq8WLQwtGJVxWKeXl) | [Blinding Lies](https://open.spotify.com/album/6Ei0tVmqHmzfH8SfFceAoT) | 3:00 | 2022-09-30 | 2022-10-03 |

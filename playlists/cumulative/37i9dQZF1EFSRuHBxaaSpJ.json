@@ -911,6 +911,24 @@
     },
     {
       "album": {
+        "name": "Juka\u00ef : Tome 1",
+        "url": "https://open.spotify.com/album/5sqmCvklxhkUu63bGCPtT7"
+      },
+      "artists": [
+        {
+          "name": "Rafal",
+          "url": "https://open.spotify.com/artist/1po2usUvDtjw2UVI2bnV1h"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135320,
+      "name": "Par hasard",
+      "url": "https://open.spotify.com/track/0u2AmL4idXpdOCOLAwiCd1"
+    },
+    {
+      "album": {
         "name": "W",
         "url": "https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5"
       },

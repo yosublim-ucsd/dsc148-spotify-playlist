@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This is Biosphere. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Biosphere. The essential tracks, all in one playlist.",
   "name": "This Is Biosphere",
   "tracks": [
     {
@@ -638,7 +638,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 312440,
       "name": "Delta Function",
       "url": "https://open.spotify.com/track/5BU2xQh5hTf2hvs3MF1vcD"
@@ -1322,7 +1322,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 244000,
       "name": "In the Ballroom",
       "url": "https://open.spotify.com/track/1GPzqVAsIXsJfFZ2lUfn7U"
@@ -2048,7 +2048,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-23",
+      "date_removed": null,
       "duration_ms": 251066,
       "name": "Poa Alpina",
       "url": "https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw"
@@ -2430,7 +2430,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 276967,
       "name": "Spindrift",
       "url": "https://open.spotify.com/track/4nuQXyi9gsNyC1UHgMThKl"
@@ -2538,7 +2538,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 205432,
       "name": "Talking to Some Imaginary Person",
       "url": "https://open.spotify.com/track/1xcpQJjF2TLxzCmQIIZPyY"
@@ -2892,7 +2892,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 181413,
       "name": "Uva-Ursi",
       "url": "https://open.spotify.com/track/40QwZW5GcnjtwuPRJEM9bx"

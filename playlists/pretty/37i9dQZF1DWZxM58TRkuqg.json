@@ -1,12 +1,12 @@
 {
   "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: For Revenge",
-  "num_followers": 768762,
+  "num_followers": 768881,
   "original_name": "Puncak Klasemen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZplKEAAAAACseMV2XmuiqCz1r3emupUn",
+  "snapshot_id": "Zp9TaQAAAABh98EhqkD1le9VJntpwIyL",
   "tracks": [
     {
       "added_at": "2024-07-18 17:00:00",
@@ -575,6 +575,26 @@
       "duration_ms": 236752,
       "name": "Kita Bikin Romantis",
       "url": "https://open.spotify.com/track/7geh51STedQfizitdiNPCg"
+    },
+    {
+      "added_at": "2024-07-23 06:53:29",
+      "album": {
+        "name": "Bukan Karena Tak Cinta",
+        "url": "https://open.spotify.com/album/1txZB0N3UvCesSy5mdyq3x"
+      },
+      "artists": [
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        },
+        {
+          "name": "Lesti",
+          "url": "https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB"
+        }
+      ],
+      "duration_ms": 258497,
+      "name": "Bukan Karena Tak Cinta",
+      "url": "https://open.spotify.com/track/66mmXcrSk8HfyIf28hRGIT"
     },
     {
       "added_at": "2024-07-18 17:00:00",

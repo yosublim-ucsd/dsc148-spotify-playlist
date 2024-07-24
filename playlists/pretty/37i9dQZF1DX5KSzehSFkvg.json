@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs hits Pop c'est ici. Cover: Hind Ziadi",
-  "num_followers": 68238,
+  "num_followers": 68315,
   "original_name": "Top Maghreb Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZppzYwAAAADFvlnNtQmXPLd2MfHlDg0A",
+  "snapshot_id": "Zp+xGQAAAADy1AL3Ds0qJSTlJANqJO64",
   "tracks": [
     {
       "added_at": "2024-07-19 14:08:35",
@@ -231,6 +231,22 @@
       "duration_ms": 223578,
       "name": "C'est pas joli",
       "url": "https://open.spotify.com/track/4SpnH3YDyQeBa2nfMdRlSB"
+    },
+    {
+      "added_at": "2024-07-23 13:33:13",
+      "album": {
+        "name": "Mahboul Ana",
+        "url": "https://open.spotify.com/album/5S0X8OEdaDeVvvH5EoSlxY"
+      },
+      "artists": [
+        {
+          "name": "Lazaro",
+          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
+        }
+      ],
+      "duration_ms": 185077,
+      "name": "Mahboul Ana",
+      "url": "https://open.spotify.com/track/2YmbOhmRPDZ5XD5l9jROln"
     },
     {
       "added_at": "2024-07-19 14:08:35",
@@ -695,26 +711,6 @@
       "duration_ms": 202271,
       "name": "Kan Kis7abli",
       "url": "https://open.spotify.com/track/28YTJGOAnyrdmAAkorOie5"
-    },
-    {
-      "added_at": "2024-07-19 14:08:35",
-      "album": {
-        "name": "BABA (feat. Ghali)",
-        "url": "https://open.spotify.com/album/7tfYeVFoIFOk2dun7OXBd5"
-      },
-      "artists": [
-        {
-          "name": "Manal",
-          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
-        },
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "BABA (feat. Ghali)",
-      "url": "https://open.spotify.com/track/5eqpqdHsOKMqeI1UXUjAUg"
     },
     {
       "added_at": "2024-07-19 14:08:35",

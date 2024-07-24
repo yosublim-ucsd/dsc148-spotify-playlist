@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,158 likes - 75 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,167 likes - 75 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 72 | [POKER FAITH \-ポーカーフェイス\-](https://open.spotify.com/track/6V6A4btCaU3Jq0gOkaWTUz) | [315 STARS](https://open.spotify.com/artist/6Red1AKOrFqOwO9urpYmbO) | [THE IDOLM@STER SideM WakeMini! MUSIC COLLECTION 03](https://open.spotify.com/album/4xr953qK8O4crM1CH8czPK) | 4:03 |
 | 73 | [バーニン・クールで輝いて](https://open.spotify.com/track/2dwYu8lDOXLrCwH2fyhrjW) | [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd) | [THE IDOLM@STER SideM ST@RTING LINE\-09 神速一魂](https://open.spotify.com/album/0V7ZKaIhX9xTlWvhiOJ5qk) | 4:27 |
 | 74 | [GOLD ～No.79～](https://open.spotify.com/track/7Iiphl7su3tJcxtby6XZoN) | [山下次郎 \(CV.中島ヨシキ\)](https://open.spotify.com/artist/3td7wBhA42i9AzLcbIzd0k) | [THE IDOLM@STER SideM ORIGIN@L PIECES 01](https://open.spotify.com/album/4wZuTqLrABThBNX1C7LZNC) | 4:22 |
-| 75 | [千客万来ニーハオサァカス！](https://open.spotify.com/track/6xzS3JfLsFuXDeTsMStW6W) | [御手洗翔太 \(CV.松岡禎丞\)](https://open.spotify.com/artist/27EIW2zgQENFON94CmfVOs), [渡辺みのり \(CV.高塚智人\)](https://open.spotify.com/artist/0X5yOApIvHeL7vb0hfmT9V), [大河タケル \(CV.寺島惇太\)](https://open.spotify.com/artist/6xLoG0qfLd7CT1gdNaMeRd), [兜 大吾 \(CV.浦尾岳大\)](https://open.spotify.com/artist/36v06McO13MtRuzHchy9W5) | [THE IDOLM@STER SideM WORLD TRE@SURE 04](https://open.spotify.com/album/5YY6uJriyD5sLakE00iPx1) | 3:40 |
+| 75 | [ALL nOR NOTHING](https://open.spotify.com/track/6yZiC2A5dpF8ArLqG73PCx) | [神谷幸広 \(CV.狩野 翔\)](https://open.spotify.com/artist/1dntGXrPQ9hLm1rAD6qu7a), [北村想楽 \(CV.汐谷文康\)](https://open.spotify.com/artist/6gLPEzlIMIN8WZwdSd4kmN), [握野英雄 \(CV.熊谷健太郎\)](https://open.spotify.com/artist/4o1A7BPOW9o7dgZbVEvA3L), [華村翔真 \(CV.バレッタ裕\)](https://open.spotify.com/artist/2eGwnPZ5MnK9A5XTEoOW3l), [榊 夏来 \(CV.渡辺 紘\)](https://open.spotify.com/artist/0KbjxfCIJv7RxirFCcTQTC), [岡村直央 \(CV.矢野奨吾\)](https://open.spotify.com/artist/6UVpGdaJTtWjqayx63Newe) | [ALL nOR NOTHING](https://open.spotify.com/album/7LnoJObwR1wnOPSNRCmtzt) | 4:15 |
 
 Snapshot ID: `ZedXbwAAAAA6VByJ4FhXzL1fo7PpFDzx`

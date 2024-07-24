@@ -4,7 +4,7 @@
 
 > Get nostalgic with all the summer hits and bangers you'll need\. From Beyoncé, Alicia Keys, John Legend, Miley Cyrus, P!nk and many more....
 
-366 songs - 22 hr 41 min
+367 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [For the First Time](https://open.spotify.com/track/49kjlZP49LMD1MrrcvXDET) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Science & Faith](https://open.spotify.com/album/5rtaHEtZdWQSrKJmuqPTB0) | 4:12 | 2021-10-05 | 2023-04-04 |
 | [For the First Time \- Acoustic](https://open.spotify.com/track/5mdbMw9YTHUXWFs68CBVUO) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [For the First Time \(Acoustic\)](https://open.spotify.com/album/4NrcwBHZXLuCagvQa0RWTl) | 4:34 | 2021-03-14 | 2021-05-05 |
 | [Forget You](https://open.spotify.com/track/6zKMARmU2Ue50cucKnIUR6) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [The Lady Killer \(The Platinum Edition\)](https://open.spotify.com/album/3MnOoZGbCDAjLf8jOImSbg) | 3:42 | 2023-09-12 |  |
+| [Freedom \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/7aBxcRw77817BrkdPChAGY) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 4:49 | 2024-07-23 |  |
 | [Fun \(feat\. Chris Brown\)](https://open.spotify.com/track/6Zo3wgDE076K2AuiGZF3CS) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:22 | 2023-09-12 |  |
 | [GDFR \(feat\. Sage the Gemini & Lookas\)](https://open.spotify.com/track/26rdOwwjC2UnweK3xeS58u) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z), [Lookas](https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG) | [My House](https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH) | 3:10 | 2023-09-12 |  |
 | [German](https://open.spotify.com/track/7cwLbWHs42c8JmrW9BJZos) | [EO](https://open.spotify.com/artist/0M42FTSaBb8W0laID5CR0U) | [German](https://open.spotify.com/album/7xdhIZ08Rxj1Lm9ek181uB) | 2:50 | 2022-02-21 | 2023-04-04 |

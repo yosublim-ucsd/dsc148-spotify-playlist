@@ -1,6 +1,6 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 169341,
+  "num_followers": 169415,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,26 @@
     {
       "added_at": "2024-05-28 16:28:00",
       "album": {
+        "name": "New Dawn",
+        "url": "https://open.spotify.com/album/3N7B5fFi6cEpFcBwF7IF5P"
+      },
+      "artists": [
+        {
+          "name": "David Fedele",
+          "url": "https://open.spotify.com/artist/0ALRbdawPvvBA3OSnXhMsk"
+        },
+        {
+          "name": "Antonina Car",
+          "url": "https://open.spotify.com/artist/2ms1p6jgg7xaVg9s33a8nJ"
+        }
+      ],
+      "duration_ms": 251889,
+      "name": "New Dawn",
+      "url": "https://open.spotify.com/track/7CGrQSHf6dqeTX1VhC0xU4"
+    },
+    {
+      "added_at": "2024-05-28 16:28:00",
+      "album": {
         "name": "On The Verge Of Collapse",
         "url": "https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA"
       },
@@ -231,26 +251,6 @@
       "duration_ms": 317682,
       "name": "The Innkeeper and the Moon",
       "url": "https://open.spotify.com/track/2NorafETAjaOLdEvoOrfj3"
-    },
-    {
-      "added_at": "2024-05-28 16:28:00",
-      "album": {
-        "name": "New Dawn",
-        "url": "https://open.spotify.com/album/3N7B5fFi6cEpFcBwF7IF5P"
-      },
-      "artists": [
-        {
-          "name": "David Fedele",
-          "url": "https://open.spotify.com/artist/0ALRbdawPvvBA3OSnXhMsk"
-        },
-        {
-          "name": "Antonina Car",
-          "url": "https://open.spotify.com/artist/2ms1p6jgg7xaVg9s33a8nJ"
-        }
-      ],
-      "duration_ms": 251889,
-      "name": "New Dawn",
-      "url": "https://open.spotify.com/track/7CGrQSHf6dqeTX1VhC0xU4"
     },
     {
       "added_at": "2024-05-28 16:28:00",
@@ -807,26 +807,6 @@
     {
       "added_at": "2024-05-28 16:28:00",
       "album": {
-        "name": "Musica Desolata",
-        "url": "https://open.spotify.com/album/6d2zEv374iiL8FmTRbuklB"
-      },
-      "artists": [
-        {
-          "name": "Alexei Aigui",
-          "url": "https://open.spotify.com/artist/5LaWJYIJaRFtx0HbieOTE5"
-        },
-        {
-          "name": "Arkady Marto",
-          "url": "https://open.spotify.com/artist/2EgSk5VfvU0eFTdX3J7tWx"
-        }
-      ],
-      "duration_ms": 284506,
-      "name": "Musica Desolata",
-      "url": "https://open.spotify.com/track/3Yxr6ErXlxOZlKpHopaOZ4"
-    },
-    {
-      "added_at": "2024-05-28 16:28:00",
-      "album": {
         "name": "Things of the World (Piano and Strings)",
         "url": "https://open.spotify.com/album/2yxNHqEapsxfDnheg65zrI"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 100875,
       "name": "Things of the World - Piano and Strings",
       "url": "https://open.spotify.com/track/5e7rOKu6CZxntaa8gKOihj"
+    },
+    {
+      "added_at": "2024-05-28 16:28:00",
+      "album": {
+        "name": "Musica Desolata",
+        "url": "https://open.spotify.com/album/6d2zEv374iiL8FmTRbuklB"
+      },
+      "artists": [
+        {
+          "name": "Alexei Aigui",
+          "url": "https://open.spotify.com/artist/5LaWJYIJaRFtx0HbieOTE5"
+        },
+        {
+          "name": "Arkady Marto",
+          "url": "https://open.spotify.com/artist/2EgSk5VfvU0eFTdX3J7tWx"
+        }
+      ],
+      "duration_ms": 284506,
+      "name": "Musica Desolata",
+      "url": "https://open.spotify.com/track/3Yxr6ErXlxOZlKpHopaOZ4"
     },
     {
       "added_at": "2024-05-28 16:28:00",

@@ -4,7 +4,7 @@
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs?si=ZMYXmHpdSGeH9FknanH8Tw">Jo Black</a>
 
-489 songs - 1 day 5 hr 12 min
+490 songs - 1 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,7 +380,7 @@
 | [Sick & Tired](https://open.spotify.com/track/31VzttOuHMtdhoZLwPyPLF) | [Dyluded](https://open.spotify.com/artist/1cyrURNf08hhvsfg6nltEW) | [Sick & Tired](https://open.spotify.com/album/74orOdhwPWJdySoAUoQXYE) | 2:32 | 2021-11-11 | 2022-11-18 |
 | [Silver Foyer](https://open.spotify.com/track/7z0kfDxyBzRkHxoEEjQxU7) | [Sold Ash](https://open.spotify.com/artist/1y87T8TRFJAPIEF7X9oQMz) | [Howl A Little Louder Just Don't Spit In My Mouth](https://open.spotify.com/album/33Lu72KGrREZEPh7py0il7) | 3:53 | 2022-08-25 | 2023-02-17 |
 | [Silwer](https://open.spotify.com/track/4UFuCgW8yugNXB5SMn3MQs) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Silwer](https://open.spotify.com/album/6P5AWCkCPJyb3UPbeaoB2F) | 3:41 | 2021-09-02 | 2022-11-18 |
-| [Sindikaat](https://open.spotify.com/track/0qkIdbHq4RHlUuVkj6eRcs) | [éF\-éL](https://open.spotify.com/artist/0I1HsrpXxDkMUiOYp3Mmka) | [Net Om Die Geraas In Te Asem](https://open.spotify.com/album/24XNRA90YKU8MOiI1Yaz65) | 2:21 | 2024-01-04 |  |
+| [Sindikaat](https://open.spotify.com/track/0qkIdbHq4RHlUuVkj6eRcs) | [éF\-éL](https://open.spotify.com/artist/0I1HsrpXxDkMUiOYp3Mmka) | [Net Om Die Geraas In Te Asem](https://open.spotify.com/album/24XNRA90YKU8MOiI1Yaz65) | 2:21 | 2024-01-04 | 2024-07-24 |
 | [Six Feet of Snow](https://open.spotify.com/track/6xJqUFVdJXd97rFA1M3Ane) | [Ethyl Ether](https://open.spotify.com/artist/0SbWug1zk2RZx8WkkwIJpt) | [Six Feet of Snow](https://open.spotify.com/album/3QCHTxFWFeqqJj2x1tTXbO) | 4:58 | 2022-12-01 | 2022-12-09 |
 | [Skemer](https://open.spotify.com/track/1jA3oyVG2hVhJ1N4pEnikA) | [Bouwer Bosch](https://open.spotify.com/artist/5HZFQNs0MnrxxtU7dvi4Te) | [Briewe Uit Die Argiewe](https://open.spotify.com/album/0S5HPecNnxsYdKnQXPVdcG) | 3:45 | 2022-11-17 | 2023-03-03 |
 | [SKIN](https://open.spotify.com/track/4KqrcWePnhNGWAyfa8UTO6) | [BRAINCHILD](https://open.spotify.com/artist/0IKw7PVOOaFyDUTMcAYkCj) | [SKIN](https://open.spotify.com/album/6yHbCQ1kMQd54FzDsV5UM0) | 2:24 | 2023-04-14 | 2023-06-09 |
@@ -472,6 +472,7 @@
 | [Vodka and Smoke](https://open.spotify.com/track/514tQtj7uyLHMn2yGgJkmj) | [Metro Villa](https://open.spotify.com/artist/5ix8M9VgoCHupwSJu5022W) | [Vodka and Smoke](https://open.spotify.com/album/3oDXIxLl40ilYOg0yfIfZm) | 4:36 | 2023-03-09 | 2023-04-21 |
 | [Voel Jy Dit?](https://open.spotify.com/track/6PHxsiho5eloCFvuYseB7Y) | [Vancoet](https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG) | [Voel Jy Dit?](https://open.spotify.com/album/0woO4IsAbmDoxLE2INCuE7) | 2:51 | 2024-05-31 |  |
 | [Vriend](https://open.spotify.com/track/4N0DKF5cPNjxPWRGLsXvvH) | [Armand Steenkamp](https://open.spotify.com/artist/4w6AsEneIpyV0x0Umntav5) | [Vriend](https://open.spotify.com/album/1nDlCjKf176FOs2ej8puEC) | 3:17 | 2023-09-15 | 2024-01-05 |
+| [VRY WIL ONS WEES](https://open.spotify.com/track/1QQVztQfIgz8Yfp8sttEtY) | [Jonah](https://open.spotify.com/artist/1cyng9F206AdhCPdiBueLk) | [VRY WIL ONS WEES](https://open.spotify.com/album/5g2Hb6znFRVOa8XUhVx4Uo) | 2:59 | 2024-07-18 |  |
 | [Wabaleka](https://open.spotify.com/track/3hYjSz0QfFeaG9CTP8hNJF) | [Hawema](https://open.spotify.com/artist/6CWA38UpeY34SNOKY29peK) | [Hawema](https://open.spotify.com/album/5QZq4FHvOHdlgr1mts4T89) | 4:47 | 2023-04-20 | 2023-06-02 |
 | [WAR](https://open.spotify.com/track/45rrUms7GQkfj6XkWoNsmi) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [WAR](https://open.spotify.com/album/2TBi0FV18WhlGi1zGbkgxE) | 1:46 | 2022-07-21 | 2022-11-25 |
 | [Wasted Time](https://open.spotify.com/track/12HG1wEqsG2im9oTX5baIq) | [Dream Demon](https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki) | [Wasted Time](https://open.spotify.com/album/15KdGalTwSTxItX1h7kQkG) | 3:58 | 2022-08-04 | 2022-11-20 |

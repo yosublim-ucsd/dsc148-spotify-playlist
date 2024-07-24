@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 
 > Tu táta tu tatá..\. el beat funk de Brasil para el mundo\. Baile bonitoooo Foto: Lua de Santana
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,439 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,464 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 | 45 | [Solterosky](https://open.spotify.com/track/6AS7iD8o56oa2p7TH8COnd) | [Gonza BR](https://open.spotify.com/artist/6vo2878nQ08o3wpZVTXc15), [Dielo 98](https://open.spotify.com/artist/5t3LgF2M4SeEGJzB4ihHNM), [PACOREMIX](https://open.spotify.com/artist/2EyZ2vRJWwVCAtR2VrL4Ju), [Nahuell](https://open.spotify.com/artist/24asxbVJal3Vd1kM9rME4U) | [Solterosky](https://open.spotify.com/album/1raeWaD3lzb9vGsV0fRA19) | 2:25 |
 | 46 | [Uno De Eses Gatos](https://open.spotify.com/track/2tkDf7W81NUS5EnZLHK93h) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [Uno De Eses Gatos](https://open.spotify.com/album/2XqFUgoZxHF0rlx8FVafHy) | 2:45 |
 | 47 | [PERMANENTE](https://open.spotify.com/track/29VBUB6f8fQxF6xP3Bvcpz) | [Thompsn](https://open.spotify.com/artist/6g3QiAnU7JKT2L4l3Zam7O), [Lic Dabi](https://open.spotify.com/artist/48Tnk36WXARmEtQLVs0dEu) | [PERMANENTE](https://open.spotify.com/album/4Lez3G3O0bt3rnKJm7Sfl5) | 2:33 |
-| 48 | [callaito](https://open.spotify.com/track/4MzA8Gx7dhGNUXQUbGkTEa) | [Elena Mesa](https://open.spotify.com/artist/3TuPoyrn7qfq9rMfgTk2hi), [Jams](https://open.spotify.com/artist/7kk0hTq1MIHljThqThRY6S) | [callaito](https://open.spotify.com/album/2h1yJ8TVNROj0DuYqHOm9Z) | 2:11 |
+| 48 | [callaito](https://open.spotify.com/track/4MzA8Gx7dhGNUXQUbGkTEa) | [Elena Mesa](https://open.spotify.com/artist/3TuPoyrn7qfq9rMfgTk2hi), [Jams](https://open.spotify.com/artist/27SMq478c9KkyRdhbzDWMG) | [callaito](https://open.spotify.com/album/2h1yJ8TVNROj0DuYqHOm9Z) | 2:11 |
 | 49 | [Thief](https://open.spotify.com/track/712F0I8gcS7Bzl6fIiHd8J) | [Kate](https://open.spotify.com/artist/4PF767fovxOQW8vGJrn2ZF) | [Thief](https://open.spotify.com/album/1v9OU45bcEIEjLmoMpIBMR) | 1:50 |
 | 50 | [Fria](https://open.spotify.com/track/4ijd1rkMYDh4D7rxi3O8Jf) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:07 |
 | 51 | [CUANTAS LUNAS HAN PASADO](https://open.spotify.com/track/6qcRtE9uMbLPPP2J19ht7K) | [Jey Child](https://open.spotify.com/artist/4I9pHPWplKfJfmiOFts15b) | [CUANTAS LUNAS HAN PASADO](https://open.spotify.com/album/6tI0RKnfI6Aq2KL51mYBAC) | 2:42 |

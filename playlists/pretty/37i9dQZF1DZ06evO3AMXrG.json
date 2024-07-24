@@ -1,12 +1,12 @@
 {
-  "description": "This Is Cultura Prof\u00e9tica. Los temas esenciales, todos en una lista.",
-  "num_followers": 231662,
+  "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
+  "num_followers": 231720,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpxPgAAAAACmmXVJEjyFhilybHW7WVt+",
+  "snapshot_id": "Zp2hAAAAAACXGkUHeikN3JZBog42DiyP",
   "tracks": [
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canci\u00f3n de Alerta",
+        "url": "https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "Fruto de la Tierra",
+      "url": "https://open.spotify.com/track/7L0E4HQmpPLDIWhpDqYJez"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0zewwoQ6hQkcgpl29PXCA8"
       },
@@ -724,9 +740,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 133933,
-      "name": "La Otra Galaxia",
-      "url": "https://open.spotify.com/track/0MHaoEf98Uug7ft75wnsBV"
+      "duration_ms": 382920,
+      "name": "Ley Natural",
+      "url": "https://open.spotify.com/track/2FthRSpEy044BM8QkoqeeP"
     },
     {
       "added_at": null,
@@ -792,9 +808,25 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 382920,
-      "name": "Ley Natural",
-      "url": "https://open.spotify.com/track/2FthRSpEy044BM8QkoqeeP"
+      "duration_ms": 133933,
+      "name": "La Otra Galaxia",
+      "url": "https://open.spotify.com/track/0MHaoEf98Uug7ft75wnsBV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canci\u00f3n de Alerta",
+        "url": "https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 71333,
+      "name": "Enyoyando",
+      "url": "https://open.spotify.com/track/6ySSJb08nj05F4zqcUtFBx"
     },
     {
       "added_at": null,

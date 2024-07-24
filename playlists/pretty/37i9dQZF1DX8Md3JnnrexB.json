@@ -1,6 +1,6 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 210145,
+  "num_followers": 210165,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Circle Of One",
-        "url": "https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO"
-      },
-      "artists": [
-        {
-          "name": "Oleta Adams",
-          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
-        }
-      ],
-      "duration_ms": 274693,
-      "name": "Get Here",
-      "url": "https://open.spotify.com/track/5QuBsgbjQHpwfiV7aIwvQV"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Now We May Begin",
         "url": "https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 302653,
       "name": "One Day I'll Fly Away",
       "url": "https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Circle Of One",
+        "url": "https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO"
+      },
+      "artists": [
+        {
+          "name": "Oleta Adams",
+          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
+        }
+      ],
+      "duration_ms": 274693,
+      "name": "Get Here",
+      "url": "https://open.spotify.com/track/5QuBsgbjQHpwfiV7aIwvQV"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Friends In Love",
-        "url": "https://open.spotify.com/album/2cTcWY4AibpkqpwbUjJmuK"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 298946,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/5LvUhG3juSj0TnCoHifKd7"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Risqu\u00e9",
         "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 364853,
       "name": "A Warm Summer Night",
       "url": "https://open.spotify.com/track/55CJVnRVa2fHlwyKBVPJbZ"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Friends In Love",
+        "url": "https://open.spotify.com/album/2cTcWY4AibpkqpwbUjJmuK"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 298946,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/5LvUhG3juSj0TnCoHifKd7"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1671,22 +1671,18 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "This Close To You",
-        "url": "https://open.spotify.com/album/1hW1NkW73cDr29Ef2XDLb4"
+        "name": "So Close",
+        "url": "https://open.spotify.com/album/1N6OwzFpqpAbm4tjhuxMDe"
       },
       "artists": [
         {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        },
-        {
-          "name": "Luther",
-          "url": "https://open.spotify.com/artist/0LK2gak2mwCnKaINYPl8iM"
+          "name": "Dina Carroll",
+          "url": "https://open.spotify.com/artist/6G7PZ5QfWCPDMxTJ48vYwG"
         }
       ],
-      "duration_ms": 211306,
-      "name": "This Close To You",
-      "url": "https://open.spotify.com/track/3XcAfN5ymLAYbz3TKMGQly"
+      "duration_ms": 293533,
+      "name": "So Close",
+      "url": "https://open.spotify.com/track/7c51mPqkeaO44KJjVuBG5J"
     },
     {
       "added_at": "2024-07-03 15:11:44",

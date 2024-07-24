@@ -4,7 +4,7 @@
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Dexter and The Moonrocks
 
-2,572 songs - 5 day 16 hr 1 min
+2,573 songs - 5 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2133,6 +2133,7 @@
 | [supernAtural](https://open.spotify.com/track/6pqbW62SKuIGJxiYjHTx6l) | [dye](https://open.spotify.com/artist/76YHUJWHU2wgGBZjIg3itT) | [supernAtural](https://open.spotify.com/album/0yFDcLCs2xq8RR48hWNpOu) | 2:39 | 2024-02-09 | 2024-03-23 |
 | [Superweak](https://open.spotify.com/track/2TF4DWgC82TZZVFRDU1ZO3) | [Bukowski](https://open.spotify.com/artist/68HpOv7DefjopAabpaQZjR) | [Superweak](https://open.spotify.com/album/0I61eHjNBR674kPzSdPWWt) | 2:55 | 2024-06-21 |  |
 | [Sure Enough](https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Sure Enough](https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u) | 2:51 | 2023-09-29 | 2023-10-21 |
+| [Survival in Motion](https://open.spotify.com/track/46tFOsvuIJTXqT0of0ZyTX) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Survival in Motion](https://open.spotify.com/album/7MLciyYz4wb1vQkFdX9MEE) | 2:15 | 2024-07-23 |  |
 | [SWALLOW](https://open.spotify.com/track/7COHtJ84RstQYgB7d9jXYo) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [SWALLOW](https://open.spotify.com/album/1NpXUL73fmt4KRbFfBfwKk) | 3:55 | 2024-06-14 |  |
 | [Swap Places](https://open.spotify.com/track/58AT3seTr9rPaHReoAeiaL) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Sleez](https://open.spotify.com/album/0itTV0hnENfrtJW6h5thET) | 2:37 | 2023-05-19 | 2023-06-17 |
 | [Swear](https://open.spotify.com/track/2vn4MzB2p1jv8HTZzArG0J) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Old Clothes](https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx) | 2:39 | 2022-10-28 | 2022-12-03 |

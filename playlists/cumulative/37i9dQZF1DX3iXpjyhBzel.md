@@ -4,7 +4,7 @@
 
 > A música certa para o seu momento de adoração\. Foto: Gabi Sampaio, Nívea Izabella
 
-278 songs - 1 day 3 hr 14 min
+279 songs - 1 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Estremece a Terra](https://open.spotify.com/track/4dAXUOXLtF5Tj5BQZ65zug) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [ASSIM SEJA](https://open.spotify.com/album/7Bel1Ka4jSYFXlckOLJFsu) | 6:02 | 2023-08-18 | 2023-12-23 |
 | [Está Tudo Bem](https://open.spotify.com/track/27aah6LyyKTSI4Kpq51Jhf) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Está Tudo Bem](https://open.spotify.com/album/1vP6Rril4XZA72ehbnFWZs) | 5:52 | 2023-01-20 |  |
 | [Eu Amo a Tua Glória \- Ao Vivo](https://open.spotify.com/track/6bA5Bt4d2drlsBOYAghABi) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Eu Amo a Tua Glória \(Ao Vivo\)](https://open.spotify.com/album/2vdMe0H5bGJDKJVqbuheca) | 8:58 | 2022-09-09 | 2023-10-07 |
+| [Eu Confio em Ti](https://open.spotify.com/track/2h57Y9zXYOZPrZQFflBSkN) | [Duda Santos Oficial](https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG) | [Eu Confio em Ti](https://open.spotify.com/album/4fODYhgMDmRFyAs17YQwlZ) | 5:03 | 2024-07-23 |  |
 | [Eu Creio \(Believe For It\)](https://open.spotify.com/track/0KYF47E8xIrKfUnlZOAXJF) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Eu Creio \(Believe For It\)](https://open.spotify.com/album/7arXmK6JfnriihjvrxW5vG) | 6:23 | 2022-09-09 |  |
 | [Eu Cuido De Você](https://open.spotify.com/track/7jCfGx4EKrsNlrlmgK88qE) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Eu Cuido De Você](https://open.spotify.com/album/0DzMV4l5ScaaUgTw0PY4PL) | 5:01 | 2022-09-09 | 2023-03-25 |
 | [Eu Não Mudo \(Ao Vivo\)](https://open.spotify.com/track/5CMsJa45lcaRyXORxodImT) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Eu Não Mudo \(Ao Vivo\)](https://open.spotify.com/album/7koLVQPec7CXl0dDJa9p9d) | 4:41 | 2023-07-14 | 2023-08-05 |
@@ -116,7 +117,7 @@
 | [Foi Deus](https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [Foi Deus](https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo) | 7:33 | 2022-09-09 |  |
 | [Fui Comprado \- Na Igreja \- Ao Vivo](https://open.spotify.com/track/1cdtwyTBdz4SkKd3w7OBTV) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Fui Comprado \- Na Igreja \(Ao Vivo\)](https://open.spotify.com/album/6PbZUP9pDOzlvmXN5RcvVh) | 4:12 | 2024-04-26 | 2024-06-22 |
 | [Furioso Amor](https://open.spotify.com/track/5YmCD6XNHTWgQqoxwLGmHG) | [Elizeu Alves](https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt) | [Furioso Amor](https://open.spotify.com/album/5zclhkccExl4v282im0AoW) | 6:51 | 2022-09-09 | 2023-02-04 |
-| [Futuro](https://open.spotify.com/track/0wK0nkenoFSj19Z2KDUW4v) | [William Augusto](https://open.spotify.com/artist/5PWqtqZ9ZTiBUYSJeymF1K), [Marsena](https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7) | [Futuro](https://open.spotify.com/album/1g8s3AmajpM7pCZ4GoEm6X) | 7:03 | 2024-06-14 |  |
+| [Futuro](https://open.spotify.com/track/0wK0nkenoFSj19Z2KDUW4v) | [William Augusto](https://open.spotify.com/artist/5PWqtqZ9ZTiBUYSJeymF1K), [Marsena](https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7) | [Futuro](https://open.spotify.com/album/1g8s3AmajpM7pCZ4GoEm6X) | 7:03 | 2024-06-14 | 2024-07-24 |
 | [Glorificamos \- Ao Vivo](https://open.spotify.com/track/7MxHxlNl5F2KHaihS92CJ7) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Preto No Branco Vertical \(Ao Vivo\)](https://open.spotify.com/album/0u5htebXaNt7pw6TtQHZ5X) | 6:20 | 2023-04-15 | 2023-05-13 |
 | [Gratidão \(Gratitude\) \- Ao Vivo](https://open.spotify.com/track/1q54VNXn2SWxmxyH5HNuea) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Gratidão \(Gratitude\) \[Ao Vivo\]](https://open.spotify.com/album/5UKejerSpuxuvnUdHoAdwm) | 7:00 | 2024-04-19 |  |
 | [Indesistível](https://open.spotify.com/track/2Q2NossOaJnATbkgTIoQdq) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Indesistível](https://open.spotify.com/album/7rCZtIFiKi3GBa61uvCTEp) | 3:47 | 2023-08-18 | 2023-09-02 |

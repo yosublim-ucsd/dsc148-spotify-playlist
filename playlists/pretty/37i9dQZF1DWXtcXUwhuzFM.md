@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Heviteemu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,579 likes - 101 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,587 likes - 101 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 34 | [Tanssi](https://open.spotify.com/track/4keiNsfJWT5UtNa4Og9qyg) | [Rosvo](https://open.spotify.com/artist/17E9HKanfFAw5InWXjf5R1) | [Tanssi](https://open.spotify.com/album/6fvqZCNmT5LU1TmZVF7Cbc) | 3:08 |
 | 35 | [I Need Your Love](https://open.spotify.com/track/5e8euQ8kelEedWMuulWG5O) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [I'll Always Come Find You](https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK) | 3:09 |
 | 36 | [Work It Out](https://open.spotify.com/track/1zepNi2GSE216osBwSn4ZD) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Work It Out](https://open.spotify.com/album/1sM2lvgt8XUBHJC4RRYN0Y) | 2:30 |
-| 37 | [Espresso](https://open.spotify.com/track/0YLW4ODPLmiebgQusKFHkx) | [DeejaVu](https://open.spotify.com/artist/3mvjFFkdgBRCeaSu51XM30) | [Espresso](https://open.spotify.com/album/4cPTkke19XJK9gVA6Dpwfz) | 2:40 |
+| 37 | [Espresso](https://open.spotify.com/track/0YLW4ODPLmiebgQusKFHkx) | [DeejaVu](https://open.spotify.com/artist/3mvjFFkdgBRCeaSu51XM30), [Nadeesha](https://open.spotify.com/artist/2qnUPP4y6YlKgQHh7E0LDp) | [Espresso](https://open.spotify.com/album/4cPTkke19XJK9gVA6Dpwfz) | 2:40 |
 | 38 | [Yes](https://open.spotify.com/track/2RgwImATiujgRNf6Gfg3wM) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Yes](https://open.spotify.com/album/7HEtVKXQVjWgDT87yCZkrR) | 3:30 |
 | 39 | [Happy Without You](https://open.spotify.com/track/6yjMuPHEh9DDy2mg8nxFaq) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Okay With Every Part](https://open.spotify.com/album/468ks5NISmCyiJALHCsjpV) | 2:42 |
 | 40 | [Sade](https://open.spotify.com/track/6RpZJbwt5kRLXPJNptoNpH) | [Sana](https://open.spotify.com/artist/4QofvyRFuC4c4XXrQhcmog) | [Sade](https://open.spotify.com/album/6ofClPG3oquc6jlRXwjOl4) | 2:55 |

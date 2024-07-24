@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Huh Gak\(허각\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: SEO EUNKWANG\(서은광\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-549 songs - 1 day 11 hr 54 min
+550 songs - 1 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Goodbye to longing](https://open.spotify.com/track/5AiOu5WPYJ2e9209prcQTA) | [BMK](https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O) | [33.3](https://open.spotify.com/album/6PRU6ysVA75xD2OTE9X0SX) | 3:50 | 2023-12-01 | 2024-01-13 |
 | [Gravity](https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 3:59 | 2021-12-20 |  |
 | [Hachiko \(Feat\. Sion, Yescoba, Dayoung Ahn\)](https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r), [Yescoba](https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6), [Dayoung Ahn](https://open.spotify.com/artist/1NkurDnX4s44yi7n57Mooz) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 6:10 | 2022-06-18 | 2023-07-12 |
-| [Haeyo \(2022\)](https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Haeyo \(2022\)](https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo) | 3:58 | 2022-07-07 |  |
+| [Haeyo \(2022\)](https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Haeyo \(2022\)](https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo) | 3:58 | 2022-07-07 | 2024-07-24 |
 | [HANGANG \(Feat\. BIG Naughty\)](https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [HANGANG](https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM) | 3:19 | 2023-05-25 |  |
 | [Happiness \(feat\. Lee Raon, Ban Gwang Ok, Jung Young Eun & Jeon Sang Keun\)](https://open.spotify.com/track/3rxJpoEe435WLkaqJK5dnO) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Ban Gwang Ok](https://open.spotify.com/artist/0xLSqFBJp63NWp5CKTZ2aS), [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd), [Jung Young Eun](https://open.spotify.com/artist/26GxfwRT2NHxeq2qrdAVbf), [Leeraon](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Happy Ending](https://open.spotify.com/album/7kbingImpbGPK2lz8G9c1p) | 4:20 | 2021-12-20 | 2022-07-28 |
 | [Hate Everything \- Korean Version](https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Hate Everything](https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R) | 3:25 | 2022-07-25 | 2024-04-19 |
@@ -222,7 +222,7 @@
 | [I'm glad I waited](https://open.spotify.com/track/3pBE270KLKUjGo5aVF1ecd) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [I'm glad I waited](https://open.spotify.com/album/51DBWkJfpGcqLC5CxvYCKZ) | 3:55 | 2023-07-17 | 2023-08-11 |
 | [I'm Not The Only One](https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 3:59 | 2024-02-20 | 2024-04-24 |
 | [IF I](https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [The King's Affection OST Part.3](https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J) | 3:41 | 2021-12-20 | 2024-05-29 |
-| [If You](https://open.spotify.com/track/38O4krdJIyvMIjFRP7u9OY) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [If You](https://open.spotify.com/album/2crxI7Z1EmYHQqgsX3qjl2) | 3:07 | 2022-04-01 | 2024-07-20 |
+| [If You](https://open.spotify.com/track/38O4krdJIyvMIjFRP7u9OY) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [If You](https://open.spotify.com/album/2crxI7Z1EmYHQqgsX3qjl2) | 3:07 | 2022-04-01 |  |
 | [If you were.](https://open.spotify.com/track/1z7iHdFB9B2RudJJsqoIb8) | [The One](https://open.spotify.com/artist/3eAsBHDYXtCSn67Zynq3Qd) | [ONE MIND 3](https://open.spotify.com/album/6M5jzARlZqnZhUqMXuzriG) | 4:24 | 2022-03-24 | 2022-04-16 |
 | [in the bed](https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [in the bed](https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj) | 4:25 | 2021-12-20 | 2024-05-22 |
 | [Invitation](https://open.spotify.com/track/5SGoHeqHhU62drrUO1QoyA) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Invitation](https://open.spotify.com/album/0tv9DkivdKrquO2wE2khr2) | 3:30 | 2022-05-03 | 2024-06-20 |
@@ -233,7 +233,7 @@
 | [It'll pass](https://open.spotify.com/track/3Yzlsk9g1zqWZUeI5oq1BN) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [It'll pass](https://open.spotify.com/album/6MkAOPaZtqTuDYVi68jqDU) | 3:48 | 2023-10-04 | 2024-05-05 |
 | [It's all just lies](https://open.spotify.com/track/4T2XFY63jsrqFx2Hc7YXEn) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 13](https://open.spotify.com/album/4MVXmcZU1FDhR9OGarTEQK) | 3:42 | 2022-07-25 | 2022-08-04 |
 | [It's love](https://open.spotify.com/track/2V39IroCENdZjsgL3hcFfe) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [It's love](https://open.spotify.com/album/1vWyjDV4yPgghl7qB7UHKR) | 4:16 | 2022-03-24 | 2022-06-11 |
-| [It's Love](https://open.spotify.com/track/2uayxzJinXzBUEqDczbAwN) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [It's Love](https://open.spotify.com/album/0aIHXsPQNfjajIwveOyDkk) | 4:17 | 2024-07-16 |  |
+| [It's Love](https://open.spotify.com/track/2uayxzJinXzBUEqDczbAwN) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [It's Love](https://open.spotify.com/album/0aIHXsPQNfjajIwveOyDkk) | 4:17 | 2024-07-16 | 2024-07-24 |
 | [It's You](https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [Destined with You \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz) | 3:23 | 2023-08-24 |  |
 | [It′s My Life](https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [HOSPITAL PLAYLIST Season2, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8) | 4:16 | 2021-12-20 |  |
 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 | 2021-12-27 |  |
@@ -430,6 +430,7 @@
 | [The Gift](https://open.spotify.com/track/2PTnOo4kxWsyTlRc3hwiBo) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [The Gift](https://open.spotify.com/album/5Bkjj4PGtK7078kTvQhvXS) | 3:46 | 2022-01-27 | 2022-07-22 |
 | [The Leopard of Killimanjaro](https://open.spotify.com/track/5PIr3ZJAhdAbWJx0f3Qoc3) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [Through The Darkness OST Part.4](https://open.spotify.com/album/4udEUd1K2GcbAgw8VUufEO) | 4:21 | 2022-03-21 | 2022-06-12 |
 | [The Letter](https://open.spotify.com/track/761kP7yDzrhyFjn6Og7Piz) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [\[Vol.7\] You Hee yul's Sketchbook 10th Anniversary Project : 3rd Voice 'Sketchbook X Yang Da Il'](https://open.spotify.com/album/0ATgzdCJ5ykg7KF3YcMtD4) | 5:05 | 2021-12-27 | 2022-07-05 |
+| [The Little Prince](https://open.spotify.com/track/0LGmR0txlWO9k6NY24G7Uv) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [The Little Prince](https://open.spotify.com/album/4IhQK9dp1h4Iex4cFzFEkY) | 4:21 | 2024-07-23 |  |
 | [The Moment](https://open.spotify.com/track/7JAtLgcpxB3wqAK2u9OAzO) | [VROMANCE](https://open.spotify.com/artist/5YPW3OmiqnqnQaFjloAvA7) | [The Moment](https://open.spotify.com/album/1Hbf8vmmYBJnE22paMisFy) | 3:51 | 2021-12-20 | 2022-04-14 |
 | [The Only Star](https://open.spotify.com/track/4fNzkjJzuV3By2FRrl38yE) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Be Myself](https://open.spotify.com/album/2Ew3wpXdMGdw5FYVNQvm6L) | 3:52 | 2022-03-29 | 2022-04-17 |
 | [The opposite side](https://open.spotify.com/track/63jQ5Els02lQZFwZSqn8Dh) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Crash Course in Romance OST Part 3](https://open.spotify.com/album/1ngSqp4QFiMFePyYQnjvsH) | 4:10 | 2023-02-15 | 2023-05-13 |

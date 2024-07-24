@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R?si=yvApwoW3RneZ\_gbwb9R4EA">Buscabulla</a>
 
-993 songs - 2 day 20 hr 19 min
+994 songs - 2 day 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,6 +478,7 @@
 | [Jerk into joy](https://open.spotify.com/track/4qrtb8xstngeZdrNjXV7fV) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [What an enormous room](https://open.spotify.com/album/2NdMVSjrgxqhELnvW1Odje) | 4:38 | 2024-01-31 | 2024-03-21 |
 | [Jewellery](https://open.spotify.com/track/42ezIrJQsV4OQ939bEQCzH) | [Former Champ](https://open.spotify.com/artist/1ntDd3adPrsrlLpiJBPfzM) | [Jewellery](https://open.spotify.com/album/7o5PG7t9vyRRb3LznxR6JV) | 2:37 | 2023-11-01 | 2023-12-07 |
 | [John Grant](https://open.spotify.com/track/2HMQMGQaCUk1QGL1CJveu2) | [Linda Thompson](https://open.spotify.com/artist/4ktfLBwmywJsDFeBsce3F6), [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [Proxy Music](https://open.spotify.com/album/7bCk4cB8DT6ni6Rupnswqz) | 3:41 | 2024-07-10 |  |
+| [John Lennon \- Crooked Fluxus 1](https://open.spotify.com/track/25PLOc82Uo2YcnFWVXgEg6) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4), [Crooked Man](https://open.spotify.com/artist/4fKvjHGCib116TGkWmkSgR) | [John Lennon \(Crooked Fluxus\)](https://open.spotify.com/album/6l8w9sYVGaBIrg65te4p6f) | 5:10 | 2024-07-23 |  |
 | [Joker](https://open.spotify.com/track/3HyD8c5C8C7P5TgmNfc8YK) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Joker](https://open.spotify.com/album/3C5hemEZFqLPsfbiW1tm70) | 2:20 | 2024-05-14 | 2024-06-27 |
 | [Jona](https://open.spotify.com/track/7dJ4WXrjst71fFyaAysbD5) | [Penny Arcade](https://open.spotify.com/artist/2LccQibLSite2i1EB1QRxe) | [Jona](https://open.spotify.com/album/2DVNB1JixiCfPYV5UCMFdb) | 3:13 | 2024-01-24 | 2024-03-07 |
 | [Jurgita’s Theme](https://open.spotify.com/track/7n8IOvKlfpcd7yakNTnSPN) | [Austra](https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g), [Katie Austra Stelmanis](https://open.spotify.com/artist/1YGbmqX8wyAWaFHe2c4rLi) | [Swan Song \(Original Score\)](https://open.spotify.com/album/1MqdekNvsg1MCVV6QSKUhw) | 2:50 | 2023-12-08 | 2024-02-08 |

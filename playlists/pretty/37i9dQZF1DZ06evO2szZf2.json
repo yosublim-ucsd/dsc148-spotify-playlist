@@ -1,12 +1,12 @@
 {
-  "description": "This is Mc Dricka. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 34612,
+  "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
+  "num_followers": 34619,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpxPgAAAAACqyUwQXD1rCduvPPDAEZ8e",
+  "snapshot_id": "Zp2hAAAAAACjY5CFAZV8Z065q2iU3cT0",
   "tracks": [
     {
       "added_at": null,
@@ -531,6 +531,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "Set 1.0 Dieguinho Nvi",
+        "url": "https://open.spotify.com/album/5wIjV4nUx1IFn88A2LBxbJ"
+      },
+      "artists": [
+        {
+          "name": "Mc DR",
+          "url": "https://open.spotify.com/artist/02RhvXTIhg46MyWF8yN6GG"
+        },
+        {
+          "name": "MC Vinny",
+          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
+        },
+        {
+          "name": "Mc Nathan ZK",
+          "url": "https://open.spotify.com/artist/3H6EeCzAFfNTCayLXuZWdE"
+        },
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "MC Lemos",
+          "url": "https://open.spotify.com/artist/4c4seBofkiiONBxLBd4CUa"
+        },
+        {
+          "name": "Mc CL",
+          "url": "https://open.spotify.com/artist/2I6tDfWEkn4Ozfb6ePjRX4"
+        },
+        {
+          "name": "MC Fioti",
+          "url": "https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd"
+        },
+        {
+          "name": "MC Digo STC",
+          "url": "https://open.spotify.com/artist/0UrOVJi0Ceoly8p9AQPwq5"
+        },
+        {
+          "name": "MC Vit\u00e3o JC",
+          "url": "https://open.spotify.com/artist/72Qyz5xPM7Gv4Qw5rH1jAD"
+        },
+        {
+          "name": "Dieguinho N.V.I",
+          "url": "https://open.spotify.com/artist/4ZdN3DiSgBLusuW3rVTsDi"
+        }
+      ],
+      "duration_ms": 487578,
+      "name": "Set 1.0 Dieguinho Nvi",
+      "url": "https://open.spotify.com/track/5exDLfQ3ix4XqXQMaw4evo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pede Chamando de Amor",
         "url": "https://open.spotify.com/album/3ZZl84FejS6V6Knd2YEmBx"
       },
@@ -631,62 +687,6 @@
       "duration_ms": 162764,
       "name": "Aqui Ningu\u00e9m T\u00e1 Puro",
       "url": "https://open.spotify.com/track/5kIEFlkeSBl3Dw7KSoqSi2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Set 1.0 Dieguinho Nvi",
-        "url": "https://open.spotify.com/album/5wIjV4nUx1IFn88A2LBxbJ"
-      },
-      "artists": [
-        {
-          "name": "Mc DR",
-          "url": "https://open.spotify.com/artist/02RhvXTIhg46MyWF8yN6GG"
-        },
-        {
-          "name": "MC Vinny",
-          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
-        },
-        {
-          "name": "Mc Nathan ZK",
-          "url": "https://open.spotify.com/artist/3H6EeCzAFfNTCayLXuZWdE"
-        },
-        {
-          "name": "MC Leozinho ZS",
-          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "MC Lemos",
-          "url": "https://open.spotify.com/artist/4c4seBofkiiONBxLBd4CUa"
-        },
-        {
-          "name": "Mc CL",
-          "url": "https://open.spotify.com/artist/2I6tDfWEkn4Ozfb6ePjRX4"
-        },
-        {
-          "name": "MC Fioti",
-          "url": "https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd"
-        },
-        {
-          "name": "MC Digo STC",
-          "url": "https://open.spotify.com/artist/0UrOVJi0Ceoly8p9AQPwq5"
-        },
-        {
-          "name": "MC Vit\u00e3o JC",
-          "url": "https://open.spotify.com/artist/72Qyz5xPM7Gv4Qw5rH1jAD"
-        },
-        {
-          "name": "Dieguinho N.V.I",
-          "url": "https://open.spotify.com/artist/4ZdN3DiSgBLusuW3rVTsDi"
-        }
-      ],
-      "duration_ms": 487578,
-      "name": "Set 1.0 Dieguinho Nvi",
-      "url": "https://open.spotify.com/track/5exDLfQ3ix4XqXQMaw4evo"
     },
     {
       "added_at": null,
@@ -1199,46 +1199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quarentena do Trator",
-        "url": "https://open.spotify.com/album/7fM3cotqvLSIB9jaopm93D"
-      },
-      "artists": [
-        {
-          "name": "Dod\u00f4 Press\u00e3o",
-          "url": "https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 133100,
-      "name": "Vuco Vuco",
-      "url": "https://open.spotify.com/track/66GXPHdBsFaBpUv6qCsumj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Caldeir\u00e3o",
-        "url": "https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Dj luan pj",
-          "url": "https://open.spotify.com/artist/60DovrzFkBPRvc6BorssOq"
-        }
-      ],
-      "duration_ms": 118153,
-      "name": "Paga de Superado",
-      "url": "https://open.spotify.com/track/6nxboFKvd1nCIK1juskjhW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Porque Elas Te Preferem",
         "url": "https://open.spotify.com/album/7t8S7eUrVjR1JWASUNNMKr"
       },
@@ -1259,6 +1219,26 @@
       "duration_ms": 160000,
       "name": "Porque Elas Te Preferem",
       "url": "https://open.spotify.com/track/1XkIme5AQCLEJZTkWGL7rr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Caldeir\u00e3o",
+        "url": "https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Dj luan pj",
+          "url": "https://open.spotify.com/artist/60DovrzFkBPRvc6BorssOq"
+        }
+      ],
+      "duration_ms": 118153,
+      "name": "Paga de Superado",
+      "url": "https://open.spotify.com/track/6nxboFKvd1nCIK1juskjhW"
     },
     {
       "added_at": null,
@@ -1295,30 +1275,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soca Com Press\u00e3o",
-        "url": "https://open.spotify.com/album/4TqKAZRTG5HUCMS9FNLFi3"
+        "name": "Quarentena do Trator",
+        "url": "https://open.spotify.com/album/7fM3cotqvLSIB9jaopm93D"
       },
       "artists": [
         {
-          "name": "Mc Troia",
-          "url": "https://open.spotify.com/artist/4qeuGyDAaXAa1wuWcy0KuV"
+          "name": "Dod\u00f4 Press\u00e3o",
+          "url": "https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz"
         },
         {
-          "name": "Mc Terror",
-          "url": "https://open.spotify.com/artist/67qkN07rOU517tFWiOghoQ"
-        },
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 133100,
+      "name": "Vuco Vuco",
+      "url": "https://open.spotify.com/track/66GXPHdBsFaBpUv6qCsumj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sentando no Pula Pula",
+        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
+      },
+      "artists": [
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         },
         {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+          "name": "Mc Nem Jm",
+          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
         }
       ],
-      "duration_ms": 140231,
-      "name": "Soca Com Press\u00e3o",
-      "url": "https://open.spotify.com/track/0hPD3ikmwJmWvNY3ITOZHG"
+      "duration_ms": 174962,
+      "name": "Sentando no Pula Pula",
+      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
     },
     {
       "added_at": null,
@@ -1351,22 +1343,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sentando no Pula Pula",
-        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
+        "name": "Soca Com Press\u00e3o",
+        "url": "https://open.spotify.com/album/4TqKAZRTG5HUCMS9FNLFi3"
       },
       "artists": [
+        {
+          "name": "Mc Troia",
+          "url": "https://open.spotify.com/artist/4qeuGyDAaXAa1wuWcy0KuV"
+        },
+        {
+          "name": "Mc Terror",
+          "url": "https://open.spotify.com/artist/67qkN07rOU517tFWiOghoQ"
+        },
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         },
         {
-          "name": "Mc Nem Jm",
-          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
         }
       ],
-      "duration_ms": 174962,
-      "name": "Sentando no Pula Pula",
-      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
+      "duration_ms": 140231,
+      "name": "Soca Com Press\u00e3o",
+      "url": "https://open.spotify.com/track/0hPD3ikmwJmWvNY3ITOZHG"
     },
     {
       "added_at": null,

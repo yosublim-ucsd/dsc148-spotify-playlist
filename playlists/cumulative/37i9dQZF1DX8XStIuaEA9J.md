@@ -2,9 +2,9 @@
 
 ### [Teen Culture](https://open.spotify.com/playlist/37i9dQZF1DX8XStIuaEA9J)
 
-> 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: ヨルシカ
+> 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: LANA & LEX
 
-554 songs - 1 day 8 hr 12 min
+555 songs - 1 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [ダブル・プッシュ・オフ。](https://open.spotify.com/track/5TiirG23LRTNq0hRuML8iq) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq), [A4。](https://open.spotify.com/artist/18pJlMkSYAxCTkpSzGrLR9) | [ダブル・プッシュ・オフ。](https://open.spotify.com/album/5TrVfUhS0GLtkJ8uapOmGF) | 2:54 | 2023-11-29 | 2023-12-20 |
 | [チャンスは平等](https://open.spotify.com/track/7zOjmnHDE1Wg7SPwbGdpPr) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [チャンスは平等](https://open.spotify.com/album/4zSEHTrIKneN7Zepl7Km9g) | 4:13 | 2024-03-19 | 2024-04-03 |
 | [チーム友達 \- 東海 Remix](https://open.spotify.com/track/4IvowW1NWTpXKUGSCZwW0K) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [SOCKS](https://open.spotify.com/artist/2pJg8flIdE3z4C9mJBgRuw), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH), [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi), [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn) | [チーム友達 \(東海 Remix\)](https://open.spotify.com/album/1ghhtRYZ7LLs6d5Hq1rFOY) | 2:45 | 2024-04-09 | 2024-04-24 |
+| [ティファニーで朝食を](https://open.spotify.com/track/7pE0DPxq4Q0pQqGzU4qyUj) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [ティファニーで朝食を](https://open.spotify.com/album/2cPmSTET4CPxpxtNeTFYjb) | 3:30 | 2024-07-23 |  |
 | [デッドエンド](https://open.spotify.com/track/505amJN26gbUe9tb9FtZL5) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Nautilus](https://open.spotify.com/album/1e1wT6uxWS5EwnHVeu6K0b) | 4:40 | 2024-03-12 | 2024-03-20 |
 | [ドライフラワー](https://open.spotify.com/track/3Vv1nFQzl47ZKArinuF3Es) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Adoの歌ってみたアルバム](https://open.spotify.com/album/4cnBUmiIGHBHozAVteqWXT) | 4:48 | 2023-12-12 | 2023-12-14 |
 | [ドラマのあとで \- retake](https://open.spotify.com/track/35fqrQIV7QN3FlMzWsNffb) | [Reaction The Buttha](https://open.spotify.com/artist/7HT7QBLHLQ16iL4W2xjkeX) | [ドラマのあとで \- retake](https://open.spotify.com/album/4YHnGZYv860zy9Hchny14I) | 4:20 | 2024-04-16 | 2024-04-24 |

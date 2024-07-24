@@ -1,6 +1,6 @@
 {
   "description": "The ultimate instrumental soundtrack for a long-haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
-  "num_followers": 430342,
+  "num_followers": 430400,
   "original_name": "Road Trip To Tokyo",
   "owner": {
     "name": "Spotify",
@@ -175,18 +175,22 @@
     {
       "added_at": "2024-07-04 15:00:00",
       "album": {
-        "name": "Kodama",
-        "url": "https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG"
+        "name": "meraki / cosmogyral",
+        "url": "https://open.spotify.com/album/7jqrFYgVV6klFgnCNNUXb6"
       },
       "artists": [
         {
-          "name": "Nogymx",
-          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
+          "name": "Kicktracks",
+          "url": "https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG"
+        },
+        {
+          "name": "coldbrew",
+          "url": "https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK"
         }
       ],
-      "duration_ms": 186268,
-      "name": "Kodama",
-      "url": "https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8"
+      "duration_ms": 148125,
+      "name": "meraki",
+      "url": "https://open.spotify.com/track/0fStKlyz0WuHcS5Vep3wqZ"
     },
     {
       "added_at": "2024-07-04 15:00:00",
@@ -207,22 +211,18 @@
     {
       "added_at": "2024-07-04 15:00:00",
       "album": {
-        "name": "meraki / cosmogyral",
-        "url": "https://open.spotify.com/album/7jqrFYgVV6klFgnCNNUXb6"
+        "name": "Kodama",
+        "url": "https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG"
       },
       "artists": [
         {
-          "name": "Kicktracks",
-          "url": "https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG"
-        },
-        {
-          "name": "coldbrew",
-          "url": "https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK"
+          "name": "Nogymx",
+          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
         }
       ],
-      "duration_ms": 148125,
-      "name": "meraki",
-      "url": "https://open.spotify.com/track/0fStKlyz0WuHcS5Vep3wqZ"
+      "duration_ms": 186268,
+      "name": "Kodama",
+      "url": "https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8"
     },
     {
       "added_at": "2024-07-04 15:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-07-04 15:00:00",
       "album": {
-        "name": "Cocktail City",
-        "url": "https://open.spotify.com/album/4BhJ5O1UzO8n7P3uPMABUj"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        }
-      ],
-      "duration_ms": 123529,
-      "name": "Havana Beach",
-      "url": "https://open.spotify.com/track/1Lb6meLEZuActBdnBodW2u"
-    },
-    {
-      "added_at": "2024-07-04 15:00:00",
-      "album": {
         "name": "glow",
         "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 249717,
       "name": "glow",
       "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
+    },
+    {
+      "added_at": "2024-07-04 15:00:00",
+      "album": {
+        "name": "Cocktail City",
+        "url": "https://open.spotify.com/album/4BhJ5O1UzO8n7P3uPMABUj"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        }
+      ],
+      "duration_ms": 123529,
+      "name": "Havana Beach",
+      "url": "https://open.spotify.com/track/1Lb6meLEZuActBdnBodW2u"
     },
     {
       "added_at": "2024-07-04 15:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-07-04 15:00:00",
       "album": {
+        "name": "memories",
+        "url": "https://open.spotify.com/album/7LtkgUFi6fYytsZrhLxjBQ"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "duration_ms": 179459,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/5La9cg847leSOlw8fiDmTb"
+    },
+    {
+      "added_at": "2024-07-04 15:00:00",
+      "album": {
         "name": "Another Dream",
         "url": "https://open.spotify.com/album/6sTcGK7CQiZPCmpE5ENpl8"
       },
@@ -1295,18 +1311,18 @@
     {
       "added_at": "2024-07-04 15:00:00",
       "album": {
-        "name": "memories",
-        "url": "https://open.spotify.com/album/7LtkgUFi6fYytsZrhLxjBQ"
+        "name": "Milk Shake",
+        "url": "https://open.spotify.com/album/5NZvMImcg4lJ5Vq04ZanIU"
       },
       "artists": [
         {
-          "name": "yanaco",
-          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+          "name": "LONELY ONES",
+          "url": "https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7"
         }
       ],
-      "duration_ms": 179459,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/5La9cg847leSOlw8fiDmTb"
+      "duration_ms": 140000,
+      "name": "Milk Shake",
+      "url": "https://open.spotify.com/track/3ikZg22Ra1bBshNgzkj647"
     },
     {
       "added_at": "2024-07-04 15:00:00",
@@ -1343,38 +1359,6 @@
     {
       "added_at": "2024-07-04 15:00:00",
       "album": {
-        "name": "DNAII",
-        "url": "https://open.spotify.com/album/6rScN72pRIcQkYn9YJpHgF"
-      },
-      "artists": [
-        {
-          "name": "hario island",
-          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "tears",
-      "url": "https://open.spotify.com/track/4nencs47cFrR4MOTSx1OgK"
-    },
-    {
-      "added_at": "2024-07-04 15:00:00",
-      "album": {
-        "name": "Milk Shake",
-        "url": "https://open.spotify.com/album/5NZvMImcg4lJ5Vq04ZanIU"
-      },
-      "artists": [
-        {
-          "name": "LONELY ONES",
-          "url": "https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Milk Shake",
-      "url": "https://open.spotify.com/track/3ikZg22Ra1bBshNgzkj647"
-    },
-    {
-      "added_at": "2024-07-04 15:00:00",
-      "album": {
         "name": "work_1",
         "url": "https://open.spotify.com/album/6rtxQdAjGjKoBgVuzGZ4xs"
       },
@@ -1395,6 +1379,22 @@
     {
       "added_at": "2024-07-04 15:00:00",
       "album": {
+        "name": "DNAII",
+        "url": "https://open.spotify.com/album/6rScN72pRIcQkYn9YJpHgF"
+      },
+      "artists": [
+        {
+          "name": "hario island",
+          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "tears",
+      "url": "https://open.spotify.com/track/4nencs47cFrR4MOTSx1OgK"
+    },
+    {
+      "added_at": "2024-07-04 15:00:00",
+      "album": {
         "name": "Moon Prairie",
         "url": "https://open.spotify.com/album/11eDwqkFL0KgMM3GMvc46a"
       },
@@ -1407,6 +1407,22 @@
       "duration_ms": 91964,
       "name": "Moon Prairie",
       "url": "https://open.spotify.com/track/4kMctvfN5UZ3Krn8MZWIx0"
+    },
+    {
+      "added_at": "2024-07-04 15:00:00",
+      "album": {
+        "name": "harukaze",
+        "url": "https://open.spotify.com/album/3pur6jiK9PCVKajSXvlWjJ"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "harukaze",
+      "url": "https://open.spotify.com/track/0XflCyWk28wErpgiBPnNTK"
     },
     {
       "added_at": "2024-07-04 15:00:00",
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2024-07-04 15:00:00",
       "album": {
-        "name": "harukaze",
-        "url": "https://open.spotify.com/album/3pur6jiK9PCVKajSXvlWjJ"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "harukaze",
-      "url": "https://open.spotify.com/track/0XflCyWk28wErpgiBPnNTK"
-    },
-    {
-      "added_at": "2024-07-04 15:00:00",
-      "album": {
         "name": "INNER CHILD",
         "url": "https://open.spotify.com/album/54VHZuKa304ZvfiEXO27xA"
       },
@@ -1459,6 +1459,22 @@
       "duration_ms": 176303,
       "name": "INNER CHILD",
       "url": "https://open.spotify.com/track/0UN76wlPdYnG5O6V0qORZq"
+    },
+    {
+      "added_at": "2024-07-04 15:00:00",
+      "album": {
+        "name": "MORAL",
+        "url": "https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj"
+      },
+      "artists": [
+        {
+          "name": "SALVALAI",
+          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
+        }
+      ],
+      "duration_ms": 201842,
+      "name": "MORAL",
+      "url": "https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF"
     },
     {
       "added_at": "2024-07-04 15:00:00",
@@ -1479,22 +1495,6 @@
       "duration_ms": 100000,
       "name": "Slow Jam",
       "url": "https://open.spotify.com/track/4Vobs6itOWf1ylmTfu1IMd"
-    },
-    {
-      "added_at": "2024-07-04 15:00:00",
-      "album": {
-        "name": "MORAL",
-        "url": "https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj"
-      },
-      "artists": [
-        {
-          "name": "SALVALAI",
-          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
-        }
-      ],
-      "duration_ms": 201842,
-      "name": "MORAL",
-      "url": "https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF"
     },
     {
       "added_at": "2024-07-04 15:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-07-04 15:00:00",
       "album": {
-        "name": "Step to Your Mind",
-        "url": "https://open.spotify.com/album/4eAqR4Y1Cidy7ksitm954V"
-      },
-      "artists": [
-        {
-          "name": "SUKISHA",
-          "url": "https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs"
-        }
-      ],
-      "duration_ms": 96166,
-      "name": "Step to Your Mind",
-      "url": "https://open.spotify.com/track/5xcJFBWJ2uuSfWryCHI9MH"
-    },
-    {
-      "added_at": "2024-07-04 15:00:00",
-      "album": {
         "name": "Keyframe",
         "url": "https://open.spotify.com/album/2DVMwBgoDdVVvDdagyeEmk"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 116959,
       "name": "Cows In The Distance",
       "url": "https://open.spotify.com/track/5UD0l9bmyi6cILD4nxIcYV"
+    },
+    {
+      "added_at": "2024-07-04 15:00:00",
+      "album": {
+        "name": "Step to Your Mind",
+        "url": "https://open.spotify.com/album/4eAqR4Y1Cidy7ksitm954V"
+      },
+      "artists": [
+        {
+          "name": "SUKISHA",
+          "url": "https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs"
+        }
+      ],
+      "duration_ms": 96166,
+      "name": "Step to Your Mind",
+      "url": "https://open.spotify.com/track/5xcJFBWJ2uuSfWryCHI9MH"
     },
     {
       "added_at": "2024-07-04 15:00:00",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2024-07-04 15:00:00",
       "album": {
+        "name": "Hapuna",
+        "url": "https://open.spotify.com/album/1Y1xcpOvUfv6jWhxoQGmmw"
+      },
+      "artists": [
+        {
+          "name": "LONELY ONES",
+          "url": "https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Hapuna",
+      "url": "https://open.spotify.com/track/1iJ2MDg18Ufor1crX5TDFy"
+    },
+    {
+      "added_at": "2024-07-04 15:00:00",
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/2HLb7alHJmqkOWgmwMO67C"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 111000,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/1LqzGzXbbACe015fKzCsax"
-    },
-    {
-      "added_at": "2024-07-04 15:00:00",
-      "album": {
-        "name": "Hapuna",
-        "url": "https://open.spotify.com/album/1Y1xcpOvUfv6jWhxoQGmmw"
-      },
-      "artists": [
-        {
-          "name": "LONELY ONES",
-          "url": "https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Hapuna",
-      "url": "https://open.spotify.com/track/1iJ2MDg18Ufor1crX5TDFy"
     },
     {
       "added_at": "2024-07-04 15:00:00",

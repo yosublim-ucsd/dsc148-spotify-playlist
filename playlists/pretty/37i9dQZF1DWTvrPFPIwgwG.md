@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Kailane Frauches
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,214 likes - 85 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,389 likes - 85 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 72 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/2dU1myKI3jBTUL7qihW36S) | [Polyana Martins](https://open.spotify.com/artist/7ECTf4oBo2jD5mRpL6Ik8x), [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/album/1PNy00WY2GINNmKOrMBQEw) | 5:03 |
 | 73 | [Dependente \(Ao Vivo\)](https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk) | [Dependente \(Ao Vivo\)](https://open.spotify.com/album/7qHGquEd06kYoHL2m21VyK) | 4:00 |
 | 74 | [Você Disse](https://open.spotify.com/track/6EogdYz9DwIG7YZziqj9Js) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Você Disse](https://open.spotify.com/album/4uqGFeLGkX5Yt6hNSHHDQ8) | 4:37 |
-| 75 | [Existe Um Deus](https://open.spotify.com/track/3PzPF5JZsGSYfhegiexh2i) | [Larissa Santos](https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk) | [Existe Um Deus](https://open.spotify.com/album/6bnQQHr5AXnX0JjIuEmYtS) | 4:42 |
-| 76 | [Seu Nome é Maravilhoso](https://open.spotify.com/track/5JHUOK6T6dfbyuL0aWhsJG) | [Asaph Borba](https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU) | [Seu Nome é Maravilhoso](https://open.spotify.com/album/5p5WRZBJEJcaiIkKVoxdRS) | 5:54 |
+| 75 | [Seu Nome é Maravilhoso](https://open.spotify.com/track/5JHUOK6T6dfbyuL0aWhsJG) | [Asaph Borba](https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU) | [Seu Nome é Maravilhoso](https://open.spotify.com/album/5p5WRZBJEJcaiIkKVoxdRS) | 5:54 |
+| 76 | [Existe Um Deus](https://open.spotify.com/track/3PzPF5JZsGSYfhegiexh2i) | [Larissa Santos](https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk) | [Existe Um Deus](https://open.spotify.com/album/6bnQQHr5AXnX0JjIuEmYtS) | 4:42 |
 | 77 | [Parar Por Quê ?](https://open.spotify.com/track/6p6fwPILucLizPbmlGkHUG) | [Aurelina Dourado](https://open.spotify.com/artist/3ABdO3aidrv4Ps6WFJqOwz) | [Parar Por Quê ?](https://open.spotify.com/album/3lIdr7RLof7GAZ5XXgrwke) | 4:44 |
 | 78 | [Vai Passar \(Ao Vivo\)](https://open.spotify.com/track/6PaBG1inu5x0KbvaCuNeUo) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Vai Passar \(Ao Vivo\)](https://open.spotify.com/album/3kPti1iil4vdjVita5XbQj) | 5:15 |
 | 79 | [Sou Deus \- Ao Vivo](https://open.spotify.com/track/5I224cXQeTACSg99DDFBj9) | [Flávia Almeida](https://open.spotify.com/artist/2d8HyFtrAaLLsLbSBplAhU) | [Sou Deus \(Ao Vivo\)](https://open.spotify.com/album/6rkJ1vaNRCSbEAUSsDFEDl) | 6:49 |

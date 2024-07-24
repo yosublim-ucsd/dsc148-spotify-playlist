@@ -133,6 +133,28 @@
     },
     {
       "album": {
+        "name": "Harmonize",
+        "url": "https://open.spotify.com/album/6Vc7FoU4owLD7L98gcVkxn"
+      },
+      "artists": [
+        {
+          "name": "ienourademanbougasinderupi",
+          "url": "https://open.spotify.com/artist/3TZxC7P7rKaeZJarREQslW"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182153,
+      "name": "Harmonize (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/7mJe2cbt6MSFNzEn6ey5Dx"
+    },
+    {
+      "album": {
         "name": "HEN\u306b\u306a\u308aTAI",
         "url": "https://open.spotify.com/album/1a9hYsqoJtpxk4omhE5fzW"
       },
@@ -280,7 +302,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 228908,
       "name": "Let's \u30df\u30af\u30b5\u30b5\u30a4\u30ba\uff01\uff01 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6uBGme1uYxILDx36P2vjdD"
@@ -498,7 +520,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 241000,
       "name": "STAGE OF SEKAI (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/0QHQJ7CXzo2Cb2vKQgcr5F"
@@ -830,7 +852,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 265979,
       "name": "\u305d\u3093\u306a\u8a71",
       "url": "https://open.spotify.com/track/5aurs3cKg0LNNL23UmwrVX"
@@ -966,6 +988,28 @@
       "duration_ms": 163666,
       "name": "\u307d\u3093\uff01 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6o7Buyg3iftS5Q7LFTm5aa"
+    },
+    {
+      "album": {
+        "name": "\u307d\u30fc\u3057\u3087\u3093",
+        "url": "https://open.spotify.com/album/3NUPOY70NgbnBguj49RYcA"
+      },
+      "artists": [
+        {
+          "name": "\u304d\u3055\u3089",
+          "url": "https://open.spotify.com/artist/6UBD36BDxz7W53HaZcK4yT"
+        },
+        {
+          "name": "v4 flower",
+          "url": "https://open.spotify.com/artist/00cIZbjCgo4DfJzJoaZRT6"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234533,
+      "name": "\u307d\u30fc\u3057\u3087\u3093 (feat. v4 flower)",
+      "url": "https://open.spotify.com/track/1BLFA3pTkjAywbl1lIJAbB"
     },
     {
       "album": {
@@ -1418,7 +1462,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 111375,
       "name": "\u30b5\u30f3\u30bf\u30d2\u30b2\u8131\u6bdb (feat. \u6b4c\u611b\u30e6\u30ad)",
       "url": "https://open.spotify.com/track/2wdugoy0gp3TNueF1t4LDa"
@@ -2103,6 +2147,28 @@
     },
     {
       "album": {
+        "name": "\u30ed\u30b8\u30ab\u30eb\u5fc3\u8a3c\u30ec\u30dc\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/3hbjilfa8dZM7zkduxEA0Z"
+      },
+      "artists": [
+        {
+          "name": "\u6728\u702c\u306e\u3093",
+          "url": "https://open.spotify.com/artist/6s31l6banLnWpC9hm1lzcb"
+        },
+        {
+          "name": "\u97f3\u8857\u30a6\u30ca",
+          "url": "https://open.spotify.com/artist/3vx4KtiD9ciUsGOamm2ZcA"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194594,
+      "name": "\u30ed\u30b8\u30ab\u30eb\u5fc3\u8a3c\u30ec\u30dc\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3 (feat. \u97f3\u8857\u30a6\u30ca)",
+      "url": "https://open.spotify.com/track/2YdsyC6KlV3zKBae3I27NJ"
+    },
+    {
+      "album": {
         "name": "Megu-Realization",
         "url": "https://open.spotify.com/album/2060or4teYhn6IW6ICIRP9"
       },
@@ -2530,10 +2596,32 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 223744,
       "name": "\u604b\u306e\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ed\u30fc\u30c9 (feat. \u93e1\u97f3\u30ec\u30f3)",
       "url": "https://open.spotify.com/track/2XgbuEk1lzbg4IE3vD4Fes"
+    },
+    {
+      "album": {
+        "name": "\u767d\u3044\u96ea\u306e\u30d7\u30ea\u30f3\u30bb\u30b9\u306f-Re:incarnation-",
+        "url": "https://open.spotify.com/album/3OHShfpgZNEw82ricJNaEq"
+      },
+      "artists": [
+        {
+          "name": "Noboru",
+          "url": "https://open.spotify.com/artist/2GKOMrDQ4GrdZjoQncM7w1"
+        },
+        {
+          "name": "\u590f\u8272\u82b1\u68a8",
+          "url": "https://open.spotify.com/artist/7FbEkAd1ocwATHXfNIT4fU"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227412,
+      "name": "\u604b\u306f\u304d\u3063\u3068\u6025\u4e0a\u6607\u2606 (feat. \u590f\u8272\u82b1\u68a8)",
+      "url": "https://open.spotify.com/track/74cWeRmgrhLYDalC27kR2G"
     },
     {
       "album": {
@@ -2888,7 +2976,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 250000,
       "name": "\u8d64\u306b\u306a\u308c (feat. MEIKO)",
       "url": "https://open.spotify.com/track/5dH6MiM8xY2xNvhQiuUhhr"

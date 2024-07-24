@@ -2,9 +2,9 @@
 
 ### [Edge!](https://open.spotify.com/playlist/37i9dQZF1DX3UWlNiixH0j)
 
-> 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: トクマルシューゴ \(Shugo Tokumaru\)
+> 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 長谷川白紙 Hakushi Hasegawa
 
-1,762 songs - 4 day 13 hr 31 min
+1,764 songs - 4 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,7 @@
 | [ears](https://open.spotify.com/track/64iwMa5Iq6343hvufPTCOZ) | [Thiiird Place](https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk) | [ears](https://open.spotify.com/album/7bzaC6fiUvH3XWd0azxDyf) | 3:43 | 2023-02-21 | 2023-03-29 |
 | [Eclipse](https://open.spotify.com/track/3xUemE6fdgQKwymzvCjHJt) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Eclipse](https://open.spotify.com/album/3awnnhSoffzFbLrQs0QnKA) | 3:37 | 2023-11-21 | 2024-01-26 |
 | [Eclipse](https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Eclipse](https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng) | 3:37 | 2023-11-21 |  |
-| [eclipse](https://open.spotify.com/track/0V6KjZQAx4Jt3nOlFsBKu4) | [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [500mm](https://open.spotify.com/album/0v0QtZVYTmVuJ2MoYP44oz) | 3:54 | 2024-06-04 |  |
+| [eclipse](https://open.spotify.com/track/0V6KjZQAx4Jt3nOlFsBKu4) | [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [500mm](https://open.spotify.com/album/0v0QtZVYTmVuJ2MoYP44oz) | 3:54 | 2024-06-04 | 2024-07-24 |
 | [eephus](https://open.spotify.com/track/5nPSGssVXZ3UCaEgC1CUl9) | [butohes](https://open.spotify.com/artist/6ofwAXNQ3cuSW3J7N3CBdz) | [to breathe](https://open.spotify.com/album/4uAdY7fDj6PADhciFfwdh3) | 3:46 | 2023-04-25 | 2023-05-24 |
 | [empty](https://open.spotify.com/track/5bnVByxBHuYynr7qO5V1cD) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf) | [empty](https://open.spotify.com/album/6u4uP0VXVOBAC3Gr4l4NOX) | 3:41 | 2023-11-21 | 2023-12-20 |
 | [Emptyspace](https://open.spotify.com/track/06QzQtabUSBsxliqh0MW8U) | [Yamafutatsu](https://open.spotify.com/artist/75mN0rbQkBImvS8yohWlnP) | [Television](https://open.spotify.com/album/1Me0U6nBnqp7xjVAEFVFDJ) | 3:45 | 2024-03-07 | 2024-04-03 |
@@ -325,6 +325,7 @@
 | [FLYME](https://open.spotify.com/track/0GHyNMTRgD7fpVDeB1bpmN) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [FLYME](https://open.spotify.com/album/590ETA5SyviYSbZOmAkmo5) | 3:41 | 2023-06-27 | 2023-07-26 |
 | [FOOL](https://open.spotify.com/track/0AzcSSYPlbmeg1cBYi6nm2) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [FOOL](https://open.spotify.com/album/36feOZnIXPKzDkCkPOnG4j) | 3:04 | 2023-04-25 | 2023-09-06 |
 | [for never end](https://open.spotify.com/track/08Ms1LvE6haWBO6vFety2l) | [dip](https://open.spotify.com/artist/4r6WtScg6432ThqBWqA4wD) | [HOLLOWGALLOW](https://open.spotify.com/album/0NERpROreFPwF4zpxDYGhL) | 4:00 | 2023-12-12 | 2023-12-20 |
+| [Forbidden Thing \(Kimmotsu\)](https://open.spotify.com/track/0a5EKnEXfZHtKATfNcmnks) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Mahōgakkō](https://open.spotify.com/album/4pNJ4qCheT1fQASProMDrj) | 4:44 | 2024-07-23 |  |
 | [Four](https://open.spotify.com/track/5kYn9qvedVqJ7pef7uxGgH) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Loves&Cults](https://open.spotify.com/album/4N8YhEmhvmSBlunbdjTKdL) | 3:38 | 2023-03-07 | 2023-03-29 |
 | [Four](https://open.spotify.com/track/6rt0WIYwItxD9ddLxQRnUr) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Loves&Cults](https://open.spotify.com/album/2Vfx2YrAPjkZ7i2I0wUcYK) | 3:38 | 2023-03-07 | 2023-03-09 |
 | [Fragrance](https://open.spotify.com/track/3fiCK41IesZkgccQbmV7cB) | [monje](https://open.spotify.com/artist/5UqQ3L8MFnpqFHW2oUy56Y) | [Fragrance](https://open.spotify.com/album/1I2kuxPs09qF1fL99Erygu) | 3:15 | 2023-09-19 | 2023-09-27 |
@@ -717,6 +718,7 @@
 | [orange](https://open.spotify.com/track/42qT2xXpYbu1tpJtj7paqb) | [Hoach5000](https://open.spotify.com/artist/1LqzNg0KlZGwDrNClMNMYo) | [orange](https://open.spotify.com/album/3uGMz5oboP965F8wbWcllw) | 3:06 | 2023-06-06 | 2023-06-14 |
 | [Oredake ga Zu Bu Nu Re](https://open.spotify.com/track/2UArtQ1NiQFBRldVW9zCLG) | [Za Ninngenn](https://open.spotify.com/artist/4FwqgQ92TpsuzQ82fIosrX) | [Oredake ga Zu Bu Nu Re](https://open.spotify.com/album/6F84iZHVnH7pqmfLbjluv4) | 3:37 | 2024-02-20 | 2024-02-28 |
 | [Our Place](https://open.spotify.com/track/5NP138SXXvwjJUN9yhS1V1) | [EASTOKLAB](https://open.spotify.com/artist/2oP86D3OWdYeX1OG2chPuu) | [Our Place](https://open.spotify.com/album/0LIiMRs1m29orPVNQf8jFD) | 4:22 | 2024-01-09 | 2024-01-17 |
+| [Outside \(Soto\)](https://open.spotify.com/track/3qFGKudbda5dTtblhOvlXh) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Mahōgakkō](https://open.spotify.com/album/4pNJ4qCheT1fQASProMDrj) | 3:26 | 2024-07-23 |  |
 | [outside of the house](https://open.spotify.com/track/2EIovS4PXDlQkhPzrQICE2) | [OGRE YOU ASSHOLE](https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW) | [outside of the house](https://open.spotify.com/album/0H6FGzdwIRGc4F7UXEGNsX) | 5:22 | 2023-07-02 | 2023-08-02 |
 | [Overcast](https://open.spotify.com/track/2WH6hX0mKg6y6rVwDbp3n9) | [Salmon Pink](https://open.spotify.com/artist/5eR0ueB8Fx3Nyck2cAzYXN) | [Garden](https://open.spotify.com/album/4Q5reDgFvPvFN4wIrcpKEN) | 4:29 | 2023-09-29 | 2023-10-04 |
 | [overlap](https://open.spotify.com/track/3pxk3CJQd5o03EnaJfOPLP) | [at field of school](https://open.spotify.com/artist/6sWYy4uydbxFqNP7XCbJrp) | [BOYZ ATTACK](https://open.spotify.com/album/1f2V3EOiJ11XdJqzkGbvVe) | 3:05 | 2024-05-28 | 2024-06-05 |
@@ -958,7 +960,7 @@
 | [Swans](https://open.spotify.com/track/5ke1JQCX4lPNTtorQJjdpm) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Swans](https://open.spotify.com/album/49PMC05GRlAApjxy2BhE4g) | 3:05 | 2023-12-12 | 2024-02-14 |
 | [Sway](https://open.spotify.com/track/0cxHahki62Il8grUpVOymf) | [Barbara](https://open.spotify.com/artist/5L4cL58h70X4usTwKuvmQk) | [Sway](https://open.spotify.com/album/6No2MfukzpkiCBO0OWl00l) | 3:16 | 2024-04-30 | 2024-05-08 |
 | [Sway](https://open.spotify.com/track/50Opxhj5GxjF47Fc5SXoZl) | [petalhead](https://open.spotify.com/artist/7qmQptfWpKjLSxu8EpvFPW) | [Sway](https://open.spotify.com/album/3ZYTXFJA0ju3dk4PErgh5O) | 4:26 | 2023-02-07 | 2023-03-22 |
-| [Sweet Cherry](https://open.spotify.com/track/50yh6IKYA8b7y6ydZypdfj) | [TAMTAM](https://open.spotify.com/artist/3McQeN9sXTIvZHACTtsutN) | [Sweet Cherry](https://open.spotify.com/album/7vjFmZN5LluhVrNAbysold) | 4:36 | 2024-07-16 |  |
+| [Sweet Cherry](https://open.spotify.com/track/50yh6IKYA8b7y6ydZypdfj) | [TAMTAM](https://open.spotify.com/artist/3McQeN9sXTIvZHACTtsutN) | [Sweet Cherry](https://open.spotify.com/album/7vjFmZN5LluhVrNAbysold) | 4:36 | 2024-07-16 | 2024-07-24 |
 | [Sweet dream](https://open.spotify.com/track/0Ru3TRhknBC8a9MjJyKKxV) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [9.](https://open.spotify.com/album/1yj4g4NAlimjHHL2CF74Y7) | 2:56 | 2023-04-27 | 2023-06-25 |
 | [Sweet Lemon](https://open.spotify.com/track/4Cw3Cr6nghAhLvphXMneON) | [Newdums](https://open.spotify.com/artist/0TnbcGo1i35F3JYLa530hB) | [Left Behind](https://open.spotify.com/album/1AX8uGsbYTniPe3GpGJX3D) | 3:42 | 2024-02-15 | 2024-02-21 |
 | [sweet vertigo](https://open.spotify.com/track/60YSKrBkxoZGwOtoUKvZm3) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [works.ep](https://open.spotify.com/album/1JxwaDeWRXBXqJtYeNC0XK) | 4:31 | 2023-01-24 | 2023-01-26 |

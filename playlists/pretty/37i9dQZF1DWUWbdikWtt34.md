@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Risa Amel
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,570 likes - 84 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,587 likes - 84 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

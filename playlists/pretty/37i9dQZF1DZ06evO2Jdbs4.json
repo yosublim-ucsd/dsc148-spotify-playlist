@@ -1,12 +1,12 @@
 {
-  "description": "This is Bobby Pulido. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 27162,
+  "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
+  "num_followers": 27170,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpxPgAAAAADkCOErs5OhoCO4LDfQeTh9",
+  "snapshot_id": "Zp2hAAAAAADsxRpZNRtuIEIdKUUKXiPI",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Montame",
-        "url": "https://open.spotify.com/album/6j4I0OrqKDPYkTKAThkRRE"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 204026,
-      "name": "M\u00f3ntame",
-      "url": "https://open.spotify.com/track/5LGnVKG4TQeTNmJQSDF2oy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los \u00c1ngeles Existen",
         "url": "https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 170426,
       "name": "Me Derrito (feat. Bobby Pulido)",
       "url": "https://open.spotify.com/track/5UT6Ug2HZp0MZQdyf2iVCd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Montame",
+        "url": "https://open.spotify.com/album/6j4I0OrqKDPYkTKAThkRRE"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 204026,
+      "name": "M\u00f3ntame",
+      "url": "https://open.spotify.com/track/5LGnVKG4TQeTNmJQSDF2oy"
     },
     {
       "added_at": null,
@@ -899,22 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inesperadamente",
-        "url": "https://open.spotify.com/album/3t8iVE3ZSqgl7MRR3MfSYu"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 189618,
-      "name": "Inesperadamente",
-      "url": "https://open.spotify.com/track/4GAqqobic0kTtK3mfAP6Am"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bobby",
         "url": "https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 196040,
       "name": "Cumbia Vallenata",
       "url": "https://open.spotify.com/track/0Auf3tyYKtcf7tUX3K6kbH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inesperadamente",
+        "url": "https://open.spotify.com/album/3t8iVE3ZSqgl7MRR3MfSYu"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 189618,
+      "name": "Inesperadamente",
+      "url": "https://open.spotify.com/track/4GAqqobic0kTtK3mfAP6Am"
     }
   ],
   "unique_name": "This Is Bobby Pulido",

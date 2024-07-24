@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59211,
+  "num_followers": 59207,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Dansa runt problemen",
-        "url": "https://open.spotify.com/album/7hMW3RWKWBygBcFzupjqf8"
-      },
-      "artists": [
-        {
-          "name": "Junie",
-          "url": "https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N"
-        }
-      ],
-      "duration_ms": 170083,
-      "name": "Dansa runt problemen",
-      "url": "https://open.spotify.com/track/3MmOZtP6u0Hr4RlF0hL7hF"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "When she holds me",
         "url": "https://open.spotify.com/album/0bZ5ZKnXCHLoxgm5Y4lSrt"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 243440,
       "name": "When she holds me",
       "url": "https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Dansa runt problemen",
+        "url": "https://open.spotify.com/album/7hMW3RWKWBygBcFzupjqf8"
+      },
+      "artists": [
+        {
+          "name": "Junie",
+          "url": "https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N"
+        }
+      ],
+      "duration_ms": 170083,
+      "name": "Dansa runt problemen",
+      "url": "https://open.spotify.com/track/3MmOZtP6u0Hr4RlF0hL7hF"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "I'll Come Your Way",
-        "url": "https://open.spotify.com/album/2Ck1pJHLkPj5uZxstCJEO9"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "I'll Come Your Way",
-      "url": "https://open.spotify.com/track/3lk15upGEldLkgKm7f48QS"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Fr\u00e4knar (500 dagar)",
         "url": "https://open.spotify.com/album/2O3LOCmrA39t1j8azoxKX0"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 223812,
       "name": "Fr\u00e4knar (500 dagar)",
       "url": "https://open.spotify.com/track/3Jy9HaBTPyXsfindjkGtsW"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "I'll Come Your Way",
+        "url": "https://open.spotify.com/album/2Ck1pJHLkPj5uZxstCJEO9"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "I'll Come Your Way",
+      "url": "https://open.spotify.com/track/3lk15upGEldLkgKm7f48QS"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Above Love",
-        "url": "https://open.spotify.com/album/25vMXIp2LP75SlECzIAqMj"
-      },
-      "artists": [
-        {
-          "name": "Say Lou Lou",
-          "url": "https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj"
-        }
-      ],
-      "duration_ms": 162133,
-      "name": "Above Love",
-      "url": "https://open.spotify.com/track/7pBylm1bDkNrlBzCvUoLD4"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Cardio",
         "url": "https://open.spotify.com/album/3c4iD4OaMDUcsJumwh7QbC"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 188176,
       "name": "Cardio",
       "url": "https://open.spotify.com/track/6TQI3pWL9dK9zCcBjG471I"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Above Love",
+        "url": "https://open.spotify.com/album/25vMXIp2LP75SlECzIAqMj"
+      },
+      "artists": [
+        {
+          "name": "Say Lou Lou",
+          "url": "https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj"
+        }
+      ],
+      "duration_ms": 162133,
+      "name": "Above Love",
+      "url": "https://open.spotify.com/track/7pBylm1bDkNrlBzCvUoLD4"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
+        "name": "HON SA",
+        "url": "https://open.spotify.com/album/7uyo0yNpkSeJrMR3cfnMMX"
+      },
+      "artists": [
+        {
+          "name": "Chico",
+          "url": "https://open.spotify.com/artist/4zS16DZY9bd9qPKjCBuF8n"
+        }
+      ],
+      "duration_ms": 167479,
+      "name": "HON SA",
+      "url": "https://open.spotify.com/track/7Fm1A727O2wgbWcGyp15p8"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
         "name": "22 (feat. Nadja Evelina)",
         "url": "https://open.spotify.com/album/2fqcOlGoHnGTLOpRE1vjak"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 173675,
       "name": "22 (feat. Nadja Evelina)",
       "url": "https://open.spotify.com/track/0scqi9Ay3rmAV2gm8di8VA"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
-        "name": "HON SA",
-        "url": "https://open.spotify.com/album/7uyo0yNpkSeJrMR3cfnMMX"
-      },
-      "artists": [
-        {
-          "name": "Chico",
-          "url": "https://open.spotify.com/artist/4zS16DZY9bd9qPKjCBuF8n"
-        }
-      ],
-      "duration_ms": 167479,
-      "name": "HON SA",
-      "url": "https://open.spotify.com/track/7Fm1A727O2wgbWcGyp15p8"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Babymoma",
-        "url": "https://open.spotify.com/album/4nqeoUwXIwq0mGuUUa4oxv"
-      },
-      "artists": [
-        {
-          "name": "Felix Sandman",
-          "url": "https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Babymoma",
-      "url": "https://open.spotify.com/track/6G2mLd5ZXnqlOyqSbTl6FP"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Arena",
         "url": "https://open.spotify.com/album/7IfHAYECjJU9jzopGiOtSq"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 238392,
       "name": "Arena",
       "url": "https://open.spotify.com/track/7MxSe1IUsbfSTyoZ3Vwgm4"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Babymoma",
+        "url": "https://open.spotify.com/album/4nqeoUwXIwq0mGuUUa4oxv"
+      },
+      "artists": [
+        {
+          "name": "Felix Sandman",
+          "url": "https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Babymoma",
+      "url": "https://open.spotify.com/track/6G2mLd5ZXnqlOyqSbTl6FP"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/4VLIa6SNzRP3NZeA0ZhtlV"
+      },
+      "artists": [
+        {
+          "name": "Fee van Deelen",
+          "url": "https://open.spotify.com/artist/0YWNM5Kfhj7w5MBOgq8W1B"
+        }
+      ],
+      "duration_ms": 223676,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/0a0A8jVA0TfQkv9zCGbsP6"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
         "name": "Till h\u00e4lften m\u00e4nniska, till h\u00e4lften moderat",
         "url": "https://open.spotify.com/album/7M2UQRwp5YgXHE2PvMShgG"
       },
@@ -1223,18 +1239,18 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Right Here",
-        "url": "https://open.spotify.com/album/4VLIa6SNzRP3NZeA0ZhtlV"
+        "name": "Blomma i city",
+        "url": "https://open.spotify.com/album/2UeQe6zB080WCiO0NIOIRi"
       },
       "artists": [
         {
-          "name": "Fee van Deelen",
-          "url": "https://open.spotify.com/artist/0YWNM5Kfhj7w5MBOgq8W1B"
+          "name": "Johanna Frostling",
+          "url": "https://open.spotify.com/artist/4vbrC3LBk1yySodkSbG3IY"
         }
       ],
-      "duration_ms": 223676,
-      "name": "Right Here",
-      "url": "https://open.spotify.com/track/0a0A8jVA0TfQkv9zCGbsP6"
+      "duration_ms": 199626,
+      "name": "Blomma i city",
+      "url": "https://open.spotify.com/track/1kjhnKWwhrUFNxuOpzxy2S"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1283,22 +1299,6 @@
       "duration_ms": 395240,
       "name": "Ord som l\u00e4mnats kvar",
       "url": "https://open.spotify.com/track/7GSxiR9jtTGz7DLrXxRoUI"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
-        "name": "Blomma i city",
-        "url": "https://open.spotify.com/album/2UeQe6zB080WCiO0NIOIRi"
-      },
-      "artists": [
-        {
-          "name": "Johanna Frostling",
-          "url": "https://open.spotify.com/artist/4vbrC3LBk1yySodkSbG3IY"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "Blomma i city",
-      "url": "https://open.spotify.com/track/1kjhnKWwhrUFNxuOpzxy2S"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Big Nose",
-        "url": "https://open.spotify.com/album/244WbaXCLVuZkRfUvLz2Sz"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5fpqWfinoaiwFuw9XpIczL"
       },
       "artists": [
         {
-          "name": "Frey",
-          "url": "https://open.spotify.com/artist/7rf5nN7CXclpCw7k7ah3yK"
+          "name": "SI EVOL",
+          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
         }
       ],
-      "duration_ms": 217586,
-      "name": "Big Nose",
-      "url": "https://open.spotify.com/track/0Vr1b1m2v5F4NorSjUUXym"
+      "duration_ms": 149333,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4QMovHbMTImVWqbkwVriSg"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/5fpqWfinoaiwFuw9XpIczL"
+        "name": "Big Nose",
+        "url": "https://open.spotify.com/album/244WbaXCLVuZkRfUvLz2Sz"
       },
       "artists": [
         {
-          "name": "SI EVOL",
-          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
+          "name": "Frey",
+          "url": "https://open.spotify.com/artist/7rf5nN7CXclpCw7k7ah3yK"
         }
       ],
-      "duration_ms": 149333,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/4QMovHbMTImVWqbkwVriSg"
+      "duration_ms": 217586,
+      "name": "Big Nose",
+      "url": "https://open.spotify.com/track/0Vr1b1m2v5F4NorSjUUXym"
     },
     {
       "added_at": "2024-06-28 14:04:42",

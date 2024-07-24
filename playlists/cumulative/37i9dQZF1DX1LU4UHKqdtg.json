@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: TOMORROW X TOGETHER",
+  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: \uff06TEAM",
   "name": "K-Pop Fresh",
   "tracks": [
+    {
+      "album": {
+        "name": "<###>",
+        "url": "https://open.spotify.com/album/2g1hdqa81f2ntowdlEgEAP"
+      },
+      "artists": [
+        {
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188200,
+      "name": "###",
+      "url": "https://open.spotify.com/track/4N45PHznf6nObFel4Wvtf1"
+    },
     {
       "album": {
         "name": "Unlock My World",
@@ -2624,7 +2642,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 194784,
       "name": "Boy Comics",
       "url": "https://open.spotify.com/track/50yqgMpBLVqqKJsSxcFfbE"
@@ -2878,7 +2896,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 167533,
       "name": "BURN IT",
       "url": "https://open.spotify.com/track/6z1vmJyL1OSFkuU4nIFV9l"
@@ -3916,7 +3934,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 191960,
       "name": "CONNECT",
       "url": "https://open.spotify.com/track/6tyCsqp5qGXdagwG6rIoru"
@@ -5462,7 +5480,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 164545,
       "name": "EASY",
       "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
@@ -6058,7 +6076,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 176212,
       "name": "Feel the POP",
       "url": "https://open.spotify.com/track/1K3Jlfhut0c38mq6EH2yTE"
@@ -6550,7 +6568,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 171080,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv"
@@ -8404,7 +8422,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 207453,
       "name": "I AM U",
       "url": "https://open.spotify.com/track/4UiISrmqduta1AzsX6b2Ob"
@@ -8444,6 +8462,24 @@
       "duration_ms": 190113,
       "name": "I DO",
       "url": "https://open.spotify.com/track/6SePnvTZkIXZznc8Ftc6vM"
+    },
+    {
+      "album": {
+        "name": "I Do I Do (Japanese Version)",
+        "url": "https://open.spotify.com/album/7EAmwkFwXlhZAc7IWQpSGs"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196693,
+      "name": "I Do I Do - Japanese Version",
+      "url": "https://open.spotify.com/track/7ieTdDiAhrSzD1HjQ3Jg07"
     },
     {
       "album": {
@@ -8794,6 +8830,40 @@
       "duration_ms": 187160,
       "name": "If with U",
       "url": "https://open.spotify.com/track/0Qqo0BxJWQGdvYWLoIOWq2"
+    },
+    {
+      "album": {
+        "name": "AT H1GHR",
+        "url": "https://open.spotify.com/album/4FxVsRxBjnKKCrHZ6YldQO"
+      },
+      "artists": [
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        },
+        {
+          "name": "DAWN",
+          "url": "https://open.spotify.com/artist/4pMR7nP5TU2AmaBiXpQPUW"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Vince",
+          "url": "https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205173,
+      "name": "IG",
+      "url": "https://open.spotify.com/track/0ILz1ShZf2Mh5Li34khPnP"
     },
     {
       "album": {
@@ -9404,7 +9474,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 196221,
       "name": "KING KONG",
       "url": "https://open.spotify.com/track/0gZenxCArrqlFm4lLXevTq"
@@ -9834,7 +9904,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 249217,
       "name": "Like A Dream",
       "url": "https://open.spotify.com/track/4Kw1ykVLHoFQxOPSVd8R2E"
@@ -10444,7 +10514,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 188718,
       "name": "Love Me Like This",
       "url": "https://open.spotify.com/track/2W8UduoifU1zgjKZlfY79S"
@@ -10592,7 +10662,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 271080,
       "name": "Love wins all",
       "url": "https://open.spotify.com/track/0djkJ3iAARXRCbfbwwVc3o"
@@ -11386,7 +11456,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 193906,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/1xpfMDsEEugAwoXRYLdyQ6"
@@ -13226,7 +13296,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 152400,
       "name": "plot twist",
       "url": "https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj"
@@ -13974,7 +14044,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 172444,
       "name": "Ride the Vibe",
       "url": "https://open.spotify.com/track/1g3YJ4LEitgCkrvMnD9ggg"
@@ -14032,7 +14102,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 209000,
       "name": "RINGO",
       "url": "https://open.spotify.com/track/2qWIeuIxVJglnWWsDpyhfU"
@@ -15122,7 +15192,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 172186,
       "name": "Show Time",
       "url": "https://open.spotify.com/track/7hxN0o1cVf72nnyIJQw92u"
@@ -15318,6 +15388,24 @@
       "duration_ms": 227373,
       "name": "Skater",
       "url": "https://open.spotify.com/track/2XIAyrfqLiI5gWpZGRUtu9"
+    },
+    {
+      "album": {
+        "name": "SLASH",
+        "url": "https://open.spotify.com/album/4saEL9wBL0FnOTR1Rsjts5"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191626,
+      "name": "SLASH",
+      "url": "https://open.spotify.com/track/4vzgKCxeHecT98TgQQN0qM"
     },
     {
       "album": {
@@ -16296,7 +16384,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 165693,
       "name": "Straight Line",
       "url": "https://open.spotify.com/track/1HBYsYVdX49Gi1lrmqmk63"
@@ -16878,6 +16966,32 @@
       "duration_ms": 208133,
       "name": "Supernova - Japanese Version",
       "url": "https://open.spotify.com/track/04PSKcBV1ad3QEmmnZCn2N"
+    },
+    {
+      "album": {
+        "name": "SUPERPOWER",
+        "url": "https://open.spotify.com/album/5uCFinoHAfvh3RM5UuBhZ6"
+      },
+      "artists": [
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        },
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182987,
+      "name": "SUPERPOWER",
+      "url": "https://open.spotify.com/track/3kfQuU6FXW4OXHIHjuups7"
     },
     {
       "album": {
@@ -18686,7 +18800,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 173640,
       "name": "Virtual Angel",
       "url": "https://open.spotify.com/track/1eCT7mlUiD0FDaYpFPiE4z"
@@ -19516,7 +19630,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 121226,
       "name": "Wife",
       "url": "https://open.spotify.com/track/7a4Rk4ZYgtbJYLP2PkYjUS"
@@ -20736,6 +20850,24 @@
       "duration_ms": 200986,
       "name": "\u541b\u306e\u58f0 (Your voice)",
       "url": "https://open.spotify.com/track/1eRlhfcn1xtBeCcayadirV"
+    },
+    {
+      "album": {
+        "name": "HELLO WORLD",
+        "url": "https://open.spotify.com/album/3aixxl8ncnD4dFE6eFQ6ll"
+      },
+      "artists": [
+        {
+          "name": "UNICODE",
+          "url": "https://open.spotify.com/artist/3dX0pAE3FigjTzBiHajRra"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183466,
+      "name": "\u547c\u3093\u3067(Blur)",
+      "url": "https://open.spotify.com/track/2SNquIiDoUWBtfjgnNykVS"
     },
     {
       "album": {

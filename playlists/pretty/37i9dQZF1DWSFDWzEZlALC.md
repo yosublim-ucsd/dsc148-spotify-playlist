@@ -4,28 +4,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Dominik Hartz
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,807 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,839 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fallen](https://open.spotify.com/track/7x8yoh4fgdDqGWM75W4CMZ) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Fallen](https://open.spotify.com/album/0LxGPGeOv4WEM4m3js7Muq) | 2:25 |
-| 2 | [rauch](https://open.spotify.com/track/3DxLnjueYU6PC7EhgWVNNl) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [rauch](https://open.spotify.com/album/3f1DyygD4bDZn6nshNhuLU) | 1:59 |
-| 3 | [gästeliste](https://open.spotify.com/track/1GRNmHpcVobOQpU4sTotMm) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [gästeliste](https://open.spotify.com/album/6DagEYiLogzejjAebrffI8) | 2:41 |
-| 4 | [Lichtblick](https://open.spotify.com/track/3bclSz6FTJriC5YVWoAzo7) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3), [falcke](https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf) | [Lichtblick](https://open.spotify.com/album/0xCORZARvmRRlbRbHCJeii) | 3:11 |
+| 2 | [gästeliste](https://open.spotify.com/track/1GRNmHpcVobOQpU4sTotMm) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [gästeliste](https://open.spotify.com/album/6DagEYiLogzejjAebrffI8) | 2:41 |
+| 3 | [eehhhyyy](https://open.spotify.com/track/1cXo8i9dgutdqjhjz3Zwqq) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Drumla](https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [dafür bin ich frei EP](https://open.spotify.com/album/29zZ3SXwoesoaXX6PbmPFW) | 2:15 |
+| 4 | [Nazis erschiessen](https://open.spotify.com/track/5Bh3fCer3pZp49sBNL5130) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Nazis erschiessen](https://open.spotify.com/album/7C7n3Viy7sds2WZ8y0a0Su) | 2:51 |
 | 5 | [Randali](https://open.spotify.com/track/7x76MsHLcWQ4rLlHVkT7yw) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Randali](https://open.spotify.com/album/1NSEKARvPRzT2tSG1DZrmi) | 2:23 |
-| 6 | [eehhhyyy](https://open.spotify.com/track/1cXo8i9dgutdqjhjz3Zwqq) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Drumla](https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [dafür bin ich frei EP](https://open.spotify.com/album/29zZ3SXwoesoaXX6PbmPFW) | 2:15 |
-| 7 | [Strategie](https://open.spotify.com/track/48jWQ1HB4VPLMUyUulRxo9) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Strategie](https://open.spotify.com/album/34eP5UA9AbhmLKQWge5TiM) | 2:38 |
-| 8 | [Nazis erschiessen](https://open.spotify.com/track/5Bh3fCer3pZp49sBNL5130) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Nazis erschiessen](https://open.spotify.com/album/7C7n3Viy7sds2WZ8y0a0Su) | 2:51 |
-| 9 | [Echt](https://open.spotify.com/track/1SOIIqQiQU7xaHaDP1WS6O) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Don't grow up \(it's a trap\)](https://open.spotify.com/album/7wfLhaSIVv5dXwnnKvEGTf) | 2:30 |
+| 6 | [rauch](https://open.spotify.com/track/3DxLnjueYU6PC7EhgWVNNl) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [rauch](https://open.spotify.com/album/3f1DyygD4bDZn6nshNhuLU) | 1:59 |
+| 7 | [Echt](https://open.spotify.com/track/1SOIIqQiQU7xaHaDP1WS6O) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Don't grow up \(it's a trap\)](https://open.spotify.com/album/7wfLhaSIVv5dXwnnKvEGTf) | 2:30 |
+| 8 | [Lichtblick](https://open.spotify.com/track/3bclSz6FTJriC5YVWoAzo7) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3), [falcke](https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf) | [Lichtblick](https://open.spotify.com/album/0xCORZARvmRRlbRbHCJeii) | 3:11 |
+| 9 | [Strategie](https://open.spotify.com/track/48jWQ1HB4VPLMUyUulRxo9) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Strategie](https://open.spotify.com/album/34eP5UA9AbhmLKQWge5TiM) | 2:38 |
 | 10 | [Heimweg](https://open.spotify.com/track/78HQLV6xVobfFpTj0N8g2R) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Heimweg](https://open.spotify.com/album/6w8zNXGqegxkwm8dW04rwm) | 3:41 |
 | 11 | [gasleuchte](https://open.spotify.com/track/4cpxlpWGIvesl4sYRN8Re5) | [herbst](https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T) | [gasleuchte](https://open.spotify.com/album/1oHqWFUUY67rj9WvRhcFHP) | 2:56 |
 | 12 | [Das machst du](https://open.spotify.com/track/5lciq0OUwDc3ZVg4Y2IJth) | [skuth](https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw) | [Das machst du](https://open.spotify.com/album/05xyEZV9U0nNnFdgdb1yBE) | 2:11 |
-| 13 | [Out of my mind](https://open.spotify.com/track/6bJQGd354FkFJSsCy14nPX) | [WEIL](https://open.spotify.com/artist/5heeoV9KT4ygkJRc7BvWcu) | [Out of my mind](https://open.spotify.com/album/5PSbc0HZixHI0eUsUBI15F) | 2:41 |
-| 14 | [Kannst du's sehen](https://open.spotify.com/track/3Afmo16KnR7V6fXNgnC0pY) | [JUPYTER](https://open.spotify.com/artist/4rmUcQqtKz1NLA2f23W041) | [Kannst du's sehen](https://open.spotify.com/album/0OSDw1TBBXCTny0ZDJbAUt) | 4:08 |
-| 15 | [Fall für dich](https://open.spotify.com/track/2ZLSbkFvtJlc8oMlm4qFaG) | [MilleniumKid](https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG) | [Fall für dich](https://open.spotify.com/album/3X9IY5t8zZpEwualD62LIn) | 2:38 |
+| 13 | [Kannst du's sehen](https://open.spotify.com/track/3Afmo16KnR7V6fXNgnC0pY) | [JUPYTER](https://open.spotify.com/artist/4rmUcQqtKz1NLA2f23W041) | [Kannst du's sehen](https://open.spotify.com/album/0OSDw1TBBXCTny0ZDJbAUt) | 4:08 |
+| 14 | [Fall für dich](https://open.spotify.com/track/2ZLSbkFvtJlc8oMlm4qFaG) | [MilleniumKid](https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG) | [Fall für dich](https://open.spotify.com/album/3X9IY5t8zZpEwualD62LIn) | 2:38 |
+| 15 | [00,00KG](https://open.spotify.com/track/6NARWPLA9xjUZ4oXIVAKOX) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [00,00KG](https://open.spotify.com/album/2gQvrvl2OJkEmOq7ghVtBV) | 2:48 |
 | 16 | [leben lang](https://open.spotify.com/track/7iSKTC8Bby6LbqVJXGfFly) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [leben lang](https://open.spotify.com/album/1nwf2uohywOMmuOTYv3fCs) | 2:42 |
-| 17 | [00,00KG](https://open.spotify.com/track/6NARWPLA9xjUZ4oXIVAKOX) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [00,00KG](https://open.spotify.com/album/2gQvrvl2OJkEmOq7ghVtBV) | 2:48 |
-| 18 | [Ich Widerstehe](https://open.spotify.com/track/0VOiZi8XnerwmVY3McF97s) | [Future Franz](https://open.spotify.com/artist/0uo4X47JTsZkyXZvqXvI0d), [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [Ich Widerstehe](https://open.spotify.com/album/7BzCSY2zOVDmYQaQYSiN9C) | 3:44 |
+| 17 | [Ich Widerstehe](https://open.spotify.com/track/0VOiZi8XnerwmVY3McF97s) | [Future Franz](https://open.spotify.com/artist/0uo4X47JTsZkyXZvqXvI0d), [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [Ich Widerstehe](https://open.spotify.com/album/7BzCSY2zOVDmYQaQYSiN9C) | 3:44 |
+| 18 | [Out of my mind](https://open.spotify.com/track/6bJQGd354FkFJSsCy14nPX) | [WEIL](https://open.spotify.com/artist/5heeoV9KT4ygkJRc7BvWcu) | [Out of my mind](https://open.spotify.com/album/5PSbc0HZixHI0eUsUBI15F) | 2:41 |
 | 19 | [10 Sekunden](https://open.spotify.com/track/277uZsTtRCyTXlGyTGXjlR) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [10 Sekunden](https://open.spotify.com/album/2BaiALCu9Pfil1oIPodxHy) | 2:54 |
 | 20 | [lauf](https://open.spotify.com/track/2BoFXyQK51mh6C9lUQd8Ok) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [lauf](https://open.spotify.com/album/7qVoIKsmBemsKvxDitsvWr) | 3:32 |
 | 21 | [wie du manchmal fehlst](https://open.spotify.com/track/2gOVXniOMdunVdYk2NUQ4p) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [wie du manchmal fehlst](https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As) | 2:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [300g](https://open.spotify.com/track/47wrpWUKellZqQwzjQkUE0) | [Bekkaa](https://open.spotify.com/artist/7k37c7AypimVqHqmAUR1aZ) | [300g](https://open.spotify.com/album/2eGwQrn5O75IEDNBvd7QcS) | 2:33 |
 | 75 | [Stimmen](https://open.spotify.com/track/4j0aEdwpUwh04DKqmBmYOp) | [Romy](https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX) | [Stimmen](https://open.spotify.com/album/6q2FZdmkrBSGVCYpxsU6f8) | 3:29 |
 
-Snapshot ID: `ZpmQYAAAAADjDKRPFUgqsd8Pt7N1OX/l`
+Snapshot ID: `Zp+S/gAAAAAcf/vFaJFPMJqKDofaLHF6`

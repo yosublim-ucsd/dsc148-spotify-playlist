@@ -9943,6 +9943,32 @@
     },
     {
       "album": {
+        "name": "Symphony",
+        "url": "https://open.spotify.com/album/4WP7RAUrGTL6cbhDhawjRh"
+      },
+      "artists": [
+        {
+          "name": "Lionis",
+          "url": "https://open.spotify.com/artist/3eXXvm84tqwv5FhYoHdWzh"
+        },
+        {
+          "name": "Revaeon",
+          "url": "https://open.spotify.com/artist/1NubCpQK9Tz3JEIm4UhrUC"
+        },
+        {
+          "name": "Barmuda",
+          "url": "https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156093,
+      "name": "Symphony",
+      "url": "https://open.spotify.com/track/47L9mzy5YvKHGrU6fmujA0"
+    },
+    {
+      "album": {
         "name": "Take Away",
         "url": "https://open.spotify.com/album/74ojukDockOm8Q8Ly5NUYr"
       },

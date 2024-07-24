@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Barry B, Carolina Durante.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,322 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,332 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 40 | [Maldito](https://open.spotify.com/track/7y96YbNfiol51Ge5V9xGbw) | [The Parrots](https://open.spotify.com/artist/34UH1BNxUlj7CjvivyS5Ev), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Maldito](https://open.spotify.com/album/2j5JyU1ZbTAotHmrLIujL4) | 4:15 |
 | 41 | [Fantasma](https://open.spotify.com/track/6xVAullhAbBSiZVFpqJBne) | [Karavana](https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd) | [Fantasma](https://open.spotify.com/album/5GVjWzf8rgSXBafLaqavPl) | 3:12 |
 | 42 | [Viernes](https://open.spotify.com/track/5VXpWsJuT0MOw0Tb6iNu6O) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Entre todas lo arreglamos](https://open.spotify.com/album/1GrpjkyXqYNV5dZuO2iiSx) | 2:47 |
-| 43 | [The Last of Us](https://open.spotify.com/track/2WxZ92Q1q5NPbdJbJx7k8q) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [The Last of Us](https://open.spotify.com/album/3m706HSNKqmnycUdWYt7Zw) | 4:30 |
+| 43 | [Al Amanecer](https://open.spotify.com/track/5FMnqUbLGqWi0Y12MCVYSN) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Al Amanecer](https://open.spotify.com/album/0tvM7MTPrI9bASHbYn89Xy) | 3:11 |
 | 44 | [Plan de Mierda](https://open.spotify.com/track/1QdV4SR8PhomxtxKcwJ57P) | [LA ÉLITE](https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov), [Diego Ibañez](https://open.spotify.com/artist/7k6NtcAJIqG7iiFPd7KdMo) | [Plan de Mierda](https://open.spotify.com/album/2ExZDAeYu4RF6tgYGigJl4) | 3:22 |
-| 45 | [Al Amanecer](https://open.spotify.com/track/5FMnqUbLGqWi0Y12MCVYSN) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Al Amanecer](https://open.spotify.com/album/0tvM7MTPrI9bASHbYn89Xy) | 3:11 |
+| 45 | [The Last of Us](https://open.spotify.com/track/2WxZ92Q1q5NPbdJbJx7k8q) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [The Last of Us](https://open.spotify.com/album/3m706HSNKqmnycUdWYt7Zw) | 4:30 |
 | 46 | [Martes 13](https://open.spotify.com/track/0KVfyqqSuwWeX5aWe954m9) | [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm), [Marta Knight](https://open.spotify.com/artist/1bTVf9uk7d4iU9rcWfWj5S) | [Martes 13](https://open.spotify.com/album/7cBxE1Jmy4Xb6YdWze1plb) | 3:01 |
 | 47 | [Vuelta a casa](https://open.spotify.com/track/73PqBVASCSI1uVM94jTymu) | [La Paloma](https://open.spotify.com/artist/6poevqCIGOy8886WKNTHkv) | [Vuelta a casa](https://open.spotify.com/album/4LT0Mq5MYcTyuo7Sivh0kH) | 3:27 |
 | 48 | [Travieso](https://open.spotify.com/track/2q6kjZSeB3P9mmV3W4lOlY) | [Niña Polaca](https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW) | [Travieso](https://open.spotify.com/album/1PoKsze0nTJ0Ntu9cHRfGp) | 2:27 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 71 | [Tú y Yo y Todos Los Demás](https://open.spotify.com/track/7t9c6SRwCC0ezuAsz9PDNQ) | [Joder Juan](https://open.spotify.com/artist/6aBkrLdqbTaGgefSznMub9) | [Tú y Yo y Todos Los Demás](https://open.spotify.com/album/6JzNwePjl9hkA2qOMfjKAe) | 1:59 |
 | 72 | [¿cómo estás?](https://open.spotify.com/track/1NHO4eH5L9fkUaHb68y1t1) | [Bloodstein](https://open.spotify.com/artist/4zSSxRkfPyASwmON2Nlctw) | [¿cómo estás?](https://open.spotify.com/album/1KKLtNhUyiP0atBtscOLsn) | 2:53 |
 | 73 | [Dos Galaxias](https://open.spotify.com/track/3zIJcW9XnaZDUsS3qyu0Bt) | [Selvajes](https://open.spotify.com/artist/41Bkxd38yERewVUTQyOghu) | [Dos Galaxias](https://open.spotify.com/album/1NES8cPssseE2OU3WwiXTH) | 3:31 |
-| 74 | [Mírame](https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8) | [Amor Líquido](https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc) | [Mírame](https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3) | 2:17 |
-| 75 | [Sofisticado](https://open.spotify.com/track/2UEtrZwOlCSgUpx0GYeTFY) | [levitants](https://open.spotify.com/artist/5Ed1kJRHN0Uj0BhGbRNutV) | [Sofisticado](https://open.spotify.com/album/38hAaDQw9itDaxurry5vrw) | 2:57 |
+| 74 | [Sofisticado](https://open.spotify.com/track/2UEtrZwOlCSgUpx0GYeTFY) | [levitants](https://open.spotify.com/artist/5Ed1kJRHN0Uj0BhGbRNutV) | [Sofisticado](https://open.spotify.com/album/38hAaDQw9itDaxurry5vrw) | 2:57 |
+| 75 | [Mírame](https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8) | [Amor Líquido](https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc) | [Mírame](https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3) | 2:17 |
 | 76 | [Cortes](https://open.spotify.com/track/3T5j1FC3UIu7kjGHarjIkk) | [CORTE!](https://open.spotify.com/artist/63TI51KRa1nPKmh0xF9ydT) | [Cortes](https://open.spotify.com/album/1MtxZXS19obXUaeST7ecDv) | 1:52 |
 | 77 | [Amanecer Galáctico](https://open.spotify.com/track/2K2nuQlPhZOwRkkoz6Vbqc) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Amanecer Galáctico](https://open.spotify.com/album/0gPfFGANWqyNiBiKqbyip2) | 3:42 |
 | 78 | [Todo Irá Bien](https://open.spotify.com/track/2spHoHAGAQlOI3twB5QRVl) | [Victorias](https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I) | [Todo Irá Bien](https://open.spotify.com/album/63trf8Z60h09bjYiYOMesB) | 3:18 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 91 | [Nuestro Mejor Momento](https://open.spotify.com/track/5Z8so8w3PvZIJDbhN7l5t4) | [Apartamentos Acapulco](https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT) | [La Reconciliación](https://open.spotify.com/album/1WxSNibCX2ATr2c4rwO9xA) | 2:34 |
 | 92 | [Pronto](https://open.spotify.com/track/036ALWFM6JnbGJ7buxZ2xE) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Pronto](https://open.spotify.com/album/6EfoITktkpVnCNs8VjxLNl) | 3:19 |
 | 93 | [Barrio](https://open.spotify.com/track/3vfxWUBtICQbiSlemtDSmL) | [Impacto Vudu](https://open.spotify.com/artist/4q9S9g5IA3WQtjeNa11obo) | [Barrio](https://open.spotify.com/album/0ltN0HsRNUxEB1OsFuiH93) | 3:05 |
-| 94 | [Al Final](https://open.spotify.com/track/5IUDQPpcD9MGMQDRDb2Fvw) | [Muro María](https://open.spotify.com/artist/5INts4xs8Jf1Rpnkd6Zd2Y) | [Al Final](https://open.spotify.com/album/1JThc0vxLAFqk4pj6jPkYa) | 3:04 |
-| 95 | [Me lapidaría](https://open.spotify.com/track/52oaBSXjnO6tqxokFwusnM) | [El Buen Hijo](https://open.spotify.com/artist/6G4LAz42NNVfLTq2eSNPvr) | [Me lapidaría](https://open.spotify.com/album/5VhTBt1MQNiDmr8f3znldy) | 2:49 |
-| 96 | [patito](https://open.spotify.com/track/4g3iyszdHctzCawEMndp2e) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [patito](https://open.spotify.com/album/5RePQAtG2OT9uHmoL9fjoJ) | 2:54 |
+| 94 | [Me lapidaría](https://open.spotify.com/track/52oaBSXjnO6tqxokFwusnM) | [El Buen Hijo](https://open.spotify.com/artist/6G4LAz42NNVfLTq2eSNPvr) | [Me lapidaría](https://open.spotify.com/album/5VhTBt1MQNiDmr8f3znldy) | 2:49 |
+| 95 | [Al Final](https://open.spotify.com/track/5IUDQPpcD9MGMQDRDb2Fvw) | [Muro María](https://open.spotify.com/artist/5INts4xs8Jf1Rpnkd6Zd2Y) | [Al Final](https://open.spotify.com/album/1JThc0vxLAFqk4pj6jPkYa) | 3:04 |
+| 96 | [Apuntando a tu sien](https://open.spotify.com/track/54f5xQWeTgoZ9T28xS3no1) | [Mi Capitán](https://open.spotify.com/artist/5IFjdKpLNCRPCRxdeXlFY9) | [Como Ladrones Sorprendidos](https://open.spotify.com/album/515qU2fMggG3p2WD50Axhs) | 3:26 |
 | 97 | [Vámonos](https://open.spotify.com/track/1ZD4PRGZC7HyPLxncinlt4) | [levitants](https://open.spotify.com/artist/5Ed1kJRHN0Uj0BhGbRNutV) | [Vámonos](https://open.spotify.com/album/26m3HonKZaNY2mr5dyfpDz) | 4:08 |
-| 98 | [Apuntando a tu sien](https://open.spotify.com/track/54f5xQWeTgoZ9T28xS3no1) | [Mi Capitán](https://open.spotify.com/artist/5IFjdKpLNCRPCRxdeXlFY9) | [Como Ladrones Sorprendidos](https://open.spotify.com/album/515qU2fMggG3p2WD50Axhs) | 3:26 |
-| 99 | [Si Piensas en Mí](https://open.spotify.com/track/1LGZYAqFUZli9lE8ZkAGvp) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO) | [Si Piensas En Mí](https://open.spotify.com/album/0UlukI2zr6iWqA76bjhrcQ) | 4:04 |
-| 100 | [Lo de siempre](https://open.spotify.com/track/1wjRd9NhFtwSfGRaH4VFBB) | [Go Cactus](https://open.spotify.com/artist/73Xp0FH6ZuSdhEcq5kcXbE) | [Lo de siempre](https://open.spotify.com/album/4G8PtP2rLxt0JQhAbqV6Ac) | 3:31 |
+| 98 | [Si Piensas en Mí](https://open.spotify.com/track/1LGZYAqFUZli9lE8ZkAGvp) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO) | [Si Piensas En Mí](https://open.spotify.com/album/0UlukI2zr6iWqA76bjhrcQ) | 4:04 |
+| 99 | [patito](https://open.spotify.com/track/4g3iyszdHctzCawEMndp2e) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [patito](https://open.spotify.com/album/5RePQAtG2OT9uHmoL9fjoJ) | 2:54 |
+| 100 | [agosto](https://open.spotify.com/track/2rMCjGUXkg9eyweQPcwvRX) | [garbí](https://open.spotify.com/artist/0VqZ86s4Z8DHDNHFwYf0oM) | [agosto](https://open.spotify.com/album/0eIk5M7jExLB3SLpmgitMz) | 3:28 |
 
 Snapshot ID: `ZpmQYAAAAABVbMoZV7dqGdRGvUlX5rDL`

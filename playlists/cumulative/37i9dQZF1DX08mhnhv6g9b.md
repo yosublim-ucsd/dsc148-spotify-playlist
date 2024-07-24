@@ -2,7 +2,7 @@
 
 ### [This Is BTS](https://open.spotify.com/playlist/37i9dQZF1DX08mhnhv6g9b)
 
-> Welcome to the BTS's universe\. H appy BTS Festa A.R.M.Y 💜
+> Welcome to the BTS's universe\. A.R.M.Y's World! 💜
 
 499 songs - 1 day 5 hr 41 min
 

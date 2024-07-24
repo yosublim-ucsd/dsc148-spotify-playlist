@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Lil Durk
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,846 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,880 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 17 | [Swear to God \(feat\. Future\)](https://open.spotify.com/track/0N3A0tvQ3ppZerKA8Gsztp) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Swear to God \(feat\. Future\)](https://open.spotify.com/album/5j8aNVtgdhzP7azN05Z9h5) | 3:00 |
 | 18 | [Say Ya Grace \(with Chief Keef & Lil Yachty\)](https://open.spotify.com/track/4m4CMXt4jTczOLC14kG8cx) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 2:36 |
 | 19 | [DD4](https://open.spotify.com/track/3Ml0dgVByaS8lwiBjcROq0) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx), [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo) | [DD4](https://open.spotify.com/album/53g7GOVy2eqimdIPzVYynu) | 3:14 |
-| 20 | [Zoned Out](https://open.spotify.com/track/60O6renwTsjzUuxl9K1oi6) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX), [Cuzzin Howie](https://open.spotify.com/artist/4nAXAdHiaA5rcAdForHXWT), [The Smokers Club](https://open.spotify.com/artist/0DSKJgPADvb4x1Bk3VETPr) | [Zoned Out](https://open.spotify.com/album/2Sfuts1H89efu7Za2RO2q6) | 1:48 |
+| 20 | [Zoned Out](https://open.spotify.com/track/60O6renwTsjzUuxl9K1oi6) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX), [The Smokers Club](https://open.spotify.com/artist/0DSKJgPADvb4x1Bk3VETPr) | [Zoned Out](https://open.spotify.com/album/2Sfuts1H89efu7Za2RO2q6) | 1:48 |
 | 21 | [3 SMRS STR8](https://open.spotify.com/track/2LarOWlYuiZvHJfnBOSEAa) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [GEMINI!](https://open.spotify.com/album/1oocvwkq7m9gmJma0SceUi) | 2:21 |
 | 22 | [6.2 Music \(with Rob49\)](https://open.spotify.com/track/6ToibuSa6fjrrzh1aLZwqf) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [6.2 Music \(with Rob49\)](https://open.spotify.com/album/1UydpDxXkMRoB24N3iNQ5m) | 2:48 |
 | 23 | [Heavy Fraud](https://open.spotify.com/track/2nmzuZy2eg8c9xmcdCG6IB) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Forget Me Not](https://open.spotify.com/album/1IOxq6YB4Rb5kANFxa5Vbe) | 3:23 |

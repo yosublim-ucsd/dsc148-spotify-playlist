@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-550 songs - 1 day 4 hr 44 min
+551 songs - 1 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,7 @@
 | [KRUSH BANDICOOT](https://open.spotify.com/track/7Iw1IbjTLh4IFltKiwiNcE) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [KRUSH BANDICOOT](https://open.spotify.com/album/2ZfmmTGVbyPOFJOqrdYFwf) | 1:37 | 2024-07-03 |  |
 | [Lalala \(feat\. BRYAN THE MENSAH\)](https://open.spotify.com/track/3cdAxw4ASnvdYfIDvFYGR8) | [P8ople](https://open.spotify.com/artist/2TQYJefeEZlD8YoOpMEi3P), [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [Lalala \(feat\. BRYAN THE MENSAH\)](https://open.spotify.com/album/5FpdpIOsGCjiVcjDcJx1tL) | 3:12 | 2022-06-10 | 2022-06-14 |
 | [Lambo Riddim](https://open.spotify.com/track/5PtMkeMJoFVj21EMZPGJJI) | [Carvillo](https://open.spotify.com/artist/7jl6DwdBLCLYEsJoU0VEXK) | [Lambo Riddim](https://open.spotify.com/album/2DihIihss22yAzvjYKCvRv) | 2:50 | 2022-07-14 | 2022-07-28 |
-| [Lay Me Down](https://open.spotify.com/track/3GKN5PYjlS7baPtrbdLtev) | [Ranji](https://open.spotify.com/artist/6Tu0luJL7EoFv1RsHZP30p), [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Berg](https://open.spotify.com/artist/2r7sssoF6zZbPOG0U0YOem) | [Lay Me Down](https://open.spotify.com/album/3WKRpjVkajtN99InvxdLwX) | 3:30 | 2022-05-06 |  |
+| [Lay Me Down](https://open.spotify.com/track/3GKN5PYjlS7baPtrbdLtev) | [Ranji](https://open.spotify.com/artist/6Tu0luJL7EoFv1RsHZP30p), [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Berg](https://open.spotify.com/artist/2r7sssoF6zZbPOG0U0YOem) | [Lay Me Down](https://open.spotify.com/album/3WKRpjVkajtN99InvxdLwX) | 3:30 | 2022-05-06 | 2024-07-24 |
 | [Legends Never Die](https://open.spotify.com/track/1FpVJ7HpZInE2GvhVE2TwT) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Legends Never Die](https://open.spotify.com/album/30gnisiaho0Y6KRWJ7gIaA) | 3:55 | 2022-05-06 | 2023-07-19 |
 | [Let Love Win](https://open.spotify.com/track/5jB0IkgKoNeHcCObpZuPXP) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [PARALLAX](https://open.spotify.com/album/1fup3EK4hxpYo0UxxbZiRY) | 3:18 | 2022-05-06 | 2022-07-23 |
 | [Let Me In](https://open.spotify.com/track/5HSRz2SISlCFnP63QqBvYj) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T) | [Let Me In](https://open.spotify.com/album/33mgM1ZKJQ9dYL3nfgrVpl) | 3:48 | 2022-05-06 | 2022-07-16 |
@@ -348,6 +348,7 @@
 | [ONE FOR YOU](https://open.spotify.com/track/3b26vJtV7KETHKtu4sxabB) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1), [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [ONE FOR YOU](https://open.spotify.com/album/5HSr7vEpd8zbvP4F0hquzd) | 2:32 | 2024-07-19 |  |
 | [OneHundred](https://open.spotify.com/track/5SNvyCJJ5OLKDLQza2EPLP) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w), [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg) | [OneHundred](https://open.spotify.com/album/34vgp24d0jYG1SzSkgP3uE) | 3:09 | 2024-01-19 | 2024-06-25 |
 | [Oohla Oohla](https://open.spotify.com/track/3g36KmRGI8hmnCcTFak4Wn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Oohla Oohla](https://open.spotify.com/album/5Oibr2iQxlF15CXazabggs) | 2:23 | 2022-06-10 | 2024-07-20 |
+| [Open Your Eyes](https://open.spotify.com/track/3adEmuBPBZR04wFiIE9qHL) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Open Your Eyes](https://open.spotify.com/album/4crL4998au9yLFpCDKPEJK) | 3:05 | 2024-07-19 |  |
 | [Other Side](https://open.spotify.com/track/2pHTtI2tvEjGJvwJyDyCpy) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:31 | 2023-05-05 |  |
 | [Out of Order](https://open.spotify.com/track/4WVQXOAV6OzmI475ZMpbSa) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [Out of Order](https://open.spotify.com/album/7BeR8ZtYmNBBXfG783V9VM) | 2:51 | 2022-07-14 | 2022-07-27 |
 | [Pandora](https://open.spotify.com/track/3ihpDP7D2ZK769grmaGjlO) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Edda Hayes](https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8) | [Pandora](https://open.spotify.com/album/4dxh48ZuZtwKbMQ5GCm0UI) | 3:41 | 2022-05-06 | 2022-07-29 |

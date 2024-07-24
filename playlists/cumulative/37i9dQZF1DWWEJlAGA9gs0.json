@@ -631,6 +631,32 @@
     },
     {
       "album": {
+        "name": "Bizet: Carmen",
+        "url": "https://open.spotify.com/album/249X9ZjhWATM2KlkcCh9pt"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Michel Plasson",
+          "url": "https://open.spotify.com/artist/2fzmIYnCPAZ9LeJFpYcHob"
+        },
+        {
+          "name": "Orchestre National Du Capitole De Toulouse",
+          "url": "https://open.spotify.com/artist/75ehLoOSz7elHefmAk5QWa"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213693,
+      "name": "Bizet: Carmen, WD 31: Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/7e8ZbMDwjdbUHWsoMOlZCd"
+    },
+    {
+      "album": {
         "name": "Orff: Carmina Burana",
         "url": "https://open.spotify.com/album/29PSyE1ZD0XUgqm5yqC33x"
       },
@@ -1314,6 +1340,28 @@
       "duration_ms": 173200,
       "name": "Dreamweaver: 2. Dreamsong",
       "url": "https://open.spotify.com/track/5L1D2edlnA2yvnO2IsHMZ0"
+    },
+    {
+      "album": {
+        "name": "Mozart: Eine Kleine Nachtmusik",
+        "url": "https://open.spotify.com/album/4XtXDGPvBn9DMDWuqZ0uX9"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Andrew Watkinson",
+          "url": "https://open.spotify.com/artist/211RcasIRCISh1U0VGFmAE"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352000,
+      "name": "Eine kleine Nachtmusik K. 525: Allegro",
+      "url": "https://open.spotify.com/track/2mRUmSG3XGjFloqgAT2UJN"
     },
     {
       "album": {
@@ -2135,6 +2183,40 @@
     },
     {
       "album": {
+        "name": "Nadine Sierra & Pretty Yende in Concert",
+        "url": "https://open.spotify.com/album/1WYMawa8fykg7sDo10V6rN"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Delibes",
+          "url": "https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT"
+        },
+        {
+          "name": "Nadine Sierra",
+          "url": "https://open.spotify.com/artist/0KZxSBGvjZVKOo6dmwfkfN"
+        },
+        {
+          "name": "Pretty Yende",
+          "url": "https://open.spotify.com/artist/2s7dm9RxxQaLtAXbWjQeco"
+        },
+        {
+          "name": "Les Frivolit\u00e9s Parisiennes",
+          "url": "https://open.spotify.com/artist/79iMyEOLslP1CBgBeAZlYh"
+        },
+        {
+          "name": "Giacomo Sagripanti",
+          "url": "https://open.spotify.com/artist/3Pov7bHVI6wI5dgREGGCv9"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319826,
+      "name": "Lakm\u00e9 / Flower Duet: D\u00f4me \u00e9pais le jasmin ... Sous le d\u00f4me \u00e9pais",
+      "url": "https://open.spotify.com/track/1UYzQtgRWAyI18PJEFjeWO"
+    },
+    {
+      "album": {
         "name": "Liszt - My Piano Hero",
         "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
       },
@@ -2468,10 +2550,40 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 532040,
       "name": "Mozart: Clarinet Concerto in A Major, K. 622: II. Adagio",
       "url": "https://open.spotify.com/track/63cA2QfqtWZa0GGPZnYc0K"
+    },
+    {
+      "album": {
+        "name": "Mozart: Clarinet Concerto/Debussy: Premi\u00e8re Rhapsodie/Takemitsu: Fantasma/Cantos",
+        "url": "https://open.spotify.com/album/6lu8QlTLnOsd199MZ7rHOy"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Sabine Meyer",
+          "url": "https://open.spotify.com/artist/6kuAjH8jM4yaKQhZekTUgL"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394560,
+      "name": "Mozart: Clarinet Concerto in A Major, K. 622: II. Adagio",
+      "url": "https://open.spotify.com/track/2fYOyayT80ysO3nxw9lKXn"
     },
     {
       "album": {
@@ -3565,6 +3677,28 @@
     },
     {
       "album": {
+        "name": "Mozart: The Piano Sonatas",
+        "url": "https://open.spotify.com/album/1qM2Z3rhkJLQIXnAQpIUdY"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Andr\u00e1s Schiff",
+          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208626,
+      "name": "Piano Sonata No. 11 in A Major, K. 331: 3. Alla Turca. Allegretto",
+      "url": "https://open.spotify.com/track/1iR34ZbPs3eFniMpnrHI6s"
+    },
+    {
+      "album": {
         "name": "Beethoven: Complete Piano Sonatas",
         "url": "https://open.spotify.com/album/3exqrnwvtUAEVCwar8xIcs"
       },
@@ -3838,6 +3972,32 @@
       "duration_ms": 332720,
       "name": "Pushkin's Garland: Reveille",
       "url": "https://open.spotify.com/track/7lCXrO0Axkl0l0TjCOkFLN"
+    },
+    {
+      "album": {
+        "name": "Ravel: Daphnis et Chlo\u00e9 Suite No. 2, Rapsodie espagnole, Pavane pour une infante d\u00e9funte, Alborada del gracioso & Bol\u00e9ro",
+        "url": "https://open.spotify.com/album/4igH5XCXBXWmxPFyWaWGrM"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 948786,
+      "name": "Ravel: Bol\u00e9ro, M. 81",
+      "url": "https://open.spotify.com/track/7E1ErYYCn0lYjHODZ1qGuB"
     },
     {
       "album": {
@@ -5925,6 +6085,32 @@
     },
     {
       "album": {
+        "name": "I don't like classical music, but I really like this!",
+        "url": "https://open.spotify.com/album/72eREPpDWnlR5o2hUExugS"
+      },
+      "artists": [
+        {
+          "name": "Jacques Offenbach",
+          "url": "https://open.spotify.com/artist/4OihBPCQzR4GfbzqOY69Xm"
+        },
+        {
+          "name": "Arthur Fiedler",
+          "url": "https://open.spotify.com/artist/2JQBcP1ceEAdwHM6cvSCv8"
+        },
+        {
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215240,
+      "name": "Tales of Hoffmann: Barcarolle",
+      "url": "https://open.spotify.com/track/1n9741DApqn5gvuxhgerCt"
+    },
+    {
+      "album": {
         "name": "Tchaikovsky: Symphony No. 5 & 1812 Overture",
         "url": "https://open.spotify.com/album/7nwyvRjkUjKKuxuHZWT1Hx"
       },
@@ -5948,6 +6134,32 @@
       "duration_ms": 905666,
       "name": "Tchaikovsky: 1812 Overture in E-Flat Major, Op. 49",
       "url": "https://open.spotify.com/track/6mhQ7eOHaV0ur2ooKTavW1"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Swan Lake",
+        "url": "https://open.spotify.com/album/7dVA06E7AP7P7VzPyNxQVO"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166866,
+      "name": "Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato",
+      "url": "https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt"
     },
     {
       "album": {
@@ -6048,10 +6260,36 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 204146,
       "name": "The Four Seasons - Violin Concerto in F Minor, Op. 8 No. 4, RV 297 \"Winter\": I. Allegro non molto",
       "url": "https://open.spotify.com/track/64ZxBE1ZgK4C0lGljXzDcG"
+    },
+    {
+      "album": {
+        "name": "Vivaldi: The Four Seasons",
+        "url": "https://open.spotify.com/album/1BxxmokA4eBg1EBpfYP1fC"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Joshua Bell",
+          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161106,
+      "name": "The Four Seasons - Violin Concerto in G Minor, Op. 8 No. 2, RV 315 \"Summer\": III. Presto",
+      "url": "https://open.spotify.com/track/3Gz8ExGcRpnu8BSDzepQhy"
     },
     {
       "album": {
@@ -6354,6 +6592,32 @@
       "duration_ms": 191160,
       "name": "The Nutcracker, Op.71, TH.14 / Act 2: No. 12b Coffee (Arabian Dance)",
       "url": "https://open.spotify.com/track/5eQKtxGSPvl9NEPXAuzzTJ"
+    },
+    {
+      "album": {
+        "name": "Holst: The Planets",
+        "url": "https://open.spotify.com/album/4v0Xyz0LVToUsSTGdsvKSK"
+      },
+      "artists": [
+        {
+          "name": "Gustav Holst",
+          "url": "https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456000,
+      "name": "The Planets, Op. 32: IV. Jupiter, the Bringer of Jollity",
+      "url": "https://open.spotify.com/track/59Id4KrBWiizuq53doxWtp"
     },
     {
       "album": {
@@ -7148,6 +7412,32 @@
       "duration_ms": 237960,
       "name": "Widmung, Op. 25 No. 1",
       "url": "https://open.spotify.com/track/2rbB9tFpJdjAkO9XHf0AJZ"
+    },
+    {
+      "album": {
+        "name": "I don't like classical music, but I really like this!",
+        "url": "https://open.spotify.com/album/72eREPpDWnlR5o2hUExugS"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Arthur Fiedler",
+          "url": "https://open.spotify.com/artist/2JQBcP1ceEAdwHM6cvSCv8"
+        },
+        {
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "William Tell Overture",
+      "url": "https://open.spotify.com/track/1ISbc05WTtcVh7q7QOXuu4"
     },
     {
       "album": {

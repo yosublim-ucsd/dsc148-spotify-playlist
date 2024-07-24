@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-570 songs - 1 day 5 hr 1 min
+571 songs - 1 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,6 +479,7 @@
 | [Symbolism](https://open.spotify.com/track/2RQWB4Asy1rjZL4IUcJ7kn) | [Electro\-Light](https://open.spotify.com/artist/1rpHb27OjM9LHmYm2zjnk5) | [Symbolism](https://open.spotify.com/album/5SYrSHZq6di4OzUqa3ZUbb) | 4:53 | 2023-08-08 | 2024-03-27 |
 | [Symbolism pt\. III](https://open.spotify.com/track/3j9repS7j0ic94QnkmBWow) | [Electro\-Light](https://open.spotify.com/artist/1rpHb27OjM9LHmYm2zjnk5) | [Symbolism pt\. III](https://open.spotify.com/album/2W3HSyUgF9aoXOUIxB5xyx) | 4:06 | 2022-08-12 | 2023-04-28 |
 | [Sympathy](https://open.spotify.com/track/1N1KPecsoHnrGMWT8kitc7) | [Jo Cohen](https://open.spotify.com/artist/0Szh8DhUXEL2iujQ9cdS4q), [Coral Oulu](https://open.spotify.com/artist/3pPttv2n3nkVlMqPBGYUUk) | [Sympathy](https://open.spotify.com/album/6Sv3Xr0w959DvBg6BhvHsj) | 2:33 | 2023-01-26 | 2023-08-10 |
+| [Symphony](https://open.spotify.com/track/47L9mzy5YvKHGrU6fmujA0) | [Lionis](https://open.spotify.com/artist/3eXXvm84tqwv5FhYoHdWzh), [Revaeon](https://open.spotify.com/artist/1NubCpQK9Tz3JEIm4UhrUC), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Symphony](https://open.spotify.com/album/4WP7RAUrGTL6cbhDhawjRh) | 2:36 | 2024-07-23 |  |
 | [Take Away](https://open.spotify.com/track/3YznekTxinfXAG4K6Wuc3n) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Take Away](https://open.spotify.com/album/74ojukDockOm8Q8Ly5NUYr) | 2:34 | 2023-07-14 | 2023-08-10 |
 | [Take It Easy \- DNB Edit](https://open.spotify.com/track/0ixRU1IxaGqqPR6b4dUtek) | [BVRNOUT](https://open.spotify.com/artist/5oREZfPeedk4nyo1GpqKfU), [Mia Vaile](https://open.spotify.com/artist/38SIErfZNd7u2qlIzFeZqm) | [Take It Easy \(DNB Edit\)](https://open.spotify.com/album/2U4tG5P74xLImzIen1UFa3) | 3:24 | 2022-06-17 | 2023-04-28 |
 | [Take It or Leave It](https://open.spotify.com/track/02Jm97ALc0atbXRpiwCLba) | [Aeden](https://open.spotify.com/artist/2WIFU5KpTGyYWZs039dQPn), [Sketchez](https://open.spotify.com/artist/3i1DZLmhjic0xxPoAhwSY6) | [Take It or Leave It](https://open.spotify.com/album/10F8ssQIhAa8r6fNM63bcL) | 2:46 | 2022-10-07 | 2023-08-10 |

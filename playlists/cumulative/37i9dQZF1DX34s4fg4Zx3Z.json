@@ -2313,6 +2313,24 @@
     },
     {
       "album": {
+        "name": "Another Universe",
+        "url": "https://open.spotify.com/album/0DAaMYClHLWOIa0kftplto"
+      },
+      "artists": [
+        {
+          "name": "Raven x Rabbit",
+          "url": "https://open.spotify.com/artist/3EbhwySdn2EFUhSF55GM2v"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Another Universe",
+      "url": "https://open.spotify.com/track/3DcqDguEoymz8xYAiVn1QV"
+    },
+    {
+      "album": {
         "name": "APOLLO 11",
         "url": "https://open.spotify.com/album/1DIo4e2RAQusr8aSc1Edx8"
       },
@@ -5092,6 +5110,24 @@
       "duration_ms": 300000,
       "name": "chu\u1ed3n chu\u1ed3n",
       "url": "https://open.spotify.com/track/3N1OdG5gRia2eYeP51jNKK"
+    },
+    {
+      "album": {
+        "name": "Ch\u00e0ng Nh\u1ea1c C\u00f4ng",
+        "url": "https://open.spotify.com/album/2K0eg15sbXRYWwFdDjTBnX"
+      },
+      "artists": [
+        {
+          "name": "\u00c2nknown",
+          "url": "https://open.spotify.com/artist/4qG6V2lQFsqDEUlbVMtnU2"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248831,
+      "name": "Ch\u00e0ng Nh\u1ea1c C\u00f4ng",
+      "url": "https://open.spotify.com/track/2EdQ7iPfXye4CzZ6W652DM"
     },
     {
       "album": {
@@ -11538,7 +11574,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 204977,
       "name": "Gi\u00e3i B\u00e0y",
       "url": "https://open.spotify.com/track/5xDnlkauqIR9a6vk8Rltn6"
@@ -13152,7 +13188,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 296394,
       "name": "H\u00f4m Nay Anh Say",
       "url": "https://open.spotify.com/track/5r992YL8HbpcGOKDwvlOSQ"
@@ -16176,6 +16212,24 @@
       "duration_ms": 200175,
       "name": "LUST IN TRANSLATION",
       "url": "https://open.spotify.com/track/0neWB0c6fxOTXMJ78l9xBF"
+    },
+    {
+      "album": {
+        "name": "LYCR",
+        "url": "https://open.spotify.com/album/6LF8SWSrWmHIwxU0F2chMU"
+      },
+      "artists": [
+        {
+          "name": "Shimin",
+          "url": "https://open.spotify.com/artist/6oVbQjNoM4BHY40a3Fbm1T"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206159,
+      "name": "LYCR",
+      "url": "https://open.spotify.com/track/2nVWo7M49sDWj69ERJcvKU"
     },
     {
       "album": {
@@ -21104,7 +21158,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 270391,
       "name": "Nh\u1edb \u0110i\u00ean",
       "url": "https://open.spotify.com/track/1JYm1Uo1wlSf3A7BfHWkss"
@@ -30182,7 +30236,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 236119,
       "name": "T\u1ef1 \u00fd y\u00eau anh",
       "url": "https://open.spotify.com/track/5A8ZfxC0WpuYc49l5NXfo7"
@@ -32880,6 +32934,28 @@
       "duration_ms": 236571,
       "name": "Y\u00eau L\u00e0m Chi",
       "url": "https://open.spotify.com/track/7i9KaP1FY6BwiVm2vAwfkD"
+    },
+    {
+      "album": {
+        "name": "Y\u00caU L\u1ea0 K\u1ef2",
+        "url": "https://open.spotify.com/album/4jDOjj4eIYlN2ow1qVmp9l"
+      },
+      "artists": [
+        {
+          "name": "DealH",
+          "url": "https://open.spotify.com/artist/0kpoyevxpLJjJrbWEh5TVJ"
+        },
+        {
+          "name": "Zane.H",
+          "url": "https://open.spotify.com/artist/4YEtC6P0oDwoilVwgLNJiD"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160888,
+      "name": "Y\u00caU L\u1ea0 K\u1ef2",
+      "url": "https://open.spotify.com/track/68QtXQoiFWjoU5uEZw5376"
     },
     {
       "album": {

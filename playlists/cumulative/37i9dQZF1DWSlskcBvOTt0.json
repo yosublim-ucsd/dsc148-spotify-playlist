@@ -1611,6 +1611,24 @@
     },
     {
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/6fsPFECJJpDQQpbh1mYtwu"
+      },
+      "artists": [
+        {
+          "name": "Super Flu",
+          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/5JIC3AqDuyFtva4oExpNcx"
+    },
+    {
+      "album": {
         "name": "Believer",
         "url": "https://open.spotify.com/album/4jUQAiSlGnqwVlEVeE8hR1"
       },
@@ -11348,7 +11366,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 301228,
       "name": "Rose",
       "url": "https://open.spotify.com/track/5oY17VCn1xJLzi7J4FGnUZ"

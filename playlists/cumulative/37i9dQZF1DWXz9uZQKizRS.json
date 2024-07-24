@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 202069,
       "name": "mleko i mood",
       "url": "https://open.spotify.com/track/2kVqFphu0NCZ0BOBVfeCov"
@@ -1330,6 +1330,24 @@
       "duration_ms": 192346,
       "name": "Nie Wiem Jak Jest",
       "url": "https://open.spotify.com/track/3llPwITzXBO5CHoHe9PSvl"
+    },
+    {
+      "album": {
+        "name": "Niebo",
+        "url": "https://open.spotify.com/album/1eQB1O1BbF5eZhvuKPKKpB"
+      },
+      "artists": [
+        {
+          "name": "Galecki",
+          "url": "https://open.spotify.com/artist/3IK9XKgPI53fY6E48Oi5S4"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214940,
+      "name": "Niebo",
+      "url": "https://open.spotify.com/track/1v5ABm7hr2XBx9RButUtJh"
     },
     {
       "album": {

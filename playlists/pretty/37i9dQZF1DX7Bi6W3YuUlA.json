@@ -1,6 +1,6 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover:  <a href=\"spotify:artist:2d8NsBa8O4C6bgQatFP5V4\">nobigdyl.</a>",
-  "num_followers": 46200,
+  "num_followers": 46271,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
@@ -595,18 +595,18 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "Main",
-        "url": "https://open.spotify.com/album/7MBZXqvG8VyUt6FV5Bnd4M"
+        "name": "No Loss",
+        "url": "https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN"
       },
       "artists": [
         {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
         }
       ],
-      "duration_ms": 168750,
-      "name": "Main",
-      "url": "https://open.spotify.com/track/0vYQS3JfEzjAa8g2SBuMEa"
+      "duration_ms": 175018,
+      "name": "No Loss",
+      "url": "https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -631,6 +631,22 @@
       "duration_ms": 175250,
       "name": "HEAD TO HADES",
       "url": "https://open.spotify.com/track/58sGcIFRdGOQ7bUi62HBes"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "Main",
+        "url": "https://open.spotify.com/album/7MBZXqvG8VyUt6FV5Bnd4M"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Main",
+      "url": "https://open.spotify.com/track/0vYQS3JfEzjAa8g2SBuMEa"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -703,42 +719,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "No Loss",
-        "url": "https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN"
-      },
-      "artists": [
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        }
-      ],
-      "duration_ms": 175018,
-      "name": "No Loss",
-      "url": "https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
-        "name": "Praise",
-        "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
-      },
-      "artists": [
-        {
-          "name": "Lj the Messenger",
-          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
-        },
-        {
-          "name": "Hyper Fenton",
-          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
-        }
-      ],
-      "duration_ms": 123478,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "They Didn\u2019t Know II",
         "url": "https://open.spotify.com/album/26C59sslJoOpwYIWhV8PvA"
       },
@@ -787,6 +767,26 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
+      },
+      "artists": [
+        {
+          "name": "Lj the Messenger",
+          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
+        },
+        {
+          "name": "Hyper Fenton",
+          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
+        }
+      ],
+      "duration_ms": 123478,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
         "name": "It Could Be Worse",
         "url": "https://open.spotify.com/album/4hhMSsLW0rRcNmXFF9qWPw"
       },
@@ -799,6 +799,22 @@
       "duration_ms": 144021,
       "name": "It Could Be Worse",
       "url": "https://open.spotify.com/track/1pn9N05evZd09npQBnsC31"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/0apbxfxnkAeR7D0crH0oXq"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 182487,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7nfaD0trhQiStQ8DOQRC0h"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -823,22 +839,6 @@
       "duration_ms": 194283,
       "name": "2BIG!",
       "url": "https://open.spotify.com/track/1b6aMjLdJG6zAytUggQHj1"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/0apbxfxnkAeR7D0crH0oXq"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 182487,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7nfaD0trhQiStQ8DOQRC0h"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
+        "name": "Wins",
+        "url": "https://open.spotify.com/album/5UtwE8AZGxOUIIntICw3Bq"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 155287,
+      "name": "Wins",
+      "url": "https://open.spotify.com/track/4vlHzPQvMeDi5ISpZpeF3x"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
         "name": "A Painting Of Peace (feat. Mariah Anae)",
         "url": "https://open.spotify.com/album/646wnZPifL8XNKL13YV3vy"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 241661,
       "name": "A Painting Of Peace (feat. Mariah Anae)",
       "url": "https://open.spotify.com/track/1CnBGNdzEq6lgyfLOoKyd3"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
-        "name": "Wins",
-        "url": "https://open.spotify.com/album/5UtwE8AZGxOUIIntICw3Bq"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 155287,
-      "name": "Wins",
-      "url": "https://open.spotify.com/track/4vlHzPQvMeDi5ISpZpeF3x"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
+        "name": "Already Won",
+        "url": "https://open.spotify.com/album/3uw5iuuxRVPD7N3uokEYoZ"
+      },
+      "artists": [
+        {
+          "name": "Yung Titan",
+          "url": "https://open.spotify.com/artist/5b2wfaTcBypJir2aa3xAQU"
+        }
+      ],
+      "duration_ms": 245643,
+      "name": "Already Won",
+      "url": "https://open.spotify.com/track/5J5kD4jXgjQ69FsCS0gFYS"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
         "name": "Reality Checks",
         "url": "https://open.spotify.com/album/2HhfhRKQym6KfjQdQAZ4Wo"
       },
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "Already Won",
-        "url": "https://open.spotify.com/album/3uw5iuuxRVPD7N3uokEYoZ"
+        "name": "Everybody Else",
+        "url": "https://open.spotify.com/album/4llvRXqnBnQ9JQJpAqxlnA"
       },
       "artists": [
         {
-          "name": "Yung Titan",
-          "url": "https://open.spotify.com/artist/5b2wfaTcBypJir2aa3xAQU"
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
         }
       ],
-      "duration_ms": 245643,
-      "name": "Already Won",
-      "url": "https://open.spotify.com/track/5J5kD4jXgjQ69FsCS0gFYS"
+      "duration_ms": 211636,
+      "name": "Everybody Else",
+      "url": "https://open.spotify.com/track/4OFaELbI7nZV7bPqk4WLPW"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1599,18 +1615,26 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "Everybody Else",
-        "url": "https://open.spotify.com/album/4llvRXqnBnQ9JQJpAqxlnA"
+        "name": "PROBLEMATIC (Remix) [feat. Travis Hobson]",
+        "url": "https://open.spotify.com/album/5b9tiP4w6snbFuC8RD1Y86"
       },
       "artists": [
         {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+          "name": "Kham",
+          "url": "https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De"
+        },
+        {
+          "name": "Battz",
+          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
+        },
+        {
+          "name": "Travis Hobson",
+          "url": "https://open.spotify.com/artist/5shBzJB6QpkKp6imLBqnMR"
         }
       ],
-      "duration_ms": 211636,
-      "name": "Everybody Else",
-      "url": "https://open.spotify.com/track/4OFaELbI7nZV7bPqk4WLPW"
+      "duration_ms": 143512,
+      "name": "PROBLEMATIC (feat. Travis Hobson) - Remix",
+      "url": "https://open.spotify.com/track/7vHeVhBP5XS9bX4INHAVHw"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1663,30 +1687,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "PROBLEMATIC (Remix) [feat. Travis Hobson]",
-        "url": "https://open.spotify.com/album/5b9tiP4w6snbFuC8RD1Y86"
-      },
-      "artists": [
-        {
-          "name": "Kham",
-          "url": "https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De"
-        },
-        {
-          "name": "Battz",
-          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
-        },
-        {
-          "name": "Travis Hobson",
-          "url": "https://open.spotify.com/artist/5shBzJB6QpkKp6imLBqnMR"
-        }
-      ],
-      "duration_ms": 143512,
-      "name": "PROBLEMATIC (feat. Travis Hobson) - Remix",
-      "url": "https://open.spotify.com/track/7vHeVhBP5XS9bX4INHAVHw"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "Accelerate",
         "url": "https://open.spotify.com/album/2LR1F2JXim0aa9NX9twn1l"
       },
@@ -1707,18 +1707,22 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "believe",
-        "url": "https://open.spotify.com/album/0y47M4ia6gXB0QCJ7tz012"
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/0ZWFhYDoBJVeEAhVbuz6lV"
       },
       "artists": [
         {
-          "name": "Sajan Nauriyal",
-          "url": "https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6"
+          "name": "Aable",
+          "url": "https://open.spotify.com/artist/3LelS8evrI9XeIxtTOOcUw"
+        },
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
         }
       ],
-      "duration_ms": 155094,
-      "name": "believe",
-      "url": "https://open.spotify.com/track/7cwcU3UHeJs4RejjIhDoKt"
+      "duration_ms": 188500,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/4hCa5We6L6wU3poyLomJAz"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1743,6 +1747,22 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
+        "name": "believe",
+        "url": "https://open.spotify.com/album/0y47M4ia6gXB0QCJ7tz012"
+      },
+      "artists": [
+        {
+          "name": "Sajan Nauriyal",
+          "url": "https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6"
+        }
+      ],
+      "duration_ms": 155094,
+      "name": "believe",
+      "url": "https://open.spotify.com/track/7cwcU3UHeJs4RejjIhDoKt"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
         "name": "Great Is He",
         "url": "https://open.spotify.com/album/0F2g2Lr7ejLUJkLKToHRSf"
       },
@@ -1755,26 +1775,6 @@
       "duration_ms": 201204,
       "name": "Great Is He",
       "url": "https://open.spotify.com/track/7baxiYAhAx9MHum5NhtOML"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/0ZWFhYDoBJVeEAhVbuz6lV"
-      },
-      "artists": [
-        {
-          "name": "Aable",
-          "url": "https://open.spotify.com/artist/3LelS8evrI9XeIxtTOOcUw"
-        },
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/4hCa5We6L6wU3poyLomJAz"
     },
     {
       "added_at": "2024-06-28 07:29:32",

@@ -2848,7 +2848,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 193785,
       "name": "All You",
       "url": "https://open.spotify.com/track/71TnbHD0M7DyDnBpuxZfh8"
@@ -6668,7 +6668,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 191129,
       "name": "Better Than You",
       "url": "https://open.spotify.com/track/3LdTAe6UtdY8Zz5mgDreX7"
@@ -7764,7 +7764,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 230769,
       "name": "bon iver",
       "url": "https://open.spotify.com/track/00jldtNfQM5x4MYGUI8myI"
@@ -12559,6 +12559,24 @@
     },
     {
       "album": {
+        "name": "Constant",
+        "url": "https://open.spotify.com/album/0XjcBrhDZJexMykI7N8pbX"
+      },
+      "artists": [
+        {
+          "name": "Starsdyedred",
+          "url": "https://open.spotify.com/artist/3HvXbdk5RP9QgfRvC44uiR"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216102,
+      "name": "Constant",
+      "url": "https://open.spotify.com/track/0UIsy5lgENBj3zMV3HgoLJ"
+    },
+    {
+      "album": {
         "name": "Kinavana",
         "url": "https://open.spotify.com/album/62hYg9ivSjwLvL5Bl2SzUf"
       },
@@ -12856,7 +12874,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 200259,
       "name": "Could Be",
       "url": "https://open.spotify.com/track/1fVxahGhPOp6D2BmXO3Imv"
@@ -13660,7 +13678,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 273153,
       "name": "CuOnTheOtherSide",
       "url": "https://open.spotify.com/track/7o4ethtaCyCWdiGwP5JShN"
@@ -13942,7 +13960,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 168509,
       "name": "Damage",
       "url": "https://open.spotify.com/track/3XJbky8E1qZRdHTZ58jIig"
@@ -21638,7 +21656,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 183273,
       "name": "FOREVER UP",
       "url": "https://open.spotify.com/track/7xe0jnVtVUfg3lNwooaLDy"
@@ -25846,7 +25864,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 188776,
       "name": "Hearts On Fire",
       "url": "https://open.spotify.com/track/3d0oEvuszPCJ2n0XT4KEOo"
@@ -28322,7 +28340,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 251194,
       "name": "I Keep Changing",
       "url": "https://open.spotify.com/track/3MnUJTogsVxeSkYHX2cIdc"
@@ -36129,6 +36147,24 @@
     },
     {
       "album": {
+        "name": "Love Don't Come Easy",
+        "url": "https://open.spotify.com/album/6XhfBBKVn4LhjTPr364Fh9"
+      },
+      "artists": [
+        {
+          "name": "Paria",
+          "url": "https://open.spotify.com/artist/7tBuWTC4AL48W3dWjdNnFQ"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186300,
+      "name": "Love Don't Come Easy",
+      "url": "https://open.spotify.com/track/2CGXZbeVZusfZiJaih8DbF"
+    },
+    {
+      "album": {
         "name": "Magic & the Reel",
         "url": "https://open.spotify.com/album/6Q7ooV4QlxRP6Oq6d3UYik"
       },
@@ -39512,6 +39548,24 @@
       "duration_ms": 245196,
       "name": "Mixoul",
       "url": "https://open.spotify.com/track/7ff650DQe8ydKxReylkYOE"
+    },
+    {
+      "album": {
+        "name": "Mocca in Paris",
+        "url": "https://open.spotify.com/album/4ywI1wLVp37cSg1txuYRAF"
+      },
+      "artists": [
+        {
+          "name": "EDU",
+          "url": "https://open.spotify.com/artist/07DkcQ39rNICxi4FExM0O4"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193103,
+      "name": "Mocca in Paris",
+      "url": "https://open.spotify.com/track/0r77L1R5bVs1GUfIl8YVx4"
     },
     {
       "album": {
@@ -43226,6 +43280,28 @@
       "duration_ms": 261000,
       "name": "Nothing 101",
       "url": "https://open.spotify.com/track/5kVSDOmMPZWtVQanIzz3n9"
+    },
+    {
+      "album": {
+        "name": "Nothing But A Smile",
+        "url": "https://open.spotify.com/album/3cM1qKjxgP3Vu4n5HrnM1J"
+      },
+      "artists": [
+        {
+          "name": "Rubberband Girl",
+          "url": "https://open.spotify.com/artist/6qOThA4u1cN1OIn0sxHabV"
+        },
+        {
+          "name": "Caitlyn Scarlett",
+          "url": "https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235741,
+      "name": "Nothing But A Smile",
+      "url": "https://open.spotify.com/track/0PMMB4J1eYN8x2grckDi44"
     },
     {
       "album": {
@@ -50110,7 +50186,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 196373,
       "name": "Rockstar Girlfriend",
       "url": "https://open.spotify.com/track/5Amg4Sz1C73WuZVGCIbcI3"
@@ -56580,7 +56656,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 173919,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/3ptMsMVxqgcopjDFvLTzS4"
@@ -57088,7 +57164,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 138666,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/6qpEZvs7QkA1NnignY6tL9"

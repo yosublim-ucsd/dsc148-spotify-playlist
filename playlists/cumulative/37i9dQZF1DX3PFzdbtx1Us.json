@@ -815,6 +815,24 @@
     },
     {
       "album": {
+        "name": "Aragonese",
+        "url": "https://open.spotify.com/album/7xumXPGEwMrYVOb4pk6ANG"
+      },
+      "artists": [
+        {
+          "name": "Ametrine Skies",
+          "url": "https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134702,
+      "name": "Aragonese",
+      "url": "https://open.spotify.com/track/3bN2VEtYuFV2GjEHmfxTI3"
+    },
+    {
+      "album": {
         "name": "Arriving",
         "url": "https://open.spotify.com/album/0JObZV0R4Ko376lsiK0JWF"
       },

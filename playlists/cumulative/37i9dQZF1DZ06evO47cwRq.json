@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-09",
-  "description": "This is Linkin Park. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Linkin Park. The essential tracks, all in one playlist.",
   "name": "This Is Linkin Park",
   "tracks": [
     {
@@ -316,7 +316,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-23",
+      "date_removed": null,
       "duration_ms": 201428,
       "name": "Fighting Myself",
       "url": "https://open.spotify.com/track/2ipYQ6pcabz1NovVrr9LKH"
@@ -370,7 +370,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 217613,
       "name": "Final Masquerade",
       "url": "https://open.spotify.com/track/3aYBjxTMvrEOP0A0UXg9ER"
@@ -512,7 +512,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-21",
+      "date_removed": null,
       "duration_ms": 169800,
       "name": "Heavy (feat. Kiiara)",
       "url": "https://open.spotify.com/track/104buTcnP2AsxqB7U1FIZ4"
@@ -620,7 +620,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 216346,
       "name": "In the End (Instrumental)",
       "url": "https://open.spotify.com/track/6RUv6gg1Jv1NMT8N5Jv2Wd"
@@ -638,7 +638,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 214346,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/6OocN63GLU7NF0wHdewhID"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 225546,
       "name": "Nobody Can Save Me",
       "url": "https://open.spotify.com/track/3dJj6o9o1fRgrojWjailuz"
@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 178200,
       "name": "Sharp Edges",
       "url": "https://open.spotify.com/track/6c0I7CfL9ziGZN8yYkLppP"

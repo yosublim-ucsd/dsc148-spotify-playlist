@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Rayvanny & Harmonize
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,786 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,873 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 7 | [Dokta \(feat\. Dj Awakening\)](https://open.spotify.com/track/11DClOmMIOO7AjuqZVNKao) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa), [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3), [Dj Awakening](https://open.spotify.com/artist/1vdjiPf4w72D0ztlEkp97d) | [Dokta \(feat\. Dj Awakening\)](https://open.spotify.com/album/3fiutdRgB0nWaooZ6FlP72) | 4:23 |
 | 8 | [Dah! \(feat\. Alikiba\)](https://open.spotify.com/track/4aiEer4vCjTyuRAVFAlmGD) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Dah! \(feat\. Alikiba\)](https://open.spotify.com/album/3W0tL0BDQHyKP4Wjol9Ps6) | 3:08 |
 | 9 | [Maboss](https://open.spotify.com/track/3Lz0ZcT8qSzKMinHdIH3dH) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Maboss](https://open.spotify.com/album/0nTktZFWQMEakTPU7qHPcI) | 3:20 |
-| 10 | [Namtaka \(feat\. Raspy & Yumbs\)](https://open.spotify.com/track/7vxmB0okc59LqbLzFmKMy4) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4), [Raspy](https://open.spotify.com/artist/0bhq4kdUAhOte4WPNYhhTk), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [Namtaka \(feat\. Raspy & Yumbs\)](https://open.spotify.com/album/1w4Xrle5ZxOiBl88wVcOzV) | 4:29 |
+| 10 | [Namtaka \(feat\. LeeMcKrazy & Raspy\)](https://open.spotify.com/track/7vxmB0okc59LqbLzFmKMy4) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Raspy](https://open.spotify.com/artist/0bhq4kdUAhOte4WPNYhhTk) | [Namtaka \(feat\. LeeMcKrazy & Raspy\)](https://open.spotify.com/album/1w4Xrle5ZxOiBl88wVcOzV) | 4:29 |
 | 11 | [Raha \(feat\. Zuchu\)](https://open.spotify.com/track/3wlOTfVV8UCB3rwf8shhJL) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Raha \(feat\. Zuchu\)](https://open.spotify.com/album/2gUTuqKYELrZnGbmKVuf4J) | 3:37 |
 | 12 | [News \(feat\. Marioo\)](https://open.spotify.com/track/2Bzj1t1uAfz8iF5AU82TiM) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [News \(feat\. Marioo\)](https://open.spotify.com/album/2u2pjxbShYukXFvRQ0wD0w) | 3:23 |
 | 13 | [Maji](https://open.spotify.com/track/6lIV7uqVybFzB2aZKvDwXw) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Maji](https://open.spotify.com/album/5YNdsUBGf4pCa675Guaq0m) | 3:02 |

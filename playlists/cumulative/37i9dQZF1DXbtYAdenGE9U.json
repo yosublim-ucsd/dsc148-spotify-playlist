@@ -2027,6 +2027,24 @@
     },
     {
       "album": {
+        "name": "Trance - The Early Years, Vol. 2 (2002-2007)",
+        "url": "https://open.spotify.com/album/47D7XEBUhrgSh1CaVixJLh"
+      },
+      "artists": [
+        {
+          "name": "Tomcraft",
+          "url": "https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228653,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/5xspb4pHCUdfQvWc5y3e51"
+    },
+    {
+      "album": {
         "name": "Loneliness",
         "url": "https://open.spotify.com/album/2Q7qJLN5RwBvfDV6j1Ew4d"
       },
@@ -3168,7 +3186,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 235426,
       "name": "Southern Sun",
       "url": "https://open.spotify.com/track/6GZO2jSzaULhCH30DakBhu"

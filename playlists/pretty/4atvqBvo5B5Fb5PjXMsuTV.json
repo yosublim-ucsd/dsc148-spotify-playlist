@@ -6,55 +6,235 @@
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAJ24GJi6mvGHJ58wzJaPak6nuTaoNs",
+  "snapshot_id": "AAAJ392wzmS2VOj3tXmnZfo6Q4kcqG0e",
   "tracks": [
     {
-      "added_at": "2024-07-22 22:03:28",
+      "added_at": "2024-07-23 16:06:05",
       "album": {
-        "name": "Beyond the Raindrops",
-        "url": "https://open.spotify.com/album/3THRUCUoif0D9Ru6bBFqYu"
+        "name": "SOMETHING'S ENDING / I'VE BEEN EVIL",
+        "url": "https://open.spotify.com/album/2s12W57AKBVgE05hxm1v6P"
       },
       "artists": [
         {
-          "name": "envy",
-          "url": "https://open.spotify.com/artist/0CfjW2VuMdrhWodHtG7DWi"
+          "name": "SPIRIT OF THE BEEHIVE",
+          "url": "https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR"
         }
       ],
-      "duration_ms": 321003,
-      "name": "Beyond the Raindrops",
-      "url": "https://open.spotify.com/track/3hnDvAqMLJkyT3UP52WMEC"
+      "duration_ms": 99870,
+      "name": "SOMETHING'S ENDING",
+      "url": "https://open.spotify.com/track/1l4cXAvpPh0k4xTJR7TZZm"
     },
     {
-      "added_at": "2024-07-22 19:57:27",
+      "added_at": "2024-07-23 10:05:01",
       "album": {
-        "name": "Chk Chk Boom (Remixes)",
-        "url": "https://open.spotify.com/album/4I3XnuXU5fZJeC6q9yTGwa"
+        "name": "Not Just Yet",
+        "url": "https://open.spotify.com/album/4IXs7xwoAWybrQiinwE0Hm"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "Enumclaw",
+          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
         }
       ],
-      "duration_ms": 148051,
-      "name": "Chk Chk Boom",
-      "url": "https://open.spotify.com/track/0fGi4CsfgPHRcHum8OeX1X"
+      "duration_ms": 121533,
+      "name": "Not Just Yet",
+      "url": "https://open.spotify.com/track/448YCEFNaiIAoAH4r4Rc0O"
     },
     {
-      "added_at": "2024-07-22 17:50:06",
+      "added_at": "2024-07-23 16:06:05",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/3VQnrU5KGvjs1Fqzuo3E1C"
+        "name": "Legion of Bottom Deck Dealers",
+        "url": "https://open.spotify.com/album/1gCxQBIOfiHrxW1n1bgg8Q"
       },
       "artists": [
         {
-          "name": "Cryogeyser",
-          "url": "https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ"
+          "name": "Mamaleek",
+          "url": "https://open.spotify.com/artist/1QSovtv7KHNnElY3fV2rJU"
         }
       ],
-      "duration_ms": 176761,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/75z6Zk55dQrjxAnuAlmurY"
+      "duration_ms": 613321,
+      "name": "Legion of Bottom Deck Dealers",
+      "url": "https://open.spotify.com/track/2iTp3EQREVayV9oK5QsS6R"
+    },
+    {
+      "added_at": "2024-07-23 22:03:40",
+      "album": {
+        "name": "Make Sesne",
+        "url": "https://open.spotify.com/album/4ihdIjvt93kOfPIrPKMuan"
+      },
+      "artists": [
+        {
+          "name": "Melvoni",
+          "url": "https://open.spotify.com/artist/01Kz5ab1oYMaey58CaGTxA"
+        }
+      ],
+      "duration_ms": 132995,
+      "name": "Make Sesne",
+      "url": "https://open.spotify.com/track/5qcIkN2VgmJKQluuYDtzg5"
+    },
+    {
+      "added_at": "2024-07-23 16:06:05",
+      "album": {
+        "name": "chc\u0119 ci\u0119 wi\u0119cej",
+        "url": "https://open.spotify.com/album/5raJPtPXkkmxfna8ouSqpF"
+      },
+      "artists": [
+        {
+          "name": "Faustyna Maciejczuk",
+          "url": "https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj"
+        }
+      ],
+      "duration_ms": 155330,
+      "name": "chc\u0119 ci\u0119 wi\u0119cej",
+      "url": "https://open.spotify.com/track/3gFH7qSBnk9iGnYfxE3hFb"
+    },
+    {
+      "added_at": "2024-07-23 10:05:01",
+      "album": {
+        "name": "Fader",
+        "url": "https://open.spotify.com/album/6QQE8aOTbKmEgs9CdKuHAU"
+      },
+      "artists": [
+        {
+          "name": "Mr. Gnome",
+          "url": "https://open.spotify.com/artist/2Tcg8ur8LDClHZG1I11iN8"
+        }
+      ],
+      "duration_ms": 421005,
+      "name": "Fader",
+      "url": "https://open.spotify.com/track/4af7AHcJhoGCk9Pma9d5Ki"
+    },
+    {
+      "added_at": "2024-07-23 22:03:40",
+      "album": {
+        "name": "Perfect Me",
+        "url": "https://open.spotify.com/album/52Mane6O5Svocc9w3FhiCL"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 190486,
+      "name": "Perfect Me",
+      "url": "https://open.spotify.com/track/21f1QfiYHehakoXs0Zyeuz"
+    },
+    {
+      "added_at": "2024-07-23 16:06:05",
+      "album": {
+        "name": "Infested",
+        "url": "https://open.spotify.com/album/0kjUWh9d41E0oZbberxxqV"
+      },
+      "artists": [
+        {
+          "name": "Bodysnatcher",
+          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
+        }
+      ],
+      "duration_ms": 238053,
+      "name": "Infested",
+      "url": "https://open.spotify.com/track/1cEnkOGW4qXk7QIm2bAq8W"
+    },
+    {
+      "added_at": "2024-07-23 22:03:40",
+      "album": {
+        "name": "Dirty Mirror Selfie / Where Blue Light Blooms",
+        "url": "https://open.spotify.com/album/2l8tR5Q0mToBh2I2U6D0w4"
+      },
+      "artists": [
+        {
+          "name": "Origami Angel",
+          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
+        }
+      ],
+      "duration_ms": 217765,
+      "name": "Dirty Mirror Selfie",
+      "url": "https://open.spotify.com/track/0k51vsfx9ard3xN3dXyzQI"
+    },
+    {
+      "added_at": "2024-07-23 16:06:05",
+      "album": {
+        "name": "GUMSHOE",
+        "url": "https://open.spotify.com/album/1Qy0NFoVd7ia9Ir8Fya8Cx"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Poindexter",
+          "url": "https://open.spotify.com/artist/5vMbZePneBfRUDZhrIRFZ5"
+        }
+      ],
+      "duration_ms": 278823,
+      "name": "GUMSHOE",
+      "url": "https://open.spotify.com/track/0uATv7UfsWv4WuDbcq8MQ2"
+    },
+    {
+      "added_at": "2024-07-23 22:03:40",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/7HzSQEYUcBxyZyASryOgCf"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        }
+      ],
+      "duration_ms": 242870,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/24dCUervPkm3G8qqv50CWv"
+    },
+    {
+      "added_at": "2024-07-23 04:07:00",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/3l6bHqTEHjuyS5QWhFNN2d"
+      },
+      "artists": [
+        {
+          "name": "Rejjie Snow",
+          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
+        },
+        {
+          "name": "Dana Williams",
+          "url": "https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL"
+        }
+      ],
+      "duration_ms": 152533,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/19fy76vOEUfIIVuWmGHaAu"
+    },
+    {
+      "added_at": "2024-07-23 22:03:40",
+      "album": {
+        "name": "myron",
+        "url": "https://open.spotify.com/album/6gMs7YSpvrtaDLYBAQ7gIv"
+      },
+      "artists": [
+        {
+          "name": "Jahhlu",
+          "url": "https://open.spotify.com/artist/1tJMWhiAkVXu3t60d1uIxU"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "myron",
+      "url": "https://open.spotify.com/track/5jNcrEQDPB8SLmTu1CoKlQ"
+    },
+    {
+      "added_at": "2024-07-23 16:06:05",
+      "album": {
+        "name": "fine print",
+        "url": "https://open.spotify.com/album/2XhQW0H9sVSzQ82JJ9m1wJ"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "fine print",
+      "url": "https://open.spotify.com/track/5DaioYi0j9yvJu56KE7FYl"
     },
     {
       "added_at": "2024-07-22 17:50:06",
@@ -77,6 +257,26 @@
       "url": "https://open.spotify.com/track/78mmybAyBjnyXeCt5fh7r0"
     },
     {
+      "added_at": "2024-07-23 16:06:05",
+      "album": {
+        "name": "Did It First (Versions)",
+        "url": "https://open.spotify.com/album/3f03Eeo101K3TYBEbbagYt"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 118002,
+      "name": "Did It First (with Central Cee)",
+      "url": "https://open.spotify.com/track/6mzsSPBLhMww8up0MCYFeb"
+    },
+    {
       "added_at": "2024-07-22 17:50:06",
       "album": {
         "name": "Pyroclastic",
@@ -97,24 +297,72 @@
       "url": "https://open.spotify.com/track/1xcPjGqDvj0ftzVficnBbB"
     },
     {
-      "added_at": "2024-07-22 17:50:06",
+      "added_at": "2024-07-22 22:03:28",
       "album": {
-        "name": "\u3064\u3088\u304c\u308b\u30ac\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/2udxqBTrnKaqPzRLzC5w9K"
+        "name": "Beyond the Raindrops",
+        "url": "https://open.spotify.com/album/3THRUCUoif0D9Ru6bBFqYu"
       },
       "artists": [
         {
-          "name": "\u307c\u3063\u3061\u307c\u308d\u307e\u308b",
-          "url": "https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo"
-        },
-        {
-          "name": "\u3082\u3063\u3055",
-          "url": "https://open.spotify.com/artist/7a7uhcdZvYg4IGcD9tUB3g"
+          "name": "envy",
+          "url": "https://open.spotify.com/artist/0CfjW2VuMdrhWodHtG7DWi"
         }
       ],
-      "duration_ms": 189466,
-      "name": "\u3064\u3088\u304c\u308b\u30ac\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/3GxZpsOr0vFZfU30PYULgU"
+      "duration_ms": 321003,
+      "name": "Beyond the Raindrops",
+      "url": "https://open.spotify.com/track/3hnDvAqMLJkyT3UP52WMEC"
+    },
+    {
+      "added_at": "2024-07-23 04:07:00",
+      "album": {
+        "name": "Like a Mack",
+        "url": "https://open.spotify.com/album/4JZaRpq2p62Lstkcxn86GQ"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 125843,
+      "name": "Like a Mack",
+      "url": "https://open.spotify.com/track/3qoB1rLHEwLqZ08LGYVC1L"
+    },
+    {
+      "added_at": "2024-07-23 16:06:05",
+      "album": {
+        "name": "MAMA POWTARZA\u0141A",
+        "url": "https://open.spotify.com/album/5BxZauvVwPhsl0xyTpkcOK"
+      },
+      "artists": [
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        }
+      ],
+      "duration_ms": 202001,
+      "name": "MAMA POWTARZA\u0141A",
+      "url": "https://open.spotify.com/track/0K6thngxWrsspm5kzKgFCR"
+    },
+    {
+      "added_at": "2024-07-22 17:50:06",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/3VQnrU5KGvjs1Fqzuo3E1C"
+      },
+      "artists": [
+        {
+          "name": "Cryogeyser",
+          "url": "https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ"
+        }
+      ],
+      "duration_ms": 176761,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/75z6Zk55dQrjxAnuAlmurY"
     },
     {
       "added_at": "2024-07-22 17:50:06",
@@ -131,22 +379,6 @@
       "duration_ms": 173835,
       "name": "UTuber",
       "url": "https://open.spotify.com/track/3AlzjEBOrTE0hRJVeNmCzC"
-    },
-    {
-      "added_at": "2024-07-22 17:50:06",
-      "album": {
-        "name": "Weak warriors with broken wings",
-        "url": "https://open.spotify.com/album/4Qywpf69QQHlhVZKCy4bSY"
-      },
-      "artists": [
-        {
-          "name": "UPIKO",
-          "url": "https://open.spotify.com/artist/5C5L6loDkixk21Pcp1CQiy"
-        }
-      ],
-      "duration_ms": 264571,
-      "name": "Weak warriors with broken wings",
-      "url": "https://open.spotify.com/track/6F6v1uCJlyff1oC1x9sWpc"
     },
     {
       "added_at": "2024-07-20 10:02:07",
@@ -375,6 +607,22 @@
     {
       "added_at": "2024-07-19 16:02:49",
       "album": {
+        "name": "MUD",
+        "url": "https://open.spotify.com/album/2n5Xis2doysiKlNtSoY6ZV"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 190858,
+      "name": "MUD",
+      "url": "https://open.spotify.com/track/3WNXHyqT7xlsxZEXbi9jYg"
+    },
+    {
+      "added_at": "2024-07-19 16:02:49",
+      "album": {
         "name": "I Am Happy",
         "url": "https://open.spotify.com/album/2j3UeoEWrTnc6PVVbfBe6F"
       },
@@ -391,22 +639,6 @@
       "duration_ms": 182893,
       "name": "I Am Happy",
       "url": "https://open.spotify.com/track/5nDwo3rYfPVzKTxFX7JBRy"
-    },
-    {
-      "added_at": "2024-07-19 16:02:49",
-      "album": {
-        "name": "MUD",
-        "url": "https://open.spotify.com/album/2n5Xis2doysiKlNtSoY6ZV"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 190858,
-      "name": "MUD",
-      "url": "https://open.spotify.com/track/3WNXHyqT7xlsxZEXbi9jYg"
     },
     {
       "added_at": "2024-07-20 17:33:32",
@@ -457,46 +689,6 @@
       "url": "https://open.spotify.com/track/4wmDMvjvjddgK17lnOYuvb"
     },
     {
-      "added_at": "2024-07-19 10:03:06",
-      "album": {
-        "name": "Illusion (Logic1000 Remix)",
-        "url": "https://open.spotify.com/album/20I8LVWu4gPzIp8nx6qN7s"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        }
-      ],
-      "duration_ms": 199348,
-      "name": "Illusion - Logic1000 Remix",
-      "url": "https://open.spotify.com/track/04gTPxwdukWGOpR2TO5e2t"
-    },
-    {
-      "added_at": "2024-07-20 17:33:32",
-      "album": {
-        "name": "FUGGIT 10 MINUTE SONG!",
-        "url": "https://open.spotify.com/album/2khF7zDzOObd1pI6eSe9xw"
-      },
-      "artists": [
-        {
-          "name": "ISSBROKIE",
-          "url": "https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI"
-        },
-        {
-          "name": "Lil Darkie",
-          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
-        }
-      ],
-      "duration_ms": 598776,
-      "name": "FUGGIT 10 MINUTE SONG!",
-      "url": "https://open.spotify.com/track/6lCmf56ymp9OFJDjt0SgHl"
-    },
-    {
       "added_at": "2024-07-20 17:33:32",
       "album": {
         "name": "Don't Let My Boyfriend Get In Your Way",
@@ -527,6 +719,46 @@
       "duration_ms": 180034,
       "name": "Shifter",
       "url": "https://open.spotify.com/track/4AxRMLSbCygXGVeyjGbKJB"
+    },
+    {
+      "added_at": "2024-07-20 17:33:32",
+      "album": {
+        "name": "FUGGIT 10 MINUTE SONG!",
+        "url": "https://open.spotify.com/album/2khF7zDzOObd1pI6eSe9xw"
+      },
+      "artists": [
+        {
+          "name": "ISSBROKIE",
+          "url": "https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI"
+        },
+        {
+          "name": "Lil Darkie",
+          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
+        }
+      ],
+      "duration_ms": 598776,
+      "name": "FUGGIT 10 MINUTE SONG!",
+      "url": "https://open.spotify.com/track/6lCmf56ymp9OFJDjt0SgHl"
+    },
+    {
+      "added_at": "2024-07-19 10:03:06",
+      "album": {
+        "name": "Illusion (Logic1000 Remix)",
+        "url": "https://open.spotify.com/album/20I8LVWu4gPzIp8nx6qN7s"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "duration_ms": 199348,
+      "name": "Illusion - Logic1000 Remix",
+      "url": "https://open.spotify.com/track/04gTPxwdukWGOpR2TO5e2t"
     },
     {
       "added_at": "2024-07-19 10:03:06",
@@ -563,22 +795,6 @@
     {
       "added_at": "2024-07-19 16:02:49",
       "album": {
-        "name": "Good Riddance",
-        "url": "https://open.spotify.com/album/6LsUmHRz2GZ9eKbETHBlSh"
-      },
-      "artists": [
-        {
-          "name": "Alexa Cappelli",
-          "url": "https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x"
-        }
-      ],
-      "duration_ms": 168483,
-      "name": "Good Riddance",
-      "url": "https://open.spotify.com/track/6griwc1RjYP1BxnzTkxnqO"
-    },
-    {
-      "added_at": "2024-07-19 16:02:49",
-      "album": {
         "name": "Dip",
         "url": "https://open.spotify.com/album/4pZVmvkynk0jJFVAAK7V2c"
       },
@@ -593,20 +809,20 @@
       "url": "https://open.spotify.com/track/7ttAbCCBNE5FXpHMZkyVxH"
     },
     {
-      "added_at": "2024-07-22 17:50:06",
+      "added_at": "2024-07-19 16:02:49",
       "album": {
-        "name": "My Toxic Friend",
-        "url": "https://open.spotify.com/album/007bMg54bPYpScHPrlOQsn"
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/6LsUmHRz2GZ9eKbETHBlSh"
       },
       "artists": [
         {
-          "name": "The Reds, Pinks and Purples",
-          "url": "https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz"
+          "name": "Alexa Cappelli",
+          "url": "https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x"
         }
       ],
-      "duration_ms": 303673,
-      "name": "New Market Space",
-      "url": "https://open.spotify.com/track/1hJXWRQeXvWEutlyDrfhWY"
+      "duration_ms": 168483,
+      "name": "Good Riddance",
+      "url": "https://open.spotify.com/track/6griwc1RjYP1BxnzTkxnqO"
     },
     {
       "added_at": "2024-07-22 17:50:06",

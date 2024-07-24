@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: beabadoobee
 
-1,914 songs - 4 day 5 hr 4 min
+1,915 songs - 4 day 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Backyard Boy](https://open.spotify.com/track/0y9fkzOaaQy4Up22BGUbIp) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [BeVerly Hills BoYfRiEnd](https://open.spotify.com/album/49iY1LaAv4G5dXAs6eyeml) | 2:09 | 2020-10-13\* | 2021-06-10 |
 | [Backyard Boy \(with Jeremy Zucker\)](https://open.spotify.com/track/4rE4qF4baoXpustrgtnFRw) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Backyard Boy](https://open.spotify.com/album/5WMJ65QC4gFIouA0SILj5P) | 2:09 | 2020-10-16 | 2021-08-13 |
 | [Bad Dream](https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Bad Dream](https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw) | 3:22 | 2021-03-15 | 2022-04-16 |
-| [Bad Dream](https://open.spotify.com/track/4G7LYlnVgPWVmjXERE8NnB) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Bad Dream](https://open.spotify.com/album/3Ksfxxd3u2IABEqECQ8UWw) | 3:30 | 2024-04-26 |  |
+| [Bad Dream](https://open.spotify.com/track/4G7LYlnVgPWVmjXERE8NnB) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Bad Dream](https://open.spotify.com/album/3Ksfxxd3u2IABEqECQ8UWw) | 3:30 | 2024-04-26 | 2024-07-24 |
 | [Bad Dream Baby](https://open.spotify.com/track/4S7misxIYuUVypO0NwDwuW) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Bad Dream Baby](https://open.spotify.com/album/1TBnwPS0Mbn5DsRNeSlvrR) | 2:58 | 2021-08-13 | 2022-05-21 |
 | [Bad Dreams](https://open.spotify.com/track/4eltigMjLozvwo9mgbPn2b) | [Olive Amun](https://open.spotify.com/artist/5pvcPGz8wKYEcV4cdXEZOv) | [Bad Dreams](https://open.spotify.com/album/5tL3J4C9wmsF5ZOAODHqCD) | 2:55 | 2021-05-07 | 2021-05-19 |
 | [Bad For Me](https://open.spotify.com/track/7tmj8qKBJaZwBtB6k6TYng) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Bad For Me](https://open.spotify.com/album/16TDIAl7bMnkzXHnaqU2Y7) | 2:38 | 2021-10-14 | 2021-10-16 |
@@ -1456,6 +1456,7 @@
 | [Scream Drive Faster](https://open.spotify.com/track/4CBfY6tYGrm6o5wluoPKaT) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Scream Drive Faster](https://open.spotify.com/album/2Sr4PjxeH0SrquSDMPZF7m) | 4:00 | 2020-10-13\* | 2022-04-15 |
 | [Screw Time](https://open.spotify.com/track/041KVEd5BQnsyZKdqdmE0r) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Screw Time](https://open.spotify.com/album/3XuJ6wvVTZyiMslESPVRJ7) | 3:05 | 2023-07-14 | 2023-11-08 |
 | [Screws](https://open.spotify.com/track/4xTdNpAQ31dPOEvXtRKoby) | [The Foxies](https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd) | [Screws](https://open.spotify.com/album/6PpubUco4WyCQk51U4gtW7) | 2:45 | 2021-05-12 | 2021-10-16 |
+| [Scumbag](https://open.spotify.com/track/5NJQHLtg873KNDOUJS6Ga0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 3:03 | 2024-07-19 |  |
 | [seaside\_demo](https://open.spotify.com/track/73M0rMVx5CWE8M4uATSsto) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [seaside\_demo](https://open.spotify.com/album/4FzvipXCsh9Ho8aujaOkLs) | 2:12 | 2021-06-02 | 2022-04-07 |
 | [Seasons Bloom](https://open.spotify.com/track/1VhnwVLbrEynUIo8VdyBT9) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Simple, Sweet, and Smiling](https://open.spotify.com/album/1nIvucMZCDVpILHipWqVHY) | 3:28 | 2021-11-12 | 2022-06-15 |
 | [Second Best](https://open.spotify.com/track/0lv7WOlLxmlGN1EJSfEWKM) | [Younger Hunger](https://open.spotify.com/artist/6Irs7fI5Xuwhx38JhtarDu) | [Second Best](https://open.spotify.com/album/5mth0C4ZLAzNRhNdTH31V9) | 3:48 | 2020-10-20 | 2020-10-21 |

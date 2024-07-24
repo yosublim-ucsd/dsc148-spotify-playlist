@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,461 likes - 75 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,471 likes - 75 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 5 | [Higher State of Consciousness \- Tweekin Acid Funk](https://open.spotify.com/track/3j8MepYimsCw55JuRz7ZuD) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [Higher State Of Consciousness](https://open.spotify.com/album/4htflXo3O3hAac1OzNiz0S) | 6:17 |
 | 6 | [Beautiful People \- Underground Network Mix](https://open.spotify.com/track/6WnWvRVzXJWEHxkhDKmt8u) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Beautiful People \(Remixes\)](https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN) | 9:06 |
 | 7 | [House Of Love \- Love Mix](https://open.spotify.com/track/4bvxaVUSKV2fJXQUDwaLCX) | [Smooth Touch](https://open.spotify.com/artist/5h2vIb1P2w4idUI6kCFLT7) | [House Of Love](https://open.spotify.com/album/0UnVmFFjZJDh2o1OktIy60) | 4:51 |
-| 8 | [Blues For You \- Hard Dub](https://open.spotify.com/track/1ooV7Bm7ahkeWzKNwiLItL) | [Logic](https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC) | [Blues for You \(Remixes\)](https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU) | 4:29 |
-| 9 | [\(Who?\) Keeps Changing Your Mind? \- The Night Mix](https://open.spotify.com/track/5XrnMnFLf7sQ6R9nRXIAGS) | [South Street Player](https://open.spotify.com/artist/2KnAxJh4OfnNG3Db0Ueway) | [\(Who?\) Keeps Changing Your Mind](https://open.spotify.com/album/1dHGk4t778mMsQ02eHNFR1) | 7:40 |
+| 8 | [\(Who?\) Keeps Changing Your Mind? \- The Night Mix](https://open.spotify.com/track/5XrnMnFLf7sQ6R9nRXIAGS) | [South Street Player](https://open.spotify.com/artist/2KnAxJh4OfnNG3Db0Ueway) | [\(Who?\) Keeps Changing Your Mind](https://open.spotify.com/album/1dHGk4t778mMsQ02eHNFR1) | 7:40 |
+| 9 | [Blues For You \- Hard Dub](https://open.spotify.com/track/1ooV7Bm7ahkeWzKNwiLItL) | [Logic](https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC) | [Blues for You \(Remixes\)](https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU) | 4:29 |
 | 10 | [Equinox \- Henrik Schwarz Remix](https://open.spotify.com/track/2igWooAsZ36Kc7UjnfXMbl) | [Code 718](https://open.spotify.com/artist/4kSrRAfjG8flVU9ITYpVkW), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R) | [Equinox](https://open.spotify.com/album/33ohUpcVhPSPoxlUUCE2Jb) | 6:08 |
 | 11 | [Zulu \- Change Mix](https://open.spotify.com/track/3bnX6J2heDwJcMW01WYupB) | [Circle Children](https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP) | [Zulu](https://open.spotify.com/album/4af9t45AsFlQR6CgWTsYqn) | 7:54 |
 | 12 | [Wanna Be Your Girl \- A 'G' Thang Mix](https://open.spotify.com/track/1kTbLVpJoP0QzMhf4ZoUfH) | [Raw Power](https://open.spotify.com/artist/5xhTAnkK8Pxq3XHGitPztd) | [The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC \(Unmixed\)](https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr) | 4:57 |

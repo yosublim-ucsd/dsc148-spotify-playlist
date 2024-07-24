@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 981939,
+  "num_followers": 982298,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpxPgAAAAABkj12ln6uPqTW2LqSegb4w",
+  "snapshot_id": "Zp2hAAAAAADLIKRTl9mlvuDxRdXofDFe",
   "tracks": [
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Roto (En Vivo)",
+        "url": "https://open.spotify.com/album/27s5ZMaL6YlRmV1DIeIONb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 193237,
+      "name": "El Roto - En Vivo",
+      "url": "https://open.spotify.com/track/21bfgzz92T3L96IsFn8Kvy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La M\u00e1s Guapa",
         "url": "https://open.spotify.com/album/1hB9uAmLvJccFMQWP71njp"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 161739,
       "name": "La M\u00e1s Guapa",
       "url": "https://open.spotify.com/track/6BoTME0qMxPFnVJMQqyZji"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Roto (En Vivo)",
-        "url": "https://open.spotify.com/album/27s5ZMaL6YlRmV1DIeIONb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 193237,
-      "name": "El Roto - En Vivo",
-      "url": "https://open.spotify.com/track/21bfgzz92T3L96IsFn8Kvy"
     },
     {
       "added_at": null,

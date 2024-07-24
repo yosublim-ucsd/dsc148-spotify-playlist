@@ -2,7 +2,7 @@
 
 ### [Telugu Indie](https://open.spotify.com/playlist/37i9dQZF1DX3I9bqAkK5Dr)
 
-> Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi
+> Check out the emerging independent tracks from these Telugu Artists!! Cover : Jammers
 
 267 songs - 16 hr 12 min
 

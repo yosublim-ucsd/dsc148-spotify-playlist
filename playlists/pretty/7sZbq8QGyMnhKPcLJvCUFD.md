@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 733,421 likes - 102 songs - 5 hr 2 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 733,414 likes - 103 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,5 +110,6 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 100 | [Devil](https://open.spotify.com/track/5mn6mZIHIQF6sl3KCkMtIY) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Devil](https://open.spotify.com/album/54WiyGQ7TL7nqIPoh1ieF8) | 4:01 |
 | 101 | [Love U](https://open.spotify.com/track/7qKXidnk1oaOl0DKAobGib) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Keep](https://open.spotify.com/album/11gPSu8vh1e4velnMh8VOr) | 3:58 |
 | 102 | [Done Better](https://open.spotify.com/track/3wl77mkSw6UVa0ciUKB6xS) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Done Better](https://open.spotify.com/album/2IM4meQQN3QrdA3Mfv63kh) | 2:50 |
+| 103 | [Symphony](https://open.spotify.com/track/47L9mzy5YvKHGrU6fmujA0) | [Lionis](https://open.spotify.com/artist/3eXXvm84tqwv5FhYoHdWzh), [Revaeon](https://open.spotify.com/artist/1NubCpQK9Tz3JEIm4UhrUC), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Symphony](https://open.spotify.com/album/4WP7RAUrGTL6cbhDhawjRh) | 2:36 |
 
-Snapshot ID: `AAAW0U3q3FB9ddC9COJK+Ux/HFiz15DM`
+Snapshot ID: `AAAW0kgQ+yMylUG3ghhsbrBjo4krI84j`

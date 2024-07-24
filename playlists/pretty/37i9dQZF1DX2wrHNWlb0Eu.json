@@ -1,6 +1,6 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e43\u0e19\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49 #\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
-  "num_followers": 107152,
+  "num_followers": 107174,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-07-15 06:01:40",
       "album": {
-        "name": "Uprising",
-        "url": "https://open.spotify.com/album/4HusBQo7V60wRjyJelOr7X"
-      },
-      "artists": [
-        {
-          "name": "Musketeers",
-          "url": "https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9"
-        }
-      ],
-      "duration_ms": 238392,
-      "name": "\u0e41\u0e04\u0e48\u0e04\u0e38\u0e13",
-      "url": "https://open.spotify.com/track/5u8iqPNTa3ryOqeiNdgi6o"
-    },
-    {
-      "added_at": "2024-07-15 06:01:40",
-      "album": {
         "name": "\u0e08\u0e33\u0e40\u0e25\u0e22\u0e23\u0e31\u0e01 (Defendant Of Love)",
         "url": "https://open.spotify.com/album/2p0R4ghsLELqioczIewTFH"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 264000,
       "name": "\u0e08\u0e33\u0e40\u0e25\u0e22\u0e23\u0e31\u0e01 - Defendant Of Love",
       "url": "https://open.spotify.com/track/0AGhwXsWpVOwjHY5yf4dtD"
+    },
+    {
+      "added_at": "2024-07-15 06:01:40",
+      "album": {
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/4HusBQo7V60wRjyJelOr7X"
+      },
+      "artists": [
+        {
+          "name": "Musketeers",
+          "url": "https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9"
+        }
+      ],
+      "duration_ms": 238392,
+      "name": "\u0e41\u0e04\u0e48\u0e04\u0e38\u0e13",
+      "url": "https://open.spotify.com/track/5u8iqPNTa3ryOqeiNdgi6o"
     },
     {
       "added_at": "2024-07-15 06:01:40",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-07-15 06:01:40",
       "album": {
-        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01 (Hook) - Single",
-        "url": "https://open.spotify.com/album/6HxDXm6KhHnGo7ceZniiXS"
-      },
-      "artists": [
-        {
-          "name": "GEMINI",
-          "url": "https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei"
-        }
-      ],
-      "duration_ms": 255957,
-      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01 (Hook) (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e41\u0e1f\u0e19\u0e1c\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19 My School President)",
-      "url": "https://open.spotify.com/track/3IPNXwdcnW8WSMvUPl66hI"
-    },
-    {
-      "added_at": "2024-07-15 06:01:40",
-      "album": {
         "name": "\u0e1e\u0e1a\u0e23\u0e31\u0e01",
         "url": "https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs"
       },
@@ -435,18 +419,18 @@
     {
       "added_at": "2024-07-15 06:01:40",
       "album": {
-        "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
-        "url": "https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy"
+        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01 (Hook) - Single",
+        "url": "https://open.spotify.com/album/6HxDXm6KhHnGo7ceZniiXS"
       },
       "artists": [
         {
-          "name": "URBOYTJ",
-          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei"
         }
       ],
-      "duration_ms": 191392,
-      "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
-      "url": "https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy"
+      "duration_ms": 255957,
+      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01 (Hook) (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e41\u0e1f\u0e19\u0e1c\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19 My School President)",
+      "url": "https://open.spotify.com/track/3IPNXwdcnW8WSMvUPl66hI"
     },
     {
       "added_at": "2024-07-15 06:01:40",
@@ -463,6 +447,22 @@
       "duration_ms": 242154,
       "name": "Sunkissed",
       "url": "https://open.spotify.com/track/52h8p62Jx8KzQynM6heq7n"
+    },
+    {
+      "added_at": "2024-07-15 06:01:40",
+      "album": {
+        "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
+        "url": "https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy"
+      },
+      "artists": [
+        {
+          "name": "URBOYTJ",
+          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
+        }
+      ],
+      "duration_ms": 191392,
+      "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
+      "url": "https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy"
     },
     {
       "added_at": "2024-07-15 06:01:40",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-07-15 06:01:40",
       "album": {
+        "name": "Onlyfan",
+        "url": "https://open.spotify.com/album/50SYtRSfmgAulnJCvzsYZi"
+      },
+      "artists": [
+        {
+          "name": "The Parkinson",
+          "url": "https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Onlyfan",
+      "url": "https://open.spotify.com/track/79qhHPvit6BeOVu2wNnLgJ"
+    },
+    {
+      "added_at": "2024-07-15 06:01:40",
+      "album": {
         "name": "\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23\u0e1e\u0e38\u0e18\u0e1e\u0e24\u0e2b\u0e31\u0e2a\u0e28\u0e38\u0e01\u0e23\u0e4c\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c (Everyday)",
         "url": "https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 155862,
       "name": "\u0e15\u0e31\u0e49\u0e07\u0e43\u0e08\u0e23\u0e31\u0e01 (happy accident)",
       "url": "https://open.spotify.com/track/6LXKd4e0i2EPLh86GWvWOE"
-    },
-    {
-      "added_at": "2024-07-15 06:01:40",
-      "album": {
-        "name": "Onlyfan",
-        "url": "https://open.spotify.com/album/50SYtRSfmgAulnJCvzsYZi"
-      },
-      "artists": [
-        {
-          "name": "The Parkinson",
-          "url": "https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Onlyfan",
-      "url": "https://open.spotify.com/track/79qhHPvit6BeOVu2wNnLgJ"
     },
     {
       "added_at": "2024-07-15 06:01:40",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-07-15 06:01:40",
       "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19",
+        "url": "https://open.spotify.com/album/6mf2j6MQai90zgSl0hTYbn"
+      },
+      "artists": [
+        {
+          "name": "PONCHET",
+          "url": "https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr"
+        }
+      ],
+      "duration_ms": 217899,
+      "name": "\u0e23\u0e31\u0e01\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19",
+      "url": "https://open.spotify.com/track/1jDtb5VfsCC0Uoipn641qB"
+    },
+    {
+      "added_at": "2024-07-15 06:01:40",
+      "album": {
         "name": "\u0e2a\u0e34\u0e48\u0e07\u0e40\u0e25\u0e47\u0e01\u0e19\u0e49\u0e2d\u0e22 (LESS IS MORE)",
         "url": "https://open.spotify.com/album/3KBZ0ZGAQOH2dcz2MI51xk"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 246434,
       "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 OST.\u0e1a\u0e38\u0e1e\u0e40\u0e1e\u0e2a\u0e31\u0e19\u0e19\u0e34\u0e27\u0e32\u0e2a 2",
       "url": "https://open.spotify.com/track/6GDIW3Le2tM0hMWD3pvefH"
-    },
-    {
-      "added_at": "2024-07-15 06:01:40",
-      "album": {
-        "name": "\u0e23\u0e31\u0e01\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19",
-        "url": "https://open.spotify.com/album/6mf2j6MQai90zgSl0hTYbn"
-      },
-      "artists": [
-        {
-          "name": "PONCHET",
-          "url": "https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr"
-        }
-      ],
-      "duration_ms": 217899,
-      "name": "\u0e23\u0e31\u0e01\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19",
-      "url": "https://open.spotify.com/track/1jDtb5VfsCC0Uoipn641qB"
     },
     {
       "added_at": "2024-07-15 06:01:40",
@@ -975,26 +975,6 @@
     {
       "added_at": "2024-07-15 06:01:40",
       "album": {
-        "name": "\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e25\u0e49\u0e32\u0e19",
-        "url": "https://open.spotify.com/album/1J4dG82e0Pln7i5PxodQuV"
-      },
-      "artists": [
-        {
-          "name": "Kinkaworn",
-          "url": "https://open.spotify.com/artist/3UinDJmeOYHabAbh1SZadg"
-        },
-        {
-          "name": "BELL WARISARA",
-          "url": "https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY"
-        }
-      ],
-      "duration_ms": 198787,
-      "name": "\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e25\u0e49\u0e32\u0e19",
-      "url": "https://open.spotify.com/track/0h5J891lpMTlU4o6oPg3VJ"
-    },
-    {
-      "added_at": "2024-07-15 06:01:40",
-      "album": {
         "name": "\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e40\u0e23\u0e32",
         "url": "https://open.spotify.com/album/2XWxn9NFOs09U5PjNi85DF"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 212500,
       "name": "\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e40\u0e23\u0e32",
       "url": "https://open.spotify.com/track/32QmhtvBdGRbgijNhpLlOu"
+    },
+    {
+      "added_at": "2024-07-15 06:01:40",
+      "album": {
+        "name": "\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e25\u0e49\u0e32\u0e19",
+        "url": "https://open.spotify.com/album/1J4dG82e0Pln7i5PxodQuV"
+      },
+      "artists": [
+        {
+          "name": "Kinkaworn",
+          "url": "https://open.spotify.com/artist/3UinDJmeOYHabAbh1SZadg"
+        },
+        {
+          "name": "BELL WARISARA",
+          "url": "https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY"
+        }
+      ],
+      "duration_ms": 198787,
+      "name": "\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e25\u0e49\u0e32\u0e19",
+      "url": "https://open.spotify.com/track/0h5J891lpMTlU4o6oPg3VJ"
     },
     {
       "added_at": "2024-07-15 06:01:40",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-07-15 06:01:40",
       "album": {
+        "name": "\u0e40\u0e23\u0e32 - Single",
+        "url": "https://open.spotify.com/album/1DdTVigUvEMwqK6r710cZ8"
+      },
+      "artists": [
+        {
+          "name": "Cocktail",
+          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
+        }
+      ],
+      "duration_ms": 306103,
+      "name": "\u0e40\u0e23\u0e32",
+      "url": "https://open.spotify.com/track/3CCcOP9IQHVQoYIFKuS5BP"
+    },
+    {
+      "added_at": "2024-07-15 06:01:40",
+      "album": {
         "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
         "url": "https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 326326,
       "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
       "url": "https://open.spotify.com/track/5kEW70VzIYbKL7mUMV4fvH"
-    },
-    {
-      "added_at": "2024-07-15 06:01:40",
-      "album": {
-        "name": "\u0e40\u0e23\u0e32 - Single",
-        "url": "https://open.spotify.com/album/1DdTVigUvEMwqK6r710cZ8"
-      },
-      "artists": [
-        {
-          "name": "Cocktail",
-          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
-        }
-      ],
-      "duration_ms": 306103,
-      "name": "\u0e40\u0e23\u0e32",
-      "url": "https://open.spotify.com/track/3CCcOP9IQHVQoYIFKuS5BP"
     },
     {
       "added_at": "2024-07-15 06:01:40",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2024-07-15 06:01:40",
       "album": {
+        "name": "\u0e40\u0e2d\u0e34\u0e4a\u0e15 \u0e20\u0e31\u0e17\u0e23\u0e27\u0e35 (New Single 2014)",
+        "url": "https://open.spotify.com/album/3iz6z2BBom6ssqUtHYj1Bx"
+      },
+      "artists": [
+        {
+          "name": "Earth Patravee",
+          "url": "https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV"
+        },
+        {
+          "name": "Ammy The Bottom Blues",
+          "url": "https://open.spotify.com/artist/4mNN31oshOzZr3yx4aXI3n"
+        }
+      ],
+      "duration_ms": 220613,
+      "name": "YOU YOU YOU",
+      "url": "https://open.spotify.com/track/2rse2ZT8eV8MT3nuglWeEb"
+    },
+    {
+      "added_at": "2024-07-15 06:01:40",
+      "album": {
         "name": "\u0e23\u0e30\u0e2b\u0e27\u0e48\u0e32\u0e07\u0e17\u0e32\u0e07 (Good Time) - Single",
         "url": "https://open.spotify.com/album/19zRl5NJ2IH7wvNdRegoHY"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 215485,
       "name": "\u0e2b\u0e32\u0e01\u0e40\u0e18\u0e2d\u0e40\u0e04\u0e22\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23 (IF YOU LOVE)",
       "url": "https://open.spotify.com/track/08OtCoRVu0sHp8dmCddtvg"
-    },
-    {
-      "added_at": "2024-07-15 06:01:40",
-      "album": {
-        "name": "\u0e40\u0e2d\u0e34\u0e4a\u0e15 \u0e20\u0e31\u0e17\u0e23\u0e27\u0e35 (New Single 2014)",
-        "url": "https://open.spotify.com/album/3iz6z2BBom6ssqUtHYj1Bx"
-      },
-      "artists": [
-        {
-          "name": "Earth Patravee",
-          "url": "https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV"
-        },
-        {
-          "name": "Ammy The Bottom Blues",
-          "url": "https://open.spotify.com/artist/4mNN31oshOzZr3yx4aXI3n"
-        }
-      ],
-      "duration_ms": 220613,
-      "name": "YOU YOU YOU",
-      "url": "https://open.spotify.com/track/2rse2ZT8eV8MT3nuglWeEb"
     },
     {
       "added_at": "2024-07-15 06:01:40",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-07-15 06:01:40",
       "album": {
-        "name": "\u0e23\u0e2d",
-        "url": "https://open.spotify.com/album/3vW7yJhsN0dWG2tuApv8EW"
-      },
-      "artists": [
-        {
-          "name": "Basketband",
-          "url": "https://open.spotify.com/artist/0x6cwE90aYe5YXaImt5MQj"
-        }
-      ],
-      "duration_ms": 216160,
-      "name": "\u0e23\u0e2d",
-      "url": "https://open.spotify.com/track/72hhTWu9CZwZan3iC3U3DS"
-    },
-    {
-      "added_at": "2024-07-15 06:01:40",
-      "album": {
         "name": "All You Need is Love 3",
         "url": "https://open.spotify.com/album/5mv8MrHfjarF9xeT1DHSpD"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 280779,
       "name": "\u0e01\u0e30\u0e17\u0e31\u0e19\u0e2b\u0e31\u0e19",
       "url": "https://open.spotify.com/track/71rZCPjOAU8WBlXYPHNgRu"
+    },
+    {
+      "added_at": "2024-07-15 06:01:40",
+      "album": {
+        "name": "\u0e23\u0e2d",
+        "url": "https://open.spotify.com/album/3vW7yJhsN0dWG2tuApv8EW"
+      },
+      "artists": [
+        {
+          "name": "Basketband",
+          "url": "https://open.spotify.com/artist/0x6cwE90aYe5YXaImt5MQj"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "\u0e23\u0e2d",
+      "url": "https://open.spotify.com/track/72hhTWu9CZwZan3iC3U3DS"
     },
     {
       "added_at": "2024-07-15 06:01:40",

@@ -4,7 +4,7 @@
 
 > 
 
-530 songs - 1 day 3 hr 18 min
+531 songs - 1 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Could Be You \(feat\. Danny Dearden\)](https://open.spotify.com/track/4UIUaKFABiomFavFdKOwMb) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [Danny Dearden](https://open.spotify.com/artist/52kE0a8ilvPQop3NN7tplj) | [Could Be You \(feat\. Danny Dearden\)](https://open.spotify.com/album/1K5fNuI3Pib5TI1VDOu4FL) | 2:50 | 2022-06-20 | 2022-06-29 |
 | [Dance In Chicago](https://open.spotify.com/track/6XFaXY1ebnpXi19CSnwO3W) | [BRANDON](https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY) | [Dance In Chicago](https://open.spotify.com/album/1Rx2SbmHXaMwuESq3l1a2s) | 2:39 | 2024-01-12 | 2024-01-18 |
 | [Dance with My Ghost \(feat\. Elderbrook\)](https://open.spotify.com/track/6lQzNJLgIn4uEK4NUMUcjv) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Dark Matter](https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN) | 4:06 | 2022-12-31 | 2023-09-08 |
+| [Dance With U](https://open.spotify.com/track/738jDvFSN21q5Y54TgiFoR) | [NewEra](https://open.spotify.com/artist/4QLa9DWZEpFrBhNG5UWXF1) | [Dance With U](https://open.spotify.com/album/1HAp0pFi7vI0aIsG996Vo9) | 1:58 | 2024-07-19 |  |
 | [Dancing is Healing](https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp) | 2:57 | 2024-02-23 |  |
 | [Day By Day](https://open.spotify.com/track/3mMWre0KnZ4aPuhZF62KmV) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Day By Day](https://open.spotify.com/album/4M3rsAYpJxIVXqYHxylljj) | 2:48 | 2022-04-15 | 2024-02-23 |
 | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 | 2022-08-22 | 2023-09-22 |
@@ -463,7 +464,7 @@
 | [The Chant](https://open.spotify.com/track/7FuOr01j61l7nBgENXfOIX) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [The Chant](https://open.spotify.com/album/1GpeWllT96Qv0UHDSz8tRb) | 3:06 | 2023-10-06 | 2024-02-23 |
 | [The Chant \- Majestic Remix](https://open.spotify.com/track/53uh4ooi1x2Tcp2AdDZ7nq) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [The Chant \(Majestic Remix\)](https://open.spotify.com/album/5E6OoPcenl0AqK57hHtJqL) | 2:35 | 2022-04-15 | 2022-07-25 |
 | [The Edge](https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [The Edge](https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP) | 2:33 | 2024-02-23 |  |
-| [The Garden](https://open.spotify.com/track/6doL1BRkcTJtCTrdT2fKkV) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [The Garden](https://open.spotify.com/album/0U4c4E1ZSNsv5HVoJ6QR0d) | 2:41 | 2024-01-04 |  |
+| [The Garden](https://open.spotify.com/track/6doL1BRkcTJtCTrdT2fKkV) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [The Garden](https://open.spotify.com/album/0U4c4E1ZSNsv5HVoJ6QR0d) | 2:41 | 2024-01-04 | 2024-07-24 |
 | [The Music](https://open.spotify.com/track/4xfYNH75F5Ji7CJ1v0OMM9) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj), [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz) | [The Music](https://open.spotify.com/album/4msQOmIlkiNfRYacIgk0fj) | 2:26 | 2022-04-15 | 2023-11-10 |
 | [There For You](https://open.spotify.com/track/4Qv71lFPCObf7zol1uWCJb) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [There For You](https://open.spotify.com/album/6NzQodogOTKSt76iDpZgpK) | 3:06 | 2022-06-20 | 2023-09-08 |
 | [They Don't Know \- Radio Edit](https://open.spotify.com/track/3ddsRCIG5TcpytqsfTOnX1) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [They Don't Know \(Radio Edit\)](https://open.spotify.com/album/3PFPHmT6f2Meat5xuT42MV) | 2:41 | 2023-09-22 |  |

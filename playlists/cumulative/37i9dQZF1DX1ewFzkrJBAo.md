@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [BOHBO No.5](https://open.spotify.com/track/4jB4evySIDhpLAAy7CFSom) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [キラーストリート](https://open.spotify.com/album/5j3eLtL3zb0RzC89iP1sSC) | 4:58 | 2023-07-20 |  |
 | [Bongiri koiuta](https://open.spotify.com/track/0POtzhZLoUX2bsFatFD4rD) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Bongiri koiuta](https://open.spotify.com/album/7bUQB59SHqlbzJsHg4lRlM) | 4:19 | 2023-07-20 | 2024-04-19 |
-| [BOON BOON BOON \~OUR LOVE \[MEDLEY\]](https://open.spotify.com/track/1J0MGcuzEFudeS1i2evGYT) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [世に万葉の花が咲くなり](https://open.spotify.com/album/1YYb9yAkqBmZ39X0gKBaXj) | 4:02 | 2023-07-20 |  |
+| [BOON BOON BOON　～OUR LOVE　［MEDLEY］](https://open.spotify.com/track/1J0MGcuzEFudeS1i2evGYT) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [世に万葉の花が咲くなり](https://open.spotify.com/album/1YYb9yAkqBmZ39X0gKBaXj) | 4:02 | 2023-07-20 |  |
 | [Brown Cherry](https://open.spotify.com/track/1LAgsnHyIwH7WtNXU7Dgfq) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [KAMAKURA](https://open.spotify.com/album/2JydGhmXdCjLhXzGQ5zGeu) | 4:08 | 2023-07-20 |  |
 | [CRY 哀 CRY](https://open.spotify.com/track/0vCt7JnZp5UcTOyDJH5y7m) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [PARADISE](https://open.spotify.com/album/2umUDsiFYFUhRIKMWL9Hvt) | 4:58 | 2023-07-20 |  |
 | [GIMME SOME LOVIN'\~生命果てるまで\~](https://open.spotify.com/track/63QNAU7TOlDqSrOSBGa29O) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [さくら](https://open.spotify.com/album/2vN0H9o2yOh10rC7Wj0ua4) | 4:03 | 2023-07-20 |  |

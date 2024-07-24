@@ -1,12 +1,12 @@
 {
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
-  "num_followers": 733421,
+  "num_followers": 733414,
   "original_name": "NCS Releases",
   "owner": {
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "AAAW0U3q3FB9ddC9COJK+Ux/HFiz15DM",
+  "snapshot_id": "AAAW0kgQ+yMylUG3ghhsbrBjo4krI84j",
   "tracks": [
     {
       "added_at": "2024-07-18 10:34:46",
@@ -1883,6 +1883,30 @@
       "duration_ms": 170583,
       "name": "Done Better",
       "url": "https://open.spotify.com/track/3wl77mkSw6UVa0ciUKB6xS"
+    },
+    {
+      "added_at": "2024-07-23 13:10:43",
+      "album": {
+        "name": "Symphony",
+        "url": "https://open.spotify.com/album/4WP7RAUrGTL6cbhDhawjRh"
+      },
+      "artists": [
+        {
+          "name": "Lionis",
+          "url": "https://open.spotify.com/artist/3eXXvm84tqwv5FhYoHdWzh"
+        },
+        {
+          "name": "Revaeon",
+          "url": "https://open.spotify.com/artist/1NubCpQK9Tz3JEIm4UhrUC"
+        },
+        {
+          "name": "Barmuda",
+          "url": "https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM"
+        }
+      ],
+      "duration_ms": 156093,
+      "name": "Symphony",
+      "url": "https://open.spotify.com/track/47L9mzy5YvKHGrU6fmujA0"
     }
   ],
   "unique_name": "NCS Releases",

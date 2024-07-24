@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Vũ Cát Tường
+> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Felix Jaehn
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,084,961 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,084,918 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Từng Là](https://open.spotify.com/track/2xOhv7XudrBDtkID1jwsFE) | [Vũ Cát Tường](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Từng Là](https://open.spotify.com/album/65MihXBPwne3POZrzkrrYv) | 4:12 |
+| 1 | [Ready For Your Love](https://open.spotify.com/track/3Kr7UHOUkgaH4PK3Mp1fUP) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Ready For Your Love](https://open.spotify.com/album/5qcOnOmMYeKDPWjsVim6Ss) | 2:39 |
 | 2 | [Reason Why \(feat\. Kim Petras and BC Kingdom\)](https://open.spotify.com/track/1I4fm6R1YbcLE3DIut2yWu) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP) | [Reason Why \(feat\. Kim Petras and BC Kingdom\)](https://open.spotify.com/album/4kepJ3GktWe5ijlknpPN88) | 3:52 |
-| 3 | [Ahead Of Myself](https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Lustre](https://open.spotify.com/album/4476oK9dDwXluywz166CT1) | 3:44 |
-| 4 | [BRAND NEW BITCH](https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [BRAND NEW BITCH](https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb) | 3:16 |
-| 5 | [HERE WE GO! \- from the Netflix film "Beverly Hills Cop: Axel F"](https://open.spotify.com/track/4xntqnsHQA93Ai8Jcyx31j) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HERE WE GO! \(from the Netflix film "Beverly Hills Cop: Axel F"\)](https://open.spotify.com/album/0g097m0P0zZhYnImicon1n) | 3:12 |
-| 6 | [Crazy Woman](https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v) | 2:48 |
-| 7 | [JOYRIDE](https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [JOYRIDE](https://open.spotify.com/album/145ynqxpTLjXrU5qvER4ea) | 2:30 |
-| 8 | [HEAT](https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [HEAT](https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG) | 3:37 |
-| 9 | [Ready For Your Love](https://open.spotify.com/track/3Kr7UHOUkgaH4PK3Mp1fUP) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Ready For Your Love](https://open.spotify.com/album/5qcOnOmMYeKDPWjsVim6Ss) | 2:39 |
+| 3 | [BRAND NEW BITCH](https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [BRAND NEW BITCH](https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb) | 3:16 |
+| 4 | [HERE WE GO! \- from the Netflix film "Beverly Hills Cop: Axel F"](https://open.spotify.com/track/4xntqnsHQA93Ai8Jcyx31j) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HERE WE GO! \(from the Netflix film "Beverly Hills Cop: Axel F"\)](https://open.spotify.com/album/0g097m0P0zZhYnImicon1n) | 3:12 |
+| 5 | [Từng Là](https://open.spotify.com/track/2xOhv7XudrBDtkID1jwsFE) | [Vũ Cát Tường](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Từng Là](https://open.spotify.com/album/65MihXBPwne3POZrzkrrYv) | 4:12 |
+| 6 | [Ahead Of Myself](https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Lustre](https://open.spotify.com/album/4476oK9dDwXluywz166CT1) | 3:44 |
+| 7 | [Crazy Woman](https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v) | 2:48 |
+| 8 | [JOYRIDE](https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [JOYRIDE](https://open.spotify.com/album/145ynqxpTLjXrU5qvER4ea) | 2:30 |
+| 9 | [HEAT](https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [HEAT](https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG) | 3:37 |
 | 10 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
 | 11 | [luv stuck](https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [luv stuck](https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5) | 2:40 |
 | 12 | [We Invented Love](https://open.spotify.com/track/3ph60TsHPtgPYiu5wTTEp6) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [atlgrandma](https://open.spotify.com/artist/359MsXnylhLWcIP444SEAu) | [We Invented Love](https://open.spotify.com/album/5pWBArie1qTnabaxWKh8e0) | 2:54 |
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 32 | [Redención](https://open.spotify.com/track/6k0j9RR6RilfL0bw64F0wk) | [Agoney](https://open.spotify.com/artist/4jKvQ93sRiKroRRaAI6Fqk) | [Redención](https://open.spotify.com/album/73rFocl011WgsCQzadxU2A) | 2:18 |
 | 33 | [True Colors](https://open.spotify.com/track/2EjCLEpEzUkt6yh3uM3Qt6) | [butaji](https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I), [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr), [MET](https://open.spotify.com/artist/4QzScFRs2N6EdhJfX74b1O) | [True Colors](https://open.spotify.com/album/2R72ja4Moh2PmLuEx1xb3F) | 3:09 |
 | 34 | [T'aggio fatto vedè](https://open.spotify.com/track/3bogKjT5U6ashXBZ0oRaZM) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Daniele Franzese](https://open.spotify.com/artist/370EsCiUQUG0uQQ8NytAPI) | [ROMANTICA](https://open.spotify.com/album/05SUDmg1DnHXwXDJxvCdyv) | 3:04 |
-| 35 | [Bastonada nos Dentes](https://open.spotify.com/track/05e2ruOLoaPqTMo9DPQZ1I) | [Filipe Sambado](https://open.spotify.com/artist/4DBnj3zFrGcRiFME23yT0q) | [Bastonada nos Dentes](https://open.spotify.com/album/0qfpP7JfJkzo3hyT73XoFO) | 3:31 |
-| 36 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 |
-| 37 | [Free](https://open.spotify.com/track/2CUS6iJi3EuVezxJa6rCvV) | [Mavi Phoenix](https://open.spotify.com/artist/0Lt05xaSe2ACmAiSkIdcSm) | [Free](https://open.spotify.com/album/5s5rhS4NoZkkogRzvXep6C) | 2:36 |
-| 38 | [Ride It](https://open.spotify.com/track/1Loai4s2ys83B8zF3SVCB8) | [Enema Stone](https://open.spotify.com/artist/0VgLX26XFn0zzUMTvsskqg), [Michael Cignarale](https://open.spotify.com/artist/7CgEx3HP2QJP3R9QMaRTip) | [Ride It](https://open.spotify.com/album/3NljK894W0iGjihYpIkgB2) | 4:00 |
-| 39 | [Us](https://open.spotify.com/track/2H5ZgMAQWLsq09AEkZyT3g) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Us](https://open.spotify.com/album/1wiNGVqtNMiziYeh8hGpb1) | 3:47 |
-| 40 | [Mai fermi](https://open.spotify.com/track/07YWfmgmkkUDzgRsS1SBFj) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Mai fermi](https://open.spotify.com/album/3HSo1OxhQ726QU9HgVzoS9) | 3:55 |
-| 41 | [Kitty Kush](https://open.spotify.com/track/0VTOjRq2Z4DILnxPgF3VAm) | [Aisho Nakajima](https://open.spotify.com/artist/73TJEwnZTYd2p0qRbn2Pi3) | [Kitty Kush](https://open.spotify.com/album/24BgUfeQ8tVfLLAlsokZs4) | 2:21 |
-| 42 | [All The Things She Said](https://open.spotify.com/track/7iz7hkPpGX5l5umybDRYQD) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [All The Things She Said](https://open.spotify.com/album/2swOJCOKzbibXXNgngQhSD) | 2:40 |
-| 43 | [Neon Tan](https://open.spotify.com/track/1WWyKDgWX58EAQsgbzcfZR) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Neon Tan](https://open.spotify.com/album/7HsvX59vKGZsmA31aKnQqH) | 3:37 |
+| 35 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 |
+| 36 | [Free](https://open.spotify.com/track/2CUS6iJi3EuVezxJa6rCvV) | [Mavi Phoenix](https://open.spotify.com/artist/0Lt05xaSe2ACmAiSkIdcSm) | [Free](https://open.spotify.com/album/5s5rhS4NoZkkogRzvXep6C) | 2:36 |
+| 37 | [Ride It](https://open.spotify.com/track/1Loai4s2ys83B8zF3SVCB8) | [Enema Stone](https://open.spotify.com/artist/0VgLX26XFn0zzUMTvsskqg), [Michael Cignarale](https://open.spotify.com/artist/7CgEx3HP2QJP3R9QMaRTip) | [Ride It](https://open.spotify.com/album/3NljK894W0iGjihYpIkgB2) | 4:00 |
+| 38 | [Us](https://open.spotify.com/track/2H5ZgMAQWLsq09AEkZyT3g) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Us](https://open.spotify.com/album/1wiNGVqtNMiziYeh8hGpb1) | 3:47 |
+| 39 | [Mai fermi](https://open.spotify.com/track/07YWfmgmkkUDzgRsS1SBFj) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Mai fermi](https://open.spotify.com/album/3HSo1OxhQ726QU9HgVzoS9) | 3:55 |
+| 40 | [Kitty Kush](https://open.spotify.com/track/0VTOjRq2Z4DILnxPgF3VAm) | [Aisho Nakajima](https://open.spotify.com/artist/73TJEwnZTYd2p0qRbn2Pi3) | [Kitty Kush](https://open.spotify.com/album/24BgUfeQ8tVfLLAlsokZs4) | 2:21 |
+| 41 | [All The Things She Said](https://open.spotify.com/track/7iz7hkPpGX5l5umybDRYQD) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [All The Things She Said](https://open.spotify.com/album/2swOJCOKzbibXXNgngQhSD) | 2:40 |
+| 42 | [Neon Tan](https://open.spotify.com/track/1WWyKDgWX58EAQsgbzcfZR) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Neon Tan](https://open.spotify.com/album/7HsvX59vKGZsmA31aKnQqH) | 3:37 |
+| 43 | [she calls me daddy](https://open.spotify.com/track/12ZuYk6Tx3BMQIaDW6fNHI) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [she calls me daddy](https://open.spotify.com/album/52dHlZgYvDv9BVaISE95hQ) | 2:29 |
 | 44 | [Baby Steps](https://open.spotify.com/track/33nNr7ZB1HCN1fjdqPdomW) | [Matilda](https://open.spotify.com/artist/4F7wGFfIXuQUBFoxiZ9WFp) | [Baby Steps](https://open.spotify.com/album/4qZjF8ZITj8PzM3czk9xho) | 2:51 |
 | 45 | [estonovabien](https://open.spotify.com/track/0BIS2dEAuLOxAyfC1lvzsD) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [estonovabien](https://open.spotify.com/album/3v1KsYYv3bgQJujQqPuDuW) | 2:41 |
 | 46 | [Dissonance](https://open.spotify.com/track/5WFkQAuARYEAslWRkSxdke) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [Dissonance](https://open.spotify.com/album/60mupNd4ac6TbYwq7UFj7x) | 2:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [deszcz](https://open.spotify.com/track/3Po2TlXn1bcRsSujzbNkk2) | [RAF](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [romantyzuję EP](https://open.spotify.com/album/1npaNdX2BlFVJut1qvGzpR) | 2:22 |
 | 50 | [NIE ZNASZ JEJ](https://open.spotify.com/track/6h3tQYd7SQ5R24y4BSNld8) | [Elena](https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn) | [NIE ZNASZ JEJ](https://open.spotify.com/album/5Lz3RAlx009Pp3PfYGMmb1) | 2:34 |
 
-Snapshot ID: `ZpYcqgAAAACbrRjxG5nRd1MG1XWmY5iq`
+Snapshot ID: `Zp9jZgAAAAB2/cGerxpg7e52SXC1JCDz`

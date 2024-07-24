@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 66962,
+  "num_followers": 66982,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Y Su Newen Ranchero",
-        "url": "https://open.spotify.com/album/6dcawJThQiTLWdHKeUFyjA"
-      },
-      "artists": [
-        {
-          "name": "Los Pe\u00f1is del sur",
-          "url": "https://open.spotify.com/artist/2DNYcW0pAlFg6vKAKaDMdO"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "Mis Ojos Estuvieron Llorando",
-      "url": "https://open.spotify.com/track/0T9VAznUOBpYvyFsn6Lz3U"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "Ella, La Que No Quiso",
         "url": "https://open.spotify.com/album/1aGRZjZVmiEktlVsCx5lJj"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 275676,
       "name": "Ya Sup\u00e9rame",
       "url": "https://open.spotify.com/track/4iDTrmoyem5De8YZkTGIag"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "Y Su Newen Ranchero",
+        "url": "https://open.spotify.com/album/6dcawJThQiTLWdHKeUFyjA"
+      },
+      "artists": [
+        {
+          "name": "Los Pe\u00f1is del sur",
+          "url": "https://open.spotify.com/artist/2DNYcW0pAlFg6vKAKaDMdO"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Mis Ojos Estuvieron Llorando",
+      "url": "https://open.spotify.com/track/0T9VAznUOBpYvyFsn6Lz3U"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -715,26 +715,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Michelada",
-        "url": "https://open.spotify.com/album/5ROfzY597Mylv1i5xJUPzQ"
-      },
-      "artists": [
-        {
-          "name": "La Combo Tortuga",
-          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
-        },
-        {
-          "name": "Los Kuatreros Del Sur",
-          "url": "https://open.spotify.com/artist/1uf5mwjVjGlTj38TRAB4k8"
-        }
-      ],
-      "duration_ms": 162320,
-      "name": "Michelada",
-      "url": "https://open.spotify.com/track/6wXMK7J7eNmwxOoIBexT7B"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "El Intruso",
         "url": "https://open.spotify.com/album/2oFmdj1zogoYfH39ygi1lz"
       },
@@ -755,18 +735,22 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Rom\u00e1nticos De La Cumbia",
-        "url": "https://open.spotify.com/album/6kKzbk6N2ETObv20GHtUU3"
+        "name": "Michelada",
+        "url": "https://open.spotify.com/album/5ROfzY597Mylv1i5xJUPzQ"
       },
       "artists": [
         {
-          "name": "Los Supercumbieros de Galvarino",
-          "url": "https://open.spotify.com/artist/4oRCNvfODxOI6kQ8dLdcq9"
+          "name": "La Combo Tortuga",
+          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
+        },
+        {
+          "name": "Los Kuatreros Del Sur",
+          "url": "https://open.spotify.com/artist/1uf5mwjVjGlTj38TRAB4k8"
         }
       ],
-      "duration_ms": 283637,
-      "name": "L\u00e1grimas Frente Al Mar",
-      "url": "https://open.spotify.com/track/2ViguB6mM2tIdesiPtowFV"
+      "duration_ms": 162320,
+      "name": "Michelada",
+      "url": "https://open.spotify.com/track/6wXMK7J7eNmwxOoIBexT7B"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -783,6 +767,22 @@
       "duration_ms": 279840,
       "name": "Por Debajo del Agua",
       "url": "https://open.spotify.com/track/3QPfTAedVVyalXRfplJIKY"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "Rom\u00e1nticos De La Cumbia",
+        "url": "https://open.spotify.com/album/6kKzbk6N2ETObv20GHtUU3"
+      },
+      "artists": [
+        {
+          "name": "Los Supercumbieros de Galvarino",
+          "url": "https://open.spotify.com/artist/4oRCNvfODxOI6kQ8dLdcq9"
+        }
+      ],
+      "duration_ms": 283637,
+      "name": "L\u00e1grimas Frente Al Mar",
+      "url": "https://open.spotify.com/track/2ViguB6mM2tIdesiPtowFV"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "La Fiesta de Koky",
-        "url": "https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd"
-      },
-      "artists": [
-        {
-          "name": "Koky y su banda tropical ranchera",
-          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
-        }
-      ],
-      "duration_ms": 204069,
-      "name": "La Suegra",
-      "url": "https://open.spotify.com/track/0KvdmyWi1v3HaRjSM64tgo"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "Somos Infieles",
         "url": "https://open.spotify.com/album/4vNNb74WGZJl9cCWQjmrpC"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 199527,
       "name": "Somos Infieles",
       "url": "https://open.spotify.com/track/0xxqACHxwwhP4r51GmnRrU"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "La Fiesta de Koky",
+        "url": "https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd"
+      },
+      "artists": [
+        {
+          "name": "Koky y su banda tropical ranchera",
+          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
+        }
+      ],
+      "duration_ms": 204069,
+      "name": "La Suegra",
+      "url": "https://open.spotify.com/track/0KvdmyWi1v3HaRjSM64tgo"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Entre el Amor y el Odio",
-        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
-      },
-      "artists": [
-        {
-          "name": "Lupita Aguilar",
-          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
-        }
-      ],
-      "duration_ms": 188577,
-      "name": "Mi Complice",
-      "url": "https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "Alma Enamorada",
         "url": "https://open.spotify.com/album/2BoTjs0a7IgcKXQNQqJgdg"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 182317,
       "name": "M\u00e1tame a Besos",
       "url": "https://open.spotify.com/track/3ONpHZJC9UxDsWhjx04yVV"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "Entre el Amor y el Odio",
+        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
+      },
+      "artists": [
+        {
+          "name": "Lupita Aguilar",
+          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
+        }
+      ],
+      "duration_ms": 188577,
+      "name": "Mi Complice",
+      "url": "https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Ac\u00e1bame de Matar",
-        "url": "https://open.spotify.com/album/2dJ2IMonVOVdV73CyjK5zV"
-      },
-      "artists": [
-        {
-          "name": "El Azote",
-          "url": "https://open.spotify.com/artist/3CGruMV3zqAI4wF8xQLRwh"
-        }
-      ],
-      "duration_ms": 215370,
-      "name": "Ac\u00e1bame de Matar",
-      "url": "https://open.spotify.com/track/4L3VeEZtIaP6nMh3LTPAtJ"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "12 A\u00f1os de Historia",
         "url": "https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 178586,
       "name": "La Rumbera",
       "url": "https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "Ac\u00e1bame de Matar",
+        "url": "https://open.spotify.com/album/2dJ2IMonVOVdV73CyjK5zV"
+      },
+      "artists": [
+        {
+          "name": "El Azote",
+          "url": "https://open.spotify.com/artist/3CGruMV3zqAI4wF8xQLRwh"
+        }
+      ],
+      "duration_ms": 215370,
+      "name": "Ac\u00e1bame de Matar",
+      "url": "https://open.spotify.com/track/4L3VeEZtIaP6nMh3LTPAtJ"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Te Hice Mal / Ens\u00e9\u00f1ame a Olvidar / Vida de Mi Vida (\u00c9xitos Festivos 2021- 2022)",
-        "url": "https://open.spotify.com/album/4xpAa7gkfJeFZUVoxdI7bG"
-      },
-      "artists": [
-        {
-          "name": "Los Kuatreros Del Sur",
-          "url": "https://open.spotify.com/artist/1uf5mwjVjGlTj38TRAB4k8"
-        }
-      ],
-      "duration_ms": 739369,
-      "name": "Te Hice Mal / Ens\u00e9\u00f1ame a Olvidar / Vida de Mi Vida (\u00c9xitos Festivos 2021- 2022)",
-      "url": "https://open.spotify.com/track/6ogw9osyfTycNSy5UaGvdX"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "Mi Decisi\u00f3n",
         "url": "https://open.spotify.com/album/6zfpEB0wUGsmsMgsxcPyyd"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 254850,
       "name": "Mi Decisi\u00f3n",
       "url": "https://open.spotify.com/track/67k7yjg8G46fmLQj19YXc8"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "Te Hice Mal / Ens\u00e9\u00f1ame a Olvidar / Vida de Mi Vida (\u00c9xitos Festivos 2021- 2022)",
+        "url": "https://open.spotify.com/album/4xpAa7gkfJeFZUVoxdI7bG"
+      },
+      "artists": [
+        {
+          "name": "Los Kuatreros Del Sur",
+          "url": "https://open.spotify.com/artist/1uf5mwjVjGlTj38TRAB4k8"
+        }
+      ],
+      "duration_ms": 739369,
+      "name": "Te Hice Mal / Ens\u00e9\u00f1ame a Olvidar / Vida de Mi Vida (\u00c9xitos Festivos 2021- 2022)",
+      "url": "https://open.spotify.com/track/6ogw9osyfTycNSy5UaGvdX"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Palomita de Alas Blancas",
-        "url": "https://open.spotify.com/album/3ntXjITCrt7BlOgTVith78"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros del Sur",
-          "url": "https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw"
-        }
-      ],
-      "duration_ms": 115466,
-      "name": "Palomita de Alas Blancas",
-      "url": "https://open.spotify.com/track/3Zh8ZpBFRe8OBSNdxTY4VG"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "Para Mi Gente Campesina",
         "url": "https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 196662,
       "name": "Pecado de Amor",
       "url": "https://open.spotify.com/track/1o4te8zmQt1mE2yxoXXoAz"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "Palomita de Alas Blancas",
+        "url": "https://open.spotify.com/album/3ntXjITCrt7BlOgTVith78"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros del Sur",
+          "url": "https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw"
+        }
+      ],
+      "duration_ms": 115466,
+      "name": "Palomita de Alas Blancas",
+      "url": "https://open.spotify.com/track/3Zh8ZpBFRe8OBSNdxTY4VG"
     },
     {
       "added_at": "2024-06-12 22:58:17",

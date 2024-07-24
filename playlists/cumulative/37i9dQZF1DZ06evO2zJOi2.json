@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "This is Morgan Wallen. Les chansons essentielles, toutes regroup\u00e9es dans une seule liste de lecture.",
+  "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
   "name": "This Is Morgan Wallen",
   "tracks": [
     {
@@ -750,7 +750,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 206864,
       "name": "One Thing At A Time",
       "url": "https://open.spotify.com/track/1rXq0uoV4KTgRN64jXzIxo"
@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-23",
+      "date_removed": null,
       "duration_ms": 157477,
       "name": "You Proof",
       "url": "https://open.spotify.com/track/5W4kiM2cUYBJXKRudNyxjW"

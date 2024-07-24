@@ -4,7 +4,7 @@
 
 > Soft instrumental jazz for working or studying.
 
-908 songs - 2 day 8 hr 56 min
+910 songs - 2 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [How About You?](https://open.spotify.com/track/4kRI2El5PX80m7Z9JqT2Br) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [How About You?](https://open.spotify.com/album/25vYxKlkBkVrjbJlWdGTXP) | 3:07 | 2024-05-23 |  |
 | [How Long Have I Waited?](https://open.spotify.com/track/1NcO5gArgmWrwUH0LfmKqW) | [Thames Quartet](https://open.spotify.com/artist/1R7RKpGGSeqK8pSBK79w7T) | [Bittersweet](https://open.spotify.com/album/6gkJFEs7AFfAMVgOJ8eaR5) | 3:11 | 2023-10-27 |  |
 | [How She Walks](https://open.spotify.com/track/1OsZpyWuQeukRtfB9U8Tmk) | [West Village Trio](https://open.spotify.com/artist/6cIFYOs23Aowktaez0d6ew) | [How She Walks](https://open.spotify.com/album/3MJxreK1iSr3LH02oElQkp) | 4:39 | 2024-04-02 |  |
+| [How’s It Going?](https://open.spotify.com/track/6tht37fb8QeaNohZIudAwH) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [How’s It Going?](https://open.spotify.com/album/6bkFMHlTu3sX5y0oYtm8At) | 2:39 | 2024-07-22 |  |
 | [I awake](https://open.spotify.com/track/6AianoPQwgFLarNY5s3ntc) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [I awake](https://open.spotify.com/album/1H478Tq3lKuqWtTdzhLa8q) | 4:05 | 2023-06-01 |  |
 | [I Concentrate On You](https://open.spotify.com/track/2EAg1quHmyj5wGPEONM5KL) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [I Concentrate On You](https://open.spotify.com/album/5R8IVGtCRIxv5KWwpjTiFL) | 4:40 | 2022-11-24 |  |
 | [I Cover The Waterfront](https://open.spotify.com/track/1YNHdhvXBogdk54KI1yd2P) | [Paul Gonsalves](https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4) | [Gettin' Together!](https://open.spotify.com/album/2R7pL2UXf9wBMYg7b37XLB) | 4:05 | 2022-01-26 |  |
@@ -382,6 +383,7 @@
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/7EtNoLrxsmfFxXTgVdEpPo) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [In the Wee Small Hours of the Morning](https://open.spotify.com/album/5GZkdsrQH9w8DNHFXKvLeN) | 3:21 | 2023-08-10 |  |
 | [In Unforgettable Ways](https://open.spotify.com/track/5tt5XCZlIpHyrdMNNRm721) | [Dinner Club Band](https://open.spotify.com/artist/3FLF2qI9V3gVxBcvc3D2To) | [Beneath the Tide](https://open.spotify.com/album/5ew8lwhVmVfgLed2nv3Ay6) | 2:51 | 2023-06-01 |  |
 | [In Your Arms](https://open.spotify.com/track/3mTsbs8DiR6OoLCz2KlzZI) | [Emily Green Trio](https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg) | [In Your Arms](https://open.spotify.com/album/7vkvgxXf1y12Y3eejsMU49) | 3:33 | 2023-12-08 |  |
+| [Ink Ribbon](https://open.spotify.com/track/5VhLxkweg2bQODsMNLR7C4) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Ink Ribbon](https://open.spotify.com/album/2IZWuWykDffFQIVP5udrla) | 4:13 | 2024-07-22 |  |
 | [Intangible](https://open.spotify.com/track/5jU0M5C3puyWnDvrd27RSP) | [Coal Diamond Trio](https://open.spotify.com/artist/6jUiShUd9yRdlmPJlJgTad) | [Intangible](https://open.spotify.com/album/3YGiHeOdYUDi05wsYcEk6r) | 5:02 | 2022-11-11 |  |
 | [Interpret as You May](https://open.spotify.com/track/49LoxJXxHRRPb0dSNgYtwU) | [Kendrettes](https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj) | [Interpret as You May](https://open.spotify.com/album/27kM4gSwJZcuaaKCprR5Ih) | 3:38 | 2024-04-10 |  |
 | [Into The Unknown](https://open.spotify.com/track/5cSLtmuZmymDqxGxhJ0YSF) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [Into The Unknown](https://open.spotify.com/album/0Ifmedg8QIdPrxzJm7eekM) | 2:37 | 2023-09-22 |  |
@@ -412,7 +414,7 @@
 | [Juniper Leaves](https://open.spotify.com/track/5sO9OlDHzrdh3yqT89Cpce) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Purple Magnolia](https://open.spotify.com/album/6csQt0hu30OWJhPCJBMn7f) | 3:25 | 2022-11-11 | 2023-01-20 |
 | [Just A Gigolo](https://open.spotify.com/track/1S653s5e7kQV7MxIKZcCIc) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 5:04 | 2021-12-16 | 2024-04-12 |
 | [Just one more day](https://open.spotify.com/track/4emBEJT3aAZgFzWdzndt0Y) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Just one more day](https://open.spotify.com/album/5ExGiez4mIo8Np2B8Rf9bq) | 2:47 | 2024-05-23 |  |
-| [Keep It Away](https://open.spotify.com/track/5qo8pe8fFJ6uO0q3F1qmxP) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [Keep It Away](https://open.spotify.com/album/0dFaKf06k82X1bt6cOFvXw) | 3:24 | 2024-07-22 |  |
+| [Keep It Away](https://open.spotify.com/track/5qo8pe8fFJ6uO0q3F1qmxP) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [Keep It Away](https://open.spotify.com/album/0dFaKf06k82X1bt6cOFvXw) | 3:24 | 2024-07-22 | 2024-07-24 |
 | [Keeping Records](https://open.spotify.com/track/03gAqGt9brarmfmF0xJNBr) | [Gaige Myers](https://open.spotify.com/artist/5pMpBcYLGkbPYrVoe8SbbE) | [Keeping Records](https://open.spotify.com/album/3sVOt2neHbez0mTDaRrvX7) | 3:41 | 2024-01-05 | 2024-07-16 |
 | [Kept running](https://open.spotify.com/track/6Ov3Bass8w3RrtUBX7T7xe) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Kept running](https://open.spotify.com/album/0SUlahoWIHJC4g0obxjHtt) | 2:44 | 2023-06-01 |  |
 | [Kingfisher](https://open.spotify.com/track/64w7l0VwTdnnoYvvIRoQ77) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Kingfisher](https://open.spotify.com/album/4qKUJXT0d7Sbn9Of1CwHGY) | 3:17 | 2023-06-01 | 2024-05-11 |
@@ -637,7 +639,7 @@
 | [Say It Over And Over Again](https://open.spotify.com/track/2nivRlQMUpL7yDOS7hLPY9) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Lost In Your Eyes](https://open.spotify.com/album/2UDV9MOiixQUoXttk0sihh) | 3:20 | 2023-06-01 | 2024-05-27 |
 | [Search For Peace](https://open.spotify.com/track/41pWty3Q37WlXCcXW4KfOA) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Search For Peace](https://open.spotify.com/album/0mUxdj9cQf9wZMOr5Ordnc) | 5:06 | 2023-06-01 | 2024-05-11 |
 | [Self\-Portrait in Three Colors](https://open.spotify.com/track/38C8v33eis3fa4hLf0dl8Z) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 3:07 | 2021-12-16 | 2022-11-11 |
-| [Sentimental Moon](https://open.spotify.com/track/3PT4oQJCoeT5nEorYNHu50) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Sentimental Moon](https://open.spotify.com/album/2SrZx4X8lELW2IbFmLtJnK) | 4:04 | 2023-06-01 |  |
+| [Sentimental Moon](https://open.spotify.com/track/3PT4oQJCoeT5nEorYNHu50) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Sentimental Moon](https://open.spotify.com/album/2SrZx4X8lELW2IbFmLtJnK) | 4:04 | 2023-06-01 | 2024-07-24 |
 | [September Song](https://open.spotify.com/track/3jeqeE91AY5KDbccCBZ1o1) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Riverside Profiles: Chet Baker](https://open.spotify.com/album/0onIVgbXEDmbcR4ZiyGNg9) | 3:03 | 2022-06-29 | 2022-11-11 |
 | [September Song](https://open.spotify.com/track/7cAe8OwCDQA9FcoGcSGbgH) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Riverside Profiles: Chet Baker](https://open.spotify.com/album/6yMw4xOPSnjJF3gt1Kcr5S) | 3:03 | 2022-01-26 | 2022-07-29 |
 | [Serenade In Blue](https://open.spotify.com/track/29nKWbQUYATHKzOGss2ssj) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Landslide](https://open.spotify.com/album/1cZifNyhDjtYokRPwLkqAB) | 5:02 | 2022-01-26 | 2023-08-15 |

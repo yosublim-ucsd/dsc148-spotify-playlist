@@ -2,7 +2,7 @@
 
 ### [This Is Black Alien](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3DKn4c)
 
-> This is Black Alien\. The essential tracks, all in one playlist.
+> This is Black Alien\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 44 songs - 2 hr 45 min
 

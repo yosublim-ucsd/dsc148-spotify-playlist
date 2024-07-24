@@ -4,12 +4,13 @@
 
 > Súbete a la nueva ola del rock español\. Foto: Barry B, Carolina Durante.
 
-114 songs - 6 hr 2 min
+115 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5 meses](https://open.spotify.com/track/2yNYMqWDnZ6Z8cvE1H5D8o) | [Agudo](https://open.spotify.com/artist/7AV6djETiJOxkb38gsU3Y6) | [5 MESES](https://open.spotify.com/album/5qN6vm6Z4nW90l4m072RoY) | 3:11 | 2024-06-27 | 2024-07-12 |
 | [Adelante](https://open.spotify.com/track/5NvqDMHAL38UTfNQFizEWm) | [levitants](https://open.spotify.com/artist/5Ed1kJRHN0Uj0BhGbRNutV) | [Adelante](https://open.spotify.com/album/4TGfWV8k3nPN3DFbjNplCJ) | 4:00 | 2024-06-27 |  |
+| [agosto](https://open.spotify.com/track/2rMCjGUXkg9eyweQPcwvRX) | [garbí](https://open.spotify.com/artist/0VqZ86s4Z8DHDNHFwYf0oM) | [agosto](https://open.spotify.com/album/0eIk5M7jExLB3SLpmgitMz) | 3:28 | 2024-07-18 |  |
 | [Al Amanecer](https://open.spotify.com/track/5FMnqUbLGqWi0Y12MCVYSN) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Al Amanecer](https://open.spotify.com/album/0tvM7MTPrI9bASHbYn89Xy) | 3:11 | 2024-07-11 |  |
 | [Al Amanecer](https://open.spotify.com/track/4e53xhYzdbAWuZu6dqfDOh) | [Monteperdido](https://open.spotify.com/artist/3GxxpOZw5vZ4Z5Wxesav1y), [Marco](https://open.spotify.com/artist/5NIA81lu3aTT72RVQ20l2W) | [Al Amanecer](https://open.spotify.com/album/4JfvYkC4ih4egFoHmMr7ZG) | 2:54 | 2024-06-27 |  |
 | [Al Final](https://open.spotify.com/track/5IUDQPpcD9MGMQDRDb2Fvw) | [Muro María](https://open.spotify.com/artist/5INts4xs8Jf1Rpnkd6Zd2Y) | [Al Final](https://open.spotify.com/album/1JThc0vxLAFqk4pj6jPkYa) | 3:04 | 2024-06-27 |  |
@@ -58,7 +59,7 @@
 | [La Salvación](https://open.spotify.com/track/0txzIz1WcoAn6m07xypcD5) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [COWBOYS DE LA A3](https://open.spotify.com/album/0VgV2hz9fHoJBLKbqtj9cn) | 4:23 | 2024-06-27 |  |
 | [La Vida Cañón](https://open.spotify.com/track/6ou443eT6aXOCxcX9Jrnee) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/7C2RrxAFNTX0qklJnrHXTj) | 2:32 | 2024-06-27 |  |
 | [Las Victorias y Derrotas](https://open.spotify.com/track/0ZnNvpU4h5Se9bm301yOv0) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO) | [Desde Flores y Entrañas](https://open.spotify.com/album/7wXKA4oPHORyBu6jTE2oQm) | 3:26 | 2024-06-27 |  |
-| [Lo de siempre](https://open.spotify.com/track/1wjRd9NhFtwSfGRaH4VFBB) | [Go Cactus](https://open.spotify.com/artist/73Xp0FH6ZuSdhEcq5kcXbE) | [Lo de siempre](https://open.spotify.com/album/4G8PtP2rLxt0JQhAbqV6Ac) | 3:31 | 2024-06-27 |  |
+| [Lo de siempre](https://open.spotify.com/track/1wjRd9NhFtwSfGRaH4VFBB) | [Go Cactus](https://open.spotify.com/artist/73Xp0FH6ZuSdhEcq5kcXbE) | [Lo de siempre](https://open.spotify.com/album/4G8PtP2rLxt0JQhAbqV6Ac) | 3:31 | 2024-06-27 | 2024-07-24 |
 | [Loros](https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp) | [Camellos](https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW) | [Loros](https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn) | 2:26 | 2024-06-27 |  |
 | [Los Chavales](https://open.spotify.com/track/0hnBLEpln0wSIsbvxeWQoO) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/7C2RrxAFNTX0qklJnrHXTj) | 3:28 | 2024-06-27 |  |
 | [MADRID ME ATACA](https://open.spotify.com/track/6GYQTEEmk50F4dGOM033HW) | [Los Punsetes](https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF) | [MADRID ME ATACA](https://open.spotify.com/album/2T19X7C0k99uOLp4zVmSRJ) | 3:01 | 2024-06-27 | 2024-07-05 |

@@ -2,7 +2,7 @@
 
 ### [This Is SUBSHIFT](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3LZ0T8)
 
-> This Is SUBSHIFT\. Los temas esenciales, todos en una lista.
+> This is SUBSHIFT\. The essential tracks, all in one playlist.
 
 56 songs - 2 hr 48 min
 

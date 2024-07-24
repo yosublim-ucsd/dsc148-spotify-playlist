@@ -1,12 +1,12 @@
 {
   "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o?si=SDGCPTxqRYqA1PQ-eNL4lw\">Octopizzo</a> ",
-  "num_followers": 13464,
+  "num_followers": 13473,
   "original_name": "254 Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpokmAAAAAAS+/HzEheLnlfbY1KarqfR",
+  "snapshot_id": "Zp+LngAAAAAA5uAAJCq/X09tAa8SXfLc",
   "tracks": [
     {
       "added_at": "2024-07-18 23:59:00",
@@ -95,22 +95,6 @@
     {
       "added_at": "2024-07-18 23:59:00",
       "album": {
-        "name": "MTUME",
-        "url": "https://open.spotify.com/album/5iUo5nirH7XvK0zdOGCmTX"
-      },
-      "artists": [
-        {
-          "name": "Octopizzo",
-          "url": "https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o"
-        }
-      ],
-      "duration_ms": 205635,
-      "name": "MTUME",
-      "url": "https://open.spotify.com/track/3afiqam2ssy59uYm0F0068"
-    },
-    {
-      "added_at": "2024-07-18 23:59:00",
-      "album": {
         "name": "Umva",
         "url": "https://open.spotify.com/album/1JkWxgKl2W2WKN0JtPPy1S"
       },
@@ -143,6 +127,26 @@
       "duration_ms": 158307,
       "name": "Balenciaga",
       "url": "https://open.spotify.com/track/3SQ7H8QrtoRlfX9G0WjK8R"
+    },
+    {
+      "added_at": "2024-07-23 10:53:18",
+      "album": {
+        "name": "DOBA.",
+        "url": "https://open.spotify.com/album/3NEm99J8uejyJjLpbM163b"
+      },
+      "artists": [
+        {
+          "name": "Octopizzo",
+          "url": "https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o"
+        },
+        {
+          "name": "Montekarlo",
+          "url": "https://open.spotify.com/artist/0izzW8IWOZXoz7bSP6UQkE"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "DOBA.",
+      "url": "https://open.spotify.com/track/6aHIdiW3Oik9XMYDbUxqm8"
     },
     {
       "added_at": "2024-07-18 23:59:00",

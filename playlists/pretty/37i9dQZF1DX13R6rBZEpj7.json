@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 218621,
+  "num_followers": 218727,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,26 @@
     {
       "added_at": "2024-07-19 14:07:47",
       "album": {
+        "name": "P.S Remix (2023)",
+        "url": "https://open.spotify.com/album/5UhGiK7k9bYxxFofNMdVft"
+      },
+      "artists": [
+        {
+          "name": "Burgaboy",
+          "url": "https://open.spotify.com/artist/2RqbEOyM1cly9xDaFqyVda"
+        },
+        {
+          "name": "Lauren Mason",
+          "url": "https://open.spotify.com/artist/7n1EMEGr2LjgICpbN6ZiTh"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "P.S 2023 (Bassline Remix)",
+      "url": "https://open.spotify.com/track/1rdmcGRNmD7qfNb2Q9Gcxt"
+    },
+    {
+      "added_at": "2024-07-19 14:07:47",
+      "album": {
         "name": "Get Out",
         "url": "https://open.spotify.com/album/6qKSRHj80Tmtk6ywvnHDrH"
       },
@@ -907,42 +927,6 @@
     {
       "added_at": "2024-07-19 14:07:47",
       "album": {
-        "name": "P.S Remix (2023)",
-        "url": "https://open.spotify.com/album/5UhGiK7k9bYxxFofNMdVft"
-      },
-      "artists": [
-        {
-          "name": "Burgaboy",
-          "url": "https://open.spotify.com/artist/2RqbEOyM1cly9xDaFqyVda"
-        },
-        {
-          "name": "Lauren Mason",
-          "url": "https://open.spotify.com/artist/7n1EMEGr2LjgICpbN6ZiTh"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "P.S 2023 (Bassline Remix)",
-      "url": "https://open.spotify.com/track/1rdmcGRNmD7qfNb2Q9Gcxt"
-    },
-    {
-      "added_at": "2024-07-19 14:07:47",
-      "album": {
-        "name": "Kamikaze Cosworth",
-        "url": "https://open.spotify.com/album/5065pz5SdcvXeaSDZUvI8w"
-      },
-      "artists": [
-        {
-          "name": "Mat Zo",
-          "url": "https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1"
-        }
-      ],
-      "duration_ms": 250116,
-      "name": "Kamikaze Cosworth",
-      "url": "https://open.spotify.com/track/3wogShbhU5OxHtr7DrFogX"
-    },
-    {
-      "added_at": "2024-07-19 14:07:47",
-      "album": {
         "name": "Badda (Sinais VIP)",
         "url": "https://open.spotify.com/album/4cFwI8Adp03Ecaw9CEhUtz"
       },
@@ -963,6 +947,42 @@
       "duration_ms": 154858,
       "name": "Badda - Sinais VIP",
       "url": "https://open.spotify.com/track/2586qpfMle1fZxOkzffOjU"
+    },
+    {
+      "added_at": "2024-07-19 14:07:47",
+      "album": {
+        "name": "Kamikaze Cosworth",
+        "url": "https://open.spotify.com/album/5065pz5SdcvXeaSDZUvI8w"
+      },
+      "artists": [
+        {
+          "name": "Mat Zo",
+          "url": "https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1"
+        }
+      ],
+      "duration_ms": 250116,
+      "name": "Kamikaze Cosworth",
+      "url": "https://open.spotify.com/track/3wogShbhU5OxHtr7DrFogX"
+    },
+    {
+      "added_at": "2024-07-19 14:07:47",
+      "album": {
+        "name": "Knock Knock",
+        "url": "https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2"
+      },
+      "artists": [
+        {
+          "name": "NuBass",
+          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
+        },
+        {
+          "name": "Deppz",
+          "url": "https://open.spotify.com/artist/7jhS9dwK214Tp1KgEVfyd2"
+        }
+      ],
+      "duration_ms": 198372,
+      "name": "Knock Knock",
+      "url": "https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc"
     },
     {
       "added_at": "2024-07-19 14:07:47",
@@ -1003,26 +1023,6 @@
       "duration_ms": 181714,
       "name": "Party Starter (feat. Slick Don)",
       "url": "https://open.spotify.com/track/0zclfRkV2b65rgHJyL80sf"
-    },
-    {
-      "added_at": "2024-07-19 14:07:47",
-      "album": {
-        "name": "Knock Knock",
-        "url": "https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2"
-      },
-      "artists": [
-        {
-          "name": "NuBass",
-          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
-        },
-        {
-          "name": "Deppz",
-          "url": "https://open.spotify.com/artist/7jhS9dwK214Tp1KgEVfyd2"
-        }
-      ],
-      "duration_ms": 198372,
-      "name": "Knock Knock",
-      "url": "https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc"
     },
     {
       "added_at": "2024-07-19 14:07:47",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-07-19 14:07:47",
       "album": {
-        "name": "One Ting",
-        "url": "https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E"
-      },
-      "artists": [
-        {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "One Ting",
-      "url": "https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG"
-    },
-    {
-      "added_at": "2024-07-19 14:07:47",
-      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 237293,
       "name": "Ruins",
       "url": "https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8"
+    },
+    {
+      "added_at": "2024-07-19 14:07:47",
+      "album": {
+        "name": "One Ting",
+        "url": "https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E"
+      },
+      "artists": [
+        {
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "One Ting",
+      "url": "https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG"
     },
     {
       "added_at": "2024-07-19 14:07:47",
@@ -1299,6 +1299,50 @@
     {
       "added_at": "2024-07-19 14:07:47",
       "album": {
+        "name": "Fire & Brimstones Remix",
+        "url": "https://open.spotify.com/album/4xnuK00nlvQT6X8ibv5Bsb"
+      },
+      "artists": [
+        {
+          "name": "Solsa",
+          "url": "https://open.spotify.com/artist/50NJJ13Wk1AJ8vchy03DkY"
+        },
+        {
+          "name": "Wiley",
+          "url": "https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3"
+        },
+        {
+          "name": "Trim",
+          "url": "https://open.spotify.com/artist/1Qy5cXiRHxH8VrxeQeI2VV"
+        },
+        {
+          "name": "Kozzie",
+          "url": "https://open.spotify.com/artist/4DEP2Gftmem88C3JN8be77"
+        },
+        {
+          "name": "C4",
+          "url": "https://open.spotify.com/artist/2ZI5j2UOqjBOcSakQcNCua"
+        },
+        {
+          "name": "Maxsta",
+          "url": "https://open.spotify.com/artist/1ctkPiRW4pNvaQf7zjQr8b"
+        },
+        {
+          "name": "fuda guy",
+          "url": "https://open.spotify.com/artist/7AZUTsw31pDLSkT0zH3wLL"
+        },
+        {
+          "name": "e3 breaks",
+          "url": "https://open.spotify.com/artist/1rhkgh7hQkyqCelqSBTTx5"
+        }
+      ],
+      "duration_ms": 289285,
+      "name": "Fire & Brimstones Remix",
+      "url": "https://open.spotify.com/track/7id8BQbuvLlQs19FKS2vIt"
+    },
+    {
+      "added_at": "2024-07-19 14:07:47",
+      "album": {
         "name": "BABE?",
         "url": "https://open.spotify.com/album/3FmYkDwMUQobmwZADpgQUi"
       },
@@ -1351,22 +1395,6 @@
       "duration_ms": 182192,
       "name": "Boom",
       "url": "https://open.spotify.com/track/7yirE0xFWR7JN22M5skZn5"
-    },
-    {
-      "added_at": "2024-07-19 14:07:47",
-      "album": {
-        "name": "IMMACULATE SKANK",
-        "url": "https://open.spotify.com/album/6559VpMe0iH33RoMMwHrdm"
-      },
-      "artists": [
-        {
-          "name": "bullet tooth",
-          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
-        }
-      ],
-      "duration_ms": 222500,
-      "name": "IMMACULATE SKANK",
-      "url": "https://open.spotify.com/track/678ey4hhnfoCIRYbQ9dTwc"
     }
   ],
   "unique_name": "Bassline Bangers",

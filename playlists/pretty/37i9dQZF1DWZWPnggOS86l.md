@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 
 > Uma viagem no tempo com grandes hits da história do Emo no Brasil\. Foto: Emoponto
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,158 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,153 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 | 33 | [Se Essas Paredes Falassem](https://open.spotify.com/track/6EBuhDXGEe8ZPDR8WuuieN) | [Dance of Days](https://open.spotify.com/artist/3pICQ7QvYXozuzJjgb6eM5) | [A História Não Tem Fim](https://open.spotify.com/album/43WGY8Tt3dyQOqbYIosPRy) | 3:27 |
 | 34 | [Me Leve às Estrelas](https://open.spotify.com/track/7B6z4Ycf1k9o8mZdSkRoyc) | [Dance of Days](https://open.spotify.com/artist/3pICQ7QvYXozuzJjgb6eM5) | [A História Não Tem Fim](https://open.spotify.com/album/43WGY8Tt3dyQOqbYIosPRy) | 4:16 |
 | 35 | [Diário](https://open.spotify.com/track/4vA8stWY11h9R7zTtWuELJ) | [Noção de Nada](https://open.spotify.com/artist/3hQeREHiEs8BmpWUGZxwyP) | [Trajes e Comportamentos de Acordo Com os Eventos e as Ocasiões](https://open.spotify.com/album/0eEsMVT7ybpkm1gHLTXEgC) | 3:02 |
-| 36 | [Jeito Livre](https://open.spotify.com/track/31Wi4Vskn51YPzt7YQvXmp) | [Rancore](https://open.spotify.com/artist/3KR4M3bAqWbADfTTDdfMDM) | [Seiva](https://open.spotify.com/album/0wLxnVN8wo9vAC0w28m4Mz) | 3:45 |
+| 36 | [Jeito Livre](https://open.spotify.com/track/31Wi4Vskn51YPzt7YQvXmp) | [RANCORE](https://open.spotify.com/artist/3KR4M3bAqWbADfTTDdfMDM) | [Seiva](https://open.spotify.com/album/0wLxnVN8wo9vAC0w28m4Mz) | 3:45 |
 | 37 | [Frio](https://open.spotify.com/track/1nmbGvznG5eK87587Ds0dN) | [Vowe](https://open.spotify.com/artist/0mJuCrQOXP4OBV2D6noZ34) | [Nossa Verdade](https://open.spotify.com/album/4OMojP2UtYT3EetynC47Z7) | 3:18 |
 | 38 | [Lembrar Me Faz Sofrer](https://open.spotify.com/track/6gibLc856RW7O3bL8gcENe) | [Display](https://open.spotify.com/artist/6wK3QnC206lJhV7QtC352T) | [Um Dia Pra Sonhar](https://open.spotify.com/album/3RCvS7nvwuIm7CszP8P7A7) | 2:48 |
 | 39 | [Aline](https://open.spotify.com/track/3GQKKCHtuRkS7RstsgWNJU) | [Skore](https://open.spotify.com/artist/5SMpPc5vINO0XkZFRkRxfw) | [Colisão](https://open.spotify.com/album/28HVFzRC5Qx8ul4pk8Z0cW) | 2:56 |

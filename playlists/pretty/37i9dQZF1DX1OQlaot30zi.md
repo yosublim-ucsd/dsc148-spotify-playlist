@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Finesse, Shiva, Capo, Artie, Guè, Mezzosangue e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,576 likes - 95 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,580 likes - 95 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 12 | [PER LA MULAGA \(feat\. Mocro Yakuza\)](https://open.spotify.com/track/4sPH888U1sTX86ycXiimbX) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [Mocro Yakuza](https://open.spotify.com/artist/3To9zBWMwJt0ohLMHPxxSV) | [BDM SUMMER SEASON](https://open.spotify.com/album/4Vo8ZDI4ZET8iSEmV0sxgM) | 2:43 |
 | 13 | [BIBITA](https://open.spotify.com/track/4t9i0H25aA1yj1kY9iorRP) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [BIBITA](https://open.spotify.com/album/0iKlod0dukLX4mwniCk2vN) | 2:00 |
 | 14 | [ragazzi in piazza](https://open.spotify.com/track/5BdeMJ48mOr0J5g7qaWy0A) | [Rari](https://open.spotify.com/artist/1WrYSK27pJ9GVgcRGtezIM) | [ragazzi in piazza](https://open.spotify.com/album/6PaLhbdaxTD9jstb4lB93x) | 2:39 |
-| 15 | [MESSAGGI](https://open.spotify.com/track/3S3u9z8ydHqmJVqzB8IySM) | [Lolloflow](https://open.spotify.com/artist/6od7hFnrVLa1zCuSyQimic) | [MESSAGGI](https://open.spotify.com/album/0cqm6vQmofEJdixKnKaGol) | 2:31 |
+| 15 | [MESSAGGI](https://open.spotify.com/track/3S3u9z8ydHqmJVqzB8IySM) | [Lolloflow](https://open.spotify.com/artist/6od7hFnrVLa1zCuSyQimic) | [MESSAGGI](https://open.spotify.com/album/0cqm6vQmofEJdixKnKaGol) | 2:37 |
 | 16 | [Underwater](https://open.spotify.com/track/4Wb3XhK2KUp0qUQMsIrurn) | [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj) | [Underwater](https://open.spotify.com/album/731c6Q6AHSZdO4CdtMzPWz) | 2:22 |
 | 17 | [Amore puro](https://open.spotify.com/track/17beKSnTNuVjiQd2lIOonB) | [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Amore puro](https://open.spotify.com/album/4ghCrqj3HwLzKeeqAfO4rD) | 3:24 |
 | 18 | [Perfect Days](https://open.spotify.com/track/6Gma5OTVHAbNHmRe95O3xI) | [Rak](https://open.spotify.com/artist/3tnVct3V6mIWk5FnBGCuVt) | [Perfect Days](https://open.spotify.com/album/6JNqm2o3YaGMfWmwGzCkuA) | 2:42 |

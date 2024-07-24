@@ -1,32 +1,32 @@
 {
   "description": "De nieuwste Hollandse hits. Cover: Andr\u00e9 Hazes & Mart Hoogkamer",
-  "num_followers": 146330,
+  "num_followers": 146372,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpxNowAAAACp2zezxVTE+Ir0P/cqD6ed",
+  "snapshot_id": "ZqACDgAAAADH3Qv+F6ZJ6ZCc5wIC0TRi",
   "tracks": [
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Zij Begrijpt Het",
-        "url": "https://open.spotify.com/album/1nUC9zziMNcQBg4pu1pVv5"
+        "name": "Suavemente, Dans Met Mij",
+        "url": "https://open.spotify.com/album/26N1Eca9A56lXptg6u9T9M"
       },
       "artists": [
         {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+          "name": "Gerard Palts",
+          "url": "https://open.spotify.com/artist/7agcYn7rMxlilM5iilw4qf"
         },
         {
-          "name": "Marco Schuitmaker",
-          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+          "name": "Trafassi",
+          "url": "https://open.spotify.com/artist/2Vf41WkCUjjGaAuCF3cd9O"
         }
       ],
-      "duration_ms": 169904,
-      "name": "Zij Begrijpt Het",
-      "url": "https://open.spotify.com/track/6rk8aJ7P3O7OhdQQ0ce29e"
+      "duration_ms": 190476,
+      "name": "Suavemente, Dans Met Mij",
+      "url": "https://open.spotify.com/track/2GLSRL3sIOQR5TTppRqkjj"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -47,6 +47,26 @@
       "duration_ms": 145866,
       "name": "Zij Is Van Mij",
       "url": "https://open.spotify.com/track/5ElK7HPvWfRYOzz6F6ICId"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Zij Begrijpt Het",
+        "url": "https://open.spotify.com/album/1nUC9zziMNcQBg4pu1pVv5"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+        }
+      ],
+      "duration_ms": 169904,
+      "name": "Zij Begrijpt Het",
+      "url": "https://open.spotify.com/track/6rk8aJ7P3O7OhdQQ0ce29e"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -75,26 +95,6 @@
       "duration_ms": 148704,
       "name": "Vannacht Slaap Jij Bij Mij",
       "url": "https://open.spotify.com/track/7gv9Ky47iGM6LRp5aO5tkt"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Suavemente, Dans Met Mij",
-        "url": "https://open.spotify.com/album/26N1Eca9A56lXptg6u9T9M"
-      },
-      "artists": [
-        {
-          "name": "Gerard Palts",
-          "url": "https://open.spotify.com/artist/7agcYn7rMxlilM5iilw4qf"
-        },
-        {
-          "name": "Trafassi",
-          "url": "https://open.spotify.com/artist/2Vf41WkCUjjGaAuCF3cd9O"
-        }
-      ],
-      "duration_ms": 190476,
-      "name": "Suavemente, Dans Met Mij",
-      "url": "https://open.spotify.com/track/2GLSRL3sIOQR5TTppRqkjj"
     },
     {
       "added_at": "2024-07-18 22:00:00",

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-777 songs - 1 day 20 hr 37 min
+778 songs - 1 day 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Dead Man Walking](https://open.spotify.com/track/4ZPwjq0CdxbWFNycxnSUJc) | [Grant](https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus), [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X) | [Dead Man Walking](https://open.spotify.com/album/0UWFD6lsReiZ7D7e6gARcA) | 2:46 | 2022-07-21 | 2022-10-01 |
 | [Deadlock](https://open.spotify.com/track/40b8QH6QvHYHmP83ktqvXI) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Deadlock](https://open.spotify.com/album/3vCyRU348Fv0hijMp97iqj) | 3:27 | 2023-06-26 | 2023-09-26 |
 | [Decimate](https://open.spotify.com/track/58nKKLokxvBiFcpnhBd3Jz) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Decimate](https://open.spotify.com/album/0LcvAMk0yY5fYuiUDzRMCS) | 3:30 | 2024-03-27 | 2024-06-13 |
+| [Deeper Purpose](https://open.spotify.com/track/0F85jQDf7wPFBv2evo7sXG) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16) | [Bloom](https://open.spotify.com/album/77pYQnGdJIiYO3h5uf9QUj) | 3:08 | 2024-07-23 |  |
 | [Deja Reve](https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Deja Reve](https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu) | 2:48 | 2022-03-21 | 2022-06-03 |
 | [destination heartbreak](https://open.spotify.com/track/52jU1xu6sYArAcWufqlpyK) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [destination heartbreak pt\. 2](https://open.spotify.com/album/3YHaDF9skvzUA0OvqzTZD8) | 3:47 | 2023-02-10 | 2023-05-03 |
 | [Different](https://open.spotify.com/track/3rnFEiW9efHwnzsb9KzUVd) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Different](https://open.spotify.com/album/568K9K7mWXC3FDBcPKQfb5) | 3:20 | 2022-10-21 | 2023-01-11 |

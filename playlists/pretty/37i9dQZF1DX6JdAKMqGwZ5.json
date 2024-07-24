@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Ganges.",
-  "num_followers": 194162,
+  "num_followers": 194186,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -495,18 +495,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Volver",
-        "url": "https://open.spotify.com/album/2IU2GsBYHx3o2KfiepY51l"
+        "name": "Ens hem guanyat l'estiu",
+        "url": "https://open.spotify.com/album/4pyaZxtfP0YHcDfLvzW8ZR"
       },
       "artists": [
         {
-          "name": "Javi Chapela",
-          "url": "https://open.spotify.com/artist/1oF6Bxyk8UcW0DBH4jBGjk"
+          "name": "Pau Vallv\u00e9",
+          "url": "https://open.spotify.com/artist/2e9wKql4wZPFzTfNgpBa9s"
         }
       ],
-      "duration_ms": 233752,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/2GC46gOwfVQ4v4bYor4WzK"
+      "duration_ms": 219440,
+      "name": "Ens hem guanyat l'estiu",
+      "url": "https://open.spotify.com/track/0U0S0quAHLkelr6bPsi7Z9"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -531,18 +531,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Ens hem guanyat l'estiu",
-        "url": "https://open.spotify.com/album/4pyaZxtfP0YHcDfLvzW8ZR"
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/2IU2GsBYHx3o2KfiepY51l"
       },
       "artists": [
         {
-          "name": "Pau Vallv\u00e9",
-          "url": "https://open.spotify.com/artist/2e9wKql4wZPFzTfNgpBa9s"
+          "name": "Javi Chapela",
+          "url": "https://open.spotify.com/artist/1oF6Bxyk8UcW0DBH4jBGjk"
         }
       ],
-      "duration_ms": 219440,
-      "name": "Ens hem guanyat l'estiu",
-      "url": "https://open.spotify.com/track/0U0S0quAHLkelr6bPsi7Z9"
+      "duration_ms": 233752,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/2GC46gOwfVQ4v4bYor4WzK"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Esto no es el cielo",
-        "url": "https://open.spotify.com/album/1oSd0iudeLKkSTjkWF3lpp"
-      },
-      "artists": [
-        {
-          "name": "Sienna",
-          "url": "https://open.spotify.com/artist/4PSNWFX3rYscMdKRp59uYA"
-        }
-      ],
-      "duration_ms": 179114,
-      "name": "Esto no es el cielo",
-      "url": "https://open.spotify.com/track/5IG6ux0mJM0H0Jti7ecz54"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "d\u00b4ESCARNIO",
         "url": "https://open.spotify.com/album/2JNJtZgFI9JuxOy7qpeFeQ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 159148,
       "name": "d\u00b4ESCARNIO",
       "url": "https://open.spotify.com/track/3KJ52eq5xaJVKDHDz4JQPt"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Esto no es el cielo",
+        "url": "https://open.spotify.com/album/1oSd0iudeLKkSTjkWF3lpp"
+      },
+      "artists": [
+        {
+          "name": "Sienna",
+          "url": "https://open.spotify.com/artist/4PSNWFX3rYscMdKRp59uYA"
+        }
+      ],
+      "duration_ms": 179114,
+      "name": "Esto no es el cielo",
+      "url": "https://open.spotify.com/track/5IG6ux0mJM0H0Jti7ecz54"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "Lo Que Llevo Dentro",
+        "url": "https://open.spotify.com/album/3K7wtLyCYZ65eGkZpfKZal"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "duration_ms": 267198,
+      "name": "Lo Que Llevo Dentro",
+      "url": "https://open.spotify.com/track/33k1gWL9jqQVDhjd515rhM"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "CHULA",
         "url": "https://open.spotify.com/album/003ywHveGjCjgWIvi5NQRK"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 160500,
       "name": "CHULA",
       "url": "https://open.spotify.com/track/0mXYr3Z0tRgBsMOJIHtRQ6"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Lo Que Llevo Dentro",
-        "url": "https://open.spotify.com/album/3K7wtLyCYZ65eGkZpfKZal"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        }
-      ],
-      "duration_ms": 267198,
-      "name": "Lo Que Llevo Dentro",
-      "url": "https://open.spotify.com/track/33k1gWL9jqQVDhjd515rhM"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Todas las Drogas del Mundo",
-        "url": "https://open.spotify.com/album/1dmxJQ49QgpSth3mEUvsOM"
+        "name": "Me la pegu\u00e9",
+        "url": "https://open.spotify.com/album/51wfIhnYN76YmKEOyge1fv"
       },
       "artists": [
         {
-          "name": "Belarte",
-          "url": "https://open.spotify.com/artist/2HNADS1yqggfwoMmurRRvM"
+          "name": "Delaporte",
+          "url": "https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ"
         }
       ],
-      "duration_ms": 218409,
-      "name": "Todas las Drogas del Mundo",
-      "url": "https://open.spotify.com/track/3cvoxKYRlvu1fBnXrIdZ6U"
+      "duration_ms": 184551,
+      "name": "Me la pegu\u00e9",
+      "url": "https://open.spotify.com/track/5If3lF4jq4JiNAhgcdGo56"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Me la pegu\u00e9",
-        "url": "https://open.spotify.com/album/51wfIhnYN76YmKEOyge1fv"
+        "name": "Todas las Drogas del Mundo",
+        "url": "https://open.spotify.com/album/1dmxJQ49QgpSth3mEUvsOM"
       },
       "artists": [
         {
-          "name": "Delaporte",
-          "url": "https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ"
+          "name": "Belarte",
+          "url": "https://open.spotify.com/artist/2HNADS1yqggfwoMmurRRvM"
         }
       ],
-      "duration_ms": 184551,
-      "name": "Me la pegu\u00e9",
-      "url": "https://open.spotify.com/track/5If3lF4jq4JiNAhgcdGo56"
+      "duration_ms": 218409,
+      "name": "Todas las Drogas del Mundo",
+      "url": "https://open.spotify.com/track/3cvoxKYRlvu1fBnXrIdZ6U"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "24 7",
-        "url": "https://open.spotify.com/album/5NbqLYm2jinvXThQz4QQm8"
-      },
-      "artists": [
-        {
-          "name": "GOMZ",
-          "url": "https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA"
-        }
-      ],
-      "duration_ms": 172061,
-      "name": "24 7",
-      "url": "https://open.spotify.com/track/42edNeWrOtXk4G63dSfw4E"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "KORAJE",
         "url": "https://open.spotify.com/album/57rBM3xWlhAHtGffXq8OZE"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 226549,
       "name": "KORAJE",
       "url": "https://open.spotify.com/track/4m6if2f135zgTxCGhR1jAj"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "24 7",
+        "url": "https://open.spotify.com/album/5NbqLYm2jinvXThQz4QQm8"
+      },
+      "artists": [
+        {
+          "name": "GOMZ",
+          "url": "https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA"
+        }
+      ],
+      "duration_ms": 172061,
+      "name": "24 7",
+      "url": "https://open.spotify.com/track/42edNeWrOtXk4G63dSfw4E"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "Ahora Qu\u00e9",
+        "url": "https://open.spotify.com/album/4at4PncnsDMz7UvjGX5sWo"
+      },
+      "artists": [
+        {
+          "name": "Mira Paula",
+          "url": "https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy"
+        }
+      ],
+      "duration_ms": 187300,
+      "name": "Ahora Qu\u00e9",
+      "url": "https://open.spotify.com/track/5dZ5xLXPB02NrOku9Vc0XP"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "HACER TEATRO",
         "url": "https://open.spotify.com/album/4QrD2b9rwY3O8acSduHOan"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 148650,
       "name": "BLU",
       "url": "https://open.spotify.com/track/1SBcduWy2JPFRDKqxBjowZ"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Ahora Qu\u00e9",
-        "url": "https://open.spotify.com/album/4at4PncnsDMz7UvjGX5sWo"
-      },
-      "artists": [
-        {
-          "name": "Mira Paula",
-          "url": "https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy"
-        }
-      ],
-      "duration_ms": 187300,
-      "name": "Ahora Qu\u00e9",
-      "url": "https://open.spotify.com/track/5dZ5xLXPB02NrOku9Vc0XP"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1687,8 +1687,8 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "GUAYA GUAYA",
-        "url": "https://open.spotify.com/album/1tpgr92aJbeazAyMziemfe"
+        "name": "AL OTRO LADO",
+        "url": "https://open.spotify.com/album/6AAmEXwhaKrKWwg4hDhpXF"
       },
       "artists": [
         {
@@ -1696,25 +1696,9 @@
           "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
         }
       ],
-      "duration_ms": 148401,
-      "name": "GUAYA GUAYA",
-      "url": "https://open.spotify.com/track/5vksHe2CEG5tOrLSSNug5U"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Lirio",
-        "url": "https://open.spotify.com/album/5cQw2HSuKKW43knh2PvS90"
-      },
-      "artists": [
-        {
-          "name": "Maestro Espada",
-          "url": "https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu"
-        }
-      ],
-      "duration_ms": 240853,
-      "name": "Lirio",
-      "url": "https://open.spotify.com/track/6zwZKkCRHb6dKUr0wL4UWw"
+      "duration_ms": 148911,
+      "name": "AL OTRO LADO",
+      "url": "https://open.spotify.com/track/2VYGbSmszhkB0CKEZbVFNW"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1731,6 +1715,22 @@
       "duration_ms": 184984,
       "name": "No Puedo M\u00e1s",
       "url": "https://open.spotify.com/track/7fdUvlp2k3PFxu9FwxxH9q"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Lirio",
+        "url": "https://open.spotify.com/album/5cQw2HSuKKW43knh2PvS90"
+      },
+      "artists": [
+        {
+          "name": "Maestro Espada",
+          "url": "https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu"
+        }
+      ],
+      "duration_ms": 240853,
+      "name": "Lirio",
+      "url": "https://open.spotify.com/track/6zwZKkCRHb6dKUr0wL4UWw"
     }
   ],
   "unique_name": "Radar Indie",

@@ -2,7 +2,7 @@
 
 ### [needle drop](https://open.spotify.com/playlist/37i9dQZF1DXbLzW15wHm9R)
 
-> Original and synced songs that will stay with you long after the credits roll...Cover: Despicable Me 4
+> Original and synced songs that will stay with you long after the credits roll...Cover: Twisters
 
 69 songs - 3 hr 48 min
 

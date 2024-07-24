@@ -2,9 +2,9 @@
 
 ### [EQUAL Japan](https://open.spotify.com/playlist/37i9dQZF1DX2K2376Q0zTJ)
 
-> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: 詩羽
+> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: LAUSBUB
 
-1,201 songs - 2 day 23 hr 7 min
+1,204 songs - 2 day 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [I LOVE YOUR LOVE](https://open.spotify.com/track/1Xg43VDHhBqOd0m3vXS6qI) | [Negicco](https://open.spotify.com/artist/4PoAqzGXLjpuYMmTRv24q6) | [I LOVE YOUR LOVE](https://open.spotify.com/album/5dfU89KvoiobJM370ITjMW) | 4:18 | 2022-01-04 | 2022-02-02 |
 | [I may forget](https://open.spotify.com/track/61NoS4X4BtEh5h1v6EtltS) | [Umi Shizukuda](https://open.spotify.com/artist/5hSpibCO0xGnObSoIlKwLS) | [Yagate Somaru Sikisai](https://open.spotify.com/album/62kKa5sRTz5SnAUdvNsaOk) | 4:07 | 2023-01-03 | 2023-02-02 |
 | [I miss u](https://open.spotify.com/track/668sMqHabPV0qMSO1lAy7l) | [AYA A.K.A PANDA](https://open.spotify.com/artist/6H3niqx3EU1Cg14nMe0PhN) | [2020](https://open.spotify.com/album/2dCJfiewbVEGiegYO9Dnnj) | 3:28 | 2022-04-05 | 2022-05-05 |
+| [I SYNC](https://open.spotify.com/track/51aSWkFg6MHg2ciLjcnFRw) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [ROMP](https://open.spotify.com/album/1aVH41SAin716xpep2O53d) | 4:19 | 2024-07-23 |  |
 | [I Told You A Lie](https://open.spotify.com/track/3P72qHQy3S0xsz352M4eMi) | [Lovely Summer Chan](https://open.spotify.com/artist/4nA0WP72lQ6494sT3xbips) | [THE THIRD SUMMER OF LOVE](https://open.spotify.com/album/5JsVqrDjEBa0WOtZSOgNPZ) | 4:03 | 2022-03-07 | 2023-04-05 |
 | [I'll be there](https://open.spotify.com/track/0hxfKPtzovzpOW4Kx7bKkw) | [ayutthaya](https://open.spotify.com/artist/0rTubhDFni3uMrx2nSK9WG) | [Lighthouse](https://open.spotify.com/album/00xXlkPx5MrAxB9YcyDR4w) | 3:13 | 2023-02-28 | 2024-02-07 |
 | [I'll Be There](https://open.spotify.com/track/49BOKTtuhLKqM7XQm8yl8f) | [ORESKABAND](https://open.spotify.com/artist/56OQWVhAWYw1yRxD0R2HSR) | [I'll Be There](https://open.spotify.com/album/5IlzLOvFOC3f5M02kTlhHK) | 3:12 | 2021-11-30 | 2022-01-05 |
@@ -591,7 +592,7 @@
 | [PURE MIND PURE HEART \- Lil Soft Tennis Remix](https://open.spotify.com/track/3hfwHcE3KnNLnoVyAIjwci) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn), [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ) | [PURE MIND PURE HEART \(Lil Soft Tennis Remix\)](https://open.spotify.com/album/4a6tXZTYeK5wPWavdH5mk3) | 3:20 | 2023-11-07 | 2023-11-30 |
 | [Pussy Wet](https://open.spotify.com/track/61WhutFRiu5dAQcqw4V0Nj) | [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj) | [PENTHOUSE](https://open.spotify.com/album/0LkcgrsOPVvh3RhDHeeoc6) | 2:46 | 2023-06-06 | 2023-07-05 |
 | [Queendom](https://open.spotify.com/track/3gX7aaWYtT3tLWUNblAbNe) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Queendom](https://open.spotify.com/album/4jj5K8UuV6fBOHj4nOCOON) | 3:27 | 2022-05-31 | 2024-04-03 |
-| [Question](https://open.spotify.com/track/4ueD865i4d25gzz3UoDSus) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [Question](https://open.spotify.com/album/3ianuamQ5HkgsPLaFGB4H6) | 2:51 | 2024-06-20 |  |
+| [Question](https://open.spotify.com/track/4ueD865i4d25gzz3UoDSus) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [Question](https://open.spotify.com/album/3ianuamQ5HkgsPLaFGB4H6) | 2:51 | 2024-06-20 | 2024-07-24 |
 | [R.I.P, friends](https://open.spotify.com/track/4Qqr08hTaK6rWNnNVFTIk6) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [R.I.P, friends](https://open.spotify.com/album/1CZI7e7RbHOyJnGXbxxJNh) | 2:47 | 2022-03-07 | 2022-04-06 |
 | [Radio](https://open.spotify.com/track/3u4GzYXc1DZLOA4VsKYhDW) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Radio](https://open.spotify.com/album/26vIvuoyMCPaYRC2ezOh1e) | 4:59 | 2023-11-07 | 2023-11-30 |
 | [Radio Days](https://open.spotify.com/track/4jSNWHZtzsWYxQgmRvQfJN) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Ethernity](https://open.spotify.com/album/50vJHtZI95zHU1zqjAsVu8) | 5:41 | 2022-11-08 | 2022-12-07 |
@@ -712,6 +713,7 @@
 | [Summer Trip](https://open.spotify.com/track/0WRltZItJzyw1oXBR2iH0z) | [lyrical school](https://open.spotify.com/artist/6V7cWMccRQEiOWSqygWYeK) | [PLAYBACK SUMMER ver.1.3](https://open.spotify.com/album/0WKDX7uZoAcd6K1Q7mAmpx) | 3:44 | 2022-08-02 | 2022-09-07 |
 | [Summer Tune](https://open.spotify.com/track/4oWNr6iIQgwG9yhLquOyUU) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Work\-life Island](https://open.spotify.com/album/7idGTwDPcl1mh9oCnVC42d) | 5:05 | 2023-08-01 | 2024-01-10 |
 | [Summertime Blue](https://open.spotify.com/track/2QJ0kxy1AGD4LdRwLrv308) | [Lil' Leise But Gold](https://open.spotify.com/artist/0u4knCwkqdkkwuG2ddLr4n), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Summertime Blue](https://open.spotify.com/album/34RWQZVuuUrk4Z6Ysior3a) | 3:25 | 2022-08-02 | 2024-04-03 |
+| [Sunburn](https://open.spotify.com/track/5rNmTueR51ym4tXPot3i4s) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [ati natu ep](https://open.spotify.com/album/4azQrQNfeoBVGK5dQuv716) | 3:12 | 2024-07-23 |  |
 | [Super Ball](https://open.spotify.com/track/6CBqqocRx76YtdMvGqD2HZ) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 3:23 | 2024-02-06 | 2024-03-06 |
 | [Super Hero](https://open.spotify.com/track/5fGqPgwGLJOiCD3hc3imNv) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Super Hero](https://open.spotify.com/album/4FN8M7IILtVO5KRWmAqWAq) | 2:41 | 2022-03-07 | 2023-04-05 |
 | [Super Hero](https://open.spotify.com/track/67RJETSrlV4PnwSwpKSVfb) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [W.O.L.F](https://open.spotify.com/album/0r1Yl2QyFlTSsGIcxM26bV) | 2:41 | 2022-05-04 | 2023-01-04 |
@@ -733,6 +735,7 @@
 | [Teenager](https://open.spotify.com/track/2bmq7wwgtGVPPJ0vYpjcXq) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [World Wide Pop](https://open.spotify.com/album/6iUUKuRHlCy9GeKmIwbPRu) | 2:59 | 2023-02-28 | 2024-01-10 |
 | [Teenager](https://open.spotify.com/track/2oXYNuC2MyRIBEAuhVCIAz) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Teenager](https://open.spotify.com/album/306w1PbQAo2jBo2k1IG7JJ) | 2:59 | 2022-09-06 | 2022-10-05 |
 | [Telefon](https://open.spotify.com/track/73uwU7sDSuwFrZlnWrtToF) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [Telefon](https://open.spotify.com/album/3HNvc9pFtMiciNaIpJck83) | 4:44 | 2022-05-31 | 2023-07-05 |
+| [Telefon \-2024 Session\-](https://open.spotify.com/track/2Mm6oiReHr4zijkqshldaZ) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [ROMP](https://open.spotify.com/album/1aVH41SAin716xpep2O53d) | 4:44 | 2024-07-23 |  |
 | [Tell Me What You Want](https://open.spotify.com/track/5P3gvRhrv9WRcLc6JGFSO3) | [minan](https://open.spotify.com/artist/7JYvme1EZU4RbxTjqVGkwh) | [ttyl](https://open.spotify.com/album/0McmwzkKm1RSEZSjlfMbed) | 3:57 | 2021-11-30 | 2022-01-05 |
 | [TERRAPLANE](https://open.spotify.com/track/2XiO3lYou5hoHKbhZxG0Li) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [TERRAPLANE](https://open.spotify.com/album/7gU7HZOk0NkBImfvakldNR) | 3:29 | 2022-05-31 | 2022-07-06 |
 | [Thank Uuuuu for ....](https://open.spotify.com/track/6M3BdsIKQfcjazn6AQaY72) | [U](https://open.spotify.com/artist/5yg4eMyfkrqwiI4AQsr65h) | [HEARTRHYTHMO](https://open.spotify.com/album/5e4WLSYxYacF9MyWdOdpqF) | 3:37 | 2022-01-04 | 2022-02-02 |
@@ -1022,7 +1025,7 @@
 | [マザーランド](https://open.spotify.com/track/5SZWCBRpEujCFwETNvfxzz) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 4:20 | 2022-02-01 | 2022-03-08 |
 | [マスコミュニケーション ブレイクダウン](https://open.spotify.com/track/3ZORZ2Vk7MIZGZN4B5AZWp) | [Shonen Knife](https://open.spotify.com/artist/4ukJlDdlvuQOHZdD2NVsFD) | [Candy Rock](https://open.spotify.com/album/03lO7W9qgC2tyfzAgOiG2j) | 3:27 | 2022-03-07 | 2022-04-06 |
 | [マヨイガ](https://open.spotify.com/track/0aAYM2ApVTzuNOgI0sZPmE) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [マヨイガ](https://open.spotify.com/album/2YZGywS2yeDOMmyhIU6wQM) | 5:19 | 2022-03-07 | 2022-03-16 |
-| [マーメイド](https://open.spotify.com/track/6ONu1NipaIbSQhYjR2ITer) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [POP DELIVERY](https://open.spotify.com/album/4IDkrDJxwVgTiMzywkPF6x) | 3:55 | 2024-06-20 |  |
+| [マーメイド](https://open.spotify.com/track/6ONu1NipaIbSQhYjR2ITer) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [POP DELIVERY](https://open.spotify.com/album/4IDkrDJxwVgTiMzywkPF6x) | 3:55 | 2024-06-20 | 2024-07-24 |
 | [メイビーベイビー](https://open.spotify.com/track/2nDa78IwSzJ2p1cRIojMGe) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [メイビーベイビー](https://open.spotify.com/album/5wtZx8Oy2cJNgkBZCzejBD) | 3:17 | 2022-02-01 | 2022-03-08 |
 | [モノクローム](https://open.spotify.com/track/2CKkxiBLvJwTaa0tpmVi6A) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [モノクローム](https://open.spotify.com/album/7ItZ6yrP6ejXg6xSupsvEv) | 3:23 | 2023-11-07 | 2023-11-30 |
 | [モーニングルーティン](https://open.spotify.com/track/1BCuK5Xrf7gA0GUv2hiw0w) | [OCHA∞ME](https://open.spotify.com/artist/0ZTPHSqruVKSdZSmCBskxT) | [モーニングルーティン](https://open.spotify.com/album/4cX3MYGdSniYrfwwaEAfEX) | 3:35 | 2024-06-20 | 2024-07-10 |
@@ -1164,7 +1167,7 @@
 | [生者の行進](https://open.spotify.com/track/6R4rDgrw56JCrLdbxSQeAE) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [放生会](https://open.spotify.com/album/37asoWjHlM134Da94j5kAc) | 3:00 | 2024-06-20 |  |
 | [留守にする](https://open.spotify.com/track/6VuGbW45hUYn5HjHdLvb02) | [ぎがもえか](https://open.spotify.com/artist/0cT2SUuJQREIkdEyTgDkl2) | [留守にする](https://open.spotify.com/album/7EgPc5Cm8VyNZSaYjLocX2) | 2:54 | 2024-04-02 | 2024-06-21 |
 | [白い光の朝に](https://open.spotify.com/track/1MzStPTZkewGb7V62h3oJ0) | [平賀さち枝とホームカミングス](https://open.spotify.com/artist/7daXqgLPvrwcojJhQW8sbz) | [白い光の朝に](https://open.spotify.com/album/53dr8vL5ohKyBCpVmNGL9C) | 5:35 | 2022-05-04 | 2022-06-01 |
-| [白銀の少女](https://open.spotify.com/track/0nkLonjyLwIYCxLTLSCaFa) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [景色一空](https://open.spotify.com/album/2XAZByUJaGLU5E60QB3zKb) | 3:10 | 2024-04-02 |  |
+| [白銀の少女](https://open.spotify.com/track/0nkLonjyLwIYCxLTLSCaFa) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [景色一空](https://open.spotify.com/album/2XAZByUJaGLU5E60QB3zKb) | 3:10 | 2024-04-02 | 2024-07-24 |
 | [皆誰かの大事](https://open.spotify.com/track/6HDc6CUGa7muH5w6LroE4O) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp) | [はみ出て!](https://open.spotify.com/album/1au12MdCdbwhk7GrEh7zAF) | 3:24 | 2022-10-04 | 2022-11-09 |
 | [祈り](https://open.spotify.com/track/0ph6k0XbsCiQpsJpxGD6xB) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [祈り](https://open.spotify.com/album/1e6WEdodkaP46oUxzb8erB) | 3:34 | 2022-02-01 | 2022-03-08 |
 | [祝日天国](https://open.spotify.com/track/6zTD1K9pkrFg4UN7reegf1) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [祝日天国](https://open.spotify.com/album/5n0s8subG1xzl9SDxBT58D) | 4:01 | 2024-01-09 | 2024-02-07 |

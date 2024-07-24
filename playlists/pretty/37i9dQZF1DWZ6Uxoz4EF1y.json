@@ -1,6 +1,6 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 189314,
+  "num_followers": 189399,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
@@ -675,26 +675,6 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "M\u00e1s De Ti (En Vivo)",
-        "url": "https://open.spotify.com/album/5m3q4lnbfxqOaMRMa6Rv0v"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        },
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 189075,
-      "name": "M\u00e1s De Ti - En Vivo",
-      "url": "https://open.spotify.com/track/4uwio9wbH4WLzB1UvFMnks"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
         "name": "HAY M\u00c1S",
         "url": "https://open.spotify.com/album/5X0oCa1m7BHMV0xd09GUG5"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 241506,
       "name": "Hermoso Nombre",
       "url": "https://open.spotify.com/track/4vcEBtKQLHwJSTVPa42mub"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
+        "name": "M\u00e1s De Ti (En Vivo)",
+        "url": "https://open.spotify.com/album/5m3q4lnbfxqOaMRMa6Rv0v"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        },
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 189075,
+      "name": "M\u00e1s De Ti - En Vivo",
+      "url": "https://open.spotify.com/track/4uwio9wbH4WLzB1UvFMnks"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -959,26 +959,6 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "Bethel Music en Espa\u00f1ol (Live)",
-        "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Hunter Thompson",
-          "url": "https://open.spotify.com/artist/0NjFV1dPOxLHtEn4sPhUTd"
-        }
-      ],
-      "duration_ms": 465386,
-      "name": "S\u00e9 Entronado - Live",
-      "url": "https://open.spotify.com/track/6RjPeSyTInfDrkfOdKHUXa"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
         "name": "Gracias",
         "url": "https://open.spotify.com/album/6fo1XymhMMxx90DkdF5uYd"
       },
@@ -1011,18 +991,22 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "Nada Guardaste",
-        "url": "https://open.spotify.com/album/2ijSFbYgcekIrCJLcpsHrd"
+        "name": "Bethel Music en Espa\u00f1ol (Live)",
+        "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
       },
       "artists": [
         {
-          "name": "Ana Bolivar",
-          "url": "https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV"
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Hunter Thompson",
+          "url": "https://open.spotify.com/artist/0NjFV1dPOxLHtEn4sPhUTd"
         }
       ],
-      "duration_ms": 219320,
-      "name": "Nada Guardaste",
-      "url": "https://open.spotify.com/track/5tI6ogwTmRC4M9xR9PF8QS"
+      "duration_ms": 465386,
+      "name": "S\u00e9 Entronado - Live",
+      "url": "https://open.spotify.com/track/6RjPeSyTInfDrkfOdKHUXa"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
+        "name": "Nada Guardaste",
+        "url": "https://open.spotify.com/album/2ijSFbYgcekIrCJLcpsHrd"
+      },
+      "artists": [
+        {
+          "name": "Ana Bolivar",
+          "url": "https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Nada Guardaste",
+      "url": "https://open.spotify.com/track/5tI6ogwTmRC4M9xR9PF8QS"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
         "name": "En Esto Creo (Spanish)",
         "url": "https://open.spotify.com/album/2bjV5XKKD0g4wDFnsWBVhi"
       },
@@ -1059,22 +1059,6 @@
       "duration_ms": 347826,
       "name": "Gracias Cristo",
       "url": "https://open.spotify.com/track/7ygwj3GsJoPm1CV8F5RkWk"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
-        "name": "Dios Es Capaz",
-        "url": "https://open.spotify.com/album/6pwUONBD4QgCMuhWBOvkFP"
-      },
-      "artists": [
-        {
-          "name": "Neil Velez",
-          "url": "https://open.spotify.com/artist/3nmPn9zOoi1qRWg53KPmeO"
-        }
-      ],
-      "duration_ms": 312842,
-      "name": "Cristo Vive En Mi",
-      "url": "https://open.spotify.com/track/5EtaxdTij2mISJwbnwWhsD"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1095,6 +1079,22 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
+        "name": "Dios Es Capaz",
+        "url": "https://open.spotify.com/album/6pwUONBD4QgCMuhWBOvkFP"
+      },
+      "artists": [
+        {
+          "name": "Neil Velez",
+          "url": "https://open.spotify.com/artist/3nmPn9zOoi1qRWg53KPmeO"
+        }
+      ],
+      "duration_ms": 312842,
+      "name": "Cristo Vive En Mi",
+      "url": "https://open.spotify.com/track/5EtaxdTij2mISJwbnwWhsD"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
         "name": "El Poder De Tu Amor",
         "url": "https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW"
       },
@@ -1107,6 +1107,26 @@
       "duration_ms": 291173,
       "name": "Inmenso Amor",
       "url": "https://open.spotify.com/track/4WlN1c3Paa7BeJWmjdcGgs"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
+        "name": "Esto Es Jesus Culture",
+        "url": "https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 225493,
+      "name": "Amor Imparable",
+      "url": "https://open.spotify.com/track/3VkvPeQbdwEYNTs20CJq6U"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1215,22 +1235,18 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "Esto Es Jesus Culture",
-        "url": "https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY"
+        "name": "Con el Mundo de Cabeza",
+        "url": "https://open.spotify.com/album/2Re9RMM7QJWkCkwzP8Qs96"
       },
       "artists": [
         {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+          "name": "Estaci\u00f3n Cero",
+          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
         }
       ],
-      "duration_ms": 225493,
-      "name": "Amor Imparable",
-      "url": "https://open.spotify.com/track/3VkvPeQbdwEYNTs20CJq6U"
+      "duration_ms": 199973,
+      "name": "Vamos Pa' Arriba",
+      "url": "https://open.spotify.com/track/3DoSTizW3tVtAxDrOc65nD"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1247,22 +1263,6 @@
       "duration_ms": 376362,
       "name": "Tu Me Compraste",
       "url": "https://open.spotify.com/track/47tS4Ocwk0OYLJTJ5L1e7c"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
-        "name": "Con el Mundo de Cabeza",
-        "url": "https://open.spotify.com/album/2Re9RMM7QJWkCkwzP8Qs96"
-      },
-      "artists": [
-        {
-          "name": "Estaci\u00f3n Cero",
-          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
-        }
-      ],
-      "duration_ms": 199973,
-      "name": "Vamos Pa' Arriba",
-      "url": "https://open.spotify.com/track/3DoSTizW3tVtAxDrOc65nD"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
+        "name": "Vivo Est\u00e1s",
+        "url": "https://open.spotify.com/album/1cQr278wCe9Vk7k2wpNULc"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 377346,
+      "name": "Tu Gran Nombre (Your Great Name)",
+      "url": "https://open.spotify.com/track/6WffpuiAQBiYCmMdQY8pHC"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
         "name": "Tu Reino Est\u00e1 Aqu\u00ed",
         "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 715466,
       "name": "Quiero Conocer a Jes\u00fas (Yeshua) / Nuestro Dios",
       "url": "https://open.spotify.com/track/293og3yEKwAjriGh8ps8W9"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
-        "name": "Vivo Est\u00e1s",
-        "url": "https://open.spotify.com/album/1cQr278wCe9Vk7k2wpNULc"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 377346,
-      "name": "Tu Gran Nombre (Your Great Name)",
-      "url": "https://open.spotify.com/track/6WffpuiAQBiYCmMdQY8pHC"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1523,30 +1523,6 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        },
-        {
-          "name": "Josu\u00e9 Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL"
-        }
-      ],
-      "duration_ms": 333893,
-      "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-      "url": "https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
         "name": "Me Has Hecho Libre",
         "url": "https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI"
       },
@@ -1595,26 +1571,6 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "Somos Iglesia",
-        "url": "https://open.spotify.com/album/0hpOmncVbSSfbec3IZGL9T"
-      },
-      "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Kim Richards",
-          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
-        }
-      ],
-      "duration_ms": 288800,
-      "name": "Jesucristo basta",
-      "url": "https://open.spotify.com/track/6aIiv3gW1ZwtST6nXG6SRd"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
         "name": "Amanece (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy"
       },
@@ -1631,6 +1587,50 @@
       "duration_ms": 447491,
       "name": "Lo Unico Que Quiero",
       "url": "https://open.spotify.com/track/1HCKcrifeQmtEXwEqfXcjD"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        },
+        {
+          "name": "Josu\u00e9 Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL"
+        }
+      ],
+      "duration_ms": 333893,
+      "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+      "url": "https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
+        "name": "Somos Iglesia",
+        "url": "https://open.spotify.com/album/0hpOmncVbSSfbec3IZGL9T"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        }
+      ],
+      "duration_ms": 288800,
+      "name": "Jesucristo basta",
+      "url": "https://open.spotify.com/track/6aIiv3gW1ZwtST6nXG6SRd"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "Dios Cuida De M\u00ed",
-        "url": "https://open.spotify.com/album/0uwZ5P5zNmkvJDWjtrTM5Z"
-      },
-      "artists": [
-        {
-          "name": "Danny Berrios",
-          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
-        }
-      ],
-      "duration_ms": 312084,
-      "name": "Mi Cristo Vive",
-      "url": "https://open.spotify.com/track/3r0HrAgIIyDgorXKYtmZE4"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
         "name": "Glorioso Rey",
         "url": "https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 310231,
       "name": "Perfume a Tus Pies",
       "url": "https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
+        "name": "Dios Cuida De M\u00ed",
+        "url": "https://open.spotify.com/album/0uwZ5P5zNmkvJDWjtrTM5Z"
+      },
+      "artists": [
+        {
+          "name": "Danny Berrios",
+          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
+        }
+      ],
+      "duration_ms": 312084,
+      "name": "Mi Cristo Vive",
+      "url": "https://open.spotify.com/track/3r0HrAgIIyDgorXKYtmZE4"
     },
     {
       "added_at": "2024-07-01 23:21:40",

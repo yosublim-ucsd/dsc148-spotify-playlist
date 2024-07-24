@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Samuel Rosa",
-  "num_followers": 345742,
+  "num_followers": 345775,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -8,26 +8,6 @@
   },
   "snapshot_id": "ZpnWsAAAAABrXxFlBBog/oxMPpO6YDkW",
   "tracks": [
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Silva & Liniker (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Sorte - Ao Vivo",
-      "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
-    },
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 219375,
       "name": "Telegrama",
       "url": "https://open.spotify.com/track/1lefOCsfwCo30VN7NkuqL9"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Silva & Liniker (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Sorte - Ao Vivo",
+      "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Antes Que O Mundo Acabe",
-        "url": "https://open.spotify.com/album/7rAGzb5tmPjeJRJZULY1GD"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 198961,
-      "name": "Eu S\u00f3 Queria...",
-      "url": "https://open.spotify.com/track/6F9UyxHuKfvHOmfMkRDCdm"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar)",
         "url": "https://open.spotify.com/album/4QJCD7DW0AEzBr6FWe2E8d"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 324529,
       "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar) [Feat. Maria Gadu, Lianne La Havas, Tim Bernardes]",
       "url": "https://open.spotify.com/track/55J4oeEuPKa5tHu4qBGR1A"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Antes Que O Mundo Acabe",
+        "url": "https://open.spotify.com/album/7rAGzb5tmPjeJRJZULY1GD"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 198961,
+      "name": "Eu S\u00f3 Queria...",
+      "url": "https://open.spotify.com/track/6F9UyxHuKfvHOmfMkRDCdm"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Doce Vampiro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ZQHhjyNkL1utoEVM975nL"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 169890,
-      "name": "Doce Vampiro - Ao Vivo",
-      "url": "https://open.spotify.com/track/0dGjakfmSuFILGzEWGOZos"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Malandragem",
         "url": "https://open.spotify.com/album/4nOyvI1MmLYEFmh31m95Ne"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 231648,
       "name": "Malandragem",
       "url": "https://open.spotify.com/track/2AnFF6VJTemksxNOuqrtV4"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Doce Vampiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ZQHhjyNkL1utoEVM975nL"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 169890,
+      "name": "Doce Vampiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/0dGjakfmSuFILGzEWGOZos"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Garoa",
-        "url": "https://open.spotify.com/album/2Z0bo7Vd5g3vBATeAa6SHe"
-      },
-      "artists": [
-        {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Voa",
-      "url": "https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Coment\u00e1rio a Respeito de John",
         "url": "https://open.spotify.com/album/6WOf0ipvapNBTYVxG1SF54"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Casa de Boneca",
-        "url": "https://open.spotify.com/album/2HKCooq58CYNbgVnVlZka2"
+        "name": "Garoa",
+        "url": "https://open.spotify.com/album/2Z0bo7Vd5g3vBATeAa6SHe"
       },
       "artists": [
         {
-          "name": "Nina Oliveira",
-          "url": "https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1"
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
         }
       ],
-      "duration_ms": 159230,
-      "name": "Casa de Boneca",
-      "url": "https://open.spotify.com/track/4RD4FUbGQqHE8nMnv3inYJ"
+      "duration_ms": 164000,
+      "name": "Voa",
+      "url": "https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -655,6 +639,46 @@
       "duration_ms": 184000,
       "name": "Romance",
       "url": "https://open.spotify.com/track/7JqcuxIUQDuLNE8LMoRB7X"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Casa de Boneca",
+        "url": "https://open.spotify.com/album/2HKCooq58CYNbgVnVlZka2"
+      },
+      "artists": [
+        {
+          "name": "Nina Oliveira",
+          "url": "https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1"
+        }
+      ],
+      "duration_ms": 159230,
+      "name": "Casa de Boneca",
+      "url": "https://open.spotify.com/track/4RD4FUbGQqHE8nMnv3inYJ"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Uma nova hist\u00f3ria",
+        "url": "https://open.spotify.com/album/6dmkpr3VWbOluaJ5eyvY5y"
+      },
+      "artists": [
+        {
+          "name": "Dota Kehr",
+          "url": "https://open.spotify.com/artist/4r6pmr8iusCbyG0TSi6Aga"
+        },
+        {
+          "name": "Danilo Guilherme",
+          "url": "https://open.spotify.com/artist/2Tdp01f0oQIAkykqdsR0iN"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 159434,
+      "name": "Uma nova hist\u00f3ria",
+      "url": "https://open.spotify.com/track/2KHtLExG4RWkxSa9uzSBmF"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -715,30 +739,6 @@
       "duration_ms": 189015,
       "name": "Depois Da Meia Noite",
       "url": "https://open.spotify.com/track/7wzORro0Gozq6FmEU3Tery"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Uma nova hist\u00f3ria",
-        "url": "https://open.spotify.com/album/6dmkpr3VWbOluaJ5eyvY5y"
-      },
-      "artists": [
-        {
-          "name": "Dota Kehr",
-          "url": "https://open.spotify.com/artist/4r6pmr8iusCbyG0TSi6Aga"
-        },
-        {
-          "name": "Danilo Guilherme",
-          "url": "https://open.spotify.com/artist/2Tdp01f0oQIAkykqdsR0iN"
-        },
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 159434,
-      "name": "Uma nova hist\u00f3ria",
-      "url": "https://open.spotify.com/track/2KHtLExG4RWkxSa9uzSBmF"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -835,6 +835,26 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "Paisagem",
+        "url": "https://open.spotify.com/album/6QJfLIoORUht7DGSfZmcNo"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        },
+        {
+          "name": "Arthur Verocai",
+          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Apazigua",
+      "url": "https://open.spotify.com/track/60p6i7sTLp2wVk5Wpv4nqr"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/2FJ0GVWlaNzsTmc1YnFFyc"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 196319,
       "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/2NKaOIKEoRdCitUlZXLRLA"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Paisagem",
-        "url": "https://open.spotify.com/album/6QJfLIoORUht7DGSfZmcNo"
-      },
-      "artists": [
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        },
-        {
-          "name": "Arthur Verocai",
-          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Apazigua",
-      "url": "https://open.spotify.com/track/60p6i7sTLp2wVk5Wpv4nqr"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -923,6 +923,22 @@
       "duration_ms": 147154,
       "name": "Eu Ainda Acredito no Amor",
       "url": "https://open.spotify.com/track/1ytuH7ETjrdU5sV2C4YcVE"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Baianidade Nag\u00f4",
+        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Baianidade Nag\u00f4",
+      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1039,6 +1055,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "\u00c2mbar",
+        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
+      },
+      "artists": [
+        {
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+        }
+      ],
+      "duration_ms": 172586,
+      "name": "\u00c2mbar",
+      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "Apressa",
         "url": "https://open.spotify.com/album/3FSxBRRdYvGUfu4zWXiWQZ"
       },
@@ -1055,18 +1087,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Baianidade Nag\u00f4",
-        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
+        "name": "Quero Andar Com Voc\u00ea",
+        "url": "https://open.spotify.com/album/0Gze0JKX4Ls4QlSfrLQaqy"
       },
       "artists": [
         {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+          "name": "Regina Souza",
+          "url": "https://open.spotify.com/artist/20L6gsqmlHaA3SVwbnSWGi"
+        },
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Baianidade Nag\u00f4",
-      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
+      "duration_ms": 216181,
+      "name": "Quero Andar Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/5xDxDcBJ7C5c8Ky4ArUdTV"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1087,22 +1123,6 @@
       "duration_ms": 230441,
       "name": "De: Terra; Para: Humanidade",
       "url": "https://open.spotify.com/track/1n6VdycCDCT3LkTvVJF0vK"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "\u00c2mbar",
-        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
-      },
-      "artists": [
-        {
-          "name": "Tain\u00e1",
-          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "\u00c2mbar",
-      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1187,26 +1207,6 @@
       "duration_ms": 189206,
       "name": "Esque\u00e7a Tudo",
       "url": "https://open.spotify.com/track/5JKn2MgAqLWRXAWwxvB6tp"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Quero Andar Com Voc\u00ea",
-        "url": "https://open.spotify.com/album/0Gze0JKX4Ls4QlSfrLQaqy"
-      },
-      "artists": [
-        {
-          "name": "Regina Souza",
-          "url": "https://open.spotify.com/artist/20L6gsqmlHaA3SVwbnSWGi"
-        },
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 216181,
-      "name": "Quero Andar Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/5xDxDcBJ7C5c8Ky4ArUdTV"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "SEGUNDA OU TER\u00c7A",
+        "url": "https://open.spotify.com/album/3Ux5I1tcBaNrGXwZmSMgpJ"
+      },
+      "artists": [
+        {
+          "name": "Paulo Carvalho",
+          "url": "https://open.spotify.com/artist/6ccToSMDmjUKz4IlXyYsWn"
+        },
+        {
+          "name": "Pedro Lu\u00eds",
+          "url": "https://open.spotify.com/artist/53I3ei5phGm4Z89ge81X4O"
+        }
+      ],
+      "duration_ms": 228231,
+      "name": "SEGUNDA OU TER\u00c7A",
+      "url": "https://open.spotify.com/track/38JMlvZq6X1mDkvs1bCmcB"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "Camangada",
         "url": "https://open.spotify.com/album/0jPHoKSXL5Dai0XXWi6ktU"
       },
@@ -1319,26 +1339,6 @@
       "duration_ms": 268322,
       "name": "Camangada",
       "url": "https://open.spotify.com/track/61WYa5NtQS6lrxhkHP4lKf"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "SEGUNDA OU TER\u00c7A",
-        "url": "https://open.spotify.com/album/3Ux5I1tcBaNrGXwZmSMgpJ"
-      },
-      "artists": [
-        {
-          "name": "Paulo Carvalho",
-          "url": "https://open.spotify.com/artist/6ccToSMDmjUKz4IlXyYsWn"
-        },
-        {
-          "name": "Pedro Lu\u00eds",
-          "url": "https://open.spotify.com/artist/53I3ei5phGm4Z89ge81X4O"
-        }
-      ],
-      "duration_ms": 228231,
-      "name": "SEGUNDA OU TER\u00c7A",
-      "url": "https://open.spotify.com/track/38JMlvZq6X1mDkvs1bCmcB"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Vento Leva",
-        "url": "https://open.spotify.com/album/3aQcIWCb8gamT5efAa4iIu"
-      },
-      "artists": [
-        {
-          "name": "Becca Perret",
-          "url": "https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior"
-        }
-      ],
-      "duration_ms": 177706,
-      "name": "Vento Leva",
-      "url": "https://open.spotify.com/track/0UdCw6cxeNwYjGjS531p2T"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "BabyBaby",
         "url": "https://open.spotify.com/album/7noIaTUzmAOAsF8o5IIw0c"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Soa",
-        "url": "https://open.spotify.com/album/4eA0ogN0YFgFUsGk3v4rGi"
+        "name": "Vento Leva",
+        "url": "https://open.spotify.com/album/3aQcIWCb8gamT5efAa4iIu"
       },
       "artists": [
         {
-          "name": "ISADDORA",
-          "url": "https://open.spotify.com/artist/51OHjo8o1c3WImL1KUQG21"
+          "name": "Becca Perret",
+          "url": "https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior"
         }
       ],
-      "duration_ms": 163800,
-      "name": "ciranda",
-      "url": "https://open.spotify.com/track/1yLGE1ymAIXlOa6zwbUFIA"
+      "duration_ms": 177706,
+      "name": "Vento Leva",
+      "url": "https://open.spotify.com/track/0UdCw6cxeNwYjGjS531p2T"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1523,18 +1507,18 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "J\u00e3o",
-        "url": "https://open.spotify.com/album/5U8iCKeOjvTIJkj8brSoo1"
+        "name": "Soa",
+        "url": "https://open.spotify.com/album/4eA0ogN0YFgFUsGk3v4rGi"
       },
       "artists": [
         {
-          "name": "MOMO.",
-          "url": "https://open.spotify.com/artist/59U0b1U9BXyD2ftlbJUdXM"
+          "name": "ISADDORA",
+          "url": "https://open.spotify.com/artist/51OHjo8o1c3WImL1KUQG21"
         }
       ],
-      "duration_ms": 300225,
-      "name": "J\u00e3o",
-      "url": "https://open.spotify.com/track/3M80e1o76JHkyMDz2UsJFs"
+      "duration_ms": 163800,
+      "name": "ciranda",
+      "url": "https://open.spotify.com/track/1yLGE1ymAIXlOa6zwbUFIA"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "J\u00e3o",
+        "url": "https://open.spotify.com/album/5U8iCKeOjvTIJkj8brSoo1"
+      },
+      "artists": [
+        {
+          "name": "MOMO.",
+          "url": "https://open.spotify.com/artist/59U0b1U9BXyD2ftlbJUdXM"
+        }
+      ],
+      "duration_ms": 300225,
+      "name": "J\u00e3o",
+      "url": "https://open.spotify.com/track/3M80e1o76JHkyMDz2UsJFs"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "PERNAMBUCANA",
         "url": "https://open.spotify.com/album/0HoOXLK65NE1EvegdBlzd2"
       },
@@ -1575,6 +1575,22 @@
       "duration_ms": 199503,
       "name": "PERNAMBUCANA",
       "url": "https://open.spotify.com/track/0Q62TpLE71tDSBbm6pqi9C"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Prece",
+        "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
+      },
+      "artists": [
+        {
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
+        }
+      ],
+      "duration_ms": 227906,
+      "name": "Prece",
+      "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1595,22 +1611,6 @@
       "duration_ms": 181496,
       "name": "Fascina\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3WNTi4K0O6oaK306nHDNm0"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Prece",
-        "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
-      },
-      "artists": [
-        {
-          "name": "RAY",
-          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
-        }
-      ],
-      "duration_ms": 227906,
-      "name": "Prece",
-      "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
     },
     {
       "added_at": "2024-07-19 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Kalki 2898 Ad",
-  "num_followers": 121400,
+  "num_followers": 121749,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpi1IQAAAABG1Ywa83lNweMhiFnXdhaR",
+  "snapshot_id": "Zp9zEgAAAADDFuVIY/3y5NoScKwUtOY/",
   "tracks": [
     {
       "added_at": "2024-06-16 12:40:05",
@@ -31,6 +31,34 @@
       "duration_ms": 163354,
       "name": "Bhairava Anthem (From \"Kalki 2898 Ad\") (Telugu)",
       "url": "https://open.spotify.com/track/5kNydYWkUyXh4zVoy8QDmC"
+    },
+    {
+      "added_at": "2024-07-23 09:08:34",
+      "album": {
+        "name": "Double ISMART",
+        "url": "https://open.spotify.com/album/0eJwR4VRUiGRuU7wjG3QfD"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Sahithi Chaganti",
+          "url": "https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM"
+        },
+        {
+          "name": "Bhaskarabhatla",
+          "url": "https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu"
+        }
+      ],
+      "duration_ms": 232602,
+      "name": "SteppaMaar",
+      "url": "https://open.spotify.com/track/7vLR2TSzHEVUNlKm5dcYpo"
     },
     {
       "added_at": "2024-06-05 09:12:34",
@@ -279,26 +307,6 @@
       "duration_ms": 195115,
       "name": "Odiyamma (From \"Hi Nanna\") [TELUGU]",
       "url": "https://open.spotify.com/track/1g9V1QE7vbeAx5Xm04DfLi"
-    },
-    {
-      "added_at": "2024-06-04 06:47:16",
-      "album": {
-        "name": "Jai Balayya Mass Anthem (From \"Veera Simha Reddy\")",
-        "url": "https://open.spotify.com/album/0UJmlCKMIze1ajenoDeedX"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Kareemullah",
-          "url": "https://open.spotify.com/artist/04xyKkk9EW7xvbxWQOOXZf"
-        }
-      ],
-      "duration_ms": 230791,
-      "name": "Jai Balayya Mass Anthem",
-      "url": "https://open.spotify.com/track/6Ic8DEtpraRuSk1eY4q2ms"
     },
     {
       "added_at": "2023-11-06 11:12:57",

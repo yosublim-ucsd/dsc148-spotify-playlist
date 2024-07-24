@@ -523,6 +523,22 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
+        "name": "BAD BEHAVIORS",
+        "url": "https://open.spotify.com/album/5fASm7hVEv3LWShYTVXqAV"
+      },
+      "artists": [
+        {
+          "name": "ND Kobi'",
+          "url": "https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl"
+        }
+      ],
+      "duration_ms": 190589,
+      "name": "BAD BEHAVIORS",
+      "url": "https://open.spotify.com/track/2PrvvsroFvKyI8ERdB0URU"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
         "name": "MISMAS BITCHES",
         "url": "https://open.spotify.com/album/3TaFegKf8CdoHToIzfo9me"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 143927,
       "name": "MISMAS BITCHES",
       "url": "https://open.spotify.com/track/1VYHBSsWYOsxJFsbOUUkX3"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "BAD BEHAVIORS",
-        "url": "https://open.spotify.com/album/5fASm7hVEv3LWShYTVXqAV"
-      },
-      "artists": [
-        {
-          "name": "ND Kobi'",
-          "url": "https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl"
-        }
-      ],
-      "duration_ms": 190589,
-      "name": "BAD BEHAVIORS",
-      "url": "https://open.spotify.com/track/2PrvvsroFvKyI8ERdB0URU"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "No Le Da",
-        "url": "https://open.spotify.com/album/11SF9gtSSELyyrWnPoWdhf"
-      },
-      "artists": [
-        {
-          "name": "SFDK",
-          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "No Le Da",
-      "url": "https://open.spotify.com/track/1C4ib4NrEVno8VkHXDtvRY"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
         "name": "T\u00e9 Con Miel",
         "url": "https://open.spotify.com/album/5fK00gfjMpU3hRUsIC9ryP"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 213940,
       "name": "T\u00e9 Con Miel",
       "url": "https://open.spotify.com/track/6s0hTXicqoUdVHSndFNtBx"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "No Le Da",
+        "url": "https://open.spotify.com/album/11SF9gtSSELyyrWnPoWdhf"
+      },
+      "artists": [
+        {
+          "name": "SFDK",
+          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "No Le Da",
+      "url": "https://open.spotify.com/track/1C4ib4NrEVno8VkHXDtvRY"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "El Sol",
-        "url": "https://open.spotify.com/album/1wpkzV51fjsIlKpTPfx5pl"
-      },
-      "artists": [
-        {
-          "name": "LosPetitFellas",
-          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
-        }
-      ],
-      "duration_ms": 224521,
-      "name": "El Sol",
-      "url": "https://open.spotify.com/track/2qaRS0nH4KHINXl2nMNQFZ"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
         "name": "Ni Con Money",
         "url": "https://open.spotify.com/album/4VTP9EUl9ssmAHgxCJuAxA"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 246666,
       "name": "Ni Con Money",
       "url": "https://open.spotify.com/track/4YOtMbDO0RlkGdqGKTM76E"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "El Sol",
+        "url": "https://open.spotify.com/album/1wpkzV51fjsIlKpTPfx5pl"
+      },
+      "artists": [
+        {
+          "name": "LosPetitFellas",
+          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
+        }
+      ],
+      "duration_ms": 224521,
+      "name": "El Sol",
+      "url": "https://open.spotify.com/track/2qaRS0nH4KHINXl2nMNQFZ"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -851,26 +851,6 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "Uh La La",
-        "url": "https://open.spotify.com/album/4UgDDoaOgvQXiry2wkWMG9"
-      },
-      "artists": [
-        {
-          "name": "Villax",
-          "url": "https://open.spotify.com/artist/4HkxgUTD15NUWSqxA2VfhN"
-        },
-        {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Uh La La",
-      "url": "https://open.spotify.com/track/0oR442tmn2hgZ5jYycPKO3"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
         "name": "EL POINT",
         "url": "https://open.spotify.com/album/7gcS8OYnRu1Wanx11hsu6t"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 150000,
       "name": "EL POINT",
       "url": "https://open.spotify.com/track/1wpTe5DR763yUG00YExCUS"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "Uh La La",
+        "url": "https://open.spotify.com/album/4UgDDoaOgvQXiry2wkWMG9"
+      },
+      "artists": [
+        {
+          "name": "Villax",
+          "url": "https://open.spotify.com/artist/4HkxgUTD15NUWSqxA2VfhN"
+        },
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Uh La La",
+      "url": "https://open.spotify.com/track/0oR442tmn2hgZ5jYycPKO3"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -967,6 +967,26 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
+        "name": "Eva, Ad\u00e1n y las Manzanas",
+        "url": "https://open.spotify.com/album/10qNIsok5o6cUfcVCl1TBC"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Gema Tom\u00e1s",
+          "url": "https://open.spotify.com/artist/1eenupXk2LMDwE3lCHBEhN"
+        }
+      ],
+      "duration_ms": 296460,
+      "name": "Eva, Ad\u00e1n y las Manzanas",
+      "url": "https://open.spotify.com/track/4S7HqetuvEZ8P66rakdmf6"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
         "name": "Parlante",
         "url": "https://open.spotify.com/album/3alCeWkJMPizFI5bO70mw3"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 261311,
       "name": "Parlante",
       "url": "https://open.spotify.com/track/0NLbyORu1l5SNT0ZNDOU6L"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "Eva, Ad\u00e1n y las Manzanas",
-        "url": "https://open.spotify.com/album/10qNIsok5o6cUfcVCl1TBC"
-      },
-      "artists": [
-        {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
-        },
-        {
-          "name": "Gema Tom\u00e1s",
-          "url": "https://open.spotify.com/artist/1eenupXk2LMDwE3lCHBEhN"
-        }
-      ],
-      "duration_ms": 296460,
-      "name": "Eva, Ad\u00e1n y las Manzanas",
-      "url": "https://open.spotify.com/track/4S7HqetuvEZ8P66rakdmf6"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "Martes 13",
-        "url": "https://open.spotify.com/album/6SfMocOzm1gU9EkfQYYTV8"
-      },
-      "artists": [
-        {
-          "name": "Homer El Mero Mero",
-          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
-        }
-      ],
-      "duration_ms": 156322,
-      "name": "Martes 13",
-      "url": "https://open.spotify.com/track/1cNk3FjSc4aQEcR94laLhg"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
         "name": "Trinidad",
         "url": "https://open.spotify.com/album/1Cci7b8OkTzn8zSYsRq9Gh"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 246785,
       "name": "Toma",
       "url": "https://open.spotify.com/track/1PFPCkKVJGpRO90EOznoSQ"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "Martes 13",
+        "url": "https://open.spotify.com/album/6SfMocOzm1gU9EkfQYYTV8"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "duration_ms": 156322,
+      "name": "Martes 13",
+      "url": "https://open.spotify.com/track/1cNk3FjSc4aQEcR94laLhg"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "Princesa",
-        "url": "https://open.spotify.com/album/0F2L9kw8XUDcYCDUC7lESv"
-      },
-      "artists": [
-        {
-          "name": "Pitt Blanco",
-          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 232320,
-      "name": "Princesa",
-      "url": "https://open.spotify.com/track/3e4EVVtrYQaKHAmM5G7oAb"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
         "name": "Millo",
         "url": "https://open.spotify.com/album/4yQ1Fbc1n8DRCrw2DFyBx1"
       },
@@ -1355,18 +1335,22 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "MC Davo En Vivo: Parte 1",
-        "url": "https://open.spotify.com/album/22nziBYtQx99cuPNviBuB0"
+        "name": "Princesa",
+        "url": "https://open.spotify.com/album/0F2L9kw8XUDcYCDUC7lESv"
       },
       "artists": [
         {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+          "name": "Pitt Blanco",
+          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
         }
       ],
-      "duration_ms": 194383,
-      "name": "Adi\u00f3s - En Vivo",
-      "url": "https://open.spotify.com/track/7a4T12ZnRyt2kxA3NHgLwj"
+      "duration_ms": 232320,
+      "name": "Princesa",
+      "url": "https://open.spotify.com/track/3e4EVVtrYQaKHAmM5G7oAb"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1403,6 +1387,22 @@
       "duration_ms": 140930,
       "name": "F\u00e9 De M\u00e1s",
       "url": "https://open.spotify.com/track/23fBJOOeJXnc1URyRjDLju"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "MC Davo En Vivo: Parte 1",
+        "url": "https://open.spotify.com/album/22nziBYtQx99cuPNviBuB0"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 194383,
+      "name": "Adi\u00f3s - En Vivo",
+      "url": "https://open.spotify.com/track/7a4T12ZnRyt2kxA3NHgLwj"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1447,6 +1447,26 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
+        "name": "A Solas",
+        "url": "https://open.spotify.com/album/3jGg8lgUeNP74f9kyULRKr"
+      },
+      "artists": [
+        {
+          "name": "Juan Sinatra",
+          "url": "https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y"
+        },
+        {
+          "name": "Inti Sigma",
+          "url": "https://open.spotify.com/artist/3wAPsE5VK5xEt0gqf1w0p0"
+        }
+      ],
+      "duration_ms": 176170,
+      "name": "A Solas",
+      "url": "https://open.spotify.com/track/6UQrzoN3uVRmS1kXpkcjtI"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/3g278nbiWZi8eHx5iRAxlD"
       },
@@ -1471,26 +1491,6 @@
       "duration_ms": 285333,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/5JVkOvgb7pvRyIn6bwMxfH"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "A Solas",
-        "url": "https://open.spotify.com/album/3jGg8lgUeNP74f9kyULRKr"
-      },
-      "artists": [
-        {
-          "name": "Juan Sinatra",
-          "url": "https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y"
-        },
-        {
-          "name": "Inti Sigma",
-          "url": "https://open.spotify.com/artist/3wAPsE5VK5xEt0gqf1w0p0"
-        }
-      ],
-      "duration_ms": 176170,
-      "name": "A Solas",
-      "url": "https://open.spotify.com/track/6UQrzoN3uVRmS1kXpkcjtI"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1535,6 +1535,34 @@
       "duration_ms": 160853,
       "name": "De La Mata",
       "url": "https://open.spotify.com/track/2iF8BmUy05E9iHRgRuCak9"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "Cuervos",
+        "url": "https://open.spotify.com/album/0XSlJq1I6jb5EpZt7WZJS2"
+      },
+      "artists": [
+        {
+          "name": "Primobeatz",
+          "url": "https://open.spotify.com/artist/72LTyD9Rh8nqOCvb3uyLxG"
+        },
+        {
+          "name": "Murder",
+          "url": "https://open.spotify.com/artist/5tdug7wnpNPEAOesKa1Aw1"
+        },
+        {
+          "name": "Noizy Black",
+          "url": "https://open.spotify.com/artist/10RLEwuNazdSJUr3QrLeLN"
+        },
+        {
+          "name": "Russhade",
+          "url": "https://open.spotify.com/artist/1AS7icKiA8yptArBjbm05f"
+        }
+      ],
+      "duration_ms": 234482,
+      "name": "Cuervos",
+      "url": "https://open.spotify.com/track/5AobkOUXrsRz0oQpMpkLDO"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1591,30 +1619,18 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "Cuervos",
-        "url": "https://open.spotify.com/album/0XSlJq1I6jb5EpZt7WZJS2"
+        "name": "La Vecindad del Vago",
+        "url": "https://open.spotify.com/album/6pLUrQbiNsFi1E0dyiQt3y"
       },
       "artists": [
         {
-          "name": "Primobeatz",
-          "url": "https://open.spotify.com/artist/72LTyD9Rh8nqOCvb3uyLxG"
-        },
-        {
-          "name": "Murder",
-          "url": "https://open.spotify.com/artist/5tdug7wnpNPEAOesKa1Aw1"
-        },
-        {
-          "name": "Noizy Black",
-          "url": "https://open.spotify.com/artist/10RLEwuNazdSJUr3QrLeLN"
-        },
-        {
-          "name": "Russhade",
-          "url": "https://open.spotify.com/artist/1AS7icKiA8yptArBjbm05f"
+          "name": "Chikano Jcr",
+          "url": "https://open.spotify.com/artist/0t9TjrJV1Yo3ru7XHs2mOC"
         }
       ],
-      "duration_ms": 234482,
-      "name": "Cuervos",
-      "url": "https://open.spotify.com/track/5AobkOUXrsRz0oQpMpkLDO"
+      "duration_ms": 256459,
+      "name": "La Vecindad del Vago",
+      "url": "https://open.spotify.com/track/3YCLPJO5N84aDccTRv73Lm"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1631,6 +1647,22 @@
       "duration_ms": 163910,
       "name": "Ol\u00e9",
       "url": "https://open.spotify.com/track/6AAGQWXAB7MQhbZBsvfJEh"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "Peleando para Mantenerlo",
+        "url": "https://open.spotify.com/album/3oLkCmmZpqjQVj2TrTQ18P"
+      },
+      "artists": [
+        {
+          "name": "Solo Cadaver",
+          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
+        }
+      ],
+      "duration_ms": 252700,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/2XzNjpgWCx4Jd7DgfXOanj"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1703,58 +1735,6 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "Entre Tiburones",
-        "url": "https://open.spotify.com/album/6bYGIvQh7Q11zUivJUENSC"
-      },
-      "artists": [
-        {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
-        },
-        {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-        }
-      ],
-      "duration_ms": 303093,
-      "name": "Entre Tiburones",
-      "url": "https://open.spotify.com/track/0jyxpCE5AzNPeekF9vmkR8"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "Peleando para Mantenerlo",
-        "url": "https://open.spotify.com/album/3oLkCmmZpqjQVj2TrTQ18P"
-      },
-      "artists": [
-        {
-          "name": "Solo Cadaver",
-          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
-        }
-      ],
-      "duration_ms": 252700,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/2XzNjpgWCx4Jd7DgfXOanj"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "La Vecindad del Vago",
-        "url": "https://open.spotify.com/album/6pLUrQbiNsFi1E0dyiQt3y"
-      },
-      "artists": [
-        {
-          "name": "Chikano Jcr",
-          "url": "https://open.spotify.com/artist/0t9TjrJV1Yo3ru7XHs2mOC"
-        }
-      ],
-      "duration_ms": 256459,
-      "name": "La Vecindad del Vago",
-      "url": "https://open.spotify.com/track/3YCLPJO5N84aDccTRv73Lm"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
         "name": "PERO NAH!",
         "url": "https://open.spotify.com/album/6cTAjRwKXVfrHvFGFGHlHk"
       },
@@ -1771,6 +1751,26 @@
       "duration_ms": 129375,
       "name": "PERO NAH!",
       "url": "https://open.spotify.com/track/1XGfXlXEggYgLHPFQIT1Aq"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "Entre Tiburones",
+        "url": "https://open.spotify.com/album/6bYGIvQh7Q11zUivJUENSC"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        },
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        }
+      ],
+      "duration_ms": 303093,
+      "name": "Entre Tiburones",
+      "url": "https://open.spotify.com/track/0jyxpCE5AzNPeekF9vmkR8"
     },
     {
       "added_at": "2024-07-19 06:00:00",

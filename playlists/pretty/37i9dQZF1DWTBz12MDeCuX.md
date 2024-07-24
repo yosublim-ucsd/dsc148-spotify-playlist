@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Artemas
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,629 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,605 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,12 +17,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 7 | [ART DECO \(TEKKNO\)](https://open.spotify.com/track/5E0FGSdQruBGedbKrhx4po) | [Clarke 99](https://open.spotify.com/artist/2oAPxiUkLs3EdFAtYX4Qr5) | [ART DECO \(TEKKNO\)](https://open.spotify.com/album/4cPDwpxho889ZbeQiLLK8o) | 3:18 |
 | 8 | [Pistazieneis](https://open.spotify.com/track/0O1LqLDF2mQmWVlSrC4Mwn) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg) | [Pistazieneis](https://open.spotify.com/album/4j7WNx3I81WGPiadrrCOtB) | 2:17 |
 | 9 | [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/track/0QRhtV1MwywpkLTvCdMaWq) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Christoph Andersson](https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED) | [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/album/1tmjsiIUIlF0Zyaj2J5vI1) | 4:57 |
-| 10 | [Randali](https://open.spotify.com/track/7x76MsHLcWQ4rLlHVkT7yw) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Randali](https://open.spotify.com/album/1NSEKARvPRzT2tSG1DZrmi) | 2:23 |
-| 11 | [Echt](https://open.spotify.com/track/1SOIIqQiQU7xaHaDP1WS6O) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Don't grow up \(it's a trap\)](https://open.spotify.com/album/7wfLhaSIVv5dXwnnKvEGTf) | 2:30 |
-| 12 | [Geile Zeit](https://open.spotify.com/track/47UCIHMC5NtybfvIEZBD4E) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Juli](https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol) | [Geile Zeit](https://open.spotify.com/album/5ZGg6JuNmc7VikmdjeOKzc) | 2:20 |
-| 13 | [MEIN/E +1](https://open.spotify.com/track/4ACV0EL7e1D3AHsTqsanWi) | [Okfella](https://open.spotify.com/artist/1R958FoJzZOnKsO4PY5aAe), [jaynbeats](https://open.spotify.com/artist/3g5QiiBmEWt5a3WaW1zArB) | [MEIN/E +1](https://open.spotify.com/album/3XxbGJJo259CFE43UhN9JC) | 2:24 |
-| 14 | [GIRLS](https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [GIRLS](https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC) | 2:32 |
-| 15 | [Dua Lipa](https://open.spotify.com/track/5K4ihcq7sw3imhegdvz5gU) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Muss mein eigener Atze sein \(Besondere Edition\)](https://open.spotify.com/album/0XDmX1pJOe2VjXcJgqJCdY) | 2:36 |
+| 10 | [Dua Lipa](https://open.spotify.com/track/5K4ihcq7sw3imhegdvz5gU) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Muss mein eigener Atze sein \(Besondere Edition\)](https://open.spotify.com/album/0XDmX1pJOe2VjXcJgqJCdY) | 2:36 |
+| 11 | [Randali](https://open.spotify.com/track/7x76MsHLcWQ4rLlHVkT7yw) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Randali](https://open.spotify.com/album/1NSEKARvPRzT2tSG1DZrmi) | 2:23 |
+| 12 | [Echt](https://open.spotify.com/track/1SOIIqQiQU7xaHaDP1WS6O) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Don't grow up \(it's a trap\)](https://open.spotify.com/album/7wfLhaSIVv5dXwnnKvEGTf) | 2:30 |
+| 13 | [Geile Zeit](https://open.spotify.com/track/47UCIHMC5NtybfvIEZBD4E) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Juli](https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol) | [Geile Zeit](https://open.spotify.com/album/5ZGg6JuNmc7VikmdjeOKzc) | 2:20 |
+| 14 | [MEIN/E +1](https://open.spotify.com/track/4ACV0EL7e1D3AHsTqsanWi) | [Okfella](https://open.spotify.com/artist/1R958FoJzZOnKsO4PY5aAe), [jaynbeats](https://open.spotify.com/artist/3g5QiiBmEWt5a3WaW1zArB) | [MEIN/E +1](https://open.spotify.com/album/3XxbGJJo259CFE43UhN9JC) | 2:24 |
+| 15 | [GIRLS](https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [GIRLS](https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC) | 2:32 |
 | 16 | [pantalons \(feat\. RAPK\)](https://open.spotify.com/track/1RMrISle2z9qwcOJku3Qc3) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC), [RAPK](https://open.spotify.com/artist/7b4qgFeygnbXxcH3cvKl1D), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [blumengarten](https://open.spotify.com/album/4txyc3vroXzPh2cYl56dXi) | 3:40 |
 | 17 | [Wieder in Berlin](https://open.spotify.com/track/7c3XsZt640j1FSxX6oVFle) | [BEVN](https://open.spotify.com/artist/6yhoNaKEJd3CH33hl26How) | [Wieder in Berlin](https://open.spotify.com/album/3qRRgRM2ounWPjgxlg19uX) | 2:07 |
 | 18 | [Aus dem Ruder](https://open.spotify.com/track/0tDVo5p1oTSg8ArsE209t8) | [Rrotzer](https://open.spotify.com/artist/6a3Hepy65IU5aex19pUwjd), [Amaru](https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz) | [Aus dem Ruder](https://open.spotify.com/album/7hWK0RSJgBXeAbp13KfAFi) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Lifetime](https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Lifetime](https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H) | 2:38 |
 | 100 | [Wellness am Scherbenmeer](https://open.spotify.com/track/2dHskhyGCWoZdEagnUORUh) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Wellness am Scherbenmeer](https://open.spotify.com/album/27XEKmEg5kok4QosVdsH95) | 3:04 |
 
-Snapshot ID: `ZpmQYAAAAABgbKHCpiSUvIrz3Jnimkyf`
+Snapshot ID: `Zp9YXgAAAACTD0kVmiW4szXsaYuTekt1`

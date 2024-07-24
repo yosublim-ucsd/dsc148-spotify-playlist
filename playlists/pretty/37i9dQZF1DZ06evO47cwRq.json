@@ -1,12 +1,12 @@
 {
-  "description": "This is Linkin Park. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 2645579,
+  "description": "This is Linkin Park. The essential tracks, all in one playlist.",
+  "num_followers": 2646138,
   "original_name": "This Is Linkin Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpxPgAAAAABS7uxlXt0l3nE/6pCL4fUf",
+  "snapshot_id": "Zp2hAAAAAACifBJF1rP1iN5IquGywAFc",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Hunting Party",
+        "url": "https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 217613,
+      "name": "Final Masquerade",
+      "url": "https://open.spotify.com/track/3aYBjxTMvrEOP0A0UXg9ER"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LIVING THINGS",
         "url": "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI"
       },
@@ -395,6 +411,42 @@
       "duration_ms": 205120,
       "name": "LOST IN THE ECHO",
       "url": "https://open.spotify.com/track/2oNYsdCasRRlz1shXFAz7D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One More Light",
+        "url": "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        },
+        {
+          "name": "Kiiara",
+          "url": "https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP"
+        }
+      ],
+      "duration_ms": 169800,
+      "name": "Heavy (feat. Kiiara)",
+      "url": "https://open.spotify.com/track/104buTcnP2AsxqB7U1FIZ4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meteora 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 201428,
+      "name": "Fighting Myself",
+      "url": "https://open.spotify.com/track/2ipYQ6pcabz1NovVrr9LKH"
     },
     {
       "added_at": null,
@@ -431,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meteora 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "More the Victim",
-      "url": "https://open.spotify.com/track/50jyxHSIHAz7N5jIzODvs4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LIVING THINGS",
         "url": "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI"
       },
@@ -459,6 +495,22 @@
       "duration_ms": 229933,
       "name": "ROADS UNTRAVELED",
       "url": "https://open.spotify.com/track/1dYw8HTRJnFpeEeMtXj99a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meteora 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "More the Victim",
+      "url": "https://open.spotify.com/track/50jyxHSIHAz7N5jIzODvs4"
     },
     {
       "added_at": null,
@@ -495,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Thousand Suns",
-        "url": "https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 296560,
-      "name": "Iridescent",
-      "url": "https://open.spotify.com/track/69ZEgPX0hxWXJIqkTlYz41"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LIVING THINGS",
         "url": "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI"
       },
@@ -523,6 +559,22 @@
       "duration_ms": 200693,
       "name": "IN MY REMAINS",
       "url": "https://open.spotify.com/track/00KfIFi2TpAaQGPbRbFbKJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Thousand Suns",
+        "url": "https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 296560,
+      "name": "Iridescent",
+      "url": "https://open.spotify.com/track/69ZEgPX0hxWXJIqkTlYz41"
     },
     {
       "added_at": null,
@@ -559,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Thousand Suns",
-        "url": "https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 339853,
-      "name": "The Catalyst",
-      "url": "https://open.spotify.com/track/5bvgRxco3jgSZ3SP8rueDA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RECHARGED",
         "url": "https://open.spotify.com/album/2FUsvD1bw53HGOjAg56vRD"
       },
@@ -591,6 +627,22 @@
       "duration_ms": 229439,
       "name": "A LIGHT THAT NEVER COMES",
       "url": "https://open.spotify.com/track/3BnBKNItMng824sLx0pUfy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Thousand Suns",
+        "url": "https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 339853,
+      "name": "The Catalyst",
+      "url": "https://open.spotify.com/track/5bvgRxco3jgSZ3SP8rueDA"
     },
     {
       "added_at": null,
@@ -680,9 +732,9 @@
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 178200,
-      "name": "Sharp Edges",
-      "url": "https://open.spotify.com/track/6c0I7CfL9ziGZN8yYkLppP"
+      "duration_ms": 225546,
+      "name": "Nobody Can Save Me",
+      "url": "https://open.spotify.com/track/3dJj6o9o1fRgrojWjailuz"
     },
     {
       "added_at": null,
@@ -791,38 +843,6 @@
       "duration_ms": 233240,
       "name": "Until It's Gone",
       "url": "https://open.spotify.com/track/2n1jBz26dVBtSbMvJNjGsu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Papercuts: Instrumentals",
-        "url": "https://open.spotify.com/album/494aUGKXMH5ruXtR3O1a3H"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 216346,
-      "name": "In the End (Instrumental)",
-      "url": "https://open.spotify.com/track/6RUv6gg1Jv1NMT8N5Jv2Wd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One More Light",
-        "url": "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/6OocN63GLU7NF0wHdewhID"
     }
   ],
   "unique_name": "This Is Linkin Park",

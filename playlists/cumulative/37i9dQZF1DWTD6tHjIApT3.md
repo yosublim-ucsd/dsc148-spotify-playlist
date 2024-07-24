@@ -2,9 +2,9 @@
 
 ### [Women's Voice](https://open.spotify.com/playlist/37i9dQZF1DWTD6tHjIApT3)
 
-> 日本の女性アーティストの歌を特集。cover: 紫 今（Mulasaki Ima）
+> 日本の女性アーティストの歌を特集。cover: chelmico
 
-2,559 songs - 6 day 20 hr 14 min
+2,560 songs - 6 day 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1212,6 +1212,7 @@
 | [Sun Shade](https://open.spotify.com/track/7Ekew5iR4aFAB0icjFlknS) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Sun Shade](https://open.spotify.com/album/55rHhgaq07WzZeMx7iEA1H) | 4:01 | 2022-09-08 | 2022-09-15 |
 | [Sun Shade \- Acoustic Guitar Ver.](https://open.spotify.com/track/2DMXgkCUQQaZaLDB8JolJz) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Summer Tune / Sun Shade / Spice Girl / An Easy Girl \(Acoustic Guitar Ver.\)](https://open.spotify.com/album/1EEN5IfviFOcqTW2LCPF1p) | 4:37 | 2023-08-30 | 2023-09-06 |
 | [sun shade \- Acoustic Guitar Ver.](https://open.spotify.com/track/4FFPkjsdJZhyHxZrzrsgb3) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [SUMMER TUNE / sun shade / スパイスガール / 会いたいな今夜 \(Acoustic Guitar Ver.\)](https://open.spotify.com/album/7eQwl6EQiv0LUP9I8I9URq) | 4:37 | 2023-08-29 | 2023-08-31 |
+| [Sunburn](https://open.spotify.com/track/5rNmTueR51ym4tXPot3i4s) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [ati natu ep](https://open.spotify.com/album/4azQrQNfeoBVGK5dQuv716) | 3:12 | 2024-07-23 |  |
 | [Sunday Cruisin'](https://open.spotify.com/track/6PqeczYy3ZEvRwYPUK3tk6) | [Funkindustry](https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX), [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [Sunday Cruisin'](https://open.spotify.com/album/1yhQHrMfcwUcblVzmsTqAR) | 4:00 | 2023-05-04 | 2023-05-10 |
 | [Sunflower](https://open.spotify.com/track/3K0AahH3MARcGs72ifbdM1) | [Rei](https://open.spotify.com/artist/74BJTJjtRUwMBB8TjHiVwr) | [Sunflower](https://open.spotify.com/album/6dTt2FOD7lA7MJKlzp4iCR) | 3:32 | 2023-10-17 | 2023-10-25 |
 | [Sunny Side Egg](https://open.spotify.com/track/3h8K0h8I8GjCn1VzCdv9eN) | [SeN](https://open.spotify.com/artist/55dIWAXagR1CvaSgATGUE1) | [Sunny Side Egg](https://open.spotify.com/album/4DUcRpWvxNq5btNZ9FH9gU) | 3:39 | 2024-04-23 | 2024-05-01 |
@@ -2339,7 +2340,7 @@
 | [灯](https://open.spotify.com/track/47gDqwGaEMR0kgeQtU0vUb) | [lecca](https://open.spotify.com/artist/0IeQisXdixzRUBpYSxQJDu) | [LIBERTY ERA](https://open.spotify.com/album/3OsTuPCm6VbKXKIGVuJr4r) | 3:31 | 2024-02-27 | 2024-03-13 |
 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 | 2022-05-29 | 2022-11-30 |
 | [灯火 \(feat\. miida\)](https://open.spotify.com/track/6mtkUqVaMoJBMG86f0RTul) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX) | [灯火 \(feat\. miida\)](https://open.spotify.com/album/0QRJ0PwVSFNg6KKla8CMtq) | 3:04 | 2023-01-31 | 2023-04-05 |
-| [灰かぶり](https://open.spotify.com/track/1eHgJysShUOu4p4jnRdoi4) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [灰かぶり](https://open.spotify.com/album/5CltyRkCnztzDYVvi79WDW) | 3:40 | 2023-07-04 |  |
+| [灰かぶり](https://open.spotify.com/track/1eHgJysShUOu4p4jnRdoi4) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [灰かぶり](https://open.spotify.com/album/5CltyRkCnztzDYVvi79WDW) | 3:40 | 2023-07-04 | 2024-07-24 |
 | [点と線 \(feat\. さとうもか\)](https://open.spotify.com/track/48JIfccdKcd1swFuFc7s64) | [美的計画](https://open.spotify.com/artist/4hiUgGl5CgLqYUWDTIjlnC), [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [BITEKI](https://open.spotify.com/album/6IryR0y7YeL11qhnXrwxkX) | 4:21 | 2022-06-14 | 2022-07-27 |
 | [点灯](https://open.spotify.com/track/1x66l1vEQ7gl0I5zZWlKku) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [点灯](https://open.spotify.com/album/2E5Pq4Abnn7pBSotdqREqV) | 4:58 | 2022-07-21 | 2022-10-07 |
 | [無い!!!](https://open.spotify.com/track/2qJ9vKGkhTgLRwyTbGsR6V) | [P.G Good Taste](https://open.spotify.com/artist/3l0iEE7LO3AxNnHgnHHIrE), [864](https://open.spotify.com/artist/3koSLcLSVOcyZ2qElHpCNE) | [無い!!!](https://open.spotify.com/album/0GCaBrHqiLmoU3Us28ph1A) | 3:50 | 2022-10-11 | 2022-10-19 |

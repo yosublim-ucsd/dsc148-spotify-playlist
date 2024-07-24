@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Yashraj
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,980 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,984 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 60 | [Kaise Kaise](https://open.spotify.com/track/7F1aZ5Nx8wR3sSamjEDVDD) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Kaise Kaise](https://open.spotify.com/album/5yyLJLEC2aWdqv9e7iAROe) | 2:52 |
 | 61 | [Khaali Khaali](https://open.spotify.com/track/3zwsBUs35djOOrXrOsgVoS) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [Khaali Khaali](https://open.spotify.com/album/32RNCaT9ixK8yoFvTT7Mgb) | 2:57 |
 | 62 | [Pyaar Ki Seedhi](https://open.spotify.com/track/4tj9i9H6lsM5Kx8RjmlRL4) | [Aanchal Shrivastava](https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4) | [Pyaar Ki Seedhi](https://open.spotify.com/album/2W1oZTelut5sBQ1BNh8YgC) | 2:08 |
-| 63 | [Le Ja Re](https://open.spotify.com/track/4b0zJze6X4NL3s1N0TT729) | [Tapas Kalai](https://open.spotify.com/artist/0guDWAQ2Bj73Q8wIv38BKq), [Soultrax](https://open.spotify.com/artist/3uTKGSzD1RzhEPhvWkg7fA) | [Le Ja Re](https://open.spotify.com/album/68Exb1as3S5FHYM0yQUUB6) | 3:58 |
+| 63 | [Le Ja Re](https://open.spotify.com/track/4b0zJze6X4NL3s1N0TT729) | [Tapas Kalai](https://open.spotify.com/artist/0guDWAQ2Bj73Q8wIv38BKq), [SoulTrax](https://open.spotify.com/artist/5xyovpABCtEybs55kIQg1b) | [Le Ja Re](https://open.spotify.com/album/68Exb1as3S5FHYM0yQUUB6) | 3:58 |
 | 64 | [nadaaniyan](https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [nadaaniyan](https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy) | 2:51 |
 | 65 | [Raaton Ki](https://open.spotify.com/track/5nh4AHjPg9kqruzdR2vHrq) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Raaton Ki](https://open.spotify.com/album/7cLUFQnUJ97yfsygBI7BaG) | 3:35 |
 | 66 | [Jaadugari](https://open.spotify.com/track/01JcMZVoGUIWpCacWTiJzb) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8) | [Jaadugari](https://open.spotify.com/album/5sPUfdDzhZ6CC4umEbHJD8) | 2:33 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 250911,
+  "num_followers": 251015,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
-        "name": "Te pone la cabeza mala",
-        "url": "https://open.spotify.com/album/0LgAYapMJemRXAD75pVs3v"
-      },
-      "artists": [
-        {
-          "name": "Juan Formell y Los Van Van",
-          "url": "https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy"
-        }
-      ],
-      "duration_ms": 248999,
-      "name": "Esto te pone la cabeza mala",
-      "url": "https://open.spotify.com/track/1bSiJ7JmdJJP5ycPfqLivI"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
         "name": "Yo Voy Pa Encima - Single",
         "url": "https://open.spotify.com/album/3X8Xfid9BomsVbXUB7isFJ"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 206992,
       "name": "Yo Voy Pa Encima",
       "url": "https://open.spotify.com/track/6CyqA8KDBXprJxkbwBVuIz"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
+        "name": "Te pone la cabeza mala",
+        "url": "https://open.spotify.com/album/0LgAYapMJemRXAD75pVs3v"
+      },
+      "artists": [
+        {
+          "name": "Juan Formell y Los Van Van",
+          "url": "https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy"
+        }
+      ],
+      "duration_ms": 248999,
+      "name": "Esto te pone la cabeza mala",
+      "url": "https://open.spotify.com/track/1bSiJ7JmdJJP5ycPfqLivI"
     },
     {
       "added_at": "2024-07-12 16:17:30",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
-        "name": "Chapeando",
-        "url": "https://open.spotify.com/album/45niWlDdAcXhbXdxaqRD78"
-      },
-      "artists": [
-        {
-          "name": "Juan Formell y Los Van Van",
-          "url": "https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy"
-        }
-      ],
-      "duration_ms": 368720,
-      "name": "Despu\u00e9s de todo",
-      "url": "https://open.spotify.com/track/4IDiFHGCutb8eNZYEBxHOV"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
         "name": "The Most From Beny More",
         "url": "https://open.spotify.com/album/0HLeuihxljxWozRHDvy0Yy"
       },
@@ -595,22 +579,6 @@
       "duration_ms": 196933,
       "name": "Que Bueno Baila Usted",
       "url": "https://open.spotify.com/track/0O8Gf1dTGNbEaSYSGk1pcS"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
-        "name": "Legado",
-        "url": "https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP"
-      },
-      "artists": [
-        {
-          "name": "Formell y los Van Van",
-          "url": "https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4"
-        }
-      ],
-      "duration_ms": 313295,
-      "name": "Al Paso",
-      "url": "https://open.spotify.com/track/665FL9SYPVyf8ZMTvltwam"
     },
     {
       "added_at": "2024-07-12 16:17:30",
@@ -631,6 +599,38 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
+        "name": "Chapeando",
+        "url": "https://open.spotify.com/album/45niWlDdAcXhbXdxaqRD78"
+      },
+      "artists": [
+        {
+          "name": "Juan Formell y Los Van Van",
+          "url": "https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy"
+        }
+      ],
+      "duration_ms": 368720,
+      "name": "Despu\u00e9s de todo",
+      "url": "https://open.spotify.com/track/4IDiFHGCutb8eNZYEBxHOV"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP"
+      },
+      "artists": [
+        {
+          "name": "Formell y los Van Van",
+          "url": "https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4"
+        }
+      ],
+      "duration_ms": 313295,
+      "name": "Al Paso",
+      "url": "https://open.spotify.com/track/665FL9SYPVyf8ZMTvltwam"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
         "name": "Me Lo Gan\u00e9",
         "url": "https://open.spotify.com/album/2jCnW88GKL1Bs5yhklRemb"
       },
@@ -643,6 +643,22 @@
       "duration_ms": 394653,
       "name": "Abreme la puerta",
       "url": "https://open.spotify.com/track/4ZgjTLfyE1APbEH0njzRpo"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Como Fue",
+      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
     },
     {
       "added_at": "2024-07-12 16:17:30",
@@ -679,22 +695,6 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
-        "name": "Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Como Fue",
-      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
         "name": "Laberinto de Pasiones",
         "url": "https://open.spotify.com/album/2A99uuzdqdWZg9wZh12Nyv"
       },
@@ -707,6 +707,30 @@
       "duration_ms": 177160,
       "name": "Puro Teatro",
       "url": "https://open.spotify.com/track/0DzEFFdQvaL47DD1B8bJ5C"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
+        "name": "La Salsa Tiene mi Son",
+        "url": "https://open.spotify.com/album/1cyF9OgODjh488BmdN1xmH"
+      },
+      "artists": [
+        {
+          "name": "Elito Rev\u00e9 y su Charang\u00f3n",
+          "url": "https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z"
+        },
+        {
+          "name": "Alexander Delgado (Gente D' Zona)",
+          "url": "https://open.spotify.com/artist/6ZjuWHUKpIArEL6GrBeaOh"
+        },
+        {
+          "name": "Serguei Yera Madera",
+          "url": "https://open.spotify.com/artist/2vDi85b8goHBFqRLs1dMjM"
+        }
+      ],
+      "duration_ms": 285733,
+      "name": "1999 (feat. Alexander Delgado (Gente D' Zona) & Serguei Yera Madera)",
+      "url": "https://open.spotify.com/track/0UFbt4HV3VdgLS4tbh7CqM"
     },
     {
       "added_at": "2024-07-12 16:17:30",
@@ -775,30 +799,6 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
-        "name": "La Salsa Tiene mi Son",
-        "url": "https://open.spotify.com/album/1cyF9OgODjh488BmdN1xmH"
-      },
-      "artists": [
-        {
-          "name": "Elito Rev\u00e9 y su Charang\u00f3n",
-          "url": "https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z"
-        },
-        {
-          "name": "Alexander Delgado (Gente D' Zona)",
-          "url": "https://open.spotify.com/artist/6ZjuWHUKpIArEL6GrBeaOh"
-        },
-        {
-          "name": "Serguei Yera Madera",
-          "url": "https://open.spotify.com/artist/2vDi85b8goHBFqRLs1dMjM"
-        }
-      ],
-      "duration_ms": 285733,
-      "name": "1999 (feat. Alexander Delgado (Gente D' Zona) & Serguei Yera Madera)",
-      "url": "https://open.spotify.com/track/0UFbt4HV3VdgLS4tbh7CqM"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
         "name": "Que No Me Controlen",
         "url": "https://open.spotify.com/album/3T7xTNUfhefkNlgynjE4GN"
       },
@@ -839,18 +839,26 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
-        "name": "Que Tiene Que Te Mueve",
-        "url": "https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P"
+        "name": "Infiel (Version Salsa)",
+        "url": "https://open.spotify.com/album/7K5jcFAYRO3Ly69mCGATDc"
       },
       "artists": [
         {
-          "name": "Maykel Blanco Y Su Salsa Mayor",
-          "url": "https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp"
+          "name": "Divan",
+          "url": "https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP"
+        },
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        },
+        {
+          "name": "Gino Latino DJ",
+          "url": "https://open.spotify.com/artist/2eDW7jXIf7t8sGoocEaxYH"
         }
       ],
-      "duration_ms": 332706,
-      "name": "Que Tiene Que Te Mueve",
-      "url": "https://open.spotify.com/track/5DYdF6YsSaXFdnrLe4XSUS"
+      "duration_ms": 209173,
+      "name": "Infiel (with Jacob Forever, Gino Latino Dj) - Version Salsa",
+      "url": "https://open.spotify.com/track/1yfTOpEoXrLmFGy1kJ5ahF"
     }
   ],
   "unique_name": "Salsa Cubana",

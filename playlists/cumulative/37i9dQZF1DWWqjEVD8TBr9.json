@@ -4237,6 +4237,24 @@
     },
     {
       "album": {
+        "name": "SLASH",
+        "url": "https://open.spotify.com/album/7pu8cy2ZNnN2rlLlkXXwq9"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191626,
+      "name": "SLASH",
+      "url": "https://open.spotify.com/track/2MKGrYH1PyPAUKu2Sl8IaT"
+    },
+    {
+      "album": {
         "name": "GO LIVE",
         "url": "https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ"
       },

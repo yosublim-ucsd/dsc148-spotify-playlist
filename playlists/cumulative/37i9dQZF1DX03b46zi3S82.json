@@ -6175,6 +6175,24 @@
     },
     {
       "album": {
+        "name": "Veiled Remembrance",
+        "url": "https://open.spotify.com/album/6qwFoOfdmNmHT0aTrXBlzA"
+      },
+      "artists": [
+        {
+          "name": "Mijongya",
+          "url": "https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172036,
+      "name": "Veiled Remembrance",
+      "url": "https://open.spotify.com/track/5ottoPWbTULvnKU5PSCysf"
+    },
+    {
+      "album": {
         "name": "Viva Valeriana",
         "url": "https://open.spotify.com/album/5c8qEdjduemMVmUxuMKp8n"
       },

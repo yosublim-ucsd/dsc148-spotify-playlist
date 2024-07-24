@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: Karik",
-  "num_followers": 94498,
+  "num_followers": 94549,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,26 @@
   },
   "snapshot_id": "ZpccDwAAAAAPffydMzcu8H0tD8yrmup0",
   "tracks": [
+    {
+      "added_at": "2024-07-11 14:53:00",
+      "album": {
+        "name": "B\u1eacT N\u00d3 L\u00caN",
+        "url": "https://open.spotify.com/album/5tlCVkYaDAmAtJ5YxejpWi"
+      },
+      "artists": [
+        {
+          "name": "SOOBIN",
+          "url": "https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh"
+        },
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Ai M\u00e0 Bi\u1ebft \u0110\u01b0\u1ee3c (feat. tlinh)",
+      "url": "https://open.spotify.com/track/7yfcQynap4xcNqnydaFw83"
+    },
     {
       "added_at": "2024-07-11 14:53:00",
       "album": {
@@ -39,26 +59,6 @@
       "duration_ms": 291750,
       "name": "Bu\u1ed3n Hay Vui (feat. RPT MCK, Obito, Ronboogz & Boyzed)",
       "url": "https://open.spotify.com/track/1khMN4Adfi3LrZvxOq4YM5"
-    },
-    {
-      "added_at": "2024-07-11 14:53:00",
-      "album": {
-        "name": "B\u1eacT N\u00d3 L\u00caN",
-        "url": "https://open.spotify.com/album/5tlCVkYaDAmAtJ5YxejpWi"
-      },
-      "artists": [
-        {
-          "name": "SOOBIN",
-          "url": "https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh"
-        },
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Ai M\u00e0 Bi\u1ebft \u0110\u01b0\u1ee3c (feat. tlinh)",
-      "url": "https://open.spotify.com/track/7yfcQynap4xcNqnydaFw83"
     },
     {
       "added_at": "2024-07-11 14:53:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-07-11 14:53:00",
       "album": {
+        "name": "C\u00e0ng Cua",
+        "url": "https://open.spotify.com/album/6MuNwqjIXFTqiAp7gDMG6F"
+      },
+      "artists": [
+        {
+          "name": "Low G",
+          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
+        }
+      ],
+      "duration_ms": 139813,
+      "name": "C\u00e0ng Cua",
+      "url": "https://open.spotify.com/track/6zrQLaZG0OlT63oUDwFKri"
+    },
+    {
+      "added_at": "2024-07-11 14:53:00",
+      "album": {
         "name": "TOKYO Cypher",
         "url": "https://open.spotify.com/album/2lwCWQ7DzQNv8fqJKQ9AbL"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 178823,
       "name": "TOKYO Cypher",
       "url": "https://open.spotify.com/track/0eKIEiMHZv0pOxz4iGOXda"
-    },
-    {
-      "added_at": "2024-07-11 14:53:00",
-      "album": {
-        "name": "C\u00e0ng Cua",
-        "url": "https://open.spotify.com/album/6MuNwqjIXFTqiAp7gDMG6F"
-      },
-      "artists": [
-        {
-          "name": "Low G",
-          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
-        }
-      ],
-      "duration_ms": 139813,
-      "name": "C\u00e0ng Cua",
-      "url": "https://open.spotify.com/track/6zrQLaZG0OlT63oUDwFKri"
     },
     {
       "added_at": "2024-07-11 14:53:00",

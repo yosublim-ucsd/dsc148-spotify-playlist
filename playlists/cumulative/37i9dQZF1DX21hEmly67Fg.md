@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-213 songs - 12 hr 16 min
+214 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A whiter shade of pale](https://open.spotify.com/track/7gb7bAdUDArVuoyNh2F90F) | [Zach Flash](https://open.spotify.com/artist/245BfbwD5kOa5wFTd0Bl5w) | [A whiter shade of pale](https://open.spotify.com/album/7MfYvNk4UVEAZgkKZP05eA) | 2:37 | 2023-02-06 |  |
 | [A Whole New World](https://open.spotify.com/track/0kQ0rvBDN3cT6ZIEDp1ryF) | [Nicholas Yee](https://open.spotify.com/artist/06U7PNo4pPFgmTC2Yqr2Rx), [The Theorist](https://open.spotify.com/artist/6N1GBr0koYYU0W59ECgg5u) | [A Whole New World](https://open.spotify.com/album/6EMXsQS2TW8Nd0NjDg7XZ6) | 3:52 | 2021-11-25 |  |
 | [A Whole New World](https://open.spotify.com/track/5d9t0UyUemjI72NdD8zDD8) | [Nicholas Yee](https://open.spotify.com/artist/06U7PNo4pPFgmTC2Yqr2Rx), [The Theorist](https://open.spotify.com/artist/6N1GBr0koYYU0W59ECgg5u) | [A Whole New World](https://open.spotify.com/album/7IcMPl3HJw4i0T6REI24hv) | 3:52 | 2022-07-15 | 2024-04-19 |
+| [Africa](https://open.spotify.com/track/3Kc0NNnkfVyNQbnOONWgeE) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Africa](https://open.spotify.com/album/1wwzqz8EeieZrlEA6zkwd8) | 3:28 | 2024-07-23 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/6yLcsEgiCCn6gxVXtGCWQz) | [Nicholas Yee](https://open.spotify.com/artist/06U7PNo4pPFgmTC2Yqr2Rx) | [Cello Covers](https://open.spotify.com/album/1rhVOuaB488YSTGUl5GuvJ) | 2:06 | 2021-11-25 | 2023-02-15 |
 | [All Of Me](https://open.spotify.com/track/1BpGZ5bqIC0F6nbK27G4xP) | [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Pop Goes Classical](https://open.spotify.com/album/20Et1l6jsJdticffIphZQP) | 3:18 | 2022-07-15 | 2023-02-15 |
 | [All Of Me](https://open.spotify.com/track/364awD0WkGUrHqvV92NLvd) | [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Pop Goes Classical](https://open.spotify.com/album/58i8rbysdhVemJzgFtP5Bo) | 3:18 | 2021-11-25 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Denzel Curry, Lil Yachty, JT and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,000 likes - 48 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,051 likes - 48 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 41 | [Flock](https://open.spotify.com/track/6MPrTnYDPWWUg2RmMwXFhK) | [Yhapojj](https://open.spotify.com/artist/4mAsHgZzoZvU0eMbHOB60X) | [Flock](https://open.spotify.com/album/2huz1moz7vcFgzrsCG7uzy) | 1:19 |
 | 42 | [AMMO](https://open.spotify.com/track/0zGyLV0gWvDtdMi0ekG6dY) | [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz) | [HARD COPY](https://open.spotify.com/album/44kHmKG4BiNNGMMMuCskNF) | 1:55 |
 | 43 | [FUN](https://open.spotify.com/track/1l9QD0dDTCSYYTkkbM1aCv) | [Mercury](https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ) | [NO FUN](https://open.spotify.com/album/0QFgsEUi8f2cm8prqx7aAj) | 1:42 |
-| 44 | [Zoned Out](https://open.spotify.com/track/60O6renwTsjzUuxl9K1oi6) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX), [Cuzzin Howie](https://open.spotify.com/artist/4nAXAdHiaA5rcAdForHXWT), [The Smokers Club](https://open.spotify.com/artist/0DSKJgPADvb4x1Bk3VETPr) | [Zoned Out](https://open.spotify.com/album/2Sfuts1H89efu7Za2RO2q6) | 1:48 |
+| 44 | [Zoned Out](https://open.spotify.com/track/60O6renwTsjzUuxl9K1oi6) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX), [The Smokers Club](https://open.spotify.com/artist/0DSKJgPADvb4x1Bk3VETPr) | [Zoned Out](https://open.spotify.com/album/2Sfuts1H89efu7Za2RO2q6) | 1:48 |
 | 45 | [Imposter Syndrome](https://open.spotify.com/track/5TRh6vQRCkR7SaIGUFRmWK) | [Starlito](https://open.spotify.com/artist/4SjND9kT6Ja5TSPZTyUUab) | [Imposter Syndrome](https://open.spotify.com/album/4b3JuKqzitAqbdU6huc3VH) | 2:49 |
 | 46 | [Romeo & Juliet](https://open.spotify.com/track/0TGMVEBVSyMHvOPTB5RQME) | [Curly Savv](https://open.spotify.com/artist/3DDlyCYQLZS5OGVJ2gCK0c) | [ON ME](https://open.spotify.com/album/7lEKtyLIQ96Dj0KdrvB1LA) | 1:49 |
 | 47 | [DAME](https://open.spotify.com/track/47u4vlcqvJq0KCINnIZCFP) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu), [Sid Vashi](https://open.spotify.com/artist/6wD4PrOL4VPp0SDCtpbtba) | [DAME](https://open.spotify.com/album/0yPGdKFF3YJzbPcG9c6pe6) | 3:28 |

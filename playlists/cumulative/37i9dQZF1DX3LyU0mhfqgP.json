@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Listen to the hottest songs from LGBTQIA+ artists. Cover: V\u0169 C\u00e1t T\u01b0\u1eddng ",
+  "description": "Listen to the hottest songs from LGBTQIA+ artists. Cover: Felix Jaehn ",
   "name": "GLOW",
   "tracks": [
     {
@@ -2004,7 +2004,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 211764,
       "name": "Bastonada nos Dentes",
       "url": "https://open.spotify.com/track/05e2ruOLoaPqTMo9DPQZ1I"
@@ -18398,6 +18398,24 @@
       "duration_ms": 219720,
       "name": "she",
       "url": "https://open.spotify.com/track/0YbytPAQHKpmAQD3VJfRNo"
+    },
+    {
+      "album": {
+        "name": "she calls me daddy",
+        "url": "https://open.spotify.com/album/52dHlZgYvDv9BVaISE95hQ"
+      },
+      "artists": [
+        {
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149960,
+      "name": "she calls me daddy",
+      "url": "https://open.spotify.com/track/12ZuYk6Tx3BMQIaDW6fNHI"
     },
     {
       "album": {

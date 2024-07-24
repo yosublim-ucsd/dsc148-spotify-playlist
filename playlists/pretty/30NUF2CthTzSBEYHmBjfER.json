@@ -1,15 +1,15 @@
 {
   "description": "The best Hip-Hop and R&amp;B from the 2000s! Includes Eminem, Dr. Dre, Jay-Z, Lil Wayne, Snoop, Mary J Blige, and more! Join our mailing list   <a href=\"https://umusic.lnk.to/Spotify_2000HipHopRB_SignUp\">here</a>   to hear first about exclusive vinyl drops &amp; all the best new music.",
-  "num_followers": 58341,
+  "num_followers": 58344,
   "original_name": "2000s Hip-Hop/R&B",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAACQA4cOrNHsLSWEjTmTL0Lholo0X/A",
+  "snapshot_id": "AAACSCQSodHiEH3Zc4dke3wvR0qT1mJJ",
   "tracks": [
     {
-      "added_at": "2024-07-17 13:48:48",
+      "added_at": "2024-07-23 18:25:09",
       "album": {
         "name": "The Eminem Show",
         "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 297840,
-      "name": "Cleanin' Out My Closet",
-      "url": "https://open.spotify.com/track/7BMO7O7ImjV8HNTH74Tshv"
+      "duration_ms": 290320,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
     },
     {
       "added_at": "2024-07-17 13:48:48",
@@ -67,6 +67,26 @@
       "duration_ms": 284906,
       "name": "California Love - Original Version",
       "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35"
+    },
+    {
+      "added_at": "2024-07-17 13:48:48",
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "duration_ms": 547733,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
     },
     {
       "added_at": "2024-07-17 13:48:48",
@@ -361,6 +381,26 @@
       "url": "https://open.spotify.com/track/4xeCHrtDwf5QMRjNHSMukw"
     },
     {
+      "added_at": "2024-07-17 16:04:20",
+      "album": {
+        "name": "Classified",
+        "url": "https://open.spotify.com/album/5TYSSxnlKxgI85Fihljco4"
+      },
+      "artists": [
+        {
+          "name": "Classified",
+          "url": "https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN"
+        },
+        {
+          "name": "David Myles",
+          "url": "https://open.spotify.com/artist/0C52ChHxEwG9E6Mi7Kmlkf"
+        }
+      ],
+      "duration_ms": 191786,
+      "name": "Inner Ninja",
+      "url": "https://open.spotify.com/track/1qjADgyPMiFFJvs8arLtCq"
+    },
+    {
       "added_at": "2024-07-17 13:48:48",
       "album": {
         "name": "Get Rich Or Die Tryin'",
@@ -607,26 +647,6 @@
       "duration_ms": 235320,
       "name": "Work Out",
       "url": "https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO"
-    },
-    {
-      "added_at": "2024-07-17 13:48:48",
-      "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        }
-      ],
-      "duration_ms": 547733,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
     },
     {
       "added_at": "2024-07-17 13:48:48",
@@ -1307,6 +1327,22 @@
     {
       "added_at": "2024-07-17 13:48:48",
       "album": {
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 297840,
+      "name": "Cleanin' Out My Closet",
+      "url": "https://open.spotify.com/track/7BMO7O7ImjV8HNTH74Tshv"
+    },
+    {
+      "added_at": "2024-07-17 13:48:48",
+      "album": {
         "name": "The DeAndre Way (Deluxe Explicit Version)",
         "url": "https://open.spotify.com/album/0uOv76Q0q8w5PtiazPiq5z"
       },
@@ -1945,24 +1981,20 @@
       "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
     },
     {
-      "added_at": "2024-07-17 16:04:20",
+      "added_at": "2024-07-23 18:33:03",
       "album": {
-        "name": "Classified",
-        "url": "https://open.spotify.com/album/5TYSSxnlKxgI85Fihljco4"
+        "name": "808s & Heartbreak",
+        "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
       },
       "artists": [
         {
-          "name": "Classified",
-          "url": "https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN"
-        },
-        {
-          "name": "David Myles",
-          "url": "https://open.spotify.com/artist/0C52ChHxEwG9E6Mi7Kmlkf"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 191786,
-      "name": "Inner Ninja",
-      "url": "https://open.spotify.com/track/1qjADgyPMiFFJvs8arLtCq"
+      "duration_ms": 211000,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
     }
   ],
   "unique_name": "2000s Hip-Hop/R&B",

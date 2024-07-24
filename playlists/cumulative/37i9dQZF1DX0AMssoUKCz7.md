@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-718 songs - 1 day 12 hr 19 min
+719 songs - 1 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [Don't Say A Word](https://open.spotify.com/track/1fappIhSOUyng8mHEfYzkP) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Sunrise To Sunset](https://open.spotify.com/album/3DXfe2cEsCdAjORfXw0NDK) | 2:48 | 2022-01-21 | 2022-04-02 |
 | [Don't Tell Me I Can't Have It](https://open.spotify.com/track/7DdrHlmyfDmAibdAbEdYIu) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU) | [Don't Tell Me I Can't Have It](https://open.spotify.com/album/4YyslwvTvE2qpL1zXdNrUx) | 3:07 | 2022-06-03 |  |
 | [Down from this High](https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6) | [kánji](https://open.spotify.com/artist/1IDGlUuHLvSiyzn3CZwh5U), [NØTALUVA](https://open.spotify.com/artist/55NFqO9vW37u5QmUUzRpId) | [Down from this High](https://open.spotify.com/album/4E0VQF4tkbv44VgE57gsXo) | 1:55 | 2022-05-13 | 2022-07-29 |
-| [Dream](https://open.spotify.com/track/4sICBh45pA6i7yCohseEvm) | [Benedict Ammann](https://open.spotify.com/artist/60kjG4d8jemoykwV2UU3fw) | [Dream](https://open.spotify.com/album/5qrXvGyywOO0ylsieMArFf) | 3:00 | 2024-07-19 |  |
+| [Dream](https://open.spotify.com/track/4sICBh45pA6i7yCohseEvm) | [Benedict Ammann](https://open.spotify.com/artist/60kjG4d8jemoykwV2UU3fw) | [Dream](https://open.spotify.com/album/5qrXvGyywOO0ylsieMArFf) | 3:00 | 2024-07-19 | 2024-07-24 |
+| [DREAM](https://open.spotify.com/track/3DIhIFClJnFyEdxj2ONqlw) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [DREAM](https://open.spotify.com/album/0KbWlqnCqZYyjiMR1t1pBn) | 2:40 | 2024-07-19 |  |
 | [Dreams](https://open.spotify.com/track/1SNoSoQ3JZldOhzBY9gw0n) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [Dreams](https://open.spotify.com/album/7tHxsXY9ysu7QRSqSCF1KM) | 3:12 | 2022-01-14 | 2022-09-03 |
 | [Dreams](https://open.spotify.com/track/3WnsrngoR8opauzEOnYXVJ) | [DJ ZeeZee](https://open.spotify.com/artist/6vjAwcOZNHp71G8mYs2yUg) | [Dreams](https://open.spotify.com/album/2b2uUCQBke5wtPskEnyzYP) | 3:42 | 2022-04-01 | 2024-01-03 |
 | [Dreams](https://open.spotify.com/track/2rY4Av7vaXEyw3yN8KIXPq) | [Kenn Colt](https://open.spotify.com/artist/0vSNFAo2h20zd3HOBcM8BX), [Adam Pickard](https://open.spotify.com/artist/2yuL9DInzOPj4hYt4oJy5s) | [BALANCE](https://open.spotify.com/album/2KfW7kNn56L8sgZDf3Izqw) | 3:22 | 2022-07-08 |  |

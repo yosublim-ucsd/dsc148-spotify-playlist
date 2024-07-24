@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 449017,
+  "num_followers": 449061,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Memories & Notes",
-        "url": "https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt"
-      },
-      "artists": [
-        {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ"
-        }
-      ],
-      "duration_ms": 113357,
-      "name": "Memories & Notes",
-      "url": "https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Call It A Night",
         "url": "https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 141000,
       "name": "Call It A Night",
       "url": "https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Memories & Notes",
+        "url": "https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ"
+        }
+      ],
+      "duration_ms": 113357,
+      "name": "Memories & Notes",
+      "url": "https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "lunar walk",
-        "url": "https://open.spotify.com/album/155VVaMjlTDghYkltp5CUE"
-      },
-      "artists": [
-        {
-          "name": "laura ploy",
-          "url": "https://open.spotify.com/artist/3pzECkhcxMJJSIsi1ZIAaD"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "lunar walk",
-      "url": "https://open.spotify.com/track/6ZJjAycopbrK5ab4Q2YImx"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "soft plushies",
         "url": "https://open.spotify.com/album/6Yau9wpqAvrt9ahWvenwdu"
       },
@@ -447,18 +431,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "falling behind",
-        "url": "https://open.spotify.com/album/78Xt50bJ6SeWBoXjL8wpGK"
+        "name": "lunar walk",
+        "url": "https://open.spotify.com/album/155VVaMjlTDghYkltp5CUE"
       },
       "artists": [
         {
-          "name": "softclouds",
-          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
+          "name": "laura ploy",
+          "url": "https://open.spotify.com/artist/3pzECkhcxMJJSIsi1ZIAaD"
         }
       ],
-      "duration_ms": 137812,
-      "name": "falling behind",
-      "url": "https://open.spotify.com/track/01IdQkdBqnyp4mhCDRGx5D"
+      "duration_ms": 120000,
+      "name": "lunar walk",
+      "url": "https://open.spotify.com/track/6ZJjAycopbrK5ab4Q2YImx"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -475,6 +459,22 @@
       "duration_ms": 150955,
       "name": "Through My Window",
       "url": "https://open.spotify.com/track/4Hyaog3Ppn1pDwLzUX7vFt"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "falling behind",
+        "url": "https://open.spotify.com/album/78Xt50bJ6SeWBoXjL8wpGK"
+      },
+      "artists": [
+        {
+          "name": "softclouds",
+          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
+        }
+      ],
+      "duration_ms": 137812,
+      "name": "falling behind",
+      "url": "https://open.spotify.com/track/01IdQkdBqnyp4mhCDRGx5D"
     },
     {
       "added_at": "2024-06-14 04:00:00",

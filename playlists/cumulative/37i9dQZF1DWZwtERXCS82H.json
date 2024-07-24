@@ -1377,6 +1377,24 @@
     },
     {
       "album": {
+        "name": "Bonds",
+        "url": "https://open.spotify.com/album/4FXjKSGBPFLk9h70k8NTxg"
+      },
+      "artists": [
+        {
+          "name": "Ziva",
+          "url": "https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127919,
+      "name": "Bonds",
+      "url": "https://open.spotify.com/track/19Le1uK7augMwFgc6wUOWe"
+    },
+    {
+      "album": {
         "name": "Botanical",
         "url": "https://open.spotify.com/album/4j5uGANP6T2CGeyhKa6BGZ"
       },

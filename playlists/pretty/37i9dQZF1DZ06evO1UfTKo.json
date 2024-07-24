@@ -1,12 +1,12 @@
 {
-  "description": "This Is Los Tigres Del Norte. Los temas esenciales, todos en una lista.",
-  "num_followers": 707717,
+  "description": "This is Los Tigres Del Norte. The essential tracks, all in one playlist.",
+  "num_followers": 707941,
   "original_name": "This Is Los Tigres Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpxPgAAAAAAD+Q9Knqy3fcT+FIbxSzrw",
+  "snapshot_id": "Zp2hAAAAAAAxmLAqZNFAmXCvkSSuluqP",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Herencia De Familia",
-        "url": "https://open.spotify.com/album/4C43fkuo6G7FdEm6xhq8cV"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Prisi\u00f3n De Amor",
-      "url": "https://open.spotify.com/track/3Lpg4XUPBhscufuiSCNd30"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Dos Plebes",
         "url": "https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 203733,
       "name": "La Mesa Del Rinc\u00f3n",
       "url": "https://open.spotify.com/track/1FrXO0TFnw6g0ygHxhiZ3p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Herencia De Familia",
+        "url": "https://open.spotify.com/album/4C43fkuo6G7FdEm6xhq8cV"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Prisi\u00f3n De Amor",
+      "url": "https://open.spotify.com/track/3Lpg4XUPBhscufuiSCNd30"
     },
     {
       "added_at": null,
@@ -167,6 +167,22 @@
       "duration_ms": 195613,
       "name": "La Camioneta Gris",
       "url": "https://open.spotify.com/track/7e9vWIQWNE6r74PBC7ixdS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jaula De Oro",
+        "url": "https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 193106,
+      "name": "Pedro Y Pablo",
+      "url": "https://open.spotify.com/track/5XgIkYlSVby03NmqREd5Sf"
     },
     {
       "added_at": null,
@@ -551,22 +567,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tr3s Presents MTV Unplugged Los Tigres Del Norte And Friends",
-        "url": "https://open.spotify.com/album/0SzXF8v0Vv3EFeaPY6h9LP"
+        "name": "La Reina Del Sur",
+        "url": "https://open.spotify.com/album/3P4hm57jwhpDaO7WZI2RsC"
       },
       "artists": [
         {
           "name": "Los Tigres Del Norte",
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        },
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
         }
       ],
-      "duration_ms": 281000,
-      "name": "Golpes En El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0Ft9dBN6vm9bhvGaUPHyYO"
+      "duration_ms": 229133,
+      "name": "En Qu\u00e9 Fall\u00e9",
+      "url": "https://open.spotify.com/track/6WNbVxTXPzhitXRUlu3Xqn"
     },
     {
       "added_at": null,
@@ -587,34 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Reina Del Sur",
-        "url": "https://open.spotify.com/album/3P4hm57jwhpDaO7WZI2RsC"
+        "name": "Tr3s Presents MTV Unplugged Los Tigres Del Norte And Friends",
+        "url": "https://open.spotify.com/album/0SzXF8v0Vv3EFeaPY6h9LP"
       },
       "artists": [
         {
           "name": "Los Tigres Del Norte",
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "En Qu\u00e9 Fall\u00e9",
-      "url": "https://open.spotify.com/track/6WNbVxTXPzhitXRUlu3Xqn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pacto De Sangre",
-        "url": "https://open.spotify.com/album/7GAOrdfIZhaU3G7vPZg1dn"
-      },
-      "artists": [
+        },
         {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
         }
       ],
-      "duration_ms": 233853,
-      "name": "Jos\u00e9 P\u00e9rez Le\u00f3n",
-      "url": "https://open.spotify.com/track/3xKToHlV3enPcQVpns4kUf"
+      "duration_ms": 281000,
+      "name": "Golpes En El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0Ft9dBN6vm9bhvGaUPHyYO"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
       "duration_ms": 240226,
       "name": "L\u00e1grimas (L\u00e1grimas Del Coraz\u00f3n)",
       "url": "https://open.spotify.com/track/23e2dSwQiAAOkV2KfjuIFj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pacto De Sangre",
+        "url": "https://open.spotify.com/album/7GAOrdfIZhaU3G7vPZg1dn"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "Jos\u00e9 P\u00e9rez Le\u00f3n",
+      "url": "https://open.spotify.com/track/3xKToHlV3enPcQVpns4kUf"
     },
     {
       "added_at": null,
@@ -871,22 +887,6 @@
       "duration_ms": 217333,
       "name": "Aqu\u00ed Mando Yo",
       "url": "https://open.spotify.com/track/3Kv0GCIjO52qkUj1K9PqZW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Directo Al Corazon",
-        "url": "https://open.spotify.com/album/5U0b7CBxQ6n6KDKseRGmGN"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 216080,
-      "name": "La Sorpresa",
-      "url": "https://open.spotify.com/track/62zUcRutyHb0msaCz5p9Ao"
     }
   ],
   "unique_name": "This Is Los Tigres Del Norte",

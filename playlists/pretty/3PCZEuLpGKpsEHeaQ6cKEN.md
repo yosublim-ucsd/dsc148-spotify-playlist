@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Nico De Andrea
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,286 likes - 200 songs - 10 hr 49 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,365 likes - 200 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 13 | [No Matter What](https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [No Matter What](https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO) | 3:22 |
 | 14 | [Karibu](https://open.spotify.com/track/38FWbKB13dMOGf2oJhSZ10) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Karibu](https://open.spotify.com/album/400Ymai2y2a12EvkEUEx7p) | 4:02 |
 | 15 | [Up All Night](https://open.spotify.com/track/1aZJUDVqAnASubqDxs6RJb) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Up All Night](https://open.spotify.com/album/2OTgZzSvpK9BAE83jZaqxX) | 3:13 |
-| 16 | [Flashdance](https://open.spotify.com/track/12GCtamy9WhgTGUfTl4eN4) | [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA) | [George Is On](https://open.spotify.com/album/58evCxTgeud6x03IDjI1xT) | 5:59 |
+| 16 | [Flashdance \- Album Mix](https://open.spotify.com/track/12GCtamy9WhgTGUfTl4eN4) | [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA) | [George Is On](https://open.spotify.com/album/58evCxTgeud6x03IDjI1xT) | 5:59 |
 | 17 | [Paradise](https://open.spotify.com/track/3ixm1rumU8S9aQci6wiJM3) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Paradise](https://open.spotify.com/album/1B1wx3gPkSnt0Ye6eSRxLl) | 2:37 |
 | 18 | [Tokyo](https://open.spotify.com/track/3lCIcU6bHi5Yya1Ey5npdJ) | [KIMMIC](https://open.spotify.com/artist/203PtVTnerRs5Vey1UyQgN), [MIMI](https://open.spotify.com/artist/2CVsdM6ChnaL6fO64E3a5n) | [Tokyo](https://open.spotify.com/album/6P3ClrdsEcLsgkg7In975b) | 2:25 |
 | 19 | [Larger Than Life](https://open.spotify.com/track/18W9I2wA2gvfzpo4Oqc04O) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Larger Than Life](https://open.spotify.com/album/7lzfAlDx8WeHENV6CDhHVG) | 2:55 |
-| 20 | [Dreams](https://open.spotify.com/track/7sAnK4CFoiYmJRGiAF00xs) | [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [George Is On](https://open.spotify.com/album/58evCxTgeud6x03IDjI1xT) | 4:39 |
+| 20 | [Dreams \- Album Mix](https://open.spotify.com/track/7sAnK4CFoiYmJRGiAF00xs) | [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [George Is On](https://open.spotify.com/album/58evCxTgeud6x03IDjI1xT) | 4:39 |
 | 21 | [In My Head](https://open.spotify.com/track/5FJ0jXIJTYKuB5XdmMzeok) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Jay Sorrow](https://open.spotify.com/artist/3CjbN6OZLjg1pbfqTlSVB9) | [In My Head](https://open.spotify.com/album/29ruA3J7ns9aIlwiud6x7r) | 2:57 |
 | 22 | [Dominator](https://open.spotify.com/track/5ht7wW7dzpou0SuO2zraHA) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Max Mylo](https://open.spotify.com/artist/70IVXvEMUXy1k2esJoJdTK), [Human Resource](https://open.spotify.com/artist/28LgRKFEN8GXeORbdViP7t) | [Dominator](https://open.spotify.com/album/0d24GMCqZ7kyl5Q9xtJfaH) | 2:51 |
 | 23 | [Be Good](https://open.spotify.com/track/3siKtQ0CHSOxALAMs7Ge00) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [Be Good](https://open.spotify.com/album/6zapmHg7PVub9YiY03yGVh) | 2:54 |

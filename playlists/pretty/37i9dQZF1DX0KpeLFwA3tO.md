@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: SOFT PLAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,558 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,615 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 57 | [Shiver](https://open.spotify.com/track/7jBFe9JOZNQz0DY0Zjr8tP) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Hell Or Highwater](https://open.spotify.com/album/0qHijxp6yiHppqTGBJ5hTC) | 3:04 |
 | 58 | [Blow It](https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Blow It](https://open.spotify.com/album/19O52p5ZCj30KUQ6rwPrpk) | 2:44 |
 | 59 | [I Wish You Would](https://open.spotify.com/track/0NCCG6BDOiz27Hf8BvRMV4) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [I Wish You Would](https://open.spotify.com/album/0haZW0bIzF1SFVd9leLLzD) | 3:01 |
-| 60 | [I Miss Having Sex But At Least I Don't Wanna Die Anymore](https://open.spotify.com/track/1bOGXE0pJ19nDabUM9wlR6) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [I Miss Having Sex But At Least I Don't Wanna Die Anymore](https://open.spotify.com/album/5oHRBkovo2MwTnjorK3d16) | 2:05 |
+| 60 | [I Miss Having Sex But At Least I Don't Wanna Die Anymore](https://open.spotify.com/track/1bOGXE0pJ19nDabUM9wlR6) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM), [Hopelessly Devoted To You](https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8) | [I Miss Having Sex But At Least I Don't Wanna Die Anymore](https://open.spotify.com/album/5oHRBkovo2MwTnjorK3d16) | 2:05 |
 | 61 | [Straycations](https://open.spotify.com/track/7zCZWACsSVwEnc0Bt2C7qh) | [Kaonashi](https://open.spotify.com/artist/60Zpxsk0QxhPEyyvWfSv0I) | [Straycations](https://open.spotify.com/album/7tLQKPKKgOwcWQgZ2MekC5) | 3:49 |
 | 62 | [Shoot](https://open.spotify.com/track/1QFerkEWR1GAqmppYqIxpN) | [Equal Idiots](https://open.spotify.com/artist/4nljEo4gnUFgczxjNt5KOR) | [Shoot](https://open.spotify.com/album/5TUatnY0Q5BF7de6pvFkuZ) | 2:07 |
 | 63 | [I Think You Should Leave](https://open.spotify.com/track/3hJlhv7rIPi1MMvDiO6ka9) | [Problem Patterns](https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP) | [I Think You Should Leave](https://open.spotify.com/album/3PzFW7lRfp0eqw3X3fpHKU) | 3:59 |

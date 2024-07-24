@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Dadju x DYSTINCT au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,576 likes - 74 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,617 likes - 74 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 27 | [Ache In My Heart](https://open.spotify.com/track/6a2tRke4g8upaxXAMOWN1H) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Ache In My Heart](https://open.spotify.com/album/0rSqsLxcwMMKNgM4fBqHuL) | 3:08 |
 | 28 | [Guitar Song](https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8) | 3:57 |
 | 29 | [Fleur de peau](https://open.spotify.com/track/2g7GMJnh6t2bvAYknTPuBd) | [Kimberose](https://open.spotify.com/artist/6CpNuq0rsIj6Il313E6lKL) | [Fleur de peau](https://open.spotify.com/album/3cBkHaqUvtOA7ZAJmWGSY2) | 3:46 |
-| 30 | [Baby \(Hum Connection\)](https://open.spotify.com/track/4o7LQikZkKpaY0sYyEvivc) | [King Serenity](https://open.spotify.com/artist/2olAiF4WinkdELTgU2Rllu), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Caroliina](https://open.spotify.com/artist/5zSv8ebxJp6esGCMu1pxaH) | [Baby \(Hum Connection\)](https://open.spotify.com/album/31qxLedaIwyPFJVZQfk77M) | 2:45 |
+| 30 | [Hum Connection \(Baby\)](https://open.spotify.com/track/4o7LQikZkKpaY0sYyEvivc) | [King Serenity](https://open.spotify.com/artist/2olAiF4WinkdELTgU2Rllu), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Caroliina](https://open.spotify.com/artist/5zSv8ebxJp6esGCMu1pxaH) | [Hum Connection \(Baby\)](https://open.spotify.com/album/31qxLedaIwyPFJVZQfk77M) | 2:45 |
 | 31 | [Ground](https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Ground](https://open.spotify.com/album/44kxeIVSEqnpZKnPHb2Lhw) | 3:02 |
 | 32 | [J'ai l'impression](https://open.spotify.com/track/5OS1SdcRNkcMdlfolW2clz) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [J'ai l'impression](https://open.spotify.com/album/1vzYm7DbAf7yKQgaPkXXCO) | 2:47 |
 | 33 | [Up All Night \(with The Lumineers & Noah Kahan\)](https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Up All Night](https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s) | 3:23 |

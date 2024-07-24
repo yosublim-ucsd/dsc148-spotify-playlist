@@ -1,12 +1,12 @@
 {
   "description": "This is Story Of The Year. The essential tracks, all in one playlist.",
-  "num_followers": 9793,
+  "num_followers": 9802,
   "original_name": "This Is Story Of The Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpxPgAAAAABiK7406FdY5JBFK+fQ3ucM",
+  "snapshot_id": "Zp2hAAAAAABDFXCcT/SfRl34gOwtPL+q",
   "tracks": [
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 252826,
-      "name": "Sleep",
-      "url": "https://open.spotify.com/track/6ReT8BEEr3ytDn0LFEifuk"
+      "duration_ms": 209480,
+      "name": "Stereo",
+      "url": "https://open.spotify.com/track/7lB6JUMr99cuU1EfSl8yC6"
     },
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 223668,
-      "name": "Taste the Poison",
-      "url": "https://open.spotify.com/track/6dVIydL35YwvTjDCT4738d"
+      "duration_ms": 252826,
+      "name": "Sleep",
+      "url": "https://open.spotify.com/track/6ReT8BEEr3ytDn0LFEifuk"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 192680,
-      "name": "Five Against the World",
-      "url": "https://open.spotify.com/track/1c6XA7JzctIQHsUmKwfRFi"
+      "duration_ms": 223668,
+      "name": "Taste the Poison",
+      "url": "https://open.spotify.com/track/6dVIydL35YwvTjDCT4738d"
     },
     {
       "added_at": null,

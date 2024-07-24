@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Klô Pelgag
 
-2,689 songs - 5 day 23 hr 3 min
+2,690 songs - 5 day 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1278,6 +1278,7 @@
 | [La montagne et l’artéfact](https://open.spotify.com/track/1SFZKIfalL70xQCMGgudqM) | [Totalement Sublime](https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY) | [La montagne et l’artéfact](https://open.spotify.com/album/34ySRLmeltx7Xg9FJMYeiV) | 6:44 | 2024-03-29 | 2024-04-06 |
 | [La mort du Rock'N'Roll](https://open.spotify.com/track/6GYYGsTzqUsKuq3gVy9cgb) | [Pépé et sa guitare](https://open.spotify.com/artist/49fBZHMEYaw2OCJFo7saeV) | [La mort du Rock'N'Roll](https://open.spotify.com/album/5o8r3wpjZPNHnDXJ9MeknX) | 2:44 | 2022-04-29 | 2022-05-14 |
 | [La mémoire de l'eau](https://open.spotify.com/track/2GEIbc2MwBZrsdYGHdeIET) | [Gael Faure](https://open.spotify.com/artist/3KikThZktmDtUICg0EOKoJ) | [La mémoire de l'eau](https://open.spotify.com/album/2oI1vkb6wMc3Mf5CLez9sn) | 3:49 | 2022-01-14 | 2022-01-22 |
+| [LA MÊME HISTOIRE](https://open.spotify.com/track/6I6nQIBRYlQLMT58liSyWI) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [LA MÊME HISTOIRE](https://open.spotify.com/album/1q67Fv3Ccr8yAOrtVD7F7U) | 2:12 | 2024-07-20 |  |
 | [La nuit](https://open.spotify.com/track/5qMGT6jepsNyROTcf3LpFu) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [La nuit](https://open.spotify.com/album/5FGyf0eRWDMEQ22dxUKwVP) | 3:41 | 2022-06-03 | 2022-06-18 |
 | [La nuit](https://open.spotify.com/track/3QNCQAYQqhEdv3zwWmBMX6) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Meggie Lennon](https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq), [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut), [Laurence Camille](https://open.spotify.com/artist/2fEGbkGz3QjsKC65fL0vJF) | [La nuit](https://open.spotify.com/album/1CaTDmBmiYtRJVvfVv0GT9) | 2:39 | 2022-06-10 | 2022-06-25 |
 | [La nuit nous laisse les étoiles](https://open.spotify.com/track/7eDJnQDTDWYu7mMCc0azhN) | [David Thibault](https://open.spotify.com/artist/19x0G0gV8vPa6l6kYNzKPT) | [Désormais](https://open.spotify.com/album/1U4Ano5gL9nyv7ujehVfLP) | 3:01 | 2023-01-27 | 2023-02-11 |
@@ -2405,7 +2406,7 @@
 | [Ton Autre Vie \(feat\. Sarah Dugas\)](https://open.spotify.com/track/4RwWsoTApKah1qXyd774Z5) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Sarah Dugas](https://open.spotify.com/artist/00MWO9aNCxqV0zfezWZ5j6) | [Long Lost \(Deluxe Edition\)](https://open.spotify.com/album/6yEdJA4H2O4VOi4pk14GdS) | 4:40 | 2022-05-27 | 2022-06-11 |
 | [Ton chien](https://open.spotify.com/track/6erT1Q2cUtmLhU7gIYIPKb) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Sainte Nicole](https://open.spotify.com/artist/3CUCwpcTC3QHXCilDsw51Q) | [Ton chien](https://open.spotify.com/album/4oX8iPSpuIpM2HXlYHY6sH) | 2:52 | 2024-06-07 | 2024-06-15 |
 | [Ton Nom](https://open.spotify.com/track/3KPldl0SG6cunZvSbasmRC) | [B\-sws](https://open.spotify.com/artist/2P7HSGx7ubWNJ1eysMnYGj) | [Ton Nom](https://open.spotify.com/album/1SnQ3EBZp9P4DxdtD24DxT) | 3:23 | 2022-04-01 | 2022-04-09 |
-| [Ton regard](https://open.spotify.com/track/4FrlgpyAzw4a3gErecQqUO) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Ton regard](https://open.spotify.com/album/1988pIjDPXPRwSLJQHIKvH) | 2:33 | 2024-06-28 |  |
+| [Ton regard](https://open.spotify.com/track/4FrlgpyAzw4a3gErecQqUO) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Ton regard](https://open.spotify.com/album/1988pIjDPXPRwSLJQHIKvH) | 2:33 | 2024-06-28 | 2024-07-24 |
 | [Top](https://open.spotify.com/track/7L25Tg4Jxxk1Q5tS59QfUB) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Top](https://open.spotify.com/album/5CyS1dpJOA6CAts78IybcG) | 4:01 | 2022-07-29 | 2022-08-27 |
 | [Top Fan](https://open.spotify.com/track/4DHT5FB2rVe1PuJMcgZmg2) | [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd) | [Top Fan](https://open.spotify.com/album/0mbMLXHFzPZsIMJNpChwtX) | 3:10 | 2023-01-27 | 2023-02-11 |
 | [Top Net](https://open.spotify.com/track/0axAkKSHUtkcjYZwijiQFl) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [Top Net](https://open.spotify.com/album/4yCrE37yg9faqk3SHfaHQz) | 2:06 | 2022-04-08 | 2022-04-23 |

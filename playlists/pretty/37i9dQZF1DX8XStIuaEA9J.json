@@ -1,15 +1,35 @@
 {
-  "description": "\u4eca\u3001\u65e5\u672c\u306e\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30e3\u30fc\u306b\u8074\u304b\u308c\u3066\u3044\u308b\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: \u30e8\u30eb\u30b7\u30ab",
-  "num_followers": 179212,
+  "description": "\u4eca\u3001\u65e5\u672c\u306e\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30e3\u30fc\u306b\u8074\u304b\u308c\u3066\u3044\u308b\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: LANA & LEX",
+  "num_followers": 179225,
   "original_name": "Teen Culture",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpaK8AAAAAB75fCsT1jLUlYQo/cHb872",
+  "snapshot_id": "Zp/FcAAAAACEeUExbBvTe1CBqZng3E+S",
   "tracks": [
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
+      "album": {
+        "name": "\u30c6\u30a3\u30d5\u30a1\u30cb\u30fc\u3067\u671d\u98df\u3092",
+        "url": "https://open.spotify.com/album/2cPmSTET4CPxpxtNeTFYjb"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        },
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
+        }
+      ],
+      "duration_ms": 210625,
+      "name": "\u30c6\u30a3\u30d5\u30a1\u30cb\u30fc\u3067\u671d\u98df\u3092",
+      "url": "https://open.spotify.com/track/7pE0DPxq4Q0pQqGzU4qyUj"
+    },
+    {
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u5fd8\u308c\u3066\u304f\u3060\u3055\u3044",
         "url": "https://open.spotify.com/album/4XrhbakQbPTttIIBdAKBIb"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/7raKnLKyQSatDiVVpiZDds"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u6b8b\u5922",
         "url": "https://open.spotify.com/album/1sud4up8kAIa8MZJFupUMx"
@@ -41,7 +61,7 @@
       "url": "https://open.spotify.com/track/1n2wGY2QlnhueSVOrZXsgF"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u30cf\u30cb\u30fc\u30c8\u30e9\u30c3\u30d7",
         "url": "https://open.spotify.com/album/2nJWHjKuLSpz5mffWM6Ojm"
@@ -57,7 +77,7 @@
       "url": "https://open.spotify.com/track/74CwJftVUW6rfZzjSpUYtL"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u82e5\u8005\u306e\u3059\u3079\u3066",
         "url": "https://open.spotify.com/album/2pS9ATc0f1xRthcOaTVXvb"
@@ -73,7 +93,7 @@
       "url": "https://open.spotify.com/track/0bolEYwnvGkCjy38QACpBt"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
         "url": "https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW"
@@ -89,7 +109,7 @@
       "url": "https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u30a2\u30dd\u30ed\u30c9\u30ed\u30b9",
         "url": "https://open.spotify.com/album/29u1POyrbh3Qm7KMR08zj6"
@@ -105,7 +125,7 @@
       "url": "https://open.spotify.com/track/41PdvmQ3BrbEoMReSDCDGP"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u30b9\u30a4\u30fc\u30c8\u30e1\u30e2\u30ea\u30fc",
         "url": "https://open.spotify.com/album/5Zxr5RKkTWrkrMmSULCNQD"
@@ -121,7 +141,7 @@
       "url": "https://open.spotify.com/track/1ogO3SlbAhuba46ecZ05v8"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u30d9\u30ac\u3068\u30a2\u30eb\u30bf\u30a4\u30eb",
         "url": "https://open.spotify.com/album/005VNX1PTHOlstwc3STv09"
@@ -137,7 +157,7 @@
       "url": "https://open.spotify.com/track/7M9E7w9tskTz1Bf2VrNfKy"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "Sign",
         "url": "https://open.spotify.com/album/2er0Xi4lRpqY20aCvDnw3p"
@@ -153,7 +173,7 @@
       "url": "https://open.spotify.com/track/0d0K90wpp2CDfy7923mZ00"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "RISE UP",
         "url": "https://open.spotify.com/album/0DMBH4ZFc1QS5XsAWKvdxM"
@@ -169,7 +189,7 @@
       "url": "https://open.spotify.com/track/4GdYcBziM4hqHJSXYSntQe"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u30d7\u30e9\u30f3A",
         "url": "https://open.spotify.com/album/0xw4GL428TN0eAioPvBIFo"
@@ -185,7 +205,7 @@
       "url": "https://open.spotify.com/track/6uotAIXMVlxBnZITXs5dmm"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u30cf\u30a4\u30a8\u30fc\u30b9\u30ca\u30f3\u30d0\u30fc",
         "url": "https://open.spotify.com/album/4ZHJRDBCYVAazMCS0SO56e"
@@ -201,7 +221,7 @@
       "url": "https://open.spotify.com/track/6DuWwQPRJwbfTygikrxOJv"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u938c\u5009STYLE",
         "url": "https://open.spotify.com/album/0hJnHL8N0cRUKPSLeEWS6W"
@@ -217,7 +237,7 @@
       "url": "https://open.spotify.com/track/7uuGRrAHErHkzp51tFzcd7"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u30e9\u30d6\u30c8\u30ea\u30c3\u30d7\u30b5\u30de\u30fc",
         "url": "https://open.spotify.com/album/30lj1GdRejyyzRwB1hKhEX"
@@ -233,7 +253,7 @@
       "url": "https://open.spotify.com/track/7uOOoGSY2sbdmVBne9IIbP"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
         "url": "https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL"
@@ -257,7 +277,7 @@
       "url": "https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "20",
         "url": "https://open.spotify.com/album/4HmfQKakoYL6zCO4EOoeom"
@@ -277,7 +297,7 @@
       "url": "https://open.spotify.com/track/5RKOv93gklmKCI1YqmYUUo"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u30ae\u30f3\u30e2\u30af\u30bb\u30a4",
         "url": "https://open.spotify.com/album/4pNeEiY5zEgPlYg0plIkyE"
@@ -293,7 +313,7 @@
       "url": "https://open.spotify.com/track/5fe3tm8tR3RogeeJ5XiTNh"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u7d3a\u8272\u306b\u61a7\u308c\u3066",
         "url": "https://open.spotify.com/album/0pamS1zgtw84s4qocKynlk"
@@ -309,7 +329,7 @@
       "url": "https://open.spotify.com/track/0uNELWoVBRVsmeeGjNgGfc"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "Supernatural",
         "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
@@ -325,7 +345,7 @@
       "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "Hot Mess",
         "url": "https://open.spotify.com/album/2PvpuCui1GVO8DkFcCHzYU"
@@ -341,7 +361,7 @@
       "url": "https://open.spotify.com/track/1SaLI6o5GhfcaxPVAJoD3r"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u65b0\u3057\u3044\u604b\u4eba\u9054\u306b",
         "url": "https://open.spotify.com/album/28gvMa5Tg0Idym44dEiRC0"
@@ -357,7 +377,7 @@
       "url": "https://open.spotify.com/track/5LclntckGFFGFUVGJk9Z4x"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "Same Key",
         "url": "https://open.spotify.com/album/13QLqadsR7ld5XzrTslUFY"
@@ -373,7 +393,7 @@
       "url": "https://open.spotify.com/track/6bl0lwuf0okN1QKOer1m2n"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "DIVE",
         "url": "https://open.spotify.com/album/0riep5s1F9ynpobjOSzbcr"
@@ -389,7 +409,7 @@
       "url": "https://open.spotify.com/track/5vK3WrTOp6rEoASx1jAsp1"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
         "url": "https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa"
@@ -405,7 +425,7 @@
       "url": "https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u30a2\u30ea\u30d0\u30a4\u30b2\u30fc\u30e0 (feat. \u4e43\u7d2b, \u304b\u3084\u3086\u30fc)",
         "url": "https://open.spotify.com/album/2DXzUmoWA170wMvl3dme2l"
@@ -429,7 +449,7 @@
       "url": "https://open.spotify.com/track/6oUvn6q4prAoWJFrb4fJge"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u30e9\u30c3\u30ad\u30fc\u30ab\u30e9\u30fc",
         "url": "https://open.spotify.com/album/6LYuCN75nHet5fz8Cvzs8H"
@@ -445,7 +465,7 @@
       "url": "https://open.spotify.com/track/5Fzv7ho7XOwvvEOvxFnnTp"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u5fd8\u308c\u305f\u3044",
         "url": "https://open.spotify.com/album/5ZHm5pMkxoQ7zZkMQQl9fs"
@@ -461,7 +481,7 @@
       "url": "https://open.spotify.com/track/7njSOHd2xt61IJppN3IlCT"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u3042\u30685\u79d2",
         "url": "https://open.spotify.com/album/58QfpOCdwQC2fqbvMxQJQ1"
@@ -477,7 +497,7 @@
       "url": "https://open.spotify.com/track/64crUn9qese1wYnYHtyf1W"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "Where Do We Go!",
         "url": "https://open.spotify.com/album/6FrdTIQyL93loRVho2BFlz"
@@ -493,7 +513,7 @@
       "url": "https://open.spotify.com/track/0HPqZxUs55P3RQDEoKqOzM"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u3042\u308c\u304c\u604b\u3060\u3063\u305f\u306e\u304b\u306a",
         "url": "https://open.spotify.com/album/7uFU9Y8c0jKNXuqjOLzMT3"
@@ -513,7 +533,7 @@
       "url": "https://open.spotify.com/track/23eX2EUwE7EhiLWoPl1Pdv"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "Blues in the Closet",
         "url": "https://open.spotify.com/album/5C3ycPoEWRtvdBClDrH6uK"
@@ -529,7 +549,7 @@
       "url": "https://open.spotify.com/track/4lcupZPn3QWQWQ20C9ZL0M"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u30cf\u30df\u30f3\u30b0",
         "url": "https://open.spotify.com/album/17eurvWkXobPOJpJZsrbLw"
@@ -545,7 +565,7 @@
       "url": "https://open.spotify.com/track/17f50sZb2FwIeyh89It1qX"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u591c\u660e\u3051\u306e\u3042\u306a\u305f\u3078",
         "url": "https://open.spotify.com/album/033g2GrsxkouVAvlxcQH1P"
@@ -561,7 +581,7 @@
       "url": "https://open.spotify.com/track/22pLeTfTvGsM0SCBgw60Hb"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "Moshi Moshi",
         "url": "https://open.spotify.com/album/3yJzboBD9EvdIEnVH9DuMr"
@@ -585,7 +605,7 @@
       "url": "https://open.spotify.com/track/0FJVGU0hNhCtohkjKB6uKQ"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "WOKE UP",
         "url": "https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw"
@@ -601,7 +621,7 @@
       "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "WALK - The 6th Album",
         "url": "https://open.spotify.com/album/1awTeiNvKPg5ZIVHrK0QML"
@@ -617,7 +637,7 @@
       "url": "https://open.spotify.com/track/5o5mfjvxzxRChb45hbWuuw"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "AND,",
         "url": "https://open.spotify.com/album/3Hs8WBB47spgGcUhtQ9rXB"
@@ -633,7 +653,7 @@
       "url": "https://open.spotify.com/track/4Zw2b1jp0KrXcrsUeX9As2"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u8a93\u3044 (CHIKAI)",
         "url": "https://open.spotify.com/album/4gUSRC5pgmbbDi39dGBsuL"
@@ -649,7 +669,7 @@
       "url": "https://open.spotify.com/track/6ZVLzrvg4jw9bS9NChKFOr"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u529b\u3092\u304f\u308c",
         "url": "https://open.spotify.com/album/7qu1zz3XI91cCz99mhHg33"
@@ -669,7 +689,7 @@
       "url": "https://open.spotify.com/track/35FFFojzUUlFAwKIXCPvNi"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "Soooo Many Problems feat. tonun",
         "url": "https://open.spotify.com/album/2NI5oe3R08P9Gb54nehU4i"
@@ -689,7 +709,7 @@
       "url": "https://open.spotify.com/track/62JoAITlRfsTGW5RqeeHJd"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u99c4\u53c9",
         "url": "https://open.spotify.com/album/5qTt4dRAWF5PZt7jxk79I9"
@@ -705,7 +725,7 @@
       "url": "https://open.spotify.com/track/0qYFLPgDBTCF4jCNM5tImu"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u30a2\u30eb\u30b3\u30fc\u30eb",
         "url": "https://open.spotify.com/album/4LrLQeQjAF9adjZ4IdupXw"
@@ -721,7 +741,7 @@
       "url": "https://open.spotify.com/track/2jBxDRWO1VAdUGK2ZUbqL9"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u81ea\u696d\u81ea\u5f97",
         "url": "https://open.spotify.com/album/0q1HqIiYzYjs5Dj2PjMPXg"
@@ -737,7 +757,7 @@
       "url": "https://open.spotify.com/track/0jV3mnrW7d4k7pDoyl3gtU"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u30a2\u30a4\u30ef\u30ca",
         "url": "https://open.spotify.com/album/3JHCc7hNg1hHCcIQsF1xzM"
@@ -753,7 +773,7 @@
       "url": "https://open.spotify.com/track/1KsxzZxW14vwC3j8s68kUS"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u306f\u3044\u3088\u308d\u3053\u3093\u3067",
         "url": "https://open.spotify.com/album/4QU3XHH0tgaaIzCVf66i16"
@@ -769,7 +789,7 @@
       "url": "https://open.spotify.com/track/41xGcFvQsGYQs0RDFvPfv3"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "LAST LOVE LETTER",
         "url": "https://open.spotify.com/album/5jMeVRXPkfx6JPXs92tPdB"
@@ -785,7 +805,7 @@
       "url": "https://open.spotify.com/track/14HAoLdDKYn6WfI9VZB4Sm"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "Romantic",
         "url": "https://open.spotify.com/album/5W8LmYnKgTQCTpRbR4cP3G"
@@ -801,7 +821,7 @@
       "url": "https://open.spotify.com/track/61DzuO5GOWbN9aX9G4Pop9"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u3084\u304d\u305d\u3070\u30d1\u30f3",
         "url": "https://open.spotify.com/album/4NsvsWOcmuRhF6Pp0yDFFi"
@@ -817,7 +837,7 @@
       "url": "https://open.spotify.com/track/0f7ViW41DWmD2Jssoava5c"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u6bce\u65e5 - Every Day",
         "url": "https://open.spotify.com/album/12lsaS3L0KUVHrEjJRP978"
@@ -833,7 +853,7 @@
       "url": "https://open.spotify.com/track/6BBc24r3QbIP4Qt3gdUOtZ"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u5730\u7344\u604b\u6587",
         "url": "https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs"
@@ -849,7 +869,7 @@
       "url": "https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u857e",
         "url": "https://open.spotify.com/album/0PuGKOl8H5w8Ar0esB1f2V"
@@ -865,7 +885,7 @@
       "url": "https://open.spotify.com/track/02J918WUY2J6jBLux5ONUI"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "I wonder",
         "url": "https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je"
@@ -881,7 +901,7 @@
       "url": "https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "Love seeker",
         "url": "https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF"
@@ -897,7 +917,7 @@
       "url": "https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "Don't",
         "url": "https://open.spotify.com/album/7AIF17humOKTJLYA3g7x0h"
@@ -913,7 +933,7 @@
       "url": "https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "BABE",
         "url": "https://open.spotify.com/album/7rCMyIfVxE1KfePlrAAS0k"
@@ -929,7 +949,7 @@
       "url": "https://open.spotify.com/track/4YGG8J2CiQiyT5o49J840H"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u306a\u3093\u3068\u3082\u601d\u3063\u3066\u306d\u3047",
         "url": "https://open.spotify.com/album/3nFQn0Q02t4LOgV7I5DFiu"
@@ -957,7 +977,7 @@
       "url": "https://open.spotify.com/track/3ZaWOwApiSBHtQMcHB0qU7"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u5922\u5e7b",
         "url": "https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ"
@@ -977,7 +997,7 @@
       "url": "https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "\u307c\u304f\u3089\u306e\u6d99\u306a\u3089\u7a7a\u306b\u57cb\u3081\u3088\u3046",
         "url": "https://open.spotify.com/album/3X53glEtwCpJcpTw4TVSrv"
@@ -993,7 +1013,7 @@
       "url": "https://open.spotify.com/track/7qWNXlAaH8NSn0oa1w3Wor"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "Black or White?",
         "url": "https://open.spotify.com/album/3SXdTmlIBdOs3KrFriCo0Q"
@@ -1009,7 +1029,7 @@
       "url": "https://open.spotify.com/track/3zwQBA4eghhpOvY0afEOug"
     },
     {
-      "added_at": "2024-07-16 15:00:00",
+      "added_at": "2024-07-23 15:00:00",
       "album": {
         "name": "SUPER REAL ME",
         "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"

@@ -1097,7 +1097,7 @@
     },
     {
       "album": {
-        "name": "Lully : Les Divertissements de Versailles - Great Operatic Scenes",
+        "name": "Lully: Les Divertissements de Versailles - Great Operatic Scenes",
         "url": "https://open.spotify.com/album/2WMXnJqD3UmZRJqiPRkauL"
       },
       "artists": [
@@ -1106,19 +1106,23 @@
           "url": "https://open.spotify.com/artist/19v0Cnq5D4SKom8SVlXhkw"
         },
         {
+          "name": "Les Arts Florissants",
+          "url": "https://open.spotify.com/artist/652tly1eoAkKzhJ5z4LsEx"
+        },
+        {
           "name": "William Christie",
           "url": "https://open.spotify.com/artist/7mkcqdifmNkhfJ7XZ7WFFS"
         },
         {
-          "name": "Les Arts Florissants",
-          "url": "https://open.spotify.com/artist/652tly1eoAkKzhJ5z4LsEx"
+          "name": "Sophie Daneman",
+          "url": "https://open.spotify.com/artist/3RdfskyRcHeTULV9IrH6FG"
         }
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 306666,
-      "name": "Lully : Ballet des Muses : \"Trop indiscret Amour\" [Euridice]",
+      "name": "Lully: Ballet des muses, LWV 32: Air. \"Trop indiscret Amour\" (Euridice)",
       "url": "https://open.spotify.com/track/2zUoxM02p2aSy7LOfI5rCy"
     },
     {

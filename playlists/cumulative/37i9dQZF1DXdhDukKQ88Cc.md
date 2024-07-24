@@ -2,7 +2,7 @@
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> den største danske rap lige nu, call <a href="spotify:album:7AmzcJSCXx4xQgZSFs0kov">911</a> 🚨
+> den største danske rap lige nu..\. Anton Westerlin x Kundo <a href="spotify:album:1WzzRG4FdwNgBPxiVuhdT7">Bellingham Freestyle</a> 🚨
 
 205 songs - 8 hr 51 min
 

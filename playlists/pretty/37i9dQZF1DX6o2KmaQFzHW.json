@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 188593,
+  "num_followers": 188615,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Viajes Por El Mundo",
-        "url": "https://open.spotify.com/album/3iiV07YVt8Z0Ztno6uC5Gw"
-      },
-      "artists": [
-        {
-          "name": "Atahualpa Yupanqui",
-          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Los Ejes de Mi Carreta",
-      "url": "https://open.spotify.com/track/1IMlyGnCZuvVGFTHdfKFzo"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Para Que Vuelvas",
         "url": "https://open.spotify.com/album/1YzBnvHJKVVTHvJqnmyL3n"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 182200,
       "name": "Criollita Santiague\u00f1a",
       "url": "https://open.spotify.com/track/5rux26qMQRfEEO4W3eJS9X"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Viajes Por El Mundo",
+        "url": "https://open.spotify.com/album/3iiV07YVt8Z0Ztno6uC5Gw"
+      },
+      "artists": [
+        {
+          "name": "Atahualpa Yupanqui",
+          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Los Ejes de Mi Carreta",
+      "url": "https://open.spotify.com/track/1IMlyGnCZuvVGFTHdfKFzo"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Para Que Vuelvas",
+        "url": "https://open.spotify.com/album/1YzBnvHJKVVTHvJqnmyL3n"
+      },
+      "artists": [
+        {
+          "name": "Hernan Figueroa Reyes",
+          "url": "https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "Zamba Del Pa\u00f1uelo",
+      "url": "https://open.spotify.com/track/2zFqghbK2LNyZrINn1gLhk"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Aqui Cosquin",
         "url": "https://open.spotify.com/album/4Rd6qMYofVnpuan16xcp7Q"
       },
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Para Que Vuelvas",
-        "url": "https://open.spotify.com/album/1YzBnvHJKVVTHvJqnmyL3n"
-      },
-      "artists": [
-        {
-          "name": "Hernan Figueroa Reyes",
-          "url": "https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S"
-        }
-      ],
-      "duration_ms": 230906,
-      "name": "Zamba Del Pa\u00f1uelo",
-      "url": "https://open.spotify.com/track/2zFqghbK2LNyZrINn1gLhk"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "La Palavecino",
         "url": "https://open.spotify.com/album/33rgmZwrJf2nRyPQ3BelON"
       },
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Tinto",
-        "url": "https://open.spotify.com/album/1MOjni1IYZO2Iosd2U0vCq"
-      },
-      "artists": [
-        {
-          "name": "Orozco-Barrientos",
-          "url": "https://open.spotify.com/artist/23Pml8pDuAoLpaUxxGms4F"
-        }
-      ],
-      "duration_ms": 203053,
-      "name": "La Refranera",
-      "url": "https://open.spotify.com/track/5Gfx8iRscLs9CxaFCQPfmP"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "El Canto De La Tierra",
         "url": "https://open.spotify.com/album/5K60VXc8jWyqiMK7QM1GBb"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 211533,
       "name": "La Pastorcita Perdida",
       "url": "https://open.spotify.com/track/36wpfInAPheD9NuswqTR3f"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Tinto",
+        "url": "https://open.spotify.com/album/1MOjni1IYZO2Iosd2U0vCq"
+      },
+      "artists": [
+        {
+          "name": "Orozco-Barrientos",
+          "url": "https://open.spotify.com/artist/23Pml8pDuAoLpaUxxGms4F"
+        }
+      ],
+      "duration_ms": 203053,
+      "name": "La Refranera",
+      "url": "https://open.spotify.com/track/5Gfx8iRscLs9CxaFCQPfmP"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Nuestras Mejores 30 Canciones",
-        "url": "https://open.spotify.com/album/1PLHsC4X3wdJr6xFEfzcjJ"
+        "name": "Lo Mejor de la Zamba Argentina",
+        "url": "https://open.spotify.com/album/0Pp6Z81iR3LT1y88KpX07g"
       },
       "artists": [
         {
-          "name": "Las Voces De Or\u00e1n",
-          "url": "https://open.spotify.com/artist/4rtxMgmSUuGnQbvf61BDB8"
+          "name": "El Chango Nieto",
+          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
         }
       ],
-      "duration_ms": 161773,
-      "name": "Recuerdo Salte\u00f1o",
-      "url": "https://open.spotify.com/track/3esSMzPYxYBnW6ARIgr4Oo"
+      "duration_ms": 206000,
+      "name": "El Corralero",
+      "url": "https://open.spotify.com/track/5h9oRMXy6afiP2MPGMJIxy"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Lo Mejor de la Zamba Argentina",
-        "url": "https://open.spotify.com/album/0Pp6Z81iR3LT1y88KpX07g"
+        "name": "Nuestras Mejores 30 Canciones",
+        "url": "https://open.spotify.com/album/1PLHsC4X3wdJr6xFEfzcjJ"
       },
       "artists": [
         {
-          "name": "El Chango Nieto",
-          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
+          "name": "Las Voces De Or\u00e1n",
+          "url": "https://open.spotify.com/artist/4rtxMgmSUuGnQbvf61BDB8"
         }
       ],
-      "duration_ms": 206000,
-      "name": "El Corralero",
-      "url": "https://open.spotify.com/track/5h9oRMXy6afiP2MPGMJIxy"
+      "duration_ms": 161773,
+      "name": "Recuerdo Salte\u00f1o",
+      "url": "https://open.spotify.com/track/3esSMzPYxYBnW6ARIgr4Oo"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/0RrfUzvrRxY38Bqdi9cMsl"
+      },
+      "artists": [
+        {
+          "name": "El Chango Nieto",
+          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
+        }
+      ],
+      "duration_ms": 151600,
+      "name": "Recuerdo Salte\u00f1o",
+      "url": "https://open.spotify.com/track/76yO7eh6SgvE0PSYjKdaVj"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Secretos de Familia",
         "url": "https://open.spotify.com/album/52Y9ibi8pyfcZRMyFNwJ2c"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 252226,
       "name": "Canci\u00f3n del Amor En Zapatillas",
       "url": "https://open.spotify.com/track/6qM3zhKdj7VA8y4xuO27OR"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/0RrfUzvrRxY38Bqdi9cMsl"
-      },
-      "artists": [
-        {
-          "name": "El Chango Nieto",
-          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
-        }
-      ],
-      "duration_ms": 151600,
-      "name": "Recuerdo Salte\u00f1o",
-      "url": "https://open.spotify.com/track/76yO7eh6SgvE0PSYjKdaVj"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Grandes Exitos (Serie De Oro)",
-        "url": "https://open.spotify.com/album/3rEBrFbu2Gf4jeg6Rjzo0T"
-      },
-      "artists": [
-        {
-          "name": "Peteco Carabajal",
-          "url": "https://open.spotify.com/artist/2v28P580xseflEKfwYtIb6"
-        }
-      ],
-      "duration_ms": 145693,
-      "name": "Camino al Amor",
-      "url": "https://open.spotify.com/track/0RvY0zu9rB1CKW0FwNr627"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "22 Grandes Exitos",
         "url": "https://open.spotify.com/album/4VcoE025pFB2BLm9fhgg6T"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 190333,
       "name": "Llorar\u00e9",
       "url": "https://open.spotify.com/track/3URJ8j0Z8yAXTigCzhvYrV"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Grandes Exitos (Serie De Oro)",
+        "url": "https://open.spotify.com/album/3rEBrFbu2Gf4jeg6Rjzo0T"
+      },
+      "artists": [
+        {
+          "name": "Peteco Carabajal",
+          "url": "https://open.spotify.com/artist/2v28P580xseflEKfwYtIb6"
+        }
+      ],
+      "duration_ms": 145693,
+      "name": "Camino al Amor",
+      "url": "https://open.spotify.com/track/0RvY0zu9rB1CKW0FwNr627"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Leyenda",
-        "url": "https://open.spotify.com/album/0ElncY7qEVIgOs0QXBZUUO"
-      },
-      "artists": [
-        {
-          "name": "Los Tucu Tucu",
-          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "Como P\u00e1jaros en el Aire",
-      "url": "https://open.spotify.com/track/1h0XaQjEBN3WOiLAOjhRVe"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Antig\u00fcedades (En Vivo)",
         "url": "https://open.spotify.com/album/470JBBmJHQWNHuPMDENZ2B"
       },
@@ -1947,18 +1931,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Folklore Argentino",
-        "url": "https://open.spotify.com/album/02PuvyPY2ohmihaFVkaE4M"
+        "name": "Leyenda",
+        "url": "https://open.spotify.com/album/0ElncY7qEVIgOs0QXBZUUO"
       },
       "artists": [
         {
-          "name": "A.Yupanqui",
-          "url": "https://open.spotify.com/artist/29lDBZbigtSYlk8QoiCyZT"
+          "name": "Los Tucu Tucu",
+          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
         }
       ],
-      "duration_ms": 166066,
-      "name": "Zamba de Vargas",
-      "url": "https://open.spotify.com/track/2WN7uSvBMc2MUnnpoAQ57m"
+      "duration_ms": 192960,
+      "name": "Como P\u00e1jaros en el Aire",
+      "url": "https://open.spotify.com/track/1h0XaQjEBN3WOiLAOjhRVe"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1975,6 +1959,22 @@
       "duration_ms": 201440,
       "name": "Canci\u00f3n en Nuestra Casa",
       "url": "https://open.spotify.com/track/4mNF1bgifjsoEifrRW0aZU"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Folklore Argentino",
+        "url": "https://open.spotify.com/album/02PuvyPY2ohmihaFVkaE4M"
+      },
+      "artists": [
+        {
+          "name": "A.Yupanqui",
+          "url": "https://open.spotify.com/artist/29lDBZbigtSYlk8QoiCyZT"
+        }
+      ],
+      "duration_ms": 166066,
+      "name": "Zamba de Vargas",
+      "url": "https://open.spotify.com/track/2WN7uSvBMc2MUnnpoAQ57m"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Por Hacer la Am\u00e9rica (Vol. 1)",
-        "url": "https://open.spotify.com/album/3JA3dlrGcOEaPf2ExetHIU"
-      },
-      "artists": [
-        {
-          "name": "Los 4 De Cordoba",
-          "url": "https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2"
-        }
-      ],
-      "duration_ms": 238027,
-      "name": "Por Hacer la Am\u00e9rica",
-      "url": "https://open.spotify.com/track/1hCPK4befzCeLDdNQuYKtc"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/5sRlBY5xX2BaIkyMaYUM7p"
       },
@@ -2127,22 +2111,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Musicos - Cantores Kuska (Juntos) [En Vivo]",
-        "url": "https://open.spotify.com/album/2KruPURJwzR5o8UEo9IGId"
-      },
-      "artists": [
-        {
-          "name": "Sixto Palavecino",
-          "url": "https://open.spotify.com/artist/7J3PlfvQyxabanXsQQtJf0"
-        }
-      ],
-      "duration_ms": 157805,
-      "name": "S\u00f3lo le pido a Dios - En Vivo",
-      "url": "https://open.spotify.com/track/1sCW3cwb0McvHe1RXwg1xA"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Tierra Colorada en el Teatro Col\u00f3n: Chango Spasiuk en Concierto (En Vivo) [En Vivo en el Teatro Col\u00f3n]",
         "url": "https://open.spotify.com/album/7x6C47bUm4asmVz4UIvl2l"
       },
@@ -2155,6 +2123,38 @@
       "duration_ms": 288866,
       "name": "Tierra Colorada - En Vivo en el Teatro Col\u00f3n",
       "url": "https://open.spotify.com/track/54Z1VfgxdIW0n19Df9r9Sy"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Por Hacer la Am\u00e9rica (Vol. 1)",
+        "url": "https://open.spotify.com/album/3JA3dlrGcOEaPf2ExetHIU"
+      },
+      "artists": [
+        {
+          "name": "Los 4 De Cordoba",
+          "url": "https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2"
+        }
+      ],
+      "duration_ms": 238027,
+      "name": "Por Hacer la Am\u00e9rica",
+      "url": "https://open.spotify.com/track/1hCPK4befzCeLDdNQuYKtc"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Musicos - Cantores Kuska (Juntos) [En Vivo]",
+        "url": "https://open.spotify.com/album/2KruPURJwzR5o8UEo9IGId"
+      },
+      "artists": [
+        {
+          "name": "Sixto Palavecino",
+          "url": "https://open.spotify.com/artist/7J3PlfvQyxabanXsQQtJf0"
+        }
+      ],
+      "duration_ms": 157805,
+      "name": "S\u00f3lo le pido a Dios - En Vivo",
+      "url": "https://open.spotify.com/track/1sCW3cwb0McvHe1RXwg1xA"
     },
     {
       "added_at": "2024-07-12 03:00:00",

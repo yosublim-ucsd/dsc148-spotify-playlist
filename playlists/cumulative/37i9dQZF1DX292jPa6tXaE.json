@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover new Punjabi artists! Cover: Jaby",
+  "description": "Discover new Punjabi artists! Cover: Kalra Saab",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -180,7 +180,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 184044,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/6Q3Vmb5Fic1bRv6EnQ1nsg"
@@ -680,10 +680,28 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 156631,
       "name": "Lovelorn",
       "url": "https://open.spotify.com/track/0zGC8T0XicGLBJbFCb2SLn"
+    },
+    {
+      "album": {
+        "name": "Main Teriyan",
+        "url": "https://open.spotify.com/album/50eQJlIfGhAa17U636kEei"
+      },
+      "artists": [
+        {
+          "name": "Kalra Saab",
+          "url": "https://open.spotify.com/artist/52wEoKNZk5QyZrVDFI3jWD"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215250,
+      "name": "Main Teriyan",
+      "url": "https://open.spotify.com/track/596eXAmuLYKtUXVBgImgr2"
     },
     {
       "album": {
@@ -824,6 +842,24 @@
       "duration_ms": 150927,
       "name": "Muqabala",
       "url": "https://open.spotify.com/track/10LE4vS4t6omJmadQQeqOg"
+    },
+    {
+      "album": {
+        "name": "One Side",
+        "url": "https://open.spotify.com/album/5npAFG27HowT3zQb7DMtP1"
+      },
+      "artists": [
+        {
+          "name": "Jaby",
+          "url": "https://open.spotify.com/artist/43EHJ772rdjyyT5jOXsPaQ"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169043,
+      "name": "One Side",
+      "url": "https://open.spotify.com/track/5VW6S70Y49aXLD80n4KJpo"
     },
     {
       "album": {

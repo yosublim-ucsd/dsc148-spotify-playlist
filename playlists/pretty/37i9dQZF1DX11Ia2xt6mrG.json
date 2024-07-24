@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. YoSoyMatt en portada.",
-  "num_followers": 58129,
+  "num_followers": 58150,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -615,26 +615,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Florida BB",
-        "url": "https://open.spotify.com/album/3rRThyVF0CNXxTMXcJXUWz"
+        "name": "CAJETA",
+        "url": "https://open.spotify.com/album/0uYZaczNoETjWCLYFQVhbH"
       },
       "artists": [
         {
-          "name": "Mandragora",
-          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
-        },
-        {
-          "name": "Kadum",
-          "url": "https://open.spotify.com/artist/6aVeeUIoZFB7tTjkc6m9Gm"
-        },
-        {
-          "name": "Macedo (BR)",
-          "url": "https://open.spotify.com/artist/37U5pvV4z0yigOZUOiN0Xa"
+          "name": "Fend",
+          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
         }
       ],
-      "duration_ms": 371000,
-      "name": "Florida BB",
-      "url": "https://open.spotify.com/track/3uwL4HJPxcO4Q1WwFAo1zv"
+      "duration_ms": 146976,
+      "name": "CAJETA",
+      "url": "https://open.spotify.com/track/3gtlrOxwdsrreHMqH1heyw"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -679,26 +671,26 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Como Tony",
-        "url": "https://open.spotify.com/album/1jmwAD0eB7bUzE9TfGwt1G"
+        "name": "Florida BB",
+        "url": "https://open.spotify.com/album/3rRThyVF0CNXxTMXcJXUWz"
       },
       "artists": [
         {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+          "name": "Mandragora",
+          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
         },
         {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+          "name": "Kadum",
+          "url": "https://open.spotify.com/artist/6aVeeUIoZFB7tTjkc6m9Gm"
         },
         {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+          "name": "Macedo (BR)",
+          "url": "https://open.spotify.com/artist/37U5pvV4z0yigOZUOiN0Xa"
         }
       ],
-      "duration_ms": 212088,
-      "name": "Como Tony",
-      "url": "https://open.spotify.com/track/4h1xBeWL6aPDkZc6JuSbAb"
+      "duration_ms": 371000,
+      "name": "Florida BB",
+      "url": "https://open.spotify.com/track/3uwL4HJPxcO4Q1WwFAo1zv"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -723,6 +715,30 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "Como Tony",
+        "url": "https://open.spotify.com/album/1jmwAD0eB7bUzE9TfGwt1G"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+        }
+      ],
+      "duration_ms": 212088,
+      "name": "Como Tony",
+      "url": "https://open.spotify.com/track/4h1xBeWL6aPDkZc6JuSbAb"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Body Movin",
         "url": "https://open.spotify.com/album/1RMGo1LvwPz62gkkWOxSWb"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 168000,
       "name": "Body Movin",
       "url": "https://open.spotify.com/track/1avxb29PtG3NgJrJEg0ZU3"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "CAJETA",
-        "url": "https://open.spotify.com/album/0uYZaczNoETjWCLYFQVhbH"
-      },
-      "artists": [
-        {
-          "name": "Fend",
-          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
-        }
-      ],
-      "duration_ms": 146976,
-      "name": "CAJETA",
-      "url": "https://open.spotify.com/track/3gtlrOxwdsrreHMqH1heyw"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Feeling Alive",
-        "url": "https://open.spotify.com/album/6bfjes4qXi1rFpAhsJ21wM"
-      },
-      "artists": [
-        {
-          "name": "HAJJ",
-          "url": "https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Feeling Alive",
-      "url": "https://open.spotify.com/track/1ebCYKQos3cErSrDfvFz5B"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Ruja",
         "url": "https://open.spotify.com/album/74wEP2eT4uSD4bX7MVibiS"
       },
@@ -1655,22 +1639,34 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Leave It On The Floor",
-        "url": "https://open.spotify.com/album/6UT8pdpkuzzbRAnwhUiIDY"
+        "name": "Feeling Alive",
+        "url": "https://open.spotify.com/album/6bfjes4qXi1rFpAhsJ21wM"
       },
       "artists": [
         {
-          "name": "Sunsets",
-          "url": "https://open.spotify.com/artist/3YiHDe6lmmKjRaN6jzJoRA"
-        },
-        {
-          "name": "KTLN",
-          "url": "https://open.spotify.com/artist/5i4N8QFXPLaqgFiORTSnol"
+          "name": "HAJJ",
+          "url": "https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI"
         }
       ],
-      "duration_ms": 164516,
-      "name": "Leave It On The Floor",
-      "url": "https://open.spotify.com/track/4vNmu3Z3KNJoFF09zCqfZG"
+      "duration_ms": 153750,
+      "name": "Feeling Alive",
+      "url": "https://open.spotify.com/track/1ebCYKQos3cErSrDfvFz5B"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "B\u00e9same Mucho",
+        "url": "https://open.spotify.com/album/6f5d9SlIVytpz5eIgH6PaJ"
+      },
+      "artists": [
+        {
+          "name": "Broz Rodriguez",
+          "url": "https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln"
+        }
+      ],
+      "duration_ms": 151680,
+      "name": "B\u00e9same Mucho",
+      "url": "https://open.spotify.com/track/6OMiBOznxQaUbNUWGWrvFv"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1695,18 +1691,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "B\u00e9same Mucho",
-        "url": "https://open.spotify.com/album/6f5d9SlIVytpz5eIgH6PaJ"
+        "name": "Leave It On The Floor",
+        "url": "https://open.spotify.com/album/6UT8pdpkuzzbRAnwhUiIDY"
       },
       "artists": [
         {
-          "name": "Broz Rodriguez",
-          "url": "https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln"
+          "name": "Sunsets",
+          "url": "https://open.spotify.com/artist/3YiHDe6lmmKjRaN6jzJoRA"
+        },
+        {
+          "name": "KTLN",
+          "url": "https://open.spotify.com/artist/5i4N8QFXPLaqgFiORTSnol"
         }
       ],
-      "duration_ms": 151680,
-      "name": "B\u00e9same Mucho",
-      "url": "https://open.spotify.com/track/6OMiBOznxQaUbNUWGWrvFv"
+      "duration_ms": 164516,
+      "name": "Leave It On The Floor",
+      "url": "https://open.spotify.com/track/4vNmu3Z3KNJoFF09zCqfZG"
     },
     {
       "added_at": "2024-07-12 06:00:00",

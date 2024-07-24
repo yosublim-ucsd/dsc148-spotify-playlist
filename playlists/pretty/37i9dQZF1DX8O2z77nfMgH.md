@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Rauw Alejandro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,683 likes - 67 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,705 likes - 67 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 44 | [Veneno](https://open.spotify.com/track/1ARzLQnVJwKNiHTULmi28n) | [Chamaco](https://open.spotify.com/artist/1xCbQhtV5c1Vc1I1n2jyv0), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [Veneno](https://open.spotify.com/album/2umzSFJb2qVDO3Iew7fRkN) | 3:31 |
 | 45 | [ME DUELE TU TRAICIÓN](https://open.spotify.com/track/6HegiTRemAAx7CN8tHqRta) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [ME DUELE TU TRAICIÓN](https://open.spotify.com/album/30DgBlS7pFZFRnkbum26E8) | 3:32 |
 | 46 | [Los Morritos](https://open.spotify.com/track/26E9ySMhzSl29YqEwgDMf1) | [CHOCA](https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk), [Morrow](https://open.spotify.com/artist/6xIdQeYrbSdRZEpiY6gYd4) | [Los Morritos](https://open.spotify.com/album/6sZWcqk0Tlh6kj36IS4QN8) | 2:43 |
-| 47 | [Mi Chico](https://open.spotify.com/track/3EOzK14fWquSyJ5gOH2vl1) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo) | [Mi Chico](https://open.spotify.com/album/54lAVXBkFU7de4mBBWYhu5) | 3:14 |
+| 47 | [Mi Chico](https://open.spotify.com/track/3EOzK14fWquSyJ5gOH2vl1) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Sammy The Greatest](https://open.spotify.com/artist/51NCx9Br54qYPezwKIvIz3) | [Mi Chico](https://open.spotify.com/album/54lAVXBkFU7de4mBBWYhu5) | 3:14 |
 | 48 | [Bluedream](https://open.spotify.com/track/4g5hUHqasYwIXvZMuS5GoZ) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Playground](https://open.spotify.com/album/2NkyVnADJzU6adJMdhrSsH) | 2:53 |
 | 49 | [Mi Casita](https://open.spotify.com/track/7DwZmTFwaW6IExAyeGDKQ3) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Mi Casita](https://open.spotify.com/album/6OlLFigu7as8Cee3dKyfpz) | 2:39 |
 | 50 | [Esmeralda \(Episodio 2\)](https://open.spotify.com/track/6FgVbS4WlDLPTjr0C6Ozkw) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI), [El Palomar](https://open.spotify.com/artist/5NQBS0Adzkd4OheoR7DtpF) | [Esmeralda \(Episodio 2\)](https://open.spotify.com/album/6sxVaMwALeEANXA2b7TtLt) | 3:48 |

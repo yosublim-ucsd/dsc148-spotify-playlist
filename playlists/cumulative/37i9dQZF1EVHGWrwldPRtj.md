@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1EVHGWrwldPRtj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EVHGWrwldPRtj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EVHGWrwldPRtj)
 
-### [Chill Mix](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
+### [弛放音乐合辑](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
 
-> <a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>, <a href=spotify:playlist:37i9dQZF1EIX6w3UehUg5U>Hozier</a>, <a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>、<a href=spotify:playlist:37i9dQZF1EIX6w3UehUg5U>Hozier</a>、<a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a> 等更多曲风
 
 595 songs - 1 day 9 hr 37 min
 
@@ -489,7 +489,7 @@
 | [Sunset](https://open.spotify.com/track/1UYKCTtPpyX0ZY9obpz80a) | [FYDE](https://open.spotify.com/artist/28kldqXGHic7XjxOlg5V2U) | [Sunset](https://open.spotify.com/album/0G1tlAHV2qh8KBGcp3WG1t) | 1:49 | 2024-01-01 | 2024-01-02 |
 | [Sunset Lover](https://open.spotify.com/track/3WRQUvzRvBDr4AxMWhXc5E) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Presence](https://open.spotify.com/album/6se6q5nk4VCVbWWnZcguCc) | 3:58 | 2023-12-29 |  |
 | [Sunset Lovers](https://open.spotify.com/track/1x7NAvqHgCvhV549ls0FTE) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [Sunset Lovers](https://open.spotify.com/album/5x7S16YvroS0lLKXARqUMu) | 2:56 | 2024-01-07 | 2024-01-08 |
-| [Sunshine](https://open.spotify.com/track/66BDXKHZOvvz4CwZovEMwH) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Sunshine](https://open.spotify.com/album/1fjm9tF70Y0HMV795Q1tsj) | 2:22 | 2024-01-29 |  |
+| [Sunshine](https://open.spotify.com/track/66BDXKHZOvvz4CwZovEMwH) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Sunshine](https://open.spotify.com/album/1fjm9tF70Y0HMV795Q1tsj) | 2:22 | 2024-01-29 | 2024-07-24 |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2024-02-06 | 2024-02-16 |
 | [Surf](https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 5:30 | 2023-12-29 | 2024-03-28 |
 | [Svar](https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:41 | 2024-01-19 | 2024-02-06 |
@@ -520,7 +520,7 @@
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2024-01-12 | 2024-02-06 |
 | [The Look](https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:37 | 2024-04-08 | 2024-04-09 |
 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 | 2024-01-06 | 2024-07-09 |
-| [The One](https://open.spotify.com/track/2hT9vWmKp6uduKzmalqeMA) | [Jane Good](https://open.spotify.com/artist/1rFqZWRuRsmDNAuSMRGwSE), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [The One](https://open.spotify.com/album/5Jop0OBRotixCpYtx5VUsH) | 2:05 | 2024-01-06 | 2024-07-17 |
+| [The One](https://open.spotify.com/track/2hT9vWmKp6uduKzmalqeMA) | [Jane Good](https://open.spotify.com/artist/1rFqZWRuRsmDNAuSMRGwSE), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [The One](https://open.spotify.com/album/5Jop0OBRotixCpYtx5VUsH) | 2:05 | 2024-01-06 |  |
 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 | 2024-01-06 | 2024-01-07 |
 | [The Sea](https://open.spotify.com/track/0xjkgYSzHjBZNvyUaC9cXX) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Big Calm](https://open.spotify.com/album/1ILnMWNKUXzcXug4Tq2JRP) | 5:47 | 2024-01-04 | 2024-02-03 |
 | [The Sea](https://open.spotify.com/track/7MRI6ZNv3neLVYy2kQ91nQ) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Big Calm](https://open.spotify.com/album/7rjjFxMFZjPzQzBMj6mXr2) | 5:48 | 2024-02-09 | 2024-03-17 |

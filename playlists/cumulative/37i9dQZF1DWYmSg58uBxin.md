@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-272 songs - 12 hr 34 min
+273 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Inner Child](https://open.spotify.com/track/68nmWUVocivtdIOe9dYTH5) | [Louise Lennehan](https://open.spotify.com/artist/3qDXOw6W1ocOSAJQoE4TPW) | [The Sacred Self](https://open.spotify.com/album/65DCR1ubmwGmG5u0ijqPbm) | 3:08 | 2020-10-20\* |  |
 | [Inner Introspection](https://open.spotify.com/track/5En4Zy3m0cw63RzivOZjQR) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Inner Introspection](https://open.spotify.com/album/6yYE7Z0sA7HqqeCbzCjmyL) | 3:07 | 2020-10-20\* | 2021-11-17 |
 | [Inner Sphere](https://open.spotify.com/track/3mLoP1rCssKM4aeRAUpiOj) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Inner Sphere](https://open.spotify.com/album/3xdSCmp1G4ikQqKLFgACrP) | 3:25 | 2020-10-20\* | 2022-05-20 |
+| [Invitation](https://open.spotify.com/track/0gTjyLSaG5FFIpDhw6IA2C) | [Samuel Kees](https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn) | [Invitation](https://open.spotify.com/album/3dnVyXLUFDwBcUwC3s82yx) | 2:54 | 2024-07-23 |  |
 | [It Won't Be Like This for Long](https://open.spotify.com/track/1CSs4RlMxSeMNYFdd0b12t) | [A\. Hunt](https://open.spotify.com/artist/7sxu41SWrNz2ndyXMXMvNi) | [It Won't Be Like This for Long](https://open.spotify.com/album/2H9ZbgUjVz6QIMgT3TC8kO) | 1:36 | 2022-07-01 | 2023-09-09 |
 | [Itinere](https://open.spotify.com/track/3SJyrNsIX3mkiyFKekNAty) | [Rickard Nilsson](https://open.spotify.com/artist/6qa2LFLjGOvQPRxs8LZuZX), [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [Itinere](https://open.spotify.com/album/47GVftysLfyzIMrF3D95Gw) | 2:08 | 2022-05-27 |  |
 | [Jeg længes](https://open.spotify.com/track/5MEM7rEDW1wEJOqnpf1tuK) | [Paul Todnem](https://open.spotify.com/artist/6I2OAiM7l26aVxPJGJ5V0Q) | [Jeg længes](https://open.spotify.com/album/5QlKsBtLVfT2LkyRvEz2Lp) | 2:14 | 2023-09-08 |  |

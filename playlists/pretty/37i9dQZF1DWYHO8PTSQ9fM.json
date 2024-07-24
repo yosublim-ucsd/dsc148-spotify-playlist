@@ -1,12 +1,12 @@
 {
   "description": "GIMS & DYSTINCT en t\u00eate de la playlist num\u00e9ro un au Maroc.",
-  "num_followers": 656173,
+  "num_followers": 656412,
   "original_name": "Hot Hits Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpzTnQAAAAAzIkHphfn1D/d6FydBUJXy",
+  "snapshot_id": "Zp9dEQAAAADA1ITqOCK0CXYTZ/VY/b9O",
   "tracks": [
     {
       "added_at": "2024-07-18 08:09:27",
@@ -167,6 +167,22 @@
     {
       "added_at": "2024-07-18 08:09:27",
       "album": {
+        "name": "Magdar",
+        "url": "https://open.spotify.com/album/2BgCJlo2EDx4w5uxTP3hJC"
+      },
+      "artists": [
+        {
+          "name": "Zouhair Bahaoui",
+          "url": "https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Magdar",
+      "url": "https://open.spotify.com/track/4vT286Zu3aHYW96N76joB7"
+    },
+    {
+      "added_at": "2024-07-18 08:09:27",
+      "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC"
       },
@@ -183,18 +199,22 @@
     {
       "added_at": "2024-07-18 08:09:27",
       "album": {
-        "name": "Magdar",
-        "url": "https://open.spotify.com/album/2BgCJlo2EDx4w5uxTP3hJC"
+        "name": "D\u00e9cennie",
+        "url": "https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA"
       },
       "artists": [
         {
-          "name": "Zouhair Bahaoui",
-          "url": "https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6"
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Magdar",
-      "url": "https://open.spotify.com/track/4vT286Zu3aHYW96N76joB7"
+      "duration_ms": 220013,
+      "name": "Oh qu'elle est belle",
+      "url": "https://open.spotify.com/track/7wwQoJtPLBVeMIZlW11cp6"
     },
     {
       "added_at": "2024-07-18 08:09:27",
@@ -227,42 +247,6 @@
       "duration_ms": 248000,
       "name": "Yamore",
       "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"
-    },
-    {
-      "added_at": "2024-07-18 08:09:27",
-      "album": {
-        "name": "D\u00e9cennie",
-        "url": "https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        },
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        }
-      ],
-      "duration_ms": 220013,
-      "name": "Oh qu'elle est belle",
-      "url": "https://open.spotify.com/track/7wwQoJtPLBVeMIZlW11cp6"
-    },
-    {
-      "added_at": "2024-07-18 08:09:27",
-      "album": {
-        "name": "Galbi",
-        "url": "https://open.spotify.com/album/7s8QuvXwW32SxoX8X6aGpT"
-      },
-      "artists": [
-        {
-          "name": "Ali S",
-          "url": "https://open.spotify.com/artist/6L7RfKlbIHQPxKbLizN9ts"
-        }
-      ],
-      "duration_ms": 163932,
-      "name": "Galbi",
-      "url": "https://open.spotify.com/track/5AA6ny0PZ4dBw72q1JZcHV"
     },
     {
       "added_at": "2024-07-18 08:09:27",
@@ -315,18 +299,38 @@
     {
       "added_at": "2024-07-18 08:09:27",
       "album": {
-        "name": "Matgheltech",
-        "url": "https://open.spotify.com/album/5WBdOgzrEPdn0TB5GaYSh0"
+        "name": "Chef D'orchestre",
+        "url": "https://open.spotify.com/album/65Zsfpx3BX9uriUQ5Nvuq7"
       },
       "artists": [
         {
-          "name": "Mocci",
-          "url": "https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1"
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 195816,
-      "name": "Matgheltech",
-      "url": "https://open.spotify.com/track/00c3VyS0fPdFOZa8PNsXgX"
+      "duration_ms": 189840,
+      "name": "Saiyan",
+      "url": "https://open.spotify.com/track/2BvjmY4Mp5q1AHL0laetd6"
+    },
+    {
+      "added_at": "2024-07-18 08:09:27",
+      "album": {
+        "name": "KIF KIF",
+        "url": "https://open.spotify.com/album/7DeGLtJG2R45QJrHW1NLLF"
+      },
+      "artists": [
+        {
+          "name": "Lbenj",
+          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
+        }
+      ],
+      "duration_ms": 227826,
+      "name": "KIF KIF",
+      "url": "https://open.spotify.com/track/23iRPid7TsITfNxKGL0toM"
     },
     {
       "added_at": "2024-07-18 08:09:27",
@@ -347,6 +351,54 @@
     {
       "added_at": "2024-07-18 08:09:27",
       "album": {
+        "name": "ICEBERG",
+        "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "MARADONA",
+      "url": "https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya"
+    },
+    {
+      "added_at": "2024-07-18 08:09:27",
+      "album": {
+        "name": "Galbi",
+        "url": "https://open.spotify.com/album/7s8QuvXwW32SxoX8X6aGpT"
+      },
+      "artists": [
+        {
+          "name": "Ali S",
+          "url": "https://open.spotify.com/artist/6L7RfKlbIHQPxKbLizN9ts"
+        }
+      ],
+      "duration_ms": 163932,
+      "name": "Galbi",
+      "url": "https://open.spotify.com/track/5AA6ny0PZ4dBw72q1JZcHV"
+    },
+    {
+      "added_at": "2024-07-18 08:09:27",
+      "album": {
+        "name": "Matgheltech",
+        "url": "https://open.spotify.com/album/5WBdOgzrEPdn0TB5GaYSh0"
+      },
+      "artists": [
+        {
+          "name": "Mocci",
+          "url": "https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1"
+        }
+      ],
+      "duration_ms": 195816,
+      "name": "Matgheltech",
+      "url": "https://open.spotify.com/track/00c3VyS0fPdFOZa8PNsXgX"
+    },
+    {
+      "added_at": "2024-07-18 08:09:27",
+      "album": {
         "name": "Mimti",
         "url": "https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv"
       },
@@ -359,22 +411,6 @@
       "duration_ms": 198595,
       "name": "Mimti",
       "url": "https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF"
-    },
-    {
-      "added_at": "2024-07-18 08:09:27",
-      "album": {
-        "name": "KIF KIF",
-        "url": "https://open.spotify.com/album/7DeGLtJG2R45QJrHW1NLLF"
-      },
-      "artists": [
-        {
-          "name": "Lbenj",
-          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
-        }
-      ],
-      "duration_ms": 227826,
-      "name": "KIF KIF",
-      "url": "https://open.spotify.com/track/23iRPid7TsITfNxKGL0toM"
     },
     {
       "added_at": "2024-07-18 08:09:27",
@@ -415,90 +451,6 @@
     {
       "added_at": "2024-07-18 08:09:27",
       "album": {
-        "name": "Chef D'orchestre",
-        "url": "https://open.spotify.com/album/65Zsfpx3BX9uriUQ5Nvuq7"
-      },
-      "artists": [
-        {
-          "name": "Heuss L'enfoir\u00e9",
-          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "Saiyan",
-      "url": "https://open.spotify.com/track/2BvjmY4Mp5q1AHL0laetd6"
-    },
-    {
-      "added_at": "2024-07-18 08:09:27",
-      "album": {
-        "name": "ICEBERG",
-        "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "MARADONA",
-      "url": "https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya"
-    },
-    {
-      "added_at": "2024-07-18 08:09:27",
-      "album": {
-        "name": "C'est pas joli",
-        "url": "https://open.spotify.com/album/5YOpqhojYXnSkrPgea4WRD"
-      },
-      "artists": [
-        {
-          "name": "Raste",
-          "url": "https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT"
-        }
-      ],
-      "duration_ms": 223578,
-      "name": "C'est pas joli",
-      "url": "https://open.spotify.com/track/4SpnH3YDyQeBa2nfMdRlSB"
-    },
-    {
-      "added_at": "2024-07-18 08:09:27",
-      "album": {
-        "name": "Bomba Internationale",
-        "url": "https://open.spotify.com/album/6thmHz667FJDAlkmStkXFW"
-      },
-      "artists": [
-        {
-          "name": "Moha K",
-          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
-        }
-      ],
-      "duration_ms": 165402,
-      "name": "Bomba Internationale",
-      "url": "https://open.spotify.com/track/61R8xjGtLJSDLqdXchuv7Z"
-    },
-    {
-      "added_at": "2024-07-18 08:09:27",
-      "album": {
-        "name": "Mriyech",
-        "url": "https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H"
-      },
-      "artists": [
-        {
-          "name": "Mehdi Fadili",
-          "url": "https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG"
-        }
-      ],
-      "duration_ms": 208436,
-      "name": "Mriyech",
-      "url": "https://open.spotify.com/track/7735rwGeak348luaiQVRNE"
-    },
-    {
-      "added_at": "2024-07-18 08:09:27",
-      "album": {
         "name": "Petit g\u00e9nie",
         "url": "https://open.spotify.com/album/4Ta3fRzeMUtQlQrrcn1cuE"
       },
@@ -527,6 +479,22 @@
       "duration_ms": 217259,
       "name": "Petit g\u00e9nie",
       "url": "https://open.spotify.com/track/1eldTykrnkEBLX41bk5eMw"
+    },
+    {
+      "added_at": "2024-07-18 08:09:27",
+      "album": {
+        "name": "C'est pas joli",
+        "url": "https://open.spotify.com/album/5YOpqhojYXnSkrPgea4WRD"
+      },
+      "artists": [
+        {
+          "name": "Raste",
+          "url": "https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT"
+        }
+      ],
+      "duration_ms": 223578,
+      "name": "C'est pas joli",
+      "url": "https://open.spotify.com/track/4SpnH3YDyQeBa2nfMdRlSB"
     },
     {
       "added_at": "2024-07-18 08:09:27",
@@ -563,6 +531,38 @@
     {
       "added_at": "2024-07-18 08:09:27",
       "album": {
+        "name": "Bomba Internationale",
+        "url": "https://open.spotify.com/album/6thmHz667FJDAlkmStkXFW"
+      },
+      "artists": [
+        {
+          "name": "Moha K",
+          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
+        }
+      ],
+      "duration_ms": 165402,
+      "name": "Bomba Internationale",
+      "url": "https://open.spotify.com/track/61R8xjGtLJSDLqdXchuv7Z"
+    },
+    {
+      "added_at": "2024-07-18 08:09:27",
+      "album": {
+        "name": "Mriyech",
+        "url": "https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Fadili",
+          "url": "https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG"
+        }
+      ],
+      "duration_ms": 208436,
+      "name": "Mriyech",
+      "url": "https://open.spotify.com/track/7735rwGeak348luaiQVRNE"
+    },
+    {
+      "added_at": "2024-07-18 08:09:27",
+      "album": {
         "name": "Not Like Us",
         "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
       },
@@ -595,6 +595,22 @@
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
+    },
+    {
+      "added_at": "2024-07-18 08:09:27",
+      "album": {
+        "name": "Abala Ya Bali",
+        "url": "https://open.spotify.com/album/50QN0SwbM2iAa5DylaLYN1"
+      },
+      "artists": [
+        {
+          "name": "Ayoub Anbaoui",
+          "url": "https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ"
+        }
+      ],
+      "duration_ms": 228925,
+      "name": "Abala Ya Bali",
+      "url": "https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r"
     },
     {
       "added_at": "2024-07-18 08:09:27",
@@ -671,22 +687,6 @@
     {
       "added_at": "2024-07-18 08:09:27",
       "album": {
-        "name": "Rouhi",
-        "url": "https://open.spotify.com/album/7yfYEHSOufXZcpYcBfD0VS"
-      },
-      "artists": [
-        {
-          "name": "Zouhair Bahaoui",
-          "url": "https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6"
-        }
-      ],
-      "duration_ms": 181578,
-      "name": "Rouhi",
-      "url": "https://open.spotify.com/track/2qxPBeL2Q8jRnDv6EPK18A"
-    },
-    {
-      "added_at": "2024-07-18 08:09:27",
-      "album": {
         "name": "BAND4BAND (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 140733,
       "name": "BAND4BAND (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
+    },
+    {
+      "added_at": "2024-07-18 08:09:27",
+      "album": {
+        "name": "Rouhi",
+        "url": "https://open.spotify.com/album/7yfYEHSOufXZcpYcBfD0VS"
+      },
+      "artists": [
+        {
+          "name": "Zouhair Bahaoui",
+          "url": "https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6"
+        }
+      ],
+      "duration_ms": 181578,
+      "name": "Rouhi",
+      "url": "https://open.spotify.com/track/2qxPBeL2Q8jRnDv6EPK18A"
     },
     {
       "added_at": "2024-07-18 08:09:27",
@@ -783,6 +799,22 @@
     {
       "added_at": "2024-07-18 08:09:27",
       "album": {
+        "name": "Rmadi",
+        "url": "https://open.spotify.com/album/0nRgtWj4KcY9ZMSWepds3P"
+      },
+      "artists": [
+        {
+          "name": "Muslim",
+          "url": "https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU"
+        }
+      ],
+      "duration_ms": 228559,
+      "name": "Rmadi",
+      "url": "https://open.spotify.com/track/0muYqG3zcO7STxOBSErQ7s"
+    },
+    {
+      "added_at": "2024-07-18 08:09:27",
+      "album": {
         "name": "MILLION DOLLAR BABY",
         "url": "https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54"
       },
@@ -823,6 +855,22 @@
     {
       "added_at": "2024-07-18 08:09:27",
       "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "added_at": "2024-07-18 08:09:27",
+      "album": {
         "name": "BAMBARA",
         "url": "https://open.spotify.com/album/4ZhiN2qHatPIIVWS6yWkLt"
       },
@@ -855,38 +903,6 @@
     {
       "added_at": "2024-07-18 08:09:27",
       "album": {
-        "name": "i like the way you kiss me",
-        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
-    },
-    {
-      "added_at": "2024-07-18 08:09:27",
-      "album": {
-        "name": "Abala Ya Bali",
-        "url": "https://open.spotify.com/album/50QN0SwbM2iAa5DylaLYN1"
-      },
-      "artists": [
-        {
-          "name": "Ayoub Anbaoui",
-          "url": "https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ"
-        }
-      ],
-      "duration_ms": 228925,
-      "name": "Abala Ya Bali",
-      "url": "https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r"
-    },
-    {
-      "added_at": "2024-07-18 08:09:27",
-      "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
         "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
-    },
-    {
-      "added_at": "2024-07-18 08:09:27",
-      "album": {
-        "name": "Rmadi",
-        "url": "https://open.spotify.com/album/0nRgtWj4KcY9ZMSWepds3P"
-      },
-      "artists": [
-        {
-          "name": "Muslim",
-          "url": "https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU"
-        }
-      ],
-      "duration_ms": 228559,
-      "name": "Rmadi",
-      "url": "https://open.spotify.com/track/0muYqG3zcO7STxOBSErQ7s"
     }
   ],
   "unique_name": "Hot Hits Morocco",

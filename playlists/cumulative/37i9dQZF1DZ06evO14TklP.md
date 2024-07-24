@@ -2,7 +2,7 @@
 
 ### [This Is Ebony](https://open.spotify.com/playlist/37i9dQZF1DZ06evO14TklP)
 
-> This is Ebony\. Todos os maiores hits em uma só playlist.
+> This Is Ebony\. Les titres incontournables, réunis dans une seule et même playlist.
 
 58 songs - 2 hr 54 min
 
@@ -20,7 +20,7 @@
 | [Bugatti](https://open.spotify.com/track/6BxOt3jbyRt1Jvqkqx806a) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Condessa](https://open.spotify.com/album/56GC33MRAGNUmiZ2gDulgf) | 1:55 | 2023-12-30 | 2024-04-19 |
 | [Bugatti](https://open.spotify.com/track/6uhGUFjFRG1dZnWq7s14Qs) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Condessa](https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu) | 1:55 | 2024-04-19 |  |
 | [Camarim](https://open.spotify.com/track/3EX9khxUXGS1YFmM6WcWP0) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 3:14 | 2024-04-14 |  |
-| [Canceriana Nata](https://open.spotify.com/track/2Vt28AiNmO2Y4HpIpY7AxZ) | [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Dj Js da Bl](https://open.spotify.com/artist/4WsJ6J8ULT2wveR7ZdYdf4) | [Quem Não Erra em 2024](https://open.spotify.com/album/4ecWpUTm8kB4ZRHgrzl9Sn) | 2:12 | 2024-07-19 |  |
+| [Canceriana Nata](https://open.spotify.com/track/2Vt28AiNmO2Y4HpIpY7AxZ) | [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Dj Js da Bl](https://open.spotify.com/artist/4WsJ6J8ULT2wveR7ZdYdf4) | [Quem Não Erra em 2024](https://open.spotify.com/album/4ecWpUTm8kB4ZRHgrzl9Sn) | 2:12 | 2024-07-19 | 2024-07-24 |
 | [Caneta](https://open.spotify.com/track/6pivmOyA8mAoCkhSE4H5rL) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 3:08 | 2023-12-30 |  |
 | [CONFIO](https://open.spotify.com/track/2fHTORsrb3R6bc3LeNVynN) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [PADRIM](https://open.spotify.com/album/2nVbPjjv5bDVVbetaBBVZC) | 3:36 | 2023-12-30 |  |
 | [Disco](https://open.spotify.com/track/2vORCqoVPhttMKn1qvun2g) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Condessa](https://open.spotify.com/album/56GC33MRAGNUmiZ2gDulgf) | 2:14 | 2023-12-30 | 2024-04-19 |

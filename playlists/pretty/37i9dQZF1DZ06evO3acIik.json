@@ -1,12 +1,12 @@
 {
-  "description": "This Is Montell Fish. Los temas esenciales, todos en una lista.",
-  "num_followers": 56084,
+  "description": "This is Montell Fish. The essential tracks, all in one playlist.",
+  "num_followers": 56121,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpxPgAAAAADF2wzimgDye+FjHGt8EUNd",
+  "snapshot_id": "Zp2hAAAAAACjszLrRJ4OnsCU9SX/3Gxx",
   "tracks": [
     {
       "added_at": null,
@@ -232,9 +232,25 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 148000,
-      "name": "Every Night",
-      "url": "https://open.spotify.com/track/21MjiNNSZylKr74tEuGHpm"
+      "duration_ms": 142285,
+      "name": "Exscape",
+      "url": "https://open.spotify.com/track/2JxPgHghyuG0SKNy8htBWg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hollow Lover",
+        "url": "https://open.spotify.com/album/6oU83NRccLBCqr1JI92MLi"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "Hollow Lover",
+      "url": "https://open.spotify.com/track/0wqfPpcKewaI7muAVNzo2x"
     },
     {
       "added_at": null,
@@ -259,26 +275,6 @@
       "duration_ms": 187331,
       "name": "On My Way.",
       "url": "https://open.spotify.com/track/0pNhg9ZtLhBGpKiqpH3X6S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bedroom Gospel",
-        "url": "https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Wonderful God (feat. Jonathan Ogden)",
-      "url": "https://open.spotify.com/track/6DRTaqEscCrnhsrjR69wnN"
     },
     {
       "added_at": null,
@@ -308,9 +304,29 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 193671,
-      "name": "Pretend Lovers",
-      "url": "https://open.spotify.com/track/0cJTBlSiodwtdA5vdIbHhB"
+      "duration_ms": 148000,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/21MjiNNSZylKr74tEuGHpm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bedroom Gospel",
+        "url": "https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Wonderful God (feat. Jonathan Ogden)",
+      "url": "https://open.spotify.com/track/6DRTaqEscCrnhsrjR69wnN"
     },
     {
       "added_at": null,
@@ -343,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/6aAPVuhruUUOmdW4VXsT7t"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JAMIE",
         "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
       },
@@ -384,9 +384,25 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/7qsQw6eSn1x8sO4OrQAHne"
+      "duration_ms": 193671,
+      "name": "Pretend Lovers",
+      "url": "https://open.spotify.com/track/0cJTBlSiodwtdA5vdIbHhB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/6aAPVuhruUUOmdW4VXsT7t"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs"
     },
     {
       "added_at": null,
@@ -495,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "As We Walk into Forever",
+        "url": "https://open.spotify.com/album/03VAghRQNBLnGT8f8g9wE7"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 58000,
+      "name": "Downfalls",
+      "url": "https://open.spotify.com/track/5fTEuJl6xp2kNWWO6O6LnH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stay (With Me).",
         "url": "https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE"
       },
@@ -531,30 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Show the Signs.",
-        "url": "https://open.spotify.com/album/1oc8h9nIQClaRvwaEpeSvl"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "chromonicci",
-          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
-        }
-      ],
-      "duration_ms": 181682,
-      "name": "Show the Signs.",
-      "url": "https://open.spotify.com/track/4I5dVjz3Uwqmgb4Wzmupn6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Camp Lukewarm",
         "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
       },
@@ -575,6 +583,30 @@
       "duration_ms": 235500,
       "name": "Crumble",
       "url": "https://open.spotify.com/track/0Gji3Cm4mRFYvXXtX82klr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Show the Signs.",
+        "url": "https://open.spotify.com/album/1oc8h9nIQClaRvwaEpeSvl"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "chromonicci",
+          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
+        }
+      ],
+      "duration_ms": 181682,
+      "name": "Show the Signs.",
+      "url": "https://open.spotify.com/track/4I5dVjz3Uwqmgb4Wzmupn6"
     },
     {
       "added_at": null,
@@ -619,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As We Walk into Forever",
-        "url": "https://open.spotify.com/album/03VAghRQNBLnGT8f8g9wE7"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Hold",
-      "url": "https://open.spotify.com/track/5W8yr9NaKicLrGEtl0KBdh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Camp Lukewarm",
         "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
       },
@@ -659,6 +675,22 @@
       "duration_ms": 248531,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5c2yqU4vbxkQQbZ2ePb5wJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As We Walk into Forever",
+        "url": "https://open.spotify.com/album/03VAghRQNBLnGT8f8g9wE7"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/5W8yr9NaKicLrGEtl0KBdh"
     },
     {
       "added_at": null,
@@ -783,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Camp Lukewarm",
+        "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 103384,
+      "name": "Slipping Away",
+      "url": "https://open.spotify.com/track/66pCTcRfozirdS9mQvMwv2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Holding Me Down",
         "url": "https://open.spotify.com/album/4vEgr4lrtJcFgHcaknUy7Q"
       },
@@ -803,26 +855,6 @@
       "duration_ms": 195428,
       "name": "Holding Me Down",
       "url": "https://open.spotify.com/track/6LiFdQTu27Hq7nZfCFUxof"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Camp Lukewarm",
-        "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 103384,
-      "name": "Slipping Away",
-      "url": "https://open.spotify.com/track/66pCTcRfozirdS9mQvMwv2"
     },
     {
       "added_at": null,
@@ -903,46 +935,6 @@
       "duration_ms": 183656,
       "name": "Heavenly Father",
       "url": "https://open.spotify.com/track/7zZXxDiDWpCy9xcldN6lo9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Camp Lukewarm",
-        "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 232992,
-      "name": "Peter",
-      "url": "https://open.spotify.com/track/4BSOJ81PwACg1rOY967aFj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bedroom Lofi",
-        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 162921,
-      "name": "Memoirs",
-      "url": "https://open.spotify.com/track/2DJIj4fcNtcf2PvWDyS3do"
     }
   ],
   "unique_name": "This Is Montell Fish",

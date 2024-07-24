@@ -37,7 +37,7 @@
         },
         {
           "name": "RAK",
-          "url": "https://open.spotify.com/artist/79S8UUNoam5wxZHXY51eEt"
+          "url": "https://open.spotify.com/artist/5fRjKFvGLlv4XCjkgWuPoT"
         }
       ],
       "date_added": "2024-07-19",
@@ -2568,7 +2568,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 181818,
       "name": "Katchi Sera - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/1zzejMGRYKP5XOa3FmzXfa"
@@ -6302,6 +6302,24 @@
       "duration_ms": 230400,
       "name": "Vaasam Pesum",
       "url": "https://open.spotify.com/track/3oBLxR0GR0tCuhEvjamXM4"
+    },
+    {
+      "album": {
+        "name": "Vaasam Pesum",
+        "url": "https://open.spotify.com/album/0qYC2EYGjddC8VabjWNBAz"
+      },
+      "artists": [
+        {
+          "name": "Ainthinai",
+          "url": "https://open.spotify.com/artist/7enNExUFBZIE9pRCnD5snJ"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235200,
+      "name": "Vaasam Pesum",
+      "url": "https://open.spotify.com/track/41jUGjPRgG4ORDXOej6wJQ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Huh Gak(\ud5c8\uac01)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: SEO EUNKWANG(\uc11c\uc740\uad11)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -3058,7 +3058,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 238071,
       "name": "Haeyo (2022)",
       "url": "https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N"
@@ -4080,7 +4080,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 187142,
       "name": "If You",
       "url": "https://open.spotify.com/track/38O4krdJIyvMIjFRP7u9OY"
@@ -4286,7 +4286,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-24",
       "duration_ms": 257799,
       "name": "It's Love",
       "url": "https://open.spotify.com/track/2uayxzJinXzBUEqDczbAwN"
@@ -7930,6 +7930,24 @@
       "duration_ms": 305895,
       "name": "The Letter",
       "url": "https://open.spotify.com/track/761kP7yDzrhyFjn6Og7Piz"
+    },
+    {
+      "album": {
+        "name": "The Little Prince",
+        "url": "https://open.spotify.com/album/4IhQK9dp1h4Iex4cFzFEkY"
+      },
+      "artists": [
+        {
+          "name": "SEO EUNKWANG",
+          "url": "https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261372,
+      "name": "The Little Prince",
+      "url": "https://open.spotify.com/track/0LGmR0txlWO9k6NY24G7Uv"
     },
     {
       "album": {

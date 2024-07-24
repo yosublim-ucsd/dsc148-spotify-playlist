@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Apache 207, AYLIVA
 
-102 songs - 4 hr 43 min
+103 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Bis ins Grab](https://open.spotify.com/track/6DidG1r0xh9EuZtCC3Snnq) | [YFG Pave](https://open.spotify.com/artist/4Ck46WZxqzpKUInvcgVF1C) | [Bis ins Grab](https://open.spotify.com/album/2hgBF2jOKJaLBwCMyWYEFP) | 2:26 | 2024-06-28 |  |
 | [Bis zur Spree \(feat\. Juju\)](https://open.spotify.com/track/46Hmjs6AR6xrxDFlFkmXHi) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [Bis zur Spree \(feat\. Juju\)](https://open.spotify.com/album/4b8uHELxuYPysvbaUi4Ip7) | 2:45 | 2024-06-28 |  |
 | [Bisou :\*](https://open.spotify.com/track/7dAI9IZpHaA9Lzhd8d60Tp) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Bisou :\*](https://open.spotify.com/album/6Y9pFqdaD1O343Vr9sZuR5) | 2:41 | 2024-06-28 |  |
+| [Bitterkalt](https://open.spotify.com/track/1yBLbvFknx6TPhInLR3bOh) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Bitterkalt](https://open.spotify.com/album/75I9L51LVqoKmZCBWYigsX) | 2:25 | 2024-06-28 |  |
 | [Breaking your heart](https://open.spotify.com/track/3pyvUdSZvgrmZbXcEsL2bs) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Breaking your heart](https://open.spotify.com/album/55wIIBndlS3o541UqLLdrg) | 2:50 | 2024-06-28 |  |
 | [Delulu](https://open.spotify.com/track/1KqYUtoOOq34KlgHhP1pSt) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Delulu](https://open.spotify.com/album/22HSiBwgz8V6M323doPvwd) | 1:59 | 2024-06-28 |  |
 | [Die Sonne](https://open.spotify.com/track/1TqC60H8LMZc4Gi4M56t6m) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1) | [Die Hoffnung klaut mir Niemand](https://open.spotify.com/album/1VLKFGaQoKLvxzIWQxLKZI) | 2:54 | 2024-06-28 |  |
@@ -73,7 +74,7 @@
 | [Mittelfinger](https://open.spotify.com/track/3SuzunWJyo7gaedTPAp06r) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Mittelfinger](https://open.spotify.com/album/7vR1STUfZ9Io0u1Ei67XDH) | 2:09 | 2024-06-28 |  |
 | [Mondlicht](https://open.spotify.com/track/0pvXz9FgGWxFXagwtQIQOO) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Glas](https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6) | 3:39 | 2024-06-28 |  |
 | [Monoton](https://open.spotify.com/track/6gZEyiqUvEpWpJYz7QjLjx) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Megaloh](https://open.spotify.com/artist/7M6ItqYUMPQRQQ5q54tl7G), [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [BOI](https://open.spotify.com/album/48xBOWLlBupgfhNKkErgDJ) | 3:48 | 2024-06-28 |  |
-| [Morpheus](https://open.spotify.com/track/33UJjKCtghGywf33vRZl1u) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [König für immer](https://open.spotify.com/album/4Ruh25eyPDaVdu7KyW67hZ) | 3:10 | 2024-06-28 |  |
+| [Morpheus](https://open.spotify.com/track/33UJjKCtghGywf33vRZl1u) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [König für immer](https://open.spotify.com/album/4Ruh25eyPDaVdu7KyW67hZ) | 3:10 | 2024-06-28 | 2024-07-24 |
 | [MÜNCHEN GIRLS](https://open.spotify.com/track/4uOOTNRIs6HElv4gTPCk8t) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [MÜNCHEN GIRLS](https://open.spotify.com/album/2fVsrk8E0lDPlqvVkuVkCV) | 2:51 | 2024-06-28 |  |
 | [NaNa](https://open.spotify.com/track/6HB7JuxWRjLL3JXI9ECzhK) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [NaNa](https://open.spotify.com/album/2AR0fdXGiGxMN16aPFDW69) | 2:21 | 2024-06-28 |  |
 | [nie wieder normal](https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [nie wieder normal](https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav) | 3:17 | 2024-06-28 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Emei. The essential tracks, all in one playlist.",
-  "num_followers": 6588,
+  "num_followers": 6601,
   "original_name": "This Is Emei",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpxPgAAAAAAD9DOOdl2in+sEpfJKwIWd",
+  "snapshot_id": "Zp2hAAAAAACx2pkrI2lk/mKMfVJsUkiF",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,26 @@
       "duration_ms": 160800,
       "name": "Distracted",
       "url": "https://open.spotify.com/track/5YOzLTrk5Xzmg4rhYTmWiq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hold On Me (feat. Emei)",
+        "url": "https://open.spotify.com/album/0tMVeea5aLMQqOFGSPWwyI"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 149569,
+      "name": "Hold On Me (feat. Emei)",
+      "url": "https://open.spotify.com/track/5asMstLe5UTmy01PCdM43c"
     },
     {
       "added_at": null,

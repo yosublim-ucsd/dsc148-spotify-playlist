@@ -2,7 +2,7 @@
 
 ### [This Is MYA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3s8a7v)
 
-> This Is MYA\. Los temas esenciales, todos en una lista.
+> This is MYA\. Todos os maiores hits em uma só playlist.
 
 57 songs - 2 hr 59 min
 

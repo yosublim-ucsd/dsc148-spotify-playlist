@@ -1,6 +1,6 @@
 {
   "description": "Essential tunes for time with the family.",
-  "num_followers": 32474,
+  "num_followers": 32491,
   "original_name": "The Cookout",
   "owner": {
     "name": "Spotify",
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/2itAOPLerxnnc8KXHMqPWu"
     },
     {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "Purple Rain",
-        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 352906,
-      "name": "When Doves Cry",
-      "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
-    },
-    {
       "added_at": "2020-07-23 21:45:59",
       "album": {
         "name": "The Revival",
@@ -1199,6 +1183,22 @@
       "duration_ms": 296333,
       "name": "People Everyday - Metamorphosis Mix",
       "url": "https://open.spotify.com/track/5thts3213xwSroRd11fv5A"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 352906,
+      "name": "When Doves Cry",
+      "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
     },
     {
       "added_at": "2020-07-23 21:45:59",
@@ -1233,20 +1233,24 @@
       "url": "https://open.spotify.com/track/1O7hDH3rrF8eyLxrpeoOfb"
     },
     {
-      "added_at": "2020-07-23 21:45:59",
+      "added_at": "2023-06-16 17:58:31",
       "album": {
-        "name": "HOMECOMING: THE LIVE ALBUM",
-        "url": "https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x"
+        "name": "House Of Music",
+        "url": "https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        },
+        {
+          "name": "DJ Quik",
+          "url": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
         }
       ],
-      "duration_ms": 240776,
-      "name": "Before I Let Go - Homecoming Live Bonus Track",
-      "url": "https://open.spotify.com/track/7LikBkHerFGZ58QHVOKp1t"
+      "duration_ms": 299506,
+      "name": "Let's Get Down",
+      "url": "https://open.spotify.com/track/7qdo6JOOaaY9LadOAhfXq7"
     }
   ],
   "unique_name": "The Cookout",

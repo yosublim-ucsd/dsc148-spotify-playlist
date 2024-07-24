@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewFzkrJBAo.md) - [plain]
 
 > <a href="spotify:genre:0JQ5IMCbQBLp5qalzMbJ3P">サザンオールスターズ、デビュー45周年</a>記念！Spotify×サザンのムードプレイリストシリーズ第2弾。おもわずにやっとするハッピーなサザンのエロティカ・ソングを集めました。illustration : <a href="https://www.instagram.com/tzzktknaar/">たざきたかなり</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,126 likes - 45 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,135 likes - 45 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewFzkrJBAo.md) - [plain]
 | 31 | [CRY 哀 CRY](https://open.spotify.com/track/0vCt7JnZp5UcTOyDJH5y7m) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [PARADISE](https://open.spotify.com/album/2umUDsiFYFUhRIKMWL9Hvt) | 4:58 |
 | 32 | [NO\-NO\-YEAH/GO\-GO\-YEAH](https://open.spotify.com/track/3AR1FwLuXn5T9Uge7LDFOe) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [さくら](https://open.spotify.com/album/2vN0H9o2yOh10rC7Wj0ua4) | 5:38 |
 | 33 | [フリフリ '65](https://open.spotify.com/track/4eDRLyRCTvFPethUi3QTm3) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [フリフリ '65](https://open.spotify.com/album/3v7WyI2wa72f2FEn7hjtut) | 3:37 |
-| 34 | [BOON BOON BOON \~OUR LOVE \[MEDLEY\]](https://open.spotify.com/track/1J0MGcuzEFudeS1i2evGYT) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [世に万葉の花が咲くなり](https://open.spotify.com/album/1YYb9yAkqBmZ39X0gKBaXj) | 4:02 |
+| 34 | [BOON BOON BOON　～OUR LOVE　［MEDLEY］](https://open.spotify.com/track/1J0MGcuzEFudeS1i2evGYT) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [世に万葉の花が咲くなり](https://open.spotify.com/album/1YYb9yAkqBmZ39X0gKBaXj) | 4:02 |
 | 35 | [女流詩人の哀歌](https://open.spotify.com/track/0HoQ9Hpcw5fyKMc7khq6JS) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [NUDE MAN](https://open.spotify.com/album/0aTXIm9TjEZEBGN14ETvjI) | 4:14 |
 | 36 | [欲しくて欲しくてたまらない](https://open.spotify.com/track/621nhEiC5LvilndOP27kaE) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [KAMAKURA](https://open.spotify.com/album/2JydGhmXdCjLhXzGQ5zGeu) | 4:31 |
 | 37 | [よどみ萎え、枯れて舞え](https://open.spotify.com/track/2tqhwpz54NHXxPwHbw6y9L) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [人気者で行こう](https://open.spotify.com/album/0ZIH5S5JD9ho8pFvEXo5Ex) | 3:51 |

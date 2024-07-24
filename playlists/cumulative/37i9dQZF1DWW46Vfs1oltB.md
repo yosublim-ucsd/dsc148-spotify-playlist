@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover: pH\-1, Lee Young Ji\(이영지\)\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover: YUNGIN, BM, BOBBY\)
 
-1,273 songs - 2 day 21 hr 1 min
+1,274 songs - 2 day 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -950,6 +950,7 @@
 | [Rule Breaker \(Feat\. Coogie\)](https://open.spotify.com/track/3XSWacmwEyiaqeyt8FpIhI) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Rule Breaker](https://open.spotify.com/album/1RsM2FDQlL59ksBbwuOcSY) | 3:31 | 2023-07-03 | 2023-07-18 |
 | [Run](https://open.spotify.com/track/7a34Q612JcJIiuBoDvMX8W) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Mirror \(28 Look at Youth\)](https://open.spotify.com/album/2G4IlfQaKAFysULXYg5n8t) | 4:59 | 2023-01-03 | 2023-01-11 |
 | [RUN AWAY](https://open.spotify.com/track/54QnwP0o6MPBo4UNTbXrUO) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Taxidriver OST Part.5](https://open.spotify.com/album/48OOn8rhiGD0fAIndTcC5w) | 3:15 | 2021-12-18 | 2022-07-08 |
+| [Run It Up](https://open.spotify.com/track/3Kmvv3nJXh0uAjbgEvSUHc) | [YUNGIN](https://open.spotify.com/artist/6mhw1MMBwP4wlOmYM3x9bp), [BM](https://open.spotify.com/artist/5lZV4z4dpX6IfTYlfUMvOE), [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [Run It Up](https://open.spotify.com/album/38Rt9QfHa8RKQuzeJjTraK) | 3:12 | 2024-07-23 |  |
 | [run! \(feat\. JUSTHIS\)](https://open.spotify.com/track/5UKf82epsMYtjpZR9QGtns) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 3:47 | 2021-12-18 | 2022-07-04 |
 | [RUNNIN THIS CITY \(feat\. Leellamarz\)](https://open.spotify.com/track/2sxhwxVkb5EsZzeNfkpgH0) | [Street Baby](https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Street Baby](https://open.spotify.com/album/0iW10NuNsrVSzTcRCrlQPG) | 2:04 | 2022-10-13 | 2022-12-10 |
 | [Rush Hour \(Feat\. j\-hope of BTS\)](https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Rush Hour](https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R) | 2:57 | 2023-12-15 | 2023-12-27 |

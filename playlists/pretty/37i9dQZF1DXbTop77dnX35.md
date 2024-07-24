@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Chike, SPINALL, Blaqbonez, Childish Gambino and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,093 likes - 49 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,172 likes - 49 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 20 | [Pas Comme Ça](https://open.spotify.com/track/5Os3fdIL2QS2e1r6JzMrjQ) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [D&D](https://open.spotify.com/album/7EznJ3BjBGXxRgNSC6n610) | 3:17 |
 | 21 | [Female Intuition](https://open.spotify.com/track/3irbvUcejyhvW0Zg4wqz9R) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Female Intuition](https://open.spotify.com/album/7wpaCoJbebCK3FeSySNgpE) | 2:14 |
 | 22 | [Lonely? \(Come Along\)](https://open.spotify.com/track/4Uo9L4l5evGRj8GB3Sddos) | [Th&o.](https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT) | [Lonely? \(Come Along\)](https://open.spotify.com/album/1LsqoJNFx5lsQF9JdMayxA) | 3:44 |
-| 23 | [Glasses](https://open.spotify.com/track/5h8SBLMSZ9ycvLfNXH0vk9) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Tiphe](https://open.spotify.com/artist/42qOy9uBsoFpQQgawI8dIZ), [Activ](https://open.spotify.com/artist/78vmoXQ5QSb1WYJuDaM4En) | [Glasses](https://open.spotify.com/album/1uOawdBkuq7PZeSsppewUm) | 2:16 |
+| 23 | [Glasses](https://open.spotify.com/track/5h8SBLMSZ9ycvLfNXH0vk9) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Tiphe](https://open.spotify.com/artist/42qOy9uBsoFpQQgawI8dIZ), [Activ](https://open.spotify.com/artist/78vmoXQ5QSb1WYJuDaM4En) | [Glasses](https://open.spotify.com/album/1uOawdBkuq7PZeSsppewUm) | 2:14 |
 | 24 | [Summer Bunny](https://open.spotify.com/track/4rVsGP9aHXWyjk1OZNmEfR) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [Summer Bunny](https://open.spotify.com/album/5u2qU4l0XTxrSEYBPbhjwe) | 2:57 |
 | 25 | [D\-RIDE \(feat\. SadBoi\)](https://open.spotify.com/track/7GP9LIMNDuHcQ3WhTSbExX) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [D\-RIDE \(feat\. SadBoi\)](https://open.spotify.com/album/0wbkFz9Zkl9ihLqJQS28cl) | 2:00 |
 | 26 | [15 MINUTES](https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [15 MINUTES](https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK) | 3:09 |

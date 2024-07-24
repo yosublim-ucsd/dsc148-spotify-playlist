@@ -1223,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "El Amanecer",
+        "url": "https://open.spotify.com/album/6aRSkv2lYrBQZ66KNckTOZ"
+      },
+      "artists": [
+        {
+          "name": "Algot Brooke",
+          "url": "https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134350,
+      "name": "El Amanecer",
+      "url": "https://open.spotify.com/track/3oPTemjjHIfNeHOcJOXNJT"
+    },
+    {
+      "album": {
         "name": "Emerald Enlightenment",
         "url": "https://open.spotify.com/album/26dTk7VugnkScRBYCv8s2W"
       },

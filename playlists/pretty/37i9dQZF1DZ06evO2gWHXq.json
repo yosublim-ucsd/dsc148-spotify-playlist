@@ -1,12 +1,12 @@
 {
-  "description": "This is MC Davo. The essential tracks, all in one playlist.",
-  "num_followers": 220202,
+  "description": "This Is MC Davo. Los temas esenciales, todos en una lista.",
+  "num_followers": 220228,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpxPgAAAAABPQ5h7TNiOwhUHIu67PbqH",
+  "snapshot_id": "Zp2hAAAAAABbj/zyK1rtIBPMJUZ6hDdC",
   "tracks": [
     {
       "added_at": null,
@@ -159,6 +159,34 @@
       "duration_ms": 252443,
       "name": "Resistir\u00e9",
       "url": "https://open.spotify.com/track/0XFQb7pNfT90A7fRxjMWgz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
+        "url": "https://open.spotify.com/album/58a7npneCuVfs5wqIT64TY"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Eirian Music",
+          "url": "https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4"
+        },
+        {
+          "name": "Los Golpes",
+          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
+      "url": "https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M"
     },
     {
       "added_at": null,
@@ -479,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Todo Menos Con Miedo",
-        "url": "https://open.spotify.com/album/7nJr0EhoIRfakDLlcYNIyi"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 156136,
-      "name": "Con Todo Menos Con Miedo",
-      "url": "https://open.spotify.com/track/5BWZHBmOTRL2fA0djH3aYZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Psicosis 2",
         "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
       },
@@ -511,22 +523,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfC\u00f3mo Se Supera?",
-        "url": "https://open.spotify.com/album/2y7fMhpx5uexdebjJEuNzF"
+        "name": "Con Todo Menos Con Miedo",
+        "url": "https://open.spotify.com/album/7nJr0EhoIRfakDLlcYNIyi"
       },
       "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
         {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         }
       ],
-      "duration_ms": 203916,
-      "name": "\u00bfC\u00f3mo Se Supera?",
-      "url": "https://open.spotify.com/track/3YVgqw3Qw5GZGSiNXw7sd5"
+      "duration_ms": 156136,
+      "name": "Con Todo Menos Con Miedo",
+      "url": "https://open.spotify.com/track/5BWZHBmOTRL2fA0djH3aYZ"
     },
     {
       "added_at": null,
@@ -555,6 +563,26 @@
       "duration_ms": 171720,
       "name": "PRENDE LA BOCINA (feat. BeatBoy)",
       "url": "https://open.spotify.com/track/4RESrc6w1WJ2njfysrmMPt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00bfC\u00f3mo Se Supera?",
+        "url": "https://open.spotify.com/album/2y7fMhpx5uexdebjJEuNzF"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 203916,
+      "name": "\u00bfC\u00f3mo Se Supera?",
+      "url": "https://open.spotify.com/track/3YVgqw3Qw5GZGSiNXw7sd5"
     },
     {
       "added_at": null,
@@ -955,26 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Callejera",
-        "url": "https://open.spotify.com/album/44MreFKTqiCxAEHel5avg1"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 223750,
-      "name": "Callejera",
-      "url": "https://open.spotify.com/track/2dXRSe761Gg9fl2NcxnkW2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuern\u00fa (Remix)",
         "url": "https://open.spotify.com/album/5pdGU20ApbWD65z17UM7aJ"
       },
@@ -1007,6 +1015,26 @@
       "duration_ms": 459413,
       "name": "Cuern\u00fa - Remix",
       "url": "https://open.spotify.com/track/54vHQsmoNbitu4ghpbC00x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Callejera",
+        "url": "https://open.spotify.com/album/44MreFKTqiCxAEHel5avg1"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 223750,
+      "name": "Callejera",
+      "url": "https://open.spotify.com/track/2dXRSe761Gg9fl2NcxnkW2"
     },
     {
       "added_at": null,
@@ -1191,26 +1219,6 @@
       "duration_ms": 471185,
       "name": "Esta Vida Me Encanta Remix (feat. Smoky, MC Davo, T-Killa, Don Aero, Tanke, Little el Crack, Big Metra, Santa RM, Zimple & DJ Maxo)",
       "url": "https://open.spotify.com/track/4EMnuIxITWPhErDRfxQUuK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cara o cruz, pt. 1",
-        "url": "https://open.spotify.com/album/6KZuvoco8qmsJ6q64QLMiM"
-      },
-      "artists": [
-        {
-          "name": "Arsenal de Rimas",
-          "url": "https://open.spotify.com/artist/0s3Y8xkWIDr2B4qDsgKJUL"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 272483,
-      "name": "Mi coraz\u00f3n (feat. Mc Davo)",
-      "url": "https://open.spotify.com/track/1t9cFXkrMn9ZMKhQO7AWpq"
     }
   ],
   "unique_name": "This Is MC Davo",

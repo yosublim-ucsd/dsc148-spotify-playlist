@@ -6,7 +6,7 @@
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABgNzTTQeXZClTFl1Sz33rT0qHihlbT",
+  "snapshot_id": "AABgPdOOzNfOYaBbHE4ZjnR1+mRjjV/Y",
   "tracks": [
     {
       "added_at": "2024-07-19 02:03:10",
@@ -175,6 +175,50 @@
       "duration_ms": 173469,
       "name": "PHYSICAL",
       "url": "https://open.spotify.com/track/3am2aiyW5kDSG80gxcxbh5"
+    },
+    {
+      "added_at": "2024-07-23 19:14:52",
+      "album": {
+        "name": "Everglow",
+        "url": "https://open.spotify.com/album/1QTpxRInmvYDhwnFxkEZKg"
+      },
+      "artists": [
+        {
+          "name": "Charles B",
+          "url": "https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO"
+        },
+        {
+          "name": "AGAP",
+          "url": "https://open.spotify.com/artist/6JKXFtwnMLqYtM1pEP8JL6"
+        },
+        {
+          "name": "Ben Haydie",
+          "url": "https://open.spotify.com/artist/5CbL5aJrlWCK8IqnF6m0SG"
+        },
+        {
+          "name": "Reege",
+          "url": "https://open.spotify.com/artist/2Tn294K6dTne1gLRrXFVZ9"
+        }
+      ],
+      "duration_ms": 212812,
+      "name": "Everglow",
+      "url": "https://open.spotify.com/track/5xvfOWlRqjY2GyDo7Vl7sT"
+    },
+    {
+      "added_at": "2024-07-23 19:13:52",
+      "album": {
+        "name": "Ode to Joy",
+        "url": "https://open.spotify.com/album/0TTZhIYp1hxT1fbl01jpqO"
+      },
+      "artists": [
+        {
+          "name": "Patrick Galley",
+          "url": "https://open.spotify.com/artist/6mQiuLTUBFgJdSn0z8QDqC"
+        }
+      ],
+      "duration_ms": 244500,
+      "name": "Ode to Joy",
+      "url": "https://open.spotify.com/track/7gTCJiiJrAmaYlr7boDRFL"
     },
     {
       "added_at": "2024-07-19 02:03:10",
@@ -421,6 +465,22 @@
       "url": "https://open.spotify.com/track/109l2CEP9CcXYKzbbXLeXd"
     },
     {
+      "added_at": "2024-07-23 19:15:51",
+      "album": {
+        "name": "Go Loko (Baby)",
+        "url": "https://open.spotify.com/album/57buOO509qE1ZWHjJAu9hd"
+      },
+      "artists": [
+        {
+          "name": "Will Plaze",
+          "url": "https://open.spotify.com/artist/3fFPyMScdyz7zoHK2A3uvu"
+        }
+      ],
+      "duration_ms": 141904,
+      "name": "Go Loko (Baby)",
+      "url": "https://open.spotify.com/track/72cJnODitLclmznqrFT8To"
+    },
+    {
       "added_at": "2024-07-19 12:07:44",
       "album": {
         "name": "One Thing",
@@ -489,6 +549,26 @@
       "url": "https://open.spotify.com/track/3D2jhnByvi7je8qYz3cWM1"
     },
     {
+      "added_at": "2024-07-23 19:14:51",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/0TZWZaRerIc7RGavU0RoFA"
+      },
+      "artists": [
+        {
+          "name": "The M",
+          "url": "https://open.spotify.com/artist/5meu2FI3cmtZ8XXAeJT7q7"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        }
+      ],
+      "duration_ms": 163186,
+      "name": "Burn With You",
+      "url": "https://open.spotify.com/track/1hVqCOqw7UWekmiExBrsCH"
+    },
+    {
       "added_at": "2024-07-19 12:07:44",
       "album": {
         "name": "Rhythm Is A Mystery",
@@ -519,6 +599,26 @@
       "duration_ms": 234553,
       "name": "Kitsune Maison Freestyle",
       "url": "https://open.spotify.com/track/6n8VUJwJoANGLHfWf38gJv"
+    },
+    {
+      "added_at": "2024-07-23 19:14:53",
+      "album": {
+        "name": "Friction",
+        "url": "https://open.spotify.com/album/5WXsKG0vP1X98TF4iW4j07"
+      },
+      "artists": [
+        {
+          "name": "Ben Corry",
+          "url": "https://open.spotify.com/artist/48AvrK1MSsDfd3w2eTYi71"
+        },
+        {
+          "name": "Elina Supernova",
+          "url": "https://open.spotify.com/artist/7xjWj1phGvTMNGU3b4fvt2"
+        }
+      ],
+      "duration_ms": 218095,
+      "name": "Friction",
+      "url": "https://open.spotify.com/track/3IMfVufCcLCoRHjJk83xrR"
     },
     {
       "added_at": "2024-07-19 02:03:10",
@@ -703,6 +803,26 @@
       "duration_ms": 234448,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/3jVo350GBcozw5OrXySv5N"
+    },
+    {
+      "added_at": "2024-07-23 19:15:52",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/0TZWZaRerIc7RGavU0RoFA"
+      },
+      "artists": [
+        {
+          "name": "The M",
+          "url": "https://open.spotify.com/artist/5meu2FI3cmtZ8XXAeJT7q7"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        }
+      ],
+      "duration_ms": 146033,
+      "name": "Light My Way",
+      "url": "https://open.spotify.com/track/7u9xtTamHUZ3e8sZte1YEM"
     },
     {
       "added_at": "2024-07-19 02:03:10",

@@ -1,12 +1,12 @@
 {
-  "description": "This is N\u00edvea Soares. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 60923,
+  "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
+  "num_followers": 60935,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpxPgAAAAAAUONRZnIpHmgXcX3X3vDN9",
+  "snapshot_id": "Zp2hAAAAAADlU9VOhlWCUaQ1bd4jEM8o",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grande \u00e9 o Senhor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5oqDl5IyyhOejgBcl2pDv9"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 413311,
+      "name": "Grande \u00e9 o Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/2mYzwAhfjxNkUu6pJvZyCJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Som da Liberdade 2.0",
         "url": "https://open.spotify.com/album/2bRpKofUSDkDG6Dlwem8Nr"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 305076,
       "name": "Filho do Deus Vivo (feat. N\u00edvea Soares)",
       "url": "https://open.spotify.com/track/4Ksk2JCgHnWxTcrhTC6c99"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grande \u00e9 o Senhor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5oqDl5IyyhOejgBcl2pDv9"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 413311,
-      "name": "Grande \u00e9 o Senhor - Ao Vivo",
-      "url": "https://open.spotify.com/track/2mYzwAhfjxNkUu6pJvZyCJ"
     },
     {
       "added_at": null,
@@ -595,6 +595,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Preto no Branco 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4HJ3j7O253RnPyu43mIicT"
+      },
+      "artists": [
+        {
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 285120,
+      "name": "Estado De Gra\u00e7a (feat. N\u00edvea Soares) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4Lsq6TlJTt1pLZ2lTmGrZx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Medley Cora\u00e7\u00e3o Igual ao Teu (Ao Vivo)",
         "url": "https://open.spotify.com/album/5s1zqwFYmzOAVgMtG1n2PK"
       },
@@ -691,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hosana (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1A7Xb0rQaaG7wng9kUwVOl"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 348809,
-      "name": "Hosana - Ao Vivo",
-      "url": "https://open.spotify.com/track/290pBQrxOBQHj6JaKST4JH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ao Rei",
         "url": "https://open.spotify.com/album/4Oy8ojNQkl0Q1Q6FWTlFnO"
       },
@@ -723,6 +727,22 @@
       "duration_ms": 244720,
       "name": "Eu Cantarei",
       "url": "https://open.spotify.com/track/6wirmUJ6XncGeFjSyIMGwx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hosana (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1A7Xb0rQaaG7wng9kUwVOl"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 348809,
+      "name": "Hosana - Ao Vivo",
+      "url": "https://open.spotify.com/track/290pBQrxOBQHj6JaKST4JH"
     },
     {
       "added_at": null,
@@ -1039,30 +1059,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cordeiro e Le\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/674qX1cl9y824gBlQdUplj"
-      },
-      "artists": [
-        {
-          "name": "Isaque Valad\u00e3o Bessa",
-          "url": "https://open.spotify.com/artist/054LTzkZ6sYAjYVmvYgyn9"
-        },
-        {
-          "name": "Ana Paula Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 334360,
-      "name": "Cordeiro e Le\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/4EGj6g4QFno2quxPOLtMcp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c1guas Vivas",
         "url": "https://open.spotify.com/album/1Sez3oXBENOdi0Ainef5AJ"
       },
@@ -1083,22 +1079,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Batendo \u00e0 Porta (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0VBtm4EUlP25I2oEOS3TAm"
+        "name": "Cordeiro e Le\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/674qX1cl9y824gBlQdUplj"
       },
       "artists": [
         {
-          "name": "fhop music",
-          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
+          "name": "Isaque Valad\u00e3o Bessa",
+          "url": "https://open.spotify.com/artist/054LTzkZ6sYAjYVmvYgyn9"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
         },
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 387203,
-      "name": "N\u00e3o Descansarei - Ao Vivo",
-      "url": "https://open.spotify.com/track/1L6YlxRzebyqFjui9moArB"
+      "duration_ms": 334360,
+      "name": "Cordeiro e Le\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/4EGj6g4QFno2quxPOLtMcp"
     }
   ],
   "unique_name": "This Is N\u00edvea Soares",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHuznPBSDgu.md) - [plain]
 
 > 1978年に「勝手にシンドバッド」でデビュー。1980年代から2010年代までの4年代でそれぞれチャート1位を記録する国民的バンド=サザンオールスターズのオールタイム・ベスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,472 likes - 103 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,527 likes - 103 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHuznPBSDgu.md) - [plain]
 | 71 | [クリスマス・ラブ\(涙のあとには白い雪が降る\)](https://open.spotify.com/track/5FY5XusUqcNTG3xeD9Rr1P) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [クリスマス・ラブ\(涙のあとには白い雪が降る\)](https://open.spotify.com/album/50GrjjFDrBCATfkkW503GH) | 5:54 |
 | 72 | [壮年JUMP](https://open.spotify.com/track/2yvM6c4sAkjcd4UrJap3v8) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [壮年JUMP](https://open.spotify.com/album/3ir9ZV7VTphWaac10p9RWC) | 4:30 |
 | 73 | [LONELY WOMAN](https://open.spotify.com/track/2fPcgDcYeNd1ZoliDJuird) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [キラーストリート](https://open.spotify.com/album/5j3eLtL3zb0RzC89iP1sSC) | 5:30 |
-| 74 | [OH, GIRL\(悲しい胸のスクリーン\)](https://open.spotify.com/track/1VRqtVKwdsvOQu7FxcUWRy) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [バラッド3 \~the album of LOVE\~](https://open.spotify.com/album/2UVNn2pM6ARwyJ5HxdPBFg) | 3:55 |
+| 74 | [OH, GIRL（悲しい胸のスクリーン）](https://open.spotify.com/track/1VRqtVKwdsvOQu7FxcUWRy) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [バラッド３ ～the album of LOVE～](https://open.spotify.com/album/2UVNn2pM6ARwyJ5HxdPBFg) | 3:55 |
 | 75 | [フリフリ '65](https://open.spotify.com/track/0tbV4auaMSgdLhSL3LBxaP) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [SOUTHERN ALL STARS](https://open.spotify.com/album/1IuET2kDyBpnrzzEWVvDNL) | 3:36 |
 | 76 | [マチルダBABY](https://open.spotify.com/track/3QJyXQd9xAV5RfQtYdMuRN) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [綺麗](https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN) | 4:22 |
 | 77 | [ロックンロール・スーパーマン \~Rock’n Roll Superman\~](https://open.spotify.com/track/0t569xtgbuSI22j5r9EU2v) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [キラーストリート](https://open.spotify.com/album/5j3eLtL3zb0RzC89iP1sSC) | 5:01 |

@@ -1,12 +1,12 @@
 {
   "description": "No rules. No boundaries. The best new alternative tracks. Cover: bby",
-  "num_followers": 1122224,
+  "num_followers": 1122388,
   "original_name": "The New Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpnkwAAAAABsULNxrd19xDV/IxLld4YR",
+  "snapshot_id": "ZqAUzQAAAABgnMEP3WeiD/hPDHTF1s49",
   "tracks": [
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1051,6 +1051,94 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Little Chaos",
+        "url": "https://open.spotify.com/album/7xP8WWOKNqBhItpZ2j7OXM"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 174893,
+      "name": "Little Chaos",
+      "url": "https://open.spotify.com/track/2UGWhW5YmrEDUDRB3H1fif"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "History Books (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6aHLLGmKxFkshenKDxgYpQ"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        },
+        {
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+        }
+      ],
+      "duration_ms": 201528,
+      "name": "Little Fires (feat. Bully)",
+      "url": "https://open.spotify.com/track/1FkpDLRdkGmFsVmUFVL0ex"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Coast",
+        "url": "https://open.spotify.com/album/5I1AuEqWDLOdzS639w6lIZ"
+      },
+      "artists": [
+        {
+          "name": "Kim Deal",
+          "url": "https://open.spotify.com/artist/4JzQKxgdLmyqbplHxVL8xY"
+        }
+      ],
+      "duration_ms": 208482,
+      "name": "Coast",
+      "url": "https://open.spotify.com/track/0qEDCvj7wCt5AAMusRcgFf"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Thank You for Leaving",
+        "url": "https://open.spotify.com/album/2eMBvvLGZB3gIefvuMziYY"
+      },
+      "artists": [
+        {
+          "name": "Sports",
+          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
+        },
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 197985,
+      "name": "Thank You for Leaving",
+      "url": "https://open.spotify.com/track/6PyZoxxYmlZpXprkGuErY6"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Birthday Baby (The Girl with No Smile)",
+        "url": "https://open.spotify.com/album/3qbFUJ1rBSjabLFf4UsnM1"
+      },
+      "artists": [
+        {
+          "name": "Joe P",
+          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
+        }
+      ],
+      "duration_ms": 230355,
+      "name": "Birthday Baby (The Girl with No Smile)",
+      "url": "https://open.spotify.com/track/1qrFUCI7ozaw5FTmxItnJF"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/0sAIJa2yJ5RGZcxHh55vZr"
       },
@@ -1139,22 +1227,6 @@
       "duration_ms": 157998,
       "name": "GEMINI",
       "url": "https://open.spotify.com/track/5j99dfS5X643RxuJdyizt3"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Coast",
-        "url": "https://open.spotify.com/album/5I1AuEqWDLOdzS639w6lIZ"
-      },
-      "artists": [
-        {
-          "name": "Kim Deal",
-          "url": "https://open.spotify.com/artist/4JzQKxgdLmyqbplHxVL8xY"
-        }
-      ],
-      "duration_ms": 208482,
-      "name": "Coast",
-      "url": "https://open.spotify.com/track/0qEDCvj7wCt5AAMusRcgFf"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1269,40 +1341,36 @@
       "url": "https://open.spotify.com/track/2M000btuOeRwAaOdx3WeFa"
     },
     {
-      "added_at": "2024-07-19 04:00:00",
+      "added_at": "2024-07-23 20:38:37",
       "album": {
-        "name": "Little Chaos",
-        "url": "https://open.spotify.com/album/7xP8WWOKNqBhItpZ2j7OXM"
+        "name": "Survival in Motion",
+        "url": "https://open.spotify.com/album/7MLciyYz4wb1vQkFdX9MEE"
       },
       "artists": [
         {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
         }
       ],
-      "duration_ms": 174893,
-      "name": "Little Chaos",
-      "url": "https://open.spotify.com/track/2UGWhW5YmrEDUDRB3H1fif"
+      "duration_ms": 135486,
+      "name": "Survival in Motion",
+      "url": "https://open.spotify.com/track/46tFOsvuIJTXqT0of0ZyTX"
     },
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "History Books (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6aHLLGmKxFkshenKDxgYpQ"
+        "name": "WHEN THE MUSIC STOPS",
+        "url": "https://open.spotify.com/album/1HU7wSsEM83drfgiAZP9PL"
       },
       "artists": [
         {
-          "name": "The Gaslight Anthem",
-          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
-        },
-        {
-          "name": "Bully",
-          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
         }
       ],
-      "duration_ms": 201528,
-      "name": "Little Fires (feat. Bully)",
-      "url": "https://open.spotify.com/track/1FkpDLRdkGmFsVmUFVL0ex"
+      "duration_ms": 171319,
+      "name": "JUST LET GO",
+      "url": "https://open.spotify.com/track/0ATO60nGlhemOC7WA3J2i4"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1323,26 +1391,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Thank You for Leaving",
-        "url": "https://open.spotify.com/album/2eMBvvLGZB3gIefvuMziYY"
-      },
-      "artists": [
-        {
-          "name": "Sports",
-          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
-        },
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 197985,
-      "name": "Thank You for Leaving",
-      "url": "https://open.spotify.com/track/6PyZoxxYmlZpXprkGuErY6"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/2q59WbPEzBKEVJlKkh4Rp1"
       },
@@ -1355,38 +1403,6 @@
       "duration_ms": 138466,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/4ChYzD2AahSZSSSevWrrbw"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Birthday Baby (The Girl with No Smile)",
-        "url": "https://open.spotify.com/album/3qbFUJ1rBSjabLFf4UsnM1"
-      },
-      "artists": [
-        {
-          "name": "Joe P",
-          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
-        }
-      ],
-      "duration_ms": 230355,
-      "name": "Birthday Baby (The Girl with No Smile)",
-      "url": "https://open.spotify.com/track/1qrFUCI7ozaw5FTmxItnJF"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "WHEN THE MUSIC STOPS",
-        "url": "https://open.spotify.com/album/1HU7wSsEM83drfgiAZP9PL"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 171319,
-      "name": "JUST LET GO",
-      "url": "https://open.spotify.com/track/0ATO60nGlhemOC7WA3J2i4"
     },
     {
       "added_at": "2024-07-19 04:00:00",
