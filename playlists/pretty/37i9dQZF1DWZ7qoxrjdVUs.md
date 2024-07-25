@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7qoxrjdVUs.md) - [plain]
 
 > De Spotify redactie kiest het beste van 2023\. Cover: Suzan & Freek en Claude
 
-[Spotify](https://open.spotify.com/user/spotify) - 653 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 652 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

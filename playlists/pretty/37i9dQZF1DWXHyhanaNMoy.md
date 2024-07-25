@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Summer motion en good vibes\. Cover: Frenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,921 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,033 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 37 | [Kandela Di Amor](https://open.spotify.com/track/5IB3LqzhffiMGwpVsIVaxC) | [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Ori](https://open.spotify.com/artist/4yAg1949MQjAQD087hLdt1) | [Kandela Di Amor](https://open.spotify.com/album/3EJ4yPAADSHAM1rkUtwLd1) | 3:33 |
 | 38 | [42](https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [42](https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2) | 2:55 |
 | 39 | [Laatste Gesprek](https://open.spotify.com/track/2GMiRISHuvp7AyDaCRYzxG) | [Rocher](https://open.spotify.com/artist/2gVPi9fTLuumDLlkRn2G5j), [Burleson](https://open.spotify.com/artist/2LrUyWIbWXIs6rruqS8rw8) | [act i: Tranen Van Geluk](https://open.spotify.com/album/0D76wl9BU7CnwvNqbzXWiR) | 3:32 |
-| 40 | [Torii](https://open.spotify.com/track/0yROknHyvAJ57hZLpxNHry) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Torii](https://open.spotify.com/album/4qJ85usbGHHY9Hs2OdguKx) | 3:36 |
+| 40 | [Torii](https://open.spotify.com/track/0yROknHyvAJ57hZLpxNHry) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Torii](https://open.spotify.com/album/4qJ85usbGHHY9Hs2OdguKx) | 3:36 |
 | 41 | [Pepper](https://open.spotify.com/track/3xq30o7V8f0GKRgTXv0yWE) | [BerryR](https://open.spotify.com/artist/3DvGSDNONfFBcGBlmHrWth), [Rabiaa](https://open.spotify.com/artist/0SXrdaViozHWtGAAy8UI3s), [Giordan Chase](https://open.spotify.com/artist/70UN6NJ61w4Ugtjgmlu0HT) | [Pepper](https://open.spotify.com/album/3fCj6rtq8eyACQCq3MFHuK) | 2:46 |
 | 42 | [Designers](https://open.spotify.com/track/4WFWjdqin0t72MwAqY2UQs) | [IliassOpDeBeat](https://open.spotify.com/artist/7jlzu3WivGk7tszA2QUSxw), [LouiVos](https://open.spotify.com/artist/0lzYw5xI9jgMg8O5i4bTre), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Designers](https://open.spotify.com/album/2pTwxvjTS5XCJIOOeCPd0Q) | 3:01 |
 | 43 | [Anna](https://open.spotify.com/track/0rYjHLCDkqtfzCiQqIqPGa) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Love Doesn't Exist](https://open.spotify.com/album/6oGtt0Qwgq6rmLmMHydKDs) | 2:29 |

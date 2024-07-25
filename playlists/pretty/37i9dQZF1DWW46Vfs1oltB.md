@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: YUNGIN, BM, BOBBY\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,636 likes - 109 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,694 likes - 109 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

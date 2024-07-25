@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Klô Pelgag
 
-2,690 songs - 5 day 23 hr 5 min
+2,691 songs - 5 day 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Ballet](https://open.spotify.com/track/1nrEeqKilTrv3wIA2iVkUG) | [S’tano](https://open.spotify.com/artist/5K3ZdxXGFBy0mQXdLA4oIc) | [Ballet](https://open.spotify.com/album/2YGnCjsaEIhSN6pDKGfFb2) | 2:29 | 2023-03-31 | 2023-04-09 |
 | [Balliterie \(Championne\)](https://open.spotify.com/track/0zLA1xZzgKHTgjpzlw9N2t) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [Balliterie \(Championne\)](https://open.spotify.com/album/1ccrd31kQcq8m4fb8ux10e) | 2:49 | 2022-02-11 | 2022-02-19 |
 | [Balèn](https://open.spotify.com/track/5pzecuPMIBdp14ZNbE9CMv) | [Melissa Laveaux](https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO), [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Balèn](https://open.spotify.com/album/6nJipqncQH77Hj76Vujq9O) | 3:47 | 2023-01-06 | 2023-01-21 |
-| [Bandito](https://open.spotify.com/track/3H6npmJown5S3sDn3cbWDh) | [Sasso](https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [VICE CITY](https://open.spotify.com/album/7dww12XouIt2bytCWNRoBp) | 2:42 | 2024-07-12 |  |
+| [Bandito](https://open.spotify.com/track/3H6npmJown5S3sDn3cbWDh) | [Sasso](https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [VICE CITY](https://open.spotify.com/album/7dww12XouIt2bytCWNRoBp) | 2:42 | 2024-07-12 | 2024-07-25 |
 | [Bando](https://open.spotify.com/track/6cdv3hsd42vgkyGloyPSRl) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [Bando](https://open.spotify.com/album/12ETKZ6rG26pNR4J7m3nfv) | 3:12 | 2023-10-13 | 2023-10-21 |
 | [Bang](https://open.spotify.com/track/1Cam8hAddVp0uNaUMhUxXD) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Bang](https://open.spotify.com/album/2RFXO4vDJzbIp8zHw2YuIV) | 3:47 | 2024-05-31 | 2024-06-15 |
 | [Bang Bang Bang](https://open.spotify.com/track/2GCo6tiqduhpuaY0qL7Hl1) | [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [Bang Bang Bang](https://open.spotify.com/album/6n927dm48RWFEEYQStM5IK) | 2:44 | 2023-01-06 | 2023-01-21 |
@@ -456,6 +456,7 @@
 | [Coca Cola](https://open.spotify.com/track/5BxsiZlSaoUtjAhjiEqjhe) | [Les Passagers](https://open.spotify.com/artist/1j6mG2Flo2QsSNV8FykBqJ) | [Coca cola](https://open.spotify.com/album/2ZAGKPJyN843FTVbyY4o1t) | 4:06 | 2024-01-12 | 2024-01-20 |
 | [Coca\-Cola Mentos](https://open.spotify.com/track/7d5h2OAmrKHVFrvivayPzl) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Ozoror](https://open.spotify.com/album/6OPqZboiTNSYCKd3fSiSLX) | 2:35 | 2023-04-14 | 2023-05-20 |
 | [Coco](https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Coco](https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua) | 2:28 | 2024-07-12 |  |
+| [Coco \(feat\. Tayc\)](https://open.spotify.com/track/6MG8MRq1odNsWCasM9IehW) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Coco \(feat\. Tayc\)](https://open.spotify.com/album/5hGsaXtfKcheS0r0AzMhgi) | 3:18 | 2024-07-20 |  |
 | [Codéine 19](https://open.spotify.com/track/3Q8qW4OUBQWLZaNLR9TxFr) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 2:23 | 2023-02-17 | 2023-03-04 |
 | [Coeur](https://open.spotify.com/track/6qxJClvIIsYyFzGiCiS8rx) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [Coeur](https://open.spotify.com/album/1xH4oVHER1K5DWMuIGbSMX) | 3:12 | 2022-09-16 | 2022-09-24 |
 | [Coeur Automatique](https://open.spotify.com/track/3AVBcEefI5a1Rj1hJhAQzW) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [Coeur Automatique](https://open.spotify.com/album/0hQFZ7hRtOmd7wgKvSCIrb) | 2:26 | 2023-06-02 | 2023-07-09 |

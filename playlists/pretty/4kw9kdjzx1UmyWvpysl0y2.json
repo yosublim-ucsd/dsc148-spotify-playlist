@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125861,
+  "num_followers": 125862,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASvSjoE88n3ROrMoc8ROqI4wqYvEaL",
+  "snapshot_id": "AAASv8RCVJv9dYjOeOvRV8mBtBfRY2Pd",
   "tracks": [
+    {
+      "added_at": "2024-07-24 16:08:07",
+      "album": {
+        "name": "Street Talk",
+        "url": "https://open.spotify.com/album/3aYg85BYxXNANnn6KLMNeF"
+      },
+      "artists": [
+        {
+          "name": "Control Freak",
+          "url": "https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19"
+        },
+        {
+          "name": "beastboi.",
+          "url": "https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4"
+        }
+      ],
+      "duration_ms": 160965,
+      "name": "Street Talk",
+      "url": "https://open.spotify.com/track/4l9hQWK345xfGixJQ3xvez"
+    },
     {
       "added_at": "2024-07-23 15:43:02",
       "album": {
@@ -1111,46 +1131,6 @@
       "duration_ms": 172000,
       "name": "Walk Thru Fire - Sped Up",
       "url": "https://open.spotify.com/track/3lBW2k1bH1JtuS7wU7rd3x"
-    },
-    {
-      "added_at": "2024-05-06 14:43:15",
-      "album": {
-        "name": "Out of Frame",
-        "url": "https://open.spotify.com/album/7vsV0d0imBaf7pCyO6enRa"
-      },
-      "artists": [
-        {
-          "name": "Skybreak",
-          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
-        },
-        {
-          "name": "Sharks",
-          "url": "https://open.spotify.com/artist/1C3aEfW34xkicZ5umNYdJM"
-        },
-        {
-          "name": "L\u00daTHIEN",
-          "url": "https://open.spotify.com/artist/28J7jxbAyCfpC1R5XAgeq5"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Out of Frame",
-      "url": "https://open.spotify.com/track/3UBc3PbliCYiVHNeyX4Z5b"
-    },
-    {
-      "added_at": "2024-05-03 14:08:22",
-      "album": {
-        "name": "Magnetic",
-        "url": "https://open.spotify.com/album/5WbsiwMrYMBtkAc9dUTAzB"
-      },
-      "artists": [
-        {
-          "name": "Dirtyphonics",
-          "url": "https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs"
-        }
-      ],
-      "duration_ms": 219310,
-      "name": "Concentrate",
-      "url": "https://open.spotify.com/track/1BdMg9VF7SHE9LfyrHVqzZ"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

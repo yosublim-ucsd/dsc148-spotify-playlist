@@ -1,6 +1,6 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 616092,
+  "num_followers": 616275,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Nowhere (Expanded)",
+        "url": "https://open.spotify.com/album/4fW7CblaSvdhPWmcCFgZbQ"
+      },
+      "artists": [
+        {
+          "name": "Ride",
+          "url": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+        }
+      ],
+      "duration_ms": 368760,
+      "name": "Seagull - 2001 Remaster",
+      "url": "https://open.spotify.com/track/1p75lScKo8XQT0niqFRxNx"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Logos",
         "url": "https://open.spotify.com/album/5j6RB5MpNUKWJJ2uxibdJh"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 238893,
       "name": "Walkabout (W/ Noah Lennox)",
       "url": "https://open.spotify.com/track/2e3KUBfcAwAyQtgbeUBKob"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Nowhere (Expanded)",
-        "url": "https://open.spotify.com/album/4fW7CblaSvdhPWmcCFgZbQ"
-      },
-      "artists": [
-        {
-          "name": "Ride",
-          "url": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
-        }
-      ],
-      "duration_ms": 368760,
-      "name": "Seagull - 2001 Remaster",
-      "url": "https://open.spotify.com/track/1p75lScKo8XQT0niqFRxNx"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -851,6 +851,54 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/7x0NFDxaSlSr5LTmunM7zo"
+      },
+      "artists": [
+        {
+          "name": "Leave the Planet",
+          "url": "https://open.spotify.com/artist/6vW6YgP4ZCF8wED7yAuQyk"
+        }
+      ],
+      "duration_ms": 219669,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/3tReSRWbwfsW9IG6Mbh9rH"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "EP1",
+        "url": "https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "The Seaside - Edit",
+      "url": "https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Whirlpool (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp"
+      },
+      "artists": [
+        {
+          "name": "Chapterhouse",
+          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
+        }
+      ],
+      "duration_ms": 236373,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/0rb6HvdvWJRkyhxsfFf1ep"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Not The Time / Callous",
         "url": "https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU"
       },
@@ -879,54 +927,6 @@
       "duration_ms": 197563,
       "name": "Our Goal to Realise",
       "url": "https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Whirlpool (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp"
-      },
-      "artists": [
-        {
-          "name": "Chapterhouse",
-          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
-        }
-      ],
-      "duration_ms": 236373,
-      "name": "Falling Down",
-      "url": "https://open.spotify.com/track/0rb6HvdvWJRkyhxsfFf1ep"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "EP1",
-        "url": "https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ"
-      },
-      "artists": [
-        {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "The Seaside - Edit",
-      "url": "https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/7x0NFDxaSlSr5LTmunM7zo"
-      },
-      "artists": [
-        {
-          "name": "Leave the Planet",
-          "url": "https://open.spotify.com/artist/6vW6YgP4ZCF8wED7yAuQyk"
-        }
-      ],
-      "duration_ms": 219669,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/3tReSRWbwfsW9IG6Mbh9rH"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1043,8 +1043,8 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Whirlpool (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp"
+        "name": "Whirlpool - The Original Recordings",
+        "url": "https://open.spotify.com/album/2eq2u7XWepjSNsf1YYUgb0"
       },
       "artists": [
         {
@@ -1052,9 +1052,9 @@
           "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
         }
       ],
-      "duration_ms": 198946,
-      "name": "Something More",
-      "url": "https://open.spotify.com/track/1YzjtXhCBByJhUYDK6Vc1P"
+      "duration_ms": 272373,
+      "name": "Breather",
+      "url": "https://open.spotify.com/track/0ZNj4TIIcZwrAI1l7GgZMT"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1123,8 +1123,8 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Whirlpool - The Original Recordings",
-        "url": "https://open.spotify.com/album/2eq2u7XWepjSNsf1YYUgb0"
+        "name": "Whirlpool (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp"
       },
       "artists": [
         {
@@ -1132,9 +1132,9 @@
           "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
         }
       ],
-      "duration_ms": 272373,
-      "name": "Breather",
-      "url": "https://open.spotify.com/track/0ZNj4TIIcZwrAI1l7GgZMT"
+      "duration_ms": 198946,
+      "name": "Something More",
+      "url": "https://open.spotify.com/track/1YzjtXhCBByJhUYDK6Vc1P"
     },
     {
       "added_at": "2021-06-03 02:39:04",

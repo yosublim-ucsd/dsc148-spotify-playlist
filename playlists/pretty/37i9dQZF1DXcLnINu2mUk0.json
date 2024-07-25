@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Nenny",
-  "num_followers": 46384,
+  "num_followers": 46385,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "T$UNAMI",
-        "url": "https://open.spotify.com/album/3RMYeQI4WDsrcR4CzKdnmy"
-      },
-      "artists": [
-        {
-          "name": "Murta",
-          "url": "https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx"
-        },
-        {
-          "name": "ROCKY",
-          "url": "https://open.spotify.com/artist/6VLLGzMNejO8BhWFOJXP5M"
-        }
-      ],
-      "duration_ms": 183133,
-      "name": "T$UNAMI",
-      "url": "https://open.spotify.com/track/2pks64KK1vHckQPEGiDuyK"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "BOM BOM",
         "url": "https://open.spotify.com/album/6JdO9kxfUaZ0kZCKKXkoBe"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 180597,
       "name": "BOM BOM",
       "url": "https://open.spotify.com/track/3WIcI0ONzyVFHC21TlVXkM"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "T$UNAMI",
+        "url": "https://open.spotify.com/album/3RMYeQI4WDsrcR4CzKdnmy"
+      },
+      "artists": [
+        {
+          "name": "Murta",
+          "url": "https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx"
+        },
+        {
+          "name": "ROCKY",
+          "url": "https://open.spotify.com/artist/6VLLGzMNejO8BhWFOJXP5M"
+        }
+      ],
+      "duration_ms": 183133,
+      "name": "T$UNAMI",
+      "url": "https://open.spotify.com/track/2pks64KK1vHckQPEGiDuyK"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
+        "name": "Partimento",
+        "url": "https://open.spotify.com/album/4BpbosuLKEhM0UTvKHcAF7"
+      },
+      "artists": [
+        {
+          "name": "Supa Squad",
+          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
+        }
+      ],
+      "duration_ms": 113142,
+      "name": "Partimento",
+      "url": "https://open.spotify.com/track/2YEA1CW7n1Aa60AU2Vp9gM"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
         "name": "Orgulho",
         "url": "https://open.spotify.com/album/2pv6xhnEH7N71mcgMkp7wX"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 220217,
       "name": "Mo Ki Nu Ta Fazi",
       "url": "https://open.spotify.com/track/678MOfN1hxfPoOGodwKU10"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "Partimento",
-        "url": "https://open.spotify.com/album/4BpbosuLKEhM0UTvKHcAF7"
-      },
-      "artists": [
-        {
-          "name": "Supa Squad",
-          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
-        }
-      ],
-      "duration_ms": 113142,
-      "name": "Partimento",
-      "url": "https://open.spotify.com/track/2YEA1CW7n1Aa60AU2Vp9gM"
     },
     {
       "added_at": "2024-07-18 23:00:00",

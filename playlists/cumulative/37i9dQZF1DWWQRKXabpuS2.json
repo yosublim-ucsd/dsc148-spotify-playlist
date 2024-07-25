@@ -1743,6 +1743,24 @@
     },
     {
       "album": {
+        "name": "Estihala",
+        "url": "https://open.spotify.com/album/5dRiSqLu89aJE6ZFWIHzBE"
+      },
+      "artists": [
+        {
+          "name": "Rashed Al-Majed",
+          "url": "https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364205,
+      "name": "Estihala",
+      "url": "https://open.spotify.com/track/2n1P5qkG1rbOLWbPi3ZlmG"
+    },
+    {
+      "album": {
         "name": "Eyouni Feeh Ydobu",
         "url": "https://open.spotify.com/album/2RlrrVOqM1dXElHVZYedDn"
       },
@@ -2360,7 +2378,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 236800,
       "name": "Jannat Al Hob",
       "url": "https://open.spotify.com/track/2mrgVjT6BNT46MFwhLmFO7"

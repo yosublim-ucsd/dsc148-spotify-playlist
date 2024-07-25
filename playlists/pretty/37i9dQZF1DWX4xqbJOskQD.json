@@ -1,6 +1,6 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 1892,
+  "num_followers": 1893,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
@@ -191,18 +191,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "What is This Thing Called Love?",
-        "url": "https://open.spotify.com/album/0tn2qcrEjAcoBvWhZVZvjN"
+        "name": "The War Years (1941-1947)",
+        "url": "https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH"
       },
       "artists": [
         {
-          "name": "The Pied Pipers",
-          "url": "https://open.spotify.com/artist/5o8E07TcYqIefZpDejymAd"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "The Delta Rhythm Boys",
+          "url": "https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF"
         }
       ],
-      "duration_ms": 168158,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/0AtVA7axXKVFnjQsN4xBIy"
+      "duration_ms": 188293,
+      "name": "For Sentimental Reasons",
+      "url": "https://open.spotify.com/track/5t5S4nyn6OWZRpSo260sjo"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -227,22 +231,18 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The War Years (1941-1947)",
-        "url": "https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH"
+        "name": "What is This Thing Called Love?",
+        "url": "https://open.spotify.com/album/0tn2qcrEjAcoBvWhZVZvjN"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "The Delta Rhythm Boys",
-          "url": "https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF"
+          "name": "The Pied Pipers",
+          "url": "https://open.spotify.com/artist/5o8E07TcYqIefZpDejymAd"
         }
       ],
-      "duration_ms": 188293,
-      "name": "For Sentimental Reasons",
-      "url": "https://open.spotify.com/track/5t5S4nyn6OWZRpSo260sjo"
+      "duration_ms": 168158,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/0AtVA7axXKVFnjQsN4xBIy"
     },
     {
       "added_at": "2022-03-28 19:29:09",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Martin Garrix
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 99,067 likes - 175 songs - 8 hr 48 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 99,064 likes - 175 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

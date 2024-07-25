@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > New Hip Hop from India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,443 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,462 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Yaari Hai Imaan x Yaaron Wali Baat](https://open.spotify.com/track/5QngU7tqU1TuJkPF0GN4kx) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Manna Dey](https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU), [ALYPH](https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj) | [Yaari Hai Imaan x Yaaron Wali Baat](https://open.spotify.com/album/4NGy4ScfsNZoM8qrhzODFk) | 2:39 |
+| 1 | [Yaari Hai Imaan x Yaaron Wali Baat](https://open.spotify.com/track/5QngU7tqU1TuJkPF0GN4kx) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Manna Dey](https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU) | [Yaari Hai Imaan x Yaaron Wali Baat](https://open.spotify.com/album/4NGy4ScfsNZoM8qrhzODFk) | 2:39 |
 | 2 | [Pitbull](https://open.spotify.com/track/3xJwshLcC50ZXeioGmIcdl) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [thekidd.wav](https://open.spotify.com/artist/5LxqBfBqjhbVLjEL32oMj0) | [Pitbull](https://open.spotify.com/album/322Q4AdwCHgFfpFvKossNs) | 2:50 |
 | 3 | [MIRZAPUR FREESTYLE](https://open.spotify.com/track/45JGbdPqNzEWfmh8SK0Kw9) | [SlowCheeta](https://open.spotify.com/artist/3XwzEefwYfxlv9xVyT7r63), [Arun Dev Yadav](https://open.spotify.com/artist/0RCdoxFQ7avFn6Hw0XUDVb) | [MIRZAPUR FREESTYLE](https://open.spotify.com/album/5v6nbdqZf51gYyqPcrAzNX) | 2:48 |
 | 4 | [Muscle](https://open.spotify.com/track/5VwWJuCOIImBvob3omzvyz) | [Yung Delic](https://open.spotify.com/artist/6xJkqxT7KoJAHgmxmcjLOY), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Muscle](https://open.spotify.com/album/5n5MXVLwDgxXhyyRsqcTGu) | 2:24 |

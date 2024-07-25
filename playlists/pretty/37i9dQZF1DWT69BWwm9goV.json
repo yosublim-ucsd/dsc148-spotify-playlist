@@ -1,13 +1,29 @@
 {
-  "description": "A collection of songs from Spotify's new video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists. Cover: Hermanos Guti\u00e9rrez",
-  "num_followers": 943,
+  "description": "A collection of songs from Spotify's new video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists. Cover: Omar Apollo",
+  "num_followers": 950,
   "original_name": "OUTSIDE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnygLwAAAABMS510GxtM6Za6497aFSV6",
+  "snapshot_id": "ZqGX0AAAAAA19KT+dxV49GjimRzlRmks",
   "tracks": [
+    {
+      "added_at": "2024-07-24 16:42:33",
+      "album": {
+        "name": "Drifting (Spotify OUTSIDE Version) - Live from West Hollywood, CA",
+        "url": "https://open.spotify.com/album/2v6nZikT0egtkKZXkFhlnc"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 256071,
+      "name": "Drifting - (Spotify OUTSIDE Version) - Live from West Hollywood, CA",
+      "url": "https://open.spotify.com/track/2PUXoqVN9bh9QEZaVsb8fe"
+    },
     {
       "added_at": "2024-06-26 23:06:37",
       "album": {

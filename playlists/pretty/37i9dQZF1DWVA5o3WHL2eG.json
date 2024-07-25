@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Y'akoto",
-  "num_followers": 34465,
+  "num_followers": 34462,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-07-03 08:13:40",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/5wcJqzjLklt8LgUeCWIibI"
-      },
-      "artists": [
-        {
-          "name": "Diana Goldberg",
-          "url": "https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk"
-        }
-      ],
-      "duration_ms": 152499,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/1qQwPQAic8RU32iuPwVcCJ"
-    },
-    {
-      "added_at": "2024-07-03 08:13:40",
-      "album": {
         "name": "wir trafen uns in einem garten",
         "url": "https://open.spotify.com/album/58Ew6pCPqw2w2eYYGI2waN"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 178144,
       "name": "wir trafen uns in einem garten",
       "url": "https://open.spotify.com/track/38YmEgPDOqKDPgkwsHw3nR"
+    },
+    {
+      "added_at": "2024-07-03 08:13:40",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/5wcJqzjLklt8LgUeCWIibI"
+      },
+      "artists": [
+        {
+          "name": "Diana Goldberg",
+          "url": "https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk"
+        }
+      ],
+      "duration_ms": 152499,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1qQwPQAic8RU32iuPwVcCJ"
     },
     {
       "added_at": "2024-07-03 08:13:40",

@@ -5200,7 +5200,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 194426,
       "name": "Lei da Atra\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4R2K4PKzNcwCYCNPZ5Fuh2"
@@ -6489,7 +6489,7 @@
       "artists": [
         {
           "name": "Ju Moura",
-          "url": "https://open.spotify.com/artist/6iXmBWGRcQlBXxplxC729i"
+          "url": "https://open.spotify.com/artist/6HxszI1TQMri6bUo9qFDgy"
         }
       ],
       "date_added": "2024-07-19",
@@ -7045,6 +7045,24 @@
     },
     {
       "album": {
+        "name": "Boteco 3.0",
+        "url": "https://open.spotify.com/album/5Aoj82Yn53EojgijpwEpcm"
+      },
+      "artists": [
+        {
+          "name": "Ivan Martins",
+          "url": "https://open.spotify.com/artist/6pV3zsvhVrsSmAvvbBZouK"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177642,
+      "name": "Para de Me Tratar Bem",
+      "url": "https://open.spotify.com/track/6USwGorsUBiLlNxzpTCjw8"
+    },
+    {
+      "album": {
         "name": "Atualizando (Mar\u00e7o 2024)",
         "url": "https://open.spotify.com/album/1Xcmdovc9vx1fbel6Gzf7z"
       },
@@ -7056,7 +7074,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 177642,
       "name": "Para de Me Tratar Bem",
       "url": "https://open.spotify.com/track/6v4XmlbNUkzFqiix0VKVtF"

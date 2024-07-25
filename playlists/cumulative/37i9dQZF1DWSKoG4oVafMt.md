@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-870 songs - 1 day 23 hr 16 min
+871 songs - 1 day 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Ilahi \(From "Ni Main Sass Kuttni"\)](https://open.spotify.com/track/4TsopDP9uBKf0oBN01CKoC) | [Mehtab Virk](https://open.spotify.com/artist/6npKsb0CeJMFX3FwjKybfD) | [Ilahi \(From "Ni Main Sass Kuttni"\)](https://open.spotify.com/album/7Amx2o2pSvJHgoddju9d0p) | 3:33 | 2022-04-21 | 2022-04-29 |
 | [Impossible \(From the Album 'I Am Zack Knight'\)](https://open.spotify.com/track/5gDbvpDfHvibUFauqRhjDI) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Impossible \(From the Album 'I Am Zack Knight'\)](https://open.spotify.com/album/16YYwVnwhkLF8h0Kfke6dg) | 2:49 | 2022-09-08 | 2023-01-28 |
 | [Impress](https://open.spotify.com/track/1kvnU2nJj0MFzCfvu0guvD) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [8 Chances](https://open.spotify.com/album/29MhBXO988c8iFL7TZK17R) | 2:21 | 2022-01-11 | 2022-02-01 |
+| [Inni Soni](https://open.spotify.com/track/1Q3XjrxCIFg5CRjsCeRjn8) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Prince Sharma](https://open.spotify.com/artist/2FMda77WYJdpehvWbSmMyP), [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3) | [Inni Soni](https://open.spotify.com/album/4LtthFXdPClIkbpQ4LWYcl) | 2:33 | 2024-07-24 |  |
 | [Insane](https://open.spotify.com/track/3UhmuWcFaLS3AO3kI9ynQ2) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Insane](https://open.spotify.com/album/6EaHaUoczRLrDl5uqxSFW3) | 3:26 | 2021-12-02 | 2022-12-16 |
 | [Insomnia](https://open.spotify.com/track/05BYGdbe061g9o9CnAqPBA) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [Insomnia](https://open.spotify.com/album/1cVLhJnU0AR3kc81kHim96) | 3:09 | 2022-12-15 | 2023-01-28 |
 | [Into You](https://open.spotify.com/track/455OjhLhU9JCNYKKoUOFwr) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Into You](https://open.spotify.com/album/64vhuaHJxjSZrOwMUqGJ85) | 2:54 | 2023-07-26 | 2024-04-06 |
@@ -751,7 +752,7 @@
 | [Taareyan Toh Paar \(From "Main Viyah Nahi Karona Tere Naal"\)](https://open.spotify.com/track/5rjjXeJizYVzCFdYUkDHXC) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Daoud Music](https://open.spotify.com/artist/25GIbgESjRMJaCTFjSK7e0) | [Taareyan Toh Paar \(From "Main Viyah Nahi Karona Tere Naal"\)](https://open.spotify.com/album/6gBteY722GhCnAi1Ac7Dmz) | 3:10 | 2022-07-28 | 2023-02-02 |
 | [Tabiat](https://open.spotify.com/track/7pBrCHgaC8Sch4TYuvOQDY) | [Amarinder](https://open.spotify.com/artist/7fBmn4qIlIlpCTgV1VE4cV) | [Love On Top](https://open.spotify.com/album/4cCzLf1SWnIVArzSpreEsT) | 2:40 | 2022-01-10 | 2022-02-01 |
 | [Tainu Bhulna](https://open.spotify.com/track/2hdWOFAT1FUikzqnT7cXkd) | [Simar Dorraha](https://open.spotify.com/artist/4jHC6uvANw9rlBKFyWpzat), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Tainu Bhulna](https://open.spotify.com/album/7IBdGjJAN4CJRlI124AeLE) | 4:09 | 2022-06-30 | 2022-07-06 |
-| [Tainu Khabar Nahi \- From "Munjya"](https://open.spotify.com/track/5npFBWhVs3VVlc0nY5xQMA) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Tainu Khabar Nahi \(From "Munjya"\)](https://open.spotify.com/album/0cJXodCZCl2EWRNcw6m1eJ) | 3:08 | 2024-06-07 |  |
+| [Tainu Khabar Nahi \- From "Munjya"](https://open.spotify.com/track/5npFBWhVs3VVlc0nY5xQMA) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Tainu Khabar Nahi \(From "Munjya"\)](https://open.spotify.com/album/0cJXodCZCl2EWRNcw6m1eJ) | 3:08 | 2024-06-07 | 2024-07-25 |
 | [Tainu Milke](https://open.spotify.com/track/7gYoV5thU5R3iKUeerwdKs) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Tainu Milke](https://open.spotify.com/album/01GtPL35C6OwVPrNTCUR6M) | 3:27 | 2022-04-27 | 2022-07-06 |
 | [Takda Rava](https://open.spotify.com/track/07RmHcfHXMoouyEL9cRnN4) | [Da Banotra](https://open.spotify.com/artist/6qA494Mxl9DGij4HZmK9aH) | [Takda Rava](https://open.spotify.com/album/1L0mD1Fyyqu7OZwtIfaeK8) | 4:04 | 2022-04-04 | 2022-05-11 |
 | [Tareef](https://open.spotify.com/track/0S1Qsd33jxP2Q9TTuup4z6) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Tareef](https://open.spotify.com/album/2eje9luFSp6mQgP5oNyYLE) | 2:28 | 2022-06-23 | 2022-07-12 |

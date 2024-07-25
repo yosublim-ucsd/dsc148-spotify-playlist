@@ -1018,10 +1018,28 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 183000,
       "name": "Listen to Her Heart",
       "url": "https://open.spotify.com/track/2iW5uc25ziGLlNMqdhFJad"
+    },
+    {
+      "album": {
+        "name": "You're Gonna Get It!",
+        "url": "https://open.spotify.com/album/6q5l0EKkX5ZITkSUy5SObw"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184960,
+      "name": "Listen To Her Heart",
+      "url": "https://open.spotify.com/track/1cfnrxKDTz0kcKVL5EclFG"
     },
     {
       "album": {

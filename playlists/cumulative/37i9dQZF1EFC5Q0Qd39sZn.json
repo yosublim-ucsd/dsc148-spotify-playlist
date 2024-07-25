@@ -6499,6 +6499,24 @@
     },
     {
       "album": {
+        "name": "Hot Chocolate",
+        "url": "https://open.spotify.com/album/5ZcR4RP2d9H3ZEDlLwmlGX"
+      },
+      "artists": [
+        {
+          "name": "Touch",
+          "url": "https://open.spotify.com/artist/3nAHXZZGsY3Mgjuh5qv7UG"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280760,
+      "name": "No Doubt About It",
+      "url": "https://open.spotify.com/track/6tLOzrwr95TUmRALKXnWfN"
+    },
+    {
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/1dVhczEhJUyJpao75GZkA2"
       },

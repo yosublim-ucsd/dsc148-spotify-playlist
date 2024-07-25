@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: Official髭男dism \*👉 <a href="https://spice.eplus.jp/articles/330482?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: Official髭男dism \*👉 <a href="https://spice.eplus.jp/articles/330637?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
 
-7,094 songs - 18 day 4 hr 1 min
+7,095 songs - 18 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [2024/07/03 YOASOBIがカバー！Official髭男dism、羊文学の新曲もリリースに。東京スカパラダイスオーケストラとimase、習志野高校吹奏楽部のコラボ曲、菅田将暉のニューアルバム、Early NoiseアーティストMFSの新曲も到着！海外からは韓国のHYUKOHと台湾のSunset Rollercoasterのコラボ新曲やBLACKPINKのLISAのソロ新曲も！！](https://open.spotify.com/episode/7haepYHbX5foWJFUCERw6N) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 31:34 | 2024-07-03 | 2024-07-10 |
 | [2024/07/10 クリープハイプがカバー！Adoのニューアルバムに、Vaundyの新曲 も！村上隆とJP THE WAVYのユニットMNNK Bro.の楽曲や、Early Noiseアーティストjo0ji、離婚伝説の新曲も！番組にはKroiからのメッセージが到着！](https://open.spotify.com/episode/120C2rN0SXbsZrTRPoBwey) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 24:55 | 2024-07-10 | 2024-07-17 |
 | [2024/07/17 back numberがカバー！ヨルシカの新曲もリリースに。BIMのミニアルバムやLEXと¥ellow Bucksのコラボ新曲、トクマルシューゴ約8年ぶりのニューアルバムもピックアップ！番組にjo0jiからのメッセージも到着！](https://open.spotify.com/episode/14HHaEcbbrRDey3I015bWo) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 23:32 | 2024-07-16 | 2024-07-24 |
+| [2024/07/24 Official髭男dismがカバー！LANAとLEXのコラボソングも到着！Lucky KilimanjaroのニューEP、長谷川白紙のニューアルバム、chelmicoのニューEPも到着！番組にはLucky Kilimanjaro熊木幸丸からのメッセージも到着！](https://open.spotify.com/episode/2FAbKw71gHGYlagnmWJA3z) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 23:25 | 2024-07-24 |  |
 | [2024/4/17 First Love is Never Returnedがカバー！BUMP OF CHICKEN、椎名林檎、aiko、水曜日のカンパネラの新曲もリリースに！Rina Sawayamaとちゃんみなのコラボソング、tuki.の新曲、荒谷翔大初のソロ楽曲や、MFSのアルバムもリリースに！ワンリパブリックが手がけたアニメ『怪獣8号』のエンディングテーマもピックアップ！](https://open.spotify.com/episode/7u83hn30oydzzNOefPTDIq) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 32:21 | 2024-04-17 | 2024-04-24 |
 | [2024/4/24 Lucky Kilimanjaroがカバー！go!go!vanillas、十明、DURDN、BE:FIRST、LEXなど注目アーティストの新作続々到着！Spotify記録を樹立したテイラー・スウィフトのニューアルバムも！Nenashiのニューアルバム、Bye\-Bye\-Handの方程式の新曲、KaneeeとDaichi Yamamotoのコラボ曲も！](https://open.spotify.com/episode/7KbNheF2NCe8gR8bPtOddJ) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 26:14 | 2024-04-24 | 2024-05-01 |
 | [2024/5/1 あいみょんがカバー！LEXとJP THE WAVYのコラボ、Tempalayのニューアルバムもリリースに。ちゃんみな、WurtS、女王蜂、槇原敬之の新曲、Early Noiseアーティストの音田雅則、CHO CO PA CO CHO CO QUIN QUINの新曲も！フランスのジャスティスのニューアルバムもピックアップ！](https://open.spotify.com/episode/3ar9F7aWEXxlGtMWQ6vSI0) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 30:49 | 2024-05-01 | 2024-05-08 |

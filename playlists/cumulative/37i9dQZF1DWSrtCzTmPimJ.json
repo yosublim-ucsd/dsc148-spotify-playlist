@@ -574,7 +574,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 202106,
       "name": "Alpha Sinus 100 Hz - 108 Hz",
       "url": "https://open.spotify.com/track/3amQPrutVjXI9SMrvwHDK3"
@@ -628,7 +628,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 206564,
       "name": "Alpha Sinus 120 Hz - 128 Hz",
       "url": "https://open.spotify.com/track/5QbCSEbOl8vuxgE38BKQfQ"
@@ -1355,6 +1355,24 @@
     },
     {
       "album": {
+        "name": "Binaural Concentration Alpha 100 Hz - 108 Hz",
+        "url": "https://open.spotify.com/album/3ow856D7cLAuuKDhipJdn7"
+      },
+      "artists": [
+        {
+          "name": "Syntropy",
+          "url": "https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188250,
+      "name": "Binaural Concentration Alpha 100 Hz - 108 Hz",
+      "url": "https://open.spotify.com/track/5W31qjDdoEKnGT6qmaFL9I"
+    },
+    {
+      "album": {
         "name": "Binaural Fantasies",
         "url": "https://open.spotify.com/album/6qnS1w86iFPBCyANGiZk5s"
       },
@@ -1546,7 +1564,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 196500,
       "name": "Creative Alpha Sinus 101Hz - 109Hz",
       "url": "https://open.spotify.com/track/3H9TQiTijyVfgeTGkFR918"
@@ -2518,7 +2536,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 159473,
       "name": "Sphere of Alpha 10 Hz",
       "url": "https://open.spotify.com/track/2lEDf4AwwqaVYpTftIqcBZ"

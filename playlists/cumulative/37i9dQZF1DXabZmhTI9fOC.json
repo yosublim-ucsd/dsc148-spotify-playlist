@@ -8907,6 +8907,24 @@
     },
     {
       "album": {
+        "name": "Never Give Up",
+        "url": "https://open.spotify.com/album/3jr02cmy7u7nSX6ofBaKSW"
+      },
+      "artists": [
+        {
+          "name": "Dayzee",
+          "url": "https://open.spotify.com/artist/3Idomsw73Wdqvb7RXS4MLG"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181395,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/0Zvdop1sdRrYHCY22sminM"
+    },
+    {
+      "album": {
         "name": "20mg of Happiness",
         "url": "https://open.spotify.com/album/338Td52uBRdtXDqIZiOo6D"
       },

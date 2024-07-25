@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. \nCover: Eliza Maturan",
+  "description": "Mga nangunguna sa mundo ng OPM. \nCover: Dionela",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -324,6 +324,24 @@
       "duration_ms": 175396,
       "name": "Babaero",
       "url": "https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP"
+    },
+    {
+      "album": {
+        "name": "Baggages",
+        "url": "https://open.spotify.com/album/0HARzAL7EzcvJ3d5AV5ks7"
+      },
+      "artists": [
+        {
+          "name": "Zeke Abella",
+          "url": "https://open.spotify.com/artist/5aEAM9GB7loq6xxai3YYrn"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Baggages",
+      "url": "https://open.spotify.com/track/5CdRKbPYKe0V2bgNrQfRcd"
     },
     {
       "album": {
@@ -1195,6 +1213,42 @@
     },
     {
       "album": {
+        "name": "Kaakit-akit",
+        "url": "https://open.spotify.com/album/1CMNY2NlvTax6Tkb2X2ov2"
+      },
+      "artists": [
+        {
+          "name": "Over October",
+          "url": "https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246522,
+      "name": "Kaakit-akit",
+      "url": "https://open.spotify.com/track/6GPfKhdih8hhpC0MJXDu6G"
+    },
+    {
+      "album": {
+        "name": "kaibigan",
+        "url": "https://open.spotify.com/album/4evefz8rfDGKLURrEzwEzy"
+      },
+      "artists": [
+        {
+          "name": "justin",
+          "url": "https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206584,
+      "name": "kaibigan",
+      "url": "https://open.spotify.com/track/3rwioq6hSNjwynK8rVPCma"
+    },
+    {
+      "album": {
         "name": "Tanong",
         "url": "https://open.spotify.com/album/4SGdL7JyP2wLYp7YpNc1hI"
       },
@@ -1290,7 +1344,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 195237,
       "name": "Kunan Mong Pic",
       "url": "https://open.spotify.com/track/6q07OiEEt6Tz2SkGuwCCGo"
@@ -2011,6 +2065,24 @@
     },
     {
       "album": {
+        "name": "Nilalang",
+        "url": "https://open.spotify.com/album/7vTwHNQJy2vVhbhDfmF6NY"
+      },
+      "artists": [
+        {
+          "name": "Dilaw",
+          "url": "https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209464,
+      "name": "Nilalang",
+      "url": "https://open.spotify.com/track/7eMn5OCApyTgqrPPoLJWBq"
+    },
+    {
+      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/2Nw8VXMKMd6YFDiHkPexJo"
       },
@@ -2112,7 +2184,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 296400,
       "name": "pagod na (sayo)",
       "url": "https://open.spotify.com/track/64AtBQlNawUk2nVIsLxwVF"
@@ -2199,6 +2271,24 @@
     },
     {
       "album": {
+        "name": "panalangin",
+        "url": "https://open.spotify.com/album/662zfB0NP7XjMNIiup69jj"
+      },
+      "artists": [
+        {
+          "name": "syd hartha",
+          "url": "https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162050,
+      "name": "panalangin",
+      "url": "https://open.spotify.com/track/68doFzNBmManicbD9yfRoA"
+    },
+    {
+      "album": {
         "name": "Pantropiko",
         "url": "https://open.spotify.com/album/3NYOeU6Uwj2FP1Zz1rWVz8"
       },
@@ -2210,7 +2300,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 225466,
       "name": "Pantropiko",
       "url": "https://open.spotify.com/track/6Csrqur3IfnVp0EtHskjMw"
@@ -2586,7 +2676,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 230218,
       "name": "Salamin, Salamin",
       "url": "https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb"
@@ -2764,7 +2854,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 198000,
       "name": "SOBRANG SOLID",
       "url": "https://open.spotify.com/track/0Ol6h1ldPVt1ARNYiYLZ6g"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Chike, SPINALL, Blaqbonez, Childish Gambino and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,172 likes - 49 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,243 likes - 49 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 41 | [Gbo Kan Kan](https://open.spotify.com/track/1xSU2Z3QqVHS37W0LtnW8j) | [Yonda](https://open.spotify.com/artist/1sCxnr0nRf5TADGH5CX3lr), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Gbo Kan Kan](https://open.spotify.com/album/1ulTJUcATWpyWdnF2ADCJM) | 3:39 |
 | 42 | [Life Of The Party](https://open.spotify.com/track/5W7f2FG1QDXkDtlkf5p5YP) | [J'ray](https://open.spotify.com/artist/7rNvqrkw7Ly4tDjiSoEeNK) | [Life Of The Party](https://open.spotify.com/album/6Vr3WcpAPWvs0mNq4pgaJQ) | 2:49 |
 | 43 | [My Type](https://open.spotify.com/track/2e6jU4n6jiANBlCyfXqL5r) | [Mod3st](https://open.spotify.com/artist/0MATxe4eJMjAUhOUuWwVPM) | [Candy Dreams](https://open.spotify.com/album/5AIOv0KVJFTgKZ55oRkHUL) | 2:49 |
-| 44 | [Dreams](https://open.spotify.com/track/4oqarbi0Umt4bccB28owLG) | [Lyta](https://open.spotify.com/artist/2puySLEjl3BYcfWeHUWM9Q) | [Dreams](https://open.spotify.com/album/5LdqznOV6WpzmaUhgTNQp6) | 2:59 |
+| 44 | [Dreams](https://open.spotify.com/track/4oqarbi0Umt4bccB28owLG) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE) | [Dreams](https://open.spotify.com/album/5LdqznOV6WpzmaUhgTNQp6) | 2:59 |
 | 45 | [Ground](https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Ground](https://open.spotify.com/album/44kxeIVSEqnpZKnPHb2Lhw) | 3:02 |
 | 46 | [Any Location](https://open.spotify.com/track/5NrKXnyWe2KutEeuUz7J7b) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [SHYLO](https://open.spotify.com/album/5byuY0SyANjYF7NyKvn0iu) | 2:17 |
 | 47 | [Talk My Shit \(feat\. Amaarae & Flo Milli\)](https://open.spotify.com/track/09imUl1oyaB2R86qBgEhCN) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 3:45 |

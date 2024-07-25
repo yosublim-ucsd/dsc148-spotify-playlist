@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Faith without work\[out\]s is dead!  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,866 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,918 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 14 | [God Know](https://open.spotify.com/track/2nF8w69WDxaNAGTfRcuqF4) | [Starringo](https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj) | [God Know](https://open.spotify.com/album/60yBlHMBRynuPq7uoAvkID) | 3:17 |
 | 15 | [God's Hands On Me](https://open.spotify.com/track/4drgNbGrdSy1HoPgDBfxSd) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [God's Hands On Me](https://open.spotify.com/album/4iDBoQ3T18y4Ovr8DKehoO) | 2:56 |
 | 16 | [CERTIFIED](https://open.spotify.com/track/5QryHzfnnT9eIzHac8gUHm) | [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [SIDE B: LULLABIES](https://open.spotify.com/album/6Y6ZqPCCkfbH5lNK7bZjnB) | 3:26 |
-| 17 | [Need You](https://open.spotify.com/track/3VBrgyMHg6OMZsma32Hevu) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [KMO Shamaal](https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF) | [Need You](https://open.spotify.com/album/6ILaidt9jDAme4TVSOMDnF) | 2:55 |
+| 17 | [Need You](https://open.spotify.com/track/3VBrgyMHg6OMZsma32Hevu) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [KMO Shamaal](https://open.spotify.com/artist/5PnFKm9triVLQtIqpO90D2) | [Need You](https://open.spotify.com/album/6ILaidt9jDAme4TVSOMDnF) | 2:55 |
 | 18 | [CLAIM IT](https://open.spotify.com/track/4H9iZ7RZMP3RI0DcIXNLcW) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [CLAIM IT](https://open.spotify.com/album/4f54X2VdwaslqRjPoyWziY) | 2:16 |
 | 19 | [Greater \(Who Rollin'\)](https://open.spotify.com/track/0dRjTEnEfIaYHDZJTw2NLE) | [Th3 Saga](https://open.spotify.com/artist/7jLwldFATvydUsOIiJV2Lp) | [Greater \(Who Rollin'\)](https://open.spotify.com/album/16zPRMVQCFoGtVckKsE71e) | 2:35 |
 | 20 | [Strongest](https://open.spotify.com/track/7fCzu8e9YyuZFP3woaowKu) | [DizzyEight](https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV), [Errol Allen](https://open.spotify.com/artist/0vPHZqFce2oHEMQfTL6Ohc), [Musicality](https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3) | [Strongest](https://open.spotify.com/album/742rwpA2b9UfLhvg0LeI8Q) | 3:11 |

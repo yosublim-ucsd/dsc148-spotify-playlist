@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Hookuo\(후쿠오\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,780 likes - 116 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,788 likes - 116 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > El Dembow que está subiendo\. Foto: Chimbala
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,168 likes - 75 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,223 likes - 75 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 4 | [Ou Ou](https://open.spotify.com/track/6TjT05x6Uo8c1yXZadV3bF) | [Wander Love](https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd), [La Mas Doll](https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK) | [Ou Ou](https://open.spotify.com/album/1JWFlOflVOdPslc9sPjfBJ) | 2:26 |
 | 5 | [HAY LUPITA](https://open.spotify.com/track/1ciCd4tjOBZMu3CcXkOAed) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY LUPITA](https://open.spotify.com/album/1gGvVUNqBHKn1ct3FX5EVM) | 1:45 |
 | 6 | [Me Arregle \- El loco](https://open.spotify.com/track/1bIpH9PBr9OBI3Ek6RtuNl) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy) | [Me Arregle \(El loco\)](https://open.spotify.com/album/3s231XSay5ko3W5psvQhrW) | 2:49 |
-| 7 | [3D](https://open.spotify.com/track/6AddEFczaiz7MraQxrOHNT) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [3D](https://open.spotify.com/album/1I4KyAYrYUQO4n644l0qqp) | 2:57 |
+| 7 | [3D](https://open.spotify.com/track/6AddEFczaiz7MraQxrOHNT) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [3D](https://open.spotify.com/album/1I4KyAYrYUQO4n644l0qqp) | 2:57 |
 | 8 | [Flow Sexy](https://open.spotify.com/track/1aaNLFSkrqqM6KtBFjS2Hj) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Flow Sexy](https://open.spotify.com/album/78HK77TtSPMxqAi6yH6jOP) | 2:45 |
 | 9 | [Vete a Mia](https://open.spotify.com/track/2UbtYuorP0Nc6rOulWAaB2) | [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi), [Bigoblin](https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq) | [Vete a Mia](https://open.spotify.com/album/6We9Ss0CZTc6Qxfs43hanC) | 2:11 |
 | 10 | [Truco y Problema](https://open.spotify.com/track/3Zi0fZ7HP6KEldbdnvzkQm) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Truco y Problema](https://open.spotify.com/album/3aAeNlaBIF2kGVA0DxPioq) | 1:48 |

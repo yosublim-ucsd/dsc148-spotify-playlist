@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Joe Jonas
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,816 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,843 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 45 | [Daisies](https://open.spotify.com/track/7GldSXuo3pxP6GC7Et7bdw) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Daisies](https://open.spotify.com/album/4ue8ig83KmyEJcxR93qtNy) | 2:22 |
 | 46 | [Highs Get Low](https://open.spotify.com/track/0kKZrM6uJlr9tU1qAuTntD) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Highs Get Low](https://open.spotify.com/album/0KC98S3aACVGZbX3Avxe1f) | 2:54 |
 | 47 | [Things I Used To Know](https://open.spotify.com/track/0bTjCS01MSGK1GUVEJlD5i) | [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Things I Used To Know](https://open.spotify.com/album/2WKXsrjsmIFCggP99UFYM4) | 2:52 |
-| 48 | [I’d Rather Overdose](https://open.spotify.com/track/3UpwgFvuWW60WKco2LqwO2) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [I’d Rather Overdose](https://open.spotify.com/album/5VNV5BxQBUXGAB1IWx2yRc) | 3:04 |
+| 48 | [I’d Rather Overdose \- MOD SUN Remix](https://open.spotify.com/track/3UpwgFvuWW60WKco2LqwO2) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [I’d Rather Overdose \- MOD SUN Remix](https://open.spotify.com/album/5VNV5BxQBUXGAB1IWx2yRc) | 3:04 |
 | 49 | [The Best](https://open.spotify.com/track/5CPDjTGMlWUncNpw9H4GvG) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [The Best](https://open.spotify.com/album/7GcC0dp4qulI530IoHIbkE) | 3:19 |
 | 50 | [Rather Be Lonely](https://open.spotify.com/track/3lBO1ZuelfLTtkYfc1t7PO) | [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [Rather Be Lonely](https://open.spotify.com/album/0cENSCQhJwwx9rtMBcs1pB) | 2:44 |
 | 51 | [Hot Butter Summertime](https://open.spotify.com/track/4KbQ5S6ctUbesoDcMdnSBe) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Hot Butter Summertime](https://open.spotify.com/album/2kZuaZZoUPTOgvhqzbjO52) | 2:24 |

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX18jYOKSXaB2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX18jYOKSXaB2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX18jYOKSXaB2)
 
-### [African Wedding Party ](https://open.spotify.com/playlist/37i9dQZF1DX18jYOKSXaB2)
+### [African Wedding Hits](https://open.spotify.com/playlist/37i9dQZF1DX18jYOKSXaB2)
 
 > Goes best with small chops and party jollof
 

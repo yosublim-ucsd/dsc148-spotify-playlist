@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Kanguva
 
-1,378 songs - 3 day 12 hr 12 min
+1,379 songs - 3 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1208,6 +1208,7 @@
 | [Udaiyathe \(From "Laandhar"\)](https://open.spotify.com/track/1jj5h5kqud2HDkFmOGf5ry) | [M.S.Prraveen](https://open.spotify.com/artist/66m0abZi6PMjIE4LVzoCRP), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Vishnu Edavan](https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T) | [Udaiyathe \(From "Laandhar"\)](https://open.spotify.com/album/4Bur1ESS3rEPtJe4KcoaYP) | 4:09 | 2024-06-10 | 2024-07-12 |
 | [Ulagai Vella Pogiraal \(From "Annapoorani"\)](https://open.spotify.com/track/6ABxTTiqpUxW8icYGVTqdj) | [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Ulagai Vella Pogiraal \(From "Annapoorani"\)](https://open.spotify.com/album/0Jb8uoizdoyp5are8ZEBWT) | 3:04 | 2023-11-20 | 2023-12-14 |
 | [Ulla Valikkuthu \(From "Vinveli Devathai"\)](https://open.spotify.com/track/0SlWYr72hYnXYusNDbOn9w) | [Shameshan Mani Maran](https://open.spotify.com/artist/0hKVle5ZGz8hRJ62MtV4PM), [Yuwaji](https://open.spotify.com/artist/55g4nyQPDg5JPtQWdHmxpW), [Amos Paul](https://open.spotify.com/artist/4mCA5AJnvdiCiKB6Rk8ne9), [Sree Madhumitha Sandiran](https://open.spotify.com/artist/7lVNs5WkXytX3N50SXGRiG) | [Ulla Valikkuthu \(From "Vinveli Devathai"\)](https://open.spotify.com/album/5hx7vGz7HU1BgrVp2CVkNs) | 3:19 | 2023-07-14 | 2023-07-26 |
+| [Ullaasam \(From "Surya's Saturday \(Tamil\)"\)](https://open.spotify.com/track/4pzZn7lKMhhl4xmXskaVIb) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Krishna Lasya Muthyala](https://open.spotify.com/artist/6Xe2lU4AiHXTk3ehxlm7Ms) | [Ullaasam \[From "Surya's Saturday \(Tamil\)"\]](https://open.spotify.com/album/29UVyseIP3BCLqtKVmeaY0) | 4:44 | 2024-07-24 |  |
 | [Ullukulla Theekaadu](https://open.spotify.com/track/3EmeTewbTQ9IRlSpBBHInm) | [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Padmaja Sreenivasan](https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P) | [Adiyae \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2nS0NA74i5nkBPleJxyOh6) | 3:31 | 2023-08-10 | 2023-08-22 |
 | [Un Azhagai Rasithu](https://open.spotify.com/track/2JXQEzgyJrPYohFDjqHAaA) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Pon Ondru Kanden](https://open.spotify.com/album/7FGND2yTrOIB3Qguok4Fvj) | 3:42 | 2024-04-05 | 2024-06-08 |
 | [Un Idhazhgalinaal \(From "Margazhi Thingal"\)](https://open.spotify.com/track/3GuVigOdkvJWZgi9qFlWwj) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8), [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Un Idhazhgalinaal \(From "Margazhi Thingal"\)](https://open.spotify.com/album/1QCSQnfMt2tjaVZ807Gc99) | 3:36 | 2023-09-27 | 2023-10-10 |

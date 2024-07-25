@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap. Cover: Control Freak",
-  "num_followers": 893827,
+  "num_followers": 893002,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -1337,7 +1337,7 @@
         },
         {
           "name": "Levity",
-          "url": "https://open.spotify.com/artist/3oPGfWZ44zJWcHcu4sIj2c"
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
         },
         {
           "name": "Hannah Boleyn",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Issa Bounce",
+        "url": "https://open.spotify.com/album/7wveyi2W3dCEn8lUHIQdRi"
+      },
+      "artists": [
+        {
+          "name": "UpsideDown",
+          "url": "https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu"
+        }
+      ],
+      "duration_ms": 117600,
+      "name": "Issa Bounce",
+      "url": "https://open.spotify.com/track/7zeL5uEA13GJ6VN732HYyS"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Dhunga",
         "url": "https://open.spotify.com/album/1YFhDt1XvJHuk8eN3dyaaY"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 149760,
       "name": "Dhunga",
       "url": "https://open.spotify.com/track/14CuAxOwFn2346hrXXx5Cj"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Issa Bounce",
-        "url": "https://open.spotify.com/album/7wveyi2W3dCEn8lUHIQdRi"
-      },
-      "artists": [
-        {
-          "name": "UpsideDown",
-          "url": "https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu"
-        }
-      ],
-      "duration_ms": 117600,
-      "name": "Issa Bounce",
-      "url": "https://open.spotify.com/track/7zeL5uEA13GJ6VN732HYyS"
     },
     {
       "added_at": "2024-07-19 04:00:00",

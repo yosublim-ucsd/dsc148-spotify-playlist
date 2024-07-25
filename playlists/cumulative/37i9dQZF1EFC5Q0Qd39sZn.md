@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-602 songs - 1 day 17 hr 45 min
+603 songs - 1 day 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [Ni un Segundo Quiero Perder](https://open.spotify.com/track/61vudQgu4m5kiz0QpwGUFY) | [Barilari](https://open.spotify.com/artist/0bEinswrM8NYuppKnMljIg) | [Canciones Doradas](https://open.spotify.com/album/1wsnUNgL7SJVZ04vmCV405) | 5:02 | 2024-07-10 |  |
 | [Nic Nás Nezastaví](https://open.spotify.com/track/027HCxtutlZLuErAbNKOoi) | [Karel Gott](https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM), [Gabriela Gunčíková](https://open.spotify.com/artist/1hP5sHxrXXIEoobF4EGcie) | [Dotek Lásky](https://open.spotify.com/album/4xLycbbzp5p1gxGR7YZMtd) | 3:51 | 2023-12-30 |  |
 | [No Cambies Nunca](https://open.spotify.com/track/1OJWlKLKnn08aK89mr44I6) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Renaissance \(Boxset\)](https://open.spotify.com/album/2nXdt2kzRDGDTDbrudfms9) | 4:38 | 2023-12-30 |  |
+| [No Doubt About It](https://open.spotify.com/track/6tLOzrwr95TUmRALKXnWfN) | [Touch](https://open.spotify.com/artist/3nAHXZZGsY3Mgjuh5qv7UG) | [Hot Chocolate](https://open.spotify.com/album/5ZcR4RP2d9H3ZEDlLwmlGX) | 4:40 | 2024-07-24 |  |
 | [No Fool No More](https://open.spotify.com/track/1RhaF2Eq1Zg1zR1MIaY9I1) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48), [Mick Guzauski](https://open.spotify.com/artist/5kBkJhHwbshC3wJJphhkMz) | [Best Of](https://open.spotify.com/album/1dVhczEhJUyJpao75GZkA2) | 4:17 | 2023-12-30 |  |
 | [No Known Cure](https://open.spotify.com/track/7ahbAPouPlckdehl0ilTy4) | [Jamali](https://open.spotify.com/artist/4dyN2fwkUd8Y0qjKH7ztK0) | [Yours Fatally](https://open.spotify.com/album/7dQkn95399PE46yHU2f0Nv) | 3:32 | 2024-07-10 |  |
 | [No Living Without Loving You](https://open.spotify.com/track/5lRALu97xWoZws3ZUl84wx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:22 | 2023-12-30 |  |

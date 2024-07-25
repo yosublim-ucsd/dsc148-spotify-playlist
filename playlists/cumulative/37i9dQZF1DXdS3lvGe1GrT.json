@@ -1976,7 +1976,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 236399,
       "name": "balaclava",
       "url": "https://open.spotify.com/track/73ufb0O9GtK2hZj8xotUHT"
@@ -5032,7 +5032,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 244854,
       "name": "Daisy Wildflower",
       "url": "https://open.spotify.com/track/3rbkSC3cM5P0dzmyOME3Ba"
@@ -5202,7 +5202,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 216000,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/6kFAjrHO2yyJ3xb5xcqu6i"
@@ -7408,7 +7408,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 223127,
       "name": "Fear of the Unknown",
       "url": "https://open.spotify.com/track/4qHxxlwDjEvanNtKeG6DCy"
@@ -8712,7 +8712,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 244145,
       "name": "Good News",
       "url": "https://open.spotify.com/track/7hf7I4mJSBTjCUhNMV5cwU"
@@ -9774,6 +9774,24 @@
       "duration_ms": 238956,
       "name": "Highway Sun",
       "url": "https://open.spotify.com/track/4k1rhEgeZKATmXtaZZV8UQ"
+    },
+    {
+      "album": {
+        "name": "My Own Company",
+        "url": "https://open.spotify.com/album/0Y9PHPEhtZgfuw7pldk74s"
+      },
+      "artists": [
+        {
+          "name": "Kiely Connell",
+          "url": "https://open.spotify.com/artist/5BpcRG30ycCHuNeGtpFMd4"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245680,
+      "name": "Hobo's Dream",
+      "url": "https://open.spotify.com/track/2LR5hvCGwl23TSDiyFybyy"
     },
     {
       "album": {
@@ -11310,6 +11328,24 @@
       "duration_ms": 366396,
       "name": "In The Thick Of It",
       "url": "https://open.spotify.com/track/3jKm53mOmCum509Z0eOKT3"
+    },
+    {
+      "album": {
+        "name": "Incarnations",
+        "url": "https://open.spotify.com/album/1CLQh78kqtlN4spyFg4wB0"
+      },
+      "artists": [
+        {
+          "name": "Jacob Cummings",
+          "url": "https://open.spotify.com/artist/7skiCmlFbtPe0anDfCCPXm"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229023,
+      "name": "Incarnations",
+      "url": "https://open.spotify.com/track/6tgZESj1bDC7wGHllB1MIF"
     },
     {
       "album": {
@@ -14311,6 +14347,24 @@
     },
     {
       "album": {
+        "name": "Miss Maine",
+        "url": "https://open.spotify.com/album/0ghXmXrV0NQUokUUCQC49V"
+      },
+      "artists": [
+        {
+          "name": "Elias Hix",
+          "url": "https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201005,
+      "name": "Miss Maine",
+      "url": "https://open.spotify.com/track/5GOUliqSDh3kQ75qimjjRJ"
+    },
+    {
+      "album": {
         "name": "Missouri",
         "url": "https://open.spotify.com/album/6pPkoDIyFQVJxQEsN6UDK5"
       },
@@ -16150,7 +16204,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 231826,
       "name": "only light",
       "url": "https://open.spotify.com/track/79epNQ5pFV7ZEbRXyBZ7hT"
@@ -16409,6 +16463,24 @@
     },
     {
       "album": {
+        "name": "Get Real",
+        "url": "https://open.spotify.com/album/3Ty4Kx8fc1rcRRKytMVtEK"
+      },
+      "artists": [
+        {
+          "name": "Chan Fuze",
+          "url": "https://open.spotify.com/artist/0z9dtpqSa6Y4PmMdrHiz1Y"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325250,
+      "name": "Palm",
+      "url": "https://open.spotify.com/track/3zY8tJEfLhc4iEFRzbAQdT"
+    },
+    {
+      "album": {
         "name": "Paper (Radio Edit)",
         "url": "https://open.spotify.com/album/2fdef6vdtwVALzYrVf3U5C"
       },
@@ -16460,6 +16532,28 @@
       "duration_ms": 249000,
       "name": "Paper Flower - Edit",
       "url": "https://open.spotify.com/track/0NtSNdj3qri5rpU9qeMP1t"
+    },
+    {
+      "album": {
+        "name": "Paper Planes",
+        "url": "https://open.spotify.com/album/4VM562qVxAWsocBIeGTDLa"
+      },
+      "artists": [
+        {
+          "name": "&Tilly",
+          "url": "https://open.spotify.com/artist/6ywghg7NMnYNOY8HVATu1N"
+        },
+        {
+          "name": "Patrick Sampson",
+          "url": "https://open.spotify.com/artist/16z03LbZVOCJixvwiYIIb5"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230500,
+      "name": "Paper Planes",
+      "url": "https://open.spotify.com/track/4iTyAQ2QxKbU1crRidu4QA"
     },
     {
       "album": {
@@ -17130,7 +17224,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 159027,
       "name": "Quarterback",
       "url": "https://open.spotify.com/track/33rzaLAovlndR6oU8JVTeT"
@@ -17299,6 +17393,24 @@
     },
     {
       "album": {
+        "name": "Red Cedar",
+        "url": "https://open.spotify.com/album/6N69lFEemWGCfl3SpI2Rim"
+      },
+      "artists": [
+        {
+          "name": "Sully Bright",
+          "url": "https://open.spotify.com/artist/2fTsMrU7j77W1kHBbdxJoR"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204170,
+      "name": "Red Cedar",
+      "url": "https://open.spotify.com/track/7dIqIfRnRz4HhgbylWPvf5"
+    },
+    {
+      "album": {
         "name": "Red Neck Yaught Club",
         "url": "https://open.spotify.com/album/2cjhzkb743LHhIcyRFMIui"
       },
@@ -17461,6 +17573,24 @@
     },
     {
       "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/14j3vsC5yEYB0o0do3BQoz"
+      },
+      "artists": [
+        {
+          "name": "HAFFWAY",
+          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234206,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/6QudyDdeTi89Go7OlE0MUM"
+    },
+    {
+      "album": {
         "name": "Rind",
         "url": "https://open.spotify.com/album/73A4Mm5iek5ujAk8vqKx0r"
       },
@@ -17548,6 +17678,24 @@
       "duration_ms": 245075,
       "name": "Rivers",
       "url": "https://open.spotify.com/track/0uk4UdwoCrHdanFaQVP6d5"
+    },
+    {
+      "album": {
+        "name": "RJB",
+        "url": "https://open.spotify.com/album/7nyvLUD121rnySDnAYFNY8"
+      },
+      "artists": [
+        {
+          "name": "Eli Riccardi",
+          "url": "https://open.spotify.com/artist/2sAsWXrp3h7Co0Nkwh5Wxg"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111003,
+      "name": "RJB",
+      "url": "https://open.spotify.com/track/3FegyjbqT64ujLQmnFBaeH"
     },
     {
       "album": {
@@ -18041,6 +18189,24 @@
     },
     {
       "album": {
+        "name": "Scenic Drive",
+        "url": "https://open.spotify.com/album/3NAGeIq8anzuISkZT9Rtea"
+      },
+      "artists": [
+        {
+          "name": "The Braymores",
+          "url": "https://open.spotify.com/artist/7CrVM33l2Pt32fCxJWGVw6"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102771,
+      "name": "Scenic Drive",
+      "url": "https://open.spotify.com/track/47f8UU39m2Kh70AiRz58hX"
+    },
+    {
+      "album": {
         "name": "Science Teacher",
         "url": "https://open.spotify.com/album/63zjLEjKThzAcndZeFC0WU"
       },
@@ -18434,6 +18600,24 @@
       "duration_ms": 170649,
       "name": "Sidelines",
       "url": "https://open.spotify.com/track/2sxWTcS4AhbOSfXzc4FvdR"
+    },
+    {
+      "album": {
+        "name": "Sides",
+        "url": "https://open.spotify.com/album/4tQmOiIEKT7rWRKiwVzAVn"
+      },
+      "artists": [
+        {
+          "name": "Gracie Gray",
+          "url": "https://open.spotify.com/artist/2KgkkXOzFBuE67knhA4ebG"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248393,
+      "name": "Sides",
+      "url": "https://open.spotify.com/track/3BM9tquYU4X8N6glk5OCF5"
     },
     {
       "album": {
@@ -19862,7 +20046,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 166549,
       "name": "sunflood",
       "url": "https://open.spotify.com/track/2v9FhgR6POwiVPoOGxSCkG"
@@ -21336,7 +21520,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 246000,
       "name": "This Love",
       "url": "https://open.spotify.com/track/5eL6cI5iRqY6D1IM6TF0Ca"

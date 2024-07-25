@@ -1,12 +1,12 @@
 {
   "description": "happy 5 years of lorem. thank you for listening :) cover: ROLE MODEL",
-  "num_followers": 1156822,
+  "num_followers": 1155150,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpnkwAAAAACZAclvso2zmKIm9WSXuoAx",
+  "snapshot_id": "ZqGxGAAAAADM5KUvhrbCkM7DqACqFb5Z",
   "tracks": [
     {
       "added_at": "2024-07-17 14:49:33",
@@ -23,6 +23,70 @@
       "duration_ms": 195109,
       "name": "Juna",
       "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
+    },
+    {
+      "added_at": "2024-07-25 01:40:31",
+      "album": {
+        "name": "Drifting (Spotify OUTSIDE Version) - Live from West Hollywood, CA",
+        "url": "https://open.spotify.com/album/2v6nZikT0egtkKZXkFhlnc"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 256071,
+      "name": "Drifting - (Spotify OUTSIDE Version) - Live from West Hollywood, CA",
+      "url": "https://open.spotify.com/track/2PUXoqVN9bh9QEZaVsb8fe"
+    },
+    {
+      "added_at": "2024-07-11 16:57:14",
+      "album": {
+        "name": "Soup",
+        "url": "https://open.spotify.com/album/2H2TqzhMx3OwSElUdvG0lT"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 213116,
+      "name": "Soup",
+      "url": "https://open.spotify.com/track/0KyZUDBEPjaK0F2jVexK3y"
+    },
+    {
+      "added_at": "2024-07-25 01:49:51",
+      "album": {
+        "name": "caught by a wind",
+        "url": "https://open.spotify.com/album/6RlPFqhYv6w3CKP0YKXuWB"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "duration_ms": 185986,
+      "name": "caught by a wind",
+      "url": "https://open.spotify.com/track/5pW040aRDPplY0Zdv06aas"
+    },
+    {
+      "added_at": "2024-07-01 17:33:24",
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 203618,
+      "name": "365",
+      "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -55,22 +119,6 @@
       "duration_ms": 232360,
       "name": "Frances",
       "url": "https://open.spotify.com/track/01VATSJaCq2JZneLFkIKBN"
-    },
-    {
-      "added_at": "2024-07-11 16:57:14",
-      "album": {
-        "name": "Soup",
-        "url": "https://open.spotify.com/album/2H2TqzhMx3OwSElUdvG0lT"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 213116,
-      "name": "Soup",
-      "url": "https://open.spotify.com/track/0KyZUDBEPjaK0F2jVexK3y"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -137,20 +185,36 @@
       "url": "https://open.spotify.com/track/6WpZwkzyjINc6wDghg8Gzv"
     },
     {
-      "added_at": "2024-07-01 17:33:24",
+      "added_at": "2024-07-25 01:57:44",
       "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 203618,
-      "name": "365",
-      "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
+      "duration_ms": 205069,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/0mMlo76aVZHpuvoR6fjBSK"
+    },
+    {
+      "added_at": "2024-07-25 01:53:10",
+      "album": {
+        "name": "Can't Be Replaced",
+        "url": "https://open.spotify.com/album/7xJIMVxZethRdgC4RR2XLV"
+      },
+      "artists": [
+        {
+          "name": "Faye Meana",
+          "url": "https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP"
+        }
+      ],
+      "duration_ms": 219374,
+      "name": "Can't Be Replaced",
+      "url": "https://open.spotify.com/track/5CNIP9G7LJX4JeaVF1XxBd"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -803,22 +867,6 @@
       "duration_ms": 226271,
       "name": "Object Permanence (Radio Edit)",
       "url": "https://open.spotify.com/track/0SrZGZTyWePrFlpQ2ttWPw"
-    },
-    {
-      "added_at": "2024-05-23 16:00:00",
-      "album": {
-        "name": "Sexy to Someone",
-        "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 207795,
-      "name": "Sexy to Someone",
-      "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
     },
     {
       "added_at": "2024-06-28 04:00:00",

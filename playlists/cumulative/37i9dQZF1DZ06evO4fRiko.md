@@ -2,7 +2,7 @@
 
 ### [This Is Chris Brown](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fRiko)
 
-> This Is Chris Brown\. Sus mejores éxitos, todos en una playlist.
+> This is Chris Brown\. The essential tracks, all in one playlist.
 
 57 songs - 3 hr 27 min
 

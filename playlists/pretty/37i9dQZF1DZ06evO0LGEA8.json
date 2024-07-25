@@ -1,12 +1,12 @@
 {
   "description": "This Is La Santa Grifa. Los temas esenciales, todos en una lista.",
-  "num_followers": 235812,
+  "num_followers": 236029,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zp2hAAAAAAATLj9cJsU6qcITYAnLkO2S",
+  "snapshot_id": "Zp7ygAAAAADaP1SMkPNF49pqVb/fJL8/",
   "tracks": [
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta Donde Se Pueda, Vol. 2",
-        "url": "https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 404375,
-      "name": "Celoso Enfermo",
-      "url": "https://open.spotify.com/track/4MSRj7FoiCamxvqdRJh2Zt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ilegal",
         "url": "https://open.spotify.com/album/7zyXMZhsIIts324w7hEGBC"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 245562,
       "name": "Ilegal",
       "url": "https://open.spotify.com/track/6i75UApaUiIwbHKNjeZpZi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta Donde Se Pueda, Vol. 2",
+        "url": "https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 404375,
+      "name": "Celoso Enfermo",
+      "url": "https://open.spotify.com/track/4MSRj7FoiCamxvqdRJh2Zt"
     },
     {
       "added_at": null,

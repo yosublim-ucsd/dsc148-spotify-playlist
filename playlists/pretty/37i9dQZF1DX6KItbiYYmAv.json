@@ -1,6 +1,6 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 732534,
+  "num_followers": 732547,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Headlong",
-        "url": "https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Far Too Good",
-      "url": "https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "The Nashville Sound",
         "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 300499,
       "name": "Into The Sun - EP Version",
       "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Headlong",
+        "url": "https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Far Too Good",
+      "url": "https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "Running Up That Hill - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/7KIXAzdiG2Pae7spgsklZo"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Between Two Shores",
         "url": "https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 183293,
       "name": "Why Woman",
       "url": "https://open.spotify.com/track/7Kjh6A5voYQ1rFFnYEbYq6"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "Running Up That Hill - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/7KIXAzdiG2Pae7spgsklZo"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Sinking Ship / Back & Forth",
-        "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
-      },
-      "artists": [
-        {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Sinking Ship",
-      "url": "https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Castle on the Hill",
         "url": "https://open.spotify.com/album/4Veg0fmvBzK3aCZV8hzWUE"
       },
@@ -1427,18 +1411,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
+        "name": "Sinking Ship / Back & Forth",
+        "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
         }
       ],
-      "duration_ms": 160097,
-      "name": "Ophelia",
-      "url": "https://open.spotify.com/track/5NORWMFC27ywGSZxi8uquP"
+      "duration_ms": 247493,
+      "name": "Sinking Ship",
+      "url": "https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1455,6 +1439,22 @@
       "duration_ms": 202840,
       "name": "Teardrop",
       "url": "https://open.spotify.com/track/0WmYMaZFDs6qsPzpnEXRM5"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 160097,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/5NORWMFC27ywGSZxi8uquP"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/7qF9HEA57AL9dPGlipcDvF"
-      },
-      "artists": [
-        {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
-        }
-      ],
-      "duration_ms": 217693,
-      "name": "Ain't No Reason",
-      "url": "https://open.spotify.com/track/0FSaq4WfIJ8RbG2Li1JD5B"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
@@ -1675,22 +1659,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Go Rilla (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2Zg2RPymjzpXOnprsg9e9y"
-      },
-      "artists": [
-        {
-          "name": "FIL BO RIVA",
-          "url": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
-        }
-      ],
-      "duration_ms": 283172,
-      "name": "Go Rilla - Acoustic Version",
-      "url": "https://open.spotify.com/track/4LhMshtzPFbPxT0qTucmdF"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "The Ash & Clay",
         "url": "https://open.spotify.com/album/151a4bghgq5jgbaZt96p71"
       },
@@ -1707,6 +1675,22 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
+        "name": "Go Rilla (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2Zg2RPymjzpXOnprsg9e9y"
+      },
+      "artists": [
+        {
+          "name": "FIL BO RIVA",
+          "url": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
+        }
+      ],
+      "duration_ms": 283172,
+      "name": "Go Rilla - Acoustic Version",
+      "url": "https://open.spotify.com/track/4LhMshtzPFbPxT0qTucmdF"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0mkUbYiN1ECBGabxm70DeM"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 314600,
       "name": "Bis ans Ende der Welt - Live from Spotify Berlin",
       "url": "https://open.spotify.com/track/0egwOcbUz6RfbTHKASdf2W"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/7qF9HEA57AL9dPGlipcDvF"
+      },
+      "artists": [
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "Ain't No Reason",
+      "url": "https://open.spotify.com/track/0FSaq4WfIJ8RbG2Li1JD5B"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "The Reason Is You",
-        "url": "https://open.spotify.com/album/7lvURucj2ZEFzXZJuLL8nt"
-      },
-      "artists": [
-        {
-          "name": "Angela Aux",
-          "url": "https://open.spotify.com/artist/49amwW3An2eDASwY6tpuvV"
-        }
-      ],
-      "duration_ms": 260809,
-      "name": "The Reason Is You",
-      "url": "https://open.spotify.com/track/1kbBZy4O9zMs7l7w8sDjol"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Keep The Times",
         "url": "https://open.spotify.com/album/0iMzWAkVMzrJ68cr10I0CL"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 222240,
       "name": "Weak bones",
       "url": "https://open.spotify.com/track/7gvT6FSYDIwlD9V33zw5Sy"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "The Reason Is You",
+        "url": "https://open.spotify.com/album/7lvURucj2ZEFzXZJuLL8nt"
+      },
+      "artists": [
+        {
+          "name": "Angela Aux",
+          "url": "https://open.spotify.com/artist/49amwW3An2eDASwY6tpuvV"
+        }
+      ],
+      "duration_ms": 260809,
+      "name": "The Reason Is You",
+      "url": "https://open.spotify.com/track/1kbBZy4O9zMs7l7w8sDjol"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Sleeping Operator",
-        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
-      },
-      "artists": [
-        {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
-        }
-      ],
-      "duration_ms": 230518,
-      "name": "Even the Darkness Has Arms",
-      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "One Eyed Love",
         "url": "https://open.spotify.com/album/2mhApVdjZQHGvcebR9pdOV"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 234326,
       "name": "Blood Drive",
       "url": "https://open.spotify.com/track/7yTIj99hrHMyF7ZT0dvaO4"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Sleeping Operator",
+        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "duration_ms": 230518,
+      "name": "Even the Darkness Has Arms",
+      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
     },
     {
       "added_at": "2024-04-24 06:24:42",

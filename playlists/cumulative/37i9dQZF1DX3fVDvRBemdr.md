@@ -2,7 +2,7 @@
 
 ### [Liever Hollands](https://open.spotify.com/playlist/37i9dQZF1DX3fVDvRBemdr)
 
-> De nieuwste Hollandse hits\. Cover: André Hazes & Mart Hoogkamer
+> De nieuwste Hollandse hits\. Cover: Gerard Palts & Trafassi
 
 84 songs - 4 hr 4 min
 

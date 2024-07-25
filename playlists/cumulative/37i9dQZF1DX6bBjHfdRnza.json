@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new dance & electronic by independent artists and labels. Cover: James View. Artwork by Rewina Beshue.",
+  "description": "The best new dance & electronic by independent artists and labels. Cover: Ben Gerrans. Artwork by Rewina Beshue.",
   "name": "Fresh Finds Dance",
   "tracks": [
     {
@@ -6167,6 +6167,24 @@
     },
     {
       "album": {
+        "name": "Care About Us",
+        "url": "https://open.spotify.com/album/45hlbDtsscYZaQsmC5YipS"
+      },
+      "artists": [
+        {
+          "name": "1111",
+          "url": "https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212192,
+      "name": "Care About Us",
+      "url": "https://open.spotify.com/track/77ogYT00fpfHIdnge99wc4"
+    },
+    {
+      "album": {
         "name": "CARMEN",
         "url": "https://open.spotify.com/album/6uZb9mPLAnJIhWHxzTdbPz"
       },
@@ -6413,6 +6431,24 @@
     },
     {
       "album": {
+        "name": "Change Your Mind (Radio Edit)",
+        "url": "https://open.spotify.com/album/44cAeZXTPqKtWWY5BV7IXg"
+      },
+      "artists": [
+        {
+          "name": "Broken Hill",
+          "url": "https://open.spotify.com/artist/1hivPylohVo1WNOWyU1zRQ"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226341,
+      "name": "Change Your Mind - Radio Edit",
+      "url": "https://open.spotify.com/track/04HjL2O46PtHS4eX3XeqHU"
+    },
+    {
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/0RS8mVII3i0aAhTWcsMpG2"
       },
@@ -6522,7 +6558,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 339692,
       "name": "Charmed",
       "url": "https://open.spotify.com/track/1N7z8fR8sPlR4Mylv5T8fk"
@@ -7488,6 +7524,24 @@
       "duration_ms": 337730,
       "name": "Come To Me",
       "url": "https://open.spotify.com/track/3e5WbxGdEKAjOeXtQdcBSX"
+    },
+    {
+      "album": {
+        "name": "Come To My House",
+        "url": "https://open.spotify.com/album/683Ze2XpLW2ohwPWpSKzq4"
+      },
+      "artists": [
+        {
+          "name": "Lucy Tun",
+          "url": "https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200744,
+      "name": "Come To My House",
+      "url": "https://open.spotify.com/track/7aTYdP588hjgw1s0VBDkfB"
     },
     {
       "album": {
@@ -10416,7 +10470,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 222733,
       "name": "Don't Risk It",
       "url": "https://open.spotify.com/track/2eO5PBPjJLW28WELR8JSbo"
@@ -15246,7 +15300,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 145161,
       "name": "Get U All The Way",
       "url": "https://open.spotify.com/track/6dAvSMeDqy7PVAWGE7axm0"
@@ -16930,6 +16984,24 @@
       "duration_ms": 359024,
       "name": "Here To There",
       "url": "https://open.spotify.com/track/3IXXrC5AFX7YWTbt39WHZn"
+    },
+    {
+      "album": {
+        "name": "HERE WE GO",
+        "url": "https://open.spotify.com/album/4I98MShyUAObVPwcHeEEYd"
+      },
+      "artists": [
+        {
+          "name": "H.LLS",
+          "url": "https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180897,
+      "name": "HERE WE GO",
+      "url": "https://open.spotify.com/track/3q0O02k68i5oaBgFKGij1j"
     },
     {
       "album": {
@@ -18759,6 +18831,24 @@
     },
     {
       "album": {
+        "name": "I Wanna Be",
+        "url": "https://open.spotify.com/album/5I7LyERZamTJGWF2HDycLU"
+      },
+      "artists": [
+        {
+          "name": "Ben Gerrans",
+          "url": "https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208571,
+      "name": "I Wanna Be",
+      "url": "https://open.spotify.com/track/0ZZTW26SgUCu25AU5l5UDy"
+    },
+    {
+      "album": {
         "name": "I Want It All",
         "url": "https://open.spotify.com/album/1muagN7xmRAEDT1IKBYkFK"
       },
@@ -20448,7 +20538,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 212926,
       "name": "Joy",
       "url": "https://open.spotify.com/track/2oKFozpMCSlgRUgzI63TlZ"
@@ -20582,6 +20672,24 @@
       "duration_ms": 101795,
       "name": "Just Like U",
       "url": "https://open.spotify.com/track/0HBkQ4ObmXkOU81tZcrjOB"
+    },
+    {
+      "album": {
+        "name": "Just Peachy",
+        "url": "https://open.spotify.com/album/0gctMneODMSL1lKMSyq98X"
+      },
+      "artists": [
+        {
+          "name": "Melon Bomb",
+          "url": "https://open.spotify.com/artist/349BkyqZ2AuEDoloKq9EFS"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337500,
+      "name": "Just Peachy",
+      "url": "https://open.spotify.com/track/7gEDfMAl7VplM1TDjYwaGe"
     },
     {
       "album": {
@@ -21638,7 +21746,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 183911,
       "name": "Life & Death",
       "url": "https://open.spotify.com/track/4QyioRZsrLS2RTx96F98zC"
@@ -26513,6 +26621,24 @@
     },
     {
       "album": {
+        "name": "Not Too Hard",
+        "url": "https://open.spotify.com/album/7tpH2IEPPtNVd7Gmwng2BY"
+      },
+      "artists": [
+        {
+          "name": "Mishell",
+          "url": "https://open.spotify.com/artist/3kCsXVpVs1ZhLnIVkNzdHJ"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376477,
+      "name": "Not Too Hard",
+      "url": "https://open.spotify.com/track/1PcsyNjyJ7o4qiRaUOxgTF"
+    },
+    {
+      "album": {
         "name": "Nothing",
         "url": "https://open.spotify.com/album/5hobeEta5bcDVrz9XHoplf"
       },
@@ -29469,6 +29595,28 @@
     },
     {
       "album": {
+        "name": "Porto Vecchio",
+        "url": "https://open.spotify.com/album/4pERLm1b1qaz4UJ1dOuNa5"
+      },
+      "artists": [
+        {
+          "name": "AUGUSTE",
+          "url": "https://open.spotify.com/artist/4iS5S3n4kI5QvnYV2dNziq"
+        },
+        {
+          "name": "Wisdom",
+          "url": "https://open.spotify.com/artist/7pyynkEL0G0TzqIvVWEEWE"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210375,
+      "name": "Porto Vecchio",
+      "url": "https://open.spotify.com/track/1BEi3jj5DPQH5vsjvHtc4X"
+    },
+    {
+      "album": {
         "name": "Posing For Flex",
         "url": "https://open.spotify.com/album/27x857E6j1lchNoGdPJ43A"
       },
@@ -30104,7 +30252,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 179640,
       "name": "Put Down Your Weapon",
       "url": "https://open.spotify.com/track/5KW54kEyeKQ79XawKqo3Yq"
@@ -32216,6 +32364,24 @@
       "duration_ms": 224980,
       "name": "See Me True",
       "url": "https://open.spotify.com/track/4JfFonn3XrxrSypk77rQL7"
+    },
+    {
+      "album": {
+        "name": "See Through You",
+        "url": "https://open.spotify.com/album/3HI4Mh7Vgc3fFn4owYxx6E"
+      },
+      "artists": [
+        {
+          "name": "Samira",
+          "url": "https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202758,
+      "name": "See Through You",
+      "url": "https://open.spotify.com/track/67YgZAdBAl28xaqNTHapnz"
     },
     {
       "album": {
@@ -34708,7 +34874,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 186814,
       "name": "stay",
       "url": "https://open.spotify.com/track/2ZkmDS8JzQruGYcMFG04Yo"
@@ -35888,7 +36054,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 162120,
       "name": "Switch Up",
       "url": "https://open.spotify.com/track/75EpvWDkENMKxCQ3uln4av"
@@ -40190,7 +40356,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 382550,
       "name": "Vital Organ",
       "url": "https://open.spotify.com/track/5VYurJhlBjJIwlA5phsayD"
@@ -41076,7 +41242,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 233963,
       "name": "What Could Have Been",
       "url": "https://open.spotify.com/track/6ksjV4vLhN2QYiA8LjfHId"
@@ -42108,6 +42274,24 @@
       "duration_ms": 357209,
       "name": "Working Out",
       "url": "https://open.spotify.com/track/2jLe5VkJXdw1bplMhzatO1"
+    },
+    {
+      "album": {
+        "name": "Wouldn't Believe",
+        "url": "https://open.spotify.com/album/0nF4WVXPunDRsNw9c1LTOd"
+      },
+      "artists": [
+        {
+          "name": "BAKEY",
+          "url": "https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198363,
+      "name": "Wouldn't Believe",
+      "url": "https://open.spotify.com/track/1H5pIpTTiuxYnzzeOlGYYf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: flowerovlove
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,276 likes - 50 songs - 2 hr 36 min
+[](https://open.spotify.com/user/null) - 215,273 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

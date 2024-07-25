@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: herbst, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Mel D, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -2888,7 +2888,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 183834,
       "name": "Brenn Mich Aus",
       "url": "https://open.spotify.com/track/01bV2KkMJZw5MzAP0QDTy5"
@@ -2928,6 +2928,24 @@
       "duration_ms": 192012,
       "name": "Bring The Beat Back",
       "url": "https://open.spotify.com/track/0EqAZEQA660aYDZAJQvOfX"
+    },
+    {
+      "album": {
+        "name": "Bring The Witches Back",
+        "url": "https://open.spotify.com/album/5J9P9buPntwTG6hgWShoYc"
+      },
+      "artists": [
+        {
+          "name": "Mel D",
+          "url": "https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254973,
+      "name": "Bring The Witches Back",
+      "url": "https://open.spotify.com/track/3sJHkSkno3qYZkXemkoNkW"
     },
     {
       "album": {
@@ -7727,6 +7745,28 @@
     },
     {
       "album": {
+        "name": "Grand Hotel",
+        "url": "https://open.spotify.com/album/0boTCD9IBQX3qqHfWBCsEk"
+      },
+      "artists": [
+        {
+          "name": "Udo West",
+          "url": "https://open.spotify.com/artist/6LjOtJ9U1bUN331ChKrw8q"
+        },
+        {
+          "name": "Maria",
+          "url": "https://open.spotify.com/artist/1OmD16L3k9zwLiLRHMVgz9"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213882,
+      "name": "Grand Hotel",
+      "url": "https://open.spotify.com/track/1K73dmqdMe7idR480tCWzl"
+    },
+    {
+      "album": {
         "name": "Grauer Rauch",
         "url": "https://open.spotify.com/album/5IvFWqLamFlQteyAI3c4Q1"
       },
@@ -9156,7 +9196,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 165152,
       "name": "I Don't Wanna Know",
       "url": "https://open.spotify.com/track/2xb7U9Ne2JVYg8aszNXbZV"
@@ -10277,6 +10317,24 @@
     },
     {
       "album": {
+        "name": "Kaputt gemacht",
+        "url": "https://open.spotify.com/album/7J3QuFOm2j7faeYyvwEWWj"
+      },
+      "artists": [
+        {
+          "name": "LILLE",
+          "url": "https://open.spotify.com/artist/3IZz6OZ6nLwKS9zmrMjgAM"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154644,
+      "name": "Kaputt gemacht",
+      "url": "https://open.spotify.com/track/1CZnazss2v2t7k7GPAD3RG"
+    },
+    {
+      "album": {
         "name": "Kaputtes Ger\u00e4t",
         "url": "https://open.spotify.com/album/5cDBhbM6dLGbPsNOfTEiyP"
       },
@@ -10472,6 +10530,24 @@
       "duration_ms": 209146,
       "name": "Keine Panik",
       "url": "https://open.spotify.com/track/6LH0YQyj12KPaFTe3PRO1S"
+    },
+    {
+      "album": {
+        "name": "keine zeit",
+        "url": "https://open.spotify.com/album/7oGrCpa6ehvDCLQl862ken"
+      },
+      "artists": [
+        {
+          "name": "D1OS7",
+          "url": "https://open.spotify.com/artist/4VAtLf7trrhEXVkCZBrXKs"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "keine zeit",
+      "url": "https://open.spotify.com/track/7vw280SWXk1JiFhosY3f3V"
     },
     {
       "album": {
@@ -12134,6 +12210,24 @@
       "duration_ms": 145840,
       "name": "Mit Dir",
       "url": "https://open.spotify.com/track/0mcsqmNDZrdOPUvVnwpo9h"
+    },
+    {
+      "album": {
+        "name": "Mittelmeer",
+        "url": "https://open.spotify.com/album/7sA696rtrYyDT6P9CmyFsi"
+      },
+      "artists": [
+        {
+          "name": "MANIS",
+          "url": "https://open.spotify.com/artist/6UTeoyE5DmlcRgYoV5e50n"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Mittelmeer",
+      "url": "https://open.spotify.com/track/40uG5k5bWLzBRjUZIEI2ke"
     },
     {
       "album": {
@@ -14772,7 +14866,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 169234,
       "name": "PULLI",
       "url": "https://open.spotify.com/track/57CbDZVOmEHCk1jXeje3Aa"
@@ -15844,7 +15938,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 156177,
       "name": "Sad",
       "url": "https://open.spotify.com/track/5Sb9aOJ1RRrwIsuvuRKkyo"
@@ -17304,7 +17398,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 133846,
       "name": "Sry Nein",
       "url": "https://open.spotify.com/track/4WC4lrn2ydY02tV1vaL4Sf"
@@ -19329,6 +19423,24 @@
     },
     {
       "album": {
+        "name": "twigs",
+        "url": "https://open.spotify.com/album/3QQmoMJ5aJJ4CvG1EIrGzp"
+      },
+      "artists": [
+        {
+          "name": "Panik Deluxe",
+          "url": "https://open.spotify.com/artist/6NyE8tTrjQ8Dee1reRjkSG"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191906,
+      "name": "twigs",
+      "url": "https://open.spotify.com/track/5qqSRfYEBaZ3BaWdf5cmYc"
+    },
+    {
+      "album": {
         "name": "Two Thousand One",
         "url": "https://open.spotify.com/album/6YEnBL18BhMQ39j3lPEAjA"
       },
@@ -20120,7 +20232,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 165674,
       "name": "Was du Liebe nennst",
       "url": "https://open.spotify.com/track/0SGn2JKcnyIL5aAahmt19k"
@@ -20210,7 +20322,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 226502,
       "name": "We Were Heroes",
       "url": "https://open.spotify.com/track/5mah7gCT19YabS9VtoIUXX"
@@ -20770,6 +20882,24 @@
       "duration_ms": 153659,
       "name": "wie verliebt",
       "url": "https://open.spotify.com/track/7t5B8AyQPjO13hkPc5fVZT"
+    },
+    {
+      "album": {
+        "name": "Wild Child",
+        "url": "https://open.spotify.com/album/4CJv7pZfwH0hjaPcOul4mO"
+      },
+      "artists": [
+        {
+          "name": "Johnny Fab Kaufmann",
+          "url": "https://open.spotify.com/artist/5NCy7ptNpWhJZKY3oUqZzS"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234183,
+      "name": "Wild Child",
+      "url": "https://open.spotify.com/track/2fkSyPwJri6uojBODKOqkh"
     },
     {
       "album": {
@@ -21502,7 +21632,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 125967,
       "name": "\u00fcbereilt",
       "url": "https://open.spotify.com/track/6HhxyAagLF5rMLP5rTeimm"

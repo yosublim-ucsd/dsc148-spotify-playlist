@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. The Warning en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,872 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,901 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 15 | [Al Borde del Infinito](https://open.spotify.com/track/3dQtpFYJ8FlwxWFov1jXYq) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Al Borde del Infinito](https://open.spotify.com/album/5MO5FGNuMfF0gWPmjk0dOC) | 4:09 |
 | 16 | [Mota y Reggaeton](https://open.spotify.com/track/7oqXOQjhDnNJgB4dbB0K4U) | [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ), [LaPeste](https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl) | [Lapeste](https://open.spotify.com/album/6cPThDDpJEvAyuqeRlqZgN) | 2:28 |
 | 17 | [nena](https://open.spotify.com/track/1WAre4IzA6tYI5qxRqzFQM) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [nena](https://open.spotify.com/album/0dVgnsyb0HAdDTAMW2kI54) | 3:03 |
-| 18 | [Laberintos](https://open.spotify.com/track/1KAzKQ1pw02pgvgEyy7pld) | [BETA](https://open.spotify.com/artist/7pS2gi3aVVIZ3Bcm1Nvqdl) | [Laberintos](https://open.spotify.com/album/32IfqJrUNlSUhRvIb9CiHl) | 3:01 |
+| 18 | [Laberintos \- Soundtrack: Un Tributo a División Minúscula](https://open.spotify.com/track/1KAzKQ1pw02pgvgEyy7pld) | [BETA](https://open.spotify.com/artist/7pS2gi3aVVIZ3Bcm1Nvqdl) | [Laberintos \(Soundtrack: Un Tributo a División Minúscula\)](https://open.spotify.com/album/32IfqJrUNlSUhRvIb9CiHl) | 3:01 |
 | 19 | [Laberinto](https://open.spotify.com/track/5lo4luJDYXCV3KGvHt5smB) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG), [Luis Humberto Navejas](https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A) | [Laberinto](https://open.spotify.com/album/64cQcqpTfJQ4YMSvQfxmlo) | 4:31 |
 | 20 | [La hermandad](https://open.spotify.com/track/67Pr9voSdTnhsOcuS2QUhK) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF) | [La hermandad](https://open.spotify.com/album/018VlQZiTBjAmSVSHNLWT0) | 3:37 |
 | 21 | [La Vida Cañón](https://open.spotify.com/track/6ou443eT6aXOCxcX9Jrnee) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/7C2RrxAFNTX0qklJnrHXTj) | 2:32 |

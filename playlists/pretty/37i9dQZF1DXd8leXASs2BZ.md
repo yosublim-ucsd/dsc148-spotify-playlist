@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Kohjiya
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,182 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,192 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 19 | [Aitsu](https://open.spotify.com/track/78AfeOqaWb6eYay0OOS3ok) | [Bardin Beatz](https://open.spotify.com/artist/0s2BMtj4o4ywNR9w5y58RA), [TOKYO世界](https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf) | [Aitsu](https://open.spotify.com/album/2WxEGmAAoZNBDnuyaMa7bN) | 3:08 |
 | 20 | [イイ感じ!](https://open.spotify.com/track/5YjLKMHjH9h5bdMwlAIINF) | [agul](https://open.spotify.com/artist/6hAkSs8eKFhn94XnqSOQRu) | [イイ感じ!](https://open.spotify.com/album/0egJG7iKcFwumk1V5aJYCO) | 1:37 |
 | 21 | [Fell in love](https://open.spotify.com/track/5Ug7YCffZIt5i0K3diPEnc) | [ShowyRENZO](https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4) | [Fell in love](https://open.spotify.com/album/2AOAmmylEzQZj7YaNuFpiS) | 2:18 |
-| 22 | [限界は無い](https://open.spotify.com/track/5raMIE3T5NTvKqA42gmFod) | [Rin](https://open.spotify.com/artist/7iZ5aCddMRZS4fKjjbrAgj) | [麟](https://open.spotify.com/album/2Kp51oK31tOu86AbOwVQpO) | 2:57 |
+| 22 | [限界は無い](https://open.spotify.com/track/5raMIE3T5NTvKqA42gmFod) | [RIN](https://open.spotify.com/artist/047BIzYHaKXWXwXdvH4KEO) | [麟](https://open.spotify.com/album/2Kp51oK31tOu86AbOwVQpO) | 2:57 |
 | 23 | [I'm so high](https://open.spotify.com/track/4rbX1cgXUDlQ0AEBTKB6Hz) | [O.B.S](https://open.spotify.com/artist/6ehbOKilvTO8HaOW3Zkrqn), [YTG](https://open.spotify.com/artist/3XYA9DdaDMDHEnB9XC4G4c), [EASTA](https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO), [K\-nice](https://open.spotify.com/artist/5nvn3gfRWLq9Ndfm69XBS6) | [O.B.S 10](https://open.spotify.com/album/3MToBsh7uqlVCkJQNwlA9V) | 3:02 |
 | 24 | [Frogs Party](https://open.spotify.com/track/4whrY3tG6VpHnTHUNf4WwH) | [Sitissy luvit](https://open.spotify.com/artist/7aYDI4vH01zznjy69ze9X5), [陽](https://open.spotify.com/artist/7sjW2fvyssPuZ7kVLWSNPP) | [Frogs Party](https://open.spotify.com/album/0wqd7P04sJCfBm8AigklCC) | 2:54 |
 | 25 | [20221218](https://open.spotify.com/track/6fcN2s2sZzUYntuHwye4J5) | [NOIZE](https://open.spotify.com/artist/5qSNCHO1r9WTh9BJKZ9GlZ) | [20221218](https://open.spotify.com/album/1D8dTSNeuKZD6Gr8CYCbPk) | 2:07 |

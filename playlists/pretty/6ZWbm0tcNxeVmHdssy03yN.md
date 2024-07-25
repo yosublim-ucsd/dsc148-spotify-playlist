@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 43,003 likes - 89 songs - 5 hr 2 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 43,025 likes - 89 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 32 | [Like I Do](https://open.spotify.com/track/2P6HWNxik2Ii6fjErnfL2I) | [Ownlife](https://open.spotify.com/artist/2nCmwSRtRo6NIdVsYnw0u5) | [Like I Do](https://open.spotify.com/album/6dQDihAtIO2v49fpoNoSRi) | 2:51 |
 | 33 | [LOSING CONTROL](https://open.spotify.com/track/7ASY7kFy1jEeJmey2i6Dqp) | [The Cohens](https://open.spotify.com/artist/5x3ZUgvYdLryFxvI4n1F1G) | [LOSING CONTROL](https://open.spotify.com/album/6s8psbRCI0PBbA8BgquDuf) | 2:37 |
 | 34 | [Rincón](https://open.spotify.com/track/28I3tew6CevPL8LUHW4Qv0) | [Ricci Nostra](https://open.spotify.com/artist/3EAz9wWHQN5JwG5K1FqdMs) | [Rincón](https://open.spotify.com/album/5BV6iEWsDoWpGSeDM5WriV) | 3:12 |
-| 35 | [Invencible](https://open.spotify.com/track/26zQHh6RCdP2cjuiWDzeXm) | [Alexis Play](https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv) | [Invencible](https://open.spotify.com/album/55ph6RFSjY71Tx2IRDzWkc) | 3:38 |
+| 35 | [Invencibles](https://open.spotify.com/track/26zQHh6RCdP2cjuiWDzeXm) | [Alexis Play](https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv) | [Invencibles](https://open.spotify.com/album/55ph6RFSjY71Tx2IRDzWkc) | 3:38 |
 | 36 | [Gea](https://open.spotify.com/track/0oUAYT2rPuuxwCPFLzqGDw) | [Trivv](https://open.spotify.com/artist/3XwHCaXdi8ZIOPqxxerQLE) | [Gea](https://open.spotify.com/album/3yfQ98Td72R5uMlZ7A6tyv) | 3:12 |
 | 37 | [Drying Up](https://open.spotify.com/track/3CPMGBvQFUmGZn3GNMjwhA) | [Pipø](https://open.spotify.com/artist/11yqc7hmkmlCwATtGXB4UF), [Marto013](https://open.spotify.com/artist/2Zsu5oQwHKsN6B52o8eMvu), [R.L.G](https://open.spotify.com/artist/2NiiIZIFKi4ZHo3ILb9m13) | [El Botija del Fondo](https://open.spotify.com/album/5VAQoqA4T6kQFCoxsDzA9v) | 3:22 |
 | 38 | [BEHIND MY BACK](https://open.spotify.com/track/6QsPDFPuLeeouKokjRwCHF) | [MAUD](https://open.spotify.com/artist/7q69l1Zy2RnyPo4pASMZcc), [Backkbencherrs](https://open.spotify.com/artist/03qMNzU04fJBGdmAF4jHxS) | [BEHIND MY BACK](https://open.spotify.com/album/5zbMoY6vSlrEzIA8msJfKe) | 2:13 |

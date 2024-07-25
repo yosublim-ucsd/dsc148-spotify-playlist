@@ -3139,6 +3139,24 @@
     },
     {
       "album": {
+        "name": "Got This Love",
+        "url": "https://open.spotify.com/album/2FF5jW6XclssK21QEaYF0F"
+      },
+      "artists": [
+        {
+          "name": "Ralph Felix",
+          "url": "https://open.spotify.com/artist/3i8emYvhsa8PmLH4zTAvjV"
+        }
+      ],
+      "date_added": "2024-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185280,
+      "name": "Got This Love",
+      "url": "https://open.spotify.com/track/1TTBJlatS49oAHVmROQ02Z"
+    },
+    {
+      "album": {
         "name": "Gotta Dance",
         "url": "https://open.spotify.com/album/7wA4GPJlfCzw8EZfDohnTP"
       },
@@ -8624,7 +8642,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 173296,
       "name": "Tighten Up",
       "url": "https://open.spotify.com/track/1k8tGEqjmXqjkYW9sMTd8V"

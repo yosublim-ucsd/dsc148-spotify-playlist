@@ -2,7 +2,7 @@
 
 ### [Hiturile de azi](https://open.spotify.com/playlist/37i9dQZF1DWXEZONYtiyqo)
 
-> Cele mai noi hituri pop românești\. Cover: AMI, NOUA UNSPE
+> Cele mai noi hituri pop românești\. Cover: MIRA, Juno
 
 63 songs - 2 hr 57 min
 
@@ -65,7 +65,7 @@
 | [Să Fii Tu](https://open.spotify.com/track/4lDQR1LAHAx0wGR2VlgP0A) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59), [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Să Fii Tu](https://open.spotify.com/album/6I4zfBx882UTwS6OtuC64X) | 3:20 | 2024-06-27 |  |
 | [Să mai petrecem](https://open.spotify.com/track/3t4OzNLm3ZVgCE7W9cMUKk) | [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Să mai petrecem](https://open.spotify.com/album/1AS1ubdKWWlVhOSxBwB89F) | 3:03 | 2024-06-27 |  |
 | [Totul meu](https://open.spotify.com/track/7rKpQsXelc2Q9EOvllyKWp) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo), [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Totul meu](https://open.spotify.com/album/5GyH4MjNEXW8WpTvBJGws7) | 2:24 | 2024-06-27 | 2024-07-19 |
-| [Tu n\-ai avut curaj \- Roton 3.0 / Sessions](https://open.spotify.com/track/35d5yXDqFehq1sZPQegLOk) | [Radu Stefan Banica](https://open.spotify.com/artist/52jEJDX313iC62ZgWdvrp1), [Bianca Tilici](https://open.spotify.com/artist/61xRS6kv2QLSQQI1Id4iBD) | [Tu n\-ai avut curaj \(Roton 3.0 / Sessions\)](https://open.spotify.com/album/59qrjWlCwK9AYC099Y47iD) | 3:21 | 2024-06-27 |  |
+| [Tu n\-ai avut curaj \- Roton 3.0 / Sessions](https://open.spotify.com/track/35d5yXDqFehq1sZPQegLOk) | [Radu Stefan Banica](https://open.spotify.com/artist/52jEJDX313iC62ZgWdvrp1), [Bianca Tilici](https://open.spotify.com/artist/61xRS6kv2QLSQQI1Id4iBD) | [Tu n\-ai avut curaj \(Roton 3.0 / Sessions\)](https://open.spotify.com/album/59qrjWlCwK9AYC099Y47iD) | 3:21 | 2024-06-27 | 2024-07-25 |
 | [UNDEVA](https://open.spotify.com/track/3Puwiup8Zx3QecTPv7Cmnn) | [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF), [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [UNDEVA](https://open.spotify.com/album/06pEYOIeKPAxKPbJkhWSJj) | 1:58 | 2024-07-11 |  |
 | [Vecinii de bloc](https://open.spotify.com/track/6UnAmT7n43XJGIWd8tRfwu) | [Iuliana Beregoi](https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym), [Cristian Porcari](https://open.spotify.com/artist/2CYdLJs282GH7B65QAZEA7) | [Pas cu pas](https://open.spotify.com/album/7iB87hMsRM7bWkPnvUTVT0) | 2:44 | 2024-06-27 |  |
 | [Vreau](https://open.spotify.com/track/6ghiYBEodEMT9PMWEmk2Lv) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo) | [Vreau](https://open.spotify.com/album/1CTnPDqSqReiVCcEv51RPs) | 2:59 | 2024-06-27 |  |

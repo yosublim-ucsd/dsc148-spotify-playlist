@@ -4,7 +4,7 @@
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-136 songs - 6 hr 32 min
+137 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Meu Pedaço de Pecado](https://open.spotify.com/track/0KbGTtipoc4GnUiYEVzfQh) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Eu Tenho a Senha](https://open.spotify.com/album/2Hc8dFekejzrTxsF7R9wxT) | 2:37 | 2023-10-23 | 2024-04-19 |
 | [Monta Logo Vai](https://open.spotify.com/track/6Fy2jcYzVfej3EfElB3XVK) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Monta Logo Vai](https://open.spotify.com/album/1FkqeFDUcGPhjKKkC9CWnT) | 2:21 | 2023-10-23 |  |
 | [Morena](https://open.spotify.com/track/1NwfsZ9RW0Iq16RpxKIUXU) | [Cavaleiros do Forró](https://open.spotify.com/artist/421vs0uTmJqkbaYBd5ww42), [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH) | [Cavaleiros Summer 2K21: Meio a Meio](https://open.spotify.com/album/2zMqokr7nnE0tLlUohwLoo) | 2:41 | 2024-03-28 |  |
+| [My Baby](https://open.spotify.com/track/4I2Asr8QXhpF7lhizSEnwW) | [Furacao Love](https://open.spotify.com/artist/6DR8ile3ilLZdfuA1lllNZ) | [My Baby](https://open.spotify.com/album/0gkG52D2tjgCCSF4DeGFtM) | 2:24 | 2024-07-08 |  |
 | [My Baby](https://open.spotify.com/track/5BG7jLnjI62eS7EuBGr3r7) | [Furacão Love](https://open.spotify.com/artist/35udcF82bFL8EzsDlWWcsr) | [My Baby](https://open.spotify.com/album/2Tvmo1uMgsFxkMtZ1xgzLp) | 2:24 | 2023-10-23 | 2024-04-19 |
 | [My Baby](https://open.spotify.com/track/6TVLKukS66i3irRvWlt4j5) | [Furacão Love](https://open.spotify.com/artist/35udcF82bFL8EzsDlWWcsr) | [My Baby](https://open.spotify.com/album/5f5uvAfSQqV5AVlIizNv5k) | 2:24 | 2023-10-23 | 2024-01-14 |
 | [Mó Viagem](https://open.spotify.com/track/3PXgzJ6ixRKkjokWjVOnoR) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Mó Viagem](https://open.spotify.com/album/4VngkaHZ61v5wbjEsNAY3W) | 3:17 | 2023-10-23 |  |
@@ -91,7 +92,7 @@
 | [Nem Vá](https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Nem Vá](https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9) | 2:39 | 2023-10-23 |  |
 | [Nunca Foi Amor](https://open.spotify.com/track/5vVKicXL5lVAUF4zcvscK6) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Nunca Foi Amor](https://open.spotify.com/album/7zcWa1hJwzlG4DIdYyN12d) | 2:44 | 2024-03-28 |  |
 | [Não Manda Áudio](https://open.spotify.com/track/78qabjuI3mGUaREZk5hiEt) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Não Manda Áudio](https://open.spotify.com/album/4TvJjBa84YCeR0DZKsnWFP) | 3:14 | 2023-10-23 |  |
-| [Não Valeu](https://open.spotify.com/track/1GWUiFYLYEapxYHnASyOud) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Ws Em Casa 2](https://open.spotify.com/album/7iKaJTaC32aZaIfkNeWwvy) | 2:42 | 2024-03-28 |  |
+| [Não Valeu](https://open.spotify.com/track/1GWUiFYLYEapxYHnASyOud) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Ws Em Casa 2](https://open.spotify.com/album/7iKaJTaC32aZaIfkNeWwvy) | 2:42 | 2024-03-28 | 2024-07-25 |
 | [Não, Não Vou](https://open.spotify.com/track/3jSG8oE8doxDxmpe5GlFee) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Piseiro Sofrência](https://open.spotify.com/album/2R2HWZn66G6ReXgB9Zs4wl) | 2:53 | 2023-10-23 |  |
 | [Nêga](https://open.spotify.com/track/3b5iBusDt6w3EYuMuqIuL6) | [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC), [Vitor Fernandes](https://open.spotify.com/artist/3TJGVUkSJzk5ZPixMFczZX) | [A Nova Cara das Vaquejadas](https://open.spotify.com/album/5cMhZUlCGsc1BN9bw10bqx) | 4:18 | 2023-10-23 | 2024-04-19 |
 | [O Amor da Minha Vida Sou Eu](https://open.spotify.com/track/2KyZiXLKOPnQkuPWFhMUjj) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [O Amor da Minha Vida Sou Eu](https://open.spotify.com/album/2XdII8oK3HEPmd5xmbhRT0) | 3:14 | 2024-03-28 |  |

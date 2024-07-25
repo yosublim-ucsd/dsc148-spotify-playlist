@@ -4,7 +4,7 @@
 
 > The best in house music
 
-461 songs - 1 day 7 hr 27 min
+462 songs - 1 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Good Times \- Radio Edit](https://open.spotify.com/track/2oVeXlWPMaRxwZzcVwqTmv) | [Felix Leiter](https://open.spotify.com/artist/0NgdQNyMEbiVR0HBpzMptO), [Ben Rainey](https://open.spotify.com/artist/7n7VU5WFgmKTwDIXHZSQgN) | [Good Times](https://open.spotify.com/album/23CkTM2VAbypE4c3RCHb9W) | 3:12 | 2022-04-14 | 2024-03-01 |
 | [Good Woman \- Edit](https://open.spotify.com/track/3moxYB3Zti5dXy9dIDlBrR) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Good Woman \(Edit\)](https://open.spotify.com/album/2wY62BWaup5b7NB02dNPxm) | 3:35 | 2023-04-06 | 2023-08-25 |
 | [Good Woman \- Edit](https://open.spotify.com/track/69gBITZ6WnJFUIe1b2EMeg) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Good Woman \(Edit\)](https://open.spotify.com/album/6d9RyDwoZCI52HG5sQVUbz) | 3:35 | 2022-09-01 | 2023-03-09 |
+| [Got This Love](https://open.spotify.com/track/1TTBJlatS49oAHVmROQ02Z) | [Ralph Felix](https://open.spotify.com/artist/3i8emYvhsa8PmLH4zTAvjV) | [Got This Love](https://open.spotify.com/album/2FF5jW6XclssK21QEaYF0F) | 3:05 | 2024-07-22 |  |
 | [Gotta Dance](https://open.spotify.com/track/7fsbIRS0QbKgtgiSyPaDAf) | [Mike D' Jais](https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq) | [Gotta Dance](https://open.spotify.com/album/7wA4GPJlfCzw8EZfDohnTP) | 3:17 | 2023-01-12 |  |
 | [H O U S E](https://open.spotify.com/track/7zbqPeaFvWCKwkITKFI8V7) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [Missy](https://open.spotify.com/artist/1YILZCOXQSwtHs7CbbU0S4) | [H O U S E](https://open.spotify.com/album/4LBcLvu0gELWABBgO4DwfA) | 5:42 | 2022-04-14 | 2022-07-29 |
 | [Hands](https://open.spotify.com/track/5u1mG6G7YKeI7mmebulqUT) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Hands](https://open.spotify.com/album/44xvwDapMZ387AQbNoBSGW) | 2:28 | 2024-04-09 |  |
@@ -416,7 +417,7 @@
 | [They Don't Know \- Radio Edit](https://open.spotify.com/track/3ddsRCIG5TcpytqsfTOnX1) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [They Don't Know \(Radio Edit\)](https://open.spotify.com/album/3PFPHmT6f2Meat5xuT42MV) | 2:41 | 2022-04-14 | 2024-04-12 |
 | [Thin Line](https://open.spotify.com/track/10bmUjdCwAcLNMaFs6BLNO) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Thin Line](https://open.spotify.com/album/2SNatJfvvM3VT444888Mgk) | 3:08 | 2022-04-14 | 2024-02-01 |
 | [Think About You](https://open.spotify.com/track/5d5VMeHx2y623Ejj5JHC8m) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [Think About You](https://open.spotify.com/album/3dTfmlo34vmVlv9Zk1Jgc1) | 2:58 | 2023-05-25 | 2023-09-04 |
-| [Tighten Up](https://open.spotify.com/track/1k8tGEqjmXqjkYW9sMTd8V) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Tighten Up](https://open.spotify.com/album/7B0HytuKozCrtOQ9PxSTsp) | 2:53 | 2024-02-29 |  |
+| [Tighten Up](https://open.spotify.com/track/1k8tGEqjmXqjkYW9sMTd8V) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Tighten Up](https://open.spotify.com/album/7B0HytuKozCrtOQ9PxSTsp) | 2:53 | 2024-02-29 | 2024-07-25 |
 | [To The Edge](https://open.spotify.com/track/3NXQNu3prstzuveOGaZ5SG) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [To The Edge](https://open.spotify.com/album/2goO9zUUcVVarJaIaJ7b4r) | 2:12 | 2024-04-25 | 2024-07-19 |
 | [Tondo](https://open.spotify.com/track/0csz09qS2n8Jo7LogHKu7j) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eko Roosevelt](https://open.spotify.com/artist/7hs75D38FalYWr7BDO1WPh) | [ENERGY \(Deluxe\)](https://open.spotify.com/album/6wp1us3xBnYz5qldxrZXRf) | 5:29 | 2022-04-14 | 2024-03-01 |
 | [Trapped \- Club Mix](https://open.spotify.com/track/2sekK4cTkVmvC7YuikKyCF) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Hotswing](https://open.spotify.com/artist/4c1uPButBrvsYP2XDrY0fe) | [Trapped](https://open.spotify.com/album/0Hxtes4PBdDwW22sgGf9Z0) | 2:33 | 2024-06-04 |  |

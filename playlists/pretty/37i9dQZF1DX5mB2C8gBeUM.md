@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Kassi Ashton
 
-[Spotify](https://open.spotify.com/user/spotify) - 919,146 likes - 127 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 919,129 likes - 127 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

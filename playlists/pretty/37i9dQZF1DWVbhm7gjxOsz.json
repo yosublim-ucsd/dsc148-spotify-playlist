@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 82139,
+  "num_followers": 82279,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Sings Just One Look And Other Memorable Selections",
-        "url": "https://open.spotify.com/album/2CLiFy7JO1bmkNV6LFEMix"
-      },
-      "artists": [
-        {
-          "name": "Doris Troy",
-          "url": "https://open.spotify.com/artist/3jiBDfjnWIdLQEEOdKqZex"
-        }
-      ],
-      "duration_ms": 151906,
-      "name": "Just One Look",
-      "url": "https://open.spotify.com/track/154uJXAUVoqvV5on0w03a0"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Baby, I'm For Real",
         "url": "https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 201866,
       "name": "Baby, I'm For Real",
       "url": "https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Sings Just One Look And Other Memorable Selections",
+        "url": "https://open.spotify.com/album/2CLiFy7JO1bmkNV6LFEMix"
+      },
+      "artists": [
+        {
+          "name": "Doris Troy",
+          "url": "https://open.spotify.com/artist/3jiBDfjnWIdLQEEOdKqZex"
+        }
+      ],
+      "duration_ms": 151906,
+      "name": "Just One Look",
+      "url": "https://open.spotify.com/track/154uJXAUVoqvV5on0w03a0"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "The One Who Really Loves You",
-        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "You Beat Me To The Punch",
-      "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Presenting The Danleers",
         "url": "https://open.spotify.com/album/2wkPlFZWjudOYq89zuFX9R"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 133226,
       "name": "One Summer Night",
       "url": "https://open.spotify.com/track/5GEsOz5Pbln0j2RcmBGLa4"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "The One Who Really Loves You",
+        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "You Beat Me To The Punch",
+      "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -839,34 +839,18 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "The One Who Really Loves You",
-        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
+        "name": "With Love",
+        "url": "https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud"
       },
       "artists": [
         {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+          "name": "Ralfi Pagan",
+          "url": "https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz"
         }
       ],
-      "duration_ms": 147466,
-      "name": "The One Who Really Loves You - Single Version",
-      "url": "https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "Frost Presents...Raza Radio",
-        "url": "https://open.spotify.com/album/5OcYPEWf4e0R673hpjY3Mj"
-      },
-      "artists": [
-        {
-          "name": "Lighter Shade Of Brown",
-          "url": "https://open.spotify.com/artist/7AyywyUcQP99oit737gZK2"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "On A Sunday Afternoon",
-      "url": "https://open.spotify.com/track/1cM25iyn6zKOfnywTNtvyb"
+      "duration_ms": 285098,
+      "name": "Make It With You",
+      "url": "https://open.spotify.com/track/1MTjPvCioj81IsSX66IB2a"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -887,18 +871,34 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "With Love",
-        "url": "https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud"
+        "name": "Frost Presents...Raza Radio",
+        "url": "https://open.spotify.com/album/5OcYPEWf4e0R673hpjY3Mj"
       },
       "artists": [
         {
-          "name": "Ralfi Pagan",
-          "url": "https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz"
+          "name": "Lighter Shade Of Brown",
+          "url": "https://open.spotify.com/artist/7AyywyUcQP99oit737gZK2"
         }
       ],
-      "duration_ms": 285098,
-      "name": "Make It With You",
-      "url": "https://open.spotify.com/track/1MTjPvCioj81IsSX66IB2a"
+      "duration_ms": 212880,
+      "name": "On A Sunday Afternoon",
+      "url": "https://open.spotify.com/track/1cM25iyn6zKOfnywTNtvyb"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "The One Who Really Loves You",
+        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 147466,
+      "name": "The One Who Really Loves You - Single Version",
+      "url": "https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Breakfast Special",
-        "url": "https://open.spotify.com/album/0x2Hgl58dtwTdA1AdgG0Zb"
-      },
-      "artists": [
-        {
-          "name": "Pete Wingfield",
-          "url": "https://open.spotify.com/artist/3aXekkmx3vITr2rZSgpVDb"
-        }
-      ],
-      "duration_ms": 211001,
-      "name": "Eighteen With A Bullet",
-      "url": "https://open.spotify.com/track/5Db6sVQqeSoe8SN7JZrpPz"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/7Ab7hqMWNwYcUGCrltzX8r"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 216760,
       "name": "Hey There Lonely Girl",
       "url": "https://open.spotify.com/track/1MI8aQJAoaYhIaVNz5giKB"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Breakfast Special",
+        "url": "https://open.spotify.com/album/0x2Hgl58dtwTdA1AdgG0Zb"
+      },
+      "artists": [
+        {
+          "name": "Pete Wingfield",
+          "url": "https://open.spotify.com/artist/3aXekkmx3vITr2rZSgpVDb"
+        }
+      ],
+      "duration_ms": 211001,
+      "name": "Eighteen With A Bullet",
+      "url": "https://open.spotify.com/track/5Db6sVQqeSoe8SN7JZrpPz"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Seems Like",
-        "url": "https://open.spotify.com/album/3IaDaFiGolUI09rcE8q5m8"
-      },
-      "artists": [
-        {
-          "name": "Thee Sinseers",
-          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
-        }
-      ],
-      "duration_ms": 194020,
-      "name": "Seems Like",
-      "url": "https://open.spotify.com/track/6766HkoEEO355KEzrJNU2T"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "SalSoul",
         "url": "https://open.spotify.com/album/6ehe5lPsXzxcNU69NSCi0W"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 270826,
       "name": "Mujer Mia",
       "url": "https://open.spotify.com/track/6uiqzXiQCvAvoeDcjbRbRC"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Seems Like",
+        "url": "https://open.spotify.com/album/3IaDaFiGolUI09rcE8q5m8"
+      },
+      "artists": [
+        {
+          "name": "Thee Sinseers",
+          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
+        }
+      ],
+      "duration_ms": 194020,
+      "name": "Seems Like",
+      "url": "https://open.spotify.com/track/6766HkoEEO355KEzrJNU2T"
     },
     {
       "added_at": "2024-01-05 17:02:31",

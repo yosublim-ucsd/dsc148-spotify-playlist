@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain](/playlists/plain/0t5sCAa21rb3bjm4Yl7xDv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0t5sCAa21rb3bjm4Yl7xDv)
 
-### [Pop Girl Summer](https://open.spotify.com/playlist/0t5sCAa21rb3bjm4Yl7xDv)
+### [pop girl summer](https://open.spotify.com/playlist/0t5sCAa21rb3bjm4Yl7xDv)
 
 > your favourite playlist's favourite playlist &lt;3\. shop this summer's pop collection <a href="https://www.umusic.ca/pages/POP">here</a>\. Cover: Chapell Roan; Sabrina Carpenter; Amaarae
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 79,834 likes - 103 songs - 5 hr 27 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 79,831 likes - 103 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 | 102 | [Jump](https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 |
 | 103 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 |
 
-Snapshot ID: `AAA5L8hSILtllo2sNBgkbhuYOSBnQCAx`
+Snapshot ID: `AAA5MB4xjePN3gxhwYChotyb+3+a0TbM`

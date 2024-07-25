@@ -4685,6 +4685,28 @@
     },
     {
       "album": {
+        "name": "La Isla Bonita",
+        "url": "https://open.spotify.com/album/70fZK2pDUWMEXv9xwfsAiC"
+      },
+      "artists": [
+        {
+          "name": "Saxena",
+          "url": "https://open.spotify.com/artist/4RmAlZapfAsWhj2k1pHsKe"
+        },
+        {
+          "name": "El Puffin",
+          "url": "https://open.spotify.com/artist/0euvIrtGV2Hth36A3Ygo3u"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158879,
+      "name": "La Isla Bonita",
+      "url": "https://open.spotify.com/track/2JV2fUnj0LSrpfym491dqX"
+    },
+    {
+      "album": {
         "name": "Lady (Hear Me Tonight)",
         "url": "https://open.spotify.com/album/0R69J465ReHXJ9Zyf8Pj4s"
       },

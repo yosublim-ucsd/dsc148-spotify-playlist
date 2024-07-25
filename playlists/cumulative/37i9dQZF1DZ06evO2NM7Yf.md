@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2NM7Yf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2NM7Yf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2NM7Yf)
 
-### [Acesta este Meg Smith.](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NM7Yf)
+### [This Is Meg Smith](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NM7Yf)
 
-> This is Meg Smith\. Piesele esențiale într\-un singur playlist.
+> This Is Meg Smith\. Los temas esenciales, todos en una lista.
 
 23 songs - 1 hr 8 min
 

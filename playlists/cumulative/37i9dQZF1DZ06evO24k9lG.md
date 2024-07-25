@@ -2,7 +2,7 @@
 
 ### [This Is Binomio de Oro de América](https://open.spotify.com/playlist/37i9dQZF1DZ06evO24k9lG)
 
-> This is Binomio de Oro de América\. Track\-track unggulan, semuanya dalam satu playlist.
+> This Is Binomio de Oro de América\. Los temas esenciales, todos en una lista.
 
 64 songs - 5 hr 4 min
 

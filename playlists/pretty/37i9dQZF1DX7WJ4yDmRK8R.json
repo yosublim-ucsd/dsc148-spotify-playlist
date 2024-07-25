@@ -1,6 +1,6 @@
 {
   "description": "This is the best of ska, new and classic. Cover: No Doubt",
-  "num_followers": 384226,
+  "num_followers": 384319,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-07-17 21:11:33",
       "album": {
-        "name": "Tears of a Clown",
-        "url": "https://open.spotify.com/album/3ySSPA5ZmFTi0q9HbdpKtw"
-      },
-      "artists": [
-        {
-          "name": "The Beat",
-          "url": "https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS"
-        }
-      ],
-      "duration_ms": 160026,
-      "name": "The Tears of a Clown",
-      "url": "https://open.spotify.com/track/7ejx2icT9lb1DijmynLvRb"
-    },
-    {
-      "added_at": "2024-07-17 21:11:33",
-      "album": {
         "name": "Kosmopoliturbo",
         "url": "https://open.spotify.com/album/0RGMKEJfpeWIUbSkZVWNYP"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 229813,
       "name": "Hey Road",
       "url": "https://open.spotify.com/track/0GnkpXQV1n2W6gJ5Mq4b9T"
+    },
+    {
+      "added_at": "2024-07-17 21:11:33",
+      "album": {
+        "name": "Tears of a Clown",
+        "url": "https://open.spotify.com/album/3ySSPA5ZmFTi0q9HbdpKtw"
+      },
+      "artists": [
+        {
+          "name": "The Beat",
+          "url": "https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS"
+        }
+      ],
+      "duration_ms": 160026,
+      "name": "The Tears of a Clown",
+      "url": "https://open.spotify.com/track/7ejx2icT9lb1DijmynLvRb"
     },
     {
       "added_at": "2024-07-17 21:11:33",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-07-17 21:11:33",
       "album": {
+        "name": "Arcade Perfect",
+        "url": "https://open.spotify.com/album/2ICTXbgW4rWcYWlSG1JtJ9"
+      },
+      "artists": [
+        {
+          "name": "Sonic Boom Six",
+          "url": "https://open.spotify.com/artist/3ccF37QB6LC4LqUfvtn5qb"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "Sound of a Revolution",
+      "url": "https://open.spotify.com/track/5iqoangjJT6emeXzZg2czr"
+    },
+    {
+      "added_at": "2024-07-17 21:11:33",
+      "album": {
         "name": "Upbeats & Beatdowns",
         "url": "https://open.spotify.com/album/7IUjcWJ3ucGT2C97McF1Ua"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 189266,
       "name": "No Reason",
       "url": "https://open.spotify.com/track/4vUG5WQAurJPNA5u5NLKPP"
-    },
-    {
-      "added_at": "2024-07-17 21:11:33",
-      "album": {
-        "name": "Arcade Perfect",
-        "url": "https://open.spotify.com/album/2ICTXbgW4rWcYWlSG1JtJ9"
-      },
-      "artists": [
-        {
-          "name": "Sonic Boom Six",
-          "url": "https://open.spotify.com/artist/3ccF37QB6LC4LqUfvtn5qb"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "Sound of a Revolution",
-      "url": "https://open.spotify.com/track/5iqoangjJT6emeXzZg2czr"
     },
     {
       "added_at": "2024-07-17 21:11:33",
@@ -1395,38 +1395,6 @@
     {
       "added_at": "2024-07-17 21:11:33",
       "album": {
-        "name": "Get Warmer",
-        "url": "https://open.spotify.com/album/2kGge9kVEDKWLMb4YsrmIs"
-      },
-      "artists": [
-        {
-          "name": "Bomb the Music Industry!",
-          "url": "https://open.spotify.com/artist/7mmU5GuOoyxoBAgOZkSVj7"
-        }
-      ],
-      "duration_ms": 282093,
-      "name": "I Don't Love You Anymore",
-      "url": "https://open.spotify.com/track/4IhBMMgZkrQybTajYXtmVE"
-    },
-    {
-      "added_at": "2024-07-17 21:11:33",
-      "album": {
-        "name": "Self Care",
-        "url": "https://open.spotify.com/album/1rb4vw3gnALa1HLMf3PA6X"
-      },
-      "artists": [
-        {
-          "name": "We Are The Union",
-          "url": "https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs"
-        }
-      ],
-      "duration_ms": 148938,
-      "name": "A Better Home",
-      "url": "https://open.spotify.com/track/3i9UTTZjKQfTAPcpGvYP5s"
-    },
-    {
-      "added_at": "2024-07-17 21:11:33",
-      "album": {
         "name": "Alo con las islas mutantes?",
         "url": "https://open.spotify.com/album/5YB4gdMdAM0HbRqPhLBRwM"
       },
@@ -1447,6 +1415,22 @@
     {
       "added_at": "2024-07-17 21:11:33",
       "album": {
+        "name": "Self Care",
+        "url": "https://open.spotify.com/album/1rb4vw3gnALa1HLMf3PA6X"
+      },
+      "artists": [
+        {
+          "name": "We Are The Union",
+          "url": "https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs"
+        }
+      ],
+      "duration_ms": 148938,
+      "name": "A Better Home",
+      "url": "https://open.spotify.com/track/3i9UTTZjKQfTAPcpGvYP5s"
+    },
+    {
+      "added_at": "2024-07-17 21:11:33",
+      "album": {
         "name": "When God Was Great",
         "url": "https://open.spotify.com/album/2GMkzDNISHUME6JBeT46D3"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 213754,
       "name": "LONELY BOY",
       "url": "https://open.spotify.com/track/7exeQYwgHvD9pLJlFdXWhU"
+    },
+    {
+      "added_at": "2024-07-17 21:11:33",
+      "album": {
+        "name": "Get Warmer",
+        "url": "https://open.spotify.com/album/2kGge9kVEDKWLMb4YsrmIs"
+      },
+      "artists": [
+        {
+          "name": "Bomb the Music Industry!",
+          "url": "https://open.spotify.com/artist/7mmU5GuOoyxoBAgOZkSVj7"
+        }
+      ],
+      "duration_ms": 282093,
+      "name": "I Don't Love You Anymore",
+      "url": "https://open.spotify.com/track/4IhBMMgZkrQybTajYXtmVE"
     },
     {
       "added_at": "2024-07-17 21:11:33",

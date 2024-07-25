@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 178802,
       "name": "K\u00f8benhavn (feat. Arif Murakami & Bargee)",
       "url": "https://open.spotify.com/track/1JnyapmYsRfnirBjc5xorh"
@@ -3852,6 +3852,36 @@
       "duration_ms": 134886,
       "name": "Tango",
       "url": "https://open.spotify.com/track/5TGveWo66AyNkhEbJyhhfY"
+    },
+    {
+      "album": {
+        "name": "Tappar kontroll",
+        "url": "https://open.spotify.com/album/1PzBGPCkSnJm1ZuECf5A50"
+      },
+      "artists": [
+        {
+          "name": "BELLMAN",
+          "url": "https://open.spotify.com/artist/7GVF8DDjYLdmf5Y4oJHsaC"
+        },
+        {
+          "name": "Blizzy",
+          "url": "https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp"
+        },
+        {
+          "name": "Imenella",
+          "url": "https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h"
+        },
+        {
+          "name": "SAMI",
+          "url": "https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176495,
+      "name": "Tappar kontroll",
+      "url": "https://open.spotify.com/track/3JzsfvZ8mUk0zW3thtxnx7"
     },
     {
       "album": {

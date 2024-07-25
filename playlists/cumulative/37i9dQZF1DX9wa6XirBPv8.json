@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Never Hungover Again",
+        "url": "https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf"
+      },
+      "artists": [
+        {
+          "name": "Joyce Manor",
+          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65000,
+      "name": "Catalina Fight Song",
+      "url": "https://open.spotify.com/track/2TqfK2N1kFoX7OySPCB7pQ"
+    },
+    {
+      "album": {
         "name": "Beneath Medicine Tree",
         "url": "https://open.spotify.com/album/2A3RTuMZ7RgGmcvTSpRe6A"
       },
@@ -1510,7 +1528,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 217573,
       "name": "Is This Thing On?",
       "url": "https://open.spotify.com/track/5dgyKLZKxfreuDaDQwEj9U"

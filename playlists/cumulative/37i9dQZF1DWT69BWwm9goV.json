@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-03",
-  "description": "A collection of songs from Spotify's new video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists. Cover: Hermanos Guti\u00e9rrez",
+  "description": "A collection of songs from Spotify's new video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists. Cover: Omar Apollo",
   "name": "OUTSIDE",
   "tracks": [
     {
@@ -198,6 +198,24 @@
       "duration_ms": 192922,
       "name": "Donde Est\u00e1s - Live from Spotify Green Screen",
       "url": "https://open.spotify.com/track/6qSx2AFL9pqYPoUrbKyeY5"
+    },
+    {
+      "album": {
+        "name": "Drifting (Spotify OUTSIDE Version) - Live from West Hollywood, CA",
+        "url": "https://open.spotify.com/album/2v6nZikT0egtkKZXkFhlnc"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256071,
+      "name": "Drifting - (Spotify OUTSIDE Version) - Live from West Hollywood, CA",
+      "url": "https://open.spotify.com/track/2PUXoqVN9bh9QEZaVsb8fe"
     },
     {
       "album": {

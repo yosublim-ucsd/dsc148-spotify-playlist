@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,420 songs - 2 day 5 hr 29 min
+1,421 songs - 2 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -759,7 +759,7 @@
 | [Memphis](https://open.spotify.com/track/5bIGzdHT1CQzFLx3oM5HEk) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa), [Nathan Kay](https://open.spotify.com/artist/0nnry0bfORXrg0du8Ml10f), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Memphis](https://open.spotify.com/album/2PbkjD4087IcLhi28LIZUM) | 2:39 | 2022-08-19 | 2023-01-13 |
 | [Mentor](https://open.spotify.com/track/11tfbPbvwBnDeiB0coMi4G) | [Random Dinu](https://open.spotify.com/artist/3mfI1TXFW4tXPQEklMqSsP) | [Mentor](https://open.spotify.com/album/0XRicJ10jdVBKieWYBZSbY) | 1:51 | 2023-04-27 |  |
 | [Mesa de plástico](https://open.spotify.com/track/0YKgAulXlGj90R9Zh9Yrft) | [LOFI LAND](https://open.spotify.com/artist/1pFOASn4amyKQUJm4SjeXe), [BOSSIFY](https://open.spotify.com/artist/7mhQk7Ki9ccyooQpecDQkR) | [Mesa de plástico](https://open.spotify.com/album/5AYJhtOqGYgMgOzXyvzVS8) | 1:59 | 2023-09-22 | 2024-01-12 |
-| [Mescal for the soul](https://open.spotify.com/track/0roHHMOuV0UNOzO1FkK7kq) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Mescal for the soul](https://open.spotify.com/album/6CZGJBIJjS8fEiL780elaX) | 2:14 | 2023-05-19 |  |
+| [Mescal for the soul](https://open.spotify.com/track/0roHHMOuV0UNOzO1FkK7kq) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Mescal for the soul](https://open.spotify.com/album/6CZGJBIJjS8fEiL780elaX) | 2:14 | 2023-05-19 | 2024-07-25 |
 | [Midnight Stroll](https://open.spotify.com/track/7b3jF2ZWTnkUpau3E78NNV) | [Sineg](https://open.spotify.com/artist/2dFzMUO0SoMadcJNogEmg9), [mariussax](https://open.spotify.com/artist/5w7HPDu1t1FSCEfjEm3tKE) | [Midnight Stroll](https://open.spotify.com/album/2H7aIS5A60Y0DBqxdYAtwt) | 1:52 | 2022-10-08 | 2023-09-22 |
 | [Midnight Sun](https://open.spotify.com/track/1Cqj266QvBLBNNhRFfupDj) | [MLTSMTHNG](https://open.spotify.com/artist/4qVhuxnsE1C2UrjYOPIRtL) | [Midnight Sun](https://open.spotify.com/album/1mP62AYCyg7eicascwllt9) | 2:15 | 2023-09-08 |  |
 | [Migrations](https://open.spotify.com/track/29vvz584HPBd2pCMS0QW3Y) | [Scasca](https://open.spotify.com/artist/2FjS1zPiO1Be9agHdsxJjo) | [Migrations](https://open.spotify.com/album/2DF1yOyOXqunpiNn9DmYmh) | 3:25 | 2022-01-27 | 2022-10-15 |
@@ -1257,6 +1257,7 @@
 | [that's real good](https://open.spotify.com/track/37qHh2U8yPm3SdbTCJxCBh) | [lofi potato](https://open.spotify.com/artist/6Xb3mzhQf3hYzwgY5eiwtU) | [that's real good](https://open.spotify.com/album/5bxL9J0CrlNHLzdMREul56) | 2:03 | 2024-07-19 |  |
 | [that's ruff](https://open.spotify.com/track/0dF279iuZy03BAB8sIMmF2) | [grenedine](https://open.spotify.com/artist/5Zl6z0uleWI3PhrBQFque1) | [that's ruff](https://open.spotify.com/album/0dG5DhrsguPh7hYMaoyRKl) | 1:43 | 2023-01-06 | 2023-09-05 |
 | [thats right](https://open.spotify.com/track/5kghYrWusPOZ2Ev7X93hw8) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [sundays](https://open.spotify.com/album/55499noDiWYNvCIKT35FVs) | 1:16 | 2022-01-27 | 2022-05-20 |
+| [The Blue Wasp](https://open.spotify.com/track/73uib3JEo1xh70wEvSAR45) | [Royal 63](https://open.spotify.com/artist/3uacTioaRYR9HiighlkFqJ) | [The Blue Wasp](https://open.spotify.com/album/5dzFSp3yCIVlF3QCs5LaAg) | 2:24 | 2024-07-19 |  |
 | [The Blue Wood forest](https://open.spotify.com/track/4oU6oP8h6MxwHdxpH9H4Fg) | [Vidstige](https://open.spotify.com/artist/1VT2USJnh1iwDdgyhMoWTR) | [The Blue Wood forest](https://open.spotify.com/album/7e11EFr7SNBz1Y9Bq6cxWI) | 2:19 | 2022-11-11 |  |
 | [The Brace](https://open.spotify.com/track/3m8nqt9hOcjayQ1dff4jgL) | [ID Labs](https://open.spotify.com/artist/26oVoq5QZzsm9MGhOyT2tv) | [Play How You Feel](https://open.spotify.com/album/5CzhTtsFWBjPUyOy8xiBKv) | 2:51 | 2022-01-27 | 2022-09-03 |
 | [The Chillest](https://open.spotify.com/track/6uA5tWVvj13MGLNxhHGxhr) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [The Chillest](https://open.spotify.com/album/0CrclNcvwEUbTl9zSFjkzW) | 2:31 | 2022-01-27 | 2023-05-20 |

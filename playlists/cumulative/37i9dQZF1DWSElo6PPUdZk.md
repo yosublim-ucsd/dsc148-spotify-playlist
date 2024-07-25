@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSElo6PPUdZk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSElo6PPUdZk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSElo6PPUdZk)
 
-### [Equal Punjabi Pop](https://open.spotify.com/playlist/37i9dQZF1DWSElo6PPUdZk)
+### [Women of Punjabi Pop](https://open.spotify.com/playlist/37i9dQZF1DWSElo6PPUdZk)
 
-> Catch the queens of Punjabi Pop\. Cover: Baani Sandhu
+> Catch the queens of Punjabi Pop\. Cover: Sunanda Sharma
 
 84 songs - 4 hr 28 min
 

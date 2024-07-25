@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Kl\u00f4 Pelgag",
-  "num_followers": 41358,
+  "num_followers": 41357,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-07-20 23:07:55",
       "album": {
+        "name": "Un peu d'amour",
+        "url": "https://open.spotify.com/album/0eUrSSgOBnidKw4sviTK7x"
+      },
+      "artists": [
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        }
+      ],
+      "duration_ms": 183203,
+      "name": "Un peu d'amour",
+      "url": "https://open.spotify.com/track/2S8Mp8yS3W4tDlxpj0sCbY"
+    },
+    {
+      "added_at": "2024-07-20 23:07:55",
+      "album": {
         "name": "C\u0152UR DE ICE",
         "url": "https://open.spotify.com/album/16q1SBIfIoTnp6jxlRugUe"
       },
@@ -587,18 +603,18 @@
     {
       "added_at": "2024-07-20 23:07:55",
       "album": {
-        "name": "Un peu d'amour",
-        "url": "https://open.spotify.com/album/0eUrSSgOBnidKw4sviTK7x"
+        "name": "H\u00c9H\u00c9 H\u00c9",
+        "url": "https://open.spotify.com/album/5Ja9Da9rK2h6NwaMSe9Eor"
       },
       "artists": [
         {
-          "name": "Koba LaD",
-          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
         }
       ],
-      "duration_ms": 183203,
-      "name": "Un peu d'amour",
-      "url": "https://open.spotify.com/track/2S8Mp8yS3W4tDlxpj0sCbY"
+      "duration_ms": 138326,
+      "name": "H\u00c9H\u00c9 H\u00c9",
+      "url": "https://open.spotify.com/track/1C4PROiF5jENfbksRBTTqD"
     },
     {
       "added_at": "2024-07-20 23:07:55",
@@ -623,38 +639,6 @@
     {
       "added_at": "2024-07-20 23:07:55",
       "album": {
-        "name": "H\u00c9H\u00c9 H\u00c9",
-        "url": "https://open.spotify.com/album/5Ja9Da9rK2h6NwaMSe9Eor"
-      },
-      "artists": [
-        {
-          "name": "Gambi",
-          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
-        }
-      ],
-      "duration_ms": 138326,
-      "name": "H\u00c9H\u00c9 H\u00c9",
-      "url": "https://open.spotify.com/track/1C4PROiF5jENfbksRBTTqD"
-    },
-    {
-      "added_at": "2024-07-20 23:07:55",
-      "album": {
-        "name": "Chaque seconde",
-        "url": "https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm"
-      },
-      "artists": [
-        {
-          "name": "Pierre Garnier",
-          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
-        }
-      ],
-      "duration_ms": 166333,
-      "name": "Chaque seconde",
-      "url": "https://open.spotify.com/track/5QKXM4zRBrVzofZJxlO5tL"
-    },
-    {
-      "added_at": "2024-07-20 23:07:55",
-      "album": {
         "name": "D&D",
         "url": "https://open.spotify.com/album/7EznJ3BjBGXxRgNSC6n610"
       },
@@ -675,22 +659,18 @@
     {
       "added_at": "2024-07-20 23:07:55",
       "album": {
-        "name": "PAF",
-        "url": "https://open.spotify.com/album/6pgypgF6c5yIrfmQ099g8x"
+        "name": "Chaque seconde",
+        "url": "https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm"
       },
       "artists": [
         {
-          "name": "Maes",
-          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
-        },
-        {
-          "name": "MB",
-          "url": "https://open.spotify.com/artist/2TDTS5K5hN0lAyfOOKIkoe"
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
         }
       ],
-      "duration_ms": 172500,
-      "name": "PAF",
-      "url": "https://open.spotify.com/track/2RGG3LWnqjEHpplIkieJqP"
+      "duration_ms": 166333,
+      "name": "Chaque seconde",
+      "url": "https://open.spotify.com/track/5QKXM4zRBrVzofZJxlO5tL"
     },
     {
       "added_at": "2024-07-20 23:07:55",
@@ -715,6 +695,42 @@
       "duration_ms": 167226,
       "name": "Tout y est",
       "url": "https://open.spotify.com/track/1W2zRAejDGNLqtqXpcrhVw"
+    },
+    {
+      "added_at": "2024-07-20 23:07:55",
+      "album": {
+        "name": "Monaco",
+        "url": "https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "duration_ms": 141314,
+      "name": "Monaco",
+      "url": "https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY"
+    },
+    {
+      "added_at": "2024-07-20 23:07:55",
+      "album": {
+        "name": "PAF",
+        "url": "https://open.spotify.com/album/6pgypgF6c5yIrfmQ099g8x"
+      },
+      "artists": [
+        {
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+        },
+        {
+          "name": "MB",
+          "url": "https://open.spotify.com/artist/2TDTS5K5hN0lAyfOOKIkoe"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "PAF",
+      "url": "https://open.spotify.com/track/2RGG3LWnqjEHpplIkieJqP"
     },
     {
       "added_at": "2024-07-20 23:07:55",
@@ -751,18 +767,18 @@
     {
       "added_at": "2024-07-20 23:07:55",
       "album": {
-        "name": "Monaco",
-        "url": "https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT"
+        "name": "LA M\u00caME HISTOIRE",
+        "url": "https://open.spotify.com/album/1q67Fv3Ccr8yAOrtVD7F7U"
       },
       "artists": [
         {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
         }
       ],
-      "duration_ms": 141314,
-      "name": "Monaco",
-      "url": "https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY"
+      "duration_ms": 132682,
+      "name": "LA M\u00caME HISTOIRE",
+      "url": "https://open.spotify.com/track/6I6nQIBRYlQLMT58liSyWI"
     },
     {
       "added_at": "2024-07-20 23:07:55",
@@ -867,22 +883,6 @@
     {
       "added_at": "2024-07-20 23:07:55",
       "album": {
-        "name": "LA M\u00caME HISTOIRE",
-        "url": "https://open.spotify.com/album/1q67Fv3Ccr8yAOrtVD7F7U"
-      },
-      "artists": [
-        {
-          "name": "Djadja & Dinaz",
-          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
-        }
-      ],
-      "duration_ms": 132682,
-      "name": "LA M\u00caME HISTOIRE",
-      "url": "https://open.spotify.com/track/6I6nQIBRYlQLMT58liSyWI"
-    },
-    {
-      "added_at": "2024-07-20 23:07:55",
-      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/535W2Yy9YCZeKqefhEMyM0"
       },
@@ -899,22 +899,22 @@
     {
       "added_at": "2024-07-20 23:07:55",
       "album": {
-        "name": "VICE CITY",
-        "url": "https://open.spotify.com/album/7dww12XouIt2bytCWNRoBp"
+        "name": "Coco (feat. Tayc)",
+        "url": "https://open.spotify.com/album/5hGsaXtfKcheS0r0AzMhgi"
       },
       "artists": [
         {
-          "name": "Sasso",
-          "url": "https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF"
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
         },
         {
-          "name": "Timal",
-          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         }
       ],
-      "duration_ms": 162406,
-      "name": "Bandito",
-      "url": "https://open.spotify.com/track/3H6npmJown5S3sDn3cbWDh"
+      "duration_ms": 198440,
+      "name": "Coco (feat. Tayc)",
+      "url": "https://open.spotify.com/track/6MG8MRq1odNsWCasM9IehW"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

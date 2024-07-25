@@ -1,12 +1,12 @@
 {
-  "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 19303,
+  "description": "This is Julia Vit\u00f3ria. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 19306,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zp2hAAAAAABeaJhfV4qkQbcMsFfZNJNu",
+  "snapshot_id": "Zp7ygAAAAADWLDMb5cJ2H+scaL6ESEVu",
   "tracks": [
     {
       "added_at": null,
@@ -695,6 +695,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Meu Pai \u00c9 Bom (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2fCwHzbPlz7WSywTzroQO5"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 532577,
+      "name": "O Meu Pai \u00c9 Bom - Ao Vivo",
+      "url": "https://open.spotify.com/track/1EZ8LejBperuDSPr004cpU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hambre Y Sed",
         "url": "https://open.spotify.com/album/39B0NsZrMpotIGetBEWNPB"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 361826,
       "name": "Hambre Y Sed",
       "url": "https://open.spotify.com/track/4uMXCCRjkxvw0M8qhbtmtp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vem Quebra As Barreiras / Come And Tear Down The Walls",
-        "url": "https://open.spotify.com/album/2wQQRNr2M5AkXMTPK6nQ2h"
-      },
-      "artists": [
-        {
-          "name": "REVERE",
-          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 366814,
-      "name": "Vem Quebra As Barreiras / Come And Tear Down The Walls",
-      "url": "https://open.spotify.com/track/1x1svONmCr8vlNnp3vwE2e"
     },
     {
       "added_at": null,
@@ -763,22 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Meu Pai \u00c9 Bom (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2fCwHzbPlz7WSywTzroQO5"
+        "name": "Vem Quebra As Barreiras / Come And Tear Down The Walls",
+        "url": "https://open.spotify.com/album/2wQQRNr2M5AkXMTPK6nQ2h"
       },
       "artists": [
         {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+          "name": "REVERE",
+          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
         },
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 532577,
-      "name": "O Meu Pai \u00c9 Bom - Ao Vivo",
-      "url": "https://open.spotify.com/track/1EZ8LejBperuDSPr004cpU"
+      "duration_ms": 366814,
+      "name": "Vem Quebra As Barreiras / Come And Tear Down The Walls",
+      "url": "https://open.spotify.com/track/1x1svONmCr8vlNnp3vwE2e"
     },
     {
       "added_at": null,

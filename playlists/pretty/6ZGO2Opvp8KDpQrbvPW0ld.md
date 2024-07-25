@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,060 likes - 300 songs - 10 hr 47 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,054 likes - 300 songs - 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 52 | [nothingtogive.](https://open.spotify.com/track/25Rke7votKRVEIFQRx30Cm) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [nothingtogive.](https://open.spotify.com/album/0c1nkjaYYp7SSMoca3qDAy) | 1:20 |
 | 53 | [La petite maison](https://open.spotify.com/track/7jE6BqZpOR2jizCfPG5Sij) | [Amess](https://open.spotify.com/artist/2lWv7a6ohSVtXArF7q4dWc), [Calvin Bennett](https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R), [Swilled](https://open.spotify.com/artist/3U86ENktrj7XqYyRPDS4t3) | [La petite maison](https://open.spotify.com/album/5eRkZU8CF17QMr33danAO6) | 2:15 |
 | 54 | [San Juan](https://open.spotify.com/track/7wSO5ESfEUJQjXWlaerGkF) | [Kokomiko](https://open.spotify.com/artist/1Tl7kataLF4lZip5jfVd7D), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Lost Journey](https://open.spotify.com/album/1EaIxd2aSJvvgn3q3wzsUo) | 2:18 |
-| 55 | [Running Down The Clock](https://open.spotify.com/track/4Ddnrk61poZM6ZxVXUzleb) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Hanni](https://open.spotify.com/artist/14E7RzXOsb9iMithqexVOd), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Running Down The Clock](https://open.spotify.com/album/2tRySwbwGZ4UAsydO4LKgI) | 2:08 |
+| 55 | [Running Down The Clock](https://open.spotify.com/track/4Ddnrk61poZM6ZxVXUzleb) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Hanni](https://open.spotify.com/artist/14E7RzXOsb9iMithqexVOd) | [Running Down The Clock](https://open.spotify.com/album/2tRySwbwGZ4UAsydO4LKgI) | 2:08 |
 | 56 | [gHST Bossa](https://open.spotify.com/track/1EFTdidOdaoMcoJl5Otp7Z) | [gHSTS & gUITARS](https://open.spotify.com/artist/34DHE51D7CmCNvHp9nFTJy) | [gHST Bossa](https://open.spotify.com/album/0katH6f8ybtbVZyKu1ym22) | 2:17 |
 | 57 | [City Ennui](https://open.spotify.com/track/037PNuhwweZLOtejTt5Fee) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [City Ennui](https://open.spotify.com/album/723QiMuwidO7fDmIsd9lRV) | 2:10 |
 | 58 | [meadows](https://open.spotify.com/track/324Z7ZTQr286BcP31L1RK5) | [ultmt.](https://open.spotify.com/artist/1aso54DoYofR39PLCLRAoF) | [meadows](https://open.spotify.com/album/0hwyIe4PoWYWVxAsSGCm4C) | 2:36 |

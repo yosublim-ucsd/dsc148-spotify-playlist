@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu?si=uw8Pr4YUQSiftuVfDdkfWA">Kenji</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,934 likes - 206 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,141 likes - 206 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [NOBODY](https://open.spotify.com/track/7pi7MJhs0Tq0t8pvgY2IAj) | [spaceluvrrr](https://open.spotify.com/artist/15b0BXl4cHzRDfGhupATdb) | [STILL HERE](https://open.spotify.com/album/3DNZTSGZ0uSrzNgbfkDgBV) | 2:37 |
+| 1 | [WAIT](https://open.spotify.com/track/5WN4n8HWfM5ypktR7CVWBc) | [spaceluvrrr](https://open.spotify.com/artist/15b0BXl4cHzRDfGhupATdb) | [STILL HERE](https://open.spotify.com/album/3DNZTSGZ0uSrzNgbfkDgBV) | 2:50 |
 | 2 | [Merlot](https://open.spotify.com/track/1qWEIjCuCRlRbtrPmtEvjb) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Sidney Gilliam](https://open.spotify.com/artist/4f3YbRd80O0uo81hswwwo5) | [Merlot](https://open.spotify.com/album/5GznepRbxSMHnnnxPNUYGt) | 4:06 |
 | 3 | [Mitsubishi](https://open.spotify.com/track/56wNhd1vo6qMqjCq1IDOS5) | [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9), [Lido](https://open.spotify.com/artist/1aSwrSGBNGMLn9ymttfRkk), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Mitsubishi](https://open.spotify.com/album/2KmPbuDAtm7mH0QwBJkWox) | 2:43 |
 | 4 | [perfect](https://open.spotify.com/track/6ZBMu5nXX0YO7O0DHphQQG) | [Mio](https://open.spotify.com/artist/1JfJjWsE2dwEFhcZG0zVlA), [Silas](https://open.spotify.com/artist/0bqtTNNyc3eZ9BSIO6aqBU) | [perfect](https://open.spotify.com/album/7e1AHTTVsfBciLWQyCLmeY) | 1:48 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 50 | [Over](https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Over](https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU) | 3:39 |
 | 51 | [Cancer](https://open.spotify.com/track/4j1zajKf9tpq0Nga9gJXwk) | [Khalil](https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4) | [Cancer](https://open.spotify.com/album/7yVd21yWqV2sCi2uo8u7Lp) | 2:43 |
 | 52 | [YOU GOT IT](https://open.spotify.com/track/6NXR2qUAqlYfYxdxmAZiom) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [YOU GOT IT](https://open.spotify.com/album/5slZaKUea8HPFAoCLkHBvb) | 2:10 |
-| 53 | [Just Imagine](https://open.spotify.com/track/7ryReXybZZwhpISu1gq9TV) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA), [eejebee](https://open.spotify.com/artist/5cFJUBx5psjJrIrLWWfrAu) | [Just Imagine](https://open.spotify.com/album/4ooUeAkwr8SmLFflcyKaYH) | 2:39 |
+| 53 | [Just Imagine...](https://open.spotify.com/track/7ryReXybZZwhpISu1gq9TV) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA), [eejebee](https://open.spotify.com/artist/5cFJUBx5psjJrIrLWWfrAu) | [Just Imagine...](https://open.spotify.com/album/4ooUeAkwr8SmLFflcyKaYH) | 2:39 |
 | 54 | [Ego](https://open.spotify.com/track/4m1lfvUr5fPaZm4eMVPMk0) | [Kennedy Ryon](https://open.spotify.com/artist/02QGxgemaZGHvNZBDn53yH) | [Ego](https://open.spotify.com/album/0DprEFla4IOVy7uRjm7oRI) | 3:22 |
 | 55 | [Problems](https://open.spotify.com/track/4eGSvd3hG1CkRkYlgFUeEV) | [OVI WOOD](https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ) | [Problems](https://open.spotify.com/album/5mTVYWszPZP25rc0qsK8Lx) | 2:40 |
 | 56 | [Receipts](https://open.spotify.com/track/2xOjybeL1vGxDldY7IDnsw) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Receipts](https://open.spotify.com/album/5ReTSrbMWIIW8UN8ZCD7IP) | 3:24 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 61 | [Soldier](https://open.spotify.com/track/3oye3VyqKTfffB8D3KdkGb) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Pink Magnolia \(Deluxe\)](https://open.spotify.com/album/34gCWRw6h4xYIqzKctIx8x) | 2:53 |
 | 62 | [Switch](https://open.spotify.com/track/57TWkgQVyTCzffOzMJKens) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [Switch](https://open.spotify.com/album/1iFSSMmk9eJGPhiOw7Gk77) | 2:53 |
 | 63 | [Someday](https://open.spotify.com/track/243MZdDZaiZwNw5UMIUcMn) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Someday](https://open.spotify.com/album/6m1UOy8xyZBjmz33YPuWwY) | 3:27 |
-| 64 | [Radio](https://open.spotify.com/track/5YUZNJkw1uevrtMPap0GDe) | [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2) | [Radio](https://open.spotify.com/album/7ajym1S3pJ6Bxr5qaVD52v) | 2:46 |
+| 64 | [Radio](https://open.spotify.com/track/5YUZNJkw1uevrtMPap0GDe) | [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [Radio](https://open.spotify.com/album/7ajym1S3pJ6Bxr5qaVD52v) | 2:46 |
 | 65 | [Nothin](https://open.spotify.com/track/4EG0uKrIrcSfsNNygY7zuq) | [UNA MIA](https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0) | [AIRBORNE](https://open.spotify.com/album/4oLfsjBh5p3perS6LqkYMA) | 2:54 |
 | 66 | [Cha Cha Freestyle](https://open.spotify.com/track/5rsw7gLiwKCB2Ycg7FwGxg) | [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [Cha Cha Freestyle](https://open.spotify.com/album/77JtslXE54S8W10OFCnt49) | 2:41 |
 | 67 | [My Eyes Will Dry](https://open.spotify.com/track/4YxOdOIpybIBjtN29LQZpO) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x) | [My Eyes Will Dry](https://open.spotify.com/album/5ncJKXdmqnHrAlgAD8aHuh) | 3:06 |
@@ -215,4 +215,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 205 | [Sunny Days](https://open.spotify.com/track/3gXnOahT4VaUb6JyEjYEvz) | [Kennedy Ryon](https://open.spotify.com/artist/02QGxgemaZGHvNZBDn53yH) | [Sunny Days](https://open.spotify.com/album/7fQrvuCGqLccjHRrRSKYHe) | 4:22 |
 | 206 | [Mango](https://open.spotify.com/track/4nQwVeAVqJOvb87LRblkzq) | [Aka Kelzz](https://open.spotify.com/artist/6t4XItjt4Lsk0bCBH3KGpb), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Mango](https://open.spotify.com/album/3uWMI4berrdyIKLjqMlip4) | 2:12 |
 
-Snapshot ID: `ZprBGgAAAABLxITabDTk7jpRxEvDRxO3`
+Snapshot ID: `ZqC0FgAAAABKV2RbavEfvRwboEx/2KoX`

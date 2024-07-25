@@ -1,10 +1,10 @@
 {
   "description": "next gen pop Cover: Artemas",
-  "num_followers": 1305441,
+  "num_followers": 1305392,
   "original_name": "Pop Sauce",
   "owner": {
-    "name": "Spotify",
-    "url": "https://open.spotify.com/user/spotify"
+    "name": "",
+    "url": "https://open.spotify.com/user/null"
   },
   "snapshot_id": "ZpnkwAAAAAD10xm94sRoVqjq/NBkQk9U",
   "tracks": [
@@ -180,7 +180,7 @@
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 213460,
+      "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
     },

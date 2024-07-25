@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 77024,
+  "num_followers": 77056,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -27,8 +27,8 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "20 Grandes Sucessos De Alceu Valen\u00e7a",
-        "url": "https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9"
+        "name": "Sete Desejos",
+        "url": "https://open.spotify.com/album/5fN3QZFYtSrgDRlAvjILBD"
       },
       "artists": [
         {
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
         }
       ],
-      "duration_ms": 288160,
-      "name": "Anuncia\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/661Ns9G25zHdih4qVshBO7"
+      "duration_ms": 268760,
+      "name": "La Belle De Jour",
+      "url": "https://open.spotify.com/track/7CdDIvw3jvjNaIs5m3mM4A"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -115,8 +115,8 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Sete Desejos",
-        "url": "https://open.spotify.com/album/5fN3QZFYtSrgDRlAvjILBD"
+        "name": "20 Grandes Sucessos De Alceu Valen\u00e7a",
+        "url": "https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9"
       },
       "artists": [
         {
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
         }
       ],
-      "duration_ms": 268760,
-      "name": "La Belle De Jour",
-      "url": "https://open.spotify.com/track/7CdDIvw3jvjNaIs5m3mM4A"
+      "duration_ms": 288160,
+      "name": "Anuncia\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/661Ns9G25zHdih4qVshBO7"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Los Sebosos Postizos Interpretam Jorge Ben Jor",
-        "url": "https://open.spotify.com/album/4nGU7VtQYF9rIpN0cXrThb"
-      },
-      "artists": [
-        {
-          "name": "Los Sebosos Postizos",
-          "url": "https://open.spotify.com/artist/6J3woQCTe8Tk7APW7vjy4H"
-        }
-      ],
-      "duration_ms": 248106,
-      "name": "Minha Teimosia, uma Arma pra Te Conquistar",
-      "url": "https://open.spotify.com/track/0bgMcNCgj6fhJXxnQ0LADj"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Para\u00edso da Miragem",
         "url": "https://open.spotify.com/album/62WF6z5NAbTK5sPOc3BxRy"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 228895,
       "name": "Paraquedas",
       "url": "https://open.spotify.com/track/0S7g8mY7IsSvP4g8YouHel"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Los Sebosos Postizos Interpretam Jorge Ben Jor",
+        "url": "https://open.spotify.com/album/4nGU7VtQYF9rIpN0cXrThb"
+      },
+      "artists": [
+        {
+          "name": "Los Sebosos Postizos",
+          "url": "https://open.spotify.com/artist/6J3woQCTe8Tk7APW7vjy4H"
+        }
+      ],
+      "duration_ms": 248106,
+      "name": "Minha Teimosia, uma Arma pra Te Conquistar",
+      "url": "https://open.spotify.com/track/0bgMcNCgj6fhJXxnQ0LADj"
     },
     {
       "added_at": "2022-09-22 18:13:04",

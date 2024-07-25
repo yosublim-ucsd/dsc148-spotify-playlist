@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 11,030 likes - 28 songs - 1 hr 44 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 11,033 likes - 28 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 21 | [Disgust](https://open.spotify.com/track/3f5eXhDMnUkb36qG9KEaRk) | [A Place To Bury Strangers](https://open.spotify.com/artist/3kx1S2P2Qq3a9bG4DGsAjR) | [Disgust](https://open.spotify.com/album/6gxjElDERzl6InNq2jMSjq) | 4:24 |
 | 22 | [Already Over](https://open.spotify.com/track/4agIowpFzd79uFjRs8g6F9) | [The Soundcarriers](https://open.spotify.com/artist/5Yp3YCgu7Vi0KX9ARA0jYc) | [Already Over](https://open.spotify.com/album/531W3gtIgozzW3JTzGaZcQ) | 2:43 |
 | 23 | [Kiki, You Complete Me](https://open.spotify.com/track/6uKXaJakLmZr415jyCZGsa) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Kiki, You Complete Me](https://open.spotify.com/album/6VNDXYWrHAmQJrgmecdPLI) | 3:01 |
-| 24 | [Knife Bouquet](https://open.spotify.com/track/5pnQXsBpGT8HwtATuA3nIl) | [Death Goals](https://open.spotify.com/artist/00I2SJI3kqtdl3IWdAPTk5), [Matt Reynolds](https://open.spotify.com/artist/6pL4z6QSZfokrCCRslx87g) | [Death Goals \- Knife Bouquet](https://open.spotify.com/album/36Yw3cI1B9NOePqZmAtTo5) | 4:30 |
+| 24 | [Knife Bouquet](https://open.spotify.com/track/5pnQXsBpGT8HwtATuA3nIl) | [Death Goals](https://open.spotify.com/artist/00I2SJI3kqtdl3IWdAPTk5), [Matt Reynolds](https://open.spotify.com/artist/6pL4z6QSZfokrCCRslx87g) | [Knife Bouquet](https://open.spotify.com/album/36Yw3cI1B9NOePqZmAtTo5) | 4:30 |
 | 25 | [Wanted](https://open.spotify.com/track/1ZPHskvnXF2h2TMBs7upUk) | [Noun](https://open.spotify.com/artist/4iJf7GRdGbJS8GRf2TBFwQ) | [Wanted/Consumed](https://open.spotify.com/album/04tGsrCRlizpegevEyNJrH) | 3:05 |
 | 26 | [Gettin' Over](https://open.spotify.com/track/0PMJTG3gKomAHZyemyIg3c) | [Denitia](https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp) | [Gettin' Over](https://open.spotify.com/album/54dyBwr1oXGHPMrLT3Y1x6) | 3:04 |
 | 27 | [Gem](https://open.spotify.com/track/16cwLjBlzS1dSJ8rWiJy8h) | [Beachwood Sparks](https://open.spotify.com/artist/07tmbQsiTfXekPkbovBERR) | [Across The River Of Stars](https://open.spotify.com/album/1heQvEzlKWxA604zcxIIVB) | 3:54 |

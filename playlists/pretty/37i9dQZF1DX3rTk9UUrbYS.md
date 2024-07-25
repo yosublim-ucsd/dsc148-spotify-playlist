@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,968 likes - 100 songs - 12 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,999 likes - 100 songs - 12 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 52 | [Tepe](https://open.spotify.com/track/3U66YsEEXqz0rig8U0bVNd) | [Konstrukt](https://open.spotify.com/artist/31LWw1daUaifpCWuXKKey9), [Peter Brötzmann](https://open.spotify.com/artist/5DlFW9TwvDgSJHJuufuiAO) | [Dolunay](https://open.spotify.com/album/2w5jxwOWbkn7ci66PmUmmD) | 3:27 |
 | 53 | [Third Planet](https://open.spotify.com/track/1P8fo6JhHVnAsoVI8JHjz2) | [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX), [Sun Ra & His Arkestra](https://open.spotify.com/artist/1hATsMMFoS9KKP7yI6ENFw) | [Horizon](https://open.spotify.com/album/5qsSGj5K652dW4Pd1UQbgB) | 4:55 |
 | 54 | [Ceiba Portal](https://open.spotify.com/track/6tVppbfMTjDEZtIyCTVc9z) | [Angelica Sanchez](https://open.spotify.com/artist/5nTk4mPlKGQn2HCrJIsEFi), [Marilyn Crispell](https://open.spotify.com/artist/0w4mLSXg39n1UuyK7eNLTD) | [How to Turn the Moon](https://open.spotify.com/album/2Av1aOBp5UDgNH3RkryrN8) | 8:10 |
-| 55 | [Bold Dream](https://open.spotify.com/track/0x9UCjrqI1D3pBeGDqxRk9) | [Flock](https://open.spotify.com/artist/5c4ETn2xdmdKYUm29Ht3kN), [Bex Burch](https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ), [Sarathy Korwar](https://open.spotify.com/artist/5GzH8EsRPqgNjNo3oBfRvk) | [Bold Dream](https://open.spotify.com/album/4Mi8YE2A7ZJXvpt4c6UejO) | 6:12 |
+| 55 | [Bold Dream](https://open.spotify.com/track/0x9UCjrqI1D3pBeGDqxRk9) | [Flock](https://open.spotify.com/artist/5c4ETn2xdmdKYUm29Ht3kN), [Bex Burch](https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ), [Sarathy Korwar](https://open.spotify.com/artist/5GzH8EsRPqgNjNo3oBfRvk), [Danalogue](https://open.spotify.com/artist/6lhPEH73wnzXY8agYbpdPu), [Al MacSween](https://open.spotify.com/artist/2zEEuFzo9LepOkkCtGnCbu), [Tamar Osborn](https://open.spotify.com/artist/6HdadX6rv2g0EWghE5KkPj) | [Bold Dream](https://open.spotify.com/album/4Mi8YE2A7ZJXvpt4c6UejO) | 6:12 |
 | 56 | [Twombly at New Church](https://open.spotify.com/track/5hr1OI7kdIRsplcc4i1nA5) | [Rob Mazurek](https://open.spotify.com/artist/7uWd7df9GwjSZqo1cVF7Qs) | [Rome](https://open.spotify.com/album/6C3eLGlifDvM09GaJBu5tl) | 9:23 |
 | 57 | [Composite](https://open.spotify.com/track/2IXxhyBkczi3kz6QRWuIsQ) | [Trio 3](https://open.spotify.com/artist/53psjKXqjEs7i8Xgw1xxNq) | [Visiting Texture](https://open.spotify.com/album/4ZQzLMdMBdyfONnftLOzgN) | 6:39 |
 | 58 | [Cinema: entr'acte symphonique de Relache \(arr\. for chamber ensemble\)](https://open.spotify.com/track/0dixluAn0piS3iY1JsoQI0) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Fumio Yasuda](https://open.spotify.com/artist/119ZjIwmcMJo9hEFWaczPX), [Joachim Badenhorst](https://open.spotify.com/artist/4WdhTZmQC14NRbEUSPb2qA), [Julie Läderach](https://open.spotify.com/artist/3W1oujj8zBBHdNKHj4pV2e) | [Erik Satie: Musique d'entracte](https://open.spotify.com/album/32FZhvtuj2SQ4jZsKKGdGc) | 6:15 |

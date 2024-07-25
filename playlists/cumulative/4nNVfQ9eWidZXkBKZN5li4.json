@@ -5931,6 +5931,32 @@
     },
     {
       "album": {
+        "name": "Shaukan (From \"Ulajh\")",
+        "url": "https://open.spotify.com/album/1CIx5XZpyeejICi2HzRMAb"
+      },
+      "artists": [
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167834,
+      "name": "Shaukan (From \"Ulajh\")",
+      "url": "https://open.spotify.com/track/4kXTOzcY0VjJtQ8bDcj6p3"
+    },
+    {
+      "album": {
         "name": "Qala (Music From The Netflix Film)",
         "url": "https://open.spotify.com/album/3yVX4sKtPoqFjBKOVyJenW"
       },

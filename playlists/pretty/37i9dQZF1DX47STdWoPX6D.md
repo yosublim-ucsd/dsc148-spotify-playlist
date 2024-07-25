@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > New songs from CHH's up and coming artists!  Cover: <a href="spotify:artist:2Vt6gyhUH7Vj2cybfQWOqM">Parris Chariz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,432 likes - 55 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,450 likes - 55 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 10 | [Greater \(Who Rollin'\)](https://open.spotify.com/track/0dRjTEnEfIaYHDZJTw2NLE) | [Th3 Saga](https://open.spotify.com/artist/7jLwldFATvydUsOIiJV2Lp) | [Greater \(Who Rollin'\)](https://open.spotify.com/album/16zPRMVQCFoGtVckKsE71e) | 2:35 |
 | 11 | [Run It](https://open.spotify.com/track/3Nfwi4mUJORfeYNR9dx36x) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [CJ Emulous](https://open.spotify.com/artist/5Jgv9sRXt4V3TwSU1H41eQ), [Oracle](https://open.spotify.com/artist/6sXv5zFGsIoy25LYQgNqLf) | [Run It](https://open.spotify.com/album/1lbAbDcnFPJFtcolmACBMt) | 2:19 |
 | 12 | [Stay Around](https://open.spotify.com/track/2Qa0nGfM5aqbt64KpP9PPR) | [Dj Em D](https://open.spotify.com/artist/2mMbRzugGWUXcyePyzTxK0), [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Stay Around](https://open.spotify.com/album/1iDzsnX71TnbYEU6PLQUd4) | 2:49 |
-| 13 | [Need You](https://open.spotify.com/track/3VBrgyMHg6OMZsma32Hevu) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [KMO Shamaal](https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF) | [Need You](https://open.spotify.com/album/6ILaidt9jDAme4TVSOMDnF) | 2:55 |
+| 13 | [Need You](https://open.spotify.com/track/3VBrgyMHg6OMZsma32Hevu) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [KMO Shamaal](https://open.spotify.com/artist/5PnFKm9triVLQtIqpO90D2) | [Need You](https://open.spotify.com/album/6ILaidt9jDAme4TVSOMDnF) | 2:55 |
 | 14 | [GLOW STICK](https://open.spotify.com/track/2dpxSEvzjJArYYtG60kG4g) | [JStu](https://open.spotify.com/artist/1XPqOoA9Vz9PbFELTX7gHh), [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2) | [GLOW STICK](https://open.spotify.com/album/14gg5eALKJ37Ud6D8m6pBZ) | 2:00 |
 | 15 | [Holy Ghost](https://open.spotify.com/track/19b2G4T5aYMWapNWh6BDYd) | [SNT\. VINCENT](https://open.spotify.com/artist/2xj217FNOxvAhzZBjwkMik) | [Holy Ghost](https://open.spotify.com/album/6xB9RWAtKWNWZLVFuaCLcX) | 3:13 |
 | 16 | [Battlecry](https://open.spotify.com/track/29Qxw6eUU2NJv4OxpzSl0r) | [J\-Phish](https://open.spotify.com/artist/2ywgji4PasTLKpHKNHJxSN), [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj) | [Battlecry](https://open.spotify.com/album/5gAhW1oOx3Bkc0lO5qemRb) | 2:30 |

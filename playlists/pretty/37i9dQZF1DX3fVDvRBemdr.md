@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 ### [Liever Hollands](https://open.spotify.com/playlist/37i9dQZF1DX3fVDvRBemdr)
 
-> De nieuwste Hollandse hits\. Cover: André Hazes & Mart Hoogkamer
+> De nieuwste Hollandse hits\. Cover: Gerard Palts & Trafassi
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,372 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,399 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 69 | [Stapelgek Op Jou](https://open.spotify.com/track/2HlBFknY6RmzzAcJOd7U1c) | [Marvin de Geest](https://open.spotify.com/artist/1EjFOZptMvuufEtWCMzsES) | [Stapelgek Op Jou](https://open.spotify.com/album/7c9rzkiEHY8QLShd4J92ry) | 3:33 |
 | 70 | [Alles Met Jou](https://open.spotify.com/track/4jXjI1kipE0EJvnNTMfnMn) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Alles Met Jou](https://open.spotify.com/album/78XaAfFng3Ad9GErnBWnRe) | 2:40 |
 
-Snapshot ID: `ZqACDgAAAADH3Qv+F6ZJ6ZCc5wIC0TRi`
+Snapshot ID: `ZqCnNgAAAADUsbmtshZnxoofpuKQUWPu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Andy Rivera, Pirlo
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,610 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,618 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 | 33 | [Sin Señal](https://open.spotify.com/track/0Vcd3Kvbkso4emk1pYARah) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7), [Unicornio Records](https://open.spotify.com/artist/3y26UMODbF4qCIG8zFVPaG) | [Sin Señal](https://open.spotify.com/album/48sx7cgN8pCgk8NvwfX3KK) | 3:25 |
 | 34 | [Celebrando](https://open.spotify.com/track/28l5P6yBrjBMAvgFm1uiQ4) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Celebrando](https://open.spotify.com/album/3vM9T5faPuqqEbZJ0wYPN3) | 3:27 |
 | 35 | [WOW](https://open.spotify.com/track/4I9U5XBHs37jV9pRo3VLTa) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [WOW](https://open.spotify.com/album/22eepM8FdWx13R7aGAO1gH) | 2:51 |
-| 36 | [Esteban Rojas Hotline: Cobuz & Bustta](https://open.spotify.com/track/1ekyUJAtwt1VvoUQNcgWrf) | [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU) | [Esteban Rojas Hotline: Cobuz & Bustta](https://open.spotify.com/album/294JtJhmt9pSQARdmgEQBb) | 3:32 |
+| 36 | [Esteban Rojas Hotline: Cobuz & Bustta](https://open.spotify.com/track/1ekyUJAtwt1VvoUQNcgWrf) | [Hotline](https://open.spotify.com/artist/7bREtK4u5IPvjEDrZE9hnK), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU) | [Esteban Rojas Hotline: Cobuz & Bustta](https://open.spotify.com/album/294JtJhmt9pSQARdmgEQBb) | 3:32 |
 | 37 | [Chamito Maraña](https://open.spotify.com/track/3a4dJXsZHfGe5cQd2WY2ir) | [Jack Russell](https://open.spotify.com/artist/1eYgSi9O2AX4sLhR06HKCz) | [Chamito Maraña](https://open.spotify.com/album/4vwrfO8tB0poe7NyjMjCp4) | 4:32 |
 | 38 | [Putero](https://open.spotify.com/track/1dAPH16FxFISqNNqYkOwg5) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [The Good Trip](https://open.spotify.com/album/0xlPK1D3VcRtgT29aZX2VY) | 3:09 |
 | 39 | [Q 'VacilOn](https://open.spotify.com/track/1WsBNIhyn8z2UnuvlFTJM4) | [Skisia2](https://open.spotify.com/artist/0i2AykTPNRZdh7qfCy8eor), [AG SixTeen](https://open.spotify.com/artist/2Skstmc3athPlfSbdxEsR2), [Yung Iverson](https://open.spotify.com/artist/32FZMa8a5INqhHHssRtkux) | [Q 'VacilOn](https://open.spotify.com/album/4ABD3I1tBANiGl803jPwgX) | 3:16 |

@@ -1,12 +1,12 @@
 {
   "description": "De mooiste en nieuwste liedjes van het moment. Cover: Chris Stapleton & Dua Lipa",
-  "num_followers": 475647,
+  "num_followers": 475566,
   "original_name": "Blijf Luisteren!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zp+vyAAAAACIwgQsvxCiWyXB65CWx7Ek",
+  "snapshot_id": "ZqC7RwAAAABTtfT+ZS6Ed7Irh4QrbH4m",
   "tracks": [
     {
       "added_at": "2024-07-22 12:10:39",
@@ -167,6 +167,22 @@
       "duration_ms": 230942,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/35kNHTPFci21ZMwL7njQB9"
+    },
+    {
+      "added_at": "2024-07-22 12:10:39",
+      "album": {
+        "name": "Running Straight To You",
+        "url": "https://open.spotify.com/album/7kBzui1HfLAlximstAlE8f"
+      },
+      "artists": [
+        {
+          "name": "Sheppard",
+          "url": "https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV"
+        }
+      ],
+      "duration_ms": 224524,
+      "name": "Running Straight To You",
+      "url": "https://open.spotify.com/track/5IvjnaCpuvgOZ8aBmnk3AK"
     },
     {
       "added_at": "2024-07-22 12:10:39",
@@ -791,22 +807,6 @@
       "duration_ms": 172533,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
-    },
-    {
-      "added_at": "2024-07-22 12:10:39",
-      "album": {
-        "name": "Running Straight To You",
-        "url": "https://open.spotify.com/album/7kBzui1HfLAlximstAlE8f"
-      },
-      "artists": [
-        {
-          "name": "Sheppard",
-          "url": "https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV"
-        }
-      ],
-      "duration_ms": 224524,
-      "name": "Running Straight To You",
-      "url": "https://open.spotify.com/track/5IvjnaCpuvgOZ8aBmnk3AK"
     },
     {
       "added_at": "2024-07-22 12:10:39",

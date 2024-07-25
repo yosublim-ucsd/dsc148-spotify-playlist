@@ -1,6 +1,6 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 111144,
+  "num_followers": 111174,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-07-12 16:03:14",
       "album": {
-        "name": "Piano",
-        "url": "https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I"
-      },
-      "artists": [
-        {
-          "name": "Felix R\u00f6sch",
-          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
-        }
-      ],
-      "duration_ms": 268124,
-      "name": "Ostinato",
-      "url": "https://open.spotify.com/track/7xXQh52SZq9Af2DHQ4GNHI"
-    },
-    {
-      "added_at": "2024-07-12 16:03:14",
-      "album": {
         "name": "Actual Life 3 Piano EP (January 1 - September 9 2022)",
         "url": "https://open.spotify.com/album/4S8ReXNJUYd3INog1JNlBJ"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 256874,
       "name": "Winnie (rosslyn crescent)",
       "url": "https://open.spotify.com/track/2TN2PcgQMQPnPVYHHts3Hu"
+    },
+    {
+      "added_at": "2024-07-12 16:03:14",
+      "album": {
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I"
+      },
+      "artists": [
+        {
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
+        }
+      ],
+      "duration_ms": 268124,
+      "name": "Ostinato",
+      "url": "https://open.spotify.com/track/7xXQh52SZq9Af2DHQ4GNHI"
     },
     {
       "added_at": "2024-07-12 16:03:14",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-07-12 16:03:14",
       "album": {
+        "name": "River Oblivion",
+        "url": "https://open.spotify.com/album/59z2ri75VSFwcpH6tYq1Uy"
+      },
+      "artists": [
+        {
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+        }
+      ],
+      "duration_ms": 290856,
+      "name": "River Oblivion",
+      "url": "https://open.spotify.com/track/11jdGRoJx7gPqFQ77N70f8"
+    },
+    {
+      "added_at": "2024-07-12 16:03:14",
+      "album": {
         "name": "Zima (Niklas Paschburg Rework)",
         "url": "https://open.spotify.com/album/3kBWJZJ4NxeBVejRsmNhfb"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 255737,
       "name": "Zima - Niklas Paschburg Rework",
       "url": "https://open.spotify.com/track/0iLPZUz5EE5I3IGlHfeS5w"
-    },
-    {
-      "added_at": "2024-07-12 16:03:14",
-      "album": {
-        "name": "River Oblivion",
-        "url": "https://open.spotify.com/album/59z2ri75VSFwcpH6tYq1Uy"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 290856,
-      "name": "River Oblivion",
-      "url": "https://open.spotify.com/track/11jdGRoJx7gPqFQ77N70f8"
     },
     {
       "added_at": "2024-07-12 16:03:14",
@@ -839,6 +839,26 @@
     {
       "added_at": "2024-07-12 16:03:14",
       "album": {
+        "name": "Sound Visions",
+        "url": "https://open.spotify.com/album/5KAesCstHxKn5TA4qQL6HB"
+      },
+      "artists": [
+        {
+          "name": "Matteo Saggese",
+          "url": "https://open.spotify.com/artist/3svbV9ROns7csbmy5yVLm4"
+        },
+        {
+          "name": "Anna Phoebe",
+          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
+        }
+      ],
+      "duration_ms": 207315,
+      "name": "Dancing leaves",
+      "url": "https://open.spotify.com/track/76Do68qtelIHgHFecvUZ0Y"
+    },
+    {
+      "added_at": "2024-07-12 16:03:14",
+      "album": {
         "name": "Poly (and 74 musicians)",
         "url": "https://open.spotify.com/album/79zXd557e3SeiJHm1exMRW"
       },
@@ -863,26 +883,6 @@
     {
       "added_at": "2024-07-12 16:03:14",
       "album": {
-        "name": "Canto Ostinato",
-        "url": "https://open.spotify.com/album/6nRzGIFEUCxf19vdEdZEZ5"
-      },
-      "artists": [
-        {
-          "name": "Simeon ten Holt",
-          "url": "https://open.spotify.com/artist/0aU7GVdY5SUzQ0dBObFK57"
-        },
-        {
-          "name": "Erik Hall",
-          "url": "https://open.spotify.com/artist/32XidxH0N45E1SLV6AhJwB"
-        }
-      ],
-      "duration_ms": 776394,
-      "name": "Sections 1-16",
-      "url": "https://open.spotify.com/track/7uBH8LGTreuwZZ7fr8K6N0"
-    },
-    {
-      "added_at": "2024-07-12 16:03:14",
-      "album": {
         "name": "Spirit Loop",
         "url": "https://open.spotify.com/album/2eoyC2svpQvhA5xqpQ5S5t"
       },
@@ -899,22 +899,22 @@
     {
       "added_at": "2024-07-12 16:03:14",
       "album": {
-        "name": "Sound Visions",
-        "url": "https://open.spotify.com/album/5KAesCstHxKn5TA4qQL6HB"
+        "name": "Canto Ostinato",
+        "url": "https://open.spotify.com/album/6nRzGIFEUCxf19vdEdZEZ5"
       },
       "artists": [
         {
-          "name": "Matteo Saggese",
-          "url": "https://open.spotify.com/artist/3svbV9ROns7csbmy5yVLm4"
+          "name": "Simeon ten Holt",
+          "url": "https://open.spotify.com/artist/0aU7GVdY5SUzQ0dBObFK57"
         },
         {
-          "name": "Anna Phoebe",
-          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
+          "name": "Erik Hall",
+          "url": "https://open.spotify.com/artist/32XidxH0N45E1SLV6AhJwB"
         }
       ],
-      "duration_ms": 207315,
-      "name": "Dancing leaves",
-      "url": "https://open.spotify.com/track/76Do68qtelIHgHFecvUZ0Y"
+      "duration_ms": 776394,
+      "name": "Sections 1-16",
+      "url": "https://open.spotify.com/track/7uBH8LGTreuwZZ7fr8K6N0"
     },
     {
       "added_at": "2024-07-12 16:03:14",
@@ -1095,6 +1095,30 @@
     {
       "added_at": "2024-07-12 16:03:14",
       "album": {
+        "name": "Pavane (Sam Thompson Rework)",
+        "url": "https://open.spotify.com/album/4bp10nfuQAiVcDKyw6WmYc"
+      },
+      "artists": [
+        {
+          "name": "Sam Thompson",
+          "url": "https://open.spotify.com/artist/6SL5UTNnsI4It0HdLqq2TV"
+        },
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        },
+        {
+          "name": "Martha Thompson",
+          "url": "https://open.spotify.com/artist/5C81k4PwWoslwZGH6wpNaX"
+        }
+      ],
+      "duration_ms": 323693,
+      "name": "Pavane - Sam Thompson Rework",
+      "url": "https://open.spotify.com/track/5Bu4lKPV75Qn9leB3AHaVM"
+    },
+    {
+      "added_at": "2024-07-12 16:03:14",
+      "album": {
         "name": "Cort\u00e8ge (Niklas Paschburg Rework)",
         "url": "https://open.spotify.com/album/6mHpnizw0fgpwMZk00mM5Q"
       },
@@ -1123,30 +1147,6 @@
       "duration_ms": 238764,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/3boXyamYzmzAvMbu5Rwmlv"
-    },
-    {
-      "added_at": "2024-07-12 16:03:14",
-      "album": {
-        "name": "Pavane (Sam Thompson Rework)",
-        "url": "https://open.spotify.com/album/4bp10nfuQAiVcDKyw6WmYc"
-      },
-      "artists": [
-        {
-          "name": "Sam Thompson",
-          "url": "https://open.spotify.com/artist/6SL5UTNnsI4It0HdLqq2TV"
-        },
-        {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
-        },
-        {
-          "name": "Martha Thompson",
-          "url": "https://open.spotify.com/artist/5C81k4PwWoslwZGH6wpNaX"
-        }
-      ],
-      "duration_ms": 323693,
-      "name": "Pavane - Sam Thompson Rework",
-      "url": "https://open.spotify.com/track/5Bu4lKPV75Qn9leB3AHaVM"
     },
     {
       "added_at": "2024-07-12 16:03:14",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2024-07-12 16:03:14",
       "album": {
-        "name": "We Could Stay",
-        "url": "https://open.spotify.com/album/1H2N1aTT8g9zwzD3Nqui0w"
-      },
-      "artists": [
-        {
-          "name": "Josin",
-          "url": "https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 217194,
-      "name": "We Could Stay",
-      "url": "https://open.spotify.com/track/1EBTOlVfjhxt5jipMekMZQ"
-    },
-    {
-      "added_at": "2024-07-12 16:03:14",
-      "album": {
         "name": "Mirror Music",
         "url": "https://open.spotify.com/album/32Hr30Ahgal5QIXdpOcvNE"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 216917,
       "name": "Mirror 8",
       "url": "https://open.spotify.com/track/77AIHy7pkYwRKfa1nM6hlR"
+    },
+    {
+      "added_at": "2024-07-12 16:03:14",
+      "album": {
+        "name": "We Could Stay",
+        "url": "https://open.spotify.com/album/1H2N1aTT8g9zwzD3Nqui0w"
+      },
+      "artists": [
+        {
+          "name": "Josin",
+          "url": "https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 217194,
+      "name": "We Could Stay",
+      "url": "https://open.spotify.com/track/1EBTOlVfjhxt5jipMekMZQ"
     },
     {
       "added_at": "2024-07-12 16:03:14",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-07-12 16:03:14",
       "album": {
+        "name": "Walking With Ghosts",
+        "url": "https://open.spotify.com/album/64rmZu0eAuaBkLf6qmqC9a"
+      },
+      "artists": [
+        {
+          "name": "Thom Robson",
+          "url": "https://open.spotify.com/artist/6dSKrqQgsG1AI65KmkJ3lk"
+        }
+      ],
+      "duration_ms": 234473,
+      "name": "Remembering",
+      "url": "https://open.spotify.com/track/2RHW2VL9lzT70oVA4PvNaE"
+    },
+    {
+      "added_at": "2024-07-12 16:03:14",
+      "album": {
         "name": "In All This Heavy Blue",
         "url": "https://open.spotify.com/album/5Gs15uO4czslWbMG08vchM"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 276610,
       "name": "In All This Heavy Blue",
       "url": "https://open.spotify.com/track/29wVDybi61uHac7gi0aZFB"
-    },
-    {
-      "added_at": "2024-07-12 16:03:14",
-      "album": {
-        "name": "Walking With Ghosts",
-        "url": "https://open.spotify.com/album/64rmZu0eAuaBkLf6qmqC9a"
-      },
-      "artists": [
-        {
-          "name": "Thom Robson",
-          "url": "https://open.spotify.com/artist/6dSKrqQgsG1AI65KmkJ3lk"
-        }
-      ],
-      "duration_ms": 234473,
-      "name": "Remembering",
-      "url": "https://open.spotify.com/track/2RHW2VL9lzT70oVA4PvNaE"
     },
     {
       "added_at": "2024-07-12 16:03:14",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-07-12 16:03:14",
       "album": {
+        "name": "Frost",
+        "url": "https://open.spotify.com/album/2audNxAFYm85cY3VNjpt8Z"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        }
+      ],
+      "duration_ms": 292044,
+      "name": "Dawn is Near",
+      "url": "https://open.spotify.com/track/3GBazB23qS7nwK55xxZRB3"
+    },
+    {
+      "added_at": "2024-07-12 16:03:14",
+      "album": {
         "name": "The Wind (Deluxe)",
         "url": "https://open.spotify.com/album/0o9rSszHt4kikYbAPtlokj"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 133335,
       "name": "Nos - C.B. Rework",
       "url": "https://open.spotify.com/track/1zVbL4ZCLbEE8fmVl881Gj"
-    },
-    {
-      "added_at": "2024-07-12 16:03:14",
-      "album": {
-        "name": "Frost",
-        "url": "https://open.spotify.com/album/2audNxAFYm85cY3VNjpt8Z"
-      },
-      "artists": [
-        {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
-        }
-      ],
-      "duration_ms": 292044,
-      "name": "Dawn is Near",
-      "url": "https://open.spotify.com/track/3GBazB23qS7nwK55xxZRB3"
     },
     {
       "added_at": "2024-07-12 16:03:14",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2024-07-12 16:03:14",
       "album": {
+        "name": "Rift",
+        "url": "https://open.spotify.com/album/3yUd4JMvrDdFwiFJo6Aly8"
+      },
+      "artists": [
+        {
+          "name": "Hugar",
+          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
+        }
+      ],
+      "duration_ms": 393813,
+      "name": "mist",
+      "url": "https://open.spotify.com/track/2xuM99rQr2oORCVsLbkhMt"
+    },
+    {
+      "added_at": "2024-07-12 16:03:14",
+      "album": {
         "name": "Circle 31",
         "url": "https://open.spotify.com/album/2l743OeSKb0QxgyCxJtubk"
       },
@@ -1663,22 +1679,6 @@
     {
       "added_at": "2024-07-12 16:03:14",
       "album": {
-        "name": "Rift",
-        "url": "https://open.spotify.com/album/3yUd4JMvrDdFwiFJo6Aly8"
-      },
-      "artists": [
-        {
-          "name": "Hugar",
-          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
-        }
-      ],
-      "duration_ms": 393813,
-      "name": "mist",
-      "url": "https://open.spotify.com/track/2xuM99rQr2oORCVsLbkhMt"
-    },
-    {
-      "added_at": "2024-07-12 16:03:14",
-      "album": {
         "name": "21st Of June",
         "url": "https://open.spotify.com/album/5g2HXYAdPF2Qj1uqxWj4Yu"
       },
@@ -1691,6 +1691,22 @@
       "duration_ms": 191195,
       "name": "21st Of June",
       "url": "https://open.spotify.com/track/3AQqVeGznmbsy4aksIEfaH"
+    },
+    {
+      "added_at": "2024-07-12 16:03:14",
+      "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/78Iy1BiGfXAP7RzVGhy8B3"
+      },
+      "artists": [
+        {
+          "name": "Angus MacRae",
+          "url": "https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX"
+        }
+      ],
+      "duration_ms": 244531,
+      "name": "Flame - Edit",
+      "url": "https://open.spotify.com/track/650KMeGMULRMpcKUz1duOQ"
     },
     {
       "added_at": "2024-07-12 16:03:14",
@@ -1715,22 +1731,6 @@
     {
       "added_at": "2024-07-12 16:03:14",
       "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/78Iy1BiGfXAP7RzVGhy8B3"
-      },
-      "artists": [
-        {
-          "name": "Angus MacRae",
-          "url": "https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX"
-        }
-      ],
-      "duration_ms": 244531,
-      "name": "Flame - Edit",
-      "url": "https://open.spotify.com/track/650KMeGMULRMpcKUz1duOQ"
-    },
-    {
-      "added_at": "2024-07-12 16:03:14",
-      "album": {
         "name": "Owls",
         "url": "https://open.spotify.com/album/4y9qF03bF30CXAK0qwzoLI"
       },
@@ -1743,6 +1743,22 @@
       "duration_ms": 242880,
       "name": "Owls",
       "url": "https://open.spotify.com/track/5kSTJK3ExBwzr12h2CDivO"
+    },
+    {
+      "added_at": "2024-07-12 16:03:14",
+      "album": {
+        "name": "Recaptures",
+        "url": "https://open.spotify.com/album/7D3SWtqwK4bhUmcVBUFRKc"
+      },
+      "artists": [
+        {
+          "name": "Minihi",
+          "url": "https://open.spotify.com/artist/4uIPLGk2ey0PKhgD2pq9s0"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "Minquiers",
+      "url": "https://open.spotify.com/track/3fPjTevbs1gCDorMjymahc"
     },
     {
       "added_at": "2024-07-12 16:03:14",
@@ -1771,22 +1787,6 @@
     {
       "added_at": "2024-07-12 16:03:14",
       "album": {
-        "name": "Recaptures",
-        "url": "https://open.spotify.com/album/7D3SWtqwK4bhUmcVBUFRKc"
-      },
-      "artists": [
-        {
-          "name": "Minihi",
-          "url": "https://open.spotify.com/artist/4uIPLGk2ey0PKhgD2pq9s0"
-        }
-      ],
-      "duration_ms": 210600,
-      "name": "Minquiers",
-      "url": "https://open.spotify.com/track/3fPjTevbs1gCDorMjymahc"
-    },
-    {
-      "added_at": "2024-07-12 16:03:14",
-      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/7J7EcsbN5jmvnoZHF4mDnN"
       },
@@ -1803,6 +1803,22 @@
       "duration_ms": 214080,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/3QHtOPzh9pZVLa00qd9pWe"
+    },
+    {
+      "added_at": "2024-07-12 16:03:14",
+      "album": {
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/5cgLX8KMJaNvS6WQaMXHwY"
+      },
+      "artists": [
+        {
+          "name": "Mazoulew",
+          "url": "https://open.spotify.com/artist/2FXIGKBu3oLpuZkXq6bMgj"
+        }
+      ],
+      "duration_ms": 139130,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/3UvvN8jTSRyb7LQZYxrnSI"
     },
     {
       "added_at": "2024-07-12 16:03:14",
@@ -1827,22 +1843,6 @@
       "duration_ms": 196875,
       "name": "Etude No.2 Reworked",
       "url": "https://open.spotify.com/track/4etZiHNHhhCxDPXMxo3d8A"
-    },
-    {
-      "added_at": "2024-07-12 16:03:14",
-      "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/5cgLX8KMJaNvS6WQaMXHwY"
-      },
-      "artists": [
-        {
-          "name": "Mazoulew",
-          "url": "https://open.spotify.com/artist/2FXIGKBu3oLpuZkXq6bMgj"
-        }
-      ],
-      "duration_ms": 139130,
-      "name": "Overture",
-      "url": "https://open.spotify.com/track/3UvvN8jTSRyb7LQZYxrnSI"
     },
     {
       "added_at": "2024-07-12 16:03:14",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2024-07-12 16:03:14",
       "album": {
-        "name": "Unity (Mike Lazarev CrO2 Reduction)",
-        "url": "https://open.spotify.com/album/11um7vO1M4HjxDYQS6wnFR"
-      },
-      "artists": [
-        {
-          "name": "Diana Yukawa",
-          "url": "https://open.spotify.com/artist/2EeY0lNrhbKPNSM8VQHTn7"
-        },
-        {
-          "name": "Mike Lazarev",
-          "url": "https://open.spotify.com/artist/5GHe2wbHyPb5RZbES8coHc"
-        }
-      ],
-      "duration_ms": 230119,
-      "name": "Unity - Mike Lazarev CrO2 Reduction",
-      "url": "https://open.spotify.com/track/53tcYbPRX7nfLuAxcsJYj9"
-    },
-    {
-      "added_at": "2024-07-12 16:03:14",
-      "album": {
         "name": "autre part",
         "url": "https://open.spotify.com/album/440SAo37XdbZL1gJpfOkit"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 289000,
       "name": "Critical Spirit",
       "url": "https://open.spotify.com/track/6dVEJCuNc1XnWn9S3yiksd"
+    },
+    {
+      "added_at": "2024-07-12 16:03:14",
+      "album": {
+        "name": "Unity (Mike Lazarev CrO2 Reduction)",
+        "url": "https://open.spotify.com/album/11um7vO1M4HjxDYQS6wnFR"
+      },
+      "artists": [
+        {
+          "name": "Diana Yukawa",
+          "url": "https://open.spotify.com/artist/2EeY0lNrhbKPNSM8VQHTn7"
+        },
+        {
+          "name": "Mike Lazarev",
+          "url": "https://open.spotify.com/artist/5GHe2wbHyPb5RZbES8coHc"
+        }
+      ],
+      "duration_ms": 230119,
+      "name": "Unity - Mike Lazarev CrO2 Reduction",
+      "url": "https://open.spotify.com/track/53tcYbPRX7nfLuAxcsJYj9"
     },
     {
       "added_at": "2024-07-12 16:03:14",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2024-07-12 16:03:14",
       "album": {
-        "name": "knowledge",
-        "url": "https://open.spotify.com/album/2pmgXrNSfraUoYE9WezoOZ"
-      },
-      "artists": [
-        {
-          "name": "Gian Marco Castro",
-          "url": "https://open.spotify.com/artist/3eKHhTJoTeSu0BNBls4ju6"
-        }
-      ],
-      "duration_ms": 299428,
-      "name": "knowledge",
-      "url": "https://open.spotify.com/track/7g6zQwLazU2mBXhlXjPerU"
-    },
-    {
-      "added_at": "2024-07-12 16:03:14",
-      "album": {
         "name": "Grafskrift",
         "url": "https://open.spotify.com/album/7HP2tqN6U7lpSmQHaldwZI"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 151853,
       "name": "Grafskrift",
       "url": "https://open.spotify.com/track/1nx2J8SyOuz3ITycgMFRsV"
+    },
+    {
+      "added_at": "2024-07-12 16:03:14",
+      "album": {
+        "name": "knowledge",
+        "url": "https://open.spotify.com/album/2pmgXrNSfraUoYE9WezoOZ"
+      },
+      "artists": [
+        {
+          "name": "Gian Marco Castro",
+          "url": "https://open.spotify.com/artist/3eKHhTJoTeSu0BNBls4ju6"
+        }
+      ],
+      "duration_ms": 299428,
+      "name": "knowledge",
+      "url": "https://open.spotify.com/track/7g6zQwLazU2mBXhlXjPerU"
     },
     {
       "added_at": "2024-07-12 16:03:14",
@@ -2267,6 +2267,22 @@
     {
       "added_at": "2024-07-12 16:03:14",
       "album": {
+        "name": "to be found",
+        "url": "https://open.spotify.com/album/22kF6tbCqOGFwIT3ju5R6P"
+      },
+      "artists": [
+        {
+          "name": "Marius Nitzbon",
+          "url": "https://open.spotify.com/artist/7vFlCSZJKRJ01aXDGen210"
+        }
+      ],
+      "duration_ms": 169750,
+      "name": "to be found",
+      "url": "https://open.spotify.com/track/4NgYCbbHYDpTRBcoxx9heK"
+    },
+    {
+      "added_at": "2024-07-12 16:03:14",
+      "album": {
         "name": "False Sunset (Todd & Klein Rework)",
         "url": "https://open.spotify.com/album/0g51tMtR6ktoyXnqTdSaqU"
       },
@@ -2283,6 +2299,22 @@
       "duration_ms": 187850,
       "name": "False Sunset - Todd & Klein Rework",
       "url": "https://open.spotify.com/track/7z6FjRYp5m3PVGIyV8cM9u"
+    },
+    {
+      "added_at": "2024-07-12 16:03:14",
+      "album": {
+        "name": "Entanglement",
+        "url": "https://open.spotify.com/album/1XA7cC70YV0SJQF75XvG8Q"
+      },
+      "artists": [
+        {
+          "name": "Rooydad",
+          "url": "https://open.spotify.com/artist/5XH1l6ObtoOBT3fZiRhNsF"
+        }
+      ],
+      "duration_ms": 105600,
+      "name": "Everything in Life is Vibration",
+      "url": "https://open.spotify.com/track/2pcvIesWIdt5S8E4haQngr"
     },
     {
       "added_at": "2024-07-12 16:03:14",
@@ -2307,38 +2339,6 @@
       "duration_ms": 237706,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/01U5Cbupt4k0pbef8kDi7H"
-    },
-    {
-      "added_at": "2024-07-12 16:03:14",
-      "album": {
-        "name": "to be found",
-        "url": "https://open.spotify.com/album/22kF6tbCqOGFwIT3ju5R6P"
-      },
-      "artists": [
-        {
-          "name": "Marius Nitzbon",
-          "url": "https://open.spotify.com/artist/7vFlCSZJKRJ01aXDGen210"
-        }
-      ],
-      "duration_ms": 169750,
-      "name": "to be found",
-      "url": "https://open.spotify.com/track/4NgYCbbHYDpTRBcoxx9heK"
-    },
-    {
-      "added_at": "2024-07-12 16:03:14",
-      "album": {
-        "name": "Entanglement",
-        "url": "https://open.spotify.com/album/1XA7cC70YV0SJQF75XvG8Q"
-      },
-      "artists": [
-        {
-          "name": "Rooydad",
-          "url": "https://open.spotify.com/artist/5XH1l6ObtoOBT3fZiRhNsF"
-        }
-      ],
-      "duration_ms": 105600,
-      "name": "Everything in Life is Vibration",
-      "url": "https://open.spotify.com/track/2pcvIesWIdt5S8E4haQngr"
     },
     {
       "added_at": "2024-07-12 16:03:14",
@@ -2415,6 +2415,22 @@
     {
       "added_at": "2024-07-12 16:03:14",
       "album": {
+        "name": "Nocturne No. 03 (double, zero)",
+        "url": "https://open.spotify.com/album/59uOAs3J6YuEaq146dLFdZ"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lawrence Zappia",
+          "url": "https://open.spotify.com/artist/0CuRSsgyTCUJQLXLoUpqpf"
+        }
+      ],
+      "duration_ms": 179142,
+      "name": "Nocturne No. 03 (double, zero)",
+      "url": "https://open.spotify.com/track/4vUEXpriTW4gMXkE3GhDCT"
+    },
+    {
+      "added_at": "2024-07-12 16:03:14",
+      "album": {
         "name": "Glass Gateway",
         "url": "https://open.spotify.com/album/2rw7rY5ebuktELGAJhZMnl"
       },
@@ -2431,6 +2447,22 @@
       "duration_ms": 352181,
       "name": "Etude No.12 (XA4 Remix)",
       "url": "https://open.spotify.com/track/4FYOsrACpgx1zu5qQjcQFo"
+    },
+    {
+      "added_at": "2024-07-12 16:03:14",
+      "album": {
+        "name": "Diane",
+        "url": "https://open.spotify.com/album/3j8npZa0TYmbkfsFWTnHvi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pioro",
+          "url": "https://open.spotify.com/artist/4ZrHyIxtzxZC1yIot7S7qM"
+        }
+      ],
+      "duration_ms": 237563,
+      "name": "Diane",
+      "url": "https://open.spotify.com/track/4qs3tltfZPFrzOBl5FsMda"
     },
     {
       "added_at": "2024-07-12 16:03:14",
@@ -2495,38 +2527,6 @@
     {
       "added_at": "2024-07-12 16:03:14",
       "album": {
-        "name": "Diane",
-        "url": "https://open.spotify.com/album/3j8npZa0TYmbkfsFWTnHvi"
-      },
-      "artists": [
-        {
-          "name": "Daniel Pioro",
-          "url": "https://open.spotify.com/artist/4ZrHyIxtzxZC1yIot7S7qM"
-        }
-      ],
-      "duration_ms": 237563,
-      "name": "Diane",
-      "url": "https://open.spotify.com/track/4qs3tltfZPFrzOBl5FsMda"
-    },
-    {
-      "added_at": "2024-07-12 16:03:14",
-      "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2HbLl2KDzOMW3TtcliEKqx"
-      },
-      "artists": [
-        {
-          "name": "Alban Claudin",
-          "url": "https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp"
-        }
-      ],
-      "duration_ms": 212042,
-      "name": "Discovery",
-      "url": "https://open.spotify.com/track/2ML2LRXbX2JfFZzeoqs7PH"
-    },
-    {
-      "added_at": "2024-07-12 16:03:14",
-      "album": {
         "name": "Leaving This Behind Again",
         "url": "https://open.spotify.com/album/6wvPng4188UU2elDTqYpK5"
       },
@@ -2559,6 +2559,22 @@
     {
       "added_at": "2024-07-12 16:03:14",
       "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2HbLl2KDzOMW3TtcliEKqx"
+      },
+      "artists": [
+        {
+          "name": "Alban Claudin",
+          "url": "https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp"
+        }
+      ],
+      "duration_ms": 212042,
+      "name": "Discovery",
+      "url": "https://open.spotify.com/track/2ML2LRXbX2JfFZzeoqs7PH"
+    },
+    {
+      "added_at": "2024-07-12 16:03:14",
+      "album": {
         "name": "The Age Of Oddities",
         "url": "https://open.spotify.com/album/1D1XaClDiDPHJBhdVIZNOr"
       },
@@ -2571,26 +2587,6 @@
       "duration_ms": 345482,
       "name": "Ring Out The Darkness",
       "url": "https://open.spotify.com/track/1evRU2VfGEISWDFYOwmhSO"
-    },
-    {
-      "added_at": "2024-07-12 16:03:14",
-      "album": {
-        "name": "Can't Sleep",
-        "url": "https://open.spotify.com/album/4VTDInQ5dnlXYwaqWbLNzk"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Dale",
-          "url": "https://open.spotify.com/artist/5y0ldLcTRdGf53DeJnrQz0"
-        },
-        {
-          "name": "Joby Burgess",
-          "url": "https://open.spotify.com/artist/3jNNxhqxHJws22fYew1EC2"
-        }
-      ],
-      "duration_ms": 428453,
-      "name": "Can't Sleep",
-      "url": "https://open.spotify.com/track/6mus9lF8bgipBehHDZ9Top"
     },
     {
       "added_at": "2024-07-12 16:03:14",
@@ -2643,6 +2639,26 @@
       "duration_ms": 190754,
       "name": "Wandering II - Ed Carlsen Rework",
       "url": "https://open.spotify.com/track/23waihwNlV6zZsnwU3kXRW"
+    },
+    {
+      "added_at": "2024-07-12 16:03:14",
+      "album": {
+        "name": "Can't Sleep",
+        "url": "https://open.spotify.com/album/4VTDInQ5dnlXYwaqWbLNzk"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Dale",
+          "url": "https://open.spotify.com/artist/5y0ldLcTRdGf53DeJnrQz0"
+        },
+        {
+          "name": "Joby Burgess",
+          "url": "https://open.spotify.com/artist/3jNNxhqxHJws22fYew1EC2"
+        }
+      ],
+      "duration_ms": 428453,
+      "name": "Can't Sleep",
+      "url": "https://open.spotify.com/track/6mus9lF8bgipBehHDZ9Top"
     },
     {
       "added_at": "2024-07-12 16:03:14",
@@ -2703,22 +2719,6 @@
     {
       "added_at": "2024-07-12 16:03:14",
       "album": {
-        "name": "Call in the Crash Team (Instrumental Version)",
-        "url": "https://open.spotify.com/album/1ahOsEXrrM7F696fZg8uq0"
-      },
-      "artists": [
-        {
-          "name": "LYR",
-          "url": "https://open.spotify.com/artist/5wtSkzUEdGTtT1k4VcJS6b"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "The National Trust Range Of Paints Colour Card - Instrumental Version",
-      "url": "https://open.spotify.com/track/54KwGqYe4xAaLA8RIqWsFY"
-    },
-    {
-      "added_at": "2024-07-12 16:03:14",
-      "album": {
         "name": "Step Step Step",
         "url": "https://open.spotify.com/album/55h9YjJXPitJJOXPUSQy9p"
       },
@@ -2751,18 +2751,38 @@
     {
       "added_at": "2024-07-12 16:03:14",
       "album": {
-        "name": "Accents & Echoes",
-        "url": "https://open.spotify.com/album/6hitDfHO4Bhp0709ZY2Mag"
+        "name": "Call in the Crash Team (Instrumental Version)",
+        "url": "https://open.spotify.com/album/1ahOsEXrrM7F696fZg8uq0"
       },
       "artists": [
         {
-          "name": "ARSHA KAVIANI",
-          "url": "https://open.spotify.com/artist/6X2QoSBLc6zeYdIQrtLNed"
+          "name": "LYR",
+          "url": "https://open.spotify.com/artist/5wtSkzUEdGTtT1k4VcJS6b"
         }
       ],
-      "duration_ms": 377889,
-      "name": "Piano Sonata 'Accents & Echoes' III. Intermezzo",
-      "url": "https://open.spotify.com/track/2dKwP5NWO78aYC2b8b1g53"
+      "duration_ms": 208000,
+      "name": "The National Trust Range Of Paints Colour Card - Instrumental Version",
+      "url": "https://open.spotify.com/track/54KwGqYe4xAaLA8RIqWsFY"
+    },
+    {
+      "added_at": "2024-07-12 16:03:14",
+      "album": {
+        "name": "Ending",
+        "url": "https://open.spotify.com/album/0NqSd0skPzDkg79dGFCWP0"
+      },
+      "artists": [
+        {
+          "name": "Brendan Eder Ensemble",
+          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
+        },
+        {
+          "name": "Ethan Haman",
+          "url": "https://open.spotify.com/artist/5qAcdITOuOW160RolyW8zr"
+        }
+      ],
+      "duration_ms": 499877,
+      "name": "Ending",
+      "url": "https://open.spotify.com/track/0knhlnjvPGxVpekHxWa8xD"
     },
     {
       "added_at": "2024-07-12 16:03:14",
@@ -2787,22 +2807,18 @@
     {
       "added_at": "2024-07-12 16:03:14",
       "album": {
-        "name": "Ending",
-        "url": "https://open.spotify.com/album/0NqSd0skPzDkg79dGFCWP0"
+        "name": "Accents & Echoes",
+        "url": "https://open.spotify.com/album/6hitDfHO4Bhp0709ZY2Mag"
       },
       "artists": [
         {
-          "name": "Brendan Eder Ensemble",
-          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
-        },
-        {
-          "name": "Ethan Haman",
-          "url": "https://open.spotify.com/artist/5qAcdITOuOW160RolyW8zr"
+          "name": "ARSHA KAVIANI",
+          "url": "https://open.spotify.com/artist/6X2QoSBLc6zeYdIQrtLNed"
         }
       ],
-      "duration_ms": 499877,
-      "name": "Ending",
-      "url": "https://open.spotify.com/track/0knhlnjvPGxVpekHxWa8xD"
+      "duration_ms": 377889,
+      "name": "Piano Sonata 'Accents & Echoes' III. Intermezzo",
+      "url": "https://open.spotify.com/track/2dKwP5NWO78aYC2b8b1g53"
     },
     {
       "added_at": "2024-07-12 16:03:14",
@@ -2851,22 +2867,6 @@
       "duration_ms": 669726,
       "name": "Critical Spirit - Live",
       "url": "https://open.spotify.com/track/0hlFgnsQV1zPdCD9agrSc2"
-    },
-    {
-      "added_at": "2024-07-12 16:03:14",
-      "album": {
-        "name": "Nocturne No. 03 (double, zero)",
-        "url": "https://open.spotify.com/album/59uOAs3J6YuEaq146dLFdZ"
-      },
-      "artists": [
-        {
-          "name": "Patrick Lawrence Zappia",
-          "url": "https://open.spotify.com/artist/0CuRSsgyTCUJQLXLoUpqpf"
-        }
-      ],
-      "duration_ms": 179142,
-      "name": "Nocturne No. 03 (double, zero)",
-      "url": "https://open.spotify.com/track/4vUEXpriTW4gMXkE3GhDCT"
     },
     {
       "added_at": "2024-07-12 16:03:14",
@@ -2947,22 +2947,6 @@
     {
       "added_at": "2024-07-12 16:03:14",
       "album": {
-        "name": "Epilogue, Pt. 1",
-        "url": "https://open.spotify.com/album/56A14A6JdE5Cxxw4YKqL8p"
-      },
-      "artists": [
-        {
-          "name": "Todd & Klein",
-          "url": "https://open.spotify.com/artist/5G7dwcHN2RE0qHVUkJjoEz"
-        }
-      ],
-      "duration_ms": 180062,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/49ZOkiemgtMXCePLHIrccO"
-    },
-    {
-      "added_at": "2024-07-12 16:03:14",
-      "album": {
         "name": "Grains of Gold",
         "url": "https://open.spotify.com/album/1G7nQlAfySuHs7AdGdIyIW"
       },
@@ -2975,6 +2959,22 @@
       "duration_ms": 282760,
       "name": "Fastelavn",
       "url": "https://open.spotify.com/track/5Yw6J6DgRK9TzX1FHAjVzn"
+    },
+    {
+      "added_at": "2024-07-12 16:03:14",
+      "album": {
+        "name": "Epilogue, Pt. 1",
+        "url": "https://open.spotify.com/album/56A14A6JdE5Cxxw4YKqL8p"
+      },
+      "artists": [
+        {
+          "name": "Todd & Klein",
+          "url": "https://open.spotify.com/artist/5G7dwcHN2RE0qHVUkJjoEz"
+        }
+      ],
+      "duration_ms": 180062,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/49ZOkiemgtMXCePLHIrccO"
     },
     {
       "added_at": "2024-07-12 16:03:14",
@@ -3011,6 +3011,26 @@
     {
       "added_at": "2024-07-12 16:03:14",
       "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/4HwFLDcgHHI1t0OpUGeW5M"
+      },
+      "artists": [
+        {
+          "name": "Pascal Schumacher",
+          "url": "https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M"
+        },
+        {
+          "name": "Echo Collective",
+          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
+        }
+      ],
+      "duration_ms": 266785,
+      "name": "Charles Duke",
+      "url": "https://open.spotify.com/track/2C7lu8FJWZXeIv1MV6ena8"
+    },
+    {
+      "added_at": "2024-07-12 16:03:14",
+      "album": {
         "name": "R\u00f6dd",
         "url": "https://open.spotify.com/album/5YSMeDshTk25ilBMgMCCKx"
       },
@@ -3035,26 +3055,6 @@
     {
       "added_at": "2024-07-12 16:03:14",
       "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/4HwFLDcgHHI1t0OpUGeW5M"
-      },
-      "artists": [
-        {
-          "name": "Pascal Schumacher",
-          "url": "https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M"
-        },
-        {
-          "name": "Echo Collective",
-          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
-        }
-      ],
-      "duration_ms": 266785,
-      "name": "Charles Duke",
-      "url": "https://open.spotify.com/track/2C7lu8FJWZXeIv1MV6ena8"
-    },
-    {
-      "added_at": "2024-07-12 16:03:14",
-      "album": {
         "name": "The Misanthropes",
         "url": "https://open.spotify.com/album/77OEx1HTPgOzj8ikx9RZB0"
       },
@@ -3071,22 +3071,6 @@
       "duration_ms": 251800,
       "name": "The Misanthropes",
       "url": "https://open.spotify.com/track/67bRAhNkNMfMwekNTtX1VV"
-    },
-    {
-      "added_at": "2024-07-12 16:03:14",
-      "album": {
-        "name": "Postcards for the Backyard, Pt. 2",
-        "url": "https://open.spotify.com/album/3HZP7L6BeGxu2n71z7XAmE"
-      },
-      "artists": [
-        {
-          "name": "Neighborhood Libraries",
-          "url": "https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt"
-        }
-      ],
-      "duration_ms": 154078,
-      "name": "Are We There Yet",
-      "url": "https://open.spotify.com/track/798oxf0qjHIEUWNeH8Giwd"
     },
     {
       "added_at": "2024-07-12 16:03:14",
@@ -3111,6 +3095,22 @@
     {
       "added_at": "2024-07-12 16:03:14",
       "album": {
+        "name": "Postcards for the Backyard, Pt. 2",
+        "url": "https://open.spotify.com/album/3HZP7L6BeGxu2n71z7XAmE"
+      },
+      "artists": [
+        {
+          "name": "Neighborhood Libraries",
+          "url": "https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt"
+        }
+      ],
+      "duration_ms": 154078,
+      "name": "Are We There Yet",
+      "url": "https://open.spotify.com/track/798oxf0qjHIEUWNeH8Giwd"
+    },
+    {
+      "added_at": "2024-07-12 16:03:14",
+      "album": {
         "name": "Ticker Tape",
         "url": "https://open.spotify.com/album/5jWx1AKkcTHSsbVZ4NAmvM"
       },
@@ -3127,6 +3127,22 @@
     {
       "added_at": "2024-07-12 16:03:14",
       "album": {
+        "name": "Rhythmicon",
+        "url": "https://open.spotify.com/album/6HJMeLoOUbqZkzLu2HxbCN"
+      },
+      "artists": [
+        {
+          "name": "Pascal Schumacher",
+          "url": "https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M"
+        }
+      ],
+      "duration_ms": 309165,
+      "name": "Rhythmicon",
+      "url": "https://open.spotify.com/track/6OMhxlIR8Hrnbn8vtnCJrE"
+    },
+    {
+      "added_at": "2024-07-12 16:03:14",
+      "album": {
         "name": "Nowness",
         "url": "https://open.spotify.com/album/2kvhCMgG2AXu7wOlWMosLR"
       },
@@ -3139,22 +3155,6 @@
       "duration_ms": 199500,
       "name": "Nowness",
       "url": "https://open.spotify.com/track/0Txp3JK74gFfKp8eZp4Y6l"
-    },
-    {
-      "added_at": "2024-07-12 16:03:14",
-      "album": {
-        "name": "Space Station Earth",
-        "url": "https://open.spotify.com/album/4Y5aaWrAo2QpEkYhDWZx2B"
-      },
-      "artists": [
-        {
-          "name": "Ilan Eshkeri",
-          "url": "https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z"
-        }
-      ],
-      "duration_ms": 121595,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/6Hb9Su4ouTjhYEJeLrmM9P"
     },
     {
       "added_at": "2024-07-12 16:03:14",

@@ -1,12 +1,12 @@
 {
-  "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 543,
+  "description": "This is: Carlos Rafael Rivera. Alle wichtigen Tracks in einer Playlist.",
+  "num_followers": 545,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zp2hAAAAAADyZvQQmvz7ALjfb7cEw2zu",
+  "snapshot_id": "Zp7ygAAAAABX9t5DP68X2KtD1YnhuPf9",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 80880,
-      "name": "Pop Pop",
-      "url": "https://open.spotify.com/track/2Gik6WVPq3jzdvjBvHP8S9"
+      "duration_ms": 92000,
+      "name": "Ezra - Main Title",
+      "url": "https://open.spotify.com/track/2cU2WKifCEX7bz6P369fzw"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 92000,
-      "name": "Ezra - Main Title",
-      "url": "https://open.spotify.com/track/2cU2WKifCEX7bz6P369fzw"
+      "duration_ms": 80880,
+      "name": "Pop Pop",
+      "url": "https://open.spotify.com/track/2Gik6WVPq3jzdvjBvHP8S9"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-2,703 songs - 5 day 12 hr 28 min
+2,704 songs - 5 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [BITTE SPITTE X](https://open.spotify.com/track/5CQqlc5MtuFpyIiPsn3iWa) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1) | [X](https://open.spotify.com/album/2UbYQjKHZdrHnGCpOsnO7B) | 2:51 | 2021-11-28 | 2021-12-04 |
 | [BITTERSUITE](https://open.spotify.com/track/7DpUoxGSdlDHfqCYj0otzU) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:58 | 2024-05-18 | 2024-05-20 |
 | [BLACK BUFFS](https://open.spotify.com/track/6DxyVK2Pfpk3xb8HBIsKuh) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z), [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv) | [BLACK BUFFS](https://open.spotify.com/album/7JRtqDrJtMCBWSAwRZfb0e) | 2:09 | 2024-06-29 | 2024-07-01 |
+| [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 | 2024-07-24 |  |
 | [BLACKOUT](https://open.spotify.com/track/0mNWBN7udBbA3ZtkB80TPM) | [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw) | [BLACKOUT](https://open.spotify.com/album/2mm9MvJe7UhHpDZBvdM0R8) | 2:45 | 2023-04-06 | 2023-06-04 |
 | [BLACKOUT](https://open.spotify.com/track/2w0TmCC0w8SASWpfvdXnxi) | [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw) | [BLACKOUT](https://open.spotify.com/album/3mQWgJfQS2BpZZ9XSHBNlP) | 2:46 | 2022-11-12 | 2022-12-02 |
 | [Blank Space \(Taylor's Version\)](https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:51 | 2023-10-28 | 2023-11-01 |
@@ -593,7 +594,7 @@
 | [Diebe](https://open.spotify.com/track/4allObWlgZ21WeVKbxSIlk) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Diebe](https://open.spotify.com/album/5b5m4Kjx34zoQ8tguW4yyY) | 2:30 | 2021-04-03 | 2021-04-20 |
 | [Dies & Das](https://open.spotify.com/track/5GzBVGr752l5qcGo2ZBNoS) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [AVO](https://open.spotify.com/artist/3g8GEfox7TneqzId98rNGi) | [Dies & Das](https://open.spotify.com/album/3w25lpXTAf001nxzF9nBPI) | 2:19 | 2021-10-23 | 2021-11-02 |
 | [Diese eine Melodie](https://open.spotify.com/track/6RvBo8JZUMSvvHnGa2hDrj) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Diese eine Melodie](https://open.spotify.com/album/5lV7NkfTGByc7c3zppGdPx) | 2:52 | 2021-03-27\* | 2021-03-27 |
-| [Dieser Sommer](https://open.spotify.com/track/0Cnf2mlQavyPknr3OxzTAn) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [Dieser Sommer](https://open.spotify.com/album/4UrGldOU6mdTG7CKlXe2Ub) | 2:17 | 2024-06-01 |  |
+| [Dieser Sommer](https://open.spotify.com/track/0Cnf2mlQavyPknr3OxzTAn) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [Dieser Sommer](https://open.spotify.com/album/4UrGldOU6mdTG7CKlXe2Ub) | 2:17 | 2024-06-01 | 2024-07-25 |
 | [DIESES EINE MAL](https://open.spotify.com/track/2Ia00WxA3ZINDzmj6rnsZF) | [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [BLACKOUT](https://open.spotify.com/album/2mm9MvJe7UhHpDZBvdM0R8) | 3:00 | 2023-04-01 | 2023-04-16 |
 | [Dieses Leben...](https://open.spotify.com/track/0HkUMcZ3HQTLZiAQzUHrEI) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Dieses Leben...](https://open.spotify.com/album/2AJfLOSy2DXe0gyvaKqYZL) | 2:43 | 2022-09-17 | 2022-09-23 |
 | [DILEMMA](https://open.spotify.com/track/5a4BwnoE6D5bRmhMvITk0u) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [LOYALTY OVER LOVE](https://open.spotify.com/album/0VEuh3ku5EpMHrMYuGTSTR) | 4:47 | 2022-04-30 | 2022-05-08 |

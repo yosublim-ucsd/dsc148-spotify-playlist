@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-738 songs - 1 day 9 hr 14 min
+739 songs - 1 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,6 +495,7 @@
 | [only you](https://open.spotify.com/track/5h50BO3oUBoOh5HjG871S5) | [COFFLENO](https://open.spotify.com/artist/7kZkMzWv1hRkn17qIk9yOk) | [Organic Lo\-fi Beats](https://open.spotify.com/album/3GnW7ujq82WPxlwNHphRrJ) | 1:43 | 2021-12-23 | 2024-06-23 |
 | [Optimistic](https://open.spotify.com/track/08NC9pF2GyJtrwPJbqMH9I) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Beats For You Vol.1](https://open.spotify.com/album/2t2bFaHhVRmnrRlqmKVOZN) | 4:11 | 2022-01-13 | 2022-06-23 |
 | [Orange Sunshine](https://open.spotify.com/track/5DZMPcHEc1Hqw07PWUZWaZ) | [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL) | [Orange Sunshine](https://open.spotify.com/album/2mfhkXFnK4y7SDrG24NWFN) | 2:06 | 2022-01-06 | 2022-07-23 |
+| [Ordinary days \- Hajime ver.1](https://open.spotify.com/track/3TXwnZ3gcvwNKasLy0vRvQ) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [1秒先の彼 \(Original Soundtrack\)](https://open.spotify.com/album/1O2FR9wr4khiB0zbW5PQry) | 3:32 | 2024-07-04 |  |
 | [Osaka Dreams](https://open.spotify.com/track/74m8IKdAATRhxHXAp5womb) | [Satsuto](https://open.spotify.com/artist/5xkGH3C3ZNnvQeyB4bKD0l) | [Osaka Dreams](https://open.spotify.com/album/4LxcGbI7Skh181KfTjKMWz) | 1:49 | 2022-01-13 | 2022-04-21 |
 | [Osaka Dreams](https://open.spotify.com/track/7HxJ4o4dId4o21IjTpS7GJ) | [Satsuto](https://open.spotify.com/artist/5xkGH3C3ZNnvQeyB4bKD0l) | [Osaka Dreams](https://open.spotify.com/album/38tKGDcaJUmRh1C5hxV0kS) | 1:49 | 2022-07-28 | 2024-04-19 |
 | [Otsuka](https://open.spotify.com/track/2VCPGV7w4t08wYl0Kx749p) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Throwaway Beats for a Throwaway Year, Vol\. 1](https://open.spotify.com/album/4dTRzSSVoNLRHcmyDfZ1TD) | 1:43 | 2021-12-23 | 2022-01-07 |
@@ -553,7 +554,7 @@
 | [Rostrum](https://open.spotify.com/track/6FBdKFeFKVveyC8v6l0KMg) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [CELEBRATION OF JAY 3](https://open.spotify.com/album/14k8oEMytKKBos3mUQYgeM) | 2:15 | 2023-02-09 | 2024-04-19 |
 | [Round 8](https://open.spotify.com/track/4F1sAVtqsssL0XvHwrR2yY) | [Yaboy](https://open.spotify.com/artist/261tfDi8O7e45yOgAiukDl) | [Yaboy Vs One\-Verse Instrumental](https://open.spotify.com/album/3OZOr2VHTCPTm1LTZCORYu) | 2:37 | 2021-12-23 | 2022-07-27 |
 | [Rule of 12ths](https://open.spotify.com/track/757U1banGoAieZrGyaKVgJ) | [Palm Skin Productions](https://open.spotify.com/artist/36fOUxKPHF3Hi5SsB1T1lY) | [Rule of 12ths](https://open.spotify.com/album/1nRnj1cc1aJEocrZs5qz3Z) | 2:10 | 2022-04-07 | 2022-04-17 |
-| [Rush Hour](https://open.spotify.com/track/3lwKN2RR2tqvqEVl4WoY5s) | [Yakkle](https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap) | [Rush Hour](https://open.spotify.com/album/242rTXP3MvqARFEyjEc7DU) | 3:17 | 2021-12-23 |  |
+| [Rush Hour](https://open.spotify.com/track/3lwKN2RR2tqvqEVl4WoY5s) | [Yakkle](https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap) | [Rush Hour](https://open.spotify.com/album/242rTXP3MvqARFEyjEc7DU) | 3:17 | 2021-12-23 | 2024-07-25 |
 | [Ryukyu](https://open.spotify.com/track/5XuDe6se72qAXesfLiHLDx) | [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP) | [Ryukyu](https://open.spotify.com/album/5SjA4ie6YMKilHhHeBJqyS) | 1:54 | 2021-12-23 | 2022-07-26 |
 | [Ryukyu](https://open.spotify.com/track/71V8pJTnwxmHFUW2U1VK16) | [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP) | [Waterfall Dreams](https://open.spotify.com/album/2swHxeQeuQjjBpS7i0ANsA) | 1:54 | 2022-07-28 | 2024-04-19 |
 | [Sacred Forest](https://open.spotify.com/track/5XWbKddO95oyc40rBD6BSM) | [Vindu](https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej) | [Sacred Forest](https://open.spotify.com/album/3pkcpe7vqTaDXDQ9Xs6vth) | 2:08 | 2021-12-23 | 2022-01-10 |

@@ -554,7 +554,7 @@
 | [超Fresh](https://open.spotify.com/track/6Tsdxi0HkSImYREelPrBc8) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Noodle](https://open.spotify.com/album/0Ch7fs2VDUUfOUdy7PXBBS) | 2:52 | 2024-04-16 | 2024-05-29 |
 | [遠くの街](https://open.spotify.com/track/773cu2PGZPfd21Hi5m5BMz) | [TeTe](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw) | [Purple Way](https://open.spotify.com/album/5JFg13DTCMncq34wHjcqIH) | 3:33 | 2024-04-16 | 2024-04-24 |
 | [銭湯](https://open.spotify.com/track/3OLtdYmbURkkoLiIf9BLO1) | [suimu:](https://open.spotify.com/artist/3FLRHIlvau9mLVlOXs7FWb) | [銭湯](https://open.spotify.com/album/2fFt2OPmG9eFvEHAcypOka) | 2:39 | 2024-03-05 | 2024-04-24 |
-| [限界は無い](https://open.spotify.com/track/5raMIE3T5NTvKqA42gmFod) | [Rin](https://open.spotify.com/artist/7iZ5aCddMRZS4fKjjbrAgj) | [麟](https://open.spotify.com/album/2Kp51oK31tOu86AbOwVQpO) | 2:57 | 2024-07-23 |  |
+| [限界は無い](https://open.spotify.com/track/5raMIE3T5NTvKqA42gmFod) | [RIN](https://open.spotify.com/artist/047BIzYHaKXWXwXdvH4KEO) | [麟](https://open.spotify.com/album/2Kp51oK31tOu86AbOwVQpO) | 2:57 | 2024-07-23 |  |
 | [黄色](https://open.spotify.com/track/7Lew3PsdlHJTsiYxIfkIL7) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H), [R\-shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb) | [黄色](https://open.spotify.com/album/0TfaHWQ8E8hmEuVitvXE43) | 3:12 | 2024-05-01 |  |
 | [鼻セレブ](https://open.spotify.com/track/1DfVsbZZ5hAuKrqKWF6Q3J) | [999dobby](https://open.spotify.com/artist/1JUeTjci5VPfOW2myLu8Tc), [雅](https://open.spotify.com/artist/1zAsBDEzbbj0CFKtd4M9fJ) | [DEPRESSION](https://open.spotify.com/album/5EdC14wRGONZubPxsFIK5C) | 3:14 | 2024-04-16 | 2024-05-02 |
 

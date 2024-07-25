@@ -2,9 +2,9 @@
 
 ### [K\-Webtoon OSTs \(웹툰 OSTs\)](https://open.spotify.com/playlist/37i9dQZF1DWZgZGWDUJK7v)
 
-> Meet the popular webtoon OSTs now! \(Cover: A Not So Fairy Tale\(선녀외전\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
+> Meet the popular webtoon OSTs now! \(Cover: True Beauty\(여신강림\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-182 songs - 11 hr 6 min
+183 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Monologue](https://open.spotify.com/track/28xcjPuYAgPcFRtGSWk2SP) | [JaeHan](https://open.spotify.com/artist/0DbPKVg9CKEzdN1nlolnZv) | [A Shoulder to Cry On \(Original Audio Drama Soundtrack\)](https://open.spotify.com/album/6zB6OXYBLrYfk9lQhXiarC) | 3:13 | 2024-04-05 |  |
 | [Moonlight \(From ''Love Revolution'' Original Webtoon Soundtrack\)](https://open.spotify.com/track/5VMzbtKYJUMwE358F4aa9Z) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | [Moonlight \(From ''Love Revolution'' Original Webtoon Soundtrack\)](https://open.spotify.com/album/3NyfTWpWxCZD0kI0zmBITJ) | 3:14 | 2022-05-09 | 2024-05-10 |
 | [My 20th Twenty](https://open.spotify.com/track/6EbXl39EhKldo6XU4q9MCe) | [Park Jin Joo](https://open.spotify.com/artist/05AYUT9lXm5E4N2Z2wVlXm) | [My 20th Twenty \(Original Webdrama Sountrack, Pt\. 1\)](https://open.spotify.com/album/71EhGfqFpVNw0fsLfgyyfx) | 3:42 | 2023-04-18 |  |
+| [My Highlight](https://open.spotify.com/track/5ssGTjB8goLwsqed8YxcGT) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [True Beauty Season 1, Part.1 \(Original Soundtrack\)](https://open.spotify.com/album/7q2nSEWTAAFPZSZy0g6hwa) | 2:55 | 2024-07-24 |  |
 | [My Love is Pain](https://open.spotify.com/track/4de2K1NmgYTYiuCp1EioYs) | [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [My Love is Pain \(Marriage Or Death X Mad Clown, Sondia\)](https://open.spotify.com/album/7glE3yJAC0V371XkEJYVqf) | 3:42 | 2022-05-09 | 2023-12-11 |
 | [My Reflection \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/track/2z7QJnit7gxHVx2ASw5EzX) | [Park Bom](https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt) | [My Reflection \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/2uLI89pW1DWuduHzqjTqQs) | 3:07 | 2022-05-09 | 2023-12-11 |
 | [Never Loved This Way Before](https://open.spotify.com/track/0WbOmRgxeIScXc0H50zjIx) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Never Loved This Way Before \(From “Odd Girl Out” \[Original Soundtrack\]\)](https://open.spotify.com/album/5LfgBPnKXHErPlbLBdQyvG) | 4:19 | 2022-05-09 |  |
@@ -187,7 +188,7 @@
 | [이 밤을 지나](https://open.spotify.com/track/11KcLs1eRcTGZQ82tJntVx) | [Seo Moon Tak](https://open.spotify.com/artist/3pNYE2NX9kKZJku5jIKe1G) | [I Wasn't the Cinderella OST part 2 \(Soundtrack\)](https://open.spotify.com/album/07sXBVe7RpL5Lux5mqpQ3Y) | 4:18 | 2023-04-17 |  |
 | [이런 내 맘](https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [이런 내 맘 \(대충 캠퍼스로맨스임 X HAAN & Chan\)](https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5) | 3:25 | 2023-05-15 |  |
 | [추억을 따라](https://open.spotify.com/track/5bEnO13DJKHOPEaIVf2Lr0) | [Jo Moon Geun](https://open.spotify.com/artist/23ITkiDXXyCmBN6VBKRivR) | [버려진 왕녀는 반역한다\(Original Webtoon Soundtrack\) Pt.4](https://open.spotify.com/album/1d1anmnBgRisaPuoHTfMYC) | 3:28 | 2023-09-20 |  |
-| [품](https://open.spotify.com/track/4BhPMX4CcdGvd9KIQNIhnz) | [Kajin](https://open.spotify.com/artist/7q4cacEQUFUHxQWwgIfSTZ) | [요조신사 마초숙녀 \(Original Webtoon Soundtrack\) Pt\. 29](https://open.spotify.com/album/4Ep6MfNWCisZZGVjZd5eiK) | 3:44 | 2023-06-13 |  |
+| [품](https://open.spotify.com/track/4BhPMX4CcdGvd9KIQNIhnz) | [Kajin](https://open.spotify.com/artist/7q4cacEQUFUHxQWwgIfSTZ) | [요조신사 마초숙녀 \(Original Webtoon Soundtrack\) Pt\. 29](https://open.spotify.com/album/4Ep6MfNWCisZZGVjZd5eiK) | 3:44 | 2023-06-13 | 2024-07-25 |
 | [하루만](https://open.spotify.com/track/4zFeRmRMTIlTHOYkOcZbSp) | [Jo Moon Geun](https://open.spotify.com/artist/23ITkiDXXyCmBN6VBKRivR) | [PETER PANDA \(Original Webtoon Soundtrack\) Pt.7](https://open.spotify.com/album/5kXr2na8z5s6ugdZPbqNaA) | 4:00 | 2023-05-15 | 2024-05-23 |
 | [햇살같은 사랑입니다](https://open.spotify.com/track/5ZYBeXAnNAQBuEZcJsb00Q) | [이동윤](https://open.spotify.com/artist/2hxQRFmEpUBMDS4mYCkcgM) | [베이비 드래곤 \(Original Webtoon Soundtrack\) Pt\. 7](https://open.spotify.com/album/5mOdHlkIdGAgMvpJCKDLwt) | 3:57 | 2023-10-10 |  |
 

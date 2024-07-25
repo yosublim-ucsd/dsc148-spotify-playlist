@@ -1851,6 +1851,24 @@
     },
     {
       "album": {
+        "name": "Winning 11",
+        "url": "https://open.spotify.com/album/6nFdenkFLOxjD5eYaD6pZc"
+      },
+      "artists": [
+        {
+          "name": "Yovie & Nuno",
+          "url": "https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215373,
+      "name": "Sampai Akhir Waktu",
+      "url": "https://open.spotify.com/track/6LF44wAs3h0K67RitTAfr5"
+    },
+    {
+      "album": {
         "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
         "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
       },

@@ -1432,7 +1432,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 261463,
       "name": "A Paz Que Eu Busco",
       "url": "https://open.spotify.com/track/7duBCdhN373REJUUtUHvlb"
@@ -12657,6 +12657,32 @@
     },
     {
       "album": {
+        "name": "Depois que o Sol Raiar",
+        "url": "https://open.spotify.com/album/5RCYlpsH7imlvZ08imhTCC"
+      },
+      "artists": [
+        {
+          "name": "Wam Baster",
+          "url": "https://open.spotify.com/artist/1mESdWKOyZOqzAOZbZzUjJ"
+        },
+        {
+          "name": "DJ Lipe EletroFunk",
+          "url": "https://open.spotify.com/artist/2dHP0yBmSwoqv2hQGhx8TE"
+        },
+        {
+          "name": "Regyn",
+          "url": "https://open.spotify.com/artist/68r9nV9QMYQiatpR5Jngou"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174740,
+      "name": "Depois que o Sol Raiar",
+      "url": "https://open.spotify.com/track/3Ld9N3RyrC9tpEUUH8RsCU"
+    },
+    {
+      "album": {
         "name": "Depois Tu Abre a Boca pra Poder Tomar Leitin",
         "url": "https://open.spotify.com/album/1X7guMIi6nVyqhEXjiCNON"
       },
@@ -17000,7 +17026,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 168019,
       "name": "Eu Queria Mudar",
       "url": "https://open.spotify.com/track/4lUZVC3KhiLlIHR5wcxfoo"
@@ -38916,7 +38942,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 167936,
       "name": "Poder de Mentir - Ao Vivo",
       "url": "https://open.spotify.com/track/5qMyN3dzXKb5P1MiKyqupZ"

@@ -716,7 +716,7 @@
           "url": "https://open.spotify.com/artist/1zbvx9v36agvfy9HbZQAez"
         },
         {
-          "name": "An Se Kwon",
+          "name": "gwangil_mansion",
           "url": "https://open.spotify.com/artist/5QkwGGdyc6aRan8Rf05OyG"
         },
         {
@@ -746,7 +746,7 @@
           "url": "https://open.spotify.com/artist/154S08jZNjCgrBYzQQFoo0"
         },
         {
-          "name": "An Se Kwon",
+          "name": "gwangil_mansion",
           "url": "https://open.spotify.com/artist/5QkwGGdyc6aRan8Rf05OyG"
         },
         {
@@ -5131,12 +5131,30 @@
     },
     {
       "album": {
+        "name": "Phantom Singer All Stars Episode.4",
+        "url": "https://open.spotify.com/album/6KswZNYWEEdmyZaFpnNGmx"
+      },
+      "artists": [
+        {
+          "name": "An Se Kwon",
+          "url": "https://open.spotify.com/artist/5QkwGGdyc6aRan8Rf05OyG"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 361516,
+      "name": "Un Amore Cosi Grande",
+      "url": "https://open.spotify.com/track/3tfwH3sBwojXNcNqZl59YX"
+    },
+    {
+      "album": {
         "name": "Phantom Singer All star Episode.4",
         "url": "https://open.spotify.com/album/5UGUoJXepWllmTdr2z3E9O"
       },
       "artists": [
         {
-          "name": "An Se Kwon",
+          "name": "gwangil_mansion",
           "url": "https://open.spotify.com/artist/5QkwGGdyc6aRan8Rf05OyG"
         }
       ],
@@ -5154,7 +5172,7 @@
       },
       "artists": [
         {
-          "name": "An Se Kwon",
+          "name": "gwangil_mansion",
           "url": "https://open.spotify.com/artist/5QkwGGdyc6aRan8Rf05OyG"
         }
       ],
@@ -5164,24 +5182,6 @@
       "duration_ms": 361516,
       "name": "Un Amore Cosi Grande",
       "url": "https://open.spotify.com/track/15u0qwB2qBOwX7XKYtPjWe"
-    },
-    {
-      "album": {
-        "name": "Phantom Singer All Stars Episode.4",
-        "url": "https://open.spotify.com/album/6KswZNYWEEdmyZaFpnNGmx"
-      },
-      "artists": [
-        {
-          "name": "An Se Kwon",
-          "url": "https://open.spotify.com/artist/5QkwGGdyc6aRan8Rf05OyG"
-        }
-      ],
-      "date_added": "2021-08-04",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 361516,
-      "name": "Un Amore Cosi Grande",
-      "url": "https://open.spotify.com/track/3tfwH3sBwojXNcNqZl59YX"
     },
     {
       "album": {

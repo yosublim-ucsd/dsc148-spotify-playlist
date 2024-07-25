@@ -47286,7 +47286,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 172968,
       "name": "Luces",
       "url": "https://open.spotify.com/track/6IB2ypx8cJRFLekOJEXIKx"
@@ -59180,6 +59180,24 @@
       "duration_ms": 177225,
       "name": "No Quiero Llorar",
       "url": "https://open.spotify.com/track/2kml6x1jk0EGq1AV4PkUYB"
+    },
+    {
+      "album": {
+        "name": "No Quiero Salir",
+        "url": "https://open.spotify.com/album/05hG8xvs2z2Uc9f7VkOhlh"
+      },
+      "artists": [
+        {
+          "name": "claramente",
+          "url": "https://open.spotify.com/artist/0xoT7BI442Mvz1D3TwgCXZ"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194558,
+      "name": "No Quiero Salir",
+      "url": "https://open.spotify.com/track/0MmJHqdaz54NwGdE4XojYL"
     },
     {
       "album": {

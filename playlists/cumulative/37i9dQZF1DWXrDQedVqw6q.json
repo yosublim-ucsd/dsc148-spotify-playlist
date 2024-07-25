@@ -268,7 +268,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 197252,
       "name": "Black Light",
       "url": "https://open.spotify.com/track/0xCCENWuCBpUqk2xqsB4tU"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 247293,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/79AKOkbYO8Qd8NMTZpSFzI"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 180432,
       "name": "Efflorescence",
       "url": "https://open.spotify.com/track/4iaZYHsfo1yuZmM9IlTl9g"
@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 160189,
       "name": "Keeping Secrets",
       "url": "https://open.spotify.com/track/1AsnXOdPvQMuUmTl9hBPvD"
@@ -2360,7 +2360,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 215500,
       "name": "Rest Your Soul",
       "url": "https://open.spotify.com/track/2J0E98htocXNbw8f5GLahx"
@@ -3315,6 +3315,24 @@
     },
     {
       "album": {
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/77KbOnCVfMpgFEaSwDX4cg"
+      },
+      "artists": [
+        {
+          "name": "Ephermal Nights",
+          "url": "https://open.spotify.com/artist/4MAkMNGGrVdSVVhNKLZGeV"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173520,
+      "name": "Trinity",
+      "url": "https://open.spotify.com/track/63zKewKkTJwV1DAR51uJrN"
+    },
+    {
+      "album": {
         "name": "Tsundere",
         "url": "https://open.spotify.com/album/2fOHmTIhnX8Hoe4rnrEjhi"
       },
@@ -3326,7 +3344,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 131703,
       "name": "Tsundere",
       "url": "https://open.spotify.com/track/053XLQrUhxw9z3jSNZ8eS9"
@@ -3362,7 +3380,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 164617,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/4tWrqO0LQozZ8fmBN642Z3"

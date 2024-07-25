@@ -1,6 +1,6 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: cotoba(\ucf54\ud1a0\ubc14)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 238049,
+  "num_followers": 238075,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-07-23 09:50:39",
       "album": {
+        "name": "[Dystopia : Lose Myself]",
+        "url": "https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 189546,
+      "name": "BOCA",
+      "url": "https://open.spotify.com/track/2u7p3Bzkv8h0Yx7w7R370n"
+    },
+    {
+      "added_at": "2024-07-23 09:50:39",
+      "album": {
         "name": "Lips (Feat. GISELLE)",
         "url": "https://open.spotify.com/album/7Bsrjk9Ct4lGx3jcxGcRIk"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 221133,
       "name": "WINTER FLOWER(Feat.RM)",
       "url": "https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC"
-    },
-    {
-      "added_at": "2024-07-23 09:50:39",
-      "album": {
-        "name": "[Dystopia : Lose Myself]",
-        "url": "https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 189546,
-      "name": "BOCA",
-      "url": "https://open.spotify.com/track/2u7p3Bzkv8h0Yx7w7R370n"
     },
     {
       "added_at": "2024-07-23 09:50:39",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-07-23 09:50:39",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 153546,
-      "name": "Doll",
-      "url": "https://open.spotify.com/track/4C7PyWUlTLUUgVZQVboCma"
-    },
-    {
-      "added_at": "2024-07-23 09:50:39",
-      "album": {
         "name": "1st Single Album 'Harmony from Discord'",
         "url": "https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 167800,
       "name": "Discord",
       "url": "https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC"
+    },
+    {
+      "added_at": "2024-07-23 09:50:39",
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 153546,
+      "name": "Doll",
+      "url": "https://open.spotify.com/track/4C7PyWUlTLUUgVZQVboCma"
     },
     {
       "added_at": "2024-07-23 09:50:39",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-07-23 09:50:39",
       "album": {
-        "name": "Bluetory",
-        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
-      },
-      "artists": [
-        {
-          "name": "CNBLUE",
-          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
-        }
-      ],
-      "duration_ms": 217835,
-      "name": "Loner",
-      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
-    },
-    {
-      "added_at": "2024-07-23 09:50:39",
-      "album": {
         "name": "NAN CHUN",
         "url": "https://open.spotify.com/album/10vZm1P5k6mIJSlPg127eb"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 229493,
       "name": "NAN CHUN",
       "url": "https://open.spotify.com/track/4TBHfv2isYco3fNKjQ8oSI"
+    },
+    {
+      "added_at": "2024-07-23 09:50:39",
+      "album": {
+        "name": "Bluetory",
+        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
+      },
+      "artists": [
+        {
+          "name": "CNBLUE",
+          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
+        }
+      ],
+      "duration_ms": 217835,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
     },
     {
       "added_at": "2024-07-23 09:50:39",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-07-23 09:50:39",
       "album": {
-        "name": "ASTERUM : The Shape of Things to Come",
-        "url": "https://open.spotify.com/album/0BlLhv46UtmO6UodMnwaYF"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 223026,
-      "name": "The 6th Summer",
-      "url": "https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2"
-    },
-    {
-      "added_at": "2024-07-23 09:50:39",
-      "album": {
         "name": "Pok\u00e9mon 2023 (Original TV Series Soundtrack, Korea)",
         "url": "https://open.spotify.com/album/2rTc5TdRP7hr7gE4h4lUR1"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 188532,
       "name": "We Go",
       "url": "https://open.spotify.com/track/7hxvMTEUOXEKDZ3nnUqbdJ"
+    },
+    {
+      "added_at": "2024-07-23 09:50:39",
+      "album": {
+        "name": "ASTERUM : The Shape of Things to Come",
+        "url": "https://open.spotify.com/album/0BlLhv46UtmO6UodMnwaYF"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 223026,
+      "name": "The 6th Summer",
+      "url": "https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2"
     },
     {
       "added_at": "2024-07-23 09:50:39",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-07-23 09:50:39",
       "album": {
-        "name": "minisode1 : Blue Hour",
-        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 191788,
-      "name": "Wishlist",
-      "url": "https://open.spotify.com/track/4A6f3zMLDDAUgkGTLtpMc3"
-    },
-    {
-      "added_at": "2024-07-23 09:50:39",
-      "album": {
         "name": "Regret of the Times (2024 aespa Remake Version) - SM STATION",
         "url": "https://open.spotify.com/album/4Nav3JE8TIOFiuY5x95MIh"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 171946,
       "name": "Regret of the Times - 2024 aespa Remake Version",
       "url": "https://open.spotify.com/track/6WJTEsLxWtSIlXML3NVSzA"
+    },
+    {
+      "added_at": "2024-07-23 09:50:39",
+      "album": {
+        "name": "minisode1 : Blue Hour",
+        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 191788,
+      "name": "Wishlist",
+      "url": "https://open.spotify.com/track/4A6f3zMLDDAUgkGTLtpMc3"
     },
     {
       "added_at": "2024-07-23 09:50:39",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-07-23 09:50:39",
       "album": {
-        "name": "Golden Hour - SM STATION : NCT LAB",
-        "url": "https://open.spotify.com/album/1oPIuYqBhdPDGfoEYt8MrR"
-      },
-      "artists": [
-        {
-          "name": "MARK",
-          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
-        }
-      ],
-      "duration_ms": 199621,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/14sD1EmQ20kSJY3P0M82MY"
-    },
-    {
-      "added_at": "2024-07-23 09:50:39",
-      "album": {
         "name": "ASTERUM",
         "url": "https://open.spotify.com/album/3T7Be41PixmIFH29sK3s1Z"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 231986,
       "name": "Wait for you",
       "url": "https://open.spotify.com/track/4r1caIy3DscFsJuNXKIo5g"
+    },
+    {
+      "added_at": "2024-07-23 09:50:39",
+      "album": {
+        "name": "Golden Hour - SM STATION : NCT LAB",
+        "url": "https://open.spotify.com/album/1oPIuYqBhdPDGfoEYt8MrR"
+      },
+      "artists": [
+        {
+          "name": "MARK",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+        }
+      ],
+      "duration_ms": 199621,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/14sD1EmQ20kSJY3P0M82MY"
     },
     {
       "added_at": "2024-07-23 09:50:39",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-07-23 09:50:39",
       "album": {
-        "name": "Lonely Stars",
-        "url": "https://open.spotify.com/album/01Jmjq2ScXdj8hufqKXrlP"
-      },
-      "artists": [
-        {
-          "name": "SEUNGKWAN",
-          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
-        }
-      ],
-      "duration_ms": 246120,
-      "name": "Lonely Stars (Korean Ver.)",
-      "url": "https://open.spotify.com/track/5EIMmyT519rdZzdeSGEj0m"
-    },
-    {
-      "added_at": "2024-07-23 09:50:39",
-      "album": {
         "name": "The Book of Us : Gluon - Nothing can tear us apart",
         "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 257752,
       "name": "Where the sea sleeps",
       "url": "https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB"
+    },
+    {
+      "added_at": "2024-07-23 09:50:39",
+      "album": {
+        "name": "Lonely Stars",
+        "url": "https://open.spotify.com/album/01Jmjq2ScXdj8hufqKXrlP"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "duration_ms": 246120,
+      "name": "Lonely Stars (Korean Ver.)",
+      "url": "https://open.spotify.com/track/5EIMmyT519rdZzdeSGEj0m"
     },
     {
       "added_at": "2024-07-23 09:50:39",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-07-23 09:50:39",
       "album": {
-        "name": "Expectation - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 188520,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5XLb6KA3Iykc5bY8vSk9Sq"
-    },
-    {
-      "added_at": "2024-07-23 09:50:39",
-      "album": {
         "name": "THE WORLD EP.PARADIGM",
         "url": "https://open.spotify.com/album/2f1QQQD15aeu9e5EWO3XrA"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 215438,
       "name": "Guerrilla - Flag Version",
       "url": "https://open.spotify.com/track/2lhcC5gHaWaxOEcfa1WwgY"
+    },
+    {
+      "added_at": "2024-07-23 09:50:39",
+      "album": {
+        "name": "Expectation - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5XLb6KA3Iykc5bY8vSk9Sq"
     },
     {
       "added_at": "2024-07-23 09:50:39",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2024-07-23 09:50:39",
       "album": {
-        "name": "BURN IT",
-        "url": "https://open.spotify.com/album/7tf5wvRToW2nWeaEMyG5rZ"
+        "name": "TAP - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/5PliHwqYkEzdXHZnA6scC0"
       },
       "artists": [
         {
-          "name": "FTISLAND",
-          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
+          "name": "TAEYONG",
+          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
         }
       ],
-      "duration_ms": 167533,
-      "name": "BURN IT",
-      "url": "https://open.spotify.com/track/6z1vmJyL1OSFkuU4nIFV9l"
+      "duration_ms": 244293,
+      "name": "404 Loading",
+      "url": "https://open.spotify.com/track/13gq2LImslxP5pdi6nGTjO"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

@@ -4,7 +4,7 @@
 
 > Calm music to help you focus on your reading.
 
-207 songs - 9 hr 46 min
+208 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,8 +22,8 @@
 | [Balance](https://open.spotify.com/track/4hmMZPHE5EXe0J0dEpPQpI) | [Lee Ward](https://open.spotify.com/artist/5zou4LWSpEFB1yvzLcokTl) | [Balance](https://open.spotify.com/album/3ZeV0Qwt7kndXoJlxl4LJB) | 2:33 | 2024-05-11 |  |
 | [Belle Vie De Tous Les Jours](https://open.spotify.com/track/3irfOZS30z0snSh5vOPs2V) | [Baudouin Béringer](https://open.spotify.com/artist/1zQiEG2u3FSEMD9QU0Brxg) | [Belle Vie De Tous Les Jours](https://open.spotify.com/album/2dYmnpSKtsLNFONuHvofaI) | 2:37 | 2022-03-21 |  |
 | [Birth of Light](https://open.spotify.com/track/03TniK8y3htqfMNq88Bqwz) | [Lily Valley](https://open.spotify.com/artist/24fmge1nCy1ahvJV09fEN7) | [Birth of Light](https://open.spotify.com/album/15HR5PQfvYni3ybglJgxQS) | 1:54 | 2022-03-21 | 2023-07-29 |
-| [Black Light](https://open.spotify.com/track/0xCCENWuCBpUqk2xqsB4tU) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Black Light](https://open.spotify.com/album/24edgUNsqMAL1fUvS04GQ4) | 3:17 | 2022-03-21 |  |
-| [Bliss](https://open.spotify.com/track/79AKOkbYO8Qd8NMTZpSFzI) | [2002](https://open.spotify.com/artist/6zVSYiNDYelMzhMiZQJU7W) | [This Moment Now](https://open.spotify.com/album/20kjkEG7bfr22uJcEj0JCA) | 4:07 | 2024-02-14 |  |
+| [Black Light](https://open.spotify.com/track/0xCCENWuCBpUqk2xqsB4tU) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Black Light](https://open.spotify.com/album/24edgUNsqMAL1fUvS04GQ4) | 3:17 | 2022-03-21 | 2024-07-25 |
+| [Bliss](https://open.spotify.com/track/79AKOkbYO8Qd8NMTZpSFzI) | [2002](https://open.spotify.com/artist/6zVSYiNDYelMzhMiZQJU7W) | [This Moment Now](https://open.spotify.com/album/20kjkEG7bfr22uJcEj0JCA) | 4:07 | 2024-02-14 | 2024-07-25 |
 | [Bord de L’eau](https://open.spotify.com/track/0g6LbYjAdDmV4YQcnzV4tF) | [Lou D'Audrey](https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl) | [Une Dernière Histoire](https://open.spotify.com/album/7z1hYYM53riIc9GF9PN41P) | 2:38 | 2022-03-21 |  |
 | [buzz](https://open.spotify.com/track/7cEfMa4xuTRegIALvQKWvl) | [Parting Clouds](https://open.spotify.com/artist/1l20ZEjuxcNE41jVZ5uy8Q) | [buzz](https://open.spotify.com/album/4KK8nCZ99exTrZ5HMx5J9w) | 2:05 | 2023-11-24 |  |
 | [Calling](https://open.spotify.com/track/0BY0tUd1MNhONkZwNyMCVg) | [Monaxia](https://open.spotify.com/artist/5oSOrrskSneqhw8bwpkb1v) | [Calling](https://open.spotify.com/album/6DuVMjQuRjgYKmKZNQs1bu) | 2:26 | 2022-03-21 |  |
@@ -58,7 +58,7 @@
 | [Drifting](https://open.spotify.com/track/6ZPr9b4odEGaYIFdYDRGM4) | [Will Kaufman](https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU) | [Drifting](https://open.spotify.com/album/7rb1ZtyB3i3h9pCdMJRZr6) | 3:00 | 2022-03-21 |  |
 | [Eau Rouge](https://open.spotify.com/track/0H9dq2PB8RxswjJaECzwoC) | [Neil Mansella](https://open.spotify.com/artist/6R6OzpQPL5Mh9ulcQy6CET) | [Eau Rouge](https://open.spotify.com/album/3BC8lAsB5VUcdgIVhCdmZh) | 3:38 | 2022-03-21 |  |
 | [Echoes](https://open.spotify.com/track/5pJiOBUlMmk3dv1kx2rqPu) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Echoes](https://open.spotify.com/album/3NdcsDmGYs9Xa3L4D5Re33) | 4:20 | 2022-03-21 | 2022-08-13 |
-| [Efflorescence](https://open.spotify.com/track/4iaZYHsfo1yuZmM9IlTl9g) | [Halcyon Wings](https://open.spotify.com/artist/1bMx6u2wXC3Ox3Cld6zyGQ) | [Efflorescence](https://open.spotify.com/album/1B6egnIEsekK1eGnNr7yLC) | 3:00 | 2022-11-11 |  |
+| [Efflorescence](https://open.spotify.com/track/4iaZYHsfo1yuZmM9IlTl9g) | [Halcyon Wings](https://open.spotify.com/artist/1bMx6u2wXC3Ox3Cld6zyGQ) | [Efflorescence](https://open.spotify.com/album/1B6egnIEsekK1eGnNr7yLC) | 3:00 | 2022-11-11 | 2024-07-25 |
 | [Ella](https://open.spotify.com/track/5g5GzjSjGD4UoA1vOemVLu) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Ella](https://open.spotify.com/album/470XfNnFrJcwGRcz2d7vP7) | 2:32 | 2024-05-11 |  |
 | [Ember Runner](https://open.spotify.com/track/4jZLoR7V67mcnbnDG0ldpw) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Favorite Hideaway](https://open.spotify.com/album/7gkJUPka0DFj7tIRazNW8B) | 2:41 | 2024-06-10 |  |
 | [Embracing](https://open.spotify.com/track/5LAv2x5tO1niEMuYrZ51YY) | [Ultrawideolence](https://open.spotify.com/artist/3Bwl5wO7HiQSR9NsiVz1fF) | [Embracing](https://open.spotify.com/album/1C1PQhMhTCuLsd59U4wh3w) | 3:09 | 2024-05-11 |  |
@@ -96,7 +96,7 @@
 | [Into The Stillness](https://open.spotify.com/track/33e8KMmhVnNr0BLuWENnv9) | [Junius Clyde](https://open.spotify.com/artist/0RvljygdcU5lXCCnNMwAGU) | [Into The Stillness](https://open.spotify.com/album/1HjdKuXwqq82BWDXm9TyUI) | 2:48 | 2023-11-16 |  |
 | [Jokk](https://open.spotify.com/track/3CPAzMHcgaaUt66dYJMveo) | [Fjellet](https://open.spotify.com/artist/4S0x628hBw2YQyh0hCQAf8) | [Jokk](https://open.spotify.com/album/5V3CTeIa4IKNIBpDNU5BjA) | 3:04 | 2022-10-15 |  |
 | [Joyace](https://open.spotify.com/track/1AIuyxWPMQcGa0bvfIBFU0) | [Increased Wither](https://open.spotify.com/artist/5kYX5ISMm4MkbVhNEL99DH) | [Joyace](https://open.spotify.com/album/7gL5SbpqXWxQscjkcwebb2) | 2:50 | 2024-05-11 |  |
-| [Keeping Secrets](https://open.spotify.com/track/1AsnXOdPvQMuUmTl9hBPvD) | [Lucas Delphy](https://open.spotify.com/artist/5bgAHbDkNceLzoE0bFMeVr) | [Keeping Secrets](https://open.spotify.com/album/1hnIKHQ7XZ1Q7YBAIjCeCE) | 2:40 | 2022-03-21 |  |
+| [Keeping Secrets](https://open.spotify.com/track/1AsnXOdPvQMuUmTl9hBPvD) | [Lucas Delphy](https://open.spotify.com/artist/5bgAHbDkNceLzoE0bFMeVr) | [Keeping Secrets](https://open.spotify.com/album/1hnIKHQ7XZ1Q7YBAIjCeCE) | 2:40 | 2022-03-21 | 2024-07-25 |
 | [Lake](https://open.spotify.com/track/6mwXRcgrAPNuuDJ5KpeaC2) | [Particle Guidance](https://open.spotify.com/artist/2Ol6nr2IZ1Jqs1scycbjLZ) | [Lake](https://open.spotify.com/album/6eCRz4246yp3XT8O042zhC) | 3:06 | 2024-05-11 |  |
 | [Latitude](https://open.spotify.com/track/1BMuBZVM8iuYu5bhVMmaID) | [Antonin Luthar](https://open.spotify.com/artist/04pS81HPxt768ZxxeJY36Z) | [Latitude](https://open.spotify.com/album/4nt53fqQh4PzVtWIHI7qMG) | 3:18 | 2022-03-21 | 2022-08-13 |
 | [Lilting Fields](https://open.spotify.com/track/6QayqmOU37gap6xzt1geL8) | [Genevieve Harding](https://open.spotify.com/artist/5bQclaUyw221JG0BsDceAS) | [Whole Breaths](https://open.spotify.com/album/2qHWi9gDsue0bh7C490ENt) | 2:55 | 2022-03-21 | 2022-09-07 |
@@ -138,7 +138,7 @@
 | [Purple Skies](https://open.spotify.com/track/0FgH4pMsTovHYDLs49l5LJ) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Purple Skies](https://open.spotify.com/album/6kVpioXtXTxlQHZz7bzb2b) | 3:09 | 2022-03-21 |  |
 | [Purposes](https://open.spotify.com/track/6Ji4BNyWqNOilFD9AyD0o2) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [A new beginning](https://open.spotify.com/album/3Xd0DUFkobavWbWXTQe5M0) | 3:26 | 2022-03-21 | 2022-08-13 |
 | [Quietude](https://open.spotify.com/track/5gHgNdqNDpPWdFnPp5RAdo) | [Mind Matters](https://open.spotify.com/artist/266MOuapHVsPkInxTMC8wO) | [Quietude](https://open.spotify.com/album/62Xuc4vGeWKWxx2Phv60Ld) | 3:48 | 2024-01-24 |  |
-| [Rest Your Soul](https://open.spotify.com/track/2J0E98htocXNbw8f5GLahx) | [Carlo Verde](https://open.spotify.com/artist/3XEOasc1hHiS4EAcYVI1Lt) | [Solitude](https://open.spotify.com/album/6SNOMXRBFNzL18Xo96PmD6) | 3:35 | 2022-03-21 |  |
+| [Rest Your Soul](https://open.spotify.com/track/2J0E98htocXNbw8f5GLahx) | [Carlo Verde](https://open.spotify.com/artist/3XEOasc1hHiS4EAcYVI1Lt) | [Solitude](https://open.spotify.com/album/6SNOMXRBFNzL18Xo96PmD6) | 3:35 | 2022-03-21 | 2024-07-25 |
 | [Ripples](https://open.spotify.com/track/0ft0r0FkcehEinp25jwzZi) | [Ningaloo](https://open.spotify.com/artist/5q3gVyAUO2idTLuANq9HAu) | [Ripples](https://open.spotify.com/album/4Xqssg19DANuwZyaRuvjzK) | 2:42 | 2022-03-21 |  |
 | [Sacred Alchemy](https://open.spotify.com/track/7rJMMlb0WFlfTt96o9nmWN) | [Lucia Lopez](https://open.spotify.com/artist/7jH2EHFbOaIWI1XHbOLb9X) | [Sacred Alchemy](https://open.spotify.com/album/2x5CIkNAszdckZInOtl4zn) | 2:26 | 2024-02-14 |  |
 | [Saga Menuette](https://open.spotify.com/track/3EwA8gI0oi0vtmIBZBjGRQ) | [Marie Depauw](https://open.spotify.com/artist/3YrkixibPYT9i5JliqmLK7) | [Saga Menuette](https://open.spotify.com/album/0h1xKYfHHxyIEUKQDie39S) | 1:51 | 2022-03-21 | 2023-07-29 |
@@ -191,9 +191,10 @@
 | [Time Freezes](https://open.spotify.com/track/7A7WJn6zZ1RNoM6FWIffq1) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [Winter Solstice](https://open.spotify.com/album/5GWU9xzKbfbKHXneotKD7f) | 3:15 | 2022-03-21 | 2022-09-07 |
 | [Timeless](https://open.spotify.com/track/4wDO6MjP0OoVxwHVizSBip) | [Cristoforo Giordano](https://open.spotify.com/artist/5kCSdIBChGo0GjOEuyjb40) | [Hourglass](https://open.spotify.com/album/50By33dGFe0wJ6GiQZKO8T) | 2:58 | 2022-03-21 |  |
 | [To Me](https://open.spotify.com/track/5R6uVJy58OxgyA0BQbY7Tk) | [Michel Landau](https://open.spotify.com/artist/2k6f9wKcRu84svgHonsR7x) | [You Are A Flower](https://open.spotify.com/album/0cH0rLc0CxNz3MjpKyuptN) | 2:08 | 2022-03-21 |  |
-| [Tsundere](https://open.spotify.com/track/053XLQrUhxw9z3jSNZ8eS9) | [ai.umi](https://open.spotify.com/artist/6avDPCpFyESoLK7WQf1hu0) | [Tsundere](https://open.spotify.com/album/2fOHmTIhnX8Hoe4rnrEjhi) | 2:11 | 2022-03-21 |  |
+| [Trinity](https://open.spotify.com/track/63zKewKkTJwV1DAR51uJrN) | [Ephermal Nights](https://open.spotify.com/artist/4MAkMNGGrVdSVVhNKLZGeV) | [Trinity](https://open.spotify.com/album/77KbOnCVfMpgFEaSwDX4cg) | 2:53 | 2024-07-24 |  |
+| [Tsundere](https://open.spotify.com/track/053XLQrUhxw9z3jSNZ8eS9) | [ai.umi](https://open.spotify.com/artist/6avDPCpFyESoLK7WQf1hu0) | [Tsundere](https://open.spotify.com/album/2fOHmTIhnX8Hoe4rnrEjhi) | 2:11 | 2022-03-21 | 2024-07-25 |
 | [Twilight](https://open.spotify.com/track/4cYgXrwFTNlKieOkrUdNti) | [Cosmic Sooth](https://open.spotify.com/artist/5ozCJLjahj9KK6MX8isMc7) | [Twilight](https://open.spotify.com/album/5MVdGPQqu93DO5A6GVlf1l) | 3:10 | 2024-05-11 |  |
-| [Twilight](https://open.spotify.com/track/4tWrqO0LQozZ8fmBN642Z3) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Twilight](https://open.spotify.com/album/6DqVZ8vsZhFFBMQ5VY9nMe) | 2:44 | 2022-03-21 |  |
+| [Twilight](https://open.spotify.com/track/4tWrqO0LQozZ8fmBN642Z3) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Twilight](https://open.spotify.com/album/6DqVZ8vsZhFFBMQ5VY9nMe) | 2:44 | 2022-03-21 | 2024-07-25 |
 | [Two Soon](https://open.spotify.com/track/4pRiULkvghCp6XM3U5t2d8) | [String Balloons](https://open.spotify.com/artist/3jgPCm3fQkceAaF5F8mMdF) | [One Go](https://open.spotify.com/album/1b56Njt19KHgniIzWNWaYf) | 5:03 | 2022-03-21 |  |
 | [Two Soon](https://open.spotify.com/track/7D1WYWKWix6WOSnxbtI8sn) | [String Balloons](https://open.spotify.com/artist/3jgPCm3fQkceAaF5F8mMdF) | [One Go](https://open.spotify.com/album/2SPnHtMaCIMyg6pkU68BkZ) | 5:03 | 2022-07-08 | 2024-04-19 |
 | [Ukiyo](https://open.spotify.com/track/7lno5cIJ2azVHyX0LHbeM5) | [Roasting Coffee Beans](https://open.spotify.com/artist/03dlT1wdnhRBavp2hsrmoY) | [Ukiyo](https://open.spotify.com/album/00Vl5X8fKO8IjXb14K3ypH) | 2:27 | 2024-07-13 |  |

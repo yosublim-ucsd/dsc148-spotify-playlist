@@ -4771,6 +4771,40 @@
     },
     {
       "album": {
+        "name": "Mere Mehboob Mere Sanam (From \"Bad Newz\")",
+        "url": "https://open.spotify.com/album/2pyoVGd8LlX9pVdkUPyYMt"
+      },
+      "artists": [
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        },
+        {
+          "name": "Lijo George-Dj Chetas",
+          "url": "https://open.spotify.com/artist/5TNSXFCNwlq2CfiMcNOCDP"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182369,
+      "name": "Mere Mehboob Mere Sanam (From \"Bad Newz\")",
+      "url": "https://open.spotify.com/track/3yxUi5nDZSWcYKi1C2xmLd"
+    },
+    {
+      "album": {
         "name": "Mere Yaaraa (From \"Sooryavanshi\")",
         "url": "https://open.spotify.com/album/1XO82yE4raeQEBSHxrNuSe"
       },
@@ -8188,7 +8222,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 270217,
       "name": "Vida Karo",
       "url": "https://open.spotify.com/track/60nxFG3LCviPvdTX5JU2iB"

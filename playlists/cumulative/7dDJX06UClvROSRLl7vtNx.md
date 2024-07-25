@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-464 songs - 20 hr 16 min
+465 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [King](https://open.spotify.com/track/3FLtWk8DRjMimRt84JJJOF) | [Oceanside](https://open.spotify.com/artist/5QCwRUSPkHc6uD78wTCcXR), [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA), [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR) | [King](https://open.spotify.com/album/64OoWtI7Bp30sAW2Y3RGVi) | 2:39 | 2023-09-22 | 2024-01-28 |
 | [Kiss Me](https://open.spotify.com/track/0aLMSHpqhgKWZGtMLgK1G8) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [Her Majesty](https://open.spotify.com/artist/4a8Lrkd7Ca9gdqytlXXU6X) | [Kiss Me](https://open.spotify.com/album/1ZwbE0LzvhUrMAQHyQ6GRi) | 2:06 | 2024-07-13 |  |
 | [Kiss Me Girl](https://open.spotify.com/track/3e8NAo1OMHxu7XxgjRBUDD) | [Starzun](https://open.spotify.com/artist/0t5KQtd9bQ4vRgLn4Rr1l4), [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8), [Riesling](https://open.spotify.com/artist/3GxT7ZybNZXWlMR1eopmx9) | [Kiss Me Girl](https://open.spotify.com/album/46opZlguyLrMQkXVW5GXec) | 2:30 | 2024-01-19 | 2024-05-02 |
+| [La Isla Bonita](https://open.spotify.com/track/2JV2fUnj0LSrpfym491dqX) | [Saxena](https://open.spotify.com/artist/4RmAlZapfAsWhj2k1pHsKe), [El Puffin](https://open.spotify.com/artist/0euvIrtGV2Hth36A3Ygo3u) | [La Isla Bonita](https://open.spotify.com/album/70fZK2pDUWMEXv9xwfsAiC) | 2:38 | 2024-07-24 |  |
 | [Lady \(Hear Me Tonight\)](https://open.spotify.com/track/2DlzKdiGMzst28nBnpXQgv) | [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT), [AALLAR](https://open.spotify.com/artist/0Zo4tbJKj4xYiidcaYRtz1) | [Lady \(Hear Me Tonight\)](https://open.spotify.com/album/0R69J465ReHXJ9Zyf8Pj4s) | 2:21 | 2024-03-10 | 2024-04-08 |
 | [Last Day Of Summer](https://open.spotify.com/track/77DPvfOqNxUfL2gLvkhSr6) | [Kusko](https://open.spotify.com/artist/0uO72K8Y6OKi7DSAoc5do3), [blackbird](https://open.spotify.com/artist/6n05pHuHJGmIbBAB42bAAT) | [Last Day Of Summer](https://open.spotify.com/album/7825P7bPdQedV51KZoX9QM) | 2:23 | 2024-03-03 | 2024-05-06 |
 | [Last Train Home](https://open.spotify.com/track/36OeG9DZLSyNrTP3Hys7Ex) | [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU), [Robbie Jay](https://open.spotify.com/artist/5bWPJEXEu87AXFu0XJ4j6K), [Toby Rose](https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ) | [Last Train Home](https://open.spotify.com/album/6vE9Lq68c4KVFa37UOo0X4) | 2:38 | 2024-04-15 | 2024-05-06 |

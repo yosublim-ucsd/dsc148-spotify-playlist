@@ -1,12 +1,12 @@
 {
-  "description": "This Is Los Enanitos Verdes. Los temas esenciales, todos en una lista.",
-  "num_followers": 190258,
+  "description": "This is Los Enanitos Verdes. The essential tracks, all in one playlist.",
+  "num_followers": 190284,
   "original_name": "This Is Los Enanitos Verdes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zp2hAAAAAAAJK1jtL2AuiutBnhjxsl2W",
+  "snapshot_id": "Zp7ygAAAAAA+eBGwViVazOlda///rw8D",
   "tracks": [
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 150106,
-      "name": "Simulacro de Tensi\u00f3n",
-      "url": "https://open.spotify.com/track/1232N6tG7EIceHRyAAKZWH"
+      "duration_ms": 271640,
+      "name": "Solo Dame Otra Oportunidad",
+      "url": "https://open.spotify.com/track/1WFKutKqa4c2TeXWyQrbn4"
     },
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 271640,
-      "name": "Solo Dame Otra Oportunidad",
-      "url": "https://open.spotify.com/track/1WFKutKqa4c2TeXWyQrbn4"
+      "duration_ms": 150106,
+      "name": "Simulacro de Tensi\u00f3n",
+      "url": "https://open.spotify.com/track/1232N6tG7EIceHRyAAKZWH"
     },
     {
       "added_at": null,

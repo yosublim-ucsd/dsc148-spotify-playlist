@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RCiYg.md) - [plain]
 
 > This is Black Eyed Peas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,127 likes - 51 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,274 likes - 51 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RCiYg.md) - [plain]
 | 41 | [Missing You](https://open.spotify.com/track/4pLMepQdJY7IXkrgRAubSx) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:34 |
 | 42 | [TODO BUENO](https://open.spotify.com/track/4FldXs1bcL6WUrpOcENkfD) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:50 |
 | 43 | [Love You Long Time](https://open.spotify.com/track/5PdnrnroNNd7n3AOqvv4hD) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [The Beginning](https://open.spotify.com/album/3IpexNXiKbezuY526S4Jvy) | 3:45 |
-| 44 | [GUARANTEE \(feat\. J\. Rey Soul\) \- SUMMER MIX](https://open.spotify.com/track/1awobyPJIqyw2mgdjaFvoz) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J\. Rey Soul](https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83) | [GUARANTEE \(feat\. J\. Rey Soul\) \[SUMMER MIX\]](https://open.spotify.com/album/78g17CAmtDlt0ngIiZ8gGH) | 3:31 |
-| 45 | [I Gotta Feeling \- FMIF Remix; Edit](https://open.spotify.com/track/6HiLX5aXSQekfFTlGdENKc) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [FMIF](https://open.spotify.com/artist/1PwGtc3brzQeXr9D08ff5F) | [One More Love](https://open.spotify.com/album/7fHeCs5cgtXYqxBPG1iK1n) | 3:54 |
-| 46 | [Be Nice](https://open.spotify.com/track/3lKF2lBLLkxSrxsLHOdqCD) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Be Nice](https://open.spotify.com/album/1Wa0EtY5loqLQdUHIPJpHX) | 3:48 |
+| 44 | [I Gotta Feeling \- FMIF Remix; Edit](https://open.spotify.com/track/6HiLX5aXSQekfFTlGdENKc) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [FMIF](https://open.spotify.com/artist/1PwGtc3brzQeXr9D08ff5F) | [One More Love](https://open.spotify.com/album/7fHeCs5cgtXYqxBPG1iK1n) | 3:54 |
+| 45 | [GUARANTEE \(feat\. J\. Rey Soul\) \- SUMMER MIX](https://open.spotify.com/track/1awobyPJIqyw2mgdjaFvoz) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J\. Rey Soul](https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83) | [GUARANTEE \(feat\. J\. Rey Soul\) \[SUMMER MIX\]](https://open.spotify.com/album/78g17CAmtDlt0ngIiZ8gGH) | 3:31 |
+| 46 | [NO MAÑANA](https://open.spotify.com/track/1clKJlcPmm4BY9TkXKQxso) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:41 |
 | 47 | [Someday](https://open.spotify.com/track/0iO9nE6zE8Oqcl8eXjxCJ7) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [The Beginning](https://open.spotify.com/album/3IpexNXiKbezuY526S4Jvy) | 4:33 |
-| 48 | [NO MAÑANA](https://open.spotify.com/track/1clKJlcPmm4BY9TkXKQxso) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:41 |
+| 48 | [Be Nice](https://open.spotify.com/track/3lKF2lBLLkxSrxsLHOdqCD) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Be Nice](https://open.spotify.com/album/1Wa0EtY5loqLQdUHIPJpHX) | 3:48 |
 | 49 | [\#WHERESTHELOVE](https://open.spotify.com/track/61pl7NmpG9R2KamTBAy5Yo) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [The World](https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F) | [\#WHERESTHELOVE](https://open.spotify.com/album/2RiLLqGSyYhC3QMk8F0wUu) | 5:25 |
-| 50 | [Boom Boom Pow \- Radio Edit](https://open.spotify.com/track/19o5hmeKzaX5PauBO3lTHh) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [NOW That's What I Call Music 31 \(20 track Dell Bundle\)](https://open.spotify.com/album/70DTiFYxkFuou42yT6cSK2) | 3:36 |
-| 51 | [BIG LOVE](https://open.spotify.com/track/6eNeTj9NecqgP1VEqInpKg) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [MASTERS OF THE SUN VOL\. 1](https://open.spotify.com/album/7er6jjv5446zSiCIo6E9Pr) | 4:35 |
+| 50 | [DURO HARD](https://open.spotify.com/track/1dqAW18r3tHyy4Ou7PjB9e) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:25 |
+| 51 | [Boom Boom Pow \- Radio Edit](https://open.spotify.com/track/19o5hmeKzaX5PauBO3lTHh) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [NOW That's What I Call Music 31 \(20 track Dell Bundle\)](https://open.spotify.com/album/70DTiFYxkFuou42yT6cSK2) | 3:36 |
 
-Snapshot ID: `Zp2hAAAAAACT7bcSvt7Wz1Bw7izINpJR`
+Snapshot ID: `Zp7ygAAAAABuf6kdC+olYID2jOKoPZEy`

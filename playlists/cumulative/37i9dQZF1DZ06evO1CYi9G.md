@@ -2,7 +2,7 @@
 
 ### [This Is Mudvayne](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1CYi9G)
 
-> This Is Mudvayne\. Los temas esenciales, todos en una lista.
+> This is Mudvayne\. The essential tracks, all in one playlist.
 
 40 songs - 2 hr 40 min
 

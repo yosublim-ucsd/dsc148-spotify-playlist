@@ -1,12 +1,12 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 633112,
+  "num_followers": 633521,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zp2hAAAAAABW0dZnwPbhBuu3xz3Kizw7",
+  "snapshot_id": "Zp7ygAAAAABMo+5NiLLeuCKE+97kO7bY",
   "tracks": [
     {
       "added_at": null,
@@ -560,7 +560,7 @@
       "added_at": null,
       "album": {
         "name": "HIXTAPE: Vol. 1",
-        "url": "https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo"
+        "url": "https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs"
       },
       "artists": [
         {
@@ -574,15 +574,11 @@
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "Zakk Wylde",
-          "url": "https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny"
         }
       ],
-      "duration_ms": 154960,
-      "name": "Turn You Down (HARDY feat. Morgan Wallen, Zakk Wylde)",
-      "url": "https://open.spotify.com/track/3X0773BLlMv6RMq0wkZZAk"
+      "duration_ms": 213693,
+      "name": "He Went To Jared (HARDY feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/49lYjrC2iz9Kqb30EL8XmK"
     },
     {
       "added_at": null,
@@ -618,11 +614,15 @@
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Zakk Wylde",
+          "url": "https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny"
         }
       ],
-      "duration_ms": 213693,
-      "name": "He Went To Jared (HARDY feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/65IHmBagtQrYRcJd8a47zv"
+      "duration_ms": 154960,
+      "name": "Turn You Down (HARDY feat. Morgan Wallen, Zakk Wylde)",
+      "url": "https://open.spotify.com/track/3X0773BLlMv6RMq0wkZZAk"
     }
   ],
   "unique_name": "This Is Morgan Wallen",

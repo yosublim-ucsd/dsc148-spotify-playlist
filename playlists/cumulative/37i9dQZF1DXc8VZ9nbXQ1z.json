@@ -2625,6 +2625,32 @@
     },
     {
       "album": {
+        "name": "Empangeni (Remix)",
+        "url": "https://open.spotify.com/album/30LN3KguOerjDa2h34T0YM"
+      },
+      "artists": [
+        {
+          "name": "Abantu",
+          "url": "https://open.spotify.com/artist/7hBaZSGfoL0K0NQtRWXrbR"
+        },
+        {
+          "name": "Gallo Remixed",
+          "url": "https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8"
+        },
+        {
+          "name": "Bhekumuzi Luthuli",
+          "url": "https://open.spotify.com/artist/2olZnrkMJFY0BnGZM7vWMV"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391239,
+      "name": "Empangeni (Remix)",
+      "url": "https://open.spotify.com/track/3ajgrI15oBjq6RIk00CAXN"
+    },
+    {
+      "album": {
         "name": "Esperanza",
         "url": "https://open.spotify.com/album/0o2lxFDqKV6MHJoa6QnmEL"
       },
@@ -4786,6 +4812,32 @@
       "duration_ms": 449964,
       "name": "IQHAWE",
       "url": "https://open.spotify.com/track/30RylevGyD4EFyV4VYbPj3"
+    },
+    {
+      "album": {
+        "name": "Isibani",
+        "url": "https://open.spotify.com/album/7wKi4a3VyrShQQgk5nuRL4"
+      },
+      "artists": [
+        {
+          "name": "Dazzie Funk",
+          "url": "https://open.spotify.com/artist/2lJ6KTYOfueHtp5i0nmql2"
+        },
+        {
+          "name": "Karyendasoul",
+          "url": "https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p"
+        },
+        {
+          "name": "Yamke",
+          "url": "https://open.spotify.com/artist/0JDkIwQ94aMviEFSvUgPJF"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415892,
+      "name": "Isibani",
+      "url": "https://open.spotify.com/track/0UwjnvadO37prE3pH1xvRs"
     },
     {
       "album": {

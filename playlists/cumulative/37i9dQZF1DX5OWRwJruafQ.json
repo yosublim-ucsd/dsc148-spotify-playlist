@@ -1422,7 +1422,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 187636,
       "name": "Busy Getting Paid",
       "url": "https://open.spotify.com/track/6JQuDtJCyQcfVdtA0K8ivR"
@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 124421,
       "name": "Case",
       "url": "https://open.spotify.com/track/2fRHKT0pS5NyKW32fhLIUb"
@@ -7231,6 +7231,24 @@
     },
     {
       "album": {
+        "name": "Ruthless",
+        "url": "https://open.spotify.com/album/5lkwkuJPAcgydTyGoUoJ69"
+      },
+      "artists": [
+        {
+          "name": "Real Boss",
+          "url": "https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140145,
+      "name": "Ruthless",
+      "url": "https://open.spotify.com/track/3paXvFiNplBnwvwzckYvmM"
+    },
+    {
+      "album": {
         "name": "Leo",
         "url": "https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2"
       },
@@ -8713,6 +8731,32 @@
     },
     {
       "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/4Sly6dIWIWsz2e5RWsq9YM"
+      },
+      "artists": [
+        {
+          "name": "Amninder Bugga",
+          "url": "https://open.spotify.com/artist/0RE6WCjLuveGFO35kHluZL"
+        },
+        {
+          "name": "Prabh Bains",
+          "url": "https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y"
+        },
+        {
+          "name": "Chet Singh",
+          "url": "https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/5As6ZOdkqBx22guNsTBquo"
+    },
+    {
+      "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/39TgDdcNT7Bp5VAekbTFut"
       },
@@ -8830,6 +8874,10 @@
         {
           "name": "Gill Madhipuriya",
           "url": "https://open.spotify.com/artist/5HK0k0FIFR1al68TrZkfdp"
+        },
+        {
+          "name": "Inder Dhammu",
+          "url": "https://open.spotify.com/artist/62lU8tdLrII0IPky1vaMsu"
         }
       ],
       "date_added": "2024-07-19",

@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 7762,
+  "num_followers": 7767,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-07-19 06:12:32",
       "album": {
+        "name": "Brand New Life",
+        "url": "https://open.spotify.com/album/2Onw6aYMcdSpuVIzlBVrFU"
+      },
+      "artists": [
+        {
+          "name": "Gregory Ackerman",
+          "url": "https://open.spotify.com/artist/3ZKxRpn8zCtfawDZtAMlYX"
+        }
+      ],
+      "duration_ms": 153193,
+      "name": "When It's Through",
+      "url": "https://open.spotify.com/track/62ODYcOsoixBrHGptOgFSH"
+    },
+    {
+      "added_at": "2024-07-19 06:12:32",
+      "album": {
         "name": "I'll Wait Till You're Really Gone",
         "url": "https://open.spotify.com/album/0sDgSlEMGFQrGo5FoXPkCe"
       },
@@ -451,22 +467,6 @@
     {
       "added_at": "2024-07-19 06:12:32",
       "album": {
-        "name": "Keep It Simple",
-        "url": "https://open.spotify.com/album/7GazVXm5O9ETxTyNcvO6Yi"
-      },
-      "artists": [
-        {
-          "name": "Boaz",
-          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
-        }
-      ],
-      "duration_ms": 193426,
-      "name": "Keep It Simple",
-      "url": "https://open.spotify.com/track/30V2xXhFd3tEnxNo3suBKa"
-    },
-    {
-      "added_at": "2024-07-19 06:12:32",
-      "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/1zOm18cLXjrqjrYuHRUTBY"
       },
@@ -483,18 +483,18 @@
     {
       "added_at": "2024-07-19 06:12:32",
       "album": {
-        "name": "Brand New Life",
-        "url": "https://open.spotify.com/album/2Onw6aYMcdSpuVIzlBVrFU"
+        "name": "Keep It Simple",
+        "url": "https://open.spotify.com/album/7GazVXm5O9ETxTyNcvO6Yi"
       },
       "artists": [
         {
-          "name": "Gregory Ackerman",
-          "url": "https://open.spotify.com/artist/3ZKxRpn8zCtfawDZtAMlYX"
+          "name": "Boaz",
+          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
         }
       ],
-      "duration_ms": 153193,
-      "name": "When It's Through",
-      "url": "https://open.spotify.com/track/62ODYcOsoixBrHGptOgFSH"
+      "duration_ms": 193426,
+      "name": "Keep It Simple",
+      "url": "https://open.spotify.com/track/30V2xXhFd3tEnxNo3suBKa"
     },
     {
       "added_at": "2024-07-19 06:12:32",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-07-19 06:12:32",
       "album": {
-        "name": "Sugah Rush",
-        "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 160594,
-      "name": "Sugah Rush",
-      "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
-    },
-    {
-      "added_at": "2024-07-19 06:12:32",
-      "album": {
         "name": "Alpine Gold",
         "url": "https://open.spotify.com/album/56epnGRSer3a3fTncdQMxK"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 196426,
       "name": "It's So Easy",
       "url": "https://open.spotify.com/track/5cvgCBm4qIPpgnvn6hiZ25"
+    },
+    {
+      "added_at": "2024-07-19 06:12:32",
+      "album": {
+        "name": "Sugah Rush",
+        "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 160594,
+      "name": "Sugah Rush",
+      "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
     },
     {
       "added_at": "2024-07-19 06:12:32",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-07-19 06:12:32",
       "album": {
-        "name": "Fortunes & Willows",
-        "url": "https://open.spotify.com/album/12ycpUr0zVCaDesITqsq0x"
-      },
-      "artists": [
-        {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1"
-        }
-      ],
-      "duration_ms": 244667,
-      "name": "Little Miss Blue Eyes",
-      "url": "https://open.spotify.com/track/13eAihSwYg2klEZYutJVxO"
-    },
-    {
-      "added_at": "2024-07-19 06:12:32",
-      "album": {
         "name": "A Heightened Sense of Everything",
         "url": "https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 208440,
       "name": "Heat of the Moment",
       "url": "https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i"
+    },
+    {
+      "added_at": "2024-07-19 06:12:32",
+      "album": {
+        "name": "Fortunes & Willows",
+        "url": "https://open.spotify.com/album/12ycpUr0zVCaDesITqsq0x"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1"
+        }
+      ],
+      "duration_ms": 244667,
+      "name": "Little Miss Blue Eyes",
+      "url": "https://open.spotify.com/track/13eAihSwYg2klEZYutJVxO"
     },
     {
       "added_at": "2024-07-19 06:12:32",

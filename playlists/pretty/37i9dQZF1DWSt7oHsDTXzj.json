@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 179771,
+  "num_followers": 179759,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
+        "name": "This Warm December, A Brushfire Holiday Vol. 2",
+        "url": "https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 227173,
+      "name": "Christmas Must Be Tonight",
+      "url": "https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
         "name": "We Should Be Together",
         "url": "https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 211946,
       "name": "We Should Be Together",
       "url": "https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "This Warm December, A Brushfire Holiday Vol. 2",
-        "url": "https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 227173,
-      "name": "Christmas Must Be Tonight",
-      "url": "https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -913,22 +913,6 @@
       "url": "https://open.spotify.com/track/6WyeIQXw0Dd6SOjxs0P2is"
     },
     {
-      "added_at": "2024-01-03 20:06:55",
-      "album": {
-        "name": "Snowing In LA",
-        "url": "https://open.spotify.com/album/0bAnJbVxDC5DMCSCyf4SOV"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "Snowing In LA",
-      "url": "https://open.spotify.com/track/3I6TZhBLFUVLWl1vM4I0t6"
-    },
-    {
       "added_at": "2023-10-16 19:34:42",
       "album": {
         "name": "christmas day",
@@ -959,6 +943,22 @@
       "duration_ms": 128737,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
+    },
+    {
+      "added_at": "2024-01-03 20:06:55",
+      "album": {
+        "name": "Snowing In LA",
+        "url": "https://open.spotify.com/album/0bAnJbVxDC5DMCSCyf4SOV"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "Snowing In LA",
+      "url": "https://open.spotify.com/track/3I6TZhBLFUVLWl1vM4I0t6"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1057,6 +1057,22 @@
       "url": "https://open.spotify.com/track/0hwGsJMbUwevJHPdg3YPRV"
     },
     {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "O\u2019Holy Night",
+        "url": "https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D"
+      },
+      "artists": [
+        {
+          "name": "Kat Cunning",
+          "url": "https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK"
+        }
+      ],
+      "duration_ms": 173402,
+      "name": "O\u2019Holy Night",
+      "url": "https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ"
+    },
+    {
       "added_at": "2023-12-08 17:43:39",
       "album": {
         "name": "The Little Drummer Boy",
@@ -1075,22 +1091,6 @@
       "duration_ms": 176583,
       "name": "The Little Drummer Boy",
       "url": "https://open.spotify.com/track/3PS3si74boOaOC6zxf858B"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "O\u2019Holy Night",
-        "url": "https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D"
-      },
-      "artists": [
-        {
-          "name": "Kat Cunning",
-          "url": "https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK"
-        }
-      ],
-      "duration_ms": 173402,
-      "name": "O\u2019Holy Night",
-      "url": "https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Spotify Singles \u2013 Christmas",
-        "url": "https://open.spotify.com/album/4l4xgIIOkf91wfzoEjQbkj"
-      },
-      "artists": [
-        {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
-        }
-      ],
-      "duration_ms": 216547,
-      "name": "Last Christmas - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/0meX0Nl3ZjxecRS5oBvlU2"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Auld Lang Syne",
         "url": "https://open.spotify.com/album/5kJSx4MUPIidcP4DZNRzfu"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 192440,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/1csVCmVSxMwc9wbL0j54hW"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Spotify Singles \u2013 Christmas",
+        "url": "https://open.spotify.com/album/4l4xgIIOkf91wfzoEjQbkj"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "duration_ms": 216547,
+      "name": "Last Christmas - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/0meX0Nl3ZjxecRS5oBvlU2"
     }
   ],
   "unique_name": "Indie Christmas",

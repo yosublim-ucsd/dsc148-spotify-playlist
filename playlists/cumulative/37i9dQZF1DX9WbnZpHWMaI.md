@@ -2,9 +2,9 @@
 
 ### [Women of Electronic](https://open.spotify.com/playlist/37i9dQZF1DX9WbnZpHWMaI)
 
-> Celebrating women at the centre of innovation in electronic music\. Cover: KUČKA
+> Celebrating women at the centre of innovation in electronic music\. Cover: Girl Ultra
 
-383 songs - 1 day 0 hr 42 min
+387 songs - 1 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [BIPP](https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [BIPP](https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU) | 3:44 | 2021-03-01 | 2024-03-02 |
 | [Blackbird SR\-71](https://open.spotify.com/track/68oNk0caJp9px4OqqmPAmS) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Blackbird SR\-71](https://open.spotify.com/album/1OdcAtQUGSSKRj4QjaWK4b) | 3:35 | 2024-06-07 |  |
 | [Body & Soul](https://open.spotify.com/track/3Wb4xz7e9M94DiRnkhLm7m) | [A Hundred Drums](https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ) | [Body & Soul](https://open.spotify.com/album/26qaE6BS5fVRqtao7Qxmoq) | 3:15 | 2024-03-01 | 2024-05-03 |
+| [Body \(feat\. Tima Dee\)](https://open.spotify.com/track/1HUUzEhzjOd26lGtcOvlyE) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP) | [Body \(feat\. Tima Dee\)](https://open.spotify.com/album/2MpvK6jRaDyD4y54OgbX58) | 2:45 | 2024-07-24 |  |
 | [BOUND](https://open.spotify.com/track/2ygzmgkDWkxJ3pTlwqpWpj) | [Bright Lights](https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou) | [BOUND](https://open.spotify.com/album/6WHswKP0Vrp4b5ZXlO5TTV) | 4:52 | 2024-03-29 | 2024-05-03 |
 | [BOYZ](https://open.spotify.com/track/5UnNCMFboucIF78lnp1jkR) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [BOYZ](https://open.spotify.com/album/4tLBzhf9266srlw5qj6LnE) | 4:00 | 2022-03-08 | 2023-03-08 |
 | [BOYZ](https://open.spotify.com/track/79ixYcSOhGVaG69GHfVOXJ) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [BOYZ](https://open.spotify.com/album/42RXpd1cxEckm91miDtiAs) | 4:00 | 2022-03-08 | 2022-07-29 |
@@ -69,6 +70,7 @@
 | [Come Back Home](https://open.spotify.com/track/2qTZLwkM28xYCCPpLVsoba) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Come Back Home](https://open.spotify.com/album/7218sq4IjCey3jaEvEq7ot) | 4:03 | 2024-03-01 | 2024-04-19 |
 | [Come My Way](https://open.spotify.com/track/7kKg9yiwhnzw2FgPIfRq4K) | [Dana Lu](https://open.spotify.com/artist/2yh299nlctFR4sx8krBlRj), [Taina Rain](https://open.spotify.com/artist/7B88AYHeAM3ZlX6lJTS4Oz) | [Worldwide Link\-Up](https://open.spotify.com/album/1ognORvmZasab5RvjN4PcO) | 2:48 | 2024-03-01 |  |
 | [Come Thru](https://open.spotify.com/track/0hn8lFibQnnruBtfjOTmTO) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Alter EP](https://open.spotify.com/album/1cNtoofX8TnCb3ExzRg86J) | 3:17 | 2024-06-28 |  |
+| [Come To My House](https://open.spotify.com/track/7aTYdP588hjgw1s0VBDkfB) | [Lucy Tun](https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6) | [Come To My House](https://open.spotify.com/album/683Ze2XpLW2ohwPWpSKzq4) | 3:20 | 2024-07-24 |  |
 | [Coming Back](https://open.spotify.com/track/0sx0yFSdEWeSPl0iXmNHJ2) | [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Coming Back](https://open.spotify.com/album/1M6bafn6Qg6kVyhFNIHZjJ) | 2:38 | 2024-05-03 | 2024-07-13 |
 | [Connection](https://open.spotify.com/track/3ND04Few0cZd4LmGzxNXGt) | [Lizzy Jane](https://open.spotify.com/artist/1LpxuJ9gD3eHAPjGGvr9Zy) | [Ignite](https://open.spotify.com/album/2VjgJx2JjkdRlJBTtem6in) | 4:05 | 2024-05-03 |  |
 | [Control](https://open.spotify.com/track/53aYQUlqd18aIZRKiI673A) | [Jesabel](https://open.spotify.com/artist/1hbXMN5DALO8IblEjSJw2I) | [Control](https://open.spotify.com/album/1uFRgQcbquXq6HuKET5PvT) | 3:10 | 2024-03-29 | 2024-05-18 |
@@ -120,7 +122,7 @@
 | [Follow My Arms](https://open.spotify.com/track/7fw38f3tOAMZS4kTujJD5f) | [Planet Zuzy](https://open.spotify.com/artist/10K231eiZCnBiogY5tWeRl) | [Follow My Arms](https://open.spotify.com/album/0Tuc2mb3KTd5CJfjObRgTW) | 3:56 | 2024-03-01 | 2024-06-01 |
 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 | 2023-03-07 | 2024-03-02 |
 | [For U](https://open.spotify.com/track/75pO5G1mbEPPxcLne7ag3h) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T) | [For U](https://open.spotify.com/album/6aHwcfyEOFqSs0UHoETcGt) | 4:05 | 2024-04-19 | 2024-07-13 |
-| [For You](https://open.spotify.com/track/4dlrWHf3oirUjNLXf5ZX4Z) | [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX) | [For You](https://open.spotify.com/album/70XabD5ugctX7e4zErhiDi) | 2:43 | 2024-04-26 |  |
+| [For You](https://open.spotify.com/track/4dlrWHf3oirUjNLXf5ZX4Z) | [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX) | [For You](https://open.spotify.com/album/70XabD5ugctX7e4zErhiDi) | 2:43 | 2024-04-26 | 2024-07-25 |
 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 | 2023-03-07 | 2024-03-02 |
 | [Foreign Love](https://open.spotify.com/track/0tV8BcMH8Y2SxRVeNAqNMx) | [MISS DRE](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Foreign Love](https://open.spotify.com/album/3X2cNyUuEKzUh742B7YhZy) | 3:09 | 2024-03-01 | 2024-06-18 |
 | [Foreigner](https://open.spotify.com/track/3SDuW3SeTOynDuL4MRp6vJ) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Sail the Seven Seas](https://open.spotify.com/album/0LlllZbWCmGaxUBDiRHhUQ) | 4:32 | 2024-03-01 | 2024-03-30 |
@@ -238,12 +240,13 @@
 | [Milan](https://open.spotify.com/track/4BWhmMQ52fqNoL3kabIM3L) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U), [L U C Y](https://open.spotify.com/artist/0L18KxnMWgXorB5oVDRGzR) | [SOS MUSIC VOLUME 1](https://open.spotify.com/album/2sW21vXlX1MNW0VyJLo4LM) | 3:30 | 2022-03-08 | 2022-11-14 |
 | [Mine](https://open.spotify.com/track/2hPA6eCXmilws9KXeKwOGN) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Mine](https://open.spotify.com/album/0ugHcuARkUFmlZTRIpN00U) | 3:41 | 2024-06-28 |  |
 | [Miss Dopamine](https://open.spotify.com/track/7tE9nUB6eBL0GPMfeZTqsh) | [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ), [Paige Eliza](https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey) | [Miss Dopamine](https://open.spotify.com/album/7dfCoyCzRpLmVwjRtMUqR6) | 3:46 | 2024-03-01 | 2024-05-22 |
+| [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 | 2024-07-24 |  |
 | [Monochrome](https://open.spotify.com/track/2kskTbid8dwX2CWRr0PHTI) | [Dea Magna](https://open.spotify.com/artist/2CV829PespIwQonuSPIClv) | [Monochrome](https://open.spotify.com/album/5hgyxNLlJI41T8ZRiMxmSB) | 3:32 | 2024-05-03 |  |
 | [Movementt](https://open.spotify.com/track/1zYA5cNkQnFyyVOZaY7lqO) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4jZE92oJG0NgpXB6gBKe8K) | 3:33 | 2022-03-08 | 2023-03-08 |
 | [Movementt](https://open.spotify.com/track/41eywgVC3YN7RmdZNmwpyC) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4MnjVFnInqwCgHBqt4e6zN) | 3:33 | 2021-03-01 | 2023-02-02 |
 | [Mr\. Sandman](https://open.spotify.com/track/1Y2eoRAhwsjCKcdNnrZOzV) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [Mr\. Sandman](https://open.spotify.com/album/5DGMidRNgao4B4iJNW6gAb) | 2:25 | 2024-03-01 |  |
 | [MUSCLE](https://open.spotify.com/track/2feyIPw7iHgdaMYRskMTuK) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [MUSCLE](https://open.spotify.com/album/7bzkCKNKQQTlHKbEdEuOBH) | 2:29 | 2024-06-24 | 2024-07-13 |
-| [My Reflection](https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [My Reflection](https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT) | 4:17 | 2024-06-24 |  |
+| [My Reflection](https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [My Reflection](https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT) | 4:17 | 2024-06-24 | 2024-07-25 |
 | [My Trust, My Love](https://open.spotify.com/track/5vSwVmL7UD0LthckRNA4WL) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Get Back To Me](https://open.spotify.com/album/4uCDB3qXsx19vTqsULijVW) | 3:50 | 2024-06-07 |  |
 | [Mysterious World](https://open.spotify.com/track/1LmBykQ16lapbZCe6EJtAS) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Softest Chyl](https://open.spotify.com/artist/3UFeSCo9XJzKNt0Y2Yq1Hb) | [Mysterious World](https://open.spotify.com/album/2B5aEC063CNyJD2l2M2fhb) | 3:00 | 2024-05-31 |  |
 | [Need You](https://open.spotify.com/track/32EbZeoDAXpEyxiTm3mG6P) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [Need You](https://open.spotify.com/album/1ZCDNZ42SoSukKI4QPebqA) | 2:54 | 2024-06-28 |  |
@@ -299,7 +302,7 @@
 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 | 2023-03-07 | 2024-03-02 |
 | [set me free](https://open.spotify.com/track/6OwL6fdrcvoy92PPHo5wGP) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [composure](https://open.spotify.com/album/4Wbv9vgwg26DkAVDimPzxP) | 2:32 | 2024-07-12 |  |
 | [SHADOW](https://open.spotify.com/track/2KusH57WCXaAyocRjxhItH) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0) | [SHADOW](https://open.spotify.com/album/2D3odp9NPYmDEj2gGyOawB) | 2:35 | 2021-03-01 | 2023-03-08 |
-| [She's A Baddie](https://open.spotify.com/track/0LhTTAqZPyEb9i0p45Sp0U) | [THELMA](https://open.spotify.com/artist/6FmmPwPeUC5mYKHF6mkulm) | [What We Live For](https://open.spotify.com/album/3NAuFVoDYWtDklzfrxsd0I) | 4:35 | 2024-05-17 |  |
+| [She's A Baddie](https://open.spotify.com/track/0LhTTAqZPyEb9i0p45Sp0U) | [THELMA](https://open.spotify.com/artist/6FmmPwPeUC5mYKHF6mkulm) | [What We Live For](https://open.spotify.com/album/3NAuFVoDYWtDklzfrxsd0I) | 4:35 | 2024-05-17 | 2024-07-25 |
 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 | 2024-03-01 | 2024-06-08 |
 | [Shiny New Thing](https://open.spotify.com/track/4ymawkmuKTv26VTcyfP8eA) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shiny New Thing](https://open.spotify.com/album/45tUkK8nkMQ4XGRGKYppzT) | 2:38 | 2024-05-17 |  |
 | [Shivers](https://open.spotify.com/track/71NA0mXMhLssO4TYzNvtQ5) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Shivers](https://open.spotify.com/album/198js3GmZdhSrvOhiEJnuQ) | 3:04 | 2024-06-28 |  |
@@ -309,6 +312,7 @@
 | [side by side \(feat\. Empress Of\) \[rebirth\]](https://open.spotify.com/track/2eBDPaRvjNs0Ek4fuFzOZx) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [side by side \(feat\. Empress Of\) \[rebirth\]](https://open.spotify.com/album/6crVJqqqNJekqNgp4FNp7u) | 3:15 | 2024-06-18 |  |
 | [Single Kiss](https://open.spotify.com/track/1mSQFLT4CEEdJdtby96FUL) | [Salomé Le Chat](https://open.spotify.com/artist/1ClOAC5th0n8BGUD22KpIV) | [Single Kiss](https://open.spotify.com/album/4la24fDXi6Mvc0HMmHijhf) | 3:52 | 2024-03-01 | 2024-06-01 |
 | [Sister](https://open.spotify.com/track/0OQehQY5sa24kxGOOB1Uuu) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 4:28 | 2023-03-07 | 2024-03-02 |
+| [SLB](https://open.spotify.com/track/5aKVi02d8B8hoFuiqroPXT) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [SLB](https://open.spotify.com/album/4gYrCsnSRFp0plFHs7U6ve) | 4:05 | 2024-07-24 |  |
 | [Some Type Of Skin \- Sofia Kourtesis Remix](https://open.spotify.com/track/1I8M5tRchiQYYZcV3f63j7) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Some Type Of Skin](https://open.spotify.com/album/473zzYVZR0UMnJH7Y0rNPi) | 3:24 | 2024-05-10 |  |
 | [Space](https://open.spotify.com/track/12ngsrFgVmDoBrpRJZVbl9) | [Lucky Lou](https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2) | [Space](https://open.spotify.com/album/5hXz1HRAg2BTe4hs94BHd5) | 3:06 | 2024-05-10 |  |
 | [Special](https://open.spotify.com/track/3vh0XSibnAhcCvF4JR6bEl) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy) | [Special](https://open.spotify.com/album/1Kt1WTwr9aBh3MRk2xXzaV) | 2:05 | 2024-06-18 |  |
@@ -335,7 +339,7 @@
 | [Talk Ur Talk](https://open.spotify.com/track/7EUX8OCQiiMLp4QcZLoo3X) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Powerplay](https://open.spotify.com/album/7LUKLf5ipWFL58Y558hNly) | 3:49 | 2022-03-08 | 2022-11-09 |
 | [tarde](https://open.spotify.com/track/5LrkoYgRaJlKpTQdo2E53X) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [tarde](https://open.spotify.com/album/0TxChFGfPF0i3lieCwXCVI) | 5:33 | 2023-03-07 | 2024-03-02 |
 | [TASTY](https://open.spotify.com/track/4XqpRH4wcNna6H1fEaSghG) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [TASTY](https://open.spotify.com/album/7zp2TBTMWbmiDWAVh8yfpB) | 2:24 | 2021-03-01 | 2023-03-08 |
-| [Taurus \- Edit](https://open.spotify.com/track/3KCt7n8V8ExJENNTOD24BL) | [DJ Holographic](https://open.spotify.com/artist/4PRhpvNBYt7YURb5VhEDox) | [Taurus \(Edit\)](https://open.spotify.com/album/5XM05960qgIsD1LU9dEJtW) | 3:18 | 2024-04-26 |  |
+| [Taurus \- Edit](https://open.spotify.com/track/3KCt7n8V8ExJENNTOD24BL) | [DJ Holographic](https://open.spotify.com/artist/4PRhpvNBYt7YURb5VhEDox) | [Taurus \(Edit\)](https://open.spotify.com/album/5XM05960qgIsD1LU9dEJtW) | 3:18 | 2024-04-26 | 2024-07-25 |
 | [Tempelhof](https://open.spotify.com/track/1OXu6yphRorUKpTttBMMhl) | [GiGi FM](https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi) | [Movimiento](https://open.spotify.com/album/6aKGDyR5AGabrgoK72IspI) | 5:33 | 2024-06-07 |  |
 | [The Cycle](https://open.spotify.com/track/768m6Ckgon2o15cceVVuuV) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [The Cycle](https://open.spotify.com/album/5OVbv5PBbJ97x5sWqcg3eF) | 3:44 | 2024-03-01 | 2024-05-18 |
 | [The Danger](https://open.spotify.com/track/0YrcKU4rdiCWhjTlfSMAtm) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [The Danger](https://open.spotify.com/album/432bdHnwL1efoKDkSdROUz) | 2:27 | 2024-04-19 | 2024-04-27 |

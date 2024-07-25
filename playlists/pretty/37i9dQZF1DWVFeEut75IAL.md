@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 
 > The most calming classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,729 likes - 94 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,077 likes - 94 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 | 26 | [Dolly Suite, Op\. 56: I\. Berceuse](https://open.spotify.com/track/3NbAsIxDL0fVgNuCLD152P) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Fauré: Dolly Suite; Nocturnes; Barcarolles; Impromptus](https://open.spotify.com/album/1VMXYuxv7jwh3XzPZtoELi) | 2:56 |
 | 27 | [Losar](https://open.spotify.com/track/0bCSGdS5SRvzoz4IBTD55W) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Losar](https://open.spotify.com/album/6Fearn2XRW9LK2WNX22FUN) | 3:41 |
 | 28 | [2 Aquarelles: Lento, ma non troppo](https://open.spotify.com/track/5TtmI9sfXw4VXco0PE21mV) | [Frederick Delius](https://open.spotify.com/artist/65YhYi4Fz5Ibgq7ueev2Rm), [Royal Northern Sinfonia](https://open.spotify.com/artist/7BFFr4BUABKAorAN43APPd), [David Lloyd\-Jones](https://open.spotify.com/artist/3VWrnOYO3VBCE9MAleAQM4) | [ENGLISH STRING MINIATURES, Vol\. 4](https://open.spotify.com/album/3aHnqYoeNpy7hjqqSoEhcQ) | 2:12 |
-| 29 | [Suite española, Op\. 47 \- edited by Michael Lewin: No\. 1 Granada](https://open.spotify.com/track/3YhCoPBjGInzgaIjd2mXcp) | [Isaac Albéniz](https://open.spotify.com/artist/4sbcjbyksdT4dJ5Lh0SvZp), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Mediterráneo](https://open.spotify.com/album/59wykB5aKaXRudvU8VTo6h) | 5:53 |
+| 29 | [Suite española, Op.47: No\. 1 Granada](https://open.spotify.com/track/3YhCoPBjGInzgaIjd2mXcp) | [Isaac Albéniz](https://open.spotify.com/artist/4sbcjbyksdT4dJ5Lh0SvZp), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Mediterráneo](https://open.spotify.com/album/59wykB5aKaXRudvU8VTo6h) | 5:53 |
 | 30 | [En nacelle](https://open.spotify.com/track/0OG8MAiXcyIZd4Ol92zmk7) | [Henrique Oswald](https://open.spotify.com/artist/4aD2Eaf928LA2of01i7gQW), [Sergio Monteiro](https://open.spotify.com/artist/5lDFX0OjZ7Ss9lFYn0J3G0) | [Oswald: Works for Piano](https://open.spotify.com/album/05lkyoohP6mkaYWtQRLfq1) | 2:45 |
 | 31 | [Scriabin: 24 Preludes, Op\. 11: No\. 21 in B\-Flat Major](https://open.spotify.com/track/7lFRAFQ2f2AmWOefaiV4wb) | [Alexander Scriabin](https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV), [Mikhail Pletnev](https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C) | [Scriabin: 24 Preludes \- Sonatas Nos\. 4 & 10](https://open.spotify.com/album/2frAyNz56dJ9dgkEme3xba) | 1:47 |
 | 32 | [The Lily \- Piano Version](https://open.spotify.com/track/2ZGFYsDWwjU0BBvVAw6js9) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [The Lily](https://open.spotify.com/album/7MB4jFZ02hbMpYaBdLOpGq) | 1:56 |

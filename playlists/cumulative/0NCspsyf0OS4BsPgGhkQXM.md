@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,083 songs - 2 day 8 hr 1 min
+1,084 songs - 2 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -602,6 +602,7 @@
 | [Miles Away \(Taratata\)](https://open.spotify.com/track/0ZYUSJHncEsnWkKXvQHv2O) | [Kastelo](https://open.spotify.com/artist/2KmU3cHtzAMUFFEQPHF8ON), [Kaylee Ameri](https://open.spotify.com/artist/1P1XVObm1tVHxZ4nW7x8NC) | [Miles Away \(Taratata\)](https://open.spotify.com/album/21prPgdWjnzexPoEUyXdcR) | 2:47 | 2023-11-28 |  |
 | [Mirrors \- Juelz Remix](https://open.spotify.com/track/5N7SiJthGxZwlmNHQXS5r0) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Fear \(The Remixes\)](https://open.spotify.com/album/4mf2DXx8ap2fliFDyYKleT) | 2:49 | 2022-01-14 | 2022-09-15 |
 | [Miss You](https://open.spotify.com/track/40n6KTKKkqbQcJg51YfnGj) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Wendy](https://open.spotify.com/album/2T01qdLuJvuHx63KgdIAfR) | 2:35 | 2023-01-13 | 2023-07-29 |
+| [Missing Textures \- Super Slowed Down](https://open.spotify.com/track/58rtH332VDaCj1BZo7fA6h) | [NIVEK FFORHS](https://open.spotify.com/artist/4PUbhYyuHOrbVt6SIA4QPG) | [Missing Textures](https://open.spotify.com/album/2PVYt4kUAG59HcuXCBim1U) | 3:27 | 2024-07-25 |  |
 | [Misunderstood](https://open.spotify.com/track/3Mss2MDTVmUDJXeepx796f) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Misunderstood](https://open.spotify.com/album/2IixWbqy7LkeR17eg0Hvu8) | 4:00 | 2023-10-19 | 2024-01-30 |
 | [Mixed Emotions](https://open.spotify.com/track/48xtaMsWbLfX8aDNzfcRqM) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [Second Nature](https://open.spotify.com/album/2kD4XTloruMrJ1vRs9Giks) | 4:27 | 2022-12-16 | 2022-12-27 |
 | [Miyako](https://open.spotify.com/track/7pkNtCOB3oitSNnzHNM5FX) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Story Prologue EP](https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01) | 4:09 | 2022-08-18 | 2023-02-22 |
@@ -834,7 +835,7 @@
 | [SENTENÇA DE MORTE](https://open.spotify.com/track/6hiUOo5c2VPacqaFUM3XGR) | [Seek](https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6), [crvvdy](https://open.spotify.com/artist/15SwHotAFiElM5jeUhlOYe) | [SENTENÇA DE MORTE](https://open.spotify.com/album/2RudoSMlfZ822f5k5lzWRn) | 1:33 | 2023-09-15 | 2023-10-14 |
 | [Set Me Free](https://open.spotify.com/track/59j95PNCr1eJX2d6wvDwFc) | [Bloom Line](https://open.spotify.com/artist/53HYxzneeSBFFUEjkfXleH), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Set Me Free](https://open.spotify.com/album/6xu0XOWH9YCbBEejcwvPfB) | 3:26 | 2022-01-19 | 2022-07-02 |
 | [Set Me Free](https://open.spotify.com/track/76XijXDDDUZI5P8PKQ0uUy) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [Set Me Free](https://open.spotify.com/album/3tO2baNThlVGgdXPeocASu) | 3:49 | 2024-05-17 |  |
-| [Sexy Back](https://open.spotify.com/track/7fqNZnJ5s8TVEPnESyvegl) | [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Sexy Back](https://open.spotify.com/album/7wKZ6MbC1akIUv08gEm57Q) | 2:18 | 2024-02-02 |  |
+| [Sexy Back](https://open.spotify.com/track/7fqNZnJ5s8TVEPnESyvegl) | [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Sexy Back](https://open.spotify.com/album/7wKZ6MbC1akIUv08gEm57Q) | 2:18 | 2024-02-02 | 2024-07-25 |
 | [Shadow](https://open.spotify.com/track/5keO6CNCGYsAlNs6qfN5AJ) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG) | [Shadow](https://open.spotify.com/album/2T8aNm6lKE0Bz5jgn6DPJW) | 3:03 | 2022-01-14 | 2022-02-17 |
 | [Shadow \- Sam Lamar Remix](https://open.spotify.com/track/37sXzRoIK543s9ZJCRMaRw) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG), [Sam Lamar](https://open.spotify.com/artist/2ihPQnVz8d2ePjGcXLbNf8) | [Pieces \(Remixes\)](https://open.spotify.com/album/1Ic9G6GEpSFcopAVI4Cbw9) | 3:51 | 2022-07-01 | 2022-09-15 |
 | [Shadows](https://open.spotify.com/track/6CgyavIuuXYEmoFppku4X0) | [Osias](https://open.spotify.com/artist/7j1BTr4Qn3umJ2xK15ZFtn), [Ivoryghost](https://open.spotify.com/artist/7bqVQ6CwlOmsuQ7QnhEBR8), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Dime A Dozen](https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae) | 3:30 | 2022-06-16 | 2022-12-10 |
@@ -861,7 +862,7 @@
 | [Sober](https://open.spotify.com/track/3PYHVvoFONHRTWiDeRk0dK) | [scsc](https://open.spotify.com/artist/76EtZST05YbVzXkUsMHhbS) | [Sober](https://open.spotify.com/album/2xAQ6N5SfAUdzJX0RDsKyP) | 3:50 | 2022-05-06 | 2022-06-04 |
 | [SOCADÃO](https://open.spotify.com/track/4O5aR203HU1jp0z2o4ndID) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9), [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id) | [SOCADÃO](https://open.spotify.com/album/6C2CXWT4GTpFoGI2qFNCFv) | 1:32 | 2024-01-05 | 2024-04-05 |
 | [Sold My Soul](https://open.spotify.com/track/4oyQFA7BnwLUPFFk8ptNOa) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Sold My Soul](https://open.spotify.com/album/3zGrGTP0vCSqIErxuyp6sJ) | 3:28 | 2023-08-16 | 2024-01-20 |
-| [Solitude Velocity \- Slowed + Loop](https://open.spotify.com/track/7qqZLIcRL8BTXh12vOBgYQ) | [Luke Willies](https://open.spotify.com/artist/3uIws1bbX1b53e0xJpz94r) | [Solitude Velocity \- Slowed + Loop](https://open.spotify.com/album/3IZA0CxZOrAHBVfJmZFnFo) | 5:58 | 2023-12-21 |  |
+| [Solitude Velocity \- Slowed + Loop](https://open.spotify.com/track/7qqZLIcRL8BTXh12vOBgYQ) | [Luke Willies](https://open.spotify.com/artist/3uIws1bbX1b53e0xJpz94r) | [Solitude Velocity \- Slowed + Loop](https://open.spotify.com/album/3IZA0CxZOrAHBVfJmZFnFo) | 5:58 | 2023-12-21 | 2024-07-25 |
 | [Solstice](https://open.spotify.com/track/5YCGiUK8GHKTDzen6nJc4Y) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Solstice](https://open.spotify.com/album/4VVYjDuvidxSiGwfcBUykX) | 5:03 | 2023-04-08 | 2023-08-26 |
 | [Something More](https://open.spotify.com/track/38nxI26aJyktPbgmiFYNK9) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Alltair](https://open.spotify.com/artist/4gBQ6BSVo4NDxXohKHEQHY) | [Something More](https://open.spotify.com/album/0p009r4U2sfdTKEKqCCdWU) | 2:50 | 2022-03-18 | 2022-04-19 |
 | [Something Wrong](https://open.spotify.com/track/44jYwjxJNpJiwiLi2cDl3G) | [Le Malls](https://open.spotify.com/artist/0a8BrKaJ80jFDVudXKkGab) | [Bassline](https://open.spotify.com/album/7Jaq1HSRWeweq0YQG2TShv) | 2:52 | 2022-01-14 | 2022-03-05 |

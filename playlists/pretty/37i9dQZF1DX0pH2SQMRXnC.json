@@ -1,6 +1,6 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1312939,
+  "num_followers": 1313370,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -939,6 +939,26 @@
     {
       "added_at": "2024-07-19 07:04:00",
       "album": {
+        "name": "Harder State Of Mind",
+        "url": "https://open.spotify.com/album/1YdgxbHjJ6A7UmYOEqlHJ2"
+      },
+      "artists": [
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        },
+        {
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Harder State Of Mind",
+      "url": "https://open.spotify.com/track/3QeEf7TMugwZkmn0hPmXio"
+    },
+    {
+      "added_at": "2024-07-19 07:04:00",
+      "album": {
         "name": "Japan",
         "url": "https://open.spotify.com/album/2beJYLvWyLWbt6RNM0ztzz"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 128250,
       "name": "Japan",
       "url": "https://open.spotify.com/track/0B96WBW2UjHxmxuDGd7hUA"
-    },
-    {
-      "added_at": "2024-07-19 07:04:00",
-      "album": {
-        "name": "Harder State Of Mind",
-        "url": "https://open.spotify.com/album/1YdgxbHjJ6A7UmYOEqlHJ2"
-      },
-      "artists": [
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        },
-        {
-          "name": "DJ Isaac",
-          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Harder State Of Mind",
-      "url": "https://open.spotify.com/track/3QeEf7TMugwZkmn0hPmXio"
     },
     {
       "added_at": "2024-07-19 07:04:00",
@@ -1667,22 +1667,26 @@
     {
       "added_at": "2024-07-19 07:04:00",
       "album": {
-        "name": "Timmy Trumpet's SINPHONY No. 2",
-        "url": "https://open.spotify.com/album/2SBIYlYYL5S9VBd2NsbzFm"
+        "name": "Silence (feat. Sarah McLachlan) [Brennan Heart Remix]",
+        "url": "https://open.spotify.com/album/3hlMZy5Z5qZnMCzDkIc0Lr"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          "name": "Delerium",
+          "url": "https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN"
         },
         {
-          "name": "Frontliner",
-          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Addicted To Rave",
-      "url": "https://open.spotify.com/track/26U7mvLqEFr9E1Y7ThCxS2"
+      "duration_ms": 263453,
+      "name": "Silence - Brennan Heart Remix",
+      "url": "https://open.spotify.com/track/0cfxGRaCEFKwz66bURIYz5"
     },
     {
       "added_at": "2024-07-19 07:04:00",
@@ -1715,26 +1719,22 @@
     {
       "added_at": "2024-07-19 07:04:00",
       "album": {
-        "name": "Silence (feat. Sarah McLachlan) [Brennan Heart Remix]",
-        "url": "https://open.spotify.com/album/3hlMZy5Z5qZnMCzDkIc0Lr"
+        "name": "Timmy Trumpet's SINPHONY No. 2",
+        "url": "https://open.spotify.com/album/2SBIYlYYL5S9VBd2NsbzFm"
       },
       "artists": [
         {
-          "name": "Delerium",
-          "url": "https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         },
         {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
-        },
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
         }
       ],
-      "duration_ms": 263453,
-      "name": "Silence - Brennan Heart Remix",
-      "url": "https://open.spotify.com/track/0cfxGRaCEFKwz66bURIYz5"
+      "duration_ms": 169000,
+      "name": "Addicted To Rave",
+      "url": "https://open.spotify.com/track/26U7mvLqEFr9E1Y7ThCxS2"
     },
     {
       "added_at": "2024-07-19 07:04:00",
@@ -2087,26 +2087,6 @@
     {
       "added_at": "2024-07-19 07:04:00",
       "album": {
-        "name": "Feel The Rhythm",
-        "url": "https://open.spotify.com/album/1iSToSJOSSNjSCuDEEg76H"
-      },
-      "artists": [
-        {
-          "name": "Primeshock",
-          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
-        },
-        {
-          "name": "Firelite",
-          "url": "https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2"
-        }
-      ],
-      "duration_ms": 201483,
-      "name": "Feel The Rhythm",
-      "url": "https://open.spotify.com/track/57lWgVfNM9AMcYRaGbq96T"
-    },
-    {
-      "added_at": "2024-07-19 07:04:00",
-      "album": {
         "name": "Use Somebody",
         "url": "https://open.spotify.com/album/092vyskf9htiWRdTiGtTel"
       },
@@ -2127,6 +2107,26 @@
     {
       "added_at": "2024-07-19 07:04:00",
       "album": {
+        "name": "Feel The Rhythm",
+        "url": "https://open.spotify.com/album/1iSToSJOSSNjSCuDEEg76H"
+      },
+      "artists": [
+        {
+          "name": "Primeshock",
+          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
+        },
+        {
+          "name": "Firelite",
+          "url": "https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2"
+        }
+      ],
+      "duration_ms": 201483,
+      "name": "Feel The Rhythm",
+      "url": "https://open.spotify.com/track/57lWgVfNM9AMcYRaGbq96T"
+    },
+    {
+      "added_at": "2024-07-19 07:04:00",
+      "album": {
         "name": "Hardcore Life",
         "url": "https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w"
       },
@@ -2143,26 +2143,6 @@
       "duration_ms": 165176,
       "name": "Hardcore Life",
       "url": "https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T"
-    },
-    {
-      "added_at": "2024-07-19 07:04:00",
-      "album": {
-        "name": "BEUK D\u2019R IN",
-        "url": "https://open.spotify.com/album/2qZv9BX5KsakUEFgRGGSiT"
-      },
-      "artists": [
-        {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        },
-        {
-          "name": "EZG",
-          "url": "https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4"
-        }
-      ],
-      "duration_ms": 165660,
-      "name": "BEUK D\u2019R IN",
-      "url": "https://open.spotify.com/track/6cmEnw1xI9c4bmsm43fsKk"
     },
     {
       "added_at": "2024-07-19 07:04:00",
@@ -2195,6 +2175,26 @@
       "duration_ms": 244133,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/0mWGz6hPTPuOK3SaETnqCo"
+    },
+    {
+      "added_at": "2024-07-19 07:04:00",
+      "album": {
+        "name": "BEUK D\u2019R IN",
+        "url": "https://open.spotify.com/album/2qZv9BX5KsakUEFgRGGSiT"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "EZG",
+          "url": "https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4"
+        }
+      ],
+      "duration_ms": 165660,
+      "name": "BEUK D\u2019R IN",
+      "url": "https://open.spotify.com/track/6cmEnw1xI9c4bmsm43fsKk"
     },
     {
       "added_at": "2024-07-19 07:04:00",
@@ -2239,46 +2239,6 @@
     {
       "added_at": "2024-07-19 07:04:00",
       "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Tony Junior",
-          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
-        }
-      ],
-      "duration_ms": 248471,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
-    },
-    {
-      "added_at": "2024-07-19 07:04:00",
-      "album": {
-        "name": "HEAR THE NOISE",
-        "url": "https://open.spotify.com/album/1wTPukZeH3Vn1M9UzLb4ye"
-      },
-      "artists": [
-        {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        },
-        {
-          "name": "Bloodlust",
-          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
-        }
-      ],
-      "duration_ms": 166988,
-      "name": "HEAR THE NOISE",
-      "url": "https://open.spotify.com/track/2CDVqCda38968ZRoo4LO3Z"
-    },
-    {
-      "added_at": "2024-07-19 07:04:00",
-      "album": {
         "name": "Gemini",
         "url": "https://open.spotify.com/album/0Goq9xAACLk1g7OkyjQt5S"
       },
@@ -2299,6 +2259,26 @@
       "duration_ms": 150400,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/16ji1BU5uDmBUgZoWS4SpU"
+    },
+    {
+      "added_at": "2024-07-19 07:04:00",
+      "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+        }
+      ],
+      "duration_ms": 248471,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
     },
     {
       "added_at": "2024-07-19 07:04:00",
@@ -2363,6 +2343,26 @@
     {
       "added_at": "2024-07-19 07:04:00",
       "album": {
+        "name": "HEAR THE NOISE",
+        "url": "https://open.spotify.com/album/1wTPukZeH3Vn1M9UzLb4ye"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        }
+      ],
+      "duration_ms": 166988,
+      "name": "HEAR THE NOISE",
+      "url": "https://open.spotify.com/track/2CDVqCda38968ZRoo4LO3Z"
+    },
+    {
+      "added_at": "2024-07-19 07:04:00",
+      "album": {
         "name": "Where I Belong",
         "url": "https://open.spotify.com/album/1NPmIyN3g1B42Ii24pVNsd"
       },
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2024-07-19 07:04:00",
       "album": {
-        "name": "Euphoria (Hardstyle Edit)",
-        "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
-      },
-      "artists": [
-        {
-          "name": "Julian Brandts",
-          "url": "https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd"
-        }
-      ],
-      "duration_ms": 214546,
-      "name": "Euphoria - Hardstyle Edit",
-      "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
-    },
-    {
-      "added_at": "2024-07-19 07:04:00",
-      "album": {
         "name": "Blow Up The Speakers (Again)",
         "url": "https://open.spotify.com/album/7mzcAAE2fCST82z8NGVrY4"
       },
@@ -2435,6 +2419,42 @@
       "duration_ms": 208657,
       "name": "Blow Up The Speakers (Again)",
       "url": "https://open.spotify.com/track/4TMKgsfeO2pH5jNSJtwUKK"
+    },
+    {
+      "added_at": "2024-07-19 07:04:00",
+      "album": {
+        "name": "Euphoria (Hardstyle Edit)",
+        "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
+      },
+      "artists": [
+        {
+          "name": "Julian Brandts",
+          "url": "https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd"
+        }
+      ],
+      "duration_ms": 214546,
+      "name": "Euphoria - Hardstyle Edit",
+      "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
+    },
+    {
+      "added_at": "2024-07-19 07:04:00",
+      "album": {
+        "name": "DYSYLM",
+        "url": "https://open.spotify.com/album/7stU3YRinedh6SaVUlFL1M"
+      },
+      "artists": [
+        {
+          "name": "Gammer",
+          "url": "https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY"
+        },
+        {
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        }
+      ],
+      "duration_ms": 176051,
+      "name": "DYSYLM",
+      "url": "https://open.spotify.com/track/4tV6ku4jEYw9L5gZuNpCbP"
     },
     {
       "added_at": "2024-07-19 07:04:00",
@@ -2463,22 +2483,22 @@
     {
       "added_at": "2024-07-19 07:04:00",
       "album": {
-        "name": "DYSYLM",
-        "url": "https://open.spotify.com/album/7stU3YRinedh6SaVUlFL1M"
+        "name": "Lay Low (Radical Redemption Remix)",
+        "url": "https://open.spotify.com/album/6towXPOqUs32hg4Aosmhvp"
       },
       "artists": [
         {
-          "name": "Gammer",
-          "url": "https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "Darren Styles",
-          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
         }
       ],
-      "duration_ms": 176051,
-      "name": "DYSYLM",
-      "url": "https://open.spotify.com/track/4tV6ku4jEYw9L5gZuNpCbP"
+      "duration_ms": 176258,
+      "name": "Lay Low (Radical Redemption Remix)",
+      "url": "https://open.spotify.com/track/2hY7CobV1syoLH1T4jp10O"
     },
     {
       "added_at": "2024-07-19 07:04:00",
@@ -2503,26 +2523,6 @@
       "duration_ms": 173571,
       "name": "Into the Night",
       "url": "https://open.spotify.com/track/2EPHUV16WoWXHVxxoJzvi2"
-    },
-    {
-      "added_at": "2024-07-19 07:04:00",
-      "album": {
-        "name": "Lay Low (Radical Redemption Remix)",
-        "url": "https://open.spotify.com/album/6towXPOqUs32hg4Aosmhvp"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Radical Redemption",
-          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
-        }
-      ],
-      "duration_ms": 176258,
-      "name": "Lay Low (Radical Redemption Remix)",
-      "url": "https://open.spotify.com/track/2hY7CobV1syoLH1T4jp10O"
     },
     {
       "added_at": "2024-07-19 07:04:00",
@@ -2803,6 +2803,26 @@
     {
       "added_at": "2024-07-19 07:04:00",
       "album": {
+        "name": "Broken Dreams",
+        "url": "https://open.spotify.com/album/6IR0IsypKtxWm2UKyFXimX"
+      },
+      "artists": [
+        {
+          "name": "Re-Style",
+          "url": "https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E"
+        },
+        {
+          "name": "Hysta",
+          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
+        }
+      ],
+      "duration_ms": 222631,
+      "name": "Broken Dreams",
+      "url": "https://open.spotify.com/track/08eoEMJAcewxsEGvole0gx"
+    },
+    {
+      "added_at": "2024-07-19 07:04:00",
+      "album": {
         "name": "This Deejay",
         "url": "https://open.spotify.com/album/5Ee5i1mH1oGgm2NmfaYH9O"
       },
@@ -2831,26 +2851,6 @@
     {
       "added_at": "2024-07-19 07:04:00",
       "album": {
-        "name": "Broken Dreams",
-        "url": "https://open.spotify.com/album/6IR0IsypKtxWm2UKyFXimX"
-      },
-      "artists": [
-        {
-          "name": "Re-Style",
-          "url": "https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E"
-        },
-        {
-          "name": "Hysta",
-          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
-        }
-      ],
-      "duration_ms": 222631,
-      "name": "Broken Dreams",
-      "url": "https://open.spotify.com/track/08eoEMJAcewxsEGvole0gx"
-    },
-    {
-      "added_at": "2024-07-19 07:04:00",
-      "album": {
         "name": "Come With Me",
         "url": "https://open.spotify.com/album/1nS5RjmwKhROZY2XvSL71u"
       },
@@ -2863,6 +2863,26 @@
       "duration_ms": 178500,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/6vFEXiW7QPKGRardogdK6f"
+    },
+    {
+      "added_at": "2024-07-19 07:04:00",
+      "album": {
+        "name": "Sun Comes Up",
+        "url": "https://open.spotify.com/album/7sBdYRoRxO2kSHsGIKcaV9"
+      },
+      "artists": [
+        {
+          "name": "Refuzion",
+          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+        },
+        {
+          "name": "Maikki",
+          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "Sun Comes Up",
+      "url": "https://open.spotify.com/track/2GVhChi8rNLrfcfHjzFVQq"
     },
     {
       "added_at": "2024-07-19 07:04:00",
@@ -2887,26 +2907,6 @@
       "duration_ms": 182709,
       "name": "Take Me Away (feat. 4 Strings)",
       "url": "https://open.spotify.com/track/6uwZTxW1wBkWNSAqd1noW8"
-    },
-    {
-      "added_at": "2024-07-19 07:04:00",
-      "album": {
-        "name": "Sun Comes Up",
-        "url": "https://open.spotify.com/album/7sBdYRoRxO2kSHsGIKcaV9"
-      },
-      "artists": [
-        {
-          "name": "Refuzion",
-          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
-        },
-        {
-          "name": "Maikki",
-          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "Sun Comes Up",
-      "url": "https://open.spotify.com/track/2GVhChi8rNLrfcfHjzFVQq"
     },
     {
       "added_at": "2024-07-19 07:04:00",
@@ -2951,30 +2951,6 @@
     {
       "added_at": "2024-07-19 07:04:00",
       "album": {
-        "name": "Now Or Never (Toneshifterz Remix)",
-        "url": "https://open.spotify.com/album/2KwzYmQzK3dLFJDxBb2moh"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        },
-        {
-          "name": "Sara Phillips",
-          "url": "https://open.spotify.com/artist/0IYTdG3kSqaozW2xSPA6GL"
-        },
-        {
-          "name": "Toneshifterz",
-          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "Now Or Never (Toneshifterz Remix)",
-      "url": "https://open.spotify.com/track/39Xd2miEi3vR7sHl55O9Un"
-    },
-    {
-      "added_at": "2024-07-19 07:04:00",
-      "album": {
         "name": "Break The Rules",
         "url": "https://open.spotify.com/album/2e0jHlBzOby8CWE025x6I2"
       },
@@ -2991,26 +2967,6 @@
       "duration_ms": 231157,
       "name": "Break The Rules",
       "url": "https://open.spotify.com/track/1DI9mNWrW3LdQVWPprPRvm"
-    },
-    {
-      "added_at": "2024-07-19 07:04:00",
-      "album": {
-        "name": "Children Of Drums (Headhunterz Remix)",
-        "url": "https://open.spotify.com/album/2xTalVoSbGKciNMHDwmMG5"
-      },
-      "artists": [
-        {
-          "name": "Wildstylez",
-          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
-        },
-        {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "Children Of Drums - Headhunterz Remix",
-      "url": "https://open.spotify.com/track/35Z0mpi564mEOdEBJc0Kqc"
     },
     {
       "added_at": "2024-07-19 07:04:00",
@@ -3035,6 +2991,26 @@
     {
       "added_at": "2024-07-19 07:04:00",
       "album": {
+        "name": "Children Of Drums (Headhunterz Remix)",
+        "url": "https://open.spotify.com/album/2xTalVoSbGKciNMHDwmMG5"
+      },
+      "artists": [
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        },
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "Children Of Drums - Headhunterz Remix",
+      "url": "https://open.spotify.com/track/35Z0mpi564mEOdEBJc0Kqc"
+    },
+    {
+      "added_at": "2024-07-19 07:04:00",
+      "album": {
         "name": "Happy Place (feat. Cathrine Lassen) [Remixes]",
         "url": "https://open.spotify.com/album/6V40Z5TgW5oQTOLcVjB9ev"
       },
@@ -3055,6 +3031,30 @@
       "duration_ms": 197927,
       "name": "Happy Place (feat. Cathrine Lassen) - Refuzion Remix",
       "url": "https://open.spotify.com/track/2PMzTucvbLGxeHxoFS5giO"
+    },
+    {
+      "added_at": "2024-07-19 07:04:00",
+      "album": {
+        "name": "Now Or Never (Toneshifterz Remix)",
+        "url": "https://open.spotify.com/album/2KwzYmQzK3dLFJDxBb2moh"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        },
+        {
+          "name": "Sara Phillips",
+          "url": "https://open.spotify.com/artist/0IYTdG3kSqaozW2xSPA6GL"
+        },
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "Now Or Never (Toneshifterz Remix)",
+      "url": "https://open.spotify.com/track/39Xd2miEi3vR7sHl55O9Un"
     },
     {
       "added_at": "2024-07-19 07:04:00",

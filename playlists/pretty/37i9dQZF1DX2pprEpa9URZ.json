@@ -1,15 +1,47 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 776842,
+  "num_followers": 776994,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zp5qzwAAAACt0MAjwLEjnMb7LIw8hUmd",
+  "snapshot_id": "ZqESdwAAAADyxhJad33xIoDvWmf/uVWi",
   "tracks": [
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
+      "album": {
+        "name": "Yamore",
+        "url": "https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C"
+      },
+      "artists": [
+        {
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
+          "name": "Benja (NL)",
+          "url": "https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI"
+        },
+        {
+          "name": "Franc Fala",
+          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
+        },
+        {
+          "name": "Ces\u00e1ria Evora",
+          "url": "https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Yamore",
+      "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"
+    },
+    {
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Kamili",
         "url": "https://open.spotify.com/album/59q5fTLywgfKCoensSHdxG"
@@ -33,7 +65,7 @@
       "url": "https://open.spotify.com/track/5JEaCJCehAtt1nQf0gd9Dx"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "The Dream (feat. Martina Camargo)",
         "url": "https://open.spotify.com/album/3PUyvnJrykuLTnWyUhyrep"
@@ -61,7 +93,7 @@
       "url": "https://open.spotify.com/track/2dwU9cQumllxZFtXgautY4"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Ra Ma Da Sa Sa Say So Hung",
         "url": "https://open.spotify.com/album/3wqKocxQkTgARJ4ORNdElH"
@@ -77,7 +109,39 @@
       "url": "https://open.spotify.com/track/7glkw5pG5K8xS0xgaCVVPf"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/532L1zk5VJqGtRQLRFiVod"
+      },
+      "artists": [
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Stryv",
+          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Orso",
+          "url": "https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC"
+        },
+        {
+          "name": "Malachiii",
+          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
+        }
+      ],
+      "duration_ms": 177598,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/6NIJqFHB5cHAn064JCP7Li"
+    },
+    {
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Bahar",
         "url": "https://open.spotify.com/album/2SAvFfuR31LlVxBl8MVErT"
@@ -93,7 +157,7 @@
       "url": "https://open.spotify.com/track/7FoNzgmqNTSotUSVemCsrj"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Circadia",
         "url": "https://open.spotify.com/album/574UEtMpJoQwN3ZtW5CRvE"
@@ -109,7 +173,7 @@
       "url": "https://open.spotify.com/track/3sSaIdFrhLOjOy8XCuKMfE"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Above",
         "url": "https://open.spotify.com/album/18lMSHn83ZSakMsR80Or3I"
@@ -125,7 +189,7 @@
       "url": "https://open.spotify.com/track/0dZ8mcRlvdvHfUEwxPkb5B"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Copal",
         "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
@@ -141,7 +205,7 @@
       "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Before the Storm",
         "url": "https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j"
@@ -157,7 +221,7 @@
       "url": "https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Secreto",
         "url": "https://open.spotify.com/album/5FmgMaL2u61aYGCp9E7PwT"
@@ -177,7 +241,7 @@
       "url": "https://open.spotify.com/track/5KjqHWEssr7QRnRnTZfOQN"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Feather (The Remixes)",
         "url": "https://open.spotify.com/album/3aWgeXUCtaij7yq0C9bY2h"
@@ -205,7 +269,7 @@
       "url": "https://open.spotify.com/track/5cPkKWedtNGlXW4sUdAgvz"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Portrait of the Obscure",
         "url": "https://open.spotify.com/album/7ceLPlFL0mhnAKqCFfPjhm"
@@ -221,7 +285,7 @@
       "url": "https://open.spotify.com/track/58xJ8nqtHLOK96X8y1ldxJ"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Luv Machine",
         "url": "https://open.spotify.com/album/5cWSMyNz7Klrqatz2j5Ln3"
@@ -237,7 +301,7 @@
       "url": "https://open.spotify.com/track/3dZkhrOzJGbRRl3dBfJNkp"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Agua e pipa",
         "url": "https://open.spotify.com/album/74SPKWn69S4RQ0Hg1Pz83b"
@@ -257,7 +321,7 @@
       "url": "https://open.spotify.com/track/2yDNk5tWLRwvpYuRrrV56V"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Kick Up The Dust",
         "url": "https://open.spotify.com/album/5lHCAmlJ6o5CxYIRrydi2b"
@@ -273,7 +337,7 @@
       "url": "https://open.spotify.com/track/4pdR5VBU2TNVHukEEPNlqR"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Experiencing a Significant Gravitas Shortfall",
         "url": "https://open.spotify.com/album/23pgT20paz5ybdUxHZ36N7"
@@ -293,7 +357,7 @@
       "url": "https://open.spotify.com/track/6CVzxgkKa7TEBsnj9TgVoL"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Aruna Chandra",
         "url": "https://open.spotify.com/album/09jd5geuKV6itKwcvamNEn"
@@ -317,7 +381,7 @@
       "url": "https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Zurna",
         "url": "https://open.spotify.com/album/5RzdvVQ7EY5WJW6SdXILld"
@@ -333,23 +397,7 @@
       "url": "https://open.spotify.com/track/5Kl2LAN9eM6FQBodDXZeTC"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
-      "album": {
-        "name": "Forlorn Hope",
-        "url": "https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx"
-      },
-      "artists": [
-        {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
-        }
-      ],
-      "duration_ms": 520042,
-      "name": "Forlorn Hope",
-      "url": "https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw"
-    },
-    {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Hidden Garden",
         "url": "https://open.spotify.com/album/5ADWAdx830C67511L0FVPj"
@@ -365,7 +413,7 @@
       "url": "https://open.spotify.com/track/6qLDqEm4xmS8GvJKHl5Qx0"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "6 Years of Underyourskin Records",
         "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
@@ -381,7 +429,7 @@
       "url": "https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Love And Hate",
         "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
@@ -397,7 +445,23 @@
       "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
+      "album": {
+        "name": "Forlorn Hope",
+        "url": "https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        }
+      ],
+      "duration_ms": 520042,
+      "name": "Forlorn Hope",
+      "url": "https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw"
+    },
+    {
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Astavakra",
         "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
@@ -413,27 +477,7 @@
       "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
-      "album": {
-        "name": "Alongside",
-        "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
-      },
-      "artists": [
-        {
-          "name": "Nu",
-          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
-        },
-        {
-          "name": "Omeria",
-          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
-        }
-      ],
-      "duration_ms": 410000,
-      "name": "Alongside - Omeria & NU Edit",
-      "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
-    },
-    {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Ormila",
         "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
@@ -453,7 +497,27 @@
       "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
+      "album": {
+        "name": "Alongside",
+        "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
+      },
+      "artists": [
+        {
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+        },
+        {
+          "name": "Omeria",
+          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+        }
+      ],
+      "duration_ms": 410000,
+      "name": "Alongside - Omeria & NU Edit",
+      "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
+    },
+    {
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "The Landing",
         "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
@@ -473,7 +537,7 @@
       "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Boho",
         "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
@@ -489,7 +553,7 @@
       "url": "https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Global Entry 2",
         "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
@@ -505,7 +569,7 @@
       "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Neko Ep",
         "url": "https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip"
@@ -525,7 +589,23 @@
       "url": "https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
+      "album": {
+        "name": "Magic Workout",
+        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "duration_ms": 335877,
+      "name": "Magic Workout",
+      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
+    },
+    {
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Sagas of Iziki | Chapter 2",
         "url": "https://open.spotify.com/album/32Ojr7lP5QCCSKp3uXdKES"
@@ -549,39 +629,7 @@
       "url": "https://open.spotify.com/track/2IiYV4muGj5HVGPRASTRpJ"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
-      "album": {
-        "name": "Magic Workout",
-        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 335877,
-      "name": "Magic Workout",
-      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
-    },
-    {
-      "added_at": "2024-07-05 13:35:00",
-      "album": {
-        "name": "Se Va, Se Va",
-        "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
-      },
-      "artists": [
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        }
-      ],
-      "duration_ms": 449509,
-      "name": "Se Va, Se Va",
-      "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
-    },
-    {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Fata Morgana",
         "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
@@ -597,7 +645,23 @@
       "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
+      "album": {
+        "name": "Se Va, Se Va",
+        "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
+      },
+      "artists": [
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 449509,
+      "name": "Se Va, Se Va",
+      "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
+    },
+    {
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Pastel",
         "url": "https://open.spotify.com/album/7GORODzuiM1sFSosuxQL5v"
@@ -613,7 +677,7 @@
       "url": "https://open.spotify.com/track/0QWG9OtA0oHnpQH0iCxicr"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Karanfilce Devojce (PACHIRA Remix)",
         "url": "https://open.spotify.com/album/2Jr3whqNucBLcaJl096Ut5"
@@ -633,23 +697,7 @@
       "url": "https://open.spotify.com/track/7f6bzmieDjJiGr6x0Vl2ps"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
-      "album": {
-        "name": "Birds Of Toi",
-        "url": "https://open.spotify.com/album/3v2LsemlmJTwtbTCX3UlJT"
-      },
-      "artists": [
-        {
-          "name": "Distropical",
-          "url": "https://open.spotify.com/artist/5hW8i3nfA2DknrWudd2aUF"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Birds Of Toi",
-      "url": "https://open.spotify.com/track/2IVlbPA7i2L2BWEFvyUqI8"
-    },
-    {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Serbet",
         "url": "https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17"
@@ -673,7 +721,7 @@
       "url": "https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Ma Gally",
         "url": "https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC"
@@ -693,7 +741,7 @@
       "url": "https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Into Your Tribe (Bedouin Remix)",
         "url": "https://open.spotify.com/album/6TPJ9cK3kjACehsD2Yu9GR"
@@ -725,7 +773,7 @@
       "url": "https://open.spotify.com/track/4WtH6JyDF4OlQXglvX7oCV"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Ancestry",
         "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
@@ -741,7 +789,7 @@
       "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "La Isla",
         "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
@@ -761,7 +809,7 @@
       "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Jendayi EP",
         "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
@@ -777,23 +825,7 @@
       "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
-      "album": {
-        "name": "Limbo EP",
-        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
-      },
-      "artists": [
-        {
-          "name": "Kermesse",
-          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
-        }
-      ],
-      "duration_ms": 401815,
-      "name": "Wawanko",
-      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
-    },
-    {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "No Be Today",
         "url": "https://open.spotify.com/album/3hlPGhWkvHdDXoaZFKIbgV"
@@ -813,7 +845,23 @@
       "url": "https://open.spotify.com/track/43CH8hUhxHIva2bnJS2O6c"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
+      "album": {
+        "name": "Limbo EP",
+        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
+      },
+      "artists": [
+        {
+          "name": "Kermesse",
+          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
+        }
+      ],
+      "duration_ms": 401815,
+      "name": "Wawanko",
+      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
+    },
+    {
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Ritmo",
         "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
@@ -829,7 +877,7 @@
       "url": "https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Woods, Tales & Friends",
         "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
@@ -845,7 +893,7 @@
       "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Bem a Tempo (Yemanjo Remix)",
         "url": "https://open.spotify.com/album/4hAhIqwRzsd1KLMcHYOlN2"
@@ -869,7 +917,7 @@
       "url": "https://open.spotify.com/track/5HSSXa50YSC7TUC32IjwVD"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Solstice Vibes III",
         "url": "https://open.spotify.com/album/7CUKEZ8e3CrjmuhAPDrBCF"
@@ -885,7 +933,7 @@
       "url": "https://open.spotify.com/track/5h88XmzAYzb6Quy9C9VRsz"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Ciclos",
         "url": "https://open.spotify.com/album/5LlS93cEkVy5VermCbVEp4"
@@ -901,7 +949,7 @@
       "url": "https://open.spotify.com/track/6G6SAy7BwNGKttAFGjADmQ"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Chaghaf",
         "url": "https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB"
@@ -921,27 +969,7 @@
       "url": "https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
-      "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"
-      },
-      "artists": [
-        {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
-        },
-        {
-          "name": "Arya Noble",
-          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
-        }
-      ],
-      "duration_ms": 187118,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ"
-    },
-    {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Dilmano Dilbero (Sariel Orenda Remix)",
         "url": "https://open.spotify.com/album/2yAiAoLioPcBmocBGQGOGe"
@@ -961,7 +989,27 @@
       "url": "https://open.spotify.com/track/7bx1ucv7nua47Eaf3024Mt"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
+      "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"
+      },
+      "artists": [
+        {
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+        },
+        {
+          "name": "Arya Noble",
+          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ"
+    },
+    {
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Patika",
         "url": "https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ"
@@ -977,7 +1025,7 @@
       "url": "https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Man Dies Alone",
         "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
@@ -993,7 +1041,7 @@
       "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Osam",
         "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
@@ -1009,7 +1057,7 @@
       "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Eternal Road",
         "url": "https://open.spotify.com/album/47ux4aY4iFXBN6XwwNtSkc"
@@ -1029,7 +1077,7 @@
       "url": "https://open.spotify.com/track/0xYVFbpiJ4wl9lGPzvgEie"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Bosque",
         "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
@@ -1045,7 +1093,23 @@
       "url": "https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
+      "album": {
+        "name": "Ay vora",
+        "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
+      },
+      "artists": [
+        {
+          "name": "Essex",
+          "url": "https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG"
+        }
+      ],
+      "duration_ms": 273142,
+      "name": "Ay vora",
+      "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
+    },
+    {
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Persian Nights",
         "url": "https://open.spotify.com/album/4JtiXGmWyNUB8uNaM2BsWP"
@@ -1065,23 +1129,7 @@
       "url": "https://open.spotify.com/track/5pRfsRKRDsAAkYvQ7262YH"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
-      "album": {
-        "name": "Ay vora",
-        "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
-      },
-      "artists": [
-        {
-          "name": "Essex",
-          "url": "https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG"
-        }
-      ],
-      "duration_ms": 273142,
-      "name": "Ay vora",
-      "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
-    },
-    {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Samra Samra",
         "url": "https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB"
@@ -1097,7 +1145,7 @@
       "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Unsichtbar (Behrooz Zandi Remix)",
         "url": "https://open.spotify.com/album/0XqcOaBaLYzrYZllSfU2Rr"
@@ -1117,7 +1165,7 @@
       "url": "https://open.spotify.com/track/6eOmmUyJYl6RrRTT7P0M4S"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Visions 2 (Departure)",
         "url": "https://open.spotify.com/album/62Ntxmo8Oykqbk6rVkCw8E"
@@ -1133,7 +1181,7 @@
       "url": "https://open.spotify.com/track/7JiCJIx41x2A8Bvoq8w3Ek"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Mona Ki Ngi Xica (Everything Counts Remix)",
         "url": "https://open.spotify.com/album/2SuKOpLD4bk74dJzeXQDa5"
@@ -1153,7 +1201,7 @@
       "url": "https://open.spotify.com/track/0cFjfyfL6mVRb0dQn2XLBw"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/5Lkjqkn8LFTfpo2o9kbqJP"
@@ -1177,7 +1225,7 @@
       "url": "https://open.spotify.com/track/5qFCeotddc68VUOEQ8jaur"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Savage",
         "url": "https://open.spotify.com/album/0m7ddoZFRqhiT6uktqefny"
@@ -1197,7 +1245,7 @@
       "url": "https://open.spotify.com/track/6UQP9MgBPN1X7GiOomaBkO"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Alkebulan Remix",
         "url": "https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs"
@@ -1221,7 +1269,7 @@
       "url": "https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Golconda (Halaken Soundsystem Remix)",
         "url": "https://open.spotify.com/album/0s0o9GODVtQFsDaRWFxbcR"
@@ -1249,7 +1297,23 @@
       "url": "https://open.spotify.com/track/7wvBPvfyzFqOUi5lfNkTvi"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
+      "album": {
+        "name": "Birds Of Toi",
+        "url": "https://open.spotify.com/album/3v2LsemlmJTwtbTCX3UlJT"
+      },
+      "artists": [
+        {
+          "name": "Distropical",
+          "url": "https://open.spotify.com/artist/5hW8i3nfA2DknrWudd2aUF"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Birds Of Toi",
+      "url": "https://open.spotify.com/track/2IVlbPA7i2L2BWEFvyUqI8"
+    },
+    {
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Time & Space",
         "url": "https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy"
@@ -1269,7 +1333,7 @@
       "url": "https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Na Lagoa (Remixes)",
         "url": "https://open.spotify.com/album/3yumAJDkK8phPkQYGXJFDm"
@@ -1289,7 +1353,7 @@
       "url": "https://open.spotify.com/track/76WbdLgFwXC1ZwMzWDTNxt"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Caminata",
         "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
@@ -1305,7 +1369,7 @@
       "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "White Desert",
         "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
@@ -1325,7 +1389,7 @@
       "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Thierry",
         "url": "https://open.spotify.com/album/52FNJyHCljfACoigbzPNkk"
@@ -1341,7 +1405,7 @@
       "url": "https://open.spotify.com/track/7p9J37MMYyR9vqjCuK9Qd0"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Plut\u00f3n",
         "url": "https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW"
@@ -1361,7 +1425,7 @@
       "url": "https://open.spotify.com/track/18Vds2ehiWC09W390vcptq"
     },
     {
-      "added_at": "2024-07-05 13:35:00",
+      "added_at": "2024-07-24 14:40:55",
       "album": {
         "name": "Rummen",
         "url": "https://open.spotify.com/album/12FPrXQxaxUUvhMFUEZpM3"
@@ -1375,42 +1439,6 @@
       "duration_ms": 466750,
       "name": "Rummen",
       "url": "https://open.spotify.com/track/6SAhql2LjyxheYXSRfNTNz"
-    },
-    {
-      "added_at": "2024-07-05 13:35:00",
-      "album": {
-        "name": "Lit",
-        "url": "https://open.spotify.com/album/7J7YPXiCDdTaKHdfFSPXSP"
-      },
-      "artists": [
-        {
-          "name": "Hezarfen",
-          "url": "https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "Lit",
-      "url": "https://open.spotify.com/track/057dSG3J2yUkg6qvCpLEWJ"
-    },
-    {
-      "added_at": "2024-07-05 13:35:00",
-      "album": {
-        "name": "Raga",
-        "url": "https://open.spotify.com/album/6B3R0opCJ5a87ZiC1FVckf"
-      },
-      "artists": [
-        {
-          "name": "Amine K",
-          "url": "https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf"
-        },
-        {
-          "name": "Yahya",
-          "url": "https://open.spotify.com/artist/5ZFlQjYVg2YdyeXIVJKSiX"
-        }
-      ],
-      "duration_ms": 201818,
-      "name": "Raga",
-      "url": "https://open.spotify.com/track/3uyd4cW7ukADr3iSjFIy5G"
     }
   ],
   "unique_name": "Org\u00e1nica",

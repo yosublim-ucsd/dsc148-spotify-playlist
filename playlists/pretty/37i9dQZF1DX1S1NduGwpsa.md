@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Dr\. John
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,144 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,194 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 9 | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe) | 3:59 |
 | 10 | [Life in a Wind](https://open.spotify.com/track/1ot4TEgXBIcdPpoGmbNpmx) | [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC), [Wolfgang Valbrun](https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5) | [Life in a Wind](https://open.spotify.com/album/2amy1cZe4XX0etenWNRe3L) | 4:05 |
 | 11 | [Bonjour Dolly ! \(D'après Dolly Suite Op\. 56, Berceuse\)](https://open.spotify.com/track/2WPuBGF8SxUhzWvJrmqkdQ) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K), [Diego Imbert](https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX) | [Bonjour Dolly ! \(D'après Dolly Suite Op\. 56, Berceuse\)](https://open.spotify.com/album/7onoQMuGPow8Myxwhn23SJ) | 4:42 |
-| 12 | [Theuykhong](https://open.spotify.com/track/4dKb4pmzItfPe3ESCI1YYg) | [Samy Thiébault](https://open.spotify.com/artist/797YMCRJhlhkokujV4RLih) | [Theuykhong](https://open.spotify.com/album/65BI7WfPWAx3N9S8xHDqad) | 4:27 |
+| 12 | [Theuykhong](https://open.spotify.com/track/4dKb4pmzItfPe3ESCI1YYg) | [Samy Thiébault](https://open.spotify.com/artist/797YMCRJhlhkokujV4RLih), [Cynthia Abraham](https://open.spotify.com/artist/0t2bkQctGNc4uafhIWypxu), [Somsouda Thepsouvanh](https://open.spotify.com/artist/3hQJsA7NF3QhkYHLFcyVxO), [Khamsouan Vongthongkham](https://open.spotify.com/artist/5nfcYvUSrKKDIh5wQCrGQM) | [Theuykhong](https://open.spotify.com/album/65BI7WfPWAx3N9S8xHDqad) | 4:27 |
 | 13 | [Run To It \(The CP Song\)](https://open.spotify.com/track/6Lb7lH15OsyGlwmmjaAVz8) | [Julius Rodriguez](https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF) | [Evergreen](https://open.spotify.com/album/5M8eXGXY9ds3L7qSAMY5me) | 5:13 |
 | 14 | [Butterflies \(feat\. Tim Bernardes\)](https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Flower of the soul](https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U) | 5:22 |
 | 15 | [Courage](https://open.spotify.com/track/2i6pMDJd8lcKpD6gOOnEsl) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9), [Guy Moskovich](https://open.spotify.com/artist/3ayMZIWae6YcKu9kdj0pVK) | [Courage](https://open.spotify.com/album/0NzPU1kszNvsOKQyvZt5Q0) | 3:28 |

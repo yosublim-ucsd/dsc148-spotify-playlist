@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Childish Gambino
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,041,119 likes - 200 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,041,198 likes - 200 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe) | 3:49 |
+| 1 | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/track/11bJ1ws3dathgY9uzADUhL) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 3:49 |
 | 2 | [act iv: fckin u again \(18+\)](https://open.spotify.com/track/1NuOeIi5ChqiUZpbbLK8tr) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [act iv: fckin u again \(18+\)](https://open.spotify.com/album/6xarfJH1hiASL8Vs6KhtQK) | 3:15 |
 | 3 | [Ground](https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Ground](https://open.spotify.com/album/44kxeIVSEqnpZKnPHb2Lhw) | 3:02 |
 | 4 | [Nasty Girl Remix \(feat\. Chlöe\)](https://open.spotify.com/track/7bs9SS4w8QKffIimEqatSP) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Nasty Girl Remix \(feat\. Chlöe\)](https://open.spotify.com/album/01vkpXLusTE96RgYguEoXE) | 2:36 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 73 | [Favors](https://open.spotify.com/track/5JwyFzThGsjFxkB1mo01ac) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Favors](https://open.spotify.com/album/2fl9xfumFKIVYwwl3qjp5p) | 3:00 |
 | 74 | [need to know](https://open.spotify.com/track/5Cw6hiPWth7Z5lr8qeCgDS) | [zandros](https://open.spotify.com/artist/30gojhXynjLSWe1kHNUZ1Q), [NateTaylorr](https://open.spotify.com/artist/6FaeHLNz3ISxqrVJCprURb) | [need to know](https://open.spotify.com/album/7FSU6GwzGWpG0roxK8FbUl) | 3:07 |
 | 75 | [Alone Again](https://open.spotify.com/track/0Wk0GJno9JUtFpRRG1RpId) | [Ballad](https://open.spotify.com/artist/5rzpNZtFsVj1CxuF9qzeRx), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Alone Again](https://open.spotify.com/album/7fpCTI1h9vyPGzrCGAjKrf) | 3:25 |
-| 76 | [Just Imagine](https://open.spotify.com/track/7ryReXybZZwhpISu1gq9TV) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA), [eejebee](https://open.spotify.com/artist/5cFJUBx5psjJrIrLWWfrAu) | [Just Imagine](https://open.spotify.com/album/4ooUeAkwr8SmLFflcyKaYH) | 2:39 |
+| 76 | [Just Imagine...](https://open.spotify.com/track/7ryReXybZZwhpISu1gq9TV) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA), [eejebee](https://open.spotify.com/artist/5cFJUBx5psjJrIrLWWfrAu) | [Just Imagine...](https://open.spotify.com/album/4ooUeAkwr8SmLFflcyKaYH) | 2:39 |
 | 77 | [when brains dance](https://open.spotify.com/track/4aE94pPbfuDpW9JVOCXr3E) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [when brains dance](https://open.spotify.com/album/41uCGlgUDw5K3Lxa21E8pC) | 3:04 |
 | 78 | [Dream Girl](https://open.spotify.com/track/6sefxeZxiA07DbMSQB498S) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Dream Girl](https://open.spotify.com/album/0Alr1YFzlqXuaCswGzgFsj) | 3:39 |
 | 79 | [Think Different](https://open.spotify.com/track/677qOFSBpe68eqAbKu9ggT) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Algorithm](https://open.spotify.com/album/4L587s3QXoaroQTIdDWBiW) | 4:07 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 199 | [Tell Her](https://open.spotify.com/track/0ZcA1W51b0NeKhoQzHdA7Q) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0), [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Tell Her](https://open.spotify.com/album/64k5YDxZtFWPvKWMGxKYrO) | 3:51 |
 | 200 | [eyes wide open](https://open.spotify.com/track/47yqCBu6gwfquchEQiBahu) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [eyes wide open](https://open.spotify.com/album/1DIpIdMFlsZwv0UW9kTtmR) | 2:33 |
 
-Snapshot ID: `ZpnkwAAAAAASjPxmH/hABRNnM5wvJAcm`
+Snapshot ID: `ZqEmugAAAABeqoAKmZyvRpF8Q36R8yCv`

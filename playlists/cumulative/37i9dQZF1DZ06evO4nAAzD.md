@@ -4,7 +4,7 @@
 
 > This is Hyperanhas\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 47 min
+59 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [FALSA FANTASIA](https://open.spotify.com/track/2cHow13oEjdUhLwj1PyCJd) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [MINAS DE OURO](https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN) | 2:48 | 2023-12-30 |  |
 | [Festa na Piscina](https://open.spotify.com/track/5tyr9BUCvmyGKxBc0CbMNv) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src), [Nath Fischer](https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW) | [Festa na Piscina](https://open.spotify.com/album/00FA6DwM0uincXdQJ8wltO) | 4:28 | 2023-12-30 |  |
 | [Flash](https://open.spotify.com/track/31C6dstRTDMEK5tOpGWyIM) | [Mc Vittin PV](https://open.spotify.com/artist/6fTuuqOYCnU7oleecp16zB), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Flash](https://open.spotify.com/album/1VFyE0WYtCtWLZDU4HZCKD) | 3:58 | 2023-12-30 |  |
-| [Gelo No Copo](https://open.spotify.com/track/3M2GmNwZ3VLr8zFTjKJJnO) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Fe Ribeiro](https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX) | [Gelo No Copo](https://open.spotify.com/album/6HuGJQeZsgM8d7rho2MBEO) | 4:59 | 2023-12-30 |  |
+| [Gelo No Copo](https://open.spotify.com/track/3M2GmNwZ3VLr8zFTjKJJnO) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Fe Ribeiro](https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX) | [Gelo No Copo](https://open.spotify.com/album/6HuGJQeZsgM8d7rho2MBEO) | 4:59 | 2023-12-30 | 2024-07-25 |
+| [Gelo No Copo](https://open.spotify.com/track/3saUWpM9m8eYHZWGj0ksZM) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Fe Ribeiro](https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX) | [Gelo No Copo](https://open.spotify.com/album/18PPKlwvLuUTvo92inqDfK) | 4:59 | 2024-07-25 |  |
 | [Gelo no Copo \- Remix](https://open.spotify.com/track/0oOQ4zepSFoaf8uPYMrn63) | [Cufe](https://open.spotify.com/artist/5x7TPxozTWALMsXrBeA4BX), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Gelo no Copo \(Remix\)](https://open.spotify.com/album/5NCBnLl7vt3z5loG6kDcqM) | 2:50 | 2023-12-30 | 2024-06-01 |
 | [Jóia Rara](https://open.spotify.com/track/2KI0w6U0gDGBkrupnrOq0e) | [Sens3](https://open.spotify.com/artist/5wbiD1mhvhzwK51KDPfxiY), [Dé Barros](https://open.spotify.com/artist/1IP5A0i2yKTTZjJ9DTlb4x), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Jóia Rara](https://open.spotify.com/album/2zWl5MHsVYIyttVflAGnRF) | 2:50 | 2024-07-19 | 2024-07-21 |
 | [Lambo](https://open.spotify.com/track/06nllqzWyfgQXMrLBHUJk4) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [MISAEL](https://open.spotify.com/artist/7rn8MwX4RRLRC4yhQJ6sKR), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp) | [Lambo](https://open.spotify.com/album/7BHzV7j7SOUMbi1icPb0Aj) | 3:32 | 2023-12-30 |  |

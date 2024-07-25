@@ -384,7 +384,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 171982,
       "name": "Ai Ga Nokotte Imasu",
       "url": "https://open.spotify.com/track/23Tg3Hl1NWIqeykbRBEqBE"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 142649,
       "name": "Ambit",
       "url": "https://open.spotify.com/track/7dWmUDrip6mWXyhrcFhJgb"
@@ -1588,7 +1588,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 168545,
       "name": "bonny",
       "url": "https://open.spotify.com/track/4HhE9O3Qp2lm0tZSRTG7SU"
@@ -1794,7 +1794,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 178011,
       "name": "Brothers and Sisters",
       "url": "https://open.spotify.com/track/57dcNEUFoUHdUHm0UgFDa0"
@@ -2111,6 +2111,24 @@
     },
     {
       "album": {
+        "name": "Catwalk",
+        "url": "https://open.spotify.com/album/1vr4Oty2K6h42zXaoeqOfC"
+      },
+      "artists": [
+        {
+          "name": "Mode Donna",
+          "url": "https://open.spotify.com/artist/4EVClNgwLk38PorSOhui9R"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166909,
+      "name": "Catwalk",
+      "url": "https://open.spotify.com/track/2IS0y1hW0E776RI6IkJtUI"
+    },
+    {
+      "album": {
         "name": "ENERGY (Special Edition)",
         "url": "https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz"
       },
@@ -2368,7 +2386,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 167005,
       "name": "Clearance",
       "url": "https://open.spotify.com/track/2rgLD7uyW4vmHsWptsALZx"
@@ -2404,7 +2422,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 189120,
       "name": "Clouds & Rainbows",
       "url": "https://open.spotify.com/track/6srEPAMJQ8JaVK9IvXmlCS"
@@ -2876,7 +2894,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 153846,
       "name": "Crisp Velvet",
       "url": "https://open.spotify.com/track/4EVeGsLzlWrOB7W2QGUCdM"
@@ -3272,7 +3290,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 177000,
       "name": "detour",
       "url": "https://open.spotify.com/track/3cH2o1jJ13v2U1o1nbGUNW"
@@ -3596,7 +3614,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 228463,
       "name": "Drinks on You",
       "url": "https://open.spotify.com/track/07YhBKi2jQhDp7FhRTlmeD"
@@ -4054,7 +4072,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 183362,
       "name": "Fabulous Vegas",
       "url": "https://open.spotify.com/track/1N0xapomYwqNTLekadIR0F"
@@ -4901,6 +4919,24 @@
     },
     {
       "album": {
+        "name": "Give it all",
+        "url": "https://open.spotify.com/album/2qaIW1D8gFgcKMqLU200tg"
+      },
+      "artists": [
+        {
+          "name": "Fabi.",
+          "url": "https://open.spotify.com/artist/0vfz8aLN7UtvWnFlB3DwXG"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124137,
+      "name": "Give it all",
+      "url": "https://open.spotify.com/track/1aUnUW9nPKxjyzYRvr2J3v"
+    },
+    {
+      "album": {
         "name": "Give It To U",
         "url": "https://open.spotify.com/album/3S0bQ0E9LalW3Tt8Wxf4RH"
       },
@@ -4930,7 +4966,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 153720,
       "name": "Give It Your All",
       "url": "https://open.spotify.com/track/39uperenLlTvIr38cybSU2"
@@ -7790,7 +7826,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 215593,
       "name": "Milano",
       "url": "https://open.spotify.com/track/11hZsWshuew6ChfGjFUJaZ"
@@ -7830,6 +7866,24 @@
       "duration_ms": 164000,
       "name": "mirage",
       "url": "https://open.spotify.com/track/56Am5PWznL2ea3NGzyUvLy"
+    },
+    {
+      "album": {
+        "name": "Missing Daylight",
+        "url": "https://open.spotify.com/album/1lDf6G3M2K3tX108BZtSb6"
+      },
+      "artists": [
+        {
+          "name": "Helio Lush",
+          "url": "https://open.spotify.com/artist/4gtfDaFcQA61xtmw5GenXa"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157948,
+      "name": "Missing Daylight",
+      "url": "https://open.spotify.com/track/2B8abTUyycIzH4Taw1r4Je"
     },
     {
       "album": {
@@ -8965,6 +9019,24 @@
     },
     {
       "album": {
+        "name": "Only U",
+        "url": "https://open.spotify.com/album/4RyKiSWAAV4uUaLFH0YDsX"
+      },
+      "artists": [
+        {
+          "name": "LeDorean",
+          "url": "https://open.spotify.com/artist/33m7VtP8WxR5FhUKIMOB46"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185379,
+      "name": "Only U",
+      "url": "https://open.spotify.com/track/1QsHWsHzWiqMFKwNojRZx9"
+    },
+    {
+      "album": {
         "name": "Moment EP",
         "url": "https://open.spotify.com/album/0lIHGVhcEfhqRTMFCCYbmt"
       },
@@ -9682,7 +9754,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 188024,
       "name": "Positano",
       "url": "https://open.spotify.com/track/2XxGvI9nvrkK6BuNAOvRQw"
@@ -11638,7 +11710,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 196730,
       "name": "Solar Healing",
       "url": "https://open.spotify.com/track/7lQa9uhOiN5eD2rM75tHry"
@@ -12064,7 +12136,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 171842,
       "name": "streaking particles",
       "url": "https://open.spotify.com/track/25ceAVCHZ2Tbk38hwv31Kx"
@@ -13436,7 +13508,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 198225,
       "name": "Toyama",
       "url": "https://open.spotify.com/track/0fNvCaHFdc8gmP5c3OJLgs"
@@ -14190,7 +14262,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 153029,
       "name": "Wayless",
       "url": "https://open.spotify.com/track/2R4wZV3xXUK6ymYuutoCIL"
@@ -14586,7 +14658,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 185739,
       "name": "Yeesh Euphemism",
       "url": "https://open.spotify.com/track/5XE4be6dC1jBUIfVNceNxx"

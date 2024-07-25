@@ -1,13 +1,93 @@
 {
-  "description": "The best new pop music by independent artists and labels. Cover: Alessi Rose Artwork by Paola Saliby",
-  "num_followers": 212972,
+  "description": "The best new pop music by independent artists and labels. Cover: f5ve Artwork by Paola Saliby",
+  "num_followers": 213053,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpdBwAAAAACuh/EfpRrDD7DHTXG8Qmbm",
+  "snapshot_id": "ZqCCsgAAAAAFsYE74eVxeLb0ubyBNavQ",
   "tracks": [
+    {
+      "added_at": "2024-07-24 04:00:00",
+      "album": {
+        "name": "Underground \u2022 \u30a2\u30f3\u30c0\u30fc\u30b0\u30e9\u30a6\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/6qnk2D0xy1jzmfnyDd8pBe"
+      },
+      "artists": [
+        {
+          "name": "f5ve",
+          "url": "https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy"
+        }
+      ],
+      "duration_ms": 141782,
+      "name": "Underground \u2022 \u30a2\u30f3\u30c0\u30fc\u30b0\u30e9\u30a6\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/2QzOxrOZeP95cy5fEKzfwQ"
+    },
+    {
+      "added_at": "2024-07-17 04:00:00",
+      "album": {
+        "name": "High Hopes",
+        "url": "https://open.spotify.com/album/7C6xyp6Mzs9mqPVCNzZkwE"
+      },
+      "artists": [
+        {
+          "name": "Flo Gallop",
+          "url": "https://open.spotify.com/artist/3hpT13ziNDOLWo3HzuS2IN"
+        }
+      ],
+      "duration_ms": 166141,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/4buJMGjqbqO75pH4AfeKtR"
+    },
+    {
+      "added_at": "2024-07-24 04:27:30",
+      "album": {
+        "name": "Die a Man",
+        "url": "https://open.spotify.com/album/0boSdjPdJntbE4AqwSHfJo"
+      },
+      "artists": [
+        {
+          "name": "Sid Dorey",
+          "url": "https://open.spotify.com/artist/6UcErG934cEadG4q16v37T"
+        }
+      ],
+      "duration_ms": 178849,
+      "name": "Die a Man",
+      "url": "https://open.spotify.com/track/3MfAzpgp4fiv7URRhH3MQQ"
+    },
+    {
+      "added_at": "2024-07-24 04:00:00",
+      "album": {
+        "name": "DIVA",
+        "url": "https://open.spotify.com/album/182Qkh6HKdTf6R9e4LghI1"
+      },
+      "artists": [
+        {
+          "name": "REHMA",
+          "url": "https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD"
+        }
+      ],
+      "duration_ms": 148132,
+      "name": "DIVA",
+      "url": "https://open.spotify.com/track/3j7OsLTx5oTrm7sMewQsj9"
+    },
+    {
+      "added_at": "2024-07-24 04:00:00",
+      "album": {
+        "name": "Trippin",
+        "url": "https://open.spotify.com/album/2v6SjGWldikliw4sKC7BkQ"
+      },
+      "artists": [
+        {
+          "name": "LYVIA",
+          "url": "https://open.spotify.com/artist/50lx8GGMkqblJrDSpaV0du"
+        }
+      ],
+      "duration_ms": 129032,
+      "name": "Trippin",
+      "url": "https://open.spotify.com/track/5uSu5qSPTshlm0LK52mEkz"
+    },
     {
       "added_at": "2024-07-17 04:00:00",
       "album": {
@@ -23,6 +103,54 @@
       "duration_ms": 164626,
       "name": "CRUSH!",
       "url": "https://open.spotify.com/track/0R2rXgOQsLsC1wSBYdKn6l"
+    },
+    {
+      "added_at": "2024-07-24 04:00:00",
+      "album": {
+        "name": "Tarot Card",
+        "url": "https://open.spotify.com/album/5wcqWsDrZynVkqHiE1fVDz"
+      },
+      "artists": [
+        {
+          "name": "Cam Holmes",
+          "url": "https://open.spotify.com/artist/2JMc8g6uOfQ6cv76PA9se6"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Tarot Card",
+      "url": "https://open.spotify.com/track/6xVomDw20rcuPYRwFXJLT3"
+    },
+    {
+      "added_at": "2024-07-17 04:00:00",
+      "album": {
+        "name": "Fun!",
+        "url": "https://open.spotify.com/album/52KdryPEyIJlfevaosEbu1"
+      },
+      "artists": [
+        {
+          "name": "Gracie Moller",
+          "url": "https://open.spotify.com/artist/4ZjWH3iesGTCHe6WB2EMbs"
+        }
+      ],
+      "duration_ms": 174004,
+      "name": "Fun!",
+      "url": "https://open.spotify.com/track/4fYn1czdTYCUghXdvIeHg3"
+    },
+    {
+      "added_at": "2024-07-24 04:00:00",
+      "album": {
+        "name": "Inbetweener",
+        "url": "https://open.spotify.com/album/5ppaoO6GLCSKM9gRpJhp4w"
+      },
+      "artists": [
+        {
+          "name": "Hanna Rautzenberg",
+          "url": "https://open.spotify.com/artist/4KsVHZ3XBKV7bIXF8x8q3y"
+        }
+      ],
+      "duration_ms": 215237,
+      "name": "Inbetweener",
+      "url": "https://open.spotify.com/track/4wYAbzIHl74dcW8ALGGyXK"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -41,20 +169,108 @@
       "url": "https://open.spotify.com/track/5x1TPsoSvyrZkJM9JXRiWj"
     },
     {
-      "added_at": "2024-07-17 04:00:00",
+      "added_at": "2024-07-24 04:00:00",
       "album": {
-        "name": "Fun!",
-        "url": "https://open.spotify.com/album/52KdryPEyIJlfevaosEbu1"
+        "name": "I`m The One",
+        "url": "https://open.spotify.com/album/428XMRd5wpFMR1nA3xwgTy"
       },
       "artists": [
         {
-          "name": "Gracie Moller",
-          "url": "https://open.spotify.com/artist/4ZjWH3iesGTCHe6WB2EMbs"
+          "name": "Airyen Vay",
+          "url": "https://open.spotify.com/artist/3pJqf3YQcdVzPuEP1wTazB"
         }
       ],
-      "duration_ms": 174004,
-      "name": "Fun!",
-      "url": "https://open.spotify.com/track/4fYn1czdTYCUghXdvIeHg3"
+      "duration_ms": 138461,
+      "name": "I`m The One",
+      "url": "https://open.spotify.com/track/6sutXgl64bKZW3Rba7IfNE"
+    },
+    {
+      "added_at": "2024-07-24 04:00:00",
+      "album": {
+        "name": "Disconnect",
+        "url": "https://open.spotify.com/album/4juWnOvpXIoMLNVqLN1qHs"
+      },
+      "artists": [
+        {
+          "name": "ODD LUKE",
+          "url": "https://open.spotify.com/artist/5kuE84uZ6E6Aka3OH968VM"
+        }
+      ],
+      "duration_ms": 195594,
+      "name": "Disconnect",
+      "url": "https://open.spotify.com/track/3zXiDgltU2HnADWAperXcW"
+    },
+    {
+      "added_at": "2024-07-24 04:00:00",
+      "album": {
+        "name": "Weatherman",
+        "url": "https://open.spotify.com/album/2CsEExsgK8GD3CxkYKRCBV"
+      },
+      "artists": [
+        {
+          "name": "Perp",
+          "url": "https://open.spotify.com/artist/7jIBDfVAfhi2qtoQNveJEu"
+        },
+        {
+          "name": "Tiana Tara",
+          "url": "https://open.spotify.com/artist/3lHzLZ5rH5uP4IYwZyBGan"
+        },
+        {
+          "name": "Varun Agnihotri",
+          "url": "https://open.spotify.com/artist/1wM6bWtRPgisC0eP1kH9vH"
+        }
+      ],
+      "duration_ms": 204634,
+      "name": "Weatherman",
+      "url": "https://open.spotify.com/track/0LLIEzLgdD1zTswWEX0oHg"
+    },
+    {
+      "added_at": "2024-07-24 04:00:00",
+      "album": {
+        "name": "leave your lova",
+        "url": "https://open.spotify.com/album/3mdhfbNMgvTRn1MPWViZui"
+      },
+      "artists": [
+        {
+          "name": "Molly Annelle",
+          "url": "https://open.spotify.com/artist/3mgxzlrTPRjDZ5qn93i5vz"
+        }
+      ],
+      "duration_ms": 197524,
+      "name": "leave your lova",
+      "url": "https://open.spotify.com/track/3foYJGw0DTy0coogZDbi0E"
+    },
+    {
+      "added_at": "2024-07-24 04:00:00",
+      "album": {
+        "name": "My Girls",
+        "url": "https://open.spotify.com/album/3dx0k0VeZzGH8N2wz5sPSL"
+      },
+      "artists": [
+        {
+          "name": "Elise Elvira",
+          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "My Girls",
+      "url": "https://open.spotify.com/track/0s14gXQV5NfxcqGqwrXQ9u"
+    },
+    {
+      "added_at": "2024-07-24 04:00:00",
+      "album": {
+        "name": "Child of the City",
+        "url": "https://open.spotify.com/album/34bN53KpSsbPFjnGL8vppH"
+      },
+      "artists": [
+        {
+          "name": "Asbj\u00f8rn",
+          "url": "https://open.spotify.com/artist/47rOF45mpciP0KFUlBqKUX"
+        }
+      ],
+      "duration_ms": 201904,
+      "name": "Child of the City",
+      "url": "https://open.spotify.com/track/72lqf7BtvGFadFPWkvoz9C"
     },
     {
       "added_at": "2024-07-10 04:00:00",
@@ -171,22 +387,6 @@
       "duration_ms": 165045,
       "name": "See U In 3",
       "url": "https://open.spotify.com/track/6sZvLhRDxHPxpMxMxPRwVG"
-    },
-    {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "High Hopes",
-        "url": "https://open.spotify.com/album/7C6xyp6Mzs9mqPVCNzZkwE"
-      },
-      "artists": [
-        {
-          "name": "Flo Gallop",
-          "url": "https://open.spotify.com/artist/3hpT13ziNDOLWo3HzuS2IN"
-        }
-      ],
-      "duration_ms": 166141,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/4buJMGjqbqO75pH4AfeKtR"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -819,22 +1019,6 @@
     {
       "added_at": "2024-07-10 04:00:00",
       "album": {
-        "name": "Last Resort: Beach Club",
-        "url": "https://open.spotify.com/album/2YIrbQuMuHNkeFz08XWYgi"
-      },
-      "artists": [
-        {
-          "name": "RYL0",
-          "url": "https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh"
-        }
-      ],
-      "duration_ms": 231272,
-      "name": "Gimme A Break",
-      "url": "https://open.spotify.com/track/6TELZf4WvXW9e34W4MbyL7"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
         "name": "90's Break Up",
         "url": "https://open.spotify.com/album/4JTZf6R5gNRcDZQ6yldpil"
       },
@@ -911,22 +1095,6 @@
       "duration_ms": 192805,
       "name": "Kissing Undercover",
       "url": "https://open.spotify.com/track/2gG3i2sg2vZURAuhJzrLkQ"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "STAMINA",
-        "url": "https://open.spotify.com/album/17Jenz4JpbDtdrpFu1MdGA"
-      },
-      "artists": [
-        {
-          "name": "APOLLO STOWE",
-          "url": "https://open.spotify.com/artist/2LTi6jtnIvBGZl3BzaHdkt"
-        }
-      ],
-      "duration_ms": 177760,
-      "name": "STAMINA",
-      "url": "https://open.spotify.com/track/488OTJLTkfkZSaiRRC5Aza"
     },
     {
       "added_at": "2024-07-10 04:00:00",
@@ -1027,54 +1195,6 @@
     {
       "added_at": "2024-07-10 04:00:00",
       "album": {
-        "name": "Not Your Angel",
-        "url": "https://open.spotify.com/album/3tmyrJbOloJPuuvtvIh51X"
-      },
-      "artists": [
-        {
-          "name": "Zsela",
-          "url": "https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6"
-        }
-      ],
-      "duration_ms": 179617,
-      "name": "Not Your Angel",
-      "url": "https://open.spotify.com/track/6mZm8UsXesXTWZNPF3QKxq"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "No Love Story",
-        "url": "https://open.spotify.com/album/50Cus6YoKBaECyhdAmDpIl"
-      },
-      "artists": [
-        {
-          "name": "Maggie Ries",
-          "url": "https://open.spotify.com/artist/07n13C6YYI7HZbMmrV1ON4"
-        }
-      ],
-      "duration_ms": 172653,
-      "name": "No Love Story",
-      "url": "https://open.spotify.com/track/4lbyxlocmi3KVFmGdGdOc0"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "Don't Wanna Be Saved",
-        "url": "https://open.spotify.com/album/5YjGk8T076PVMaQZQRpzts"
-      },
-      "artists": [
-        {
-          "name": "Virgin Miri",
-          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
-        }
-      ],
-      "duration_ms": 180436,
-      "name": "Don't Wanna Be Saved",
-      "url": "https://open.spotify.com/track/3aoRFWXptB9Xfh7zq0RLd1"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
         "name": "Rough Love",
         "url": "https://open.spotify.com/album/315te35WGbPTh4fYj1INfL"
       },
@@ -1171,22 +1291,6 @@
     {
       "added_at": "2024-07-10 04:00:00",
       "album": {
-        "name": "Drives Me Crazy",
-        "url": "https://open.spotify.com/album/0QN5ToOHmKm01Te3J4Pfpg"
-      },
-      "artists": [
-        {
-          "name": "Tobias Defoe",
-          "url": "https://open.spotify.com/artist/4UWYwl77CmLOHrz7Zehl2l"
-        }
-      ],
-      "duration_ms": 196595,
-      "name": "Drives Me Crazy",
-      "url": "https://open.spotify.com/track/4wRYig1iN6PwIEHGVxmDyA"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
         "name": "Most Wanted",
         "url": "https://open.spotify.com/album/2DZrZqI45PpoQ4bzQoj2Vf"
       },
@@ -1231,22 +1335,6 @@
       "duration_ms": 228144,
       "name": "if you still like me in the morning",
       "url": "https://open.spotify.com/track/32UGfgmC8cbsK3RpqIJs4f"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "Sound of Heartache",
-        "url": "https://open.spotify.com/album/3iw4SzmAPu9JKEIpIeIgwE"
-      },
-      "artists": [
-        {
-          "name": "Asbj\u00f8rn",
-          "url": "https://open.spotify.com/artist/47rOF45mpciP0KFUlBqKUX"
-        }
-      ],
-      "duration_ms": 240260,
-      "name": "Sound of Heartache",
-      "url": "https://open.spotify.com/track/6ls0Col3YKJSjEBVtjyVLD"
     },
     {
       "added_at": "2024-07-10 04:00:00",
@@ -1395,58 +1483,6 @@
     {
       "added_at": "2024-07-10 04:00:00",
       "album": {
-        "name": "Jool Wave",
-        "url": "https://open.spotify.com/album/0lG11UlUDFGQIOyVaOW3ns"
-      },
-      "artists": [
-        {
-          "name": "Jewel Owusu",
-          "url": "https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW"
-        },
-        {
-          "name": "Aria Wood",
-          "url": "https://open.spotify.com/artist/14ttCeIGTAIP1aU9ftwtlK"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "thin",
-      "url": "https://open.spotify.com/track/0gTl3KCfmI8tk4h4ZeHac5"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "All The Time",
-        "url": "https://open.spotify.com/album/4vOAXgADY2UDmrX7o3Qa2E"
-      },
-      "artists": [
-        {
-          "name": "Natalie Shay",
-          "url": "https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ"
-        }
-      ],
-      "duration_ms": 178021,
-      "name": "All The Time",
-      "url": "https://open.spotify.com/track/15kh7Rja9cOZZ2yI5bZlvX"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "Underwater Bubble Pop",
-        "url": "https://open.spotify.com/album/3wpZjWD9ILPNPyaN2A4gKK"
-      },
-      "artists": [
-        {
-          "name": "Lagoona Bloo",
-          "url": "https://open.spotify.com/artist/3XoIXXjhnjGVs1SqBsMrjp"
-        }
-      ],
-      "duration_ms": 160907,
-      "name": "Underwater Bubble Pop",
-      "url": "https://open.spotify.com/track/69K7bXXTJA9RsoixlNEaky"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
         "name": "Healing Out of Spite",
         "url": "https://open.spotify.com/album/6YkVcYR148DaAJbPOQCqVX"
       },
@@ -1463,22 +1499,6 @@
     {
       "added_at": "2024-07-10 04:00:00",
       "album": {
-        "name": "Live Or Die",
-        "url": "https://open.spotify.com/album/6O5lkLmqRerbbdZ0GCzvBx"
-      },
-      "artists": [
-        {
-          "name": "Brooke Daye",
-          "url": "https://open.spotify.com/artist/1rcjWfyRCF09kNQ8cEGdib"
-        }
-      ],
-      "duration_ms": 151314,
-      "name": "Live Or Die",
-      "url": "https://open.spotify.com/track/78gfrqVsMKemZp6alMCuRt"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
         "name": "1000 Fucks Ago",
         "url": "https://open.spotify.com/album/1VHuC9E78kQDik3UAvpLgT"
       },
@@ -1491,22 +1511,6 @@
       "duration_ms": 184041,
       "name": "1000 Fucks Ago",
       "url": "https://open.spotify.com/track/00zT4M0FbjHzCOSezbypmP"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "Only Like A Woman Can",
-        "url": "https://open.spotify.com/album/7HPYbwTJxyeDg6ldeI0YII"
-      },
-      "artists": [
-        {
-          "name": "Lily Papas",
-          "url": "https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi"
-        }
-      ],
-      "duration_ms": 218559,
-      "name": "Only Like A Woman Can",
-      "url": "https://open.spotify.com/track/6RXwegAIYne5TgA7Vf6A5n"
     },
     {
       "added_at": "2024-07-10 04:00:00",

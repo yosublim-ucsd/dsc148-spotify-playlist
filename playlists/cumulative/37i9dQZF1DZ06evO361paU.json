@@ -481,6 +481,28 @@
     },
     {
       "album": {
+        "name": "Human (Remixes Edits)",
+        "url": "https://open.spotify.com/album/3BdVQB5QezmM00de2dDOgs"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        },
+        {
+          "name": "Dave Aud\u00e9",
+          "url": "https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232258,
+      "name": "Human - Dave Aud\u00e9 Remix edit",
+      "url": "https://open.spotify.com/track/7fRkil9alBUn9PhPGm3fCz"
+    },
+    {
+      "album": {
         "name": "Human (LF SYSTEM Remix)",
         "url": "https://open.spotify.com/album/5y31O5yTflyqocxyBt6ifG"
       },
@@ -947,6 +969,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230266,
+      "name": "Mr. Cab Driver",
+      "url": "https://open.spotify.com/track/1SPrdIUNZRehQbiravoPcB"
+    },
+    {
+      "album": {
         "name": "Let Love Rule",
         "url": "https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb"
       },
@@ -958,7 +998,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 230800,
       "name": "Mr. Cab Driver",
       "url": "https://open.spotify.com/track/29SkFrotMPQH88drC646sy"

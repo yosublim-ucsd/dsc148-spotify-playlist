@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0627\u0646\u062a \u0641\u0627\u0643\u0631 \u0627\u0646 \u0643\u0648\u0645\u0646\u062a\u0643 \u0627\u0644\u0633\u0644\u0628\u064a \u062d\u064a\u0647\u0632\u0646\u064a \u0628\u0627\u0644\u0639\u0643\u0633 \u0628\u0634\u062a\u063a\u0644 \u0627\u0643\u062a\u0631 \u0628\u0639\u0645\u0644 \u0647\u062a \u0641\u0627\u0628\u063a\u062a\u0646\u064a. \u063a\u0644\u0627\u0641: \u0627\u0628\u0648 \u0627\u0644\u0627\u0646\u0648\u0627\u0631",
+  "description": "Afroto:\u063a\u0644\u0627\u0641 .EEEEE",
   "name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
   "tracks": [
     {
@@ -918,7 +918,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 179136,
       "name": "BAHZ",
       "url": "https://open.spotify.com/track/4eEqANCoWtjcegFNqnV3nq"
@@ -3985,6 +3985,28 @@
     },
     {
       "album": {
+        "name": "\u0623\u0641\u0636\u0644 \u0623\u063a\u0627\u0646\u0649 2024",
+        "url": "https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        },
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276135,
+      "name": "MONW3AT 2019",
+      "url": "https://open.spotify.com/track/1SnrE09OAfMEgdC20Wygl5"
+    },
+    {
+      "album": {
         "name": "Mossadas Soot",
         "url": "https://open.spotify.com/album/5IYYgEosDioBGkYpaJ86PQ"
       },
@@ -5016,7 +5038,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 159810,
       "name": "TA TA TA",
       "url": "https://open.spotify.com/track/0RH75zMCXxmyxqiz8CymsO"
@@ -5419,6 +5441,24 @@
     },
     {
       "album": {
+        "name": "\u0623\u0641\u0636\u0644 \u0623\u063a\u0627\u0646\u0649 2024",
+        "url": "https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184568,
+      "name": "VINI",
+      "url": "https://open.spotify.com/track/6NBc4HFBDAz9ghMfXuz3M0"
+    },
+    {
+      "album": {
         "name": "IMPORT//EXPORT",
         "url": "https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9"
       },
@@ -5474,6 +5514,24 @@
       "duration_ms": 129000,
       "name": "Wasa3",
       "url": "https://open.spotify.com/track/2Zo8Kn2PslabnsvrouOJxk"
+    },
+    {
+      "album": {
+        "name": "\u0623\u0641\u0636\u0644 \u0623\u063a\u0627\u0646\u0649 2024",
+        "url": "https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "WELAD ELMAGANEN",
+      "url": "https://open.spotify.com/track/5BLk1nq9Z0Fj9hIFA4FYOx"
     },
     {
       "album": {

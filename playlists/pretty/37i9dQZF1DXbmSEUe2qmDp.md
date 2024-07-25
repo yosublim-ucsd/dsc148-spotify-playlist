@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Fiorella
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,443 likes - 73 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,458 likes - 73 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 24 | [Namorada Solteira](https://open.spotify.com/track/7fW41om1M9TripkN2vvuiI) | [Luiz Gusttavo](https://open.spotify.com/artist/6RQARhuZiSBLBnYslqPEzg) | [Ao Vivo Pra Valer, Vol\. 2](https://open.spotify.com/album/4JNg8Cf0XNKEy2vOxaF1LH) | 2:17 |
 | 25 | [Mil Corações / Você Decide \- Ao Vivo](https://open.spotify.com/track/58fa326KdzxpvaOnIzMIMh) | [Douglas & Diego](https://open.spotify.com/artist/44fMCOsl1bJ4IAOiUdYSpY) | [Buteco dos DeD, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6OSnFWxN7Cg4ESuDrO3KcN) | 3:32 |
 | 26 | [Anti Recaída \- Ao Vivo](https://open.spotify.com/track/3IsJlpVwnSoyf4nq7uwkBA) | [Dani Kramar](https://open.spotify.com/artist/66cud0YzAQGjDJ43cfbTHE), [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Anti Recaída \(Ao Vivo\)](https://open.spotify.com/album/3AlqdqyKhRPwJSNT63dl6q) | 2:37 |
-| 27 | [Três Vícios](https://open.spotify.com/track/6L2ic6QNrcwELsHz6y9LKu) | [Lucca & Biel](https://open.spotify.com/artist/0kgLMZYTRaL072kmPiSfxh), [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8) | [Três Vícios \(Ao Vivo\)](https://open.spotify.com/album/1exbSin4LdTz52oRHmPiXb) | 3:18 |
+| 27 | [Três Vícios \- Ao Vivo](https://open.spotify.com/track/6L2ic6QNrcwELsHz6y9LKu) | [Lucca & Biel](https://open.spotify.com/artist/0kgLMZYTRaL072kmPiSfxh), [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8) | [Três Vícios \(Ao Vivo\)](https://open.spotify.com/album/1exbSin4LdTz52oRHmPiXb) | 3:18 |
 | 28 | [Pega Eu \- Ao Vivo](https://open.spotify.com/track/7gCe4pdG2dPvlZWPFRrhmd) | [João Pedro e Fellipe](https://open.spotify.com/artist/4HN8GLpL6Vie0xgKDEtpSN), [Workshow](https://open.spotify.com/artist/6YjAtmEF0HcwMnKYSHSDDJ) | [Pega Eu \(Ao Vivo\)](https://open.spotify.com/album/0GzSYPcj8ZLmrcyG5hiU1p) | 2:09 |
 | 29 | [Beijo Culposo \- Ao Vivo](https://open.spotify.com/track/6Qfg9vWDOSFb1iVWzRxe2M) | [Kaik & Alessandro](https://open.spotify.com/artist/17sMphO0GKc9mhyTvi0CSz), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Beijo Culposo \(Ao Vivo\)](https://open.spotify.com/album/4ypkKH1NoHP2kCkenKU9y1) | 3:06 |
 | 30 | [Vê Se Pode \- Vê Se Pod, Ao Vivo](https://open.spotify.com/track/1Venap4M7bpaMWGQpSdak4) | [Tales e Conrado](https://open.spotify.com/artist/7fcLHcV1WevmunmSl3NkoN), [Loubet](https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI), [New Music Play](https://open.spotify.com/artist/3k7MPOrJwbfxQS4ArgsNEG) | [Vê Se Pode \(Vê Se Pod, Ao Vivo\)](https://open.spotify.com/album/7j9WH7MiIfC1nKPastxCNb) | 2:41 |

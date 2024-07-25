@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: Realest Cram, CK YG",
+  "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: Realest Cram, ENZO MF",
   "name": "KALYE",
   "tracks": [
     {
@@ -1167,6 +1167,24 @@
     },
     {
       "album": {
+        "name": "Ganun Talaga",
+        "url": "https://open.spotify.com/album/0egGF5IBQDYkzc74NLDqwf"
+      },
+      "artists": [
+        {
+          "name": "1096 Gang",
+          "url": "https://open.spotify.com/artist/1HkpK55jsORzgtOURbOeQH"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229333,
+      "name": "Ganun Talaga",
+      "url": "https://open.spotify.com/track/7nwD00jIeBrnS0Ay9abC4T"
+    },
+    {
+      "album": {
         "name": "Get Low",
         "url": "https://open.spotify.com/album/7e209iBgYDKOavREMtFVAn"
       },
@@ -1274,7 +1292,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 229333,
       "name": "Good Game",
       "url": "https://open.spotify.com/track/0LKwGEMlYx9BsrTHXflMvg"
@@ -1340,6 +1358,28 @@
       "duration_ms": 231428,
       "name": "Halik Sobrang Diin",
       "url": "https://open.spotify.com/track/6cXmKmwevj5utucE8XG7SK"
+    },
+    {
+      "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Ez Mil",
+          "url": "https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234836,
+      "name": "Head Honcho",
+      "url": "https://open.spotify.com/track/7GXOXYdU950eRvk5rUAE8F"
     },
     {
       "album": {
@@ -2206,6 +2246,24 @@
       "duration_ms": 251455,
       "name": "MINAHALAGAD",
       "url": "https://open.spotify.com/track/0k9bmRFeWAKCJm0OtIrbd1"
+    },
+    {
+      "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/0m4VEjA8qEHpKZfptH53uE"
+      },
+      "artists": [
+        {
+          "name": "Young Blood Neet",
+          "url": "https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167808,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/16BMFqJFcbs0iriQ5Hrkcp"
     },
     {
       "album": {
@@ -3116,7 +3174,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 205807,
       "name": "tama + mali",
       "url": "https://open.spotify.com/track/133dS5ZbtUVkaRdjJ9RJnI"
@@ -3214,7 +3272,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 164419,
       "name": "Thug",
       "url": "https://open.spotify.com/track/0PTYkBpalg3l8p3ABlfVNE"

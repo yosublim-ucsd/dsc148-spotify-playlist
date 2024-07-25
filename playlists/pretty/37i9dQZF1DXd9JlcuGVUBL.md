@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 
 > Die beste country musiek\. Omslag: <a href="https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ?si=TwEntQ7oS0a2Sc\-NMWn6Mg">Koe Wetzel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,811 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,834 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [This Is Eva Shaw](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3zfxtu)
 
-> This is Eva Shaw\. Tutti i brani in un'unica playlist.
+> This is Eva Shaw\. The essential tracks, all in one playlist.
 
 80 songs - 4 hr 0 min
 

@@ -5947,6 +5947,32 @@
     },
     {
       "album": {
+        "name": "Inni Soni",
+        "url": "https://open.spotify.com/album/4LtthFXdPClIkbpQ4LWYcl"
+      },
+      "artists": [
+        {
+          "name": "Arjun Kanungo",
+          "url": "https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa"
+        },
+        {
+          "name": "Prince Sharma",
+          "url": "https://open.spotify.com/artist/2FMda77WYJdpehvWbSmMyP"
+        },
+        {
+          "name": "Rahul Sathu",
+          "url": "https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153068,
+      "name": "Inni Soni",
+      "url": "https://open.spotify.com/track/1Q3XjrxCIFg5CRjsCeRjn8"
+    },
+    {
+      "album": {
         "name": "Insane",
         "url": "https://open.spotify.com/album/6EaHaUoczRLrDl5uqxSFW3"
       },
@@ -15394,7 +15420,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 188166,
       "name": "Tainu Khabar Nahi - From \"Munjya\"",
       "url": "https://open.spotify.com/track/5npFBWhVs3VVlc0nY5xQMA"

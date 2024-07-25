@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Tomo Como Rey en portada.",
-  "num_followers": 463038,
+  "num_followers": 463102,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "Amor por el Ska",
-        "url": "https://open.spotify.com/album/5bHFgnkMD0aoNIEMYkH9CO"
-      },
-      "artists": [
-        {
-          "name": "Skaparapid",
-          "url": "https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS"
-        },
-        {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
-        }
-      ],
-      "duration_ms": 267865,
-      "name": "Amor por el Ska",
-      "url": "https://open.spotify.com/track/1gIabnh7fMtyMRKsRTsy1p"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
         "name": "Qui\u00e9n Devuelve El Tiempo?",
         "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 210164,
       "name": "Qui\u00e9n devuelve el tiempo?",
       "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "Amor por el Ska",
+        "url": "https://open.spotify.com/album/5bHFgnkMD0aoNIEMYkH9CO"
+      },
+      "artists": [
+        {
+          "name": "Skaparapid",
+          "url": "https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS"
+        },
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        }
+      ],
+      "duration_ms": 267865,
+      "name": "Amor por el Ska",
+      "url": "https://open.spotify.com/track/1gIabnh7fMtyMRKsRTsy1p"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "As\u00ed No Se Puede Querer",
-        "url": "https://open.spotify.com/album/7hZn0928vV65wuZLP8PgRw"
-      },
-      "artists": [
-        {
-          "name": "Los Inconformes",
-          "url": "https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy"
-        }
-      ],
-      "duration_ms": 216859,
-      "name": "As\u00ed No Se Puede Querer",
-      "url": "https://open.spotify.com/track/2qqql02hJQMtSmBprjvj3e"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
         "name": "Radical Park - Episodio 1",
         "url": "https://open.spotify.com/album/4FrZeUF3cWGyZ4HAwhQ79a"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 179070,
       "name": "Esta es Mi Vida",
       "url": "https://open.spotify.com/track/4dr0yrw0TkRigczw9nXjx4"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "As\u00ed No Se Puede Querer",
+        "url": "https://open.spotify.com/album/7hZn0928vV65wuZLP8PgRw"
+      },
+      "artists": [
+        {
+          "name": "Los Inconformes",
+          "url": "https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy"
+        }
+      ],
+      "duration_ms": 216859,
+      "name": "As\u00ed No Se Puede Querer",
+      "url": "https://open.spotify.com/track/2qqql02hJQMtSmBprjvj3e"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1379,22 +1379,18 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "40Tone",
-        "url": "https://open.spotify.com/album/1gnxgQefmYaU1A8j5X59BI"
+        "name": "El \u00c1tico",
+        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
       },
       "artists": [
         {
-          "name": "Felices Adicciones",
-          "url": "https://open.spotify.com/artist/1pKW7UYKScg5YdR6rGsYma"
-        },
-        {
-          "name": "Alexis Korfiatis",
-          "url": "https://open.spotify.com/artist/4oRksQQyxL9dvR3QwK5pcU"
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
         }
       ],
-      "duration_ms": 127181,
-      "name": "40Tone",
-      "url": "https://open.spotify.com/track/6YVKjXSrlV3tNAZefiSFWu"
+      "duration_ms": 242813,
+      "name": "El \u00c1tico",
+      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1415,6 +1411,26 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
+        "name": "40Tone",
+        "url": "https://open.spotify.com/album/1gnxgQefmYaU1A8j5X59BI"
+      },
+      "artists": [
+        {
+          "name": "Felices Adicciones",
+          "url": "https://open.spotify.com/artist/1pKW7UYKScg5YdR6rGsYma"
+        },
+        {
+          "name": "Alexis Korfiatis",
+          "url": "https://open.spotify.com/artist/4oRksQQyxL9dvR3QwK5pcU"
+        }
+      ],
+      "duration_ms": 127181,
+      "name": "40Tone",
+      "url": "https://open.spotify.com/track/6YVKjXSrlV3tNAZefiSFWu"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
         "name": "No Pasa Nada",
         "url": "https://open.spotify.com/album/3pGMHJWQi2hhfkF4RvADCN"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 170529,
       "name": "No Pasa Nada",
       "url": "https://open.spotify.com/track/59jQsqBgaRM6keNNXqsaQG"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "El \u00c1tico",
-        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
-      },
-      "artists": [
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "El \u00c1tico",
-      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
+        "name": "Todo Alg\u00fan D\u00eda Termina",
+        "url": "https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "duration_ms": 248014,
+      "name": "Todo Alg\u00fan D\u00eda Termina",
+      "url": "https://open.spotify.com/track/45YYcOVAIAFxGV0kR4pMq0"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
         "name": "El Diablo",
         "url": "https://open.spotify.com/album/02yBHrVxOXoF3v2z2wh0iW"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 142252,
       "name": "El Diablo",
       "url": "https://open.spotify.com/track/1lY9ZV5TaqoNsFCr3Mm26b"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "Todo Alg\u00fan D\u00eda Termina",
-        "url": "https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 248014,
-      "name": "Todo Alg\u00fan D\u00eda Termina",
-      "url": "https://open.spotify.com/track/45YYcOVAIAFxGV0kR4pMq0"
     },
     {
       "added_at": "2024-07-19 06:00:00",

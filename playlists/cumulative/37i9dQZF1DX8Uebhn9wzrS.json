@@ -4365,6 +4365,24 @@
     },
     {
       "album": {
+        "name": "Broke2broken",
+        "url": "https://open.spotify.com/album/2PZiaTEs4mtUuxGMCdOFrJ"
+      },
+      "artists": [
+        {
+          "name": "Justnormal",
+          "url": "https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160235,
+      "name": "Broke2broken",
+      "url": "https://open.spotify.com/track/2hiFXcFHL1lIMzZV7xl16p"
+    },
+    {
+      "album": {
         "name": "Broken Nightlight",
         "url": "https://open.spotify.com/album/1oJ0uOKavKhG54Kinen1jg"
       },
@@ -11678,7 +11696,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 76800,
       "name": "Fly Kicks",
       "url": "https://open.spotify.com/track/0B3IJUr998eB7ILxvZbv7d"
@@ -12788,6 +12806,24 @@
       "duration_ms": 81951,
       "name": "Gasteria",
       "url": "https://open.spotify.com/track/4eWxdRtALlb44ggdcWVW8K"
+    },
+    {
+      "album": {
+        "name": "gelato",
+        "url": "https://open.spotify.com/album/23c7V8NdEmL48XQP3fVHC7"
+      },
+      "artists": [
+        {
+          "name": "haywrd",
+          "url": "https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146375,
+      "name": "gelato",
+      "url": "https://open.spotify.com/track/6Dz6mJnjVRnpA92Ab94bgq"
     },
     {
       "album": {
@@ -22066,7 +22102,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 160000,
       "name": "Nattchill",
       "url": "https://open.spotify.com/track/3fHa2jk3OL2KtLTAFk2qst"

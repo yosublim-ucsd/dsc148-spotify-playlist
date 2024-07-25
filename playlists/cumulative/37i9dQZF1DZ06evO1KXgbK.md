@@ -2,7 +2,7 @@
 
 ### [This Is Dolly Parton](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KXgbK)
 
-> This is: Dolly Parton\. Alle wichtigen Tracks in einer Playlist.
+> This is Dolly Parton\. The essential tracks, all in one playlist.
 
 61 songs - 3 hr 20 min
 

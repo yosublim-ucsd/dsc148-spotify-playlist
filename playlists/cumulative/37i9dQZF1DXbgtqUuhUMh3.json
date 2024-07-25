@@ -3337,6 +3337,24 @@
     },
     {
       "album": {
+        "name": "Thumma Ana",
+        "url": "https://open.spotify.com/album/3rRbly6zfbFZgbDTfDKKAv"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248674,
+      "name": "Ensan",
+      "url": "https://open.spotify.com/track/21xIjsztSuItovFkeCOL96"
+    },
+    {
+      "album": {
         "name": "Ensan 2ali",
         "url": "https://open.spotify.com/album/7gm6nGEXUhSOKdQbm6cG2M"
       },
@@ -3406,7 +3424,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 212250,
       "name": "Enta Teabal",
       "url": "https://open.spotify.com/track/0MeHEYGoomiMpbF7HdIKJI"

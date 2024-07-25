@@ -2,7 +2,7 @@
 
 ### [This Is John Williamson](https://open.spotify.com/playlist/37i9dQZF1DZ06evO38AmhQ)
 
-> This is John Williamson\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is John Williamson\. The essential tracks, all in one playlist.
 
 74 songs - 4 hr 10 min
 

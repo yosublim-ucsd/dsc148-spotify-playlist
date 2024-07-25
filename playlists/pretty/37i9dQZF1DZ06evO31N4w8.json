@@ -1,12 +1,12 @@
 {
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 57731,
+  "num_followers": 57740,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zp2hAAAAAACTvi9bbIB/jTbbadPMZXJn",
+  "snapshot_id": "Zp7ygAAAAADMUG4z+S0ZPrzCWqsCADtU",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Maquinista",
-        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 170693,
-      "name": "Noches Eternas",
-      "url": "https://open.spotify.com/track/7k11lO5JBXkkQfKBExqVGh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Lo Bueno Lo Mejor",
         "url": "https://open.spotify.com/album/3GpaL6ZqUdaCxaGrGYOA54"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 217373,
       "name": "No Me Hagas Menos",
       "url": "https://open.spotify.com/track/5CpAD6mT0lOdUkZHIqPGCq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Maquinista",
+        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 170693,
+      "name": "Noches Eternas",
+      "url": "https://open.spotify.com/track/7k11lO5JBXkkQfKBExqVGh"
     },
     {
       "added_at": null,

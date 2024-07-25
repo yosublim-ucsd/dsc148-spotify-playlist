@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92196,
+  "num_followers": 92197,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -755,26 +755,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Lucy Rider",
-        "url": "https://open.spotify.com/album/5CD61BtzWq6aPXULvnAnve"
-      },
-      "artists": [
-        {
-          "name": "Alberta Cross",
-          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
-        },
-        {
-          "name": "Katie Melua",
-          "url": "https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Lucy Rider",
-      "url": "https://open.spotify.com/track/7JhHxjF89Nd3c6MEtjXx24"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/5Eia9IVqXdnCdYlH4bYIqy"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 190920,
       "name": "DNA",
       "url": "https://open.spotify.com/track/7K0wD27Wui57iJGEVoKCkF"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Lucy Rider",
+        "url": "https://open.spotify.com/album/5CD61BtzWq6aPXULvnAnve"
+      },
+      "artists": [
+        {
+          "name": "Alberta Cross",
+          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
+        },
+        {
+          "name": "Katie Melua",
+          "url": "https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Lucy Rider",
+      "url": "https://open.spotify.com/track/7JhHxjF89Nd3c6MEtjXx24"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Whenever Until Forever",
+        "url": "https://open.spotify.com/album/5Usc0cjLbxZIYTHITrYzpH"
+      },
+      "artists": [
+        {
+          "name": "Andreas Aleman",
+          "url": "https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "Whenever Until Forever",
+      "url": "https://open.spotify.com/track/37EADDLCH83KNNW0ydwhNO"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Sommar utan slut",
         "url": "https://open.spotify.com/album/5BRyqlq7mMnNWE2mHSDxRF"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 193200,
       "name": "Vi kommer aldrig",
       "url": "https://open.spotify.com/track/7kGS4wTFv3Mzu41Uxbcei8"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Whenever Until Forever",
-        "url": "https://open.spotify.com/album/5Usc0cjLbxZIYTHITrYzpH"
-      },
-      "artists": [
-        {
-          "name": "Andreas Aleman",
-          "url": "https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "Whenever Until Forever",
-      "url": "https://open.spotify.com/track/37EADDLCH83KNNW0ydwhNO"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Hey Little Love",
+        "url": "https://open.spotify.com/album/6xTYdiLnMPxflJl2NeJOF9"
+      },
+      "artists": [
+        {
+          "name": "SI EVOL",
+          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Hey Little Love",
+      "url": "https://open.spotify.com/track/5Qbrs0cLLZU771kNUhSfnr"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Dekadens",
         "url": "https://open.spotify.com/album/1cn8W6KWoiDuEnb2TYCyIJ"
       },
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Hey Little Love",
-        "url": "https://open.spotify.com/album/6xTYdiLnMPxflJl2NeJOF9"
-      },
-      "artists": [
-        {
-          "name": "SI EVOL",
-          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Hey Little Love",
-      "url": "https://open.spotify.com/track/5Qbrs0cLLZU771kNUhSfnr"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "What You\u2019re Saying To Me",
         "url": "https://open.spotify.com/album/5K5czoyYx8Dk2RQQvXegDH"
       },
@@ -1419,18 +1419,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "\u00d6gonblick i livet",
-        "url": "https://open.spotify.com/album/7ejzXc7bRHlth4dEGcyrje"
+        "name": "Draw Me Closer 2.0",
+        "url": "https://open.spotify.com/album/4Q9n0l1o6u76glGTDQBPfN"
       },
       "artists": [
         {
-          "name": "Jan Johansen",
-          "url": "https://open.spotify.com/artist/4Nd6R1oljERR3D2893MpJf"
+          "name": "Christoffer Hiding",
+          "url": "https://open.spotify.com/artist/5JLv8I5m5yPUC7Tnw36g7a"
+        },
+        {
+          "name": "Chapee",
+          "url": "https://open.spotify.com/artist/1l63szZeUpN1m87MOD1u7K"
         }
       ],
-      "duration_ms": 194586,
-      "name": "\u00d6gonblick i livet",
-      "url": "https://open.spotify.com/track/2dZoKGCLtsUzVlxQvIyjFl"
+      "duration_ms": 309166,
+      "name": "Draw Me Closer 2.0",
+      "url": "https://open.spotify.com/track/3bGe284cdgFwa0nMOJ9uQA"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1447,6 +1451,22 @@
       "duration_ms": 174631,
       "name": "Sommarens famn",
       "url": "https://open.spotify.com/track/5xLNxhh0HZ1KrV0fV4A27u"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "\u00d6gonblick i livet",
+        "url": "https://open.spotify.com/album/7ejzXc7bRHlth4dEGcyrje"
+      },
+      "artists": [
+        {
+          "name": "Jan Johansen",
+          "url": "https://open.spotify.com/artist/4Nd6R1oljERR3D2893MpJf"
+        }
+      ],
+      "duration_ms": 194586,
+      "name": "\u00d6gonblick i livet",
+      "url": "https://open.spotify.com/track/2dZoKGCLtsUzVlxQvIyjFl"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1495,26 +1515,6 @@
       "duration_ms": 265000,
       "name": "Ett Glas Till",
       "url": "https://open.spotify.com/track/1KEbdZihYjyr8LvxGalGYR"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Draw Me Closer 2.0",
-        "url": "https://open.spotify.com/album/4Q9n0l1o6u76glGTDQBPfN"
-      },
-      "artists": [
-        {
-          "name": "Christoffer Hiding",
-          "url": "https://open.spotify.com/artist/5JLv8I5m5yPUC7Tnw36g7a"
-        },
-        {
-          "name": "Chapee",
-          "url": "https://open.spotify.com/artist/1l63szZeUpN1m87MOD1u7K"
-        }
-      ],
-      "duration_ms": 309166,
-      "name": "Draw Me Closer 2.0",
-      "url": "https://open.spotify.com/track/3bGe284cdgFwa0nMOJ9uQA"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Hummin' a Melody",
-        "url": "https://open.spotify.com/album/1rKwnTfec0E0AI8dhJUVr7"
-      },
-      "artists": [
-        {
-          "name": "Isaac And The Soul Company",
-          "url": "https://open.spotify.com/artist/2xvgiQmoknkwrQmSSOlvld"
-        }
-      ],
-      "duration_ms": 167300,
-      "name": "Hummin' a Melody",
-      "url": "https://open.spotify.com/track/05yiHrwmHDqyjOhLagO4ik"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Dom kallar henne mamma",
         "url": "https://open.spotify.com/album/4eJxnnRLwFL0XzWxC1Eaz1"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 277176,
       "name": "Dom kallar henne mamma",
       "url": "https://open.spotify.com/track/45USEZKMJbftMlYbLjf3Te"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Hummin' a Melody",
+        "url": "https://open.spotify.com/album/1rKwnTfec0E0AI8dhJUVr7"
+      },
+      "artists": [
+        {
+          "name": "Isaac And The Soul Company",
+          "url": "https://open.spotify.com/artist/2xvgiQmoknkwrQmSSOlvld"
+        }
+      ],
+      "duration_ms": 167300,
+      "name": "Hummin' a Melody",
+      "url": "https://open.spotify.com/track/05yiHrwmHDqyjOhLagO4ik"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1787,6 +1787,26 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Midsummer Day",
+        "url": "https://open.spotify.com/album/7qGzOgLpi9w3PBorpCKFbD"
+      },
+      "artists": [
+        {
+          "name": "Max Niclasson",
+          "url": "https://open.spotify.com/artist/3YFWkjFDCNVwkwcbaZuzhQ"
+        },
+        {
+          "name": "Lila Arora Niclasson",
+          "url": "https://open.spotify.com/artist/1Ba7x99Wc4Kr5H48wKop8w"
+        }
+      ],
+      "duration_ms": 156066,
+      "name": "Midsummer Day",
+      "url": "https://open.spotify.com/track/1ui8U7xoaD0T6i8CxC6GIz"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "True Romantic",
         "url": "https://open.spotify.com/album/3qK8CbdoXxqT1MJHvOGTIM"
       },
@@ -1799,22 +1819,6 @@
       "duration_ms": 208500,
       "name": "True Romantic",
       "url": "https://open.spotify.com/track/0L9q3REkq7p1UEONWON7Vn"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Doftade Dior",
-        "url": "https://open.spotify.com/album/54mXPlUvmsoz3XgcpJFUxA"
-      },
-      "artists": [
-        {
-          "name": "Max Niclasson",
-          "url": "https://open.spotify.com/artist/3YFWkjFDCNVwkwcbaZuzhQ"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Doftade Dior",
-      "url": "https://open.spotify.com/track/0S00zJNQYnZKBN9tSBOrsG"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1835,22 +1839,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Endless Road",
-        "url": "https://open.spotify.com/album/5QrjeIezUD823aU34vqMmv"
-      },
-      "artists": [
-        {
-          "name": "NSH",
-          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
-        }
-      ],
-      "duration_ms": 163594,
-      "name": "Endless Road",
-      "url": "https://open.spotify.com/track/2oKuxUV6Q5XdHuc3fYpG06"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Good Day",
         "url": "https://open.spotify.com/album/0JDAgonYkc6HaZB4RHSCIq"
       },
@@ -1867,22 +1855,34 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Midsummer Day",
-        "url": "https://open.spotify.com/album/7qGzOgLpi9w3PBorpCKFbD"
+        "name": "Endless Road",
+        "url": "https://open.spotify.com/album/5QrjeIezUD823aU34vqMmv"
+      },
+      "artists": [
+        {
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+        }
+      ],
+      "duration_ms": 163594,
+      "name": "Endless Road",
+      "url": "https://open.spotify.com/track/2oKuxUV6Q5XdHuc3fYpG06"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Doftade Dior",
+        "url": "https://open.spotify.com/album/54mXPlUvmsoz3XgcpJFUxA"
       },
       "artists": [
         {
           "name": "Max Niclasson",
           "url": "https://open.spotify.com/artist/3YFWkjFDCNVwkwcbaZuzhQ"
-        },
-        {
-          "name": "Lila Arora Niclasson",
-          "url": "https://open.spotify.com/artist/1Ba7x99Wc4Kr5H48wKop8w"
         }
       ],
-      "duration_ms": 156066,
-      "name": "Midsummer Day",
-      "url": "https://open.spotify.com/track/1ui8U7xoaD0T6i8CxC6GIz"
+      "duration_ms": 235000,
+      "name": "Doftade Dior",
+      "url": "https://open.spotify.com/track/0S00zJNQYnZKBN9tSBOrsG"
     },
     {
       "added_at": "2024-06-27 22:00:00",

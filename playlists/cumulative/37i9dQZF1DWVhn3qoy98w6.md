@@ -4,7 +4,7 @@
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: arrecí0.
 
-4,903 songs - 10 day 12 hr 9 min
+4,904 songs - 10 day 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2499,7 +2499,7 @@
 | [Lovers](https://open.spotify.com/track/4CS0tMTZ0jtSDeu4317WKe) | [Dharmacide](https://open.spotify.com/artist/6Opwdl6TcMEonIbtztjl0k) | [Lovers](https://open.spotify.com/album/1VezLfXQD0isfO7BJv97aa) | 3:47 | 2023-06-13 | 2023-06-21 |
 | [LOW](https://open.spotify.com/track/5Gai760b8qgPBxx4UWDOSf) | [G\. Parsi](https://open.spotify.com/artist/1PpkxcUeZ5Fy9DEG2ikZei) | [LOW](https://open.spotify.com/album/1XY2X3Hgf01DmN6FxAkywH) | 2:55 | 2024-01-09 | 2024-01-17 |
 | [Low](https://open.spotify.com/track/5aZUnv8mifl8QD0AWq9IPu) | [Julia Martín](https://open.spotify.com/artist/0Cd6hR083X2yeLLPwEWL4R) | [Low](https://open.spotify.com/album/5G6D4gqVXGU9DW2wNOpWqS) | 3:00 | 2023-06-20 | 2023-06-28 |
-| [Luces](https://open.spotify.com/track/6IB2ypx8cJRFLekOJEXIKx) | [Carmen Lillo](https://open.spotify.com/artist/6dZ6SsLs9gLmHASDFXTqNW), [BENGRO](https://open.spotify.com/artist/6QJVOWLF63OCXEHFbl9kAJ) | [Luces](https://open.spotify.com/album/75pPnHC5LBO5Uw22HQHGZn) | 2:52 | 2024-07-16 |  |
+| [Luces](https://open.spotify.com/track/6IB2ypx8cJRFLekOJEXIKx) | [Carmen Lillo](https://open.spotify.com/artist/6dZ6SsLs9gLmHASDFXTqNW), [BENGRO](https://open.spotify.com/artist/6QJVOWLF63OCXEHFbl9kAJ) | [Luces](https://open.spotify.com/album/75pPnHC5LBO5Uw22HQHGZn) | 2:52 | 2024-07-16 | 2024-07-25 |
 | [luces apagadas](https://open.spotify.com/track/7zONKrktgznWwaKBAu0dR3) | [LILO](https://open.spotify.com/artist/2vOgwKSMV0zl8HZT3dnsBv) | [luces apagadas](https://open.spotify.com/album/2YPGMLgxScOlui7jSs97zh) | 2:55 | 2024-01-02 | 2024-01-10 |
 | [Luces de Neón](https://open.spotify.com/track/1MWBH8OqKg3YZaQs489ylU) | [Luques](https://open.spotify.com/artist/1vylSGSaqmyZkj3Ci4TFR6), [Ravenger.](https://open.spotify.com/artist/2PANiwk7wg13SSkvflsJTE), [Cybr](https://open.spotify.com/artist/7BtIhOpEk0fl2f7fH209kZ) | [Luces de Neón](https://open.spotify.com/album/0cLn1O04vdnPRdwD89rkNy) | 2:25 | 2024-07-16 | 2024-07-24 |
 | [LUCES EN EL CIELO](https://open.spotify.com/track/1HeOKXq0om1gY65DVhX8zY) | [NEURA](https://open.spotify.com/artist/6rVCgRt8lSRSfx4CLaiKrU) | [LUCES EN EL CIELO](https://open.spotify.com/album/7f7xJujeRi4bbE8qNlUfrd) | 2:54 | 2024-04-02 | 2024-04-17 |
@@ -3121,6 +3121,7 @@
 | [No quieres verlo](https://open.spotify.com/track/6eYcxlVf9F558cvK5V5eZZ) | [L E O](https://open.spotify.com/artist/3NlTAtfmLjoRSJ0vzck3G2) | [Sintético](https://open.spotify.com/album/2tZaSHeutgcFWPSsWD5AGS) | 3:30 | 2024-01-23 | 2024-01-31 |
 | [No Quiero Decidir](https://open.spotify.com/track/1dNUPCHhIrugUZWtDYOvPx) | [Seo Jaleo](https://open.spotify.com/artist/0wUAR1OTy7vzf5yUddtc5r), [Shama](https://open.spotify.com/artist/4paX5a2On2c6qn6V1l6c11) | [SLLAS](https://open.spotify.com/album/7JFIC1mfPwJ3PSTvhH9mwP) | 2:21 | 2024-07-16 |  |
 | [No Quiero Llorar](https://open.spotify.com/track/2kml6x1jk0EGq1AV4PkUYB) | [Sabrin](https://open.spotify.com/artist/62oKZLHK7JZ9qPjgkkgzVM) | [No Quiero Llorar](https://open.spotify.com/album/1ocEvveaVyTpfkrdk5RKcI) | 2:57 | 2022-07-19 | 2022-08-10 |
+| [No Quiero Salir](https://open.spotify.com/track/0MmJHqdaz54NwGdE4XojYL) | [claramente](https://open.spotify.com/artist/0xoT7BI442Mvz1D3TwgCXZ) | [No Quiero Salir](https://open.spotify.com/album/05hG8xvs2z2Uc9f7VkOhlh) | 3:14 | 2024-07-24 |  |
 | [No Quisiste \- Yung Beef Remix](https://open.spotify.com/track/2NFI17oIo6feFFYnUiIYp5) | [Ciervoss](https://open.spotify.com/artist/1CAML4WFHPiDUjW2uByMu3) | [No Quisiste \(Yung Beef Remix\)](https://open.spotify.com/album/0DKuTUSUU9RDXWIUB6Yml8) | 1:43 | 2022-11-22 | 2022-12-01 |
 | [No recuerdo nada](https://open.spotify.com/track/6VR8TM90KlhrTHxMk5FM0A) | [Perfecto Miserable](https://open.spotify.com/artist/48z3nG28oOK5eXgDOCjcon) | [No recuerdo nada](https://open.spotify.com/album/6duqupmzdTQzhUWNhIHhF4) | 2:45 | 2023-01-31 | 2023-02-08 |
 | [No retorno](https://open.spotify.com/track/4e5GPB2Jd2Xt5bUVAQu3sB) | [Yogures de Coco](https://open.spotify.com/artist/2VajEouSoUT0C3NSx3Ocrl) | [No retorno](https://open.spotify.com/album/6AWF2sTPeGiWomtV3lny6r) | 3:32 | 2023-03-07 | 2023-03-16 |

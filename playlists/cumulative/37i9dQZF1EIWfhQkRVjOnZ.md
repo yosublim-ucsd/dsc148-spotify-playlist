@@ -2,7 +2,7 @@
 
 ### [Destroy The Runner Mix](https://open.spotify.com/playlist/37i9dQZF1EIWfhQkRVjOnZ)
 
-> <a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIUIEDIU11pe6>Forevermore</a>
+> <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a>, <a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a> and <a href=spotify:playlist:37i9dQZF1EIUIEDIU11pe6>Forevermore</a>
 
 129 songs - 7 hr 45 min
 
@@ -40,7 +40,7 @@
 | [Collision](https://open.spotify.com/track/0tnNBASLBWbtQmF5gymU8R) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Frail Words Collapse](https://open.spotify.com/album/1atsQ3zl1LR122Y1UZajsE) | 3:11 | 2024-05-02 | 2024-06-04 |
 | [Columbia](https://open.spotify.com/track/4GWGWr9Uh895hvHJKaoiXd) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Saints](https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj) | 4:29 | 2024-04-23 |  |
 | [Condemned](https://open.spotify.com/track/3Gr6fisu6QAHN49IHD6lGC) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [The Powerless Rise](https://open.spotify.com/album/4vJxMmzmQsm0lvVo8QF6Lk) | 2:49 | 2024-04-23 | 2024-05-10 |
-| [Confined](https://open.spotify.com/track/7eWuBTL35BSBBiIjWJk0KB) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shadows Are Security](https://open.spotify.com/album/3D8V1PlxgpX05jyHLv6e4P) | 3:10 | 2024-05-09 |  |
+| [Confined](https://open.spotify.com/track/7eWuBTL35BSBBiIjWJk0KB) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shadows Are Security](https://open.spotify.com/album/3D8V1PlxgpX05jyHLv6e4P) | 3:10 | 2024-05-09 | 2024-07-25 |
 | [Creature](https://open.spotify.com/track/2kH4Tyy2DUT9aa55SWgjkI) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [A Death\-Grip On Yesterday](https://open.spotify.com/album/2S7Gg4uwg8Xh7WC4abXpAK) | 2:59 | 2024-04-23 | 2024-05-02 |
 | [Crumbs For The Murder](https://open.spotify.com/track/10ibre8aP15qdSCopmoZsU) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 3:32 | 2024-04-23 |  |
 | [Day in Day Out](https://open.spotify.com/track/53GxYXHHRJG6Sj6U74mJ8H) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Here and Now](https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3) | 3:10 | 2024-04-25 | 2024-06-14 |
@@ -74,7 +74,7 @@
 | [Live in Love](https://open.spotify.com/track/7GKj55k2hMsQ983yH5LnxB) | [Times Of Grace](https://open.spotify.com/artist/0CfztphU9FWmAhGocFrrYC) | [The Hymn of a Broken Man](https://open.spotify.com/album/0Fgm0GE1K43soqeminCy4R) | 3:49 | 2024-04-23 | 2024-07-06 |
 | [Losing Sight](https://open.spotify.com/track/21lljWLLI0vIPrco0kQNoV) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shadows Are Security](https://open.spotify.com/album/3D8V1PlxgpX05jyHLv6e4P) | 3:23 | 2024-04-23 | 2024-06-04 |
 | [Luxuria](https://open.spotify.com/track/0YE7IaIa9D2U0PVBG2R7nE) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 3:20 | 2024-04-23 |  |
-| [Masses of a Dying Breed](https://open.spotify.com/track/4GmesNy7lGgOLmwtooLHWQ) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Monument](https://open.spotify.com/album/7MaZpVGGdWnqOrAdWmARV4) | 3:59 | 2024-07-22 | 2024-07-23 |
+| [Masses of a Dying Breed](https://open.spotify.com/track/4GmesNy7lGgOLmwtooLHWQ) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Monument](https://open.spotify.com/album/7MaZpVGGdWnqOrAdWmARV4) | 3:59 | 2024-07-22 |  |
 | [Meaning in Tragedy](https://open.spotify.com/track/1oe7vtdnSYSh2po2YGkXQ3) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shadows Are Security](https://open.spotify.com/album/3D8V1PlxgpX05jyHLv6e4P) | 3:12 | 2024-04-23 |  |
 | [Monuments](https://open.spotify.com/track/3Hn8ytC1YNKeeIBvYeolvE) | [Corpus Christi](https://open.spotify.com/artist/66jyCx26AB2Yqeu8GY8skR) | [A Feast For Crows](https://open.spotify.com/album/6Tmkg923Sagp74VbheU7Lf) | 3:55 | 2024-07-12 | 2024-07-13 |
 | [Moths and Rust](https://open.spotify.com/track/7nVVmhmkcpGGaPfIZzJqNm) | [Forevermore](https://open.spotify.com/artist/1VIF9LpXxJCjFUVoc9LMPB) | [Moths and Rust](https://open.spotify.com/album/1ZDWYiIz1KC4uvuAyB9bZH) | 3:08 | 2024-05-18 |  |
@@ -94,12 +94,12 @@
 | [Returning Empty Handed](https://open.spotify.com/track/4rDwTksjXHBngObS3cXAX0) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Define The Great Line](https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6) | 4:27 | 2024-05-05 | 2024-05-06 |
 | [Rose Among The Ashes](https://open.spotify.com/track/4jZNdbXOohNNPMRbaybFQS) | [Inhale Exhale](https://open.spotify.com/artist/5DfSyvaESBfcTdAOQOJWfD) | [The Lost, The Sick, The Sacred](https://open.spotify.com/album/2jgHxWbM646hmBqaJCXb0s) | 2:20 | 2024-05-16 |  |
 | [Saints](https://open.spotify.com/track/1YtHb3yDgwwZDMczpYr20n) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Saints](https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj) | 3:59 | 2024-04-23 |  |
-| [Say Goodbye](https://open.spotify.com/track/1HinPKX8MxzZjN9hHNupzc) | [I Killed The Prom Queen](https://open.spotify.com/artist/3DY26PgCL4tKVUPQBtBWei) | [Music for the Recently Deceased](https://open.spotify.com/album/6GohKHN5kgvJWB4O83pLXY) | 4:12 | 2024-04-23 |  |
+| [Say Goodbye](https://open.spotify.com/track/1HinPKX8MxzZjN9hHNupzc) | [I Killed The Prom Queen](https://open.spotify.com/artist/3DY26PgCL4tKVUPQBtBWei) | [Music for the Recently Deceased](https://open.spotify.com/album/6GohKHN5kgvJWB4O83pLXY) | 4:12 | 2024-04-23 | 2024-07-25 |
 | [Separate](https://open.spotify.com/track/48OcLHYfQUCCbSSvFjg7nx) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Saints](https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj) | 3:11 | 2024-04-23 |  |
 | [Seven Thousand Miles for What](https://open.spotify.com/track/6TdCP5Q69EP3zO9bDzlAMO) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Of Mice & Men](https://open.spotify.com/album/5I01RpDS7Thw5zEABRTgxL) | 2:53 | 2024-04-24 | 2024-06-14 |
 | [Severed Ties Yield Severed Heads](https://open.spotify.com/track/3eQkdO24L0yxKQj9Y0pd1m) | [It Dies Today](https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC) | [The Caitiff Choir](https://open.spotify.com/album/0EZB1xIDFvMnTLKI4YdlAb) | 3:02 | 2024-05-16 |  |
 | [Shekinah](https://open.spotify.com/track/2Zui9klgDIXEcEUGK9Fftr) | [Saving Grace](https://open.spotify.com/artist/0oqUjyJPQrTXrgijOX7plI) | [The King Is Coming](https://open.spotify.com/album/4fYladVeMXXkBIELsXUIgq) | 3:49 | 2024-05-16 | 2024-05-26 |
-| [Solid Ground](https://open.spotify.com/track/1icI4F8fzvF0APPJHfyu2w) | [For All Eternity](https://open.spotify.com/artist/5dAJhja3GDIAnA3YUbI27c) | [Beyond the Gates](https://open.spotify.com/album/42zKdunwvqKiWWd6Tz5BMP) | 3:43 | 2024-05-16 | 2024-07-13 |
+| [Solid Ground](https://open.spotify.com/track/1icI4F8fzvF0APPJHfyu2w) | [For All Eternity](https://open.spotify.com/artist/5dAJhja3GDIAnA3YUbI27c) | [Beyond the Gates](https://open.spotify.com/album/42zKdunwvqKiWWd6Tz5BMP) | 3:43 | 2024-05-16 |  |
 | [Son Of The Morning](https://open.spotify.com/track/5ZsMbyYP6xOX3tmG10GlT7) | [Oh, Sleeper](https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7) | [Son Of The Morning](https://open.spotify.com/album/0gcMOIqISuu9lWZAuFXAuJ) | 3:25 | 2024-05-05 |  |
 | [Song For The Broken](https://open.spotify.com/track/2ORNUM2HttdH7QipiUZ2Eq) | [Close Your Eyes](https://open.spotify.com/artist/4EJdKdDfQ0XQ4YBhh12xZe) | [We Will Overcome](https://open.spotify.com/album/09as8XYEwT9HJV7kc6zAmO) | 4:09 | 2024-04-27 | 2024-05-03 |
 | [Sound Of Reason](https://open.spotify.com/track/3ZSuICKIvTVftPjPRYJWI0) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Saints](https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj) | 3:24 | 2024-04-23 |  |

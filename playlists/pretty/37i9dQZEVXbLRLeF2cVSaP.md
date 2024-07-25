@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,151 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,169 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Где твоя любовь?](https://open.spotify.com/track/7bQHty20BhXNYgvFfp2jgW) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Животный мир](https://open.spotify.com/album/6nR8jV3aFQBLfzqWpSCDRP) | 2:53 |
 | 50 | [Эндорфин](https://open.spotify.com/track/4GbHNkWtWUIZAL0owhoz1i) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Жить в кайф](https://open.spotify.com/album/4ktDOYU0Jual1ELFTPhFd6) | 4:28 |
 
-Snapshot ID: `LjMVmAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LjRnGAAAAAAAAAAAAAAAAAAAAAAAAGVu`

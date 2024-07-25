@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Rauw Alejandro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,705 likes - 67 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,726 likes - 67 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 59 | [Perreo Pa’ Llevar](https://open.spotify.com/track/1fYjwanHbxFTcSzMuRTptH) | [Rik](https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh) | [Perreo Pa’ Llevar](https://open.spotify.com/album/7cnyDIDKpP0P6MfGi4W58Y) | 2:29 |
 | 60 | [Borojo](https://open.spotify.com/track/2NoiG2hVkxifpZ4zvF3Fek) | [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY), [Tenso Beats](https://open.spotify.com/artist/6TFVhalJ6wMABVUsVBaqge), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [D'Frutas](https://open.spotify.com/album/4AMhfpjLv8kvutKhayvfhP) | 2:40 |
 | 61 | [SAHARA](https://open.spotify.com/track/4NuYE4exbvPeJgr4gJiFUS) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [SAHARA](https://open.spotify.com/album/7B5RSeXqwIBWobYh3GRTjk) | 2:26 |
-| 62 | [Invencible](https://open.spotify.com/track/26zQHh6RCdP2cjuiWDzeXm) | [Alexis Play](https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv) | [Invencible](https://open.spotify.com/album/55ph6RFSjY71Tx2IRDzWkc) | 3:38 |
+| 62 | [Invencibles](https://open.spotify.com/track/26zQHh6RCdP2cjuiWDzeXm) | [Alexis Play](https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv) | [Invencibles](https://open.spotify.com/album/55ph6RFSjY71Tx2IRDzWkc) | 3:38 |
 | 63 | [No Me Hagas Seguir](https://open.spotify.com/track/6Ylv3sfQITiT3szgTKAXE6) | [More](https://open.spotify.com/artist/0vLXnXSAplgnptyE3jKnpi) | [No Me Hagas Seguir](https://open.spotify.com/album/2uFQET4CktuiLQjLKDFXQk) | 2:51 |
 | 64 | [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 |
 | 65 | [Caída Intermitente](https://open.spotify.com/track/2GT7YO160gC7YNxSJIFNmE) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Caída Intermitente](https://open.spotify.com/album/4dOagt8G7sjIIQpwyOweQu) | 2:13 |

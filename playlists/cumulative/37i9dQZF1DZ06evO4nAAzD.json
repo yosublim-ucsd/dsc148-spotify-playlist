@@ -518,10 +518,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 299690,
       "name": "Gelo No Copo",
       "url": "https://open.spotify.com/track/3M2GmNwZ3VLr8zFTjKJJnO"
+    },
+    {
+      "album": {
+        "name": "Gelo No Copo",
+        "url": "https://open.spotify.com/album/18PPKlwvLuUTvo92inqDfK"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Fe Ribeiro",
+          "url": "https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299690,
+      "name": "Gelo No Copo",
+      "url": "https://open.spotify.com/track/3saUWpM9m8eYHZWGj0ksZM"
     },
     {
       "album": {

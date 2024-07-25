@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT?si=Gcy3YRHuRC29m4ViXEwzjQ>Th&o.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,676 likes - 90 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,686 likes - 90 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

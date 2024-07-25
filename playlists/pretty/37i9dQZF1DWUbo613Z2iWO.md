@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Major Myjah
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,555 likes - 117 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,566 likes - 117 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

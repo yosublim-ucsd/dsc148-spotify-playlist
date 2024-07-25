@@ -178,7 +178,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 443080,
       "name": "Assured",
       "url": "https://open.spotify.com/track/2yUD0XuUPhhM3l3M6if6Jh"
@@ -666,7 +666,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 403000,
       "name": "Deep Slope",
       "url": "https://open.spotify.com/track/3vnxDCohhQne2ae9RYbTZ6"
@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 317666,
       "name": "Giant Kingfisher of Paradise - Ocean Moon Mix",
       "url": "https://open.spotify.com/track/32aMjeKuW4OG4I0njiw0GA"
@@ -1591,6 +1591,28 @@
     },
     {
       "album": {
+        "name": "Meet Me By The Ocean",
+        "url": "https://open.spotify.com/album/4etB8yFvsc5SUP8VTi8kv3"
+      },
+      "artists": [
+        {
+          "name": "Center of Attention",
+          "url": "https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs"
+        },
+        {
+          "name": "Natureland",
+          "url": "https://open.spotify.com/artist/6l27wM7jqW1eTLLwes4llb"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181199,
+      "name": "Meet Me By The Ocean",
+      "url": "https://open.spotify.com/track/0IDqWLPGDQ4ntcfzzEC2HG"
+    },
+    {
+      "album": {
         "name": "Articulation",
         "url": "https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm"
       },
@@ -1902,7 +1924,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 140440,
       "name": "Night Bus",
       "url": "https://open.spotify.com/track/0gslAiwYeAbpXUMOIbOCks"
@@ -1942,6 +1964,28 @@
       "duration_ms": 328469,
       "name": "Night Shineth As the Day",
       "url": "https://open.spotify.com/track/48RJ1YNLNeqMlPtFkHcHRm"
+    },
+    {
+      "album": {
+        "name": "Night Time",
+        "url": "https://open.spotify.com/album/54A7DM0NWHjjUGdPtQkgJP"
+      },
+      "artists": [
+        {
+          "name": "Unreaa",
+          "url": "https://open.spotify.com/artist/7em5iXXJfAo6rJKTpqKrQu"
+        },
+        {
+          "name": "Uni",
+          "url": "https://open.spotify.com/artist/582hP87cHThkhyvo5b9zMw"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61633,
+      "name": "Night Time",
+      "url": "https://open.spotify.com/track/6uz69ZNJP221a7DeAuDmll"
     },
     {
       "album": {
@@ -3142,7 +3186,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 320000,
       "name": "Sosnovka Voices",
       "url": "https://open.spotify.com/track/02MybcEfJAHajXL37Jz0DA"
@@ -3200,6 +3244,24 @@
       "duration_ms": 204000,
       "name": "Spending My Day Watching The Rain Fall",
       "url": "https://open.spotify.com/track/3ExUgdpQD8F7cRD5aRJo4q"
+    },
+    {
+      "album": {
+        "name": "Spiritual Rebirth",
+        "url": "https://open.spotify.com/album/3ORX2NR8gtiuGnWhI3qPB3"
+      },
+      "artists": [
+        {
+          "name": "Shimmer",
+          "url": "https://open.spotify.com/artist/1WLgLNSzeuOhkhfEZbSXM3"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261368,
+      "name": "Spiritual Rebirth",
+      "url": "https://open.spotify.com/track/2ALLkbd0ezHedYqc0lTmSm"
     },
     {
       "album": {
@@ -3366,7 +3428,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 256031,
       "name": "Swan and Morning Dews",
       "url": "https://open.spotify.com/track/2Ox800jaDGqxFW1KoDYE3N"
@@ -3478,7 +3540,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 211000,
       "name": "These Photos of My Children Make Me Want To Climb Into the Frame",
       "url": "https://open.spotify.com/track/57iJqdezc9CsyfC81DNHRF"
@@ -3876,7 +3938,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 230000,
       "name": "Water Door - Array Mbira Version",
       "url": "https://open.spotify.com/track/6tC9CjVTcJhbypDgVBFcFM"
@@ -3988,7 +4050,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 416000,
       "name": "Whisper at a Party",
       "url": "https://open.spotify.com/track/6pcotNzRig5MZqmYn6dvF2"
@@ -4046,7 +4108,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-25",
       "duration_ms": 368000,
       "name": "Woodland Encounter",
       "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"

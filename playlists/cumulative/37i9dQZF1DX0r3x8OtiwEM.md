@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-643 songs - 2 day 15 hr 34 min
+644 songs - 2 day 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,6 +477,7 @@
 | [Schwer](https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Schwer](https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10) | 3:34 | 2023-09-19 |  |
 | [See Me](https://open.spotify.com/track/00Aadz2JtbpEilrOUWsrVt) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [See Me](https://open.spotify.com/album/6lxCZOVCs1PPvXcEmp9Wed) | 3:40 | 2024-05-31 |  |
 | [Sektor](https://open.spotify.com/track/7ieGiNeMBSoAomdAAuOt6r) | [Marius Drescher](https://open.spotify.com/artist/4oU99ab1DTNIF3a9RHmnhf) | [Sektor](https://open.spotify.com/album/4gdGrl8AllxmdA0fU3p5vG) | 7:15 | 2019-08-29 | 2019-12-22 |
+| [Seraphina](https://open.spotify.com/track/7z34hBre7xaecEJkcoA2mE) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f), [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr) | [Seraphina EP](https://open.spotify.com/album/6AqYAOl7A25dwO4m4SHVV7) | 7:24 | 2024-07-19 |  |
 | [Serenade \- Radio Edit](https://open.spotify.com/track/3WrUwFdVmsQGJ15ytGFNw8) | [Tom Demac](https://open.spotify.com/artist/3758ZYkL9uiug7nHTQNWcP) | [Serenade](https://open.spotify.com/album/22fyTTuxua996UoZk41lft) | 5:03 | 2019-08-06\* | 2019-09-19 |
 | [Serendipity \- Niconé & Dirty Doering Remix](https://open.spotify.com/track/0YnlF7Vg46KDnhw72U5E1b) | [Roderic](https://open.spotify.com/artist/7wSzFq5CoNoCpzazDphDJs), [Isabel Sesma](https://open.spotify.com/artist/1PuVLpqkfMOATQGiZZrzb6), [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI), [Dirty Doering](https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea) | [It All Depends Remixes](https://open.spotify.com/album/0fVSt89rZkhirkNEgfoFp2) | 7:18 | 2020-01-16 | 2020-07-25 |
 | [Serene](https://open.spotify.com/track/1dcf0QKivMDYgnZSWoMQht) | [Austrek](https://open.spotify.com/artist/5o9ehF7eb3bPeKdf4LXUmz) | [Serene](https://open.spotify.com/album/1zRJ5Q0nj2yAuQoyvCDE2S) | 6:08 | 2019-09-19 | 2020-04-05 |
@@ -648,7 +649,7 @@
 | [You Are the Light \- Edit](https://open.spotify.com/track/5sfXJ86Ltiw0IGoNIkiEZa) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [You Are the Light](https://open.spotify.com/album/3RlqBAFQVNw7ixfLkaXTPB) | 4:09 | 2019-08-06\* | 2020-02-03 |
 | [You Shine \- Original mix](https://open.spotify.com/track/2UcVfsMkqwmOWewsRBPVvX) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [You Shine EP](https://open.spotify.com/album/55HDc5bpxKGUlyW6yvnYpj) | 6:43 | 2019-11-10 | 2020-04-12 |
 | [You Take My Hand](https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Jamie Irrepressible](https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU) | [You Take My Hand](https://open.spotify.com/album/3meERbSehneA03lgl071Io) | 5:15 | 2021-12-17 | 2024-06-26 |
-| [You’re So High \(10 Years On\)](https://open.spotify.com/track/59wygKiI3oZ1dQNlClWzeP) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [You’re So High \(10 Years On\)](https://open.spotify.com/album/08iIEsoNGBA4Q8oI3SDiDC) | 4:32 | 2023-11-11 |  |
+| [You’re So High \(10 Years On\)](https://open.spotify.com/track/59wygKiI3oZ1dQNlClWzeP) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [You’re So High \(10 Years On\)](https://open.spotify.com/album/08iIEsoNGBA4Q8oI3SDiDC) | 4:32 | 2023-11-11 | 2024-07-25 |
 | [Zeit](https://open.spotify.com/track/6ChwoTAhVHGyxyA3tyv5XI) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Zeit](https://open.spotify.com/album/7oa0a2bi6yztJOPJmIdHlA) | 7:42 | 2021-12-17 | 2022-02-09 |
 | [​so far away](https://open.spotify.com/track/25LH9N0JmgSYsV6eqJPy97) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [current collection of demos on my drive](https://open.spotify.com/album/7KOEj1tjY9zeL70zHJoYGt) | 4:04 | 2024-06-21 |  |
 

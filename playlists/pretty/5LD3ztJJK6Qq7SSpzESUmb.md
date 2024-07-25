@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LD3ztJJK6Qq7SSpzESUmb.md) - [plain]
 
 > The hottest new songs rocking Kerrang!'s world, updated every Friday!
 
-[Kerrang!](https://open.spotify.com/user/kerrangmagazine) - 6,169 likes - 20 songs - 1 hr 6 min
+[Kerrang!](https://open.spotify.com/user/kerrangmagazine) - 6,172 likes - 20 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/5LD3ztJJK6Qq7SSpzESUmb.md) - [plain]
 | 10 | [All In My Head](https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [All In My Head](https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX) | 3:21 |
 | 11 | [Fuck What You Heard](https://open.spotify.com/track/5WjbME5ZH3917e5KbF8QMS) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Fuck What You Heard](https://open.spotify.com/album/5rbWbdGyN4eA7xXkbzLnpI) | 3:17 |
 | 12 | [DOWN N OUT](https://open.spotify.com/track/3I7bQjEBfbyo7wI3AeF0eg) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [DOWN N OUT](https://open.spotify.com/album/6wkmm5YeCDnfIZoKXhLU98) | 2:23 |
-| 13 | [Knife Bouquet](https://open.spotify.com/track/5pnQXsBpGT8HwtATuA3nIl) | [Death Goals](https://open.spotify.com/artist/00I2SJI3kqtdl3IWdAPTk5), [Matt Reynolds](https://open.spotify.com/artist/6pL4z6QSZfokrCCRslx87g) | [Death Goals \- Knife Bouquet](https://open.spotify.com/album/36Yw3cI1B9NOePqZmAtTo5) | 4:30 |
+| 13 | [Knife Bouquet](https://open.spotify.com/track/5pnQXsBpGT8HwtATuA3nIl) | [Death Goals](https://open.spotify.com/artist/00I2SJI3kqtdl3IWdAPTk5), [Matt Reynolds](https://open.spotify.com/artist/6pL4z6QSZfokrCCRslx87g) | [Knife Bouquet](https://open.spotify.com/album/36Yw3cI1B9NOePqZmAtTo5) | 4:30 |
 | 14 | [Silhouettes](https://open.spotify.com/track/0ucw2yCDJqm5CAAlJmW53L) | [Giant Walker](https://open.spotify.com/artist/4Xatn9rQkv4mU47XRJ2SE0) | [Silhouettes](https://open.spotify.com/album/2kVXK0yxdMGH4qwdq2OeVt) | 4:49 |
 | 15 | [SIN MIEDO](https://open.spotify.com/track/4qAQTQH5lF4kINZ9JkURXp) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [SIN MIEDO](https://open.spotify.com/album/4NBSLYMhwbf5gUSc0ZHKQK) | 2:47 |
 | 16 | [Blood On The Stage](https://open.spotify.com/track/14Lwdc4hyUjF0HqRX3tLOY) | [Tuk Smith & The Restless Hearts](https://open.spotify.com/artist/1yidpkFGp3U77Wkb2Om6br) | [Blood On The Stage](https://open.spotify.com/album/2YND9V5DTAFWRlnpZjT2Ri) | 3:49 |
